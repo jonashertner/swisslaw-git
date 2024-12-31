@@ -4,11 +4,11 @@ title: "Ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d
 short: OEIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-26-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/fr"
 
 (OEIT)
 
-du 17 décembre 2014 (État le 1<sup>er</sup> juillet 2024)
+du 17 décembre 2014 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,13 +25,13 @@ vu les art. 15*a*, al. 1, 15*b*, al. 6, 15*c,* al. 2, et 95 de la loi fédérale
 
 arrête:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-3]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-5]: Règlement (UE) n<sup>o</sup> 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l’aviation civile et abrogeant la directive 94/56/CE, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-6]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-7]: Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (refonte), dans la version qui lie la Suisse en vertu de l’annexe 1 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route ([RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-3]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-4]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^ingress-5]: Règlement (UE) n<sup>o</sup> 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l’aviation civile et abrogeant la directive 94/56/CE, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-6]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-7]: Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (refonte), dans la version qui lie la Suisse en vertu de l’annexe 1 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route ([RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)).
 [^ingress-8]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Section 1 Dispositions générales
@@ -42,7 +42,7 @@ arrête:
 
 <sup>1</sup>
 
-La présente ordonnance régit les déclarations et les enquêtes en cas d’incident:
+La présente ordonnance régit les déclarations et les enquêtes de sécurité en cas d’incident:[^1-1]
 
 - a. impliquant des entreprises ferroviaires, des entreprises de transport à câbles, des entreprises d’automobiles et de trolleybus et des entreprises de navigation bénéficiant d’une concession fédérale ainsi que des voies de raccordement (transports publics);
 - b. survenant dans le domaine de l’aviation civile en Suisse et dans l’exploitation d’aéronefs suisses à l’étranger;
@@ -50,13 +50,18 @@ La présente ordonnance régit les déclarations et les enquêtes en cas d’inc
 
 <sup>2</sup> Elle régit l’organisation et les tâches du Service suisse d’enquête de sécurité (SESE).
 
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 2
 
-**But et objet de l’enquête**
+**But et objet de l’enquête de sécurité[^2-1]**
 
-<sup>1</sup> L’enquête a pour but de prévenir de futurs incidents.
+<sup>1</sup> L’enquête de sécurité a pour but de prévenir de nouveaux incidents.[^2-2]
 
 <sup>2</sup> Elle vise à établir les causes techniques, d’exploitation, humaines, organisationnelles et systémiques ainsi que les circonstances à l’origine de l’incident.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 3
 
@@ -65,10 +70,11 @@ La présente ordonnance régit les déclarations et les enquêtes en cas d’inc
 On entend par incident:
 
 - a. dans le domaine des transports publics: tout événement au sens des art. 15 et 16;
-- b. dans le domaine de l’aviation civile: tout accident ou incident au sens de l’art. 2 du règlement (UE) n<sup>o</sup> 996/2010;
-- c. dans le domaine de la navigation maritime: tout incident imprévu sur lequel l’État du pavillon est tenu d’ordonner une enquête conformément à l’art. 94, ch. 7 de la Convention des Nations Unies du 10 décembre 1982 sur le droit de la mer[^3-1].
+- b.[^3-1] dans le domaine de l’aviation civile: tout accident ou incident grave au sens de l’art. 2 du règlement (UE) n<sup>o</sup> 996/2010;
+- c. dans le domaine de la navigation maritime: tout incident imprévu sur lequel l’État du pavillon est tenu d’ordonner une enquête conformément à l’art. 94, ch. 7 de la Convention des Nations Unies du 10 décembre 1982 sur le droit de la mer[^3-2].
 
-[^3-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^3-2]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 4
 
@@ -81,27 +87,30 @@ Dans le domaine des transports publics, on entend par:
 - c. *blessure mortelle:* une lésion corporelle occasionnée par un accident et entraînant la mort du blessé dans les 30 jours suivant cet accident;
 - d. *blessure grave:* une lésion corporelle dont souffre une personne et dont le traitement nécessite un séjour hospitalier de plus de 24 heures;
 - e. *blessure légère:* une lésion corporelle dont souffre une personne, nécessitant des soins médicaux ambulatoires;
-- f. *dégâts matériels considérables:* des dommages matériels résultant directement d’un événement et dont le montant excède 50 000 francs pour les installations de transport à câbles et 180 000 francs pour tous les autres moyens de transport;
+- f.[^4-2] *dégâts matériels considérables:* des dommages matériels résultants directement d’un événement et dont le montant excède 50 000 francs pour les installations de transport à câbles et 150 000 francs pour tous les autres moyens de transport;
 - g. *perturbation importante:* une perturbation qui interrompt l’exploitation d’un tronçon pendant au moins six heures;
 - h. *événement extraordinaire:* un événement imputable à la défaillance technique d’installations déterminantes pour la sécurité, à des mesures de sécurité lacunaires ou inadaptées, ou encore à des erreurs humaines compromettant la sécurité;
-- i. *événement impliquant une marchandise dangereuse*: événement au sens de la section 1.8.5 du Règlement concernant le transport international ferroviaire des marchandises dangereuses (RID)[^4-2], Appendice C à la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires (COTIF)[^4-3] dans la teneur du Protocole de modification du 3 juin 1999[^4-4];
+- i. *événement impliquant une marchandise dangereuse*: événement au sens de la section 1.8.5 du Règlement concernant le transport international ferroviaire des marchandises dangereuses (RID)[^4-3], Appendice C à la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires (COTIF)[^4-4] dans la teneur du Protocole de modification du 3 juin 1999[^4-5];
 - j. *cas de non-observation de signal:* tout cas de figure dans lequel toute partie d’un train ou d’un véhicule de manœuvre dépasse les limites de son mouvement autorisé.
 
-[^4-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^4-2]: Le RID n’est publié ni dans le RO ni dans le RS. Des tirés à part incluant les modifications peuvent être commandés auprès de l’Office fédéral des constructions et de la logistique, Vente publications fédérales, 3003 Berne, ou directement auprès de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), www.otif.org
-[^4-3]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^4-4]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+[^4-1]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^4-3]: Le RID n’est publié ni dans le RO ni dans le RS. Des tirés à part incluant les modifications peuvent être commandés auprès de l’Office fédéral des constructions et de la logistique, Vente publications fédérales, 3003 Berne, ou directement auprès de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), [www.otif.org](http://www.otif.org)
+[^4-4]: [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^4-5]: [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
 
 #### Art. 5
 
-**Aviation civile: équivalences des termes**
+**Aviation civile et transport ferroviaire: équivalences des termes**[^5-1]
 
-Afin d’interpréter correctement le règlement (UE) n<sup>o</sup> 996/2010, auquel renvoie la présente ordonnance, on tiendra compte de l’équivalence suivante:
+Afin d’interpréter correctement le règlement (UE) n<sup>o</sup> 996/2010 et la directive (UE) 2016/798, auxquels renvoie la présente ordonnance, on tiendra compte de l’équivalence suivante:
 
 <table>
-<tr><td>Expression dans le règlement UE n<sup>o</sup> 996/2010</td><td>Expression équivalente dans la présente ordonnance</td></tr>
+<tr><th>Expression dans le règlement UE n<sup>o</sup> 996/2010 et la directive (UE) 2016/798</th><th>Expression équivalente dans la présente ordonnance</th></tr>
 <tr><td>Témoins</td><td>Personnes susceptibles de fournir des renseignements utiles</td></tr>
 </table>
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 ## Section 2 Organisation et tâches du SESE
 
@@ -111,7 +120,7 @@ Afin d’interpréter correctement le règlement (UE) n<sup>o</sup> 996/2010, au
 
 Le SESE est une commission extraparlementaire au sens des art. 57*a* à 57*g* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^6-1].
 
-[^6-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^6-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 7
 
@@ -146,10 +155,13 @@ Il incombe au SESE:
 - e. de désigner l’organe d’alerte;
 - f. de veiller à ce que les enquêteurs et les spécialistes nécessaires soient disponibles;
 - g. de surveiller le bureau d’enquête;
-- h. d’approuver le rapport final (art. 47);
-- i. de se prononcer sur les recours formulés contre les décisions prises dans le cadre des enquêtes (art. 15*b*, al. 4, LCdF, art. 26, al. 4, LA);
+- h.[^10-1] d’approuver le rapport intermédiaire (art. 44) et le rapport final (art. 47) s’ils contiennent des recommandations en matière de sécurité ou des avis de sécurité;
+- i.[^10-2] de se prononcer sur les recours formulés contre les décisions prises dans le cadre des enquêtes de sécurité (art. 15*b*, al. 4, LCdF, art. 26, al. 4, LA);
 - j. de veiller à disposer d’un système d’assurance qualité efficace;
 - k. d’établir, pour chaque exercice, un rapport annuel concernant ses activités, notamment la réalisation des objectifs, et de le soumettre pour information au Conseil fédéral avant de le publier.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 11
 
@@ -170,9 +182,15 @@ Il incombe à la direction du bureau d’enquête:
 
 #### Art. 13
 
-**Personnel du bureau d’enquête**
+**Personnel du bureau d’enquête**[^13-1]
 
-Le personnel du bureau d’enquête et de la direction est soumis au droit du personnel de la Confédération.
+<sup>1</sup> Le personnel du bureau d’enquête et de la direction est soumis au droit du personnel de la Confédération.
+
+<sup>2</sup> Les membres du SESE et le personnel du bureau d’enquête sont libérés de leur obligation de dénoncer.
+
+<sup>3</sup> Ils peuvent dénoncer une infraction aux autorités de poursuite pénale si la gravité de cette dernière le justifie.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 14
 
@@ -182,7 +200,7 @@ Le personnel du bureau d’enquête et de la direction est soumis au droit du pe
 
 <sup>2</sup> Les membres du SESE sont subordonnés au Département fédéral de l’environnement, des transports, de l’énergie et de la communication qui est l’autorité supérieure habilitée à délier du secret de fonction (art. 320, ch. 2, Code pénal[^14-1]).
 
-[^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Section 3 Obligations de déclarer
 
@@ -197,13 +215,16 @@ Les entreprises de transports publics déclarent immédiatement à l’organe d�
 - a. les accidents;
 - b. les incidents graves;
 - c. les événements extraordinaires;
-- d. les actes de sabotage présumés ou commis;
+- d.[^15-1] …
 - e. les incendies de véhicules;
-- f. les naufrages, collisions et échouements de bateaux.
+- f.[^15-2] …
 
 <sup>2</sup> Les suicides et les tentatives de suicide manifestes ainsi que les incidents sur la voie publique imputables à une violation des règles de la circulation routière ne doivent pas être déclarés.
 
 <sup>3</sup> Les entreprises de chemin de fer impliquées dans un incident survenant sur le réseau d’un gestionnaire d’infrastructure déclarent cet incident au gestionnaire d’infrastructure concerné. Celui-ci est tenu de transmettre immédiatement les déclarations à l’organe d’alerte.
+
+[^15-1]: Abrogée par le ch. I de l’O du 13 sept. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^15-2]: Abrogée par le ch. I de l’O du 13 sept. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 16
 
@@ -219,7 +240,8 @@ Les entreprises de transports publics déclarent à l’Office fédéral des tra
 - d. les perturbations importantes;
 - e. les événements impliquant une marchandise dangereuse;
 - f. les explosions et les incendies importants d’installations servant à la sécurité;
-- g. les suicides et les tentatives de suicide, pour autant que celles-ci aient entraîné au moins des blessures légères.
+- g. les suicides et les tentatives de suicide, pour autant que celles-ci aient entraîné au moins des blessures légères;
+- h.[^16-1] les actes de sabotage présumés ou commis.
 
 <sup>2</sup>
 
@@ -243,13 +265,18 @@ En outre, les événements suivants doivent être déclarés à l’OFT:
   - 3\. les collisions avec d’autres véhicules, avec l’infrastructure ou avec des obstacles externes,
   - 4\. les dégâts causés par l’empiétement sur le profil d’espace libre,
   - 5\. les défaillances des dispositifs d’accélération ou de décélération à l’arrivée ou au départ, ainsi que les pannes des freins et des dispositifs de serrage,
-  - 6\. les chutes de personnes des véhicules.
+  - 6\. les chutes de personnes des véhicules;
+
+- c.[^16-2] par les entreprises de navigation: les collisions causant des dégâts entre des bateaux, entre des bateaux et des infrastructures ou entre des bateaux et des personnes.
 
 <sup>3</sup> Les événements doivent être déclarés dans les 30 jours.
 
+[^16-1]: Introduite par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^16-2]: Introduite par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 17
 
-**Aviation civile: obligation de déclarer**
+**Aviation civile: déclarations à l’organe d’alerte[^17-1]**
 
 <sup>1</sup>
 
@@ -265,24 +292,30 @@ Les incidents dans le domaine de l’aviation civile doivent être déclarés im
 - h. les services douaniers;
 - i. l’Office fédéral de l’aviation civile .
 
-<sup>2</sup> Les incidents survenus à des engins ultralégers, des planeurs de pente, des parachutes, des cerfs-volants, des parachutes ascensionnels et des ballons captifs ne doivent pas être déclarés.
+<sup>2</sup> Les incidents survenus à des engins ultralégers, des aéronefs sans occupants non certifiés, des planeurs de pente, des parachutes, des cerfs-volants, des parachutes ascensionnels et des ballons captifs ne doivent pas être déclarés.[^17-2]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 18
 
-**Navigation maritime: obligation de déclarer**
+**Navigation maritime: déclarations à l’organe d’alerte[^18-1]**
 
 L’Office suisse de la navigation maritime, le capitaine du navire, les compagnies suisses de navigation ainsi que les sociétés suisses de classification reconnues déclarent immédiatement à l’organe d’alerte les incidents au sens de l’art. 3, let. c.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 19
 
 **Déclaration aux autorités étrangères**[^19-1]
 
-<sup>1</sup> Lorsqu’une entreprise étrangère est impliquée dans un incident survenu sur le territoire suisse, le SESE en avise les autorités compétentes de l’État dans lequel l’entreprise a son siège.
+<sup>1</sup> Lorsqu’une entreprise étrangère est impliquée dans un incident survenu sur le territoire suisse, le bureau d’enquête en avise les autorités compétentes de l’État dans lequel l’entreprise a son siège.[^19-2]
 
-<sup>2</sup> La déclaration ne doit comporter aucune donnée sensible au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^19-2].
+<sup>2</sup> La déclaration ne doit comporter aucune donnée sensible au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^19-3].
 
 [^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 81 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^19-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Section 4 Procédure d’enquête
 
@@ -298,9 +331,11 @@ L’Office suisse de la navigation maritime, le capitaine du navire, les compagn
 
 Il enquête sur les incidents survenus à l’étranger, uniquement lorsque:
 
-- a. les autorités suisses sont chargées d’enquêter sur un incident impliquant à l’étranger un aéronef suisse ou un aéronef construit en Suisse;
+- a.[^20-3] les autorités suisses sont chargées d’enquêter sur un incident survenu à l’étranger;
 - b. l’incident est survenu sur un territoire ne relevant d’aucun État; ou
 - c. lorsqu’aucune autorité étrangère ne s’occupe de l’enquête.
+
+<sup>2bis</sup> Il n’enquête pas sur les incidents impliquant des aéronefs au sens de l’annexe I du règlement (UE) 2018/1139. Il peut enquêter sur ces incidents s’il y a lieu de supposer qu’une enquête est susceptible de fournir des résultats importants pour la prévention de nouveaux incidents ou s’il y a un intérêt public prépondérant.[^20-4]
 
 <sup>3</sup> Il enquête sur des incidents impliquant des aéronefs utilisés à des fins de douane ou de police, uniquement s’il y a lieu de supposer qu’une enquête est susceptible de fournir des résultats importants pour la prévention de futurs incidents.
 
@@ -308,14 +343,22 @@ Il enquête sur les incidents survenus à l’étranger, uniquement lorsque:
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 [^20-2]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^20-4]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 21
 
-**Ouverture de l’enquête**
+**Ouverture et clôture de l’enquête de sécurité**[^21-1]
 
-<sup>1</sup> Le bureau d’enquête ouvre l’enquête.
+<sup>1</sup> Le bureau d’enquête ouvre une enquête préliminaire.
 
-<sup>2</sup> Il désigne la personne chargée de l’enquête. Il peut lui adjoindre un ou plusieurs collaborateurs ou faire appel à des experts externes.
+<sup>2</sup> L’enquête préliminaire permet de déterminer si l’enquête servirait à prévenir de nouveaux incidents ou s’il existe une obligation d’enquêter en vertu d’un accord international.
+
+<sup>3</sup> S’il ouvre une enquête, le bureau d’enquête désigne la personne chargée de l’enquête. Il peut lui adjoindre un ou plusieurs collaborateurs ou faire appel à des experts externes.
+
+<sup>4</sup> Si, au cours de l’enquête, il constate que celle-ci ne permet pas de prévenir de nouveaux incidents et qu’il n’y a pas d’obligation d’enquêter en vertu d’un accord international, il la clôt. Il en consigne les raisons et les publie.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 22
 
@@ -323,7 +366,7 @@ Il enquête sur les incidents survenus à l’étranger, uniquement lorsque:
 
 <sup>1</sup>
 
-Les personnes dont la coopération à l’enquête est prévue se récusent lorsqu’elles:
+Les personnes dont la coopération à l’enquête de sécurité est prévue se récusent lorsqu’elles:[^22-1]
 
 - a. ont un intérêt personnel dans l’affaire;
 - b. sont employées par une entreprise impliquée, membres de son organe de direction ou chargées de la révision de ses comptes;
@@ -342,15 +385,19 @@ Les personnes dont la coopération à l’enquête est prévue se récusent lors
 
 <sup>3</sup> Le SESE tranche en cas de doute quant au bien-fondé de la récusation.
 
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 23
 
 **Coordination avec les autorités de poursuite pénale et les autorités administratives**
 
-<sup>1</sup> L’enquête est menée indépendamment des procédures pénales ou administratives.
+<sup>1</sup> L’enquête de sécurité est menée indépendamment des procédures pénales ou administratives.[^23-1]
 
 <sup>2</sup> Les autorités de poursuite pénale, les autorités administratives et le SESE coordonnent leurs activités.
 
 <sup>3</sup> Elles mettent réciproquement et gratuitement à disposition les documents d’enquête tels que les analyses et les enregistrements.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 24
 
@@ -392,7 +439,9 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>2</sup> Les personnes chargées des travaux de sécurisation et de sauvetage et les autorités de poursuite pénale ont libre accès au lieu de l’accident.
 
-<sup>3</sup> L’accès est accordé aux représentants des autorités fédérales compétentes, aux personnes accréditées d’un État étranger, ainsi qu’à toute personne qui rend plausible l’existence d’un intérêt juridique à l’issue de l’enquête, à condition que le déroulement de celle-ci n’en soit pas entravé.
+<sup>3</sup> L’accès est accordé aux représentants des autorités fédérales compétentes, aux personnes accréditées d’un État étranger, ainsi qu’à toute personne qui rend plausible l’existence d’un intérêt juridique à l’issue de l’enquête de sécurité, à condition que le déroulement de celle-ci n’en soit pas entravé.[^28-1]
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 29
 
@@ -408,13 +457,17 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 #### Art. 30
 
-**Transports publics: obligation d’assistance des entreprises ferroviaires**
+**Transports publics: obligation d’assistance des entreprises[^30-1]**
 
-<sup>1</sup> Les entreprises ferroviaires impliquées organisent, dans la mesure du possible et si nécessaire, le transport des membres du bureau d’enquête et des autres personnes participant à l’enquête de la gare accessible la plus proche au lieu de l’accident.
+<sup>1</sup> Les entreprises impliquées organisent, dans la mesure du possible et si nécessaire, le transport des membres du bureau d’enquête et des autres personnes participant à l’enquête de sécurité de la gare accessible la plus proche au lieu de l’accident.[^30-2]
 
 <sup>2</sup> Ils mettent gratuitement à la disposition du bureau d’enquête les moyens techniques et le personnel immédiatement nécessaires à l’enquête.
 
-<sup>3</sup> Pour les enquêtes suivantes ainsi que pour les courses d’essai, les entreprises concernées mettent gratuitement à disposition l’infrastructure, le personnel ainsi que les moyens et les documents techniques nécessaires.
+<sup>3</sup> Pour les mesures d’enquête suivantes ainsi que pour les courses d’essai, les entreprises concernées mettent gratuitement à disposition les véhicules, l’infrastructure, le personnel ainsi que les moyens et les documents techniques nécessaires.[^30-3]
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^30-3]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 31
 
@@ -426,7 +479,7 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>3</sup> En cas d’urgence ou en accord avec la personne citée, il est possible de déroger aux exigences de forme et de délai.
 
-[^31-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^31-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 32
 
@@ -442,7 +495,7 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>5</sup> Le Tribunal administratif fédéral statue définitivement sur la demande de levée des scellés déposée par le bureau d’enquête dans un délai d’un mois. La décision est définitive.
 
-[^32-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^32-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 33
 
@@ -452,7 +505,7 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>2</sup> Le séquestre est régi par les art. 264, al. 1 et 3, 265, al. 1, 2 et 4, 266, al. 1 et 2 et 267, al. 5 et 6, CPP[^33-1].
 
-[^33-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^33-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 34
 
@@ -464,7 +517,7 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>3</sup> L’exécution de l’examen est régie par l’art. 252 CPP[^34-1].
 
-[^34-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^34-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 35
 
@@ -482,15 +535,19 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>1</sup> Le bureau d’enquête peut recourir à des expertises.
 
-<sup>2</sup> Les art. 182, 183, al. 1, 184, à l’exception des al. 2, let. f et 7, 185, à l’exception du recours à la police mentionné à l’al. 4, et 187, 189 et 190 CPP[^36-1] sont applicables.
+<sup>2</sup> Les art. 182, 183, al. 1, 184, à l’exception des al. 2, let. f, 3 et 7, 185, à l’exception du recours à la police mentionné à l’al. 4, et 187, 189 et 190 CPP[^36-1] sont applicables.[^36-2]
 
-[^36-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^36-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 37
 
-**Navigation maritime: mesures de contrainte**
+**Navigation maritime: mesures de contrainte**[^37-1]
 
-Dans le domaine de la navigation maritime, les mesures de contrainte prévues par la présente ordonnance (art. 31 à 36) ne s’appliquent que dans la mesure où elles disposent d’une base légale dans la loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse.
+Dans le domaine de la navigation maritime, les mesures de contrainte prévues par la présente ordonnance (art. 31 à 35) ne s’appliquent que dans la mesure où elles disposent d’une base légale dans la loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse[^37-2].
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^37-2]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 38
 
@@ -508,9 +565,9 @@ Le bureau d’enquête détermine si les objets ou certains de leurs éléments 
 
 #### Art. 40
 
-**Droit de refuser de déposer**
+[^40-1]
 
-Le bureau d’enquête informe les personnes susceptibles de fournir des renseignements utiles de leur droit de refuser de déposer.
+[^40-1]: Abrogé par le ch. I de l’O du 13 sept. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 41
 
@@ -532,49 +589,39 @@ Le bureau d’enquête informe les personnes susceptibles de fournir des renseig
 
 #### Art. 43
 
-**Rapport de première information**
+**Rapport de première information**[^43-1]
 
-<sup>1</sup> Dès que les circonstances essentielles de l’incident sont connues, le bureau d’enquête établit un rapport de première information. Ce document contient au moins des informations sur les personnes et les moyens de transport impliqués, le déroulement de l’incident et la personne chargée de l’enquête.
+<sup>1</sup> S’il ouvre une enquête, le bureau d’enquête établit un rapport de première information. Ce document contient au moins des informations sur les personnes et les moyens de transport impliqués, le déroulement de l’incident et la personne chargée de l’enquête.
 
-<sup>2</sup> Le rapport de première information est envoyé au personnel impliqué, aux détenteurs, aux propriétaires et aux exploitants des moyens de transport impliqués, au département compétent, à l’office fédéral compétent ainsi qu’à l’autorité de poursuite pénale compétente. La mention de noms est régie par l’art. 54.
+<sup>2</sup> Le rapport de première information est envoyé au personnel impliqué, aux détenteurs, aux propriétaires et aux exploitants des moyens de transport impliqués ainsi qu’au service chargé de la surveillance. Si l’autorité de surveillance est une autorité fédérale, il est également envoyé au département compétent. La mention de noms est régie par l’art. 54.
 
-<sup>3</sup> L’information des autorités et organisations étrangères compétentes est régie par le droit international.
+<sup>3</sup> L’information des autorités et organisations étrangères compétentes est régie par les accords internationaux.
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 44
 
-**Rapport intermédiaire**
+**Rapport intermédiaire**[^44-1]
 
-Le bureau d’enquête porte immédiatement à la connaissance du département compétent et de l’office fédéral compétent les faits essentiels résultant de l’enquête qui contribuent à la prévention des incidents et qui exigent des mesures immédiates au moyen d’un rapport intermédiaire contenant les recommandations requises.
+<sup>1</sup> Le bureau d’enquête synthétise les faits essentiels résultant de l’enquête qui contribuent à la prévention des incidents et qui exigent des mesures immédiates dans un rapport intermédiaire contenant les déficits de sécurité et les recommandations en matière de sécurité requises.
 
-#### Art. 45
+<sup>2</sup> Il transmet le projet de rapport intermédiaire pour avis aux services chargés de la surveillance ainsi qu’aux personnes directement concernées par la mise en œuvre de la recommandation en matière de sécurité. Si l’autorité de surveillance est une autorité fédérale, il l’envoie également au département compétent.
 
-**Enquête sommaire et rapport sommaire: généralités**
+<sup>3</sup> Il transmet le projet de rapport intermédiaire pour avis aux autorités et organisations étrangères, si les accords internationaux le prévoient.
 
-<sup>1</sup> Le bureau d’enquête peut clore l’enquête si les premières mesures d’enquête font apparaître que d’autres investigations n’apporteraient aucun élément utile.
+<sup>4</sup> Il fixe pour l’avis un délai approprié à l’urgence de la situation.
 
-<sup>2</sup> Dans le cadre d’une enquête sommaire, il peut se contenter d’interroger les personnes impliquées et d’autres personnes concernées.
+<sup>5</sup> Il établit le rapport intermédiaire après avoir dûment apprécié les avis exprimés.
 
-<sup>3</sup> Il établit un rapport sommaire. Celui-ci renseigne sur les personnes impliquées, les moyens de transport impliqués et le déroulement de l’incident.
+<sup>6</sup> Il remet sans délai le rapport intermédiaire aux services et aux personnes qui en avaient reçu le projet.
 
-<sup>4</sup> Il publie le rapport sur Internet.
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
-#### Art. 46
+#### Art. 45 et 46
 
-**Enquête sommaire et rapport sommaire: aviation civile**
+[^4546-1]
 
-<sup>1</sup> Les incidents dans lesquels sont impliqués des aéronefs dont la masse maximale admissible au décollage est inférieure à 2250 kg font uniquement l’objet d’une enquête sommaire.
-
-<sup>2</sup>
-
-Ils font toutefois l’objet d’une enquête complète:
-
-- a. si une personne a été tuée ou grièvement blessée;
-- b. s’il y a lieu d’admettre que l’incident est dû à un défaut de navigabilité, dans la mesure où celui-ci ne se rapporte pas uniquement au train d’atterrissage;
-- c. s’il s’agit d’un vol commercial ou de formation au cours duquel l’aéronef a subi des dégâts importants;
-- d. si le bureau d’enquête estime qu’une enquête complète serait particulièrement utile;
-- e. si une autorité étrangère demande une enquête complète au sujet d’un incident survenu à un aéronef étranger.
-
-<sup>3</sup> Les incidents dont sont victimes les motoplaneurs, les planeurs, les ballons libres et les aéronefs classés dans la catégorie spéciale «Amateur» ne font l’objet que d’une enquête sommaire, sauf si une personne a été tuée ou grièvement blessée. Le bureau d’enquête peut ordonner une enquête complète lorsqu’il estime qu’elle serait particulièrement utile à la prévention des accidents.
+[^4546-1]: Abrogés par le ch. I de l’O du 13 sept. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 47
 
@@ -584,40 +631,53 @@ Ils font toutefois l’objet d’une enquête complète:
 
 <sup>2</sup>
 
-Le rapport final informe sur:
+Le rapport final tient compte du droit international déterminant, tant sur le plan du contenu que de la structure, et informe au moins sur:[^47-1]
 
 - a. les personnes, les entreprises, les moyens et infrastructures de transport impliqués et concernés;
 - b. le déroulement de l’incident ainsi que ses causes et circonstances;
 - c. l’ampleur des dommages corporels et matériels;
 - d. les résultats des mesures d’enquête et des expertises.
 
-<sup>3</sup> Si des déficits de sécurité ont été constatés, le rapport final formule des recommandations correspondantes en matière de sécurité.
+<sup>3</sup> Si des déficits de sécurité ont été constatés, le rapport final formule des recommandations correspondantes en matière de sécurité. Dans les rapports finaux, le SESE peut adresser des avis de sécurité aux entreprises et organisations du mode de transport concerné.[^47-2]
 
-<sup>4</sup> Le bureau d’enquête transmet le projet de rapport final pour avis à quiconque est directement concerné par l’enquête ou y participe directement, au département compétent et à l’office fédéral compétent.
+<sup>4</sup> Le bureau d’enquête transmet le projet de rapport final pour avis à quiconque est directement concerné par l’enquête ou y participe directement ainsi qu’au service chargé de la surveillance. Si l’autorité de surveillance est une autorité fédérale, il l’envoie également au département compétent.[^47-3]
 
-<sup>4bis</sup> Il adresse le projet de rapport final pour avis aux autorités, personnes ou organisations étrangères compétentes si un accord international le prévoit.[^47-1]
+<sup>4bis</sup> Il adresse le projet de rapport final pour avis aux autorités, personnes ou organisations étrangères compétentes si un accord international le prévoit.[^47-4]
 
-<sup>5</sup> Les avis doivent être retournés dans un délai de 60 jours à compter de la remise du rapport final.
+<sup>5</sup> Les avis doivent être retournés dans un délai de 30 jours à compter de la remise du rapport final.[^47-5]
 
-<sup>6</sup> Le bureau d’enquête établit le rapport final compte tenu des avis avant de le soumettre à l’approbation du SESE.
+<sup>6</sup> Le bureau d’enquête établit le rapport final après avoir dûment apprécié les avis exprimés.[^47-6]
 
 <sup>7</sup> Il remet le rapport final aux services et aux personnes qui en avaient reçu le projet.
 
-[^47-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-3]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-4]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^47-5]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-6]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 48
 
 **Recommandations en matière de sécurité**
 
-<sup>1</sup> Le SESE adresse les recommandations en matière de sécurité à l’office fédéral compétent et en informe le département compétent. En cas de problèmes de sécurité urgents, il informe immédiatement le département compétent. Il peut donner son avis sur les rapports de mise en œuvre de l’office fédéral à l’attention du département compétent.
+<sup>1</sup> Le SESE adresse les recommandations en matière de sécurité au service chargé de la surveillance. Si l’autorité de surveillance est une autorité fédérale, il informe également le département compétent. En cas de problèmes de sécurité urgents, il informe immédiatement le département compétent.[^48-1]
 
-<sup>1bis</sup> Il adresse les recommandations en matière de sécurité à des autorités étrangères si un accord international le prévoit.[^48-1]
+<sup>1bis</sup> Il adresse les recommandations en matière de sécurité à des autorités étrangères si un accord international le prévoit.[^48-2]
 
-<sup>2</sup> Les offices fédéraux informent périodiquement le SESE et le département compétent de la mise en œuvre des recommandations ou des raisons pour lesquelles ils ont renoncé aux mesures.
+<sup>2</sup> Les destinataires des recommandations en matière de sécurité informent périodiquement le SESE de la mise en œuvre des recommandations ou des raisons pour lesquelles ils ont renoncé aux mesures.[^48-3]
+
+<sup>2bis</sup> Si le destinataire est une autorité fédérale, celle-ci informe également le département compétent.[^48-4]
+
+<sup>2ter</sup> Le SESE prend position sur les rapports des offices fédéraux. Il peut donner son avis sur les rapports de mise en œuvre de l’autorité fédérale à l’attention du département compétent.[^48-5]
 
 <sup>3</sup> Le département compétent peut adresser des mandats de mise en œuvre à l’office fédéral compétent.
 
-[^48-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-2]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^48-3]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-4]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-5]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 49
 
@@ -627,7 +687,7 @@ Lorsque de nouveaux faits essentiels apparaissent dans les dix ans à compter de
 
 #### Art. 50
 
-**Frais d’enquête**
+**Frais de l’enquête de sécurité[^50-1]**
 
 <sup>1</sup>
 
@@ -638,36 +698,47 @@ Les frais d’enquête sont facturés aux personnes ayant causé l’incident:
 
 <sup>2</sup> Les coûts des tâches de police en rapport avec un incident n’entrent pas dans les frais d’enquête si le bureau d’enquête n’a pas expressément confié ces tâches aux organes de police.
 
+<sup>3</sup> Les frais d’enlèvement et d’élimination des aéronefs sont à la charge du détenteur, que l’enlèvement soit ou non ordonné aux fins de l’enquête de sécurité. Les frais d’enlèvement comprennent aussi le transport entre le lieu de l’événement et le lieu de stockage du SESE ainsi que l’évacuation ou l’élimination après la restitution de l’épave.[^50-2]
+
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^50-2]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 51
 
 **Consultation du dossier**
 
 <sup>1</sup>
 
-Peuvent demander à consulter le dossier:
+Si une enquête est menée, peuvent demander à consulter le dossier:[^51-1]
 
 - a. les personnes directement concernées par l’enquête;
-- b. l’office fédéral compétent;
+- b.[^51-2] l’autorité fédérale compétente ou les services chargés de la surveillance;
 - c. les autorités pénales;
 - d. les personnes impliquées dans l’enquête qui représentent un État étranger.
 
-<sup>2</sup> La consultation du dossier peut être restreinte, refusée ou différée aussi longtemps que l’exigent les besoins de l’enquête en vertu de la présente ordonnance ou d’une autre enquête en cours.
+<sup>2</sup> Sous réserve des dispositions légales contraires, la consultation du dossier peut être restreinte, refusée ou différée aussi longtemps que l’exigent les besoins de l’enquête en vertu de la présente ordonnance ou d’une autre enquête en cours.[^51-3]
 
-<sup>3</sup> Dès que l’enquête est close, le bureau d’enquête met les dossiers à la disposition des autorités d’instruction, judiciaires et administratives qui en font la demande pour leurs propres procédures.
+<sup>3</sup> Dès que l’enquête est close, le bureau d’enquête met les dossiers à la disposition des autorités d’instruction, judiciaires et administratives qui en font la demande pour leurs propres procédures, sous réserve de l’art. 24 de la présente ordonnance.[^51-4]
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-3]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-4]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 52
 
 **Délais**
 
-<sup>1</sup> Les enquêtes sur les incidents sont closes dans un délai de 12 mois.
+<sup>1</sup> Les enquêtes de sécurité sur les incidents sont closes dans un délai de 12 mois.[^52-1]
 
 <sup>2</sup> Un délai de 18 mois s’applique aux enquêtes sur les incidents impliquant de grands avions ou des navires de mer. Est considéré comme grand avion tout avion ayant une masse maximale admissible au décollage égale ou supérieure à 5700 kg, rangé dans la catégorie de navigabilité standard (sous-catégorie «Transport») ou comprenant plus de dix sièges pour les passagers et l’équipage.
 
 <sup>3</sup> Si le délai ne peut pas être observé, la personne chargée de l’enquête en avise la direction du bureau d’enquête en précisant les causes du retard. Celle-ci accorde une prolongation convenable du délai.
 
-<sup>4</sup> Si une prolongation de délai est accordée, le bureau d’enquête décide s’il y a lieu, un an après l’incident, de publier un rapport sur l’état d’avancement et la poursuite de l’enquête et sur d’éventuels problèmes de sécurité. Il tient compte du droit international et de la portée de l’incident.[^52-1]
+<sup>4</sup> Si une prolongation de délai est accordée, le bureau d’enquête décide s’il y a lieu, un an après l’incident, de publier un rapport sur l’état d’avancement et la poursuite de l’enquête et sur d’éventuels problèmes de sécurité. Il tient compte du droit international et de la portée de l’incident.[^52-2]
 
-[^52-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^52-2]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Section 5 Publications
 
@@ -677,15 +748,15 @@ Peuvent demander à consulter le dossier:
 
 <sup>1</sup> Le SESE publie les rapports de première information, les rapports intermédiaires et les rapports finaux.
 
-<sup>2</sup> Il publie périodiquement, mais au moins une fois par an, un résumé des rapports sommaires.
+<sup>2</sup> …[^53-1]
 
-<sup>3</sup> Il publie au moins une fois par an un résumé des recommandations en matière de sécurité. Il y précise également l’état d’avancement de la mise en œuvre.
+<sup>3</sup> Il publie au moins une fois par an un résumé des recommandations en matière de sécurité et des avis de sécurité. Il précise également l’état d’avancement de la mise en œuvre des recommandations en matière de sécurité.[^53-2]
 
 <sup>4</sup> Il publie ses rapports et résumés sur Internet.
 
 <sup>5</sup>
 
-Il adresse d’office ses rapports et résumés:
+Il adresse d’office ses rapports et résumés en ligne en cas d’inscription préalable:[^53-3]
 
 - a. aux entreprises de transports publics ainsi qu’aux entreprises chargées de l’entretien;
 - b.
@@ -699,9 +770,14 @@ Il adresse d’office ses rapports et résumés:
   - 5\. aux organes du service de la navigation aérienne,
   - 6\. aux directions des aérodromes;
 
-- c. dans le domaine de la navigation maritime: aux compagnies suisses de navigation;
+- c.[^53-4] dans le domaine de la navigation maritime: aux compagnies de navigation battant pavillon suisse;
 - d. aux autres personnes et organes qui s’occupent de la sécurité en matière d’aviation ou de transport;
 - e. aux autorités fédérales et cantonales compétentes.
+
+[^53-1]: Abrogé par le ch. I de l’O du 13 sept. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-3]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-4]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 54
 
@@ -711,24 +787,40 @@ Il adresse d’office ses rapports et résumés:
 
 <sup>2</sup> Seuls apparaissent les noms des entreprises de transport, des écoles d’aviation, des entreprises chargées de l’entretien et de la maintenance ainsi que ceux des constructeurs, des moyens de transport impliqués et de leurs éléments, des installations de sécurité ainsi que des infrastructures et leurs éléments.
 
+#### Art. 54a
+
+**Loi sur la transparence**[^54a-1]
+
+Le SESE et le bureau d’enquête sont exclus du champ d’application de la loi du 17 décembre 2004 sur la transparence[^54a-2], pour autant qu’ils traitent des données de personnes physiques et morales.
+
+[^54a-1]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^54a-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+
 #### Art. 55
 
 **Statistique**
 
-<sup>1</sup> Le SESE publie chaque année des statistiques sur les incidents.
+<sup>1</sup> Le SESE publie chaque année des statistiques sur les incidents qui lui ont été déclarés.[^55-1]
 
 <sup>2</sup>
 
-Il fournit des informations sur les incidents:
+Il fournit des informations sur les incidents sur lesquels il a enquêté:[^55-2]
 
 - a. dans le domaine de l’aviation civile à l’Organisation de l’aviation civile internationale (*International Civil Aviation Organization*, ICAO), la Conférence européenne de l’aviation civile (*European Civil Aviation Conference*, ECAC) et à l’Agence européenne de la sécurité aérienne (*European Aviation Safety Agency,* EASA*)*;
-- b. dans le domaine de la navigation maritime à l’Organisation maritime internationale (*International Maritime Organization*, IMO).
+- b. dans le domaine de la navigation maritime à l’Organisation maritime internationale (*International Maritime Organization*, IMO);
+- c.[^55-3] dans le domaine ferroviaire à l’Agence de l’Union européenne pour les chemins de fer (*European Union Agency for Railways*, ERA).
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^55-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^55-3]: Introduite par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 56
 
-**Informations pour la prévention des accidents**
+**Informations pour la prévention des incidents**[^56-1]
 
-Le SESE peut préparer et publier des informations générales utiles pour la prévention des accidents.
+Le SESE peut rassembler et publier des informations générales utiles pour la prévention des incidents.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 57
 
@@ -742,9 +834,11 @@ Le SESE peut préparer et publier des informations générales utiles pour la pr
 
 #### Art. 58
 
-<sup>1</sup> Est puni selon l’art. 86*a*, al. 1, let. e, LCdF, quiconque contrevient à son obligation de déclarer au sens de l’art. 15, al. 1 ou 3.
+<sup>1</sup> Est puni selon l’art. 86, al. 3, LCdF, quiconque contrevient à son obligation de déclarer au sens de l’art. 15, al. 1 ou 3.[^58-1]
 
 <sup>2</sup> Est puni selon l’art. 91, al. 1, let. i, LA, quiconque contrevient à son obligation de déclarer au sens de l’art. 17.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 ## Section 7 Dispositions finales
 
@@ -767,6 +861,14 @@ Sont abrogées:
 **Modification d’autres actes**
 
 La modification d’autres actes est réglée dans l’annexe.
+
+#### Art. 60a
+
+**Disposition transitoire relative à la modification du 13 septembre 2024**[^60a-1]
+
+Les résultats d’enquêtes sur des incidents dont la date est antérieure à l’entrée en vigueur de la modification du 13 septembre 2024 peuvent être résumés dans des rapports et publiés conformément aux exigences formelles en vigueur au moment de l’événement.
+
+[^60a-1]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 61
 

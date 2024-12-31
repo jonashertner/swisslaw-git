@@ -4,11 +4,11 @@ title: Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zw
 short: VSZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-26-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/de"
 
 (VSZV)
 
-vom 17. Dezember 2014 (Stand am 1. Juli 2024)
+vom 17. Dezember 2014 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,13 +25,13 @@ gestützt auf die Artikel 15*a* Absatz 1, 15*b* Absatz 6, 15*c* Absatz 2 und 95 
 
 verordnet:
 
-[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-3]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-5]: Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates vom 20. Okt. 2010 über die Untersuchung und Verhütung von Unfällen und Störungen in der Zivilluftfahrt und zur Aufhebung der Richtlinie 94/56/EG, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr verbindlichen Fassung ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-6]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr verbindlichen Fassung ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-7]: Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung), in der für die Schweiz gemäss Anhang 1 zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse verbindlichen Fassung ([SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
+[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-3]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-4]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^ingress-5]: Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates vom 20. Okt. 2010 über die Untersuchung und Verhütung von Unfällen und Störungen in der Zivilluftfahrt und zur Aufhebung der Richtlinie 94/56/EG, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr verbindlichen Fassung ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-6]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr verbindlichen Fassung ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-7]: Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung), in der für die Schweiz gemäss Anhang 1 zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse verbindlichen Fassung ([SR 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)).
 [^ingress-8]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -42,7 +42,7 @@ verordnet:
 
 <sup>1</sup>
 
-Diese Verordnung regelt die Meldung und die Untersuchung von Zwischenfällen:
+Diese Verordnung regelt die Meldung und die Sicherheitsuntersuchung von Zwischenfällen:[^1-1]
 
 - a. bei Eisenbahnunternehmen, bei Seilbahn-, Automobil-, Trolleybus- und Schifffahrtsunternehmen mit Bundeskonzession sowie auf Anschlussgleisen (öffentlicher Verkehr);
 - b. in der Zivilluftfahrt im Inland und von schweizerischen Luftfahrzeugen im Ausland;
@@ -50,13 +50,18 @@ Diese Verordnung regelt die Meldung und die Untersuchung von Zwischenfällen:
 
 <sup>2</sup> Sie regelt die Organisation und die Aufgaben der Schweizerischen Sicherheitsuntersuchungsstelle (SUST).
 
+[^1-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 2
 
-**Zweck und Gegenstand der Untersuchung**
+**Zweck und Gegenstand der Sicherheitsuntersuchung[^2-1]**
 
-<sup>1</sup> Die Untersuchung dient der Verhütung von weiteren Zwischenfällen.
+<sup>1</sup> Die Sicherheitsuntersuchung dient der Verhütung von weiteren Zwischenfällen.[^2-2]
 
 <sup>2</sup> Untersucht werden die technischen, betrieblichen, menschlichen, organisatorischen und systemischen Ursachen und Umstände, die zum Zwischenfall geführt haben.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 3
 
@@ -65,10 +70,11 @@ Diese Verordnung regelt die Meldung und die Untersuchung von Zwischenfällen:
 Als Zwischenfälle gelten:
 
 - a. im öffentlichen Verkehr: Ereignisse nach den Artikeln 15 und 16;
-- b. in der Zivilluftfahrt: Unfälle und Störungen nach Artikel 2 der Verordnung (EU) Nr. 996/2010;
-- c. in der Seeschifffahrt: Ereignisse, die den Flaggenstaat nach Artikel 94 Ziffer 7 des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982[^3-1] zu einer Untersuchung verpflichten.
+- b.[^3-1] in der Zivilluftfahrt: Unfälle und schwere Störungen nach Artikel 2 der Verordnung (EU) Nr. 996/2010;
+- c. in der Seeschifffahrt: Ereignisse, die den Flaggenstaat nach Artikel 94 Ziffer 7 des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982[^3-2] zu einer Untersuchung verpflichten.
 
-[^3-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^3-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^3-2]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 4
 
@@ -81,29 +87,30 @@ Im Bereich öffentlicher Verkehr bedeuten:
 - c. *tödliche Verletzung:* Verletzung, die eine Person aufgrund eines Unfalls erlitten hat und die innert 30 Tagen nach dem Unfall zum Tod führt;
 - d. *schwere Verletzung:* Verletzung, die eine Person aufgrund eines Unfalls erlitten hat und deren Behandlung einen Krankenhausaufenthalt von mehr als 24 Stunden erfordert;
 - e. *leichte Verletzung:* Verletzung einer Person, die eine ambulante ärztliche Behandlung erfordert;
-- f. *erheblicher Sachschaden:* Sachschaden, der die unmittelbare Folge eines Unfalls ist und den Betrag von 50 000 Franken bei Seilbahnen oder von 180 000 Franken bei allen übrigen Verkehrsmitteln übersteigt;
+- f.[^4-2] *erheblicher Sachschaden:* Sachschaden, der die unmittelbare Folge eines Unfalls ist und den Betrag von 50 000 Franken bei Seilbahnen oder von 150 000 Franken bei allen übrigen Verkehrsmitteln übersteigt;
 - g. *wesentliche Störung:* Störung, die den Betrieb einer Strecke für mindestens sechs Stunden unterbricht;
 - h. *aussergewöhnliches Ereignis:* Ereignis, das auf ein technisches Versagen von sicherheitsrelevanten Anlagen oder auf mangel- oder fehlerhafte Sicherheitsmassnahmen oder auf sicherheitsrelevante menschliche Fehlhandlungen zurückzuführen ist;
-- i. *Gefahrgutereignis:* Ereignis nach Abschnitt 1.8.5 der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)[^4-2], Anhang C zum Übereinkommen vom 9. Mai 1980[^4-3] über den internationalen Eisenbahnverkehr (COTIF) in der Fassung des Änderungsprotokolls vom 3. Juni 1999[^4-4];
+- i. *Gefahrgutereignis:* Ereignis nach Abschnitt 1.8.5 der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)[^4-3], Anhang C zum Übereinkommen vom 9. Mai 1980[^4-4] über den internationalen Eisenbahnverkehr (COTIF) in der Fassung des Änderungsprotokolls vom 3. Juni 1999[^4-5];
 - j. *Signalfall:* Ereignis, bei dem ein Teil eines Zuges oder einer Rangierbewegung über den zulässigen Endpunkt der Fahrt hinausfährt.
 
-[^4-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^4-2]: Das RID wird weder in der AS noch in der SR veröffentlicht. Separatdrucke mit Einschluss der Änderungen können beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern, oder direkt bei der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF), www.otif.org, bezogen werden.
-[^4-3]: [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^4-4]: [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+[^4-1]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^4-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^4-3]: Das RID wird weder in der AS noch in der SR veröffentlicht. Separatdrucke mit Einschluss der Änderungen können beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern, oder direkt bei der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF), www.otif.org, bezogen werden.
+[^4-4]: [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^4-5]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
 
 #### Art. 5
 
-**Zivilluftfahrt: Entsprechung von Ausdrücken**
+**Zivilluftfahrt und Eisenbahnverkehr: Entsprechung von Ausdrücken**[^5-1]
 
-Für die korrekte Auslegung der Verordnung (EU) Nr. 996/2010, auf die diese Verordnung verweist, gelten die folgenden Entsprechungen von Ausdrücken:
+Für die korrekte Auslegung der Verordnung (EU) Nr. 996/2010 und der Richtlinie (EU) 2016/798, auf die diese Verordnung verweist, gelten die folgenden Entsprechungen von Ausdrücken:
 
 <table>
-<tr><td>Ausdruck in der Verordnung (EU) Nr. 996/2010</td><td>Ausdruck in dieser Verordnung</td></tr>
-<tr><td>Abschlussbericht</td><td>Schlussbericht</td></tr>
-<tr><td>Schwere Störung</td><td>Schwerer Vorfall</td></tr>
+<tr><th>Ausdruck in der Verordnung (EU) Nr. 996/2010 und der Richtlinie (EU) 2016/798</th><th>Ausdruck in dieser Verordnung</th></tr>
 <tr><td>Zeugen</td><td>Personen, die sachdienliche Auskünfte geben können</td></tr>
 </table>
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 ## 2. Abschnitt: Organisation und Aufgaben der SUST
 
@@ -113,7 +120,7 @@ Für die korrekte Auslegung der Verordnung (EU) Nr. 996/2010, auf die diese Vero
 
 Die SUST ist eine ausserparlamentarische Kommission nach den Artikeln 57*a*–57*g* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^6-1].
 
-[^6-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^6-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 7
 
@@ -146,12 +153,16 @@ Die SUST hat folgende Aufgaben:
 - c. Sie bestimmt die Ziele und die Schwerpunkte ihrer Tätigkeiten.
 - d. Sie stellt die Leitung des Untersuchungsdienstes und dessen übriges Personal an.
 - e. Sie bezeichnet die Meldestelle.
-- f. Sie sorgt dafür, dass die für die Untersuchungen erforderlichen Untersuchungsleiterinnen und -leiter sowie Fachspezialistinnen und -spezialisten zur Verfügung stehen.
+- f.[^10-1] Sie sorgt dafür, dass die für die Sicherheitsuntersuchung erforderlichen Untersuchungsleiterinnen und -leiter sowie Fachspezialistinnen und -spezialisten zur Verfügung stehen.
 - g. Sie überwacht den Untersuchungsdienst.
-- h. Sie genehmigt den Schlussbericht (Art. 47).
-- i. Sie entscheidet über Einsprachen gegen im Rahmen der Untersuchung erlassene Verfügungen (Art. 15*b* Abs. 4 EBG, Art. 26 Abs. 4 LFG).
+- h.[^10-2] Sie genehmigt den Zwischenbericht (Art. 44) und den Abschlussbericht (Art. 47), wenn diese Sicherheitsempfehlungen oder Sicherheitshinweise enthalten.
+- i.[^10-3] Sie entscheidet über Einsprachen gegen im Rahmen der Sicherheitsuntersuchung erlassene Verfügungen (Art. 15*b* Abs. 4 EBG, Art. 26 Abs. 4 LFG).
 - j. Sie sorgt für ein wirksames Qualitätssicherungssystem.
 - k. Sie erstellt für jedes Geschäftsjahr einen Jahresbericht über ihre Tätigkeit, insbesondere über die Zielerreichung, unterbreitet ihn dem Bundesrat zur Kenntnisnahme und veröffentlicht ihn anschliessend.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 11
 
@@ -172,9 +183,15 @@ Die Leitung des Untersuchungsdienstes hat folgende Aufgaben:
 
 #### Art. 13
 
-**Personal des Untersuchungsdienstes**
+**Personal des Untersuchungsdienstes**[^13-1]
 
-Das Personal des Untersuchungsdienstes, einschliesslich der Leitung, untersteht dem Bundespersonalrecht.
+<sup>1</sup> Das Personal des Untersuchungsdienstes, einschliesslich der Leitung, untersteht dem Bundespersonalrecht.
+
+<sup>2</sup> Die Mitglieder der SUST und das Personal des Untersuchungsdienstes sind von ihrer Anzeigepflicht entbunden.
+
+<sup>3</sup> Sie können Anzeige bei den Strafverfolgungsbehörden erstatten, sofern dies aufgrund der Schwere der möglichen Straftat geboten erscheint.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 14
 
@@ -184,7 +201,7 @@ Das Personal des Untersuchungsdienstes, einschliesslich der Leitung, untersteht 
 
 <sup>2</sup> Für die Mitglieder der SUST gilt das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation als vorgesetzte Behörde, die für die Entbindung vom Amtsgeheimnis zuständig ist (Art. 320 Ziff. 2 des Strafgesetzbuches[^14-1]).
 
-[^14-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 3. Abschnitt: Meldepflichten
 
@@ -199,13 +216,16 @@ Die Unternehmen des öffentlichen Verkehrs melden der Meldestelle unverzüglich:
 - a. Unfälle;
 - b. schwere Vorfälle;
 - c. aussergewöhnliche Ereignisse;
-- d. vermutete oder ausgeführte Sabotage;
+- d.[^15-1] ...
 - e. Brände von Fahrzeugen;
-- f. Untergang, Kollisionen und Grundberührungen von Schiffen.
+- f.[^15-2] ...
 
 <sup>2</sup> Nicht gemeldet werden müssen offensichtliche Selbsttötungen und Selbsttötungsversuche sowie Zwischenfälle auf öffentlichen Strassen, die auf eine Verletzung der Strassenverkehrsregeln zurückzuführen sind.
 
 <sup>3</sup> Eisenbahnverkehrsunternehmen, die an einem Zwischenfall auf dem Netz einer Infrastrukturbetreiberin beteiligt sind, melden diesen Zwischenfall der betroffenen Infrastrukturbetreiberin. Diese leitet die Meldung unverzüglich an die Meldestelle weiter.
+
+[^15-1]: Aufgehoben durch Ziff. I der V vom 13. Sept. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^15-2]: Aufgehoben durch Ziff. I der V vom 13. Sept. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 16
 
@@ -221,7 +241,8 @@ Die Unternehmen des öffentlichen Verkehrs melden dem Bundesamt für Verkehr (BA
 - d. wesentliche Störungen;
 - e. Gefahrgutereignisse;
 - f. grössere Explosionen und Brände von sicherheitsrelevanten Anlagen;
-- g. Selbsttötungen sowie Selbsttötungsversuche, sofern diese mindestens eine leichte Verletzung zur Folge haben.
+- g. Selbsttötungen sowie Selbsttötungsversuche, sofern diese mindestens eine leichte Verletzung zur Folge haben;
+- h.[^16-1] vermutete oder ausgeführte Sabotage.
 
 <sup>2</sup>
 
@@ -245,13 +266,18 @@ Die Unternehmen des öffentlichen Verkehrs melden dem Bundesamt für Verkehr (BA
   - 3\. Zusammenstösse mit anderen Fahrzeugen, mit der Infrastruktur oder mit externen Hindernissen,
   - 4\. Schäden aufgrund von Profilüberschreitungen,
   - 5\. Versagen von Beschleunigungs- oder Verzögerungseinrichtungen beim Ein- und Ausfahren sowie von Bremsen und Klemmvorrichtungen,
-  - 6\. Abstürze von Personen aus Fahrzeugen.
+  - 6\. Abstürze von Personen aus Fahrzeugen;
+
+- c.[^16-2] von den Schifffahrtsunternehmen: Kollisionen mit Schaden zwischen Schiffen, zwischen Schiffen und Infrastrukturanlagen oder zwischen Schiffen und Personen.
 
 <sup>3</sup> Die Ereignisse müssen innerhalb von 30 Tagen gemeldet werden.
 
+[^16-1]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 17
 
-**Zivilluftfahrt: Meldepflicht**
+**Zivilluftfahrt: Meldungen an die Meldestelle[^17-1]**
 
 <sup>1</sup>
 
@@ -267,24 +293,30 @@ Zwischenfälle in der Zivilluftfahrt sind der Meldestelle unverzüglich durch fo
 - h. die Zollorgane;
 - i. das Bundesamt für Zivilluftfahrt.
 
-<sup>2</sup> Zwischenfälle von Ultraleichtflugzeugen, Hängegleitern, Fallschirmen, Drachen, Drachenfallschirmen und Fesselballonen sind nicht zu melden.
+<sup>2</sup> Zwischenfälle von Ultraleichtluftfahrzeugen, nicht zertifizierten unbemannten Luftfahrzeugen, Hängegleitern, Fallschirmen, Drachen, Drachenfallschirmen und Fesselballonen sind nicht zu melden.[^17-2]
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 18
 
-**Seeschifffahrt: Meldepflicht**
+**Seeschifffahrt: Meldungen an die Meldestelle[^18-1]**
 
 Das Schweizerische Seeschifffahrtsamt, die Schiffsführung, die schweizerischen Seereedereien sowie die von der Schweiz anerkannten Klassifikationsgesellschaften melden Zwischenfälle nach Artikel 3 Buchstabe c unverzüglich der Meldestelle.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 19
 
 **Meldung an ausländische Behörden**[^19-1]
 
-<sup>1</sup> Die SUST meldet Zwischenfälle auf schweizerischem Hoheitsgebiet, an denen ausländische Unternehmen beteiligt sind, den zuständigen Behörden in den Sitzstaaten dieser Unternehmen.
+<sup>1</sup> Der Untersuchungsdienst meldet Zwischenfälle auf schweizerischem Hoheitsgebiet, an denen ausländische Unternehmen beteiligt sind, den zuständigen Behörden in den Sitzstaaten dieser Unternehmen.[^19-2]
 
-<sup>2</sup> Die Meldung darf keine besonders schützenswerten Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^19-2] enthalten.
+<sup>2</sup> Die Meldung darf keine besonders schützenswerten Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^19-3] enthalten.
 
 [^19-1]: Fassung gemäss Anhang 2 Ziff. II 81 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^19-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 4. Abschnitt: Untersuchungsverfahren
 
@@ -300,9 +332,11 @@ Das Schweizerische Seeschifffahrtsamt, die Schiffsführung, die schweizerischen 
 
 Sie untersucht Zwischenfälle im Ausland nur, wenn:
 
-- a. die Untersuchung über einen Zwischenfall eines schweizerischen Luftfahrzeuges oder eines in der Schweiz hergestellten Luftfahrzeuges in einem fremden Staat den schweizerischen Behörden überlassen wird;
+- a.[^20-3] die Untersuchung eines Zwischenfalls in einem fremden Staat den schweizerischen Behörden überlassen wird;
 - b. sich der Zwischenfall ausserhalb eines staatlichen Hoheitsgebietes ereignet hat; oder
 - c. sich keine ausländische Untersuchungsbehörde um die Untersuchung kümmert.
+
+<sup>2bis</sup> Sie untersucht Zwischenfälle mit Luftfahrzeugen gemäss Anhang 1 der Verordnung (EU) 2018/1139 nicht. Sie kann diese untersuchen, wenn zu vermuten ist, dass eine Untersuchung wichtige Erkenntnisse zur Verhütung von weiteren Zwischenfällen bringen kann oder ein grosses öffentliches Interesse besteht.[^20-4]
 
 <sup>3</sup> Sie untersucht Zwischenfälle mit Luftfahrzeugen, die einer zoll- oder polizeidienstlichen Verwendung dienten, nur, wenn zu vermuten ist, dass eine Untersuchung wichtige Erkenntnisse zur Verhütung von weiteren Zwischenfällen bringen kann.
 
@@ -310,14 +344,22 @@ Sie untersucht Zwischenfälle im Ausland nur, wenn:
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 [^20-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^20-4]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 21
 
-**Einleitung der Untersuchung**
+**Einleitung und Einstellung der Sicherheitsuntersuchung**[^21-1]
 
-<sup>1</sup> Der Untersuchungsdienst leitet die Untersuchung ein.
+<sup>1</sup> Der Untersuchungsdienst leitet eine Voruntersuchung ein.
 
-<sup>2</sup> Er bestimmt die für die Untersuchungsleitung verantwortliche Person. Er kann dieser Person weitere Mitarbeiterinnen und Mitarbeiter beiordnen oder externe Sachverständige beiziehen.
+<sup>2</sup> Mit der Voruntersuchung wird abgeklärt, ob eine Untersuchung der Verhütung von weiteren Zwischenfällen dienen kann oder gemäss einem internationalen Abkommen eine Untersuchungspflicht besteht.
+
+<sup>3</sup> Wird eine Untersuchung eröffnet, bestimmt der Untersuchungsdienst die für die Untersuchungsleitung verantwortliche Person. Er kann dieser Person weitere Mitarbeiterinnen und Mitarbeiter beiordnen oder externe Sachverständige beiziehen.
+
+<sup>4</sup> Stellt der Untersuchungsdienst während der Untersuchung fest, dass mit dieser keine weiteren Zwischenfälle verhütet werden können und gemäss internationalen Abkommen keine Untersuchungspflicht besteht, stellt er sie ein. Er hält die Gründe dafür fest und publiziert diese.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 22
 
@@ -325,7 +367,7 @@ Sie untersucht Zwischenfälle im Ausland nur, wenn:
 
 <sup>1</sup>
 
-Personen, deren Mitwirkung bei der Untersuchung vorgesehen ist, treten in den Ausstand, wenn sie:
+Personen, deren Mitwirkung bei der Sicherheitsuntersuchung vorgesehen ist, treten in den Ausstand, wenn sie:[^22-1]
 
 - a. in der Sache ein persönliches Interesse haben;
 - b. bei einem beteiligten Unternehmen angestellt, Mitglied von dessen Leitungsorganen oder mit dessen Rechnungsprüfung betraut sind;
@@ -344,15 +386,19 @@ Personen, deren Mitwirkung bei der Untersuchung vorgesehen ist, treten in den Au
 
 <sup>3</sup> Ist der Ausstand streitig, so entscheidet die SUST.
 
+[^22-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 23
 
 **Koordination mit Strafverfolgungs- und Administrativbehörden**
 
-<sup>1</sup> Die Untersuchung erfolgt unabhängig von einem Straf- oder einem Administrativverfahren.
+<sup>1</sup> Die Sicherheitsuntersuchung erfolgt unabhängig von einem Straf- oder einem Administrativverfahren.[^23-1]
 
 <sup>2</sup> Die Strafverfolgungs- und die Administrativbehörden sowie die SUST koordinieren ihre Tätigkeiten.
 
 <sup>3</sup> Sie stellen einander Untersuchungsunterlagen wie Auswertungen und Aufzeichnungen unentgeltlich zur Verfügung.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 24
 
@@ -394,7 +440,9 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 <sup>2</sup> Die für die Sicherungs- und Rettungsarbeiten zuständigen Personen und die Strafverfolgungsbehörden haben ohne Einschränkung Zutritt.
 
-<sup>3</sup> Den Vertreterinnen und Vertretern der zuständigen Bundesbehörden, den bevollmächtigten Personen eines fremden Staates sowie weiteren Personen, die ein rechtliches Interesse am Ausgang der Untersuchung glaubhaft machen können, ist der Zutritt zu gewähren, wenn dadurch der Gang der Untersuchung nicht gestört wird.
+<sup>3</sup> Den Vertreterinnen und Vertretern der zuständigen Bundesbehörden, den bevollmächtigten Personen eines fremden Staates sowie weiteren Personen, die ein rechtliches Interesse am Ausgang der Sicherheitsuntersuchung glaubhaft machen können, ist der Zutritt zu gewähren, wenn dadurch der Gang der Sicherheitsuntersuchung nicht gestört wird.[^28-1]
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 29
 
@@ -410,13 +458,17 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 #### Art. 30
 
-**Öffentlicher Verkehr: Unterstützungspflichten der Eisenbahnunternehmen**
+**Öffentlicher Verkehr: Unterstützungspflichten der Unternehmen[^30-1]**
 
-<sup>1</sup> Die beteiligten Eisenbahnunternehmen haben, soweit notwendig und möglich, den Transport von Mitgliedern des Untersuchungsdienstes sowie weiteren an der Untersuchung mitwirkenden Personen von der nächsten erreichbaren Station bis zur Unfallstelle zu organisieren.
+<sup>1</sup> Die beteiligten Unternehmen haben, soweit notwendig und möglich, den Transport von Mitgliedern des Untersuchungsdienstes sowie weiteren an der Sicherheitsuntersuchung mitwirkenden Personen von der nächsten erreichbaren Station bis zur Unfallstelle zu organisieren.[^30-2]
 
 <sup>2</sup> Sie haben dem Untersuchungsdienst das für die Untersuchungshandlungen an der Unfallstelle unmittelbar notwendige Personal sowie die technischen Hilfsmittel unentgeltlich zur Verfügung zu stellen.
 
-<sup>3</sup> Für nachfolgende Untersuchungen sowie für Versuchsfahrten haben sie die Infrastruktur, das Personal, die technischen Hilfsmittel und die notwendigen Unterlagen unentgeltlich zur Verfügung zu stellen.
+<sup>3</sup> Für nachfolgende Untersuchungshandlungen sowie für Versuchsfahrten haben sie die Fahrzeuge, die Infrastruktur, das Personal, die technischen Hilfsmittel und die notwendigen Unterlagen unentgeltlich zur Verfügung zu stellen.[^30-3]
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^30-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 31
 
@@ -428,7 +480,7 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 <sup>3</sup> In dringenden Fällen oder mit dem Einverständnis der vorzuladenden Person kann von den Anforderungen an Form und Frist abgewichen werden.
 
-[^31-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^31-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 32
 
@@ -444,7 +496,7 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 <sup>5</sup> Über ein Entsiegelungsgesuch des Untersuchungsdienstes entscheidet das Bundesverwaltungsgericht innerhalb eines Monats. Der Entscheid ist endgültig.
 
-[^32-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^32-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 33
 
@@ -454,7 +506,7 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 <sup>2</sup> Für die Durchführung der Beschlagnahmungen gelten die Artikel 264 Absätze 1 und 3, 265 Absätze 1, 2 und 4, 266 Absätze 1 und 2 sowie 267 Absätze 5 und 6 StPO[^33-1].
 
-[^33-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^33-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 34
 
@@ -466,7 +518,7 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 <sup>3</sup> Für die Durchführung der Untersuchungen gilt Artikel 252 StPO[^34-1].
 
-[^34-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^34-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 35
 
@@ -484,15 +536,19 @@ Die Strafverfolgungsbehörden und die Verantwortlichen der beteiligten Unternehm
 
 <sup>1</sup> Der Untersuchungsdienst kann Gutachten einholen.
 
-<sup>2</sup> Es gelten die Artikel 182, 183 Absatz 1, 184 mit Ausnahme von Absätzen 2 Buchstabe f und 7, 185 mit Ausnahme der polizeilichen Vorführung in Absatz 4, 187, 189 und 190 StPO[^36-1].
+<sup>2</sup> Es gelten die Artikel 182, 183 Absatz 1, 184 mit Ausnahme der Absätze 2 Buchstabe f, 3 und 7, 185 mit Ausnahme der polizeilichen Vorführung in Absatz 4, 187, 189 und 190 StPO[^36-1].[^36-2]
 
-[^36-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^36-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^36-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 37
 
-**Seeschifffahrt: Zwangsmassnahmen**
+**Seeschifffahrt: Zwangsmassnahmen**[^37-1]
 
-Die in dieser Verordnung vorgesehenen Zwangsmassnahmen (Art. 31–36) finden in der Seeschifffahrt nur insoweit Anwendung, als für sie eine Grundlage im Seeschifffahrtsgesetz vom 23. September 1953 besteht.
+Die in dieser Verordnung vorgesehenen Zwangsmassnahmen (Art. 31–35) finden in der Seeschifffahrt nur insoweit Anwendung, als für sie eine Grundlage im Seeschifffahrtsgesetz vom 23. September 1953[^37-2] besteht.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^37-2]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 38
 
@@ -510,9 +566,9 @@ Die in dieser Verordnung vorgesehenen Zwangsmassnahmen (Art. 31–36) finden in 
 
 #### Art. 40
 
-**Recht auf Verweigerung der Aussage**
+[^40-1]
 
-Der Untersuchungsdienst macht Personen, die sachdienliche Auskünfte geben können, auf ihr Recht auf Verweigerung der Aussage aufmerksam.
+[^40-1]: Aufgehoben durch Ziff. I der V vom 13. Sept. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 41
 
@@ -534,102 +590,106 @@ Der Untersuchungsdienst macht Personen, die sachdienliche Auskünfte geben könn
 
 #### Art. 43
 
-**Vorbericht**
+**Vorbericht**[^43-1]
 
-<sup>1</sup> Sobald der Hergang eines Zwischenfalls in den wesentlichen Zügen erkennbar ist, erstattet der Untersuchungsdienst einen Vorbericht. Dieser enthält mindestens Angaben über die beteiligten Personen und Verkehrsmittel, den Hergang und die Untersuchungsleitung.
+<sup>1</sup> Wird eine Untersuchung eröffnet, erstattet der Untersuchungsdienst einen Vorbericht. Dieser enthält mindestens Angaben über die beteiligten Personen und Verkehrsmittel, den Hergang und die Untersuchungsleitung.
 
-<sup>2</sup> Der Vorbericht wird dem beteiligten Personal, den Halterinnen und Haltern, den Eigentümerinnen und Eigentümern sowie den Betreiberinnen und Betreibern der beteiligten Verkehrsmittel, dem zuständigen Departement, dem zuständigen Bundesamt und der zuständigen Strafverfolgungsbehörde zur Orientierung zugestellt. Für die Nennung von Namen gilt Artikel 54.
+<sup>2</sup> Der Vorbericht wird dem beteiligten Personal, den Halterinnen und Haltern, den Eigentümerinnen und Eigentümern sowie den Betreiberinnen und Betreibern der beteiligten Verkehrsmittel sowie der für die Aufsicht zuständigen Stelle zur Information zugestellt. Ist die Aufsichtsbehörde eine Bundesbehörde, wird er auch dem zuständigen Departement zugestellt. Für die Nennung von Namen gilt Artikel 54.
 
-<sup>3</sup> Die Orientierung der zuständigen ausländischen Behörden und Organisationen richtet sich nach dem internationalen Recht.
+<sup>3</sup> Die Information der zuständigen ausländischen Behörden und Organisationen richtet sich nach den internationalen Abkommen.
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 44
 
-**Zwischenbericht**
+**Zwischenbericht**[^44-1]
 
-Der Untersuchungsdienst teilt wesentliche Untersuchungsergebnisse, die für die Verhütung von Zwischenfällen von Bedeutung sind und Sofortmassnahmen erfordern könnten, dem zuständigen Departement und dem zuständigen Bundesamt in einem Zwischenbericht mit den entsprechenden Empfehlungen unverzüglich mit.
+<sup>1</sup> Der Untersuchungsdienst fasst wesentliche Untersuchungsergebnisse, die für die Verhütung von Zwischenfällen von Bedeutung sind und Sofortmassnahmen erfordern könnten, mit den entsprechenden Sicherheitsdefiziten und Sicherheitsempfehlungen in einem Zwischenbericht zusammen.
 
-#### Art. 45
+<sup>2</sup> Er stellt den Entwurf des Zwischenberichts den für die Aufsicht zuständigen Stellen sowie den von einer Umsetzung der Sicherheitsempfehlung direkt Betroffenen zur Stellungnahme zu. Ist die Aufsichtsbehörde eine Bundesbehörde, stellt er ihn auch dem zuständigen Departement zu.
 
-**Summarische Untersuchung und summarischer Bericht: Allgemeines**
+<sup>3</sup> Er stellt den Entwurf des Zwischenberichts den ausländischen Behörden und Stellen zur Stellungnahme zu, wenn dies nach den internationalen Abkommen vorgesehen ist.
 
-<sup>1</sup> Der Untersuchungsdienst kann eine Untersuchung abschliessen, wenn aufgrund der ersten Untersuchungshandlungen feststeht, dass weitere Untersuchungshandlungen keine zweckdienlichen Erkenntnisse erbringen.
+<sup>4</sup> Er setzt für die Stellungnahme eine der Dringlichkeit der Sachlage angemessene Frist.
 
-<sup>2</sup> Er kann sich bei der summarischen Untersuchung auf die Befragung der Beteiligten und von weiteren betroffenen Personen beschränken.
+<sup>5</sup> Er erstellt nach angemessener Würdigung der Stellungnahmen den Zwischenbericht.
 
-<sup>3</sup> Er erstellt einen summarischen Bericht. Dieser gibt Auskunft über die beteiligten Personen, die beteiligten Verkehrsmittel und den Hergang des Zwischenfalls.
+<sup>6</sup> Er stellt den Zwischenbericht unverzüglich den Personen und Stellen zu, die bereits dessen Entwurf erhalten haben.
 
-<sup>4</sup> Er veröffentlicht den Bericht im Internet.
+[^44-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
-#### Art. 46
+#### Art. 45 und 46
 
-**Summarische Untersuchung und summarischer Bericht: Zivilluftfahrt**
+[^4546-1]
 
-<sup>1</sup> Zwischenfälle von Luftfahrzeugen mit einer höchstzulässigen Abflugmasse von weniger als 2250 kg werden nur summarisch untersucht.
-
-<sup>2</sup>
-
-Sie werden jedoch vollständig untersucht, wenn:
-
-- a. jemand eine tödliche oder eine schwere Verletzung erlitten hat;
-- b. anzunehmen ist, dass mangelnde Lufttüchtigkeit, soweit sie sich nicht ausschliesslich auf das Fahrwerk bezieht, zum Zwischenfall geführt hat;
-- c. es sich um gewerbsmässige Flüge oder Schulungsflüge handelt und das Luftfahrzeug erheblich beschädigt worden ist;
-- d. die vollständige Untersuchung des Zwischenfalls nach Auffassung des Untersuchungsdienstes besonders nützlich ist;
-- e. bei Zwischenfällen ausländischer Luftfahrzeuge die ausländische Untersuchungsbehörde eine vollständige Untersuchung verlangt.
-
-<sup>3</sup> Zwischenfälle von Motorseglern, Segelflugzeugen, Freiballonen und Luftfahrzeugen der Sonderkategorie Eigenbau werden nur summarisch untersucht, ausser wenn jemand eine tödliche oder eine schwere Verletzung erlitten hat. Der Untersuchungsdienst kann die vollständige Untersuchung anordnen, wenn sie nach seiner Auffassung für die Unfallverhütung besonders nützlich ist.
+[^4546-1]: Aufgehoben durch Ziff. I der V vom 13. Sept. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 47
 
-**Schlussbericht**
+**Abschlussbericht[^47-1]**
 
-<sup>1</sup> Der Untersuchungsdienst fasst die Ergebnisse der Untersuchung in einem Schlussbericht zusammen.
+<sup>1</sup> Der Untersuchungsdienst fasst die Ergebnisse der Untersuchung in einem Abschlussbericht zusammen.
 
 <sup>2</sup>
 
-Der Schlussbericht gibt Auskunft über:
+Der Abschlussbericht berücksichtigt inhaltlich und strukturell das massgebende internationale Recht und gibt mindestens Auskunft über:[^47-2]
 
 - a. die beteiligten und die betroffenen Personen, Unternehmen, Verkehrsmittel und Verkehrsinfrastrukturen;
 - b. den Hergang des Zwischenfalls sowie dessen Ursachen und Umstände;
 - c. das Ausmass der Personen- und der Sachschäden;
 - d. die Ergebnisse der Untersuchungshandlungen und der Gutachten.
 
-<sup>3</sup> Wurden Sicherheitsmängel festgestellt, so enthält der Schlussbericht entsprechende Sicherheitsempfehlungen.
+<sup>3</sup> Wurden Sicherheitsdefizite festgestellt, so enthält der Abschlussbericht entsprechende Sicherheitsempfehlungen. Die SUST kann in den Abschlussberichten Sicherheitshinweise an die Unternehmen und Organisationen des betroffenen Verkehrsträgers richten.[^47-3]
 
-<sup>4</sup> Der Untersuchungsdienst stellt den Entwurf des Schlussberichts den von der Untersuchung direkt Betroffenen und an ihr direkt Beteiligten, dem zuständigen Departement und dem zuständigen Bundesamt zur Stellungnahme zu.
+<sup>4</sup> Der Untersuchungsdienst stellt den Entwurf des Abschlussberichts den direkt Betroffenen und direkt Beteiligten sowie der für die Aufsicht zuständigen Stelle zur Stellungnahme zu. Ist die Aufsichtsbehörde eine Bundesbehörde, stellt er ihn auch dem zuständigen Departement zu.[^47-4]
 
-<sup>4bis</sup> Er stellt den Entwurf des Schlussberichts den zuständigen ausländischen Behörden und weiteren Personen und Organisationen zur Stellungnahme zu, wenn dies nach internationalen Abkommen vorgesehen ist.[^47-1]
+<sup>4bis</sup> Er stellt den Entwurf des Abschlussberichts den zuständigen ausländischen Behörden und weiteren Personen und Organisationen zur Stellungnahme zu, wenn dies nach internationalen Abkommen vorgesehen ist.[^47-5]
 
-<sup>5</sup> Stellungnahmen können innert 60 Tagen ab Zustellung des Entwurfs des Schlussberichts eingereicht werden
+<sup>5</sup> Stellungnahmen können innert 30 Tagen ab Zustellung des Entwurfs des Abschlussberichts eingereicht werden.[^47-6]
 
-<sup>6</sup> Er erstellt unter Berücksichtigung der Stellungnahmen den Schlussbericht und unterbreitet ihn der SUST zur Genehmigung.
+<sup>6</sup> Der Untersuchungsdienst erstellt nach angemessener Würdigung der Stellungnahmen den Abschlussbericht.[^47-7]
 
-<sup>7</sup> Er stellt den Schlussbericht den Personen und Stellen zu, die bereits den Entwurf des Schlussberichts erhalten haben.
+<sup>7</sup> Er stellt den Abschlussbericht den Personen und Stellen zu, die bereits den Entwurf des Abschlussberichts erhalten haben.
 
-[^47-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^47-1]: Ausdruck gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^47-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-4]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-5]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^47-6]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-7]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 48
 
 **Sicherheitsempfehlungen**
 
-<sup>1</sup> Die SUST richtet die Sicherheitsempfehlungen an das zuständige Bundesamt und setzt das zuständige Departement über die Empfehlungen in Kenntnis. Bei dringlichen Sicherheitsproblemen informiert sie umgehend das zuständige Departement. Sie kann zu den Umsetzungsberichten des Bundesamts zuhanden des zuständigen Departements Stellung nehmen.
+<sup>1</sup> Die SUST richtet die Sicherheitsempfehlungen an die für die Aufsicht zuständige Stelle. Ist die Aufsichtsbehörde eine Bundesbehörde, informiert sie auch das zuständige Departement. Bei dringlichen Sicherheitsproblemen informiert sie umgehend das zuständige Departement.[^48-1]
 
-<sup>1bis</sup> Sie richtet Sicherheitsempfehlungen an ausländische Behörden, wenn dies nach internationalen Abkommen vorgesehen ist.[^48-1]
+<sup>1bis</sup> Sie richtet Sicherheitsempfehlungen an ausländische Behörden, wenn dies nach internationalen Abkommen vorgesehen ist.[^48-2]
 
-<sup>2</sup> Die Bundesämter unterrichten die SUST und das zuständige Departement periodisch über die Umsetzung der Empfehlungen oder über die Gründe, weshalb sie auf Massnahmen verzichten.
+<sup>2</sup> Die Adressaten der Sicherheitsempfehlungen unterrichten die SUST periodisch über die Umsetzung der Empfehlungen oder über die Gründe, weshalb sie auf Massnahmen verzichten.[^48-3]
+
+<sup>2bis</sup> Ist der Adressat eine Bundesbehörde, unterrichtet diese auch das zuständige Departement.[^48-4]
+
+<sup>2ter</sup> Die SUST nimmt zu den Umsetzungsberichten der Bundesämter Stellung. Sie kann zu den Umsetzungsberichten der Bundesbehörde zuhanden des zuständigen Departements Stellung nehmen.[^48-5]
 
 <sup>3</sup> Das zuständige Departement kann Aufträge zur Umsetzung von Empfehlungen an das zuständige Bundesamt richten.
 
-[^48-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^48-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^48-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-4]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-5]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 49
 
 **Wiederaufnahme der Untersuchung**
 
-Werden innerhalb von zehn Jahren nach Genehmigung des Schlussberichts neue wesentliche Tatsachen bekannt, so nimmt der Untersuchungsdienst von sich aus oder auf Antrag die Untersuchung wieder auf.
+Werden innerhalb von zehn Jahren nach Genehmigung des Abschlussberichts neue wesentliche Tatsachen bekannt, so nimmt der Untersuchungsdienst von sich aus oder auf Antrag die Untersuchung wieder auf.
 
 #### Art. 50
 
-**Kosten der Untersuchung**
+**Kosten der Sicherheitsuntersuchung[^50-1]**
 
 <sup>1</sup>
 
@@ -640,36 +700,48 @@ Die Untersuchungskosten können den verursachenden Personen auferlegt werden:
 
 <sup>2</sup> Die Kosten polizeilicher Aufgaben im Zusammenhang mit einem Zwischenfall gelten nicht als Untersuchungskosten, sofern der Untersuchungsdienst diese Aufgaben nicht ausdrücklich den Polizeiorganen aufgetragen hat.
 
+<sup>3</sup> Die Kosten für die Bergung und Entsorgung von Luftfahrzeugen trägt die Halterin oder der Halter, unabhängig davon, ob die Bergung zum Zweck der Sicherheitsuntersuchung angeordnet wird. Die Bergungskosten umfassen auch den Transport vom Ereignisort zum Lagerort der SUST sowie den Abtransport oder die Entsorgung nach Freigabe des Wracks.[^50-2]
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^50-2]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 51
 
 **Akteneinsicht**
 
 <sup>1</sup>
 
-Akteneinsicht verlangen können:
+Wird eine Untersuchung durchgeführt, können Akteneinsicht verlangen:[^51-1]
 
 - a. die vom Untersuchungsverfahren direkt Betroffenen;
-- b. das zuständige Bundesamt;
-- c. die kantonalen Strafbehörden;
+- b.[^51-2] die zuständige Bundesbehörde oder die für die Aufsicht zuständigen Stellen;
+- c.[^51-3] die Strafbehörden;
 - d. die an der Untersuchung beteiligte Personen, die einen fremden Staat repräsentieren.
 
-<sup>2</sup> Die Akteneinsicht darf beschränkt, verweigert oder aufgeschoben werden, solange das Interesse der Untersuchung nach dieser Verordnung oder einer laufenden anderen Untersuchung es erfordert.
+<sup>2</sup> Unter Vorbehalt anderslautender gesetzlicher Bestimmungen darf die Akteneinsicht beschränkt, verweigert oder aufgeschoben werden, solange das Interesse der Untersuchung nach dieser Verordnung oder einer laufenden anderen Untersuchung es erfordert.[^51-4]
 
-<sup>3</sup> Ist die Untersuchung abgeschlossen, so stellt der Untersuchungsdienst die Akten auf Verlangen den zuständigen Untersuchungs-, Gerichts- und Verwaltungsbehörden für deren Verfahren zur Verfügung.
+<sup>3</sup> Ist die Untersuchung abgeschlossen, so stellt der Untersuchungsdienst die Akten unter Vorbehalt von Artikel 24 auf Verlangen den zuständigen Untersuchungs-, Gerichts- und Verwaltungsbehörden für deren Verfahren zur Verfügung.[^51-5]
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-4]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-5]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 52
 
 **Fristen**
 
-<sup>1</sup> Untersuchungen von Zwischenfällen sind innerhalb von 12 Monaten abzuschliessen.
+<sup>1</sup> Sicherheitsuntersuchungen von Zwischenfällen sind innerhalb von 12 Monaten abzuschliessen.[^52-1]
 
 <sup>2</sup> Für Zwischenfälle mit Grossluftfahrzeugen oder Seeschiffen gilt eine Frist von 18 Monaten. Als Grossluftfahrzeug gilt ein Luftfahrzeug, das eine höchstzulässige Abflugmasse von mindestens 5700 kg aufweist, in der Lufttüchtigkeitskategorie Standard, Unterkategorie Transport eingeteilt ist oder über mehr als zehn Sitzplätze für Fluggäste und Besatzung verfügt.
 
 <sup>3</sup> Kann die Frist nicht eingehalten werden, so meldet die Untersuchungsleitung dies der Leitung des Untersuchungsdienstes und begründet die Verzögerung. Die Leitung des Untersuchungsdienstes setzt eine angemessene Nachfrist.
 
-<sup>4</sup> Wird eine Nachfrist gewährt, so entscheidet der Untersuchungsdienst, ob am Jahrestag des Zwischenfalls ein Bericht über den Stand und den Fortgang der Untersuchung und etwaige Sicherheitsprobleme veröffentlicht wird. Er berücksichtigt dabei die Vorschriften des internationalen Rechts sowie die Tragweite des Zwischenfalls.[^52-1]
+<sup>4</sup> Wird eine Nachfrist gewährt, so entscheidet der Untersuchungsdienst, ob am Jahrestag des Zwischenfalls ein Bericht über den Stand und den Fortgang der Untersuchung und etwaige Sicherheitsprobleme veröffentlicht wird. Er berücksichtigt dabei die Vorschriften des internationalen Rechts sowie die Tragweite des Zwischenfalls.[^52-2]
 
-[^52-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^52-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^52-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## 5. Abschnitt: Veröffentlichungen
 
@@ -677,17 +749,17 @@ Akteneinsicht verlangen können:
 
 **Berichte und Zusammenfassungen der SUST**
 
-<sup>1</sup> Die SUST veröffentlicht die Vor-, Zwischen- und Schlussberichte.
+<sup>1</sup> Die SUST veröffentlicht die Vor-, Zwischen- und Abschlussberichte.
 
-<sup>2</sup> Sie veröffentlicht periodisch, jedoch mindestens einmal jährlich, eine Zusammenfassung der summarischen Berichte.
+<sup>2</sup> ... [^53-1]
 
-<sup>3</sup> Sie veröffentlicht mindestens einmal jährlich eine Zusammenfassung der Sicherheitsempfehlungen. Darin berichtet sie auch über den Stand der Umsetzung.
+<sup>3</sup> Sie veröffentlicht mindestens einmal jährlich eine Zusammenfassung der Sicherheitsempfehlungen und Sicherheitshinweise. Sie berichtet auch über den Stand der Umsetzung der Sicherheitsempfehlungen.[^53-2]
 
 <sup>4</sup> Sie veröffentlicht ihre Berichte und Zusammenfassungen im Internet.
 
 <sup>5</sup>
 
-Sie stellt ihre Berichte und Zusammenfassungen in den jeweiligen Bereichen von Amtes wegen folgenden Personen und Stellen zu:
+Sie stellt ihre Berichte und Zusammenfassungen in den jeweiligen Bereichen folgenden Personen und Stellen von Amtes wegen online zu, wenn sie sich vorgängig angemeldet haben:[^53-3]
 
 - a. den Unternehmen des öffentlichen Verkehrs sowie den entsprechenden Instandhaltungsbetrieben;
 - b.
@@ -701,9 +773,14 @@ Sie stellt ihre Berichte und Zusammenfassungen in den jeweiligen Bereichen von A
   - 5\. den Organen der Flugsicherung,
   - 6\. den Flugplatzleitungen;
 
-- c. im Bereich der Seeschifffahrt: den schweizerischen Seereedereien;
+- c.[^53-4] im Bereich der Seeschifffahrt: den Seereedereien, die Schiffe unter Schweizer Flagge betreiben;
 - d. weiteren Personen und Organisationen, die sich mit Fragen der Flug- oder Verkehrssicherheit befassen;
 - e. den zuständigen Behörden des Bundes und der Kantone.
+
+[^53-1]: Aufgehoben durch Ziff. I der V vom 13. Sept. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-3]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-4]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 54
 
@@ -713,24 +790,40 @@ Sie stellt ihre Berichte und Zusammenfassungen in den jeweiligen Bereichen von A
 
 <sup>2</sup> Davon ausgenommen sind die Namen der beteiligten Unternehmen, Flugschulen, Unterhalts- und Instandhaltungsbetriebe sowie der Herstellerinnen der beteiligten Verkehrsmittel und ihrer Bestandteile, der Sicherungsanlagen sowie der Infrastrukturen und ihrer Bestandteile
 
+#### Art. 54a
+
+**Öffentlichkeitsgesetz**[^54a-1]
+
+Die SUST und der Untersuchungsdienst sind vom Geltungsbereich des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^54a-2] ausgenommen, soweit sie Daten von natürlichen und juristischen Personen bearbeiten.
+
+[^54a-1]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^54a-2]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+
 #### Art. 55
 
 **Statistik**
 
-<sup>1</sup> Die SUST veröffentlicht jährlich Statistiken über Zwischenfälle.
+<sup>1</sup> Die SUST veröffentlicht jährlich Statistiken über die ihr gemeldeten Zwischenfälle.[^55-1]
 
 <sup>2</sup>
 
-Sie liefert die Informationen über Zwischenfälle:
+Sie liefert Informationen über die von ihr untersuchten Zwischenfälle:[^55-2]
 
 - a. im Bereich der Zivilluftfahrt an die Internationale Zivilluftfahrt-Organisation (*International Civil Aviation Organization*, ICAO), die Europäische Zivilluftfahrt-Konferenz (*European Civil Aviation Conference*, ECAC) und die Europäische Agentur für Flugsicherheit (*European Aviation Safety Agency*, EASA);
-- b. im Bereich der Seeschifffahrt an die Internationale Seeschifffahrts-Organisation (*International Maritime Organization*, IMO).
+- b. im Bereich der Seeschifffahrt an die Internationale Seeschifffahrts-Organisation (*International Maritime Organization*, IMO);
+- c.[^55-3] im Bereich der Eisenbahn an die Europäische Eisenbahnagentur (*European Union Agency for Railways*, ERA).
+
+[^55-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^55-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^55-3]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 56
 
-**Informationen zur Unfallverhütung**
+**Informationen zur Verhütung von Zwischenfällen**[^56-1]
 
-Die SUST kann allgemeine sachdienliche Informationen zur Unfallverhütung erstellen und veröffentlichen.
+Die SUST kann allgemeine sachdienliche Informationen zur Verhütung von Zwischenfällen zusammenstellen und veröffentlichen.
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 57
 
@@ -744,9 +837,11 @@ Die SUST kann allgemeine sachdienliche Informationen zur Unfallverhütung erstel
 
 #### Art. 58
 
-<sup>1</sup> Wer die Meldepflicht nach Artikel 15 Absatz 1 oder 3 verletzt, wird nach Artikel 86*a* Absatz 1 Buchstabe e EBG bestraft.
+<sup>1</sup> Wer die Meldepflicht nach Artikel 15 Absatz 1 oder 3 verletzt, wird nach Artikel 86 Absatz 3 EBG bestraft.[^58-1]
 
 <sup>2</sup> Wer die Meldepflicht nach Artikel 17 Absatz 1 verletzt, wird nach Artikel 91 Absatz 1 Buchstabe i LFG bestraft.
+
+[^58-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -769,6 +864,14 @@ Die folgenden Erlasse werden aufgehoben:
 **Änderung anderer Erlasse**
 
 Die Änderung anderer Erlasse wird im Anhang geregelt.
+
+#### Art. 60a
+
+**Übergangsbestimmung zur Änderung vom 13. September 2024**[^60a-1]
+
+Ergebnisse von Untersuchungen zu Zwischenfällen, deren Ereignisdatum vor dem Inkrafttreten der Änderung vom 13. September 2024 liegt, können gemäss den zum Zeitpunkt des Ereignisses geltenden Formvorgaben zu Berichten zusammengefasst und publiziert werden.
+
+[^60a-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 61
 

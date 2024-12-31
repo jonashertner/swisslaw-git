@@ -4,11 +4,11 @@ title: Ordinanza del 17 dicembre 2014 concernente le inchieste sulla sicurezza i
 short: OIET
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-26-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/it"
 
 (OIET)
 
-del 17 dicembre 2014 (Stato 1° luglio 2024)
+del 17 dicembre 2014 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,14 +25,14 @@ visti gli articoli 15*a* capoverso 1, 15*b* capoverso 6, 15*c* capoverso 2 e 95 
 
 ordina:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-3]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-5]: Regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio, del 20 ottobre 2010, sulle inchieste e la prevenzione di incidenti e inconvenienti nel settore dell’aviazione civile e che abroga la direttiva 94/56/CE, nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-6]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-7]: Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (rifusione), nella versione vincolante per la Svizzera in virtù dell’allegato 1 all’Accordo del 21 giugno 1999 fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia ([RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
-[^ingress-8]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-3]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-4]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^ingress-5]: Regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio, del 20 ottobre 2010, sulle inchieste e la prevenzione di incidenti e inconvenienti nel settore dell’aviazione civile e che abroga la direttiva 94/56/CE, nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-6]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-7]: Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (rifusione), nella versione vincolante per la Svizzera in virtù dell’allegato 1 all’Accordo del 21 giugno 1999 fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia ([RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)).
+[^ingress-8]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -42,7 +42,7 @@ ordina:
 
 <sup>1</sup>
 
-La presente ordinanza disciplina le notifiche e le inchieste relative a eventi imprevisti concernenti:
+La presente ordinanza disciplina le notifiche e le inchieste sulla sicurezza relative a eventi imprevisti concernenti:[^1-1]
 
 - a. le imprese ferroviarie, di trasporto a fune, di autoservizi, filoviarie e di navigazione titolari di una concessione federale, nonché i binari di raccordo (trasporti pubblici);
 - b. l’aviazione civile in Svizzera e gli aeromobili svizzeri all’estero;
@@ -50,13 +50,18 @@ La presente ordinanza disciplina le notifiche e le inchieste relative a eventi i
 
 <sup>2</sup> Disciplina l’organizzazione e i compiti del Servizio d’inchiesta svizzero sulla sicurezza (SISI).
 
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 2
 
-**Scopo e oggetto dell’inchiesta**
+**Scopo e oggetto dell’inchiesta sulla sicurezza[^2-1]**
 
-<sup>1</sup> L’inchiesta ha quale scopo la prevenzione di ulteriori eventi imprevisti.
+<sup>1</sup> L’inchiesta sulla sicurezza ha quale scopo la prevenzione di ulteriori eventi imprevisti.[^2-2]
 
 <sup>2</sup> Sono oggetto di inchiesta le cause e le circostanze a livello tecnico, di esercizio, umano, organizzativo e di sistema che hanno condotto all’evento imprevisto.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 3
 
@@ -65,10 +70,11 @@ La presente ordinanza disciplina le notifiche e le inchieste relative a eventi i
 Per eventi imprevisti s’intendono:
 
 - a. nel settore dei trasporti pubblici, gli eventi di cui agli articoli 15 e 16;
-- b. nell’aviazione civile, gli incidenti e gli inconvenienti secondo l’articolo 2 del regolamento (UE) n. 996/2010;
-- c. nella navigazione marittima, gli eventi che obbligano lo Stato di bandiera ad aprire un’inchiesta conformemente al numero 7 dell’articolo 94 della Convenzione delle Nazioni Unite del 10 dicembre 1982[^3-1] sul diritto del mare.
+- b.[^3-1] nell’aviazione civile, gli incidenti e gli inconvenienti gravi secondo l’articolo 2 del regolamento (UE) n. 996/2010;
+- c. nella navigazione marittima, gli eventi che obbligano lo Stato di bandiera ad aprire un’inchiesta conformemente al numero 7 dell’articolo 94 della Convenzione delle Nazioni Unite del 10 dicembre 1982[^3-2] sul diritto del mare.
 
-[^3-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^3-2]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 4
 
@@ -81,27 +87,30 @@ Nel settore dei trasporti pubblici s’intende per:
 - c. *ferita mortale:* ferita subita da una persona a causa di un incidente e che ne comporta il decesso entro 30 giorni dall’incidente;
 - d. *ferita grave:* ferita subita da una persona a causa di un incidente e il cui trattamento rende necessario un ricovero in ospedale di oltre 24 ore;
 - e. *ferita lieve:* ferita di una persona che rende necessarie cure mediche ambulatoriali;
-- f. *danno materiale considerevole:* danno materiale risultante direttamente da un incidente e il cui importo supera i 50 000 franchi nel caso degli impianti di trasporto a fune o 180 000 franchi nel caso degli altri mezzi di trasporto;
+- f.[^4-2] *danno materiale considerevole:* danno materiale risultante direttamente da un incidente e il cui importo supera 50 000 franchi, nel caso degli impianti di trasporto a fune, o 150 000 franchi, nel caso degli altri mezzi di trasporto;
 - g. *perturbazione importante:* perturbazione che provoca l’interruzione dell’esercizio di una tratta per almeno sei ore;
 - h. *evento straordinario:* evento imputabile a un guasto tecnico di impianti per la sicurezza, a misure di sicurezza carenti o difettose o a errori umani in materia di sicurezza;
-- i. *evento concernente merci pericolose:* evento secondo la sezione 1.8.5 del Regolamento concernente il trasporto internazionale per ferrovia delle merci pericolose (RID)[^4-2], Appendice C della Convenzione del 9 maggio 1980[^4-3] relativa ai trasporti internazionali per ferrovia (COTIF) nel tenore del Protocollo di modifica del 3 giugno 1999[^4-4];
+- i. *evento concernente merci pericolose:* evento secondo la sezione 1.8.5 del Regolamento concernente il trasporto internazionale per ferrovia delle merci pericolose (RID)[^4-3], Appendice C della Convenzione del 9 maggio 1980[^4-4] relativa ai trasporti internazionali per ferrovia (COTIF) nel tenore del Protocollo di modifica del 3 giugno 1999[^4-5];
 - j. *caso di superamento del segnale disposto su fermata:* evento nel quale una parte di un treno o di un movimento di manovra supera il punto finale ammesso per la sua corsa.
 
-[^4-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^4-2]: Il RID non è pubblicato né nella RU né nella RS. Estratti dell’allegato e delle sue modifiche possono essere richiesti all’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita delle pubblicazioni federali, 3003 Berna, oppure direttamente all’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF), www.otif.org.
-[^4-3]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^4-4]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+[^4-1]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^4-3]: Il RID non è pubblicato né nella RU né nella RS. Estratti dell’allegato e delle sue modifiche possono essere richiesti all’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita delle pubblicazioni federali, 3003 Berna, oppure direttamente all’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF), www.otif.org
+[^4-4]: [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^4-5]: [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
 
 #### Art. 5
 
-**Aviazione civile: equivalenza di espressioni**
+**Aviazione civile e trasporto ferroviario: equivalenza di espressioni**[^5-1]
 
-Per interpretare correttamente il regolamento (UE) n. 996/2010 a cui rimanda la presente ordinanza, occorre tenere conto delle equivalenze seguenti:
+Per interpretare correttamente il regolamento (UE) n. 996/2010 e la direttiva 2016/798/UE ai quali rimanda la presente ordinanza, occorre tenere conto delle equivalenze seguenti:
 
 <table>
-<tr><td>Espressione nel regolamento (UE) n. 996/2010</td><td>Espressione nella presente ordinanza</td></tr>
-<tr><td>relazione finale testimoni</td><td>rapporto finale persone in grado di fornire informazioni utili</td></tr>
+<tr><th>Espressione nel regolamento (UE) n. 996/2010 e nella direttiva 2016/798/UE</th><th>Espressione nella presente ordinanza</th></tr>
+<tr><td>Testimoni</td><td>Persone in grado di fornire informazioni utili</td></tr>
 </table>
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 ## Sezione 2: Organizzazione e compiti del SISI
 
@@ -111,7 +120,7 @@ Per interpretare correttamente il regolamento (UE) n. 996/2010 a cui rimanda la 
 
 Il SISI è una commissione extraparlamentare secondo gli articoli 57*a*–57*g* della legge del 21 marzo 1997[^6-1] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^6-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^6-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 7
 
@@ -144,12 +153,16 @@ Il SISI ha i seguenti compiti:
 - c. definisce gli obiettivi e i punti centrali delle sue attività;
 - d. assume i membri della direzione dell’ufficio d’inchiesta e il suo restante personale;
 - e. designa il servizio notifiche;
-- f. provvede alla disponibilità degli inquirenti e degli specialisti necessari per le inchieste;
+- f.[^10-1] provvede alla disponibilità degli inquirenti e degli specialisti necessari per le inchieste sulla sicurezza;
 - g. vigila sull’ufficio d’inchiesta;
-- h. approva il rapporto finale (art. 47);
-- i. decide in merito alle opposizioni contro le decisioni emanate nell’ambito dell’inchiesta (art. 15*b* cpv. 4 Lferr, art. 26 cpv. 4 LNA);
+- h.[^10-2] approva il rapporto preliminare (art. 44) e il rapporto finale (art. 47), quando contengono raccomandazioni e avvisi di sicurezza;
+- i.[^10-3] decide in merito alle opposizioni contro le decisioni emanate nell’ambito dell’inchiesta sulla sicurezza (art. 15*b* cpv. 4 Lferr, art. 26 cpv. 4 LNA);
 - j. assicura un sistema di garanzia della qualità efficace;
 - k. stila per ogni esercizio un rapporto annuale sulle sue attività, in particolare sul raggiungimento degli obiettivi, lo presenta al Consiglio federale e lo pubblica.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 11
 
@@ -170,9 +183,15 @@ La direzione dell’ufficio d’inchiesta ha i seguenti compiti:
 
 #### Art. 13
 
-**Personale dell’ufficio d’inchiesta**
+**Personale dell’ufficio d’inchiesta**[^13-1]
 
-Il personale dell’ufficio d’inchiesta, compreso quello della direzione, sottostà al diritto in materia di personale federale.
+<sup>1</sup> Il personale dell’ufficio d’inchiesta, compreso quello della direzione, sottostà al diritto in materia di personale federale.
+
+<sup>2</sup> I membri del SISI e il personale dell’ufficio d’inchiesta sono sollevati dall’obbligo di denuncia.
+
+<sup>3</sup> Se appare necessario considerata la gravità del possibile reato, possono presentare denuncia alle autorità di perseguimento penale.
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 14
 
@@ -182,7 +201,7 @@ Il personale dell’ufficio d’inchiesta, compreso quello della direzione, sott
 
 <sup>2</sup> Per i membri del SISI, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni è l’autorità superiore competente per sciogliere dal segreto d’ufficio (art. 320 n. 2 del Codice penale[^14-1]).
 
-[^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Sezione 3: Obblighi di notifica
 
@@ -197,13 +216,16 @@ Le imprese di trasporti pubblici notificano immediatamente al servizio notifiche
 - a. gli incidenti;
 - b. i quasi incidenti;
 - c. gli eventi straordinari;
-- d. gli atti di sabotaggio presunti o commessi;
+- d. [^15-1] …
 - e. gli incendi di veicoli;
-- f. il naufragio, le collisioni e gli incagliamenti di navi.
+- f.[^15-2] …
 
 <sup>2</sup> Non devono essere notificati i suicidi manifesti, i tentativi di suicidio manifesti e gli eventi imprevisti sulle strade pubbliche che sono da ricondurre a una violazione delle norme della circolazione stradale.
 
 <sup>3</sup> Le imprese ferroviarie coinvolte in un evento imprevisto sulla rete di un gestore dell’infrastruttura notificano tale evento al gestore dell’infrastruttura interessato. Quest’ultimo trasmette immediatamente la notifica al servizio notifiche.
+
+[^15-1]: Abrogata dalla cifra I dell’O del 13 set. 2024, con effetto dal 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^15-2]: Abrogata dalla cifra I dell’O del 13 set. 2024, con effetto dal 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 16
 
@@ -219,7 +241,8 @@ Le imprese di trasporti pubblici notificano all’Ufficio federale dei trasporti
 - d. le perturbazioni importanti;
 - e. gli eventi concernenti merci pericolose;
 - f. le esplosioni e gli incendi di una certa gravità relativi a impianti preposti alla sicurezza;
-- g. i suicidi e i tentativi di suicidio che hanno avuto come conseguenza almeno una ferita lieve.
+- g. i suicidi e i tentativi di suicidio che hanno avuto come conseguenza almeno una ferita lieve;
+- h.[^16-1] gli atti di sabotaggio presunti o commessi.
 
 <sup>2</sup>
 
@@ -243,13 +266,18 @@ Inoltre vanno notificati all’UFT i seguenti eventi:
   - 3\. le collisioni con altri veicoli, con l’infrastruttura o con ostacoli esterni,
   - 4\. i danni causati da superamenti di profilo,
   - 5\. il mancato funzionamento dei dispositivi di accelerazione o di decelerazione al momento dell’entrata e dell’uscita del veicolo, nonché di freni e di dispositivi di serraggio delle morse,
-  - 6\. le cadute di persone dai veicoli.
+  - 6\. le cadute di persone dai veicoli;
+
+- c.[^16-2] da parte delle imprese di navigazione: collisioni che comportano danni tra natanti, tra natanti e infrastrutture o tra natanti e persone.
 
 <sup>3</sup> Gli eventi devono essere notificati entro 30 giorni.
 
+[^16-1]: Introdotta dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^16-2]: Introdotta dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 17
 
-**Aviazione civile: obbligo di notifica**
+**Aviazione civile: notifiche al servizio notifiche[^17-1]**
 
 <sup>1</sup>
 
@@ -265,24 +293,30 @@ Gli eventi imprevisti nell’aviazione civile sono notificati immediatamente al 
 - h. organi doganali;
 - i. Ufficio federale dell’aviazione civile.
 
-<sup>2</sup> Gli eventi imprevisti concernenti aeromobili ultraleggeri, alianti da pendio, paracadute, cervi volanti, paracadute ascendenti e palloni frenati non devono essere notificati.
+<sup>2</sup> Gli eventi imprevisti concernenti aeromobili ultraleggeri, aeromobili non certificati senza occupanti, alianti da pendio, paracadute, cervi volanti, paracadute ascensionali e palloni frenati non devono essere notificati.[^17-2]
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 18
 
-**Navigazione marittima: obbligo di notifica**
+**Navigazione marittima: notifiche al servizio notifiche[^18-1]**
 
 L’Ufficio svizzero della navigazione marittima, il comandante della nave, le società di armatori svizzere e le società di classificazione riconosciute dalla Svizzera notificano immediatamente al servizio notifiche gli eventi imprevisti di cui all’articolo 3 lettera c.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 19
 
 **Notifica alle autorità estere**[^19-1]
 
-<sup>1</sup> Se un’impresa estera è coinvolta in un evento imprevisto avvenuto sul territorio svizzero, il SISI lo notifica alle autorità competenti dello Stato in cui ha sede l’impresa.
+<sup>1</sup> Se un’impresa estera è coinvolta in un evento imprevisto avvenuto sul territorio svizzero, l’ufficio d’inchiesta lo notifica alle autorità competenti dello Stato in cui ha sede l’impresa.[^19-2]
 
-<sup>2</sup> La notifica non può contenere dati personali degni di particolare protezione secondo l’articolo 5 lettera c della legge federale del 25 settembre 2020[^19-2] sulla protezione dei dati.
+<sup>2</sup> La notifica non può contenere dati personali degni di particolare protezione secondo l’articolo 5 lettera c della legge federale del 25 settembre 2020[^19-3] sulla protezione dei dati.
 
-[^19-1]: Nuovo testo giusta l’all. 2 n. II 81 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-1]: Nuovo testo giusta l’all. 2 cifra II n. 81 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^19-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Sezione 4: Procedura d’inchiesta
 
@@ -298,24 +332,34 @@ L’Ufficio svizzero della navigazione marittima, il comandante della nave, le s
 
 Esamina gli eventi imprevisti all’estero soltanto se:
 
-- a. l’inchiesta relativa a un evento imprevisto avvenuto in uno Stato estero concernente un aeromobile svizzero o un aeromobile costruito in Svizzera è affidata alle autorità svizzere;
+- a.[^20-3] l’inchiesta relativa a un evento imprevisto avvenuto in uno Stato estero è affidata alle autorità svizzere;
 - b. l’evento imprevisto è avvenuto al di fuori del territorio di uno Stato; oppure
 - c. nessuna autorità d’inchiesta estera si occupa dell’inchiesta.
+
+<sup>2bis</sup> Non esamina eventi imprevisti concernenti aeromobili di cui all’allegato 1 del regolamento (UE) n. 2018/1139. Può esaminarli se vi è motivo di presumere che l’inchiesta può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti o se vi è un forte interesse pubblico.[^20-4]
 
 <sup>3</sup> Esamina eventi imprevisti concernenti aeromobili utilizzati a scopi doganali o di polizia soltanto se vi è motivo di presumere che l’inchiesta può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti.
 
 <sup>4</sup> Può esaminare altri eventi imprevisti se vi è motivo di presumere che l’inchiesta può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
-[^20-2]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-2]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^20-4]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511))
 
 #### Art. 21
 
-**Apertura dell’inchiesta**
+**Apertura e abbandono dell’inchiesta sulla sicurezza**[^21-1]
 
-<sup>1</sup> L’ufficio d’inchiesta apre l’inchiesta.
+<sup>1</sup> L’ufficio d’inchiesta apre un’inchiesta preliminare.
 
-<sup>2</sup> Designa la persona responsabile della conduzione dell’inchiesta. Può assegnarle altri collaboratori o ricorrere a periti esterni.
+<sup>2</sup> L’inchiesta preliminare chiarisce se un’inchiesta può servire a prevenire ulteriori eventi imprevisti oppure se è obbligatoria sulla base di un accordo internazionale.
+
+<sup>3</sup> Se è aperta un’inchiesta, l’ufficio designa la persona responsabile di condurla. Può assegnarle altri collaboratori o ricorrere a periti esterni. ​
+
+<sup>4</sup> L’ufficio abbandona l’inchiesta se nel corso della stessa constata che essa non permetterà di prevenire ulteriori eventi imprevisti e che non è obbligatoria sulla base di accordi internazionali. Definisce le ragioni di tale decisione e le rende pubbliche.
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 22
 
@@ -323,7 +367,7 @@ Esamina gli eventi imprevisti all’estero soltanto se:
 
 <sup>1</sup>
 
-Le persone di cui è prevista la partecipazione all’inchiesta devono ricusarsi se:
+Le persone di cui è prevista la partecipazione all’inchiesta sulla sicurezza devono ricusarsi se:[^22-1]
 
 - a. hanno un interesse personale nella causa;
 - b. sono impiegate presso un’impresa coinvolta, membri dei suoi organi direttivi o incaricate della revisione dei suoi conti;
@@ -342,15 +386,19 @@ Le persone di cui è prevista la partecipazione all’inchiesta devono ricusarsi
 
 <sup>3</sup> Se la ricusazione è contestata, decide il SISI.
 
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 23
 
 **Coordinamento con le autorità di perseguimento penale e le autorità amministrative**
 
-<sup>1</sup> L’inchiesta è svolta indipendentemente da un procedimento penale o amministrativo.
+<sup>1</sup> L’inchiesta sulla sicurezza è svolta indipendentemente da un procedimento penale o amministrativo.[^23-1]
 
 <sup>2</sup> Le autorità di perseguimento penale, le autorità amministrative e il SISI coordinano le loro attività.
 
 <sup>3</sup> Mettono a reciproca disposizione e a titolo gratuito la documentazione d’inchiesta nonché le valutazioni e le registrazioni.
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 24
 
@@ -392,7 +440,9 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 <sup>2</sup> Le persone responsabili delle operazioni di messa in sicurezza e di soccorso e le autorità di perseguimento penale hanno libero accesso al luogo dell’incidente.
 
-<sup>3</sup> L’accesso è concesso ai rappresentanti delle autorità federali competenti, alle persone accreditate di uno Stato estero nonché ad altre persone in grado di rendere attendibile un interesse giuridico all’esito dell’inchiesta, purché ciò non intralci l’andamento della stessa.
+<sup>3</sup> L’accesso è concesso ai rappresentanti delle autorità federali competenti, alle persone accreditate di uno Stato estero nonché ad altre persone in grado di rendere attendibile un interesse giuridico all’esito dell’inchiesta sulla sicurezza, purché ciò non intralci l’andamento della stessa.[^28-1]
+
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 29
 
@@ -408,13 +458,17 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 #### Art. 30
 
-**Trasporti pubblici: obblighi di assistenza delle imprese ferroviarie**
+**Trasporti pubblici: obblighi di assistenza delle imprese[^30-1]**
 
-<sup>1</sup> Le imprese ferroviarie coinvolte sono tenute, per quanto necessario e possibile, a organizzare il trasporto di membri dell’ufficio d’inchiesta come pure di altre persone partecipanti all’inchiesta dalla più vicina stazione raggiungibile fino al luogo dell’incidente.
+<sup>1</sup> Le imprese coinvolte sono tenute, per quanto necessario e possibile, a organizzare il trasporto di membri dell’ufficio d’inchiesta come pure di altre persone partecipanti all’inchiesta sulla sicurezza dalla più vicina stazione raggiungibile fino al luogo dell’incidente.[^30-2]
 
 <sup>2</sup> Sono tenute a mettere a disposizione dell’ufficio d’inchiesta a titolo gratuito il personale immediatamente necessario per le operazioni d’inchiesta sul luogo dell’incidente nonché i mezzi tecnici ausiliari.
 
-<sup>3</sup> Per inchieste successive e per corse di prova sono tenute a mettere a disposizione a titolo gratuito l’infrastruttura, il personale, i mezzi tecnici ausiliari e la documentazione necessaria.
+<sup>3</sup> Per operazioni d’inchiesta successive e per corse di prova sono tenute a mettere a disposizione a titolo gratuito i veicoli, l’infrastruttura, il personale, i mezzi tecnici ausiliari e la documentazione necessaria.[^30-3]
+
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 31
 
@@ -426,7 +480,7 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 <sup>3</sup> In casi urgenti o con il consenso della persona da citare si può derogare ai requisiti relativi alla forma e ai termini.
 
-[^31-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^31-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 32
 
@@ -442,7 +496,7 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 <sup>5</sup> Il Tribunale amministrativo federale decide entro un mese in merito a una domanda di dissigillamento dell’ufficio d’inchiesta. La decisione è definitiva.
 
-[^32-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^32-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 33
 
@@ -452,7 +506,7 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 <sup>2</sup> All’esecuzione dei sequestri si applicano gli articoli 264 capoversi 1 e 3, 265 capoversi 1, 2 e 4, 266 capoversi 1 e 2 nonché 267 capoversi 5 e 6 CPP[^33-1].
 
-[^33-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^33-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 34
 
@@ -464,7 +518,7 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 <sup>3</sup> All’esecuzione degli esami medici si applica l’articolo 252 CPP[^34-1].
 
-[^34-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^34-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 35
 
@@ -482,15 +536,19 @@ Le autorità di perseguimento penale, i responsabili delle imprese coinvolte ed 
 
 <sup>1</sup> L’ufficio d’inchiesta può chiedere perizie.
 
-<sup>2</sup> Si applicano gli articoli 182, 183 capoverso 1, 184 ad eccezione dei capoversi 2 lettera f e 7, 185 ad eccezione dell’accompagnamento coattivo di cui al capoverso 4, 187, 189 e 190 CPP[^36-1].
+<sup>2</sup> Si applicano gli articoli 182, 183 capoverso 1, 184 ad eccezione dei capoversi 2 lettera f, 3 e 7, 185 ad eccezione dell’accompagnamento coattivo di cui al capoverso 4, 187, 189 e 190 CPP[^36-1].[^36-2]
 
-[^36-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^36-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 37
 
-**Navigazione marittima: provvedimenti coercitivi**
+**Navigazione marittima: provvedimenti coercitivi**[^37-1]
 
-I provvedimenti coercitivi previsti dalla presente ordinanza (art. 31–36) si applicano alla navigazione marittima soltanto se esiste una corrispondente base legale nella legge federale del 23 settembre 1953 sulla navigazione marittima sotto bandiera svizzera.
+I provvedimenti coercitivi previsti dalla presente ordinanza (art. 31–35) si applicano alla navigazione marittima soltanto se esiste una corrispondente base legale nella legge federale del 23 settembre 1953[^37-2] sulla navigazione marittima sotto bandiera svizzera.
+
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^37-2]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 38
 
@@ -508,9 +566,9 @@ L’ufficio d’inchiesta decide in merito alla consegna di oggetti relativi a u
 
 #### Art. 40
 
-**Facoltà di non deporre**
+[^40-1]
 
-L’ufficio d’inchiesta informa le persone in grado di fornire informazioni utili circa la loro facoltà di non deporre.
+[^40-1]: Abrogato dalla cifra I dell’O del 13 set. 2024, con effetto dal 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 41
 
@@ -532,49 +590,39 @@ L’ufficio d’inchiesta informa le persone in grado di fornire informazioni ut
 
 #### Art. 43
 
-**Rapporto preliminare**
+**Rapporto preliminare**[^43-1]
 
-<sup>1</sup> Non appena conosce gli elementi essenziali della dinamica di un evento imprevisto, l’ufficio d’inchiesta stila un rapporto preliminare. Questo contiene almeno i dati riguardanti le persone e i mezzi di trasporto coinvolti, la dinamica dell’evento imprevisto e la persona responsabile della conduzione dell’inchiesta.
+<sup>1</sup> Se è aperta un’inchiesta, l’ufficio d’inchiesta presenta un rapporto preliminare. Questo contiene almeno i dati riguardanti le persone e i mezzi di trasporto coinvolti, la dinamica dell’evento imprevisto e la persona responsabile della conduzione dell’inchiesta.
 
-<sup>2</sup> Il rapporto preliminare è inviato per informazione al personale coinvolto, ai detentori, proprietari ed esercenti dei mezzi di trasporto coinvolti nonché al dipartimento, all’ufficio federale e all’autorità penale competenti. Per la menzione di nomi si applica l’articolo 54.
+<sup>2</sup> Il rapporto è inviato per informazione al personale coinvolto, ai detentori, proprietari ed esercenti dei mezzi di trasporto coinvolti nonché al servizio responsabile della vigilanza. Se l’autorità di vigilanza è un’autorità federale, il rapporto è trasmesso anche al dipartimento competente. Per la menzione di nomi si applica l’articolo 54.
 
-<sup>3</sup> L’informazione alle autorità e organizzazioni estere competenti si basa sul diritto internazionale.
+<sup>3</sup> L’informazione alle autorità e organizzazioni estere competenti si basa sugli accordi internazionali.
+
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 44
 
-**Rapporto intermedio**
+**Rapporto intermedio**[^44-1]
 
-L’ufficio d’inchiesta comunica immediatamente al dipartimento e all’ufficio federale competenti, in un rapporto intermedio con relative raccomandazioni, i risultati essenziali dell’inchiesta che sono importanti ai fini della prevenzione di eventi imprevisti e che potrebbero richiedere provvedimenti immediati.
+<sup>1</sup> L’ufficio d’inchiesta riassume in un rapporto intermedio i risultati essenziali dell’inchiesta che sono importanti ai fini della prevenzione di eventi imprevisti e che potrebbero richiedere provvedimenti immediati, indicando anche i corrispondenti deficit di sicurezza e formulando le relative raccomandazioni.
 
-#### Art. 45
+<sup>2</sup> Trasmette la bozza del rapporto intermedio, per parere, ai servizi responsabili della vigilanza e ai soggetti direttamente interessati dall’attuazione della raccomandazione di sicurezza. Se l’autorità di vigilanza è un’autorità federale, trasmette la bozza anche al dipartimento competente.
 
-**Inchiesta sommaria e rapporto sommario: in generale**
+<sup>3</sup> Trasmette la bozza del rapporto intermedio, per parere, alle autorità e ai servizi esteri, se ciò è previsto dagli accordi internazionali.
 
-<sup>1</sup> L’ufficio d’inchiesta può chiudere un’inchiesta, se dalle prime operazioni d’inchiesta risulta che il suo proseguimento non apporterebbe elementi utili.
+<sup>4</sup> Stabilisce un termine adeguato per la presentazione dei pareri in funzione dell’urgenza della situazione.
 
-<sup>2</sup> Nell’ambito dell’inchiesta sommaria può limitarsi a interrogare le persone coinvolte e altre persone interessate.
+<sup>5</sup> Dopo aver preso in debita considerazione i pareri, redige il rapporto intermedio.
 
-<sup>3</sup> Stila un rapporto sommario. Questo informa sulle persone e i mezzi di trasporto coinvolti nonché sulla dinamica dell’evento imprevisto.
+<sup>6</sup> Invia immediatamente il rapporto intermedio alle persone e ai servizi che ne hanno già ricevuto la bozza.
 
-<sup>4</sup> Pubblica il rapporto sommario in Internet.
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
-#### Art. 46
+#### Art. 45 e 46
 
-**Inchiesta sommaria e rapporto sommario: aviazione civile**
+[^4546-1]
 
-<sup>1</sup> Gli eventi imprevisti relativi ad aeromobili con massa massima ammissibile al decollo inferiore a 2250 kg sono oggetto soltanto di un’inchiesta sommaria.
-
-<sup>2</sup>
-
-Sono oggetto tuttavia di un’inchiesta completa se:
-
-- a. una persona è rimasta ferita mortalmente o gravemente;
-- b. vi è motivo di supporre che l’evento imprevisto si sia verificato a causa di una carente navigabilità, sempre che questa non sia da imputare esclusivamente al carrello d’atterraggio;
-- c. si tratta di voli commerciali o voli d’istruzione e l’aeromobile è stato notevolmente danneggiato;
-- d. l’ufficio d’inchiesta ritiene particolarmente utile svolgere un’inchiesta completa sull’evento imprevisto;
-- e. nel caso di eventi imprevisti relativi ad aeromobili esteri, l’autorità d’inchiesta estera chiede un’inchiesta completa.
-
-<sup>3</sup> Gli eventi imprevisti relativi a motoveleggiatori, alianti, palloni liberi e aeromobili rientranti nella categoria speciale delle autocostruzioni sono oggetto soltanto di un’inchiesta sommaria, salvo se una persona è rimasta ferita mortalmente o gravemente. L’ufficio d’inchiesta può ordinare l’inchiesta completa, se ritiene che sia particolarmente utile al fine della prevenzione degli incidenti.
+[^4546-1]: Abrogati dalla cifra I dell’O del 13 set. 2024, con effetto dal 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 47
 
@@ -584,40 +632,53 @@ Sono oggetto tuttavia di un’inchiesta completa se:
 
 <sup>2</sup>
 
-Il rapporto finale informa:
+Sul piano del contenuto e della forma il rapporto finale tiene conto del diritto internazionale pertinente e informa almeno:[^47-1]
 
 - a. sulle persone, imprese, mezzi di trasporto e infrastrutture di trasporto coinvolti e interessati;
 - b. sulla dinamica dell’evento imprevisto nonché sulle cause e circostanze di quest’ultimo;
 - c. sull’entità dei danni alle persone e materiali;
 - d. sui risultati delle operazioni d’inchiesta e delle perizie.
 
-<sup>3</sup> Se sono state riscontrate lacune nella sicurezza, il rapporto finale contiene le corrispondenti raccomandazioni di sicurezza.
+<sup>3</sup> Se sono stati rilevati deficit di sicurezza, il rapporto finale contiene le corrispondenti raccomandazioni di sicurezza. Nel rapporto finale il SISI può trasmettere avvisi di sicurezza alle imprese e alle organizzazioni del vettore di trasporto interessato.[^47-2]
 
-<sup>4</sup> L’ufficio d’inchiesta trasmette la bozza di rapporto finale per parere alle persone direttamente interessate dall’inchiesta e a quelle in essa direttamente coinvolte nonché al dipartimento e all’ufficio federale competenti.
+<sup>4</sup> L’ufficio d’inchiesta trasmette, per parere, la bozza di rapporto finale alle persone direttamente interessate dall’inchiesta o in essa direttamente coinvolte nonché al servizio responsabile della vigilanza. Se l’autorità di vigilanza è un’autorità federale, trasmette la bozza anche al dipartimento competente.[^47-3]
 
-<sup>4</sup> <sup>bis</sup> Trasmette la bozza di rapporto finale per parere alle autorità estere competenti e ad altre persone e organizzazioni, se previsto da accordi internazionali.[^47-1]
+<sup>4bis</sup> Trasmette la bozza di rapporto finale per parere alle autorità estere competenti e ad altre persone e organizzazioni, se previsto da accordi internazionali.[^47-4]
 
-<sup>5</sup> I pareri possono essere inoltrati entro 60 giorni dalla trasmissione della bozza di rapporto finale.
+<sup>5</sup> I pareri possono essere inoltrati entro 30 giorni dalla trasmissione della bozza di rapporto finale.[^47-5]
 
-<sup>6</sup> L’ufficio d’inchiesta stila il rapporto finale tenendo conto dei pareri e lo sottopone al SISI per approvazione.
+<sup>6</sup> Dopo aver preso in debita considerazione i pareri, l’ufficio d’inchiesta redige il rapporto finale.[^47-6]
 
 <sup>7</sup> Invia il rapporto finale alle persone e ai servizi che ne hanno già ricevuto la bozza.
 
-[^47-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-4]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^47-5]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^47-6]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 48
 
 **Raccomandazioni di sicurezza**
 
-<sup>1</sup> Il SISI rivolge le sue raccomandazioni di sicurezza all’ufficio federale competente e ne informa il dipartimento competente. In caso di problemi di sicurezza urgenti informa immediatamente il dipartimento competente. Può prendere posizione sui rapporti di attuazione dell’ufficio federale all’attenzione del dipartimento competente.
+<sup>1</sup> Il SISI rivolge le sue raccomandazioni di sicurezza al servizio responsabile della vigilanza. Se l’autorità di vigilanza è un’autorità federale, informa anche il dipartimento competente. In caso di problemi di sicurezza urgenti informa immediatamente il dipartimento competente.[^48-1]
 
-<sup>1bis</sup> Rivolge raccomandazioni di sicurezza ad autorità estere, se previsto da accordi internazionali.[^48-1]
+<sup>1bis</sup> Rivolge raccomandazioni di sicurezza ad autorità estere, se previsto da accordi internazionali.[^48-2]
 
-<sup>2</sup> Gli uffici federali informano periodicamente il SISI e il dipartimento competente sull’attuazione delle raccomandazioni di sicurezza o sulle ragioni per cui hanno rinunciato a prendere misure.
+<sup>2</sup> I destinatari delle raccomandazioni di sicurezza informano periodicamente il SISI sull’attuazione di tali raccomandazioni o sulle ragioni per cui hanno rinunciato a prendere misure.[^48-3]
+
+<sup>2bis</sup> Se il destinatario è un’autorità federale, quest’ultima informa anche il dipartimento competente.[^48-4]
+
+<sup>2ter</sup> Il SISI prende posizione sui rapporti di attuazione presentati dagli uffici federali. In merito ai rapporti di attuazione presentati dall’autorità federale può prendere posizione all’attenzione del dipartimento competente.[^48-5]
 
 <sup>3</sup> Il dipartimento competente può conferire all’ufficio federale competente mandati di attuazione di raccomandazioni di sicurezza.
 
-[^48-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-2]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^48-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-4]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^48-5]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 49
 
@@ -627,7 +688,7 @@ Se, entro dieci anni dall’approvazione del rapporto finale, emergono nuovi fat
 
 #### Art. 50
 
-**Spese d’inchiesta**
+**Spese dell’inchiesta sulla sicurezza[^50-1]**
 
 <sup>1</sup>
 
@@ -638,36 +699,48 @@ Le spese d’inchiesta possono essere addossate alle persone che le hanno cagion
 
 <sup>2</sup> Le spese relative a compiti di polizia nell’ambito di un evento imprevisto rientrano nelle spese d’inchiesta soltanto se l’ufficio d’inchiesta ha conferito espressamente tali compiti agli organi di polizia.
 
+<sup>3</sup> Le spese di rimozione e smaltimento di un aeromobile sono a carico del detentore dello stesso, indipendentemente dal fatto che la rimozione sia stata ordinata ai fini dell’inchiesta sulla sicurezza. I costi di rimozione comprendono anche il trasporto dal luogo dell’evento al deposito del SISI nonché lo sgombero o lo smaltimento del relitto dopo la sua consegna.[^50-2]
+
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^50-2]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 51
 
 **Consultazione degli atti**
 
 <sup>1</sup>
 
-Possono chiedere la consultazione degli atti:
+Se è aperta un’inchiesta, possono chiedere la consultazione degli atti:[^51-1]
 
 - a. le persone direttamente interessate dalla procedura d’inchiesta;
-- b. l’ufficio federale competente;
-- c. le autorità penali cantonali;
+- b.[^51-2] le autorità federali competenti o i servizi responsabili della vigilanza;
+- c.[^51-3] le autorità penali;
 - d. le persone partecipanti all’inchiesta rappresentanti uno Stato estero.
 
-<sup>2</sup> La consultazione degli atti può essere limitata, negata o rinviata fintantoché lo esige l’interesse dell’inchiesta secondo la presente ordinanza o quello di un’altra inchiesta in corso.
+<sup>2</sup> Se non previsto diversamente da altre diposizioni di legge, la consultazione degli atti può essere limitata, negata o rinviata fintantoché lo esige l’interesse dell’inchiesta secondo la presente ordinanza o quello di un’altra inchiesta in corso.[^51-4]
 
-<sup>3</sup> Una volta conclusa l’inchiesta, l’ufficio d’inchiesta mette gli atti a disposizione delle autorità inquirenti, giudiziarie e amministrative competenti che ne fanno domanda per le loro procedure.
+<sup>3</sup> Fatto salvo l’articolo 24, una volta conclusa l’inchiesta l’ufficio d’inchiesta mette gli atti a disposizione delle autorità inquirenti, giudiziarie e amministrative competenti che ne fanno domanda per le loro procedure.[^51-5]
+
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-4]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^51-5]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 52
 
 **Termini**
 
-<sup>1</sup> Le inchieste relative a eventi imprevisti sono concluse entro 12 mesi.
+<sup>1</sup> Le inchieste sulla sicurezza relative a eventi imprevisti sono concluse entro 12 mesi.[^52-1]
 
 <sup>2</sup> Per gli eventi imprevisti relativi a grandi aeromobili o navi si applica un termine di 18 mesi. Per grande aeromobile si intende un aeromobile avente una massa massima ammissibile al decollo di almeno 5700 kg, classificato nella categoria di navigabilità standard, sottocategoria «Trasporto», o che dispone di più di dieci posti a sedere per passeggeri ed equipaggio.
 
 <sup>3</sup> Se il termine non può essere rispettato, la persona responsabile della conduzione dell’inchiesta informa la direzione dell’ufficio d’inchiesta e motiva il ritardo. La direzione dell’ufficio d’inchiesta fissa un secondo termine adeguato.
 
-<sup>4</sup> Se è concesso un secondo termine, l’ufficio d’inchiesta decide se pubblicare, all’anniversario dell’evento imprevisto, un rapporto sullo stato dei lavori che espone i progressi dell’inchiesta e gli eventuali problemi di sicurezza. A tal fine tiene conto delle prescrizioni internazionali e della portata dell’evento imprevisto.[^52-1]
+<sup>4</sup> Se è concesso un secondo termine, l’ufficio d’inchiesta decide se pubblicare, all’anniversario dell’evento imprevisto, un rapporto sullo stato dei lavori che espone i progressi dell’inchiesta e gli eventuali problemi di sicurezza. A tal fine tiene conto delle prescrizioni internazionali e della portata dell’evento imprevisto.[^52-2]
 
-[^52-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^52-2]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Sezione 5: Pubblicazioni
 
@@ -677,15 +750,15 @@ Possono chiedere la consultazione degli atti:
 
 <sup>1</sup> Il SISI pubblica i rapporti preliminari, i rapporti intermedi e i rapporti finali.
 
-<sup>2</sup> Pubblica periodicamente, tuttavia almeno una volta all’anno, una sintesi dei rapporti sommari.
+<sup>2</sup> …[^53-1]
 
-<sup>3</sup> Pubblica almeno una volta all’anno una sintesi delle raccomandazioni di sicurezza. In tale contesto precisa anche il loro stato di attuazione.
+<sup>3</sup> Pubblica almeno una volta all’anno una sintesi delle raccomandazioni e degli avvisi di sicurezza. Presenta inoltre un rapporto sull’attuazione delle raccomandazioni di sicurezza.[^53-2]
 
 <sup>4</sup> Pubblica i rapporti e le sintesi in Internet.
 
 <sup>5</sup>
 
-Trasmette d’ufficio i rapporti e le sintesi relativi ai corrispondenti settori alle persone e ai servizi seguenti:
+D’ufficio trasmette online i rapporti e le sintesi concernenti i diversi settori alle persone e ai servizi seguenti, a condizione che si siano previamente annunciati:[^53-3]
 
 - a. imprese di trasporti pubblici e imprese di manutenzione;
 - b.
@@ -699,9 +772,14 @@ Trasmette d’ufficio i rapporti e le sintesi relativi ai corrispondenti settori
   - 5\. organi della sicurezza aerea,
   - 6\. capi di aerodromo;
 
-- c. nel settore della navigazione marittima: le società di armatori svizzere;
+- c.[^53-4] nel settore della navigazione marittima: alle società di armatori che gestiscono navi sotto bandiera svizzera;
 - d. altre persone e organizzazioni che si occupano di questioni inerenti alla sicurezza aerea o dei trasporti;
 - e. alle autorità competenti della Confederazione e dei Cantoni.
+
+[^53-1]: Abrogato dalla cifra I dell’O del 13 set. 2024, con effetto dal 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-3]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^53-4]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 54
 
@@ -711,24 +789,40 @@ Trasmette d’ufficio i rapporti e le sintesi relativi ai corrispondenti settori
 
 <sup>2</sup> Fanno eccezione i nomi delle imprese, scuole di volo e imprese di manutenzione coinvolte, dei costruttori dei mezzi di trasporto coinvolti e dei relativi componenti, degli impianti di sicurezza nonché delle infrastrutture e dei relativi componenti.
 
+#### Art. 54a
+
+**Legge sulla trasparenza**[^54a-1]
+
+Nella misura in cui trattano dati concernenti persone fisiche e giuridiche, il SISI e l’ufficio d’inchiesta sono esclusi dal campo d’applicazione della legge federale del 17 dicembre 2004[^54a-2] sul principio di trasparenza dell’amministrazione.
+
+[^54a-1]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511))
+[^54a-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+
 #### Art. 55
 
 **Statistica**
 
-<sup>1</sup> Il SISI pubblica annualmente statistiche sugli eventi imprevisti.
+<sup>1</sup> Il SISI pubblica annualmente statistiche sugli eventi imprevisti che gli sono stati notificati.[^55-1]
 
 <sup>2</sup>
 
-Fornisce i dati relativi agli eventi imprevisti:
+Fornisce informazioni sugli eventi imprevisti in merito ai quali ha svolto inchieste:[^55-2]
 
 - a. nel settore dell’aviazione civile, all’Organizzazione internazionale dell’aviazione civile (*International Civil Aviation Organization*, ICAO), alla Conferenza europea dell’aviazione civile (*European Civil Aviation Conference*, ECAC) e all’Agenzia europea per la sicurezza aerea (*European Aviation* *Safety* *Agency*, EASA);
-- b. nel settore della navigazione marittima, all’Organizzazione marittima internazionale (*International Maritime Organization*, IMO).
+- b. nel settore della navigazione marittima, all’Organizzazione marittima internazionale (*International Maritime Organization*, IMO);
+- c.[^55-3] nel settore ferroviario, all’Agenzia dell’Unione europea per le ferrovie (*European Union Agency for Railways*, ERA).
+
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^55-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^55-3]: Introdotta dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511))
 
 #### Art. 56
 
-**Informazioni relative alla prevenzione di incidenti**
+**Informazioni relative alla prevenzione di eventi imprevisti**[^56-1]
 
-Il SISI può elaborare e pubblicare informazioni generali utili per la prevenzione di incidenti.
+Il SISI può raccogliere e pubblicare informazioni generali utili per la prevenzione di eventi imprevisti.
+
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 57
 
@@ -742,9 +836,11 @@ Il SISI può elaborare e pubblicare informazioni generali utili per la prevenzio
 
 #### Art. 58
 
-<sup>1</sup> Chi viola l’obbligo di notifica secondo l’articolo 15 capoversi 1 o 3 è punito conformemente all’articolo 86*a* capoverso 1 lettera e Lferr.
+<sup>1</sup> Chi viola l’obbligo di notifica secondo l’articolo 15 capoversi 1 o 3 è punito conformemente all’articolo 86 capoverso 3 Lferr.[^58-1]
 
 <sup>2</sup> Chi viola l’obbligo di notifica secondo l’articolo 17 capoverso 1 è punito conformemente all’articolo 91 capoverso 1 lettera i LNA.
+
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -759,14 +855,22 @@ Sono abrogate:
 - 3\. l’ordinanza del 23 novembre 1994[^59-3] concernente le inchieste sugli infortuni aeronautici e incidenti gravi.
 
 [^59-1]: [[RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652), [4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. a]
-[^59-2]: [[RU 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), [2845](https://fedlex.data.admin.ch/eli/oc/2000/485);[2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 68; [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
-[^59-3]: [[RU 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037), [1995 1452](https://fedlex.data.admin.ch/eli/oc/1995/1452_1452_1452), [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385), [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. c [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
+[^59-2]: [[RU 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), [2845](https://fedlex.data.admin.ch/eli/oc/2000/485); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 68; [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
+[^59-3]: [[RU 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037); [1995 1452](https://fedlex.data.admin.ch/eli/oc/1995/1452_1452_1452); [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385); [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. c [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
 
 #### Art. 60
 
 **Modifica di altri atti normativi**
 
 La modifica di altri atti normativi è disciplinata nell’allegato.
+
+#### Art. 60a
+
+**Disposizione transitoria concernente la modifica del 13 settembre 2024**[^60a-1]
+
+I risultati di inchieste su eventi imprevisti avvenuti prima dell’entrata in vigore della modifica del 13 settembre 2024 possono essere riassunti in rapporti conformi ai requisiti formali applicabili al momento dell’evento e pubblicati.
+
+[^60a-1]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 61
 
@@ -782,6 +886,6 @@ Allegato
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26).
