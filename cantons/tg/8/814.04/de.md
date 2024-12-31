@@ -4,13 +4,12 @@ number: "814.04"
 title: Gesetz über die Abfallbewirtschaftung
 short: Abfallgesetz
 language: de
-version: 2013-01-01
-valid_until: 2024-12-31
-version_adopted: 2011-11-21
+version: 2025-01-01
+version_adopted: 2024-08-14
 adopted: 2007-07-04
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.04"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2246/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2861/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Abfallgesetz
 
 (Abfallgesetz)
 
-vom 04.07.2007 (Stand 01.01.2013)
+vom 04.07.2007 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -57,8 +56,8 @@ vom 04.07.2007 (Stand 01.01.2013)
 
 <sup>2</sup> In der Abfallplanung ist zusätzlich festzuhalten:
 
-- 1\. der Stand der Abfallbewirtschaftung einschliesslich eines allfälligen Handlungsbedarfs zur Zielerreichung;
-- 2 wie die Koordination mit der Abfallplanung der Nachbarkantone sowie der Raumplanung erfolgt.
+- 1\. der Stand der Abfallbewirtschaftung einschliesslich eines allfälligen Handlungsbedarfs zur Zielerreichung
+- 2 wie die Koordination mit der Abfallplanung der Nachbarkantone sowie der Raumplanung erfolgt
 
 <sup>3</sup> Die Standorte der Abfallanlagen von kantonaler Bedeutung sind in den kantonalen Richtplan aufzunehmen.
 
@@ -80,10 +79,10 @@ vom 04.07.2007 (Stand 01.01.2013)
 
 <sup>1</sup> Die Gemeinden sind zuständig für:
 
-- 1\. die Bewirtschaftung von Siedlungsabfällen sowie den Bau und den Betrieb der dazu erforderlichen Abfallanlagen;
-- 2\. die Bewirtschaftung von Abfällen aus dem Unterhalt der von ihnen unterhaltenen Strassen und Wege sowie aus ihren Abwasserreinigungsanlagen;
-- 3\. die Sammlung und Zwischenlagerung von Sonderabfällen in kleinen Mengen aus Haushalt und Gewerbe;
-- 4\. die Bewirtschaftung von Abfällen, deren Inhaber oder Inhaberin nicht ermittelt werden kann oder die Pflicht nach § 5 nicht erfüllt. Für die Kosten der Bewirtschaftung bleibt der Rückgriff auf die Pflichtigen vorbehalten.
+- 1\. die Bewirtschaftung von Siedlungsabfällen sowie den Bau und den Betrieb der dazu erforderlichen Abfallanlagen
+- 2\. die Bewirtschaftung von Abfällen aus dem Unterhalt der von ihnen unterhaltenen Strassen und Wege sowie aus ihren Abwasserreinigungsanlagen
+- 3\. die Sammlung und Zwischenlagerung von Sonderabfällen in kleinen Mengen aus Haushalt und Gewerbe
+- 4\. die Bewirtschaftung von Abfällen, deren Inhaber oder Inhaberin nicht ermittelt werden kann oder die Pflicht nach § 5 nicht erfüllt. Für die Kosten der Bewirtschaftung bleibt der Rückgriff auf die Pflichtigen vorbehalten
 
 <sup>2</sup> Die Gemeinden erlassen ein Reglement über die Abfallbewirtschaftung, welches der Genehmigung durch das zuständige Departement des Regierungsrates bedarf.
 
@@ -93,8 +92,8 @@ vom 04.07.2007 (Stand 01.01.2013)
 
 <sup>1</sup> Der Kanton ist zuständig für:
 
-- 1\. die Bewirtschaftung der Sonderabfälle aus den Sammlungen oder Zwischenlagerungen der Gemeinden nach § 6 Abs. 1 Ziff. 3;
-- 2\. die Bewirtschaftung von Abfällen aus dem Unterhalt der von ihm unterhaltenen Strassen und Wege.
+- 1\. die Bewirtschaftung der Sonderabfälle aus den Sammlungen oder Zwischenlagerungen der Gemeinden nach § 6 Abs. 1 Ziff. 3
+- 2\. die Bewirtschaftung von Abfällen aus dem Unterhalt der von ihm unterhaltenen Strassen und Wege
 
 <sup>2</sup> Er kann diese Aufgaben oder einzelne Teilbereiche geeigneten Organisationen des öffentlichen oder privaten Rechts übertragen, sofern diese Gewähr für eine vorschriftsgemässe Ausführung bieten.
 
@@ -257,7 +256,7 @@ vom 04.07.2007 (Stand 01.01.2013)
 
 <sup>1</sup> Kann der Verursacher oder die Verursacherin nach Art. 32d USG nicht ermittelt werden, ist er oder sie zahlungsunfähig oder auf Grund gesetzlicher Bestimmungen von der Kostentragung befreit, werden die Kosten unter Vorbehalt von Abs. 2 vom Kanton getragen.
 
-<sup>2</sup> Die betroffenen Gemeinden haben sich mit 50 Prozent zu beteiligen. In Härtefällen kann der Regierungsrat den Gemeindeanteil reduzieren.
+<sup>2</sup> Die betroffenen Gemeinden haben sich mit 50 % zu beteiligen. In Härtefällen kann der Regierungsrat den Gemeindeanteil reduzieren.
 
 <sup>3</sup> Der Rückgriff auf den Verursacher oder die Verursacherin bleibt vorbehalten.
 
@@ -323,29 +322,15 @@ vom 04.07.2007 (Stand 01.01.2013)
 
 <sup>2</sup> Handelt der Täter aus Gewinnsucht, ist die urteilende Behörde nicht an den Höchstbetrag der Busse gemäss Abs. 1 gebunden.
 
-<sup>3</sup> Für geringfügige Übertretungen gemäss Abs. 1 Ziff. 1 und Ziff. 2 kann der Regierungsrat Ordnungsbussen zwischen Fr. 50 und Fr. 300 festlegen. § 193 und § 194 des Gesetzes über die Strafrechtspflege vom 30. Juni 1970 / 5. November 1991[^30-1] sind anwendbar.
+<sup>3</sup> Für geringfügige Übertretungen gemäss Abs. 1 Ziff. 1 (Littering) kann der Regierungsrat Ordnungsbussen zwischen Fr. 150 und Fr. 300 festlegen. § 51 des Gesetzes über die Zivil- und Strafrechtspflege (ZSRG)[^30-1] ist anwendbar.
 
 <sup>4</sup> § 118 des Planungs- und Baugesetzes (PBG)[^30-2] ist anwendbar.
 
-[^30-1]: Heute: § 51 des Gesetzes über die Zivil- und Strafrechtspflege (ZSRG; RB [271.1](https://www.rechtsbuch.tg.ch/data/271.1/de))
+[^30-1]: RB [271.1](https://www.rechtsbuch.tg.ch/data/271.1/de)
 [^30-2]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
 
-#### § 31
+#### § 31–33
 
 **…**
-
-#### § 32
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Das Gesetz über die Abfallbewirtschaftung vom 10. Februar 1993 wird aufgehoben.
-
-#### § 33
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^33-1].
-
-[^33-1]: In Kraft gesetzt auf den 1. Januar 2008.
 
 28/2007
