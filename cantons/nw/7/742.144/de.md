@@ -1,22 +1,22 @@
 ---
 canton: NW
 number: "742.144"
-title: Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2024 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
+title: Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2025 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2025-12-02
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.144"
-pdf: "https://gesetze.nw.ch/api/de/versions/1257/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2024 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
+# Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2025 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
 
-vom 12.12.2023 (Stand 01.01.2024)
+vom 10.12.2024 (Stand 01.01.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -37,9 +37,9 @@ beschliesst:
 
 <sup>1</sup> Für den Bereich der erweiterten Grundversorgung Akutsomatik gilt eine Referenzbaserate in der Höhe von 9‘690 Franken (SwissDRG, CW 1.0).
 
-<sup>2</sup> Für den Bereich der spezialisierten Zentrumsleistungen Akutsomatik gilt eine Referenzbaserate in der Höhe von 9‘800 Franken (SwissDRG, CW 1.0).
+<sup>2</sup> Für den Bereich der spezialisierten Zentrumsleistungen Akutsomatik gilt eine Referenzbaserate in der Höhe von 10'090 Franken (SwissDRG, CW 1.0).
 
-<sup>3</sup> Für den Bereich der spezialisierten universitären Leistungen Akutsomatik gilt eine Referenzbaserate in der Höhe von 10'650 Franken (SwissDRG, CW 1.0).
+<sup>3</sup> Für den Bereich der spezialisierten universitären Leistungen Akutsomatik gilt eine Referenzbaserate in der Höhe von 11'150 Franken (SwissDRG, CW 1.0).
 
 <sup>4</sup> Für den Bereich der Erwachsenenpsychiatrie gilt eine Referenzbaserate in der Höhe von 712 Franken (TARPSY, CW 1.0).
 
@@ -49,7 +49,7 @@ beschliesst:
 
 #### Ziff. 3
 
-<sup>1</sup> Die Referenztarife gelten ab 1. Januar 2024.
+<sup>1</sup> Die Referenztarife gelten ab 1. Januar 2025.
 
 #### Ziff. 4
 
@@ -57,4 +57,4 @@ beschliesst:
 
 <sup>2</sup> Die rückwirkende Geltendmachung allfälliger Tarifdifferenzen durch die Spitäler oder die Krankenversicherer und den Kanton bleibt vorbehalten.
 
-2024-004
+2024-047
