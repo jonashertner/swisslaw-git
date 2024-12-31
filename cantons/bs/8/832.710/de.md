@@ -4,13 +4,12 @@ number: "832.710"
 title: "Verordnung betreffend Ergänzungsleistungen und kantonale Beihilfen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: VELG
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-29
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 1989-12-12
 in_force: 1990-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/832.710"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5738/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6522/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ergänzungsleistungen zur AHV/ IV: Verordnung | AHV und IV / Alters- und Invalid
 
 (VELG)
 
-Vom 12. Dezember 1989 (Stand 1. Januar 2023)
+Vom 12. Dezember 1989 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -76,6 +75,11 @@ beschliesst:
 
 <sup>2</sup> In den Vertragsheimen mit Alterspflege ist für die Berücksichtigung der Taxen ein Pflegebedürftigkeitsnachweis erforderlich. In den anerkannten Heimen ist eine Bewilligung des Leistungsbezugs gemäss § 14 BHG erforderlich.
 
+<sup>2<sup>bis</sup></sup> Die Berücksichtigung der Taxen in den anerkannten Heimen nach BHG wird durch die Abteilung Langzeitpflege des Gesundheitsdepartements bewilligt, falls die betroffene Person:
+
+- a) das Referenzalter gemäss dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946 erreicht hat und
+- b) auf Veranlassung der Abteilung Langzeitpflege des Gesundheitsdepartements einen mittels des Instruments des Individuellen Hilfeplans (IHP) gemäss § 5 der Verordnung über die Behindertenhilfe (BHV) vom 29. November 2016 festgestellten behinderungsbedingten Bedarf nachweist.
+
 <sup>3</sup> Versicherungsleistungen für Pflege, Unterkunft und Verpflegung werden als Einkünfte angerechnet, Hilflosenentschädigungen nur, wenn in der Taxe auch die Kosten für die Pflege einer hilflosen Person enthalten sind.
 
 <sup>4</sup> Solange bei vorübergehendem Aufenthalt im Heim der Betrag für den allgemeinen Lebensbedarf anerkannt wird, wird die berücksichtigte Heimtaxe wie beim vorübergehenden Spitalaufenthalt gemäss § 10 der Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen (KBV) vom 18. Dezember 2007 gekürzt.
@@ -125,28 +129,28 @@ beschliesst:
 <sup>1</sup> Die Beträge für den allgemeinen Lebensbedarf für die kantonale Beihilfe an zu Hause Wohnende gemäss § 18 EG/ELG belaufen sich auf:
 
 - a) Alleinstehende
-  - aa) ohne Kinder — Fr. 21'100
-  - ab) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'515
-  - ac) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 7'010
-  - ad) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'505
-  - ae) 1. Kind vor dem 11. Altersjahr — Fr. 7'380
-  - af) 2. Kind vor dem 11. Altersjahr — Fr. 6'150
-  - ag) 3. Kind vor dem 11. Altersjahr — Fr. 5'125
-  - ah) 4. Kind vor dem 11. Altersjahr — Fr. 4'270
-  - ai) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'560
+  - aa) ohne Kinder — Fr. 21'670
+  - ab) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'815
+  - ac) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 7'210
+  - ad) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'605
+  - ae) 1. Kind vor dem 11. Altersjahr — Fr. 7'590
+  - af) 2. Kind vor dem 11. Altersjahr — Fr. 6'325
+  - ag) 3. Kind vor dem 11. Altersjahr — Fr. 5'270
+  - ah) 4. Kind vor dem 11. Altersjahr — Fr. 4'390
+  - ai) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'660
 - b) Ehepaare und eingetragene Partnerschaften
-  - ba) ohne Kinder — Fr. 31'650
-  - bb) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'515
-  - bc) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 7'010
-  - bd) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'505
-  - be) 1. Kind vor dem 11. Altersjahr — Fr. 7'380
-  - bf) 2. Kind vor dem 11. Altersjahr — Fr. 6'150
-  - bg) 3. Kind vor dem 11. Altersjahr — Fr. 5'125
-  - bh) 4. Kind vor dem 11. Altersjahr — Fr. 4'270
-  - bi) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'560
+  - ba) ohne Kinder — Fr. 32'505
+  - bb) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'815
+  - bc) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 7'210
+  - bd) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'605
+  - be) 1. Kind vor dem 11. Altersjahr — Fr. 7'590
+  - bf) 2. Kind vor dem 11. Altersjahr — Fr. 6'325
+  - bg) 3. Kind vor dem 11. Altersjahr — Fr. 5'270
+  - bh) 4. Kind vor dem 11. Altersjahr — Fr. 4'390
+  - bi) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'660
 - c) Waisen
-  - ca) nach dem 11. Altersjahr — Fr. 11'015
-  - cb) vor dem 11. Altersjahr — Fr. 7'880
+  - ca) nach dem 11. Altersjahr — Fr. 11'315
+  - cb) vor dem 11. Altersjahr — Fr. 8'090
 
 ### (I.)IX. Pflegebeihilfe
 
