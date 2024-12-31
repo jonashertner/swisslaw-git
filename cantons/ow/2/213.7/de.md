@@ -4,13 +4,12 @@ number: "213.7"
 title: Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht
 short: Schätzungs- und Grundpfandgesetz
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-10-28
+version: 2025-01-01
+version_adopted: 2024-05-23
 adopted: 2006-10-26
 in_force: 2007-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.7"
-pdf: "http://gdb.ow.ch/api/de/versions/1555/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1902/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1555/pdf_file"
 
 (Schätzungs- und Grundpfandgesetz)
 
-vom 26.10.2006 (Stand 01.01.2023)
+vom 26.10.2006 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -138,31 +137,21 @@ beschliesst:
 
 **Einsprache**
 
-<sup>1</sup> Gegen die Schätzung kann innert 30 Tagen nach der Zustellung bei der kantonalen Steuerverwaltung schriftlich Einsprache erhoben werden. Die Einsprache muss eine Begründung und einen Antrag enthalten.
+<sup>1</sup> Gegen den Steuerwert können die Steuerpflichtigen anlässlich jeder Veranlagungsverfügung der Einkommens- und Vermögenssteuern resp. der Gewinn- und Kapitalsteuer innert 30 Tagen nach der Zustellung bei der kantonalen Steuerverwaltung schriftlich Einsprache erheben. Die Einsprache muss eine Begründung und einen Antrag enthalten.
 
-<sup>2</sup> Einspracheberechtigt sind der Grundeigentümer oder die Grundeigentümerin, der Nutzniesser oder die Nutzniesserin sowie die weiteren Auftraggebenden.
+<sup>2</sup> In allen anderen Fällen kann innert 30 Tagen nach der Zustellung bei der kantonalen Steuerverwaltung schriftlich Einsprache erhoben werden. Die Einsprache muss eine Begründung und einen Antrag enthalten. Einspracheberechtigt sind der Grundeigentümer oder die Grundeigentümerin, der Nutzniesser oder die Nutzniesserin sowie die weiteren Auftraggeber oder Auftraggeberinnen.
 
-#### Art. 12
+#### Art. 12–13
 
-**Einigungsverfahren**
-
-<sup>1</sup> Die kantonale Steuerverwaltung kann im Einspracheverfahren eine Einigungsverhandlung durchführen.
-
-<sup>2</sup> Kommt mit der einsprechenden Person eine Einigung zustande, so ist das Ergebnis schriftlich festzuhalten und von ihr zu unterzeichnen.
-
-<sup>3</sup> Eine Änderung der Schätzung im Einigungsverfahren ist den übrigen betroffenen Einspracheberechtigten schriftlich mitzuteilen und wird verbindlich, wenn diese gegen die Änderung nicht innert einer Frist von 30 Tagen wiederum Einsprache erheben.
-
-#### Art. 13
-
-**Entscheid**
-
-<sup>1</sup> Kommt keine Einigung zustande, so ist durch die kantonale Steuerverwaltung ein Einspracheentscheid zu treffen. Dieser ist der einsprechenden Person und allfälligen weiteren Betroffenen schriftlich mit Begründung und Rechtsmittelbelehrung zuzustellen.
+**…**
 
 #### Art. 14
 
-**Beschwerde**
+**Rechtsmittel**
 
-<sup>1</sup> Gegen einen Einspracheentscheid kann jede einspracheberechtigte Person innert 30 Tagen seit Eröffnung schriftlich und begründet beim Finanzdepartement Beschwerde erheben.
+<sup>1</sup> Für die in der Veranlagungsverfügung eröffneten Steuerwerte gelten die Rechtsmittel des Steuergesetzes.
+
+<sup>2</sup> In allen anderen Fällen kann jede einspracheberechtigte Person innert 30 Tagen seit Eröffnung schriftlich und begründet beim Finanzdepartement Beschwerde erheben.
 
 ### 1.4. Kosten
 
@@ -172,7 +161,7 @@ beschliesst:
 
 <sup>1</sup> Die Kosten von Grundpfandschätzungen, von Schätzungen für die Feststellung des Anrechnungswertes in einer Erbteilung sowie von Schätzungen im Auftragsverhältnis für Dritte sind vom Grundeigentümer oder von der Grundeigentümerin zu tragen, soweit sie nicht von der auftraggebenden Person zu tragen sind.
 
-<sup>2</sup> Beantragt der Grundeigentümer oder die Grundeigentümerin eine Grundstückschätzung, so sind die Kosten durch den Grundeigentümer oder die Grundeigentümerin zu tragen.
+<sup>2</sup> Beantragt der Grundeigentümer, die Grundeigentümerin, der Nutzniesser oder die Nutzniesserin eine Grundstückschätzung, so sind die Kosten durch ihn oder sie zu tragen.
 
 <sup>3</sup> Die Kosten der von Amtes wegen vorgenommenen Steuerschätzungen werden vom Kanton getragen.
 
@@ -249,7 +238,7 @@ beschliesst:
 
 <sup>1</sup> Der Eigentümer oder die Eigentümerin eines Gebäudes ist verpflichtet, dieses bei einer in der Schweiz konzessionierten Versicherungsgesellschaft mindestens zum Zeitwert gegen Feuer- und Elementarschaden zu versichern.
 
-<sup>2</sup> Die kantonale Steuerverwaltung kann bei Schätzungen in die Versicherungspolicen Einsicht nehmen.
+<sup>2</sup> Der Versicherungswert ist der kantonalen Steuerverwaltung jährlich in der Steuererklärung bekanntzugeben. Die kantonale Steuerverwaltung kann bei Schätzungen in die Versicherungspolicen Einsicht nehmen.
 
 ## 3. Übergangs- und Schlussbestimmungen
 
@@ -274,6 +263,16 @@ beschliesst:
 <sup>1</sup> Die zur Festsetzung der Steuerwerte notwendigen Informationen sind Bestandteil der Steuererklärung und sind durch die Steuerpflichtigen erstmals mit der Steuererklärung 2022 zu deklarieren.
 
 [^23a-1]: OGS 2021, 36; der Nachtrag vom 28. Oktober 2021 tritt - unter Vorbehalt von Art. 23a - am 1. Januar 2025 in Kraft (OGS 2021, 43)
+
+#### Art. 23b
+
+**Übergangsrecht zum Nachtrag vom 23. Mai 2024**
+
+<sup>1</sup> Schätzungen, die gestützt auf dieses Gesetz gemäss Nachtrag vom 16. April 2014 vorgenommen wurden, sind mit dem Faktor 1,15 zu multiplizieren, bis eine Schätzung gemäss Nachtrag vom 23. Mai 2024 vorgenommen wird. Dieser Wert bildet die Grundlage für die Berechnung des Netto-Steuerwerts gemäss Art. 23 Abs. 2 der Vollziehungsverordnung zum Steuergesetz[^23b-1].
+
+<sup>2</sup> Mietwerte für selbstbenutzte nichtlandwirtschaftliche Grundstücke (Eigenmietwert), die gestützt auf dieses Gesetz gemäss Nachtrag vom 16. April 2014 festgelegt wurden, gelten bis eine Schätzung des Mietwerts für selbstbenutzte nichtlandwirtschaftliche Grundstücke (Eigenmietwert) gemäss Nachtrag vom 23. Mai 2024 vorgenommen wird.
+
+[^23b-1]: GDB [641.41](http://gdb.ow.ch/data/641.41/de)
 
 #### Art. 24
 
@@ -311,7 +310,9 @@ geändert durch:
 
 \- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
 
-\- Nachtrag vom 28. Oktober 2021 (OGS 2021, 36), Botschaft und Vorlage des Regierungsrats vom 31. Mai 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.02), in Kraft seit 1. Januar 2023 (Art. 23a) und 1. Januar 2025 (OGS 2021, 43)
+\- Nachtrag vom 28. Oktober 2021 (OGS 2021, 36), Botschaft und Vorlage des Regierungsrats vom 31. Mai 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.02), in Kraft seit 1. Januar 2023 (Art. 23a) und 1. Januar 2025 (OGS 2021, 43),
+
+\- Nachtrag vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37)
 
 Änderung der Zuständigkeiten
 
