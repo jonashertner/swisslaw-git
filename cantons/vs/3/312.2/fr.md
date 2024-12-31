@@ -4,13 +4,13 @@ number: "312.2"
 title: "Loi d'application de la loi sur les amendes d'ordre"
 short: LALAO
 language: fr
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-09-13
+version: 2025-01-01
+valid_until: 2025-10-31
+version_adopted: 2024-09-12
 adopted: 2019-09-13
 in_force: 2020-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/312.2"
-pdf: "https://lex.vs.ch/api/fr/versions/2594/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3420/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2594/pdf_file"
 
 (LALAO)
 
-du 13.09.2019 (état 01.01.2020)
+du 13.09.2019 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -62,7 +62,8 @@ ordonne:
 - l) loi sur les forêts du 4 octobre 1991 (LFo): les gardes forestiers;
 - m) loi sur la chasse et la protection des mammifères et oiseaux sauvages du 20 juin 1986 (LChP): la police cantonale et les polices municipales; les gardes-chasse; les gardes-pêche; les gardes forestiers;
 - n) loi fédérale sur la pêche du 21 juin 1991 (LFSP): la police cantonale et les polices municipales; les gardes-chasse; les gardes-pêche; les gardes forestiers;
-- o) loi fédérale sur le commerce itinérant du 23 mars 2001: la police cantonale et les polices municipales; l'inspecteur de la section commerce, patentes et main-d'œuvre étrangère du service de l'industrie, du commerce et du travail.
+- o) loi fédérale sur le commerce itinérant du 23 mars 2001: la police cantonale et les polices municipales; l'inspecteur de la section commerce, patentes et main-d'œuvre étrangère du service de l'industrie, du commerce et du travail;
+- p) loi fédérale sur l’interdiction de se dissimuler le visage du 29 septembre 2023 (LIDV): la police cantonale et les polices municipales.
 
 #### Art. 3
 
