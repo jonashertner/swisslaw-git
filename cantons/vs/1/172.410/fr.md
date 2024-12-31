@@ -4,20 +4,21 @@ number: "172.410"
 title: "Ordonnance concernant le traitement des employés de l'Etat du Valais"
 short: OTrait
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-30
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 1997-07-10
 in_force: 1998-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.410"
-pdf: "https://lex.vs.ch/api/fr/versions/3097/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3418/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant le traitement des employés de l'Etat du Valais
 
-du 10.07.1997 (état 01.01.2023)
+(OTrait)
+
+du 10.07.1997 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -322,11 +323,13 @@ ordonne:
 
 **Traitement en cas de maternité**
 
-<sup>1</sup> Si la reprise du travail n'intervient pas dans les six mois qui suivent l'accouchement, le droit au traitement court pendant huit semaines.
+<sup>1</sup> En cas de cessation des rapports de service pendant la période durant laquelle un traitement en cas de maternité est versé, le droit au traitement est de huit semaines.
 
-<sup>1<sup>bis</sup></sup> En cas de prolongation de l'allocation de maternité au sens de l'article 16c alinéa 3 LAPG, le salaire continue d'être versé à 100 pour cent pendant 42 jours au maximum, sur la base de l'article 6 alinéa 2 LcPers et de l'article 329f alinéa 2 CO.
+<sup>1<sup>bis</sup></sup> Lors de l’hospitalisation prolongée du nouveau-né, le traitement est prolongé conformément à la durée prévue à l’article 16c alinéa 3 LAPG, pour autant que les conditions soient remplies.
 
-<sup>2</sup> Si après l'accouchement, le temps de travail est inférieur à six mois, le droit au traitement est réduit prorata temporis.
+<sup>2</sup> Si les rapports de service cessent entre la fin du traitement maternité et les six mois qui suivent l’accouchement, le droit au traitement est réduit prorata temporis.
+
+<sup>2<sup>bis</sup></sup> Si l’employée a bénéficié d’un traitement pour cause de maternité plus important que celui auquel elle a droit en vertu du présent article, elle doit restituer le surplus, les éventuelles allocations maternité lui restant acquises.
 
 <sup>3</sup> …
 
@@ -337,6 +340,8 @@ ordonne:
 <sup>6</sup> Lorsqu'une employée est engagée pour une durée limitée et que l'accouchement a lieu avant la fin des rapports de service, le traitement en cas de maternité court jusqu'au dernier jour des rapports de service.
 
 <sup>7</sup> L'employée qui bénéficie d'un droit au traitement en cas de maternité de 16 semaines peut demander une anticipation jusqu'à deux semaines au maximum du versement du traitement en cas de congé maternité.
+
+<sup>8</sup> Si le père de l'enfant ou l’épouse de la mère décède au cours des six mois qui suivent la naissance de l’enfant, la mère a droit à un congé supplémentaire équivalent au congé de l’autre parent de l’article 25f de la présente ordonnance.
 
 #### Art. 25a
 
@@ -390,11 +395,19 @@ ordonne:
 
 #### Art. 25f
 
-**Congé de parentalité**
+**Congé de l’autre parent**
 
-<sup>1</sup> Un congé de parentalité de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+<sup>1</sup> Un congé de l’autre parent de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
 
 <sup>2</sup> Ces jours peuvent se prendre sous forme de semaines ou par jours isolés en tenant compte dans la mesure du possible de l'organisation de l'entité.
+
+<sup>2<sup>bis</sup></sup> Si la mère décède dans les 14 semaines qui suivent la naissance de l’enfant, le père de l'enfant ou l’épouse de la mère a droit à un congé supplémentaire de 14 semaines, en plus du congé prévu par le présent article.
+
+<sup>2<sup>ter</sup></sup> Ce congé doit être pris à compter du jour qui suit le décès et de manière ininterrompue.
+
+<sup>2<sup>quater</sup></sup> Si l’enfant est hospitalisé dès sa naissance, l’article 25 alinéa 1<sup>bis</sup> de la présente ordonnance s’applique par analogie.
+
+<sup>2<sup>quinquies</sup></sup> Le délai-cadre de six mois prévu à l’alinéa 1 est suspendu pendant la période où le droit au congé visé aux alinéas 2<sup>bis</sup> à 2<sup>quater</sup> est exercé.
 
 <sup>3</sup> L'indemnité de la caisse de compensation appartient à l'employeur qui poursuit le versement du traitement dans sa totalité.
 
@@ -655,7 +668,7 @@ ordonne:
 
 - a) une employée, en raison d’une grossesse, est empêchée de travailler pendant deux mois au plus;
 - b) une employée a pris un congé de maternité;
-- c) un employé a pris un congé de parentalité;
+- c) un employé a pris un congé de l'autre parent
 - c<sup>bis</sup>) un employé a pris un congé d'adoption, ou
 - d) un employé a bénéficié d’un congé de prise en charge au sens de l’article 37b.
 
@@ -793,7 +806,7 @@ ordonne:
 
 <sup>1</sup> L’Etat du Valais soutient l’octroi de congés non payés.
 
-<sup>2</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, les employés ont le droit de bénéficier d’un congé non payé (pro rata temporis), après un congé maternité, d’adoption ou de parentalité. Pour ces types de congé non payé, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé, mais au maximum pendant 3 mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les 6 mois suivant l’accouchement ou l’adoption. La durée de ces congés non payés est fixée en accord avec le chef de service.
+<sup>2</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, les employés ont le droit de bénéficier d’un congé non payé (prorata temporis), après un congé maternité, d’adoption ou de l’autre parent. Pour ces types de congé non payé, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Le délai de six mois prévu à l’article 25 alinéa 2 de la présente ordonnance est suspendu pendant la durée de ce congé non payé.
 
 <sup>3</sup> Le chef de service, sur demande motivée et préavis du SRH, peut accorder à un employé un congé non payé pour une durée maximale de six mois (prorata temporis), pour autant que l'activité du service ne soit pas perturbée de façon considérable. Au-delà de cette durée, la compétence de décision appartient au chef de département.
 
@@ -829,17 +842,33 @@ ordonne:
 
 **Traitement en cas de maladie**
 
-<sup>1</sup> Pour les employés engagés pour une durée indéterminée ainsi que pour les employés engagés pour une durée déterminée supérieure à une année, le droit au traitement en cas de maladie est arrêté conformément à l'article 12 de la loi fixant le traitement des employés de l'Etat du Valais comme suit:
+<sup>1</sup> Pour les employés engagés pour une durée indéterminée ou pour une durée déterminée, le droit au traitement en cas de maladie est arrêté conformément à l'article 12 de la loi fixant le traitement des employés de l'Etat du Valais (LTrait) comme suit:
 
 <table>
 <tr><th>Année d'activité</th><th>Durée de traitement en cas de maladie</th></tr>
-<tr><td>pendant la 1<sup>er</sup> année</td><td>6 mois</td></tr>
-<tr><td>pendant la 2<sup>e</sup> année</td><td>8 mois</td></tr>
-<tr><td>pendant la 3<sup>e</sup> année</td><td>12 mois</td></tr>
-<tr><td>à partir de la 4<sup>e</sup> année</td><td>13 1/2 mois</td></tr>
+<tr><td>pendant la 1<sup>re</sup> année</td><td>six mois, soit 180 jours</td></tr>
+<tr><td>pendant la 2<sup>e</sup> année</td><td>huit mois, soit 240 jours</td></tr>
+<tr><td>pendant la 3<sup>e</sup> année</td><td>douze mois, soit 360 jours</td></tr>
+<tr><td>à partir de la 4<sup>e</sup> année</td><td>treize mois et demi, soit 405 jours</td></tr>
 </table>
 
-<sup>2</sup> Pour les employés engagés pour une durée déterminée d’une année, ou moins, le traitement est égal à la moitié de la durée totale d'engagement, telle que fixée dans la décision d’engagement.
+<sup>2</sup> Pour les employés engagés pour une durée déterminée, le traitement prévu à l’alinéa 1 se termine au plus tard à l’échéance de l’engagement.
+
+<sup>3</sup> La notion de mois correspond à une durée de 30 jours, peu importe le nombre effectif de jours compris dans le mois concerné.
+
+<sup>4</sup> Le traitement en cas de maladie est déterminé sur la base de la situation de l’employé au jour de son incapacité de travail.
+
+<sup>5</sup> L'épuisement du droit au traitement se détermine par l’addition des jours d’incapacité de travail causés par une maladie ou un accident non professionnel jusqu’à concurrence du nombre de jours prévus à l’alinéa 1 du présent article, calculés indépendamment de la cause et du taux de l’incapacité de travail, compris dans un délai-cadre de 585 jours, calculé avec des jours consécutifs et rétroactivement à partir de chaque nouveau jour d'incapacité.
+
+<sup>6</sup> A l’extinction du droit au traitement, une décision de résiliation totale des rapports de service est prononcée. Un réengagement immédiat ou ultérieur peut, cas échéant, éventuellement être effectué au taux de capacité résiduelle conformément à l’article 59 alinéa 2 LcPers dans la fonction précédemment occupée ou, avec l’accord de la personne concernée, dans une autre fonction plus adaptée. Un éventuel réengagement correspond à un nouvel engagement en ce qui concerne le droit au traitement en cas de maladie.
+
+<sup>7</sup> Un nouveau délai-cadre de 585 jours débute au premier jour de l’incapacité de travail suivant la date du réengagement et un nouveau droit au traitement pour incapacité de travail débute selon les durées prévues aux articles 12 et 13 LTrait.
+
+<sup>8</sup> En cas de réengagement total ou partiel ultérieur, les principes définis aux alinéas 6 et 7 s’appliquent par analogie.
+
+#### Art. 42bbis
+
+<sup>1</sup> En cas de rémunération à l’heure, le traitement de base est calculé sur la moyenne des six mois précédant l’incapacité de travail ou sur la période effective de travail si elle est inférieure à six mois.
 
 #### Art. 42c
 
@@ -915,5 +944,13 @@ ordonne:
 <sup>1</sup> Pour le personnel nouvellement engagé, promu ou reclassé depuis moins d’une année et soumis à une classe d’attente prévue dans sa décision individuelle, la classe d’attente est supprimée d’office et la classe ordinaire de la fonction est appliquée dès le 1<sup>er</sup> janvier 2023.
 
 <sup>2</sup> Dans les chaînes de fonction prévoyant une classe d’attente et un passage automatique à la classe ordinaire de la fonction après au plus tôt une année, la classe d’attente est abrogée dès le 1<sup>er</sup> janvier 2023.
+
+#### Art. T1-2
+
+**Dispositions transitoires de la modification du 20 novembre 2024**
+
+<sup>1</sup> Les employés au bénéfice d’un engagement d'une durée indéterminée ou d'une durée déterminée lors de l'entrée en vigueur des modifications du 20 novembre 2024 de la présente ordonnance est soumis de jure au nouveau droit.
+
+<sup>2</sup> Pour les employés en incapacité de travail au 31 décembre 2024, un nouveau délai-cadre (rétroactif) de 585 jours s’ouvre au 1<sup>er</sup> janvier 2025 et porte en compte les absences pour cause d’incapacité de travail liées à une maladie ou un accident non professionnel durant cette période. Dans les autres cas, un nouveau délai-cadre de 585 jours s’ouvre dès la première incapacité des employés survenant après l’entrée en vigueur des modifications du 20 novembre 2024.
 
 RCV RO/AGS 1997 f 166 | d 166

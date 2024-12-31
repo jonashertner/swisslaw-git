@@ -4,20 +4,21 @@ number: "172.410"
 title: "Verordnung über die Besoldung der Angestellten des Staates Wallis *"
 short: VBes
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-30
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 1997-07-10
 in_force: 1998-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.410"
-pdf: "https://lex.vs.ch/api/de/versions/3097/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Besoldung der Angestellten des Staates Wallis
 
-vom 10.07.1997 (Stand 01.01.2023)
+(VBes)
+
+vom 10.07.1997 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -37,7 +38,7 @@ verordnet:
 
 <sup>1</sup> Die vorliegende Verordnung regelt den Bereich der Besoldung der Angestellten der kantonalen Verwaltung, der staatlichen Anstalten und der Gerichte (Verwaltungspersonal).
 
-<sup>2</sup> Die besonderen Bestimmungen über die Lehrlinge und die Reisespesen bleiben vorbehalten.
+<sup>2</sup> Die besonderen Bestimmungen über die Lernenden und die Reisespesen bleiben vorbehalten.
 
 #### Art. 2
 
@@ -112,7 +113,7 @@ verordnet:
 - d) die Beurteilung der Leistungen und des Verhaltens sowie der Abweichungen;
 - e) die Zufriedenheit des Angestellten.
 
-<sup>4</sup> Bei Versetzungen und Beförderungen ist der Dienstchef zum Zeitpunkt der Beurteilung für dieselbe zuständig.
+<sup>4</sup> Bei Versetzungen und Beförderungen ist zum Zeitpunkt der Beurteilung der neue direkte Vorgesetzte für dieselbe zuständig, in Zusammenarbeit mit dem bisherigen direkten Vorgesetzten.
 
 <sup>5</sup> Der Angestellte, der gleichzeitig in mehreren Dienststellen arbeitet, wird in jeder Dienststelle beurteilt. Die Beurteilungen werden entsprechend dem jeweiligen Beschäftigungsgrad berücksichtigt.
 
@@ -322,11 +323,13 @@ verordnet:
 
 **Besoldung bei Mutterschaft**
 
-<sup>1</sup> Wird die Arbeit innerhalb von sechs Monaten nach der Niederkunft nicht wieder aufgenommen wird, besteht ein Besoldungsanspruch während acht Wochen.
+<sup>1</sup> Bei Auflösung des Dienstverhältnisses während des Zeitraums, in dem eine Besoldung bei Mutterschaft entrichtet wird, beträgt der Besoldungsanspruch acht Wochen.
 
-<sup>1<sup>bis</sup></sup> Bei Verlängerung der Mutterschaftsentschädigung gemäss Artikel 16c Absatz 3 EOG, wird der Lohn gestützt auf Artikel 6 Absatz 2 kGPers und Artikel 329f Absatz 2 OR während maximal 42 Tagen zu 100 Prozent weiterbezahlt.
+<sup>1<sup>bis</sup></sup> Bei einem längeren Spitalaufenthalt des Neugeborenen wird die Besoldung entsprechend der in Artikel 16c Absatz 3 EOG vorgesehenen Dauer verlängert, sofern die Voraussetzungen erfüllt sind.
 
-<sup>2</sup> Endet das Arbeitsverhältnis vor sechs Monaten nach der Niederkunft, wird der Besoldungsanspruch prorata temporis gekürzt.
+<sup>2</sup> Wird das Dienstverhältnis zwischen dem Ende der Besoldung bei Mutterschaft und den sechs Monaten nach der Niederkunft aufgelöst, wird der Besoldungsanspruch prorata temporis gekürzt.
+
+<sup>2<sup>bis</sup></sup> Hat die Angestellte eine höhere Besoldung bei Mutterschaft erhalten, als ihr nach vorliegendem Artikel zusteht, so muss sie den Überschuss zurückerstatten, wobei ihr eine allfällige Mutterschaftsentschädigung verbleibt.
 
 <sup>3</sup> …
 
@@ -334,9 +337,11 @@ verordnet:
 
 <sup>5</sup> Die Besoldung bei Mutterschaft wird nicht ausgerichtet, wenn das Dienstverhältnis im Zeitpunkt der Niederkunft nicht mehr besteht oder suspendiert ist.
 
-<sup>6</sup> Falls eine Angestellte für eine befristete Dauer angestellt ist und die Geburt vor dem Ende des Arbeitsverhältnisses stattfindet, wird die Besoldung bei Mutterschaft bis Ende des Arbeitsverhältnisses ausgerichtet.
+<sup>6</sup> Falls eine Angestellte für eine befristete Dauer angestellt ist und die Niederkunft vor dem Ende des Dienstverhältnisses stattfindet, wird die Besoldung bei Mutterschaft bis Ende des Dienstverhältnisses ausgerichtet.
 
 <sup>7</sup> Die Angestellte, die einen Besoldungsanspruch bei Mutterschaft von 16 Wochen hat, kann eine Vorleistung der Besoldung bei Mutterschaft bis zu höchstens zwei Wochen verlangen.
+
+<sup>8</sup> Stirbt der Vater des Kindes oder die Ehefrau der Mutter innerhalb von sechs Monaten nach der Geburt des Kindes, so hat die Mutter Anspruch auf einen zusätzlichen Urlaub, der dem Urlaub des anderen Elternteils gemäss Artikel 25f der vorliegenden Verordnung entspricht.
 
 #### Art. 25a
 
@@ -390,11 +395,19 @@ verordnet:
 
 #### Art. 25f
 
-**Elternschaftsurlaub**
+**Urlaub des anderen Elternteils**
 
-<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Elternschaftsurlaub von zehn Arbeitstagen gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Urlaub des anderen Elternteils von zehn Arbeitstagen gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
 
 <sup>2</sup> Diese Tage können als Wochen oder als einzelne Tage bezogen werden, wobei die Organisation der Einheit so weit wie möglich zu berücksichtigen ist.
+
+<sup>2<sup>bis</sup></sup> Wenn die Mutter innerhalb von 14 Wochen nach der Geburt des Kindes stirbt, hat der Vater des Kindes oder die Ehefrau der Mutter Anspruch auf einen zusätzlichen Urlaub von 14 Wochen neben dem im vorliegenden Artikel vorgesehenen Urlaub.
+
+<sup>2<sup>ter</sup></sup> Dieser Urlaub muss ab dem Folgetag des Todes am Stück bezogen werden.
+
+<sup>2<sup>quater</sup></sup> Wenn das Kind nach der Geburt im Spital bleiben muss, gilt Artikel 25 Absatz 1<sup>bis</sup> der vorliegenden Verordnung sinngemäss.
+
+<sup>2<sup>quinquies</sup></sup> Die in Absatz 1 vorgesehene sechsmonatige Rahmenfrist steht während der Zeit still, in der der Urlaubsanspruch nach den Absätzen 2<sup>bis</sup> bis 2<sup>quater</sup> ausgeübt wird.
 
 <sup>3</sup> Die Entschädigung der Ausgleichskasse gehört dem Arbeitgeber, welcher weiterhin den vollen Lohn auszahlt.
 
@@ -655,7 +668,7 @@ verordnet:
 
 - a) eine Angestellte wegen Schwangerschaft bis zu zwei Monaten an der Arbeitsleistung verhindert ist;
 - b) eine Angestellte einen Mutterschaftsurlaub bezogen hat;
-- c) ein Angestellter einen Elternschaftsurlaub bezogen hat;
+- c) ein Angestellter einen Urlaub des anderen Elternteils bezogen hat;
 - c<sup>bis</sup>) ein Angestellter einen Adoptionsurlaub bezogen hat, oder
 - d) ein Angestellter einen Betreuungsurlaub nach Artikel 37b bezogen hat.
 
@@ -793,13 +806,13 @@ verordnet:
 
 <sup>1</sup> Der Staatsrat unterstützt die Gewährung von unbezahlten Urlauben.
 
-<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Adoptions- oder Elternschaftsurlaub einen unbezahlten Urlaub (pro rata temporis) zu beziehen. Für diese Arten von unbezahltem Urlaub übernimmt der Arbeitgeber die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge) für die Dauer des unbezahlten Urlaubs, aber im Maximum während drei Monaten. Bei einem Antrag für einen unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird die Angestellte darauf aufmerksam gemacht, dass ihr Recht auf den Lohnanspruch während dem oben erwähnten Urlaub vermindert wird, sofern sie ihre Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt. Die Dauer dieser unbezahlten Urlaube wird im Einverständnis mit dem Dienstchef festgelegt.
+<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Adoptions oder Urlaub des anderen Elternteils einen unbezahlten Urlaub (prorata temporis) zu beziehen. Für diese Arten von unbezahltem Urlaub übernimmt der Staat Wallis die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge) für die Dauer des unbezahlten Urlaubs, aber im Maximum während drei Monaten. Die sechsmonatige Frist in Artikel 25 Absatz 2 der vorliegenden Verordnung steht für die Dauer dieses unbezahlten Urlaubs still.
 
 <sup>3</sup> Der Dienstchef kann einem Angestellten auf begründetes Gesuch hin und nach Einholung der Vormeinung der DPM unbezahlten Urlaub von maximal sechs Monaten gewähren (prorata temporis), sofern dadurch die Tätigkeit der Dienststelle nicht merklich beeinträchtigt wird. Länger dauernde unbezahlte Urlaube fallen in die Entscheidkompetenz des Departementsvorstehers.
 
-<sup>4</sup> Für den Antragssteller sind die Artikel 2 fortfolgende des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während diesem Zeitraum die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
+<sup>4</sup> Für den Antragsteller sind die Artikel 2 fortfolgende des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während dieses Zeitraums die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
 
-<sup>5</sup> Während seines unbezahlten Urlaubs muss der Angestellte alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, ev. Berufsvorsorgeversicherung, usw.).
+<sup>5</sup> Während seines unbezahlten Urlaubs muss der Angestellte alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, evtl. berufliche Vorsorge, usw.).
 
 #### Art. 41a
 
@@ -829,17 +842,33 @@ verordnet:
 
 **Besoldung bei Krankheit**
 
-<sup>1</sup> Für Angestellte, welche für eine unbefristete Dauer angestellt sind sowie für Angestellte, welche für eine befristete Dauer, jedoch länger als ein Jahr angestellt sind, ist die Besoldung bei Krankheit gemäss Artikel 12 des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis wie folgt geregelt:
+<sup>1</sup> Für Angestellte, welche für eine unbefristete Dauer angestellt sind sowie für Angestellte, welche für eine befristete Dauer angestellt sind, ist die Besoldung bei Krankheit gemäss Artikel 12 des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis wie folgt geregelt:
 
 <table>
 <tr><th>Anstellungsjahr</th><th>Dauer der Besoldung bei Krankheit</th></tr>
-<tr><td>während dem 1. Jahr</td><td>6 Monate</td></tr>
-<tr><td>während dem 2. Jahr</td><td>8 Monate</td></tr>
-<tr><td>während dem 3. Jahr</td><td>12 Monate</td></tr>
-<tr><td>ab dem 4. Jahr</td><td>13 1/2 Monate</td></tr>
+<tr><td>während dem 1. Jahr</td><td>sechs Monate, bzw. 180 Tage</td></tr>
+<tr><td>während dem 2. Jahr</td><td>acht Monate, bzw. 240 Tage</td></tr>
+<tr><td>während dem 3. Jahr</td><td>zwölf Monate, bzw. 360 Tage</td></tr>
+<tr><td>ab dem 4. Jahr</td><td>dreizehneinhalb Monate, bzw. 405 Tage</td></tr>
 </table>
 
-<sup>2</sup> Für Angestellte, welche für eine befristete Dauer von einem Jahr oder weniger angestellt sind, entspricht die Besoldung bei Krankheit der Hälfte der gesamten Anstellungsdauer gemäss Anstellungsentscheid.
+<sup>2</sup> Für Angestellte, welche für eine befristete Dauer angestellt sind, endet die Besoldung bei Krankheit wie in Absatz 1 vorgesehen spätestens am Ende der Anstellungsdauer.
+
+<sup>3</sup> Ein Monat ist ein Zeitraum von 30 Tagen, unabhängig von der tatsächlichen Anzahl der Tage in diesem Monat.
+
+<sup>4</sup> Die Besoldung im Krankheitsfall wird auf der Grundlage der Situation des Angestellten am Tag der Arbeitsunfähigkeit festgelegt.
+
+<sup>5</sup> Die Ausschöpfung des Anspruchs auf Besoldung wird durch die Addition der Tage der durch eine Krankheit oder einen Nichtberufsunfall verursachten Arbeitsunfähigkeit bis zu der in Absatz 1 dieses Artikels vorgesehenen Anzahl von Tagen bestimmt, die unabhängig von der Ursache und dem Grad der Arbeitsunfähigkeit mit aufeinanderfolgenden Tagen und rückwirkend ab jedem neuen Tag der Arbeitsunfähigkeit innerhalb einer Rahmenfrist von 585 Tagen berechnet werden.
+
+<sup>6</sup> Bei Erlöschen des Anspruchs auf Besoldung wird ein Entscheid über die vollständige Auflösung des Dienstverhältnisses erlassen. Eine sofortige oder spätere Wiedereinstellung kann gegebenenfalls zum verbleibenden Grad der Arbeitsfähigkeit gemäss Artikel 59 Absatz 2 kGPers in der zuvor ausgeübten Funktion oder, mit Zustimmung der betroffenen Person, in einer anderen, geeigneteren Funktion erfolgen. Eine eventuelle Wiedereinstellung entspricht einer Neuanstellung in Bezug auf das Recht auf Besoldung im Krankheitsfall. Bei Erlöschen des Anspruchs auf Besoldung wird ein Entscheid über die vollständige Auflösung des Dienstverhältnisses erlassen. Eine sofortige oder spätere Wiedereinstellung kann gegebenenfalls zum verbleibenden Grad der Arbeitsfähigkeit gemäss Artikel 59 Absatz 2 kGPers in der zuvor ausgeübten Funktion oder, mit Zustimmung der betroffenen Person, in einer anderen, geeigneteren Funktion erfolgen. Eine eventuelle Wiedereinstellung entspricht einer Neuanstellung in Bezug auf das Recht auf Besoldung im Krankheitsfall.
+
+<sup>7</sup> Eine neue Rahmenfrist von 585 Tagen beginnt am ersten Tag der Arbeitsunfähigkeit nach dem Datum der Wiedereinstellung und ein neuer Anspruch auf Besoldung wegen Arbeitsunfähigkeit beginnt entsprechend der in Artikel 12 und 13 GBes vorgesehenen Dauer.
+
+<sup>8</sup> Bei einer späteren vollständigen oder teilweisen Wiedereinstellung gelten die in den Absätzen 6 und 7 festgelegten Grundsätze entsprechend.
+
+#### Art. 42bbis
+
+<sup>1</sup> Im Falle einer Entlöhnung im Stundenlohn wird die Grundbesoldung auf der Grundlage des Durchschnitts der sechs Monate vor der Arbeitsunfähigkeit oder auf der Grundlage der tatsächlichen Arbeitszeit, wenn diese weniger als sechs Monate beträgt, berechnet.
 
 #### Art. 42c
 
@@ -915,5 +944,13 @@ verordnet:
 <sup>1</sup> Für Personal, das vor weniger als einem Jahr neu angestellt, befördert oder neu eingestuft wurde und das gemäss seinem individuellen Entscheid einer vorgesehenen Warteklasse unterliegt, wird die Warteklasse von Amtes wegen aufgehoben und ab dem 1. Januar 2023 die normale Funktionsklasse angewendet.
 
 <sup>2</sup> In Funktionsketten, die eine Warteklasse und einen automatischen Übergang in die normale Funktionsklasse nach frühestens einem Jahr vorsehen, wird die Warteklasse ab dem 1. Januar 2023 aufgehoben.
+
+#### Art. T1-2
+
+**Übergangsbestimmungen der Änderung vom 20. November 2024**
+
+<sup>1</sup> Angestellte, die bei Inkrafttreten der Änderungen dieser Verordnung vom 20. November 2024 in einem unbefristeten oder befristeten Arbeitsverhältnis stehen, unterstehen de jure dem neuen Recht.
+
+<sup>2</sup> Für Angestellte, die am 31. Dezember 2024 arbeitsunfähig sind, beginnt am 1. Januar 2025 eine neue (rückwirkende) Rahmenfrist von 585 Tagen während welcher alle Abwesenheiten infolge Krankheit und Nichtberufsunfall berücksichtigt werden. In allen anderen Fällen beginnt eine neue Rahmenfrist von 585 Tagen ab der ersten Arbeitsunfähigkeit der Angestellten, die nach dem Inkrafttreten der Änderungen vom 20. November 2024 auftritt.
 
 CSW RO/AGS 1997 f 166 | d 166
