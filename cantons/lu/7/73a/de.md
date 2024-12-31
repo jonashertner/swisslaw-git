@@ -4,13 +4,13 @@ number: 73a
 title: Besoldungsverordnung für das Staatspersonal
 short: BVO
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2024-12-10
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/73a"
-pdf: "https://srl.lu.ch/api/de/versions/4291/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4321/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4291/pdf_file"
 
 (BVO)
 
-vom 24.09.2002 (Stand 01.03.2024)
+vom 24.09.2002 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -262,9 +262,9 @@ beschliesst:
 
 <sup>1</sup> Nachtarbeit ist die Arbeit, welche zwischen 20.00 Uhr und 6.00 Uhr geleistet wird. Sonntagsarbeit ist die Arbeit, welche an Sonntagen und den arbeitsfreien Tagen gemäss § 18 Absatz 1b der Personalverordnung geleistet wird.
 
-<sup>2</sup> Die Vergütung für eine Stunde Nachtarbeit beträgt 6 Franken. Zusätzlich wird eine Zeitgutschrift von 10 Minuten pro Nachtstunde gewährt.
+<sup>2</sup> Die Vergütung für eine Stunde Nachtarbeit beträgt 8 Franken. Zusätzlich wird eine Zeitgutschrift von 10 Minuten pro Nachtstunde gewährt.
 
-<sup>3</sup> Die Vergütung für eine Stunde Sonntagsarbeit beträgt 8 Franken.
+<sup>3</sup> Die Vergütung für eine Stunde Sonntagsarbeit beträgt 10 Franken.
 
 <sup>4</sup> Vergütungen für Nacht- und Sonntagsstunden sind kumulierbar.
 
@@ -302,7 +302,7 @@ beschliesst:
 
 <sup>1</sup> Die Angestellten haben nach Massgabe der nachfolgenden Bestimmungen Anspruch auf Ersatz der Spesen, die sie zur Erfüllung ihrer Dienstpflicht notwendigerweise tätigen müssen. Die Spesen werden grundsätzlich aufgrund der tatsächlichen, abgerechneten Auslagen vergütet.
 
-<sup>2</sup> Die Departemente, die Staatskanzlei und die Gerichte können unabhängig von der Person der Stelleninhaberin oder des Stelleninhabers für eine berufliche Tätigkeit durch Weisung einen pauschalen Spesenersatz festlegen. Zuvor ist die Stellungnahme der Dienststelle Personal einzuholen.
+<sup>2</sup> Die Departemente, die Staatskanzlei und die Gerichte können unabhängig von der Person der Stelleninhaberin oder des Stelleninhabers für eine berufliche Tätigkeit durch Weisung einen pauschalen Spesenersatz aufgrund tatsächlich anfallender Auslagen festlegen. Zuvor ist die Stellungnahme der Dienststelle Personal einzuholen. Der pauschale Spesenersatz beträgt höchstens 6'000 Franken pro Jahr. Die Dienststelle Personal erlässt Weisungen dazu.
 
 <sup>3</sup> Die zuständige Behörde kann einer oder einem Angestellten durch Entscheid Spesenersatz zusprechen.
 
@@ -326,7 +326,7 @@ beschliesst:
 
 <sup>2</sup> Die Kosten für die Benützung eines Autos sowie anderer Privatfahrzeuge werden wie folgt ersetzt:
 
-- a) Auto — Fr. –.65/km
+- a) Auto — Fr. –.70/km
 - b) Motorräder bis 125 cm³ — Fr. –.30/km
 - c) Motorräder mit mehr als 125 cm³ — Fr. –.35/km
 - d) Mofas — Fr. –.25/km
@@ -340,7 +340,7 @@ beschliesst:
 
 **Ersatz der Kosten für auswärtige Verpflegung**
 
-<sup>1</sup> Auslagen für Mahlzeiten (Mittagessen, Abendessen) ausserhalb des Arbeits- oder Wohnortes werden mit je maximal 24 Franken ersetzt.
+<sup>1</sup> Auslagen für Mahlzeiten (Mittagessen, Abendessen) ausserhalb des Arbeits- oder Wohnortes werden mit je maximal 27 Franken ersetzt.
 
 <sup>2</sup> Die zuständige Behörde verfügt den Ersatz der belegten höheren Auslagen, wenn die Angestellten glaubhaft machen, dass sie sich am Ort, wo sie sich aufhalten mussten, zum Ansatz gemäss Absatz 1 nicht verpflegen konnten.
 
