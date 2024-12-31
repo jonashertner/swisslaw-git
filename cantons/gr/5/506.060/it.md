@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinanza della legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Ordinanza della legge sulla cura degli ammalati, OLCA"
 language: it
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-01-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3353/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3534/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3353/pdf_file"
 
 (Ordinanza della legge sulla cura degli ammalati, OLCA)
 
-del 19.12.2017 (stato 01.01.2024)
+del 19.12.2017 (stato 01.01.2025)
 
 emanata dal Governo il 19 dicembre 2017
 
@@ -182,10 +182,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'Ufficio può procedere a una riduzione conformemente all'articolo 25 capoverso 1 lettera a della legge[^12-1] se non sono soddisfatti i requisiti conformemente all'articolo 11 capoverso 1 nonché agli articoli 12 – 15 dell'ordinanza relativa alla legge sanitaria[^12-2].
 
-<sup>2</sup> L'Ufficio procede a una riduzione conformemente all'articolo 25 capoverso 1 lettere d ed e della legge se:
+<sup>2</sup> L'Ufficio può procedere a una riduzione conformemente all'articolo 25 capoverso 1 lettera d e lettera e della legge se:
 
-- a) non è soddisfatto il requisito conformemente all'articolo 11 capoverso 2 dell'ordinanza relativa alla legge sanitaria; oppure
-- b) non viene messo a disposizione il numero minimo di posti di pratica a favore del Centro di formazione in campo sanitario e sociale (CSS) stabilito nell'accordo di prestazioni.
+- a) non è soddisfatto il requisito conformemente all'articolo 11 capoverso 2 dell'ordinanza relativa alla legge sanitaria.
+- b) …
 
 <sup>3</sup> Gli importi in misura dei quali vengono ridotti i sussidi in applicazione dell'articolo 25 capoverso 1 lettere d ed e della legge vengono ripartiti tra i rimanenti fornitori di prestazioni in rapporto alle prestazioni formative a beneficio delle professioni sanitarie da essi fornite in misura superiore alle direttive del Governo.
 
@@ -337,11 +337,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'Ufficio può procedere a una riduzione conformemente all'articolo 37 capoverso 1 lettera a della legge[^18-1] se non sono soddisfatti i requisiti conformemente agli articoli 17 e 18 dell'ordinanza relativa alla legge sanitaria[^18-2].
 
-<sup>2</sup> L'Ufficio procede a una riduzione conformemente all'articolo 37 capoverso 1 lettere f e g della legge, se non sono soddisfatti i requisiti conformemente all'articolo 19 capoverso 1 dell'ordinanza relativa alla legge sull'igiene pubblica.
+<sup>2</sup> L'Ufficio può procedere a una riduzione conformemente all'articolo 37 capoverso 1 lettera f e lettera g della legge, se non sono soddisfatti i requisiti conformemente all'articolo 19 capoverso 1 dell'ordinanza relativa alla legge sanitaria.
 
-<sup>3</sup> Si può rinunciare a una riduzione conformemente all'articolo 37 capoverso 1 lettera f della legge, se per prestazioni formative non fornite vengono versati contributi di compensazione al fondo di formazione della Federazione grigionese ospedali e case di cura.
+<sup>3</sup> …
 
-<sup>4</sup> Il regolamento del fondo di formazione e l'ammontare dei contributi di compensazione da versare vanno sottoposti al Governo per approvazione.
+<sup>4</sup> …
 
 <sup>5</sup> La ripartizione tra i rimanenti fornitori di prestazioni degli importi in misura dei quali vengono ridotti i sussidi in applicazione dell'articolo 37 capoverso 1 lettere f e g della legge avviene in rapporto alle prestazioni formative a beneficio delle professioni sanitarie da essi prestate in misura superiore alle direttive del Governo.
 
@@ -455,11 +455,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'Ufficio può procedere a una riduzione conformemente all'articolo 44 capoverso 1 lettera a della legge[^28-1] se non sono soddisfatti i requisiti conformemente agli articoli 20 e 21 dell'ordinanza relativa alla legge sanitaria[^28-2].
 
-<sup>2</sup> L'Ufficio procede a una riduzione conformemente all'articolo 44 capoverso 1 lettere g e h della legge, se non sono soddisfatti i requisiti conformemente all'articolo 22 capoverso 1 dell'ordinanza relativa alla legge sull'igiene pubblica.
+<sup>2</sup> L'Ufficio può procedere a una riduzione conformemente all'articolo 44 capoverso 1 lettera g e lettera h della legge, se non sono soddisfatti i requisiti conformemente all'articolo 22 capoverso 1 dell'ordinanza relativa alla legge sanitaria.
 
-<sup>3</sup> Si può rinunciare a una riduzione conformemente all'articolo 44 capoverso 1 lettera g della legge, se per prestazioni formative non fornite vengono versati contributi di compensazione al fondo di formazione dell'Associazione Spitex Grigioni.
+<sup>3</sup> …
 
-<sup>4</sup> Il regolamento del fondo di formazione e l'ammontare dei contributi di compensazione da versare vanno sottoposti all'Ufficio per approvazione.
+<sup>4</sup> …
 
 <sup>5</sup> La ripartizione tra i rimanenti fornitori di prestazioni degli importi in misura dei quali vengono ridotti i sussidi in applicazione dell'articolo 44 capoverso 1 lettere g e h della legge avviene in rapporto alle prestazioni formative a beneficio delle professioni sanitarie da essi prestate in misura superiore alle direttive del Governo.
 
@@ -478,6 +478,33 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 [^29-1]: CSC [500.010](https://www.gr-lex.gr.ch/data/500.010/it)
 
+## 7a. Sussidi al servizio di picchetto di levatrici e ostetrici
+
+#### Art. 29a
+
+**Principio**
+
+<sup>1</sup> L'Ufficio concede a levatrici e ostetrici un'indennità per il servizio di picchetto da loro prestato in relazione a un parto in casa, a un parto con levatrice aggiunta o a un parto in una casa per partorienti nonché in relazione all'assistenza durante il puerperio.
+
+#### Art. 29b
+
+**Condizioni**
+
+<sup>1</sup> L'indennità per il servizio di picchetto viene accordata se:
+
+- a) la levatrice o l'ostetrico dispone di un'autorizzazione all'esercizio della professione sotto la propria responsabilità professionale e di un'ammissione all'attività a carico dell'assicurazione obbligatoria delle cure medico-sanitarie nel Cantone;
+- b) nel momento in cui viene fornita la prestazione, la partoriente ha il proprio domicilio nel Cantone.
+
+#### Art. 29c
+
+**Ammontare**
+
+<sup>1</sup> L'ammontare dell'indennità per il servizio di picchetto ammonta a:
+
+- a) 500 franchi in caso di parto in casa, parto con levatrice aggiunta o parto in una casa per partorienti;
+- b) 220 franchi in caso di assistenza durante il puerperio dopo un parto ambulatoriale;
+- c) 150 franchi in caso di assistenza durante il puerperio dopo un parto in ospedale.
+
 ## 8. Posti di formazione per scuole del settore sanitario
 
 #### Art. 30
@@ -489,6 +516,22 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>2</sup> L'ammontare della rimunerazione viene stabilito nell'allegato 3 all'ordinanza.
 
 [^30-1]: CSC [506.000](https://www.gr-lex.gr.ch/data/506.000/it)
+
+## 8a. Obbligo di formazione degli ospedali, delle case per anziani e di cura e dei servizi di cura e assistenza a domicilio
+
+#### Art. 30a
+
+**Determinazione delle prestazioni di formazione da fornire**
+
+<sup>1</sup> Le prestazioni di formazione che gli ospedali, le case per anziani e di cura e i servizi di cura e assistenza a domicilio devono fornire sono determinate dall'ordinanza relativa alla legge sanitaria[^30a-1].
+
+[^30a-1]: CSC [500.010](https://www.gr-lex.gr.ch/data/500.010/it)
+
+#### Art. 30b
+
+**Sussidi ai costi di formazione non coperti**
+
+<sup>1</sup> L'Ufficio concede sussidi per un importo di 600 franchi per settimana di pratica per futuri infermieri diplomati SSS o SUP e di 1800 franchi all'anno per futuri operatori sociosanitari (OSS) AFC a favore dei costi di formazione non coperti degli ospedali, delle case per anziani e di cura e dei servizi di cura e assistenza a domicilio, secondo il loro obbligo di formazione.
 
 ## 9. Strutture con appartamenti protetti
 

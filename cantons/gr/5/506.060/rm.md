@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinaziun tar la lescha per promover la tgira da persunas malsaunas e l'assistenza da persunas attempadas e da persunas che basegnan tgira"
 short: "ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM"
 language: rm
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-01-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3353/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3353/pdf_file"
 
 (ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM)
 
-dals 19-12-2017 (versiun dals 01-01-2024)
+dals 19-12-2017 (versiun dals 01-01-2025)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -182,10 +182,10 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>1</sup> Ina reducziun tenor l'artitgel 25 alinea 1 litera a da la lescha[^12-1] po vegnir fatga da l'uffizi, sche las pretensiuns tenor l'artitgel 11 alineas 1 sco er tenor ils artitgels 12 fin 15 da l'ordinaziun tar la lescha da sanadad[^12-2] na vegnan betg ademplidas.
 
-<sup>2</sup> Ina reducziun tenor l'artitgel 25 alinea 1 literas d ed e da la lescha vegn fatga da l'uffizi, sche:
+<sup>2</sup> Ina reducziun tenor l'artitgel 25 alinea 1 litera d e litera e da la lescha po vegnir fatga da l'uffizi, sche:
 
-- a) la pretensiun tenor l'artitgel 11 alinea 2 da l'ordinaziun tar la lescha da sanadad na vegn betg ademplida; u
-- b) il dumber minimal da plazzas da praticum che vegn fixà mintga onn en la cunvegna da prestaziun a favur dal center da furmaziun per la sanadad ed ils fatgs socials (CSS) na vegn betg mess a disposiziun.
+- a) la pretensiun tenor l'artitgel 11 alinea 2 da l'Ordinaziun tar la Lescha da sanadad na vegn betg ademplida.
+- b) …
 
 <sup>3</sup> La repartiziun dals imports, per ils quals las contribuziuns vegnan reducidas applitgond l'artitgel 25 alinea 1 literas d ed e da la lescha, sin ils auters furniturs da prestaziuns vegn fatga en proporziun cun las prestaziuns da scolaziun per professiuns da sanadad che vegnan furnidas da quels sur las prescripziuns da la regenza ora.
 
@@ -337,11 +337,11 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>1</sup> Ina reducziun tenor l'artitgel 37 alinea 1 litera a da la lescha[^18-1] po vegnir fatga da l'uffizi, sche las pretensiuns tenor ils artitgels 17 e 18 da l'ordinaziun tar la lescha da sanadad[^18-2] na vegnan betg ademplidas.
 
-<sup>2</sup> Ina reducziun tenor l'artitgel 37 alinea 1 literas f e g da la lescha vegn fatga da l'uffizi, sche las pretensiuns tenor l'artitgel 19 alinea 1 da l'ordinaziun tar la lescha da sanadad na vegnan betg ademplidas.
+<sup>2</sup> Ina reducziun tenor l'artitgel 37 alinea 1 litera f e litera g da la lescha po vegnir fatga da l'uffizi, sche las pretensiuns tenor l'artitgel 19 alinea 1 da l'Ordinaziun tar la Lescha da sanadad na vegnan betg ademplidas.
 
-<sup>3</sup> Ad ina reducziun tenor l'artitgel 37 alinea 1 litera f da la lescha poi vegnir renunzià, sch'i vegnan pajadas contribuziuns d'indemnisaziun en il fond da scolaziun da la federaziun grischuna "chasas ed ospitals" per prestaziuns da scolaziun che n'èn betg vegnidas furnidas.
+<sup>3</sup> …
 
-<sup>4</sup> Il reglament dal fond da scolaziun e l'import da las contribuziuns d'indemnisaziun che ston vegnir pajadas ston vegnir approvads da la regenza.
+<sup>4</sup> …
 
 <sup>5</sup> La repartiziun dals imports, per ils quals las contribuziuns vegnan reducidas applitgond l'artitgel 37 alinea 1 literas f e g da la lescha, sin ils auters furniturs da prestaziuns vegn fatga en proporziun cun las prestaziuns da scolaziun per professiuns da sanadad che vegnan furnidas da quels sur las prescripziuns da la regenza ora.
 
@@ -455,11 +455,11 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>1</sup> Ina reducziun tenor l'artitgel 44 alinea 1 litera a da la lescha[^28-1] po vegnir fatga da l'uffizi, sche las pretensiuns tenor ils artitgels 20 e 21 da l'ordinaziun tar la lescha da sanadad[^28-2] na vegnan betg ademplidas.
 
-<sup>2</sup> Ina reducziun tenor l'artitgel 44 alinea 1 literas g e h da la lescha vegn fatga da l'uffizi, sche las pretensiuns tenor l'artitgel 22 alinea 1 da l'ordinaziun tar la lescha da sanadad na vegnan betg ademplidas.
+<sup>2</sup> Ina reducziun tenor l'artitgel 44 alinea 1 litera g e litera h da la lescha po vegnir fatga da l'uffizi, sche las pretensiuns tenor l'artitgel 22 alinea 1 da l'Ordinaziun tar la Lescha da sanadad na vegnan betg ademplidas.
 
-<sup>3</sup> Ad ina reducziun tenor l'artitgel 44 alinea 1 litera g da la lescha poi vegnir renunzià, sch'i vegnan pajadas contribuziuns d'indemnisaziun en il fond da scolaziun da la federaziun grischuna da spitex per prestaziuns da scolaziun che n'èn betg vegnidas furnidas.
+<sup>3</sup> …
 
-<sup>4</sup> Il reglament dal fond da scolaziun e l'import da las contribuziuns d'indemnisaziun che ston vegnir pajadas ston vegnir approvads da l'uffizi.
+<sup>4</sup> …
 
 <sup>5</sup> La repartiziun dals imports, per ils quals las contribuziuns vegnan reducidas applitgond l'artitgel 44 alinea 1 literas g e h da la lescha, sin ils auters furniturs da prestaziuns vegn fatga en proporziun cun las prestaziuns da scolaziun per professiuns da sanadad che vegnan furnidas da quels furniturs e che van sur las prescripziuns da la regenza ora.
 
@@ -478,6 +478,33 @@ relaschada da la regenza ils 19 da december 2017
 
 [^29-1]: DG [500.010](https://www.gr-lex.gr.ch/data/500.010/rm)
 
+## 7a. Contribuziuns al servetsch da pichet da spendreras e da gidanters da naschientscha
+
+#### Art. 29a
+
+**Princip**
+
+<sup>1</sup> A las spendreras ed als gidanters da naschientscha conceda l'uffizi ina indemnisaziun per il servetsch da pichet ch'els prestan per ina naschientscha a chasa, en ina chasa da parturir u en l'ospital cun agid accredità sco er per l'assistenza durant la pagliola.
+
+#### Art. 29b
+
+**Premissas**
+
+<sup>1</sup> L'indemnisaziun per il servetsch da pichet vegn concedida, sche:
+
+- a) la spendrera u il gidanter da naschientscha ha ina permissiun per pratitgar la professiun en atgna responsabladad professiunala ed in'admissiun a l'activitad a quint da l'assicuranza obligatorica per la tgira da persunas malsaunas en il chantun;
+- b) la dunna che parturescha ha ses domicil en il chantun il mument che la prestaziun vegn furnida.
+
+#### Art. 29c
+
+**Autezza**
+
+<sup>1</sup> L'indemnisaziun per il servetsch da pichet importa:
+
+- a) 500 francs per ina naschientscha a chasa, en ina chasa da parturir u en l'ospital cun agid accredità;
+- b) 220 francs per l'assistenza durant la pagliola suenter ina naschientscha ambulanta;
+- c) 150 francs per l'assistenza durant la pagliola suenter ina naschientscha en l'ospital.
+
 ## 8. Plazzas d'emprendissadi per scolas dals fatgs da sanadad
 
 #### Art. 30
@@ -489,6 +516,22 @@ relaschada da la regenza ils 19 da december 2017
 <sup>2</sup> L'import da l'indemnisaziun vegn fixà en l'agiunta 3 da l'ordinaziun.
 
 [^30-1]: DG [506.000](https://www.gr-lex.gr.ch/data/506.000/rm)
+
+## 8a. Obligaziun da scolaziun dals ospitals, da las chasas da persunas attempadas e da tgira sco er dals servetschs da la tgira ed assistenza a chasa
+
+#### Art. 30a
+
+**Fixaziun da las prestaziuns da scolaziun che ston vegnir furnidas**
+
+<sup>1</sup> Las prestaziuns da scolaziun ch'ils ospitals, las chasas da persunas attempadas e da tgira sco er ils servetschs da la tgira ed assistenza a chasa ston furnir, èn fixadas en l'Ordinaziun tar la Lescha da sanadad[^30a-1].
+
+[^30a-1]: DG [500.010](https://www.gr-lex.gr.ch/data/500.010/rm)
+
+#### Art. 30b
+
+**Contribuziuns als custs da scolaziun betg cuvrids**
+
+<sup>1</sup> L'Uffizi conceda contribuziuns da 600 francs per emna da praticum per futuras tgirunzas e futurs tgirunzs dipl. SSS u SAS e da 1800 francs per onn per futuras spezialistas e futurs spezialists da sanadad AFQ als custs da scolaziun dals ospitals, da las chasas da persunas attempadas e da tgira sco er dals servetschs da la tgira ed assistenza a chasa, che n'èn betg cuvrids e che resultan da lur obligaziun da scolaziun.
 
 ## 9. Instituziuns da l'abitar assistì
 

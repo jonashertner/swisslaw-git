@@ -4,13 +4,13 @@ number: "506.060"
 title: Verordnung zum Gesetz über die Förderung der Krankenpflege und der Betreuung von betagten und pflegebedürftigen Personen
 short: "Verordnung zum Krankenpflegegesetz, VOzKPG"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-01-23
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3353/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3353/pdf_file"
 
 (Verordnung zum Krankenpflegegesetz, VOzKPG)
 
-Vom 19.12.2017 (Stand 01.01.2024)
+Vom 19.12.2017 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -182,10 +182,10 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>1</sup> Eine Kürzung gemäss Artikel 25 Absatz 1 Litera a des Gesetzes[^12-1] kann vom Amt vorgenommen werden, wenn die Anforderungen gemäss Artikel 11 Absatz 1 sowie Artikel 12 bis 15 der Verordnung zum Gesundheitsgesetz[^12-2] nicht erfüllt werden.
 
-<sup>2</sup> Eine Kürzung gemäss Artikel 25 Absatz 1 Litera d und e des Gesetzes wird vom Amt vorgenommen, wenn:
+<sup>2</sup> Eine Kürzung gemäss Artikel 25 Absatz 1 Litera d und Litera e des Gesetzes kann vom Amt vorgenommen werden, wenn:
 
-- a) die Anforderung gemäss Artikel 11 Absatz 2 der Verordnung zum Gesundheitsgesetz nicht erfüllt wird; oder
-- b) die jährlich in der Leistungsvereinbarung festgelegte Mindestzahl an Praktikumsplätzen zu Gunsten des Bildungszentrums Gesundheit und Soziales (BGS) nicht zur Verfügung gestellt wird.
+- a) die Anforderung gemäss Artikel 11 Absatz 2 der Verordnung zum Gesundheitsgesetz nicht erfüllt wird.
+- b) …
 
 <sup>3</sup> Die Verteilung der Beträge, um welche die Beiträge in Anwendung von Artikel 25 Absatz 1 Litera d und e des Gesetzes gekürzt werden, auf die übrigen Leistungserbringer wird im Verhältnis zu den von diesen über den Vorgaben der Regierung erbrachten Ausbildungsleistungen für Gesundheitsberufe vorgenommen.
 
@@ -337,11 +337,11 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>1</sup> Eine Kürzung gemäss Artikel 37 Absatz 1 Litera a des Gesetzes[^18-1] kann vom Amt vorgenommen werden, wenn die Anforderungen gemäss den Artikeln 17 und 18 der Verordnung zum Gesundheitsgesetz[^18-2] nicht erfüllt werden.
 
-<sup>2</sup> Eine Kürzung gemäss Artikel 37 Absatz 1 Litera f und g des Gesetzes wird vom Amt vorgenommen, wenn die Anforderungen gemäss Artikel 19 Absatz 1 der Verordnung zum Gesundheitsgesetz nicht erfüllt werden.
+<sup>2</sup> Eine Kürzung gemäss Artikel 37 Absatz 1 Litera f und Litera g des Gesetzes kann vom Amt vorgenommen werden, wenn die Anforderungen gemäss Artikel 19 Absatz 1 der Verordnung zum Gesundheitsgesetz nicht erfüllt werden.
 
-<sup>3</sup> Auf eine Kürzung gemäss Artikel 37 Absatz 1 Litera f des Gesetzes kann verzichtet werden, wenn für nicht erbrachte Ausbildungsleistungen Abgeltungsbeiträge in den Ausbildungsfonds des Spital- und Heimverbands Graubünden entrichtet werden.
+<sup>3</sup> …
 
-<sup>4</sup> Das Reglement des Ausbildungsfonds und die Höhe der zu entrichtenden Abgeltungsbeiträge bedürfen der Genehmigung der Regierung.
+<sup>4</sup> …
 
 <sup>5</sup> Die Verteilung der Beträge, um welche die Beiträge in Anwendung von Artikel 37 Absatz 1 Litera f und g des Gesetzes gekürzt werden, auf die übrigen Leistungserbringer wird im Verhältnis zu den von diesen über den Vorgaben der Regierung erbrachten Ausbildungsleistungen für Gesundheitsberufe vorgenommen.
 
@@ -455,11 +455,11 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>1</sup> Eine Kürzung gemäss Artikel 44 Absatz 1 Litera a des Gesetzes[^28-1] kann vom Amt vorgenommen werden, wenn die Anforderungen gemäss den Artikeln 20 und 21 der Verordnung zum Gesundheitsgesetz[^28-2] nicht erfüllt werden.
 
-<sup>2</sup> Eine Kürzung gemäss Artikel 44 Absatz 1 Litera g und h des Gesetzes wird vom Amt vorgenommen, wenn die Anforderungen gemäss Artikel 22 Absatz 1 der Verordnung zum Gesundheitsgesetz nicht erfüllt werden.
+<sup>2</sup> Eine Kürzung gemäss Artikel 44 Absatz 1 Litera g und Litera h des Gesetzes kann vom Amt vorgenommen werden, wenn die Anforderungen gemäss Artikel 22 Absatz 1 der Verordnung zum Gesundheitsgesetz nicht erfüllt werden.
 
-<sup>3</sup> Auf eine Kürzung gemäss Artikel 44 Absatz 1 Litera g des Gesetzes kann verzichtet werden, wenn für nicht erbrachte Ausbildungsleistungen Abgeltungsbeiträge in den Ausbildungsfonds des Spitex Verbands Graubünden entrichtet werden.
+<sup>3</sup> …
 
-<sup>4</sup> Das Reglement des Ausbildungsfonds und die Höhe der zu entrichtenden Abgeltungsbeiträge bedürfen der Genehmigung des Amtes.
+<sup>4</sup> …
 
 <sup>5</sup> Die Verteilung der Beträge, um welche die Beiträge in Anwendung von Artikel 44 Absatz 1 Litera g und h des Gesetzes gekürzt werden, auf die übrigen Leistungserbringer wird im Verhältnis zu den von diesen über den Vorgaben der Regierung erbrachten Ausbildungsleistungen für Gesundheitsberufe vorgenommen.
 
@@ -478,6 +478,33 @@ von der Regierung erlassen am 19. Dezember 2017
 
 [^29-1]: BR [500.010](https://www.gr-lex.gr.ch/data/500.010/de)
 
+## 7a. Beiträge an den Bereitschaftsdienst von Hebammen und Entbindungspflegern
+
+#### Art. 29a
+
+**Grundsatz**
+
+<sup>1</sup> Das Amt gewährt den Hebammen und Entbindungspflegern eine Entschädigung für den von ihnen geleisteten Bereitschaftsdienst bei einer Haus-, Beleg-, oder Geburtshausgeburt und bei der Wochenbettbetreuung.
+
+#### Art. 29b
+
+**Voraussetzungen**
+
+<sup>1</sup> Die Entschädigung für den Bereitschaftsdienst wird gewährt, wenn:
+
+- a) die Hebamme beziehungsweise der Entbindungspfleger über eine Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung und eine Zulassung zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung im Kanton verfügt;
+- b) die gebärende Frau im Zeitpunkt der Leistungserbringung ihren Wohnsitz im Kanton hat.
+
+#### Art. 29c
+
+**Höhe**
+
+<sup>1</sup> Die Höhe der Entschädigung für den Bereitschaftsdienst beträgt:
+
+- a) 500 Franken bei einer Haus-, Beleg-, oder Geburtshausgeburt;
+- b) 220 Franken bei der Wochenbettbetreuung nach ambulanter Geburt;
+- c) 150 Franken bei der Wochenbettbetreuung nach einer Spitalgeburt.
+
 ## 8. Ausbildungsplätze für Schulen des Gesundheitswesens
 
 #### Art. 30
@@ -489,6 +516,22 @@ von der Regierung erlassen am 19. Dezember 2017
 <sup>2</sup> Die Höhe der Abgeltung wird im Anhang 3 zur Verordnung festgelegt.
 
 [^30-1]: BR [506.000](https://www.gr-lex.gr.ch/data/506.000/de)
+
+## 8a. Ausbildungsverpflichtung der Spitäler, der Alters- und Pflegeheime und der Dienste der häuslichen Pflege und Betreuung
+
+#### Art. 30a
+
+**Festlegung der zu erbringenden Ausbildungsleistungen**
+
+<sup>1</sup> Die von den Spitälern, den Alters- und Pflegeheimen und den Diensten der häuslichen Pflege und Betreuung zu erbringenden Ausbildungsleistungen sind in der Verordnung zum Gesundheitsgesetz[^30a-1] festgelegt.
+
+[^30a-1]: BR [500.010](https://www.gr-lex.gr.ch/data/500.010/de)
+
+#### Art. 30b
+
+**Beiträge an die ungedeckten Ausbildungskosten**
+
+<sup>1</sup> Das Amt gewährt Beiträge in der Höhe von 600 Franken pro Praktikumswoche für angehende Pflegefachpersonen HF oder FH und 1800 Franken pro Jahr für angehende Fachpersonen Gesundheit (FaGe) EFZ an die gemäss ihrer Ausbildungsverpflichtung ungedeckten Ausbildungskosten der Spitäler, der Alters- und Pflegeheime und der Dienste der häuslichen Pflege und Betreuung.
 
 ## 9. Einrichtungen des betreuten Wohnens
 
