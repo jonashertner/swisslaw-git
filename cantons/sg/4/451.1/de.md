@@ -4,13 +4,12 @@ number: "451.1"
 title: Polizeigesetz
 short: PG
 language: de
-version: 2020-07-01
-valid_until: 2024-12-31
-version_adopted: 2020-04-21
+version: 2025-01-01
+version_adopted: 2024-06-25
 adopted: 1980-04-10
 in_force: 1981-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/451.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2977/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2977/pdf_file"
 
 (PG)
 
-vom 10.04.1980 (Stand 01.07.2020)
+vom 10.04.1980 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -177,7 +176,7 @@ als Gesetz:[^ingress-3]
 
 **Bestand**
 
-<sup>1</sup> Die Kantonspolizei besteht aus Offizieren, Unteroffizieren, Gefreiten, Polizistinnen und Polizisten.
+<sup>1</sup> Die Kantonspolizei besteht aus Offizierinnen und Offizieren, Unteroffizierinnen und Unteroffizieren, Gefreiten, Polizistinnen und Polizisten.
 
 <sup>2</sup> Der Sollbestand der Kantonspolizei richtet sich nach den vom Kantonsrat bewilligten Krediten.
 
@@ -185,9 +184,9 @@ als Gesetz:[^ingress-3]
 
 #### Art. 17
 
-**Kommandant**
+**Kommandantin oder Kommandant**
 
-<sup>1</sup> Der Polizeikommandant führt die Kantonspolizei und ist für ihre Aus- und Weiterbildung verantwortlich.
+<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant führt die Kantonspolizei und ist für ihre Aus- und Weiterbildung verantwortlich.
 
 #### Art. 18
 
@@ -255,15 +254,15 @@ als Gesetz:[^ingress-3]
 - e) Vermisstensuche;
 - f) weitere Aufgaben unter Begleitung und Führung durch Angehörige des Polizeikorps.
 
-<sup>2</sup> Der Polizeikommandant bietet die Angehörigen des Polizeiassistenzdienstes für den Einsatz auf.
+<sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant bietet die Angehörigen des Polizeiassistenzdienstes für den Einsatz auf.
 
 #### Art. 21
 
-**Rechtsbeistand**
+**Rechtsbeiständin oder Rechtsbeistand**
 
-<sup>1</sup> Das zuständige Departement kann Mitarbeiterinnen und Mitarbeitern der Kantonspolizei, Hilfskräften und Angehörigen des Polizeiassistenzdienstes einen Rechtsbeistand bestellen, wenn gegen sie wegen Amtshandlungen ein Strafverfahren eröffnet wird.
+<sup>1</sup> Das zuständige Departement kann Mitarbeiterinnen und Mitarbeitern der Kantonspolizei, Hilfskräften und Angehörigen des Polizeiassistenzdienstes eine Rechtsbeiständin oder einen Rechtsbeistand bestellen, wenn gegen sie wegen Amtshandlungen ein Strafverfahren eröffnet wird.
 
-<sup>2</sup> Die Kosten können ganz oder teilweise zurückgefordert werden, wenn der Betroffene schuldig gesprochen wird.
+<sup>2</sup> Die Kosten können ganz oder teilweise zurückgefordert werden, wenn die betroffene Person schuldig gesprochen wird.
 
 #### Art. 22
 
@@ -318,17 +317,103 @@ als Gesetz:[^ingress-3]
 
 ### 4. Polizeiliche Befugnisse
 
+#### Art. 27bis
+
+**Bedrohungs- und Risikomanagement a) allgemein**
+
+<sup>1</sup> Die Polizei betreibt ein Bedrohungs- und Risikomanagement zur Erkennung und Einschätzung sowie zur Verhinderung oder Abwehr von erheblichen Gefährdungen der physischen, psychischen oder sexuellen Integrität anderer Personen.
+
+<sup>2</sup> Sie kann dazu Auskünfte bei Behörden und, soweit es zur Abwehr akuter Gefährdungen unerlässlich ist, bei Privatpersonen einholen. Sie weist Privatpersonen darauf hin, dass sie nicht zur Auskunft verpflichtet sind.
+
+#### Art. 27ter
+
+**b) Gefährdungsmeldung und Auskunftserteilung an die Polizei**
+
+<sup>1</sup> Wer öffentliche Aufgaben wahrnimmt, ist ermächtigt, der Polizei Personen zu melden und über sie Auskünfte zu erteilen, bei denen Grund zur Annahme besteht, dass sie Anlass zu einer erheblichen Gefährdung der physischen, psychischen oder sexuellen Integrität von Personen geben.
+
+<sup>2</sup> Trägerinnen und Träger von Berufsgeheimnissen sind bei Meldungen nach Abs. 1 dieser Bestimmung vom Berufsgeheimnis befreit, soweit ihnen dies für die Abwehr der erheblichen Gefahr unerlässlich erscheint.
+
+<sup>3</sup> Mit der Gefährdungsmeldung können die zwingend erforderlichen Akten übermittelt werden.
+
+#### Art. 27quater
+
+**c) Gefährderansprache**
+
+<sup>1</sup> Die Polizei kann Personen, bei denen aufgrund ihres Verhaltens oder ihrer Äusserungen eine erhebliche Gefährdung der physischen, psychischen oder sexuellen Integrität von Personen anzunehmen ist:
+
+- a) auf ihr Verhalten ansprechen, sachbezogen befragen und über das gesetzeskonforme Verhalten sowie die Folgen von Verstössen gegen die Rechtsordnung informieren (Gefährderansprache);
+- b) ersuchen, bei der Polizei zur Durchführung der Gefährderansprache zu erscheinen.
+
+#### Art. 27quinquies
+
+**d) Information von Privatpersonen und Behörden**
+
+<sup>1</sup> Die Polizei kann Personendaten, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, von Personen, bei denen aufgrund ihres Verhaltens oder ihrer Äusserungen eine erhebliche Gefährdung der physischen, psychischen oder sexuellen Integrität von Personen anzunehmen ist, an gefährdete Personen sowie an weitere Personen und Behörden weitergeben, soweit dies zur Abwehr oder Verhütung einer erheblichen Gefährdung erforderlich und geeignet ist.
+
+<sup>2</sup> Die Polizei wahrt bei der Weitergabe nach Abs. 1 dieser Bestimmung die Persönlichkeitsrechte der gefährdenden Person.
+
+<sup>3</sup> Die Weitergabe nach Abs. 1 dieser Bestimmung erfolgt in der Regel unter gleichzeitiger Information der gefährdenden Person. Die Mitteilung kann aufgeschoben oder unterlassen werden, wenn der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+#### Art. 27sexies
+
+**e) Rechtsbelehrung und Ungefährlichkeitsvermutung**
+
+<sup>1</sup> Die Polizei klärt mutmasslich gefährdende sowie gefährdete Personen über ihre Rechte auf, soweit es die Gefährdungssituation erlaubt.
+
+<sup>2</sup> Sie weist mutmasslich gefährdende Personen auf die Möglichkeit der Verwendung der gesammelten Informationen in allfällig späteren Strafverfahren sowie auf das Recht hin, sich nicht selbst belasten zu müssen.
+
+<sup>3</sup> Die Polizei prüft belastende und entlastende Umstände mit gleicher Sorgfalt. Bis zur fachgemässen Plausibilisierung des Gegenteils gilt eine betroffene Person als ungefährlich.
+
+#### Art. 27septies
+
+**f) Datenvernichtung**
+
+<sup>1</sup> Die Polizei vernichtet die im Rahmen des Bedrohungs- und Risikomanagements gesammelten Daten zu einer Person von Amtes wegen, wenn sie feststellt, dass von der gemeldeten Person keine Gefahr im Sinn von Art. 27<sup>bis</sup> Abs. 1 dieses Erlasses ausgeht.
+
+<sup>2</sup> Die Polizei vernichtet die im Rahmen des Bedrohungs- und Risikomanagements gesammelten Daten zu einer Person spätestens nach fünf Jahren.
+
+<sup>3</sup> Massgebend für den Beginn des Fristenlaufs ist der letzte Datenzuwachs zum letzten erfassten Ereignis.
+
 #### Art. 28
 
 **…**
 
+#### Art. 28a
+
+**Anhaltung und Identitätsfeststellung**
+
+<sup>1</sup> Wenn es zur Verhinderung oder Erkennung von Straftaten, zur Fahndung oder zur Gefahrenabwehr notwendig ist, kann die Polizei eine Person anhalten, deren Identität feststellen und abklären, ob nach ihr oder nach Fahrzeugen, anderen Sachen oder Tieren, die sie bei sich hat, gefahndet wird.
+
+<sup>2</sup> Die angehaltene Person ist verpflichtet, auf Verlangen ihre Personalien anzugeben, mitgeführte Ausweise vorzulegen, Sachen in ihrem Gewahrsam vorzuzeigen und zu diesem Zweck Behältnisse und Fahrzeuge zu öffnen.
+
+<sup>3</sup> Die Polizei kann die angehaltene Person auf den Polizeiposten führen, wenn ihre Identität an Ort und Stelle nicht eindeutig oder nur mit erheblichen Schwierigkeiten feststellbar ist, oder wenn sie die Person verdächtigt, unrichtige Angaben zu machen oder Sachen oder Fahrzeuge unrechtmässig mitzuführen.
+
+<sup>4</sup> Die Polizei gibt der betroffenen Person den Zweck der Anhaltung oder Identitätsfeststellung unverzüglich bekannt.
+
 #### Art. 28bis
 
-**Feststellung der Personalien des Fahrzeugführers**
+**Feststellung der Personalien der Fahrzeugführerin oder des Fahrzeugführers**
 
-<sup>1</sup> Die Polizei kann den Halter eines Motorfahrzeuges und jeden, dem ein solches zum Gebrauch überlassen wurde, zur Auskunft verpflichten, wer das Fahrzeug geführt oder wem er es überlassen hat.
+<sup>1</sup> Die Polizei kann die Halterin oder den Halter eines Motorfahrzeuges und jede Person, der ein solches zum Gebrauch überlassen wurde, zur Auskunft verpflichten, wer das Fahrzeug geführt hat oder wem es überlassen wurde.
 
-<sup>2</sup> Die Auskunft kann verweigern, wer ein Zeugnisverweigerungsrecht nach dem Gesetz über die Strafrechtspflege hat.
+<sup>2</sup> Die Auskunft kann verweigern, wer ein Zeugnisverweigerungsrecht nach der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^28bis-1] hat.
+
+[^28bis-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+
+#### Art. 28ter
+
+**Verdeckte Registrierung, gezielte Kontrolle**
+
+<sup>1</sup> Daten über Personen oder Fahrzeuge können zur verdeckten Registrierung oder zur gezielten Kontrolle nach Art. 99 des Schengener Durchführungsübereinkommens vom 19. Juni 1990[^28ter-1] und den Ausführungsbestimmungen des Bundesrechts in Fahndungssysteme aufgenommen werden.
+
+<sup>2</sup> Eine Aufnahme in Fahndungssysteme nach Abs. 1 dieser Bestimmung ist zulässig zur Abwehr von Gefahren für die öffentliche Sicherheit, wenn:
+
+- a) hinreichende Anhaltspunkte dafür vorliegen, dass die betroffene Person in erheblichem Umfang aussergewöhnlich schwere Straftaten plant oder begeht, oder
+- b) die Gesamtbeurteilung der betroffenen Person, insbesondere aufgrund der bisher von ihr begangenen Straftaten, erwarten lässt, dass sie auch künftig aussergewöhnlich schwere Straftaten begehen wird.
+
+<sup>3</sup> Bei der gezielten Kontrolle können zur Erreichung der in Abs. 2 dieser Bestimmung genannten Zwecke die betroffene Person, das von ihr benützte Fahrzeug oder die mitgeführten Sachen durchsucht werden.
+
+[^28ter-1]: Amtsblatt der Europäischen Gemeinschaften, ABl. L 239 vom 22. September 2000, S. 19.
 
 #### Art. 29
 
@@ -372,18 +457,23 @@ als Gesetz:[^ingress-3]
 
 #### Art. 30
 
-**Kontrolle von Behältnissen**
+**Durchsuchung a) von Gegenständen**
 
-<sup>1</sup> Die Polizei kann im Rahmen fahndungspolizeilicher Kontrollen Personen verpflichten, mitgeführte Behältnisse zu öffnen und den Inhalt vorzuzeigen.
+<sup>1</sup> Die Polizei kann Fahrzeuge, Behältnisse und andere Gegenstände öffnen und durchsuchen, wenn:
 
-<sup>2</sup> Sie kann die Behältnisse durchsuchen, wenn der dringende Verdacht besteht, dass sich darin Gegenstände befinden, die der Beschlagnahme[^30-1] unterliegen. Vorbehalten bleiben die Bestimmungen des Gesetzes über die Strafrechtspflege über die Durchsuchung von Papieren.[^30-2]
+- a) sie sich im Gewahrsam einer Person befinden, die nach Art. 31 dieses Erlasses durchsucht werden darf;
+- b) dies zum Schutz von Mitarbeitenden der Polizei oder anderer Personen erforderlich ist;
+- c) hinreichende Anzeichen bestehen, dass sich Personen darin befinden, die in Gewahrsam genommen oder angehalten werden dürfen oder widerrechtlich festgehalten werden oder anderweitig hilflos sind;
+- d) hinreichende Anzeichen bestehen, dass sich in ihnen Tiere oder Gegenstände befinden, die sicherzustellen sind;
+- e) dies zur Ermittlung der Berechtigung an Tieren sowie Fahrzeugen oder anderen Gegenständen erforderlich ist.
 
-[^30-1]: Art. [106](https://www.gesetzessammlung.sg.ch/data/962.1/de/art106) ff. StP, sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
-[^30-2]: Art. [112](https://www.gesetzessammlung.sg.ch/data/962.1/de/art112) ff. StP, sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
+<sup>2</sup> …
+
+<sup>3</sup> Die Massnahme wird wenn möglich in Gegenwart der Person durchgeführt, welche die Sachherrschaft ausübt. Erfolgt die Massnahme in Abwesenheit dieser Person, wird ein Protokoll erstellt und die Person informiert.
 
 #### Art. 31
 
-**Durchsuchung von Personen[^31-1]**
+**b) von Personen**
 
 <sup>1</sup> Die Polizei kann Personen durchsuchen, die:
 
@@ -394,7 +484,40 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Durchsuchung ist so schonend als möglich durchzuführen. Mit Ausnahme der Durchsuchung auf Waffen dürfen weibliche Personen nur von Frauen durchsucht werden.
 
-[^31-1]: Vgl. Art. [115](https://www.gesetzessammlung.sg.ch/data/962.1/de/art115) ff. StP, sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de); Art. [64](https://www.gesetzessammlung.sg.ch/data/451.11/de/art64) Abs. 1 PV, sGS [451.11](https://www.gesetzessammlung.sg.ch/data/451.11/de).
+#### Art. 31bis
+
+**Sicherstellung a) Voraussetzungen**
+
+<sup>1</sup> Die Polizei kann ein Tier oder einen Gegenstand sicherstellen:
+
+- a) um eine Gefährdung für die öffentliche Sicherheit und Ordnung abzuwehren;
+- b) um die Person, die das Eigentum oder den rechtmässigen Besitz daran hat, vor dessen Verlust, Beschädigung oder Verletzung zu schützen;
+- c) wenn anzunehmen ist, dass das Tier oder der Gegenstand zu einer strafbaren Handlung dienen könnte;
+- d) um Tiere, die unter erheblicher Verletzung massgeblicher Vorschriften gehalten werden, zu schützen, sofern die zuständige Behörde nicht rechtzeitig Massnahmen treffen kann.
+
+#### Art. 31ter
+
+**b) Herausgabe**
+
+<sup>1</sup> Ist der Grund für die Sicherstellung dahingefallen, gibt die Polizei das Tier oder den Gegenstand an die berechtigte Person oder an die Person heraus, bei der die Sicherstellung erfolgte.
+
+<sup>2</sup> Erheben mehrere Personen Anspruch darauf oder ist die Berechtigung einer Person aus anderen Gründen zweifelhaft, setzt ihnen die Polizei eine Frist zur Einreichung einer Zivilklage. Nach unbenütztem Ablauf dieser Frist gibt sie das Tier oder den Gegenstand an die Person heraus, bei der die Sicherstellung erfolgte.
+
+<sup>3</sup> Die Herausgabe kann von der Zahlung der Kosten abhängig gemacht werden.
+
+<sup>4</sup> Kann ein Tier weder zurückgegeben noch anderweitig platziert werden, entscheidet die Polizei über das weitere Vorgehen unter Beizug der für das Veterinärwesen zuständigen kantonalen Stelle.
+
+#### Art. 31quater
+
+**c) Verwertung und Vernichtung**
+
+<sup>1</sup> Erhebt niemand Anspruch auf den zurückzugebenden Gegenstand oder wird er von der berechtigten Person trotz Aufforderung nicht binnen angemessener Frist abgeholt, kann die Polizei den Gegenstand sechs Monate nach Wegfall des Grunds für die Sicherstellung verwerten.
+
+<sup>2</sup> Die Polizei kann den Gegenstand früher verwerten, wenn dieser schneller Wertverminderung ausgesetzt oder seine Aufbewahrung mit erheblichen Kosten oder Schwierigkeiten verbunden ist.
+
+<sup>3</sup> Der Verwertungserlös wird der berechtigten Person, unter Abzug der entstandenen Kosten, herausgegeben.
+
+<sup>4</sup> Kann der Gegenstand nicht oder nicht kostendeckend verwertet werden, darf die Polizei ihn entschädigungslos vernichten.
 
 #### Art. 32
 
@@ -422,7 +545,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Polizei kann erkennungsdienstliche Unterlagen beschaffen über:
 
-- a) Personen, die zu einer unbedingten Freiheitsstrafe oder einer freiheitsentziehenden Massnahme verurteilt worden sind. Die Probenahme zum Zweck der DNA-Analyse erfolgt auf Anordnung des Präsidenten des urteilenden Gerichtes;
+- a) Personen, die zu einer unbedingten Freiheitsstrafe oder einer freiheitsentziehenden Massnahme verurteilt worden sind. Die Probenahme zum Zweck der DNA-Analyse erfolgt auf Anordnung der Präsidentin oder des Präsidenten des urteilenden Gerichtes;
 - b) Personen, deren Identität nicht auf andere Weise feststellbar ist, insbesondere wenn sie unrichtiger Angaben verdächtigt werden oder wegen ihres Alters, eines Unfalls, dauernder Krankheit, Behinderung, physischer Störung oder Bewusstseinsstörung über ihre Identität nicht Auskunft geben können;
 - c) Personen, die ausgewiesen wurden oder gegen die eine Einreisesperre besteht;
 - c<sup>bis</sup>) Personen, die mit Werkzeug oder mit anderen Gegenständen angehalten werden, bei denen konkrete Anhaltspunkte bestehen, dass dieses bzw. diese zur Begehung von Verbrechen oder Vergehen verwendet werden. Die beschafften Unterlagen werden nach spätestens drei Monaten vernichtet, sofern kein Strafverfahren eingeleitet wurde;
@@ -441,7 +564,7 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Unterlagen des Erkennungsdienstes werden vernichtet:
 
 - a) von Amtes wegen, wenn sich nachträglich herausstellt, dass sie zu Unrecht beschafft worden sind;
-- b) auf Antrag des Betroffenen, wenn keine zureichenden Gründe für die weitere Aufbewahrung bestehen. Die Regierung kann durch Verordnung Mindestfristen für die Aufbewahrung vorschreiben.
+- b) auf Antrag der betroffenen Person, wenn keine zureichenden Gründe für die weitere Aufbewahrung bestehen. Die Regierung kann durch Verordnung Mindestfristen für die Aufbewahrung vorschreiben.
 
 #### Art. 37
 
@@ -464,7 +587,7 @@ als Gesetz:[^ingress-3]
 
 **Informationsaustausch mit anderen Polizeikorps und dem Grenzwachtkorps**
 
-<sup>1</sup> Ausserhalb eines Strafverfahrens dürfen Informationen und die Funkübermittlung mit anderen Polizeikorps und dem Grenzwachtkorps ausgetauscht werden, wenn sie der Empfänger benötigt:
+<sup>1</sup> Ausserhalb eines Strafverfahrens dürfen Informationen und die Funkübermittlung mit anderen Polizeikorps und dem Grenzwachtkorps ausgetauscht werden, wenn sie die Empfängerin oder der Empfänger benötigt:
 
 - a) zum Schutz wichtiger Polizeigüter, namentlich zur Gefahrenabwehr;
 - b) um eine strafbare Handlung zu verhindern oder aufzuklären.
@@ -485,6 +608,30 @@ als Gesetz:[^ingress-3]
 
 <sup>4</sup> Eine frühere Staatsangehörigkeit wird bekannt gegeben, wenn diese Angabe der Information über die Hintergründe der Tat dient.
 
+#### Art. 39quater
+
+**Elektronischer Datenaustausch**
+
+<sup>1</sup> Die Polizei kann im Sinn von Art. 32 dieses Erlasses zur Erfüllung ihrer Aufgaben, insbesondere zur Erkennung, Verhinderung oder Bekämpfung von Verbrechen und Vergehen oder zur Suche nach vermissten oder entwichenen Personen, mit Polizeibehörden des Bundes, der Kantone und der Gemeinden auf elektronischem Weg zusammenarbeiten.
+
+<sup>2</sup> Zu diesem Zweck kann die Polizei die nachfolgenden Daten und Informationen, einschliesslich Personendaten, besonders schützenswerte Personendaten und Profilings, mit den Polizeibehörden des Bundes, der Kantone und der Gemeinden im Abrufverfahren austauschen, soweit diese für die empfangende Behörde zur Erfüllung ihrer Aufgaben unentbehrlich sind:
+
+- a) Daten zu Fällen sowie natürlichen und juristischen Personen im Bereich der physischen und digitalen seriellen Kriminalität;
+- b) strukturierte polizeiliche Lagedaten;
+- c) Daten zu Fällen und natürlichen Personen im Bereich des Bedrohungs- und Risikomanagements;
+- d) Daten zu Fällen und natürlichen Personen im Zusammenhang mit vermissten oder entwichenen Personen.
+
+<sup>3</sup> Sie kann dazu:
+
+- a) Schnittstellen zwischen eigenen Informationssystemen und jenen des Bundes, der Kantone und der Gemeinden einrichten;
+- b) mit Polizeibehörden des Bundes, der Kantone und der Gemeinden gemeinsame Informationssysteme mit oder ohne gemeinsame Datenhaltung betreiben.
+
+<sup>4</sup> Die Polizei bestimmt die zugriffsberechtigten Polizeistellen und Funktionen für die gemeinsam betriebenen Informationssysteme. Der Zugriff wird protokolliert.
+
+<sup>5</sup> Die Regierung regelt durch Verordnung, bei welchen eigenen Informationssystemen die Polizei Schnittstellen nach Abs. 3 Bst. a dieser Bestimmung einrichten kann und welche gemeinsamen Informationssysteme mit anderen Polizeibehörden nach Abs. 3 Bst. b dieser Bestimmung betrieben werden können.
+
+<sup>6</sup> Beteiligt sich die Polizei an gemeinsamen Informationssystemen mit anderen Polizeibehörden nach Abs. 3 Bst. b dieser Bestimmung, regelt die Regierung die Einzelheiten der Zusammenarbeit, insbesondere betreffend Organisation, Verantwortung für Betrieb, Datenbearbeitung und Datenvernichtung, Massnahmen zur Gewährleistung der Informationssicherheit, Modalitäten der Gewährung von Auskunft und Einsicht sowie Kostentragung in einer Vereinbarung.
+
 #### Art. 40
 
 **Gewahrsam a) Gründe und Dauer**
@@ -499,7 +646,7 @@ als Gesetz:[^ingress-3]
 
 **b) Verfahren**
 
-<sup>1</sup> Kommen Erwachsenenschutzmassnahmen in Betracht, meldet die Polizei den Gewahrsam so bald als möglich dem Amtsarzt oder der Kindes- und Erwachsenenschutzbehörde des Wohnorts oder, bei Gefahr im Verzug, des Aufenthaltsorts der in Gewahrsam genommenen Person.
+<sup>1</sup> Kommen Erwachsenenschutzmassnahmen in Betracht, meldet die Polizei den Gewahrsam so bald als möglich der Amtsärztin oder dem Amtsarzt oder der Kindes- und Erwachsenenschutzbehörde des Wohnorts oder, bei Gefahr im Verzug, des Aufenthaltsorts der in Gewahrsam genommenen Person.
 
 <sup>2</sup> Die Polizei teilt der in Gewahrsam genommenen Person die Gründe mit, sobald diese ansprechbar ist, und protokolliert deren Stellungnahme. Auf Verlangen der in Gewahrsam genommenen Person benachrichtigt sie so bald als möglich einen Angehörigen oder eine andere von ihr bezeichnete Person.
 
@@ -511,19 +658,19 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Der Gewahrsam wird in geeigneten Räumen vollzogen.
 
-<sup>2</sup> Der Amtsarzt sorgt für die ärztliche Betreuung der in Gewahrsam genommenen Person.
+<sup>2</sup> Die Amtsärztin oder der Amtsarzt sorgt für die ärztliche Betreuung der in Gewahrsam genommenen Person.
 
 #### Art. 42bis
 
 **d) Beendigung**
 
-<sup>1</sup> Die Polizei entlässt die in Gewahrsam genommene Person nach Anordnung des Zwangsmassnahmengerichtes oder wenn von ihr keine Gefährdung mehr ausgeht. Vorbehalten bleiben Anordnungen der Kindes- und Erwachsenenschutzbehörde oder eine freiheitsentziehende strafprozessuale Zwangsmassnahme[^42bis-1]
+<sup>1</sup> Die Polizei entlässt die in Gewahrsam genommene Person nach Anordnung des Zwangsmassnahmengerichtes oder wenn von ihr keine Gefährdung mehr ausgeht. Vorbehalten bleiben Anordnungen der Kindes- und Erwachsenenschutzbehörde oder eine freiheitsentziehende strafprozessuale Zwangsmassnahme.[^42bis-1]
 
 <sup>2</sup> Sie informiert gefährdete Personen auf Verlangen über die Entlassung.
 
 <sup>3</sup> Der in Gewahrsam genommenen Person werden auf Verlangen Datum sowie Zeitpunkt des Beginns und des Endes des Gewahrsams bescheinigt.
 
-[^42bis-1]: Art. 212 ff. der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de); abgekürzt StPO).
+[^42bis-1]: Art. 212 ff. StPO, SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 
 #### Art. 42ter
 
@@ -597,54 +744,63 @@ als Gesetz:[^ingress-3]
 
 #### Art. 43sexies
 
-**f) Koordinationsgruppe Häusliche Gewalt und Stalking aa) Einsetzung**
+**Koordinationsgruppe Gewaltprävention a) Einsetzung**
 
-<sup>1</sup> Das zuständige Departement[^43sexies-1] bestellt eine Koordinationsgruppe Häusliche Gewalt und Stalking. Ihr gehört nebst dem Departement je eine Fachperson an der:
+<sup>1</sup> Das zuständige Departement[^43sexies-1] bestellt eine Koordinationsgruppe Gewaltprävention. Ihr gehört nebst dem Departement je eine Fachperson an:
 
-- a) Staatsanwaltschaft;
-- b) Kantonspolizei und Stadtpolizei;
-- c) Psychiatrieverbunde;
-- d) Stiftung Opferhilfe.
+- a) der Staatsanwaltschaft;
+- b) der Kantonspolizei und Stadtpolizei;
+- c) des Psychiatrieverbundes;
+- d) der Stiftung Opferhilfe SG-AR-AI;
+- e) des Schulpsychologischen Dienstes.
 
-<sup>2</sup> Das zuständige Departement überträgt einem Mitglied der Koordinationsgruppe den Vorsitz.
+<sup>2</sup> Das zuständige Departement überträgt einem Mitglied der Koordinationsgruppe Gewaltprävention den Vorsitz.
 
-<sup>3</sup> Die Koordinationsgruppe behandelt einen Fall auf Antrag eines ihrer Mitglieder, eines Kreisgerichtes oder des Kantonsgerichtes, des Amtes für Justizvollzug, der Täterberatungsstelle, einer Kindes- und Erwachsenenschutzbehörde, eines kommunalen Sozialamtes oder der Opferhilfe.
+<sup>3</sup> Die Koordinationsgruppe Gewaltprävention behandelt systemische Fragestellungen mit oder ohne Fallbezug auf Antrag eines ihrer Mitglieder, eines Kreisgerichtes oder des Kantonsgerichtes, des Amtes für Justizvollzug, der Beratungsstelle Häusliche Gewalt für gewaltausübende Personen, einer Kindes- und Erwachsenenschutzbehörde, eines kommunalen Sozialamtes, der Opferhilfe SG-AR-AI oder des Schulpsychologischen Dienstes.
 
 [^43sexies-1]: Sicherheits- und Justizdepartement; Art. 26 Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 43septies
 
-**bb) Aufgaben**
+**b) Aufgaben**
 
-<sup>1</sup> Die Koordinationsgruppe beurteilt die Gefährlichkeit einer Person im Zusammenhang mit häuslicher Gewalt oder in Fällen von Gewalt, Drohungen oder Nachstellungen (Stalking).
+<sup>1</sup> Die Koordinationsgruppe Gewaltprävention erfüllt folgende Aufgaben:
 
-<sup>2</sup> Sie kann der zuständigen Behörde die Anordnung von Massnahmen zum Schutz gefährdeter Personen empfehlen. Sie begründet die Empfehlung.
+- a) Evaluation der interdisziplinären Zusammenarbeit;
+- b) Abgabe von Empfehlungen zur Optimierung der Zusammenarbeit;
+- c) Sicherstellung des Wissenstransfers und der Vernetzung.
 
-<sup>3</sup> Die zuständige Behörde kann die betroffenen Personen über die Gefährdung und die Möglichkeiten informieren, Hilfe zu erhalten.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 43octies
 
-**cc) Verfahren**
+**c) Verfahren**
 
-<sup>1</sup> Die Koordinationsgruppe stützt sich auf Informationen ihrer Mitglieder. Diese können Mitarbeitende oder Mitglieder einer Behörde beiziehen, die für die zu behandelnde Angelegenheit zuständig sind. Für den Beizug von Gerichtspersonen bleibt Art. 38 des Gerichtsgesetzes vom 2. April 1987[^43octies-1] vorbehalten.
+<sup>1</sup> Die Koordinationsgruppe Gewaltprävention stützt sich auf Informationen ihrer Mitglieder. Diese können Mitarbeitende oder Mitglieder einer Behörde beiziehen, die für die zu behandelnde Angelegenheit zuständig sind. Für den Beizug von Gerichtspersonen bleibt Art. 38 des Gerichtsgesetzes vom 2. April 1987[^43octies-1] vorbehalten.
 
-<sup>2</sup> Die oder der Vorsitzende der Koordinationsgruppe hält empfohlene Schutzmassnahmen in einer Protokollnotiz fest und sorgt für die erforderlichen Mitteilungen.
+<sup>2</sup> …
 
 [^43octies-1]: sGS [941.1](https://www.gesetzessammlung.sg.ch/data/941.1/de).
 
 #### Art. 43nonies
 
-**dd) Auskunftsrecht**
+**d) Auskunftsrecht**
 
-<sup>1</sup> Die Mitglieder der Koordinationsgruppe sowie die beigezogenen Mitarbeitenden und Behördemitglieder sind ermächtigt, die zum Schutz gefährdeter Personen erforderlichen Informationen bekanntzugeben.
+<sup>1</sup> Die Mitglieder der Koordinationsgruppe Gewaltprävention sowie die beigezogenen Mitarbeitenden und Behördemitglieder sind ermächtigt, die zum Schutz gefährdeter Personen erforderlichen Informationen der Koordinationsgruppe Gewaltprävention bekanntzugeben.
 
-<sup>2</sup> Bei zeitlicher Dringlichkeit sind mitwirkende Ärztinnen und Ärzte, Psychologinnen und Psychologen sowie ihre Hilfspersonen gegenüber Mitgliedern der Koordinationsgruppe vom Berufsgeheimnis entbunden.
+<sup>2</sup> …
 
 #### Art. 43decies
 
-**ee) Arbeitsweise**
+**e) Arbeitsweise**
 
-<sup>1</sup> Die Koordinationsgruppe regelt ihre Arbeitsweise in einem Statut.
+<sup>1</sup> Die Koordinationsgruppe Gewaltprävention regelt ihre Arbeitsweise in einem Statut.
+
+<sup>2</sup> Die Dokumente des Bedrohungs- und Risikomanagements sowie der Koordinationsgruppe Gewaltprävention sind vom Recht auf Informationszugang nach dem Öffentlichkeitsgesetz vom 18. November 2014[^43decies-1] ausgenommen.
+
+[^43decies-1]: sGS [140.2](https://www.gesetzessammlung.sg.ch/data/140.2/de).
 
 #### Art. 44
 
@@ -690,6 +846,20 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Polizei leistet einem durch ihren Einsatz Verletzten Hilfe und Beistand.
 
+#### Art. 49bis
+
+**Rechtsschutz gegen polizeiliche Handlungen**
+
+<sup>1</sup> Soweit keine besonderen Anfechtungs-, Überprüfungs- oder Rechtsmittelverfahren gegeben sind, können Handlungen der Polizei, die diese in Ausübung polizeilicher Befugnisse nach diesem Erlass vornimmt, mit Rekurs beim zuständigen Departement angefochten werden.
+
+<sup>2</sup> Die Polizei gibt der betroffenen Person eine schriftliche Mitteilung über die polizeiliche Handlung ab, sofern die betroffene Person dies innert fünf Tagen verlangt. Die Mitteilung enthält einen Hinweis auf das Rekursrecht.
+
+<sup>3</sup> Die Rekursfrist beginnt am Tag nach der polizeilichen Handlung oder der Mitteilung nach Abs. 2 dieser Bestimmung.
+
+<sup>4</sup> Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^49bis-1].
+
+[^49bis-1]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
+
 ## IV. Besondere Vorschriften
 
 #### Art. 50
@@ -708,10 +878,10 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Eine Überwachung des Fernmeldeverkehrs kann im Rahmen von Art. 1 des Bundesgesetzes betreffend die Überwachung des Post- und Fernmeldeverkehrs vom 18. März 2016[^50bis-1] anordnen:
 
-- a) um vermisste Person zu finden:[^50bis-2]
-  - 1\. der Kommandant der Kantonspolizei;
-  - 2\. der Kommandant der Stadtpolizei St.Gallen, wenn die Person ab dem Gebiet der Stadt St.Gallen vermisst wird;
-- b) um eine Person zu finden, die zu einer Freiheitsstrafe verurteilt wurde oder gegen die eine freiheitsentziehende Massnahme angeordnet wurde[^50bis-3]: der Kommandant der Kantonspolizei auf Antrag der zuständigen Justizvollzugsbehörde.
+- a) um eine vermisste Person zu finden:[^50bis-2]
+  - 1\. die Kommandantin oder der Kommandant der Kantonspolizei;
+  - 2\. die Kommandantin oder der Kommandant der Stadtpolizei St.Gallen, wenn die Person ab dem Gebiet der Stadt St.Gallen vermisst wird;
+- b) um eine Person zu finden, die zu einer Freiheitsstrafe verurteilt wurde oder gegen die eine freiheitsentziehende Massnahme angeordnet wurde[^50bis-3]: die Kommandantin oder der Kommandant der Kantonspolizei auf Antrag der zuständigen Justizvollzugsbehörde.
 
 <sup>2</sup> …
 
@@ -719,7 +889,7 @@ als Gesetz:[^ingress-3]
 
 <sup>4</sup> Gegen die Überwachung kann Beschwerde bei der Anklagekammer erhoben werden.
 
-[^50bis-1]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de) ; abgekürzt BÜPF.
+[^50bis-1]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de); abgekürzt BÜPF.
 [^50bis-2]: Art. 12 Bst. f dieses Erlasses; Art. 35 und 37 BÜPF, SR [780.1](https://db.clex.ch/link/Bund/780.1/de).
 [^50bis-3]: Art. [36 f.](https://db.clex.ch/link/Bund/780.1/de) BÜPF, SR [780.1](https://db.clex.ch/link/Bund/780.1/de).
 
@@ -737,9 +907,9 @@ als Gesetz:[^ingress-3]
 
 #### Art. 51
 
-**Privatdetektive**
+**Privatdetektivinnen und Privatdetektive**
 
-<sup>1</sup> Wer sich gewerbsmässig als Privatdetektiv betätigt, bedarf einer Bewilligung des zuständigen Departementes.[^51-1]
+<sup>1</sup> Wer sich gewerbsmässig als Privatdetektivin oder Privatdetektiv betätigt, bedarf einer Bewilligung des zuständigen Departementes.[^51-1]
 
 <sup>2</sup> Die Bewilligung wird natürlichen Personen erteilt, die handlungsfähig sind und nach Vorleben und Ausbildung für eine einwandfreie Berufsausübung hinreichend Gewähr bieten.
 
@@ -758,8 +928,8 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn:
 
-- a) Betriebsinhaber, Geschäftsleitung und Personal hinreichend Gewähr für eine einwandfreie Erfüllung der übernommenen Bewachungs-, Ordnungs- und Sicherheitsaufgaben bieten;
-- b) der Gesuchsteller den Abschluss einer für die Art und den Umfang des Geschäfts ausreichende Haftpflichtversicherung nachweist.
+- a) die Inhaberin oder der Inhaber eines Betriebs, Geschäftsleitung und Personal hinreichend Gewähr für eine einwandfreie Erfüllung der übernommenen Bewachungs-, Ordnungs- und Sicherheitsaufgaben bieten;
+- b) die gesuchstellende Person den Abschluss einer für die Art und den Umfang des Geschäfts ausreichenden Haftpflichtversicherung nachweist.
 
 <sup>3</sup> Die Bewilligung wird entzogen, wenn die Voraussetzungen zur Erteilung nicht mehr bestehen oder die mit der Bewilligung auferlegten Pflichten schwerwiegend oder wiederholt verletzt werden.
 
@@ -796,7 +966,7 @@ als Gesetz:[^ingress-3]
 
 **Gästekontrolle**
 
-<sup>1</sup> In Beherbergungsbetrieben sind übernachtende Gäste zum vollständigen und wahrheitsgetreuen Ausfüllen des Hotelmeldescheins aufzufordern. Für Gästegruppen genügt die Teilnehmerliste des Veranstalters.
+<sup>1</sup> In Beherbergungsbetrieben sind übernachtende Gäste zum vollständigen und wahrheitsgetreuen Ausfüllen des Hotelmeldescheins aufzufordern. Für Gästegruppen genügt die Teilnehmerliste der Veranstalterin oder des Veranstalters.
 
 <sup>2</sup> Hotelmeldeschein und Listen von Gästegruppen sind während fünf Jahren aufzubewahren und der Polizei auf Verlangen herauszugeben.
 
@@ -808,14 +978,14 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Kantonspolizei kann Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachten und dabei Bild- und Tonaufzeichnungen machen, wenn:
 
-- a) Anzeichen bestehen, dass es zu einem Verbrechen oder Vergehen.[^52ter-1] kommen könnte und
+- a) Anzeichen bestehen, dass es zu einem Verbrechen oder Vergehen[^52ter-1] kommen könnte und
 - b) andere Massnahmen zur Informationsbeschaffung aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Hat eine Observation einen Monat gedauert, bedarf ihre Fortsetzung der Genehmigung durch den Kommandanten der Kantonspolizei.
+<sup>2</sup> Hat eine Observation einen Monat gedauert, bedarf ihre Fortsetzung der Genehmigung durch die Kommandantin oder den Kommandanten der Kantonspolizei.
 
 <sup>3</sup> Art. 283 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^52ter-2] über die Mitteilung an die von einer Observation betroffenen Personen wird sachgemäss angewendet.
 
-[^52ter-1]: Art. [10](https://db.clex.ch/link/Bund/311.0/de) des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, (SR [311.0](https://db.clex.ch/link/Bund/311.0/de);abgekürzt StGB).
+[^52ter-1]: Art. [10](https://db.clex.ch/link/Bund/311.0/de) des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 (SR [311.0](https://db.clex.ch/link/Bund/311.0/de); abgekürzt StGB).
 [^52ter-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 
 #### Art. 52quater
@@ -832,10 +1002,10 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Kantonspolizei kann eine verdeckte Fahndung anordnen, wenn:
 
-- a) hinreichende Anzeichen bestehen, dass es zu einem Verbrechen oder Vergehen.[^52quinquies-1] kommen könnte und
+- a) hinreichende Anzeichen bestehen, dass es zu einem Verbrechen oder Vergehen[^52quinquies-1] kommen könnte und
 - b andere Massnahmen zur Informationsbeschaffung aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Hat eine verdeckte Fahndung einen Monat gedauert, bedarf ihre Fortsetzung der Genehmigung durch den Kommandanten der Kantonspolizei.
+<sup>2</sup> Hat eine verdeckte Fahndung einen Monat gedauert, bedarf ihre Fortsetzung der Genehmigung durch die Kommandantin oder den Kommandanten der Kantonspolizei.
 
 [^52quinquies-1]: Art. [10](https://db.clex.ch/link/Bund/311.0/de) StGB, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
@@ -843,10 +1013,10 @@ als Gesetz:[^ingress-3]
 
 **c) Durchführung**
 
-<sup>1</sup> Es werden sachgemäss die folgenden Bestimmungender Schweizerischen Strafprozessordung vom 5. Oktober 2007[^52sexies-1] angewendet:
+<sup>1</sup> Es werden sachgemäss die folgenden Bestimmungen der Schweizerischen Strafprozessordung vom 5. Oktober 2007[^52sexies-1] angewendet:
 
-- a) für die Anforderungen an die eingesetzten Polizeibeamten Art. 287;
-- b) für die Aufgaben der verdeckten Fahnder und Führungspersonen Art.291 bis 294;
+- a) für die Anforderungen an die eingesetzten Polizeibeamtinnen und Polizeibeamten Art. 287;
+- b) für die Aufgaben der verdeckten Fahnderinnen und Fahnder und Führungspersonen Art. 291 bis 294;
 - c) für Beendigung und Mitteilung des Einsatzes Art. 298 d.
 
 [^52sexies-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
@@ -861,7 +1031,7 @@ als Gesetz:[^ingress-3]
 
 **b) Voraussetzungen und Genehmigung**
 
-<sup>1</sup> Die Kantonspolizei kann eine verdeckte Ermittlunganordnen, wenn:
+<sup>1</sup> Die Kantonspolizei kann eine verdeckte Ermittlung anordnen, wenn:
 
 - a) hinreichende Anzeichen bestehen, dass es zu einer in Art. 286 Abs. 2 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^52octies-1] genannten Straftat kommen könnte;
 - b) die Schwere der Straftat die verdeckte Ermittlung rechtfertigt und
@@ -873,13 +1043,13 @@ als Gesetz:[^ingress-3]
 
 #### Art. 52novies
 
-**Durchführung**
+**c) Durchführung**
 
 <sup>1</sup> Es werden sachgemäss die folgenden Bestimmungen der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^52novies-1] angewendet:
 
 - a) für die Anforderungen an die eingesetzten Personen Art. 287;
 - b) für Legende und Zusicherung der Anonymität Art. 288 und 151;
-- c) für Stellung, Aufgaben und Pflichten der verdeckten Ermittler und Führungspersonen Art. 290 bis 294;
+- c) für Stellung, Aufgaben und Pflichten der verdeckten Ermittlerinnen und Ermittler und Führungspersonen Art. 290 bis 294;
 - d) für Zufallsfunde Art. 296;
 - e) für Beendigung und Mitteilung des Einsatzes Art. 297 und 298.
 
@@ -933,7 +1103,7 @@ als Gesetz:[^ingress-3]
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die im Kantonsgebiet tätigen Privatdetektive haben innert eines Jahres nach Vollzugsbeginn dieses Gesetzes eine Bewilligung einzuholen.
+<sup>1</sup> Die im Kantonsgebiet tätigen Privatdetektivinnen und Privatdetektive haben innert eines Jahres nach Vollzugsbeginn dieses Gesetzes eine Bewilligung einzuholen.
 
 #### Art. 60
 
