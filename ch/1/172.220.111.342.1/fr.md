@@ -3,11 +3,11 @@ sr: "172.220.111.342.1"
 title: Ordonnance du DDPS du 15 février 2019 sur les allocations dans le service de vol du DDPS (Ordonnance sur les allocations de vol du DDPS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/151"
 language: fr
-version: 2022-07-01
+version: 2025-01-01
 adopted: 2019-02-15
 in_force: 2019-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-151-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-151-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/fr"
 
 (Ordonnance sur les allocations de vol du DDPS)
 
-du 15 février 2019 (État le 1<sup>er</sup> juillet 2022)
+du 15 février 2019 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), en accord avec le Département fédéral des finances,
 
@@ -30,26 +30,27 @@ arrête:
 
 #### Art. 1
 
-La présente ordonnance règle les allocations pour les catégories de personnel suivantes du DDPS:
+La présente ordonnance règle les allocations pour les catégories de personnel suivantes du DDPS, à l’exception des officiers généraux (art. 2, al. 1, let. c, OPers):[^1-1]
 
 - a. pilotes militaires de carrière;
 - b. opérateurs de bord de carrière;
 - c. opérateurs FLIR de carrière;
-- d.[^1-1] photographes de bord de carrière;
-- e.[^1-2] éclaireurs parachutistes de carrière;
-- e<sup>bis</sup>.[^1-3] membres du détachement de reconnaissance de l’armée 10 (DRA 10) avec instruction militaire de saut en chute libre;
-- e<sup>ter</sup>.[^1-4] enseignants spécialisés avec licence d’instructeur de saut en parachute du service spécialisé de saut en parachute;
+- d.[^1-2] photographes de bord de carrière;
+- e.[^1-3] éclaireurs parachutistes de carrière;
+- e<sup>bis</sup>.[^1-4] membres du détachement de reconnaissance de l’armée 10 (DRA 10) avec instruction militaire de saut en chute libre;
+- e<sup>ter</sup>.[^1-5] enseignants spécialisés avec licence d’instructeur de saut en parachute du service spécialisé de saut en parachute;
 - f. membres d’équipage qui, à bord d’un aéronef, contribuent à l’exécution de la mission de vol;
 - g. pilotes civils du Service de transport aérien de la Confédération (STAC);
 - h. pilotes d’essai;
 - i. ingénieurs pour les essais en vol;
-- j.[^1-5] ingénieurs du service de vol de l’Office fédéral de topographie (swisstopo).
+- j.[^1-6] ingénieurs du service de vol de l’Office fédéral de topographie (swisstopo).
 
-[^1-1]: Nouvelle teneur selon l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 [^1-2]: Nouvelle teneur selon l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
-[^1-3]: Introduite par l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-3]: Nouvelle teneur selon l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 [^1-4]: Introduite par l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
-[^1-5]: Nouvelle teneur selon l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-5]: Introduite par l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-6]: Nouvelle teneur selon l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 
 ## Section 2 Membres du service de vol militaire
 
@@ -59,19 +60,15 @@ La présente ordonnance règle les allocations pour les catégories de personnel
 
 <sup>1</sup> Les pilotes militaires de carrière, les pilotes civils du STAC, les opérateurs de bord de carrière, les opérateurs FLIR de carrière, les photographes de bord de carrière, les éclaireurs parachutistes de carrière, les membres du DRA 10 avec instruction militaire de saut en chute libre et les enseignants spécialisés avec licence d’instructeur de saut en parachute du service spécialisé reçoivent une allocation, conformément à l’annexe 1, pour les exigences particulières imposées par le service de vol, l’engagement accru dans ce cadre et le risque élevé qu’ils courent.[^2-1]
 
-<sup>2</sup>
+<sup>2</sup> L’allocation des pilotes militaires de carrière conformément à l’annexe 1 est réduite de 10 % pour les classes de traitement 30 et 31.[^2-2]
 
-L’allocation des pilotes militaires de carrière selon l’annexe 1 est réduite comme suit:
-
-- a. 10 % pour les classes de traitement 30 et 31;
-- b. 20 % pour les classes de traitement 32 et 33;
-- c. 30 % pour la classe de traitement 34.
-
-<sup>3</sup> Les pilotes militaires de carrière qui sont rangés dans la classe de traitement 35 ou au‑delà ou qui exercent une fonction en dehors des Forces aériennes n’ont pas droit à l’allocation prévue à l’al. 1.
+<sup>3</sup> Les pilotes militaires de carrière qui exercent une fonction en dehors du DDPS n’ont pas droit à l’allocation prévue à l’al. 1.[^2-3]
 
 <sup>4</sup> Les membres d’équipage qui, à bord d’un aéronef, contribuent à l’exécution de la mission de vol, reçoivent une allocation par minute de vol, conformément à l’annexe 3.
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 
 #### Art. 3
 
@@ -175,6 +172,18 @@ L’ordonnance du 15 mai 2003 sur les allocations dans le service de vol du DDPS
 L’art. 8, al. 2 et 3, de la modification du 21 mars 2022 s’applique également aux employés visés par l’art. 1, let. a à e et f à j, qui ont été définitivement suspendus du service de vol entre le 1<sup>er</sup> janvier 2020 et l’entrée en vigueur de la modification.
 
 [^10a-1]: Introduit par l’annexe ch. I de l’O du DDPS du 21 mars 2022 sur les membres du service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+
+#### Art. 10b
+
+**Dispositions transitoires relatives à la modification du 16 août 2024**[^10b-1]
+
+Les catégories de personnel mentionnées ci-après reçoivent l’allocation prévue à l’art. 2, al. 1, au maximum pendant cinq ans après l’entrée en vigueur de la modification du 16 août 2024:
+
+- a. les officiers généraux qui percevaient une allocation prévue à l’art. 2, al. 1, avant l’entrée en vigueur de cette modification, jusqu’à ce qu’une fonction ou un commandement leur soit attribué conformément à l’art. 26, al. 5, OPers;
+- b. les pilotes militaires de carrière à qui l’attribution d’une fonction à un grade d’officier général a été communiquée par écrit avant l’entrée en vigueur de cette modification;
+- c. les pilotes militaires de carrière qui exerçaient une fonction à un grade d’officier général avant l’entrée en vigueur de cette modification et dont la promotion ne sera effective qu’après son entrée en vigueur.
+
+[^10b-1]: Introduit par le ch. I de l’O du DDPS du 16 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 
 #### Art. 11
 

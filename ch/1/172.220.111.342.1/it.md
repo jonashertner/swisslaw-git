@@ -3,11 +3,11 @@ sr: "172.220.111.342.1"
 title: Ordinanza del DDPS del 15 febbraio 2019 sulle indennità per il servizio di volo e il servizio di lancio con il paracadute del DDPS (Ordinanza sulle indennità di volo del DDPS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/151"
 language: it
-version: 2022-07-01
+version: 2025-01-01
 adopted: 2019-02-15
 in_force: 2019-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2019-151-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2019-151-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/it"
 
 (Ordinanza sulle indennità di volo del DDPS)
 
-del 15 febbraio 2019 (Stato 1° luglio 2022)
+del 15 febbraio 2019 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS), d’intesa con il Dipartimento federale delle finanze,
 
@@ -30,7 +30,7 @@ ordina:
 
 #### Art. 1
 
-La presente ordinanza disciplina le indennità per i seguenti impiegati nel DDPS:[^1-1]
+La presente ordinanza disciplina le indennità per i seguenti impiegati nel DDPS, ad eccezione degli alti ufficiali superiori (art. 2 cpv. 1 lett. c OPers):[^1-1]
 
 - a. piloti militari di professione;
 - b. operatori di bordo di professione;
@@ -45,7 +45,7 @@ La presente ordinanza disciplina le indennità per i seguenti impiegati nel DDPS
 - i. ingegneri addetti alle prove in volo;
 - j.[^1-6] ingegneri del servizio di volo dell’Ufficio federale di topografia (swisstopo).
 
-[^1-1]: Nuovo testo giusta l’all. n. I dell’O del DDPS del 21 mar. 2022 concernente i membri del servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 [^1-2]: Nuovo testo giusta l’all. n. I dell’O del DDPS del 21 mar. 2022 concernente i membri del servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 [^1-3]: Nuovo testo giusta l’all. n. I dell’O del DDPS del 21 mar. 2022 concernente i membri del servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 [^1-4]: Introdotta dall’all. n. I dell’O del DDPS del 21 mar. 2022 concernente i membri del servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
@@ -60,19 +60,15 @@ La presente ordinanza disciplina le indennità per i seguenti impiegati nel DDPS
 
 <sup>1</sup> I piloti militari di professione, i piloti da trasporto civili dello STAC, gli operatori di bordo di professione, gli operatori FLIR di professione, i fotografi di bordo di professione, gli esploratori paracadutisti di professione, i membri del DEE 10 con istruzione militare in caduta libera nonché gli insegnanti specialisti con licenza di istruttori di paracadutismo nel servizio specialistico paracadutisti ricevono un’indennità conformemente all’allegato 1 per il particolare impegno, per il frequente impiego nel servizio di volo e per il maggiore rischio.[^2-1]
 
-<sup>2</sup>
+<sup>2</sup> L’indennità dei piloti militari di professione conformemente all’allegato 1 assegnati alle classi di stipendio 30 e 31 è ridotta del 10 per cento.[^2-2]
 
-L’indennità dei piloti militari di professione conformemente all’allegato 1 è ridotta come segue:
-
-- a. classi di stipendio 30 e 31: riduzione del 10 per cento;
-- b. classi di stipendio 32 e 33: riduzione del 20 per cento;
-- c. classe di stipendio 34: riduzione del 30 per cento.
-
-<sup>3</sup> I piloti militari di professione assegnati alla classe di stipendio 35 o a una classe superiore, oppure che esercitano una funzione al di fuori del DDPS, non hanno alcun diritto all’indennità di cui al capoverso 1
+<sup>3</sup> I piloti militari di professione che esercitano una funzione al di fuori del DDPS non hanno alcun diritto all’indennità di cui al capoverso 1.[^2-3]
 
 <sup>4</sup> I membri dell’equipaggio che a bordo dell’aeromobile contribuiscono all’adempimento dell’ordine di volo ricevono un’indennità per ogni minuto di volo conformemente all’allegato 3.
 
 [^2-1]: Nuovo testo giusta l’all. n. I dell’O del DDPS del 21 mar. 2022 concernente i membri del servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del DDPS del 16 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del DDPS del 16 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 
 #### Art. 3
 
@@ -176,6 +172,18 @@ L’ordinanza del DDPS del 15 maggio 2003[^9-1] sulle indennità per il servizio
 L’articolo 8 capoversi 2 e 3 nel tenore della modifica del 21 marzo 2022 si applica anche agli impiegati di cui all’articolo 1 lettere a–e e f–j che sono stati definitivamente sospesi dal servizio di volo tra il 1° gennaio 2020 e l’entrata in vigore della presente modifica.
 
 [^10a-1]: Introdotto dall’all. n. I dell’O del DDPS del 21 mar. 2022 concernente i membri del servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+
+#### Art. 10b
+
+**Disposizioni transitorie della modifica del 16 agosto 2024**[^10b-1]
+
+I seguenti impiegati ricevono un’indennità ai sensi dell’articolo 2 capoverso 1 per una durata massima di cinque anni dopo l’entrata in vigore della modifica del 16 agosto 2024:
+
+- a. alti ufficiali superiori ai quali prima dell’entrata in vigore di tale modifica veniva versata un’indennità ai sensi dell’articolo 2 capoverso 1, fino all’attribuzione di una funzione o di un comando secondo l’articolo 26 capoverso 5 OPers;
+- b. piloti militari di professione ai quali prima dell’entrata in vigore di tale modifica è stata comunicata per scritto l’assegnazione di una funzione in un grado di alto ufficiale superiore;
+- c. piloti militari di professione che prima dell’entrata in vigore di tale modifica esercitavano una funzione in un grado di alto ufficiale superiore e la cui promozione diventa esecutiva soltanto dopo l’entrata in vigore di tale modifica.
+
+[^10b-1]: Introdotto dal n. I dell’O del DDPS del 16 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 
 #### Art. 11
 

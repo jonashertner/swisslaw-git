@@ -3,11 +3,11 @@ sr: "172.220.111.342.1"
 title: Verordnung des VBS vom 15. Februar 2019 über die Zulagen im Flug- und Fallschirmsprungdienst des VBS (Flugzulagenverordnung VBS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/151"
 language: de
-version: 2022-07-01
+version: 2025-01-01
 adopted: 2019-02-15
 in_force: 2019-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2019-151-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2019-151-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/de"
 
 (Flugzulagenverordnung VBS)
 
-vom 15. Februar 2019 (Stand am 1. Juli 2022)
+vom 15. Februar 2019 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS), im Einvernehmen mit dem Eidgenössischen Finanzdepartement,
 
@@ -30,7 +30,7 @@ verordnet:
 
 #### Art. 1
 
-Diese Verordnung regelt die Zulagen für folgende Angestellte im VBS:[^1-1]
+Diese Verordnung regelt die Zulagen für folgende Angestellte im VBS, mit Ausnahme von höheren Stabsoffizieren (Art. 2 Abs. 1 Bst. c BPV):[^1-1]
 
 - a. Berufsmilitärpiloten und -pilotinnen;
 - b. Berufsbordoperateure und -operateurinnen;
@@ -45,7 +45,7 @@ Diese Verordnung regelt die Zulagen für folgende Angestellte im VBS:[^1-1]
 - i. Flugversuchsingenieure und -ingenieurinnen;
 - j.[^1-6] Ingenieure und Ingenieurinnen des Flugdienstes des Bundesamts für Landestopografie (Swisstopo).
 
-[^1-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 [^1-2]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 [^1-3]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 [^1-4]: Eingefügt durch Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
@@ -60,19 +60,15 @@ Diese Verordnung regelt die Zulagen für folgende Angestellte im VBS:[^1-1]
 
 <sup>1</sup> Berufsmilitärpiloten und -pilotinnen, zivile Transportpiloten und -pilotinnen LTDB, Berufsbordoperateure und -operateurinnen, Berufs-FLIR-Operateure und -Operateurinnen, Berufsbordfotografen und -fotografinnen, Berufsfallschirmaufklärer und -aufklärerinnen, Angehörige des AAD 10 mit militärischer Freifallausbildung sowie Fachlehrer und -lehrerinnen mit Fallschirminstruktor-Lizenz im Fachdienst Fallschirmerhalten eine Zulage nach Anhang 1 für besondere Beanspruchung, für den vermehrten Einsatz im Flugdienst und für das erhöhte Risiko.[^2-1]
 
-<sup>2</sup>
+<sup>2</sup> Die Zulage der Berufsmilitärpiloten und -pilotinnen nach Anhang 1, die in den Lohnklassen 30 und 31 eingereiht sind, wird um 10 Prozent gekürzt.[^2-2]
 
-Die Zulage der Berufsmilitärpiloten und –pilotinnen nach Anhang 1 wird wie folgt gekürzt:
-
-- a. Lohnklassen 30 und 31: Kürzung um 10 Prozent;
-- b. Lohnklassen 32 und 33: Kürzung um 20 Prozent;
-- c. Lohnklasse 34: Kürzung um 30 Prozent.
-
-<sup>3</sup> Keinen Anspruch auf die Zulage nach Absatz 1 haben Berufsmilitärpiloten und ‑pilotinnen, die in der Lohnklasse 35 und höher eingereiht sind oder eine Funktion ausserhalb des VBS ausüben.
+<sup>3</sup> Keinen Anspruch auf die Zulage nach Absatz 1 haben Berufsmilitärpiloten und ‑pilotinnen, die eine Funktion ausserhalb des VBS ausüben.[^2-3]
 
 <sup>4</sup> Eine Zulage pro Flugminute nach Anhang 3 erhalten Besatzungsmitglieder, die an Bord des Luftfahrzeugs zur Erfüllung des Flugauftrags beitragen.
 
 [^2-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^2-2]: Fassung gemäss Ziff. I der V des VBS vom 16. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
+[^2-3]: Fassung gemäss Ziff. I der V des VBS vom 16. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 
 #### Art. 3
 
@@ -176,6 +172,18 @@ Die Verordnung vom 15. Mai 2003[^9-1] über die Zulagen im Flug- und Fallschirms
 Artikel 8 Absätze 2 und 3 der Änderung vom 21. März 2022 gilt auch für Angestellte nach Artikel 1 Buchstaben a–e und f–j, die zwischen dem 1. Januar 2020 und dem Inkrafttreten dieser Änderung endgültig im Flugdienst eingestellt wurden.
 
 [^10a-1]: Eingefügt durch Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+
+#### Art. 10b
+
+**Übergangsbestimmungen zu den Änderungen vom 16. August 2024**[^10b-1]
+
+Die folgenden Angestellten erhalten während längstens fünf Jahren nach Inkrafttreten der Änderung vom 16. August 2024 eine Zulage nach Artikel 2 Absatz 1:
+
+- a. höhere Stabsoffiziere, denen vor dem Inkrafttreten dieser Änderung eine Zulage nach Artikel 2 Absatz 1 ausgerichtet wurde, bis zur Versetzung auf eine Funktion oder ein Kommando nach Artikel 26 Absatz 5 BPV;
+- b. Berufsmilitärpiloten und -pilotinnen, denen vor dem Inkrafttreten dieser Änderung die Zuweisung einer Funktion im Grad eines höheren Stabsoffiziers schriftlich mitgeteilt wurde;
+- c. Berufsmilitärpiloten und -pilotinnen, die vor dem Inkrafttreten dieser Änderung eine Funktion im Grad eines höheren Stabsoffiziers ausgeübt haben und deren Beförderung erst nach Inkrafttreten dieser Änderung vollzogen wird.
+
+[^10b-1]: Eingefügt durch Ziff. I der V des VBS vom 16. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 442](https://fedlex.data.admin.ch/eli/oc/2024/442)).
 
 #### Art. 11
 
