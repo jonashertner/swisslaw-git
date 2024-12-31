@@ -3,11 +3,11 @@ sr: "641.71"
 title: "Bundesgesetz vom 23. Dezember 2011 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: de
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-855-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-855-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/de"
 
 (CO<sub>2</sub>-Gesetz)
 
-vom 23. Dezember 2011 (Stand am 1. Januar 2022)
+vom 23. Dezember 2011 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 74 und 89 der Bundesverfassung[^ingress-1], nach Einsi
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 7433](https://fedlex.data.admin.ch/eli/fga/2009/1323)
 [^ingress-3]: [BBl 2010 973](https://fedlex.data.admin.ch/eli/fga/2010/181)
 
@@ -32,99 +32,130 @@ beschliesst:
 
 #### Art. 1
 
-**Zweck**
+**Zweck**[^1-1]
 
-<sup>1</sup> Mit diesem Gesetz sollen die Treibhausgasemissionen, insbesondere die CO<sub>2</sub>-Emissionen, die auf die energetische Nutzung fossiler Energieträger (Brenn- und Treibstoffe) zurückzuführen sind, vermindert werden mit dem Ziel, einen Beitrag zu leisten, den globalen Temperaturanstieg auf weniger als 2 Grad Celsius zu beschränken.
+Dieses Gesetz bezweckt die Umsetzung der im Bundesgesetz vom 30. September 2022[^1-2] über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit (KIG) festgelegten Ziele.
 
-<sup>2</sup> Der Bundesrat bezeichnet die Treibhausgase.
+[^1-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^1-2]: [SR 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153); [AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
 #### Art. 2
 
-**Begriffe**
+**Begriffe**[^2-1]
 
-<sup>1</sup> Brennstoffe sind fossile Energieträger, die zur Gewinnung von Wärme, zur Erzeugung von Licht, in thermischen Anlagen zur Stromproduktion oder für den Betrieb von Wärme-Kraft-Koppelungsanlagen (WKK-Anlagen) verwendet werden.[^2-1]
+In diesem Gesetz bedeuten:
 
-<sup>2</sup> Treibstoffe sind fossile Energieträger, die in Verbrennungsmotoren zur Krafterzeugung eingesetzt werden.
+- a. *fossile Brennstoffe:* fossile Energieträger, die zur Gewinnung von Wärme, zur Erzeugung von Licht, in thermischen Anlagen zur Stromproduktion oder für den Betrieb von Wärme-Kraft-Koppelungsanlagen (WKK-Anlagen) verwendet werden;
+- b. *fossile Treibstoffe:* fossile Energieträger, die in Verbrennungsmotoren zur Krafterzeugung eingesetzt werden;
+- c. *Emissionsrechte:* handelbare Berechtigungen zum Ausstoss von Treibhausgasen, die vom Bund oder von Staaten oder Staatengemeinschaften mit vom Bundesrat anerkannten Emissionshandelssystemen (EHS) kostenlos zugeteilt oder versteigert werden;
+- d. *nationale Bescheinigungen**:* in der Schweiz handelbare Bescheinigungen über in der Schweiz nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistung;
+- e. *Emissionsminderungszertifikate:* international anerkannte handelbare Bescheinigungen über im Ausland nachweislich erzielte Emissionsverminderungen nach dem Protokoll von Kyoto vom 11. Dezember 1997[^2-2] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen;
+- f. *internationale Bescheinigungen:* Bescheinigungen über im Ausland nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistung nach dem Klimaübereinkommen vom 12. Dezember 2015[^2-3];
+- g. *Anlagen:* ortsfeste technische Einheiten an einem Standort;
+- h. *Senkenleistung:* die anrechenbare Entnahme von CO<sub>2</sub> aus der Atmosphäre und dessen Bindung in Kohlenstoffspeichern;
+- i. *Klimaschutz:* die Gesamtheit der Massnahmen, die zur Verminderung der Treibhausgasemissionen oder zur Erhöhung der Senkenleistung beitragen und mögliche Folgen der erhöhten Treibhausgaskonzentration in der Atmosphäre abmildern oder verhindern sollen;
+- j. *Anbieter von Flugtreibstoffen*: Anbieter, die Flugtreibstoffe oder Wasserstoff für die Luftfahrt bereitstellen, und Betreiber von Luftfahrzeugen, die Flugtreibstoffe oder Wasserstoff für den gewerbsmässigen Eigengebrauch selber erwerben oder produzieren.
 
-<sup>3</sup> Emissionsrechte sind handelbare Berechtigungen zum Ausstoss von Treibhausgasen, die vom Bund oder von Staaten oder Staatengemeinschaften mit vom Bundesrat anerkannten Emissionshandelssystemen (EHS) kostenlos zugeteilt oder versteigert werden.[^2-2]
-
-<sup>4</sup> Emissionsminderungszertifikate sind international anerkannte handelbare Bescheinigungen über im Ausland erzielte Emissionsverminderungen nach dem Protokoll von Kyoto vom 11. Dezember 1997[^2-3] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen.[^2-4]
-
-<sup>4bis</sup> Internationale Bescheinigungen sind Bescheinigungen über nachweislich erzielte Verminderungen von Treibhausgasemissionen im Ausland nach dem Klimaübereinkommen vom 12. Dezember 2015[^2-5].[^2-6]
-
-<sup>5</sup> Anlagen sind ortsfeste technische Einheiten an einem Standort.[^2-7]
-
-[^2-1]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^2-2]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^2-3]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^2-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^2-5]: [SR 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
-[^2-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^2-7]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^2-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^2-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+[^2-3]: [SR 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 #### Art. 3
 
-**Reduktionsziel**
+**Reduktionsziele**[^3-1]
 
-<sup>1</sup> Die Treibhausgasemissionen im Inland sind bis zum Jahr 2020 gegenüber 1990 gesamthaft um 20 Prozent zu vermindern. Der Bundesrat kann sektorielle Zwischenziele festlegen.
+<sup>1</sup>
 
-<sup>1bis</sup> Die Treibhausgasemissionen sind bis im Jahr 2024 jährlich um weitere 1,5 Prozent gegenüber 1990 zu vermindern. Der Bundesrat kann sektorielle Zwischenziele festlegen.[^3-1]
+Der Bund sorgt dafür, dass die Treibhausgasemissionen:
 
-<sup>1ter</sup> Die Verminderung der Treibhausgasemissionen nach Absatz 1<sup>bis</sup> muss mindestens zu 75 Prozent mit im Inland durchgeführten Massnahmen erfolgen.[^3-2]
+- a. im Jahr 2030 höchstens 50 Prozent der Treibhausgasemissionen im Jahr 1990 betragen;
+- b. im Durchschnitt der Jahre 2021–2030 um mindestens 35 Prozent gegenüber 1990 vermindert werden.
 
-<sup>2</sup> …[^3-3]
+<sup>2</sup> Die Verminderung der Treibhausgasemissionen erfolgt in erster Linie mit Massnahmen in der Schweiz. Der Bundesrat bestimmt den Anteil.
 
-<sup>3</sup> Die Gesamtmenge der Treibhausgasemissionen berechnet sich nach Massgabe der in der Schweiz ausgestossenen Treibhausgase. Emissionen aus Flugtreibstoffen für internationale Flüge werden nicht berücksichtigt.
+<sup>3</sup> Der Bundesrat kann in Übereinstimmung mit Artikel 4 KIG[^3-2] Richtwerte für einzelne Sektoren festlegen.
 
-<sup>3bis</sup> Der Bundesrat legt fest, inwieweit Emissionsrechte von Staaten oder Staatengemeinschaften mit vom Bundesrat anerkannten EHS zur Erreichung des Reduktionsziels nach Absatz 1 berücksichtigt werden.[^3-4]
+<sup>4</sup> Er kann im Einvernehmen mit den betroffenen Kreisen Reduktionsziele für einzelne Wirtschaftszweige festlegen.
 
-<sup>4</sup> Der Bundesrat kann im Einvernehmen mit den betroffenen Kreisen Reduktionsziele für einzelne Wirtschaftszweige festlegen.
+[^3-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3-2]: [SR 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153); [AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
-<sup>5</sup> Er unterbreitet der Bundesversammlung rechtzeitig Vorschläge zu Reduktionszielen für die Zeit nach 2020. Dazu hört er vorgängig die betroffenen Kreise an.
+#### Art. 3a
 
-[^3-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-3]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-4]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+**Massgebende Treibhausgasemissionen**[^3a-1]
+
+<sup>1</sup> Für die Erreichung der Reduktionsziele sind die in der Schweiz ausgestossenen Treibhausgase massgebend. Der Bundesrat bezeichnet die Treibhausgase.
+
+<sup>2</sup> Emissionen aus in der Schweiz getankten fossilen Treibstoffen für internationale Flüge und Schifffahrten werden nicht berücksichtigt.
+
+<sup>3</sup> Der Bundesrat legt fest, inwieweit Emissionsrechte von Staaten oder Staatengemeinschaften mit vom Bundesrat anerkannten EHS zur Erreichung der Reduktionsziele berücksichtigt werden.
+
+[^3a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 4
 
 **Mittel**
 
-<sup>1</sup> Das Reduktionsziel soll in erster Linie durch Massnahmen nach diesem Gesetz erreicht werden.
+<sup>1</sup> Die Reduktionsziele sollen in erster Linie durch Massnahmen nach diesem Gesetz erreicht werden.[^4-1]
 
-<sup>2</sup> Zur Reduktion sollen auch Massnahmen nach anderen Gesetzgebungen beitragen, welche die Treibhausgasemissionen vermindern, namentlich in den Bereichen Umwelt, Energie, Land-, Wald- und Holzwirtschaft, Strassenverkehr und Mineralölbesteuerung, sowie freiwillige Massnahmen.
+<sup>2</sup> Zur Reduktion sollen auch Massnahmen nach anderen Gesetzgebungen beitragen, welche die Treibhausgasemissionen vermindern oder die Senkenleistung erhöhen, namentlich in den Bereichen Umwelt, Untergrund, Energie-, Abfall-, Land-, Wald-, und Holzwirtschaft, Strassenverkehr und Mineralölbesteuerung, sowie freiwillige Massnahmen.[^4-2]
 
 <sup>3</sup> Zu den freiwilligen Massnahmen zählen namentlich auch Erklärungen, in denen sich Verbraucher von fossilen Brenn- und Treibstoffen freiwillig verpflichten, die CO2-Emissionen zu begrenzen.
 
 <sup>4</sup> Der Bundesrat kann geeignete Organisationen mit der Unterstützung und der Durchführung freiwilliger Massnahmen beauftragen.
 
+<sup>5</sup> Können die Reduktionsziele nicht erreicht werden, so kann der Bund die zur Zielerreichung notwendigen internationalen Bescheinigungen erwerben.[^4-3]
+
+[^4-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^4-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^4-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 5
 
-**Anrechnung von Emissionsverminderungen im Ausland**
+**Einmalige Anrechnung**[^5-1]
 
-Der Bundesrat kann Verminderungen der Treibhausgasemissionen, die im Ausland erzielt wurden, bei der Berechnung der Emissionen nach diesem Gesetz angemessen berücksichtigen.
+Erzielte Emissionsverminderungen und Erhöhungen der Senkenleistung dürfen nur einmal an die Erfüllung von Pflichten nach diesem Gesetz angerechnet werden.
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 6
 
-**Qualitätsanforderungen für Emissionsverminderungen im Ausland**
+**Internationale Bescheinigungen**[^6-1]
 
-<sup>1</sup> Der Bundesrat legt Qualitätsanforderungen für im Ausland durchgeführte Massnahmen zur Reduktion der Treibhausgasemissionen fest. Massnahmen, die diesen nicht entsprechen, werden nicht als Emissionsreduktionen berücksichtigt.
+<sup>1</sup> Der Bundesrat legt die Anforderungen fest, die im Ausland erzielte Emissionsverminderungen und Erhöhungen der Senkenleistung erfüllen müssen, damit die dafür ausgestellten internationalen Bescheinigungen in der Schweiz berücksichtigt werden.
 
 <sup>2</sup>
 
-Die Qualitätsanforderungen müssen insbesondere folgenden Qualitätskriterien genügen:
+Die Anforderungen müssen insbesondere folgenden Kriterien entsprechen:
 
-- a. Verminderungen dürfen nur angerechnet werden, wenn sie ohne die Unterstützung durch die Schweiz nicht zustande gekommen wären;
-- b. Verminderungen in wenig entwickelten Ländern müssen zur nachhaltigen Entwicklung vor Ort beitragen und dürfen weder negative soziale noch negative ökologische Folgen bewirken.
+- a. Emissionsverminderungen und Erhöhungen der Senkenleistung dürfen nur angerechnet werden, wenn sie ohne die Unterstützung durch die Schweiz nicht zustande gekommen wären.
+- b. Emissionsverminderungen und Erhöhungen der Senkenleistung in wenig entwickelten Ländern müssen zur nachhaltigen Entwicklung vor Ort beitragen und dürfen weder negative soziale noch negative ökologische Folgen bewirken.
+
+<sup>3</sup>
+
+Der Bundesrat kann vorsehen, dass:
+
+- a. internationale Bescheinigungen für erzielte Erhöhungen der Senkenleistung nicht berücksichtigt werden, wenn die dauerhafte Bindung von CO<sub>2</sub> in Kohlenstoffspeichern nicht gewährleistet werden kann;
+- b. in Übereinstimmung mit dem Klimaübereinkommen vom 12. Dezember 2015[^6-2] bei der Ausstellung von internationalen Bescheinigungen ein Anteil der erzielten Emissionsverminderungen oder Erhöhungen der Senkenleistung nicht berücksichtigt wird.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^6-2]: [SR 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 #### Art. 7
 
-**Bescheinigungen für Emissionsverminderungen im Inland**
+**Nationale Bescheinigungen**[^7-1]
 
-<sup>1</sup> Der Bundesrat beziehungsweise das zuständige Departement hat für Verminderungen der Treibhausgasemissionen, die im Inland freiwillig erzielt wurden, Bescheinigungen auszustellen.
+Der Bundesrat legt die Anforderungen fest, die in der Schweiz erzielte Emissionsverminderungen und Erhöhungen der Senkenleistung erfüllen müssen, damit für diese nationale Bescheinigungen ausgestellt werden.
 
-<sup>2</sup> Der Bundesrat legt fest, inwieweit diese Bescheinigungen Emissionsrechten oder Emissionsminderungszertifikaten gleichgestellt werden.
+[^7-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 7a
+
+**Angabe der Emissionen in den Flugangeboten**[^7a-1]
+
+Betreiber von Luftfahrzeugen müssen in den Flugangeboten die durch den jeweiligen Flug voraussichtlich verursachten Emissionen in CO<sub>2</sub>-Äquivalenten (CO<sub>2</sub>eq) angeben. Der Bundesrat regelt die Einzelheiten; er berücksichtigt dabei international anerkannte Methoden.
+
+[^7a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 8
 
@@ -134,6 +165,14 @@ Die Qualitätsanforderungen müssen insbesondere folgenden Qualitätskriterien g
 
 <sup>2</sup> Er sorgt für die Erarbeitung und die Beschaffung von Grundlagen, die für die Ergreifung dieser Massnahmen notwendig sind.
 
+#### Art. 8a
+
+**Ausnahmen für die Gesamtverteidigung**[^8a-1]
+
+Soweit die Gesamtverteidigung es erfordert, kann der Bundesrat durch Verordnung Ausnahmen von diesem Gesetz vorsehen.
+
+[^8a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 ## 2. Kapitel: Technische Massnahmen zur Verminderung der CO<sub>2</sub>-Emissionen
 
 ### 1. Abschnitt: Bei Gebäuden
@@ -142,79 +181,118 @@ Die Qualitätsanforderungen müssen insbesondere folgenden Qualitätskriterien g
 
 <sup>1</sup> Die Kantone sorgen dafür, dass die CO<sub>2</sub>-Emissionen aus Gebäuden, die mit fossilen Energieträgern beheizt werden, zielkonform vermindert werden. Dafür erlassen sie Gebäudestandards für Neu- und Altbauten aufgrund des aktuellen Stands der Technik.
 
+<sup>1bis</sup> Die Kantone legen Gebäudestandards für Ersatzneubauten und umfassende energetische Gebäudesanierungen fest, für welche eine zusätzliche Ausnutzung des Grundstücks bewilligt wird.[^9-1]
+
 <sup>2</sup> Die Kantone erstatten dem Bund jährlich Bericht über die getroffenen Massnahmen.
 
-### 2. Abschnitt: Bei Personenwagen, Lieferwagen und leichten Sattelschleppern
+<sup>3</sup> Die Baubewilligungsbehörden tragen bei Neubauten oder beim Ersatz der Wärmeerzeugungsanlagen für Heizung und Warmwasser in Altbauten die wesentlichen Angaben in das eidgenössische Gebäude- und Wohnungsregister nach Artikel 10 Absatz 3<sup>bis</sup> des Bundesstatistikgesetzes vom 9. Oktober 1992[^9-2] ein. Der Bundesrat regelt, welche Angaben eingetragen werden müssen.[^9-3]
 
-[^chap2-sec2-1]
+<sup>4</sup> Die Kantone sehen die Pflicht vor, den Ersatz einer Wärmeerzeugungsanlage zu melden.[^9-4]
+
+[^9-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^9-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^9-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^9-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### 2. Abschnitt: Bei Fahrzeugen
+
+[^chap2-sec2-1][^chap2-sec2-2]
 
 [^chap2-sec2-1]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^chap2-sec2-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 10
 
-**Grundsatz**
-
-<sup>1</sup> Die CO<sub>2</sub>-Emissionen von Personenwagen, die erstmals in Verkehr gesetzt werden, sind bis Ende 2015 auf durchschnittlich 130 g CO<sub>2</sub>/km und bis Ende 2020 auf durchschnittlich 95 g CO<sub>2</sub>/km zu vermindern.
-
-<sup>2</sup> Die CO<sub>2</sub>-Emissionen von Lieferwagen und Sattelschleppern mit einem Gesamtgewicht von bis zu 3,50 t (leichte Sattelschlepper), die erstmals in Verkehr gesetzt werden, sind bis Ende 2020 auf durchschnittlich 147 g CO<sub>2</sub>/km zu vermindern.
-
-<sup>3</sup> Zu diesem Zweck hat jeder Importeur oder Hersteller von Fahrzeugen nach den Absätzen 1 und 2 (nachfolgend Fahrzeuge) die durchschnittlichen CO<sub>2</sub>-Emissionen der von ihm eingeführten oder in der Schweiz hergestellten Fahrzeuge, die im jeweiligen Jahr erstmals in Verkehr gesetzt werden, gemäss seiner individuellen Zielvorgabe (Art. 11) zu vermindern.
-
-<sup>4</sup> Die Zielwerte nach den Absätzen 1 und 2 basieren auf den bisher üblichen Messmethoden. Bei einer Änderung der Messmethoden legt der Bundesrat in den Ausführungsbestimmungen die Zielwerte fest, welche den Zielwerten nach diesen Absätzen entsprechen. Er bezeichnet die anwendbaren Messmethoden und berücksichtigt die Regelungen der Europäischen Union.[^10-1]
-
-[^10-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-
-#### Art. 10a
-
-**Zwischenziele, Erleichterungen und Ausnahmen**
-
-<sup>1</sup> Der Bundesrat kann zusätzlich zu den Zielwerten nach Artikel 10 verpflichtende Zwischenziele vorsehen.
-
-<sup>2</sup> Er kann beim Übergang zu neuen Zielen besondere Bestimmungen vorsehen, die das Erreichen der Ziele während einer begrenzten Zeit erleichtern.
-
-<sup>3</sup> Er kann bestimmte Fahrzeuge vom Geltungsbereich der Vorschriften über die Verminderung der CO<sub>2</sub>-Emissionen ausschliessen.
-
-<sup>4</sup> Er berücksichtigt dabei die Vorschriften der Europäischen Union.
-
-#### Art. 10b
-
-**Berichterstattung und Vorschläge zu einer weitergehenden Verminderung der CO<sub>2</sub>-Emissionen**
-
-<sup>1</sup> Der Bundesrat erstattet der Bundesversammlung erstmals im Jahr 2016 und anschliessend alle drei Jahre Bericht, inwieweit die Zielwerte nach Artikel 10 sowie die Zwischenziele nach Artikel 10*a* Absatz 1 erreicht worden sind.
-
-<sup>2</sup> Er unterbreitet der Bundesversammlung rechtzeitig Vorschläge zu einer weitergehenden Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen für die Zeit nach dem Jahr 2020. Dabei berücksichtigt er die Vorschriften der Europäischen Union.
-
-#### Art. 11
-
-**Individuelle Zielvorgabe**
-
-<sup>1</sup> Der Bundesrat legt eine Berechnungsmethode fest, nach der für jeden Importeur oder Hersteller von Fahrzeugen die individuelle Zielvorgabe berechnet wird. Die Berechnung bezieht sich auf die im jeweiligen Jahr erstmals in Verkehr gesetzten Fahrzeuge des Importeurs oder Herstellers (Neuwagenflotte). Dabei bilden die Personenwagen einerseits und die Lieferwagen und leichten Sattelschlepper andererseits je eine eigene Neuwagenflotte.
-
-<sup>2</sup>
-
-Bei der Festlegung der Berechnungsmethode berücksichtigt der Bundesrat insbesondere:
-
-- a. die Eigenschaften der eingeführten oder in der Schweiz hergestellten Fahrzeuge wie Leergewicht, Standfläche oder Ökoinnovationen;
-- b. die Vorschriften der Europäischen Union.
-
-<sup>3</sup> Importeure und Hersteller können sich zu Emissionsgemeinschaften zusammenschliessen. Für eine Emissionsgemeinschaft gelten dieselben Rechte und Pflichten wie für den einzelnen Importeur oder Hersteller.
-
-<sup>4</sup> Werden von den eingeführten oder in der Schweiz hergestellten Fahrzeugen eines Importeurs oder Herstellers jährlich höchstens 49 Personenwagen beziehungsweise höchstens fünf Lieferwagen oder leichte Sattelschlepper erstmals in Verkehr gesetzt, so wird die individuelle Zielvorgabe anhand der Berechnungsmethode nach Absatz 1 für jedes einzelne Fahrzeug festgelegt.
-
-#### Art. 12
-
-**Berechnung der individuellen Zielvorgabe und der durchschnittlichen CO<sub>2</sub>-Emissionen**
+**Zielwerte**[^10-1]
 
 <sup>1</sup>
 
-Das Bundesamt für Energie berechnet am Ende des jeweiligen Jahres für jeden Importeur oder Hersteller:
+Der Bund sorgt dafür, dass die durchschnittlichen CO<sub>2</sub>-Emissionen die nachstehenden Werte nicht übersteigen:
+
+- a. für Personenwagen, die in den Jahren 2025–2029 erstmals in Verkehr gesetzt werden: 93,6 g CO2/km;
+- b. für Lieferwagen und leichte Sattelschlepper, die in den Jahren 2025–2029 erstmals in Verkehr gesetzt werden: 153,9 g CO2/km;
+- c. für Personenwagen, die ab 2030 erstmals in Verkehr gesetzt werden: 49,5 g CO2/km;
+- d. für Lieferwagen und leichte Sattelschlepper, die ab 2030 erstmals in Verkehr gesetzt werden: 90,6 g CO2/km.
+
+<sup>2</sup>
+
+Er sorgt dafür, dass die durchschnittlichen CO<sub>2</sub>-Emissionen bezogen auf den massgebenden Ausgangswert der Europäischen Union für den Zeitraum vom 1. Juli 2019 bis zum 30. Juni 2020 die folgenden Prozentsätze nicht übersteigen:
+
+- a. für schwere Fahrzeuge, die in den Jahren 2025*–*2029 erstmals in Verkehr gesetzt werden: 85 Prozent;
+- b. für schwere Fahrzeuge, die ab 2030 erstmals in Verkehr gesetzt werden: 70 Prozent.
+
+<sup>3</sup> Der Bundesrat kann Zwischenziele vorsehen.
+
+<sup>4</sup> Er regelt, für welche Personenwagen, Lieferwagen und leichten Sattelschlepper sowie schweren Fahrzeuge (Fahrzeuge) die Zielwerte gelten, und legt die anwendbare Methode zur Ermittlung der CO<sub>2</sub>-Emissionen fest. Er berücksichtigt dabei die Regelungen der Europäischen Union.
+
+<sup>5</sup> Er beobachtet die Entwicklung der CO2-Emissionen im realen Fahrbetrieb. Nimmt die Abweichung zwischen den mit der anwendbaren Methode ermittelten CO<sub>2</sub>-Emissionen und jenen im realen Fahrbetrieb zu, so kann er geeignete Massnahmen ergreifen.
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 10a und 10b
+
+[^10a10b-1]
+
+[^10a10b-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 11
+
+**Individuelle Zielvorgabe**[^11-1]
+
+<sup>1</sup> Importeure und Hersteller von Fahrzeugen müssen die durchschnittlichen CO<sub>2</sub>-Emissionen ihrer Fahrzeuge, die im jeweiligen Jahr erstmals in Verkehr gesetzt werden (Neuwagenflotte), gemäss einer individuellen Zielvorgabe begrenzen.
+
+<sup>2</sup> Der Bundesrat legt die Methode fest, nach der die individuelle Zielvorgabe berechnet wird.
+
+<sup>3</sup>
+
+Bei der Festlegung der Berechnungsmethode berücksichtigt der Bundesrat die Zielwerte sowie insbesondere:
+
+- a. die Eigenschaften der Fahrzeuge in der Neuwagenflotte, wie die Standfläche oder die Nutzlast;
+- b. die Regelungen der Europäischen Union.
+
+<sup>4</sup>
+
+Es bilden je eine eigene Neuwagenflotte:
+
+- a. die Personenwagen;
+- b. die Lieferwagen und die leichten Sattelschlepper;
+- c. die schweren Fahrzeuge.
+
+<sup>5</sup> Umfasst die Neuwagenflotte eines Importeurs oder Herstellers jährlich höchstens 49 Personenwagen, fünf Lieferwagen oder leichte Sattelschlepper oder ein schweres Fahrzeug, so wird die individuelle Zielvorgabe für jedes Fahrzeug separat berechnet.
+
+<sup>6</sup> Importeure und Hersteller können sich zur Erfüllung der individuellen Zielvorgabe zu Emissionsgemeinschaften zusammenschliessen. Für eine Emissionsgemeinschaft gelten dieselben Rechte und Pflichten wie für einen einzelnen Importeur oder Hersteller.
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 11a
+
+**CO<sub>2</sub>-vermindernde Faktoren bei Neuwagenflotten durch den Verbrauch von erneuerbaren synthetischen Treibstoffen**[^11a-1]
+
+<sup>1</sup> Importeure und Hersteller von Fahrzeugen können beantragen, dass die CO<sub>2</sub>-Verminderung, die durch die Verwendung erneuerbarer synthetischer Treibstoffe erzielt wird, bei der Berechnung der CO<sub>2</sub>-Emissionen ihrer Neuwagenflotte berücksichtigt wird. Sie müssen hierfür Nachweise vorlegen, aus denen hervorgeht, welche Menge solcher Treibstoffe ihnen welcher Inverkehrbringer vertraglich zurechnet.
+
+<sup>2</sup> Die erneuerbaren synthetischen Treibstoffe müssen die Anforderungen nach Artikel 35*d* des Umweltschutzgesetzes vom 7. Oktober 1983[^11a-2] (USG) erfüllen.
+
+[^11a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^11a-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+
+#### Art. 12
+
+**Berechnung der individuellen Zielvorgabe und der durchschnittlichen CO<sub>2</sub>-Emissionen**[^12-1]
+
+<sup>1</sup>
+
+Das Bundesamt für Energie (BFE) berechnet am Ende des jeweiligen Jahres für jeden Importeur oder Hersteller:
 
 - a. die individuelle Zielvorgabe;
 - b. die durchschnittlichen CO<sub>2</sub>-Emissionen der betreffenden Neuwagenflotte.
 
-<sup>2</sup> Der Bundesrat legt fest, welche Angaben die Importeure oder Hersteller von Fahrzeugen, für die keine Typengenehmigung vorliegt, für die Berechnungen nach Absatz 1 machen müssen. Er kann für die Berechnung nach Absatz 1 Buchstabe b einen pauschalen Emissionswert festlegen für den Fall, dass die Angaben nicht innerhalb einer bestimmten Frist eingereicht werden.
+<sup>2</sup> Der Bundesrat legt fest, welche Angaben die Importeure oder Hersteller machen müssen. Er legt insbesondere die Anforderungen an die einzureichenden Unterlagen zur Bestimmung der Fahrzeugdaten fest, die zur Berechnung der individuellen Zielvorgabe und der durchschnittlichen CO<sub>2</sub>-Emissionen verwendet werden.
 
-<sup>3</sup> Der Bundesrat kann festlegen, inwieweit Fahrzeuge mit sehr tiefen CO<sub>2</sub>-Emissionen bei der Berechnung nach Absatz 1 Buchstabe b besonders berücksichtigt werden.
+<sup>3</sup> Er kann vorsehen, dass für die Berechnung der durchschnittlichen CO<sub>2</sub>-Emissionen nach Absatz 1 Buchstabe b ein pauschaler Emissionswert angewendet wird, wenn die Angaben nicht innerhalb einer bestimmten Frist eingereicht werden. Er bestimmt die Frist für die Einreichung der Angaben und legt den pauschalen Emissionswert fest.
+
+<sup>4</sup> Er kann bei einer Veränderung der Zielwerte Bestimmungen erlassen, die das Erreichen der individuellen Zielvorgabe während einer begrenzten Zeit erleichtern. Er berücksichtigt dabei die Regelungen der Europäischen Union. Die Erleichterungen für Personenwagen gelten nicht länger als die entsprechenden Erleichterungen in der Europäischen Union.
+
+[^12-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 13
 
@@ -222,38 +300,84 @@ Das Bundesamt für Energie berechnet am Ende des jeweiligen Jahres für jeden Im
 
 <sup>1</sup>
 
-Überschreiten die durchschnittlichen CO<sub>2</sub>-Emissionen der Neuwagenflotte eines Importeurs oder Herstellers die individuelle Zielvorgabe, so muss der Hersteller oder Importeur dem Bund pro im jeweiligen Kalenderjahr erstmals in Verkehr gesetztes Fahrzeug folgende Beträge entrichten:
+Überschreiten die durchschnittlichen CO<sub>2</sub>-Emissionen der Neuwagenflotte eines Importeurs oder Herstellers die individuelle Zielvorgabe, so muss der Hersteller oder Importeur dem Bund pro im jeweiligen Kalenderjahr erstmals in Verkehr gesetztes Fahrzeug folgenden Betrag entrichten:
 
-- a.
+- a. bei einer Neuwagenflotte von Personenwagen oder von Lieferwagen und leichten Sattelschleppern: für jedes Gramm CO<sub>2</sub>/km, das über der individuellen Zielvorgabe liegt, zwischen 95 und 152 Franken;
+- b.
 
-  für die Jahre 2017–2018:
+  bei einer Neuwagenflotte von schweren Fahrzeugen: für jedes Gramm CO<sub>2</sub> pro Tonnenkilometer, das über der individuellen Zielvorgabe liegt:
 
-  - 1\. für das erste Gramm CO<sub>2</sub>/km über der individuellen Zielvorgabe: zwischen 5.00 und 8.00 Franken,
-  - 2\. für das zweite Gramm CO<sub>2</sub>/km über der individuellen Zielvorgabe: zwischen 15.00 und 24.00 Franken,
-  - 3\. für das dritte Gramm CO<sub>2</sub>/km über der individuellen Zielvorgabe: zwischen 25.00 und 40.00 Franken,
-  - 4\. für das vierte und jedes weitere Gramm CO<sub>2</sub>/km über der individuellen Zielvorgabe: zwischen 95.00 und 152.00 Franken;
-
-- b. ab dem 1. Januar 2019: für jedes Gramm CO<sub>2</sub>/km über der individuellen Zielvorgabe: zwischen 95.00 und 152.00 Franken.
+  - 1\. in den Jahren 2025–2029: zwischen 4250 und 6800 Franken,
+  - 2\. ab dem Jahr 2030: zwischen 6800 und 10 880 Franken.[^13-1]
 
 <sup>2</sup> Die Beträge nach Absatz 1 werden für jedes Jahr neu festgelegt. Der Bundesrat regelt die Methode, nach welcher sie festgelegt werden. Er richtet sich dabei nach den in der Europäischen Union geltenden Beträgen und dem Wechselkurs. Die Berechnung und Publikation der Beträge erfolgt jeweils vor Beginn des betreffenden Jahres durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation.
 
-<sup>3</sup> Für Importeure und Hersteller nach Artikel 11 Absatz 4 gelten die Beträge nach den Absätzen 1 und 2 für jedes einzelne Fahrzeug, dessen CO<sub>2</sub>-Emissionen die individuelle Zielvorgabe überschreiten. Führen gewisse nach Artikel 10*a* erlassene Bestimmungen dazu, dass Importeure und Hersteller nach Artikel 11 Absatz 4 wegen der für sie geltenden besonderen Regeln zur Festlegung der Zielvorgabe gegenüber den übrigen Herstellern oder Importeuren benachteiligt wären, so kann der Bundesrat die Sanktion für die Betroffenen mindern.
+<sup>3</sup> Für Importeure und Hersteller nach Artikel 11 Absatz 5 gelten die Beträge nach den Absätzen 1 und 2 für jedes einzelne Fahrzeug, dessen CO<sub>2</sub>-Emissionen die individuelle Zielvorgabe überschreiten. Führen einzelne gestützt auf Artikel 12 Absatz 4 erlassene Bestimmungen dazu, dass Importeure und Hersteller nach Artikel 11 Absatz 5 wegen der für sie geltenden besonderen Regeln zur Festlegung der Zielvorgabe gegenüber den übrigen Herstellern oder Importeuren benachteiligt wären, so kann der Bundesrat die Sanktion für die Betroffenen mindern.[^13-2]
 
 <sup>4</sup> Die Mitglieder von Emissionsgemeinschaften haften solidarisch.
 
-<sup>5</sup> Im Übrigen gelten die Artikel 10 und 11 des Mineralölsteuergesetzes vom 21. Juni 1996[^13-1] sinngemäss.
+<sup>5</sup> Im Übrigen gelten die Artikel 10 und 11 des Mineralölsteuergesetzes vom 21. Juni 1996[^13-3] sinngemäss.
 
 <sup>6</sup> Der Bundesrat kann vorsehen, dass in den Verkaufsunterlagen für Fahrzeuge der Betrag anzugeben ist, der nach Massgabe der Absätze 1–3 zu entrichten wäre, wenn die Sanktion aufgrund der CO<sub>2</sub>-Emissionen des einzelnen Fahrzeugs festgesetzt würde.
 
-[^13-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^13-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^13-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^13-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
-## 3. Kapitel: Senkenleistungen
+#### Art. 13a
+
+**Publikation**[^13a-1]
+
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation veröffentlicht jährlich:
+
+- a.
+
+  die Namen der Importeure und Hersteller von mindestens:
+
+  - 1\. 50 erstmals in Verkehr gesetzten Personenwagen,
+  - 2\. 6 erstmals in Verkehr gesetzten Lieferwagen und leichten Sattelschleppern, oder
+  - 3\. 5 erstmals in Verkehr gesetzten schweren Fahrzeugen;
+
+- b. die Zusammensetzung der Emissionsgemeinschaften;
+- c.
+
+  pro Importeur und Emissionsgemeinschaft je Neuwagenflotte:
+
+  - 1\. die Anzahl der erstmals in Verkehr gesetzten Fahrzeuge,
+  - 2\. die durchschnittlichen CO<sub>2</sub>-Emissionen,
+  - 3\. die individuelle Zielvorgabe,
+  - 4\. die entrichteten Sanktionen.
+
+[^13a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 13b
+
+**Berichterstattung und Anträge zu einer weitergehenden Verminderung der CO<sub>2</sub>-Emissionen**[^13b-1]
+
+<sup>1</sup>
+
+Der Bundesrat erstattet der Bundesversammlung erstmals zum folgenden Zeitpunkt und anschliessend alle drei Jahre Bericht über die Erreichung der Zielwerte:
+
+- a. bei Personenwagen, Lieferwagen und leichten Sattelschleppern: im Jahr 2025;
+- b. bei schweren Fahrzeugen: im Jahr 2028.
+
+<sup>2</sup> Er unterbreitet der Bundesversammlung rechtzeitig Anträge zu einer weitergehenden Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen für die Zeit nach 2030. Er berücksichtigt dabei die Regelungen der Europäischen Union.
+
+[^13b-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## 3. Kapitel: …
 
 #### Art. 14
 
-Die Leistung der Senken von verbautem Holz ist anrechenbar.
+[^14-1]
 
-## 4. Kapitel: Emissionshandel und Kompensation
+[^14-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## 4. Kapitel: Emissionshandelssystem und Emissionshandelsregister
+
+[^chap4-1]
+
+[^chap4-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ### 1. Abschnitt: Emissionshandelssystem
 
@@ -261,19 +385,21 @@ Die Leistung der Senken von verbautem Holz ist anrechenbar.
 
 **Teilnahme auf Gesuch**[^15-1]
 
-<sup>1</sup> Betreiber von Anlagen, die einer bestimmten Kategorie angehören und hohe oder mittlere Treibhausgasemissionen verursachen, können auf Gesuch am EHS teilnehmen.
+<sup>1</sup> Betreiber von Anlagen, die eine bestimmte minimale Gesamtfeuerungswärmeleistung aufweisen, können auf Gesuch hin am EHS teilnehmen. Der Bundesrat legt die minimale Gesamtfeuerungswärmeleistung fest.
 
-<sup>2</sup> Sie müssen dem Bund jährlich im Umfang der von diesen Anlagen verursachten Emissionen Emissionsrechte abgeben.[^15-2]
+<sup>2</sup> Die Betreiber müssen dem Bund jährlich im Umfang der von diesen Anlagen verursachten Treibhausgasemissionen Emissionsrechte abgeben.
 
 <sup>3</sup>
 
-Der Bundesrat legt die Anlagekategorien fest und berücksichtigt dabei:
+Der Bundesrat kann vorsehen, dass für die Emissionen aus dem Verbrauch von leitungsgebundenem Erdgas keine Emissionsrechte abgegeben werden müssen, wenn:
 
-- a. wie sich die Belastung durch die CO<sub>2</sub>-Abgabe und die Wertschöpfung der Anlagen der betreffenden Kategorie zueinander verhalten;
-- b. wie stark die CO<sub>2</sub>-Abgabe die internationale Wettbewerbsfähigkeit der Anlagen der betreffenden Kategorie beeinträchtigt.
+- a. für die verbrauchte Menge an Erdgas erneuerbares Gas im Ausland produziert, eingekauft und ins europäische Netz eingespeist wurde;
+- b. keine Doppelzählungen in Bezug auf das erneuerbare Gas gemacht werden;
+- c. die Anrechnung zur Verminderung der Treibhausgasemissionen ausschliesslich in der Schweiz erfolgt; und
+- d. das erneuerbare Gas die Anforderungen nach Artikel 35*d* USG[^15-2] erfüllt.
 
-[^15-1]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^15-2]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^15-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^15-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 #### Art. 16
 
@@ -283,10 +409,13 @@ Der Bundesrat legt die Anlagekategorien fest und berücksichtigt dabei:
 
 <sup>2</sup> Sie müssen dem Bund jährlich im Umfang der von diesen Anlagen verursachten Emissionen Emissionsrechte abgeben.[^16-2]
 
+<sup>2bis</sup> Für die Emissionen aus dem Verbrauch von leitungsgebundenem Erdgas gilt Artikel 15 Absatz 3.[^16-3]
+
 <sup>3</sup> Der Bundesrat legt die Anlagekategorien fest.
 
 [^16-1]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 [^16-2]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 16a
 
@@ -299,24 +428,26 @@ Der Bundesrat legt die Anlagekategorien fest und berücksichtigt dabei:
 Der Bundesrat regelt:
 
 - a. die Ausnahmen für Flüge, die von einem vom Bundesrat anerkannten EHS erfasst werden;
-- b. die Ausnahmen für Flüge, die nicht im Europäischen Wirtschaftsraum (EWR) ankommen oder abgehen, sowie weitere Ausnahmen; dabei berücksichtigt er die Vorschriften der Europäischen Union.
+- b.[^16a-2] die Ausnahmen für Flüge, die nicht im Europäischen Wirtschaftsraum (EWR) ankommen oder abgehen, sowie weitere Ausnahmen; dabei berücksichtigt er die Regelungen der Europäischen Union.
 
-<sup>3</sup> Die Betreiber müssen dem Bund jährlich im Umfang der von den Luftfahrzeugen verursachten Emissionen Emissionsrechte abgeben.[^16a-2]
+<sup>3</sup> Die Betreiber müssen dem Bund jährlich im Umfang der von den Luftfahrzeugen verursachten Emissionen Emissionsrechte abgeben.[^16a-3]
 
 <sup>4</sup> Wenn aufgrund völkerrechtlicher Verträge mehrere internationale Systeme zur Verminderung von Treibhausgasemissionen von Luftfahrzeugen bestehen, so sorgt der Bundesrat dafür, dass die Betreiber von Luftfahrzeugen diesen Systemen für Treibhausgasemissionen aus Flügen nicht kumulativ unterliegen.
 
 [^16a-1]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^16a-2]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16a-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^16a-3]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 17
 
 **Rückerstattung der CO<sub>2</sub>-Abgabe**[^17-1]
 
-<sup>1</sup> Betreibern von Anlagen, die am EHS teilnehmen, wird die CO<sub>2</sub>-Abgabe auf Brennstoffen auf Gesuch hin zurückerstattet.
+<sup>1</sup> Betreibern von Anlagen, die am EHS teilnehmen, wird die CO<sub>2</sub>-Abgabe auf fossilen Brennstoffen[^17-2] auf Gesuch hin zurückerstattet.
 
 <sup>2</sup> Bei fossil-thermischen Kraftwerken erfolgt die Rückerstattung nur soweit, wie der CO2-Preis einen Mindestpreis übersteigt. Dieser richtet sich nach dem Mittelwert der externen Kosten abzüglich der Auktionskosten für die abgegebenen Emissionsrechte.
 
 [^17-1]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^17-2]: Ausdruck gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 18
 
@@ -324,12 +455,14 @@ Der Bundesrat regelt:
 
 <sup>1</sup> Der Bundesrat legt im Voraus die Menge der Emissionsrechte für Anlagen und die Menge der Emissionsrechte für Luftfahrzeuge fest, die jährlich zur Verfügung stehen; er berücksichtigt dabei das Reduktionsziel nach Artikel 3 sowie vergleichbare internationale Regelungen.[^18-2]
 
-<sup>2</sup> Er kann die zur Verfügung stehende Menge der Emissionsrechte anpassen, wenn er neue Anlagekategorien nach Artikel 16 Absatz 3 bezeichnet, Anlagekategorien nachträglich von der Teilnahmepflicht am EHS ausnimmt oder wenn vergleichbare internationale Regelungen geändert werden.
+<sup>2</sup> Er kann die zur Verfügung stehende Menge der Emissionsrechte anpassen, wenn er neue Anlagekategorien der Pflicht zur Teilnahme am EHS unterstellt, Anlagekategorien nachträglich von der Pflicht ausnimmt oder wenn vergleichbare internationale Regelungen geändert werden.[^18-3]
 
-<sup>3</sup> Er behält jährlich eine angemessene Zahl von Emissionsrechten für Anlagen und für Luftfahrzeuge zurück, um diese künftigen EHS-Teilnehmern und stark wachsenden EHS-Teilnehmern zugänglich zu machen.
+<sup>3</sup> Er kann jährlich eine angemessene Zahl von Emissionsrechten für Anlagen und für Luftfahrzeuge zurückhalten, um diese künftigen oder stark wachsenden EHS-Teilnehmern zugänglich zu machen. Er berücksichtigt dabei die Regelungen der Europäischen Union.[^18-4]
 
 [^18-1]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 [^18-2]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^18-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-4]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 19
 
@@ -337,17 +470,21 @@ Der Bundesrat regelt:
 
 <sup>1</sup> Die Emissionsrechte für Anlagen werden jährlich ausgegeben.
 
-<sup>2</sup> Ein Teil der Emissionsrechte wird kostenlos zugeteilt. Die übrigen Emissionsrechte werden versteigert.
+<sup>2</sup> Sie werden kostenlos zugeteilt oder versteigert.
 
-<sup>3</sup> Der Umfang der einem Betreiber von Anlagen kostenlos zugeteilten Emissionsrechte bestimmt sich insbesondere nach Massgabe der Treibhausgaseffizienz von Referenzanlagen.
+<sup>3</sup> Der Umfang der Emissionsrechte, die einem Betreiber von Anlagen kostenlos zugeteilt werden, bestimmt sich insbesondere nach Massgabe der Treibhausgaseffizienz von Referenzanlagen und der erzeugten Produkte.
 
-<sup>4</sup> Für die Erzeugung von Elektrizität werden Betreibern von Anlagen keine Emissionsrechte kostenlos zugeteilt. Der Bundesrat kann Ausnahmen vorsehen.
+<sup>4</sup> Der Bundesrat kann vorsehen, dass die nach Absatz 3 zugeteilte Menge an Emissionsrechten reduziert wird, wenn die individuelle Treibhausgaseffizienz eines Betreibers von Anlagen ungenügend ist.
 
-<sup>5</sup> Erhöht sich die Menge der auf dem Markt verfügbaren Emissionsrechte aus wirtschaftlichen Gründen erheblich, so kann der Bundesrat vorsehen, dass nur ein Teil der übrigen Emissionsrechte versteigert wird. Die Emissionsrechte, die nicht zur Versteigerung angeboten werden, und jene, die nicht ersteigert werden, werden gelöscht.
+<sup>5</sup> Für die Erzeugung und die Nutzung von Elektrizität erfolgt keine kostenlose Zuteilung von Emissionsrechten. Der Bundesrat kann Ausnahmen vorsehen.
 
-<sup>6</sup> Der Bundesrat regelt die Einzelheiten; er berücksichtigt dabei vergleichbare internationale Regelungen.
+<sup>6</sup> Erhöht sich die Menge der auf dem Markt verfügbaren Emissionsrechte aus wirtschaftlichen Gründen erheblich, so kann der Bundesrat vorsehen, dass nur ein Teil der nicht kostenlos zugeteilten Emissionsrechte versteigert wird. Die Emissionsrechte, die nicht zur Versteigerung angeboten oder nicht ersteigert wurden, werden gelöscht.
 
-[^19-1]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+<sup>7</sup> Reicht die Menge an Emissionsrechten nicht aus, um alle Ansprüche zu erfüllen, so wird die Menge der den einzelnen Betreibern kostenlos zuzuteilenden Emissionsrechte anteilsmässig gekürzt. Emissionsrechte, die nach Artikel 18 Absatz 3 zurückgehalten werden, können dazu verwendet werden, die Kürzung bis auf 5 Prozent zu begrenzen.
+
+<sup>8</sup> Der Bundesrat regelt die Einzelheiten; er berücksichtigt dabei die Regelungen der Europäischen Union.
+
+[^19-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 19a
 
@@ -355,31 +492,37 @@ Der Bundesrat regelt:
 
 <sup>1</sup> Die Emissionsrechte für Luftfahrzeuge werden jährlich ausgegeben.
 
-<sup>2</sup> Ein Teil der Emissionsrechte wird kostenlos zugeteilt. Die übrigen Emissionsrechte werden versteigert.
+<sup>2</sup> Sie werden kostenlos zugeteilt oder versteigert.
 
-<sup>3</sup> Der Umfang der einem Betreiber von Luftfahrzeugen kostenlos zugeteilten Emissionsrechte bestimmt sich insbesondere nach Massgabe der im Jahr 2018 geleisteten Tonnenkilometer.
+<sup>3</sup> Der Umfang der Emissionsrechte, die einem Betreiber von Luftfahrzeugen kostenlos zugeteilt werden, bestimmt sich insbesondere nach Massgabe der in einem vom Bundesrat bestimmten Jahr geleisteten Tonnenkilometer.
 
-<sup>4</sup> Der Bundesrat regelt die Einzelheiten; er berücksichtigt dabei die Vorschriften der Europäischen Union.
+<sup>4</sup> Ab dem Jahr 2026 werden die Emissionsrechte nicht mehr kostenlos zugeteilt. Der Bundesrat kann für den Verbrauch von erneuerbaren oder von emissionsarmen Flugtreibstoffen Ausnahmen vorsehen.
 
-[^19a-1]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten; er berücksichtigt dabei die Regelungen der Europäischen Union.
+
+[^19a-1]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 20
 
 **Berichterstattung**[^20-1]
 
-Die Betreiber von Anlagen und die Betreiber von Luftfahrzeugen müssen dem Bund jährlich über ihre Treibhausgasemissionen Bericht erstatten.
+<sup>1</sup> Die Betreiber von Anlagen und die Betreiber von Luftfahrzeugen müssen dem Bund jährlich über ihre Treibhausgasemissionen Bericht erstatten.
+
+<sup>2</sup> Die Betreiber von Luftfahrzeugen müssen dem Bund im Rahmen der Berichterstattung jährlich Angaben zur Abschätzung der gesamten Klimawirkung des Flugbetriebs machen. Der Bundesrat legt die Angaben fest und berücksichtigt dabei die Regelungen der Europäischen Union.[^20-2]
 
 [^20-1]: Fassung gemäss Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^20-2]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 21
 
 **Sanktion bei Nichtabgabe von Emissionsrechten**[^21-1]
 
-<sup>1</sup> Die Betreiber von Anlagen und die Betreiber von Luftfahrzeugen müssen dem Bund für Emissionen, die nicht durch Emissionsrechte gedeckt sind, einen Betrag von 125 Franken pro Tonne CO<sub>2</sub>-Äquivalente (CO<sub>2</sub>eq) entrichten.
+<sup>1</sup> Die Betreiber von Anlagen und die Betreiber von Luftfahrzeugen müssen dem Bund für Emissionen, die nicht durch Emissionsrechte gedeckt sind, einen Betrag von 125 Franken pro Tonne CO<sub>2</sub>eq entrichten.[^21-2]
 
 <sup>2</sup> Die fehlenden Emissionsrechte sind dem Bund im Folgejahr abzugeben.
 
 [^21-1]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^21-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ### 2. Abschnitt: …
 
@@ -389,45 +532,13 @@ Die Betreiber von Anlagen und die Betreiber von Luftfahrzeugen müssen dem Bund 
 
 [^2225-1]: Aufgehoben durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
-### 3. Abschnitt: Kompensation bei Treibstoffen
+### 3. Abschnitt: …
 
-#### Art. 26
+#### Art. 26–28
 
-**Grundsatz**
+[^2628-1]
 
-<sup>1</sup> Wer nach dem Mineralölsteuergesetz vom 21. Juni 1996[^26-1] Treibstoffe in den steuerrechtlich freien Verkehr überführt, muss einen Teil der CO<sub>2</sub>-Emissionen, die bei der energetischen Nutzung der Treibstoffe entstehen, kompensieren.
-
-<sup>2</sup> Der Bundesrat legt den Kompensationssatz, nach Anhörung der Branche, nach Massgabe der Erreichung des Reduktionsziels nach Artikel 3 oder der Entwicklung der CO<sub>2</sub>-Emissionen des Verkehrs zwischen 5 und 40 Prozent fest und bestimmt den Anteil der im Inland durchzuführenden Kompensationsmassnahmen.[^26-2]
-
-<sup>3</sup> Der zulässige Kompensations-Aufschlag auf Treibstoffe beträgt maximal 5 Rappen pro Liter.
-
-<sup>4</sup> Der Bundesrat kann die Überführung von geringen Mengen Treibstoff in den steuerrechtlich freien Verkehr von der Kompensationspflicht ausnehmen.
-
-[^26-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^26-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-
-#### Art. 27
-
-**Kompensationspflicht**
-
-Kompensationspflichtig sind die nach dem Mineralölsteuergesetz vom 21. Juni 1996[^27-1] steuerpflichtigen Personen. Sie können sich zu Kompensationsgemeinschaften zusammenschliessen.
-
-[^27-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-
-#### Art. 28
-
-**Sanktion bei fehlender Kompensation**
-
-<sup>1</sup> Wer seine Kompensationspflicht nicht erfüllt, muss dem Bund pro nicht kompensierte Tonne CO<sub>2</sub> einen Betrag von 160 Franken entrichten.
-
-<sup>2</sup>
-
-Zudem müssen dem Bund im Folgejahr im entsprechenden Umfang abgegeben werden:
-
-- a. für das Jahr 2021: Emissionsminderungszertifikate;
-- b. ab dem Jahr 2022: Emissionsrechte oder internationale Bescheinigungen.[^28-1]
-
-[^28-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2628-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ### 3*a*. Abschnitt: Emissionshandelsregister
 
@@ -443,6 +554,109 @@ Zudem müssen dem Bund im Folgejahr im entsprechenden Umfang abgegeben werden:
 
 <sup>3</sup> Der Bundesrat kann vorsehen, dass Geldzahlungen, die im Zusammenhang mit der Versteigerung von Emissionsrechten erfolgen, nur über Bankkonten in der Schweiz oder im EWR-Raum abgewickelt werden dürfen.
 
+## 4*a*. Kapitel: Massnahmen im Zusammenhang mit fossilen Treibstoffen
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### 1. Abschnitt: Pflicht zur Kompensation von CO<sub>2</sub>-Emissionen bei fossilen Treibstoffen
+
+#### Art. 28b
+
+**Kompensationspflicht**
+
+<sup>1</sup> Steuerpflichtige Personen nach Artikel 9 des Mineralölsteuergesetzes vom 21. Juni 1996[^28b-1], die fossile Treibstoffe in den steuerrechtlich freien Verkehr überführen, müssen einen Teil der CO<sub>2</sub>-Emissionen, die bei der energetischen Nutzung der Treibstoffe entstehen, kompensieren.
+
+<sup>2</sup> Ausgenommen sind fossile Treibstoffe, die von der Mineralölsteuer befreit sind oder einem begünstigten Steuersatz unterliegen.
+
+<sup>3</sup> Der Bundesrat kann die Überführung von geringen Mengen fossiler Treibstoffe in den steuerrechtlich freien Verkehr von der Kompensationspflicht ausnehmen.
+
+<sup>4</sup> Die steuerpflichtigen Personen können sich zur Erfüllung der Kompensationspflicht zu Gemeinschaften zusammenschliessen. Für eine Gemeinschaft gelten dieselben Rechte und Pflichten wie für eine einzelne steuerpflichtige Person.
+
+[^28b-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+
+#### Art. 28c
+
+**Anteil der zu kompensierenden Emissionen und maximaler Kompensationsaufschlag**
+
+<sup>1</sup> Der Anteil der zu kompensierenden CO<sub>2</sub>-Emissionen beträgt mindestens 5 Prozent und höchstens 90 Prozent.
+
+<sup>2</sup> Der Bundesrat legt den Prozentsatz nach Massgabe der Erreichung der Reduktionsziele nach Artikel 3 oder der Entwicklung der CO<sub>2</sub>-Emissionen des Verkehrs fest und bestimmt den Anteil der in der Schweiz durchzuführenden Kompensationsmassnahmen. Er hört vorgängig die Branche an.
+
+<sup>3</sup> Der Kompensationsaufschlag auf fossile Treibstoffe darf höchstens 5 Rappen pro Liter betragen.
+
+#### Art. 28d
+
+**Berichterstattung**
+
+Die steuerpflichtigen Personen müssen dem Bund jährlich Bericht über die Erfüllung der Kompensationspflicht erstatten, insbesondere über:
+
+- a. die durch die Kompensation der CO<sub>2</sub>-Emissionen entstandenen Kosten;
+- b. die Höhe des Kompensationsaufschlags; und
+- c. die Mengen der erneuerbaren Flugtreibstoffe insgesamt und der erneuerbaren synthetischen Flugtreibstoffe, die fossilen Flugtreibstoffen hinzugefügt wurden, die der Mineralölsteuer unterliegen.
+
+#### Art. 28e
+
+**Sanktionen**
+
+Wer die Kompensationspflicht nach Artikel 28*b* Absatz 1 nicht erfüllt, muss dem Bund im Folgejahr pro nicht kompensierte Tonne CO<sub>2</sub>:
+
+- a. einen Betrag von 160 Franken entrichten; und
+- b. eine nationale oder internationale Bescheinigung abgeben.
+
+### 2. Abschnitt: Pflicht zur Bereitstellung und zur Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Treibstoffen
+
+#### Art. 28f
+
+**Pflichten der Anbieter von Flugtreibstoffen, Betreiber von Flugplätzen und Betreiber von Luftfahrzeugen**
+
+<sup>1</sup> Die Pflichten der Anbieter von Flugtreibstoffen, der Betreiber von Flugplätzen und der Betreiber von Luftfahrzeugen zur Bereitstellung und zur Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Flugtreibstoffen richten sich nach den Regelungen der Europäischen Union für einen nachhaltigen Luftverkehr, die nach dem Abkommen vom 21. Juni 1999[^28f-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr anwendbar sind.
+
+<sup>2</sup> Der Bundesrat legt fest, an welchen Flugplätzen die Pflicht zur Bereitstellung und zur Beimischung gilt. Er berücksichtigt dabei die Regelungen der Europäischen Union.
+
+[^28f-1]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+
+#### Art. 28g
+
+**Sanktionen**
+
+<sup>1</sup>
+
+Verletzt ein Anbieter von Flugtreibstoffen die Beimischpflichten, indem er den Betreibern von Luftfahrzeugen an den Flugplätzen nach Artikel 28*f* Absatz 2 nicht den Mindestanteil an emissionsarmen, erneuerbaren oder erneuerbaren synthetischen Flugtreibstoffen gemäss den in der Europäischen Union geltenden Quoten und Fristen bereitstellt, so muss er:
+
+- a. dem Bund einen Betrag entrichten; und
+- b. den Markt im darauffolgenden Berichtszeitraum zusätzlich zu den zu liefernden Mengen mit einer der Fehlmenge entsprechenden Menge des betreffenden Treibstoffs beliefern.
+
+<sup>2</sup>
+
+Der Betrag nach Absatz 1 Buchstabe a entspricht dem Doppelten des Betrags, der sich ergibt aus der Multiplikation:
+
+- a. der Differenz zwischen dem jährlichen Durchschnittspreis für eine Tonne fossiler Flugtreibstoff und dem jährlichen Durchschnittspreis für eine Tonne emissionsarmer, erneuerbarer oder erneuerbarer synthetischer Flugtreibstoff; und
+- b. der Menge von Flugtreibstoffen, die nicht den jeweils anzuwendenden Mindestanteilen an emissionsarmen, erneuerbaren oder erneuerbaren synthetischen Flugtreibstoffen gemäss den in der Europäischen Union geltenden Quoten entspricht.
+
+<sup>3</sup>
+
+Macht ein Anbieter von Flugtreibstoffen ungenaue oder irreführende Angaben über die Beschaffenheit und den Ursprung der bereitzustellenden emissionsarmen, erneuerbaren oder erneuerbaren synthetischen Flugtreibstoffe, so muss er dem Bund einen Betrag entrichten. Der Betrag entspricht dem Doppelten des Betrags, der sich ergibt aus der Multiplikation:
+
+- a. der Differenz zwischen dem jährlichen Durchschnittspreis für eine Tonne fossiler Flugtreibstoff und dem jährlichen Durchschnittspreis für eine Tonne emissionsarmer, erneuerbarer oder erneuerbarer synthetischer Flugtreibstoff pro Tonne; und
+- b. der Menge von Flugtreibstoffen, über die ungenaue oder irreführende Angaben gemacht wurden.
+
+<sup>4</sup> Ergreift ein Betreiber eines Flugplatzes nach Artikel 28*f* Absatz 2 nicht die erforderlichen Massnahmen, um den Betreibern von Luftfahrzeugen einen angemessenen Zugang zu den Mindestquoten von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Flugtreibstoffen zu verschaffen, so muss er dem Bund einen Betrag entrichten. Die Höhe des Betrags ergibt sich aus der Multiplikation von 50 Rappen und der Anzahl von Abflügen pro Jahr auf dem betreffenden Flugplatz.
+
+<sup>5</sup>
+
+Verletzt ein Betreiber von Luftfahrzeugen die Betankungspflichten, indem er weniger als 90 Prozent des Jahresbedarfs an Flugtreibstoffen an den in der Europäischen Union bestimmten Flugplätzen oder an den Flugplätzen nach Artikel 28*f* Absatz 2 vertankt, so muss er dem Bund einen Betrag entrichten. Der Betrag entspricht dem Doppelten des Betrags, der sich ergibt aus der Multiplikation:
+
+- a. des jährlichen Durchschnittspreises für eine Tonne Flugtreibstoff; und
+- b. der im betreffenden Jahr nicht vertankten Gesamtmenge.
+
+<sup>6</sup> Ein Betreiber von Luftfahrzeugen kann von der Entrichtung des Betrags nach Absatz 5 befreit werden, wenn er nachweisen kann, dass die Verletzung der Betankungspflichten auf aussergewöhnliche und unvorhersehbare Umstände zurückzuführen ist, die sich seiner Kontrolle entziehen und deren Auswirkungen sich auch dann nicht hätten vermeiden lassen, wenn alle zumutbaren Massnahmen ergriffen worden wären.
+
+<sup>7</sup> Für die Berechnung der jährlichen Durchschnittspreise von fossilen, emissionsarmen, erneuerbaren und erneuerbaren synthetischen Flugtreibstoffen sind die Empfehlungen der Europäischen Union zu berücksichtigen.
+
+<sup>8</sup> Der Ertrag aus den Sanktionen nach diesem Artikel wird für die Förderung von erneuerbaren Flugtreibstoffen verwendet.
+
 ## 5. Kapitel: CO<sub>2</sub>-Abgabe
 
 ### 1. Abschnitt: Abgabeerhebung
@@ -453,11 +667,11 @@ Zudem müssen dem Bund im Folgejahr im entsprechenden Umfang abgegeben werden:
 
 #### Art. 29
 
-**CO<sub>2</sub>-Abgabe auf Brennstoffen**
+**CO<sub>2</sub>-Abgabe auf fossilen Brennstoffen**
 
-<sup>1</sup> Der Bund erhebt eine CO<sub>2</sub>-Abgabe auf der Herstellung, Gewinnung und Einfuhr von Brennstoffen.
+<sup>1</sup> Der Bund erhebt eine CO<sub>2</sub>-Abgabe auf der Herstellung, Gewinnung und Einfuhr von fossilen Brennstoffen.
 
-<sup>2</sup> Der Abgabesatz beträgt je Tonne CO<sub>2</sub> 36 Franken. Der Bundesrat kann ihn bis auf höchstens 120 Franken erhöhen, falls die gemäss Artikel 3 für die Brennstoffe festgelegten Zwischenziele nicht erreicht werden.
+<sup>2</sup> Der Abgabesatz beträgt je Tonne CO<sub>2</sub> 36 Franken. Der Bundesrat kann ihn bis auf höchstens 120 Franken erhöhen, falls die gemäss Artikel 3 für die fossilen Brennstoffe festgelegten Zwischenziele nicht erreicht werden.
 
 #### Art. 30
 
@@ -465,103 +679,96 @@ Zudem müssen dem Bund im Folgejahr im entsprechenden Umfang abgegeben werden:
 
 Abgabepflichtig sind:
 
-- a. für die Abgabe auf Kohle: die bei der Einfuhr nach dem Zollgesetz vom 18. März 2005[^30-1] anmeldepflichtigen Personen sowie die Hersteller und Erzeuger im Inland;
-- b. für die Abgabe auf den übrigen fossilen Energieträgern: die nach dem Mineralölsteuergesetz vom 21. Juni 1996[^30-2] steuerpflichtigen Personen.
+- a. für die Abgabe auf Kohle: die bei der Einfuhr nach dem Zollgesetz vom 18. März 2005[^30-1] anmeldepflichtigen Personen sowie die Hersteller und Erzeuger in der Schweiz[^30-2];
+- b. für die Abgabe auf den übrigen fossilen Energieträgern: die nach dem Mineralölsteuergesetz vom 21. Juni 1996[^30-3] steuerpflichtigen Personen.
 
-[^30-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^30-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^30-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^30-2]: Ausdruck gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^30-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### 2. Abschnitt: Rückerstattung der CO<sub>2</sub>-Abgabe an Betreiber mit Verpflichtung zur Verminderung der Treibhausgasemissionen
 
 [^chap5-sec2-1][^chap5-sec2-2]
 
-[^chap5-sec2-1]: Ausdruck gemäss Anhang Abs. 2 des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung (Änderung des CO<sub>2</sub>-Gesetzes), in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^chap5-sec2-1]: Ausdruck gemäss Anhang Abs. 2 des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung (Änderung des CO<sub>2</sub>-Gesetzes), in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 [^chap5-sec2-2]: Eingefügt durch Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 31
 
-**Verpflichtung zur Verminderung der Treibhausgasemissionen[^31-1]**
+**Verminderungsverpflichtung**[^31-1]
 
-<sup>1</sup> Betreibern von Anlagen[^31-2] bestimmter Wirtschaftszweige wird die CO<sub>2</sub>-Abgabe auf Gesuch hin zurückerstattet, sofern sie sich gegenüber dem Bund verpflichten, die Treibhausgasemissionen bis zum Jahr 2020 in einem bestimmten Umfang zu vermindern (Verminderungsverpflichtung) und jedes Jahr darüber Bericht zu erstatten.[^31-3]
-
-<sup>1bis</sup> Die Verminderungsverpflichtungen nach Absatz 1 können unter der Voraussetzung, dass der Umfang der Verminderung linear weitergeführt wird und ein entsprechendes Gesuch bis zum 31. Mai 2021 eingereicht wird, bis Ende 2021 verlängert werden.[^31-4]
-
-<sup>1ter</sup> Die Verminderungsverpflichtungen nach Absatz 1<sup>bis</sup> können unter der Voraussetzung, dass sich die Betreiber zu einer gegenüber den Absätzen 1 und 1<sup>bis</sup> zusätzlichen Verminderung in einem bestimmten Umfang verpflichten und ein entsprechendes Gesuch bis zum vom Bundesrat festgelegten Zeitpunkt eingereicht wird, bis Ende 2024 verlängert werden.[^31-5]
-
-<sup>1quater</sup> Betreiber nach Absatz 1, die bisher keine Verminderungsverpflichtung eingegangen sind, können sich ebenfalls verpflichten, die Treibhausgasemissionen bis Ende 2024 in einem bestimmten Umfang zu vermindern.[^31-6]
+<sup>1</sup> Den Betreibern von Anlagen wird die CO<sub>2</sub>-Abgabe auf Gesuch hin zurückerstattet, wenn sie sich gegenüber dem Bund verpflichten, die Treibhausgasemissionen bis zum Jahr 2040 in einem bestimmten Umfang zu vermindern (Verminderungsverpflichtung).
 
 <sup>2</sup>
 
-Der Bundesrat bezeichnet die Wirtschaftszweige und berücksichtigt dabei:
+Eine Verminderungsverpflichtung kann eingegangen werden, wenn die folgenden Voraussetzungen erfüllt sind:
 
-- a. wie sich die Belastung durch die CO<sub>2</sub>-Abgabe und die Wertschöpfung des betreffenden Wirtschaftszweigs zueinander verhalten;
-- b. wie stark die CO<sub>2</sub>-Abgabe die internationale Wettbewerbsfähigkeit des betreffenden Wirtschaftszweigs beeinträchtigt.
+- a. Die Verminderungsverpflichtung umfasst alle Anlagen an einem Standort.
+- b. Die Anlagen werden für wirtschaftliche oder öffentlich-rechtliche Tätigkeiten verwendet.
+- c. Der Betreiber hat eine Zielvereinbarung nach Artikel 41 oder 46 Absatz 2 des Energiegesetzes vom 30. September 2016[^31-2] (EnG) abgeschlossen, in der die Treibhausgasemissionen und Massnahmen zur Verminderung dieser Emissionen festgehalten sind.
 
-<sup>3</sup>
+<sup>3</sup> Die Verminderungsverpflichtung dauert bis Ende 2040 und enthält Zielwerte für die Zeitspannen 2025–2030 und 2031–2040.
 
-Der Umfang der Verminderungsverpflichtung orientiert sich namentlich:[^31-7]
+<sup>4</sup> Die Betreiber können sich für die Verminderungsverpflichtung zu Gemeinschaften zusammenschliessen. Für eine Gemeinschaft gelten dieselben Rechte und Pflichten wie für einen einzelnen Betreiber.
 
-- a. an den im Durchschnitt der Jahre 2008–2012 zugestandenen Treibhausgasemissionen;
-- b. am Reduktionsziel nach Artikel 3.
+<sup>5</sup> Der Bundesrat kann vorsehen, dass der Verbrauch von leitungsgebundenem Erdgas an die Erfüllung der Verminderungsverpflichtung angerechnet wird, wenn die Anforderungen nach Artikel 15 Absatz 3 erfüllt sind.
 
-<sup>4</sup>
-
-Der Bundesrat legt fest, inwieweit die Betreiber ihre Verminderungsverpflichtung erfüllen können:
-
-- a. bis zum Jahr 2021: durch die Abgabe von Emissionsminderungszertifikaten;
-- b. ab dem Jahr 2022: durch die Abgabe von Emissionsrechten.[^31-8]
-
-<sup>5</sup> Auf Gesuch des Betreibers kann der Bund auch Emissionsreduktionen berücksichtigen, welche aufgrund von Produkteverbesserungen ausserhalb der eigenen Produktionsanlagen realisiert werden.
-
-<sup>6</sup> Der Bundesrat kann die Rückerstattung ausschliessen, wenn sie gemessen an ihrem Betrag einen unverhältnismässigen Aufwand erfordern würde.
-
-[^31-1]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-2]: Ausdruck gemäss Anhang Abs. 1 des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung (Änderung des CO<sub>2</sub>-Gesetzes), in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^31-3]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-4]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^31-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^31-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^31-7]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-8]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^31-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 31a
 
-**Betreiber von WKK-Anlagen mit Verminderungsverpflichtung[^31a-2]**[^31a-1]
+**Berichterstattung und Dekarbonisierungsplan**[^31a-1]
+
+Betreiber mit einer Verminderungsverpflichtung müssen dem Bund:
+
+- a. jährlich Bericht erstatten über die Einhaltung der Zielvereinbarung;
+- b. innerhalb von 3 Jahren ab Beginn der Verminderungsverpflichtung einen Plan einreichen, in dem sie aufzeigen, mit welchen Massnahmen sie bis spätestens Ende 2040 die Treibhausgasemissionen aus der energetischen Nutzung fossiler Brennstoffe massgeblich reduzieren (Dekarbonisierungsplan), und diesen alle drei Jahre aktualisieren.
+
+[^31a-1]: Eingefügt durch Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 31b
+
+**Vorzeitige Beendigung der Verminderungsverpflichtung**[^31b-1]
 
 <sup>1</sup>
 
-Die Verminderungsverpflichtung wird auf Gesuch hin angepasst für Betreiber, die:
+Betreiber mit einer Verminderungsverpflichtung können die vorzeitige Beendigung ihrer Verminderungsverpflichtung auf folgende Zeitpunkte hin beantragen:
 
-- a. eine WKK-Anlage betreiben, welche die Anforderungen nach Artikel 32*a* erfüllt; und
-- b. gegenüber dem Referenzjahr 2012 in einem vom Bundesrat bestimmten Mass zusätzlich Strom produzieren, der ausserhalb der Anlage[^31a-3] verwendet wird.
+- a. per 31. Dezember 2030; oder
+- b. auf Ende des Kalenderjahres, in dem sie für ihre Tätigkeiten im Regelbetrieb keine fossilen Brennstoffe mehr energetisch nutzen.
 
-<sup>2</sup> 40 Prozent der CO<sub>2</sub>-Abgabe auf Brennstoffen, die nachweislich für die Produktion des Stroms nach Absatz 1 eingesetzt werden, werden in diesem Fall nur zurückerstattet, sofern der Betreiber gegenüber dem Bund nachweist, dass er im Umfang dieser Mittel Massnahmen ergriffen hat für die Steigerung seiner eigenen Energieeffizienz oder der Energieeffizienz von Anlagen[^31a-4], die aus der WKK-Anlage Strom oder Wärme beziehen.
+<sup>2</sup> Die Verminderungsverpflichtung wird zudem vorzeitig beendet, wenn der Betreiber keinen Dekarbonisierungsplan einreicht oder keine Zielvereinbarung mehr besteht.
 
-<sup>3</sup>
+<sup>3</sup> Betreiber, die ihre Verminderungsverpflichtung vorzeitig beenden, können keine neue Verminderungsverpflichtung mehr eingehen.
 
-Der Bundesrat regelt die Einzelheiten, insbesondere:
+[^31b-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-- a. welche Effizienzmassnahmen zur Rückerstattung berechtigen;
-- b. den Zeitraum für die Ergreifung der Effizienzmassnahmen; und
-- c. die Berichterstattung.
+#### Art. 31c
 
-<sup>4</sup> Abgabebeträge, die mangels Erfüllung der Voraussetzungen nach Absatz 2 nicht zurückerstattet werden, werden nach Artikel 36 an Bevölkerung und Wirtschaft verteilt.
+**Ausführungsbestimmungen**[^31c-1]
 
-[^31a-1]: Eingefügt durch Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31a-2]: Fassung gemäss Anhang Abs. 3 des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^31a-3]: Ausdruck gemäss Anhang Abs. 4 des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^31a-4]: Ausdruck gemäss Anhang Abs. 5 des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+Der Bundesrat regelt:
+
+- a. die Anforderungen an die Verminderungsverpflichtungen und die Dekarbonisierungspläne;
+- b. in welchen Fällen eine Tätigkeit als wirtschaftliche Tätigkeit gilt;
+- c. welche öffentlich-rechtlichen Tätigkeiten zum Eingehen einer Verminderungsverpflichtung berechtigen;
+- d. die Art und den Umfang der Zielwerte;
+- e. in welchen Fällen Betreiber von Anlagen mit geringeren Treibhausgasemissionen den Umfang der Verminderungsverpflichtung mit einem vereinfachten Modell festlegen können;
+- f. in welchen Fällen die Verminderungsverpflichtung in welchem Umfang durch die Abgabe von nationalen oder internationalen Bescheinigungen erfüllt werden kann.
+
+[^31c-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 32
 
-**Sanktion bei Nichteinhalten der Verpflichtung**
+**Sanktionen**[^32-1]
 
-<sup>1</sup> Betreiber nach Artikel 31, die ihre gegenüber dem Bund eingegangene Verminderungsverpflichtung nicht einhalten, müssen dem Bund pro zu viel emittierte Tonne CO<sub>2</sub>eq einen Betrag von 125 Franken entrichten.[^32-1]
+Betreiber mit Verminderungsverpflichtung, die ihre Zielwerte nicht einhalten, müssen dem Bund im Folgejahr pro zu viel ausgestossene Tonne CO<sub>2</sub>eq:
 
-<sup>2</sup> Für die zu viel emittierten Tonnen CO<sub>2</sub>eq sind dem Bund im Folgejahr Emissionsrechte abzugeben.[^32-2]
+- a. einen Betrag von 125 Franken entrichten; und
+- b. eine nationale oder internationale Bescheinigung abgeben.
 
-[^32-1]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^32-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^32-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ### 3. Abschnitt: Rückerstattung der CO<sub>2</sub>-Abgabe an Betreiber von WKK-Anlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind
 
@@ -571,26 +778,46 @@ Der Bundesrat regelt die Einzelheiten, insbesondere:
 
 #### Art. 32a
 
-**Berechtigte Betreiber von WKK-Anlagen**
+**Betreiber von WKK-Anlagen**[^32a-1]
 
 <sup>1</sup>
 
-Betreibern von WKK-Anlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind, wird die CO<sub>2</sub>-Abgabe nach Massgabe von Artikel 32*b* teilweise zurückerstattet, sofern die Anlage:
+Betreibern von WKK-Anlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind, wird die CO<sub>2</sub>-Abgabe auf Gesuch hin ganz oder teilweise zurückerstattet, wenn die Anlage:
 
-- a. primär auf die Produktion von Wärme ausgelegt ist;
-- b. die energetischen, ökologischen oder anderen Mindestanforderungen erfüllt*.*
+- a. hauptsächlich für die Erzeugung von Wärme ausgelegt ist;
+- b. eine Feuerungswärmeleistung innerhalb einer bestimmten Bandbreite aufweist; und
+- c. die energetischen, ökologischen und anderen Mindestanforderungen erfüllt.
 
-<sup>2</sup> Der Bundesrat legt die Leistungsgrenzen sowie die Mindestanforderungen fest.
+<sup>2</sup>
+
+Betreiber, denen die CO<sub>2</sub>-Abgabe zurückerstattet wird, müssen dem Bund regelmässig Bericht erstatten über:
+
+- a. die Menge der für die Erzeugung von Elektrizität verwendeten fossilen Brennstoffe; und
+- b. die Kosten für die Massnahmen zur Steigerung der Energieeffizienz.
+
+<sup>3</sup> Der Bundesrat kann weitere Angaben vorsehen, soweit diese für die Beurteilung der Rückerstattung erforderlich sind.
+
+<sup>4</sup> Er legt die Mindestanforderungen an die WKK-Anlagen und die Bandbreite für die Feuerungswärmeleistung fest.
+
+[^32a-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 32b
 
-**Umfang und Voraussetzungen der teilweisen Rückerstattung**
+**Umfang der Rückerstattung**[^32b-1]
 
-<sup>1</sup> Zurückerstattet werden auf Gesuch hin in jedem Fall 60 Prozent der CO<sub>2</sub>-Abgabe auf Brennstoffen, die nachweislich für die Stromproduktion eingesetzt wurden.
+<sup>1</sup> Zurückerstattet werden 60 Prozent der CO<sub>2</sub>-Abgabe auf den fossilen Brennstoffen, für die der Betreiber nachweist, dass sie für die Erzeugung von Elektrizität eingesetzt wurden.
 
-<sup>2</sup> Die restlichen 40 Prozent werden nur zurückerstattet, sofern der Betreiber gegenüber dem Bund nachweist, dass er im Umfang dieser Mittel Massnahmen ergriffen hat für die Steigerung seiner eigenen Energieeffizienz oder der Energieeffizienz von Anlagen, die aus der WKK-Anlage Strom oder Wärme beziehen.
+<sup>2</sup> Die restlichen 40 Prozent werden zurückerstattet, wenn der Betreiber nachweist, dass er im Umfang eines gleichwertigen Betrags Massnahmen zur Steigerung der Energieeffizienz der eigenen oder anderer Anlagen, die aus der Anlage Elektrizität oder Wärme beziehen (Effizienzmassnahmen), ergriffen hat.
 
-<sup>3</sup> Der Bundesrat regelt die Einzelheiten analog zu Artikel 31*a* Absatz 3. Für die Abgabebeträge, die nicht zurückerstattet werden können, gilt Artikel 31*a* Absatz 4.
+<sup>3</sup>
+
+Der Bundesrat regelt die Einzelheiten, insbesondere:
+
+- a. welche Effizienzmassnahmen zur Rückerstattung berechtigen;
+- b. bis wann die Effizienzmassnahmen ergriffen werden müssen;
+- c. die Berichterstattung.
+
+[^32b-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ### 4. Abschnitt: Rückerstattung der CO<sub>2</sub>-Abgabe bei nicht energetischer Nutzung
 
@@ -600,7 +827,7 @@ Betreibern von WKK-Anlagen, die weder am EHS teilnehmen noch eine Verminderungsv
 
 #### Art. 32c
 
-Personen, die nachweisen, dass sie Brennstoffe nicht energetisch genutzt haben, wird die CO<sub>2</sub>-Abgabe auf diesen Brennstoffen auf Gesuch hin zurückerstattet.
+Personen, die nachweisen, dass sie fossile Brennstoffe nicht energetisch genutzt haben, wird die CO<sub>2</sub>-Abgabe auf diesen fossilen Brennstoffen auf Gesuch hin zurückerstattet.
 
 ### 5. Abschnitt: Verfahren
 
@@ -620,31 +847,61 @@ Personen, die nachweisen, dass sie Brennstoffe nicht energetisch genutzt haben, 
 
 ## 6. Kapitel: Verwendung der Erträge
 
+#### Art. 33a
+
+**Grundsatz**[^33a-1]
+
+<sup>1</sup> Ein Drittel des Ertrags aus der CO<sub>2</sub>-Abgabe wird für die Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden, die Förderung von erneuerbarer Energie und die Förderung von Technologien zur Verminderung der Treibhausgase (Art. 34–35) verwendet.
+
+<sup>2</sup> Am Ende eines Rechnungsjahres nicht ausgeschöpfte zweckgebundene Mittel dürfen nicht mehr als 150 Millionen Franken betragen.
+
+<sup>3</sup> Die nicht ausgeschöpften Mittel nach Absatz 2 dürfen in den Folgejahren zusätzlich zu den Förderungen nach den Artikeln 34 und 34*a* für die Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden und für die Förderung erneuerbarer Energien verwendet werden.
+
+[^33a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 34
 
 **Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden**[^34-1]
 
-<sup>1</sup> Ein Drittel des Ertrags aus der CO<sub>2</sub>-Abgabe, höchstens aber 450 Millionen Franken pro Jahr wird für Massnahmen zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden einschliesslich Senkung des Stromverbrauchs im Winterhalbjahr verwendet. Zu diesem Zweck gewährt der Bund den Kantonen Globalbeiträge an Massnahmen nach den Artikeln 47, 48 und 50 des Energiegesetzes vom 30. September 2016[^34-2] (EnG).
+<sup>1</sup> Die Mittel nach Artikel 33*a* Absatz 1 werden unter Vorbehalt der Artikel 34*a* und 35 zur Finanzierung für Massnahmen zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden verwendet, einschliesslich zur Senkung des Stromverbrauchs im Winterhalbjahr. Berücksichtigt wird dabei auch die CO<sub>2</sub>-Bilanz der eingesetzten Baumaterialien.
 
-<sup>2</sup> Der Bund unterstützt zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden Projekte zur direkten Nutzung der Geothermie für die Wärmebereitstellung. Er setzt dafür einen kleinen Teil der in Absatz 1 vorgesehenen Mittel ein, höchstens aber 30 Millionen Franken. Der Bundesrat legt die Kriterien und Einzelheiten der Unterstützung sowie den jährlichen Höchstbetrag der Finanzhilfen fest.
+<sup>2</sup>
 
-<sup>3</sup>
+Der Bund gewährt den Kantonen zu diesem Zweck Globalbeiträge an Fördermassnahmen nach den Artikeln 47, 48 und 50 EnG[^34-2]. Die Ausrichtung der Globalbeiträge erfolgt nach Artikel 52 EnG. Die folgenden Besonderheiten bleiben vorbehalten:
 
-Die Ausrichtung der Globalbeiträge erfolgt nach Artikel 52 EnG unter Beachtung der folgenden Besonderheiten:
+- a. Die Globalbeiträge werden nur Kantonen ausgerichtet, die über Programme zur Förderung energetischer Gebäudehüllen- und Gebäudetechniksanierungen sowie zum Ersatz bestehender elektrischer Widerstandsheizungen oder fossil betriebener Heizungen verfügen und dabei eine harmonisierte Umsetzung gewährleisten.
+- b. Die Globalbeiträge werden in einen Sockelbeitrag pro Einwohnerin oder Einwohner und in einen Ergänzungsbeitrag aufgeteilt; der Sockelbeitrag pro Einwohnerin oder Einwohner beträgt maximal 30 Prozent der verfügbaren Mittel; der Ergänzungsbeitrag darf nicht höher sein als das Doppelte des vom Kanton zur Durchführung seines Programms bewilligten jährlichen Kredits.
 
-- a. In Ergänzung der Voraussetzungen von Artikel 52 EnG werden Globalbeiträge nur Kantonen ausgerichtet, die über Programme zur Förderung energetischer Gebäudehüllen- und Gebäudetechniksanierungen sowie zum Ersatz bestehender elektrischer Widerstandsheizungen oder Ölheizungen verfügen und dabei eine harmonisierte Umsetzung gewährleisten.
-- b. In Abweichung von Artikel 52 Absatz 1 EnG werden die Globalbeiträge in einen Sockelbeitrag pro Einwohnerin oder Einwohner und in einen Ergänzungsbeitrag aufgeteilt. Der Sockelbeitrag pro Einwohnerin oder Einwohner beträgt maximal 30 Prozent der verfügbaren Mittel. Der Ergänzungsbeitrag darf nicht höher sein als das Doppelte des vom Kanton zur Durchführung seines Programms bewilligten jährlichen Kredits.
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten.
 
-<sup>4</sup> Werden die nach Absatz 1 zur Verfügung stehenden Mittel nicht ausgeschöpft, so werden sie nach Artikel 36 an Bevölkerung und Wirtschaft verteilt.
+[^34-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^34-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
-[^34-1]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^34-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+#### Art. 34a
+
+**Förderung erneuerbarer Energien**[^34a-1]
+
+<sup>1</sup>
+
+Von den Mitteln nach Artikel 33*a* Absatz 1 kann der Bund jährlich höchstens 45 Millionen Franken einsetzen für die Förderung von:
+
+- a. Projekten zur direkten Nutzung der Geothermie für die Wärmebereitstellung;
+- b. Erschliessungen indirekt nutzbarer hydrothermaler Ressourcen, wenn eine Nutzung nach Buchstabe a nach der ersten Explorationsbohrung nicht möglich ist;
+- c. kommunaler und überkommunaler räumlicher Energieplanung zur Nutzung erneuerbarer Energien und Abwärme;
+- d. neuen Anlagen und erheblichen Erweiterungen der Infrastruktur von bestehenden Anlagen zur Produktion erneuerbarer Gase, vorrangig von solchen, die Gas ins Netz einspeisen;
+- e. Anlagen zur Nutzung der Solarthermie für Prozesswärme.
+
+<sup>2</sup> Mittel zur Förderung von Vorhaben nach Absatz 1 Buchstabe b können längstens bis Ende 2030 und Mittel zur Förderung von Vorhaben nach Absatz 1 Buchstabe c längstens bis Ende 2035 gewährt werden.
+
+<sup>3</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Fördermittel und deren Bemessung.
+
+[^34a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 35
 
 **Förderung von Technologien zur Verminderung der Treibhausgase**
 
-<sup>1</sup> Vom Ertrag der CO<sub>2</sub>-Abgabe werden pro Jahr höchstens 25 Millionen Franken dem Technologiefonds zur Finanzierung von Bürgschaften zugeführt.
+<sup>1</sup> Von den Mitteln nach Artikel 33*a* Absatz 1 werden jährlich höchstens 25 Millionen Franken dem Technologiefonds zur Finanzierung von Bürgschaften zugeführt.[^35-1]
 
 <sup>2</sup> Der Technologiefonds wird durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation verwaltet.
 
@@ -658,31 +915,96 @@ Mit den Mitteln aus dem Technologiefonds verbürgt der Bund Darlehen an Unterneh
 
 <sup>4</sup> Die Bürgschaften werden für die Dauer von höchstens 10 Jahren gewährt.
 
+[^35-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 36
 
 **Verteilung an Bevölkerung und Wirtschaft**
 
-<sup>1</sup> Der übrige Ertrag aus der CO<sub>2</sub>-Abgabe wird nach Massgabe der von Bevölkerung und Wirtschaft entrichteten Beträge aufgeteilt.
+<sup>1</sup>
+
+An die Bevölkerung und die Wirtschaft werden nach Massgabe der von ihnen entrichteten Beträge folgende Mittel ausbezahlt:
+
+- a. der Ertrag aus der CO<sub>2</sub>-Abgabe, die mangels Erfüllung der Voraussetzungen nach Artikel 32*b* nicht zurückerstattet wird;
+- b. der Teil des Ertrags aus der CO<sub>2</sub>-Abgabe, der nicht für die Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden, die Förderung von erneuerbarer Energie und die Förderung von Technologien zur Verminderung der Treibhausgase verwendet wird;
+- c. die Mittel, die den Betrag von 150 Millionen Franken nach Artikel 33*a* Absatz 2 übersteigen; und
+- d. die Mittel, die nicht nach Artikel 33*a* Absatz 3 eingesetzt werden konnten; die Auszahlung erfolgt alle fünf Jahre.[^36-1]
 
 <sup>2</sup> Der Anteil der Bevölkerung wird gleichmässig an alle natürlichen Personen verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlich-rechtliche Körperschaften oder Private gegen angemessene Entschädigung mit der Verteilung beauftragen.
 
-<sup>3</sup> Der Anteil der Wirtschaft wird den Arbeitgebern entsprechend dem abgerechneten massgebenden Lohn der Arbeitnehmerinnen und Arbeitnehmer (Art. 5 des BG vom 20. Dez. 1946[^36-1] über die Alters- und Hinterlassenenversicherung) über die AHV-Ausgleichskassen ausgerichtet. Diese werden angemessen entschädigt.
+<sup>3</sup> Der Anteil der Wirtschaft wird den Arbeitgebern über die AHV-Ausgleichskassen ausgerichtet. Die Verteilung erfolgt nach Massgabe der Lohnsumme, auf die der Arbeitgeber nach Artikel 3 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^36-2] Beiträge an die Arbeitslosenversicherung entrichtet. Die Ausgleichskassen werden angemessen entschädigt.[^36-3]
 
-[^36-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+<sup>4</sup> Betreiber, die eine Verminderungsverpflichtung eingegangen sind, erhalten keinen Anteil aus dem Ertrag der CO<sub>2</sub>-Abgabe.[^36-4]
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 37
 
 **Zuweisung des Ertrags aus der Sanktion**[^37-1]
 
-Der Ertrag aus der Sanktion nach Artikel 13 wird dem Fonds für die Nationalstrassen und den Agglomerationsverkehr zugewiesen
+Der Ertrag aus der Sanktion nach Artikel 13 wird dem Fonds für die Nationalstrassen und den Agglomerationsverkehr zugewiesen.
 
 [^37-1]: Fassung gemäss Anhang Ziff. II 2 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
+#### Art. 37a
+
+**Massnahmen zur Förderung des grenzüberschreitenden Personenfernverkehrs auf der Schiene und zur Verminderung von Treibhausgasemissionen im Luftverkehr**[^37a-1]
+
+<sup>1</sup>
+
+Die Erlöse aus der Versteigerung der Emissionsrechte für Luftfahrzeuge werden eingesetzt für:
+
+- a. Massnahmen zur Förderung des grenzüberschreitenden Personenfernverkehrs auf der Schiene, insbesondere für die Förderung von Nachtzügen; und
+- b. Massnahmen zur Verminderung von Treibhausgasemissionen im Luftverkehr, insbesondere für die Entwicklung und Herstellung von erneuerbaren synthetischen Flugtreibstoffen.
+
+<sup>2</sup> Für Massnahmen nach Absatz 1 Buchstabe a werden längstens bis Ende 2030 höchstens 30 Millionen Franken pro Jahr eingesetzt. Verbleibende Erlöse können für Mass-nahmen nach Absatz 1 Buchstabe b eingesetzt werden.
+
+<sup>3</sup> Nicht ausgeschöpfte Mittel dürfen jeweils in den Folgejahren verwendet werden.
+
+<sup>4</sup>
+
+Mit den Beiträgen an die Massnahmen nach Absatz 1 Buchstabe a werden insbesondere Angebote gefördert, die in Bezug auf die Verminderung der Treibhausgasemissionen kosteneffizient sind. Die Gewährung der Fördermittel ist an die folgenden Voraussetzungen geknüpft:
+
+- a. Das Angebot wird während mehrerer Jahren zur Verfügung gestellt.
+- b. Die Attraktivität bestehender Angebote für Reisende wird verbessert.
+
+<sup>5</sup> Die Beiträge an die Massnahmen nach Absatz 1 Buchstabe b betragen höchstens 60 Prozent der anrechenbaren Kosten. Ausnahmsweise können sie auf 70 Prozent der anrechenbaren Kosten erhöht werden. Massgebend für Ausnahmen sind das besondere Interesse des Bundes sowie das Verhältnis zwischen Kosten und Nutzen.
+
+<sup>6</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Fördermittel und deren Bemessung.
+
+[^37a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 37b
+
+**Massnahmen zur Vermeidung von Schäden und zur Dekarbonisierung von Anlagen im Emissionshandelssystem**[^37b-1]
+
+<sup>1</sup>
+
+Die Erlöse aus der Versteigerung der Emissionsrechte für Anlagen werden eingesetzt für:
+
+- a. Massnahmen zur Vermeidung von Schäden an Personen oder Sachen von erheblichem Wert, die sich als Folge der erhöhten Treibhausgaskonzentration in der Atmosphäre ergeben können; und
+- b. Massnahmen bei Anlagen nach Artikel 16, die einen wesentlichen Beitrag an die Dekarbonisierung dieser Anlagen leisten.
+
+<sup>2</sup> Die Erlöse aus Sanktionen nach Artikel 28*e* werden für Massnahmen gemäss Absatz 1 Buchstabe a eingesetzt.
+
+<sup>3</sup> Nicht ausgeschöpfte Mittel dürfen jeweils in den Folgejahren verwendet werden.
+
+<sup>4</sup> Die Beiträge an die Massnahmen gemäss Absatz 1 betragen höchstens 50 Prozent der anrechenbaren Kosten.
+
+<sup>5</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Fördermittel und deren Bemessung; er berücksichtigt dabei die mögliche Verlagerung von Treibhausgasemissionen ins Ausland.
+
+[^37b-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 38
 
-**Berechnung der Erträge**
+**Berechnung des Ertrags aus der CO<sub>2</sub>-Abgabe**[^38-1]
 
-Die Erträge berechnen sich aus den Einnahmen einschliesslich der Zinsen und abzüglich der Vollzugskosten.
+Der Ertrag aus der CO<sub>2</sub>-Abgabe berechnet sich aus den Einnahmen abzüglich der Vollzugskosten.
+
+[^38-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## 7. Kapitel: Vollzug, Verfahren und Förderung
 
@@ -707,13 +1029,19 @@ Im Rahmen des Vollzugs völkerrechtlicher Verträge über die Verknüpfung von E
 
 <sup>3</sup> Er regelt das Sanktionsverfahren.
 
-<sup>4</sup> Das Bundesamt für Umwelt (BAFU) ist für die Beurteilung von Fragen des Klimaschutzes zuständig.[^39-2]
+<sup>3bis</sup> Er kann ein System zur Erfassung und Nachverfolgung von CO<sub>2</sub> vorsehen, das bei der Quelle abgeschieden oder aus der Atmosphäre entnommen wurde.[^39-2]
 
-<sup>5</sup> Es erlässt Vorschriften über die Form von Gesuchen, Meldungen und Berichten. Es kann den Einsatz der elektronischen Datenverarbeitung anordnen. In diesem Fall legt es insbesondere Anforderungen an die Interoperabilität der Informatiksysteme und an die Datensicherheit fest.[^39-3]
+<sup>4</sup> Das Bundesamt für Umwelt (BAFU) ist für die Beurteilung von Fragen des Klimaschutzes zuständig.[^39-3]
+
+<sup>4bis</sup> Es kann für die Ermittlung der Klimabelastung von Unternehmen und Produkten Grundlagen und Standards zur Verfügung stellen.[^39-4]
+
+<sup>5</sup> Es erlässt Vorschriften über die Form von Gesuchen, Meldungen und Berichten. Es kann den Einsatz der elektronischen Datenverarbeitung anordnen. In diesem Fall legt es insbesondere Anforderungen an die Interoperabilität der Informatiksysteme und an die Datensicherheit fest.[^39-5]
 
 [^39-1]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^39-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^39-3]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^39-2]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^39-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^39-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^39-5]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 40
 
@@ -721,9 +1049,9 @@ Im Rahmen des Vollzugs völkerrechtlicher Verträge über die Verknüpfung von E
 
 <sup>1</sup>
 
-Der Bundesrat überprüft periodisch:
+Der Bundesrat überprüft regelmässig:[^40-1]
 
-- a. die Wirksamkeit der Massnahmen nach diesem Gesetz;
+- a.[^40-2] die Wirksamkeit und die Wirtschaftlichkeit der Massnahmen nach diesem Gesetz;
 - b. die Notwendigkeit weiterer Massnahmen.
 
 <sup>2</sup> Er berücksichtigt dabei auch klimarelevante Faktoren wie Bevölkerungs-, Wirtschafts- und Verkehrswachstum.
@@ -731,6 +1059,9 @@ Der Bundesrat überprüft periodisch:
 <sup>3</sup> Er stützt sich bei der Evaluation auf statistische Erhebungen.
 
 <sup>4</sup> Er erstattet der Bundesversammlung regelmässig Bericht.
+
+[^40-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 40a
 
@@ -755,15 +1086,15 @@ Auskunftspflichtig sind insbesondere:
 
 #### Art. 40b
 
-**Bearbeitung von Personendaten**[^40b-1]
+**Bearbeitung und Bekanntgabe von Personendaten und Daten juristischer Personen**[^40b-1]
 
-<sup>1</sup> Die zuständigen Bundesbehörden können im Rahmen des Zwecks dieses Gesetzes Personendaten, einschliesslich besonders schützenswerter Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen, bearbeiten.
+<sup>1</sup> Die zuständigen Bundesbehörden dürfen im Rahmen des Zwecks dieses Gesetzes Personendaten, einschliesslich besonders schützenswerter Personendaten, und Daten juristischer Personen, einschliesslich besonders schützenswerter Daten, bearbeiten und bekanntgeben.
 
 <sup>2</sup> Sie können diese Daten elektronisch aufbewahren.
 
-<sup>3</sup> Der Bundesrat legt fest, welche Kategorien von Personendaten bearbeitet werden dürfen und wie lange die Daten aufzubewahren sind.
+<sup>3</sup> Der Bundesrat legt fest, welche Kategorien von Personendaten und Daten juristischer Personen bearbeitet und bekanntgegeben werden dürfen und wie lange die Daten aufzubewahren sind.
 
-[^40b-1]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung, in Kraft seit 1. Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^40b-1]: Eingefügt durch Anhang des BB vom 22. März 2019 über die Genehmigung des Abk. zwischen der Schweiz und der EU zur Verknüpfung der Emissionshandelssysteme und über seine Umsetzung ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 40c
 
@@ -779,10 +1110,11 @@ Auskunftspflichtig sind insbesondere:
 
 Das BAFU kann folgenden Stellen und Personen Zugang zu den Informations- und Dokumentationssystemen gewähren:
 
-- a. dem Bundesamt für Energie;
+- a.[^40c-2] dem BFE;
 - b. dem Bundesamt für Sozialversicherungen;
 - c. dem Bundesamt für Zivilluftfahrt;
 - d. das Bundesamt für Zoll und Grenzsicherheit (BAZG);
+- d<sup>bis</sup>.[^40c-3] dem Bundesamt für Landestopografie;
 - e. privaten Organisationen nach Artikel 39 Absatz 2;
 - f. Gesuchstellern, Meldepflichtigen und Betreibern nach diesem Gesetz;
 - g. zugelassenen Validierungs- und Verifizierungsstellen;
@@ -792,14 +1124,51 @@ Das BAFU kann folgenden Stellen und Personen Zugang zu den Informations- und Dok
 <sup>5</sup> Die in Absatz 4 genannten Stellen und Personen können aus den Informations- und Dokumentationssystemen Personendaten, einschliesslich besonders schützenswerte Personendaten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, abrufen und diese bearbeiten, soweit dies für die Erfüllung ihrer Aufgaben und Pflichten nach diesem Gesetz erforderlich ist.
 
 [^40c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^40c-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40c-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 40d
+
+**Überprüfung der klimabedingten finanziellen Risiken**[^40d-1]
+
+<sup>1</sup> Die Eidgenössische Finanzmarktaufsicht (FINMA) überprüft regelmässig die klimabedingten finanziellen Risiken für die Beaufsichtigten nach Artikel 3 Buchstabe a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^40d-2].
+
+<sup>2</sup> Die Schweizerische Nationalbank (SNB) überprüft regelmässig die klimabedingten finanziellen Risiken für die Stabilität des Finanzsystems.
+
+<sup>3</sup> Die FINMA und die SNB veröffentlichen regelmässig je einen Bericht über die Ergebnisse und über allfällige Massnahmen.
+
+[^40d-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40d-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 41
 
-**Aus- und Weiterbildung**
+**Aus- und Weiterbildungen sowie Information**[^41-1]
 
-<sup>1</sup> Der Bund fördert in Zusammenarbeit mit den Kantonen die Aus- und Weiterbildung von Personen, die mit Aufgaben nach diesem Gesetz betraut sind.
+<sup>1</sup> Der Bund kann Aus- und Weiterbildungen, die den Klimaschutz in der Berufstätigkeit zum Gegenstand haben, sowie Plattformen und weitere Öffentlichkeitsarbeiten im Bereich des Klimaschutzes mit höchstens 5 Millionen Franken pro Jahr fördern. Der Bundesrat regelt die Voraussetzungen für die Gewährung der Fördermittel und deren Bemessung.
 
-<sup>2</sup> Die Behörden informieren die Öffentlichkeit über Vorsorgemassnahmen im Klimaschutz und beraten Gemeinden, Unternehmen und Konsumentinnen und Konsumenten über Massnahmen zur Verminderung der CO<sub>2</sub>-Emissionen.
+<sup>2</sup> Die zuständigen Behörden informieren die Öffentlichkeit und beraten Gemeinden, Unternehmen und Konsumentinnen und Konsumenten über den Klimaschutz.
+
+[^41-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 41a
+
+**Förderung von elektrischen Antriebstechnologien**[^41a-1]
+
+<sup>1</sup> Der Bund richtet bis 2030 in der konzessionierten Personenbeförderung Beiträge von höchstens 47 Millionen Franken pro Jahr an die Beschaffung von Fahrzeugen mit elektrischem Antrieb und an die Umrüstung von Schiffen auf einen elektrischen Antrieb aus.
+
+<sup>2</sup>
+
+Die Beiträge decken die Kosten in folgendem Umfang:
+
+- a. für Strassenfahrzeuge, die im von Bund und Kantonen gemeinsam bestellten regionalen Personenverkehr eingesetzt werden: 75 Prozent der zusätzlichen Investitionskosten nach Abzug aller Fördermittel;
+- b. für Strassenfahrzeuge, welche im Ortsverkehr und im Übrigen konzessionierten Verkehr eingesetzt werden: 30 Prozent der zusätzlichen Investitionskosten nach Abzug aller Fördermittel;
+- c. im konzessionierten Schiffsverkehr: 30 Prozent der zusätzlichen Investitionskosten oder der Kosten, die für die Umrüstung von Schiffen auf einen elektrischen Antrieb entstehen, nach Abzug aller Fördermittel.
+
+<sup>3</sup> Das Bundesamt für Verkehr legt die zusätzlichen Investitionskosten pro Fahrzeugtyp einmal pro Jahr pauschal fest. Bei Schiffen ermittelt es sie für jedes Schiff separat.
+
+<sup>4</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Beiträge und deren Bemessung.
+
+[^41a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## 8. Kapitel: Strafbestimmungen
 
@@ -840,18 +1209,40 @@ Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht i
 
 [^44-1]: Fassung gemäss Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
+#### Art. 44a
+
+**Übrige Widerhandlungen**[^44a-1]
+
+<sup>1</sup>
+
+Mit Busse bis 30 000 Franken wird bestraft, wer vorsätzlich:
+
+- a. falsche oder unvollständige Angaben im Hinblick auf die Ausstellung von Bescheinigungen macht;
+- b. die Pflicht nach Artikel 16 Absatz 1 oder 16*a* Absatz 1 missachtet, am EHS teilzunehmen;
+- c. in den Berichten nach den Artikeln 20 und 28*d* falsche oder unvollständige Angaben macht oder der Berichterstattungspflicht gar nicht nachkommt.
+
+<sup>2</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse.
+
+[^44a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 45
 
 **Verhältnis zum Bundesgesetz über das Verwaltungsstrafrecht**
 
 <sup>1</sup> Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^45-1] über das Verwaltungsstrafrecht verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.[^45-2]
+<sup>2</sup>
+
+Verfolgende und urteilende Behörde ist:
+
+- a. für Widerhandlungen nach den Artikeln 42 und 43: das BAZG;
+- b. für Widerhandlungen nach Artikel 44: das BFE;
+- c. für Widerhandlungen nach Artikel 44*a*: das BAFU.[^45-2]
 
 <sup>3</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach Artikel 42 oder 43 und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt und angemessen erhöht.[^45-3]
 
-[^45-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^45-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^45-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^45-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^45-3]: Fassung gemäss Ziff. I 23 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 9. Kapitel: Schlussbestimmungen
@@ -898,9 +1289,23 @@ Das CO<sub>2</sub>-Gesetz vom 8. Oktober 1999[^46-1] wird aufgehoben.
 
 <sup>2</sup> Emissionsminderungszertifikate, die im Jahr 2021 nicht verwendet wurden, können unbeschränkt in den Zeitraum 2022–2024 übertragen werden.
 
-<sup>3</sup> Bescheinigungen für in den Jahren 2013–2021 erzielte Emissionsverminderungen im Inland, die nicht verwendet wurden, können unbeschränkt in den Zeitraum 2022–2024 übertragen werden.
+<sup>3</sup> Bescheinigungen für in den Jahren 2013–2021 erzielte Emissionsverminderungen in der Schweiz, die nicht verwendet wurden, können unbeschränkt in den Zeitraum 2022–2024 übertragen werden.
 
 [^48b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+
+#### Art. 48c
+
+**Übertragung von nicht verwendeten Emissionsrechten, Emissionsminderungszertifikaten und Bescheinigungen**[^48c-1]
+
+<sup>1</sup> Emissionsrechte, die in den Jahren 2022–2024 nicht verwendet wurden, können unbeschränkt in den Zeitraum 2025–2030 übertragen werden.
+
+<sup>2</sup> Emissionsrechte, die in den Jahren 2021–2024 für künftige und stark wachsende Betreiber von Luftfahrzeugen zurückbehalten wurden, werden gelöscht.
+
+<sup>3</sup> Emissionsminderungszertifikate, die in den Jahren 2022–2024 nicht verwendet wurden, können unbeschränkt in den Zeitraum 2025–2030 übertragen werden. Vorbehalten bleiben Beschränkungen der Übertragung, die sich aufgrund von völkerrechtlichen Verträgen ergeben.
+
+<sup>4</sup> Bescheinigungen, die in den Jahren 2022–2024 nicht verwendet wurden, können unbeschränkt in den Zeitraum 2025–2030 übertragen werden.
+
+[^48c-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 49
 

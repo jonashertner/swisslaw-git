@@ -3,11 +3,11 @@ sr: "641.71"
 title: "Federal Act of 23 December 2011 on the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Act)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: en
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2012-855-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2012-855-20250101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Act)
 
-of 23 December 2011 (Status as of 1 January 2022)
+of 23 December 2011 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -26,268 +26,398 @@ on the basis of Articles 74 and 89 of the Federal Constitution[^ingress-1] and h
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 7433](https://fedlex.data.admin.ch/eli/fga/2009/1323)
 [^ingress-3]: [BBl 2010 973](https://fedlex.data.admin.ch/eli/fga/2010/181)
 
-## Chapter 1 General Provisions
+## Chapter 1: General Provisions
 
 #### Art. 1
 
-**Aim**
+**Aim**[^1-1]
 
-<sup>1</sup> This Act is intended to reduce greenhouse gas emissions and in particular CO<sub>2</sub> emissions that are attributable to the use of fossil fuels (thermal and motor fuels) as energy sources with the aim of contributing to limiting the global rise in temperature to less than 2 degrees Celsius.
+This Act aims to implement the objectives set out in the Federal Act of 30 September 2022[^1-2] on Climate Protection Goals, Innovation and Strengthening Energy Security (ClA).
 
-<sup>2</sup> The Federal Council designates the greenhouse gases.
+[^1-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^1-2]: [SR 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
 
 #### Art. 2
 
-**Definitions**
+**Definitions**[^2-1]
 
-<sup>1</sup> Thermal fuels are fossil fuels used for the generation of heat, the production of light, the production of electricity in thermal facilities or the operation of combined heat and power plants (CHP plants).[^2-1]
+In this Act:
 
-<sup>2</sup> Motor fuels are fossil fuels used in combustion engines to produce power.
+- a. *fossil thermal fuels* means fossil fuels used for the generation of heat, the production of light, the production of electricity in thermal facilities or the operation of combined heat and power plants (CHP plants);
+- b. *fossil motor fuels* means fossil fuels used in combustion engines to produce power;
+- c. *emission allowances* means tradable rights to emit greenhouse gases allocated or auctioned by the Confederation or by states or communities of states with emissions trading systems (ETS) recognised by the Federal Council;
+- d. *national attestations* means documents tradable in Switzerland attesting to verifiable reductions in greenhouse gas emissions or increases in carbon sinks achieved in Switzerland;
+- e. *emission reduction certificates* means internationally recognised tradable documents attesting to reductions in emissions achieved abroad in accordance with the Kyoto Protocol of 11 December 1997[^2-2] to the United Nations Framework Convention on Climate Change;
+- f. *international attestations* means attestations of verifiable reductions in greenhouse gas emissions or increases in carbon sinks achieved abroad in accordance with the Paris Agreement of 12 December 2015[^2-3];
+- g. *installations* means fixed technical units at a single location;
+- h. *sink effect* means the allowable removal of CO<sub>2</sub> from the atmosphere and its capture in carbon reservoirs;
+- i. *climate protection* means all measures that contribute to reducing greenhouse gas emissions or increasing carbon sinks and are intended to mitigate or prevent potential consequences of increased greenhouse gas concentration in the atmosphere;
+- j. *aviation fuel suppliers* means suppliers who provide aviation fuels or hydrogen for aviation and aircraft operators who purchase or produce aviation fuels or hydrogen for their own commercial use.
 
-<sup>3</sup> Emission allowances are tradable rights to emit greenhouse gases allocated or auctioned by the Confederation or by states or communities of states with emissions trading schemes (ETS) recognised by the Federal Council.[^2-2]
-
-<sup>4</sup> Emission reduction certificates are internationally recognised tradable documents attesting to reductions in emissions achieved abroad in accordance with the Kyoto Protocol of 11 December 1997[^2-3] to the United Nations Framework Convention on Climate Change.[^2-4]
-
-<sup>4bis</sup> International attestations are attestations of verifiable reductions in greenhouse gas emissions achieved abroad in accordance with the Climate Convention of 12 December 2015[^2-5].[^2-6]
-
-<sup>5</sup> Installations are fixed technical units at a single location.[^2-7]
-
-[^2-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^2-2]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^2-3]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^2-4]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^2-5]: [SR 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
-[^2-6]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^2-7]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^2-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^2-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+[^2-3]: [SR 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 #### Art. 3
 
-**Reduction target**
+**Reduction targets**[^3-1]
 
-<sup>1</sup> Domestic greenhouse gas emissions must be reduced overall by 20 per cent as compared with 1990 levels, by 2020. The Federal Council may set sector-specific interim targets.
+<sup>1</sup>
 
-<sup>1bis</sup> Greenhouse gas emissions must be reduced by a further 1.5 per cent annually by 2024 compared with 1990 levels. The Federal Council may specify sectoral interim targets.[^3-1]
+The Confederation shall ensure that greenhouse gas emissions:
 
-<sup>1ter</sup> At least 75 per cent of the reduction in greenhouse gas emissions in accordance with paragraph 1<sup>bis</sup> must be achieved through domestic measures.[^3-2]
+- a. amount to no more than 50 per cent of 1990’s greenhouse gas emissions in 2030;
+- b. are reduced by at least 35 per cent on average in the years 2021–2030 compared to 1990.
 
-<sup>2</sup> …[^3-3]
+<sup>2</sup> The reduction of greenhouse gas emissions shall in the first instance be achieved through measures taken in Switzerland. The Federal Council shall determine the share of measures to be taken in Switzerland.
 
-<sup>3</sup> The total volume of greenhouse gas emissions is calculated on the basis of the greenhouse gases emitted in Switzerland. Emissions from the use of aviation fuel on international flights are not taken into account.
+<sup>3</sup> In accordance with Article 4 ClA[^3-2], the Federal Council may set benchmark values for individual sectors.
 
-<sup>3bis</sup> The Federal Council shall determine the extent to which emission allowances from states or communities of states with ETSs recognised by the Federal Council shall be taken into account in order to achieve the reduction target in accordance with paragraph 1.[^3-4]
+<sup>4</sup> It may set reduction targets for individual economic sectors by agreement with the parties concerned.
 
-<sup>4</sup> The Federal Council may set reduction targets for individual economic sectors by agreement with the parties concerned.
+[^3-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3-2]: [SR 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
 
-<sup>5</sup> It shall at the due time submit proposals to the Federal Assembly on the reduction targets for the period after 2020. It shall consult the parties concerned beforehand.
+#### Art. 3a
 
-[^3-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)). Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-2]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-3]: Repealed by No I of the FA of 17 Dec. 2021, with effect from 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-4]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+**Relevant greenhouse gas emissions**[^3a-1]
+
+<sup>1</sup> The greenhouse gases emitted in Switzerland are relevant to achieving the reduction targets. The Federal Council shall designate the greenhouse gases.
+
+<sup>2</sup> Emissions from fossil motor fuels taken on in Switzerland for international flights and shipping shall not be taken into account.
+
+<sup>3</sup> The Federal Council shall determine the extent to which emission allowances from states or communities of states with ETSs recognised by the Federal Council shall be taken into account in order to achieve the reduction targets.
+
+[^3a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 4
 
 **Measures**
 
-<sup>1</sup> The reduction target should in the first instance be achieved through measures under this Act.
+<sup>1</sup> The reduction targets should in the first instance be achieved through measures under this Act.[^4-1]
 
-<sup>2</sup> Measures that reduce greenhouse gas emissions in accordance with other legislation should also contribute to achieving the reduction target. These measures in particular include those in the fields of environment and energy, agriculture, forestry and timber industry, road traffic and the taxation of mineral oil, as well as voluntary measures.
+<sup>2</sup> Measures that reduce greenhouse gas emissions or increase carbon sinks in accordance with other legislation should also contribute to achieving the reduction target. These measures in particular include those in the fields of environment, subsoil, energy, waste, agriculture, forestry and timber industry, road traffic and the taxation of mineral oil, as well as voluntary measures.[^4-2]
 
-<sup>3</sup> Voluntary measures also include undertakings by consumers of fossil thermal and motor fuels voluntarily to limit their CO2 emissions.
+<sup>3</sup> Voluntary measures also include undertakings by consumers of fossil thermal and motor fuels to voluntarily limit their CO2 emissions.
 
 <sup>4</sup> The Federal Council may assign suitable organisations to support and carry out voluntary measures.
 
+<sup>5</sup> If the reduction targets cannot be achieved, the Confederation may acquire the international attestations required to achieve the targets.[^4-3]
+
+[^4-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^4-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^4-3]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 5
 
-**Counting emission reductions achieved abroad**
+**One-off counting**[^5-1]
 
-The Federal Council may take appropriate account of reductions in greenhouse gas emissions that have been achieved abroad when calculating emissions under this Act.
+Emission reductions and carbon sink increases achieved may be counted only once towards the fulfilment of obligations under this Act.
+
+[^5-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 6
 
-**Quality requirements for reductions in emissions abroad**
+**International attestations**[^6-1]
 
-<sup>1</sup> The Federal Council specifies quality requirements for measures to reduce greenhouse gas emissions carried out abroad. Measures that do not meet these requirements are not considered emission reductions.
+<sup>1</sup> The Federal Council shall determine the requirements that emission reductions and carbon sink increases achieved abroad must fulfil in order for the international attestations that have been issued in their respect to be taken into account in Switzerland.
 
 <sup>2</sup>
 
-The quality requirements must satisfy the following quality criteria in particular:
+The requirements must satisfy the following criteria in particular:
 
-- a. reductions may only be counted if they would not have been achieved without support from Switzerland;
-- b. reductions in developing countries must contribute to sustainable development in those countries and must not have negative social or ecological impacts.
+- a. emission reductions and carbon sink increases may only be counted if they would not have been achieved without support from Switzerland;
+- b. emission reductions and carbon sink increases in developing countries must contribute to sustainable development in those countries and must not have negative social or ecological impacts.
 
-#### Art.7
+<sup>3</sup>
 
-**Attestations for domestic emission reductions**
+The Federal Council may specify that:
 
-<sup>1</sup> The Federal Council or the competent department issues documents attesting reductions in greenhouse gas emissions achieved voluntarily in Switzerland.
+- a. international attestations for carbon sink increases achieved shall not be taken into account if the permanent capture of CO<sub>2</sub> in carbon reservoirs cannot be guaranteed;
+- b. in accordance with the Paris Agreement of 12 December 2015[^6-2], a share of the emission reductions or carbon sink increases achieved shall not be taken into account when issuing international attestations.
 
-<sup>2</sup> It specifies the extent to which these attestations are considered equivalent to emission allowances or emission reduction certificates.
+[^6-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^6-2]: [SR 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
+
+#### Art. 7
+
+**Domestic attestations**[^7-1]
+
+The Federal Council shall set out the requirements that emission reductions and carbon sink increases achieved in Switzerland must fulfil in order for national attestations to be issued in their respect.
+
+[^7-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 7a
+
+**Emissions statements for flight services**[^7a-1]
+
+Aircraft operators must state the emissions expected to be caused by each flight they offer. The emissions must be stated in CO<sub>2</sub> equivalents (CO<sub>2</sub>eq). The Federal Council shall regulate the details, taking internationally recognised methods into account.
+
+[^7a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 8
 
 **Coordination of adaptation measures**
 
-<sup>1</sup> The Confederation coordinates the measures to avoid or deal with the harm to persons or damage to property of substantial value that may be caused by the increased concentration of greenhouse gases in the atmosphere.
+<sup>1</sup> The Confederation shall coordinate the measures to avoid or deal with the harm to persons or damage to property of substantial value that may be caused by the increased concentration of greenhouse gases in the atmosphere.
 
 <sup>2</sup> It is responsible for devising and obtaining the basic knowledge necessary for these measures.
 
-## Chapter 2 Technical Measures to reduce CO<sub>2</sub> Emissions
+#### Art. 8a
+
+**Exemptions for reasons of national defence**[^8a-1]
+
+If required in the interests of national defence, the Federal Council may, by ordinance, provide for exemptions from the provisions of this Act.
+
+[^8a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## Chapter 2 Technical Measures to Reduce CO<sub>2</sub> Emissions
 
 ### Section 1 Buildings
 
 #### Art. 9
 
-<sup>1</sup> The cantons ensure that the CO<sub>2</sub> emissions from buildings that are heated with fossil fuels are reduced in compliance with the targets. Accordingly, they issue building standards for new and older buildings based on the current state of the art.
+<sup>1</sup> The cantons shall ensure that the CO<sub>2</sub> emissions from buildings that are heated with fossil fuels are reduced in compliance with the targets. Accordingly, they shall issue building standards for new and older buildings based on the current state of the art.
 
-<sup>2</sup> The cantons submit a report each year to the Confederation on the measures taken.
+<sup>1bis</sup> The cantons shall set out building standards for new replacement buildings and comprehensive energy-related building upgrades for which additional use of the property is approved.[^9-1]
 
-### Section 2**** Passenger Cars, Vans and Light Articulated Vehicles
+<sup>2</sup> Each year, the cantons shall submit a report to the Confederation on the measures taken.
 
-[^chap2-sec2-1]
+<sup>3</sup> In the case of new buildings or replacement of heat generation systems for heating and hot water in old buildings, the building authorities shall enter the essential information in the Federal Register of Buildings and Dwellings in accordance with Article 10 paragraph 3<sup>bis</sup> of the Federal Statistics Act of 9 October 1992[^9-2]. The Federal Council shall regulate which information must be entered.[^9-3]
+
+<sup>4</sup> The cantons shall provide for the obligation to report the replacement of a heat generation system.[^9-4]
+
+[^9-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^9-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^9-3]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^9-4]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 2 Vehicles
+
+[^chap2-sec2-1][^chap2-sec2-2]
 
 [^chap2-sec2-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^chap2-sec2-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 10
 
-**Principle**
-
-<sup>1</sup> The CO<sub>2</sub> emissions from passenger cars that are registered for the first time must be reduced to an average of 130 g CO<sub>2</sub>/km by the end of 2015 and to an average of 95 g CO<sub>2</sub>/km by the end of 2020.
-
-<sup>2</sup> The CO<sub>2</sub> emissions from vans and articulated vehicles with a total weight of no more than 3.50 t (light articulated vehicles) that are registered for the first time must be reduced to an average of 147 g CO<sub>2</sub>/km by the end of 2020.
-
-<sup>3</sup> For this purpose, any importer or manufacturer of vehicles under paragraphs 1 and 2 (referred to below as “vehicles”) must reduce the average CO<sub>2</sub> emissions of the vehicles that it imports into or manufactures in Switzerland that are registered for the first time in the reference year in accordance with its individual target (Art. 11).
-
-<sup>4</sup> The targets in paragraphs 1 and 2 are based on the current customary measurement methods. In the event of a change in the measurement methods, the Federal Council shall specify in the implementing provisions the targets that correspond to the targets in these paragraphs. It shall indicate the applicable measurement methods, taking account of the European Union regulations.[^10-1]
-
-[^10-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-
-#### Art. 10a
-
-**Interim targets, facilitations and exceptions**
-
-<sup>1</sup> The Federal Council may specify binding interim targets in addition to the target values under Article 10.
-
-<sup>2</sup> It may issue special provisions on the transition to new targets that facilitate the meeting of targets for a limited period.
-
-<sup>3</sup> It may exclude certain vehicles from the scope of the regulations on reducing CO<sub>2</sub> emissions.
-
-<sup>4</sup> In doing so, it shall take account of the regulations of the European Union.
-
-#### Art. 10b
-
-**Reporting and proposals for a further reduction of CO<sub>2</sub> emissions**
-
-<sup>1</sup> The Federal Council shall submit a report to the Federal Assembly for the first time in 2016 and every three years thereafter on the extent to which the targets specified in Article 10 and the interim targets under Article 10*a* paragraph 1 have been met.
-
-<sup>2</sup> It shall at the due time submit to the Federal Assembly proposals for a further reduction in CO<sub>2</sub> emissions from vehicles for the period after 2020. In doing so, it shall take account of the regulations of the European Union.
-
-#### Art. 11
-
-**Individual target**
-
-<sup>1</sup> The Federal Council shall establish a method for calculating the individual target for each importer or manufacturer of vehicles. The calculation relates to the vehicles of the importer or manufacturer first registered in the reference year (the new vehicle fleet). Passenger cars on the one hand and vans and light articulated vehicles on the other each constitute their own new vehicle fleet.
-
-<sup>2</sup>
-
-In determining the calculation method, the Federal Council shall take account of the following in particular:
-
-- a. the properties of the vehicles imported into or manufactured in Switzerland such as unladen weight, pan area or ecological innovations;
-- b. the regulations of the European Union.
-
-<sup>3</sup> Importers and manufacturers may agree to form emissions pools. The same rights and obligations apply to each emissions pool as for each importer or manufacturer.
-
-<sup>4</sup> Where an importer or manufacturer registers for the first time in any year no more than 49 passenger cars or, where applicable, no more than five vans or light articulated vehicles of the vehicles that it imports into or manufactures in Switzerland, the individual targets are determined for each vehicle on the basis of the calculation method specified in paragraph 1.
-
-#### Art. 12
-
-**Calculation of the individual target and the average CO<sub>2</sub> emissions**
+**Target values**[^10-1]
 
 <sup>1</sup>
 
-At the end of each year, the Swiss Federal Office of Energy shall calculate for each importer or manufacturer:
+The Confederation shall ensure that average CO<sub>2</sub> emissions do not exceed the following values:
+
+- a. for passenger cars that are first used on the road in the years 2025–2029: 93.6 g CO2/km;
+- b. for vans and light articulated vehicles that are first used on the road in the years 2025–2029: 153.9 g CO2/km;
+- c. for passenger cars that are first used on the road from 2030: 49.5 g CO2/km;
+- d. for vans and light articulated vehicles that are first used on the road from 2030: 90.6 g CO2/km.
+
+<sup>2</sup>
+
+The Confederation shall ensure that average CO<sub>2</sub> emissions do not exceed the following percentages in relation to the relevant European Union baseline for the period from 1 July 2019 to 30 June 2020:
+
+- a. for heavy-duty vehicles that are first used on the road in the years 2025*–*2029: 85 per cent;
+- b. for heavy-duty vehicles that are first used on the road from 2030: 70 per cent.
+
+<sup>3</sup> The Federal Council may specify interim targets.
+
+<sup>4</sup> It shall specify the passenger cars, vans, light articulated vehicles and heavy-duty vehicles (vehicles) to which the target values apply and set out the applicable method for determining CO<sub>2</sub> emissions. In doing so, it shall take account of European Union regulations.
+
+<sup>5</sup> It shall monitor the development of CO2 emissions in real driving conditions. If the discrepancy between the CO<sub>2</sub> emissions determined using the applicable method and those produced in real driving conditions increases, it may take appropriate measures.
+
+[^10-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 10a and 10b
+
+[^10a10b-1]
+
+[^10a10b-1]: Repealed by No I of the FA of 15 March 2024, with effect from 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 11
+
+**Individual target**[^11-1]
+
+<sup>1</sup> Vehicle importers and manufacturers must limit the average CO<sub>2</sub> emissions generated by vehicles that are first used on the road in the reference year (the new vehicle fleet) in accordance with an individual target.
+
+<sup>2</sup> The Federal Council shall establish the method for calculating the individual targets.
+
+<sup>3</sup>
+
+In determining the calculation method, the Federal Council shall take account of the target values and the following in particular:
+
+- a. the properties of the vehicles in the new vehicle fleet, such as the pan area or the payload;
+- b. the regulations of the European Union.
+
+<sup>4</sup>
+
+The following each form a fleet of new vehicles:
+
+- a. passenger cars;
+- b. vans and light articulated vehicles;
+- c. heavy-duty vehicles.
+
+<sup>5</sup> If an importer or manufacturer’s new vehicle fleet comprises no more than 49 cars, five vans or light articulated vehicles or one heavy-duty vehicle in any year, the individual target is calculated separately for each vehicle.
+
+<sup>6</sup> Importers and manufacturers may agree to form emissions pools to fulfil their individual targets. The same rights and obligations apply to each emissions pool as to an individual importer or manufacturer.
+
+[^11-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 11a
+
+**CO<sub>2</sub>-reducing factors for new vehicle fleets that use renewable synthetic fuels**[^11a-1]
+
+<sup>1</sup> Vehicle importers and manufacturers may apply for their CO<sub>2</sub> reduction to be achieved by using renewable synthetic fuels to be taken into account when calculating the CO<sub>2</sub> emissions of their new vehicle fleet. To this end, they must provide evidence showing the quantity of such fuels that is contractually attributable to them by each first user of a vehicle.
+
+<sup>2</sup> Renewable synthetic fuels must meet the requirements of Article 35*d* of the Environmental Protection Act of 7 October 1983[^11a-2] (EPA).
+
+[^11a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^11a-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+
+#### Art. 12
+
+**Calculation of the individual target and the average CO<sub>2</sub> emissions**[^12-1]
+
+<sup>1</sup>
+
+At the end of each year, the Swiss Federal Office of Energy (SFOE) shall calculate for each importer or manufacturer:
 
 - a. the individual target;
 - b. the average CO<sub>2</sub> emissions of the relevant new vehicle fleet.
 
-<sup>2</sup> The Federal Council shall specify the data that importers or manufacturers must provide for the calculations specified in paragraph 1 for vehicles with no type approval. It may set a flat rate emission value for the calculation specified in paragraph 1 letter b if the data is not submitted by a certain deadline.
+<sup>2</sup> The Federal Council shall specify the information that the importers or manufacturers must provide. In particular, it shall specify the requirements for the documents to be submitted in order to determine the vehicle data used to calculate the individual target and the average CO<sub>2</sub> emissions.
 
-<sup>3</sup> The Federal Council may specify the extent to which special account may be taken of vehicles with very low CO<sub>2</sub> emissions when making the calculation specified in paragraph 1 letter b.
+<sup>3</sup> The Federal Council may set a flat-rate emission value to be used for the calculation of average CO<sub>2</sub> emissions as laid down in paragraph 1 letter b if the information is not submitted within a specified period. It shall determine the deadline for submitting the information and set the flat-rate emission value.
+
+<sup>4</sup> In the event of a change in the target values, the Federal Council may issue provisions that facilitate achievement of the individual target for a limited period of time. In doing so, it shall take account of European Union regulations. The facilitations for passenger cars shall not apply for longer than the corresponding facilitations in the European Union.
+
+[^12-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 13
 
 **Penalty for exceeding the individual target**
 
-<sup>1</sup> for the first gram of CO<sub>2</sub>/km over the individual target: between 5.00 and 8.00 francs,
+<sup>1</sup>
 
-for the second gram of CO<sub>2</sub>/km over the individual target: between 15.00 and 24.00 francs,
+If the average CO<sub>2</sub> emissions from an importer or manufacturer’s new vehicle fleet exceed the individual target, the manufacturer or the importer must pay the Confederation the following amount for each vehicle first used on the road in the relevant calendar year:
 
-for the third gram of CO<sub>2/</sub>km over the individual target: between 25.00 and 40.00 francs,
+- a. for a new fleet of passenger cars or vans and light articulated vehicles: for each gram of CO<sub>2</sub>/km that exceeds the individual target: between CHF 95 and CHF 152;
+- b.
 
-for the fourth and every further gram of CO<sub>2</sub>/km over the individual target: between 95.00 and 152.00 francs;
+  for a new fleet of heavy-duty vehicles: for each gram of CO<sub>2</sub> per tonne-kilometre that exceeds the individual target:
 
-If the average CO<sub>2</sub> emissions from the new vehicle fleet of an importer or manufacturer exceed the individual target, the manufacturer or the importer must pay the Confederation the following amounts for each vehicle registered for the first time in the relevant calendar year:
+  - 1\. in 2025–2029: between CHF 4,250 and CHF 6,800,
+  - 2 from 2030: between CHF 6,800 and CHF 10,880.[^13-1]
 
-- a. for 2013–2018:
+<sup>2</sup> The amounts in paragraph 1 shall be recalculated each year. The Federal Council shall regulate the method used for their calculation. It shall base its decision on the amounts applied in the European Union and the exchange rate. The Federal Department of the Environment, Transport, Energy and Communications shall calculate and publish the amounts before the start of the year concerned.
 
-- b. from 1 January 2019: for each gram of CO<sub>2</sub>/km over the individual target between 95.00 and 152.00 francs.
-
-<sup>2</sup> The amounts in paragraph 1 shall be re-calculated each year. The Federal Council shall regulate the method used for their calculation. It shall base its decision on the amounts applied in the European Union and the exchange rate. The calculation and publication of the amounts is carried out before the start of the year concerned by the Federal Department of the Environment, Transport, Energy and Communications.
-
-<sup>3</sup> For importers and manufacturers under Article 11 paragraph 4, the amounts in paragraphs 1 and 2 apply to each individual vehicle whose CO<sub>2</sub> emissions exceed the individual target. If certain provisions issued in accordance with Article 10*a* lead to a situation where importers and manufacturers under Article 11 paragraph 4 are prejudiced in comparison with other importers or manufacturers because of the special rules that apply to them on calculating the target, the Federal Council may reduce the sanction for those affected.
+<sup>3</sup> For importers and manufacturers under Article 11 paragraph 5, the amounts in paragraphs 1 and 2 apply to each individual vehicle whose CO<sub>2</sub> emissions exceed the individual target. If individual provisions issued based on Article 12 paragraph 4 lead to a situation where importers and manufacturers under Article 11 paragraph 5 are prejudiced in comparison with other importers or manufacturers because of the special rules that apply to them on calculating the target, the Federal Council may reduce the penalty for those affected.[^13-2]
 
 <sup>4</sup> The members of emissions pools are jointly and severally liable.
 
-<sup>5</sup> In addition, Articles 10 and 11 of the Mineral Oil Tax Act of 21 June 1996[^13-1] apply by analogy.
+<sup>5</sup> In addition, Articles 10 and 11 of the Mineral Oil Tax Act of 21 June 1996[^13-3] apply *mutatis mutandis*.
 
-<sup>6</sup> The Federal Council may provide that the sales documentation for vehicles indicates the amount which would have to be paid in accordance with paragraphs 1–3 if the sanction were fixed on the basis of the CO<sub>2</sub> emissions of the individual vehicle.
+<sup>6</sup> The Federal Council may provide that the sales documentation for vehicles indicates the amount which would have to be paid in accordance with paragraphs 1–3 if the penalty were fixed on the basis of the CO<sub>2</sub> emissions of the individual vehicle.
 
-[^13-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^13-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^13-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^13-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
-## Chapter 3 Sinks
+#### Art. 13a
+
+**Publication**[^13a-1]
+
+Each year, the Federal Department of the Environment, Transport, Energy and Communications shall publish:
+
+- a.
+
+  the names of the importers and manufacturers that have imported or manufactured at least:
+
+  - 1\. 50 passenger cars first used on the road in the year concerned,
+  - 2\. 6 vans and light articulated vehicles first used on the road in the year concerned, or
+  - 3\. 5 heavy-duty vehicles first used on the road in the year concerned;
+
+- b. the composition of the emissions pools in the year concerned;
+- c.
+
+  per importer and emissions pool per new vehicle fleet in the year concerned:
+
+  - 1\. the number of vehicles first used on the road,
+  - 2\. the average CO<sub>2</sub> emissions,
+  - 3\. the individual target,
+  - 4\. the penalties paid.
+
+[^13a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 13b
+
+**Reporting and applications for a further reduction of CO<sub>2</sub> emissions**[^13b-1]
+
+<sup>1</sup>
+
+The Federal Council shall report to the Federal Assembly on the achievement of the target values. It shall do so for the first time in the years specified below and every three years thereafter:
+
+- a. for passenger cars, vans and light articulated vehicles: in 2025;
+- b. for heavy-duty vehicles: in 2028.
+
+<sup>2</sup> The Federal Council shall create proposals for a further reduction in CO<sub>2</sub> emissions from vehicles for the period after 2030 and submit them to the Federal Assembly in good time. In doing so, it shall take account of European Union regulations.
+
+[^13b-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## Chapter 3 …
 
 #### Art. 14
 
-Timber used in construction may be counted as a carbon sink.
+[^14-1]
 
-## Chapter 4 Emissions Trading and Compensation
+[^14-1]: Repealed by No I of the FA of 15 March 2024, with effect from 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-### Section 1 Emissions Trading Scheme (ETS)
+## Chapter 4 Emissions Trading System and Emissions Trading Registry
+
+[^chap4-1]
+
+[^chap4-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 1 Emissions Trading System (ETS)
 
 #### Art. 15
 
 **Participation by application**[^15-1]
 
-<sup>1</sup> Operators of installations that belong to a specific category and which cause high or moderate greenhouse gas emissions may apply to participate in the ETS.
+<sup>1</sup> Operators of installations with a specific minimum total rated thermal input may participate in the ETS on application. The Federal Council shall specify the minimum total rated thermal input.
 
-<sup>2</sup> Each year the companies must surrender to the Confederation emission allowances corresponding to the emissions caused by these installations.[^15-2]
+<sup>2</sup> Each year, the operators must surrender to the Confederation emission allowances corresponding to the emissions caused by these installations.
 
 <sup>3</sup>
 
-The Federal Council shall determine the categories of installation. In doing so, it takes account of:
+The Federal Council may provide that no emission allowances need to be surrendered for emissions from the consumption of grid-bound natural gas if:
 
-- a. the correlation between the CO<sub>2</sub> levy burden and the value added by the installations in the relevant category;
-- b. the extent to which the CO<sub>2</sub> levy adversely affects the international competitiveness of the installations in the category concerned.
+- a. for the amount of natural gas consumed, renewable gas was produced abroad, procured and fed into the European grid;
+- b. no double counting occurs in relation to renewable gas;
+- c. offsetting to reduce greenhouse gas emissions occurs exclusively in Switzerland; and
+- d. the renewable gas fulfils the requirements of Article 35*d* EPA[^15-2].
 
-[^15-1]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^15-2]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^15-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^15-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 #### Art. 16
 
 **Obligation to participate: installation operators**[^16-1]
 
-<sup>1</sup> Operators of installations that belong to a specific category and which cause high greenhouse gas emissions are obliged to participate in the ETS.
+<sup>1</sup> Operators of installations that belong to a specific category and cause high greenhouse gas emissions are obliged to participate in the ETS.
 
-<sup>2</sup> Each year these companies must surrender to the Confederation emission allowances corresponding to the emissions caused by these installations.[^16-2]
+<sup>2</sup> Each year, the operators must surrender to the Confederation emission allowances corresponding to the emissions caused by these installations.[^16-2]
+
+<sup>2bis</sup> Article 15 paragraph 3 applies to emissions from the consumption of grid-bound natural gas.[^16-3]
 
 <sup>3</sup> The Federal Council shall determine the categories of installation.
 
 [^16-1]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^16-2]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16-2]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16-3]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 16a
 
@@ -300,24 +430,26 @@ The Federal Council shall determine the categories of installation. In doing so,
 The Federal Council shall regulate:
 
 - a. the exceptions for flights that are covered by an ETS recognised by the Federal Council;
-- b. the exceptions for flights that neither enter nor leave the European Economic Area (EEA), and further exceptions; in doing so, it shall give due consideration to the rules of the European Union.
+- b.[^16a-2] the exceptions for flights that neither enter nor leave the European Economic Area (EEA), and further exceptions; in doing so, it shall give due consideration to the regulations of the European Union.
 
-<sup>3</sup> Each year, operators must surrender the emission allowances to the Confederation corresponding to the emissions caused by the aircraft.[^16a-2]
+<sup>3</sup> Each year, the operators must surrender to the Confederation the emission allowances corresponding to the emissions caused by the aircraft.[^16a-3]
 
-<sup>4</sup> If based on international agreements there are two or more international systems for reducing greenhouse gas emissions from aircraft, the Federal Council shall ensure that the aircraft operators are not subject to more than one of these systems for greenhouse gas emissions from flights.
+<sup>4</sup> If, based on international agreements, there are two or more international systems available for reducing greenhouse gas emissions from aircraft, the Federal Council shall ensure that the aircraft operators are not subject to more than one of these systems for greenhouse gas emissions from flights.
 
 [^16a-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^16a-2]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16a-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^16a-3]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 17
 
 **Refund of the CO<sub>2</sub> levy**[^17-1]
 
-<sup>1</sup> Installation operators that participate in the ETS shall on application be refunded the CO<sub>2</sub> levy on thermal fuels.
+<sup>1</sup> Installation operators that participate in the ETS shall on application be refunded the CO<sub>2</sub> levy on fossil thermal fuels[^17-2].
 
-<sup>2</sup> In the case of fossil-thermal power plants, the levy is refunded only to the extent that the CO2 price exceeds a certain minimum price. The minimum price is equivalent to the average external costs minus the auction costs for the surrendered emission allowances.
+<sup>2</sup> In the case of fossil-thermal power plants, the levy shall be refunded only to the extent that the CO2 price exceeds a specific minimum price. The minimum price is equivalent to the average external costs minus the auction costs for the surrendered emission allowances.
 
 [^17-1]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^17-2]: Term in accordance with No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). This change has been made throughout the text.
 
 #### Art. 18
 
@@ -325,12 +457,14 @@ The Federal Council shall regulate:
 
 <sup>1</sup> The Federal Council shall determine in advance the quantity of emission allowances for installations and the quantity of emission allowances for aircraft to be made available each year; in doing so, it shall give due consideration to the reduction target in accordance with Article 3 and comparable international arrangements.[^18-2]
 
-<sup>2</sup> It may adjust the available quantity of emission allowances if it designates new categories of installation in accordance with Article 16 paragraph 3, retrospectively exempts categories of installation from the requirement to participate in the ETS, or if comparable international arrangements are modified.
+<sup>2</sup> The Federal Council may adjust the available quantity of emission allowances if it makes new categories of installations subject to the obligation to participate in the ETS, retrospectively exempts categories of installations from the obligation, or if comparable international regulations are amended.[^18-3]
 
-<sup>3</sup> It shall retain an appropriate quantity of emission allowances each year for installations and for aircraft in order to make these available to future ETS participants and fast-growing ETS participants.
+<sup>3</sup> The Federal Council may retain an appropriate quantity of emission allowances each year for installations and for aircraft in order to make these available to future or fast-growing ETS participants. In doing so, it shall take account of European Union regulations.[^18-4]
 
 [^18-1]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^18-2]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^18-2]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^18-3]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-4]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 19
 
@@ -338,51 +472,61 @@ The Federal Council shall regulate:
 
 <sup>1</sup> The emission allowances for installations are issued annually.
 
-<sup>2</sup> Some of the emission allowances are allocated free of charge. The other emission allowances are auctioned.
+<sup>2</sup> They are allocated or auctioned free of charge.
 
-<sup>3</sup> The quantity of emission allowances allocated free of charge to an installation operator is determined in particular by the greenhouse gas efficiency of reference installations.
+<sup>3</sup> The quantity of emission allowances allocated free of charge to an installation operator is determined in particular by the greenhouse gas efficiency of reference installations and resulting products.
 
-<sup>4</sup> Installation operators shall not be allocated emission allowances free of charge for the production of electricity. The Federal Council may provide for exceptions.
+<sup>4</sup> The Federal Council may provide for the quantity of emission allowances allocated in accordance with paragraph 3 to be reduced if the individual greenhouse gas efficiency of an operator’s installations is inadequate.
 
-<sup>5</sup> If the quantity of emission allowances available on the market increases considerably for economic reasons, the Federal Council may stipulate that only some of the remaining emission allowances be auctioned. The emission allowances that are not offered for auction and those that are not sold at auction shall be cancelled.
+<sup>5</sup> No emission allowances will be allocated free of charge for generation and use of electricity. The Federal Council may specify exceptions.
 
-<sup>6</sup> The Federal Council regulates the details; in doing so it shall give due consideration to comparable international arrangements.
+<sup>6</sup> If the quantity of emission allowances available on the market increases significantly for economic reasons, the Federal Council may stipulate that only a portion of the emission allowances not allocated free of charge are to be auctioned. Emission allowances that were not offered or sold at auction shall be cancelled.
 
-[^19-1]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+<sup>7</sup> If the quantity of emission allowances is not sufficient to fulfil all claims, the quantity of emission allowances to be allocated free of charge to individual operators shall be reduced proportionately. Emission allowances retained under Article 18 paragraph 3 may be used to limit the reduction to 5 per cent.
+
+<sup>8</sup> The Federal Council shall regulate the details; in doing so, it shall take account of European Union regulations.
+
+[^19-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 19a
 
 **Issuing emission allowances for aircraft**[^19a-1]
 
-<sup>1</sup> The emission allowances for aircraft are issued annually.
+<sup>1</sup> The emission allowances for aircraft shall be issued annually.
 
-<sup>2</sup> Some of the emission allowances are allocated free of charge. The other emission allowances are auctioned.
+<sup>2</sup> They shall be allocated free of charge or auctioned.
 
-<sup>3</sup> The quantity of emission allowances allocated free of charge to an aircraft operator is determined in particular by the tonne-kilometres flown in 2018.
+<sup>3</sup> The quantity of emission allowances allocated free of charge to an aircraft operator shall be determined in particular by the tonne-kilometres flown in a specific year determined by the Federal Council.
 
-<sup>4</sup> The Federal Council shall regulate the details; it shall give due consideration to the rules of the European Union.
+<sup>4</sup> From 2026, emission allowances will no longer be allocated free of charge. The Federal Council may specify exemptions for the consumption of renewable or low-emission aviation fuels.
 
-[^19a-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+<sup>5</sup> The Federal Council shall regulate the details; in doing so, it shall take account of European Union regulations.
+
+[^19a-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 20
 
 **Reporting**[^20-1]
 
-Installation operators and aircraft operators must submit annual greenhouse gas emission reports to the Confederation.
+<sup>1</sup> Installation operators and aircraft operators must submit annual greenhouse gas emission reports to the Confederation.
+
+<sup>2</sup> In each of these reports, aircraft operators must provide the Confederation with information on the assessment of the overall climate impact of flight operations. The Federal Council shall determine the information to be provided; in doing so, it shall take account of European Union regulations.[^20-2]
 
 [^20-1]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^20-2]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 21
 
 **Penalty for failure to surrender emission allowances**[^21-1]
 
-<sup>1</sup> Installation operators and aircraft operators must pay the Confederation the sum of 125 francs per tonne CO<sub>2</sub> equivalent (CO<sub>2</sub>eq) for emissions that are not covered by emission allowances.
+<sup>1</sup> Installation operators and aircraft operators must pay the Confederation the sum of CHF 125 per tonne of CO<sub>2</sub> equivalents (CO<sub>2</sub>eq) for emissions that are not covered by emission allowances.[^21-2]
 
-<sup>2</sup> Emission allowances due but not surrendered in any year must be surrendered to the Confederation in the following year.
+<sup>2</sup> Emission allowances due but not surrendered in any year must be surrendered to the Confederation the following year.
 
-[^21-1]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^21-1]: Amended by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^21-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-### Section 2 ...
+### Section 2 …
 
 #### Art. 22–25
 
@@ -390,47 +534,15 @@ Installation operators and aircraft operators must submit annual greenhouse gas 
 
 [^2225-1]: Repealed by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, with effect from 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
-### Section 3 Compensation in the case of Motor Fuels
+### Section 3 …
 
-#### Art. 26
+#### Art. 26–28
 
-**Principle**
+[^2628-1]
 
-<sup>1</sup> Any person who in accordance with the Mineral Oil Tax Act of 21 June 1996[^26-1] releases motor fuels for consumption must compensate for part of the CO<sub>2</sub> emissions that are attributable to the use of the motor fuels as energy source.
+[^2628-1]: Repealed by No I of the FA of 15 March 2024, with effect from 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-<sup>2</sup> The Federal Council, after consulting the sector, shall set the compensation rate at between 5 and 40 per cent based on the extent to which the reduction target specified in Article 3 or the development of CO<sub>2</sub> emissions from traffic has been achieved and decides on the extent of domestic compensation measures.[^26-2]
-
-<sup>3</sup> The permitted compensation surcharge on motor fuels amounts to a maximum of 5 centimes per litre.
-
-<sup>4</sup> The Federal Council may exempt the release for free circulation of minor quantities of motor fuel from the duty to provide compensation.
-
-[^26-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^26-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-
-#### Art. 27
-
-**Obligation to compensate**
-
-Persons liable to pay tax under the Mineral Oil Tax Act of 21 June 1996[^27-1] are obliged to compensate. They may agree to form compensation pools.
-
-[^27-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-
-#### Art. 28
-
-**Penalty for failure to compensate**
-
-<sup>1</sup> Any person who fails to fulfil an obligation to compensate must pay the Confederation the sum of 160 francs for each uncompensated tonne of CO<sub>2</sub>.
-
-<sup>2</sup>
-
-In addition, the following must be surrendered to the Confederation in the following year in the relevant amount:
-
-- a. for 2021: emission reduction certificates;
-- b. from 2022: emission allowances or international attestations.[^28-1]
-
-[^28-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-
-### Section 3*a***** Emissions Trading Register
+### Section 3*a* Emissions Trading Registry
 
 [^chap4-sec3a-1]
 
@@ -438,15 +550,118 @@ In addition, the following must be surrendered to the Confederation in the follo
 
 #### Art. 28a
 
-<sup>1</sup> The Confederation shall maintain a public emissions trading register. The register shall be used to keep records of and to conduct transactions in emission allowances, attestations and emission reduction certificates.
+<sup>1</sup> The Confederation shall maintain a public emissions trading registry. The registry shall be used to keep records of and to conduct transactions in emission allowances, attestations and emission reduction certificates.
 
-<sup>2</sup> Persons may only be entered in the emissions trading register if they have their registered office or are resident in Switzerland or in the EEA and hold a bank account in Switzerland or in the EEA. The Federal Council shall regulate any exceptions.
+<sup>2</sup> Persons may be entered in the emissions trading registry only if they have their registered office or are resident in Switzerland or the EEA and hold a bank account in Switzerland or the EEA. The Federal Council shall regulate any exceptions.
 
-<sup>3</sup> The Federal Council may stipulate that payments of money in connection with the auctioning of emission allowances may only be made via bank accounts in Switzerland or in the EEA.
+<sup>3</sup> The Federal Council may stipulate that payments of money in connection with the auctioning of emission allowances may only be made via bank accounts in Switzerland or the EEA.
+
+## Chapter 4*a* Measures relating to Fossil Motor Fuels
+
+[^chap4a-1]
+
+[^chap4a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 1 Obligation to Offset CO<sub>2</sub> Emissions from Fossil Fuels
+
+#### Art. 28b
+
+**Offsetting obligation**
+
+<sup>1</sup> Taxable persons in accordance with Article 9 of the Mineral Oil Tax Act of 21 June 1996[^28b-1] who release fossil motor fuels into free circulation must offset a part of the CO<sub>2</sub> emissions that are attributable to the use of the motor fuels as an energy source.
+
+<sup>2</sup> This does not apply to fossil motor fuels that are exempt from the mineral oil tax or subject to a preferential tax rate.
+
+<sup>3</sup> The Federal Council may exempt the release into free circulation of minor quantities of fossil motor fuels from the offsetting obligation.
+
+<sup>4</sup> Taxable persons may form pools in order to fulfil the offsetting obligation. The same rights and obligations apply to a pool as to an individual taxable person.
+
+[^28b-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+
+#### Art. 28c
+
+**Proportion of emissions to be offset and maximum offsetting surcharge**
+
+<sup>1</sup> The proportion of CO<sub>2</sub> emissions to be offset amounts to a minimum of 5 per cent and a maximum of 90 per cent.
+
+<sup>2</sup> The Federal Council shall determine the percentage in accordance with attainment of the reduction targets under Article 3 or the development of CO<sub>2</sub> emissions from transport and shall determine the proportion of the offsetting measures to be implemented in Switzerland. It shall consult the sector beforehand.
+
+<sup>3</sup> The offsetting surcharge on fossil motor fuels may not exceed 5 centimes per litre.
+
+#### Art. 28d
+
+**Reporting**
+
+Taxable persons must submit to the Confederation an annual report on their fulfilment of the offsetting obligation. In particular, the report shall provide information on:
+
+- a. the costs incurred due to offsetting CO<sub>2</sub> emissions;
+- b. the amount of the offsetting surcharge; and
+- c. the total quantities of renewable aviation fuels and renewable synthetic aviation fuels that were added to fossil aviation fuels subject to the mineral oil tax.
+
+#### Art. 28e
+
+**Penalties**
+
+Persons who fail to comply with the offsetting obligation in accordance with Article 28*b* paragraph 1 must fulfil the obligations specified below in the following year:
+
+- a. pay the Confederation an amount of CHF 160 for each tonne of CO<sub>2</sub> not offset; and
+- b. surrender to the Confederation a national or international attestation for each tonne of CO<sub>2</sub> not offset.
+
+### Section 2 Obligation to Provide and Blend Low-Emission, Renewable and Renewable Synthetic Motor Fuels
+
+#### Art. 28f
+
+**Obligations of aviation fuel suppliers, aerodrome operators and aircraft operators**
+
+<sup>1</sup> The obligations of aviation fuel suppliers, aerodrome operators and aircraft operators to provide and blend low-emission, renewable and renewable synthetic aviation fuels are governed by the European Union regulations for sustainable aviation, which are applicable in accordance with the Agreement of 21 June 1999[^28f-1] between the Swiss Confederation and the European Community on Air Transport.
+
+<sup>2</sup> The Federal Council shall determine the aerodromes at which the obligation to provide and blend low-emission, renewable and renewable synthetic motor fuels applies. In doing so, it shall take account of European Union regulations.
+
+[^28f-1]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+
+#### Art. 28g
+
+**Penalties**
+
+<sup>1</sup>
+
+If an aviation fuel supplier violates the blending obligation by not providing aircraft operators at aerodromes with the minimum proportion of low-emission, renewable or renewable synthetic aviation fuels in accordance with the quotas and deadlines applicable in the European Union, as laid down in Article 28*f* paragraph 2, it must:
+
+- a. pay an amount to the Confederation; and
+- b. supply the market during the subsequent reporting period with a quantity of the relevant fuel that corresponds to the shortfall. This is in addition to the usual quantities to be supplied.
+
+<sup>2</sup>
+
+The amount specified in paragraph 1 letter a shall correspond to twice the amount resulting from the multiplication of:
+
+- a. the difference between the annual average price of one tonne of fossil aviation fuel and the annual average price of one tonne of low-emission, renewable or renewable synthetic aviation fuel; and
+- b. the quantity of aviation fuels that does not comply with the applicable minimum proportions of low-emission, renewable or renewable synthetic aviation fuels in accordance with the quotas applicable in the European Union.
+
+<sup>3</sup>
+
+If an aviation fuel supplier provides inaccurate or misleading information on the properties and origin of the low-emission, renewable or renewable synthetic aviation fuels to be supplied, it must pay an amount to the Confederation. The amount shall correspond to twice the amount found by multiplying:
+
+- a. the difference between the annual average price of one tonne of fossil aviation fuel and the annual average price of one tonne of low-emission, renewable or renewable synthetic aviation fuel per tonne; and
+- b. the quantity of aviation fuels for which inaccurate or misleading information was provided.
+
+<sup>4</sup> If an aerodrome operator does not take the necessary measures in accordance with Article 28*f* paragraph 2 to provide aircraft operators with adequate access to the minimum quotas of low-emission, renewable and renewable synthetic aviation fuels, it must pay an amount to the Confederation. The amount shall be calculated by multiplying 50 centimes by the number of departures per year at the relevant aerodrome.
+
+<sup>5</sup>
+
+If an aircraft operator violates its refuelling obligations by fuelling less than 90 per cent of its annual aviation fuel needs at the designated aerodromes in the European Union or at the aerodromes referred to in Article 28*f* paragraph 2, it must pay an amount to the Confederation. The amount shall correspond to twice the amount found by multiplying:
+
+- a. the annual average price of one tonne of aviation fuel; and
+- b. the total quantity not fuelled in the year in question.
+
+<sup>6</sup> An aircraft operator may be exempted from paying the amount specified in paragraph 5 if it can prove that it violated its refuelling obligations due to exceptional and unforeseeable circumstances beyond its control, the effects of which could not have been avoided even if all reasonable measures had been taken.
+
+<sup>7</sup> European Union recommendations must be taken into account for the calculation of the annual average prices of fossil, low-emission, renewable and renewable synthetic aviation fuels.
+
+<sup>8</sup> The proceeds from the penalties laid down in this Article shall be used to promote renewable aviation fuels.
 
 ## Chapter 5 CO<sub>2</sub> Levy
 
-### Section 1 Imposition of the Levy****
+### Section 1 Imposition of the Levy
 
 [^chap5-sec1-1]
 
@@ -454,11 +669,11 @@ In addition, the following must be surrendered to the Confederation in the follo
 
 #### Art. 29
 
-**CO<sub>2</sub> levy on thermal fuels**
+**CO<sub>2</sub> levy on fossil thermal fuels**
 
-<sup>1</sup> The Confederation shall impose a CO<sub>2</sub> levy on the production, extraction and import of thermal fuels.
+<sup>1</sup> The Confederation shall impose a CO<sub>2</sub> levy on the production, extraction and import of fossil thermal fuels.
 
-<sup>2</sup> The rate of the levy amounts to 36 francs per tonne of CO<sub>2</sub>. The Federal Council may increase the rate to a maximum of 120 francs if the interim targets set for the thermal fuels in accordance with Article 3 are not met.
+<sup>2</sup> The levy rate shall be CHF 36 per tonne of CO<sub>2</sub>. The Federal Council may increase this to a maximum of CHF 120 if the interim targets set for fossil thermal fuels under Article 3 are not met.
 
 #### Art. 30
 
@@ -466,105 +681,98 @@ In addition, the following must be surrendered to the Confederation in the follo
 
 The following are liable to pay the levy:
 
-- a. levy on coal: persons required to declare imports under the Customs Act of 18 March 2005[^30-1] as well as domestic manufacturers and producers;
-- b. levy on other fossil fuels: persons liable to pay the mineral oil tax in accordance with the Mineral Oil Tax Act of 21 June 1996[^30-2].
+- a. for the levy on coal: persons required to declare imports in accordance with the Customs Act of 18 March 2005[^30-1] and manufacturers and producers in Switzerland[^30-2];
+- b. for the levy on other fossil fuels: taxable persons in accordance with the Mineral Oil Tax Act of 21 June 1996[^30-3].
 
-[^30-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^30-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^30-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^30-2]: Term in accordance with No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). This change has been made throughout the text.
+[^30-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
-### Section 2 Refund of the CO<sub>2</sub> Levy to Operators**** with an Obligation to reduce Greenhouse Gas Emissions****
+### Section 2 Refund of the CO<sub>2</sub> Levy to Operators with an Obligation to Reduce Greenhouse Gas Emissions
 
 [^chap5-sec2-1][^chap5-sec2-2]
 
-[^chap5-sec2-1]: Term in accordance with Annex para. 2 of the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems (Amendment of the CO<sub>2</sub> Act), in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). This amendment has been made in the provisions specified in the AS.
+[^chap5-sec2-1]: Term in accordance with Annex para. 2 to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems (Amendment of the CO<sub>2</sub> Act), in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 [^chap5-sec2-2]: Inserted by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 31
 
-**Obligation to reduce greenhouse gas emissions[^31-1]**
+**Reduction obligation**[^31-1]
 
-<sup>1</sup> Installation operators[^31-2] in certain economic sectors shall be refunded the CO<sub>2</sub> levy on application provided that they undertake to the Confederation to reduce greenhouse gas emissions by a specific amount by 2020 (reduction obligation) and to submit an annual report on their efforts.[^31-3]
-
-<sup>1bis</sup> The reduction obligations in paragraph 1 may be extended until the end of 2021 provided that the scope of the reduction is continued on a linear basis and a corresponding application is submitted by 31 May 2021.[^31-4]
-
-<sup>1ter</sup> The reduction obligations in accordance with paragraph 1<sup>bis</sup> may be extended until the end of 2024 provided that operators undertake to achieve a reduction of a specific amount in addition to that in paragraphs 1 and 1<sup>bis</sup> and submit a related application by a date specified by the Federal Council.[^31-5]
-
-<sup>1quater</sup> Operators in accordance with paragraph 1 that have not yet undertaken to meet a reduction obligation may also undertake to reduce their greenhouse gas emissions by a specific amount by the end of 2024.[^31-6]
+<sup>1</sup> Installation operators shall be refunded the CO<sub>2</sub> levy on application if they undertake to the Confederation to reduce greenhouse gas emissions by a specific amount by 2040 (reduction obligation).
 
 <sup>2</sup>
 
-The Federal Council shall designate the economic sectors. In doing so, it takes account of:
+A reduction obligation may be entered into if the following conditions are met:
 
-- a. the correlation between the CO<sub>2</sub> levy burden and the value added to the relevant economic sector;
-- b. the extent to which the CO<sub>2</sub> levy adversely affects the international competitiveness of the relevant economic sector.
+- a. the reduction obligation covers all installations at a specific site;
+- b. the installations are used for commercial or public-sector activities;
+- c. the operator has concluded a target agreement in accordance with Article 41 or 46 paragraph 2 of the Energy Act of 30 September 2016[^31-2] (EnA), which specify the greenhouse gas emissions and measures to reduce these emissions.
 
-<sup>3</sup>
+<sup>3</sup> The reduction obligation applies until the end of 2040 and contains target values for the periods 2025–2030 and 2031–2040.
 
-The scope of the reduction obligation is determined in particular by:[^31-7]
+<sup>4</sup> Operators may form pools in order to fulfil their reduction obligation. The same rights and obligations apply to a pool as to an individual operator.
 
-- a. the average greenhouse gas emissions allowed for the years 2008–2012;
-- b. the reduction target in accordance with Article 3.
+<sup>5</sup> The Federal Council may provide for consumption of grid-bound natural gas to be counted towards fulfilment of the reduction obligation if the requirements under Article 15 paragraph 3 are met.
 
-<sup>4</sup>
-
-The Federal Council shall determine the extent to which operators may fulfil their reduction obligation:
-
-- a. by 2021: by surrendering emission reduction certificates;
-- b. from 2022: by surrendering emission allowances.[^31-8]
-
-<sup>5</sup> At the operator’s request, the Confederation may also take account of emission reductions achieved through product improvements outside the operator's own production plants.
-
-<sup>6</sup> The Federal Council may decide not to issue a refund if the cost of doing so is unreasonable given the amount involved.
-
-[^31-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-2]: Term in accordance with Annex para. 1 of the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems (Amendment of the CO<sub>2</sub> Act), in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). This amendment has been made in the provisions specified in the AS.
-[^31-3]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-4]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^31-5]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^31-6]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^31-7]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-8]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^31-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 31a
 
-**CHP plant operators with a reduction obligation[^31a-2]**[^31a-1]
+**Reporting and decarbonisation plan**[^31a-1]
+
+Operators with a reduction obligation must:
+
+- a. report annually to the Confederation on compliance with the target agreement;
+- b. submit a plan to the Confederation within three years of the start of the reduction obligation in which they show the measures they will take to significantly reduce greenhouse gas emissions from the use of fossil thermal fuels for energy by the end of 2040 at the latest (decarbonisation plan). They must update this plan every three years.
+
+[^31a-1]: Inserted by Annex No II 2 of the Energy Act of 30 Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 31b
+
+**Early termination of the reduction obligation**[^31b-1]
 
 <sup>1</sup>
 
-The reduction obligation shall on application be adjusted for operators that:
+Operators with a reduction obligation may apply for the early termination of their obligation with effect from the following dates:
 
-- a. run a CHP plant that meets the requirements of Article 32*a*; and
-- b. produce electricity in an excess volume determined by the Federal Council in comparison with the reference year 2012 that is used outside the plant[^31a-3].
+- a. 31 December 2030; or
+- b. the end of the calendar year in which they stop using fossil thermal fuels for energy in their regular operations.
 
-<sup>2</sup> 40 per cent of the CO<sub>2</sub> levy on thermal fuels that are verifiably used to produce electricity in accordance with paragraph 1 shall in this case only be refunded if the operator concerned demonstrates to the Confederation that it has taken measures to the extent of these funds to increase its own energy efficiency or the energy efficiency of installations[^31a-4] that obtain electricity or heat from the CHP plant.
+<sup>2</sup> The reduction obligation shall also be terminated early if the operator does not submit a decarbonisation plan or no longer has a target agreement in place.
 
-<sup>3</sup>
+<sup>3</sup> Operators that terminate their reduction obligation early may no longer enter into new reduction obligations.
 
-The Federal Council shall regulate the details, in particular:
+[^31b-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-- a. the efficiency measures that give rise to a refund;
-- b. the period within which efficiency measures must be taken; and
-- c. reporting.
+#### Art. 31c
 
-<sup>4</sup> Levy payments that are not refunded due to a failure to meet the requirements in paragraph 2 shall be redistributed to the general public and the business community in accordance with Article 36.
+[^31c-1]
 
-[^31a-1]: Inserted by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31a-2]: Amended by Annex para. 3 of the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^31a-3]: Term in accordance with Annex para. 4 of the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^31a-4]: Term in accordance with Annex para. 5 of the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). This amendment has been made in the provisions specified in the AS.
+The Federal Council shall regulate:
+
+- a. the requirements for reduction obligations and decarbonisation plans;
+- b. the cases in which an activity shall be deemed an economic activity;
+- c. the public-sector activities that shall entitle operators to enter into a reduction obligation;
+- d. the type and scope of the target values;
+- e. the cases in which operators of installations with lower greenhouse gas emissions may determine the scope of their reduction obligation using a simplified model;
+- f. the cases in which and extent to which the reduction obligation may be fulfilled by submitting national or international attestations.
+
+[^31c-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 32
 
-**Penalty for failure to meet the commitment**
+**Penalties**[^32-1]
 
-<sup>1</sup> Operators specified in Article 31 that do not meet their reduction obligation to the Confederation must pay the Confederation the sum of 125 francs for each excess tonne of CO<sub>2</sub>eq emitted.[^32-1]
+Operators with a reduction obligation who fail to meet their target values must fulfil the following requirements in the subsequent year:
 
-<sup>2</sup> For the excess tonnes CO<sub>2</sub>eq emitted, emission allowances must be surrendered to the Confederation in the following year.[^32-2]
+- a. pay the Confederation an amount of CHF 125 for each excess tonne of CO<sub>2</sub>eq emitted; and
+- b. surrender to the Confederation a national or international attestation for each excess tonne of CO<sub>2</sub>eq emitted.
 
-[^32-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^32-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^32-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-### Section 3**** Refund of the CO<sub>2</sub> levy to CHP Plant Operators that neither participate in the ETS nor are subject to a Reduction Obligation
+### Section 3 Refund of the CO<sub>2</sub> Levy to CHP Plant Operators that neither participate in the ETS nor have entered into a Reduction Obligation
 
 [^chap5-sec3-1]
 
@@ -572,28 +780,48 @@ The Federal Council shall regulate the details, in particular:
 
 #### Art. 32a
 
-**Eligible CHP plant operators**
+**CHP plant operators**[^32a-1]
 
 <sup>1</sup>
 
-Operators of CHP plants that neither participate in the ETS nor are subject to a reduction obligation shall be partially refunded the CO<sub>2</sub> levy in accordance with Article 32*b* provided the plant:
+CHP plant operators that neither participate in the ETS nor have entered into a reduction obligation shall have the CO<sub>2</sub> levy fully or partially refunded upon request if the plant:
 
-- a. is primarily designed to produce heat;
-- b. meets the minimum energy, ecological or other requirements*.*
+- a. is designed primarily to generate heat;
+- b. has a rated thermal input within a specific range; and
+- c. meets the minimum energy, environmental and other requirements.
 
-<sup>2</sup> The Federal Council shall specify the performance limits and the minimum requirements.
+<sup>2</sup>
+
+Operators to whom the CO<sub>2</sub> levy is refunded must report regularly to the Confederation on:
+
+- a. the quantity of fossil thermal fuels used to generate electricity; and
+- b. the costs of measures to increase energy efficiency.
+
+<sup>3</sup> The Federal Council may specify further details to be provided if this is necessary to assess the refund.
+
+<sup>4</sup> It shall specify the minimum requirements for CHP plants and the required range for their rated thermal input.
+
+[^32a-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 32b
 
-**Amount of and requirements for the partial refund**
+**Refund amount**[^32b-1]
 
-<sup>1</sup> On application, in each case 60 per cent of the CO<sub>2</sub> levy on thermal fuels that are verifiably used to produce electricity shall be refunded.
+<sup>1</sup> Operators shall receive a refund of 60 per cent of the CO<sub>2</sub> levy on fossil thermal fuels that they can prove have been used to generate electricity.
 
-<sup>2</sup> The remaining 40 per cent shall be refunded only if the operator demonstrates to the Confederation that it has taken measures to the extent of these funds to increase its own energy efficiency or the energy efficiency of installations that obtain electricity or heat from the CHP plant.
+<sup>2</sup> The remaining 40 per cent shall be refunded if the operator can prove that it has taken measures to increase its energy efficiency to an equivalent amount, either at its own installations or at other installations that draw electricity or heat from the installation (efficiency measures).
 
-<sup>3</sup> The Federal Council shall regulate the details in an analogous procedure to Article 31*a* paragraph 3. Article 31*a* paragraph 4 applies to levy payments that are ineligible for refunding.
+<sup>3</sup>
 
-### Section 4**** Refund of the CO<sub>2</sub> levy for Non-Energy-Related Uses
+The Federal Council shall regulate the details, in particular:
+
+- a. the efficiency measures that shall entitle operators to a refund;
+- b. the deadline by which the efficiency measures must be taken;
+- c. the report that must be submitted.
+
+[^32b-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 4 Refund of the CO<sub>2</sub> Levy for Non-Energy-Related Uses
 
 [^chap5-sec4-1]
 
@@ -601,9 +829,9 @@ Operators of CHP plants that neither participate in the ETS nor are subject to a
 
 #### Art. 32c
 
-Persons that demonstrate that they have used thermal fuels but not to produce energy shall on application be refunded the CO<sub>2</sub> levy on these thermal fuels.
+Persons who can prove that they have not used fossil thermal fuels as a source of energy shall be refunded the CO<sub>2</sub> levy on these fossil thermal fuels on request.
 
-### Section 5 Procedure****
+### Section 5 Procedure
 
 [^chap5-sec5-1]
 
@@ -611,81 +839,176 @@ Persons that demonstrate that they have used thermal fuels but not to produce en
 
 #### Art. 33
 
-**...[^33-1]**
+**…[^33-1]**
 
-<sup>1</sup> The procedural provisions of the mineral oil tax legislation apply to the collection and refund of the CO<sub>2</sub> levy, subject to paragraph 2.
+<sup>1</sup> The procedural provisions of the Mineral Oil Tax Act apply to the imposition and refund of the CO<sub>2</sub> levy. Paragraph 2 is reserved.
 
-<sup>2</sup> The procedural provisions of the customs legislation apply to the import and export of coal.
+<sup>2</sup> The procedural provisions of the Customs Act apply to the import and export of coal.
 
 [^33-1]: Repealed by Annex No II 2 of the Energy Act of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
-## Chapter 6 Use of the Revenues
+## Chapter 6 Use of Revenues
+
+#### Art. 33a
+
+**Principles**[^33a-1]
+
+<sup>1</sup> One third of the revenue from the CO<sub>2</sub> levy shall be used to reduce CO<sub>2</sub> emissions from buildings, promote renewable energies and promote technologies designed to reduce greenhouse gases (Art. 34‒35).
+
+<sup>2</sup> The amount of earmarked funds that have not been used by the end of an accounting year may not exceed CHF 150 million.
+
+<sup>3</sup> Unused funds under paragraph 2 may be used in subsequent years in addition to the subsidies under Articles 34 and 34*a* to reduce CO<sub>2</sub> emissions in buildings and promote renewable energies.
+
+[^33a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 34
 
 **Reduction of CO<sub>2</sub> emissions from buildings**[^34-1]
 
-<sup>1</sup> A third of the revenue from the CO<sub>2</sub> levy, but no more than 450 million francs per year, shall be used to finance measures to reduce long-term CO<sub>2</sub> emissions from buildings including the reduction of electricity consumption in the winter half year. For this purpose, the Confederation shall grant the cantons global financial assistance in accordance with Articles 47, 48 and 50 of the Energy Act of 30 September 2016[^34-2] (EnA).
+<sup>1</sup> Subject to Articles 34*a* and 35, the subsidies referred to in Article 33*a* paragraph 1 shall be used to finance measures for the long-term reduction of CO<sub>2</sub> emissions from buildings, including the reduction of electricity consumption in the winter months. In doing so, the CO<sub>2</sub> balance of the building materials used shall be taken into account.
 
-<sup>2</sup> In order to reduce CO<sub>2</sub> emissions from buildings in the long term, the Confederation shall support projects for the direct use of geothermal energy for providing heat. It shall use a small percentage of the funds mentioned in paragraph 1, but no more than 30 million francs. The Federal Council shall specify the criteria for and the details of the support as well as the maximum annual amount of financial assistance.
+<sup>2</sup>
 
-<sup>3</sup>
+To this end, the Confederation shall grant the cantons global financial assistance for support measures in accordance with Articles 47, 48 and 50 EnA[^34-2]. Global financial assistance shall be paid in accordance with Article 52 EnA, subject to the following special requirements:
 
-The payment of the global financial assistance shall be made in accordance with Article 52 EnA subject to the following special regulations:
+- a. global financial assistance shall be paid only to cantons that have programmes to support energy-related upgrades to building shells and building technology and to replace existing electrical resistance or fossil-fuelled heating systems, thereby guaranteeing harmonised implementation.
+- b. global financial assistance shall be divided into a basic contribution per resident and a supplementary contribution. The basic contribution per resident shall amount to a maximum of 30 per cent of the available funds. The supplementary contribution may not exceed twice the annual credit approved by the canton for the implementation of its programme.
 
-- a. In addition to the requirements of Article 52 EnA, global financial assistance shall only be paid to cantons that have programmes supporting the energy-related upgrading of building shells and building technology as well as the replacement of existing electrical resistance heating or oil heating systems, thereby guaranteeing harmonised implementation.
-- b. In derogation from Article 52 paragraph 1 EnA, the global financial assistance shall be divided into a basic contribution per resident and a supplementary contribution. The basic contribution per resident amounts to a maximum of 30 per cent of the available funds. The supplementary contribution may not be higher than double the annual credit approved by the canton for carrying out its programme.
+<sup>3</sup> The Federal Council shall regulate the details.
 
-<sup>4</sup> If the funds available in accordance with paragraph 1 are not exhausted, they will redistributed to the general public and the business community in accordance with Article 36.
+[^34-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^34-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
-[^34-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^34-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+#### Art. 34a
+
+**Promotion of renewable energies**[^34a-1]
+
+<sup>1</sup>
+
+Of the subsidies referred to in Article 33*a* paragraph 1, the Confederation may use a maximum of CHF 45 million per year to promote:
+
+- a. projects for direct use of geothermal energy in order to provide heating;
+- b. development of indirectly exploitable hydrothermal resources, if use in accordance with letter a is not possible after the first exploration well;
+- c. communal and cross-communal spatial energy planning for the use of renewable energies and waste heat;
+- d. new installations and significant extensions to the infrastructure of existing installations that produce renewable gases, primarily those that feed gas into the grid;
+- e. installations that use solar thermal energy for process heat.
+
+<sup>2</sup> Funds to promote projects under paragraph 1 letter b may be granted until the end of 2030, and funds to promote projects under paragraph 1 letter c may be granted until the end of 2035.
+
+<sup>3</sup> The Federal Council shall govern the conditions for granting and calculating subsidies.
+
+[^34a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 35
 
-**Promotion of technologies for reducing greenhouse gases**
+**Promotion of technologies to reduce greenhouse gases**
 
-<sup>1</sup> A maximum of 25 million francs per annum is allocated from CO<sub>2</sub> levy revenues to the Technology Fund in order to finance loan guarantees.
+<sup>1</sup> A maximum of CHF 25 million per year of the funds referred to in Article 33*a* paragraph 1 shall be allocated to the Technology Fund in order to finance loan guarantees.[^35-1]
 
-<sup>2</sup> The Technology Fund is managed by the Federal Department of the Environment, Transport, Energy and Communications.
+<sup>2</sup> The Technology Fund shall be managed by the Federal Department of the Environment, Transport, Energy and Communications.
 
 <sup>3</sup>
 
-The money in the Technology Fund is used by the Confederation to guarantee loans to companies for developing and marketing equipment and processes to:
+The money in the Technology Fund shall be used by the Confederation to guarantee loans to companies for developing and marketing equipment and processes to:
 
 - a. reduce greenhouse gas emissions;
 - b. facilitate the use of renewable energies; or
 - c. encourage the economical use of natural resources.
 
-<sup>4</sup> The loan guarantees are granted for a maximum term of 10 years.
+<sup>4</sup> The loan guarantees shall be granted for a maximum term of 10 years.
+
+[^35-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 36
 
 **Distribution to the public and to the private sector**
 
-<sup>1</sup> The remaining revenue from the CO<sub>2</sub> levy is redistributed to the general public and the business community in proportion to their original payments.
+<sup>1</sup>
 
-<sup>2</sup> The portion due to the public is distributed uniformly to all natural persons. The Federal Council regulates the details and procedure for distribution. It may commission the cantons, public corporations or private individuals to carry out the distribution in return for appropriate remuneration.
+The following funds shall be paid out to the general public and the business community in proportion to their original payments:
 
-<sup>3</sup> The portion due to the business community is distributed to employers via the compensation funds of the Federal Old Age and Survivors’ Insurance (Art. 5 FA of 20 Dec. 1946[^36-1] on the Old Age and Survivors Insurance; OASIA) in proportion to the employees’ qualifying salary for OASI. The compensation offices receive appropriate remuneration for this task.
+- a. the revenue from the CO<sub>2</sub> levy that is not refunded because the conditions under Article 32*b* have not been met;
+- b. the part of the revenue from the CO<sub>2</sub> levy that is not used to reduce CO<sub>2</sub> emissions from buildings, promote renewable energies and promote technologies designed to reduce greenhouse gases;
+- c. the funds that exceed the amount of CHF 150 million as laid down in Article 33*a* paragraph 2; and
+- d. the funds that were not used in accordance with Article 33*a* paragraph 3; payment shall be made every five years.[^36-1]
 
-[^36-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+<sup>2</sup> The portion due to the general public shall be distributed uniformly to all natural persons. The Federal Council shall regulate the details and procedure for distribution. It may instruct the cantons, public corporations or private individuals to carry out the distribution in return for appropriate remuneration.
+
+<sup>3</sup> The portion due to the business community shall be distributed to employers via the Old Age and Survivors’ Insurance compensation funds. The distribution shall be based on the total salary for which the employer pays unemployment insurance contributions in accordance with Article 3 of the Unemployment Insurance Act of 25 June 1982[^36-2]. The compensation funds shall receive appropriate remuneration for this task.[^36-3]
+
+<sup>4</sup> Operators who are subject to a reduction obligation shall not receive a share of the revenue from the CO<sub>2</sub> levy.[^36-4]
+
+[^36-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-3]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-4]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 37
 
 **Allocation of penalty revenues to the infrastructure fund**[^37-1]
 
-The revenues from the penalty under Article 13 is allocated to the National Highways and Suburban Transport Fund.
+The revenues from the penalty under Article 13 shall be allocated to the National Highways and Suburban Transport Fund.
 
 [^37-1]: Amended by Annex No II 2 of the FA of 30 Sept. 2016 on the National Highways and Suburban Transport Fund, in force since 1 Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
+#### Art. 37a
+
+**Measures to promote long-distance cross-border passenger rail transport and to reduce greenhouse gas emissions in aviation**[^37a-1]
+
+<sup>1</sup>
+
+The proceeds from the auctioning of aircraft emission allowances shall be used for:
+
+- a. measures to promote long-distance cross-border passenger rail transport, and in particular to promote night trains; and
+- b. measures to reduce greenhouse gas emissions in aviation, and in particular to develop and produce renewable synthetic aviation fuels.
+
+<sup>2</sup> A maximum of CHF 30 million per year until the end of 2030 shall be used for the measures referred to in paragraph 1 letter a. Remaining proceeds may be used for the measures referred to in paragraph 1 letter b.
+
+<sup>3</sup> Unused funds may be used in subsequent years.
+
+<sup>4</sup>
+
+Financial assistance for the measures referred to in paragraph 1 letter a shall be used in particular to promote services that are cost-effective in terms of reducing greenhouse gas emissions. Funding shall be granted subject to the following conditions:
+
+- a. the service shall be provided for several years;
+- b. existing services shall be made more appealing to passengers.
+
+<sup>5</sup> Financial assistance for the measures referred to in paragraph 1 letter b shall amount to no more than 60 per cent of the allowable costs. In exceptional cases, financial assistance may be increased to 70 per cent of the allowable costs. Exemptions shall be granted based on the special interest that the measures in question represent for the Confederation and the cost-benefit ratio.
+
+<sup>6</sup> The Federal Council shall govern the conditions for granting and calculating subsidies.
+
+[^37a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 37b
+
+**Measures to prevent damage and decarbonise installations in the emissions trading system**[^37b-1]
+
+<sup>1</sup>
+
+The proceeds from the auctioning of installation allowances shall be used for:
+
+- a. measures to prevent damage to persons or property of considerable value that may occur due to increased greenhouse gas concentrations in the atmosphere; and
+- b. measures applied to the installations referred to in Article 16 that contribute significantly to their decarbonisation.
+
+<sup>2</sup> The proceeds from the penalties laid down in Article 28*e* shall be used for the measures referred to in paragraph 1 letter a.
+
+<sup>3</sup> Unused funds may be used in subsequent years.
+
+<sup>4</sup> Financial assistance for measures applied to the installations referred to in paragraph 1 shall amount to no more than 50 per cent of the allowable costs.
+
+<sup>5</sup> The Federal Council shall govern the conditions for granting and calculating subsidies; in doing so, it shall take account of any possible leakage of greenhouse gas emissions abroad.
+
+[^37b-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 38
 
-**Calculation of revenues**
+**Calculation of the revenue from the CO<sub>2</sub> levy**[^38-1]
 
-The revenues are calculated by deducting the implementation costs from the income including interest.
+The revenue from the CO<sub>2</sub> levy shall be calculated by deducting the implementation costs from the income.
 
-## Chapter 7 Implementation, Procedures and Promotion****
+[^38-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## Chapter 7 Enforcement, Procedures and Promotion
 
 [^chap7-1]
 
@@ -706,15 +1029,21 @@ In order to implement international agreements on the linking of emissions tradi
 
 <sup>2</sup> For specific tasks, the Federal Council may call on the services of the cantons or private organisations.
 
-<sup>3</sup> It regulates the sanctions procedure.
+<sup>3</sup> It shall regulate the penalties procedure.
 
-<sup>4</sup> The Federal Office for the Environment (FOEN) is responsible for the assessment of matters relating to climate protection.[^39-2]
+<sup>3bis</sup> It may provide for a system to record and track CO<sub>2</sub> captured at source or extracted from the atmosphere.[^39-2]
 
-<sup>5</sup> It shall issue regulations on the form of applications, notifications and reports. It may order the use of electronic data processing. In such an event, it shall specify requirements in particular for the interoperability of the IT systems and for data security.[^39-3]
+<sup>4</sup> The Federal Office for the Environment (FOEN) shall be responsible for the assessment of matters relating to climate protection.[^39-3]
+
+<sup>4bis</sup> It may provide principles and standards for determining the climate impact of companies and products.[^39-4]
+
+<sup>5</sup> It shall issue regulations on the form of applications, notifications and reports. It may order the use of electronic data processing. In such an event, it shall specify requirements in particular for the interoperability of the IT systems and for data security.[^39-5]
 
 [^39-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^39-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^39-3]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^39-2]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^39-3]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^39-4]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^39-5]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 40
 
@@ -722,22 +1051,25 @@ In order to implement international agreements on the linking of emissions tradi
 
 <sup>1</sup>
 
-The Federal Council periodically evaluates:
+The Federal Council shall regularly evaluate:[^40-1]
 
-- a. the effectiveness of the measures under this Act;
+- a.[^40-2] the effectiveness and efficiency of the measures under this Act;
 - b. the necessity of additional measures.
 
-<sup>2</sup> In doing so, it also considers climate-relevant factors such as demographic, economic and traffic growth.
+<sup>2</sup> In doing so, it shall also consider climate-relevant factors such as demographic, economic and traffic growth.
 
-<sup>3</sup> It bases its assessment on statistical surveys.
+<sup>3</sup> It shall base its evaluation on statistical surveys.
 
-<sup>4</sup> It submits regular reports to the Federal Assembly.
+<sup>4</sup> It shall submit regular reports to the Federal Assembly.
+
+[^40-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 40a
 
 **Requirement to provide information**[^40a-1]
 
-<sup>1</sup> The federal authorities are entitled to receive the information they require to implement this Act.
+<sup>1</sup> The federal authorities shall be provided with the information they require to implement this Act.
 
 <sup>2</sup>
 
@@ -756,15 +1088,15 @@ The following are required to provide information in particular:
 
 #### Art. 40b
 
-**Processing of personal data**[^40b-1]
+**Processing and disclosure of personal data and data relating to legal entities**[^40b-1]
 
-<sup>1</sup> The competent federal authorities may process personal data for the purposes of this Act, including sensitive data on administrative or criminal prosecutions and sanctions.
+<sup>1</sup> For the purposes of this Act, the competent federal authorities may process and disclose personal data and data relating to legal entities, including sensitive personal data.
 
-<sup>2</sup> They may store the data electronically.
+<sup>2</sup> They may store this data electronically.
 
-<sup>3</sup> The Federal Council shall determine the categories of personal data that may be processed and the length of time they may be stored.
+<sup>3</sup> The Federal Council shall determine the categories of personal data and data relating to legal entities that may be processed and disclosed and the length of time they may be stored.
 
-[^40b-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^40b-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 40c
 
@@ -772,35 +1104,73 @@ The following are required to provide information in particular:
 
 <sup>1</sup> The FOEN shall operate information and documentation systems in order to conduct procedures under this Act electronically. The Federal Council shall specify which procedures are to be conducted electronically.
 
-<sup>2</sup> The FOEN shall ensure the authenticity and integrity of the data transmitted in procedures that are conducted electronically.
+<sup>2</sup> The FOEN shall ensure the authenticity and integrity of the data in electronic procedures.
 
-<sup>3</sup> The competent federal authorities, when submitting documents electronically that must by law be signed may recognise another electronic confirmation of the information by the person involved in the procedure concerned instead of a qualified electronic signature.
+<sup>3</sup> The competent federal authorities, when submitting documents electronically that must by law be signed, may recognise another electronic confirmation of the information by the person involved in the procedure concerned instead of a qualified electronic signature.
 
 <sup>4</sup>
 
 The FOEN may grant the following bodies and persons access to the information and documentation systems:
 
-- a. the Swiss Federal Office of Energy;
+- a.[^40c-2] the SFOE;
 - b. the Federal Social Insurance Office;
 - c. the Federal Office of Civil Aviation;
 - d. the Federal Office for Customs and Border Security (FOCBS);
+- d<sup>bis</sup>.[^40c-3] the Federal Office of Topography;
 - e. private organisations under Article 39 paragraph 2;
 - f. applicants, persons required to report and operators under this Act;
 - g. approved validators and verifiers;
 - h. inspection centres authorised by the FOEN;
 - i. other bodies or persons designated by the Federal Council, provided this is required to fulfil duties and obligations under this Act.
 
-<sup>5</sup> The bodies and person mentioned in paragraph 4 may retrieve and process personal data from the information and documentation systems including sensitive person data about administrative or criminal prosecutions and penalties, provided this is necessary in order to fulfil their duties and obligations under this Act.
+<sup>5</sup> The bodies and person mentioned in paragraph 4 may retrieve and process personal data from the information and documentation systems, including sensitive personal data about administrative or criminal prosecutions and penalties, provided this is necessary in order to fulfil their duties and obligations under this Act.
 
 [^40c-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^40c-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40c-3]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 40d
+
+**Review of climate-related financial risks**[^40d-1]
+
+<sup>1</sup> The Swiss Financial Market Supervisory Authority (FINMA) shall regularly review the climate-related financial risks for supervised institutions in accordance with Article 3 letter a of the Financial Market Supervision Act of 22 June 2007[^40d-2].
+
+<sup>2</sup> The Swiss National Bank (SNB) shall regularly review the climate-related financial risks to the stability of the financial system.
+
+<sup>3</sup> FINMA and the SNB shall each regularly publish a report on the results and any measures taken.
+
+[^40d-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40d-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 41
 
-**Basic and advanced training**
+**Basic and continuing education and training and information**[^41-1]
 
-<sup>1</sup> The Confederation, in cooperation with the cantons, promotes the basic and advanced training of persons assigned duties under this Act.
+<sup>1</sup> The Confederation may provide a maximum of CHF 5 million per year in support of basic and continuing education and training programmes that focus on climate protection in the workplace and in support of platforms and other public relations activities in the field of climate protection. The Federal Council shall govern the conditions for granting and calculating subsidies.
 
-<sup>2</sup> The authorities inform the general public about precautionary measures relating to climate protection and advise communes, companies and consumers on measures to reduce CO<sub>2</sub> emissions.
+<sup>2</sup> The competent authorities shall inform the general public and advise communes, companies and consumers on climate protection.
+
+[^41-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 41a
+
+**Promotion of electric drive technologies**[^41a-1]
+
+<sup>1</sup> In the licensed passenger transport sector, the Confederation shall provide financial assistance of up to CHF 47 million per year until 2030 for the procurement of electric drive vehicles and conversion of ships to electric drive systems.
+
+<sup>2</sup>
+
+The financial assistance shall cover the costs to the following extent:
+
+- a. for road vehicles used in regional passenger transport services ordered jointly by the Confederation and the cantons: 75 per cent of the additional investment costs after deduction of all subsidies;
+- b. for road vehicles used in local transport services and other licensed transport services: 30 per cent of the additional investment costs after deduction of all subsidies;
+- c. in licensed shipping: 30 per cent of the additional investment costs or the costs incurred for converting ships to electric drive systems, after deduction of all subsidies.
+
+<sup>3</sup> The Federal Office of Transport (FOT) shall determine the additional investment costs per vehicle type once a year on a flat-rate basis. In the case of ships, the FOT shall determine these costs separately for each ship.
+
+<sup>4</sup> The Federal Council shall govern the conditions for granting and calculating financial assistance.
+
+[^41a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Chapter 8 Criminal Provisions
 
@@ -808,11 +1178,11 @@ The FOEN may grant the following bodies and persons access to the information an
 
 **Evasion of the CO<sub>2</sub> levy**
 
-<sup>1</sup> Any person who wilfully obtains for himself or for another an unlawful advantage with regard to the levy , in particular by evading the CO<sub>2</sub> levy or by obtaining an unlawful exemption from or distribution or refund of the levy, shall be liable to a fine not exceeding three times the amount of the unlawful advantage.
+<sup>1</sup> Any person who wilfully obtains for him- or herself or for another person an unlawful advantage with regard to the levy, in particular by evading the CO<sub>2</sub> levy or by obtaining an unlawful exemption from or distribution or refund of the levy, shall be liable to a fine not exceeding three times the amount of the unlawful advantage.
 
-<sup>2</sup> Attempts and complicity are offences.
+<sup>2</sup> Attempts and complicity are also offences.
 
-<sup>3</sup> Any person who obtains for himself or for another an unlawful advantage with regard to the levy through negligence shall be liable to a fine not exceeding the amount of the unlawful advantage.
+<sup>3</sup> Any person who obtains for him- or herself or for another person an unlawful advantage with regard to the levy through negligence shall be liable to a fine not exceeding the amount of the unlawful advantage.
 
 #### Art. 43
 
@@ -823,23 +1193,39 @@ The FOEN may grant the following bodies and persons access to the information an
 Unless the offence carries a higher penalty under another provision, a fine may be imposed on any person who, whether wilfully or through negligence:
 
 - a. unlawfully fails to register as a person liable to pay the levy;
-- b. fails to keep, prepare, retain or file accounts, receipts, business documents and other required records in the proper manner, or fails to comply with his duty to provide information;
+- b. fails to keep, prepare, retain or file accounts, receipts, business documents and other required records in the proper manner, or fails to comply with his or her duty to provide information;
 - c. in an application for an exemption from, or distribution or refund of the levy, or in its capacity as a legal entity obliged to provide information, makes untrue statements, conceals important facts or presents false documentary evidence about such facts;
 - d. fails to declare data or objects relevant for the levy, or declares them incorrectly;
 - e. declares in invoices or other documents a CO<sub>2</sub> levy that has not been paid or that has not been paid to the extent declared; or
 - f. obstructs, impedes or prevents the proper conduct of an inspection.
 
-<sup>2</sup> In serious cases, or in the event of a subsequent offence, a fine of up to 30,000 francs or, if it is higher, an amount up to the value of the levy evaded may be imposed.
+<sup>2</sup> In serious cases, or in the event of a subsequent offence, a fine of up to CHF 30,000 or, if it is higher, an amount up to the value of the levy evaded may be imposed.
 
 #### Art. 44
 
 **False information relating to vehicles[^44-1]**
 
-<sup>1</sup> Any person who wilfully provides false information for the purpose of the calculations specified in Article 12 shall be liable to a fine not exceeding 30,000 francs.
+<sup>1</sup> Any person who wilfully provides false information for the purpose of the calculations specified in Article 12 shall be liable to a fine not exceeding CHF 30,000.
 
 <sup>2</sup> If the offender acts through negligence, the penalty is a fine.
 
 [^44-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+
+#### Art. 44a
+
+**Other offences**[^44a-1]
+
+<sup>1</sup>
+
+A fine not exceeding CHF 30,000 shall be imposed on any person who wilfully:
+
+- a. provides false or incomplete information in relation to the issuing of certificates;
+- b. disregards the obligation under Article 16 paragraph 1 or 16*a* paragraph 1 to participate in the ETS;
+- c. provides false or incomplete information in the reports referred to in Articles 20 and 28*d* or entirely fails to fulfil their reporting obligation.
+
+<sup>2</sup> If the offender acts through negligence, the penalty is a fine.
+
+[^44a-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 45
 
@@ -847,12 +1233,18 @@ Unless the offence carries a higher penalty under another provision, a fine may 
 
 <sup>1</sup> Offences are prosecuted and adjudicated in accordance with the Federal Act of 22 March 1974[^45-1] on Administrative Criminal Law.
 
-<sup>2</sup> The prosecuting and adjudicating authority is the FOCBS.[^45-2]
+<sup>2</sup>
 
-<sup>3</sup> If an act constitutes both an offence under Articles 42 or 43 and an offence against other federal tax legislation that is subject to prosecution by the FOCBS, the penalty for the more serious offence is imposed and increased appropriately.[^45-3]
+The following authorities shall be responsible for prosecution and adjudication:
 
-[^45-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^45-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+- a. for offences under Articles 42 and 43: the FOCBS;
+- b. for offences under Article 44: the SFOE;
+- c. for offences under Article 44*a*: the FOEN.[^45-2]
+
+<sup>3</sup> If an act constitutes both an offence under Articles 42 or 43 and an offence against other federal tax legislation that is subject to prosecution by the FOCBS, the penalty for the more serious offence shall be imposed and increased appropriately.[^45-3]
+
+[^45-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^45-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^45-3]: Amended by No I 23 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapter 9 Final Provisions
@@ -861,7 +1253,7 @@ Unless the offence carries a higher penalty under another provision, a fine may 
 
 **Repeal of current legislation**
 
-The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
+The CO<sub>2</sub> Act of 8 October 1999[^46-1] shall be repealed.
 
 [^46-1]: [[AS 2000 979](https://fedlex.data.admin.ch/eli/oc/2000/148), [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Annex No 10, [2009 5043](https://fedlex.data.admin.ch/eli/oc/2009/586)Art. 10, [2010 951](https://fedlex.data.admin.ch/eli/oc/2010/152), [2011 13](https://fedlex.data.admin.ch/eli/oc/2011/5), [2012 351](https://fedlex.data.admin.ch/eli/oc/2012/23)]
 
@@ -879,7 +1271,7 @@ The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
 
 <sup>1</sup> Emission allowances not used in the period 2008–2012 may be carried over without limitation to the period 2013–2020.
 
-<sup>2</sup> Emission reduction certificates not used in the period 2008–2012 may be carried over to the period 2013–2020 subject to limitations. The Federal Council regulates the details.
+<sup>2</sup> Emission reduction certificates not used in the period 2008–2012 may be carried over to the period 2013–2020 subject to limitations. The Federal Council shall regulate the details.
 
 #### Art. 48a
 
@@ -889,7 +1281,7 @@ The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
 
 <sup>2</sup> Emission reduction certificates that were not used in the 2013–2020 period may be carried over without limitation to 2021. The Federal Council shall regulate the details.
 
-[^48a-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^48a-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 48b
 
@@ -899,17 +1291,31 @@ The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
 
 <sup>2</sup> Emission reduction certificates that were not used in 2021 may be carried over without limitation to the 2022–2024 period.
 
-<sup>3</sup> Attestations for unused domestic emission reductions achieved in the 2013–2021 period may be carried over without limitation to the 2022–2024 period.
+<sup>3</sup> Attestations for unused emission reductions achieved in Switzerland in the 2013–2021 period may be carried over without limitation to the 2022–2024 period.
 
 [^48b-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
+#### Art. 48c
+
+**Transfer of unused emission allowances, emission reduction certificates and attestations**[^48c-1]
+
+<sup>1</sup> Emission allowances not used in the period 2022–2024 may be carried over without limitation to the period 2025–2030.
+
+<sup>2</sup> Emission allowances retained in 2021–2024 for future and rapidly growing aircraft operators will be cancelled.
+
+<sup>3</sup> Emission reduction certificates not used in the period 2022–2024 may be carried over without limitation to the period 2025–2030, subject to transfer restrictions arising from international treaties.
+
+<sup>4</sup> Attestations not used in the period 2022–2024 may be carried over without limitation to the period 2025–2030.
+
+[^48c-1]: Inserted by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 49
 
-**Transitional provision on the imposition and refund of the CO<sub>2</sub> levy and the distribution of the revenue**
+**Transitional provision on the collection and refund of the CO<sub>2</sub> levy and the distribution of the revenue**
 
-<sup>1</sup> For fossil fuels that have been released for consumption or free circulation prior to the commencement of this Act, the CO<sub>2</sub> levy is collected or refunded in accordance with the previous law.
+<sup>1</sup> For fossil fuels that have been released for consumption or free circulation prior to the commencement of this Act, the CO<sub>2</sub> levy shall be collected or refunded in accordance with the previous law.
 
-<sup>2</sup> The revenue from the CO<sub>2</sub> levy prior to the commencement of this Act is distributed to the public and the business community in accordance with the previous law.
+<sup>2</sup> The revenue from the CO<sub>2</sub> levy prior to the commencement of this Act shall be distributed to the general public and the business community in accordance with the previous law.
 
 #### Art. 49a
 
@@ -919,7 +1325,7 @@ The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
 
 <sup>2</sup> The revenue from the CO<sub>2</sub> levy earmarked under Article 34 in its version of 23 December 2011[^49a-2] that is not used before the Amendment of 30 September 2016 comes into force shall be used in accordance with the new law.
 
-<sup>3</sup> Up to 100 million francs of the revenue from 2017 earmarked under Article 34 may be used in accordance with Article 34 paragraph 3 letter a in its version of 23 December 2011. In addition, the cantons may be refunded implementation costs that remain following the early replacement of the programme agreements by global financial assistance.
+<sup>3</sup> Up to CHF 100 million of the revenue from 2017 earmarked under Article 34 may be used in accordance with Article 34 paragraph 3 letter a in its version of 23 December 2011. In addition, the cantons may be refunded implementation costs that remain following the early replacement of the programme agreements by global financial assistance.
 
 [^49a-1]: Inserted by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^49a-2]: [AS 2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)
@@ -930,7 +1336,7 @@ The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
-<sup>2</sup> The Federal Council shall determine the commencement date.
+<sup>2</sup> The Federal Council shall determine the date on which this Act comes into force.
 
 Commencement date: 1 January 2013[^50-1]
 

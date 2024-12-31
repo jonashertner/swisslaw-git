@@ -3,11 +3,11 @@ sr: "641.71"
 title: "Loi fédérale du 23 décembre 2011 sur la réduction des émissions de CO<sub>2</sub> (Loi sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-855-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-855-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/fr"
 
 (Loi sur le CO<sub>2</sub>)
 
-du 23 décembre 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 23 décembre 2011 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -24,7 +24,7 @@ vu les art. 74 et 89 de la Constitution[^ingress-1], vu les messages du Conseil 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2009 6723](https://fedlex.data.admin.ch/eli/fga/2009/1323)
 [^ingress-3]: [FF 2010 885](https://fedlex.data.admin.ch/eli/fga/2010/181)
 
@@ -32,99 +32,130 @@ arrête:
 
 #### Art. 1
 
-**But**
+**But**[^1-1]
 
-<sup>1</sup> La présente loi vise à réduire les émissions de gaz à effet de serre, en particulier les émissions de CO<sub>2</sub> dues à l’utilisation énergétique des agents fossiles (combustibles et carburants); l’objectif est de contribuer à ce que la hausse de la température mondiale soit inférieure à 2 °C.
+La présente loi vise à mettre en œuvre les objectifs fixés dans la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl)[^1-2].
 
-<sup>2</sup> Le Conseil fédéral dresse la liste des gaz à effet de serre.
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^1-2]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153); [RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
 #### Art. 2
 
-**Définitions**
+**Définitions**[^2-1]
 
-<sup>1</sup> Les combustibles sont des agents énergétiques fossiles utilisés pour la production de chaleur et d’éclairage, pour la production d’électricité dans les installations thermiques ou pour l’exploitation d’installations de couplage chaleur-force (installations CCF).[^2-1]
+On entend par:
 
-<sup>2</sup> Les carburants sont des agents énergétiques fossiles utilisés pour la production de puissance dans les moteurs à combustion.
+- a. *combustible fossile:* tout agent énergétique fossile utilisé pour la production de chaleur et d’éclairage, pour la production d’électricité dans les installations thermiques ou pour l’exploitation d’installations de couplage chaleur-force (installations CCF);
+- b. *carburant fossile:* tout agent énergétique fossile utilisé pour la production de puissance dans les moteurs à combustion;
+- c. *droit d’émission:* tout droit négociable qui autorise l’émission de gaz à effet de serre; il est attribué gratuitement ou vendu aux enchères par la Confédération ou par un État ou une communauté d’États disposant de systèmes d’échange de quotas d’émission (SEQE) reconnus par le Conseil fédéral;
+- d. *attestation nationale:* toute attestation négociable en Suisse portant sur des réductions d’émissions de gaz à effet de serre ou des renforcements des prestations de puits de carbone vérifiables réalisés en Suisse;
+- e. *certificat de réduction des émissions:* toute attestation négociable, reconnue sur le plan international, portant sur des réductions d’émissions vérifiables réalisées à l’étranger au sens du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques[^2-2];
+- f. *attestation internationale:* toute attestation portant sur des réductions d’émissions de gaz à effet de serre ou sur des renforcements des prestations de puits de carbone vérifiables réalisés à l’étranger au sens de l’Accord du 12 décembre 2015 sur le climat[^2-3];
+- g. *installation:* toute unité technique fixe, sise sur un même site;
+- h. *prestation de puits* *de carbone:* toute extraction de CO<sub>2</sub> de l’atmosphère pouvant être prise en compte, avec fixation de ce CO<sub>2</sub> dans un réservoir de carbone;
+- i. *protection du climat:* ensemble des mesures contribuant à réduire les émissions de gaz à effet de serre ou à renforcer les prestations de puits de carbone et visant à atténuer ou à prévenir les conséquences possibles d’une concentration accruede ces gaz dans l’atmosphère;
+- j. *fournisseur de carburant d’aviation*: tout fournisseur qui fournit des carburants d’aviation ou de l’hydrogène d’aviation et tout exploitant d’aéronefs qui achète ou produit lui-même des carburants d’aviation ou de l’hydrogène pour son usage commercial propre.
 
-<sup>3</sup> Les droits d’émission sont des droits négociables qui autorisent l’émission de gaz à effet de serre; ils sont attribués gratuitement ou vendus aux enchères par la Confédération ou par des États ou des communautés d’États disposant de systèmes d’échange de quotas d’émission (SEQE) reconnus par le Conseil fédéral.[^2-2]
-
-<sup>4</sup> Les certificats de réduction des émissions sont des attestations négociables, reconnues sur le plan international, portant sur des réductions d’émissions réalisées à l’étranger au sens du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques[^2-3].[^2-4]
-
-<sup>4bis</sup> Les attestations internationales sont des attestations portant sur des réductions d’émissions de gaz à effet de serre vérifiables réalisées à l’étranger au sens de l’Accord du 12 décembre 2015 sur le climat[^2-5].[^2-6]
-
-<sup>5</sup> Les installations sont des unités techniques fixes, sises sur un même site.[^2-7]
-
-[^2-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^2-2]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^2-3]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^2-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^2-5]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
-[^2-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^2-7]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^2-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+[^2-3]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 #### Art. 3
 
-**Objectif de réduction des gaz à effet de serre**
+**Objectifs de réduction**[^3-1]
 
-<sup>1</sup> D’ici à 2020, les émissions de gaz à effet de serre réalisées en Suisse doivent être globalement réduites de 20 % par rapport à 1990. Le Conseil fédéral peut fixer des objectifs sectoriels intermédiaires.
+<sup>1</sup>
 
-<sup>1bis</sup> Les émissions de gaz à effet de serre doivent être réduites jusqu’en 2024 chaque année de 1,5 % supplémentaire par rapport à 1990. Le Conseil fédéral peut fixer des objectifs sectoriels intermédiaires.[^3-1]
+La Confédération veille à ce que les émissions de gaz à effet de serre:
 
-<sup>1ter</sup> La réduction des émissions de gaz à effet de serre selon l’al. 1<sup>bis</sup> doit être réalisée à 75 % au moins par des mesures prises en Suisse.[^3-2]
+- a. s’élèvent en 2030 à 50 % au plus de leur niveau de 1990;
+- b. soient réduites entre 2021 et 2030 de 35 % au moins en moyenne par rapport à 1990.
 
-<sup>2</sup> ...[^3-3]
+<sup>2</sup> La réduction des gaz à effet de serre est réalisée en priorité par des mesures prises en Suisse. Le Conseil fédéral fixe la part de cette réduction.
 
-<sup>3</sup> La quantité totale des émissions de gaz à effet de serre est calculée sur la base des rejets de ces gaz en Suisse. Les émissions issues des carburants d’aviation utilisés pour les vols internationaux ne sont pas prises en compte.
+<sup>3</sup> Le Conseil fédéral peut prévoir des valeurs indicatives pour certains secteurs, conformément aux dispositions de l’art. 4 LCl[^3-2].
 
-<sup>3bis</sup> Le Conseil fédéral détermine dans quelle mesure les droits d’émission d’États ou de communautés d’États dont il reconnaît les SEQE sont pris en considération pour atteindre les objectifs de réduction fixés à l’al. 1.[^3-4]
+<sup>4</sup> D’entente avec les milieux concernés, il peut fixer des objectifs de réduction particuliers pour certains secteurs économiques.
 
-<sup>4</sup> Le Conseil fédéral peut, d’entente avec les milieux concernés, fixer des objectifs particuliers pour certains secteurs économiques.
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3-2]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153); [RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
-<sup>5</sup> Il soumet en temps voulu à l’Assemblée fédérale des propositions pour les objectifs postérieurs à 2020. Il consulte au préalable les milieux concernés.
+#### Art. 3a
 
-[^3-1]: Introduit par le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub> ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-2]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-3]: Abrogé par le ch. I de la LF du 17 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^3-4]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+**Émissions déterminantes de gaz à effet de serre**[^3a-1]
+
+<sup>1</sup> Les gaz à effet de serre rejetés en Suisse sont déterminants pour la réalisation des objectifs de réduction. Le Conseil fédéral dresse la liste des gaz à effet de serre.
+
+<sup>2</sup> Les émissions générées par les carburants fossiles embarqués en Suisse et utilisés pour les vols et la navigation internationaux ne sont pas prises en compte.
+
+<sup>3</sup> Le Conseil fédéral détermine dans quelle mesure les droits d’émission d’États ou de communautés d’États dont il reconnaît les SEQE sont pris en compte dans la réalisation des objectifs de réduction.
+
+[^3a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 4
 
 **Moyens**
 
-<sup>1</sup> L’objectif doit être atteint en priorité par les mesures définies dans la présente loi.
+<sup>1</sup> Les objectifs de réduction doivent être réalisés en priorité par les mesures prévues dans la présente loi.[^4-1]
 
-<sup>2</sup> Les mesures visant à réduire les émissions de gaz à effet de serre qui sont prévues dans d’autres législations, notamment dans les domaines de l’environnement, de l’énergie, de l’agriculture, de la sylviculture et de l’exploitation forestière, de la circulation routière et de l’imposition des huiles minérales ainsi que les mesures librement consenties doivent également contribuer à la réduction.
+<sup>2</sup> Les mesures visant à réduire les émissions de gaz à effet de serre ou à renforcer les prestations de puits de carbone qui sont prévues dans d’autres législations, notamment dans les domaines de l’environnement, du sous-sol, de l’énergie, des déchets, de l’agriculture, de la sylviculture et de l’exploitation forestière, de la circulation routière et de l’imposition des huiles minérales ainsi que les mesures librement consenties doivent également contribuer aux objectifs de réduction.[^4-2]
 
-<sup>3</sup> Sont notamment considérées comme des mesures librement consenties les déclarations par lesquelles les consommateurs de combustibles et de carburants fossiles s’engagent librement à limiter les émissions de CO<sub>2</sub>.
+<sup>3</sup> Sont notamment considérées comme des mesures librement consenties les déclarations par lesquelles les consommateurs de combustibles et de carburants fossiles et de carburants fossiles s’engagent librement à limiter les émissions de CO<sub>2</sub>.
 
 <sup>4</sup> Le Conseil fédéral peut charger des organisations compétentes de soutenir et mettre en œuvre des mesures librement consenties.
 
+<sup>5</sup> Si les objectifs de réduction ne peuvent être réalisés, la Confédération peut acquérir les attestations internationales nécessaires à cette fin.[^4-3]
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^4-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^4-3]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 5
 
-**Prise en compte des réductions d’émissions réalisées à l’étranger**
+**Prise en compte unique**[^5-1]
 
-Lors du calcul des émissions au sens de la présente loi, le Conseil fédéral peut tenir compte de manière appropriée des réductions d’émissions de gaz à effet de serre obtenues à l’étranger.
+Les réductions d’émissions et les renforcements des prestations de puits de carbone réalisés ne peuvent être pris en compte qu’une seule fois dans le cadre de la mise en œuvre des obligations prévues par la présente loi.
+
+[^5-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 6
 
-**Exigences de qualité applicables aux réductions d’émissions réalisées à l’étranger**
+**Attestations internationales**[^6-1]
 
-<sup>1</sup> Le Conseil fédéral fixe des exigences de qualité applicables aux mesures visant à réduire les émissions de gaz à effet de serre réalisées à l’étranger. Les mesures qui ne répondent pas à ces exigences ne sont considérées comme des réductions d’émissions.
+<sup>1</sup> Le Conseil fédéral détermine les exigences auxquelles doivent répondre les réductions d’émissions et les renforcements des prestations depuits de carbone réalisés à l’étranger pour que les attestations internationales correspondantes soient prises en compte en Suisse.
 
 <sup>2</sup>
 
-Les exigences de qualité doivent notamment répondre aux critères suivants:
+Les exigences doivent notamment répondre aux critères suivants:
 
-- a. les réductions ne peuvent être prises en compte que si leur réalisation n’aurait pas été possible sans le soutien de la Suisse;
-- b. les réductions réalisées dans des pays peu développés doivent contribuer au développement durable sur place et ne doivent avoir aucune conséquence négative sur le plan social ou sur le plan écologique.
+- a. les réductions d’émissions et les renforcements des prestations de puits de carbone ne peuvent être pris en compte que lorsque leur réalisation n’a été possible qu’avec le soutien de la Suisse;
+- b. les réductions d’émissions et les renforcements des prestations de puits de carbone réalisés dans des pays peu développés doivent contribuer au développement durable sur place et ne doivent avoir aucune conséquence négative sur les plans social ou écologique.
+
+<sup>3</sup>
+
+Le Conseil fédéral peut décider de ne pas prendre en compte:
+
+- a. certaines attestations internationales pour des renforcements des prestations de puits de carbone si elles ne garantissent pas une fixation durable du CO<sub>2</sub> dans des réservoirs de carbone;
+- b. dans le cadre de la délivrance d’attestations internationales, une part des réductions d’émissions ou des renforcements des prestations de puits de carbone, conformément aux dispositions de l’Accord du 12 décembre 2015 sur le climat[^6-2].
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^6-2]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 #### Art. 7
 
-**Attestations portant sur des réductions d’émissions réalisées en Suisse**
+**Attestations nationales**[^7-1]
 
-<sup>1</sup> Le Conseil fédéral ou le département compétent délivre des attestations portant sur les réductions d’émissions de gaz à effet de serre librement consenties réalisées en Suisse.
+Le Conseil fédéral détermine les exigences auxquelles doivent répondre les réductions d’émissions et les renforcements des prestations depuits de carbone réalisés en Suisse pour donner droit à des attestations nationales.
 
-<sup>2</sup> Il détermine dans quelle mesure ces attestations sont assimilées à des droits d’émission ou à des certificats de réduction des émissions.
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 7a
+
+**Déclaration des émissions dans les offres de vol**[^7a-1]
+
+Les exploitants d’aéronefs doivent indiquer, dans les offres de vol, les émissions en équivalents CO<sub>2</sub> (éq-CO<sub>2</sub>) probables générées par les vols concernés. Le Conseil fédéral règle les modalités en tenant compte de méthodes internationalement reconnues.
+
+[^7a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 8
 
@@ -134,6 +165,14 @@ Les exigences de qualité doivent notamment répondre aux critères suivants:
 
 <sup>2</sup> Elle veille à l’élaboration et à l’obtention des bases nécessaires à la prise de ces mesures.
 
+#### Art. 8a
+
+**Dérogations pour motifs de défense générale**[^8a-1]
+
+Si la défense générale l’exige, le Conseil fédéral peut prévoir par voie d’ordonnance des dérogations à la présente loi.
+
+[^8a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 ## Chapitre 2 Mesures techniques de réduction des émissions de CO<sub>2</sub>
 
 ### Section 1 Mesures s’appliquant aux bâtiments
@@ -142,79 +181,118 @@ Les exigences de qualité doivent notamment répondre aux critères suivants:
 
 <sup>1</sup> Les cantons veillent à ce que les émissions de CO<sub>2</sub> générées par les bâtiments chauffés à l’aide d’agents énergétiques fossiles soient réduites conformément aux objectifs fixés. Pour ce faire, ils édictent des normes applicables aux nouveaux et aux anciens bâtiments en tenant compte de l’état actuel de la technique.
 
+<sup>1bis</sup> Les cantons désignent les normes applicables aux nouvelles constructions de remplacement et aux assainissements énergétiques complets de bâtimentspour lesquels une utilisation supplémentaire du bien-fonds est autorisée.[^9-1]
+
 <sup>2</sup> Les cantons font chaque année rapport à la Confédération sur les mesures qu’ils ont prises.
 
-### Section 2**** Mesures s’appliquant aux voitures de tourisme, aux voitures de livraison et aux tracteurs à sellette légers
+<sup>3</sup> Pour ce qui est des nouveaux bâtiments et des remplacements d’installations de production de chaleur pour le chauffage et l’eau chaude dans les anciens bâtiments, les autorités délivrant les autorisations de construire enregistrent les principales informations dans le Registre fédéral des bâtiments et logements visé à l’art. 10, al. 3<sup>bis</sup>, de la loi du 9 octobre 1992 sur la statistique fédérale[^9-2]. Le Conseil fédéral détermine les informations devant être enregistrées.[^9-3]
 
-[^chap2-sec2-1]
+<sup>4</sup> Les cantons prévoient l’obligation de déclarer tout remplacement d’une installation de production de chaleur.[^9-4]
+
+[^9-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^9-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^9-3]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^9-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 2 Mesures applicables aux véhicules
+
+[^chap2-sec2-1][^chap2-sec2-2]
 
 [^chap2-sec2-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^chap2-sec2-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 10
 
-**Principe**
-
-<sup>1</sup> Les émissions de CO<sub>2</sub> des voitures de tourisme mises en circulation pour la première fois doivent être réduites, d’ici à fin 2015, à 130 g de CO<sub>2</sub>/km en moyenne, et d’ici à fin 2020, à 95 g de CO<sub>2</sub>/km en moyenne.
-
-<sup>2</sup> Les émissions de CO<sub>2</sub> des voitures de livraison et des tracteurs à sellette d’un poids total allant jusqu’à 3,50 t (tracteurs à sellette légers) mis en circulation pour la première fois sont réduites en moyenne à 147 g de CO<sub>2</sub>/km d’ici à fin 2020.
-
-<sup>3</sup> Afin d’atteindre ces buts, chaque importateur et chaque constructeur de véhicules visés aux al. 1 et 2 (ci-après: véhicules) est tenu de réduire, conformément à sa valeur cible spécifique (art. 11), les émissions moyennes de CO<sub>2</sub> des véhicules qu’il a importés ou construits en Suisse et qui ont été mis en circulation pour la première fois au cours de l’année considérée.
-
-<sup>4</sup> Les valeurs cibles visées aux al. 1 et 2 se basent sur les méthodes de mesure utilisées jusqu’ici. En cas de changement de méthode, le Conseil fédéral fixe dans les dispositions d’exécution les valeurs cibles correspondant à celles visées dans ces alinéas. Il désigne les méthodes de mesure à utiliser et tient compte des réglementations de l’Union européenne.[^10-1]
-
-[^10-1]: Introduit par le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-
-#### Art. 10a
-
-**Objectifs intermédiaires, allègements et dérogations**
-
-<sup>1</sup> Le Conseil fédéral peut prévoir des objectifs intermédiaires contraignants en plus des valeurs cibles fixées à l’art. 10.
-
-<sup>2</sup> Lors du passage à de nouveaux objectifs, il peut prévoir des dispositions particulières facilitant la réalisation des objectifs pendant une période limitée.
-
-<sup>3</sup> Il peut exclure certains véhicules du champ d’application des dispositions relatives à la réduction des émissions de CO<sub>2</sub>.
-
-<sup>4</sup> Il prend en considération à cet égard les prescriptions de l’Union européenne.
-
-#### Art. 10b
-
-**Rapport et propositions visant à poursuivre la réduction des émissions de CO<sub>2</sub>**
-
-<sup>1</sup> À partir de 2016, le Conseil fédéral présente tous les trois ans un rapport à l’Assemblée fédérale sur le respect des valeurs cibles fixées à l’art. 10 ainsi que sur le respect des objectifs intermédiaires visés à l’art. 10*a*, al. 1.
-
-<sup>2</sup> Il soumet en temps voulu à l’Assemblée fédérale des propositions visant à poursuivre la réduction des émissions de CO<sub>2</sub> des véhicules après 2020. Il prend en considération à cet égard les prescriptions de l’Union européenne.
-
-#### Art. 11
-
-**Valeur cible spécifique**
-
-<sup>1</sup> Le Conseil fédéral fixe une méthode de calcul permettant de définir pour chaque importateur et chaque constructeur de véhicules une valeur cible spécifique. Ce calcul porte sur l’ensemble des véhicules de l’importateur ou du constructeur qui ont été mis en circulation pour la première fois au cours de l’année considérée (parc de véhicules neufs). À cet égard, les voitures de tourisme, d’une part, et les voitures de livraison et les tracteurs à sellette légers, d’autre part, constituent deux parcs de véhicules neufs distincts.
-
-<sup>2</sup>
-
-Lors de la fixation des méthodes de calcul, le Conseil fédéral prend notamment en compte les données suivantes:
-
-- a. les caractéristiques des véhicules importés ou construits en Suisse, telles que le poids à vide, le plan d’appui et les innovations écologiques;
-- b. les prescriptions de l’Union européenne.
-
-<sup>3</sup> Les importateurs et les constructeurs peuvent s’associer en groupements d’émission. Un groupement a les mêmes droits et les mêmes obligations qu’un importateur ou un constructeur individuel.
-
-<sup>4</sup> Si, sur les véhicules qu’un importateur ou un constructeur a importés ou construits en Suisse, 49 voitures de tourisme par an au plus ou 5 voitures de livraison ou tracteurs à sellette légers par an au plus sont mis en circulation pour la première fois, une valeur cible spécifique est fixée pour chacun de ces véhicules selon la méthode de calcul fixée à l’al. 1.
-
-#### Art. 12
-
-**Calcul de la valeur cible spécifique et des émissions moyennes de CO<sub>2</sub>**
+**Valeurs cibles**[^10-1]
 
 <sup>1</sup>
 
-L’Office fédéral de l’énergie calcule à la fin de chaque année pour tout importateur ou constructeur:
+La Confédération veille à ce que les émissions moyennes de CO<sub>2</sub> ne dépassent pas les valeurs suivantes:
+
+- a. pour les voitures de tourisme mises en circulation pour la première fois durant la période 2025 à 2029: 93,6 g de CO<sub>2</sub>/km;
+- b. pour les voitures de livraison et les tracteurs à sellette légers mis en circulation pour la première fois durant la période 2025 à 2029: 153,9 g de CO<sub>2</sub>/km;
+- c. pour les voitures de tourisme mises en circulation pour la première fois à partir de 2030: 49,5 g de CO<sub>2</sub>/km;
+- d. pour les voitures de livraison et les tracteurs à sellette légers mis en circulation pour la première fois à partir de 2030: 90,6 g de CO<sub>2</sub>/km.
+
+<sup>2</sup>
+
+La Confédération veille à ce que les émissions moyennes de CO<sub>2</sub> ne dépassent pas les pourcentages suivants de la valeur de base déterminante de l’Union européenne pour la période du 1<sup>er</sup> juillet 2019 au 30 juin 2020:
+
+- a. pour les véhicules lourds mis en circulation pour la première fois durant la période 2025 à 2029: 85 %;
+- b. pour les véhicules lourds mis en circulation pour la première fois à partir de 2030: 70 %.
+
+<sup>3</sup> Le Conseil fédéral peut prévoir des objectifs intermédiaires.
+
+<sup>4</sup> Il détermine les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers ainsi que les véhicules lourds (véhicules) auxquels s’appliquent les valeurs cibles, ainsi que la méthode à appliquer pour déterminer les émissions de CO<sub>2</sub>. Il tient compte des réglementations de l’Union européenne.
+
+<sup>5</sup> Il surveille l’évolution des émissions de CO<sub>2</sub> en conditions de conduite réelles. Si l’écart se creuse entre les émissions de CO<sub>2</sub> déterminées avec la méthode applicable et celles constatées en conditions de conduite réelles, il peut prendre des mesures adéquates.
+
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 10a et 10b
+
+[^10a10b-1]
+
+[^10a10b-1]: Abrogés par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 11
+
+**Valeur cible spécifique**[^11-1]
+
+<sup>1</sup> Les importateurs et les constructeurs de véhicules doivent limiter, conformément à une valeur cible spécifique, les émissions moyennes de CO<sub>2</sub> de leurs véhicules qui sont mis en circulation pour la première fois au cours de l’année considérée (parc de véhicules neufs).
+
+<sup>2</sup> Le Conseil fédéral détermine la méthode qui permet de calculer la valeur cible spécifique.
+
+<sup>3</sup>
+
+Lorsqu’il détermine cette méthode de calcul, il prend en compte les valeurs cibles, ainsi que notamment les données suivantes:
+
+- a. les caractéristiques des véhicules du parc de véhicules neufs, telles que le plan d’appui ou la charge utile;
+- b. les réglementations de l’Union européenne.
+
+<sup>4</sup>
+
+Constituent des parcs de véhicules neufs distincts:
+
+- a. les voitures de tourisme;
+- b. les voitures de livraison et les tracteurs à sellette légers;
+- c. les véhicules lourds.
+
+<sup>5</sup> Si le parc de véhicules neufs d’un importateur ou d’un constructeur comprend par an 49 voitures de tourisme au plusou 5 voitures de livraison ou tracteurs à sellette légers au plus ou un véhicule lourd au plus, la valeur cible spécifique est calculée individuellement pour chaque véhicule.
+
+<sup>6</sup> Les importateurs et les constructeurs peuvent s’associer en groupements pour s’acquitter de l’obligation de respecter la valeur cible spécifique. Un groupement a les mêmes droits et obligations qu’un importateur ou constructeur individuel.
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 11a
+
+**Facteurs de réduction des émissions de CO<sub>2</sub> du parc de véhicules neufs par l’utilisation de carburants synthétiques renouvelables**[^11a-1]
+
+<sup>1</sup> Les importateurs et les constructeurs de véhicules peuvent demander que la réduction du CO<sub>2</sub> réalisée par l’utilisation de carburants synthétiques renouvelables soit prise en compte dans le calcul des émissions de CO<sub>2</sub> de leur parc de véhicules neufs. Ils doivent pour cela présenter les preuves attestant quelle quantité de ces carburants leur est attribuée par contrat et par quel responsable de la mise sur le marché.
+
+<sup>2</sup> Les carburants synthétiques renouvelables doivent répondre aux exigences visées à l’art. 35*d* de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^11a-2].
+
+[^11a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^11a-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+
+#### Art. 12
+
+**Calcul de la valeur cible spécifique et des émissions moyennes de CO<sub>2</sub>**[^12-1]
+
+<sup>1</sup>
+
+L’Office fédéral de l’énergie (OFEN) calcule à la fin de chaque année pour tout importateur ou constructeur:
 
 - a. la valeur cible spécifique;
-- b. les émissions moyennes de CO<sub>2</sub> de leur parc de véhicules neufs.
+- b. les émissions moyennes de CO<sub>2</sub> du parc de véhicules neufs.
 
-<sup>2</sup> Le Conseil fédéral définit les indications que les importateurs et les constructeurs de véhicules qui n’ont pas fait l’objet d’une réception par type doivent fournir aux fins des calculs visés à l’al. 1. S’agissant du calcul visé à l’al. 1, let. b, il peut fixer une valeur d’émissions de CO<sub>2</sub> forfaitaire lorsque les indications ne sont pas fournies dans le délai imparti.
+<sup>2</sup> Le Conseil fédéral détermine les données que doivent fournir les importateurs et les constructeurs. Il détermine en particulier les exigences applicables aux documents à remettre afin de définir les données des véhicules qui sont utilisées pour calculer la valeur cible spécifique et les émissions moyennes de CO<sub>2</sub>.
 
-<sup>3</sup> Le Conseil fédéral peut préciser la manière de tenir compte, dans le calcul visé à l’al. 1, let. b, des véhicules à très faibles émissions de CO<sub>2</sub>.
+<sup>3</sup> Pour le calcul des émissions moyennes de CO<sub>2</sub> visé à l’al. 1, let. b, il peut prévoir d’appliquer une valeur d’émissions de CO<sub>2</sub> forfaitaire si les données ne sont pas fournies dans le délai imparti. Il fixe ce délai et cette valeur forfaitaire.
+
+<sup>4</sup> Lorsque les valeurs cibles sont modifiées, il peut édicter des dispositions facilitant le respect de la valeur cible spécifique pendant une période limitée. Il tient compte des réglementations de l’Union européenne. Les allègements pour les voitures de tourisme prennent fin au plus tard en même temps que ceux qui s’appliquent dans l’Union européenne.
+
+[^12-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 13
 
@@ -222,38 +300,84 @@ L’Office fédéral de l’énergie calcule à la fin de chaque année pour tou
 
 <sup>1</sup>
 
-Si les émissions moyennes de CO<sub>2</sub> du parc de véhicules neufs d’un importateur ou d’un constructeur dépassent la valeur cible spécifique, l’importateur ou le constructeur est tenu de verser à la Confédération les montants suivants pour chaque nouveau véhicule mis en circulation pour la première fois dans l’année civile considérée:
+Si les émissions moyennes de CO<sub>2</sub> du parc de véhicules neufs d’un importateur ou d’un constructeur dépassent la valeur cible spécifique, l’importateur ou le constructeur est tenu de verser à la Confédération, pour chaque nouveau véhicule mis en circulation pour la première fois dans l’année civile considérée, le montant suivant:
 
-- a.
+- a. pour un parc de véhicules neufs de voitures de tourisme ou de voitures de livraison et de tracteurs à sellette légers, et pour chaque gramme de CO<sub>2</sub>/km dépassant la valeur cible spécifique: entre 95 et 152 francs;
+- b.
 
-  de 2017 à 2018:
+  pour un parc de véhicules neufs de véhicules lourds, et pour chaque gramme de CO<sub>2</sub> par tonne-kilomètre dépassant la valeur cible spécifique:
 
-  - 1\. pour le premier gramme de CO<sub>2</sub>/km dépassant la valeur cible spécifique: entre 5,00 et 8,00 francs,
-  - 2\. pour le deuxième gramme de CO<sub>2</sub>/km dépassant la valeur cible spécifique: entre 15,00 et 24,00 francs,
-  - 3\. pour le troisième gramme de CO<sub>2</sub>/km dépassant la valeur cible spécifique: entre 25,00 et 40,00 francs,
-  - 4\. pour le quatrième gramme de CO<sub>2</sub>/km dépassant la valeur cible spécifique et pour chaque gramme supplémentaire: entre 95,00 et 152,00 francs;
-
-- b. à partir du 1<sup>er</sup> janvier 2019: entre 95,00 et 152,00 francs pour chaque gramme dépassant la valeur cible spécifique.
+  - 1\. pour la période 2025 à 2029: entre 4250 et 6800 francs,
+  - 2\. à partir de 2030: entre 6800 et 10 880 francs.[^13-1]
 
 <sup>2</sup> Les montants visés à l’al. 1 sont fixés à nouveau pour chaque année. Le Conseil fédéral définit la méthode selon laquelle ils sont fixés. Il se base pour ce faire sur les montants en vigueur dans l’Union européenne et sur le taux de change. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication procède au calcul et à la publication des montants avant le début de l’année concernée.
 
-<sup>3</sup> Pour les importateurs et les constructeurs visés à l’art. 11, al. 4, les montants visés aux al. 1 et 2 s’appliquent à chaque véhicule dont les émissions de CO<sub>2</sub> dépassent la valeur cible spécifique. Si certaines dispositions fixées en vertu de l’art. 10*a* désavantagent des importateurs ou des constructeurs visés à l’art. 11, al. 4, par rapport aux autres importateurs ou constructeurs, en raison des règles spéciales de fixation de la valeur cible qui s’appliquent à eux, le Conseil fédéral peut réduire la sanction pour les intéressés.
+<sup>3</sup> Pour les importateurs et les constructeurs visés à l’art. 11, al. 5, les montants prévus aux al. 1 et 2 s’appliquent à chaque véhicule dont les émissions de CO<sub>2</sub> dépassent la valeur cible spécifique. Si certaines dispositions fixées en vertu de l’art. 12, al. 4, désavantagent un importateur ou un constructeur au sens de l’art. 11, al. 5, par rapport aux autres importateurs ou constructeurs, en raison des règles particulières de fixation de la valeur cible qui lui sont applicables, le Conseil fédéral peut réduire la sanction qui lui serait normalement infligée.[^13-2]
 
 <sup>4</sup> Les membres d’un même groupement d’émission répondent solidairement de la sanction.
 
-<sup>5</sup> Pour le reste, les art. 10 et 11 de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^13-1] s’appliquent par analogie.
+<sup>5</sup> Pour le reste, les art. 10 et 11 de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^13-3] s’appliquent par analogie.
 
 <sup>6</sup> Le Conseil fédéral peut prévoir l’obligation d’indiquer dans les documents de vente de chaque véhicule le montant qui devrait être payé à titre de sanction en vertu des al. 1 à 3 si le calcul se fondait sur les émissions de ce seul véhicule.
 
-[^13-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^13-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^13-3]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
-## Chapitre 3 Puits de carbone
+#### Art. 13a
+
+**Publication**[^13a-1]
+
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication publie chaque année:
+
+- a.
+
+  les noms des importateurs et des constructeurs qui ont mis en circulation pour la première fois au moins:
+
+  - 1\. 50 voitures de tourisme,
+  - 2\. 6 voitures de livraison et tracteurs à sellette légers, ou
+  - 3\. 5 véhicules lourds;
+
+- b. la composition des groupements d’émission;
+- c.
+
+  pour chaque importateur et groupement d’émission, par parc de véhicules neufs:
+
+  - 1\. le nombre de véhicules mis en circulation pour la première fois,
+  - 2\. les émissions moyennes de CO<sub>2</sub>,
+  - 3\. les valeurs cibles spécifiques,
+  - 4\. les sanctions acquittées.
+
+[^13a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 13b
+
+**Rapport et propositions visant à poursuivre la réduction des émissions de CO<sub>2</sub>**[^13b-1]
+
+<sup>1</sup>
+
+Le Conseil fédéral présente tous les trois ans un rapport à l’Assemblée fédérale sur le respect des valeurs cibles, à partir des années ci-après:
+
+- a. pour les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers: 2025;
+- b. pour les véhicules lourds: 2028.
+
+<sup>2</sup> Il soumet en temps voulu à l’Assemblée fédérale des propositions visant à poursuivre la réduction des émissions de CO<sub>2</sub> des véhicules pour la période postérieure à 2030. Il tient compte des réglementations de l’Union européenne.
+
+[^13b-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## Chapitre 3 …
 
 #### Art. 14
 
-Le bois utilisé dans la construction peut être pris en compte comme puits de carbone.
+[^14-1]
 
-## Chapitre 4 Échange de quotas d’émission et compensation
+[^14-1]: Abrogé par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## Chapitre 4 Système d’échange de quotas d’émission et registre des échanges de quotas d’émission
+
+[^chap4-1]
+
+[^chap4-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ### Section 1 Système d’échange de quotas d’émission
 
@@ -261,19 +385,21 @@ Le bois utilisé dans la construction peut être pris en compte comme puits de c
 
 **Participation sur demande**[^15-1]
 
-<sup>1</sup> Les exploitants d’installations appartenant à une certaine catégorie et dont le taux d’émission de gaz à effet de serre est élevé ou moyen peuvent participer sur demande au SEQE.
+<sup>1</sup> Les exploitants d’installations d’une puissance calorifique totale de combustion minimale donnée peuvent demander à participer au SEQE. Le Conseil fédéral détermine cette puissance minimale.
 
-<sup>2</sup> Ils doivent remettre chaque année à la Confédération des droits d’émission à hauteur des émissions générées par ces installations.[^15-2]
+<sup>2</sup> Les exploitants doivent remettre chaque année à la Confédération des droits d’émission à hauteur des émissions de gaz à effet de serre générées par ces installations.
 
 <sup>3</sup>
 
-Le Conseil fédéral détermine les catégories d’installations en tenant compte des éléments suivants:
+Le Conseil fédéral peut prévoir qu’aucun droit d’émission ne doit être remis pour les émissions résultant de l’utilisation de gaz naturel transporté par conduites si les conditions suivantes sont remplies:
 
-- a. la relation entre la charge constituée par la taxe sur le CO<sub>2</sub> et la valeur ajoutée des installations de la catégorie concernée;
-- b. l’importance de l’entrave constituée par la taxe sur le CO<sub>2</sub> pour la compétitivité internationale des installations de la catégorie concernée.
+- a. pour la quantité de gaz naturel consommée, du gaz renouvelable a été produit à l’étranger, y a été acheté et injecté dans le réseau européen;
+- b. aucun double comptage n’est effectué en ce qui concerne le gaz renouvelable;
+- c. la prise en compte pour la réduction des émissions de gaz à effet de serre a lieu exclusivement en Suisse;
+- d. le gaz renouvelable satisfait aux exigences de l’art. 35*d* LPE[^15-2].
 
-[^15-1]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^15-2]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^15-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 #### Art. 16
 
@@ -283,10 +409,13 @@ Le Conseil fédéral détermine les catégories d’installations en tenant comp
 
 <sup>2</sup> Ils doivent remettre chaque année à la Confédération des droits d’émission à hauteur des émissions générées par ces installations.[^16-2]
 
+<sup>2bis</sup> L’art. 15, al. 3, est applicable aux émissions résultant de l’utilisation de gaz naturel transporté par conduites.[^16-3]
+
 <sup>3</sup> Le Conseil fédéral détermine les catégories d’installations.
 
 [^16-1]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 [^16-2]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16-3]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 16a
 
@@ -312,11 +441,12 @@ Le Conseil fédéral règle:
 
 **Remboursement de la taxe sur le CO<sub>2</sub>**[^17-1]
 
-<sup>1</sup> La taxe sur le CO<sub>2</sub> perçue sur les combustibles est remboursée sur demande aux exploitants d’installations qui participent au SEQE.
+<sup>1</sup> La taxe sur le CO<sub>2</sub> perçue sur les combustibles fossiles[^17-2] est remboursée sur demande aux exploitants d’installations qui participent au SEQE.
 
 <sup>2</sup> Dans le cas de centrales thermiques à combustibles fossiles, le remboursement n’est effectué que dans la mesure où le prix du CO<sub>2</sub> dépasse un montant minimal. Ce dernier se fonde sur la valeur moyenne des coûts externes moins les coûts de l’enchère pour les droits d’émission remis.
 
 [^17-1]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^17-2]: Nouvelle expression selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 18
 
@@ -324,12 +454,14 @@ Le Conseil fédéral règle:
 
 <sup>1</sup> Le Conseil fédéral détermine à l’avance pour chaque année la quantité totale disponible de droits d’émission pour installations et de droits d’émission pour aéronefs; il tient compte de l’objectif fixé à l’art. 3 ainsi que des réglementations internationales comparables.[^18-2]
 
-<sup>2</sup> Il peut adapter la quantité disponible de droits d’émission lorsqu’il désigne de nouvelles catégories d’installations au sens de l’art. 16, al. 3, lorsqu’il exempte a posteriori certaines catégories d’installations de l’obligation de participer au SEQE ou lorsque des réglementations internationales comparables sont modifiées.
+<sup>2</sup> Il peut adapter la quantité disponible de droits d’émission lorsqu’il soumet de nouvelles catégories d’installations à l’obligation de participer au SEQE, qu’il exempte a posteriori certaines catégories d’installations de cette obligation ou que des réglementations internationales comparables sont modifiées.[^18-3]
 
-<sup>3</sup> Il garde en réserve chaque année un nombre approprié de droits d’émission pour installations et de droits d’émission pour aéronefs afin de permettre aux futurs participants au SEQE et aux participants au SEQE en forte croissance d’avoir accès à ces droits.
+<sup>3</sup> Il peut garder en réserve chaque année un nombre approprié de droits d’émission pour installations et de droits d’émissions pour aéronefs afin de pouvoir les mettre à la disposition de futurs participants au SEQE ou de participants au SEQE en forte croissance. Il tient compte des réglementations de l’Union européenne.[^18-4]
 
 [^18-1]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 [^18-2]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^18-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 19
 
@@ -337,17 +469,21 @@ Le Conseil fédéral règle:
 
 <sup>1</sup> Les droits d’émission pour installations sont attribués ou mis aux enchères chaque année.
 
-<sup>2</sup> Une partie des droits d’émission sont attribués gratuitement. Les droits d’émission restants sont mis aux enchères.
+<sup>2</sup> Ils sont attribués gratuitement ou mis aux enchères.
 
-<sup>3</sup> La quantité des droits d’émission attribués gratuitement à un exploitant d’installations est déterminée notamment par rapport à l’efficacité d’installations de référence en termes d’émissions de gaz à effet de serre.
+<sup>3</sup> La quantité de droits d’émission attribués gratuitement à un exploitant d’installations est déterminée notamment en fonction des produits réalisés et de l’efficacité d’installations de référence en matière d’émissions de gaz à effet de serre.
 
-<sup>4</sup> Aucun droit d’émission n’est attribué gratuitement aux exploitants d’installations pour la production d’électricité. Le Conseil fédéral peut prévoir des exceptions.
+<sup>4</sup> Le Conseil fédéral peut prévoir de réduire la quantité de droits d’émission attribués en vertu de l’al. 3 si l’efficacité individuelle d’un exploitant d’installations en matière d’émissions de gaz à effet de serre est insuffisante.
 
-<sup>5</sup> Si la quantité disponible de droits d’émission sur le marché augmente de manière importante pour des raisons économiques, le Conseil fédéral peut prévoir que seuls une partie des droits d’émission restants sont mis aux enchères. Les droits d’émission qui ne sont ni mis ni vendus aux enchères sont annulés.
+<sup>5</sup> Aucun droit d’émission n’est attribué gratuitement pour la production et l’utilisation d’électricité. Le Conseil fédéral peut prévoir des exceptions.
 
-<sup>6</sup> Le Conseil fédéral règle les modalités en tenant compte des réglementations internationales comparables.
+<sup>6</sup> Si la quantité de droits d’émission disponibles sur le marché augmente de manière importante pour des raisons économiques, le Conseil fédéral peut prévoir que seuls une partie des droits d’émission qui n’ont pas été attribués gratuitement sont mis aux enchères. Les droits d’émission qui ne sont pas mis aux enchères ou qui n’ont pas trouvé preneur sont annulés.
 
-[^19-1]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+<sup>7</sup> Si la quantité de droits d’émission ne suffit pas à satisfaire toutes les prétentions, la quantité de droits d’émission attribués gratuitement par exploitant est réduite proportionnellement. Les droits d’émission gardés en réserve en vertu de l’art. 18, al. 3, peuvent être utilisés pour limiter la réduction au plus à 5 %.
+
+<sup>8</sup> Le Conseil fédéral règle les modalités en tenant compte des réglementations de l’Union européenne.
+
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 19a
 
@@ -355,33 +491,39 @@ Le Conseil fédéral règle:
 
 <sup>1</sup> Les droits d’émission pour aéronefs sont attribués ou mis aux enchères chaque année.
 
-<sup>2</sup> Une partie des droits d’émission sont attribués gratuitement. Les droits d’émission restants sont mis aux enchères.
+<sup>2</sup> Ils sont attribués gratuitement ou mis aux enchères.
 
-<sup>3</sup> La quantité des droits d’émission attribués gratuitement à l’exploitant d’aéronefs dépend notamment du nombre de tonnes-kilomètres réalisées en 2018.
+<sup>3</sup> La quantité de droits d’émission attribués gratuitement à un exploitant d’aéronefs est déterminée notamment en fonction du nombre de tonnes-kilomètres qu’il a effectuées au cours d’une année désignée par le Conseil fédéral.
 
-<sup>4</sup> Le Conseil fédéral règle les modalités en tenant compte des réglementations de l’Union européenne.
+<sup>4</sup> Dès 2026, les droits d’émission ne sont plus attribués gratuitement. Le Conseil fédéral peut prévoir des exceptions pour l’utilisation de carburants d’aviation renouvelables ou à faible taux d’émission.
 
-[^19a-1]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+<sup>5</sup> Le Conseil fédéral règle les modalités en tenant compte des réglementations de l’Union européenne.
+
+[^19a-1]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 20
 
 **Rapport**[^20-1]
 
-Les exploitants d’installations et les exploitants d’aéronefs sont tenus de faire rapport chaque année à la Confédération sur leurs émissions de gaz à effet de serre.
+<sup>1</sup> Les exploitants d’installations et les exploitants d’aéronefs sont tenus de faire rapport chaque année à la Confédération sur leurs émissions de gaz à effet de serre.
+
+<sup>2</sup> Les exploitants d’aéronefs doivent fournir chaque année à la Confédération, dans le cadre du rapport, des informations pour l’évaluation de l’impact climatique global de l’activité aérienne. Le Conseil fédéral détermine les informations à livrer en tenant compte des réglementations de l’Union européenne.[^20-2]
 
 [^20-1]: Nouvelle teneur selon l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^20-2]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 21
 
-**[Sanction en cas de non-remise des droits d’émission](https://www.admin.ch/opc/fr/classified-compilation/20091310/index.html)**[^21-1]
+**Sanction en cas de non-remise des droits d’émission**[^21-1]
 
-<sup>1</sup> Les exploitants d’installations et les exploitants d’aéronefs doivent verser à la Confédération un montant de 125 francs par tonne d’équivalent-CO<sub>2</sub> (éq.-CO<sub>2</sub>) pour les émissions qui ne sont pas couvertes par des droits d’émission.
+<sup>1</sup> Les exploitants d’installations et les exploitants d’aéronefs doivent verser à la Confédération un montant de 125 francs par tonne d’éq.-CO<sub>2</sub> pour les émissions qui ne sont pas couvertes par des droits d’émission.[^21-2]
 
 <sup>2</sup> Les droits d’émission manquants doivent être remis à la Confédération au cours de l’année civile suivante.
 
 [^21-1]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^21-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-### Section 2 ...
+### Section 2 …
 
 #### Art. 22 à 25
 
@@ -389,47 +531,15 @@ Les exploitants d’installations et les exploitants d’aéronefs sont tenus de
 
 [^2225-1]: Abrogés par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
-### Section 3 Compensation s’appliquant aux carburants
+### Section 3 …
 
-#### Art. 26
+#### Art. 26 à 28
 
-**Principe**
+[^2628-1]
 
-<sup>1</sup> Quiconque met des carburants à la consommation au sens de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^26-1] doit compenser une partie des émissions de CO<sub>2</sub> que génère leur utilisation énergétique.
+[^2628-1]: Abrogés par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-<sup>2</sup> Le Conseil fédéral, après consultation de la branche, détermine un taux de compensation entre 5 et 40 % en fonction du degré de réalisation des objectifs fixés en vertu de l’art. 3 ou de l’évolution des émissions de CO<sub>2</sub> des transports et détermine la part des mesures de compensation devant être effectuées en Suisse.[^26-2]
-
-<sup>3</sup> La majoration s’appliquant aux carburants s’élève à 5 centimes au plus par litre.
-
-<sup>4</sup> Le Conseil fédéral peut soustraire la mise à la consommation de faibles quantités de carburants à l’obligation de compenser les émissions.
-
-[^26-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^26-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-
-#### Art. 27
-
-**Compensation obligatoire**
-
-Les personnes assujetties à l’impôt en vertu de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^27-1] sont tenues de compenser les émissions. Ces personnes peuvent s’associer au sein de groupements de compensation.
-
-[^27-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-
-#### Art. 28
-
-**Sanction en cas de non-compensation**
-
-<sup>1</sup> Quiconque ne remplit pas son obligation en matière de compensation doit verser à la Confédération un montant de 160 francs par tonne de CO<sub>2</sub> non compensée.
-
-<sup>2</sup>
-
-Il remet en outre à la Confédération, l’année civile suivante, en quantité correspondant à la part non compensée:
-
-- a. pour l’année 2021: des certificats de réduction des émissions;
-- b. à partir de 2022: des droits d’émission ou des attestations internationales.[^28-1]
-
-[^28-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-
-### Section 3*a***** Registre des échanges de quotas d’émission
+### Section 3*a* Registre des échanges de quotas d’émission
 
 [^chap4-sec3a-1]
 
@@ -443,9 +553,112 @@ Il remet en outre à la Confédération, l’année civile suivante, en quantit�
 
 <sup>3</sup> Le Conseil fédéral peut prévoir que les paiements liés à des ventes aux enchères de droits d’émission soient effectués exclusivement au moyen de comptes sis en Suisse ou dans l’EEE.
 
+## Chapitre 4*a* Mesures relatives aux carburants fossiles
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 1 Obligation de compenser les émissions de CO<sub>2</sub> des carburants fossiles
+
+#### Art. 28b
+
+**Obligation de compensation**
+
+<sup>1</sup> Les personnes assujetties à l’impôt en vertu de l’art. 9 de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^28b-1] qui mettent des carburants fossiles à la consommation doivent compenser une partie des émissions de CO<sub>2</sub> générées par l’utilisation énergétique de ces carburants.
+
+<sup>2</sup> Font exception les carburants fossiles qui ne sont pas soumis à l’impôt sur les huiles minérales ou qui bénéficient d’un taux d’imposition préférentiel.
+
+<sup>3</sup> Le Conseil fédéral peut exempter de l’obligation de compensation la mise à la consommation de faibles quantités de carburants fossiles.
+
+<sup>4</sup> Les personnes assujetties à l’impôt peuvent s’associer en groupements pour s’acquitter de l’obligation de compensation. Un groupement a les mêmes droits et obligations qu’une personne assujettie individuellement à l’impôt.
+
+[^28b-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+
+#### Art. 28c
+
+**Part des émissions à compenser et majoration maximale appliquée au titre de la compensation**
+
+<sup>1</sup> La part des émissions de CO<sub>2</sub> à compenser est de 5 % au moins et de 90 % au plus.
+
+<sup>2</sup> Le Conseil fédéral fixe le pourcentage en fonction du degré de réalisation des objectifs de réduction prévus à l’art. 3 ou de l’évolution des émissions de CO<sub>2</sub> des transports, et détermine la part des mesures de compensation à mettre en œuvre en Suisse. Il consulte la branche au préalable.
+
+<sup>3</sup> Les carburants fossiles peuvent être majorés de 5 centimes par litre au plus au titre de la compensation.
+
+#### Art. 28d
+
+**Rapport**
+
+Les personnes assujetties à l’impôt doivent présenter un rapport chaque année à la Confédération sur le respect de l’obligation de compensation, en particulier sur les éléments suivants:
+
+- a. les coûts induits par la compensation des émissions de CO<sub>2</sub>;
+- b. le montant de la majoration appliquée au titre de la compensation;
+- c. les quantités de carburants d’aviation renouvelables et, séparément, de carburants d’aviation synthétiques renouvelables qui ont été incorporés à des carburants d’aviation fossiles soumis à l’impôt sur les huiles minérales.
+
+#### Art. 28e
+
+**Sanctions**
+
+Quiconque ne respecte pas l’obligation de compensation prévue à l’art. 28*b*, al. 1, doit s’acquitter l’année d’après des obligations suivantes:
+
+- a. verser à la Confédération un montant de 160 francs par tonne de CO<sub>2</sub> non compensée;
+- b. lui remettre une attestation nationale ou internationale pour chaque tonne de CO<sub>2</sub> non compensée.
+
+### Section 2 Obligation de mettre à disposition et mélanger des carburants à faible taux d’émission, renouvelables et synthétiques renouvelables
+
+#### Art. 28f
+
+**Obligations des fournisseurs de carburants d’aviation, des exploitants d’aérodromes et des exploitants d’aéronefs**
+
+<sup>1</sup> Les obligations des fournisseurs de carburants d’aviation, des exploitants d’aérodromes et des exploitants d’aéronefs en matière de mise à disposition et de mélange de carburants d’aviation à faible taux d’émission, renouvelables et synthétiques renouvelables sont régies par les dispositions de l’Union européenne relatives au transport aérien durable, applicables en vertu de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^28f-1].
+
+<sup>2</sup> Le Conseil fédéral détermine les aérodromes où s’applique l’obligation de mise à disposition et de mélange. Il tient compte des réglementations de l’Union européenne.
+
+[^28f-1]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+
+#### Art. 28g
+
+**Sanctions**
+
+<sup>1</sup>
+
+Un fournisseur de carburants d’aviation qui enfreint les obligations de mélange en ne fournissant pas aux exploitants d’aéronefs dans les aérodromes visés à l’art. 28*f*, al. 2, la part minimale de carburants d’aviation à faible taux d’émission, renouvelables ou de carburants synthétiques renouvelables conformément aux quotas et aux délais applicables dans l’Union européenne, doit:
+
+- a. verser un montant en francs à la Confédération, et
+- b. fournir au marché, au cours de la période de déclaration suivante, une quantité de carburant équivalente au déficit, en plus de la quantité du type du carburant concerné.
+
+<sup>2</sup>
+
+Le montant en francs visé à l’al. 1, let. a, est égal au double du montant résultant de la multiplication de:
+
+- a. la différence entre le prix moyen annuel d’une tonne de carburant d’aviation fossile et celui d’une tonne de carburant d’aviation à faible taux d’émission, renouvelable ou synthétique renouvelable, et
+- b. la quantité de carburant d’aviation ne respectant pas les parts minimales respectives de carburant d’aviation à faible taux d’émission, renouvelable, ou synthétique renouvelable applicables conformément aux taux de mélange en vigueur dans l’Union européenne.
+
+<sup>3</sup>
+
+Un fournisseur de carburant d’aviation qui donne des informations inexactes ou trompeuses sur la nature et l’origine du carburant d’aviation à faible taux d’émission, renouvelable ou synthétique renouvelable qu’il met à disposition, doit verser un montant à la Confédération. Ce montant en francs est égal au double de celui qui résulte de la multiplication de:
+
+- a. la différence entre le prix moyen annuel d’une tonne de carburant d’aviation fossile et celui d’une tonne de carburant d’aviation à faible taux d’émission, renouvelable ou synthétique renouvelable, et
+- b. la quantité de carburant d’aviation sur laquelle des informations inexactes ou trompeuses ont été fournies.
+
+<sup>4</sup> L’exploitant d’un aérodrome visé à l’art. 28*f*, al. 2, qui ne prend pas les mesures nécessaires pour assurer aux exploitants d’aéronefs un accès approprié aux taux de mélange minimaux de carburants d’aviation à faible taux d’émission, renouvelables ou renouvelables synthétiques, doit verser un montant à la Confédération. Ce montant en francs résulte de la multiplication du nombre de vols par an au départ de l’aérodrome concerné par 50 centimes.
+
+<sup>5</sup>
+
+Un exploitant d’aéronefs qui viole ses obligations d’avitaillement en carburant en embarquant moins de 90 % des besoins annuels en carburant d’aviation sur les aérodromes définis dans l’Union européenne ou sur les aérodromes visés à l’art. 28*f*, al. 2, doit verser un montant à la Confédération. Ce montant en francs est égal au double du montant résultant de la multiplication entre:
+
+- a. le prix moyen annuel d’une tonne de carburant d’aviation, et
+- b. la quantité totale non embarquée au cours de l’année concernée.
+
+<sup>6</sup> Un exploitant d’aéronefs peut être exempté du versement du montant visé à l’al. 5 s’il peut démontrer que le manquement aux obligations d’avitaillement en carburant est dû à des circonstances exceptionnelles et imprévisibles, échappant à son contrôle, dont les effets n’auraient pas pu être évités même s’il avait pris toutes les mesures raisonnables.
+
+<sup>7</sup> Pour le calcul des prix moyens annuels des carburants d’aviation fossiles, à faible taux d’émission, renouvelables et synthétiques renouvelables, il convient de tenir compte des recommandations de l’Union européenne.
+
+<sup>8</sup> Le produit des sanctions visées dans le présent article est utilisé pour promouvoir les carburants d’aviation renouvelables.
+
 ## Chapitre 5 Taxe sur le CO<sub>2</sub>
 
-### Section 1 Perception de la taxe****
+### Section 1 Perception de la taxe
 
 [^chap5-sec1-1]
 
@@ -453,11 +666,11 @@ Il remet en outre à la Confédération, l’année civile suivante, en quantit�
 
 #### Art. 29
 
-**Taxe sur le CO<sub>2</sub> prélevée sur les combustibles**
+**Taxe sur le CO<sub>2</sub> prélevée sur les combustibles fossiles**
 
-<sup>1</sup> La Confédération perçoit une taxe sur le CO<sub>2</sub> frappant la production, l’extraction et l’importation des combustibles.
+<sup>1</sup> La Confédération perçoit une taxe sur le CO<sub>2</sub> frappant la production, l’extraction et l’importation des combustibles fossiles.
 
-<sup>2</sup> Le montant de la taxe est de 36 francs par tonne de CO<sub>2</sub>. Le Conseil fédéral peut la porter à 120 francs au plus si les objectifs intermédiaires concernant les combustibles visés à l’art. 3 ne sont pas atteints.
+<sup>2</sup> Le montant de la taxe est de 36 francs par tonne de CO<sub>2</sub>. Le Conseil fédéral peut la porter à 120 francs au plus si les objectifs intermédiaires concernant les combustibles fossiles visés à l’art. 3 ne sont pas atteints.
 
 #### Art. 30
 
@@ -468,10 +681,10 @@ Sont assujetties à la taxe:
 - a. pour la taxe sur le charbon: les personnes assujetties à l’obligation de déclarer lors de l’importation en vertu de la loi du 18 mars 2005 sur les douanes[^30-1] ainsi que les fabricants et les producteurs exerçant leur activité en Suisse;
 - b. pour la taxe sur les autres agents énergétiques fossiles: les personnes assujetties à l’impôt en vertu de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^30-2].
 
-[^30-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^30-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^30-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^30-2]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
-### Section 2 Remboursement de la taxe sur le CO<sub>2</sub> aux exploitants**** s’engageant à limiter leurs émissions de gaz à effet de serre****
+### Section 2 Remboursement de la taxe sur le CO<sub>2</sub> aux exploitants s’engageant à limiter leurs émissions de gaz à effet de serre
 
 [^chap5-sec2-1][^chap5-sec2-2]
 
@@ -480,90 +693,82 @@ Sont assujetties à la taxe:
 
 #### Art. 31
 
-**Engagement à réduire les émissions de gaz à effet de serre[^31-1]**
+**Engagement à réduire les émissions de gaz à effet de serre**[^31-1]
 
-<sup>1</sup> La taxe sur le CO<sub>2</sub> est remboursée sur demande aux exploitants d’installations[^31-2] de certains secteurs économiques pour autant qu’ils s’engagent envers la Confédération à limiter leurs émissions de gaz à effet de serre dans une proportion donnée d’ici à 2020 (engagement de réduction) et qu’ils fassent rapport chaque année sur les efforts consentis.[^31-3]
-
-<sup>1bis</sup> Les engagements de réduction au sens de l’al. 1 peuvent être prolongés jusqu’à fin 2021 à condition que la réduction suive une trajectoire linéaire de même ampleur et qu’une demande en ce sens ait été déposée au plus tard le 31 mai 2021.[^31-4]
-
-<sup>1ter</sup> Les engagements de réduction au sens de l’al. 1<sup>bis</sup> peuvent être prolongés jusqu’à fin 2024 à condition que les exploitants s’engagent à réaliser une réduction supplémentaire, par rapport à ce qui est prévu aux al. 1 et 1<sup>bis</sup>, dans une proportion donnée et qu’une demande en ce sens ait été déposée avant la date fixée par le Conseil fédéral.[^31-5]
-
-<sup>1quater</sup> Les exploitants visés à l’al. 1 qui n’ont pas encore pris d’engagement de réduction peuvent également s’engager à réduire, d’ici à fin 2024, leurs émissions de gaz à effet de serre dans une proportion donnée.[^31-6]
+<sup>1</sup> Les exploitants d’installations peuvent demander le remboursement de la taxe sur le CO<sub>2</sub> s’ils s’engagent envers la Confédération à réduire dans une mesure donnée leurs émissions de gaz à effet de serre avant la fin 2040 (engagement de réduction).
 
 <sup>2</sup>
 
-Le Conseil fédéral désigne les secteurs économiques en tenant compte des éléments suivants:
+Un engagement de réduction peut être pris lorsque sont remplies les conditions suivantes:
 
-- a. la relation entre la charge constituée par la taxe sur le CO<sub>2</sub> et la valeur ajoutée du secteur concerné;
-- b. l’importance de l’entrave constituée par la taxe sur le CO<sub>2</sub> pour la compétitivité internationale du secteur concerné.
+- a. l’engagement porte sur toutes les installations sises sur un même site;
+- b. les installations sont utilisées pour des activités commerciales ou de droit public;
+- c. l’exploitant a conclu une convention d’objectifs au sens de l’art. 41 ou 46, al. 2, de la loi du 30 septembre 2016 sur l’énergie (LEne)[^31-2], qui indique les émissions de gaz à effet de serre et les mesures permettant de réduire ces dernières.
 
-<sup>3</sup>
+<sup>3</sup> L’engagement de réduction dure jusqu’à la fin 2040 et contient des valeurs cibles pour les périodes 2025 à 2030 et 2031 à 2040.
 
-L’étendue de l’engagement de réduction est déterminée notamment en fonction des éléments suivants:[^31-7]
+<sup>4</sup> Les exploitants peuvent s’associer en groupements pour s’acquitter de l’engagement de réduction. Un groupement a les mêmes droits et obligations qu’un exploitant individuel.
 
-- a. émissions de gaz à effet de serre convenues en moyenne pour la période allant de 2008 à 2012;
-- b. objectif fixé à l’art. 3.
+<sup>5</sup> Le Conseil fédéral peut prévoir que l’utilisation de gaz naturel transporté par conduites est prise en compte dans le respect de l’engagement de réduction si les exigences visées à l’art. 15, al. 3, sont remplies.
 
-<sup>4</sup>
-
-Le Conseil fédéral détermine dans quelle mesure les exploitants peuvent remplir leur engagement de réduction:
-
-- a. jusqu’en 2021: par la remise de certificats de réduction des émissions;
-- b. à partir de 2022: par la remise de droits d’émission.[^31-8]
-
-<sup>5</sup> Sur demande d’un exploitant, la Confédération peut également tenir compte des réductions d’émissions réalisées hors de ses unités de production grâce à l’amélioration de produits.
-
-<sup>6</sup> Le Conseil fédéral peut exclure le remboursement si celui-ci entraîne des frais disproportionnés par rapport au montant considéré.
-
-[^31-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-2]: Nouvelle expression selon l’annexe al. 1 de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)). Il a été tenu compte de cette mod. dans tout le texte.
-[^31-3]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-4]: Introduit par le ch. I 2 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^31-5]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^31-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^31-7]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-8]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^31-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 31a
 
-**Exploitants d’installations CCF ayant pris un engagement de réduction[^31a-2]**[^31a-1]
+**Rapport et plan de décarbonation**[^31a-1]
+
+Les exploitants ayant pris un engagement de réduction sont tenus:
+
+- a. de rendre compte chaque année à la Confédération du respect de la convention d’objectifs;
+- b. de remettre à la Confédération, dans les trois ans à compter du début de l’engagement de réduction, un plan exposant les mesures qu’ils mettent en œuvre pour réduire sensiblement avant la fin 2040 les émissions de gaz à effet de serre issues de l’utilisation énergétique de combustibles fossiles (plan de décarbonation), et d’actualiser ce plan tous les trois ans.
+
+[^31a-1]: Introduit par l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 31b
+
+**Résiliation anticipée de l’engagement de réduction**[^31b-1]
 
 <sup>1</sup>
 
-L’engagement de réduction est adapté sur demande pour les exploitants:
+Les exploitants ayant pris un engagement de réduction peuvent demander une résiliation anticipée de leur engagement aux échéances suivantes:
 
-- a. qui exploitent une installation CCF répondant aux exigences visées à l’art. 32*a*, et
-- b. qui produisent, dans une mesure déterminée par le Conseil fédéral, des quantités d’électricité supplémentaires par rapport à l’année de référence 2012, utilisées à l’extérieur de l’installation[^31a-3].
+- a. au 31 décembre 2030, ou
+- b. pour la fin de l’année civile durant laquelle ils n’utilisent plus de combustibles fossiles à des fins énergétiques pour leur exploitation courante.
 
-<sup>2</sup> 40 % de la taxe sur le CO<sub>2</sub> perçue sur les combustibles dont il est avéré qu’ils sont utilisés pour produire de l’électricité conformément à l’al. 1 sont uniquement remboursés si l’entreprise peut fournir à la Confédération la preuve qu’elle a pris des mesures d’un montant correspondant à ces moyens, destinées à augmenter sa propre efficacité énergétique ou l’efficacité énergétique d’installations[^31a-4] auxquelles l’installation CCF fournit de l’électricité ou de la chaleur.
+<sup>2</sup> Si l’exploitant ne remet pas de plan de décarbonation ou qu’il n’existe plus de convention d’objectifs, l’engagement de réduction prend fin de manière anticipée.
 
-<sup>3</sup>
+<sup>3</sup> Les exploitants qui résilient de manière anticipée leur engagement de réduction ne peuvent plus prendre de nouvel engagement.
 
-Le Conseil fédéral règle les modalités, notamment:
+[^31b-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-- a. les mesures d’efficacité donnant droit au remboursement;
-- b. la période au cours de laquelle doivent être prises les mesures d’efficacité, et
-- c. le rapport.
+#### Art. 31c
 
-<sup>4</sup> Le produit de la taxe qui ne peut être remboursé parce que les conditions selon l’al. 2 ne sont pas remplies est réparti entre la population et les milieux économiques conformément à l’art. 36.
+**Dispositions d’exécution**[^31c-1]
 
-[^31a-1]: Introduit par l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31a-2]: Nouvelle teneur selon l’annexe al. 3 de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^31a-3]: Nouvelle expression selon l’annexe al. 4 de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^31a-4]: Nouvelle expression selon l’annexe al. 5 de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)). Il n’a été tenu compte de cette mod. que dans les dispositions mentionnées au RO.
+Le Conseil fédéral détermine:
+
+- a. les exigences applicables aux engagements de réduction et aux plans de décarbonation;
+- b. les cas dans lesquels une activité est réputée commerciale;
+- c. les activités de droit public qui permettent de prendre un engagement de réduction;
+- d. le type et l’ampleur des valeurs cibles;
+- e. les cas dans lesquels les exploitants d’installations à faible taux d’émission de gaz à effet de serre peuvent définir l’étendue de l’engagement de réduction au moyen d’un modèle simplifié;
+- f. les cas dans lesquels la remise d’attestations nationales ou internationales permet de respecter l’engagement de réduction, et dans quelle mesure.
+
+[^31c-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 32
 
-**Sanction en cas de non-respect des engagements**
+**Sanctions**[^32-1]
 
-<sup>1</sup> Les exploitants d’installations visés à l’art. 31 qui ne respectent pas leurs engagements de réduction envers la Confédération lui versent un montant de 125 francs par tonne d’éq.-CO<sub>2</sub> supplémentaire émise.[^32-1]
+Les exploitants ayant pris un engagement de réduction qui ne respectent pas leurs valeurs cibles doivent s’acquitter l’année d’après des obligations suivantes:
 
-<sup>2</sup> Des droits d’émission correspondant aux tonnes d’éq.-CO<sub>2</sub> émises en excédent doivent être remis à la Confédération l’année civile suivante.[^32-2]
+- a. verser à la Confédération un montant de 125 francs par tonne d’éq.-CO<sub>2</sub> émise en excédent;
+- b. lui remettre une attestation nationale ou internationale par tonne d’éq.-CO<sub>2</sub> émise en excédent.
 
-[^32-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^32-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^32-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-### Section 3**** Remboursement de la taxe sur le CO<sub>2</sub> aux exploitants d’installations CCF ne participant pas au SEQE et n’ayant pas pris d’engagement de réduction
+### Section 3 Remboursement de la taxe sur le CO<sub>2</sub> aux exploitants d’installations CCF ne participant pas au SEQE et n’ayant pas pris d’engagement de réduction
 
 [^chap5-sec3-1]
 
@@ -571,28 +776,48 @@ Le Conseil fédéral règle les modalités, notamment:
 
 #### Art. 32a
 
-**Exploitants d’installations CCF ayant droit au remboursement**
+**Exploitants d’installations CCF**[^32a-1]
 
 <sup>1</sup>
 
-La taxe sur le CO<sub>2</sub> est partiellement remboursée, conformément à l’art. 32*b,* aux exploitants d’installations CCF qui ne participent pas au SEQE et qui n’ont pas pris d’engagement de réduction, pour autant que l’installation remplisse les conditions suivantes:
+Les exploitants d’installations CCF qui ne participent pas au SEQE ou qui n’ont pas pris d’engagement de réduction peuvent demander le remboursement, qui pourra être total ou partiel, de la taxe sur le CO<sub>2</sub> si l’installation remplit les conditions suivantes:
 
-- a. être exploitée principalement pour produire de la chaleur;
-- b. remplir les exigences minimales en termes d’énergie, d’écologie et autres.
+- a. elle est conçue pour produire principalement de la chaleur;
+- b. elle présente une puissance calorifique de combustion comprise dans une marge donnée;
+- c. elle remplit les exigences minimales, notamment d’ordre énergétique et écologique.
 
-<sup>2</sup> Le Conseil fédéral fixe les limites de puissance et arrête les exigences minimales.
+<sup>2</sup>
+
+Les exploitants à qui la taxe sur le CO<sub>2</sub> est remboursée doivent faire régulièrement rapport à la Confédération sur les points suivants:
+
+- a. la quantité de combustibles fossiles utilisée pour produire de l’électricité;
+- b. les coûts des mesures visant à améliorer l’efficacité énergétique.
+
+<sup>3</sup> Le Conseil fédéral peut prévoir des indications supplémentaires, pour autant que celles-ci soient nécessaires à l’évaluation du remboursement.
+
+<sup>4</sup> Il fixe les exigences minimales applicables aux installations CCF et la marge dans laquelle doit être comprise la puissance calorifique de combustion.
+
+[^32a-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 32b
 
-**Étendue et conditions du remboursement partiel**
+**Part remboursée**[^32b-1]
 
-<sup>1</sup> Dans chaque cas, la taxe sur le CO<sub>2</sub> prélevée sur les combustibles dont il est avéré qu’ils sont utilisés pour produire de l’électricité est remboursée sur demande à hauteur de 60 %.
+<sup>1</sup> La taxe sur le CO<sub>2</sub> perçue sur les combustibles fossiles est remboursée à hauteur de 60 % si l’exploitant démontre qu’ils ont été utilisés pour produire de l’électricité.
 
-<sup>2</sup> Les 40 % restants sont uniquement remboursés dans la mesure où l’exploitant de l’installation apporte à la Confédération la preuve qu’il a pris des mesures d’un montant correspondant à ces moyens, en vue d’augmenter sa propre efficacité énergétique ou l’efficacité énergétique d’installations auxquelles l’installation CCF fournit de l’électricité ou de la chaleur.
+<sup>2</sup> Les 40 % restants sont remboursés si l’exploitant démontre qu’il a pris des mesures pour un montant équivalent en vue d’améliorer l’efficacité énergétique de son installation ou d’autres installations auxquelles son installation fournit de l’électricité ou de la chaleur (mesures d’efficacité).
 
-<sup>3</sup> Le Conseil fédéral règle les modalités par analogie à l’art. 31*a*, al. 3. L’art. 31*a*, al. 4, s’applique au produit de la taxe ne pouvant être remboursé.
+<sup>3</sup>
 
-### Section 4**** Remboursement de la taxe sur le CO<sub>2</sub> en cas d’utilisation à des fins non énergétiques
+Le Conseil fédéral règle les modalités, et détermine notamment:
+
+- a. les mesures d’efficacité donnant droit au remboursement;
+- b. la date à laquelle les mesures d’efficacité doivent être prises au plus tard;
+- c. les exigences en matière de rapport.
+
+[^32b-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+### Section 4 Remboursement de la taxe sur le CO<sub>2</sub> en cas d’utilisation à des fins non énergétiques
 
 [^chap5-sec4-1]
 
@@ -600,9 +825,9 @@ La taxe sur le CO<sub>2</sub> est partiellement remboursée, conformément à l�
 
 #### Art. 32c
 
-La taxe sur le CO<sub>2</sub> prélevée sur les combustibles est remboursée sur demande aux personnes qui apportent la preuve qu’elles n’ont pas utilisé ces combustibles à des fins énergétiques.
+La taxe sur le CO<sub>2</sub> prélevée sur les combustibles fossiles est remboursée sur demande aux personnes qui apportent la preuve qu’elles n’ont pas utilisé ces combustibles fossiles à des fins énergétiques.
 
-### Section 5 Procédure****
+### Section 5 Procédure
 
 [^chap5-sec5-1]
 
@@ -610,7 +835,7 @@ La taxe sur le CO<sub>2</sub> prélevée sur les combustibles est remboursée su
 
 #### Art. 33
 
-**... [^33-1]**
+**… [^33-1]**
 
 <sup>1</sup> Les dispositions de procédure de la législation sur l’imposition des huiles minérales s’appliquent à la perception et au remboursement de la taxe sur le CO<sub>2</sub>. L’al. 2 est réservé.
 
@@ -620,31 +845,61 @@ La taxe sur le CO<sub>2</sub> prélevée sur les combustibles est remboursée su
 
 ## Chapitre 6 Utilisation des produits
 
+#### Art. 33a
+
+**Principe**[^33a-1]
+
+<sup>1</sup> Un tiers du produit de la taxe sur le CO<sub>2</sub> est utilisé pour réduire les émissions de CO<sub>2</sub> des bâtiments ainsi que pour encourager les énergies renouvelables et les technologies visant la réduction des gaz à effet de serre (art. 34 à 35).
+
+<sup>2</sup> À la fin d’un exercice comptable, les moyens à affectation obligatoire non épuisés ne peuvent dépasser 150 millions de francs.
+
+<sup>3</sup> Les moyens non épuisés visés à l’al. 2 peuvent être utilisés au cours des années suivantes en complément des encouragements prévus aux art. 34 et 34*a* pour la réduction des émissions de CO<sub>2</sub> des bâtiments et pour les énergies renouvelables.
+
+[^33a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 34
 
 **Réduction des émissions de CO<sub>2</sub> des bâtiments**[^34-1]
 
-<sup>1</sup> Un tiers du produit de la taxe sur le CO<sub>2</sub>, mais au plus 450 millions de francs par an, est affecté au financement des mesures de réduction à long terme des émissions de CO<sub>2</sub> des bâtiments, y compris les mesures de diminution de la consommation d’électricité durant les mois d’hiver. À cet effet, la Confédération accorde aux cantons des contributions globales destinées aux mesures d’encouragement visées aux art. 47, 48 et 50, de la loi du 30 septembre 2016 sur l’énergie (LEne)[^34-2].
+<sup>1</sup> Sous réserve des art. 34*a* et 35, les moyens visés à l’art. 33*a*, al. 1, sont affectés au financement de mesures de réduction à long terme des émissions de CO<sub>2</sub> des bâtiments, notamment de mesures de réduction de la consommation d’électricité durant les mois d’hiver. À cet égard, le bilan de CO<sub>2</sub> des matériaux de construction utilisés est également pris en considération.
 
-<sup>2</sup> Afin de réduire à long terme les émissions de CO<sub>2</sub> des bâtiments, la Confédération soutient les projets d’utilisation directe de la géothermie pour la production de chaleur. Elle y consacre une petite partie des moyens prévus à l’al. 1, mais au maximum 30 millions de francs. Le Conseil fédéral fixe les critères et les modalités du soutien ainsi qu’un plafond annuel aux contributions financières.
+<sup>2</sup>
 
-<sup>3</sup>
+à cet effet, la Confédération accorde aux cantons des contributions globales destinées aux mesures d’encouragement prévues aux art. 47, 48 et 50 LEne[^34-2]. Les contributions globales sont allouées selon les modalités de l’art. 52 LEne. Les dispositions particulières suivantes sont réservées:
 
-Les contributions globales sont allouées selon l’art. 52 LEne en tenant compte des particularités suivantes:
+- a. les contributions globales sont allouées uniquement aux cantons qui disposent de programmes d’encouragement des assainissements énergétiques des enveloppes des bâtiments et de leurs installations techniques ainsi que des remplacements de chauffages électriques à résistance ou de chauffages existants utilisant des énergies fossiles, et qui garantissent une mise en œuvre harmonisée;
+- b. les contributions globales sont réparties entre une contribution de base par habitant et une contribution complémentaire; la contribution de base par habitant se monte à 30 % au plus des moyens disponibles; la contribution complémentaire ne doit pas représenter plus du double du crédit annuel accordé par le canton à la réalisation de son programme.
 
-- a. en complément à l’art. 52 LEne, les contributions globales sont allouées uniquement aux cantons qui disposent de programmes d’encouragement des assainissements énergétiques des enveloppes des bâtiments et de leurs installations techniques ainsi que de remplacement des chauffages électriques à résistance ou des chauffages à mazout existants et qui garantissent une mise en œuvre harmonisée;
-- b. en dérogation à l’art. 52, al. 1, LEne, les contributions globales sont réparties entre une contribution de base par habitant et une contribution complémentaire. La contribution de base par habitant se monte à 30 % au plus des moyens disponibles. La contribution complémentaire ne doit pas représenter plus du double du crédit annuel accordé par le canton à la réalisation de son programme.
+<sup>3</sup> Le Conseil fédéral règle les modalités.
 
-<sup>4</sup> Si les moyens financiers disponibles aux termes de l’al. 1 ne sont pas épuisés, ils sont répartis entre la population et les milieux économiques en vertu de l’art. 36.
+[^34-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^34-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
-[^34-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^34-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+#### Art. 34a
+
+**Encouragement des énergies renouvelables**[^34a-1]
+
+<sup>1</sup>
+
+La Confédération peut consacrer chaque année 45 millions de francs au plus issus des moyens visés à l’art. 33*a*, al. 1, pour encourager:
+
+- a. des projets d’utilisation directe de la géothermie pour la production de chaleur;
+- b. la mise en valeur de ressources hydrothermales utilisables indirectement si une utilisation au sens de la let. a devait, après un premier forage exploratoire, se révéler impossible;
+- c. des planifications énergétiques territoriales communales et supracommunales concernant l’utilisation des énergies renouvelables et des rejets thermiques;
+- d. de nouvelles installations de production de gaz renouvelables, notamment celles qui injectent du gaz dans le réseau, ainsi que l’agrandissement notable des infrastructures des installations existantes;
+- e. des installations utilisant le solaire thermique pour la chaleur industrielle.
+
+<sup>2</sup> Les moyens destinés à encourager les projets visés à l’al. 1, let. b, peuvent être octroyés jusqu’à la fin 2030 au plus tard, et les moyens destinés à encourager les projets visés à l’al. 1, let. c, jusqu’à la fin 2035 au plus tard.
+
+<sup>3</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
+
+[^34a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 35
 
 **Encouragement des technologies visant la réduction des gaz à effet de serre**
 
-<sup>1</sup> Un montant annuel de 25 millions de francs au plus issu du produit de la taxe sur le CO<sub>2</sub> est versé au fonds de technologie pour le financement de cautionnements.
+<sup>1</sup> Un montant annuel de 25 millions de francs au plus issu des moyens visés à l’art. 33*a*, al. 1, est versé au fonds de technologie pour financer des cautionnements.[^35-1]
 
 <sup>2</sup> Le fonds de technologie est géré par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
 
@@ -658,17 +913,31 @@ Il permet à la Confédération de cautionner des prêts à des entreprises afin
 
 <sup>4</sup> Les cautionnements sont octroyés pour une durée maximale de 10 ans.
 
+[^35-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 36
 
 **Distribution à la population et aux milieux économiques**
 
-<sup>1</sup> Le solde du produit de la taxe sur le CO<sub>2</sub> est réparti entre la population et les milieux économiques en fonction du montant qu’ils ont versé.
+<sup>1</sup>
+
+Les moyens suivants sont répartis entre la population et les milieux économiques en fonction des montants qu’ils ont respectivement versés:
+
+- a. le produit de la taxe sur le CO<sub>2</sub> qui n’est pas remboursé en raison du non-respect des conditions fixées à l’art. 32*b*;
+- b. la part du produit de la taxe sur le CO<sub>2</sub> qui n’est pas utilisée pour réduire les émissions de CO<sub>2</sub> des bâtiments ou pour encourager les énergies renouvelables et les technologies visant la réduction des gaz à effet de serre;
+- c. les moyens qui dépassent le montant de 150 millions de francs visé à l’art. 33*a*, al. 2, et
+- d. les moyens qui n’ont pas pu être utilisés en vertu de l’art. 33*a*, al. 3; ils sont répartis tous les cinq ans.[^36-1]
 
 <sup>2</sup> La part revenant à la population est répartie de façon égale entre toutes les personnes physiques. Le Conseil fédéral règle les modalités et la procédure de répartition. Il peut charger les cantons, des corporations de droit public ou des particuliers de procéder à la répartition, en les indemnisant en conséquence.
 
-<sup>3</sup> La part revenant aux milieux économiques est versée aux employeurs, par l’intermédiaire des caisses de compensation AVS, proportionnellement au salaire déterminant versé aux employés (art. 5 de la LF du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^36-1]). Les caisses de compensation AVS sont indemnisées en conséquence.
+<sup>3</sup> La part revenant aux milieux économiques est versée aux employeurs par l’intermédiaire des caisses de compensation AVS. Ce versement est fonction de la masse salariale sur laquelle l’employeur verse les cotisations à l’assurance-chômage conformément à l’art. 3 de la loi du 25 juin 1982 sur l’assurance-chômage[^36-2]. Les caisses de compensation AVS sont indemnisées en conséquence.[^36-3]
 
-[^36-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+<sup>4</sup> Aucune part du produit de la taxe sur le CO<sub>2</sub> n’est versée aux exploitants ayant pris un engagement de réduction.[^36-4]
+
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 37
 
@@ -678,13 +947,64 @@ Le produit de la sanction prévue à l’art. 13 est versé au fonds pour les ro
 
 [^37-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
+#### Art. 37a
+
+**Mesures d’encouragement du transport ferroviaire transfrontalier de voyageurs grandes lignes et de réduction des émissions de gaz à effet de serre dans le secteur de l’aviation**[^37a-1]
+
+<sup>1</sup>
+
+Les recettes issues de la mise aux enchères des droits d’émission pour aéronefs sont utilisées pour mettre en place:
+
+- a. des mesures visant à encourager le transport ferroviaire transfrontalier de voyageurs grandes lignes, notamment les trains de nuit, et
+- b. des mesures visant à réduire les émissions de gaz à effet de serre dans le secteur de l’aviation, notamment le développement et la production de carburants d’aviation synthétiques renouvelables.
+
+<sup>2</sup> Les moyens affectés aux mesures visées à l’al. 1, let. a, s’élèvent à 30 millions de francs par an au plus et peuvent être alloués jusqu’à la fin 2030 au plus tard. Les recettes non affectées peuvent être allouées aux mesures visées à l’al. 1, let. b.
+
+<sup>3</sup> Les moyens non épuisés peuvent être utilisés au cours des années suivantes.
+
+<sup>4</sup>
+
+Les contributions aux mesures visées à l’al. 1, let. a, doivent encourager en particulier les offres qui présentent un rapport coût-efficacité avantageux en matière de réduction des émissions de gaz à effet de serre. L’octroi des moyens d’encouragement est soumis aux conditions suivantes:
+
+- a. l’offre est proposée durant plusieurs années;
+- b. l’attractivité des offres existantes est améliorée pour les voyageurs.
+
+<sup>5</sup> Les contributions aux mesures prévues à l’al. 1, let. b, se montent au plus à 60 % des coûts imputables. Exceptionnellement, elles peuvent s’élever à 70 %. Des dérogations peuvent être accordées en fonction de l’intérêt particulier que ces mesures représentent pour la Confédération et du rapport coût-utilité.
+
+<sup>6</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
+
+[^37a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 37b
+
+**Mesures visant à éviter les dommages et à décarboner les installations soumises au SEQE**[^37b-1]
+
+<sup>1</sup>
+
+Les recettes issues de la mise aux enchères des droits d’émission pour installations sont utilisées pour soutenir:
+
+- a. les mesures visant à éviter les dommages causés à des personnes ou à des biens d’une valeur notable qui pourraient résulter de l’augmentation de la concentration de gaz à effet de serre dans l’atmosphère, et
+- b. les mesures prises sur les installations visées à l’art. 16 qui contribuent de manière notable à la décarbonation de celles-ci.
+
+<sup>2</sup> Les recettes issues des sanctions prévues à l’art. 28*e* sont affectées aux mesures visées à l’al. 1, let. a.
+
+<sup>3</sup> Les moyens non épuisés peuvent être utilisés au cours des années suivantes.
+
+<sup>4</sup> Les contributions aux mesures prévues à l’al. 1 se montent au plus à 50 % des coûts imputables.
+
+<sup>5</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement; il tient compte de la possible fuite d’émissions de gaz à effet de serre à l’étranger.
+
+[^37b-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 38
 
-**Calcul des produits**
+**Calcul du produit de la taxe sur le CO<sub>2</sub>**[^38-1]
 
-Les produits se composent des recettes, y compris les intérêts, déduction faite des frais d’exécution.
+Le produit de la taxe sur le CO<sub>2</sub> se compose des recettes, déduction faite des frais d’exécution.
 
-## Chapitre 7 Exécution, procédure et encouragement****
+[^38-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+## Chapitre 7 Exécution, procédure et encouragement
 
 [^chap7-1]
 
@@ -707,13 +1027,19 @@ Dans le cadre de l’exécution des traités internationaux relatifs au couplage
 
 <sup>3</sup> Il règle la procédure d’exécution des sanctions.
 
-<sup>4</sup> L’Office fédéral de l’environnement (OFEV) statue sur les questions portant sur la protection du climat.[^39-2]
+<sup>3bis</sup> Il peut prévoir un dispositif de saisie et de traçabilité du CO<sub>2</sub> capté à la source ou extrait de l’atmosphère.[^39-2]
 
-<sup>5</sup> Il édicte des prescriptions sur la forme que doivent revêtir les demandes, les notifications et les rapports. Il peut ordonner que les données soient traitées de manière électronique. Dans ce cas, il précise notamment les exigences applicables en matière d’interopérabilité des systèmes informatiques et de sécurité des données.[^39-3]
+<sup>4</sup> L’Office fédéral de l’environnement (OFEV) statue sur les questions portant sur la protection du climat.[^39-3]
+
+<sup>4bis</sup> Il peut mettre à disposition des bases et des standards servant à déterminer l’impact climatique des entreprises et des produits.[^39-4]
+
+<sup>5</sup> Il édicte des prescriptions sur la forme que doivent revêtir les demandes, les notifications et les rapports. Il peut ordonner que les données soient traitées de manière électronique. Dans ce cas, il précise notamment les exigences applicables en matière d’interopérabilité des systèmes informatiques et de sécurité des données.[^39-5]
 
 [^39-1]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^39-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^39-3]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^39-2]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^39-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^39-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^39-5]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 40
 
@@ -721,9 +1047,9 @@ Dans le cadre de l’exécution des traités internationaux relatifs au couplage
 
 <sup>1</sup>
 
-Le Conseil fédéral évalue périodiquement:
+Le Conseil fédéral évalue régulièrement:[^40-1]
 
-- a. l’efficacité des mesures prévues par la présente loi;
+- a.[^40-2] l’efficacité et l’efficience des mesures prévues par la présente loi;
 - b. la nécessité de mesures supplémentaires.
 
 <sup>2</sup> À cet égard, il tient compte en particulier de l’évolution des principaux facteurs ayant une incidence sur le climat, tels que la croissance démographique, la croissance économique et l’augmentation du trafic.
@@ -731,6 +1057,9 @@ Le Conseil fédéral évalue périodiquement:
 <sup>3</sup> Pour effectuer l’évaluation, il se fonde sur des relevés statistiques.
 
 <sup>4</sup> Il présente à intervalles réguliers un rapport à l’Assemblée fédérale.
+
+[^40-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 40a
 
@@ -755,15 +1084,15 @@ Sont notamment tenus de fournir des renseignements:
 
 #### Art. 40b
 
-**Traitement des données personnelles**[^40b-1]
+**Traitement et communication des données personnelles et des données concernant les personnes morales**[^40b-1]
 
-<sup>1</sup> Les autorités fédérales compétentes peuvent traiter des données personnelles, y compris des données sensibles concernant des poursuites ou sanctions pénales ou administratives, dans le cadre défini par la présente loi.
+<sup>1</sup> Dans le cadre défini par la présente loi, les autorités fédérales compétentes peuvent traiter et communiquer des données personnelles et des données concernant les personnes morales, y compris des données sensibles.
 
 <sup>2</sup> Elles peuvent conserver ces données sous forme électronique.
 
-<sup>3</sup> Le Conseil fédéral détermine les catégories de données personnelles dont le traitement est autorisé ainsi que la durée de leur conservation.
+<sup>3</sup> Le Conseil fédéral détermine les catégories de données personnelles et de données concernant les personnes morales dont le traitement et la communication sont autorisées ainsi que la durée de leur conservation.
 
-[^40b-1]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^40b-1]: Introduit par l’annexe de l’AF du 22 mars 2019 portant approbation et mise en œuvre de l’Accord conclu entre la Suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission ([RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 399](https://fedlex.data.admin.ch/eli/fga/2018/109)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 40c
 
@@ -779,10 +1108,11 @@ Sont notamment tenus de fournir des renseignements:
 
 L’OFEV peut accorder aux organes et personnes suivants l’accès aux systèmes d’information et de documentation:
 
-- a. Office fédéral de l’énergie;
+- a.[^40c-2] OFEN;
 - b. Office fédéral des assurances sociales;
 - c. Office fédéral de l’aviation civile;
 - d. Office fédéral de la douane et de la sécurité des frontières (OFDF);
+- d<sup>bis</sup>.[^40c-3] Office fédéral de topographie;
 - e. organisations privées visées à l’art. 39, al. 2;
 - f. requérants, personnes assujetties à l’obligation de déclarer et exploitants au sens de la présente loi;
 - g. organismes de validation et de vérification agréés;
@@ -792,14 +1122,51 @@ L’OFEV peut accorder aux organes et personnes suivants l’accès aux système
 <sup>5</sup> Les organes et personnes visés à l’al. 4 peuvent consulter et traiter les données personnelles enregistrées dans les systèmes d’information et de documentation, y compris les données sensibles relatives à des poursuites ou des sanctions pénales et administratives, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches et au respect des obligations prévues par la présente loi.
 
 [^40c-1]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^40c-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40c-3]: Introduite par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 40d
+
+**Évaluation des risques financiers liés au climat**[^40d-1]
+
+<sup>1</sup> L’Autorité fédérale de surveillance des marchés financiers (FINMA) évalue régulièrement les risques financiers liés au climat auxquels sont exposés les assujettis au sens de l’art. 3, let. a, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^40d-2].
+
+<sup>2</sup> La Banque nationale suisse (BNS) évalue régulièrement les risques financiers liés au climat pour la stabilité du système financier.
+
+<sup>3</sup> La FINMA et la BNS publient chacune régulièrement un rapport sur les résultats et sur les mesures éventuelles.
+
+[^40d-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^40d-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 41
 
-**Formation et formation continue**
+**Formation, formation continue et information**[^41-1]
 
-<sup>1</sup> En collaboration avec les cantons, la Confédération encourage la formation et la formation continue des personnes qui sont investies de tâches en vertu de la présente loi.
+<sup>1</sup> La Confédération peut encourager, à hauteur de 5 millions de francs par an au maximum, les formations et les formations continues qui portent sur la protection du climat dans le cadre de l’activité professionnelle, ainsi que les plateformes et autres travaux d’information dans le domaine de la protection du climat. Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
 
-<sup>2</sup> Les autorités informent le public des mesures de prévention prises dans le cadre de la protection du climat; en outre, elles conseillent les communes, les entreprises et les consommateurs au sujet des mesures permettant de réduire les émissions de CO<sub>2</sub>.
+<sup>2</sup> Les autorités compétentes informent le public et conseillent les communes, les entreprises et les consommateurs sur la protection du climat.
+
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 41a
+
+**Encouragement des technologies de propulsion électrique**[^41a-1]
+
+<sup>1</sup> Jusqu’en 2030, la Confédération contribue, dans le transport de voyageurs concessionnaire, à hauteur de 47 millions de francs par an au plus à l’acquisition de véhicules à propulsion électrique et à la conversion de bateaux à la propulsion électrique.
+
+<sup>2</sup>
+
+Les contributions couvrent les coûts suivants à hauteur de:
+
+- a. pour les véhicules routiers destinés à être utilisés dans les prestations de transport régional commandées conjointement par la Confédération et les cantons: 75 % des coûts d’investissement supplémentaires après déduction de tous les moyens d’encouragement;
+- b. pour les véhicules routiers destinés à être utilisés dans le trafic local et dans le reste du trafic concessionnaire: 30 % des coûts d’investissement supplémentaires après déduction de tous les moyens d’encouragement;
+- c. dans la navigation concessionnaire, 30 % des coûts d’investissement supplémentaires ou des coûts générés par la conversion des bateaux à la propulsion électrique, après déduction de tous les moyens d’encouragement.
+
+<sup>3</sup> L’Office fédéral des transports définit une fois par an, de manière forfaitaire, les coûts d’investissement supplémentaires par type de véhicule. Ces coûts sont calculés pour chaque bateau individuellement.
+
+<sup>4</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
+
+[^41a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Chapitre 8 Dispositions pénales
 
@@ -840,18 +1207,40 @@ L’OFEV peut accorder aux organes et personnes suivants l’accès aux système
 
 [^44-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
+#### Art. 44a
+
+**Autres infractions**[^44a-1]
+
+<sup>1</sup>
+
+Est puni d’une amende de 30 000 francs au plus quiconque, intentionnellement:
+
+- a. fournit des indications fausses ou incomplètes en vue de la délivrance d’attestations;
+- b. enfreint l’obligation de participer à un SEQE prévue aux art. 16, al. 1, ou 16*a*, al. 1;
+- c. fournit des indications fausses ou incomplètes dans les rapports prévus aux art. 20 et 28*d* ou ne respecte pas l’obligation de faire rapport.
+
+<sup>2</sup> Si l’auteur a agi par négligence, la peine est l’amende.
+
+[^44a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
 #### Art. 45
 
 **Relation avec la loi fédérale sur le droit pénal administratif**
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément à la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^45-1].
 
-<sup>2</sup> La poursuite et le jugement incombent à l’OFDF.[^45-2]
+<sup>2</sup>
+
+La poursuite et le jugement incombent aux autorités suivantes:
+
+- a. pour les infractions aux art. 42 et 43: l’OFDF;
+- b. pour les infractions à l’art. 44: l’OFEN;
+- c. pour les infractions à l’art. 44*a:* l’OFEV.[^45-2]
 
 <sup>3</sup> Si l’acte constitue à la fois une infraction visée à l’art. 42 ou 43 et une infraction à la législation douanière ou à d’autres actes législatifs fédéraux régissant les taxes que l’OFDF est chargé de poursuivre, la peine applicable est celle prévue pour l’infraction la plus grave, augmentée de manière appropriée.[^45-3]
 
-[^45-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^45-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^45-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^45-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^45-3]: Nouvelle teneur selon le ch. I 23 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapitre 9 Dispositions finales
@@ -868,7 +1257,7 @@ La loi du 8 octobre 1999 sur le CO<sub>2</sub>[^46-1] est abrogée.
 
 **Modification du droit en vigueur**
 
-... [^47-1]
+… [^47-1]
 
 [^47-1]: La mod. peut être consultée au [RO 2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855).
 
@@ -901,6 +1290,20 @@ La loi du 8 octobre 1999 sur le CO<sub>2</sub>[^46-1] est abrogée.
 <sup>3</sup> Les attestations obtenues pour des réductions d’émissions réalisées en Suisse au cours de la période allant de 2013 à 2021 qui n’ont pas été utilisées peuvent être reportées sans limitation sur la période allant de 2022 à 2024.
 
 [^48b-1]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+
+#### Art. 48c
+
+**Report des droits d’émission, des certificats de réduction des émissions et des attestations non utilisés**[^48c-1]
+
+<sup>1</sup> Les droits d’émission qui n’ont pas été utilisés durant la période 2022 à 2024 peuvent être reportés intégralement sur la période 2025 à 2030.
+
+<sup>2</sup> Les droits d’émission gardés en réserve durant la période 2021 à 2024 pour les futurs exploitants d’aéronefs ou d’exploitants d’aéronefs en forte croissance sont annulés.
+
+<sup>3</sup> Les certificats de réduction des émissions qui n’ont pas été utilisés durant la période 2022 à 2024 peuvent être reportés intégralement sur la période 2025 à 2030. Sont réservées les restrictions découlant de traités internationaux.
+
+<sup>4</sup> Les attestations qui n’ont pas été utilisées au cours de la période 2022 à 2024 peuvent être reportées intégralement sur la période 2025 à 2030.
+
+[^48c-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 49
 
