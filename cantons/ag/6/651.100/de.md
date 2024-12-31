@@ -4,13 +4,12 @@ number: "651.100"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-19
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 1998-12-15
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3462/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4018/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3462/pdf_file"
 
 (StG)
 
-Vom 15.12.1998 (Stand 01.07.2024)
+Vom 15.12.1998 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -84,7 +83,7 @@ beschliesst:
 
 **V. Juristische Personen 1. Begriff der juristischen Person**
 
-<sup>1</sup> Als juristische Personen werden besteuert: Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung), Genossenschaften, Vereine, Stiftungen, Körperschaften und Anstalten des öffentlichen Rechts sowie Körperschaften des kantonalen Rechts. Einer juristischen Person gemäss § 81 gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 des Bundesgesetzes über die kollektiven Kapitalanlagen (Kollektivanlagengesetz, KAG) vom 23. Juni 2006[^5-1]. Die Investmentgesellschaften mit festem Kapital nach Art. 110 KAG werden wie Kapitalgesellschaften besteuert.
+<sup>1</sup> Als juristische Personen werden besteuert: Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung), Genossenschaften, Vereine, Stiftungen, Körperschaften und Anstalten des öffentlichen Rechts sowie Körperschaften des kantonalen Rechts. Einer juristischen Person gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz gemäss den Art. 58 und 118a des Bundesgesetzes über die kollektiven Kapitalanlagen (Kollektivanlagengesetz, KAG) vom 23. Juni 2006[^5-1]. Die Investmentgesellschaften mit festem Kapital nach Art. 110 KAG werden wie Kapitalgesellschaften besteuert.
 
 <sup>2</sup> Ausländische juristische Personen sowie auf Grund wirtschaftlicher Zugehörigkeit steuerpflichtige ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit werden denjenigen inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
@@ -196,7 +195,7 @@ beschliesst:
 <sup>2</sup> Die in Absatz 1 lit. a–e und g genannten juristischen Personen mit besonderen Zwecken entrichten jedoch
 
 - a) …
-- b) die Grundstückgewinnsteuer nach den Bestimmungen des vierten Teils dieses Gesetzes, wobei die in den letzten 7 Jahren auf andern Grundstücken im Kanton Aargau erlittenen Verkaufsverluste vom Grundstückgewinn abgezogen werden können. Bei Liegenschaften des Anlagevermögens, die für die Verfolgung der besonderen Zwecke notwendig sind, wird die Besteuerung aufgeschoben, wenn innert angemessener Frist, in der Regel innert 1 Jahr vor oder 3 Jahren nach der Veräusserung, ein Ersatzobjekt beschafft wird;
+- b) die Grundstückgewinnsteuer gemäss den §§ 95–111, wobei die in den letzten 7 Jahren auf andern Grundstücken in der Schweiz erlittenen Verkaufsverluste vom Grundstückgewinn abgezogen werden können. Bei Liegenschaften des Anlagevermögens, die für die Verfolgung der besonderen Zwecke notwendig sind, wird die Besteuerung aufgeschoben, wenn innert angemessener Frist, in der Regel innert 1 Jahr vor oder 3 Jahren nach der Veräusserung, ein Ersatzobjekt beschafft wird;
 - c) eine Gewinnsteuer von 20 % auf Leistungen, die sie für nicht steuerbefreite Zwecke ausschütten und denen keine oder keine gleichwertige Leistung der begünstigten Person gegenübersteht. Die Steuer wird für das Jahr der Ausschüttung in der Form einer Jahressteuer vom Kantonalen Steueramt erhoben. Die Besteuerung bei der begünstigten Person bleibt vorbehalten. Diese haftet für die Steuer der juristischen Person solidarisch, sofern sie oder ihr nahe stehende Personen die zweckwidrige Ausschüttung beeinflusst haben.
 
 <sup>3</sup> Die juristische Person mit besonderen Zwecken versteuert den Reingewinn aus einer regelmässigen Erwerbstätigkeit nach den Bestimmungen für Vereine und Stiftungen im dritten Teil dieses Gesetzes. Dieser Reingewinn kann nicht mit Verlusten aus den übrigen Tätigkeiten der juristischen Person verrechnet werden.
@@ -311,7 +310,7 @@ beschliesst:
 
 **III. Haftung**
 
-<sup>1</sup> Verheiratete, die in rechtlich und tatsächlich ungetrennter Ehe leben, haften solidarisch für die Gesamtsteuer. Jeder Eheteil haftet jedoch nur für seinen Anteil an der Gesamtsteuer, wenn der andere zahlungsunfähig ist. Ferner haften sie solidarisch für denjenigen Teil an der Gesamtsteuer, der auf das Kindereinkommen und -vermögen entfällt.
+<sup>1</sup> Verheiratete, die in rechtlich und tatsächlich ungetrennter Ehe leben, haften solidarisch für die Gesamtsteuer. Jeder Eheteil haftet jedoch nur für seinen Anteil an der Gesamtsteuer, wenn der andere zahlungsunfähig ist. Ferner haften sie solidarisch für denjenigen Teil an der Gesamtsteuer, der auf das Kindereinkommen und ‑vermögen entfällt.
 
 <sup>2</sup> Bei rechtlich oder tatsächlich getrennter Ehe entfällt die Solidarhaftung auch für alle noch offenen Steuerschulden.
 
@@ -498,7 +497,10 @@ beschliesst:
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>8</sup> Absatz 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands gemäss den Art. 653s ff. des Obligationenrechts (OR)[^29-2] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
 [^29-1]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de)
+[^29-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### § 29a
 
@@ -522,9 +524,11 @@ beschliesst:
 - c) Einkünfte aus Baurechtsverträgen;
 - d) Einkünfte aus dem Abbau von Kies, Sand und andern Bestandteilen des Bodens.
 
-<sup>2</sup> Die Eigenmietwerte betragen 60 % der Marktmietwerte. Soweit es das Bundesrecht erlaubt, kann der Grosse Rat die Eigenmietwerte tiefer ansetzen.
+<sup>2</sup> Der Eigenmietwert beträgt 62 % des Marktmietwerts.
 
-<sup>3</sup> Bei selbst genutzten landwirtschaftlichen Liegenschaften bestimmt sich der Eigenmietwert für den Wohnraum des landwirtschaftlichen Normalbedarfs nach der Anleitung für die Schätzung des landwirtschaftlichen Ertragswerts und für den übrigen Wohnraum nach den Kriterien für nichtlandwirtschaftliche Liegenschaften.
+<sup>3</sup> Bei selbst bewohnten landwirtschaftlich genutzten Liegenschaften richtet sich der Eigenmietwert nach der jeweils geltenden Anleitung für die Schätzung des landwirtschaftlichen Ertragswerts[^30-1].
+
+[^30-1]: Anleitung für die Schätzung des landwirtschaftlichen Ertragswerts vom 31. Januar 2018 (Anhang zur Verordnung über das bäuerliche Bodenrecht [VBB] vom 4. Oktober 1993; SR [211.412.110](https://db.clex.ch/link/Bund/211.412.110/de))
 
 #### § 31
 
@@ -534,9 +538,20 @@ beschliesst:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen und Freizügigkeitskonten.
 
-<sup>3</sup> Einkünfte aus Leibrenten sowie Verpfründung sind zu 40 % steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+
+- a) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Bundesgesetz über den Versicherungsvertrag (Versicherungsvertragsgesetz, VVG) vom 2. April 1908[^31-1] unterstehen, ist der im Zeitpunkt des Vertragsabschlusses gemäss Art. 36 Abs. 1 des Bundesgesetzes betreffend die Aufsicht über Versicherungsunternehmen (Versicherungsaufsichtsgesetz, VAG) vom 17. Dezember 2004[^31-2] bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt: Ertragsanteil = {1 - [(1 + m)^22 - 1] / [22 × m × (1 + m)^23]} × 100%
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
+- c) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten- und aus Verpfründungsverträgen ist die Höhe der um 0,5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt: Ertragsanteil = {1 - [(1 + r)^22 - 1] / [22 × r × (1 + r)^23]} × 100%
+  - 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
 
 <sup>4</sup> Vorbehalten bleibt § 33 lit. b.
+
+[^31-1]: SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de)
+[^31-2]: SR [961.01](https://db.clex.ch/link/Bund/961.01/de)
 
 #### § 32
 
@@ -580,10 +595,12 @@ beschliesst:
 - k) Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die gemäss dem Bundesgesetz über Geldspiele (Geldspielgesetz, BGS)[^33-2] vom 29. September 2017 zugelassen sind, wenn diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - k<sup>bis</sup>) einzelne Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen und aus der Online-Teilnahme an Spielbankenspielen, die jeweils gemäss dem BGS zugelassen sind;
 - k<sup>ter</sup>) Gewinne aus Kleinspielen, die gemäss dem BGS zugelassen sind;
-- l) einzelne Gewinne bis zu einem Betrag von Fr. 1'000.– aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die gemäss Art. 1 Abs. 2 Bst. d und e BGS diesem nicht unterstehen.
+- l) einzelne Gewinne bis zu einem Betrag von Fr. 1'000.– aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die gemäss Art. 1 Abs. 2 Bst. d und e BGS diesem nicht unterstehen;
+- m) Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose (ÜLG) vom 19. Juni 2020[^33-3].
 
 [^33-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
 [^33-2]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
+[^33-3]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
 
 #### § 34
 
@@ -622,10 +639,21 @@ beschliesst:
 - c) die eingetretenen und verbuchten Verluste auf Geschäftsvermögen;
 - d) die Zuwendungen an Vorsorgeeinrichtungen zu Gunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - e) …
-- f) Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach § 27 Abs. 2 entfallen.
-- g) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten des eigenen Personals.
+- f) Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen gemäss § 27 Abs. 2 entfallen;
+- g) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten des eigenen Personals;
+- h) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen und Geldstrafen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen gemäss Absatz 3 lit. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, sind sie abziehbar, wenn
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 36a
 
@@ -689,7 +717,7 @@ beschliesst:
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfange der nach den §§ 29, 29a und 30 steuerbaren Vermögenserträge und weiterer Fr. 50'000.–;
-- b) die dauernden Lasten sowie 40 % der bezahlten Leibrenten;
+- b) die dauernden Lasten sowie der Ertragsanteil gemäss § 31 Abs. 3 lit. c der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Eheteil sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus der Alters-, Hinterlassenen- und Invalidenversicherung und aus Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^40-1];
@@ -703,9 +731,9 @@ beschliesst:
 - k) die Mitgliederbeiträge und Zuwendungen an die steuerbefreiten politischen Parteien bis zum Gesamtbetrag von Fr. 10'000.– pro Steuererklärung;
 - l) …
 - m) die Lohn- und Lohnnebenkosten für Lernende in eidgenössisch anerkannten Berufen, die in privaten Haushalten ausgebildet werden, wenn kein Abzug gemäss Litera n geltend gemacht wird. Der Regierungsrat regelt die Höhe der Abzüge durch Verordnung;
-- n) die nachgewiesenen Kosten, höchstens jedoch Fr. 10'000.–, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen. Der Maximalbetrag gilt für Verhältnisse mit einem Vollzeitpensum;
+- n) die nachgewiesenen Kosten, höchstens jedoch Fr. 25'000.–, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
 - o) 5 % als Einsatzkosten von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht gemäss § 33 Abs. 1 lit. k<sup>bis</sup>–l steuerfrei sind, jedoch höchstens Fr. 5'000.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss § 33 lit. k<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'000.– abgezogen;
-- p) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 12‘000.–, wenn
+- p) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 18‘000.–, wenn
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt; oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
@@ -716,7 +744,7 @@ beschliesst:
 <sup>4</sup> Mit den im Rahmen der Änderung des Steuergesetzes vom 7. Dezember 2021 beschlossenen Pauschalbeträgen ist die Prämienentwicklung für die Steuerperiode 2022 berücksichtigt. Die Pauschalbeträge werden erstmals für die Steuerperiode 2023 angepasst.
 
 [^40-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
-[^40-2]: Ab der Steuerperiode 2024: Fr. 6'800.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; Fr. 3'400.– für die übrigen Steuerpflichtigen (gestützt auf § 40 Abs. 2 und 3)
+[^40-2]: Gestützt auf § 40 Abs. 2 und 3 gelten für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für die übrigen Steuerpflichtigen folgende Abzüge: für die Steuerperiode 2027: Fr. 8'000.‒/Fr. 4'000.‒; für die Steuerperiode 2026: Fr. 7'600.‒/Fr. 3'800.‒; für die Steuerperiode 2025: Fr. 7'200.‒/Fr. 3'600.‒; für die Steuerperiode 2024: Fr. 6'800.‒/Fr. 3'400.‒; für die Steuerperiode 2023: Fr. 6'400.‒/Fr. 3'200.‒.
 [^40-3]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
 
 #### § 40a
@@ -739,14 +767,14 @@ beschliesst:
 
 #### § 42
 
-**IV. Ermittlung des steuerbaren Einkommens; Sozialabzüge[^42-1]**
+**IV. Ermittlung des steuerbaren Einkommens; Sozialabzüge**
 
 <sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen:
 
 - a) als Kinderabzug
-  - 1\. für jedes Kind unter elterlicher Sorge bis zum vollendeten 14. Altersjahr — Fr. 7'000.–
-  - 2\. für jedes Kind unter elterlicher Sorge bis zum vollendeten 18. Altersjahr — Fr. 9'000.–
-  - 3\. sowie für jedes volljährige Kind in Ausbildung, für dessen Unterhalt die Steuerpflichtigen zur Hauptsache aufkommen — Fr. 11'000.–
+  - 1\. für jedes Kind unter elterlicher Sorge bis zum vollendeten 14. Altersjahr — Fr. 9'300.–
+  - 2\. für jedes Kind unter elterlicher Sorge bis zum vollendeten 18. Altersjahr — Fr. 10'300.–
+  - 3\. sowie für jedes volljährige Kind in Ausbildung, für dessen Unterhalt die Steuerpflichtigen zur Hauptsache aufkommen — Fr. 12'400.–
   - 4\. Wer für das gleiche Kind bereits einen Abzug nach § 40 lit. c vornehmen kann, hat keinen Anspruch auf den Kinderabzug;
 - b) als Unterstützungsabzug für jede erwerbsunfähige oder beschränkt erwerbsfähige, unterstützungsbedürftige Person, an deren Unterhalt die Steuerpflichtigen mindestens in der Höhe des Abzuges beitragen. Der Abzug kann nicht beansprucht werden für denjenigen Eheteil und für Kinder, für die ein Abzug nach litera a oder nach § 40 lit. c gewährt wird; — Fr. 2'400.–
 - c) als Invalidenabzug für jede Person, die mindestens eine halbe IV-Rente oder eine Hilflosenentschädigung der AHV oder IV bezieht. Soweit behinderungsbedingte Kosten gemäss § 40 lit. i<sup>bis</sup> berücksichtigt werden, entfällt der Abzug; — maximal Fr. 3'000.–
@@ -763,8 +791,6 @@ beschliesst:
 <sup>2</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
 <sup>3</sup> Besteht die Steuerpflicht nur während eines Teils der Steuerperiode, werden die Sozialabzüge anteilmässig gewährt; für die Satzbestimmung werden sie voll angerechnet.
-
-[^42-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d richten sich ab der Steuerperiode 2024 nach der Verordnung über die Anpassung an die Teuerung vom 1. November 2023 (Progressionsverordnung 2024; SAR 651.134)
 
 #### § 43
 
@@ -885,18 +911,26 @@ beschliesst:
 
 <sup>1</sup> Als Grundstücke gelten Liegenschaften, in das Grundbuch aufgenommene selbstständige und dauernde Rechte, Bergwerke, Miteigentumsanteile an Grundstücken und mit Grundstücken fest verbundene Sachen und Rechte.
 
-<sup>2</sup> Der Wald wird zum Ertragswert besteuert. Ebenfalls zum Ertragswert werden landwirtschaftlich genutzte Grundstücke besteuert,
+<sup>2</sup> Zum Ertragswert bewertet werden der Wald sowie landwirtschaftlich genutzte Grundstücke,
 
 - a) die ausserhalb der Bauzone liegen oder
 - b) die zum landwirtschaftlichen Geschäftsvermögen der Eigentümerin oder des Eigentümers beziehungsweise des andern Eheteils gehören.
 
-<sup>3</sup> Als Zweitwohnung genutzte Grundstücke werden zum Verkehrswert besteuert.
+<sup>3</sup> Alle übrigen Grundstücke werden zum Verkehrswert bewertet.
 
-<sup>4</sup> Alle übrigen Grundstücke werden zum Mittel aus Verkehrswert und Ertragswert besteuert.
+<sup>3<sup>bis</sup></sup> Der Verkehrswert eines Grundstücks entspricht dem im Geschäftsverkehr mit Dritten erzielbaren Kaufpreis, ohne Rücksicht auf ungewöhnliche oder persönliche Verhältnisse.
 
-<sup>5</sup> Der Grosse Rat kann, soweit es das Bundesrecht erlaubt, im Interesse der Wohneigentumsförderung die Steuerwerte für selbst bewohnte Liegenschaften tiefer ansetzen.
+<sup>3<sup>ter</sup></sup> Fehlt ein Kaufpreis gemäss Absatz 3<sup>bis</sup>, wird der Verkehrswert durch einen Preisvergleich gemäss Absatz 6 bestimmt.
 
-<sup>6</sup> Der Regierungsrat erlässt die für eine gleichmässige Bewertung von Grundstücken notwendigen Regelungen.
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+<sup>6</sup> Der Regierungsrat regelt das für eine gleichmässige Bewertung der Grundstücke notwendige Verfahren durch Verordnung. Er beachtet dabei die folgenden Grundsätze:
+
+- a) Der Verkehrswert eines Grundstücks gemäss Absatz 3<sup>ter</sup> leitet sich vom Sachwert oder vom Mietpreis ab. Als Vergleichsfaktoren werden empirisch hergeleitete Marktanpassungsfaktoren und Zinssätze herangezogen. Der Verkehrswert ergibt sich aus der Multiplikation von Sachwert und Marktanpassungsfaktor oder aus der Division von Mietpreis durch Zinssatz.
+- b) Der Marktmietwert gemäss § 30 Abs. 2 wird aufgrund von vergleichbaren Marktmietpreisen bestimmt. Fehlen solche, ergibt sich der Marktmietwert aus der Multiplikation von Verkehrswert und einem empirisch hergeleiteten Zinssatz.
+- c) Bei der Bemessung des Vermögenssteuerwerts wird die Unschärfe der Vergleichsdaten in Abzug gebracht.
 
 #### § 52
 
@@ -919,9 +953,9 @@ beschliesst:
 
 <sup>1</sup> Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen:
 
-- a) für gemeinsam steuerpflichtige Verheiratete: — Fr. 200'000.–
-- b) für alle übrigen steuerpflichtigen Personen: — Fr. 100'000.–
-- c) zusätzlich für jedes Kind, für das ein steuerfreier Betrag nach § 42 Abs. 1 lit. a gewährt worden ist: — Fr. 12'000.–
+- a) für gemeinsam steuerpflichtige Verheiratete: — Fr. 260'000.–
+- b) für alle übrigen steuerpflichtigen Personen: — Fr. 130'000.–
+- c) zusätzlich für jedes Kind, für das ein steuerfreier Betrag nach § 42 Abs. 1 lit. a gewährt worden ist: — Fr. 16'000.–
 
 <sup>2</sup> Die steuerfreien Beträge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
@@ -929,24 +963,22 @@ beschliesst:
 
 #### § 55
 
-**2. Steuertarif[^55-1]**
+**2. Steuertarif**
 
 <sup>1</sup> Die Vermögenssteuer beträgt:
 
-- a) 1,1 ‰ für die ersten Fr. 100'000.–
-- b) 1,3 ‰ für die weiteren Fr. 100'000.–
-- c) 1,4 ‰ für die weiteren Fr. 100'000.–
-- d) 1,5 ‰ für die weiteren Fr. 100'000.–
-- e) 1,6 ‰ für die weiteren Fr. 100'000.–
-- f) 1,7 ‰ für die weiteren Fr. 100'000.–
-- g) 1,8 ‰ für die weiteren Fr. 200'000.–
-- h) 1,9 ‰ für die weiteren Fr. 200'000.–
-- i) 2,0 ‰ für die weiteren Fr. 200'000.–
-- k) 2,1 ‰ für Vermögensteile über Fr. 1'200'000.–
+- a) 0,7 ‰ für die ersten Fr. 107'000.–
+- b) 1,0 ‰ für die weiteren Fr. 107'000.–
+- c) 1,2 ‰ für die weiteren Fr. 107'000.–
+- d) 1,4 ‰ für die weiteren Fr. 107'000.–
+- e) 1,6 ‰ für Vermögensteile über Fr. 428'000.–
+- f) …
+- g) …
+- h) …
+- i) …
+- k) …
 
 <sup>2</sup> Restbeträge des Vermögens unter Fr. 1'000.– fallen ausser Betracht.
-
-[^55-1]: Der Vermögenssteuertarif ab der Steuerperiode 2024 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 1. November 2023 (Progressionsverordnung 2024; SAR 651.134)
 
 ### 2.4. Höchstbelastung, Anpassung an die Teuerung und Zuschläge
 
@@ -970,7 +1002,9 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Mit den im Rahmen der Änderung des Steuergesetzes vom 22. Mai 2012 beschlossenen Einkommens- und Vermögenssteuertarifen gemäss den §§ 43 Abs. 1 und 55 Abs. 1 sind die Folgen der kalten Progression bis zum 31. Dezember 2013 ausgeglichen. Die erste Anpassung erfolgt für die Steuerperiode 2016.
+<sup>4</sup> …
+
+<sup>5</sup> Mit den im Rahmen der Änderung des Steuergesetzes vom 3. Dezember 2024 beschlossenen Vermögenssteuertarifen gemäss § 55 Abs. 1 sowie dem Abzug gemäss § 42 Abs. 1 lit. a sind die Folgen der kalten Progression bis zum 31. Dezember 2025 ausgeglichen. Die erste Anpassung erfolgt diesbezüglich für die Steuerperiode 2026.
 
 #### § 57a
 
@@ -1166,22 +1200,33 @@ beschliesst:
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch
 
-- a) die direkten Steuern, nicht aber Steuerbussen;
+- a) die eidgenössischen, kantonalen und kommunalen Steuern;
 - b) die Zuwendungen an Vorsorgeeinrichtungen zu Gunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - c) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 % des steuerbaren Reingewinns an Bund, Kantone, Gemeinden und deren Anstalten, an die aargauischen Landeskirchen und an andere juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder gemeinnützige Zwecke gemäss § 14 Abs. 1 lit. c von der Steuerpflicht befreit sind. Bei Zuwendungen an die steuerbefreiten politischen Parteien ist der Abzug auf Fr. 10'000.– beschränkt;
 - d) …
 - e) die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften;
 - f) die Rückstellungen. Rückstellungen für Forschungs- und Entwicklungsaufträge an Dritte oder für nachgewiesene eigene Forschungs- und Entwicklungsprojekte werden bis zu 10 % des steuerbaren Reingewinns, insgesamt jedoch höchstens bis zu 1 Million Franken, anerkannt. Der Gegenwert der Forschungs- und Entwicklungsrückstellungen muss Gegenstand des liquiden Umlaufvermögens darstellen. Solche Rückstellungen sind innert 3 Jahren aufzulösen. Der Regierungsrat legt die Kriterien für den Nachweis der Forschungs- und Entwicklungsprojekte fest;
-- g) die Abschreibungen. Abschreibungen auf Aktiven, die zum Ausgleich von Verlusten höher bewertet wurden, können nur vorgenommen werden, wenn die Aufwertungen handelsrechtlich zulässig waren und die Verluste im Zeitpunkt der Abschreibung nach § 74 Abs. 1 verrechenbar gewesen wären. Wertberichtigungen und Abschreibungen auf Beteiligungen nach § 77 Abs. 2, die nicht mehr geschäftsmässig begründet sind, werden dem steuerbaren Reingewinn zugerechnet.
-- h) die Kosten der berufsorientierten Aus- und Weiterbildung des eigenen Personals, einschliesslich Umschulungskosten.
+- g) die Abschreibungen. Abschreibungen auf Aktiven, die zum Ausgleich von Verlusten höher bewertet wurden, können nur vorgenommen werden, wenn die Aufwertungen handelsrechtlich zulässig waren und die Verluste im Zeitpunkt der Abschreibung gemäss § 74 Abs. 1 verrechenbar gewesen wären. Wertberichtigungen und Abschreibungen auf Beteiligungen gemäss § 77 Abs. 2, die nicht mehr geschäftsmässig begründet sind, werden dem steuerbaren Reingewinn zugerechnet;
+- h) die Kosten der berufsorientierten Aus- und Weiterbildung des eigenen Personals, einschliesslich Umschulungskosten;
+- i) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen gemäss Absatz 2 lit. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, sind sie abziehbar, wenn
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 69a
 
 **b<sup>bis</sup>) Zusätzlicher Abzug von Forschungs- und Entwicklungsaufwand**
 
-<sup>1</sup> Forschungs- und Entwicklungsaufwand, welcher der steuerpflichtigen Person direkt oder durch Dritte im Inland indirekt entstanden ist, wird auf Antrag um 50 % über den geschäftsmässig begründeten Aufwand hinaus zum Abzug zugelassen.
+<sup>1</sup> Forschungs- und Entwicklungsaufwand, welcher der steuerpflichtigen Person direkt oder durch Dritte im Inland indirekt entstanden ist, wird auf Antrag um 50 % über den geschäftsmässig begründeten Forschungs- und Entwicklungsaufwand hinaus zum Abzug zugelassen.
 
 <sup>2</sup> Als Forschung und Entwicklung gelten die wissenschaftliche Forschung und die wissenschaftsbasierte Innovation gemäss Art. 2 des Bundesgesetzes über die Förderung der Forschung und der Innovation (FIFG) vom 14. Dezember 2012[^69a-1].
 
@@ -1370,7 +1415,7 @@ beschliesst:
 
 **5. Vereine, Stiftungen und übrige juristische Personen**
 
-<sup>1</sup> Die Gewinnsteuer der Vereine, Stiftungen und übrigen juristischen Personen beträgt 6 % des steuerbaren Reingewinns.
+<sup>1</sup> Die Gewinnsteuer der Vereine, Stiftungen und übrigen juristischen Personen beträgt 5,5 % des steuerbaren Reingewinns.
 
 <sup>2</sup> Der Gewinn der Vereine und Stiftungen wird besteuert, soweit er Fr. 20'000.– übersteigt.
 
@@ -1450,7 +1495,7 @@ beschliesst:
 - a) einen Kantonssteuerzuschlag von 2 %;
 - b) einen Zuschlag von 53 % an die Einwohnergemeinden, in denen die juristische Person steuerpflichtig ist.
 
-[^90-1]: Finanzausgleichsgesetz vom 29. Juni 1983 (SAR [615.100](https://gesetzessammlungen.ag.ch/data/615.100/de))
+[^90-1]: Finanzausgleichsgesetz vom 1. März 2016 (SAR [615.200](https://gesetzessammlungen.ag.ch/data/615.200/de))
 [^90-2]: Formlos berichtigt gemäss § 12 des Gesetzes über die amtlichen Publikationsorgane (Publikationsgesetz, PuG) vom 3. Mai 2011 (SAR [150.600)](https://gesetzessammlungen.ag.ch/data/150.600)/de)
 
 ### 3.5. Zeitliche Bemessung
@@ -1471,9 +1516,11 @@ beschliesst:
 
 <sup>1</sup> Der steuerbare Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
 
-<sup>2</sup> Bei einem unter- oder überjährigen Geschäftsabschluss werden für die Bestimmung des Steuersatzes nur die ordentlichen Gewinne auf 12 Monate umgerechnet.
+<sup>2</sup> …
 
 <sup>3</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
+
+<sup>4</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
 
 #### § 93
 
@@ -1484,6 +1531,8 @@ beschliesst:
 <sup>2</sup> Massgeblich ist das Eigenkapital am Bilanzstichtag des jeweiligen Geschäftsabschlusses nach Gewinnverwendung.
 
 <sup>3</sup> Die Kapitalsteuer wird auf der Basis eines ordentlichen Geschäftsjahres von 12 Monaten festgelegt. Bei unter- oder überjährigen Geschäftsabschlüssen wird eine der Dauer des Geschäftsjahres entsprechende anteilmässige Kapitalsteuer erhoben.
+
+<sup>4</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### § 94
 
@@ -1524,7 +1573,7 @@ beschliesst:
 <sup>1</sup> Die Besteuerung wird aufgeschoben bei
 
 - a) Erbgang (Erbfolge, Erbteilung, Vermächtnis) und Eigentumswechsel mit Erbvorbezug, Schenkung oder gemischter Schenkung;
-- b) Rechtsgeschäften unter Verwandten in gerader Linie;
+- b) …
 - c) Rechtsgeschäften unter Verheirateten, auch wenn sie der gegenseitigen Abfindung im Ehescheidungs- oder Ehetrennungsprozess dienen;
 - d) Landumlegungen zwecks Güterzusammenlegung, Quartierplanung, Grenzbereinigung, Abrundung landwirtschaftlicher Heimwesen sowie bei Landumlegungen im Enteignungsverfahren oder drohender Enteignung;
 - e) …
@@ -1743,9 +1792,9 @@ beschliesst:
 
 #### § 114
 
-**2. Tarife für Erwerbs- und Ersatzeinkommen a) Grundlage**
+**2. Tarife a) Grundlage**
 
-<sup>1</sup> Der Regierungsrat legt die Quellensteuertarife entsprechend den für die Einkommenssteuer natürlicher Personen geltenden Steuersätzen fest. Vorbehalten bleiben die §§ 115 Abs. 3 und 116 Abs. 2.
+<sup>1</sup> Der Regierungsrat legt die Quellensteuertarife entsprechend den für die Einkommenssteuer natürlicher Personen geltenden Steuersätzen fest.
 
 <sup>2</sup> Der Steuerabzug umfasst die Kantons-, Gemeinde-, Kirchen- und Feuerwehrsteuern sowie die direkte Bundessteuer.
 
@@ -1759,15 +1808,11 @@ beschliesst:
 
 <sup>2</sup> Der Steuerabzug für die in rechtlich und tatsächlich ungetrennter Ehe lebenden verheirateten Personen, die beide erwerbstätig sind, richtet sich nach Tarifen, die ihrem Gesamteinkommen sowie den Pauschalen und Abzügen nach Absatz 1 Rechnung tragen.
 
-<sup>3</sup> Für im Nebenerwerb tätige Steuerpflichtige beträgt der Steuersatz 10 %.
+<sup>3</sup> …
 
 #### § 116
 
-**3. Tarife für Ersatzeinkommen und Kapitalabfindungen für wiederkehrende Leistungen**
-
-<sup>1</sup> Auf Leistungen, die eine Versicherung direkt der versicherten Person ausrichtet, ist der Quellensteuerabzug nach dem entsprechenden Quellensteuertarif vorzunehmen.
-
-<sup>2</sup> Vorbehalten bleiben Leistungen, welche die Versicherung nicht nach Massgabe des versicherten Verdienstes ausrichtet oder die neben ein allfälliges Erwerbseinkommen treten können. Für diese Leistungen beträgt der Steuersatz 10 %. Der gleiche Satz gilt bei Kapitalabfindungen für wiederkehrende Leistungen.
+**…**
 
 #### § 117
 
@@ -1876,7 +1921,7 @@ beschliesst:
 
 #### § 124
 
-**V. Hypothekargläubigerinnen und -gläubiger**
+**V. Hypothekargläubigerinnen und ‑gläubiger**
 
 <sup>1</sup> Im Ausland wohnhafte Gläubigerinnen und Gläubiger sowie Nutzniesserinnen und Nutzniesser von Forderungen, die durch Grund- oder Faustpfand auf Grundstücken im Kanton gesichert sind, werden für die ihnen ausgerichteten Zinsen an der Quelle besteuert.
 
@@ -1899,7 +1944,7 @@ beschliesst:
 
 #### § 125a
 
-**VIbis. Empfängerinnen und Empfänger von Mitarbeiterbeteiligungen**
+**VI<sup>bis</sup>. Empfängerinnen und Empfänger von Mitarbeiterbeteiligungen**
 
 <sup>1</sup> Personen, die im Zeitpunkt des Zuflusses von geldwerten Vorteilen aus gesperrten Mitarbeiteroptionen (§ 26b Abs. 3) im Ausland wohnhaft sind, werden für den geldwerten Vorteil anteilsmässig gemäss § 26d steuerpflichtig.
 
@@ -1937,9 +1982,11 @@ beschliesst:
 
 ### 5.3. Verfahren zur Erhebung und Rückerstattung der Quellensteuern
 
+### 5.3.1. Verfahrenspflichten und Haftung
+
 #### § 127
 
-**I. Verfahrenspflichten und Haftung 1. Pflichten der Schuldnerinnen und Schuldner der steuerbaren Leistung a) Im Allgemeinen**
+**I. Pflichten der Schuldnerinnen und Schuldner der steuerbaren Leistung 1. Im Allgemeinen**
 
 <sup>1</sup> Die Quellensteuern werden durch die Schuldnerinnen oder Schuldner der steuerbaren Leistung erhoben.
 
@@ -1957,7 +2004,7 @@ beschliesst:
 
 #### § 128
 
-**b) Haftung**
+**2. Haftung**
 
 <sup>1</sup> Schuldnerinnen oder Schuldner der steuerbaren Leistung haben für Steuerausfälle und für Verstösse gegen die Ablieferungspflicht einzustehen.
 
@@ -1965,7 +2012,7 @@ beschliesst:
 
 #### § 128a
 
-**1a. Pflichten im vereinfachten Abrechnungsverfahren; AHV-Ausgleichskasse**
+**II. Pflichten im vereinfachten Abrechnungsverfahren; AHV-Ausgleichskasse**
 
 <sup>1</sup> Die AHV-Ausgleichskasse stellt der steuerpflichtigen Person eine Aufstellung oder eine Bestätigung über den von der Arbeitgeberin oder vom Arbeitgeber vorgenommenen Quellensteuerabzug aus. Sie rechnet die abgelieferten Quellensteuern jährlich mit dem Kantonalen Steueramt ab und überweist den Quellensteuerbetrag im Laufe des folgenden Jahres an das Kantonale Steueramt.
 
@@ -1973,13 +2020,13 @@ beschliesst:
 
 #### § 129
 
-**2. Pflichten der steuerpflichtigen Person a) Im Allgemeinen**
+**III. Pflichten der steuerpflichtigen Person 1. Im Allgemeinen**
 
 <sup>1</sup> Die steuerpflichtige Person hat dem Kantonalen Steueramt sowie der Schuldnerin oder dem Schuldner der steuerbaren Leistung über die Verhältnisse, die für die Erhebung der Quellensteuern massgebend sind, mündlich oder schriftlich Auskunft zu erteilen.
 
 #### § 129a
 
-**Notwendige Vertretung**
+**2. Notwendige Vertretung**
 
 <sup>1</sup> Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter in der Schweiz bezeichnet.
 
@@ -1987,13 +2034,15 @@ beschliesst:
 
 #### § 130
 
-**b) Direktbezug**
+**3. Direktbezug**
 
 <sup>1</sup> Die steuerpflichtige Person kann vom Kantonalen Steueramt zur Nachzahlung der von ihr geschuldeten Quellensteuer verpflichtet werden, wenn die steuerbare Leistung nicht oder nicht vollständig um die Quellensteuer gekürzt ausbezahlt worden ist und ein Nachbezug bei der Schuldnerin oder beim Schuldner der steuerbaren Leistung nicht möglich ist.
 
+### 5.3.2. Erhebung der Quellensteuer; interkantonale Verhältnisse
+
 #### § 131
 
-**II. Erhebung der Quellensteuer im interkantonalen Verhältnis**
+**I. Erhebung der Quellensteuer**
 
 <sup>1</sup> Der Schuldner der steuerbaren Leistung berechnet und erhebt die Quellensteuer gemäss diesem Gesetz in folgenden Fällen:
 
@@ -2006,7 +2055,7 @@ beschliesst:
 
 #### § 131a
 
-**Nachträgliche ordentliche Veranlagung**
+**II. Nachträgliche ordentliche Veranlagung**
 
 <sup>1</sup> Für die nachträgliche ordentliche Veranlagung ist in den folgenden Fällen die Veranlagungsbehörde gemäss diesem Gesetz zuständig:
 
@@ -2022,9 +2071,11 @@ beschliesst:
 
 **…**
 
+### 5.3.3. Veranlagung und Bezug
+
 #### § 133
 
-**III. Verfahren 1. Durchführung**
+**I. Veranlagung 1. Zuständigkeit**
 
 <sup>1</sup> Die Durchführung der Quellenbesteuerung obliegt dem Kantonalen Steueramt in Zusammenarbeit mit den Schuldnerinnen und Schuldnern der steuerbaren Leistung.
 
@@ -2077,7 +2128,7 @@ beschliesst:
 
 #### § 138
 
-**IV. Steuerbezug 1. Zuständigkeiten**
+**II. Bezug 1. Zuständigkeit**
 
 <sup>1</sup> Die Quellensteuern werden durch das Kantonale Steueramt bezogen.
 
@@ -2149,7 +2200,7 @@ beschliesst:
 
 <sup>1</sup> Das Vermögen wird nach den Vorschriften über die Vermögenssteuer bewertet.
 
-<sup>2</sup> Der Vermögensanfall kann ganz oder teilweise neu bewertet werden, wenn die der Vermögenssteuer zu Grunde liegenden Schätzungen auf Grund besonderer Verhältnisse erheblich überholt sind.
+<sup>2</sup> Der Vermögensanfall kann ganz oder teilweise neu bewertet werden, wenn die der Vermögenssteuer zu Grunde liegenden Bewertungen auf Grund besonderer Verhältnisse erheblich überholt sind.
 
 #### § 146
 
@@ -2318,9 +2369,9 @@ beschliesst:
 
 <sup>1</sup> Die Steuerbehörden unterstehen hinsichtlich ihrer Amtsführung der Aufsicht des Departements Finanzen und Ressourcen.
 
-<sup>2</sup> Das Kantonale Steueramt leitet den Vollzug des Gesetzes und sorgt für richtige und gleichmässige Steuerveranlagungen, für sachgerechte Grundstückschätzungen und für einen einheitlichen Steuerbezug.
+<sup>2</sup> Das Kantonale Steueramt leitet den Vollzug des Gesetzes und sorgt für richtige und gleichmässige Steuerveranlagungen sowie für einen einheitlichen Steuerbezug.
 
-<sup>3</sup> Wurde die Veranlagung oder die Bewertung der Grundstücke in einer Gemeinde ungenügend oder willkürlich durchgeführt, kann das Kantonale Steueramt deren Eröffnung an die Steuerpflichtigen untersagen. Es kann eine neue Veranlagung oder Bewertung anordnen oder durch eigene Organe vornehmen.
+<sup>3</sup> Wurde die Veranlagung in einer Gemeinde ungenügend oder willkürlich durchgeführt, kann das Kantonale Steueramt deren Eröffnung an die Steuerpflichtigen untersagen. Es kann eine neue Veranlagung anordnen oder durch eigene Organe vornehmen.
 
 #### § 162
 
@@ -2358,13 +2409,7 @@ beschliesst:
 
 #### § 165
 
-**Schätzungsbehörde**
-
-<sup>1</sup> Das Kantonale Steueramt erhebt die Grundlagen für die Festlegung der Vermögenssteuerwerte und der Eigenmietwerte der Grundstücke und Liegenschaften.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### § 166
 
@@ -2374,7 +2419,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Die von den Gemeinden erhobenen Gebühren werden zwischen Kanton und Gemeinden im Verhältnis 40 zu 60 aufgeteilt.
 
-<sup>2</sup> Der Kanton und die Gemeinden tragen die Entschädigung ihrer Mitglieder der Veranlagungs- und der Schätzungsbehörde.
+<sup>2</sup> Der Kanton und die Gemeinden tragen die Entschädigung ihrer Mitglieder der Veranlagungsbehörde.
 
 #### § 167
 
@@ -2421,7 +2466,7 @@ beschliesst:
 
 <sup>2</sup> Eine Auskunft einschliesslich Gewährung der Akteneinsicht ist zulässig, wenn hierfür eine gesetzliche Grundlage im Bundesrecht oder im aargauischen Recht gegeben ist. Fehlt eine solche Grundlage, ist eine Auskunft nur zulässig, soweit ein überwiegendes öffentliches Interesse vorliegt. Über entsprechende Begehren entscheidet das Departement Finanzen und Ressourcen.
 
-<sup>3</sup> Eine Auskunft ist ferner zulässig an Erbschaftsverwalterinnen oder Erbschaftsverwalter sowie an Willensvollstreckerinnen oder Willensvollstrecker über die Steuerschulden der Erblasserin oder des Erblassers.
+<sup>3</sup> Eine Auskunft einschliesslich Gewährung der Einsicht in die Steuerakten der Erblasserin oder des Erblassers ist ferner zulässig an Erbschaftsverwalterinnen oder Erbschaftsverwalter sowie an Willensvollstreckerinnen oder Willensvollstrecker, soweit dies zur Erfüllung ihrer Aufgaben notwendig ist.
 
 #### § 171
 
@@ -2437,11 +2482,23 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat kann die Gerichte und die Verwaltungsbehörden verpflichten, den Steuerbehörden von sich aus bestimmte, von ihm bezeichnete Tatsachen kostenlos zu melden.
 
+<sup>5</sup> Die Leistungsabrechnungen sind von den Arbeitslosenkassen direkt an die zuständigen Steuerbehörden zu übermitteln. Die Datenbekanntgabe kann auf elektronischem Weg erfolgen.
+
 ### 8.2. Allgemeine Verfahrensgrundsätze
+
+#### § 171a
+
+**I. Verkehr mit den Behörden**
+
+<sup>1</sup> Der schriftliche Verkehr mit den Behörden kann in Papierform oder mit Zustimmung der steuerpflichtigen Person elektronisch erfolgen.
+
+<sup>2</sup> Schreibt das Gesetz die Unterzeichnung von Eingaben vor, tritt bei der elektronischen Einreichung anstelle der Unterzeichnung eine elektronische Bestätigung der Angaben durch die steuerpflichtige Person.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten und die Voraussetzungen für den elektronischen Verkehr zwischen den Behörden und der steuerpflichtigen Person durch Verordnung.
 
 #### § 172
 
-**I. Verfahrensrechtliche Stellung der Verheirateten**
+**II. Verfahrensrechtliche Stellung der Verheirateten**
 
 <sup>1</sup> Verheiratete, die in rechtlich und tatsächlich ungetrennter Ehe leben, üben die nach diesem Gesetz den Steuerpflichtigen zukommenden Verfahrensrechte und Verfahrenspflichten gemeinsam aus.
 
@@ -2453,7 +2510,7 @@ beschliesst:
 
 #### § 173
 
-**II. Verfahrensrechte der Steuerpflichtigen 1. Akteneinsicht**
+**III. Verfahrensrechte der Steuerpflichtigen 1. Akteneinsicht**
 
 <sup>1</sup> Die Steuerpflichtigen sind berechtigt, die von ihnen eingereichten oder unterzeichneten Akten einzusehen. Die übrigen Akten stehen den Steuerpflichtigen zur Einsicht offen, sofern die Ermittlung des Sachverhaltes abgeschlossen ist und soweit nicht öffentliche oder private Interessen entgegenstehen.
 
@@ -2487,7 +2544,7 @@ beschliesst:
 
 #### § 177
 
-**III. Verjährung 1. Veranlagungsverjährung**
+**IV. Verjährung 1. Veranlagungsverjährung**
 
 <sup>1</sup> Das Recht, eine Steuer zu veranlagen, verjährt 5 Jahre nach Ablauf der Steuerperiode. Vorbehalten bleibt die Erhebung von Nachsteuern.
 
@@ -2578,7 +2635,7 @@ beschliesst:
 
 - a) Arbeitgeberinnen und Arbeitgeber über ihre Leistungen an Arbeitnehmerinnen und Arbeitnehmer sowie über Art und Höhe der vom Lohn abgezogenen Beiträge an Einrichtungen der beruflichen Vorsorge;
 - b) Gläubigerinnen und Gläubiger sowie Schuldnerinnen und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem VVG unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil gemäss § 31 Abs. 3 sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen gemäss § 31 Abs. 3 lit. b ausweisen;
 - d) Einrichtungen der beruflichen Vorsorge, Versicherungseinrichtungen und Bankstiftungen über Beiträge und Leistungen auf Grund von Vorsorgeverhältnissen;
 - e) Treuhänderinnen und Treuhänder, Vermögensverwalterinnen und Vermögensverwalter, Pfandgläubigerinnen und Pfandgläubiger, Beauftragte und andere Personen, die Vermögen der steuerpflichtigen Person in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträge;
 - f) Personen, die mit der steuerpflichtigen Person Geschäfte tätigen oder getätigt haben, über die beidseitigen Ansprüche und Leistungen.
@@ -2678,9 +2735,9 @@ beschliesst:
 
 **2. Inhalt**
 
-<sup>1</sup> Die Einsprache muss einen Antrag enthalten, aus dem hervorgeht, gegen welche Punkte der Veranlagung sich die Einsprache richtet. Die angefochtene Veranlagungsverfügung ist anzugeben. Die Einsprache soll eine Begründung enthalten. Beweismittel sind beizulegen oder, sofern dies nicht möglich ist, genau zu bezeichnen.
+<sup>1</sup> …
 
-<sup>2</sup> Fehlt ein Antrag, ist unter Androhung des Nichteintretens bei Unterlassung eine angemessene Frist zur Verbesserung anzusetzen.
+<sup>2</sup> …
 
 <sup>3</sup> Eine Veranlagung nach pflichtgemässem Ermessen kann die steuerpflichtige Person nur wegen offensichtlicher Unrichtigkeit anfechten. Die Einsprache ist zu begründen und muss allfällige Beweismittel nennen.
 
@@ -2833,6 +2890,8 @@ beschliesst:
 
 <sup>1</sup> Das Kantonale Steueramt setzt die Nachsteuern fest. Die Bestimmungen über Vollzug und Verfahren gelten sinngemäss.
 
+<sup>2</sup> Der Regierungsrat kann kleinere Nachsteuerverfahren durch Verordnung an die Veranlagungsbehörden der Gemeinden delegieren.
+
 #### § 209a
 
 **IV. Vereinfachte Nachbesteuerung von Erben**
@@ -2931,37 +2990,52 @@ beschliesst:
 
 <sup>3</sup> Die Bestimmungen über die Verfahrensgrundsätze, das Veranlagungs-, Einsprache-, Rekurs- und Beschwerdeverfahren gelten sinngemäss.
 
-### 8.7. Verfahren bei Schätzungen
+### 8.7. Verfahren bei der Bewertung von Grundstücken
 
 #### § 218
 
-**I. Neuschätzung von Eigenmietwerten und Vermögenssteuerwerten**
+**I. Eigenmietwerte und Vermögenssteuerwerte**
 
-<sup>1</sup> Allgemeine Neuschätzungen von Eigenmietwerten und Vermögenssteuerwerten werden auf Anordnung des Grossen Rates auf Beginn einer Veranlagungsperiode vorgenommen.
+<sup>1</sup> Die Eigenmietwerte und die Vermögenssteuerwerte werden per 1. Januar 2025 neu festgelegt. Wertbasis bilden die Verhältnisse am 30. Juni 2024.
 
-<sup>2</sup> Ausserhalb der allgemeinen Neuschätzung nach Absatz 1 können die Eigenmietwerte und Vermögenssteuerwerte nur geändert werden, wenn Bestand, Nutzung oder Wert des Grundstückes wesentlich ändern oder wenn die Werte auf einer offensichtlich unrichtigen Schätzung oder auf einer unrichtigen Rechtsanwendung beruhen. Die neue Schätzung gilt ab Beginn der Steuerperiode, in der Bestand, Nutzung oder Wert geändert haben, bei unrichtigen Werten ab dem Jahr der Einleitung der Neuschätzung. Bereits vorgenommene Veranlagungen sind zu revidieren.
+<sup>1<sup>bis</sup></sup> Bei den Grundstücken gemäss § 51 Abs. 3 erfolgt eine Neubewertung in Abständen von fünf Jahren.
 
-<sup>3</sup> Der Regierungsrat überprüft die Marktlage periodisch. Er unterbreitet dem Grossen Rat Bericht und Antrag, wenn sich die Marktwerte gegenüber den nach § 30 Abs. 2 festgelegten Eigenmietwerten verändert haben oder wenn sich die Marktwerte der selbst bewohnten Liegenschaften wesentlich verändert haben.[^218-1]
+<sup>1<sup>ter</sup></sup> Bei landwirtschaftlich genutzten Grundstücken gemäss § 51 Abs. 2 erfolgt die Neubewertung per 1. Januar 2025 nach der in diesem Zeitpunkt geltenden eidgenössischen Anleitung für die Schätzung des landwirtschaftlichen Ertragswerts. Weitere Neubewertungen finden jeweils in der auf das Jahr des Inkrafttretens einer neuen Schätzungsanleitung folgenden Steuerperiode statt.
 
-<sup>4</sup> Der Regierungsrat regelt die Bewertung der Grundstücke und der Eigenmietwerte.
+<sup>2</sup> Ausserhalb einer Neubewertung gemäss den Absätzen 1–1<sup>ter</sup> können die Eigenmietwerte und Vermögenssteuerwerte nur geändert werden, wenn Bestand, Nutzung oder Wert des Grundstücks wesentlich ändern oder wenn die Werte auf einer offensichtlich unrichtigen Bewertung oder auf einer unrichtigen Rechtsanwendung beruhen. Die neue Bewertung gilt ab Beginn der Steuerperiode, in der Bestand, Nutzung oder Wert geändert haben, bei unrichtigen Werten ab dem Jahr der Einleitung der Neubewertung. Bereits vorgenommene Veranlagungen sind zu revidieren.
 
-[^218-1]: Geändert aufgrund Verwaltungsgerichtsurteil WNO.2019.1 / or / we vom 16. September 2020
+<sup>3</sup> …
+
+<sup>4</sup> Der Regierungsrat regelt die Bewertung der Grundstücke durch Verordnung.
 
 #### § 219
 
-**II. Zuständigkeiten und Rechtsmittel**
+**II. Zuständigkeiten, Verfahrensgrundsätze und Rechtsmittel**
 
-<sup>1</sup> Das Kantonale Steueramt verfügt die Eigenmietwerte und die Vermögenssteuerwerte.
+<sup>1</sup> Für die Bewertung der Grundstücke ist das Kantonale Steueramt zuständig. Es sorgt für gleichmässige Bewertungen und verfügt die Eigenmietwerte sowie die Vermögenssteuerwerte.
 
-<sup>2</sup> Die Bestimmungen über die Verfahrensgrundsätze sowie über das Veranlagungs-, Einsprache-, Rekurs- und Beschwerdeverfahren gelten sinngemäss.
+<sup>2</sup> Die Bestimmungen über die Verfahrensgrundsätze sowie über das Veranlagungs-, Einsprache-, Rekurs- und Beschwerdeverfahren gelten sinngemäss. Ein Anspruch auf Vorladung besteht nur, soweit dies zur Wahrung des rechtlichen Gehörs erforderlich ist.
 
 #### § 220
 
-**III. Auskunftspflicht und Mitwirkungsrechte**
+**…**
 
-<sup>1</sup> Grundeigentümerinnen und Grundeigentümer, Nutzniessungs- und Baurechtsberechtigte, Pächterinnen und Pächter sowie Mieterinnen und Mieter haben der Schätzungsbehörde wahrheitsgetreu alle Auskünfte zu erteilen sowie alle Unterlagen vorzuweisen, die für die Bewertung von Bedeutung sein können. Überdies haben sie der Schätzungsbehörde die nötigen Augenscheine zu ermöglichen.
+#### § 220a
 
-<sup>2</sup> Jede steuerpflichtige Person ist berechtigt, in die sie betreffenden Bewertungsprotokolle Einsicht zu nehmen. Sie kann überdies eine Vorladung vor die Schätzungsbehörde verlangen.
+**IV. Meldepflichten von Dritten**
+
+<sup>1</sup> Die Grundbuchämter melden dem Kantonalen Steueramt von Amtes wegen Eintragungen im Grundbuch, die zu einer Neubewertung eines Grundstücks gemäss § 51 Abs. 1 Anlass geben können.
+
+<sup>2</sup> Die Gemeinderäte stellen dem Kantonalen Steueramt die für die Grundstückbewertung notwendigen Unterlagen wie das bereinigte Liegenschaftsverzeichnis, die Kataster- und Zonenpläne, die Bau- und Zonenordnungen sowie die Unterlagen bei Baugesuchen zur Verfügung.
+
+<sup>3</sup> Die Aargauische Gebäudeversicherung AGV stellt dem Kantonalen Steueramt für die Grundstückbewertung die folgenden Angaben und Unterlagen zur Verfügung:
+
+- a) sämtliche Objektdaten sowie die Namen der Eigentümer zu den von der AGV geschätzten Liegenschaften ohne die feuerpolizeilichen Bemerkungen,
+- b) eine Liste der versicherten Gebäude.
+
+<sup>4</sup> Dem Kantonalen Steueramt werden die Betriebsdaten der Landwirtschaftsbetriebe sowie die Listen mit den Bewirtschaftern pro Parzelle und die Bonitierung pro Parzelle von der zuständigen Behörde zur Verfügung gestellt.
+
+<sup>5</sup> Die Angaben gemäss den Absätzen 1–4 können dem Kantonalen Steueramt durch ein elektronisches Abrufverfahren zugänglich gemacht werden.
 
 ## 9. Bezug, Erlass und Sicherung der Steuern und Bussen
 
@@ -3037,7 +3111,7 @@ beschliesst:
 
 #### § 223c
 
-**4bis. Natürliche Personen; definitive Rechnung**
+**4<sup>bis</sup>. Natürliche Personen; definitive Rechnung**
 
 <sup>1</sup> Mit der Veranlagung wird die definitive Rechnung zugestellt.
 
@@ -3065,7 +3139,7 @@ beschliesst:
 
 #### § 224a
 
-**5bis. Juristische Personen; Vorauszahlungen, Ausgleichs- und Verzugszinsen**
+**5<sup>bis</sup>. Juristische Personen; Vorauszahlungen, Ausgleichs- und Verzugszinsen**
 
 <sup>1</sup> Auf Zahlungen, die bis zum allgemeinen Fälligkeitstermin geleistet werden, sowie auf zuviel bezahlten Steuern wird ein Ausgleichszins zugunsten der steuerpflichtigen Person berechnet.
 
@@ -3210,7 +3284,7 @@ beschliesst:
 
 **VI. Steuersicherung 1. Sicherstellung**
 
-<sup>1</sup> Hat die steuerpflichtige Person keinen Wohnsitz in der Schweiz oder erscheint die Bezahlung der von ihr geschuldeten Steuer gefährdet, kann die Bezugsbehörde auch vor der rechtskräftigen Feststellung des Steuerbetrages jederzeit Sicherstellung verlangen. Die Sicherstellungsverfügung gibt den sicherzustellenden Betrag an und ist sofort vollstreckbar. Sie hat im Betreibungsverfahren die gleichen Wirkungen wie ein vollstreckbares gerichtliches Urteil.
+<sup>1</sup> Hat die steuerpflichtige Person keinen Wohnsitz in der Schweiz oder erscheint die Bezahlung der von ihr geschuldeten Steuern, Zinsen, Bussen oder Kosten gefährdet, kann die Bezugsbehörde auch vor der rechtskräftigen Feststellung des Steuerbetrages jederzeit Sicherstellung verlangen. Die Sicherstellungsverfügung gibt den sicherzustellenden Betrag an und ist sofort vollstreckbar. Sie hat im Betreibungsverfahren die gleichen Wirkungen wie ein vollstreckbares gerichtliches Urteil.
 
 <sup>2</sup> Die steuerpflichtige Person kann gegen die Sicherstellungsverfügung innert 30 Tagen nach Zustellung Rekurs beim Spezialverwaltungsgericht erheben. Die Bestimmungen über das Rekursverfahren bei Veranlagungen für die Kantonssteuer gelten sinngemäss.
 
@@ -3643,7 +3717,7 @@ beschliesst:
 
 #### § 264a
 
-**cbis) Tarif für die Steuerperiode 2014**
+**c<sup>bis</sup>) Tarif für die Steuerperiode 2014**
 
 <sup>1</sup> Die Einkommenssteuer für die Steuerperiode 2014 beträgt:
 
