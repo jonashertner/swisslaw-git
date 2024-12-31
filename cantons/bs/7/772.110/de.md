@@ -4,24 +4,24 @@ number: "772.110"
 title: Verordnung zum Energiegesetz
 short: "Energieverordnung, EnV"
 language: de
-version: 2020-10-01
-valid_until: 2024-12-31
-version_adopted: 2020-09-15
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-04
 adopted: 2017-08-29
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5249/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Energiegesetz
 
-Energieverordnung | Energie- und Wasserversorgung
+Energie- und Wasserversorgung
 
 (Energieverordnung, EnV)
 
-Vom 29. August 2017 (Stand 1. Oktober 2020)
+Vom 29. August 2017 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -276,11 +276,11 @@ beschliesst:
 
 <sup>3</sup> Die Berechnungsweise, die Standardlösungen sowie die Befreiungen sind in Anhang 7 geregelt.
 
-<sup>3<sup>bis</sup></sup> In Gebieten, die im Teilrichtplan Energie als Fernwärmegebiete oder Wärmeverbundgebiete bezeichnet sind, sind für den befristeten Ersatz des Wärmeerzeugers Übergangslösungen zulässig. Hierbei kann der defekte Wärmeerzeuger befristet durch einen fossilen Wärmeerzeuger ersetzt werden. Der Anschluss an ein Wärmenetz hat aber zwingend und unmittelbar zu erfolgen, sobald der Anschluss möglich wird. Der befristet eingesetzte fossile Wärmeerzeuger ist dann umgehend stillzulegen und auszubauen. Abhängig vom Zeitpunkt des Anschlusses an das Wärmenetz gelten folgende Bedingungen:
+<sup>3<sup>bis</sup></sup> In Gebieten, die im Teilrichtplan Energie als Fernwärmegebiete oder Wärmeverbundgebiete bezeichnet sind, ist es zulässig, einen defekten Wärmeerzeuger befristet bis zum Anschluss an das Wärmenetz durch einen fossilen Wärmeerzeuger zu ersetzen. Der Anschluss an ein Wärmenetz hat zwingend zu erfolgen, sobald der Anschluss möglich wird. Der befristet eingesetzte fossile Wärmeerzeuger ist dann umgehend stillzulegen und auszubauen.
 
-- a) Bis maximal 3 Jahre nach Installation der Übergangslösung: keine Bedingungen
-- b) Bis maximal 8 Jahre nach Installation der Übergangslösung: Umsetzung einer Massnahme gemäss Anhang 7 oder Nachweis GEAK-Klasse D (Gesamtenergie)
-- c) Ist innerhalb von 8 Jahren nach Installation der Übergangslösung kein Anschluss an das Wärmenetz möglich, ist eine Standardlösungskombination gemäss Anhang 7 umzusetzen oder die Erreichung der GEAK-Klasse C (Gesamtenergie) nachzuweisen.
+- a) …
+- b) …
+- c) …
 
 <sup>4</sup> Beim Ersatz von zentralen Wassererwärmern in bestehenden Wohnbauten, Schulen, Restaurants, Spitälern, Sportbauten, Hallenbädern (Nutzungen gemäss SIA 380/1) muss das Warmwasser zu mindestens 50 Prozent mit erneuerbarer Energie erzeugt werden.
 
@@ -747,7 +747,7 @@ beschliesst:
 
 **Beiträge für Gesamtsanierungen**
 
-<sup>1</sup> Für Altbauten, die gesamthaft saniert werden, wird ein Förderbeitrag pro m² Gebäudehüllfläche gewährt, wenn sie nach der Sanierung den Gebäudeenergiestandard für Neubauten erfüllen. Die Förderbedingungen und die Beitragshöhe sind in Anhang 11 festgelegt.
+<sup>1</sup> Für Altbauten, die gesamthaft saniert werden, wird ein Förderbeitrag pro m² Energiebezugsfläche gewährt, wenn sie nach der Sanierung den Gebäudeenergiestandard für Neubauten erfüllen. Die Förderbedingungen und die Beitragshöhe sind in Anhang 11 festgelegt.
 
 #### § 59
 
@@ -760,6 +760,13 @@ beschliesst:
 **Beiträge für Energieanlagen mit erneuerbaren Energieträgern (Sonnenenergie, Wind, Geothermie, Biogas, Wasser, Wärmepumpen)**
 
 <sup>1</sup> Für die Errichtung von Energieanlagen mit erneuerbaren Energieträgern werden Förderbeiträge gewährt. Vorbehalten bleiben die Einschränkungen nach § 25 EnG.
+
+<sup>1<sup>bis</sup></sup> Die Förderbeiträge richten sich nach der Lage der Liegenschaft im Teilrichtplan Energie. Innerhalb der Gebiete F01, F02, F03 und V41 gelten besondere Beitragssätze.
+
+Folgende Fälle sind von dieser Regelung ausgenommen:
+
+- a) Trotz der Lage im Fernwärmegebiet wird zu einer Liegenschaft kein Anschluss verlegt (nachgewiesen durch eine aktuelle schriftliche Bestätigung des Wärmeversorgers).
+- b) Für den Anschluss an das Wärmenetz werden über die Standardtarife hinaus ausserordentliche Anschlusskosten in Rechnung gestellt (nachgewiesen durch eine aktuelle schriftliche Offerte des Wärmeversorgers).
 
 <sup>2</sup> Für Anlagen zur thermischen Nutzung der Sonnenenergie sowie für Holzheizungen sind die Förderbedingungen und die Beitragshöhe in Anhang 11 festgelegt.
 
@@ -775,7 +782,7 @@ beschliesst:
 
 <sup>8</sup> Energieversorgungsunternehmen sind nur beitragsberechtigt, wenn die Förderung nachweislich vollumfänglich den Energiebezügern weitergegeben wird oder wenn übergeordnete Interessen vorliegen.
 
-<sup>9</sup> Für den Anschluss einer Liegenschaft an ein Fernwärmenetz mit einem Anteil von mindestens 20 Prozent erneuerbarer Energie oder Abwärme können Förderbeiträge entrichtet werden. Die Beitragssätze sind in Anhang 11 geregelt.
+<sup>9</sup> Für den Anschluss einer Liegenschaft an ein Fernwärmenetz oder einen Wärmeverbund mit einem Anteil von mindestens 20 Prozent erneuerbarer Energie oder Abwärme (resp. mindestens 50 Prozent ab 70 kW installierter Leistung) können Förderbeiträge entrichtet werden. Die Beitragssätze sind in Anhang 11 geregelt.
 
 #### § 61
 
@@ -953,6 +960,12 @@ beschliesst:
 <sup>2</sup> Für Förderungsmassnahmen, welche vor dem 1. Oktober 2017 ausgeführt worden sind, richtet sich die Beitragsbemessung nach altem Recht.
 
 <sup>3</sup> Auf Förderungsmassnahmen, welche unter Geltung des alten Rechts begonnen und nach Inkrafttreten des neuen Rechts beendet werden, findet das jeweils günstigere Recht Anwendung.
+
+#### § 76a
+
+**Übergangsbestimmung zur Änderung vom 4. Februar 2025**
+
+<sup>1</sup> § 60 Abs. 1<sup>bis</sup> findet keine Anwendung auf vollständige Förderbeitragsgesuche, die bis zum 31. Mai 2025 eingereicht werden.
 
 *Schlussbestimmung*
 
