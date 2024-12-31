@@ -4,13 +4,12 @@ number: IX D/633/8
 title: Weisung über die Entsorgungsbeiträge für Nutztierhalter
 short: Entsorgungsbeitragsweisung
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-01-24
+version: 2025-01-01
+version_adopted: 2025-03-25
 adopted: 2014-04-24
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.633.8"
-pdf: "https://gesetze.gl.ch/api/de/versions/2409/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2552/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2409/pdf_file"
 
 (Entsorgungsbeitragsweisung)
 
-Vom 24.04.2014 (Stand 01.01.2023)
+Vom 24.04.2014 (Stand 01.01.2025)
 
 Der Kantonstierarzt,
 
@@ -35,8 +34,8 @@ bestimmt:
 
 <sup>1</sup> Der Tierhalter oder die Tierhalterin respektive der Alpbewirtschafter oder die Alpbewirtschafterin (nachfolgend: Tierhalter) haben pro Tier an die Entsorgungskosten gemäss Artikel 12 der Verordnung zum Tierschutz- und Tierseuchengesetz zu entrichten:
 
-- a. Pferd, Maulesel, Maultier — 5.00 Franken;
-- b. Pony, Kleinpferd, Esel — 2.50 Franken;
+- a. Equiden — 3.50 Franken;
+- b. …
 - c. Rindvieh — 1.70 Franken;
 - d. Schwein (ohne Saugferkel) — 1.00 Franken;
 - e. Schaf oder Ziege — 0.40 Franken;
