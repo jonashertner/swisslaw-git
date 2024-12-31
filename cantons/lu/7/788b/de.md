@@ -3,20 +3,19 @@ canton: LU
 number: 788b
 title: Verordnung zum Gesetz über die Schiffssteuer
 language: de
-version: 2003-07-01
-valid_until: 2024-12-31
-version_adopted: 2003-02-17
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 1998-03-10
 in_force: 1998-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/788b"
-pdf: "https://srl.lu.ch/api/de/versions/2505/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4319/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Schiffssteuer
 
-vom 10.03.1998 (Stand 01.07.2003)
+vom 10.03.1998 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -98,7 +97,9 @@ beschliesst:
 
 **Zahlungsverzug**
 
-<sup>1</sup> Steuerpflichtigen, welche die Steuerrechnung nicht innert 30 Tagen seit Fälligkeit begleichen, werden nach erfolgloser Mahnung der Schiffsausweis und die Kontrollschilder entzogen oder verweigert.
+<sup>1</sup> Bei Nichteinhaltung der Zahlungsfrist wird die steuerpflichtige Person gemahnt. Nach erfolgloser Mahnung erlässt das Strassenverkehrsamt eine Zahlungsverfügung; die Bearbeitungsgebühr beträgt 50 Franken.
+
+<sup>2</sup> Wird die Steuer nach Zustellung der Zahlungsverfügung nicht entrichtet, werden der Schiffsausweis und die Kontrollschilder entzogen oder verweigert.
 
 #### § 11
 
