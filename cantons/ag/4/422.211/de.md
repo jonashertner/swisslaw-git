@@ -4,13 +4,13 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2024-10-01
-valid_until: 2024-12-31
-version_adopted: 2024-07-03
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-09-11
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3599/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3658/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3599/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.10.2024)
+Vom 07.11.2007 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -901,13 +901,13 @@ beschliesst:
 
 #### § 80b
 
-**Bildungsgutscheine**
+**Bildungsgutscheine a) Voraussetzungen zur Einlösung und Auftrag an Dritte**
 
-<sup>1</sup> Teilnehmende an Kursen zum Erwerb und den Erhalt von Grundkompetenzen Erwachsener können bei akkreditierten Bildungsanbietenden Bildungsgutscheine einlösen, wenn sie
+<sup>1</sup> Teilnehmende an Kursen zum Erwerb und den Erhalt von Grundkompetenzen Erwachsener können bei akkreditierten Bildungsanbietenden im Kanton Aargau oder benachbarten Kantonen Bildungsgutscheine einlösen, wenn sie
 
 - a) zwischen 18 und 65 Jahre alt sind,
 - b) zivilrechtlichen Wohnsitz im Kanton Aargau haben,
-- c) in Deutsch mindestens das Sprachniveau A2 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) aufweisen,
+- c) in Deutsch mindestens das Sprachniveau A1 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) oder das geforderte Sprachniveau des Kursbeschriebs aufweisen,
 - d) nicht gleichzeitig eine Ausbildung auf der Sekundarstufe II absolvieren,
 - e) einen von der Abteilung Berufsbildung und Mittelschule bewilligten Grundkompetenzkurs gemäss § 80 Abs. 2 besuchen, und
 - f) mindestens 60 % des Grundkompetenzkurses besucht haben.
@@ -918,7 +918,7 @@ beschliesst:
 
 #### § 80c
 
-**Akkreditierung von Bildungsanbietenden**
+**b) Akkreditierung von Bildungsanbietenden**
 
 <sup>1</sup> Die Abteilung Berufsbildung und Mittelschule akkreditiert Bildungsanbietende, wenn sie
 
@@ -927,9 +927,20 @@ beschliesst:
 - c) die Anwendung eines Qualitätssicherungssystems nachweisen,
 - d) Kursleitende mit einer adäquaten Ausbildung und Unterrichtserfahrung in der Erwachsenenbildung einsetzen,
 - e) über geeignete Räumlichkeiten verfügen, die mit öffentlichen Verkehrsmitteln gut erreichbar sind, und
-- f) bereit sind, insbesondere für die Kursadministration und die Berichterstattung mit Dritten gemäss § 80b Abs. 3 zusammen zu arbeiten.
+- f) bereit sind, insbesondere für die Kursbewilligung und -administration sowie die Berichterstattung mit Dritten gemäss § 80b Abs. 3 zusammen zu arbeiten.
 
 <sup>2</sup> Die Gesuchsunterlagen zur Akkreditierung richten sich nach den Vorgaben der Abteilung Berufsbildung und Mittelschule.
+
+#### § 80d
+
+**Aufsicht**
+
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule beaufsichtigt die kantonal finanzierten Weiterbildungsangebote. Sie kann insbesondere:
+
+- a) Auskünfte und Unterlagen verlangen,
+- b) Besuche zur Qualitätsprüfung durchführen oder externe Evaluationen anordnen,
+- c) Beiträge ganz oder teilweise zurückfordern, wenn Leistungen nicht oder ungenügend erbracht oder im Gesuch unwahre Angaben gemacht wurden,
+- d) bei akkreditierten Bildungsanbietenden die Akkreditierung mit Auflagen oder Bedingungen versehen oder bei schwerwiegenden Mängeln entziehen.
 
 ### 4.6. Weitere Aufgaben
 
@@ -953,7 +964,7 @@ beschliesst:
 
 <sup>2</sup> § 18 Abs. 2 tritt am 1. August 2010 in Kraft. Bis dahin gilt das bisherige Recht.
 
-<sup>3</sup> Die §§ 80b und 80c sind befristet bis 31. Dezember 2024.
+<sup>3</sup> Die §§ 80b und 80c sind befristet bis 31. Dezember 2028.
 
 Aarau, 7. November 2007
 
