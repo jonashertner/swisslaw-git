@@ -1,31 +1,38 @@
 ---
 canton: VS
 number: "726.101"
-title: Ordonnance concernant la tenue de listes permanentes
+title: Ordonnance concernant les listes des entreprises remplissant les conditions de participation et les critères d’aptitude
 short: OLPA
 language: fr
-version: 2021-05-01
-valid_until: 2024-12-31
-version_adopted: 2021-04-21
+version: 2025-01-01
+version_adopted: 2025-01-22
 adopted: 2025-01-22
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/726.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2886/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3454/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la tenue de listes permanentes
+# Ordonnance concernant les listes des entreprises remplissant les conditions de participation et les critères d’aptitude
 
-du 11.06.2003 (état 01.05.2021)
+(OLPA)
+
+du 22.01.2025 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 7 de la loi concernant l'adhésion du canton du Valais à l'accord intercantonal sur les marchés publics du 8 mai 2003 (LcAIMP);
+vu les articles 12, 26, 27 et 28 de l’accord intercantonal sur les marchés publics du 15 novembre 2019 (AIMP);
 
-vu l'article 13 alinéa 1 de l'ordonnance sur les marchés publics du 11 juin 2003;
+vu les articles 8 à 10 et 13 de la loi d’adhésion du canton du Valais du 15 mars 2023 (LcAIMP);
 
-vu l'article 27 de la loi cantonale sur le travail du 12 mai 2016 (LcTr);
+vu l'article 1 alinéas 3 et 4 de l'ordonnance sur les marchés publics du 29 novembre 2023 (OcMP);
+
+vu les articles 27 et 28 de la loi cantonale sur le travail du 12 mai 2016 (LcTr);
+
+vu l’article 16 de la loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir du 12 mai 2016 (LALDétLTN);
+
+vu l’article 10 de l’ordonnance de la loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir du 14 septembre 2016 (OLALDétLTN);
 
 sur la proposition du département en charge des affaires sociales,
 
@@ -35,197 +42,669 @@ ordonne:
 
 #### Art. 1
 
-**Objet**
+**Objet et but**
 
-<sup>1</sup> La présente ordonnance règle la tenue de listes permanentes relatives à l'accès aux marchés publics.
+<sup>1</sup> La présente ordonnance règle les conditions d’accès et la tenue:
 
-<sup>2</sup> Elle fixe les conditions que doivent remplir les entreprises ou bureaux pour être inscrits sur une de ces listes.
+- a) des listes relatives aux conditions de participation prévues à l’article 10 LcAIMP (ci-après: listes de participation) des entités IDE au sens de la loi fédérale sur le numéro d’identification des entreprises (LIDE) (ci-après: les entreprises), remplissant les conditions de participation en matière de marchés publics, soit le respect des exigences définies à l’article 26 AIMP;
+- b) des listes relatives aux critères d’aptitude prévues à l’article 13 LcAIMP (ci-après: listes d’aptitude) des entreprises remplissant les exigences requises en matière de marchés publics, dont en particulier celles garantissant les qualifications professionnelles requises.
+
+<sup>2</sup> Elle a pour but de:
+
+- a) simplifier les démarches administratives afférentes aux marchés publics auxquelles sont astreints les adjudicateurs et les soumissionnaires;
+- b) faciliter le contrôle du respect des conditions de participation et des critères d’aptitude, tout au long de la procédure d'adjudication;
+- c) faciliter l'accès aux marchés publics et donner une visibilité aux entreprises mentionnées sur ces listes;
+- d) encourager le perfectionnement et la qualification professionnelle au titre de critères mentionnés dans les listes d'aptitude, ainsi que la conclusion de conventions collectives de travail et l'édiction de contrats-types de travail;
+- e) assurer la mise à disposition publique de ces listes.
+
+<sup>3</sup> Les secteurs professionnels au bénéfice d'une liste de participation et d'une liste d'aptitude, de même que les conditions et critères d'inscription, sont définis aux annexes 1 et 2 à la présente ordonnance.
 
 #### Art. 2
 
-**But**
+**Compétences**
 
-<sup>1</sup> Elle a pour but de simplifier la procédure administrative d'adjudication en instaurant un système de préqualification des aptitudes professionnelles et de contrôle du respect des exigences sociales et économiques des soumissionnaires.
+<sup>1</sup> Le département en charge du contrôle des conditions de travail, par son service en charge de la protection des travailleurs et des relations du travail (ci-après: le service) est l’autorité désignée pour gérer la tenue et le contrôle matériel de ces listes.
 
-<sup>2</sup> Elle encourage le perfectionnement et la qualification professionnelle, ainsi que la conclusion de conventions collectives de travail et de contrats-types de travail.
+<sup>2</sup> Le service gère le fichier des listes de participation et d'aptitude. Il exerce à ce titre le rôle de maître de fichier.
+
+<sup>3</sup> Préalablement à la fixation des critères permettant l’inscription sur une liste d’aptitude, le service consulte les associations professionnelles des milieux concernés.
+
+<sup>4</sup> A ce titre, le service est chargé de:
+
+- a) gérer une plateforme électronique permettant la collecte et l’échange des données, leur vérification et la publication des entreprises inscrites sur chacune des listes;
+- b) statuer sur les demandes d’inscription sur les listes de participation et/ou d'aptitude;
+- c) prendre toutes les décisions qui lui sont attribuées par la présente ordonnance;
+- d) assurer la complétude, l'actualité et la matérialité des informations contenues dans les listes par des contrôles réguliers;
+- e) renseigner les adjudicateurs, les entreprises et les maîtres d’ouvrage ou les autorités en charge d’attribuer une aide financière ou une subvention.
+
+## 2 Formalités d'inscription sur les listes
 
 #### Art. 3
 
-**Nombre et genre de listes**
+**Demande intiale**
 
-<sup>1</sup> Les milieux professionnels intéressées à figurer sur une ou plusieurs listes peuvent en faire la demande au Service social de protection des travailleurs et des relations du travail (ci-après: Service).
+<sup>1</sup> Toute entreprise peut demander une inscription sur les listes de participation et/ou d'aptitude (ci-après: le requérant) auprès du service.
 
-<sup>2</sup> Le Conseil d'Etat arrête le nombre et le genre de listes après avoir consulté les milieux professionnels concernés.
+<sup>2</sup> La demande d'inscription peut être faite au moyen du guichet électronique à disposition ou par courrier, sur un formulaire préétabli par le service.
 
-## 2 Conditions d'admission
+<sup>3</sup> Lors de sa demande d'inscription, le requérant atteste de la véracité des documents et autorise le service à procéder en tout temps au contrôle des données auprès des organismes définis à l’article 4.
 
 #### Art. 4
 
-**Exigences professionnelles**
+**Inscription**
 
-<sup>1</sup> Toute personne intéressée ou engageant une entreprise ou bureau, doit justifier d'une formation professionnelle suffisante.
+<sup>1</sup> Le service procède aux vérifications d’usage auprès des organismes concernés, notamment des commissions professionnelles paritaires et, si les conditions sont remplies, rend une décision d’inscription sur les listes de participation et/ou d'aptitude du ou des secteurs professionnels correspondants.
 
-<sup>2</sup> Justifie d'une formation professionnelle suffisante, le titulaire qui répond aux critères de formation énumérés dans l'annexe 1 de la présente ordonnance.
-
-<sup>3</sup> Le titulaire ne peut engager qu'une seule entreprise ou bureau.
-
-<sup>4</sup> La personne responsable justifiant par son titre d'une inscription doit travailler de manière effective à plein temps dans l'entreprise ou bureau bénéficiaire de l'inscription. Cette obligation peut être exceptionnellement réduite de moitié pour les entreprises ne comportant pas plus de dix personnes (personnel dirigeant compris) et pas plus de cinq personnes pour les bureaux.
-
-<sup>5</sup> Dans tous les cas, le détenteur du titre doit justifier sa position dirigeante dans l'entreprise ou le bureau en disposant pour l'engager valablement au moins de la signature collective à deux.
+<sup>2</sup> L'inscription n'est délivrée qu'à la condition que le requérant réponde aux conditions et/ou critères de la liste concernée.
 
 #### Art. 5
 
-**Exigences sociales et économiques**
+**Refus**
 
-<sup>1</sup> Pour être inscrite, l'entreprise ou le bureau doit en outre:
+<sup>1</sup> Si les conditions d’inscription ne sont pas remplies, si le requérant ne fournit pas les documents nécessaires à la vérification, ou encore si la demande est infondée, le service signifie son refus à l'entreprise par courrier recommandé, en indiquant sommairement les motifs.
 
-- a) adhérer à l'organisation professionnelle du métier régi par une convention collective de travail ou, à défaut, par un contrat-type de travail ou déclarer par écrit au moment de la demande d'inscription qu'elle respecte ou respectera totalement les conditions de travail contenues dans la convention collective de travail ou, à défaut, dans le contrat-type de travail de la profession concernée;
-- b) décompter avec les caisses sociales des associations professionnelles en matière AVS-AI-APG, AC, allocations familiales et avec les autres assurances sociales professionnelles telles que assurance maladie, assurance accidents, prévoyance professionnelle (LPP), ou s'engager par écrit à fournir à ses travailleuses et travailleurs les prestations sociales équivalentes à celles contenues dans la convention collective de travail correspondante ou, à défaut, dans le contrat-type de travail applicable et être en mesure d'en faire la preuve au moyen d'attestations récentes;
-- c) respecter les prescriptions concernant la santé et la sécurité au travail;
-- d) s'engager à ne pas conclure des ententes contraires aux principes d'une concurrence correcte et loyale;
-- e) ne pas être impliqué dans une procédure de faillite au moment de la demande et être en mesure de fournir à tout moment la garantie de la solvabilité de l'entreprise ou du bureau;
-- f) produire une attestation officielle selon laquelle les personnes engageant la responsabilité de l'entreprise ou du bureau au sens de la présente ordonnance, n'ont pas été condamnés pénalement à une peine ferme d'emprisonnement ou de réclusion pour faute professionnelle grave au cours des deux ans qui précèdent la demande.
+<sup>2</sup> A la demande expresse du requérant, le service rend une décision formelle de rejet de l'inscription.
+
+## 3 Listes de participation
 
 #### Art. 6
 
-**Exigences formelles**
+**Conditions d'inscription sur les listes de participation**
 
-<sup>1</sup> La demande d'inscription peut être déposée en tout temps, en ligne ou par courrier. Celle-ci doit être examinée dans un délai de 3 mois.
+<sup>1</sup> Pour être inscrite sur les listes de participation, l’entreprise doit en tout temps:
 
-<sup>2</sup> Elle doit être accompagnée de tous les documents utiles à l'appréciation du cas, ou des procurations nécessaires à leur obtention, notamment:
+- a) exercer son activité dans un secteur professionnel faisant l’objet d’une liste de participation, selon l’annexe 1 de la présente ordonnance;
+- b) respecter dès son inscription les dispositions relatives à la protection des travailleurs, y compris les prescriptions concernant la santé et la sécurité au travail, les conditions de travail au sens de l’article 9 LcAIMP et les obligations en matière d’annonce et d’autorisation mentionnées dans la loi fédérale sur le travail au noir (LTN);
+- c) être affiliée, avoir annoncé ses travailleurs et être à jour avec le versement des cotisations en lien avec les assurances sociales obligatoires;
+- d) être à jour avec le paiement de ses impôts;
+- e) ne pas avoir fait, elle-même ou l’un de ses organes, l’objet d’une condamnation, d’une sanction en lien avec la loi fédérale ou cantonale sur le travail (LTr/LcTr) ou en matière d’annonce et d’autorisation mentionnées dans la loi fédérale sur le travail au noir (LTN), prononcée par une autorité pour une infraction ou une violation de la loi commise dans les 5 ans précédant le dépôt de la demande d’inscription ou d’une décision d’exclusion des marchés publics (art. 13 LTN) et toujours en force.
 
-- a) extrait du registre du commerce;
-- b) diplômes et certificats attestant les capacités professionnelles avec le contrat de travail liant le cas échéant le détenteur du titre à l'entreprise, ainsi que le cahier des charges décrivant précisément l'activité déployée;
-- c) déclaration de soumission à la convention collective de travail ou au contrat-type de travail;
-- d) attestation de la commission paritaires compétente de la branche qu'elle respecte en tout point les dispositions des contrats collectifs de travail et des contrats - types de travail;
-- e) attestation de l'assurance perte de gain maladie;
-- f) attestation de l'assurance accidents;
-- g) attestation de la prévoyance professionnelle (LPP);
-- h) attestation de l'AVS, AI, APG, AC, allocations familiales;
-- i) extrait du casier judiciaire;
-- j) attestations du service des contributions;
-- k) attestation de solvabilité (extrait de l'office des poursuites et faillites).
+<sup>2</sup> En sus, l’entreprise doit respecter:
 
-<sup>3</sup> Les attestations des compagnies d'assurances doivent certifier que les versements des cotisations sont à jour et préciser la description des prestations offertes par l'assurance.
-
-<sup>4</sup> Le Service pourra, au besoin, recourir à des tiers pour le contrôle et la vérification des documents exigés, au minimum tous les 6 mois. Ceux-ci sont tenus de fournir gratuitement tous les renseignements utiles à l'exécution des tâches confiées au Service.
-
-<sup>5</sup> Dans le cas où les conditions formelles ne sont plus remplies, l'entreprise ou l'organe compétent (commission professionnelle paritaire, caisses d'assurances sociales, etc.) en informe sans délai le Service.
-
-## 3 Inscription - Publication - Modification
+- a) la protection de l’environnement et la préservation des ressources naturelles en vigueur au lieu de la prestation;
+- b) l’égalité salariale entre hommes et femmes;
+- c) et ne doit pas conclure d’ententes contraires aux dispositions contenues dans la législation sur les marchés publics et contre la concurrence déloyale.
 
 #### Art. 7
 
-**Inscription**
+**Documents devant être déposés**
 
-<sup>1</sup> Le Service statue sur les demandes d'inscription qui lui ont été adressées après les avoir soumises pour examen et préavis aux organisations professionnelles.
+<sup>1</sup> Le requérant doit joindre à sa demande d’inscription initiale sur les listes de participation, puis à la demande du service, les attestations ou extraits:
 
-<sup>2</sup> Lorsque l'enquête est achevée et que l'entreprise ou le bureau remplit les conditions requises, son inscription sera opérée sur les listes de la branche professionnelle correspondante.
+- a) relatifs à l’inscription et aux paiements des cotisations aux assurances sociales obligatoires (AVS, AI, APG, AC, allocations familiales, LPP et assurances accidents);
+- b) afférents à l’assurance perte de gain maladie et aux retraites anticipées, pour autant qu’existantes;
+- c) de la commission professionnelle paritaire compétente, pour autant qu’existante, prouvant que les conditions de travail au sens de l'article 9 LcAIMP sont respectées;
+- d) des différentes autorités en charge de la perception des impôts, attestant que le requérant est annoncé et en règle en la matière;
+- e) du registre des poursuites;
+- f) prouvant le respect des dispositions relatives à l’égalité salariale pour les entreprises employant plus de 100 collaborateurs.
 
-<sup>3</sup> Avec son inscription, l'entreprise ou le bureau est réputé répondre aux aptitudes de la profession, telles qu'explicitées dans l'annexe, et respecter la législation sociale et les conditions de travail applicables au lieu d'exécution des travaux.
+<sup>2</sup> Par procuration le requérant autorisera le service à se procurer directement auprès des organismes concernés à échéances régulières ou, à défaut, lui fera parvenir sur demande, mais à tout le moins tous les 3 mois les attestations et extraits mentionnés aux lettres a à c ci-dessus, et tous les ans ceux mentionnés aux lettres d et e ci-dessus.
 
-<sup>4</sup> L'inscription est valable pour une durée indéterminée. Le responsable de la tenue des listes permanentes opère l'inscription dès qu'elle réunit les conditions nécessaires.
+<sup>3</sup> Les documents mentionnés à la lettre f ci-dessus doivent être transmis tous les 4 ans.
+
+<sup>4</sup> Une simple auto-déclaration est suffisante pour prouver le respect:
+
+- a) des dispositions relatives à l’égalité salariale pour les entreprises employant moins de 100 collaborateurs;
+- b) des prescriptions relatives à la protection de l’environnement et à la préservation des ressources naturelles en vigueur au lieu d’exécution de la prestation;
+- c) de la non-conclusion d’accords illicites affectant la concurrence.
+
+<sup>5</sup> Tous les documents doivent être joints à la demande initiale en ligne sous format électronique ou par courrier.
+
+<sup>6</sup> Dans tous les cas, afin de pérenniser l’inscription, le requérant autorise le service à procéder en tout temps au contrôle des données auprès des organismes compétents dont sont issues les attestations.
+
+<sup>7</sup> L’entreprise s’engage à communiquer sans délai au service toute modification des informations transmises lors de la demande d’inscription initiale ou ultérieurement.
+
+## 4 Listes d'aptitude en matière de formation professionnelle
 
 #### Art. 8
 
-**Publicité**
+**Listes d'aptitude en matière de formation professionnelle**
 
-<sup>1</sup> Une fois par année au minimum, le Service fait paraître au Bulletin officiel:
+<sup>1</sup> Les milieux professionnels reconnus d'un secteur intéressé à voir créées une ou plusieurs listes relatives aux aptitudes professionnelles des soumissionnaires peuvent en faire la demande au service.
 
-- a) l'énumération des listes tenues;
-- b) les conditions d'admission et les méthodes de vérification;
-- c) la durée de la validité et la procédure de mise à jour des listes.
+<sup>2</sup> Le secteur professionnel concerné doit disposer de titres professionnels suffisants et propres à prouver les aptitudes requises, en particulier répondre aux critères de formation reconnus par la loi fédérale sur la formation professionnelle (LFPr).
 
-<sup>2</sup> Les listes permanentes sont publiques. Elles sont publiées sur le site internet de l'Etat et peuvent être consultées auprès du Service.
+<sup>3</sup> Les listes peuvent être multiprofessionnelles, couvrir un secteur déterminé ou se limiter à une profession.
 
-<sup>3</sup> Sont réservées les prescriptions de la loi concernant la protection des données à caractère personnel.
+<sup>4</sup> Le Conseil d’Etat, après consultation des associations professionnelles et des principaux adjudicateurs du secteur, valide par voie d’arrêté le principe de la création de chaque liste ainsi que des qualifications requises pour en faire partie.
 
 #### Art. 9
 
-**Modification**
+**Conditions d'inscription**
 
-<sup>1</sup> En cas de carence du détenteur, l'entreprise ou le bureau doit le remplacer dans les trois mois dès la fin des rapports de travail, sous peine d'être radiée.
+<sup>1</sup> Le requérant s’engage à respecter les critères d’aptitude définis pour la liste correspondante (selon l'annexe 2 de la présente ordonnance) et doit disposer d’un titulaire justifiant d’une formation professionnelle propre à garantir l’aptitude requise.
 
-<sup>2</sup> Lors de la cessation abrupte des relations de travail entre le donneur de titre et la personne responsable de l'entreprise ou du bureau, celle-ci dispose d'un délai de six mois pour régulariser sa situation.
+<sup>2</sup> Un titulaire ne peut engager qu’une seule entreprise et doit travailler effectivement et de manière prépondérante dans l’entreprise bénéficiaire de l’inscription. Pour les entreprises ne comportant pas plus de 10 collaborateurs (personnel dirigeant compris), le taux d'activité obligatoire du titulaire peut être réduit à mi-temps. Cette exception peut être réduite à 5 personnes dans les secteurs définis par le Conseil d'Etat (selon l'annexe 2 de la présente ordonnance).
 
-<sup>3</sup> En cas de décès du détenteur du titre dans une entreprise ou bureau, ce délai est porté à neuf mois.
+<sup>3</sup> Le titulaire doit justifier sa position dirigeante en entreprise en prouvant qu’il a le pouvoir de l’engager valablement par une signature individuelle ou collective. Dans le cas où des années d’expérience en tant que responsable d’entreprise sont exigées, celles-ci doivent être prouvées par inscription d’un droit de signature au registre du commerce .
 
-<sup>4</sup> Toute modification en rapport avec le détenteur du titre, prévue ou abrupte, doit être signalée dans les trente jours au Service.
+<sup>4</sup> En cas de décès du titulaire ou si celui-ci quitte l’entreprise, une carence de 6 mois est admise, sauf circonstances extraordinaires.
 
-<sup>5</sup> Un contrôle quant au détenteur du titre est effectué par le Service tous les 3 ans.
+<sup>5</sup> Pour être inscrit sur les listes d’aptitude, le requérant doit fournir, les diplômes et certificats attestant des capacités professionnelles du titulaire. Il ne doit en sus pas avoir fait, lui-même ou l’un de ses organes, l’objet d’une condamnation, d’une sanction, en lien avec ses activités, prononcée par une autorité pour une infraction ou une violation de la loi commise dans les 5 ans précédant le dépôt de la demande d’inscription et toujours en force.
 
-## 4 Radiation - Suspension - Procédure
+<sup>6</sup> Un contrôle quant au détenteur du titre est effectué par le service tous les 3 ans.
+
+<sup>7</sup> Toute entreprise répondant aux critères énoncés ci-dessus peut déposer une demande d’inscription sur les listes d’aptitude. Cette demande peut être conjointe ou subséquente à la demande d’inscription sur les listes de participation.
+
+<sup>8</sup> Ces demandes complémentaires font l’objet d’un préavis de l’association professionnelle compétente portant sur les critères d’aptitude concernés.
+
+## 5 Radiation et suspension des listes
 
 #### Art. 10
 
 **Radiation**
 
-<sup>1</sup> Sont radiées des listes permanentes, les entreprises ou bureaux qui enfreignent les dispositions de la présente ordonnance, notamment:
+<sup>1</sup> Est radiée des listes de participation l’entreprise qui:
 
-- a) ne remplissent plus les conditions d'admission;
-- b) produisent de fausses déclarations, attestations, renseignements en vue de leur inscription sur une liste;
-- c) ne déploient pas une activité principale en rapport avec l'inscription demandée;
-- d) sont dépourvues d'un détenteur de titre susceptible de les engager ou n'ont pas procédé aux modifications exigées dans le délai fixé par la présente ordonnance;
-- e) ne s'acquittent pas après sommation, des taxes, frais et émoluments dus.
+- a) ne remplit plus les conditions de la présente ordonnance, en particulier son article 6;
+- b) produit ou fait produire des attestations ou informations, au sens de l'article 7 de la présente ordonnance, qui sont mensongères;
+- c) ne déploie plus d’activité;
+- d) ne s’acquitte pas dans les 10 jours, après sommation, des taxes, frais et émoluments dus prévus à l’article 15;
+- e) en fait la demande.
+
+<sup>2</sup> Ses inscriptions sur les listes d'aptitude, pour autant qu'existantes, ne sont en revanche pas affectées.
+
+<sup>3</sup> Est radiée des listes d'aptitude l'entreprise qui:
+
+- a) ne remplit plus les conditions de la présente ordonnance, en particulier son article 9;
+- b) produit ou fait produire des attestations ou informations au sens de l’article 9 de la présente ordonnance, qui sont mensongères;
+- c) ne déploie plus d’activité;
+- d) ne s’acquitte pas dans les 10 jours, après sommation, des taxes, frais et émoluments dus prévus à l’article 16;
+- e) en fait la demande.
+
+<sup>4</sup> Ses inscriptions sur les listes de participation, pour autant qu’existantes, ne sont en revanche pas affectées.
 
 #### Art. 11
 
 **Suspension**
 
-<sup>1</sup> En lieu et place d'une radiation, les entreprises ou bureaux qui ne respectent pas les dispositions contenues dans la présente ordonnance peuvent se voir suspendues, mais au maximum pendant six mois, délai pendant lequel il leur est intimé l'ordre de prendre les dispositions nécessaires aux fins de remplir à nouveau les conditions exigées.
+<sup>1</sup> Dans les cas où l’entreprise ne remplit provisoirement plus les conditions d’inscription, mais qu'un retour à une situation conforme est envisageable à court terme, elle peut être suspendue de la liste de participation pour une durée maximale de 6 mois.
 
-<sup>2</sup> Pendant ce délai, l'inscription ne déploie plus effet et l'entreprise ou le bureau ne figure plus sur les listes soumises à publication.
+<sup>2</sup> Pendant la période de suspension, l’entreprise n’est plus mentionnée sur les listes sur lesquelles elle est inscrite.
 
-<sup>3</sup> Cette mesure est en particulier appliquée aux entreprises et bureaux qui refusent, sciemment et par des mesures dilatoires, de s'acquitter des émoluments et taxes prescrits ou de prouver qu'elles fournissent à leur personnel les prestations sociales telles que contenues dans la convention collective de travail de la profession ou, à défaut, dans le contrat-type de travail qu'elles se sont engagées à respecter.
+<sup>3</sup> Passé le délai de suspension et sans retour à une situation conforme, l’entreprise est radiée.
+
+<sup>4</sup> La suspension n’est pas applicable aux listes d’aptitude.
 
 #### Art. 12
 
-**Procédure**
+**Procédure et voies de recours**
 
-<sup>1</sup> Le Service prononce la radiation ou la suspension après avoir entendu l'entreprise ou le bureau visé.
+<sup>1</sup> Le service rend dans les 3 mois les décisions d’inscription, de rejet, de suspension et de radiation des listes de participation ou des listes d'aptitude, après avoir entendu l’entreprise visée par la décision.
 
-<sup>2</sup> Seule la radiation fait l'objet d'une publication au Bulletin officiel. Le Service peut regrouper ces publications.
+<sup>2</sup> Ces décisions sont sujettes à recours dans un délai de 20 jours auprès du Tribunal cantonal.
 
-<sup>3</sup> Les décisions concernant l'inscription et l'exclusion d'un soumissionnaire sur les listes permanentes peuvent faire l'objet d'un recours dans les 30 jours auprès du Conseil d'Etat dans les formes requises par la loi sur la procédure et la juridiction administratives (LPJA).
+<sup>3</sup> Un recours contre une décision de refus au sens de l’article 5 ne donne pas droit à une inscription provisoire.
 
-## 5 Frais, taxes et émoluments
+<sup>4</sup> Les articles 52 et suivants AIMP sont applicables pour le surplus.
+
+## 6 Contrôle et publicité
 
 #### Art. 13
 
-**Taxes et émoluments d'inscription**
+**Contrôles**
 
-<sup>1</sup> Il est perçu pour chaque inscription principale un émolument de 300 francs auquel s'ajoute un émolument de 100 francs pour chaque inscription supplémentaire requise par la même entreprise ou bureau.
+<sup>1</sup> Le service est l’organe de contrôle des listes prévues par la présente ordonnance.
 
-<sup>2</sup> Après la première année d'inscription, les entreprises et les bureaux inscrits s'acquittent en plus d'une taxe annuelle de 100 francs pour chaque inscription principale et de 20 francs pour toute inscription supplémentaire.
+<sup>2</sup> L’inspection cantonale de l’emploi et de l'aide sociale, l’inspection cantonale du travail et l’Association pour le renforcement des contrôles sur les chantiers sont les organes de contrôle des entreprises sur les lieux de travail, conformément aux dispositions de la loi cantonale sur le travail et de la LALDétLTN.
 
-<sup>3</sup> …
-
-<sup>4</sup> Il est perçu pour chaque décision de suspension ou de radiation un émolument de 300 francs. Il est toutefois renoncé à l'émolument si la radiation est réalisée à la demande de l'entreprise.
-
-<sup>5</sup> A la demande de l'entreprise, le Service rend une décision formelle de rejet d'inscription pour laquelle un émolument de 300 francs est perçu.
+<sup>3</sup> Dans le cadre du contrôle du respect des CCT, les commissions professionnelles paritaires ou tout autre organisme désigné par celles-ci sont chargés des contrôles du respect des dispositions normatives par les entreprises.
 
 #### Art. 14
 
-**Autres frais et émoluments**
+**Publicité**
 
-<sup>1</sup> Pour les autres frais et émoluments de décision sont applicables les dispositions de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
+<sup>1</sup> Les listes prévues par la présente ordonnance sont publiques et font l’objet d’une mise à disposition permanente sur internet.
 
-## 6 Dispositions finales
+## 7 Frais, taxes et émoluments
 
 #### Art. 15
 
-**Dispositions transitoires**
+**Listes de participation**
 
-<sup>1</sup> Les entreprises ou bureaux inscrits avant le 30 juin 1998 en conformité avec les dispositions de l'ordonnance du 22 mai 1991 concernant le Registre professionnel des entreprises et de l'arrêté du 7 juillet 1982 relatif à l'introduction d'un registre professionnel cantonal des bureaux d'ingénieurs, d'architectes et des autres bureaux d'études conservent quant aux exigences professionnelles leurs prérogatives et figureront comme antérieurement inscrits sur les listes, pour autant qu'existantes, de la ou des professions correspondantes.
+<sup>1</sup> Un émolument initial de 200 francs est perçu pour l’inscription principale sur les listes de participation. Un émolument de 50 francs est perçu pour chaque inscription supplémentaire.
 
-<sup>2</sup> En ce qui concerne les autres conditions ou exigences, ces mêmes entreprises ou bureaux disposent d’un délai de six mois à partir de l’entrée en vigueur de la présente ordonnance pour adapter leur situation et se mettre en conformité avec celle-ci.
+<sup>2</sup> Un an après la date de l’inscription, une taxe annuelle de 50 francs pour l'inscription principale et de 10 francs pour toute inscription supplémentaire est perçue.
+
+<sup>3</sup> Les décisions de rejet, de suspension et de radiation font l’objet d’un émolument de 100 francs.
+
+<sup>4</sup> Lorsque la radiation de l’inscription est demandée par l’entreprise, seul un courrier lui est adressé, sauf si cette dernière requiert une décision formelle.
+
+<sup>5</sup> Tous les autres frais ou émoluments sont réglés par la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives (LTar).
 
 #### Art. 16
 
-**Entrée en vigueur - Abrogation**
+**Listes d'aptitude**
 
-<sup>1</sup> La présente ordonnance sera publiée au bulletin officiel pour entrer en vigueur le 1<sup>er</sup> juin 2003.
+<sup>1</sup> Un émolument initial de 100 francs est perçu pour l'inscription principale sur les listes d’aptitude. Un émolument de 50 francs est perçu pour chaque inscription supplémentaire.
 
-<sup>2</sup> Elle abroge l'ordonnance concernant la tenue de listes permanentes du 26 juin 1998.
+<sup>2</sup> Un an après la date de l’inscription, une taxe annuelle de 50 francs pour l'inscription principale et de 10 francs pour toute inscription supplémentaire est perçue.
 
-RCV BO/Abl. 26/2003
+<sup>3</sup> Les décisions de rejet et de radiation de l'inscription font l’objet d’un émolument de 100 francs.
+
+<sup>4</sup> Lorsque la radiation de l'inscription est demandée par l'entreprise, seul un courrier lui est adressé, sauf si cette dernière requiert une décision formelle.
+
+<sup>5</sup> Tous autres frais ou émoluments sont réglés par la LTar.
+
+## T1 Dispositions transitoires
+
+#### Art. T1-1
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les entreprises déjà inscrites sur une ou plusieurs listes lors de l’entrée en vigueur de la présente ordonnance doivent, dans les 6 mois à compter de cette date, fournir les documents validant leur inscription, au sens des chapitres 3 et/ou 4 de la présente ordonnance. Dans l'intervalle, les inscriptions sont maintenues.
+
+<sup>2</sup> Aucun émolument ne sera prélevé auprès des entreprises pour la ou les listes sur lesquelles elles sont déjà inscrites.
+
+## A1 Annexe 1 aux articles 1 alinéa 3 et 6 alinéa 1 lettre a
+
+#### Art. A1-1
+
+**Secteurs professionnels faisant l’objet d’une liste de participation**
+
+<sup>1</sup> Les secteurs professionnels faisant l'objet d'une liste de participation sont les suivants:
+
+- a) bâtiment et génie civil;
+- b) transports et terrassements;
+- c) carrelage et revêtement;
+- d) plâtrerie et peinture;
+- e) bois:
+  - 1\. charpente,
+  - 2\. menuiserie,
+  - 3\. ébénisterie;
+- f) vitrerie;
+- g) construction métallique:
+  - 1\. tuyauterie industrielle;
+- h) technique du bâtiment:
+  - 1\. ferblanterie,
+  - 2\. installation sanitaire,
+  - 3\. couverture,
+  - 4\. chauffages centraux,
+  - 5\. ventilation;
+- i) électricité:
+  - 1\. installations électriques,
+  - 2\. tableaux électriques,
+  - 3\. télématique,
+  - 4\. installation de paratonnerre;
+- j) décorateur d'intérieur;
+- k) paysagiste;
+- l) poseur de revêtements de sols textiles, résilients et parqueteur;
+- m) ingénieur civil;
+- n) ingénieur du génie rural, géomètre;
+- o) ingénieur géomètre breveté;
+- p) géologie, géotechnique, hydrogéologie;
+- q) ingénieur en transport et planification;
+- r) ingénieur forestier;
+- s) architecte;
+- t) architecte d'intérieur;
+- u) architecte paysagiste;
+- v) directeur de travaux;
+- w) bureau d'étude en technique du bâtiment:
+  - 1\. installations sanitaires,
+  - 2\. installations de chauffage,
+  - 3\. installations de ventilation et climatisation;
+- x) bureau d'études en installations électriques;
+- y) bureau d'étude en sciences naturelles et de l'environnement;
+- z) prémédia;
+- aa) impression;
+- ab) postmedia;
+- ac) nettoyage.
+
+## A2 Annexe 2 aux articles 1 alinéa 3 et 9 alinéa 1
+
+#### Art. A2-1
+
+**Secteurs professionnels et critères relatifs aux listes d’aptitude**
+
+<sup>1</sup> Critères pour les entreprises du bâtiment et génie civil (001):
+
+- a) entrepreneur/entrepreneuse diplômé(e);
+- b) maçon/ne, maître;
+- c) diplôme d’ingénieur génie civil EPF ou HES;
+- d) diplôme fédéral de conducteur de travaux + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) technicien ET en bâtiment + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- f) contremaître (bâtiment ou génie civil) + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- g) contremaître de construction de route avec brevet fédéral + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- h) certificat cantonal de chef d’équipe + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- i) CFC de maçon + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- j) directeur/directrice des travaux du bâtiment diplômé(e) ou en génie civil diplômé(e) + 8 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>2</sup> Critères pour les entreprises de transports et terrassements (002):
+
+- a) entrepreneur diplômé + licence de transport;
+- b) maîtrise fédérale de maçon + licence de transport;
+- c) diplôme de directeur des travaux en bâtiment ou génie civil + 5 ans d’activité dirigeante dans une entreprise de la branche + licence de transport;
+- d) diplôme fédéral d’agent de transport par route + licence de transport;
+- e) CFC de conducteur de camion + 5 ans d’activité dirigeante dans une entreprise de la branche + licence de transport;
+- f) permis de conduire pour les véhicules à moteur servant au transport de marchandises et dont le poids total excède 3,5 t + 10 ans d’activité dirigeante dans une entreprise de la branche + licence de transport.
+
+<sup>3</sup> Critères pour les entreprises de carrelage et revêtement (003):
+
+- a) carreleur, maître;
+- b) diplôme fédéral de spécialiste en revêtements de sols et de murs + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- c) chef poseur/euse de revêtements de sols avec brevet fédéral + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- d) chef carreleur avec brevet fédéral + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- e) contremaître carreleur + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- f) CFC de carreleur + 5 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>4</sup> Critères pour les entreprises de plâtrerie (004):
+
+- a) plâtrier/ère, maître;
+- b) peintre, maître + CFC de plâtrier;
+- c) ingénieur en génie civil + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) diplôme d’une école technique de la construction + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) CFC de plâtrier ou plâtrier-peintre + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>5</sup> Critères pour les entreprises de peinture (005):
+
+- a) peintre, maître;
+- b) plâtrier/ère, maître + CFC de peintre;
+- c) ingénieur en génie civil + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) diplôme d’une école technique de la construction + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) CFC de peintre ou de plâtrier-peintre + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>6</sup> Critères pour les entreprises de charpente (006):
+
+- a) charpentier/ière, maître;
+- b) menuisier/ère ou ébéniste, maître + CFC de charpentier;
+- c) ingénieur HES construction en bois + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) technicien ET construction en bois + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) contremaître charpentier/ière avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) chef d’équipe charpentier + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- g) CFC de charpentier + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>7</sup> Critères pour les entreprises de menuiserie et ébénisterie (007):
+
+- a) menuisier/ière ou ébéniste, maître;
+- b) charpentier/ière, maître + CFC de menuisier ou ébéniste;
+- c) ingénieur HES construction en bois + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) technicien ET construction en bois + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) contremaître menuisier/ière ou contremaître ébéniste avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) contremaître charpentier/ière avec brevet fédéral + CFC de menuisier ou d’ébéniste + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- g) chef d’équipe menuisier + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- h) CFC de menuisier ou d’ébéniste + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>8</sup> Critères pour les entreprises de vitrerie (008):
+
+- a) expert/e en construction techniverrière diplômé(e);
+- b) vitrier/ère, maître;
+- c) contremaître vitrier avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- d) CFC de vitrier + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>9</sup> Critères pour les entreprises de construction métallique (009):
+
+- a) constructeur/euse métallique, maître;
+- b) maîtrise fédérale de projeteur + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) diplôme EPF ou HES en mécanique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) chef d’atelier constructeur/euse métallique avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- e) brevet fédéral de projeteur constructeur métallique + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) CFC de constructeur métallique ou constructeur d’appareil industriel + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>10</sup> Critères pour les entreprises de ferblanterie (010):
+
+- a) maîtrise fédérale de ferblantier;
+- b) maîtrise fédérale d’installateur sanitaire + CFC de ferblantier;
+- c) ingénieur EPF en mécanique ou en énergie climatique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) ingénieur HES en mécanique ou énergie climatique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) technicien ET – option ferblanterie + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- f) brevet fédéral contremaître en ferblanterie + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- g) CFC de ferblantier ou de ferblantier-installateur sanitaire + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>11</sup> Critères pour les entreprises d'installation sanitaire (011):
+
+- a) maîtrise fédérale d’installateur sanitaire;
+- b) maîtrise fédérale de ferblantier + CFC de monteur sanitaire;
+- c) ingénieur EPF ou HES en mécanique ou en énergie climatique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) installateur/trice en technique du bâtiment diplômé (sanitaire) + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) brevet fédéral de projeteur d’installation sanitaire + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) brevet fédéral de contremaître sanitaire + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- g) CFC de monteur sanitaire ou de ferblantier-installateur sanitaire + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>12</sup> Critères pour les entreprises de couverture (012):
+
+- a) couvreur/euse, maître;
+- b) maîtrise fédérale de ferblantier + CFC de couvreur;
+- c) contremaître couvreur avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- d) CFC de couvreur + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>13</sup> Critères pour les entreprises de chauffages centraux (013):
+
+- a) maîtrise fédérale d’installateur en chauffage ou de dessinateur en chauffage;
+- b) ingénieur EPF ou HES en énergie climatique (section chauffage) + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) ingénieur HES en génie thermique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) technicien ET en génie thermique ou en gestion énergétique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) diplôme de technicien ASCV + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- f) brevet fédéral d’installateur en technique du bâtiment diplômé (chauffage) + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- g) brevet fédéral de projeteur en technique du bâtiment (chauffage) + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- h) contremaître en chauffage avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- i) CFC de projeteur en technique du bâtiment (chauffage) + 10 ans d’activité dirigeante dans une entreprise de la branche;
+- j) CFC de monteur ou dessinateur en chauffage + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>14</sup> Critères pour les entreprises de ventilation (014):
+
+- a) maîtrise fédérale d’installateur en chauffage ou de dessinateur en chauffage;
+- b) ingénieur EPF ou HES en énergie climatique (section chauffage) ou en mécanique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) ingénieur HES en ventilation et climatisation + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) ingénieur HES en génie thermique + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- e) technicien ET en génie thermique ou en énergie climatique (section chauffage) + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- f) CFC de dessinateur-mécanicien + 10 ans d’activité dirigeante dans une entreprise de la branche;
+- g) CFC de monteur ou de dessinateur en ventilation + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>15</sup> Critères pour les entreprises d'installations électriques (015):
+
+- a) maîtrise fédérale d’installateur électricien;
+- b) ingénieur EPF ou HES en électricité avec une reconnaissance de personne de métier selon OIBT + 2 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>16</sup> Critères pour les entreprises de télématique (016):
+
+- a) maîtrise fédérale d’installateur électricien;
+- b) ingénieur EPF ou HES ou technicien ET en électricité avec une reconnaissance de personne de métier selon OIBT + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) brevet fédéral de télématicien + 5 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>17</sup> Critères pour les entreprises de tableaux électriques (017):
+
+- a) maîtrise fédérale de monteur en tableaux électriques ou d’installateur électricien;
+- b) ingénieur EPF ou HES ou technicien ET en électricité avec une reconnaissance de personne de métier selon OIBT + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) brevet fédéral de télématicien + 5 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>18</sup> Critères pour les entreprises décoratrices d'intérieur (018):
+
+- a) maîtrise fédérale de décorateur d’intérieur;
+- b) maîtrise fédérale de courtepointière;
+- c) ingénieur HES en architecture d’intérieur + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) brevet fédéral de décorateur d’intérieur ou spécialiste en tapis et en revêtements (sols ou muraux) + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- e) décorateur/trice d’intérieur avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) CFC de décorateur d’intérieur + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>19</sup> Critères pour les entreprises de paysagisme (019):
+
+- a) maîtrise fédérale de paysagiste;
+- b) diplôme d’architecte paysagiste ETS ou équivalent + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) diplôme d’une école technique supérieure + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- d) brevet fédéral de contremaître paysagiste + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- e) contremaître horticulteur avec brevet fédéral (paysagiste) + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) CFC de paysagiste + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- g) CFC de dessinateur paysagiste + 8 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>20</sup> Poseur de revêtements de sols textiles, résilients et parqueteur (020):
+
+- a) maîtrise fédérale de poseur de revêtements de sols;
+- b) chef poseur de revêtements de sols + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- c) CFC de poseur de revêtements de sols + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>21</sup> Critères pour les entreprises d’installation de paratonnerres (021):
+
+- a) attestation ECAB (Etablissement cantonal d'assurances de bâtiments Fribourg);
+- b) autorisation d'installer selon OIBT (ordonnance sur les installations à basse tension).
+
+<sup>22</sup> Critères pour les entreprises de tuyauterie industrielle (022):
+
+- a) maîtrise fédérale dans le domaine du métal + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- b) diplôme EPF ou HES en mécanique, génie civil ou ingénierie + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) brevet fédéral dans le domaine du métal + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- d) CFC dans le domaine de la construction d’appareils industriels (domaine de la tuyauterie) + 10 ans d’activité dirigeante dans une entreprise de la branche.
+
+<sup>23</sup> Critères pour les bureaux d'ingénieur civil (100):
+
+- a) ingénieur génie civil EPF;
+- b) ingénieur génie civil HES;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>24</sup> Critères pour les bureaux d'ingénieur du génie rural, géomètre (101):
+
+- a) ingénieur EPF génie rural, géomètre;
+- b) ingénieur HES génie rural, géomètre;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>25</sup> Critères pour les bureaux d'ingénieur géomètre breveté (102):
+
+- a) diplôme d’une école polytechnique fédérale – ingénieur EPF avec brevet fédéral d’ingénieur géomètre;
+- b) ingénieur HES avec brevet fédéral d’ingénieur géomètre;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>26</sup> Critères pour les bureaux de géologie, géotechnique, hydrogéologie (103):
+
+- a) diplôme d’une université ou Ecole polytechnique fédérale des sciences de la terre – Ingénieur EPF;
+- b) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- c) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- d) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>27</sup> Critères pour les bureaux d'ingénieur en transport et planification (104):
+
+- a) ingénieur EPF;
+- b) ingénieur HES;
+- c) ingénieur HES en transport;
+- d) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- e) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- f) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>28</sup> Critères pour les bureaux d'ingénieur forestier (105):
+
+- a) ingénieur forestier EPF;
+- b) ingénieur forestier HES;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>29</sup> Critères pour les bureaux d'architecte (106):
+
+- a) architecte EPF (Ecole polytechnique fédérale ou Université);
+- b) architecte HES;
+- c) inscrit dans les registres A ou B du registre suisse des architectes (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) les personnes au bénéfice de situation acquise à savoir disposant d’une formation CFC antérieure au 07.07.1982 démontrant d’une pratique en tant qu’indépendant supérieure à 10 ans au 07.07.1982;
+- f) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>30</sup> Critères pour les bureaux d'architecte d’intérieur (107):
+
+- a) diplôme d'architecte d'intérieur de l'Ecole supérieure des arts appliqués (ESAA) ou équivalent reconnu par l'OFPT;
+- b) inscrit dans les registres A ou B du registre suisse des architectes (REG);
+- c) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- d) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>31</sup> Critères pour les bureaux d'architecte paysagiste (108):
+
+- a) diplôme d'architecte paysagiste ETS de l'Ecole d'ingénieur ETS de Lullier ou Rapperswil;
+- b) inscrit dans les registres A ou B du registre suisse des architectes (REG);
+- c) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- d) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>32</sup> Critères pour les bureaux directeurs de travaux (109):
+
+- a) diplôme de directeur des travaux du bâtiment;
+- b) diplôme d'une école polytechnique fédérale ou Université / Architecte EPF;
+- c) architecte HES;
+- d) inscrit dans les registres A ou B du registre suisse des architectes (REG);
+- e) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- f) tous les bureaux figurant à la liste numéro 106;
+- g) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>33</sup> Critères pour les bureaux d’études en installations sanitaires (110):
+
+- a) ingénieur mécanicien diplômé d'une école polytechnique suisse EPF ou d'une école technique supérieure;
+- b) diplôme fédéral de projeteur d’installation sanitaire;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>34</sup> Critères pour les bureaux d’études en installations de chauffage (111):
+
+- a) ingénieur mécanicien diplômé d'une école polytechnique suisse ou d'une école technique supérieure;
+- b) maîtrise fédérale de planificateur d'installations de chauffage et de ventilation;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>35</sup> Critères pour les bureaux d’études en installations de ventilation et climatisation (112):
+
+- a) ingénieur mécanicien diplômé d'une école polytechnique suisse ou d'une école technique supérieure;
+- b) maîtrise fédérale de planificateur d'installations de chauffage et de ventilation;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>36</sup> Critères pour les bureaux d’études en installations électriques (113):
+
+- a) ingénieur électricien diplômé d'une école polytechnique suisse EPF ou HES;
+- b) maîtrise fédérale d’installateur-électricien;
+- c) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- d) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- e) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>37</sup> Critères pour les bureaux d’études en sciences naturelles et de l’environnement (114):
+
+- a) diplôme en sciences naturelles tel que géographe, biologiste, zoologue, botaniste ou ingénieur en environnement;
+- b) ingénieur HES en gestion de la nature;
+- c) spécialiste de la nature et de l’environnement avec brevet fédéral;
+- d) inscrit dans les registres A ou B du registre suisse des ingénieurs (REG);
+- e) diplôme étranger dont le titre est considéré comme équivalent par inscription dans les registres A ou B du REG suisse;
+- f) pour ce secteur professionnel, le critère de taille à considérer pour les entreprises est réduit (art. 9 al. 2 de la présente ordonnance), soit 5 employés au lieu de 10 pour un titulaire à temps partiel.
+
+<sup>38</sup> Critères pour les entreprises de prémédia (200):
+
+- a) CFC de polygraphe + 10 ans d’activité dirigeante dans une entreprise de la branche;
+- b) CFC de médiamaticien ou concepteur en multimédia + 10 ans d’activité dirigeante dans une entreprise de la branche;
+- c) technopolygraphe + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- d) opérateur multimédia + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- e) typographiste + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- f) correcteur + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- g) spécialiste diplômé de l’industrie graphique et emballage + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- h) technicien ET + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- i) ingénieur des médias;
+- j) maître des industries graphiques.
+
+<sup>39</sup> Critères pour les entreprises d'impression (201):
+
+- a) CFC de techno-imprimeur + 10 ans d’activité dirigeante dans une entreprise de la branche;
+- b) spécialiste en impression + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- c) agent commercial de l’imprimerie avec brevet fédéral + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- d) spécialiste diplômé de l’industrie graphique et emballage + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- e) technicien ET + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- f) ingénieur des médias;
+- g) maître des industries graphiques.
+
+<sup>40</sup> Critères pour les entreprises de postmédia (202):
+
+- a) CFC de relieur ou façonneur de produits imprimés + 10 ans d’activité dirigeante dans une entreprise de la branche;
+- b) spécialiste d’exploitation en finition des imprimés + 8 ans d’activité dirigeante dans une entreprise de la branche;
+- c) spécialiste diplômé de l’industrie graphique et emballage + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- d) technicien ET + 5 ans d’activité dirigeante dans une entreprise de la branche;
+- e) ingénieur des médias;
+- f) maître des industries graphiques;
+- g) maître relieur.
+
+<sup>41</sup> Critères pour les entreprises de nettoyage (203):
+
+- a) maîtrise fédérale d’agent de propreté;
+- b) brevet fédéral d’agent de propreté + 2 ans d’activité dirigeante dans une entreprise de la branche;
+- c) CFC d’agent de propreté + 3 ans d’activité dirigeante dans une entreprise de la branche;
+- d) CFC d’agent d’exploitation + 4 ans d’activité dirigeante dans une entreprise de la branche;
+- e) CFC d’une autre branche du bâtiment + 5 ans d’activité dirigeante dans une entreprise de la branche.
+
+RCV RO/AGS 2025-016
