@@ -3,18 +3,18 @@ sr: "832.106"
 title: Ordonnance du DFI du 15 mars 2022 sur les régions de primes
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-184-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-184-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les régions de primes
 
-du 15 mars 2022 (État le 1<sup>er</sup> janvier 2024)
+du 15 mars 2022 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -52,7 +52,7 @@ Annexe 1[^t-1]
 
 ## Régions de primes
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 494](https://fedlex.data.admin.ch/eli/oc/2023/494)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 470](https://fedlex.data.admin.ch/eli/oc/2024/470)).
 
 ### A. Cantons à région unique de primes
 
@@ -499,12 +499,12 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5905</td><td>Champvent</td><td>2</td></tr>
 <tr><td>5882</td><td>Chardonne</td><td>1</td></tr>
 <tr><td>5841</td><td>Château-d’Oex</td><td>2</td></tr>
-<tr><td>5707</td><td>Chavannes-de-Bogis</td><td>1</td></tr>
-<tr><td>5708</td><td>Chavannes-des-Bois</td><td>1</td></tr>
-<tr><td>5907</td><td>Chavannes-le-Chêne</td><td>2</td></tr>
-<tr><td>5475</td><td>Chavannes-le-Veyron</td><td>2</td></tr>
+<tr><td>5707</td><td>Chavannes- de-Bogis</td><td>1</td></tr>
+<tr><td>5708</td><td>Chavannes- des-Bois</td><td>1</td></tr>
+<tr><td>5907</td><td>Chavannes- le-Chêne</td><td>2</td></tr>
+<tr><td>5475</td><td>Chavannes- le-Veyron</td><td>2</td></tr>
 <tr><td>5627</td><td>Chavannes-près-Renens</td><td>1</td></tr>
-<tr><td>5665</td><td>Chavannes-sur-Moudon</td><td>2</td></tr>
+<tr><td>5665</td><td>Chavannes- sur-Moudon</td><td>2</td></tr>
 <tr><td>5749</td><td>Chavornay</td><td>2</td></tr>
 <tr><td>5908</td><td>Chêne-Pâquier</td><td>2</td></tr>
 <tr><td>5909</td><td>Cheseaux-Noréaz</td><td>2</td></tr>
@@ -554,7 +554,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5584</td><td>Épalinges</td><td>1</td></tr>
 <tr><td>5914</td><td>Épendes (VD)</td><td>2</td></tr>
 <tr><td>5856</td><td>Essertines-sur-Rolle</td><td>1</td></tr>
-<tr><td>5520</td><td>Essertines-sur-Yverdon</td><td>2</td></tr>
+<tr><td>5520</td><td>Essertines- sur-Yverdon</td><td>2</td></tr>
 <tr><td>5521</td><td>Étagnières</td><td>2</td></tr>
 <tr><td>5636</td><td>Étoy</td><td>1</td></tr>
 <tr><td>5716</td><td>Eysins</td><td>1</td></tr>
@@ -681,8 +681,8 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>5413</td><td>Roche (VD)</td><td>2</td></tr>
 <tr><td>5861</td><td>Rolle</td><td>1</td></tr>
 <tr><td>5761</td><td>Romainmôtier-Envy</td><td>2</td></tr>
-<tr><td>5592</td><td>Romanel-sur-Lausanne</td><td>1</td></tr>
-<tr><td>5645</td><td>Romanel-sur-Morges</td><td>1</td></tr>
+<tr><td>5592</td><td>Romanel- sur-Lausanne</td><td>1</td></tr>
+<tr><td>5645</td><td>Romanel- sur-Morges</td><td>1</td></tr>
 <tr><td>5798</td><td>Ropraz</td><td>2</td></tr>
 <tr><td>5684</td><td>Rossenges</td><td>2</td></tr>
 <tr><td>5842</td><td>Rossinière</td><td>2</td></tr>
@@ -1116,7 +1116,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>567</td><td>Reichenbach im Kandertal</td><td>3</td></tr>
 <tr><td>336</td><td>Reisiswil</td><td>3</td></tr>
 <tr><td>441</td><td>Renan (BE)</td><td>2</td></tr>
-<tr><td>767</td><td>Reutigen</td><td>3</td></tr>
+<tr><td>767</td><td>Reutigen</td><td>2</td></tr>
 <tr><td>879</td><td>Riggisberg</td><td>2</td></tr>
 <tr><td>590</td><td>Ringgenberg (BE)</td><td>3</td></tr>
 <tr><td>704</td><td>Roches (BE)</td><td>2</td></tr>
@@ -1206,7 +1206,6 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>754</td><td>Walperswil</td><td>2</td></tr>
 <tr><td>959</td><td>Walterswil (BE)</td><td>3</td></tr>
 <tr><td>992</td><td>Wangen an der Aare</td><td>3</td></tr>
-<tr><td>993</td><td>Wangenried</td><td>3</td></tr>
 <tr><td>886</td><td>Wattenwil</td><td>2</td></tr>
 <tr><td>394</td><td>Wengi</td><td>2</td></tr>
 <tr><td>632</td><td>Wichtrach</td><td>2</td></tr>
@@ -1228,7 +1227,6 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>361</td><td>Zollikofen</td><td>1</td></tr>
 <tr><td>557</td><td>Zuzwil (BE)</td><td>2</td></tr>
 <tr><td>794</td><td>Zweisimmen</td><td>3</td></tr>
-<tr><td>947</td><td>Zwieselberg</td><td>2</td></tr>
 </table>
 
 <table>
@@ -1315,7 +1313,7 @@ Argovie, Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Bâle-Vil
 <tr><td>3762</td><td>Scuol</td><td>2</td></tr>
 <tr><td>3972</td><td>Seewis im Prättigau</td><td>2</td></tr>
 <tr><td>3640</td><td>Sils im Domleschg</td><td>3</td></tr>
-<tr><td>3789</td><td>Sils im Engadin/Segl</td><td>2</td></tr>
+<tr><td>3789</td><td>Sils im Engadin/ Segl</td><td>2</td></tr>
 <tr><td>3790</td><td>Silvaplana</td><td>2</td></tr>
 <tr><td>3823</td><td>Soazza</td><td>1</td></tr>
 <tr><td>3787</td><td>St. Moritz</td><td>2</td></tr>

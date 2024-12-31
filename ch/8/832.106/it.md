@@ -3,18 +3,18 @@ sr: "832.106"
 title: Ordinanza del DFI del 15 marzo 2022 sulle regioni di premio
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-184-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-184-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle regioni di premio
 
-del 15 marzo 2022 (Stato 1° gennaio 2024)
+del 15 marzo 2022 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale dell’interno (DFI)
 
@@ -48,11 +48,9 @@ La presente ordinanza entra in vigore il 1° gennaio 2023.
 
 Allegato 1[^t-1]
 
-(art. 1 e 3)
-
 ## Regioni di premio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 494](https://fedlex.data.admin.ch/eli/oc/2023/494)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 470](https://fedlex.data.admin.ch/eli/oc/2024/470)).
 
 ### A. Cantoni con un’unica regione di premio
 
@@ -63,7 +61,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Basilea Campagna
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2761</td><td>Aesch (BL)</td><td>1</td></tr>
 <tr><td>2762</td><td>Allschwil</td><td>1</td></tr>
 <tr><td>2841</td><td>Anwil</td><td>2</td></tr>
@@ -159,7 +157,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Friburgo
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2321</td><td>Attalens</td><td>2</td></tr>
 <tr><td>2061</td><td>Auboranges</td><td>2</td></tr>
 <tr><td>2173</td><td>Autigny</td><td>1</td></tr>
@@ -295,7 +293,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Sciaffusa
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2931</td><td>Bargen (SH)</td><td>2</td></tr>
 <tr><td>2951</td><td>Beggingen</td><td>2</td></tr>
 <tr><td>2932</td><td>Beringen</td><td>2</td></tr>
@@ -331,7 +329,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Ticino
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>5048</td><td>Acquarossa</td><td>2</td></tr>
 <tr><td>5141</td><td>Agno</td><td>1</td></tr>
 <tr><td>5061</td><td>Airolo</td><td>2</td></tr>
@@ -447,7 +445,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Vaud
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>5621</td><td>Aclens</td><td>1</td></tr>
 <tr><td>5742</td><td>Agiez</td><td>2</td></tr>
 <tr><td>5401</td><td>Aigle</td><td>2</td></tr>
@@ -757,7 +755,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Vallese
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>6101</td><td>Agarn</td><td>2</td></tr>
 <tr><td>6102</td><td>Albinen</td><td>2</td></tr>
 <tr><td>6252</td><td>Anniviers</td><td>2</td></tr>
@@ -891,7 +889,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Berna
 
 <table>
-<tr><th colspan="2">Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th colspan="2">Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>301</td><td colspan="2">Aarberg</td><td>2</td></tr>
 <tr><td>321</td><td colspan="2">Aarwangen</td><td>3</td></tr>
 <tr><td>561</td><td colspan="2">Adelboden</td><td>3</td></tr>
@@ -1116,7 +1114,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>567</td><td colspan="2">Reichenbach im Kandertal</td><td>3</td></tr>
 <tr><td>336</td><td colspan="2">Reisiswil</td><td>3</td></tr>
 <tr><td>441</td><td colspan="2">Renan (BE)</td><td>2</td></tr>
-<tr><td>767</td><td colspan="2">Reutigen</td><td>3</td></tr>
+<tr><td>767</td><td colspan="2">Reutigen</td><td>2</td></tr>
 <tr><td>879</td><td colspan="2">Riggisberg</td><td>2</td></tr>
 <tr><td>590</td><td colspan="2">Ringgenberg (BE)</td><td>3</td></tr>
 <tr><td>704</td><td colspan="2">Roches (BE)</td><td>2</td></tr>
@@ -1206,7 +1204,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>754</td><td colspan="2">Walperswil</td><td>2</td></tr>
 <tr><td>959</td><td colspan="2">Walterswil (BE)</td><td>3</td></tr>
 <tr><td>992</td><td colspan="2">Wangen an der Aare</td><td>3</td></tr>
-<tr><td>993</td><td colspan="2">Wangenried</td><td>3</td></tr>
 <tr><td>886</td><td colspan="2">Wattenwil</td><td>2</td></tr>
 <tr><td>394</td><td colspan="2">Wengi</td><td>2</td></tr>
 <tr><td>632</td><td colspan="2">Wichtrach</td><td>2</td></tr>
@@ -1228,7 +1225,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>361</td><td colspan="2">Zollikofen</td><td>1</td></tr>
 <tr><td>557</td><td colspan="2">Zuzwil (BE)</td><td>2</td></tr>
 <tr><td>794</td><td colspan="2">Zweisimmen</td><td>3</td></tr>
-<tr><td>947</td><td colspan="2">Zwieselberg</td><td>2</td></tr>
 </table>
 
 <table>
@@ -1238,7 +1234,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Grigioni
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>3542</td><td>Albula/Alvra</td><td>3</td></tr>
 <tr><td>3701</td><td>Andeer</td><td>3</td></tr>
 <tr><td>3921</td><td>Arosa</td><td>1</td></tr>
@@ -1349,7 +1345,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Lucerna
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>1051</td><td>Adligenswil</td><td>2</td></tr>
 <tr><td>1021</td><td>Aesch (LU)</td><td>3</td></tr>
 <tr><td>1121</td><td>Alberswil</td><td>3</td></tr>
@@ -1439,7 +1435,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### San Gallo
 
 <table>
-<tr><th>Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>3251</td><td>Altstätten</td><td>3</td></tr>
 <tr><td>3311</td><td>Amden</td><td>2</td></tr>
 <tr><td>3441</td><td>Andwil (SG)</td><td>2</td></tr>
@@ -1524,7 +1520,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Zurigo
 
 <table>
-<tr><th colspan="2">Numero del Comune (n<sup>o</sup> UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th colspan="2">Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>131</td><td colspan="2">Adliswil</td><td>2</td></tr>
 <tr><td>241</td><td colspan="2">Aesch (ZH)</td><td>3</td></tr>
 <tr><td>1</td><td colspan="2">Aeugst am Albis</td><td>3</td></tr>
