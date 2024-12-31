@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 3 décembre 2007 de la Caisse de prévoyance
 short: RP-EPF 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/192"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-192-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-192-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20240101/fr"
 
 (RP-EPF 2)
 
-du 3 décembre 2007 (État le 1<sup>er</sup> janvier 2024)
+du 3 décembre 2007 (État le 1<sup>er</sup> janvier 2025)
 
-L’organe paritaire de la caisse de prévoyance du domaine des EPF (OP EPF),
+L’organe paritaire de la Caisse de prévoyance du domaine des EPF[^ingress-1] (OP EPF),
 
-vu l’art. 32*c*, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-1],
+vu l’art. 32*c*, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-2],
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: Nouvelle expression selon le ch. I de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 ## Chapitre 1 Dispositions générales
 
@@ -35,7 +36,7 @@ arrête:
 
 <sup>1</sup> Le présent règlement fait partie intégrante du contrat d’affiliation du 29 novembre 2023 de la Caisse de prévoyance du domaine des EPF[^1-1].[^1-2]
 
-<sup>2</sup> Dans le cadre de la caisse de prévoyance du domaine des EPF, il régit l’assurance contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.
+<sup>2</sup> Dans le cadre de la Caisse de prévoyance du domaine des EPF, il régit l’assurance contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.
 
 [^1-1]: [FF 2023 2829](https://fedlex.data.admin.ch/eli/fga/2023/2829)
 [^1-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 13 juin/1<sup>er</sup> nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
@@ -203,7 +204,7 @@ L’assurance prend fin:
 
 <sup>2</sup> La personne concernée reste toutefois assurée à PUBLICA contre les risques de décès et d’invalidité pendant un mois après la résiliation des rapports de travail. Les prestations correspondent aux prestations assurées à la fin des rapports de travail. Si une nouvelle relation de prévoyance prend naissance avant la fin de ce délai, la nouvelle institution de prévoyance est compétente.
 
-[^18-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^18-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 [^18-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 [^18-3]: Nouvelle expression selon le ch. I al. 1 des D de l’OP EPF des 13 juin/1<sup>er</sup> nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)). Il a été tenu compte de cette mod. dans tout le texte.
 [^18-4]: Abrogée par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, avec effet au 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
@@ -268,7 +269,7 @@ Si l’assurance prend fin en raison de sa résiliation par la personne assurée
 - a. versée sous forme de prestation de vieillesse à la personne assurée si cette dernière a atteint l’âge de 60 ans;
 - b. transférée à une institution de libre passage si la personne assurée n’a pas encore atteint l’âge de 60 ans.
 
-[^18d-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^18d-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 ## Chapitre 3 Bases de calcul
 
@@ -383,7 +384,7 @@ Le gain assuré est déterminant pour le calcul des cotisations d’épargne et 
 <sup>3</sup> Le paiement de la prime de risque en cas de maintien de l’assurance selon l’art. 18*d* est réservé.[^26-2]
 
 [^26-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
-[^26-2]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^26-2]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 27
 
@@ -409,8 +410,8 @@ Elle prend fin:
 
 <sup>5</sup> L’art. 28 est réservé.
 
-[^27-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
-[^27-2]: Introduite par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^27-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^27-2]: Introduite par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 28
 
@@ -475,7 +476,7 @@ Les prestations de sortie d’autres institutions de prévoyance et les avoirs a
 [^32-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 [^32-3]: Abrogé par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, avec effet au 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 [^32-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
-[^32-5]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^32-5]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 32a
 
@@ -540,7 +541,7 @@ Sont déterminants pour le calcul de la somme de rachat:
 
 <sup>5</sup>
 
-Si une contribution d’assainissement est perçue, l’organe paritaire de la caisse de prévoyance du domaine des EPF informe les personnes assurées et les bénéficiaires de rente sur:
+Si une contribution d’assainissement est perçue, l’organe paritaire de la Caisse de prévoyance du domaine des EPF informe les personnes assurées et les bénéficiaires de rente sur:
 
 - a. le taux ou le montant;
 - b. la durée prévue;
@@ -607,11 +608,11 @@ Sont déduits de l’avoir de vieillesse:
 
 <sup>5</sup> Les intérêts selon l’annexe 1, calculés sur la base de l’état de l’avoir de vieillesse à la fin de l’année précédente, sont portés, à la fin de l’année civile en cours, au crédit de l’avoir de vieillesse.
 
-<sup>5</sup> Les intérêts sur les prestations de sortie apportées et les rachats sont crédités *pro rata temporis* pour l’année correspondante (annexe 1). Sur les versements selon l’al. 3 un intérêt et calculé au *pro rata temporis* pour l’année en cours et l’avoir de vieillesse est réduit proportionnellement.
+<sup>6</sup> Les intérêts sur les prestations de sortie apportées et les rachats sont crédités *pro rata temporis* pour l’année correspondante (annexe 1). Sur les versements selon l’al. 3 un intérêt et calculé au *pro rata temporis* pour l’année en cours et l’avoir de vieillesse est réduit proportionnellement.
 
 <sup>7</sup> Lors de la survenance d’un cas de prévoyance ou si la personne assurée quitte la caisse de prévoyance pendant l’année en cours, les intérêts pour l’année en cours selon l’annexe 1 sont calculés *pro rata temporis* sur la base de l’avoir de vieillesse accumulé à la fin de l’année précédente.
 
-<sup>8</sup> À la fin de chaque année, l’organe paritaire fixe le taux d’intérêt pour la rémunération de l’avoir de vieillesse de l’année en cours en se fondant sur le résultat provisoire de l’exercice et sur l’état de la fortune et des revenus de la caisse de prévoyance du domaine des EPF, ainsi que le taux d’intérêt pour la rémunération relative au calcul de la prestation de sortie l’année suivante.[^36-7]
+<sup>8</sup> À la fin de chaque année, l’organe paritaire fixe le taux d’intérêt pour la rémunération de l’avoir de vieillesse de l’année en cours en se fondant sur le résultat provisoire de l’exercice et sur l’état de la fortune et des revenus de la Caisse de prévoyance du domaine des EPF, ainsi que le taux d’intérêt pour la rémunération relative au calcul de la prestation de sortie l’année suivante.[^36-7]
 
 [^36-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^36-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
@@ -686,10 +687,10 @@ Sont déduits de l’avoir de vieillesse:
 
 [^40-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 [^40-2]: Introduit par le ch. I des D de l’OP EPF des 13 juin/1<sup>er</sup> nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
-[^40-3]: Abrogé par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^40-3]: Abrogé par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 [^40-4]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013 ([RO 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)). Abrogé par le ch. I des D de l’OP EPF des 13 juin/1<sup>er</sup> nov. 2023, approuvée par le CF le 29 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 [^40-5]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
-[^40-6]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^40-6]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 41
 
@@ -736,7 +737,11 @@ Un éventuel avoir de prévoyance encore disponible issu du compte PC (art. 25) 
 - f. aux frères et sœurs;
 - g. aux héritiers légaux, à l’exclusion de la collectivité publique.
 
+<sup>2bis</sup> La personne assurée peut changer l’ordre des groupes d’ayants droit de l’al. 2, let. e et f. La déclaration correspondante doit être remise à PUBLICA dans les trois mois à compter du décès. Si aucune déclaration n’est déposée dans ce délai, l’avoir issu du compte PC est versé selon l’ordre de priorité défini à l’al. 2.[^43-1]
+
 <sup>3</sup> La prestation en capital est répartie en parts égales entre tous les ayants droit appartenant au même groupe de bénéficiaires.
+
+[^43-1]: Introduit par le ch. I de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 44
 
@@ -776,8 +781,8 @@ Concernant le droit à la rente selon l’al. 1, le conjoint divorcé est assimi
 
 <sup>7</sup> Le conjoint divorcé n’a pas droit à l’indemnité unique au sens de l’al. 2.
 
-[^44-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
-[^44-2]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^44-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^44-2]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 [^44-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^44-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^44-5]: Introduit par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
@@ -793,13 +798,13 @@ En cas de décès de la personne assurée ou bénéficiaire d’une rente de vie
 - a. a atteint l’âge de 40 ans révolus et a formé une communauté de vie ininterrompue avec la personne assurée au moins pendant les cinq dernières années précédant le décès, ou
 - b. doit subvenir à l’entretien d’un ou de plusieurs enfants communs qui, selon le présent règlement, ont droit à une rente d’orphelin.
 
-<sup>2</sup> Le droit à la rente de partenaire n’existe que si l’union libre a été annoncée à PUBLICA sous la forme d’un contrat de partenariat. L’original du contrat de partenariat, signé par les deux partenaires, doit être déposé de leur vivant à PUBLICA.
+<sup>2</sup> Le droit à la rente de partenaire n’existe que si la personne assurée ou la personne bénéficiaire d’une rente a annoncé l’union libre du vivant des deux partenaires. L’annonce doit être effectuée soit sur le portail client de PUBLICA, soit par écrit et, dans ce cas, être assortie d’une signature manuscrite.[^45-1]
 
 <sup>3</sup> L’union libre au sens de la présente disposition est une communauté de vie, comparable au mariage, entre deux personnes de sexe différent ou de même sexe non mariées qui n’ont aucun lien de parenté et dont le partenariat n’est pas enregistré au sens de la loi sur le partenariat. Est aussi considérée comme union libre une communauté de vie entre personnes ayant des liens de parenté, pour autant qu’il n’existe aucun empêchement au mariage.
 
 <sup>4</sup> Le droit à la rente de partenaire prend naissance au décès de la personne assurée, mais au plus tôt le lendemain du jour où cesse le droit de la personne assurée défunte au revenu découlant de son activité ou de sa rente de vieillesse ou d’invalidité. Le droit aux prestations doit être annoncé à PUBLICA au plus tard six mois après le décès de la personne assurée.
 
-<sup>5</sup> La durée de l’union libre s’additionne à la durée du mariage subséquent au sens des dispositions de l’art. 44, al. 1, let. b, sur le droit à une rente de viduité, pour autant que PUBLICA dispose du contrat de partenariat original, signé par les deux partenaires et que ce contrat lui ait été remis du vivant des deux partenaires.
+<sup>5</sup> La durée de l’union libre s’additionne à la durée du mariage subséquent lors de l’examen des conditions prévues à l’art. 44, al. 1, let. b, en vue de l’octroi d’une rente de viduité, pour autant que l’union libre ait été annoncée à PUBLICA conformément à l’al. 2.[^45-2]
 
 <sup>6</sup>
 
@@ -818,6 +823,9 @@ Le droit à la rente s’éteint:
 - b. si le partenaire survivant a droit à une rente de viduité suite au décès de son conjoint divorcé.
 
 <sup>8</sup> Si des doutes surgissent lors de la vérification des conditions de droit, en particulier si plusieurs personnes font valoir des droits conformément à l’art. 49 (capital décès), PUBLICA doit surseoir à l’octroi de ses prestations jusqu’à éclaircissement complet des conditions de droit. Aucun intérêt n’est dû sur les prestations différées.
+
+[^45-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
+[^45-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 46
 
@@ -839,6 +847,22 @@ Le montant annuel de la rente de viduité, de même que celui de la rente de par
 
 [^46-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 13 juin/1<sup>er</sup> nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 [^46-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+
+#### Art. 46a
+
+**Perception du capital au lieu d’une rente de viduité ou d’une rente de partenaire**[^46a-1]
+
+<sup>1</sup> La rente de viduité et la rente de partenaire mentionnées à l’art. 46, al. 1, let. a et c, peuvent être perçues entièrement ou partiellement sous forme d’indemnité unique en capital. Cela s’applique également à la rente de viduité et à la rente de partenaire en vertu de l’art. 46, al. 1, let. b, si la personne décédée percevait une rente d’invalidité.
+
+<sup>2</sup> Si l’ayant droit souhaite percevoir entièrement ou partiellement la rente de viduité ou la rente de partenaire sous forme de capital, il doit adresser à PUBLICA une déclaration écrite correspondante signée de sa main. Cette déclaration doit parvenir à PUBLICA au plus tard trois mois après le décès de la personne assurée ou de la personne bénéficiaire d’une rente. Les éventuels paiements de la rente sont déduits de l’indemnité en capital.
+
+<sup>3</sup> L’indemnité en capital correspond à la valeur actualisée de la rente ainsi perçue.
+
+<sup>4</sup> La rente de viduité et la rente de partenaire sont réduites dans la mesure du retrait sous forme d’indemnité en capital.
+
+<sup>5</sup> Si le conjoint survivant ou la conjointe survivante, le partenaire survivant ou la partenaire survivante n’a pas encore 45 ans, l’indemnité en capital est diminuée de 2 % pour chaque année entière ou partielle entre l’âge de l’ayant droit au moment du décès de la personne assurée ou de celle qui percevait une rente d’invalidité et 45 ans. Toutefois, l’indemnité en capital entière équivaut au moins au capital-décès selon l’art. 50.
+
+[^46a-1]: Introduit par le ch. I de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 47
 
@@ -1007,7 +1031,9 @@ Tant que dure le droit aux prestations d’invalidité, la personne invalide et 
 
 <sup>2</sup> En cas d’invalidité complète, l’avoir accumulé est versé sous la forme d’une indemnité unique en capital.
 
-<sup>3</sup> En cas de décès, l’avoir accumulé est versé conformément à l’art. 43, al. 2.
+<sup>3</sup> En cas de décès, l’avoir accumulé est versé conformément à l’art. 43, al. 2 et 2<sup>bis</sup>.[^55-1]
+
+[^55-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 56
 
@@ -1146,9 +1172,9 @@ Si l’employeur résilie le contrat de travail d’une personne assurée âgée
 
 **Limitation du droit aux prestations**
 
-<sup>1</sup> Nul ne peut faire valoir un droit à des prestations allant au-delà de celles prévues par le présent règlement. Il n’existe en particulier aucun droit sur les fonds non liés de la caisse de prévoyance du domaine des EPF ou de PUBLICA. Les dispositions relatives à la liquidation partielle sont réservées.
+<sup>1</sup> Nul ne peut faire valoir un droit à des prestations allant au-delà de celles prévues par le présent règlement. Il n’existe en particulier aucun droit sur les fonds non liés de la Caisse de prévoyance du domaine des EPF ou de PUBLICA. Les dispositions relatives à la liquidation partielle sont réservées.
 
-<sup>2</sup> Si une partie des destinataires quitte la caisse de prévoyance du domaine des EPF (art. 32*f* LPers), la procédure et les droits des personnes assurées et des bénéficiaires de rente se fondent sur les dispositions légales et le règlement de liquidation partielle.
+<sup>2</sup> Si une partie des destinataires quitte la Caisse de prévoyance du domaine des EPF (art. 32*f* LPers), la procédure et les droits des personnes assurées et des bénéficiaires de rente se fondent sur les dispositions légales et le règlement de liquidation partielle.
 
 #### Art. 66
 
@@ -1254,7 +1280,7 @@ Les rentes de vieillesse, de survivants et d’invalidité sont adaptées au ren
 
 <sup>2</sup> Les prestations pour survivants versées par PUBLICA et les revenus supplémentaires des survivants à prendre en compte au sens de l’art. 24 OPP 2 sont pris en considération intégralement. Les indemnités uniques en capital sont converties en rentes de valeur actuarielle équivalente. La réduction est appliquée aux différentes rentes de manière proportionnelle.
 
-<sup>3</sup> La part des prestations qui n’est pas versée pour cause de surindemnisation revient à la caisse de prévoyance du domaine des EPF.
+<sup>3</sup> La part des prestations qui n’est pas versée pour cause de surindemnisation revient à la Caisse de prévoyance du domaine des EPF.
 
 <sup>4</sup> En présence de cas de rigueur, PUBLICA peut renoncer totalement ou partiellement à la réduction des prestations. La Commission de la caisse définit les modalités dans un règlement sur les cas de rigueur.
 
@@ -1296,7 +1322,7 @@ Si les rapports de travail cessent avant le 1er janvier de l’année suivant le
 
 Si l’assurance prend fin sans qu’un cas de prévoyance ne soit survenu, le droit à la prestation de sortie est régi par l’art. 18*d*, al. 6 et 7.
 
-[^81a-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^81a-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 82
 
@@ -1343,8 +1369,8 @@ La personne assurée doit fournir les justificatifs autorisant le paiement en es
 
 <sup>7</sup> Si, au cours des trois dernières années précédant le versement en espèces, la personne assurée a effectué un rachat pour améliorer sa couverture d’assurance, les éventuelles restrictions légales sur le paiement sont réservées.
 
-[^83-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
-[^83-2]: Abrogé par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^83-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^83-2]: Abrogé par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 84
 
@@ -1402,7 +1428,7 @@ Le montant minimum au sens de l’art. 17 LFLP, déduction faite des versements 
 [^85-2]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogé par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
 [^85-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 [^85-4]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil 2012 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
-[^85-5]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^85-5]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvée par le Conseil des EPF les 6/7 juil 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 86
 
@@ -1450,7 +1476,7 @@ En cas de libre passage, PUBLICA adresse à la personne assurée ainsi qu’à l
 
 **Maintien de la prévoyance dans des cas particuliers**
 
-Si la personne assurée passe de la caisse de prévoyance du domaine des EPF à une autre caisse de prévoyance de PUBLICA, PUBLICA établit dans tous les cas un décompte comme pour un cas de libre passage.
+Si la personne assurée passe de la Caisse de prévoyance du domaine des EPF à une autre caisse de prévoyance de PUBLICA, PUBLICA établit dans tous les cas un décompte comme pour un cas de libre passage.
 
 #### Art. 90
 
@@ -1472,7 +1498,7 @@ Si la personne assurée passe de la caisse de prévoyance du domaine des EPF à 
 
 <sup>2</sup> PUBLICA peut percevoir des frais administratifs pour les montants accordés à titre de versement anticipé et de mise en gage dans le cadre de l’encouragement à la propriété du logement. Ces frais sont définis dans le règlement relatif aux émoluments. Sur demande préalable, la personne assurée sera informée de leur montant.
 
-[^91-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^91-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 92
 
@@ -1521,8 +1547,8 @@ Le montant perçu de manière anticipée peut être remboursé:
 
 <sup>3</sup> Si la personne assurée rembourse le versement anticipé, le montant correspondant est crédité, à la date de valeur du remboursement, à l’avoir de vieillesse au sens de l’art. 36, al. 2, let. e. Le montant minimal du remboursement est de 10 000 francs. Si le solde du versement anticipé à rembourser est inférieur à cette somme, le remboursement doit être effectué en une seule fois.[^93-3]
 
-[^93-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
-[^93-2]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^93-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^93-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 [^93-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
 
 #### Art. 94
@@ -1775,7 +1801,7 @@ En cas de réinsertion avec effet après l’entrée en vigueur du présent règ
 
 **Disposition transitoire relative à la modification du 30 novembre 2017: adaptation des paramètres techniques au 1<sup>er</sup> janvier 2019 – revalorisation de la rente de vieillesse, d’invalidité ou de survivants**[^107e-1]
 
-<sup>1</sup> Afin d’atténuer les conséquences de l’entrée en vigueur au 1<sup>er</sup> janvier 2019 des nouvelles bases techniques, les avoirs de vieillesse et éventuels avoirs issus de comptes PC des personnes assurées de manière ininterrompue du 1er janvier 2018 au 31 décembre 2018 au sein de la caisse de prévoyance du domaine des EPF et âgées d’au moins 60 ans au 31 décembre 2018 sont revalorisés conformément aux al. 2 à 5.
+<sup>1</sup> Afin d’atténuer les conséquences de l’entrée en vigueur au 1<sup>er</sup> janvier 2019 des nouvelles bases techniques, les avoirs de vieillesse et éventuels avoirs issus de comptes PC des personnes assurées de manière ininterrompue du 1er janvier 2018 au 31 décembre 2018 au sein de la Caisse de prévoyance du domaine des EPF et âgées d’au moins 60 ans au 31 décembre 2018 sont revalorisés conformément aux al. 2 à 5.
 
 <sup>2</sup> La revalorisation n’est effectuée qu’à la date du départ à la retraite et seulement dans les mêmes proportions que celles dans lesquelles la rente de vieillesse est perçue.
 
@@ -1783,7 +1809,7 @@ En cas de réinsertion avec effet après l’entrée en vigueur du présent règ
 
 Sont déterminants pour la revalorisation:
 
-- a. l’avoir de vieillesse et l’éventuel avoir issu du compte PC disponibles au 31 décembre 2018 dans la caisse de prévoyance du domaine des EPF, déduction faite de toute opération réalisée à compter du 1er janvier 2016 qu’il s’agisse de rachats, de rachats pour cause de divorce ou de dissolution judiciaire du partenariat enregistré, ou de remboursements des versements anticipés et versements résultant de la réalisation du gage effectués dans le cadre de l’encouragement à la propriété du logement, et
+- a. l’avoir de vieillesse et l’éventuel avoir issu du compte PC disponibles au 31 décembre 2018 dans la Caisse de prévoyance du domaine des EPF, déduction faite de toute opération réalisée à compter du 1er janvier 2016 qu’il s’agisse de rachats, de rachats pour cause de divorce ou de dissolution judiciaire du partenariat enregistré, ou de remboursements des versements anticipés et versements résultant de la réalisation du gage effectués dans le cadre de l’encouragement à la propriété du logement, et
 - b. l’âge de la personne assurée au 31 décembre 2018.
 
 <sup>4</sup> Le tableau suivant sert de base pour la revalorisation (interpolation mensuelle):
@@ -1839,7 +1865,7 @@ Les personnes assurées qui ont atteint l’âge de 62 ans avant le 1<sup>er</su
 - a. ne peuvent plus rembourser ces versements anticipés les obligations visées à l’art. 93, al. 1, ne s’appliquent plus;
 - b. peuvent effectuer des rachats pour autant que leur montant, additionné à celui des versements anticipés, n’excède pas les prestations maximales établies par le présent règlement.
 
-[^107h-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^107h-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 107i
 
@@ -1880,7 +1906,8 @@ Pour les femmes de la génération transitoire, l’âge de référence suivant 
 - c. 64 ans et 6 mois pour les femmes nées en 1962;
 - d. 64 ans et 9 mois pour les femmes nées en 1963;
 - e. 65 ans pour les femmes nées en 1964 ou ultérieurement.
-- [tab] <sup>2</sup> Pour les autres dispositions, l’âge de référence de 65 ans est applicable pour les femmes.
+
+<sup>2</sup> Pour les autres dispositions, l’âge de référence de 65 ans est applicable pour les femmes.
 
 [^107j-1]: Introduit par le ch. I des D de l’OP EPF des 13 juin/1<sup>er</sup> nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
@@ -2015,15 +2042,15 @@ Annexe 4[^t-5]
 
 ## Taux de conversion
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^t-5]: Nouvelle teneur selon le ch. II de la D de l’OP EPF du 2 juil. 2024, approuvée par le CF le 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 <table>
-<tr><th>Age</th><th>Taux de conversion</th></tr>
+<tr><th>Âge</th><th>Taux de conversion</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
-<tr><td>63 Hommes 63 Femmes</td><td>4,83 % 4,90 %</td></tr>
-<tr><td>64 Hommes 64 Femmes</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>63 hommes et femmes, sauf les femmes nées en 1963 ou avant 63 femmes nées en 1963 ou avant</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 hommes et femmes, sauf les femmes nées en 1963 ou avant 64 femmes nées en 1963 ou avant</td><td>4,96 % 5,09 %</td></tr>
 <tr><td>65</td><td>5,09 %</td></tr>
 <tr><td>66</td><td>5,24 %</td></tr>
 <tr><td>67</td><td>5,40 %</td></tr>
@@ -2270,7 +2297,7 @@ b) âge AVS 64
 <tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
 </table>
 
-**Explication:**
+Explication:
 
 \1. Les montants figurant dans les tableaux correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire finance elle-même la totalité de la rente transitoire.
 

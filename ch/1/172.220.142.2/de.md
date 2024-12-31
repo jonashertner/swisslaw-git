@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 3. Dezember 2007 des Vorsorgewerks ETH-Bereich für
 short: VR-ETH 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/192"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-192-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-192-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20240101/de"
 
 (VR-ETH 2)
 
-vom 3. Dezember 2007 (Stand am 1. Januar 2024)
+vom 3. Dezember 2007 (Stand am 1. Januar 2025)
 
 Das paritätische Organ des Vorsorgewerks ETH-Bereich (PO ETH),
 
@@ -662,7 +662,7 @@ Vom Altersguthaben werden abgezogen:
 
 <sup>3</sup> Der Umwandlungssatz wird auf den Monat genau ermittelt.
 
-[^39-1]: Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022, mit Wirkung seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^39-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022, in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 40
 
@@ -735,7 +735,11 @@ Ein allfälliges, noch vorhandenes Guthaben aus dem ZP-Konto (Art. 25) wird in j
 - f. an die Geschwister;
 - g. an die gesetzlichen Erben unter Ausschluss des Gemeinwesens.
 
+<sup>2bis</sup> Die versicherte Person kann die Rangfolge der anspruchsberechtigten Gruppe zwischen Absatz 2 Buchstaben e und f ändern. Die entsprechende Erklärung ist PUBLICA innert 3 Monaten nach dem Tod einzureichen. Wird innert dieser Frist keine Erklärung eingereicht, wird das Guthaben aus dem ZP-Konto entsprechend der Reihenfolge gemäss Absatz 2 ausbezahlt.[^43-1]
+
 <sup>3</sup> Die Kapitalabfindung steht mehreren Anspruchsberechtigten derselben Begünstigtengruppe zu gleichen Teilen zu.
+
+[^43-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 44
 
@@ -791,13 +795,13 @@ Beim Tod der versicherten oder der eine Alters- oder Invalidenrente beziehenden 
 - a. das 40. Altersjahr vollendet hat und mit der versicherten Person mindestens in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat; oder
 - b. für den Unterhalt eines oder mehrerer gemeinsamer Kinder, die gemäss vorliegendem Reglement Anspruch auf Waisenrenten haben, aufkommen muss.
 
-<sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die Lebenspartnerschaft PUBLICA in Form eines Lebenspartnervertrages schriftlich gemeldet worden ist. Dieser von beiden Lebenspartnern unterzeichnete Lebenspartnervertrag ist im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zuzustellen.
+<sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die versicherte oder rentenbeziehende Person die Lebenspartnerschaft zu Lebzeiten beider Lebenspartner meldet. Die Meldung muss entweder über das Kundenportal von PUBLICA oder schriftlich und eigenhändig unterzeichnet erfolgen.[^45-1]
 
 <sup>3</sup> Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem Partnerschaftsgesetz eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht.
 
 <sup>4</sup> Der Anspruch auf die Lebenspartnerrente beginnt mit dem Tod der versicherten Person, frühestens aber nach dem Tag, an dem der Anspruch der verstorbenen versicherten Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. Der Anspruch ist bis spätestens sechs Monate nach dem Tod der versicherten Person geltend zu machen.
 
-<sup>5</sup> Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, unter der Voraussetzung, dass ein von beiden Lebenspartnern unterzeichneter Vertrag im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zugestellt wurde.
+<sup>5</sup> Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, sofern die Lebenspartnerschaft PUBLICA gemäss Absatz 2 gemeldet wurde.[^45-2]
 
 <sup>6</sup>
 
@@ -816,6 +820,9 @@ Der Anspruch erlischt:
 - b. wenn der überlebende Lebenspartner oder die überlebende Lebenspartnerin Anspruch auf eine Ehegattenrente infolge Tod seiner geschiedenen Ehegattin oder ihres geschiedenen Ehegatten hat.
 
 <sup>8</sup> Ergeben sich bei der Abklärung der Anspruchsvoraussetzungen Zweifel, namentlich wenn gleichzeitig Ansprüche gemäss Artikel 49 (Todesfallkapital) geltend gemacht werden, darf PUBLICA Leistungen erst erbringen, wenn die Abklärungen abgeschlossen sind. Zins für aufgeschobene Leistungsausrichtung ist nicht geschuldet.
+
+[^45-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
+[^45-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 46
 
@@ -837,6 +844,22 @@ Die Ehegatten- und die Lebenspartnerrente betragen:
 
 [^46-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 [^46-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+
+#### Art. 46a
+
+**Kapitalbezug anstelle einer Ehegatten- oder Lebenspartnerrente**[^46a-1]
+
+<sup>1</sup> Die Ehegatten- und die Lebenspartnerrente nach Artikel 46 Absatz 1 Buchstaben a und c können ganz oder teilweise als einmalige Kapitalabfindung bezogen werden. Dasselbe gilt für die Ehegatten- und die Lebenspartnerrenten nach Artikel 46 Absatz 1 Buchstabe b, sofern die verstorbene Person eine Invalidenrente bezog.
+
+<sup>2</sup> Wünscht die anspruchsberechtigte Person die Ehegatten- oder Lebenspartnerrente ganz oder teilweise in Kapitalform zu beziehen, so muss sie PUBLICA eine entsprechende schriftliche und eigenhändig unterzeichnete Erklärung zustellen. Diese Erklärung muss bis spätestens drei Monate nach dem Tod der versicherten oder rentenbeziehenden Person bei PUBLICA eingehen. Allfällige Rentenzahlungen werden von der Kapitalabfindung abgezogen.
+
+<sup>3</sup> Die Kapitalabfindung entspricht dem Barwert der als Kapitalabfindung bezogenen Rente.
+
+<sup>4</sup> Im Umfang des Bezugs der Kapitalabfindung werden die Ehegatten- und die Lebenspartnerrente gekürzt.
+
+<sup>5</sup> Hat der überlebende Ehegatte oder Lebenspartner oder die überlebende Ehegattin oder Lebenspartnerin das 45. Altersjahr noch nicht vollendet, so wird die Kapitalabfindung um zwei Prozent für jedes ganze oder angebrochene Jahr gekürzt, um das die anspruchsberechtigte Person beim Tod der versicherten Person oder der Bezügerin oder des Bezügers einer Invalidenrente jünger als 45 Jahre alt ist. Die volle Kapitalabfindung entspricht jedoch mindestens dem Todesfallkapital nach Artikel 50.
+
+[^46a-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 47
 
@@ -1007,7 +1030,9 @@ Bei Teilinvalidität kann die anspruchsberechtigte Person das geäufnete Guthabe
 
 <sup>2</sup> Bei Vollinvalidität wird das geäufnete Guthaben als einmalige Kapitalabfindung ausbezahlt.
 
-<sup>3</sup> Im Todesfall wird das geäufnete Guthaben gemäss Artikel 43 Absatz 2 ausbezahlt.
+<sup>3</sup> Im Todesfall wird das geäufnete Guthaben gemäss Artikel 43 Absätze 2 und 2<sup>bis</sup> ausbezahlt.[^55-1]
+
+[^55-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 #### Art. 56
 
@@ -1736,7 +1761,7 @@ Wird eine Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente oder 
 
 <sup>2</sup> Die Kürzung der nach dem Inkrafttreten der Änderungen vom 31. März und 10. Mai 2011 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 102 Absatz 3 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2008 und dem Inkrafttreten dieser Änderungen entstandene Altersrente bezieht, vor Erreichen des AHV-Alters stirbt.
 
-[^107a-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^107a-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 
 #### Art. 107b
 
@@ -2018,15 +2043,15 @@ Anhang 4[^t-5]
 
 ## Umwandlungssätze
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Jan. 2019 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^t-5]: Fassung gemäss Ziff. II des Beschlusses des PO ETH vom 2. Juli 2024, vom BR genehmigt am 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 725](https://fedlex.data.admin.ch/eli/oc/2024/725)).
 
 <table>
 <tr><th>Alter</th><th>Umwandlungssatz</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
-<tr><td>63 Männer 63 Frauen</td><td>4,83 % 4,90 %</td></tr>
-<tr><td>64 Männer 64 Frauen</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>63 Männer und Frauen, ausser Frauen mit Jahrgang 1963 oder früher 63 Frauen mit Jahrgang 1963 oder früher</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 Männer und Frauen, ausser Frauen mit Jahrgang 1963 oder früher 64 Frauen mit Jahrgang 1963 oder früher</td><td>4,96 % 5,09 %</td></tr>
 <tr><td>65</td><td>5,09 %</td></tr>
 <tr><td>66</td><td>5,24 %</td></tr>
 <tr><td>67</td><td>5,40 %</td></tr>
@@ -2212,8 +2237,7 @@ Berechnung/Kürzung der Ehegatten-, Lebenspartnerrente:
 - 1\. Das Pensionierungsalter legt den lebenslänglichen Kürzungssatz fest. 🡪 Für das Alter 62 Jahre und 3 Monate bei Männern beträgt er 4,82 %.
 - 2\. Dieser Satz ist mit der Anzahl Jahre, die zwischen dem Tod und dem Referenzalter liegen, zu multiplizieren. 🡪 Der Versicherte ist im Alter von 63 Jahren verstorben, die Differenz zwischen dem Alter bei Tod und dem Referenzalter beträgt 2 Jahre. 🡪 Der Kürzungssatz auf der lebenslänglichen Kürzung der monatlichen Altersrente bei Erreichen des Referenzalters beträgt 2 × 4,82 % = 9,64 %.
 - 3\. Der Betrag der lebenslänglichen Kürzung der monatlichen Altersrente bei Erreichen des Referenzalters ist um diesem Satz zu kürzen. 🡪 Die monatliche Kürzung im Referenzalter bei Pensionierung im Alter 62 Jahre und 3 Monate beträgt Fr. 166.10 (gemäss Anhang 6 Ziffer I Beispiel 1 Bst. a) und wird um Fr. 16.00 (9,64 % von 166.10) reduziert. Die definitive Kürzung beträgt somit Fr. 150.10.
-
-\4. Die gekürzte Altersrente beträgt Fr. 5849.90 (Fr. 6000.– minus Fr. 150.10), die Hinterlassenenrente Fr. 3899.95 (⅔ der gekürzten Altersrente).
+- 4\. Die gekürzte Altersrente beträgt Fr. 5849.90 (Fr. 6000.– minus Fr. 150.10), die Hinterlassenenrente Fr. 3899.95 (⅔ der gekürzten Altersrente).
 
 Anhang 7[^t-8]
 
@@ -2281,7 +2305,7 @@ Erklärung:
 
 \2. Wird nach Massgabe der arbeitsrechtlichen Bestimmungen der Personalverordnung ETH-Bereich (SR *172.220.113*) eine Beteiligung des Arbeitgebers an der Finanzierung vorgesehen, so sind die Beträge in den Tabellen mit dem prozentualen Anteil der versicherten Person an der Finanzierung zu gewichten.
 
-Beispiel:
+**Beispiel**:
 
 Die Überbrückungsrente beträgt Fr. 26 520.– pro Jahr (Fr. 2210.– pro Monat). Sie wird ab dem 60. Altersjahr beansprucht. Der Arbeitgeber finanziert 50 Prozent der Kosten.
 
@@ -2348,7 +2372,7 @@ Erklärung:
 
 \2. Wird nach Massgabe der arbeitsrechtlichen Bestimmungen der Personalverordnung ETH-Bereich (SR *172.220.113*) eine Beteiligung des Arbeitgebers an der Finanzierung vorgesehen, so sind die Beträge in den Tabellen mit dem prozentualen Anteil der versicherten Person an der Finanzierung zu gewichten.
 
-Beispiel:
+**Beispiel**:
 
 Die Überbrückungsrente beträgt Fr. 27 840.– pro Jahr (Fr. 2320.– pro Monat). Sie wird ab dem 60. Altersjahr beansprucht. Der Arbeitgeber finanziert 50 Prozent der Kosten.
 
