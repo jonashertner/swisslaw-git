@@ -4,11 +4,11 @@ title: "Ordonnance du DEFR du 23 novembre 2005 concernant l'hygiène dans la pro
 short: OHyPPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/821"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-821-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-821-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/fr"
 
 (OHyPPr)
 
-du 23 novembre 2005 (État le 1<sup>er</sup> janvier 2023)
+du 23 novembre 2005 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
@@ -69,10 +69,11 @@ arrête:
 
 <sup>7</sup> On prendra toutes les mesures nécessaires concernant la santé des animaux, notamment celles qui ont une incidence sur les zoonoses.
 
-<sup>8</sup> Les aliments pour animaux et l’eau d’abreuvement ne doivent altérer ni la santé des animaux, ni la qualité des denrées alimentaires qui en sont issues. On ne distribuera que des aliments pour animaux propres, irréprochables du point de vue l’hygiène et non avariés.
+<sup>8</sup> Les aliments pour animaux et l’eau d’abreuvement ne doivent altérer ni la santé des animaux, ni la qualité des denrées alimentaires qui en sont issues. On ne distribuera que des aliments pour animaux propres, irréprochables du point de vue l’hygiène, non avariés et respectant les dispositions de l’art. 8 et du chap. 4 de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux.[^2-3]
 
 [^2-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 [^2-2]: Introduit par le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 627](https://fedlex.data.admin.ch/eli/oc/2024/627)).
 
 #### Art. 3
 

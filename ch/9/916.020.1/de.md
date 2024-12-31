@@ -4,11 +4,11 @@ title: Verordnung des WBF vom 23. November 2005 über die Hygiene bei der Primä
 short: VHyPrP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/821"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-821-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-821-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/de"
 
 (VHyPrP)
 
-vom 23. November 2005 (Stand am 1. Januar 2023)
+vom 23. November 2005 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -69,11 +69,12 @@ verordnet:
 
 <sup>7</sup> Es sind alle erforderlichen Massnahmen zur Tiergesundheit zu treffen, insbesondere hinsichtlich vom Tier auf den Mensch übertragbare Krankheiten.
 
-<sup>8</sup> Futtermittel und Tränkewasser dürfen weder die Gesundheit der Tiere noch die Qualität der von ihnen stammenden Lebensmittel beeinträchtigen. Es dürfen nur saubere, hygienisch einwandfreie und unverdorbene Futtermittel verfüttert werden.
+<sup>8</sup> Futtermittel und Tränkewasser dürfen weder die Gesundheit der Tiere noch die Qualität der von ihnen stammenden Lebensmittel beeinträchtigen. Es dürfen nur Futtermittel verfüttert werden, die sauber, hygienisch einwandfrei und unverdorben sind und die Vorgaben nach Artikel 8 und dem 4. Kapitel der Futtermittel-Verordnung vom 26. Oktober 2011 erfüllen.[^2-4]
 
 [^2-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
 [^2-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
 [^2-3]: Eingefügt durch Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^2-4]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **202****4** 627).
 
 #### Art. 3
 

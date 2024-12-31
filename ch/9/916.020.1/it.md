@@ -4,11 +4,11 @@ title: "Ordinanza del DEFR del 23 novembre 2005 concernente l'igiene nella produ
 short: OIPPrim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/821"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-821-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-821-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/it"
 
 (OIPPrim)
 
-del 23 novembre 2005 (Stato 1° gennaio 2023)
+del 23 novembre 2005 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 [^ingress-2]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^ingress-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^ingress-4]: Nuovo testo giusta il n. III dell’O del DEFR del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1793](https://fedlex.data.admin.ch/eli/oc/2015/351)).
+[^ingress-4]: Nuovo testo giusta la cifra III dell’O del DEFR del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1793](https://fedlex.data.admin.ch/eli/oc/2015/351)).
 
 #### Art. 1
 
@@ -47,7 +47,7 @@ ordina:
 <sup>5</sup> Vanno adottate tutte le misure necessarie contro le malattie dei vegetali che possono avere conseguenze negative sulla salute umana.
 
 [^1-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^1-2]: Introdotto dal n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^1-2]: Introdotto dalla cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
 
 #### Art. 2
 
@@ -69,10 +69,11 @@ ordina:
 
 <sup>7</sup> Vanno adottate tutte le misure necessarie concernenti la salute degli animali, in particolare quelle che incidono sulle zoonosi.
 
-<sup>8</sup> Gli alimenti per animali e l’acqua di abbeveramento non devono alterare la salute degli animali né la qualità delle derrate alimentari da essi derivate. Possono essere utilizzati soltanto alimenti per animali puliti, ineccepibili dal profilo igienico e non guasti.
+<sup>8</sup> Gli alimenti per animali e l’acqua di abbeveramento non devono alterare la salute degli animali né la qualità delle derrate alimentari da essi derivate. Possono essere utilizzati soltanto alimenti per animali puliti, ineccepibili dal profilo igienico, non guasti e conformi alle disposizioni dell’articolo 8 e del capitolo 4 dell’ordinanza del 26 ottobre 2011 sugli alimenti per animali.[^2-3]
 
 [^2-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^2-2]: Introdotto dal n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^2-2]: Introdotto dalla cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 627](https://fedlex.data.admin.ch/eli/oc/2024/627)).
 
 #### Art. 3
 
@@ -104,8 +105,8 @@ Le aziende dedite alla produzione vegetale devono tenere a disposizione della co
 
 <sup>3</sup> Esse conservano i risultati delle analisi effettuate su campioni vegetali che abbiano rilevanza per la salute umana e che le aziende ricevono nel quadro di altre disposizioni.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
 
 #### Art. 6
 
@@ -117,7 +118,7 @@ Le aziende dedite alla produzione vegetale devono tenere a disposizione della co
 
 <sup>3</sup> Le aziende tengono a disposizione della competente autorità i risultati di analisi effettuate su campioni e i rapporti pertinenti alle analisi effettuate su animali o prodotti di origine animale che abbiano rilevanza per la salute umana e che le aziende ricevono nel quadro di altre disposizioni.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
 [^6-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
 #### Art. 7
