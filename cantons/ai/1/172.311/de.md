@@ -4,13 +4,13 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-07
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/2254/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2254/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.01.2024)
+vom 13.04.1999 (Stand 01.01.2025)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -451,15 +451,26 @@ beschliesst:
 
 <sup>3</sup> Bei einem Wechsel zu einem höheren Ferienanspruch wird der Lohn auf den Beginn des Kalenderjahrs angepasst, in welchem der Anspruch auf mehr Ferien entsteht.
 
-### IV.D. Lohnzuschläge und Rückzahlung
+### IV.D. Lohnzulagen und -rückzahlung
 
 #### Art. 33b
 
-**Pikett-, Nacht-, Samstags- und Ruhetagedienst**
+**Zulagen für Pikettdienst und besondere Funktionen**
 
-<sup>1</sup> Mitarbeitende, die auf Anordnung des Departementsvorstehers Pikett-, Nacht- und Samstagsdienst oder Arbeit an Ruhetagen leisten, erhalten eine zusätzliche Entschädigung.
+<sup>1</sup> Mitarbeitende, die sich auf Anordnung der vorgesetzten Person ausserhalb der ordentlichen Arbeitszeit für Arbeitseinsätze bereithalten (Pikettdienst), erhalten eine Lohnzulage.
 
-<sup>2</sup> Der Departementsvorsteher legt die Entschädigung für die fragliche Personalkategorie unter Berücksichtigung der besonderen Umstände in einem durch die Standeskommission zu genehmigenden Reglement fest.
+<sup>2</sup> Der Departementsvorsteher legt die Art und Höhe der Zulage für die jeweilige Personalkategorie in einem durch die Standeskommission zu genehmigenden Reglement fest. Dabei werden insbesondere berücksichtigt:
+
+- a) erwartete Einsatzhäufigkeit;
+- b) erforderliche Interventionszeit für Einsätze.
+
+<sup>3</sup> Soweit keine Einsatzentschädigung festgelegt oder vereinbart ist, werden bei Piketteinsätzen als Arbeitszeit angerechnet:
+
+- a) die Einsatzzeit;
+- b) die Fahrzeit zum Einsatzort samt dem Rück- oder Heimweg, insgesamt jedoch höchstens 60 Minuten;
+- c) ein Zeitzuschlag gemäss Art. 60 Abs. 1a für Piketteinsätze in der Nacht, am Samstag oder an Ruhetagen. Davon ausgenommen sind Mitarbeitende mit Vertrauensarbeitszeit.
+
+<sup>4</sup> Die Standeskommission kann für besondere Funktionen weitere Zulagen festlegen. Im Übrigen können besondere Funktionen im Rahmen der individuellen Lohnfestsetzung berücksichtigt werden.
 
 #### Art. 33c
 
@@ -909,9 +920,16 @@ beschliesst:
 
 #### Art. 60
 
-**Anordnung**
+**Anordnung und Zeitzuschlag**
 
-<sup>1</sup> Arbeitsstunden ausserhalb der Geschäftszeit werden als Überstunden bezeichnet und sind vom Vorgesetzten ausdrücklich im Voraus anzuordnen.
+<sup>1</sup> Arbeitsstunden ausserhalb der Geschäftszeit werden als Überstunden bezeichnet. Sie müssen von der vorgesetzten Person im Voraus ausdrücklich angeordnet worden sein.
+
+<sup>1a</sup> Mitarbeitende, die Nacht-, Samstagsdienst oder Arbeit an Ruhetagen leisten, erhalten einen Zeitzuschlag, wenn die Überstundenarbeit nicht anderweitig abgegolten wird.
+
+<sup>1b</sup> Der nicht kumulierbare Zeitzuschlag beträgt:
+
+- a) 25% bei Arbeitseinsätzen zwischen 23.00 und 06.00 Uhr oder am Samstag;
+- b) 50% bei Arbeitseinsätzen an öffentlichen Ruhetagen.
 
 <sup>2</sup> Der Departementsvorsteher visiert die angeordneten und tatsächlich geleisteten Überstunden.
 
@@ -919,9 +937,9 @@ beschliesst:
 
 **Ausgleichung**
 
-<sup>1</sup> Angeordnete Überstunden sind in der Regel im selben Jahr durch Freizeit von gleicher Dauer auszugleichen.
+<sup>1</sup> Überstunden samt allfälligen Zeitzuschlägen sind in der Regel im selben Jahr durch Freizeit von gleicher Dauer auszugleichen.
 
-<sup>2</sup> Soweit geleistete Überstunden nicht kompensiert werden können, können sie ausnahmsweise mit Genehmigung des Departementsvorstehers und des Finanzdepartementes ausbezahlt werden.
+<sup>2</sup> Soweit kein Ausgleich möglich ist, können Überstunden mit Genehmigung des Departementsvorstehers und des Finanzdepartementes ausbezahlt werden.
 
 <sup>3</sup> Der Departementsvorsteher kann im Einzelfall für Mitarbeitende einzelner Ämter und Dienststellen abweichende Regelungen festlegen. Sie sind vom Finanzdepartement zu genehmigen.
 
