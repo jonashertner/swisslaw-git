@@ -3,20 +3,20 @@ canton: AG
 number: "621.111"
 title: Verordnung zum Bundesgesetz über die direkte Bundessteuer
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-20
 adopted: 1994-12-07
 in_force: 1995-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/621.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3507/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3704/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über die direkte Bundessteuer
 
-Vom 07.12.1994 (Stand 01.07.2024)
+Vom 07.12.1994 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -66,7 +66,7 @@ beschliesst:
 
 **Veranlagung der juristischen Personen**
 
-<sup>1</sup> Die juristischen Personen, die Anlagefonds und die ausländischen Personengesamtheiten ohne juristische Persönlichkeit werden vom Kantonalen Steueramt veranlagt.
+<sup>1</sup> Die juristischen Personen, die kollektiven Kapitalanlagen mit direktem Grundbesitz und die ausländischen Personengesamtheiten ohne juristische Persönlichkeit werden vom Kantonalen Steueramt veranlagt.
 
 #### § 5
 
@@ -146,7 +146,7 @@ beschliesst:
 
 **Fälligkeit**
 
-<sup>1</sup> Das Kantonale Steueramt gibt die allgemeinen Fälligkeits- und Zahlungstermine durch Publikation im Amtsblatt und in aargauischen Tageszeitungen bekannt.
+<sup>1</sup> Das Kantonale Steueramt gibt die allgemeinen Fälligkeits- und Zahlungstermine durch Publikation im Amtsblatt und auf der Website des Kantonalen Steueramts bekannt.
 
 #### § 16
 
@@ -156,15 +156,13 @@ beschliesst:
 
 #### § 17
 
-**Vertretung in der Eidgenössischen Erlasskommission**
-
-<sup>1</sup> Das Kantonale Steueramt bezeichnet den Vertreter oder die Vertreterin des Kantons in der Eidgenössischen Erlasskommission von Fall zu Fall.
+**…**
 
 #### § 18
 
 **Kantonale Erlassbehörde**
 
-<sup>1</sup> Für die Behandlung von Erlassgesuchen für Steuern bis zu der vom Eidgenössischen Finanzdepartement festgelegten Höhe ist das Kantonale Steueramt zuständig.
+<sup>1</sup> Für die Behandlung von Erlassgesuchen ist das Kantonale Steueramt zuständig.
 
 #### § 18a
 
@@ -206,7 +204,7 @@ beschliesst:
 
 <sup>1</sup> Alle Behörden, denen bekannt wird, dass Steuerpflichtige wegziehen oder dass eine Gefährdung der Forderung besteht, haben dies unverzüglich dem Kantonalen Steueramt anzuzeigen.
 
-<sup>2</sup> Die Fremdenpolizeiorgane haben vor Herausgabe der Ausweisschriften an Ausländer und Ausländerinnen festzustellen, ob die Bezahlung der direkten Bundessteuer erfolgt ist. Trifft dies nicht zu, so ist der Fall dem Kantonalen Steueramt zu melden, das für die Entrichtung der Abgabe vor Aushändigung der Schriften zu sorgen hat.
+<sup>2</sup> …
 
 ## 7. Inventar und Siegelung
 
