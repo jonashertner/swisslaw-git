@@ -4,13 +4,12 @@ number: "143.7"
 title: Verordnung über die Versicherungskasse für das Staatspersonal
 short: VVK
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-10-13
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 1989-09-05
 in_force: 1990-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.7"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3028/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3700/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3028/pdf_file"
 
 (VVK)
 
-vom 05.09.1989 (Stand 01.01.2021)
+vom 05.09.1989 (Stand 01.01.2025)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -75,8 +74,8 @@ als Verordnung:[^ingress-3]
 - c) das Personal der Universität St.Gallen;
 - d) das Personal des Rheinunternehmens;
 - e) die Angestellten der Forstreviere;
-- f) das Personal der Spitalverbunde;
-- f<sup>bis</sup>) das Personal der Psychiatrieverbunde;
+- f) das Personal des Spitalverbundes;
+- f<sup>bis</sup>) das Personal des Psychiatrieverbundes;
 - g) das Personal des Zentrums für Labormedizin.
 
 #### Art. 5
