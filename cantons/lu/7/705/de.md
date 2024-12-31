@@ -3,20 +3,19 @@ canton: LU
 number: "705"
 title: Verordnung über die Gebühren im Bereich des Umweltschutzes und des Gewässerschutzes
 language: de
-version: 2018-02-01
-valid_until: 2024-12-31
-version_adopted: 2018-01-09
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 1999-07-06
 in_force: 1999-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/705"
-pdf: "https://srl.lu.ch/api/de/versions/3232/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4316/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren im Bereich des Umweltschutzes und des Gewässerschutzes
 
-vom 06.07.1999 (Stand 01.02.2018)
+vom 06.07.1999 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -124,54 +123,21 @@ beschliesst:
 
 #### § 10
 
-**Kontrolle von Hausfeuerungen und Massnahmen nach Tarif**
-
-<sup>1</sup> Die Gebühren für periodische Kontrollen von Hausfeuerungsanlagen und für notwendige Nachkontrollen, welche durch von der Gemeinde beauftragte Kontrollpersonen durchgeführt werden, betragen pro Anlage:
-
-- a. Kategorie 1: — Fr. 85.–
-  - 1\. atmosphärische Gasbrenner
-  - 2\. Verdampferbrenner (Ölofen) einstufig
-  - 3\. Gasgebläsebrenner einstufig
-  - 4\. einstufige Brenner EL
-- b. Kategorie 2: — Fr. 95.–
-  - 1\. zweistufige Brenner Heizöl EL
-  - 2\. zweistufige Brenner Gas
-  - 3\. Verdampferbrenner (Ölofen) zweistufig
-  - 4\. Zweistoffbrenner EL + Gas einstufig
-- c. Kategorie 3: — Fr. 125.–
-  - 1\. Zweistoffbrenner EL + Gas zweistufig
-  - 2\. Gasgebläsebrenner modulierend
-  - 3\. modulierende Brenner Heizöl EL
-- d. Kategorie 4: Zweistoffbrenner EL + Gas modulierend — Fr. 170.–
-- e. Kategorie 5:
-  - 1\. Öl- und/oder Gasfeuerungen &gt; 350 kW Feuerungswärmeleistung, Grundgebühr: — Fr. 70.–
-  - 2\. Holzfeuerungen bis 1 MW Feuerungswärmeleistung, Grundgebühr: — Fr. 115.–
-  - 3\. Messzeit (Vorbereitung, Messung, Abbrechen, Reisezeit): — nach Aufwand
-
-<sup>2</sup> Ist aus technischen Gründen ein Mehraufwand notwendig, werden die Gebühren gemäss Absatz 1 angemessen erhöht.
-
-<sup>3</sup> Werden in der gleichen Heizzentrale mehrere Feuerungsanlagen gleichzeitig kontrolliert, setzt sich die Gesamtgebühr wie folgt zusammen:
-
-- a. Kategorie 1: Eine Gebühr für eine Feuerungsanlage gemäss Absatz 1 und eine Gebühr für jede weitere Feuerungsanlage von 50 Prozent dieser Gebühr,
-- b. Kategorie 2: Eine Gebühr für eine Feuerungsanlage gemäss Absatz 1 und eine Gebühr für jede weitere Feuerungsanlage von 60 Prozent dieser Gebühr,
-- c. Kategorie 3: Eine Gebühr für eine Feuerungsanlage gemäss Absatz 1 und eine Gebühr für jede weitere Feuerungsanlage von 75 Prozent dieser Gebühr,
-- d. Kategorie 4: Eine Gebühr für eine Feuerungsanlage gemäss Absatz 1 und eine Gebühr für jede weitere Feuerungsanlage von 70 Prozent dieser Gebühr.
-
-<sup>4</sup> In den Gebühren gemäss den Absätzen 1–3 sind die Auslagen gemäss § 6 des Gebührengesetzes inbegriffen.
-
-<sup>5</sup> Die Festlegung der Entschädigung der Kontrolleurinnen und Kontrolleure ist Sache der Gemeinden.
-
-<sup>6</sup> Für die Anordnung von Massnahmen gemäss § 10 Absatz 2 EGUSG[^10-1] wird von der zuständigen Behörde eine Gebühr nach Zeitaufwand erhoben.
-
-[^10-1]: SRL Nr. [700](https://srl.lu.ch/data/700/de)
+**…**
 
 #### § 11
 
 **Gebühr nach Aufwand und Vignette**
 
-<sup>1</sup> Kontrollpersonen, die durch den Betreiber oder die Betreiberin beauftragt werden, stellen für Messung und Kontrolle von Öl- und Gasfeuerungsanlagen bis 350 kW und von Holzfeuerungsanlagen für ausschliesslich naturbelassenes Holz bis 70 kW nach Aufwand Rechnung.
+<sup>1</sup> Kontrollpersonen, die durch den Betreiber oder die Betreiberin beauftragt werden, stellen für Messung und Kontrolle von Öl- und Gasfeuerungsanlagen bis 1000 kW Feuerungswärmeleistung und von Holzfeuerungsanlagen für ausschliesslich naturbelassenes Holz bis 70 kW nach Aufwand Rechnung.
 
-<sup>2</sup> Sie verrechnen bei Öl- oder Gasfeuerungsanlagen pro kontrollierte Anlage und bei Holzfeuerungsanlagen pro kontrollierten Haushalt zusätzlich eine Vignette. Die Vignettengebühr beträgt 35 Franken, zuzüglich Mehrwertsteuer. In diesem Betrag sind 18 Franken für allgemeinen administrativen Aufwand der Gemeinde und 17 Franken für Verbrauchsmaterial, Qualitätssicherung, Weiterbildung und Dienstleistungen der Dienststelle Umwelt und Energie enthalten.
+<sup>2</sup> Sie verrechnen pro kontrollierte Feuerungsanlage zusätzlich eine Vignette. Die Vignettengebühr beträgt 35 Franken, zuzüglich Mehrwertsteuer. In diesem Betrag sind 18 Franken für allgemeinen administrativen Aufwand der Gemeinde und 17 Franken für Verbrauchsmaterial, Qualitätssicherung, Weiterbildung und Dienstleistungen der Dienststelle Umwelt und Energie enthalten.
+
+<sup>3</sup> Die Festlegung der Entschädigung der Kontrollpersonen ist Sache der Gemeinden.
+
+<sup>4</sup> Für die Anordnung von Massnahmen gemäss § 10 Absatz 2 EGUSG[^11-1] wird von der zuständigen Behörde eine Gebühr nach Zeitaufwand erhoben.
+
+[^11-1]: SRL Nr. [700](https://srl.lu.ch/data/700/de)
 
 ## 4 Gebühren für Publikumsveranstaltungen mit Schall und Laser
 
@@ -211,21 +177,16 @@ beschliesst:
 
 <sup>1</sup> Für die Bewilligung zum Erstellen einer Anlage für wassergefährdende Flüssigkeiten wird folgende Gebühr erhoben:
 
-- a. Tanks in Gebäude- oder Anbaukellern für Heizöl:
-  - 1\. 450–2 000 l (Kleintanks): — Fr. 170.– (jeder zusätzliche Kleintank Fr. 40.–)
-  - 2\. 2 001–10 000 l: — Fr. 250.–
+- a. …
+- b. Tankanlagen:
+  - 1\. 450–2 000 l (Kleintanks): — Fr. 220.– (jeder zusätzliche Kleintank Fr. 60.–)
+  - 2\. 2 001–10 000 l: — Fr. 320.–
   - 3\. 10 001–25 000 l: — Fr. 400.–
   - 4\. 25 001–50 000 l: — Fr. 500.–
   - 5\. 50 001–100 000 l: — Fr. 650.–
   - 6\. 100 001–250 000 l: — Fr. 850.–
-- b. Treibstoff-, Chemikalien- und erdverlegte Tanks:
-  - 1\. 450–2 000 l (Kleintanks): — Fr. 220.– (jeder zusätzliche Kleintank Fr. 60.–)
-  - 2\. 2 001–10 000 l: — Fr. 320.–
-  - 3\. 10 001–25 000 l: — Fr. 520.–
-  - 4\. 25 001–50 000 l: — Fr. 650.–
-  - 5\. 50 001–100 000 l: — Fr. 830.–
-  - 6\. 100 001–250 000 l: — Fr. 1 100.–
-- c. Gebindelager: — nach Aufwand
+- c. Bei erdverlegten Tankanlagen erhöht sich die Gebühr um 50 Prozent.
+- d. Gebindelager — nach Aufwand
 
 <sup>2</sup> Die Gebühren werden je Tank und bei Mehrkammertanks je Kammer erhoben.
 
@@ -267,19 +228,21 @@ beschliesst:
 
 <sup>1</sup> Für die periodische Kontrolle der Reinigungswirkung, der Zulaufbelastung und der Eigenkontrolle von kommunalen Abwasserreinigungsanlagen sowie für die Abnahmemessungen von Kleinkläranlagen durch die Dienststelle Umwelt und Energie werden nach der Art und der Menge der durchgeführten Analysen und nach dem übrigen Aufwand die folgenden Gebühren erhoben:
 
-- a. Analysen:
-  - 1\. Kaliumpermanganatverbrauch (KMnO<sub>4</sub>) pro Analyse — Fr. 45.–
-  - 2\. biochemischer Sauerstoffbedarf (BSB<sub>5</sub>) pro Analyse — Fr. 60.–
-  - 3\. organischer Kohlenstoff (TOC, DOC) pro Analyse — Fr. 50.–
-  - 4\. weitere mittels Photometer durchgeführte Analysen (CSB, NH<sub>4</sub>-N, NO<sub>3</sub>-N, NO<sub>2</sub>-N, Ges.-N, Ges.-P, Chlorid) pro Analyse — Fr. 30.–
-  - 5\. gravimetrische Analysen (gesamte ungelöste Stoffe, Trockensubstanz, Glührückstand) pro Analyse — Fr. 30.–
-  - 6\. volumetrische Analysen (Absetzvolumen, absetzbare Stoffe) pro Analyse — Fr. 10.–
-  - 7\. mittels Messsonde oder optisch durchgeführte Analysen (Leitfähigkeit, pH-Wert, Temperatur, Durchsichtigkeit nach Snellen) pro Analyse — Fr. 5.–
+- a. Analysen: Die Gebührenhöhe für Laboruntersuchungen bemisst sich nach § 12 Absatz 4 der kantonalen Lebensmittelverordnung (KLMV) vom 5. Dezember 1995.[^21-1]
+  - 1\. …
+  - 2\. …
+  - 3\. …
+  - 4\. …
+  - 5\. …
+  - 6\. …
+  - 7\. …
 - b. übriger Aufwand:
-  - 1\. Probenvorbereitung (Filtration) — Fr. 30.–
+  - 1\. …
   - 2\. Probenahmegerät (Miete, Installation, Reinigung) pro Probe oder Woche — Fr. 200.–
-  - 3\. Fahrpauschale (pro Anlage und Tag) — Fr. 40.–
-  - 4\. Administration (pro Stunde) — Fr. 110.–
+  - 3\. Fahrpauschale (pro Anlage und Tag) — Fr. 50.–
+  - 4\. Fachprüfung (Datenplausibilisierung, -prüfung und Beratung; pro Stunde) — Fr. 160.–
+
+[^21-1]: SRL Nr. [843](https://srl.lu.ch/data/843/de)
 
 ## 8 Gebühren für die Genehmigung des generellen Entwässerungsplans
 
