@@ -4,13 +4,12 @@ number: "171.000"
 title: Legge sul principio di trasparenza
 short: legge sulla trasparenza
 language: it
-version: 2016-11-01
-valid_until: 2024-12-31
-version_adopted: 2016-04-19
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-04-19
 in_force: 2016-11-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/171.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2716/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3382/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2716/pdf_file"
 
 (legge sulla trasparenza)
 
-del 19.04.2016 (stato 01.11.2016)
+del 19.04.2016 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -184,7 +183,7 @@ decide:
 
 <sup>1</sup> La protezione giuridica si conforma alla legge sulla giustizia amministrativa (LGA) del 31 agosto 2006.
 
-<sup>2</sup> Le decisioni di un organo pubblico per le quali le disposizioni della citata legge non prevedono alcun rimedio giuridico sono direttamente impugnabili dinanzi al Tribunale amministrativo.
+<sup>2</sup> Le decisioni di un organo pubblico per le quali le disposizioni della citata legge non prevedono alcun rimedio giuridico sono direttamente impugnabili dinanzi al Tribunale d'appello.
 
 <sup>3</sup> Le autorità di ricorso hanno anche accesso ai documenti ufficiali sottoposti al segreto d'ufficio.
 

@@ -4,13 +4,12 @@ number: "171.000"
 title: Gesetz über das Öffentlichkeitsprinzip
 short: Öffentlichkeitsgesetz
 language: de
-version: 2016-11-01
-valid_until: 2024-12-31
-version_adopted: 2016-04-19
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-04-19
 in_force: 2016-11-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/171.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2716/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2716/pdf_file"
 
 (Öffentlichkeitsgesetz)
 
-Vom 19.04.2016 (Stand 01.11.2016)
+Vom 19.04.2016 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -184,7 +183,7 @@ beschliesst:
 
 <sup>1</sup> Der Rechtsschutz richtet sich nach dem Gesetz über die Verwaltungsrechtspflege (VRG) vom 31. August 2006.
 
-<sup>2</sup> Entscheide eines öffentlichen Organs, für die diese Bestimmungen kein Rechtsmittel vorsehen, sind unmittelbar beim Verwaltungsgericht anfechtbar.
+<sup>2</sup> Entscheide eines öffentlichen Organs, für die diese Bestimmungen kein Rechtsmittel vorsehen, sind unmittelbar beim Obergericht anfechtbar.
 
 <sup>3</sup> Die Beschwerdeinstanzen haben auch Zugang zu amtlichen Dokumenten, die der Geheimhaltung unterliegen.
 

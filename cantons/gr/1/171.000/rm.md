@@ -4,13 +4,12 @@ number: "171.000"
 title: Lescha davart il princip da transparenza
 short: lescha da transparenza
 language: rm
-version: 2016-11-01
-valid_until: 2024-12-31
-version_adopted: 2016-04-19
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-04-19
 in_force: 2016-11-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/171.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2716/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2716/pdf_file"
 
 (lescha da transparenza)
 
-dals 19-04-2016 (versiun dals 01-11-2016)
+dals 19-04-2016 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -184,7 +183,7 @@ concluda:
 
 <sup>1</sup> La protecziun giuridica sa drizza tenor la lescha davart la giurisdicziun administrativa (LGA) dals 31 d'avust 2006.
 
-<sup>2</sup> Decisiuns d'in organ public, per las qualas questas disposiziuns na prevesan nagin med legal, pon vegnir contestadas directamain tar la dretgira administrativa.
+<sup>2</sup> Decisiuns d'in organ public, per las qualas questas disposiziuns na prevesan nagin med legal, pon vegnir contestadas directamain tar la Dretgira superiura.
 
 <sup>3</sup> Las instanzas da recurs han er access a documents uffizials che suttastattan a la secretezza.
 
