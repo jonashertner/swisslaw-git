@@ -3,20 +3,19 @@ canton: LU
 number: "776"
 title: Gesetz über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-02-18
+version: 2025-01-01
+version_adopted: 2023-12-04
 adopted: 1994-03-15
 in_force: 1994-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/776"
-pdf: "https://srl.lu.ch/api/de/versions/3503/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes
 
-vom 15.03.1994 (Stand 01.01.2020)
+vom 15.03.1994 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -61,7 +60,7 @@ beschliesst:
 - a. der Eidgenossenschaft, des Kantons und der Gemeinden des Kantons Luzern (Einwohnergemeinden, Kirchgemeinden sowie Gemeindeverbände), sofern sie ausschliesslich im öffentlichen Dienst verwendet werden,
 - b. der öffentlichen und privaten Transportunternehmungen, mit denen fahrplanmässig konzessionierte Fahrten ausgeführt werden; bei nur teilweiser Verwendung für solche Fahrten wird die Steuer anteilsmässig festgesetzt.
 
-<sup>2</sup> Der Regierungsrat kann besonders emissionsarme und umweltfreundliche Fahrzeuge sowie Fahrzeuge mit einem ausserordentlich geringen Treibstoffverbrauch teilweise von der Verkehrssteuer befreien.
+<sup>2</sup> Der Regierungsrat kann besonders emissionsarme und umweltfreundliche Fahrzeuge teilweise von der Verkehrssteuer befreien.
 
 #### § 6
 
@@ -128,9 +127,11 @@ beschliesst:
 
 <sup>1</sup> Als Bemessungsgrundlagen dienen
 
-- a. die Steuerpferdestärke (PS) des Motors von Personenwagen und Motorrädern,
-- b. die Zahl der Sitzplätze von Kleinbussen und Gesellschaftswagen,
-- c. das gemäss Fahrzeugausweis zulässige Gesamtgewicht aller übrigen Motorwagen und Anhänger. Ist dieses höher als das national zulässige Gesamtgewicht, gilt Letzteres für die Steuerberechnung.
+- a. bei Personenwagen und schweren Personenwagen das Gesamtgewicht in Kilogramm (kg) und die Leistung in Kilowatt (kW),
+- b. bei Motorrädern die Leistung in kW,
+- c. bei Lieferwagen, leichten Motorwagen, Sattelschleppern bis 3,5 t, leichten Sattelmotorfahrzeugen und Kleinbussen das Gesamtgewicht,
+- d. bei Gesellschaftswagen und Gelenkbussen die Zahl der Sitzplätze,
+- e. bei allen übrigen Motorwagen und Anhängern das Gesamtgewicht.
 
 #### § 13
 
@@ -138,49 +139,50 @@ beschliesst:
 
 <sup>1</sup> Die jährlichen Verkehrssteuern betragen für
 
-- a. Personenwagen
-  - 1\. bis 2 PS — Fr. 210.–
-  - 2\. bis 3 PS — Fr. 226.–
-  - 3\. bis 4 PS — Fr. 244.–
-  - 4\. bis 5 PS — Fr. 282.–
-  - 5\. bis 6 PS — Fr. 299.–
-  - 6\. bis 7 PS — Fr. 315.–
-  - 7\. bis 8 PS — Fr. 360.–
-  - 8\. bis 9 PS — Fr. 377.–
-  - 9\. bis 10 PS — Fr. 397.–
-  - 10\. bis 11 PS — Fr. 425.–
-  - 11\. bis 12 PS — Fr. 453.–
-  - 12\. bis 13 PS — Fr. 482.–
-  - 13\. bis 14 PS — Fr. 511.–
-  - 14\. bis 15 PS — Fr. 539.–
-  - 15\. bis 16 PS — Fr. 618.–
-  - 16\. bis 17 PS — Fr. 658.–
-  - 17\. bis 18 PS — Fr. 700.–
-  - 18\. bis 19 PS — Fr. 740.–
-  - 19\. bis 20 PS — Fr. 779.–
-  - 20\. bis 21 PS — Fr. 820.–
-  - 21\. bis 22 PS — Fr. 860.–
-  - 22\. bis 23 PS — Fr. 902.–
-  - 23\. bis 24 PS — Fr. 952.–
-  - 24\. bis 25 PS — Fr. 1003.–
-  - 25\. bis 26 PS — Fr. 1053.–
-  - 26\. bis 27 PS — Fr. 1104.–
-  - 27\. bis 28 PS — Fr. 1154.–
-  - 28\. bis 29 PS — Fr. 1206.–
-  - 29\. bis 30 PS — Fr. 1255.–
-  - 30\. bis 31 PS — Fr. 1306.–
-  - 31\. bis 32 PS — Fr. 1358.–
-  - 32\. bis 33 PS — Fr. 1408.–
-  - 33\. für jede weitere PS beträgt die Verkehrssteuer — Fr. 46.–
-  - 34\. Bruchteile bis 0,5 PS fallen ausser Betracht; dagegen werden solche über 0,5 PS als volle PS berechnet.
+- a. Personenwagen und schwere Personenwagen
+  - 1\. pro kg Gewicht — Fr. 0.139
+  - und zusätzlich
+  - 2\. für die ersten 75 kW, pro kW — Fr. 0.810
+  - 3\. für die nächsten 75 kW, pro kW — Fr. 1.215
+  - 4\. für jedes weitere kW — Fr. 1.620
+  - 5\. …
+  - 6\. …
+  - 7\. …
+  - 8\. …
+  - 9\. …
+  - 10\. …
+  - 11\. …
+  - 12\. …
+  - 13\. …
+  - 14\. …
+  - 15\. …
+  - 16\. …
+  - 17\. …
+  - 18\. …
+  - 19\. …
+  - 20\. …
+  - 21\. …
+  - 22\. …
+  - 23\. …
+  - 24\. …
+  - 25\. …
+  - 26\. …
+  - 27\. …
+  - 28\. …
+  - 29\. …
+  - 30\. …
+  - 31\. …
+  - 32\. …
+  - 33\. …
+  - 34\. …
 - b. zweirädrige Motorräder
-  - 1\. mit und ohne Sozius bis 1 PS — Fr. 61.–
-  - 2\. für jede weitere PS beträgt die Verkehrssteuer — Fr. 24.–
-  - 3\. Bruchteile bis 0,5 PS fallen ausser Betracht, Bruchteile über 0,5 PS werden als volle PS berechnet.
+  - 1\. mit und ohne Sozius bis 13 kW — Fr. 61.–
+  - 2\. für jedes weitere kW — Fr. 1.90
+  - 3\. Bruchteile unter 0,5 kW fallen ausser Betracht, Bruchteile ab 0,5 kW werden als volles kW gezählt.
   - 4\. Für dreirädrige Motorräder und Motorräder mit Seitenwagen wird ein Zuschlag von Fr. 61.– erhoben.
-- c. Gesellschaftswagen und Kleinbusse
+- c. Gesellschaftswagen und Gelenkbusse
   - 1\. für jeden im Fahrzeugausweis eingetragenen Fahrgast-Sitzplatz — Fr. 36.–
-- d. Lieferwagen, Lastwagen, Sattelschlepper (ohne Sattelanhänger), Sattelmotorfahrzeuge, Motorwagen mit aufgebautem Nutzraum
+- d. Kleinbusse, Lieferwagen, Lastwagen, Sattelschlepper (ohne Sattelanhänger), Sattelmotorfahrzeuge, Motorwagen mit aufgebautem Nutzraum
   - 1\. bis 1500 kg Gesamtgewicht — Fr. 286.–
   - 2\. bis 2000 kg Gesamtgewicht — Fr. 337.–
   - 3\. bis 2500 kg Gesamtgewicht — Fr. 388.–
@@ -242,17 +244,30 @@ beschliesst:
   - 6\. bis 32 000 kg Gesamtgewicht — Fr. 673.–
   - 7\. über 32 000 kg Gesamtgewicht — Fr. 808.–
 
+<sup>2</sup> Zur Kompensation des Mehrgewichts und der Mehrleistung wird allen rein elektrischen (batterieelektrischen oder wasserstoffelektrischen) Fahrzeugen der folgenden Fahrzeugarten ein Abzug von höchstens 20 Prozent auf die jährliche Verkehrssteuer gewährt: Personenwagen und schweren Personenwagen, Kleinbussen, Lieferwagen, leichten Motorwagen, Sattelschleppern bis 3,5 t, leichten Sattelmotorfahrzeugen und Motorrädern mit weissen Schildern.
+
+<sup>3</sup> Der Regierungsrat legt den prozentualen Kompensationsabzug für rein elektrische Fahrzeuge nach Absatz 2 fest und kann ihn der technischen Entwicklung anpassen.
+
 #### § 14
 
 **Steuerzuschlag**
 
-<sup>1</sup> Der Regierungsrat kann die Verkehrssteuer für Motorfahrzeuge, welche um drei oder mehr Euro-Emissionskategorien schlechter eingestuft sind als die aktuell geltende, bis höchstens 30 Prozent erhöhen. Anpassungen erfolgen auf die nächste Steuerperiode.
+<sup>1</sup> Der Regierungsrat kann die Verkehrssteuer um höchstens 30 Prozent erhöhen für Personenwagen und schwere Personenwagen,
 
-<sup>2</sup> Der Steuerzuschlag darf nur bei einem Halterwechsel oder bei erster Inverkehrsetzung im Kanton Luzern erhoben werden.
+- a. die in der Euro-3-Emissionskategorie oder schlechter eingestuft sind oder
+- b. deren CO₂-Emissionen mindestens doppelt so hoch sind wie der jeweils aktuelle Zielwert des Bundes gemäss Anhang 4a der Verordnung über die Reduktion der CO₂-Emissionen vom 30. November 2012[^14-1].
+
+<sup>1<sup>bis</sup></sup> Übersteigen die Erträge aus dem Steuerzuschlag den Einnahmenausfall aufgrund der teilweisen Steuerbefreiung für emissionsarme und umweltfreundliche Fahrzeuge nach § 5 Absatz 2, kann der Regierungsrat den gemäss Absatz 1b massgebenden CO₂-Emissionswert erhöhen.
+
+<sup>1<sup>ter</sup></sup> Anpassungen des prozentualen Steuerzuschlages und des massgebenden CO₂-Emissionswertes erfolgen jeweils auf die nächste Steuerperiode.
+
+<sup>2</sup> …
 
 <sup>3</sup> Bei der Bemessung des Steuerzuschlages gemäss Absatz 1 für Fahrzeuge mit Wechselschildern ist von den Steueransätzen gemäss § 13 auszugehen.
 
 <sup>4</sup> Für Veteranenfahrzeuge wird kein Steuerzuschlag erhoben.
+
+[^14-1]: SR [641.711](https://db.clex.ch/link/Bund/641.711/de)
 
 #### § 15
 
@@ -266,7 +281,7 @@ beschliesst:
 - d. Loipenfahrzeuge, sofern sie ausschliesslich zur Herstellung von Langlaufspuren verwendet werden,
 - e. Motorfahrräder.
 
-<sup>2</sup> Für neue Fahrzeugarten bestimmt der Regierungsrat eine angemessene Verkehrssteuer im Rahmen der durch dieses Gesetz festgelegten Ansätze.
+<sup>2</sup> Für weitere Fahrzeugarten bestimmt der Regierungsrat eine angemessene Verkehrssteuer im Rahmen der durch dieses Gesetz festgelegten Ansätze.
 
 #### § 16
 
