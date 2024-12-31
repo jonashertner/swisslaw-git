@@ -4,11 +4,10 @@ number: "351"
 title: Gewaltschutzgesetz (GSG)
 short: GSG
 language: de
-version: "2024-07-01"
-nachtrag: "125"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2006-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-351-2006_06_19-2007_04_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-351-2006_06_19-2007_04_01-127.html"
 text: pdf
 ---
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127
 
 [^hAAllgemeines-1]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
 
@@ -139,7 +138,7 @@ Innert fünf Tagen nach Geltungsbeginn der Schutzmassnahme kann die gefährdende
 
 **3**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Es teilt den Entscheid den Parteien sowie der Polizei mit einer kurzen Begründung schriftlich mit, auch wenn der Entscheid mündlich eröffnet wurde.
 
@@ -225,15 +224,20 @@ Innert fünf Tagen nach Geltungsbeginn der Schutzmassnahme kann die gefährdende
 
 **5**
 
-- 1\. 7. 24 - 125 § 18.[^17-1] <sup>1</sup> Der Kanton sorgt für die fachliche Aus- und Weiterbildung der mit häuslicher Gewalt und Stalking befassten Behörden und Beratungsstellen.
+- 1\. 1. 25 - 127 § 18.[^17-1] <sup>1</sup> Der Kanton sorgt für die fachliche Aus- und Weiterbildung der mit häuslicher Gewalt und Stalking befassten Behörden und Beratungsstellen.
 
-**Aus- und Weiterbildung**
+**Aus- und Weiterbildung, Information sowie Berichterstattung**
 
 <sup>2</sup> Er fördert die regelmässige Information der Bevölkerung zu Fragen von häuslicher Gewalt und Stalking.
 
 <sup>3</sup> Er unterstützt die Tätigkeit entsprechender Organisationen, insbesondere für vorbeugende Massnahmen zur Verminderung der Gewalt.
 
+<sup>4</sup> Er analysiert die Fälle von häuslicher Gewalt und Stalking und erhebt dazu das Alter, das Geschlecht, die Staatsangehörigkeit und die Verständigungssprache der gefährdeten und der gefährdenden Person sowie die Art der Gewalt und die Mitbetroffenheit von Kindern. Er kann weitere Daten erheben.[^17-2]
+
+<sup>5</sup> Er evaluiert gestützt auf die erhobenen Daten die Massnahmen zur Verhütung und Bekämpfung von häuslicher Gewalt und Stalking. Er veröffentlicht die Ergebnisse alle drei Jahre in einem Bericht.[^17-2]
+
 [^17-1]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
+[^17-2]: Eingefügt durch G vom 24. Juni 2024 (OS 79, 443; ABl 2023-04-14). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 7
 
 ### F. Schlussbestimmung
 
