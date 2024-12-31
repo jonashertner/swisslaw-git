@@ -4,12 +4,12 @@ number: "171.110"
 title: Geschäftsordnung des Kantonsrates Schaffhausen
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2024-12-04
 version_adopted: 2023-11-06
 adopted: 1999-12-20
 in_force: 2000-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/171.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1926/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1924/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -32,23 +32,19 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Das Büro des Kantonsrates besteht aus 7 Mitgliedern und vereinigt folgende Funktionen: Präsident bzw. Präsidentin (Präsidium), 1. und 2. Vizepräsident bzw. Vizepräsidentin (Vizepräsidium), zwei Stimmenzähler bzw. Stimmenzählerinnen und zwei Ersatzstimmenzähler bzw. Ersatzstimmenzählerinnen. Bei der Bestellung des Büros des Kantonsrates sind die Fraktionen entsprechend ihrer Mitgliederzahl zu berücksichtigen. Der Sekretär bzw. die Sekretärin nimmt an den Sitzungen mit beratender Stimme teil.
+<sup>1</sup> Das Büro des Kantonsrates besteht aus dem Präsidenten bzw. der Präsidentin (Präsidium), dem bzw. der 1. und 2. Vizepräsidenten bzw. Vizepräsidentin (Vizepräsidium) und zwei Stimmenzählern bzw. Stimmenzählerinnen sowie Ersatzstimmenzählern bzw. Ersatzstimmenzählerinnen. Es setzt sich aus Vertretern und Vertreterinnen aller Fraktionen zusammen. Der Sekretär bzw. die Sekretärin des Kantonsrates nimmt an den Sitzungen mit beratender Stimme teil.
 
-<sup>2</sup> Das Präsidium und die beiden Vizepräsidenten bzw. Vizepräsidentinnen (Vizepräsidium) bilden die Geschäftsleitung.
+<sup>2</sup> Das Präsidium kann den Regierungspräsidenten bzw. die Regierungspräsidentin sowie den Staatsschreiber bzw. die Staatsschreiberin zu den Sitzungen des Ratsbüros einladen.
 
-<sup>3</sup> Die Geschäftsleitung kann den Regierungspräsidenten bzw. die Regierungspräsidentin sowie den Staatsschreiber bzw. die Staatsschreiberin zu den Sitzungen des Ratsbüros einladen.
-
-<sup>4</sup> Ausserdem kann die Geschäftsleitung die Fraktionsvorsitzenden mit Stimmrecht zu den Verhandlungen des Büros beiziehen (Präsidentenkonferenz). Das Recht, eine Präsidentenkonferenz einberufen zu lassen, steht zudem jedem und jeder Fraktionsvorsitzenden zu.
+<sup>3</sup> Ausserdem kann das Präsidium die Fraktionsvorsitzenden mit Stimmrecht zu den Verhandlungen des Büros beiziehen (Präsidentenkonferenz). Das Recht, eine Präsidentenkonferenz einberufen zu lassen, steht zudem jedem und jeder Fraktionsvorsitzenden zu.
 
 #### § 2
 
 **Wahl**
 
-<sup>1</sup> Der Präsident bzw. die Präsidentin sowie die beiden Vizepräsidenten bzw. Vizepräsidentinnen werden vom Kantonsrat für ein Jahr gewählt. Sie sind in die gleichen Ämter für das nächste Jahr nicht wieder wählbar. Ausnahmsweise ist die Wiederwahl zulässig, wenn er oder sie noch kein ganzes Jahr in diesem Amt war.
+<sup>1</sup> Der Präsident bzw. die Präsidentin sowie die beiden Vizepräsidenten bzw. Vizepräsidentinnen werden vom Kantonsrat auf ein Jahr gewählt. Sie sind in die gleichen Ämter für das nächste Jahr nicht wieder wählbar.
 
-<sup>2</sup> Die Reihenfolge der Besetzung der Präsidien richtet sich in der Regel nach einem Turnus, der den Durchschnitt des Wähleranteils der Fraktionen in den letzten drei Kantonsratswahlen berücksichtigt.
-
-<sup>3</sup> Die Stimmenzähler bzw. Stimmenzählerinnen und die Ersatzstimmenzähler bzw. Ersatzstimmenzählerinnen werden ebenfalls für ein Jahr gewählt. Sie sind wieder wählbar.
+<sup>2</sup> Die Stimmenzähler bzw. Stimmenzählerinnen werden ebenfalls für ein Jahr gewählt. Sie sind wieder wählbar.
 
 #### § 3
 
@@ -56,7 +52,7 @@ beschliesst:
 
 <sup>1</sup> Das Büro:
 
-- a) vertritt den Kantonsrat nach aussen, sofern die Geschäftsleitung dazu nicht in der Lage ist
+- a) vertritt den Kantonsrat nach aussen
 - b) legt die proportionale Vertretung der Fraktionen in den Kommissionen und die Zuteilung der Kommissionsvorsitze an die Fraktionen fest
 - c) bereitet im Rahmen der Präsidentenkonferenz die Wahlgeschäfte vor, welche den Kantonsrat betreffen, unter Vorbehalt der Aufgaben der Wahlvorbereitungskommission gemäss Art. 3 Justizgesetz
 - d) bespricht Verfahrensfragen und andere den Kantonsrat betreffende Angelegenheiten und unterbreitet allenfalls Bericht und Antrag
@@ -77,19 +73,6 @@ beschliesst:
 **Vizepräsidium**
 
 <sup>1</sup> Das Vizepräsidium übernimmt die Aufgaben des Präsidiums, wenn dieses an der Ausübung des Amtes verhindert ist oder sich an den Beratungen beteiligen will.
-
-#### § 5a
-
-**Geschäftsleitung**
-
-<sup>1</sup> Die Geschäftsleitung des Kantonsrates besteht aus dem Präsidium und Vizepräsidium. Sie
-
-- a) vertritt den Kantonsrat nach aussen
-- b) stellt dem Kantonsrat Antrag auf Zuweisung der Vorlagen des Regierungsrates an die Kommissionen
-- c) setzt in Absprache mit dem Regierungsrat für jede Sitzung die Tagesordnung fest
-- d) bespricht bei Dringlichkeit Verfahrensfragen sowie andere den Kantonsrat betreffende Angelegenheiten und kann allenfalls Berichte und Anträge für das Büro vorbereiten
-
-<sup>2</sup> Die Geschäftsleitung orientiert das Büro und die Fraktionen über die sie betreffenden Angelegenheiten umgehend.
 
 #### § 6
 
@@ -139,28 +122,17 @@ beschliesst:
 
 - 1\. die Gesundheitskommission (9 Mitglieder) für die Wahrnehmung der Aufgaben gemäss Art. 11 Abs. 2 und 3 des Spitalgesetzes vom 22. November 2004, die Vorberatung des Voranschlages des Regierungsrates und der Staatsrechnung, soweit sie die Spitalversorgung betreffen, unter Vorbehalt der Zuständigkeit der Geschäftsprüfungskommission, sowie die Vorberatung der Planungsberichte gemäss Art. 4 des Spitalgesetzes und anderer Geschäfte im Bereich des Gesundheitswesens, die ihr der Kantonsrat zuweist
 - 2\. …
-- 2\.1 Die Kommission für Bau, Verkehr und Energie (9 Mitglieder) für die Prüfung und Vorberatung der Vorlagen und Geschäfte aus dem Bau-, Verkehrs- und Energiebereich
-- 3\. Die Kommission für grenzüberschreitende Zusammenarbeit (7 Mitglieder) für die Prüfung und die Vorberatung der in die Zuständigkeit des Kantonsrates fallenden internationalen und interkantonalen Verträge und zur Behandlung weiterer Geschäfte der grenzüberschreitenden Zusammenarbeit, für welche der Kantonsrat zuständig ist. Sie bestimmt zudem aus den drei grössten Fraktionen Mitglieder des Kantons Schaffhausen in der Parlamentarier-Konferenz Bodensee. Bevor der Regierungsrat bedeutende internationale und interkantonale Verhandlungen aufnimmt, konsultiert er die Kommission für grenzüberschreitende Zusammenarbeit. Er informiert sie auch umfassend und bezieht sie regelmässig und frühzeitig in wichtige Entwicklungen in den grenzüberschreitenden Beziehungen mit ein.
+- 3\. Die Kommission für grenzüberschreitende Zusammenarbeit (7 Mitglieder) für die Prüfung und die Vorberatung der in die Zuständigkeit des Kantonsrates fallenden internationalen und interkantonalen Verträge und zur Behandlung weiterer Geschäfte der grenzüberschreitenden Zusammenarbeit, für welche der Kantonsrat zuständig ist. Sie bestimmt zudem aus den drei grössten Fraktionen Mitglieder des Kantons Schaffhausen in der Parlamentarier-Konferenz Bodensee. Bevor der Regierungsrat bedeutende internationale und interkantonale Verhandlungen aufnimmt, konsultiert er die Kommission für grenzüberschreitende Zusammenarbeit. Er informiert sie auch regelmässig, frühzeitig und umfassend über wichtige Entwicklungen in den grenzüberschreitenden Beziehungen
 
-<sup>3</sup> Ein Ratsmitglied kann gleichzeitig nur einer ständigen Aufsichtskommission oder der Gesundheitskommission und nicht länger als acht aufeinanderfolgende Jahre der gleichen ständigen Kommission angehören.
+<sup>3</sup> Ein Ratsmitglied kann gleichzeitig nur einer der ständigen Kommissionen und nicht länger als acht aufeinanderfolgende Jahre der gleichen ständigen Kommission angehören.
 
 <sup>4</sup> Eine Fraktion kann nicht länger als zwei aufeinanderfolgende Jahre das Kommissionspräsidium einer ständigen Kommission übernehmen.
-
-<sup>5</sup> Die Vertretung eines Kommissionsmitglieds richtet sich nach § 11 Abs. 3.
-
-<sup>6</sup> Ein Kommissionsmitglied kann sich mit Zustimmung des Kantonsrates durch eine temporäre Stellvertretung über einen Zeitraum von 3 bis maximal 9 Monaten vertreten lassen.
-
-#### § 10a
-
-**Vertretung in der IPBK**
-
-<sup>1</sup> Der Kantonsrat wählt unter Berücksichtigung der Fraktionsstärken drei Mitglieder sowie zwei Stellvertretungen als Vertretung des Kantonsrates in die Internationale Parlamentarier-Konferenz Bodensee (IPBK).
 
 #### § 11
 
 **Spezialkommissionen**
 
-<sup>1</sup> Zur Vorberatung einzelner Geschäfte, die nicht einer der ständigen Kommissionen zugewiesen werden, wählt der Kantonsrat Spezialkommissionen von 7 bis 11 Mitgliedern.
+<sup>1</sup> Zur Vorberatung einzelner Geschäfte, die nicht einer der ständigen Kommissionen zugewiesen werden, wählt der Kantonsrat Spezialkommissionen von 5 bis 11 Mitgliedern.
 
 <sup>2</sup> Vor der ersten Sitzung einer Spezialkommission können Kommissionsmitglieder in Absprache mit dem Präsidium ersetzt werden. Der Rat ist darüber zu informieren.
 
@@ -196,21 +168,19 @@ beschliesst:
 
 <sup>4</sup> Eine Kommission ist beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist.
 
-<sup>5</sup> Eine Kommission kann externe Fachunterunterstützung beiziehen. Das Ratsbüro ist über die jeweilige Auftragserteilung zu informieren. Die jährliche Ausgabenbefugnis für direkte Auftragserteilungen beträgt für die ständigen Kommissionen je 10'000 Franken und für die Spezialkommissionen je 5'000 Franken. Eine Überschreitung der Ausgabenbefugnis ist nur mit Zustimmung des Ratsbüros erlaubt.
-
 #### § 15
 
 **Sekretariat von Kommissionen**
 
-<sup>1</sup> Das Sekretariat und die Protokollführung werden vom Sekretariat des Kantonsrates besorgt. Ausnahmsweise kann diese Aufgabe einem Mitarbeiter bzw. einer Mitarbeiterin der kantonalen Verwaltung oder einer aussenstehenden Person übertragen werden.
+<sup>1</sup> Das Sekretariat und die Protokollführung werden vom Sekretariat des Kantonsrates besorgt, sofern diese Aufgaben nicht einem Mitarbeiter bzw. einer Mitarbeiterin der kantonalen Verwaltung, einem Mitglied der Kommission oder einer aussenstehenden Person übertragen werden.
 
-<sup>2</sup> Die Kommissionsbeschlüsse sind wörtlich, die Voten zusammengefasst wiederzugeben. Für die Protokollierung können die Verhandlungen mittels Tonaufnahme aufgenommen werden. Wenn die Kommission das Protokoll genehmigt hat, sind diese Aufnahmen zu löschen.
+<sup>2</sup> Die Kommissionsbeschlüsse sind wörtlich, die Voten zusammengefasst wiederzugeben. Für die Protokollierung können die Verhandlungen auf Tonband aufgenommen werden. Wenn die Kommission das Protokoll genehmigt hat, sind diese Aufnahmen zu löschen.
 
 #### § 16
 
 **Berichterstattung**
 
-<sup>1</sup> Die Kommission unterbreitet dem Kantonsrat über das von ihr beratene Geschäft schriftlich oder mündlich Bericht. Sie kann Antrag auf Beratung im vereinfachten Verfahren gemäss § 45 Abs. 3 stellen.
+<sup>1</sup> Jede Kommission unterbreitet dem Kantonsrat über das von ihr beratene Geschäft schriftlich oder mündlich Bericht.
 
 <sup>2</sup> Sie bezeichnet zur Begründung ihrer Anträge einen Sprecher bzw. eine Sprecherin, der oder die während der Dauer der Beratungen am Tisch des Sekretariats Platz nimmt.
 
@@ -274,7 +244,7 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei stellt die Verbindung zwischen dem Regierungsrat und dem Kantonsrat sicher.
 
-<sup>2</sup> Der Staatsschreiber bzw. die Staatsschreiberin sowie die juristischen Fachkräfte des Sekretariates besorgen die Rechtsberatung des Präsidiums, der Geschäftsleitung, der Fraktionspräsidien so-wie bei Bedarf der Kommissionsvorsitzenden des Kantonsrates.
+<sup>2</sup> Der Staatsschreiber bzw. die Staatsschreiberin besorgt die Rechtsberatung des Präsidiums, der Fraktionspräsidien sowie bei Bedarf der Kommissionsvorsitzenden des Kantonsrates. Er bzw. sie kann vom Präsidium des Kantonsrates oder vom Regierungsrat zu den Verhandlungen des Kantonsrates beigezogen werden oder daran teilnehmen.
 
 #### § 23
 
@@ -405,7 +375,7 @@ beschliesst:
 
 **Sitzungszeit**
 
-<sup>1</sup> Die Sitzungen des Kantonsrates finden in der Regel alle zwei Wochen an einem Vormittag statt. Sie dauern bis vier Stunden.
+<sup>1</sup> Die Sitzungen des Kantonsrates finden in der Regel an einem Vormittag statt. Sie dauern bis vier Stunden.
 
 <sup>2</sup> Sitzungen können auch am Nachmittag oder Abend stattfinden. Sessionen sind ebenfalls möglich.
 
@@ -423,7 +393,7 @@ beschliesst:
 
 **Tagesordnung**
 
-<sup>1</sup> Aufgrund der Geschäftsliste setzt die Geschäftsleitung des Kantonsrates in Absprache mit dem Regierungsrat für jede Sitzung die Tagesordnung fest. Diese kann durch den Kantonsrat geändert werden.
+<sup>1</sup> Aufgrund der Geschäftsliste setzt das Präsidium in Absprache mit dem Regierungsrat für jede Sitzung die Tagesordnung fest. Diese kann durch den Kantonsrat geändert werden.
 
 <sup>2</sup> Alle Geschäfte, deren Eingang bekannt gegeben worden sind, müssen in die Tagesordnung der nächsten Sitzung aufgenommen werden.
 
@@ -484,8 +454,6 @@ beschliesst:
 <sup>2</sup> Der Kantonsrat kann beschliessen, dass in der ersten Lesung die Verfassungs- und Gesetzesbestimmungen durch das Vizepräsidium vorgelesen werden.
 
 <sup>3</sup> …
-
-<sup>3a</sup> Der Kantonsrat stimmt ohne Beratung über eine Vorlage ab, wenn ein Kommissionsantrag auf Beratung im vereinfachten Verfahren gemäss § 16 Abs. 1 vorliegt, dieser Antrag auf der Traktandenliste bei der entsprechenden Vorlage vermerkt ist und nicht mindestens fünf Mitglieder des Kantonsrates oder ein Mitglied des Regierungsrates vor der Abstimmung über die Vorlage durch einfaches Handerheben Widerspruch gegen die direkte Abstimmung erheben. Ein Widerspruch wird nicht begründet. Kommt er zustande, ist das Geschäft an der nächsten Sitzung des Kantonsrates zu beraten.
 
 #### § 46
 
@@ -776,7 +744,7 @@ beschliesst:
 
 **Beratung der Interpellation**
 
-<sup>1</sup> Die eingegangene Interpellation ist auf die Tagesordnung der nächsten Sitzung zu setzen, sofern der Kantonsrat nicht mit einer Zweidrittelmehrheit der anwesenden Ratsmitglieder die sofortige Beratung beschliesst. Der Kantonsrat hat die Interpellation innert sechs Monaten zu beraten.
+<sup>1</sup> Die eingegangene Interpellation ist auf die Tagesordnung der nächsten Sitzung zu setzen, sofern der Kantonsrat nicht mit einer Zweidrittelmehrheit der anwesenden Ratsmitglieder die sofortige Beratung beschliesst.
 
 <sup>2</sup> Nach der Begründung durch den Interpellanten bzw. die Interpellantin erfolgt die mündliche oder schriftliche Beantwortung durch den Regierungsrat. Auf sein Verlangen ist ihm eine angemessene Frist für die Beantwortung einzuräumen.
 
@@ -818,73 +786,41 @@ beschliesst:
 
 #### § 81
 
-**Entschädigung**
+**Sitzungsgeld**
 
-<sup>1</sup> Die Ratsmitglieder erhalten eine jährliche Grundentschädigung in Höhe von 6'000 Franken. Mit der Grundentschädigung werden die allgemeinen Aufwendungen sowie die Aufwendungen für Aktenstudium, Partei- und Öffentlichkeitsarbeit abgegolten.
+<sup>1</sup> Die Mitglieder des Kantonsrates, des Büros und der Kommissionen beziehen für jede Sitzung, an der sie teilgenommen haben, ein Sitzungsgeld. Die Höhe des Sitzungsgeldes wird zu Beginn jeder Amtsperiode auf Antrag des Büros durch den Kantonsrat festgesetzt.
 
-<sup>2</sup> Der Ratspräsident oder die Ratspräsidentin erhält eine pauschale Entschädigung in Höhe von 4'000 Franken. Mit dieser Entschädigung wird die Sitzungsvorbereitung und die Öffentlichkeitsarbeit abgegolten.
+<sup>2</sup> Ratsmitglieder, die weniger als die halbe Sitzungsdauer anwesend sind, erhalten das halbe Sitzungsgeld.
 
-<sup>3</sup> Der 1. und 2. Vizepräsident bzw. Vizepräsidentin erhalten eine pauschale Entschädigung in Höhe von 3'000 Franken, die übrigen Mitglieder des Ratsbüros in Höhe von 2'000 Franken. Mit dieser Entschädigung wird der Mehraufwand im Rahmen der Geschäftsleitung sowie der Sitzungen des Ratsbüros abgegolten.
-
-<sup>4</sup> Die Mitglieder der Geschäftsprüfungskommission erhalten eine jährliche pauschale Entschädigung in Höhe von 3'000 Franken. Mit dieser Entschädigung wird der Mehraufwand im Rahmen der Sitzungen der Geschäftsprüfungskommission abgegolten.
-
-<sup>5</sup> Die Mitglieder der Justizkommission erhalten eine jährliche pauschale Entschädigung in Höhe von 2'000 Franken. Mit dieser Entschädigung wird der Mehraufwand im Rahmen der Sitzungen der Justizkommission und der Wahlvorbereitungskommission abgegolten.
-
-<sup>6</sup> Die Mitglieder der Gesundheitskommission erhalten eine jährliche pauschale Entschädigung in Höhe von 2'000 Franken. Mit dieser Entschädigung wird der Mehraufwand im Rahmen der Sitzungen der Gesundheitskommission abgegolten.
-
-<sup>7</sup> Die Mitglieder der Kommission für Bau, Verkehr und Energie erhalten eine jährliche pauschale Entschädigung in Höhe von 2'000 Franken. Mit dieser Entschädigung wird der Mehraufwand im Rahmen der Sitzungen der Kommission für Bau, Verkehr und Energie abgegolten.
-
-<sup>8</sup> Die Mitglieder der Kommission für grenzüberschreitende Zusammenarbeit erhalten eine jährliche pauschale Entschädigung in Höhe von 1'000 Franken. Mit dieser Entschädigung wird der Mehraufwand im Rahmen der Sitzungen der Kommission für grenzüberschreitende Zusammenarbeit abgegolten.
-
-<sup>9</sup> Das Ratsbüro kann für Ratsmitglieder, die besondere Untersuchungen durchführen, umfangreiche Akten prüfen oder Berichte und Ähnliches ausarbeiten müssen, auf Antrag der auftraggebenden Kommission eine Sonderentschädigung festsetzen.
+<sup>3</sup> Präsidenten und Präsidentinnen des Kantonsrates bzw. von Kommissionen des Kantonsrates beziehen für jede Sitzung, die sie leiten, das doppelte Sitzungsgeld.
 
 #### § 82
 
-**Sitzungsgeld**
+**Entschädigungen**
 
-<sup>1</sup> Die Ratsmitglieder beziehen für jede Kantonsratssitzung, an der sie teilgenommen haben, ein Sitzungsgeld in Höhe von 200 Franken.
+<sup>1</sup> Die Ratsmitglieder erhalten eine Reiseentschädigung nach den Beschlüssen des Ratsbüros.
 
-<sup>2</sup> Die Mitglieder des Ratsbüros und der Kommissionen beziehen für jede Büro- bzw. Kommissionssitzung, an der sie teilgenommen haben, ein Sitzungsgeld in Höhe von 250 Franken. Das Sitzungsgeld entschädigt eine geplante Sitzungsdauer von vier Stunden. Für Sitzungen, die für zwei Stunden oder weniger geplant sind, erhalten die Teilnehmenden ein halbes Sitzungsgeld.
+<sup>2</sup> Das Präsidium bezieht am Ende des Präsidialjahres für Repräsentationsverpflichtungen eine pauschale Entschädigung, deren Höhe vom Büro des Kantonsrates festgelegt wird.
 
-<sup>3</sup> Ratsmitglieder, die weniger als die halbe Sitzungsdauer anwesend sind, erhalten die Hälfte des Sitzungsgeldes.
+<sup>3</sup> Die Besoldung des Sekretärs bzw. der Sekretärin des Kantonsrates wird vom Büro des Kantonsrates in Absprache mit dem Regierungsrat bestimmt.
 
-<sup>4</sup> Präsidenten und Präsidentinnen des Kantonsrates bzw. von Kommissionen des Kantonsrates beziehen für jede Sitzung, die sie leiten, das doppelte Sitzungsgeld.
+<sup>4</sup> Die Entschädigung für die Protokollführung in den Kommissionen beträgt ein Sitzungsgeld, sofern die Protokollführenden von der kantonalen Verwaltung gestellt werden. Wenn diese Arbeit durch ein Mitglied der Kommission oder durch eine aussenstehende Person besorgt wird, legt das Büro die Entschädigung für die Protokollführung fest.
 
-<sup>5</sup> Ratsmitglieder können für einzelne Kantonsrats- oder Kommissionssitzungen auf den Bezug des Sitzungsgeldes verzichten.
+<sup>5</sup> Den Mitgliedern der Geschäftsprüfungskommission wird zusätzlich zum Sitzungsgeld eine pauschale Vergütung ausgerichtet. Die Höhe wird zu Beginn jeder Amtsperiode auf Antrag des Büros durch den Kantonsrat festgesetzt.
 
 <sup>6</sup> Mitgliedern von ständigen Kommissionen werden Weiterbildungskosten nach Massgabe der für das kantonale Personal geltenden Regelung vergütet. Über die Höhe der Kostenbeteiligung entscheidet die zuständige Kommission.
 
 #### § 82a
 
-**Spesen**
-
-<sup>1</sup> Die Ratsmitglieder erhalten eine jährliche pauschale Reisentschädigung in Höhe eines Jahresabos 2. Klasse des für die Reise vom Wohnort nach Schaffhausen benötigten Zonenabos des Tarifverbunds Ostwind.
-
-<sup>2</sup> Der Präsident oder die Präsidentin erhält am Ende des Präsidialjahres für Repräsentationsverpflichtungen und die Präsidialfeier eine pauschale Spesenentschädigung, deren Höhe vom Ratsbüro festgelegt wird.
-
-<sup>3</sup> Jedem Ratsmitglied steht jährlich ein Betrag für Aus- und Weiterbildung im Zusammenhang mit der Ratstätigkeit in Höhe von 500 Franken zur Verfügung, der nach Vorlage der entsprechenden Nachweise beim Sekretariat bezogen werden kann. Mitgliedern von ständigen Kommissionen werden darüber hinaus Weiterbildungskosten nach Massgabe der für das kantonale Personal geltenden Regelungen vergütet. Über die Höhe der Kostenbeteiligung entscheidet die zuständige Kommission.
-
-<sup>4</sup> Für die Abgeltung weiterer Auslagen gilt die Verordnung über die Spesenvergütungen beim Kanton Schaffhausen.
-
-#### § 82b
-
 **Fraktionsentschädigung**
 
-<sup>1</sup> Die Fraktionen erhalten eine jährliche Fraktionsentschädigung im Umfang von vier Kantonsratssitzungsgeldern je Fraktionsmitglied.
+<sup>1</sup> Die Fraktionen erhalten eine jährliche Fraktionsentschädigung im Umfang von vier Sitzungsgeldern je Fraktionsmitglied.
 
 #### § 83
 
 **Abrechnung und Auszahlung**
 
-<sup>1</sup> Die Entschädigungen, Sitzungsgelder und Spesen werden durch das Sekretariat in Zusammenarbeit mit dem Personalamt semesterweise abgerechnet und ausbezahlt.
-
-<sup>2</sup> Bei streitigen Entschädigungsansprüchen ist die Verwaltungsgerichtsbeschwerde an das Obergericht zulässig. Das Ratsbüro versucht vorgängig zu vermitteln.
-
-#### § 83a
-
-**Besoldung Ratssekretariat**
-
-<sup>1</sup> Die Besoldung des Sekretärs oder der Sekretärin sowie der weiteren Mitarbeitenden des Sekretariates des Kantonsrates richtet sich nach dem kantonalen Personalrecht und wird vom Ratsbüro in Absprache mit dem Regierungsrat festgelegt.
+<sup>1</sup> Die Sitzungsgelder und Entschädigungen werden durch das Sekretariat in Zusammenarbeit mit dem Personalamt semesterweise abgerechnet und überwiesen.
 
 ## 8 Schlussbestimmungen
 
