@@ -4,11 +4,11 @@ title: Organisationsverordnung für den Bundesrat vom 29. November 2013 (OV-BR)
 short: OV-BR
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: de
-version: 2024-01-10
+version: 2025-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20240110/de/xml/fedlex-data-admin-ch-eli-cc-2013-812-20240110-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/de"
 
 (OV-BR)
 
-vom 29. November 2013 (Stand am 10. Januar 2024)
+vom 29. November 2013 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -148,11 +148,18 @@ Dokumente, die im Namen des Bundesrates verfasst werden, werden auf eine der fol
 
 <sup>1</sup> Die Mitglieder des Bundesrates und die Bundeskanzlerin oder der Bundeskanzler dürfen im Rahmen ihrer Funktion als Magistratspersonen weder für sich noch für andere Geschenke oder sonstige Vorteile beanspruchen, annehmen oder sich versprechen lassen.
 
-<sup>2</sup> Die Annahme von geringfügigen und sozial üblichen Vorteilen gilt nicht als Geschenkannahme im Sinne von Absatz 1.
+<sup>2</sup>
+
+Erlaubt ist die Annahme von:
+
+- a. geringfügigen und sozial üblichen Vorteilen;
+- b. Vorteilen, die überwiegend zu dienstlichen Zwecken genutzt werden, sofern der Bundesrat ausdrücklich vorsieht, dass die entsprechenden Vorteile angenommen werden dürfen.[^8-1]
 
 <sup>3</sup> Können Mitglieder des Bundesrates oder die Bundeskanzlerin oder der Bundeskanzler Geschenke aus Höflichkeitsgründen im Gesamtinteresse des Bundes nicht ablehnen, so nehmen sie diese als Geschenke für den Bund an.
 
 <sup>4</sup> Der Bundesrat entscheidet über die Verwendung der Geschenke nach Absatz 3.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 650](https://fedlex.data.admin.ch/eli/oc/2024/650)).
 
 ## 2. Abschnitt: Präsidium
 

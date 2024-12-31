@@ -4,11 +4,11 @@ title: "Ordonnance sur l'organisation du Conseil fédéral du 29 novembre 2013 (
 short: Org CF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: fr
-version: 2024-01-10
+version: 2025-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20240110/fr/xml/fedlex-data-admin-ch-eli-cc-2013-812-20240110-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/fr"
 
 (Org CF)
 
-du 29 novembre 2013 (État le 10 janvier 2024)
+du 29 novembre 2013 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -148,11 +148,18 @@ Les documents rédigés au nom du Conseil fédéral sont signés de l’une des 
 
 <sup>1</sup> Les membres du Conseil fédéral et le chancelier de la Confédération ne doivent, dans le cadre de leur fonction de magistrat, ni accepter, ni solliciter ou se faire promettre des dons ou autres avantages pour eux-mêmes ou pour d’autres personnes.
 
-<sup>2</sup> L’acceptation d’avantages de faible importance conformes aux usages sociaux n’est pas considérée comme une acceptation de dons au sens de l’al. 1.
+<sup>2</sup>
+
+Peuvent être acceptés:
+
+- a. des avantages de faible importance conformes aux usages sociaux;
+- b. des avantages qui servent de manière prépondérante à des fins professionnelles, à condition que le Conseil fédéral ait expressément prévu leur acceptabilité.[^8-1]
 
 <sup>3</sup> Si un membre du Conseil fédéral ou le chancelier de la Confédération ne peut pas, dans l’intérêt général de la Confédération, refuser un don pour des raisons de politesse, il l’accepte en tant que don en faveur de la Confédération.
 
 <sup>4</sup> Le Conseil fédéral statue sur l’utilisation des dons visés à l’al. 3.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 650](https://fedlex.data.admin.ch/eli/oc/2024/650)).
 
 ## Section 2 Présidence
 

@@ -4,11 +4,11 @@ title: "Ordinanza sull'organizzazione del Consiglio federale del 29 novembre 201
 short: OOrg-CF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: it
-version: 2024-01-10
+version: 2025-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20240110/it/xml/fedlex-data-admin-ch-eli-cc-2013-812-20240110-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20240110/it"
 
 (OOrg-CF)
 
-del 29 novembre 2013 (Stato 10 gennaio 2024)
+del 29 novembre 2013 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -116,7 +116,7 @@ Gli allegati comprendono:
 
 <sup>5</sup> Il Consiglio federale può ordinare misure supplementari per la messa a verbale delle deliberazioni.[^5-1]
 
-[^5-1]: Introdotto dal n. I dell’O del 17 mag. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3277](https://fedlex.data.admin.ch/eli/oc/2017/341)).
+[^5-1]: Introdotto dalla cifra I dell’O del 17 mag. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3277](https://fedlex.data.admin.ch/eli/oc/2017/341)).
 
 #### Art. 6
 
@@ -141,7 +141,7 @@ I documenti redatti in nome del Consiglio federale sono firmati in uno dei segue
 
 <sup>2</sup> Su mandato del Consiglio federale il cancelliere della Confederazione firma documenti designati dal Consiglio federale.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 10 gen. 2024 (RU **20****23** 810).
+[^7-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 10 gen. 2024 ([RU 2023 810](https://fedlex.data.admin.ch/eli/oc/2023/810)).
 
 #### Art. 8
 
@@ -149,11 +149,18 @@ I documenti redatti in nome del Consiglio federale sono firmati in uno dei segue
 
 <sup>1</sup> Nell’ambito della loro funzione di magistrati, ai membri del Consiglio federale e al cancelliere della Confederazione è proibito sollecitare, accettare o farsi promettere omaggi o altri vantaggi per sé o per terzi.
 
-<sup>2</sup> L’accettazione di vantaggi esigui conformi agli usi sociali non è considerata accettazione di omaggi ai sensi del capoverso 1.
+<sup>2</sup>
+
+È consentito accettare:
+
+- a. vantaggi esigui conformi agli usi sociali;
+- b. vantaggi che servono prevalentemente per scopi di servizio, a condizione che il Consiglio federale preveda esplicitamente la possibilità di accettarli.[^8-1]
 
 <sup>3</sup> Se, per motivi di cortesia e nell’interesse generale della Confederazione, i membri del Consiglio federale o il cancelliere della Confederazione non possono rifiutare un omaggio, esso è accettato quale omaggio a favore della Confederazione.
 
 <sup>4</sup> Il Consiglio federale decide in merito all’utilizzazione degli omaggi di cui al capoverso 3.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 650](https://fedlex.data.admin.ch/eli/oc/2024/650))
 
 ## Sezione 2: Presidenza
 
