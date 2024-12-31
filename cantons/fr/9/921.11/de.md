@@ -4,13 +4,12 @@ number: "921.11"
 title: Reglement über den Wald und den Schutz vor Naturereignissen
 short: WSR
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-20
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7979/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8083/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Wald und Schutz vor Naturereignissen – R
 
 (WSR)
 
-vom 11.12.2001 (Fassung in Kraft getreten am 01.03.2024)
+vom 11.12.2001 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -217,7 +216,7 @@ beschliesst:
 
 <sup>1</sup> Zur Aufteilung der Kosten aufgrund der hoheitlichen Aufgaben, die der Revierförsterin oder dem Revierförster übertragen werden, wird eine Vereinbarung zwischen der Direktion und der Betriebseinheit geschlossen.
 
-<sup>2</sup> Aufgaben, für die der Staat zuständig ist, sowie die einschlägige Pauschale werden in Anhang 1 geregelt.
+<sup>2</sup> Aufgaben, für die der Staat zuständig ist, und die einschlägige Pauschale werden in Anhang 2 geregelt.
 
 #### Art. 16
 
@@ -840,6 +839,12 @@ beschliesst:
 
 <sup>2</sup> Artikel 11a gilt ab dem Rechnungsjahr 2022.
 
+#### Art. 70b
+
+**Übergangsrecht zur Änderung vom 26. November 2024**
+
+<sup>1</sup> Die Vereinbarungen, die zwischen der Direktion und dem Arbeitgeber der Försterin oder des Försters vor dem Inkrafttreten der Änderung vom 26. November 2024 abgeschlossen wurden, unterliegen weiterhin der einschlägigen Pauschale, die zum Zeitpunkt ihres Abschlusses anwendbar war. Nach Ablauf der fünfjährigen Dauer, für die diese Vereinbarungen abgeschlossen wurden, oder früher bei einem Wechsel der Revierförsterin oder des Revierförsters unterliegt die neu abgeschlossene Vereinbarung dem System, das in der Änderung des Artikels 15 und des Anhangs 2 vorgesehen ist.
+
 #### Art. 71
 
 **Aufhebung bisherigen Rechts**
@@ -1018,131 +1023,191 @@ beschliesst:
 
 <sup>1</sup> Dieses Reglement tritt am 1. Januar 2002 in Kraft.
 
-## A1 ANHANG 1 Einschlägige Pauschale (Art. 15 Abs. 2)
+## A1
 
-### A1.1 Verfahren
+### A1.1
 
 #### Art. A1-1
 
-<sup>1</sup> Die Leistungen des Staates, die im Pflichtenheft der Revierförsterin oder des Revierförsters detailliert beschrieben sind, werden nach verschiedenen Berechnungselementen vergütet. Die jährliche Anzahl der zu entschädigen Stunden wird durch die Kumulierung dieser Elemente bestimmt.
+**…**
+
+### A1.2
+
+#### Art. A1-2
+
+**…**
+
+#### Art. A1-3
+
+**…**
+
+### A1.3
+
+#### Art. A1-4
+
+**…**
+
+#### Art. A1-5
+
+**…**
+
+#### Art. A1-6
+
+**…**
+
+### A1.4
+
+#### Art. A1-7
+
+**…**
+
+### A1.5
+
+#### Art. A1-8
+
+**…**
+
+#### Art. A1-9
+
+**…**
+
+### A1.6
+
+#### Art. A1-10
+
+**…**
+
+### A1.7
+
+#### Art. A1-11
+
+**…**
+
+## A2 ANHANG 2 - Einschlägige Pauschale (Art. 15 Abs. 2)
+
+### A2.1 Verfahren
+
+#### Art. A2-1
+
+<sup>1</sup> Die Leistungen des Staates, die im Pflichtenheft der Revierförsterin oder des Revierförsters detailliert beschrieben sind, werden nach verschiedenen Berechnungselementen vergütet. Die jährliche Anzahl der zu entschädigenden Stunden wird durch die Kumulierung dieser Elemente bestimmt.
 
 <sup>2</sup> Der Stundenansatz (Fr./h) wird in einer Vereinbarung zwischen der Direktion der Institutionen und der Land- und Forstwirtschaft und dem Arbeitgeber der Försterin oder des Försters festgelegt. Er richtet sich nach der Gehaltsskala des Kantons Freiburg für Revierförsterinnen und -förster.
 
-### A1.2 Erhaltung und Schutz des Waldes
+### A2.2 Wald und Naturgefahren
 
-#### Art. A1-2
+### A2.2.1 Walderhaltung
+
+#### Art. A2-2
 
 **Walderhaltung – Bemessungsgrundlagen**
 
 <sup>1</sup> Die Waldfläche wird im Verhältnis zur Einwohnerzahl betrachtet.
 
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,02 Stunden pro Hektare.
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,05 Stunden pro Hektare.
 
 <sup>3</sup> Der nach Gemeinde angewandte Gewichtungsfaktor hängt von der Einwohnerzahl pro Hektare Wald auf dem Gemeindegebiet ab:
 
-- a) ab 30 Einwohner (Wohnbevölkerung) — × 2
-- b) ab 17 Einwohner (Wohnbevölkerung) — × 1,5
-- c) bis 17 Einwohner (Wohnbevölkerung) — × 1
+- a) bis 15 Einwohner (Wohnbevölkerung) — x 1
+- b) ab 15 Einwohner (Wohnbevölkerung) — x 1,5
+- c) ab 30 Einwohner (Wohnbevölkerung) — x 2
 
-#### Art. A1-3
+### A2.2.2 Schutz des Waldes
+
+#### Art. A2-3
 
 **Schutz des Waldes – Bemessungsgrundlagen**
 
 <sup>1</sup> Die Waldfläche wird im Verhältnis zu den Eigentumsverhältnissen betrachtet. Die Totalreservate werden in der Berechnung der Fläche nicht berücksichtigt.
 
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,04 Stunden pro Hektare.
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,02 Stunden pro Hektare.
 
 <sup>3</sup> Der angewandte Gewichtungsfaktor hängt vom Prozentsatz an Privatwald ab:
 
-- a) weniger als 20 % Privatwald — × 1
-- b) 20–35 % Privatwald — × 1,5
-- c) 36–45 % Privatwald — × 2
-- d) 46–50 % Privatwald — × 2,5
-- e) mehr als 50 % Privatwald — × 3
+- a) weniger als 25 % Privatwald — x 1
+- b) 25–50 % Privatwald — x 2
+- c) mehr als 50 % Privatwald — x 3
 
-### A1.3 Unterstützung bei der Waldbewirtschaftung
+### A2.2.3 Unterstützung bei der Waldbewirtschaftung
 
-#### Art. A1-4
+#### Art. A2-4
 
-**Öffentlicher Wald – Bemessungsgrundlagen**
+**Wald unterhalb von 1200 m – Bemessungsgrundlagen**
 
-<sup>1</sup> Berücksichtigt wird das Nutzungspotenzial des öffentlichen Waldes (Silven/Jahr).
+<sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche.
 
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,06 Stunden pro Silve.
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,65 Stunden pro Hektare.
 
-#### Art. A1-5
+#### Art. A2-5
 
-**Privatwald – Bemessungsgrundlagen**
+**Wald oberhalb von 1200 m – Bemessungsgrundlagen**
 
-<sup>1</sup> Berücksichtigt wird das Nutzungspotenzial des nutzbaren Privatwaldes (Silven/Jahr), gewichtet mit der durchschnittlich nutzbaren Waldfläche pro Eigentümerin oder Eigentümer.
+<sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche.
 
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,06 Stunden pro Silve.
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,10 Stunden pro Hektare.
 
-<sup>3</sup> Der angewandte Gewichtungsfaktor hängt von der Zahl der Eigentümerinnen und Eigentümer pro Hektare Wald ab:
+#### Art. A2-6
 
-- a) Durchschnitt kleiner oder gleich 1 ha/Eigentümer oder Eigentümer — × 2
-- b) Durchschnitt grösser als 1 ha/Eigentümerin oder Eigentümer und kleiner oder gleich 3 ha/Eigentümerin oder Eigentümer — × 1,5
-- c) Durchschnitt grösser als 3 ha/Eigentümerin oder Eigentümer — × 1
+**Biodiversität im Wald – Bemessungsgrundlagen**
 
-#### Art. A1-6
+<sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche mit anerkannten Natur- und Landschaftsschutzfunktionen.
 
-**Zulage – Bemessungsgrundlagen**
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,09 Stunden pro Hektare.
 
-<sup>1</sup> Eine Zulage ist für Natur- und Landschaftsschutz vorgesehen.
+### A2.2.4 Förderung von Wald und Holz
 
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,1 Stunden pro Hektare.
-
-<sup>3</sup> Es ist nur jene Waldfläche zu berücksichtigen, die wichtige Natur- und Landschaftsschutzfunktionen hat.
-
-### A1.4 Förderung von Wald und Holz
-
-#### Art. A1-7
+#### Art. A2-7
 
 **Bemessungsgrundlagen**
 
 <sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche.
+
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,05 Stunden pro Hektare.
+
+### A2.2.5 Schutz vor Naturgefahren
+
+#### Art. A2-8
+
+**Schutzwaldfläche - Bemessungsgrundlagen**
+
+<sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche mit anerkannten Schutzfunktionen.
 
 <sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,04 Stunden pro Hektare.
 
-### A1.5 Schutz vor Naturgefahren
+#### Art. A2-9
 
-#### Art. A1-8
+**Lokale Naturgefahrenberaterin oder lokaler Naturgefahrenberater – Bemessungsgrundlagen**
+
+<sup>1</sup> Als Grundlage für die Berechnung dient die Ernennung zur lokalen Naturgefahrenberaterin oder zum lokalen Naturgefahrenberater.
+
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 42 Stunden.
+
+### A2.3 Natur- und Landschaftsschutz
+
+### A2.3.1 Allgemeine Aufsicht, Lebensräume und Landschaften
+
+#### Art. A2-10
+
+**Allgemeine Aufsicht - Bemessungsgrundlagen**
+
+<sup>1</sup> Als Grundlage für die Berechnung dient die Anzahl der angestellten Försterinnen und Förster, denen staatliche Aufgaben übertragen werden.
+
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 20 Stunden pro Försterin oder Förster.
+
+#### Art. A2-11
+
+**Revierfläche – Bemessungsgrundlagen**
+
+<sup>1</sup> Als Grundlage für die Berechnung dient die Fläche des Forstreviers, ohne Seen und kantonale Reservate am Südufer des Neuenburgersees.
+
+<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,005 Stunden pro Hektare.
+
+### A2.4 Verschiedene Zulagen für namentlich übertragene Aufgaben
+
+#### Art. A2-12
 
 **Bemessungsgrundlagen**
 
-<sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche.
-
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,02 Stunden pro Hektare.
-
-#### Art. A1-9
-
-**Zulage – Bemessungsgrundlagen**
-
-<sup>1</sup> Es ist eine Zulage für die Schutzwaldfläche vorgesehen.
-
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,06 Stunden pro Hektare.
-
-### A1.6 Beratung
-
-#### Art. A1-10
-
-**Bemessungsgrundlagen**
-
-<sup>1</sup> Als Grundlage für die Berechnung dient die Waldfläche.
-
-<sup>2</sup> Der jährliche Basiszeitaufwand beträgt 0,02 Stunden pro Hektare.
-
-### A1.7 Verschiedene Zulagen für namentlich übertragene Aufgaben
-
-#### Art. A1-11
-
-**Bemessungsgrundlagen**
-
-<sup>1</sup> Eine von Fall zu Fall bestimmte Zulage ist für namentlich übertragene Aufgaben vorgesehen, insbesondere für die folgenden:
-
-- a) besondere Beteiligung an der Umsetzung der Waldrichtplanung;
-- b) bei Sturmschäden;
-- c) Tätigkeit als lokale Naturgefahrenberaterin oder lokaler Naturgefahrenberater.
+<sup>1</sup> Eine von Fall zu Fall bestimmte Zulage ist für namentlich übertragene Aufgaben vorgesehen.
 
 **Genehmigung**
 

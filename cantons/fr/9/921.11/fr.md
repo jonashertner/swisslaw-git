@@ -4,13 +4,12 @@ number: "921.11"
 title: Règlement sur les forêts et la protection contre les catastrophes naturelles
 short: RFCN
 language: fr
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-20
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7979/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8083/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Forêts et protection contre les catastrophes naturelles – R
 
 (RFCN)
 
-du 11.12.2001 (version entrée en vigueur le 01.03.2024)
+du 11.12.2001 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -217,7 +216,7 @@ Arrête:
 
 <sup>1</sup> La répartition des coûts liés aux tâches d'autorité confiées au forestier ou à la forestière de triage fait l'objet d'une convention entre la Direction et l'unité de gestion.
 
-<sup>2</sup> Les tâches relevant de l'Etat et le système forfaitaire applicable sont fixés dans l'Annexe 1.
+<sup>2</sup> Les tâches relevant de l'Etat et le système forfaitaire applicable sont fixés dans l'Annexe 2.
 
 #### Art. 16
 
@@ -840,6 +839,12 @@ Arrête:
 
 <sup>2</sup> L'article 11a est applicable à compter de l'exercice comptable 2022 y compris.
 
+#### Art. 70b
+
+**Droit transitoire relatif à la modification du 26 novembre 2024**
+
+<sup>1</sup> Les conventions établies entre la Direction et l'employeur du forestier ou de la forestière avant l'entrée en vigueur de la modification du 26 novembre 2024 demeurent soumises au système forfaitaire applicable au moment de leur établissement. A l'expiration de la durée de cinq ans pour lesquelles ces conventions ont été conclues ou, antérieurement, lors d'un changement de forestier ou de forestière de triage, la nouvelle convention établie est soumise au système prévu par la modification concernant l'article 15 et l'Annexe 2.
+
 #### Art. 71
 
 **Abrogations**
@@ -1018,131 +1023,191 @@ Arrête:
 
 <sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2002.
 
-## A1 ANNEXE 1 Système forfaitaire (art. 15 al. 2)
+## A1
 
-### A1.1 Procédure
+### A1.1
 
 #### Art. A1-1
+
+**…**
+
+### A1.2
+
+#### Art. A1-2
+
+**…**
+
+#### Art. A1-3
+
+**…**
+
+### A1.3
+
+#### Art. A1-4
+
+**…**
+
+#### Art. A1-5
+
+**…**
+
+#### Art. A1-6
+
+**…**
+
+### A1.4
+
+#### Art. A1-7
+
+**…**
+
+### A1.5
+
+#### Art. A1-8
+
+**…**
+
+#### Art. A1-9
+
+**…**
+
+### A1.6
+
+#### Art. A1-10
+
+**…**
+
+### A1.7
+
+#### Art. A1-11
+
+**…**
+
+## A2 ANNEXE 2 – Système forfaitaire (art. 15 al. 2)
+
+### A2.1 Procédure
+
+#### Art. A2-1
 
 <sup>1</sup> Les prestations de l'Etat, dont la description détaillée figure dans le cahier des charges du forestier ou de la forestière de triage, sont indemnisées selon différents éléments de calcul. Le cumul de ces éléments détermine le quota annuel d'heures à indemniser.
 
 <sup>2</sup> Le tarif horaire (fr./h) est fixé dans la convention établie entre la Direction des institutions, de l'agriculture et des forêts et l'employeur du forestier ou de la forestière. Il s'oriente sur l'échelle des traitements appliqués à l'Etat de Fribourg pour la fonction de forestier ou forestière de triage.
 
-### A1.2 Conservation et protection des forêts
+### A2.2 Forêt et dangers naturels
 
-#### Art. A1-2
+### A2.2.1 Conservation des forêts
+
+#### Art. A2-2
 
 **Conservation des forêts – Eléments de calcul**
 
 <sup>1</sup> La surface forestière est modulée en fonction d'un facteur démographique.
 
-<sup>2</sup> Le temps de base annuel est de 0,02 heure par hectare.
+<sup>2</sup> Le temps de base annuel est de 0,05 heure par hectare.
 
 <sup>3</sup> Le facteur de pondération appliqué par commune dépend du nombre d'habitants par hectare de forêt sise sur le territoire communal:
 
-- a) dès 30 habitants (population résidante) — × 2
-- b) dès 17 habitants (population résidante) — × 1,5
-- c) avec moins de 17 habitants (population résidante) — × 1
+- a) avec moins de 15 habitants (population résidante) — x 1
+- b) dès 15 habitants (population résidante) — x 1,5
+- c) dès 30 habitants (population résidante) — x 2
 
-#### Art. A1-3
+### A2.2.2 Protection des forêts
+
+#### Art. A2-3
 
 **Protection des forêts – Eléments de calcul**
 
 <sup>1</sup> La surface forestière est modulée en fonction des conditions de propriété. Les réserves forestières totales ne sont pas prises en considération dans le calcul de la surface.
 
-<sup>2</sup> Le temps de base annuel est de 0,04 heure par hectare.
+<sup>2</sup> Le temps de base annuel est de 0,02 heure par hectare.
 
 <sup>3</sup> Le facteur de pondération appliqué dépend du pourcentage de forêt privée:
 
-- a) moins de 20 % de forêt privée — × 1
-- b) de 20 à 35 % de forêt privée — × 1,5
-- c) de 36 à 45 % de forêt privée — × 2
-- d) de 46 à 50 % de forêt privée — × 2,5
-- e) plus de 50 % de forêt privée — × 3
+- a) moins de 25 % de forêt privée — x 1
+- b) de 25 à 50 % de forêt privée — x 2
+- c) plus de 50 % de forêt privée — x 3
 
-### A1.3 Appui à la gestion de la forêt
+### A2.2.3 Appui à la gestion de la forêt
 
-#### Art. A1-4
+#### Art. A2-4
 
-**Forêts publiques – Eléments de calcul**
+**Forêts situées en dessous de 1200 mètres d'altitude – Eléments de calcul**
 
-<sup>1</sup> Il est tenu compte de la possibilité des forêts publiques (sylves/an).
+<sup>1</sup> La surface forestière sert de base de calcul.
 
-<sup>2</sup> Le temps de base annuel est de 0,06 heure par sylve.
+<sup>2</sup> Le temps de base annuel est de 0,65 heure par hectare.
 
-#### Art. A1-5
+#### Art. A2-5
 
-**Forêts privées – Eléments de calcul**
+**Forêts situées en dessus de 1200 mètres d'altitude – Eléments de calcul**
 
-<sup>1</sup> Il est tenu compte de la possibilité des forêts privées exploitables (sylves/an), pondérée par la surface moyenne de forêt exploitable par propriétaire.
+<sup>1</sup> La surface forestière sert de base de calcul.
 
-<sup>2</sup> Le temps de base annuel est de 0,06 heure par sylve.
+<sup>2</sup> Le temps de base annuel est de 0,10 heure par hectare.
 
-<sup>3</sup> Le facteur de pondération appliqué dépend du nombre de propriétaires par hectare de forêt:
+#### Art. A2-6
 
-- a) moyenne inférieure ou égale à 1 ha/propriétaire — × 2
-- b) moyenne supérieure à 1 ha/propriétaire et inférieure ou égale à 3 ha/propriétaire — × 1,5
-- c) moyenne supérieure à 3 ha/propriétaire — × 1
+**Biodiversité en forêt – Eléments de calcul**
 
-#### Art. A1-6
+<sup>1</sup> La surface forestière ayant un rôle reconnu de protection de la nature et du paysage sert de base de calcul.
 
-**Supplément – Eléments de calcul**
+<sup>2</sup> Le temps de base annuel est de 0,09 heure par hectare.
 
-<sup>1</sup> Un supplément est prévu pour la protection de la nature et du paysage.
+### A2.2.4 Promotion de la forêt et du bois
 
-<sup>2</sup> Le temps de base annuel est de 0,1 heure par hectare.
-
-<sup>3</sup> Il ne doit être tenu compte que de la surface des forêts ayant un rôle reconnu de protection de la nature et du paysage.
-
-### A1.4 Promotion de la forêt et du bois
-
-#### Art. A1-7
+#### Art. A2-7
 
 **Eléments de calcul**
 
 <sup>1</sup> La surface forestière sert de base de calcul.
+
+<sup>2</sup> Le temps de base annuel est de 0,05 heure par hectare.
+
+### A2.2.5 Protection contre les dangers naturels
+
+#### Art. A2-8
+
+**Surface forestière protectrice – Eléments de calcul**
+
+<sup>1</sup> La surface forestière ayant un rôle reconnu de protection sert de base de calcul.
 
 <sup>2</sup> Le temps de base annuel est de 0,04 heure par hectare.
 
-### A1.5 Protection contre les dangers naturels
+#### Art. A2-9
 
-#### Art. A1-8
+**Conseiller ou conseillère local-e en matière de dangers naturels – Eléments de calcul**
+
+<sup>1</sup> La nomination en tant que conseiller ou conseillère local-e en matière de dangers naturels sert de base de calcul.
+
+<sup>2</sup> Le temps de base annuel est de 42 heures.
+
+### A2.3 Protection de la nature et du paysage
+
+### A2.3.1 Surveillance générale, biotopes et paysages
+
+#### Art. A2-10
+
+**Surveillance générale – Eléments de calcul**
+
+<sup>1</sup> Le nombre de forestier ou forestière engagé-e à qui sont confiées des tâches étatiques sert de base de calcul.
+
+<sup>2</sup> Le temps de base annuel est de 20 heures par forestier ou forestière.
+
+#### Art. A2-11
+
+**Surface du triage – Eléments de calcul**
+
+<sup>1</sup> La surface du triage forestier, sans les lacs ni les réserves cantonales de la rive sud du lac de Neuchâtel, sert de base de calcul.
+
+<sup>2</sup> Le temps de base annuel est de 0,005 heure par hectare.
+
+### A2.4 Suppléments divers pour tâches nominatives
+
+#### Art. A2-12
 
 **Eléments de calcul**
 
-<sup>1</sup> La surface forestière sert de base de calcul.
-
-<sup>2</sup> Le temps de base annuel est de 0,02 heure par hectare.
-
-#### Art. A1-9
-
-**Supplément – Eléments de calcul**
-
-<sup>1</sup> Un supplément est prévu pour la surface de forêt protectrice.
-
-<sup>2</sup> Le temps de base annuel est de 0,06 heure par hectare.
-
-### A1.6 Vulgarisation
-
-#### Art. A1-10
-
-**Eléments de calcul**
-
-<sup>1</sup> La surface forestière sert de base de calcul.
-
-<sup>2</sup> Le temps de base annuel est de 0,02 heure par hectare.
-
-### A1.7 Suppléments divers pour tâches nominatives
-
-#### Art. A1-11
-
-**Eléments de calcul**
-
-<sup>1</sup> Un supplément, fixé de cas en cas, est prévu pour des tâches nominatives, notamment les suivantes:
-
-- a) participation particulière à la mise en œuvre de la planification directrice des forêts;
-- b) lors de dégâts d'ouragan;
-- c) activité de conseiller ou conseillère local‑e en matière de dangers naturels.
+<sup>1</sup> Un supplément, fixé de cas en cas, est prévu pour des tâches nominatives.
 
 **Approbation**
 
