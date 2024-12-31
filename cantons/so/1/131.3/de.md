@@ -3,20 +3,20 @@ canton: SO
 number: "131.3"
 title: Verzeichnis der solothurnischen Gemeinden
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-13
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-09-11
 adopted: 1997-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.3"
-pdf: "https://bgs.so.ch/api/de/versions/5425/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verzeichnis der solothurnischen Gemeinden
 
-Vom 28.10.1997 (Stand 01.01.2024)
+Vom 28.10.1997 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -52,6 +52,7 @@ beschliesst:
   - 2\. Beinwil
   - 3\. Nunningen
   - 4\. Himmelried
+  - 5\. Bärschwil
 - e) Bezirk Gösgen
   - 1\. Stüsslingen
   - 2\. …
@@ -76,6 +77,7 @@ beschliesst:
 - i) Bezirk Olten
   - 1\. Rickenbach
   - 2\. Fulenbach
+  - 3\. Däniken
 
 ## 2. Einwohnergemeinden
 
@@ -163,7 +165,7 @@ beschliesst:
   - 8\. Wolfwil
 - g) Bezirk Olten
   - 1\. Boningen
-  - 2\. Däniken
+  - 2\. …
   - 3\. Dulliken
   - 4\. Eppenberg-Wöschnau
   - 5\. …
@@ -203,7 +205,7 @@ beschliesst:
   - 10\. …
   - 11\. Witterswil
 - k) Bezirk Thierstein
-  - 1\. Bärschwil
+  - 1\. …
   - 2\. …
   - 3\. Breitenbach
   - 4\. Büsserach
@@ -304,7 +306,7 @@ beschliesst:
   - 8\. Wolfwil
 - g) Bezirk Olten
   - 1\. Boningen
-  - 2\. Däniken
+  - 2\. …
   - 3\. Dulliken
   - 4\. Eppenberg-Wöschnau
   - 5\. …
@@ -344,7 +346,7 @@ beschliesst:
   - 10\. …
   - 11\. Witterswil
 - k) Bezirk Thierstein
-  - 1\. Bärschwil
+  - 1\. …
   - 2\. …
   - 3\. Breitenbach
   - 4\. Büsserach
