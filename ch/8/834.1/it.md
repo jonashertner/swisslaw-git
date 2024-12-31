@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,20 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° luglio 2024)
+del 25 settembre 1952 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^t-1]: Nuovo testo giusta la cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 59 capoverso 4, 61 capoverso 4, 116 capoversi 3 e 4, 117 capoverso 1, 122 e 123 della Costituzione federale (Cost.)[^ingress-1];[^ingress-2]
-
-visto il messaggio del Consiglio federale del 23 ottobre 1951,
+visti gli articoli 59 capoverso 4, 61 capoverso 4, 116 capoversi 3 e 4, 117 capoverso 1, 122 e 123 della Costituzione federale (Cost.)[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 23 ottobre 1951[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I 8 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^ingress-2]: Nuovo testo giusta la cifra I n. 8 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^ingress-3]: BBl **1951** III 297 ediz. ted.; FF **1951** III 305 ediz. fr.
 
 ## Capo primo: Applicabilità della LPGA
 
@@ -54,7 +53,7 @@ Le disposizioni della legge federale del 6 ottobre 2000[^1-1] sulla parte genera
 
 [^chap1a-lvlI-1]
 
-[^chap1a-lvlI-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap1a-lvlI-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 1a
 
@@ -76,31 +75,31 @@ Le persone che prestano servizio nell’esercito svizzero o nel servizio della C
 
 <sup>3</sup> Le persone che prestano servizio di protezione civile hanno diritto a un’indennità per ogni giorno intero per il quale ricevono il soldo giusta l’articolo 39 capoverso 1 lettera a della legge federale del 20 dicembre 2019[^1a-7] sulla protezione della popolazione e sulla protezione civile (LPPC). È eccettuato il personale degli organi cantonali e comunali responsabili della protezione civile impiegato nell’ambito di interventi di pubblica utilità giusta l’articolo 53 capoverso 3 LPPC.[^1a-8]
 
-<sup>4</sup> I partecipanti ai corsi federali e cantonali per i quadri di Gioventù e Sport giusta l’articolo 9 della legge del 17 giugno 2011[^1a-9] sulla promozione dello sport e i partecipanti ai corsi per monitori di giovani tiratori giusta l’articolo 64 della legge militare del 3 febbraio 1995[^1a-10] sono equiparati alle persone di cui al capoverso 1.[^1a-11]
+<sup>4</sup> Le persone che partecipano ai corsi federali e cantonali di formazione dei quadri di Gioventù e Sport giusta l’articolo 9 della legge del 17 giugno 2011[^1a-9] sulla promozione dello sport e quelle che partecipano ai corsi per monitori di giovani tiratori giusta l’articolo 64 della legge militare del 3 febbraio 1995[^1a-10] sono equiparate alle persone di cui al capoverso 1.[^1a-11]
 
 <sup>4bis</sup> Il diritto a un’indennità si estingue con la riscossione della totalità della rendita di vecchiaia dell’assicurazione per la vecchiaia e per i superstiti, ma al più tardi al raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^1a-12] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).[^1a-13]
 
 <sup>5</sup> Le persone di cui ai capoversi 1–4 sono denominate, nella presente legge, «persone prestanti servizio».
 
 [^1a-1]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^1a-2]: Abrogata dal n. I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^1a-3]: Nuovo testo giusta il n. II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^1a-2]: Abrogata dalla cifra I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^1a-3]: Nuovo testo giusta la cifra II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^1a-4]: Introdotto dall’all. n. 10 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^1a-5]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^1a-6]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^1a-6]: Introdotto dalla cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^1a-7]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1a-8]: Nuovo testo giusta l’all. n. II 3 della LF del 20 dic. 2019 protezione della popolazione e sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 477](https://fedlex.data.admin.ch/eli/fga/2019/113)).
+[^1a-8]: Nuovo testo giusta l’all. n. II n. 3 della LF del 20 dic. 2019 protezione della popolazione e sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 477](https://fedlex.data.admin.ch/eli/fga/2019/113)).
 [^1a-9]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^1a-10]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1a-11]: Nuovo testo giusta dall’art. 34 n. 4 della L del 17 giu. 2011 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^1a-11]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^1a-12]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1a-13]: Introdotto dal n. II 2 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nuovo testo giusta l’all. n. 8 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^1a-13]: Introdotto dalla cifra II n. 2 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nuovo testo giusta l’all. n. 8 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 2 e 3
 
 [^23-1]
 
-[^23-1]: Abrogati dal n. I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^23-1]: Abrogati dalla cifra I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### II. Specie delle indennità
 
@@ -110,13 +109,13 @@ Le persone che prestano servizio nell’esercito svizzero o nel servizio della C
 
 Tutte le persone prestanti servizio hanno diritto all’indennità di base.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1998, in vigore dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1998, in vigore dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
 
 #### Art. 5
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I della LF del 18 dic. 1998, con effetto dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+[^5-1]: Abrogato dalla cifra I della LF del 18 dic. 1998, con effetto dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
 
 #### Art. 6
 
@@ -131,8 +130,8 @@ Danno diritto all’assegno:
 - a. i figli della persona prestante servizio;
 - b. i figli elettivi della persona prestante servizio, dei quali egli assume gratuitamente e durevolmente le spese di mantenimento e di educazione.[^6-2]
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
-[^6-2]: Nuovo testo giusta l’all. n. III della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
+[^6-2]: Nuovo testo giusta l’all. cifra III della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 7
 
@@ -142,7 +141,7 @@ Danno diritto all’assegno:
 
 <sup>2</sup> Il Consiglio federale stabilisce l’importo massimo dell’indennità e disciplina i dettagli.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
 
 #### Art. 8
 
@@ -152,8 +151,8 @@ Danno diritto all’assegno:
 
 <sup>2</sup> Le persone prestanti servizio che lavorano in un’azienda agricola in qualità di familiari possono pretendere l’assegno per l’azienda se, a causa del loro periodo di servizio di una certa durata, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana le prescrizioni particolari.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
-[^8-2]: Introdotto dal n. I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1185](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
+[^8-2]: Introdotto dalla cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1185](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
 
 ### III. Calcolo delle indennità
 
@@ -171,7 +170,7 @@ Danno diritto all’assegno:
 
 <sup>4</sup> Durante l’istruzione di base nella protezione civile, l’indennità giornaliera di base ammonta al 25 per cento dell’indennità totale massima. Il capoverso 2 si applica per analogia. Il Consiglio federale emana disposizioni per le persone che prestano servizio avendo già assolto in tutto od in parte un’istruzione militare di base.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^9-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^9-3]: Introdotto dall’all. n. 10 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
@@ -183,7 +182,7 @@ Danno diritto all’assegno:
 
 <sup>2</sup> Se prima di iniziare il servizio l’interessato non esercitava un’attività lucrativa, l’indennità giornaliera di base ammonta all’importo minimo secondo l’articolo 16 capoversi 1–3.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 10a
 
@@ -202,15 +201,15 @@ Per i servizi di cui all’articolo 30 capoverso 1<sup>bis</sup> della legge mil
 
 <sup>2</sup> Il Consiglio federale può emanare disposizioni particolari per il calcolo delle indennità a favore delle persone prestanti servizio che solo temporaneamente non esercitavano un’attività lucrativa oppure che a causa del servizio non hanno potuto assumere una tale attività.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^11-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^11-3]: Nuovo testo giusta il n. II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^11-3]: Nuovo testo giusta la cifra II n. 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 
 #### Art. 12
 
 [^12-1]
 
-[^12-1]: Abrogato dal n. I della LF del 6 mar. 1959, con effetto dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
+[^12-1]: Abrogato dalla cifra I della LF del 6 mar. 1959, con effetto dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
 
 #### Art. 13
 
@@ -218,13 +217,13 @@ Per i servizi di cui all’articolo 30 capoverso 1<sup>bis</sup> della legge mil
 
 L’assegno per i figli ammonta per ogni figlio all’8 per cento dell’indennità totale massima.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 14
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. I della LF del 18 dic. 1998, con effetto dal 1° gen. 2000 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+[^14-1]: Abrogato dalla cifra I della LF del 18 dic. 1998, con effetto dal 1° gen. 2000 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
 
 #### Art. 15
 
@@ -232,7 +231,7 @@ L’assegno per i figli ammonta per ogni figlio all’8 per cento dell’indenni
 
 L’assegno per l’azienda è del 27 per cento dell’indennità totale massima.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1185](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1185](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
 
 #### Art. 16
 
@@ -268,7 +267,7 @@ Durante gli altri servizi l’indennità giornaliera totale corrisponde almeno a
 
 <sup>6</sup> L’indennità totale si compone dell’indennità di base secondo l’articolo 4 e degli assegni per i figli secondo l’articolo 6. Gli assegni per spese di custodia e per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità totale.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 16a
 
@@ -278,15 +277,15 @@ Durante gli altri servizi l’indennità giornaliera totale corrisponde almeno a
 
 <sup>2</sup> Ad intervalli di almeno due anni, il Consiglio federale può adeguare l’indennità totale massima all’evoluzione dei salari per l’inizio dell’anno, se il livello salariale determinante per l’ultimo adeguamento si è nel frattempo modificato di almeno il 12 per cento.
 
-[^16a-1]: Introdotto dal n. I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); FF **1975** I 1195).
-[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^16a-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16a-1]: Introdotto dalla cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); FF **1975** I 1195).
+[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^16a-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### III*a*. Indennità in caso di maternità
 
 [^chap1a-lvlIIIa-1]
 
-[^chap1a-lvlIIIa-1]: Introdotta dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap1a-lvlIIIa-1]: Introdotta dalla cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 16b
 
@@ -316,14 +315,14 @@ Il Consiglio federale disciplina il diritto all’indennità delle donne che per
 - b. al momento del parto non sono salariate o indipendenti.
 
 [^16b-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^16b-2]: Nuova espr. giusta il n. II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^16b-2]: Nuova espr. giusta la cifra II n. 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^16b-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^16b-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16b-5]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16b-4]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16b-5]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16c
 
-**Inizio del diritto e durata del versamento dell’indennità**[^16c-1]
+**Inizio del diritto e durata del versamento dell’indennità[^16c-1]**
 
 <sup>1</sup> Il diritto all’indennità di maternità inizia il giorno del parto.
 
@@ -334,11 +333,13 @@ Il Consiglio federale disciplina il diritto all’indennità delle donne che per
 In caso di degenza ospedaliera del neonato, la durata del versamento è prolungata di una durata equivalente a quella della degenza, ma al massimo di 56 giorni, se:
 
 - a. immediatamente dopo la nascita il neonato resta in ospedale per almeno due settimane consecutive; e
-- b. la madre fornisce la prova che al momento del parto prevedeva di riprendere un’attività lucrativa alla fine del congedo di maternità.
+- b. la madre fornisce la prova che al momento del parto prevedeva di riprendere un’attività lucrativa alla fine del congedo di maternità.[^16c-2]
 
-<sup>4</sup> Il Consiglio federale disciplina il diritto al prolungamento della durata del versamento dell’indennità di maternità per le donne che, per incapacità al lavoro o disoccupazione, non possono riprendere un’attività lucrativa alla fine del congedo di maternità.
+<sup>4</sup> Il Consiglio federale disciplina il diritto al prolungamento della durata del versamento dell’indennità di maternità per le donne che, per incapacità al lavoro o disoccupazione, non possono riprendere un’attività lucrativa alla fine del congedo di maternità.[^16c-3]
 
-[^16c-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-2]: Introdotto dalla cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-3]: Introdotto dalla cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -350,7 +351,7 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 <sup>3</sup> All’estinzione del diritto è applicabile per analogia l’articolo 16*j* capoverso 3 lettere a–d.
 
-[^16cbis-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16cbis-1]: Introdotto dalla cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 16d
 
@@ -362,8 +363,8 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 <sup>3</sup> Il diritto all’indennità di maternità si estingue prima se la madre riprende un’attività lucrativa o muore; non si estingue tuttavia prima se la madre partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, per le quali non è prevista una supplenza.[^16d-2]
 
-[^16d-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16d-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Indennità di maternità per le parlamentari), in vigore dal 1° lug. 2024 (RU **202****4** 151; FF **20****23** 934, 1357).
+[^16d-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16d-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Indennità di maternità per le parlamentari), in vigore dal 1° lug. 2024 ([RU 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [FF 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 
@@ -381,7 +382,7 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 <sup>2</sup> L’indennità di maternità è ridotta nella misura in cui supera l’importo massimo secondo il capoverso 1.
 
-[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 
 #### Art. 16g
 
@@ -408,7 +409,7 @@ Se fino all’inizio del diritto all’indennità di maternità vi era un diritt
 - d. legge federale del 19 giugno 1992[^16g-5] sull’assicurazione militare;
 - e. legge del 25 giugno 1982[^16g-6] sull’assicurazione contro la disoccupazione.
 
-[^16g-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^16g-1]: Introdotta dalla cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^16g-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^16g-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^16g-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
@@ -421,14 +422,14 @@ Se fino all’inizio del diritto all’indennità di maternità vi era un diritt
 
 A complemento del capo III*a* i Cantoni possono prevedere un’indennità di maternità più elevata o di durata maggiore e prelevare contributi specifici per il suo finanziamento.
 
-[^16h-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^16h-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 
-## III*b*. Indennità per l’altro genitore
+### III*b*. Indennità per l’altro genitore
 
-[^chap2-1][^chap2-2]
+[^chap1a-lvlIIIb-1][^chap1a-lvlIIIb-2]
 
-[^chap2-1]: Introdotto dal n. I della LF del 27 set. 2019 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^chap2-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^chap1a-lvlIIIb-1]: Introdotto dalla cifra I della LF del 27 set. 2019 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Nuovo testo giusta la cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIb-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16i
 
@@ -453,11 +454,11 @@ Ha diritto all’indennità chi:[^16i-1]
 
 <sup>3</sup> Il Consiglio federale disciplina il diritto all’indennità delle persone che, per incapacità al lavoro o disoccupazione, non soddisfano le condizioni di cui al capoverso 1 lettere c o d.[^16i-5]
 
-[^16i-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16i-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16i-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^16i-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^16i-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-5]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16j
 
@@ -477,9 +478,9 @@ Il diritto all’indennità si estingue:
 - d. se il figlio muore; o
 - e.[^16j-3] se il rapporto di filiazione nei confronti dell’altro genitore si estingue per sentenza.
 
-[^16j-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16j-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16j-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16k
 
@@ -493,8 +494,8 @@ Il diritto all’indennità si estingue:
 
 <sup>4</sup> Se il congedo è preso in giorni, sono versate due indennità giornaliere supplementari ogni cinque giorni indennizzati.
 
-[^16k-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16k-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16k-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16k-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16k<sup>bis</sup>
 
@@ -508,7 +509,7 @@ Il diritto all’indennità si estingue:
 
 <sup>4</sup> Il termine quadro di sei mesi di cui all’articolo 16*j* è interrotto durante il periodo di riscossione di indennità giornaliere ai sensi dei capoversi 1 e 2.
 
-[^16kbis-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16kbis-1]: Introdotto dalla cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 16l
 
@@ -516,7 +517,7 @@ Il diritto all’indennità si estingue:
 
 <sup>1</sup> L’indennità giornaliera ammonta all’80 per cento del reddito medio conseguito prima dell’inizio del diritto all’indennità di paternità.
 
-<sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’arti-colo 11 capoverso 1
+<sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’articolo 11 capoverso 1.
 
 <sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
 
@@ -544,9 +545,9 @@ Se fino all’inizio del diritto all’indennità per l’altro genitore vi era 
 - d. legge federale del 19 giugno 1992[^16m-7] sull’assicurazione militare;
 - e. legge del 25 giugno 1982[^16m-8] sull’assicurazione contro la disoccupazione.
 
-[^16m-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16m-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^16m-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^16m-6]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
@@ -555,9 +556,9 @@ Se fino all’inizio del diritto all’indennità per l’altro genitore vi era 
 
 ### III*c*. Indennità per genitori che assistono un figlio con gravi problemi di salute dovuti a malattia o infortunio
 
-[^chap2-lvlIIIc-1]
+[^chap1a-lvlIIIc-1]
 
-[^chap2-lvlIIIc-1]: Introdotto dal n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIc-1]: Introdotto dalla cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 16n
 
@@ -659,7 +660,6 @@ Se fino all’inizio del diritto all’indennità di assistenza vi era un diritt
 - a. legge federale del 19 giugno 1959[^16s-1] sull’assicurazione per l’invalidità;
 - b. legge federale del 18 marzo 1994[^16s-2] sull’assicurazione malattie;
 - c. legge federale del 20 marzo 1981[^16s-3] sull’assicurazione contro gli infortuni;
-
 - d. legge federale del 19 giugno 1992[^16s-4] sull’assicurazione militare;
 - e. legge del 25 giugno 1982[^16s-5] sull’assicurazione contro la disoccupazione.
 
@@ -671,9 +671,9 @@ Se fino all’inizio del diritto all’indennità di assistenza vi era un diritt
 
 ### III*d*. Indennità in caso di adozione
 
-[^chap2-lvlIIId-1]
+[^chap1a-lvlIIId-1]
 
-[^chap2-lvlIIId-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^chap1a-lvlIIId-1]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 
 #### Art. 16t
 
@@ -772,9 +772,12 @@ L’avente diritto fa valere l’indennità presso la cassa di compensazione com
 
 <sup>2</sup> Il Consiglio federale designa la cassa di compensazione competente e regola la procedura. Può emanare disposizioni concernenti il disciplinamento dei litigi relativi alla competenza territoriale e derogare all’articolo 35 LPGA[^17-2].[^17-3]
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+<sup>3</sup> Le persone prestanti servizio possono esercitare il loro diritto per il tramite del sistema d’informazione di cui all’articolo 21*a*.[^17-4]
+
+[^17-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^17-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^17-3]: Per. introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^17-4]: Introdotto dalla cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 18
 
@@ -802,7 +805,7 @@ L’indennità è pagata all’avente diritto; sono eccettuati i seguenti casi:
 
 <sup>3</sup> L’indennità è pagata soltanto se è fatta valere conformemente alle prescrizioni legali ed è addotta la prova che sono soddisfatte le relative condizioni.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^19-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 19a
@@ -822,10 +825,10 @@ Sull’indennità devono essere pagati i contributi:
 
 <sup>2</sup> Il Consiglio federale regola i particolari e la procedura. Ha la facoltà di esentare certi gruppi di persone dall’obbligo di pagare i contributi e di prevedere che non saranno riscossi contributi per prestazioni di servizio di breve durata.
 
-[^19a-1]: Introdotto dal n. I della LF del 19 giu. 1987, in vigore dal 1° gen. 1988 ([RU 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [FF 1985 I 653](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
-[^19a-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19a-1]: Introdotto dalla cifra I della LF del 19 giu. 1987, in vigore dal 1° gen. 1988 ([RU 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [FF 1985 I 653](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
+[^19a-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^19a-3]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^19a-4]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19a-4]: Introdotto dalla cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 20
 
@@ -845,13 +848,13 @@ In deroga all’articolo 24 LPGA[^20-2] il diritto alle indennità non ricevute 
 
 <sup>2</sup> I crediti derivanti dalla presente legge, dalla LAVS[^20-8] e dalla legge federale del 20 giugno 1952[^20-9] sugli assegni familiari nell’agricoltura possono essere compensati con le indennità esigibili in virtù della presente legge.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^20-4]: Introdotta dal n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^20-5]: Introdotta dal n. I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^20-6]: Originaria lett. e. Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^20-7]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^20-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-4]: Introdotta dalla cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-5]: Introdotta dalla cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-6]: Originaria lett. e. Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^20-7]: Nuovo testo giusta la cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^20-8]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-9]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
@@ -863,17 +866,19 @@ In deroga all’articolo 24 LPGA[^20-2] il diritto alle indennità non ricevute 
 
 I Cantoni rispondono dei danni subiti dall’ordinamento delle indennità per perdita di guadagno:
 
-- a. per l’inosservanza di prescrizioni concernenti la chiamata per interventi della protezione civile ai sensi degli articoli 27 capoverso 2, 27*a* capoverso 1 lettera b e 33–36 LPPC[^20a-2];
-- b. per l’inosservanza di prescrizioni concernenti l’autorizzazione di interventi di pubblica utilità ai sensi dell’articolo 27*a* capoverso 1 lettera b LPPC;
+- a.[^20a-2] per l’inosservanza di prescrizioni concernenti la chiamata per interventi della protezione civile ai sensi degli articoli 46 capoverso 2 e 49–53 LPPC[^20a-3];
+- b.[^20a-4] per l’inosservanza di prescrizioni concernenti l’autorizzazione di interventi di pubblica utilità ai sensi dell’articolo 53 capoverso 3 LPPC;
 - c. per fatti illeciti dei contabili delle organizzazioni di protezione civile.
 
 <sup>2</sup> Il diritto al risarcimento si prescrive in un anno dal giorno in cui l’Ufficio federale delle assicurazioni sociali ha avuto conoscenza del danno, ma al più tardi in dieci anni dal giorno in cui si è verificato il danno. Se il diritto al risarcimento deriva da un reato per il quale il diritto penale prevede un termine di prescrizione più lungo, si applica tale termine.
 
-<sup>3</sup> L’Ufficio federale delle assicurazioni sociali fa valere il diritto al risarcimento mediante decisione formale. La procedura è retta dalla legge federale del 20 dicembre 1968[^20a-3] sulla procedura amministrativa.
+<sup>3</sup> L’Ufficio federale delle assicurazioni sociali fa valere il diritto al risarcimento mediante decisione formale. La procedura è retta dalla legge federale del 20 dicembre 1968[^20a-5] sulla procedura amministrativa.
 
-[^20a-1]: Introdotto dal n. II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^20a-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^20a-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20a-1]: Introdotto dalla cifra II n. 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^20a-2]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^20a-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^20a-4]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^20a-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Capo secondo: Organizzazione
 
@@ -881,32 +886,86 @@ I Cantoni rispondono dei danni subiti dall’ordinamento delle indennità per pe
 
 **Organi e disposizioni applicabili**
 
-<sup>1</sup> La presente legge è applicata dagli organi dell’assicurazione vecchiaia e superstiti con la collaborazione dei contabili degli stati maggiori e delle unità militari. Per la protezione civile l’applicazione avviene con la collaborazione dei contabili degli organi di protezione; per il servizio civile con la collaborazione dell’Ufficio federale del servizio civile[^21-1] e degli istituti d’impiego.[^21-2]
+<sup>1</sup>
+
+L’esecuzione dell’ordinamento delle indennità di perdita di guadagno spetta agli organi dell’assicurazione vecchiaia e superstiti in collaborazione con:
+
+- a. i contabili degli stati maggiori e delle unità militari, per i servizi resi nell’esercito svizzero o nel servizio della Croce Rossa;
+- b. l’Ufficio federale del servizio civile (CIVI), per il servizio civile;
+- c. l’Ufficio federale della protezione della popolazione (UFPP) e i contabili delle organizzazioni di protezione civile, per la protezione civile;
+- d. l’Ufficio federale dello sport (UFSPO), per la formazione dei quadri di Gioventù e Sport;
+- e. l’Aggruppamento Difesa, per i corsi per monitori di giovani tiratori.[^21-1]
 
 <sup>2</sup>
 
-Per quanto la presente legge non disponga altrimenti, si applicano per analogia le disposizioni della LAVS[^21-3] concernenti:
+Per quanto la presente legge non disponga altrimenti, si applicano per analogia le disposizioni della LAVS[^21-2] concernenti:
 
 - a. i sistemi d’informazione (art. 49*a*, 49*b* e 72*a* cpv. 2 lett. b LAVS);
 - b. il registro delle prestazioni in denaro correnti (art. 49*c* LAVS);
 - c. l’utilizzazione sistematica del numero AVS (art. 50*c* e 153*b*–153*i* LAVS);
 - d. i datori di lavoro (art. 51 e 52 LAVS);
 - e. le casse di compensazione (art. 53–70 LAVS);
-- f. l’Ufficio centrale di compensazione (art. 71 LAVS).[^21-4]
+- f. l’Ufficio centrale di compensazione (art. 71 LAVS).[^21-3]
 
-<sup>2bis</sup> La responsabilità per danni degli organi dell’AVS di cui all’articolo 49 LAVS è retta dall’articolo 78 LPGA[^21-5] e, per analogia, dagli articoli 52, 70 e 71*a* LAVS.[^21-6]
+<sup>2bis</sup> La responsabilità per danni degli organi dell’AVS di cui all’articolo 49 LAVS è retta dall’articolo 78 LPGA[^21-4] e, per analogia, dagli articoli 52, 70 e 71*a* LAVS.[^21-5]
 
-<sup>3</sup> In deroga all’articolo 78 LPGA, la responsabilità dei contabili degli stati maggiori e delle unità militari è sottoposta alla legge militare del 3 febbraio 1995[^21-7], quella dei contabili dell’organizzazione di protezione sottostà alla legge del 17 giugno 1994[^21-8] sulla protezione civile.[^21-9]
+<sup>3</sup>
 
-[^21-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2019.
-[^21-2]: Per. introdotto dall’art. 93 della LF del 23 mar. 1962 sulla protezione civile ([RU 1962 1131](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); FF **1961** 1417). Nuovo testo giusta il n. II 2 della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^21-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-6]: Introdotto dall’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-7]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-8]: [[RU 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 14. [RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 n. 1]. Vedi ora la LF del 4 ott. 2002 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^21-9]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+In deroga all’articolo 78 LPGA, la responsabilità è disciplinata come segue:
+
+- a. la responsabilità dei contabili degli stati maggiori e delle unità militari sottostà alla legge militare del 3 febbraio 1995[^21-6];
+- b. la responsabilità del CIVI, dell’UFPP, dell’UFSPO e dell’Aggruppamento Difesa sottostà alla legge del 14 marzo 1958[^21-7] sulla responsabilità;
+- c. la responsabilità dei contabili delle organizzazioni di protezione civile sottostà alla LPPC[^21-8].[^21-9]
+
+[^21-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-3]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^21-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-5]: Introdotto dall’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^21-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-7]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21-8]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^21-9]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896). Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+
+#### Art. 21a
+
+**Sistema d’informazione**[^21a-1]
+
+<sup>1</sup> Le persone prestanti servizio possono esercitare il loro diritto all’indennità per il tramite di un sistema d’informazione gestito dall’Ufficio centrale di compensazione.
+
+<sup>2</sup>
+
+Nel sistema d’informazione sono trattati i dati personali e i dati concernenti persone giuridiche necessari per l’esercizio del diritto all’indennità. Essi sono forniti dalla persona prestante servizio o attinti da uno dei sistemi d’informazione o registri seguenti:
+
+- a. il registro dello stato civile di cui all’articolo 39 del Codice civile[^21a-2];
+- b. il sistema nazionale d’informazione per lo sport di cui alla sezione 3 (art. 8–12) della legge federale del 19 giugno 2015[^21a-3] sui sistemi d’informazione della Confederazione nel campo dello sport;
+- c. il registro d’identificazione delle imprese di cui all’articolo 6 della legge federale del 18 giugno 2010[^21a-4] sul numero d’identificazione delle imprese;
+- d. il Sistema di gestione del personale dell’esercito e della protezione civile (PISA) e il sistema d’informazione per l’amministrazione dei servizi di cui al capitolo 2 sezione 1 (art. 12–17) rispettivamente al capitolo 3 sezione 3 (art. 84–89) della legge federale del 3 ottobre 2008[^21a-5] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS;
+- e. il sistema d’informazione di cui all’articolo 80 della legge del 6 ottobre 1995[^21a-6] sul servizio civile;
+- f. il registro degli assicurati di cui all’articolo 49*d* della legge federale del 20 dicembre 1946[^21a-7] sull’assicurazione per la vecchiaia e per i superstiti;
+- g. il registro degli assegni familiari di cui al capitolo 3*a* (art. 21*a*–21*e*) della legge del 24 marzo 2006[^21a-8] sugli assegni familiari.
+
+<sup>3</sup> L’Ufficio centrale di compensazione comunica i dati registrati nel sistema d’informazione alle casse di compensazione AVS competenti.
+
+<sup>4</sup>
+
+Il Consiglio federale disciplina:
+
+- a. la responsabilità in materia di protezione dei dati;
+- b. i dati da registrare e da comunicare;
+- c. la durata di conservazione;
+- d. l’accesso ai dati;
+- e. la collaborazione fra gli utenti;
+- f. la sicurezza dei dati.
+
+[^21a-1]: Introdotto dalla cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21a-3]: [RS 415.1](https://fedlex.data.admin.ch/eli/cc/2016/596)
+[^21a-4]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^21a-5]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^21a-6]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^21a-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21a-8]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 22
 
@@ -914,8 +973,8 @@ Per quanto la presente legge non disponga altrimenti, si applicano per analogia 
 
 A copertura delle loro spese di amministrazione, le casse di compensazione prelevano speciali contributi dai datori di lavoro, dalle persone che esercitano un’attività lucrativa indipendente e dalle persone che non esercitano un’attività lucrativa ad esse affiliate. Per le loro spese di amministrazione, alle casse potranno, inoltre, essere concessi sussidi prelevati dal Fondo di compensazione dell’ordinamento delle indennità per perdita di guadagno[^22-2]. È applicabile l’articolo 69 della LAVS[^22-3].
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
-[^22-2]: Nuova denominazione giusta il n. II lett. a della LF del 18 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^22-1]: Nuovo testo giusta la cifra I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
+[^22-2]: Nuova denominazione giusta la cifra II lett. a della LF del 18 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 23
@@ -930,8 +989,8 @@ A copertura delle loro spese di amministrazione, le casse di compensazione prele
 [^23-3]: Nuovo testo giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^23-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^23-5]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^23-6]: Nuova denominazione giusta il n. I della LF del 19 giu. 1987, in vigore dal 1° gen. 1988 ([RU 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [FF 1985 I 653](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
-[^23-7]: Parte di per. abrogata dal n. I della LF del 18 dic. 1998, con effetto dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+[^23-6]: Nuova denominazione giusta la cifra I della LF del 19 giu. 1987, in vigore dal 1° gen. 1988 ([RU 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [FF 1985 I 653](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
+[^23-7]: Parte di per. abrogata dalla cifra I della LF del 18 dic. 1998, con effetto dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
 
 ## Capo terzo: Contenzioso e disposizioni penali
 
@@ -967,7 +1026,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 - a. dai supplementi ai contributi dovuti conformemente alla LAVS[^26-2];
 - b. dal Fondo di compensazione dell’ordinamento delle indennità per perdita di guadagno.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
 [^26-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 27
@@ -976,14 +1035,14 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 <sup>1</sup> Sono tenuti a pagare i contributi gli assicurati e i datori di lavoro di cui agli articoli 3 e 12 della LAVS[^27-2], eccettuate le persone assicurate secondo l’articolo 2 della LAVS.[^27-3]
 
-<sup>2</sup> Per il calcolo dei contributi sono applicabili per analogia le disposizioni della LAVS. Il Consiglio federale stabilisce l’ammontare dei contributi tenendo conto dell’articolo 28. Il contributo sul reddito di un’attività lucrativa non può tuttavia eccedere lo 0,5 per cento. Gli assicurati che non esercitano un’attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo non può eccedere 24 franchi[^27-4] all’anno. Il contributo massimo corrisponde a 50 volte il contributo minimo. I contributi di questi assicurati e i contributi calcolati secondo la tavola scalare sono graduati nello stesso modo dei contributi dell’assicurazione per la vecchiaia e per i superstiti. In tale ambito è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione giusta l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^27-5]
+<sup>2</sup> Per il calcolo dei contributi sono applicabili per analogia le disposizioni della LAVS. Il Consiglio federale stabilisce l’ammontare dei contributi tenendo conto dell’articolo 28. Il contributo sul reddito di un’attività lucrativa non può tuttavia eccedere lo 0,5 per cento. Gli assicurati che non esercitano un’attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo non può eccedere 25 franchi[^27-4] all’anno. Il contributo massimo corrisponde a 50 volte il contributo minimo. I contributi di questi assicurati e i contributi calcolati secondo la tavola scalare sono graduati nello stesso modo dei contributi dell’assicurazione per la vecchiaia e per i superstiti. In tale ambito è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione giusta l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^27-5]
 
 <sup>3</sup> I contributi sono prelevati quali supplementi a quelli dell’assicurazione per la vecchiaia e per i superstiti. Gli articoli 11 e 14–16 della LAVS sono applicabili per analogia, comprese le deroghe alla LPGA[^27-6] che vi figurano.[^27-7]
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^27-3]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Contributo giusta l’art. 9 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^27-4]: Contributo giusta l’art. 9 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^27-5]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-7]: Introdotto dal n. VII della LF del 4 ott. 1968 che modifica quella sull’AVS ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo del per. giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
@@ -998,14 +1057,14 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 <sup>3</sup> L’amministrazione del Fondo di compensazione IPG è retta dalla legge del 16 giugno 2017[^28-2] sui fondi di compensazione.
 
-[^28-1]: Nuovo testo giusta l’all. n. II 6 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^28-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^28-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
 ## Capo quinto: Rapporto con il diritto europeo
 
-[^chap6-1]
+[^chap5-1]
 
-[^chap6-1]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap5-1]: Introdotto dalla cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 28a
 
@@ -1043,9 +1102,9 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 ## Capo sesto: Disposizioni finali e transitorie
 
-[^chap6-2]
+[^chap6-1]
 
-[^chap6-2]: Originario Capo quinto.
+[^chap6-1]: Originario Capo quinto.
 
 #### Art. 29
 
@@ -1065,26 +1124,26 @@ Si applicano per analogia le disposizioni della LAVS[^29-2] concernenti:
 
 Gli articoli 50*a* e 50*b* LAVS[^29a-2] sono applicabili per analogia.
 
-[^29a-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^29a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000 ([RU 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^29a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 30
 
 [^30-1]
 
-[^30-1]: Abrogato dal n. I della LF del 18 dic. 1968, con effetto dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
+[^30-1]: Abrogato dalla cifra I della LF del 18 dic. 1968, con effetto dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
 
 #### Art. 31
 
 [^31-1]
 
-[^31-1]: Abrogato dal n. II 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^31-1]: Abrogato dalla cifra II n. 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 32
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. II art. 6 n. 8 della LF del 25 giu. 1971 sulla revisione dei titoli X e X<sup>bis</sup> del CO (Contratto di lavoro), con effetto dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_193_201_249)).
+[^32-1]: Abrogato dalla cifra II art. 6 n. 8 della LF del 25 giu. 1971 sulla revisione dei titoli X e X<sup>bis</sup> del CO (Contratto di lavoro), con effetto dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1967 II 249](https://fedlex.data.admin.ch/eli/fga/1967/2_193_201_249)).
 
 #### Art. 33
 
@@ -1102,13 +1161,13 @@ I decreti cantonali concernenti l’istituzione delle casse cantonali di compens
 
 <sup>3</sup> Il Consiglio federale è incaricato di eseguire la presente legge ed emana le disposizioni necessarie.
 
-[^34-1]: Abrogato dal n. I della LF del 18 dic. 1968, con effetto dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+[^34-1]: Abrogato dalla cifra I della LF del 18 dic. 1968, con effetto dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
 
 ## Disposizione finale della modifica del 20 marzo 1981
 
 [^u1-1]
 
-[^u1-1]: [RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 3; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogate dal n. II 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u1-1]: [RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 3; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogate dalla cifra II 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni finali della modifica del 3 ottobre 2003
 

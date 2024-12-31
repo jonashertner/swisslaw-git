@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/fr"
 
 (LAPG)[^t-1]
 
-du 25 septembre 1952 (État le 1<sup>er</sup> juillet 2024)
+du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -75,7 +75,7 @@ Les personnes qui effectuent un service dans l’armée suisse ou dans le Servic
 
 <sup>3</sup> Les personnes qui effectuent un service de protection civile ont droit à une allocation pour chaque jour entier pour lequel elles reçoivent la solde conformément à l’art. 39, al. 1, let. a, de la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile (LPPCi)[^1a-7]. Les employés des autorités cantonales et communales responsables de la protection civile engagés dans le cadre d’interventions de la protection civile en faveur de la collectivité au sens de l’art. 53, al. 3, LPPCi, n’ont pas droit à cette allocation.[^1a-8]
 
-<sup>4</sup> Les participants aux cours fédéraux et cantonaux pour moniteurs «Jeunesse et sport», au sens de l’art. 9 de la loi du 17 juin 2011 sur l’encouragement du sport[^1a-9] ainsi que les participants aux cours pour moniteurs de jeunes tireurs au sens de l’art. 64 de la loi fédérale du 3 février 1995 sur l’armée[^1a-10] sont assimilés aux personnes désignées à l’al. 1.[^1a-11]
+<sup>4</sup> Les personnes qui participent aux cours fédéraux et cantonaux de formation des cadres «Jeunesse et sport» au sens de l’art. 9 de la loi du 17 juin 2011 sur l’encouragement du sport[^1a-9], ainsi que celles qui participent aux cours pour moniteurs de jeunes tireurs au sens de l’art. 64 de la loi du 3 février 1995 sur l’armée[^1a-10] sont assimilées aux personnes visées à l’al. 1.[^1a-11]
 
 <sup>4bis</sup> Le droit à une allocation s’éteint avec la perception de la totalité de la rente de vieillesse de l’assurance-vieillesse et survivants, mais au plus tard à l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1a-12].[^1a-13]
 
@@ -91,7 +91,7 @@ Les personnes qui effectuent un service dans l’armée suisse ou dans le Servic
 [^1a-8]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 20 déc. 2019 sur la protection de la population et sur la protection civile, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 515](https://fedlex.data.admin.ch/eli/fga/2019/113)).
 [^1a-9]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^1a-10]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1a-11]: Nouvelle teneur selon art. 34 ch. 4 de la LF du 17 juin 2011 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^1a-11]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^1a-12]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^1a-13]: Introduit par le ch. II 2 de la LF du 27 sept. 2013 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
@@ -278,7 +278,7 @@ Durant les périodes de service restantes, l’allocation journalière totale ne
 <sup>2</sup> Le Conseil fédéral peut adapter le montant maximum à l’évolution des salaires, à des intervalles d’au moins deux ans, dès le début d’une année et à condition que le niveau des salaires qui a déterminé la dernière adaptation ait subi, pendant ce temps, une modification d’au moins 12 %.
 
 [^16a-1]: Introduit par le ch. I de la LF du 3 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^16a-3]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### III*a*. L’allocation de maternité
@@ -382,7 +382,7 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 
 <sup>2</sup> L’allocation est réduite si elle dépasse le montant maximal prévu à l’al. 1.
 
-[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 
 #### Art. 16g
 
@@ -398,7 +398,11 @@ L’allocation de maternité exclut le versement des indemnités journalières:
 - d. de l’assurance militaire;
 - e. du régime des allocations au sens des art. 9 et 10;
 - f.[^16g-1] du régime des allocations au sens des art. 16*n* à 16*s* si elle concerne le même enfant.
-- [tab] <sup>2</sup> Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation de maternité, le montant de l’allocation s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément aux lois suivantes:
+
+<sup>2</sup>
+
+Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation de maternité, le montant de l’allocation s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément aux lois suivantes:
+
 - a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16g-2];
 - b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16g-3];
 - c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16g-4];
@@ -769,9 +773,12 @@ Les ayants droit font valoir leur droit auprès de la caisse de compensation com
 
 <sup>2</sup> Le Conseil fédéral désignera la caisse de compensation compétente et réglera la procédure. Il peut édicter des prescriptions sur le règlement des litiges relatifs à la compétence territoriale et déroger à l’art. 35 LPGA[^17-2].[^17-3]
 
+<sup>3</sup> Les personnes qui effectuent un service peuvent faire valoir leur droit au moyen du système d’information prévu à l’art. 21*a*.[^17-4]
+
 [^17-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^17-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^17-3]: Phrase introduite par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^17-4]: Introduit par le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 18
 
@@ -794,8 +801,10 @@ L’allocation est versée à l’ayant droit, à l’exception des cas suivants
 
 - a. si l’ayant droit en décide ainsi, l’allocation peut être versée à ses proches;
 - b. si l’ayant droit ne remplit pas ses obligations d’entretien, les allocations accordées à ce titre sont, sur demande, versées aux intéressés, même s’ils ne dépendent pas de l’assistance publique ou privée, ou à leurs représentants légaux, en dérogation à l’art. 20, al. 1, LPGA[^19-2].
-- [tab] <sup>2</sup> L’allocation est payée par la caisse de compensation auprès de laquelle la demande doit être présentée. Les ayants droit qui, avant la naissance du droit, exerçaient une activité salariée reçoivent l’allocation de leur employeur, à moins que des motifs particuliers ne commandent le paiement par les soins de la caisse de compensation.
-- [tab] <sup>3</sup> L’allocation n’est versée que si l’intéressé fait valoir sa prétention conformément aux prescriptions légales et qu’il prouve que les conditions y relatives sont remplies.
+
+<sup>2</sup> L’allocation est payée par la caisse de compensation auprès de laquelle la demande doit être présentée. Les ayants droit qui, avant la naissance du droit, exerçaient une activité salariée reçoivent l’allocation de leur employeur, à moins que des motifs particuliers ne commandent le paiement par les soins de la caisse de compensation.
+
+<sup>3</sup> L’allocation n’est versée que si l’intéressé fait valoir sa prétention conformément aux prescriptions légales et qu’il prouve que les conditions y relatives sont remplies.
 
 [^19-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^19-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -858,17 +867,19 @@ En dérogation à l’art. 24 LPGA[^20-2], le droit aux allocations non versées
 
 Les cantons sont responsables des dommages subis au titre du régime d’allocation pour perte de gain qui découlent des faits suivants:
 
-- a. non-respect des prescriptions relatives à la convocation à des interventions de la protection civile au sens des art. 27, al. 2, 27*a*, al. 1, let. b, et 33 à 36 LPPCi[^20a-2];
-- b. non-respect des prescriptions relatives à l’autorisation d’interventions en faveur de la collectivité au sens de l’art. 27*a*, al. 1, let. b, LPPCi;
+- a.[^20a-2] non-respect des prescriptions relatives à la convocation à des interventions de la protection civile au sens des art. 46, al. 2, et 49 à 53 LPPCi[^20a-3];
+- b.[^20a-4] non-respect des prescriptions relatives à l’autorisation d’interventions en faveur de la collectivité au sens de l’art. 53, al. 3, LPPCi;
 - c. agissements illégaux des comptables d’organisations de protection civile.
 
 <sup>2</sup> Le droit à réparation se prescrit un an après que l’Office fédéral des assurances sociales a eu connaissance du dommage, mais au plus tard dix ans après le dommage. S’il naît d’un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, ce délai est déterminant.
 
-<sup>3</sup> L’Office fédéral des assurances sociales fait valoir sa créance en réparation du dommage par voie de décision. La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^20a-3].
+<sup>3</sup> L’Office fédéral des assurances sociales fait valoir sa créance en réparation du dommage par voie de décision. La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^20a-5].
 
 [^20a-1]: Introduit par le ch. II 2 de la LF du 27 sept. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^20a-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^20a-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20a-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^20a-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^20a-4]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^20a-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Chapitre 2 L’organisation
 
@@ -876,32 +887,86 @@ Les cantons sont responsables des dommages subis au titre du régime d’allocat
 
 **Organes et dispositions applicables**
 
-<sup>1</sup> L’application de la présente loi incombe aux organes de l’assurance-vieillesse et survivants, avec la collaboration des états-majors et unités militaires. Pour la protection civile, l’exécution a lieu en collaboration avec les comptables des organismes de protection; pour le service civil, en collaboration avec l’Office fédéral du service civil[^21-1] et les établissements d’affectation.[^21-2]
+<sup>1</sup>
+
+L’application de la présente loi incombe aux organes de l’assurance-vieillesse et survivants, en collaboration:
+
+- a. avec les comptables des états-majors et unités militaires, pour les services dans l’armée suisse ou pour le Service de la Croix-Rouge;
+- b. avec l’Office fédéral du service civil (CIVI), pour le service civil;
+- c. avec l’Office fédéral de la protection de la population (OFPP) et les comptables des organisations de protection civile, pour la protection civile;
+- d. avec l’Office fédéral du sport (OFSPO), pour la formation des cadres «Jeunesse et sport»;
+- e. avec le Groupement Défense, pour les cours pour moniteurs de jeunes tireurs.[^21-1]
 
 <sup>2</sup>
 
-À moins que la présente loi n’en dispose autrement, sont applicables par analogie les dispositions de la LAVS[^21-3] qui concernent:
+À moins que la présente loi n’en dispose autrement, sont applicables par analogie les dispositions de la LAVS[^21-2] qui concernent:
 
 - a. les systèmes d’information (art. 49*a*, 49*b* et 72*a*, al. 2, let. b, LAVS);
 - b. le registre des prestations courantes en espèces (art. 49*c* LAVS);
 - c. l’utilisation systématique du numéro AVS (art. 50*c* et 153*b* à 153*i* LAVS);
 - d. les employeurs (art. 51 et 52 LAVS);
 - e. les caisses de compensation (art. 53 à 70 LAVS);
-- f. la Centrale de compensation (art. 71 LAVS).[^21-4]
+- f. la Centrale de compensation (art. 71 LAVS).[^21-3]
 
-<sup>2bis</sup> La responsabilité des organes de l’AVS au sens de l’art. 49 LAVS est réglée à l’art. 78 LPGA[^21-5], ainsi qu’aux art. 52, 70 et 71*a* LAVS, qui s’appliquent par analogie.[^21-6]
+<sup>2bis</sup> La responsabilité des organes de l’AVS au sens de l’art. 49 LAVS est réglée à l’art. 78 LPGA[^21-4], ainsi qu’aux art. 52, 70 et 71*a* LAVS, qui s’appliquent par analogie.[^21-5]
 
-<sup>3</sup> En dérogation à l’art. 78 LPGA, la responsabilité des comptables des états-majors et des unités est soumise à la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^21-7], celle des comptables des organismes de protection civile, à la loi du 17 juin 1994 sur la protection civile[^21-8].[^21-9]
+<sup>3</sup>
 
-[^21-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^21-2]: Phrase introduite par l’art. 93 de la LF du 23 mars 1962 sur la protection civile ([RO 1962 1127](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [FF 1961 II 693](https://fedlex.data.admin.ch/eli/fga/1961/2_693_693_1417)). Nouvelle teneur selon le ch. II 2 de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^21-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-6]: Introduit par l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-7]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-8]: [[RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 14. [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 ch. 1]. Voir actuellement la LF du 4 oct. 2002 sur la protection de la population et sur la protection civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^21-9]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+En dérogation à l’art. 78 LPGA, les responsabilités sont régies comme suit:
+
+- a. la responsabilité des comptables des états-majors et des unités militaires est soumise à la loi du 3 février 1995 sur l’armée[^21-6];
+- b. la responsabilité du CIVI, de l’OFPP, de l’OFSPO et du Groupement Défense est soumise à la loi du 14 mars 1958 sur la responsabilité[^21-7];
+- c. la responsabilité des comptables des organisations de protection civile est soumise à la LPPCi[^21-8].[^21-9]
+
+[^21-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^21-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-5]: Introduit par l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^21-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-7]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21-8]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^21-9]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+
+#### Art. 21a
+
+**Système d’information**[^21a-1]
+
+<sup>1</sup> La Centrale de compensation exploite un système d’information destiné à permettre aux personnes qui effectuent un service de faire valoir leur droit à l’indemnisation.
+
+<sup>2</sup>
+
+Les données personnelles et les données concernant des personnes morales nécessaires à l’exercice du droit à l’indemnisation sont traitées dans le système d’information. Elles sont fournies par la personne qui effectue un service ou reprises des systèmes d’information ou registres suivants:
+
+- a. registre de l’état civil prévu à l’art. 39 du code civil[^21a-2];
+- b. système d’information national pour le sport prévu à la section 3 (art. 8 à 12) de la loi fédérale du 19 juin 2015 sur les systèmes d’information de la Confédération dans le domaine du sport[^21a-3];
+- c. registre d’identification des entreprises prévu à l’art. 6 de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^21a-4];
+- d. système d’information sur le personnel de l’armée et de la protection civile et système d’information pour l’administration des prestations prévus aux chapitres 2, section 1 (art. 12 à 17), et 3, section 3 (art. 84 à 89) de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS[^21a-5];
+- e. système d’information prévu à l’art. 80 de la loi fédérale du 6 octobre 1995 sur le service civil[^21a-6];
+- f. registre des assurés prévu à l’art. 49*d* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^21a-7];
+- g. registre des allocations familiales prévu au chap. 3*a* (art. 21*a* à 21*e*) de la loi du 24 mars 2006 sur les allocations familiales[^21a-8].
+
+<sup>3</sup> La Centrale de compensation communique les données du système d’information aux caisses de compensation de l’AVS compétentes.
+
+<sup>4</sup>
+
+Le Conseil fédéral réglemente:
+
+- a. les responsabilités en matière de protection des données;
+- b. les données à saisir et à communiquer;
+- c. la durée de conservation des données;
+- d. l’accès aux données;
+- e. la collaboration entre les utilisateurs;
+- f. la sécurité des données.
+
+[^21a-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21a-3]: [RS 415.1](https://fedlex.data.admin.ch/eli/cc/2016/596)
+[^21a-4]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^21a-5]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^21a-6]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^21a-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21a-8]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 22
 
@@ -971,14 +1036,14 @@ Les prestations prévues par la présente loi sont couvertes par:
 
 <sup>1</sup> Les assurés et les employeurs visés aux art. 3 et 12 LAVS[^27-2] sont soumis à l’obligation de payer des cotisations, à l’exception des personnes assurées selon l’art. 2 LAVS.[^27-3]
 
-<sup>2</sup> Les dispositions de la LAVS sont applicables par analogie à la fixation des cotisations. Le Conseil fédéral en établit le montant en tenant compte de l’art. 28. La cotisation perçue sur le revenu d’une activité lucrative ne peut dépasser 0,5 %. Les assurés n’exerçant aucune activité lucrative paient une cotisation en fonction de leur condition sociale. La cotisation minimale ne peut être supérieure à 24 francs[^27-4] par an. La cotisation maximale correspond à 50 fois la cotisation minimale. Les cotisations de ces assurés et les cotisations calculées selon le barème dégressif sont échelonnées de la même manière que les cotisations dues à l’assurance-vieillesse et survivants. En l’occurrence, il y a lieu de maintenir le rapport entre le taux en pour cent mentionné ci-dessus et le taux de cotisation non réduit fixé à l’art. 8, al. 1, LAVS. L’art. 9<sup>bis</sup> LAVS est applicable par analogie.[^27-5]
+<sup>2</sup> Les dispositions de la LAVS sont applicables par analogie à la fixation des cotisations. Le Conseil fédéral en établit le montant en tenant compte de l’art. 28. La cotisation perçue sur le revenu d’une activité lucrative ne peut dépasser 0,5 %. Les assurés n’exerçant aucune activité lucrative paient une cotisation en fonction de leur condition sociale. La cotisation minimale ne peut être supérieure à 25 francs[^27-4] par an. La cotisation maximale correspond à 50 fois la cotisation minimale. Les cotisations de ces assurés et les cotisations calculées selon le barème dégressif sont échelonnées de la même manière que les cotisations dues à l’assurance-vieillesse et survivants. En l’occurrence, il y a lieu de maintenir le rapport entre le taux en pour cent mentionné ci-dessus et le taux de cotisation non réduit fixé à l’art. 8, al. 1, LAVS. L’art. 9<sup>bis</sup> LAVS est applicable par analogie.[^27-5]
 
 <sup>3</sup> Les cotisations sont perçues sous la forme d’un supplément aux cotisations de l’assurance-vieillesse et survivants. Les art. 11 et 14 à 16 LAVS, y compris les dérogations à la LPGA[^27-6], sont applicables par analogie.[^27-7]
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 6 mars 1959 en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1959 589](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [FF 1958 II 1349](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^27-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Montant adapté selon l’art. 9 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^27-4]: Montant adapté selon l’art. 9 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^27-5]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-7]: Introduit par le ch. VII de la LF du 4 oct. 1968 modifiant la loi sur l’AVS ([RO 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 627](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nouvelle teneur de la phrase selon l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).

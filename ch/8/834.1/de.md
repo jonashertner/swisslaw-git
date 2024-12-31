@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Juli 2024)
+vom 25. September 1952 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -75,7 +75,7 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 
 <sup>3</sup> Personen, die Schutzdienst leisten, haben jeden ganzen Tag, für den sie Sold nach Artikel 39 Absatz 1 Buchstabe a des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^1a-7] (BZG) beziehen, Anspruch auf eine Entschädigung. Ausgenommen ist das Personal der für den Zivilschutz zuständigen kantonalen und kommunalen Stellen, das im Rahmen von Einsätzen des Zivilschutzes zugunsten der Gemeinschaft nach Artikel 53 Absatz 3 BZG eingesetzt wird.[^1a-8]
 
-<sup>4</sup> Teilnehmer an eidgenössischen und kantonalen Kaderkursen von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011[^1a-9] sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995[^1a-10] sind den in Absatz 1 genannten Personen gleichgestellt.[^1a-11]
+<sup>4</sup> Personen, die an eidgenössischen und kantonalen Kursen der Kaderbildung von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011[^1a-9] sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995[^1a-10] teilnehmen, sind den in Absatz 1 genannten Personen gleichgestellt.[^1a-11]
 
 <sup>4bis</sup> Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer ganzen Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^1a-12] über die Alters- und Hinterlassenenversicherung (AHVG).[^1a-13]
 
@@ -91,7 +91,7 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 [^1a-8]: Fassung gemäss Anhang Ziff. II 3 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dez. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [BBl 2019 8687](https://fedlex.data.admin.ch/eli/fga/2019/2993)).
 [^1a-9]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^1a-10]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1a-11]: Fassung gemäss Art. 34 Ziff. 4 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^1a-11]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^1a-12]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^1a-13]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Anhang Ziff. 8 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
@@ -280,7 +280,7 @@ Während der anderen Dienste darf die tägliche Gesamtentschädigung folgende Pr
 <sup>2</sup> Der Bundesrat kann frühestens nach je zwei Jahren den Höchstbetrag der Gesamtentschädigung auf Jahresbeginn der Lohnentwicklung anpassen, wenn sich das Lohnniveau, das für die letzte Festsetzung massgebend war, in dieser Zeit um mindestens 12 Prozent geändert hat.
 
 [^16a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^16a-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### III*a*. Die Mutterschaftsentschädigung
@@ -365,7 +365,7 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 <sup>3</sup> Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt; er endet jedoch nicht vorzeitig, wenn die Mutter als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.[^16d-2]
 
 [^16d-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16d-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Mutterschaftsentschädigung von Parlamentarierinnen), in Kraft seit 1. Juli 2024 (AS **202****4** 151; [BBl 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
+[^16d-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Mutterschaftsentschädigung von Parlamentarierinnen), in Kraft seit 1. Juli 2024 ([AS 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [BBl 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 
@@ -383,7 +383,7 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 
 <sup>2</sup> Die Mutterschaftsentschädigung wird gekürzt, soweit sie den Höchstbetrag nach Absatz 1 übersteigt.
 
-[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 
 #### Art. 16g
 
@@ -774,9 +774,12 @@ Leistungsberechtigte machen ihren Anspruch bei der zuständigen Ausgleichskasse 
 
 <sup>2</sup> Der Bundesrat bestimmt, welche Ausgleichskasse zuständig ist, und regelt das Verfahren. Er kann Vorschriften über die Erledigung von Streitigkeiten bezüglich der örtlichen Zuständigkeit erlassen und dabei von Artikel 35 ATSG[^17-2] abweichen.[^17-3]
 
+<sup>3</sup> Dienstleistende können ihren Anspruch über das Informationssystem nach Artikel 21*a* geltend machen.[^17-4]
+
 [^17-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^17-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^17-3]: Zweiter Satz eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^17-4]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 18
 
@@ -866,17 +869,19 @@ In Abweichung von Artikel 24 ATSG[^20-2] erlischt der Anspruch auf nicht bezogen
 
 Die Kantone haften für Schäden, die der Erwerbsersatzordnung entstanden sind oder zugefügt wurden:
 
-- a. durch die Missachtung von Vorschriften beim Aufgebot für Zivilschutzeinsätze nach den Artikeln 27 Absatz 2, 27*a* Absatz 1 Buchstabe b und 33–36 BZG[^20a-2];
-- b. durch die Missachtung von Vorschriften bei der Bewilligung von Einsätzen zugunsten der Gemeinschaft nach Artikel 27*a* Absatz 1 Buchstabe b BZG;
+- a.[^20a-2] durch die Missachtung von Vorschriften beim Aufgebot für Zivilschutzeinsätze nach den Artikeln 46 Absatz 2 und 49–53 BZG[^20a-3];
+- b.[^20a-4] durch die Missachtung von Vorschriften bei der Bewilligung von Einsätzen zugunsten der Gemeinschaft nach Artikel 53 Absatz 3 BZG;
 - c. widerrechtlich durch die Rechnungsführer der Zivilschutzorganisationen.
 
 <sup>2</sup> Der Schadenersatzanspruch verjährt ein Jahr, nachdem das Bundesamt für Sozialversicherungen vom Schaden Kenntnis erhalten hat, spätestens aber zehn Jahre nach Eintritt des Schadens. Wird der Schadenersatzanspruch aus einer strafbaren Handlung hergeleitet, für die das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
 
-<sup>3</sup> Das Bundesamt für Sozialversicherungen macht den Schadenersatz durch Erlass einer Verfügung geltend. Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^20a-3].
+<sup>3</sup> Das Bundesamt für Sozialversicherungen macht den Schadenersatz durch Erlass einer Verfügung geltend. Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^20a-5].
 
 [^20a-1]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^20a-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^20a-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20a-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^20a-3]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^20a-4]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^20a-5]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Zweiter Abschnitt: Die Organisation
 
@@ -884,32 +889,86 @@ Die Kantone haften für Schäden, die der Erwerbsersatzordnung entstanden sind o
 
 **Organe und anwendbare Bestimmungen**
 
-<sup>1</sup> Die Durchführung der Erwerbsersatzordnung erfolgt durch die Organe der Alters- und Hinterlassenenversicherung unter Mitwirkung der Rechnungsführer der militärischen Stäbe und Einheiten. Für den Zivilschutz erfolgt die Durchführung unter Mitwirkung der Rechnungsführer der Schutzorganisationen und für den Zivildienst unter Mitwirkung des Bundesamtes für Zivildienst[^21-1] und der Einsatzbetriebe.[^21-2]
+<sup>1</sup>
+
+Die Durchführung der Erwerbsersatzordnung erfolgt durch die Organe der Alters- und Hinterlassenenversicherung und:
+
+- a. für die Dienste in der schweizerischen Armee oder im Rotkreuzdienst: unter Mitwirkung der Rechnungsführer der militärischen Stäbe und Einheiten;
+- b. für den Zivildienst: unter Mitwirkung des Bundesamtes für Zivildienst (ZIVI);
+- c. für den Zivilschutz: unter Mitwirkung des Bundesamtes für Bevölkerungsschutz (BABS) und der Rechnungsführer der Zivilschutzorganisationen;
+- d. für die Kaderbildung von «Jugend und Sport»: unter Mitwirkung des Bundesamtes für Sport (BASPO);
+- e. für die Jungschützenleiterkurse: unter Mitwirkung der Gruppe Verteidigung.[^21-1]
 
 <sup>2</sup>
 
-Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss folgende Bestimmungen des AHVG[^21-3] über:
+Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss folgende Bestimmungen des AHVG[^21-2] über:
 
 - a. die Informationssysteme (Art. 49*a*, 49*b* und 72*a* Abs. 2 Bst. b AHVG);
 - b. das Register der laufenden Geldleistungen (Art. 49*c* AHVG);
 - c. die systematische Verwendung der AHV-Nummer (Art. 50*c* und 153*b* – 153*i* AHVG);
 - d. die Arbeitgeber (Art. 51 und 52 AHVG);
 - e. die Ausgleichskassen (Art. 53–70 AHVG); und
-- f. die Zentrale Ausgleichsstelle (Art. 71 AHVG).[^21-4]
+- f. die Zentrale Ausgleichsstelle (Art. 71 AHVG).[^21-3]
 
-<sup>2bis</sup> Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG[^21-5] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.[^21-6]
+<sup>2bis</sup> Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG[^21-4] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.[^21-5]
 
-<sup>3</sup> In Abweichung von Artikel 78 ATSG untersteht die Haftung der Rechnungsführer der militärischen Stäbe und Einheiten dem Militärgesetz vom 3. Februar 1995[^21-7]; die Haftung der Rechnungsführer der Schutzorganisation untersteht dem Zivilschutzgesetz vom 17. Juni 1994[^21-8].[^21-9]
+<sup>3</sup>
 
-[^21-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
-[^21-2]: Zweiter Satz eingefügt durch Art. 93 des BG vom 23. März 1962 über den Zivilschutz ([AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [BBl 1961 II 693](https://fedlex.data.admin.ch/eli/fga/1961/2_693_693_1417)). Fassung gemäss Ziff. II 2 des BG vom 3. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^21-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-6]: Eingefügt durch Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-7]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-8]: [[AS 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 14. [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)Art. 76 Ziff. 1]. Siehe heute: das BG vom 4. Okt. 2002 über den Bevölkerungsschutz und den Zivilschutz ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+In Abweichung von Artikel 78 ATSG ist die Haftung wie folgt geregelt:
+
+- a. Die Haftung der Rechnungsführer der militärischen Stäbe und Einheiten untersteht dem Militärgesetz vom 3. Februar 1995[^21-6].
+- b. Die Haftung des ZIVI, des BABS, des BASPO und der Gruppe Verteidigung untersteht dem Verantwortlichkeitsgesetz vom 14. März 1958[^21-7].
+- c. Die Haftung der Rechnungsführer der Zivilschutzorganisationen untersteht dem BZG[^21-8].[^21-9]
+
+[^21-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^21-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-5]: Eingefügt durch Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^21-6]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-7]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21-8]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+
+#### Art. 21a
+
+**Informationssystem**[^21a-1]
+
+<sup>1</sup> Die Zentrale Ausgleichsstelle führt ein Informationssystem, über das Dienstleistende ihren Entschädigungsanspruch geltend machen können.
+
+<sup>2</sup>
+
+Die Personendaten und die Daten juristischer Personen, die für die Geltendmachung des Anspruchs auf Entschädigung erforderlich sind, werden im Informationssystem bearbeitet. Sie werden von der dienstleistenden Person zur Verfügung gestellt oder aus einem der folgenden Informationssysteme oder Register übernommen:
+
+- a. aus dem Personenstandsregister nach Artikel 39 des Zivilgesetzbuches[^21a-2];
+- b. aus dem nationalen Informationssystem für Sport nach den Bestimmungen des 3. Abschnitts (Art. 8–12) des Bundesgesetzes vom 19. Juni 2015[^21a-3] über die Informationssysteme des Bundes im Bereich Sport;
+- c. aus dem Unternehmensidentifikationsregister nach Artikel 6 des Bundesgesetzes vom 18. Juni 2010[^21a-4] über die Unternehmens-Identifikationsnummer;
+- d. aus dem Personalinformationssystem der Armee und des Zivilschutzes sowie aus dem Informationssystem Administration für Dienstleistungen nach den Bestimmungen des 1. Abschnitts des 2. Kapitels (Art. 12–17) und des 3. Abschnitts des 3. Kapitels (Art. 84–89) des Bundesgesetzes vom 3. Oktober 2008[^21a-5] über militärische und andere Informationssysteme im VBS;
+- e. aus dem Informationssystem nach Artikel 80 des Zivildienstgesetzes vom 6. Oktober 1995[^21a-6];
+- f. aus dem Versichertenregister nach Artikel 49*d* des Bundesgesetzes vom 20. Dezember 1946[^21a-7] über die Alters- und Hinterlassenenversicherung;
+- g. aus dem Familienzulagenregister nach den Bestimmungen des 3*a*. Kapitels (Art. 21*a*–21*e*) des Familienzulagengesetzes vom 24. März 2006[^21a-8].
+
+<sup>3</sup> Die Zentrale Ausgleichsstelle gibt die Daten aus dem Informationssystem den jeweils zuständigen AHV-Ausgleichskassen bekannt.
+
+<sup>4</sup>
+
+Der Bundesrat regelt:
+
+- a. die Verantwortung für den Datenschutz;
+- b. die zu erfassenden und die zu meldenden Daten;
+- c. die Aufbewahrungsdauer;
+- d. den Zugriff auf die Daten;
+- e. die Zusammenarbeit unter den Nutzerinnen und Nutzern;
+- f. die Datensicherheit.
+
+[^21a-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21a-3]: [SR 415.1](https://fedlex.data.admin.ch/eli/cc/2016/596)
+[^21a-4]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^21a-5]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^21a-6]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^21a-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21a-8]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 22
 
@@ -964,7 +1023,7 @@ Die Artikel 87–91 des AHVG[^25-1] finden Anwendung auf Personen, die in einer 
 
 **Grundsatz**[^26-1]
 
-Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
+Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 
 - a. Zuschläge zu den Beiträgen gemäss AHVG[^26-2];
 - b. Mittel des Ausgleichsfonds der Erwerbsersatzordnung.
@@ -978,14 +1037,14 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 
 <sup>1</sup> Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^27-2] genannten Versicherten und Arbeitgeber mit Ausnahme der nach Artikel 2 AHVG versicherten Personen.[^27-3]
 
-<sup>2</sup> Für die Bemessung der Beiträge sind die Bestimmungen des AHVG sinngemäss anwendbar. Der Bundesrat setzt die Höhe der Beiträge unter Berücksichtigung von Artikel 28 fest. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit dürfen jedoch 0,5 Prozent nicht übersteigen. Nichterwerbstätige entrichten je nach ihren sozialen Verhältnissen einen Beitrag. Der Mindestbeitrag beträgt höchstens 24 Franken[^27-4] im Jahr. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Die Beiträge dieser Versicherten sowie die Beiträge nach der sinkenden Skala werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei ist das Verhältnis zu wahren zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 des AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^27-5]
+<sup>2</sup> Für die Bemessung der Beiträge sind die Bestimmungen des AHVG sinngemäss anwendbar. Der Bundesrat setzt die Höhe der Beiträge unter Berücksichtigung von Artikel 28 fest. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit dürfen jedoch 0,5 Prozent nicht übersteigen. Nichterwerbstätige entrichten je nach ihren sozialen Verhältnissen einen Beitrag. Der Mindestbeitrag beträgt höchstens 25 Franken[^27-4] im Jahr. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Die Beiträge dieser Versicherten sowie die Beiträge nach der sinkenden Skala werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei ist das Verhältnis zu wahren zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 des AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^27-5]
 
 <sup>3</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^27-6].[^27-7] [^27-8]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
 [^27-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^27-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Beitrag gemäss Art. 9 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^27-4]: Beitrag gemäss Art. 9 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^27-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-7]: Fassung des zweiten Satzes gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
