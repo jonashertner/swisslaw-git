@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2024-05-01
+version: 2025-01-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20240501-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (État le 1<sup>er</sup> mai 2024)
+du 17 novembre 1999 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -233,14 +233,14 @@ En collaboration avec les autres offices concernés, l’OFJ prépare les actes 
 
 <sup>1</sup> L’OFJ exécute les conventions relatives au droit international privé et au droit international de procédure civile, sous réserve de la compétence d’autres offices fédéraux.
 
-<sup>2</sup> ...[^7e-2]
+<sup>2</sup> Il prépare les formulaires pour les actes du tribunal et des parties et fournit des renseignements sur les frais, l’assistance judiciaire et les possibilités d’obtenir un financement pour mener le procès, conformément au code de procédure civile (CPC)[^7e-2].
 
 <sup>3</sup> Il a la compétence d’approuver, dans les cas non litigieux, les projets pilotes des cantons prévus à l’art. 401 CPC.
 
 <sup>4</sup> Il exerce la surveillance du centre de renseignements sur le crédit à la consommation conformément à l’art. 23, al. 2 et 4, de la loi fédérale du 23 mars 2001 sur le crédit à la consommation[^7e-3]; les compétences du Préposé fédéral à la protection des données et à la transparence demeurent réservées.
 
-[^7e-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7e-2]: En vigueur le 1<sup>er</sup> janv. 2025.
+[^7e-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024, sous réserve de l’al. 2, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 [^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
 
 #### Art. 8

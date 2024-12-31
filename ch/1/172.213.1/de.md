@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2024-05-01
+version: 2025-01-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20240501-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 1. Mai 2024)
+vom 17. November 1999 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -233,14 +233,14 @@ Das BJ bereitet in Zusammenarbeit mit den mitinteressierten Ämtern in folgenden
 
 <sup>1</sup> Das BJ vollzieht die Übereinkommen des internationalen Privat- und Zivilprozessrechts, soweit diese nicht in den Zuständigkeitsbereich anderer Bundesämter fallen.
 
-<sup>2</sup> …[^7e-2]
+<sup>2</sup> Es stellt Formulare für Gerichtsurkunden und Parteieingaben sowie Informationen zu den Prozesskosten, den Möglichkeiten der unentgeltlichen Rechtspflege und der Prozessfinanzierung in Zivilverfahren nach der Zivilprozessordnung vom 19. Dezember 2008[^7e-2] (ZPO) zur Verfügung.
 
 <sup>3</sup> Es ist in nichtstreitigen Fällen zuständig für die Genehmigung von kantonalen Pilotprojekten nach Artikel 401 ZPO.
 
 <sup>4</sup> Es übt die Aufsicht über die Informationsstelle für Konsumkredit gemäss Artikel 23 Absatz 2 und 4 des Konsumkreditgesetzes vom 23. März 2001[^7e-3] aus; vorbehalten bleibt die Zuständigkeit des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten.
 
-[^7e-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7e-2]: Tritt am 1. Jan. 2025 in Kraft
+[^7e-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024, Abs. 2 in Kraft seit 1. Jan. 2025 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 [^7e-3]: [SR 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
 
 #### Art. 8

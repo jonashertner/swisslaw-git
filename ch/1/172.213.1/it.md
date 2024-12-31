@@ -4,11 +4,11 @@ title: "Ordinanza del 17 novembre 1999 sull'organizzazione del Dipartimento fede
 short: Org-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: it
-version: 2024-05-01
+version: 2025-01-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20240501-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/it"
 
 (Org-DFGP)
 
-del 17 novembre 1999 (Stato 1° maggio 2024)
+del 17 novembre 1999 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -235,14 +235,14 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 
 <sup>1</sup> L’UFG esegue le convenzioni in materia di diritto internazionale privato e di procedura civile, nella misura in cui non siano di competenza di altri uffici federali.
 
-<sup>2</sup> ...[^7e-2]
+<sup>2</sup> Mette a disposizione i moduli per i documenti giudiziari e per gli atti scritti delle parti, nonché informazioni sulle spese giudiziarie e sulle possibilità di gratuito patrocinio e di finanziamento del processo in procedure civili secondo il Codice di procedura civile[^7e-2] (CPC).
 
 <sup>3</sup> In casi non controversi è competente per l’approvazione di progetti pilota cantonali secondo l’articolo 401 CPC.
 
 <sup>4</sup> Esercita la vigilanza sulla Centrale d’informazione per il credito al consumo secondo l’articolo 23 capoversi 2 e 4 della legge federale del 23 marzo 2001[^7e-3] sul credito al consumo; è fatta salva la competenza dell’Incaricato federale della protezione dei dati e della trasparenza.
 
-[^7e-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7e-2]: In vigore il 1° gen. 2025.
+[^7e-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024, cpv. 2 il 1° gen. 2025 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 [^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
 
 #### Art. 8
