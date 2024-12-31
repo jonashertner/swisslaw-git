@@ -4,13 +4,13 @@ number: II A/6/2
 title: Personalverordnung
 short: PV
 language: de
-version: 2024-06-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-30
+version: 2025-01-01
+valid_until: 2026-06-30
+version_adopted: 2024-08-13
 adopted: 2017-07-06
 in_force: 2017-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.6.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2483/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2660/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2483/pdf_file"
 
 (PV)
 
-Vom 06.07.2017 (Stand 01.06.2024)
+Vom 06.07.2017 (Stand 01.01.2025)
 
 Der Regierungsrat,
 
@@ -154,7 +154,7 @@ erlässt:
 
 <sup>1</sup> Der jährliche Ferienanspruch der Angestellten beträgt:
 
-- a. bis und mit Alter 49 und für Lernende: — 25 Tage;
+- a. bis und mit Alter 49 und für Lernende: — 26 Tage;
 - b. ab Alter 50 bis und mit Alter 59: — 27 Tage;
 - c. ab Alter 60: — 30 Tage.
 
