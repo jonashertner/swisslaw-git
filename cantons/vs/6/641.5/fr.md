@@ -3,20 +3,19 @@ canton: VS
 number: "641.5"
 title: "Loi sur l'imposition des véhicules automobiles"
 language: fr
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2004-09-16
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/641.5"
-pdf: "https://lex.vs.ch/api/fr/versions/2968/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3440/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur l'imposition des véhicules automobiles
 
-du 16.09.2004 (état 01.01.2020)
+du 16.09.2004 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -137,8 +136,8 @@ ordonne:
   - 2\.1. autocars, par place debout — Fr. 5.75
   - 3\. autres véhicules automobiles:
   - 3\.1. jusqu'à 10kW — Fr. 90
-  - 3\.1.1. supplément pour chaque tranche ou fraction de 30kW en plus — Fr. 23
-  - 3\.2. plus de 70kW — Fr. 160
+  - 3\.1.1. supplément pour chaque tranche ou fraction de 30kW en plus — Fr. 15
+  - 3\.2. …
   - 4\. les véhicules à mode de propulsion hybride sont imposés sur la base de la lettre a
 - g) plaques professionnelles:
   - 1\. pour motocycles de tous genres — Fr. 80

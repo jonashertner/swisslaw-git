@@ -3,20 +3,19 @@ canton: VS
 number: "641.5"
 title: Gesetz über die Besteuerung der Motorfahrzeuge
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2004-09-16
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/641.5"
-pdf: "https://lex.vs.ch/api/de/versions/2968/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3440/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Besteuerung der Motorfahrzeuge
 
-vom 16.09.2004 (Stand 01.01.2020)
+vom 16.09.2004 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -137,8 +136,8 @@ verordnet:
   - 2\.1. Autobusse, pro Stehplatz — Fr. 5.75
   - 3\. andere Fahrzeuge:
   - 3\.1. bis 10kW — Fr. 90
-  - 3\.1.1. Zuschlag je zusätzliche 30kW oder einen Bruchteil davon — Fr. 23
-  - 3\.2. mehr als 70kW — Fr. 160
+  - 3\.1.1. Zuschlag je zusätzliche 30kW oder einen Bruchteil davon — Fr. 15
+  - 3\.2. …
   - 4\. Die Hybridfahrzeuge werden gemäss Buchstabe a besteuert
 - g) Händlerschilder:
   - 1\. für Motorräder aller Art — Fr. 80
