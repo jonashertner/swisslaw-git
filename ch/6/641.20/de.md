@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 1. Januar 2024)
+vom 12. Juni 2009 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -41,7 +41,7 @@ beschliesst:
 Als Mehrwertsteuer erhebt er:
 
 - a. eine Steuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer);
-- b. eine Steuer auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfänger und Empfängerinnen im Inland (Bezugsteuer);
+- b.[^1-1] eine Steuer auf dem Bezug von Leistungen im Inland, die von Unternehmen mit Sitz im Ausland erbracht werden, sowie auf dem Erwerb von Emissionsrechten und ähnlichen Rechten (Bezugsteuer);
 - c. eine Steuer auf der Einfuhr von Gegenständen (Einfuhrsteuer).
 
 <sup>3</sup>
@@ -51,6 +51,8 @@ Die Erhebung erfolgt nach den Grundsätzen:
 - a. der Wettbewerbsneutralität;
 - b. der Wirtschaftlichkeit der Entrichtung und der Erhebung;
 - c. der Überwälzbarkeit.
+
+[^1-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 2
 
@@ -101,12 +103,14 @@ Im Sinne dieses Gesetzes bedeuten:
   - 2\. es sich um Beiträge von Passivmitgliedern sowie von Gönnern und Gönnerinnen an Vereine oder an gemeinnützige Organisationen handelt; Beiträge von Gönnern und Gönnerinnen an gemeinnützige Organisationen gelten auch dann als Spende, wenn die gemeinnützige Organisation ihren Gönnern und Gönnerinnen freiwillig Vorteile im Rahmen des statutarischen Zwecks gewährt, sofern sie dem Gönner oder der Gönnerin mitteilt, dass kein Anspruch auf die Vorteile besteht;
 
 - j. gemeinnützige Organisation: Organisation, die die Voraussetzungen erfüllt, welche gemäss Artikel 56 Buchstabe g DBG für die direkte Bundessteuer gelten;
-- k. Rechnung: jedes Dokument, mit dem gegenüber einer Drittperson über das Entgelt für eine Leistung abgerechnet wird, gleichgültig, wie dieses Dokument im Geschäftsverkehr bezeichnet wird.
+- k. Rechnung: jedes Dokument, mit dem gegenüber einer Drittperson über das Entgelt für eine Leistung abgerechnet wird, gleichgültig, wie dieses Dokument im Geschäftsverkehr bezeichnet wird;
+- l.[^3-5] elektronische Plattform: elektronische Schnittstelle, die online direkte Kontakte zwischen mehreren Personen ermöglicht mit dem Ziel, eine Lieferung oder eine Dienstleistung zu erbringen.
 
 [^3-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^3-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^3-5]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 4
 
@@ -124,9 +128,11 @@ Im Sinne dieses Gesetzes bedeuten:
 
 #### Art. 5
 
-**Indexierung**
+**Indexierung**[^5-1]
 
-Der Bundesrat beschliesst die Anpassung der in den Artikeln 31 Absatz 2 Buchstabe c, 37 Absatz 1, 38 Absatz 1 und 45 Absatz 2 Buchstabe b genannten Frankenbeträge, sobald sich der Landesindex der Konsumentenpreise seit der letzten Festlegung um mehr als 30 Prozent erhöht hat.
+Der Bundesrat beschliesst die Anpassung der in den Artikeln 31 Absatz 2 Buchstabe c, 35 Absatz 1<sup>bis</sup> Buchstabe b, 37 Absatz 1, 38 Absatz 1 und 45 Absatz 2 Buchstabe b genannten Frankenbeträge, sobald sich der Landesindex der Konsumentenpreise seit der letzten Festlegung um mehr als 30 Prozent erhöht hat.
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 6
 
@@ -170,12 +176,15 @@ Bei der Lieferung eines Gegenstands vom Ausland ins Inland gilt der Ort der Lief
 Als Ort der nachfolgend aufgeführten Dienstleistungen gilt:
 
 - a. bei Dienstleistungen, die typischerweise unmittelbar gegenüber physisch anwesenden natürlichen Personen erbracht werden, auch wenn sie ausnahmsweise aus der Ferne erbracht werden: der Ort, an dem die dienstleistende Person den Sitz der wirtschaftlichen Tätigkeit oder eine Betriebsstätte hat, oder in Ermangelung eines solchen Sitzes oder einer solchen Betriebsstätte der Wohnort oder der Ort, von dem aus sie tätig wird; als solche Dienstleistungen gelten namentlich: Heilbehandlungen, Therapien, Pflegeleistungen, Körperpflege, Ehe-, Familien- und Lebensberatung, Sozialleistungen und Sozialhilfeleistungen sowie Kinder- und Jugendbetreuung;
-- b. bei Dienstleistungen von Reisebüros und Organisatoren von Veranstaltungen: der Ort, an dem die dienstleistende Person den Sitz der wirtschaftlichen Tätigkeit oder eine Betriebsstätte hat, oder in Ermangelung eines solchen Sitzes oder einer solchen Betriebsstätte der Wohnort oder der Ort, von dem aus sie tätig wird;
-- c. bei Dienstleistungen auf dem Gebiet der Kultur, der Künste, des Sportes, der Wissenschaft, des Unterrichts, der Unterhaltung oder ähnlichen Leistungen, einschliesslich der Leistungen der jeweiligen Veranstalter und der gegebenenfalls damit zusammenhängenden Leistungen: der Ort, an dem diese Tätigkeiten tatsächlich ausgeübt werden;
+- b.[^8-1] bei durch Reisebüros weiterverkauften Reiseleistungen und den damit zusammenhängenden Dienstleistungen der Reisebüros: der Ort, an dem die das Reisebüro betreibende Person den Sitz der wirtschaftlichen Tätigkeit oder eine Betriebsstätte hat, oder in Ermangelung eines solchen Sitzes oder einer solchen Betriebsstätte der Wohnort oder der Ort, von dem aus sie tätig wird;
+- c.[^8-2] bei Dienstleistungen auf dem Gebiet der Kultur, der Künste, des Sportes, der Wissenschaft, des Unterrichts, der Unterhaltung oder ähnlichen Leistungen, die unmittelbar gegenüber vor Ort physisch anwesenden Personen erbracht werden, einschliesslich der Leistungen der jeweiligen Veranstalter und der gegebenenfalls damit zusammenhängenden Leistungen: der Ort, an dem diese Tätigkeiten tatsächlich ausgeübt werden;
 - d. bei gastgewerblichen Leistungen: der Ort, an dem die Dienstleistung tatsächlich erbracht wird;
 - e. bei Personenbeförderungsleistungen: der Ort, an dem die Beförderung gemessen an der zurückgelegten Strecke tatsächlich stattfindet; der Bundesrat kann bestimmen, dass bei grenzüberschreitenden Beförderungen kurze inländische Strecken als ausländische und kurze ausländische Strecken als inländische Strecken gelten;
 - f. bei Dienstleistungen im Zusammenhang mit einem Grundstück: der Ort, an dem das Grundstück gelegen ist; als solche Dienstleistungen gelten namentlich: Vermittlung, Verwaltung, Begutachtung und Schätzung des Grundstückes, Dienstleistungen im Zusammenhang mit dem Erwerb oder der Bestellung von dinglichen Rechten am Grundstück, Dienstleistungen im Zusammenhang mit der Vorbereitung oder der Koordinierung von Bauleistungen wie Architektur-, Ingenieur- und Bauaufsichtsleistungen, Überwachung von Grundstücken und Gebäuden sowie Beherbergungsleistungen;
 - g. bei Dienstleistungen im Bereich der internationalen Entwicklungszusammenarbeit und der humanitären Hilfe: der Ort, für den die Dienstleistung bestimmt ist.
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^8-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 9
 
@@ -214,24 +223,29 @@ Von der Steuerpflicht ist befreit, wer:
 - a. innerhalb eines Jahres im In- und Ausland weniger als 100 000 Franken Umsatz aus Leistungen erzielt, die nicht nach Artikel 21 Absatz 2 von der Steuer ausgenommen sind;
 - b.
 
-  ein Unternehmen mit Sitz im Ausland betreibt, das im Inland, unabhängig vom Umsatz, ausschliesslich eine oder mehrere der folgenden Leistungsarten erbringt:
+  ein Unternehmen mit Sitz, Wohnsitz oder Betriebsstätte im Ausland betreibt, das im Inland, unabhängig vom Umsatz, ausschliesslich eine oder mehrere der folgenden Leistungsarten erbringt:[^10-4]
 
   - 1\. von der Steuer befreite Leistungen,
+  - 1<sup>bis</sup>.[^10-5] von der Steuer ausgenommene Leistungen,
   - 2\. Dienstleistungen, deren Ort sich nach Artikel 8 Absatz 1 im Inland befindet; nicht von der Steuerpflicht befreit ist jedoch, wer Telekommunikations- oder elektronische Dienstleistungen an nicht steuerpflichtige Empfänger und Empfängerinnen erbringt,
   - 3\. Lieferung von Elektrizität in Leitungen, Gas über das Erdgasverteilnetz und Fernwärme an steuerpflichtige Personen im Inland;
 
-- c.[^10-4] als nicht gewinnstrebiger, ehrenamtlich geführter Sport- oder Kulturverein oder als gemeinnützige Institution innerhalb eines Jahres im In- und Ausland weniger als 250 000 Franken Umsatz aus Leistungen erzielt, die nicht nach Artikel 21 Absatz 2 von der Steuer ausgenommen sind.[^10-5]
+- c.[^10-6] als nicht gewinnstrebiger, ehrenamtlich geführter Sport- oder Kulturverein oder als gemeinnützige Organisation innerhalb eines Jahres im In- und Ausland weniger als 250 000 Franken Umsatz aus Leistungen erzielt, die nicht nach Artikel 21 Absatz 2 von der Steuer ausgenommen sind;
+- d.[^10-7] ein Unternehmen mit Sitz, Wohnsitz oder Betriebsstätte im Inland betreibt, das im Inland ausschliesslich von der Steuer ausgenommene Leistungen erbringt.[^10-8]
 
-<sup>2bis</sup> Der Umsatz berechnet sich nach den vereinbarten Entgelten ohne die Steuer.[^10-6]
+<sup>2bis</sup> Der Umsatz berechnet sich nach den vereinbarten Entgelten ohne die Steuer.[^10-9]
 
 <sup>3</sup> Der Sitz im Inland sowie alle inländischen Betriebsstätten bilden zusammen ein Steuersubjekt.
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 228](https://fedlex.data.admin.ch/eli/oc/2022/228); [BBl 2021 1100](https://fedlex.data.admin.ch/eli/fga/2021/1100), [1944](https://fedlex.data.admin.ch/eli/fga/2021/1944)).
-[^10-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-6]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-4]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-5]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-6]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-8]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-9]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 11
 
@@ -259,9 +273,11 @@ Von der Steuerpflicht ist befreit, wer:
 
 **Gruppenbesteuerung**
 
-<sup>1</sup> Rechtsträger mit Sitz oder Betriebsstätte in der Schweiz, die unter einheitlicher Leitung eines Rechtsträgers miteinander verbunden sind, können sich auf Antrag zu einem einzigen Steuersubjekt zusammenschliessen (Mehrwertsteuergruppe). In die Gruppe können auch Rechtsträger, die kein Unternehmen betreiben, und natürliche Personen einbezogen werden.
+<sup>1</sup> Rechtsträger mit Sitz, Wohnsitz oder Betriebsstätte in der Schweiz, die unter einheitlicher Leitung eines Rechtsträgers miteinander verbunden sind, können sich auf Antrag zu einem einzigen Steuersubjekt zusammenschliessen (Mehrwertsteuergruppe). In die Gruppe können auch Rechtsträger, die kein Unternehmen betreiben, und natürliche Personen einbezogen werden.[^13-1]
 
 <sup>2</sup> Der Zusammenschluss zu einer Mehrwertsteuergruppe kann auf den Beginn jeder Steuerperiode gewählt werden. Die Beendigung einer Mehrwertsteuergruppe ist jeweils auf das Ende einer Steuerperiode möglich.
+
+[^13-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 14
 
@@ -309,19 +325,24 @@ Mit der steuerpflichtigen Person haften solidarisch:
 - c.[^15-1] jede zu einer Mehrwertsteuergruppe (Art. 13) gehörende Person oder Personengesellschaft, mit Ausnahme von Vorsorgeeinrichtungen, für sämtliche von der Gruppe geschuldeten Steuern; tritt eine Person oder Personengesellschaft aus der Gruppe aus, so haftet sie nur noch für die Steuerforderungen, die sich aus ihren eigenen unternehmerischen Tätigkeiten ergeben haben;
 - d. bei der Übertragung eines Unternehmens: der bisherige Steuerschuldner oder die bisherige Steuerschuldnerin noch während dreier Jahre seit der Mitteilung oder Auskündigung der Übertragung für die vor der Übertragung entstandenen Steuerforderungen;
 - e. bei Beendigung der Steuerpflicht einer aufgelösten juristischen Person, Handelsgesellschaft oder Personengesamtheit ohne Rechtspersönlichkeit: die mit der Liquidation betrauten Personen bis zum Betrag des Liquidationsergebnisses;
-- f. für die Steuer einer juristischen Person, die ihren Sitz ins Ausland verlegt: die geschäftsführenden Organe bis zum Betrag des reinen Vermögens der juristischen Person.
+- f. für die Steuer einer juristischen Person, die ihren Sitz ins Ausland verlegt: die geschäftsführenden Organe bis zum Betrag des reinen Vermögens der juristischen Person;
+- g.[^15-2] in den Fällen nach Artikel 93 Absatz 1<sup>bis</sup>: die Mitglieder der geschäftsführenden Organe bis zum Betrag der verlangten Sicherheit.
 
 <sup>2</sup> Die in Absatz 1 Buchstaben e und f bezeichneten Personen haften nur für Steuer-, Zins- und Kostenforderungen, die während ihrer Geschäftsführung entstehen oder fällig werden; ihre Haftung entfällt, soweit sie nachweisen, dass sie alles ihnen Zumutbare zur Feststellung und Erfüllung der Steuerforderung getan haben.
 
-<sup>3</sup> Die Haftung nach Artikel 12 Absatz 3 des Bundesgesetzes vom 22. März 1974[^15-2] über das Verwaltungsstrafrecht (VStrR) bleibt vorbehalten.
+<sup>3</sup> Die Haftung nach Artikel 12 Absatz 3 des Bundesgesetzes vom 22. März 1974[^15-3] über das Verwaltungsstrafrecht (VStrR) bleibt vorbehalten.
 
-<sup>4</sup> Tritt eine steuerpflichtige Person Forderungen aus ihrem Unternehmen an Dritte ab, so haften diese subsidiär für die mit den Forderungen mitzedierte Mehrwertsteuer, wenn im Zeitpunkt der Abtretung die Steuerschuld gegenüber der ESTV noch nicht entstanden ist und ein Verlustschein vorliegt.[^15-3]
+<sup>4</sup> Tritt eine steuerpflichtige Person Forderungen aus ihrem Unternehmen an Dritte ab, so haften diese subsidiär für die mit den Forderungen mitzedierte Mehrwertsteuer, wenn im Zeitpunkt der Abtretung die Steuerschuld gegenüber der ESTV noch nicht entstanden ist und ein Verlustschein vorliegt.[^15-4]
+
+<sup>4bis</sup> Verkäufer und Verkäuferinnen, die Lieferungen über eine elektronische Plattform erbringen, haften subsidiär für die Steuer, die von der Person, die nach Artikel 20*a* als Leistungserbringerin gilt, für diese Lieferungen geschuldet ist.[^15-5]
 
 <sup>5</sup> Die mithaftende Person hat im Verfahren die gleichen Rechte und Pflichten wie die steuerpflichtige Person.
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^15-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^15-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^15-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^15-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^15-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^15-5]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 16
 
@@ -362,6 +383,10 @@ Mangels Leistung gelten namentlich die folgenden Mittelflüsse nicht als Entgelt
 - k. Erstattungen, Beiträge und Beihilfen bei Lieferungen ins Ausland, die nach Artikel 23 Absatz 2 Ziffer 1 von der Steuer befreit sind;
 - l. Gebühren, Beiträge oder sonstige Zahlungen, die für hoheitliche Tätigkeiten empfangen werden.
 
+<sup>3</sup> Bezeichnet ein Gemeinwesen von ihm ausgerichtete Mittel gegenüber dem Empfänger oder der Empfängerin ausdrücklich als Subvention oder als anderen öffentlich-rechtlichen Beitrag, so gelten diese Mittel als Subvention oder als anderer öffentlich-rechtlicher Beitrag im Sinne von Absatz 2 Buchstabe a.[^18-1]
+
+[^18-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
 #### Art. 19
 
 **Mehrheit von Leistungen**
@@ -389,6 +414,25 @@ Handelt eine Person im Namen und für Rechnung einer anderen Person, so gilt die
 
 <sup>3</sup> Findet Absatz 1 in einem Dreiparteienverhältnis Anwendung, so wird das Leistungsverhältnis zwischen der nach aussen auftretenden Person und der die eigentliche Leistung erbringenden Person gleich qualifiziert wie das Leistungsverhältnis zwischen der nach aussen auftretenden Person und der leistungsempfangenden Person.
 
+#### Art. 20a
+
+**Zuordnung von Leistungen bei Lieferungen über elektronische Plattformen**[^20a-1]
+
+<sup>1</sup> Wer mit Hilfe einer elektronischen Plattform eine Lieferung nach Artikel 3 Buchstabe d Ziffer 1 ermöglicht, indem er oder sie Verkäufer und Verkäuferinnen mit Käufern und Käuferinnen zu einem Vertragsabschluss auf der Plattform zusammenbringt, gilt gegenüber dem Käufer oder der Käuferin als Leistungserbringer oder Leistungserbringerin. In diesem Fall liegt sowohl zwischen dieser Person und dem Verkäufer oder der Verkäuferin als auch zwischen dieser Person und dem Käufer oder der Käuferin eine Lieferung vor.
+
+<sup>2</sup>
+
+Nicht als Leistungserbringer oder Leistungserbringerin gilt, wer eine oder mehrere der nachfolgenden Bedingungen erfüllt:
+
+- a. Er oder sie ist weder unmittelbar noch mittelbar am Bestellvorgang beteiligt.
+- b. Er oder sie erzielt keinen Umsatz, der unmittelbar mit dem Geschäft zusammenhängt.
+- c. Er oder sie nimmt lediglich die Zahlungsabwicklung im Zusammenhang mit der Lieferung vor.
+- d. Er oder sie stellt lediglich Platz für Anzeigen zur Verfügung.
+- e. Er oder sie erbringt lediglich Werbeleistungen.
+- f. Er oder sie leitet lediglich Käufer und Käuferinnen auf andere elektronische Plattformen um oder weiter.
+
+[^20a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
 #### Art. 21
 
 **Von der Steuer ausgenommene Leistungen**
@@ -399,41 +443,43 @@ Handelt eine Person im Namen und für Rechnung einer anderen Person, so gilt die
 
 Von der Steuer ausgenommen sind:
 
-- 1\. die Beförderung von Gegenständen, die unter die reservierten Dienste nach Artikel 3 des Postgesetzes vom 30. April 1997[^21-1] fällt;
-- 2\. die Spitalbehandlung und die ärztliche Heilbehandlung in Spitälern im Bereich der Humanmedizin einschliesslich der damit eng verbundenen Leistungen, die von Spitälern sowie Zentren für ärztliche Heilbehandlung und Diagnostik erbracht werden. Die Abgabe von selbst hergestellten oder zugekauften Prothesen und orthopädischen Apparaten gilt als steuerbare Lieferung;
+- 1\.[^21-1] die Beförderung von Briefen, die unter den reservierten Dienst nach Artikel 18 des Postgesetzes vom 17. Dezember 2010[^21-2] fällt;
+- 2\.[^21-3] die Spitalbehandlung und die ärztliche Heilbehandlung in Spitälern im Bereich der Humanmedizin einschliesslich der damit eng verbundenen Leistungen, die von Spitälern, Zentren für ärztliche Heilbehandlung und Diagnostik sowie Ambulatorien und Tageskliniken erbracht werden. Die Abgabe von selbst hergestellten oder zugekauften Prothesen und orthopädischen Apparaten gilt als steuerbare Lieferung;
 - 3\. die von Ärzten und Ärztinnen, Zahnärzten und Zahnärztinnen, Psychotherapeuten und Psychotherapeutinnen, Chiropraktoren und Chiropraktorinnen, Physiotherapeuten und Physiotherapeutinnen, Naturärzten und Naturärztinnen, Entbindungspflegern und Hebammen, Pflegefachmännern und Pflegefachfrauen oder Angehörigen ähnlicher Heil- und Pflegeberufe erbrachten Heilbehandlungen im Bereich der Humanmedizin, soweit die Leistungserbringer und Leistungserbringerinnen über eine Berufsausübungsbewilligung verfügen; der Bundesrat bestimmt die Einzelheiten. Die Abgabe von selbst hergestellten oder zugekauften Prothesen und orthopädischen Apparaten gilt als steuerbare Lieferung;
+- 3<sup>bis</sup>.[^21-4] Leistungen der koordinierten Versorgung im Zusammenhang mit Heilbehandlungen;
 - 4\. die von Krankenpflegepersonen, Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) oder in Heimen erbrachten Pflegeleistungen, sofern sie ärztlich verordnet sind;
 - 5\. die Lieferung von menschlichen Organen durch medizinisch anerkannte Institutionen und Spitäler sowie von menschlichem Vollblut durch Inhaber und Inhaberinnen einer hiezu erforderlichen Bewilligung;
 - 6\. die Dienstleistungen von Gemeinschaften, deren Mitglieder Angehörige der in Ziffer 3 aufgeführten Berufe sind, soweit diese Dienstleistungen anteilsmässig zu Selbstkosten an die Mitglieder für die unmittelbare Ausübung ihrer Tätigkeiten erbracht werden;
 - 7\. die Beförderung von kranken oder verletzten Personen oder Personen mit Behinderungen in dafür besonders eingerichteten Transportmitteln;
-- 8\.[^21-2] Leistungen von Einrichtungen der Sozialhilfe und der sozialen Sicherheit, von gemeinnützigen Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) und von Alters-, Wohn- und Pflegeheimen;
+- 8\.[^21-5] Leistungen von Einrichtungen der Sozialhilfe und der sozialen Sicherheit, von Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) und von Alters-, Wohn- und Pflegeheimen;
 - 9\. die mit der Kinder- und Jugendbetreuung verbundenen Leistungen durch dafür eingerichtete Institutionen;
 - 10\. die mit der Kultur- und Bildungsförderung von Jugendlichen eng verbundenen Leistungen von gemeinnützigen Jugendaustauschorganisationen; Jugendliche im Sinne dieser Bestimmung sind Personen bis zum vollendeten 25. Altersjahr;
 - 11\.
 
-  die folgenden Leistungen im Bereich der Erziehung und Bildung:[^21-3]
+  die folgenden Leistungen im Bereich der Erziehung und Bildung:[^21-6]
 
-  - a. die Leistungen im Bereich der Erziehung von Kindern und Jugendlichen, des Unterrichts, der Ausbildung, der Fortbildung und der beruflichen Umschulung einschliesslich des von Privatlehrern und Privatlehrerinnen oder an Privatschulen erteilten Unterrichts,
+  - a.[^21-7] die Leistungen im Bereich der Erziehung von Kindern und Jugendlichen, des Unterrichts, der Ausbildung, der Weiterbildung und der beruflichen Umschulung einschliesslich des von Privatlehrern und Privatlehrerinnen oder an Privatschulen erteilten Unterrichts,
   - b. Kurse, Vorträge und andere Veranstaltungen wissenschaftlicher oder bildender Art; die Referententätigkeit ist von der Steuer ausgenommen, unabhängig davon, ob das Honorar der unterrichtenden Person oder ihrem Arbeitgeber ausgerichtet wird,
   - c. im Bildungsbereich durchgeführte Prüfungen,
   - d. Organisationsdienstleistungen (mit Einschluss der damit zusammenhängenden Nebenleistungen) der Mitglieder einer Einrichtung, die von der Steuer ausgenommene Leistungen nach den Buchstaben a–c erbringt, an diese Einrichtung,
   - e. Organisationsdienstleistungen (mit Einschluss der damit zusammenhängenden Nebenleistungen) an Dienststellen von Bund, Kantonen und Gemeinden, die von der Steuer ausgenommene Leistungen nach den Buchstaben a–c entgeltlich oder unentgeltlich erbringen;
 
-- 12\. das Zurverfügungstellen von Personal durch religiöse oder weltanschauliche, nichtgewinnstrebige Einrichtungen für Zwecke der Krankenbehandlung, der Sozialhilfe und der sozialen Sicherheit, der Kinder- und Jugendbetreuung, der Erziehung und Bildung sowie für kirchliche, karitative und gemeinnützige Zwecke;
+- 12\.[^21-8] das Zurverfügungstellen von Personal durch nichtgewinnstrebige Einrichtungen für Zwecke der Krankenbehandlung, der Sozialhilfe und der sozialen Sicherheit, der Kinder- und Jugendbetreuung, der Erziehung und Bildung sowie für kirchliche, karitative und gemeinnützige Zwecke;
 - 13\. die Leistungen, die nichtgewinnstrebige Einrichtungen mit politischer, gewerkschaftlicher, wirtschaftlicher, religiöser, patriotischer, weltanschaulicher, philanthropischer, ökologischer, sportlicher, kultureller oder staatsbürgerlicher Zielsetzung ihren Mitgliedern gegen einen statutarisch festgesetzten Beitrag erbringen;
 - 14\.
 
-  dem Publikum unmittelbar erbrachte oder, sofern nicht unmittelbar erbracht, von diesem unmittelbar wahrnehmbare kulturelle Dienstleistungen der nachstehend aufgeführten Arten:[^21-4]
+  dem Publikum unmittelbar erbrachte oder, sofern nicht unmittelbar erbracht, von diesem unmittelbar wahrnehmbare kulturelle Dienstleistungen der nachstehend aufgeführten Arten:[^21-9]
 
   - a. Theater-, musikalische und choreographische Aufführungen sowie Filmvorführungen,
-  - b.[^21-5] Darbietungen von Schauspielern und Schauspielerinnen, Musikern und Musikerinnen, Tänzern und Tänzerinnen und anderen ausübenden Künstlern und Künstlerinnen, Leistungen von Personen, die an solchen Darbietungen künstlerisch mitwirken, sowie Leistungen von Schaustellern und Schaustellerinnen, einschliesslich der von diesen angebotenen Geschicklichkeitsspiele,
+  - b.[^21-10] Darbietungen von Schauspielern und Schauspielerinnen, Musikern und Musikerinnen, Tänzern und Tänzerinnen und anderen ausübenden Künstlern und Künstlerinnen, Leistungen von Personen, die an solchen Darbietungen künstlerisch mitwirken, sowie Leistungen von Schaustellern und Schaustellerinnen, einschliesslich der von diesen angebotenen Geschicklichkeitsspiele,
   - c. Besuche von Museen, Galerien, Denkmälern, historischen Stätten sowie botanischen und zoologischen Gärten,
   - d. Dienstleistungen von Bibliotheken, Archiven und Dokumentationsstellen, namentlich die Einsichtgewährung in Text-, Ton- und Bildträger in ihren Räumlichkeiten; steuerbar ist jedoch die Lieferung von Gegenständen (einschliesslich Gebrauchsüberlassung) solcher Institutionen;
 
+- 14<sup>bis</sup>.[^21-11] für die Zulassung zur Teilnahme an kulturellen Anlässen verlangte Entgelte (z. B. Einschreibegebühren) samt den darin eingeschlossenen Nebenleistungen;
 - 15\. für sportliche Anlässe verlangte Entgelte einschliesslich derjenigen für die Zulassung zur Teilnahme an solchen Anlässen (z. B. Startgelder) samt den darin eingeschlossenen Nebenleistungen;
-- 16\.[^21-6] kulturelle Dienstleistungen, die Lieferung von Werken kultureller Natur durch deren Urheber und Urheberinnen wie Schriftsteller und Schriftstellerinnen, Komponisten und Komponistinnen, Filmschaffende, Kunstmaler und Kunstmalerinnen, Bildhauer und Bildhauerinnen sowie Dienstleistungen, die von den Verlegern und Verlegerinnen und den Verwertungsgesellschaften zur Verbreitung dieser Werke erbracht werden; dies gilt auch für Werke zweiter Hand nach Artikel 3 des Urheberrechtsgesetzes vom 9. Oktober 1992[^21-7], die kultureller Natur sind;
-- 17\.[^21-8] die Leistungen bei Veranstaltungen wie Basaren, Flohmärkten und Tombolas von Einrichtungen, die von der Steuer ausgenommene Tätigkeiten auf dem Gebiet des nichtgewinnstrebigen Sports und Kulturschaffens, auf dem Gebiet der Krankenbehandlung, der Sozialhilfe und der sozialen Sicherheit und der Kinder- und Jugendbetreuung ausüben, sowie von gemeinnützigen Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) und von Alters-, Wohn- und Pflegeheimen, sofern die Veranstaltungen dazu bestimmt sind, diesen Einrichtungen eine finanzielle Unterstützung zu verschaffen, und ausschliesslich zu ihrem Nutzen durchgeführt werden; Leistungen von Einrichtungen der Sozialhilfe und der sozialen Sicherheit, die diese mittels Brockenhäusern ausschliesslich zu ihrem Nutzen erbringen;
-- 18\.[^21-9]
+- 16\.[^21-12] kulturelle Dienstleistungen, die Lieferung von Werken kultureller Natur durch deren Urheber und Urheberinnen wie Schriftsteller und Schriftstellerinnen, Komponisten und Komponistinnen, Filmschaffende, Kunstmaler und Kunstmalerinnen, Bildhauer und Bildhauerinnen sowie Dienstleistungen, die von den Verlegern und Verlegerinnen und den Verwertungsgesellschaften zur Verbreitung dieser Werke erbracht werden; dies gilt auch für Werke zweiter Hand nach Artikel 3 des Urheberrechtsgesetzes vom 9. Oktober 1992[^21-13], die kultureller Natur sind;
+- 17\.[^21-14] die Leistungen bei Veranstaltungen wie Basaren, Flohmärkten und Tombolas von Einrichtungen, die von der Steuer ausgenommene Tätigkeiten auf dem Gebiet des nichtgewinnstrebigen Sports und Kulturschaffens, auf dem Gebiet der Krankenbehandlung, der Sozialhilfe und der sozialen Sicherheit und der Kinder- und Jugendbetreuung ausüben, sowie von gemeinnützigen Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) und von Alters-, Wohn- und Pflegeheimen, sofern die Veranstaltungen dazu bestimmt sind, diesen Einrichtungen eine finanzielle Unterstützung zu verschaffen, und ausschliesslich zu ihrem Nutzen durchgeführt werden; Leistungen von Einrichtungen der Sozialhilfe und der sozialen Sicherheit, die diese mittels Brockenhäusern ausschliesslich zu ihrem Nutzen erbringen;
+- 18\.[^21-15]
 
   im Versicherungsbereich:
 
@@ -458,7 +504,8 @@ Von der Steuer ausgenommen sind:
   - c. die Umsätze, einschliesslich Vermittlung, im Einlagengeschäft und Kontokorrentverkehr, im Zahlungs- und Überweisungsverkehr, im Geschäft mit Geldforderungen, Checks und anderen Handelspapieren; steuerbar ist jedoch die Einziehung von Forderungen im Auftrag des Gläubigers (Inkassogeschäft),
   - d. die Umsätze, einschliesslich Vermittlung, die sich auf gesetzliche Zahlungsmittel (in- und ausländische Valuten wie Devisen, Banknoten, Münzen) beziehen; steuerbar sind jedoch Sammlerstücke (Banknoten und Münzen), die normalerweise nicht als gesetzliches Zahlungsmittel verwendet werden,
   - e. die Umsätze (Kassa- und Termingeschäfte), einschliesslich Vermittlung, von Wertpapieren, Wertrechten und Derivaten sowie von Anteilen an Gesellschaften und anderen Vereinigungen; steuerbar sind jedoch die Verwahrung und die Verwaltung von Wertpapieren, Wertrechten und Derivaten sowie von Anteilen (namentlich Depotgeschäft) einschliesslich Treuhandanlagen,
-  - f.[^21-10] dem Anbieten von Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^21-11] (KAG) und die Verwaltung von kollektiven Kapitalanlagen nach dem KAG durch Personen, die diese verwalten oder aufbewahren, die Fondsleitungen, die Depotbanken und deren Beauftragte; als Beauftragte werden alle natürlichen oder juristischen Personen betrachtet, denen die kollektiven Kapitalanlagen nach dem KAG oder dem Finanzinstitutsgesetz vom 15. Juni 2018[^21-12] Aufgaben delegieren können; das Anbieten von Anteilen und die Verwaltung von Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG richtet sich nach Buchstabe e;
+  - f.[^21-16] dem Anbieten von Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^21-17] (KAG) und die Verwaltung von kollektiven Kapitalanlagen nach dem KAG durch Personen, die diese verwalten oder aufbewahren, die Fondsleitungen, die Depotbanken und deren Beauftragte; als Beauftragte werden alle natürlichen oder juristischen Personen betrachtet, denen die kollektiven Kapitalanlagen nach dem KAG oder dem Finanzinstitutsgesetz vom 15. Juni 2018[^21-18] Aufgaben delegieren können; das Anbieten von Anteilen und die Verwaltung von Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG richtet sich nach Buchstabe e,
+  - g.[^21-19] das Anbieten von Anlagegruppen von Anlagestiftungen gemäss Bundesgesetz vom 25. Juni 1982[^21-20] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und die Verwaltung von Anlagegruppen nach BVG durch Personen, die diese verwalten oder aufbewahren, die Depotbanken und deren Beauftragte; als Beauftragte gelten alle natürlichen oder juristischen Personen, denen die Anlagestiftungen Aufgaben delegieren können;
 
 - 20\. die Übertragung und die Bestellung von dinglichen Rechten an Grundstücken sowie die Leistungen von Stockwerkeigentümergemeinschaften an die Stockwerkeigentümer und Stockwerkeigentümerinnen, soweit die Leistungen in der Überlassung des gemeinschaftlichen Eigentums zum Gebrauch, seinem Unterhalt, seiner Instandsetzung und sonstigen Verwaltung sowie der Lieferung von Wärme und ähnlichen Gegenständen bestehen;
 - 21\.
@@ -473,22 +520,23 @@ Von der Steuer ausgenommen sind:
   - f. die Vermietung von Messestandflächen und einzelner Räume in Messe- und Kongressgebäuden;
 
 - 22\. die Lieferung von im Inland gültigen Postwertzeichen und sonstigen amtlichen Wertzeichen höchstens zum aufgedruckten Wert;
-- 23\.[^21-13] die Umsätze bei Geldspielen, soweit die Bruttospielerträge der Spielbankenabgabe nach Artikel 119 des Geldspielgesetzes vom 29. September 2017[^21-14] unterliegen oder der damit erzielte Reingewinn vollumfänglich für gemeinnützige Zwecke im Sinne von Artikel 125 des genannten Gesetzes verwendet wird;
+- 23\.[^21-21] die Umsätze bei Geldspielen, soweit die Bruttospielerträge der Spielbankenabgabe nach Artikel 119 des Geldspielgesetzes vom 29. September 2017[^21-22] unterliegen oder der damit erzielte Reingewinn vollumfänglich für gemeinnützige Zwecke im Sinne von Artikel 125 des genannten Gesetzes verwendet wird;
 - 24\. die Lieferung gebrauchter beweglicher Gegenstände, die ausschliesslich zur Erbringung von nach diesem Artikel von der Steuer ausgenommenen Leistungen verwendet wurden;
-- 25\.[^21-15] …
+- 25\.[^21-23] …
 - 26\. die Veräusserung von im eigenen Betrieb gewonnenen Erzeugnissen der Landwirtschaft, der Forstwirtschaft sowie der Gärtnerei durch Landwirte und Landwirtinnen, Forstwirte und Forstwirtinnen oder Gärtner und Gärtnerinnen sowie der Verkauf von Vieh durch Viehhändler und Viehhändlerinnen und der Verkauf von Milch durch Milchsammelstellen an milchverarbeitende Betriebe;
 - 27\. Bekanntmachungsleistungen, die gemeinnützige Organisationen zugunsten Dritter oder Dritte zugunsten gemeinnütziger Organisationen erbringen;
-- 28\.[^21-16]
+- 28\.[^21-24]
 
   Leistungen:
 
   - a. zwischen den Organisationseinheiten des gleichen Gemeinwesens,
   - b. zwischen privat- oder öffentlich-rechtlichen Gesellschaften, an denen ausschliesslich Gemeinwesen beteiligt sind, und den an der Gesellschaft beteiligten Gemeinwesen und deren Organisationseinheiten,
-  - c. zwischen Anstalten oder Stiftungen, die ausschliesslich von Gemeinwesen gegründet wurden, und den an der Gründung beteiligten Gemeinwesen und deren Organisationseinheiten;
+  - c.[^21-25] zwischen Anstalten oder Stiftungen, deren Gründer oder Träger ausschliesslich Gemeinwesen sind, und diesen Gemeinwesen und deren Organisationseinheiten;
 
-- 28<sup>bis</sup>.[^21-17] das Zurverfügungstellen von Personal durch Gemeinwesen an andere Gemeinwesen;
+- 28<sup>bis</sup>.[^21-26] das Zurverfügungstellen von Personal durch Gemeinwesen an andere Gemeinwesen;
 - 29\. die Ausübung von Funktionen der Schiedsgerichtsbarkeit;
-- 30\.[^21-18] Leistungen zwischen Bildungs- und Forschungsinstitutionen, die an einer Bildungs- und Forschungskooperation beteiligt sind, sofern sie im Rahmen der Kooperation erfolgen, unabhängig davon, ob die Bildungs- und Forschungskooperation als Mehrwertsteuersubjekt auftritt.
+- 30\.[^21-27] Leistungen zwischen Bildungs- und Forschungsinstitutionen, die an einer Bildungs- und Forschungskooperation beteiligt sind, sofern sie im Rahmen der Kooperation erfolgen, unabhängig davon, ob die Bildungs- und Forschungskooperation als Mehrwertsteuersubjekt auftritt;
+- 31\.[^21-28] die durch Reisebüros weiterverkauften Reiseleistungen und die damit zusammenhängenden Dienstleistungen der Reisebüros.
 
 <sup>3</sup> Ob eine in Absatz 2 genannte Leistung von der Steuer ausgenommen ist, bestimmt sich unter Vorbehalt von Absatz 4 ausschliesslich nach deren Gehalt und unabhängig davon, wer die Leistung erbringt oder empfängt.
 
@@ -496,30 +544,40 @@ Von der Steuer ausgenommen sind:
 
 <sup>5</sup> Der Bundesrat bestimmt die von der Steuer ausgenommenen Leistungen näher; dabei beachtet er das Gebot der Wettbewerbsneutralität.
 
-<sup>6</sup> Organisationseinheiten eines Gemeinwesens nach Absatz 2 Ziffer 28 sind dessen Dienststellen, dessen privat- und öffentlich-rechtliche Gesellschaften, sofern weder andere Gemeinwesen noch andere Dritte daran beteiligt sind, sowie dessen Anstalten und Stiftungen, sofern das Gemeinwesen sie ohne Beteiligung anderer Gemeinwesen oder anderer Dritter gegründet hat.[^21-19]
+<sup>6</sup> Organisationseinheiten eines Gemeinwesens nach Absatz 2 Ziffer 28 sind dessen Dienststellen, dessen privat- und öffentlich-rechtliche Gesellschaften, sofern weder andere Gemeinwesen noch andere Dritte daran beteiligt sind, sowie dessen Anstalten und Stiftungen, sofern das Gemeinwesen sie ohne Beteiligung anderer Gemeinwesen oder anderer Dritter gegründet hat.[^21-29]
 
-<sup>7</sup> Der Bundesrat legt fest, welche Institutionen als Bildungs- und Forschungsinstitutionen nach Absatz 2 Ziffer 30 gelten.[^21-20]
+<sup>7</sup> Der Bundesrat legt fest, welche Institutionen als Bildungs- und Forschungsinstitutionen nach Absatz 2 Ziffer 30 gelten.[^21-30]
 
-[^21-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: Art. 18 des Postgesetzes vom 17. Dez. 2010 ([SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
-[^21-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^21-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-4]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-5]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-6]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-7]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^21-8]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-7]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-8]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-9]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-10]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-11]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^21-12]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^21-13]: Fassung gemäss Anhang Ziff. II 4 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^21-14]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-15]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-16]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Die Berichtigung vom 31. Aug. 2017 betrifft nur den französischen Text ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
-[^21-17]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-18]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-19]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-20]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-10]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-11]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-12]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-13]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^21-14]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-15]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-16]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^21-17]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^21-18]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^21-19]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-20]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^21-21]: Fassung gemäss Anhang Ziff. II 4 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-23]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-24]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Die Berichtigung vom 31. Aug. 2017 betrifft nur den französischen Text ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+[^21-25]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-26]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-27]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-28]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-29]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-30]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 22
 
@@ -564,13 +622,30 @@ Von der Steuer sind befreit:
 - 8\. die Lieferung von Luftfahrzeugen an Luftverkehrsunternehmen, die gewerbsmässige Luftfahrt im Beförderungs- oder Charterverkehr betreiben und deren Umsätze aus internationalen Flügen jene aus dem Binnenluftverkehr übertreffen; Umbauten, Instandsetzungen und Wartungen an Luftfahrzeugen, die solche Luftverkehrsunternehmen im Rahmen einer Lieferung erworben haben; Lieferungen, Instandsetzungen und Wartungen der in diese Luftfahrzeuge eingebauten Gegenstände oder der Gegenstände für ihren Betrieb; Lieferungen von Gegenständen zur Versorgung dieser Luftfahrzeuge sowie Dienstleistungen, die für den unmittelbaren Bedarf dieser Luftfahrzeuge und ihrer Ladungen bestimmt sind;
 - 9\. die Dienstleistungen von ausdrücklich in fremdem Namen und für fremde Rechnung handelnden Vermittlern und Vermittlerinnen, wenn die vermittelte Leistung entweder nach diesem Artikel von der Steuer befreit ist oder ausschliesslich im Ausland bewirkt wird; wird die vermittelte Leistung sowohl im Inland als auch im Ausland bewirkt, so ist nur der Teil der Vermittlung von der Steuer befreit, der auf Leistungen im Ausland oder auf Leistungen, die nach diesem Artikel von der Steuer befreit sind, entfällt;
 - 10\. in eigenem Namen erbrachte Dienstleistungen von Reisebüros und Organisatoren von Veranstaltungen, soweit sie Lieferungen und Dienstleistungen Dritter in Anspruch nehmen, die von diesen im Ausland bewirkt werden; werden diese Leistungen Dritter sowohl im Inland als auch im Ausland erbracht, so ist nur der Teil der Dienstleistung des Reisebüros oder des Organisators von der Steuer befreit, der auf Leistungen im Ausland entfällt;
-- 11\.[^23-6] die Lieferung von Gegenständen nach Artikel 17 Absatz 1<sup>bis</sup> ZG an ins Ausland abfliegende oder aus dem Ausland ankommende Reisende.
+- 11\.[^23-6] die Lieferung von Gegenständen nach Artikel 17 Absatz 1<sup>bis</sup> ZG an ins Ausland abfliegende oder aus dem Ausland ankommende Reisende;
+- 12\.[^23-7]
+
+  die Umsätze, die mit Gold und Legierungen von Gold der folgenden Form erzielt werden:
+
+  - a. staatlich geprägte Goldmünzen der Zolltarifnummern 7118.9010, 9705.3100 und 9705.3900[^23-8],
+  - b.
+
+    Gold zu Anlagezwecken mit einem Mindestfeingehalt von 995 Tausendsteln, in Form von:
+
+    - – gegossenen Barren, versehen mit der Angabe des Feingehalts und dem Stempelzeichen eines anerkannten Prüfer-Schmelzers oder
+    - – gestanzten Plättchen, versehen mit der Angabe des Feingehalts und dem Stempelzeichen eines anerkannten Prüfer-Schmelzers oder einer in der Schweiz registrierten Verantwortlichkeitsmarke,
+
+  - c. Gold in Form von Granalien mit einem Mindestfeingehalt von 995 Tausendsteln, die von einem anerkannten Prüfer-Schmelzer verpackt und versiegelt wurden,
+  - d. Gold in Rohform oder in Form von Halbzeug, das zur Raffination oder Rückgewinnung bestimmt ist, sowie Gold in Form von Abfällen und Schrott,
+  - e. Legierungen von Gold nach Buchstabe d, sofern sie zwei oder mehr Gewichtsprozent Gold oder, wenn Platin enthaltend, mehr Gold als Platin aufweisen;
+
+- 13\.[^23-9] die Lieferung von Gegenständen durch einen Verkäufer oder eine Verkäuferin, die mit Hilfe einer elektronischen Plattform ermöglicht wird, sofern die Person, die die Lieferung ermöglicht hat, nach Artikel 20*a* als Leistungserbringerin gilt und im Register der steuerpflichtigen Personen eingetragen ist.
 
 <sup>3</sup> Direkte Ausfuhr nach Absatz 2 Ziffer 1 liegt vor, wenn der Gegenstand der Lieferung ohne Ingebrauchnahme im Inland ins Ausland ausgeführt oder in ein offenes Zolllager oder Zollfreilager ausgeführt wird. Bei Reihengeschäften erstreckt sich die direkte Ausfuhr auf alle beteiligten Lieferanten und Lieferantinnen. Der Gegenstand der Lieferung kann vor der Ausfuhr durch Beauftragte des nicht steuerpflichtigen Abnehmers oder der nicht steuerpflichtigen Abnehmerin bearbeitet oder verarbeitet werden.
 
 <sup>4</sup> Der Bundesrat kann zur Wahrung der Wettbewerbsneutralität Beförderungen im grenzüberschreitenden Luft-, Eisenbahn- und Busverkehr von der Steuer befreien.
 
-<sup>5</sup> Das Eidgenössische Finanzdepartement (EFD) regelt die Bedingungen, unter denen Inlandlieferungen zwecks Ausfuhr im Reiseverkehr von der Steuer befreit sind, und legt die hierfür erforderlichen Nachweise fest.
+<sup>5</sup> Das Eidgenössische Finanzdepartement (EFD) regelt die Bedingungen, unter denen Inlandlieferungen zwecks Ausfuhr im Reiseverkehr von der Steuer befreit sind, und legt die hierfür erforderlichen Nachweise fest. Die Nachweise können in elektronischer Form erbracht werden.[^23-10]
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-2]: Fassung gemäss Ziff. I 18 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
@@ -578,6 +653,10 @@ Von der Steuer sind befreit:
 [^23-4]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-6]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über den Einkauf von Waren in Zoll-freiläden auf Flughäfen, in Kraft seit 1. Juni 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
+[^23-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-8]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^23-9]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-10]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### 3. Kapitel: Bemessungsgrundlage und Steuersätze
 
@@ -595,6 +674,8 @@ Von der Steuer sind befreit:
 
 <sup>5</sup> Bei Leistungen an Zahlungs statt gilt als Entgelt der Betrag, der dadurch ausgeglichen wird.
 
+<sup>5bis</sup> Gilt eine Person als Leistungserbringerin nach Artikel 20*a*, so entspricht das Entgelt für die Lieferung, die sie ermöglicht hat, dem Wert, den sie dem Käufer oder der Käuferin des Gegenstandes mitgeteilt hat.[^24-1]
+
 <sup>6</sup>
 
 Nicht in die Bemessungsgrundlage einbezogen werden:
@@ -603,6 +684,8 @@ Nicht in die Bemessungsgrundlage einbezogen werden:
 - b. Beträge, welche die steuerpflichtige Person von der die Leistung empfangenden Person als Erstattung der in deren Namen und für deren Rechnung getätigten Auslagen erhält, sofern sie diese gesondert ausweist (durchlaufende Posten);
 - c. der Anteil des Entgelts, der bei der Veräusserung eines unbeweglichen Gegenstandes auf den Wert des Bodens entfällt;
 - d. die im Preis für Entsorgungs- und Versorgungsleistungen eingeschlossenen kantonalen Abgaben an Wasser-, Abwasser- oder Abfallfonds, soweit diese Fonds daraus an Entsorgungsanstalten oder Wasserwerke Beiträge ausrichten.
+
+[^24-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 24a
 
@@ -642,16 +725,17 @@ Der reduzierte Steuersatz von 2,6 Prozent findet Anwendung:[^25-2]
   - 6\. Futtermittel, Silagesäuren, Streumittel für Tiere,
   - 7\. Dünger, Pflanzenschutzmittel, Mulch und anderes pflanzliches Abdeckmaterial,
   - 8\. Medikamente,
-  - 9\. Zeitungen, Zeitschriften, Bücher und andere Druckerzeugnisse ohne Reklamecharakter der vom Bundesrat zu bestimmenden Arten;
+  - 9\. Zeitungen, Zeitschriften, Bücher und andere Druckerzeugnisse ohne Reklamecharakter der vom Bundesrat zu bestimmenden Arten,
+  - 10\.[^25-5] Produkte für die Monatshygiene;
 
-- a<sup>bis</sup>.[^25-5] auf elektronische Zeitungen, Zeitschriften und Bücher ohne Reklamecharakter der vom Bundesrat zu bestimmenden Arten;
+- a<sup>bis</sup>.[^25-6] auf elektronische Zeitungen, Zeitschriften und Bücher ohne Reklamecharakter der vom Bundesrat zu bestimmenden Arten;
 - b. auf den Dienstleistungen der Radio- und Fernsehgesellschaften, mit Ausnahme der Dienstleistungen mit gewerblichem Charakter;
 - c. auf den Leistungen nach Artikel 21 Absatz 2 Ziffern 14–16;
 - d. auf den Leistungen im Bereich der Landwirtschaft, die in einer mit der Urproduktion in unmittelbarem Zusammenhang stehenden Bearbeitung des Bodens oder Bearbeitung von mit dem Boden verbundenen Erzeugnissen der Urproduktion bestehen.
 
-<sup>3</sup> Für Lebensmittel, die im Rahmen von gastgewerblichen Leistungen abgegeben werden, gilt der Normalsatz. Als gastgewerbliche Leistung gilt die Abgabe von Lebensmitteln, wenn die steuerpflichtige Person sie beim Kunden oder bei der Kundin zubereitet beziehungsweise serviert oder wenn sie für deren Konsum an Ort und Stelle besondere Vorrichtungen bereithält. Sind Lebensmittel, mit Ausnahme alkoholischer Getränke, zum Mitnehmen oder zur Auslieferung bestimmt, so findet der reduzierte Steuersatz Anwendung, sofern geeignete organisatorische Massnahmen zur Abgrenzung dieser Leistungen von den gastgewerblichen Leistungen getroffen worden sind; andernfalls gilt der Normalsatz. Werden Lebensmittel, mit Ausnahme alkoholischer Getränke, in Verpflegungsautomaten angeboten, so findet der reduzierte Steuersatz Anwendung.[^25-6]
+<sup>3</sup> Für Lebensmittel, die im Rahmen von gastgewerblichen Leistungen abgegeben werden, gilt der Normalsatz. Als gastgewerbliche Leistung gilt die Abgabe von Lebensmitteln, wenn die steuerpflichtige Person sie beim Kunden oder bei der Kundin zubereitet beziehungsweise serviert oder wenn sie für deren Konsum an Ort und Stelle besondere Vorrichtungen bereithält. Sind Lebensmittel, mit Ausnahme alkoholischer Getränke, zum Mitnehmen oder zur Auslieferung bestimmt, so findet der reduzierte Steuersatz Anwendung, sofern geeignete organisatorische Massnahmen zur Abgrenzung dieser Leistungen von den gastgewerblichen Leistungen getroffen worden sind; andernfalls gilt der Normalsatz. Werden Lebensmittel, mit Ausnahme alkoholischer Getränke, in Verpflegungsautomaten angeboten, so findet der reduzierte Steuersatz Anwendung.[^25-7]
 
-<sup>4</sup> Die Steuer auf Beherbergungsleistungen beträgt 3,8 Prozent (Sondersatz).[^25-7] Der Sondersatz gilt bis zum 31. Dezember 2020 oder, sofern die Frist nach Artikel 196 Ziffer 14 Absatz 1 Bundesverfassung verlängert wird, bis längstens zum 31. Dezember 2027. Als Beherbergungsleistung gilt die Gewährung von Unterkunft einschliesslich der Abgabe eines Frühstücks, auch wenn dieses separat berechnet wird.[^25-8]
+<sup>4</sup> Die Steuer auf Beherbergungsleistungen beträgt 3,8 Prozent (Sondersatz).[^25-8] Der Sondersatz gilt bis zum 31. Dezember 2020 oder, sofern die Frist nach Artikel 196 Ziffer 14 Absatz 1 Bundesverfassung verlängert wird, bis längstens zum 31. Dezember 2027. Als Beherbergungsleistung gilt die Gewährung von Unterkunft einschliesslich der Abgabe eines Frühstücks, auch wenn dieses separat berechnet wird.[^25-9]
 
 <sup>5</sup> Der Bundesrat bestimmt die in Absatz 2 bezeichneten Gegenstände und Dienstleistungen näher; dabei beachtet er das Gebot der Wettbewerbsneutralität.
 
@@ -659,10 +743,11 @@ Der reduzierte Steuersatz von 2,6 Prozent findet Anwendung:[^25-2]
 [^25-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Fassung gemäss Anhang Ziff. II 3 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^25-5]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-6]: Fassung gemäss Ziff. IV des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-7]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
-[^25-8]: Fassung gemäss Ziff. II 1 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-5]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^25-6]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^25-7]: Fassung gemäss Ziff. IV des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^25-8]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-9]: Fassung gemäss Ziff. II 1 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779), [3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### 4. Kapitel: Rechnungsstellung und Steuerausweis
 
@@ -753,15 +838,18 @@ Die steuerpflichtige Person kann eine fiktive Vorsteuer abziehen, wenn:
 
 <sup>1bis</sup> Der Vorsteuerabzug für Leistungen, die im Ausland erbracht wurden, ist im selben Umfang möglich, wie wenn sie im Inland erbracht worden wären und nach Artikel 22 für deren Versteuerung hätte optiert werden können.[^29-1]
 
-<sup>2</sup> Ungeachtet von Absatz 1 besteht ein Anspruch auf Vorsteuerabzug im Rahmen der zum Vorsteuerabzug berechtigenden unternehmerischen Tätigkeit für das Erwerben, Halten und Veräussern von Beteiligungen sowie für Umstrukturierungen im Sinne von Artikel 19 oder 61 des BG vom 14. Dezember 1990[^29-2] über die direkte Bundessteuer (DBG).
+<sup>1ter</sup> Der Vorsteuerabzug für von Reisebüros weiterverkauften Reiseleistungen und die damit zusammenhängenden Dienstleistungen der Reisebüros ist möglich, sofern sie im Ausland bewirkt oder genutzt werden.[^29-2]
+
+<sup>2</sup> Ungeachtet von Absatz 1 besteht ein Anspruch auf Vorsteuerabzug im Rahmen der zum Vorsteuerabzug berechtigenden unternehmerischen Tätigkeit für das Erwerben, Halten und Veräussern von Beteiligungen sowie für Umstrukturierungen im Sinne von Artikel 19 oder 61 des BG vom 14. Dezember 1990[^29-3] über die direkte Bundessteuer (DBG).
 
 <sup>3</sup> Beteiligungen sind Anteile am Kapital anderer Unternehmen, die mit der Absicht dauernder Anlage gehalten werden und einen massgeblichen Einfluss vermitteln. Anteile von mindestens 10 Prozent am Kapital gelten als Beteiligung.
 
-<sup>4</sup> Holdinggesellschaften können zur Ermittlung der abziehbaren Vorsteuer auf die zum Vorsteuerabzug berechtigende unternehmerische Tätigkeit der von ihnen gehaltenen Unternehmen abstellen.[^29-3]
+<sup>4</sup> Holdinggesellschaften können zur Ermittlung der abziehbaren Vorsteuer auf die zum Vorsteuerabzug berechtigende unternehmerische Tätigkeit der von ihnen gehaltenen Unternehmen abstellen.[^29-4]
 
 [^29-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^29-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^29-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^29-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 30
 
@@ -828,15 +916,33 @@ Eigenverbrauch liegt namentlich vor, wenn die steuerpflichtige Person aus ihrem 
 
 **Abrechnungsperiode**
 
-<sup>1</sup>
+<sup>1</sup> Innerhalb der Steuerperiode erfolgt die Abrechnung der Steuer vierteljährlich. Bei der Abrechnung nach Saldosteuersätzen (Art. 37 Abs. 1 und 2) erfolgt die Abrechnung halbjährlich.[^35-1]
 
-Innerhalb der Steuerperiode erfolgt die Abrechnung der Steuer:
+<sup>1bis</sup>
 
-- a. in der Regel vierteljährlich;
-- b. bei der Abrechnung nach Saldosteuersätzen (Art. 37 Abs. 1 und 2): halbjährlich;
-- c. bei regelmässigem Vorsteuerüberschuss: auf Antrag der steuerpflichtigen Person monatlich.
+Auf Antrag der steuerpflichtigen Person erfolgt die Abrechnung:
+
+- a. bei regelmässigem Vorsteuerüberschuss: monatlich;
+- b. bei einem Umsatz von nicht mehr als 5 005 000 Franken pro Jahr aus steuerbaren Leistungen: jährlich.[^35-2]
 
 <sup>2</sup> Auf Antrag gestattet die ESTV in begründeten Fällen andere Abrechnungsperioden und setzt die Bedingungen dafür fest.
+
+[^35-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^35-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
+#### Art. 35a
+
+**Jährliche Abrechnung**[^35a-1]
+
+<sup>1</sup> Die ESTV kann steuerpflichtigen Personen, die ihren Abrechnungs- und Zahlungspflichten nicht oder nur teilweise nachkommen, die Genehmigung zur Anwendung der jährlichen Abrechnung verweigern oder deren Genehmigung widerrufen.
+
+<sup>2</sup> Die jährliche Abrechnung muss während mindestens einer ganzen Steuerperiode beibehalten werden.
+
+<sup>3</sup> Wer von der jährlichen zur monatlichen, vierteljährlichen oder halbjährlichen Abrechnung wechselt, kann frühestens nach drei Steuerperioden wieder zur jährlichen Abrechnung wechseln.
+
+<sup>4</sup> Wechsel sind jeweils auf den Beginn einer Steuerperiode möglich.
+
+[^35a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### 2. Abschnitt: Umfang der Steuerforderung und Meldeverfahren
 
@@ -922,9 +1028,11 @@ Im Falle der Abrechnung nach vereinbarten Entgelten entsteht der Anspruch auf Vo
 
 <sup>2</sup> Im Falle der Abrechnung nach vereinnahmten Entgelten entsteht der Anspruch auf Vorsteuerabzug im Zeitpunkt der Bezahlung. Die Umsatzsteuerschuld entsteht mit der Vereinnahmung des Entgelts.
 
-<sup>3</sup> Der Anspruch auf Vorsteuerabzug aufgrund der Bezugsteuer entsteht im Zeitpunkt der Abrechnung über diese Bezugsteuer (Art. 47).
+<sup>3</sup> Der Anspruch auf Vorsteuerabzug aufgrund der Bezugsteuer entsteht im Zeitpunkt der Abrechnung über diese Bezugsteuer (Art. 48).[^40-1]
 
 <sup>4</sup> Der Anspruch auf Vorsteuerabzug aufgrund der Einfuhrsteuer entsteht am Ende der Abrechnungsperiode, in der die Steuer festgesetzt wurde.
+
+[^40-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 41
 
@@ -987,20 +1095,22 @@ Der Bezugsteuer unterliegen:
 - a.[^45-1] Dienstleistungen, deren Ort sich nach Artikel 8 Absatz 1 im Inland befindet und die erbracht werden durch Unternehmen mit Sitz im Ausland, die nicht im Register der steuerpflichtigen Personen eingetragen sind, mit Ausnahme von Telekommunikations- oder elektronischen Dienstleistungen an nicht steuerpflichtige Empfänger und Empfängerinnen;
 - b. die Einfuhr von Datenträgern ohne Marktwert mit den darin enthaltenen Dienstleistungen und Rechten (Art. 52 Abs. 2);
 - c.[^45-2] die Lieferung von unbeweglichen Gegenständen im Inland, die nicht der Einfuhrsteuer unterliegt und die erbracht wird durch Unternehmen mit Sitz im Ausland, die nicht im Register der steuerpflichtigen Personen eingetragen sind, mit Ausnahme des Überlassens solcher Gegenstände zum Gebrauch oder zur Nutzung;
-- d.[^45-3] die Lieferung von Elektrizität in Leitungen, Gas über das Erdgasverteilnetz und Fernwärme durch Unternehmen mit Sitz im Ausland an steuerpflichtige Personen im Inland.
+- d.[^45-3] die Lieferung von Elektrizität in Leitungen, Gas über das Erdgasverteilnetz und Fernwärme durch Unternehmen mit Sitz im Ausland an steuerpflichtige Personen im Inland;
+- e.[^45-4] die Übertragung von Emissionsrechten, Zertifikaten und Bescheinigungen für Emissionsverminderungen, Herkunftsnachweisen für Elektrizität und ähnlichen Rechten, Bescheinigungen und Zertifikaten durch Unternehmen mit Sitz, Wohnsitz oder Betriebsstätte im Ausland oder Inland, die nicht nach Artikel 21 Absatz 2 Ziffer 19 Buchstabe e von der Inlandsteuer ausgenommen ist.
 
 <sup>2</sup>
 
-Steuerpflichtig für Leistungen nach Absatz 1 ist deren Empfänger oder Empfängerin, sofern er oder sie:[^45-4]
+Steuerpflichtig für Leistungen nach Absatz 1 ist deren Empfänger oder Empfängerin, sofern er oder sie:[^45-5]
 
 - a. nach Artikel 10 steuerpflichtig ist; oder
-- b.[^45-5] im Kalenderjahr solche Leistungen für mehr als 10 000 Franken bezieht.
+- b.[^45-6] im Kalenderjahr solche Leistungen für mehr als 10 000 Franken bezieht.
 
 [^45-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^45-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^45-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^45-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-4]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^45-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-6]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 45a
 
@@ -1110,12 +1220,14 @@ Von der Steuer befreit ist die Einfuhr von:
 - i. Gegenständen, die nach den Artikeln 9 und 58 ZG zur vorübergehenden Verwendung oder nach den Artikeln 12 und 59 ZG zur aktiven Veredelung nach dem Verfahren mit Rückerstattungsanspruch ins Inland eingeführt werden, unter Vorbehalt von Artikel 54 Absatz 1 Buchstabe d;
 - j. Gegenständen, die zur Lohnveredelung im Rahmen eines Werkvertrags von einer im Inland als steuerpflichtig eingetragenen Person vorübergehend ins Inland eingeführt und nach dem Verfahren der aktiven Veredelung mit bedingter Zahlungspflicht (Nichterhebungsverfahren) veranlagt werden (Art. 12 und 59 ZG);
 - k. Gegenständen, die nach den Artikeln 9 und 58 ZG zur vorübergehenden Verwendung oder nach den Artikeln 13 und 60 ZG zur passiven Lohnveredelung im Rahmen eines Werkvertrages aus dem Inland ausgeführt und an den Absender oder die Absenderin im Inland zurückgesandt werden, unter Vorbehalt von Artikel 54 Absatz 1 Buchstabe e;
-- l. Gegenständen, die zur Lohnveredelung im Rahmen eines Werkvertrags nach dem Ausfuhrverfahren (Art. 61 ZG) ins Ausland verbracht worden sind und an den Absender oder die Absenderin im Inland zurückgesandt werden, unter Vorbehalt von Artikel 54 Absatz 1 Buchstabe f.
+- l. Gegenständen, die zur Lohnveredelung im Rahmen eines Werkvertrags nach dem Ausfuhrverfahren (Art. 61 ZG) ins Ausland verbracht worden sind und an den Absender oder die Absenderin im Inland zurückgesandt werden, unter Vorbehalt von Artikel 54 Absatz 1 Buchstabe f;
+- m.[^53-3] Gold und Legierungen von Gold nach Artikel 23 Absatz 2 Ziffer 12.
 
 <sup>2</sup> Der Bundesrat kann Gegenstände, die er nach Artikel 8 Absatz 2 Buchstabe a ZG für zollfrei erklärt, von der Einfuhrsteuer befreien.
 
 [^53-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^53-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^53-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 54
 
@@ -1297,11 +1409,18 @@ Die zinslose Frist von 60 Tagen beginnt erst zu laufen, wenn:
 
 **Verlagerung der Steuerentrichtung**
 
-<sup>1</sup> Bei der ESTV registrierte und nach der effektiven Methode abrechnende steuerpflichtige Importeure und Importeurinnen können die auf der Einfuhr von Gegenständen geschuldete Steuer, statt sie dem BAZG zu entrichten, in der periodischen Steuerabrechnung mit der ESTV deklarieren (Verlagerungsverfahren), sofern sie regelmässig Gegenstände ein- und ausführen und sich daraus regelmässig beachtliche Vorsteuerüberschüsse ergeben.
+<sup>1</sup>
+
+Die folgenden steuerpflichtigen Personen können die auf der Einfuhr von Gegenständen geschuldete Steuer, statt sie dem BAZG zu entrichten, in der periodischen Steuerabrechnung mit der ESTV deklarieren (Verlagerungsverfahren):
+
+- a. bei der ESTV registrierte und nach der effektiven Methode abrechnende steuerpflichtige Importeure und Importeurinnen, sofern sie regelmässig Gegenstände ein- und ausführen und sich daraus regelmässig beachtliche Vorsteuerüberschüsse ergeben;
+- b. Leistungserbringer oder Leistungserbringerinnen nach Artikel 20*a*, die im Register der steuerpflichtigen Personen eingetragen sind, sofern gegen sie keine administrative Massnahme nach Artikel 79*a* angeordnet worden ist.[^63-1]
 
 <sup>2</sup> Werden die im Verlagerungsverfahren eingeführten Gegenstände nach der Einfuhr im Inland noch bearbeitet oder verarbeitet, so kann die ESTV steuerpflichtigen Personen bewilligen, die bearbeiteten oder verarbeiteten Gegenstände ohne Berechnung der Steuer an andere steuerpflichtige Personen zu liefern.
 
 <sup>3</sup> Der Bundesrat regelt die Einzelheiten des Verlagerungsverfahrens.
+
+[^63-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 64
 
@@ -1378,11 +1497,16 @@ Die Frist für die Einreichung eines Gesuchs beträgt:
 
 **Steuervertretung**
 
-<sup>1</sup> Steuerpflichtige Personen ohne Wohn- oder Geschäftssitz im Inland haben für die Erfüllung ihrer Verfahrenspflichten eine Vertretung zu bestimmen, die im Inland Wohn- oder Geschäftssitz hat.
+<sup>1</sup> Steuerpflichtige Personen ohne Wohn- oder Geschäftssitz im Inland haben für die Erfüllung ihrer Verfahrenspflichten eine Vertretung zu bestimmen, die ihren Wohn- oder Geschäftssitz in der Schweiz hat.[^67-1]
+
+<sup>1bis</sup> Die ESTV kann darauf verzichten, die Bestimmung einer Vertretung nach Absatz 1 zu verlangen, sofern die Erfüllung der Verfahrenspflichten durch die steuerpflichtige Person und der rasche Vollzug dieses Gesetzes auf andere Weise gewährleistet sind; vorbehalten bleiben spezialgesetzliche Bestimmungen.[^67-2]
 
 <sup>2</sup> Bei Gruppenbesteuerung (Art. 13) muss die Mehrwertsteuergruppe für die Erfüllung ihrer Verfahrenspflichten eine Vertretung mit Wohn- oder Geschäftssitz in der Schweiz bestimmen.
 
 <sup>3</sup> Durch die Bestimmung einer Vertretung nach den Absätzen 1 und 2 wird keine Betriebsstätte nach den Bestimmungen über die direkten Steuern begründet.
+
+[^67-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^67-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 68
 
@@ -1451,9 +1575,12 @@ Auskunftspflichtige Drittperson ist, wer:
 - a. als steuerpflichtige Person in Betracht fällt;
 - b. neben der steuerpflichtigen Person oder an ihrer Stelle für die Steuer haftet;
 - c. Leistungen erhält oder erbracht hat;
-- d. an einer Gesellschaft, die der Gruppenbesteuerung unterliegt, eine massgebende Beteiligung hält.
+- d. an einer Gesellschaft, die der Gruppenbesteuerung unterliegt, eine massgebende Beteiligung hält;
+- e.[^73-1] Leistungserbringer und Leistungserbringerinnen und Leistungsempfänger und Leistungsempfängerinnen mit Hilfe einer elektronischen Plattform zusammenbringt.
 
 <sup>3</sup> Das gesetzlich geschützte Berufsgeheimnis bleibt vorbehalten.
+
+[^73-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### 4. Kapitel: Rechte und Pflichten der Behörden
 
@@ -1476,9 +1603,11 @@ Keine Geheimhaltungspflicht besteht:
 - a. bei Leistung von Amtshilfe nach Artikel 75 und bei Erfüllung einer Pflicht zur Anzeige strafbarer Handlungen;
 - b. gegenüber Organen der Rechtspflege oder der Verwaltung, wenn die mit dem Vollzug dieses Gesetzes betraute Behörde durch das EFD zur Auskunftserteilung ermächtigt worden ist;
 - c. im Einzelfall gegenüber den Schuldbetreibungs- und Konkursbehörden oder bei der Anzeige von Schuldbetreibungs- und Konkursdelikten zum Nachteil der ESTV;
-- d.[^74-1] für die folgenden im Register der steuerpflichtigen Personen enthaltenen Informationen: Nummer, unter der er oder sie eingetragen ist, Adresse und wirtschaftliche Tätigkeit sowie Beginn und Ende der Steuerpflicht.
+- d.[^74-1] für die folgenden im Register der steuerpflichtigen Personen enthaltenen Informationen: Nummer, unter der er oder sie eingetragen ist, Adresse und wirtschaftliche Tätigkeit sowie Beginn und Ende der Steuerpflicht;
+- e.[^74-2] bei Massnahmen nach Artikel 79*a*.
 
 [^74-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Juni 2010 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^74-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 75
 
@@ -1663,8 +1792,8 @@ Feststellungen, die Dritte betreffen und bei einer Kontrolle nach den Absätzen 
 [^78-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^78-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^78-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^78-4]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^78-5]: Eingefügt durch Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^78-4]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^78-5]: Eingefügt durch Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 79
 
@@ -1673,6 +1802,27 @@ Feststellungen, die Dritte betreffen und bei einer Kontrolle nach den Absätzen 
 <sup>1</sup> Liegen keine oder nur unvollständige Aufzeichnungen vor oder stimmen die ausgewiesenen Ergebnisse mit dem wirklichen Sachverhalt offensichtlich nicht überein, so schätzt die ESTV die Steuerforderung nach pflichtgemässem Ermessen ein.
 
 <sup>2</sup> Die Festsetzung der Steuerforderung erfolgt mit einer Einschätzungsmitteilung.
+
+#### Art. 79a
+
+**Administrative Massnahmen**[^79a-1]
+
+<sup>1</sup>
+
+Die ESTV kann gegen eine steuerpflichtige Person, die nach Artikel 7 Absatz 3 Buchstabe b Lieferungen im Inland erbringt, administrative Massnahmen anordnen, wenn diese Person:
+
+- a. sich nicht ins Register der steuerpflichtigen Personen eintragen lässt; oder
+- b. ihren Deklarations- und Zahlungspflichten nicht oder nur teilweise nachkommt.
+
+<sup>2</sup> Die ESTV hört die steuerpflichtige Person vor der Verfügung der administrativen Massnahmen an. Die Leistungsempfänger und Leistungsempfängerinnen werden nicht angehört.
+
+<sup>3</sup> Die ESTV kann ein Einfuhrverbot verfügen für Gegenstände, die nach Artikel 53 Absatz 1 Buchstabe a aufgrund des geringfügigen Steuerbetrags von der Einfuhrsteuer befreit sind. Kommt die steuerpflichtige Person trotz Einfuhrverbot ihren Pflichten weiterhin nicht nach, kann die ESTV die entschädigungslose Vernichtung der Gegenstände verfügen.
+
+<sup>4</sup> Die Massnahmen werden vom BAZG vollzogen.
+
+<sup>5</sup> Die ESTV veröffentlicht die Namen der steuerpflichtigen Personen, gegen die mit einer rechtskräftigen Verfügung Massnahmen nach Absatz 3 angeordnet worden sind.
+
+[^79a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 80
 
@@ -1765,8 +1915,36 @@ Auf die Revision, Erläuterung und Berichtigung von Einschätzungsmitteilungen, 
 
 <sup>9</sup> Unmittelbar nach Eingang der Zahlung oder der Sicherheitsleistung zieht die ESTV die Betreibung zurück.
 
+<sup>10</sup> Die Absätze 1–9 gelten unabhängig davon, welche Abrechnungsperiode gewählt wurde.[^86-3]
+
 [^86-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^86-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^86-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
+#### Art. 86a
+
+**Provisorischer Steuerbezug bei jährlicher Abrechnung**[^86a-1]
+
+<sup>1</sup> Bei der jährlichen Abrechnung (Art. 35*a*) erfolgt ein provisorischer Steuerbezug mittels Raten, die von der ESTV festgelegt und in Rechnung gestellt werden.
+
+<sup>2</sup> Massgebend für die Festlegung der Raten ist die Steuerforderung der letzten Steuerperiode. Ist sie noch nicht bekannt, so wird sie von der ESTV geschätzt. Bei neu steuerpflichtigen Personen ist die bis zum Ende der ersten Steuerperiode erwartete Steuerforderung massgebend.
+
+<sup>3</sup> Bei Anwendung der effektiven Abrechnungsmethode (Art. 36) und bei Abrechnung nach Pauschalsteuersätzen (Art. 37 Abs. 5) beläuft sich eine Rate auf einen Viertel, bei Abrechnung nach Saldosteuersätzen (Art. 37 Abs. 1–4) auf die Hälfte der Steuerforderung nach Absatz 2.
+
+<sup>4</sup> Es werden keine Kleinstbeträge in Rechnung gestellt.
+
+<sup>5</sup> Erachtet die steuerpflichtige Person die Raten als zu hoch oder zu niedrig, so kann sie bei der ESTV eine Anpassung der Raten beantragen.
+
+<sup>6</sup>
+
+Die Raten sind zu begleichen:
+
+- a. bei Anwendung der effektiven Abrechnungsmethode und bei Abrechnung nach Pauschalsteuersätzen: bis 150, 240 und 330 Tage nach Beginn der Steuerperiode;
+- b. bei Abrechnung nach Saldosteuersätzen: bis 240 Tage nach Beginn der Steuerperiode.
+
+<sup>7</sup> Die bezahlten Raten werden an die Steuerforderung gemäss eingereichter Jahresabrechnung angerechnet.
+
+[^86a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 87
 
@@ -1774,13 +1952,17 @@ Auf die Revision, Erläuterung und Berichtigung von Einschätzungsmitteilungen, 
 
 <sup>1</sup> Bei verspäteter Zahlung wird ohne Mahnung ein Verzugszins geschuldet.
 
+<sup>1bis</sup> Beim provisorischen Steuerbezug bei der jährlichen Abrechnung ist ohne Mahnung ein Verzugszins geschuldet, wenn die steuerpflichtige Person die Raten nach Ablauf der Frist oder nicht vollständig bezahlt.[^87-1]
+
 <sup>2</sup> Kein Verzugszins ist geschuldet bei einer Nachbelastung, wenn diese auf einem Fehler beruht, der bei richtiger Abwicklung beim Bund zu keinem Steuerausfall geführt hätte.
+
+[^87-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 88
 
 **Vergütungen an die steuerpflichtige Person**
 
-<sup>1</sup> Ergibt sich aus der Steuerabrechnung ein Überschuss zugunsten der steuerpflichtigen Person, so wird dieser ausbezahlt.
+<sup>1</sup> Ergibt sich aus der Steuerabrechnung oder aus der Anrechnung der bezahlten Raten an die Steuerforderung ein Überschuss zugunsten der steuerpflichtigen Person, so wird ihr dieser ausbezahlt*.*[^88-1]
 
 <sup>2</sup>
 
@@ -1790,11 +1972,12 @@ Vorbehalten bleiben:
 - b. die Verwendung des Überschusses zur Steuersicherung nach Artikel 94 Absatz 1;
 - c. die Verwendung des Überschusses zur Verrechnung unter Bundesstellen.
 
-<sup>3</sup> Die steuerpflichtige Person kann bezahlte, aber nicht geschuldete Steuern zurückfordern, sofern die Steuerforderung noch nicht rechtskräftig ist.[^88-1]
+<sup>3</sup> Die steuerpflichtige Person kann bezahlte, aber nicht geschuldete Steuern zurückfordern, sofern die Steuerforderung noch nicht rechtskräftig ist.[^88-2]
 
 <sup>4</sup> Erfolgt die Auszahlung des Überschusses nach Absatz 1 oder die Rückerstattung nach Absatz 3 später als 60 Tage nach Eintreffen der Steuerabrechnung beziehungsweise der schriftlichen Geltendmachung des Anspruches bei der ESTV, so wird für die Zeit vom 61. Tag bis zur Auszahlung oder Rückerstattung ein Vergütungszins ausgerichtet.
 
-[^88-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^88-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^88-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 89
 
@@ -1888,9 +2071,16 @@ Die ESTV kann Steuern, Zinsen und Kosten, auch wenn sie weder rechtskräftig fes
 - d. die steuerpflichtige Person ein Unternehmen, über das der Konkurs eröffnet worden ist, ganz oder teilweise übernimmt;
 - e. die steuerpflichtige Person offensichtlich zu tiefe Abrechnungen einreicht.
 
+<sup>1bis</sup>
+
+Die ESTV kann von einem Mitglied des geschäftsführenden Organs einer juristischen Person eine Sicherheit verlangen für Steuern, Zinsen und Kosten, die von dieser juristischen Person geschuldet sind oder voraussichtlich geschuldet werden, wenn:
+
+- a. das betreffende Mitglied dem geschäftsführenden Organ von mindestens zwei weiteren juristischen Personen angehörte, über die innerhalb einer kurzen Zeitspanne der Konkurs eröffnet worden ist; und
+- b. Anhaltspunkte dafür vorliegen, dass sich das betreffende Mitglied im Zusammenhang mit diesen Konkursen strafbar verhalten hat.[^93-1]
+
 <sup>2</sup> Verzichtet die steuerpflichtige Person auf die Befreiung von der Steuerpflicht (Art. 11) oder optiert sie für die Versteuerung von ausgenommenen Leistungen (Art. 22), so kann die ESTV von ihr die Leistung von Sicherheiten gemäss Absatz 7 verlangen.
 
-<sup>3</sup> Die Sicherstellungsverfügung hat den Rechtsgrund der Sicherstellung, den sicherzustellenden Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben; sie gilt als Arrestbefehl im Sinne von Artikel 274 SchKG[^93-1]. Die Einsprache gegen die Sicherstellungsverfügung ist ausgeschlossen.
+<sup>3</sup> Die Sicherstellungsverfügung hat den Rechtsgrund der Sicherstellung, den sicherzustellenden Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben; sie gilt als Arrestbefehl im Sinne von Artikel 274 SchKG[^93-2]. Die Einsprache gegen die Sicherstellungsverfügung ist ausgeschlossen.
 
 <sup>4</sup> Gegen die Verfügung kann beim Bundesverwaltungsgericht Beschwerde geführt werden.
 
@@ -1900,7 +2090,18 @@ Die ESTV kann Steuern, Zinsen und Kosten, auch wenn sie weder rechtskräftig fes
 
 <sup>7</sup> Die Sicherstellung ist zu leisten durch Barhinterlage, solvente Solidarbürgschaften, Bankgarantien, Schuldbriefe und Grundpfandverschreibungen, Lebensversicherungspolicen mit Rückkaufswert, kotierte Frankenobligationen von schweizerischen Schuldnern oder Kassenobligationen von schweizerischen Banken.
 
-[^93-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^93-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^93-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 93a
+
+**Sicherstellung bei der Ausfuhr im Reiseverkehr**[^93a-1]
+
+<sup>1</sup> Verwendet der Käufer oder die Käuferin ein elektronisches Verfahren für die Ausfuhr im Reiseverkehr, so kann von ihm oder ihr im Zeitpunkt des Kaufes eine Sicherheit in der Höhe der entsprechenden Steuer verlangt werden.
+
+<sup>2</sup> Die Sicherheit wird zurückerstattet, wenn der Ausfuhrnachweis innert der vorgeschriebenen Frist erbracht wird.
+
+[^93a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 94
 
@@ -1908,7 +2109,7 @@ Die ESTV kann Steuern, Zinsen und Kosten, auch wenn sie weder rechtskräftig fes
 
 <sup>1</sup>
 
-Ein Überschuss aus der Steuerabrechnung zugunsten der steuerpflichtigen Person kann:
+Ein Überschuss zugunsten der steuerpflichtigen Person aus der Steuerabrechnung oder aus der Differenz zwischen den bezahlten Raten und der Steuerforderung kann:[^94-1]
 
 - a. mit Schulden für frühere Perioden verrechnet werden;
 - b. zur Verrechnung mit zu erwartenden Schulden für nachfolgende Perioden gutgeschrieben werden, sofern die steuerpflichtige Person mit der Steuerentrichtung im Rückstand ist oder andere Gründe eine Gefährdung der Steuerforderung wahrscheinlich erscheinen lassen; der gutgeschriebene Betrag wird vom 61. Tag nach Eintreffen der Steuerabrechnung bei der ESTV bis zum Zeitpunkt der Verrechnung zum Satz verzinst, der für den Vergütungszins gilt; oder
@@ -1917,6 +2118,8 @@ Ein Überschuss aus der Steuerabrechnung zugunsten der steuerpflichtigen Person 
 <sup>2</sup> Bei steuerpflichtigen Personen ohne Wohn- oder Geschäftssitz in der Schweiz kann die ESTV ausserdem Sicherstellung der voraussichtlichen Schulden durch Leistung von Sicherheiten nach Artikel 93 Absatz 7 verlangen.
 
 <sup>3</sup> Bei wiederholtem Zahlungsverzug kann die ESTV die zahlungspflichtige Person dazu verpflichten, künftig monatliche oder halbmonatliche Vorauszahlungen zu leisten.
+
+[^94-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 95
 
@@ -2124,12 +2327,13 @@ Der Bundesrat:
 - b. bestimmt, unter welchen Voraussetzungen den Abnehmern und Abnehmerinnen mit Wohn- oder Geschäftssitz im Ausland die Steuer auf den an sie im Inland ausgeführten Leistungen sowie auf ihren Einfuhren bei Gewährung des Gegenrechts durch das Land ihres Wohn- oder Geschäftssitzes vergütet werden kann; dabei haben grundsätzlich die gleichen Anforderungen zu gelten, wie sie bei inländischen steuerpflichtigen Personen in Bezug auf den Vorsteuerabzug bestehen;
 - c.[^107-2] regelt die mehrwertsteuerrechtliche Behandlung von Leistungen an Personen, die zum Personal gehören und zugleich eng verbundene Personen sind; er beachtet dabei die Behandlung dieser Leistungen bei der direkten Bundessteuer und kann Ausnahmen von Artikel 24 Absatz 2 festlegen.
 
-<sup>2</sup> Der Bundesrat kann von diesem Gesetz abweichende Bestimmungen über die Besteuerung der Umsätze und der Einfuhr von Münz- und Feingold erlassen.
+<sup>2</sup> …[^107-3]
 
 <sup>3</sup> Der Bundesrat erlässt die Vollzugsvorschriften.
 
 [^107-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^107-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^107-3]: Aufgehoben durch Ziff. I des BG vom 16. Juni 2023, mit Wirkung seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 108
 
@@ -2139,7 +2343,10 @@ Das EFD:
 
 - a. legt marktübliche Verzugs- und Vergütungszinssätze fest und passt diese periodisch an;
 - b. legt die Fälle fest, in denen kein Verzugszins erhoben wird;
-- c. regelt, bis zu welchem Betrag geringfügige Verzugs- und Vergütungszinsen nicht erhoben werden oder nicht zu entrichten sind.
+- c. regelt, bis zu welchem Betrag geringfügige Verzugs- und Vergütungszinsen nicht erhoben werden oder nicht zu entrichten sind;
+- d.[^108-1] bestimmt, was beim provisorischen Steuerbezug als nicht in Rechnung zu stellender Kleinstbetrag gilt.
+
+[^108-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 109
 
@@ -2220,6 +2427,22 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 Auf Sammlerstücken wie Kunstgegenständen, Antiquitäten und dergleichen, für die bei Inkrafttreten der Änderung vom 30. September 2016 bereits Vorsteuer abgezogen wurde, ist der Vorsteuerabzug nicht rückgängig zu machen, sofern der Verkauf im Inland erfolgt und auf dem gesamten Verkaufspreis die Mehrwertsteuer entrichtet wird.
 
 [^115a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Die Berichtigung der RedK der BVers vom 30. Aug. 2017 betrifft nur den italienischen Text ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+
+#### Art. 115b
+
+**Übergangsbestimmungen zur Änderung vom 16. Juni 2023**[^115b-1]
+
+<sup>1</sup> Steuerpflichtige Personen, die im Jahr des Inkrafttretens der Änderung vom 16. Juni 2023 nach Artikel 35*a* jährlich abrechnen wollen, müssen dies innert 60 Tagen nach Inkrafttreten dieser Änderung bei der ESTV beantragen.
+
+<sup>2</sup>
+
+Werden Gegenstände aus dem Ausland ins Inland geliefert, die nach Artikel 53 Absatz 1 Buchstabe a aufgrund des geringfügigen Steuerbetrags von der Einfuhrsteuer befreit sind, so beginnt die Steuerpflicht des Leistungserbringers oder der Leistungserbringerin mit Inkrafttreten dieser Änderung, wenn:
+
+- a. er oder sie als Leistungserbringer oder Leistungserbringerin nach Artikel 20*a* gilt;
+- b. er oder sie in den vorangegangenen zwölf Monaten mit der Lieferung solcher Gegenstände einen Umsatz von mindestens 100 000 Franken erzielt hat; und
+- c. anzunehmen ist, dass er oder sie auch in den zwölf Monaten ab Inkrafttreten dieser Änderung solche Lieferungen ausführen wird.
+
+[^115b-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### 4. Kapitel: Referendum und Inkrafttreten
 

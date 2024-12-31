@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20240101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 1 January 2024)
+of 12 June 2009 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -43,7 +43,7 @@ decrees:
 As Value Added Tax, it levies:
 
 - a. a tax on goods and services supplied for consideration by taxable persons on Swiss territory (domestic tax);
-- b. a tax on the acquisition by recipients on Swiss territory of supplies from businesses domiciled abroad (acquisition tax);
+- b.[^1-1] a tax on the acquisition of supplies made on Swiss territory from businesses domiciled abroad and on the purchase of emission allowances and similar rights (acquisition tax);
 - c. a tax on the import of goods (import tax).
 
 <sup>3</sup>
@@ -53,6 +53,8 @@ The tax is levied on the following principles:
 - a. competitive neutrality;
 - b. efficiency of payment and imposition;
 - c. transferability.
+
+[^1-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 2
 
@@ -104,11 +106,13 @@ In this Act:
 
 - j. *Charitable organisation* means an organisation which fulfils the requirements that apply for Direct Federal Tax pursuant to Article 56 letter g DFTA.
 - k. *Invoice* means any document by which the consideration for a supply is settled with a third party, irrespective of how the document is titled in business transactions.
+- l.[^3-5] *Digital platform* means an electronic interface that facilitates interaction between two or more users online with the aim of providing a supply of goods or of services.
 
 [^3-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^3-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^3-5]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 4
 
@@ -126,9 +130,11 @@ In this Act:
 
 #### Art. 5
 
-**Indexation**
+**Indexation**[^5-1]
 
-The Federal Council shall decide on the adjustment of the Swiss franc amounts mentioned in Articles 31 paragraph 2 letter c, 37 paragraph 1, 38 paragraph 1 and 45 paragraph 2 letter b, as soon as the Swiss consumer price index has increased by more than 30 per cent since the most recent adjustment.
+The Federal Council shall decide on the adjustment of the Swiss franc amounts mentioned in Articles 31 paragraph 2 letter c, 35 paragraph 1<sup>bis</sup> letter b, 37 paragraph 1, 38 paragraph 1 and 45 paragraph 2 letter b, as soon as the Swiss consumer price index has increased by more than 30 per cent since the most recent adjustment.
+
+[^5-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 6
 
@@ -147,7 +153,7 @@ The Federal Council shall decide on the adjustment of the Swiss franc amounts me
 The place of supply of goods is the place where:
 
 - a. the good is located at the time of transfer of the power to dispose commercially of it, of its delivery or of its being made available for use or exploitation;
-- b. the transport or dispatch of the good to the customer or to a third party on his instructions begins.
+- b. the transport or dispatch of the good to the customer or to a third party on the customer’s instructions begins.
 
 <sup>2</sup> The place of supply of electricity by cable, gas via the natural gas distribution network or district heating is deemed to be the place at which the recipients of the supply have their registered office or a permanent establishment for which the supply is made, or, in the absence of such a registered office or such a permanent establishment, the place where the electricity, gas or district heating is actually used or consumed.[^7-1]
 
@@ -159,25 +165,28 @@ In the case of the supply of a good from abroad to Swiss territory, the place of
 - b. makes supplies of goods under paragraph 1 letter b of the preceding article that are exempt from import tax under Article 53 paragraph 1 letter a because of the insignificant tax amount, and makes a minimum turnover of 100 000 francs per year therefrom.[^7-2]
 
 [^7-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^7-2]: Inserted by No I oft he FA of 30 Sept. 2016, let. a in force since 1 Jan. 2018 and let. b in force since 1 Jan. 2019 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^7-2]: Inserted by No I of the FA of 30 Sept. 2016, let. a in force since 1 Jan. 2018 and let. b in force since 1 Jan. 2019 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 8
 
 **Place of supply of a service**
 
-<sup>1</sup> The place of supply of a service is deemed, subject to paragraph 2, to be the place at which the recipient of the service has its registered office or a permanent establishment for which the service is provided, or in the absence of such a registered office or such a permanent establishment, its domicile or the place of his normal abode.
+<sup>1</sup> The place of supply of a service is deemed, subject to paragraph 2, to be the place at which the recipient of the service has its registered office or a permanent establishment for which the service is provided, or in the absence of such a registered office or such a permanent establishment, the recipient’s domicile or place of normal abode.
 
 <sup>2</sup>
 
 The place of supply of the following services is deemed to be:
 
-- a. for services that are typically supplied directly in the physical presence of individuals, even if exceptionally they are supplied at a distance: the place where the person supplying the service has his registered office or a permanent establishment, or in the absence of such a registered office or such a permanent establishment the domicile or the place from which the person works; such services are in particular: healing treatments, therapies, nursing, personal hygiene, marriage, family and life counselling, social services and social welfare services and child and youth care;
-- b. for services supplied by travel agencies and event organisers: the place where the person supplying the service has his registered office or a permanent establishment, or, in the absence of such a registered office or such a permanent establishment, the domicile or the place from which the person works;
-- c. for services in the area of culture, the arts, sport, the science, scholarship, entertainment or similar services, including services of the event organiser and related services, if applicable: the place where these activities are actually performed;
+- a. for services that are typically supplied directly in the physical presence of individuals, even if exceptionally they are supplied at a distance: the place where the person supplying the service has its registered office or a permanent establishment, or in the absence of such a registered office or such a permanent establishment the domicile or the place from which the person works; such services are in particular: healing treatments, therapies, nursing, personal hygiene, marriage, family and life counselling, social services and social welfare services and child and youth care;
+- b.[^8-1] for travel services and related travel agency services retailed by travel agencies: the place where the person operating the travel agency has its registered office or a permanent establishment, or in the absence of such a registered office or such a permanent establishment the domicile or the place from which the person works;
+- c.[^8-2] for services in the area of culture, the arts, sport, the science, scholarship, entertainment or similar services that are provided directly to persons physically present at the location, including services of the event organiser and related services, if applicable: the place where these activities are actually performed;
 - d. for restaurant supplies: the place where the supply is actually made;
 - e. for passenger transport services: the place where transport actually takes place, as measured by the distance travelled; in the case of cross-border transport, the Federal Council may order that short internal distances may count as foreign and short distances abroad as internal distances;
 - f. for services in connection with immovable property: the place where the property is situated; such services are in particular: brokerage, management, survey and valuation of the property, services in connection with the purchase or creation of rights in rem, services in connection with the preparation or the coordination of construction services, such as architectural, engineering and construction supervision services, surveillance of properties and buildings and accommodation services;
 - g. for services in the area of international development cooperation and humanitarian help: the place for which the service is destined.
+
+[^8-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^8-2]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 9
 
@@ -198,14 +207,14 @@ In order to avoid a distortion of competition due to the double taxation or non-
 Any person, irrespective of legal form, objects and intention to make a profit, is liable to the tax if that person carries on a business and:
 
 - a. makes supplies on Swiss territory through that business; or
-- b. has its registered office, domicile or permanent establishment on Swiss territory.[^10-1]
+- b. has their registered office, domicile or permanent establishment on Swiss territory.[^10-1]
 
 <sup>1bis</sup>
 
-A person carries on a business if he:
+A person carries on a business if they:
 
-- a. independently performs a professional or commercial activity with the aim of sustainably earning income from supplies, irrespective of the amount of the inflow of funds that do not qualify as a consideration under Article 18 paragraph 2; and
-- b. acts externally under his own name.[^10-2]
+- a. independently perform a professional or commercial activity with the aim of sustainably earning income from supplies, irrespective of the amount of the inflow of funds that do not qualify as a consideration under Article 18 paragraph 2; and
+- b. act externally under their own name.[^10-2]
 
 <sup>1ter</sup> The purchase, holding and sale of interests under Article 29 paragraphs 2 and 3 qualifies as a business activity.[^10-3]
 
@@ -216,24 +225,29 @@ Exempt from tax liability under paragraph 1 is any person who:
 - a. within one year generates on Swiss territory and abroad turnover from supplies of less than 100,000 francs that are not exempt from the tax without credit under Article 21 paragraph 2;
 - b.
 
-  carries on a business based abroad that exclusively makes one or more of the following types of supplies on Swiss territory irrespective of turnover:
+  carries on a business with registered office, domicile or permanent establishment abroad that exclusively makes one or more of the following types of supplies on Swiss territory irrespective of turnover:[^10-4]
 
   - 1\. supplies exempt from the tax,
+  - 1<sup>bis</sup>.[^10-5] supplies exempt from the tax without credit,
   - 2\. services whose place of supply in terms of Article 8 paragraph 1 is located on Swiss territory; not exempt from tax liability is, however, any person who supplies telecommunication or electronic services to recipients who are not liable to the tax,
   - 3\. supplies of electricity in cables, gas via the natural gas distribution network and district heating to persons liable to the tax on Swiss territory;
 
-- c.[^10-4] as a non-profit, voluntarily-run sporting or cultural association or as a charitable organisation generates on Swiss territory and abroad within one year a turnover from supplies of less than 250,000 francs that are not exempt from the tax without credit under Article 21 paragraph 2.[^10-5]
+- c.[^10-6] as a non-profit-making sports or cultural association run on a voluntary basis or as a non-profit-making organisation, generates less than 250,000 Swiss francs turnover within one year on Swiss territory and abroad from supplies that are not exempt from the tax without credit under Article 21 paragraph 2;
+- d.[^10-7] operates a business with registered office, domicile or permanent establishment on Swiss territory that provides services on Swiss territory that are exclusively exempt from the tax without credit.[^10-8]
 
-<sup>2bis</sup> The turnover is calculated on the basis of the agreed considerations without the tax.[^10-6]
+<sup>2bis</sup> The turnover is calculated on the basis of the agreed considerations without the tax.[^10-9]
 
 <sup>3</sup> The place of business on Swiss territory and all domestic permanent establishments together represent a single taxable person.
 
 [^10-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-2]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-3]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-4]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2023 ([AS 2022 228](https://fedlex.data.admin.ch/eli/oc/2022/228); [BBl 2021 1100](https://fedlex.data.admin.ch/eli/fga/2021/1100), [1944](https://fedlex.data.admin.ch/eli/fga/2021/1944)).
-[^10-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-6]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-4]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-5]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-6]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-7]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-8]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-9]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 11
 
@@ -261,9 +275,11 @@ Exempt from tax liability under paragraph 1 is any person who:
 
 **Group taxation**
 
-<sup>1</sup> Legal entities with their registered office or a permanent establishment in Switzerland which are closely associated with one another under the common management of a single legal entity may on application combine as a single taxable person (a VAT group). The group may also include legal entities which do not carry on a business, and individuals.
+<sup>1</sup> Legal entities with their registered office, domicile or a permanent establishment in Switzerland which are closely associated with one another under the common management of a single legal entity may on application combine as a single taxable person (a VAT group). The group may also include legal entities which do not carry on a business, and individuals.[^13-1]
 
 <sup>2</sup> The decision to combine as a VAT group may be made for the beginning of any tax period. Termination of a VAT group is possible at the end of any tax period.
+
+[^13-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 14
 
@@ -273,7 +289,7 @@ Exempt from tax liability under paragraph 1 is any person who:
 
 Tax liability commences:
 
-- a. for businesses with registered office, domicile or permanent establishment on Swiss territory: with the commencement of the business activity;
+- for businesses with registered office, domicile or permanent establishment on Swiss territory: with the commencement of the business activity;
 - b. for all other businesses: on making a supply for the first time on Swiss territory.[^14-1]
 
 <sup>2</sup>
@@ -310,28 +326,33 @@ Jointly and severally liable with the taxable person are:
 - b. persons who voluntarily conduct or arrange an auction;
 - c.[^15-1] any person or unincorporated entity, with the exception of pension schemes, that is a member of a VAT group (Art. 13) for all taxes payable by the group; if a person or unincorporated entity withdraws from the group, they are liable only for the tax claims that have arisen from their own business activity;
 - d. on transfer of a business: the previous tax debtor for three years after the announcement or reporting of the transfer for tax claims that arose before the transfer;
-- e. on termination of the tax liability of a wound up legal entity, trading company or partnership without legal personality: the persons entrusted with the liquidation up to the amount of the liquidation surplus;
-- f. for the tax of a legal person that relocates its domicile abroad: the managing bodies up to the amount of the net assets of the legal entity.
+- e. on termination of the tax liability of a wound-up legal entity, trading company or partnership without legal personality: the persons entrusted with the liquidation up to the amount of the liquidation surplus;
+- f. for the tax of a legal person that relocates its domicile abroad: the managing bodies up to the amount of the net assets of the legal entity;
+- g.[^15-2] in the cases referred to in Article 93 paragraph 1<sup>bis</sup>: the managing bodies up to the amount of the security required.
 
 <sup>2</sup> The persons designated in paragraph 1 letters e and f are liable only for the tax, interest and cost claims which arise or fall due under their management; their liability lapses if they can prove that they have done everything that could reasonably be expected of them to ascertain and satisfy the tax claim.
 
-<sup>3</sup> Liability under Article 12 paragraph 3 of the Federal Act of 22 March 1974[^15-2] on Administrative Criminal Law (ACLA) is reserved.
+<sup>3</sup> Liability under Article 12 paragraph 3 of the Federal Act of 22 March 1974[^15-3] on Administrative Criminal Law (ACLA) is reserved.
 
-<sup>4</sup> If a taxable person assigns claims from his business to third parties, the latter are liable on a subsidiary basis for the VAT included in the assignment if at the date of the assignment, the tax debt due to the FTA has not yet arisen and a certificate of shortfall is available.[^15-3]
+<sup>4</sup> If a taxable person assigns claims from their business to third parties, the latter are liable on a subsidiary basis for the VAT included in the assignment if at the date of the assignment, the tax debt due to the FTA has not yet arisen and a certificate of shortfall is available.[^15-4]
+
+<sup>4bis</sup> Sellers who supply goods via a digital platform shall be liable on a subsidiary basis for the tax due on these supplies by the person deemed to be the supplier under Article 20*a*.[^15-5]
 
 <sup>5</sup> The person jointly and severally liable has in proceedings the same rights and obligations as the taxable person.
 
 [^15-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^15-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^15-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^15-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^15-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^15-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^15-5]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 16
 
 **Succession to tax liability**
 
-<sup>1</sup> If a taxable individual dies, his rights and obligations pass to his heirs. They are jointly and severally liable for the taxes owed by the deceased up to the amount of their share of the estate, including amounts received in advance.
+<sup>1</sup> The rights and obligations of a deceased taxable individual pass to that individual’s heirs. The heirs are jointly and severally liable for the taxes owed by the deceased up to the amount of their share of the estate, including amounts received in advance.
 
-<sup>2</sup> A person who takes over a business acquires the tax rights and obligations of his legal predecessor.
+<sup>2</sup> A person who takes over a business acquires the tax rights and obligations of their legal predecessor.
 
 #### Art. 17
 
@@ -364,6 +385,10 @@ Due to the absence of any supply, the following flows of funds in particular do 
 - k. reimbursements, contributions to and allowances for supplies of goods delivered abroad that are exempt from the tax under Article 23 paragraph 2 number 1;
 - l. charges, contributions or other payments received for sovereign activities.
 
+<sup>3</sup> If a public authority expressly designates funds that it pays to the recipient as a subsidy or as another public law contribution, these funds shall be deemed to be a subsidy or another public law contribution within the meaning of paragraph 2 letter a.[^18-1]
+
+[^18-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
 #### Art. 19
 
 **Plurality of supplies**
@@ -386,10 +411,29 @@ Due to the absence of any supply, the following flows of funds in particular do 
 
 If a person acts in the name of and for account of another person, the supply is deemed to be made by the person represented if the representative:
 
-- a. can prove that he is acting as an agent and can clearly identify the person represented; and
+- a. can prove that they are acting as an agent and can clearly identify the person represented; and
 - b. the existence of an agency relationship is expressly notified to the recipient of the supply or is obvious in the circumstances.
 
 <sup>3</sup> If paragraph 1 applies in a triangular relationship, the supply relationship between the person appearing to the outside world and the person actually making the supply is qualified in the same way as the supply relationship between the person acting in relation to the outside world and the person receiving the supply.
+
+#### Art. 20a
+
+**Attribution of supplies in the case of supplies of goods via electronic platforms**[^20a-1]
+
+<sup>1</sup> Persons who facilitate a supply of goods in accordance with Article 3 letter d number 1 to be made with the aid of a digital platform by bringing sellers together with purchasers to conclude a contract on the platform shall be deemed to be a supplier in relation to the purchaser. In this case, there is a supply both between this person and the seller and between this person and the purchaser.
+
+<sup>2</sup>
+
+Persons who fulfil one or more of the following conditions shall not be deemed to be a supplier:
+
+- a. They are neither directly nor indirectly involved in the ordering process.
+- b. They do not generate turnover directly related to the business.
+- c. They only carry out the payment processing in connection with the supply.
+- d. They only provide space for advertisements.
+- e. They only provide advertising services.
+- f. They only redirect or forward purchasers to other electronic platforms.
+
+[^20a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 21
 
@@ -401,41 +445,43 @@ If a person acts in the name of and for account of another person, the supply is
 
 Exempt from the tax without credit are:
 
-- 1\. the transport of goods that is included in the reserved services under Article 3 of the Postal Services Act of 30 April 1997[^21-1];
-- 2\. hospital treatment and medical treatment in human medicine hospitals, including closely related supplies made by hospitals and medical treatment and diagnostic centres. The dispensing of self-manufactured or bought-in artificial limbs and orthopaedic equipment is deemed to be a taxable supply of goods;
+- 1\.[^21-1] the transport of letters that is included in the reserved services under Article 18 of the Postal Services Act of 17 December 2010[^21-2];
+- 2\.[^21-3] hospital treatment and medical treatment in human medicine hospitals, including closely related supplies made by hospitals, medical treatment and diagnostic centres, out-patient facilities and day hospitals. The dispensing of self-manufactured or bought-in artificial limbs and orthopaedic equipment is deemed to be a taxable supply of goods;
 - 3\. human medical treatment provided by doctors, dentists, psychotherapists, chiropractors, physiotherapists, naturopaths, midwives, nursing professionals or members of similar medical and nursing professions, provided the suppliers possess a licence to practise their profession: the Federal Council regulates the details. The dispensing of self-manufactured or bought-in artificial limbs and orthopaedic equipment is deemed to be a taxable supply of goods;
+- 3<sup>bis</sup>.[^21-4] coordinated care services in connection with medical treatment;
 - 4\. the nursing care services supplied by nursing staff, nursing organisations and home aid (Spitex) or in homes, provided they are prescribed by a doctor;
 - 5\. the supply of human organs by recognised medical institutions and hospitals and of human whole blood by persons possessing the necessary licence;
 - 6\. the services of communities whose members are members of the professions listed in number 3, provided the services are supplied proportionately at cost price to the members for direct performance of their activities;
 - 7\. the transport of sick or injured persons or persons with disabilities in vehicles specially adapted for the purpose;
-- 8\.[^21-2] supplies provided by social assistance and social security institutions, supplies by charitable nursing and home aid (Spitex) organisations and by retirement, residential and nursing homes;
+- 8\.[^21-5] supplies provided by social assistance and social security institutions, supplies by nursing and home aid (Spitex) organisations and by retirement, residential and nursing homes;
 - 9\. supplies related to child and youth care provided by institutions specially fitted for the purpose;
 - 10\. supplies closely related to cultural and educational development of young people provided by charitable youth exchange organisations; young people within the meaning of this provision are persons up to the age of 25;
 - 11\.
 
-  the following supplies in the field of education and training:[^21-3]
+  the following supplies in the field of education and training:[^21-6]
 
-  - a. supplies in the field of the education of children and young people, of instruction, of training, of further education and of professional re-training, including instruction given by private teachers or at private schools,
-  - b. courses, lectures, and other events of a scientific or educational nature; lecturing activity is exempt from the tax without credit, irrespective of whether the fee is paid to the instructing person or his employer,
+  - a.[^21-7] supplies in the field of the education of children and young people, of instruction, of training, of continuing education and training and of professional re-training, including instruction given by private teachers or at private schools,
+  - b. courses, lectures, and other events of a scientific or educational nature; lecturing activity is exempt from the tax without credit, irrespective of whether the fee is paid to the instructing person or that person’s employer,
   - c. examinations carried out in the area of education,
   - d. organisational services (including related ancillary services) provided by members of an institution that makes supplies exempt from the tax without credit under letters a–c, for this institution,
   - e. organisational services (including related ancillary services) for agencies of the Confederation, cantons and communes that make supplies exempt from the tax without credit under letters a–c with or without consideration;
 
-- 12\. the provision of staff by religious or philosophical non-profit institutions for purposes of treating the sick, of social assistance and of social security, of child and youth care, of education and training and for religious and charitable purposes and for the common good;
+- 12\.[^21-8] the provision of staff by non-profit institutions for purposes of treating the sick, of social assistance and of social security, of child and youth care, of education and training and for religious and charitable purposes and for the common good;
 - 13\. supplies that non-profit institutions with political, trade union, economic, religious, patriotic, philosophical, philanthropic, ecological, sporting, cultural or civic objects provide to their members against a contribution laid down in statutes or regulations;
 - 14\.
 
-  cultural services of the types listed below supplied directly to, or, if not supplied directly, immediately perceivable by the public:[^21-4]
+  cultural services of the types listed below supplied directly to, or, if not supplied directly, immediately perceivable by the public:[^21-9]
 
   - a. theatrical, musical and choreographic performances and film shows,
-  - b.[^21-5] performances by actors, musicians, dancers and other performing artists, supplies from persons that make an artistic contribution to such performances, and supplies by fairground operators, including games of skill offered by the latter,
+  - b.[^21-10] performances by actors, musicians, dancers and other performing artists, supplies from persons that make an artistic contribution to such performances, and supplies by fairground operators, including games of skill offered by the latter,
   - c. visits to museums, galleries, monuments, historical sites and botanical and zoological gardens,
   - d. services of libraries, archives and places for storing documents, in particular the permitting of inspection of text, sound and image carriers on their premises; however, the supply of goods (including lending for use) by such institutions is taxable;
 
+- 14<sup>bis</sup>.[^21-11] considerations demanded for participation in cultural events (e.g. registration fees), together with the ancillary services included;
 - 15\. considerations demanded for sporting events, including considerations for participation in such events (e.g. starting money), together with the ancillary services included;
-- 16\.[^21-6] cultural services and the supply of cultural works by their creators, such as authors, composers, film makers, painters, sculptors, and services supplied by publishers and collecting societies in order to circulate these works; the foregoing also applies to derivative works under Article 3 of the Copyright Act of 9 October 1992[^21-7] that are of a cultural nature;
-- 17\.[^21-8] supplies made at events such as bazaars, flea markets and raffles held by organisations that perform activities that are exempt from the tax without credit in the field of non-profit-making sports and cultural creativity, in the field of health care, social assistance and social security, and child and youth care, and by charitable nursing and home care (Spitex) organisations and by retirement, residential and nursing homes, provided the events serve the purpose of supporting these organisations financially and are held exclusively for their benefit; supplies provided by social assistance and social security organisations through second hand shops when the turnover thus generated is used exclusively for their benefit;
-- 18\.[^21-9]
+- 16\.[^21-12] cultural services and the supply of cultural works by their creators, such as authors, composers, film makers, painters, sculptors, and services supplied by publishers and collecting societies in order to circulate these works; the foregoing also applies to derivative works under Article 3 of the Copyright Act of 9 October 1992[^21-13] that are of a cultural nature;
+- 17\.[^21-14] supplies made at events such as bazaars, flea markets and raffles held by organisations that perform activities that are exempt from the tax without credit in the field of non-profit-making sports and cultural creativity, in the field of health care, social assistance and social security, and child and youth care, and by charitable nursing and home care (Spitex) organisations and by retirement, residential and nursing homes, provided the events serve the purpose of supporting these organisations financially and are held exclusively for their benefit; supplies provided by social assistance and social security organisations through second hand shops when the turnover thus generated is used exclusively for their benefit;
+- 18\.[^21-15]
 
   in the insurance industry:
 
@@ -457,10 +503,11 @@ Exempt from the tax without credit are:
 
   - a. the granting and brokerage of credits and the management of credits by the lenders,
   - b. the brokerage and assumption of liabilities, sureties and other securities and guarantees and the management of collateral by the lenders,
-  - c. turnovers, including those for brokerage, in deposits and current account transactions, in payment and transfer transactions, in business with money claims, cheques and other negotiable papers; however, the collection of debts on behalf of the creditor (debt collection business) is taxable,
+  - c. turnovers, including those for brokerage, in deposits and current account transactions, in payment and transfer transactions, in business with money claims, cheques and other negotiable papers; however, the collection of debts on behalf of the creditor (debt enforcement business) is taxable,
   - d. turnovers, including brokerage, relating to legal tender (domestic and foreign legal tender, such as currency, bank notes, coins); taxable, however, are collectors’ items (bank notes and coins) that are normally not used as legal tender,
   - e. turnovers (spot and forward transactions), including brokerage, of securities, rights and derivatives and of interests in companies and other forms of association; however, the safe-keeping and the management of securities, rights and derivatives and of interests (especially security deposits) including fiduciary investments are taxable,
-  - f.[^21-10] offering units in collective investment schemes in accordance with the Collective Investment Schemes Act of 23 June 2006[^21-11] (CISA) and the management of collective investment schemes in accordance with CISA by persons who manage such schemes or are responsible for the safekeeping of the assets held in them, fund management companies, custodian banks and their agents; agents are regarded as any natural persons or legal entities that may be delegated tasks by collective capital investment schemes in accordance with the CISA or the Financial Institutions Act of 15 June 2018[^21-12]; the offering of units and the management of investment companies with fixed capital in accordance with Article 110 CISA is governed by letter e;
+  - f.[^21-16] offering units in collective investment schemes in accordance with the Collective Investment Schemes Act of 23 June 2006[^21-17] (CISA) and the management of collective investment schemes in accordance with CISA by persons who manage such schemes or are responsible for the safekeeping of the assets held in them, fund management companies, custodian banks and their agents; agents are regarded as any natural persons or legal entities that may be delegated tasks by collective capital investment schemes in accordance with the CISA or the Financial Institutions Act of 15 June 2018[^21-18]; the offering of units and the management of investment companies with fixed capital in accordance with Article 110 CISA is governed by letter e,
+  - g.[^21-19] the offering of investment groups by investment foundations in accordance with the Federal Act of 25 June 1982[^21-20] on Occupational Old-Age, Survivors' and Invalidity Pension Provision (OPA) and the management of investment groups in accordance with the OPA by persons who manage such groups or are responsible for the safekeeping of the assets held in them, the custodian banks and their agents; agents are deemed to be any natural persons or legal entities to whom the investment foundations may delegate tasks;
 
 - 20\. the transfer and the creation of rights in rem in immovable property and the supplies of communities of condominium owners to the condominium owners, to the extent the supplies consist of the provision of the communal property for use, its maintenance, its repair and other management and the supply of heating and similar goods;
 - 21\.
@@ -475,22 +522,23 @@ Exempt from the tax without credit are:
   - f. the renting of exhibition stands and individual rooms in exhibition and congress buildings;
 
 - 22\. the supply of postal stamps valid on Swiss territory and other official stamps up to their printed value;
-- 23\.[^21-13] turnovers from gambling, to the extent that the gross gaming income is subject to the casino tax under Article 119 of the Gambling Act of 29 September 2017[^21-14] or the net profit achieved thereby is used in full for charitable purposes within the meaning of Article 125 of the said Act;
+- 23\.[^21-21] turnovers from gambling, to the extent that the gross gaming income is subject to the casino tax under Article 119 of the Gambling Act of 29 September 2017[^21-22] or the net profit achieved thereby is used in full for charitable purposes within the meaning of Article 125 of the said Act;
 - 24\. the supply of used movable goods, which were used exclusively for the provision of supplies exempt by this article from the tax without credit;
-- 25\.[^21-15] …
+- 25\.[^21-23] …
 - 26\. the sale of agricultural, forestry and market garden products cultivated in their own business by farmers, foresters or gardeners, the sale of cattle by cattle dealers, and the sale of milk by milk collection points to milk processing plants;
 - 27\. publicity services, which charitable organisations provide for the benefit of third parties or third parties for the benefit of charitable organisations;
-- 28\.[^21-16]
+- 28\.[^21-24]
 
   supplies:
 
   - a. between organisational units within the same public authority,
   - b. between private or public law companies owned wholly by public authorities and the public authorities that own them or their organisational units,
-  - c. between institutions or foundations that were founded exclusively by public authorities and the public authorities that founded them or their organisational units;
+  - c.[^21-25] between institutions or foundations that have been established or are run exclusively by public authorities and these public authorities and their organisational units;
 
-- 28<sup>bis</sup>*.*[^21-17] the provision of staff by public authorities to other public authorities;
+- 28<sup>bis</sup>*.*[^21-26] the provision of staff by public authorities to other public authorities;
 - 29\. the exercise of arbitration functions;
-- 30\.[^21-18] supplies between education and research institutions that are involved in education and research cooperation, provided those supplies are made as part of the cooperation, irrespective of whether the education and research cooperation is liable to value added tax.
+- 30\.[^21-27] supplies between education and research institutions that are involved in education and research cooperation, provided those supplies are made as part of the cooperation, irrespective of whether the education and research cooperation is liable to value added tax;
+- 31\.[^21-28] travel services retailed by travel agents and related travel agency services.
 
 <sup>3</sup> Whether a supply mentioned in paragraph 2 is exempt from the tax without credit is determined, subject to paragraph 4, exclusively by its nature and regardless of who makes or receives the supply.
 
@@ -498,30 +546,40 @@ Exempt from the tax without credit are:
 
 <sup>5</sup> The Federal Council shall specify in more detail the supplies exempt from the tax without credit; in doing so it shall observe the principle of competitive neutrality.
 
-<sup>6</sup> Organisational units of a public authority under paragraph 2 number 28 are its agencies, its private and public companies, provided no other public authority or other third parties participate therein, and its institutions and foundations, provided the public authority founded them without the participation of other public authorities or other third parties.[^21-19]
+<sup>6</sup> Organisational units of a public authority under paragraph 2 number 28 are its agencies, its private and public companies, provided no other public authority or other third parties participate therein, and its institutions and foundations, provided the public authority founded them without the participation of other public authorities or other third parties.[^21-29]
 
-<sup>7</sup> The Federal Council shall determine which institutions are deemed to be education and research institutions under paragraph 2 number 30.[^21-20]
+<sup>7</sup> The Federal Council shall determine which institutions are deemed to be education and research institutions under paragraph 2 number 30.[^21-30]
 
-[^21-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Annex No I]. See now: Art. 18 of the Postal Services Act of 17 Dec. 2010 ([SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
-[^21-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^21-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-4]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-5]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-6]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-7]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^21-8]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-7]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-8]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-9]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-10]: Amended by Annex No II 8 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-11]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^21-12]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^21-13]: Amended by Annex No II 4 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^21-14]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-15]: Repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-16]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). The correction of 31 Aug. 2017 relates to the French text only ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
-[^21-17]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-18]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-19]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-20]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-10]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-11]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-12]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-13]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^21-14]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-15]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-16]: Amended by Annex No II 8 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^21-17]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^21-18]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^21-19]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-20]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^21-21]: Amended by Annex No II 4 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-23]: Repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-24]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). The correction of 31 Aug. 2017 relates to the French text only ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+[^21-25]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-26]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-27]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-28]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-29]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-30]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 22
 
@@ -567,12 +625,29 @@ Exempt from the tax are:
 - 9\. the services of intermediaries acting expressly in the name of and for account of others, provided the brokered supply is either exempt from the tax under this article or is effected exclusively abroad; if the brokered supply is effected both on Swiss territory and abroad, that part of the brokerage that relates to supplies abroad or supplies that are exempt from the tax under this article is exempt from the tax;
 - 10\. the supply of services in their own name by travel agents and organisers of events, to the extent they make use of supplies of goods and services by third parties that are provided abroad; if these supplies by third parties are provided both on Swiss territory and abroad, only that part of the service of the travel agent or of the organiser that relates to supplies abroad is exempt from the tax;
 - 11\.[^23-6] the supply of goods under Article 17 paragraph 1<sup>bis</sup> CustA to persons departing abroad or arriving from abroad by air.
+- 12\.[^23-7]
+
+  Turnover generated by gold and alloys of gold of the following form:
+
+  - a. government minted gold coins under tariff headings 7118.9010, 9705.3100 and 9705.3900[^23-8],
+  - b.
+
+    gold for investment purposes with a minimum standard of fineness of 995 thousandths, in the form of:
+
+    - - cast ingots bearing an indication of fineness and the mark of a recognised assayer-melter, or
+    - - stamped slabs bearing an indication of fineness and the hallmark of a recognised assayer-smelter or a responsibility mark registered in Switzerland,
+
+  - c. gold in the form of granules with a minimum fineness of 995 thousandths, packed and sealed by a recognised assayer-melter,
+  - d. gold in unwrought form or in the form of semi-finished products intended for refining or recovery, and gold in the form of waste and scrap,
+  - e. alloys of gold referred to in letter d, provided they contain two per cent or more by weight of gold or, if they contain platinum, more gold than platinum;
+
+- 13\.[^23-9] the supply of goods by a seller facilitated by means of a digital platform, provided that the person who facilitated the supply of goods is deemed to be a supplier under Article *20a* and is entered in the register of taxable persons.
 
 <sup>3</sup> A direct export under paragraph 2 number 1 is constituted if the good supplied is exported abroad or to an open customs warehouse or bonded warehouse without being used on Swiss territory. In serial transactions, the direct export extends to all suppliers involved. The good supplied may, prior to export, be processed or finished by agents of the non-taxable customer.
 
 <sup>4</sup> The Federal Council may, in order to safeguard competitive neutrality, exempt transport in cross-border air, rail or bus traffic from the tax.
 
-<sup>5</sup> The Federal Department of Finance (FDF) shall regulate the conditions by which domestic supplies of goods are exempt from the tax if being exported in tourist traffic and shall specify the evidence required.
+<sup>5</sup> The Federal Department of Finance (FDF) shall regulate the conditions by which domestic supplies of goods to foreign tourists are exempt from the tax if being exported by these tourists and shall specify the evidence required. Proof may be provided in electronic form.[^23-10]
 
 [^23-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-2]: Amended by No I 18 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
@@ -580,6 +655,10 @@ Exempt from the tax are:
 [^23-4]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-6]: Inserted by No I 2 of the FA of 17 Dec. 2010 on the Purchase of Goods in Duty-Free Shops at Airports, in force since 1 June 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
+[^23-7]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-8]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^23-9]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-10]: Second sentence inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Chapter 3 Assessment Basis and Tax Rates
 
@@ -597,24 +676,28 @@ Exempt from the tax are:
 
 <sup>5</sup> For supplies made in lieu of payment, the consideration is deemed to be the amount which is thereby satisfied.
 
+<sup>5bis</sup> If a person is deemed to be a supplier in accordance with Article 20*a*, the consideration for the supply which that person has facilitated shall be equal to the value which they have communicated to the purchaser of the goods.[^24-1]
+
 <sup>6</sup>
 
 Not included in the assessment basis are:
 
 - a. ticket taxes, immovable property transfer taxes and the VAT itself payable on the supply;
-- b. amounts that the taxable person receives from the person receiving the supply as reimbursement of outlays made in his name and for his account, provided they are detailed separately (transitory items);
+- b. amounts that the taxable person receives from the person receiving the supply as reimbursement of outlays made in the name and for the account of the taxable person, provided they are detailed separately (transitory items);
 - c. the portion of the consideration that, on sale of an immovable good, relates to the value of the land;
 - d. the cantonal contributions to water, sewage or waste funds included in the price of disposal and supply services, to the extent that these contributions are used by these funds to pay contributions to disposal organisations or waterworks.
+
+[^24-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 24a
 
 **Margin taxation**[^24a-1]
 
-<sup>1</sup> If the person liable to tax has acquired collectors’ items such as works of art, antiques and suchlike, in order to calculate the tax he may deduct the purchase price from selling price provided he has not deducted input tax from the purchase price (margin taxation). If the purchase price is higher than the selling price, the loss may be set off, in that the difference is deducted from taxable turnover.
+<sup>1</sup> If the person liable to tax has acquired collectors’ items such as works of art, antiques and suchlike, in order to calculate the tax, they may deduct the purchase price from selling price provided they have not deducted input tax from the purchase price (margin taxation). If the purchase price is higher than the selling price, the loss may be set off, in that the difference is deducted from taxable turnover.
 
 <sup>2</sup> If such collectors’ items are imported by the reseller, the import tax paid may be added to the purchase price.
 
-<sup>3</sup> A person is deemed to be a reseller if he acts for his own account or for the account of another on the basis of a purchase or sales commission agreement.
+<sup>3</sup> A person is deemed to be a reseller if they act for their own account or for the account of another on the basis of a purchase or sales commission agreement.
 
 <sup>4</sup> The Federal Council shall determine what is deemed to be a collectors’ item.
 
@@ -644,16 +727,17 @@ The reduced tax rate of 2.6 per cent applies to:[^25-2]
   - 6\. animal feed, silage acids, scatterings for animals,
   - 7\. fertilisers, pesticides, mulch and other vegetation used as covering material,
   - 8\. medication,
-  - 9\. newspapers, magazines, books and other printed matter without advertising character of the kinds to be stipulated by the Federal Council;
+  - 9\. newspapers, magazines, books and other printed matter without advertising character of the kinds to be stipulated by the Federal Council,
+  - 10\.[^25-5] products for menstrual hygiene;
 
-- a<sup>bis</sup>.[^25-5] electronic newspapers, magazines and books without advertising character as defined by the Federal Council;
+- a<sup>bis</sup>.[^25-6] electronic newspapers, magazines and books without advertising character as defined by the Federal Council;
 - b. the supply of services of radio and television companies, with the exception of services of a commercial nature;
 - c. the supplies under Article 21 paragraph 2 numbers 14–16;
 - d. agricultural supplies that consist of land cultivation directly related to initial production or cultivation of initial production products connected with the land.
 
-<sup>3</sup> For foodstuffs that form part of restaurant supplies, the standard rate applies. A restaurant supply is the serving of foodstuffs provided the taxable person prepares or serves the foodstuffs on the customer’s premises or the taxable person maintains special installations for their consumption on the spot. If foodstuffs, with the exception of alcoholic beverages, are destined to be taken away or for delivery, the reduced tax rate applies provided suitable organisational measures are taken to differentiate these supplies from restaurant supplies; if this is not the case, the standard rate applies. Where foodstuffs, with the exception of alcoholic beverages, are offered in vending machines, the reduced tax rate applies.[^25-6]
+<sup>3</sup> For foodstuffs that form part of restaurant supplies, the standard rate applies. A restaurant supply is the serving of foodstuffs provided the taxable person prepares or serves the foodstuffs on the customer’s premises or the taxable person maintains special installations for their consumption on the spot. If foodstuffs, with the exception of alcoholic beverages, are destined to be taken away or for delivery, the reduced tax rate applies provided suitable organisational measures are taken to differentiate these supplies from restaurant supplies; if this is not the case, the standard rate applies. Where foodstuffs, with the exception of alcoholic beverages, are offered in vending machines, the reduced tax rate applies.[^25-7]
 
-<sup>4</sup> The tax on accommodation services is 3.8 per cent (special rate).[^25-7] The special rate applies until 31 December 2020 or, in the event that the time limit in Article 196 number 14 paragraph 1 of the Federal Constitution is extended, until 31 December 2027 at the latest. An accommodation service is the provision of accommodation, including the serving of breakfast, even if it is invoiced separately.[^25-8]
+<sup>4</sup> The tax on accommodation services is 3.8 per cent (special rate).[^25-8] The special rate applies until 31 December 2020 or, in the event that the time limit in Article 196 number 14 paragraph 1 of the Federal Constitution is extended, until 31 December 2027 at the latest. An accommodation service is the provision of accommodation, including the serving of breakfast, even if it is invoiced separately.[^25-9]
 
 <sup>5</sup> The Federal Council shall specify in greater detail the goods and services designated in paragraph 2; in doing so it shall observe the principle of competitive neutrality.
 
@@ -661,10 +745,11 @@ The reduced tax rate of 2.6 per cent applies to:[^25-2]
 [^25-2]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Amended by Annex No II 3 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^25-5]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-6]: Amended by No IV of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-7]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
-[^25-8]: Amended by No II 1 of the FA of 16 June 2017, in force since 1 Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-5]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^25-6]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^25-7]: Amended by No IV of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^25-8]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-9]: Amended by No II 1 of the FA of 16 June 2017, in force since 1 Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### Chapter 4 Invoicing and VAT Details
 
@@ -678,8 +763,8 @@ The reduced tax rate of 2.6 per cent applies to:[^25-2]
 
 The invoice must clearly identify the supplier, the recipient and the nature of the supply and as a rule contain the following elements:
 
-- a.[^26-1] the name and the location of the supplier in the form in which he presents himself in business transactions, a note that he is registered as a taxable person and the number under which he is entered in the Register of Taxable Persons;
-- b. the name and location of the recipient of the supply in the form in which he presents himself in business transactions;
+- a.[^26-1] the name and the location of the supplier in the form which the supplier uses in business transactions, a note that they are registered as a taxable person and the number under which they are entered in the Register of Taxable Persons;
+- b. the name and location of the recipient of the supply in the form in which they use in business transactions;
 - c. the date or period of the provision of the supply, in the event that it differs from the invoice date;
 - d. the nature, object and extent of the supply;
 - e. the consideration for the supply;
@@ -693,14 +778,14 @@ The invoice must clearly identify the supplier, the recipient and the nature of 
 
 **Incorrect or unauthorised VAT details**
 
-<sup>1</sup> Any person not entered in the Register of Taxable Persons or who uses the notification procedure according to Article 38 may not include VAT details on invoices.
+<sup>1</sup> Persons not entered in the Register of Taxable Persons or who use the notification procedure according to Article 38 may not include VAT details on invoices.
 
 <sup>2</sup>
 
-Any person who includes VAT details on an invoice when not entitled to do so, or who details too high a tax for a supply, shall owe the tax detailed unless:
+Persons who include VAT details on an invoice when not entitled to do so, or who detail too high a tax for a supply, shall owe the tax detailed unless:
 
 - a. the invoice is corrected in accordance with paragraph 4; or
-- b.[^27-1] he shows probable cause that the Confederation has not suffered a loss of tax; tax is not lost if the recipient of the invoice has not made an input tax deduction or if the input tax claimed has been repaid to the Confederation.
+- b.[^27-1] they show probable cause that the Confederation has not suffered a loss of tax; tax is not lost if the recipient of the invoice has not made an input tax deduction or if the input tax claimed has been repaid to the Confederation.
 
 <sup>3</sup> The legal consequences of paragraph 2 also apply to credit notes, unless the recipient of the credit note contests in writing the tax detailed without authorisation or the excessive tax amount.[^27-2]
 
@@ -717,15 +802,15 @@ Any person who includes VAT details on an invoice when not entitled to do so, or
 
 <sup>1</sup>
 
-The taxable person may in the course of his business activity, subject to Articles 29 and 33, deduct the following input taxes:
+The taxable person may in the course of their business activity, subject to Articles 29 and 33, deduct the following input taxes:
 
-- a. the domestic tax invoiced to him;
-- b. the acquisition tax declared by him (Art. 45–49);
-- c. the import tax paid or payable by him which has been assessed unconditionally or has been assessed conditionally and fallen due as well as the tax declared by him for the import of goods (Art. 52 and 63).
+- a. the domestic tax invoiced to them;
+- b. the acquisition tax that they have declared (Art. 45–49);
+- c. the import tax paid or payable by them which has been assessed unconditionally or has been assessed conditionally and fallen due as well as the tax declared by them for the import of goods (Art. 52 and 63).
 
-<sup>2</sup> If the taxable person has, in the course of a business activity entitling him to make an input tax deduction, procured agricultural, forestry or market garden products, cattle or milk from non-taxable farmers, foresters, gardeners, cattle dealers or milk collectors, he may deduct as input tax 2.6 per cent of the amount invoiced.[^28-1]
+<sup>2</sup> If the taxable person has, in the course of a business activity entitling them to make an input tax deduction, procured agricultural, forestry or market garden products, cattle or milk from non-taxable farmers, foresters, gardeners, cattle dealers or milk collectors, they may deduct as input tax 2.6 per cent of the amount invoiced.[^28-1]
 
-<sup>3</sup> Deduction of the input tax under paragraph 1 is permissible if the taxable person proves that he has paid the input tax.[^28-2]
+<sup>3</sup> Deduction of the input tax under paragraph 1 is permissible if the taxable person proves that they have paid the input tax.[^28-2]
 
 [^28-1]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^28-2]: Originally: para. 4. Original version of para. 3 repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -738,8 +823,8 @@ The taxable person may in the course of his business activity, subject to Articl
 
 The taxable person may deduct notional input tax if:
 
-- a. he acquires an individualisable moveable good in the course of a business activity entitling him to make an input tax deduction; and
-- b. the VAT on acquisition of the good has not been openly passed on to him.
+- a. they acquire an individualisable moveable good in the course of a business activity entitling them to make an input tax deduction; and
+- b. the VAT on acquisition of the good has not been openly passed on to them.
 
 <sup>2</sup> The notional input tax is calculated on the basis of the amount paid by the taxable person. The amount paid is regarded as including the tax at the tax rate applicable at the time of acquisition.
 
@@ -753,23 +838,26 @@ The taxable person may deduct notional input tax if:
 
 <sup>1</sup> There is no right to make an input tax deduction on supplies and the import of goods which are used to make supplies that are exempt without credit from the tax and where the option for their taxation has not been exercised.
 
-<sup>1bis</sup> An input tax deduction for supplies made abroad is possible to the same extent as if they had been made on Swiss territory and taxation had been opted for under Article 22.[^29-1]
+<sup>1bis</sup> An input tax deduction for supplies made abroad is permitted to the same extent as if they had been made on Swiss territory and taxation had been opted for under Article 22.[^29-1]
 
-<sup>2</sup> Notwithstanding paragraph 1, there is a right to make an input tax deduction in the course of a business activity entitling the taxable person to make an input tax deduction for the purchase, holding and sale of interests and for reorganisations as defined by Article 19 or 61 of the Federal Act of 14 December 1990[^29-2] on Direct Federal Taxation (DFTA).
+<sup>1ter</sup> An input tax deduction is permitted for travel services retailed by travel agents and the related services of the travel agents if the services are provided or used abroad.[^29-2]
+
+<sup>2</sup> Notwithstanding paragraph 1, there is a right to make an input tax deduction in the course of a business activity entitling the taxable person to make an input tax deduction for the purchase, holding and sale of interests and for reorganisations as defined by Article 19 or 61 of the Federal Act of 14 December 1990[^29-3] on Direct Federal Taxation (DFTA).
 
 <sup>3</sup> Interests are participations in the capital of other businesses that are held with the intent of long-term investment and confer significant influence. Participations of at least 10 per cent in the capital are deemed to be an interest.
 
-<sup>4</sup> In order to ascertain the deductible input tax, holding companies may base their calculation on the business activity of the businesses held by them that gives rise to the right to make an input tax deduction.[^29-3]
+<sup>4</sup> In order to ascertain the deductible input tax, holding companies may base their calculation on the business activity of the businesses held by them that gives rise to the right to make an input tax deduction.[^29-4]
 
 [^29-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^29-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^29-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^29-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 30
 
 **Mixed use**
 
-<sup>1</sup> If the taxable person also uses goods, parts thereof or services outside his business activity, or uses the same within his business activity both for supplies entitling the taxable person to make an input tax deduction and for supplies that are excluded from input tax deduction, he must correct the input tax deduction in proportion to their use.
+<sup>1</sup> If the taxable person also uses goods, parts thereof or services outside their business activity, or uses the same within their business activity both for supplies entitling the taxable person to make an input tax deduction and for supplies that are excluded from input tax deduction, the taxable person must correct the input tax deduction in proportion to their use.
 
 <sup>2</sup> If such a pre-supply is predominantly used in the course of the business activity involving supplies entitling the taxable person to make an input tax deduction, the input tax may be deducted in full and corrected at the end of the tax period (Art. 31).
 
@@ -781,14 +869,14 @@ The taxable person may deduct notional input tax if:
 
 <sup>2</sup>
 
-Own use occurs in particular where the taxable person withdraws goods or services permanently or temporarily from his business, provided on procurement or contribution of the whole or of its components he has made an input tax deduction or he has procured the goods or services under the notification procedure according to Article 38 which:
+Own use occurs in particular where the taxable person withdraws goods or services permanently or temporarily from their business, provided on procurement or contribution of the whole or of its components they have made an input tax deduction or they have procured the goods or services under the notification procedure in accordance with Article 38 which:
 
-- a. he uses outside his business activity, in particular for private purposes;
-- b. he uses for a business activity which does not entitle him to make the input tax deduction under Article 29 paragraph 1;
-- c. he hands over without consideration, without there being a business reason; in the case of gifts of up to 500 francs per person and year and of advertising gifts and samples with the aim of realising turnovers taxable or exempt from the tax, a business reason will be presumed automatically;
-- d. on the cessation of tax liability are still subject to his right of disposal.
+- a. they use outside their business activity, in particular for private purposes;
+- b. they use for a business activity which does not entitle them to make the input tax deduction under Article 29 paragraph 1;
+- c. they hand over without consideration, without there being a business reason; in the case of gifts of up to 500 francs per person and year and of advertising gifts and samples with the aim of realising turnovers taxable or exempt from the tax, a business reason will be presumed automatically;
+- d. on the cessation of tax liability are still subject to their right of disposal.
 
-<sup>3</sup> If in the period between the receipt of the supply and the non-fulfilment of the conditions for the input tax deduction, the good or service was put to use, the input tax deduction must be corrected in the amount of the fair value of the good or the service. To determine the fair value, the input tax amount is reduced on a straight line basis for every year that has expired by a fifth for movable goods and for services, and by a twentieth for immovable goods. The accounting treatment is of no significance. The Federal Council may, in justified cases, stipulate departures from the depreciation rules.
+<sup>3</sup> If in the period between the receipt of the supply and the non-fulfilment of the conditions for the input tax deduction, the good or service was put to use, the input tax deduction must be corrected in the amount of the fair value of the good or the service. To determine the fair value, the input tax amount is reduced on a straight-line basis for every year that has expired by a fifth for movable goods and for services, and by a twentieth for immovable goods. The accounting treatment is of no significance. The Federal Council may, in justified cases, stipulate departures from the depreciation rules.
 
 <sup>4</sup> If a good is used only temporarily outside the business activity or for a business activity not entitling the taxable person to make an input tax deduction, the input tax deduction must be corrected based on the amount of the tax that would be due on the rent that an independent third person would charge therefor.
 
@@ -798,7 +886,7 @@ Own use occurs in particular where the taxable person withdraws goods or service
 
 <sup>1</sup> If the conditions for the input tax deduction arise later (subsequent input tax deduction), the input tax deduction may be made in the reporting period in which the conditions arose. The input tax not deducted earlier, including the portion corrected for own use, may be deducted.
 
-<sup>2</sup> If the good or the service was put into use in the time between receipt or import of the supply and the occurrence of the conditions for the input tax deduction, the deductible input tax is limited to the fair value of the good or the service. To determine the fair value, the input tax amount is reduced on a straight line basis for every year that has expired by a fifth for movable goods and for services, and by a twentieth for immovable goods. The accounting treatment is of no significance. The Federal Council may, in justified cases, stipulate departures from the depreciation rules.
+<sup>2</sup> If the good or the service was put into use in the time between receipt or import of the supply and the occurrence of the conditions for the input tax deduction, the deductible input tax is limited to the fair value of the good or the service. To determine the fair value, the input tax amount is reduced on a straight-line basis for every year that has expired by a fifth for movable goods and for services, and by a twentieth for immovable goods. The accounting treatment is of no significance. The Federal Council may, in justified cases, stipulate departures from the depreciation rules.
 
 <sup>3</sup> If a good is used only temporarily outside the business activity or for a business activity not entitling the input tax deduction, the input tax deduction must be corrected based on the amount of the tax that would be due on the rent that an independent third person would charge therefor.
 
@@ -808,7 +896,7 @@ Own use occurs in particular where the taxable person withdraws goods or service
 
 <sup>1</sup> Flows of funds that are not deemed to be consideration (Art. 18 para. 2), do not result in a reduction of the input tax deduction, subject to paragraph 2.
 
-<sup>2</sup> The taxable person must reduce his input tax deduction proportionately if he receives money under Article 18 paragraph 2 letters a–c.
+<sup>2</sup> The taxable person must reduce their input tax deduction proportionately if they receive money under Article 18 paragraph 2 letters a–c.
 
 ### Chapter 6 Calculation, Constitution and Prescription of the Tax Claim
 
@@ -830,15 +918,33 @@ Own use occurs in particular where the taxable person withdraws goods or service
 
 **Reporting period**
 
-<sup>1</sup>
+<sup>1</sup> Within the tax period, the tax shall be reported on a quarterly basis. For reporting using net tax rates (Art. 37 paras. 1 and 2), the tax shall be reported half-yearly.[^35-1]
 
-Within the tax period, the tax is reported:
+<sup>1bis</sup>
 
-- a. as a rule quarterly;
-- b. for reporting using net tax rates (Art. 37 paras. 1 and 2): every six months;
-- c. if there are regular input tax surpluses: at the request of the taxable person, monthly.
+At the request of the taxable person, the tax shall be reported:
+
+- a. in the case of a regular input tax surplus: monthly;
+- b. in the case of a turnover not exceeding 5,005,000 francs from taxable supplies each year: annually.[^35-2]
 
 <sup>2</sup> On application, the FTA shall permit, in justifiable cases, other reporting periods and shall stipulate the conditions therefor.
+
+[^35-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^35-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
+#### Art. 35a
+
+**Annual reporting**[^35a-1]
+
+<sup>1</sup> The FTA may refuse or revoke authorisation for annual reporting in the case of taxable persons who fail to comply or only partially comply with their reporting and payment obligations.
+
+<sup>2</sup> Annual reporting must be used for at least one full tax period.
+
+<sup>3</sup> Any person who changes from annual to monthly, quarterly or half-yearly reporting may change back to annual reporting after three tax periods at the earliest.
+
+<sup>4</sup> Changes must take effect at the beginning of a tax period.
+
+[^35a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Section 2 Amount of the Tax Claim and Notification Procedure
 
@@ -854,13 +960,13 @@ Within the tax period, the tax is reported:
 
 **Reporting using the net tax rate and the flat tax rate methods**
 
-<sup>1</sup> If a taxable person does not generate more than 5,024,000 francs turnover from taxable supplies annually and in the same period does not have to pay more than 108,000 francs in tax, calculated at the net tax rate that applies to him, he may report under the net tax rate method.[^37-1]
+<sup>1</sup> If a taxable person does not generate more than 5,024,000 francs turnover from taxable supplies annually and in the same period does not have to pay more than 108,000 francs in tax, calculated at the net tax rate that applies to them, they may report under the net tax rate method.[^37-1]
 
 <sup>2</sup> When using the net tax rate method, the tax claim is determined by multiplying the sum of the taxable considerations, including tax, generated in the reporting period by the net tax rate approved by the FTA.
 
 <sup>3</sup> The net tax rates take into account the input tax amounts usual in the relevant branch of the industry. They are fixed by the FTA after consultation with the industry association concerned.[^37-2]
 
-<sup>4</sup> Authorisation to report under the net tax rate method must be requested from the FTA and the method must be used for at least one tax period. If the taxable person elects for the effective reporting method, he may not change to the net tax rate method for at least three years. Changes are possible for the beginning of a tax period.
+<sup>4</sup> Authorisation to report under the net tax rate method must be requested from the FTA and the method must be used for at least one tax period. If the taxable person elects for the effective reporting method, they may not change to the net tax rate method for at least three years. Changes are possible for the beginning of a tax period.
 
 <sup>5</sup> Public authorities and related institutions, in particular private hospitals and schools or licensed transport undertakings and associations and foundations may report using the flat tax rate method. The Federal Council shall regulate the details.
 
@@ -873,10 +979,10 @@ Within the tax period, the tax is reported:
 
 <sup>1</sup>
 
-If the tax calculated at the statutory rate on the sales price exceeds 10,000 francs or if the sale is made to a closely related person, the taxable person must fulfil his reporting and tax payment obligation by notification in the following cases:
+If the tax calculated at the statutory rate on the sales price exceeds 10,000 francs or if the sale is made to a closely related person, the taxable person must fulfil their reporting and tax payment obligation by notification in the following cases:
 
 - a.[^38-1] reorganisations in accordance with Articles 19 or 61 DFTA[^38-2];
-- b.[^38-3] other transfers of all or part of assets to another taxable person in the context of an incorporation, liquidation, reorganisation, sale of business or a legal transaction regulated in the Mergers Act of 3 October 2003[^38-4].
+- b.[^38-3] other transfers of all of the assets or part of the assets to another taxable person in the context of an incorporation, liquidation, reorganisation, sale of business or a legal transaction regulated in the Mergers Act of 3 October 2003[^38-4].
 
 <sup>2</sup> The Federal Council may determine other cases in which the notification procedure must be, or may be, used.
 
@@ -899,16 +1005,16 @@ If the tax calculated at the statutory rate on the sales price exceeds 10,000 fr
 
 <sup>1</sup> The tax shall be reported based on the agreed consideration.
 
-<sup>2</sup> The FTA shall allow the taxable person on application to report on the basis of the consideration collected.
+<sup>2</sup> The FTA shall allow taxable persons on application to report on the basis of the consideration collected.
 
 <sup>3</sup> The form of reporting chosen must be retained for at least one tax period.
 
 <sup>4</sup>
 
-The FTA may require the taxable person to report on the basis of the consideration collected if:
+The FTA may require taxable persons to report on the basis of the consideration collected if:
 
-- a. he receives to a significant extent considerations before he performs the supply or issues an invoice; or
-- b. there is reasonable suspicion that the taxable person is abusing the procedure of reporting based on agreed considerations to obtain an unlawful benefit for himself or a third party.
+- a. they receive, to a significant extent, considerations before they make the supply or issue an invoice; or
+- b. there is reasonable suspicion that a taxable person is abusing the procedure of reporting based on agreed considerations to obtain an unlawful benefit for themselves or a third party.
 
 #### Art. 40
 
@@ -924,9 +1030,11 @@ If reporting is on the basis of agreed considerations, the right to make an inpu
 
 <sup>2</sup> If reporting is based on collected considerations, the right to make an input tax deduction is constituted at the time of payment. The turnover tax liability is incurred on collection of the consideration.
 
-<sup>3</sup> The right to make an input tax deduction based on the acquisition tax is constituted at the time of reporting the acquisition tax (Art. 47).
+<sup>3</sup> The right to make an input tax deduction based on the acquisition tax is constituted at the time of reporting the acquisition tax (Art. 48).[^40-1]
 
 <sup>4</sup> The right to make an input tax deduction based on the import tax is constituted at the end of the reporting period in which the tax was established.
+
+[^40-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 41
 
@@ -942,7 +1050,7 @@ If reporting is on the basis of agreed considerations, the right to make an inpu
 
 <sup>1</sup> The right to establish a tax claim prescribes five years from the end of the tax period in which the tax claim was established.
 
-<sup>2</sup> This prescriptive period is interrupted by a written declaration requiring confirmation of receipt that is aimed at establishing or correcting the tax claim, a ruling, a decision on an objection, or a judgment. A corresponding interruption of the prescriptive period may also be achieved by the announcement of an audit under Article 78 paragraph 3 or the commencement of an unannounced audit.
+<sup>2</sup> This prescriptive period is interrupted by a written declaration requiring confirmation of receipt that is aimed at establishing or correcting the tax claim, a ruling, a decision on opposition, or a judgment. A corresponding interruption of the prescriptive period may also be achieved by the announcement of an audit under Article 78 paragraph 3 or the commencement of an unannounced audit.
 
 <sup>3</sup> If the prescriptive period is interrupted by the FTA or an appeal body, the prescriptive period begins to run again. It then runs for two years.
 
@@ -960,7 +1068,7 @@ If reporting is on the basis of agreed considerations, the right to make an inpu
 
 The tax claim is made legally binding by:
 
-- a. a ruling that has become legally binding, a decision on an objection that has become legally binding or a judgment that has become legally binding;
+- a. a ruling that has become legally binding, a decision on opposition that has become legally binding or a judgment that has become legally binding;
 - b. the written recognition or payment without reservation of an assessment notice by the taxable person;
 - c. the prescription of the right to establish the tax.
 
@@ -970,7 +1078,7 @@ The tax claim is made legally binding by:
 
 **Assignment and pledge of the tax claim**
 
-<sup>1</sup> The taxable person may assign and pledge his tax claim in accordance with the provisions of private law.
+<sup>1</sup> The taxable person may assign and pledge their tax claim in accordance with the provisions of private law.
 
 <sup>2</sup> The rights of the FTA, namely to object and to take measures to secure the tax, are not affected by the assignment or pledge.[^44-1]
 
@@ -989,20 +1097,22 @@ The following are subject to the acquisition tax:
 - a.[^45-1] supplies of services by businesses based abroad that are not entered in the Register of Taxable Persons where the place of supply under Article 8 paragraph 1 is situated on Swiss territory, with the exception of telecommunication or electronic services supplied to non-taxable recipients;
 - b. the import of data storage media without market value with the services and rights included therein (Art. 52 para. 2);
 - c.[^45-2] supplies of immovable goods on Swiss territory that are not subject to import tax and which are made by businesses based abroad and which are not entered in the Register of Taxable Persons, with the exception of making such goods available for use or exploitation;
-- d.[^45-3] the supply of electricity in cables, gas via the natural gas distribution network and district heating by businesses based abroad to persons liable to tax on Swiss territory.
+- d.[^45-3] the supply of electricity in cables, gas via the natural gas distribution network and district heating by businesses based abroad to persons liable to tax on Swiss territory;
+- e.[^45-4] the transfer of emission allowances, certificates and attestations for emission reductions, certificates of origin for electricity and similar rights, certificates and allowances by businesses with registered office, domicile or a permanent establishment abroad or on Swiss territory, which is not exempt from domestic tax without credit in accordance with Article 21 paragraph 2 number 19 letter e.
 
 <sup>2</sup>
 
-The recipient of supplies under paragraph 1 is liable to the tax, provided he:[^45-4]
+The recipient of supplies under paragraph 1 is liable to the tax, provided they:[^45-5]
 
-- a. is liable to the tax under Article 10; or
-- b.[^45-5] procures such supplies for more than 10,000 francs in the calendar year.
+- a. are liable to the tax under Article 10; or
+- b.[^45-6] procure such supplies for more than 10,000 francs in the calendar year.
 
 [^45-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^45-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^45-3]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^45-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-4]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^45-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-6]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 45a
 
@@ -1065,9 +1175,9 @@ Joint and several liability under Article 70 paragraph 3 CustA does not apply to
 
 - a. is entitled to make an input tax deduction (Art. 28);
 - b.[^51-2] has the import tax debt charged via the FOCBS’s[^51-3] centralised settlement procedure (CSP) account; and
-- c. has commissioned the person who files customs declarations commercially to act as his direct agent.
+- c. has commissioned the person who files customs declarations commercially to act as their direct agent.
 
-<sup>3</sup> The FOCBS may require the person who issues customs declarations commercially to provide evidence of his authority as an agent.[^51-4]
+<sup>3</sup> The FOCBS may require the person who issues customs declarations commercially to provide evidence of their authority as an agent.[^51-4]
 
 [^51-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^51-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1112,12 +1222,14 @@ Exempt from the tax is the import of:
 - i. goods that are imported onto Swiss territory for temporary admission under Articles 9 and 58 CustA or for inward processing under Articles 12 and 59 CustA under the procedure with entitlement to reimbursement, subject to Article 54 paragraph 1 letter d;
 - j. goods that are temporarily imported onto Swiss territory by a person registered on Swiss territory as a taxable person for job processing under a work and labour contract and which are assessed under the procedure for inward processing as being conditionally due for payment (suspensive procedure) (Art. 12 and 59 CustA);
 - k. goods that were exported from Swiss territory under Article 9 and 58 CustA for temporary admission or under Articles 13 and 60 CustA for outward job processing under a work and labour contract and are returned to the consignor on Swiss territory, subject to Article 54 paragraph 1 letter e;
-- l. goods that have been taken abroad for job processing under a work and labour contract under the export procedure (Art. 61 CustA) and are returned to the consignor on Swiss territory, subject to Article 54 paragraph 1 letter f.
+- l. goods that have been taken abroad for job processing under a work and labour contract under the export procedure (Art. 61 CustA) and are returned to the consignor on Swiss territory, subject to Article 54 paragraph 1 letter f;
+- m.[^53-3] gold and alloys of gold in accordance with Article 23 paragraph 2 item 12.
 
 <sup>2</sup> The Federal Council may exempt from the import tax goods that it declares exempt from customs duties under Article 8 paragraph 2 letter a CustA.
 
 [^53-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^53-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^53-3]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 54
 
@@ -1135,7 +1247,7 @@ The tax is calculated:
 - f. on the consideration for the work carried out abroad on goods (Art. 3 let. d no. 2), provided they have been taken abroad for job processing under a work and labour contract under the export procedure (Art. 61 CustA) and are returned to the consignor on Swiss territory;
 - g.[^54-3] on the market value in the remaining cases; the market value is what the importer, at the level at which the import is effected, would have to pay to obtain the same goods from an independent supplier in the source land of the goods at the time that the import tax debt is incurred under Article 56 under the conditions of free competition.
 
-<sup>2</sup> If the tax calculation is based on the consideration, the consideration paid or payable by the importer or by a third party in his stead under Article 24 applies, subject to Article 18 paragraph 2 letter h. If the consideration is altered subsequently, Article 41 applies by analogy.
+<sup>2</sup> If the tax calculation is based on the consideration, the consideration paid or payable by the importer or by a third party in their stead under Article 24 applies, subject to Article 18 paragraph 2 letter h. If the consideration is altered subsequently, Article 41 applies by analogy.
 
 <sup>3</sup>
 
@@ -1299,11 +1411,18 @@ The interest-free period of 60 days does not begin to run until:
 
 **Transfer of the tax payment**
 
-<sup>1</sup> Taxable importers registered with the FTA as taxable persons that report using the effective method may, instead of paying the tax payable on the import of goods to the FOCBS, declare it in their periodic tax return to the FTA (transfer procedure), provided they regularly import and export goods and significant input tax surpluses result.
+<sup>1</sup>
+
+The following taxable persons may declare the tax payable on the import of goods in their periodic tax return to the FTA instead of paying it to the FOCBS (transfer procedure):
+
+- a. taxable importers registered with the FTA that report using the effective method, provided they regularly import and export goods and this regularly results in significant input tax surpluses;
+- b. suppliers in accordance with Article 20*a* who are registered as taxable persons, provided that no administrative measure in accordance with Article 79*a* has been ordered against them.[^63-1]
 
 <sup>2</sup> If the goods imported under the transfer procedure are further processed or finished on Swiss territory after the import, the FTA may authorise taxable persons to supply the processed or finished goods to other taxable persons without calculating the tax.
 
 <sup>3</sup> The Federal Council stipulates the details of the transfer procedure.
+
+[^63-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 64
 
@@ -1371,7 +1490,7 @@ The period for submission of an application is:
 
 <sup>2</sup> If tax liability ends in accordance with Article 14 paragraph 2, the taxable person must de-register with the FTA in writing within 30 days of the end of the business activity, and at the latest on conclusion of the liquidation proceedings.
 
-<sup>3</sup> Any person who becomes taxable solely because of the acquisition tax (Art. 45 para. 2) must register with the FTA in writing within 60 days of the end of the calendar year in which he is liable for tax and at the same time declare the supplies procured.
+<sup>3</sup> Persons who become taxable solely because of the acquisition tax (Art. 45 para. 2) must register with the FTA in writing within 60 days of the end of the calendar year in which they are liable for tax and at the same time declare the supplies procured.
 
 [^66-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 [^66-2]: Second sentence amended by Annex No 2 of the FA of 18 June 2010 on the Business Identification Number, in force since 1 Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
@@ -1380,17 +1499,22 @@ The period for submission of an application is:
 
 **Tax representation**
 
-<sup>1</sup> Taxable persons without a domicile, registered office or permanent establishment on Swiss territory must appoint a representative to perform their procedural obligations who has his domicile, registered office or permanent establishment on Swiss territory.
+<sup>1</sup> Taxable persons without a domicile, registered office or permanent establishment on Swiss territory must appoint a representative to perform their procedural obligations who has their domicile or registered office in Switzerland.[^67-1]
 
-<sup>2</sup> In the case of group taxation (Art. 13), the VAT group must appoint a representative to fulfil their procedural obligations who has his domicile or place of business in Switzerland.
+<sup>1bis</sup> The FTA may dispense with the appointment of a representative in accordance with paragraph 1 provided the fulfilment of the procedural obligations by the taxable person and the prompt enforcement of this Act are guaranteed in another way; the foregoing is subject to any specific statutory provisions that may apply.[^67-2]
+
+<sup>2</sup> In the case of group taxation (Art. 13), the VAT group must appoint a representative domiciled or with place of business in Switzerland to fulfil their procedural obligations.
 
 <sup>3</sup> The appointment of a representative under paragraphs 1 and 2 does not constitute a permanent establishment in accordance with the direct tax provisions.
+
+[^67-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^67-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 68
 
 **Obligation to provide information**
 
-<sup>1</sup> The taxable person must provide the FTA in good faith with information on all matters that to the best of his knowledge and belief could be of significance to tax liability or for assessment of the tax, and must submit the documents required.
+<sup>1</sup> The taxable person must provide the FTA in good faith with information on all matters that to the best of their knowledge and belief could be of significance to tax liability or for assessment of the tax, and must submit the documents required.
 
 <sup>2</sup> Professional confidentiality as protected by law is reserved. Persons subject to professional confidentiality are obliged to open their books or records, but may conceal the names and addresses of their clients or replace them with codes, but not their domicile, registered office or permanent establishment. In cases of doubt, at the request of the FTA or of the taxable person, the president of the competent chamber of the Federal Administrative Court shall appoint neutral experts as controlling bodies.
 
@@ -1404,9 +1528,9 @@ In response to a written enquiry made by the taxable person about the VAT conseq
 
 **Accounting and retention of records**
 
-<sup>1</sup> The taxable person must keep his books of account and records in accordance with the principles of commercial law. The FTA may in exceptional cases impose more extensive recording obligations if this is essential for proper imposition of the VAT.
+<sup>1</sup> The taxable person must keep their books of account and records in accordance with the principles of commercial law. The FTA may in exceptional cases impose more extensive recording obligations if this is essential for proper imposition of the VAT.
 
-<sup>2</sup> The taxable person must retain in a proper manner his books of account, receipts, business documents and other records until the right to establish the tax claim has prescribed (Art. 42 para. 6). Articles 958*f* of the Code of Obligations[^70-1] applies.[^70-2]
+<sup>2</sup> The taxable person must retain in a proper manner their books of account, receipts, business documents and other records until the right to establish the tax claim has prescribed (Art. 42 para. 6). Articles 958*f* of the Code of Obligations[^70-1] applies.[^70-2]
 
 <sup>3</sup> Business documents that are required in connection with the calculation of a subsequent input tax deduction and own use of immovable goods must be retained for 20 years (Art. 31 para. 3 and 32 para. 2).
 
@@ -1419,7 +1543,7 @@ In response to a written enquiry made by the taxable person about the VAT conseq
 
 **Filing of the return**
 
-<sup>1</sup> The taxable person must of his own accord file a return in respect of the tax claim in the prescribed form to the FTA within 60 days of the end of the reporting period.
+<sup>1</sup> The taxable person must of their own accord file a return in respect of the tax claim in the prescribed form to the FTA within 60 days of the end of the reporting period.
 
 <sup>2</sup> If the tax liability ends, the period runs from this date.
 
@@ -1427,7 +1551,7 @@ In response to a written enquiry made by the taxable person about the VAT conseq
 
 **Correction of errors in the return**
 
-<sup>1</sup> If the taxable person discovers errors in his tax returns in the course of drawing up his annual accounts, he must correct them at the latest in the return for the reporting period in which the 180th day after the end of the relevant business year falls.
+<sup>1</sup> If the taxable person discovers errors in their tax returns in the course of drawing up their annual accounts, they must correct them at the latest in the return for the reporting period in which the 180th day after the end of the relevant business year falls.
 
 <sup>2</sup> The taxable person is obliged to retrospectively correct recognised errors in returns relating to past tax periods unless the tax claims for these tax periods have become legally binding or have prescribed.
 
@@ -1453,9 +1577,12 @@ A third party obliged to provide information is a person who:
 - a. could be a taxable person;
 - b. is liable for the tax in addition to or instead of the taxable person;
 - c. has received or supplied goods or services;
-- d. holds a qualifying interest in a company subject to group taxation.
+- d. holds a qualifying interest in a company subject to group taxation;
+- e.[^73-1] brings together suppliers and supply recipients with the aid of a digital platform.
 
 <sup>3</sup> Professional confidentiality as protected by law is reserved.
+
+[^73-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Chapter 4 Rights and Obligations of the Authorities
 
@@ -1469,7 +1596,7 @@ A third party obliged to provide information is a person who:
 
 **Confidentiality**
 
-<sup>1</sup> Any person entrusted with or consulted on the execution of this Act must maintain confidentiality about the information of which he has become aware in the performance of his duties towards other authorities and private persons and must not grant unauthorised persons access to official documents.
+<sup>1</sup> Persons entrusted with or consulted on the execution of this Act must maintain confidentiality about the information of which they have become aware in the performance of their duties towards other authorities and private persons and must not grant unauthorised persons access to official documents.
 
 <sup>2</sup>
 
@@ -1478,9 +1605,11 @@ There is no duty of confidentiality:
 - a. when providing administrative assistance under Article 75 and in fulfilling an obligation to report criminal acts;
 - b. towards executive bodies of the judiciary or administration if the authority entrusted with the implementation of this Act has been authorised by the Federal Department of Finance to provide information;
 - c. in a particular case towards the debt enforcement and bankruptcy authorities or in the reporting of debt enforcement or bankruptcy offences to the disadvantage of the FTA;
-- d.[^74-1] for the following information entered in the Register of Taxable Persons: the number under which he is registered, address and business activity, and beginning and end of tax liability.
+- d.[^74-1] for the following information on taxable persons listed in the Register of Taxable Persons: registration number, address, business activity and beginning and end of tax liability;
+- e.[^74-2] in the case of measures in accordance with Article 79*a*.
 
 [^74-1]: Amended by Annex No 2 of the FA of 18 June 2010 on the Business Identification Number, in force since 1 Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^74-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 75
 
@@ -1676,6 +1805,27 @@ Findings that concern third parties and that are made during an audit in accorda
 
 <sup>2</sup> The tax claim is established with an assessment notice.
 
+#### Art. 79a
+
+**Administrative measures**[^79a-1]
+
+<sup>1</sup>
+
+The FTA may order administrative measures against a taxable person who makes supplies on Swiss territory in accordance with Article 7 paragraph 3 letter b if that person:
+
+- a. fails to register as a taxable person; or
+- b. fails to comply or only partially complies with their reporting or payment obligations.
+
+<sup>2</sup> The FTA shall hear the taxable person before deciding on the administrative measures. The supply recipients shall not be heard.
+
+<sup>3</sup> The FTA may order a ban on the import of goods that are exempt from import tax under Article 53 paragraph 1 letter a because of the negligible amount of tax. If the taxable person continues to fail to comply with their obligations despite the import ban, the FTA may order the destruction of the goods without compensation.
+
+<sup>4</sup> The measures shall be enforced by the FOCBS.
+
+<sup>5</sup> The FTA shall publish the names of taxable persons against whom measures in accordance with paragraph 3 have been ordered in a legally binding ruling.
+
+[^79a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
 #### Art. 80
 
 **Simplifications**
@@ -1715,23 +1865,23 @@ The FTA shall issue *ex officio* or on application of the taxable person all rul
 
 #### Art. 83
 
-**Objection**
+**Opposition**
 
-<sup>1</sup> Rulings of the FTA may be contested by filing an objection within 30 days of notification.
+<sup>1</sup> Rulings of the FTA may be contested by filing opposition within 30 days of notification.
 
-<sup>2</sup> The objection must be filed with the FTA in writing. It must contain the petition, the grounds for the objection citing the evidence and the signature of the appellant or of his representative. The representative must identify himself by written power of attorney. The evidence must be described in the letter of objection and enclosed with it.
+<sup>2</sup> Opposition must be filed with the FTA in writing. It must contain the petition, the grounds for opposition citing the evidence and the signature of the opposing party or of their representative. The representative must provide proof of identity by written power of attorney. The evidence must be described in the letter of opposition and enclosed with it.
 
-<sup>3</sup> If the objection does not satisfy these requirements or if the petition or its grounds lack the necessary clarity, the FTA shall grant the objecting party a short period to revise the same. It shall combine this additional period with the warning that if the period expires unused, a decision will be made based on the files or, if the petition, grounds, signature or power of attorney is not provided, that the objection will not be considered.
+<sup>3</sup> If the requirements of the opposition procedure are not satisfied or if the petition or its grounds lack the necessary clarity, the FTA shall grant the opposing party a short period to revise the same. It shall combine this additional period with the warning that if the period expires unused, a decision will be made based on the files or, if the petition, grounds, signature or power of attorney is not provided, that the opposition will not be considered.
 
-<sup>4</sup> If the objection is raised against a properly justified ruling of the FTA, on application or with the consent of the objecting party it must be forwarded as an appeal to the Federal Administrative Court.
+<sup>4</sup> If opposition is raised against a properly justified ruling of the FTA, on application or with the consent of the opposing party it must be forwarded as an objection to the Federal Administrative Court.
 
-<sup>5</sup> The objection procedure must be continued despite withdrawal of the objection if there are indications that the contested ruling does not comply with the applicable provisions of the law.
+<sup>5</sup> The opposition procedure must be continued despite withdrawal of opposition if there are indications that the contested ruling does not comply with the applicable provisions of the law.
 
 #### Art. 84
 
 **Costs and compensation**
 
-<sup>1</sup> In general, no costs are charged in ruling and objection procedures. No legal costs are awarded.
+<sup>1</sup> In general, no costs are charged in ruling and opposition procedures. No legal costs are awarded.
 
 <sup>2</sup> Regardless of the outcome of the proceedings, procedural costs may be imposed on the person or authority that culpably caused them.
 
@@ -1739,7 +1889,7 @@ The FTA shall issue *ex officio* or on application of the taxable person all rul
 
 **Review, explanation and correction**
 
-The review, explanation and correction of assessment notices, rulings and objection decisions of the FTA are governed by Articles 66–69 APA[^85-1].
+The review, explanation and correction of assessment notices, rulings and opposition decisions of the FTA are governed by Articles 66–69 APA[^85-1].
 
 [^85-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
@@ -1753,22 +1903,50 @@ The review, explanation and correction of assessment notices, rulings and object
 
 <sup>2</sup> If the taxable person makes no payment or a payment that is obviously insufficient, the FTA, after issuing a reminder, shall seek to enforce its claim for the tax amount provisionally payable for the reporting period in question. If no return has been filed for the taxable person or the return is obviously inadequate, the FTA shall first make an assessment according to its best judgement of the tax amount provisionally payable.
 
-<sup>3</sup> By filing his opposition, the taxable person instigates the procedure to have his opposition set aside. The FTA is responsible for setting aside the opposition in the ruling and appeal procedure.
+<sup>3</sup> By rejecting the summons for payment, the taxable person instigates the procedure to continue enforcement proceedings. The FTA is responsible for setting aside the rejection of the summons for payment in the ruling and opposition procedure.
 
-<sup>4</sup> The ruling on the opposition may be contested by filing an objection with the FTA within 10 days of it being issued. The objection decision is final, subject to paragraph 5.
+<sup>4</sup> The ruling on the rejection of the summons for payment may be contested by filing opposition with the FTA within 10 days of it being issued. The opposition decision is final, subject to paragraph 5.
 
-<sup>5</sup> If the tax amount provisionally payable that is the subject of the enforcement proceedings is the result of an assessment made by the FTA according to its best judgement, an appeal may be filed in the Federal Administrative Court against the objection decision. The appeal has no suspensive effect, unless the court so orders on justified application. The Federal Administrative Court makes the final decision.
+<sup>5</sup> If the tax amount provisionally payable that is the subject of the enforcement proceedings is the result of an assessment made by the FTA according to its best judgement, an objection may be filed in the Federal Administrative Court against the opposition decision. The objection has no suspensive effect, unless the court so orders on justified application. The Federal Administrative Court makes the final decision.
 
-<sup>6</sup> Article 85*a* of the Federal Act of 11 April 1889[^86-1] on Debt Collection and Bankruptcy (DCBA) does not apply.
+<sup>6</sup> Article 85*a* of the Federal Act of 11 April 1889[^86-1] on Debt Enforcement and Bankruptcy (DEBA) does not apply.
 
-<sup>7</sup> The collection of a tax amount under paragraph 2 does not affect the final tax claim under Articles 72, 78 and 82 from being established. If the tax claim cannot be established due to a failure of the taxable person to act, in particular because he fails to correct errors under Article 72 or to request a ruling under Article 82, on the prescription of the right to establish the tax, the tax amounts established by the FTA under paragraph 2 become the tax claim.[^86-2]
+<sup>7</sup> The collection of a tax amount under paragraph 2 does not affect the final tax claim under Articles 72, 78 and 82 from being established. If the tax claim cannot be established due to a failure of the taxable person to act, in particular because they fail to correct errors under Article 72 or to request a ruling under Article 82, on the prescription of the right to establish the tax, the tax amounts established by the FTA under paragraph 2 become the tax claim.[^86-2]
 
 <sup>8</sup> Instead of a payment of the tax amount, the taxable person may provide security in accordance with to Article 93 paragraph 7.
 
 <sup>9</sup> Immediately after receipt of the payment or the security, the FTA shall withdraw its debt enforcement claim.
 
+<sup>10</sup> Paragraphs 1-9 apply regardless of which reporting period has been chosen.[^86-3]
+
 [^86-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^86-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^86-3]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+
+#### Art. 86a
+
+**Provisional tax collection in the case of annual reporting**[^86a-1]
+
+<sup>1</sup> In the case of annual reporting (Art. 35*a*), the tax shall be collected on a provisional basis by paying in instalments that are determined and invoiced by the FTA.
+
+<sup>2</sup> The tax claim in the last tax period is decisive in determining the instalments. If it is not yet known, it is estimated by the FTA. In the case of new taxable persons, the tax claim expected by the end of the first tax period is decisive.
+
+<sup>3</sup> If the effective reporting method (Art. 36) or the flat tax rate method (Art. 37 para. 5) is used, one instalment shall amount one quarter of the tax claim, and in the case of reporting using the net tax rate method (Art. 37 paras. 1-4), one instalment shall amount to half of the tax claim in accordance with paragraph 2.
+
+<sup>4</sup> No negligible amounts will be charged.
+
+<sup>5</sup> A taxable person who considers the instalments to be too high or too low may apply to the FTA for an adjustment.
+
+<sup>6</sup>
+
+The instalments shall be paid:
+
+- a. when applying the effective reporting method and the flat tax rate method: within 150, 240 and 330 days of the beginning of the tax period;
+- b. in the case of reporting using the net tax rate method: within 240 days of the beginning of the tax period.
+
+<sup>7</sup> The instalments paid shall be credited against the tax claim according to the submitted annual return.
+
+[^86a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 87
 
@@ -1776,13 +1954,17 @@ The review, explanation and correction of assessment notices, rulings and object
 
 <sup>1</sup> In the event of late payment, interest is payable without reminder.
 
+<sup>1bis</sup> In the case of provisional tax collection under the annual reporting method, interest is payable on the amount due without a reminder if the taxable person pays the instalments after the deadline or does not pay them in full.[^87-1]
+
 <sup>2</sup> Interest on late payment is not payable on an additional charge if it is the result of an error which, if it had been correctly processed, would not have led to loss of tax for the Confederation.
+
+[^87-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 88
 
 **Refunds to the taxable person**
 
-<sup>1</sup> If the tax return discloses a surplus in favour of the taxable person, it is refunded.
+<sup>1</sup> If the tax return or the instalments paid against the tax claim result in a surplus in favour of the taxable person, this shall be reimbursed to the taxable person.[^88-1]
 
 <sup>2</sup>
 
@@ -1792,21 +1974,22 @@ The foregoing paragraph does not apply in the event of:
 - b. the use of the surplus as security for tax under Article 94 paragraph 1;
 - c. the use of the surplus for set-off among federal agencies.
 
-<sup>3</sup> The taxable person may reclaim taxes paid but not due if the tax claim is not yet legally binding.[^88-1]
+<sup>3</sup> The taxable person may reclaim taxes paid but not due if the tax claim is not yet legally binding.[^88-2]
 
 <sup>4</sup> If the surplus under paragraph 1 or the refund under paragraph 3 is paid out later than 60 days after receipt of the tax return or of the written claim to the entitlement by the FTA, interest shall be paid on the amount due for the period from the 61st day until payment or refund.
 
-[^88-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^88-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^88-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 89
 
-**Debt collection**
+**Debt enforcement**
 
-<sup>1</sup> If the claim for tax, interest, costs and fines is not satisfied, the FTA shall instigate debt collection proceedings and take whatever civil and enforcement measures that serve the purpose.
+<sup>1</sup> If the claim for tax, interest, costs and fines is not satisfied, the FTA shall instigate debt enforcement proceedings and take whatever civil and enforcement measures that serve the purpose.
 
 <sup>2</sup> If the tax claim is not yet legally binding and if it is disputed, the FTA shall issue a ruling. Until a legally binding ruling is issued, the final ranking of creditors is suspended.[^89-1]
 
-<sup>3</sup> By filing opposition to the enforcement proceedings, the taxable person instigates the procedure for to have his opposition set aside. The FTA is responsible for setting aside the opposition.
+<sup>3</sup> By rejecting the summons for payment, the taxable person instigates the procedure to continue enforcement proceedings. The FTA is responsible for setting aside the rejection of the summons for payment.
 
 <sup>4</sup> …[^89-2]
 
@@ -1846,7 +2029,7 @@ The foregoing paragraph does not apply in the event of:
 
 <sup>5</sup> Prescription applies in any event ten years after the end of the year in which the claim became legally binding.
 
-<sup>6</sup> If a certificate of shortfall is issued in respect of a tax claim, the prescriptive period for collection is governed by the provisions of the DCBA[^91-1].
+<sup>6</sup> If a certificate of shortfall is issued in respect of a tax claim, the prescriptive period for collection is governed by the provisions of the DEBA[^91-1].
 
 [^91-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -1860,15 +2043,15 @@ The FTA may abate bindingly assessed taxes in whole or in part if the taxable pe
 
 - a. has for an excusable reason not invoiced and collected the tax, a retroactive transfer is not possible or reasonable and payment of the tax would result in serious hardship;
 - b. owes the tax simply as a result of not observing formal regulations or of processing errors and it is obvious or the taxable person proves that there is no loss of tax for the Confederation; or
-- c. for an excusable reason could not fulfil his assessment obligations, but can prove or show credibly in retrospect that the assessment according to its best judgement undertaken by the FTA is too high; in this case tax abatement is possible only up to the amount over-assessed.
+- c. for an excusable reason could not fulfil their assessment obligations, but can prove or show credibly in retrospect that the assessment according to its best judgement undertaken by the FTA is too high; in this case tax abatement is possible only up to the amount over-assessed.
 
 <sup>2</sup> The FTA may also consent to a tax abatement or waive security for its claim in composition proceedings.
 
-<sup>3</sup> The request for abatement must be justified in writing and be submitted to the FTA together with the necessary evidence. There is no right of objection to the ruling of the FTA. An appeal may be made to the Federal Administrative Court.
+<sup>3</sup> The request for abatement must be justified in writing and be submitted to the FTA together with the necessary evidence. There is no right of opposition to the ruling of the FTA. An objection may be filed against the ruling in the Federal Administrative Court.
 
 <sup>4</sup> The submission of a request for a tax abatement does not lead to the suspension of enforcement proceedings for legally assessed taxes.
 
-<sup>5</sup> The tax abatement procedure is free of cost. However, costs may be imposed in full or in part on the person submitting the request if he has submitted an obviously unjustified request.
+<sup>5</sup> The tax abatement procedure is free of cost. However, costs may be imposed in full or in part on the person submitting the request if they have submitted an obviously unjustified request.
 
 <sup>6</sup> …[^92-1]
 
@@ -1885,24 +2068,42 @@ The FTA may abate bindingly assessed taxes in whole or in part if the taxable pe
 The FTA may require security for taxes, interest and costs, even if they are not bindingly assessed or due, if:
 
 - a. their payment on time appears to be at risk;
-- b. the taxable person makes preparations to give up his domicile, registered office or permanent establishment in Switzerland or to be deleted from the Swiss Commercial Register;
-- c. the taxable person is in arrears with his payment;
+- b. the taxable person makes preparations to give up their domicile, registered office or permanent establishment in Switzerland or to be deleted from the Swiss Commercial Register;
+- c. the taxable person is in arrears with payment;
 - d. the taxable person takes over all or part of a business over which bankruptcy proceedings have been commenced;
 - e. the taxable person submits returns that are obviously too low.
 
+<sup>1bis</sup>
+
+The FTA may require a member of the managing body of a legal person to provide security for taxes, interest and costs owed or likely to be owed by that legal person if:
+
+- a. the member in question belonged to the managing body of at least two other legal persons in respect of which bankruptcy proceedings have been opened within a short period of time; and
+- b. there are indications that the member concerned has acted in a criminal manner in connection with these bankruptcies.[^93-1]
+
 <sup>2</sup> If the taxable person waives exemption from tax liability (Art. 11) or opts for the taxation of supplies exempt without credit (Art. 22), the FTA may demand from the person security pursuant to paragraph 7.
 
-<sup>3</sup> The ruling requiring security must cite the legal reason for the security, the amount to be secured and the office that accepts the security; it qualifies as a freezing order in terms of Article 274 DCBA[^93-1]. There is no right of objection against the ruling requiring security.
+<sup>3</sup> The ruling requiring security must cite the legal reason for the security, the amount to be secured and the office that accepts the security; it qualifies as a freezing order in terms of Article 274 DEBA[^93-2]. There is no right of opposition against the ruling requiring security.
 
-<sup>4</sup> An appeal may be filed against the ruling before the Federal Administrative Court.
+<sup>4</sup> An objection may be filed against the ruling in the Federal Administrative Court.
 
-<sup>5</sup> Appeals against rulings requiring security do not have suspensive effect.
+<sup>5</sup> Objections against rulings requiring security do not have suspensive effect.
 
-<sup>6</sup> The service of a ruling concerning the tax claim qualifies as the raising of an action under Article 279 DCBA. The period for instituting debt collection procedures begins to run when the ruling concerning the tax claim becomes legally binding.
+<sup>6</sup> The service of a ruling concerning the tax claim qualifies as the raising of an action under Article 279 DEBA. The period for instituting debt enforcement procedures begins to run when the ruling concerning the tax claim becomes legally binding.
 
 <sup>7</sup> Security must be provided by cash deposit, solvent guarantees, bank guarantees, mortgage certificates, life insurance policies with surrender value, listed Swiss franc bonds issued by Swiss borrowers or cash bonds issued by Swiss banks.
 
-[^93-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^93-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^93-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 93a
+
+**Security for tourist exports**[^93a-1]
+
+<sup>1</sup> A purchaser who uses an electronic procedure to purchase goods for tourist export may be requested to provide security in the amount of the corresponding tax at the time of purchase.
+
+<sup>2</sup> The security shall be refunded if proof of export is furnished within the prescribed period.
+
+[^93a-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 94
 
@@ -1910,7 +2111,7 @@ The FTA may require security for taxes, interest and costs, even if they are not
 
 <sup>1</sup>
 
-A surplus on the tax return in favour of the taxable person may:
+A surplus in favour of the taxable person resulting from the tax return or from the difference between the instalments paid and the tax claim may:[^94-1]
 
 - a. be set off against debts from prior periods;
 - b. be credited for set-off against anticipated amounts payable for subsequent periods if the taxable person is in arrears with the payment of tax or for other reasons it appears probable that the tax claim is at risk; the amount credited carries interest from the 61<sup>st</sup> day after receipt by the FTA of the tax return until the date of the set-off at the rate that applies to refund interest; or
@@ -1919,6 +2120,8 @@ A surplus on the tax return in favour of the taxable person may:
 <sup>2</sup> In the case of taxable persons without a domicile, registered office or permanent establishment in Switzerland, the FTA may also require security for anticipated debts under Article 93 paragraph 7.
 
 <sup>3</sup> If payments are repeatedly in arrears, the FTA may require the taxable person to make monthly or half-monthly advance payments.
+
+[^94-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 95
 
@@ -1942,7 +2145,7 @@ Any person who wilfully or negligently reduces the tax claim to the detriment of
 
 <sup>2</sup> The fine shall not exceed 800,000 francs if the tax evaded in the cases mentioned in paragraph 1 is transferred in a form that entitles the taxable person to make an input tax deduction.
 
-<sup>3</sup> Any person who reduces the tax due to the state by declaring the tax factors relevant for establishment of the tax truthfully, but qualifying them incorrectly for tax purposes, in that he wilfully fails to properly apply clear legal provisions, instructions from the authorities or published practice rules and does not inform the authorities thereof in writing in advance shall be liable to a fine of up to 200,000 francs. If the offence is committed through negligence, the fine is up to 20,000 francs.
+<sup>3</sup> Any person who reduces the tax due to the state by declaring the tax factors relevant for establishment of the tax truthfully, but qualifying them incorrectly for tax purposes, in that they wilfully fail to properly apply clear legal provisions, instructions from the authorities or published practice rules and does not inform the authorities thereof in writing in advance shall be liable to a fine of up to 200,000 francs. If the offence is committed through negligence, the fine is up to 20,000 francs.
 
 <sup>4</sup> shall be liable to a fine not exceeding 800,000 francs.
 
@@ -1992,7 +2195,7 @@ Any person who wilfully or negligently:
 
 **Receiving untaxed goods**
 
-Any person who purchases, receives as a gift, receives as a pledge or otherwise takes possession of, conceals, helps to sell or brings into circulation goods, in respect of which he knows or must assume that the import tax payable has been wilfully evaded shall be liable to the same penalty as applies to the principle offender.
+Any person who purchases, receives as a gift, receives as a pledge or otherwise takes possession of, conceals, helps to sell or brings into circulation goods, in respect of which they know or must assume that the import tax payable has been wilfully evaded shall be liable to the same penalty as applies to the principal offender.
 
 #### Art. 100
 
@@ -2024,12 +2227,12 @@ If a fine not exceeding 100,000 francs would be applicable and if the tracing of
 
 <sup>1</sup>
 
-If the taxable person reports himself for an offence under this Act before it comes to the attention of the competent authority, he will not be prosecuted if:
+Taxable persons who report themselves for an offence under this Act before it comes to the attention of the competent authority will not be prosecuted if:
 
-- a. the person assists the authority in a reasonable manner in establishing the tax payable or refundable; and
-- b. the person makes a serious effort to pay the tax due or refundable.
+- a. they assist the authority in a reasonable manner in establishing the tax payable or refundable; and
+- b. they make a serious effort to pay the tax due or refundable.
 
-<sup>2</sup> If a non-taxable person who has committed an offence under this Act or has participated in such an offence reports the offence, he will not be prosecuted.
+<sup>2</sup> Non-taxable persons who report an offence under this Act that they have committed or have participated in will not be prosecuted.
 
 <sup>3</sup> A legal entity reports itself through its executive bodies or representatives. Joint and several liability under Article 12 paragraph 3 ACLA[^102-1] of the executive bodies or of the representatives does not apply and no prosecution will be brought.
 
@@ -2047,7 +2250,7 @@ If the taxable person reports himself for an offence under this Act before it co
 
 <sup>3</sup> In closely related criminal cases in which both the FTA and the FOCBS have jurisdiction, the FTA may by agreement with the FOCBS decide to join the prosecutions under one of the two authorities.
 
-<sup>4</sup> Prosecution may be dispensed with if the level of culpability and the consequences of the crime are negligible (Art. 52 SCC[^103-2]). In these cases a non-intervention or no-proceedings ruling is issued.
+<sup>4</sup> Prosecution may be dispensed with if the level of culpability and the consequences of the crime are negligible (Art. 52 SCC[^103-2]). In these cases, a non-intervention or no-proceedings ruling is issued.
 
 <sup>5</sup> If the competent authority must also investigate or judge other offences to which the ACLA applies, paragraph 1 applies to all offences.
 
@@ -2060,7 +2263,7 @@ If the taxable person reports himself for an offence under this Act before it co
 
 <sup>1</sup> The accused has the right to fair criminal proceedings in accordance with the Federal Constitution and the relevant legislation on criminal procedure.
 
-<sup>2</sup> The accused is not obliged to incriminate himself in criminal proceedings.
+<sup>2</sup> The accused is not obliged to incriminate themselves in criminal proceedings.
 
 <sup>3</sup> The information (Art. 68 and 73) given by the accused in the criminal proceedings or evidence from an audit under Article 78 may be used in criminal proceedings only if the accused consents thereto.
 
@@ -2128,12 +2331,13 @@ The Federal Council:
 - b. determines the requirements that customers who have their domicile, registered office or permanent establishment abroad must satisfy in order to be eligible for a refund of tax levied on Swiss territory on supplies made to them or on their imports that are covered by reciprocal law of the land in which they have their domicile, registered office or permanent establishment; in principle the same requirements apply as exist for domestic taxable persons in respect of the input tax deduction;
 - c.[^107-2] regulates the VAT treatment of supplies to persons who are employees and at the same time closely related persons; in doing so, it shall take account of the treatment of such supplies in the case of direct federal taxation and may specify exceptions to Article 24 paragraph 2.
 
-<sup>2</sup> The Federal Council may issue provisions departing from this Act concerning the taxation of turnovers on imports of gold coins and fine gold.
+<sup>2</sup> …[^107-3]
 
 <sup>3</sup> The Federal Council issues the implementing regulations.
 
 [^107-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^107-2]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^107-3]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 108
 
@@ -2143,7 +2347,10 @@ The FDF:
 
 - a. defines market conform interest rates for interest on late payment and refunds and updates them periodically;
 - b. determines the cases in which interest on late payment is not imposed;
-- c. stipulates up to what amount negligible amounts of interest on late payment and refunds will not be imposed or are not payable.
+- c. stipulates up to what amount negligible amounts of interest on late payment and refunds will not be imposed or are not payable;
+- d.[^108-1] determines what is deemed to be the amount that is so negligible that it need not be invoiced as provisional tax.
+
+[^108-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 109
 
@@ -2205,7 +2412,7 @@ The following federal acts are amended as follows:
 
 <sup>1</sup> Taxable persons may, when this Act comes into force, again make use of the election options provided for in this Act. If the election options are linked to specific deadlines, they begin to run again on the date that this Act comes into force.
 
-<sup>2</sup> If the taxable person does not respond to the election options within 90 days of this Act coming into force, it is assumed that the person is abiding by his election, provided this continues to be legally possible.
+<sup>2</sup> If the taxable person does not respond to the election options within 90 days of this Act coming into force, it is assumed that the person is abiding by their election, provided this continues to be legally possible.
 
 #### Art. 115
 
@@ -2224,6 +2431,22 @@ The following federal acts are amended as follows:
 The input tax deduction may not be retrospectively cancelled on collectors’ items such as works of art, antiques and suchlike in respect of which input tax was already deducted before the Amendment of 30 September 2016 comes into force, provided the sale is made on Swiss territory and VAT is paid on the entire selling price.
 
 [^115a-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). The correction by the Federal Assembly Drafting Committee dated 30 Aug. 2017 concerns the Italian text only ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+
+#### Art. 115b
+
+**Transitional provisions to the amendment of 16 June 2023**[^115b-1]
+
+<sup>1</sup> Taxable persons who wish to file an annual return in accordance with Article *35a* in the year in which the Amendment of 16 June 2023 comes into force must apply to the FTA for this within 60 days of this Amendment coming into force.
+
+<sup>2</sup>
+
+If goods are supplied from abroad to Switzerland that are exempt from import tax in accordance with Article 53 paragraph 1 letter a on account of the negligible amount of tax, the tax liability of the supplier shall commence when this amendment comes into force if:
+
+- a. the supplier is deemed to be a supplier in accordance with Article 20*a*;
+- b. the suppler has achieved a turnover of at least 100,000 Swiss francs in the preceding twelve months by supplying such goods; and
+- c. it is reasonable to assume that the supplier will continue to make such supplies of goods during the twelve months following this Amendment coming into force.
+
+[^115b-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Chapter 4 Referendum and Commencement
 
