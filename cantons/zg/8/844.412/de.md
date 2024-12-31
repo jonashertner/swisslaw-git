@@ -3,24 +3,23 @@ canton: ZG
 number: "844.412"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Familienzulagen
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-16
+version: 2025-01-01
+version_adopted: 2024-10-29
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/844.412"
-pdf: "https://bgs.zg.ch/api/de/versions/2275/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2628/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über die Familienzulagen
 
-Vom 25. November 2008 (Stand 1. Januar 2022)
+Vom 25. November 2008 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 23 des Einführungsgesetzes zum Bundesgesetz über die Familienzulagen vom 30. April 2009[^ingress-1],
+gestützt auf § 23 des Einführungsgesetzes zum Bundesgesetz über die Familienzulagen (FamZG) vom 30. April 2009[^ingress-1],
 
 beschliesst:
 
@@ -43,7 +42,16 @@ beschliesst:
 
 **Beitragssatz für Erwerbstätige**
 
-<sup>1</sup> Der Beitragssatz der Familienausgleichskasse Zug für die Finanzierung der Familienzulagen für Erwerbstätige beträgt 1.6 Prozent des AHV-pflichtigen Einkommens (§ 11 Abs. 3 FamZG).
+<sup>1</sup> Der Beitragssatz der Familienausgleichskasse Zug für die Finanzierung der Familienzulagen für Erwerbstätige beträgt 1.35 Prozent des AHV-pflichtigen Einkommens (§ 11 Abs. 3 FamZG).
+
+#### § 2a
+
+**Angepasste Zulagen**
+
+<sup>1</sup> Für die monatlichen Kinder- bzw. Ausbildungszulagen gelten in Anwendung von § 4 Abs. 2 FamZG ab 1. Januar 2025 erhöhte Ansätze. Sie betragen je anspruchsberechtigtes Kind
+
+- a) bis zum erfüllten 18. Altersjahr: 330 Franken;
+- b) ab dem erfüllten 18. Altersjahr: 385 Franken.
 
 #### § 3
 
@@ -73,16 +81,10 @@ beschliesst:
 
 #### § 6
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Vollziehungsverordnung zum Gesetz über die Kinderzulagen vom 28. März 1983[^6-1] wird aufgehoben.
-
-[^6-1]: GS 22, 381
+**…**
 
 #### § 7
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2009 in Kraft.
+**…**
 
 GS 29, 985
