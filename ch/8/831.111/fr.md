@@ -4,11 +4,11 @@ title: "Ordonnance du 26 mai 1961 concernant l'assurance-vieillesse, survivants 
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20250101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/fr"
 
 (OAF)[^t-1]
 
-du 26 mai 1961 (État le 1<sup>er</sup> janvier 2024)
+du 26 mai 1961 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -201,19 +201,19 @@ Sont réputés avoir payé eux-mêmes des cotisations, pour autant que leur conj
 
 **Taux de cotisation AVS/AI**[^13b-1]
 
-<sup>1</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 10,1 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimum de 980 francs par an.
+<sup>1</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 10,1 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimum de 1010 francs par an.
 
-<sup>2</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation comprise entre 980 francs et 24 500 francs par an, déterminée sur la base de leur fortune et du revenu acquis sous forme de rente. La cotisation se calcule comme suit:
+<sup>2</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation comprise entre 1010 francs et 25 250 francs par an, déterminée sur la base de leur fortune et du revenu acquis sous forme de rente. La cotisation se calcule comme suit:
 
 <table>
 <tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</th><th></th><th>Cotisation annuelle (AVS + AI) fr.</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</th></tr>
-<tr><td>moins de</td><td colspan="2">590 000</td><td>980</td><td>–</td></tr>
-<tr><td>dès</td><td colspan="2">590 000</td><td>1090,80</td><td>101</td></tr>
-<tr><td>dès</td><td colspan="2">1 740 000</td><td>3413,80</td><td>151,50</td></tr>
-<tr><td>dès</td><td colspan="2">8 740 000</td><td>24 500</td><td>–</td></tr>
+<tr><td>moins de</td><td colspan="2">600 000</td><td>1 010</td><td>–</td></tr>
+<tr><td>dès</td><td colspan="2">600 000</td><td>1 111</td><td>101</td></tr>
+<tr><td>dès</td><td colspan="2">1 750 000</td><td>3 434</td><td>151.50</td></tr>
+<tr><td>dès</td><td colspan="2">8 950 000</td><td>25 250</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Introduit par le ch. I de l’O du 18 oct. 2000 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 605](https://fedlex.data.admin.ch/eli/oc/2022/605)).
+[^13b-1]: Introduit par le ch. I de l’O du 18 oct. 2000 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 464](https://fedlex.data.admin.ch/eli/oc/2024/464)).
 
 #### Art. 14
 
@@ -482,27 +482,35 @@ Les assurés sont tenus de donner à la représentation suisse, au service AVS/A
 
 [^annexu1-5-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-## *Art. 13, al. 1*
+#### Art. 13
 
-<sup>1</sup> Les assurés sont exclus de l’assurance facultative s’ils n’ont pas acquitté entièrement les cotisations dues pour une année civile jusqu’au 31 décembre de l’année civile suivante. Il en va de même s’ils ne remettent pas à la représentation suisse, au service AVS/AI ou à la caisse de compensation jusqu’au 31 décembre de l’année suivante les justificatifs qui leur ont été demandés.[^annexu1-lvlu4-1]
+***,* *al**. 1***
 
-[^annexu1-lvlu4-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+<sup>1</sup> Les assurés sont exclus de l’assurance facultative s’ils n’ont pas acquitté entièrement les cotisations dues pour une année civile jusqu’au 31 décembre de l’année civile suivante. Il en va de même s’ils ne remettent pas à la représentation suisse, au service AVS/AI ou à la caisse de compensation jusqu’au 31 décembre de l’année suivante les justificatifs qui leur ont été demandés.[^annexu1-13-1]
 
-## *Art. 16, al. 2*
+[^annexu1-13-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-<sup>2</sup> Elles sont versées en francs suisses en Suisse. Avec l’accord de la caisse de compensation, elles peuvent être versées à la représentation suisse à l’étranger ou au service AVS/AI dans la monnaie du pays de séjour ou, exceptionnellement, dans une autre monnaie.[^annexu1-lvlu5-1]
+#### Art. 16
 
-[^annexu1-lvlu5-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+***, al.* *2***
 
-## *Art. 20, al. 1*
+<sup>2</sup> Elles sont versées en francs suisses en Suisse. Avec l’accord de la caisse de compensation, elles peuvent être versées à la représentation suisse à l’étranger ou au service AVS/AI dans la monnaie du pays de séjour ou, exceptionnellement, dans une autre monnaie.[^annexu1-16-1]
 
-<sup>1</sup> Les rentes et les indemnités journalières revenant à des ayants droit qui habitent à l’étranger sont versées directement, par la caisse de compensation ou par la représentation suisse ou par le service AVS/AI, dans la monnaie du pays de résidence.[^annexu1-lvlu6-1] Sur demande, elles seront versées en francs suisses par la caisse de compensation en main d’un représentant désigné en Suisse. Si cela paraît suffisamment sûr, la caisse de compensation peut autoriser le versement sur un compte postal ou un compte en banque, en Suisse ou dans le pays de résidence de l’ayant droit.[^annexu1-lvlu6-2]
+[^annexu1-16-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
 
-[^annexu1-lvlu6-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^annexu1-lvlu6-2]: [RO 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686), [1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282)
+#### Art. 20
 
-## *Art. 21, al. 2*
+***, al**. 1***
 
-<sup>2</sup> Les certificats doivent en règle générale être attestés par les autorités compétentes du pays de résidence. Sur demande de l’ayant droit ou de la caisse de compensation, ils seront attestés par la représentation suisse ou par le service AVS/AI.[^annexu1-lvlu7-1]
+<sup>1</sup> Les rentes et les indemnités journalières revenant à des ayants droit qui habitent à l’étranger sont versées directement, par la caisse de compensation ou par la représentation suisse ou par le service AVS/AI, dans la monnaie du pays de résidence.[^annexu1-20-1] Sur demande, elles seront versées en francs suisses par la caisse de compensation en main d’un représentant désigné en Suisse. Si cela paraît suffisamment sûr, la caisse de compensation peut autoriser le versement sur un compte postal ou un compte en banque, en Suisse ou dans le pays de résidence de l’ayant droit.[^annexu1-20-2]
 
-[^annexu1-lvlu7-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-20-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-20-2]: [RO 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686), [1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282)
+
+#### Art. 21
+
+***, al.* *2***
+
+<sup>2</sup> Les certificats doivent en règle générale être attestés par les autorités compétentes du pays de résidence. Sur demande de l’ayant droit ou de la caisse de compensation, ils seront attestés par la représentation suisse ou par le service AVS/AI.[^annexu1-21-1]
+
+[^annexu1-21-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)

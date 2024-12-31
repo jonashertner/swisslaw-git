@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Mai 1961 über die freiwillige Alters-, Hinterlassene
 short: VFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/de"
 
 (VFV)[^t-1]
 
-vom 26. Mai 1961 (Stand am 1. Januar 2024)
+vom 26. Mai 1961 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -163,7 +163,7 @@ Die Versicherten werden aus der freiwilligen Versicherung ausgeschlossen:
 
 [^lvlD-1]
 
-[^lvlD-1]: Ursprünglich vor Art. 14.
+[^lvlD-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
 #### Art. 13a
 
@@ -193,19 +193,19 @@ Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mind
 
 **Beitragssatz für die AHV/IV**[^13b-1]
 
-<sup>1</sup> Die Beiträge der erwerbstätigen Versicherten belaufen sich auf 10,1 Prozent des massgebenden Einkommens. Die Versicherten müssen mindestens den Mindestbetrag von 980 Franken im Jahr entrichten.
+<sup>1</sup> Die Beiträge der erwerbstätigen Versicherten belaufen sich auf 10,1 Prozent des massgebenden Einkommens. Die Versicherten müssen mindestens den Mindestbetrag von 1010 Franken im Jahr entrichten.
 
-<sup>2</sup> Nichterwerbstätige Versicherte bezahlen auf der Grundlage ihres Vermögens und ihres Renteneinkommens einen Beitrag zwischen 980 und 24 500 Franken im Jahr. Der Beitrag berechnet sich wie folgt:
+<sup>2</sup> Nichterwerbstätige Versicherte bezahlen auf der Grundlage ihres Vermögens und ihres Renteneinkommens einen Beitrag zwischen 1010 und 25 250 Franken im Jahr. Der Beitrag berechnet sich wie folgt:
 
 <table>
-<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th></th><th>Jahresbeitrag (AHV+IV) Franken</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
-<tr><td>bis</td><td colspan="2">590 000</td><td>980</td><td>–</td></tr>
-<tr><td>ab</td><td colspan="2">590 000</td><td>1090.80</td><td>101</td></tr>
-<tr><td>ab</td><td colspan="2">1 740 000</td><td>3413.80</td><td>151.50</td></tr>
-<tr><td>ab</td><td colspan="2">8 740 000</td><td>24 500</td><td>–</td></tr>
+<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th></th><th>Jahresbeitrag (AHV + IV) Franken</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
+<tr><td>bis</td><td colspan="2">600 000</td><td>1 010</td><td>–</td></tr>
+<tr><td>ab</td><td colspan="2">600 000</td><td>1 111</td><td>101</td></tr>
+<tr><td>ab</td><td colspan="2">1 750 000</td><td>3 434</td><td>151.50</td></tr>
+<tr><td>ab</td><td colspan="2">8 950 000</td><td>25 250</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 605](https://fedlex.data.admin.ch/eli/oc/2022/605)).
+[^13b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 464](https://fedlex.data.admin.ch/eli/oc/2024/464)).
 
 #### Art. 14
 
@@ -422,64 +422,86 @@ Anhang[^t-2]
 
 Die in den Übergangsbestimmungen der Änderung vom 16. März 2007 genannten Artikel 3, 4, 5, 13 Absatz 1, 16 Absatz 2, 20 Absatz 1 und 21 Absatz 2 mit Stand am 17. Oktober 2006 lauten wie folgt:
 
-Art. 3 Aufgaben der Auslandsvertretungen[^t-3]
+#### Art. 3
 
-<sup>1</sup> Die Auslandsvertretungen erfüllen für die in ihrem Konsularbezirk niedergelassenen Personen insbesondere folgende Aufgaben und stehen dafür mit der Ausgleichskasse in unmittelbarem Geschäftsverkehr:[^t-4]
+**Aufgaben der Auslandsvertretungen[^annexu1-3-1]**
+
+<sup>1</sup>
+
+Die Auslandsvertretungen erfüllen für die in ihrem Konsularbezirk niedergelassenen Personen insbesondere folgende Aufgaben und stehen dafür mit der Ausgleichskasse in unmittelbarem Geschäftsverkehr:[^annexu1-3-2]
 
 - a. Entgegennahme der Beitrittserklärungen und Überprüfung der darin enthaltenen Angaben;
 - b. Führung einer Kontrolle der freiwillig Versicherten;
-- c.[^t-5] Festsetzung der Beiträge;
+- c.[^annexu1-3-3] Festsetzung der Beiträge;
 - d. Bezug der Beiträge, soweit diese nicht direkt an die Ausgleichskasse entrichtet werden;
 - e. Entgegennahme der Anmeldungen zum Bezug von Versicherungsleistungen und Mitwirkung bei der Abklärung von Anspruchsvoraussetzungen;
-- f.[^t-6] Auszahlung der Geldleistungen, wenn diese nicht direkt von der Ausgleichskasse ausbezahlt werden;
-- g.[^t-7] Abrechnung mit der Ausgleichskasse über Beiträge und Geldleistungen.
+- f.[^annexu1-3-4] Auszahlung der Geldleistungen, wenn diese nicht direkt von der Ausgleichskasse ausbezahlt werden;
+- g.[^annexu1-3-5] Abrechnung mit der Ausgleichskasse über Beiträge und Geldleistungen.
 
-<sup>2</sup> Die in Absatz 1 erwähnten Aufgaben können auch einer zentralen Stelle übertragen werden, die für mehrere Auslandsvertretungen zuständig ist (im Folgenden «AHV/IV-Dienst» genannt).[^t-8]
+<sup>2</sup> Die in Absatz 1 erwähnten Aufgaben können auch einer zentralen Stelle übertragen werden, die für mehrere Auslandsvertretungen zuständig ist (im Folgenden «AHV/IV-Dienst» genannt).[^annexu1-3-6]
 
-Art. 4 Kostenvergütung und Inspektionsberichte
+[^t-2]: Eingefügt durch Ziff. III der V vom 16. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
+[^annexu1-3-1]: [AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)
+[^annexu1-3-2]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-3-3]: [AS 1994 2168](https://fedlex.data.admin.ch/eli/oc/1994/2168_2168_2168)
+[^annexu1-3-4]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-3-5]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-3-6]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
 
-<sup>1</sup> Die zusätzlichen Kosten der Auslandsvertretungen (Personal- und Sachausgaben), welche dem Eidgenössischen Departement für auswärtige Angelegenheiten aus der Erfüllung der in Artikel 3 Absatz 1 genannten Obliegenheiten erwachsen, werden diesem zu Lasten der Ausgleichskasse pauschal vergütet.[^t-9]
+#### Art. 4
 
-<sup>1bis</sup> Die Ausgleichskasse erstattet dem Eidgenössischen Departement für auswärtige Angelegenheiten die Personal- und Sachausgaben der AHV/IV-Dienste in ihrer tatsächlichen Höhe.[^t-10]
+**Kostenvergütung und Inspektionsberichte**
 
-<sup>2</sup> In den Inspektionsberichten an das Eidgenössische Departement für auswärtige Angelegenheiten ist über die Geschäftsführung der Auslandsvertretungen bei Durchführung der freiwilligen Versicherung zuhanden des Bundesamtes für Sozialversicherung und der Ausgleichskasse Aufschluss zu geben.[^t-11]
+<sup>1</sup> Die zusätzlichen Kosten der Auslandsvertretungen (Personal- und Sachausgaben), welche dem Eidgenössischen Departement für auswärtige Angelegenheiten aus der Erfüllung der in Artikel 3 Absatz 1 genannten Obliegenheiten erwachsen, werden diesem zu Lasten der Ausgleichskasse pauschal vergütet.[^annexu1-4-1]
 
-<sup>2bis</sup> Die Inspektion der AHV/IV-Dienste wird der Ausgleichskasse übertragen.[^t-12]
+<sup>1bis</sup> Die Ausgleichskasse erstattet dem Eidgenössischen Departement für auswärtige Angelegenheiten die Personal- und Sachausgaben der AHV/IV-Dienste in ihrer tatsächlichen Höhe.[^annexu1-4-2]
 
-Art. 5[^t-13] Auskunftspflicht
+<sup>2</sup> In den Inspektionsberichten an das Eidgenössische Departement für auswärtige Angelegenheiten ist über die Geschäftsführung der Auslandsvertretungen bei Durchführung der freiwilligen Versicherung zuhanden des Bundesamtes für Sozialversicherung und der Ausgleichskasse Aufschluss zu geben.[^annexu1-4-3]
+
+<sup>2bis</sup> Die Inspektion der AHV/IV-Dienste wird der Ausgleichskasse übertragen.[^annexu1-4-4]
+
+[^annexu1-4-1]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-4-2]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-4-3]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-4-4]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+
+#### Art. 5
+
+**Auskunftspflicht**[^annexu1-5-1]
 
 Die Versicherten sind gehalten, der Auslandsvertretung, dem AHV/IV-Dienst,der Ausgleichskasse und der IV-Stelle für Versicherte im Ausland alle zur Durchführung der freiwilligen Versicherung benötigten Angaben zu machen und auf Verlangen deren Richtigkeit zu belegen.
 
-Art. 13 Abs. 1
+[^annexu1-5-1]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-<sup>1</sup> Versicherte, die ihren Jahresbeitrag bis zum 31. Dezember des folgenden Kalenderjahres nicht vollständig bezahlen, werden aus der Versicherung ausgeschlossen. Dasselbe gilt, wenn sie der Auslandsvertretung, dem AHV/IV-Dienst oderder Ausgleichskasse die verlangten Belege nicht bis zum 31. Dezember des Folgejahres einreichen.[^t-14]
+#### Art. 13
 
-Art. 16 Abs. 2
+***Abs. 1***
 
-<sup>2</sup> Sie werden in Schweizer Franken in der Schweiz bezahlt. Mit Zustimmung der Ausgleichskasse können sie der Auslandsvertretung oder dem AHV/IV-Dienst in der Währung des Aufenthaltsstaates oder ausnahmsweise in einer anderen Währung entrichtet werden.[^t-15]
+<sup>1</sup> Versicherte, die ihren Jahresbeitrag bis zum 31. Dezember des folgenden Kalenderjahres nicht vollständig bezahlen, werden aus der Versicherung ausgeschlossen. Dasselbe gilt, wenn sie der Auslandsvertretung, dem AHV/IV-Dienst oderder Ausgleichskasse die verlangten Belege nicht bis zum 31. Dezember des Folgejahres einreichen.[^annexu1-13-1]
 
-Art. 20 Abs. 1
+[^annexu1-13-1]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-<sup>1</sup> Renten und Taggelder an Berechtigte im Ausland werden direkt durch die Ausgleichskasse, die Auslandsvertretung oder den AHV/IV-Dienst in der Währung des Wohnsitzstaates ausgerichtet.[^t-16] Auf Verlangen sind sie von der Ausgleichskasse in Schweizerfranken an einen in der Schweiz bestellten Vertreter zu bezahlen. Sofern genügend Sicherheit besteht, kann die Ausgleichskasse die Auszahlung auf ein Post- oder Bankkonto in der Schweiz oder im Wohnsitzstaat des Berechtigten zulassen.[^t-17]
+#### Art. 16
 
-Art. 21 Abs. 2
+***Abs. 2***
 
-<sup>2</sup> Die Bescheinigungen sind in der Regel von den zuständigen Behörden des Wohnsitzstaates zu bestätigen. Auf Verlangen des oder der Leistungsberechtigten oder der Ausgleichskasse werden sie von der Auslandsvertretung oder dem AHV/IV-Dienst bestätigt.[^t-18]
+<sup>2</sup> Sie werden in Schweizer Franken in der Schweiz bezahlt. Mit Zustimmung der Ausgleichskasse können sie der Auslandsvertretung oder dem AHV/IV-Dienst in der Währung des Aufenthaltsstaates oder ausnahmsweise in einer anderen Währung entrichtet werden.[^annexu1-16-1]
 
-[^t-2]: Eingefügt durch Ziff. III der V vom 16. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
-[^t-3]: [AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)
-[^t-4]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-5]: [AS 1994 2168](https://fedlex.data.admin.ch/eli/oc/1994/2168_2168_2168)
-[^t-6]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-7]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-8]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-9]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-10]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-11]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-12]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-13]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-14]: [AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-15]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-16]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-17]: [AS 1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282), [1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686)
-[^t-18]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-16-1]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+
+#### Art. 20
+
+***Abs. 1***
+
+<sup>1</sup> Renten und Taggelder an Berechtigte im Ausland werden direkt durch die Ausgleichskasse, die Auslandsvertretung oder den AHV/IV-Dienst in der Währung des Wohnsitzstaates ausgerichtet.[^annexu1-20-1] Auf Verlangen sind sie von der Ausgleichskasse in Schweizerfranken an einen in der Schweiz bestellten Vertreter zu bezahlen. Sofern genügend Sicherheit besteht, kann die Ausgleichskasse die Auszahlung auf ein Post- oder Bankkonto in der Schweiz oder im Wohnsitzstaat des Berechtigten zulassen.[^annexu1-20-2]
+
+[^annexu1-20-1]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-20-2]: [AS 1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282); [1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686)
+
+#### Art. 21
+
+***Abs. 2***
+
+<sup>2</sup> Die Bescheinigungen sind in der Regel von den zuständigen Behörden des Wohnsitzstaates zu bestätigen. Auf Verlangen des oder der Leistungsberechtigten oder der Ausgleichskasse werden sie von der Auslandsvertretung oder dem AHV/IV-Dienst bestätigt.[^annexu1-21-1]
+
+[^annexu1-21-1]: [AS 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
