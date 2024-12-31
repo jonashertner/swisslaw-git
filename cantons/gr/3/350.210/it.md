@@ -1,147 +1,171 @@
 ---
 canton: GR
 number: "350.210"
-title: Ordinanza sugli emolumenti in cause penali
-short: OECP
+title: Ordinanza concernente le tasse di giustizia in procedimenti penali
+short: OTGPP
 language: it
-version: 2011-01-01
-corrected: 2014-10-09
-version_adopted: 2010-12-14
+version: 2025-01-01
+version_adopted: 2025-01-02
 adopted: 2025-01-02
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1223/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3504/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sugli emolumenti in cause penali (OECP)
+# Ordinanza concernente le tasse di giustizia in procedimenti penali
 
-emanata dal Tribunale cantonale il 14 dicembre 2010 visto l'art. 51a cpv. 3 della Costituzione cantonale[^t-1] nonché l'art. 37 cpv. 4 lett. b della legge d'applicazione del Codice di diritto processuale penale svizzero[^t-2]
+(OTGPP)
 
-I. Giudice dei provvedimenti coercitivi
+del 02.01.2025 (stato 01.01.2025)
 
-[^t-1]: CSC 110.100
-[^t-2]: CSC 350.100
+emanata dal Tribunale d'appello il 2 gennaio 2025
+
+visti l'art. 51a cpv. 3 della Costituzione cantonale[^ingress-1] nonché l'art. 37 cpv. 4 lett. b della legge d'applicazione del Codice di diritto processuale penale svizzero[^ingress-2]
+
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-2]: CSC [350.100](https://www.gr-lex.gr.ch/data/350.100/it)
+
+## 1. Spese procedurali
 
 #### Art. 1
 
-**Procedure dinanzi al giudice dei provvedimenti coercitivi**
+**In generale**
 
-In procedure dinanzi al giudice dei provvedimenti coercitivi l'emolumento è compreso tra i 200 e i 2 000 franchi.
+<sup>1</sup> Il ricorso ai servizi del tribunale viene indennizzato tramite una forfetaria in conformità alla presente ordinanza.
 
-### II. Procedura dinanzi al tribunale distrettuale
+<sup>2</sup> Non sono parte della forfetaria le spese per la difesa d'ufficio e il gratuito patrocinio, per la traduzione e l'interpretariato, per l'assunzione di prove nonché per la partecipazione di altre autorità.
+
+<sup>3</sup> L'obbligo di pagare le spese per traduzioni tra diverse lingue ufficiali di un tribunale si conforma alle disposizioni della legge sulle lingue del Cantone dei Grigioni[^1-1].
+
+<sup>4</sup> Le forfetarie previste dalla presente ordinanza valgono per la procedura penale applicabile agli adulti. Nelle cause penali a carico di minorenni, i limiti della tassa validi per la procedura penale applicabile agli adulti vanno ridotti della metà.
+
+<sup>5</sup> Sono fatte salve regolamentazioni particolari delle spese previste dal diritto federale o dalla legislazione cantonale.
+
+<sup>6</sup> Per spese dopo la conclusione del procedimento vale l'articolo 12 dell'ordinanza sulle spese nelle procedure amministrative[^1-2].
+
+[^1-1]: CSC [492.100](https://www.gr-lex.gr.ch/data/492.100/it)
+[^1-2]: CSC [370.120](https://www.gr-lex.gr.ch/data/370.120/it)
+
+## 2. Procedura dinanzi al giudice dei provvedimenti coercitivi
 
 #### Art. 2
 
-**Procedura dibattimentale di primo grado**
+**Procedura dinanzi al giudice dei provvedimenti coercitivi**
 
-Per procedure dibattimentali di primo grado[^2-1] viene riscosso un emolumento compreso tra i 2 000 e i 20 000 franchi.
+<sup>1</sup> In procedimenti dinanzi al giudice dei provvedimenti coercitivi la tassa è compresa tra 200 e 2000 franchi.
 
-[^2-1]: art. 328 segg. CPP, RS 312.0
+<sup>2</sup> In procedimenti particolarmente onerosi la tassa di giustizia può essere aumentata fino a 10 000 franchi.
+
+## 3. Procedure dinanzi al tribunale regionale
 
 #### Art. 3
 
-**Decisioni in merito a decreti d'accusa e nella procedura indipendente di confisca**
+**Procedura di prima istanza**
 
-<sup>1</sup> Per decisioni in merito a decreti d'accusa ai sensi dell'articolo 356 CPP[^3-1] viene riscosso un emolumento compreso tra i 300 e i 2 000 franchi.
+<sup>1</sup> Se il tribunale regionale decide nel merito dell'accusa, la tassa di giustizia ammonta:
 
-<sup>2</sup> Gli stessi limiti dell'emolumento valgono per decisioni del tribunale nella procedura indipendente di confisca conformemente all'articolo 377 capoverso 4 CPP.
+- a) dinanzi al giudice unico a 200 fino a 10 000 franchi;
+- b) dinanzi ai tribunali collegiali a 500 fino a 20 000 franchi.
 
-[^3-1]: RS 312.0
+<sup>2</sup> In procedimenti particolarmente onerosi, la tassa di giustizia conformemente al capoverso 1 lettera a può essere aumentata fino a 50 000 franchi, quella conformemente al capoverso 1 lettera b fino a 100 000 franchi.
+
+<sup>3</sup> Se il procedimento viene evaso senza esame materiale dell'accusa, la tassa di giustizia può essere ridotta fino alla metà delle aliquote.
+
+<sup>4</sup> Se in merito a una causa civile si decide soltanto in seguito al giudizio sulla colpevolezza e sugli aspetti penali (art. 126 cpv. 4 CPP[^3-1]), la tassa di giustizia si calcola secondo il capoverso 1.
+
+[^3-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 4
 
-**Procedura abbreviata**
+**Procedure speciali**
 
-Nella procedura abbreviata[^4-1] l'emolumento è compreso tra i 1 000 e i 5 000 franchi.
+<sup>1</sup> La tassa di giustizia è compresa tra 200 e 5000 franchi:
 
-[^4-1]: art. 358 segg. CPP, RS 312.0
+- a) nella procedura abbreviata (art. 358 – art. 362 CPP[^4-1]);
+- b) in caso di decisioni giudiziarie indipendenti successive (art. 363 – art. 365 CPP);
+- c) in caso venga ordinata una cauzione preventiva in una procedura indipendente (art. 372 – art. 373 CPP);
+- d) in caso di procedura indipendente di confisca (art. 376 – art. 378 CPP).
+
+[^4-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 5
 
-**Decisioni indipendenti successive**
+**Rinuncia a una motivazione scritta**
 
-<sup>1</sup> Per decisioni indipendenti successive[^5-1] il tribunale riscuote un emolumento compreso tra i 500 e i 2 000 franchi.
+<sup>1</sup> Se una decisione non deve essere motivata per iscritto, la tassa di giustizia si riduce al massimo della metà.
 
-**Rifiuto di un nuovo giudizio**
-
-<sup>2</sup> Gli stessi limiti dell'emolumento valgono per decisioni che respingono un'istanza di nuovo giudizio[^5-2].
-
-[^5-1]: art. 363 segg. CPP, RS 312.0 1.1.2011 1
-[^5-2]: art. 368 segg. CPP, RS 312.0
+## 4. Procedure dinanzi al Tribunale d'appello
 
 #### Art. 6
 
-**Rinuncia a una motivazione scritta**
+**Procedura d'appello**
 
-Se le parti rinunciano a una sentenza motivata per iscritto[^6-1], l'emolumento viene ridotto di al massimo la metà.
+<sup>1</sup> Nella procedura d'appello la tassa di giustizia è compresa tra 1500 e 20 000 franchi.
 
-[^6-1]: cfr. art. 82 CPP, RS 312.0
+<sup>2</sup> In procedimenti particolarmente onerosi la tassa di giustizia può essere aumentata fino a 100 000 franchi.
 
-### III. Procedura di ricorso
+<sup>3</sup> Se la decisione del tribunale d'appello viene presa con competenza di giudice unico, la tassa di giustizia può essere ridotta.
 
 #### Art. 7
 
-**Procedura d'appello**
+**Procedura di reclamo**
 
-Nella procedura d'appello l'emolumento è compreso tra i 1 500 e i 20 000 franchi.
+<sup>1</sup> Nella procedura di reclamo la tassa di giustizia è compresa tra 1000 e 5000 franchi.
+
+<sup>2</sup> In procedimenti particolarmente onerosi la tassa di giustizia può essere aumentata fino a 25 000 franchi.
+
+<sup>3</sup> Se la decisione della giurisdizione di reclamo viene presa con competenza di giudice unico, la tassa di giustizia può essere ridotta.
 
 #### Art. 8
 
-**Procedura di reclamo**
+**Procedura di revisione**
 
-Per decisioni in procedure di reclamo viene riscosso un emolumento compreso tra i 1 000 e i 5 000 franchi.
+<sup>1</sup> Se una domanda di revisione viene evasa nella procedura di esame preliminare (art. 412 cpv. 1 e cpv. 2 CPP[^8-1]), la tassa di giustizia è compresa tra 500 e 2000 franchi.
+
+<sup>2</sup> Per decisioni di revisione conformemente all'articolo 413 del Codice di procedura penale viene riscossa una tassa di giustizia compresa tra 1000 e 5000 franchi.
+
+<sup>3</sup> Se il tribunale emana esso stesso una nuova decisione, fanno stato i limiti delle tasse applicabili a quel procedimento nel quale viene presa la nuova decisione.
+
+[^8-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+
+## 5. Disposizioni comuni
 
 #### Art. 9
 
-**Procedura di revisione**
+**Procedura concernente il gratuito patrocinio**
 
-<sup>1</sup> In caso di evasione di un'istanza di revisione nella procedura d'esame preliminare[^9-1], l'emolumento è compreso tra i 500 e i 2 000 franchi.
+<sup>1</sup> Per la decisione concernente una domanda di gratuito patrocinio vengono riscosse spese soltanto se il procedimento è stato intentato in malafede o in modo temerario.
 
-<sup>2</sup> Per decisioni di revisione conformemente all'articolo 413 CPP il tribunale d'appello riscuote un emolumento compreso tra i 1 000 e i 5 000 franchi.
-
-<sup>3</sup> Se il tribunale d'appello emana esso stesso una nuova decisione, fanno stato i limiti dell'emolumento per la procedura in cui viene presa la nuova decisione.
-
-[^9-1]: art. 412 cpv. 1 e 2 CPP, RS 312.0
+<sup>2</sup> In questo caso la tassa di giustizia è compresa tra 200 e 2000 franchi.
 
 #### Art. 10
 
-**Ritiro, evasione in casi non controversi**
+**Decisioni anticipate sulle spese**
 
-In caso di ritiro di un rimedio giuridico o di evasione dello stesso nella procedura conformemente all'articolo 18 capoverso 3 LOG[^10-1], l'emolumento può essere ridotto a discrezione del tribunale.
+<sup>1</sup> Nella misura in cui la presente ordinanza non contenga alcuna altra disposizione, per decisioni in cui le spese sono determinate previamente (art. 421 cpv. 2 CPP[^10-1]) viene riscossa una tassa di giustizia compresa tra 200 e 5000 franchi.
 
-[^10-1]: CSC 173.000 2 1.1.2011
-
-### IV. Procedimento penale minorile
+[^10-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 11
 
-**Procedimento penale contro minori**
+**Procedura con onere particolarmente esiguo**
 
-Nei procedimenti penali conformemente alla legge federale di diritto processuale penale minorile[^11-1], i limiti dell'emolumento validi per il procedimento penale per gli adulti vanno ridotti della metà.
-
-[^11-1]: RS 312.1 1.1.2011 3
-
-### V. Disposizioni comuni
+<sup>1</sup> In procedimenti che provocano un onere particolarmente esiguo il tribunale può riscuotere una tassa ridotta o rinunciare alla riscossione di una tassa di giustizia.
 
 #### Art. 12
 
-**Decisioni incidentali**
+**Interpretazione e rettifica**
 
-Se il tribunale emana o verifica una decisione incidentale, viene riscosso un emolumento proporzionalmente inferiore che va commisurato all'onere per il giudizio.
+<sup>1</sup> Per la trattazione di domande d'interpretazione e di rettifica infondate la tassa di giustizia è compresa tra 200 e 2000 franchi.
 
 #### Art. 13
 
-**Procedure particolarmente onerose**
+**Condono delle spese procedurali**
 
-In procedure che causano spese particolarmente elevate il limite degli emolumenti sale fino a 100 000 franchi.
+<sup>1</sup> Se il tribunale decide in merito a una domanda di condono delle spese procedurali vengono riscosse spese soltanto se il procedimento è stato intentato in malafede o in modo temerario.
 
-### VI. Disposizione finale
+<sup>2</sup> In questo caso la tassa di giustizia è compresa tra 200 e 2000 franchi.
 
-#### Art. 14
-
-**Entrata in vigore**
-
-La presente ordinanza entra in vigore il 1° gennaio 2011.
+2025-002

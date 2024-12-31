@@ -4,144 +4,168 @@ number: "350.210"
 title: Verordnung über die Gerichtsgebühren in Strafverfahren
 short: VGS
 language: de
-version: 2011-01-01
-corrected: 2014-10-09
-version_adopted: 2010-12-14
+version: 2025-01-01
+version_adopted: 2025-01-02
 adopted: 2025-01-02
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1223/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3504/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Gerichtsgebühren in Strafverfahren (VGS)
+# Verordnung über die Gerichtsgebühren in Strafverfahren
 
-Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^t-1] sowie Art. 37 Abs. 4 lit. b des Einführungsgesetzes zur Schweizerischen Strafprozessordnung[^t-2]
+(VGS)
 
-vom Kantonsgericht erlassen am 14. Dezember 2010
+Vom 02.01.2025 (Stand 01.01.2025)
 
-I. Zwangsmassnahmengericht
+Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^ingress-1] sowie Art. 37 Abs. 4 lit. b des Einführungsgesetzes zur Schweizerischen Strafprozessordnung[^ingress-2]
 
-[^t-1]: BR 110.100
-[^t-2]: BR 350.100
+vom Obergericht erlassen am 2. Januar 2025
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-2]: BR [350.100](https://www.gr-lex.gr.ch/data/350.100/de)
+
+## 1. Verfahrenskosten
 
 #### Art. 1
 
-**Verfahren vor dem Zwangsmassnahmengericht**
+**Allgemeines**
 
-In Verfahren vor dem Zwangsmassnahmengericht beträgt die Gerichtsgebühr 200 bis 2 000 Franken.
+<sup>1</sup> Die Beanspruchung des Gerichts wird durch eine Pauschale gemäss dieser Verordnung abgegolten.
 
-### II. Verfahren vor Bezirksgericht
+<sup>2</sup> Nicht Bestandteil der Pauschale sind die Kosten für die amtliche Verteidigung und die unentgeltliche Rechtsverbeiständung, für Übersetzungen, für die Beweisführung sowie für die Mitwirkung anderer Behörden.
+
+<sup>3</sup> Die Kostenpflicht für Übersetzungen zwischen mehreren Amtssprachen eines Gerichts richtet sich nach den Bestimmungen des Sprachengesetzes des Kantons Graubünden[^1-1].
+
+<sup>4</sup> Die Pauschalen gemäss dieser Verordnung gelten für den Erwachsenenstrafprozess. In Jugendstrafsachen ist der für den Erwachsenenstrafprozess geltende Gebührenrahmen um die Hälfte zu reduzieren.
+
+<sup>5</sup> Vorbehalten bleiben besondere Kostenregelungen des Bundesrechts oder der kantonalen Gesetzgebung.
+
+<sup>6</sup> Für Aufwendungen nach Abschluss des Verfahrens gilt Artikel 12 der Verordnung über die Kosten in Verwaltungsverfahren[^1-2].
+
+[^1-1]: BR [492.100](https://www.gr-lex.gr.ch/data/492.100/de)
+[^1-2]: BR [370.120](https://www.gr-lex.gr.ch/data/370.120/de)
+
+## 2. Verfahren vor Zwangsmassnahmengericht
 
 #### Art. 2
 
-**Erstinstanzliches Hauptverfahren**
+**Verfahren vor dem Zwangsmassnahmengericht**
 
-Für erstinstanzliche Hauptverfahren[^2-1] wird eine Gerichtsgebühr von 2 000 bis 20 000 Franken erhoben.
+<sup>1</sup> In Verfahren vor dem Zwangsmassnahmengericht beträgt die Gerichtsgebühr 200 bis 2000 Franken.
 
-[^2-1]: Art. 328 ff. StPO, SR 312.0
+<sup>2</sup> In besonders aufwendigen Verfahren kann die Gerichtsgebühr bis auf 10 000 Franken erhöht werden.
+
+## 3. Verfahren vor Regionalgericht
 
 #### Art. 3
 
-**Entscheide über Strafbefehle und im selbständigen Einziehungsverfahren**
+**Erstinstanzliches Verfahren**
 
-<sup>1</sup> Für Entscheide über Strafbefehle im Sinne von Artikel 356 StPO[^3-1] wird eine Gebühr von 300 bis 2 000 Franken erhoben.
+<sup>1</sup> Entscheidet das Regionalgericht materiell über die Anklage, beträgt die Gerichtsgebühr:
 
-<sup>2</sup> Der gleiche Gebührenrahmen gilt für Entscheide des Gerichts im selbständigen Einziehungsverfahren gemäss Artikel 377 Absatz 4 StPO.
+- a) vor den Einzelgerichten 200 bis 10 000 Franken;
+- b) vor den Kollegialgerichten 500 bis 20 000 Franken.
 
-[^3-1]: SR 312.0
+<sup>2</sup> In besonders aufwendigen Verfahren kann die Gerichtsgebühr gemäss Absatz 1 Litera a bis auf 50 000 Franken, diejenige gemäss Absatz 1 Litera b bis auf 100 000 Franken erhöht werden.
+
+<sup>3</sup> Wird das Verfahren ohne materielle Prüfung der Anklage erledigt, kann die Gerichtsgebühr bis auf die Hälfte der Ansätze ermässigt werden.
+
+<sup>4</sup> Wird über eine Zivilklage erst anschliessend an die Beurteilung von Schuld und Strafpunkt entschieden (Art. 126 Abs. 4 StPO[^3-1]), bemisst sich die Gerichtsgebühr nach Absatz 1.
+
+[^3-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 4
 
-**Abgekürztes Verfahren**
+**Besondere Verfahren**
 
-Im abgekürzten Verfahren[^4-1] beträgt die Gerichtsgebühr 1 000 bis 5 000 Franken.
+<sup>1</sup> Die Gerichtsgebühr beträgt 200 bis 5000 Franken:
 
-[^4-1]: Art. 358 ff. StPO, SR 312.0 01.01.2011 1
+- a) im abgekürzten Verfahren (Art. 358 bis Art. 362 StPO[^4-1]);
+- b) bei selbständigen nachträglichen Entscheiden (Art. 363 bis Art. 365 StPO);
+- c) bei der Anordnung einer Friedensbürgschaft in einem selbständigen Verfahren (Art. 372 bis Art. 373 StPO);
+- d) in selbständigen Einziehungsverfahren (Art. 376 bis Art. 378 StPO).
+
+[^4-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 5
 
-**Selbständige nachträgliche Entscheide Ablehnung der Neubeurteilung**
+**Verzicht auf schriftliche Begründung**
 
-<sup>1</sup> Für selbständige nachträgliche Entscheide[^5-1] erhebt das Gericht eine Gebühr von 500 bis 2 000 Franken.
+<sup>1</sup> Muss ein Entscheid nicht schriftlich begründet werden, reduziert sich die Gerichtsgebühr um höchstens die Hälfte.
 
-<sup>2</sup> Der gleiche Gebührenrahmen gilt für Entscheide, welche ein Gesuch um neue Beurteilung[^5-2] ablehnen.
-
-[^5-1]: Art. 363 ff. StPO, SR 312.0
-[^5-2]: Art. 368 ff. StPO, SR 312.0
+## 4. Verfahren vor Obergericht
 
 #### Art. 6
 
-**Verzicht auf schriftliche Begründung**
+**Berufungsverfahren**
 
-Verzichten die Parteien auf ein schriftlich begründetes Urteil[^6-1] wird die Gerichtsgebühr bis höchstens zur Hälfte ermässigt.
+<sup>1</sup> Im Berufungsverfahren beträgt die Gerichtsgebühr 1500 bis 20 000 Franken.
 
-[^6-1]: Vgl. Art. 82 StPO, SR 312.0
+<sup>2</sup> In besonders aufwendigen Verfahren kann die Gerichtsgebühr bis auf 100 000 Franken erhöht werden.
 
-### III. Rechtsmittelverfahren
+<sup>3</sup> Ergeht der Entscheid des Berufungsgerichts in einzelrichterlicher Kompetenz, kann die Gerichtsgebühr herabgesetzt werden.
 
 #### Art. 7
 
-**Berufungsverfahren**
+**Beschwerdeverfahren**
 
-Im Berufungsverfahren beträgt die Gerichtsgebühr 1 500 bis 20 000 Franken.
+<sup>1</sup> Im Beschwerdeverfahren beträgt die Gerichtsgebühr 1000 bis 5000 Franken.
+
+<sup>2</sup> In besonders aufwendigen Verfahren kann die Gerichtsgebühr bis auf 25 000 Franken erhöht werden.
+
+<sup>3</sup> Ergeht der Entscheid der Beschwerdeinstanz in einzelrichterlicher Kompetenz, kann die Gerichtsgebühr herabgesetzt werden.
 
 #### Art. 8
 
-**Beschwerdeverfahren**
+**Revisionsverfahren**
 
-Für Entscheide im Beschwerdeverfahren wird eine Gerichtsgebühr von 1 000 bis 5 000 Franken erhoben.
+<sup>1</sup> Wird ein Revisionsgesuch im Vorprüfungsverfahren (Art. 412 Abs. 1 und Abs. 2 StPO[^8-1]) erledigt, beträgt die Gerichtsgebühr 500 bis 2000 Franken.
+
+<sup>2</sup> Für Revisionsentscheide gemäss Artikel 413 der Strafprozessordnung wird eine Gerichtsgebühr von 1000 bis 5000 Franken erhoben.
+
+<sup>3</sup> Fällt das Gericht selbst einen neuen Entscheid, gilt dafür der Gebührenrahmen für jenes Verfahren, in welchem der neue Entscheid gefällt wird.
+
+[^8-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+## 5. Gemeinsame Bestimmungen
 
 #### Art. 9
 
-**Revisionsverfahren**
+**Verfahren betreffend unentgeltliche Rechtspflege**
 
-<sup>1</sup> Wird ein Revisionsgesuch im Vorprüfungsverfahren[^9-1] erledigt, beträgt die Gerichtsgebühr 500 bis 2 000 Franken.
+<sup>1</sup> Für den Entscheid über ein Gesuch um unentgeltliche Rechtspflege werden nur Kosten erhoben, wenn das Verfahren bös- oder mutwillig angestrengt worden ist.
 
-<sup>2</sup> Für Revisionsentscheide gemäss Artikel 413 StPO erhebt das Berufungsgericht eine Gebühr von 1 000 bis 5 000 Franken.
-
-<sup>3</sup> Fällt das Berufungsgericht selbst einen neuen Entscheid gilt dafür der Gebührenrahmen für jenes Verfahren, in welchem der neue Entscheid gefällt wird.
-
-[^9-1]: Art. 412 Abs. 1 und 2 StPO, SR 312.0
+<sup>2</sup> In diesem Fall beträgt die Gerichtsgebühr 200 bis 2000 Franken.
 
 #### Art. 10
 
-**Rückzug, Erledigung in klaren Fällen**
+**Vorweggenommene Kostenentscheide**
 
-Bei Rückzug eines Rechtsmittels oder Erledigung desselben im Verfahren gemäss Artikel 18 Absatz 3 GOG[^10-1] kann die Gerichtsgebühr nach Ermessen des Gerichts herabgesetzt werden.
+<sup>1</sup> Soweit diese Verordnung keine andere Bestimmung enthält, wird für Entscheide mit vorweggenommener Festlegung der Kosten (Art. 421 Abs. 2 StPO[^10-1]) eine Gerichtsgebühr von 200 bis 5000 Franken erhoben.
 
-[^10-1]: BR 173.000 2 01.01.2011
-
-### IV. Jugendstrafverfahren
+[^10-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 11
 
-**Strafverfahren gegen Jugendliche**
+**Verfahren mit besonders geringem Aufwand**
 
-In Strafverfahren gemäss der Schweizerischen Jugendstrafprozessordnung[^11-1] ist der für den Erwachsenenstrafprozess geltende Gebührenrahmen um die Hälfte zu reduzieren.
-
-[^11-1]: SR 312.1 01.01.2011 3
-
-### V. Gemeinsame Bestimmungen
+<sup>1</sup> In Verfahren mit besonders geringem Aufwand kann das Gericht eine reduzierte Gerichtsgebühr erheben oder auf die Erhebung einer Gerichtsgebühr verzichten.
 
 #### Art. 12
 
-**Zwischenentscheide**
+**Erläuterung und Berichtigung**
 
-Erlässt oder überprüft das Gericht einen Zwischenentscheid, wird eine entsprechend geringere Gerichtsgebühr erhoben, welche sich nach dem Aufwand für die Beurteilung bemisst.
+<sup>1</sup> Für die Behandlung unbegründeter Erläuterungs- und Berichtigungsgesuche beträgt die Gerichtsgebühr 200 bis 2000 Franken.
 
 #### Art. 13
 
-**Besonders aufwändige Verfahren**
+**Erlass von Verfahrenskosten**
 
-Bei Verfahren, die einen besonders grossen Aufwand verursachen, erhöht sich der Gebührenrahmen bis 100 000 Franken.
+<sup>1</sup> Entscheidet das Gericht über ein Gesuch um Erlass von Verfahrenskosten, so werden nur Kosten erhoben, wenn das Verfahren bös- oder mutwillig angestrengt worden ist.
 
-### VI. Schlussbestimmung
+<sup>2</sup> In diesem Fall beträgt die Gerichtsgebühr 200 bis 2000 Franken.
 
-#### Art. 14
-
-**Inkrafttreten**
-
-Diese Verordnung tritt auf den 1. Januar 2011 in Kraft.
+2025-002
