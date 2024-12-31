@@ -4,13 +4,13 @@ number: "210.100"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
-version: 2022-01-01
-corrected: 2021-12-23
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3202/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3525/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3202/pdf_file"
 
 (EGzZGB)[^t-1]
 
-Vom 12.06.1994 (Stand 01.01.2022)
+Vom 12.06.1994 (Stand 01.01.2025)
 
 Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
@@ -107,7 +107,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **2. Der Gemeindevorstand**
 
-<sup>1</sup> Der Gemeindevorstand ist für den Erlass von Verboten betreffend Wald und Weide auf Gemeindegebiet (Art. 699) zuständig. Gegen die Anordnung solcher Verbote kann Beschwerde beim Verwaltungsgericht erhoben werden.
+<sup>1</sup> Der Gemeindevorstand ist für den Erlass von Verboten betreffend Wald und Weide auf Gemeindegebiet (Art. 699) zuständig. Gegen die Anordnung solcher Verbote kann Beschwerde beim Obergericht erhoben werden.
 
 <sup>2</sup> Der Gemeindevorstand des Wohnsitzes oder des Heimatortes ist zuständig für:
 
@@ -146,7 +146,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>2</sup> Die Regierung ist berechtigt, Geschäfte der erwähnten Art einzelnen Departementen oder Ämtern zur Erledigung zuzuweisen.[^15-6]
 
-<sup>3</sup> Gegen Entscheide der Regierung gemäss Absatz 1 Ziffern 1 und 5–8 kann die Berufung gemäss Zivilprozessordnung[^15-7] an das Kantonsgericht erhoben werden. Dasselbe gilt für Entscheide der Departemente, soweit das Bundesrecht nicht eine andere Instanz vorsieht.
+<sup>3</sup> Gegen Entscheide der Regierung gemäss Absatz 1 Ziffern 1 und 5–8 kann die Berufung gemäss Zivilprozessordnung[^15-7] an das Obergericht erhoben werden. Dasselbe gilt für Entscheide der Departemente, soweit das Bundesrecht nicht eine andere Instanz vorsieht.
 
 [^15-1]: Mit Art. 3 der Verordnung betreffend die Übertragung von Befugnissen der Regierung auf die Departemente und Dienststellen, BR [170.340](https://www.gr-lex.gr.ch/data/170.340/de) wird die Befugnis zur Bewilligung von Namensänderungen an das Amt für Polizeiwesen und Zivilrecht delegiert; am 1. Januar 2009 in Kraft getreten.
 [^15-2]: Mit Art. 3 der Verordnung betreffend die Übertragung von Befugnissen der Regierung auf die Departemente und Dienststellen, BR [170.340](https://www.gr-lex.gr.ch/data/170.340/de) wird die Befugnis zur Klage auf Ungültigerklärung der Ehe an das Amt für Polizeiwesen und Zivilrecht delegiert; am 1. Januar 2009 in Kraft getreten.
@@ -162,7 +162,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Für die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ist die Kantonspolizei zuständig. Das Verfahren richtet sich nach dem Polizeigesetz[^15a-1].
 
-<sup>2</sup> Die Regierung kann eine Beratungsstelle für Gewalt ausübende Personen schaffen und bezeichnet die zuständige Stelle.
+<sup>2</sup> …
 
 [^15a-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
 
@@ -174,7 +174,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>2</sup> …
 
-<sup>3</sup> Entscheide der Regierung, der kantonalen Departemente und anderer kantonaler Instanzen auf dem Gebiete des Zivilrechtes können mit Berufung gemäss Zivilprozessordnung[^16-2] an das Kantonsgericht weitergezogen werden, wenn nach übergeordnetem Recht eine letztinstanzliche Beurteilung durch ein oberes kantonales Gericht erforderlich ist.
+<sup>3</sup> Entscheide der Regierung, der kantonalen Departemente und anderer kantonaler Instanzen auf dem Gebiete des Zivilrechtes können mit Berufung gemäss Zivilprozessordnung[^16-2] an das Obergericht weitergezogen werden, wenn nach übergeordnetem Recht eine letztinstanzliche Beurteilung durch ein oberes kantonales Gericht erforderlich ist.
 
 [^16-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 [^16-2]: SR [272](https://db.clex.ch/link/Bund/272/de)
@@ -273,7 +273,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Gegen Entscheide und Verfügungen des Amtes kann beim Departement Beschwerde geführt werden.
 
-<sup>2</sup> Entscheide und Verfügungen des Departementes können mit Berufung gemäss Zivilprozessordnung[^20d-1] an das Kantonsgericht weitergezogen werden.
+<sup>2</sup> Entscheide und Verfügungen des Departementes können mit Berufung gemäss Zivilprozessordnung[^20d-1] an das Obergericht weitergezogen werden.
 
 [^20d-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
@@ -344,7 +344,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Verfügungen der Aufsichts- und Umwandlungsbehörde können gestützt auf das Gesetz über die Verwaltungsrechtspflege[^25a-1] an das vorgesetzte Departement weitergezogen werden.
 
-<sup>2</sup> Entscheide des Departements können mit Berufung gemäss Zivilprozessordnung an das Kantonsgericht weitergezogen werden.
+<sup>2</sup> Entscheide des Departements können mit Berufung gemäss Zivilprozessordnung an das Obergericht weitergezogen werden.
 
 [^25a-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
@@ -842,11 +842,11 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **5. Gerichtliche Beschwerdeinstanz**
 
-<sup>1</sup> Das Kantonsgericht ist die gerichtliche Beschwerdeinstanz.
+<sup>1</sup> Das Obergericht ist die gerichtliche Beschwerdeinstanz.
 
-<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Kantonsgericht angefochten werden.
+<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Obergericht angefochten werden.
 
-<sup>3</sup> Das Kantonsgericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
+<sup>3</sup> Das Obergericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
 
 <sup>4</sup> Für gesetzliche und behördlich angeordnete Fristen gilt kein Fristenstillstand. Die Parteien sind darauf hinzuweisen.
 
@@ -1702,7 +1702,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Gegen Verfügungen des Grundbuchamts kann Beschwerde bei der Aufsichtsstelle geführt werden.
 
-<sup>2</sup> Beschwerdeentscheide der Aufsichtsstelle können innert 30 Tagen an das Kantonsgericht weitergezogen werden. Ausgenommen sind Entscheide in Gebührensachen. Das Verfahren richtet sich nach der Zivilprozessordnung.
+<sup>2</sup> Beschwerdeentscheide der Aufsichtsstelle können innert 30 Tagen an das Obergericht weitergezogen werden. Ausgenommen sind Entscheide in Gebührensachen. Das Verfahren richtet sich nach der Zivilprozessordnung.
 
 ### 2.5.
 

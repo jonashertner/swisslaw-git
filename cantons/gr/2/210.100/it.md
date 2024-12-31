@@ -4,13 +4,13 @@ number: "210.100"
 title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
-version: 2022-01-01
-corrected: 2021-12-23
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3202/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3525/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3202/pdf_file"
 
 (LICC)[^t-1]
 
-del 12.06.1994 (stato 01.01.2022)
+del 12.06.1994 (stato 01.01.2025)
 
 accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
@@ -104,7 +104,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **2. La sovrastanza comunale**
 
-<sup>1</sup> La sovrastanza comunale è competente per l'emanazione di divieti concernenti il bosco e il pascolo su territorio comunale (art. 699). Contro tali divieti può essere presentato ricorso al Tribunale amministrativo.
+<sup>1</sup> La sovrastanza comunale è competente per l'emanazione di divieti concernenti il bosco e il pascolo su territorio comunale (art. 699). Contro tali divieti può essere presentato ricorso al Tribunale d'appello.
 
 <sup>2</sup> La sovrastanza del comune di domicilio o del comune di attinenza è competente per:
 
@@ -142,7 +142,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>2</sup> Il Governo può assegnare a singoli dipartimenti o uffici il disbrigo di affari di suddetta natura.
 
-<sup>3</sup> Contro le decisioni del Governo giusta il capoverso 1 cifre 1 e 5–8 può essere presentato appello al Tribunale cantonale conformemente al Codice di procedura civile[^15-1]. Lo stesso vale per decisioni dei dipartimenti, per quanto il diritto federale non preveda un'altra autorità.
+<sup>3</sup> Contro le decisioni del Governo giusta il capoverso 1 cifre 1 e 5–8 può essere presentato appello al Tribunale d'appello conformemente al Codice di procedura civile[^15-1]. Lo stesso vale per decisioni dei dipartimenti, per quanto il diritto federale non preveda un'altra autorità.
 
 [^15-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
@@ -152,7 +152,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Per l'allontanamento immediato secondo l'articolo 28b capoverso 4 è competente la Polizia cantonale. La procedura si conforma alla legge sulla polizia[^15a-1].
 
-<sup>2</sup> Il Governo può creare un ufficio di consulenza per le persone che esercitano violenza e designa il servizio competente.
+<sup>2</sup> …
 
 [^15a-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
 
@@ -164,7 +164,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>2</sup> …
 
-<sup>3</sup> Le decisioni del Governo, dei dipartimenti cantonali e delle altre autorità cantonali in materia di diritto civile possono essere impugnate con appello conformemente al Codice di procedura civile[^16-1] dinanzi al Tribunale cantonale, se secondo il diritto superiore è necessario un giudizio di ultima istanza da parte di un tribunale cantonale superiore.
+<sup>3</sup> Le decisioni del Governo, dei dipartimenti cantonali e delle altre autorità cantonali in materia di diritto civile possono essere impugnate con appello conformemente al Codice di procedura civile[^16-1] dinanzi al Tribunale d'appello, se secondo il diritto superiore è necessario un giudizio di ultima istanza da parte di un tribunale cantonale superiore.
 
 [^16-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
@@ -261,7 +261,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Contro le decisioni dell'Ufficio può essere presentato ricorso al Dipartimento.
 
-<sup>2</sup> Le decisioni del Dipartimento possono essere impugnate con appello conformemente al Codice di procedura civile[^20d-1] dinanzi al Tribunale cantonale.
+<sup>2</sup> Le decisioni del Dipartimento possono essere impugnate con appello conformemente al Codice di procedura civile[^20d-1] dinanzi al Tribunale d'appello.
 
 [^20d-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
@@ -332,10 +332,9 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> In virtù della legge sulla giustizia amministrativa[^25a-1] le decisioni dell'autorità di vigilanza e di modificazione possono essere impugnate dinanzi al Dipartimento preposto.
 
-<sup>2</sup> Le decisioni del Dipartimento possono essere impugnate con appello conformemente al Codice di procedura civile[^25a-2] dinanzi al Tribunale cantonale.
+<sup>2</sup> Le decisioni del Dipartimento possono essere impugnate con appello conformemente al Codice di procedura civile dinanzi al Tribunale d'appello.
 
 [^25a-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
-[^25a-2]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 ### 2.1.3. Consorzi di almende e simili enti
 
@@ -831,11 +830,11 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **5. Autorità giudiziaria di reclamo**
 
-<sup>1</sup> Il Tribunale cantonale è l'autorità giudiziaria di reclamo.
+<sup>1</sup> Il Tribunale d'appello è l'autorità giudiziaria di reclamo.
 
-<sup>2</sup> Decisioni incidentali dell'autorità di protezione dei minori e degli adulti possono essere impugnate entro dieci giorni dalla comunicazione dinanzi al Tribunale cantonale.
+<sup>2</sup> Decisioni incidentali dell'autorità di protezione dei minori e degli adulti possono essere impugnate entro dieci giorni dalla comunicazione dinanzi al Tribunale d'appello.
 
-<sup>3</sup> Il Tribunale cantonale non è vincolato alle richieste delle parti e indaga la fattispecie d'ufficio. Sono ammessi nuovi fatti e mezzi di prova.
+<sup>3</sup> Il Tribunale d'appello non è vincolato alle richieste delle parti e indaga la fattispecie d'ufficio. Sono ammessi nuovi fatti e mezzi di prova.
 
 <sup>4</sup> A termini disposti dalla legge o dall'autorità non si applica la sospensione del termine. Le parti devono essere rese attente al riguardo.
 
@@ -1684,7 +1683,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Contro decisioni dell'ufficio del registro fondiario è data facoltà di ricorso presso l'organo di vigilanza.
 
-<sup>2</sup> Le decisioni su ricorso dell'organo di vigilanza possono essere impugnate entro 30 giorni al Tribunale cantonale. Fanno eccezione le decisioni in questioni concernenti le tasse. La procedura si conforma al Codice di procedura civile.
+<sup>2</sup> Le decisioni su ricorso dell'organo di vigilanza possono essere impugnate entro 30 giorni al Tribunale d'appello. Fanno eccezione le decisioni in questioni concernenti le tasse. La procedura si conforma al Codice di procedura civile.
 
 ### 2.5.
 

@@ -4,13 +4,13 @@ number: "210.100"
 title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
-version: 2022-01-01
-corrected: 2021-12-23
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3202/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3525/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3202/pdf_file"
 
 (LItCCS)[^t-1]
 
-dals 12-06-1994 (versiun dals 01-01-2022)
+dals 12-06-1994 (versiun dals 01-01-2025)
 
 acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
@@ -108,7 +108,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **2. la suprastanza communala**
 
-<sup>1</sup> La suprastanza communala è cumpetenta per relaschar scumonds concernent il guaud e la pastgira sin il territori communal (art. 699). Cunter l'ordinaziun da tals scumonds po vegnir fatg recurs tar la dretgira administrativa.
+<sup>1</sup> La suprastanza communala è cumpetenta per relaschar scumonds concernent il guaud e la pastgira sin il territori communal (art. 699). Cunter l'ordinaziun da tals scumonds po vegnir fatg recurs tar la Dretgira superiura.
 
 <sup>2</sup> La suprastanza communala dal lieu da domicil u dal lieu d'origin è cumpetenta per:
 
@@ -148,7 +148,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>2</sup> La regenza è autorisada d'attribuir la liquidaziun da fatschentas dal gener menziunà a singuls departaments u a singuls uffizis.[^15-7]
 
-<sup>3</sup> Cunter decisiuns da la regenza tenor l'alinea 1 cifras 1 e 5 fin 8 po vegnir appellà tar la dretgira chantunala tenor il cudesch da procedura civila[^15-8]. Il medem vala per decisiuns dals departaments, uschenavant ch'il dretg federal na prevesa betg in'autra instanza.
+<sup>3</sup> Cunter decisiuns da la Regenza tenor l'alinea 1 cifras 1 e 5 fin 8 po vegnir appellà tar la Dretgira superiura tenor il Cudesch da procedura civila[^15-8]. Il medem vala per decisiuns dals departaments, uschenavant ch'il dretg federal na prevesa betg in'autra instanza.
 
 [^15-1]: Tras l'art. 3 da l'ordinaziun davart la delegaziun da cumpetenzas da la regenza als departaments ed als posts da servetsch (DG [170.340](https://www.gr-lex.gr.ch/data/170.340/rm)) vegn la cumpetenza da permetter midadas da num delegada a l'uffizi da fatgs da polizia e da dretg civil. Entrà en vigur il 1. da schaner 2009.
 [^15-2]: Tras l'art. 3 da l'ordinaziun davart la delegaziun da cumpetenzas da la regenza als departaments ed als posts da servetsch (DG [170.340](https://www.gr-lex.gr.ch/data/170.340/rm)) vegn la cumpetenza da purtar plant sin nunvalaivladad da la lètg delegada a l'uffizi da fatgs da polizia e da dretg civil. Entrà en vigur il 1. da schaner 2009.
@@ -165,7 +165,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la polizia chantunala. La procedura sa drizza tenor la lescha da polizia[^15a-1].
 
-<sup>2</sup> La regenza po installar in post da cussegliaziun per persunas violentas e designescha il post cumpetent.
+<sup>2</sup> …
 
 [^15a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
@@ -177,7 +177,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>2</sup> …
 
-<sup>3</sup> Cunter conclus da la regenza, dals departaments chantunals e d'autras instanzas chantunalas sin il champ dal dretg civil po vegnir recurrì cun appellaziun tar la dretgira chantunala tenor il cudesch da procedura civila[^16-2], sch'in giudicament en ultima instanza tenor il dretg surordinà è necessari tras ina dretgira chantunala superiura.
+<sup>3</sup> Cunter conclus da la Regenza, dals departaments chantunals e d'autras instanzas chantunalas sin il champ dal dretg civil po vegnir recurrì cun appellaziun tar la Dretgira superiura tenor il Cudesch da procedura civila[^16-2], sch'in giudicament en ultima instanza tenor il dretg surordinà è necessari tras ina dretgira chantunala superiura.
 
 [^16-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 [^16-2]: CS [272](https://db.clex.ch/link/Bund/272/rm)
@@ -275,7 +275,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Cunter decisiuns e cunter disposiziuns da l'uffizi po vegnir fatg recurs tar il departament.
 
-<sup>2</sup> Cunter decisiuns e cunter disposiziuns dal departament po vegnir fatg recurs tar la dretgira chantunala cun appellaziun tenor il cudesch da procedura civila[^20d-1].
+<sup>2</sup> Cunter decisiuns e cunter disposiziuns dal departament po vegnir fatg recurs tar la Dretgira superiura cun appellaziun tenor il Cudesch da procedura civila[^20d-1].
 
 [^20d-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
@@ -346,10 +346,9 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Cunter disposiziuns da l'autoritad da surveglianza e da modificaziun po vegnir recurrì tar il departament superiur sin basa da la lescha davart la giurisdicziun administrativa[^25a-1].
 
-<sup>2</sup> Cunter decisiuns dal departament po vegnir recurrì tar la dretgira chantunala cun appellaziun tenor il cudesch da procedura civila[^25a-2].
+<sup>2</sup> Cunter decisiuns dal departament po vegnir recurrì tar la Dretgira superiura cun appellaziun tenor il Cudesch da procedura civila.
 
 [^25a-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
-[^25a-2]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
 ### 2.1.3. Associaziuns da pastgira communabla e corporaziuns sumegliantas
 
@@ -849,11 +848,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **5. instanza giudiziala da recurs**
 
-<sup>1</sup> La dretgira chantunala è l'instanza giudiziala da recurs.
+<sup>1</sup> La Dretgira superiura è l'instanza giudiziala da recurs.
 
-<sup>2</sup> Cunter decisiuns intermediaras da l'Autoritad per la protecziun d'uffants e da creschids poi vegnir fatg recurs tar la Dretgira chantunala entaifer 10 dis dapi lur communicaziun.
+<sup>2</sup> Cunter decisiuns intermediaras da l'Autoritad per la protecziun d'uffants e da creschids poi vegnir fatg recurs tar la Dretgira superiura entaifer 10 dis dapi lur communicaziun.
 
-<sup>3</sup> La Dretgira chantunala n'è betg liada vi da las propostas da las partidas ed eruescha d'uffizi ils fatgs. Novs fatgs e novs meds da cumprova èn admess.
+<sup>3</sup> La Dretgira superiura n'è betg liada vi da las propostas da las partidas ed eruescha d'uffizi ils fatgs. Novs fatgs e novs meds da cumprova èn admess.
 
 <sup>4</sup> Termins legals e termins ordinads da l'autoritad na vegnan betg sistids. Las partidas ston vegnir rendidas attentas a quest fatg.
 
@@ -1715,9 +1714,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Cunter disposiziuns da l'uffizi dal register funsil poi vegnir fatg recurs tar il post da surveglianza.
 
-<sup>2</sup> Cunter decisiuns da recurs dal post da surveglianza poi vegnir fatg recurs entaifer 30 dis tar la dretgira chantunala. Exceptadas èn decisiuns en chaussas da taxas. La procedura sa drizza tenor il cudesch da procedura civila[^143-1].
-
-[^143-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
+<sup>2</sup> Cunter decisiuns da recurs dal post da surveglianza poi vegnir fatg recurs entaifer 30 dis tar la Dretgira superiura. Exceptadas èn decisiuns en chaussas da taxas. La procedura sa drizza tenor il Cudesch da procedura civila.
 
 ### 2.5.
 
