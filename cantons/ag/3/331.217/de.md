@@ -4,13 +4,13 @@ number: "331.217"
 title: Verordnung über die gemeinwirtschaftlichen Leistungen
 short: GWLV
 language: de
-version: 2024-12-23
-valid_until: 2024-12-31
+version: 2025-01-01
+valid_until: 2025-12-31
 version_adopted: 2024-12-11
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.217"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3740/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3740/pdf_file"
 
 (GWLV)
 
-Vom 11.11.2020 (Stand 23.12.2024)
+Vom 11.11.2020 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -62,7 +62,10 @@ beschliesst:
 - m) medizinische Versorgung nach Genitalbeschneidungen,
 - n) Hausarztmentoring,
 - o) Weiterbildung in Hausarztpraxen (Praxisassistenz),
-- p) Dolmetscherkosten.
+- p) Dolmetscherkosten,
+- q) Vorhalteleistungen Polytrauma/Stroke Center,
+- r) Vorhalteleistungen Notfallstation Zentrumsspital Akutsomatik,
+- s) Sicherheitsdienst Notfall.
 
 #### § 4
 
@@ -76,11 +79,14 @@ beschliesst:
 - b) Massnahmen des Kindes- und Erwachsenenschutzrechts: Fr. 0,5 Mio.,
 - c) Bereitstellung und Unterhalt von geschützten Operationssälen (GOPS): In Abhängigkeit der Grösse Fr. 20'000.– oder Fr. 30'000.–,
 - d) Spitalseelsorge: Fr. 0,5 Mio. pro Jahr,
-- e) Weiterbildung in Hausarztpraxen (Praxisassistenz): Fr. 50'000.– pro halbes Jahr (Lohnkosten und Lohnadministrativkosten).
+- e) Weiterbildung in Hausarztpraxen (Praxisassistenz): Fr. 50'000.– pro halbes Jahr (Lohnkosten und Lohnadministrativkosten),
+- f) Vorhalteleistungen Polytrauma/Stroke Center: Fr. 5,5 Mio.,
+- g) Vorhalteleistungen Notfallstation Zentrumsspital Akutsomatik: Fr. 2,9 Mio.,
+- h) Sicherheitsdienst Notfall: Fr. 1,65 Mio.
 
 <sup>3</sup> Nachfolgende Leistungen werden mit einer Abgeltung pro erbrachte Leistungseinheit in genannter Höhe abgegolten:
 
-- a) ärztliche Weiterbildung: Fr. 20'000.– pro weiterzubildende Assistenzärztin oder weiterzubildenden Assistenzarzt und Jahr; oder pro Psychologin oder Psychologen in postgradualer Weiterbildung, die Weiterbildungsplätze besetzen, die nicht mit weiterzubildenden Assistenzärztinnen oder weiterzubildenden Assistenzärzten belegt werden konnten und Jahr. Erfolgt die Weiterbildung im Rahmen einer sogenannten Rotationsassistenzstelle für angehende Hausärztinnen und Hausärzte, beträgt der Betrag Fr. 30'000.–. Diese Rotationsassistenzstellen müssen in Zusammenhang mit dem Hausarztcurriculum stehen und sind auf 14 pro Jahr begrenzt,
+- a) ärztliche Weiterbildung: Fr. 20'000.– pro weiterzubildende Assistenzärztin oder weiterzubildenden Assistenzarzt und Jahr; oder pro Psychologin oder Psychologen in postgradualer Weiterbildung, die Weiterbildungsplätze besetzen, die nicht mit weiterzubildenden Assistenzärztinnen oder weiterzubildenden Assistenzärzten belegt werden konnten und Jahr. Erfolgt die Weiterbildung im Rahmen einer sogenannten Rotationsassistenzstelle für angehende Hausärztinnen und Hausärzte, beträgt der Betrag Fr. 60'000.–. Diese Rotationsassistenzstellen müssen in Zusammenhang mit dem Hausarztcurriculum stehen und sind auf 14 pro Jahr begrenzt,
 - b) Massnahmen des Kindesschutzes: Fr. 1'500.– pro betreutes Kind,
 - c) Betrieb einer Heroinabgabestelle: Fr. 339.– pro Woche und Fall,
 - d) universitäre Lehre: Fr. 1'000.– pro Blockstudentin oder Blockstudent und Tag sowie Fr. 15'000.– pro Unterassistentin oder Unterassistent und Jahr,
@@ -93,7 +99,7 @@ beschliesst:
 <sup>4</sup> Die Abgeltung der folgenden Leistungen erfolgt situationsbezogen und innerhalb eines Kostendachs:
 
 - a) Forschung: Kostendach Fr. 2,5 Mio. pro Jahr,
-- b) Betrieb einer Kinderklinik (ungedeckte Betriebskosten): Kostendach Fr. 5 Mio. pro Jahr,
+- b) Betrieb einer Kinderklinik (ungedeckte Betriebskosten): Kostendach Fr. 7,8 Mio. pro Jahr,
 - c) Dolmetscherkosten: 50 % der effektiven externen Dolmetscherkosten. Kostendach Fr. 1 Mio. pro Jahr.
 
 #### § 5
