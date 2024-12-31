@@ -5,12 +5,12 @@ title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2024-03-19
 version_adopted: 2022-06-14
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3375/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3374/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -705,60 +705,37 @@ decide:
 
 #### Art. 49
 
-**Procedura 1. Decreto d'avvio**
+**Procedura 1. Avvio, istruzione**
 
-<sup>1</sup> Il Gran Consiglio avvia d'ufficio o su segnalazione un procedimento di destituzione, se è dato un sospetto iniziale fondato relativo alla sussistenza di un motivo di destituzione.
+<sup>1</sup> Il Gran Consiglio avvia d'ufficio o su denuncia una procedura di destituzione se viene a conoscenza di un motivo di destituzione.
 
-<sup>2</sup> Va previamente sentito il membro interessato. Occorre procedere a ulteriori accertamenti nella misura in cui siano indispensabili per l'adozione del decreto d'avvio.
+<sup>2</sup> L'istruzione del decreto d'avvio, lo svolgimento dell'istruttoria e l'istruzione della decisione finale competono alla Commissione di giustizia e sicurezza.
 
 #### Art. 50
 
-**…**
+**2. Istruttoria**
+
+<sup>1</sup> La fattispecie deve essere rilevata d'ufficio.
+
+<sup>2</sup> Vengono applicate per analogia le disposizioni sui mezzi d'istruttoria, sull'obbligo di collaborazione degli interessati, sul diritto di essere ascoltato e di prendere visione degli atti, contenute nella legge sulla giustizia amministrativa.
 
 #### Art. 51
 
-**2. Sospensione**
+**3. Sospensione**
 
-<sup>1</sup> A maggioranza di tre quarti dei membri, il Gran Consiglio può decidere una sospensione se è stata resa credibile la sussistenza di un motivo di destituzione e se il funzionamento dell'autorità interessata è minacciato.
-
-<sup>2</sup> Questa disposizione può essere associata a una riduzione del salario fino alla metà dello stesso, se molto probabilmente un ritorno in carica può essere escluso e alla persona interessata viene consentito l'esercizio di un'attività lucrativa.
+<sup>1</sup> Se vi sono indizi sufficienti per un motivo di destituzione ai sensi dell'articolo 48, il Gran Consiglio può decidere con la maggioranza di tre quarti dei membri una sospensione cautelativa con o senza riduzione o soppressione del versamento del salario.
 
 #### Art. 52
 
-**3. Decisione finale**
+**4. Decisione**
 
-<sup>1</sup> Il Gran Consiglio conclude il procedimento di destituzione disponendo una destituzione oppure abbandonando il procedimento di destituzione.
-
-<sup>2</sup> Se il quorum per la destituzione non viene raggiunto, il procedimento di destituzione è considerato abbandonato.
-
-#### Art. 52a
-
-**4. Istruzione e presentazione della proposta**
-
-<sup>1</sup> La commissione del Gran Consiglio competente per la giustizia dirige il procedimento di destituzione fino alla decisione finale quale autorità che si occupa dell'istruzione.
-
-<sup>2</sup> Per la durata del procedimento di destituzione, la commissione del Gran Consiglio competente per la giustizia adotta le necessarie disposizioni provvisionali e determinanti il corso della procedura, nella misura in cui non sia competente il Gran Consiglio. Essa può chiedere una sospensione al Gran Consiglio.
-
-<sup>3</sup> Se le prove necessarie sono state rilevate, in vista della prossima sessione la commissione del Gran Consiglio competente per la giustizia sottopone al Gran Consiglio rapporto e richiesta:
-
-- a) di avviare o di non avviare un procedimento di destituzione, se una tale richiesta non è palesemente infondata;
-- b) di disporre una destituzione o di abbandonare il procedimento di destituzione.
+<sup>1</sup> Le decisioni vanno motivate e comunicate per iscritto agli interessati con un avvertimento circa i mezzi d'impugnazione.
 
 #### Art. 53
 
-**5. Regolamentazioni complementari**
+**5. Rimedi giuridici**
 
-<sup>1</sup> I membri del Gran Consiglio e del Governo possono essere obbligati a sottoporsi a una visita da parte di un medico di fiducia.
-
-<sup>2</sup> Se la commissione del Gran Consiglio competente per la giustizia sottopone delle richieste al Gran Consiglio, le frazioni possono sentire la persona interessata e altri membri dell'autorità interessata.
-
-<sup>3</sup> I procedimenti di destituzione sono gratuiti. In caso di temerarietà possono essere riscosse spese procedurali.
-
-<sup>4</sup> Le decisioni del Gran Consiglio nonché le decisioni provvisionali e determinanti il corso della procedura adottate dalla commissione del Gran Consiglio competente per la giustizia che comportano uno svantaggio probabilmente irreparabile in futuro possono essere impugnate dinanzi al Tribunale d'appello.
-
-<sup>5</sup> Per il resto per la procedura di destituzione fanno stato per analogia le disposizioni della legge sulla giustizia amministrativa[^53-1].
-
-[^53-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+<sup>1</sup> Le decisioni del Gran Consiglio concernenti la sospensione e la destituzione possono venire impugnate presso il Tribunale amministrativo entro 30 giorni dalla comunicazione.
 
 ## 4. Iniziativa
 
@@ -1205,7 +1182,7 @@ decide:
 
 <sup>3</sup> Può essere presentato ricorso alla commissione competente del Gran Consiglio per violazione del diritto di voto e irregolarità nella preparazione o nello svolgimento delle elezioni del Governo.
 
-<sup>4</sup> Può essere presentato ricorso al Tribunale d'appello contro le spiegazioni di voto del Gran Consiglio. Fatto salvo l'articolo 97, la procedura si conforma alla legge sulla giustizia amministrativa.
+<sup>4</sup> È data la facoltà di presentare ricorso al Tribunale amministrativo concernente le spiegazioni del Gran Consiglio. Fatto salvo l'articolo 97, la procedura si conforma alla legge sulla giustizia amministrativa.
 
 #### Art. 96
 
@@ -1220,7 +1197,7 @@ decide:
 <sup>1</sup> I ricorsi devono essere presentati entro tre giorni dalla rilevazione del motivo d'impugnazione, tuttavia non oltre il terzo giorno seguente la pubblicazione ufficiale dei risultati di un'elezione o votazione alle seguenti autorità:
 
 - a) alla Cancelleria dello Stato: ricorsi conformemente all'articolo 95 capoversi 1-3;
-- b) al Tribunale d'appello: ricorsi conformemente all'articolo 95 capoverso 4.
+- b) al Tribunale amministrativo: ricorsi conformemente all'articolo 95 capoverso 4.
 
 #### Art. 98
 
@@ -1256,9 +1233,9 @@ decide:
 
 #### Art. 102
 
-**Impugnazione dinanzi al Tribunale d'appello**
+**Impugnazione dinanzi al Tribunale amministrativo**
 
-<sup>1</sup> Le decisioni del Governo, del Gran Consiglio e della commissione competente del Gran Consiglio, nonché delle autorità dei tribunali regionali, delle regioni e dei comuni sono soggette a ricorso per violazione dei diritti politici dinanzi al Tribunale d'appello.
+<sup>1</sup> Le decisioni del Governo, del Gran Consiglio e della Commissione competente del Gran Consiglio, nonché delle autorità dei tribunali regionali, delle regioni e dei comuni sono soggette al ricorso dinanzi al Tribunale amministrativo per violazione dei diritti politici.
 
 <sup>2</sup> La procedura si conforma alla legge sulla giustizia amministrativa[^102-1].
 

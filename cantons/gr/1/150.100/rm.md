@@ -5,12 +5,12 @@ title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2024-03-19
 version_adopted: 2022-06-14
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3375/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3374/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -705,60 +705,39 @@ concluda:
 
 #### Art. 49
 
-**Procedura 1. conclus d'introducziun**
+**Procedura 1. introducziun, instrucziun**
 
-<sup>1</sup> Il Cussegl grond iniziescha d'uffizi u sin denunzia ina procedura da destituziun da l'uffizi, sch'igl exista in suspect inizial motivà ch'i saja avant maun in motiv per ina destituziun da l'uffizi.
+<sup>1</sup> Il cussegl grond iniziescha d'uffizi u sin denunzia ina procedura da destituziun da l'uffizi, sch'el survegn enconuschientscha d'in motiv da destituziun da l'uffizi.
 
-<sup>2</sup> L'emprim èsi da tadlar la commembra pertutgada u il commember pertutgà. Ulteriurs scleriments ston vegnir fatgs, sch'els èn indispensabels per prender il conclus d'introducziun.
+<sup>2</sup> L'instrucziun dal conclus d'iniziaziun, la realisaziun da l'inquisiziun e l'instrucziun da la decisiun finala èn chaussa da la cumissiun per giustia e segirezza.
 
 #### Art. 50
 
-**…**
+**2. inquisiziun**
+
+<sup>1</sup> Ils fatgs ston vegnir eruids d'uffizi.
+
+<sup>2</sup> Las disposiziuns davart ils meds d'inquisiziun, davart l'obligaziun da cooperar da las persunas participadas, davart l'attenziun giuridica e davart l'invista da las actas en la lescha davart la giurisdicziun administrativa[^50-1] vegnan applitgadas confurm al senn.
+
+[^50-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 #### Art. 51
 
-**2. suspensiun da l'uffizi**
+**3. suspensiun da l'uffizi**
 
-<sup>1</sup> Cun ina maioritad da trais quarts da las commembras e dals commembers po il Cussegl grond concluder ina suspensiun da l'uffizi, sche l'existenza d'in motiv per ina destituziun da l'uffizi è vegnida fatga valair vardaivlamain e sch'il funcziunament da l'autoritad pertutgada è periclità.
-
-<sup>2</sup> Questa ordinaziun po vegnir colliada cun ina reducziun dal salari fin a la mesadad dal salari, sch'in return en l'uffizi po vegnir exclus cun fitg gronda probabilitad e sch'i vegn permess a la persuna pertutgada d'exercitar in'activitad da gudogn.
+<sup>1</sup> Sch'igl èn avant maun indizis avunda per in motiv da destituziun da l'uffizi tenor l'artitgel 48, po il cussegl grond concluder cun la maioritad da trais quarts da las commembras e dals commembers preventivamain ina suspensiun da l'uffizi, e quai cun u senza reducziun u sistida dal salari.
 
 #### Art. 52
 
-**3. decisiun finala**
+**4. decisiun**
 
-<sup>1</sup> Il Cussegl grond terminescha la procedura da destituziun da l'uffizi, saja quai cun ordinar ina destituziun da l'uffizi u cun metter ad acta la procedura da destituziun da l'uffizi.
-
-<sup>2</sup> Sch'il quorum per la destituziun da l'uffizi na vegn betg cuntanschì, vala la procedura da destituziun da l'uffizi sco messa ad acta.
-
-#### Art. 52a
-
-**4. instrucziun e proposta**
-
-<sup>1</sup> La cumissiun dal Cussegl grond ch'è cumpetenta per la giustia è l'autoritad instruenta e maina la procedura da destituziun da l'uffizi fin a la decisiun finala.
-
-<sup>2</sup> Per la durada da la procedura da destituziun da l'uffizi prenda la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia las ordinaziuns preventivas e proceduralas necessarias, nun ch'il Cussegl grond saja cumpetent en chaussa. Ella po dumandar il Cussegl grond d'ordinar ina destituziun da l'uffizi.
-
-<sup>3</sup> Cura che las cumprovas necessarias èn registradas, suttametta la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia al Cussegl grond, per la proxima sessiun, in rapport ed ina proposta:
-
-- a) d'introducir u da betg introducir ina procedura da destituziun da l'uffizi, sch'ina tala proposta n'è betg evidentamain nunmotivada;
-- b) d'ordinar ina destituziun da l'uffizi u da metter ad acta la procedura da destituziun da l'uffizi.
+<sup>1</sup> Decisiuns ston vegnir motivadas e communitgadas a las persunas pertutgadas en scrit sco er munidas cun ina indicaziun dals meds legals.
 
 #### Art. 53
 
-**5. regulaziuns cumplementaras**
+**5. meds legals**
 
-<sup>1</sup> Las commembras ed ils commembers dal Cussegl grond e da la Regenza pon vegnir obligads da sa suttametter ad ina controlla tras la media u il medi da confidenza.
-
-<sup>2</sup> Sche la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia suttametta propostas al Cussegl grond, pon las fracziuns tadlar la persuna pertutgada sco er autras commembras ed auters commembers da l'autoritad pertutgada.
-
-<sup>3</sup> Proceduras da destituziun da l'uffizi èn gratuitas. En cas da levsenn pon vegnir incassads custs da procedura.
-
-<sup>4</sup> Las decisiuns dal Cussegl grond sco er las decisiuns preventivas e proceduralas da la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia pon vegnir contestadas tar la Dretgira superiura, sch'ellas chaschunan in dischavantatg che na sa lascha probablamain betg pli eliminar pli tard.
-
-<sup>5</sup> Per la procedura da destituziun da l'uffizi valan dal rest las disposiziuns da la Lescha davart la giurisdicziun administrativa[^53-1] confurm al senn.
-
-[^53-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+<sup>1</sup> Decisiuns dal cussegl grond che concernan la suspensiun da l'uffizi e la destituziun da l'uffizi pon vegnir contestadas entaifer 30 dis dapi la communicaziun tar la dretgira administrativa.
 
 ## 4. Procedura d'iniziativa
 
@@ -1205,7 +1184,7 @@ concluda:
 
 <sup>3</sup> Tar la cumissiun cumpetenta dal cussegl grond po vegnir fatg recurs pervia da la violaziun dal dretg da votar e pervia dad irregularitads tar la preparaziun u tar l'execuziun da las elecziuns da la regenza.
 
-<sup>4</sup> Tar la Dretgira superiura po vegnir fatg recurs cunter las explicaziuns da votaziun dal Cussegl grond. Cun resalva da l'artitgel 97 sa drizza la procedura tenor la Lescha davart la giurisdicziun administrativa.
+<sup>4</sup> Tar la dretgira administrativa po vegnir fatg recurs cunter las explicaziuns da votaziun dal cussegl grond. Cun resalva da l'artitgel 97 sa drizza la procedura tenor la lescha davart la giurisdicziun administrativa.
 
 #### Art. 96
 
@@ -1220,7 +1199,7 @@ concluda:
 <sup>1</sup> Ils recurs ston vegnir inoltrads entaifer trais dis dapi la scuverta dal motiv da recurs, il pli tard però il terz di suenter la publicaziun uffiziala dals resultats d'ina elecziun u d'ina votaziun, a las suandantas instanzas:
 
 - a) a la chanzlia chantunala: recurs tenor l'artitgel 95 alineas 1 fin 3;
-- b) a la Dretgira superiura: recurs tenor l'artitgel 95 alinea 4.
+- b) a la dretgira administrativa: recurs tenor l'artitgel 95 alinea 4.
 
 #### Art. 98
 
@@ -1258,9 +1237,9 @@ concluda:
 
 #### Art. 102
 
-**Recurs tar la Dretgira superiura**
+**Recurs tar la dretgira administrativa**
 
-<sup>1</sup> Cunter decisiuns da la Regenza, dal Cussegl grond e da la cumissiun cumpetenta dal Cussegl grond sco er da las autoritads da las dretgiras regiunalas, da las regiuns e da las vischnancas po vegnir recurrì tar la Dretgira superiura pervia da violaziun da dretgs politics.
+<sup>1</sup> Cunter decisiuns da la regenza, dal cussegl grond e da la cumissiun cumpetenta dal cussegl grond sco er da las autoritads da las dretgiras regiunalas, da las regiuns e da las vischnancas po vegnir recurrì tar la dretgira administrativa pervia da violaziun da dretgs politics.
 
 <sup>2</sup> La procedura sa drizza tenor la lescha davart la giurisdicziun administrativa[^102-1].
 
