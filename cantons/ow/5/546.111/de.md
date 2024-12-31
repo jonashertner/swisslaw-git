@@ -4,13 +4,12 @@ number: "546.111"
 title: Ausführungsbestimmungen zum Feuerwehrgesetz
 short: AB FeWG
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-12-18
+version: 2025-01-01
+version_adopted: 2024-07-02
 adopted: 2008-12-02
 in_force: 2009-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/546.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1869/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1869/pdf_file"
 
 (AB FeWG)
 
-vom 02.12.2008 (Stand 01.01.2019)
+vom 02.12.2008 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -238,7 +237,7 @@ beschliesst:
 
 **c. jährlicher Pauschalbeitrag (Art. 28 FeWG)**
 
-<sup>1</sup> Der jährliche Gesamtbetrag beträgt Fr. 200 000.–.
+<sup>1</sup> Der jährliche Gesamtbetrag beträgt Fr. 100 000.–.
 
 <sup>2</sup> Die für den Verteilschlüssel massgebenden statistischen Zahlen beruhen auf dem Stand 31. Dezember 2007; sie werden alle fünf Jahre neu erhoben.
 
@@ -355,6 +354,8 @@ geändert durch
 
 \- AB zum Vollzug von Art. 23a des Gesetzes über den Wasserbau und die Wassernutzung (Wasserbaugesetz) vom 7. Mai 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 12),
 
-\- Nachtrag vom 18. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 57)
+\- Nachtrag vom 18. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 57),
+
+\- Nachtrag vom 2. Juli 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 16)
 
 OGS 2008, 103
