@@ -4,20 +4,21 @@ number: "848"
 title: Gesetz über das Halten von Hunden
 short: HuG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-09-09
+version: 2025-01-01
+version_adopted: 2024-09-09
 adopted: 1973-10-23
 in_force: 1974-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/848"
-pdf: "https://srl.lu.ch/api/de/versions/3469/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über das Halten von Hunden
 
-vom 23.10.1973 (Stand 01.01.2020)
+(HuG)
+
+vom 23.10.1973 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -42,7 +43,7 @@ beschliesst:
 
 **Kennzeichnung der Hunde**
 
-<sup>1</sup> Wer einen Hund hält, hat diesen spätestens drei Monate nach dessen Geburt von einer Tierärztin oder einem Tierarzt mit einem Mikrochip kennzeichnen zu lassen.
+<sup>1</sup> Wer einen Hund hält, hat diesen spätestens drei Monate nach dessen Geburt, in jedem Fall jedoch vor der Weitergabe durch den Hundehalter oder die Hundehalterin, bei der oder bei dem der Hund geboren wurde, von einem Tierarzt oder einer Tierärztin mit einem Mikrochip kennzeichnen zu lassen.
 
 <sup>2</sup> Die Einzelheiten der Kennzeichnung richten sich nach der eidgenössischen Tierseuchengesetzgebung.
 
@@ -50,7 +51,7 @@ beschliesst:
 
 **Registrierung der Hunde**
 
-<sup>1</sup> Der Regierungsrat bezeichnet die Stelle, welche die mit der Kennzeichnung erhobenen Daten in einer Datenbank erfasst. Er kann die Datenregistrierung einer privaten oder einer öffentlich-rechtlichen Institution übertragen.
+<sup>1</sup> Der Regierungsrat bezeichnet die zuständige Stelle, welche die erforderlichen Daten in der nationalen Hundedatenbank erfasst. Er kann die Datenregistrierung einer privaten oder einer öffentlich-rechtlichen Institution übertragen.
 
 <sup>2</sup> Die Einzelheiten der Registrierung und der Einsichtnahme in die Datenbank richten sich nach der eidgenössischen Tierseuchengesetzgebung.
 
@@ -101,23 +102,23 @@ beschliesst:
 - a. Diensthunden, die von Polizeiorganen oder von andern öffentlichen Diensten benötigt werden;
 - b. Militärhunden;
 - c. ausgebildeten Schutz-, Sanitäts-, Katastrophen- und Lawinenhunden, soweit an ihrer Haltung ein öffentliches Interesse besteht;
-- d. Schweisshunden, welche gemäss § 28 Absatz 4 des kantonalen Gesetzes über Jagd und Vogelschutz[^8-1] für jedes Jagdrevier vorgeschrieben sind und welche eine kantonale Schweisshundeprüfung bestanden haben;
-- e. Blindenführhunden;
+- d. für die Nachsuche geprüften Hunden, die gemäss § 20 Absatz 5 der kantonalen Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel[^8-1] für jede Jagdgesellschaft vorgeschrieben sind;
+- e. ausgebildeten und zur Unterstützung benötigten Assistenzhunden;
 - f. Hunden, für welche die Steuer bereits in einer andern Gemeinde des Kantons entrichtet wurde;
 - g. Hunden, für welche die Steuer bereits in einem andern Kanton entrichtet wurde;
 - h. Hunden, die sich weniger als drei Monate im Kanton aufhalten.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die näheren Voraussetzungen der Steuerbefreiung in einer Verordnung.
 
-[^8-1]: SRL Nr. [725](https://srl.lu.ch/data/725/de)
+[^8-1]: SRL Nr. [725a](https://srl.lu.ch/data/725a/de)
 
 #### § 9
 
 **Ersatzhunde und Rückerstattung der Steuer**
 
-<sup>1</sup> Geht ein Hund ein oder wird er getötet, ist für den Ersatzhund bis zum Ablauf des Steuerjahres keine Steuer zu entrichten.
+<sup>1</sup> Stirbt ein Hund, ist für den Ersatzhund bis zum Ablauf des Steuerjahres keine Steuer zu entrichten.
 
-<sup>2</sup> Wird kein Ersatzhund angeschafft, hat die Halterin oder der Halter des Hundes Anspruch auf Rückerstattung der halben Steuer, sofern der Hund vor dem 30. Juni eingegangen ist oder getötet wurde. Forderungen verjähren nach einem Jahr.
+<sup>2</sup> Wird kein Ersatzhund angeschafft, hat der Halter oder die Halterin des Hundes Anspruch auf Rückerstattung der halben Steuer, sofern der Hund vor dem 30. Juni gestorben ist. Forderungen verjähren nach einem Jahr.
 
 #### § 10
 
@@ -145,9 +146,9 @@ beschliesst:
 
 <sup>1</sup> Hunde sind so zu halten, dass der Schutz der Öffentlichkeit gewährleistet ist.
 
-<sup>2</sup> Der Regierungsrat erlässt Vorschriften über die Hundehaltung, insbesondere über Hygiene, Wartung und Beaufsichtigung.
+<sup>2</sup> Der Regierungsrat erlässt Vorschriften über die Hundehaltung, insbesondere über die Führung und Betreuung sowie die Beaufsichtigung der Hunde.
 
-<sup>3</sup> Er kann für Hunde mit ansteckenden Krankheiten sowie für Hunde, die für Mensch und Tier gefährlich sind, Massnahmen und, falls erforderlich, die Tötung vorsehen.
+<sup>3</sup> Er kann bei Hunden mit ansteckenden Krankheiten sowie bei Hunden, die für Mensch und Tier gefährlich sind, zum Schutz der öffentlichen Sicherheit und Ordnung Massnahmen wie namentlich die tierärztliche Behandlung, die Umplatzierung oder die Tötung des Hundes sowie das Verbot des Haltens von Hunden vorsehen.
 
 <sup>4</sup> Er kann Vorschriften über die Ausbildung von Hunden und von Hundehalterinnen und Hundehaltern erlassen.
 
