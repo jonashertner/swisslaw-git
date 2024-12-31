@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfreq
 short: VVNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: de
-version: 2024-06-01
+version: 2025-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/de"
 
 (VVNF)
 
-vom 18. November 2020 (Stand am 1. Juni 2024)
+vom 18. November 2020 (Stand am 1. Januar 2025)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -193,10 +193,10 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 6. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 666](https://fedlex.data.admin.ch/eli/oc/2023/666)).
-[^annex1-lvlu1-1]: Der Inhalt des Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/666](https://fedlex.data.admin.ch/eli/oc/2023/666) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Separatdrucke können gegen Bezahlung bezogen werden beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)).
+[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
+[^annex1-lvlu1-1]: Der Inhalt des Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/695](https://fedlex.data.admin.ch/eli/oc/2024/695) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)), gegen Bezahlung bezogen werden.
 
-Fassung 6 vom 6. November 2023
+Fassung 7 vom 12. November 2024
 
 Anhang 2[^t-2]
 
@@ -204,13 +204,13 @@ Anhang 2[^t-2]
 
 ## Frequenzbereiche für die Teilnahme am Flugfunk, an der Flugnavigation und an der Flugüberwachung
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^t-2]: Fassung gemäss Ziff. I der V des BAKOM vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
 
 <table>
-<tr><td>Verwendungszweck</td><td>Frequenzbereich</td><td>RIR</td></tr>
+<tr><th>Verwendungszweck</th><th>Frequenzbereich</th><th>RIR</th></tr>
 <tr><td>HF-COM</td><td>2 – 30 MHz</td><td>RIR0101-05</td></tr>
 <tr><td>VHF-COM</td><td>118 – 137 MHz</td><td>RIR0101-01/02/03/04</td></tr>
-<tr><td>VHF-NAV °°VOR °°ILS LOC °°GP °°MARKER</td><td>108 – 118 MHz 108 – 112 MHz 329 – 335 MHz 74,8 – 75,2 MHz</td><td>RIR0102-02/04 RIR0102-06</td></tr>
+<tr><td>VHF-NAV VOR ILS LOC GP MARKER GBAS</td><td>108 – 118 MHz 108 – 112 MHz 329 – 335 MHz 74,8 – 75,2 MHz 108 – 118 MHz</td><td>RIR0102-02 RIR0102-04 RIR0102-04 RIR0102-06 RIR0102-07</td></tr>
 <tr><td>SAT NAV (GPS)</td><td>According to provider</td><td></td></tr>
 <tr><td>ADF</td><td>300 – 527 kHz</td><td>RIR0102-01</td></tr>
 <tr><td>DME Interrogator</td><td>960 – 1215 MHz</td><td>RIR0102-03</td></tr>
@@ -325,7 +325,7 @@ Anhang 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: Der Text der Prüfungsvorschriften kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, oder unter [www.bakom.admin.ch](https://www.bakom.admin.ch/bakom/de/home/frequenzen-antennen/funkerpruefungen.html) &gt; Frequenzen und Antennen &gt; Funkerprüfungen bezogen werden.
+[^annex5-lvlu1-1]: Der Text der Prüfungsvorschriften kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, oder unter: [www.bakom.admin.ch](https://www.bakom.admin.ch/bakom/de/home/frequenzen-antennen/funkerpruefungen.html) &gt; Frequenzen und Antennen &gt; Funkerprüfungen bezogen werden.
 
 <table>
 <tr><th></th><th>Fähigkeitszeugnis</th><th>Ausgabe der Prüfungsvorschriften</th></tr>

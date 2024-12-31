@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM del 18 novembre 2020 sull'utilizzazione dello spett
 short: OUUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: it
-version: 2024-06-01
+version: 2025-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/it"
 
 (OUUS)
 
-del 18 novembre 2020 (Stato 1° giugno 2024)
+del 18 novembre 2020 (Stato 1° gennaio 2025)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -121,7 +121,7 @@ Se esercita il suo impianto di radiocomunicazione nel Principato del Liechtenste
 
 <sup>5</sup> Gli esami non sono pubblici.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 9
 
@@ -141,7 +141,7 @@ I mezzi ausiliari ammessi sono elencati nelle prescrizioni d’esame. Chi utiliz
 
 Supera l’esame il candidato che ottiene almeno il 70 per cento del numero massimo di punti. Se l’esame consiste in una parte teorica e una pratica, è necessario ottenere almeno il 70 per cento del numero massimo di punti per ciascuna parte dell’esame.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 12
 
@@ -157,7 +157,7 @@ Le prescrizioni per l’esame volto all’ottenimento dei certificati di capacit
 
 <sup>2</sup> I candidati che non superano l’esame di riparazione possono ripetere l’intero esame.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 14
 
@@ -193,31 +193,33 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 6 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 666](https://fedlex.data.admin.ch/eli/oc/2023/666)).
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. È possibile consultarlo su [https://fedlex.data.admin.ch/eli/oc/2023/666](https://fedlex.data.admin.ch/eli/oc/2023/666) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Una copia stampata è ottenibile a pagamento presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna ([www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/cshop_bbl/b2c/start/(layout=7.01-13_131_69_135_6_133&carea=%24ROOT&rdb=0&uiarea=0)/.do)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 12 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
+[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. È possibile consultarlo su: [https://fedlex.data.admin.ch/eli/oc/2024/695](https://fedlex.data.admin.ch/eli/oc/2024/695) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Una copia stampata è ottenibile a pagamento presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)).
 
-Versione 6 del 6 novembre 2023
+Versione 7 del 12 novembre 2024
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 4)
 
 ## Gamme di frequenze per la partecipazione alle radiocomunicazioni, alla navigazione e alla sorveglianza aeronautiche
 
+[^t-2]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 12 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
+
 <table>
-<tr><td>Destinazione d’uso</td><td>Gamma di frequenze</td><td>RIR</td></tr>
-<tr><td>HF-COM</td><td>2 – 30 MHz</td><td>RIR0101-05</td></tr>
-<tr><td>VHF-COM</td><td>118 – 137 MHz</td><td>RIR0101-01/02/03/04</td></tr>
-<tr><td>VHF-NAV VOR ILS LOC GP MARKER</td><td>108 – 118 MHz 108 – 112 MHz 329 – 335 MHz 74,8 – 75,2 MHz</td><td>RIR0102-02/04 RIR0102-06</td></tr>
+<tr><th>Destinazione d’uso</th><th>Gamma di frequenze</th><th>RIR</th></tr>
+<tr><td>HF-COM</td><td>2 – 30 MHz</td><td>RIR0101‑05</td></tr>
+<tr><td>VHF-COM</td><td>118 – 137 MHz</td><td>RIR0101‑01/02/03/04</td></tr>
+<tr><td>VHF-NAV VOR ILS LOC GP MARKER GBAS</td><td>108 – 118 MHz 108 – 112 MHz 329 – 335 MHz 74,8 – 75,2 MHz 108 – 118 MHz</td><td>RIR0102‑02 RIR0102‑04 RIR0102‑04 RIR0102‑06 RIR0102‑07</td></tr>
 <tr><td>SAT NAV (GPS)</td><td>According to provider</td><td></td></tr>
-<tr><td>ADF</td><td>300 – 527 kHz</td><td>RIR0102-01</td></tr>
-<tr><td>DME Interrogator</td><td>960 – 1215 MHz</td><td>RIR0102-03</td></tr>
-<tr><td>ATC Transponder</td><td>1030 – 1090 MHz</td><td>RIR0103-05</td></tr>
-<tr><td>Weather Radar</td><td>9300 – 9500 MHz</td><td>RIR0102-08</td></tr>
-<tr><td>Radio Altimeter</td><td>4200 – 4400 MHz</td><td>RIR0102-09</td></tr>
-<tr><td>Emergency Locator Transmitter</td><td>406 / 121.5 / 243.0 MHz</td><td>RIR0104-01</td></tr>
+<tr><td>ADF</td><td>300 – 527 kHz</td><td>RIR0102‑01</td></tr>
+<tr><td>DME Interrogator</td><td>960 – 1215 MHz</td><td>RIR0102‑03</td></tr>
+<tr><td>ATC Transponder</td><td>1030 / 1090 MHz</td><td>RIR0103‑05</td></tr>
+<tr><td>Weather Radar</td><td>9300 – 9500 MHz</td><td>RIR0102‑08</td></tr>
+<tr><td>Radio Altimeter</td><td>4200 – 4400 MHz</td><td>RIR0102‑09</td></tr>
+<tr><td>Emergency Locator Transmitter</td><td>406 / 121,5 / 243,0 MHz</td><td>RIR0104‑01</td></tr>
 <tr><td>Satcom</td><td>According to provider</td><td>Various</td></tr>
-<tr><td>TCAS</td><td>1030 / 1090 MHz</td><td>RIR0103-05</td></tr>
+<tr><td>TCAS</td><td>1030 / 1090 MHz</td><td>RIR0103‑05</td></tr>
 </table>
 
 Allegato 3
@@ -241,13 +243,13 @@ Allegato 3
 <tr><td>AIS</td><td>156.025 - 162.025 MHz</td><td>RIR0603-01</td></tr>
 </table>
 
-Allegato 4[^t-2]
+Allegato 4[^t-3]
 
 (art. 6)
 
 ## Utilizzazione di gamme di frequenze secondo l’articolo 44 OUS
 
-[^t-2]: Aggiornato dal n. I cpv. 2 dell’O dell’UFCOM dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^t-3]: Aggiornato dalla cifra I cpv. 2 dell’O dell’UFCOM dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
 
 ### 1. Gamme di frequenze per titolari di un certificato di capacità secondo l’articolo 44 capoverso 1 lettera a numeri 1–3 OUS
 
@@ -315,7 +317,7 @@ Allegato 4[^t-2]
 <tr><td colspan="6">a La potenza massima è la potenza media che un trasmettitore può erogare al massimo durante un periodo di oscillazione ad alta frequenza nel picco più elevato dell’inviluppo della modulazione (PEP). b Gamma di frequenze a disposizione anche di altri utenti che possono utilizzarla con priorità. c Gamma di frequenze che può essere utilizzata solo dopo la notifica all’UFCOM secondo l’art. 33 cpv. 1 lett. d OUS. d Solo per collegamenti dalla Terra ai satelliti. e Effective Radiated Power. f Effective Isotropically Radiated Power.</td></tr>
 </table>
 
-Allegato 5[^t-3]
+Allegato 5[^t-4]
 
 (art. 12)
 
@@ -323,7 +325,7 @@ Allegato 5[^t-3]
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^t-4]: Nuovo testo giusta la cifra II dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 [^annex5-lvlu1-1]: Il testo delle prescrizioni d’esame è ottenibile presso l’UFCOM, Rue de l’Avenir 44, casella postale, 2501 Bienne, oppure all’indirizzo [www.ufcom.admin.ch](https://www.bakom.admin.ch/bakom/it/pagina-iniziale/frequenze-antenne/esami-di-radiocomunicazione.html) &gt; Frequenze e antenne &gt; Esami di radiocomunicazione.
 
 <table>

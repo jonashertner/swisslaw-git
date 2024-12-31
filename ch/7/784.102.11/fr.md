@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 18 novembre 2020 sur l'utilisation du spectre d
 short: OOUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: fr
-version: 2024-06-01
+version: 2025-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/fr"
 
 (OOUS)
 
-du 18 novembre 2020 (État le 1<sup>er</sup> juin 2024)
+du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2025)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -193,29 +193,31 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 6 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 666](https://fedlex.data.admin.ch/eli/oc/2023/666)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/666](https://fedlex.data.admin.ch/eli/oc/2023/666) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([www.publicationsfederales.admin.ch](http://www.publicationsfederales.admin.ch)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/695](https://fedlex.data.admin.ch/eli/oc/2024/695) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/fr/)).
 
-Version 6 du 6 novembre 2023
+Version 7 du 12 novembre 2024
 
-Annexe 2
+Annexe 2[^t-2]
 
 (art. 4)
 
 ## Domaines de fréquences utilisables pour les radiocommunications, la navigation et la surveillance aéronautiques
 
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
+
 <table>
-<tr><td>Affectation</td><td>Domaine de fréquences</td><td>RIR</td></tr>
+<tr><th>Affectation</th><th>Domaine de fréquences</th><th>RIR</th></tr>
 <tr><td>HF-COM</td><td>2 – 30 MHz</td><td>RIR0101-05</td></tr>
 <tr><td>VHF-COM</td><td>118 – 137 MHz</td><td>RIR0101-01/02/03/04</td></tr>
-<tr><td>VHF-NAV VOR ILS LOC GP MARKER</td><td>108 – 118 MHz 108 – 112 MHz 329 – 335 MHz 74,8 – 75,2 MHz</td><td>RIR0102-02/04 RIR0102-06</td></tr>
+<tr><td>VHF-NAV VOR ILS LOC GP MARKER GBAS</td><td>108 – 118 MHz 108 – 112 MHz 329 – 335 MHz 74,8 – 75,2 MHz 108 – 118 MHz</td><td>RIR0102-02 RIR0102-04 RIR0102-04 RIR0102-06 RIR0102-07</td></tr>
 <tr><td>SAT NAV (GPS)</td><td>According to provider</td><td></td></tr>
 <tr><td>ADF</td><td>300 – 527 kHz</td><td>RIR0102-01</td></tr>
 <tr><td>DME Interrogator</td><td>960 – 1215 MHz</td><td>RIR0102-03</td></tr>
 <tr><td>ATC Transponder</td><td>1030 / 1090 MHz</td><td>RIR0103-05</td></tr>
 <tr><td>Weather Radar</td><td>9300 – 9500 MHz</td><td>RIR0102-08</td></tr>
 <tr><td>Radio Altimeter</td><td>4200 – 4400 MHz</td><td>RIR0102-09</td></tr>
-<tr><td>Emergency Locating Transmitter</td><td>406 / 121.5 / 243.0 MHz</td><td>RIR0104-01</td></tr>
+<tr><td>Emergency Locator Transmitter</td><td>406 / 121.5 / 243.0 MHz</td><td>RIR0104-01</td></tr>
 <tr><td>Satcom</td><td>According to provider</td><td>Various</td></tr>
 <tr><td>TCAS</td><td>1030 / 1090 MHz</td><td>RIR0103-05</td></tr>
 </table>
@@ -241,13 +243,13 @@ Annexe 3
 <tr><td>AIS</td><td>156.025 – 162.025 MHz</td><td>RIR0603-01</td></tr>
 </table>
 
-Annexe 4[^t-2]
+Annexe 4[^t-3]
 
 (art. 6)
 
 ## Utilisation des domaines de fréquences selon l’art. 44 OUS
 
-[^t-2]: Mise à jour par le ch. I al. 2 de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^t-3]: Mise à jour par le ch. I al. 2 de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
 
 ### 1. Domaines de fréquences utilisables par les titulaires d’un certificat de capacité selon l’art. 44, al. 1, let. a, ch. 1 à 3, OUS
 
@@ -315,7 +317,7 @@ Annexe 4[^t-2]
 <tr><td colspan="6">a La puissance de crête à la sortie d’un émetteur est la moyenne de la puissance qu’un émetteur peut fournir au cours d’un cycle de radiofréquence correspondant à l’amplitude maximale de l’enveloppe de modulation (PEP). b Domaine de fréquences également disponible pour d’autres usagers qui peuvent l’utiliser en priorité. c Domaine de fréquences qui ne peut être utilisé qu’une fois l’annonce faite auprès de l’OFCOM conformément à l’art 33, al. 1, let. d, OUS. d Uniquement pour les liaisons de la Terre au satellite. e Effective Radiated Power. f Effective Isotropically Radiated Power.</td></tr>
 </table>
 
-Annexe 5[^t-3]
+Annexe 5[^t-4]
 
 (art. 12)
 
@@ -323,7 +325,7 @@ Annexe 5[^t-3]
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 [^annex5-lvlu1-1]: Le texte des prescriptions d’examen peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou à l’adresse Internet [www.ofcom.admin.ch](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/examens-de-radiocommunication.html) &gt; Fréquences et antennes &gt; Examens de radiocommunication.
 
 <table>
