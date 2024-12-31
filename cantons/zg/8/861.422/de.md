@@ -4,13 +4,13 @@ number: "861.422"
 title: Richtlinie betreffend Unterstützungsleistungen für Personen aus dem Asylbereich ohne Aufenthaltsbewilligung
 short: Unterstützungsrichtlinie
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-15
+version: 2025-01-01
+valid_until: 2026-03-31
+version_adopted: 2024-12-17
 adopted: 2022-09-21
 in_force: 2022-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.422"
-pdf: "https://bgs.zg.ch/api/de/versions/2403/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2403/pdf_file"
 
 (Unterstützungsrichtlinie)
 
-Vom 21. September 2022 (Stand 1. Januar 2023)
+Vom 21. September 2022 (Stand 1. Januar 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
-gestützt auf § 5 Abs. 1 und § 11 Abs. 1 Bst. b der Verordnung betreffend Sozialhilfe für Personen aus dem Asylbereich vom 27. Januar 2009 [^ingress-1]
+gestützt auf § 5 Abs. 1 und § 11 Abs. 1 Bst. b der Verordnung betreffend Sozialhilfe für Personen aus dem Asylbereich vom 27. Januar 2009 [^ingress-1],
 
 verfügt:
 
@@ -64,12 +64,12 @@ verfügt:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Grundbedarf pro Monat</th></tr>
-<tr><td>1 Person</td><td>470 Franken</td></tr>
-<tr><td>2 Personen</td><td>888 Franken</td></tr>
-<tr><td>3 Personen</td><td>1273 Franken</td></tr>
-<tr><td>4 Personen</td><td>1489 Franken</td></tr>
-<tr><td>5 Personen</td><td>1681 Franken</td></tr>
-<tr><td>Pro weitere Person</td><td>+ 209 Franken</td></tr>
+<tr><td>1 Person</td><td>484 Franken</td></tr>
+<tr><td>2 Personen</td><td>914 Franken</td></tr>
+<tr><td>3 Personen</td><td>1310 Franken</td></tr>
+<tr><td>4 Personen</td><td>1533 Franken</td></tr>
+<tr><td>5 Personen</td><td>1730 Franken</td></tr>
+<tr><td>Pro weitere Person</td><td>+ 216 Franken</td></tr>
 </table>
 
 <sup>2</sup> Je nach den konkreten Umständen, insbesondere der Wohnsituation, kann das Kantonale Sozialamt Zuschläge gewähren oder Abzüge veranschlagen.
@@ -78,12 +78,12 @@ verfügt:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Kosten pro Mahlzeit und Person</th></tr>
-<tr><td>1 Person</td><td>Fr. 2.70</td></tr>
-<tr><td>2 Personen</td><td>Fr. 2.50</td></tr>
-<tr><td>3 Personen</td><td>Fr. 2.30</td></tr>
-<tr><td>4 Personen</td><td>Fr. 2.10</td></tr>
-<tr><td>5 Personen</td><td>Fr. 1.90</td></tr>
-<tr><td>Pro weitere Person</td><td>Fr. 1.90</td></tr>
+<tr><td>1 Person</td><td>Fr. 2.80</td></tr>
+<tr><td>2 Personen</td><td>Fr. 2.60</td></tr>
+<tr><td>3 Personen</td><td>Fr. 2.40</td></tr>
+<tr><td>4 Personen</td><td>Fr. 2.20</td></tr>
+<tr><td>5 Personen</td><td>Fr. 2.00</td></tr>
+<tr><td>Pro weitere Person</td><td>Fr. 2.00</td></tr>
 </table>
 
 #### § 4
@@ -96,28 +96,33 @@ verfügt:
 
 <table>
 <tr><th>Zimmer</th><th>Wohnkosten pro Person</th></tr>
-<tr><td>1 Person in Einzelzimmer</td><td>420 Franken</td></tr>
-<tr><td>1 Person in Mehrbettzimmer</td><td>270 Franken</td></tr>
+<tr><td>1 Person in Einzelzimmer</td><td>432 Franken</td></tr>
+<tr><td>1 Person in Mehrbettzimmer</td><td>278 Franken</td></tr>
+<tr><td>2 Personen (Unterstützungseinheit) in Mehrbettzimmer</td><td>247 Franken</td></tr>
+<tr><td>3 Personen (Unterstützungseinheit) in Mehrbettzimmer</td><td>216 Franken</td></tr>
+<tr><td>4 Personen (Unterstützungseinheit) in Mehrbettzimmer</td><td>185 Franken</td></tr>
+<tr><td>5 Personen (Unterstützungseinheit) in Mehrbettzimmer</td><td>154 Franken</td></tr>
+<tr><td>Pro weitere Person (Unterstützungseinheit) in Mehrbettzimmer</td><td>103 Franken</td></tr>
 </table>
 
-<sup>3</sup> Die Benutzungsgebühr wird bei der Unterbringung in einem Studio oder einer Wohnung wie folgt festgesetzt:
+<sup>3</sup> Die Benutzungsgebühr wird bei der Unterbringung in einem Studio oder einer Wohnung – bis maximal zu den effektiven Wohnkosten (Mietzins und Nebenkosten) – wie folgt festgesetzt:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Wohnkosten pro Haushalt</th></tr>
-<tr><td>1 Person</td><td>420 Franken</td></tr>
-<tr><td>2 Personen</td><td>840 Franken</td></tr>
-<tr><td>3 Personen</td><td>1260 Franken</td></tr>
-<tr><td>4 Personen</td><td>1580 Franken</td></tr>
-<tr><td>5 Personen</td><td>1850 Franken</td></tr>
-<tr><td>Pro weitere Person</td><td>+ 120 Franken</td></tr>
+<tr><td>1 Person</td><td>432 Franken</td></tr>
+<tr><td>2 Personen</td><td>864 Franken</td></tr>
+<tr><td>3 Personen</td><td>1297 Franken</td></tr>
+<tr><td>4 Personen</td><td>1626 Franken</td></tr>
+<tr><td>5 Personen</td><td>1904 Franken</td></tr>
+<tr><td>Pro weitere Person</td><td>+ 123 Franken</td></tr>
 </table>
 
 <sup>4</sup> Sind Personen in der Lage, ohne finanzielle Unterstützung eine private Unterkunft zu beziehen, haben sie innerhalb von sechs Monaten eine eigene Wohnung zu suchen, wobei ein Auszug jederzeit ohne Einhaltung von Fristen zulässig ist. Die Nutzung kann unter Umständen unter Berücksichtigung der folgenden schrittweisen Gebührenerhöhung verlängert werden:
 
 <table>
 <tr><th>Stufen</th><th>Erhöhung</th></tr>
-<tr><td>Ab 7. Monat nach finanzieller Unabhängigkeit</td><td>+ 100 Franken</td></tr>
-<tr><td>Ab 10. Monat nach finanzieller Unabhängigkeit</td><td>+ 250 Franken</td></tr>
+<tr><td>Ab 7. Monat nach finanzieller Unabhängigkeit</td><td>+ 103 Franken</td></tr>
+<tr><td>Ab 10. Monat nach finanzieller Unabhängigkeit</td><td>+ 257 Franken</td></tr>
 </table>
 
 #### § 5
@@ -151,8 +156,8 @@ verfügt:
 
 <sup>1</sup> Bei der Absolvierung einer Ausbildung, der Teilnahme an einem Arbeitsintegrationsprogramm oder zu Erwerbszwecken werden gegebenenfalls folgende Verpflegungszuschläge gewährt:
 
-- a) 8 Franken pro Tag und maximal 176 Franken pro Monat bei jungen Erwachsenen zwischen dem 16. und dem vollendeten 25. Lebensjahr;
-- b) 10 Franken pro Tag und maximal 220 Franken pro Monat bei den übrigen Erwachsenen.
+- a) …
+- b) 10 Franken pro Tag und maximal 220 Franken pro Monat.
 
 <sup>2</sup> Die Kosten für den Transport mit dem öffentlichen Verkehr werden übernommen, wenn es für die Wahrnehmung wesentlicher Termine erforderlich ist, insbesondere bei:
 
