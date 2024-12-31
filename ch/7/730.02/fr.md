@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20240101/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2024)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1063,7 +1063,7 @@ Annexe 1.22[^t-20]
 
 - 4\.1 À l’exception des emblèmes de l’UE et du code QR, l’indication des caractéristiques énergétiques et le marquage doivent être conformes aux annexes I à IV et VI du règlement délégué (UE) 2019/2015. Si des emblèmes de l’UE et des codes QR ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
 - 4\.2 Les prescriptions relatives aux informations devant être mentionnées dans les publicités visuelles, le matériel promotionnel technique utilisé dans la vente à distance et le télémarketing doivent être conformes à l’annexe VII du règlement délégué (UE) 2019/2015.
-- 4\.2 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2015.
+- 4\.3 Les informations à fournir en cas de vente sur Internet doivent être conformes à l’annexe VIII du règlement délégué (UE) 2019/2015.
 
 ### 5 Dispositions transitoires
 
@@ -1309,7 +1309,7 @@ Annexe 2.7[^t-25]
 
 - 2\.1 Les moteurs visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’art. 4 et à l’annexe I, ch. 1, let. a, du règlement (UE) 2019/1781.
 - 2\.2 Les convertisseurs de fréquence visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’art. 4 et à l’annexe I, ch. 3 du règlement (UE) 2019/1781.
-- 2\.2 À compter du 1<sup>er</sup> juillet 2023, les moteurs doivent en sus satisfaire aux exigences fixées à l’annexe I, ch. 1, let. b, du règlement (UE) 2019/1781.
+- 2\.3 À compter du 1<sup>er</sup> juillet 2023, les moteurs doivent en sus satisfaire aux exigences fixées à l’annexe I, ch. 1, let. b, du règlement (UE) 2019/1781.
 
 ### 3 Procédure d’évaluation de la conformité
 
@@ -1654,7 +1654,7 @@ Annexe 3.2[^t-34]
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1691,7 +1691,7 @@ Annexe 3.2[^t-34]
 - 3\.4 Pour la vente sur Internet, l’étiquette-énergie peut être affichée sous forme imbriquée, auquel cas l’image utilisée pour accéder à l’étiquette-énergie doit être conforme aux spécifications énoncées au ch. 3.5. Elle doit s’afficher en intégralité au premier clic ou au passage de la souris sur l’image du produit.
 - 3\.5 L’image utilisée pour accéder à l’étiquette-énergie en cas d’affichage imbriqué pour la vente sur Internet doit être une flèche de la couleur correspondant à la classe d’efficacité énergétique du produit telle qu’elle figure sur l’étiquette-énergie. La flèche doit indiquer la classe d’efficacité énergétique du produit, en blanc, dans une taille de caractères équivalente à celle du prix, et se présenter dans un des deux formats suivants:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image2.png)
 
 Annexe 4.1[^t-35]
 
@@ -1699,7 +1699,7 @@ Annexe 4.1[^t-35]
 
 ## Indication sur la consommation d’énergie et sur d’autres caractéristiques des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
 
-[^t-35]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-35]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
 
 ### 1 Dispositions relatives à la consommation d’énergie
 
@@ -1720,10 +1720,10 @@ Annexe 4.1[^t-35]
 - 3\.1 Les voitures de tourisme sont classées dans les catégories d’efficacité énergétiques A à G, en fonction de leur consommation d’énergie absolue.
 - 3\.2 Est considéré comme consommation d’énergie absolue l’équivalent essence d’énergie primaire, arrondi à la deuxième décimale.
 - 3\.3 Limites entre les catégories
-- 3\.3.1 La limite entre les catégories B et C est définie sur la base de l’équivalent essence d’énergie primaire correspondant à la valeur cible fixée à l’art. 17*b*, al. 2, let. a, de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^annex41-lvlu1-lvl3-1].
+- 3\.3.1 La limite entre les catégories B et C est définie sur la base de l’équivalent essence d’énergie primaire correspondant à la valeur cible fixée à l’art. 10, al. 1, let. a, de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^annex41-lvlu1-lvl3-1].
 - 3\.3.2 Les limites restantes entre les catégories sont définies de manière à ce que l’écart entre une limite de catégorie et la limite de catégorie qui la précède ou la suit représente 20 % de l’équivalent essence d’énergie primaire correspondant à la valeur cible.
 
-[^annex41-lvlu1-lvl3-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^annex41-lvlu1-lvl3-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### 4 Marquage dans les points de vente et les expositions
 
@@ -1749,7 +1749,7 @@ Annexe 4.1[^t-35]
   - f. le type d’agent énergétique utilisé;
   - g. la consommation d’énergie selon le ch. 1.1;
   - h. les émissions de CO<sub>2</sub> selon le ch. 2.1 ou le ch. 2.2;
-  - i. la valeur cible des émissions de CO<sub>2</sub> fixée à l’art. 17*f*, al. 2, let. a, de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^annex41-lvlu1-lvl4-2];
+  - i. la valeur cible des émissions de CO<sub>2</sub> fixée à l’art. 10, al. 1, let. a, de la loi sur le CO<sub>2</sub>;
   - j. la catégorie d’efficacité énergétique avec représentation de l’échelle globale;
   - k. le QR code avec un lien vers l’adresse Internet [www.catalogueconsommation.ch](https://www.catalogueconsommation.ch/).
 
@@ -1764,7 +1764,6 @@ Annexe 4.1[^t-35]
   - d. l’étiquette-énergie doit pouvoir être consultable directement, quels que soient les paramètres de l’écran.
 
 [^annex41-lvlu1-lvl4-1]: Règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n<sup>o</sup> 715/2007 et (CE) n<sup>o</sup> 595/2009 et abrogeant la directive 2007/46/CE, JO L 151 du 14.6.2018, p. 1; modifié par le règlement délégué (UE) 2021/1445 de la Commission du 23 juin 2021, JO L 313 du 6.9.2021, p. 4 à 8.
-[^annex41-lvlu1-lvl4-2]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
 ### 5 Marquage dans la publicité
 
@@ -1780,7 +1779,7 @@ Annexe 4.1[^t-35]
 
 ### 7 Marquage dans des listes de prix et outils de configuration en ligne
 
-- 7\.1 Quiconque met à disposition des listes de prix ou un outil de configuration en ligne pour des voitures de tourisme neuves, des voitures de livraison neuves ou des tracteurs à sellette légers neufs doit marquer les différents véhicules qui y figurent en indiquant la consommation d’énergie visée aux ch. 1.1 et 1.2 et les émissions de CO<sub>2</sub> visées au ch. 2. Pour les voitures de tourisme, il convient également d’indiquer la catégorie d’efficacité énergétique, la valeur cible des émissions de CO<sub>2</sub> fixée à l’art. 17*f,* al. 2, let. a, de l’ordonnance sur le CO<sub>2</sub> et la moyenne des émissions de CO<sub>2</sub> visée à l’art. 12, al. 1, let. b.
+- 7\.1 Quiconque met à disposition des listes de prix ou un outil de configuration en ligne pour des voitures de tourisme neuves, des voitures de livraison neuves ou des tracteurs à sellette légers neufs doit marquer les différents véhicules qui y figurent en indiquant la consommation d’énergie visée aux ch. 1.1 et 1.2 et les émissions de CO<sub>2</sub> visées au ch. 2. Pour les voitures de tourisme, la catégorie d’efficacité énergétique, la valeur cible des émissions de CO<sub>2</sub> fixée à l’art. 10, al. 1, let. a, de la loi sur le CO<sub>2</sub> et la moyenne des émissions de CO<sub>2</sub> visée à l’art. 12, al. 1, let. b, doivent en outre être indiquées.
 - 7\.2 Les indications doivent être bien lisibles et la taille de la police utilisée doit être au moins aussi grande que celle utilisée pour les éventuelles informations techniques et données relatives à l’équipement.
 - 7\.3 Si des prix ou d’autres indications s’appliquent à des versions différentes d’un modèle de véhicule, les indications peuvent être données sous forme de fourchette pour toutes les versions.
 - 7\.4 Pour les outils de configuration en ligne, il convient en outre d’indiquer la catégorie d’efficacité énergétique sous forme de graphique, conformément au ch. 5.3. La taille doit être choisie de façon à ce que l’échelle soit bien visible et lisible au premier coup d’œil. L’ensemble des indications doivent être fournies au plus tard lors de la configuration finale du véhicule.
@@ -1796,11 +1795,11 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image3.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/fr/xml/image/image4.png)
 
 Annexe 4.2[^t-36]
 

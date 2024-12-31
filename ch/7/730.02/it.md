@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 concernente le esigenze per l'efficienza
 short: OEEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20240101/it"
 
 (Ordinanza sull’efficienza energetica, OEEne)
 
-del 1° novembre 2017 (Stato 1° gennaio 2024)
+del 1° novembre 2017 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 [^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
 [^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -51,8 +51,8 @@ Nella presente ordinanza si intende per:
 - b.[^2-1] *cessione:* l’ulteriore trasferimento a titolo professionale sul mercato svizzero di impianti, veicoli o apparecchi prodotti in serie; è equiparata alla cessione l’ulteriore messa in offerta di tali impianti, veicoli o apparecchi in vista del loro trasferimento a titolo professionale sul mercato;
 - c.[^2-2] offerta: ogni attività destinata alla commercializzazione o alla cessione di impianti, veicoli o apparecchi prodotti in serie, come l’esposizione in locali commerciali o eventi, la raffigurazione in prospetti pubblicitari, cataloghi, media elettronici o in altro modo.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)).
-[^2-2]: Introdotta dal n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)).
+[^2-2]: Introdotta dalla cifra I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ## Capitolo 2: Esigenze per la commercializzazione e la cessione
 
@@ -76,7 +76,7 @@ Gli impianti e gli apparecchi prodotti in serie elencati negli allegati 1.1–3.
 
 <sup>2</sup> Le esigenze minime valgono anche per gli impianti e gli apparecchi che sono acquistati per uso proprio professionale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 #### Art. 5
 
@@ -86,7 +86,7 @@ Gli impianti e gli apparecchi prodotti in serie elencati negli allegati 1.1–3.
 
 <sup>2</sup> La procedura di valutazione della conformità deve essere eseguita secondo una delle procedure previste nell’articolo 8 numero 2 della direttiva 2009/125/CE[^5-2].
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 [^5-2]: Direttiva 2009/125/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativa all’istituzione di un quadro per l’elaborazione di specifiche per la progettazione ecocompatibile dei prodotti connessi all’energia, GU L 285 del 31.10.2009, pag. 10; modificata dalla direttiva 2012/27/UE, GU L 315 del 14.11.2012, pag. 1.
 
 #### Art. 6
@@ -108,7 +108,7 @@ Chi commercializza o cede impianti e apparecchi di cui al capoverso 1 deve provv
 
 [^6-1]: L’all. 1.21 entra in vigore il 1° mar. 2021, l’all. 1.22 il 1° set. 2021 (RU **2020** 1438 1441).
 [^6-2]: L’all. 3.1 è abrogato il 1° set. 2021.
-[^6-3]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 #### Art. 7
 
@@ -168,7 +168,7 @@ Gli organismi di omologazione e di valutazione della conformità che allestiscon
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 
 #### Art. 10
 
@@ -178,7 +178,7 @@ Gli organismi di omologazione e di valutazione della conformità che allestiscon
 
 <sup>2</sup> Chi commercializza o cede un’automobile, un autofurgone o un trattore a sella leggero prodotti in serie che ha percorso più di 2000 chilometri e vi appone delle indicazioni secondo l’allegato 4.1, deve impiegare le indicazioni valide al momento dell’etichettatura.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 [^10-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 11
@@ -194,7 +194,7 @@ Gli organismi di omologazione e di valutazione della conformità che allestiscon
 <sup>4</sup> L’UFE mette a disposizione su Internet le informazioni provenienti dalle banche dati e dagli elenchi di cui al capoverso 3 e le aggiorna periodicamente.
 
 [^11-1]: Direttiva 1999/94/CE del Parlamento europeo e del Consiglio, del 13 dicembre 1999, relativa alla disponibilità di informazioni sul risparmio di carburante e sulle emissioni di CO<sub>2</sub> da fornire ai consumatori per quanto riguarda la commercializzazione di autovetture nuove, GU L 12 del 18.1.2000, pag. 16; modificata da ultimo dal regolamento (CE) n. 1137/2008, GU L 311 del 21.11.2008, pag. 1.
-[^11-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 
 #### Art. 12
 
@@ -213,12 +213,12 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 <sup>3</sup> Si considerano automobili immatricolate per la prima volta le automobili per le quali occorre indicare il consumo di energia (art. 97 cpv. 4 OETV[^12-5]) e che sono state immatricolate per la prima volta in Svizzera entro l’anno che precede il 31 maggio dell’anno precedente.[^12-6]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
-[^12-4]: Abrogata dal n. I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12-4]: Abrogata dalla cifra I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 [^12-5]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^12-6]: Introdotto dal n. I dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^12-6]: Introdotto dalla cifra I dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 #### Art. 12a
 
@@ -228,7 +228,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 <sup>2</sup> La quota biogena riconosciuta è pari al 20 per cento.
 
-[^12a-1]: Introdotto dal n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 
 #### Art. 13
 
@@ -236,9 +236,9 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 Chi importa, commercializza o cede in Svizzera pneumatici di classe C1, C2 o C3 secondo il regolamento (UE) 2020/740[^13-2] deve soddisfare le esigenze definite nell’allegato 4.2.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 [^13-2]: Regolamento (UE) 2020/740 del Parlamento europeo e del Consiglio, del 25 maggio 2020, sull’etichettatura dei pneumatici in relazione al consumo di carburante e ad altri parametri, che modifica il regolamento (UE) 2017/1369 e che abroga il regolamento (CE) n. 1222/2009, versione secondo GU L 177 del 5.6.2020, pag. 1, modificata con rettifica GU L 382 del 28.10.2021, pag. 52.
-[^13-3]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ## Capitolo 3: Esecuzione
 
@@ -266,15 +266,15 @@ Se dal controllo risulta la violazione di prescrizioni della presente ordinanza,
 
 <sup>4</sup> Se dal controllo risulta che gli impianti o gli apparecchi non soddisfano le esigenze della presente ordinanza, i costi insorti nell’ambito del controllo sono a carico della persona che ha commercializzato o ceduto tali impianti o apparecchi.[^14-3]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
-[^14-2]: Introdotta dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
-[^14-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^14-2]: Introdotta dalla cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-3]: Introdotto dalla cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del 4 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^15-1]: Abrogato dalla cifra I dell’O del 4 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Capitolo 4: Disposizioni penali
 
@@ -287,7 +287,7 @@ Se dal controllo risulta la violazione di prescrizioni della presente ordinanza,
 - a. l’etichettatura disciplinata nella presente ordinanza e nei rispettivi allegati;
 - b. eventuali etichette di cui all’articolo 44 capoverso 3 LEne.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ## Capitolo 5: Disposizioni finali
 
@@ -305,7 +305,7 @@ La modifica di altri atti normativi è disciplinata nell’allegato 5.
 
 <sup>2</sup> Le disposizioni di cui all’articolo 12 capoverso 1 saranno rese note nel 2019 entro il 30 novembre ed entreranno in vigore il 1° gennaio 2020.
 
-[^17a-1]: Introdotto dal n. I dell’O del 27 giu. 2018 ([RU 2018 2671](https://fedlex.data.admin.ch/eli/oc/2018/388)). Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^17a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2018 ([RU 2018 2671](https://fedlex.data.admin.ch/eli/oc/2018/388)). Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
 [^17a-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 18
@@ -320,7 +320,7 @@ Allegato 1.1[^t-1]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di frigoriferi con raccordo alla rete
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
 
 ### 1 Campo d’applicazione
 
@@ -361,7 +361,7 @@ Allegato 1.2[^t-2]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di lavatrici per uso domestico e asciugabiancheria per uso domestico con raccordo alla rete
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dalla cifra II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Campo d’applicazione
 
@@ -399,7 +399,7 @@ Allegato 1.3[^t-3]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione delle asciugabiancheria domestiche con raccordo alla rete
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
 
 ### 1 Campo d’applicazione
 
@@ -434,7 +434,7 @@ Allegato 1.3[^t-3]
 
 Allegato 1.4[^t-4]
 
-[^t-4]: Abrogato dal n. II cpv. 4 dell’O del 22 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-4]: Abrogato dalla cifra II cpv. 4 dell’O del 22 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 Allegato 1.5[^t-5]
 
@@ -442,7 +442,7 @@ Allegato 1.5[^t-5]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione delle lavastoviglie per uso domestico con raccordo alla rete
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dalla cifra II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Campo d’applicazione
 
@@ -479,7 +479,7 @@ Allegato 1.6[^t-6]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione dei forni elettrici con raccordo alla rete
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -519,7 +519,7 @@ Allegato 1.7[^t-7]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di cappe da cucina per uso domestico con raccordo alla rete
 
-[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-7]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -559,7 +559,7 @@ Allegato 1.8[^t-8]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione degli aspirapolvere con raccordo alla rete
 
-[^t-8]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-8]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -584,7 +584,7 @@ Allegato 1.8[^t-8]
 
 Allegati 1.9 a 1.11 [^t-9]
 
-[^t-9]: Abrogati dal n. II cpv. 4 dell’O del 22 apr. 2020, con effetto dal 1°set. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-9]: Abrogati dalla cifra II cpv. 4 dell’O del 22 apr. 2020, con effetto dal 1°set. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 Allegato 1.12[^t-10]
 
@@ -592,7 +592,7 @@ Allegato 1.12[^t-10]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di display elettronici
 
-[^t-10]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-10]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dalla cifra II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Campo d’applicazione
 
@@ -630,7 +630,7 @@ Allegato 1.13[^t-11]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione dei condizionatori d’aria e dei ventilatori con raccordo alla rete
 
-[^t-11]: Aggiornato dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-11]: Aggiornato dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
 
 ### 1 Campo d’applicazione
 
@@ -671,7 +671,7 @@ Allegato 1.14[^t-12]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione degli armadi refrigerati professionali, degli abbattitori, delle unità di condensazione e dei chiller di processo con raccordo alla rete
 
-[^t-12]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-12]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -729,7 +729,7 @@ Allegato 1.15[^t-13]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di scaldacqua e serbatoi per l’accumulo dell’acqua calda
 
-[^t-13]: Aggiornato dal n. II cpv. 1 delle O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-13]: Aggiornato dalla cifra II cpv. 1 delle O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Campo d’applicazione
 
@@ -778,7 +778,7 @@ Allegato 1.16[^t-14]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione degli apparecchi per il riscaldamento d’ambiente e degli apparecchi di riscaldamento misti
 
-[^t-14]: Aggiornato dal n. II cpv. 1 delle O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) e del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-14]: Aggiornato dalla cifra II cpv. 1 delle O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) e del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Campo d’applicazione
 
@@ -825,7 +825,7 @@ Allegato 1.17[^t-15]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di unità di ventilazione
 
-[^t-15]: Aggiornato dal n. II cpv. 1 delle O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) e del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-15]: Aggiornato dalla cifra II cpv. 1 delle O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) e del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -862,7 +862,7 @@ Allegato 1.18[^t-16]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di apparecchi per il riscaldamento d’ambiente locale
 
-[^t-16]: Introdotto dal n. II cpv. 2 dell’O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Aggiornato dal n. II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-16]: Introdotto dalla cifra II cpv. 2 dell’O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Aggiornato dalla cifra II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Campo d’applicazione
 
@@ -905,7 +905,7 @@ Allegato 1.19[^t-17]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di apparecchi per il riscaldamento d’ambiente locale a combustibile solido
 
-[^t-17]: Introdotto dal n. II cpv. 2 dell’O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-17]: Introdotto dalla cifra II cpv. 2 dell’O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -949,7 +949,7 @@ Allegato 1.20[^t-18]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di caldaie a combustibile solido
 
-[^t-18]: Introdotto dal n. II cpv. 2 dell’O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-18]: Introdotto dalla cifra II cpv. 2 dell’O dell’11 apr. 2018 ([RU 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -993,7 +993,7 @@ Allegato 1.21[^t-19]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di apparecchi di refrigerazione con funzione di vendita diretta con raccordo alla rete
 
-[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-19]: Introdotto dalla cifra II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
 
 ### 1 Campo d’applicazione
 
@@ -1036,7 +1036,7 @@ Allegato 1.22[^t-20]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di sorgenti luminose e unità di alimentazione separate
 
-[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
+[^t-20]: Introdotto dalla cifra II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 763](https://fedlex.data.admin.ch/eli/oc/2023/763)).
 
 ### 1 Campo d’applicazione
 
@@ -1074,7 +1074,7 @@ Allegato 2.1[^t-21]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione delle apparecchiature elettriche ed elettroniche domestiche e da ufficio con raccordo alla rete nei modi stand-by e spento
 
-[^t-21]: Aggiornato dal n. II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) e del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-21]: Aggiornato dalla cifra II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) e del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1122,7 +1122,7 @@ Allegato 2.2[^t-22]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di alimentatori esterni con raccordo alla rete
 
-[^t-22]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-22]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1155,7 +1155,7 @@ Allegato 2.3[^t-23]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di computer
 
-[^t-23]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1225,7 +1225,7 @@ Allegato 2.5[^t-24]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione dei piani cottura per uso domestico con raccordo alla rete
 
-[^t-24]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-24]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1294,7 +1294,7 @@ Allegato 2.7[^t-25]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di motori e convertitori di frequenza
 
-[^t-25]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dal n. II cpv. 1 dell’O del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-25]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) e dalla cifra II cpv. 1 dell’O del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1330,7 +1330,7 @@ Allegato 2.8[^t-26]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di circolatori senza premistoppa con raccordo alla rete
 
-[^t-26]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-26]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1398,7 +1398,7 @@ Allegato 2.10[^t-27]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di trasformatori di potenza
 
-[^t-27]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-27]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1442,7 +1442,7 @@ Allegato 2.11[^t-28]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di prodotti di riscaldamento dell’aria, prodotti di raffrescamento, chiller di processo ad alta temperatura e ventilconvettori
 
-[^t-28]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-28]: Introdotto dalla cifra II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1475,7 +1475,7 @@ Allegato 2.12[^t-29]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di server e prodotti di archiviazione dati
 
-[^t-29]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
+[^t-29]: Introdotto dalla cifra II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dalla cifra II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -1512,7 +1512,7 @@ Allegato 2.13[^t-30]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di apparecchiature di saldatura
 
-[^t-30]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-30]: Introdotto dalla cifra II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1547,7 +1547,7 @@ Allegato 2.14[^t-31]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di piani cottura, forni aperti per gratinare o mantenere calde le vivande con forte calore superiore (salamandre) e friggitrici professionali con raccordo alla rete
 
-[^t-31]: Introdotto dal n. II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-31]: Introdotto dalla cifra II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Campo d’applicazione
 
@@ -1580,7 +1580,7 @@ Allegato 2.15[^t-32]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di lavastoviglie professionali con raccordo alla rete
 
-[^t-32]: Introdotto dal n. II cpv. 2 dell’O del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-32]: Introdotto dalla cifra II cpv. 2 dell’O del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1627,7 +1627,7 @@ Allegato 2.15[^t-32]
 
 Allegato 3.1[^t-33]
 
-[^t-33]: Abrogato dal n. II cpv. 4 dell’O del 22 apr. 2020, con effetto dal 1°set. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-33]: Abrogato dalla cifra II cpv. 4 dell’O del 22 apr. 2020, con effetto dal 1°set. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 Allegato 3.2[^t-34]
 
@@ -1635,7 +1635,7 @@ Allegato 3.2[^t-34]
 
 ## Indicazione del consumo di energia e di altre caratteristiche delle macchine da caffè per uso domestico con raccordo alla rete
 
-[^t-34]: Aggiornato dal n. II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-34]: Aggiornato dalla cifra II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e del 24 mag. 2022, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1653,7 +1653,7 @@ Allegato 3.2[^t-34]
 
 - 3\.1 L’etichettaEnergia deve essere larga 60 mm e alta 120 mm almeno. Se l’etichettaEnergia è stampata in formato più grande, devono rimanere invariate le proporzioni delle suddette specifiche. Le proporzioni degli elementi grafici devono rimanere invariate. Lo sfondo è bianco.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/it/xml/image/image1.png)
 
 - A) Tratto del bordo: 3 pt – angoli arrotondati 2 mm – X-00-00-00
 - B) Logo CH: larghezza 8 mm, altezza 8 mm – angoli arrotondati: 2 mm – 00-X-X-00
@@ -1691,9 +1691,7 @@ Allegato 3.2[^t-34]
 
 - 3\.5 In caso di visualizzazione annidata l’immagine utilizzata per accedere all’etichettaEnergia è costituita da una freccia nel colore corrispondente alla classe di efficienza energetica del prodotto sull’etichettaEnergia. La freccia riporta la classe di efficienza energetica del prodotto in bianco in caratteri di dimensione equivalente a quella del prezzo e si presenta in uno dei seguenti due formati:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/it/xml/image/image2.png)
-
-- [tab]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/it/xml/image/image2.png)
 
 Allegato 4.1[^t-35]
 
@@ -1701,7 +1699,7 @@ Allegato 4.1[^t-35]
 
 ## Indicazione del consumo di energia e di altre caratteristiche di automobili, autofurgoni e trattori a sella leggeri
 
-[^t-35]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aggiornato dal n. III dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dal n. II dell’O del 3 giu. 2022 ([RU 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-35]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aggiornato dalla cifra III dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla cifra II dell’O del 3 giu. 2022 ([RU 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) e dall’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
 
 ### 1 Disposizioni sul consumo di energia
 
@@ -1722,10 +1720,10 @@ Allegato 4.1[^t-35]
 - 3\.1 Le automobili sono classificate nelle categorie di efficienza energetica A–G sulla base del loro consumo di energia assoluto.
 - 3\.2 È considerato consumo di energia assoluto l’equivalente benzina per l’energia primaria arrotondato alla seconda posizione decimale.
 - 3\.3 Limiti delle categorie
-- 3\.3.1 Il limite tra le categorie B e C è stabilito sulla base dell’equivalente benzina per l’energia primaria (EB-EP) che corrisponde all’obiettivo di cui all’articolo 17*b* capoverso 2 lettera a dell’ordinanza del 30 novembre 2012[^annex41-lvlu1-lvl3-1] sul CO<sub>2</sub>.
+- 3\.3.1 Il limite tra le categorie B e C è stabilito sulla base dell’equivalente benzina per l’energia primaria (EB-EP) che corrisponde all’obiettivo di cui all’articolo 10 capoverso 1 lettera a della legge del 23 dicembre 2011[^annex41-lvlu1-lvl3-1] sul CO2.
 - 3\.3.2 I restanti limiti delle categorie sono stabiliti in modo che la differenza tra il limite di una categoria e il successivo limite di categoria superiore o inferiore sia pari di volta in volta al 20 per cento dell’EB-EP corrispondente all’obiettivo
 
-[^annex41-lvlu1-lvl3-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^annex41-lvlu1-lvl3-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### 4 Etichettatura nei punti vendita e alle esposizioni
 
@@ -1751,7 +1749,7 @@ Allegato 4.1[^t-35]
   - f. tipo di vettore energetico necessario;
   - g. consumo di energia secondo il numero 1.1;
   - h. emissioni di CO<sub>2</sub> secondo il numero 2.1 o 2.2;
-  - i. il valore target delle emissioni di CO<sub>2</sub> ai sensi dell’articolo 17*f* capoverso 2 lettera a dell’ordinanza del 30 novembre 2012[^annex41-lvlu1-lvl4-2] sul CO<sub>2</sub>;
+  - i. il valore target delle emissioni di CO<sub>2</sub> ai sensi dell’articolo 10 capoverso 1 lettera a della legge sul CO<sub>2</sub>;
   - j. categoria di efficienza energetica con rappresentazione dell’intera scala;
   - k. codice QR con link all’indirizzo Internet www.catalogodeiconsumi.ch.
 
@@ -1766,7 +1764,6 @@ Allegato 4.1[^t-35]
   - d. l’etichettaEnergia deve poter essere consultata direttamente indipendentemente dall’impostazione dello schermo.
 
 [^annex41-lvlu1-lvl4-1]: Regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2021/1445 della Commissione, del 23 giugno 2021, GU L 313 del 6.9.2021, pag. 4–8.
-[^annex41-lvlu1-lvl4-2]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
 ### 5 Etichettatura nella pubblicità
 
@@ -1782,7 +1779,7 @@ Allegato 4.1[^t-35]
 
 ### 7 Etichettatura nei listini prezzi e nei configuratori online
 
-- 7\.1 Chi per nuove automobili, autofurgoni o trattori a sella leggeri mette a disposizione listini prezzi o un configuratore online deve specificare al loro interno, per ogni singolo veicolo, i valori di consumo energetico ai sensi dei numeri 1.1 e 1.2 e delle emissioni di CO<sub>2</sub> ai sensi del numero 2. Nel caso delle automobili vanno altresì indicati la classe di efficienza energetica, il valore target delle emissioni di CO<sub>2</sub> di cui all’articolo 17*f* capoverso 2 lettera a dell’ordinanza sul CO<sub>2</sub> e la media delle emissioni di CO<sub>2</sub> ai sensi dell’articolo 12 capoverso 1 lettera b.
+- 7\.1 Chi per nuove automobili, autofurgoni o trattori a sella leggeri mette a disposizione listini prezzi o un configuratore online deve specificare al loro interno, per ogni singolo veicolo, i valori di consumo energetico ai sensi dei numeri 1.1 e 1.2 e delle emissioni di CO<sub>2</sub> ai sensi del numero 2. Nel caso delle automobili vanno altresì indicati la classe di efficienza energetica, il valore target delle emissioni di CO<sub>2</sub> di cui all’articolo 10 capoverso 1 lettera a della legge sul CO<sub>2</sub> e la media delle emissioni di CO<sub>2</sub> ai sensi dell’articolo 12 capoverso 1 lettera b.
 - 7\.2 Le indicazioni devono essere riportate in modo ben leggibile e avere perlomeno una grandezza di carattere equivalente a quella di eventuali informazioni tecniche e indicazioni relative all’equipaggiamento.
 - 7\.3 Se i prezzi o altre indicazioni valgono per versioni diverse di un veicolo, le indicazioni possono essere fornite sotto forma di fascia di variazione per tutte le versioni.
 - 7\.4 Per i configuratori online la categoria di efficienza energetica deve inoltre essere rappresentata in un grafico secondo il numero 5.3. La grandezza deve essere scelta in modo tale che la scala sia ben visibile e leggibile anche in caso di rapida occhiata. Tutti i dati devono essere disponibili al più tardi al completamento della configurazione del veicolo.
@@ -1798,11 +1795,11 @@ Per l’anno 2020 si considerano tipi di veicolo attuali ai sensi del numero 3.3
 
 ### 10 Esempio della rappresentazione grafica dell’etichettaEnergia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/it/xml/image/image3.png)
 
 ### 11 Esempio della rappresentazione grafica della scala relativa alle categorie di efficienza energetica
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/it/xml/image/image4.png)
 
 Allegato 4.2[^t-36]
 
@@ -1810,7 +1807,7 @@ Allegato 4.2[^t-36]
 
 ## Indicazione della classe di efficienza del carburante e di altre caratteristiche degli pneumatici
 
-[^t-36]: Nuovo testo giusta il n. Il cpv. 2 dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-36]: Nuovo testo giusta la cifra Il cpv. 2 dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Campo d’applicazione
 

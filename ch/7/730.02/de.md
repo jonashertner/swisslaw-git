@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20240101/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Januar 2024)
+vom 1. November 2017 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1675,7 +1675,7 @@ Anhang 3.2[^t-34]
 
 - 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/de/xml/image/image1.png)
 
 - A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
 - B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
@@ -1712,9 +1712,7 @@ Anhang 3.2[^t-34]
 - 3\.4 Die Energieetikette kann beim Internetverkauf mit Hilfe einer geschachtelten Anzeige dargestellt werden, wobei das für den Zugang zur Energieetikette verwendete Bild den Vorgaben in Ziffer 3.5 entsprechen muss. Mit dem ersten Mausklick respektive beim Rollover über das Bild muss die ganze Energieetikette erscheinen.
 - 3\.5 Das für den Zugang zur Energieetikette genutzte Bild muss bei der geschachtelten Anzeige beim Internetverkauf ein Pfeil in der Farbe der Energieeffizienzklasse des Produkts auf der Energieetikette sein. Der Pfeil muss die Energieeffizienzklasse des Produkts in Weiss in einer Schriftgrösse, die der des Preises entspricht, enthalten und einem der folgenden zwei Formate entsprechen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/de/xml/image/image2.png)
-
-- [tab]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/de/xml/image/image2.png)
 
 Anhang 4.1[^t-35]
 
@@ -1722,7 +1720,7 @@ Anhang 4.1[^t-35]
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
-[^t-35]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-35]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) und Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
 
 ### 1 Bestimmungen zum Energieverbrauch
 
@@ -1743,10 +1741,10 @@ Anhang 4.1[^t-35]
 - 3\.1 Die Personenwagen werden entsprechend ihrem absoluten Energieverbrauch in die Energieeffizienz-Kategorien A–G eingeteilt.
 - 3\.2 Als absoluter Energieverbrauch gilt das auf die zweite Stelle nach dem Komma gerundete Primärenergie-Benzinäquivalent.
 - 3\.3 Kategoriengrenzen
-- 3\.3.1 Die Grenze zwischen den Kategorien B und C wird gestützt auf das Primärenergie-Benzinäquivalent (PE-BÄ) festgesetzt, das dem Zielwert gemäss Artikel 17*b* Absatz 2 Buchstabe a der CO<sub>2</sub>-Verordnung vom 30. November 2012[^annex41-lvlu1-lvl3-1] entspricht.
+- 3\.3.1 Die Grenze zwischen den Kategorien B und C wird gestützt auf das Primärenergie-Benzinäquivalent (PE-BÄ) festgesetzt, das dem Zielwert gemäss Artikel 10 Absatz 1 Buchstabe a des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^annex41-lvlu1-lvl3-1] entspricht.
 - 3\.3.2 Die übrigen Kategoriengrenzen werden so festgesetzt, dass der Unterschied von einer Kategoriengrenze zur nächsthöheren oder nächsttieferen Kategoriengrenze jeweils 20 Prozent des dem Zielwert entsprechenden PE-BÄ beträgt.
 
-[^annex41-lvlu1-lvl3-1]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^annex41-lvlu1-lvl3-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### 4 Kennzeichnung in Verkaufsstellen und an Ausstellungen
 
@@ -1772,7 +1770,7 @@ Anhang 4.1[^t-35]
   - f. Art des benötigten Energieträgers;
   - g. Energieverbrauch nach Ziffer 1.1;
   - h. CO<sub>2</sub>-Emissionen nach Ziffer 2.1 oder 2.2;
-  - i. den Zielwert der CO<sub>2</sub>-Emissionen gemäss Artikel 17*f* Absatz 2 Buchstabe a der CO<sub>2</sub>-Verordnung vom 30. November 2012[^annex41-lvlu1-lvl4-2];
+  - i. den Zielwert der CO<sub>2</sub>-Emissionen gemäss Artikel 10 Absatz 1 Buchstabe a des CO<sub>2</sub>-Gesetzes;
   - j. Energieeffizienz-Kategorie mit Abbildung der gesamten Skala;
   - k. QR-Code mit Verlinkung auf die Internetadresse: www.verbrauchskatalog.ch.
 
@@ -1787,7 +1785,6 @@ Anhang 4.1[^t-35]
   - d. Die Energieetikette muss von jeder Einstellung auf dem Bildschirm direkt aufrufbar sein.
 
 [^annex41-lvlu1-lvl4-1]: Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch die Delegierte Verordnung (EU) 2021/1445 der Kommission vom 23. Juni 2021, ABl. L 313 vom 6.9.2021, S. 4–8.
-[^annex41-lvlu1-lvl4-2]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
 ### 5 Kennzeichnung in der Werbung
 
@@ -1803,7 +1800,7 @@ Anhang 4.1[^t-35]
 
 ### 7 Kennzeichnung in Preislisten und Online-Konfiguratoren
 
-- 7\.1 Wer für neue Personenwagen, Lieferwagen oder leichte Sattelschlepper Preislisten oder einen Online-Konfigurator zur Verfügung stellt, muss darin die einzelnen Fahrzeuge mit den Angaben zum Energieverbrauch gemäss den Ziffern 1.1 und 1.2 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2 kennzeichnen. Bei Personenwagen sind zusätzlich die Energieeffizienz-Kategorie, der Zielwert der CO<sub>2</sub>-Emissionen gemäss Artikel 17*f* Absatz 2 Buchstabe a der CO<sub>2</sub>-Verordnung und der Durchschnitt der CO<sub>2</sub>-Emissionen nach Artikel 12 Absatz 1 Buchstabe b anzugeben.
+- 7\.1 Wer für neue Personenwagen, Lieferwagen oder leichte Sattelschlepper Preislisten oder einen Online-Konfigurator zur Verfügung stellt, muss darin die einzelnen Fahrzeuge mit den Angaben zum Energieverbrauch gemäss den Ziffern 1.1 und 1.2 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2 kennzeichnen. Bei Personenwagen sind zusätzlich die Energieeffizienz-Kategorie, der Zielwert der CO<sub>2</sub>-Emissionen gemäss Artikel 10 Absatz 1 Buchstabe a des CO<sub>2</sub>-Gesetzes und der Durchschnitt der CO<sub>2</sub>-Emissionen nach Artikel 12 Absatz 1 Buchstabe b anzugeben.
 - 7\.2 Die Angaben müssen gut lesbar dargestellt werden und mindestens dieselbe Schriftgrösse aufweisen, wie sie für allfällige technische Informationen und Angaben zur Ausstattung verwendet wird.
 - 7\.3 Gelten Preise oder weitere Angaben für verschiedene Versionen eines Fahrzeugs, so können die Angaben als Bandbreite für sämtliche Versionen angegeben werden.
 - 7\.4 Bei Online-Konfiguratoren ist die Energieeffizienz-Kategorie zusätzlich entsprechend Ziffer 5.3 grafisch darzustellen. Die Grösse ist so zu wählen, dass die Skala auch bei flüchtigem Hinschauen gut sicht- und lesbar ist. Sämtliche Angaben müssen spätestens beim fertig konfigurierten Fahrzeug gemacht werden.
@@ -1819,11 +1816,11 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/de/xml/image/image3.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20240101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250101/de/xml/image/image4.png)
 
 Anhang 4.2[^t-36]
 
@@ -1864,6 +1861,6 @@ Anhang 5
 
 ## Änderung anderer Erlasse
 
-- [tab] …[^annex5-lvlu1-1]
+…[^annex5-lvlu1-1]
 
 [^annex5-lvlu1-1]: Die Änderungen können unter [AS 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)eingesehen werden.
