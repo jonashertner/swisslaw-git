@@ -1,32 +1,25 @@
 ---
 canton: FR
 number: "610.16"
-title: "Arrêté relatif aux modalités de perception des créances de l'Etat"
+title: "Ordonnance sur les modalités de perception des créances de l'Etat"
 language: fr
-version: 2003-01-01
-valid_until: 2024-12-31
-version_adopted: 2003-02-04
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 2024-11-05
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/610.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5280/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8645/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Arrêté relatif aux modalités de perception des créances de l'Etat
+# Ordonnance sur les modalités de perception des créances de l'Etat
 
-Modalités de perception des créances de l'Etat – A
+Modalités de perception des créances de l'Etat – O
 
-du 04.03.1998 (version entrée en vigueur le 01.01.2003)
+du 05.11.2024 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
-
-Considérant:
-
-Les études entreprises à l'occasion de l'établissement du «Schéma directeur des flux financiers de l'Etat de Fribourg» ont mis en évidence la multiplicité et la diversité des procédures de facturation et d'encaissement des créances de l'Etat.
-
-La nécessité est apparue de combler l'absence de règles précises et de les uniformiser autant que faire se peut, afin de permettre l'informatisation des processus devant déboucher sur une rationalisation des activités et la mise en place d'un système de gestion plus efficace, sans pour autant remettre en question l'actuelle répartition des tâches en la matière.
 
 Sur la proposition de la Direction des finances,
 
@@ -36,7 +29,7 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Le présent arrêté fixe les modalités d'encaissement des factures établies par les Directions, les services ainsi que les établissements de l'Etat dotés ou non de la personnalité morale.
+<sup>1</sup> La présente ordonnance fixe les modalités d'encaissement des factures établies par les Directions, les services ainsi que les établissements de l'Etat dotés ou non de la personnalité morale.
 
 <sup>2</sup> Sont réservées les dispositions spéciales du droit cantonal en la matière.
 
@@ -54,7 +47,9 @@ Arrête:
 
 <sup>1</sup> Pour les factures non payées dans le délai, des intérêts de retard sont dus dès l'échéance.
 
-<sup>2</sup> Leur taux correspond à celui qui est fixé en application de l'article 149 al. 3 de la loi du 7 juillet 1972 sur les impôts cantonaux.
+<sup>2</sup> Leur taux correspond à celui qui est fixé en application de l'article 207 al. 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^3-1].
+
+[^3-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 4
 
@@ -68,7 +63,7 @@ Arrête:
 
 **Sommation et poursuites**
 
-<sup>1</sup> En cas de non-paiement des factures dans le délai fixé par le rappel, l'autorité de perception notifie une sommation au débiteur.
+<sup>1</sup> En cas de non-paiement des factures dans le délai fixé par le rappel, l'autorité de perception notifie une sommation au débiteur ou à la débitrice.
 
 <sup>2</sup> Le délai de paiement des factures à la suite d'une sommation est de dix jours.
 
@@ -78,28 +73,22 @@ Arrête:
 
 **Frais de perception**
 
-<sup>1</sup> Les frais de perception relatifs au rappel et à la sommation sont mis à la charge du débiteur.
+<sup>1</sup> Les frais de perception sont mis à la charge du débiteur ou de la débitrice selon le tarif suivant:
 
-<sup>2</sup> Il est établi une facture distincte et unique pour les frais de perception et le décompte des intérêts de retard.
+- a) rappel: — Fr. 10
+- b) sommation: — Fr. 25
+- c) introduction d'une réquisition de poursuite: — Fr. 30
+
+<sup>2</sup> Les frais facturés à l'autorité de perception par des tiers, tels que les frais de poursuite et les frais d'inscription de l'hypothèque légale, sont mis à la charge du débiteur ou de la débitrice.
 
 #### Art. 7
 
 **Arrangement de paiement**
 
-<sup>1</sup> Si le paiement, dans le délai prévu, doit avoir pour le débiteur des conséquences particulièrement dures, l'autorité de perception, sur demande écrite motivée, peut prolonger le délai de paiement ou autoriser un paiement échelonné.
+<sup>1</sup> Si le paiement, dans le délai prévu, doit avoir pour le débiteur ou la débitrice des conséquences particulièrement dures, l'autorité de perception, sur demande écrite motivée, peut prolonger le délai de paiement ou autoriser un paiement échelonné.
 
 <sup>2</sup> Les intérêts de retard restent dus.
 
 <sup>3</sup> En cas de non-respect de l'arrangement de paiement convenu, la procédure d'encaissement est engagée ou reprise.
 
-#### Art. 8
-
-**Entrée en vigueur, dispositions transitoires et publication**
-
-<sup>1</sup> Cet arrêté entre en vigueur le 1<sup>er</sup> avril 1998.
-
-<sup>2</sup> L'autorité de perception a un délai d'un an pour mettre en place les modalités d'exécution.
-
-<sup>3</sup> Cet arrêté est publié dans la Feuille officielle, inséré dans le Bulletin des lois et imprimé en livrets.
-
-BL/AGS 1998 f 147 / d 146
+2024\_086
