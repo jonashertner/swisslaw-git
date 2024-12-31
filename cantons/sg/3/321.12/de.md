@@ -4,13 +4,12 @@ number: "321.12"
 title: Verordnung über die Rechtsstellung der Patientinnen und Patienten
 short: PatV
 language: de
-version: 2017-06-01
-valid_until: 2024-12-31
-version_adopted: 2016-12-13
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 2016-12-13
 in_force: 2017-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/321.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2336/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3703/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2336/pdf_file"
 
 (PatV)
 
-vom 13.12.2016 (Stand 01.06.2017)
+vom 13.12.2016 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -40,8 +39,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Dieser Erlass regelt die Rechtsstellung der Patientinnen und Patienten in Einrichtungen:
 
-- a) der Spitalverbunde;
-- b) der Psychiatrieverbunde;
+- a) des Spitalverbundes;
+- b) des Psychiatrieverbundes;
 - c) von privaten Spitälern im Rahmen der Erfüllung von Leistungsaufträgen nach [Art. 10](https://www.gesetzessammlung.sg.ch/data/320.1/de/art10) ff. des Gesetzes über die Spitalplanung und -finanzierung vom 31. Januar 2012[^1-1].
 
 [^1-1]: sGS [320.1](https://www.gesetzessammlung.sg.ch/data/320.1/de).
@@ -298,9 +297,9 @@ als Verordnung:[^ingress-2]
 
 **b) Rekurs**
 
-<sup>1</sup> Verfügungen der Geschäftsleitung eines Spitalverbundes oder eines Psychiatrieverbundes können beim Verwaltungsrat der Einrichtung mit Rekurs angefochten werden.
+<sup>1</sup> Verfügungen der Geschäftsleitung des Spitalverbundes oder des Psychiatrieverbundes können beim Verwaltungsrat der Einrichtung mit Rekurs angefochten werden.
 
-<sup>2</sup> Verfügungen der Geschäftsleitung privater Einrichtungen und Entscheide des Verwaltungsrates der Spitalverbunde oder der Psychiatrieverbunde können mit Rekurs beim Gesundheitsdepartement angefochten werden.
+<sup>2</sup> Verfügungen der Geschäftsleitung privater Einrichtungen und Entscheide des Verwaltungsrates des Spitalverbundes oder des Psychiatrieverbundes können mit Rekurs beim Gesundheitsdepartement angefochten werden.
 
 <sup>3</sup> Das Verfahren richtet sich im Übrigen nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^26-1].
 
