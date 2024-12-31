@@ -4,13 +4,13 @@ number: "761.11"
 title: Vollzugsverordnung zum Gesetz über die Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2023-09-01
-valid_until: 2024-12-31
-version_adopted: 2023-08-22
+version: 2025-01-01
+valid_until: 2025-03-31
+version_adopted: 2025-01-21
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1176/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1176/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 16.12.2014 (Stand 01.09.2023)
+vom 16.12.2014 (Stand 01.01.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -301,7 +301,7 @@ beschliesst:
 
 #### § A1-1
 
-<sup>1</sup> Leistungskürzungen sind gemäss Art. 22 Abs. 2 SHG[^A11-1] bis auf das bundesverfassungsmässige Minimum der Nothilfe zulässig (Abweichung von Kapitel A.8.2 der SKOS-Richtlinien[^A11-2]).
+<sup>1</sup> Leistungskürzungen sind gemäss Art. 22 Abs. 2 SHG[^A11-1] bis auf das bundesverfassungsmässige Minimum der Nothilfe zulässig (Abweichung von Kapitel F.2 der SKOS-Richtlinien[^A11-2]).
 
 [^A11-1]: NG 761.1
 [^A11-2]: [www.skos.ch](https://www.skos.ch)
@@ -310,8 +310,8 @@ beschliesst:
 
 #### § A1-2
 
-<sup>1</sup> Die Richtwerte zu den anrechenbaren Wohnkosten vom 29. Juni 2006[^A12-1] im Handbuch Sozialhilfe (Kapitel B.3) sind verbindlich.
+<sup>1</sup> Die Mietzinsrichtlinien gemäss Kapitel C.4 der "Richtlinien des Kantons Nidwalden zur Bemessung und Ausrichtung von wirtschaftlicher Sozialhilfe" vom 14. November 2024 der kantonalen Sozialkommission[^A12-1] sind verbindlich.
 
-[^A12-1]: Das Handbuch mit den Richtwerten ist bei der Gesundheits- und Sozialdirektion einsehbar.
+[^A12-1]: Die Richtlinien sind bei der Gesundheits- und Sozialdirektion einsehbar.
 
 A 2014, 2355
