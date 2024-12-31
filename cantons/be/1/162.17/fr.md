@@ -4,13 +4,12 @@ number: "162.17"
 title: Règlement sur la délégation de compétences en matière de personnel de la Cour suprême
 short: RDél CS
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-17
+version: 2025-01-01
+version_adopted: 2024-11-29
 adopted: 2015-01-30
 in_force: 2015-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2926/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3124/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2926/pdf_file"
 
 (RDél CS)
 
-du 30.01.2015 (état au 01.01.2024)
+du 30.01.2015 (état au 01.01.2025)
 
 La Cour suprême du canton de Berne,
 
@@ -58,7 +57,7 @@ arrête:
 
 **Attribution des compétences**
 
-<sup>1</sup> Là où la législation sur le personnel attribue une compétence à l'autorité d'engagement, le directoire de la Cour suprême est compétent pour les collaborateurs et les collaboratrices de la Cour suprême. Il peut déléguer les compétences au secrétaire général ou à la secrétaire générale.
+<sup>1</sup> Là où la législation sur le personnel attribue une compétence à l'autorité d'engagement, le directoire de la Cour suprême est compétent pour les collaborateurs et les collaboratrices de la Cour suprême. Il peut déléguer les compétences au secrétaire général ou à la secrétaire générale ainsi qu’à l’inspecteur ou à l’inspectrice des tribunaux, y compris la suppléance.
 
 <sup>2</sup> Les organes dirigeants selon l'article 2, alinéa 2 sont compétents pour leurs collaborateurs et collaboratrices.
 

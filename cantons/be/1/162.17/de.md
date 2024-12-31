@@ -4,13 +4,12 @@ number: "162.17"
 title: Reglement über die Delegation von Personalbefugnissen des Obergerichts
 short: DelR OG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-17
+version: 2025-01-01
+version_adopted: 2024-11-29
 adopted: 2015-01-30
 in_force: 2015-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2926/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2926/pdf_file"
 
 (DelR OG)
 
-vom 30.01.2015 (Stand 01.01.2024)
+vom 30.01.2015 (Stand 01.01.2025)
 
 Das Obergericht des Kantons Bern,
 
@@ -58,7 +57,7 @@ beschliesst:
 
 **Zuweisung der Befugnisse**
 
-<sup>1</sup> Wo die Personalgesetzgebung eine Befugnis der Anstellungsbehörde zuweist, ist die Geschäftsleitung des Obergerichts für die Mitarbeiterinnen und Mitarbeiter des Obergerichts zuständig. Sie kann die Befugnisse der Generalsekretärin oder dem Generalsekretär delegieren.
+<sup>1</sup> Wo die Personalgesetzgebung eine Befugnis der Anstellungsbehörde zuweist, ist die Geschäftsleitung des Obergerichts für die Mitarbeiterinnen und Mitarbeiter des Obergerichts zuständig. Sie kann die Befugnisse der Generalsekretärin oder dem Generalsekretär sowie der Gerichtsinspektorin oder dem Gerichtsinspektor einschliesslich der Stellvertretung delegieren.
 
 <sup>2</sup> Die Leitungsorgane gemäss Artikel 2 Absatz 2 sind für ihre Mitarbeiterinnen und Mitarbeiter zuständig.
 
