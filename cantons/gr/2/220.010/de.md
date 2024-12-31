@@ -4,13 +4,12 @@ number: "220.010"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: RVzEGzSchKG
 language: de
-version: 2016-01-01
-valid_until: 2024-12-31
-version_adopted: 2015-12-01
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/220.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2623/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2623/pdf_file"
 
 (RVzEGzSchKG)
 
-Vom 01.12.2015 (Stand 01.01.2016)
+Vom 01.12.2015 (Stand 01.01.2025)
 
 Gestützt auf Art. 4 Abs. 3 und Art. 12 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über Schuldbetreibung und Konkurs (EGzSchKG)[^ingress-1]
 
@@ -49,9 +48,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 <sup>2</sup> Als anerkannter Abschluss im Sinne von Absatz 1 Litera a gilt ein Abschluss auf Bachelorstufe an einer universitären Hochschule, Fachhochschule oder einer gleichwertigen Ausbildungsstätte.
 
-<sup>3</sup> Werden die Voraussetzungen nach Absatz 1 nicht erfüllt, haben die Betreibungs- und Konkursbeamtin oder der Betreibungs- und Konkursbeamte sowie die Stellvertreterin oder der Stellvertreter entweder einen anerkannten Abschluss oder den eidgenössischen Fachausweis innert fünf Jahren nach der Wahl zu erwerben. Das Kantonsgericht kann diese Frist in begründeten Ausnahmefällen verlängern.
+<sup>3</sup> Werden die Voraussetzungen nach Absatz 1 nicht erfüllt, haben die Betreibungs- und Konkursbeamtin oder der Betreibungs- und Konkursbeamte sowie die Stellvertreterin oder der Stellvertreter entweder einen anerkannten Abschluss oder den eidgenössischen Fachausweis innert fünf Jahren nach der Wahl zu erwerben. Das Obergericht kann diese Frist in begründeten Ausnahmefällen verlängern.
 
-<sup>4</sup> In begründeten Ausnahmefällen kann mit Zustimmung des Kantonsgerichts von den Voraussetzungen nach Absatz 1 abgewichen werden.
+<sup>4</sup> In begründeten Ausnahmefällen kann mit Zustimmung des Obergerichts von den Voraussetzungen nach Absatz 1 abgewichen werden.
 
 #### Art. 3
 
@@ -105,5 +104,25 @@ von der Regierung erlassen am 1. Dezember 2015
 <sup>1</sup> Ereignet sich ein Schadenfall, sind die gemäss Artikel 12 Absatz 1 des Einführungsgesetzes zum Bundesgesetz über Schuldbetreibung und Konkurs[^7-1] Versicherten verpflichtet, die Finanzverwaltung unverzüglich zu benachrichtigen.
 
 [^7-1]: BR [220.000](https://www.gr-lex.gr.ch/data/220.000/de)
+
+#### Art. 8
+
+**Betreibungs- und Konkursinspektorinnen sowie Betreibungs- und Konkursinspektoren 1. Personalrechtliche Stellung**
+
+<sup>1</sup> Das öffentlich-rechtliche Amtsverhältnis zwischen dem Obergericht und den Betreibungs- und Konkursinspektorinnen oder den Betreibungs- und Konkursinspektoren (Inspektorinnen oder Inspektoren) kann beidseits unter Einhaltung einer dreimonatigen Frist auf Ende des Monats aufgelöst werden.
+
+#### Art. 9
+
+**2. Ernennungsvoraussetzungen**
+
+<sup>1</sup> Zu Inspektorinnen oder Inspektoren können Personen ernannt werden, welche die Eignungskriterien nach Artikel 1 und Artikel 2 Absatz 1 erfüllen.
+
+#### Art. 10
+
+**3. Entschädigung**
+
+<sup>1</sup> Die Inspektorinnen oder Inspektoren erhalten ein Taggeld von 400 Franken.
+
+<sup>2</sup> Sie werden für die Beratungstätigkeit und die Organisation der Weiterbildung mit einer Jahrespauschale von 2000 Franken bis 10 000 Franken entschädigt. Das Obergericht legt die Jahrespauschale unter Berücksichtigung der übernommenen Aufgaben fest.
 
 2015-045

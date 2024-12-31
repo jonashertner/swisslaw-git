@@ -4,13 +4,12 @@ number: "220.010"
 title: "Ordinanza relativa alla legge d'applicazione della legge federale sulla esecuzione e sul fallimento"
 short: OLAdLEF
 language: it
-version: 2016-01-01
-valid_until: 2024-12-31
-version_adopted: 2015-12-01
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/220.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2623/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3462/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2623/pdf_file"
 
 (OLAdLEF)
 
-del 01.12.2015 (stato 01.01.2016)
+del 01.12.2015 (stato 01.01.2025)
 
 emanata dal Governo il 1° dicembre 2015
 
@@ -49,9 +48,9 @@ visti l'art. 4 cpv. 3 e l'art. 12 cpv. 2 della legge d'applicazione della legge 
 
 <sup>2</sup> È considerato diploma riconosciuto ai sensi del capoverso 1 lettera a un diploma a livello di bachelor conseguito presso un'università, una scuola universitaria professionale o un istituto di formazione equivalente.
 
-<sup>3</sup> Se i requisiti di cui al capoverso 1 non sono soddisfatti, l'ufficiale esecutore e dei fallimenti nonché il supplente devono conseguire un diploma riconosciuto oppure l'attestato professionale federale entro cinque anni dalla nomina. In casi eccezionali motivati, il Tribunale cantonale può prorogare questo termine.
+<sup>3</sup> Se i requisiti di cui al capoverso 1 non sono soddisfatti, l'ufficiale esecutore e dei fallimenti nonché il supplente devono conseguire un diploma riconosciuto oppure l'attestato professionale federale entro cinque anni dalla nomina. In casi eccezionali motivati, il Tribunale d'appello può prorogare questo termine.
 
-<sup>4</sup> In casi eccezionali motivati, con il consenso del Tribunale cantonale è possibile derogare ai requisiti di cui al capoverso 1.
+<sup>4</sup> In casi eccezionali motivati, con il consenso del Tribunale d'appello è possibile derogare ai requisiti di cui al capoverso 1.
 
 #### Art. 3
 
@@ -105,5 +104,25 @@ visti l'art. 4 cpv. 3 e l'art. 12 cpv. 2 della legge d'applicazione della legge 
 <sup>1</sup> In caso di danno, gli assicurati conformemente all'articolo 12 capoverso 1 della legge d'applicazione della legge federale sulla esecuzione e sul fallimento[^7-1] sono tenuti a informare senza indugio l'Amministrazione delle finanze.
 
 [^7-1]: CSC [220.000](https://www.gr-lex.gr.ch/data/220.000/it)
+
+#### Art. 8
+
+**Ispettori delle esecuzioni e dei fallimenti 1. Posizione in materia di diritto del personale**
+
+<sup>1</sup> Il rapporto di servizio di diritto pubblico tra il Tribunale d'appello e gli ispettori delle esecuzioni e dei fallimenti (ispettori) può essere sciolto da entrambe le parti con effetto alla fine di un mese, nel rispetto di un termine di disdetta di tre mesi.
+
+#### Art. 9
+
+**2. Presupposti di nomina**
+
+<sup>1</sup> Possono essere nominate quali ispettori persone che soddisfano i criteri di idoneità secondo l'articolo 1 e l'articolo 2 capoverso 1.
+
+#### Art. 10
+
+**3. Indennizzo**
+
+<sup>1</sup> Gli ispettori ricevono una diaria di 400 franchi.
+
+<sup>2</sup> Per l'attività di consulenza e l'organizzazione del perfezionamento professionale gli ispettori vengono indennizzati con una forfetaria annua compresa tra 2000 franchi e 10 000 franchi. Il Tribunale d'appello stabilisce la forfetaria annua tenendo conto dei compiti assunti.
 
 2015-045

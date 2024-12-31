@@ -4,13 +4,12 @@ number: "220.010"
 title: Ordinaziun tar la lescha introductiva tar la lescha federala davart la scussiun ed il concurs
 short: ORtLItLSC
 language: rm
-version: 2016-01-01
-valid_until: 2024-12-31
-version_adopted: 2015-12-01
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/220.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2623/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2623/pdf_file"
 
 (ORtLItLSC)
 
-dals 01-12-2015 (versiun dals 01-01-2016)
+dals 01-12-2015 (versiun dals 01-01-2025)
 
 Sa basond sin l'art. 4 al. 3 e sin l'art. 12 al. 2 da la lescha introductiva tar la lescha federala davart la scussiun ed il concurs (LItLSC)[^ingress-1]
 
@@ -49,9 +48,9 @@ relaschada da la regenza il 1. da december 2015
 
 <sup>2</sup> Sco diplom renconuschì en il senn da l'alinea 1 litera a vala in diplom sin il stgalim da bachelor d'ina scola auta universitara, d'ina scola auta spezialisada u d'ina scola equivalenta.
 
-<sup>3</sup> Sche las premissas tenor l'alinea 1 na vegnan betg ademplidas, ston la funcziunaria u il funcziunari da scussiun e da concurs sco er la substituta u il substitut s'acquistar entaifer 5 onns suenter l'elecziun ubain in diplom renconuschì ubain il certificat professiunal federal. En cas excepziunals motivads po la dretgira chantunala prolungar quest termin.
+<sup>3</sup> Sche las premissas tenor l'alinea 1 na vegnan betg ademplidas, ston la funcziunaria u il funcziunari da scussiun e da concurs sco er la substituta u il substitut s'acquistar entaifer 5 onns suenter l'elecziun ubain in diplom renconuschì ubain il certificat professiunal federal. En cas excepziunals motivads po la Dretgira superiura prolungar quest termin.
 
-<sup>4</sup> En cas excepziunals motivads poi vegnir divergià da las premissas tenor l'alinea 1 cun il consentiment da la dretgira chantunala.
+<sup>4</sup> En cas excepziunals motivads e cun il consentiment da la Dretgira superiura poi vegnir divergià da las premissas tenor l'alinea 1.
 
 #### Art. 3
 
@@ -105,5 +104,25 @@ relaschada da la regenza il 1. da december 2015
 <sup>1</sup> Sch'i dat in cas da donn, ston las persunas assicuradas tenor l'artitgel 12 alinea 1 da la lescha introductiva tar la lescha federala davart la scussiun ed il concurs[^7-1] infurmar immediatamain l'administraziun da finanzas.
 
 [^7-1]: DG [220.000](https://www.gr-lex.gr.ch/data/220.000/rm)
+
+#### Art. 8
+
+**Inspecturas ed inspecturs da scussiun e da concurs 1. posiziun dal dretg da persunal**
+
+<sup>1</sup> La relaziun d'uffizi tenor il dretg public tranter la Dretgira superiura e las inspecturas ed ils inspecturs da scussiun e da concurs (inspecturas ed inspecturs) po vegnir schliada da tuttas duas varts per la fin dal mais, quai cun observar in termin da 3 mais.
+
+#### Art. 9
+
+**2. premissas da nominaziun**
+
+<sup>1</sup> Sco inspecturas ed inspecturs pon vegnir nominadas persunas che adempleschan ils criteris da qualificaziun tenor l'artitgel 1 e l'artitgel 2 alinea 1.
+
+#### Art. 10
+
+**3. indemnisaziun**
+
+<sup>1</sup> Las inspecturas ed ils inspecturs survegnan ina diaria da 400 francs.
+
+<sup>2</sup> Per lur activitad da cussegliaziun e per l'organisaziun da la furmaziun supplementara vegnan ellas ed els indemnisads cun ina pauschala annuala da 2000 francs fin 10 000 francs. La Dretgira superiura fixescha la pauschala annuala cun resguardar las incumbensas surpigliadas.
 
 2015-045
