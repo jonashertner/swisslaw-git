@@ -4,13 +4,13 @@ number: "490.10"
 title: Energieförderverordnung
 short: EnFV BL
 language: de
-version: 2022-04-01
-valid_until: 2024-12-31
-version_adopted: 2022-04-05
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-03
 adopted: 2009-12-15
 in_force: 2010-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490.10"
-pdf: "https://bl.clex.ch/api/de/versions/3311/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4060/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3311/pdf_file"
 
 (EnFV BL)
 
-Vom 15.12.2009 (Stand 01.04.2022)
+Vom 15.12.2009 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -44,19 +44,43 @@ beschliesst:
 - f. Vorhaben, die der Erprobung und Beurteilung von Energietechniken und der Erfassung und Auswertung von Daten dienen (Wirkungskontrolle, Analysen, Feldversuche und dergleichen);
 - g. Projekte und Massnahmen, welche die erfolgreiche Umsetzung dieser Verordnung unterstützen wie z. B. Informationsmassnahmen und Energieanalysen.
 
-<sup>2</sup> Das Amt für Umweltschutz und Energie (AUE) erlässt für jeden Fördergegenstand einzuhaltende Bedingungen und Auflagen, die auf dem Harmonisierten Fördermodell der Kantone (HFM) aufbauen.
+<sup>1<sup>bis</sup></sup> Der Kanton kann Förderbeiträge nach dem Impulsprogramm des Bundes gemäss Art. 50a EnG[^1-1] an folgende Fördergegenstände ausrichten:
+
+- a Ersatz fossil betriebener Heizungen und ortsfester elektrischer Widerstandsheizungen durch eine Wärmeerzeugung aus erneuerbaren Energien;
+- b Massnahmen im Bereich der Energieeffizienz.
+
+<sup>2</sup> Das Amt für Umweltschutz und Energie (AUE) erlässt für Fördergegenstände nach Abs. 1 einzuhaltende Bedingungen und Auflagen, die auf dem Harmonisierten Fördermodell der Kantone (HFM) aufbauen.
+
+<sup>2<sup>bis</sup></sup> Für den Erhalt von Förderbeiträgen aus dem Impulsprogramm des Bundes sind die Anforderungen gemäss Art. 54a EnV[^1-2] einzuhalten.
 
 <sup>3</sup> Für energetische Massnahmen des Kantons im Rahmen des Verwaltungsvermögens werden keine Förderbeiträge ausgerichtet.
 
 <sup>4</sup> …
 
+[^1-1]: [SR 730.0](https://db.clex.ch/link/Bund/730.0/de)
+[^1-2]: [SR 730.01](https://db.clex.ch/link/Bund/730.01/de)
+
 #### § 2
 
-**Höhe des Beitrages**
+**Form und Höhe des Förderbeitrags**
 
 <sup>1</sup> Die Förderung geschieht in der Regel in Form eines einmaligen Beitrages an die Investitionskosten.
 
-<sup>2</sup> Die Förderbeitragssätze pro Fördergegenstand orientieren sich an den Beitragssätzen gemäss harmonisiertem Fördermodell der Kantone (HFM). Es gelten die Beitragssätze im Zeitpunkt der Beitragszusicherung gemäss Anhang 1.
+<sup>2</sup> Die Förderbeitragssätze pro Fördergegenstand orientieren sich an den Beitragssätzen gemäss harmonisiertem Fördermodell der Kantone (HFM) und Impulsprogramm des Bundes nach Art. 50a EnG[^2-1] und Art. 54a EnV[^2-2]. Es gelten die Beitragssätze im Zeitpunkt der Beitragszusicherung gemäss Anhang 1.
+
+<sup>3</sup> Förderbeiträge unter CHF 500.– werden nicht gewährt.
+
+<sup>4</sup> Bei folgenden Förderbereichen gemäss Anhang 1 darf der Förderbeitrag CHF 100'000.– nicht überschreiten:
+
+- a. Wärmedämmung;
+- b. Gesamterneuerung;
+- c. Neubau;
+- d. Gebäudetechnik;
+- e. Qualitätssicherung und Beratung;
+- f. Gemeinde.
+
+[^2-1]: [SR 730.0](https://db.clex.ch/link/Bund/730.0/de)
+[^2-2]: [SR 730.01](https://db.clex.ch/link/Bund/730.01/de)
 
 #### § 3
 
@@ -74,7 +98,7 @@ beschliesst:
 
 **Beitragszusicherung**
 
-<sup>1</sup> Die Beitragszusicherung erfolgt in Form einer Verfügung.
+<sup>1</sup> Die Beitragszusicherung erfolgt in Form einer Verfügung. Diese hat die anrechenbaren Kosten, die beitragsberechtigten Arbeiten gemäss § 1 Abs. 1 bzw. Abs. 1<sup>bis</sup> und den nach Anhang 1 anwendbaren Förderbeitrag zu enthalten.
 
 <sup>2</sup> Die Verfügung kann Auflagen und Bedingungen enthalten und insbesondere den Nachweis einer Wirkungskontrolle vorsehen.
 
@@ -126,7 +150,7 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Für alle Gesuche, die vor dem 1. Mai 2020 eingereicht wurden und noch nicht rechtskräftig einem Entscheid zugeführt worden sind, gilt das neue Recht.
+<sup>1</sup> Für Gesuche, die vor dem 1. Januar 2025 eingereicht wurden und noch nicht rechtskräftig einem Entscheid zugeführt worden sind, gilt das Recht im Zeitpunkt der Gesuchseinreichung.
 
 <sup>2</sup> …
 
