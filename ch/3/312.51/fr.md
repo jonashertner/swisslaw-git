@@ -4,11 +4,11 @@ title: "Ordonnance du 27 février 2008 sur l'aide aux victimes d'infractions (Or
 short: OAVI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/233"
 language: fr
-version: 2020-01-01
+version: 2025-01-01
 adopted: 2008-02-27
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-233-20200101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-233-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20200101/fr"
 
 (Ordonnance sur l’aide aux victimes, OAVI)
 
-du 27 février 2008 (État le 1<sup>er</sup> janvier 2020)
+du 27 février 2008 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -77,7 +77,7 @@ En dérogation à l’al. 1:
 
 Si les revenus déterminants de l’ayant droit se situent entre le double du montant destiné à la couverture des besoins vitaux (2 x montant LPC[^3-1]) et le quadruple de ce montant, le montant de la contribution aux frais (contribution) se calcule selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/fr/xml/image/image1.png)
 
 [^3-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
@@ -96,14 +96,14 @@ En l’absence de réglementation entre deux cantons, le canton qui a accordé d
 
 <sup>2</sup>
 
-La contribution forfaitaire s’élève à 1069 francs.[^4-1] Le Département fédéral de justice et police (DFJP) adapte le montant de la contribution tous les cinq ans.[^4-2] Sont déterminants:
+La contribution forfaitaire s’élève à 1267 francs.[^4-1] Le Département fédéral de justice et police (DFJP) adapte le montant de la contribution tous les cinq ans.[^4-2] Sont déterminants:
 
 - a. le nombre de dossiers établis par les centres de consultation selon la dernière statistique de l’aide aux victimes, et
 - b. les dépenses des cantons relatives aux coûts d’exploitation des centres de consultation et aux coûts de l’aide immédiate et de l’aide à plus long terme, pour l’année précédente.
 
 <sup>3</sup> Les cantons fournissent à l’OFJ, sur demande, les données nécessaires à la détermination des dépenses.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4109](https://fedlex.data.admin.ch/eli/oc/2019/720)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 10 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 537](https://fedlex.data.admin.ch/eli/oc/2024/537)).
 [^4-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2775](https://fedlex.data.admin.ch/eli/oc/2014/479)).
 
 ## Section 4 Indemnisation par le canton
@@ -124,7 +124,7 @@ La prise en charge des frais d’avocat ne peut être accordée qu’à titre d�
 
 Si les revenus déterminants de l’ayant droit se situent entre le montant destiné à la couverture des besoins vitaux (montant LPC[^6-1]) et le quadruple de ce montant, l’indemnité se calcule selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/fr/xml/image/image2.png)
 
 [^6-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Februar 2008 über die Hilfe an Opfer von Straftaten 
 short: OHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/233"
 language: de
-version: 2020-01-01
+version: 2025-01-01
 adopted: 2008-02-27
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2008-233-20200101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-233-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20200101/de"
 
 (Opferhilfeverordnung, OHV)
 
-vom 27. Februar 2008 (Stand am 1. Januar 2020)
+vom 27. Februar 2008 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -77,7 +77,7 @@ In Abweichung von Absatz 1 gilt Folgendes:
 
 Liegen die anrechenbaren Einnahmen der anspruchsberechtigten Person zwischen dem doppelten massgebenden Betrag für den allgemeinen Lebensbedarf (2 x Betrag ELG[^3-1]) und dem Vierfachen dieses Betrags, so wird der Kostenbeitrag an die Kosten für die längerfristige Hilfe Dritter (Kosten) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/de/xml/image/image1.png)
 
 [^3-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
@@ -96,14 +96,14 @@ Besteht zwischen zwei Kantonen keine Regelung, so kann der leistungserbringende 
 
 <sup>2</sup>
 
-Der Pauschalbeitrag beträgt 1069 Franken.[^4-1] Das Eidgenössische Justiz- und Polizeidepartement (EJPD) legt den Beitrag alle fünf Kalenderjahre neu fest.[^4-2] Massgebend sind dabei:
+Der Pauschalbeitrag beträgt 1267 Franken.[^4-1] Das Eidgenössische Justiz- und Polizeidepartement (EJPD) legt den Beitrag alle fünf Kalenderjahre neu fest.[^4-2] Massgebend sind dabei:
 
 - a. die Zahl der Beratungsfälle gemäss der letzten Opferhilfestatistik; und
 - b. der letztjährige Aufwand aller Kantone für die Betriebskosten der Beratungsstellen und für die Kosten der Soforthilfe und der längerfristigen Hilfe.
 
 <sup>3</sup> Die Kantone liefern dem BJ auf Anfrage die zur Ermittlung des Aufwands nötigen Angaben.
 
-[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 14. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4109](https://fedlex.data.admin.ch/eli/oc/2019/720)).
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 10. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 537](https://fedlex.data.admin.ch/eli/oc/2024/537)).
 [^4-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 27. Aug. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2775](https://fedlex.data.admin.ch/eli/oc/2014/479)).
 
 ## 4. Abschnitt: Entschädigung durch den Kanton
@@ -124,7 +124,7 @@ Anwaltskosten können ausschliesslich als Soforthilfe oder längerfristige Hilfe
 
 Liegen die anrechenbaren Einnahmen der anspruchsberechtigten Person zwischen dem massgebenden Betrag für den allgemeinen Lebensbedarf (Betrag ELG[^6-1]) und dem Vierfachen dieses Betrags, so wird die Entschädigung wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/de/xml/image/image2.png)
 
 [^6-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 

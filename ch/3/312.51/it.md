@@ -4,11 +4,11 @@ title: "Ordinanza del 27 febbraio 2008 concernente l'aiuto alle vittime di reati
 short: OAVI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/233"
 language: it
-version: 2020-01-01
+version: 2025-01-01
 adopted: 2008-02-27
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2008-233-20200101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-233-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/233/20200101/it"
 
 (OAVI)
 
-del 27 febbraio 2008 (Stato 1° gennaio 2020)
+del 27 febbraio 2008 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ In deroga al capoverso 1:
 
 Se i redditi determinanti dell’avente diritto si situano tra il doppio dell’importo destinato alla copertura del fabbisogno vitale (doppio dell’importo LPC[^3-1]) e il quadruplo di tale importo, il contributo alle spese per l’aiuto a più lungo termine fornito da terzi (spese) è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/it/xml/image/image1.png)
 
 [^3-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
@@ -96,15 +96,15 @@ Se non esiste un accordo tra due Cantoni, il Cantone che ha versato le prestazio
 
 <sup>2</sup>
 
-Il contributo forfettario ammonta a 1069 franchi.[^4-1] Il Dipartimento federale di giustizia e polizia (DFGP) fissa il contributo ogni cinque anni civili.[^4-2] Sono determinanti:
+Il contributo forfettario ammonta a 1267 franchi.[^4-1] Il Dipartimento federale di giustizia e polizia (DFGP) fissa il contributo ogni cinque anni civili.[^4-2] Sono determinanti:
 
 - a. il numero dei casi trattati dai consultori secondo l’ultima statistica sull’aiuto alle vittime; e
 - b. gli oneri dei Cantoni, per l’anno precedente, per le spese d’esercizio dei consultori e le spese per l’aiuto immediato e l’aiuto a più lungo termine.
 
 <sup>3</sup> Su richiesta, i Cantoni forniscono all’UFG i dati necessari per determinare le spese.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 14 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4109](https://fedlex.data.admin.ch/eli/oc/2019/720)).
-[^4-2]: Nuovo testo del secondo per. giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2775](https://fedlex.data.admin.ch/eli/oc/2014/479)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 10 set. 2024, in vigore dal 1° gen. 2025 ([RU 2024 537](https://fedlex.data.admin.ch/eli/oc/2024/537)).
+[^4-2]: Nuovo testo del secondo per. giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2775](https://fedlex.data.admin.ch/eli/oc/2014/479)).
 
 ## Sezione 4: Indennizzo da parte del Cantone
 
@@ -124,7 +124,7 @@ Le spese di patrocinio possono essere fatte valere esclusivamente come aiuto imm
 
 Se i redditi determinanti dell’avente diritto si situano tra l’importo destinato alla copertura del fabbisogno vitale (importo LPC[^6-1]) e il quadruplo di tale importo, l’indennizzo è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20200101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/233/20250101/it/xml/image/image2.png)
 
 [^6-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
