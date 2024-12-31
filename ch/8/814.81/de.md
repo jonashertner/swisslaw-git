@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2024-10-15
+version: 2025-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20241015-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20241015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20241015/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 15. Oktober 2024)
+vom 18. Mai 2005 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -401,7 +401,7 @@ Anhänge[^t-1]
 
 ## 1 Bestimmungen für bestimmte Stoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
 
 - 1\.1 Persistente organische Schadstoffe
 - 1\.2 Halogenierte organische Stoffe
@@ -421,11 +421,12 @@ Anhänge[^t-1]
 - 1\.16 Per- und polyfluorierte Alkylverbindungen
 - 1\.17 Stoffe nach Anhang XIV der Verordnung (EG) Nr. 1907/2006
 - 1\.18 Phthalate
+- 1\.19 Cyclische Siloxane
 
 ## 2 Bestimmungen für Gruppen von Zubereitungen und Gegenständen
 
 - 2\.1 Textilwaschmittel
-- 2\.2 Reinigungsmittel, Desodorierungsmittel und kosmetische Mittel
+- 2\.2 Reinigungs- und Desodorierungsmittel
 - 2\.3 Lösungsmittel
 - 2\.4 Biozidprodukte
 - 2\.5 Pflanzenschutzmittel
@@ -1317,7 +1318,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2645,17 +2646,101 @@ Das Verbot nach Ziffer 2 Absatz 1 gilt nicht für:
 
 - b. alle übrigen Phthalat enthaltenden Gegenstände, die vor dem 7. Juli 2020 erstmals in Verkehr gebracht worden sind.
 
+Anhang 1.19[^t-20]
+
+(Art. 3)
+
+## Cyclische Siloxane
+
+[^t-20]: Eingefügt durch Ziff. I Abs. 1 der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
+
+### 1 Verbote
+
+<sup>1</sup> Verboten ist das Inverkehrbringen von:
+
+- a. Octamethylcyclotetrasiloxan (D4, CAS-Nr. 556-67-2), Decamethylcyclopentasiloxan (D5, CAS‑Nr. 541‑02‑6) und Dodecamethylcyclohexasiloxan (D6, CAS‑Nr. 540‑97‑6);
+- b. Stoffen, ausgenommen Silikonpolymeren, und Zubereitungen, wenn die Stoffe oder Zubereitungen einen Stoff nach Buchstabe a mit einem Massengehalt von 0,1 Prozent oder mehr enthalten.
+
+<sup>2</sup> Verboten ist die Verwendung von Stoffen und Zubereitungen nach Absatz 1 für die chemische Reinigung von Textilien, Leder und Pelzen.
+
+### 2 Ausnahmen
+
+<sup>1</sup> Die Verbote nach Ziffer 1 Absatz 1 gelten nicht für das Inverkehrbringen zum Zwecke der beruflichen oder gewerblichen Verwendung als:
+
+- a. Monomere für die Herstellung von Silikonpolymeren;
+- b. Monomere bei der Polymerisation;
+- c. Zwischenprodukte für die Herstellung von Siliciumverbindungen;
+- d. Ausgangsprodukte für die Herstellung von Zubereitungen;
+- e. Ausgangsprodukte für die Herstellung von Gegenständen in Industrieanlagen, einschliesslich Stoffe und Zubereitungen, welche für die Herstellung dieser Ausgangsprodukte erforderlich sind;
+- f. Oberflächenbehandlungsmittel für Nichtmetalle;
+- g. Reagenzien für Analyse- und Forschungszwecke, die nach Artikel 4 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000[^annex119-lvlu1-lvl2-1] (HMG) nicht zu den Medizinprodukten gehören.
+
+<sup>2</sup> Die Verbote nach Ziffer 1 Absatz 1 gelten nicht für das Inverkehrbringen von:
+
+- a.
+
+  Medizinprodukten nach Artikel 4 Absatz 1 Buchstabe b HMG, die:
+
+  - 1\. D5- oder D6-haltig sind und zur Vermeidung von Wunden, zur Behandlung und Pflege von Narben und Wunden oder zur Stomaversorgung verwendet werden,
+  - 2\. aus Stoffen oder Kombinationen von Stoffen bestehen und Silikonpolymere enthalten, wenn der Massengehalt an D4, D5 oder D6 im Medizinprodukt höchstens 0,2 Prozent beträgt,
+  - 3\. für Zahnabdruckmassen verwendet werden, die Silikonpolymere enthalten, wenn der Massengehalt an D5 in der Zahnabdruckmasse höchstens 0,3 Prozent oder an D6 höchstens 1 Prozent beträgt;
+
+- b.
+
+  Mitteln zur Reinigung oder Restaurierung von Kunstwerken und Antiquitäten, die für berufliche oder gewerbliche Verwender bestimmt sind, und die:
+
+  - 1\. aus D5 bestehen oder D5 enthalten, oder
+  - 2\. Silikonpolymere enthalten, wenn der Massengehalt an D6 im Mittel höchstens 1 Prozent beträgt;
+
+- c.
+
+  silikonpolymerhaltigen Zubereitungen für folgende Verwendungen:
+
+  - 1\. Klebstoffe, Haftmittel, Versiegelungsmittel, Giessmassen und 3D-Druckmaterialien, wenn deren Massengehalt an D4, D5 oder D6 höchstens 1 Prozent beträgt,
+  - 2\. Haftvermittler, wenn deren Massengehalt an D4, D5 oder D6 höchstens 0,5 Prozent beträgt,
+  - 3\. Schutzbeschichtungen, wenn deren Massengehalt an D4 höchstens 0,5 Prozent und an D5 oder D6 höchstens 0,3 Prozent beträgt,
+  - 4\. Silikoneinlagen für Pferde und Beschläge, wenn deren Massengehalt an D4 höchstens 0,2 Prozent und an D5 oder D6 höchstens 1 Prozent beträgt,
+  - 5\. Produkte für den Tampondruck, wenn deren Massengehalt an D5 oder D6 höchstens 1 Prozent beträgt,
+  - 6\. Produkte für die Prototypenentwicklung und den Formenbau sowie Quartz als Füller enthaltende Produkte für Hochleistungsanwendungen, wenn deren Massengehalt an D5 höchstens 1 Prozent oder an D6 höchstens 3 Prozent beträgt.
+
+<sup>3</sup> Die Verbote nach Ziffer 1 Absatz 1 gelten nicht für das Inverkehrbringen von Stoffen und Zubereitungen, die zur Herstellung von Medizinprodukten nach Absatz 2 Buchstabe a, Mitteln zur Reinigung oder Restaurierung von Kunstwerken und Antiquitäten nach Absatz 2 Buchstabe b sowie silikonpolymerhaltigen Zubereitungen nach Absatz 2 Buchstabe c erforderlich sind.
+
+<sup>4</sup> Die Verbote nach Ziffer 1 Absätze 1 und 2 gelten nicht für:
+
+- a. das Inverkehrbringen von D5 zur Verwendung in der chemischen Reinigung von Textilien, Leder und Pelzen;
+- b. die Verwendung von D5 in der chemischen Reinigung von Textilien, Leder und Pelzen, wenn die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen von D5 getroffen worden sind.
+
+[^annex119-lvlu1-lvl2-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+### 3 Übergangsbestimmungen
+
+<sup>1</sup> Die Verbote nach Ziffer 1 Absatz 1 gelten nicht:
+
+- a. für folgende Stoffe und Zubereitungen, die vor den genannten Daten in Verkehr gebracht worden sind, sowie für Stoffe und Zubereitungen, welche für die Herstellung dieser Zubereitungen erforderlich sind:
+
+<table>
+<tr><th>Zubereitung</th><th>Datum</th></tr>
+<tr><td>Kosmetische Mittel nach Artikel 53 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex119-lvlu1-lvl3-1] (LGV); ausgenommen sind solche, die abwaschbar sind und D4 oder D5 enthalten</td><td>7. Juni 2027</td></tr>
+<tr><td>Arzneimittel und Medizinprodukte nach Artikel 4 Absatz 1 Buchstaben a und b HMG</td><td>7. Juni 2031</td></tr>
+</table>
+
+- b. für alle übrigen Stoffe und Zubereitungen, die vor dem 7. Juni 2026 in Verkehr gebracht worden sind; ausgenommen sind abwaschbare kosmetische Mittel nach Artikel 53 LGV, die D4 oder D5 enthalten.
+
+<sup>2</sup> Die Verbote nach Ziffer 1 Absatz 2 gelten nicht für die Verwendung von D4 und D6 als Stoffe und in Zubereitungen für die chemische Reinigung von Textilien, Leder und Pelzen bis zum 6. Juni 2026.
+
+[^annex119-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+
 Anhang 2
 
 ## Bestimmungen für Gruppen von Zubereitungen und Gegenständen
 
-Anhang 2.1[^t-20]
+Anhang 2.1[^t-21]
 
 (Art. 3)
 
 ## Textilwaschmittel
 
-[^t-20]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-21]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriff
 
@@ -2810,13 +2895,13 @@ Anhang 2.1[^t-20]
 
 <sup>4</sup> Die Bestimmungen der Absätze 2 und 3 gelten bis zum Entscheid der zuständigen Behörde über den Antrag auf Genehmigung einer Ausnahme.
 
-Anhang 2.2[^t-21]
+Anhang 2.2[^t-22]
 
 (Art. 3)
 
-## Reinigungsmittel, Desodorierungsmittel und kosmetische Mittel
+## Reinigungs- und Desodorierungsmittel
 
-[^t-21]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. I der V des BAFU vom 19. Okt. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Die Berichtigung vom 15. Okt. 2024 betrifft nur den italienischen Text ([AS 2024 557](https://fedlex.data.admin.ch/eli/oc/2024/557)).
+[^t-22]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. I der V des BAFU vom 19. Okt. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I Abs. 2 der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
 
 ### 1 Begriff
 
@@ -2863,8 +2948,6 @@ Anhang 2.2[^t-21]
 <sup>4</sup> Desodorierungsmittel und Lufterfrischer, die für die Verwendung in Toiletten, Privathaushalten, Büros oder anderen öffentlich zugänglichen Innenräumen bestimmt sind, dürfen nicht in Verkehr gebracht werden, wenn ihr Massengehalt an 1,4-Dichlorbenzol (CAS-Nr. 106-46-7) 1 Prozent oder mehr beträgt.
 
 <sup>5</sup> Die Verwendung von 1,4-Dichlorbenzol für Zwecke nach Absatz 4 ist verboten.
-
-<sup>6</sup> Abwaschbare kosmetische Mittel dürfen nicht in Verkehr gebracht werden, wenn ihr Massengehalt an Octamethylcyclotetrasiloxan (D4, CAS-Nr. 556-67-2) oder Decamethylcyclopentasiloxan (D5, CAS-Nr. 541-02-6) 0,1 Prozent oder mehr beträgt.
 
 [^annex22-lvlu1-lvl2-1]: ABl. L 104 vom 8.4.2004, S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 551/2009 der Kommission vom 25. Juni 2009 (ABl. L 164 vom 26.6.2009, S. 3). Die Texte der in diesem Anhang erwähnten Rechtsakte der EU können bei der Anmeldestelle für Chemikalien, 3003 Berngegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse: [www.cheminfo.ch](http://www.cheminfo.ch) abgerufen werden.
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
@@ -2996,13 +3079,13 @@ Anhang 2.2[^t-21]
 
 <sup>6</sup> Bei Geschirrspülmitteln für Maschinen, die im Haushalt verwendet und nach Absatz 5 in Verkehr gebracht werden, muss in der Gebrauchsanweisung für das Geschirrspülmittel die Dosierung so angegeben werden, dass bei ihrer Einhaltung pro Waschgang nicht mehr als 2,5 g Phosphor verbraucht werden.
 
-Anhang 2.3[^t-22]
+Anhang 2.3[^t-23]
 
 (Art. 3)
 
 ## Lösungsmittel
 
-[^t-22]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-23]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Methanol
 
@@ -3144,13 +3227,13 @@ Der Kanton kann von Inhaberinnen halogenierter Lösungsmittelabfälle und von Be
 [^annex23-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
 [^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Anhang 2.4[^t-23]
+Anhang 2.4[^t-24]
 
 (Art. 3)
 
 ## Biozidprodukte
 
-[^t-23]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Holzschutzmittel
 
@@ -3321,13 +3404,13 @@ Die Verbote dieses Anhangs gelten nicht für das Inverkehrbringen von Biozidprod
 - d. Sockelbereiche von Leitungsmasten;
 - e. andere Anlagen, die einen den Anlagen nach den Buchstaben a–d vergleichbaren Zweck haben und die ausserhalb von Wohnsiedlungen errichtet werden; das BAFU erlässt nach Anhörung der betroffenen Bundesämter für die Vollzugsbehörden Empfehlungen.
 
-Anhang 2.5[^t-24]
+Anhang 2.5[^t-25]
 
 (Art. 3)
 
 ## Pflanzenschutzmittel
 
-[^t-24]: Bereinigt gemäss Ziff. I 3 der V vom 29. Juni 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-25]: Bereinigt gemäss Ziff. I 3 der V vom 29. Juni 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Verwendung
 
@@ -3574,13 +3657,13 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 [^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Anhang 2.6[^t-25]
+Anhang 2.6[^t-26]
 
 (Art. 3)
 
 ## Dünger
 
-[^t-25]: Bereinigt gemäss Anhang der V vom 14. Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Anhang 5 Ziff. II 3 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^t-26]: Bereinigt gemäss Anhang der V vom 14. Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Anhang 5 Ziff. II 3 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### 1 Begriffe
 
@@ -3946,13 +4029,13 @@ Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kom
 
 <sup>2</sup> Die kantonalen Behörden ermitteln die Ursachen der Überschreitung von Richtwerten nach Ziffer 2.2.1.10 Absatz 3 und sorgen dafür, dass Kompost und Gärgut nicht abgegeben werden, wenn durch deren Verwendung die Fruchtbarkeit des Bodens gefährdet werden kann.
 
-Anhang 2.7[^t-26]
+Anhang 2.7[^t-27]
 
 (Art. 3)
 
 ## Auftaumittel
 
-[^t-26]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-27]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Begriff
 
@@ -4010,13 +4093,13 @@ Das BAFU kann einzelnen Verwenderinnen erlauben, Auftaumittel, die andere als di
 
 <sup>3</sup> Die Kantone sorgen dafür, dass für öffentliche Strassen, Wege und Plätze festgelegt wird, wann, wo und wie Auftaumittel verwendet werden oder andere Verfahren zur Bekämpfung von Glatteis und Schneeglätte zum Einsatz kommen.
 
-Anhang 2.8[^t-27]
+Anhang 2.8[^t-28]
 
 (Art. 3)
 
 ## Anstrichfarben und Lacke
 
-[^t-27]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-28]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Begriffe
 
@@ -4051,13 +4134,13 @@ Anhang 2.8[^t-27]
 
 Bleihaltige Anstrichfarben und Lacke sowie damit behandelte Gegenstände dürfen durch die Herstellerin noch bis zum 31. Juli 2006 in Verkehr gebracht werden.
 
-Anhang 2.9[^t-28]
+Anhang 2.9[^t-29]
 
 (Art. 3)
 
 ## Kunststoffe, deren Monomere und Additive
 
-[^t-28]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -4177,7 +4260,7 @@ Anhang 2.9[^t-28]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -4224,13 +4307,13 @@ Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen zum Stand 
 
 <sup>8</sup> Schaumstoffe und Gegenstände mit Schaumstoffen, für die Ziffer 3 Absatz 3<sup>bis</sup> nicht mehr anzuwenden ist, weil aufgrund einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monaten hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
 
-Anhang 2.10[^t-29]
+Anhang 2.10[^t-30]
 
 (Art. 3)
 
 ## Kältemittel
 
-[^t-29]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Begriffe
 
@@ -4263,23 +4346,23 @@ Anhang 2.10[^t-29]
 - a. ozonschichtabbauenden Kältemitteln mit einem Ozonabbaupotenzial grösser als 0,0005;
 - b. Geräten und Anlagen, die mit ozonschichtabbauenden Kältemitteln betrieben werden.
 
-<sup>2</sup> Verboten sind die Herstellung und das Inverkehrbringen sowie die Einfuhr zu privaten Zwecken folgender Geräte und mobiler Anlagen, die mit in der Luft stabilen Kältemitteln betrieben werden:
+<sup>2</sup> Verboten sind die Herstellung und das Inverkehrbringen sowie die Einfuhr zu privaten Zwecken folgender Geräte und Anlagen, die mit einem in der Luft stabilen Kältemittel betrieben werden:
 
-- a. Kühl- und Gefriergeräte für den Haushalt;
-- b. Kühl- und Gefriergeräte im Gewerbebereich;
-- c. Haushaltsgeräte mit Wärmepumpen, insbesondere Geräte zum Entfeuchten und Trocknen;
-- d. Klimageräte;
-- e. Klimaanlagen, die in Motorfahrzeugen verwendet werden;
-- f. mobile Kälteanlagen für den Transport von Waren.
+- a. Kühl- und Gefriergeräte für die Kühlung von Lebensmitteln oder verderblichen Waren;
+- b. Geräte zur Kühlung oder Heizung von Räumen;
+- c. Geräte zur Kühlung oder Heizung von Prozessen, einschliesslich des Entfeuchtens und Trocknens;
+- d. mobile Klimaanlagen, die in Motorfahrzeugen, Schienenfahrzeugen oder Schiffen verwendet werden;
+- e. mobile Kälteanlagen für den Transport von Lebensmitteln oder verderblichen Waren.
 
-<sup>3</sup> Verboten ist das Inverkehrbringen folgender stationärer Anlagen, die mit in der Luft stabilen Kältemitteln betrieben werden:
+<sup>3</sup> Verboten ist das Inverkehrbringen folgender stationärer Anlagen, die mit einem in der Luft stabilen Kältemittel betrieben werden:
 
 - a.
 
   Klimakälteanlagen für die Gebäudekühlung:
 
-  - 1\. mit einer Kälteleistung von mehr als 400 kW, oder
-  - 2\. wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist;
+  - 1\. mit einer Kälteleistung von mehr als 400 kW,
+  - 2\. wenn das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist, oder
+  - 3\. mit einer Aussen- und einer Inneneinheit (Monosplit-Klimakälteanlagen) und einer Füllmenge von weniger als 3 kg pro Kältekreislauf, wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist;
 
 - b.
 
@@ -4288,7 +4371,9 @@ Anhang 2.10[^t-29]
   - 1\. Minus- oder Tiefkühlung mit einer Kälteleistung von mehr als 30 kW, oder
   - 2\. Pluskühlung mit einer Kälteleistung von mehr als 40 kW, oder
   - 3\. Minus- oder Tiefkühlung mit einer Kälteleistung von mehr als 8 kW, wenn die Minus- oder Tiefkühlung mit einer Pluskühlung kombinierbar ist, oder
-  - 4\. Plus-, Minus- oder Tiefkühlung, wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 1500 aufweist;
+  - 4\. Plus-, Minus- oder Tiefkühlung, wenn:
+  - i. das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 1500 aufweist oder
+  - ii. die Anlage in sich geschlossen ist und das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist;
 
 - c.
 
@@ -4302,8 +4387,9 @@ Anhang 2.10[^t-29]
 
   Wärmepumpen für die Nah- und Fernverteilung von Wärme:
 
-  - 1\. mit einer Kälteleistung von mehr als 600 kW, oder
-  - 2\. wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist;
+  - 1\. mit einer Kälteleistung von mehr als 600 kW,
+  - 2\. wenn das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist, oder
+  - 3\. mit einer Aussen- und einer Inneneinheit (Monosplit-Wärmepumpe) und einer Füllmenge von weniger als 3 kg pro Kältekreislauf, wenn das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist;
 
 - e.
 
@@ -4312,10 +4398,11 @@ Anhang 2.10[^t-29]
   - 1\. permanente Kunsteisbahnen,
   - 2\. temporäre Anlagen, wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 4000 aufweist.
 
-<sup>4</sup> Verboten ist das Inverkehrbringen von Anlagen zur Nutzung von Kaltluft, die mit in der Luft stabilen Kältemitteln betrieben werden und nicht mit einem Kälteträgerkreislauf ausgestattet sind, wenn sie:
+<sup>4</sup> Verboten ist das Inverkehrbringen von Anlagen zur Kälteerzeugung, die mit einem in der Luft stabilen Kältemittel betrieben werden und nicht mit einem Kälteträgerkreislauf ausgestattet sind, wenn sie:
 
-- a. mindestens drei Verdampfereinheiten verwenden und eine Kälteleistung von mehr als 80 kW aufweisen; oder
-- b. mehr als 40 Verdampfereinheiten verwenden.
+- a. mindestens drei Verdampfereinheiten verwenden und eine Kälteleistung von mehr als 80 kW aufweisen;
+- b. mehr als 40 Verdampfereinheiten verwenden; oder
+- c. in sich geschlossen sind und das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist.
 
 <sup>5</sup> Verboten ist das Inverkehrbringen von Anlagen mit luftgekühltem Verflüssiger, die ein in der Luft stabiles Kältemittel mit einem Treibhauspotenzial von mehr als 4000 enthalten, unter Vorbehalt der maximal zulässigen Treibhauspotenziale gemäss Ziffer 2.1 Absatz 3.
 
@@ -4341,9 +4428,9 @@ Anhang 2.10[^t-29]
 
 ### 2.2 Ausnahmen
 
-<sup>1</sup> Die Verbote nach Ziffer 2.1 Absätze 1 Buchstabe b sowie 2 Buchstaben a, c und d gelten nicht für Geräte, die zu einem privaten Haushalt gehören, zu privaten Zwecken in Verkehr gebracht sowie zu privaten Zwecken ein- und ausgeführt werden.
+<sup>1</sup> Die Verbote nach Ziffer 2.1 Absätze 1 Buchstabe b sowie 2 Buchstaben a–c gelten nicht für Geräte, die zu einem privaten Haushalt gehören, zu privaten Zwecken in Verkehr gebracht oder zu privaten Zwecken ein- oder ausgeführt werden.
 
-<sup>2</sup> Die Verbote nach Ziffer 2.1 Absatz 2 Buchstaben b–f gelten nicht für Geräte und Anlagen, wenn:
+<sup>2</sup> Die Verbote nach Ziffer 2.1 Absatz 2 gelten nicht für Geräte und Anlagen, wenn:
 
 - a. nach dem Stand der Technik ein Ersatz fehlt;
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
@@ -4362,7 +4449,28 @@ Anhang 2.10[^t-29]
 - c. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
 - d. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
 
+<sup>4bis</sup> Die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe c Nummern 2 und 3 gelten nicht für Anlagen und Kühlanwendungen, die jeweils eine Verdampfungstemperatur von –90 °C oder weniger aufweisen, wenn:
+
+- a. nach dem Stand der Technik ein Ersatz fehlt;
+- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
+- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
+
+<sup>4ter</sup> Das Verbot nach Ziffer 2.1 Absatz 4 Buchstabe c gilt nicht, wenn:
+
+- a.
+
+  nach dem Stand der Technik ohne die Anwendung eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 150 oder mehr die folgenden Normen[^annex210-lvlu1-lvl2-lvl22-1] nicht eingehalten werden können:
+
+  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021,
+  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 und SN EN IEC 60335-2-89:2022/AC:2023,
+  - 3\. IEC 60335-2-40:2022 ED 7.0;
+
+- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
+- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
+
 <sup>5</sup> Bestehende rechtmässig in Verkehr gebrachte Anlagen, deren Inverkehrbringen bewilligungspflichtig ist, dürfen für die Anwendungsbereiche nach Ziffer 2.1 Absatz 3 ohne neue Bewilligung des Inverkehrbringens an einen Dritten abgegeben werden, wenn sie nicht umgebaut werden und ihr Standort nicht verändert wird.
+
+<sup>5bis</sup> Bestehende, rechtmässig in Verkehr gebrachte Anlagen dürfen um zusätzliche Anlagenteile erweitert werden, wenn diese die rechtlichen Anforderungen nach Ziffer 2.1 hinsichtlich Art und Füllmenge des Kältemittels sowie hinsichtlich Sekundärkreisläufen erfüllen, welche für das Inverkehrbringen einer gleichartigen Gesamtanlage gelten.
 
 <sup>6</sup> Das Verbot nach Ziffer 2.1 Absatz 1 Buchstabe b gilt nicht, wenn:
 
@@ -4370,21 +4478,24 @@ Anhang 2.10[^t-29]
 - b. das Kältemittel ein Ozonabbaupotenzial von höchstens 0,0005 aufweist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
-<sup>7</sup> Das BAFU kann auf begründetes Gesuch befristete Ausnahmen von den Verboten nach Ziffer 2.1 Absatz 2 Buchstabe a gewähren, wenn:
-
-- a. nach dem Stand der Technik ein Ersatz fehlt;
-- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt wurde; und
-- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
+<sup>7</sup> …
 
 <sup>8</sup> Das BAFU kann auf begründetes Gesuch für eine bestimmte Anlage eine Ausnahme vom Verbot nach Ziffer 2.1 Absatz 3 gewähren, wenn:
 
-- a. nach dem Stand der Technik die Normen SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-1] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
+- a.
+
+  nach dem Stand der Technik ohne die Anwendung eines in der Luft stabilen Kältemittels die folgenden Normen nicht eingehalten werden können:
+
+  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021,
+  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 und SN EN IEC 60335-2-89:2022/AC:2023,
+  - 3\. IEC 60335-2-40:2022 ED 7.0;
+
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
-<sup>9</sup> Das BAFU kann im Einvernehmen mit dem SECO Absatz 8 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
+<sup>9</sup> Das BAFU kann im Einvernehmen mit dem SECO die Absätze 4<sup>ter</sup> Buchstabe a und 8 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzeralle 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch)
 
 ### 2.3 Betreiber- und Informationspflichten betreffend Ausnahmebewilligungen
 
@@ -4414,7 +4525,7 @@ Anhang 2.10[^t-29]
 
 ### 2.5 Vorschriften für die Abgabe von Kältemitteln
 
-Kältemittel sowie Anlagen, die bereits Kältemittel enthalten und deren Inbetriebnahme einen Eingriff in den Kältekreislauf erfordert, dürfen nur an Empfängerinnen abgegeben werden, welche die Anforderungen von Artikel 7 Absatz 1 Buchstabe b für den Umgang mit Kältemitteln erfüllen.
+Kältemittel sowie Anlagen, die bereits Kältemittel enthalten und deren Inbetriebnahme einen Eingriff in den Kältekreislauf erfordert, dürfen nur an Personen abgegeben werden, welche die Anforderungen von Artikel 7 Absatz 1 Buchstabe b für den Umgang mit Kältemitteln erfüllen.
 
 ### 3 Verwendung
 
@@ -4446,7 +4557,7 @@ Das Nachfüllen von ozonschichtabbauenden Kältemitteln in Geräte oder Anlagen 
 
 ### 3.3.1 Verbot
 
-Das Nachfüllen von in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen mit einer Füllmenge von 40 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr ist verboten.
+Das Nachfüllen von in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen ist verboten.
 
 ### 3.3.2 Ausnahmen
 
@@ -4460,7 +4571,7 @@ Das Verbot nach Ziffer. 3.3.1 gilt nicht für das Nachfüllen:
 - b. von nicht regenerierten in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen mit einer Nutzungstemperatur tiefer als –50°C, wenn regenerierte Kältemittel für solche Anlagen auf dem Markt nicht verfügbar sind;
 - c. von nicht regenerierten in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen, die aufgrund einer Ausnahmebewilligung gemäss Ziffer 2.2 Absatz 8 in Verkehr gebracht worden sind, wenn regenerierte Kältemittel auf dem Markt nicht verfügbar sind.
 
-### 3.4 Dichtigkeitskontrolle
+### 3.4 Dichtigkeitskontrolle und Erkennung von Leckagen
 
 <sup>1</sup> Die Inhaberinnen der folgenden Geräte und Anlagen müssen diese regelmässig, mindestens aber bei jedem Eingriff und bei jeder Wartung, auf ihre Dichtigkeit überprüfen lassen:
 
@@ -4468,7 +4579,12 @@ Das Verbot nach Ziffer. 3.3.1 gilt nicht für das Nachfüllen:
 - b. Geräte und Anlagen, die in der Luft stabile Kältemittel enthalten und deren Füllmenge mehr als 5 Tonnen CO<sub>2</sub>-Äquivalenten entspricht;
 - c. Kälte- und Klimaanlagen, die in Motorfahrzeugen verwendet werden und ozonschichtabbauende oder in der Luft stabile Kältemittel enthalten.
 
-<sup>2</sup> Bei Feststellung einer Undichtigkeit muss die Inhaberin umgehend die Instandstellung des Geräts oder der Anlage veranlassen.
+<sup>2</sup> Bei Feststellung einer Leckage muss die Inhaberin umgehend die Instandstellung des Geräts oder der Anlage veranlassen.
+
+<sup>3</sup> Die Inhaberinnen von Anlagen, die in der Luft stabile Kältemittel enthalten und deren Füllmenge 500 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr entspricht, müssen dafür sorgen, dass:
+
+- a. die Anlagen mit einem Leckage-Erkennungssystem mit Warnfunktion versehen sind;
+- b. das Leckage-Erkennungssystem mindestens einmal pro Jahr kontrolliert wird.
 
 ### 3.5 Wartungsheft
 
@@ -4487,7 +4603,11 @@ Das Verbot nach Ziffer. 3.3.1 gilt nicht für das Nachfüllen:
 
 ### 4 Entsorgung
 
-Wer Geräte oder Anlagen, die Kältemittel enthalten, zur Entsorgung entgegennimmt, muss die darin enthaltenen Kältemittel entnehmen und gesondert und fachgerecht entsorgen.
+<sup>1</sup> Kältemittel, welche einem Gerät oder einer Anlage entnommen werden und gemäss Ziffer 3.2 oder 3.3 nicht mehr nachgefüllt werden dürfen, gelten als Sonderabfälle nach dem vom UVEK gestützt auf Artikel 2 der Verordnung vom 22. Juni 2005[^annex210-lvlu1-lvl4-1] über den Verkehr mit Abfällen erlassenen Abfallverzeichnis.
+
+<sup>2</sup> Wer Geräte oder Anlagen, die Kältemittel enthalten, zur Entsorgung entgegennimmt, muss die darin enthaltenen Kältemittel entnehmen und gesondert und fachgerecht entsorgen.
+
+[^annex210-lvlu1-lvl4-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 
 ### 5 Meldepflicht
 
@@ -4522,9 +4642,9 @@ Nicht nach Ziffer 5.1 zu melden sind Anlagen, die der Landesverteidigung dienen.
 
 ### 6 Empfehlungen
 
-Das BAFU erlässt Empfehlungen:
+Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen:
 
-- a. zum Stand der Technik nach Ziffer 2.2 Absätzen 2–4 und 6–8;
+- a. zum Stand der Technik nach Ziffer 2.2 Absätze 2–4<sup>ter</sup>, 6 und 8;
 - b. zur Dichtigkeitskontrolle nach Ziffer 3.4;
 - c. zum Wartungsheft nach Ziffer 3.5.
 
@@ -4538,17 +4658,19 @@ Das BAFU erlässt Empfehlungen:
 
 <sup>4</sup> Anlagen und Geräte, für die Ziffer 2.2 Absätze 2–4 und 6 nicht anzuwenden sind, weil wegen einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monate hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
 
+<sup>5</sup> Anlagen, die in der Luft stabile Kältemittel enthalten, deren Füllmenge 500 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr entspricht und die vor dem 1. Januar 2025 in Betrieb genommen worden sind, dürfen noch bis zum 31. Dezember 2026 ohne Leckage-Erkennungssystem betrieben werden.
+
 [^annex210-lvlu1-lvl7-1]: [AS 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
 [^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex210-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Anhang 2.11[^t-30]
+Anhang 2.11[^t-31]
 
 (Art. 3)
 
 ## Löschmittel
 
-[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-31]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Begriffe
 
@@ -4713,13 +4835,13 @@ Für Löschgeräte und -anlagen, die in der Luft stabile Löschmittel enthalten 
 [^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex211-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Anhang 2.12[^t-31]
+Anhang 2.12[^t-32]
 
 (Art. 3)
 
 ## Aerosolpackungen
 
-[^t-31]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Anhang Ziff. 3 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-32]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Anhang Ziff. 3 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -4792,13 +4914,13 @@ Anhang 2.12[^t-31]
 
 Wer Aerosolpackungen mit in der Luft stabilen Stoffen selber abfüllt oder importiert, muss dem BAFU auf Verlangen für die letzten drei Jahre die Mengen der einzelnen Stoffe melden; die Angaben sind aufzuschlüsseln nach Einfuhr, Verbrauch im Inland und Ausfuhr sowie nach Verwendungszwecken.
 
-Anhang 2.13[^t-32]
+Anhang 2.13[^t-33]
 
 (Art. 3)
 
 ## Brennstoffzusätze
 
-[^t-32]: Bereinigt gemäss Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-33]: Bereinigt gemäss Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriff
 
@@ -4819,13 +4941,13 @@ Für die Beigabe von Brennstoffzusätzen zu Brennstoffen gelten die Anforderunge
 
 [^annex213-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Anhang 2.14[^t-33]
+Anhang 2.14[^t-34]
 
 (Art. 3)
 
 ## Kondensatoren und Transformatoren
 
-[^t-33]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-34]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Begriffe
 
@@ -4857,13 +4979,13 @@ Anhang 2.14[^t-33]
 
 [^annex214-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Anhang 2.15[^t-34]
+Anhang 2.15[^t-35]
 
 (Art. 3)
 
 ## Batterien
 
-[^t-34]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) und Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-35]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) und Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Begriffe
 
@@ -5075,13 +5197,13 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 
 <sup>3</sup> Die Gebührenpflicht nach Ziffer 6.1 gilt nicht für die vor dem 1. Januar 2012 in Verkehr gebrachten Batterien mit einem Gewicht über 5 kg.
 
-Anhang 2.16[^t-35]
+Anhang 2.16[^t-36]
 
 (Art. 3)
 
 ## Besondere Bestimmungen zu Metallen
 
-[^t-35]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAFU vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 27. Nov. 2023 des BAFU, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-36]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAFU vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 27. Nov. 2023 des BAFU, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Chrom(VI) in Zementen
 
@@ -5316,13 +5438,13 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 [^annex216-lvlu1-lvl7-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
-Anhang 2.17[^t-36]
+Anhang 2.17[^t-37]
 
 (Art. 3)
 
 ## Holzwerkstoffe
 
-[^t-36]: Bereinigt gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-37]: Bereinigt gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
 
 ### 1 Begriffe
 
@@ -5357,13 +5479,13 @@ Holzwerkstoffe dürfen durch eine Herstellerin nicht in Verkehr gebracht werden,
 
 Die Verbote nach Ziffer 2 treten am 1. August 2006 in Kraft.
 
-Anhang 2.18[^t-37]
+Anhang 2.18[^t-38]
 
 (Art. 3)
 
 ## Elektro- und Elektronikgeräte
 
-[^t-37]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) und Ziff. I der V vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-38]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) und Ziff. I der V vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Begriffe
 

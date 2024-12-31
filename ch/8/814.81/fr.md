@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2024-10-15
+version: 2025-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20241015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20241015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20241015/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 15 octobre 2024)
+du 18 mai 2005 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -398,7 +398,7 @@ Annexes[^t-1]
 
 ## 1 Dispositions concernant des substances déterminées
 
-[^t-1]: Mise à jour par le ch. I des O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) et du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-1]: Mise à jour par le ch. I des O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
 
 - 1\.1 Polluants organiques persistants
 - 1\.2 Substances organiques halogénées
@@ -418,11 +418,12 @@ Annexes[^t-1]
 - 1\.16 Substances per- et polyfluoroalkylées
 - 1\.17 Substances visées à l’annexe XIV du règlement (CE) n<sup>o</sup> 1907/2006
 - 1\.18 Phtalates
+- 1\.19 Siloxanes cycliques
 
 ## 2 Dispositions concernant des groupes de préparations et d’objets
 
 - 2\.1 Lessives
-- 2\.2 Produits de nettoyage, désodorisants et produits cosmétiques
+- 2\.2 Produits de nettoyage et désodorisants
 - 2\.3 Solvants
 - 2\.4 Produits biocides
 - 2\.5 Produits phytosanitaires
@@ -1209,7 +1210,7 @@ L’obligation de communiquer au sens du ch. 7.1.1, al. 1, ne s’applique pas:
 - a. les appareils ou les installations contenant plus de 1 kg d’hexafluorure de soufre dans des systèmes sous pression scellés selon la norme SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1], si une partie à un accord sectoriel prend la communication à sa charge;
 - b. les appareils ou les installations qui servent à la défense nationale.
 
-[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch) .
+[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 7.3 Communication des données par l’OFEV
 
@@ -1312,7 +1313,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -2640,17 +2641,101 @@ L’interdiction au sens du ch. 2, al. 1, ne s’applique pas:
 
 - b. à tous les autres objets contenant du phtalate qui ont été mis sur le marché pour la première fois avant le 7 juillet 2020.
 
+Annexe 1.19[^t-20]
+
+(art. 3)
+
+## Siloxanes cycliques
+
+[^t-20]: Introduite par le ch. I al. 1 de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
+
+### 1 Interdictions
+
+<sup>1</sup> Il est interdit de mettre sur le marché:
+
+- a. de l’octaméthylcyclotétrasiloxane (D4, n<sup>o</sup> CAS 556-67-2), du décaméthyl-cyclopentasiloxane (D5, n<sup>o</sup> CAS 541‑02‑6) et du dodécaméthylcyclohexasi-loxane (D6, n<sup>o</sup> CAS 540‑97‑6);
+- b. les substances, à l’exception des polymères de silicone, et les préparations qui contiennent 0,1 % masse ou plus d’une substance visée à la let. a.
+
+<sup>2</sup> Il est interdit d’employer les substances et les préparations visées à l’al. 1 comme solvant pour le nettoyage chimique de tissus, de cuirs et de fourrures.
+
+### 2 Exceptions
+
+<sup>1</sup> Les interdictions au sens du ch. 1, al. 1, ne s’appliquent pas à la mise sur le marché à des fins d’emploi professionnel ou commercial comme:
+
+- a. monomères pour la fabrication de polymères de silicone;
+- b. monomères pour la polymérisation;
+- c. produits intermédiaires pour la fabrication de composés siliciés;
+- d. produits de base pour la fabrication de préparations;
+- e. produits de base pour la fabrication d’objets dans des installations industrielles, y compris de substances et de préparations nécessaires à la fabrication de ces produits de base;
+- f. produits de traitement de surface non métalliques;
+- g. réactifs à des fins d’analyse et de recherche qui ne sont pas considérés comme des dispositifs médicaux au sens de l’art. 4, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^annex119-lvlu1-lvl2-1].
+
+<sup>2</sup> Les interdictions au sens du ch. 1, al. 1, ne s’appliquent pas à la mise sur le marché de:
+
+- a.
+
+  dispositifs médicaux au sens de l’art. 4, al. 1, let. b, LPTh qui:
+
+  - 1\. contiennent du D5 ou du D6 et sont employés pour la prévention de plaies, pour le traitement et les soins des cicatrices et des plaies ou pour la stomothérapie,
+  - 2\. sont composés de substances ou de combinaisons de substances et contiennent des polymères de silicone, si leur teneur en D4, D5 ou D6 ne dépasse pas 0,2 % masse,
+  - 3\. sont employés comme composition pour empreinte dentaire et contiennent des polymères de silicone, si leur teneur en D5 ne dépasse pas 0,3 % masse ou si celle en D6 ne dépasse pas 1 % masse;
+
+- b.
+
+  produits employés pour le nettoyage ou la restauration d’œuvres d’art et d’antiquités qui sont destinés à un emploi professionnel ou commercial et qui:
+
+  - 1\. sont composés de D5 ou contiennent du D5, ou
+  - 2\. contiennent des polymères de silicone, si leur teneur en D6 ne dépasse pas 1 % masse;
+
+- c.
+
+  préparations contenant des polymères de silicone employées dans:
+
+  - 1\. les adhésifs, les liants, les produits d’étanchéité, les pâtes à couler et le matériel d’impression en 3D, si leur teneur en D4, D5 ou D6 ne dépasse pas 1 % masse,
+  - 2\. les agents d’adhérence, si leur teneur en D4, D5 ou D6 ne dépasse pas 0,5 % masse,
+  - 3\. les revêtements protecteurs, si leur teneur en D4 ne dépasse pas 0,5 % masse et que celle en D5 ou D6 ne dépasse pas 0,3 % masse,
+  - 4\. les semelles de silicone pour les chevaux et les fers à cheval, si leur teneur en D4 ne dépasse pas 0,2 % masse et que celle en D5 ou D6 ne dépasse pas 1 % masse,
+  - 5\. les produits destinés à la tampographie, si leur teneur en D5 ou D6 ne dépasse pas 1 % masse,
+  - 6\. les produits destinés au développement de prototypes et à la fabrication de moules, ainsi que le quartz employé comme produit de remplissage pour les applications de haute performance, si leur teneur en D5 ne dépasse pas 1 % masse ou si celle en D6 ne dépasse pas 3 % masse.
+
+<sup>3</sup> Les interdictions au sens du ch. 1, al. 1, ne s’appliquent pas à la mise sur le marché de substances et préparations nécessaires à la fabrication des dispositifs médicaux visés à l’al. 2, let. a, des produits employés pour le nettoyage ou la restauration d’œuvres d’art et d’antiquités visés à l’al. 2, let. b, ou des préparations contenant des polymères de silicone visés à l’al. 2, let. c.
+
+<sup>4</sup> Les interdictions au sens du ch. 1, al. 1 et 2, ne s’appliquent pas:
+
+- a. à la mise sur le marché de D5 à des fins d’emploi pour le nettoyage chimique de tissus, cuirs et fourrures;
+- b. à l’emploi de D5 pour le nettoyage chimique de tissus, cuirs et fourrures, si les mesures disponibles selon l’état de la technique pour éviter les émissions de D5 ont été prises.
+
+[^annex119-lvlu1-lvl2-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+### 3 Dispositions transitoires
+
+<sup>1</sup> Les interdictions au sens du ch. 1, al. 1, ne s’appliquent pas:
+
+- a. aux substances et préparations suivantes, si elles ont été mises sur le marché pour la première fois avant la date mentionnée, ainsi qu’aux substances et préparations nécessaires à la fabrication de ces préparations:
+
+<table>
+<tr><th>Préparation</th><th>Date</th></tr>
+<tr><td>Produits cosmétiques au sens de l’art. 53 de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^annex119-lvlu1-lvl3-1], à l’exception de ceux qui se rincent et contiennent du D4 ou du D5</td><td>7 juin 2027</td></tr>
+<tr><td>Médicaments et dispositifs médicaux au sens de l’art. 4, al. 1, let. a et b, LPTh</td><td>7 juin 2031</td></tr>
+</table>
+
+- b. à toutes les autres substances et préparations qui ont été mises sur le marché pour la première fois avant le 7 juin 2026, à l’exception des produits cosmétiques rinçables au sens de l’art. 53 LPTh qui contiennent du D4 ou du D5.
+
+<sup>2</sup> Les interdictions au sens du ch. 1, al. 2, ne s’appliquent pas à l’emploi de D4 et de D6 comme substance et dans des préparations pour le nettoyage chimique de tissus, cuirs et fourrures jusqu’au 6 juin 2026.
+
+[^annex119-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+
 Annexe 2
 
 ## Dispositions concernant des groupes de préparations et d’objets
 
-Annexe 2.1[^t-20]
+Annexe 2.1[^t-21]
 
 (art. 3)
 
 ## Lessives
 
-[^t-20]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), l’annexe ch. 2 de l’O du 14 janv. 2009 ([RO 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-21]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), l’annexe ch. 2 de l’O du 14 janv. 2009 ([RO 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Définition
 
@@ -2805,13 +2890,13 @@ Annexe 2.1[^t-20]
 
 <sup>4</sup> Les dispositions détaillées aux al. 2 et 3 s’appliquent jusqu’au moment où l’autorité compétente a statué sur la demande de dérogation.
 
-Annexe 2.2[^t-21]
+Annexe 2.2[^t-22]
 
 (art. 3)
 
-## Produits de nettoyage, désodorisants et produits cosmétiques
+## Produits de nettoyage et désodorisants
 
-[^t-21]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), l’annexe ch. 2 de l’O du 14 janv. 2009 ([RO 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), le ch. I de l’O de l’OFEV du 19 oct. 2009 ([RO 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Erratum du 15 oct. 2024, ne concerne que le texte italien ([RO 2024 557](https://fedlex.data.admin.ch/eli/oc/2024/557)).
+[^t-22]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), l’annexe ch. 2 de l’O du 14 janv. 2009 ([RO 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), le ch. I de l’O de l’OFEV du 19 oct. 2009 ([RO 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I al. 2 de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
 
 ### 1 Définition
 
@@ -2858,8 +2943,6 @@ Annexe 2.2[^t-21]
 <sup>4</sup> Il est interdit de mettre sur le marché des désodorisants destinés à être utilisés dans des toilettes, des logements privés, des bureaux ou d’autres locaux accessibles au public si leur teneur en 1,4-dichlorobenzène (n<sup>o</sup> CAS 106-46-7) est égale ou supérieure à 1 % masse.
 
 <sup>5</sup> Il est interdit d’employer du 1,4-dichlorobenzène aux fins mentionnées à l’al. 4.
-
-<sup>6</sup> Il est interdit de mettre sur le marché des produits cosmétiques rinçables dont la teneur en octaméthylcyclotétrasiloxane (D4, n<sup>o</sup> CAS 556-67-2) ou en décaméthylcyclopentasiloxane (D5, n<sup>o</sup> CAS 541-02-6) est égale ou supérieure à 0,1 % masse.
 
 [^annex22-lvlu1-lvl2-1]: JOCE L 104 du 8.4.2004, p. 1, modifiée en dernier lieu par le Règlement (CE) n<sup>o</sup> 551/2009 de la Commission, du 25 juin 2009 (JOCE L 164 du 26.6.2009, p. 3). Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être retirés contre acquittement des frais ou consultés gratuitement auprès de l’organe de réception des notifications, 3003 Berne; ils peuvent également être téléchargés à l’adresse [www.cheminfo.ch](http://www.cheminfo.ch).
 [^annex22-lvlu1-lvl2-2]: Union internationale de chimie pure et appliquée.
@@ -2991,13 +3074,13 @@ Annexe 2.2[^t-21]
 
 <sup>6</sup> Le mode d’emploi des produits pour lave-vaisselle à usage domestique qui sont mis en circulation selon l’al. 5 doit indiquer le dosage à respecter afin qu’il ne soit pas utilisé plus de 2,5 grammes de phosphore par cycle de lavage.
 
-Annexe 2.3[^t-22]
+Annexe 2.3[^t-23]
 
 (art. 3)
 
 ## Solvants
 
-[^t-22]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-23]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Méthanol
 
@@ -3139,13 +3222,13 @@ Le canton peut exiger des détenteurs de déchets de solvants halogénés ou des
 [^annex23-lvlu1-lvl6-1]: [RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
 [^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Annexe 2.4[^t-23]
+Annexe 2.4[^t-24]
 
 (art. 3)
 
 ## Produits biocides
 
-[^t-23]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Produits pour la conservation du bois
 
@@ -3316,13 +3399,13 @@ Les interdictions au sens de la présente annexe ne s’appliquent pas à la mis
 - d. socles de pylônes électriques;
 - e. autres installations ayant des fins comparables aux installations au sens des let. a à d, et qui sont construites en dehors des zones habitées; l’OFEV édicte des recommandations destinées aux autorités d’exécution après avoir consulté les offices fédéraux concernés.
 
-Annexe 2.5[^t-24]
+Annexe 2.5[^t-25]
 
 (art. 3)
 
 ## Produits phytosanitaires
 
-[^t-24]: Mise à jour par le ch. I 3 de l’O du 29 juin 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 9 ch. 1 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et le ch. I de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-25]: Mise à jour par le ch. I 3 de l’O du 29 juin 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 9 ch. 1 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et le ch. I de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Emploi
 
@@ -3569,13 +3652,13 @@ Quiconque souhaite exporter ou sortir d’un entrepôt douanier ouvert, d’un e
 [^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Annexe 2.6[^t-25]
+Annexe 2.6[^t-26]
 
 (art. 3)
 
 ## Engrais
 
-[^t-25]: Mise à jour par l’annexe de l’O du 14 nov. 2007 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), l’annexe 9 ch. 1 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et l’annexe 5 ch. II 3 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^t-26]: Mise à jour par l’annexe de l’O du 14 nov. 2007 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), l’annexe 9 ch. 1 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et l’annexe 5 ch. II 3 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### 1 Définitions
 
@@ -3941,13 +4024,13 @@ Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent égalemen
 
 <sup>2</sup> Les autorités cantonales déterminent la cause du dépassement des valeurs indicatives au sens du ch. 2.2.1.10, al. 3, et veillent à ce que le compost et les digestats ne soient pas remis si leur épandage peut présenter un danger pour la fertilité du sol.
 
-Annexe 2.7[^t-26]
+Annexe 2.7[^t-27]
 
 (art. 3)
 
 ## Produits à dégeler
 
-[^t-26]: Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-27]: Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Définition
 
@@ -4005,13 +4088,13 @@ L’OFEV peut autoriser certains utilisateurs à employer des produits à dégel
 
 <sup>3</sup> Les cantons veillent à ce que soient fixées, pour les routes, les chemins et les places du domaine public, les conditions et les modalités de l’emploi de produits à dégeler ou du recours à d’autres procédés pour lutter contre le verglas et la neige glissante.
 
-Annexe 2.8[^t-27]
+Annexe 2.8[^t-28]
 
 (art. 3)
 
 ## Peintures et vernis
 
-[^t-27]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) et le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-28]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) et le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Définitions
 
@@ -4046,13 +4129,13 @@ Annexe 2.8[^t-27]
 
 La mise sur le marché, par le fabricant, de peintures et de vernis contenant du plomb ainsi que d’objets qui ont été traités avec ces peintures et ces vernis est encore autorisée jusqu’au 31 juillet 2006.
 
-Annexe 2.9[^t-28]
+Annexe 2.9[^t-29]
 
 (art. 3)
 
 ## Matières plastiques, leur monomères et additifs
 
-[^t-28]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Définitions
 
@@ -4172,7 +4255,7 @@ Annexe 2.9[^t-28]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4219,13 +4302,13 @@ Après avoir consulté le secteur d’activité concerné, l’OFEV édicte des 
 
 <sup>8</sup> Les mousses synthétiques et les objets contenant de telles mousses auxquels le ch. 3, al. 3<sup>bis</sup>, ne s’applique plus en raison de l’apparition d’un substitut à la suite d’une modification de l’état de la technique peuvent encore être fabriqués et importés à titre professionnel ou commercial pendant six mois et remis à des tiers durant six autres mois.
 
-Annexe 2.10[^t-29]
+Annexe 2.10[^t-30]
 
 (art. 3)
 
 ## Fluides frigorigènes
 
-[^t-29]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’erratum du 9 juil. 2019 ([RO 2019 2113](https://fedlex.data.admin.ch/eli/oc/2019/392)), l’annexe ch. 2 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I de l’O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’erratum du 9 juil. 2019 ([RO 2019 2113](https://fedlex.data.admin.ch/eli/oc/2019/392)), l’annexe ch. 2 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I de l’O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Définitions
 
@@ -4258,23 +4341,23 @@ Annexe 2.10[^t-29]
 - a. des fluides frigorigènes appauvrissant la couche d’ozone dont le potentiel d’appauvrissement de la couche d’ozone est supérieur à 0,0005;
 - b. des appareils et des installations fonctionnant avec des fluides frigorigènes appauvrissant la couche d’ozone.
 
-<sup>2</sup> Il est interdit de fabriquer, de mettre sur le marché et d’importer à titre privé les appareils et les installations mobiles suivants fonctionnant avec des fluides frigorigènes stables dans l’air:
+<sup>2</sup> Il est interdit de fabriquer, de mettre sur le marché et d’importer à titre privé les appareils et installations suivants fonctionnant avec un fluide frigorigène stable dans l’air:
 
-- a. appareils domestiques de réfrigération et de congélation;
-- b. appareils commerciaux de réfrigération et de congélation;
-- c. appareils domestiques équipés de pompes à chaleur, en particulier déshumidificateurs et séchoirs;
-- d. climatiseurs;
-- e. systèmes de climatisation employés dans les véhicules à moteur;
-- f. installations de réfrigération mobiles pour le transport de marchandises.
+- a. appareils de réfrigération et de congélation servant à la réfrigération de denrées alimentaires ou de biens périssables;
+- b. appareils servant au refroidissement ou au chauffage de locaux;
+- c. appareils servant au refroidissement ou au chauffage de procédés, y compris déshumidificateurs et séchoirs;
+- d. installations de climatisation mobiles employées dans les véhicules à moteur, les véhicules ferroviaires ou les bateaux;
+- e. installations de réfrigération mobiles pour le transport de denrées alimentaires ou de biens périssables.
 
-<sup>3</sup> Il est interdit de mettre sur le marché les installations stationnaires suivantes fonctionnant avec des fluides frigorigènes stables dans l’air:
+<sup>3</sup> Il est interdit de mettre sur le marché les installations stationnaires suivantes fonctionnant avec un fluide frigorigène stable dans l’air:
 
 - a.
 
   installations de climatisation servant au refroidissement de bâtiments:
 
-  - 1\. d’une puissance frigorifique supérieure à 400 kW, ou
-  - 2\. si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100;
+  - 1\. d’une puissance frigorifique supérieure à 400 kW,
+  - 2\. si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100, ou
+  - 3\. équipées d’un élément intérieur et d’un élément extérieur (installations de climatisation bi-bloc) et dotées d’une capacité de moins de 3 kg par circuit frigorifique, si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 750;
 
 - b.
 
@@ -4283,7 +4366,9 @@ Annexe 2.10[^t-29]
   - 1\. le froid négatif ou la surgélation avec une puissance frigorifique supérieure à 30 kW, ou
   - 2\. le froid positif avec une puissance frigorifique supérieure à 40 kW, ou
   - 3\. le froid négatif ou la surgélation avec une puissance frigorifique supérieure à 8 kW si le froid négatif ou la surgélation peuvent être combinés avec du froid positif, ou
-  - 4\. le froid positif, le froid négatif ou la surgélation si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 1500;
+  - 4\. le froid positif, le froid négatif ou la surgélation, si:
+  - i. le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 1500, ou que
+  - ii. l’installation est autonome et que le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 150;
 
 - c.
 
@@ -4295,10 +4380,11 @@ Annexe 2.10[^t-29]
 
 - d.
 
-  pompes à chaleur pour la distribution de chaleur de proximité ou à distance:
+  pompes à chaleur servant à la distribution de chaleur de proximité ou à distance:
 
-  - 1\. d’une puissance frigorifique supérieure à 600 kW, ou
-  - 2\. si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100;
+  - 1\. d’une puissance frigorifique supérieure à 600 kW,
+  - 2\. si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100, ou
+  - 3\. équipées d’un élément intérieur et d’un élément extérieur (pompes à chaleur bi-bloc) et dotées d’une capacité de moins de 3 kg par circuit frigorifique, si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 750;
 
 - e.
 
@@ -4307,10 +4393,11 @@ Annexe 2.10[^t-29]
   - 1\. patinoires artificielles permanentes,
   - 2\. installations temporaires, si le fluide frigorigène stable dans l’air employé présente un potentiel d’effet de serre supérieur à 4000.
 
-<sup>4</sup> Il est interdit de mettre sur le marché des installations destinées à l’utilisation d’air froid qui fonctionnent avec des fluides frigorigènes stables dans l’air et ne sont pas équipées d’un circuit frigoporteur, si elles:
+<sup>4</sup> Il est interdit de mettre sur le marché des installations de réfrigération qui fonctionnent avec des fluides frigorigènes stables dans l’air et ne sont pas équipées d’un circuit frigoporteur, si elles:
 
-- a. utilisent au moins trois unités d’évaporation et présentent une puissance frigorifique supérieure à 80 kW, ou qu’elles
-- b. utilisent plus de 40 unités d’évaporation.
+- a. utilisent au moins trois unités d’évaporation et présentent une puissance frigorifique supérieure à 80 kW;
+- b. utilisent plus de 40 unités d’évaporation, ou
+- c. sont autonomes et que le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 150.
 
 <sup>5</sup> Il est interdit de mettre sur le marché des installations comportant des condenseurs refroidis à l’air qui contiennent un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre supérieur à 4000, sous réserve des potentiels d’effet de serre maximaux admis selon le ch. 2.1, al. 3.
 
@@ -4336,9 +4423,9 @@ Annexe 2.10[^t-29]
 
 ### 2.2 Exceptions
 
-<sup>1</sup> Les interdictions au sens du ch. 2.1, al. 1, let. b, et 2, let. a, c et d, ne s’appliquent pas aux appareils faisant partie d’un ménage, qui sont mis sur le marché à titre privé ou qui sont importés ou exportés à titre privé.
+<sup>1</sup> Les interdictions au sens du ch. 2.1, al. 1, let. b, et 2, let. a à c, ne s’appliquent pas aux appareils faisant partie d’un ménage, qui sont mis sur le marché à titre privé ou qui sont importés ou exportés à titre privé.
 
-<sup>2</sup> Les interdictions au sens du ch. 2.1, al. 2, let. b à f, ne s’appliquent pas aux appareils et installations si:
+<sup>2</sup> Les interdictions au sens du ch. 2.1, al. 2, ne s’appliquent pas aux appareils et installations si:
 
 - a. selon l’état de la technique, on ne connaît pas encore de substitut;
 - b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
@@ -4357,7 +4444,28 @@ Annexe 2.10[^t-29]
 - c. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
 - d. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
+<sup>4bis</sup> Les interdictions au sens du ch. 2.1, al. 3, let. c, ch. 2 et 3, ne s’appliquent pas aux installations et aux applications de refroidissement qui présentent à chaque fois une température d’évaporation égale ou inférieure à ‑90 °C, si:
+
+- a. selon l’état de la technique, on ne connaît pas encore de substitut;
+- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
+- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+
+<sup>4ter</sup> L’interdiction au sens du ch. 2.1, al. 4, let. c, ne s’applique pas si:
+
+- a.
+
+  l’état de la technique ne permet pas, sans l’utilisation d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre égal ou supérieur à 150, de respecter les normes suivantes[^annex210-lvlu1-lvl2-lvl22-1]:
+
+  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 et SN EN 378-3:2017+A1:2021,
+  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 et SN EN IEC 60335-2-89:2022/AC:2023,
+  - 3\. IEC 60335-2-40:2022 ED 7.0;
+
+- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
+- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+
 <sup>5</sup> Pour les domaines d’application mentionnés au ch. 2.1, al. 3, les installations existantes mises sur le marché conformément au droit et dont la mise sur le marché est soumise à autorisation peuvent être remises à un tiers sans nouvelle autorisation de mise sur le marché si elles ne sont pas transformées et ne changent pas d’emplacement.
+
+<sup>5bis</sup> Les installations existantes mises sur le marché conformément au droit peuvent être équipées d’éléments supplémentaires si ceux-ci remplissent les exigences légales fixées au ch. 2.1 concernant le type et la capacité du fluide frigorigène ainsi que les circuits secondaires qui s’appliquent à la mise sur le marché d’une installation globale de même nature.
 
 <sup>6</sup> L’interdiction au sens du ch. 2.1, al. 1, let. b, ne s’applique pas si:
 
@@ -4365,19 +4473,22 @@ Annexe 2.10[^t-29]
 - b. le fluide frigorigène présente un potentiel d’appauvrissement de la couche d’ozone de 0,0005 au plus, et que
 - c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>7</sup> Sur demande motivée, l’OFEV peut octroyer des dérogations temporaires aux interdictions au sens du ch. 2.1, al. 2, let. a, si:
-
-- a. selon l’état de la technique, on ne connaît pas encore de substitut;
-- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+<sup>7</sup> …
 
 <sup>8</sup> Sur demande motivée, l’OFEV peut octroyer une dérogation à l’interdiction au sens du ch. 2.1, al. 3, pour une installation déterminée, si:
 
-- a. l’état de la technique ne permet pas de respecter les normes SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 et SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-1] sans l’utilisation d’un fluide frigorigène stable dans l’air;
+- a.
+
+  l’état de la technique ne permet pas, sans l’utilisation d’un fluide frigorigène stable dans l’air, de respecter les normes suivantes:
+
+  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 et SN EN 378-3:2017+A1:2021,
+  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 et SN EN IEC 60335-2-89:2022/AC:2023,
+  - 3\. IEC 60335-2-40:2022 ED 7.0;
+
 - b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
 - c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>9</sup> En accord avec le SECO, l’OFEV peut adapter l’al. 8, let. a, lorsque les normes qui y sont désignées sont modifiées.
+<sup>9</sup> En accord avec le SECO, l’OFEV peut adapter les al. 4<sup>ter</sup>, let. a, et 8, let. a, lorsque les normes qui y sont désignées sont modifiées.
 
 [^annex210-lvlu1-lvl2-lvl22-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
@@ -4409,7 +4520,7 @@ Annexe 2.10[^t-29]
 
 ### 2.5 Prescriptions pour la remise de fluides frigorigènes
 
-La remise de fluides frigorigènes ou d’installations préchargées avec des fluides frigorigènes et dont la mise en service nécessite une intervention sur le circuit frigorifique est autorisée uniquement à des acquéreurs satisfaisant aux exigences fixées à l’art. 7, al. 1, let. b, pour l’utilisation de fluides frigorigènes.
+La remise de fluides frigorigènes ou d’installations préchargées avec des fluides frigorigènes et dont la mise en service nécessite une intervention sur le circuit frigorifique est autorisée uniquement à des personnes satisfaisant aux exigences fixées à l’art. 7, al. 1, let. b, pour l’utilisation de fluides frigorigènes.
 
 ### 3 Emploi
 
@@ -4441,7 +4552,7 @@ Il est interdit de remplir des appareils ou des installations de fluides frigori
 
 ### 3.3.1 Interdiction
 
-Il est interdit de remplir des installations d’une capacité de 40 tonnes d’équivalents CO<sub>2</sub> ou plus avec des fluides frigorigènes stables dans l’air dont le potentiel d’effet de serre est de 2500 ou plus.
+Il est interdit de remplir des installations avec des fluides frigorigènes stables dans l’air dont le potentiel d’effet de serre est égal ou supérieur à 2500.
 
 ### 3.3.2 Exceptions
 
@@ -4455,7 +4566,7 @@ L’interdiction visée au ch. 3.3.1 ne s’applique pas au remplissage:
 - b. avec des fluides frigorigènes stables dans l’air non-régénérés dont le potentiel d’effet de serre est de 2500 ou plus dans des installations avec une température d’utilisation inférieure à –50°C, si des fluides frigorigènes régénérés ne sont pas disponibles sur le marché pour ces installations;
 - c. avec des fluides frigorigènes stables dans l’air non-régénérés dont le potentiel d’effet de serre est de 2500 ou plus dans des installations qui ont été mises sur le marché en vertu d’une dérogation au sens du ch. 2.2, al. 8, si des fluides frigorigènes régénérés pour ces installations ne sont pas disponibles sur le marché.
 
-### 3.4 Contrôle d’étanchéité
+### 3.4 Contrôle d’étanchéité et détection des fuites
 
 <sup>1</sup> Les détenteurs des appareils et des installations suivants doivent les soumettre régulièrement à un contrôle d’étanchéité, au moins lors de chaque intervention et de chaque entretien:
 
@@ -4463,7 +4574,12 @@ L’interdiction visée au ch. 3.3.1 ne s’applique pas au remplissage:
 - b. appareils et installations qui contiennent des fluides frigorigènes stables dans l’air et dont la capacité correspond à plus de 5 tonnes d’équivalents CO<sub>2</sub>;
 - c. systèmes de réfrigération et de climatisation employés dans les véhicules à moteur et contenant des fluides frigorigènes appauvrissant la couche d’ozone ou des fluides frigorigènes stables dans l’air.
 
-<sup>2</sup> Si un défaut d’étanchéité est constaté, le détenteur doit immédiatement faire remettre l’appareil ou l’installation en état.
+<sup>2</sup> Si une fuite est constatée, le détenteur doit immédiatement faire remettre l’appareil ou l’installation en état.
+
+<sup>3</sup> Les détenteurs d’installations qui contiennent des fluides frigorigènes stables dans l’air et dont la capacité est égale ou supérieure à 500 tonnes d’équivalents CO<sub>2</sub> doivent veiller à ce que:
+
+- a. les installations soient équipées d’un système de détection des fuites avec fonction d’alerte;
+- b. ce système de détection des fuites soit contrôlé au moins une fois par an.
 
 ### 3.5 Livret d’entretien
 
@@ -4482,7 +4598,11 @@ L’interdiction visée au ch. 3.3.1 ne s’applique pas au remplissage:
 
 ### 4 Élimination
 
-Toute personne qui prend en charge, en vue de leur élimination, des appareils ou des installations contenant des fluides frigorigènes doit retirer les fluides frigorigènes qui s’y trouvent et les éliminer séparément selon les règles.
+<sup>1</sup> Les fluides frigorigènes retirés d’appareils ou d’installations qui ne peuvent plus être remplis en vertu du ch. 3.2 ou 3.3 sont considérés comme des déchets spéciaux au sens de la liste des déchets établie par le DETEC en vertu de l’art. 2 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets[^annex210-lvlu1-lvl4-1].
+
+<sup>2</sup> Toute personne qui prend en charge, en vue de leur élimination, des appareils ou des installations contenant des fluides frigorigènes doit retirer les fluides frigorigènes qui s’y trouvent et les éliminer séparément de manière appropriée.
+
+[^annex210-lvlu1-lvl4-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 
 ### 5 Obligation de communiquer
 
@@ -4517,9 +4637,9 @@ Les installations qui servent à la défense nationale ne sont pas concernées p
 
 ### 6 Recommandations
 
-L’OFEV édicte des recommandations concernant:
+Après avoir consulté la branche concernée, l’OFEV édicte des recommandations concernant:
 
-- a. l’état de la technique au sens du ch. 2.2, al. 2 à 4 et 6 à 8;
+- a. l’état de la technique au sens du ch. 2.2, al. 2 à 4<sup>ter</sup>, 6 et 8;
 - b. le contrôle d’étanchéité au sens du ch. 3.4;
 - c. le livret d’entretien au sens du ch. 3.5.
 
@@ -4533,17 +4653,19 @@ L’OFEV édicte des recommandations concernant:
 
 <sup>4</sup> Les appareils et installations auxquels le ch. 2.2, al. 2 à 4 et 6, ne s’applique pas, car il existe un substitut en raison d’une modification de l’état de la technique, peuvent encore être fabriqués, importés à des fins professionnelles ou commerciales pendant six mois et remis à des tiers durant six mois supplémentaires.
 
+<sup>5</sup> Les installations qui contiennent des fluides frigorigènes stables dans l’air, dont la capacité est égale ou supérieure à 500 tonnes d’équivalents CO<sub>2</sub> et qui ont été mises en service avant le 1<sup>er</sup> janvier 2025 peuvent être exploitées jusqu’au 31 décembre 2026 sans système de détection des fuites.
+
 [^annex210-lvlu1-lvl7-1]: [RO 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
 [^annex210-lvlu1-lvl7-2]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 [^annex210-lvlu1-lvl7-3]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Annexe 2.11[^t-30]
+Annexe 2.11[^t-31]
 
 (art. 3)
 
 ## Agents d’extinction
 
-[^t-30]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-31]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Définitions
 
@@ -4704,13 +4826,13 @@ L’étiquetage au sens du ch. 8 dans la version du 10 décembre 2010 de l’ORR
 [^annex211-lvlu1-lvl9-1]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 [^annex211-lvlu1-lvl9-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Annexe 2.12[^t-31]
+Annexe 2.12[^t-32]
 
 (art. 3)
 
 ## Générateurs d’aérosols
 
-[^t-31]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par l’annexe ch. 3 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), l’erratum du 20 nov. 2018 ([RO 2018 4093](https://fedlex.data.admin.ch/eli/oc/2018/665)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-32]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par l’annexe ch. 3 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), l’erratum du 20 nov. 2018 ([RO 2018 4093](https://fedlex.data.admin.ch/eli/oc/2018/665)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Définitions
 
@@ -4783,13 +4905,13 @@ Annexe 2.12[^t-31]
 
 Toute personne qui remplit elle-même des générateurs d’aérosols de substances stables dans l’air ou qui importe ce type de générateurs d’aérosols doit communiquer sur demande à l’OFEV les quantités des différentes substances employées durant les trois années précédentes; les données doivent être ventilées entre importation, consommation dans le pays et exportation, ainsi que selon les usages prévus.
 
-Annexe 2.13[^t-32]
+Annexe 2.13[^t-33]
 
 (art. 3)
 
 ## Additifs pour combustibles
 
-[^t-32]: Mise à jour par l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-33]: Mise à jour par l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Définition
 
@@ -4810,13 +4932,13 @@ L’ajout d’additifs aux combustibles est régi par l’annexe 5 de l’ordonn
 
 [^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Annexe 2.14[^t-33]
+Annexe 2.14[^t-34]
 
 (art. 3)
 
 ## Condensateurs et transformateurs
 
-[^t-33]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-34]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Définitions
 
@@ -4848,13 +4970,13 @@ Annexe 2.14[^t-33]
 
 [^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Annexe 2.15[^t-34]
+Annexe 2.15[^t-35]
 
 (art. 3)
 
 ## Piles
 
-[^t-34]: Nouvelle teneur selon le ch. I 5 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Mise à jour par le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. II 2 de l’O du 20 oct. 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) et le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-35]: Nouvelle teneur selon le ch. I 5 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Mise à jour par le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. II 2 de l’O du 20 oct. 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) et le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Définitions
 
@@ -5066,13 +5188,13 @@ L’organisation n’est autorisée à affecter le produit de la taxe qu’au fi
 
 <sup>3</sup> L’assujettissement à la taxe au sens du ch. 6.1 ne vaut pas pour les piles d’un poids supérieur à 5 kg qui ont été mises sur le marché avant le 1<sup>er</sup> janvier 2012.
 
-Annexe 2.16[^t-35]
+Annexe 2.16[^t-36]
 
 (art. 3)
 
 ## Dispositions spéciales concernant les métaux
 
-[^t-35]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O de l’OFEV du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O de l’OFEV du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-36]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O de l’OFEV du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O de l’OFEV du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Chrome(VI) dans les ciments
 
@@ -5307,13 +5429,13 @@ Les matériaux et composants pour véhicules doivent être étiquetés ou désig
 
 [^annex216-lvlu1-lvl7-1]: Voir la note relative au ch. 5.3, al. 1.
 
-Annexe 2.17[^t-36]
+Annexe 2.17[^t-37]
 
 (art. 3)
 
 ## Matériaux en bois
 
-[^t-36]: Mise à jour par le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-37]: Mise à jour par le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
 
 ### 1 Définitions
 
@@ -5348,13 +5470,13 @@ Il est interdit au fabricant de mettre sur le marché des matériaux en bois qui
 
 Les interdictions au sens du ch. 2 entrent en vigueur le 1<sup>er</sup> août 2006.
 
-Annexe 2.18[^t-37]
+Annexe 2.18[^t-38]
 
 (art. 3)
 
 ## Équipements électriques et électroniques
 
-[^t-37]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I des O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) et du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-38]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I des O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) et du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Définitions
 
