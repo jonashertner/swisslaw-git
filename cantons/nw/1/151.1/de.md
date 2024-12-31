@@ -4,13 +4,13 @@ number: "151.1"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrates
 short: "Landratsgesetz, LRG"
 language: de
-version: 2024-02-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-25
 adopted: 1998-02-04
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1252/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1252/pdf_file"
 
 (Landratsgesetz, LRG)
 
-vom 04.02.1998 (Stand 01.02.2024)
+vom 04.02.1998 (Stand 01.01.2025)
 
 Der Landrat von Nidwalden,
 
@@ -176,6 +176,7 @@ beschliesst:
 - 10\. Ausübung der Oberaufsicht über die kantonalen Gewalten;
 - 11\. Kenntnisnahme des Legislaturprogramms und der Jahreszielplanung;
 - 11a. Genehmigung beziehungsweise Kenntnisnahme des Finanzplanes;
+- 11b. Stellungnahme zu Planungsberichten des Regierungsrates;
 - 12\. Festlegung des Kantonswappens;
 - 13\. Genehmigung von Grenzbereinigungen mit Nachbarkantonen unter Vorbehalt der Zustimmung der betroffenen Gemeinde.
 
@@ -630,7 +631,7 @@ beschliesst:
 
 <sup>1</sup> Die Parlamentarische Initiative beantragt in der Form des ausgearbeiteten Entwurfes oder der allgemeinen Anregung den Erlass, die Änderung, die Ergänzung oder die Aufhebung von Bestimmungen der Gesetzgebung; wird die Initiative von mindestens einem Drittel der Ratsmitglieder vorläufig unterstützt, überweist sie der Rat zur Berichterstattung und Antragstellung an eine Kommission.
 
-<sup>2</sup> Die Motion beantragt die Einleitung einer Verfassungs- oder Gesetzesänderung oder den Erlass einer in die Zuständigkeit des Landrates fallenden Verfügung oder eines Beschlusses.
+<sup>2</sup> Die Motion beantragt die Einleitung einer Verfassungs- oder Gesetzesänderung oder den Erlass eines in die Zuständigkeit des Landrates fallenden Beschlusses oder einen Planungsbericht des Regierungsrates über wichtige Planungen der Staatstätigkeit.
 
 <sup>3</sup> Das Postulat beauftragt den Regierungsrat, einen Gegenstand oder eine Massnahme aus dem Geschäftsbereich des Landrates, des Regierungsrates oder der Verwaltung zu prüfen; es kann auch einen Bericht über einen anderen Gegenstand oder die Einsetzung einer Sachverständigenkommission verlangen.
 
@@ -640,7 +641,7 @@ beschliesst:
 
 <sup>6</sup> Das Einfache Auskunftsbegehren verlangt vom Regierungsrat Antwort auf eine Frage von aktuellem kantonalem Interesse; die Frage wird an der nächstfolgenden Landratssitzung mündlich beantwortet.
 
-<sup>7</sup> Die Anmerkung ist eine kurze Feststellung oder eine Anregung zum Legislaturprogramm, zur Jahreszielplanung, zum Finanzplan oder zum Rechenschaftsbericht des Regierungsrates beziehungsweise einer selbstständigen kantonalen Anstalt.
+<sup>7</sup> Die Anmerkung ist eine kurze Feststellung oder eine Anregung zum Legislaturprogramm, zur Jahreszielplanung, zum Finanzplan, zu Planungsberichten oder zum Rechenschaftsbericht des Regierungsrates beziehungsweise einer selbstständigen kantonalen Anstalt.
 
 ## 5 Übergangs- und Schlussbestimmungen
 
