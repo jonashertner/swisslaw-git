@@ -4,13 +4,13 @@ number: "820.210"
 title: "Ordinanza sull'energia del Cantone dei Grigioni"
 short: OGE
 language: it
-version: 2021-01-01
-corrected: 2021-06-28
-version_adopted: 2020-10-19
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2024-12-10
 adopted: 2020-10-19
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3109/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3498/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3109/pdf_file"
 
 (OGE)
 
-del 19.10.2020 (stato 01.01.2021)
+del 19.10.2020 (stato 01.01.2025)
 
 emanata dal Governo il 19 ottobre 2020
 
@@ -531,7 +531,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> Hanno diritto a sussidi componenti edilizie della superficie di tamponamento termico, per le quali è richiesto in particolare che soddisfino i requisiti energetici conformemente all'allegato 12. Le finestre hanno diritto a sussidi soltanto se viene risanata contemporaneamente la superficie circostante della facciata o del tetto.
 
-<sup>3</sup> Per risanamenti completi il Cantone può concedere un bonus sul sussidio. È dato un risanamento totale quando tutte e tre le superfici principali di un edificio (facciata, finestre, tetto/solaio) vengono rinnovate contemporaneamente e soddisfano le condizioni di promozione.
+<sup>3</sup> …
 
 <sup>4</sup> Quale condizione per il versamento di sussidi promozionali può essere richiesto un certificato energetico cantonale degli edifici con obbligo di consulenza (CECE Plus).
 
@@ -539,15 +539,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Pompe di calore, riscaldamenti a legna e impianti solari termici**
 
-<sup>1</sup> Tra gli impianti tecnici aventi diritto a sussidi conformemente all'articolo 20 e all'articolo 22 della legge rientrano impianti per il riscaldamento di locali e per l'acqua calda sanitaria in edifici esistenti, come in particolare pompe di calore, riscaldamenti a legna e impianti solari termici. Per reti di teleriscaldamento valgono le prescrizioni previste dall'articolo 48.
+<sup>1</sup> Tra gli impianti tecnici aventi diritto a sussidi conformemente all'articolo 20 della legge rientrano impianti per il riscaldamento di locali e per l'acqua calda sanitaria in edifici esistenti, come in particolare riscaldamenti a legna, impianti solari termici, pompe di calore salamoia/acqua, pompe di calore acqua/acqua fino a 70 kW di potenza nominale e pompe di calore aria/acqua indipendentemente dalla potenza nominale. Per reti di teleriscaldamento valgono le prescrizioni previste dall'articolo 48.
 
-<sup>2</sup> Nel caso di impianti per la produzione di calore, solo il sistema di riscaldamento principale ha diritto a sussidi. La quantità di calore deve essere prodotta per almeno il 75 per cento con energia rinnovabile e deve essere sostituito un riscaldamento a olio, a gas naturale oppure a resistenza elettrica.
+<sup>2</sup> Le pompe di calore e i riscaldamenti a legna conformemente al capoverso 1 hanno diritto a sussidi se viene sostituito un riscaldamento a olio, a gas oppure a resistenza elettrica. Nel caso di tali impianti con una potenza nominale fino a 100 kW, il 100 per cento del fabbisogno termico complessivo per il riscaldamento di locali e per l'acqua calda sanitaria deve essere prodotto con energia rinnovabile. Nel caso di tali impianti a partire da 100 kW, il 90 per cento del fabbisogno termico complessivo per il riscaldamento di locali e per l'acqua calda sanitaria deve essere prodotto con energia rinnovabile.
 
-<sup>3</sup> Per le installazioni ex novo di sistemi di distribuzione del calore possono essere versati sussidi supplementari, se queste avvengono contemporaneamente all'installazione di impianti per la produzione di calore aventi diritto a sussidi.
+<sup>2<sup>bis</sup></sup> Nel caso di impianti per la produzione di calore bivalenti conformemente al capoverso 1, la combinazione con un sistema di riscaldamento rinnovabile ha diritto a sussidi promozionali.
+
+<sup>3</sup> Nel caso di pompe di calore e riscaldamenti a legna conformemente al capoverso 1 il sussidio promozionale viene calcolato con al massimo 50 W di potenza nominale installata per m² di superficie di riferimento energetico (prima del risanamento).
 
 <sup>4</sup> Per impianti solari termici per la produzione di acqua calda sanitaria nonché quale supporto al riscaldamento possono essere versati sussidi, se si tratta di un'installazione ex novo di un impianto avente una potenza termica nominale del collettore di almeno 2 kW o di un ampliamento dell'impianto, la cui potenza termica nominale supplementare del collettore ammonta ad almeno 2 kW.
 
-<sup>5</sup> Possono beneficiare di sostegno solo impianti che corrispondono allo stato della tecnica. Quale condizione per il versamento di sussidi promozionali può essere richiesta una comprova della garanzia della qualità. Per impianti con una potenza termica superiore ai 70 kW può essere richiesto in aggiunta un sistema di gestione della qualità.
+<sup>5</sup> Possono beneficiare di sostegno solo impianti che corrispondono allo stato della tecnica. Quale condizione per il versamento di sussidi promozionali può essere richiesta una comprova della garanzia della qualità.
 
 #### Art. 47
 
@@ -563,11 +565,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Sussidi secondo l'articolo 20 e l'articolo 22 della legge possono essere versati per la nuova realizzazione o l'ampliamento di reti di teleriscaldamento (impianto per la produzione di calore e rete di riscaldamento), se il calore distribuito viene impiegato per il riscaldamento di locali e per la produzione di acqua calda sanitaria in edifici esistenti.
 
-<sup>2</sup> Le reti di teleriscaldamento hanno diritto a sussidi se l'impianto per la produzione di calore fornisce una potenza termica di almeno 70 kW e la quantità di calore viene prodotta per almeno il 75 per cento con energie rinnovabili. Se la rete di teleriscaldamento viene alimentata tramite calore residuo di un termovalorizzatore, affinché possano essere versati sussidi la quantità di calore deve essere prodotta per almeno il 50 per cento con energie rinnovabili.
+<sup>2</sup> Le reti di teleriscaldamento hanno diritto a sussidi se l'impianto per la produzione di calore fornisce una potenza nominale di almeno 70 kW. Nel caso di impianti per la produzione di calore con una potenza nominale fino a 100 kW, il 100 per cento del fabbisogno termico complessivo per il riscaldamento di locali e per l'acqua calda sanitaria deve essere prodotto con energia rinnovabile. Nel caso di impianti a partire da 100 kW, il 90 per cento del fabbisogno termico complessivo per il riscaldamento di locali e per l'acqua calda sanitaria deve essere prodotto con energia rinnovabile. La quantità di calore nella rete di riscaldamento prodotta con energia rinnovabile deve essere pari almeno al 75 per cento. Se la rete di teleriscaldamento viene alimentata tramite calore residuo di un termovalorizzatore, affinché possano essere versati sussidi la quantità di calore prodotta con energia rinnovabile deve essere pari almeno al 50 per cento.
 
 <sup>3</sup> Per il calcolo della potenza termica secondo il capoverso 2 è determinante il consumo di calore degli edifici esistenti nei quali grazie all'allacciamento alla rete di teleriscaldamento vengono sostituiti riscaldamenti esistenti a olio, a gas naturale oppure a resistenza elettrica.
 
-<sup>4</sup> Per allacciamenti a reti di teleriscaldamento in funzione possono essere versati sussidi se in tal modo vengono sostituiti riscaldamenti esistenti a olio, a gas naturale oppure a resistenza elettrica e non si verifica un ampliamento di reti di teleriscaldamento ai sensi del capoverso 1.
+<sup>4</sup> Per allacciamenti fino a 70 kW di potenza nominale a reti di riscaldamento in funzione conformemente al capoverso 2 possono essere versati sussidi se in tal modo vengono sostituiti riscaldamenti esistenti a olio, a gas naturale oppure a resistenza elettrica e non si verifica un ampliamento della rete di teleriscaldamento ai sensi del capoverso 1. Nel caso di impianti bivalenti la combinazione con un sistema di riscaldamento rinnovabile ha diritto a sussidi promozionali.
+
+<sup>4<sup>bis</sup></sup> Nel caso di allacciamenti a una rete di riscaldamento, il sussidio promozionale viene calcolato con una potenza nominale installata pari al massimo a 50 W per m² di superficie di riferimento energetico.
 
 <sup>5</sup> Possono beneficiare di sostegno solo impianti che corrispondono allo stato della tecnica. Quale condizione per il versamento di sussidi promozionali può essere richiesta una comprova della garanzia della qualità e in aggiunta un sistema di gestione della qualità.
 
@@ -607,19 +611,25 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Conformemente all'articolo 18 della legge, ai nuovi edifici con carattere esemplare vengono versati sussidi fino a 100 000 franchi.
 
-<sup>2</sup> Conformemente all'articolo 19 della legge, per provvedimenti che interessano la superficie di tamponamento vengono versati sussidi fino a 200 000 franchi (compreso un eventuale bonus per risanamento completo).
+<sup>2</sup> Conformemente all'articolo 19 della legge e conformemente all'articolo 54a capoverso 1 lettera c dell'ordinanza federale sull'energia[^53-1], per misure che interessano la superficie di tamponamento vengono versati sussidi fino a 200 000 franchi (compreso un eventuale bonus per risanamento completo).
 
-<sup>3</sup> Conformemente all'articolo 20 e all'articolo 22 della legge vengono versati i seguenti sussidi per misure a impianti tecnici:
+<sup>3</sup> Conformemente all'articolo 20 della legge e conformemente all'articolo 54a capoverso 1 lettera a dell'ordinanza federale sull'energia[^53-2] vengono versati i seguenti sussidi per misure a impianti tecnici:
 
-- a) per riscaldamenti a legna e pompe di calore fino a 200 000 franchi (compreso un eventuale sussidio supplementare per il sistema di distribuzione del calore);
-- b) per impianti solari termici fino a 50 000 franchi;
+- a) per riscaldamenti a legna e pompe di calore monovalenti fino a 200 000 franchi, per impianti bivalenti complessivamente fino a 200 000 franchi;
+- b) per impianti solari termici fino a 100 000 franchi;
 - c) per reti di teleriscaldamento fino a 200 000 franchi per la rete di riscaldamento;
-- d) per allacciamenti a una rete di teleriscaldamento in funzione fino a 100 000 franchi (compreso un eventuale sussidio supplementare per il sistema di distribuzione del calore);
+- d) per allacciamenti a una rete di teleriscaldamento in funzione fino a 100 000 franchi;
 - e) per impianti di aerazione controllata fino a 100 000 franchi.
 
 <sup>4</sup> Conformemente all'articolo 21 della legge, ai miglioramenti dell'indice di utilizzazione vengono versati sussidi fino a 100 000 franchi.
 
+<sup>4<sup>bis</sup></sup> Conformemente all'articolo 54a capoverso 1 lettera b dell'ordinanza federale sull'energia[^53-3], per l'installazione ex novo di sistemi idraulici di distribuzione del calore vengono versati sussidi fino a 100 000 franchi.
+
 <sup>5</sup> Conformemente all'articolo 23a della legge, per impianti di produzione di elettricità invernale vengono concessi sussidi fino a 200 000 franchi.
+
+[^53-1]: RS [730.01](https://db.clex.ch/link/Bund/730.01/it)
+[^53-2]: RS [730.01](https://db.clex.ch/link/Bund/730.01/it)
+[^53-3]: RS [730.01](https://db.clex.ch/link/Bund/730.01/it)
 
 #### Art. 54
 
@@ -653,11 +663,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Competenze**
 
-<sup>1</sup> Il Dipartimento competente decide in merito alla concessione di sussidi secondo le disposizioni di promozione della legge.
+<sup>1</sup> Il Dipartimento competente decide in merito alla concessione di sussidi secondo le disposizioni di promozione della legge. Inoltre decide in merito alla concessione di sussidi secondo l'ordinanza federale sull'energia[^57-1], nella misura in cui l'esecuzione sia stata delegata al Cantone.
 
 <sup>2</sup> Il Dipartimento competente stipula accordi sugli obiettivi con grandi consumatori ed emana disposizioni secondo l'articolo 14 della legge, nella misura in cui non sia stato stabilito altrimenti.
 
 <sup>3</sup> La competenza per l'esecuzione di procedure secondo il titolo 5 della legge, segnatamente per il perseguimento e il giudizio di contravvenzioni, riguardo ad affari cantonali spetta all'Ufficio.
+
+[^57-1]: RS [730.01](https://db.clex.ch/link/Bund/730.01/it)
 
 #### Art. 58
 

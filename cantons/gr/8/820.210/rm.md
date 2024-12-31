@@ -4,13 +4,13 @@ number: "820.210"
 title: "Ordinaziun d'energia dal chantun Grischun"
 short: OEG
 language: rm
-version: 2021-01-01
-corrected: 2021-06-28
-version_adopted: 2020-10-19
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2024-12-10
 adopted: 2020-10-19
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3109/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3498/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3109/pdf_file"
 
 (OEG)
 
-dals 19-10-2020 (versiun dals 01-01-2021)
+dals 19-10-2020 (versiun dals 01-01-2025)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
@@ -531,7 +531,7 @@ relaschada da la Regenza ils 19 d'october 2020
 
 <sup>2</sup> Subvenziunablas èn las parts dals mirs exteriurs termics dals edifizis, per las qualas vegn pretendì en spezial ch'ellas adempleschian las pretensiuns energeticas tenor l'agiunta 12. Las fanestras èn subvenziunablas mo, sch'i vegn sanada a medem temp la surfatscha da la fatschada u dal tetg che las circumdescha.
 
-<sup>3</sup> Per sanaziuns totalas po il chantun conceder in bonus da contribuziun. D'ina sanaziun totala sa tracti, sche tut las trais surfatschas principalas da l'edifizi (fatschada, fanestras, tetg/palantschieu dal surchombras) vegnan renovadas a medem temp e sch'ellas adempleschan las premissas da promoziun.
+<sup>3</sup> …
 
 <sup>4</sup> Sco premissa per survegnir contribuziuns da promoziun po vegnir pretendì in certificat energetic chantunal dals edifizis cun obligaziun da cussegliaziun (CECE plus).
 
@@ -539,15 +539,17 @@ relaschada da la Regenza ils 19 d'october 2020
 
 **Pumpas da chalur, stgaudaments da laina ed implants solars termics**
 
-<sup>1</sup> Tar la tecnica da chasa subvenziunabla tenor l'artitgel 20 e l'artitgel 22 da la lescha tutgan ils indrizs per stgaudar locals e l'aua da diever en edifizis existents, sco en spezial pumpas da chalur, stgaudaments da laina ed implants solars termics. Per corporaziuns da chalur valan las prescripziuns da l'artitgel 48.
+<sup>1</sup> Tar la tecnica da chasa subvenziunabla tenor l'artitgel 20 da la lescha tutgan ils indrizs per stgaudar ils locals e l'aua da diever en edifizis existents, sco en spezial stgaudaments da laina, implants solars termics, pumpas da stgaudar cun aua da sal ed aua e pumpas da stgaudar cun aua sutterrana cun ina prestaziun nominala fin 70 kW sco er pumpas da stgaudar cun aria ed aua independentamain da la prestaziun nominala. Per corporaziuns da chalur valan las prescripziuns da l'artitgel 48.
 
-<sup>2</sup> En cas d'indrizs per producir chalur è subvenziunabel mo il sistem da stgaudar principal. Almain 75 pertschient da la quantitad da chalur ston vegnir producids cun energia regenerabla ed i sto vegnir remplazzà in stgaudament dad ieli, in stgaudament da gas natiral u in stgaudament electric da resistenza existent.
+<sup>2</sup> Las pumpas da stgaudar ed ils stgaudaments da laina tenor l'alinea 1 èn subvenziunabels, sch'els remplazzan in stgaudament dad ieli, da gas u electric da resistenza. Ils indrizs cun ina prestaziun nominala fin 100 kW ston producir cun energia regenerabla 100 pertschient da la chalur totala ch'els dovran per stgaudar ils locals e l'aua da diever. Ils indrizs cun ina prestaziun nominala a partir da 100 kW ston producir cun energia regenerabla 90 pertschient da la chalur totala ch'els dovran per stgaudar ils locals e l'aua da diever.
 
-<sup>3</sup> Per emprimas installaziuns da sistems per distribuir chalur pon vegnir pajadas contribuziuns supplementaras, sche quellas vegnan fatgas ensemen cun la montascha d'indrizs subvenziunabels per producir chalur.
+<sup>2<sup>bis</sup></sup> En cas d'indrizs bivalents da producziun termica tenor l'alinea 1 è la cumbinaziun cun in sistem da stgaudar regenerabel subvenziunabla.
+
+<sup>3</sup> La contribuziun da promoziun a favur da pumpas da stgaudar e da stgaudaments da laina tenor l'alinea 1 vegn calculada cun ina prestaziun nominala installada da maximalmain 50 W per m² surfatscha che retira energia (avant la sanaziun).
 
 <sup>4</sup> Per implants solars termics per producir aua chauda da diever sco er per sustegnair il stgaudament pon vegnir pajadas contribuziuns, sch'i sa tracta da l'emprima installaziun d'in implant cun ina prestaziun nominala per collectur termic d'almain 2 kW u da l'engrondiment d'in implant, tar il qual la prestaziun nominala supplementara dal collectur termic importa almain 2 kW.
 
-<sup>5</sup> Promovids vegnan mo indrizs che correspundan al stadi da la tecnica. Sco premissa per survegnir contribuziuns da promoziun po vegnir pretendida ina cumprova davart la garanzia da qualitad. En cas d'indrizs cun ina prestaziun da stgaudar da passa 70 kW po ultra da quai vegnir pretendì in manaschament da qualitad.
+<sup>5</sup> Promovids vegnan mo indrizs che correspundan al stadi da la tecnica. Sco premissa per survegnir contribuziuns da promoziun po vegnir pretendida ina cumprova davart la garanzia da qualitad.
 
 #### Art. 47
 
@@ -563,11 +565,13 @@ relaschada da la Regenza ils 19 d'october 2020
 
 <sup>1</sup> Contribuziuns tenor l'artitgel 20 e l'artitgel 22 da la lescha pon vegnir pajadas per installar da nov u per amplifitgar corporaziuns da chalur (indriz per producir chalur e rait da chalur), sche la chalur distribuida vegn duvrada per stgaudar locals e l'aua da diever en edifizis existents.
 
-<sup>2</sup> Corporaziuns da chalur èn subvenziunablas, sche l'indriz che producescha chalur ha ina prestaziun da stgaudar d'almain 70 kW e sche almain 75 pertschient da la quantitad da chalur vegnan producids cun energia regenerabla. Sche la corporaziun da chalur vegn furnida cun chalur persa d'in stabiliment per arder ruments, sto la quantitad da chalur vegnir producida per almain 50 pertschient cun energia regenerabla, per ch'ella survegnia contribuziuns.
+<sup>2</sup> Corporaziuns da chalur èn subvenziunablas, sche l'indriz da producziun termica ha ina prestaziun nominala d'almain 70 kW. Ils indrizs da producziun termica cun ina prestaziun nominala fin 100 kW ston producir cun energia regenerabla 100 pertschient da la chalur totala ch'els dovran per stgaudar ils locals e l'aua da diever. Ils indrizs cun ina prestaziun nominala a partir da 100 kW ston producir cun energia regenerabla 90 pertschient da la chalur totala ch'els dovran per stgaudar ils locals e l'aua da diever. Almain 75 pertschient da la chalur entaifer la rait da chalur ston vegnir producids cun energia regenerabla. Sche la corporaziun da chalur vegn furnida cun chalur persa d'in stabiliment per arder ruments, ston almain 50 pertschient da la chalur vegnir producids cun energia regenerabla, per ch'i vegnian pajadas contribuziuns.
 
 <sup>3</sup> Decisiv per calcular la prestaziun da stgaudar tenor l'alinea 2 è il consum da chalur d'edifizis existents, en ils quals vegnan remplazzads stgaudaments dad ieli, stgaudaments da gas natiral u stgaudaments electrics da resistenza en consequenza da la colliaziun cun ina rait da chalur.
 
-<sup>4</sup> Per colliaziuns cun corporaziuns da chalur existentas pon vegnir pajadas contribuziuns, sch'i vegnan remplazzads tras quai stgaudaments dad ieli, stgaudaments da gas natiral u stgaudaments electrics da resistenza existents e sch'i na sa tracta betg d'ina amplificaziun da la corporaziun da chalur en il senn da l'alinea 1.
+<sup>4</sup> Per colliaziuns d'ina prestaziun nominala da fin 70 kW cun raits da chalur existentas tenor l'alinea 2 pon vegnir pajadas contribuziuns, sche questas colliaziuns servan a remplazzar stgaudaments dad ieli, stgaudaments da gas natiral u stgaudaments electrics da resistenza existents e sch'i na sa tracta betg d'ina amplificaziun da la corporaziun da chalur en il senn da l'alinea 1. En cas d'indrizs bivalents è la cumbinaziun cun in sistem da stgaudar regenerabel subvenziunabla.
+
+<sup>4<sup>bis</sup></sup> La contribuziun da promoziun a favur da colliaziuns cun ina rait da chalur vegn calculada cun ina prestaziun nominala installada da maximalmain 50 W per m² surfatscha che retira energia.
 
 <sup>5</sup> Promovids vegnan mo indrizs che correspundan al stadi da la tecnica. Sco premissa per survegnir contribuziuns da promoziun pon vegnir pretendidas ina cumprova davart la garanzia da qualitad e supplementarmain in manaschament da qualitad.
 
@@ -607,19 +611,25 @@ relaschada da la Regenza ils 19 d'october 2020
 
 <sup>1</sup> Tenor l'artitgel 18 da la lescha vegnan pajadas contribuziuns fin a 100 000 francs per edifizis novs che han in caracter exemplaric.
 
-<sup>2</sup> Tenor l'artitgel 19 da la lescha vegnan pajadas contribuziuns fin a 200 000 francs per mesiras vi dals mirs exteriurs d'edifizis (inclusiv in eventual bonus per sanaziuns totalas).
+<sup>2</sup> Tenor l'artitgel 19 da la lescha e tenor l'artitgel 54a alinea 1 litera c da l'Ordinaziun federala d'energia[^53-1] vegnan pajadas contribuziuns fin a 200 000 francs per mesiras vi dals mirs exteriurs d'edifizis (inclusiv in eventual bonus per sanaziuns totalas).
 
-<sup>3</sup> Tenor l'artitgel 20 e l'artitgel 22 da la lescha vegnan pajadas las suandantas contribuziuns per mesiras vi d'indrizs da la tecnica da chasa:
+<sup>3</sup> Tenor l'artitgel 20 da la lescha e tenor l'artitgel 54a alinea 1 litera a da l'Ordinaziun federala d'energia[^53-2] vegnan pajadas las suandantas contribuziuns per mesiras vi d'indrizs da la tecnica da chasa:
 
-- a) per stgaudaments da laina e pumpas da chalur: fin a 200 000 francs (inclusiv in'eventuala contribuziun supplementara per il sistem per distribuir chalur);
-- b) per implants solars termics: fin a 50 000 francs;
+- a) per pumpas da stgaudar e stgaudaments da laina monovalents: fin a 200 000 francs; per indrizs bivalents: totalmain fin a 200 000 francs;
+- b) per implants solars termics: fin a 100 000 francs;
 - c) per corporaziuns da chalur: fin a 200 000 francs per la rait da chalur;
-- d) per colliaziuns cun ina corporaziun da chalur existenta: fin a 100 000 francs (inclusiv in'eventuala contribuziun supplementara per il sistem per distribuir chalur);
+- d) per colliaziuns cun ina corporaziun da chalur existenta: fin a 100 000 francs;
 - e) per indrizs da ventilaziun da confort: fin a 100 000 francs.
 
 <sup>4</sup> Tenor l'artitgel 21 da la lescha vegnan pajadas contribuziuns fin a 100 000 francs per augmentar il grad d'utilisaziun.
 
+<sup>4<sup>bis</sup></sup> Tenor l'artitgel 54a alinea 1 litera b da l'Ordinaziun federala d'energia[^53-3] vegnan pajadas contribuziuns fin a 100 000 francs per l'emprima installaziun da sistems idraulics per distribuir chalur.
+
 <sup>5</sup> Tenor l'artitgel 23a da la lescha vegnan pajadas contribuziuns fin a 200 000 francs per implants che produceschan electricitad durant l'enviern.
+
+[^53-1]: CS [730.01](https://db.clex.ch/link/Bund/730.01/rm)
+[^53-2]: CS [730.01](https://db.clex.ch/link/Bund/730.01/rm)
+[^53-3]: CS [730.01](https://db.clex.ch/link/Bund/730.01/rm)
 
 #### Art. 54
 
@@ -653,11 +663,13 @@ relaschada da la Regenza ils 19 d'october 2020
 
 **Cumpetenzas**
 
-<sup>1</sup> Il departament cumpetent decida davart la concessiun da contribuziuns tenor las disposiziuns da promoziun da la lescha.
+<sup>1</sup> Il departament cumpetent decida davart la concessiun da contribuziuns tenor las disposiziuns da promoziun da la lescha. Plinavant decida el davart la concessiun da contribuziuns tenor l'Ordinaziun federala d'energia[^57-1], uschenavant che l'execuziun è vegnida delegada als chantuns.
 
 <sup>2</sup> Il departament cumpetent fa cunvegnas da finamiras cun las consumentas ed ils consuments gronds e relascha ordinaziuns tenor l'artitgel 14 da la lescha, nun ch'i saja fixà insatge auter.
 
 <sup>3</sup> La cumpetenza en fatschentas chantunalas per realisar la procedura tenor il titel 5 da la lescha, en spezial per persequitar e per giuditgar surpassaments ha l'uffizi.
+
+[^57-1]: CS [730.01](https://db.clex.ch/link/Bund/730.01/rm)
 
 #### Art. 58
 

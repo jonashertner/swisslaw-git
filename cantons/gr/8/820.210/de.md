@@ -4,13 +4,13 @@ number: "820.210"
 title: Energieverordnung des Kantons Graubünden
 short: BEV
 language: de
-version: 2021-01-01
-corrected: 2021-06-28
-version_adopted: 2020-10-19
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2024-12-10
 adopted: 2020-10-19
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3109/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3498/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3109/pdf_file"
 
 (BEV)
 
-Vom 19.10.2020 (Stand 01.01.2021)
+Vom 19.10.2020 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -531,7 +531,7 @@ von der Regierung erlassen am 19. Oktober 2020
 
 <sup>2</sup> Förderberechtigt sind die Bauteile der thermischen Gebäudehülle, wobei insbesondere verlangt wird, dass sie die energetischen Anforderungen gemäss Anhang 12 erfüllen. Fenster sind nur förderberechtigt, wenn gleichzeitig die sie umgebende Fassaden- oder Dachfläche saniert wird.
 
-<sup>3</sup> Für Gesamtsanierungen kann der Kanton einen Beitragsbonus gewähren. Eine Gesamtsanierung liegt vor, wenn alle drei Hauptflächen eines Gebäudes (Fassade, Fenster, Dach/Estrichboden) gleichzeitig erneuert werden und die Fördervoraussetzungen erfüllen.
+<sup>3</sup> …
 
 <sup>4</sup> Als Voraussetzung für die Ausrichtung von Förderbeiträgen kann ein Gebäudeenergieausweis der Kantone mit Beratungspflicht (GEAK Plus) verlangt werden.
 
@@ -539,15 +539,17 @@ von der Regierung erlassen am 19. Oktober 2020
 
 **Wärmepumpen, Holzfeuerungen und thermische Solaranlagen**
 
-<sup>1</sup> Unter die beitragsberechtigte Haustechnik gemäss Artikel 20 und Artikel 22 des Gesetzes fallen Anlagen für Raumwärme und Brauchwarmwasser in bestehenden Bauten, wie namentlich Wärmepumpen, Holzfeuerungen und thermische Solaranlagen. Für Wärmeverbünde gelten die Vorgaben von Artikel 48.
+<sup>1</sup> Unter die beitragsberechtigte Haustechnik gemäss Artikel 20 des Gesetzes fallen Anlagen für Raumwärme und Brauchwarmwasser in bestehenden Bauten, wie namentlich Holzfeuerungen, thermische Solaranlagen, Sole-Wasser-, Wasser-Wasser-Wärmepumpen bis 70 kW Nennleistung und Luft-Wasser-Wärmepumpen unabhängig von der Nennleistung. Für Wärmeverbünde gelten die Vorgaben von Artikel 48.
 
-<sup>2</sup> Bei Wärmeerzeugungsanlagen ist nur das Hauptheizsystem beitragsberechtigt. Die Wärmemenge muss mindestens zu 75 Prozent mit erneuerbarer Energie erzeugt werden und es muss eine bestehende Ölheizung, Erdgasheizung oder elektrische Widerstandsheizung ersetzt werden.
+<sup>2</sup> Wärmepumpen und Holzfeuerungen gemäss Absatz 1 sind beitragsberechtigt, sofern eine Öl-, Gas- oder elektrische Widerstandsheizung ersetzt wird. Bei solchen Anlagen mit einer Nennleistung bis 100 kW sind 100 Prozent des Gesamtwärmebedarfs für Raumwärme und Brauchwarmwasser mit erneuerbarer Energie zu erzeugen. Bei solchen Anlagen ab 100 kW sind 90 Prozent des Gesamtwärmebedarfs für Raumwärme und Brauchwarmwasser mit erneuerbarer Energie zu erzeugen.
 
-<sup>3</sup> Für Erstinstallationen von Wärmeverteilsystemen können Zusatzbeiträge ausgerichtet werden, sofern diese gleichzeitig mit dem Einbau förderberechtigter Wärmeerzeugungsanlagen erfolgen.
+<sup>2<sup>bis</sup></sup> Bei bivalenten Wärmeerzeugungsanlagen gemäss Absatz 1 ist die Kombination mit einem erneuerbaren Heizsystem förderberechtigt.
+
+<sup>3</sup> Der Förderbeitrag wird bei Wärmepumpen und Holzfeuerungen gemäss Absatz 1 mit maximal 50 W installierte Nennleistung pro m² Energiebezugsfläche (vor Sanierung) bemessen.
 
 <sup>4</sup> Für thermische Solaranlagen zur Erzeugung von Brauchwarmwasser sowie zur Heizungsunterstützung können Beiträge ausgerichtet werden, sofern es sich um eine Erstinstallation einer Anlage mit einer thermischen Kollektor-Nennleistung von mindestens 2 kW handelt oder um eine Anlagenerweiterung, bei welcher die zusätzliche thermische Kollektor-Nennleistung mindestens 2 kW beträgt.
 
-<sup>5</sup> Gefördert werden nur Anlagen, welche dem Stand der Technik entsprechen. Als Voraussetzung für die Ausrichtung von Förderbeiträgen kann ein Nachweis über die Qualitätssicherung verlangt werden. Bei Anlagen mit einer Heizleistung von über 70 kW kann zusätzlich ein Qualitätsmanagement gefordert werden.
+<sup>5</sup> Gefördert werden nur Anlagen, welche dem Stand der Technik entsprechen. Als Voraussetzung für die Ausrichtung von Förderbeiträgen kann ein Nachweis über die Qualitätssicherung verlangt werden.
 
 #### Art. 47
 
@@ -563,11 +565,13 @@ von der Regierung erlassen am 19. Oktober 2020
 
 <sup>1</sup> Beiträge gemäss Artikel 20 und Artikel 22 des Gesetzes können an die Neuerstellung oder Erweiterung von Wärmeverbünden ausgerichtet werden (Wärmeerzeugungsanlage und Wärmenetz), sofern die verteilte Wärme für die Erzeugung von Raumwärme und Brauchwarmwasser in bestehenden Bauten eingesetzt wird.
 
-<sup>2</sup> Beitragsberechtigt sind Wärmeverbünde, wenn die Wärmeerzeugungsanlage eine Heizleistung von mindestens 70 kW erbringt und die Wärmemenge mindestens zu 75 Prozent mit erneuerbarer Energie erzeugt wird. Erfolgt die Speisung des Wärmeverbundes mittels Abwärme einer Kehrichtverbrennungsanlage, muss die Wärmemenge für die Ausrichtung von Beiträgen mindestens zu 50 Prozent mit erneuerbarer Energie erzeugt werden.
+<sup>2</sup> Beitragsberechtigt sind Wärmeverbünde, wenn die Wärmeerzeugungsanlage eine Nennleistung von mindestens 70 kW erbringt. Bei Wärmeerzeugungsanlagen mit einer Nennleistung bis 100 kW sind 100 Prozent des Gesamtwärmebedarfs für Raumwärme und Brauchwarmwasser mit erneuerbarer Energie zu erzeugen. Bei Anlagen ab 100 kW sind 90 Prozent des Gesamtwärmebedarfs für Raumwärme und Brauchwarmwasser mit erneuerbarer Energie zu erzeugen. Die Wärmemenge im Wärmenetz muss mindestens zu 75 Prozent mit erneuerbarer Energie erzeugt werden. Erfolgt die Speisung des Wärmeverbunds mittels Abwärme einer Kehrichtverbrennungsanlage, muss die Wärmemenge für die Ausrichtung von Beiträgen mindestens zu 50 Prozent mit erneuerbarer Energie erzeugt werden.
 
 <sup>3</sup> Massgebend für die Berechnung der Heizleistung gemäss Absatz 2 ist der Wärmebezug bestehender Gebäude, in denen durch den Wärmenetzanschluss bestehende Ölheizungen, Erdgasheizungen oder elektrische Widerstandsheizungen ersetzt werden.
 
-<sup>4</sup> Für Anschlüsse an in Betrieb stehende Wärmeverbünde können Beiträge ausgerichtet werden, wenn damit bestehende Ölheizungen, Erdgasheizungen oder elektrische Widerstandsheizungen ersetzt werden und keine Erweiterung des Wärmeverbunds im Sinne von Absatz 1 vorliegt.
+<sup>4</sup> Für Anschlüsse bis 70 kW Nennleistung an in Betrieb stehende Wärmenetze gemäss Absatz 2 können Beiträge ausgerichtet werden, wenn damit bestehende Ölheizungen, Erdgasheizungen oder elektrische Widerstandsheizungen ersetzt werden und keine Erweiterung des Wärmeverbunds im Sinne von Absatz 1 vorliegt. Bei bivalenten Anlagen ist die Kombination mit einem erneuerbaren Heizsystem förderberechtigt.
+
+<sup>4<sup>bis</sup></sup> Der Förderbeitrag wird bei Anschlüssen an ein Wärmenetz mit maximal 50 W installierte Nennleistung pro m² Energiebezugsfläche bemessen.
 
 <sup>5</sup> Gefördert werden nur Anlagen, welche dem Stand der Technik entsprechen. Als Voraussetzung für die Ausrichtung von Förderbeiträgen kann ein Nachweis über die Qualitätssicherung verlangt und zusätzlich ein Qualitätsmanagement gefordert werden.
 
@@ -607,19 +611,25 @@ von der Regierung erlassen am 19. Oktober 2020
 
 <sup>1</sup> Gemäss Artikel 18 des Gesetzes werden für Neubauten mit Vorbildcharakter Beiträge bis 100 000 Franken ausgerichtet.
 
-<sup>2</sup> Gemäss Artikel 19 des Gesetzes werden für Massnahmen an der Gebäudehülle Beiträge bis 200 000 Franken ausgerichtet (einschliesslich eines allfälligen Gesamtsanierungsbonus).
+<sup>2</sup> Gemäss Artikel 19 des Gesetzes und gemäss Artikel 54a Absatz 1 Litera c der Energieverordnung des Bundes[^53-1] werden für Massnahmen an der Gebäudehülle Beiträge bis 200 000 Franken ausgerichtet (einschliesslich eines allfälligen Gesamtsanierungsbonus).
 
-<sup>3</sup> Gemäss Artikel 20 und Artikel 22 des Gesetzes werden bei Massnahmen an haustechnischen Anlagen folgende Beiträge ausgerichtet:
+<sup>3</sup> Gemäss Artikel 20 des Gesetzes und gemäss Artikel 54a Absatz 1 Litera a der Energieverordnung des Bundes[^53-2] werden für Massnahmen an haustechnischen Anlagen folgende Beiträge ausgerichtet:
 
-- a) bei Holzheizungen und Wärmepumpen bis 200 000 Franken (einschliesslich eines allfälligen Zusatzbeitrags für das Wärmeverteilsystem);
-- b) bei thermischen Solaranlagen bis 50 000 Franken;
+- a) bei monovalenten Holzheizungen und Wärmepumpen bis 200 000 Franken, bei bivalenten Anlagen in der Summe bis 200 000 Franken;
+- b) bei thermischen Solaranlagen bis 100 000 Franken;
 - c) bei Wärmeverbünden bis 200 000 Franken für das Wärmenetz;
-- d) bei Anschlüssen an einen in Betrieb stehenden Wärmeverbund bis 100 000 Franken (einschliesslich eines allfälligen Zusatzbeitrags für das Wärmeverteilsystem);
+- d) bei Anschlüssen an einen in Betrieb stehenden Wärmeverbund bis 100 000 Franken;
 - e) bei Komfortlüftungsanlagen bis 100 000 Franken.
 
 <sup>4</sup> Gemäss Artikel 21 des Gesetzes werden an Nutzungsgradverbesserungen Beiträge bis 100 000 Franken ausgerichtet.
 
+<sup>4<sup>bis</sup></sup> Gemäss Artikel 54a Absatz 1 Litera b der Energieverordnung des Bundes[^53-3] werden an die Erstinstallation von hydraulischen Wärmeverteilsystemen Beiträge bis 100 000 Franken ausgerichtet.
+
 <sup>5</sup> Gemäss Artikel 23a des Gesetzes werden an die Winterstromproduktionsanlagen Beiträge bis 200 000 Franken ausgerichtet.
+
+[^53-1]: SR [730.01](https://db.clex.ch/link/Bund/730.01/de)
+[^53-2]: SR [730.01](https://db.clex.ch/link/Bund/730.01/de)
+[^53-3]: SR [730.01](https://db.clex.ch/link/Bund/730.01/de)
 
 #### Art. 54
 
@@ -653,11 +663,13 @@ von der Regierung erlassen am 19. Oktober 2020
 
 **Zuständigkeiten**
 
-<sup>1</sup> Das zuständige Departement entscheidet über die Gewährung von Beiträgen nach den Förderbestimmungen des Gesetzes.
+<sup>1</sup> Das zuständige Departement entscheidet über die Gewährung von Beiträgen nach den Förderbestimmungen des Gesetzes. Ferner entscheidet es über die Gewährung von Beiträgen nach der Energieverordnung des Bundes[^57-1], soweit der Vollzug an den Kanton delegiert wurde.
 
 <sup>2</sup> Das zuständige Departement schliesst Zielvereinbarungen mit Grossverbrauchern ab und erlässt Anordnungen nach Artikel 14 des Gesetzes, soweit nichts anderes bestimmt ist.
 
 <sup>3</sup> Die Zuständigkeit zur Durchführung von Verfahren nach dem Titel 5 des Gesetzes, namentlich zur Verfolgung und Beurteilung von Übertretungen, liegt in kantonalen Angelegenheiten beim Amt.
+
+[^57-1]: SR [730.01](https://db.clex.ch/link/Bund/730.01/de)
 
 #### Art. 58
 
