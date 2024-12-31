@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2024-10-16
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3514/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3692/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3514/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.07.2024)
+Vom 28.08.2002 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -303,8 +303,8 @@ beschliesst:
 
 <sup>1</sup> Für den tatsächlichen Anwesenheitstag in der Unterkunft beträgt der Ansatz für die Verpflegung:
 
-- a) für Erwachsene sowie Jugendliche ab vollendetem 16. Altersjahr Fr. 8.50
-- b) für Kinder bis zum vollendeten 16. Altersjahr Fr. 8.–
+- a) für Erwachsene sowie Jugendliche ab vollendetem 16. Altersjahr Fr. 9.–
+- b) für Kinder bis zum vollendeten 16. Altersjahr Fr. 8.50
 - c) …
 
 <sup>2</sup> Erwachsene, Jugendliche und Kinder ab vollendetem 6. Altersjahr erhalten darüber hinaus ein Taschengeld von Fr. 1.– pro tatsächlichem Anwesenheitstag.
@@ -313,7 +313,7 @@ beschliesst:
 
 <sup>4</sup> Verpflegungsgeld und Taschengeld werden für die Zukunft und in der Regel wöchentlich ausgerichtet. Rückwirkende Zahlungen sind ausgeschlossen.
 
-<sup>5</sup> Liegen Kürzungsgründe gemäss Art. 83 des Asylgesetzes (AsylG) vom 26. Juni 1998[^17e-1] vor, darf Erwachsenen neben dem Entzug des Taschengeldes das Verpflegungsgeld soweit gekürzt werden, dass mindestens Fr. 7.50 ausbezahlt werden.
+<sup>5</sup> Liegen Kürzungsgründe gemäss Art. 83 des Asylgesetzes (AsylG) vom 26. Juni 1998[^17e-1] vor, darf Erwachsenen neben dem Entzug des Taschengeldes das Verpflegungsgeld soweit gekürzt werden, dass mindestens Fr. 8.– ausbezahlt werden.
 
 <sup>6</sup> Unterkunftskosten, Krankheitskosten gemäss dem Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^17e-2] und weitere Aufwändungen werden direkt abgerechnet.
 
@@ -421,6 +421,8 @@ beschliesst:
 **Ausreisepflichtige Personen; Nothilfe**
 
 <sup>1</sup> Personen mit einem rechtskräftigen Wegweisungsentscheid gemäss Asylrecht, denen eine Ausreisefrist angesetzt wurde, erhalten lediglich die für ein menschenwürdiges Dasein unerlässlichen Mittel in Form von Natural- und Sachleistungen (Nahrung, Kleidung, Obdach, medizinische Notversorgung), sofern sie nicht in der Lage sind, anderweitig für sich zu sorgen, und keine Leistungsverpflichtungen von Drittpersonen bestehen.
+
+<sup>2</sup> Wird Verpflegung nicht als Sachleistung gewährt, beträgt der Tagesansatz für die Verpflegung für jeden tatsächlichen Anwesenheitstag in der Unterkunft Fr. 8.–.
 
 #### § 19b
 
