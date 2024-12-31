@@ -4,11 +4,11 @@ title: Verordnung vom 10. Mai 2017 über die Organisation zur Sicherstellung der
 short: VOEW
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/316"
 language: de
-version: 2022-06-01
+version: 2025-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2017-316-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-316-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20220601/de"
 
 (VOEW)
 
-vom 10. Mai 2017 (Stand am 1. Juni 2022)
+vom 10. Mai 2017 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 57 Absatz 1 und 60 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-1] (LVG) und auf Artikel 15 Absatz 4 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-2] (StromVG),[^ingress-3]
+gestützt auf die Artikel 57 Absatz 1 und 60 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-1] (LVG) und auf die Artikel 8*c* Absätze 1 und 2 sowie 15*a* Absatz 3 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-2] (StromVG),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
-[^ingress-3]: Fassung gemäss Ziff. I der vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
 #### Art. 1
 
@@ -49,25 +49,54 @@ verordnet:
 
 <sup>2</sup> Sie gewährt dem Fachbereich Energie im Abrufverfahren Zugriff auf das Monitoringsystem und erstattet ihm periodisch Bericht über die aktuelle Versorgungslage.
 
-[^1a-1]: Eingefügt durch Ziff. I der vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^1a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 
 #### Art. 1b
 
 **Monitoringsystem: Datenbearbeitung**[^1b-1]
 
-<sup>1</sup> Das Monitoringsystem enthält insbesondere Daten über die Produktion und den Verbrauch elektrischer Energie, die Import- und Exportkapazitäten sowie die Eigenversorgungsfähigkeit der Schweiz.
+<sup>1</sup>
 
-<sup>2</sup> Die Daten stehen dem Fachbereich Energie ab dem Zeitpunkt der Erfassung während zwanzig Jahren zur Verfügung.
+Das Monitoringsystem enthält Daten über:
+
+- a. die Produktion und den Verbrauch elektrischer Energie in der Schweiz;
+- b. die Import- und die Exportkapazitäten der Schweiz;
+- c. die Eigenversorgungsfähigkeit der Schweiz;
+- d. den Füllstand, den Abfluss und den Zufluss der Speicherseen in der Schweiz;
+- e. die Spot- und Terminmarktpreise auf den Stromhandelsplätzen in Europa;
+- f. die Temperaturen und die Niederschlagsmengen in Mitteleuropa sowie die Schneereserven in der Schweiz.[^1b-2]
+
+<sup>2</sup> Die Daten stehen dem Fachbereich Energie ab dem Zeitpunkt der Erfassung während zwanzig Jahren zur Verfügung. Der Fachbereich Energie darf die Daten zur Beobachtung der Versorgungslage und zur Analyse der Entwicklungen im Bereich der Elektrizitätswirtschaft nutzen.[^1b-3]
 
 <sup>3</sup> Die nationale Netzgesellschaft stellt mit organisatorischen und technischen Massnahmen sicher, dass die Datenbearbeitung automatisch protokolliert und unbefugte Datenbearbeitung verhindert wird. Sie hält die Massnahmen in einem Datenbearbeitungsreglement fest.
 
-<sup>4</sup> Die Weitergabe von Daten ist nicht zulässig. Ausgenommen ist die Weitergabe durch den Fachbereich Energie an die ElCom, an das Bundesamt für Energie, an weitere Behörden des Bundes oder eines Kantons sowie an den VSE oder an seine Organisation zur Sicherstellung der Versorgung des Landes mit Elektrizität (Art. 1 Abs. 4), wenn diese Stellen die Daten zur Erfüllung ihres gesetzlichen Auftrags benötigen.
+<sup>4</sup>
+
+Die nationale Netzgesellschaft darf im Einvernehmen mit dem Fachbereich Energie aggregierte oder anonymisierte Daten an die folgenden Stellen weitergeben, wenn diese Stellen die Daten zur Erfüllung ihres gesetzlichen Auftrags benötigen:
+
+- a. die ElCom;
+- b. das Bundesamt für Energie;
+- c. weitere Behörden des Bundes und der Kantone;
+- d. den VSE und an seine Organisation zur Sicherstellung der Versorgung des Landes mit Elektrizität (Art. 1 Abs. 4).[^1b-4]
+
+<sup>4bis</sup>
+
+Sie darf im Einvernehmen mit dem Fachbereich Energie die Daten nach Absatz 1 Buchstabe d in nicht aggregierter oder nicht anonymisierter Form an die ElCom weitergeben, wenn diese die Daten zur Erfüllung der gesetzlichen Aufgaben benötigt:
+
+- a. beim Zuteilungsverfahren im Rahmen der Beschaffung von Systemdienstleistungen durch die nationale Netzgesellschaft;
+- b. zur Beurteilung der Versorgungslage;
+- c. zur Beaufsichtigung der Energiereserve;
+- d. zur Prüfung der Mehrjahrespläne der nationalen Netzgesellschaft.[^1b-5]
 
 <sup>5</sup> Die Empfänger der Daten stellen mit organisatorischen und technischen Massnahmen sicher, dass die Daten ausschliesslich für den angegebenen Zweck verwendet werden.
 
 <sup>6</sup> Die nationale Netzgesellschaft, der Fachbereich Energie und der VSE unterstehen hinsichtlich der Beobachtung der Elektrizitätsversorgungslage sowie der damit zusammenhängenden Informationen der Verschwiegenheitspflicht (Art. 63 LVG). Sie dürfen die Daten aus dem Monitoringsystem ausschliesslich für die Zwecke der wirtschaftlichen Landesversorgung verwenden.
 
-[^1b-1]: Eingefügt durch Ziff. I der vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^1b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^1b-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
 #### Art. 2
 
@@ -77,7 +106,7 @@ verordnet:
 
 <sup>2</sup> Er überwacht die Vorbereitungsarbeiten des VSE sowie den Betrieb des Monitoringsystems und ist befugt, dem VSE und der nationalen Netzgesellschaft diesbezüglich Weisungen zu erteilen.
 
-[^2-1]: Fassung gemäss Ziff. I der vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 
 #### Art. 3
 
@@ -87,15 +116,23 @@ Der Fachbereich Energie und der VSE arbeiten im Fall einer schweren Mangellage m
 
 #### Art. 4
 
-**Entschädigung**
+**Entschädigung**[^4-1]
 
-<sup>1</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung legt im Rahmen der bewilligten Mittel die Entschädigung des VSE und der nationalen Netzgesellschaft für die Erfüllung der Aufgaben nach den Artikeln 1–1*b* fest.[^4-1]
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung legt im Rahmen der bewilligten Mittel die Entschädigung des VSE für die Erfüllung der Aufgaben nach Artikel 1 fest.
 
-<sup>2</sup> Die Kosten der einzelnen Unternehmen zur Vorbereitung und zum Vollzug von Massnahmen nach Artikel 1 gelten im Sinne von Artikel 15 StromVG als anrechenbare Netzkosten.
+[^4-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
-<sup>3</sup> Für die Aufsicht über die Kosten nach Absatz 2 ist die ElCom zuständig.
+#### Art. 4a
 
-[^4-1]: Fassung gemäss Ziff. I der vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+**Anrechenbare Netzkosten**[^4a-1]
+
+<sup>1</sup> Die Kosten der Netzbetreiber, der Erzeuger und der Speicherbetreiber für die Vorbereitung und den Vollzug von Massnahmen nach Artikel 1 sowie für das Strommonitoring nach den Artikeln 1*a* und 1*b* gelten als anrechenbare Netzkosten nach Artikel 15*a* StromVG.
+
+<sup>2</sup> Die Finanzierung der Kosten nach Absatz 1 erfolgt als Teil des Netznutzungsentgelts für das Übertragungsnetz analog zu Kosten für Systemdienstleistungen und für die Energiereserve (Art. 15 Abs. 2 Bst. a StromVG). Dieser Teil des Netznutzungsentgelts ist zusammen mit den Kosten für die Energiereserve als eigene Position in Rechnung zu stellen.
+
+<sup>3</sup> Das Bundesamt für wirtschaftliche Landesversorgung (BWL) arbeitet zur Prüfung der Kosten mit der ElCom zusammen und hört diese vor seinen Entscheidungen an. Das BWL und die ElCom können zur Koordination und zur Kontrolle der Unternehmensangaben die notwendigen Daten und Informationen austauschen.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
 #### Art. 5
 
