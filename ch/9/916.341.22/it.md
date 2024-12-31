@@ -4,11 +4,11 @@ title: "Ordinanza dell’UFAG del 30 novembre 2021 concernente la valutazione e 
 short: OVC-UFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/802"
 language: it
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2021-11-30
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-802-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-802-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20220101/it"
 
 (OVC-UFAG)
 
-del 30 novembre 2021 (Stato 1° gennaio 2022)
+del 30 novembre 2021 (Stato 1° gennaio 2025)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -123,11 +123,13 @@ Sono abrogate:
 
 La presente ordinanza entra in vigore il 1° gennaio 2022.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 1, 7 cpv. 2, 8 cpv. 1, 9 cpv. 1 e 10)
 
 ## Classificazione della qualità di animali della specie bovina
+
+[^t-1]: Aggiornato dal n. I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Valutazione
 
@@ -140,15 +142,14 @@ Gli animali vivi e le carcasse vengono valutati apprezzando, nell’ordine, la c
 Gli animali da macello e da ingrasso vengono classificati nelle seguenti categorie di animali da macello e da ingrasso secondo l’età, il sesso e le possibilità di utilizzazione delle mezzene:
 
 <table>
-<tr><td>Categoria</td><td>Abbreviazione</td></tr>
-<tr><td>Tori senza la seconda dentatura</td><td>MT</td></tr>
-<tr><td>Tori più vecchi a partire da 1 paletta e buoi a partire da 5 palette</td><td>MA</td></tr>
-<tr><td>Buoi fino a 4 palette al massimo</td><td>OB</td></tr>
-<tr><td>Manze fino a 4 palette al massimo</td><td>RG</td></tr>
-<tr><td>Manze/giovani vacche, vacche fino a 4 palette al massimo e manze da 5 palette</td><td>RV</td></tr>
-<tr><td>Vacche</td><td>VK</td></tr>
-<tr><td>Bestiame giovane</td><td>JB</td></tr>
-<tr><td>Vitelli</td><td>KV</td></tr>
+<tr><th>Categoria</th><th>Abbreviazione</th></tr>
+<tr><td>Vitelli fino a 240 giorni</td><td>KV</td></tr>
+<tr><td>Bestiame giovane fino a 300 giorni se utilizzato per l’ingrasso di proseguimento; la classificazione in questa categoria può essere effettuata solo sui mercati pubblici sorvegliati</td><td>JB</td></tr>
+<tr><td>Tori (torelli) 241–540 giorni</td><td>MT</td></tr>
+<tr><td>Tori (torelli) a partire da 540 giorni e buoi a partire da 730 giorni</td><td>MA</td></tr>
+<tr><td>Buoi 241–730 giorni</td><td>OB</td></tr>
+<tr><td>Manze 241–900 giorni, che non hanno partorito</td><td>RG</td></tr>
+<tr><td>Vacche e manze a partire da 900 giorni nonché manze che hanno partorito fino a 900 giorni</td><td>VK</td></tr>
 </table>
 
 ### 2.2 Determinazione della classe commerciale
@@ -331,11 +332,13 @@ Le classi di tessuto grasso sono determinate dal grado di ingrasso, ovvero dai d
 <tr><td>5 troppo grasso</td><td>copertura di grasso eccessiva, cuscinetti di grasso; grasso in eccesso visibile sulle e tra le costole</td></tr>
 </table>
 
-Allegato 4
+Allegato 4[^t-2]
 
 (art. 4)
 
 ## Classificazione della qualità di animali della specie ovina
+
+[^t-2]: Aggiornato dal n. I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Valutazione
 
@@ -348,11 +351,10 @@ Gli animali vivi e le carcasse vengono valutati apprezzando, nell’ordine, la c
 Gli animali da macello e da ingrasso vengono classificati nelle seguenti categorie secondo l’età, il sesso e le possibilità di utilizzazione delle mezzene:
 
 <table>
-<tr><td colspan="2">Categoria</td><td>Abbreviazione</td></tr>
-<tr><td colspan="2">Agnelli con 0 palette</td><td>LA</td></tr>
-<tr><td colspan="2">Pecore con 2 palette</td><td>SM 2</td></tr>
-<tr><td colspan="2">Pecore con 4 palette e pecore più vecchie</td><td>SM 4-8</td></tr>
-<tr><td colspan="2">Agnelli da pascolo con 0 palette (vale solo per i mercati pubblici sorvegliati)</td><td>WP</td></tr>
+<tr><th>Categoria</th><th>Abbreviazione</th></tr>
+<tr><td>Agnelli fino a 420 giorni</td><td>LA</td></tr>
+<tr><td>Pecore a partire da 420 giorni</td><td>SM</td></tr>
+<tr><td>Agnelli da pascolo se utilizzati per l’ingrasso di proseguimento; la classificazione in questa categoria può essere effettuata solo sui mercati pubblici sorvegliati</td><td>WP</td></tr>
 </table>
 
 ### 2.2 Determinazione della classe commerciale
@@ -433,11 +435,13 @@ Le classi di tessuto grasso sono determinate dal grado di ingrasso, ovvero dai d
 <tr><td>5 troppo grasso</td><td>copertura di grasso eccessiva; grasso in eccesso visibile sulle e tra le costole</td></tr>
 </table>
 
-Allegato 6
+Allegato 6[^t-3]
 
 (art. 8 cpv. 1)
 
 ## Omologazione di apparecchi di classificazione a ubicazione vincolata per la classificazione della qualità di animali della specie bovina
+
+[^t-3]: Aggiornato dal n. I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 - 1\. Prima di utilizzare per la prima volta uno degli apparecchi di classificazione menzionati nell’allegato 1 numero 3, l’organizzazione incaricata effettua, con il supporto scientifico, un collaudo tecnico con classificazione di riferimento e una comparazione dei valori di misurazione (validazione).
 - 2\. Per la comparazione dei valori di misurazione vigono le seguenti norme:
@@ -453,10 +457,10 @@ Allegato 6
 - 3\.5 La valutazione viene effettuata per ciascun gruppo delle categorie di animali da macello e da ingrasso accorpate come segue:
 
 <table>
-<tr><td>Gruppo di valutazione</td><td>Categoria di animali da macello e da ingrasso</td><td>Numero minimo di carcasse</td></tr>
+<tr><th>Gruppo di valutazione</th><th>Categoria di animali da macello e da ingrasso</th><th>Numero minimo di carcasse</th></tr>
 <tr><td>Vitelli</td><td>KV</td><td>347</td></tr>
 <tr><td>Animali da banco</td><td>MT/OB/RG</td><td>373</td></tr>
-<tr><td>Animali destinati alla trasformazione</td><td>MA/RV/VK</td><td>275</td></tr>
+<tr><td>Animali destinati alla trasformazione</td><td>MA/VK</td><td>275</td></tr>
 <tr><td>Totale</td><td>–</td><td>995</td></tr>
 </table>
 
@@ -490,7 +494,7 @@ Allegato 6
 </table>
 
 - 6\. Requisiti minimi per la riuscita della comparazione dei valori di misurazione
-- 6\.1 In tutti e tre i gruppi di valutazione validati vitelli (KV), animali da banco (MT/OB/RG) e animali destinati alla trasformazione (MA/RV/VK) deve essere raggiunto il punteggio minimo per la muscolatura e il tessuto grasso, affinché la validazione sia considerata complessivamente superata.
+- 6\.1 In tutti e tre i gruppi di valutazione validati vitelli (KV), animali da banco (MT/OB/RG) e animali destinati alla trasformazione (MA/VK) deve essere raggiunto il punteggio minimo per la muscolatura e il tessuto grasso, affinché la validazione sia considerata complessivamente superata.
 - 6\.2 I punteggi minimi, validi cumulativamente, per la riuscita della validazione dell’apparecchio sono:
 
 <table>
@@ -526,9 +530,7 @@ Allegato 7
 </table>
 
 - Per ogni campo devono essere presi in considerazione castrati e femmine possibilmente in ugual numero.
-
-2.4 La misurazione con lo scanner a ultrasuoni Logiq 200 Pro viene effettuata al momento della consueta classificazione e pesatura, circa un’ora dopo l’abbattimento dell’animale. Dopo la pesatura le mezzene vengono staccate e misurate. Si misura:
-
+- 2\.4 La misurazione con lo scanner a ultrasuoni Logiq 200 Pro viene effettuata al momento della consueta classificazione e pesatura, circa un’ora dopo l’abbattimento dell’animale. Dopo la pesatura le mezzene vengono staccate e misurate. Si misura:
 - 2\.4.1 x<sub>1</sub> = spessore, in mm, del muscolo allo stesso tempo e nello stesso punto di x<sub>2</sub> e
 - 2\.4.2 x<sub>2</sub> = spessore, in mm, del lardo dorsale (inclusa la cotenna), misurato a 7 cm lateralmente alla linea media della carcassa calda, appesa, al livello fra la penultima e la terzultima costola.
 - 2\.4.3 Ogni mezzena viene misurata due volte. Se la differenza tra i valori registrati è superiore a 1 mm la misurazione va ripetuta. Questi valori sono utilizzati nella formula valida per l’apparecchio Fat-O-Meater II. Il tenore di carne magra (TCM) stimato (%) viene comparato con quello stabilito con l’apparecchio di classificazione.

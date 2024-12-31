@@ -4,11 +4,11 @@ title: "Ordonnance de l’OFAG du 30 novembre 2021 sur l’estimation et la clas
 short: OESC-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/802"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2021-11-30
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-802-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-802-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20220101/fr"
 
 (OESC-OFAG)
 
-du 30 novembre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 30 novembre 2021 (État le 1<sup>er</sup> janvier 2025)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -123,11 +123,13 @@ Sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 1, 7, al. 2, 8, al. 1, 9, al. 1, et 10)
 
 ## Évaluation de la qualité des animaux de l’espèce bovine
+
+[^t-1]: Mise à jour par le ch. I de l’O de l’OFAG du 28 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Estimation
 
@@ -140,15 +142,14 @@ Les animaux sur pied et les carcasses sont estimés en évaluant successivement 
 Compte tenu de l’âge, du sexe et des possibilités de mise en valeur des demi-carcasses, les animaux de boucherie et à l’engrais sont répartis dans les catégories suivantes:
 
 <table>
-<tr><td>Catégorie</td><td>Abréviation</td></tr>
-<tr><td>taureaux sans pelles</td><td>MT</td></tr>
-<tr><td>taureaux plus âgés à partir de 1 pelle et bœufs à partir de 5 pelles</td><td>MA</td></tr>
-<tr><td>bœufs jusqu’à 4 pelles au maximum</td><td>OB</td></tr>
-<tr><td>génisses jusqu’à 4 pelles au maximum</td><td>RG</td></tr>
-<tr><td>génisses/jeunes vaches, vaches jusqu’à 4 pelles au maximum et génisses à partir de 5 pelles</td><td>RV</td></tr>
-<tr><td>vaches</td><td>VK</td></tr>
-<tr><td>jeune bétail</td><td>JB</td></tr>
-<tr><td>veaux</td><td>KV</td></tr>
+<tr><th>Catégorie</th><th>Abréviation</th></tr>
+<tr><td>veaux jusqu’à 240 jours</td><td>KV</td></tr>
+<tr><td>jeune bétail jusqu’à 300 jours, si les animaux sont destinés à l’engraissement; catégorisation valable seulement pour les marchés publics surveillés</td><td>JB</td></tr>
+<tr><td>taureaux, de 241 à 540 jours</td><td>MT</td></tr>
+<tr><td>taureaux de plus de 540 jours et bœufs de plus de 730 jours</td><td>MA</td></tr>
+<tr><td>bœufs, de 241 à 730 jours</td><td>OB</td></tr>
+<tr><td>génisses n’ayant pas encore vêlé, de 241 à 900 jours</td><td>RG</td></tr>
+<tr><td>vaches et génisses de plus de 900 jours et génisses ayant vêlé, jusqu’à 900 jours</td><td>VK</td></tr>
 </table>
 
 ### 2.2 Détermination de la classe commerciale
@@ -325,11 +326,13 @@ La classe de tissu gras est déterminée par le degré d’engraissement et la c
 <tr><td>5 exagérément gras</td><td>surabondance générale de la couverture de graisse, formation de bourrelets de graisse; graisse excessive visible sur et entre les côtes</td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-2]
 
 (art. 4)
 
 ## Évaluation de la qualité des animaux de l’espèce ovine
+
+[^t-2]: Mise à jour par le ch. I de l’O de l’OFAG du 28 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Estimation
 
@@ -342,11 +345,10 @@ Les animaux sur pied et les carcasses sont estimés en évaluant successivement 
 Compte tenu de l’âge, du sexe et des possibilités de mise en valeur des demi-carcasses, les animaux de boucherie et à l’engrais sont répartis dans les catégories suivantes:
 
 <table>
-<tr><td colspan="2">Catégorie</td><td>Abréviation</td></tr>
-<tr><td colspan="2">agneaux sans pelles</td><td>LA</td></tr>
-<tr><td colspan="2">moutons avec 2 pelles</td><td>SM 2</td></tr>
-<tr><td colspan="2">moutons avec 4 pelles et sujets plus âgés</td><td>SM 4-8</td></tr>
-<tr><td colspan="2">agneaux de pâturage sans pelles (seulement valable pour les marchés publics surveillés)</td><td>WP</td></tr>
+<tr><th>Catégorie</th><th>Abréviation</th></tr>
+<tr><td>agneaux jusqu’à 420 jours</td><td>LA</td></tr>
+<tr><td>moutons de plus de 420 jours</td><td>SM</td></tr>
+<tr><td>agneaux de pâturage, si les animaux sont destinés à l’engraissement; catégorisation valable seulement pour les marchés publics surveillés</td><td>WP</td></tr>
 </table>
 
 ### 2.2 Détermination de la classe commerciale
@@ -427,11 +429,13 @@ La classe de tissu gras est déterminée par le degré d’engraissement et la c
 <tr><td>5 exagérément gras</td><td>surabondance de la couverture de graisse; graisse excessive visible sur et entre les côtes</td></tr>
 </table>
 
-Annexe 6
+Annexe 6[^t-3]
 
 (art. 8, al. 1)
 
 ## Autorisation de nouveaux appareils de classification installés dans un abattoir en vue de l’évaluation de la qualité des animaux de l’espèce bovine
+
+[^t-3]: Mise à jour par le ch. I de l’O de l’OFAG du 28 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 - 1\. Avant la première mise en service d’un appareil de classification visé à l’annexe 1, ch. 3, l’organisation mandatée procède à un contrôle technique avec classification de référence et à une comparaison des valeurs mesurées (validation) avec accompagnement scientifique.
 - 2\. Les prescriptions suivantes sont valables pour la comparaison des valeurs mesurées:
@@ -447,10 +451,10 @@ Annexe 6
 - 3\.5 L’évaluation se déroule pour chaque catégorie d’animaux de boucherie et à l’engrais, groupée comme suit:
 
 <table>
-<tr><td>Groupe d’évaluation</td><td>Catégorie d’animaux de boucherie et à l’engrais</td><td>Nombre minimum de carcasses</td></tr>
+<tr><th>Groupe d’évaluation</th><th>Catégorie d’animaux de boucherie et à l’engrais</th><th>Nombre minimum de carcasses</th></tr>
 <tr><td>Veaux</td><td>KV</td><td>347</td></tr>
 <tr><td>Animaux d’étal</td><td>MT/OB/RG</td><td>373</td></tr>
-<tr><td>Animaux destinés à la transformation</td><td>MA/RV/VK</td><td>275</td></tr>
+<tr><td>Animaux destinés à la transformation</td><td>MA/VK</td><td>275</td></tr>
 <tr><td>Total</td><td>–</td><td>995</td></tr>
 </table>
 
@@ -484,7 +488,7 @@ Annexe 6
 </table>
 
 - 6\. Exigences minimales pour la comparaison des valeurs mesurées
-- 6\.1 Dans les trois groupes d’évaluation validés, les veaux (KV), les animaux d’étal (MT/OB/RG) et les animaux destinés à la transformation (MA/RV/VK), le score minimum pour la charnure et le tissu gras doit être atteint pour que la validation soit obtenue.
+- 6\.1 Dans les trois groupes d’évaluation validés, les veaux (KV), les animaux d’étal (MT/OB/RG) et les animaux destinés à la transformation (MA/VK), le score minimum pour la charnure et le tissu gras doit être atteint pour que la validation soit obtenue.
 - 6\.2 Le score minimum additionné pour la validation de l’appareil est:
 
 <table>

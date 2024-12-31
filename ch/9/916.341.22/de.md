@@ -4,11 +4,11 @@ title: "Verordnung des BLW vom 30. November 2021 über die Einschätzung und Kla
 short: EKV-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/802"
 language: de
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2021-11-30
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-802-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-802-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20220101/de"
 
 (EKV-BLW)
 
-vom 30. November 2021 (Stand am 1. Januar 2022)
+vom 30. November 2021 (Stand am 1. Januar 2025)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -123,11 +123,13 @@ Die folgenden Erlasse werden aufgehoben:
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 1, 7 Abs. 2, 8 Abs. 1, 9 Abs. 1 und 10)
 
 ## Einstufung der Qualität von Tieren der Rindviehgattung
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 28. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Einschätzung
 
@@ -140,15 +142,14 @@ Lebendtiere und Schlachtkörper werden eingeschätzt, indem nacheinander die Sch
 Die Schlacht- und Masttiere werden unter Berücksichtigung von Alter, Geschlecht und der Verwendungsmöglichkeiten der Schlachthälften in folgende Schlacht- und Masttierkategorien eingeteilt:
 
 <table>
-<tr><td>Kategorie</td><td>Abkürzung</td></tr>
-<tr><td>Muni ungeschaufelt</td><td>MT</td></tr>
-<tr><td>Muni, ältere ab 1 Schaufel und Ochsen ab 5 Schaufeln</td><td>MA</td></tr>
-<tr><td>Ochsen bis maximal 4 Schaufeln</td><td>OB</td></tr>
-<tr><td>Rinder bis maximal 4 Schaufeln</td><td>RG</td></tr>
-<tr><td>Rinder/Jungkühe, Kühe bis maximal 4 Schaufeln und Rinder ab 5 Schaufeln</td><td>RV</td></tr>
-<tr><td>Kühe</td><td>VK</td></tr>
-<tr><td>Jungvieh</td><td>JB</td></tr>
-<tr><td>Kälber</td><td>KV</td></tr>
+<tr><th>Kategorie</th><th>Abkürzung</th></tr>
+<tr><td>Kälber bis 240 Tage</td><td>KV</td></tr>
+<tr><td>Jungvieh bis 300 Tage, wenn für Weitermast verwendet; die Einteilung in diese Kategorie darf nur auf überwachten öffentlichen Märkten vorgenommen werden.</td><td>JB</td></tr>
+<tr><td>Stiere (Muni) 241–540 Tage</td><td>MT</td></tr>
+<tr><td>Stiere (Muni) älter als 540 Tage und Ochsen älter als 730 Tage</td><td>MA</td></tr>
+<tr><td>Ochsen 241–730 Tage</td><td>OB</td></tr>
+<tr><td>Rinder 241–900 Tage, nicht gekalbt</td><td>RG</td></tr>
+<tr><td>Kühe und Rinder älter als 900 Tage sowie gekalbte Rinder bis 900 Tage</td><td>VK</td></tr>
 </table>
 
 ### 2.2 Bestimmung der Handelsklasse
@@ -325,11 +326,13 @@ Die Fettgewebeklassen werden durch den Ausmastgrad, das heisst durch den Fettans
 <tr><td>5 überfett</td><td>Fettabdeckung übermässig, wulstartige Fettgebilde; übermässig sichtbares Fett auf und zwischen den Rippen</td></tr>
 </table>
 
-Anhang 4
+Anhang 4[^t-2]
 
 (Art. 4)
 
 ## Einstufung der Qualität von Tieren der Schafgattung
+
+[^t-2]: Bereinigt gemäss Ziff. I der V des BLW vom 28. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Einschätzung
 
@@ -342,11 +345,10 @@ Lebendtiere und Schlachtkörper werden eingeschätzt, indem nacheinander die Sch
 Die Schlacht- und Masttiere werden unter Berücksichtigung von Alter, Geschlecht und der Verwendungsmöglichkeiten der Schlachthälften in folgende Kategorien eingeteilt:
 
 <table>
-<tr><td colspan="2">Kategorie</td><td>Abkürzung</td></tr>
-<tr><td colspan="2">Lämmer, ungeschaufelt</td><td>LA</td></tr>
-<tr><td colspan="2">Schafe mit 2 Schaufeln</td><td>SM 2</td></tr>
-<tr><td colspan="2">Schafe mit 4 Schauefeln und ältere</td><td>SM 4-8</td></tr>
-<tr><td colspan="2">Weidelämmer, ungeschaufelt (gilt nur auf überwachten öffentlichen Märkten)</td><td>WP</td></tr>
+<tr><th>Kategorie</th><th>Abkürzung</th></tr>
+<tr><td>Lämmer bis 420 Tage</td><td>LA</td></tr>
+<tr><td>Schafe älter als 420 Tage</td><td>SM</td></tr>
+<tr><td>Weidelämmer, wenn für Weitermast verwendet; die Einteilung in diese Kategorie darf nur auf überwachten öffentlichen Märkten vorgenommen werden.</td><td>WP</td></tr>
 </table>
 
 ### 2.2 Bestimmung der Handelsklasse
@@ -427,11 +429,13 @@ Die Fettgewebeklassen werden durch den Ausmastgrad, das heisst durch den Fettans
 <tr><td>5 überfett</td><td>übermässige Fettabdeckung; übermässig sichtbares Fett auf und zwischen den Rippen</td></tr>
 </table>
 
-Anhang 6
+Anhang 6[^t-3]
 
 (Art. 8 Abs. 1)
 
 ## Zulassung von standortgebundenen Klassifizierungsgeräten für die Einstufung der Qualität von Tieren der Rindviehgattung
+
+[^t-3]: Bereinigt gemäss Ziff. I der V des BLW vom 28. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 - 1\. Die beauftragte Organisation führt vor der erstmaligen Inbetriebnahme eines Klassifizierungsgeräts nach Anhang 1 Ziffer 3 mit wissenschaftlicher Begleitung eine technische Abnahme mit Referenz-Klassifizierung und einen Messwertvergleich (Validierung) durch.
 - 2\. Für den Messwertvergleich gelten nachfolgende Vorgaben:
@@ -447,10 +451,10 @@ Anhang 6
 - 3\.5 Die Bewertung erfolgt je Gruppe der wie folgt zusammengefassten Schlacht- und Masttierkategorien:
 
 <table>
-<tr><td>Bewertungsgruppe</td><td>Schlacht- und Masttierkategorie</td><td>Mindestanzahl Schlachtkörper</td></tr>
+<tr><th>Bewertungsgruppe</th><th>Schlacht- und Masttierkategorie</th><th>Mindestanzahl Schlachtkörper</th></tr>
 <tr><td>Kälber</td><td>KV</td><td>347</td></tr>
 <tr><td>Banktiere</td><td>MT/OB/RG</td><td>373</td></tr>
-<tr><td>Verarbeitungstiere</td><td>MA/RV/VK</td><td>275</td></tr>
+<tr><td>Verarbeitungstiere</td><td>MA/VK</td><td>275</td></tr>
 <tr><td>Total</td><td>–</td><td>995</td></tr>
 </table>
 
@@ -464,7 +468,7 @@ Anhang 6
 <tr><td>Differenz</td><td>1</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td></td></tr>
 </table>
 
-- 4\.2.2 Fettgewebe
+- 4\.1.2 Fettgewebe
 
 <table>
 <tr><td>Fettgewebeklasse</td><td>**1**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td></tr>
@@ -484,7 +488,7 @@ Anhang 6
 </table>
 
 - 6\. Mindestanforderungen an den erfolgreichen Messwertvergleich
-- 6\.1 In allen drei validierten Bewertungsgruppen Kälber (KV), Banktiere (MT/OB/RG) und Verarbeitungstiere (MA/RV/VK) muss die Mindestpunktzahl für Fleischigkeit und Fettgewebe erreicht werden, damit die Validierung als «insgesamt erfüllt» gilt.
+- 6\.1 In allen drei validierten Bewertungsgruppen Kälber (KV), Banktiere (MT/OB/RG) und Verarbeitungstiere (MA/VK) muss die Mindestpunktzahl für Fleischigkeit und Fettgewebe erreicht werden, damit die Validierung als «insgesamt erfüllt» gilt.
 - 6\.2 Als Mindestpunktzahlen für die erfolgreiche Validierung des Geräts gelten kumulativ:
 
 <table>
