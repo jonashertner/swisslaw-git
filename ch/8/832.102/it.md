@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° ottobre 2024)
+del 27 giugno 1995 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 [^ingress-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
 
 ## Parte prima: Assicurazione obbligatoria delle cure medico-sanitarie
 
@@ -59,19 +59,19 @@ Sono inoltre tenuti ad assicurarsi:
 - g.[^1-14] le persone che esercitano un’attività lucrativa in Svizzera per un periodo inferiore ai tre mesi e che conformemente all’Accordo sulla libera circolazione delle persone o all’Accordo AELS non necessitano di un permesso di dimora, sempre che per i trattamenti in Svizzera non dispongano di una copertura assicurativa equivalente.
 
 [^1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^1-2]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^1-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-5]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-6]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-5]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-6]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-8]: Introdotta dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-8]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^1-10]: Introdotta dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-10]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-11]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^1-12]: Introdotta dal n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-13]: Introdotta dal n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^1-14]: Introdotta dal n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^1-12]: Introdotta dalla cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-13]: Introdotta dalla cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-14]: Introdotta dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 
 #### Art. 2
 
@@ -112,26 +112,26 @@ Non sono soggetti all’obbligo d’assicurazione:
 
 <sup>8</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone a cui l’assoggettamento all’assicurazione svizzera provoca un netto peggioramento della protezione assicurativa o della copertura dei costi e che a causa della loro età e/o del loro stato di salute non possono stipulare un’assicurazione complementare equiparabile o lo possono fare solo a condizioni difficilmente sostenibili. La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-20]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^2-2]: Ora: art. 1*a* cpv. 1 lett. b n. 1–6.
 [^2-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^2-4]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^2-4]: Introdotta dalla cifra I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-7]: Introdotta dal n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-8]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^2-7]: Introdotta dalla cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-8]: Introdotta dalla cifra I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^2-9]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)
-[^2-10]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-11]: Introdotta dal n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-12]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-13]: Abrogato dal n. I dell’O del 22 mag. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-14]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-15]: Introdotto dal n. I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta il n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^2-16]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dal n. I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^2-17]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^2-18]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-19]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-20]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-10]: Introdotta dalla cifra I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-11]: Introdotta dalla cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-12]: Nuovo testo giusta la cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-13]: Abrogato dalla cifra I dell’O del 22 mag. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-14]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-15]: Introdotto dalla cifra I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta la cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-16]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^2-17]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^2-18]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-19]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-20]: Introdotto dalla cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 3
 
@@ -141,7 +141,7 @@ Non sono soggetti all’obbligo d’assicurazione:
 
 <sup>2</sup> Sono considerati familiari il coniuge e i figli che non hanno ancora compiuto i 18 anni come pure i figli in formazione che non hanno ancora compiuto i 25 anni.
 
-[^3-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^3-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 4
 
@@ -189,10 +189,10 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 <sup>4</sup> Le persone assicurate insieme a una persona secondo i capoversi 1 o 3 presso l’assicurazione malattie di un beneficiario istituzionale secondo l’articolo 2 capoverso 1 lettere a, b, i o k della legge sullo Stato ospite e che non fruiscono personalmente di privilegi o immunità sono, a domanda, esentate dall’obbligo d’assicurazione se beneficiano, per le cure in Svizzera, di una copertura assicurativa equivalente. Alla domanda va accluso un attestato scritto dell’organo competente del beneficiario istituzionale che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione.[^6-5]
 
 [^6-1]: Nuovo testo giusta l’all. n. 15 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^6-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^6-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^6-5]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^6-5]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 ### Sezione 2: Inizio e fine dell’assicurazione
 
@@ -206,7 +206,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 <sup>3</sup> Gli assicuratori possono trattare i dati personali soltanto per i compiti previsti nella legge.
 
-[^6a-1]: Introdotto dal n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^6a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^6a-2]: [[RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)all. n. 2]. Dal 1° gen. 2016 vedi l’art. 2 cpv. 2 della LF del 26 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 
 #### Art. 7
@@ -233,19 +233,19 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 <sup>8</sup> Le persone tenute ad assicurarsi ai sensi dell’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> devono assicurarsi entro tre mesi dalla nascita dell’obbligo d’assicurazione in Svizzera. Se si assicurano entro questo termine, l’assicurazione inizia dall’assoggettamento all’assicurazione svizzera. Se si assicurano più tardi, l’assicurazione inizia dalla data dell’affiliazione. L’assicurazione cessa se queste persone non adempiono più le condizioni per un assoggettamento all’assicurazione svizzera conformemente all’Accordo sulla libera circolazione delle persone[^7-11] e al relativo allegato II, all’Accordo AELS[^7-12], al relativo allegato K e all’appendice 2 dell’allegato K o ad altri accordi internazionali.[^7-13]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^7-3]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^7-4]: Introdotto dal n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
-[^7-5]: Introdotto dal n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
-[^7-6]: Nuovo testo del primo al terzo per. giusta il n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^7-3]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^7-4]: Introdotto dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^7-5]: Introdotto dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^7-6]: Nuovo testo del primo al terzo per. giusta la cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 [^7-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^7-8]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^7-8]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^7-9]: Nuovo testo giusta l’all. n. 15 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^7-10]: Dal 1° gen. 2016: art. 2 e 3 della legge del 16 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^7-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^7-13]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^7-13]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7a
 
@@ -253,7 +253,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 Gli assicuratori possono offrire alle persone che sono state soggette all’assicurazione obbligatoria delle cure medico-sanitarie ai sensi dell’articolo 1 capoversi 1 e 2 lettere a e c e degli articoli 3–6 la continuazione dei rapporti d’assicurazione su base contrattuale. Il contratto può essere stipulato con lo stesso assicuratore o con un altro. Il finanziamento delle prestazioni corrispondenti a quelle dell’assicurazione obbligatoria delle cure medico-sanitarie è retto dai principi dell’assicurazione sociale malattie. I rapporti d’assicurazione soggiacciono alla legge del 2 aprile 1908[^7a-2] sul contratto d’assicurazione.
 
-[^7a-1]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^7a-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 
 #### Art. 7b
@@ -262,7 +262,7 @@ Gli assicuratori possono offrire alle persone che sono state soggette all’assi
 
 Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a* capoverso 1 della legge circa il prolungamento dell’obbligo d’assicurazione.
 
-[^7b-1]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 8
 
@@ -274,8 +274,8 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>3</sup> Se l’assicurato cambia assicuratore, l’assicuratore precedente deve comunicare al nuovo assicuratore il supplemento di premio nell’ambito della comunicazione giusta l’articolo 7 capoverso 5 della legge. Il supplemento di premio stabilito dal primo assicuratore è vincolante anche per gli assicuratori successivi.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
-[^8-2]: Introdotto dal n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
+[^8-2]: Introdotto dalla cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
 
 #### Art. 9
 
@@ -285,9 +285,9 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>2</sup> Se un assicuratore viene a conoscenza del fatto che una persona è assicurata contemporaneamente presso uno o più altri assicuratori, segnatamente mediante una comunicazione dell’istituzione comune secondo l’articolo 10 capoverso 3 dell’ordinanza del 19 ottobre 2016[^9-2] sulla compensazione dei rischi nell’assicurazione malattie, decide, sentita questa persona, di porre fine ai rapporti assicurativi non conformi alle disposizioni della LAMal.[^9-3]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^9-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^9-3]: Introdotto dal n. II dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^9-3]: Introdotto dalla cifra II dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 ### Sezione 3: Compiti dei Cantoni
 
@@ -301,16 +301,16 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>3</sup> Gli assicuratori sociali preposti al pagamento delle rendite e gli organi dell’assicurazione contro la disoccupazione assistono i Cantoni nel compito d’informare circa l’obbligo d’assicurazione delle persone di cui all’articolo 6*a* capoverso 1 lettere b e c della legge.[^10-4]
 
-[^10-1]: Nuova espr. giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)). Di detta mod. é tenuto conto il tutto il testo.
-[^10-2]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^10-4]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^10-1]: Nuova espr. giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)). Di detta mod. é tenuto conto il tutto il testo.
+[^10-2]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^10-4]: Introdotto dalla cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 ### Capitolo 2: Sospensione dell’obbligo d’assicurazione e della copertura dell’infortunio
 
 [^part1-tit1-chap2-1]
 
-[^part1-tit1-chap2-1]: Originario avanti l’art. 11. Nuovo testo giusta il n. I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
+[^part1-tit1-chap2-1]: Originario avanti l’art. 11. Nuovo testo giusta la cifra I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
 
 #### Art. 10a
 
@@ -330,7 +330,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>7</sup> L’assicuratore segnala alle autorità cantonali competenti per la riduzione dei premi le persone il cui obbligo di assicurazione è stato sospeso e la durata della sospensione.
 
-[^10a-1]: Introdotto dal n. I dell’O dell’11 dic. 2000 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)). Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^10a-1]: Introdotto dalla cifra I dell’O dell’11 dic. 2000 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)). Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^10a-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
 #### Art. 11
@@ -341,7 +341,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>2</sup> Prima della fine del rapporto di lavoro, della nascita del diritto all’indennità di disoccupazione o della copertura degli infortuni non professionali, il datore di lavoro oppure l’assicurazione contro la disoccupazione deve informare per scritto l’assicurato circa l’obbligo, per questo, di comunicare all’assicuratore-malattie da quando cessa la copertura dell’infortunio. L’assicurato deve fare detta comunicazione all’assicuratore-malattie nel mese che segue l’informazione del datore di lavoro o dell’assicurazione contro la disoccupazione.
 
-[^11-1]: Introdotto dal n. I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
+[^11-1]: Introdotto dalla cifra I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
 
 ### Titolo 2: Organizzazione
 
@@ -357,7 +357,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 [^15a-1]
 
-[^15a-1]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 ### Capitolo 2: ...
 
@@ -386,12 +386,12 @@ L’istituzione comune assume inoltre compiti di coordinamento per l’adempimen
 
 <sup>4</sup> Se, giusta l’articolo 42 capoverso 2 della legge, assicuratori e fornitori di prestazioni hanno stabilito per convenzione che l’assicuratore è il debitore della rimunerazione, l’istituzione comune è assimilata, nell’esecuzione dell’assistenza reciproca in materia di prestazioni, agli assicuratori convenzionati.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^19-3]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^19-4]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^19-5]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^19-6]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^19-3]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^19-4]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^19-5]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^19-6]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 19a
 
@@ -405,13 +405,13 @@ L’istituzione comune assume inoltre compiti di coordinamento per l’adempimen
 
 <sup>4</sup> Il Consiglio di fondazione dell’istituzione comune emana un regolamento per l’attuazione unitaria della ripartizione della quotaparte cantonale tra Cantoni. Prima di adottarlo consulta i Cantoni e gli assicuratori.
 
-[^19a-1]: Introdotto dal n. I dell’O del 28 set. 1998 ([RU 1998 2634](https://fedlex.data.admin.ch/eli/oc/1998/2634_2634_2634)). Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998 ([RU 1998 2634](https://fedlex.data.admin.ch/eli/oc/1998/2634_2634_2634)). Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 19b
 
 [^19b-1]
 
-[^19b-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^19b-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 20 e 21
 
@@ -440,16 +440,16 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 <sup>4</sup> I rimedi giuridici sono retti dalle disposizioni generali dell’organizzazione giudiziaria.[^22-10]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^22-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 [^22-3]: Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
 [^22-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^22-6]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^22-7]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^22-8]: Introdotto n. I dell’O del 3 dic. 2004 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^22-9]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^22-10]: Introdotto dal n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^22-7]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-8]: Introdotto dalla cifra I dell’O del 3 dic. 2004 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
+[^22-9]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-10]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 
 ### Capitolo 4: Promozione della salute
 
@@ -462,8 +462,8 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 <sup>3</sup> Il rapporto di gestione è pubblicato.[^23-3]
 
 [^23-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^23-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^23-3]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^23-3]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 ### Capitolo 5: Vigilanza
 
@@ -485,13 +485,13 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 <sup>2</sup> Contro le decisioni di cui al capoverso 1 l’UFSP può interporre ricorso al Tribunale federale.
 
-[^27-1]: Nuovo testo giusta il n. II 95 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^27-1]: Nuovo testo giusta la cifra II n. 95 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### Sezione 3: Dati
 
 [^part1-tit2-chap5-sec3-1]
 
-[^part1-tit2-chap5-sec3-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^part1-tit2-chap5-sec3-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 28
 
@@ -563,16 +563,16 @@ In relazione a una rimunerazione secondo gli articoli 71*a*–71*c* gli assicura
 
 <sup>9</sup> L’UFSP mette a disposizione degli organismi preposti all’esecuzione della LAMal i risultati delle rilevazioni effettuate con i dati di cui al capoverso 2; sono fatti salvi i risultati delle rilevazioni effettuate con i dati di cui al capoverso 1<sup>bis</sup>. L’UFSP assicura che l’anonimato degli assicurati resti garantito.[^28-4]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 [^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^28-3]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^28-4]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-3]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 28a
 
 [^28a-1]
 
-[^28a-1]: Introdotto dal n. I dell’O del 22 ott. 2008 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 28b
 
@@ -602,7 +602,7 @@ L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’a
 - i. premi;
 - j. bilancio e conto d’esercizio.
 
-[^28b-1]: Introdotto dal n. I dell’O del 22 ott. 2008 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28b-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 28c
 
@@ -620,7 +620,7 @@ L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’a
 
 <sup>6</sup> Per il trattamento della domanda può riscuotere una tassa. Essa è commisurata al tempo impiegato, ma non può superare i 10 000 franchi. La tariffa oraria oscilla tra 90 e 200 franchi a seconda della competenza specifica richiesta e della classe di funzione del personale incaricato. Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^28c-2] sugli emolumenti.
 
-[^28c-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28c-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 [^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 29
@@ -629,7 +629,7 @@ L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’a
 
 Per calcolare gli effettivi medi degli assicurati che devono comunicare, gli assicuratori sommano i giorni di assicurazione di tutti gli assicurati per l’anno in questione e dividono il totale per il numero di giorni di detto anno.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 30
 
@@ -680,7 +680,7 @@ I fornitori di prestazioni comunicano all’Ufficio federale di statistica (UST)
 
 - g. indicatori medici della qualità (art. 59*a* cpv. 1 lett. f LAMal), segnatamente dati la cui analisi permette di trarre conclusioni sulla misura in cui le prestazioni mediche sono fornite in maniera efficace, efficiente, adeguata, sicura, incentrata sul paziente, tempestiva e rispettosa delle pari opportunità.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 
 #### Art. 30a
 
@@ -700,7 +700,7 @@ I fornitori di prestazioni comunicano all’Ufficio federale di statistica (UST)
 
 <sup>7</sup> Per produrre indicatori di qualità, può anche collegare i dati di cui all’articolo 30 con altre fonti di dati. Gli articoli 13*h*–13*n* dell’ordinanza del 30 giugno 1993[^30a-3] sulle rilevazioni statistiche, a eccezione delle disposizioni sul collegamento di dati su mandato di terzi, sono applicabili per analogia.
 
-[^30a-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^30a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
@@ -735,11 +735,11 @@ I dati di cui all’articolo 30 sono trasmessi per principio in forma aggregata 
 - a. all’UFSP;
 - b. alle autorità cantonali competenti per la pianificazione degli ospedali, delle case per partorienti e delle case di cura.
 
-[^30b-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30b-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^30b-3]: Introdotta dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^30b-4]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^30b-5]: Introdotto dal n. I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^30b-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^30b-2]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^30b-3]: Introdotta dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-4]: Introdotto dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^30b-5]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 [^30b-6]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
@@ -748,9 +748,9 @@ I dati di cui all’articolo 30 sono trasmessi per principio in forma aggregata 
 
 Per la rilevazione, il trattamento e la trasmissione dei dati secondo l’articolo 59*a* LAMal, l’UST, in collaborazione con l’UFSP, appronta un regolamento per il trattamento ai sensi dell’articolo 6 dell’ordinanza del 31 agosto 2022[^30c-2] sulla protezione dei dati (OPDa).[^30c-3] Nel regolamento per il trattamento sono fissate, dopo aver sentito le cerchie interessate, le variabili ai sensi dell’articolo 30*a* capoverso 1 che i fornitori di prestazioni devono fornire.
 
-[^30c-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^30c-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^30c-3]: Nuovo testo giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30c-3]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -768,7 +768,7 @@ I risultati delle rilevazioni effettuate dall’Ufficio federale di statistica i
 
 <sup>2</sup> L’UFSP pubblica i risultati dei dati trasmessi riguardanti gli ospedali e gli altri istituti secondo l’articolo 39 della LAMal come pure le organizzazioni di cure e d’aiuto a domicilio secondo l’articolo 51 della presente ordinanza a livello di singolo istituto, con il loro nome e la loro sede. Per i rimanenti fornitori di prestazioni i dati sono pubblicati per gruppi di fornitori di prestazioni. Non sono pubblicati i dati personali dei pazienti e del personale.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^31-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 31a
@@ -781,7 +781,7 @@ Se la conservazione, la cancellazione e la distruzione dei dati non sono altrime
 - b. cancellare i dati non appena questi non sono più necessari per raggiungere lo scopo per il quale sono stati trasmessi;
 - c. distruggere i dati al più tardi cinque anni dopo il loro ricevimento, sempre che non debbano essere archiviati.
 
-[^31a-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 
 #### Art. 32
 
@@ -814,9 +814,9 @@ Sentita la commissione competente, il Dipartimento federale dell’interno (DFI)
 - i.[^33-4] il contributo alle cure previsto dall’articolo 25*a* capoversi 1 e 4 della legge, differenziato in funzione del bisogno di cure.
 
 [^33-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^33-2]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
-[^33-3]: Introdotta dal n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
-[^33-4]: Introdotta dal n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
+[^33-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
+[^33-3]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
+[^33-4]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
 
 #### Art. 34
 
@@ -842,7 +842,7 @@ La valutazione dell’efficacia, dell’appropriatezza e dell’economicità del
 - b. fondatezza delle prestazioni sull’evidenza scientifica e sull’esperienza medica;
 - c. trasmissione delle conoscenze, attitudini e capacità necessarie per fornire le prestazioni attraverso un perfezionamento specifico complementare.
 
-[^35a-1]: Introdotto dal n. I dell’O del 16 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3687](https://fedlex.data.admin.ch/eli/oc/2017/420)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 16 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3687](https://fedlex.data.admin.ch/eli/oc/2017/420)).
 
 ### Capitolo 2: Entità della rimunerazione
 
@@ -860,8 +860,8 @@ La valutazione dell’efficacia, dell’appropriatezza e dell’economicità del
 
 <sup>5</sup> Sono salve le disposizioni sull’assistenza reciproca internazionale in materia di prestazioni.[^36-2]
 
-[^36-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^36-2]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^36-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^36-2]: Introdotto dalla cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 36a
 
@@ -882,7 +882,7 @@ Il programma deve adempiere le esigenze seguenti:
 - e. prevede che le tariffe e i prezzi delle prestazioni fornite all’estero siano convenuti tra gli assicuratori e i fornitori di prestazioni esteri; non possono essere superiori a quelli applicabili nel Cantone di frontiera che partecipa al programma e devono adempiere le esigenze fissate dagli articoli 43, 49 e 52 LAMal;
 - f. prevede che i fornitori di prestazioni esteri devono attenersi alle tariffe e ai prezzi convenuti e non possano esigere rimunerazioni più elevate per le prestazioni di cui alla lettera c.
 
-[^36a-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^36a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 36b
 
@@ -892,7 +892,7 @@ Il programma deve adempiere le esigenze seguenti:
 
 <sup>2</sup> Se gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e percepiscono una rendita svizzera o i loro familiari si avvalgono di cure ospedaliere in Svizzera, gli assicuratori versano all’ospedale la loro quotaparte nonché la quotaparte cantonale stabilita conformemente all’articolo 49*a* capoverso 3<sup>bis</sup> primo periodo LAMal come prestazione anticipata. Per ottenere il rimborso della prestazione anticipata, gli assicuratori presentano all’istituzione comune i loro crediti nei confronti dei Cantoni.
 
-[^36b-1]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^36b-1]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 37
 
@@ -900,13 +900,13 @@ Il programma deve adempiere le esigenze seguenti:
 
 Se le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein, in Norvegia o nel Regno Unito e che durante un soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni in base all’articolo 95*a* LAMal o a convenzioni internazionali si avvalgono di cure ospedaliere in Svizzera in un ospedale figurante nell’elenco, l’assicuratore estero assume le rimunerazioni fatturate secondo l’articolo 49 capoverso 1 LAMal.
 
-[^37-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^37-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ### Capitolo 3: Commissioni
 
 [^part1-tit3-chap3-1]
 
-[^part1-tit3-chap3-1]: Introdotto dal n. I dell’O del 25 giu. 1997, in vigore dal 1° gen. 1998 ([RU 1997 1639](https://fedlex.data.admin.ch/eli/oc/1997/1639_1639_1639)).
+[^part1-tit3-chap3-1]: Introdotto dalla cifra I dell’O del 25 giu. 1997, in vigore dal 1° gen. 1998 ([RU 1997 1639](https://fedlex.data.admin.ch/eli/oc/1997/1639_1639_1639)).
 
 #### Art. 37a
 
@@ -918,7 +918,7 @@ Le commissioni consultive ai sensi dell’articolo 33 capoverso 4 della legge so
 - b. la Commissione federale delle analisi, dei mezzi e degli apparecchi (Commissione delle analisi, dei mezzi e degli apparecchi);
 - c. Commissione federale dei medicamenti.
 
-[^37a-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^37a-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 37b
 
@@ -942,13 +942,13 @@ Le commissioni si dotano di un regolamento. Tale regolamento disciplina in parti
 
 <sup>6</sup> L’UFSP assume la segreteria delle commissioni e provvede al coordinamento dei lavori. Può affidare la segreteria a terzi.
 
-[^37b-1]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37b-1]: Nuovo testo giusta la cifra I n. 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37c
 
 [^37c-1]
 
-[^37c-1]: Abrogato dal n. I dell’O del 27 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^37c-1]: Abrogato dalla cifra I dell’O del 27 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 37d
 
@@ -980,9 +980,9 @@ La Commissione federale delle prestazioni generali e delle questioni fondamental
 - j. due rappresentanti dell’etica medica;
 - k. un rappresentante dell’industria della tecnica medica.[^37d-3]
 
-[^37d-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37d-2]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^37d-3]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37d-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^37d-2]: Nuovo testo giusta la cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^37d-3]: Nuovo testo giusta la cifra I n. 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37e
 
@@ -1005,11 +1005,11 @@ Essa si compone di 16 membri, di cui:[^37e-3]
 - i.[^37e-5] un rappresentante dei Cantoni.[^37e-6]
 
 [^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^37e-2]: Nuovo testo giusta il n. II dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
-[^37e-3]: Nuovo testo giusta il n. I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
-[^37e-4]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^37e-5]: Introdotta dal n. I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
-[^37e-6]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37e-2]: Nuovo testo giusta la cifra II dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^37e-3]: Nuovo testo giusta la cifra I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
+[^37e-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^37e-5]: Introdotta dalla cifra I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
+[^37e-6]: Nuovo testo giusta la cifra I n. 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37f
 
@@ -1033,17 +1033,17 @@ Essa si compone di 16 membri, di cui:[^37f-3]
 - j. due rappresentanti dei fabbricanti e dei distributori di mezzi e di apparecchi;
 - k.[^37f-4] un rappresentante del personale infermieristico, delle organizzazioni di cure e d’aiuto a domicilio e delle case di cura.[^37f-5]
 
-[^37f-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37f-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
-[^37f-3]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
-[^37f-4]: Introdotta dal n. I dell’O del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
-[^37f-5]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37f-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^37f-2]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-3]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-4]: Introdotta dalla cifra I dell’O del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-5]: Nuovo testo giusta la cifra I n. 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37g
 
 [^37g-1]
 
-[^37g-1]: Abrogato dal n. I dell’O del 27 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^37g-1]: Abrogato dalla cifra I dell’O del 27 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 ### Titolo 4: Fornitori di prestazioni
 
@@ -1053,7 +1053,7 @@ Essa si compone di 16 membri, di cui:[^37f-3]
 
 [^part1-tit4-chap1-sec1-1]
 
-[^part1-tit4-chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^part1-tit4-chap1-sec1-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 38
 
@@ -1111,14 +1111,14 @@ I farmacisti sono autorizzati se adempiono le seguenti condizioni:
 
 <sup>2</sup> I Cantoni fissano le condizioni alle quali i medici autorizzati a condurre una farmacia sono parificati ai farmacisti autorizzati. Considerano segnatamente le possibilità d’accesso dei pazienti a una farmacia.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^40-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 41
 
 [^41-1]
 
-[^41-1]: Abrogato dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^41-1]: Abrogato dalla cifra I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 3: Dentisti
 
@@ -1136,20 +1136,20 @@ I dentisti sono autorizzati per le prestazioni ai sensi dell’articolo 31 LAMal
 - b. aver esercitato per tre anni un’attività pratica presso un gabinetto dentistico o un istituto dentistico;
 - c. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^42-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 43
 
 [^43-1]
 
-[^43-1]: Abrogato dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^43-1]: Abrogato dalla cifra I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 4: Chiropratici e organizzazioni di chiropratica
 
 [^part1-tit4-chap1-sec4-1]
 
-[^part1-tit4-chap1-sec4-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^part1-tit4-chap1-sec4-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 44
 
@@ -1166,9 +1166,9 @@ I chiropratici sono autorizzati se adempiono le seguenti condizioni:
 
 <sup>3</sup> Sono fatte salve le disposizioni relative all’applicazione di radiazioni ionizzanti in chiropratica, segnatamente l’articolo 182 capoverso 1 lettera d dell’ordinanza del 26 aprile 2017[^44-5] sulla radioprotezione nonché le relative disposizioni d’esecuzione del Dipartimento federale dell’interno.[^44-6]
 
-[^44-1]: Introdotta dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44-1]: Introdotta dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^44-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^44-3]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44-3]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^44-4]: Abrogato dall’art. 17 dell’O del 27 giu. 2007 sui diplomi, la formazione, il perfezionamento e l’esercizio della professione nelle professioni mediche universitarie, con effetto dal 1° set. 2007 ([RU 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
 [^44-5]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^44-6]: Nuovo testo giusta l’all. 11 n. 7 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
@@ -1185,13 +1185,13 @@ Le organizzazioni di chiropratica sono autorizzate se adempiono le seguenti cond
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^44a-1]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^44a-1]: Introdotto dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 5: Levatrici e organizzazioni di levatrici
 
 [^part1-tit4-chap1-sec5-1]
 
-[^part1-tit4-chap1-sec5-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^part1-tit4-chap1-sec5-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 45
 
@@ -1231,7 +1231,7 @@ Le organizzazioni di levatrici sono autorizzate se adempiono le seguenti condizi
 
 [^46-1]
 
-[^46-1]: Abrogato dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^46-1]: Abrogato dalla cifra I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 47
 
@@ -1251,7 +1251,7 @@ I fisioterapisti sono autorizzati se adempiono le seguenti condizioni:
 - c. esercitare a titolo indipendente e per conto proprio;
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58g.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^47-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 48
@@ -1272,7 +1272,7 @@ Gli ergoterapisti sono autorizzati se adempiono le seguenti condizioni:
 - c. esercitare a titolo indipendente e per conto proprio;
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^48-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 49
@@ -1297,9 +1297,9 @@ Gli infermieri sono autorizzati se adempiono le seguenti condizioni:
 
 <sup>2</sup> Sono fatte salve le limitazioni cantonali relative al numero di infermieri autorizzati (art. 55*b* LAMal).[^49-3]
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^49-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
-[^49-3]: Introdotto dal n. I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^49-3]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 50
 
@@ -1323,7 +1323,7 @@ I logopedisti sono autorizzati se adempiono le seguenti condizioni:
 - d. esercitare a titolo indipendente e per conto proprio;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 50a
 
@@ -1343,7 +1343,7 @@ I dietisti sono autorizzati se adempiono le seguenti condizioni:
 - c. esercitare a titolo indipendente e per conto proprio;
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^50a-1]: Introdotto dal n. I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^50a-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
 
 #### Art. 50b
@@ -1363,7 +1363,7 @@ I neuropsicologi sono autorizzati se adempiono le seguenti condizioni:
 - c. esercitare a titolo indipendente e per conto proprio;
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^50b-1]: Introdotto dal n. I dell’O del 9 dic. 2016 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50b-1]: Introdotto dalla cifra I dell’O del 9 dic. 2016 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^50b-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
 
 #### Art. 50c
@@ -1383,9 +1383,9 @@ Gli psicologi psicoterapeuti sono autorizzati se adempiono le seguenti condizion
 - c. esercitare a titolo indipendente e per conto proprio;
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
 
-[^50c-1]: Introdotto dal n. I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50c-1]: Introdotto dalla cifra I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
-[^50c-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^50c-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^50c-4]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
 [^50c-5]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
 [^50c-6]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
@@ -1409,7 +1409,7 @@ I podologi sono autorizzati se adempiono le seguenti condizioni:
 - d. esercitare a titolo indipendente e per conto proprio;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^50d-1]: Introdotto dal n. I dell’O del 26 mag. 2021 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Vedi anche la disp. trans. del 23 giu. 2021 alla fine del testo.
+[^50d-1]: Introdotto dalla cifra I dell’O del 26 mag. 2021 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Vedi anche la disp. trans. del 23 giu. 2021 alla fine del testo.
 [^50d-2]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
 
 #### Art. 51
@@ -1429,9 +1429,9 @@ Le organizzazioni di cure e d’aiuto a domicilio sono autorizzate se adempiono 
 
 <sup>2</sup> Sono fatte salve le limitazioni cantonali relative al numero di organizzazioni di cure e d’aiuto a domicilio autorizzate (art. 55*b* LAMal).[^51-3]
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^51-2]: Introdotta dal n. I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 al 30 giu. 2032 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^51-3]: Introdotto dal n. I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^51-2]: Introdotta dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 al 30 giu. 2032 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^51-3]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 52
 
@@ -1445,7 +1445,7 @@ Le organizzazioni di fisioterapia sono autorizzate se adempiono le seguenti cond
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52a
 
@@ -1459,7 +1459,7 @@ Le organizzazioni di ergoterapia sono autorizzate se adempiono le seguenti condi
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^52a-1]: Introdotto dal n. I dell’O del 24 giu. 2009 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52a-1]: Introdotto dalla cifra I dell’O del 24 giu. 2009 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52b
 
@@ -1473,7 +1473,7 @@ Le organizzazioni di logopedia sono autorizzate se adempiono le seguenti condizi
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^52b-1]: Introdotto dal n. I dell’O del 4 lug. 2012 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52b-1]: Introdotto dalla cifra I dell’O del 4 lug. 2012 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52c
 
@@ -1487,7 +1487,7 @@ Le organizzazioni di dietetica sono autorizzate se adempiono le seguenti condizi
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^52c-1]: Introdotto dal n. I dell’O del 9 dic. 2016 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52c-1]: Introdotto dalla cifra I dell’O del 9 dic. 2016 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52d
 
@@ -1501,7 +1501,7 @@ Le organizzazioni di neuropsicologia sono autorizzate se adempiono le seguenti c
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^52d-1]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52d-1]: Introdotto dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52e
 
@@ -1515,7 +1515,7 @@ Le organizzazioni di psicologi psicoterapeuti sono autorizzate se adempiono le s
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
 
-[^52e-1]: Introdotto dal n. I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52e-1]: Introdotto dalla cifra I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52f
 
@@ -1529,7 +1529,7 @@ Le organizzazioni di podologia sono autorizzate se adempiono le seguenti condizi
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
 
-[^52f-1]: Introdotto dal n. I dell’O del 26 mag. 2021 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52f-1]: Introdotto dalla cifra I dell’O del 26 mag. 2021 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 7: Laboratori
 
@@ -1548,8 +1548,8 @@ Sono autorizzati quali laboratori gli istituti che:
 - f. dispongono delle attrezzature adeguate e del personale specializzato necessario;
 - g. adempiono le condizioni d’autorizzazione di cui all’articolo 54.
 
-[^53-1]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^53-1]: Abrogata dalla cifra I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^53-3]: Introdotta dall’art. 37 n. 2 dell’O del 14 feb. 2007 sugli esami genetici sull’essere umano, in vigore dal 1° apr. 2007 ([RU 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 54
@@ -1587,13 +1587,13 @@ I laboratori che, per mandato di un altro fornitore di prestazioni autorizzato, 
 
 <sup>5</sup> Il DFI può emanare disposizioni d’esecuzione per il capoverso 1 lettera a.[^54-7]
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^54-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^54-3]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
-[^54-4]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^54-5]: Nuovo testo giusta il n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^54-6]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^54-7]: Introdotto dal n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-2]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-3]: Introdotto dalla cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
+[^54-4]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^54-5]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^54-6]: Introdotto dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-7]: Introdotto dalla cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 54a
 
@@ -1611,7 +1611,7 @@ I laboratori che, per mandato di un altro fornitore di prestazioni autorizzato, 
 
 <sup>6</sup> Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^54a-2] sugli emolumenti.
 
-[^54a-1]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo
+[^54a-1]: Introdotto dalla cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo
 [^54a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ### Sezione 8: Centri di consegna di mezzi e apparecchi
@@ -1626,13 +1626,13 @@ I centri di consegna di mezzi e apparecchi diagnostici o terapeutici sono autori
 - b. avere stipulato un contratto di consegna di mezzi e apparecchi diagnostici e terapeutici con gli assicuratori a carico dei quali intendono esercitare;
 - c. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 8*a*: Case per partorienti
 
 [^part1-tit4-chap1-sec8a-1]
 
-[^part1-tit4-chap1-sec8a-1]: Introdotta dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
+[^part1-tit4-chap1-sec8a-1]: Introdotta dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
 
 #### Art. 55a
 
@@ -1645,7 +1645,7 @@ Le case per partorienti sono autorizzate se adempiono le seguenti condizioni:
 - c. garantire una sufficiente assistenza medica da parte di una levatrice;
 - d. avere preso disposizioni per l’adozione di provvedimenti in caso di emergenza medica.
 
-[^55a-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^55a-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 9: Imprese di trasporto e di salvataggio
 
@@ -1659,7 +1659,7 @@ Le imprese di trasporto e di salvataggio sono autorizzate se adempiono le seguen
 - b. avere stipulato un contratto d’esecuzione di trasporti e salvataggi con gli assicuratori a carico dei quali intendono esercitare;
 - c. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58g.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 10: Stabilimenti di cura balneare
 
@@ -1683,7 +1683,7 @@ Le imprese di trasporto e di salvataggio sono autorizzate se adempiono le seguen
 
 [^part1-tit4-chap1-sec11-1]
 
-[^part1-tit4-chap1-sec11-1]: Introdotta dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
+[^part1-tit4-chap1-sec11-1]: Introdotta dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
 
 #### Art. 58a
 
@@ -1693,7 +1693,7 @@ Le imprese di trasporto e di salvataggio sono autorizzate se adempiono le seguen
 
 <sup>2</sup> È verificata periodicamente.[^58a-1]
 
-[^58a-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^58a-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58b
 
@@ -1713,7 +1713,7 @@ Nel determinare l’offerta da assicurare che figura nell’elenco, i Cantoni co
 - b. l’accesso dei pazienti alle cure entro un termine utile;
 - c. la disponibilità e la capacità dell’istituto ad adempiere il mandato di prestazioni.
 
-[^58b-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^58b-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58c
 
@@ -1747,7 +1747,7 @@ Nella valutazione della qualità degli istituti occorre in particolare esaminare
 
 <sup>5</sup> La valutazione dell’economicità e della qualità può basarsi su valutazioni recenti di altri Cantoni.
 
-[^58d-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^58d-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58e
 
@@ -1770,7 +1770,7 @@ Ogni Cantone si coordina segnatamente con:
 - 4\. i Cantoni di provenienza di un numero importante di assicurati che si fanno curare o presumibilmente si faranno curare in istituti con sede sul suo territorio;
 - 5\. altri Cantoni, se il coordinamento permette un rafforzamento dell’economicità e della qualità della fornitura di prestazioni in ospedale.
 
-[^58e-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^58e-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58f
 
@@ -1805,13 +1805,13 @@ Possono prevedere che i mandati di prestazioni contengano segnatamente i seguent
 
 <sup>7</sup> Prevedono che i mandati di prestazione per gli ospedali contengano come onere il divieto dei sistemi di incentivi economici che portano a un aumento del volume delle prestazioni ingiustificato dal punto di vista medico a carico dell’assicurazione obbligatoria delle cure medico-sanitarie o all’elusione dell’obbligo di ammissione ai sensi dell’articolo 41*a* LAMal.
 
-[^58f-1]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^58f-1]: Introdotto dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ### Sezione 12: Requisiti di qualità
 
 [^part1-tit4-chap1-sec12-1]
 
-[^part1-tit4-chap1-sec12-1]: Introdotta dal n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^part1-tit4-chap1-sec12-1]: Introdotta dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 58g
 
@@ -1840,17 +1840,18 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>2</sup> Il fornitore di prestazioni emette due fatture separate per le prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie e per le altre prestazioni.
 
-<sup>3</sup> Per le analisi, la fatturazione al debitore della rimunerazione è effettuata esclusivamente dal laboratorio che ha eseguito l’analisi. Le tariffe forfettarie secondo l’articolo 49 della legge rimangono salve.
+<sup>3</sup> Per le analisi, la fatturazione al debitore della rimunerazione è effettuata esclusivamente dal laboratorio che ha eseguito l’analisi. Le tariffe forfettarie secondo gli articoli 43 capoversi 5–5<sup>quater</sup> e 49 LAMal rimangono salve.[^59-4]
 
-<sup>3bis</sup> Per le prestazioni di cure di cui all’articolo 25*a* LAMal, la fattura inviata al debitore della rimunerazione specifica se le prestazioni sono state fornite con o senza prescrizione o mandato medico.[^59-4]
+<sup>3bis</sup> Per le prestazioni di cure di cui all’articolo 25*a* LAMal, la fattura inviata al debitore della rimunerazione specifica se le prestazioni sono state fornite con o senza prescrizione o mandato medico.[^59-5]
 
-<sup>4</sup> I fornitori di prestazioni assicurano che le loro fatture siano chiare per gli assicurati e che in particolare indichino in modo comprensibile il genere, la durata e il contenuto delle cure. [^59-5]
+<sup>4</sup> I fornitori di prestazioni assicurano che le loro fatture siano chiare per gli assicurati e che in particolare indichino in modo comprensibile il genere, la durata e il contenuto delle cure. [^59-6]
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
-[^59-3]: Nuova espr. giusta l’all. n. II 36 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^59-4]: Introdotto dal n. I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^59-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59-3]: Nuova espr. giusta l’all. cifra II n. 36 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^59-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^59-5]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^59-6]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -1870,11 +1871,11 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>7</sup> L’assicuratore informa spontaneamente l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) ai sensi dell’articolo 43 LPD della certificazione o del rinnovo della certificazione del suo servizio di ricezione dei dati. L’IFPDT può esigere in ogni momento dal servizio di ricezione dei dati o dall’organismo di certificazione i documenti rilevanti per la certificazione o il rinnovo della certificazione. Esso pubblica un elenco dei servizi di ricezione dei dati certificati.[^59a-5]
 
-[^59a-1]: Introdotto dal n. I dell’O del 17 set. 1997 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nuovo testo giusta il n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^59a-1]: Introdotto dalla cifra I dell’O del 17 set. 1997 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nuovo testo giusta la cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^59a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^59a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59a-4]: Nuovo testo del per. giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-5]: Nuovo testo giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-4]: Nuovo testo del per. giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-5]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -1882,7 +1883,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rilevazione, il trattamento e la trasmissione delle diagnosi e delle procedure, nel rispetto del principio della proporzionalità. A questo scopo il DFI stabilisce le classificazioni per la codifica applicabili in tutta la Svizzera.
 
-[^59abis-1]: Introdotto dal n. I dell’O del 4 lug. 2012 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
+[^59abis-1]: Introdotto dalla cifra I dell’O del 4 lug. 2012 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
 
 #### Art. 59a<sup>ter</sup>
 
@@ -1892,28 +1893,28 @@ Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rile
 
 <sup>2</sup> Se le indicazioni mediche ai sensi dell’articolo 59 capoverso 1 non sono conservate sotto forma criptata, le generalità degli assicurati sono sostituite da uno pseudonimo per la conservazione di queste indicazioni. La pseudonimizzazione o il criptaggio possono essere tolti soltanto dal medico di fiducia.
 
-[^59ater-1]: Introdotto dal n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
+[^59ater-1]: Introdotto dalla cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^59ater-3]: Nuovo testo giusta l’all. 2 n. II 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59ater-3]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Capitolo 3: Tariffe e prezzi
 
 [^part1-tit4-chap3-1][^part1-tit4-chap3-2]
 
-[^part1-tit4-chap3-1]: Originario avanti art. 59*a.* Introdotto dal n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^part1-tit4-chap3-1]: Originario avanti art. 59*a.* Introdotto dalla cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^part1-tit4-chap3-2]: [RU 1997 2440](https://fedlex.data.admin.ch/eli/oc/1997/2440_2440_2440)
 
 ### Sezione 1: Principi
 
 [^part1-tit4-chap3-sec1-1]
 
-[^part1-tit4-chap3-sec1-1]: Originario avanti art. 59*a.* Introdotto dal n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^part1-tit4-chap3-sec1-1]: Originario avanti art. 59*a.* Introdotto dalla cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
 #### Art. 59b
 
 [^59b-1]
 
-[^59b-1]: Introdotto dal n. I 8 dell’O del 18 ago. 2004 ([RU 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)). Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^59b-1]: Introdotto dalla cifra I n. 8 dell’O del 18 ago. 2004 ([RU 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 59c
 
@@ -1931,7 +1932,7 @@ L’autorità che approva ai sensi dell’articolo 46 capoverso 4 della legge ve
 
 <sup>3</sup> L’autorità competente applica per analogia i capoversi 1 e 2 all’atto di stabilire le tariffe previste negli articoli 43 capoverso 5, 47 o 48 della legge.
 
-[^59c-1]: Introdotto dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^59c-1]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 59d
 
@@ -1951,7 +1952,7 @@ Le parti contraenti sottopongono la convenzione tariffale all’approvazione del
 
 <sup>4</sup> Il legame che deve essere stabilito con la prestazione ai sensi dell’articolo 49 capoverso 1 della legge deve permettere una differenziazione della tariffa secondo il tipo e l’intensità della prestazione.
 
-[^59d-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^59d-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 59e
 
@@ -1963,7 +1964,7 @@ Le parti contraenti sottopongono la convenzione tariffale all’approvazione del
 
 <sup>3</sup> Per la ripartizione del finanziamento del contributo per ogni caso è applicabile per analogia l’articolo 49*a* capoversi 1 e 2 della legge.
 
-[^59e-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^59e-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 59f
 
@@ -2012,7 +2013,7 @@ L’obbligo di comunicazione dei dati secondo l’articolo 47*b* capoverso 1 LAM
 
 <sup>2</sup> I dati rilevati dall’UST in virtù dell’articolo 30 non possono essere richiesti sulla base del capoverso 1.
 
-[^59f-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59f-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59g
 
@@ -2022,7 +2023,7 @@ L’obbligo di comunicazione dei dati secondo l’articolo 47*b* capoverso 1 LAM
 
 <sup>2</sup> Se constata delle carenze nella fornitura di dati, il DFI o il governo cantonale competente deve fissare un termine di proroga per la trasmissione di dati corretti e completi, prima che possano essere adottate le sanzioni previste all’articolo 47*b* capoverso 2 LAMal.
 
-[^59g-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59g-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59h
 
@@ -2030,7 +2031,7 @@ L’obbligo di comunicazione dei dati secondo l’articolo 47*b* capoverso 1 LAM
 
 Per la rilevazione e il trattamento dei dati secondo l’articolo 47*b* LAMal, il governo cantonale competente elabora un regolamento che descrive l’organizzazione interna e in particolare le procedure di trattamento e di controllo dei dati in applicazione delle disposizioni cantonali sulla protezione dei dati e comprende tutti i documenti relativi alla pianificazione, elaborazione e gestione dei sistemi di trattamento dei dati e dei mezzi informatici. Il governo cantonale lo aggiorna regolarmente.
 
-[^59h-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59h-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59i
 
@@ -2042,7 +2043,7 @@ Nella misura in cui la conservazione, la cancellazione e la distruzione dei dati
 - b. cancellare i dati non appena non servono più per raggiungere lo scopo per il quale sono stati comunicati;
 - c. distruggere i dati al più tardi cinque anni dopo averli ricevuti, tranne se devono essere archiviati.
 
-[^59i-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59i-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 ### Sezione 2: Elenco delle analisi
 
@@ -2056,7 +2057,7 @@ Nella misura in cui la conservazione, la cancellazione e la distruzione dei dati
 
 L’elenco delle analisi (art. 52 cpv. 1 lett. a n. 1 LAMal) è diffuso di regola ogni anno. Il titolo e il riferimento sono pubblicati nella Raccolta ufficiale delle leggi federali.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2002, in vigore il 1° lug. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2002, in vigore il 1° lug. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
 
 #### Art. 61
 
@@ -2082,8 +2083,8 @@ Il DFI designa le analisi che:
 
 <sup>2</sup> ...[^62-2]
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2000, in vigore dal 1° apr. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
-[^62-2]: Abrogato dal n. I dell’O del 4 giu. 2021, con effetto dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2000, in vigore dal 1° apr. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
+[^62-2]: Abrogato dalla cifra I dell’O del 4 giu. 2021, con effetto dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 
 ### Sezione 3: Elenco dei medicamenti con tariffa
 
@@ -2107,7 +2108,7 @@ Il DFI designa le analisi che:
 
 [^64-1]
 
-[^64-1]: Abrogato dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^64-1]: Abrogato dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 64a
 
@@ -2125,15 +2126,15 @@ Il DFI designa le analisi che:
 
 <sup>6</sup> È considerato medicamento omologato per l’importazione parallela qualsiasi medicamento importato direttamente da uno Stato con un sistema di omologazione equivalente, omologato da Swissmedic e con il medesimo principio attivo di un medicamento figurante nell’elenco delle specialità.[^64a-9]
 
-[^64a-1]: Introdotto dal n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^64a-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^64a-3]: Nuova espr. giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^64a-4]: Nuova espr. giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^64a-5]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^64a-6]: Nuova espr. giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^64a-7]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^64a-8]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^64a-9]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^64a-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-3]: Nuova espr. giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^64a-4]: Nuova espr. giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^64a-5]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^64a-6]: Nuova espr. giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^64a-7]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-8]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^64a-9]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65
 
@@ -2156,13 +2157,13 @@ L’UFSP può vincolare l’ammissione a condizioni e oneri, in particolare:
 - a. può ammettere per un periodo limitato un medicamento la cui efficacia, idoneità ed economicità sono ancora in fase di valutazione, se mancano terapie alternative o se il medicamento promette una maggiore efficacia rispetto alle terapie esistenti;
 - b. può vincolare l’ammissione all’obbligo del titolare dell’omologazione di informare l’UFSP se per un determinato periodo il medicamento supera una cifra d’affari prestabilita.[^65-7]
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^65-2]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^65-3]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^65-4]: Introdotto dall’all. n. 4 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Vedi anche le disp. trans. di detta mod. alla fine del testo.
 [^65-5]: [RS 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
-[^65-6]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^65-7]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65-6]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65-7]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 65a
 
@@ -2170,7 +2171,7 @@ L’UFSP può vincolare l’ammissione a condizioni e oneri, in particolare:
 
 La valutazione dell’efficacia dei medicamenti allopatici deve poggiare in ogni caso su studi clinici controllati.
 
-[^65a-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
+[^65a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 
 #### Art. 65b
 
@@ -2187,7 +2188,7 @@ L’economicità di un medicamento è valutata come segue:
 
 <sup>3</sup> Per la determinazione del prezzo considerato economico sono presi in considerazione con una ponderazione del 50 per cento ciascuno i prezzi determinati come indicato al capoverso 2 lettere a e b.
 
-[^65b-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65b-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65b<sup>bis</sup>
 
@@ -2207,7 +2208,7 @@ Alla scadenza del brevetto, il preparato originale e il preparato successore, pu
 - a. altri preparati originali il cui brevetto è scaduto;
 - b. preparati con principio attivo noto che non figurano come generici nell’elenco delle specialità.
 
-[^65bbis-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65bbis-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65b<sup>ter</sup>
 
@@ -2222,7 +2223,7 @@ Nel confronto terapeutico trasversale, su richiesta può essere concesso un prem
 
 <sup>2</sup> Il premio all’innovazione è concesso per al massimo 15 anni.
 
-[^65bter-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65bter-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65b<sup>quater</sup>
 
@@ -2232,7 +2233,7 @@ Nel confronto terapeutico trasversale, su richiesta può essere concesso un prem
 
 <sup>2</sup> Gli sconti vincolanti imposti ai fabbricanti negli Stati di riferimento sono detratti dai relativi prezzi di fabbrica per la consegna. Il DFI stabilisce gli sconti dei fabbricanti da detrarre. Può prevedere che invece di tali sconti siano detratti gli sconti effettivi dei fabbricanti.
 
-[^65bquater-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65bquater-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65c
 
@@ -2256,11 +2257,11 @@ Ai fini dell’ammissione nell’elenco delle specialità, un generico è consid
 
 <sup>5</sup> I prezzi dei generici ammessi nell’elenco delle specialità prima del riesame dei prezzi dei preparati originali secondo l’articolo 65*e* sono adeguati, dopo siffatto riesame, allo scopo di mantenere invariata la differenza di prezzo sopraindicata.
 
-[^65c-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^65c-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^65c-3]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65c-4]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^65c-5]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65c-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^65c-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65c-3]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65c-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65c-5]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 65c<sup>bis</sup>
 
@@ -2283,7 +2284,7 @@ Ai fini dell’ammissione nell’elenco delle specialità, un medicamento biosim
 
 <sup>5</sup> I prezzi dei medicamenti biosimilari ammessi nell’elenco delle specialità prima del riesame dei prezzi dei preparati di riferimento secondo l’articolo 65*e* sono adeguati, dopo siffatto riesame, allo scopo di mantenere invariata la differenza di prezzo sopraindicata.
 
-[^65cbis-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^65cbis-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 65c<sup>ter</sup>
 
@@ -2300,7 +2301,7 @@ Il confronto terapeutico trasversale si basa su:
 
 <sup>3</sup> Se nell’elenco delle specialità figura almeno un generico con la stessa composizione di principi attivi e il preparato con principio attivo noto non comporta alcun progresso terapeutico, l’economicità di tale preparato è valutata esclusivamente sulla base di un confronto con il generico in questione, senza effettuare un confronto con i prezzi praticati all’estero o un confronto terapeutico trasversale con medicamenti diversi da questo generico. Se nell’elenco delle specialità figura più di un generico, il confronto avviene sulla base del prezzo medio di tali generici.
 
-[^65cter-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65cter-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65c<sup>quater</sup>
 
@@ -2310,7 +2311,7 @@ Il confronto terapeutico trasversale si basa su:
 
 <sup>2</sup> Se il prezzo del preparato originale in Svizzera è già stato ridotto al livello dei prezzi dei generici, il preparato originale omologato per l’importazione parallela deve rispettare il livello dei prezzi dei generici.
 
-[^65cquater-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65cquater-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65d
 
@@ -2328,10 +2329,10 @@ Il confronto terapeutico trasversale si basa su:
 
 <sup>6</sup> L’UFSP comunica al titolare dell’omologazione di un generico il livello di prezzo previsto dal 1° dicembre per il preparato originale.
 
-[^65d-1]: Introdotto dal n. I dell’O del 1° lug. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^65d-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^65d-3]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^65d-4]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^65d-1]: Introdotto dalla cifra I dell’O del 1° lug. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^65d-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65d-3]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^65d-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 65d<sup>bis</sup>
 
@@ -2349,7 +2350,7 @@ Nel quadro del riesame secondo l’articolo 65*d* capoverso 1, un generico è co
 
 <sup>2</sup> Se nell’elenco delle specialità non figura nessun preparato originale corrispondente, nel riesame secondo l’articolo 65*d* capoverso 1 è effettuato esclusivamente un confronto terapeutico trasversale. Tale confronto è effettuato unicamente con generici aventi una composizione di principi attivi diversa e che sono a loro volta economici.
 
-[^65dbis-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65dbis-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65d<sup>ter</sup>
 
@@ -2361,7 +2362,7 @@ Nel quadro del riesame secondo l’articolo 65*d* capoverso 1, un medicamento bi
 - b. 15 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume di mercato svizzero del preparato di riferimento e dei relativi medicamenti biosimilari si situa in media tra 8 e 25 milioni di franchi all’anno;
 - c. 20 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume di mercato svizzero del preparato di riferimento e dei relativi medicamenti biosimilari supera in media 25 milioni di franchi all’anno.
 
-[^65dter-1]: Introdotto dal n. I dell’O del 22 set. 2023 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
+[^65dter-1]: Introdotto dalla cifra I dell’O del 22 set. 2023 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
 
 #### Art. 65d<sup>quater</sup>
 
@@ -2376,7 +2377,7 @@ Un preparato con principio attivo noto secondo l’articolo 65*c**<sup>ter</sup>
 - a. non supera il prezzo di fabbrica per la consegna del generico praticato il 1° dicembre dell’anno del riesame; oppure
 - b. non supera i prezzi medi di fabbrica per la consegna dei generici con la stessa composizione di principi attivi praticati il 1° dicembre dell’anno del riesame.
 
-[^65dquater-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65dquater-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65d<sup>quinquies</sup>
 
@@ -2384,7 +2385,7 @@ Un preparato con principio attivo noto secondo l’articolo 65*c**<sup>ter</sup>
 
 Il riesame secondo l’articolo 65*d* capoverso 1 di un medicamento omologato per l’importazione parallela si fonda sulle disposizioni relative alla valutazione dell’economicità di cui all’articolo 65*c*<sup>quater</sup>.
 
-[^65dquinquies-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65dquinquies-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65e
 
@@ -2398,9 +2399,9 @@ Il riesame secondo l’articolo 65*d* capoverso 1 di un medicamento omologato pe
 
 <sup>4</sup> Se dalla valutazione dell’economicità risulta che il prezzo massimo è troppo elevato, l’UFSP decide che il prezzo sia ridotto al prezzo massimo determinato secondo l’articolo 65*b* capoverso 3 e l’articolo 67 capoverso 4.[^65e-3]
 
-[^65e-1]: Introdotto dal n. I dell’O del 1° lug. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65e-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^65e-3]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65e-1]: Introdotto dalla cifra I dell’O del 1° lug. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)). Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65e-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65e-3]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 65f
 
@@ -2429,9 +2430,9 @@ Fino al riesame delle condizioni di ammissione secondo l’articolo 65*d*, il pr
 
 <sup>6</sup> Se le condizioni di ammissione per la nuova indicazione non sono adempiute, l’UFSP può limitare il preparato originale all’indicazione vigente.
 
-[^65f-1]: Introdotto dal n. I dell’O dell’8 mag. 2013 (RU **2013** 1353). Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 (RU **2015** 1255). Vedi anche le disp. trans. mod. 8.5.2013.
-[^65f-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^65f-3]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^65f-1]: Introdotto dalla cifra I dell’O dell’8 mag. 2013 (RU **2013** 1353). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 (RU **2015** 1255). Vedi anche le disp. trans. mod. 8.5.2013.
+[^65f-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^65f-3]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 65g
 
@@ -2443,7 +2444,7 @@ Fino al riesame delle condizioni di ammissione secondo l’articolo 65*d*, il pr
 
 <sup>3</sup> Il titolare dell’omologazione comunica a Swissmedic entro 30 giorni ogni limitazione dell’indicazione da parte di Swissmedic e gli presenta entro 90 giorni i documenti stabiliti dal DFI.
 
-[^65g-1]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^65g-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 66
 
@@ -2451,7 +2452,7 @@ Fino al riesame delle condizioni di ammissione secondo l’articolo 65*d*, il pr
 
 I riesami del prezzo di cui agli articoli 65*a*–65*g* sono effettuati in modo indipendente gli uni dagli altri. Nell’arco dello stesso anno civile sono possibili diverse riduzioni dei prezzi.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 66a
 
@@ -2459,7 +2460,7 @@ I riesami del prezzo di cui agli articoli 65*a*–65*g* sono effettuati in modo 
 
 Dopo l’iscrizione di un medicamento nell’elenco delle specialità, l’UFSP può esaminare in qualsiasi momento se le condizioni di ammissione sono ancora adempiute.
 
-[^66a-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^66a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 66b
 
@@ -2469,7 +2470,7 @@ Dopo l’iscrizione di un medicamento nell’elenco delle specialità, l’UFSP 
 
 <sup>2</sup> Se a seguito di un riesame secondo l’articolo 65*f* o 65*g* un preparato originale subisce una limitazione o una modificazione della limitazione, l’UFSP decide la stessa limitazione per i rispettivi generici e medicamenti in co-marketing.
 
-[^66b-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^66b-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 67
 
@@ -2503,8 +2504,8 @@ Per l’aumento dei prezzi stabiliti nell’elenco delle specialità occorre l�
 - a. il medicamento adempie ancora le condizioni di ammissione; e
 - b. sono trascorsi almeno due anni dall’ammissione o dall’ultimo aumento di prezzo.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^67-2]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° lug. 2024 ([RU 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67-2]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° lug. 2024 ([RU 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
 
 #### Art. 67a
 
@@ -2521,10 +2522,10 @@ Il titolare dell’omologazione è inoltre obbligato a restituire all’istituzi
 
 <sup>3</sup> Se un medicamento oggetto del capoverso 2 lettera a è un preparato originale per un generico, un preparato di base per un medicamento in co-marketing oppure un preparato di riferimento per un medicamento biosimilare, il titolare dell’omologazione del generico, del medicamento in co-marketing o del medicamento biosimilare è obbligato a restituire all’istituzione comune le eccedenze conseguite durante la procedura di ricorso concernente il preparato originale, il preparato di base o il preparato di riferimento.[^67a-4]
 
-[^67a-1]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^67a-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^67a-3]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^67a-4]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67a-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^67a-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67a-3]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^67a-4]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 68
 
@@ -2544,12 +2545,12 @@ Un medicamento iscritto nell’elenco delle specialità è radiato se:
 
 <sup>2</sup> ...[^68-6]
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^68-2]: Introdotta dal n. I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^68-3]: Introdotta dal n. I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^68-4]: Introdotta dal n. I dell’O dell’8 mag. 2013 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^68-5]: Introdotta dal n. I dell’O dell’8 mag. 2013 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^68-6]: Abrogato dal n. I dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
+[^68-2]: Introdotta dalla cifra I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^68-3]: Introdotta dalla cifra I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^68-4]: Introdotta dalla cifra I dell’O dell’8 mag. 2013 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^68-5]: Introdotta dalla cifra I dell’O dell’8 mag. 2013 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^68-6]: Abrogato dalla cifra I dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 68a
 
@@ -2567,7 +2568,7 @@ Le seguenti modifiche dell’elenco delle specialità hanno effetto decorsi tre 
 
 <sup>3</sup> Le limitazioni temporali stabilite nell’ambito di nuove ammissioni, estensioni dell’indicazione e modificazioni della limitazione scadono tre mesi dopo la scadenza della durata di ammissione stabilita nell’elenco delle specialità.
 
-[^68a-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^68a-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 69
 
@@ -2581,10 +2582,10 @@ Le seguenti modifiche dell’elenco delle specialità hanno effetto decorsi tre 
 
 <sup>4</sup> La domanda di ammissione nell’elenco delle specialità o di modifica dell’elenco delle specialità può essere presentata quando sono disponibili i dati concernenti le indicazioni e il dosaggio confermati da Swissmedic nel quadro del preavviso di cui all’articolo 8 dell’ordinanza del 21 settembre 2018[^69-3] sui medicamenti. L’UFSP entra nel merito della domanda non appena è in possesso della relativa documentazione. Per singole domande, il DFI può prevedere che possano essere presentate solo dopo l’omologazione da parte di Swissmedic.[^69-4]
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2002 , in vigore il 1° lug. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
-[^69-2]: Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2002 , in vigore il 1° lug. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
+[^69-2]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) con effetto dal 1° gen. 2019.
-[^69-4]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^69-4]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 69a
 
@@ -2602,7 +2603,7 @@ Il DFI stabilisce:
 - b. a quali condizioni ha luogo il colloquio nel quadro dell’accertamento preliminare;
 - c. a quali condizioni è possibile effettuare una presentazione anticipata della domanda.
 
-[^69a-1]: Introdotto dal n. I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^69a-1]: Introdotto dalla cifra I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 69b
 
@@ -2618,7 +2619,7 @@ Se un medicamento iscritto nell’elenco delle specialità è temporaneamente in
 
 <sup>2</sup> L’assicuratore rimunera i costi effettivi. Il fornitore di prestazioni sceglie il Paese d’importazione del medicamento prestando attenzione ai costi.
 
-[^69b-1]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^69b-1]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 70
 
@@ -2626,7 +2627,7 @@ Se un medicamento iscritto nell’elenco delle specialità è temporaneamente in
 
 L’UFSP può ammettere o mantenere nell’elenco delle specialità un medicamento o un’indicazione di un medicamento che sono stati omologati da Swissmedic se rivestono una grande importanza per le cure mediche, anche se il titolare dell’omologazione non ha presentato una domanda di ammissione o ne ha chiesto la radiazione. L’UFSP ne stabilisce il prezzo.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 70a
 
@@ -2639,9 +2640,9 @@ Il DFI emana prescrizioni di dettaglio:
 - c.[^70a-2] sulla procedura di riesame delle condizioni di ammissione di cui agli articoli 65*d*–65*g;*
 - d.[^70a-3] sulla procedura di restituzione delle eccedenze di cui all’articolo 67*a*.
 
-[^70a-1]: Introdotto dal n. I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^70a-2]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
-[^70a-3]: Introdotta dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^70a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
+[^70a-2]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
+[^70a-3]: Introdotta dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
 #### Art. 70b
 
@@ -2664,9 +2665,9 @@ Sono riscosse tasse per:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^70b-4] sugli emolumenti.
 
-[^70b-1]: Originario art. 71. Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
-[^70b-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^70b-3]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^70b-1]: Originario art. 71. Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
+[^70b-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^70b-3]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^70b-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 71
@@ -2722,13 +2723,13 @@ In caso di domande pendenti riguardanti preparati originali, l’UFSP può, su r
 
 <sup>4</sup> Le pubblicazioni sono effettuate attraverso una piattaforma online pubblicamente accessibile.
 
-[^71-1]: Introdotto dal n. I dell’O del 29 apr. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^71-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)). Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 ### Sezione 4*a*: Rimunerazione di medicamenti nel singolo caso
 
 [^part1-tit4-chap3-sec4a-1]
 
-[^part1-tit4-chap3-sec4a-1]: Introdotto dal n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^part1-tit4-chap3-sec4a-1]: Introdotto dalla cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 71a
 
@@ -2760,7 +2761,7 @@ L’assicuratore può applicare uno sconto di prezzo superiore agli sconti di pr
 
 <sup>5</sup> In caso di costi terapeutici annuali o giornalieri molto bassi, l’assicuratore può prescindere da sconti di prezzo. Il DFI stabilisce quando i costi terapeutici annuali o giornalieri sono da considerarsi molti bassi.
 
-[^71a-1]: Introdotto dal n. I dell’O del 2 feb. 2011 ([RU 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^71a-1]: Introdotto dalla cifra I dell’O del 2 feb. 2011 ([RU 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 71b
 
@@ -2777,7 +2778,7 @@ L’assicuratore stabilisce l’importo della rimunerazione d’intesa con il ti
 
 <sup>3</sup> In caso di costi terapeutici annuali o giornalieri molto bassi, l’assicuratore può prescindere da sconti di prezzo. Il DFI stabilisce quali costi terapeutici annuali o giornalieri sono da considerarsi molti bassi.
 
-[^71b-1]: Introdotto dal n. I dell’O del 2 feb. 2011 ([RU 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^71b-1]: Introdotto dalla cifra I dell’O del 2 feb. 2011 ([RU 2011 653](https://fedlex.data.admin.ch/eli/oc/2011/104)). Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 71c
 
@@ -2793,7 +2794,7 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi di un 
 
 <sup>2</sup> L’assicuratore stabilisce l’importo della rimunerazione d’intesa con il titolare dell’omologazione. L’assicuratore può chiedere al fornitore di prestazioni di importare il medicamento dal Paese che genera i costi minori per la rimunerazione.
 
-[^71c-1]: Introdotto dal n. I dell’O del 1° feb. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^71c-1]: Introdotto dalla cifra I dell’O del 1° feb. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)). Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 71d
 
@@ -2811,35 +2812,35 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi di un 
 
 <sup>6</sup> In caso di rifiuto di una domanda di rimunerazione di un medicamento, l’assicuratore informa il medico curante e il paziente dei motivi della decisione. Se il rifiuto è dovuto alla valutazione del beneficio terapeutico, quest’ultima deve essere allegata.[^71d-5]
 
-[^71d-1]: Introdotto dal n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^71d-2]: Abrogato dal n. I dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^71d-3]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^71d-4]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^71d-5]: Introdotto dal n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^71d-1]: Introdotto dalla cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+[^71d-2]: Abrogato dalla cifra I dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^71d-3]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^71d-4]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^71d-5]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 71e
 
 [^71e-1]
 
-[^71e-1]: Introdotto dal n. III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 gen. 2024 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)n. II 2).
+[^71e-1]: Introdotto dalla cifra III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 gen. 2024 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)n. II 2).
 
 #### Art. 71f
 
 [^71f-1]
 
-[^71f-1]: Introdotto dal n. III dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 sino al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^71f-1]: Introdotto dalla cifra III dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 sino al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
 ### Sezione 5: Disposizioni comuni per l’Elenco delle analisi, l’Elenco dei medicamenti con tariffa e l’Elenco delle specialità
 
 [^part1-tit4-chap3-sec5-1]
 
-[^part1-tit4-chap3-sec5-1]: Originaria Sez. 4. Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^part1-tit4-chap3-sec5-1]: Originaria Sez. 4. Nuovo testo giusta la cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
 #### Art. 72
 
 [^72-1]
 
-[^72-1]: Abrogato dal n. I dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^72-1]: Abrogato dalla cifra I dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 73
 
@@ -2859,7 +2860,7 @@ Sentita la commissione competente, l’UFSP può promulgare direttive riguardo l
 
 Sentite le commissioni competenti, il DFI emana prescrizioni di dettaglio concernenti l’approntamento degli elenchi.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 
 ### Capitolo 4: Controllo dell’economicità e della qualità delle prestazioni
 
@@ -2928,7 +2929,7 @@ Ogni rapporto e ogni rapporto intermedio devono contenere almeno le seguenti ind
 
 <sup>2</sup> Sono tenute a pubblicare le convenzioni sulla qualità.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77a
 
@@ -2956,7 +2957,7 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>7</sup> Pubblica i suoi regolamenti e rapporti come pure i documenti legati ai compiti che le sono stati attribuiti secondo l’articolo 58*c* LAMal.
 
-[^77a-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77a-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77b
 
@@ -2968,7 +2969,7 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>3</sup> Se nell’adempimento dei compiti di cui sono stati incaricati secondo l’articolo 58*c* capoverso 1 lettere e ed f LAMal constatano lacune nella fornitura dei dati, i terzi assegnano al Cantone, al fornitore di prestazioni o all’assicuratore un termine supplementare per fornire dati corretti e completi e ne informano nel contempo la Commissione federale per la qualità.
 
-[^77b-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77b-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77c
 
@@ -2978,7 +2979,7 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>2</sup> I terzi informano i fornitori di dati di cui all’articolo 77*b* capoverso 1 e la Commissione federale per la qualità sulla cancellazione e la distruzione dei dati.
 
-[^77c-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77c-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77d
 
@@ -2996,7 +2997,7 @@ La documentazione del bando contiene in particolare:
 
 <sup>3</sup> I compiti, per i quali è disponibile una sola persona o organizzazione idonea esterna all’Amministrazione federale, possono essere delegati senza bando.
 
-[^77d-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77d-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77e
 
@@ -3026,7 +3027,7 @@ Le domande di aiuti finanziari devono permettere una valutazione completa dello 
 
 <sup>4</sup> Al termine del progetto occorre presentare alla Commissione federale per la qualità un rapporto sui risultati del progetto.
 
-[^77e-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77e-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77f
 
@@ -3046,7 +3047,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 - j. la presentazione periodica del preventivo e dei conti;
 - k. i requisiti che deve soddisfare il rapporto di cui all’articolo 77*e* capoverso 4.
 
-[^77f-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77f-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77g
 
@@ -3058,7 +3059,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 <sup>3</sup> L’UFSP calcola le quoteparti dei Cantoni e degli assicuratori.
 
-[^77g-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77g-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77h
 
@@ -3068,7 +3069,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 <sup>2</sup> Gli assicuratori e i Cantoni, che non pagano il contributo dovuto entro il termine, devono un interesse di mora del cinque per cento all’anno.
 
-[^77h-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77h-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77i
 
@@ -3076,7 +3077,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 L’UFSP effettua il conteggio per il contributo della Confederazione, dei Cantoni e degli assicuratori al 31 marzo di ogni anno civile successivo all’anno di contribuzione. Se dal conteggio risulta un’eccedenza o una copertura insufficiente, il contributo corrispondente per Cantone e assicuratore è trasferito all’anno di contribuzione successivo.
 
-[^77i-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77i-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77j
 
@@ -3086,7 +3087,7 @@ L’UFSP effettua il conteggio per il contributo della Confederazione, dei Canto
 
 <sup>2</sup> Il tribunale arbitrale cantonale trasferisce all’UFSP i mezzi finanziari derivanti da multe e sanzioni al 1° gennaio dell’anno successivo.
 
-[^77j-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77j-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77k
 
@@ -3094,7 +3095,7 @@ L’UFSP effettua il conteggio per il contributo della Confederazione, dei Canto
 
 Sentita la competente commissione, il DFI stabilisce le misure di cui all’articolo 58*h* capoverso 1 LAMal.
 
-[^77k-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77k-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77k<sup>bis</sup>
 
@@ -3111,7 +3112,7 @@ Sentita la competente commissione, il DFI stabilisce le misure di cui all’arti
 
 [^part1-tit4a-1]
 
-[^part1-tit4a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^part1-tit4a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 77l
 
@@ -3237,13 +3238,13 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 [^78a78c-1]
 
-[^78a78c-1]: Introdotti dal n. I dell’O del 3 dic. 2010 ([RU 2010 6155](https://fedlex.data.admin.ch/eli/oc/2010/878)). Abrogati dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^78a78c-1]: Introdotti dalla cifra I dell’O del 3 dic. 2010 ([RU 2010 6155](https://fedlex.data.admin.ch/eli/oc/2010/878)). Abrogati dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 79
 
 [^79-1]
 
-[^79-1]: Abrogato dal n. II dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
+[^79-1]: Abrogato dalla cifra II dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
 
 #### Art. 80
 
@@ -3255,7 +3256,7 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 [^80a80i-1]
 
-[^80a80i-1]: Introdotto dal n. I dell’O del 3 dic. 2010 ([RU 2010 6155](https://fedlex.data.admin.ch/eli/oc/2010/878)). Abrogati dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^80a80i-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010 ([RU 2010 6155](https://fedlex.data.admin.ch/eli/oc/2010/878)). Abrogati dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 81 a 85
 
@@ -3267,7 +3268,7 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 [^85a-1]
 
-[^85a-1]: Introdotto dal n. I dell’O del 6 giu. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^85a-1]: Introdotto dalla cifra I dell’O del 6 giu. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 86 a 88
 
@@ -3290,7 +3291,7 @@ L’assicuratore deve indicare separatamente per ogni assicurato i premi:
 - c. delle assicurazioni complementari;
 - d. degli altri rami d’assicurazione.
 
-[^89-1]: Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^89-1]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 
 #### Art. 90
 
@@ -3298,7 +3299,7 @@ L’assicuratore deve indicare separatamente per ogni assicurato i premi:
 
 I premi devono essere pagati in anticipo e di regola mensilmente.
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 90a
 
@@ -3308,14 +3309,14 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 <sup>2</sup> Il tasso sull’interesse compensativo ammonta al 5 per cento all’anno. Per il calcolo sono applicabili per analogia le disposizioni dell’articolo 7 dell’ordinanza dell’11 settembre 2002[^90a-2] concernente la legge sulla parte generale del diritto delle assicurazioni sociali.
 
-[^90a-1]: Introdotto dal n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^90a-1]: Introdotto dalla cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^90a-2]: [RS 830.11](https://fedlex.data.admin.ch/eli/cc/2002/569)
 
 #### Art. 90b
 
 [^90b-1]
 
-[^90b-1]: Introdotto dal n. I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Abrogato dal n. I dell’O del 24 giu. 2009, con effetto dal 1° ago. 2009 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
+[^90b-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Abrogato dalla cifra I dell’O del 24 giu. 2009, con effetto dal 1° ago. 2009 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
 
 #### Art. 90c
 
@@ -3325,7 +3326,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 <sup>2</sup> Le riduzioni di premi per le forme particolari d’assicurazione secondo gli articoli 93–101 devono essere fissate in modo che la riduzione per la sospensione della copertura degli infortuni possa essere concessa senza che il premio raggiunga un livello inferiore al premio minimo secondo il capoverso 1.
 
-[^90c-1]: Introdotto dal n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^90c-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 
 #### Art. 91
 
@@ -3344,7 +3345,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 [^91-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-2]: Introdotto dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-3]: Introdotto dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^91-4]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^91-4]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 91a
 
@@ -3358,12 +3359,12 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 <sup>4</sup> Il premio può essere ridotto soltanto della parte che corrisponde alla copertura degli infortuni, ma al massimo del 7 per cento.[^91a-6]
 
-[^91a-1]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^91a-2]: Abrogato dal n. I dell’O dell’11 dic. 2000, con effetto dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
+[^91a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^91a-2]: Abrogato dalla cifra I dell’O dell’11 dic. 2000, con effetto dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
 [^91a-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^91a-4]: Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^91a-5]: Introdotto dal n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^91a-6]: Introdotto dal n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^91a-4]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^91a-5]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^91a-6]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 
 #### Art. 91b
 
@@ -3387,8 +3388,8 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
-[^part1-tit5-chap2-sec1a-1]: Introdotta dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^part1-tit5-chap2-sec1a-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^part1-tit5-chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^part1-tit5-chap2-sec1a-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 92a
 
@@ -3406,7 +3407,7 @@ Se l’assicurato risiede all’estero, l’assicuratore riscuote i premi in fra
 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
-[^part1-tit5-chap2-sec1b-1]: Introdotta dal n. I dell’O del 6 lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^part1-tit5-chap2-sec1b-1]: Introdotta dalla cifra I dell’O del 6 lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^part1-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 92d
@@ -3450,7 +3451,7 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>3</sup> Se più figli di una stessa famiglia che non hanno ancora compiuto 18 anni sono assicurati presso lo stesso assicuratore, la loro partecipazione ai costi non deve superare il doppio dell’importo massimo per figlio (franchigia opzionale e aliquota percentuale secondo l’art. 103 cpv. 2). Se per questi figli sono state scelte differenti franchigie, l’assicuratore stabilisce la partecipazione massima.
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3437](https://fedlex.data.admin.ch/eli/oc/2004/454)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3437](https://fedlex.data.admin.ch/eli/oc/2004/454)).
 
 #### Art. 94
 
@@ -3458,12 +3459,12 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>1</sup> Tutti gli assicurati possono aderire all’assicurazione con franchigie opzionali. L’assicurato può scegliere una franchigia superiore solo per l’inizio di un anno civile.
 
-<sup>2</sup> Il passaggio a una franchigia inferiore o a un’altra forma di assicurazione, come pure il cambiamento dell’assicuratore, è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 della legge.[^94-1]
+<sup>2</sup> Il passaggio a una franchigia inferiore o a un’assicurazione con bonus o il cambiamento dell’assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 LAMal.[^94-1]
 
 <sup>3</sup> L’assicurato che cambia assicuratore secondo l’articolo 7 capoversi 2, 3 e 4 della legge nel corso dell’anno civile mantiene la franchigia scelta presso il precedente assicuratore sempreché il nuovo assicuratore eserciti tale forma di assicurazione. L’articolo 103 capoverso 4 si applica per analogia.[^94-2]
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^94-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^94-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 95
 
@@ -3479,10 +3480,10 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>3</sup> ...[^95-4]
 
-[^95-1]: Introdotto dal n. I dell’O del 23 feb. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)). Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^95-2]: Abrogato dal n. I dell’O del 26 apr. 2006, con effetto dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^95-3]: Introdotto dal n. I dell’O del 6 giu. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)). Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
-[^95-4]: Abrogato dal n. I dell’O del 23 feb. 2000, con effetto dal 1° gen. 2001 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
+[^95-1]: Introdotto dalla cifra I dell’O del 23 feb. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)). Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^95-2]: Abrogato dalla cifra I dell’O del 26 apr. 2006, con effetto dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^95-3]: Introdotto dalla cifra I dell’O del 6 giu. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)). Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
+[^95-4]: Abrogato dalla cifra I dell’O del 23 feb. 2000, con effetto dal 1° gen. 2001 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
 
 #### Art. 96
 
@@ -3506,8 +3507,8 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>3</sup> Se l’assicurato cambia assicuratore secondo l’articolo 7 capoverso 2, 3 o 4 della legge nel corso dell’anno civile, il nuovo assicuratore deve, se esercita l’assicurazione con bonus e se l’assicurato vi aderisce, computare il periodo durante il quale quest’ultimo non ha riscosso alcuna prestazione dall’assicurazione con bonus del precedente assicuratore.[^97-2]
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^97-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^97-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 98
 
@@ -3542,8 +3543,8 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>2</sup> Per le assicurazioni con scelta limitata dei fornitori di prestazioni l’assicuratore può rinunciare in tutto o in parte alla riscossione dell’aliquota percentuale e della franchigia.[^99-2]
 
-[^99-1]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^99-2]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^99-1]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^99-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
 #### Art. 100
 
@@ -3551,14 +3552,15 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>1</sup> Tutti gli assicurati residenti nella regione in cui l’assicuratore esercita assicurazioni con scelta limitata dei fornitori di prestazioni possono aderire a queste assicurazioni.
 
-<sup>2</sup> È sempre possibile passare dall’assicurazione ordinaria a un’assicurazione con scelta limitata dei fornitori di prestazioni.
+<sup>2</sup> Il passaggio da un’assicurazione senza scelta limitata dei fornitori di prestazioni a un’assicurazione con scelta limitata dei fornitori di prestazioni è possibile in ogni momento. È fatto salvo l’articolo 97 capoverso 2.[^100-1]
 
-<sup>3</sup> Il passaggio a un’altra forma di assicurazione o il cambiamento di assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 della legge.[^100-1]
+<sup>3</sup> Il passaggio a un’altra forma di assicurazione o il cambiamento di assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 della legge.[^100-2]
 
-<sup>4</sup> È fatto salvo il cambiamento di assicuratore nel corso dell’anno secondo l’articolo 7 capoversi 2, 3 e 4 della legge.[^100-2]
+<sup>4</sup> È fatto salvo il cambiamento di assicuratore nel corso dell’anno secondo l’articolo 7 capoversi 2, 3 e 4 della legge.[^100-3]
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^100-2]: Introdotto dal n. I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^100-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^100-3]: Introdotto dalla cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 101
 
@@ -3578,7 +3580,7 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito non possono aderire alle forme particolari d’assicurazione di cui agli articoli 93–101.
 
-[^101a-1]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^101a-1]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 ### Sezione 3: Indennizzo di terzi
 
@@ -3608,12 +3610,12 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, 
 
 <sup>7</sup> I capoversi 1–4 si applicano per analogia agli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono assicurati in Svizzera.[^103-6]
 
-[^103-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^103-1]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^103-2]: [RU 2003 3991](https://fedlex.data.admin.ch/eli/oc/2003/577)
-[^103-3]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^103-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^103-5]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^103-6]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^103-3]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^103-4]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^103-5]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^103-6]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 104
 
@@ -3636,9 +3638,9 @@ Sono esentati dal pagamento di questo contributo:
 - b. i giovani adulti secondo l’articolo 61 capoverso 3 della legge che sono in formazione;
 - c.[^104-3] le donne esentate dalla partecipazione ai costi secondo l’articolo 64 capoverso 7 della legge.
 
-[^104-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)).
-[^104-2]: Introdotto dal n. I dell’O del 26 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)).
-[^104-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^104-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)).
+[^104-2]: Introdotto dalla cifra I dell’O del 26 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)).
+[^104-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 104a
 
@@ -3662,9 +3664,9 @@ Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai cos
 <sup>4</sup> Prima di emanare le disposizioni di cui ai capoversi 1, 3 e 3<sup>bis</sup>, il DFI sente la commissione competente.[^104a-4]
 
 [^104a-1]: Originario art. 105.
-[^104a-2]: Introdotto dal n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
-[^104a-3]: Introdotto dal n. I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
-[^104a-4]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
+[^104a-2]: Introdotto dalla cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
+[^104a-3]: Introdotto dalla cifra I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
+[^104a-4]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
 
 #### Art. 105
 
@@ -3676,13 +3678,13 @@ Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai cos
 
 <sup>3</sup> Il termine secondo l’articolo 64 capoverso 7 lettera b della legge scade il cinquantaseiesimo giorno dopo il parto, a mezzanotte.
 
-[^105-1]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
+[^105-1]: Introdotto dalla cifra I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
 ### Capitolo 3*a*: Mancato pagamento dei premi e delle partecipazioni ai costi
 
 [^part1-tit5-chap3a-1]
 
-[^part1-tit5-chap3a-1]: Introdotto dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^part1-tit5-chap3a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 105a
 
@@ -3698,8 +3700,8 @@ Il tasso degli interessi di mora sui premi scaduti secondo l’articolo 26 capov
 
 <sup>2</sup> Se l’assicurato causa per propria colpa spese che avrebbero potuto essere evitate con un pagamento tempestivo, l’assicuratore può riscuotere adeguate spese amministrative, se una misura siffatta è prevista dalle disposizioni generali sui diritti e sugli obblighi dell’assicurato. Il DFI ne stabilisce gli importi massimi.[^105b-2]
 
-[^105b-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105b-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105b-1]: Nuovo testo giusta la cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105b-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105c
 
@@ -3707,7 +3709,7 @@ Il tasso degli interessi di mora sui premi scaduti secondo l’articolo 26 capov
 
 Gli assicuratori non possono compensare le prestazioni assicurative con premi o partecipazioni ai costi loro dovuti.
 
-[^105c-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105c-1]: Nuovo testo giusta la cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 105d
 
@@ -3715,7 +3717,7 @@ Gli assicuratori non possono compensare le prestazioni assicurative con premi o 
 
 Il Cantone notifica all’assicuratore l’autorità cantonale competente.
 
-[^105d-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105d-1]: Nuovo testo giusta la cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 105e
 
@@ -3727,9 +3729,9 @@ Il Cantone notifica all’assicuratore l’autorità cantonale competente.
 
 <sup>2</sup> Il Cantone può sollecitare l’assicuratore a non proseguire la procedura d’esecuzione fino a quando esso non abbia deciso se assumere i crediti derivanti dall’assicurazione obbligatoria delle cure medico-sanitarie.
 
-[^105e-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105e-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^105e-3]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^105e-1]: Nuovo testo giusta la cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105e-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^105e-3]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 105f
 
@@ -3739,8 +3741,8 @@ Il Cantone notifica all’assicuratore l’autorità cantonale competente.
 
 <sup>2</sup> L’assicuratore trasmette all’autorità cantonale competente entro il 31 marzo il conteggio finale dei certificati di carenza di beni rilasciati durante l’anno precedente, nonché il corrispondente rapporto di revisione. Il conteggio contiene una ricapitolazione delle domande di assunzione dei crediti ai sensi dell’articolo 64*a* capoverso 3 della legge e una ricapitolazione delle restituzioni ai sensi dell’articolo 64*a* capoverso 5 della legge.
 
-[^105f-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105f-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^105f-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105f-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 105f<sup>bis</sup>
 
@@ -3750,7 +3752,7 @@ Il Cantone notifica all’assicuratore l’autorità cantonale competente.
 
 <sup>2</sup> L’autorità cantonale competente può scegliere tra l’assunzione annuale o trimestrale dei crediti che l’assicuratore le ha notificato. Comunica la sua scelta entro la data di cui al capoverso 1.
 
-[^105fbis-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105fbis-1]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105g
 
@@ -3764,7 +3766,7 @@ Al momento della comunicazione secondo l’articolo 64*a* capoverso 3 della legg
 - d. il domicilio;
 - e. il numero AVS.
 
-[^105g-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105g-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 105h
 
@@ -3772,7 +3774,7 @@ Al momento della comunicazione secondo l’articolo 64*a* capoverso 3 della legg
 
 Dopo aver sentito i Cantoni e gli assicuratori, il DFI può stabilire prescrizioni tecniche e organizzative per lo scambio e il formato dei dati.
 
-[^105h-1]: Introdotto dal n. I dell’O del 22 giu. 2011 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105h-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105i
 
@@ -3780,7 +3782,7 @@ Dopo aver sentito i Cantoni e gli assicuratori, il DFI può stabilire prescrizio
 
 Sono equiparati a certificati di carenza di beni ai sensi dell’articolo 64*a* capoverso 3 della legge le decisioni sulla concessione di prestazioni complementari o titoli equivalenti che certificano la mancanza di mezzi finanziari propri dell’assicurato. Il Cantone designa le decisioni e i titoli interessati.
 
-[^105i-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105i-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 105j
 
@@ -3806,10 +3808,10 @@ Verifica l’esattezza e la completezza delle informazioni fornite dagli assicur
 
 <sup>3</sup> Il Cantone assume i costi dell’organo di revisione qualora ne designi uno diverso da quello di cui all’articolo 25 LVAMal[^105j-3].[^105j-4]
 
-[^105j-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105j-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^105j-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105j-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^105j-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^105j-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^105j-4]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 105k
 
@@ -3821,8 +3823,8 @@ Verifica l’esattezza e la completezza delle informazioni fornite dagli assicur
 
 <sup>3</sup> Se un Cantone accorda una riduzione del premio per un periodo per il quale l’assicuratore gli ha già notificato nel suo conteggio finale un credito secondo l’articolo 64*a* capoverso 3 LAMal, l’assicuratore restituisce al Cantone l’85 per cento di tale riduzione del premio. Sul certificato di carenza di beni o sul titolo equivalente i crediti nei confronti della persona assicurata sono ridotti dell’ammontare dell’intera riduzione del premio.[^105k-2]
 
-[^105k-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105k-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^105k-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105k-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 #### Art. 105l
 
@@ -3836,8 +3838,8 @@ Verifica l’esattezza e la completezza delle informazioni fornite dagli assicur
 
 <sup>3</sup> Se gli importi in arretrato conformemente al capoverso 2 non sono pervenuti all’assicuratore tempestivamente, quest’ultimo deve informare l’interessato che egli continua ad essere assicurato presso di lui e che può cambiare assicuratore soltanto al successivo termine previsto dall’articolo 7 capoversi 1 e 2 della legge. L’assicuratore informa il nuovo assicuratore entro 60 giorni che l’assicurato continua ad essere assicurato presso di lui.
 
-[^105l-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105l-2]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105l-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105l-2]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105m
 
@@ -3859,9 +3861,9 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della N
 
 <sup>2</sup> Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Regno Unito non permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, l’assicuratore invia all’assicurato che non paga i premi o le partecipazioni ai costi esigibili una diffida di pagamento preceduta almeno da un sollecito scritto, gli assegna un termine supplementare di 30 giorni e gli indica le conseguenze della mora. Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine stabilito, l’assicuratore può sospendere l’assunzione dei costi delle prestazioni. Esso deve nel contempo informare l’assicurato e l’istituzione di assistenza competente nel luogo di residenza del medesimo in merito alla sospensione. La sospensione termina non appena sono stati pagati i premi e le partecipazioni ai costi oggetto della diffida, nonché gli interessi di mora accumulati. Durante la sospensione dell’assunzione delle prestazioni, gli assicuratori possono compensare le prestazioni con i premi o le partecipazioni ai costi dovuti.[^105m-3]
 
-[^105m-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105m-2]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^105m-3]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^105m-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105m-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^105m-3]: Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ### Capitolo 4: Riduzione dei premi da parte dei Cantoni
 
@@ -3869,7 +3871,7 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della N
 
 [^part1-tit5-chap4-sec1-1]
 
-[^part1-tit5-chap4-sec1-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^part1-tit5-chap4-sec1-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106
 
@@ -3877,7 +3879,7 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della N
 
 Hanno diritto alla riduzione dei premi anche le persone tenute ad assicurarsi ai sensi dell’articolo 1 capoverso 2 lettere a ed f, purché soddisfino le condizioni di diritto del Cantone.
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^106-1]: Nuovo testo giusta la cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 
 #### Art. 106a
 
@@ -3893,14 +3895,14 @@ Per le seguenti persone la riduzione dei premi è praticata secondo l’articolo
 
 <sup>2</sup> All’atto di verificare le modeste condizioni economiche degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito, i Cantoni non possono prendere in considerazione il reddito e la sostanza netta dei familiari assoggettati alla procedura ai sensi dell’articolo 66*a* della legge.[^106a-2]
 
-[^106a-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^106a-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^106a-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^106a-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 ### Sezione 2: Esecuzione della riduzione dei premi
 
 [^part1-tit5-chap4-sec2-1]
 
-[^part1-tit5-chap4-sec2-1]: Introdotta dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^part1-tit5-chap4-sec2-1]: Introdotta dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106b
 
@@ -3922,7 +3924,7 @@ Notifica all’assicuratore:
 
 **Compiti dell’assicuratore**
 
-<sup>1</sup> L’assicuratore comunica al Cantone se può attribuire la notifica a un proprio assicurato.
+<sup>1</sup> L’assicuratore comunica al Cantone se può attribuire la notifica a un proprio assicurato. Comunica inoltre al Cantone il premio approvato e l’importo di compensazione secondo l’articolo 26 capoverso 4 dell’ordinanza del 18 novembre 2015[^106c-1] sulla vigilanza sull’assicurazione malattie.[^106c-2]
 
 <sup>2</sup> Notifica al Cantone importanti cambiamenti nei rapporti con l’assicurato. Il DFI può definire quali cambiamenti sono considerati importanti.
 
@@ -3935,15 +3937,17 @@ Notifica all’assicuratore:
 Può compensare i suoi crediti residui relativi ai premi per l’anno civile e altri crediti scaduti relativi all’assicurazione obbligatoria delle cure medico-sanitarie, fatto salvo l’articolo 105*k* capoverso 5, attraverso:
 
 - a. la riduzione dei premi accordata dal Cantone;
-- b. l’importo forfettario accordato dal Cantone per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d della legge federale del 6 ottobre 2006[^106c-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.[^106c-2]
+- b. l’importo forfettario accordato dal Cantone per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d della legge federale del 6 ottobre 2006[^106c-3] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.[^106c-4]
 
-<sup>5bis</sup> Versa il saldo all’assicurato entro 60 giorni dalla comunicazione di tale riduzione da parte del Cantone. Sono fatti salvi i disciplinamenti cantonali secondo cui il premio può essere ridotto al massimo del suo stesso importo mentre i piccoli importi non sono versati.[^106c-3]
+<sup>5bis</sup> Versa il saldo all’assicurato entro 60 giorni dalla comunicazione di tale riduzione da parte del Cantone. Sono fatti salvi i disciplinamenti cantonali secondo cui il premio può essere ridotto al massimo del suo stesso importo mentre i piccoli importi non sono versati.[^106c-5]
 
 <sup>6</sup> Il Cantone può prevedere che l’assicuratore gli comunichi i dati personali di cui all’articolo 105*g* e altri dati per i suoi assicurati nel Cantone interessato.
 
-[^106c-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^106c-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
-[^106c-3]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^106c-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-5]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 
@@ -3973,7 +3977,7 @@ I Cantoni e gli assicuratori assumono i costi derivanti dall’applicazione dell
 
 Gli articoli 90, 90*a* e 105*a* sono applicabili per analogia.
 
-[^108a-1]: Introdotto dal n. I dell’O dell’11 set. 2002 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)). Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^108a-1]: Introdotto dalla cifra I dell’O dell’11 set. 2002 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)). Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 109
 
@@ -4010,7 +4014,7 @@ Gli assicurati devono notificare al loro assicuratore-malattie gli infortuni non
 - b. il medico curante o l’ospedale;
 - c. eventuali responsabili e assicurazioni interessate.
 
-[^111-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^111-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 ### Sezione 2: Obbligo di anticipare le prestazioni
 
@@ -4023,7 +4027,7 @@ Gli assicurati devono notificare al loro assicuratore-malattie gli infortuni non
 <sup>2</sup> Se una persona è assicurata per l’indennità giornaliera presso più assicuratori-malattie, l’obbligo di anticipare le prestazioni incombe ad ognuno di questi assicuratori.
 
 [^112-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^112-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^112-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 113
 
@@ -4037,13 +4041,13 @@ Se l’assicurato ha chiesto prestazioni sia all’assicuratore-malattie sia all
 
 L’assicuratore-malattie che anticipa le prestazioni deve avvertire l’assicurato circa il diritto di ricorso reciproco di cui all’articolo 71 LPGA.
 
-[^114-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^114-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 115
 
 [^115-1]
 
-[^115-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^115-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 116
 
@@ -4085,7 +4089,7 @@ L’assicuratore-malattie che anticipa le prestazioni deve avvertire l’assicur
 
 [^part3-tit1-chap1-sec4-1]
 
-[^part3-tit1-chap1-sec4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^part3-tit1-chap1-sec4-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 120
 
@@ -4110,7 +4114,7 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 
 <sup>2</sup> Se una persona è assicurata presso più assicuratori-malattie per l’indennità giornaliera ai sensi degli articoli 67 a 77 della legge, il sovrindenizzo è stabilito secondo l’articolo 69 capoverso 2 LPGA. Se le prestazioni devono essere ridotte, ciascun assicuratore è tenuto a versare le prestazioni nella proporzione esistente tra l’indennità giornaliera che assicura e l’importo totale delle indennità giornaliere assicurate.
 
-[^122-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^122-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 ### Titolo 2: ...
 
@@ -4118,13 +4122,13 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 
 [^123126-1]
 
-[^123126-1]: Abrogati dal n. I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^123126-1]: Abrogati dalla cifra I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 ## Parte quarta: Decisione, spese di comunicazione e pubblicazione di dati
 
 [^part4-1]
 
-[^part4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^part4-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 127
 
@@ -4132,13 +4136,13 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 
 L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste secondo l’articolo 51 capoverso 2 LPGA.
 
-[^127-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^127-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 128 e 129
 
 [^128129-1]
 
-[^128129-1]: Abrogati dal n. I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^128129-1]: Abrogati dalla cifra I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 130
 
@@ -4150,8 +4154,8 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza dell’assoggettato o per altri gravi motivi.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510))
-[^130-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^130-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510))
+[^130-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^130-3]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
 ## Parte quinta: Disposizioni finali
@@ -4162,7 +4166,7 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 [^131-1]
 
-[^131-1]: Abrogato dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^131-1]: Abrogato dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 132
 
@@ -4177,14 +4181,14 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 <sup>4</sup> Se una cura iniziata prima del 1° gennaio 1997 continua dopo questa data, la cassa malati deve mantenere il rapporto d’assicurazione sino alla fine della cura conformemente al diritto previgente.[^132-3]
 
 [^132-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^132-2]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^132-3]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^132-2]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^132-3]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 
 #### Art. 133
 
 [^133-1]
 
-[^133-1]: Abrogato dal n. I dell’O del 25 giu. 1997, con effetto dal 1° gen. 1998 ([RU 1997 1639](https://fedlex.data.admin.ch/eli/oc/1997/1639_1639_1639)).
+[^133-1]: Abrogato dalla cifra I dell’O del 25 giu. 1997, con effetto dal 1° gen. 1998 ([RU 1997 1639](https://fedlex.data.admin.ch/eli/oc/1997/1639_1639_1639)).
 
 #### Art. 134
 
@@ -4201,7 +4205,7 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 - a. soddisfano le condizioni d’ammissione di cui agli articoli 53 e 54; e
 - b. presentano la domanda d’autorizzazione entro tre mesi dall’entrata in vigore dell’ordinanza del 14 febbraio 2007[^134-2] sugli esami genetici sull’essere umano.[^134-3]
 
-[^134-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^134-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^134-2]: [RS 810.122.1](https://fedlex.data.admin.ch/eli/cc/2022/585)
 [^134-3]: Introdotto dall’art. 37 n. 2 dell’O del 14 feb. 2007 sugli esami genetici sull’essere umano, in vigore dal 1° apr. 2007 ([RU 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
@@ -4209,13 +4213,13 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 
 [^135-1]
 
-[^135-1]: Abrogato dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^135-1]: Abrogato dalla cifra I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 136
 
 [^136-1]
 
-[^136-1]: Abrogato dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)). Il testo del 1° gen. ha effetto sino al 31 dic. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^136-1]: Abrogato dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)). Il testo del 1° gen. ha effetto sino al 31 dic. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 ### Titolo 2: Entrata in vigore
 
@@ -4227,13 +4231,13 @@ La presente ordinanza entra in vigore il 1° gennaio 1996.
 
 [^u1-1]
 
-[^u1-1]: [RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272). Abrogata dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: [RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272). Abrogata dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 23 febbraio 2000
 
 [^u2-1]
 
-[^u2-1]: [RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137). Abrogate dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u2-1]: [RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137). Abrogate dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizione finale della modifica del 2 ottobre 2000
 
@@ -4245,7 +4249,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1996.
 
 [^u4-1]
 
-[^u4-1]: [RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251). Abrogate dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u4-1]: [RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251). Abrogate dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 26 giugno 2002
 
@@ -4259,7 +4263,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 [^u6-1]
 
-[^u6-1]: [RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogata dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u6-1]: [RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogata dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 26 maggio 2004
 
@@ -4285,7 +4289,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 [^u9-1]
 
-[^u9-1]: [RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Abrogate dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u9-1]: [RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Abrogate dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 26 aprile 2006
 
@@ -4304,8 +4308,8 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 <sup>5</sup> ...[^u10-4]
 
 [^u10-2]: [RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)
-[^u10-3]: Abrogato dal n. I dell’O del 27 giu. 2007, con effetto dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^u10-4]: Abrogato dal n. II dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
+[^u10-3]: Abrogato dalla cifra I dell’O del 27 giu. 2007, con effetto dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^u10-4]: Abrogato dalla cifra II dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
 
 ## Disposizioni transitorie della modifica del 27 giugno 2007
 
@@ -4353,11 +4357,11 @@ Le disposizioni della presente ordinanza relative all’ufficio di revisione val
 
 <sup>4</sup> In deroga alle disposizioni finali della modifica del 22 ottobre 2008[^u13-4] dell’ordinanza del 3 luglio 2002[^u13-5] sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell’assicurazione malattie, nel 2012 la rimunerazione dei costi di utilizzazione delle immobilizzazioni, nel caso di un modello di rimunerazione di tipo DRG, si effettua per mezzo di un supplemento sui prezzi di base negoziati nelle convenzioni tariffali. Il supplemento ammonta al 10 per cento.[^u13-6]
 
-[^u13-2]: Introdotto dal n. I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
-[^u13-3]: Introdotto dal n. I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
+[^u13-2]: Introdotto dalla cifra I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
+[^u13-3]: Introdotto dalla cifra I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-4]: [RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)
 [^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
-[^u13-6]: Introdotto dal n. I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
+[^u13-6]: Introdotto dalla cifra I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
 ## Disposizione finale della modifica del 13 marzo 2009
 
@@ -4400,7 +4404,7 @@ Per i progetti pilota di cui all’articolo 36*a* approvati prima dell’entrata
 - a. il 1° ottobre 2009 il prezzo di fabbrica per la consegna del preparato originale (valore originario) è superiore di oltre il 4 per cento al prezzo calcolato secondo il capoverso 3;
 - b. fino al 30 novembre 2009 l’azienda non ha presentato domanda di riduzione del prezzo di fabbrica per la consegna con effetto dal 1° marzo 2010 fino a un importo che superi del 4 per cento al massimo il prezzo di fabbrica per la consegna calcolato secondo il capoverso 3.
 
-[^u16-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4759](https://fedlex.data.admin.ch/eli/oc/2009/560)).
+[^u16-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4759](https://fedlex.data.admin.ch/eli/oc/2009/560)).
 
 ## Disposizioni transitorie della modifica del 3 dicembre 2010
 
@@ -4456,7 +4460,7 @@ Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’
 
 <sup>2</sup> I fornitori di prestazioni nel settore ambulatoriale e nei settori della riabilitazione e della psichiatria trasmettono le diagnosi e le procedure secondo le modalità e le codifiche convenute nelle convenzioni tariffali applicabili fino a quando il DFI non ha fissato le classificazioni ad essi applicabili (art. 59*a*<sup>bis</sup>).[^u21-2]
 
-[^u21-2]: Nuovo testo giusta il n. II dell’O del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4391](https://fedlex.data.admin.ch/eli/oc/2014/723), [2015 1177](https://fedlex.data.admin.ch/eli/oc/2015/236)).
+[^u21-2]: Nuovo testo giusta la cifra II dell’O del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4391](https://fedlex.data.admin.ch/eli/oc/2014/723), [2015 1177](https://fedlex.data.admin.ch/eli/oc/2015/236)).
 
 ## Disposizione transitoria della modifica dell’8 maggio 2013
 
@@ -4494,7 +4498,7 @@ L’articolo 65*f* si applica parimenti alle domande di estensione dell’indica
 
 <sup>5</sup> La restituzione delle eccedenze per i medicamenti che sono stati ammessi nell’elenco delle specialità prima dell’entrata in vigore della modifica del 29 aprile 2015 e che fino ad allora non sono stati riesaminati conformemente all’articolo 65*d* è valutata in occasione del successivo riesame triennale delle condizioni di ammissione secondo l’articolo 67 capoverso 2<sup>ter</sup> nel suo tenore previgente.
 
-[^u24-2]: Nuovo testo giusta il n. I dell’O del 23 mar. 2016, in vigore dal 1° mag. 2016 ([RU 2016 1175](https://fedlex.data.admin.ch/eli/oc/2016/219)).
+[^u24-2]: Nuovo testo giusta la cifra I dell’O del 23 mar. 2016, in vigore dal 1° mag. 2016 ([RU 2016 1175](https://fedlex.data.admin.ch/eli/oc/2016/219)).
 
 ## Disposizione transitoria della modifica del 9 dicembre 2016
 
@@ -4530,13 +4534,13 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 [^u28-1]
 
-[^u28-1]: [RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u28-1]: [RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Abrogata dalla cifra I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ## Disposizione transitoria della modifica del 26 maggio 2021
 
 [^u29-1]
 
-[^u29-1]: [RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u29-1]: [RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogata dalla cifra I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 ## Disposizioni transitorie della modifica del 23 giugno 2021
 
@@ -4616,7 +4620,7 @@ Allegato 1[^t-1]
 
 ## Tasse per l’iscrizione nell’elenco delle specialità
 
-[^t-1]: Introdotto dal n. II dell’O dell’8 mag. 2013 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nuovo testo giusta il n. II dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^t-1]: Introdotto dalla cifra II dell’O dell’8 mag. 2013 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)). Nuovo testo giusta la cifra II dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>

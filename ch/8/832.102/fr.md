@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> octobre 2024)
+du 27 juin 1995 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1842,17 +1842,18 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 
 <sup>2</sup> Le fournisseur de prestations doit établir deux factures séparées, l’une pour les prestations prises en charge par l’assurance obligatoire des soins et l’autre pour les autres prestations.
 
-<sup>3</sup> Pour les analyses, la facture remise au débiteur de la rémunération est établie exclusivement par le laboratoire qui a effectué les analyses. Les tarifs forfaitaires d’après l’art. 49 de la loi sont réservés.
+<sup>3</sup> Pour les analyses, la facture remise au débiteur de la rémunération est établie exclusivement par le laboratoire qui a effectué les analyses. Les tarifs forfaitaires prévus aux art. 43, al. 5 à 5<sup>quater</sup>, et 49 LAMal sont réservés.[^59-4]
 
-<sup>3bis</sup> Pour les prestations de soins au sens de l’art. 25*a* LAMal, la facture remise au débiteur de la rémunération précise si les prestations sont fournies avec ou sans prescription ou mandat médical.[^59-4]
+<sup>3bis</sup> Pour les prestations de soins au sens de l’art. 25*a* LAMal, la facture remise au débiteur de la rémunération précise si les prestations sont fournies avec ou sans prescription ou mandat médical.[^59-5]
 
-<sup>4</sup> Les fournisseurs de prestations veillent à ce que la facture soit compréhensible pour l’assuré et veillent en particulier à ce que le genre, la durée et le contenu du traitement soient exposés de manière claire.[^59-5]
+<sup>4</sup> Les fournisseurs de prestations veillent à ce que la facture soit compréhensible pour l’assuré et veillent en particulier à ce que le genre, la durée et le contenu du traitement soient exposés de manière claire.[^59-6]
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 [^59-3]: Nouvelle expression selon l’annexe ch. II 36 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
-[^59-4]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^59-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^59-5]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^59-6]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -3461,11 +3462,11 @@ La suspension de l’échéance des primes prend fin sans paiement rétroactif d
 
 <sup>1</sup> Tous les assurés peuvent adhérer à l’assurance avec franchises à option. L’assuré ne peut choisir une franchise plus élevée que pour le début d’une année civile.
 
-<sup>2</sup> Le passage à une franchise moins élevée ou à une autre forme d’assurance ainsi que le changement d’assureur sont possibles pour la fin d’une année civile et moyennant préavis donné dans les délais fixés à l’art. 7, al. 1 et 2, de la loi.[^94-1]
+<sup>2</sup> Le passage à une franchise moins élevée ou à une assurance avec bonus ou le changement d’assureur sont possibles pour la fin d’une année civile et moyennant préavis donné dans les délais fixés à l’art. 7, al. 1 et 2, LAMal.[^94-1]
 
 <sup>3</sup> Lorsque l’assuré change d’assureur au cours d’une année civile en vertu de l’art. 7, al. 2, 3 ou 4 de la loi, il garde la franchise choisie auprès de l’ancien assureur pour autant que le nouvel assureur pratique cette forme d’assurance. L’art. 103, al. 4, s’applique par analogie.[^94-2]
 
-[^94-1]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^94-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^94-2]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 95
@@ -3554,14 +3555,15 @@ La suspension de l’échéance des primes prend fin sans paiement rétroactif d
 
 <sup>1</sup> Tous les assurés qui résident dans la région où l’assureur pratique une assurance impliquant un choix limité des fournisseurs de prestations peuvent y adhérer.
 
-<sup>2</sup> Le passage de l’assurance ordinaire à une assurance impliquant un choix limité des fournisseurs de prestations est possible à tout moment.
+<sup>2</sup> Le passage d’une assurance avec libre choix des fournisseurs de prestations à une assurance impliquant un choix limité des fournisseurs de prestations est possible à tout moment. L’art. 97, al. 2, est réservé.[^100-1]
 
-<sup>3</sup> Le passage à une autre forme d’assurance ainsi que le changement d’assureur ne sont possibles que pour la fin d’une année civile et moyennant préavis donné dans les délais fixés à l’art. 7, al. 1 et 2, de la loi.[^100-1]
+<sup>3</sup> Le passage à une autre forme d’assurance ainsi que le changement d’assureur ne sont possibles que pour la fin d’une année civile et moyennant préavis donné dans les délais fixés à l’art. 7, al. 1 et 2, de la loi.[^100-2]
 
-<sup>4</sup> Le changement d’assureur au cours d’une année civile en vertu de l’art. 7, al. 2, 3 ou 4, de la loi est réservé.[^100-2]
+<sup>4</sup> Le changement d’assureur au cours d’une année civile en vertu de l’art. 7, al. 2, 3 ou 4, de la loi est réservé.[^100-3]
 
-[^100-1]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^100-2]: Introduit par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^100-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^100-2]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^100-3]: Introduit par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 101
 
@@ -3928,7 +3930,7 @@ Il annonce à l’assureur:
 
 **Tâches de l’assureur**
 
-<sup>1</sup> L’assureur communique au canton s’il peut attribuer l’annonce à une personne assurée chez lui.
+<sup>1</sup> L’assureur communique au canton s’il peut attribuer l’annonce à une personne assurée chez lui. Il lui communique en outre le montant de la prime approuvée et celui du versement de compensation visé à l’art. 26, al. 4, de l’ordonnance du 18 novembre 2015 sur la surveillance de l’assurance-maladie[^106c-1].[^106c-2]
 
 <sup>2</sup> Il communique au canton les changements importants survenus dans ses rapports avec l’assuré. Le DFI peut définir quels changements doivent être considérés comme importants.
 
@@ -3941,15 +3943,17 @@ Il annonce à l’assureur:
 Il peut compenser ses créances de primes restantes pour l’année civile et ses autres créances échues ressortissant à l’assurance obligatoire des soins, sous réserve de l’art. 105*k*, al. 5, avec:
 
 - a. la réduction des primes octroyée par le canton;
-- b. le montant forfaitaire octroyé par le canton pour l’assurance obligatoire des soins conformément à l’art. 10, al. 3, let. d, de la loi du 6 octobre 2006 sur les prestations complémentaires[^106c-1].[^106c-2]
+- b. le montant forfaitaire octroyé par le canton pour l’assurance obligatoire des soins conformément à l’art. 10, al. 3, let. d, de la loi du 6 octobre 2006 sur les prestations complémentaires[^106c-3].[^106c-4]
 
-<sup>5bis</sup> Il verse le solde à l’assuré dans un délai de 60 jours à compter de l’annonce de cette réduction par le canton. Les réglementations cantonales qui prévoient que la réduction équivaut au maximum au montant total de la prime et que les petits montants ne sont pas versés sont réservées.[^106c-3]
+<sup>5bis</sup> Il verse le solde à l’assuré dans un délai de 60 jours à compter de l’annonce de cette réduction par le canton. Les réglementations cantonales qui prévoient que la réduction équivaut au maximum au montant total de la prime et que les petits montants ne sont pas versés sont réservées.[^106c-5]
 
 <sup>6</sup> Le canton peut prévoir que l’assureur lui communique les données personnelles selon l’art. 105*g* et d’autres données relatives à ses assurés dans le canton concerné.
 
-[^106c-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^106c-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
-[^106c-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^106c-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-5]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 

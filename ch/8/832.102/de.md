@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Oktober 2024)
+vom 27. Juni 1995 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1390,7 +1390,7 @@ Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen werden 
 [^50c-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Juli 2024 ([AS 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^50c-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^50c-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
-[^50c-6]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^50c-6]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
 #### Art. 50d
 
@@ -1412,7 +1412,7 @@ Podologen und Podologinnen werden zugelassen, wenn sie die folgenden Voraussetzu
 - e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^50d-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 ([AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^50d-2]: Das Dokument kann auf der folgenden Adresse eingesehen werden: www.ofsp.admin.ch/ref.
+[^50d-2]: Das Dokument kann auf der folgenden Adresse eingesehen werden: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
 #### Art. 51
 
@@ -1842,17 +1842,18 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>2</sup> Der Leistungserbringer muss für die von der obligatorischen Krankenpflegeversicherung übernommenen Leistungen und die anderen Leistungen zwei getrennte Rechnungen erstellen.
 
-<sup>3</sup> Bei Analysen erfolgt die Rechnungsstellung an den Schuldner der Vergütung ausschliesslich durch das Laboratorium, das die Analyse durchgeführt hat. Pauschaltarife nach Artikel 49 des Gesetzes bleiben vorbehalten.
+<sup>3</sup> Bei Analysen erfolgt die Rechnungsstellung an den Schuldner der Vergütung aus-schliesslich durch das Laboratorium, das die Analyse durchgeführt hat. Pauschaltarife nach den Artikeln 43 Absätze 5–5<sup>quater</sup> und 49 KVG bleiben vorbehalten.[^59-4]
 
-<sup>3bis</sup> Für Leistungen nach Artikel 25*a* KVG weist die Rechnung an den Schuldner der Vergütung aus, ob die Leistungen mit oder ohne ärztliche Anordnung oder ärztlichen Auftrag erbracht wurden.[^59-4]
+<sup>3bis</sup> Für Leistungen nach Artikel 25*a* KVG weist die Rechnung an den Schuldner der Vergütung aus, ob die Leistungen mit oder ohne ärztliche Anordnung oder ärztlichen Auftrag erbracht wurden.[^59-5]
 
-<sup>4</sup> Die Leistungserbringer stellen sicher, dass die Rechnung für die versicherte Person nachvollziehbar ist und dass insbesondere Art, Dauer und Inhalt der Behandlung verständlich dargestellt werden.[^59-5]
+<sup>4</sup> Die Leistungserbringer stellen sicher, dass die Rechnung für die versicherte Person nachvollziehbar ist und dass insbesondere Art, Dauer und Inhalt der Behandlung verständlich dargestellt werden.[^59-6]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [SR 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 [^59-3]: Ausdruck gemäss Anhang Ziff. II 36 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^59-4]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^59-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^59-5]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^59-6]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -3458,11 +3459,11 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>1</sup> Die Versicherung mit wählbaren Franchisen steht sämtlichen Versicherten offen. Die Wahl einer höheren Franchise kann nur auf den Beginn eines Kalenderjahres erfolgen.
 
-<sup>2</sup> Der Wechsel zu einer tieferen Franchise, in eine andere Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 des Gesetzes festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^94-1]
+<sup>2</sup> Der Wechsel zu einer tieferen Franchise, in eine Bonusversicherung oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 KVG festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^94-1]
 
 <sup>3</sup> Wechselt die versicherte Person den Versicherer auf Grund von Artikel 7 Absatz 2, 3 oder 4 des Gesetzes während des Kalenderjahres, so behält sie die beim bisherigen Versicherer gewählte Franchise, sofern der übernehmende Versicherer diese Versicherungsform führt. Artikel 103 Absatz 4 ist sinngemäss anwendbar.[^94-2]
 
-[^94-1]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^94-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^94-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 95
@@ -3551,14 +3552,15 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>1</sup> Die Versicherungen mit eingeschränkter Wahl der Leistungserbringer stehen sämtlichen Versicherten mit Wohnsitz im Gebiet offen, in dem der Versicherer die betreffende Versicherungsform betreibt.
 
-<sup>2</sup> Der Wechsel von der ordentlichen Versicherung in eine Versicherung mit eingeschränkter Wahl der Leistungserbringer ist jederzeit möglich.
+<sup>2</sup> Der Wechsel von einer Versicherung ohne eingeschränkte Wahl der Leistungserbringer in eine Versicherung mit eingeschränkter Wahl der Leistungserbringer ist jederzeit möglich. Artikel 97 Absatz 2 bleibt vorbehalten.[^100-1]
 
-<sup>3</sup> Der Wechsel zu einer anderen Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 des Gesetzes festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^100-1]
+<sup>3</sup> Der Wechsel zu einer anderen Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 des Gesetzes festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^100-2]
 
-<sup>4</sup> Der Wechsel des Versicherers während des Kalenderjahres auf Grund von Artikel 7 Absatz 2, 3 oder 4 des Gesetzes bleibt vorbehalten.[^100-2]
+<sup>4</sup> Der Wechsel des Versicherers während des Kalenderjahres auf Grund von Artikel 7 Absatz 2, 3 oder 4 des Gesetzes bleibt vorbehalten.[^100-3]
 
-[^100-1]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^100-2]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^100-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^100-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^100-3]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 101
 
@@ -3925,7 +3927,7 @@ Er meldet dem Versicherer:
 
 **Aufgaben des Versicherers**
 
-<sup>1</sup> Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann.
+<sup>1</sup> Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann. Er teilt dem Kanton ausserdem die genehmigte Prämie sowie den Ausgleichsbetrag nach Artikel 26 Absatz 4 der Krankenversicherungsaufsichtsverordnung vom 18. November 2015[^106c-1] mit.[^106c-2]
 
 <sup>2</sup> Er meldet dem Kanton wesentliche Änderungen im Verhältnis zwischen der versicherten Person und ihm. Das EDI kann festlegen, welche Änderungen als wesentlich gelten.
 
@@ -3938,15 +3940,17 @@ Er meldet dem Versicherer:
 Er darf seine restlichen Prämienforderungen für das laufende Kalenderjahr und seine anderen fälligen Forderungen aus der obligatorischen Krankenpflegeversicherung unter Vorbehalt von Artikel 105*k* Absatz 5 mit folgenden Beiträgen verrechnen:
 
 - a. der vom Kanton gewährten Prämienverbilligung;
-- b. dem vom Kanton gewährten Pauschalbeitrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^106c-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung.[^106c-2]
+- b. dem vom Kanton gewährten Pauschalbeitrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^106c-3] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung.[^106c-4]
 
-<sup>5bis</sup> Er bezahlt der versicherten Person den Differenzbetrag innerhalb von 60 Tagen nach der Meldung der Prämienverbilligung durch den Kanton aus. Kantonale Regelungen, wonach die Prämie höchstens bis zu ihrem vollen Umfang verbilligt werden kann und wonach kleine Beträge nicht ausgerichtet werden, bleiben vorbehalten.[^106c-3]
+<sup>5bis</sup> Er bezahlt der versicherten Person den Differenzbetrag innerhalb von 60 Tagen nach der Meldung der Prämienverbilligung durch den Kanton aus. Kantonale Regelungen, wonach die Prämie höchstens bis zu ihrem vollen Umfang verbilligt werden kann und wonach kleine Beträge nicht ausgerichtet werden, bleiben vorbehalten.[^106c-5]
 
 <sup>6</sup> Der Kanton kann vorsehen, dass der Versicherer ihm die Personendaten nach Artikel 105*g* und weitere Daten für seine Versicherten im betreffenden Kanton mitteilt.
 
-[^106c-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^106c-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
-[^106c-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-1]: [SR 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^106c-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
+[^106c-3]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-5]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 
