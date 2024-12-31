@@ -3,11 +3,11 @@ sr: "748.131.3"
 title: Ordinance of 25 April 2012 on Airport Charges
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/328"
 language: en
-version: 2019-08-01
+version: 2025-01-01
 adopted: 2012-04-25
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/en/xml/fedlex-data-admin-ch-eli-cc-2012-328-20190801-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20190801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2012-328-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20190801/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 25 April 2012 (Status as of 1 August 2019)
+of 25 April 2012 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -75,7 +75,10 @@ In this Ordinance:
 - d. *central infrastructure* means facilities and services which cannot be provided separately or in multiple versions owing to their complexity or for cost or environmental reasons;
 - e. *airside* means that part of the airport which is accessible to the public only with special authorisation;
 - f. *landside* means that part of the airport which is accessible to the public without special authorisation;
-- g. *economic added value* means profit earned after deducting reasonable capital interest (Art. 17) from the operating result before interest and after taxes or parafiscal charges.
+- g. *economic added value* means profit earned after deducting reasonable capital interest (Art. 17) from the operating result before interest and after taxes or parafiscal charges;
+- h.[^2-1] *surplus or shortfall* means the calculated and realised difference during a charge period between the total revenue in the flight operations sector, including transfer payments in accordance with Article 34, and the total costs in the flight operations sector, including reasonable capital interest in accordance with Article 17.
+
+[^2-1]: Inserted by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 3
 
@@ -87,11 +90,12 @@ In this Ordinance:
 
 #### Art. 4
 
-**Publication of airport charges**
+**Publication of airport charges**[^4-1]
 
-The airport operator publishes the airport charges in the Swiss Aeronautical Information Publication (AIP).[^4-1]
+The airport operator publishes the airport charges in the Swiss Aeronautical Information Publication (AIP)[^4-2].
 
-[^4-1]: A paid subscription to the AIP may be obtained from: Skyguide, P.O. Box 23, 8602 Wangen bei Dübendorf, Switzerland; www.skyguide.ch. It may be viewed free of charge at the Federal Office of Civil Aviation (FOCA), Mühlestrasse 2, 3063 Ittigen, Switzerland.
+[^4-1]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^4-2]: A paid subscription to the AIP may be obtained from: Skyguide, P.O. Box 23, 8602 Wangen bei Dübendorf, Switzerland; www.skyguide.ch. It may be viewed free of charge at the Federal Office of Civil Aviation (FOCA), Mühlestrasse 2, 3063 Ittigen, Switzerland.
 
 #### Art. 5
 
@@ -157,16 +161,36 @@ If so requested, the airport operator must allow the FOCA to examine the operati
 
 #### Art. 11
 
-**Adjustment before the planned target date**
+**Adjustment before the planned target date at Geneva Airport[^11-1]**
 
 <sup>1</sup>
 
-The airport operator may only initiate proceedings for changing the flight operations charges before the prescribed target date if:
+The operator of Geneva Airport may only initiate proceedings for changing the flight operations charges before the prescribed target date if:
 
 - a. extraordinary circumstances arise which have an effect on the cost of airport operation;
-- b. there are changes to the airport's regulatory environment which were not foreseeable and which have a substantial effect on costs.
+- b. there are changes to the airport's regulatory environment which were not foreseeable and which have a substantial effect on costs.[^11-2]
 
 <sup>2</sup> FOCA may order adjustment proceedings to be held or directly prescribe changes in the charges at any time if they do not comply with the requirements of law.
+
+[^11-1]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^11-2]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
+#### Art. 11a
+
+**Adjustment before the planned target date at Zurich Airport**[^11a-1]
+
+<sup>1</sup>
+
+The operator of Zurich Airport and airport users who together represent a share of at least 20 per cent of flight operations charges at the time of their application may ask the FOCA to initiate adjustment proceedings early in the event of exceptional circumstances that have a significant impact on:
+
+- a. forecasts based on the charge calculation; and
+- b. the surplus or shortfall of airport charges expected at the end of the charge period.
+
+<sup>2</sup> The FOCA shall make a decision on the application within 60 days of its submission.
+
+<sup>3</sup> If the application is approved, the FOCA also has the option of shortening the preliminary proceedings in accordance with Article 23. It will decide upon this in its ruling.
+
+[^11a-1]: Inserted by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 12
 
@@ -223,9 +247,13 @@ Reasonable interest on the capital invested in the airport is calculated accordi
 
 #### Art. 18
 
-[^18-1]
+**Procedure for surpluses or shortfalls of airport charges at Zurich Airport**[^18-1]
 
-[^18-1]: Repealed by No I of the O of 14 June 2019, with effect from 1 Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+<sup>1</sup> If a surplus or shortfall is generated at Zurich Airport during a charge period, this surplus or shortfall shall be taken into account when setting charges for the subsequent charge period, subject to paragraph 2.
+
+<sup>2</sup> Where there is good cause, it may be agreed in the context of joint charge setting (as described in Section 3 of this chapter) that a surplus or shortfall during the ongoing charge period shall initially be partially or fully disregarded when setting charges for the subsequent charge period and shall instead be offset at a later time.
+
+[^18-1]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 19
 
@@ -298,10 +326,11 @@ The following rules govern the procedure for setting flight operations charges a
 
 <sup>1</sup> The airport operator shall give the parties to the negotiations envisaged in Article 22 paragraph 1 and the FOCA six months’ advance notice of the start of negotiations.
 
-<sup>2</sup> The airport operator shall give notice of the negotiations 30 days before their start in the Aeronautical Information Circular, AIC[^20a-2].
+<sup>2</sup> The airport operator shall give notice of the negotiations 30 days before their start in the Aeronautical Information Circular (AIC[^20a-2]).[^20a-3]
 
 [^20a-1]: Inserted by No I of the O of 14 June 2019, in force since 1 Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 [^20a-2]: The AIC may be obtained for a fee from: Skyguide, P.O. Box 23, 8602 Wangen bei Dübendorf, Switzerland; www.skyguide.ch. It may be viewed free of charge at the Federal Office of Civil Aviation (FOCA), Mühlestrasse 2, 3063 Ittigen, Switzerland.
+[^20a-3]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 20b
 
@@ -393,9 +422,12 @@ The agreements concluded by the parties to the negotiation must contain provisio
 
 - a. the charge system;
 - b. the amount of the charges;
-- c. the length of the charge period.
+- c. the length of the charge period;
+- d.[^25-1] the implementation of Article 18 paragraph 2 at Zurich Airport.
 
 <sup>3</sup> If no agreements have been concluded by the end of the fourth month after the start of negotiations, the negotiations are regarded as having failed. The FOCA may extend this deadline once by two months upon receiving a joint application to do so from all parties to the negotiations.
+
+[^25-1]: Inserted by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 26
 
@@ -452,7 +484,7 @@ The airport operator shall issue the charge regulations in accordance with the a
 
 **Calculation rules**
 
-<sup>1</sup> The charges are calculated separately for the segments air traffic, air safety and PRM.
+<sup>1</sup> The flight operations charges are calculated separately for the segments air traffic, air safety and PRM.[^29-1]
 
 <sup>2</sup>
 
@@ -468,14 +500,25 @@ The basis for calculating flight operations charges is:
 The following income shall be deducted from the costs:
 
 - a. earnings generated in each segment from sources other than flight operations charges;
-- b in the air traffic segment: transfer payments from the sector not relevant to flight operations in accordance with Article 34;
+- b.[^29-2] in the air traffic segment: transfer payments from the sector not relevant to flight operations in accordance with Article 34; these are to be applied after taxes and parafiscal charges;
 - c. subsidies.
+
+<sup>4</sup>
+
+At Zurich Airport, the calculation of flight operations charges shall include:
+
+- a. a surplus or shortfall generated during the ongoing charge period when setting charges for the subsequent charge period (Art. 18 para. 1);
+- b. agreements from earlier proceedings, as described in Article 18 paragraph 2.[^29-3]
+
+[^29-1]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-2]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-3]: Inserted by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 30
 
-**“Originator pays” principle**
+**«Originator pays» principle**
 
-The “originator pays” principle applies to the allocation of overhead costs and the internal invoicing of services between the cost centres of the sector relevant to flight operations as well as between the sector relevant to flight operations and the sector not relevant to flight operations.
+The «originator pays» principle applies to the allocation of overhead costs and the internal invoicing of services between the cost centres of the sector relevant to flight operations as well as between the sector relevant to flight operations and the sector not relevant to flight operations.
 
 #### Art. 31
 
@@ -584,15 +627,16 @@ The airport users concerned must be provided with the following statements on th
 
 **Publication and review**
 
-<sup>1</sup> The airport operator shall publish the changes in charges in the Aeronautical Information Circular (AIC) at least 30 days before they come into force[^42-1].
+<sup>1</sup> The airport operator shall publish the changes in charges in the AIC[^42-1] at least 30 days before they come into force.[^42-2]
 
-<sup>2</sup> Each airport user concerned may apply to the FOCA within 30 days of publication in the AIC[^42-2] to request a review of the charges. The grounds for the application must be stated.[^42-3]
+<sup>2</sup> Each airport user concerned may apply to the FOCA within 30 days of publication in the AIC[^42-3] to request a review of the charges. The grounds for the application must be stated.[^42-4]
 
 <sup>3</sup> The FOCA shall decide on the approval of the charge proposal within 60 days after receiving the application.
 
-[^42-1]: A paid subscription to the AIC may be obtained from: Skyguide, P.O. Box 23, 8602 Wangen bei Dübendorf, Switzerland; www.skyguide.ch. It may be viewed free of charge at the Federal Office of Civil Aviation (FOCA), Mühlestrasse 2, 3063 Ittigen, Switzerland.
-[^42-2]: See footnote to Art. 20*a* para. 2.
-[^42-3]: Amended by No I of the O of 14 June 2019, in force since 1 Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^42-1]: See footnote to Art. 20*a* para. 2.
+[^42-2]: Amended by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^42-3]: See footnote to Art. 20*a* para. 2.
+[^42-4]: Amended by No I of the O of 14 June 2019, in force since 1 Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ## Chapter 4 Joint Provisions for All Airports
 
@@ -695,6 +739,15 @@ At a minimum, the following emissions must be taken into account:
 
 Higher flight operations charges may be set for take-offs and landings during the first and last hours of daily flight operations.
 
+#### Art. 49a
+
+**Sectoral Aviation Infrastructure Plan**[^49a-1]
+
+When setting flight operations charges with a steering effect in relation to environmental protection, the relevant provisions of the Sectoral Aviation Infrastructure Plan (SAIP)[^49a-2] must be taken into account.
+
+[^49a-1]: Inserted by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^49a-2]: The SAIP can be viewed at: www.bazl.admin.ch
+
 ## Chapter 5 Final Provisions
 
 #### Art. 50
@@ -740,13 +793,27 @@ If the airport operator demonstrates that its annual average return for the enti
 
 [^51a-1]: Inserted by No I of the O of 14 June 2019, in force since 1 Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
+#### Art. 51b
+
+**Transitional provisions to the Amendment of 13 November 2024**[^51b-1]
+
+<sup>1</sup> The flight operations charges for Geneva and Zurich airports must be adjusted on conclusion of the first charge adjustment procedure after this Ordinance comes into force. Procedures ongoing when this Ordinance comes into force shall be terminated in accordance with the ordinance that applied at the start of the procedure. The start of the procedure is deemed to be the date in accordance with Article 10 paragraph 1 on which the airport operator began the procedure.
+
+<sup>2</sup> The flight operations charges for other airports must be adjusted in the first charge adjustment after this Ordinance comes into force.
+
+<sup>3</sup> The access and usage fees must be adjusted in the first adjustment after this Ordinance comes into force.
+
+<sup>4</sup> The charges applicable when this Ordinance comes into force shall remain valid until the new charges come into effect.
+
+[^51b-1]: Inserted by No I of the O of 13 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
 #### Art. 52
 
 **Commencement**
 
 This Ordinance comes into force on 1 June 2012.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 17)
 
@@ -761,7 +828,7 @@ Annex 1*[^t-1]*
 - 1\.2 The interest rate is calculated according to the weighted average cost of capital (WACC). The WACC is set at the level of the operating result after calculatory taxes and parafiscal charges but before interest (WACCs).
 - 1\.3 The WACCs is measured according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/en/xml/image/image1.png)
 
 - 1\.4 The individual parameters in the formula referenced under 1.3 are defined as:
 - 1\.4.1 EK = Equity
@@ -771,14 +838,14 @@ Annex 1*[^t-1]*
 - r<sub>f</sub> = Returns on secure investments: these are measured according to the average (arithmetic mean) of the monthly yields on 10-year Swiss government bonds over the previous 10 years.
 - β = Systematic, non-diversifiable equity risk: the airport's β is calculated on the basis of the average of the unlevered β (assuming an equity ratio of 100%) of the affected airport and at least 10 comparable airports. The selection of the comparison airports must be kept stable over time. When calculating the unlevered β for each airport, β is calculated as a linear regression over the previous 5 years of the monthly course of the rate of return of the share of the affected airport compared with the course of the of the rate of return of the most broadly based country-specific stock market index.
 - (r<sub>M</sub> – r<sub>f</sub>\*) = Market risk premium: this is calculated as the difference between the average stock market return (r<sub>M</sub>) based on historic values and the return on secure investments (r<sub>f</sub><sub>\*</sub>). The average stock market return corresponds to the arithmetic mean of the annual return achieved on the Swiss stock market since 1926. The average return on secure investments corresponds to the arithmetic mean of the annual return achieved on Swiss federal bonds since 1926.
-- 1\.4.4 k<sub>f</sub> = Cost of debt capital = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/en/xml/image/image2.png)</sub>
+- 1\.4.4 k<sub>f</sub> = Cost of debt capital = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/en/xml/image/image2.png)</sub>
 - whereby
 - P = Debt capital risk premium: this is measured according to the average of the 10-year monthly spread between the yields on bonds with a rating corresponding to that of the airport and the yields on government bonds with the same term. The determination of the applicable rating is made by comparing the ratings of the comparison airports used to calculate β. If it can be demonstrated that the actual annual borrowing costs (costs of debt capital) during the charge period will be significantly higher than the borrowing costs estimated on a market basis according to the formula, then kf may be calculated on the basis of the actual borrowing costs.
 - 1\.4.5 s = Tax rate: this is determined as the 5-year average (arithmetic mean) of the ratio between annual tax expenses and annual pre-tax profits.
 - 1\.5 Capital structure (ratio of debt capital to equity): this is determined on the basis of the 5-year average of the market-value capital structures of the comparison airports used to calculate β.
 - 2 Special circumstances in the sector not relevant to flight operations may be taken into account when calculating reasonable capital interest. The airport operator may modify the calculation as follows:
 - 2\.1 The operator may take account of existing special business and financing risks in the sector not relevant to flight operations.
-- 2\.2 The operator may apply an additional parameter when calculating reasonable capital interest in the sector not relevant to flight operations; this parameter takes account of the demonstrably greater expectation of returns of minimally capitalised companies (i.e. “size premium”). Calculation of the size premium must be based on best practices and data from recognised service providers.
+- 2\.2 The operator may apply an additional parameter when calculating reasonable capital interest in the sector not relevant to flight operations; this parameter takes account of the demonstrably greater expectation of returns of minimally capitalised companies (i.e. «size premium»). Calculation of the size premium must be based on best practices and data from recognised service providers.
 - 2\.3 Reasonable capital interest in the sector not relevant to flight operations may, in derogation from 1.1.1, be calculated on the basis of the market value of the clearly allocated assets. For this purpose, the book value of the assets is multiplied by the 5-year average of the ratio between the market value and the book value of the equity of the airport concerned or of comparison airports.
 
 Annex 2
@@ -802,6 +869,6 @@ Annex 2
 - 2\.3 passenger transport systems airside/trolley services;
 - 2\.4 emergency services (safety).
 
-Annex 3*[^t-2]*
+Annex 3[^t-2]
 
 [^t-2]: Repealed by No III of the O of 14 June 2019, with effect from 1 Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).

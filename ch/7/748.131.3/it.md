@@ -3,18 +3,18 @@ sr: "748.131.3"
 title: Ordinanza del 25 aprile 2012 sulle tasse aeroportuali
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/328"
 language: it
-version: 2019-08-01
+version: 2025-01-01
 adopted: 2012-04-25
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/it/xml/fedlex-data-admin-ch-eli-cc-2012-328-20190801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20190801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-328-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle tasse aeroportuali
 
-del 25 aprile 2012 (Stato 1° agosto 2019)
+del 25 aprile 2012 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -75,7 +75,10 @@ Ai sensi della presente ordinanza s’intende per:
 - d. *infrastruttura centralizzata**:* infrastrutture e servizi che, a causa della loro complessità o per ragioni di costi o di protezione dell’ambiente, non è possibile predisporre divisi o in più unità;
 - e. *area lato volo*: la parte dell’aeroporto accessibile al pubblico solamente con un’autorizzazione speciale;
 - f. *area lato città*: la parte dell’aeroporto accessibile al pubblico senza autorizzazione speciale;
-- g. *plusvalore economico**:* l’utile conseguito, detratta un’adeguata rimunerazione del capitale (art. 17), sul risultato d’esercizio prima degli interessi e dopo deduzione delle imposte o dei tributi a carattere d’imposta.
+- g. *plusvalore economico**:* l’utile conseguito, detratta un’adeguata rimunerazione del capitale (art. 17), sul risultato d’esercizio prima degli interessi e dopo deduzione delle imposte o dei tributi a carattere d’imposta;
+- h.[^2-1] *copertura in eccesso o copertura insufficiente*: la differenza calcolata e realizzata per un periodo tariffale tra i proventi totali nel settore rilevante per le operazioni di volo, compresi i trasferimenti di cui all’articolo 34, e i costi totali nel settore rilevante per le operazioni di volo, compresa l’adeguata rimunerazione del capitale di cui all’articolo 17.
+
+[^2-1]: Introdotta dalla cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 3
 
@@ -89,9 +92,10 @@ Ai sensi della presente ordinanza s’intende per:
 
 **Pubblicazione delle tasse aeroportuali**
 
-L’esercente dell’aeroporto pubblica le tasse aeroportuali nella Pubblicazione d’informazioni aeronautiche della Svizzera («Aeronautical Information Publication», AIP)[^4-1].
+L’esercente dell’aeroporto pubblica le tasse aeroportuali nella Pubblicazione d’informazioni aeronautiche della Svizzera («Aeronautical Information Publication», AIP)[^4-1].[^4-2]
 
-[^4-1]: L’AIP può essere ottenuta dietro pagamento presso Skyguide, Casella postale 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Può essere consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), Mühlestrasse 2, 3063 Ittigen.
+[^4-1]: L’AIP può essere ottenuta dietro pagamento presso Skyguide, casella postale 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Può essere consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), Papiermühlestrasse 172, 3063 Ittigen.
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 5
 
@@ -107,9 +111,9 @@ L’esercente dell’aeroporto pubblica le tasse aeroportuali nella Pubblicazion
 
 <sup>4</sup> Le indennità di utilizzo sono dovute dalla persona giuridica o fisica che utilizza l’infrastruttura centralizzata.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^5-3]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^5-3]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 6
 
@@ -129,7 +133,7 @@ Nel quadro della sua vigilanza sulle tasse aeroportuali, l’Ufficio federale de
 
 <sup>3</sup> Entrano in vigore al più presto 90 giorni dopo essere passate in giudicato.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 8
 
@@ -157,16 +161,36 @@ Su richiesta dell’UFAC, l’esercente dell’aeroporto deve consentirgli di co
 
 #### Art. 11
 
-**Adeguamento prima del termine previsto**
+**Adeguamento prima del termine previsto all’aeroporto di Ginevra[^11-1]**
 
 <sup>1</sup>
 
-L’esercente dell’aeroporto può avviare una procedura di modifica per le tasse per le operazioni di volo prima del termine previsto soltanto:
+L’esercente dell’aeroporto di Ginevra può avviare una procedura di modifica per le tasse per le operazioni di volo prima del termine previsto soltanto:
 
 - a. in caso di circostanze straordinarie aventi ripercussioni sui costi d’esercizio dell’aeroporto;
-- b. in caso di adeguamenti del contesto normativo dell’aeroporto che non erano prevedibili e aventi notevoli ripercussioni sui costi.
+- b. in caso di adeguamenti del contesto normativo dell’aeroporto che non erano prevedibili e aventi notevoli ripercussioni sui costi.[^11-2]
 
 <sup>2</sup> L’UFAC può ordinare in qualsiasi momento lo svolgimento di una procedura di adeguamento o direttamente la modifica delle tasse se esse non sono conformi alle disposizioni legali.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
+#### Art. 11a
+
+**Adeguamento prima del termine previsto all’aeroporto di Zurigo**[^11a-1]
+
+<sup>1</sup>
+
+L’esercente dell’aeroporto di Zurigo e gli utenti dell’aeroporto che al momento della richiesta rappresentano insieme una quota delle tasse per le operazioni di volo pari almeno al 20 per cento, possono chiedere all’UFAC l’avvio anticipato di una procedura di modifica in caso di circostanze straordinarie aventi ripercussioni significative:
+
+- a. sulle previsioni su cui si basa il calcolo delle tasse; e
+- b. sulla copertura in eccesso o sulla copertura insufficiente delle tasse aeroportuali attesa alla fine del periodo tariffale.
+
+<sup>2</sup> L’UFAC decide sulla richiesta entro 60 giorni dalla sua ricezione.
+
+<sup>3</sup> Se la richiesta è accolta, l’UFAC ha anche la possibilità di abbreviare la procedura preliminare di cui all’articolo 23. A questo riguardo si esprime nella sua decisione.
+
+[^11a-1]: Introdotto dalla cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 12
 
@@ -223,9 +247,13 @@ L’adeguata rimunerazione del capitale investito nell’aeroporto si calcola se
 
 #### Art. 18
 
-[^18-1]
+**Gestione delle coperture in eccesso o delle coperture insufficienti delle tasse aeroportuali all’aeroporto di Zurigo**[^18-1]
 
-[^18-1]: Abrogato dal n. I dell’O del 14 giu. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+<sup>1</sup> Se in un periodo tariffale all’aeroporto di Zurigo si realizza una copertura in eccesso o una copertura insufficiente, se ne tiene conto nel determinare le tasse per il periodo tariffale successivo; è fatto salvo il capoverso 2.
+
+<sup>2</sup> Se vi sono ragioni importanti, nell’ambito di una determinazione di comune accordo delle tasse secondo la sezione 3 del presente capitolo, si può concordare che una copertura in eccesso o una copertura insufficiente nel periodo tariffale in corso non venga per il momento, o venga solo in parte, presa in considerazione nella determinazione delle tasse per il periodo tariffale successivo, ma venga compensata in un secondo tempo.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 19
 
@@ -271,7 +299,7 @@ Nell’allegato al conto annuale l’esercente dell’aeroporto presenta un rend
 
 <sup>7</sup> L’esattezza del rendiconto sui segmenti di cui al capoverso 6 deve essere confermata da un’impresa di revisione sotto sorveglianza statale secondo l’articolo 7 della legge del 16 dicembre 2005[^19-2] sui revisori. In aggiunta a questa verifica annuale condotta da un’impresa di revisione l’UFAC può chiedere all’esercente dell’aeroporto di affidare incarichi supplementari per il controllo del rendiconto sui segmenti.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 [^19-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### Sezione 2: Svolgimento della procedura
@@ -291,8 +319,8 @@ Per determinare le tasse per le operazioni di volo agli aeroporti di Ginevra e Z
 
 <sup>3</sup> Se, sulla base della presente ordinanza o di convenzioni in vigore, è tenuto ad adeguare le tasse aeroportuali, l’esercente dell’aeroporto non può interrompere la procedura. Non può ripetere passi della procedura, eccezion fatta per il calcolo dei costi completo in caso di rifiuto della proposta tariffale da parte dell’UFAC.
 
-[^20-1]: Introdotta dal n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^20-1]: Introdotta dalla cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 20a
 
@@ -300,10 +328,11 @@ Per determinare le tasse per le operazioni di volo agli aeroporti di Ginevra e Z
 
 <sup>1</sup> L’esercente dell’aeroporto comunica ai partecipanti ai negoziati di cui all’articolo 22 capoverso 1 e all’UFAC l’inizio dei negoziati con sei mesi di anticipo.
 
-<sup>2</sup> L’esercente dell’aeroporto informa dei negoziati 30 giorni prima del loro inizio nella circolare d’informazioni aeronautiche («Aeronautical Information Circular», AIC)[^20a-2].
+<sup>2</sup> L’esercente dell’aeroporto informa dei negoziati 30 giorni prima del loro inizio nella circolare d’informazioni aeronautiche («Aeronautical Information Circular», AIC)[^20a-2].[^20a-3]
 
-[^20a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^20a-2]: L’AIC può essere ottenuta dietro pagamento presso Skyguide, Casella postale 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Può essere consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), Mühlestrasse 2, 3063 Ittigen.
+[^20a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^20a-2]: L’AIP può essere ottenuta dietro pagamento presso Skyguide, Casella postale 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Può essere consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), Papiermühlestrasse 172, 3063 Ittigen.
+[^20a-3]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 20b
 
@@ -311,7 +340,7 @@ Per determinare le tasse per le operazioni di volo agli aeroporti di Ginevra e Z
 
 Gli utenti dell’aeroporto e le loro associazioni che non sono ammessi direttamente ai negoziati devono annunciarsi entro 30 giorni presso l’esercente dell’aeroporto e presso l’UFAC per poter partecipare alla procedura conformemente agli articoli 26 o 28*a*.
 
-[^20b-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ### Sezione 3: Determinazione delle tasse di comune accordo
 
@@ -371,7 +400,7 @@ Al più tardi un mese prima dell’inizio convenuto dei negoziati, l’esercente
 
 <sup>5</sup> L’esercente dell’aeroporto illustra e motiva le previsioni di traffico utilizzate. Nel farlo assicura il rispetto dei segreti commerciali degli utenti dell’aeroporto. Illustra e motiva il metodo impiegato per il calcolo delle previsioni di traffico.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 24
 
@@ -395,9 +424,12 @@ Le convenzioni concluse dalle parti ai negoziati contengono disposizioni concern
 
 - a. il sistema tariffale;
 - b. l’ammontare delle tasse;
-- c. la durata del periodo tariffale.
+- c. la durata del periodo tariffale;
+- d.[^25-1] l’attuazione dell’articolo 18 capoverso 2 all’aeroporto di Zurigo.
 
 <sup>3</sup> Se entro quattro mesi dopo l’inizio dei negoziati non vengono concluse convenzioni, i negoziati sono falliti. Su richiesta congiunta di tutte le parti ai negoziati, l’UFAC può prorogare un’unica volta di due mesi questo termine.
+
+[^25-1]: Introdotta dalla cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 26
 
@@ -418,7 +450,7 @@ Entro tre settimane dopo che l’informazione è stata diffusa, possono fare ric
 
 <sup>5</sup> Se all’UFAC viene chiesto un riesame di cui al capoverso 4, esso approva le convenzioni se i criteri di cui alla sezione 1 del presente capitolo e all’articolo 21 sono soddisfatti. Informa entro 30 giorni sulla sua presumibile decisione. Prende la decisione entro 60 giorni dalla ricezione della richiesta.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 27
 
@@ -426,7 +458,7 @@ Entro tre settimane dopo che l’informazione è stata diffusa, possono fare ric
 
 L’esercente dell’aeroporto emana il regolamento tariffale conformemente alle convenzioni. Tale regolamento entra in vigore al più presto 90 giorni dopo la conclusione definitiva di tutti i passi della procedura previsti nella presente ordinanza.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ### Sezione 4: Approvazione delle tasse sulla base di un calcolo dei costi completo
 
@@ -438,7 +470,7 @@ L’esercente dell’aeroporto emana il regolamento tariffale conformemente alle
 
 <sup>2</sup> Deve fornire all’UFAC ulteriori documenti necessari per valutare l’ammontare delle tasse.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 28a
 
@@ -448,13 +480,13 @@ L’esercente dell’aeroporto emana il regolamento tariffale conformemente alle
 
 <sup>2</sup> L’UFAC presenta per parere entro 20 giorni la versione della proposta tariffale da cui sono stati rimossi i segreti commerciali ai partecipanti ai negoziati di cui all’articolo 22 capoverso 1 e agli utenti dell’aeroporto che si sono annunciati conformemente all’articolo 20*b*.
 
-[^28a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 29
 
 **Norme di calcolo**
 
-<sup>1</sup> Il calcolo delle tasse avviene separatamente per i segmenti traffico aereo, sicurezza aerea e PDMR.
+<sup>1</sup> Il calcolo delle tasse per le operazioni di volo avviene separatamente per i segmenti traffico aereo, sicurezza aerea e PDMR.[^29-1]
 
 <sup>2</sup>
 
@@ -470,8 +502,19 @@ La base per calcolare le tasse per le operazioni di volo sono i costi seguenti:
 Sono dedotti dai costi i seguenti proventi:
 
 - a. proventi generati da fonti diverse dalle tasse aeroportuali nel rispettivo segmento;
-- b. nel segmento traffico aereo: i trasferimenti dalla parte non rilevante per le operazioni di volo conformemente all’articolo 34;
+- b.[^29-2] nel segmento traffico aereo: i trasferimenti dalla parte non rilevante per le operazioni di volo conformemente all’articolo 34; questi devono essere utilizzati dopo le imposte e i tributi a carattere d’imposta;
 - c. sovvenzioni.
+
+<sup>4</sup>
+
+All’aeroporto di Zurigo, per il calcolo delle tasse per le operazioni di volo si tiene conto di:
+
+- a. una copertura in eccesso o una copertura insufficiente realizzata nel periodo tariffale in corso nella determinazione delle tasse per il periodo tariffale successivo (art. 18 cpv. 1);
+- b. accordi secondo l’articolo 18 capoverso 2 risalenti a procedure precedenti.[^29-3]
+
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-3]: Introdotto dalla cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 30
 
@@ -525,7 +568,7 @@ Al segmento PDMR appartiene l’insieme delle infrastrutture e dei servizi che, 
 
 <sup>3</sup> L’esercente dell’aeroporto può ripartire il trasferimento, all’interno del segmento traffico aereo, su singoli settori tariffari in funzione del loro contributo al conseguimento del plusvalore economico.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 35
 
@@ -535,7 +578,7 @@ Al segmento PDMR appartiene l’insieme delle infrastrutture e dei servizi che, 
 
 <sup>2</sup> L’esercente dell’aeroporto emana il regolamento tariffale conformemente alla decisione di approvazione.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ### Sezione 5: ...
 
@@ -543,7 +586,7 @@ Al segmento PDMR appartiene l’insieme delle infrastrutture e dei servizi che, 
 
 [^3638-1]
 
-[^3638-1]: Abrogati dal n. I dell’O del 14 giu. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^3638-1]: Abrogati dalla cifra I dell’O del 14 giu. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ## Capitolo 3: Tasse per le operazioni di volo degli altri aeroporti
 
@@ -586,15 +629,16 @@ Agli utenti dell’aeroporto interessati sono messe a disposizione le seguenti i
 
 **Pubblicazione e verifica**
 
-<sup>1</sup> L’esercente dell’aeroporto pubblica le modifiche delle tasse al più tardi 30 giorni prima dell’entrata in vigore nella circolare d’informazioni aeronautiche («Aeronautical Information Circular», AIC)[^42-1].
+<sup>1</sup> L’esercente dell’aeroporto pubblica le modifiche delle tasse al più tardi 30 giorni prima dell’entrata in vigore nell’AIC[^42-1].[^42-2]
 
-<sup>2</sup> Entro 30 giorni dalla pubblicazione nell’AIC[^42-2], ogni utente dell’aeroporto interessato può chiedere all’UFAC di verificare le tasse. La domanda deve essere motivata.[^42-3]
+<sup>2</sup> Entro 30 giorni dalla pubblicazione nell’AIC[^42-3], ogni utente dell’aeroporto interessato può chiedere all’UFAC di verificare le tasse. La domanda deve essere motivata.[^42-4]
 
 <sup>3</sup> L’UFAC decide sull’approvazione della proposta tariffale entro 60 giorni dalla ricezione della richiesta.
 
-[^42-1]: L’AIC può essere ottenuta dietro pagamento presso Skyguide, Casella postale 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Può essere consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), Mühlestrasse 2, 3063 Ittigen.
-[^42-2]: cfr. nota all’art. 20*a* cpv. 2.
-[^42-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^42-1]: Cfr. nota a piè di pagina relativa all’art. 20*a* cpv. 2.
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^42-3]: cfr. nota all’art. 20*a* cpv. 2.
+[^42-4]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ## Capitolo 4: Disposizioni comuni a tutti gli aeroporti
 
@@ -646,7 +690,7 @@ Le indennità di accesso e le indennità di utilizzo si calcolano in base ai cos
 
 <sup>4</sup> I costi e i proventi sono contabilizzati in modo trasparente per segmento e pubblicati nell’allegato al conto annuale. Per gli aeroporti di Ginevra e Zurigo devono essere considerate le disposizioni di cui all’articolo 19.[^45-1]
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 #### Art. 46
 
@@ -659,8 +703,8 @@ Le indennità di accesso e le indennità di utilizzo si calcolano in base ai cos
 <sup>3</sup> L’UFAC decide entro 60 giorni dalla ricezione della richiesta.
 
 [^46-1]: cfr. nota all’art. 20*a* cpv. 2.
-[^46-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^46-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^46-3]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ### Sezione 2: Tasse dall’effetto incentivante nel settore della protezione dell’ambiente
 
@@ -695,13 +739,22 @@ Vanno considerate almeno le emissioni seguenti:
 
 Per i decolli e gli atterraggi durante gli orari marginali mattutini e serali si possono determinare tasse più elevate per le operazioni di volo.
 
+#### Art. 49a
+
+**Piano settoriale dei trasporti, parte Infrastruttura aeronautica**[^49a-1]
+
+Nella determinazione delle tasse dall’effetto incentivante nel settore della protezione dell’ambiente si deve tenere conto delle disposizioni pertinenti del Piano settoriale dei trasporti, parte Infrastruttura aeronautica (PSIA)[^49a-2] .
+
+[^49a-1]: Introdotto dalla cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^49a-2]: Lo PSIA può essere consultato sul sito Internet [www.ufac.admin.ch](http://www.ufac.admin.ch).
+
 ## Capitolo 5: Disposizioni finali
 
 #### Art. 50
 
 **Modifica del diritto vigente**
 
-...*[^50-1]*
+...[^50-1]
 
 [^50-1]: Le mod. possono essere consultate alla [RU 2012 2753](https://fedlex.data.admin.ch/eli/oc/2012/328).
 
@@ -740,7 +793,21 @@ Se l’esercente dell’aeroporto comprova che il suo rendimento medio annuo per
 
 <sup>3</sup> Le indennità di accesso e le indennità di utilizzo devono essere adeguate con il primo adeguamento successivo all’entrata in vigore della presente ordinanza.
 
-[^51a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^51a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+
+#### Art. 51b
+
+**Disposizioni transitorie relative alla modifica del 13 novembre 2024**[^51b-1]
+
+<sup>1</sup> Le tasse per le operazioni di volo degli aeroporti di Ginevra e Zurigo devono essere adeguate con la chiusura della prima procedura di adeguamento delle tasse successiva all’entrata in vigore della presente ordinanza. Le procedure già in corso al momento dell’entrata in vigore vengono concluse secondo l’ordinanza in vigore al momento del loro inizio. Come inizio della procedura vale il momento previsto per l’apertura della procedura da parte dell’esercente dell’aeroporto conformemente all’articolo 10 capoverso 1.
+
+<sup>2</sup> Le tasse per le operazioni di volo degli altri aeroporti devono essere adeguate con la prima procedura di adeguamento successiva all’entrata in vigore della presente ordinanza.
+
+<sup>3</sup> Le indennità di accesso e le indennità di utilizzo devono essere adeguate con il primo adeguamento successivo all’entrata in vigore della presente ordinanza.
+
+<sup>4</sup> Le tasse applicabili prima dell’entrata in vigore della presente ordinanza rimangono valide fino all’entrata in vigore delle nuove tasse.
+
+[^51b-1]: Introdotto dalla cifra I dell’O del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 52
 
@@ -748,13 +815,13 @@ Se l’esercente dell’aeroporto comprova che il suo rendimento medio annuo per
 
 La presente ordinanza entra in vigore il 1° giugno 2012.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 17)
 
 ## Calcolo di un’adeguata rimunerazione del capitale degli aeroporti di Ginevra e Zurigo
 
-[^t-1]: Aggiornato dal n. II dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 14 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 - 1 Per la rimunerazione annua dei beni patrimoniali necessari all’esercizio, occorre tenere conto di quanto segue:
 - 1\.1 Sono considerati beni patrimoniali necessari all’esercizio:
@@ -763,7 +830,7 @@ Allegato 1*[^t-1]*
 - 1\.2 Il tasso d’interesse si calcola conformemente al modello dei costi ponderati dei capitali («Weighted Average Cost of Capital», WACC; costo medio ponderato del capitale). Il WACC è impiegato a livello del risultato d’esercizio dopo imposte calcolatorie o tributi a carattere d’imposta, tuttavia prima degli interessi (WACC<sub>s</sub>).
 - 1\.3 Il WACC<sub>s</sub> si calcola secondo la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/it/xml/image/image1.png)
 
 - 1\.4 Il significato dei singoli parametri della formula di cui al numero 1.3 è la seguente:
 
@@ -775,7 +842,7 @@ Allegato 1*[^t-1]*
 <tr><td></td><td>r<sub>f</sub></td><td colspan="2">=</td><td>rendimento per investimenti sicuri: si misura rispetto alla media (media aritmetica) dei rendimenti mensili delle obbligazioni a dieci anni della Confederazione negli ultimi dieci anni.</td></tr>
 <tr><td></td><td>β</td><td colspan="2">=</td><td>rischio sistematico, non diversificabile sulle azioni: il β dell’aeroporto è calcolato sulla base della media del β «unlevered» (si suppone una quota di capitali propri del 100 %) dell’aeroporto interessato e di almeno dieci aeroporti comparabili. La scelta degli aeroporti va mantenuta stabile nel tempo. Nel calcolare il β «unlevered» per aeroporto, il β è calcolato quale regressione lineare, sugli ultimi cinque anni, dell’evoluzione del rendimento mensile dell’azione dell’aeroporto interessato rispetto all’evoluzione del rendimento dell’indice del mercato azionario più riconosciuto del Paese in questione.</td></tr>
 <tr><td></td><td>(r<sub>M</sub> – r<sub>f</sub>\*)</td><td colspan="2">=</td><td>premio per il rischio di mercato: è calcolato quale differenza tra il rendimento, calcolato come media sulla base di valori passati, del mercato delle azioni (r<sub>M</sub>) e il rendimento, calcolato come media sulla base di valori passati, per investimenti sicuri (r<sub>f</sub><sub>\*</sub>). La media calcolata del rendimento del mercato delle azioni corrisponde alla media aritmetica dei rendimenti annuali realizzati sul mercato svizzero delle azioni dal 1926. La media calcolata del rendimento per investimenti sicuri corrisponde alla media aritmetica dei rendimenti annuali per le obbligazioni della Confederazione dal 1926.</td></tr>
-<tr><td>1.4.4</td><td>k<sub>f</sub></td><td colspan="2">=</td><td>tasso di costo del capitale di terzi = ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/it/xml/image/image2.png)</td></tr>
+<tr><td>1.4.4</td><td>k<sub>f</sub></td><td colspan="2">=</td><td>tasso di costo del capitale di terzi = ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/it/xml/image/image2.png)</td></tr>
 <tr><td></td><td>ove:</td><td colspan="2"></td><td></td></tr>
 <tr><td></td><td>P</td><td colspan="2">=</td><td>premio di rischio del capitale di terzi: si misura rispetto alla media, rilevata su dieci anni, della differenza mensile («spread») tra il rendimento di prestiti in una classe di rating corrispondente all’aeroporto interessato e di obbligazioni della Confederazione con la stessa scadenza. La determinazione della classe di rating avviene sulla base di un raffronto delle classi di rating degli aeroporti comparativi considerati per calcolare il β. Se è possibile comprovare che i costi annui effettivi del capitale di terzi durante il periodo tariffale saranno significativamente maggiori di quelli stimati su base di mercato secondo la formula, k<sub>f</sub> può essere calcolato sulla base dei costi effettivi del capitale di terzi.</td></tr>
 <tr><td>1.4.5</td><td>s</td><td colspan="2">=</td><td>aliquota d’imposta: è rilevata quale media su cinque anni (media aritmetica) del quoziente tra il carico fiscale annuo e l’utile annuo prima dell’imposta.</td></tr>
@@ -808,6 +875,6 @@ Allegato 2
 - 2\.3 trasporto dei passeggeri lato volo / servizi di carrelli per bagagli;
 - 2\.4 servizi d’emergenza (sicurezza).
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
-[^t-2]: Abrogato dal n. III dell’O del 14 giu. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^t-2]: Abrogato dalla cifra III dell’O del 14 giu. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).

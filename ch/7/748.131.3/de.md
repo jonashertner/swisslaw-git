@@ -3,18 +3,18 @@ sr: "748.131.3"
 title: Verordnung vom 25. April 2012 über die Flughafengebühren
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/328"
 language: de
-version: 2019-08-01
+version: 2025-01-01
 adopted: 2012-04-25
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/de/xml/fedlex-data-admin-ch-eli-cc-2012-328-20190801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20190801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-328-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Flughafengebühren
 
-vom 25. April 2012 (Stand am 1. August 2019)
+vom 25. April 2012 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -75,7 +75,10 @@ In dieser Verordnung bedeuten:
 - d. *zentrale Infrastruktur:* Einrichtungen und Dienste, die aufgrund ihrer Komplexität oder aus Kosten- oder Umweltschutzgründen nicht geteilt oder in mehrfacher Ausführung bereitgestellt werden können;
 - e. *Luftseite:* derjenige Teil des Flughafens, der für die Öffentlichkeit nur mit spezieller Ermächtigung zugänglich ist;
 - f. *Landseite:* derjenige Teil des Flughafens, der für die Öffentlichkeit ohne spezielle Ermächtigung zugänglich ist;
-- g. *ökonomischer Mehrwert:* Gewinn, der erwirtschaftet wird nach Abzug einer angemessenen Kapitalverzinsung (Art. 17) vom Betriebsergebnis vor Zinsen und nach Abzug der Steuern oder steuerähnlicher Abgaben.
+- g. *ökonomischer Mehrwert:* Gewinn, der erwirtschaftet wird nach Abzug einer angemessenen Kapitalverzinsung (Art. 17) vom Betriebsergebnis vor Zinsen und nach Abzug der Steuern oder steuerähnlicher Abgaben;
+- h.[^2-1] *Über- oder Unterdeckung:* für eine Gebührenperiode berechnete und realisierte Differenz zwischen dem Gesamtertrag im flugbetriebsrelevanten Bereich, inklusive Transferzahlung gemäss Artikel 34, und den Gesamtkosten im flugbetriebsrelevanten Bereich, inklusive angemessene Kapitalverzinsung gemäss Artikel 17.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 3
 
@@ -87,11 +90,12 @@ In dieser Verordnung bedeuten:
 
 #### Art. 4
 
-**Veröffentlichung der Flughafengebühren**
+**Veröffentlichung der Flughafengebühren**[^4-1]
 
-Der Flughafenhalter veröffentlicht die Flughafengebühren im Luftfahrthandbuch (Aeronautical Information Publication, AIP) der Schweiz.[^4-1]
+Der Flughafenhalter veröffentlicht die Flughafengebühren im Luftfahrthandbuch (Aeronautical Information Publication, AIP)[^4-2] der Schweiz.
 
-[^4-1]: Das AIP kann gegen Entgelt bezogen werden bei: Skyguide, Postfach 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Es kann gratis eingesehen werden beim Bundesamt für Zivilluftfahrt (BAZL), Mühlestrasse 2, 3063 Ittigen.
+[^4-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^4-2]: Das AIP kann gegen Entgelt bezogen werden bei Skyguide, Postfach 23, 8602 Wangen bei Dübendorf; [www.skyguide.ch](http://www.skyguide.ch). Es kann gratis eingesehen werden beim Bundesamt für Zivilluftfahrt (BAZL), Papiermühlestrasse 172, 3063 Ittigen.
 
 #### Art. 5
 
@@ -157,16 +161,36 @@ Der Flughafenhalter muss dem BAZL auf Anfrage Einblick in das betriebliche Rechn
 
 #### Art. 11
 
-**Anpassung vor dem vorgesehenen Termin**
+**Anpassung vor dem vorgesehenen Termin am Flughafen Genf[^11-1]**
 
 <sup>1</sup>
 
-Der Flughafenhalter kann ein Änderungsverfahren für die Flugbetriebsgebühren vor dem festgelegten Termin nur beginnen:
+Der Halter des Flughafens Genf kann ein Änderungsverfahren für die Flugbetriebsgebühren vor dem festgelegten Termin nur beginnen:
 
 - a. bei aussergewöhnlichen Umständen, die Auswirkungen auf die Kosten des Flughafenbetriebs haben;
-- b. bei Anpassungen des regulatorischen Umfeldes des Flughafens, die nicht voraussehbar waren und erhebliche Auswirkungen auf die Kosten haben.
+- b. bei Anpassungen des regulatorischen Umfeldes des Flughafens, die nicht voraussehbar waren und erhebliche Auswirkungen auf die Kosten haben.[^11-2]
 
 <sup>2</sup> Das BAZL kann die Durchführung eines Änderungsverfahrens oder direkt die Änderung der Gebühren jederzeit anordnen, wenn diese den Vorgaben der Gesetzgebung nicht entsprechen.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
+#### Art. 11a
+
+**Anpassung vor dem vorgesehenen Termin am Flughafen Zürich**[^11a-1]
+
+<sup>1</sup>
+
+Der Halter des Flughafens Zürich und Flughafennutzer, die im Zeitpunkt ihres Ersuchens zusammen einen Flugbetriebsgebührenanteil von mindestens zwanzig Prozent repräsentieren, können beim BAZL die vorzeitige Initiierung eines Änderungsverfahrens beantragen bei aussergewöhnlichen Umständen, die erhebliche Auswirkungen haben auf:
+
+- a. die der Gebührenberechnung zugrunde gelegten Prognosen; und
+- b. die am Ende der Gebührenperiode zu erwartende Über- oder Unterdeckung bei den Flughafengebühren.
+
+<sup>2</sup> Das BAZL entscheidet über den Antrag innerhalb von 60 Tagen nach dessen Eingang.
+
+<sup>3</sup> Wird das Gesuch bewilligt, so hat das BAZL überdies die Möglichkeit, das Vorverfahren gemäss Artikel 23 zu verkürzen. Es befindet darüber in seinem Entscheid.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 12
 
@@ -223,9 +247,13 @@ Die angemessene Verzinsung des auf dem Flughafen investierten Kapitals berechnet
 
 #### Art. 18
 
-[^18-1]
+**Umgang mit einer Über- oder Unterdeckung bei den Flughafengebühren am Flughafen Zürich**[^18-1]
 
-[^18-1]: Aufgehoben durch Ziff. I der V vom 14. Juni 2019, mit Wirkung seit 1. Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+<sup>1</sup> Wird in einer Gebührenperiode am Flughafen Zürich eine Über- oder Unterdeckung realisiert, so wird diese bei der Gebührenfestlegung für die anschliessende Gebührenperiode berücksichtigt; Absatz 2 bleibt vorbehalten.
+
+<sup>2</sup> Liegen wichtige Gründe vor, so kann im Rahmen einer einvernehmlichen Gebührenfestlegung gemäss dem 3. Abschnitt dieses Kapitels vereinbart werden, dass eine Unter- oder Überdeckung in der laufenden Gebührenperiode bei der Gebührenfestlegung für die anschliessende Gebührenperiode vorläufig nicht oder nur teilweise berücksichtigt, sondern zu einem späteren Zeitpunkt ausgeglichen wird.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 19
 
@@ -300,10 +328,11 @@ Für die Festlegung der Flugbetriebsgebühren auf den Flughäfen Genf und Züric
 
 <sup>1</sup> Der Flughafenhalter gibt den in Artikel 22 Absatz 1 vorgesehenen Verhandlungsteilnehmern und dem BAZL den Verhandlungsbeginn sechs Monate im Voraus bekannt.
 
-<sup>2</sup> Der Flughafenhalter informiert 30 Tage vor dem Verhandlungsbeginn im Informationszirkular für die Luftfahrt (Aeronautical Information Circular, AIC)[^20a-2] über die Verhandlungen.
+<sup>2</sup> Der Flughafenhalter informiert 30 Tage vor dem Verhandlungsbeginn im Informationszirkular für die Luftfahrt (Aeronautical Information Circular, AIC)[^20a-2] über die Verhandlungen.[^20a-3]
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^20a-2]: Das AIC kann gegen Entgelt bezogen werden bei: Skyguide, Postfach 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Es kann gratis eingesehen werden beim Bundesamt für Zivilluftfahrt (BAZL), Mühlestrasse 2, 3063 Ittigen.
+[^20a-2]: Das AIC kann gegen Entgelt bezogen werden bei Skyguide, Postfach 23, 8602 Wangen bei Dübendorf; [www.skyguide.ch](http://www.skyguide.ch). Es kann gratis eingesehen werden beim Bundesamt für Zivilluftfahrt (BAZL), Papiermühlestrasse 172, 3063 Ittigen.
+[^20a-3]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 20b
 
@@ -395,9 +424,12 @@ Die von den Verhandlungsparteien abgeschlossenen Vereinbarungen enthalten Bestim
 
 - a. das Gebührensystem;
 - b. die Gebührenhöhe;
-- c. die Dauer der Gebührenperiode.
+- c. die Dauer der Gebührenperiode;
+- d.[^25-1] die Umsetzung von Artikel 18 Absatz 2 am Flughafen Zürich.
 
 <sup>3</sup> Werden bis vier Monate nach dem Verhandlungsbeginn keine Vereinbarungen abgeschlossen, so sind die Verhandlungen gescheitert. Das BAZL kann diese Frist auf gemeinsamen Antrag aller Verhandlungsparteien einmalig um zwei Monate verlängern.
+
+[^25-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 26
 
@@ -454,7 +486,7 @@ Der Flughafenhalter erlässt das Gebührenreglement gemäss den Vereinbarungen. 
 
 **Berechnungsregeln**
 
-<sup>1</sup> Die Berechnung der Gebühren erfolgt getrennt für die Segmente Flugverkehr, Luftsicherheit und PBEM.
+<sup>1</sup> Die Berechnung der Flugbetriebsgebühren erfolgt getrennt für die Segmente Flugverkehr, Luftsicherheit und PBEM.[^29-1]
 
 <sup>2</sup>
 
@@ -470,8 +502,19 @@ Grundlage für die Berechnung der Flugbetriebsgebühren bilden die folgenden Kos
 Von den Kosten in Abzug gebracht werden die folgenden Erträge:
 
 - a. Erträge, die im jeweiligen Segment aus anderen Quellen als den Flugbetriebsgebühren generiert werden;
-- b. im Segment Flugverkehr: Transferzahlungen aus dem nicht flugbetriebsrelevanten Teil gemäss Artikel 34;
+- b.[^29-2] im Segment Flugverkehr: Transferzahlungen aus dem nicht flugbetriebsrelevanten Teil gemäss Artikel 34; diese sind einzusetzen nach Steuern und steuerähnlichen Abgaben;
 - c. Subventionen.
+
+<sup>4</sup>
+
+Am Flughafen Zürich wird für die Berechnung der Flugbetriebsgebühren berücksichtigt:
+
+- a. eine realisierte Über- oder Unterdeckung in der laufenden Gebührenperiode bei der Gebührenfestlegung für die anschliessende Gebührenperiode (Art. 18 Abs. 1);
+- b. Vereinbarungen gemäss Artikel 18 Absatz 2 aus früheren Verfahren.[^29-3]
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-3]: Eingefügt durch Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 30
 
@@ -586,15 +629,16 @@ Den betroffenen Flughafennutzern sind folgende Angaben zur geplanten Gebührenä
 
 **Veröffentlichung und Überprüfung**
 
-<sup>1</sup> Der Flughafenhalter veröffentlicht die Gebührenänderungen spätestens 30 Tage vor dem Inkrafttreten im Informationszirkular für die Luftfahrt (Aeronautical Information Circular, AIC)[^42-1].
+<sup>1</sup> Der Flughafenhalter veröffentlicht die Gebührenänderungen spätestens 30 Tage vor dem Inkrafttreten im AIC[^42-1].[^42-2]
 
-<sup>2</sup> Jeder betroffene Flughafennutzer kann beim BAZL innerhalb von 30 Tagen nach Veröffentlichung im AIC[^42-2] die Überprüfung der Gebühren beantragen. Der Antrag ist zu begründen.[^42-3]
+<sup>2</sup> Jeder betroffene Flughafennutzer kann beim BAZL innerhalb von 30 Tagen nach Veröffentlichung im AIC[^42-3] die Überprüfung der Gebühren beantragen. Der Antrag ist zu begründen.[^42-4]
 
 <sup>3</sup> Das BAZL entscheidet über die Genehmigung des Gebührenvorschlags innerhalb von 60 Tagen nach Eingang des Antrags.
 
-[^42-1]: Das AIC kann gegen Entgelt bezogen werden bei: Skyguide, Postfach 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Es kann gratis eingesehen werden beim Bundesamt für Zivilluftfahrt (BAZL), Mühlestrasse 2, 3063 Ittigen.
-[^42-2]: Siehe Fussnote zu Art. 20*a* Abs. 2.
-[^42-3]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^42-1]: Siehe Fussnote zu Art. 20*a* Abs. 2.
+[^42-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^42-3]: Siehe Fussnote zu Art. 20*a* Abs. 2.
+[^42-4]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ## 4. Kapitel: Gemeinsame Bestimmungen für alle Flughäfen
 
@@ -697,6 +741,15 @@ Zu berücksichtigen sind mindestens die folgenden Emissionen:
 
 Für Starts und Landungen während der morgendlichen und der abendlichen Randstunden können höhere Flugbetriebsgebühren festgelegt werden.
 
+#### Art. 49a
+
+**Sachplan Verkehr, Teil Infrastruktur Luftfahrt**[^49a-1]
+
+Bei der Festlegung der Flugbetriebsgebühren mit Lenkungswirkung im Bereich des Umweltschutzes sind die relevanten Bestimmungen des Sachplans Verkehr, Teil Infrastruktur Luftfahrt (SIL)[^49a-2] zu berücksichtigen.
+
+[^49a-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^49a-2]: Der SIL kann unter: [www.bazl.admin.ch](http://www.bazl.admin.ch) eingesehen werden.
+
 ## 5. Kapitel: Schlussbestimmungen
 
 #### Art. 50
@@ -744,13 +797,27 @@ Weist der Flughafenhalter nach, dass seine jährliche Durchschnittsrendite für 
 
 [^51a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
+#### Art. 51b
+
+**Übergangsbestimmungen zur Änderung vom 13. November 2024**[^51b-1]
+
+<sup>1</sup> Die Flugbetriebsgebühren für die Flughäfen Genf und Zürich müssen mit Abschluss des ersten Verfahrens zur Gebührenanpassung nach Inkrafttreten dieser Verordnung angepasst sein. Verfahren, die zum Zeitpunkt des Inkrafttretens bereits laufen, werden gemäss der zu Beginn des Verfahrens geltenden Verordnung beendet. Als Beginn des Verfahrens gilt der gemäss Artikel 10 Absatz 1 vorgesehene Zeitpunkt der Eröffnung des Verfahrens durch den Flughafenhalter.
+
+<sup>2</sup> Die Flugbetriebsgebühren für die übrigen Flughäfen müssen mit der ersten Gebührenanpassung nach dem Inkrafttreten dieser Verordnung angepasst sein.
+
+<sup>3</sup> Die Zugangs- und die Nutzungsentgelte müssen mit der ersten Anpassung nach Inkrafttreten dieser Verordnung angepasst sein.
+
+<sup>4</sup> Die vor dem Inkrafttreten dieser Verordnung anwendbaren Gebühren bleiben gültig bis zum Inkrafttreten der neuen Gebühren.
+
+[^51b-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
 #### Art. 52
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Juni 2012 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 17)
 
@@ -765,7 +832,7 @@ Anhang 1*[^t-1]*
 - 1\.2 Der Zinssatz berechnet sich gemäss dem Modell der gewichteten Kapitalkosten (Weighted Average Cost of Capital, WACC). Der WACC wird auf Stufe des Betriebsergebnisses nach kalkulatorischen Steuern oder steuerähnlichen Abgaben, jedoch vor Zinsen eingesetzt (WACC<sub>s</sub>).
 - 1\.3 Der WACC<sub>s</sub> bemisst sich nach der folgenden Formel:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/de/xml/image/image1.png)</sub>
 
 - 1\.4 Die Bedeutung der einzelnen Parameter der Formel nach Ziffer 1.3 ist die Folgende:
 
@@ -777,7 +844,7 @@ Anhang 1*[^t-1]*
 <tr><td></td><td>r<sub>f</sub></td><td>=</td><td>Rendite für sichere Anlagen: Diese bemisst sich nach dem Durchschnitt (arithmetisches Mittel) der monatlichen Renditen der 10-jährigen schweizerischen Bundesobligationen in den vergangenen 10 Jahren.</td></tr>
 <tr><td></td><td>β</td><td>=</td><td>systematisches, nicht diversifizierbares Aktienrisiko: Das β des Flughafens wird auf der Grundlage des Durchschnitts des Unlevered β (es wird eine Eigenkapitalquote von 100 % unterstellt) des betreffenden Flughafens und von mindestens 10 vergleichbaren Flughäfen errechnet. Die Auswahl der Flughäfen ist im Zeitverlauf stabil zu halten. Bei der Berechnung des Unlevered β pro Flughafen wird das β als lineare Regression über die vergangenen 5 Jahre des monatlichen Renditeverlaufs der Aktie des betreffenden Flughafens gegenüber dem Renditeverlauf des breitest abgestützten landesspezifischen Aktienmarktindexes errechnet.</td></tr>
 <tr><td></td><td>(r<sub>M</sub> – r<sub>f</sub>\*)</td><td>=</td><td>Marktrisikoprämie: Sie wird als Differenz berechnet zwischen der aufgrund von Vergangenheitswerten gemittelten Aktienmarktrendite (r<sub>M</sub>) und der aufgrund von Vergangenheitswerten gemittelten Rendite für sichere Anlagen (r<sub>f</sub><sub>\*</sub>). Die gemittelte Aktienmarktrendite entspricht dem arithmetischen Mittel der am Schweizer Aktienmarkt seit 1926 erzielten Jahresrenditen. Die gemittelte Rendite für sichere Anlange entspricht dem arithmetischen Mittel der Jahresrenditen für Bundesobligationen seit 1926.</td></tr>
-<tr><td>1.4.4</td><td>k<sub>f</sub></td><td>=</td><td>Fremdkapitalkostensatz = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/de/xml/image/image2.png)</sub></td></tr>
+<tr><td>1.4.4</td><td>k<sub>f</sub></td><td>=</td><td>Fremdkapitalkostensatz = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/de/xml/image/image2.png)</sub></td></tr>
 <tr><td></td><td>wobei:</td><td></td><td></td></tr>
 <tr><td></td><td>P</td><td>=</td><td>Risikoprämie des Fremdkapitals: Diese bemisst sich nach dem Durchschnitt der über 10 Jahre ermittelten monatlichen Differenz (Spread) zwischen der Rendite von Anleihen in einer dem Flughafen entsprechenden Bonitätsklasse (Rating) und von Bundesobligationen mit gleicher Laufzeit. Die Ermittlung der anzuwendenden Bonitätsklasse erfolgt aufgrund eines Vergleichs der Bonitätsklassen der Vergleichsflughäfen, die für die Berechnung des β herangezogen wurden. Kann nachgewiesen werden, dass die effektiven jährlichen Fremdkapitalkosten während der Gebührenperiode signifikant höher sein werden als die gemäss Formel auf Marktbasis geschätzten Fremdkapitalkosten, so kann k<sub>f</sub> auf der Grundlage der effektiven Fremdkapitalkosten berechnet werden.</td></tr>
 <tr><td>1.4.5</td><td>s</td><td>=</td><td>Steuersatz: Dieser wird als 5-Jahres-Durchschnitt (arithmetisches Mittel) des Quotienten zwischen jährlichem Steueraufwand und jährlichem Gewinn vor Steuern ermittelt.</td></tr>
@@ -810,6 +877,6 @@ Anhang 2
 - 2\.3 Passagierbeförderung Airside/Trolleydienste;
 - 2\.4 Notfalldienste (Safety).
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. III der V vom 14. Juni 2019, mit Wirkung seit 1. Aug. 2019 ([AS 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).

@@ -3,18 +3,18 @@ sr: "748.131.3"
 title: Ordonnance du 25 avril 2012 sur les redevances aéroportuaires
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/328"
 language: fr
-version: 2019-08-01
+version: 2025-01-01
 adopted: 2012-04-25
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-328-20190801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20190801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-328-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/328/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les redevances aéroportuaires
 
-du 25 avril 2012 (Etat le 1<sup>er</sup> août 2019)
+du 25 avril 2012 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -75,7 +75,10 @@ Au sens de la présente ordonnance, on entend par:
 - d. *infrastructures centralisées:* les installations et services dont la complexité, le coût ou l’impact sur l’environnement ne permettent pas la division ou la duplication;
 - e. *côté piste:* la partie de l’aéroport accessible au public uniquement avec un laissez-passer;
 - f. *côté ville:* la partie de l’aéroport accessible au public sans laissez-passer;
-- g. *plus-value économique:* le bénéfice, déduction faite de la rémunération raisonnable du capital (art. 17) sur le résultat d’exploitation avant intérêts et après impôts ou prélèvements à caractère d’impôt.
+- g. *plus-value économique:* le bénéfice, déduction faite de la rémunération raisonnable du capital (art. 17) sur le résultat d’exploitation avant intérêts et après impôts ou prélèvements à caractère d’impôt;
+- h.[^2-1] *excédent ou déficit*: la différence calculée et réalisée, sur une période tarifaire, entre le produit total, y compris le transfert financier visé à l’art. 34, et les coûts totaux, y compris la rémunération ou le coût des capitaux conformément à l’art. 17 pour la zone aéronautique.
+
+[^2-1]: Introduite par le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 3
 
@@ -87,17 +90,18 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 4
 
-**Publication des tarifs des redevances**
+**Publication des tarifs des redevances**[^4-1]
 
-L’exploitant d’aéroport publie les tarifs des redevances aéroportuaires dans la Publication d’information aéronautique suisse[^4-1] (*Aeronautical Information Publication, AIP*).
+L’exploitant d’aéroport publie les tarifs des redevances aéroportuaires dans la Publication d’information aéronautique suisse (Aeronautical Information Publication, AIP)[^4-2].
 
-[^4-1]: L’AIP peut être obtenue contre paiement auprès de Skyguide, CP 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Elle peut également être consultée gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), Mühlestrasse 2, 3063 Ittigen.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^4-2]: L’AIP peut être obtenue contre paiement auprès de Skyguide, CP 23, 8602 Wangen bei Dübendorf; [www.skyguide.ch](http://www.skyguide.ch). Elle peut également être consultée gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), Papiermühlestrasse 172, 3063 Ittigen.
 
 #### Art. 5
 
 **Assujettissement aux redevances**
 
-<sup>1</sup> Pour les vols effectués en vertu d’une concession de route, les redevances aéroportuaires sont dues par le titulaire de la concession.[^5-1]
+<sup>1</sup> Pour les vols effectués en vertu d’une concession de route, les redevances aéronautiques sont dues par le titulaire de la concession.[^5-1]
 
 <sup>2</sup> Si les redevances ne peuvent être imputées au titulaire de la concession de route ou si le vol n’est pas effectué en vertu d’une concession de route, les redevances sont dues par l’exploitant de l’aéronef au départ ou à l’arrivée. S’il n’est pas non plus possible de les imputer à l’exploitant, elles sont dues par le propriétaire de l’aéronef au départ ou à l’arrivée.[^5-2]
 
@@ -107,7 +111,7 @@ L’exploitant d’aéroport publie les tarifs des redevances aéroportuaires da
 
 <sup>4</sup> Les redevances d’utilisation sont dues par toute personne morale ou physique qui utilise les infrastructures centralisées.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 [^5-3]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
@@ -157,16 +161,36 @@ Si l’OFAC le lui demande, l’exploitant d’aéroport doit lui permettre de c
 
 #### Art. 11
 
-**Adaptation des tarifs des redevances avant le délai prévu**
+**Adaptation des tarifs des redevances de l’aéroport de Genève avant le délai prévu[^11-1]**
 
 <sup>1</sup>
 
-L’exploitant d’aéroport peut engager une procédure visant à adapter les tarifs des redevances aéroportuaires avant le délai prévu uniquement dans les cas suivants:
+L’exploitant de l’aéroport de Genève peut engager une procédure visant à adapter les tarifs des redevances aéronautiques avant le délai prévu uniquement dans les cas suivants:
 
 - a. s’il se produit des circonstances extraordinaires ayant une répercussion sur les coûts d’exploitation de l’aéroport;
-- b. s’il se produit des modifications du cadre réglementaire applicable à l’aéroport ne pouvant être prévues et ayant une répercussion importante sur les coûts.
+- b. s’il se produit des modifications du cadre réglementaire applicable à l’aéroport ne pouvant être prévues et ayant une répercussion importante sur les coûts.[^11-2]
 
 <sup>2</sup> L’OFAC peut ordonner en tout temps l’ouverture d’une procédure d’adaptation tarifaire ou directement la modification tarifaire des redevances si elles ne sont pas conformes aux dispositions législatives.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
+#### Art. 11a
+
+**Adaptation des tarifs des redevances de l’aéroport de Zurich avant le délai prévu**[^11a-1]
+
+<sup>1</sup>
+
+L’exploitant d’aéroport de Zurich ainsi que les usagers de l’aéroport qui, au dépôt de la demande, représentent collectivement au moins 20 % des redevances aéronautiques peuvent demander à anticiper la procédure visant à adapter les tarifs des redevances en cas de circonstances extraordinaires ayant des répercussions importantes:
+
+- a. sur les prévisions servant au calcul des redevances, et
+- b. sur l’excédent ou le déficit au niveau des redevances aéroportuaires attendu au terme de la période tarifaire.
+
+<sup>2</sup> L’OFAC statue sur la proposition dans un délai de 60 jours à compter de sa réception.
+
+<sup>3</sup> Si la demande est acceptée, l’OFAC a de plus la possibilité d’abréger la procédure préliminaire visée à l’art. 23. Il statue à ce propos dans sa décision.
+
+[^11a-1]: Introduit par le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 12
 
@@ -178,24 +202,28 @@ L’exploitant d’aéroport peut engager une procédure visant à adapter les t
 
 #### Art. 13
 
-**Redevances modulées**
+**Redevances modulées**[^13-1]
 
-Les tarifs des redevances aéroportuaires peuvent varier en fonction de l’étendue et de la qualité des installations et services offerts par l’exploitant d’aéroport, à condition que les écarts de coûts soient importants. À cet effet:
+Les tarifs des redevances aéronautiques peuvent varier en fonction de l’étendue et de la qualité des installations et services offerts par l’exploitant d’aéroport, à condition que les écarts de coûts soient importants. À cet effet:
 
-- a. les critères selon l’art. 10 de la directive n<sup>o</sup> 2009/12/CE doivent être respectés;
+- a. les critères fixés à l’art. 10 de la directive n<sup>o</sup> 2009/12/CE doivent être respectés;
 - b. il ne doit pas y avoir de subventions croisées entre les installations et services respectifs.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 14
 
 **Préfinancement**
 
-<sup>1</sup> Les redevances aéroportuaires peuvent servir au préfinancement de dépenses prévues dans le domaine de l’environnement et, pour autant que les autorisations administratives nécessaires aient été délivrées, d’investissements dans les installations liées au secteur trafic aérien.
+<sup>1</sup> Les redevances aéronautiques peuvent servir au préfinancement de dépenses prévues dans le domaine de l’environnement et, pour autant que les autorisations administratives nécessaires aient été délivrées, d’investissements dans les installations liées au secteur trafic aérien.[^14-1]
 
 <sup>2</sup> Le préfinancement est limité dans le temps.
 
 <sup>3</sup> Les recettes des redevances affectées au préfinancement ainsi que les intérêts qu’elles génèrent sont crédités sur un compte séparé dans la comptabilité de l’exploitant d’aéroport. Ce compte ne peut être imputé que des dépenses liées au projet d’investissement concerné.
 
 <sup>4</sup> En annexe de ses comptes annuels, l’exploitant d’aéroport fournit des indications sur les recettes et les dépenses relatives aux comptes séparés.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 15
 
@@ -223,9 +251,13 @@ La rémunération raisonnable du capital investi dans l’aéroport se calcule c
 
 #### Art. 18
 
-[^18-1]
+**Conséquence d’un excédent ou d’un déficit au niveau des redevances aéroportuaires pour l’aéroport de Zurich**[^18-1]
 
-[^18-1]: Abrogé par le ch. I de l’O du 14 juin 2019, avec effet au 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+<sup>1</sup> Un excédent ou un déficit réalisé à l’aéroport de Zurich sur une période tarifaire est pris en considération, sous réserve de l’al. 2, dans la tarification des redevances de la période tarifaire suivante.
+
+<sup>2</sup> Lorsque des raisons importantes le justifient, il peut être convenu, dans le cadre de la tarification des redevances par accord amiable prévue à la section 3 du présent chapitre, que l’excédent ou le déficit de la période tarifaire en cours ne soit provisoirement pas pris en considération ou ne le soit qu’en partie pour l’établissement des tarifs des redevances de la période tarifaire qui suit et soit compensé ultérieurement.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 19
 
@@ -300,10 +332,11 @@ Pour la tarification des redevances aéronautiques sur les aéroports de Genève
 
 <sup>1</sup> L’exploitant d’aéroport communique aux parties aux négociations visées à l’art. 22, al. 1, et à l’OFAC la date prévue pour le début des négociations six mois à l’avance.
 
-<sup>2</sup> L’exploitant d’aéroport informe de la tenue de négociations 30 jours avant la date du début des négociations via la circulaire d’information aéronautique (Aeronautical Information Circular, AIC)[^20a-2].
+<sup>2</sup> L’exploitant d’aéroport informe de la tenue de négociations 30 jours avant la date du début des négociations via la circulaire d’information aéronautique (Aeronautical Information Circular, AIC)[^20a-2].[^20a-3]
 
 [^20a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
-[^20a-2]: L’AIC peut être obtenue contre paiement auprès de Skyguide, CP 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Elle peut également être consultée gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), Mühlestrasse 2, 3063 Ittigen.
+[^20a-2]: L’AIC peut être obtenue contre paiement auprès de Skyguide, CP 23, 8602 Wangen bei Dübendorf; [www.skyguide.ch](http://www.skyguide.ch). Elle peut également être consultée gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), Papiermühlestrasse 172, 3063 Ittigen.
+[^20a-3]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 20b
 
@@ -395,9 +428,12 @@ Ces accords régissent:
 
 - a. le système des redevances;
 - b. leurs tarifs;
-- c. la durée de la période tarifaire.
+- c. la durée de la période tarifaire;
+- d.[^25-1] la mise en œuvre de l’art. 18, al. 2, à l’aéroport de Zurich.
 
 <sup>3</sup> L’absence d’accords après quatre mois à compter du début convenu des négociations signe l’échec des négociations. Sur demande conjointe de toutes les parties aux négociations, l’OFAC peut leur accorder une prolongation unique de deux mois de ce délai.
+
+[^25-1]: Introduite par le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 26
 
@@ -409,7 +445,7 @@ Ces accords régissent:
 
 Dans un délai de trois semaines à compter de la diffusion de l’information, des demandes de modification des résultats des négociations peuvent être adressées à l’exploitant d’aéroport par:
 
-- a. les usagers d’aéroport qui se sont manifestées conformément à l’art. 20*b*;
+- a.[^26-2] les usagers d’aéroport qui se sont manifestés conformément à l’art. 20*b*;
 - b. les usagers d’aéroport concernés et leurs associations, qui ont été indirectement admis aux négociations au travers d’une association, mais qui ont rejeté le résultat des négociations.
 
 <sup>3</sup> Les parties aux négociations examinent s’il y a lieu d’adapter les accords en fonction des modifications demandées.
@@ -419,6 +455,7 @@ Dans un délai de trois semaines à compter de la diffusion de l’information, 
 <sup>5</sup> Lorsqu’une demande de réexamen conformément à l’al. 4 a été déposée à l’OFAC, ce dernier approuve les accords si les critères énoncés à la section 1 du présent chapitre et à l’art. 21 sont remplis. Il communique sa décision provisoire dans un délai de 30 jours. Il statue dans un délai de 60 jours à compter de la réception de la demande.
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 27
 
@@ -454,7 +491,7 @@ L’exploitant d’aéroport établit le règlement sur les redevances conformé
 
 **Règles de calcul**
 
-<sup>1</sup> Les tarifs des redevances sont calculés séparément pour les secteurs trafic aérien, sûreté de l’aviation et PHMR.
+<sup>1</sup> Les tarifs des redevances aéronautiques sont calculés séparément pour les secteurs trafic aérien, sûreté de l’aviation et PHMR.[^29-1]
 
 <sup>2</sup>
 
@@ -470,8 +507,19 @@ Le calcul des redevances aéronautiques se base sur les coûts suivants:
 Les recettes suivantes sont déduites des coûts ci-dessus:
 
 - a. recettes autres que les recettes aéronautiques générées par le secteur considéré;
-- b. en ce qui concerne le secteur trafic aérien: les transferts provenant des activités extra-aéronautiques, conformément à l’art. 34;
+- b.[^29-2] en ce qui concerne le secteur trafic aérien, les transferts provenant des activités extra-aéronautiques, conformément à l’art. 34, après impôts et prélèvements à caractère d’impôt;
 - c. subventions.
+
+<sup>4</sup>
+
+Pour l’aéroport de Zurich, le calcul des tarifs des redevances aéronautiques prend en considération:
+
+- a. l’excédent ou le déficit réalisé durant la période tarifaire en cours dans la tarification des redevances aéroportuaires de la période tarifaire suivante (art. 18, al. 1);
+- b. les accords conclus au titre de l’art. 18, al. 2, hérités de procédures antérieures.[^29-3]
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^29-3]: Introduit par le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 30
 
@@ -551,9 +599,11 @@ Relèvent du secteur PHMR l’ensemble des installations et services qu’il inc
 
 **Assiette de calcul**
 
-<sup>1</sup> Les tarifs des redevances des aéroports autres que Genève et Zurich doivent être fixés de manière à ne pas excéder au total les coûts des installations et services des activités aéronautiques et extra-aéronautiques de l’aéroport, déduction faite de toutes les recettes autres que celles provenant des redevances aéroportuaires.
+<sup>1</sup> Les tarifs des redevances des aéroports autres que Genève et Zurich doivent être fixés de manière à ne pas excéder au total les coûts des installations et services des activités aéronautiques et extra-aéronautiques de l’aéroport, déduction faite de toutes les recettes autres que celles provenant des redevances aéronautiques.[^39-1]
 
 <sup>2</sup> Pour calculer les tarifs des redevances, l’exploitant d’aéroport peut subdiviser en segments distincts les services et installations des secteurs sûreté de l’aviation et PHRM. Pour ces segments, les redevances peuvent couvrir l’entier des coûts.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 40
 
@@ -578,23 +628,26 @@ Il y a lieu de fournir aux usagers d’aéroport les données suivantes relative
 
 <sup>3</sup> L’exploitant d’aéroport consulte, dans la cadre d’une procédure orale ou écrite, les usagers d’aéroport ou associations concernés sur les tarifs de redevances envisagés
 
-<sup>4</sup> Dans le cas de la procédure écrite, les délais impartis pour prendre position est de un mois au moins à compter de la date de communication.
+<sup>4</sup> Dans le cas de la procédure écrite, le délai imparti pour prendre position est d’un mois au moins à compter de la date de communication.[^41-1]
 
 <sup>5</sup> Dans le cas de la procédure orale, la documentation relative à l’audition est remise aux participants à la procédure deux semaines au plus tard avant l’audition. Le résultat de la procédure orale est communiqué aux participants à la procédure sous la forme d’un procès-verbal.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 42
 
 **Publication et réexamen**
 
-<sup>1</sup> L’exploitant d’aéroport publie les nouveaux tarifs des redevances dans la Circulaire d’information aéronautique (*Aeronautical Information Circular, AIC*)[^42-1] 30 jours au plus tard avant leur entrée en vigueur.
+<sup>1</sup> L’exploitant d’aéroport publie les modifications des tarifs des redevances dans l’AIC[^42-1] 30 jours au plus tard avant leur entrée en vigueur.[^42-2]
 
-<sup>2</sup> Tout usager d’aéroport concerné peut demander à l’OFAC de réexaminer les tarifs des redevances dans un délai de 30 jours à compter de leur publication dans l’AIC[^42-2]. La demande doit être motivée.[^42-3]
+<sup>2</sup> Tout usager d’aéroport concerné peut demander à l’OFAC de réexaminer les tarifs des redevances dans un délai de 30 jours à compter de leur publication dans l’AIC[^42-3]. La demande doit être motivée.[^42-4]
 
 <sup>3</sup> L’OFAC statue dans un délai de 60 jours à compter de la réception de la proposition.
 
-[^42-1]: L’AIC peut être obtenue contre paiement auprès de Skyguide, CP 23, 8602 Wangen bei Dübendorf; www.skyguide.ch. Elle peut également consultée gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), Mühlestrasse 2, 3063 Ittigen.
-[^42-2]: Cf. note de l’art. 20*a,* al. 2.
-[^42-3]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
+[^42-1]: Cf. note de l’art. 20*a*, al. 2.
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^42-3]: Cf. note de l’art. 20*a,* al. 2.
+[^42-4]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
 ## Chapitre 4 Dispositions communes à tous les aéroports
 
@@ -627,7 +680,9 @@ Des redevances d’accès peuvent être perçues en particulier pour:[^43-1]
 
 <sup>3</sup> Les dispositions relatives aux redevances d’utilisation ne s’appliquent pas lorsque l’exploitant d’aéroport sous-traite la fourniture et l’exploitation d’infrastructures centralisées.
 
-<sup>4</sup> Les prestations supplémentaires particulières destinées à certains usagers ne peuvent pas être financés à travers les redevances d’utilisation.
+<sup>4</sup> Les prestations supplémentaires particulières destinées à certains usagers ne peuvent pas être financées à travers les redevances d’utilisation.[^44-1]
+
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 45
 
@@ -670,7 +725,7 @@ Le calcul des redevances d’accès et des redevances d’utilisation est basé 
 
 **Prise en compte des émissions de bruit et de substances polluantes**
 
-<sup>1</sup> Les tarifs des redevances aéroportuaires sont établis de manière à favoriser les aéronefs qui ont un impact limité sur l’environnement.
+<sup>1</sup> Les tarifs des redevances aéronautiques sont établis de manière à favoriser les aéronefs qui ont un impact limité sur l’environnement.[^47-1]
 
 <sup>2</sup> Les méthodes d’évaluation de cet impact doivent correspondre à l’état de la technique. L’OFAC peut recommander des méthodes d’évaluation appropriées.
 
@@ -680,6 +735,8 @@ Il sera pris en compte au minimum les émissions suivantes:
 
 - a. les émissions de bruit des aéronefs au décollage le long de la trajectoire de vol;
 - b. les émissions d’oxyde d’azote et d’hydrocarbures (Hydrocarbon, HC) des aéronefs durant le cycle de décollage et d’atterrissage.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
 
 #### Art. 48
 
@@ -693,9 +750,20 @@ Il sera pris en compte au minimum les émissions suivantes:
 
 #### Art. 49
 
-**Heures limites d’exploitation**
+**Heures limites d’exploitation**[^49-1]
 
-Les tarifs des redevances aéroportuaires peuvent être majorés pour les départs et les atterrissages qui ont lieu le matin en début d’exploitation et le soir en fin d’exploitation.
+Les tarifs des redevances aéronautiques peuvent être majorés pour les départs et les atterrissages qui ont lieu le matin en début d’exploitation et le soir en fin d’exploitation.
+
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
+#### Art. 49a
+
+**Plan sectoriel des transports, Partie Infrastructure aéronautique**[^49a-1]
+
+Les tarifs des redevances aéronautiques à caractère incitatif dans le domaine de la protection de l’environnement sont établis en prenant en considération les dispositions du plan sectoriel des transports, Partie Infrastructure aéronautique (PSIA)[^49a-2].
+
+[^49a-1]: Introduit par le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+[^49a-2]: Le PSIA peut être consulté à l’adresse suivante: [www.bazl.admin.ch](http://www.bazl.admin.ch).
 
 ## Chapitre 5 Dispositions finales
 
@@ -703,7 +771,7 @@ Les tarifs des redevances aéroportuaires peuvent être majorés pour les dépar
 
 **Modification du droit en vigueur**
 
-…*[^50-1]*
+…[^50-1]
 
 [^50-1]: La mod. peut être consultée au [RO 2012 2753](https://fedlex.data.admin.ch/eli/oc/2012/328).
 
@@ -744,13 +812,27 @@ Si l’exploitant d’aéroport établit que le rendement annuel moyen de l’en
 
 [^51a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
+#### Art. 51b
+
+**Dispositions transitoires concernant la modification du 13 novembre 2024**[^51b-1]
+
+<sup>1</sup> Les redevances aéronautiques des aéroports de Genève et de Zurich doivent être adaptées à la fin de la première procédure d’adaptation des redevances qui suit l’entrée en vigueur de la présente ordonnance. Les procédures en cours à l’entrée en vigueur de la présente ordonnance doivent être menées à leur terme conformément à l’ordonnance en vigueur au début de la procédure. La procédure est réputée débuter lorsque l’exploitant d’aéroport ouvre la procédure conformément à l’art. 10, al. 1.
+
+<sup>2</sup> Les redevances aéronautiques des autres aéroports doivent être adaptées lors de la première adaptation des redevances qui suit l’entrée en vigueur de la présente ordonnance.
+
+<sup>3</sup> Les redevances d’accès et les redevances d’utilisation doivent être mises en conformité avec la présente ordonnance dans le cadre de la première adaptation qui suit l’entrée en vigueur de la présente ordonnance.
+
+<sup>4</sup> Les redevances applicables avant l’entrée en vigueur de la présente ordonnance restent valables jusqu’à l’entrée en vigueur des nouvelles redevances.
+
+[^51b-1]: Introduit par le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 709](https://fedlex.data.admin.ch/eli/oc/2024/709)).
+
 #### Art. 52
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2012.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 17)
 
@@ -758,56 +840,36 @@ Annexe 1*[^t-1]*
 
 [^t-1]: Mise à jour selon le ch. II de l’O du 14 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
 
-- 1
+- 1 Pour déterminer le rendement annuel des actifs immobilisés nécessaires à l’exploitation, il y a lieu de prendre en considération les éléments suivants:
+- 1\.1 Les actifs immobilisés nécessaires à l’exploitation sont:
+- 1\.1.1 la valeur d’acquisition ou de production des installations existantes établie selon amortissements en fin d’année comptable, et
+- 1\.1.2 l’actif circulant net nécessaire à l’exploitation.
+- 1\.2 Le taux de rendement se calcule selon le modèle du coût moyen pondéré des capitaux (*Weighted Average Cost of Capital – WACC*). Le WACC est appliqué au niveau du résultat d’exploitation après impôts calculatoires ou prélèvements à caractère d’impôt, mais avant intérêts (WACC<sub>s</sub>).
+- 1\.3 Le WACC<sub>s</sub> est déterminé selon la formule suivante:
 
-  Pour déterminer le rendement annuel des actifs immobilisés nécessaires à l’exploitation, il y a lieu de prendre en considération les éléments suivants:
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/fr/xml/image/image1.png)
 
-  - 1\.1
+- 1\.4 La signification des différents paramètres de la formule visée au ch. 1.3 est la suivante:
 
-    Les actifs immobilisés nécessaires à l’exploitation sont:
-
-    - 1\.1.1 la valeur d’acquisition ou de production des installations existantes établie selon amortissements en fin d’année comptable, et
-    - 1\.1.2 l’actif circulant net nécessaire à l’exploitation.
-
-  - 1\.2 Le taux de rendement se calcule selon le modèle du coût moyen pondéré des capitaux (*Weighted Average Cost of Capital – WACC*). Le WACC est appliqué au niveau du résultat d’exploitation après impôts calculatoires ou prélèvements à caractère d’impôt, mais avant intérêts (WACC<sub>s</sub>).
-  - 1\.3 Le WACC<sub>s</sub> est déterminé selon la formule suivante:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/fr/xml/image/image1.png)
-
-- 1\.4
-
-  La signification des différents paramètres de la formule visée au ch. 1.3 est la suivante:
-
-  - 1\.4.1 EK = fonds propres
-  - 1\.4.2 FK = fonds étrangers
-  - 1\.4.3 k<sub>e</sub> = taux de rendement des fonds propres = r<sub>f</sub> + *β* ● (r<sub>M</sub> – r<sub>f</sub><sup>\*</sup>)
-  -
-
-    étant entendu que:
-
-    - r<sub>f</sub> = Rendement des placements sûrs: celui-ci se mesure d’après la moyenne (moyenne arithmétique) du rendement mensuel des obligations à 10 ans de la Confédération sur les dix dernières années.
-    - β = Risque systématique et non diversifiable sur les actions: le β de l’aéroport est calculé sur le base de la moyenne du Unlevered β (on suppose une part de capitaux propres de 100 %) de l’aéroport concerné et d’au moins 10 aéroports comparables. Le choix des aéroports doit rester constant. Pour la détermination de l’Unlevered β par aéroport, le β est calculé par régression linéaire, sur les cinq dernières années, de l’évolution du rendement mensuel de l’action de l’aéroport concerné par rapport à l’évolution du taux de rendement de l’index du marché des actions le plus reconnu du pays en question.
-    - (r<sub>M</sub> - r<sub>f</sub><sup>\*</sup>) = Prime de risque du marché: elle représente la différence entre le rendement moyen du marché des actions (r<sub>M</sub>) déterminé sur la base de valeurs passées et le rendement moyen des placements sûrs (r<sub>f</sub>\*) déterminé sur la base de valeurs passées. Le rendement moyen du marché des actions correspond à la moyenne arithmétique des rendements annuels réalisés sur le marché suisse des actions depuis 1926. Le rendement moyen des placements sûrs correspond à la moyenne arithmétique des rendements annuels des obligations de la Confédération depuis 1926.
-
-  - 1\.4.4 k<sub>f</sub> = taux de rendement des fonds étrangers = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20190801/fr/xml/image/image2.png)</sub>
-  -
-
-    étant entendu que:
-
-    - P = Prime de risque des capitaux étrangers: celle-ci est mesurée par rapport à la moyenne sur 10 ans de l’écart mensuel de rendement des emprunts dans une classe de notation (rating) correspondant à l’aéroport concerné et les obligations de la Confédération à échéance comparable. L’établissement de la classe de notation est effectué sur la base d’une comparaison des classes de notation des aéroports considérés pour le calcul du β.
-
-  - S’il est possible de prouver que les coûts effectifs des capitaux étrangers durant la période de redevances seront significativement plus élevés que ceux estimés sur la base du marché au moyen de la formule, k<sub>f</sub> peut être calculé sur la base des coûts effectifs des capitaux étrangers.
-  - 1\.4.5 s = Taux d’imposition: il représente la moyenne arithmétique sur cinq ans du quotient entre la charge d’impôts annuelle et le bénéfice avant impôts.
+<table>
+<tr><td>1.4.1</td><td>EK</td><td>=</td><td>fonds propres</td></tr>
+<tr><td>1.4.2</td><td>FK</td><td>=</td><td>fonds étrangers</td></tr>
+<tr><td>1.4.3</td><td>k<sub>e</sub></td><td>=</td><td>taux de rendement des fonds propres = r<sub>f</sub> + *β* ● (r<sub>M</sub> – r<sub>f</sub><sup>\*</sup>)</td></tr>
+<tr><td></td><td colspan="3">étant entendu que:</td></tr>
+<tr><td></td><td>r<sub>f</sub></td><td>=</td><td>Rendement des placements sûrs: celui-ci se mesure d’après la moyenne (moyenne arithmétique) du rendement mensuel des obligations à 10 ans de la Confédération sur les dix dernières années.</td></tr>
+<tr><td></td><td>β</td><td>=</td><td>Risque systématique et non diversifiable sur les actions: le β de l’aéroport est calculé sur le base de la moyenne du Unlevered β (on suppose une part de capitaux propres de 100 %) de l’aéroport concerné et d’au moins 10 aéroports comparables. Le choix des aéroports doit rester constant. Pour la détermination de l’Unlevered β par aéroport, le β est calculé par régression linéaire, sur les cinq dernières années, de l’évolution du rendement mensuel de l’action de l’aéroport concerné par rapport à l’évolution du taux de rendement de l’index du marché des actions le plus reconnu du pays en question.</td></tr>
+<tr><td></td><td>(r<sub>M</sub> – r<sub>f</sub>\*)</td><td>=</td><td>Prime de risque du marché: elle représente la différence entre le rendement moyen du marché des actions (r<sub>M</sub>) déterminé sur la base de valeurs passées et le rendement moyen des placements sûrs (r<sub>f</sub>\*) déterminé sur la base de valeurs passées. Le rendement moyen du marché des actions correspond à la moyenne arithmétique des rendements annuels réalisés sur le marché suisse des actions depuis 1926. Le rendement moyen des placements sûrs correspond à la moyenne arithmétique des rendements annuels des obligations de la Confédération depuis 1926.</td></tr>
+<tr><td>1.4.4</td><td>k<sub>f</sub></td><td>=</td><td>taux de rendement des fonds étrangers = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/328/20250101/fr/xml/image/image2.png)</sub></td></tr>
+<tr><td></td><td colspan="3">étant entendu que:</td></tr>
+<tr><td></td><td>P</td><td>=</td><td>Prime de risque des capitaux étrangers: celle-ci est mesurée par rapport à la moyenne sur 10 ans de l’écart mensuel de rendement des emprunts dans une classe de notation (rating) correspondant à l’aéroport concerné et les obligations de la Confédération à échéance comparable. L’établissement de la classe de notation est effectué sur la base d’une comparaison des classes de notation des aéroports considérés pour le calcul du β. S’il est possible de prouver que les coûts effectifs des capitaux étrangers durant la période de redevances seront significativement plus élevés que ceux estimés sur la base du marché au moyen de la formule, k<sub>f</sub> peut être calculé sur la base des coûts effectifs des capitaux étrangers.</td></tr>
+<tr><td>1.4.5</td><td>s</td><td>=</td><td>Taux d’imposition: il représente la moyenne arithmétique sur cinq ans du quotient entre la charge d’impôts annuelle et le bénéfice avant impôts.</td></tr>
+</table>
 
 - 1\.5 Structure du capital (rapport entre les fonds étrangers et le fonds propre): elle est déterminée sur la base de la moyenne sur 5 ans de la structure du capital au prix du marché des aéroports de comparaison précédemment pris en compte pour le calcul du β.
-
-- 2
-
-  Pour le calcul de la rémunération raisonnable du capital, les conditions particulières des activités extra-aéronautiques peuvent être prises en compte. À ce titre, l’exploitant d’aéroport peut modifier le calcul comme suit:
-
-  - 2\.1 Il peut intégrer dans le calcul les risques financiers et commerciaux particuliers associés aux activités extra-aéronautiques.
-  - 2\.2 Il peut intégrer un paramètre supplémentaire qui tienne compte du rendement sensiblement plus important attendu des entreprises faiblement capitalisées (appelé «Size Premium»), pour le calcul de la rémunération raisonnable du capital investi dans les activités extra-aéronautiques. Le calcul du Size Premium est basé sur les Bonnes pratiques («Best Practices») et sur les données de fournisseurs de services reconnus.
-  - 2\.3 Par dérogation au ch. 1.1.1, la rémunération raisonnable du capital investi dans les activités extra-aéronautiques peut être établie selon la valeur marchande des actifs immobilisés imputés de manière univoque à ces activités. À cet effet, la valeur comptable des actifs immobilisés sont multipliés par l’écart moyen sur les 5 dernières années de la relation entre la valeur comptable et la valeur marchande des fonds propres de l’aéroport concerné ou des aéroports de comparaison.
+- 2 Pour le calcul de la rémunération raisonnable du capital, les conditions particulières des activités extra-aéronautiques peuvent être prises en compte. À ce titre, l’exploitant d’aéroport peut modifier le calcul comme suit:
+- 2\.1 Il peut intégrer dans le calcul les risques financiers et commerciaux particuliers associés aux activités extra-aéronautiques.
+- 2\.2 Il peut intégrer un paramètre supplémentaire qui tienne compte du rendement sensiblement plus important attendu des entreprises faiblement capitalisées (appelé «Size Premium»), pour le calcul de la rémunération raisonnable du capital investi dans les activités extra-aéronautiques. Le calcul du Size Premium est basé sur les Bonnes pratiques («Best Practices») et sur les données de fournisseurs de services reconnus.
+- 2\.3 Par dérogation au ch. 1.1.1, la rémunération raisonnable du capital investi dans les activités extra-aéronautiques peut être établie selon la valeur marchande des actifs immobilisés imputés de manière univoque à ces activités. À cet effet, la valeur comptable des actifs immobilisés sont multipliés par l’écart moyen sur les 5 dernières années de la relation entre la valeur comptable et la valeur marchande des fonds propres de l’aéroport concerné ou des aéroports de comparaison.
 
 Annexe 2
 
@@ -815,28 +877,21 @@ Annexe 2
 
 ## Liste des installations et services relevant du secteur trafic aérien
 
-- 1
+- 1 Les installations du secteur trafic aérien, autres que les infrastructures centralisées décrites dans le règlement d’exploitation de l’aéroport et pour lesquelles une redevance d’utilisation est perçue, comprennent les infrastructures suivantes:
+- 1\.1 Terrain d’aviation, postes de stationnement et installations compris (pistes, voies de circulation, aire de trafic, postes de stationnement);
+- 1\.2 Une partie des surfaces de circulation des passagers;
+- 1\.3 Systèmes de transport des passagers côté piste, chariots à bagages;
+- 1\.4 Surfaces et installations pour l’enregistrement des passagers et des bagages;
+- 1\.5 Systèmes opérationnels d’entreposage du fret utilisés directement pour le transbordement de fret depuis ou vers l’aéronef et situés dans l’enceinte de l’aéroport;
+- 1\.6 Surfaces et installations douanières;
+- 1\.7 Infrastructures pour les urgences et la sécurité (sécurité de l’aviation);
+- 1\.8 Une partie des voies d’accès côté ville.
+- 2 Les services du secteur trafic aérien comprennent:
+- 2\.1 Surveillance et contrôle de l’aire de trafic;
+- 2\.2 Exploitation et entretien du terrain d’aviation, postes de stationnement et installations comprises (pistes, voies de circulation, aire de trafic, postes de stationnement);
+- 2\.3 Transport des passagers côté piste/services chariots à bagages;
+- 2\.4 Services d’urgence (sécurité).
 
-  Les installations du secteur trafic aérien, autres que les infrastructures centralisées décrites dans le règlement d’exploitation de l’aéroport et pour lesquelles une redevance d’utilisation est perçue, comprennent les infrastructures suivantes:
-
-  - 1\.1 Terrain d’aviation, postes de stationnement et installations compris (pistes, voies de circulation, aire de trafic, postes de stationnement);
-  - 1\.2 Une partie des surfaces de circulation des passagers;
-  - 1\.3 Systèmes de transport des passagers côté piste, chariots à bagages;
-  - 1\.4 Surfaces et installations pour l’enregistrement des passagers et des bagages;
-  - 1\.5 Systèmes opérationnels d’entreposage du fret utilisés directement pour le transbordement de fret depuis ou vers l’aéronef et situés dans l’enceinte de l’aéroport;
-  - 1\.6 Surfaces et installations douanières;
-  - 1\.7 Infrastructures pour les urgences et la sécurité (sécurité de l’aviation);
-  - 1\.8 Une partie des voies d’accès côté ville.
-
-- 2
-
-  Les services du secteur trafic aérien comprennent:
-
-  - 2\.1 Surveillance et contrôle de l’aire de trafic;
-  - 2\.2 Exploitation et entretien du terrain d’aviation, postes de stationnement et installations comprises (pistes, voies de circulation, aire de trafic, postes de stationnement);
-  - 2\.3 Transport des passagers côté piste/services chariots à bagages;
-  - 2\.4 Services d’urgence (sécurité).
-
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 [^t-2]: Abrogée par le ch. III de l’O du 14 juin 2019, avec effet au 1<sup>er</sup> août 2019 ([RO 2019 2067](https://fedlex.data.admin.ch/eli/oc/2019/380)).
