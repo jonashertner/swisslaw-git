@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 21. April 2016 über die Filmförderung (FiFV)
 short: FiFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/291"
 language: de
-version: 2021-01-29
+version: 2025-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210129/de/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210129-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-291-20250101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210129/de"
 
 (FiFV)
 
-vom 21. April 2016 (Stand am 29. Januar 2021)
+vom 21. April 2016 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -148,7 +148,7 @@ Dieser Bereich umfasst insbesondere folgende Förderungsinstrumente:
 - c. Herstellungsförderung;
 - d. Förderung der Postproduktion;
 - e.[^7-1] Verleih- und Vertriebsförderung;
-- f.[^7-2] ...
+- f.[^7-2] …
 
 <sup>3</sup> Die Ziele und die Indikatoren für die Evaluation der Förderungsinstrumente sind in den Anhängen 1 und 2 Ziffer 1 festgehalten.[^7-3]
 
@@ -238,7 +238,7 @@ Finanzhilfen der selektiven Filmförderung werden nach den in Anhang 2 Ziffer 2.
 
 Als zu einem wesentlichen Teil in der Schweiz hergestellt gelten Spielfilme, die:
 
-- a. als Schweizer Film hergestellt werden und mindestens 5 Drehtage in der Schweiz sowie anrechenbare Kosten von mindestens 2 000 000 Franken aufweisen;
+- a.[^14-2] …
 - b. unter der Verantwortung eines Schweizer Produktionsunternehmens international koproduziert werden und mindestens 5 Drehtage in der Schweiz sowie anrechenbare Kosten von mindestens 1 200 000 Franken aufweisen;
 - c. unter der Verantwortung eines ausländischen Produktionsunternehmens mit einem Schweizer Produktionsunternehmen koproduziert werden und mindestens 5 Drehtage in der Schweiz sowie anrechenbare Kosten von mindestens 300 000 Franken aufweisen.
 
@@ -246,20 +246,19 @@ Als zu einem wesentlichen Teil in der Schweiz hergestellt gelten Spielfilme, die
 
 Als zu einem wesentlichen Teil in der Schweiz hergestellt gelten Dokumentarfilme, die:
 
-- a. als Schweizer Film hergestellt werden und anrechenbare Kosten von mindestens 350 000 Franken aufweisen;
+- a.[^14-3] …
 - b. unter der Verantwortung eines Schweizer Produktionsunternehmens international koproduziert werden und anrechenbare Kosten von mindestens 250 000 Franken aufweisen;
 - c. unter der Verantwortung eines ausländischen Produktionsunternehmens mit einem Schweizer Produktionsunternehmen koproduziert werden und anrechenbare Kosten von mindestens 150 000 Franken aufweisen.
 
-<sup>4</sup>
+<sup>4</sup> Schweizer Filme sind nicht zur Standortförderung zugelassen.[^14-4]
 
-Schweizer Filme müssen zudem die folgenden Voraussetzungen erfüllen:
-
-- a. Bei Spielfilmen müssen mindestens 80 Prozent des Herstellungsbudgets in der Schweiz ausgegeben werden.
-- b. Bei Dokumentarfilmen müssen mindestens 60 Prozent des Herstellungsbudgets in der Schweiz ausgegeben werden.
-
-<sup>5</sup> Fernsehfilme sind nicht zur Standortförderung zugelassen.
+<sup>5</sup> Fernsehfilme und Serien sind nicht zur Standortförderung zugelassen.[^14-5]
 
 [^14-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^14-2]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-3]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-4]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-5]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
 ### 2*a*. Kapitel: Förderung der Vielfalt und der Qualität des Filmangebots
 
@@ -337,7 +336,7 @@ Von der Förderung nach Artikel 14*b* Absatz 1 Buchstabe c ausgeschlossen sind:
 
 **Förderungsinstrumente**
 
-<sup>1</sup> ...[^15-1]
+<sup>1</sup> …[^15-1]
 
 <sup>2</sup>
 
@@ -473,7 +472,7 @@ Folgende Förderungsinstrumente nach dieser Verordnung können im Rahmen der anw
 
 <sup>2</sup> Es publiziert jährlich die Höchstbeiträge, die in den einzelnen Förderungsbereichen und -instrumenten bewilligt werden können.
 
-<sup>3</sup> ...[^23-1]
+<sup>3</sup> …[^23-1]
 
 [^23-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
@@ -563,7 +562,7 @@ Bei der selektiven und erfolgsabhängigen Förderung des Schweizer Filmschaffens
 - d. für die Herstellung: die Vorkosten, die Honorare, Löhne und Auslagen, die für Vorbereitung und Durchführung der Dreharbeiten notwendig sind, die Kosten für den Rohschnitt sowie die künstlerische und technische Nachbearbeitung und Fertigstellung bis und mit der Kopie der Endfassung in den vorgesehenen Originalsprachen sowie der Kopie für die Hinterlegung bei der Stiftung «Cinémathèque Suisse»;
 - e. für die Postproduktion: die Kosten ab Rohschnitt, die für die technische Fertigstellung durch Dritte noch notwendig sind;
 - f.[^28-2] für den Verleih und den Vertrieb: die Auslagen für Promotions- und zielgruppenspezifische Vermittlungsmassnahmen, namentlich für Werbung, für sonstige Massnahmen im Hinblick auf die Auswertung wie Untertitelung und Audiodeskription oder für Rahmenanlässe wie begleitete Vorführungen;
-- g.[^28-3] ...
+- g.[^28-3] …
 
 [^28-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 [^28-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
@@ -1559,7 +1558,7 @@ Im Gesuch um eine Finanzhilfe der Standortförderung muss die die gesuchstellend
 
 Es werden bis zu 70 Prozent des zugesicherten Betrags bei Drehbeginn ausbezahlt, wenn der Nachweis erbracht ist, dass:[^101-1]
 
-- a. eine vorläufige Prüfung den Film als Schweizer Film qualifiziert oder eine vorläufige Anerkennung als schweizerisch-ausländische Koproduktion der zuständigen Behörden vorliegt;
+- a.[^101-2] eine vorläufige Anerkennung als schweizerisch-ausländische Koproduktion der zuständigen Behörden vorliegt;
 - b. die anrechenbaren Kosten zu mindestens 70 Prozent durch Verträge oder gleichwertige Dokumente belegt sind;
 - c. die Realisierung des Projekts finanziell vollständig gesichert ist, wobei der nicht garantierte Anteil der Finanzhilfe vorläufig durch zurückgestellte Eigenleistungen der Produktion zu substituieren ist.
 
@@ -1568,6 +1567,7 @@ Es werden bis zu 70 Prozent des zugesicherten Betrags bei Drehbeginn ausbezahlt,
 <sup>3</sup> Die Auszahlung der Standortförderung erfolgt unter dem Vorbehalt, dass anrechenbare Kosten im geltend gemachten Umfang beglichen und nachgewiesen werden.
 
 [^101-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^101-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
 #### Art. 102
 
@@ -1577,7 +1577,7 @@ Es werden bis zu 70 Prozent des zugesicherten Betrags bei Drehbeginn ausbezahlt,
 
 <sup>2</sup> Der Anteil der anrechenbaren Kosten, für die der höhere Beitragssatz nach Artikel 26 Absatz 2 gilt, ist gesondert auszuweisen.
 
-<sup>3</sup> ...[^102-1]
+<sup>3</sup> …[^102-1]
 
 [^102-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
@@ -1629,7 +1629,7 @@ Die nicht garantierte letzte Rate der Standortförderung wird im Rahmen der verf
 
 <sup>1</sup> Vorführunternehmen, die eine Kino-Vielfaltsprämie nach Artikel 14*a* Absatz 1 Buchstaben c und d beantragen, müssen sich nach Ablauf des Kalenderjahres, für das die Förderung beantragt wird, beim BAK anmelden. Das BAK publiziert die Anmeldefrist auf seiner Homepage.
 
-<sup>3</sup> Die Berechnung der Vielfaltsprämien erfolgt nach Ablauf des Kalenderjahres. Das BAK kann zusätzliche Angaben einholen.
+<sup>2</sup> Die Berechnung der Vielfaltsprämien erfolgt nach Ablauf des Kalenderjahres. Das BAK kann zusätzliche Angaben einholen.
 
 ## 5. Titel: Ursprungszeugnisse und Anerkennungen
 
@@ -1750,7 +1750,7 @@ Das BAK vollzieht diese Verordnung.
 
 Die Verordnung des EDI vom 20. Dezember 2002[^116-1] über die Filmförderung wird aufgehoben.
 
-[^116-1]: [[AS 2003 305](https://fedlex.data.admin.ch/eli/oc/2003/59), [2006 2643](https://fedlex.data.admin.ch/eli/oc/2006/405), [2008 5071](https://fedlex.data.admin.ch/eli/oc/2008/702), [2011 6431](https://fedlex.data.admin.ch/eli/oc/2011/896), [2013 3543](https://fedlex.data.admin.ch/eli/oc/2013/664)[4357](https://fedlex.data.admin.ch/eli/oc/2013/775), [2015 2939](https://fedlex.data.admin.ch/eli/oc/2015/553)]
+[^116-1]: [[AS 2003 305](https://fedlex.data.admin.ch/eli/oc/2003/59); [2006 2643](https://fedlex.data.admin.ch/eli/oc/2006/405); [2008 5071](https://fedlex.data.admin.ch/eli/oc/2008/702); [2011 6431](https://fedlex.data.admin.ch/eli/oc/2011/896); [2013 3543](https://fedlex.data.admin.ch/eli/oc/2013/664), [4357](https://fedlex.data.admin.ch/eli/oc/2013/775); [2015 2939](https://fedlex.data.admin.ch/eli/oc/2015/553)]
 
 #### Art. 117
 
@@ -1797,18 +1797,29 @@ Auf Gesuche um Verleihförderung von Filmen mit Kinostart ab 1. Januar 2021 find
 
 [^117a-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
+#### Art. 117b
+
+**Übergangsbestimmungen zur Änderung vom 20. November 2024**[^117b-1]
+
+Auf Schweizer Filme, für deren Herstellung vor dem 1. Januar 2025 eine Absichtserklärung zur Standortförderung abgegeben wurde, ist das bisherige Recht anwendbar.
+
+[^117b-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+
 #### Art. 118
 
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Juli 2016 in Kraft.
 
-<sup>2</sup> ...[^118-1]
+<sup>2</sup> …[^118-1]
 
 <sup>3</sup> Die Anhänge gelten bis zum 31. Dezember 2024.[^118-2]
 
+<sup>4</sup> Die Geltungsdauer der Anhänge wird bis zum 31. Dezember 2025 verlängert.[^118-3]
+
 [^118-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 [^118-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^118-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
 Anhang 1[^t-1]
 
@@ -1816,7 +1827,7 @@ Anhang 1[^t-1]
 
 ## Filmförderungskonzepte des Bundes 2021−2024
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Bereinigt gemäss Ziff. II der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
 
 Die Filmförderung des Bundes setzt sich für die Periode 2021−2024 folgende übergeordnete Ziele, welche die Ausrichtung aller Förderinstrumente bestimmen.
 
@@ -1826,7 +1837,8 @@ Die Filmförderung des Bundes:
 - – stärkt die Sichtbarkeit des Schweizer Filmschaffens und des Filmerbes im In- und Ausland;
 - – berücksichtigt in allen Förderbereichen den Grundsatz der Diversität beim Zugang zur Förderung; dabei achtet er insbesondere auf eine ausgewogene Förderung von Projekten von Frauen und Männern, von Projekten in den verschiedenen Sprachregionen sowie von Projekten und Organisationen;
 - – berücksichtigt den Grundsatz der Angebotsvielfalt und des barrierefreien Zugangs zu Filmen;
-- – berücksichtigt in allen Förderbereichen den Grundsatz des schonenden Umgangs mit den Ressourcen.
+- – berücksichtigt in allen Förderbereichen den Grundsatz des schonenden Umgangs mit den Ressourcen;
+- – setzt sich für Nachhaltigkeit, Chancengleichheit, Diversität und eine angemessene Entschädigung der professionellen Kultur-schaffenden ein.
 
 Anhang 2[^t-2]
 
@@ -1834,7 +1846,7 @@ Anhang 2[^t-2]
 
 ## Förderungskonzept 2021-2024 für die Förderung des Schweizer Filmschaffens
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Die Berichtigung vom 29. Jan. 2021 betrifft nur den italienischen Text ([AS 2021 57](https://fedlex.data.admin.ch/eli/oc/2021/57)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
@@ -2065,9 +2077,13 @@ Anhang 2[^t-2]
   - b. Filme, die in einer Festivalsektion nach Artikel 83 Absatz 2 Buchstabe a teilgenommen oder mit einem Preis nach Artikel 83 Absatz 2 Buchstaben b oder c ausgezeichnet wurden;
   - c. Projekte, die besonders nachhaltig mit Ressourcen umgehen.
 
-- 2\.1.5.2 Zugelassen sind:
-- a. lange Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie;
-- b. Filmprogramme von mindestens 40 Minuten Dauer, die mehrheitlich aus Schweizer Filmen oder anerkannten Koproduktionen mit Schweizer Regie bestehen.
+- 2\.1.5.2
+
+  Zugelassen sind:
+
+  - a. lange Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie;
+  - b. Filmprogramme von mindestens 40 Minuten Dauer, die mehrheitlich aus Schweizer Filmen oder anerkannten Koproduktionen mit Schweizer Regie bestehen.
+
 - 2\.1.5.3
 
   Bei der Verleihförderung sind insbesondere folgende Kriterien massgebend:
@@ -2107,7 +2123,7 @@ Anhang 3[^t-3]
 
 ## Förderungskonzept 2021–2024 für die Förderung der Qualität und der Vielfalt des Filmangebots
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
@@ -2181,9 +2197,9 @@ Anhang 3[^t-3]
 
 - 2\.2.2 *Vielfaltsprämien für Kinos mit Spezialprogrammen*
 - 2\.2.2.1 Registrierte Vorführunternehmen, die einen wesentlichen Beitrag zur Bedeutung der Kinos als kulturelle Begegnungsorte leisten, namentlich indem sie Podiumsdiskussionen organisieren und weiteren zielgruppenspezifischen Massnahmen durchführen, können eine Finanzhilfe beantragen. Diese werden im Rahmen der bewilligten Kredite aufgrund der Anzahl der im Vorjahr durchgeführter Massnahmen, der damit zusammenhängenden Eintritte und der Art der Filme berechnet. Für grössere Städte gelten höhere Anforderungen als für mittlere Städte oder Landregionen.
-- [tab]
+- 2\.2.2.2
 
-  2.2.2.2 Für die Berechnung der Vielfaltsprämien sind folgende Kriterien massgeblich:
+  Für die Berechnung der Vielfaltsprämien sind folgende Kriterien massgeblich:
 
   - a. Anzahl zielgruppenorientierter Massnahmen und Spezialprogramme insgesamt;
   - b. Anteile dieser Spezialprogramme am Gesamtprogramm des Kinos;
@@ -2201,7 +2217,7 @@ Anhang 4[^t-4]
 
 ## Förderungskonzept 2021–2024 für die Förderung der Filmkultur und der Weiterbildung
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
@@ -2330,7 +2346,7 @@ Anhang 5[^t-5]
 
 ## Förderungskonzept 2021–2024 für die Erhaltung des Schweizer Filmerbes
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
