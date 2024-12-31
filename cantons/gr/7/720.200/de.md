@@ -4,13 +4,12 @@ number: "720.200"
 title: Gesetz über die Gemeinde- und Kirchensteuern
 short: GKStG
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3292/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3292/pdf_file"
 
 (GKStG)
 
-Vom 31.08.2006 (Stand 01.01.2023)
+Vom 31.08.2006 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -425,7 +424,7 @@ beschliesst:
 
 <sup>1</sup> Gegen Verfügungen kann die steuerpflichtige Person innert 30 Tagen seit Zustellung bei der Veranlagungsbehörde schriftlich Einsprache erheben.
 
-<sup>2</sup> Gegen Einsprache- und Revisionsentscheide kann die steuerpflichtige Person innert 30 Tagen seit Zustellung beim Verwaltungsgericht schriftlich Beschwerde erheben.
+<sup>2</sup> Gegen Einsprache- und Revisionsentscheide kann die steuerpflichtige Person innert 30 Tagen seit Zustellung beim Obergericht schriftlich Beschwerde erheben.
 
 #### Art. 30
 

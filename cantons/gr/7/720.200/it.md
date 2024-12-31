@@ -4,13 +4,12 @@ number: "720.200"
 title: Legge sulle imposte comunali e di culto
 short: LImpCC
 language: it
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3292/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3416/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3292/pdf_file"
 
 (LImpCC)
 
-del 31.08.2006 (stato 01.01.2023)
+del 31.08.2006 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -425,7 +424,7 @@ decide:
 
 <sup>1</sup> Contro le decisioni il contribuente può presentare opposizione scritta all'autorità di tassazione entro 30 giorni dal recapito.
 
-<sup>2</sup> Contro decisioni su opposizione e di revisione il contribuente può presentare ricorso scritto al Tribunale amministrativo entro 30 giorni dal recapito.
+<sup>2</sup> Contro decisioni su opposizione e di revisione il contribuente può presentare ricorso scritto al Tribunale d'appello entro 30 giorni dal recapito.
 
 #### Art. 30
 

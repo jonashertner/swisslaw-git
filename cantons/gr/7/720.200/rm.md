@@ -4,13 +4,12 @@ number: "720.200"
 title: Lescha davart las taglias communalas e davart las taglias da baselgia
 short: LTCTB
 language: rm
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-02
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3292/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3292/pdf_file"
 
 (LTCTB)
 
-dals 31-08-2006 (versiun dals 01-01-2023)
+dals 31-08-2006 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -431,7 +430,7 @@ concluda:
 
 <sup>1</sup> Cunter disposiziuns po la persuna ch'è obligada da pajar taglia far protesta en scrit tar l'autoritad da taxaziun entaifer 30 dis dapi la consegna.
 
-<sup>2</sup> Cunter decisiuns da protesta e da recurs po la persuna ch'è obligada da pajar taglia far recurs en scrit tar la dretgira administrativa entaifer 30 dis dapi la consegna.
+<sup>2</sup> Cunter decisiuns da protesta e da recurs po la persuna ch'è obligada da pajar taglia far recurs en scrit tar la Dretgira superiura entaifer 30 dis dapi la consegna.
 
 #### Art. 30
 
