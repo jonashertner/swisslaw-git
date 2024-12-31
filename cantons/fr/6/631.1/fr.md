@@ -4,13 +4,12 @@ number: "631.1"
 title: Loi sur les impôts cantonaux directs
 short: LICD
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-12
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7931/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8109/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Impôts cantonaux directs – L
 
 (LICD)
 
-du 06.06.2000 (version entrée en vigueur le 01.01.2024)
+du 06.06.2000 (version entrée en vigueur le 01.01.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -421,7 +420,15 @@ Décrète:
 
 <sup>2</sup> Sont notamment considérées comme revenus provenant d'institutions de prévoyance professionnelle les prestations des caisses de prévoyance, des assurances d'épargne et de groupe ainsi que des polices de libre-passage.
 
-<sup>3</sup> Les rentes viagères et les revenus provenant de contrats d'entretien viager sont imposables à raison de 40 %.
+<sup>3</sup> Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d'entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit:
+
+- a) pour les prestations garanties provenant d'assurances de rentes viagères soumises à la loi fédérale du 2 avril 1908 sur le contrat d'assurance (LCA), le taux d'intérêt technique maximal (m) défini conformément à l'article 36 al. 1 de la loi fédérale du 17 décembre 2004 sur la surveillance des assurances qui était applicable à la conclusion du contrat est déterminant pendant toute la durée de celui-ci:
+  - 1\. si le taux d'intérêt est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche: part de rendement = [1 - ((1 + m)²² - 1) / (22 · m · (1 + m)²³)] · 100 %;
+  - 2\. si le taux d'intérêt est nul ou négatif, la part de rendement est de 0 %.
+- b) pour les prestations excédentaires réalisées sur les assurances de rentes viagères qui sont soumises à la LCA, elle est de 70 %;
+- c) pour les prestations provenant d'assurances de rentes viagères étrangères ou de contrats de rentes viagères ou d'entretien viager, le rendement annualisé, augmenté de 0,5 point de pourcentage, des obligations émises par la Confédération pour une période de dix ans (r) au cours de l'année fiscale concernée et des neuf années précédentes est déterminant:
+  - 1\. si le rendement est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche: part de rendement = [1 - ((1 + r)²² - 1) / (22 · r · (1 + r)²³)] · 100 %;
+  - 2\. si le rendement est nul ou négatif, la part de rendement vaut 0 %.
 
 <sup>4</sup> L'article 25 let. b relatif aux assurances susceptibles de rachat exonérées est réservé.
 
@@ -583,7 +590,7 @@ Décrète:
 <sup>1</sup> Sont déduits du revenu:
 
 - a) les intérêts passifs privés à concurrence du rendement imposable de la fortune au sens des articles 21, 21a et 22, augmenté d'un montant de 50'000 francs. Ne sont pas déductibles les intérêts des prêts qu'une société de capitaux accorde à une personne physique avec laquelle elle a des liens étroits ou qui détient une part importante de son capital à des conditions nettement plus avantageuses que celles qui sont habituellement proposées aux tiers;
-- b) les charges durables et 40 % des rentes viagères versées par le débirentier;
+- b) les charges durables et la part de rendement au sens de l'article 23 al. 3 let. c des prestations fondées sur des contrats de rentes viagères ou de contrats d'entretien viager;
 - c) la pension alimentaire versée au conjoint divorcé, séparé judiciairement ou de fait ainsi que les contributions d'entretien versées à l'un des parents pour les enfants sur lesquels il a l'autorité parentale, à l'exclusion toutefois des prestations versées en exécution d'une obligation d'entretien ou d'assistance fondée sur le droit de la famille;
 - d) les primes, cotisations et montants légaux, statutaires ou réglementaires versés à l'assurance-vieillesse et survivants, à l'assurance-invalidité et à des institutions de la prévoyance professionnelle;
 - e) les primes, cotisations et montants versés en vue de l'acquisition de droits contractuels dans des formes reconnues de la prévoyance individuelle liée, jusqu'à concurrence des montants fixés par le Conseil fédéral en application de la législation fédérale sur la prévoyance professionnelle;
@@ -689,7 +696,7 @@ Décrète:
 
 <sup>4</sup> Les fractions de revenu sont arrondies aux 100 francs inférieurs.
 
-<sup>5</sup> Le contribuable qui, par l'effet des déductions sociales prévues à l'article 36, n'est pas atteint par l'impôt sur le revenu doit un impôt minimal de 50 francs. Cette règle n'est pas applicable si le contribuable bénéficie de la déduction de l'article 36 al. 1 let. i.
+<sup>5</sup> …
 
 <sup>6</sup> Lorsque des immeubles sont transférés dans la fortune privée, un abattement de 50 % est accordé sur la part de l'impôt afférent auxdits immeubles si leur aliénation n'intervient pas dans les cinq ans. Dans le cas contraire, l'impôt est rappelé en application des articles 192 et suivants. L'abattement de 50 % est également accordé en cas de transfert à titre gratuit aux enfants, suite au transfert dans la fortune privée. Le présent alinéa ne s'applique pas en cas d'application de l'article 38b.
 
@@ -1821,7 +1828,7 @@ Décrète:
 
 <sup>1</sup> L'impôt sur le capital est calculé au taux de 1 ‰.
 
-<sup>2</sup> Il est calculé au taux de 0,1 ‰ pour le capital propre afférent aux droits de participation visés aux articles 111 et 112 et aux droits visés à l'article 103a.
+<sup>2</sup> Il est calculé au taux de 0,1 ‰ pour le capital propre afférent aux droits de participation visés aux articles 111 et 112, aux droits visés à l'article 103a ainsi qu'aux prêts consentis à des sociétés du groupe.
 
 <sup>3</sup> L'impôt sur le bénéfice dû par les sociétés de capitaux et les sociétés coopératives est imputé à l'impôt sur le capital, au maximum jusqu'à concurrence de ce dernier.
 
@@ -2009,6 +2016,8 @@ Décrète:
 - c) une autorité pénale le demande;
 - d) un intérêt public prépondérant, reconnu par la Direction, le commande.
 
+<sup>3</sup> Dans le cadre de leur souveraineté fiscale au sens de l'article 12 de la loi du 26 septembre 1990 concernant les rapports entre les communautés confessionnelles et l'Etat, les personnes qui, dans les paroisses, sont chargées de tâches en relation avec le prélèvement des impôts ecclésiastiques ou qui y collaborent sont soumises au secret fiscal.
+
 #### Art. 140
 
 **Publicité des registres de l'impôt**
@@ -2121,9 +2130,11 @@ Décrète:
 
 **Notification**
 
-<sup>1</sup> Les décisions de taxation et les amendes sont notifiées au contribuable par écrit et indiquent les voies de droit. Les autres décisions et prononcés doivent, en outre, être motivés. La notification se fait par courrier normal.
+<sup>1</sup> Les décisions de taxation et les amendes sont notifiées au contribuable par écrit et indiquent les voies de droit. Les autres décisions et prononcés doivent, en outre, être motivés. La notification se fait par courrier postal. Avec l'accord exprès et écrit du contribuable, elle peut également se faire par voie électronique.
 
 <sup>2</sup> Lorsque le contribuable n'a pas de domicile connu ou qu'il se trouve à l'étranger, sans avoir de représentant en Suisse, les décisions et prononcés lui sont notifiés valablement par publication dans la Feuille officielle.
+
+<sup>3</sup> La publication dans la Feuille officielle prévue par l'alinéa 2 a lieu dans le respect des règles fixées à l'article 9c de la loi du 16 octobre 2001 sur la publication des actes législatifs et de la Feuille officielle (LPAL). Elle mentionne le nom de l'autorité qui a rendu la décision, les impôts et les périodes fiscales concernés ainsi que les voies de droit. Elle précise en outre que le contribuable peut consulter la décision complète auprès de l'autorité compétente.
 
 #### Art. 148
 
@@ -2282,7 +2293,7 @@ Décrète:
 
 - a) l'employeur, sur ses prestations au travailleur;
 - b) les créanciers et les débiteurs, sur l'état, le montant, les intérêts des dettes et créances ainsi que sur les sûretés dont elles sont assorties;
-- c) les assureurs, sur la valeur de rachat des assurances et sur les prestations payées ou dues en vertu de contrats d'assurance;
+- c) les assureurs, sur la valeur de rachat des assurances et sur les prestations payées ou dues en vertu de contrats d'assurance; pour les assurances de rentes viagères soumises à la LCA, ils doivent fournir en outre une attestation sur l'année de la conclusion du contrat, sur le montant de la rente viagère garantie, sur la part totale de rendement imposable au sens de l'article 23 al. 3 ainsi que sur les prestations excédentaires et la part de rendement provenant de ces prestations au sens de l'article 23 al. 3 let. b;
 - d) les fiduciaires, gérants de fortune, créanciers gagistes, mandataires et autres personnes qui ont ou avaient la possession ou l'administration de la fortune du contribuable, sur cette fortune et ses revenus;
 - e) les personnes qui sont ou étaient en relations d'affaires avec le contribuable, sur leurs prétentions et prestations réciproques.
 
@@ -2306,7 +2317,8 @@ Décrète:
 - b) les institutions de prévoyance professionnelle et de prévoyance individuelle liée, sur les prestations fournies à leurs preneurs de prévoyance ou bénéficiaires;
 - c) les sociétés simples et les sociétés de personnes, sur tous les éléments qui revêtent de l'importance pour la taxation de leurs associés, notamment sur les parts de ces derniers au revenu et à la fortune de la société;
 - d) les employeurs, sur les salaires, les bonifications de frais et autres prestations; ces attestations doivent être remplies sur formule officielle ou sous toute autre forme agréée par le Service cantonal des contributions;
-- e) les employeurs qui accordent des participations de collaborateur à leurs employés, sur toutes les données nécessaires à la taxation.
+- e) les employeurs qui accordent des participations de collaborateur à leurs employés, sur toutes les données nécessaires à la taxation;
+- f) les caisses de chômage, sur les indemnités versées en application de l'article 30 al. 1 de l'ordonnance fédérale du 31 août 1983 sur l'assurance-chômage (OACI).
 
 <sup>2</sup> Un double de l'attestation doit être adressé au contribuable.
 

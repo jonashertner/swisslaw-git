@@ -4,13 +4,12 @@ number: "631.1"
 title: Gesetz über die direkten Kantonssteuern
 short: DStG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-12
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7931/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8109/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Direkte Kantonssteuern – G
 
 (DStG)
 
-vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2024)
+vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -421,7 +420,15 @@ beschliesst:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40 % steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+
+- a) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem eidgenössischen Versicherungsvertragsgesetz vom 2. April 1908 (VVG) unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Abs. 1 des eidgenössischen Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt: Ertragsanteil = [1 - ((1 + m)²² - 1) / (22 · m · (1 + m)²³)] · 100 %;
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen, entspricht der Ertragsanteil 70 % dieser Leistungen.
+- c) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten- und aus Verpfründungsverträgen ist die Höhe der um 0,5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt: Ertragsanteil = [1 - ((1 + r)²² - 1) / (22 · r · (1 + r)²³)] · 100 %;
+  - 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
 
 <sup>4</sup> Artikel 25 Bst. b über die rückkaufsfähigen steuerfreien Kapitalversicherungen bleibt vorbehalten.
 
@@ -583,7 +590,7 @@ beschliesst:
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfang der nach den Artikeln 21, 21a und 22 steuerbaren Vermögenserträge und weiterer 50'000 Franken. Nicht abzugsfähig sind Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonstwie nahestehenden natürlichen Person zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen;
-- b) die dauernden Lasten sowie 40 % der bezahlten Leibrenten;
+- b) die dauernden Lasten sowie der Ertragsanteil nach Artikel 23 Abs. 3 Bst c der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge bis zur Höhe der Beiträge, die der Bundesrat in Anwendung des Bundesgesetzes über die berufliche Vorsorge festlegt;
@@ -689,7 +696,7 @@ beschliesst:
 
 <sup>4</sup> Einkommensbruchteile werden auf den nächst tieferen Betrag von 100 Franken abgerundet.
 
-<sup>5</sup> Die steuerpflichtige Person, die infolge der Abzüge nach Artikel 36 von der Einkommenssteuer nicht betroffen wird, muss eine Mindeststeuer von 50 Franken entrichten. Diese Bestimmung gilt nicht für die steuerpflichtige Person, der der Abzug gemäss Artikel 36 Abs. 1 Bst. i gewährt wird.
+<sup>5</sup> …
 
 <sup>6</sup> Wenn Grundstücke in das Privatvermögen überführt werden, werden die auf diese Grundstücke entfallenden Steuern um 50 % herabgesetzt, wenn sie nicht innert 5 Jahren veräussert werden. Andernfalls wird eine Nachsteuer im Sinne der Artikel 192 ff. erhoben. Die Steuern werden auch um 50 % herabgesetzt, wenn Grundstücke nach der Überführung ins Privatvermögen unentgeltlich an die Kinder übertragen werden. Dieser Absatz gilt nicht, wenn Artikel 38b zur Anwendung kommt.
 
@@ -1821,7 +1828,7 @@ beschliesst:
 
 <sup>1</sup> Die Kapitalsteuer wird zum Satz von 1 ‰ berechnet.
 
-<sup>2</sup> Für Eigenkapital, das auf Beteiligungsrechte nach Artikel 111 und 112 und auf Rechte nach Artikel 103a entfällt, wird sie zum Satz von 0,1 ‰ berechnet.
+<sup>2</sup> Für Eigenkapital, das auf Beteiligungsrechte nach Artikel 111 und 112, auf Rechte nach Artikel 103a und auf konzerninterne Darlehen entfällt, wird sie zum Satz von 0,1 ‰ berechnet.
 
 <sup>3</sup> Die von den Kapitalgesellschaften und Genossenschaften geschuldete Gewinnsteuer wird an die Kapitalsteuer angerechnet, maximal bis zur Höhe des Kapitalsteuerbetrags.
 
@@ -2009,6 +2016,8 @@ beschliesst:
 - c) eine Strafbehörde es verlangt;
 - d) ein von der Direktion anerkanntes überwiegendes öffentliches Interesse dies verlangt.
 
+<sup>3</sup> Im Rahmen der Steuerhoheit der Konfessionsgemeinschaften nach Artikel 12 des Gesetzes vom 26. September 1990 über die Beziehungen zwischen den Konfessionsgemeinschaften und dem Staat unterliegen Personen, die in den Pfarreien (Kirchgemeinden) mit Aufgaben im Zusammenhang mit der Erhebung von Kirchensteuern betraut sind oder daran mitwirken, dem Steuergeheimnis.
+
 #### Art. 140
 
 **Öffentlichkeit der Steuerregister**
@@ -2121,9 +2130,11 @@ beschliesst:
 
 **Eröffnung**
 
-<sup>1</sup> Veranlagungsverfügungen und Bussen werden der steuerpflichtigen Person schriftlich eröffnet; sie enthalten eine Rechtsmittelbelehrung. Die übrigen Verfügungen und Entscheide müssen zudem eine Begründung enthalten. Die Eröffnung erfolgt mit gewöhnlicher Postzustellung.
+<sup>1</sup> Veranlagungs- und Bussenverfügungen werden der steuerpflichtigen Person schriftlich eröffnet; sie enthalten eine Rechtsmittelbelehrung. Die übrigen Verfügungen und Entscheide müssen zudem eine Begründung enthalten. Die Eröffnung erfolgt mit Postzustellung. Mit dem ausdrücklichen schriftlichen Einverständnis der steuerpflichtigen Person kann die Eröffnung auf dem elektronischen Weg erfolgen.
 
 <sup>2</sup> Ist der Aufenthalt einer steuerpflichtigen Person unbekannt oder befindet sie sich im Ausland, ohne in der Schweiz einen Vertreter zu haben, so wird ihr eine Verfügung oder ein Entscheid rechtswirksam durch Publikation im Amtsblatt eröffnet.
+
+<sup>3</sup> Die Veröffentlichung im Amtsblatt nach Absatz 2 erfolgt nach den Vorschriften nach Artikel 9c des Gesetzes vom 16. Oktober 2001 über die Veröffentlichung der Erlasse und des Amtsblatts (VEG). Darin werden die verfügende Behörde, die betroffenen Steuern und Steuerperioden sowie die Rechtsmittel genannt. Es wird auch darauf hingewiesen, dass die steuerpflichtige Person die vollständige Verfügung bei der zuständigen Behörde einsehen kann.
 
 #### Art. 148
 
@@ -2282,7 +2293,7 @@ beschliesst:
 
 - a) Arbeitgeber über ihre Leistungen an Arbeitnehmer;
 - b) Gläubiger und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem VVG unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach Artikel 23 Abs. 3 sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach Artikel 23 Abs. 3 Bst. b ausweisen;
 - d) Treuhänder, Vermögensverwalter, Pfandgläubiger, Beauftragte und andere Personen, die Vermögen der steuerpflichtigen Person in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträgnisse;
 - e) Personen, die mit der steuerpflichtigen Person Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen.
 
@@ -2306,7 +2317,8 @@ beschliesst:
 - b) Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Vorsorgenehmern oder Begünstigten erbrachten Leistungen;
 - c) einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Teilhaber von Bedeutung sind, insbesondere über ihren Anteil an Einkommen und Vermögen der Gesellschaft;
 - d) Arbeitgeber über die Löhne, Spesenvergütungen und andere Leistungen; die Angaben sind auf amtlichem Formular oder in einer anderen von der kantonalen Steuerverwaltung genehmigten Form einzureichen;
-- e) Arbeitgeber, die ihren Angestellten Mitarbeiterbeteiligungen einräumen, über alle für deren Veranlagung notwendigen Angaben.
+- e) Arbeitgeber, die ihren Angestellten Mitarbeiterbeteiligungen einräumen, über alle für deren Veranlagung notwendigen Angaben;
+- f) Arbeitslosenkassen über ausgerichtete Entschädigungen gemäss Artikel 30 Abs. 1 der Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVlV).
 
 <sup>2</sup> Der steuerpflichtigen Person ist ein Doppel der Bescheinigung zuzustellen.
 
