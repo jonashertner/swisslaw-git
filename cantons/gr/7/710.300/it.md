@@ -4,13 +4,13 @@ number: "710.300"
 title: Legge sulla vigilanza finanziaria
 short: LVF
 language: it
-version: 2012-03-01
-corrected: 2015-06-04
-version_adopted: 2011-10-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2011-10-19
 in_force: 2012-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2386/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3414/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2386/pdf_file"
 
 (LVF)
 
-del 19.10.2011 (stato 01.03.2012)
+del 19.10.2011 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -39,11 +39,11 @@ decide:
 
 <sup>1</sup> L'organo specialistico supremo in materia di vigilanza finanziaria del Cantone è il Controllo delle finanze. Esso sostiene:
 
-- a) il Gran Consiglio e la sua Commissione della gestione nell'esercizio del compito costituzionale di vigilanza finanziaria sull'Amministrazione, sul Tribunale cantonale e sul Tribunale amministrativo, nonché sugli istituti autonomi di diritto pubblico;
+- a) il Gran Consiglio e la sua Commissione della gestione nell'esercizio del compito costituzionale di vigilanza finanziaria sull'Amministrazione, sul Tribunale d'appello, sul Tribunale della magistratura nonché sugli istituti autonomi di diritto pubblico;
 - b) il Governo e i Dipartimenti nell'esercizio della vigilanza finanziaria sull'Amministrazione;
-- c) il Tribunale cantonale e il Tribunale amministrativo negli aspetti finanziari della vigilanza sulla giustizia.
+- c) il Tribunale d'appello negli aspetti finanziari della vigilanza sulla giustizia.
 
-<sup>2</sup> Il Controllo delle finanze è indipendente e autonomo nell'esercizio delle sue funzioni specifiche. Nella sua attività di verifica esso sottostà soltanto alla Costituzione e alla legge. Stabilisce annualmente il suo programma di verifica e lo porta a conoscenza della Commissione della gestione, del Governo e per estratti a conoscenza del Tribunale cantonale e del Tribunale amministrativo.
+<sup>2</sup> Il Controllo delle finanze è indipendente e autonomo nell'esercizio delle sue funzioni specifiche. Nella sua attività di verifica esso sottostà soltanto alla Costituzione e alla legge. Stabilisce annualmente il suo programma di verifica e lo porta a conoscenza della Commissione della gestione, del Governo e per estratti a conoscenza del Tribunale d'appello e del Tribunale della magistratura.
 
 <sup>3</sup> Il Governo e la Commissione della gestione stipulano con il Controllo delle finanze un accordo sugli obiettivi e sulle prestazioni.
 
@@ -57,7 +57,7 @@ decide:
 
 - a) la gestione contabile del Gran Consiglio;
 - b) l'Amministrazione cantonale;
-- c) l'amministrazione del Tribunale cantonale e del Tribunale amministrativo;
+- c) l'amministrazione dei tribunali e delle autorità di conciliazione;
 - d) gli istituti di diritto pubblico del Cantone;
 - e) le organizzazioni e le persone esterne all'Amministrazione cantonale cui il Cantone delega compiti pubblici;
 - f) le organizzazioni e le persone che percepiscono importanti sussidi cantonali.
@@ -104,7 +104,7 @@ decide:
 
 **Organo di revisione esterno**
 
-<sup>1</sup> La Commissione della gestione incarica un organo di revisione esterno di verificare la valutazione periodica della qualità e delle prestazioni, nonché il conto annuale del Controllo delle finanze.
+<sup>1</sup> La Commissione della gestione incarica un ufficio di revisione esterno di valutare periodicamente la qualità e le prestazioni, nonché di verificare il conto annuale del Controllo delle finanze.
 
 #### Art. 8
 
@@ -112,7 +112,7 @@ decide:
 
 <sup>1</sup> Il Controllo delle finanze tratta direttamente con i servizi che sottostanno alla sua vigilanza.
 
-<sup>2</sup> Esso tratta direttamente con la Commissione della gestione, con il Governo, nonché con il Tribunale cantonale e il Tribunale amministrativo. Questi invitano periodicamente il capo del Controllo delle finanze a un colloquio.
+<sup>2</sup> Esso tratta direttamente con la Commissione della gestione, con il Governo, con il Tribunale d'appello e con il Tribunale della magistratura. Questi invitano periodicamente il capo del Controllo delle finanze a un colloquio.
 
 #### Art. 9
 
@@ -120,7 +120,7 @@ decide:
 
 <sup>1</sup> Per quanto possibile e in base all'incarico conferito alla Commissione della gestione il Controllo delle finanze sostiene l'attività di vigilanza della stessa.
 
-<sup>2</sup> Esso fornisce alla Commissione della gestione qualsiasi informazione utile all'esercizio dell'alta vigilanza. Su richiesta mette a sua disposizione tutte le risoluzioni del Governo, dei Dipartimenti, nonché del Tribunale cantonale e del Tribunale amministrativo che riguardano la sorveglianza sui crediti di preventivo e la gestione finanziaria. Inoltre esso invia alla Commissione della gestione tutti i rapporti di verifica e la relativa corrispondenza, nonché le decisioni circa contestazioni e proposte.
+<sup>2</sup> Esso fornisce alla Commissione della gestione qualsiasi informazione utile all'esercizio dell'alta vigilanza. Su richiesta mette a sua disposizione tutte le risoluzioni del Governo, dei Dipartimenti, del Tribunale d'appello e del Tribunale della magistratura che riguardano la sorveglianza sui crediti di preventivo e la gestione finanziaria. Inoltre esso invia alla Commissione della gestione tutti i rapporti di verifica e la relativa corrispondenza, nonché le decisioni circa contestazioni e proposte.
 
 <sup>3</sup> Esso presenta alla Commissione della gestione un elenco di tutti i rapporti di verifica allestiti, nonché la relativa corrispondenza. Se una revisione richiede molto tempo, la Commissione della gestione deve esserne informata mediante rapporti intermedi.
 
@@ -146,7 +146,7 @@ decide:
 
 <sup>1</sup> Il Controllo delle finanze è competente per la verifica dell'intera gestione finanziaria, in particolare per:
 
-- a) la verifica del conto annuale, dei conti separati dei servizi, degli istituti e delle aziende del Cantone;
+- a) la verifica del conto annuale, dei conti separati dei servizi, degli istituti di diritto pubblico, dei Dipartimenti, dei tribunali e delle autorità di conciliazione;
 - b) la verifica dei sistemi di controllo interni;
 - c) lo svolgimento di verifiche di sistemi, di progetti e delle analisi d'impatto;
 - d) verifiche su incarico della Confederazione;
@@ -160,7 +160,7 @@ decide:
 
 **Incarichi speciali e consulenza**
 
-<sup>1</sup> Le commissioni parlamentari d'inchiesta, la Commissione della gestione, il Governo, i dipartimenti, nonché il Tribunale cantonale e il Tribunale amministrativo possono assegnare al Controllo delle finanze incarichi di verifica speciali e interpellarlo quale organo consultivo in questioni di vigilanza finanziaria.
+<sup>1</sup> Le commissioni parlamentari d'inchiesta, la Commissione della gestione, il Governo, i dipartimenti, nonché il Tribunale d'appello possono assegnare al Controllo delle finanze incarichi di verifica speciali e interpellarlo quale organo consultivo in questioni di vigilanza finanziaria.
 
 <sup>2</sup> In questi casi il rapporto viene presentato unicamente all'organo committente, che decide secondo principi generali se informare o meno altri servizi.
 
@@ -174,7 +174,9 @@ decide:
 
 <sup>1</sup> Il Controllo delle finanze comunica le sue constatazioni in forma orale o scritta. In ogni caso riferisce con rapporto scritto in merito ai risultati delle revisioni svolte presso i servizi e alle altre verifiche importanti, nonché in caso di contestazioni di notevole importanza.
 
-<sup>2</sup> Il rapporto, che può essere associato a proposte, deve essere inviato al servizio cantonale competente, al Dipartimento competente, alla Cancelleria dello Stato, al Tribunale cantonale o al Tribunale amministrativo, nonché al Dipartimento delle finanze e dei comuni. In caso di mandati di revisione, il rapporto è indirizzato all'organo competente.
+<sup>2</sup> Il rapporto, che può essere associato a proposte, deve essere inviato al servizio cantonale competente, al tribunale regionale competente, all'autorità di conciliazione competente, al Dipartimento competente, alla Cancelleria dello Stato, al Tribunale d'appello, al Tribunale della magistratura e al Dipartimento delle finanze e dei comuni. In caso di mandati di revisione, il rapporto è indirizzato all'organo competente.
+
+<sup>3</sup> I rapporti del Controllo delle finanze e la relativa documentazione non sono accessibili al pubblico ai sensi della legge sul principio di trasparenza.
 
 #### Art. 15
 
@@ -182,19 +184,19 @@ decide:
 
 <sup>1</sup> Affari, che non corrispondono ai principi dell'articolo 10, nonché divergenze o inadeguatezze nella gestione contabile devono essere contestati dal Controllo delle finanze.
 
-<sup>2</sup> Se nell'esercizio delle sue funzioni di vigilanza il Controllo delle finanze riscontra irregolarità nell'organizzazione, nel metodo o nell'impiego del personale che non riguardano direttamente le finanze e la contabilità, ne informa per iscritto il Dipartimento preposto, la Cancelleria dello Stato, il Tribunale cantonale o il Tribunale amministrativo, nonché il Dipartimento delle finanze e dei comuni. Esso può raccomandare misure di miglioramento.
+<sup>2</sup> Se nell'esercizio delle sue funzioni di vigilanza il Controllo delle finanze riscontra irregolarità nell'organizzazione, nel metodo o nell'impiego del personale che non riguardano direttamente le finanze e la contabilità, ne informa per iscritto il Dipartimento preposto, la Cancelleria dello Stato, il Tribunale d'appello nonché il Dipartimento delle finanze e dei comuni. Esso può raccomandare misure di miglioramento.
 
 #### Art. 16
 
 **Disbrigo e decisione**
 
-<sup>1</sup> Di regola, il Controllo delle finanze assegna al servizio un termine per liquidare la contestazione o per dare seguito a una proposta. Il servizio informa il Controllo delle finanze entro il termine fissato in merito alla liquidazione delle contestazioni o delle proposte.
+<sup>1</sup> Di regola, il Controllo delle finanze assegna al servizio, al tribunale regionale o all'autorità di conciliazione un termine per liquidare la contestazione o per dare seguito a una proposta. Questi informano il Controllo delle finanze entro il termine fissato in merito alla liquidazione delle contestazioni o delle proposte.
 
 <sup>2</sup> Se una contestazione o una proposta non può essere liquidata entro il termine fissato o se le contestazioni e le proposte sono controverse, il Controllo delle finanze sottopone la pratica per la decisione definitiva:
 
 - a) al Governo nei casi che non riguardano i tribunali;
-- b) alla commissione di vigilanza competente a destinazione del Gran Consiglio nei casi che riguardano il Tribunale cantonale o il Tribunale amministrativo;
-- c) al Tribunale cantonale nei casi che riguardano un tribunale sottoposto alla sua vigilanza.
+- b) alla commissione di vigilanza competente a destinazione del Gran Consiglio nei casi che riguardano il Tribunale d'appello o il Tribunale della magistratura;
+- c) al Tribunale d'appello nei casi che riguardano un tribunale regionale o un'autorità di conciliazione.
 
 <sup>3</sup> Fintantoché una contestazione o una proposta del Controllo delle finanze non è stata liquidata definitivamente, non può avvenire alcun pagamento, né essere assunto alcun impegno che costituisca oggetto della procedura.
 
@@ -204,7 +206,7 @@ decide:
 
 <sup>1</sup> Il Controllo delle finanze riferisce ogni anno alla Commissione della gestione e al Governo con un rapporto d'attività, nel quale informa in merito all'entità e ai punti centrali della sua attività di verifica, nonché alle constatazioni e valutazioni importanti.
 
-<sup>2</sup> Il rapporto può essere sottoposto integralmente o parzialmente al Gran Consiglio, a condizione che non vengano violati il segreto d'ufficio e i diritti della personalità.
+<sup>2</sup> Il rapporto può essere sottoposto integralmente o parzialmente al Gran Consiglio, a condizione che non vengano violati il segreto d'ufficio e i diritti della personalità. Si deve presentare rapporto almeno una volta per legislatura.
 
 ## 5. Procedure
 
@@ -212,7 +214,7 @@ decide:
 
 **Reati**
 
-<sup>1</sup> Qualora sussistano indizi di reato, il Controllo delle finanze lo comunica al Dipartimento competente, alla Cancelleria dello Stato, al Tribunale cantonale o al Tribunale amministrativo. Le autorità informate provvedono immediatamente alle misure del caso.
+<sup>1</sup> Qualora sussistano indizi di reato, il Controllo delle finanze lo comunica al Dipartimento competente, alla Cancelleria dello Stato, al Tribunale d'appello o al Tribunale della magistratura. Le autorità informate provvedono immediatamente alle misure del caso.
 
 <sup>2</sup> In caso di presentazione di una denuncia penale vengono informati il Governo e la Commissione della gestione.
 
@@ -222,17 +224,17 @@ decide:
 
 **Documentazione**
 
-<sup>1</sup> I decreti e le decisioni del Governo, del Tribunale cantonale, del Tribunale amministrativo, dei Dipartimenti e dei servizi che riguardano la gestione finanziaria del Cantone, devono in ogni momento essere a disposizione del Controllo delle finanze.
+<sup>1</sup> I decreti e le decisioni del Governo, dei tribunali, delle autorità di conciliazione, dei Dipartimenti e dei servizi che riguardano la gestione finanziaria del Cantone devono in ogni momento essere a disposizione del Controllo delle finanze.
 
 #### Art. 20
 
 **Accesso ai dati**
 
-<sup>1</sup> Il Controllo delle finanze ha il diritto di consultare i dati necessari all'adempimento della vigilanza finanziaria, inclusi i dati di persone delle collezioni di dati dei Dipartimenti e dei servizi, nonché del Tribunale cantonale e del Tribunale amministrativo. Per quanto i dati siano adatti e necessari all'adempimento del compito, il diritto d'accesso si estende anche ai dati di persone degni di particolare protezione.
+<sup>1</sup> Il Controllo delle finanze ha il diritto di consultare i dati necessari all'adempimento della vigilanza finanziaria, inclusi i dati di persone delle collezioni di dati dei Dipartimenti e dei servizi, nonché dei tribunali e delle autorità di conciliazione. Per quanto i dati siano adatti e necessari all'adempimento del compito, il diritto d'accesso si estende anche ai dati di persone degni di particolare protezione.
 
 <sup>2</sup> Il Controllo delle finanze è autorizzato a conservare o salvare i dati di persone di cui è venuto a conoscenza in questo modo soltanto fino alla conclusione della procedura di revisione. Gli accessi alle diverse collezioni di dati e gli scopi così perseguiti devono essere documentati.
 
-<sup>3</sup> Nel caso del Tribunale cantonale e del Tribunale amministrativo l'accesso a documenti e dati si limita ai decreti e alle decisioni nell'ambito della vigilanza sulla giustizia.
+<sup>3</sup> Nel caso dei tribunali e delle autorità di conciliazione l'accesso a documenti e dati si limita ai decreti e alle decisioni nell'ambito della vigilanza sulla giustizia.
 
 #### Art. 21
 

@@ -4,13 +4,13 @@ number: "710.300"
 title: Gesetz über die Finanzaufsicht
 short: GFA
 language: de
-version: 2012-03-01
-corrected: 2015-06-04
-version_adopted: 2011-10-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2011-10-19
 in_force: 2012-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2386/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2386/pdf_file"
 
 (GFA)
 
-Vom 19.10.2011 (Stand 01.03.2012)
+Vom 19.10.2011 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -41,11 +41,11 @@ beschliesst:
 
 <sup>1</sup> Oberstes Fachorgan der Finanzaufsicht des Kantons ist die Finanzkontrolle. Sie unterstützt:
 
-- a) den Grossen Rat und seine Geschäftsprüfungskommission bei der Ausübung der verfassungsmässigen Finanzaufsicht über die Verwaltung, das Kantons- und das Verwaltungsgericht und die selbstständigen öffentlich-rechtlichen Anstalten;
+- a) den Grossen Rat und seine Geschäftsprüfungskommission bei der Ausübung der verfassungsmässigen Finanzaufsicht über die Verwaltung, das Obergericht, das Justizgericht und die selbstständigen öffentlich-rechtlichen Anstalten;
 - b) die Regierung und die Departemente bei der Ausübung der Finanzaufsicht über die Verwaltung;
-- c) das Kantons- und das Verwaltungsgericht bei den finanziellen Aspekten der Justizaufsicht.
+- c) das Obergericht bei den finanziellen Aspekten der Justizaufsicht.
 
-<sup>2</sup> Die Finanzkontrolle ist fachlich unabhängig und selbstständig. Sie ist in ihrer Prüfungstätigkeit nur Verfassung und Gesetz verpflichtet. Sie legt jährlich ihr Prüfprogramm fest und bringt dieses der Geschäftsprüfungskommission, der Regierung und auszugsweise dem Kantons- und dem Verwaltungsgericht zur Kenntnis.
+<sup>2</sup> Die Finanzkontrolle ist fachlich unabhängig und selbstständig. Sie ist in ihrer Prüfungstätigkeit nur Verfassung und Gesetz verpflichtet. Sie legt jährlich ihr Prüfprogramm fest und bringt dieses der Geschäftsprüfungskommission, der Regierung und auszugsweise dem Obergericht und dem Justizgericht zur Kenntnis.
 
 <sup>3</sup> Die Regierung und die Geschäftsprüfungskommission schliessen mit der Finanzkontrolle eine Ziel- und Leistungsvereinbarung ab.
 
@@ -59,7 +59,7 @@ beschliesst:
 
 - a) das Rechnungswesen des Grossen Rates;
 - b) die kantonale Verwaltung;
-- c) die Verwaltung des Kantons- und Verwaltungsgerichts;
+- c) die Verwaltung der Gerichte und Schlichtungsbehörden;
 - d) die öffentlich-rechtlichen Anstalten des Kantons;
 - e) Organisationen und Personen ausserhalb der kantonalen Verwaltung, denen der Kanton öffentliche Aufgaben überträgt;
 - f) Organisationen und Personen, die erhebliche kantonale Beiträge empfangen.
@@ -106,7 +106,7 @@ beschliesst:
 
 **Externe Revisionsstelle**
 
-<sup>1</sup> Die Geschäftsprüfungskommission beauftragt eine externe Revisionsstelle mit der Prüfung der periodischen Qualitäts- und Leistungsbeurteilung sowie der Rechnung der Finanzkontrolle.
+<sup>1</sup> Die Geschäftsprüfungskommission beauftragt eine externe Revisionsstelle mit der periodischen Beurteilung der Qualität und Leistung sowie der Prüfung der Rechnung der Finanzkontrolle.
 
 #### Art. 8
 
@@ -114,7 +114,7 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle verkehrt direkt mit jenen Stellen, die ihrer Aufsicht unterstehen.
 
-<sup>2</sup> Sie verkehrt direkt mit der Geschäftsprüfungskommission, der Regierung und dem Kantons- und dem Verwaltungsgericht. Diese laden die Leiterin oder den Leiter der Finanzkontrolle periodisch zu einer Aussprache ein.
+<sup>2</sup> Sie verkehrt direkt mit der Geschäftsprüfungskommission, der Regierung, dem Obergericht und dem Justizgericht. Diese laden die Leiterin oder den Leiter der Finanzkontrolle periodisch zu einer Aussprache ein.
 
 #### Art. 9
 
@@ -122,7 +122,7 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle unterstützt die Aufsichtstätigkeit der Geschäftsprüfungskommission im Rahmen ihrer Möglichkeiten und nach Massgabe des dieser Kommission übertragenen Auftrages.
 
-<sup>2</sup> Sie erteilt der Geschäftsprüfungskommission jede Auskunft, welche für die Ausübung der Oberaufsicht dienlich ist. Sie stellt ihr auf Verlagen alle Beschlüsse der Regierung, der Departemente und des Kantons- und des Verwaltungsgerichts, welche die Überwachung der Budgetkredite und den Finanzhaushalt betreffen, zur Verfügung. Ferner unterbreitet sie der Geschäftsprüfungskommission alle Prüfungsberichte und die dazugehörige Korrespondenz, und leitet ihr die Entscheide über die Erledigung von Beanstandungen und Anträgen zu.
+<sup>2</sup> Sie erteilt der Geschäftsprüfungskommission jede Auskunft, welche für die Ausübung der Oberaufsicht dienlich ist. Sie stellt ihr auf Verlangen alle Beschlüsse der Regierung, der Departemente, des Obergerichts und des Justizgerichts, welche die Überwachung der Budgetkredite und den Finanzhaushalt betreffen, zur Verfügung. Ferner unterbreitet sie der Geschäftsprüfungskommission alle Prüfungsberichte und die dazugehörige Korrespondenz, und leitet ihr die Entscheide über die Erledigung von Beanstandungen und Anträgen zu.
 
 <sup>3</sup> Sie legt der Geschäftsprüfungskommission jeweils ein Verzeichnis über sämtliche erstellte Prüfungsberichte und die dazugehörige Korrespondenz vor. Über länger dauernde Revisionen ist die Geschäftsprüfungskommission durch Zwischenberichte zu orientieren.
 
@@ -146,9 +146,9 @@ beschliesst:
 
 **Allgemeine Aufgaben**
 
-<sup>1</sup> Die Finanzkontrolle ist zuständig für die Prüfung des gesamten Finanzhaushaltes insbesondere für:
+<sup>1</sup> Die Finanzkontrolle ist zuständig für die Prüfung des gesamten Finanzhaushaltes, insbesondere für:
 
-- a) die Prüfung der Jahresrechnung, der separaten Rechnungen der Dienststellen, der Anstalten und der Betriebe des Kantons;
+- a) die Prüfung der Jahresrechnung, der separaten Rechnungen der Dienststellen, der öffentlich-rechtlichen Anstalten, der Departemente, der Gerichte und der Schlichtungsbehörden;
 - b) die Prüfung der internen Kontrollsysteme;
 - c) die Vornahme von Systemprüfungen, Projektprüfungen und Prüfungen der Wirkungsrechnungen;
 - d) Prüfungen im Auftrage des Bundes;
@@ -162,7 +162,7 @@ beschliesst:
 
 **Besondere Aufträge und Beratung**
 
-<sup>1</sup> Parlamentarische Untersuchungskommissionen, die Geschäftsprüfungskommission, die Regierung, die Departemente sowie das Kantons- und das Verwaltungsgericht können der Finanzkontrolle besondere Prüfungsaufträge erteilen und sie als beratendes Organ in Fragen der Finanzaufsicht beiziehen.
+<sup>1</sup> Parlamentarische Untersuchungskommissionen, die Geschäftsprüfungskommission, die Regierung, die Departemente sowie das Obergericht können der Finanzkontrolle besondere Prüfungsaufträge erteilen und sie als beratendes Organ in Fragen der Finanzaufsicht beiziehen.
 
 <sup>2</sup> Die Berichterstattung in diesen Fällen erfolgt nur an das auftraggebende Organ, welches nach allgemeinen Grundsätzen über das Informieren weiterer Stellen entscheidet.
 
@@ -176,7 +176,9 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle gibt ihre Feststellungen in mündlicher oder schriftlicher Form bekannt. Über die Ergebnisse von Dienststellen-Revisionen und übrigen wichtigen Prüfungen sowie bei Beanstandungen von erheblicher Bedeutung erstattet sie in jedem Fall schriftlichen Bericht.
 
-<sup>2</sup> Der Bericht, der mit Anträgen verbunden werden kann, geht an die zuständige kantonale Dienststelle, das zuständige Departement, die Standeskanzlei, das Kantons- oder das Verwaltungsgericht und an das Departement für Finanzen und Gemeinden. Bei Revisionsstellenmandaten richtet sich der Bericht an das zuständige Organ.
+<sup>2</sup> Der Bericht, der mit Anträgen verbunden werden kann, geht an die zuständige kantonale Dienststelle, das zuständige Regionalgericht, die zuständige Schlichtungsbehörde, das zuständige Departement, die Standeskanzlei, das Obergericht, das Justizgericht und an das Departement für Finanzen und Gemeinden. Bei Revisionsstellenmandaten richtet sich der Bericht an das zuständige Organ.
+
+<sup>3</sup> Die Berichte der Finanzkontrolle und die dazugehörigen Unterlagen sind nicht öffentlich zugänglich im Sinne des Gesetzes über das Öffentlichkeitsprinzip.
 
 #### Art. 15
 
@@ -184,19 +186,19 @@ beschliesst:
 
 <sup>1</sup> Geschäftsvorfälle, welche den Grundsätzen von Artikel 10 widersprechen, wie auch Unstimmigkeiten und Unzulänglichkeiten der Rechnungsführung, müssen von der Finanzkontrolle beanstandet werden.
 
-<sup>2</sup> Nimmt die Finanzkontrolle bei der Ausübung ihrer Aufsichtstätigkeit Mängel der Organisation, der Arbeitsweise oder des Arbeitseinsatzes wahr, welche nicht direkt das Finanz- und Rechnungswesen betreffen, so gibt sie dem vorgesetzten Departement, der Standeskanzlei, dem Kantons- oder dem Verwaltungsgericht sowie dem Departement für Finanzen und Gemeinden davon schriftlich Kenntnis. Sie kann Verbesserungsmassnahmen empfehlen.
+<sup>2</sup> Nimmt die Finanzkontrolle bei der Ausübung ihrer Aufsichtstätigkeit Mängel der Organisation, der Arbeitsweise oder des Arbeitseinsatzes wahr, welche nicht direkt das Finanz- und Rechnungswesen betreffen, so gibt sie dem vorgesetzten Departement, der Standeskanzlei, dem Obergericht sowie dem Departement für Finanzen und Gemeinden davon schriftlich Kenntnis. Sie kann Verbesserungsmassnahmen empfehlen.
 
 #### Art. 16
 
 **Erledigung und Entscheid**
 
-<sup>1</sup> Die Finanzkontrolle setzt der Dienststelle in der Regel eine Frist, innert welcher die Beanstandung zu erledigen oder einem Antrag Folge zu geben ist. Die Dienststelle orientiert die Finanzkontrolle innert der festgesetzten Frist über die Erledigung der Beanstandungen oder Anträge.
+<sup>1</sup> Die Finanzkontrolle setzt der Dienststelle, dem Regionalgericht oder der Schlichtungsbehörde in der Regel eine Frist, innert welcher die Beanstandung zu erledigen oder einem Antrag Folge zu geben ist. Diese orientieren die Finanzkontrolle innert der festgesetzten Frist über die Erledigung der Beanstandungen oder Anträge.
 
 <sup>2</sup> Lässt sich eine Beanstandung oder ein Antrag nicht innert der festgesetzten Frist erledigen, oder sind die Beanstandungen und Anträge bestritten, so unterbreitet die Finanzkontrolle die Angelegenheit zum endgültigen Entscheid:
 
 - a) der Regierung in Fällen, die nicht die Gerichte betreffen;
-- b) der zuständigen Aufsichtskommission zuhanden des Grossen Rates in Fällen, die das Kantons- oder das Verwaltungsgericht betreffen;
-- c) dem Kantonsgericht in Fällen, die ein seiner Aufsicht unterstelltes Gericht betreffen.
+- b) der zuständigen Aufsichtskommission zuhanden des Grossen Rates in Fällen, die das Obergericht oder das Justizgericht betreffen;
+- c) dem Obergericht in Fällen, die ein Regionalgericht oder eine Schlichtungsbehörde betreffen.
 
 <sup>3</sup> Bis zur endgültigen Erledigung einer Beanstandung oder eines Antrages der Finanzkontrolle dürfen weder Zahlungen geleistet noch Verpflichtungen eingegangen werden, welche Gegenstand des Verfahrens bilden.
 
@@ -206,7 +208,7 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle erstattet der Geschäftsprüfungskommission und der Regierung jährlich einen Tätigkeitsbericht, in dem sie über den Umfang und die Schwerpunkte ihrer Prüftätigkeit sowie über wichtige Feststellungen und Beurteilungen informiert.
 
-<sup>2</sup> Der Bericht kann ganz oder teilweise dem Grossen Rat unterbreitet werden, wobei das Amtsgeheimnis und die Persönlichkeitsrechte zu wahren sind.
+<sup>2</sup> Der Bericht kann ganz oder teilweise dem Grossen Rat unterbreitet werden, wobei das Amtsgeheimnis und die Persönlichkeitsrechte zu wahren sind. Mindestens einmal pro Legislatur ist Bericht zu erstatten.
 
 ## 5. Verfahren
 
@@ -214,7 +216,7 @@ beschliesst:
 
 **Strafbare Handlungen**
 
-<sup>1</sup> Ergeben sich Hinweise auf eine strafbare Handlung, meldet die Finanzkontrolle dies dem zuständigen Departement, der Standeskanzlei, dem Kantons- oder dem Verwaltungsgericht. Die informierten Instanzen sorgen unverzüglich für die gebotenen Massnahmen.
+<sup>1</sup> Ergeben sich Hinweise auf eine strafbare Handlung, meldet die Finanzkontrolle dies dem zuständigen Departement, der Standeskanzlei, dem Obergericht oder dem Justizgericht. Die informierten Instanzen sorgen unverzüglich für die gebotenen Massnahmen.
 
 <sup>2</sup> Über die Einreichung einer Strafanzeige werden die Regierung und die Geschäftsprüfungskommission informiert.
 
@@ -224,17 +226,17 @@ beschliesst:
 
 **Dokumentation**
 
-<sup>1</sup> Beschlüsse und Verfügungen der Regierung, des Kantons- und des Verwaltungsgerichts, der Departemente und der Dienststellen, welche den Finanzhaushalt des Kantons betreffen, sind der Finanzkontrolle unaufgefordert verfügbar zu halten.
+<sup>1</sup> Beschlüsse und Verfügungen der Regierung, der Gerichte, der Schlichtungsbehörden, der Departemente und der Dienststellen, welche den Finanzhaushalt des Kantons betreffen, sind der Finanzkontrolle unaufgefordert verfügbar zu halten.
 
 #### Art. 20
 
 **Datenzugriff**
 
-<sup>1</sup> Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten einschliesslich Personendaten aus den Datensammlungen der Departemente und der Dienststellen sowie des Kantons- und Verwaltungsgerichts abzurufen. Soweit die Daten für die Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten.
+<sup>1</sup> Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten einschliesslich Personendaten aus den Datensammlungen der Departemente und der Dienststellen sowie der Gerichte und der Schlichtungsbehörden abzurufen. Soweit die Daten für die Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten.
 
 <sup>2</sup> Die Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens aufbewahren oder speichern. Die Zugriffe auf die verschiedenen Datensammlungen und die damit verfolgten Zwecke müssen dokumentiert werden.
 
-<sup>3</sup> Beim Kantons- und beim Verwaltungsgericht beschränkt sich der Zugriff auf Dokumente und Daten auf Beschlüsse und Verfügungen im Bereich der Justizaufsicht.
+<sup>3</sup> Bei den Gerichten und den Schlichtungsbehörden beschränkt sich der Zugriff auf Dokumente und Daten auf Beschlüsse und Verfügungen im Bereich der Justizaufsicht.
 
 #### Art. 21
 

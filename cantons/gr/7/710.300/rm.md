@@ -4,13 +4,13 @@ number: "710.300"
 title: Lescha davart la surveglianza da las finanzas
 short: LSFi
 language: rm
-version: 2012-03-01
-corrected: 2015-06-04
-version_adopted: 2011-10-19
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2011-10-19
 in_force: 2012-03-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2386/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2386/pdf_file"
 
 (LSFi)
 
-dals 19-10-2011 (versiun dals 01-03-2012)
+dals 19-10-2011 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -39,11 +39,11 @@ concluda:
 
 <sup>1</sup> La controlla da finanzas è l'organ suprem da la surveglianza da las finanzas. Ella sustegna:
 
-- a) il cussegl grond e sia cumissiun da gestiun exequind la surveglianza da las finanzas sur da l'administraziun, sur da la dretgira chantunala e sur da la dretgira administrativa sco er sur dals instituts autonoms da dretg public;
+- a) il Cussegl grond e sia Cumissiun da gestiun exequind la surveglianza da las finanzas sur da l'administraziun, sur da la Dretgira superiura, sur da la Dretgira da giustia sco er sur dals instituts autonoms da dretg public;
 - b) la regenza ed ils departaments exequind la surveglianza da las finanzas sur da l'administraziun;
-- c) la dretgira chantunala e la dretgira administrativa en connex cun ils aspects finanzials da la surveglianza da la giustia.
+- c) la Dretgira superiura en connex cun ils aspects finanzials da la surveglianza da la giustia.
 
-<sup>2</sup> La controlla da finanzas è professiunalmain independenta ed è autonoma. En sia activitad da controlla è ella obligada mo a la constituziun ed a la lescha. Ella fixescha annualmain ses program da controlla ed al suttametta a la cumissiun da gestiun dal cussegl grond, a la regenza ed – en extracts – a la dretgira chantunala ed a la dretgira administrativa per laschar prender enconuschientscha.
+<sup>2</sup> La Controlla da finanzas è professiunalmain independenta ed è autonoma. En sia activitad da controlla è ella obligada mo a la constituziun ed a la lescha. Ella fixescha annualmain ses program da controlla ed al suttametta a la Cumissiun da gestiun dal Cussegl grond, a la Regenza ed – en extracts – a la Dretgira superiura ed a la Dretgira da giustia per laschar prender enconuschientscha.
 
 <sup>3</sup> La regenza e la cumissiun da gestiun concludan ina cunvegna da finamiras e da prestaziun cun la controlla da finanzas.
 
@@ -57,7 +57,7 @@ concluda:
 
 - a) la contabilitad dal cussegl grond;
 - b) l'administraziun chantunala;
-- c) l'administraziun da la dretgira chantunala e da la dretgira administrativa;
+- c) l'administraziun da las dretgiras e da las autoritads da mediaziun;
 - d) ils instituts da dretg public dal chantun;
 - e) las organisaziuns e las persunas ordaifer l'administraziun chantunala, a las qualas il chantun surdat incumbensas publicas;
 - f) organisaziuns e persunas che survegnan contribuziuns chantunalas considerablas.
@@ -104,7 +104,7 @@ concluda:
 
 **Post da revisiun extern**
 
-<sup>1</sup> La cumissiun da gestiun incumbensescha in post da revisiun extern d'examinar il giudicament periodic da la qualitad e da las prestaziuns sco er il quint da la controlla da finanzas.
+<sup>1</sup> La cumissiun da gestiun incumbensescha in post da revisiun extern da giuditgar periodicamain la qualitad e la prestaziun sco er d'examinar il quint da la controlla da finanzas.
 
 #### Art. 8
 
@@ -112,7 +112,7 @@ concluda:
 
 <sup>1</sup> La controlla da finanzas è en correspundenza directa cun quels posts che stattan sut sia surveglianza.
 
-<sup>2</sup> Ella è en correspundenza directa cun la cumissiun da gestiun, cun la regenza sco er cun la dretgira chantunala e cun la dretgira administrativa. Questas instanzas envidan periodicamain il manader da la controlla da finanzas ad ina discussiun.
+<sup>2</sup> Ella è en correspundenza directa cun la Cumissiun da gestiun, cun la Regenza, cun la Dretgira superiura e cun la Dretgira da giustia. Questas instanzas envidan periodicamain la manadra u il manader da la Controlla da finanzas ad ina discussiun.
 
 #### Art. 9
 
@@ -120,7 +120,7 @@ concluda:
 
 <sup>1</sup> La controlla da finanzas sustegna l'activitad da surveglianza da la cumissiun da gestiun en il rom da sias pussaivladads ed a norma da l'incarica ch'è vegnida surdada a questa cumissiun.
 
-<sup>2</sup> Ella dat a la cumissiun da gestiun tut las infurmaziuns che servan per exequir la surveglianza suprema. Sin dumonda metta ella a disposiziun tut ils conclus da la regenza, dals departaments sco er da la dretgira chantunala e da la dretgira administrativa che pertutgan la surveglianza dals credits tenor il preventiv e las finanzas dal chantun. Plinavant suttametta ella a la cumissiun da gestiun tut ils rapports da revisiun e la correspundenza respectiva e la trametta las decisiuns davart la liquidaziun da reclamaziuns e da propostas.
+<sup>2</sup> Ella dat a la Cumissiun da gestiun tut las infurmaziuns che servan per exequir la surveglianza suprema. Sin dumonda metta ella a disposiziun tut ils conclus da la Regenza, dals departaments, da la Dretgira superiura e da la Dretgira da giustia che pertutgan la surveglianza dals credits tenor il preventiv e las finanzas dal chantun. Plinavant suttametta ella a la Cumissiun da gestiun tut ils rapports da revisiun e la correspundenza respectiva e la trametta las decisiuns davart la liquidaziun da reclamaziuns e da propostas.
 
 <sup>3</sup> Ella suttametta a la cumissiun da gestiun mintgamai in register davart tut ils rapports da revisiun ch'èn vegnids fatgs sco er la correspundenza respectiva. Davart revisiuns che duran pli ditg sto la cumissiun da gestiun vegnir orientada cun agid da rapports intermediars.
 
@@ -146,7 +146,7 @@ concluda:
 
 <sup>1</sup> La controlla da finanzas è cumpetenta per controllar tut las finanzas dal chantun, en spezial:
 
-- a) per controllar il quint annual, ils quints separads dals posts da servetsch, dals instituts e dals manaschis dal chantun;
+- a) per controllar il quint annual, ils quints separads dals posts da servetsch, dals instituts da dretg public, dals departaments, da las dretgiras e da las autoritads da mediaziun;
 - b) per controllar ils sistems da controlla interns;
 - c) per far controllas da sistems, da projects e dals quints tenor ils resultats;
 - d) per far controllas per incumbensa da la confederaziun;
@@ -160,7 +160,7 @@ concluda:
 
 **Incumbensas spezialas e cussegliaziun**
 
-<sup>1</sup> Las cumissiuns d'inquisiziun parlamentaras, la cumissiun da gestiun, la regenza, ils departaments sco er la dretgira chantunala e la dretgira administrativa pon dar incumbensas da controlla spezialas a la controlla da finanzas e la pon consultar – sco organ consultativ – per dumondas da la surveglianza da las finanzas.
+<sup>1</sup> Las cumissiuns d'inquisiziun parlamentaras, la Cumissiun da gestiun, la Regenza, ils departaments sco er la Dretgira superiura pon dar incumbensas da controlla spezialas a la Controlla da finanzas e la pon consultar – sco organ consultativ – per dumondas da la surveglianza da las finanzas.
 
 <sup>2</sup> Il rapport survegn en quests cas mo l'organ incumbensader che decida tenor princips generals davart l'infurmaziun d'ulteriurs posts.
 
@@ -174,7 +174,9 @@ concluda:
 
 <sup>1</sup> La controlla da finanzas communitgescha sias constataziuns a bucca u en scrit. Ella fa en mintga cas in rapport en scrit davart ils resultats da revisiuns da posts da servetsch e d'ulteriuras controllas impurtantas sco er en cas da reclamaziuns che han ina impurtanza considerabla.
 
-<sup>2</sup> Il rapport che po vegnir collià cun propostas, vegn tramess al post da servetsch chantunal cumpetent, al departament cumpetent, a la chanzlia chantunala, a la dretgira chantunala u a la dretgira administrativa sco er al departament da finanzas e vischnancas. En cas da mandats sco post da revisiun vegn il rapport tramess a l'organ cumpetent.
+<sup>2</sup> Il rapport che po vegnir collià cun propostas, vegn tramess al post da servetsch chantunal cumpetent, a la dretgira regiunala cumpetenta, a l'autoritad da mediaziun cumpetenta, al departament cumpetent, a la Chanzlia chantunala, a la Dretgira superiura, a la Dretgira da giustia ed al Departament da finanzas e vischnancas. En cas da mandats sco post da revisiun vegn il rapport tramess a l'organ cumpetent.
+
+<sup>3</sup> Ils rapports da la controlla da finanzas ed ils documents appartegnents n'èn betg accessibels publicamain en il senn da la lescha davart il princip da transparenza.
 
 #### Art. 15
 
@@ -182,19 +184,19 @@ concluda:
 
 <sup>1</sup> Fatschentas che na correspundan betg als princips da l'artitgel 10, sco er irregularitads ed insuffizienzas da la contabilitad, ston vegnir contestadas da la controlla da finanzas.
 
-<sup>2</sup> Sche la controlla da finanzas constatescha – exequind sia activitad da surveglianza – mancanzas da l'organisaziun, da la moda da lavurar u da l'engaschament da lavur che na pertutgan betg directamain las finanzas e la contabilitad, communitgescha ella quai en scrit al departament superiur, a la chanzlia chantunala, a la dretgira chantunala u a la dretgira administrativa sco er al departament da finanzas e vischnancas. Ella po recumandar mesiras da meglieraziun.
+<sup>2</sup> Sche la Controlla da finanzas constatescha – exequind sia activitad da surveglianza – mancanzas da l'organisaziun, da la moda da lavurar u da l'engaschament da lavur che na pertutgan betg directamain las finanzas e la contabilitad, communitgescha ella quai en scrit al departament superiur, a la Chanzlia chantunala, a la Dretgira superiura sco er al Departament da finanzas e vischnancas. Ella po recumandar mesiras da meglieraziun.
 
 #### Art. 16
 
 **Liquidaziun e decisiun**
 
-<sup>1</sup> La controlla da finanzas fixescha per regla in termin per il post da servetsch. Entaifer quest termin sto la contestaziun vegnir liquidada u sto vegnir dà suatientscha ad ina proposta. Il post da servetsch orientescha la controlla da finanzas entaifer il termin fixà davart la liquidaziun da las contestaziuns u da las propostas.
+<sup>1</sup> La controlla da finanzas fixescha per regla in termin per il post da servetsch, per la dretgira regiunala u per l'autoritad da mediaziun. Entaifer quest termin sto la contestaziun vegnir liquidada u sto vegnir dà suatientscha ad ina proposta. Els orienteschan la controlla da finanzas entaifer il termin fixà davart la liquidaziun da las contestaziuns u da las propostas.
 
 <sup>2</sup> Sch'ina contestaziun u sch'ina proposta na po betg vegnir liquidada entaifer il termin fixà u sche las contestaziuns e sche las propostas èn dispitaivlas, suttametta la controlla da finanzas la fatschenta per la decisiun definitiva:
 
 - a) a la regenza, en cas che na pertutgan betg las dretgiras;
-- b) a la cumissiun da surveglianza cumpetenta, per mauns dal cussegl grond, en cas che pertutgan la dretgira chantunala u la dretgira administrativa;
-- c) a la dretgira chantunala, en cas che pertutgan ina dretgira che stat sut sia surveglianza.
+- b) a la cumissiun da surveglianza cumpetenta, per mauns dal Cussegl grond, en cas che pertutgan la Dretgira superiura u la Dretgira da giustia;
+- c) a la Dretgira superiura, en cas che pertutgan ina dretgira regiunala u in'autoritad da mediaziun.
 
 <sup>3</sup> Fin a la liquidaziun definitiva d'ina contestaziun u d'ina proposta da la controlla da finanzas na dastgan ni vegnir fatgs pajaments ni vegnir surpigliadas obligaziuns ch'èn chaussa da la procedura.
 
@@ -204,7 +206,7 @@ concluda:
 
 <sup>1</sup> La controlla da finanzas fa annualmain in rapport da gestiun per la cumissiun da gestiun e per la regenza, en il qual ella infurmescha davart la dimensiun e davart ils accents da sia activitad da controlla sco er davart constataziuns impurtantas e davart giudicaments impurtants.
 
-<sup>2</sup> Quest rapport po vegnir suttamess per part u dal tuttafatg al cussegl grond; el sto dentant tegnair quint dal secret d'uffizi e dals dretgs persunals.
+<sup>2</sup> Quest rapport po vegnir suttamess per part u dal tuttafatg al cussegl grond; el sto dentant tegnair quint dal secret d'uffizi e dals dretgs persunals. Almain ina giada per perioda da legislatura sto vegnir fatg in rapport.
 
 ## 5. Procedura
 
@@ -212,7 +214,7 @@ concluda:
 
 **Acts chastiabels**
 
-<sup>1</sup> Sch'i dat indizis per in act chastiabel, annunzia la controlla da finanzas quai al departament cumpetent, a la chanzlia chantunala, a la dretgira chantunala u a la dretgira administrativa. Las instanzas infurmadas procuran immediatamain per las mesiras dumandadas.
+<sup>1</sup> Sch'i dat indizis per in act chastiabel, annunzia la Controlla da finanzas quai al departament cumpetent, a la Chanzlia chantunala, a la Dretgira superiura u a la Dretgira da giustia. Las instanzas infurmadas procuran immediatamain per las mesiras dumandadas.
 
 <sup>2</sup> En cas ch'i vegn fatg ina denunzia penala, vegnan infurmadas la regenza e la cumissiun da gestiun.
 
@@ -220,19 +222,19 @@ concluda:
 
 #### Art. 19
 
-**documentaziun**
+**Documentaziun**
 
-<sup>1</sup> Conclus e disposiziuns da la regenza, da la dretgira chantunala e da la dretgira administrativa, dals departaments e dals posts da servetsch che pertutgan las finanzas dal chantun, ston vegnir mess a disposiziun a la controlla da finanzas senza ch'i stoppia vegnir dumandà.
+<sup>1</sup> Conclus e disposiziuns da la regenza, da las dretgiras, da las autoritads da mediaziun, dals departaments e dals posts da servetsch che pertutgan las finanzas dal chantun, ston vegnir mess a disposiziun a la controlla da finanzas senza ch'i stoppia vegnir dumandà.
 
 #### Art. 20
 
 **Access a las datas**
 
-<sup>1</sup> La controlla da finanzas ha il dretg da consultar las datas ch'èn necessarias per ademplir la surveglianza da las finanzas inclusiv las datas da persunas or da collecziuns da datas dals departaments e dals posts da servetsch sco er da la dretgira chantunala u da la dretgira administrativa. Sche las datas èn adattadas e necessarias per ademplir las incumbensas, vala il dretg d'access er per las datas da persunas ch'èn spezialmain degnas da vegnir protegidas.
+<sup>1</sup> La controlla da finanzas ha il dretg da consultar las datas ch'èn necessarias per ademplir la surveglianza da las finanzas inclusiv las datas da persunas or da collecziuns da datas dals departaments e dals posts da servetsch sco er da las dretgiras e da las autoritads da mediaziun. Sche las datas èn adattadas e necessarias per ademplir las incumbensas, vala il dretg d'access er per las datas da persunas ch'èn spezialmain degnas da vegnir protegidas.
 
 <sup>2</sup> La controlla da finanzas dastga tegnair en salv u arcunar las datas da persunas, da las qualas ella ha prendì enconuschientscha en tala moda, mo fin che la procedura da revisiun è terminada. Ils access a las differentas collecziuns da datas ed ils intents che duain vegnir cuntanschids cun quai ston vegnir documentads.
 
-<sup>3</sup> Per la dretgira chantunala e per la dretgira administrativa sa restrenschan l'access als documents ed a las datas sin conclus e sin disposiziuns che stattan en connex cun la surveglianza da la giustia.
+<sup>3</sup> Per las dretgiras e per las autoritads da mediaziun sa restrenscha l'access als documents ed a las datas sin conclus e sin disposiziuns che stattan en connex cun la surveglianza da la giustia.
 
 #### Art. 21
 
