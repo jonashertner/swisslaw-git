@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da december 1946 davart l'assicuranza per vegls 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: rm
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20240101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20250101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAVS)[^t-1]
 
-dals 20 da december 1946 (versiun dal 1. da schaner 2024)
+dals 20 da december 1946 (versiun dal 1. da schaner 2025)
 
 [^t-1]: Agiuntà l’abreviaziun tenor la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -114,7 +114,7 @@ Sa participar a l’assicuranza pon:
 [^1a-11]: Expressiun tenor la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Questa midada è vegnida resguardada en l’entir decret.
 [^1a-12]: Versiun tenor la cifra II 10 da l’agiunta da la Lescha davart il stadi ospitant dals 22 da zer. 2007, en vigur dapi il 1. da schan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^1a-13]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1a-14]: Versiun tenor la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^1a-14]: Integrà tras la cifra I da l’O da l’AF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^1a-15]: Integrà tras la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 
 #### Art. 2
@@ -127,17 +127,17 @@ Sa participar a l’assicuranza pon:
 
 <sup>3</sup> Las persunas assicuradas che na dattan betg las infurmaziuns necessarias u che na pajan betg a temp lur contribuziuns, vegnan exclusas da l’assicuranza facultativa.
 
-<sup>4</sup> Las contribuziuns da las persunas assicuradas cun activitad da gudogn importan 8,7 pertschient da l’entrada decisiva. Las persunas assicuradas ston dentant pajar en mintga cas la contribuziun minimala dad 844 francs[^2-3] per onn.[^2-4]
+<sup>4</sup> Las contribuziuns da las persunas assicuradas cun activitad da gudogn importan 8,7 pertschient da las entradas decisivas. Las persunas assicuradas ston dentant pajar en mintga cas la contribuziun minimala dad 870 francs[^2-3] per onn.[^2-4]
 
-<sup>5</sup> Las persunas senza activitad da gudogn pajan ina contribuziun tenor lur relaziuns socialas. La contribuziun minimala importa 844 francs[^2-5] per onn. La contribuziun maximala correspunda a 25 giadas la contribuziun minimala.[^2-6]
+<sup>5</sup> Las persunas senza activitad da gudogn pajan ina contribuziun tenor lur relaziuns socialas. La contribuziun minimala importa 870 francs[^2-5] per onn. La contribuziun maximala correspunda a 25 giadas la contribuziun minimala.[^2-6]
 
 <sup>6</sup> Il Cussegl federal decretescha prescripziuns cumplementaras davart l’assicuranza facultativa; el fixescha en spezial il termin e las modalitads da la participaziun, da la retratga e da l’exclusiun. Plinavant regla el la fixaziun e l’incassament da las contribuziuns sco er la concessiun da prestaziuns. El po adattar a las particularitads da l’assicuranza facultativa las disposiziuns concernent la durada da l’obligaziun da pajar contribuziuns, la calculaziun da las contribuziuns sco er l’incassament da las contribuziuns.
 
 [^2-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^2-2]: Versiun tenor la cifra I 3 da la LF dals 14 da dec. 2001 concernent las disposiziuns davart la libra circulaziun da persunas en la cunvegna per midar la Convenziun davart la constituziun da la AECL, en vigur dapi il 1. da zer. 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^2-3]: Import tenor l’art. 2 al. 2 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^2-3]: Import tenor l’art. 2 al. 2 da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^2-4]: Versiun tenor la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^2-5]: Import tenor l’art. 2 al. 2 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^2-5]: Import tenor l’art. 2 al. 2 da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^2-6]: Versiun tenor la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Segund chapitel Las contribuziuns
@@ -192,7 +192,7 @@ L’alinea 3 vegn er applitgà per ils onns chalendars, en ils quals:
 
 **Calculaziun da las contribuziuns**[^4-1]
 
-<sup>1</sup> Las contribuziuns da las persunas assicuradas cun activitad da gudogn vegnan fixadas en pertschients da l’entrada or da l’activitad da gudogn dependenta ed independenta.
+<sup>1</sup> Las contribuziuns da las persunas assicuradas cun activitad da gudogn vegnan fixadas en pertschients da las entradas or da l’activitad da gudogn dependenta ed independenta.
 
 <sup>2</sup>
 
@@ -208,7 +208,7 @@ Il Cussegl federal po excluder da la calculaziun da las contribuziuns:
 
 **Contribuziuns d’entradas or da l’activitad da gudogn dependenta 1. Princip**
 
-<sup>1</sup> Da l’entrada or da l’activitad da gudogn dependenta, numnà salari decisiv en quai che suonda, vegn incassada ina contribuziun da 4,35 pertschient.[^5-1]
+<sup>1</sup> Da las entradas or da l’activitad da gudogn dependenta, numnà salari decisiv en quai che suonda, vegn incassada ina contribuziun da 4,35 pertschient.[^5-1]
 
 <sup>2</sup> Sco salari decisiv valan tut las remuneraziuns per lavurs prestadas en ina plazza dependenta durant in temp determinà u nundeterminà. Il salari decisiv cumpiglia er supplements da chareschia ed auters supplements da salari, provisiuns, gratificaziuns, prestaziuns en natiralias, indemnisaziuns da vacanzas e da firads sco er autras prestaziuns, plinavant bunamauns, sche quels correspundan ad ina part essenziala dal salari.
 
@@ -250,15 +250,15 @@ Il Cussegl federal po fixar salaris globals per confamigliars che collavuran en 
 
 **Contribuziuns d’entradas or da l’activitad da gudogn independenta 1. Princip**[^8-1]
 
-<sup>1</sup> Da l’entrada or da l’activitad da gudogn independenta vegn incassada ina contribuziun dad 8,1 pertschient. Per calcular la contribuziun vegn l’entrada arrundada giu sin ils proxims 100 francs. Sche quella importa main che 58 800[^8-2], dentant almain 9800 francs[^8-3] per onn, sa reducescha la tariffa da contribuziun fin a 4,35 pertschient tenor ina scala degressiva che vegn fixada dal Cussegl federal.
+<sup>1</sup> Da las entradas or da l’activitad da gudogn independenta vegn incassada ina contribuziun dad 8,1 pertschient. Per calcular la contribuziun vegnan las entradas arrundadas giu sin ils proxims 100 francs. Sch’ellas importan main che 60 500[^8-2], dentant almain 10 100 francs[^8-3] per onn, sa reducescha la tariffa da contribuziun fin a 4,35 pertschient tenor ina scala degressiva che vegn fixada dal Cussegl federal.
 
-<sup>2</sup> Sche l’entrada or da l’activitad da gudogn independenta importa 9700 francs[^8-4] per onn u damain, sto la persuna assicurada pajar la contribuziun minimala da 422 francs[^8-5] per onn, nun che quest import saja gia vegnì pajà sin ses salari decisiv. En quest cas po ella pretender che la contribuziun per l’activitad da gudogn independenta vegnia incassada tenor la tariffa la pli bassa da la scala degressiva.
+<sup>2</sup> Sche las entradas or da l’activitad da gudogn independenta importan 10 000 francs[^8-4] per onn u damain, sto la persuna assicurada pajar la contribuziun minimala da 435 francs[^8-5] per onn, nun che quest import saja gia vegnì pajà sin ses salari decisiv. En quest cas po ella pretender che la contribuziun per l’activitad da gudogn independenta vegnia incassada tenor la tariffa la pli bassa da la scala degressiva.
 
 [^8-1]: Versiun tenor la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^8-2]: Import tenor l’art. 1 lit. a da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^8-3]: Import tenor l’art. 1 lit. b da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^8-4]: Import tenor l’art. 2 al. 1 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^8-5]: Import tenor l’art. 2 al. 2 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^8-2]: Import tenor l’art. 1 lit. a da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-3]: Import tenor l’art. 1 lit. b da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-4]: Import tenor l’art. 2 al. 1 da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-5]: Import tenor l’art. 2 al. 2 da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 
 #### Art. 9
 
@@ -266,11 +266,11 @@ Il Cussegl federal po fixar salaris globals per confamigliars che collavuran en 
 
 <sup>1</sup> Entradas or da l’activitad da gudogn dependenta èn tut las entradas da gudogn che na derivan betg d’ina indemnisaziun per lavurs prestadas en plazza dependenta.
 
-<sup>2</sup> Il Cussegl federal è autorisà da permetter sche necessari ulteriuras deducziuns da l’entrada brutta or da l’activitad da gudogn independenta.
+<sup>2</sup> Il Cussegl federal è autorisà da permetter sche necessari ulteriuras deducziuns da las entradas bruttas or da l’activitad da gudogn independenta.
 
-Per eruir las entradas or da l’activitad da gudogn independenta vegnan deducids da l’entrada brutta:
+Per eruir las entradas or da l’activitad da gudogn independenta vegnan deducids da las entradas bruttas:
 
-- a. ils custs ch’èn necessaris per realisar l’entrada brutta;
+- a. ils custs ch’èn necessaris per realisar las entradas bruttas;
 - b. las amortisaziuns e las retenziuns motivadas da la fatschenta dal manaschi commerzial, che correspundan a la svalitaziun;
 - c. las perditas da fatschenta effectivas e cudeschadas;
 - d.[^9-1] las contribuziuns ch’il possessur d’ina fatschenta ha pajà durant la perioda da calculaziun ad instituziuns da provediment a favur da l’agen persunal, sch’igl è exclus che quellas vegnian duvradas cuntrari a l’intent, sco er contribuziuns per intents exclusivamain d’utilitad publica;
@@ -303,14 +303,14 @@ Il Cussegl federal po adattar a l’index da las rentas tenor l’artitgel 33<su
 
 [^10-1]
 
-<sup>1</sup> Las persunas senza activitad da gudogn pajan ina contribuziun tenor lur relaziuns socialas. La contribuziun minimala importa 422 francs[^10-2], la contribuziun maximala correspunda a 50 giadas la contribuziun minimala. Las persunas cun activitad da gudogn che pajan l’onn chalendar – eventualmain inclusiv la contribuziun dal patrun – main che 422 francs, valan sco persunas senza activitad da gudogn. Il Cussegl federal po augmentar l’import minimal tenor las relaziuns socialas da la persuna assicurada, sche quella n’ha betg permanentamain in’activitad da gudogn cumplaina.[^10-3]
+<sup>1</sup> Las persunas senza activitad da gudogn pajan ina contribuziun tenor lur relaziuns socialas. La contribuziun minimala importa 435 francs[^10-2], la contribuziun maximala correspunda a 50 giadas la contribuziun minimala. Las persunas cun activitad da gudogn che pajan l’onn chalendar – eventualmain inclusiv la contribuziun dal patrun – main che 435 francs, valan sco persunas senza activitad da gudogn. Il Cussegl federal po augmentar l’import minimal tenor las relaziuns socialas da la persuna assicurada, sche quella n’ha betg permanentamain in’activitad da gudogn cumplaina.[^10-3]
 
 <sup>2</sup>
 
 La contribuziun minimala pajan:
 
 - a. students senza activitad da gudogn fin ils 31 da december da l’onn ch’els cumpleneschan 25 onns;
-- b. persunas senza activitad da gudogn che survegnan in’entrada minimala u autras prestaziuns da l’agid social public;
+- b. persunas senza activitad da gudogn che survegnan entradas minimalas u autras prestaziuns da l’agid social public;
 - c. persunas senza activitad da gudogn che vegnan sustegnidas finanzialmain da terzas persunas.[^10-4]
 
 <sup>2bis</sup> Il Cussegl federal po prevair la contribuziun minimala per ulteriuras persunas senza activitad da gudogn, sch’i n’è betg raschunaivel da pretender dad ellas contribuziuns pli autas.[^10-5]
@@ -320,7 +320,7 @@ La contribuziun minimala pajan:
 <sup>4</sup> Il Cussegl federal po obligar scolas d’annunziar a la cassa da cumpensaziun cumpetenta tut ils students che pudessan esser obligads da pajar contribuziuns sco persunas senza activitad da gudogn. La cassa da cumpensaziun po delegar a la scola l’incumbensa d’incassar las contribuziuns debitadas, sche quella dat ses consentiment.[^10-6]
 
 [^10-1]: Versiun tenor la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^10-2]: Import tenor l’art. 2 al. 2 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^10-2]: Import tenor l’art. 2 al. 2 da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^10-3]: Versiun tenor la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^10-4]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^10-5]: Integrà tras la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
@@ -338,6 +338,34 @@ La contribuziun minimala pajan:
 
 [^11-1]: Versiun tenor la cifra I da la LF dals 24 da zer. 1977 (9. revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
+### B. Las contribuziuns dals patruns
+
+#### Art. 12
+
+**Patruns obligads da pajar contribuziuns**
+
+<sup>1</sup> Sco patrun vala tgi che paja a persunas assicuradas obligatoricamain indemnisaziuns per lavurs tenor l’artitgel 5 alinea 2.
+
+<sup>2</sup> Obligads da pajar contribuziuns èn tut ils patruns che han in manaschi en Svizra u che occupan persunas assicuradas obligatoricamain en lur tegnairchasa.[^12-1]
+
+<sup>3</sup>
+
+Resalvadas restan cunvegnas internaziunalas e praticas da dretg internaziunal areguard:
+
+- a. l’obligaziun da pajar contribuziuns da patruns senza manaschi en Svizra;
+- b. la deliberaziun da l’obligaziun da pajar contribuziuns da patruns cun in manaschi en Svizra.[^12-2]
+
+[^12-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^12-2]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+
+#### Art. 13
+
+**Autezza da la contribuziun dal patrun**[^13-1]
+
+La contribuziun dal patrun importa 4,35 pertschient da la summa dals salaris decisivs ch’èn vegnids pajads a las persunas ch’èn obligadas da pajar contribuziuns.
+
+[^13-1]: Versiun tenor la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+
 ### C. L’incassament da las contribuziuns
 
 #### Art. 14
@@ -346,7 +374,7 @@ La contribuziun minimala pajan:
 
 <sup>1</sup> Las contribuziuns da las entradas or da l’activitad da gudogn dependenta ston vegnir deducidas da mintga salari pajà. Ellas ston vegnir pajadas dal patrun periodicamain ensemen cun la contribuziun dal patrun.
 
-<sup>2</sup> Las contribuziuns da l’entrada or da l’activitad da gudogn independenta, las contribuziuns da las persunas senza activitad da gudogn sco er las contribuziuns dals lavurants d’in patrun che n’è betg obligà da pajar contribuziuns, ston vegnir fixadas e pajadas periodicamain. Il Cussegl federal fixescha las periodas da calculaziun e da contribuziun.[^14-1]
+<sup>2</sup> Las contribuziuns da las entradas or da l’activitad da gudogn independenta, las contribuziuns da las persunas senza activitad da gudogn sco er las contribuziuns dals lavurants d’in patrun che n’è betg obligà da pajar contribuziuns, ston vegnir fixadas e pajadas periodicamain. Il Cussegl federal fixescha las periodas da calculaziun e da contribuziun.[^14-1]
 
 <sup>2bis</sup>
 
@@ -370,7 +398,7 @@ Il Cussegl federal decretescha prescripziuns davart:
 
 <sup>5</sup> Il Cussegl federal po fixar ch’i na ston vegnir pajadas naginas contribuziuns sin in salari decisiv annual fin a l’import da la renta da vegliadetgna mensila maximala; el po excluder questa pussaivladad per activitads determinadas. Il lavurant po dentant pretender en mintga cas ch’il patrun paja las contribuziuns.[^14-10]
 
-<sup>6</sup> Il Cussegl federal po ultra da quai fixar che contribuziuns sin in’entrada annuala or d’ina activitad da gudogn independenta exequida en occupaziun accessorica fin a l’import da la renta da vegliadetgna mensila maximala vegnian incassadas mo sin dumonda da la persuna assicurada.[^14-11]
+<sup>6</sup> Il Cussegl federal po ultra da quai fixar che contribuziuns sin entradas annualas or d’ina activitad da gudogn independenta exequida en occupaziun accessorica fin a l’import da la renta da vegliadetgna mensila maximala vegnian incassadas mo sin dumonda da la persuna assicurada.[^14-11]
 
 [^14-1]: Versiun tenor la cifra I da la LF dals 30 da sett. 1953, en vigur dapi il 1. da schan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
 [^14-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -431,34 +459,6 @@ Il Cussegl federal decretescha prescripziuns davart:
 [^17-1]
 
 [^17-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1968, cun effect dapi il 1. da schan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-
-### B. Las contribuziuns dals patruns
-
-#### Art. 12
-
-**Patruns obligads da pajar contribuziuns**
-
-<sup>1</sup> Sco patrun vala tgi che paja a persunas assicuradas obligatoricamain indemnisaziuns per lavurs tenor l’artitgel 5 alinea 2.
-
-<sup>2</sup> Obligads da pajar contribuziuns èn tut ils patruns che han in manaschi en Svizra u che occupan persunas assicuradas obligatoricamain en lur tegnairchasa.[^12-1]
-
-<sup>3</sup>
-
-Resalvadas restan cunvegnas internaziunalas e praticas da dretg internaziunal areguard:
-
-- a. l’obligaziun da pajar contribuziuns da patruns senza manaschi en Svizra;
-- b. la deliberaziun da l’obligaziun da pajar contribuziuns da patruns cun in manaschi en Svizra.[^12-2]
-
-[^12-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^12-2]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-
-#### Art. 13
-
-**Autezza da la contribuziun dal patrun**[^13-1]
-
-La contribuziun dal patrun importa 4,35 pertschient da la summa dals salaris decisivs ch’èn vegnids pajads a las persunas ch’èn obligadas da pajar contribuziuns.
-
-[^13-1]: Versiun tenor la cifra I 5 da la LF dals 28 da sett. 2018 davart la refurma fiscala e la finanziaziun da la AVS, en vigur dapi il 1. da schan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Terz chapitel Las rentas
 
@@ -871,7 +871,7 @@ Il Cussegl federal decretescha prescripziuns per calcular las rentas.[^30bis-3] 
 Las entradas, per las qualas ils lavurants ston pajar contribuziuns, vegnan registradas en il conto individual sut quel onn ch’ellas èn vegnidas pajadas ora. Las entradas vegnan dentant registradas sut l’onn ch’ellas èn vegnidas cuntanschidas, sch’il lavurant:
 
 - a. na lavura betg pli per il patrun il mument ch’il salari vegn pajà;
-- b. cumprova che l’entrada, per la quala el sto pajar contribuziuns, deriva d’ina activitad da gudogn ch’el ha exequì durant in onn precedent e per la quala igl è vegnì pajà pli pauc che la contribuziun minimala.[^30ter-3]
+- b. cumprova che las entradas, per las qualas el sto pajar contribuziuns, derivan d’ina activitad da gudogn ch’el ha exequì durant in onn precedent e per las qualas igl è vegnì pajà pli pauc che la contribuziun minimala.[^30ter-3]
 
 <sup>4</sup> Las entradas da las persunas cun activitad da gudogn independenta, dals lavurants da patruns che n’èn betg obligads da pajar contribuziuns sco er da las persunas senza activitad da gudogn vegnan adina registradas sut quel onn, per il qual las contribuziuns vegnan fixadas.[^30ter-4]
 
@@ -973,10 +973,45 @@ Valair valan las suandantas disposiziuns:
 
 <sup>4</sup> L’import minimal vegn concedì, sche las entradas medias annualas decisivas èn maximalmain 12 giadas pli autas che l’import minimal, e l’import maximal vegn concedì, sche las entradas medias annualas decisivas èn almain 72 giadas pli autas che l’import minimal.
 
-<sup>5</sup> L’import minimal da la renta da vegliadetgna cumplaina da 1225 francs correspunda ad in index da las rentas da 222,7 puncts.[^34-2]
+<sup>5</sup> L’import minimal da la renta da vegliadetgna cumplaina da 1260 francs correspunda ad in index da las rentas da 229,1 puncts.[^34-2]
 
 [^34-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^34-2]: Import e stadi da l’index tenor ils art. 3 e 4 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG, en vigur dapi il 1. da schan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^34-2]: Import e stadi da l’index tenor ils art. 3 e 4 da l’O dals 28 d’avust 2024 davart adattaziuns al svilup dals salaris e dals pretschs tar la AVS/AI/CG a partir da l’onn 2025, en vigur dapi il 1. da schan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+
+#### Art. 34<sup>bis</sup>
+
+**1*a*. Mesira cumpensatorica per dunnas da la generaziun transitorica che na retiran betg anticipadamain lur renta da vegliadetgna**[^34bis-1]
+
+<sup>1</sup>
+
+Las dunnas da la generaziun transitorica che na retiran betg anticipadamain lur renta da vegliadetgna, han il dretg d’in supplement da renta, cura ch’ellas retiran la renta da vegliadetgna. Valair valan las suandantas disposiziuns:
+
+- a. sche las entradas medias annualas decisivas èn pli pitschnas u tuttina grondas sco l’import da la renta da vegliadetgna annuala minimala quatterdubla tenor l’artitgel 34, importa il supplement da basa 160 francs per mais;
+- b. sche las entradas medias annualas decisivas èn pli grondas che l’import da la renta da vegliadetgna annuala minimala quatterdubla tenor l’artitgel 34, dentant pli pitschnas u tuttina grondas sco l’import da la renta da vegliadetgna annuala minimala tschintgdubla tenor l’artitgel 34, importa il supplement da basa 100 francs per mais;
+- c. sche las entradas medias annualas decisivas èn pli grondas che l’import da la renta da vegliadetgna annuala minimala tschintgdubla tenor l’artitgel 34, importa il supplement da basa 50 francs per mais.
+
+<sup>2</sup> Il supplement da basa vegn graduà sco suonda:
+
+<table>
+<tr><th>Annada autorisada</th><th>Supplement mensil en % dal supplement da basa</th></tr>
+<tr><td>Dunnas da l’annada 1961</td><td>25</td></tr>
+<tr><td>Dunnas da l’annada 1962</td><td>50</td></tr>
+<tr><td>Dunnas da l’annada 1963</td><td>75</td></tr>
+<tr><td>Dunnas da l’annada 1964</td><td>100</td></tr>
+<tr><td>Dunnas da l’annada 1965</td><td>100</td></tr>
+<tr><td>Dunnas da l’annada 1966</td><td>81</td></tr>
+<tr><td>Dunnas da l’annada 1967</td><td>63</td></tr>
+<tr><td>Dunnas da l’annada 1968</td><td>44</td></tr>
+<tr><td>Dunnas da l’annada 1969</td><td>25</td></tr>
+</table>
+
+<sup>3</sup> A la generaziun transitorica appartegnan las dunnas che cuntanschan la vegliadetgna da referenza entaifer ils emprims 9 onns suenter l’entrada en vigur da questa disposiziun.
+
+<sup>4</sup> Il supplement da renta vegn pajà supplementarmain a la renta calculada tenor l’artitgel 34. El n’è betg suttamess a la reducziun tenor l’artitgel 35.
+
+<sup>5</sup> Il Cussegl federal regla ils detagls, en spezial il dretg da dunnas cun ina durada da contribuziun incumpletta.
+
+[^34bis-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (AVS 21), en vigur dal 1. da schan. 2025 fin ils 31 da dec. 2033 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 35
 
@@ -1065,7 +1100,7 @@ Sch’i vegnan ademplidas per il medem uffant tant las premissas per ina renta p
 
 [^part1-chap3-lvlB-lvlIV-1]
 
-[^part1-chap3-lvlB-lvlIV-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Guardar er disp. trans. da questa midada a la fin dal text.
+[^part1-chap3-lvlB-lvlIV-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024, art. 40*c* en vigur dal 1. da schan. 2025 fin ils 31 da dec. 2033 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Guardar er disp. trans. da questa midada a la fin dal text.
 
 #### Art. 39
 
@@ -1110,6 +1145,19 @@ Sch’i vegnan ademplidas per il medem uffant tant las premissas per ina renta p
 <sup>1</sup> Las persunas che han retratg anticipadamain ina part da lur renta da vegliadetgna pon suspender la part restanta da lur renta fin maximalmain 5 onns suenter la cumplenida da la vegliadetgna da referenza.
 
 <sup>2</sup> La part suspendida da la renta na po betg vegnir reducida, sche la part retratga anticipadamain è gia vegnida augmentada ina giada durant la perioda da la retratga anticipada.
+
+#### Art. 40c
+
+**Tariffas da reducziun per dunnas da la generaziun transitorica en cas d’ina retratga anticipada da la renta da vegliadetgna**
+
+Las dunnas da la generaziun transitorica pon retrair anticipadamain la renta a partir dal 62. onn da vegliadetgna cumplenì tenor las modalitads dals artitgels 40 e 40*b*. Per las rentas da vegliadetgna ch’ellas retiran anticipadamain vegnan applitgadas las suandantas tariffas da reducziun:
+
+<table>
+<tr><th>Onns da retratga anticipada</th><th>Tariffa da reducziun en %, sche las entradas medias annualas decisivas èn pli pitschnas u tuttina grondas sco l’import da la renta da vegliadetgna annuala minimala quatterdubla tenor l’art. 34</th><th>Tariffa da reducziun en %, sche las entradas medias annualas decisivas èn pli grondas che l’import da la renta da vegliadetgna annuala minimala quatterdubla tenor l’art. 34, dentant pli pitschnas u tuttina grondas sco l’import da la renta da vegliadetgna annuala minimala tschintgdubla tenor l’art. 34</th><th>Tariffa da reducziun en %, sche las entradas medias annualas decisivas èn pli grondas che l’import da la renta da vegliadetgna annuala minimala tschintgdubla tenor l’art. 34</th></tr>
+<tr><td>1</td><td>0</td><td>2,5</td><td>3,5</td></tr>
+<tr><td>2</td><td>2</td><td>4,5</td><td>6,5</td></tr>
+<tr><td>3</td><td>3</td><td>6,5</td><td>10,5</td></tr>
+</table>
 
 ### V. La reducziun da las rentas ordinarias
 
@@ -1165,7 +1213,7 @@ Sch’i vegnan ademplidas per il medem uffant tant las premissas per ina renta p
 [^43-1]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^43-2]: Abolì tras la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), cun effect dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^43-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^43-4]: Abolì tras la cifra I da la LF dals 21 da dec. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Versiun tenor la cifra 7 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^43-4]: Versiun tenor la cifra 7 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 ### D. L’indemnisaziun a persunas dependentas d’agid, la contribuziun d’assistenza ed ils meds auxiliars
 
@@ -1430,7 +1478,7 @@ Uschenavant che nagins interess privats predominants na s’opponan a quai, dast
 - c. als organs da la statistica federala, tenor la Lescha da statistica dals 9 d’october 1992[^50a-7];
 - c<sup>bis</sup>.[^50a-8] als registers chantunals da cancer ed al register da cancer d’uffants, tenor la Lescha federala dals 18 da mars 2016[^50a-9] davart la registraziun da las malsognas da cancer;
 - d. a las autoritads d’inquisiziun penala, sche la denunzia u l’impediment d’in crim pretenda da communitgar las datas;
-- [tab] d<sup>bis</sup>.[^50a-10] al Servetsch d’infurmaziun da la Confederaziun (SIC) u als organs da segirezza dals chantuns per mauns dal SIC, sch’igl è avant maun ina smanatscha concreta per la segirezza interna u externa tenor l’artitgel 19 alinea 2 da la Lescha federala dals 25 da settember 2015[^50a-11] davart il servetsch d’infurmaziun;
+- d<sup>bis</sup>.[^50a-10] al Servetsch d’infurmaziun da la Confederaziun (SIC) u als organs da segirezza dals chantuns per mauns dal SIC, sch’igl è avant maun ina smanatscha concreta per la segirezza interna u externa tenor l’artitgel 19 alinea 2 da la Lescha federala dals 25 da settember 2015[^50a-11] davart il servetsch d’infurmaziun;
 - e.
 
   en il cas singul e sin ina dumonda motivada en scrit:
@@ -1725,7 +1773,7 @@ La suprastanza da la cassa ha las suandantas incumbensas:
 [^60-1]: Integrà tras la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^60-2]: Integrà tras la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^60-3]: Versiun tenor la cifra I da la LF dals 7 d’oct. 1994 (10. revisiun da la AVS), en vigur dapi il 1. da schan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^60-4]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-4]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Guardar er disp. fin. a la fin da quest text.
 
 ### II. Las cassas da cumpensaziun chantunalas
 
@@ -1735,7 +1783,7 @@ La suprastanza da la cassa ha las suandantas incumbensas:
 
 <sup>1</sup> Mintga chantun constituescha, tras in decret, ina cassa da cumpensaziun chantunala sco institut chantunal autonom da dretg public. Resalvà resta l’alinea 1<sup>bis</sup>.[^61-1]
 
-<sup>1bis</sup> La cassa da cumpensaziun chantunala po far part d’in institut chantunal d’assicuranza sociala, sche quel è concepì sco institut chantunal autonom da dretg public e sch’el dispona d’ina cumissiun administrativa independenta dal chantun.[^61-2]
+<sup>1bis</sup> La cassa da cumpensaziun chantunala po esser affiliada ad in institut chantunal d’assicuranza sociala, sche quel è concepì sco institut chantunal autonom da dretg public e dispona d’ina cumissiun administrativa independenta dal chantun.[^61-2]
 
 <sup>2</sup>
 
@@ -1751,7 +1799,7 @@ Il decret chantunal sto vegnir approvà da la Confederaziun[^61-3] e sto cuntegn
 - g.[^61-8] l’instituziun da la cumissiun administrativa e sia grondezza, sia cumposiziun e sias cumpetenzas.
 
 [^61-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Guardar er disp. fin. a la fin da quest text.
-[^61-2]: Integrà tras la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Guardar er disp. fin. a la fin da quest text.
+[^61-2]: Integrà tras la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^61-3]: Expressiun tenor la cifra III da la LF dals 15 da dec. 1989 davart l’approvaziun da decrets chantunals tras la Confederaziun, en vigur dapi il 1. da favr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^61-4]: Abolì tras la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), cun effect dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^61-5]: Integrà tras la cifra I da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
@@ -2285,7 +2333,7 @@ Las sentenzias sco er las disposiziuns da sistida ston vegnir consegnadas immedi
 
 L’Uffizi central da cumpensaziun cumpareglia las retratgas da diarias da l’assicuranza cunter la dischoccupaziun, ch’èn vegnidas annunziadas ad el, cun las registraziuns en ils contos individuals, ch’èn vegnidas annunziadas ad el da las cassas da cumpensaziun. Sch’el constatescha en quest connex ch’ina persuna, che ha retratg ina diaria da l’assicuranza cunter la dischoccupaziun, ha realisà per la medema perioda entradas cun in’activitad da gudogn, annunzia el quai d’uffizi al post cumpetent da l’assicuranza cunter la dischoccupaziun per in scleriment supplementar.
 
-[^93-1]: Abolì tras la cifra 7 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Versiun tenor la cifra 6 da l’agiunta da la Lescha dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^93-1]: Versiun tenor la cifra 6 da l’agiunta da la Lescha dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 93<sup>bis</sup>
 
@@ -2438,7 +2486,7 @@ Las prestaziuns da l’assicuranza per vegls e survivents vegnan finanziadas tra
 [^102-5]: Integrà tras la cifra I 1 da la LF dals 5 d’oct. 1984, en vigur dapi il 1. da schan. 1986 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 [^102-6]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^102-7]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^102-8]: Abolì tras la cifra I da la LF dals 4 d’oct. 1968 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^102-8]: Versiun tenor la cifra II 24 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 103
 
@@ -2849,7 +2897,7 @@ La bunificaziun transitorica dastga dentant vegnir attribuida maximalmain per il
 
 <sup>3</sup> Ils patruns che han pajà ora – sin basa da l’artitgel 51 alinea 2 – il 1. da schaner 1997 sezs las rentas a lur lavurants u als survivents da quels, pon pajar er vinavant las rentas sut las medemas premissas sco fin ussa.
 
-[^u5-lvlg-1]: [[AS 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [872](https://fedlex.data.admin.ch/eli/oc/1995/872_872_872), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 5]
+[^u5-lvlg-1]: [[AS 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [872](https://fedlex.data.admin.ch/eli/oc/1995/872__), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 5]
 
 ### h. Prestaziuns a burgais da stadis senza cunvegnas davart las assicuranzas socialas cun la Svizra
 
@@ -3027,10 +3075,8 @@ La vegliadetgna da referenza importa:
 
 <sup>2</sup> Entaifer 2 onns suenter l’entrada en vigur da questa midada prendan las cassas da cumpensaziun las mesiras necessarias che resultan per ellas tras l’artitgel 66.
 
-Agiunta
+Agiunta[^t-2]
 
 ## Tariffa dals dazis sin il tubac
 
-[^annexu1-lvlu1-1]
-
-[^annexu1-lvlu1-1]: Abolì tras l’art. 46 lit. a da la LF dals 21 da mars 1969 davart l’imposiziun da taglia sin il tubac, cun effect dapi il 1. da schan. 1970 ([AS 1969 645](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [BBl 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).
+[^t-2]: Abolì tras l’art. 46 lit. a da la LF dals 21 da mars 1969 davart l’imposiziun da taglia sin il tubac, cun effect dapi il 1. da schan. 1970 ([AS 1969 645](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [BBl 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenve
 short: AHVG
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20240101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20240101-de-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20250101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20250101-de-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20240101/de"
 
 (AHVG)[^t-1]
 
-vom 20. Dezember 1946 (Stand am 1. Januar 2024)
+vom 20. Dezember 1946 (Stand am 1. Januar 2025)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -125,17 +125,17 @@ Der Versicherung können beitreten:
 
 <sup>3</sup> Versicherte, welche die nötigen Auskünfte nicht erteilen oder ihre Beiträge nicht fristgerecht bezahlen, werden aus der freiwilligen Versicherung ausgeschlossen.
 
-<sup>4</sup> Die Beiträge der erwerbstätigen Versicherten betragen 8,7 Prozent des massgebenden Einkommens. Die Versicherten müssen aber in jedem Fall den Mindestbeitrag von 844 Franken[^2-3] im Jahr entrichten.[^2-4]
+<sup>4</sup> Die Beiträge der erwerbstätigen Versicherten betragen 8,7 Prozent des massgebenden Einkommens. Die Versicherten müssen aber in jedem Fall den Mindestbeitrag von 870 Franken[^2-3] im Jahr entrichten.[^2-4]
 
-<sup>5</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag liegt bei 844 Franken[^2-5] pro Jahr. Der Höchstbeitrag entspricht dem 25‑fachen Mindestbeitrag.[^2-6]
+<sup>5</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag liegt bei 870 Franken[^2-5] pro Jahr. Der Höchstbeitrag entspricht dem 25‑fachen Mindestbeitrag.[^2-6]
 
 <sup>6</sup> Der Bundesrat erlässt ergänzende Vorschriften über die freiwillige Versicherung; er bestimmt insbesondere die Frist und die Modalitäten des Beitritts, des Rücktritts und des Ausschlusses. Ferner regelt er die Festsetzung und Erhebung der Beiträge sowie die Gewährung von Leistungen. Er kann die Bestimmungen betreffend die Dauer der Beitragspflicht, die Berechnung der Beiträge sowie den Beitragsbezug den Besonderheiten der freiwilligen Versicherung anpassen.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^2-2]: Fassung gemäss Ziff. I 3 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^2-3]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^2-3]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^2-4]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^2-5]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^2-5]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^2-6]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Zweiter Abschnitt: Die Beiträge
@@ -248,15 +248,15 @@ Der Bundesrat kann für mitarbeitende Familienmitglieder in der Landwirtschaft G
 
 **Beiträge von Einkommen aus selbstständiger Erwerbstätigkeit 1. Grundsatz**[^8-1]
 
-<sup>1</sup> Vom Einkommen aus selbstständiger Erwerbstätigkeit wird ein Beitrag von 8,1 Prozent erhoben. Das Einkommen wird für die Berechnung des Beitrages auf die nächsten 100 Franken abgerundet. Beträgt es weniger als 58 800[^8-2], aber mindestens 9 800 Franken[^8-3] im Jahr, so vermindert sich der Beitragssatz nach einer vom Bundesrat aufzustellenden sinkenden Skala bis auf 4,35 Prozent.
+<sup>1</sup> Vom Einkommen aus selbstständiger Erwerbstätigkeit wird ein Beitrag von 8,1 Prozent erhoben. Das Einkommen wird für die Berechnung des Beitrages auf die nächsten 100 Franken abgerundet. Beträgt es weniger als 60 500[^8-2], aber mindestens 10 100 Franken[^8-3] im Jahr, so vermindert sich der Beitragssatz nach einer vom Bundesrat aufzustellenden sinkenden Skala bis auf 4,35 Prozent.
 
-<sup>2</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit 9 700 Franken[^8-4] oder weniger im Jahr, so hat der Versicherte den Mindestbeitrag von 422 Franken[^8-5] im Jahr zu entrichten, es sei denn, dieser Betrag sei bereits auf seinem massgebenden Lohn entrichtet worden. In diesem Fall kann er verlangen, dass der Beitrag für die selbstständige Erwerbstätigkeit zum untersten Satz der sinkenden Skala erhoben wird.
+<sup>2</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit 10 000 Franken[^8-4] oder weniger im Jahr, so hat der Versicherte den Mindestbeitrag von 435 Franken[^8-5] im Jahr zu entrichten, es sei denn, dieser Betrag sei bereits auf seinem massgebenden Lohn entrichtet worden. In diesem Fall kann er verlangen, dass der Beitrag für die selbstständige Erwerbstätigkeit zum untersten Satz der sinkenden Skala erhoben wird.
 
 [^8-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^8-2]: Betrag gemäss Art. 1 Bst. a der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^8-3]: Betrag gemäss Art. 1 Bst. b der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^8-4]: Betrag gemäss Art. 2 Abs. 1 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
-[^8-5]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^8-2]: Betrag gemäss Art. 1 Bst. a der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-3]: Betrag gemäss Art. 1 Bst. b der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-4]: Betrag gemäss Art. 2 Abs. 1 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-5]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 
 #### Art. 9
 
@@ -301,7 +301,7 @@ Der Bundesrat kann die Grenzen der sinkenden Beitragsskala nach Artikel 8 sowie 
 
 [^10-1]
 
-<sup>1</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt 422 Franken[^10-2], der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Erwerbstätige, die im Kalenderjahr, gegebenenfalls mit Einschluss des Arbeitgeberbeitrages, weniger als 422 Franken entrichten, gelten als Nichterwerbstätige. Der Bundesrat kann den Grenzbetrag nach den sozialen Verhältnissen des Versicherten erhöhen, wenn dieser nicht dauernd voll erwerbstätig ist.[^10-3]
+<sup>1</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt 435 Franken[^10-2], der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Erwerbstätige, die im Kalenderjahr, gegebenenfalls mit Einschluss des Arbeitgeberbeitrages, weniger als 435 Franken entrichten, gelten als Nichterwerbstätige. Der Bundesrat kann den Grenzbetrag nach den sozialen Verhältnissen des Versicherten erhöhen, wenn dieser nicht dauernd voll erwerbstätig ist.[^10-3]
 
 <sup>2</sup>
 
@@ -318,7 +318,7 @@ Den Mindestbeitrag bezahlen:
 <sup>4</sup> Der Bundesrat kann Lehranstalten verpflichten, der zuständigen Ausgleichskasse alle Studierenden zu melden, die als Nichterwerbstätige beitragspflichtig sein könnten. Die Ausgleichskasse kann den Bezug der geschuldeten Beiträge der Lehranstalt übertragen, falls diese zustimmt.[^10-6]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^10-2]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^10-2]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^10-3]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^10-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^10-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
@@ -971,10 +971,45 @@ Es gelten folgende Bestimmungen:
 
 <sup>4</sup> Der Mindestbetrag wird gewährt, wenn das massgebende durchschnittliche Jahreseinkommen höchstens zwölfmal grösser ist, und der Höchstbetrag, wenn das massgebende durchschnittliche Jahreseinkommen wenigstens zweiundsiebzigmal grösser ist als der Mindestbetrag.
 
-<sup>5</sup> Der Mindestbetrag der vollen Altersrente von 1225 Franken entspricht dem Rentenindex von 222,7 Punkten.[^34-2]
+<sup>5</sup> Der Mindestbetrag der vollen Altersrente von 1260 Franken entspricht dem Rentenindex von 229,1 Punkten.[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^34-2]: Betrag und Indexstand gemäss Art. 3 und 4 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^34-2]: Betrag und Indexstand gemäss Art. 3 und 4 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+
+#### Art. 34<sup>bis</sup>
+
+**1*a*. Ausgleichsmassnahme für Frauen der Übergangsgeneration, die ihre Altersrente nicht vorbeziehen**[^34bis-1]
+
+<sup>1</sup>
+
+Frauen der Übergangsgeneration, die ihre Altersrente nicht vorbeziehen, haben beim Bezug der Altersrente Anspruch auf einen Rentenzuschlag. Es gelten die folgenden Bestimmungen:
+
+- a. Ist das massgebende durchschnittliche Jahreseinkommen tiefer als oder gleich hoch wie der Betrag der vierfachen minimalen jährlichen Altersrente nach Artikel 34, so beträgt der Grundzuschlag 160 Franken pro Monat.
+- b. Ist das massgebende durchschnittliche Jahreseinkommen höher als der Betrag der vierfachen minimalen jährlichen Altersrente nach Artikel 34, aber tiefer als oder gleich hoch wie der Betrag der fünffachen minimalen jährlichen Altersrente nach Artikel 34, so beträgt der Grundzuschlag 100 Franken pro Monat.
+- c. Ist das massgebende durchschnittliche Jahreseinkommen höher als der Betrag der fünffachen minimalen jährlichen Altersrente nach Artikel 34, so beträgt der Grundzuschlag 50 Franken pro Monat.
+
+<sup>2</sup> Der Grundzuschlag wird folgendermassen abgestuft:
+
+<table>
+<tr><th>Anspruchsberechtigter Jahrgang</th><th>Monatlicher Zuschlag in Prozent des Grundzuschlags</th></tr>
+<tr><td>Frauen mit Jahrgang 1961</td><td>25</td></tr>
+<tr><td>Frauen mit Jahrgang 1962</td><td>50</td></tr>
+<tr><td>Frauen mit Jahrgang 1963</td><td>75</td></tr>
+<tr><td>Frauen mit Jahrgang 1964</td><td>100</td></tr>
+<tr><td>Frauen mit Jahrgang 1965</td><td>100</td></tr>
+<tr><td>Frauen mit Jahrgang 1966</td><td>81</td></tr>
+<tr><td>Frauen mit Jahrgang 1967</td><td>63</td></tr>
+<tr><td>Frauen mit Jahrgang 1968</td><td>44</td></tr>
+<tr><td>Frauen mit Jahrgang 1969</td><td>25</td></tr>
+</table>
+
+<sup>3</sup> Der Übergangsgeneration gehören die Frauen an, die das Referenzalter in den ersten neun Jahren nach Inkrafttreten dieser Bestimmung erreichen.
+
+<sup>4</sup> Der Rentenzuschlag wird zusätzlich zur nach Artikel 34 berechneten Rente ausbezahlt. Er unterliegt nicht der Kürzung gemäss Artikel 35.
+
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere den Anspruch von Frauen mit einer unvollständigen Beitragsdauer.
+
+[^34bis-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2033 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 35
 
@@ -1063,7 +1098,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 
 [^part1-chap3-lvlB-lvlIV-1]
 
-[^part1-chap3-lvlB-lvlIV-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^part1-chap3-lvlB-lvlIV-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024, Art. 40*c* in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2033 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 39
 
@@ -1108,6 +1143,19 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 <sup>1</sup> Personen, die einen Teil ihrer Altersrente vorbezogen haben, können den restlichen Teil ihrer Rente bis längstens fünf Jahre nach Erreichen des Referenzalters aufschieben.
 
 <sup>2</sup> Der aufgeschobene Teil der Rente kann nicht gesenkt werden, wenn der vorbezogene Teil während der Vorbezugsdauer bereits einmal erhöht worden ist.
+
+#### Art. 40c
+
+**Kürzungssätze für Frauen der Übergangsgeneration bei der vorbezogenen Altersrente**
+
+Frauen der Übergangsgeneration können die Rente nach den Modalitäten der Artikel 40 und 40*b* ab dem vollendeten 62. Altersjahr vorbeziehen. Für sie werden folgende Kürzungssätze auf die vorbezogenen Altersrenten angewendet:
+
+<table>
+<tr><th>Vorbezugsjahre</th><th>Kürzungssatz in %, wenn das massgebende durchschnittliche Jahreseinkommen tiefer als oder gleich hoch ist wie der Betrag der vierfachen minimalen jährlichen Altersrente nach Art. 34</th><th>Kürzungssatz in %, wenn das massgebende durchschnittliche Jahreseinkommen höher als der Betrag der vierfachen minimalen jährlichen Altersrente nach Art. 34, aber tiefer als oder gleich hoch ist wie der Betrag der fünffachen minimalen jährlichen Altersrente nach Art. 34</th><th>Kürzungssatz in %, wenn das massgebende durchschnittliche Jahreseinkommen höher ist als der Betrag der fünffachen minimalen jährlichen Altersrente nach Art. 34</th></tr>
+<tr><td>1</td><td>0</td><td>2,5</td><td>3,5</td></tr>
+<tr><td>2</td><td>2</td><td>4,5</td><td>6,5</td></tr>
+<tr><td>3</td><td>3</td><td>6,5</td><td>10,5</td></tr>
+</table>
 
 ### V. Die Kürzung der ordentlichen Renten
 
@@ -1723,7 +1771,7 @@ Dem Kassenvorstand obliegen:
 [^60-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^60-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^60-3]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^60-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
 
 ### II. Die kantonalen Ausgleichskassen
 
@@ -1749,7 +1797,7 @@ Der kantonale Erlass bedarf der Genehmigung des Bundes[^61-3] und muss Bestimmun
 - g.[^61-8] die Errichtung der Verwaltungskommission und über deren Grösse, Zusammensetzung und Zuständigkeiten.
 
 [^61-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
-[^61-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
+[^61-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^61-3]: Ausdruck gemäss Ziff. III des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, in Kraft seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^61-4]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^61-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
@@ -2257,7 +2305,7 @@ Die Urteile sowie die Einstellungsverfügungen sind in vollständiger Ausführun
 
 <sup>1</sup> Wer Ordnungs- und Kontrollvorschriften verletzt, ohne dass die Verletzung gemäss Artikel 87 oder 88 unter Strafe gestellt ist, wird von der Ausgleichskasse nach vorausgegangener Mahnung mit einer Ordnungsbusse bis zu 1000 Franken belegt. Im Wiederholungsfall innert zweier Jahre kann eine Ordnungsbusse bis zu 5000 Franken ausgesprochen werden.[^91-2]
 
-<sup>2</sup> 2Die Bussenverfügung ist zu begründen.[^91-3]
+<sup>2</sup> Die Bussenverfügung ist zu begründen.[^91-3]
 
 [^91-1]: Fassung gemäss Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^91-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
@@ -2847,7 +2895,7 @@ Die Übergangsgutschrift darf jedoch höchstens für die Anzahl der Jahre angere
 
 <sup>3</sup> Arbeitgeber, welche am 1. Januar 1997 die Renten gestützt auf Artikel 51 Absatz 2 selbst an ihre Arbeitnehmer oder deren Hinterlassene ausbezahlt haben, können die Rentenauszahlungen auch weiterhin unter den bisherigen Voraussetzungen vornehmen.
 
-[^u5-lvlg-1]: [[AS 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [872](https://fedlex.data.admin.ch/eli/oc/1995/872_872_872), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 5]
+[^u5-lvlg-1]: [[AS 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [872](https://fedlex.data.admin.ch/eli/oc/1995/872__), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 5]
 
 ### h. Leistungen an Angehörige von Staaten ohne Sozialversicherungsabkommen mit der Schweiz
 
@@ -3025,10 +3073,8 @@ Das Referenzalter liegt bei:
 
 <sup>2</sup> Die Ausgleichskassen ergreifen die erforderlichen Massnahmen, die sich für sie aus Artikel 66 ergeben, innert zwei Jahren nach Inkrafttreten dieser Änderung.
 
-Anhang
+Anhang[^t-2]
 
 ## Tarif der Tabakzölle
 
-[^annexu1-lvlu1-1]
-
-[^annexu1-lvlu1-1]: Aufgehoben durch Art. 46 Bst. *a* des BG vom 21. März 1969 über die Tabakbesteuerung ([AS 1969 645](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [BBl 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).
+[^t-2]: Aufgehoben durch Art. 46 Bst. *a* des BG vom 21. März 1969 über die Tabakbesteuerung ([AS 1969 645](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [BBl 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).
