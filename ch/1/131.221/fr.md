@@ -3,11 +3,11 @@ sr: "131.221"
 title: "Constitution du canton de Soleure, du 8 juin 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga"
 language: fr
-version: 2023-03-06
+version: 2025-01-01
 adopted: 1986-06-08
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20230306-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/fr"
 
 Traduction[^t-1]
 
-du 8 juin 1986 (État le 6 mars 2023)[^t-2]
+du 8 juin 1986 (État le 1<sup>er</sup> janvier 2025)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Le peuple du canton de Soleure,
 
@@ -115,7 +115,7 @@ La liberté de croyance et de conscience, ainsi que la liberté de culte sont in
 
 <sup>3</sup> Chacun a le droit d’accéder aux documents officiels. La loi définit ce droit.[^11-1]
 
-[^11-1]: Accepté en [votation populaire du 2 déc. 2001](http://www.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 24 oct. 2002. Garantie de l’Ass. féd. du 23 sept. 2002 ([FF 2002 6133](https://fedlex.data.admin.ch/eli/fga/2002/1047)art. 1 ch. 4, [3304](https://fedlex.data.admin.ch/eli/fga/2002/493)).
+[^11-1]: Accepté en votation populaire du 2 déc. 2001, en vigueur depuis le 24 oct. 2002. Garantie de l’Ass. féd. du 23 sept. 2002 ([FF 2002 6133](https://fedlex.data.admin.ch/eli/fga/2002/1047)art. 1 ch. 4, [3304](https://fedlex.data.admin.ch/eli/fga/2002/493)).
 
 #### Art. 12
 
@@ -183,7 +183,7 @@ La liberté d’établissement est garantie.
 
 <sup>3</sup> Les personnes arrêtées doivent être immédiatement déférées à un tribunal désigné par la loi et indépendant qui décide de la détention à titre préventif ou à des fins de sécurité.[^19-1]
 
-[^19-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^19-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 20
 
@@ -243,7 +243,7 @@ Chacun doit remplir les devoirs que lui impose l’ordre juridique.
 
 <sup>3</sup> La loi règle l’exclusion du droit de vote.
 
-[^25-1]: Accepté en [votation populaire du 2 juin 1991](http://www.admin.ch/ch/f/pore/va/19910602/index.html), en vigueur depuis le 3 oct. 1991. Garantie de l’Ass. féd. du 3 oct. 1991 ([FF 1991 IV 196](https://fedlex.data.admin.ch/eli/fga/1991/4__196_)art. 1 ch. 2, III 1113).
+[^25-1]: Accepté en votation populaire du 2 juin 1991, en vigueur depuis le 3 oct. 1991. Garantie de l’Ass. féd. du 3 oct. 1991 ([FF 1991 IV 196](https://fedlex.data.admin.ch/eli/fga/1991/4__196_)art. 1 ch. 2, III 1113).
 
 ### III. Droit de pétition
 
@@ -290,11 +290,11 @@ Le peuple élit:
   - 1\. les membres du conseil communal,
   - 2\.[^27-5] le maire.
 
-[^27-1]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^27-2]: Abrogée en [votation populaire du 4 mars 2001](http://www.admin.ch/ch/f/pore/va/20010304/index.html), avec effet au 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4, [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^27-3]: Abrogée en [votation populaire du 4 mars 2001](http://www.admin.ch/ch/f/pore/va/20010304/index.html), avec effet au 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4, [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^27-4]: Abrogée en [votation populaire du 4 mars 2001](http://www.admin.ch/ch/f/pore/va/20010304/index.html), avec effet au 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4, [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^27-5]: Acceptée en [votation populaire du 25 sept. 2005](http://www.admin.ch/ch/f/pore/va/20050925/index.html), en vigueur depuis le 1<sup>er</sup> nov. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 2, [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^27-1]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^27-2]: Abrogée en votation populaire du 4 mars 2001, avec effet au 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4, [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^27-3]: Abrogée en votation populaire du 4 mars 2001, avec effet au 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4, [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^27-4]: Abrogée en votation populaire du 4 mars 2001, avec effet au 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4, [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^27-5]: Acceptée en votation populaire du 25 sept. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 2, [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 #### Art. 28
 
@@ -310,7 +310,7 @@ Le peuple élit:
 
 [^sec2-lvlV-1]
 
-[^sec2-lvlV-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^sec2-lvlV-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 29
 
@@ -329,8 +329,8 @@ Le peuple a le droit de demander, au moyen d’une initiative:
 
 <sup>3</sup> Les autres initiatives peuvent être conçues en termes généraux ou présentées sous la forme d’un projet rédigé, à l’exception de l’initiative en matière d’enveloppe budgétaire qui ne peut être conçue qu’en termes généraux. Elles doivent porter sur un domaine présentant une unité et contenir une clause de retrait.[^29-2]
 
-[^29-1]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^29-2]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^29-1]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^29-2]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 30
 
@@ -342,7 +342,7 @@ Le peuple a le droit de demander, au moyen d’une initiative:
 
 <sup>3</sup> Une initiative aboutit lorsqu’elle est soutenue dans les 18 mois qui suivent la publication officielle de son texte, par 3000 citoyens actifs ou par dix communes politiques. L’initiative en matière d’enveloppe budgétaire est régie par l’art. 33*a.*[^30-1]
 
-[^30-1]: Phrase acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^30-1]: Phrase acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 31
 
@@ -358,7 +358,7 @@ Le Grand Conseil déclare nulle l’initiative populaire qui ne satisfait pas au
 
 <sup>2</sup> Lorsque le Grand Conseil ne l’approuve pas, l’initiative conçue en termes généraux est soumise dans le délai d’une année au vote du peuple. Lorsque le Grand Conseil ou le peuple approuve l’initiative, le Grand Conseil présente, dans les deux ans qui suivent l’acceptation de l’initiative, un texte qui réalise cette dernière. Ce texte est soumis, en même temps qu’un contre-projet éventuel, à la décision du peuple. L’initiative en matière d’enveloppe budgétaire est régie par l’art. 33*a.*[^32-1]
 
-[^32-1]: Phrase acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^32-1]: Phrase acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 33
 
@@ -376,7 +376,7 @@ Le Grand Conseil déclare nulle l’initiative populaire qui ne satisfait pas au
 
 <sup>2</sup> Dans les douze mois qui précèdent l’échéance de l’enveloppe budgétaire, le Grand Conseil adopte un projet répondant au but de la demande. Ce projet est soumis à la votation populaire au plus tard 6 mois avant l’échéance de la période de l’enveloppe budgétaire, en même temps qu’un éventuel contre-projet. Pour assurer le financement de l’objet de l’initiative, il peut être lié à une modification de la quotité d’impôt.
 
-[^33a-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^33a-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 34
 
@@ -386,7 +386,7 @@ Le Grand Conseil déclare nulle l’initiative populaire qui ne satisfait pas au
 
 <sup>2</sup> La loi règle les détails.
 
-[^34-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^34-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 ### VI. Votations populaires (référendum)
 
@@ -412,9 +412,9 @@ Sont obligatoirement soumis au vote du peuple:
 
 <sup>2</sup> Lorsque le peuple est appelé à se prononcer sur une loi ou sur un arrêté, le Grand Conseil peut édicter de soumettre au vote des dispositions particulières, munies ou non d’une variante, parallèlement à la votation sur l’ensemble du texte.
 
-[^35-1]: Acceptée en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
-[^35-2]: Acceptée en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
-[^35-3]: Acceptée en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
+[^35-1]: Acceptée en votation populaire du 29 nov. 1998, en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
+[^35-2]: Acceptée en votation populaire du 29 nov. 1998, en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
+[^35-3]: Acceptée en votation populaire du 29 nov. 1998, en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
 
 #### Art. 36
 
@@ -429,7 +429,7 @@ Sont soumis au vote du peuple, à la demande de 1500 citoyens actifs ou de cinq 
 
 <sup>2</sup> La votation populaire a lieu lorsque la demande en est faite dans les 90 jours qui suivent la publication officielle de l’arrêté ou de la décision du Grand Conseil.
 
-[^36-1]: Acceptée en [votation populaire du 29 nov. 1998](http://www.admin.ch/ch/f/pore/va/19981129/index.html), en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
+[^36-1]: Acceptée en votation populaire du 29 nov. 1998, en vigueur depuis le 11 déc. 1998. Garantie de l’Ass. féd. du 21 déc. 1999 ([FF 2000 127](https://fedlex.data.admin.ch/eli/fga/2000/39)art. 1 ch. 3, [1999 4957](https://fedlex.data.admin.ch/eli/fga/1999/1_5397_4957_4649)).
 
 #### Art. 37
 
@@ -448,9 +448,9 @@ Sont exclus de la votation populaire facultative les arrêtés du Grand Conseil 
 
 <sup>2</sup> La loi sur l’exercice des droits populaires peut prévoir d’autres exceptions concernant des arrêtés du Grand Conseil qui revêtent une importance moindre.
 
-[^37-1]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^37-2]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^37-3]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^37-1]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^37-2]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^37-3]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 ### VII. Participation à la formation de l’opinion
 
@@ -522,8 +522,8 @@ Le territoire du canton se compose des cinq districts suivants, chaque district 
 
 <sup>3</sup> Les districts forment les cercles électoraux pour les élections au Grand Conseil.[^43-2]
 
-[^43-1]: Accepté en [votation populaire du 8 fév. 2004](http://www.admin.ch/ch/f/pore/va/20040208/index.html), en vigueur depuis le 20 fév. 2004. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^43-2]: Accepté en [votation populaire du 3 mars 2002](http://www.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 4 mars 2003. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 4, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
+[^43-1]: Accepté en votation populaire du 8 fév. 2004, en vigueur depuis le 20 fév. 2004. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^43-2]: Accepté en votation populaire du 3 mars 2002, en vigueur depuis le 4 mars 2003. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 4, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
 
 #### Art. 44
 
@@ -533,7 +533,7 @@ Le territoire du canton se compose des cinq districts suivants, chaque district 
 
 <sup>2</sup> La loi règle l’organisation et la compétence de ces organes.
 
-[^44-1]: Accepté en [votation populaire du 8 fév. 2004](http://www.admin.ch/ch/f/pore/va/20040208/index.html), en vigueur depuis le 20 fév. 2004. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^44-1]: Accepté en votation populaire du 8 fév. 2004, en vigueur depuis le 20 fév. 2004. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 ### III. Communes et syndicats de communes
 
@@ -673,7 +673,7 @@ La commune bourgeoise a en particulier les tâches suivantes:
 
 <sup>4</sup> Ne peuvent pas non plus être membres du Grand Conseil les membres à titre accessoire et les membres suppléants des tribunaux cantonaux qui sont soumis à la surveillance directe du Grand Conseil.[^58-1]
 
-[^58-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> août 2013. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 2 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^58-1]: Accepté en votation populaire du 23 sept. 2012, en vigueur depuis le 1<sup>er</sup> août 2013. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 2 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 59
 
@@ -703,7 +703,7 @@ Les fonctions publiques doivent être conférées aux personnes les mieux qualif
 
 Lors de leur entrée en fonction, les membres des autorités et les fonctionnaires élus par le peuple ou par le Grand Conseil promettent solennellement de respecter la Constitution et la loi.
 
-[^62-1]: Accepté en [votation populaire du 4 mars 2001](http://www.admin.ch/ch/f/pore/va/20010304/index.html), en vigueur depuis le 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^62-1]: Accepté en votation populaire du 4 mars 2001, en vigueur depuis le 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 #### Art. 63
 
@@ -735,7 +735,7 @@ Les membres du Grand Conseil et du Conseil d’État n’encourent juridiquement
 
 Le Grand Conseil est l’autorité législative et la plus haute autorité de surveillance du canton. Il se compose de 100 membres.[^66-1]
 
-[^66-1]: Phrase acceptée en [votation populaire du 3 mars 2002](http://www.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 1<sup>er</sup> mai 2004. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 4, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
+[^66-1]: Phrase acceptée en votation populaire du 3 mars 2002, en vigueur depuis le 1<sup>er</sup> mai 2004. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 4, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
 
 #### Art. 67
 
@@ -745,7 +745,7 @@ Le Grand Conseil est l’autorité législative et la plus haute autorité de su
 
 <sup>2</sup> La répartition des sièges aux cercles électoraux s’effectue selon un arrêté du Grand Conseil élaboré sur la base des chiffres de la statistique démographique cantonale la plus récente. Le rapport entre la population de résidence des cercles électoraux et celle du canton est déterminant.[^67-1]
 
-[^67-1]: Accepté en [votation populaire du 3 mars 2002](http://www.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 4 mars 2003. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 4, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
+[^67-1]: Accepté en votation populaire du 3 mars 2002, en vigueur depuis le 4 mars 2003. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 4, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
 
 #### Art. 68
 
@@ -769,8 +769,8 @@ La loi règle les grandes lignes de l’organisation du Grand Conseil ainsi que 
 
 <sup>2</sup> Les membres du Conseil d’État participent aux séances du Grand Conseil; ils ont voix consultative et peuvent présenter des propositions concernant les affaires en délibération.
 
-[^70-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^70-2]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^70-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^70-2]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 8 mars 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 70<sup>bis</sup>
 
@@ -778,7 +778,7 @@ La loi règle les grandes lignes de l’organisation du Grand Conseil ainsi que 
 
 Le président de la Cour suprême participe aux séances du Conseil d’État consacrées au budget, aux comptes et au rapport d’activité des tribunaux; il dispose d’une voix consultative et peut faire des propositions.
 
-[^70bis-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 2, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^70bis-1]: Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 2, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 71
 
@@ -790,7 +790,7 @@ Le président de la Cour suprême participe aux séances du Conseil d’État co
 
 <sup>3</sup> Le Grand Conseil peut déposer une initiative parlementaire portant sur l’objet d’un mandat ou d’un arrêté de planification qui n’ont pas été exécutés. La loi règle les détails.[^71-1]
 
-[^71-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^71-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 72
 
@@ -808,7 +808,7 @@ Le président de la Cour suprême participe aux séances du Conseil d’État co
 
 <sup>2</sup> En adoptant l’arrêté de planification, le Grand Conseil charge le Conseil d’État d’accomplir une tâche étatique dans une direction déterminée.
 
-[^73-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^73-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 74
 
@@ -826,11 +826,11 @@ Le Grand Conseil:
 
 <sup>3</sup> La loi peut déléguer l’autorisation provisoire d’engager une dépense qui ne souffre aucun retard à la commission des finances. L’autorisation est soumise à l’approbation du Grand Conseil.[^74-5]
 
-[^74-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^74-2]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^74-3]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^74-4]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^74-5]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^74-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^74-2]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^74-3]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^74-4]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^74-5]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 75
 
@@ -849,9 +849,9 @@ Le Grand Conseil désigne:
 
 <sup>2</sup> La loi peut confier d’autres nominations au Grand Conseil. Elle détermine les postes qui doivent être mis au concours.
 
-[^75-1]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^75-2]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^75-3]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-1]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-2]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^75-3]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 76
 
@@ -874,8 +874,8 @@ Le Grand Conseil:
 
 <sup>3</sup> La législation attribue au Grand Conseil la compétence d’octroyer les concessions importantes.
 
-[^76-1]: Abrogée en [votation populaire du 6 juin 1993](http://www.admin.ch/ch/f/pore/va/19930606/index.html), avec effet au 18 juin 1993. Garantie de l’Ass. féd. du 9 juin 1994 ([FF 1994 III 334](https://fedlex.data.admin.ch/eli/fga/1994/3__334_)art. 1 ch. 1, [1993 IV 473](https://fedlex.data.admin.ch/eli/fga/1993/4__473_)).
-[^76-2]: [RS **1** 3; RO **1949** 614, [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)]. Aux disp. mentionnées correspondent actuellement les art. 45, 136, 140, 141, 151, 159, 160 et 165 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^76-1]: Abrogée en votation populaire du 6 juin 1993, avec effet au 18 juin 1993. Garantie de l’Ass. féd. du 9 juin 1994 ([FF 1994 III 334](https://fedlex.data.admin.ch/eli/fga/1994/3__334_)art. 1 ch. 1, [1993 IV 473](https://fedlex.data.admin.ch/eli/fga/1993/4__473_)).
+[^76-2]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; RO **1949** 614, [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)]. Aux disp. mentionnées correspondent actuellement les art. 45, 136, 140, 141, 151, 159, 160 et 165 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### III. Conseil d’État et administration
 
@@ -897,7 +897,7 @@ Le Grand Conseil:
 
 <sup>2</sup> Il élabore au début de chaque période législative un programme de la législature et un plan intégré des tâches et des finances.[^78-1] À la fin de la législature, il fait rapport au Grand Conseil sur leur réalisation.
 
-[^78-1]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^78-1]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 79
 
@@ -911,7 +911,7 @@ Le Grand Conseil:
 
 <sup>4</sup> Le Conseil d’État peut en outre édicter des ordonnances pour prévenir ou faire cesser des troubles actuels ou imminents de l’ordre ou de la sécurité publics ou pour faire face à des situations de nécessité. De telles ordonnances doivent être soumises immédiatement à l’approbation du Grand Conseil. Elles cessent d’avoir effet au plus tard une année après être entrées en vigueur.
 
-[^79-1]: Accepté en [votation populaire du 29 juin 2003](http://www.admin.ch/ch/f/pore/va/20030629/index.html), en vigueur depuis le 3 mars 2004. Garantie de l’Ass. féd. du 10 mars 2004 ([FF 2004 1273](https://fedlex.data.admin.ch/eli/fga/2004/263)art. 1 ch. 3, [2003 7377](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+[^79-1]: Accepté en votation populaire du 29 juin 2003, en vigueur depuis le 3 mars 2004. Garantie de l’Ass. féd. du 10 mars 2004 ([FF 2004 1273](https://fedlex.data.admin.ch/eli/fga/2004/263)art. 1 ch. 3, [2003 7377](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
 
 #### Art. 80
 
@@ -923,7 +923,7 @@ Le Grand Conseil:
 
 <sup>3</sup> II dispose du patrimoine financier. Les prescriptions sur les compétences en matière de dépenses s’appliquent aux participations financières à des entreprises de droit privé, dans la mesure où ces participations ne constituent pas seulement des placements.
 
-[^80-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 5 déc. 2008. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 1 [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^80-1]: Accepté en votation populaire du 30 nov. 2008, en vigueur depuis le 5 déc. 2008. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 1 [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 #### Art. 81
 
@@ -933,7 +933,7 @@ Le Grand Conseil:
 
 <sup>2</sup> Il statue dans la mesure prévue par la loi sur les recours administratifs. L’art. 88, al. 3, est applicable par analogie.
 
-[^81-1]: Accepté en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^81-1]: Accepté en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 82
 
@@ -952,7 +952,7 @@ Le Conseil d’État:
 
 <sup>2</sup> La loi peut conférer d’autres attributions au Conseil d’État.
 
-[^82-1]: Acceptée en [votation populaire du 6 juin 1993](http://www.admin.ch/ch/f/pore/va/19930606/index.html), en vigueur depuis le 18 juin 1993. Garantie de l’Ass. féd. du 9 juin 1994 ([FF 1994 III 334](https://fedlex.data.admin.ch/eli/fga/1994/3__334_)art. 1 ch. 1, [1993 IV 473](https://fedlex.data.admin.ch/eli/fga/1993/4__473_)).
+[^82-1]: Acceptée en votation populaire du 6 juin 1993, en vigueur depuis le 18 juin 1993. Garantie de l’Ass. féd. du 9 juin 1994 ([FF 1994 III 334](https://fedlex.data.admin.ch/eli/fga/1994/3__334_)art. 1 ch. 1, [1993 IV 473](https://fedlex.data.admin.ch/eli/fga/1993/4__473_)).
 
 #### Art. 83
 
@@ -994,7 +994,7 @@ La loi règle:
 - b.[^86-1] les grandes lignes du droit régissant les rapports de service du personnel de l’État;
 - c. la procédure et la justice administratives.
 
-[^86-1]: Acceptée en [votation populaire du 4 mars 2001](http://www.admin.ch/ch/f/pore/va/20010304/index.html), en vigueur depuis le 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^86-1]: Acceptée en votation populaire du 4 mars 2001, en vigueur depuis le 1<sup>er</sup> août 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 4 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### IV. Les tribunaux
 
@@ -1033,8 +1033,8 @@ La juridiction civile est exercée par:
 
 <sup>2</sup> Les litiges peuvent être jugés par des tribunaux arbitraux dans les limites fixées par la législation.
 
-[^89-1]: Abrogée en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^89-2]: Acceptée en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^89-1]: Abrogée en votation populaire du 26 sept. 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^89-2]: Acceptée en votation populaire du 26 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 90
 
@@ -1055,12 +1055,12 @@ La juridiction civile est exercée par:
 
 <sup>3</sup> La loi règle, en matière de décisions pénales, les compétences du procureur principal, des procureurs, des avocats des mineurs, des fonctionnaires de l’instruction et des juges de paix ainsi que la compétence des autorités administratives d’infliger des peines.[^90-6]
 
-[^90-1]: Abrogées en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^90-2]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^90-3]: Acceptée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^90-4]: Abrogée en [votation populaire du 16 mai 2004](http://www.admin.ch/ch/f/pore/va/20040516/index.html), avec effet au 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^90-5]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^90-6]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^90-1]: Abrogées en votation populaire du 26 sept. 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^90-2]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^90-3]: Acceptée en votation populaire du 16 mai 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^90-4]: Abrogée en votation populaire du 16 mai 2004, avec effet au 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 2, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^90-5]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^90-6]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 91
 
@@ -1075,7 +1075,7 @@ La juridiction administrative est exercée par:
 - e.[^91-1] …
 - f. d’autres tribunaux spéciaux dans la mesure où ils sont prévus par la loi.
 
-[^91-1]: Abrogée en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 2 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^91-1]: Abrogée en votation populaire du 28 nov. 2004, avec effet au 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 2 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 91<sup>bis</sup>
 
@@ -1087,7 +1087,7 @@ La juridiction administrative est exercée par:
 
 <sup>3</sup> La loi règle les principes de l’organisation et de la procédure de l’administration judiciaire.
 
-[^91bis-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 2 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^91bis-1]: Accepté en votation populaire du 28 nov. 2004, en vigueur depuis le 1<sup>er</sup> août 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 2 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ## Section 6 Tâches de l’État
 
@@ -1161,6 +1161,10 @@ Le canton et les communes peuvent:
 
 <sup>3</sup> Les bâtiments doivent être assurés contre les dommages causés par le feu et par les éléments auprès de l’Assurance immobilière soleuroise. Le canton peut, par voie légale, déclarer obligatoires d’autres assurances de choses.
 
+<sup>4</sup> L’Assurance immobilière soleuroise peut être autorisée par la loi à adopter des règlements instituant des règles de droit si celles-ci ont un caractère technique ou sont soumises à des circonstances changeant rapidement. Elle fixe dans le cadre de la loi les primes et cotisations qu’elle prélève. L’art. 79, al. 3, s’applique par analogie.[^99-1]
+
+[^99-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 3, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+
 ### III. Santé
 
 #### Art. 100
@@ -1221,10 +1225,10 @@ Le canton peut édicter une loi sur les médias qui doit promouvoir les particul
 
 <sup>3</sup> Le canton exerce la surveillance sur toutes les écoles publiques.
 
-[^105-1]: Acceptée en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
-[^105-2]: Accepté en [votation populaire du 14 avr. 2013](http://www.admin.ch/ch/f/pore/va/20130414/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2014. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 4 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^105-3]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
-[^105-4]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^105-1]: Acceptée en votation populaire du 15 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^105-2]: Accepté en votation populaire du 14 avr. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 4 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^105-3]: Accepté en votation populaire du 15 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^105-4]: Accepté en votation populaire du 15 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 106
 
@@ -1270,7 +1274,7 @@ Le canton accorde des subsides de formation.
 
 [^111-1]
 
-[^111-1]: Abrogé en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), avec effet au 1<sup>er</sup> août 2012. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^111-1]: Abrogé en votation populaire du 26 sept. 2010, avec effet au 1<sup>er</sup> août 2012. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 5 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 112
 
@@ -1318,7 +1322,7 @@ Le canton et les communes assurent un approvisionnement en eau qui satisfasse le
 
 <sup>2</sup> Ils encouragent l’utilisation économe et efficiente de l’énergie, le recours aux énergies renouvelables et l’approvisionnement énergétique décentralisé.
 
-[^117-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2015. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 3, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^117-1]: Accepté en votation populaire du 18 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2015. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 3, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### VI. Aménagement du territoire et transports
 
@@ -1360,7 +1364,7 @@ Le canton réglemente les constructions en vue de protéger l’homme et l’env
 
 <sup>5</sup> Le canton prend des mesures pour limiter autant que possible la densité de la réglementation et la charge administrative auxquelles sont soumises les entreprises, en particulier les petites et moyennes entreprises (PME).[^121-1]
 
-[^121-1]: Accepté en [votation populaire du 11 mars 2012](http://www.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 1 [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^121-1]: Accepté en votation populaire du 11 mars 2012, en vigueur depuis le 11 mars 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 1 [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 #### Art. 122
 
@@ -1404,7 +1408,7 @@ Le canton exerce la souveraineté sur les choses publiques. Il établit en parti
 
 [^127-1]
 
-[^127-1]: Abrogé en [votation populaire du 4 déc. 1994](http://www.admin.ch/ch/f/pore/va/19941204/index.html), avec effet au 16 déc. 1994. Garantie de l’Ass. féd. du 14 mars 1996 ([FF 1996 I 1307](https://fedlex.data.admin.ch/eli/fga/1996/1__1307_)art. 1 ch. 5, [1995 III 1349](https://fedlex.data.admin.ch/eli/fga/1995/3__1349_)).
+[^127-1]: Abrogé en votation populaire du 4 déc. 1994, avec effet au 16 déc. 1994. Garantie de l’Ass. féd. du 14 mars 1996 ([FF 1996 I 1307](https://fedlex.data.admin.ch/eli/fga/1996/1__1307_)art. 1 ch. 5, [1995 III 1349](https://fedlex.data.admin.ch/eli/fga/1995/3__1349_)).
 
 #### Art. 128
 
@@ -1473,7 +1477,7 @@ Le canton peut percevoir les impôts suivants:
 
 <sup>3</sup> L’introduction de nouveaux impôts cantonaux exige une base constitutionnelle.
 
-[^132-1]: Cette lettre n’est pas encore en vigueur. Acceptée en [votation populaire du 8 mars 2015](http://www.admin.ch/ch/f/pore/va/20150308/index.html). Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 4, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^132-1]: Cette lettre n’est pas encore en vigueur. Acceptée en votation populaire du 8 mars 2015. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 4, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 133
 
@@ -1485,8 +1489,8 @@ Le canton peut percevoir les impôts suivants:
 
 <sup>3</sup> Le principe de la progressivité doit être équitablement appliqué lors de l’imposition du revenu et de la fortune. Ce principe peut aussi être appliqué à d’autres formes d’impôt. La progression à froid doit être périodiquement compensée.
 
-[^133-1]: Nouvelle teneur de la phrase acceptée en [votation populaire du 12 juin 1994](http://www.admin.ch/ch/f/pore/va/19940612/index.html), en vigueur depuis le 12 mai 1995. Garantie de l’Ass. féd. du 12 juin 1995 ([FF 1995 III 560](https://fedlex.data.admin.ch/eli/fga/1995/3__560_)art. 1 ch. 2 I 957).
-[^133-2]: Accepté en [votation populaire du 25 sept. 1988](http://www.admin.ch/ch/f/pore/va/19880925/index.html), en vigueur depuis le 21 juin 1989. Garantie de l’Ass. féd. du 21 juin 1989 ([FF 1989 II 882](https://fedlex.data.admin.ch/eli/fga/1989/2__882_)art. 1 ch. 4 I 545).
+[^133-1]: Nouvelle teneur de la phrase acceptée en votation populaire du 12 juin 1994, en vigueur depuis le 12 mai 1995. Garantie de l’Ass. féd. du 12 juin 1995 ([FF 1995 III 560](https://fedlex.data.admin.ch/eli/fga/1995/3__560_)art. 1 ch. 2 I 957).
+[^133-2]: Accepté en votation populaire du 25 sept. 1988, en vigueur depuis le 21 juin 1989. Garantie de l’Ass. féd. du 21 juin 1989 ([FF 1989 II 882](https://fedlex.data.admin.ch/eli/fga/1989/2__882_)art. 1 ch. 4 I 545).
 
 #### Art. 134
 
@@ -1632,7 +1636,7 @@ Jusqu’à l’adaptation de la loi sur l’organisation judiciaire, ne peuvent 
 
 <sup>2</sup> Le Conseil d’État peut déléguer certaines décisions au Conseil de banque extraordinaire de la Banque cantonale soleuroise sous réserve de son droit d’approbation.
 
-[^149-1]: Accepté en [votation populaire du 4 déc. 1994](http://www.admin.ch/ch/f/pore/va/19941204/index.html), en vigueur depuis le 14 mars 1996. Garantie de l’Ass. féd. du 14 mars 1996 ([FF 1996 I 1307](https://fedlex.data.admin.ch/eli/fga/1996/1__1307_)art. 1 ch. 5, [1995 III 1349](https://fedlex.data.admin.ch/eli/fga/1995/3__1349_)).
+[^149-1]: Accepté en votation populaire du 4 déc. 1994, en vigueur depuis le 14 mars 1996. Garantie de l’Ass. féd. du 14 mars 1996 ([FF 1996 I 1307](https://fedlex.data.admin.ch/eli/fga/1996/1__1307_)art. 1 ch. 5, [1995 III 1349](https://fedlex.data.admin.ch/eli/fga/1995/3__1349_)).
 
 ## Index des matières
 
@@ -1669,7 +1673,7 @@ Les chiffres renvoient aux articles et divisions d’articles de la constitution
 
 **Assistance médicales** 100<sup>2</sup>
 
-**Assurance immobilière soleuroise** 99<sup>3</sup>
+**Assurance immobilière soleuroise** 99<sup>3, 4</sup>
 
 **Assurance-maladie et accidents** 99<sup>2</sup>
 
