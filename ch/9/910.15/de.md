@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über die Koordination der Kontrollen auf
 short: VKKL
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/de"
 
 (VKKL)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2024)
+vom 31. Oktober 2018 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -61,9 +61,11 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 
 <sup>1</sup> Mit den Grundkontrollen wird überprüft, ob die Anforderungen der Verordnungen nach Artikel 1 Absatz 2 auf dem ganzen Betrieb eingehalten werden.
 
-<sup>2</sup> Anweisungen zu den Grundkontrollen der Tierbestände, der Flächendaten, der Flächen mit Einzelkulturbeiträgen oder mit einem Beitrag für extensive Produktion sowie der Biodiversitätsförderflächen sind in Anhang 1 geregelt.
+<sup>2</sup> Anweisungen zu den Grundkontrollen der Tierbestände und der Biodiversitätsförderflächen sind in Anhang 1 geregelt.[^2-1]
 
 <sup>3</sup> Die Grundkontrollen können mit verschiedenen Kontrollmethoden vorgenommen werden; anderslautende Bestimmungen der Verordnungen nach Artikel 1 Absatz 2 bleiben vorbehalten.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **202****4** 624).
 
 #### Art. 3
 
@@ -158,10 +160,23 @@ Privatrechtliche Stellen müssen gestützt auf die Akkreditierungs- und Bezeichn
 <sup>4</sup> Stellt eine Kontrollperson einen offensichtlichen Verstoss gegen eine Bestimmung einer Verordnung nach Artikel 1 Absatz 2 dieser Verordnung oder nach Artikel 10 Absatz 1 der Verordnung vom 27. Mai 2020[^7-4] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (MNKPV) fest, so ist der Verstoss den dafür zuständigen Vollzugsbehörden zu melden, selbst wenn die Kontrollperson nicht den Auftrag hatte, die Einhaltung der betreffenden Bestimmungen zu kontrollieren.[^7-5]
 
 [^7-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^7-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^7-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 [^7-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^7-4]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 [^7-5]: Fassung gemäss Anhang 4 Ziff. 4 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 7a
+
+**Finanzierung von Laboranalysen für die Kontrollen der Pflanzenschutzmittelbestimmungen**[^7a-1]
+
+<sup>1</sup> Die Anzahl der Laboranalysen, die vom Bund für die Kontrollen des korrekten Einsatzes von Pflanzenschutzmitteln im Zusammenhang mit der Ausrichtung von Direktzahlungen pro Kanton finanziert werden, richtet sich nach der Summe von dessen offener Ackerfläche und von dessen Flächen mit Dauerkulturen im Verhältnis zu den entsprechenden Flächen aller Kantone. Das Bundesamt für Landwirtschaft (BLW) bestimmt jährlich die Anzahl der finanzierten Laboranalysen pro Kanton und die Vergütung pro Laboranalyse.
+
+<sup>2</sup> Die Kantone stellen dem BLW bis zum 15. November die durchgeführten Laboranalysen des Kalenderjahres in Rechnung.
+
+<sup>3</sup> Sie beauftragen ausschliesslich Laboratorien, die nach der Norm «SN EN ISO/IEC 17025:2018, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien»[^7a-2] akkreditiert sind.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
+[^7a-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 8
 
@@ -194,7 +209,7 @@ Der Kanton beziehungsweise die Kontrollkoordinationsstelle teilt jeder Kontrolls
 
 **Aufgaben des Bundes**
 
-<sup>1</sup> Das Bundesamt für Landwirtschaft (BLW) überwacht den Vollzug dieser Verordnung in Zusammenarbeit mit dem Bundesamt für Umwelt (BAFU) und der Bundeseinheit für die Lebensmittelkette.
+<sup>1</sup> Das BLW überwacht den Vollzug dieser Verordnung in Zusammenarbeit mit dem Bundesamt für Umwelt (BAFU) und der Bundeseinheit für die Lebensmittelkette.[^9-1]
 
 <sup>2</sup>
 
@@ -202,6 +217,8 @@ Das BLW und das BAFU können in ihren jeweiligen Zuständigkeitsbereichen nach R
 
 - a. Listen erstellen mit Punkten, die es bei Grundkontrollen und risikobasierten Kontrollen zu überprüfen gilt, und mit Beurteilungskriterien für diese Punkte;
 - b. Weisungen erlassen über die Durchführung der Grundkontrollen und der risikobasierten Kontrollen.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
 
 #### Art. 9a
 

@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2018 sur la coordination des contrôles dans les
 short: OCCEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/fr"
 
 (OCCEA)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2024)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -61,9 +61,11 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 
 <sup>1</sup> Les contrôles de base permettent de vérifier si les dispositions des ordonnances mentionnées à l’art. 1, al. 2, sont respectées dans l’ensemble de l’exploitation.
 
-<sup>2</sup> Les instructions relatives aux contrôles de base des effectifs d’animaux, des données sur les surfaces, des surfaces donnant droit à des contributions à des cultures particulières ou à une contribution pour culture extensive ainsi que des surfaces de promotion de la biodiversité sont réglées à l’annexe 1.
+<sup>2</sup> Les instructions relatives aux contrôles de base des effectifs d’animaux et des surfaces de promotion de la biodiversité sont réglées à l’annexe 1.[^2-1]
 
 <sup>3</sup> Les contrôles de base peuvent être effectués au moyen de différentes méthodes de contrôle, sous réserve d’autres dispositions des ordonnances visées à l’art. 1, al. 2.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
 
 #### Art. 3
 
@@ -158,10 +160,23 @@ Les organes de droit privé doivent être accrédités conformément à l’ordo
 <sup>4</sup> Si la personne chargée du contrôle constate un manquement manifeste aux dispositions de l’une des ordonnances visées à l’art. 1, al. 2, de la présente ordonnance ou à l’art. 10, al. 1, de l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels (OPCNP)[^7-4], ce manquement doit être annoncé aux autorités d’exécution compétentes, même si cette personne n’a pas été chargée de contrôler le respect des dispositions concernées.[^7-5]
 
 [^7-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^7-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^7-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^7-4]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 [^7-5]: Nouvelle teneur selon l’annexe 4 ch. 4 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 7a
+
+**Financement d’analyses de laboratoire servant au contrôle des dispositions en matière de produits phytosanitaires**[^7a-1]
+
+<sup>1</sup> Le nombre d’analyses de laboratoire servant au contrôle de l’utilisation correcte des produits phytosanitaires en lien avec l’octroi de paiements directs et financées par la Confédération pour chaque canton est fonction de la surface totale des terres ouvertes et des surfaces de cultures pérennes du canton concerné par rapport aux surfaces correspondantes de l’ensemble des cantons. L’Office fédéral de l’agriculture (OFAG) détermine chaque année le nombre d’analyses de laboratoire financées pour chaque canton et le montant de l’indemnité versée par analyse de laboratoire.
+
+<sup>2</sup> Les cantons facturent à l’OFAG les analyses de laboratoire effectuées durant l’année civile au plus tard le 15 novembre de cette même année.
+
+<sup>3</sup> Ils mandatent exclusivement des laboratoires qui sont accrédités selon la norme «SN EN ISO/IEC 17025:2018, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais»[^7a-2].
+
+[^7a-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
+[^7a-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 8
 
@@ -194,7 +209,7 @@ Le canton ou le service de coordination des contrôles indique à chaque organe 
 
 **Tâches de la Confédération**
 
-<sup>1</sup> L’Office fédéral de l’agriculture (OFAG) surveille l’exécution de la présente ordonnance, en collaboration avec l’Office fédéral de l’environnement (OFEV) et l’Unité fédérale pour la filière alimentaire.
+<sup>1</sup> L’OFAG surveille l’exécution de la présente ordonnance, en collaboration avec l’Office fédéral de l’environnement (OFEV) et l’Unité fédérale pour la filière alimentaire.[^9-1]
 
 <sup>2</sup>
 
@@ -202,6 +217,8 @@ L’OFAG et l’OFEV peuvent, dans leurs domaines de compétence respectifs, apr
 
 - a. créer des listes comprenant des points à vérifier lors des contrôles de base et des contrôles en fonction des risques, ainsi que des critères d’évaluation pour ces points;
 - b. établir des guides sur la réalisation des contrôles de base et des contrôles en fonction des risques.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
 
 #### Art. 9a
 
@@ -220,7 +237,7 @@ Dans le cas d’une inscription aux contributions selon les art. 55, al. 1, let.
 
 <sup>2</sup> La modification d’autres actes est réglée dans l’annexe 2.
 
-[^10-1]: [[RO 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712), [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753), [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)ch. III, [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)annexe 3 ch. 4]
+[^10-1]: [[RO 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712); [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753); [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)ch. III; [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)annexe 3 ch. 4]
 
 #### Art. 11
 

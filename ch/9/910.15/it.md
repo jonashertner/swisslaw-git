@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2018 sul coordinamento dei controlli delle azien
 short: OCoC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-673-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2018-673-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/it"
 
 (OCoC)
 
-del 31 ottobre 2018 (Stato 1° gennaio 2024)
+del 31 ottobre 2018 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -51,8 +51,8 @@ Si applica ai controlli previsti dalle ordinanze seguenti:
 [^1-2]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-4]: [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
-[^1-5]: Abrogata dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^1-6]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-5]: Abrogata dalla cifra I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-6]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^1-7]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
 #### Art. 2
@@ -61,9 +61,11 @@ Si applica ai controlli previsti dalle ordinanze seguenti:
 
 <sup>1</sup> I controlli di base consentono di verificare se i requisiti delle ordinanze di cui all’articolo 1 capoverso 2 sono rispettati in tutta l’azienda.
 
-<sup>2</sup> Le istruzioni per i controlli di base degli effettivi di animali, dei dati sulle superfici, delle superfici con contributi per singole colture o con un contributo per la produzione estensiva e delle superfici per la promozione della biodiversità sono disciplinate nell’allegato 1.
+<sup>2</sup> Le istruzioni per i controlli di base degli effettivi di animali e delle superfici per la promozione della biodiversità sono disciplinate nell’allegato 1.[^2-1]
 
 <sup>3</sup> I controlli di base possono essere svolti con diversi metodi di controllo, a condizione che le ordinanze di cui all’articolo 1 capoverso 2 non dispongano diversamente.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
 
 #### Art. 3
 
@@ -86,8 +88,8 @@ I Cantoni provvedono al coordinamento dei controlli di base in modo che, di rego
 - a. controlli di base che non richiedono la presenza del gestore;
 - b. controlli di base relativi a contributi per la biodiversità del livello qualitativo II e per l’interconnessione.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 
@@ -128,9 +130,9 @@ In caso di prima notifica per un determinato tipo di pagamenti diretti o di reis
 
 <sup>7</sup> I capoversi 1–6 non si applicano ai controlli secondo la legislazione sulla protezione delle acque.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^5-2]: Nuovo testo giusta l’all. n. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 6
 
@@ -159,9 +161,22 @@ Conformemente all’ordinanza del 17 giugno 1996[^7-1] sull’accreditamento e s
 
 [^7-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^7-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^7-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^7-4]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
 [^7-5]: Nuovo testo giusta l’all. 4 n. 4 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 7a
+
+**Finanziamento delle analisi di laboratorio per i controlli delle disposizioni concernenti i prodotti fitosanitari**[^7a-1]
+
+<sup>1</sup> Il numero di analisi di laboratorio finanziate dalla Confederazione per i controlli del corretto impiego dei prodotti fitosanitari in relazione al versamento di pagamenti diretti per ogni Cantone si basa sulla somma della superficie coltiva aperta e delle superfici con colture perenni del Cantone in questione rispetto alle corrispondenti superfici di tutti i Cantoni. L’Ufficio federale dell’agricoltura (UFAG) stabilisce annualmente il numero di analisi di laboratorio finanziate per ogni Cantone e l’indennizzo per ogni analisi di laboratorio.
+
+<sup>2</sup> I Cantoni fatturano all’UFAG entro il 15 novembre le analisi di laboratorio effettuate nell’anno civile.
+
+<sup>3</sup> Essi incaricano esclusivamente laboratori accreditati secondo la norma «SN EN ISO/IEC 17025:2018, requisiti generali per la competenza di laboratori di prova e laboratori di taratura»[^7a-2].
+
+[^7a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
+[^7a-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/fr/).
 
 #### Art. 8
 
@@ -194,7 +209,7 @@ Il Cantone o l’organo di coordinamento dei controlli comunica a ogni organo di
 
 **Compiti della Confederazione**
 
-<sup>1</sup> L’Ufficio federale dell’agricoltura (UFAG) sorveglia l’esecuzione della presente ordinanza in collaborazione con l’Ufficio federale dell’ambiente (UFAM) e l’Unità federale per la filiera alimentare.
+<sup>1</sup> L’UFAG sorveglia l’esecuzione della presente ordinanza in collaborazione con l’Ufficio federale dell’ambiente (UFAM) e l’Unità federale per la filiera alimentare.[^9-1]
 
 <sup>2</sup>
 
@@ -202,6 +217,8 @@ Previa consultazione dei Cantoni e degli organi di controllo, nei propri ambiti 
 
 - a. allestire elenchi che stabiliscono i punti da verificare nei controlli di base e in quelli in funzione del rischio nonché i criteri per la valutazione di tali punti;
 - b. emanare direttive concernenti lo svolgimento dei controlli di base e di quelli in funzione del rischio.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
 
 #### Art. 9a
 
@@ -234,7 +251,7 @@ Allegato 1[^t-1]
 
 ## Istruzioni per i controlli di base degli effettivi di animali e delle superfici per la promozione della biodiversità
 
-[^t-1]: Aggiornato dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 ### 1. Controlli di base degli effettivi di animali
 
@@ -260,8 +277,6 @@ Allegato 2
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-### ...
+...[^annex2-lvlu1-1]
 
-[^annex2-lvlu1-lvlu1-1]
-
-[^annex2-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673).
+[^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673).
