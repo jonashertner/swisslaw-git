@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 1996 sur le service civil (OSCi)
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/fr"
 
 (OSCi[^t-1])
 
-du 11 septembre 1996 (État le 1<sup>er</sup> septembre 2023)
+du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: [RO 1996 2974](https://fedlex.data.admin.ch/eli/oc/1996/2974_2974_2974)
 
@@ -164,18 +164,17 @@ Peuvent exercer une influence sur l’affectation:
 
 ### (art. 4, al. 2, LSC)
 
-<sup>1</sup> Les exploitations agricoles peuvent être reconnues en qualité d’établissement d’affectation lorsque l’exploitant reçoit des paiements directs en vertu des art. 43, 44, 47 ou 55 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^5-2], des aides à l’investissement en vertu de l’ordonnance du 2 novembre 2022 sur les améliorations structurelles (OAS)[^5-3] ou des contributions cantonales visées aux art. 63 et 64 OPD.[^5-4]
+<sup>1</sup> Les exploitations agricoles peuvent être reconnues en qualité d’établissement d’affectation lorsque l’exploitant reçoit des paiements directs en vertu des art. 43, 44, 47 ou 55 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^5-2] ou des contributions cantonales en vertu des art. 63 et 64 OPD.[^5-3]
 
-<sup>2</sup> Les communautés d’exploitation doivent être reconnues selon les règles fixées à l’art. 29*a* de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^5-5] et tous leurs membres doivent remplir les critères énoncés à l’al. 1.
+<sup>2</sup> Les communautés d’exploitation doivent être reconnues selon les règles fixées à l’art. 29*a* de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^5-4] et tous leurs membres doivent remplir les critères énoncés à l’al. 1.
 
-<sup>3</sup> Les exploitations de pâturages communautaires et les exploitations d’estivage doivent être reconnues selon les règles fixées à l’art. 29*a* OTerm et compter dix pâquiers normaux au moins. Cette taille ne doit pas nécessairement être atteinte pour les projets visés à l’art. 6, al. 1, let. c.[^5-6]
+<sup>3</sup> Les exploitations de pâturages communautaires et les exploitations d’estivage doivent être reconnues selon les règles fixées à l’art. 29*a* OTerm et compter dix pâquiers normaux au moins. Cette taille ne doit pas nécessairement être atteinte pour les projets visés à l’art. 6, al. 1, let. c.[^5-5]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-3]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-4]: Nouvelle teneur selon l’annexe 9 ch. 3 de l’O du 2 nov. 2022 sur les améliorations structurelles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^5-5]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^5-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
 
@@ -198,18 +197,17 @@ Le CIVI affecte les personnes astreintes:
   - 5\. pour l’exécution de projets de préservation, de promotion et de développement de paysages cultivés diversifiés au sens de l’art. 63 OPD;
 
 - b. dans des exploitations agricoles qui mènent à bien des projets ou programmes visés à la let. a, pour des travaux dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt»;
-- c.[^6-3] dans des exploitations agricoles qui reçoivent des aides à l’investissement, pour des améliorations structurelles dans le cadre de projets visés à l’art. 1, al. 1, let. a et b, OAS[^6-4].
+- c.[^6-3] …
 
-<sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-5]
+<sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-4]
 
-<sup>3</sup> Les personnes astreintes ne peuvent être affectées dans des exploitations de pâturages communautaires ou d’estivage que pendant la période d’estivage, ainsi que les 14 jours qui précèdent cette période et les 14 jours qui la suivent. Par période d’estivage, on entend la période pendant laquelle ces exploitations accueillent le bétail estivé.[^6-6]
+<sup>3</sup> Les personnes astreintes ne peuvent être affectées dans des exploitations de pâturages communautaires ou d’estivage que pendant la période d’estivage, ainsi que les 14 jours qui précèdent cette période et les 14 jours qui la suivent. Par période d’estivage, on entend la période pendant laquelle ces exploitations accueillent le bétail estivé.[^6-5]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Nouvelle teneur selon l’annexe 9 ch. 3 de l’O du 2 nov. 2022 sur les améliorations structurelles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^6-4]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^6-3]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^6-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^6-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -221,18 +219,19 @@ Le CIVI affecte les personnes astreintes:
 
 La collaboration de la personne en service à la production agricole est admise:
 
-- a. dans le cadre des projets d’améliorations structurelles;
+- a.[^7-2] …
 - b.
 
   dans le cadre des projets et des programmes d’amélioration des conditions de vie ou de production:
 
   - 1\. lorsque la personne astreinte a été convoquée d’office selon l’art. 31*a*, al. 4,
-  - 2\. pour faire face à une surcharge temporaire de l’exploitation ou à la suite d’une interruption momentanée des travaux pour cause d’intempéries;[^7-2]
+  - 2\. pour faire face à une surcharge temporaire de l’exploitation ou à la suite d’une interruption momentanée des travaux pour cause d’intempéries;[^7-3]
 
 <sup>2</sup> La collaboration de la personne en service à la production sylvicole est admise lorsque ladite personne a été convoquée d’office selon l’art. 31*a,* al. 4.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2009, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
-[^7-2]: Nouvelle teneur selon l’annexe 9 ch. 8 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^7-2]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^7-3]: Nouvelle teneur selon l’annexe 9 ch. 8 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 7a
 
@@ -337,7 +336,8 @@ Le CIVI peut prendre en charge les droits et les obligations d’un établisseme
 - a. en cas d’affectations spéciales qui sont urgentes ou lorsqu’aucune institution apte à assumer le rôle de l’établissement d’affectation n’est disponible;
 - b.[^8d-1] en cas d’affectations à la prévention ou à la maîtrise de catastrophes ou de situations d’urgence ou en cas d’affectations au rétablissement d’une durée de 33 jours au plus qui ne peuvent être effectuées dans un établissement d’affectation reconnu;
 - c.[^8d-2] en cas d’affectation d’office selon l’art. 31*a*, al. 4, exécutée dans le cadre d’un programme prioritaire.
-- [tab] <sup>1bis</sup> Il applique l’al. 1, let. b, pendant six mois au plus après que la catastrophe ou la situation d’urgence est survenue.[^8d-3]
+
+<sup>1bis</sup> Il applique l’al. 1, let. b, pendant six mois au plus après que la catastrophe ou la situation d’urgence est survenue.[^8d-3]
 
 <sup>2</sup> Il peut transférer le droit de donner des instructions et les obligations visées à l’art. 29 LSC aux tiers qu’il relaie en vertu de l’al. 1.
 
@@ -2917,7 +2917,7 @@ Annexe 1[^t-2]
 
 ## Effectif maximal des personnes en service par établissement d’affectation
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Mise à jour par le ch. II de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Mise à jour par le ch. II des O du 15 nov. 2017 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) et du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 
 ### 1. Règle générale
 
@@ -2956,7 +2956,7 @@ Pour les établissements comptant plus de 60 postes à plein temps, l’effectif
 ### 2. Règles applicables aux exploitations agricoles
 
 <table>
-<tr><td>a. Exploitations hors exploitations de pâturages communautaires et d’estivage et exploitations de pâturages communautaires et d’estivage menant des projets d’amélioration structurelle</td><td>Effectif maximal des personnes en service</td><td></td></tr>
+<tr><th>a. Exploitations hors exploitations de pâturages communautaires et d’estivage</th><th>Effectif maximal des personnes en service</th><th></th></tr>
 <tr><td></td><td>1</td><td></td></tr>
 </table>
 
@@ -2983,7 +2983,7 @@ Annexe 2[^t-3]
 
 ## Jours chômés (art. 53, al. 3) et jours d’absence pour cause de maladie ou d’accident (art. 54, al. 2) pris en compte
 
-[^t-3]: Anciennement app.2. Nouvelle teneur selon le ch. III al. 1 de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Mise à jour par le ch. II des O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^t-3]: Anciennement app.2. Nouvelle teneur selon le ch. III al. 1 de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Mise à jour par le ch. II de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 <table>
 <tr><td>1.</td><td>Total des jours de service à accomplir (durée totale ou solde):</td><td>Jours chômés pris en compte (art. 53, al. 3):</td></tr>
@@ -3071,7 +3071,7 @@ Annexe 3[^t-5]
 
 [^annex3-lvlu1-lvl1-1]
 
-[^annex3-lvlu1-lvl1-1]: [[RO 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516), [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094), [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
+[^annex3-lvlu1-lvl1-1]: [[RO 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516); [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094); [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
 
 ### 2. à 9. Les ordonnances ci-dessous sont modifiées comme il suit:
 

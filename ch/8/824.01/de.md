@@ -4,11 +4,11 @@ title: "Verordnung vom 11. September 1996 über den zivilen Ersatzdienst (Zivild
 short: ZDV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/de"
 
 (Zivildienstverordnung, ZDV)
 
-vom 11. September 1996 (Stand am 1. September 2023)
+vom 11. September 1996 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -162,18 +162,17 @@ Auf den Einsatz Einfluss nehmen können:
 
 ### (Art. 4 Abs. 2 ZDG)
 
-<sup>1</sup> Landwirtschaftliche Betriebe können als Einsatzbetriebe anerkannt werden, wenn die Bewirtschafterin oder der Bewirtschafter Direktzahlungen nach Artikel 43, 44, 47 oder 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] (DZV), Finanzhilfen nach der Strukturverbesserungsverordnung vom 2. November 2022[^5-3] (SVV) oder Beiträge der Kantone nach den Artikeln 63 und 64 DZV erhält.[^5-4]
+<sup>1</sup> Landwirtschaftliche Betriebe können als Einsatzbetriebe anerkannt werden, wenn die Bewirtschafterin oder der Bewirtschafter Direktzahlungen nach Artikel 43, 44, 47 oder 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] (DZV) oder Beiträge der Kantone nach den Artikeln 63 und 64 DZV erhält.[^5-3]
 
-<sup>2</sup> Handelt es sich um eine Betriebsgemeinschaft, so muss diese über die Anerkennung nach Artikel 29*a* der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^5-5] (LBV) verfügen, wobei alle Mitglieder die Voraussetzungen nach Absatz 1 erfüllen müssen.
+<sup>2</sup> Handelt es sich um eine Betriebsgemeinschaft, so muss diese über die Anerkennung nach Artikel 29*a* der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^5-4] (LBV) verfügen, wobei alle Mitglieder die Voraussetzungen nach Absatz 1 erfüllen müssen.
 
-<sup>3</sup> Handelt es sich um einen Gemeinschaftsweide- oder Sömmerungsbetrieb, so muss dieser über die Anerkennung nach Artikel 29*a* LBV verfügen und eine Mindestgrösse von zehn Normalstössen aufweisen. Diese Mindestgrösse ist nicht erforderlich im Rahmen von Projekten nach Artikel 6 Absatz 1 Buchstabe c.[^5-6]
+<sup>3</sup> Handelt es sich um einen Gemeinschaftsweide- oder Sömmerungsbetrieb, so muss dieser über die Anerkennung nach Artikel 29*a* LBV verfügen und eine Mindestgrösse von zehn Normalstössen aufweisen. Diese Mindestgrösse ist nicht erforderlich im Rahmen von Projekten nach Artikel 6 Absatz 1 Buchstabe c.[^5-5]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-3]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-4]: Fassung gemäss Anhang 9 Ziff. 3 der Strukturverbesserungsverordnung vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^5-5]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^5-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^5-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
 
@@ -196,18 +195,17 @@ Das ZIVI setzt zivildienstpflichtige Personen ein:
   - 5\. für Projektarbeiten zur Erhaltung, Förderung und Weiterentwicklung vielfältiger Kulturlandschaften nach Artikel 63 DZV;
 
 - b. in landwirtschaftlichen Betrieben, die Projekte oder Programme nach Buchstabe a durchführen, für Arbeiten im Tätigkeitsbereich «Umwelt- und Naturschutz, Landschaftspflege und Wald»;
-- c.[^6-3] in landwirtschaftlichen Betrieben, die Finanzhilfen erhalten, zur Strukturverbesserung im Rahmen von Projekten nach dem Artikel 1 Absatz 1 Buchstaben a und b SVV[^6-4].
+- c.[^6-3] …
 
-<sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-5]
+<sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-4]
 
-<sup>3</sup> In Gemeinschaftsweide- und Sömmerungsbetrieben dürfen zivildienstpflichtige Personen nur während der Sömmerungsperiode sowie zusätzlich je während 14 Diensttagen unmittelbar davor und danach eingesetzt werden. Als Sömmerungsperiode gilt die Zeit, während der der betreffende Sömmerungs- oder Gemeinschaftsweidebetrieb bestossen wird.[^6-6]
+<sup>3</sup> In Gemeinschaftsweide- und Sömmerungsbetrieben dürfen zivildienstpflichtige Personen nur während der Sömmerungsperiode sowie zusätzlich je während 14 Diensttagen unmittelbar davor und danach eingesetzt werden. Als Sömmerungsperiode gilt die Zeit, während der der betreffende Sömmerungs- oder Gemeinschaftsweidebetrieb bestossen wird.[^6-5]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Fassung gemäss Anhang 9 Ziff. 3 der Strukturverbesserungsverordnung vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^6-4]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^6-3]: Aufgehoben durch Ziff. II der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^6-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -219,18 +217,19 @@ Das ZIVI setzt zivildienstpflichtige Personen ein:
 
 In der landwirtschaftlichen Produktion ist die Mitarbeit von zivildienstleistenden Personen zulässig:
 
-- a. im Rahmen von Strukturverbesserungsprojekten;
+- a.[^7-2] …
 - b.
 
   im Rahmen von Projekten und Programmen zur Verbesserung der Lebens- oder Produktionsbedingungen:
 
   - 1\. wenn die zivildienstleistenden Personen nach Artikel 31*a* Absatz 4 von Amtes wegen aufgeboten worden sind,
-  - 2\. zwecks Überbrückung einer vorübergehenden betrieblichen Spitzenbelastung oder während eines witterungsbedingten Unterbruchs der Arbeiten.[^7-2]
+  - 2\. zwecks Überbrückung einer vorübergehenden betrieblichen Spitzenbelastung oder während eines witterungsbedingten Unterbruchs der Arbeiten.[^7-3]
 
 <sup>2</sup> In der waldwirtschaftlichen Produktion ist die Mitarbeit von zivildienstleistenden Personen zulässig, die nach Artikel 31*a* Absatz 4 von Amtes wegen aufgeboten worden sind.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 6. März 2009, in Kraft seit 1. April 2009 ([AS 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
-[^7-2]: Fassung gemäss Anhang 9 Ziff. 8 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^7-2]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^7-3]: Fassung gemäss Anhang 9 Ziff. 8 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 7a
 
@@ -747,7 +746,7 @@ Eine Person, die ein Gesuch um Zulassung zum Zivildienst spätestens zwei Monate
 
 [^25-1]
 
-[^25-1]: Augbehoben durch Ziff. I der V vom 3. Juni 2016, mit Wirkung seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^25-1]: Aufgehoben durch Ziff. I der V vom 3. Juni 2016, mit Wirkung seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 26
 
@@ -2886,7 +2885,7 @@ Anhang 1[^t-1]
 
 ## Maximale Anzahl zivildienstleistender Personen pro Einsatzbetrieb
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 3. Juni 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Bereinigt gemäss Ziff. II der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 3. Juni 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Bereinigt gemäss Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 
 ### 1. Grundsatz
 
@@ -2925,7 +2924,7 @@ Bei Einsatzbetrieben mit mehr als 60 Vollzeitstellen wird die maximale Anzahl gl
 ### 2. Regeln für landwirtschaftliche Betriebe
 
 <table>
-<tr><td>a. Betriebe ohne Gemeinschaftsweide- und Sömmerungsbetriebe sowie Gemeinschaftsweide- und Sömmerungsbetriebe, die Strukturverbesserungsprojekte durchführen</td><td>Maximale Anzahl zivildienstleistender Personen</td><td></td></tr>
+<tr><td>a. Betriebe ohne Gemeinschaftsweide- und Sömmerungsbetriebe</td><td>Maximale Anzahl zivildienstleistender Personen</td><td></td></tr>
 <tr><td></td><td>1</td><td></td></tr>
 </table>
 

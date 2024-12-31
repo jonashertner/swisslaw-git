@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 settembre 1996 sul servizio civile (OSCi)"
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230901/it"
 
 (OSCi)
 
-dell’11 settembre 1996 (Stato 1° settembre 2023)
+dell’11 settembre 1996 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^ingress-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-5]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^ingress-6]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
+[^ingress-6]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
 
 ## Capitolo 1: Organizzazione
 
@@ -45,8 +45,8 @@ ordina:
 <sup>2</sup> ...[^1-3]
 
 [^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^1-3]: Abrogato dal n. II 88 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^1-3]: Abrogato dalla cifra II n. 88 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 2
 
@@ -54,13 +54,13 @@ ordina:
 
 Il CIVI è costituito da un organo centrale e da centri regionali.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 2a
 
 [^2a-1]
 
-[^2a-1]: Introdotto dal n. I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Abrogato dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Abrogato dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ## Capitolo 2: Istituti d’impiego e ambiti d’attività
 
@@ -93,11 +93,11 @@ Non sono di utilità pubblica gli enti:
 
 <sup>4</sup> Gli enti con fine di lucro che svolgono la propria attività nell’ambito sanitario e sociale possono essere riconosciuti quali istituti d’impiego se si tratta di enti di diritto pubblico o di diritto privato nei quali i poteri pubblici hanno la maggioranza del capitale e dei voti.[^3-5]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^3-5]: Introdotto dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^3-5]: Introdotto dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 4
 
@@ -122,10 +122,10 @@ La limitazione dei lavori di sostegno amministrativo non si applica:
 - b<sup>bis</sup>.[^4-4] ...
 - c. nel quadro di impieghi presso il CIVI.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^4-2]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^4-4]: Introdotta dal n. I dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^4-2]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-4]: Introdotta dalla cifra I dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 4a
 
@@ -152,7 +152,7 @@ Possono influire sull’impiego:
 - a. le persone di cui al capoverso 2 con competenze in materia di istruzione, controllo o coordinamento rilevanti ai fini dell’impiego, in particolare per quanto riguarda il rispetto del mansionario o degli orari di lavoro nonché il computo dei giorni di servizio o il rimborso delle spese;
 - b. le persone di cui al capoverso 2 che esercitano una funzione dirigenziale o nel settore del personale che permette loro di influire sulle persone di cui alla lettera a.
 
-[^4a-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 2: Impieghi nell’agricoltura
 
@@ -162,18 +162,17 @@ Possono influire sull’impiego:
 
 ### (art. 4 cpv. 2 LSC)
 
-<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti (OPD), aiuti finanziari secondo l’ordinanza del 2 novembre 2022[^5-3] sui miglioramenti strutturali (OMSt) o contributi del Cantone secondo gli articoli 63 e 64 OPD.[^5-4]
+<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti (OPD) o contributi del Cantone secondo gli articoli 63 e 64 OPD.[^5-3]
 
-<sup>2</sup> Le comunità aziendali devono essere riconosciute secondo l’articolo 29*a* dell’ordinanza del 7 dicembre 1998[^5-5] sulla terminologia agricola (OTerm) e tutti i membri devono adempiere le condizioni di cui al capoverso 1.
+<sup>2</sup> Le comunità aziendali devono essere riconosciute secondo l’articolo 29*a* dell’ordinanza del 7 dicembre 1998[^5-4] sulla terminologia agricola (OTerm) e tutti i membri devono adempiere le condizioni di cui al capoverso 1.
 
-<sup>3</sup> Le aziende con pascoli comunitari e le aziende d’estivazione devono essere riconosciute secondo l’articolo 29*a* OTerm e avere una dimensione minima di dieci carichi normali. Questa dimensione minima non è richiesta per i progetti di cui all’articolo 6 capoverso 1 lettera c.[^5-6]
+<sup>3</sup> Le aziende con pascoli comunitari e le aziende d’estivazione devono essere riconosciute secondo l’articolo 29*a* OTerm e avere una dimensione minima di dieci carichi normali. Questa dimensione minima non è richiesta per i progetti di cui all’articolo 6 capoverso 1 lettera c.[^5-5]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-3]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-4]: Nuovo testo giusta l’all. 9 n. 3 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura, in vigore dal 1° gen. 2023 ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^5-5]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^5-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
 
@@ -196,18 +195,17 @@ Il CIVI impiega le persone soggette al servizio civile:
   - 5\. per lavori legati a progetti per il mantenimento, la promozione e lo sviluppo di paesaggi rurali variati di cui all’articolo 63 OPD;
 
 - b. in aziende agricole che realizzano progetti o programmi di cui alla lettera a per lavori nell’ambito d’attività «protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste»;
-- c.[^6-3] in aziende agricole che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b OMSt[^6-4].
+- c.[^6-3] ...
 
-<sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-5]
+<sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-4]
 
-<sup>3</sup> In aziende con pascoli comunitari e in aziende d’estivazione le persone soggette al servizio civile possono essere impiegate soltanto durante il periodo d’estivazione nonché per altri 14 giorni di servizio immediatamente prima e dopo. È considerato periodo d’estivazione il periodo in cui l’azienda con pascoli comunitari o l’azienda d’estivazione in questione viene caricata con gli animali.[^6-6]
+<sup>3</sup> In aziende con pascoli comunitari e in aziende d’estivazione le persone soggette al servizio civile possono essere impiegate soltanto durante il periodo d’estivazione nonché per altri 14 giorni di servizio immediatamente prima e dopo. È considerato periodo d’estivazione il periodo in cui l’azienda con pascoli comunitari o l’azienda d’estivazione in questione viene caricata con gli animali.[^6-5]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Nuovo testo giusta l’all. 9 n. 3 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura, in vigore dal 1° gen. 2023 ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^6-4]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^6-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^6-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-3]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -219,18 +217,19 @@ Il CIVI impiega le persone soggette al servizio civile:
 
 Nella produzione agricola la collaborazione da parte delle persone che prestano servizio civile è ammessa:
 
-- a. nel quadro di progetti di miglioramenti strutturali;
+- a.[^7-2] ...
 - b.
 
   nel quadro di progetti e programmi intesi a migliorare le condizioni di vita o di produzione:
 
   - 1\. se le persone che prestano servizio civile sono state convocate d’ufficio secondo l’articolo 31*a* capoverso 4,
-  - 2\. per ovviare a un sovraccarico temporaneo di lavoro a cui deve far fronte l’azienda agricola o durante un’interruzione dei lavori dovuta a fattori meteorologici.[^7-2]
+  - 2\. per ovviare a un sovraccarico temporaneo di lavoro a cui deve far fronte l’azienda agricola o durante un’interruzione dei lavori dovuta a fattori meteorologici.[^7-3]
 
 <sup>2</sup> Nella produzione nell’ambito dell’economia forestale è ammessa la collaborazione da parte delle persone che prestano servizio civile che sono state convocate d’ufficio secondo l’articolo 31*a* capoverso 4.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
-[^7-2]: Nuovo testo giusta dell’all. 9 n. 8 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^7-2]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^7-3]: Nuovo testo giusta dell’all. 9 n. 8 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 7a
 
@@ -244,14 +243,14 @@ Nella produzione agricola la collaborazione da parte delle persone che prestano 
 
 <sup>3</sup> All’inizio del periodo d’impiego, l’istituto d’impiego controlla le capacità della persona che presta servizio civile e sorveglia le sue attività nella fase d’introduzione.
 
-[^7a-1]: Introdotto dal n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 ### Sezione 3: Programmi prioritari, impieghi speciali nonché impieghi in relazione a catastrofi e a situazioni d’emergenza
 
 [^chap2-sec3-1][^chap2-sec3-2]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^chap2-sec3-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^chap2-sec3-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 8
 
@@ -266,7 +265,7 @@ Il CIVI determina, secondo i criteri seguenti, in quali ambiti devono essere con
 - c. può essere impiegato un numero elevato di persone che prestano servizio civile;
 - d. gli impieghi promuovono le competenze personali e professionali delle persone che prestano servizio civile.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 8a
 
@@ -319,7 +318,7 @@ Il CIVI, d’intesa con gli organi di condotta interessati e con gli organi fede
 
 <sup>4</sup> L’istituto d’impiego può tuttavia, in casi eccezionali, delegare a un comando militare il diritto di impartire istruzioni a chi presta servizio civile, in modo limitato nel tempo, nello spazio e per quanto riguarda la materia.
 
-[^8c-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^8c-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 8d
 
@@ -339,9 +338,9 @@ Il CIVI può assumere i diritti e gli obblighi di un istituto d’impiego:
 
 <sup>2</sup> Il CIVI può delegare l’esercizio del diritto di impartire istruzioni e gli obblighi di cui all’articolo 29 LSC a terzi che esso sostiene in virtù del capoverso 1.
 
-[^8d-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^8d-2]: Introdotta dal n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^8d-3]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^8d-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^8d-2]: Introdotta dalla cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^8d-3]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 8e
 
@@ -389,14 +388,14 @@ Il CIVI può derogare all’Appendice 1 nei seguenti casi:
 
 <sup>5</sup> Per lo svolgimento di impieghi di gruppo speciali in aziende con pascoli comunitari e in aziende d’estivazione, il numero massimo di persone che prestano servizio civile di cui all’Appendice 1 numero 2 lettera b può essere aumentato conformemente all’Appendice 1 numero 3. Per tale aumento il CIVI tiene conto della capacità dell’istituto d’impiego di fornire a tutte le persone che prestano servizio contemporaneamente un’assistenza adeguata, un alloggio accettabile e una quantità di lavoro sufficiente e conforme al mansionario. Il numero di giorni di servizio senza aumento cui ha diritto l’istituto d’impiego si applica anche agli impieghi di gruppo.[^9-7]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3113](https://fedlex.data.admin.ch/eli/oc/2010/415)).
-[^9-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^9-3]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^9-4]: Introdotta dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 23 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3113](https://fedlex.data.admin.ch/eli/oc/2010/415)).
-[^9-6]: Introdotto dal n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^9-7]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3113](https://fedlex.data.admin.ch/eli/oc/2010/415)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^9-3]: Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^9-4]: Introdotta dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3113](https://fedlex.data.admin.ch/eli/oc/2010/415)).
+[^9-6]: Introdotto dalla cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^9-7]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 ### Sezione 5: Impieghi all’estero
 
@@ -410,7 +409,7 @@ Il CIVI può derogare all’Appendice 1 nei seguenti casi:
 
 <sup>2</sup> Una persona soggetta al servizio civile che intende svolgere un impiego all’estero nell’ambito d’attività «cooperazione allo sviluppo e aiuto umanitario» deve preventivamente effettuare un periodo d’impiego a titolo di prova o superare un test attitudinale.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 11
 
@@ -442,8 +441,8 @@ Possono essere svolti impieghi all’estero negli ambiti d’attività di cui ar
 
 <sup>5</sup> Gli istituti legati in quanto partner di programmi a strutture che presentano una componente militare non possono essere riconosciuti.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^11-2]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^11-2]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 12
 
@@ -478,7 +477,7 @@ Esso informa immediatamente i servizi seguenti:
 - b. in caso di morte o di pericolo per la vita o l’integrità fisica della persona che presta servizio civile o in caso di una sua detenzione: la rappresentanza svizzera competente, la helpline del DFAE nonché il CIVI;
 - c. in caso di peggioramento della situazione della sicurezza: il CIVI.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 12a
 
@@ -510,7 +509,7 @@ In caso di malattia o di infortunio, informa senza indugio il CIVI e l’assicur
 
 <sup>7</sup> Essa informa il CIVI sul suo impiego secondo le modalità previste da quest’ultimo.
 
-[^12a-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 12b
 
@@ -522,7 +521,7 @@ In caso di malattia o di infortunio, informa senza indugio il CIVI e l’assicur
 
 <sup>2</sup> Il CIVI non convoca una persona soggetta all’obbligo di prestare servizio civile o ne interrompe l’impiego se ritiene che sussistano considerevoli rischi per la sua sicurezza o integrità.
 
-[^12b-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^12b-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 13
 
@@ -532,7 +531,7 @@ In caso di malattia o di infortunio, informa senza indugio il CIVI e l’assicur
 
 Il periodo d’impiego all’estero prende fine con il rientro in Svizzera di chi presta servizio civile, sempreché il rientro avvenga subito dopo l’ultimo giorno di lavoro. In caso contrario, il periodo d’impiego termina l’ultimo giorno di lavoro all’estero.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 14
 
@@ -546,7 +545,7 @@ Il CIVI computa i periodi d’impiego effettuati all’estero sulla durata del s
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 15
 
@@ -564,10 +563,10 @@ Il CIVI computa i periodi d’impiego effettuati all’estero sulla durata del s
 
 <sup>4</sup> Il CIVI licenzia dal servizio civile una persona assoggettata secondo il capoverso 1 al più tardi alla fine dell’anno in cui ha compiuto 49 anni.[^15-4]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^15-3]: Introdotto dal n. I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^15-4]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^15-3]: Introdotto dalla cifra I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^15-4]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 16
 
@@ -592,14 +591,14 @@ Nella sua decisione riguardante l’esclusione dal servizio civile o da prestazi
 - e. se la corretta esecuzione è a rischio;
 - f. l’immagine del servizio civile presso l’opinione pubblica.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^16-2]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^16-2]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^17-1]: Abrogato dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 18
 
@@ -616,7 +615,8 @@ Durante la visita il medico di fiducia valuta:
 - a. il grado di capacità lavorativa della persona soggetta al servizio civile;
 - b. la gravità dei suoi problemi di salute;
 - c. se le possibilità d’impiego proposte dal CIVI sono compatibili con i problemi di salute che la persona sostiene di avere.
-- [tab] <sup>3</sup> Il medico di fiducia espone le misure che ritiene necessarie.
+
+<sup>3</sup> Il medico di fiducia espone le misure che ritiene necessarie.
 
 <sup>4</sup> Se in base agli esami effettuati o alla documentazione in suo possesso il medico di fiducia non è in grado di giungere a una valutazione definitiva, il CIVI dispone i necessari accertamenti supplementari.
 
@@ -628,7 +628,7 @@ Durante la visita il medico di fiducia valuta:
 
 <sup>8</sup> Il CIVI può dichiarare durevolmente incapace al lavoro una persona soggetta al servizio civile che soffre di una malattia grave con decorso evolutivo o con manifestazioni periodiche che comportano ripetutamente periodi di incapacità al lavoro. Esso consulta a questo scopo un medico di fiducia.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 19
 
@@ -653,11 +653,11 @@ Chi è soggetto al servizio civile può essere reincorporato nell’esercito:
 
 <sup>5</sup> Il CIVI trasmette gli atti pertinenti all’Ufficio dell’uditore in capo dell’esercito se la domanda di reincorporazione è presentata da una persona astretta a una prestazione di lavoro di pubblico interesse ed esclusa dall’esercito.[^19-5]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^19-3]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^19-4]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^19-5]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^19-3]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^19-4]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^19-5]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ## Capitolo 4: Esonero dal servizio
 
@@ -672,7 +672,7 @@ Il CIVI applica gli articoli 25–31 dell’ordinanza del 22 novembre 2017[^20-2
 - a. le competenze del Comando Istruzione secondo l’articolo 26 OOPSM, per quanto si tratti di esoneri dal servizio civile, sono assunte dal CIVI;
 - b. nei casi previsti all’articolo 27 lettera d numero 1 OOPSM il CIVI tiene conto del numero di coloro che sono già stati esentati dall’obbligo di prestare servizio militare.
 
-[^20-1]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^20-1]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^20-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 #### Art. 21
@@ -696,13 +696,13 @@ Le persone menzionate nell’articolo 18 capoverso 1 lettera c LM[^21-2] sono es
 
 <sup>2</sup> È computata la durata di un’esenzione dal servizio militare immediatamente precedente.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ## Capitolo 5: Ammissione al servizio civile
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 23
 
@@ -712,7 +712,7 @@ Le persone menzionate nell’articolo 18 capoverso 1 lettera c LM[^21-2] sono es
 
 La domanda di ammissione al servizio civile deve essere presentata per via elettronica o utilizzando il modulo ufficiale.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 24
 
@@ -737,15 +737,15 @@ Una persona che presenta una domanda di ammissione al servizio civile al più ta
 - a. fintanto che non sia stata presa una decisione passata in giudicato in merito alla sua domanda; e
 - b. se è stata reclutata meno di quattro mesi prima della scuola reclute.[^24-3]
 
-[^24-1]: Introdotta dall’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Nuovo testo giusta il n. III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
+[^24-1]: Introdotta dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Nuovo testo giusta la cifra III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
 [^24-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
-[^24-3]: Introdotto dall’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^24-3]: Introdotto dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 25
 
 [^25-1]
 
-[^25-1]: Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^25-1]: Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 26
 
@@ -761,7 +761,7 @@ Una persona che presenta una domanda di ammissione al servizio civile al più ta
 
 <sup>4</sup> Il richiedente deve confermare la sua domanda per via elettronica o in forma cartacea entro le due settimane successive alla partecipazione all’intera giornata d’introduzione.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 26a
 
@@ -775,7 +775,7 @@ Una persona che presenta una domanda di ammissione al servizio civile al più ta
 
 <sup>3</sup> Esso invia al richiedente il titolo di trasporto per recarsi alla giornata d’introduzione e gli versa un’indennità di 9 franchi per il pranzo.
 
-[^26a-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^26a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 26b
 
@@ -787,7 +787,7 @@ Una persona che presenta una domanda di ammissione al servizio civile al più ta
 
 <sup>2</sup> Il richiedente deve confermare la domanda per via elettronica o in forma cartacea al più tardi due settimane dopo averla presentata.
 
-[^26b-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^26b-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 27
 
@@ -815,7 +815,7 @@ Per le persone che in precedenza sono state ufficiali specialisti, la durata com
 
 <sup>6</sup> A partire da cinque decimi, la durata è arrotondata al giorno intero successivo.
 
-[^27-1]: Abrogato dal n. I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^27-1]: Abrogato dalla cifra I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 28
 
@@ -831,7 +831,7 @@ Il CIVI può firmare le proprie decisioni con firme apposte da macchine.
 
 [^chap6-sec1-1]
 
-[^chap6-sec1-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^chap6-sec1-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 29
 
@@ -863,7 +863,7 @@ Il periodo d’impiego a titolo di prova serve a verificare in maniera approfond
 
 Il test attitudinale è il processo durante il quale una persona soggetta al servizio civile è valutata; serve a determinarne l’idoneità a un determinato impiego all’estero.
 
-[^29c-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^29c-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 2: Preparazione degli impieghi
 
@@ -871,7 +871,7 @@ Il test attitudinale è il processo durante il quale una persona soggetta al ser
 
 [^30-1]
 
-[^30-1]: Abrogato dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^30-1]: Abrogato dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 31
 
@@ -889,8 +889,8 @@ Il CIVI può procurarsi dalla persona soggetta al servizio civile dati supplemen
 - d. la formazione e il perfezionamento effettuati e pianificati;
 - e. la professione.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 31a
 
@@ -908,12 +908,12 @@ Il CIVI può procurarsi dalla persona soggetta al servizio civile dati supplemen
 
 <sup>5</sup> ...[^31a-6]
 
-[^31a-1]: Introdotto dal n. I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^31a-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^31a-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^31a-4]: Abrogato dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^31a-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^31a-6]: Abrogato dal n. I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
+[^31a-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^31a-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^31a-4]: Abrogato dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^31a-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^31a-6]: Abrogato dalla cifra I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 32
 
@@ -925,7 +925,7 @@ Il CIVI può procurarsi dalla persona soggetta al servizio civile dati supplemen
 
 <sup>2</sup> L’istituto d’impiego può rifiutare una persona soggetta al servizio civile inadeguata a svolgere l’impiego previsto..
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 32a
 
@@ -935,7 +935,7 @@ Il CIVI può procurarsi dalla persona soggetta al servizio civile dati supplemen
 
 Il CIVI verifica in particolare se il comportamento della persona soggetta al servizio civile ha causato l’interruzione di impieghi precedenti e se sono state adottate misure disciplinari.
 
-[^32a-1]: Introdotto dal n. I dell’O del 6 mar. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^32a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 33
 
@@ -958,7 +958,7 @@ Il CIVI rifiuta l’impiego a titolo di prova qualora:
 - a. la persona soggetta al servizio civile non soddisfi manifestamente i requisiti contenuti nel mansionario; o
 - b. sia già stato autorizzato un test attitudinale.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 34
 
@@ -979,7 +979,7 @@ Il CIVI non autorizza il test attitudinale qualora:
 
 <sup>4</sup> Le spese sono a carico dell’istituto d’impiego.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 3: Durata minima e successione nel tempo dei singoli impieghi
 
@@ -997,20 +997,20 @@ Il CIVI non autorizza il test attitudinale qualora:
 
 <sup>4</sup> La prestazione del servizio civile a tempo parziale è esclusa. È fatto salvo l’articolo 53 capoverso 5.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 36
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^36-1]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 36a
 
 [^36a-1]
 
-[^36a-1]: Introdotto dal n. I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^36a-1]: Introdotto dalla cifra I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 37
 
@@ -1039,15 +1039,15 @@ La scuola reclute è considerata adempiuta, se la persona soggetta al servizio c
 
 <sup>7</sup> ...[^37-9]
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^37-3]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^37-3]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^37-4]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
-[^37-5]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^37-6]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^37-7]: Introdotto dal n. I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^37-8]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^37-9]: Abrogato dal n. I dell’O del 27 giu. 2007, con effetto dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^37-5]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^37-6]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^37-7]: Introdotto dalla cifra I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^37-8]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^37-9]: Abrogato dalla cifra I dell’O del 27 giu. 2007, con effetto dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 #### Art. 38
 
@@ -1078,9 +1078,9 @@ La persona soggetta al servizio civile che ha adempiuto una scuola reclute inizi
 - a. un primo periodo d’impiego che dura almeno 54 giorni; o
 - b.[^38-5] un periodo d’impiego che comprende tutti i giorni di servizio rimanenti, se la durata complessiva del suo servizio civile ordinario ammonta a meno di 54 giorni.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^38-3]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^38-3]: Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^38-4]: Correzione del 1° mag. 2018 ([RU 2018 1757](https://fedlex.data.admin.ch/eli/oc/2018/260)).
 [^38-5]: Correzione del 1° mag. 2018 ([RU 2018 1757](https://fedlex.data.admin.ch/eli/oc/2018/260)).
 
@@ -1088,7 +1088,7 @@ La persona soggetta al servizio civile che ha adempiuto una scuola reclute inizi
 
 [^38a-1]
 
-[^38a-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^38a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 39
 
@@ -1102,8 +1102,8 @@ La persona soggetta al servizio civile inizia il suo primo periodo d’impiego d
 - b. abbia accolto una corrispondente domanda di differimento (art. 44–47);
 - c. non possa impiegarla in un istituto d’impiego appropriato.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^39-2]: Abrogata dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^39-2]: Abrogata dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 39a
 
@@ -1125,7 +1125,7 @@ Essa presta nel corso dell’anno civile successivo al ritorno da un congedo all
 
 <sup>4</sup> Essa può anticipare o recuperare una prestazione di servizio civile annuale secondo il capoverso 1 se ha concluso con un istituto d’impiego una convenzione d’impiego concernente il corrispondente numero di giorni di servizio. Non è possibile un recupero nell’anno del licenziamento dal servizio civile.
 
-[^39a-1]: Introdotto dal n. I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^39a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 ### Sezione 4: Convocazione e tessera d’identità del servizio civile
 
@@ -1145,7 +1145,7 @@ Essa presta nel corso dell’anno civile successivo al ritorno da un congedo all
 
 <sup>5</sup> Il CIVI non convoca la persona soggetta al servizio civile a un periodo d’impiego che avrebbe luogo nei tre mesi che precedono un esame importante.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 40a
 
@@ -1166,7 +1166,7 @@ Il termine di convocazione è di:
 - c. 14 giorni per gli impieghi nel quadro della prevenzione di catastrofi e di situazioni d’emergenza se le misure previste si riferiscono a un evento imminente;
 - d. 30 giorni per gli impieghi di cui alle lettere b e c di durata superiore a 26 giorni.
 
-[^40a-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^40a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 40b
 
@@ -1190,7 +1190,7 @@ Il termine di convocazione è di:
 
 <sup>8</sup> La persona soggetta al servizio civile, l’istituto d’impiego iniziale e i terzi non possono far valere alcuna pretesa risarcitoria se l’impiego iniziale non è effettuato o proseguito.
 
-[^40b-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^40b-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 41
 
@@ -1200,7 +1200,7 @@ Il termine di convocazione è di:
 
 La persona soggetta al servizio civile che non abbia ancora ricevuto una convocazione 14 giorni prima dell’inizio del periodo d’impiego pianificato ne informa immediatamente il CIVI.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 42
 
@@ -1212,7 +1212,7 @@ La persona soggetta al servizio civile che non abbia ancora ricevuto una convoca
 
 <sup>2</sup> Esso disciplina l’uso, l’aggiornamento e la restituzione della tessera, come pure le conseguenze di una sua perdita.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 5: Interruzione del periodo d’impiego
 
@@ -1241,10 +1241,10 @@ Il CIVI può decidere l’interruzione di un periodo d’impiego in corso per tr
 
 <sup>5</sup> La persona soggetta al servizio civile, l’istituto d’impiego e i terzi non possono far valere alcuna pretesa risarcitoria fondata sull’interruzione del periodo d’impiego.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^43-3]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^43-4]: Introdotto dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^43-3]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^43-4]: Introdotto dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ### Sezione 6: Differimento del servizio
 
@@ -1260,8 +1260,8 @@ Il CIVI può decidere l’interruzione di un periodo d’impiego in corso per tr
 
 <sup>3</sup> Le domande devono essere motivate e contenere i mezzi di prova necessari come pure l’indicazione del lasso di tempo in cui il periodo d’impiego in questione dovrebbe avere luogo.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^44-2]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 45
 
@@ -1271,7 +1271,7 @@ Il CIVI può decidere l’interruzione di un periodo d’impiego in corso per tr
 
 Gli obblighi legali, l’obbligo di cercare possibilità d’impiego e la convocazione sono validi fintantoché il differimento del servizio non è stato autorizzato.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 46
 
@@ -1310,12 +1310,12 @@ Il CIVI respinge una domanda:
 
 <sup>5</sup> ...[^46-6]
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^46-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^46-3]: Introdotta dal n. I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogata dall’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, con effetto dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^46-4]: Introdotta dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^46-5]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^46-6]: Abrogato dal n. I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^46-3]: Introdotta dalla cifra I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogata dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, con effetto dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^46-4]: Introdotta dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^46-5]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^46-6]: Abrogato dalla cifra I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 46a
 
@@ -1334,7 +1334,7 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 
 <sup>3</sup> Se vengono meno le condizioni per un differimento d’ufficio del servizio attestate dai documenti di cui al capoverso 2, il CIVI revoca il differimento e la persona interessata adempie il suo obbligo di prestare il servizio civile conformemente all’articolo 39*a*.
 
-[^46a-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^46a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 47
 
@@ -1350,8 +1350,8 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 
 <sup>4</sup> La persona soggetta al servizio civile, l’istituto d’impiego e i terzi non possono far valere alcuna pretesa risarcitoria fondata sull’accoglimento di una domanda di differimento del servizio.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^47-2]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^47-2]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 ### Sezione 7: Congedo per l’estero
 
@@ -1374,9 +1374,9 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 <sup>5</sup> La persona soggetta al servizio civile che si sia recata all’estero senza un congedo e intenda rimanervi più di dodici mesi presenta al CIVI una domanda perché le sia accordata retroattivamente un’autorizzazione di congedo. Fino alla notifica dell’autorizzazione, il congedo chiesto retroattivamente è considerato come non accordato.
 
 [^48-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^48-2]: Introdotto dall’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^48-3]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^48-4]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^48-2]: Introdotto dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^48-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^48-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 49
 
@@ -1397,9 +1397,9 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 <sup>6</sup> Il CIVI informa la persona in questione in merito agli obblighi inerenti al congedo per l’estero e comunica, ove occorra, l’autorizzazione del congedo per l’estero alle autorità competenti in materia di tassa d’esenzione del Cantone di domicilio.[^49-4]
 
 [^49-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
-[^49-2]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^49-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^49-4]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^49-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^49-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^49-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 50
 
@@ -1413,9 +1413,9 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 
 <sup>2</sup> La persona soggetta al servizio civile che si trova in congedo all’estero comunica al CIVI un recapito in Svizzera.[^50-3]
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^50-2]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^50-3]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^50-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^50-3]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 51
 
@@ -1431,9 +1431,9 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 
 <sup>4</sup> La persona soggetta al servizio civile che ha ottenuto un congedo per l’estero e dimora temporaneamente in Svizzera non è tenuta ad annunciarsi e la sua autorizzazione di congedo per l’estero non è annullata se la durata del suo soggiorno in Svizzera non eccede tre mesi. In casi motivati, il CIVI può, su domanda, prorogare tale termine fino a sei mesi. Esso comunica la proroga alle autorità competenti in materia di tassa d’esenzione del Cantone di ultimo domicilio.[^51-3]
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^51-2]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^51-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^51-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ### Sezione 8: Servizio civile ordinario delle persone residenti all’estero
 
@@ -1481,15 +1481,15 @@ Per l’adempimento del servizio civile ordinario sono computabili:
 
 <sup>5</sup> Se la persona che presta servizio civile segue, in virtù di una convocazione del CIVI, un corso introduttivo che ha luogo per ore, ma non partecipa a un impiego del servizio civile al di fuori delle ore del corso, il CIVI computa, ai fini dell’adempimento del servizio civile, un giorno per ogni otto ore di corso seguite.
 
-[^53-1]: Abrogata dal n. I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^53-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^53-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^53-5]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^53-6]: Introdotta dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^53-7]: Introdotta dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^53-8]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^53-9]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^53-1]: Abrogata dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^53-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^53-4]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^53-5]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^53-6]: Introdotta dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^53-7]: Introdotta dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^53-8]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^53-9]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 54
 
@@ -1503,7 +1503,7 @@ Per l’adempimento del servizio civile ordinario sono computabili:
 
 <sup>3</sup> I giorni in cui la persona che presta servizio civile è solo parzialmente capace di lavorare non valgono quali giorni di assenza.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 55
 
@@ -1536,17 +1536,17 @@ Non sono computabili come servizio civile adempiuto:
 - i. l’esecuzione di una pena privativa della libertà fondata sugli articoli 72 a 76 LSC;
 - k. la partecipazione ad atti d’istruzione concernenti un procedimento disciplinare o un caso di responsabilità civile, che abbiano luogo fuori di un periodo d’impiego;
 - l. le visite mediche intervenute su convocazione del CIVI fuori di un periodo d’impiego;
-- [tab] m.[^56-5] appuntamenti legati alle misure preventive di cui all’articolo 76*b* capoverso 1 lettera b;
-- [tab] n.[^56-6] la giornata d’introduzione.
+- m.[^56-5] appuntamenti legati alle misure preventive di cui all’articolo 76*b* capoverso 1 lettera b;
+- n.[^56-6] la giornata d’introduzione.
 
 <sup>2</sup> Se la persona che presta servizio civile diviene, durante un congedo, temporaneamente incapace di lavorare a causa di malattia o infortunio, il CIVI computa come servizio civile adempiuto i giorni d’incapacità al lavoro nel quadro dei giorni d’assenza ai sensi dell’articolo 54.
 
-[^56-1]: Abrogata dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^56-3]: Abrogata dal n. I dell’O del 28 set. 1998, con effetto dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^56-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^56-5]: Introdotta dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^56-6]: Introdotta dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^56-1]: Abrogata dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^56-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^56-3]: Abrogata dalla cifra I dell’O del 28 set. 1998, con effetto dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
+[^56-4]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^56-5]: Introdotta dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^56-6]: Introdotta dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 56a
 
@@ -1556,7 +1556,7 @@ Non sono computabili come servizio civile adempiuto:
 
 I giorni lavorativi che cadono durante le vacanze aziendali dell’istituto d’impiego non sono computati come giorni compiuti di servizio civile, a meno che la persona che presta servizio civile prenda allora le proprie vacanze.
 
-[^56a-1]: Introdotto dal n. I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^56a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 57
 
@@ -1572,7 +1572,7 @@ Il CIVI comunica alla persona che presta servizio civile e all’istituto d’im
 
 [^58-1]
 
-[^58-1]: Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^58-1]: Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ## Capitolo 7: Statuto della persona soggetta al servizio civile
 
@@ -1594,28 +1594,28 @@ Il CIVI comunica alla persona che presta servizio civile e all’istituto d’im
 
 <sup>4</sup> Le autorità d’assistenza sociale del Cantone di dimora sono competenti per la consulenza e il sostegno sociale di una persona che presta servizio civile ed effettua il suo periodo d’impiego fuori del Cantone di domicilio quando essa, per presentarsi alle autorità d’assistenza sociale di quest’ultimo Cantone, sarebbe presumibilmente assente dall’istituto d’impiego per più di una giornata di lavoro.[^59-4]
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^59-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^59-3]: Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^59-4]: Introdotto dal n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^59-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^59-3]: Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^59-4]: Introdotto dalla cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 59a
 
 [^59a-1]
 
-[^59a-1]: Introdotto dal n. I dell’O del 27 giu. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)). Abrogato dal n. I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^59a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)). Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 60
 
 [^60-1]
 
-[^60-1]: Abrogato dal n. I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^60-1]: Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 60a
 
 [^60a-1]
 
-[^60a-1]: Introdotto dal n. I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Abrogato dal n. I dell’O del 27 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 3083](https://fedlex.data.admin.ch/eli/oc/2000/557)).
+[^60a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Abrogato dalla cifra I dell’O del 27 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 3083](https://fedlex.data.admin.ch/eli/oc/2000/557)).
 
 #### Art. 61
 
@@ -1625,7 +1625,7 @@ Il CIVI comunica alla persona che presta servizio civile e all’istituto d’im
 
 La persona che presta servizio civile deve astenersi da qualsiasi forma di propaganda politica o ideologica e di proselitismo religioso durante le ore di lavoro come pure nei locali dell’istituto d’impiego e negli alloggi comuni.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 62
 
@@ -1674,8 +1674,8 @@ Nel fissare il tempo di lavoro e di riposo, l’istituto d’impiego tiene conto
 <sup>2</sup> La persona che presta servizio civile e non accetta le prestazioni in natura offerte dall’istituto d’impiego non può esigere prestazioni in denaro corrispondenti, salvo in casi in cui non possa essere ragionevolmente preteso che essa accetti le prestazioni in natura.[^65-3]
 
 [^65-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^65-2]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^65-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^65-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 66
 
@@ -1685,7 +1685,7 @@ Nel fissare il tempo di lavoro e di riposo, l’istituto d’impiego tiene conto
 
 Se l’istituto d’impiego non è in grado alloggiare la persona che presta servizio civile, le propone un alloggio esterno accettabile, assumendone le spese effettive comprovate.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 67
 
@@ -1703,7 +1703,7 @@ Se l’istituto d’impiego non è in grado alloggiare la persona che presta ser
 
 <sup>5</sup> Se l’utilizzazione di un veicolo a motore privato per l’intero tragitto o per una parte di esso è indispensabile, l’istituto d’impiego versa un rimborso alla persona che presta servizio civile.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 68
 
@@ -1727,11 +1727,11 @@ In caso di impiego all’estero, l’istituto d’impiego assume a proprio caric
 
 <sup>4</sup> Le prestazioni in denaro che chi presta servizio civile ha versato all’istituto d’impiego sotto forma di doni o di prestazioni analoghe durante un periodo d’impiego devono essergli rimborsate completamente. È nulla qualsiasi promessa di doni o di prestazioni analoghe fatta dalla persona che presta servizio civile all’istituto d’impiego nell’ambito della pianificazione dei suoi periodi d’impiego o durante un periodo d’impiego.[^69-5]
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^69-2]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^69-3]: Nuovo testo giusta il n. I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^69-2]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^69-3]: Nuovo testo giusta la cifra I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
 [^69-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^69-5]: Introdotto dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^69-5]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 #### Art. 70
 
@@ -1751,10 +1751,10 @@ In caso di impiego all’estero, l’istituto d’impiego assume a proprio caric
 
 <sup>5</sup> L’istituto d’impiego acclude alla comunicazione dei giorni di servizio destinata al CIVI la domanda di congedo approvata.[^70-4]
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^70-2]: Abrogato dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^70-3]: Nuovo testo giusta il n. I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^70-4]: Nuovo testo giusta il n. I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^70-2]: Abrogato dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^70-3]: Nuovo testo giusta la cifra I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
+[^70-4]: Nuovo testo giusta la cifra I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
 
 #### Art. 71
 
@@ -1790,10 +1790,10 @@ L’istituto d’impiego può, se le condizioni aziendali lo consentono, accorda
 
 <sup>5</sup> In quanto le condizioni aziendali lo consentano, l’istituto d’impiego può accordare alla persona che presta servizio un congedo per la formazione o il perfezionamento professionali, a condizione che essa ricuperi l’assenza eccedente due ore settimanali. L’istituto d’impiego deve tuttavia chiedere il parere del CIVI quando si tratta di una formazione o perfezionamento che ha luogo regolarmente.
 
-[^71-1]: Introdotta dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^71-2]: Abrogata dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^71-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^71-4]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^71-1]: Introdotta dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^71-2]: Abrogata dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^71-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^71-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 72
 
@@ -1813,11 +1813,11 @@ L’istituto d’impiego può, se le condizioni aziendali lo consentono, accorda
 
 <sup>5</sup> Se una persona soggetta al servizio civile vuole prolungare un impiego di una durata inferiore a 180 giorni in modo tale da avere diritto di ricevere giorni di vacanza e se, contemporaneamente, vuole cambiare istituto d’impiego, il CIVI accorda il prolungamento solo se gli istituti d’impiego si accordano sulla ripartizione dei giorni di vacanza.[^72-5]
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^72-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^72-3]: Abrogato dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^72-4]: Introdotto dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^72-5]: Introdotto dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^72-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^72-3]: Abrogato dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^72-4]: Introdotto dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^72-5]: Introdotto dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 73
 
@@ -1829,13 +1829,13 @@ L’istituto d’impiego può, se le condizioni aziendali lo consentono, accorda
 
 <sup>2</sup> e <sup>3</sup> ... [^73-1]
 
-[^73-1]: Abrogati dal n. I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^73-1]: Abrogati dalla cifra I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 74
 
 [^74-1]
 
-[^74-1]: Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^74-1]: Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 3: Obblighi nei confronti delle autorità e dell’istituto d’impiego
 
@@ -1864,11 +1864,11 @@ La persona soggetta al servizio civile notifica senza indugio al CIVI, in partic
 
 <sup>6</sup> I capoversi 1 lettere a e b, 3 e 4 si applicano per analogia alle persone escluse dal servizio civile in virtù dell’articolo 12 LSC fino alla fine dell’anno in cui vengono licenziate dal servizio civile.[^75-5]
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^75-2]: Abrogata dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^75-3]: Abrogato dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^75-4]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^75-5]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^75-2]: Abrogata dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^75-3]: Abrogato dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^75-4]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^75-5]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 76
 
@@ -1886,8 +1886,8 @@ La persona soggetta al servizio civile notifica senza indugio al CIVI, in partic
 
 <sup>5</sup> Esso acclude il certificato medico alla prossima comunicazione dei giorni di servizio destinata al CIVI.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^76-2]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^76-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 76a
 
@@ -1897,7 +1897,7 @@ La persona soggetta al servizio civile notifica senza indugio al CIVI, in partic
 
 All’inizio di ogni periodo d’impiego, la persona soggetta al servizio civile notifica al CIVI qualsiasi pregiudizio alla sua salute e alla sua capacità al lavoro. Essa acclude alla notificazione un certificato medico.
 
-[^76a-1]: Introdotto dal n. I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^76a-1]: Introdotto dalla cifra I dell’O del 28 set. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 76b
 
@@ -1916,7 +1916,7 @@ La persona soggetta al servizio civile che intende svolgere un impiego all’est
 
 <sup>3</sup> Il CIVI può disporre le misure di cui al capoverso 1 anche nei confronti delle persone soggette al servizio civile che intendono prestare un servizio all’estero in un altro ambito d’attività.
 
-[^76b-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^76b-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 77
 
@@ -1926,19 +1926,19 @@ La persona soggetta al servizio civile che intende svolgere un impiego all’est
 
 La persona soggetta al servizio civile collabora ai rilevamenti statistici del CIVI nonché alle misure di controllo dei risultati. Le persone che hanno presentato una domanda di ammissione sono soggette a quest’obbligo nel quadro della giornata d’introduzione.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 4: Introduzione e formazione
 
 [^chap7-sec4-1]
 
-[^chap7-sec4-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^chap7-sec4-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 77a
 
 [^77a-1]
 
-[^77a-1]: Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^77a-1]: Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 78
 
@@ -1950,7 +1950,7 @@ La persona soggetta al servizio civile collabora ai rilevamenti statistici del C
 
 L’istituto d’impiego trasmette alla persona che presta servizio civile, fondandosi su un programma d’introduzione, le conoscenze di base pratiche e le capacità necessarie per svolgere correttamente, in maniera economica e senza causare danni l’attività prevista nella convocazione.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 79
 
@@ -1968,7 +1968,7 @@ L’istituto d’impiego trasmette alla persona che presta servizio civile, fond
 
 <sup>4</sup> Il CIVI può subordinare a oneri e condizioni la sua garanzia per le spese.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 80
 
@@ -2006,7 +2006,7 @@ Il CIVI può organizzare altri corsi di formazione:
 
 <sup>6</sup> La Confederazione versa fino a 3000 franchi per ogni partecipante e per ogni corso.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 81
 
@@ -2025,7 +2025,7 @@ Il CIVI può dispensare la persona soggetta al servizio civile dalla frequenza d
 
 <sup>3</sup> Chi ha seguito un corso di formazione non deve seguirlo nuovamente per altri impieghi.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 81a
 
@@ -2057,8 +2057,8 @@ Il CIVI può autorizzare la frequenza del corso di assistente di cura della Croc
 - a. se l’istituto d’impiego lo richiede espressamente e l’impiego dura almeno 180 giorni;
 - b.[^81a-2] in vista di impieghi per l’aiuto in caso di catastrofe o di situazioni d’emergenza o per la rigenerazione.
 
-[^81a-1]: Introdotto dal n. I dell’O del 6 mar. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^81a-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^81a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^81a-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 82
 
@@ -2070,7 +2070,7 @@ Il CIVI può autorizzare la frequenza del corso di assistente di cura della Croc
 
 <sup>2</sup> Il CIVI può conferire direttamente l’incarico di elaborare un programma di corsi destinato a servire come base per i corsi d’introduzione impartiti dagli istituti d’impiego o per i corsi di formazione specifici in funzione dell’impiego. La Confederazione ne assume le spese*.*
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ### Sezione 5: Spese di viaggio e di trasporto dei bagagli
 
@@ -2090,11 +2090,11 @@ Il CIVI può autorizzare la frequenza del corso di assistente di cura della Croc
 
 <sup>5</sup> La persona che presta servizio civile riceve, su richiesta, i titoli di trasporto necessari.[^83-5]
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^83-2]: Abrogato dal n. I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^83-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^83-4]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^83-5]: Introdotto dal n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^83-2]: Abrogato dalla cifra I dell’O del 15 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^83-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^83-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^83-5]: Introdotto dalla cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 84
 
@@ -2106,7 +2106,7 @@ Il CIVI può autorizzare la frequenza del corso di assistente di cura della Croc
 
 <sup>2</sup> La Confederazione rimborsa alle imprese dei trasporti pubblici le spese di tali viaggi. È applicata una tariffa ridotta.
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 85
 
@@ -2116,7 +2116,7 @@ Il CIVI può autorizzare la frequenza del corso di assistente di cura della Croc
 
 Durante il periodo d’impiego, chi presta servizio civile viaggia a tariffa ridotta sui mezzi di trasporto pubblici se munito di tessera d’identità del servizio civile.
 
-[^85-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^85-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 #### Art. 86
 
@@ -2128,13 +2128,13 @@ Durante il periodo d’impiego, chi presta servizio civile viaggia a tariffa rid
 
 <sup>2</sup> Il CIVI rimborsa alla persona soggetta al servizio civile, dietro presentazione delle ricevute, le spese di tali trasporti effettuati mediante mezzi di trasporto pubblici, se detti trasporti erano necessari. Esso non assume a proprio carico le spese di trasloco.[^86-1]
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ### Sezione 6: Equipaggiamento a scopo d’identificazione
 
 [^chap7-sec6-1]
 
-[^chap7-sec6-1]: Introdotta dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^chap7-sec6-1]: Introdotta dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 #### Art. 86a
 
@@ -2150,7 +2150,7 @@ Durante il periodo d’impiego, chi presta servizio civile viaggia a tariffa rid
 
 <sup>4</sup> Il CIVI emana istruzioni concernenti l’utilizzazione e il trattamento degli equipaggiamenti.
 
-[^86a-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^86a-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 86b
 
@@ -2166,7 +2166,7 @@ Durante il periodo d’impiego, chi presta servizio civile viaggia a tariffa rid
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 87
 
@@ -2220,7 +2220,7 @@ L’istituto richiedente illustra:
 
 <sup>12</sup> Le persone competenti del CIVI possono visitare gli istituti d’impiego.
 
-[^87-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 87a
 
@@ -2232,7 +2232,7 @@ L’istituto richiedente illustra:
 
 <sup>2</sup> Le proposte di modifica del riconoscimento non necessitano della dichiarazione di cui al capoverso 1.
 
-[^87a-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87a-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 88
 
@@ -2270,9 +2270,9 @@ La decisione di riconoscimento contiene in particolare:
 
 <sup>4</sup> Se la domanda si riferiva a più istituti, ognuno di essi riceve una propria decisione.
 
-[^89-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^89-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^89-3]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^89-1]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^89-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^89-3]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 90
 
@@ -2296,7 +2296,7 @@ La decisione di riconoscimento contiene in particolare:
 
 <sup>2</sup> Il CIVI può esigere documenti e informazioni dall’istituto d’impiego.
 
-[^91-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^91-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 92
 
@@ -2330,12 +2330,12 @@ Il CIVI revoca la decisione di riconoscimento se l’istituto d’impiego:
 
 <sup>7</sup> Un’istituzione la cui decisione di riconoscimento è stata revocata secondo il capoverso 4 lettere b o c può presentare una nuova domanda di riconoscimento quale istituto d’impiego al più presto cinque anni dopo che la decisione di revoca è passata in giudicato.[^92-6]
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-3]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^92-4]: Introdotto dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^92-5]: Introdotto dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^92-6]: Introdotto dal n. I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^92-3]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-4]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-5]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-6]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 ## Capitolo 9: Statuto dell’istituto d’impiego
 
@@ -2353,10 +2353,10 @@ Il CIVI revoca la decisione di riconoscimento se l’istituto d’impiego:
 
 <sup>3</sup> Il CIVI intrattiene contatti regolari con l’istituto d’impiego.[^93-4]
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^93-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^93-3]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^93-4]: Introdotto dal n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^93-2]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^93-3]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^93-4]: Introdotto dalla cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 94
 
@@ -2368,7 +2368,7 @@ Il CIVI revoca la decisione di riconoscimento se l’istituto d’impiego:
 
 <sup>2</sup> L’istituto d’impiego invia al CIVI, entro cinque giorni dalla fine del periodo di conteggio, la notificazione dei giorni di servizio.[^94-1]
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 95
 
@@ -2380,7 +2380,7 @@ Il CIVI revoca la decisione di riconoscimento se l’istituto d’impiego:
 
 <sup>2</sup> Durante i primi 26 giorni del periodo d’impiego, l’istituto d’impiego deve soltanto la metà dei tributi.
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 96
 
@@ -2413,8 +2413,8 @@ Il CIVI riscuote tuttavia i tributi:
 
 <sup>3</sup> Per calcolare il reddito di cui al capoverso 1 lettera b e al capoverso 2 lettera a il CIVI si basa sul reddito imponibile tassato secondo la legge federale del 14 dicembre 1990[^96-3] sull’imposta federale diretta, dedotti 50 000 franchi per i gestori coniugati, e maggiorato di 500 franchi per ogni 10 000 franchi di sostanza imponibile secondo l’ultima tassazione definitiva. Fanno stato i valori degli ultimi due anni fiscali che sono stati oggetto di una tassazione definitiva passata in giudicato fino al momento della presentazione della domanda di riconoscimento quale istituto d’impiego. Se questi risalgono a più di quattro anni prima, si prende in considerazione la tassazione provvisoria. Se questa è divenuta definitiva, si verifica l’assoggettamento.
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^96-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^96-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^96-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 #### Art. 97
@@ -2450,13 +2450,13 @@ L’istituto d’impiego presenta la domanda al CIVI con un anticipo sufficiente
 
 <sup>7</sup> L’istituto d’impiego riferisce regolarmente al CIVI in merito allo svolgimento del progetto. Al termine del progetto, gli presenta un rapporto e un conto finale.[^97-7]
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-4]: Introdotta dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-5]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-6]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-7]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^97-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^97-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^97-4]: Introdotta dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^97-5]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^97-6]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^97-7]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 97a
 
@@ -2484,7 +2484,7 @@ Esso può dare in prestito agli istituti d’impiego, a scopo d’identificazion
 
 <sup>7</sup> Il CIVI emana istruzioni concernenti la restituzione del materiale dato in prestito.
 
-[^97a-1]: Introdotto dal n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^97a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 98
 
@@ -2496,7 +2496,7 @@ Esso può dare in prestito agli istituti d’impiego, a scopo d’identificazion
 
 <sup>2</sup> Il CIVI può formulare raccomandazioni a tali istituti d’impiego e informare gli organi loro preposti.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ### Sezione 2: Rapporti con le persone che prestano servizio civile
 
@@ -2518,11 +2518,11 @@ Esso può dare in prestito agli istituti d’impiego, a scopo d’identificazion
 
 <sup>6</sup> I terzi cui è stato delegato il diritto d’impartire istruzioni non possono subdelegare tale diritto ad altre persone o istituzioni.[^99-5]
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^99-2]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^99-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^99-4]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^99-5]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^99-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^99-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^99-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^99-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^99-5]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 99a
 
@@ -2534,7 +2534,7 @@ Esso può dare in prestito agli istituti d’impiego, a scopo d’identificazion
 
 <sup>2</sup> L’istituto d’impiego limita nel tempo, nello spazio e nella materia il diritto delegato d’impartire istruzioni.
 
-[^99a-1]: Introdotto dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^99a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 100
 
@@ -2565,11 +2565,11 @@ Esso comunica la propria decisione:
 
 <sup>6</sup> L’istituto che ha beneficiato della cessione dei diritti e degli obblighi non è autorizzato a subdelegarli ad altri istituti.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^100-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^100-3]: Introdotto dal n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^100-4]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^100-5]: Abrogata dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^100-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^100-3]: Introdotto dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^100-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^100-5]: Abrogata dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ## Capitolo 10: Disposizioni sulla responsabilità civile e disposizioni penali
 
@@ -2599,7 +2599,7 @@ Chiunque intenda far valere un danno fondato sulle disposizioni della LSC concer
 
 [^103108-1]
 
-[^103108-1]: Abrogati dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^103108-1]: Abrogati dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 ## Capitolo 12: Esecuzione
 
@@ -2650,10 +2650,10 @@ I questionari compilati dalle persone soggette al servizio civile dopo gli impie
 
 <sup>5</sup> I questionari compilati dai responsabili dei corsi dopo i corsi di formazione contengono i loro nominativi.
 
-[^110-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^110-2]: Nuovo testo giusta l’all. 2 n. II 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^110-3]: Nuovo testo giusta l’all. 2 n. II 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^110-4]: Nuovo testo giusta l’all. 2 n. II 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^110-2]: Nuovo testo giusta l’all. 2 cifra II n. 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-3]: Nuovo testo giusta l’all. 2 cifra II n. 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^110-4]: Nuovo testo giusta l’all. 2 cifra II n. 114 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 110a
 
@@ -2692,7 +2692,7 @@ Nella banca dati sono registrati i dati delle persone seguenti:
 
 <sup>3</sup> I dati personali sono conservati nella banca dati per cinque anni dopo l’ultimo trattamento e poi cancellati.
 
-[^110a-1]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^110a-1]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 111
 
@@ -2714,18 +2714,18 @@ Il DEFR può, senza che occorra adeguare previamente la presente ordinanza, auto
 
 <sup>2</sup> Esso delimita la durata delle regolamentazioni sperimentali.
 
-[^111-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^111-2]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^111-3]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^111-4]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^111-5]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^111-6]: Abrogata dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^111-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^111-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^111-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^111-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^111-5]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^111-6]: Abrogata dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 #### Art. 111a
 
 [^111a-1]
 
-[^111a-1]: Introdotto dal n. I dell’O del 27 nov. 2000 ([RU 2000 3083](https://fedlex.data.admin.ch/eli/oc/2000/557)). Abrogato dal n. I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^111a-1]: Introdotto dalla cifra I dell’O del 27 nov. 2000 ([RU 2000 3083](https://fedlex.data.admin.ch/eli/oc/2000/557)). Abrogato dalla cifra I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 111b
 
@@ -2738,9 +2738,9 @@ Il DEFR può, senza che occorra adeguare previamente la presente ordinanza, auto
 <sup>2</sup> La tassa è calcolata in funzione del dispendio di tempo; tuttavia, essa non può eccedere i 540 franchi. Per ogni ora impiegata è fatturato un importo di 90 franchi.[^111b-4]
 
 [^111b-1]: Introdotto n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
-[^111b-2]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^111b-3]: Nuovo testo giusta il n. I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^111b-4]: Nuovo testo giusta il n. I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^111b-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^111b-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^111b-4]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
 #### Art. 111c
 
@@ -2759,7 +2759,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 [^112113-1]
 
-[^112113-1]: Abrogati dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^112113-1]: Abrogati dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 114
 
@@ -2771,7 +2771,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 <sup>3</sup> Il riconoscimento di istituti d’impiego attivi nel settore dell’agricoltura è valido fino alla scadenza della durata di validità limitata della decisione di riconoscimento, dei contingenti accordati o dei mansionari.
 
-[^114-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^114-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 115
 
@@ -2786,13 +2786,13 @@ Gli istituti d’impiego che sono stati riconosciuti prima del 1° aprile 2009 n
 
 <sup>2</sup> Se nella decisione di riconoscimento di un istituto d’impiego la categoria secondo l’Appendice 2*a* deve essere adeguata, l’istituto d’impiego paga il tributo fissato in base alla categoria stabilita in precedenza fino al passaggio in giudicato della modifica.
 
-[^115-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^115-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 116
 
 [^116-1]
 
-[^116-1]: Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^116-1]: Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 117
 
@@ -2814,7 +2814,7 @@ Gli istituti d’impiego che sono stati riconosciuti prima del 1° aprile 2009 n
 
 <sup>8</sup> Se nella decisione di riconoscimento di un istituto d’impiego si rende necessaria la modifica della categoria di cui all’Appendice 2*a*, finché la modifica non è definitiva l’istituto d’impiego versa la tassa in base alla categoria precedente. Per gli impieghi concordati prima dell’entrata in vigore della modifica del 3 giugno 2016 si applicano le tariffe di cui all’Appendice 2*a* del diritto anteriore.
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
 #### Art. 118
 
@@ -2829,7 +2829,7 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 - e. la persona soggetta al servizio civile che ha compiuto 26 anni presta, nel corso dell’anno successivo al ritorno da un congedo all’estero o successivo al termine dell’esonero dal servizio, almeno un numero di giorni di servizio civile tale che, nel corso degli anni successivi, le restano in media ancora 26 giorni di servizio al massimo da prestare ogni anno fino al raggiungimento del limite d’età ordinario previsto all’articolo 11 LSC nella versione precedente il 1° gennaio 2018;
 - f. la persona soggetta al servizio civile può anticipare o recuperare una prestazione di servizio civile annuale secondo la lettera a, se ha concluso con un istituto d’impiego una convenzione d’impiego concernente il corrispondente numero di giorni di servizio. Non è possibile un recupero nell’anno del licenziamento dal servizio civile.
 
-[^118-1]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^118-1]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 118a
 
@@ -2839,31 +2839,31 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 
 <sup>2</sup> Per gli impieghi concordati prima dell’entrata in vigore della modifica si applicano le tariffe di cui all’Appendice 2*a* del diritto anteriore.
 
-[^118a-1]: Introdotto dal n. I dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+[^118a-1]: Introdotto dalla cifra I dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
 
 #### Art. 118<sup>bis</sup>
 
 [^118bis-1]
 
-[^118bis-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dal n. IV 41 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^118bis-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra IV n. 41 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 118<sup>ter</sup>
 
 [^118ter-1]
 
-[^118ter-1]: Introdotto dal n. I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dal n. I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^118ter-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 118<sup>quater</sup>
 
 [^118quater-1]
 
-[^118quater-1]: Introdotto dal n. I dell’O del 27 giu. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)). Abrogato dal n. I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^118quater-1]: Introdotto dalla cifra I dell’O del 27 giu. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)). Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 118<sup>quinquies</sup>
 
 [^118quinquies-1]
 
-[^118quinquies-1]: Introdotto dal n. I dell’O del 15 ott. 2008 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)). Abrogato dal n. I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^118quinquies-1]: Introdotto dalla cifra I dell’O del 15 ott. 2008 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)). Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 ## Capitolo 14: Entrata in vigore
 
@@ -2881,7 +2881,7 @@ Appendice 1[^t-1]
 
 ## Numero massimo di persone che prestano servizio civile in un istituto d’impiego
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aggiornato dal n. II dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aggiornato dalle cifre II delle O del 15 nov. 2017 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 
 ### 1. Principio
 
@@ -2920,7 +2920,7 @@ Negli istituti d’impiego con più di 60 posti a tempo pieno, il numero massimo
 ### 2. Regole per le aziende agricole
 
 <table>
-<tr><td>a. Aziende, escluse le aziende con pascoli comunitari e le aziende d’estivazione nonché le aziende con pascoli comunitari e le aziende d’estivazione che realizzano progetti di miglioramento strutturale</td><td>Numero massimo di persone che prestano servizio civile</td><td></td></tr>
+<tr><th>a. Aziende, escluse le aziende con pascoli comunitari e le aziende d’estivazione</th><th>Numero massimo di persone che prestano servizio civile</th><th></th></tr>
 <tr><td></td><td>1</td><td></td></tr>
 </table>
 
@@ -2947,7 +2947,7 @@ Appendice 2[^t-2]
 
 ## Computo dei giorni non lavorativi (art. 53 cpv. 3) e dei giorni d’assenza dovuta a malattia o infortunio (art. 54 cpv. 2)
 
-[^t-2]: Nuovo testo giusta il n. III cpv. 1 dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Aggiornata dal n. II dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
+[^t-2]: Nuovo testo giusta la cifra III cpv. 1 dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Aggiornata dalla cifra II dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 
 <table>
 <tr><td>1.</td><td>Totale dei giorni da effettuare (durata complessiva o residua):</td><td>Giorni non lavorativi computabili (art. 53 cpv. 3):</td></tr>
@@ -2993,7 +2993,7 @@ Appendice 2a[^t-3]
 
 ## Ammontare dei tributi in funzione del salario lordo
 
-[^t-3]: Introdotta dal n. III cpv. 2 dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta il n. II dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+[^t-3]: Introdotta dalla cifra III cpv. 2 dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra II dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
 
 ### 1. Tariffa di base
 
@@ -3033,7 +3033,7 @@ Appendice 3
 
 [^annex3-lvlu1-lvl1-1]
 
-[^annex3-lvlu1-lvl1-1]: [[RU 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516), [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094), [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
+[^annex3-lvlu1-lvl1-1]: [[RU 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516); [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094); [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
 
 ### 2. a 9.
 
