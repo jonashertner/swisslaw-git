@@ -4,13 +4,12 @@ number: "151.11"
 title: Reglement über die Geschäftsordnung des Landrates
 short: "Landratsreglement, LRR"
 language: de
-version: 2024-02-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-27
+version: 2025-01-01
+version_adopted: 2024-09-25
 adopted: 1998-09-16
 in_force: 1998-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1253/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1393/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1253/pdf_file"
 
 (Landratsreglement, LRR)
 
-vom 16.09.1998 (Stand 01.02.2024)
+vom 16.09.1998 (Stand 01.01.2025)
 
 Der Landrat von Nidwalden,
 
@@ -589,6 +588,25 @@ Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der K
 
 <sup>3</sup> Über Anmerkungen beschliesst der Landrat vor der Schlussabstimmung. Wird die Vorlage zur Kenntnis genommen, beschliesst er nach Abschluss der Beratung der Vorlage über die Anmerkungen.
 
+#### § 56b
+
+**Planungsberichte; Anmerkung und Stellungnahme**
+
+<sup>1</sup> Planungsberichte beinhalten:
+
+- 1\. Strategien oder Konzepte;
+- 2\. Vorentscheidungen zur Vorbereitung einer Verfassungs- oder Gesetzesänderung oder eines in die Zuständigkeit des Landrates fallenden Beschlusses.
+
+<sup>2</sup> Der Regierungsrat legt gestützt auf eine gutgeheissene Motion dem Landrat einen Planungsbericht vor. Er kann auch von sich aus einen Planungsbericht vorlegen.
+
+<sup>3</sup> Für Anmerkungen gilt § 56a.
+
+<sup>4</sup> Der Landrat kann dem Regierungsrat Aufträge im Zusammenhang mit der Planung erteilen. Für Aufträge gilt § 56a Abs. 2 und 3 sinngemäss.
+
+<sup>5</sup> Der Regierungsrat berücksichtigt die Anmerkungen und setzt die Aufträge um. Er kann begründet davon abweichen und setzt den Landrat darüber in Kenntnis.
+
+<sup>6</sup> Der Landrat beschliesst mit der Schlussabstimmung, ob er zum Planungsbericht zustimmend oder ablehnend Stellung nimmt.
+
 #### § 57
 
 **Schlussabstimmung**
@@ -604,7 +622,7 @@ Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der K
 <sup>2</sup> Der Landrat nimmt insbesondere Kenntnis:
 
 - 1\. vom Legislaturprogramm und der Jahreszielplanung;
-- 2\. von Berichten des Regierungsrates, die dieser dem Landrat aufgrund eines parlamentarischen Vorstosses erstattet.
+- 2\. von Berichten des Regierungsrates, die dieser dem Landrat aufgrund eines parlamentarischen Vorstosses erstattet. Ausgenommen sind Planungsberichte.
 
 ### 3.5 Beschlussfassung
 
@@ -1115,7 +1133,8 @@ Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der K
 
 - 1\. eine Änderung der Kantonsverfassung einzuleiten;
 - 2\. den Erlass, die Aufhebung oder die Änderung eines Gesetzes einzuleiten;
-- 3\. eine Verfügung oder einen Beschluss vorzubereiten, soweit der Landrat hierfür zuständig ist.
+- 3\. einen Beschluss vorzubereiten, soweit der Landrat hierfür zuständig ist;
+- 4\. einen Planungsbericht zu wichtigen Planungen der Staatstätigkeit zu verfassen.
 
 <sup>2</sup> Unzulässig sind Motionen über:
 
@@ -1246,7 +1265,7 @@ Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der K
 
 #### § 115a
 
-**Übergangsbestimmung zur Änderung vom ...**
+**Übergangsbestimmung zur Änderung vom 29. März 2023**
 
 <sup>1</sup> Für Motionen und Postulate, die zum Zeitpunkt des Inkrafttretens dieser Änderung gutgeheissen sind, gelten die bisherigen Bestimmungen.
 
