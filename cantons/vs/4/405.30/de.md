@@ -4,13 +4,12 @@ number: "405.30"
 title: Verordnung über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule
 short: VBOS
 language: de
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-05-08
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/de/versions/3314/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3314/pdf_file"
 
 (VBOS)
 
-vom 20.06.2012 (Stand 01.09.2024)
+vom 20.06.2012 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -149,21 +148,35 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Frist für die Berechnung der Besoldung bei Krankheit oder Unfall beginnt beim Eintreten der Ursache für die Arbeitsunfähigkeit, auch wenn diese während der Ferien oder des Urlaubs erfolgt.
 
-<sup>2</sup> Hat eine Lehrperson keinen Anspruch mehr auf die Besoldung bei Krankheit oder Unfall, und kann sie aufgrund der Sommerferien die Arbeit nicht wiederaufnehmen, erhält sie die Besoldung bis am Schluss derselben.
+<sup>2</sup> …
 
 #### Art. 13
 
 **Besoldung bei Krankheit**
 
-<sup>1</sup> Für das Personal, welches für eine unbefristete Dauer angestellt ist sowie für das Personal, welches für eine befristete Dauer, jedoch länger als für ein Jahr angestellt ist, ist die Besoldung bei Krankheit gemäss Artikel 12 des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis wie folgt geregelt:
+<sup>1</sup> Für das Personal, welches für eine unbefristete oder befristete Dauer angestellt ist, ist die Besoldung bei Krankheit gemäss Artikel 12 des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis (GBes) wie folgt geregelt:
 
 <table>
 <tr><th>Anstellungsjahr</th><th>Dauer der Besoldung bei Krankheit</th></tr>
-<tr><td>Während dem 1. Jahr</td><td>sechs Monate</td></tr>
-<tr><td>Während dem 2. Jahr</td><td>acht Monate</td></tr>
-<tr><td>Während dem 3. Jahr</td><td>zwölf Monate</td></tr>
-<tr><td>Ab dem 4. Jahr</td><td>13 1/2 Monate</td></tr>
+<tr><td>Während dem 1. Jahr</td><td>sechs Monate, bzw. 180 Tage</td></tr>
+<tr><td>Während dem 2. Jahr</td><td>acht Monate, bzw. 240 Tage</td></tr>
+<tr><td>Während dem 3. Jahr</td><td>zwölf Monate, bzw. 360 Tage</td></tr>
+<tr><td>Ab dem 4. Jahr</td><td>dreizehneinhalb Monate, bzw. 405 Tage</td></tr>
 </table>
+
+<sup>2</sup> Für Lehrpersonen, die für eine bestimmte Dauer angestellt sind, endet die Besoldung nach Absatz 1 spätestens mit dem Ablauf der Anstellung.
+
+<sup>3</sup> Ein Monat ist ein Zeitraum von 30 Tagen, unabhängig von der tatsächlichen Anzahl der Tage in diesem Monat.
+
+<sup>4</sup> Die Besoldung im Krankheitsfall wird auf der Grundlage der Situation der Lehrkraft am Tag der Arbeitsunfähigkeit festgelegt.
+
+<sup>5</sup> Die Erschöpfung des Anspruchs auf Besoldung wird durch die Addition der Tage der durch eine Krankheit oder einen Nichtberufsunfall verursachten Arbeitsunfähigkeit bis zu der in Absatz 1 dieses Artikels vorgesehenen Anzahl von Tagen bestimmt, die unabhängig von der Ursache und dem Grad der Arbeitsunfähigkeit mit aufeinanderfolgenden Tagen und rückwirkend ab jedem neuen Tag der Arbeitsunfähigkeit innerhalb einer Rahmenfrist von 585 Tagen berechnet werden.
+
+<sup>6</sup> Bei Erlöschen des Anspruchs auf Besoldung wird ein Entscheid über die vollständige Auflösung des Dienstverhältnisses erlassen. Eine sofortige oder späte-re Wiedereinstellung kann gegebenenfalls zum verbleibenden Grad der Arbeitsfähigkeit gemäss Artikel 59 Abs. 2 kGPers in der zuvor ausgeübten Funktion oder, mit Zustimmung der betroffenen Person, in einer anderen, geeigneteren Funktion erfolgen. Eine eventuelle Wiedereinstellung entspricht einer Neuanstellung in Bezug auf das Recht auf Besoldung im Krankheitsfall.
+
+<sup>7</sup> Eine neue Rahmenfrist von 585 Tagen beginnt am ersten Tag der Arbeitsunfähigkeit nach dem Datum der Wiedereinstellung und ein neuer Anspruch auf Besoldung wegen Arbeitsunfähigkeit beginnt entsprechend der in Artikel 12 und 13 GBes vorgesehenen Dauer.
+
+<sup>8</sup> Bei einer späteren vollständigen oder teilweisen Wiedereinstellung gelten die in den Absätzen 6 und 7 festgelegten Grundsätze entsprechend.
 
 #### Art. 14
 
@@ -177,21 +190,25 @@ verordnet:[^ingress-1]
 
 **Besoldung bei Mutterschaft**
 
-<sup>1</sup> Im Falle eines Arbeitsunterbruchs infolge Mutterschaft wird die Besoldung während 16 Wochen ausbezahlt, wenn der Unterricht nach der Geburt mindestens während sechs Monaten, Sommerferien inbegriffen, fortgeführt wird.
+<sup>1</sup> Im Falle eines Arbeitsunterbruchs infolge Mutterschaft wird die Besoldung während 16 Wochen ausbezahlt, wenn das Dienstverhältnis nach der Niederkunft mindestens während sechs Monaten fortgeführt wird.
 
-<sup>1<sup>bis</sup></sup> Bei Verlängerung der Mutterschaftsentschädigung gemäss Artikel 16c Absatz 3 EOG, wird der Lohn gestützt auf Artikel 6 Absatz 2 kGPers und Artikel 329f Absatz 2 OR während maximal 42 Tagen zu 100 Prozent weiterbezahlt.
+<sup>1<sup>bis</sup></sup> Bei einem längeren Spitalaufenthalt des Neugeborenen wird die Besoldung entsprechend der in Artikel 16c Absatz 3 EOG vorgesehenen Dauer verlängert, sofern die Voraussetzungen erfüllt sind.
 
-<sup>2</sup> Wird die Arbeit innerhalb von sechs Monaten nach der Niederkunft nicht wieder aufgenommen, besteht ein Besoldungsanspruch während acht Wochen.
+<sup>2</sup> Bei Auflösung des Dienstverhältnisses während des Zeitraums, in dem eine Besoldung bei Mutterschaft entrichtet wird, beträgt der Besoldungsanspruch acht Wochen.
 
-<sup>3</sup> Endet das Arbeitsverhältnis vor sechs Monaten nach der Niederkunft, wird der Besoldungsanspruch pro rata temporis gekürzt.
+<sup>3</sup> Wird das Dienstverhältnis zwischen dem Ende der Besoldung bei Mutterschaft und den sechs Monaten nach der Niederkunft aufgelöst, wird der Besoldungsanspruch prorata temporis gekürzt.
+
+<sup>3<sup>bis</sup></sup> Hat die Lehrerin eine höhere Besoldung bei Mutterschaft erhalten, als ihr nach vorliegendem Artikel zusteht, so muss sie den Überschuss zurückerstatten, wobei ihr eine allfällige Mutterschaftsentschädigung verbleibt.
 
 <sup>4</sup> Falls aus medizinischen Gründen, welche durch ein ärztliches Zeugnis belegt werden, die Abwesenheit länger als 16 Wochen dauert, gelten die Regelungen bezüglich der Besoldung bei Krankheit ab dem ersten Tag der Abwesenheit.
 
 <sup>5</sup> Die Besoldung bei Mutterschaft wird nicht ausgerichtet, wenn das Dienstverhältnis zum Zeitpunkt der Niederkunft nicht mehr besteht oder suspendiert wurde.
 
-<sup>6</sup> Falls das Personal für eine bestimmte Zeit angestellt ist und die Geburt vor dem Ende des Arbeitsverhältnisses stattfindet, wird die Besoldung bei Mutterschaft bis Ende des Arbeitsverhältnisses ausgerichtet.
+<sup>6</sup> Falls das Personal für eine bestimmte Zeit angestellt ist und die Niederkunft vor dem Ende des Arbeitsverhältnisses stattfindet, wird die Besoldung bei Mutterschaft bis Ende des Arbeitsverhältnisses ausgerichtet.
 
 <sup>7</sup> Das Personal, das einen Besoldungsanspruch bei Mutterschaft von 16 Wochen hat, kann eine Vorleistung der Besoldung bei Mutterschaft von bis zu höchstens zwei Wochen verlangen.
+
+<sup>8</sup> Stirbt der Vater des Kindes oder die Ehefrau der Mutter innerhalb von sechs Monaten nach der Geburt des Kindes, so hat die Mutter Anspruch auf einen zusätzlichen Urlaub, der dem Urlaub des anderen Elternteils in Artikel 20 der vorliegenden Verordnung entspricht.
 
 #### Art. 16
 
@@ -259,11 +276,19 @@ verordnet:[^ingress-1]
 
 #### Art. 20
 
-**Elternschaftsurlaub**
+**Urlaub des anderen Elternteils**
 
-<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Elternschaftsurlaub vom Äquivalent eines doppelten Vollzeitwochenpensums – pro rata temporis zu seinem Beschäftigungsgrad – gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Urlaub des anderen Elternteils vom Äquivalent eines doppelten Vollzeitwochenpensums – prorata temporis zu seinem Beschäftigungsgrad – gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
 
 <sup>2</sup> Diese Tage können als Wochen oder als einzelne Tage bezogen werden, wobei die Schulorganisation so weit wie möglich zu berücksichtigen ist.
+
+<sup>2<sup>bis</sup></sup> Wenn die Mutter innerhalb von 14 Wochen nach der Geburt des Kindes stirbt, hat der Vater des Kindes oder die Ehefrau der Mutter Anspruch auf einen zusätzlichen Urlaub von 14 Wochen neben dem im vorliegenden Artikel vorgesehenen Urlaub.
+
+<sup>2<sup>ter</sup></sup> Dieser Urlaub muss ab dem Folgetag des Todes am Stück bezogen werden.
+
+<sup>2<sup>quater</sup></sup> Wenn das Kind nach der Geburt im Spital bleiben muss, gilt Artikel 15 Absatz 1<sup>bis</sup> der vorliegenden Verordnung sinngemäss.
+
+<sup>2<sup>quinquies</sup></sup> Die in Absatz 1 vorgesehene sechsmonatige Rahmenfrist steht während der Zeit still, in der der Urlaubsanspruch nach den Absätzen 2<sup>bis</sup> bis 2<sup>quater</sup> ausgeübt wird.
 
 <sup>3</sup> Die Entschädigung der Ausgleichskasse gehört dem Arbeitgeber, welcher weiterhin den vollen Lohn auszahlt.
 
@@ -271,11 +296,11 @@ verordnet:[^ingress-1]
 
 **Unbezahlte Urlaube**
 
-<sup>1</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, ist das Personal dazu berechtigt, namentlich nach einem Mutterschafts-, Adoptions- oder Elternschaftsurlaub unbezahlten Urlaub (pro rata temporis) zu beziehen. Der Arbeitgeber übernimmt für die Dauer eines solchen unbezahlten Urlaubs die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge), aber im Maximum während drei Monaten. Bei einem Antrag auf unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird das Personal darauf aufmerksam gemacht, dass sein Recht auf den Lohnanspruch während der oben erwähnten Urlaube vermindert wird, sofern es seine Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt.
+<sup>1</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, ist das Personal dazu berechtigt, namentlich nach einem Mutterschafts-, Adoptions- oder Urlaub des anderen Elternteils unbezahlten Urlaub (prorata temporis) zu beziehen. Der Arbeitgeber übernimmt für die Dauer eines solchen unbezahlten Urlaubs die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge), aber im Maximum während drei Monaten. Die sechsmonatige Frist in Artikel 15 Absatz 3 der vorliegenden Verordnung steht für die Dauer dieses unbezahlten Urlaubs still.
 
-<sup>2</sup> Für den Antragsteller ist Artikel 2 und folgende des Gesetzes über Besoldung des Personals während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während dieses Zeitraums die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
+<sup>2</sup> Für den Antragsteller sind die Artikel 2 fortfolgende des Gesetzes über die Besoldung des Personals während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während dieses Zeitraums die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
 
-<sup>3</sup> Während seines unbezahlten Urlaubs muss das Personal alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, evt. berufliche Vorsorge usw.).
+<sup>3</sup> Während seines unbezahlten Urlaubs muss das Personal alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, evtl. berufliche Vorsorge usw.).
 
 #### Art. 22
 
@@ -594,18 +619,21 @@ verordnet:[^ingress-1]
 
 #### Art. 40
 
-**Besoldung der Stellvertreter bei Krankheit, Unfall oder obligatorischem Militärdienst**
+**Besoldung der Stellvertreter bei Krankheit oder Unfall**
 
-<sup>1</sup> Sofern in ein und demselben Schuljahr eine Stellvertretung länger als neun effektive Wochen gedauert hat, haben die Stellvertreter bei nicht selbst verschuldeten Absenzen wie Krankheit, Unfall oder obligatorischer Militärdienst Anrecht auf folgende Leistungen:
+<sup>1</sup> Sofern in ein und demselben Schuljahr eine Stellvertretung länger als neun effektive Wochen gedauert hat, haben die Stellvertreter, die die Versicherungsvoraussetzungen erfüllen, bei nicht selbst verschuldeten Absenzen wie Krankheit oder Nichtberufsunfall Anrecht auf folgende Leistungen:
 
 <table>
-<tr><th>Beschäftigungsdauer</th><th>Dauer des Besoldungsanspruchs</th></tr>
-<tr><td>bis 19 effektive Wochen</td><td>drei Wochen</td></tr>
-<tr><td>bis 28 effektive Wochen</td><td>vier Wochen</td></tr>
-<tr><td>bis 38 effektive Wochen</td><td>acht Wochen</td></tr>
+<tr><th>Anzahl effektive Stellvertetungswochen</th><th>Dauer des Besoldungsanspruchs</th></tr>
+<tr><td>Mehr als 9 Wochen und weniger als 19 Wochenn</td><td>4 Wochen maximal</td></tr>
+<tr><td>Mehr oder gleich als 19 Wochen und weniger als 38 Wochen</td><td>8 Wochen maximal</td></tr>
 </table>
 
-<sup>2</sup> Bei einem Unfall wird dem Stellvertreter keine Besoldung entrichtet, sofern er über eine obligatorische Unfallversicherung verfügt; er erhält aber direkt die Leistungen der Versicherung.
+<sup>1<sup>bis</sup></sup> Die Besoldung nach Absatz 1 wird während der im Schulplan vorgesehenen effektiven Unterrichtswochen ausbezahlt, längstens bis zum Ende der zum Zeitpunkt der Arbeitsverhinderung vorgesehenen Stellvertretung, höchstens aber bis zum Ende des laufenden Schuljahres.
+
+<sup>1<sup>ter</sup></sup> Ist der Anspruch auf Besoldung ausgeschöpft und wird ein Taggeld nach der Verordnung über die Erwerbsausfallentschädigung ausgerichtet, so wird dieses direkt vom Stellvertreter bezogen.
+
+<sup>2</sup> Erfüllt der Stellvertreter die Voraussetzungen für eine Entschädigung durch den Arbeitgeber nicht, wird ihm bei einem Unfall keine Besoldung entrichtet; er erhält aber direkt die Leistungen der Versicherung des Arbeitgebers, sofern er über eine obligatorische Unfallversicherung verfügt, oder die Leistungen seiner Privatversicherung.
 
 #### Art. 41
 
@@ -649,11 +677,11 @@ verordnet:[^ingress-1]
 
 #### Art. 42b
 
-**Vaterschaftsentschädigung für Stellvertreter**
+**Entschädigung des anderen Elternteils für Stellvertreter**
 
-<sup>1</sup> Die im Bundesrecht (Art. 16i ff. des Erwerbsersatzgesetzes) vorgesehene Vaterschaftsentschädigung fällt an den Staat, solange dieser die Besoldung ausrichtet.
+<sup>1</sup> Die im Bundesrecht (Art. 16i ff. des Erwerbsersatzgesetzes) vorgesehene Entschädigung des anderen Elternteils fällt an den Staat, solange dieser die Besoldung ausrichtet.
 
-<sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Vaterschaftsentschädigung direkt durch den Stellvertreter einzufordern.
+<sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Entschädigung des anderen Elternteils direkt durch den Stellvertreter einzufordern.
 
 #### Art. 43
 
@@ -856,5 +884,15 @@ verordnet:[^ingress-1]
 <sup>1</sup> Die vorliegende Verordnung tritt auf den 1. September 2012 in Kraft.
 
 <sup>2</sup> Sie hebt die Verordnung über die Besoldung des Lehrpersonals der Primar-, Orientierungs- und Mittelschulen vom 30. September 1983 auf.
+
+#### Art. T1-1
+
+**Übergangsbestimmungen der Änderung vom 20. November 2024**
+
+<sup>1</sup> Lehrpersonen, die bei Inkrafttreten der Änderungen dieser Verordnung vom 20.November 2024 in einem unbefristeten oder befristeten Arbeitsverhältnis stehen, unterstehen de jure dem neuen Recht.
+
+<sup>2</sup> Für Lehrpersonen, die am 31. Dezember 2024 arbeitsunfähig sind, beginnt am 1. Januar 2025 eine neue (rückwirkende) Rahmenfrist von 585 Tagen während welcher alle Abwesenheiten infolge Krankheit und Nichtberufsunfall berücksichtigt werden. In allen anderen Fällen beginnt eine neue Rahmenfrist von 585 Tagen ab der ersten Arbeitsunfähigkeit der Lehrperson, die nach dem Inkrafttreten der Änderungen vom 20. November 2024 auftritt.
+
+<sup>3</sup> Die Berechnungsmodalitäten im Zusammenhang mit der dreijährigen Rahmenfrist, wie sie bis zum 31. Dezember 2024 angewendet wurden, bleiben auch nach dem Inkrafttreten der Verordnung über Entschädigung für Erwerbsausfall bei Krankheit und Nichtberufsunfall des Personals des Staates Wallis (VEEA) bestehen, solange diese für das Lehrpersonal vorteilhafter sind.
 
 CSW BO/Abl. 27/2012
