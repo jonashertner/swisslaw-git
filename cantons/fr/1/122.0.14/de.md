@@ -4,13 +4,13 @@ number: "122.0.14"
 title: Verordnung über das Corporate Design des Staates Freiburg
 short: CDV
 language: de
-version: 2020-05-01
-valid_until: 2024-12-31
-version_adopted: 2020-04-28
+version: 2025-01-01
+valid_until: 2026-05-31
+version_adopted: 2024-12-03
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/6505/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8089/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Corporate Design des Staates Freiburg – V
 
 (CDV)
 
-vom 06.12.2011 (Fassung in Kraft getreten am 01.05.2020)
+vom 06.12.2011 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -31,11 +31,15 @@ auf Antrag der Staatskanzlei,
 
 beschliesst:
 
+## 1 Allgemeine Bestimmungen
+
 #### Art. 1
 
 **Gegenstand**
 
 <sup>1</sup> Diese Verordnung regelt die Anwendung des Corporate Designs des Staates Freiburg. Dieses hat zum Zweck, die Verwaltungseinheiten und ihre Leistungen einheitlich darzustellen.
+
+<sup>2</sup> Sie regelt auch die Verwendung der Marken «FRIBOURG» und «FREIBURG» mit dem Ziel, das Image des Kantons zu fördern.
 
 #### Art. 2
 
@@ -43,7 +47,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung gilt für den Staatsrat, die Direktionen und die Staatskanzlei sowie für deren Verwaltungseinheiten.
 
-<sup>2</sup> Sie gilt entsprechend auch für den Grossen Rat und die Gerichtsbehörden, ausser wenn diese ein eigenes Logo benützen.
+<sup>2</sup> Der Grosse Rat und die Gerichtsbehörden:
+
+- a) wenden die Bestimmungen über das Corporate Design des Staates entsprechend an, ausser wenn diese ein eigenes Logo benützen;
+- b) können beschliessen, die Bestimmungen des Abschnitts 3 über die Verwendung der Marken «FRIBOURG» oder «FREIBURG» ganz oder teilweise anzuwenden.
 
 #### Art. 3
 
@@ -61,9 +68,15 @@ beschliesst:
 - h) das Amt für Strassenverkehr und Schifffahrt;
 - i) die Kantonale Gebäudeversicherung;
 - j) die Nutztierversicherungsanstalt;
-- k) die Pensionskasse des Staatspersonals.
+- k) die Pensionskasse des Staatspersonals;
+- l) die Kantonale Anstalt für die aktive Bodenpolitik;
+- m) das Amt für Sport, nur im Rahmen der Aktivitäten des Campus Schwarzsee/Lac-Noir, der ihm unterstellt ist.
 
 <sup>2</sup> Diese Einheiten sind jedoch verpflichtet, bei den Gegenständen nach Artikel 4 Abs. 2 ihre Zugehörigkeit zum Staat Freiburg auszudrücken, indem sie den Ausdruck «Einheit des Staates Freiburg» oder «Staat Freiburg» in ihr Corporate Design aufnehmen; der Staatsrat kann sie von dieser Pflicht entbinden.
+
+<sup>3</sup> Diese Einheiten können beschliessen, die Bestimmungen des Abschnitts 3 über die Verwendung der Marken «FRIBOURG» und «FREIBURG» ganz oder teilweise anzuwenden. Sie kommen jedoch nicht in den Genuss des Angebots von Werbegegenständen nach Art. 9d Abs. 1.
+
+## 2 Corporate Design des Staates
 
 #### Art. 4
 
@@ -121,6 +134,51 @@ beschliesst:
 **Leistungen Dritter**
 
 <sup>1</sup> Unternehmen, die grafische Arbeiten für den Staat ausführen, müssen sich an die Grafikcharta halten. Sie haften, wenn sie gegen diese Vorschrift verstossen.
+
+## 3 Verwendung der Marken «FRIBOURG» und «FREIBURG»
+
+#### Art. 9a
+
+**Imageförderung des Kantons**
+
+<sup>1</sup> Um das Image des Kantons zu fördern, zu seinem Bekanntheitsgrad beizutragen und seine Attraktivität ausserhalb der Kantonsgrenzen zu verstärken, fördert der Staat die Verwendung der Marken «FRIBOURG» und «FREIBURG», die dem Verein Fribourgissima gehören, und der dazugehörigen Logos.
+
+<sup>2</sup> Die Logos der Marken «FRIBOURG» und «FREIBURG» und ihre Abwandlungen werden vom Sekretariat des Vereins Fribourgissima zur Verfügung gestellt.
+
+<sup>3</sup> Für die Umsetzung dieses Abschnitts:
+
+- a) erlässt die Konferenz der Generalsekretäre, wenn nötig, Richtlinien zur Harmonisierung der Praxis;
+- b) können die Direktionen und ihre Einheiten sowie die Dritten nach Artikel 9b die Unterstützung des Vereins Fribourgissima beantragen.
+
+#### Art. 9b
+
+**Verpflichtung zur Nutzung der Marken bei staatlicher Unterstützung**
+
+<sup>1</sup> Die Gewährung einer staatlichen Unterstützung für Projekte oder Aktivitäten, die ausserhalb oder innerhalb des Kantons zu dessen Ausstrahlung in den Bereichen Wirtschaft, Kultur, Sport oder Soziales beitragen, kann davon abhängig gemacht werden, dass bei diesen Projekten oder Aktivitäten die Marken «FRIBOURG» und «FREIBURG» verwendet und hervorgehoben werden.
+
+<sup>2</sup> Erfolgt die Unterstützung in Form einer Subvention, so kann deren Gewährung mit einer Auflage für die Verwendung dieser Marken einhergehen, wenn die Kriterien nach Absatz 1 erfüllt sind.
+
+<sup>3</sup> Das Organ, das über die Unterstützung entscheidet, ist dafür zuständig, zu beurteilen, ob das betreffende Projekt oder die betreffende Aktivität die Kriterien nach Absatz 1 erfüllt und ob die darin festgelegte Massnahme zweckmässig ist; die Richtlinien nach Artikel 9a Abs. 3 bleiben vorbehalten.
+
+<sup>4</sup> Die Verpflichtung, die Marken «FRIBOURG» und «FREIBURG» hervorzuheben, ersetzt für betroffene Dritte nicht den Hinweis auf die staatliche Unterstützung mit den üblichen Mitteln.
+
+#### Art. 9c
+
+**Verwendung der Marken durch staatliche Organe**
+
+<sup>1</sup> Die Direktionen und ihre Verwaltungseinheiten verwenden und heben die Marken «FRIBOURG» und «FREIBURG» bei ihren Aktivitäten hervor, die zur Ausstrahlung des Kantons beitragen, wie z. B. Tage der offenen Tür, Wettbewerbe, Informationsschreiben mit Werbeinhalt oder die Organisation interkantonaler Veranstaltungen.
+
+<sup>2</sup> Die Hervorhebung der Marken «FRIBOURG» und «FREIBURG» ersetzt bei diesen Tätigkeiten die Verwendung des Corporate Design des Staates nicht.
+
+#### Art. 9d
+
+**Werbeartikel**
+
+<sup>1</sup> Die Staatskanzlei erwirbt jedes Jahr Werbeartikel, auf denen die Marken «FRIBOURG» und «FREIBURG» abgebildet sind. Sie kann diese den Direktionen und Verwaltungseinheiten kostenlos und im Rahmen ihres Lagerbestands zur Verfügung stellen.
+
+<sup>2</sup> Die Direktionen und ihre Einheiten können aus ihrem eigenen Budget solche Artikel direkt beim Verein Fribourgissima erwerben.
+
+## 4 Schlussbestimmungen
 
 #### Art. 10
 

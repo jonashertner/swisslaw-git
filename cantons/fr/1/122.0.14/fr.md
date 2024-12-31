@@ -4,13 +4,13 @@ number: "122.0.14"
 title: "Ordonnance relative à l'identité visuelle de l'Etat de Fribourg"
 short: OIV
 language: fr
-version: 2020-05-01
-valid_until: 2024-12-31
-version_adopted: 2020-04-28
+version: 2025-01-01
+valid_until: 2026-05-31
+version_adopted: 2024-12-03
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6505/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8089/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Identité visuelle de l'Etat de Fribourg – O
 
 (OIV)
 
-du 06.12.2011 (version entrée en vigueur le 01.05.2020)
+du 06.12.2011 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -31,11 +31,15 @@ Sur la proposition de la Chancellerie d'Etat,
 
 Arrête:
 
+## 1 Dispositions générales
+
 #### Art. 1
 
 **Objet**
 
 <sup>1</sup> La présente ordonnance régit l'utilisation de l'identité visuelle de l'Etat de Fribourg, laquelle a pour buts l'uniformisation et la standardisation de la présentation des unités administratives et de leurs prestations.
+
+<sup>2</sup> Elle règle également l'utilisation des marques «FRIBOURG» et «FREIBURG» dans le but de promouvoir l'image du canton.
 
 #### Art. 2
 
@@ -43,7 +47,10 @@ Arrête:
 
 <sup>1</sup> La présente ordonnance s'applique au Conseil d'Etat, aux Directions et à la Chancellerie d'Etat ainsi qu'à leurs unités administratives.
 
-<sup>2</sup> Elle s'applique également, par analogie, au Grand Conseil et au Pouvoir judiciaire, sous réserve de l'utilisation d'un logotype qui leur est propre.
+<sup>2</sup> Le Grand Conseil et le Pouvoir judiciaire:
+
+- a) appliquent, par analogie, les dispositions relatives à l'identité visuelle de l'Etat, sous réserve de l'utilisation d'un logotype qui leur est propre;
+- b) peuvent décider d'appliquer en tout ou en partie les dispositions de la section 3 relatives à l'utilisation des marques «FRIBOURG» ou «FREIBURG».
 
 #### Art. 3
 
@@ -61,9 +68,15 @@ Arrête:
 - h) l'Office de la circulation et de la navigation;
 - i) l'Etablissement cantonal d'assurance des bâtiments;
 - j) l'Etablissement d'assurance des animaux de rente;
-- k) la Caisse de prévoyance du personnel de l'Etat.
+- k) la Caisse de prévoyance du personnel de l'Etat;
+- l) l'Etablissement cantonal de promotion foncière;
+- m) le Service du sport, uniquement dans le cadre des activités du Campus Schwarzsee/Lac-Noir, qui lui est subordonné.
 
 <sup>2</sup> Sous réserve de dispenses accordées par le Conseil d'Etat, ces unités sont cependant tenues de mentionner dans les objets prévus à l'article 4 al. 2 leur appartenance à l'Etat de Fribourg, en intégrant l'expression «Entité de l'Etat de Fribourg» ou «Etat de Fribourg» dans leur identité visuelle.
+
+<sup>3</sup> Ces unités peuvent décider d'appliquer en tout ou en partie les dispositions de la section 3 relatives à l'utilisation des marques «FRIBOURG» et «FREIBURG». Elles ne bénéficient toutefois pas de l'offre d'objets promotionnels prévue à l'article 9d al. 1.
+
+## 2 Identité visuelle de l'Etat
 
 #### Art. 4
 
@@ -121,6 +134,51 @@ Arrête:
 **Prestations par des tiers**
 
 <sup>1</sup> Les entreprises chargées d'effectuer des travaux graphiques pour l'Etat sont tenues de respecter la charte graphique. Elles engagent leur responsabilité en cas de négligence.
+
+## 3 Utilisation des marques «FRIBOURG» et «FREIBURG»
+
+#### Art. 9a
+
+**Promotion de l'image du canton**
+
+<sup>1</sup> Afin de promouvoir l'image du canton, de contribuer à sa notoriété et de renforcer son attractivité hors des frontières cantonales, l'Etat encourage l'utilisation des marques «FRIBOURG» et «FREIBURG» appartenant à l'association Fribourgissima et de leurs logotypes.
+
+<sup>2</sup> Les logotypes des marques «FRIBOURG» et «FREIBURG» ainsi que leurs déclinaisons sont mis à disposition par le secrétariat de l'association Fribourgissima.
+
+<sup>3</sup> Pour la mise en œuvre de la présente section:
+
+- a) la Conférence des secrétaires généraux édicte, si nécessaire, des directives en vue d'harmoniser les pratiques;
+- b) les Directions et leurs unités ainsi que les tiers mentionnés à l'article 9b peuvent solliciter l'assistance de l'association Fribourgissima.
+
+#### Art. 9b
+
+**Obligation d'utiliser les marques en cas de soutien de l'Etat**
+
+<sup>1</sup> L'octroi d'un soutien de l'Etat pour des projets ou des activités contribuant, à l'extérieur ou à l'intérieur du canton, au rayonnement de celui-ci dans les domaines économique, culturel, sportif ou social peut être subordonné à l'utilisation et à la mise en évidence des marques «FRIBOURG» et «FREIBURG» dans ces projets ou activités.
+
+<sup>2</sup> Lorsque le soutien prend la forme d'une subvention, son octroi peut, si les critères fixés à l'alinéa 1 sont remplis, être accompagné d'une charge relative à l'utilisation de ces marques.
+
+<sup>3</sup> Sous réserve des directives mentionnées à l'article 9a al. 3, l'organe qui décide du soutien est compétent pour évaluer si le projet ou l'activité en question répond aux critères fixés à l'alinéa 1 et si la mesure qui y est fixée est opportune.
+
+<sup>4</sup> L'obligation de mettre en évidence les marques «FRIBOURG» et «FREIBURG» ne remplace pas, pour les tiers concernés, le signalement du soutien de l'Etat par les moyens usuels.
+
+#### Art. 9c
+
+**Utilisation des marques par les organes de l'Etat**
+
+<sup>1</sup> Les Directions et leurs unités administratives utilisent et mettent en évidence les marques «FRIBOURG» et «FREIBURG» dans leurs activités qui contribuent au rayonnement du canton, telles que les portes ouvertes, concours, lettres d'information promotionnelles ou organisations d'événements intercantonaux.
+
+<sup>2</sup> La mise en évidence des marques «FRIBOURG» et «FREIBURG» ne remplace pas l'utilisation, dans ces activités, de l'identité visuelle de l'Etat.
+
+#### Art. 9d
+
+**Objets promotionnels**
+
+<sup>1</sup> La Chancellerie d'Etat acquiert chaque année des objets promotionnels sur lesquels figurent les marques «FRIBOURG» et «FREIBURG». Elle peut les mettre à disposition des Directions et des unités administratives, gratuitement et dans les limites de son stock.
+
+<sup>2</sup> Les Directions et leurs unités peuvent, sur leur propre budget, acquérir directement de tels objets auprès de l'association Fribourgissima.
+
+## 4 Dispositions finales
 
 #### Art. 10
 
