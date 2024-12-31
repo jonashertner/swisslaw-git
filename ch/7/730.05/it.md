@@ -4,18 +4,18 @@ title: "Ordinanza del 22 novembre 2006 sugli emolumenti e sulle tasse di vigilan
 short: OE-En
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/762"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-762-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-762-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli emolumenti e sulle tasse di vigilanza nel settore dell’energia (OE-En)
 
-del 22 novembre 2006 (Stato 1° gennaio 2023)[^t-1]
+del 22 novembre 2006 (Stato 1° gennaio 2025)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico, in vigore dal 1° apr. 2008 ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 
@@ -36,7 +36,7 @@ ordina:
 [^ingress-9]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^ingress-10]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^ingress-11]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-12]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
+[^ingress-12]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -64,10 +64,10 @@ La presente ordinanza disciplina gli emolumenti per:
 
 <sup>4</sup> ...[^1-4]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
 [^1-2]: Nuovo testo giusta il n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico, in vigore dal 1° apr. 2008 ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 [^1-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^1-4]: Introdotto dal n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Abrogato dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^1-4]: Introdotto dal n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Abrogato dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
 
 #### Art. 2
 
@@ -83,8 +83,8 @@ Il capoverso 1 non si applica alle procedure relative alla concessione di:
 - b. contributi per l’impiego diretto della geotermia ai fini della produzione di calore;
 - c. garanzie per la geotermia.[^2-2]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 3
 
@@ -96,7 +96,7 @@ Il capoverso 1 non si applica alle procedure relative alla concessione di:
 
 <sup>3</sup> Gli emolumenti ai Cantoni a titolo di indennizzo per l’informazione dell’opinione pubblica sono stabiliti sulla base degli accordi di prestazioni di cui all’articolo 9*e* capoverso 2 della legge sull’approvvigionamento elettrico. Non è riscosso alcun emolumento a titolo di indennizzo per l’informazione dell’opinione pubblica in adempimento di un mandato fondamentale della Confederazione.[^3-1]
 
-[^3-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
+[^3-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
 
 #### Art. 3a
 
@@ -104,7 +104,7 @@ Il capoverso 1 non si applica alle procedure relative alla concessione di:
 
 Fanno parte degli esborsi anche i costi di vitto e alloggio a carico dell’UFE nel quadro dell’espletamento dei suoi compiti.
 
-[^3a-1]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^3a-1]: Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
 
 #### Art. 4
 
@@ -119,7 +119,7 @@ L’UFE[^4-1] e altri organi di esecuzione possono ridurre o condonare gli emolu
 - c. la promozione della collaborazione internazionale o regionale attraverso lo scambio di informazioni.
 - [tab] <sup>2</sup> Possono ridurre o condonare gli emolumenti per altri motivi importanti.[^4-3]
 
-[^4-1]: Nuova espressione giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Di detta mod. è tenuto conto in tutto il testo.
+[^4-1]: Nuova espressione giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Di detta mod. è tenuto conto in tutto il testo.
 [^4-2]: Nuovo testo giusta il n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico, in vigore dal 1° apr. 2008 ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 [^4-3]: Nuovo testo giusta il n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico, in vigore dal 1° apr. 2008 ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 
@@ -144,7 +144,7 @@ Un supplemento pari al massimo al 100 per cento sull’emolumento di base può e
 
 Per le procedure la cui durata è superiore a un anno, l’UFE può fatturare acconti annui degli emolumenti, corrispondenti agli oneri sostenuti.
 
-[^5a-1]: Introdotto dal n. I dell’O del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
 
 #### Art. 6
 
@@ -203,9 +203,9 @@ Per compiti di vigilanza si intendono in particolare le ispezioni sui siti e i c
 
 <sup>3</sup> Nel caso di impianti internazionali sono fatti salvi gli accordi internazionali di diverso tenore.[^9-3]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
-[^9-2]: Introdotta dal n. I dell’O del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^9-2]: Introdotta dalla cifra I dell’O del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
 
 #### Art. 9a
 
@@ -237,7 +237,7 @@ Per la tassa di vigilanza prevista dall’articolo 28 LImA sono computabili i co
 
 <sup>6</sup> Nel caso di impianti internazionali il calcolo della tassa di vigilanza si basa solamente sul volume di ritenuta corrispondente alla quota svizzera delle forze idriche. Sono fatti salvi gli accordi internazionali di diverso tenore.
 
-[^9a-1]: Introdotto dal n. II dell’all. all’O del 17 ott. 2012 sugli impianti di accumulazione, in vigore dal 1° gen. 2013 ([RU 2012 5995](https://fedlex.data.admin.ch/eli/oc/2012/704)).
+[^9a-1]: Introdotto dalla cifra II dell’all. all’O del 17 ott. 2012 sugli impianti di accumulazione, in vigore dal 1° gen. 2013 ([RU 2012 5995](https://fedlex.data.admin.ch/eli/oc/2012/704)).
 
 #### Art. 10
 
@@ -253,7 +253,7 @@ L’UFE riscuote emolumenti in particolare per:
 
 <sup>2</sup> L’UFE e l’organo d’esecuzione possono riscuotere emolumenti per informazioni secondo l’articolo 99 capoverso 1 dell’ordinanza del 1° novembre 2017[^10-2] sulla promozione della produzione di elettricità generata a partire da energie rinnovabili che richiedono accertamenti onerosi.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
 [^10-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
 #### Art. 11
@@ -271,8 +271,8 @@ L’UFE riscuote emolumenti in particolare per:
 - g. le attività legate al controllo dei materiali nucleari;
 - h.[^11-2] le attività di vigilanza riguardanti il Fondo di disattivazione e il Fondo di smaltimento.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5737](https://fedlex.data.admin.ch/eli/oc/2008/791)).
-[^11-2]: Introdotta dal n. I dell’O del 13 mag. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5737](https://fedlex.data.admin.ch/eli/oc/2008/791)).
+[^11-2]: Introdotta dalla cifra I dell’O del 13 mag. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
 
 #### Art. 12
 
@@ -293,7 +293,7 @@ Questi costi comprendono in particolare:
 
 - b. i costi sostenuti dalla Svizzera per i controlli effettuati dall’Agenzia internazionale dell’energia nucleare (IAEA).
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5737](https://fedlex.data.admin.ch/eli/oc/2008/791)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5737](https://fedlex.data.admin.ch/eli/oc/2008/791)).
 
 #### Art. 13
 
@@ -304,7 +304,7 @@ L’UFE riscuote emolumenti in particolare per:
 - a. il rilascio delle approvazioni dei piani;
 - b. il finanziamento degli indennizzi che l’UFE versa ai Cantoni per l’informazione dell’opinione pubblica conformemente agli accordi di prestazioni.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
 
 #### Art. 13a
 
@@ -316,8 +316,8 @@ L’UFE e la Commissione dell’energia elettrica (ElCom) riscuotono emolumenti 
 - b.[^13a-2] all’immissione di energia di rete e al consumo proprio;
 - c. ai supplementi sui costi di trasporto delle reti ad alta tensione.
 
-[^13a-1]: Introdotto dal n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)).
-[^13a-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
+[^13a-1]: Introdotto dal n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Nuovo testo giusta la cifra I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)).
+[^13a-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 13b
 
@@ -340,7 +340,7 @@ I terzi incaricati dall’UFE secondo gli articoli 49 capoverso 1 lettere a e c 
 - a. l’elaborazione della proposta per una convenzione sugli obiettivi con le imprese;
 - b. il sostegno alle imprese nell’elaborazione del rapporto annuale relativo all’attuazione della convenzione sugli obiettivi.
 
-[^13c-1]: Introdotto dal n. III 1 dell’O del 7 mar. 2014 ([RU 2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135)). Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^13c-1]: Introdotto dalla cifra III n. 1 dell’O del 7 mar. 2014 ([RU 2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
 [^13c-2]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 
 #### Art. 14
@@ -364,7 +364,7 @@ L’Ispettorato federale degli oleo e gasdotti riscuote emolumenti in particolar
 - b. la vigilanza tecnica sull’esercizio secondo l’articolo 24 OITC;
 - c. la partecipazione alla procedura di approvazione dei piani.
 
-[^14-1]: Introdotta dal n. I dell’O del 1° giu. 2015, in vigore dal 13 mag. 2015 ([RU 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
+[^14-1]: Introdotta dalla cifra I dell’O del 1° giu. 2015, in vigore dal 13 mag. 2015 ([RU 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
 [^14-2]: [[RU 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125); [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 4; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)all. n. 4; [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)III; [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)all. n. 1. [RU 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)art. 35]. Vedi ora l'O del 26 giu. 2019 ([RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)).
 
 #### Art. 14a
@@ -381,7 +381,7 @@ L’UFE può riscuotere un emolumento massimo di 25 000 franchi per il trattamen
 
 <sup>2</sup> L’UFE può riscuotere un emolumento massimo di 50 000 franchi per il trattamento di una domanda di prestazione di una garanzia per la geotermia (art. 33 cpv. 1 LEne).
 
-[^14a-1]: Introdotto dal n. I dell’O del 1° nov. 2017 /[RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 1° nov. 2017 /[RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 14b
 
@@ -389,7 +389,7 @@ L’UFE può riscuotere un emolumento massimo di 25 000 franchi per il trattamen
 
 Per le spese di esecuzione nell’ambito delle garanzie di origine, l’organo d’esecuzione riscuote emolumenti in base al dispendio.
 
-[^14b-1]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^14b-1]: Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
 
 ## Sezione 3: Disposizioni finali
 
@@ -419,7 +419,7 @@ Allegato 1[^t-2]
 
 ## Aliquote degli emolumenti
 
-[^t-2]: Aggiornato dal n. I delle O del 12 nov. 2008 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)) e del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
+[^t-2]: Aggiornato dalla cifra I delle O del 12 nov. 2008 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)) e del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
 
 ### 1. Emolumenti per la vigilanza sugli impianti di accumulazione
 
@@ -464,9 +464,9 @@ Allegato 3[^t-3]
 
 (art. 14*b*)
 
-## Emolumenti riscossi nell’ambito delle garanzie di origine
+## Emolumenti riscossi nell’ambito delle garanzie di origine per l’elettricità
 
-[^t-3]: Introdotto dal n. II dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^t-3]: Introdotto dalla cifra II dell’O del 1° nov. 2017 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Aggiornato dall’all. n. 4 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 <table>
 <tr><th></th><th>Emolumento in franchi</th><th>Unità</th></tr>
@@ -481,5 +481,28 @@ Allegato 3[^t-3]
 <tr><td>Registrazione di un ordine permanente</td><td>max. 200</td><td>per operazione</td></tr>
 <tr><td>3. Annullamento</td><td></td><td></td></tr>
 <tr><td>Annullamento di garanzie di origine</td><td>max. 0.03</td><td>per MWh</td></tr>
+<tr><td>Elaborazione di una conferma di annullamento</td><td>max. 100</td><td>per operazione</td></tr>
+</table>
+
+Allegato 4[^t-4]
+
+(art. 14*b*)
+
+## Emolumenti riscossi nell’ambito delle garanzie di origine per combustibili e carburanti
+
+[^t-4]: Introdotto dall’all. n. 4 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+<table>
+<tr><th></th><th>Emolumento in franchi</th><th>Unità</th></tr>
+<tr><td>1. Registrazione e rilevamento</td><td></td><td></td></tr>
+<tr><td>Emolumento di base per un impianto di produzione, a seconda del tipo di impianto</td><td>max. 200</td><td>all’anno</td></tr>
+<tr><td>Emolumento di base per un conto utente, a seconda del tipo di conto</td><td>max. 200</td><td>all’anno</td></tr>
+<tr><td>2. Transazioni</td><td></td><td></td></tr>
+<tr><td>Rilascio di garanzie di origine, a seconda del tipo di impianto</td><td>max. 0,2</td><td>per MWh</td></tr>
+<tr><td>Trasmissione di garanzie di origine a livello nazionale</td><td>max. 0,2</td><td>per MWh</td></tr>
+<tr><td>Importazione ed esportazione di garanzie di origine</td><td>max. 0,2</td><td>per MWh</td></tr>
+<tr><td>Registrazione di un ordine permanente</td><td>max. 200</td><td>per operazione</td></tr>
+<tr><td>3. Annullamento</td><td></td><td></td></tr>
+<tr><td>Annullamento di garanzie di origine</td><td>max. 0,20</td><td>per MWh</td></tr>
 <tr><td>Elaborazione di una conferma di annullamento</td><td>max. 100</td><td>per operazione</td></tr>
 </table>

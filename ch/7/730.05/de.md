@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2006 über Gebühren und Aufsichtsabgaben im 
 short: GebV-En
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/762"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-762-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-762-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/de"
 
 (GebV-En)[^t-1]
 
-vom 22. November 2006 (Stand am 1. Januar 2023)
+vom 22. November 2006 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Anhang Ziff. 1 der Stromversorgungsverordnung vom 14. März 2008 ([SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)).
 
@@ -467,9 +467,9 @@ Anhang 3[^t-3]
 
 (Art. 14*b*)
 
-## Gebührenrahmen im Bereich des Herkunftsnachweiswesens
+## Gebührenrahmen im Bereich des Herkunftsnachweises für Elektrizität
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 1. Nov. 2017 ([AS 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Bereinigt gemäss Anhang Ziff. 4 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 <table>
 <tr><td></td><td>Gebühr in Franken</td><td>Einheit</td></tr>
@@ -484,5 +484,28 @@ Anhang 3[^t-3]
 <tr><td>Erstellung von Daueraufträgen</td><td>max. 200</td><td>pro Geschäftsfall</td></tr>
 <tr><td>3. Entwertung</td><td></td><td></td></tr>
 <tr><td>Entwertung von Herkunftsnachweisen</td><td>max. 0.03</td><td>pro MWh</td></tr>
+<tr><td>Erstellung einer Entwertungsbestätigung</td><td>max. 100</td><td>pro Geschäftsfall</td></tr>
+</table>
+
+Anhang 4[^t-4]
+
+(Art. 14*b*)
+
+## Gebührenrahmen im Bereich des Herkunftsnachweises für Brenn- und Treibstoffe
+
+[^t-4]: Eingefügt durch Anhang Ziff. 4 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+<table>
+<tr><th></th><th>Gebühr in Franken</th><th>Einheit</th></tr>
+<tr><td>1. Registrierung und Erfassung</td><td></td><td></td></tr>
+<tr><td>Grundgebühr für eine Produktionsanlage, nach Anlagetyp</td><td>max. 200</td><td>pro Jahr</td></tr>
+<tr><td>Grundgebühr für ein Benutzerkonto, nach Kontotyp</td><td>max. 200</td><td>pro Jahr</td></tr>
+<tr><td>2. Transaktionen</td><td></td><td></td></tr>
+<tr><td>Ausstellung von Herkunftsnachweisen, nach Anlagentyp</td><td>max. 0,2</td><td>pro MWh</td></tr>
+<tr><td>Weitergabe von Herkunftsnachweisen im Inland</td><td>max. 0,2</td><td>pro MWh</td></tr>
+<tr><td>Import und Export von Herkunftsnachweisen</td><td>max. 0,2</td><td>pro MWh</td></tr>
+<tr><td>Erstellung von Daueraufträgen</td><td>max. 200</td><td>pro Geschäftsfall</td></tr>
+<tr><td>3. Entwertung</td><td></td><td></td></tr>
+<tr><td>Entwertung von Herkunftsnachweisen</td><td>max. 0,20</td><td>pro MWh</td></tr>
 <tr><td>Erstellung einer Entwertungsbestätigung</td><td>max. 100</td><td>pro Geschäftsfall</td></tr>
 </table>

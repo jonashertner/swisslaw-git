@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2006 sur les émoluments et les taxes de surve
 short: Oémol-En
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/762"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-762-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-762-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/fr"
 
 (Oémol-En)[^t-1]
 
-du 22 novembre 2006 (État le 1<sup>er</sup> janvier 2023)
+du 22 novembre 2006 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 mars 2008 sur l’approvisionnement en électricité, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 
@@ -468,9 +468,9 @@ Annexe 3[^t-3]
 
 (art. 14*b*)
 
-## Barème des émoluments dans le domaine de la garantie d’origine
+## Barème des émoluments dans le domaine de la garantie d’origine pour l’électricité
 
-[^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Mise à jour par l’annexe ch. 4 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 <table>
 <tr><td></td><td>Émoluments en francs</td><td>Unité</td></tr>
@@ -485,5 +485,28 @@ Annexe 3[^t-3]
 <tr><td>Établissement d’ordres permanents</td><td>max. 200</td><td>par affaire</td></tr>
 <tr><td>3. Annulation</td><td></td><td></td></tr>
 <tr><td>Annulation des garanties d’origine</td><td>max. 0.03</td><td>par MWh</td></tr>
+<tr><td>Établissement des confirmations d’annulation des garanties d’origine</td><td>max. 100</td><td>par affaire</td></tr>
+</table>
+
+Annexe 4[^t-4]
+
+(art. 14*b*)
+
+## Barème des émoluments dans le domaine de la garantie d’origine pour les combustibles et les carburants
+
+[^t-4]: Introduite par l’annexe ch. 4 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+<table>
+<tr><th></th><th>Émoluments en francs</th><th>Unité</th></tr>
+<tr><td>1. Enregistrement et saisie</td><td></td><td></td></tr>
+<tr><td>Émolument de base pour une installation de production (selon le type d’installation)</td><td>max. 200</td><td>par an</td></tr>
+<tr><td>Émolument de base pour un compte utilisateur (selon le type de compte)</td><td>max. 200</td><td>par an</td></tr>
+<tr><td>2. Transactions</td><td></td><td></td></tr>
+<tr><td>Établissement des garanties d’origine (selon le type d’installation)</td><td>max. 0,2</td><td>par MWh</td></tr>
+<tr><td>Transmission de garanties d’origine en Suisse</td><td>max. 0,2</td><td>par MWh</td></tr>
+<tr><td>Importation et exportation de garanties d’origine</td><td>max. 0,2</td><td>par MWh</td></tr>
+<tr><td>Établissement d’ordres permanents</td><td>max. 200</td><td>par affaire</td></tr>
+<tr><td>3. Annulation</td><td></td><td></td></tr>
+<tr><td>Annulation des garanties d’origine</td><td>max. 0,20</td><td>par MWh</td></tr>
 <tr><td>Établissement des confirmations d’annulation des garanties d’origine</td><td>max. 100</td><td>par affaire</td></tr>
 </table>
