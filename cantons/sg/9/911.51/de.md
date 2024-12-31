@@ -4,13 +4,12 @@ number: "911.51"
 title: Gesetz über Inkassohilfe und Vorschüsse für Unterhaltsbeiträge
 short: GIVU
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-01-25
+version: 2025-01-01
+version_adopted: 2024-11-24
 adopted: 1979-06-28
 in_force: 1980-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/911.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3334/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3709/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3334/pdf_file"
 
 (GIVU)
 
-vom 28.06.1979 (Stand 01.01.2022)
+vom 28.06.1979 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -76,7 +75,7 @@ als Gesetz:[^ingress-4]
 - b) bietet den Fachstellen Weiterbildungen in Fragen der Inkassohilfe an;
 - c) berät die Fachstellen in Einzelfällen.
 
-<sup>2</sup> Die Umsetzung der Inkassohilfe orientiert sich an den Richtlinien der von der Regierung beauftragten Organisation. Die Regierung erklärt diese Richtlinien für allgemeinverbindlich, wenn sie von der Vereinigung St.Galler Gemeindepräsidentinnen und Gemeindepräsidenten anerkannt sind und:
+<sup>2</sup> Die Umsetzung der Inkassohilfe orientiert sich an den Richtlinien der von der Regierung beauftragten Organisation. Die Regierung erklärt diese Richtlinien für allgemeinverbindlich, wenn sie vom Verband St.Galler Gemeindepräsidien anerkannt sind und:
 
 - a) wenigstens zwei Drittel der Räte der politischen Gemeinden dies beantragen oder
 - b) die Räte von politischen Gemeinden, die zusammen wenigstens zwei Drittel der Wohnbevölkerung des Kantons umfassen, dies beantragen oder
