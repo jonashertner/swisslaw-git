@@ -4,13 +4,13 @@ number: "812.112"
 title: Spitalversorgungsverordnung
 short: SpVV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-23
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2025-10-15
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2752/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2752/pdf_file"
 
 (SpVV)
 
-vom 23.10.2013 (Stand 01.01.2023)
+vom 23.10.2013 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 4, Artikel 5, Artikel 39 Absatz 2, Artikel 51a Absatz 4, Artikel 54 Absatz 3, Artikel 55 Absatz 2, Artikel 55a Absatz 4, Artikel 72 Absatz 2, Artikel 75, Artikel 89, Artikel 100 Absatz 6, Artikel 103 Absatz 3, Artikel 105 Absatz 2, Artikel 108 Absatz 4, Artikel 109 Absatz 4, Artikel 110 Absatz 3, Artikel 111, Artikel 121a, Artikel 127 Absatz 3, Artikel 155 und Artikel 158 Absatz 2 des Spitalversorgungsgesetzes vom 13. Juni 2013 (SpVG)[^ingress-1],
+gestützt auf Artikel 5, Artikel 39 Absatz 2, Artikel 51a Absatz 4, Artikel 54 Absatz 3, Artikel 55 Absatz 2, Artikel 55a Absatz 4, Artikel 72 Absatz 2, Artikel 75, Artikel 89, Artikel 100 Absatz 6, Artikel 103 Absatz 3, Artikel 105 Absatz 2, Artikel 108 Absatz 4, Artikel 109 Absatz 4, Artikel 110 Absatz 3, Artikel 111, Artikel 121a, Artikel 127 Absatz 3, Artikel 155 und Artikel 158 Absatz 2 des Spitalversorgungsgesetzes vom 13. Juni 2013 (SpVG)[^ingress-1],
 
 auf Antrag der Gesundheits- und Fürsorgedirektion,
 
@@ -389,7 +389,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesundheitsamt rechnet die pauschale Abgeltung nach Artikel 58 SpVG durch Verfügung ab, sofern sich eine Streitigkeit aus dem Leistungsvertrag ergibt.
 
-### 3.6.2 Ambulante psychiatrische Spitalversorgungsleistungen
+### 3.6.2 Ambulante Spitalversorgungsleistungen
 
 #### Art. 20a
 
@@ -402,7 +402,7 @@ beschliesst:
 - c nicht fallbezogene Leistungen,
 - d Vorhalteleistungen.
 
-<sup>2</sup> Der Leistungsvertrag legt die einzelnen psychiatrischen Leistungen einer Leistungskategorie fest.
+<sup>2</sup> Der Leistungsvertrag legt die einzelnen Leistungen einer Leistungskategorie fest.
 
 #### Art. 20b
 
@@ -430,7 +430,8 @@ beschliesst:
 
 - a dem Ort der Leistungserbringung,
 - b der Zeit der Leistungserbringung,
-- c dem behandlungsmässigen Schweregrad der Patientin oder des Patienten.
+- c dem behandlungsmässigen Schweregrad der Patientin oder des Patienten,
+- d dem Alter der Patientin oder des Patienten.
 
 #### Art. 20c–20g
 
@@ -610,9 +611,9 @@ beschliesst:
 
 <sup>2</sup> Die Abgeltung nach Absatz 1 beträgt pro Jahr und Vollzeitäquivalent
 
-- a 15'000 Franken für Weiterbildungen in nicht unterversorgten ärztlichen Fachrichtungen,
-- b 50'000 Franken für Weiterbildungen in unterversorgten ärztlichen Fachrichtungen,
-- c 15'000 Franken für pharmazeutische Weiterbildungen.
+- a 30'000 Franken für Weiterbildungen in nicht unterversorgten ärztlichen Fachrichtungen,
+- b 65'000 Franken für Weiterbildungen in unterversorgten ärztlichen Fachrichtungen,
+- c 30'000 Franken für pharmazeutische Weiterbildungen.
 
 <sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion legt die unterversorgten ärztlichen Fachrichtungen durch Verordnung fest.
 
@@ -632,7 +633,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesundheitsamt entrichtet dem Leistungserbringer einen Förderbeitrag
 
-- a von 50'000 Franken pro Vollzeitäquivalent für eine Weiterbildungsstelle, die
+- a von 65'000 Franken pro Vollzeitäquivalent für eine Weiterbildungsstelle, die
   - 1\. eine unterversorgte ärztliche Fachrichtung betrifft,
   - 2\. das SIWF als eine Weiterbildungsperiode in einer ambulanten Einrichtung anerkennt,
   - 3\. in einer unterversorgten Region besteht,
@@ -642,7 +643,7 @@ beschliesst:
   - 1\. das Gesundheitsamt vorgängig bewilligt hat,
   - 2\. nachhaltig die Anzahl Weiterbildungsstellen nach Buchstabe a erhöht.
 
-<sup>2</sup> Die Gesundheits-, Sozial und Integrationsdirektion legt die unterversorgten ärztlichen Fachrichtungen und die unterversorgten Regionen durch Verordnung fest.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion legt die unterversorgten ärztlichen Fachrichtungen und die unterversorgten Regionen durch Verordnung fest.
 
 <sup>3</sup> Das Gesundheitsamt kann zur Beurteilung der Programme Expertinnen und Experten beiziehen.
 

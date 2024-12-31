@@ -4,13 +4,13 @@ number: "812.112"
 title: Ordonnance sur les soins hospitaliers
 short: OSH
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-23
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2025-10-15
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2752/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3258/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2752/pdf_file"
 
 (OSH)
 
-du 23.10.2013 (état au 01.01.2023)
+du 23.10.2013 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 4 et 5, l’article 39, alinéa 2, l’article 51a, alinéa 4, l’article 54, alinéa 3, l’article 55, alinéa 2, l’article 55a, alinéa 4, l’article 72, alinéa 2, les articles 75 et 89, l’article 100, alinéa 6, l’article 103, alinéa 3, l’article 105, alinéa 2, l’article 108, alinéa 4, l’article 109, alinéa 4, l’article 110, alinéa 3, l’article 111, l’article 121a, l’article 127, alinéa 3, l’article 155 et l’article 158, alinéa 2 de la loi du 13 juin 2013 sur les soins hospitaliers (LSH)[^ingress-1],
+vu l'article 5, l’article 39, alinéa 2, l’article 51a, alinéa 4, l’article 54, alinéa 3, l’article 55, alinéa 2, l’article 55a, alinéa 4, l’article 72, alinéa 2, les articles 75 et 89, l’article 100, alinéa 6, l’article 103, alinéa 3, l’article 105, alinéa 2, l’article 108, alinéa 4, l’article 109, alinéa 4, l’article 110, alinéa 3, l’article 111, l’article 121a, l’article 127, alinéa 3, l’article 155 et l’article 158, alinéa 2 de la loi du 13 juin 2013 sur les soins hospitaliers (LSH)[^ingress-1],
 
 sur proposition de la Direction de la santé publique et de la prévoyance sociale,
 
@@ -389,20 +389,20 @@ arrête:
 
 <sup>1</sup> L’ODS fixe la rémunération forfaitaire selon l’article 58 LSH par voie de décision en cas de litige résultant du contrat de prestations.
 
-### 3.6.2 Prestations psychiatriques ambulatoires en milieu hospitalier
+### 3.6.2 Prestations ambulatoires en milieu hospitalier
 
 #### Art. 20a
 
 **Catégories de prestations**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration peut verser aux hôpitaux répertoriés des forfaits pour les catégories de prestations suivantes:
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut verser aux hôpitaux répertoriés des forfaits pour les catégories de prestations suivantes:
 
 - a prestations ambulatoires,
 - b prestations de clinique de jour,
 - c prestations sans lien avec un cas spécifique,
 - d prestations de base fixes.
 
-<sup>2</sup> Le contrat de prestations définit les prestations psychiatriques incluses dans chaque catégorie.
+<sup>2</sup> Le contrat de prestations définit les prestations incluses dans chaque catégorie.
 
 #### Art. 20b
 
@@ -430,7 +430,8 @@ arrête:
 
 - a le lieu où la prestation est fournie;
 - b le moment où la prestation est fournie;
-- c le degré de gravité, en fonction de son incidence sur le traitement du patient ou de la patiente.
+- c le degré de gravité, en fonction de son incidence sur le traitement de la patiente ou du patient;
+- d l’âge de la patiente ou du patient.
 
 #### Art. 20c–20g
 
@@ -610,9 +611,9 @@ arrête:
 
 <sup>2</sup> L’indemnisation selon l’alinéa 1 se monte par année et par équivalent plein temps à
 
-- a 15'000 francs pour la formation postgrade dans une discipline médicale dans laquelle l’offre est suffisante;
-- b 50'000 francs pour la formation postgrade dans une discipline médicale dans laquelle l’offre est insuffisante;
-- c 15'000 francs pour la formation postgrade en pharmacie.
+- a 30'000 francs pour la formation postgrade dans une discipline médicale dans laquelle l’offre est suffisante;
+- b 65'000 francs pour la formation postgrade dans une discipline médicale dans laquelle l’offre est insuffisante;
+- c 30'000 francs pour la formation postgrade en pharmacie.
 
 <sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration définit par voie d’ordonnance les disciplines médicales dans lesquelles l’offre est insuffisante.
 
@@ -632,7 +633,7 @@ arrête:
 
 <sup>1</sup> L’ODS verse au fournisseur de prestations une subvention d’encouragement
 
-- a de 50'000 francs par équivalent plein temps pour une place de formation postgrade
+- a de 65'000 francs par équivalent plein temps pour une place de formation postgrade
   - 1\. qui concerne une discipline médicale dans laquelle l’offre est insuffisante;
   - 2\. qui est reconnue par l’ISFM comme période de formation postgrade dans une structure ambulatoire;
   - 3\. qui est proposée dans une région manquant de médecins;
