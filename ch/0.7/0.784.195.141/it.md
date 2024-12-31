@@ -3,11 +3,11 @@ sr: "0.784.195.141"
 title: Accordo del 4 marzo 1999 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein concernente la cooperazione in materia di regolamentazione nel settore delle telecomunicazioni (con Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/137"
 language: it
-version: 2019-07-08
+version: 2025-01-01
 adopted: 1999-03-04
 in_force: 1999-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/137/20190708/it/xml/fedlex-data-admin-ch-eli-cc-2003-137-20190708-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/137/20190708/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/137/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2003-137-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/137/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,11 +20,9 @@ Traduzione
 
 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein concernente la cooperazione in materia di regolamentazione nel settore delle telecomunicazioni
 
-Concluso il 4 marzo 1999
+Concluso il 4 marzo 1999 Entrato in vigore il 1° aprile 1999
 
-Entrato in vigore il 1° aprile 1999
-
-(Stato 8 luglio 2019)
+(Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -44,7 +42,7 @@ i quali, trovati in buona e debita forma i loro pieni poteri,
 
 hanno convenuto le seguenti disposizioni:
 
-[^ingress-1]: [[RU 1979 25](https://fedlex.data.admin.ch/eli/oc/1979/25_25_25), [1995 3843](https://fedlex.data.admin.ch/eli/oc/1995/3843_3843_3843), [1998 2533](https://fedlex.data.admin.ch/eli/oc/1998/2533_2533_2533)]
+[^ingress-1]: [[RU 1979 25](https://fedlex.data.admin.ch/eli/oc/1979/25_25_25); [1995 3843](https://fedlex.data.admin.ch/eli/oc/1995/3843_3843_3843); [1998 2533](https://fedlex.data.admin.ch/eli/oc/1998/2533_2533_2533)]
 
 #### Art. 1
 
@@ -175,201 +173,176 @@ Il presente accordo entra in vigore il 1° aprile 1999.
 
 *In fede di che*, i plenipotenziari rispettivi hanno firmato il presente accordo. Fatto a Berna, in duplice copia in lingua tedesca, il 4 marzo 1999. Per il Consiglio federale svizzero: Hans Werder Per il Governo del Principato del Liechtenstein: Principe Wolfgang von Liechtenstein
 
-Protocollo I**[^t-1]** concernente la cooperazione nell’ambito della numerazione, dell’indirizzamento e dei nomi
+Protocollo I[^t-1]
 
-## 1 Obiettivo della cooperazione
-
-[^t-1]: Nuovo testo giusta la revisione del 9 dic. 2009, in vigore mediante scambio di note dal 18 gen. 2010 ([RU 2010 4077](https://fedlex.data.admin.ch/eli/oc/2010/594)).
-
-A seguito dell’uscita del Liechtenstein – il 5 aprile 1999 – dall’area di numerazione svizzera e dell’introduzione del prefisso internazionale 423 per il Principato nonché del piano di numerazione di cui alla raccomandazione E. 164 dell’UIT-T, obiettivo della cooperazione ai sensi del presente protocollo è mantenere nell’interesse degli utenti la consultazione tra i due Paesi relativamente allo sviluppo dei rispettivi piani di numerazione e proseguire tale collaborazione sotto forma di consulenza nonché – in caso di accordi separati – di sostegno in campo amministrativo e procedurale da parte dell’UFCOM all’Ufficio delle comunicazioni (AK).
-
-## 2 Consulenza dell’UFCOM all’AK
-
-L’UFCOM offre all’AK, dietro specifica richiesta, la propria perizia regolamentare e tecnica in ambito di numerazione, indirizzamento e nomi nonché la propria consulenza.
-
-La consulenza si svolge attraverso contatti diretti tra i rispettivi collaboratori, dell’UFCOM e dell’AK, competenti nell’ambito della numerazione, dell’indirizzamento e dei nomi. Il sostegno amministrativo e procedurale continuo per determinati casi avviene solo sulla base di accordi speciali. Questi ultimi non richiedono nessuna forma particolare.
-
-## Protocollo II**** concernente la cooperazione nell’ambito della gestione delle frequenze
+## Protocollo II concernente la cooperazione nell’ambito della gestione delle frequenze
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Nuovo testo giusta la revisione del 9 dic. 2009, in vigore mediante scambio di note dal 18 gen. 2010 ([RU 2010 4077](https://fedlex.data.admin.ch/eli/oc/2010/594)).
+[^t-1]: Abrogato dalla revisione del 15 ott. 2024, con effetto 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
+[^annexu1-lvlu2-1]: Nuovo testo giusta la revisione del 15 ott. 2024, in vigore 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
-### 1 Principi di cooperazione
+### 1 Principi della cooperazione
 
 Il principato del Liechtenstein gestisce autonomamente l’intero spettro delle frequenze nonché i diritti di utilizzo e le posizioni orbitali dei satelliti conformemente alle leggi e alle ordinanze del Principato e alle convenzioni internazionali. Sulla base del presente protocollo, l’UFCOM offre all’Ufficio delle comunicazioni (AK) sostegno tecnico e amministrativo nonché consulenza per la realizzazione della gestione delle frequenze nel Liechtenstein.
 
+Ne è esclusa in particolare l’elaborazione della circolare informativa sulle frequenze internazionali dell’Ufficio delle radiocomunicazioni (BR) (Servizi Spaziali) (BR IFIC).
+
 ### 2 Gestione delle frequenze
 
-### 2.1 Piano di attribuzione delle frequenze (Frequency Allocations Plan)
+### 2.1 Piano di attribuzione delle frequenze
 
-L’UFCOM mette a disposizione dell’AK, sulla base del piano nazionale di attribuzione delle frequenze (PNaF) elaborato per la Svizzera, una versione di piano di attribuzione delle frequenze specifica per il Liechtenstein (FAP), inclusi gli allegati, quali in particolare i requisiti di interfaccia.
+L’UFCOM mette a disposizione dell’AK, sulla base del piano nazionale di attribuzione delle frequenze (PNAF) elaborato per la Svizzera, una versione di piano di attribuzione delle frequenze specifica per il Liechtenstein (Frequency Allocation Plan, FAP), inclusi gli allegati, quali in particolare le prescrizioni di interfaccia.
 
-L’UFCOM elabora periodicamente, previe istruzioni e consultazione dell’AK, le deroghe al FAP specifiche per il Liechtenstein.
+L’UFCOM aggiorna periodicamente nel FAP, previe istruzioni dell’AK e consultazione con esso, le deroghe specifiche per il Liechtenstein.
 
-I dettagli della collaborazione di cui al capoverso 1 sono regolati dalle amministrazioni, se necessario attraverso un accordo amministrativo speciale. Quest’ultimo definisce in particolare i dettagli della forma e dell’entità del sostegno dell’UFCOM per l’elaborazione del FAP nonché delle procedure per l’aggiornamento del FAP da parte dell’UFCOM.
+I dettagli della collaborazione di cui al paragrafo 1 sono regolati dalle amministrazioni, se necessario attraverso un accordo amministrativo speciale. Quest’ultimo definisce in particolare i dettagli della forma e dell’entità del sostegno dell’UFCOM per l’elaborazione del FAP nonché delle procedure per l’aggiornamento del FAP da parte dell’UFCOM.
 
-### 2.2 Registro delle frequenze – Assegnazione e allocazione delle frequenze (Frequency Assignment resp. Allotment)
-
-L’AK provvede all’assegnazione individuale e all’allocazione delle frequenze, e se del caso l’UFCOM esamina in via preliminare le relative domande. L’assegnazione individuale e l’allocazione delle frequenze avvengono conformemente al piano nazionale di attribuzione delle frequenze del Liechtenstein, alle leggi e alle ordinanze del Principato e alle convenzioni internazionali.
-
-Con il sostegno dell’UFCOM, l’AK istituisce per il Liechtenstein un registro delle frequenze contenente tutte le informazioni specifiche relative all’assegnazione individuale di frequenze nonché di una o più bande di frequenza all’interno del Principato.
-
-### 2.3 Procedure di coordinamento delle frequenze e di notifica
+### 2.2 Procedure di coordinamento delle frequenze e di notifica
 
 Nell’ambito delle procedure di coordinamento e di notifica, l’AK ha la possibilità di incaricare l’UFCOM di rappresentare gli interessi del Liechtenstein previe istruzioni e accordi (tipo e estensione delle competenze). Al termine delle procedure deve essere redatto un rapporto.
 
 In caso di conflitto d’interessi tra il Principato del Liechtenstein e la Svizzera o in presenza di un consistente onere in termini di tempo e di denaro, l’UFCOM e l’AK si consultano a tempo debito al fine di trovare una soluzione di comune accordo.
 
-### 2.4 Registro degli impianti esistenti
+### 2.3 Radio Monitoring
 
-L’AK tiene un registro degli impianti radio presenti nel Liechtenstein, in particolare per il settore dei servizi di telefonia mobile (GSM/UMTS) e della radiodiffusione (OUC, DAB, TV, DVB). La pubblicazione del registro è disciplinata dalla normativa del Liechtenstein.
+Su incarico dell’AK, l’UFCOM effettua misurazioni di frequenze in Liechtenstein ai fini della pianificazione e di un utilizzo delle frequenze libero da interferenze (analisi della qualità e localizzazione delle interferenze).
 
-### 2.5 Radio Monitoring
-
-Su richiesta dell’AK, l’UFCOM effettua misurazioni nell’area delle frequenze del Liechtenstein ai fini della pianificazione e di un utilizzo delle frequenze libero da interferenze (analisi della qualità e localizzazione delle interferenze).
-
-Le parti possono stipulare un accordo, che non necessita di una forma specifica, per definire in particolare l’ampiezza e il calendario delle misure e le modalità di redazione del rapporto.
+Le autorità di esecuzione possono stipulare un accordo, che non necessita di una forma specifica, per definire in particolare l’ampiezza e il calendario delle misurazioni e le modalità di redazione del rapporto.
 
 Se sono necessarie misurazioni in loco nel Principato del Liechtenstein, i collaboratori dell’UFCOM sono accompagnati, secondo accordo con l’AK, da rappresentanti delle autorità del Principato.
 
-### 2.6 Rappresentanza in organismi internazionali nell’ambito della radiocomunicazione
+### 2.4 Rappresentanza in organismi internazionali nell’ambito della radiocomunicazione
 
-D’intesa con l’AK, l’UFCOM rappresenta e sostiene il Principato del Liechtenstein in seno a organismi internazionali finalizzati alla pianificazione radio (art. 6 dell’accordo). Si tratta in particolare di gruppi dell’UIT (settore delle radiocomunicazioni), di sottocomitati della CEPT per le frequenze (Electronic Communications Committee – ECC) nonché dell’ufficio indipendente della CEPT a Copenhagen (ECO).
+D’intesa con l’AK, l’UFCOM rappresenta e sostiene il Principato del Liechtenstein in seno a organismi internazionali finalizzati alla pianificazione radio (art. 6 dell’accordo). Si tratta in particolare di gruppi dell’UIT (settore delle radiocomunicazioni), di sottocomitati della CEPT per le frequenze (Electronic Communications Committee – ECC) nonché dell’ufficio indipendente della CEPT a Copenhagen (European Communications Office, ECO).
 
-I dettagli della collaborazione di cui al capoverso 1 sono disciplinati dalle amministrazioni tramite un accordo speciale che non richiede una forma particolare. Esso contiene in particolare una lista degli organismi in seno ai quali l’UFCOM rappresenta permanentemente il Principato del Liechtenstein.
+I dettagli della collaborazione di cui al paragrafo 1 sono disciplinati dalle amministrazioni tramite un accordo speciale che non richiede una forma particolare. Esso contiene in particolare una lista degli organismi in seno ai quali l’UFCOM rappresenta permanentemente il Principato del Liechtenstein.
 
-Per i casi in cui è necessaria una procura, l’AK s’incarica di ottenerla o di rilasciarla.
+Per i casi in cui è necessaria una procura, l’AK s’incarica di procurarla o di rilasciarla.
 
-## Protocollo III**** concernente la cooperazione nell’ambito di determinati diritti di utilizzo delle frequenze per impianti radio
+## Protocollo III concernente la cooperazione nell’ambito di determinati diritti di utilizzo delle frequenze per impianti di radiocomunicazione
 
 [^annexu1-lvlu3-1]
 
-[^annexu1-lvlu3-1]: Nuovo testo giusta la revisione del 9 dic. 2009, in vigore mediante scambio di note dal 18 gen. 2010 ([RU 2010 4077](https://fedlex.data.admin.ch/eli/oc/2010/594)).
+[^annexu1-lvlu3-1]: Nuovo testo giusta la revisione del 15 ott. 2024, in vigore mediante scambio di note dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
-### 1 Principio
+### 1 Principi della cooperazione
 
-Nel quadro delle leggi e ordinanze in vigore nel Liechtenstein, il Principato regola in piena autonomia la concessione e la gestione dei diritti di utilizzo delle frequenze per impianti radio menzionati nel punto 2 del presente protocollo. La regolamentazione relativa a tali diritti di utilizzo delle frequenze per impianti radio può tuttavia tenere conto delle leggi e ordinanze in vigore in Svizzera.
+Nel quadro delle leggi e ordinanze in vigore nel Liechtenstein, il Principato regola in piena autonomia la concessione e la gestione dei diritti di utilizzo delle frequenze per impianti di radiocomunicazione menzionati nel punto 2 del presente protocollo. La regolamentazione relativa a tali diritti di utilizzo delle frequenze per impianti di radiocomunicazione può tuttavia tenere conto delle leggi e ordinanze in vigore in Svizzera.
 
 ### 2 Campo di applicazione del presente protocollo
 
-La cooperazione verte su determinati diritti di utilizzo delle frequenze per impianti radio non finalizzati a offrire servizi di comunicazione elettronica a terzi (diritti di utilizzo delle frequenze per impianti radio che escludono la fornitura di servizi di comunicazione elettronica). Al momento della sua entrata in vigore, il presente protocollo si applica a quei diritti di utilizzo delle frequenze per impianti radio che richiedono un’assegnazione individuale delle frequenze.
+La cooperazione verte su determinati diritti di utilizzo delle frequenze per impianti di radiocomunicazione che richiedono un’assegnazione individuale delle frequenze.
 
-### 3 Forma e contenuto della cooperazione
+### 3 Contenuto e forma della cooperazione
 
-Per l’applicazione del presente protocollo è stabilito un rapporto di cooperazione tra l’Ufficio delle comunicazioni (AK) e l’UFCOM, che prevede in particolare l’utilizzo delle strutture messe a disposizione dall’UFCOM per esaminare le domande di attribuzione delle frequenze.
+Per l’applicazione del presente protocollo è stabilito un rapporto di cooperazione tra l’AK e l’UFCOM, che prevede in particolare l’utilizzo delle strutture messe a disposizione dall’UFCOM per esaminare le domande di attribuzione delle frequenze.
 
-In virtù delle disposizioni del punto 1, l’UFCOM si incarica di esaminare dal punto di vista tecnico e amministrativo le domande per la concessione di diritti di utilizzo delle frequenze per impianti radio ai sensi del presente protocollo provenienti dal Liechtenstein, secondo le stesse modalità adottate per la Svizzera. Eventuali indicazioni da parte delle autorità competenti del Liechtenstein verranno prese in considerazione di comune accordo.
+In virtù delle disposizioni del punto 1, l’UFCOM si incarica di esaminare dal punto di vista tecnico e amministrativo le domande per la concessione di diritti di utilizzo delle frequenze per impianti di radiocomunicazione ai sensi del presente protocollo provenienti dal Liechtenstein, secondo le stesse modalità adottate per la Svizzera, in particolare la redazione di descrizioni della rete. Eventuali indicazioni da parte delle autorità competenti del Liechtenstein verranno prese in considerazione di comune accordo.
 
-La concessione e la gestione dei diritti di utilizzo delle frequenze per impianti radio ai sensi del presente protocollo nonché l’imposizione di tasse spetta all’AK conformemente alle leggi e ordinanze in vigore nel Principato.
+La concessione e la gestione dei diritti di utilizzo delle frequenze per impianti di radiocomunicazione ai sensi del presente protocollo nonché l’imposizione di tasse spetta all’AK conformemente alle leggi e ordinanze in vigore nel Principato.
 
-### 4 Controllo dell’esercizio dei diritti di utilizzo delle frequenze per impianti radio (sorveglianza del mercato)
+### 4 Controllo dell’esercizio di determinati diritti di utilizzo delle frequenze per impianti di radiocomunicazione
 
-Le condizioni e la procedura che disciplinano il controllo dell’esercizio dei diritti di utilizzo delle frequenze per impianti radio ai sensi del presente protocollo sono definite nel protocollo V concernente la sorveglianza del mercato.
+Il controllo dell’esercizio dei diritti di utilizzo registrati per determinate frequenze per impianti di radiocomunicazione spetta alle autorità competenti del Liechtenstein.
 
-## Protocollo IV**** concernente la cooperazione nell’ambito degli impianti di comunicazione
+In caso di interferenze o di esercizio non conforme di tali diritti di utilizzo di determinate frequenze per impianti di radiocomunicazione, le autorità competenti del Liechtenstein adottano le misure necessarie.
+
+Su richiesta dell’AK, l’UFCOM fornisce consulenza e supporto alle autorità competenti del Liechtenstein. Se sono necessarie attività in loco nel Principato del Liechtenstein, i collaboratori dell’UFCOM sono accompagnati, d’intesa con l’AK, da rappresentanti delle autorità del Principato. Le autorità di esecuzione possono disciplinare in un accordo, il quale non deve avere una forma precisa, in particolare la portata e il calendario dei controlli nonché le modalità del di redazione del rapporto.
+
+Su richiesta dell’AK, l’UFCOM effettua misurazioni di frequenze utilizzate in Liechtenstein per analizzarne il corretto esercizio. Il coinvolgimento consiste in una consulenza e sostegno dell’AK nel singolo caso (se necessario in loco). Se sono necessarie misurazioni in loco nel Principato del Liechtenstein, i collaboratori dell’UFCOM sono accompagnati, d’intesa con l’AK, da rappresentanti delle autorità del Principato. L’UFCOM informa l’AK in merito a possibili infrazioni sul territorio del Principato del Liechtenstein.
+
+Le autorità di esecuzione possono stipulare un accordo, che non necessita di una forma specifica, per definire in particolare la portata e il calendario delle misurazioni nonché le modalità di redazione del rapporto.
+
+## Protocollo IV concernente la cooperazione nell’ambito degli impianti di radiocomunicazione
 
 [^annexu1-lvlu4-1]
 
-[^annexu1-lvlu4-1]: Nuovo testo giusta la revisione del 6 mag. 2019, in vigore mediante scambio di note dall’8 lug. 2019 ([RU 2019 2655](https://fedlex.data.admin.ch/eli/oc/2019/498)).
+[^annexu1-lvlu4-1]: Nuovo testo giusta la revisione del 15 ott. 2024, in vigore 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 
-### 1 Principi di cooperazione
+### 1 Principi della cooperazione
 
 Il presente protocollo disciplina la cooperazione tra il Principato del Liechtenstein e la Svizzera per l’offerta, la messa a disposizione sul mercato, la messa in servizio, l’installazione e l’esercizio di impianti di radiocomunicazione nel Principato del Liechtenstein.
 
 La cooperazione in questo ambito tiene conto del fatto che il Liechtenstein fa contemporaneamente parte del territorio doganale svizzero e dello Spazio economico europeo (SEE) e che il diritto dell’accordo doganale e il diritto dello SEE si applicano entrambi sul territorio del Principato («circolazione parallela delle merci»).
 
-Se i due diritti divergono l’uno dall’altro, si applica la norma sui conflitti di leggi menzionata nell’articolo 3 dell’accordo del 2 novembre 1994[^annexu1-lvlu4-lvl1-1] tra la Confederazione Svizzera e il Liechtenstein relativo al Trattato di unione doganale concluso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein. In simili casi, le autorità di esecuzione optano per le forme di procedimento più semplici.
+Se i due diritti divergono l’uno dall’altro, si applica la norma sui conflitti di leggi menzionata nell’articolo 3 dell’accordo del 2 novembre 1994[^annexu1-lvlu4-lvl1-1] tra la Confederazione Svizzera e il Liechtenstein relativo al Trattato di unione doganale concluso il 29 marzo 1923[^annexu1-lvlu4-lvl1-2] tra la Confederazione Svizzera e il Principato del Liechtenstein. In simili casi, le autorità di esecuzione optano per le forme di procedimento più semplici.
 
 [^annexu1-lvlu4-lvl1-1]: [RS 0.631.112.514.6](https://fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829)
+[^annexu1-lvlu4-lvl1-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
 
-### 2 Ambiti e contenuto della cooperazione
+### 2 Contenuto e ambiti della cooperazione
 
 ### 2.1 Messa a disposizione sul mercato d’impianti di radiocomunicazione
 
-Le parti constatano che il diritto dell’accordo doganale relativo alla messa a disposizione sul mercato di impianti di radiocomunicazione coincide essenzialmente con il diritto dello SEE, in particolare con la direttiva 2014/53/UE[^annexu1-lvlu4-lvl2-lvl21-1].
+Le parti constatano che il diritto dell’accordo doganale relativo alla messa a disposizione sul mercato di impianti di radiocomunicazione coincide essenzialmente con il diritto dello SEE, in particolare con la direttiva 2014/53/UE[^annexu1-lvlu4-lvl21-1].
 
-Conformemente al diritto dello SEE e alla legge del Principato del Liechtenstein del 22 marzo 1995[^annexu1-lvlu4-lvl2-lvl21-2] in merito alla circolazione delle merci (Gesetz vom 22. März 1995 über die Verkehrsfähigkeit von Waren) in combinato disposto con l’ordinanza del Principato del Liechtenstein del 19 settembre 2017 relativa alla circolazione di impianti di radiocomunicazione nello Spazio economico europeo[^annexu1-lvlu4-lvl2-lvl21-3] (Verordnung vom 19. September 2017 über den Verkehr mit Funkanlagen im Europäischen Wirtschaftsraum) nonché con il diritto dell’accordo doganale, l’Ufficio delle comunicazioni (AK) è responsabile della sorveglianza della circolazione di impianti di radiocomunicazione nel Principato del Liechtenstein. Per adeguarsi ai diritti e agli obblighi posti dal diritto dello SEE, il Principato del Liechtenstein ha applicato una regolamentazione in base alla quale possono essere messi a disposizione sul mercato tutti gli impianti di radiocomunicazione autorizzati in un altro Stato dello SEE o in uno Stato terzo conformemente al diritto dello SEE, e segnatamente sulla base di un Mutual Recognition Agreement (MRA). Sono inoltre ammessi nel Liechtenstein tutti gli impianti di radiocomunicazione messi a disposizione sul mercato in base al diritto dell’accordo doganale.
+Conformemente al diritto dello SEE e alla legge del Principato del Liechtenstein del 22 marzo 1995[^annexu1-lvlu4-lvl21-2] in merito alla circolazione delle merci (Gesetz vom 22. März 1995 über die Verkehrsfähigkeit von Waren) in combinato disposto con l’ordinanza del Principato del Liechtenstein del 19 settembre 2017[^annexu1-lvlu4-lvl21-3] relativa alla circolazione di impianti di radiocomunicazione nello Spazio economico europeo (Verordnung vom 19. September 2017 über den Verkehr mit Funkanlagen im Europäischen Wirtschaftsraum) nonché con il diritto dell’accordo doganale, l’AK è responsabile della sorveglianza della circolazione di impianti di radiocomunicazione nel Principato del Liechtenstein. Per adeguarsi ai diritti e agli obblighi posti dal diritto dello SEE, il Principato del Liechtenstein ha applicato una regolamentazione in base alla quale possono essere messi a disposizione sul mercato tutti gli impianti di radiocomunicazione autorizzati in un altro Stato dello SEE o in uno Stato terzo conformemente al diritto dello SEE, e segnatamente sulla base di un Mutual Recognition Agreement (MRA). Sono inoltre ammessi nel Liechtenstein tutti gli impianti di radiocomunicazione messi a disposizione sul mercato in base al diritto dell’accordo doganale.
 
 Ai fini dell’applicazione del presente protocollo, l’UFCOM fornisce sostegno e consulenza alle autorità competenti del Liechtenstein nella creazione del sistema di valutazione della conformità degli impianti di radiocomunicazione come pure in questioni concernenti la messa a disposizione sul mercato d’impianti di radiocomunicazione nel Principato del Liechtenstein. Tali attività di consulenza e di sostegno includono l’esame di domande di qualsiasi tipo, riguardanti segnatamente:
 
 - a) la conformità degli impianti di radiocomunicazione;
-- b) le condizioni e la procedura relativi alla valutazione e alla conferma della conformità;
+- b) le condizioni e la procedura relativi alla valutazione della conformità;
 - c) l’utilizzo di marchi di conformità;
 - d) le norme e prescrizioni tecniche;
 - e) il riconoscimento di organismi specializzati stranieri in qualità di organismi designati.
 
-L’UFCOM offre sostegno e consulenza sulla base di normative europee armonizzate, se esistenti, o sulla base di prescrizioni o norme tecniche svizzere.
+L’UFCOM offre sostegno e consulenza sulla base di normative europee armonizzate, se esistenti, o negli altri casi, sulla base di prescrizioni o norme tecniche svizzere.
 
-[^annexu1-lvlu4-lvl2-lvl21-1]: Direttiva 2014/53/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative all’immissione sul mercato di apparecchiature radio e che abroga la direttiva 1999/5/CE, GU L 153 del 22.05.2014, pag. 62.
-[^annexu1-lvlu4-lvl2-lvl21-2]: LR-Nr. 947.1
-[^annexu1-lvlu4-lvl2-lvl21-3]: LR-Nr. 947.102.181
+[^annexu1-lvlu4-lvl21-1]: Direttiva 2014/53/UE del Parlamento europeo e del Consiglio del 16 aprile 2014 concernente l’armonizzazione delle legislazioni degli Stati membri relative all’immissione sul mercato di apparecchiature radio e che abroga la direttiva 1999/5/CE, GU L 153 del 22.5.2014, pag. 62, modificata da ultimo dalla direttiva (UE) 2022/2380, GU L 315 del 7.12.2022, pag. 30.
+[^annexu1-lvlu4-lvl21-2]: LR-Nr.947.1
+[^annexu1-lvlu4-lvl21-3]: LR-Nr.947.102.181
 
 ### 2.2 Notifica delle specifiche delle interfacce radio conformemente all’articolo 8 della direttiva 2014/53/UE
 
-L’UFCOM sostiene l’AK nella notifica, conformemente all’articolo 8 della direttiva 2014/53/UE[^annexu1-lvlu4-lvl2-lvl22-1], delle specifiche delle interfacce radio alle autorità di vigilanza dell’AELS. L’AK valuta la possibilità di assolvere all’obbligo di notifica attraverso un rinvio diretto alle specifiche svizzere vigenti. L’UFCOM informa l’AK di ciascuna modifica apportata alle specifiche delle interfacce radio.
+L’UFCOM sostiene l’AK nella notifica, conformemente all’articolo 8 della direttiva 2014/53/UE, delle specifiche delle interfacce radio alle autorità di vigilanza dell’AELS. L’AK valuta la possibilità di assolvere all’obbligo di notifica attraverso un rinvio diretto alle specifiche svizzere vigenti. L’UFCOM informa l’AK di ciascuna modifica apportata alle specifiche delle interfacce radio.
 
-[^annexu1-lvlu4-lvl2-lvl22-1]: Cfr. nota a piè di pagina al n. 2.1.
-
-### 2.3 Messa a disposizione sul mercato ed esercizio d’impianti di radiocomunicazione
+### 2.3 Installazione ed esercizio di impianti di radiocomunicazione
 
 In virtù del presente protocollo, la cooperazione si estende alle attività di consulenza e di sostegno da parte dell’UFCOM alle autorità competenti del Liechtenstein in materia di installazione e di esercizio di impianti di radiocomunicazione nel Principato del Liechtenstein.
 
-### 2.4 Controllo successivo di impianti di radiocomunicazione (sorveglianza del mercato)
+### 2.4 Sorveglianza del mercato nel settore degli impianti di radiocomunicazione
 
-Le condizioni e la procedura che disciplinano il controllo successivo degli impianti di radiocomunicazione offerti, messi a disposizione sul mercato, messi in servizio, installati ed esercitati nel Principato del Liechtenstein sono definite nel protocollo V concernente la sorveglianza del mercato.
+L’ordinanza svizzera del 25 novembre 2015[^annexu1-lvlu4-lvl24-1] sugli impianti di telecomunicazione (OIT) è stata recepita nell’allegato I del Trattato di unione doganale conchiuso tra la Confederazione Svizzera e il Principato del Liechtenstein (Trattato di unione doganale) e l’applicabilità che ne deriva sul territorio del Principato del Liechtenstein è data dalla rispettiva versione in vigore.
 
-L’UFCOM mette a disposizione dell’AK le informazioni necessarie in merito agli impianti di radiocomunicazione la cui mancata conformità è stata constatata dall’UFCOM. L’AK adotta le misure adatte.
+L’AK è responsabile per la sorveglianza del mercato nel Principato del Liechtenstein e può incaricare l’UFCOM, in accordo con esso, di svolgere le relative attività nel quadro dell’OIT. In particolare, l’UFCOM può effettuare controlli di mercato sul territorio del Principato del Liechtenstein degli impianti di radiocomunicazione ai sensi dell’articolo 1 OIT in combinato disposto con l’articolo 36 segg. OIT.
+
+L’AK e l’UFCOM svolgono una volta all’anno, nel quarto trimestre, una seduta di coordinazione in cui vengono stabiliti i controlli (a campione) per l’anno successivo e in cui si informa in merito ai controlli effettuati durante l’anno. Se nel corso dell’anno si constata un’urgente necessità di agire, è convocata una seduta straordinaria.
+
+L’UFCOM informa tempestivamente e in anticipo l’AK in merito allo svolgimento delle attività previste nell’ambito della sorveglianza del mercato sul territorio del Principato del Liechtenstein.
+
+Le decisioni dell’UFCOM nell’ambito della sorveglianza del mercato sul territorio del Principato del Liechtenstein devono contenere una nota che indichi che la competenza dell’UFCOM deriva dal Trattato di unione doganale.
+
+Il perseguimento e il giudizio delle infrazioni spettano all’AK o alle autorità competenti del Liechtenstein. Il coinvolgimento dell’UFCOM avviene di comune accordo e su richiesta dell’AK. Esso consiste nella consulenza e sostegno dell’AK caso per caso, se necessario in loco. L’UFCOM informa l’AK in merito a possibili infrazioni sul territorio del Principato del Liechtenstein.
+
+[^annexu1-lvlu4-lvl24-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 
 ### 2.5 Rappresentanza in organismi internazionali nell’ambito della radiocomunicazione
 
-L’UFCOM rappresenta il Principato del Liechtenstein in seno a organismi internazionali per l’ambito degli impianti di radiocomunicazione ai sensi dell’articolo 6 del presente accordo e riferisce regolarmente all’AK. Ciò riguarda in particolare il Comitato per la valutazione della conformità e per la vigilanza del mercato nel settore delle telecomunicazioni[^annexu1-lvlu4-lvl2-lvl25-1] e i suoi sottogruppi.
+L’UFCOM rappresenta il Principato del Liechtenstein in seno a organismi internazionali per l’ambito degli impianti di radiocomunicazione ai sensi dell’articolo 6 del presente accordo e riferisce regolarmente all’AK. Ciò riguarda in particolare il Comitato per la valutazione della conformità e per la vigilanza del mercato nel settore delle telecomunicazioni[^annexu1-lvlu4-lvl25-1] e i suoi sottogruppi.
 
 I dettagli della collaborazione sono disciplinati dalle amministrazioni in un accordo che non richiede una forma specifica. Esso contiene in particolare una lista degli organismi in seno ai quali l’UFCOM rappresenta permanentemente il Principato del Liechtenstein. Per i casi in cui è necessaria una delega, l’AK s’incarica di procurarla o di rilasciarla.
 
-[^annexu1-lvlu4-lvl2-lvl25-1]: Telecommunication Conformity Assessment and Market Surveillance Committee, TCAM.
+[^annexu1-lvlu4-lvl25-1]: Telecommunication Conformity Assessment and Market Surveillance Committee (TCAM)
 
 ### 2.6 Sostegno nell’adempimento degli obblighi derivanti dall’Accordo del 2 maggio 1992 sullo Spazio economico europeo
 
-L’UFCOM sostiene il Principato del Liechtenstein nell’adempimento degli obblighi in base all’Accordo del 2 maggio 1992[^annexu1-lvlu4-lvl2-lvl26-1] sullo Spazio economico europeo, in particolare:
+L’UFCOM sostiene il Principato del Liechtenstein nell’adempimento degli obblighi in base all’Accordo del 2 maggio 1992[^annexu1-lvlu4-lvl26-1] sullo Spazio economico europeo, in particolare:
 
-- a) nell’istituzione regolare di programmi di vigilanza del mercato conformemente all’articolo 18 paragrafo 5 del regolamento (CE) n. 765/2008[^annexu1-lvlu4-lvl2-lvl26-2];
-- b) nella redazione della relazione sul riesame e la valutazione della vigilanza del mercato conformemente all’articolo 18 paragrafo 6 del regolamento (CE) 765/2008;
-- c) nell’elaborazione della relazione relativa all’applicazione della direttiva 2014/53/UE[^annexu1-lvlu4-lvl2-lvl26-3] conformemente all’articolo 47 paragrafo 1 di tale direttiva.
+- a) nell’istituzione regolare della strategia nazionale di vigilanza del mercato conformemente all’articolo 13 del regolamento (UE) n. 2019/1020[^annexu1-lvlu4-lvl26-2];
+- b) nella redazione della relazione per il riesame e la valutazione della vigilanza del mercato conformemente all’articolo 31 paragrafo 2 lettera o del regolamento (UE) 2019/1020;
+- c) nell’elaborazione della relazione relativa all’applicazione della direttiva 2014/53/UE conformemente all’articolo 47 paragrafo 1 di tale direttiva.
 
-[^annexu1-lvlu4-lvl2-lvl26-1]: LR-Nr. 0.110
-[^annexu1-lvlu4-lvl2-lvl26-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio, nella versione della GU L 218, del 13.8.2008, pag. 30.
-[^annexu1-lvlu4-lvl2-lvl26-3]: Vedi nota a piè di pagina al n. 2.1.
+[^annexu1-lvlu4-lvl26-1]: LR-Nr.0.110
+[^annexu1-lvlu4-lvl26-2]: Regolamento (UE) N. 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformità dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011; versione secondo GU L 169 del 25.6.2019, pag. 1.
 
 ### 2.7 Impianti di radiocomunicazione esercitati dalle autorità per garantire la sicurezza pubblica
 
-- a) L’UFCOM prepara la documentazione necessaria al rilascio di un’omologazione per impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità quando l’omologazione si applica unicamente al territorio del Principato del Liechtenstein. Le autorità di quest’ultimo sono competenti per il rilascio dell’omologazione. I costi risultanti per l’UFCOM sono fatturati al Principato del Liechtenstein.
-- b) L’UFCOM prepara la documentazione necessaria al rilascio di un’autorizzazione per la messa a disposizione sul mercato di impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità quando l’autorizzazione è valida unicamente per il territorio del Principato del Liechtenstein. Le autorità di quest’ultimo sono competenti per il rilascio dell’autorizzazione. I costi risultanti per l’UFCOM sono fatturati al Principato del Liechtenstein.
+- a) L’UFCOM prepara la documentazione necessaria al rilascio di un’omologazione per impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità quando l’omologazione si applica unicamente al territorio del Principato del Liechtenstein. Le autorità di quest’ultimo sono competenti per il rilascio dell’omologazione.
+- b) L’UFCOM prepara la documentazione necessaria al rilascio di un’autorizzazione per la messa a disposizione sul mercato di impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità quando l’autorizzazione è valida unicamente per il territorio del Principato del Liechtenstein. Le autorità di quest’ultimo sono competenti per il rilascio dell’autorizzazione.
 
-## Protocollo V**** concernente la cooperazione nell’ambito della sorveglianza del mercato
+## Protocollo V
 
 [^annexu1-lvlu5-1]
 
-[^annexu1-lvlu5-1]: Nuovo testo giusta la revisione del 6 mag. 2019, in vigore mediante scambio di note dall’8 lug. 2019 ([RU 2019 2655](https://fedlex.data.admin.ch/eli/oc/2019/498)).
-
-### 1 Principi di cooperazione
-
-Negli ambiti regolamentati dai protocolli II (gestione delle frequenze), III (determinati diritti di utilizzo delle frequenze per impianti di radiocomunicazione) e IV (impianti di radiocomunicazione) si rivela necessaria nel Liechtenstein una cooperazione in materia di sorveglianza del mercato. Tale cooperazione è disciplinata dal presente protocollo per gli ambiti coperti dai protocolli III e IV, mentre per i dettagli relativi alla cooperazione in materia di gestione delle frequenze fa testo il protocollo II.
-
-Ai sensi del presente protocollo, per «sorveglianza del mercato» si intendono tutti i provvedimenti finalizzati a determinare se la regolamentazione del Liechtenstein viene rispettata nei settori disciplinati dai protocolli II, III e IV. Le infrazioni vengono perseguite e giudicate dalle autorità competenti del Liechtenstein.
-
-Le misure di sorveglianza del mercato nel Principato del Liechtenstein sono prese in base alle disposizioni delle leggi e delle ordinanze del Liechtenstein. L’AK è responsabile dell’esecuzione della sorveglianza del mercato sul territorio del Principato del Liechtenstein e può, d’intesa con l’UFCOM, incaricarlo di svolgere determinati compiti. L’UFCOM informa l’AK in merito allo svolgimento di possibile attività di sorveglianza del mercato sul territorio del Principato del Liechtenstein.
-
-Nel quadro della cooperazione ai sensi del presente protocollo, le autorità di esecuzione si informano reciprocamente riguardo infrazioni e altri atti suscettibili di causare ripercussioni nell’ambito della sovranità dell’una o dell’altra parte relativamente ai settori disciplinati dai protocolli II, III e IV.
-
-### 2 Ambiti e contenuto della cooperazione
-
-La cooperazione ai sensi del presente protocollo si basa sulla partecipazione dell’UFCOM ai provvedimenti presi dalle autorità competenti del Liechtenstein in materia di sorveglianza del mercato. Questa cooperazione avviene di comune accordo e su richiesta delle autorità competenti del Liechtenstein e consiste in un’offerta di sostegno e consulenza alle autorità del Liechtenstein in casi particolari, se necessario in loco.
-
-### 2.1 Determinati diritti di utilizzo delle frequenze per impianti di radiocomunicazione
-
-Le autorità competenti del Liechtenstein sono responsabili del controllo dell’esercizio dei diritti di utilizzo delle frequenze per impianti di radiocomunicazione previsti nel protocollo III. In caso di interferenze o di esercizio non conforme di tali diritti di utilizzo delle frequenze per impianti di radiocomunicazione, queste autorità applicano le necessarie misure di sorveglianza del mercato. Su richiesta l’UFCOM offre consulenza e appoggio alle autorità competenti del Liechtenstein.
-
-### 2.2 Controllo successivo degli impianti di radiocomunicazione
-
-Le autorità competenti del Liechtenstein sono responsabili del controllo successivo degli impianti di radiocomunicazione offerti, messi a disposizione sul mercato, messi in servizio, installati ed esercitati nel Principato del Liechtenstein. Tali autorità adottano i provvedimenti necessari per garantire la sorveglianza del mercato. Su richiesta, l’UFCOM offre consulenza e appoggio alle autorità competenti del Liechtenstein in particolare nel controllo dei rapporti di prova, dei certificati di conformità e di altri documenti giustificativi nonché nell’effettuazione e nella valutazione dei rilevamenti. L’UFCOM sostiene altresì le autorità del Liechtenstein attraverso la trasmissione di informazioni relative alla sorveglianza del mercato, ricavate da comunicazioni dell’ufficio doganale o da altre fonti. L’onere aggiuntivo a carico dell’UFCOM per la raccolta e la trasmissione dei dati nonché per la formazione dei collaboratori viene indennizzato forfettariamente.
+[^annexu1-lvlu5-1]: Abrogato dalla revisione del 15 ott. 2024, con effetto 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
