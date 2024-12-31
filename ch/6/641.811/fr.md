@@ -4,11 +4,11 @@ title: Ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poid
 short: ORPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: fr
-version: 2024-05-01
+version: 2025-01-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-150-20240501-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20240501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-150-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20240501/fr"
 
 (ORPL)
 
-du 27 mars 2024 (État le 1<sup>er</sup> mai 2024)
+du 27 mars 2024 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -197,16 +197,17 @@ Pour les véhicules ci-après, le poids suivant est déterminant:
 
 Pour les véhicules soumis à la redevance liée aux prestations, la redevance, par kilomètre parcouru et par tonne de poids déterminant, se monte à:
 
-- a. 3,10 centimes pour la catégorie de redevance 1;
-- b. 2,69 centimes pour la catégorie de redevance 2;
-- c. 2,28 centimes pour la catégorie de redevance 3.
+- a. 3,26 centimes pour la catégorie de redevance 1;
+- b. 2,82 centimes pour la catégorie de redevance 2;
+- c. 2,39 centimes pour la catégorie de redevance 3.[^8-1]
 
 <sup>2</sup> L’annexe 1 est déterminante pour l’attribution aux catégories de redevance. Si l’appartenance d’un véhicule à l’une des catégories de redevance 2 ou 3 ne peut pas être prouvée, c’est la catégorie de redevance 1 qui s’applique.
 
-<sup>3</sup> Les véhicules qui sont attribués à la catégorie de redevance 3 restent classés dans cette catégorie pendant au moins sept ans. Le délai commence à courir au moment où, en application des annexes 2 et 5 OETV[^8-1] et de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les voitures automobiles de transport et leurs remorques[^8-2], la classe d’émission correspondante devient obligatoire lors de la première mise en circulation des véhicules neufs de cette catégorie.
+<sup>3</sup> Les véhicules qui sont attribués à la catégorie de redevance 3 restent classés dans cette catégorie pendant au moins sept ans. Le délai commence à courir au moment où, en application des annexes 2 et 5 OETV[^8-2] et de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les voitures automobiles de transport et leurs remorques[^8-3], la classe d’émission correspondante devient obligatoire lors de la première mise en circulation des véhicules neufs de cette catégorie.
 
-[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^8-2]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
+[^8-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-3]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
 
 ### Chapitre 3 Règles particulières applicables aux véhicules à usage spécial
 
@@ -675,7 +676,7 @@ En cas de défectuosité ou de panne du système de saisie embarqué (art. 28), 
 
 ### Section 3 Correction de la déclaration
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/fr/xml/image/image1.png) Art. 43
+#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/fr/xml/image/image1.png) Art. 43
 
 Les données saisies pour la déclaration peuvent être corrigées jusqu’au moment où la déclaration devient contraignante.
 
@@ -1029,13 +1030,132 @@ Les prestataires du NETS doivent transmettre à l’OFDF les données qui lui so
 
 L’OFDF vérifie le montant de la compensation en faveur du prestataire agréé périodiquement, mais au moins tous les cinq ans. Si nécessaire, il propose au DFF de modifier le montant de la compensation.
 
-## Titre 4 ...
+## Titre 4 Perception forfaitaire de la redevance
 
-#### Art. 70 à 81
+### (art. 4, al. 2 et 9, LRPL)
 
-[^7081-1]
+### Chapitre 1 Véhicules suisses
 
-[^7081-1]: En vigueur le 1<sup>er</sup> janv. 2025.
+### Section 1 Dispositions générales
+
+#### Art. 70
+
+**Période fiscale**
+
+La période fiscale pour les véhicules suisses soumis à la redevance forfaitaire commence le premier jour de l’année civile et se termine le dernier jour de l’année civile.
+
+#### Art. 71
+
+**Paiement de la redevance**
+
+<sup>1</sup> La redevance forfaitaire doit être payée avant le début de la période fiscale.
+
+<sup>2</sup> Elle devient exigible au moment de l’immatriculation officielle du véhicule puis au début de chaque année.
+
+<sup>3</sup> Le délai et le mode de paiement sont réglés par les dispositions cantonales régissant la perception de l’impôt sur les véhicules à moteur.
+
+#### Art. 72
+
+**Compétences en matière de perception de la redevance**
+
+<sup>1</sup> La redevance forfaitaire sur le trafic des poids lourds pour les véhicules suisses est prélevée par le canton dans lequel le véhicule est immatriculé (canton de stationnement).
+
+<sup>2</sup> En cas de changement du lieu de stationnement, le nouveau canton de stationnement est compétent pour la perception de la redevance dès le jour au cours duquel le lieu de stationnement du véhicule est transféré dans un autre canton. L’ancien canton doit rembourser les redevances qu’il a perçues pour la période relevant de la compétence du nouveau canton de stationnement.
+
+#### Art. 73
+
+**Paiement de la redevance pour les véhicules à plaques interchangeables**
+
+Pour les véhicules munis de plaques interchangeables, la redevance forfaitaire ne doit être payée que pour le véhicule soumis au taux de redevance le plus élevé.
+
+#### Art. 74
+
+**Remboursement de la redevance lors de la mise hors circulation du véhicule**
+
+<sup>1</sup> Si un véhicule est mis hors circulation pendant une période fiscale, la redevance est remboursée au détenteur du véhicule au prorata.
+
+<sup>2</sup> La procédure de remboursement est régie par les dispositions cantonales régissant la perception de la taxe sur les véhicules à moteur.
+
+<sup>3</sup> Les montants inférieurs à 50 francs ne sont pas remboursés.
+
+#### Art. 75
+
+**Remboursement pour les courses à l’étranger**
+
+<sup>1</sup> Pour chaque jour au cours duquel il est prouvé qu’un véhicule circule exclusivement à l’étranger, un montant de 1/360 de la redevance annuelle est remboursé au détenteur du véhicule sur demande. Il n’y a aucun droit au remboursement pour chaque jour durant lequel le véhicule circule aussi bien à l’étranger que sur le territoire douanier.
+
+<sup>2</sup> Les demandes de remboursement doivent être présentées à l’OFDF dans un délai d’une année après l’expiration de la période fiscale. L’OFDF peut exiger des moyens de preuve.
+
+<sup>3</sup> Les montants inférieurs à 50 francs par demande ne sont pas remboursés.
+
+### Section 2 Déclaration des véhicules du trafic de ligne
+
+#### Art. 76
+
+**Principe**
+
+<sup>1</sup> Une déclaration doit être remise pour les véhicules de ligne.
+
+<sup>2</sup> Elle doit être remise pour chaque véhicule.
+
+#### Art. 77
+
+**Contenu de la déclaration**
+
+La déclaration comprend les données suivantes:
+
+- a. le numéro de châssis;
+- b. la période de la mise en circulation;
+- c. le kilométrage au moment de la mise en circulation ou au début de l’année;
+- d. le kilométrage lors de la mise hors circulation ou en fin d’année;
+- e. les kilomètres parcourus dans le cadre et en dehors du trafic de ligne.
+
+#### Art. 78
+
+**Délai de remise de la déclaration**
+
+<sup>1</sup> La déclaration doit être remise avant la fin du deuxième trimestre de l’année suivant la période fiscale.
+
+<sup>2</sup> Si le détenteur dépose dans les délais une demande de remboursement de l’impôt sur les huiles minérales en vertu de l’art. 18, al. 1<sup>bis</sup>, de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^78-1], cette demande est considérée comme une déclaration.
+
+<sup>3</sup> Si la déclaration fait défaut, l’OFDF perçoit la redevance selon l’art. 3 pour la période entière.
+
+[^78-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+### Chapitre 2 Véhicules étrangers
+
+#### Art. 79
+
+**Paiement de la redevance**
+
+<sup>1</sup> Pour les véhicules étrangers pour lesquels la redevance est forfaitaire, celle-ci doit être payée avant le début de l’assujettissement.
+
+<sup>2</sup> L’assujetti doit indiquer la date d’entrée sur le territoire douanier et la date prévue de sortie du territoire douanier lors du paiement de la redevance.
+
+<sup>3</sup> Après le paiement de la redevance, l’OFDF établit une quittance. Celle-ci sert de preuve de paiement. Une décision de taxation est notifiée si l’assujetti en fait la demande dans les 30 jours à compter de l’établissement de la quittance.
+
+#### Art. 80
+
+**Montant de la redevance lorsque l’assujettissement est inférieure à un an**
+
+<sup>1</sup>
+
+Si l’assujettissement est inférieur à un an, la redevance est calculée proportionnellement. Exprimée en pour cent des taux selon l’art. 3, elle se monte à:
+
+- a. si le véhicule se trouve un mois ou plusieurs mois consécutifs sur le territoire douanier: 9 % par mois complet et 0,5 % par jour pour les mois qui n’ont pas été entièrement passés sur le territoire douanier;
+- b. si le véhicule se trouve moins d’un mois sur le territoire douanier 0,5 % par jour, mais au moins 25 francs par véhicule;
+
+<sup>2</sup> La redevance calculée par jour se monte au plus au taux mensuel de redevance pour la catégorie de véhicule concernée.
+
+<sup>3</sup> Si le justificatif de paiement est restitué à l’OFDF avant la fin du dernier jour pour lequel la redevance a été payée, un remboursement proportionnel de la redevance est possible.
+
+<sup>4</sup> Les montants inférieurs à 50 francs ne sont pas remboursés.
+
+#### Art. 81
+
+**Système d’information**
+
+Les informations visées à l’art. 79, al. 2, doivent être remises via le système d’information mis à disposition par l’OFDF.
 
 ## Titre 5 Moyens de paiement acceptés
 
@@ -1374,7 +1494,7 @@ Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la pr
 
 **Autorisations de déroger à l’obligation de payer la redevance**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/fr/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/fr/xml/image/image20.png)</sup>
 
 Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la présente ordonnance, a exempté des véhicules de l’assujettissement à la redevance (art. 3, al. 2, de l’ancienne ORPL) sont valables au plus tard jusqu’au:
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 27 marzo 2024 concernente la tassa sul traffico pesante (O
 short: OTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: it
-version: 2024-05-01
+version: 2025-01-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2024-150-20240501-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20240501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-150-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20240501/it"
 
 (Ordinanza sul traffico pesante, OTTP)
 
-del 27 marzo 2024 (Stato 1° maggio 2024)
+del 27 marzo 2024 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -197,16 +197,17 @@ Per i seguenti veicoli fa stato il peso indicato qui appresso:
 
 Per i veicoli assoggettati alla tassa commisurata alle prestazioni la tassa per chilometro percorso e per tonnellata determinante ammonta a:
 
-- a. 3,10 centesimi per la categoria di tassa 1;
-- b. 2,69 centesimi per la categoria di tassa 2;
-- c. 2,28 centesimi per la categoria di tassa 3.
+- a. 3,26 centesimi per la categoria di tassa 1;
+- b. 2,82 centesimi per la categoria di tassa 2;
+- c. 2,39 centesimi per la categoria di tassa 3.[^8-1]
 
 <sup>2</sup> Per l’assegnazione dei veicoli alle categorie di tassa fa stato l’allegato 1. Se non è possibile provare che un veicolo rientra nella categoria 2 o 3, si applica la categoria di tassa 1.
 
-<sup>3</sup> I veicoli assegnati alla categoria di tassa 3 rimangono classificati in questa categoria per almeno sette anni. Il termine decorre dal momento in cui, conformemente agli allegati 2 e 5 OETV[^8-1] e all’ordinanza del 19 giugno 1995[^8-2] concernente le esigenze tecniche per gli autoveicoli di trasporto e i loro rimorchi, la rispettiva classe di emissione diventa obbligatoria per la prima messa in circolazione di veicoli nuovi.
+<sup>3</sup> I veicoli assegnati alla categoria di tassa 3 rimangono classificati in questa categoria per almeno sette anni. Il termine decorre dal momento in cui, conformemente agli allegati 2 e 5 OETV[^8-2] e all’ordinanza del 19 giugno 1995[^8-3] concernente le esigenze tecniche per gli autoveicoli di trasporto e i loro rimorchi, la rispettiva classe di emissione diventa obbligatoria per la prima messa in circolazione di veicoli nuovi.
 
-[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^8-2]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^8-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2024, in vigore dal 1° gen. 2025 ([RU 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
+[^8-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-3]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
 
 ### Capitolo 3: Disciplinamenti speciali per veicoli con scopi d’impiego particolari
 
@@ -675,7 +676,7 @@ In caso di guasto o difetto al sistema di rilevazione nel veicolo (art. 28) la p
 
 ### Sezione 3: Correzione della dichiarazione
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/it/xml/image/image2.png) Art. 43
+#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/it/xml/image/image2.png) Art. 43
 
 I dati rilevati ai fini della dichiarazione possono essere corretti fino al momento in cui la dichiarazione diventa vincolante.
 
@@ -1029,13 +1030,132 @@ Il fornitore del NETS deve trasmettere all’UDSC i dati che gli sono stati tras
 
 L’UDSC verifica periodicamente, ma almeno ogni cinque anni, l’importo della controprestazione per i fornitori autorizzati. Se necessario, propone al DFF un adeguamento dell’importo della controprestazione.
 
-## Titolo quarto: ...
+## Titolo quarto: Riscossione forfettaria della tassa
 
-#### Art. 70–81
+### (art. 4 cpv. 2 e 9 LTTP)
 
-[^7081-1]
+### Capitolo 1: Veicoli svizzeri
 
-[^7081-1]: Entrano in vigore il 1° gennaio 2025.
+### Sezione 1: In generale
+
+#### Art. 70
+
+**Periodo fiscale**
+
+Il periodo fiscale per i veicoli svizzeri assoggettati alla tassa forfettaria inizia il primo giorno dell’anno civile e termina l’ultimo giorno dell’anno civile.
+
+#### Art. 71
+
+**Pagamento della tassa**
+
+<sup>1</sup> La tassa forfettaria deve essere pagata prima dell’inizio del periodo fiscale.
+
+<sup>2</sup> Essa diventa esigibile con l’immatricolazione ufficiale e, in seguito, all’inizio di ogni anno.
+
+<sup>3</sup> Per il termine e le modalità di pagamento fanno stato le disposizioni cantonali disciplinanti la riscossione dell’imposta sui veicoli a motore.
+
+#### Art. 72
+
+**Competenza per la riscossione della tassa**
+
+<sup>1</sup> La tassa forfettaria per i veicoli svizzeri è riscossa dal Cantone in cui il veicolo è immatricolato (Cantone di stanza).
+
+<sup>2</sup> In caso di trasferimento in un altro Cantone del luogo di stanza di un veicolo, il nuovo Cantone di stanza è competente per la riscossione della tassa a partire dal giorno in cui avviene il trasferimento. Il Cantone di stanza precedente restituisce la tassa che ha già riscosso per il periodo in cui il nuovo Cantone è competente.
+
+#### Art. 73
+
+**Pagamento della tassa per veicoli con targhe intercambiabili**
+
+Per i veicoli con targhe intercambiabili la tassa forfettaria deve essere pagata soltanto per il veicolo assoggettato all’aliquota più elevata.
+
+#### Art. 74
+
+**Restituzione della tassa in caso di messa fuori circolazione del veicolo**
+
+<sup>1</sup> Se un veicolo è messo fuori circolazione durante un periodo fiscale, la tassa è restituita al detentore in maniera proporzionale.
+
+<sup>2</sup> Per la procedura di restituzione fanno stato le disposizioni cantonali disciplinanti la riscossione dell’imposta sui veicoli a motore.
+
+<sup>3</sup> Gli importi inferiori a 50 franchi non devono essere restituiti.
+
+#### Art. 75
+
+**Restituzione per corse all’estero**
+
+<sup>1</sup> Per ogni giorno per il quale è comprovato che un veicolo circola esclusivamente all’estero al detentore è restituito, su domanda, 1/360 della tassa annuale. Per i giorni in cui il veicolo circola sia all’estero sia nel territorio doganale non vi è alcun diritto alla restituzione.
+
+<sup>2</sup> Le domande di restituzione devono essere presentate all’UDSC entro un anno dalla fine del periodo fiscale. L’UDSC può esigere mezzi di prova.
+
+<sup>3</sup> Gli importi inferiori a 50 franchi per domanda non sono restituiti.
+
+### Sezione 2: Dichiarazione per veicoli utilizzati nel traffico di linea
+
+#### Art. 76
+
+**Principio**
+
+<sup>1</sup> Per i veicoli utilizzati nel traffico di linea deve essere presentata una dichiarazione.
+
+<sup>2</sup> La dichiarazione deve essere presentata per ogni veicolo.
+
+#### Art. 77
+
+**Contenuto della dichiarazione**
+
+La dichiarazione deve contenere le seguenti indicazioni:
+
+- a. il numero di telaio;
+- b. il periodo della messa in circolazione;
+- c. il chilometraggio al momento della messa in circolazione o all’inizio dell’anno;
+- d. il chilometraggio al momento della messa fuori circolazione o alla fine dell’anno;
+- e. i chilometri percorsi nel traffico di linea o fuori dal traffico di linea.
+
+#### Art. 78
+
+**Termine per la presentazione della dichiarazione**
+
+<sup>1</sup> La dichiarazione deve essere effettuata entro la fine del secondo trimestre dell’anno successivo al periodo fiscale.
+
+<sup>2</sup> Se il detentore del veicolo presenta, entro il termine, una domanda di restituzione dell’imposta sugli oli minerali secondo l’articolo 18 capoverso 1<sup>bis</sup> della legge federale del 21 giugno 1996[^78-1] sull’imposizione degli oli minerali, questa domanda vale come dichiarazione.
+
+<sup>3</sup> Se la dichiarazione viene omessa, l’UDSC riscuote la tassa secondo l’articolo 3 per l’intero periodo.
+
+[^78-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+### Capitolo 2: Veicoli esteri
+
+#### Art. 79
+
+**Pagamento della tassa**
+
+<sup>1</sup> Per i veicoli esteri per i quali la tassa è riscossa in modo forfettario, la tassa deve essere pagata prima dell’inizio dell’obbligo fiscale.
+
+<sup>2</sup> In occasione del pagamento della tassa, la persona assoggettata al pagamento della tassa deve indicare la data dell’entrata nel territorio doganale e la prevista data di uscita dallo stesso.
+
+<sup>3</sup> L’UDSC rilascia una quietanza dopo il pagamento della tassa. Questa serve da prova del pagamento. Una decisione d’imposizione viene notificata se la persona assoggettata al pagamento della tassa la richiede entro 30 giorni dal rilascio della quietanza.
+
+#### Art. 80
+
+**Importo della tassa in caso di obbligo fiscale inferiore a un anno**
+
+<sup>1</sup>
+
+Se l’obbligo fiscale dura meno di un anno, la tassa è calcolata in maniera proporzionale. Espressa in per cento delle aliquote secondo l’articolo 3 essa corrisponde a:
+
+- a. se il veicolo si trova nel territorio doganale per un mese o per più mesi consecutivi: 9 per cento per ogni mese intero e 0,5 per cento per ogni mese non intero in cui si trova nel territorio doganale;
+- b. se il veicolo si trova nel territorio doganale per meno di un mese: 0,5 per cento al giorno, ma almeno a 25 franchi per veicolo.
+
+<sup>2</sup> La tassa calcolata al giorno corrisponde, per ogni veicolo, al massimo all’aliquota mensile per la categoria di veicoli interessata.
+
+<sup>3</sup> Se la prova del pagamento è restituita all’UDSC prima della fine dell’ultimo giorno per il quale la tassa è stata pagata, vi è diritto a una restituzione proporzionale della tassa.
+
+<sup>4</sup> Gli importi inferiori a 50 franchi non sono restituiti.
+
+#### Art. 81
+
+**Sistema d’informazione**
+
+Le indicazioni secondo l’articolo 79 capoverso 2 devono essere fornite tramite il sistema d’informazione messo a disposizione dall’UDSC.
 
 ## Titolo quinto: Mezzi di pagamento accettati
 
@@ -1374,7 +1494,7 @@ Le autorizzazioni con le quali l’UDSC, sulla base dell’articolo 15 capoverso
 
 **Autorizzazione per l’esenzione dall’obbligo di pagare la tassa**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/it/xml/image/image3.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/it/xml/image/image3.png)</sup>
 
 Le autorizzazioni con le quali l’UDSC, prima dell’entrata in vigore della presente ordinanza, ha esentato i veicoli dall’obbligo della tassa (art. 3 cpv. 2 OTTP anteriore) sono valide al massimo fino al:
 

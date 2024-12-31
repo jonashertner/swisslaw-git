@@ -4,11 +4,11 @@ title: "Verordnung vom 27. März 2024 über die Schwerverkehrsabgabe (Schwerverk
 short: SVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: de
-version: 2024-05-01
+version: 2025-01-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2024-150-20240501-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20240501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-150-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20240501/de"
 
 (Schwerverkehrsabgabeverordnung, SVAV)
 
-vom 27. März 2024 (Stand am 1. Mai 2024)
+vom 27. März 2024 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -197,16 +197,17 @@ Für folgende Fahrzeuge ist folgendes Gewicht massgebend:
 
 Für Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, beträgt die Abgabe pro gefahrenen Kilometer und Tonne massgebendes Gewicht:
 
-- a. 3,10 Rappen für die Abgabekategorie 1;
-- b. 2,69 Rappen für die Abgabekategorie 2;
-- c. 2,28 Rappen für die Abgabekategorie 3.
+- a. 3,26 Rappen für die Abgabekategorie 1;
+- b. 2,82 Rappen für die Abgabekategorie 2;
+- c. 2,39 Rappen für die Abgabekategorie 3.[^8-1]
 
 <sup>2</sup> Für die Einteilung der Fahrzeuge in die Abgabekategorien ist Anhang 1 massgebend. Kann die Zugehörigkeit eines Fahrzeugs zur Abgabekategorie 2 oder 3 nicht nachgewiesen werden, so ist die Abgabekategorie 1 anwendbar.
 
-<sup>3</sup> Fahrzeuge, die der Abgabekategorie 3 zugeteilt werden, bleiben während mindestens sieben Jahren in dieser Abgabekategorie eingereiht. Die Frist beginnt im Zeitpunkt zu laufen, in dem die jeweilige Emissionsklasse für die erste Inverkehrsetzung von Neufahrzeugen gemäss den Anhängen 2 und 5 VTS[^8-1] sowie der Verordnung vom 19. Juni 1995[^8-2] über technische Anforderungen an Transportmotorwagen und deren Anhänger obligatorisch wird.
+<sup>3</sup> Fahrzeuge, die der Abgabekategorie 3 zugeteilt werden, bleiben während mindestens sieben Jahren in dieser Abgabekategorie eingereiht. Die Frist beginnt im Zeitpunkt zu laufen, in dem die jeweilige Emissionsklasse für die erste Inverkehrsetzung von Neufahrzeugen gemäss den Anhängen 2 und 5 VTS[^8-2] sowie der Verordnung vom 19. Juni 1995[^8-3] über technische Anforderungen an Transportmotorwagen und deren Anhänger obligatorisch wird.
 
-[^8-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^8-2]: [SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^8-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
+[^8-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-3]: [SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
 
 ### 3. Kapitel: Sonderregelungen für Fahrzeuge mit besonderem Verwendungszweck
 
@@ -675,7 +676,7 @@ Kommt es zu einem Defekt oder Ausfall des fahrzeugseitigen Erfassungssystems (Ar
 
 ### 3. Abschnitt: Korrektur der Anmeldung
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/de/xml/image/image2.png) Art. 43
+#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/de/xml/image/image2.png) Art. 43
 
 Die im Hinblick auf die Anmeldung erfassten Daten können bis zum Zeitpunkt, zu dem die Anmeldung verbindlich wird, korrigiert werden.
 
@@ -1029,13 +1030,132 @@ Die NETS-Anbieter müssen dem BAZG die ihnen bei Defekt oder Ausfall des fahrzeu
 
 Das BAZG überprüft die Höhe des Entgelts für die zugelassenen Anbieter periodisch, mindestens aber alle fünf Jahre. Wenn nötig schlägt es dem EFD eine Anpassung der Höhe des Entgelts vor.
 
-### 4. Titel: …
+## 4. Titel: Pauschale Abgabeerhebung
 
-#### Art. 70–81
+### (Art. 4 Abs. 2 und 9 SVAG)
 
-[^7081-1]
+### 1. Kapitel: Inländische Fahrzeuge
 
-[^7081-1]: Tritt am 1. Jan. 2025 in Kraft.
+### 1. Abschnitt: Allgemeines
+
+#### Art. 70
+
+**Abgabeperiode**
+
+Die Abgabeperiode für inländische Fahrzeuge, für die die Abgabe pauschal erhoben wird, beginnt am ersten Tag des Kalenderjahrs und endet am letzten Tag des Kalenderjahrs.
+
+#### Art. 71
+
+**Entrichtung der Abgabe**
+
+<sup>1</sup> Die pauschal erhobene Abgabe ist vor Beginn der Abgabeperiode zu entrichten.
+
+<sup>2</sup> Sie wird mit der amtlichen Zulassung des Fahrzeugs und anschliessend jeweils zu Jahresbeginn fällig.
+
+<sup>3</sup> Zahlungsfrist und Zahlungsweise richten sich nach den kantonalen Bestimmungen über die Erhebung der Motorfahrzeugsteuer.
+
+#### Art. 72
+
+**Zuständigkeit für die Erhebung der Abgabe**
+
+<sup>1</sup> Die für inländische Fahrzeuge pauschal erhobene Schwerverkehrsabgabe wird vom Kanton, in dem das Fahrzeug immatrikuliert ist (Standortkanton), erhoben.
+
+<sup>2</sup> Bei Standortverlegung ist vom Tag an, in dem der Standort eines Fahrzeugs in einen anderen Kanton verlegt wird, der neue Standortkanton für die Erhebung der Abgabe zuständig. Der frühere Standortkanton erstattet die Abgaben zurück, die er für die Zeit, in der der neue Standortkanton zuständig ist, bereits erhoben hat.
+
+#### Art. 73
+
+**Entrichtung der Abgabe für Fahrzeuge mit Wechselschild**
+
+Bei Fahrzeugen mit Wechselschildern muss die pauschal erhobene Abgabe nur für das Fahrzeug mit dem höchsten Abgabesatz bezahlt werden.
+
+#### Art. 74
+
+**Rückerstattung der Abgabe bei Ausserverkehrsetzung des Fahrzeugs**
+
+<sup>1</sup> Wird ein Fahrzeug während einer Abgabeperiode ausser Verkehr gesetzt, so wird der Fahrzeughalterin oder dem Fahrzeughalter die Abgabe anteilsmässig zurückerstattet.
+
+<sup>2</sup> Das Rückerstattungsverfahren richtet sich nach den kantonalen Bestimmungen über die Erhebung der Motorfahrzeugsteuer.
+
+<sup>3</sup> Beträge unter 50 Franken müssen nicht zurückerstattet werden.
+
+#### Art. 75
+
+**Rückerstattung für Auslandfahrten**
+
+<sup>1</sup> Für jeden Tag, an dem ein Fahrzeug nachweislich ausschliesslich im Ausland verkehrt, wird der Fahrzeughalterin oder dem Fahrzeughalter auf Gesuch hin 1/360 der Jahresabgabe zurückerstattet. Für Tage, an denen das Fahrzeug sowohl im Ausland als auch im Zollgebiet verkehrt, besteht kein Anspruch auf Rückerstattung.
+
+<sup>2</sup> Rückerstattungsgesuche sind innerhalb eines Jahres nach Ablauf der Abgabeperiode dem BAZG einzureichen. Dieses kann Beweismittel verlangen.
+
+<sup>3</sup> Beträge unter 50 Franken je Gesuch werden nicht zurückerstattet.
+
+### 2. Abschnitt: Anmeldung für Fahrzeuge des Linienverkehrs
+
+#### Art. 76
+
+**Grundsatz**
+
+<sup>1</sup> Für Fahrzeuge des Linienverkehrs ist eine Anmeldung einzureichen.
+
+<sup>2</sup> Sie ist für jedes Fahrzeug einzureichen.
+
+#### Art. 77
+
+**Inhalt der Anmeldung**
+
+Die Anmeldung muss folgende Angaben enthalten:
+
+- a. Fahrgestellnummer;
+- b. Zeitraum der Inverkehrsetzung;
+- c. Kilometerstand bei der Inverkehrsetzung oder am Jahresanfang;
+- d. Kilometerstand bei der Ausserverkehrsetzung oder am Jahresende;
+- e. innerhalb und ausserhalb des Linienverkehrs gefahrene Kilometer.
+
+#### Art. 78
+
+**Frist für die Einreichung der Anmeldung**
+
+<sup>1</sup> Die Anmeldung muss bis zum Ende des zweiten Quartals des auf die Abgabeperiode folgenden Jahres erfolgen.
+
+<sup>2</sup> Reicht die Fahrzeughalterin oder der Fahrzeughalter ein Gesuch um Rückerstattung der Mineralölsteuer nach Artikel 18 Absatz 1<sup>bis</sup> des Mineralölsteuergesetzes vom 21. Juni 1996[^78-1] fristgerecht ein, so gilt dieses Gesuch als Anmeldung.
+
+<sup>3</sup> Bleibt die Anmeldung aus, so erhebt das BAZG die Abgabe in der Höhe nach Artikel 3 für die ganze Periode.
+
+[^78-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+### 2. Kapitel: Ausländische Fahrzeuge
+
+#### Art. 79
+
+**Entrichtung der Abgabe**
+
+<sup>1</sup> Für ausländische Fahrzeuge, für die die Abgabe pauschal erhoben wird, ist diese vor Beginn der Abgabepflicht zu entrichten.
+
+<sup>2</sup> Die abgabepflichtige Person hat bei der Entrichtung der Abgabe das Datum der Einfahrt und das voraussichtliche Datum der Ausfahrt aus dem Zollgebiet anzugeben.
+
+<sup>3</sup> Das BAZG stellt nach der Entrichtung der Abgabe eine Quittung aus. Diese dient als Zahlungsnachweis. Eine Veranlagungsverfügung wird eröffnet, wenn die abgabepflichtige Person dies innerhalb von 30 Tagen ab der Ausstellung der Quittung verlangt.
+
+#### Art. 80
+
+**Höhe der Abgabe bei einer Abgabepflicht von weniger als einem Jahr**
+
+<sup>1</sup>
+
+Dauert die Abgabepflicht weniger als ein Jahr, so wird die Abgabe anteilmässig berechnet. Sie beträgt in Prozenten der Ansätze nach Artikel 3:
+
+- a. wenn sich das Fahrzeug während eines Monats oder mehrerer aufeinanderfolgender Monate im Zollgebiet befindet: 9 Prozent pro vollständigen Monat und 0,5 Prozent pro Tag für nicht vollständig im Zollgebiet verbrachte Monate;
+- b. wenn sich das Fahrzeug weniger als einen Monat im Zollgebiet befindet: 0,5 Prozent pro Tag, mindestens aber 25 Franken je Fahrzeug.
+
+<sup>2</sup> Die pro Tag berechnete Abgabe beträgt je Fahrzeug nicht mehr als der monatliche Abgabesatz für die betreffende Fahrzeugkategorie.
+
+<sup>3</sup> Wird der Zahlungsnachweis vor Ablauf des letzten Tages, für den die Abgabe bezahlt worden ist, dem BAZG zurückgegeben, so besteht Anspruch auf eine anteilmässige Rückerstattung der Abgabe.
+
+<sup>4</sup> Beträge unter 50 Franken werden nicht zurückerstattet.
+
+#### Art. 81
+
+**Informationssystem**
+
+Die Angaben nach Artikel 79 Absatz 2 sind über das vom BAZG zur Verfügung gestellten Informationssystem zu machen.
 
 ## 5. Titel: Akzeptierte Zahlungsmittel
 
@@ -1374,7 +1494,7 @@ Bewilligungen, mit denen des BAZG vor Inkrafttreten dieser Verordnung gestützt 
 
 **Bewilligungen für Befreiung von der Pflicht zur Entrichtung der Abgabe**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20240501/de/xml/image/image4.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/de/xml/image/image4.png)</sup>
 
 Bewilligungen, mit denen das BAZG vor Inkrafttreten dieser Verordnung Fahrzeuge von der Abgabepflicht ausgenommen hat (Art. 3 Abs. 2 bisherige SVAV), sind längstens gültig bis zum:
 
