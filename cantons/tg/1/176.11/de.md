@@ -1,27 +1,30 @@
 ---
 canton: TG
 number: "176.11"
-title: Verordnung des Obergerichts zum Anwaltsgesetz
-short: "Anwaltsverordnung, AnwV"
+title: Anwaltsverordnung
+short: AnwV
 language: de
-version: 2013-01-01
-valid_until: 2024-12-31
-version_adopted: 2011-11-23
+version: 2025-01-01
+version_adopted: 2024-10-23
 adopted: 2002-06-13
 in_force: 2002-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/176.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2026/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Obergerichts zum Anwaltsgesetz
+# Anwaltsverordnung
 
-Anwaltsverordnung (AnwV)
+AnwV
 
-(Anwaltsverordnung, AnwV)
+(AnwV)
 
-vom 13.06.2002 (Stand 01.01.2013)
+vom 13.06.2002 (Stand 01.01.2025)
+
+Erlassen vom Obergericht gestützt auf § 4 des Anwaltsgesetzes (AnwG)[^ingress-1].
+
+[^ingress-1]: RB [176.1](https://www.rechtsbuch.tg.ch/data/176.1/de)
 
 ## 1. Organisation und Verfahren
 
@@ -49,7 +52,7 @@ vom 13.06.2002 (Stand 01.01.2013)
 
 <sup>3</sup> Über die Zulassung zur Anwaltsprüfung und zu anderen Prüfungen, die Bewertung schriftlicher Prüfungsarbeiten und die Entbindung vom Anwaltsgeheimnis sowie in einfachen Fällen kann die Anwaltskommission auf dem Zirkularweg entscheiden.
 
-<sup>4</sup> Für den Ausstand gilt § 7 des Gesetzes über die Verwaltungsrechtspflege[^2-1]. Muss die Gesamtheit oder müssen so viele Mitglieder und Ersatzmitglieder den Ausstand beobachten, dass die Anwaltskommission nicht besetzt werden kann, bezeichnet die Rekurskommission in Anwaltssachen eine ausserordentliche Anwaltskommission.
+<sup>4</sup> Für den Ausstand gilt § 7 des Gesetzes über die Verwaltungsrechtspflege (VRG)[^2-1]. Muss die Gesamtheit oder müssen so viele Mitglieder und Ersatzmitglieder den Ausstand beobachten, dass die Anwaltskommission nicht besetzt werden kann, bezeichnet die Rekurskommission in Anwaltssachen eine ausserordentliche Anwaltskommission.
 
 [^2-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
@@ -69,11 +72,11 @@ vom 13.06.2002 (Stand 01.01.2013)
 
 <sup>1</sup> Zur Anwaltsprüfung wird zugelassen, wer
 
-- 1\. aufgrund von juristischen Studien über ein Hochschuldiplom verfügt (Doktorat, Lizentiat oder Master oder gleichwertiges Diplom eines Staates, mit dem die Schweiz die gegenseitige Anerkennung vereinbart hat);
-- 2\. Praktika von mindestens 18 Monaten absolviert hat, davon mindestens sechs Monate bei einem thurgauischen Bezirksgericht und mindestens sechs Monate bei einem thurgauischen Anwaltsbüro. Anderweitige juristische Tätigkeit kann die Anwaltskommission ganz oder teilweise an das Praktikum anrechnen;
-- 3\. keine Verlustscheine aufweist;
-- 4\. keine strafrechtliche Verurteilung aufweist wegen Handlungen, die mit dem Anwaltsberuf nicht vereinbar sind und deren Eintrag noch nicht gelöscht wurde;
-- 5\. im Zeitpunkt der Anmeldung und mindestens 18 Monate vorher ununterbrochenen Wohnsitz im Kanton Thurgau oder anrechenbare Berufstätigkeit im Kanton Thurgau von gleicher Dauer hat;
+- 1\. aufgrund von juristischen Studien über ein Hochschuldiplom verfügt (Doktorat, Lizentiat oder Master oder gleichwertiges Diplom eines Staates, mit dem die Schweiz die gegenseitige Anerkennung vereinbart hat),
+- 2\. Praktika von mindestens 18 Monaten absolviert hat, davon mindestens sechs Monate bei einem thurgauischen Bezirksgericht und mindestens sechs Monate bei einem thurgauischen Anwaltsbüro. Anderweitige juristische Tätigkeit kann die Anwaltskommission ganz oder teilweise an das Praktikum anrechnen,
+- 3\. keine Verlustscheine aufweist,
+- 4\. keine strafrechtliche Verurteilung aufweist wegen Handlungen, die mit dem Anwaltsberuf nicht vereinbar sind und deren Eintrag noch nicht gelöscht wurde,
+- 5\. im Zeitpunkt der Anmeldung und mindestens 18 Monate vorher ununterbrochenen Wohnsitz im Kanton Thurgau oder anrechenbare Berufstätigkeit im Kanton Thurgau von gleicher Dauer hat und
 - 6\. eine schriftliche Erklärung abgibt, dass Behörden und Private gegenüber der Anwaltskommission zur Überprüfung der Zulassungsvoraussetzungen vom Amts- oder Berufsgeheimnis entbunden sind und entsprechende Akteneinsicht gewähren oder Auskunft erteilen können.
 
 <sup>2</sup> Dem Präsidium der Anwaltskommission sind mit der Anmeldung einzureichen: Lebenslauf, Kopie des Hochschuldiploms, Praktikumsbestätigungen, aktueller Betreibungsregister- und Strafregisterauszug, Wohnsitzbescheinigung sowie die schriftliche Erklärung gemäss Abs. 1 Ziff. 6.
@@ -84,31 +87,43 @@ vom 13.06.2002 (Stand 01.01.2013)
 
 #### § 5
 
-**Schriftliche Anwaltsprüfung**
+**Anwaltsprüfung**
 
-<sup>1</sup> Die schriftliche Prüfung findet an zwei aufeinander folgenden Werktagen statt und dauert je einen halben Tag.
+<sup>1</sup> Die Anwaltsprüfung besteht aus einem schriftlichen und einem mündlichen Prüfungsteil.
 
-<sup>2</sup> Wird die schriftliche Prüfung nicht bestanden, kann die Wiederholungsprüfung in der Regel frühestens nach sechs Monaten stattfinden.
+<sup>2</sup> Der schriftliche Prüfungsteil findet in der Regel an zwei aufeinander folgenden Werktagen statt und dauert je einen halben Tag.
+
+<sup>3</sup> Der mündliche Prüfungsteil findet in der Regel drei Wochen nach dem schriftlichen Prüfungsteil statt und ist öffentlich. Er dauert einen halben Tag.
 
 #### § 6
 
-**Mündliche Anwaltsprüfung**
-
-<sup>1</sup> Nach der schriftlichen Prüfung wird über die Zulassung zur mündlichen Prüfung entschieden.
-
-<sup>2</sup> Die mündliche Prüfung findet spätestens drei Wochen nach der schriftlichen Prüfung statt und ist öffentlich. Sie dauert einen halben Tag.
-
-<sup>3</sup> Wird die mündliche Prüfung nicht bestanden, kann die Wiederholungsprüfung in der Regel frühestens nach sechs Monaten stattfinden. Die Anwaltskommission bestimmt aufgrund des Prüfungsergebnisses, ob auch die schriftliche Prüfung zu wiederholen ist. Ist dies nicht der Fall, muss die mündliche Prüfung innerhalb von zwei Jahren abgelegt werden; wird die mündliche Prüfung alsdann wieder nicht bestanden, muss auch die schriftliche Prüfung wiederholt werden.
+**…**
 
 #### § 6a
 
 **Ergebnis der Prüfung**
 
-<sup>1</sup> Die Anwaltsprüfung wird als genügend oder ungenügend bewertet; eine Benotung erfolgt nicht.
+<sup>1</sup> Die Prüfungsteile werden entweder als bestanden oder nicht bestanden bewertet. Es gibt keine Benotung.
 
-<sup>2</sup> Wird ohne entschuldbaren Grund der festgelegte Prüfungstermin nicht angetreten, gilt die Prüfung als nicht bestanden.
+<sup>1<sup>bis</sup></sup> Die Anwaltsprüfung besteht, wer den schriftlichen und den mündlichen Prüfungsteil besteht.
 
-<sup>3</sup> Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die Prüfung nicht bestanden.
+<sup>1<sup>ter</sup></sup> Das Gesamtergebnis wird unmittelbar nach dem mündlichen Prüfungsteil mündlich eröffnet.
+
+<sup>2</sup> Wer ohne entschuldbaren Grund zu einem Prüfungsteil nicht erscheint, hat die Anwaltsprüfung nicht bestanden.
+
+<sup>3</sup> Wer ein Prüfungsergebnis verfälscht oder zu verfälschen versucht oder wer nicht erlaubte Hilfsmittel verwendet, hat die Anwaltsprüfung nicht bestanden.
+
+#### § 6b
+
+**Wiederholung einer Prüfung**
+
+<sup>1</sup> Nicht bestandene Prüfungsteile können in der Regel frühestens nach sechs Monaten wiederholt werden.
+
+<sup>2</sup> Wer nur einen Prüfungsteil wiederholen muss, muss dies innerhalb von zwei Jahren tun.
+
+<sup>3</sup> Wer diesen Prüfungsteil erneut nicht besteht, muss die gesamte Anwaltsprüfung wiederholen.
+
+<sup>4</sup> Als zurückgewiesen im Sinne von § 12 Abs. 3 AnwG gilt, wer einen oder beide Prüfungsteile wiederholen muss.
 
 #### § 7
 
@@ -204,7 +219,7 @@ vom 13.06.2002 (Stand 01.01.2013)
 
 <sup>1</sup> Beurkundet werden rechtserhebliche Tatsachen und Rechtsverhältnisse, an deren Belegung in einer öffentlichen Urkunde ein schutzwürdiges Interesse besteht und deren rechtliche Bedeutung von der Urkundsperson überblickt wird.
 
-<sup>2</sup> Für die Beurkundung und Beglaubigung gelten vorbehältlich des Bundesrechts und der nachfolgenden Bestimmungen die Vorschriften des Einführungsgesetzes zum Zivilgesetzbuch (EG ZGB)[^11e-1]. Die Bestimmungen der Verordnung des Regierungsrates über das Grundbuch- und Notariatswesen[^11e-2] finden sinngemäss Anwendung.
+<sup>2</sup> Für die Beurkundung und Beglaubigung gelten vorbehältlich des Bundesrechts und der nachfolgenden Bestimmungen die Vorschriften des Einführungsgesetzes zum Zivilgesetzbuch (EG ZGB)[^11e-1]. Die Bestimmungen der Verordnung über das Grundbuch- und Notariatswesen (GNV)[^11e-2] finden sinngemäss Anwendung.
 
 <sup>3</sup> Die Anwältinnen und Anwälte beachten bei Beurkundungen und Beglaubigungen die Berufsregeln, insbesondere bei der Frage einer allfälligen Interessenkollision.
 
@@ -225,14 +240,11 @@ vom 13.06.2002 (Stand 01.01.2013)
 
 <sup>2</sup> Bei der Unterschrift sowie über den Einband verwendet die Urkundsperson einen Rundstempel (Urkundsstempel). Der Stempel enthält in der Mitte das Kantonswappen und in der Umschrift den Text «Öffentliche Urkundsperson». Die Bezeichnung «Notarin» oder «Notar» oder entsprechende Übersetzungen im Stempel und bei der Unterschrift sind nicht gestattet.
 
-<sup>3</sup> Im Urkunds- oder Beglaubigungstext kann die Urkundsperson auf die ihr durch das kantonale Recht verliehene Beurkundungskompetenz und die massgebenden Bestimmungen des Einführungsgesetzes zum Zivilgesetzbuch[^11f-1] und des Anwaltsgesetzes[^11f-2] hinweisen. Bei für den Gebrauch in fremdsprachigen Regionen bestimmten Dokumenten darf im übersetzten Text darauf hingewiesen werden, dass der Urkundsperson nach kantonalem Recht notarielle Funktionen zukommen.
+<sup>3</sup> Im Urkunds- oder Beglaubigungstext kann die Urkundsperson auf die ihr durch das kantonale Recht verliehene Beurkundungskompetenz und die massgebenden Bestimmungen des Einführungsgesetzes zum Zivilgesetzbuch und des Anwaltsgesetzes hinweisen. Bei für den Gebrauch in fremdsprachigen Regionen bestimmten Dokumenten darf im übersetzten Text darauf hingewiesen werden, dass der Urkundsperson nach kantonalem Recht notarielle Funktionen zukommen.
 
 <sup>4</sup> Anstelle des Urkundsstempels können Prägestempel oder Kleb- und Papiersiegel verwendet werden. Diese haben in ihrer Form dem Urkundsstempel zu entsprechen. Prägesiegel sind nicht zulässig.
 
 <sup>5</sup> Für die Unterschrift dürfen keine Faksimile-Stempel verwendet werden.
-
-[^11f-1]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
-[^11f-2]: RB [176.1](https://www.rechtsbuch.tg.ch/data/176.1/de)
 
 #### § 11g
 
@@ -304,28 +316,12 @@ vom 13.06.2002 (Stand 01.01.2013)
 
 **Instruktion**
 
-<sup>1</sup> Die Leitung des Schriftenwechsels, die Einladung zu einer Anhörung und der Beizug von Akten gilt nicht als Instruktion im Sinn von § 20 Abs. 4 des Anwaltsgesetzes[^12c-1].
+<sup>1</sup> Die Leitung des Schriftenwechsels, die Einladung zu einer Anhörung und der Beizug von Akten gilt nicht als Instruktion im Sinn von § 20 Abs. 4 AnwG.
 
-[^12c-1]: RB [176.1](https://www.rechtsbuch.tg.ch/data/176.1/de)
+## 7.
 
-## 7. Übergangs- und Schlussbestimmungen
+#### § 13–14
 
-#### § 13
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Obergerichts über den Geschäftsgang der Anwaltskommission, die Anwaltsprüfung und das Anwaltspraktikum vom 12. November 1996 wird aufgehoben.
-
-#### § 13a
-
-**Übergangsrecht zum Anwaltsregister**
-
-<sup>1</sup> Die am 1. Januar 2013 im Anwaltsregister oder der EU/EFTA-Anwaltsliste eingetragenen Anwältinnen und Anwälte haben dem Präsidium der Anwaltskommission innert drei Monaten nach Inkrafttreten dieser Verordnung einen Versicherungsnachweis im Sinn von § 11b Abs. 3 einzureichen. Wird auch innert angemessener Nachfrist kein oder kein genügender Nachweis eingereicht, ordnet die Anwaltskommission die Löschung des Eintrags im Anwaltsregister oder in der EU/EFTA-Anwaltsliste an.
-
-#### § 14
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. August 2002 in Kraft.
+**…**
 
 keine Angabe
