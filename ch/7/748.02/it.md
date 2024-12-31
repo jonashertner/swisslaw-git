@@ -4,11 +4,11 @@ title: Ordinanza del 22 settembre 2023 sull’aviazione militare (OAMil)
 short: OAMil
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/560"
 language: it
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2023-09-22
 in_force: 2023-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/560/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2023-560-20231101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/560/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2023-560-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20231101/it"
 
 (OAMil)
 
-del 22 settembre 2023 (Stato 1° novembre 2023)
+del 22 settembre 2023 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -111,7 +111,7 @@ Coordinano in particolare:
 
 <sup>3</sup> Gli alianti da pendio, i paracadute e gli aeromobili senza occupanti di peso inferiore a 25 kg non sono registrati nella matricola degli aeromobili militari.
 
-#### Art. 9a 15
+#### Art. 9 a 15
 
 [^915-1]
 
@@ -206,7 +206,7 @@ Il personale dell’aviazione militare comprende le categorie seguenti:
 - c. controllori del traffico aereo;
 - d. altro personale aeronautico.
 
-#### Art. 23a 28
+#### Art. 23 a 28
 
 [^2328-1]
 
@@ -379,9 +379,11 @@ La MAA istituisce un sistema di segnalazione di eventi per i quali non è previs
 
 #### Art. 40
 
-**Scopo e oggetto dell’inchiesta sulla sicurezza**
+**Scopo e oggetto dell’inchiesta sulla sicurezza**[^40-1]
 
-Per ogni infortunio e incidente grave nel settore dell’aviazione militare è aperta un’inchiesta sulla sicurezza. Questa comprende le circostanze tecniche, operative, umane, organizzative e sistemiche che hanno portato all’infortunio o all’incidente grave.
+Per ogni infortunio e incidente grave nel settore dell’aviazione militare è aperta un’inchiesta sulla sicurezza. Questa serve a prevenire ulteriori eventi imprevisti e comprende le circostanze tecniche, operative, umane, organizzative e sistemiche che hanno portato all’infortunio o all’incidente grave.
+
+[^40-1]: Nuovo testo giusta l’all. n. 2 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 41
 
@@ -393,11 +395,13 @@ Il *Defense Aviation Safety Investigation Board* (DASIB) è l’organo responsab
 
 **Coordinamento con altre autorità**
 
-<sup>1</sup> L’inchiesta è svolta indipendentemente da un procedimento delle autorità penali militari o civili oppure da un procedimento amministrativo.
+<sup>1</sup> L’inchiesta sulla sicurezza è svolta indipendentemente da un procedimento delle autorità penali militari o civili oppure da un procedimento amministrativo.[^42-1]
 
 <sup>2</sup> Il DASIB e le autorità di perseguimento penale nonché le autorità amministrative coordinano le loro attività.
 
 <sup>3</sup> Se in un evento imprevisto sono coinvolti sia aeromobili civili che militari, il DASIB e il Servizio d’inchiesta svizzero sulla sicurezza coordinano le loro attività.
+
+[^42-1]: Nuovo testo giusta l’all. n. 2 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 43
 
@@ -411,30 +415,41 @@ Le informazioni fornite da una persona nell’ambito di un’inchiesta sulla sic
 
 Il DASIB ha i seguenti compiti:
 
-- a. svolge inchieste concernenti infortuni e incidenti gravi nell’aviazione militare;
-- b. può esaminare altri eventi imprevisti se vi è motivo di presumere che l’inchiesta può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti;
+- a.[^44-1] svolge inchieste concernenti infortuni e incidenti gravi in cui sono rimasti coinvolti aeromobili militari, a condizione che l’inchiesta sulla sicurezza serva a prevenire ulteriori eventi imprevisti;
+- b.[^44-2] può esaminare altri eventi imprevisti se vi è motivo di presumere che l’inchiesta sulla sicurezza può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti;
 - c. definisce gli obiettivi e i punti centrali delle sue attività;
 - d. assicura un sistema di garanzia della qualità efficace.
 
+[^44-1]: Nuovo testo giusta l’all. n. 2 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^44-2]: Nuovo testo giusta l’all. n. 2 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 45
 
-**Operazioni d’inchiesta**
+**Operazioni d’inchiesta**[^45-1]
 
-<sup>1</sup> Il DASIB procede a tutte le operazioni d’inchiesta necessarie. Può rinunciarvi se comportano costi eccessivi rispetto ai risultati attesi.
+<sup>1</sup> Il DASIB avvia un’inchiesta preliminare. Attraverso l’inchiesta preliminare si chiarisce se un’inchiesta sulla sicurezza può servire a prevenire ulteriori eventi imprevisti.
 
-<sup>2</sup> Può incaricare periti esterni della trattazione di questioni tecniche particolari.
+<sup>2</sup> Se viene aperta un’inchiesta sulla sicurezza, il DASIB procede a tutte le operazioni d’inchiesta necessarie. Può rinunciarvi se comportano costi eccessivi rispetto ai risultati attesi.
 
-<sup>3</sup> Può esigere dalle imprese coinvolte o dagli organi della sicurezza aerea registrazioni elettroniche in una forma leggibile senza particolari difficoltà tecniche.
+<sup>3</sup> Può incaricare periti esterni della trattazione di questioni tecniche particolari.
 
-<sup>4</sup> Può chiudere un’inchiesta, se dalle prime operazioni d’inchiesta risulta che il suo proseguimento non apporterebbe elementi utili.
+<sup>4</sup> Può esigere dalle imprese coinvolte o dagli organi della sicurezza aerea registrazioni elettroniche in una forma leggibile senza particolari difficoltà tecniche.
+
+<sup>5</sup> Se nel corso dell’inchiesta sulla sicurezza il DASIB constata che tale inchiesta non permette di prevenire ulteriori eventi imprevisti, la sospende. Definisce le ragioni di tale decisione e le rende pubbliche.
+
+[^45-1]: Nuovo testo giusta l’all. n. 2 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 46
 
-**Rapporto d’inchiesta**
+**Rapporto d’inchiesta**[^46-1]
 
-<sup>1</sup> Il DASIB riassume i risultati dell’inchiesta in un rapporto finale. Se sono state riscontrate lacune nella sicurezza il rapporto finale contiene le corrispondenti raccomandazioni di sicurezza.
+<sup>1</sup> Se viene aperta un’inchiesta sulla sicurezza, il DASIB stende un rapporto preliminare.
 
-<sup>2</sup> Può concludere inchieste secondo l’articolo 45 capoverso 4 con un rapporto sommario, che fornisce informazioni sulla dinamica dell’evento imprevisto, su eventuali ulteriori accertamenti e conclusioni.
+<sup>2</sup> Prima della chiusura dell’inchiesta sulla sicurezza il DASIB può comunicare ai servizi responsabili della vigilanza e alle persone direttamente interessate i risultati dell’inchiesta che sono rilevanti ai fini della prevenzione di eventi imprevisti e che potrebbero richiedere misure immediate.
+
+<sup>3</sup> Dopo la chiusura dell’inchiesta sulla sicurezza il DASIB riassume in un rapporto finale i risultati ottenuti. Se sono stati riscontrati deficit di sicurezza, il rapporto finale contiene le corrispondenti raccomandazioni di sicurezza. Nel rapporto finale il DASIB può rivolgere avvisi di sicurezza alle imprese e alle organizzazioni interessate.
+
+[^46-1]: Nuovo testo giusta l’all. n. 2 dell’O del 13 set. 2024, in vigore il 1° gen. 2025 ([RU 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 47
 
@@ -474,6 +489,6 @@ Allegato
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono esere consultate alla [RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560).

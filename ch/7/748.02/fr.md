@@ -4,11 +4,11 @@ title: Ordonnance du 22 septembre 2023 sur l’aviation militaire (OAMil)
 short: OAMil
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/560"
 language: fr
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2023-09-22
 in_force: 2023-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/560/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-560-20231101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/560/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-560-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20231101/fr"
 
 (OAMil)
 
-du 22 septembre 2023 (État le 1<sup>er</sup> novembre 2023)
+du 22 septembre 2023 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -67,7 +67,7 @@ Dans la présente ordonnance, on entend par:
 
 - a. *systèmes aéronautiques militaires:* les aéronefs militaires avec ou sans équipage, les équipements du service militaire de vol et de saut en parachute ainsi que les autres composants d’aéronefs militaires qui ont, ou peuvent avoir, une incidence sur la navigabilité de l’aéronef;
 - b. *navigabilité:* la capacité d’un aéronef militaire d’opérer comme prévu, en vol et au sol, sans risque excessif pour l’équipage, le personnel au sol, les passagers ou des tiers;
-- c. *systèmes d**’**appui aux missions:* les appareils électroniques destinés à la planification et à l’évaluation détaillées de la mission.
+- c. *systèmes d’appui aux missions:* les appareils électroniques destinés à la planification et à l’évaluation détaillées de la mission.
 
 #### Art. 5
 
@@ -379,9 +379,11 @@ La MAA met en place un processus permettant de rendre compte d’événements no
 
 #### Art. 40
 
-**But et objet de l’enquête de sécurité**
+**But et objet de l’enquête de sécurité**[^40-1]
 
-Une enquête de sécurité est ouverte en cas d’accident ou d’incident grave dans le domaine de l’aviation militaire. Elle porte sur les circonstances techniques, opérationnelles, humaines, organisationnelles et systémiques qui ont conduit à l’accident ou à l’incident grave.
+Une enquête de sécurité est ouverte en cas d’accident ou d’incident grave dans le domaine de l’aviation militaire. Elle a pour but de prévenir de nouveaux incidents et porte sur les circonstances techniques, opérationnelles, humaines, organisationnelles et systémiques qui ont conduit à l’accident ou à l’incident grave.
+
+[^40-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 41
 
@@ -393,11 +395,13 @@ La Commission d’enquête de sécurité de l’aviation de défense (*Defence A
 
 **Coordination avec les autres autorités**
 
-<sup>1</sup> L’enquête est menée indépendamment d’une procédure des autorités pénales militaires ou civiles ou d’une procédure administrative.
+<sup>1</sup> L’enquête de sécurité est menée indépendamment d’une procédure des autorités pénales militaires ou civiles ou d’une procédure administrative.[^42-1]
 
 <sup>2</sup> La DASIB et les autorités pénales et administratives coordonnent leurs activités.
 
 <sup>3</sup> Si des aéronefs tant civils que militaires sont impliqués dans un accident ou un incident grave, la DASIB et le Service suisse d’enquête de sécurité coordonnent leurs activités.
+
+[^42-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 43
 
@@ -411,30 +415,41 @@ Les renseignements fournis par une personne dans le cadre d’une enquête de s�
 
 La DASIB assume les tâches suivantes:
 
-- a. elle enquête sur les accidents et les incidents graves dans l’aviation militaire;
-- b. elle peut enquêter sur d’autres incidents si elle estime qu’une enquête peut contribuer de manière essentielle à la prévention de nouveaux incidents;
+- a.[^44-1] elle mène des enquêtes de sécurité sur les accidents et les incidents graves dans l’aviation militaire, dans la mesure où cela permet de prévenir de nouveaux incidents;
+- b.[^44-2] elle peut enquêter sur d’autres incidents si elle estime qu’une enquête de sécurité peut contribuer de manière essentielle à la prévention de nouveaux incidents;
 - c. elle fixe les priorités et les objectifs de ses activités;
 - d. elle veille à l’efficacité du système d’assurance de la qualité.
 
+[^44-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^44-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 45
 
-**Mesures d’enquête**
+**Mesures d’enquête**[^45-1]
 
-<sup>1</sup> La DASIB prend les mesures d’enquête nécessaires. Elle peut y renoncer si celles-ci devaient entraîner des coûts disproportionnés.
+<sup>1</sup> La DASIB ouvre une enquête préliminaire. Cette dernière permet de déterminer si l’enquête servirait à prévenir de nouveaux incidents.
 
-<sup>2</sup> Elle peut charger des experts externes de traiter des questions techniques spécifiques.
+<sup>2</sup> Si elle ouvre une enquête, la DASIB prend les mesures d’enquête nécessaires. Elle peut y renoncer si celles-ci devaient entraîner des coûts disproportionnés.
 
-<sup>3</sup> Elle peut exiger des entreprises impliquées dans l’accident ou l’incident grave, ou des services de la navigation aérienne, des enregistrements électroniques dans un format lisible sans technique particulière.
+<sup>3</sup> Elle peut charger des experts externes de traiter des questions techniques spécifiques.
 
-<sup>4</sup> Elle peut clore l’enquête si les premières mesures d’enquête font apparaître que d’autres investigations n’apporteraient aucun élément utile.
+<sup>4</sup> Elle peut exiger des entreprises impliquées dans l’accident ou l’incident grave, ou des services de la navigation aérienne, des enregistrements électroniques dans un format lisible sans technique particulière.
+
+<sup>5</sup> Si, au cours de l’enquête de sécurité, la DASIB constate que celle-ci ne permet pas de prévenir de nouveaux incidents, elle la clôt. Elle en consigne les raisons et les publie.
+
+[^45-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 46
 
-**Rapport d’enquête**
+**Rapport d’enquête**[^46-1]
 
-<sup>1</sup> La DASIB résume les résultats de l’enquête dans un rapport final. Si elle constate des manquements à la sécurité, elle y formule des recommandations en matière de sécurité.
+<sup>1</sup> Si elle ouvre une enquête, la DASIB établit un rapport de première information.
 
-<sup>2</sup> Elle peut clore l’enquête en vertu de l’art. 45, al. 4, par un rapport sommaire qui renseigne sur le déroulement de l’incident, sur les investigations complémentaires qui ont pu être menées et sur les conclusions.
+<sup>2</sup> Elle peut, avant de clore l’enquête de sécurité, communiquer les résultats essentiels pour la prévention des incidents et qui nécessiteraient des mesures immédiates, aux services chargés de la surveillance ainsi qu’aux personnes directement concernées.
+
+<sup>3</sup> Après la clôture de l’enquête de sécurité, elle résume les résultats de l’enquête dans un rapport final. Si elle constate des déficits de sécurité, elle y formule des recommandations correspondantes en matière de sécurité. Dans les rapports finaux, la DASIB peut adresser des avis de sécurité aux entreprises et organisations du mode de transport concerné.
+
+[^46-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 47
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 22. September 2023 über die Militärluftfahrt (Militärl
 short: MLFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/560"
 language: de
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2023-09-22
 in_force: 2023-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/560/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2023-560-20231101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/560/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2023-560-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/560/20231101/de"
 
 (Militärluftfahrtverordnung, MLFV)
 
-vom 22. September 2023
-
-(Stand am 1. November 2023)
+vom 22. September 2023 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -381,9 +379,11 @@ Die MAA richtet ein Meldesystem für Meldungen von Ereignissen ein, für die kei
 
 #### Art. 40
 
-**Zweck und Gegenstand der Sicherheitsuntersuchung**
+**Zweck und Gegenstand der Sicherheitsuntersuchung**[^40-1]
 
-Bei Unfällen und schweren Vorfällen in der Militärluftfahrt wird eine Sicherheitsuntersuchung durchgeführt. Diese umfasst die technischen, betrieblichen, menschlichen, organisatorischen und systemischen Umstände, die zum Unfall oder schweren Vorfall geführt haben.
+Bei Unfällen und schweren Vorfällen in der Militärluftfahrt wird eine Sicherheitsuntersuchung durchgeführt. Diese dient der Verhütung von weiteren Zwischenfällen und umfasst die technischen, betrieblichen, menschlichen, organisatorischen und systemischen Umstände, die zum Unfall oder schweren Vorfall geführt haben.
+
+[^40-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 41
 
@@ -395,11 +395,13 @@ Die zuständige Stelle für die Sicherheitsuntersuchung von Unfällen und schwer
 
 **Koordination mit anderen Behörden**
 
-<sup>1</sup> Die Untersuchung erfolgt unabhängig von einem Verfahren der militärischen oder zivilen Strafbehörden oder einem Administrativverfahren.
+<sup>1</sup> Die Sicherheitsuntersuchung erfolgt unabhängig von einem Verfahren der militärischen oder zivilen Strafbehörden oder einem Administrativverfahren.[^42-1]
 
 <sup>2</sup> Das DASIB und die Strafverfolgungs- sowie die Administrativbehörden koordinieren ihre Tätigkeiten.
 
 <sup>3</sup> Sind sowohl zivile als auch militärische Luftfahrzeuge an einem Zwischenfall beteiligt, so koordinieren das DASIB und die Schweizerische Sicherheitsuntersuchungsstelle ihre Tätigkeiten.
+
+[^42-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 43
 
@@ -413,30 +415,41 @@ Die von einer Person im Rahmen einer Sicherheitsuntersuchung erteilten Auskünft
 
 Das DASIB hat folgende Aufgaben:
 
-- a. es untersucht Unfälle und schwere Vorfälle in der Militärluftfahrt;
-- b. es kann andere Zwischenfälle untersuchen, wenn zu vermuten ist, dass eine Untersuchung wichtige Erkenntnisse zur Verhütung von weiteren Zwischenfällen bringen kann;
+- a.[^44-1] es untersucht Unfälle und schwere Vorfälle von Militärluftfahrzeugen, sofern die Sicherheitsuntersuchung der Verhütung von weiteren Zwischenfällen dienen kann;
+- b.[^44-2] es kann andere Zwischenfälle untersuchen, wenn zu vermuten ist, dass eine Sicherheitsuntersuchung wichtige Erkenntnisse zur Verhütung von weiteren Zwischenfällen bringen kann;
 - c. es bestimmt die Ziele und Schwerpunkte seiner Tätigkeiten;
 - d. es sorgt für ein wirksames Qualitätssicherungssystem.
 
+[^44-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+[^44-2]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
+
 #### Art. 45
 
-**Untersuchungshandlungen**
+**Untersuchungshandlungen**[^45-1]
 
-<sup>1</sup> Das DASIB nimmt die notwendigen Untersuchungshandlungen vor. Es kann darauf verzichten, wenn diese unverhältnismässig hohe Kosten verursachen würden.
+<sup>1</sup> Das DASIB leitet eine Voruntersuchung ein. Mit der Voruntersuchung wird abgeklärt, ob eine Untersuchung der Verhütung von weiteren Zwischenfällen dienen kann.
 
-<sup>2</sup> Es kann externe Sachverständige mit der Bearbeitung von besonderen Fachfragen beauftragen.
+<sup>2</sup> Wird eine Sicherheitsuntersuchung eröffnet, nimmt das DASIB die notwendigen Untersuchungshandlungen vor. Es kann darauf verzichten, wenn diese unverhältnismässig hohe Kosten verursachen würden.
 
-<sup>3</sup> Es kann von den am Vorfall beteiligten Unternehmen oder den Organen der Flugsicherung elektronische Aufzeichnungen in einer Form verlangen, in der sie ohne besonderen technischen Aufwand lesbar sind.
+<sup>3</sup> Es kann externe Sachverständige mit der Bearbeitung von besonderen Fachfragen beauftragen.
 
-<sup>4</sup> Es kann eine Untersuchung abschliessen, wenn aufgrund der ersten Untersuchungshandlungen feststeht, dass weitere Untersuchungshandlungen keine zweckdienlichen Erkenntnisse erbringen.
+<sup>4</sup> Es kann von den am Vorfall beteiligten Unternehmen oder den Organen der Flugsicherung elektronische Aufzeichnungen in einer Form verlangen, in der sie ohne besonderen technischen Aufwand lesbar sind.
+
+<sup>5</sup> Stellt das DASIB während der Sicherheitsuntersuchung fest, dass mit dieser keine weiteren Zwischenfälle verhütet werden können, stellt es sie ein. Es hält die Gründe dafür fest und publiziert diese.
+
+[^45-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 46
 
-**Untersuchungsbericht**
+**Untersuchungsbericht**[^46-1]
 
-<sup>1</sup> Das DASIB fasst die Ergebnisse der Untersuchung in einem Schlussbericht zusammen. Wurden Sicherheitsmängel festgestellt, so enthält der Schlussbericht entsprechende Sicherheitsempfehlungen.
+<sup>1</sup> Wird eine Sicherheitsuntersuchung eröffnet, erstattet das DASIB einen Vorbericht.
 
-<sup>2</sup> Es kann Untersuchungen nach Artikel 45 Absatz 4 mit einem summarischen Bericht abschliessen, welcher Auskunft über den Hergang des Zwischenfalls, allfällige weitere Abklärungen und Schlussfolgerungen gibt.
+<sup>2</sup> Das DASIB kann vor Abschluss der Sicherheitsuntersuchung wesentliche Untersuchungsergebnisse, die für die Verhütung von Zwischenfällen von Bedeutung sind und Sofortmassnahmen erfordern könnten, den für die Aufsicht zuständigen Stellen sowie den direkt Betroffenen kommunizieren.
+
+<sup>3</sup> Das DASIB fasst nach Abschluss der Sicherheitsuntersuchung die Untersuchungsergebnisse in einem Abschlussbericht zusammen. Wurden Sicherheitsdefizite festgestellt, so enthält der Abschlussbericht entsprechende Sicherheitsempfehlungen. Das DASIB kann in den Abschlussberichten Sicherheitshinweise an die betroffenen Unternehmen und Organisationen richten.
+
+[^46-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 511](https://fedlex.data.admin.ch/eli/oc/2024/511)).
 
 #### Art. 47
 
