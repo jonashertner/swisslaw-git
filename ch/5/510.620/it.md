@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geoinformazione (OGI)
 short: OGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: it
-version: 2024-02-01
+version: 2025-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20240201-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20240201/it"
 
 (OGI)
 
-del 21 maggio 2008 (Stato 1° febbraio 2024)
+del 21 maggio 2008 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -66,8 +66,8 @@ Ai sensi della presente ordinanza si intende per:
 - k.[^2-1] *servizio di trasformazione**:* servizio in Internet per la trasformazione di raccolte di geodati;
 - l.[^2-2] *dati pubblici aperti:* geodati di base che sono liberamente accessibili e per i quali non sono riscossi emolumenti per l’accesso e l’utilizzazione.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
-[^2-2]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^2-2]: Introdotta dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 3
 
@@ -83,7 +83,7 @@ Ai sensi della presente ordinanza si intende per:
 
 Se le raccolte di geodati di base secondo l’allegato 1 costituiscono dati personali ai sensi della legislazione sulla protezione dei dati, il trattamento di tali dati non è assoggettato all’obbligo di tenere un elenco delle attività di trattamento.
 
-[^3a-1]: Introdotto dall’all. 2 n. II 62 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3a-1]: Introdotto dall’all. 2 cifra II 62 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 2: Sistemi di riferimento geodetici e quadri di riferimento geodetici
 
@@ -386,7 +386,7 @@ All’utilizzazione per uso privato si applicano per analogia le pertinenti disp
 
 <sup>4</sup> Per impedire un’utilizzazione eccessiva, inadeguata e abusiva il servizio competente può sorvegliare il libero accesso mediante strumenti adeguati, compresa la registrazione di indirizzi IP.
 
-[^28a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 29
 
@@ -463,7 +463,7 @@ L’Ufficio federale di topografia gestisce i seguenti geoservizi intersettorial
 - e. accesso interconnesso ai geodati di base;
 - f.[^36-1] servizi degli indirizzi.
 
-[^36-1]: Introdotta dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^36-1]: Introdotta dall’all. 2 cifra II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 ## Sezione 10: Scambio di dati tra autorità
 
@@ -530,7 +530,7 @@ L’indennità forfettaria è stabilita in considerazione dei seguenti elementi:
 
 <sup>2</sup> Esso è gratuito, sempre che il diritto internazionale non preveda un’indennità.
 
-[^42a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^42a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 
 ## Sezione 11: Principi su cui si fonda la riscossione dell’emolumento da parte della Confederazione
 
@@ -542,8 +542,8 @@ L’indennità forfettaria è stabilita in considerazione dei seguenti elementi:
 
 <sup>2</sup> La presente sezione non si applica allo scambio tra autorità né all’utilizzazione da parte di autorità nel quadro del rispettivo mandato legale se sussiste un disciplinamento contrattuale ai sensi dell’articolo 14 capoverso 3 LGI. È fatto salvo l’articolo 41.[^43-2]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)).
 
 #### Art. 43a
 
@@ -551,7 +551,7 @@ L’indennità forfettaria è stabilita in considerazione dei seguenti elementi:
 
 Nella misura in cui la presente ordinanza non preveda disciplinamenti speciali, sono applicabili le disposizioni dell’ordinanza generale dell’8 settembre 2004[^43a-2] sugli emolumenti.
 
-[^43a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^43a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 [^43a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 44
@@ -582,7 +582,7 @@ Sono riscossi emolumenti per:
 
 <sup>5</sup> I costi di approntamento e i costi di trasporto possono essere fatturati in aggiunta agli emolumenti di cui ai capoversi 3 e 4.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 44a
 
@@ -597,7 +597,7 @@ Per l’approntamento sono inoltre riscossi i seguenti emolumenti:
 - a. supporto di dati: prezzo di fabbricazione per unità;
 - b. imballaggio e spedizione: 0–25 franchi per unità di spedizione.
 
-[^44a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^44a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45
 
@@ -605,13 +605,13 @@ Per l’approntamento sono inoltre riscossi i seguenti emolumenti:
 
 L’imposta sul valore aggiunto è riscossa, in aggiunta agli emolumenti, per le prestazioni ufficiali che vi sono soggette.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45a–45e
 
 [^45a45e-1]
 
-[^45a45e-1]: Introdotti dal n. I dell’O del 18 nov. 2009 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Abrogati dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^45a45e-1]: Introdotti dalla cifra I dell’O del 18 nov. 2009 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Abrogati dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45f
 
@@ -621,7 +621,7 @@ L’imposta sul valore aggiunto è riscossa, in aggiunta agli emolumenti, per le
 
 <sup>2</sup> Se, per ragioni tecniche o su richiesta della persona che effettua l’ordinazione, il trasporto ha luogo da parte di altri fornitori di servizi di trasporto, sono fatturati i costi di trasporto effettivi.
 
-[^45f-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^45f-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 
 #### Art. 46
 
@@ -644,11 +644,11 @@ Sono riscossi emolumenti forfettari per:
 
 <sup>3</sup> … [^46-5]
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-[^46-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
-[^46-3]: Abrogate dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
-[^46-4]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
-[^46-5]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-3]: Abrogate dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-4]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-5]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 46a
 
@@ -663,13 +663,13 @@ Nelle tariffe degli emolumenti, esso può prevedere eccezioni alla riscossione d
 - a. ciò è nell’interesse della Confederazione;
 - b. l’utilizzazione avviene a scopi di formazione e di ricerca.
 
-[^46a-1]: Introdotto dal n. I dell’O del 18 nov. 2009 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^47-1]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 ## Sezione 12: Coordinamento e partecipazione
 
@@ -762,7 +762,7 @@ Per il passaggio del sistema e del quadro di riferimento planimetrici da CH1903/
 
 <sup>2</sup> I rimanenti contratti esistenti al momento dell’entrata in vigore della presente modifica e concernenti l’utilizzazione di geodati di base, l’utilizzazione di geoservizi e i pertinenti emolumenti da versare sono efficaci sino alla fine della durata convenuta, al più tardi tuttavia sino al 31 dicembre 2014.
 
-[^53a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^53a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 
 #### Art. 54
 
@@ -776,7 +776,7 @@ Allegato 1[^t-1]
 
 ## Catalogo dei geodati di base del diritto federale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dal n. II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)), dal n. II dell’O del 2 nov. 2022 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)), dall’all. n. 6 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)), dal n. I dell’O del 29 nov. 2023 ([RU 2023 761](https://fedlex.data.admin.ch/eli/oc/2023/761)) e dal n. II dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal cifra II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. cifra II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), la cifra III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. cifra II n. 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 cifra II n. 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dalla cifra II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dalla cifra I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), la cifra III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dalla cifra I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dalla cifra I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dalla cifra II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)), dalla cifra II dell’O del 2 nov. 2022 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)), dall’all. n. 6 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)), dalla cifra I dell’O del 29 nov. 2023 ([RU 2023 761](https://fedlex.data.admin.ch/eli/oc/2023/761)), dalla cifra II dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)) e dall’all. n. 2 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 <table>
 <tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto delle restrizioni di diritto pubblico della proprietà</th><th>Livello di autorizzazione all’accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>
@@ -977,6 +977,7 @@ Allegato 1[^t-1]
 <tr><td>Misurazione ufficiale</td><td>RS *211.432.2* art. 6</td><td>Cantoni [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>228</td></tr>
 <tr><td>Progetti di grandi impianti fotovoltaici di cui all’articolo 71*a* LEne</td><td>RS *730.01* art. 9*h*</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>229</td></tr>
 <tr><td>Progetti di impianti eolici di cui all’articolo 71*c* LEne</td><td>RS *730.01* art. 9*k*</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>230</td></tr>
+<tr><td>Impianti di produzione di combustibili e carburanti rinnovabili nonché idrogeno</td><td>RS *730.01* art. 69*b* RS 730.010.2 art. 4</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>231</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2024.
