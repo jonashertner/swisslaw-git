@@ -4,13 +4,13 @@ number: 25a
 title: Verordnung zum Registergesetz
 short: Registerverordnung
 language: de
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-28
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-19
 adopted: 2009-11-27
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/25a"
-pdf: "https://srl.lu.ch/api/de/versions/4274/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4274/pdf_file"
 
 (Registerverordnung)
 
-vom 27.11.2009 (Stand 01.04.2024)
+vom 27.11.2009 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
