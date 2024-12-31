@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: Internationales Übereinkommen vom 1. November 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 128
 
 Abgeschlossen in London am 1. November 1974 Von der Bundesversammlung genehmigt am 9. Juni 1981[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Oktober 1981 In Kraft getreten für die Schweiz am 1. Januar 1982
 
-(Stand am 1. Juli 2024)
+(Stand am 1. Januar 2025)
 
 [^t-1]: [AS 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -84,11 +84,11 @@ c) Hat eine Vertragsregierung eine solche Erlaubnis erteilt, so teilt sie dies d
 
 a) Das am 17. Juni 1960 in London unterzeichnete Internationale Übereinkommen zum Schutz des menschlichen Lebens auf See wird durch dieses Übereinkommen zwischen den Vertragsregierungen abgelöst und aufgehoben.
 
-b) Alle anderen Verträge, Übereinkommen und Vereinbarungen über den Schutz des menschlichen Lebens auf See oder damit zusammenhängende Fragen, die gegenwärtig zwischen den Vertragsregierungen des vorliegenden Übereinkommens in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam für
-
 c) Soweit jedoch solche Verträge, Übereinkommen oder Vereinbarungen zu den Vorschriften dieses Übereinkommens im Widerspruch stehen, sind die letzteren massgebend.
 
 d) Alle Angelegenheiten, die in diesem Übereinkommen nicht ausdrücklich geregelt sind, bleiben der Gesetzgebung der Vertragsregierungen vorbehalten.
+
+b) Alle anderen Verträge, Übereinkommen und Vereinbarungen über den Schutz des menschlichen Lebens auf See oder damit zusammenhängende Fragen, die gegenwärtig zwischen den Vertragsregierungen des vorliegenden Übereinkommens in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam für:
 
 - i) Schiffe, auf die dieses Übereinkommen nicht anwendbar ist;
 - ii) Schiffe, auf die dieses Übereinkommen anwendbar ist, soweit es sich um Angelegenheiten handelt, die nicht ausdrücklich in diesem Übereinkommen geregelt sind.
@@ -140,11 +140,11 @@ c) Änderung durch eine Konferenz:
 
 **Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
 
-a) Dieses Übereinkommen liegt vom 1. November 1974 bis zum 1. Juli 1975 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien dieses Übereinkommens werden,
-
 b) Die Ratifikation, die Annahme, die Genehmigung oder der Beitritt erfolgt durch Hinterlegung einer entsprechenden Urkunde beim Generalsekretär der Organisation.
 
 c) Der Generalsekretär der Organisation unterrichtet die Regierungen aller Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, von jeder Unterzeichnung oder von jeder Hinterlegung einer Ratifikations-, Annahme‑, Genehmigungs- oder Beitrittsurkunde und vom Tag dieser Hinterlegung.
+
+a) Dieses Übereinkommen liegt vom 1. November 1974 bis zum 1. Juli 1975 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien dieses Übereinkommens werden:
 
 - i) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen;
 - ii) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen oder

@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convention internationale du 1<sup>er</sup> novembre 1974 pour la sauvegarde de la vie humaine en mer"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20250101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 1<sup>er</sup> novembre 1974 Approuvée par l’Assemblée fédérale le 9 juin 1981[^t-1] Instrument de ratification déposé par la Suisse le 1<sup>er</sup> octobre 1981 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1982
 
-(État le 1<sup>er</sup> juillet 2024)
+(État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: [RO 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 

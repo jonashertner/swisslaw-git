@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convenzione internazionale del 1<sup>o</sup> novembre 1974 per la salvaguardia della vita umana in mare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20250101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Londra il 1<sup>o</sup> novembre 1974 Approvata dall’Assemblea federale il 9 giugno 1981[^t-1] Ratificata con strumenti scambiati dalla Svizzera il 1<sup>o</sup> ottobre 1981 Entrata in vigore per la Svizzera il 1<sup>o</sup> gennaio 1982
 
-(Stato 1° luglio 2024)
+(Stato 1° gennaio 2025)
 
 [^t-1]: [RU 1982 125](https://fedlex.data.admin.ch/eli/oc/1982/125_125_125)
 
@@ -105,8 +105,6 @@ Quando, in conformità alla presente Convenzione, vengono stabilite regole speci
 
 a) La presente Convenzione può essere modificata da una delle procedure specificate nei seguenti paragrafi;
 
-b) modifiche in seguito ad esame da parte dell’Organizzazione;
-
 c) modifica con convocazione di una Conferenza;
 
 e) Salva disposizione espressa contraria, qualsiasi modifica alla presente Convenzione fatta in applicazione del presente articolo e che si riferisce alla struttura della nave è applicabile solo alle navi la cui chiglia è stata impostata o che si trovano in equivalente stato di avanzamento al momento dell’entrata in vigore di detta modifica, o dopo tale data.
@@ -115,13 +113,18 @@ f) Le dichiarazioni di accettazione o di obiezione relative ad una modifica o le
 
 g) Il Segretario Generale dell’Organizzazione informerà tutti i Governi contraenti delle modifiche che entreranno in vigore in virtù del presente articolo nonché della data della loro entrata in vigore.
 
+b) modifiche in seguito ad esame da parte dell’Organizzazione:
+
 - i) qualunque modifica proposta da un Governo contraente viene sottoposta al Segretario Generale dell’Organizzazione che la comunica a tutti i Membri dell’Organizzazione e a tutti i Governi contraenti, almeno sei mesi prima che essa venga esaminata;
 - ii) qualunque modifica proposta e comunicata secondo la precedente procedura viene sottoposta all’esame del Comitato della sicurezza marittima dell’Organizzazione;
 - iii) i Governi contraenti degli Stati membri o non membri dell’Organizzazione, sono autorizzati a partecipare alle deliberazioni del Comitato della Sicurezza marittima per l’esame e l’accettazione delle modifiche;
 - iv) le modifiche vengono adottate alla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della sicurezza marittima allargato conformemente al comma iii) del presente paragrafo (qui di seguito chiamato «Comitato della sicurezza marittima allargato») a condizione che almeno un terzo dei Governi contraenti sia presente al momento della votazione;
 - v) se le modifiche vengono adottate conformemente al comma iv) del presente paragrafo, esse vengono comunicate dal Segretario Generale dell’Organizzazione a tutti i Governi contraenti per l’accettazione;
 - vi) 1) una modifica ad un articolo della Convenzione o al capitolo I del suo Allegato è considerata adottata quando viene accettata dai due terzi dei Governi contraenti;
-  - 2) una modifica all’Allegato, fatta eccezione per il capitolo I, viene considerata accettata;
+  - 2)
+
+    una modifica all’Allegato, fatta eccezione per il capitolo I, viene considerata accettata:
+
     - aa) alla scadenza di un periodo di due anni dalla data in cui viene comunicata ai Governi contraenti per l’accettazione; o
     - bb) alla scadenza di qualsiasi altro periodo, che non potrà tuttavia essere inferiore ad un anno, se viene così stabilito al momento della sua accettazione dalla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della Sicurezza marittima allargato.
 
