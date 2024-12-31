@@ -1,0 +1,224 @@
+---
+canton: GE
+number: J 4 20.01
+title: Règlement d’application de la loi sur les prestations fédérales complémentaires à l’assurance-vieillesse et survivants et à l’assurance-invalidité (RPFC)
+short: RPFC
+language: fr
+version: 2025-01-01
+adopted: 1998-12-23
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_j4_20p01.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement d’application de la loi sur les prestations fédérales complémentaires à l’assurance-vieillesse et survivants et à l’assurance-invalidité<sup>(a)</sup> (RPFC)
+**Dernières modifications au 1<sup>er</sup> janvier 2025**
+
+du 23 décembre 1998
+
+(Entrée en vigueur : 1<sup>er</sup> janvier 1999)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu la loi sur les prestations fédérales complémentaires à l'assurance-vieillesse et survivants et à l'assurance-invalidité, du 14 octobre 1965 (ci-après : la loi), notamment son article 2, alinéa 1,<sup>(7)</sup>
+
+arrête :
+
+## Chapitre I Réglementation cantonale<sup>(7)</sup>
+
+#### Art. 1<sup>(16)</sup>
+
+**Organe de contrôle**
+
+Le service d'audit interne de l'Etat de Genève est chargé du contrôle du service des prestations complémentaires (ci-après : service).
+
+[Art. 2, 3]<sup>(7)</sup>
+
+#### Art. 4<sup>(7)</sup>
+
+**Séjour dans un home ou dans un établissement médico-social**
+
+<sup>1</sup> La taxe journalière maximale à prendre en considération en raison du séjour dans un établissement médico-social ou dans un établissement pour personnes handicapées correspond au prix de pension agréé par l'autorité cantonale, conformément à la loi sur la gestion des établissements pour personnes âgées, du 4 décembre 2009, et à la loi sur l'intégration des personnes handicapées, du 16 mai 2003.<sup>(11)</sup>
+
+<sup>2</sup> Le forfait pour dépenses personnelles s'élève à 3 600 francs par an pour les personnes âgées et à 6 000 francs par an pour les personnes invalides. Il est versé par mensualités avec la prestation.<sup>(17)</sup>
+
+<sup>3</sup> Tant qu’une personne invalide séjourne dans un établissement pour personnes handicapées, même lorsqu’elle atteint l’âge de la retraite, son forfait pour dépenses personnelles est celui des personnes invalides.<sup>(12)</sup>
+
+#### Art. 5<sup>(7)</sup>
+
+**Frais de maladie et d'invalidité**
+
+Les frais remboursables, en application de l'article 14, alinéas 1 et 2, de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI, du 6 octobre 2006, sont fixés par un règlement spécifique.
+
+## Chapitre II<sup>(4)</sup> Procédure de demande, de versement et de restitution des prestations indues et demande de remise
+
+#### Art. 6
+
+**Information**
+
+<sup>1</sup> Le service<sup>(8)</sup> pratique une politique d’information à l’égard des ayants droit potentiels.
+
+<sup>2</sup> Périodiquement et lors de modifications légales, il informe les bénéficiaires de leurs droits et de leurs devoirs, notamment en ce qui concerne l’incidence sur la prestation allouée des modifications légales et de tout fait nouveau.
+
+#### Art. 7
+
+**Demande**
+
+<sup>1</sup> La demande de prestations doit être faite au moyen d’une formule officielle à disposition au service<sup>(8)</sup>.
+
+<sup>2</sup> La demande déposée au titre de la loi sur les prestations complémentaires cantonales, du 25 octobre 1968, tient lieu de demande pour les prestations complémentaires fédérales.<sup>(14)</sup>
+
+<sup>3</sup> L'ayant droit, son représentant légal, son conjoint ou son partenaire enregistré, ses parents ou grands-parents, ses enfants ou petits-enfants, ses frères et soeurs, ainsi que le tiers ou l'autorité qui s'occupe des affaires de l'ayant droit, sont compétents pour faire la demande. Ils doivent la signer.<sup>(5)</sup>
+
+<sup>4</sup> L’intéressé qui déclare au service<sup>(8)</sup> un fait de nature à entraîner le versement de prestations de la loi qui est à la base du présent règlement est dispensé de présenter une nouvelle demande, s’il s’agit :
+
+- a) d’un bénéficiaire de la loi sur les prestations complémentaires cantonales;
+- b) d’une personne qui, au cours de l’année civile, a déposé une demande qui a fait l’objet d’un refus.
+
+<sup>5</sup> Lorsque la remise de la formule officielle a été précédée d'une demande écrite, c'est la date de cette dernière qui est déterminante, pour autant que la formule officielle soit déposée dans les trois mois qui suivent.<sup>(4)</sup>
+
+#### Art. 8
+
+**Vérification et contrôle**
+
+<sup>1</sup> La demande de prestations peut être suivie d’une enquête. Au besoin, les renseignements sont demandés au représentant légal, à la famille, aux organismes et aux personnes susceptibles de les fournir.
+
+<sup>2</sup> Le service<sup>(8)</sup> peut en tout temps vérifier l’exactitude des renseignements concernant l’intéressé ou les personnes tenues à son égard à une obligation d’entretien en vertu du droit de la famille.
+
+#### Art. 9<sup>(4)</sup>
+
+#### Art. 10
+
+**Notification de la décision**
+
+Les décisions sont notifiées à l’intéressé ou à son représentant légal; sur demande elles peuvent l’être au tiers ou à l’autorité, ainsi qu’au home ou à l’établissement médico-social où séjourne l’intéressé.
+
+#### Art. 11<sup>(1)</sup>
+
+**Versement**
+
+En principe, la prestation est versée sur un compte postal ou sur un compte en banque.
+
+#### Art. 12<sup>(4)</sup>
+
+**Restitution des prestations indues**
+
+<sup>1</sup> Le service<sup>(8)</sup> doit demander la restitution des prestations indûment touchées au bénéficiaire, à ses héritiers ou aux autres personnes mentionnées à l'article 2 de l'ordonnance fédérale sur la partie générale du droit des assurances sociales, du 11 septembre 2002.
+
+<sup>2</sup> Il fixe l'étendue de l'obligation de restituer par décision.
+
+<sup>3</sup> Dans sa décision en restitution, le service<sup>(8)</sup> indique la possibilité d'une demande de remise.
+
+<sup>4</sup> Lorsqu'il est manifeste que les conditions d'une remise sont réunies, le service<sup>(8)</sup> décide, dans sa décision, de renoncer à la restitution.
+
+#### Art. 12A<sup>(4)</sup>
+
+**Remise**
+
+<sup>1</sup> La restitution entière ou partielle des prestations allouées indûment, mais reçues de bonne foi, ne peut être exigée si l'intéressé se trouve dans une situation difficile.
+
+<sup>2</sup> La demande de remise doit être présentée par écrit. Elle doit être motivée, accompagnée des pièces utiles et déposée au plus tard 30 jours à compter de l'entrée en force de la décision en restitution.
+
+<sup>3</sup> La remise fait l'objet d'une décision.
+
+#### Art. 12B<sup>(4)</sup>
+
+**Situation difficile**
+
+<sup>1</sup> Est déterminant, pour apprécier s'il y a une situation difficile, le moment où la décision de restitution est exécutoire.
+
+<sup>2</sup> Il y a une situation difficile lorsque les conditions de l'article 5 de l'ordonnance fédérale sur la partie générale du droit des assurances sociales, du 11 septembre 2002, sont réalisées.
+
+<sup>3</sup> Les autorités auxquelles les prestations ont été versées en vertu de l'article 20 de la loi fédérale sur la partie générale du droit des assurances sociales, du 6 octobre 2000, ou des dispositions des lois spéciales ne peuvent invoquer le fait qu'elles seraient mises dans une situation difficile.
+
+## Chapitre III<sup>(4)</sup> Voies de droit et assistance juridique gratuite
+
+#### Art. 13<sup>(4)</sup>
+
+**Procédure d'opposition**
+
+<sup>1</sup> L'opposition peut être formée par écrit ou par oral, lors d'un entretien personnel au service<sup>(8)</sup>.
+
+<sup>2</sup> L'opposition écrite doit être signée par l'opposant ou par son représentant légal. En cas d'opposition orale, le service<sup>(8)</sup> consigne l'opposition dans un procès-verbal signé par l'opposant ou son représentant légal.
+
+<sup>3</sup> Si l'opposition ne satisfait pas aux exigences de l'article 8, alinéa 2 de la loi, ou si elle n'est pas signée, le service<sup>(8)</sup> impartit un délai convenable pour réparer le vice, avec l'avertissement que, à défaut, l'opposition ne sera pas recevable.
+
+#### Art. 14<sup>(4)</sup>
+
+**Effet suspensif**
+
+<sup>1</sup> L'opposition a un effet suspensif, sauf dans les cas prévus par l'article 11, alinéa 1, de l'ordonnance fédérale sur la partie générale du droit des assurances sociales, du 11 septembre 2002.
+
+<sup>2</sup> Le service<sup>(8)</sup> peut, sur requête ou d'office, retirer l'effet suspensif ou rétablir l'effet suspensif retiré dans la décision. Une telle requête doit être traitée sans délai.
+
+#### Art. 15<sup>(4)</sup>
+
+**Décision sur opposition**
+
+<sup>1</sup> Le service<sup>(8)</sup> n'est pas lié par les conclusions de l'opposant. Il peut modifier la décision à l'avantage ou au détriment de l'opposant.
+
+<sup>2</sup> Si le service<sup>(8)</sup> envisage de modifier la décision au détriment de l'opposant, il donne à celui-ci l'occasion de retirer son opposition.
+
+#### Art. 16<sup>(4)</sup>
+
+**Assistance juridique gratuite**
+
+<sup>1</sup> L'assistance juridique gratuite mentionnée à l'article 12, alinéa 1, de la loi est octroyée conformément aux prescriptions fédérales en matière de contentieux dans l'AVS, l'AI, les APG et les PC.
+
+<sup>2</sup> Elle ne peut être octroyée que si les conditions cumulatives suivantes sont réunies :
+
+- a) la démarche ne paraît pas vouée à l'échec;
+- b) la complexité de l'affaire l'exige;
+- c) l'intéressé est dans le besoin.
+
+<sup>3</sup> Le refus de l'assistance juridique gratuite fait l'objet d'une décision susceptible d'être attaquée par la voie du recours auprès de la chambre des assurances sociales de la Cour de justice<sup>(13)</sup>.
+
+## Chapitre IV<sup>(4)</sup> Dispositions finales et transitoires
+
+#### Art. 17<sup>(4)</sup>
+
+**Clause abrogatoire**
+
+Les règlements suivants sont abrogés :
+
+- a) règlement d’application de la loi sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité, du 21 juillet 1971;
+- b) règlement transitoire d’application de la modification du 20 juin 1997 de la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité, du 8 décembre 1997.
+
+#### Art. 18<sup>(4)</sup>
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 1999.
+
+#### Art. 19<sup>(7)</sup>
+
+**Disposition transitoire relative aux frais de maladie et d'invalidité**
+
+### Modification du 20 février 2008
+
+Tant que le règlement spécifique mentionné par l'article 5 n'est pas édicté, les frais de maladie et d'invalidité qui peuvent être remboursés en application de l'article 14, alinéas 1 et 2, de la loi fédérale sont définis par les articles 3 à 18 de l'ordonnance relative au remboursement des frais de maladie et des frais résultant de l'invalidité en matière de prestations complémentaires, du 29 décembre 1997, dans sa version en vigueur le 31 décembre 2007, qui restent applicables par analogie en vertu de l'article 34 de la loi fédérale.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| J 4 20.01 R d’application de la loi sur les prestations fédérales complémentaires à l’assurance-vieillesse et survivants et à l’assurance-invalidité | 23.12.1998 | 01.01.1999 |
+| Modifications et commentaire : |  |  |
+| 1. *n.t.* : 2, 3/1, 4/2, 11 | 15.12.2000 | 01.01.2001 |
+| 2. *n.* : 2°cons.; *n.t.* : 1°cons., 2, 4/2 | 18.12.2002 | 01.01.2003 |
+| 3. *n.t.* : 2, 4/2 | 22.12.2004 | 01.01.2005 |
+| 4. *n.* : 12A, 12B, (*d.* : chap. III &gt;&gt; chap. IV) chap. III, (*d.* : 13-14 &gt;&gt; 17-18) 13, 14, 15, 16; *n.t.* : chap. II, 7/5, 12; *a.* : 1, 9 | 23.03.2005 | 01.04.2005 |
+| 5. *n.t.* : 7/3 | 01.11.2006 | 01.01.2007 |
+| 6. *n.t.* : 2°cons., 2, 4/2, 4/3 | 29.11.2006 | 01.01.2007 |
+| 7. *n.* : 1, 19; *n.t.* : 1°cons., chap. I, 4, 5; *a.* : 2, 3 | 20.02.2008 | 01.01.2008 |
+| 8. *n.t.* : rectification selon 7C/1, B 2 05 (1, 6/1, 7/1, 7/4, 8/2, 12/1, 12/3, 12/4, 13/1, 13/2, 13/3, 14/2, 15/1, 15/2) | 11.11.2008 | 11.11.2008 |
+| 9. *a.* : 2°cons. | 26.11.2008 | 01.01.2009 |
+| 10. *n.t.* : 4/2 | 17.06.2009 | 01.07.2009 |
+| 11. *n.t.* : 4/1 | 16.03.2010 | 01.04.2010 |
+| 12. *n.* : 4/3 | 15.09.2010 | 01.10.2010 |
+| 13. *n.t.* : rectification selon 7C/1, B 2 05 (16/3) | 01.01.2011 | 01.01.2011 |
+| 14. *n.t.* : 7/2 | 27.06.2012 | 01.11.2012 |
+| a. changement de la référence du règlement (anc. J 7 10.01) | 01.11.2012 | 01.11.2012 |
+| 15. *n.t.* : 4/2 | 05.02.2014 | 12.02.2014 |
+| 16. *n.t.* : 1 | 28.05.2014 | 01.06.2014 |
+| 17. *n.t.* : 4/2 | 06.11.2024 | 01.01.2025 |
