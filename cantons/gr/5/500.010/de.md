@@ -4,13 +4,12 @@ number: "500.010"
 title: Verordnung zum Gesundheitsgesetz
 short: VOzGesG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+version_adopted: 2025-02-18
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3350/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3350/pdf_file"
 
 (VOzGesG)
 
-Vom 20.06.2017 (Stand 01.01.2024)
+Vom 20.06.2017 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -40,12 +39,12 @@ von der Regierung erlassen am 20. Juni 2017
 <sup>2</sup> Die Gesundheitsförderung und Prävention im Schulbereich obliegt:
 
 - a) im Kindergarten- und Volksschulbereich dem Amt für Volksschule und Sport;
-- b) im Mittel- und Hochschulbereich dem Amt für höhere Bildung;
+- b) im Mittel- und Hochschulbereich dem Amt für Mittelschulen und Tertiärbildung;
 - c) in der Berufsschule dem Amt für Berufsbildung.
 
-<sup>3</sup> Die sekundäre und tertiäre Suchtprävention obliegt dem Sozialamt.
+<sup>3</sup> Die sekundäre und tertiäre Suchtprävention obliegt dem Amt für Soziales.
 
-<sup>4</sup> Der Gesundheitsschutz im Sinne der Arbeitsgesetzgebung und der Unfallversicherungsgesetzgebung obliegt, soweit er den Kanton betrifft, dem Amt für Industrie, Gewerbe und Arbeit.
+<sup>4</sup> Der Gesundheitsschutz im Sinne der Arbeitsgesetzgebung und der Unfallversicherungsgesetzgebung obliegt, soweit er den Kanton betrifft, dem Amt für Arbeit.
 
 [^1-1]: BR [500.000](https://www.gr-lex.gr.ch/data/500.000/de)
 
@@ -149,7 +148,16 @@ von der Regierung erlassen am 20. Juni 2017
 
 <sup>1</sup> Die Spitäler, Kliniken und Geburtshäuser erfüllen die quantitativen Anforderungen in personeller Hinsicht, wenn der für eine angemessene Behandlung und Pflege der Patientinnen und Patienten, die Qualitätssicherung und die Betreuung der Lernenden notwendige Personalbestand vorhanden ist.
 
-<sup>2</sup> Die öffentlichen Spitäler und Kliniken sind verpflichtet, pro Vollzeitstelle in der Pflege und Betreuung 11,9 Aus- und Weiterbildungswochen für Pflege- und Betreuungsberufe zu erbringen. Das Gesundheitsamt kann im Einzelfall Ausnahmen vorsehen.
+<sup>2</sup> Die öffentlichen Spitäler und Kliniken sind verpflichtet, pro Vollzeitstelle in der Pflege und Betreuung 15,5 Aus- und Weiterbildungswochen für Pflege- und Betreuungsberufe zu erbringen. Davon sind 8 Wochen für Fachpersonen Gesundheit EFZ und 5,8 Wochen für Pflegefachpersonen HF oder FH zu erbringen.
+
+<sup>2<sup>bis</sup></sup> Der Erfüllungsgrad dieser Vorgabe beträgt:
+
+- a) im Kalenderjahr 2025 — 75 %
+- b) im Kalenderjahr 2026 — 80 %
+- c) im Kalenderjahr 2027 — 85 %
+- d) im Kalenderjahr 2028 — 90 %
+- e) im Kalenderjahr 2029 — 95 %
+- f) ab Kalenderjahr 2030 — 100 %
 
 <sup>3</sup> Die Spitäler und Kliniken bieten entsprechend der Betriebsgrösse eine angemessene Anzahl von Weiterbildungsstellen für Assistenzärztinnen und Assistenzärzte nach Massgabe der Weiterbildungsordnung der Verbindung Schweizer Ärzte (FMH) an. Die Anzahl der Weiterbildungsstellen wird zwischen den Spitälern beziehungsweise Kliniken und dem Kanton vereinbart.
 
@@ -235,10 +243,17 @@ von der Regierung erlassen am 20. Juni 2017
 
 <sup>1</sup> Die Betriebe sind verpflichtet, pro Lehrjahr:
 
-- a) Lernende des Bildungsganges Fachfrau oder Fachmann Gesundheit (FaGe) im Umfang eines Zwanzigstels des für eine angemessene Pflege und Betreuung notwendigen Personalbestandes auszubilden;
-- b) Studierende der Höheren Fachschule Pflege (HF Pflege) im Umfang eines Sechzigstels des für eine angemessene Pflege und Betreuung notwendigen Personalbestandes auszubilden.
+- a) Lernende des Bildungsganges Fachfrau oder Fachmann Gesundheit (FaGe) EFZ im Umfang von 2,3 Wochen pro Vollzeitstelle des für eine angemessene Pflege und Betreuung notwendigen Personalbestandes auszubilden;
+- b) Studierende der Höheren Fachschule Pflege (HF Pflege) sowie der Fachhochschulen Pflege (FH Pflege) im Umfang von 0,4 Wochen pro Vollzeitstelle des für eine angemessene Pflege und Betreuung notwendigen Personalbestandes auszubilden.
 
-<sup>2</sup> Das Gesundheitsamt kann im Einzelfall Ausnahmen vorsehen.
+<sup>2</sup> Der Erfüllungsgrad dieser Vorgabe beträgt:
+
+- a) im Kalenderjahr 2025 — 75 %
+- b) im Kalenderjahr 2026 — 80 %
+- c) im Kalenderjahr 2027 — 85 %
+- d) im Kalenderjahr 2028 — 90 %
+- e) im Kalenderjahr 2029 — 95 %
+- f) ab Kalenderjahr 2030 — 100 %
 
 ### 4.4. Dienste der häuslichen Pflege und Betreuung
 
@@ -272,10 +287,17 @@ von der Regierung erlassen am 20. Juni 2017
 
 <sup>1</sup> Die Dienste der häuslichen Pflege und Betreuung sind verpflichtet, pro Lehrjahr:
 
-- a) Lernende des Bildungsganges Fachfrau oder Fachmann Gesundheit (FaGe) im Umfang eines Zwanzigstels des effektiven Personalbestandes für Pflege und Betreuung auszubilden;
-- b) Studierende der Höheren Fachschule Pflege (HF Pflege) im Umfang eines Sechzigstels des effektiven Personalbestandes für Pflege und Betreuung für die ersten zwei Lehrjahre auszubilden.
+- a) Lernende des Bildungsganges Fachfrau oder Fachmann Gesundheit (FaGe) EFZ im Umfang von 2,3 Wochen pro Vollzeitstelle des effektiven Personalbestandes für Pflege und Betreuung auszubilden;
+- b) Studierende der Höheren Fachschule Pflege (HF Pflege) sowie der Fachhochschulen Pflege (FH Pflege) im Umfang von 0,4 Wochen pro Vollzeitstelle des effektiven Personalbestandes für Pflege und Betreuung auszubilden.
 
-<sup>2</sup> Das Gesundheitsamt kann im Einzelfall Ausnahmen bewilligen.
+<sup>2</sup> Der Erfüllungsgrad dieser Vorgabe beträgt:
+
+- a) im Kalenderjahr 2025 — 75 %
+- b) im Kalenderjahr 2026 — 80 %
+- c) im Kalenderjahr 2027 — 85 %
+- d) im Kalenderjahr 2028 — 90 %
+- e) im Kalenderjahr 2029 — 95 %
+- f) ab Kalenderjahr 2030 — 100 %
 
 ### 4.5. Gewerbsmässiger Kranken- und Verunfalltentransport
 

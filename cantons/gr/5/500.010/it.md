@@ -4,13 +4,12 @@ number: "500.010"
 title: Ordinanza relativa alla legge sanitaria
 short: OLSan
 language: it
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+version_adopted: 2025-02-18
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3350/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3887/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3350/pdf_file"
 
 (OLSan)
 
-del 20.06.2017 (stato 01.01.2024)
+del 20.06.2017 (stato 01.01.2025)
 
 emanata dal Governo il 20 giugno 2017
 
@@ -33,19 +32,19 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Cantone**
 
-<sup>1</sup> La competenza per i compiti che la legge sanitaria ha attribuito al Cantone spetta all'Ufficio dell'igiene pubblica, nella misura in cui tali compiti non sono stati attribuiti a un altro ufficio. L'Ufficio dell'igiene pubblica è altresì competente per la comunicazione dei dati previsti dal diritto federale al registro delle professioni mediche, al registro delle professioni psicologiche e al registro nazionale delle professioni sanitarie (NAREG).
+<sup>1</sup> La competenza per i compiti che la legge sanitaria ha attribuito al Cantone spetta all'Ufficio della sanità, nella misura in cui tali compiti non sono stati attribuiti a un altro ufficio. L'Ufficio della sanità è altresì competente per la comunicazione dei dati previsti dal diritto federale al registro delle professioni mediche, al registro delle professioni psicologiche e al registro nazionale delle professioni sanitarie (NAREG).
 
 <sup>1<sup>bis</sup></sup> Il Governo può attribuire a terzi i compiti conformemente all'articolo 5 capoverso 1 lettera a, lettera b e lettera h della legge sanitaria[^1-1].
 
 <sup>2</sup> La promozione della salute e la prevenzione in ambito scolastico competono:
 
 - a) nella scuola dell'infanzia e nella scuola popolare all'Ufficio per la scuola popolare e lo sport;
-- b) nella scuola media e nelle scuole universitarie all'Ufficio della formazione medio-superiore;
+- b) nella scuola media e nelle scuole universitarie all'Ufficio delle scuole medie superiori e della formazione terziaria;
 - c) nelle scuole professionali all'Ufficio della formazione professionale.
 
-<sup>3</sup> La prevenzione secondaria e terziaria delle dipendenze compete all'Ufficio del servizio sociale.
+<sup>3</sup> La prevenzione secondaria e terziaria delle dipendenze compete all'Ufficio degli affari sociali.
 
-<sup>4</sup> La protezione della salute ai sensi della legislazione sul lavoro e della legislazione in materia di assicurazione contro gli infortuni compete all'Ufficio per l'industria, arti e mestieri e lavoro, nella misura in cui concerne il Cantone.
+<sup>4</sup> La protezione della salute ai sensi della legislazione sul lavoro e della legislazione in materia di assicurazione contro gli infortuni compete all'Ufficio del lavoro, nella misura in cui concerne il Cantone.
 
 [^1-1]: CSC [500.000](https://www.gr-lex.gr.ch/data/500.000/it)
 
@@ -137,7 +136,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Le cure infermieristiche possono essere prestate soltanto da infermieri diplomati e da ausiliari di cure del settore cura e assistenza.
 
-<sup>2</sup> L'Ufficio dell'igiene pubblica tiene un elenco delle professioni del settore cura e assistenza. L'elenco comprende le professioni del personale diplomato e del personale ausiliario.
+<sup>2</sup> L'Ufficio della sanità tiene un elenco delle professioni del settore cura e assistenza. L'elenco comprende le professioni del personale diplomato e del personale ausiliario.
 
 <sup>3</sup> Per praticare cure infermieristiche, le persone in possesso di un diploma estero devono farlo riconoscere dalla Croce Rossa Svizzera.
 
@@ -149,7 +148,16 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Gli ospedali, le cliniche e le case per partorienti soddisfano i requisiti quantitativi relativi al personale, se è disponibile l'effettivo di personale necessario per il trattamento e la cura adeguati dei pazienti, per garantire la qualità e per seguire gli apprendisti.
 
-<sup>2</sup> Gli ospedali pubblici e le cliniche pubbliche sono tenuti a fornire per ogni impiego a tempo pieno in cura e assistenza 11,9 settimane di formazione e perfezionamento professionale per professioni di cura e di assistenza. In singoli casi, l'Ufficio dell'igiene pubblica può prevedere eccezioni.
+<sup>2</sup> Gli ospedali pubblici e le cliniche pubbliche sono tenuti a fornire per ogni impiego a tempo pieno in cura e assistenza 15,5 settimane di formazione e perfezionamento professionale per professioni di cura e di assistenza. Di queste, 8 settimane devono essere fornite per operatori sociosanitari AFC e 5,8 settimane per infermieri diplomati SSS o SUP.
+
+<sup>2<sup>bis</sup></sup> Il grado di adempimento di questa direttiva è pari a:
+
+- a) nell'anno civile 2025 — 75%
+- b) nell'anno civile 2026 — 80%
+- c) nell'anno civile 2027 — 85%
+- d) nell'anno civile 2028 — 90%
+- e) nell'anno civile 2029 — 95%
+- f) a partire dall'anno civile 2030 — 100%
 
 <sup>3</sup> In rapporto alla loro dimensione, gli ospedali e le cliniche mettono a disposizione un adeguato numero di posti di perfezionamento professionale per medici assistenti a norma del regolamento per il perfezionamento professionale della Federazione dei medici svizzeri (FMH). Il numero di posti di perfezionamento professionale viene concordato tra gli ospedali, rispettivamente le cliniche, e il Cantone.
 
@@ -179,7 +187,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Rapporto sulla qualità**
 
-<sup>1</sup> Gli ospedali e le cliniche devono inoltrare all'Ufficio dell'igiene pubblica un rapporto sulla qualità secondo le direttive di H+ Gli Ospedali Svizzeri.
+<sup>1</sup> Gli ospedali e le cliniche devono inoltrare all'Ufficio della sanità un rapporto sulla qualità secondo le direttive di H+ Gli Ospedali Svizzeri.
 
 #### Art. 15
 
@@ -193,9 +201,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Requisiti posti agli spazi**
 
-<sup>1</sup> Le aziende soddisfano i requisiti dal punto di vista degli spazi, se la struttura degli spazi corrisponde alla norma SIA 500 "Costruzioni senza ostacoli", ai promemoria 7/10 e 5/98 del Centro svizzero per la costruzione adatta agli andicappati, come pure ai requisiti posti dall'Ufficio dell'igiene pubblica agli spazi, agli impianti all'aperto, nonché ai reparti per persone affette da demenza di case di cura.
+<sup>1</sup> Le aziende soddisfano i requisiti dal punto di vista degli spazi, se la struttura degli spazi corrisponde alla norma SIA 500 "Costruzioni senza ostacoli", ai promemoria 7/10 e 5/98 del Centro svizzero per la costruzione adatta agli andicappati, come pure ai requisiti posti dall'Ufficio della sanità agli spazi, agli impianti all'aperto, nonché ai reparti per persone affette da demenza di case di cura.
 
-<sup>2</sup> In singoli casi, l'Ufficio dell'igiene pubblica può autorizzare eccezioni.
+<sup>2</sup> In singoli casi, l'Ufficio della sanità può autorizzare eccezioni.
 
 #### Art. 17
 
@@ -212,7 +220,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - g) dispongono delle infrastrutture, degli apparecchi e degli strumenti necessari per la cura e l'assistenza degli ospiti;
 - h) adottano un sistema di gestione della qualità orientato ai processi e sono certificati.
 
-<sup>2</sup> In singoli casi, l'Ufficio dell'igiene pubblica può autorizzare eccezioni.
+<sup>2</sup> In singoli casi, l'Ufficio della sanità può autorizzare eccezioni.
 
 #### Art. 18
 
@@ -220,14 +228,14 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Le aziende soddisfano i requisiti qualitativi relativi al personale, se:
 
-- a) il responsabile dell'offerta dispone di una formazione specifica riconosciuta dall'Ufficio dell'igiene pubblica;
-- b) il responsabile del settore cura e assistenza dispone di un perfezionamento professionale nel settore direttivo e in gerontologia riconosciuto dall'Ufficio dell'igiene pubblica;
+- a) il responsabile dell'offerta dispone di una formazione specifica riconosciuta dall'Ufficio della sanità;
+- b) il responsabile del settore cura e assistenza dispone di un perfezionamento professionale nel settore direttivo e in gerontologia riconosciuto dall'Ufficio della sanità;
 - c) la quota di personale di cura specializzato ammonta al 40 per cento del personale minimo necessario nel settore cura e assistenza;
 - d) il 15 per cento del personale minimo necessario nel settore cura e assistenza dispone di un diploma di infermiere diplomato SUP oppure di infermiere diplomato SSS.
 
-<sup>2</sup> Le aziende soddisfano i requisiti quantitativi dal punto di vista del personale, se è soddisfatto l'organico ideale previsto dall'Ufficio dell'igiene pubblica per una cura e un'assistenza adeguate degli ospiti.
+<sup>2</sup> Le aziende soddisfano i requisiti quantitativi dal punto di vista del personale, se è soddisfatto l'organico ideale previsto dall'Ufficio della sanità per una cura e un'assistenza adeguate degli ospiti.
 
-<sup>3</sup> In singoli casi, l'Ufficio dell'igiene pubblica può autorizzare eccezioni.
+<sup>3</sup> In singoli casi, l'Ufficio della sanità può autorizzare eccezioni.
 
 #### Art. 19
 
@@ -235,10 +243,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Per ogni anno di tirocinio, le aziende sono tenute a:
 
-- a) formare apprendisti del ciclo di formazione per operatori sociosanitari (OSS) in misura di un ventesimo dell'effettivo di personale necessario per una cura e un'assistenza adeguate;
-- b) formare studenti della scuola specializzata superiore in cure infermieristiche (SSS cure) in misura di un sessantesimo dell'effettivo di personale necessario per una cura e un'assistenza adeguate.
+- a) formare apprendisti del ciclo di formazione per operatori sociosanitari (OSS) AFC in misura di 2,3 settimane per ogni impiego a tempo pieno dell'effettivo di personale necessario per una cura e un'assistenza adeguate;
+- b) formare studenti della scuola specializzata superiore in cure infermieristiche (SSS cure) nonché delle scuole universitarie professionali in cure infermieristiche (SUP cure) in misura di 0,4 settimane per ogni impiego a tempo pieno dell'effettivo di personale necessario per una cura e un'assistenza adeguate.
 
-<sup>2</sup> In singoli casi, l'Ufficio dell'igiene pubblica può prevedere eccezioni.
+<sup>2</sup> Il grado di adempimento di questa direttiva è pari a:
+
+- a) nell'anno civile 2025 — 75%
+- b) nell'anno civile 2026 — 80%
+- c) nell'anno civile 2027 — 85%
+- d) nell'anno civile 2028 — 90%
+- e) nell'anno civile 2029 — 95%
+- f) a partire dall'anno civile 2030 — 100%
 
 ### 4.4. Servizi di cura e assistenza a domicilio
 
@@ -253,7 +268,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - c) per gli utenti per i quali vi è da attendersi il sopravvenire di una situazione di crisi può essere messo a disposizione in tempi brevi un servizio di picchetto 24 ore su 24 da parte di un infermiere diplomato SUP o SSS;
 - d) durante gli orari di cura ordinari, il personale impiegato per la cura ha a disposizione un infermiere diplomato SUP o SSS che lo istruisce e lo segue.
 
-<sup>2</sup> In singoli casi, l'Ufficio dell'igiene pubblica può autorizzare eccezioni.
+<sup>2</sup> In singoli casi, l'Ufficio della sanità può autorizzare eccezioni.
 
 #### Art. 21
 
@@ -261,10 +276,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> I servizi di cura e assistenza a domicilio soddisfano i requisiti dal punto di vista del personale se:
 
-- a) il responsabile del settore cura e assistenza dispone di un perfezionamento professionale riconosciuto dall'Ufficio dell'igiene pubblica.
+- a) il responsabile del settore cura e assistenza dispone di un perfezionamento professionale riconosciuto dall'Ufficio della sanità.
 - b) …
 
-<sup>2</sup> L'Ufficio dell'igiene pubblica può concedere eccezioni limitate nel tempo per quanto riguarda i requisiti concernenti il perfezionamento professionale.
+<sup>2</sup> L'Ufficio della sanità può concedere eccezioni limitate nel tempo per quanto riguarda i requisiti concernenti il perfezionamento professionale.
 
 #### Art. 22
 
@@ -272,10 +287,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Per ogni anno di tirocinio, i servizi di cura e assistenza a domicilio sono tenuti a:
 
-- a) formare apprendisti del ciclo di formazione per operatori sociosanitari (OSS) in misura di un ventesimo del loro effettivo di personale di cura e assistenza;
-- b) formare studenti della scuola specializzata superiore in cure infermieristiche (SSS cure) nei primi due anni di tirocinio in misura di un sessantesimo del loro effettivo di personale di cura e assistenza.
+- a) formare apprendisti del ciclo di formazione per operatori sociosanitari (OSS) AFC in misura di 2,3 settimane per ogni impiego a tempo pieno dell'effettivo di personale di cura e assistenza;
+- b) formare studenti della scuola specializzata superiore in cure infermieristiche (SSS cure) nonché delle scuole universitarie professionali in cure infermieristiche (SUP cure) in misura di 0,4 settimane per ogni impiego a tempo pieno dell'effettivo di personale di cura e assistenza.
 
-<sup>2</sup> In singoli casi, l'Ufficio dell'igiene pubblica può autorizzare eccezioni.
+<sup>2</sup> Il grado di adempimento di questa direttiva è pari a:
+
+- a) nell'anno civile 2025 — 75%
+- b) nell'anno civile 2026 — 80%
+- c) nell'anno civile 2027 — 85%
+- d) nell'anno civile 2028 — 90%
+- e) nell'anno civile 2029 — 95%
+- f) a partire dall'anno civile 2030 — 100%
 
 ### 4.5. Trasporto a scopo professionale di malati e infortunati
 
@@ -335,7 +357,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> La durata minima e l'entità minima dell'aggiornamento nelle professioni assoggettate all'obbligo di autorizzazione secondo la legge sanitaria si conformano alle regolamentazioni in materia della corrispondente organizzazione di categoria o della corrispondente associazione professionale, nella misura in cui queste mirino a garantire un'assistenza di elevata qualità e affidabile alla popolazione.
 
-<sup>2</sup> L'Ufficio dell'igiene pubblica può incaricare le organizzazioni di categoria e le associazioni professionali di controllare che i requisiti relativi all'aggiornamento specifici per la professione siano rispettati per quanto riguarda durata ed entità.
+<sup>2</sup> L'Ufficio della sanità può incaricare le organizzazioni di categoria e le associazioni professionali di controllare che i requisiti relativi all'aggiornamento specifici per la professione siano rispettati per quanto riguarda durata ed entità.
 
 #### Art. 29
 
@@ -362,7 +384,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>6</sup> I medici attivi in diverse regioni del Cantone sono tenuti a prestare servizio di picchetto in ciascuna regione in funzione del loro volume di lavoro presso il rispettivo luogo di lavoro.
 
-<sup>7</sup> In accordo con l'Ufficio dell'igiene pubblica, al fine di garantire la sicurezza dell'assistenza l'obbligo di prestare servizio di picchetto può essere adempiuto anche al di fuori della propria regione di picchetto.
+<sup>7</sup> In accordo con l'Ufficio della sanità, al fine di garantire la sicurezza dell'assistenza l'obbligo di prestare servizio di picchetto può essere adempiuto anche al di fuori della propria regione di picchetto.
 
 <sup>8</sup> I medici attivi anche in altri Cantoni sono tenuti a prestare servizio di picchetto nel Cantone in funzione del loro volume di lavoro.
 
@@ -384,11 +406,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>7</sup> I dentisti attivi in diverse regioni del Cantone sono tenuti a prestare servizio di picchetto in ciascuna regione in funzione del loro volume di lavoro presso il rispettivo luogo di lavoro.
 
-<sup>8</sup> In accordo con l'Ufficio dell'igiene pubblica, al fine di garantire la sicurezza dell'assistenza l'obbligo di prestare servizio di picchetto può essere adempiuto anche al di fuori della propria regione di picchetto.
+<sup>8</sup> In accordo con l'Ufficio della sanità, al fine di garantire la sicurezza dell'assistenza l'obbligo di prestare servizio di picchetto può essere adempiuto anche al di fuori della propria regione di picchetto.
 
 <sup>9</sup> In linea di principio, i dentisti attivi anche in altri Cantoni sono pienamente soggetti all'obbligo di prestare servizio di picchetto nel Cantone.
 
-<sup>10</sup> Nei casi di cui al capoverso 9, in accordo con l'organizzazione di categoria cantonale l'Ufficio dell'igiene pubblica può autorizzare una riduzione dell'obbligo di prestare servizio di picchetto.
+<sup>10</sup> Nei casi di cui al capoverso 9, in accordo con l'organizzazione di categoria cantonale l'Ufficio della sanità può autorizzare una riduzione dell'obbligo di prestare servizio di picchetto.
 
 #### Art. 30b
 
@@ -438,7 +460,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Autorità esecutiva**
 
-<sup>1</sup> L'Ufficio dell'igiene pubblica esegue i compiti attribuiti al Cantone dalla legislazione federale per la lotta contro le malattie trasmissibili dell'essere umano.
+<sup>1</sup> L'Ufficio della sanità esegue i compiti attribuiti al Cantone dalla legislazione federale per la lotta contro le malattie trasmissibili dell'essere umano.
 
 ## 8. Protezione dalle radiazioni non ionizzanti nei solarium e nel settore estetico
 
@@ -446,6 +468,6 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Autorità esecutiva**
 
-<sup>1</sup> L'Ufficio dell'igiene pubblica esegue i compiti assegnati al Cantone dalla legislazione federale sulla protezione dai pericoli delle radiazioni non ionizzanti e degli stimoli sonori nel settore dell'utilizzo di solarium e di prodotti per scopi estetici.
+<sup>1</sup> L'Ufficio della sanità esegue i compiti assegnati al Cantone dalla legislazione federale sulla protezione dai pericoli delle radiazioni non ionizzanti e degli stimoli sonori nel settore dell'utilizzo di solarium e di prodotti per scopi estetici.
 
 2017-024

@@ -4,13 +4,12 @@ number: "500.010"
 title: Ordinaziun tar la lescha da sanadad
 short: OtLSan
 language: rm
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+version_adopted: 2025-02-18
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3350/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3350/pdf_file"
 
 (OtLSan)
 
-dals 20-06-2017 (versiun dals 01-01-2024)
+dals 20-06-2017 (versiun dals 01-01-2025)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -33,19 +32,19 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 **Chantun**
 
-<sup>1</sup> Per las incumbensas che lescha da sanadad surdat al chantun è cumpetent l'uffizi da sanadad, nun che questas incumbensas sajan vegnidas affidadas ad in auter uffizi. L'uffizi da sanadad è er cumpetent per communitgar al register davart las professiuns medicalas, al register davart las professiuns psicologicas ed al register naziunal davart las persunas spezialisadas dal sectur da sanadad (NAREG) las datas prescrittas dal dretg federal.
+<sup>1</sup> Per las incumbensas che la Lescha da sanadad surdat al chantun è cumpetent l'Uffizi da sanadad, nun che questas incumbensas sajan vegnidas affidadas ad in auter uffizi. L'Uffizi da sanadad è er cumpetent per communitgar al register davart las professiuns medicalas, al register davart las professiuns psicologicas ed al register naziunal davart las persunas spezialisadas dal sectur da sanadad (NAREG) las datas prescrittas dal dretg federal.
 
 <sup>1<sup>bis</sup></sup> La Regenza po surdar a terzas persunas las incumbensas tenor l'artitgel 5 alinea 1 litera a, litera b e litera h da la Lescha da sanadad[^1-1].
 
 <sup>2</sup> La promoziun da la sanadad e la prevenziun en il sectur da scola èn chaussa:
 
 - a) en il sectur da la scolina e da la scola populara: da l'uffizi per la scola populara ed il sport;
-- b) en il sectur da la scola media e da las scolas autas: da l'uffizi per la furmaziun media-superiura;
+- b) en il sectur da la scola media e da las scolas autas: da l'Uffizi da scolas medias e furmaziun terziara;
 - c) en la scola professiunala: da l'uffizi per la furmaziun professiunala.
 
-<sup>3</sup> La prevenziun secundara e terziara da dependenza è chaussa da l'uffizi dal servetsch social.
+<sup>3</sup> La prevenziun secundara e terziara da dependenza è chaussa da l'Uffizi da fatgs socials.
 
-<sup>4</sup> La protecziun da la sanadad en il senn da la legislaziun da lavur e da la legislaziun davart l'assicuranza d'accidents è – uschenavant ch'ella pertutga il chantun – chaussa da l'uffizi per industria, mastergn e lavur.
+<sup>4</sup> La protecziun da la sanadad en il senn da la legislaziun da lavur e da la legislaziun davart l'assicuranza d'accidents è – uschenavant ch'ella pertutga il chantun – chaussa da l'Uffizi da lavur.
 
 [^1-1]: DG [500.000](https://www.gr-lex.gr.ch/data/500.000/rm)
 
@@ -137,7 +136,7 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> Lavurs da tgira dastgan vegnir fatgas mo da persunas spezialisadas e da persunas d'assistenza dal sectur da la tgira ed assistenza.
 
-<sup>2</sup> L'uffizi da sanadad maina ina glista da las professiuns dal sectur da la tgira ed assistenza. La glista cuntegna las professiuns da las persunas spezialisadas e da las persunas d'assistenza.
+<sup>2</sup> L'Uffizi da sanadad maina ina glista da las professiuns dal sectur da la tgira ed assistenza. La glista cuntegna las professiuns da las persunas spezialisadas e da las persunas d'assistenza.
 
 <sup>3</sup> Per far lavurs da tgira ston las persunas che possedan in diplom ester laschar renconuscher quel da la crusch cotschna svizra.
 
@@ -149,7 +148,16 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> Ils ospitals, las clinicas e las chasas da parturir adempleschan las pretensiuns quantitativas areguard il persunal, sch'igl è avant maun il dumber da persunal ch'è necessari per tractar e per tgirar en moda adequata las pazientas ed ils pazients, per garantir la qualitad e per assister las emprendistas ed ils emprendists.
 
-<sup>2</sup> Per plazza da tgira ed assistenza a temp cumplain èn ils ospitals publics e las clinicas publicas obligads da realisar 11,9 emnas da scolaziun e da furmaziun supplementara per las professiuns da tgira ed assistenza. L'uffizi da sanadad po permetter excepziuns en il cas singul.
+<sup>2</sup> Per mintga plazza da tgira ed assistenza a temp cumplain èn ils ospitals publics e las clinicas publicas obligads da realisar 15,5 emnas da scolaziun e da furmaziun supplementara per las professiuns da tgira ed assistenza. Da quai ston 8 emnas vegnir realisadas per spezialistas e spezialists da sanadad AFQ e 5,8 emnas per tgirunzas diplomadas e tgirunzs diplomads SSS u SAS.
+
+<sup>2<sup>bis</sup></sup> Il grad d'adempliment da questa prescripziun importa:
+
+- a) per l'onn chalendar 2025 — 75 %
+- b) per l'onn chalendar 2026 — 80 %
+- c) per l'onn chalendar 2027 — 85 %
+- d) per l'onn chalendar 2028 — 90 %
+- e) per l'onn chalendar 2029 — 95 %
+- f) a partir da l'onn chalendar 2030 — 100 %
 
 <sup>3</sup> Tut tenor la grondezza dal manaschi mettan ils ospitals e las clinicas a disposiziun in dumber adequat da posts da furmaziun supplementara per medias e medis d'assistenza a norma da l'urden da furmaziun supplementara da la federaziun da las medias e dals medis svizzers (FMH). Il dumber da posts da furmaziun supplementara vegn fixà tranter ils ospitals respectivamain las clinicas ed il chantun.
 
@@ -179,7 +187,7 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 **Rapport da qualitad**
 
-<sup>1</sup> Ils ospitals e las clinicas ston inoltrar a l'uffizi da sanadad in rapport da qualitad tenor il model da H+ Ils ospitals da la Svizra.
+<sup>1</sup> Ils ospitals e las clinicas ston inoltrar a l'Uffizi da sanadad in rapport da qualitad tenor il model da H+ Ils ospitals da la Svizra.
 
 #### Art. 15
 
@@ -193,9 +201,9 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 **Pretensiuns envers las localitads**
 
-<sup>1</sup> Ils manaschis adempleschan las pretensiuns envers las localitads, sche la concepziun dal spazi correspunda a la norma SIA 500 "Edifizis senza obstachels", als fegls d'infurmaziun 7/10 e 5/98 dal center svizzer per la construcziun adattada a las persunas cun impediments sco er a las pretensiuns che l'uffizi da sanadad fa envers las localitads ed ils implants al liber sco er envers las staziuns per persunas cun demenza en chasas da tgira.
+<sup>1</sup> Ils manaschis adempleschan las pretensiuns envers las localitads, sche la concepziun dal spazi correspunda a la norma SIA 500 "Edifizis senza obstachels", als fegls d'infurmaziun 7/10 e 5/98 dal Center svizzer per la construcziun adattada a las persunas cun impediments sco er a las pretensiuns che l'Uffizi da sanadad fa envers las localitads ed ils implants al liber sco er envers las staziuns per persunas cun demenza en chasas da tgira.
 
-<sup>2</sup> L'uffizi da sanadad po permetter excepziuns da cas a cas.
+<sup>2</sup> L'Uffizi da sanadad po permetter excepziuns da cas a cas.
 
 #### Art. 17
 
@@ -220,12 +228,12 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> Ils manaschis adempleschan las pretensiuns qualitativas areguard il persunal, sche:
 
-- a) la manadra u il manader da la purschida posseda ina scolaziun respectiva ch'è renconuschida da l'uffizi da sanadad;
-- b) la manadra u il manader dal sectur da la tgira ed assistenza posseda ina furmaziun supplementara ch'è renconuschida da l'uffizi da sanadad en il sectur da la gestiun ed en gerontologia;
+- a) la manadra u il manader da la purschida posseda ina scolaziun respectiva ch'è renconuschida da l'Uffizi da sanadad;
+- b) la manadra u il manader dal sectur da la tgira ed assistenza posseda ina furmaziun supplementara ch'è renconuschida da l'Uffizi da sanadad en il sectur da la gestiun ed en gerontologia;
 - c) la quota dal persunal spezialisà per la tgira importa 40 pertschient dal persunal ch'è minimalmain necessari per il sectur da la tgira ed assistenza;
 - d) 15 pertschient dal persunal dal sectur da la tgira ed assistenza ch'è minimalmain necessari possedan in diplom sco tgirunza u tgirunz SAS ubain sco tgirunza u tgirunz SSS.
 
-<sup>2</sup> Ils manaschis adempleschan las pretensiuns quantitativas areguard il persunal, sch'il plan da plazzas previs da l'uffizi da sanadad per ina tgira ed assistenza adequata da las abitantas e dals abitants vegn ademplì.
+<sup>2</sup> Ils manaschis adempleschan las pretensiuns quantitativas areguard il persunal, sch'il plan da plazzas previs da l'Uffizi da sanadad per ina tgira ed assistenza adequata da las abitantas e dals abitants vegn ademplì.
 
 <sup>3</sup> L'Uffizi da sanadad po permetter excepziuns da cas a cas.
 
@@ -235,10 +243,17 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> Per onn d'emprendissadi èn ils manaschis obligads da scolar:
 
-- a) emprendistas ed emprendists che frequentan la scolaziun sco spezialista u spezialist da sanadad, en la dimensiun d'in 20avel dal dumber da persunal ch'è necessari per ina tgira ed assistenza adequata;
-- b) studentas e students da la scola spezialisada superiura da tgira (SSS-tgira) en la dimensiun d'in 60avel dal dumber da persunal ch'è necessari per ina tgira ed assistenza adequata.
+- a) emprendistas ed emprendists che frequentan la scolaziun sco spezialista u spezialist da sanadad AFQ, en la dimensiun da 2,3 emnas per mintga plazza a temp cumplain dal dumber da persunal ch'è necessari per ina tgira ed assistenza adequata;
+- b) studentas e students da la scola spezialisada superiura da tgira (SSS-tgira) sco er da las scolas autas spezialisadas da tgira (SAS-tgira), en la dimensiun da 0,4 emnas per mintga plazza a temp cumplain dal dumber da persunal ch'è necessari per ina tgira ed assistenza adequata.
 
-<sup>2</sup> L'uffizi da sanadad po prevair excepziuns da cas a cas.
+<sup>2</sup> Il grad d'adempliment da questa prescripziun importa:
+
+- a) per l'onn chalendar 2025 — 75 %
+- b) per l'onn chalendar 2026 — 80 %
+- c) per l'onn chalendar 2027 — 85 %
+- d) per l'onn chalendar 2028 — 90 %
+- e) per l'onn chalendar 2029 — 95 %
+- f) a partir da l'onn chalendar 2030 — 100 %
 
 ### 4.4. Servetschs da la tgira ed assistenza a chasa
 
@@ -264,7 +279,7 @@ relaschada da la regenza ils 20 da zercladur 2017
 - a) la manadra u il manader dal sectur da la tgira ed assistenza posseda ina furmaziun supplementara ch'è renconuschida da l'Uffizi da sanadad.
 - b) …
 
-<sup>2</sup> Per las pretensiuns envers la furmaziun supplementara po l'uffizi da sanadad conceder excepziuns per in temp limità.
+<sup>2</sup> Per las pretensiuns envers la furmaziun supplementara po l'Uffizi da sanadad conceder excepziuns per in temp limità.
 
 #### Art. 22
 
@@ -272,10 +287,17 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> Per onn d'emprendissadi èn ils servetschs da la tgira ed assistenza a chasa obligads da scolar:
 
-- a) emprendistas ed emprendists che frequentan la scolaziun sco spezialista u spezialist da sanadad, en la dimensiun d'in 20avel dal dumber da persunal effectiv da la tgira ed assistenza;
-- b) durant ils emprims 2 onns d'emprendissadi studentas e students da la scola spezialisada superiura da tgira (SSS-tgira) en la dimensiun d'in 60avel dal dumber da persunal effectiv da la tgira ed assistenza.
+- a) emprendistas ed emprendists che frequentan la scolaziun sco spezialista u spezialist da sanadad AFQ, en la dimensiun da 2,3 emnas per mintga plazza a temp cumplain dal dumber da persunal effectiv da la tgira ed assistenza;
+- b) studentas e students da la scola spezialisada superiura da tgira (SSS-tgira) sco er da las scolas autas spezialisadas da tgira (SAS-tgira), en la dimensiun da 0,4 emnas per mintga plazza a temp cumplain dal dumber da persunal effectiv da la tgira ed assistenza.
 
-<sup>2</sup> L'Uffizi da sanadad po permetter excepziuns da cas a cas.
+<sup>2</sup> Il grad d'adempliment da questa prescripziun importa:
+
+- a) per l'onn chalendar 2025 — 75 %
+- b) per l'onn chalendar 2026 — 80 %
+- c) per l'onn chalendar 2027 — 85 %
+- d) per l'onn chalendar 2028 — 90 %
+- e) per l'onn chalendar 2029 — 95 %
+- f) a partir da l'onn chalendar 2030 — 100 %
 
 ### 4.5. Transport commerzial da persunas malsaunas e disgraziadas
 
@@ -335,7 +357,7 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> La durada minimala e la dimensiun minimala dal perfecziunament per las professiuns ch'èn suttamessas en la Lescha da sanadad a l'obligaziun da dumandar ina permissiun sa drizzan tenor las regulaziuns respectiva da l'organisaziun professiunala correspundenta respectivamain da la federaziun professiunala correspundenta, uschenavant che lur intent è quel da garantir in provediment d'auta qualitad e fidà da la populaziun.
 
-<sup>2</sup> L'uffizi da sanadad po incumbensar las organisaziuns professiunalas respectivamain las federaziuns professiunalas da controllar, sche la durada e la dimensiun da las pretensiuns specificas per la professiun envers il perfecziunament vegnan observadas.
+<sup>2</sup> L'Uffizi da sanadad po incumbensar las organisaziuns professiunalas respectivamain las federaziuns professiunalas da controllar, sche la durada e la dimensiun da las pretensiuns specificas per la professiun envers il perfecziunament vegnan observadas.
 
 #### Art. 29
 
@@ -438,7 +460,7 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 **Autoritad executiva**
 
-<sup>1</sup> L'uffizi da sanadad exequescha las incumbensas che la legislaziun federala davart il cumbat cunter malsognas transmissiblas attribuescha al chantun.
+<sup>1</sup> L'Uffizi da sanadad exequescha las incumbensas che la legislaziun federala davart il cumbat cunter malsognas transmissiblas attribuescha al chantun.
 
 ## 8. Protecziun cunter radiaziuns nunionisantas en solariums ed en la cosmetica
 
