@@ -4,11 +4,11 @@ title: "Ordinanza del 14 ottobre 2015 sulle concessioni, sulla pianificazione e 
 short: OCPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/697"
 language: it
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2015-10-14
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-697-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-697-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20210101/it"
 
 (OCPF)
 
-del 14 ottobre 2015 (Stato 1° gennaio 2021)
+del 14 ottobre 2015 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 1 capoverso 3, 6, 8, 9*b*, 57 capoverso 3 e 97 della legge federale del 20 dicembre 1957[^ingress-1] sulle ferrovie (Lferr),[^ingress-2]
+visti gli articoli 1 capoverso 3, 6, 8, 9*b*, 57 capoverso 3 e 97 della legge federale del 20 dicembre 1957[^ingress-1] sulle ferrovie (Lferr);
+
+visto l’articolo 35 capoverso 3 della legge del 20 marzo 2009[^ingress-2] sul trasporto di viaggiatori (LTV),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-3]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -41,23 +44,39 @@ La presente ordinanza disciplina:
 - c. la pianificazione del mantenimento della qualità dell’infrastruttura;
 - d. la pianificazione dell’ampliamento dell’infrastruttura;
 - e. il finanziamento dell’esercizio, del mantenimento della qualità e dell’ampliamento dell’infrastruttura;
+- e<sup>bis</sup>.[^1-1] la presentazione dei conti;
 - f. il finanziamento degli investimenti in impianti a fune;
 - g. la concessione di aiuti finanziari per gravi danni causati da calamità naturali;
-- h.[^1-1] il finanziamento della ricerca.
+- h.[^1-2] il finanziamento della ricerca.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^1-1]: Introdotta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 2
 
-**Separazione tra trasporti e infrastruttura: portata della separazione**
+**Separazione del settore dell’infrastruttura dagli altri settori: portata della separazione[^2-1]**
 
 <sup>1</sup> Nel bilancio del gestore dell’infrastruttura gli impianti dell’infrastruttura e il relativo finanziamento devono essere esposti separatamente dagli altri settori.
 
 <sup>2</sup> L’Ufficio federale dei trasporti (UFT) può obbligare il gestore dell’infrastruttura a separare i fondi di investimento per l’infrastruttura dalle altre liquidità.
 
+<sup>3</sup> Nel conto delle immobilizzazioni e degli ammortamenti e nel conto degli investimenti il settore dell’infrastruttura deve essere completamente separato dagli altri settori dell’impresa o essere nettamente distinto con l’ausilio di totali intermedi.[^2-2]
+
+<sup>4</sup> I valori d’acquisto e contabili del settore dell’infrastruttura devono essere documentati separatamente nel bilancio o nell’allegato del conto annuale. [^2-3]
+
+<sup>5</sup> Gli ammortamenti del settore dell’infrastruttura devono essere documentati separatamente nel conto economico o nell’allegato del conto annuale. Le imprese che non tengono un conto dei costi d’esercizio e delle prestazioni devono strutturare il proprio conto economico assicurando la separazione o distinzione di cui al capoverso 3.[^2-4]
+
+<sup>6</sup> Il conto delle immobilizzazioni e degli ammortamenti deve essere strutturato almeno secondo i generi d’impianto e i tipi d’impianto principali.[^2-5]
+
+[^2-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-2]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-3]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-4]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-5]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
 #### Art. 3
 
-**Separazione tra trasporti e infrastruttura: conto per settori**
+**Separazione del settore dell’infrastruttura dagli altri settori: conto per settori[^3-1]**
 
 <sup>1</sup> L’UFT può obbligare il gestore dell’infrastruttura a suddividere il settore dell’infrastruttura per tratte e nodi ferroviari.
 
@@ -65,7 +84,12 @@ La presente ordinanza disciplina:
 
 <sup>3</sup> Se le esigenze stabilite ai capoversi 1 e 2 non possono essere soddisfatte diversamente, il gestore dell’infrastruttura deve tenere un conto dei costi di esercizio e un conto delle prestazioni. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) disciplina i dettagli della tenuta dei conti.
 
+<sup>3bis</sup> Se l’impresa tiene una rubrica settoriale per l’infrastruttura nel conto dei costi d’esercizio e delle prestazioni, l’articolo 66 capoverso 3 Lferr è considerato rispettato.[^3-2]
+
 <sup>4</sup> L’UFT può esonerare i gestori dell’infrastruttura esteri dall’obbligo di tenere un conto per settori, se i costi non coperti delle tratte interessate possono essere documentati in altro modo.
+
+[^3-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^3-2]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 4
 
@@ -84,19 +108,32 @@ Gli investimenti nel mantenimento della qualità servono:
 - a. a rinnovare in modo pianificato l’infrastruttura;
 - b. a rispettare le prescrizioni e gli standard determinanti;
 - c. a garantire la capacità di trasporto, la stabilità dell’orario e l’efficienza della manutenzione esistenti;
-- d. ad assorbire l’evoluzione della domanda senza treni-chilometri supplementari nel traffico viaggiatori e nel trasporto di merci[^5-1];
+- d.[^5-1]
+
+  ad assorbire l’evoluzione della domanda:
+
+  - 1\. nel traffico viaggiatori senza treni-chilometri supplementari,
+  - 2\. nel trasporto di merci senza tracce supplementari;
+
 - e. ad adeguare l’alimentazione elettrica, i sistemi di informazione e le installazioni per la comunicazione alle esigenze del traffico.
 
 <sup>2</sup>
 
 Gli investimenti nell’ampliamento servono:
 
-- a. ad aumentare la capacità ai fini della produzione di treni-chilometri supplementari nel traffico viaggiatori e nel trasporto di merci;
+- a.[^5-2]
+
+  ad aumentare la capacità:
+
+  - 1\. per treni-chilometri supplementari nel traffico viaggiatori,
+  - 2\. per tracce supplementari nel trasporto di merci;
+
 - b. a ridurre i tempi di percorrenza.
 
 <sup>3</sup> Se le misure previste per il flusso degli utenti in una delle stazioni indicate nell’allegato richiedono investimenti superiori a dieci milioni di franchi, tali misure sono considerate un ampliamento.
 
-[^5-1]: Nuova espr. giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^5-2]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -395,12 +432,14 @@ Possono essere altresì oggetto del finanziamento:
 
 Sono considerate tratte per il collegamento capillare, e come tali escluse dalle prestazioni federali secondo l’articolo 49 Lferr, le tratte:
 
-- a. sulle quali sono effettuati per la maggior parte servizi di trasporto di cui all’articolo 3 o 7 capoverso 7 dell’ordinanza dell’11 novembre 2009[^22-1] sulle indennità per il traffico regionale;
-- b. le cui fermate non distano, per la maggior parte, più di 1,5 km una dall’altra e che non servono al collegamento con altre località.
+- a. destinate prevalentemente alle offerte secondo l’articolo 5 capoverso 4 dell’ordinanza del 4 novembre 2009[^22-1] sul trasporto di viaggiatori o l’articolo 8 capoverso 7 dell’ordinanza del 16 ott. 2024[^22-2] sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori (OITRV); oppure
+- b. le cui fermate non distano, per la maggior parte, più di 1,5 km una dall’altra e non servono al collegamento di altre località alla rete ferroviaria.[^22-3]
 
 <sup>2</sup> Le tratte per il collegamento capillare sono determinate al rilascio della concessione o, su domanda di un Cantone, prima della stipula della convenzione sulle prestazioni.
 
-[^22-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^22-2]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-3]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 23
 
@@ -424,14 +463,14 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>3</sup> I costi dei progetti devono essere esposti per i generi di impianti prestabiliti. L’UFT può ammettere semplificazioni.
 
-<sup>4</sup> Il gestore dell’infrastruttura fornisce alle imprese che intendono esercitare il diritto di partecipazione di cui all’articolo 37*a* Lferr le necessarie indicazioni sui progetti contenuti nel piano di investimento. Su richiesta spiega loro perché determinati investimenti non sono stati integrati nel piano di investimento.[^24-2]
+<sup>4</sup> Il gestore dell’infrastruttura fornisce alle imprese che intendono esercitare il diritto di partecipazione di cui all’articolo 37*a* Lferr le necessarie indicazioni sui progetti contenuti nel piano di investimento. Su richiesta spiega loro perché determinati investimenti non sono stati integrati nel piano di investimento. Le risposte alle richieste devono essere trasmesse per scritto a tutte le imprese di trasporto ferroviario interessate e a tutti i raccordati interessati.[^24-2]
 
 <sup>5</sup> Le imprese possono sottoporre all’UFT per decisione le proprie esigenze di cui il gestore dell’infrastruttura non ha tenuto conto. L’UFT decide definitivamente.[^24-3]
 
 <sup>6</sup> Se la controversia verte sulla violazione del diritto di partecipazione, è escluso l’esame di merito dei progetti d’investimento. La Commissione del trasporto ferroviario (ComFerr) decide definitivamente.[^24-4]
 
 [^24-1]: Nuovo testo giusta il n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^24-2]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^24-2]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^24-3]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 [^24-4]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -453,9 +492,10 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>1</sup> Nelle convenzioni sulla rimunerazione per l’utilizzazione di costruzioni, impianti e installazioni (art. 34 cpv. 2 e 35 Lferr), in particolare terreni e punti di vendita, le imprese di trasporto prendono in considerazione gli interessi dei committenti delle offerte di trasporto secondo l’articolo 28 LTV[^26-1].
 
-<sup>2</sup> In particolare convengono rimunerazioni che, oltre all’imputazione dei costi finanziari, prevedono un interesse calcolato. Questo generalmente non supera cinque franchi per metro quadrato e per anno.
+<sup>2</sup> Convengono rimunerazioni che coprono i costi integrali secondo l’articolo 64 Lferr. Le rimunerazioni non devono comprendere un interesse calcolato.[^26-2]
 
 [^26-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^26-2]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 6: Finanziamento dell’esercizio e del mantenimento della qualità
 
@@ -473,11 +513,17 @@ All’offerta vanno allegati in particolare i seguenti documenti:
 - b. la pianificazione a medio termine e il piano di investimento;
 - c. i valori di riferimento proposti per gli indicatori ai fini della misurazione delle prestazioni;
 - d. se del caso, le motivazioni delle differenze rispetto alle pianificazioni precedenti e all’ultimo conto annuale;
-- e. il rapporto annuale sullo stato della rete;
-- f. il riepilogo dei costi pianificati;
+- e.[^27-1] ...
+- f.[^27-2] il riepilogo dei ricavi e dei costi pianificati;
 - g. una dichiarazione che confermi il rispetto delle direttive finanziarie e funzionali.
 
 <sup>3</sup> I documenti vanno inoltrati in formato elettronico.
+
+<sup>4</sup> L’UFT disciplina il grado di dettaglio dei documenti. Nel singolo caso può esigere una strutturazione più dettagliata o concedere agevolazioni.[^27-3]
+
+[^27-1]: Abrogata l’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-2]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-3]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 28
 
@@ -514,13 +560,15 @@ I Cantoni o terzi possono convenire con un’impresa ferroviaria di anticipare u
 
 <sup>1</sup> L’UFT ha il diritto di consultare i documenti e i dati dei gestori dell’infrastruttura concernenti il settore infrastruttura.
 
-<sup>2</sup> I gestori dell’infrastruttura presentano periodicamente all’UFT un rapporto riguardante il raggiungimento degli obiettivi, lo stato della rete, il volume di traffico e il grado di sfruttamento dell’infrastruttura nonché lo stato degli investimenti e il coinvolgimento delle imprese di trasporto ferroviario. L’UFT disciplina i dettagli del rendiconto.
+<sup>2</sup> I gestori dell’infrastruttura presentano periodicamente all’UFT un rapporto riguardante il raggiungimento degli obiettivi, lo stato della rete, il volume di traffico e il grado di sfruttamento dell’infrastruttura nonché lo stato degli investimenti e il coinvolgimento delle imprese di trasporto ferroviario. L’UFT disciplina i dettagli del rendiconto. Nel singolo caso può esigere una strutturazione più dettagliata o concedere agevolazioni.[^31-1]
 
 <sup>3</sup> L’UFT può pubblicare i rapporti.
 
 <sup>4</sup> Se le prestazioni ordinate non sono fornite come convenuto o se gli obiettivi o i termini fissati non sono rispettati, l’UFT può disporre le misure del caso o esigere il rimborso di prestazioni finanziarie.
 
 <sup>5</sup> Se un progetto comporta rischi notevoli, in particolare geologici, l’UFT può esigere un rendiconto specifico secondo l’articolo 37 capoverso 1.
+
+[^31-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 7: Finanziamento dell’ampliamento
 
@@ -610,15 +658,54 @@ Le convenzioni per il prefinanziamento di misure già decise devono rispettare i
 
 <sup>3</sup> Redige annualmente un rapporto sullo stato dei lavori di ampliamento.
 
-## Sezione 7*a*:**** Convenzione su compiti sistemici
+## Sezione 7*a*: Convenzione su compiti sistemici
 
 [^sec7a-1]
 
 [^sec7a-1]: Introdotta dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
-**Art. 37**a
+#### Art. 37a
 
 La convenzione su compiti sistemici di cui all’articolo 37 Lferr ha durata illimitata. Può essere denunciata con un preavviso di 12 mesi per la fine di un anno civile.
+
+## Sezione 7*b*: Presentazione dei conti
+
+[^sec7b-1]
+
+[^sec7b-1]: Introdotta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 37b
+
+**Modifica della durata di utilizzazione**
+
+<sup>1</sup> Al settore dell’infrastruttura possono essere imputati ammortamenti solo fino a un valore contabile pari a zero.
+
+<sup>2</sup> Se la durata di utilizzazione di un impianto è oggetto di una rivalutazione, il valore contabile residuo deve essere ammortizzato in base alla durata di utilizzazione residua ridefinita.
+
+<sup>3</sup> In caso di liquidazioni di impianti (risultati di alienazioni), i ricavi e i costi, comprensivi dei valori contabili residui, devono essere contabilizzati nel settore che ha assunto i costi degli impianti.
+
+<sup>4</sup> I ricavi presumibili di alienazioni nel settore dell’infrastruttura direttamente connesse con rinnovi, ampliamenti o sostituzioni previsti devono essere iscritti separatamente nel piano di investimento.
+
+#### Art. 37c
+
+**Strutturazione dei ricavi e dei costi**
+
+<sup>1</sup> L’UFT prescrive la strutturazione dei ricavi e dei costi per il conto dei costi d’esercizio e delle prestazioni come pure per la presentazione dell’offerta.
+
+<sup>2</sup>
+
+Nel settore dell’infrastruttura le indennità e gli eventuali utili da attività accessorie accreditati all’infrastruttura devono essere documentati almeno secondo i seguenti criteri:
+
+- a. indennità ai sensi dell’articolo 51*b* Lferr;
+- b. utili da attività accessorie accreditati all’infrastruttura
+
+#### Art. 37d
+
+**Gestori dell’infrastruttura in senso stretto**
+
+Per i gestori dell’infrastruttura in senso stretto si applicano le disposizioni sulla presentazione dei conti di cui agli articoli 2, 32 capoversi 1 e 5, 35, 59, 60 capoversi 3, 5 e 6, 61–63, 64 capoversi 2–3 e 66 OITRV[^37d-1].
+
+[^37d-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
 
 ## Sezione 8: Investimenti in impianti a fune
 
@@ -626,10 +713,11 @@ La convenzione su compiti sistemici di cui all’articolo 37 Lferr ha durata ill
 
 <sup>1</sup> In caso di investimenti in impianti a fune beneficiari di indennità della Confederazione e dei Cantoni secondo gli articoli 28–31*c* LTV[^38-1], si possono concludere convenzioni di finanziamento. Esse sono valide fino alla conclusione del progetto.
 
-<sup>2</sup> Sono considerati investimenti nell’infrastruttura di impianti a fune ai sensi dell’articolo 18*a* lettera b della legge del 23 giugno 2006[^38-2] sugli impianti a fune il 50 per cento degli investimenti complessivi. I contributi agli investimenti sono concessi a fondo perso.
+<sup>2</sup> Sono considerati investimenti nell’infrastruttura di imprese di trasporto a fune ai sensi dell’articolo 16 capoverso 3 della legge del 23 giugno 2006[^38-2] sugli impianti a fune il 50 per cento degli investimenti complessivi. I contributi agli investimenti sono concessi a fondo perso.[^38-3]
 
 [^38-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^38-2]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^38-3]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 9: Danni causati dalle forze della natura
 
@@ -655,7 +743,7 @@ Nel determinare l’importo dell’aiuto finanziario si tiene conto dei contribu
 
 <sup>3</sup> Vigila affinché i contributi federali siano impiegati secondo le disposizioni ed esamina e approva i conteggi. Può concedere anticipi in caso d’urgenza.
 
-## Sezione 10: Ricerca****
+## Sezione 10: Ricerca
 
 [^sec10-1]
 

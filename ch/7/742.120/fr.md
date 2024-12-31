@@ -4,11 +4,11 @@ title: "Ordonnance du 14 octobre 2015 sur les concessions, la planification et l
 short: OCPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/697"
 language: fr
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2015-10-14
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-697-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-697-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20210101/fr"
 
 (OCPF)
 
-du 14 octobre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 14 octobre 2015 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 1, al. 3, 6, 8, 9*b*, 57, al. 3, et 97 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-1],[^ingress-2]
+vu les art. 1, al. 3, 6, 8, 9*b*, 57, al. 3, et 97 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-1], vu l’art. 35, al. 3, de la loi du 20 mars 2009 sur le transport de voyageurs (LTV)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 1 Dispositions générales
 
@@ -41,31 +42,53 @@ La présente ordonnance régit:
 - c. la planification du maintien de la qualité des infrastructures;
 - d. la planification de l’aménagement de l’infrastructure;
 - e. le financement de l’exploitation, du maintien de la qualité et de l’aménagement de l’infrastructure;
+- e<sup>bis</sup>.[^1-1] la présentation des comptes;
 - f. le financement des investissements dans les installations de transport à câbles;
 - g. l’allocation d’aides financières en cas de dégâts considérables dus aux phénomènes naturels;
-- h.[^1-1] le financement de la recherche.
+- h.[^1-2] le financement de la recherche.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^1-1]: Introduite par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 2
 
-**Séparation du transport et de l’infrastructure: portée**
+**Séparation du secteur Infrastructure des autres secteurs: portée[^2-1]**
 
 <sup>1</sup> Les installations de l’infrastructure et le financement y relatif sont présentés séparément des autres secteurs dans le bilan des gestionnaires d’infrastructure.
 
 <sup>2</sup> L’Office fédéral des transports (OFT) peut obliger les gestionnaires d’infrastructure à séparer les fonds d’investissement destinés à l’infrastructure des autres liquidités.
 
+<sup>3</sup> Le secteur Infrastructure et les autres secteurs de l’entreprise sont complètement séparés dans le compte des immobilisations et des amortissements, ainsi que dans le compte des investissements, ou structurés à l’aide de totaux intermédiaires de sorte que la séparation soit visible.[^2-2]
+
+<sup>4</sup> Les valeurs d’acquisition et les valeurs comptables du secteur Infrastructure sont présentées séparément dans le bilan ou dans l’annexe des comptes annuels.[^2-3]
+
+<sup>5</sup> Les amortissements du secteur Infrastructure sont présentés séparément dans le compte de résultat ou dans l’annexe des comptes annuels. Les entreprises qui ne tiennent pas de comptabilité analytique structurent leur compte de résultat de sorte que la séparation visée à l’al. 3 soit visible.[^2-4]
+
+<sup>6</sup> Le compte des immobilisations et des amortissements doit être au moins structuré par catégorie d’installation et type d’installation principale.[^2-5]
+
+[^2-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-2]: Introduit par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-3]: Introduit par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-4]: Introduit par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-5]: Introduit par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
 #### Art. 3
 
-**Séparation du transport et de l’infrastructure: comptes par secteurs**
+**Séparation du secteur Infrastructure des autres secteurs: comptes par secteurs[^3-1]**
 
-<sup>1</sup> L’OFT peut obliger les gestionnaires d’infrastructure à subdiviser leur secteur d’infrastructure en tronçons et en nœuds.
+<sup>1</sup> L’OFT peut obliger les gestionnaires d’infrastructure à subdiviser le secteur Infrastructure en tronçons et en nœuds.[^3-2]
 
 <sup>2</sup> Les compensations accordées au titre des prestations autres que l’accès au réseau et qui sont fournies avec le personnel et les installations de l’infrastructure sont considérées comme des produits annexes. Elles doivent au moins couvrir les coûts marginaux. Sont également considérées comme des produits annexes de l’infrastructure les compensations accordées au titre de l’utilisation d’ouvrages, d’installations, en particulier de biens-fonds, et d’aménagements au sens des art. 34 et 35 LCdF.
 
 <sup>3</sup> Si les exigences requises aux al. 1 et 2 ne peuvent être satisfaites autrement, les gestionnaires d’infrastructure doivent tenir un compte des coûts d’exploitation et un compte des prestations. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) règle les modalités de la tenue des comptes.
 
+<sup>3bis</sup> Lorsque la comptabilité analytique d’une entreprise comporte un secteur Infrastructure, les exigences de l’art. 66, al. 3, LCdF sont considérées comme remplies.[^3-3]
+
 <sup>4</sup> L’OFT peut exempter des gestionnaires d’infrastructure étrangers de l’obligation de tenir des comptes par secteurs si les coûts non couverts des tronçons concernés sont attestés par un autre moyen.
+
+[^3-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^3-2]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^3-3]: Introduit par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 4
 
@@ -84,17 +107,32 @@ Les investissements dans le maintien de la qualité des infrastructures servent:
 - a. au renouvellement ordinaire;
 - b. au respect de prescriptions légales et de standards déterminants;
 - c. à la conservation de la capacité du réseau, à la stabilité de l’horaire et aux solutions efficientes pour le maintien de la qualité des infrastructures;
-- d. à la maîtrise de l’évolution de la demande sans trains-kilomètres supplémentaires en transport de voyageurs ou de marchandises;
+- d.[^5-1]
+
+  à la maîtrise de l’évolution de la demande:
+
+  - 1\. sans trains-kilomètres supplémentaires en transport de voyageurs,
+  - 2\. sans sillons supplémentaires en transport de marchandises;
+
 - e. à l’adaptation de l’alimentation électrique, des systèmes d’information et des dispositifs de communication aux exigences du trafic.
 
 <sup>2</sup>
 
 Les investissements dans l’aménagement servent:
 
-- a. à l’augmentation de la capacité en vue de trains-kilomètres supplémentaires en transport de voyageurs ou de marchandises;
+- a.[^5-2]
+
+  à l’augmentation de la capacité:
+
+  - 1\. en vue de trains-kilomètres supplémentaires en transport de voyageurs,
+  - 2\. en vue de sillons supplémentaires en transport de marchandises;
+
 - b. à la réduction du temps de parcours.
 
 <sup>3</sup> Si les mesures destinées au flux des personnes dans les gares énumérées à l’annexe entraînent des investissements de plus de dix millions de francs, elles sont considérées comme un aménagement.
+
+[^5-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^5-2]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -297,7 +335,7 @@ Le rapport sur la prochaine étape d’aménagement contient notamment:
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
-## Section 4*a* Stratégie d’utilisation du réseau****
+## Section 4*a* Stratégie d’utilisation du réseau
 
 [^sec4a-1]
 
@@ -393,12 +431,15 @@ Peuvent également faire l’objet du financement:
 
 Sont considérés comme tronçons de desserte capillaire exclus des prestations fédérales conformément à l’art. 49 LCdF les tronçons:
 
-- a. qui font majoritairement l’objet d’offres conformément aux art. 3 ou 7, al. 7, de l’ordonnance du 11 novembre 2009 sur l’indemnisation du trafic régional de voyageurs[^22-1];
-- b. dont la plupart des arrêts ne sont pas plus éloignés les uns des autres de plus de 1,5 km et ne desservent pas d’autres localités.
+- a.[^22-1] qui font majoritairement l’objet d’offres conformément aux art. 5, al. 4, de l’ordonnance du 4 novembre 2009 sur le transport de voyageurs[^22-2] ou 8, al. 7, de l’ordonnance du 16 octobre 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs (OITRV)[^22-3];
+- b.[^22-4] dont la plupart des arrêts ne sont pas éloignés de plus de 1,5 km les uns des autres et ne raccordent pas d’autres localités au réseau ferroviaire.
 
 <sup>2</sup> Les tronçons de desserte capillaire sont déterminés lors de l’octroi de la concession ou sur demande d’un canton avant la conclusion de la convention de prestations.
 
-[^22-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^22-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^22-3]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-4]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 23
 
@@ -422,14 +463,14 @@ Sont considérés comme tronçons de desserte capillaire exclus des prestations 
 
 <sup>3</sup> Les coûts du projet doivent être attestés pour chaque groupe d’installations normé. L’OFT peut accorder des allégements.
 
-<sup>4</sup> Le gestionnaire d’infrastructure fournit aux entreprises qui souhaitent exercer leur droit de participation en vertu de l’art. 37*a* LCdF les renseignements nécessaires sur les projets qui figurent dans le plan d’investissement. Sur demande, il leur explique pourquoi certains investissements n’ont pas été intégrés au plan d’investissement.[^24-2]
+<sup>4</sup> Le gestionnaire d’infrastructure fournit aux entreprises qui souhaitent exercer leur droit de participation en vertu de l’art. 37*a* LCdF les renseignements nécessaires sur les projets qui figurent dans le plan d’investissement. Sur demande, il leur explique pourquoi certains investissements n’ont pas été intégrés au plan d’investissement. Les réponses du gestionnaire d’infrastructure aux demandes sont fournies par écrit à tous les raccordés et à toutes les entreprises de transport ferroviaires concernés.[^24-2]
 
 <sup>5</sup> Les entreprises peuvent soumettre leurs revendications non prises en compte à l’OFT pour décision. L’OFT statue définitivement.[^24-3]
 
 <sup>6</sup> En cas de litige concernant le non-respect du droit de participation, l’examen du contenu des projets d’investissement est exclu. La Commission des chemins de fer (RailCom) statue définitivement.[^24-4]
 
 [^24-1]: Nouvelle teneur selon le ch. I 3 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^24-2]: Introduit par le ch. I 3 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^24-2]: Introduit par le ch. I 3 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^24-3]: Introduit par le ch. I 3 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 [^24-4]: Introduit par le ch. I 3 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -451,9 +492,10 @@ Sont considérés comme tronçons de desserte capillaire exclus des prestations 
 
 <sup>1</sup> Dans les conventions sur les rémunérations versées au titre de l’utilisation d’ouvrages, d’installations – en particulier de biens-fonds et de points de vente –, et d’équipements (art. 34, al. 2, et 35 LCdF), les entreprises de transport prennent en considération les intérêts des commanditaires des prestations de transport visées à l’art. 28 LTV[^26-1].
 
-<sup>2</sup> Elles conviennent en particulier de compensations qui, en plus de l’imputation des coûts financiers, prévoient un intérêt calculé. Ce dernier ne s’élève généralement pas à plus de cinq francs par mètre carré et par an.
+<sup>2</sup> Elles conviennent de compensations qui couvrent intégralement les coûts visés à l’art. 64 LCdF et qui ne peuvent pas contenir d’intérêt calculé.[^26-2]
 
 [^26-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^26-2]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 6 Financement de l’exploitation et du maintien de la qualité des infrastructures
 
@@ -469,13 +511,20 @@ L’offre comprend notamment les documents suivants:
 
 - a. une description qualitative et quantitative de l’offre de prestations prenant en compte les impératifs généraux de la planification de l’infrastructure;
 - b. la planification à moyen terme et le plan d’investissement;
-- c. les valeurs-cibles proposées des indicateurs de mesure des prestations;
+- c.[^27-1] les valeurs-cibles proposées pour les chiffres-clés servant à mesurer les prestations;
 - d. le cas échéant, des justifications pour les écarts par rapport aux planifications antérieures et aux derniers comptes annuels;
-- e. le rapport annuel sur l’état du réseau de l’année précédente;
-- f. un récapitulatif des coûts planifiés;
+- e.[^27-2] …
+- f.[^27-3] un récapitulatif des recettes et coûts planifiés;
 - g. une confirmation du respect des prescriptions financières et fonctionnelles.
 
 <sup>3</sup> Les documents doivent être remis sous forme électronique, interprétable par ordinateur.
+
+<sup>4</sup> L’OFT règle le degré de détails des documents. Dans des cas particuliers, l’OFT peut demander une structure plus détaillée ou accorder des allègements.[^27-4]
+
+[^27-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-2]: Abrogée par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-4]: Introduit par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 28
 
@@ -487,8 +536,10 @@ La convention sur les prestations visée à l’art. 51 LCdF contient:
 - b. les objectifs prescrits;
 - c. la description des prestations à fournir, notamment des investissements à effectuer et de leur financement;
 - d. l’allocation des parts annuelles des indemnités d’exploitation et des contributions d’investissement de la Confédération;
-- e. les indicateurs et leurs valeurs-cibles servant à mesurer la réalisation des objectifs;
+- e.[^28-1] les chiffres-clés et leurs valeurs-cibles servant à mesurer la réalisation des objectifs;
 - f. les prescriptions relatives à l’établissement de rapports (art. 31).
+
+[^28-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 29
 
@@ -512,13 +563,15 @@ Les cantons ou des tiers peuvent convenir avec une entreprise ferroviaire d’an
 
 <sup>1</sup> L’OFT a le droit de consulter les documents et les données des gestionnaires d’infrastructure concernant le secteur Infrastructure.
 
-<sup>2</sup> Les gestionnaires d’infrastructure remettent périodiquement à l’OFT un rapport sur les objectifs atteints, sur l’état du réseau, sur la sollicitation et le taux d’utilisation de l’infrastructure, ainsi que sur l’avancement des investissements et sur la collaboration des entreprises de transport ferroviaire. L’OFT règle les détails de l’établissement des rapports.
+<sup>2</sup> Les gestionnaires d’infrastructure remettent périodiquement à l’OFT un rapport sur les objectifs atteints, sur l’état du réseau, sur la sollicitation et le taux d’utilisation de l’infrastructure, ainsi que sur l’avancement des investissements et sur la collaboration des entreprises de transport ferroviaire. L’OFT règle les détails de l’établissement des rapports. Il peut, au cas par cas, demander une structure plus détaillée ou accorder des allègements.[^31-1]
 
 <sup>3</sup> L’OFT peut publier les rapports.
 
 <sup>4</sup> Si les prestations commandées ne sont pas fournies comme convenu, si les objectifs ne sont pas atteints ou si les délais fixés ne sont pas respectés, l’OFT peut ordonner des mesures correctives ou exiger le remboursement de prestations financières.
 
 <sup>5</sup> Si un projet comporte des risques considérables, notamment géologiques, l’OFT peut exiger un rapport spécial conformément à l’art. 37, al. 1.
+
+[^31-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 7 Financement de l’aménagement
 
@@ -608,7 +661,7 @@ Les conventions sur le financement préalable de mesures décidées doivent resp
 
 <sup>3</sup> Il dresse annuellement un rapport sur l’avancement de l’aménagement.
 
-## Section 7*a***** Contrat concernant les tâches systémiques
+## Section 7*a* Contrat concernant les tâches systémiques
 
 [^sec7a-1]
 
@@ -618,16 +671,56 @@ Les conventions sur le financement préalable de mesures décidées doivent resp
 
 Le contrat concernant les tâches systémiques visées à l’art. 37 LCdF a une durée indéterminée. Il peut être résilié pour la fin d’une année civile moyennant un délai de douze mois.
 
+## Section 7*b* Présentation des comptes
+
+[^sec7b-1]
+
+[^sec7b-1]: Introduite par l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 37b
+
+**Modification de la durée d’utilisation**
+
+<sup>1</sup> Les amortissements ne peuvent être imputés au secteur Infrastructure que jusqu’à concurrence d’une valeur comptable nulle.
+
+<sup>2</sup> Si la durée d’utilisation d’une installation est réévaluée, la valeur comptable résiduelle est amortie en fonction de la durée d’utilisation restante ainsi calculée.
+
+<sup>3</sup> Les produits, les charges et les valeurs comptables résiduelles résultant de la liquidation d’installations (résultats d’aliénations) sont comptabilisés dans le secteur qui a supporté les coûts de ces installations.
+
+<sup>4</sup> Les produits d’aliénations prévisibles du secteur Infrastructure et se rapportant directement à une rénovation, à une extension ou à un remplacement planifié sont mentionnés séparément dans le plan d’investissement.
+
+#### Art. 37c
+
+**Structuration des recettes et des coûts**
+
+<sup>1</sup> L’OFT prescrit la structuration des recettes et des coûts pour la comptabilité analytique ainsi que pour l’offre.
+
+<sup>2</sup>
+
+Dans le secteur Infrastructure, les indemnités et les éventuels bénéfices d’activités annexes imputés à l’infrastructure sont présentés séparément au moins selon la structure suivante:
+
+- a. indemnités selon l’art. 51*b* LCdF;
+- b. bénéfices des activités annexes imputés à l’infrastructure.
+
+#### Art. 37d
+
+**Simples gestionnaires d’infrastructure**
+
+Les simples gestionnaires d’infrastructure sont régis par les dispositions relatives à la présentation des comptes des art. 2, 32, al. 1 et 5, 35, 59, 60, al. 3, 5 et 6, 61 à 63, 64, al. 2 à 3, et 66 OITRV[^37d-1].
+
+[^37d-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+
 ## Section 8 Investissements dans les installations de transport à câbles
 
 #### Art. 38
 
 <sup>1</sup> Les investissements dans les installations de transport à câbles indemnisées par la Confédération et les cantons conformément aux art. 28 à 31*c* LTV[^38-1] peuvent faire l’objet de conventions de financement. Ces conventions sont valables jusqu’à l’achèvement du projet.
 
-<sup>2</sup> Sont considérés comme investissements dans l’infrastructure des installations de transport à câbles au sens de l’art. 18*a*, let. b, de la loi du 23 juin 2006 sur les installations à câbles[^38-2] 50 % d’un investissement global. Les contributions d’investissement sont versées à fonds perdus.
+<sup>2</sup> Sont considérés comme investissements dans l’infrastructure des entreprises de transport à câbles au sens de l’art. 16, al. 3, de la loi du 23 juin 2006 sur les installations à câbles (LICa)[^38-2] 50 % d’un investissement global. Les contributions d’investissement sont versées à fonds perdu.[^38-3]
 
 [^38-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^38-2]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^38-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 9 Dégâts dus aux phénomènes naturels
 
@@ -653,7 +746,7 @@ Les contributions allouées par la Confédération en vertu d’autres actes lé
 
 <sup>3</sup> Il veille à ce que la contribution fédérale soit utilisée conformément aux prescriptions; par ailleurs, il examine et approuve les décomptes. En cas d’urgence, il peut accorder des avances.
 
-## Section 10 Recherche****
+## Section 10 Recherche
 
 [^sec10-1]
 

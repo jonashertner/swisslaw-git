@@ -4,11 +4,11 @@ title: "Verordnung vom 14. Oktober 2015 über die Konzessionierung, Planung und 
 short: KPFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/697"
 language: de
-version: 2021-01-01
+version: 2025-01-01
 adopted: 2015-10-14
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-697-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-697-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20210101/de"
 
 (KPFV)
 
-vom 14. Oktober 2015 (Stand am 1. Januar 2021)
+vom 14. Oktober 2015 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 1 Absatz 3, 6, 8, 9*b*, 57 Absatz 3 und 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-1] (EBG),[^ingress-2]
+gestützt auf die Artikel 1 Absatz 3, 6, 8, 9*b*, 57 Absatz 3 und 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-1] (EBG) und Artikel 35 Absatz 3 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-2] (PBG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^ingress-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -41,23 +42,39 @@ Diese Verordnung regelt:
 - c. die Planung des Substanzerhalts der Infrastruktur;
 - d. die Planung des Ausbaus der Infrastruktur;
 - e. die Finanzierung von Betrieb, Substanzerhalt und Ausbau der Infrastruktur;
+- e<sup>bis</sup>.[^1-1] die Rechnungslegung;
 - f. die Finanzierung der Investitionen in Seilbahnen;
 - g. die Gewährung von Finanzhilfen bei grossen Schäden durch Naturereignisse;
-- h.[^1-1] die Finanzierung von Forschung.
+- h.[^1-2] die Finanzierung von Forschung.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^1-1]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 2
 
-**Trennung von Verkehr und Infrastruktur: Umfang der Trennung**
+**Trennung der Sparte Infrastruktur von den übrigen Sparten: Umfang der Trennung[^2-1]**
 
 <sup>1</sup> Die Anlagen der Infrastruktur und die dazugehörende Finanzierung sind in der Bilanz der Infrastrukturbetreiberin von den anderen Bereichen getrennt auszuweisen.
 
 <sup>2</sup> Das Bundesamt für Verkehr (BAV) kann die Infrastrukturbetreiberin verpflichten, die Investitionsmittel der Infrastruktur von den übrigen flüssigen Mitteln zu trennen.
 
+<sup>3</sup> Die Sparte Infrastruktur und die übrigen Sparten des Unternehmens sind in der Anlagen- und Abschreibungsrechnung sowie in der Investitionsrechnung vollständig voneinander zu trennen oder mit Hilfe von Zwischensummen so zu gliedern, dass die Trennung ersichtlich ist.[^2-2]
+
+<sup>4</sup> In der Bilanz oder im Anhang der Jahresrechnung sind die Anschaffungs- und Buchwerte der Sparte Infrastruktur separat auszuweisen.[^2-3]
+
+<sup>5</sup> In der Erfolgsrechnung oder im Anhang der Jahresrechnung sind die Abschreibungen der Sparte Infrastruktur separat auszuweisen. Unternehmen, die keine Betriebskosten- und Leistungsrechnung führen, gliedern die Erfolgsrechnung so, dass die Trennung nach Absatz 3 ersichtlich ist.[^2-4]
+
+<sup>6</sup> Die Anlagen- und Abschreibungsrechnung ist mindestens nach den Anlagegattungen und Hauptanlagetypen zu gliedern.[^2-5]
+
+[^2-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-2]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-3]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-4]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-5]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
 #### Art. 3
 
-**Trennung von Verkehr und Infrastruktur: Spartenrechnung**
+**Trennung der Sparte Infrastruktur von den übrigen Sparten: Spartenrechnung[^3-1]**
 
 <sup>1</sup> Das BAV kann die Infrastrukturbetreiberin verpflichten, die Sparte Infrastruktur nach Strecken und Knoten zu gliedern.
 
@@ -65,7 +82,12 @@ Diese Verordnung regelt:
 
 <sup>3</sup> Lassen sich die Anforderungen nach den Absätzen 1 und 2 nicht anders darstellen, so muss die Infrastrukturbetreiberin eine Betriebskosten- und Leistungsrechnung führen. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) regelt die Einzelheiten der Rechnungsführung.
 
+<sup>3bis</sup> Führt ein Unternehmen in der Betriebskosten- und Leistungsrechnung eine Sparte Infrastruktur, so gilt Artikel 66 Absatz 3 EBG als erfüllt.[^3-2]
+
 <sup>4</sup> Das BAV kann ausländische Infrastrukturbetreiberinnen von der Pflicht zur Führung der Spartenrechnung befreien, wenn sich die ungedeckten Kosten der betreffenden Strecken auf andere Weise nachweisen lassen.
+
+[^3-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^3-2]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 4
 
@@ -84,19 +106,32 @@ Investitionen in den Substanzerhalt dienen:
 - a. der planmässigen Erneuerung der Infrastruktur;
 - b. der Einhaltung der massgebenden Vorschriften und Standards;
 - c. der Sicherung der bestehenden Leistungsfähigkeit, Fahrplanstabilität und Unterhaltseffizienz;
-- d. der Bewältigung der Nachfrageentwicklung ohne zusätzliche Zugskilometer im Personenverkehr und im Gütertransport[^5-1];
+- d.[^5-1]
+
+  der Bewältigung der Nachfrageentwicklung:
+
+  - 1\. im Personenverkehr ohne zusätzliche Zugskilometer,
+  - 2\. im Gütertransport ohne zusätzliche Trassen;
+
 - e. der Anpassung der Stromversorgung, der Informationssysteme und der Kommunikationseinrichtungen an die Erfordernisse des Verkehrs.
 
 <sup>2</sup>
 
 Investitionen in den Ausbau dienen:
 
-- a. der Erhöhung der Kapazität für zusätzliche Zugskilometer im Personenverkehr und im Gütertransport;
+- a.[^5-2]
+
+  der Erhöhung der Kapazität:
+
+  - 1\. im Personenverkehr für zusätzliche Zugskilometer,
+  - 2\. im Gütertransport für zusätzliche Trassen;
+
 - b. der Verkürzung der Fahrzeit.
 
 <sup>3</sup> Führen Massnahmen für den Personenfluss in einem Bahnhof nach Anhang zu Investitionen von mehr als 10 Millionen Franken, so gelten sie als Ausbau.
 
-[^5-1]: Ausdruck gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^5-2]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -248,11 +283,12 @@ Massgeblich sind insbesondere:
 
 - a. die Kosten und Erlöse der Infrastruktur;
 - b. die Kosten und Erlöse des Verkehrs;
-- c. die Kriterien nach Artikel 31*a* Absatz 3 des Personenbeförderungsgesetzes vom 20. März 2009[^14-1] **(**PBG);
+- c. die Kriterien nach Artikel 31*a* Absatz 3 des Personenbeförderungsgesetzes vom 20. März 2009[^14-1](PBG);
 - d. die Auslastung der Linien während den Hauptverkehrszeiten;
-- e. die Auswirkungen auf die Qualität der Erschliessung im Personenverkehr und im Gütertransport.
+- e. die Auswirkungen auf die Qualität der Erschliessung im Personenverkehr und im Gütertransport[^14-2].
 
 [^14-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^14-2]: Ausdruck gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ## 4. Abschnitt: Planung des Ausbaus
 
@@ -299,7 +335,7 @@ Der Bericht zum nächsten geplanten Ausbauschritt enthält insbesondere:
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
-## 4*a*. Abschnitt: Netznutzungskonzept****
+## 4*a*. Abschnitt: Netznutzungskonzept
 
 [^sec4a-1]
 
@@ -395,12 +431,15 @@ Ebenfalls Gegenstand der Finanzierung können sein:
 
 Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundesleistungen erhalten, gelten Strecken:
 
-- a. mit mehrheitlichen Angeboten nach Artikel 3 oder 7 Absatz 7 der Verordnung vom 11. November 2009[^22-1] über die Abgeltung des regionalen Personenverkehrs;
-- b. mit mehrheitlichen Haltestellen, die nicht weiter als 1,5 km voneinander entfernt sind und keine zusätzlichen Ortschaften erschliessen.
+- a.[^22-1] die mehrheitlich Angeboten nach Artikel 5 Absatz 4 der Verordnung vom 4. November 2009[^22-2] über die Personenbeförderung oder Artikel 8 Absatz 7 der Verordnung vom 16. Oktober 2024[^22-3] über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr (ARPV) dienen; oder
+- b.[^22-4] deren Haltestellen mehrheitlich nicht mehr als 1,5 km voneinander entfernt sind und keine zusätzlichen Ortschaften ans Schienennetz anschliessen.
 
 <sup>2</sup> Ob es sich um eine Strecke für die Feinerschliessung handelt, wird bei der Erteilung der Konzession oder auf Gesuch eines Kantons vor Abschluss der Leistungsvereinbarung geprüft.
 
-[^22-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^22-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^22-3]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-4]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 23
 
@@ -424,14 +463,14 @@ Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundeslei
 
 <sup>3</sup> Die Projektkosten sind für die normierten Anlagegattungen auszuweisen. Das BAV kann Vereinfachungen zulassen.
 
-<sup>4</sup> Die Infrastrukturbetreiberin erteilt Unternehmen, die ihr Mitwirkungsrecht nach Artikel 37*a* EBG ausüben wollen, die notwendigen Auskünfte über Projekte, die im Investitionsplan figurieren. Sie erläutert ihnen auf Anfrage, weshalb bestimmte Investitionen nicht in den Investitionsplan aufgenommen wurden.[^24-2]
+<sup>4</sup> Die Infrastrukturbetreiberin erteilt Unternehmen, die ihr Mitwirkungsrecht nach Artikel 37*a* EBG ausüben wollen, die notwendigen Auskünfte über Projekte, die im Investitionsplan figurieren. Sie erläutert ihnen auf Anfrage, weshalb bestimmte Investitionen nicht in den Investitionsplan aufgenommen wurden. Rückmeldungen der Infrastrukturbetreiberin auf Anfragen sind schriftlich allen betroffenen Eisenbahnverkehrsunternehmen und Anschliessern zuzustellen.[^24-2]
 
 <sup>5</sup> Die Unternehmen können ihre von der Infrastrukturbetreiberin nicht berücksichtigten Anliegen dem BAV zum Entscheid unterbreiten. Das BAV entscheidet endgültig.[^24-3]
 
 <sup>6</sup> Bei Streitigkeiten betreffend Verletzungen des Mitwirkungsrechts ist die inhaltliche Prüfung der Investitionsvorhaben ausgeschlossen. Die Kommission für den Eisenbahnverkehr (RailCom) entscheidet endgültig.[^24-4]
 
 [^24-1]: Fassung gemäss Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^24-2]: Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^24-2]: Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^24-3]: Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 [^24-4]: Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -453,9 +492,10 @@ Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundeslei
 
 <sup>1</sup> Die Transportunternehmen berücksichtigen bei Vereinbarungen über die Vergütung für die Benützung von Bauten, Anlagen und Einrichtungen (Art. 34 Abs. 2 und 35 EBG), insbesondere von Landflächen und Verkaufsstellen, die Interessen der Besteller von Verkehrsangeboten nach Artikel 28 PBG[^26-1].
 
-<sup>2</sup> Sie vereinbaren insbesondere Vergütungen, die neben der Anlastung der pagatorischen Kosten eine kalkulatorische Verzinsung vorsehen. Diese darf in der Regel nicht mehr als fünf Franken pro Quadratmeter und Jahr betragen.
+<sup>2</sup> Sie vereinbaren Vergütungen, welche die vollen Kosten nach Artikel 64 EBG decken. Die Vergütungen dürfen keine kalkulatorische Verzinsung enthalten.[^26-2]
 
 [^26-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^26-2]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts
 
@@ -471,13 +511,20 @@ Der Offerte sind insbesondere folgende Unterlagen beizulegen:
 
 - a. eine qualitative und quantitative Umschreibung des Leistungsangebots unter Berücksichtigung der übergeordneten Infrastrukturplanung;
 - b. die Mittelfristplanung und der Investitionsplan;
-- c. die vorgeschlagenen Zielwerte für die Indikatoren zur Leistungsmessung;
+- c.[^27-1] die vorgeschlagenen Zielwerte für die Kennzahlen zur Leistungsmessung;
 - d. gegebenenfalls Begründungen für Abweichungen gegenüber bisherigen Planungen und der letzten Jahresrechnung;
-- e. der jährliche Netzzustandsbericht;
-- f. eine Aufstellung der geplanten Kosten;
+- e.[^27-2] …
+- f.[^27-3] eine Aufstellung der geplanten Erlöse und Kosten;
 - g. eine Bestätigung, dass die finanziellen und funktionalen Vorgaben eingehalten werden.
 
 <sup>3</sup> Die Unterlagen sind in elektronischer, maschinenlesbarer Form einzureichen.
+
+<sup>4</sup> Das BAV regelt den Detaillierungsgrad der Unterlagen. Es kann im Einzelfall eine weitergehende Gliederung verlangen oder Erleichterungen gewähren.[^27-4]
+
+[^27-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-2]: Aufgehoben durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, mit Wirkung seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-4]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 28
 
@@ -489,8 +536,10 @@ Die Leistungsvereinbarung nach Artikel 51 EBG enthält:
 - b. die Zielvorgaben;
 - c. die Umschreibung der zu erbringenden Leistungen, insbesondere der zu tätigenden Investitionen und deren Finanzierung;
 - d. die Zusicherung der Jahresbetreffnisse der Betriebsabgeltungen und Investitionsbeiträge des Bundes;
-- e. die Indikatoren und die entsprechenden Zielwerte zur Messung der Zielerreichung;
+- e.[^28-1] die Kennzahlen und die entsprechenden Zielwerte zur Messung der Zielerreichung;
 - f. die Vorgaben für die Berichterstattung (Art. 31).
+
+[^28-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 29
 
@@ -514,13 +563,15 @@ Kantone oder Dritte können mit einem Eisenbahnunternehmen vereinbaren, eine Mas
 
 <sup>1</sup> Das BAV kann die Dokumente und Daten der Infrastrukturbetreiberinnen zur Sparte Infrastruktur einsehen.
 
-<sup>2</sup> Die Infrastrukturbetreiberinnen legen dem BAV periodisch einen Bericht über die Erreichung der Ziele, den Netzzustand, die Belastung und Auslastung der Infrastruktur sowie den Stand der Investitionen und des Einbezugs der Eisenbahnverkehrsunternehmen vor. Das BAV regelt die Einzelheiten der Berichterstattung.
+<sup>2</sup> Die Infrastrukturbetreiberinnen legen dem BAV periodisch einen Bericht über die Erreichung der Ziele, den Netzzustand, die Belastung und Auslastung der Infrastruktur sowie den Stand der Investitionen und des Einbezugs der Eisenbahnverkehrsunternehmen vor. Das BAV regelt die Einzelheiten der Berichterstattung. Es kann im Einzelfall eine weitergehende Gliederung verlangen oder Erleichterungen gewähren.[^31-1]
 
 <sup>3</sup> Das BAV kann die Berichte veröffentlichen.
 
 <sup>4</sup> Werden die bestellten Leistungen nicht wie vereinbart erbracht, Zielvorgaben nicht erreicht oder festgelegte Fristen nicht eingehalten, so kann das BAV entsprechende Massnahmen anordnen oder finanzielle Leistungen zurückfordern.
 
 <sup>5</sup> Ist ein Projekt mit erheblichen, insbesondere geologischen Risiken verbunden, so kann das BAV eine Berichterstattung nach Artikel 37 Absatz 1 verlangen.
+
+[^31-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 7. Abschnitt: Finanzierung des Ausbaus
 
@@ -610,7 +661,7 @@ Vereinbarungen über die Vorfinanzierung beschlossener Massnahmen müssen folgen
 
 <sup>3</sup> Es erstellt jährlich einen Bericht über den Stand des Ausbaus.
 
-## 7*a*. Abschnitt:**** Vertrag über Systemaufgaben
+## 7*a*. Abschnitt: Vertrag über Systemaufgaben
 
 [^sec7a-1]
 
@@ -620,16 +671,56 @@ Vereinbarungen über die Vorfinanzierung beschlossener Massnahmen müssen folgen
 
 Der Vertrag über Systemaufgaben nach Artikel 37 EBG ist unbefristet. Er kann mit einer Frist von zwölf Monaten auf das Ende eines Kalenderjahres gekündigt werden.
 
+## 7*b*. Abschnitt: Rechnungslegung
+
+[^sec7b-1]
+
+[^sec7b-1]: Eingefügt durch Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 37b
+
+**Veränderte Nutzungsdauer**
+
+<sup>1</sup> Der Sparte Infrastruktur dürfen Abschreibungen nur bis zum Buchwert Null belastet werden.
+
+<sup>2</sup> Wird die Nutzungsdauer einer Anlage neu beurteilt, so ist der Restbuchwert über die neu festgelegte verbleibende Nutzungsdauer abzuschreiben.
+
+<sup>3</sup> Erträge und Aufwendungen, einschliesslich Restbuchwerte, aus Anlagenabgängen (Veräusserungserfolge) sind in der Sparte zu verbuchen, die die Kosten der Anlage getragen hat.
+
+<sup>4</sup> Im direkten Zusammenhang mit einer geplanten Erneuerung oder Erweiterung oder einem geplanten Ersatz vorhersehbare Veräusserungserträge der Sparte Infrastruktur sind im Investitionsplan separat aufzuführen.
+
+#### Art. 37c
+
+**Gliederung der Erlöse und Kosten**
+
+<sup>1</sup> Das BAV gibt die Gliederung der Erlöse und Kosten für die Betriebskosten- und Leistungsrechnung sowie für die Offerte vor.
+
+<sup>2</sup>
+
+In der Sparte Infrastruktur sind die Abgeltungen und allfällige der Infrastruktur gutgeschriebene Gewinne aus Nebengeschäften mindestens wie folgt separat auszuweisen:
+
+- a. Abgeltungen nach Artikel 51*b* EBG;
+- b. der Infrastruktur gutgeschriebene Gewinne aus Nebengeschäften.
+
+#### Art. 37d
+
+**Reine Infrastrukturbetreiberinnen**
+
+Für reine Infrastrukturbetreiberinnen gelten die Bestimmungen zur Rechnungslegung nach den Artikeln 2, 32 Absätze 1 und 5, 35, 59, 60 Absätze 3, 5 und 6, 61–63, 64 Absätze 2–3 und 66 ARPV[^37d-1].
+
+[^37d-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+
 ## 8. Abschnitt: Investitionen in Seilbahnen
 
 #### Art. 38
 
 <sup>1</sup> Für Investitionen in Seilbahnen, die von Bund und Kantonen Abgeltungen nach den Artikeln 28–31*c* PBG[^38-1] erhalten, können Finanzierungsvereinbarungen abgeschlossen werden. Diese sind bis zum Abschluss des Projekts gültig.
 
-<sup>2</sup> Als Investitionen in die Infrastruktur der Seilbahnen im Sinne von Artikel 18*a* Buchstabe b des Seilbahngesetzes vom 23. Juni 2006[^38-2] gelten 50 Prozent der Gesamtinvestition. Die Investitionsbeiträge werden à fonds perdu gewährt.
+<sup>2</sup> Als Investitionen in die Infrastruktur der Seilbahnunternehmen im Sinne von Artikel 16 Absatz 3 des Seilbahngesetzes vom 23. Juni 2006[^38-2] gelten 50 Prozent der Gesamtinvestition. Die Investitionsbeiträge werden à fonds perdu gewährt.[^38-3]
 
 [^38-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^38-2]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^38-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 9. Abschnitt: Schäden durch Naturereignisse
 
@@ -655,7 +746,7 @@ Die Beiträge, die der Bund aufgrund anderer Erlasse leistet, und die Leistungen
 
 <sup>3</sup> Es wacht über die bestimmungsgemässe Verwendung des Bundesbeitrags und prüft und genehmigt die Abrechnungen. Es kann in dringenden Fällen Vorschüsse gewähren.
 
-## 10. Abschnitt: Forschung****
+## 10. Abschnitt: Forschung
 
 [^sec10-1]
 
