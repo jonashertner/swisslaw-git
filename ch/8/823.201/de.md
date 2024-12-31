@@ -4,11 +4,11 @@ title: Verordnung vom 21. Mai 2003 über die in die Schweiz entsandten Arbeitneh
 short: EntsV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-232-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2003-232-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20240101/de"
 
 (EntsV)
 
-vom 21. Mai 2003 (Stand am 1. Januar 2024)
+vom 21. Mai 2003 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat
 
@@ -152,22 +152,20 @@ Die Meldung muss auf einem offiziellen Formular erstattet werden. Sie muss entha
 
 <sup>6</sup> Auf Verlangen des Arbeitgebers hat die Behörde den Eingang der Meldung zu bestätigen. Diese Meldebestätigung ist gebührenpflichtig.
 
-<sup>6bis</sup> Erfolgt die Meldung online über das offizielle Formular des Staatssekretariat für Migration, so leitet dieses die massgebenden Daten an die zuständige kantonale Behörde weiter. Die Datenbearbeitung ist in Artikel 6 der ZEMIS-Verordnung vom 12. April 2006[^6-6] geregelt.[^6-7]
+<sup>6bis</sup> …[^6-6]
 
-<sup>7</sup> Artikel 19 der Verordnung vom 23. November 1994[^6-8] über das Zentrale Ausländerregister ist anwendbar.
+<sup>7</sup> …[^6-7]
 
-<sup>8</sup> Artikel 18 der Verordnung vom 12. April 2006[^6-9] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung) ist anwendbar.[^6-10]
+<sup>8</sup> …[^6-8]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2005, in Kraft seit 1. April 2006 ([AS 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 [^6-2]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 [^6-3]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5755](https://fedlex.data.admin.ch/eli/oc/2007/781)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
 [^6-5]: Eingefügt durch Ziff. I der V vom 16. April 2013, in Kraft seit 15. Mai 2013 ([AS 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
-[^6-6]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^6-7]: Eingefügt durch Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^6-8]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194); [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169); [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481); [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3;[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1;[2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4; [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Art. 23]. Siehe heute die V vom 12. April 2006 über das Zentrale Migrationsinformationssystem ([SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
-[^6-9]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^6-10]: Eingefügt durch Anhang 3 Ziff. 11 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, in Kraft seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^6-6]: Eingefügt durch Ziff. II der V vom 19. Febr. 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)). Aufgehoben durch Ziff. III der V vom 27. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
+[^6-7]: Aufgehoben durch Ziff. III der V vom 27. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
+[^6-8]: Eingefügt durch Anhang 3 Ziff. 11 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)). Aufgehoben durch Ziff. III der V vom 27. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
 
 #### Art. 7
 
@@ -335,7 +333,8 @@ Die tripartiten Kommissionen haben mindestens die folgenden Aufgaben wahrzunehme
 - i. Sie prüfen die Missbrauchs- und Umgehungsmöglichkeiten, wie Scheinselbständigkeit, Aufenthalte unter drei Monaten usw.;
 - j. Sie arbeiten mit dem Bund und den anderen Behörden zusammen;
 - k. Sie verfassen einen jährlichen Tätigkeitsbericht zuhanden der Direktion für Arbeit des SECO.
-- [tab] <sup>2</sup> Über die Arbeiten der tripartiten Kommission wird Protokoll geführt.
+
+<sup>2</sup> Über die Arbeiten der tripartiten Kommission wird Protokoll geführt.
 
 [^11-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^11-2]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)

@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2003 sui lavoratori distaccati in Svizzera (ODist
 short: ODist
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-232-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2003-232-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20240101/it"
 
 (ODist)
 
-del 21 maggio 2003 (Stato 1° gennaio 2024)
+del 21 maggio 2003 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -58,7 +58,7 @@ Sono disposizioni relative alla retribuzione minima ai sensi dell’articolo 2 c
 
 <sup>2</sup> Il capoverso 1 non si applica se al lavoratore distaccato è garantito un salario minimo sulla base di un contratto collettivo di lavoro di obbligatorietà generale o di un contratto normale di lavoro ai sensi dell’articolo 360*a* del Codice delle obbligazioni[^1a-2].
 
-[^1a-1]: Introdotto dal n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^1a-1]: Introdotto dalla cifra II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^1a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 2
@@ -152,22 +152,20 @@ La notifica avviene per mezzo di un modulo ufficiale. Essa comprende quanto segu
 
 <sup>6</sup> Su richiesta del datore di lavoro l’autorità deve confermare la ricezione della notifica. La conferma della notifica è soggetta a pagamento.
 
-<sup>6bis</sup> Se la notifica è effettuata on line mediante il modulo ufficiale della SEM, quest’ultima trasmette i pertinenti dati alla competente autorità cantonale. Il trattamento dei dati è retto dall’articolo 6 dell’ordinanza SIMIC del 12 aprile 2006[^6-6].[^6-7]
+<sup>6bis</sup> ...[^6-6]
 
-<sup>7</sup> È applicabile l’articolo 19 dell’ordinanza del 23 novembre 1994[^6-8] sul Registro centrale degli stranieri.
+<sup>7</sup> ...[^6-7]
 
-<sup>8</sup> È applicabile l’articolo 18 dell’ordinanza del 12 aprile 2006[^6-9] concernente il sistema d’informazione centrale sulla migrazione (ordinanza SIMIC).[^6-10]
+<sup>8</sup> ...[^6-8]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 [^6-2]: [<sup>RS</sup> <sup>943.1</sup>](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^6-3]: Introdotta dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5755](https://fedlex.data.admin.ch/eli/oc/2007/781)).
-[^6-4]: Introdotta dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
-[^6-5]: Introdotta dal n. I dell’O del 16 apr. 2013, in vigore dal 15 mag. 2013 ([RU 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
-[^6-6]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^6-7]: Introdotto dal n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^6-8]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194); [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169); [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481); [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3; [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4; [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)art. 23]. Vedi ora l’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione ([RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
-[^6-9]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^6-10]: Introdotto dall’all. 3 n. 11 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, in vigore dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^6-3]: Introdotta dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5755](https://fedlex.data.admin.ch/eli/oc/2007/781)).
+[^6-4]: Introdotta dalla cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
+[^6-5]: Introdotta dalla cifra I dell’O del 16 apr. 2013, in vigore dal 15 mag. 2013 ([RU 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
+[^6-6]: Introdotto dalla cifra II dell’O del 19 feb. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)). Abrogato dalla cifra III dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
+[^6-7]: Abrogato dalla cifra III dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
+[^6-8]: Introdotto dall’all. 3 n. 11 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)). Abrogato dalla cifra III dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 716](https://fedlex.data.admin.ch/eli/oc/2024/716)).
 
 #### Art. 7
 
@@ -179,7 +177,7 @@ La notifica avviene per mezzo di un modulo ufficiale. Essa comprende quanto segu
 
 <sup>3</sup> Nei rami dotati di contratti collettivi di lavoro di obbligatorietà generale l’autorità di rilascio delle autorizzazioni o l’autorità cantonale competente in materia di notifiche trasmette una copia della decisione di autorizzazione ai competenti organi d’esecuzione paritetici.[^7-1]
 
-[^7-1]: Introdotto dal n. I dell’O del 26 giu. 2013, in vigore dal 15 lug. 2013 ([RU 2013 2123](https://fedlex.data.admin.ch/eli/oc/2013/451)).
+[^7-1]: Introdotto dalla cifra I dell’O del 26 giu. 2013, in vigore dal 15 lug. 2013 ([RU 2013 2123](https://fedlex.data.admin.ch/eli/oc/2013/451)).
 
 ### Sezione 3: Prova del versamento dei contributi sociali all’estero
 
@@ -195,7 +193,7 @@ Gli organi di controllo possono esigere dal datore di lavoro estero l’esibizio
 
 [^chap1-sec4-1]
 
-[^chap1-sec4-1]: Introdotta dal n. I dell’O del 26 giu. 2013, in vigore dal 15 lug. 2013 ([RU 2013 2123](https://fedlex.data.admin.ch/eli/oc/2013/451)).
+[^chap1-sec4-1]: Introdotta dalla cifra I dell’O del 26 giu. 2013, in vigore dal 15 lug. 2013 ([RU 2013 2123](https://fedlex.data.admin.ch/eli/oc/2013/451)).
 
 #### Art. 8a
 
@@ -265,9 +263,9 @@ Sono considerati casi motivati in particolare:
 - c. modifiche concernenti una parte sostanziale dei lavoratori abitualmente distaccati in Svizzera;
 - d. infrazioni a condizioni salariali e lavorative vincolanti commesse dal subappaltatore di cui l’appaltatore primario è a conoscenza.
 
-[^8b-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
-[^8b-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
-[^8b-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
 
 #### Art. 8c
 
@@ -283,7 +281,7 @@ L’obbligo di diligenza dell’appaltatore primario comprende anche i provvedim
 
 I datori di lavoro esteri che distaccano lavoratori in Svizzera sono tenuti a versare i contribuiti alle spese di controllo e d’esecuzione imposti ai datori di lavoro e ai lavoratori dal contratto collettivo di lavoro (CCL) di obbligatorietà generale. Essi sono debitori nei confronti degli organi paritetici istituiti dal CCL dell’importo totale dei contributi a carico dei datori di lavoro e dei lavoratori.
 
-[^8d-1]: Originario art. 8*a*. Introdotto dal n. I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^8d-1]: Originario art. 8*a*. Introdotto dalla cifra I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 9
 
@@ -297,12 +295,12 @@ I datori di lavoro esteri che distaccano lavoratori in Svizzera sono tenuti a ve
 
 <sup>3</sup> L’importo e le modalità dei diritti all’indennità previsti nei capoversi 1 e 1<sup>bis</sup> sono fissati dalla Direzione del lavoro della Segreteria di Stato dell’economia (SECO) o dall’autorità designata a tale scopo dal Cantone. Le indennità sono calcolate sulla base dei costi generati dai compiti d’esecuzione. Le autorità possono stipulare convenzioni sulle prestazioni con gli interlocutori sociali. Gli articoli 16*b* capoversi 2 e 3 e 16*c* lettere c–h si applicano per analogia.[^9-6]
 
-[^9-1]: Introdotta dal n. I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^9-1]: Introdotta dalla cifra I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 [^9-3]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
-[^9-4]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° dic. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
-[^9-6]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^9-4]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° dic. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^9-6]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 
 ## Capitolo 3: Commissioni tripartite
 
@@ -375,7 +373,7 @@ La commissione tripartita può valersi dei servizi di periti. Può creare gruppi
 
 <sup>6</sup> I dati di cui all’articolo 8*a* capoverso 2 della legge sono conservati per 12 mesi sulla piattaforma per la comunicazione elettronica. In seguito vengono automaticamente distrutti.
 
-[^13a-1]: Introdotto dal n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 671).
+[^13a-1]: Introdotto dalla cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 671](https://fedlex.data.admin.ch/eli/oc/2023/671)).
 
 ### Sezione 2: Finanziamento delle commissioni tripartite
 
@@ -409,17 +407,17 @@ La commissione tripartita può valersi dei servizi di periti. Può creare gruppi
 
 <sup>4</sup> La commissione tripartita della Confederazione è presieduta da un membro della Direzione del lavoro della SECO. Alla Direzione del lavoro incombe pure il segretariato della commissione. Per il resto la commissione si costituisce autonomamente. Essa emana un regolamento che fissa i dettagli della sua organizzazione, in particolare delle proprie competenze, di quelle delle sottocommissioni, dei membri e della presidenza. Il suo regolamento è sottoposto all’approvazione del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^16-4].[^16-5]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 [^16-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015.
-[^16-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 [^16-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^16-5]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^16-5]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 
 ### Sezione 4: Ispettori
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Introdotta dal n. I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^chap3-sec4-1]: Introdotta dalla cifra I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 16a
 
@@ -489,7 +487,7 @@ L’attività d’ispezione comprende i seguenti compiti:
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Introdotta dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
+[^chap3-sec5-1]: Introdotta dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 
 #### Art. 16e
 
@@ -497,7 +495,7 @@ L’attività d’ispezione comprende i seguenti compiti:
 
 Gli organi paritetici incaricati dell’esecuzione di contratti collettivi di lavoro e le commissioni tripartite incaricate dell’attività di ispezione conformemente all’articolo 7*a* della legge devono eseguire in totale 35 000 controlli all’anno. Il numero di controlli indennizzabili è stabilito nelle convenzioni sulle prestazioni previste nell’articolo 9 capoverso 3 della presente ordinanza e nell’articolo 7*a* capoverso 3 della legge.
 
-[^16e-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5015](https://fedlex.data.admin.ch/eli/oc/2017/540)).
+[^16e-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5015](https://fedlex.data.admin.ch/eli/oc/2017/540)).
 
 ## Capitolo 4: Autorità federali competenti
 
@@ -508,7 +506,7 @@ Gli organi paritetici incaricati dell’esecuzione di contratti collettivi di la
 <sup>2</sup> Il DEFR è l’autorità federale competente per trattare i litigi che sorgono dall’esecuzione di controlli da parte della commissione tripartita ai sensi dell’articolo 360*b* capoverso 5 CO[^17-1].[^17-2]
 
 [^17-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^17-2]: Nuovo testo giusta il n. II 86 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^17-2]: Nuovo testo giusta la cifra II n. 86 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 17a
 
@@ -523,7 +521,7 @@ Il Segretariato di Stato dell’economia rende accessibile, mediante procedura d
 
 <sup>2</sup> Le sanzioni sono cancellate dall’elenco cinque anni dopo essere state pronunciate.
 
-[^17a-1]: Introdotto dal n. I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^17a-1]: Introdotto dalla cifra I dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 ## Capitolo 5: Disposizioni finali
 
