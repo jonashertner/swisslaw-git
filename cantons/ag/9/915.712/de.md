@@ -4,13 +4,12 @@ number: "915.712"
 title: Verordnung über den Weinbau
 short: Weinbauverordnung
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+version_adopted: 2024-11-27
 adopted: 2008-06-25
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/915.712"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3517/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3708/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3517/pdf_file"
 
 (Weinbauverordnung)
 
-Vom 25.06.2008 (Stand 01.07.2024)
+Vom 25.06.2008 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -46,9 +45,10 @@ beschliesst:
 - b) Führung des Rebbaukatasters (Art. 61 des Bundesgesetzes über die Landwirtschaft [Landwirtschaftsgesetz, LwG] vom 29. April 1998[^2-2]),
 - c) Entscheid betreffend die Beseitigung beziehungsweise die Beseitigung widerrechtlich angepflanzter Reben (Art. 6 der Weinverordnung),
 - d) Entscheid betreffend die Deklassierung gemäss Art. 30a Abs. 3 der Weinverordnung, ausgenommen der Entscheide der AOC-Kommission gemäss § 3 Abs. 2 lit. b,
-- e) Überwachung der Eigenkontrolle der Einkellerinnen und Einkellerer während der Weinlese (Art. 30a Abs. 1 der Weinverordnung).
+- e) Überwachung der Eigenkontrolle der Einkellerinnen und Einkellerer während der Weinlese (Art. 30a Abs. 1 der Weinverordnung),
 - f) …
 - g) …
+- h) Durchführung des Bewilligungsverfahrens für Grand Cru-Parzellen gemäss § 19c Abs. 2.
 
 [^2-1]: SR [916.140](https://db.clex.ch/link/Bund/916.140/de)
 [^2-2]: SR [910.1](https://db.clex.ch/link/Bund/910.1/de)
@@ -92,7 +92,8 @@ beschliesst:
 - a) …
 - b) Durchführung Analyse und sensorische Prüfung der AOC-Weine gemäss § 18 sowie diesbezüglicher Entscheid betreffend die Deklassierung gemäss Art. 30a Abs. 3 der Weinverordnung,
 - c) Entscheid über Gesuche betreffend die Bewilligung von Zusatzbezeichnungen gemäss § 14 Abs. 7,
-- d) Beurteilung und Antragstellung betreffend die Zulassung weiterer Rebsorten zur Herstellung von AOC-Weinen gemäss § 15 Abs. 2.
+- d) Beurteilung und Antragstellung betreffend die Zulassung weiterer Rebsorten zur Herstellung von AOC-Weinen gemäss § 15 Abs. 2,
+- e) Durchführung Analyse und sensorische Prüfung der Grand Cru-Weine sowie diesbezüglicher Entscheid gemäss § 19h Abs. 2.
 
 <sup>3</sup> …
 
@@ -104,22 +105,43 @@ beschliesst:
 
 <sup>1</sup> Bei starken Hanglagen mit Querterrassen oder speziellen Erziehungsformen darf der Standraum des einzelnen Rebstocks bis 6 m² betragen.
 
+#### § 3b
+
+**Pufferstreifen**
+
+<sup>1</sup> Bei Neuanpflanzungen und Erneuerungen von Rebflächen - mit Ausnahme des Nachsetzens einzelner Stöcke gemäss Art. 3 Abs. 1 Bst. c der Weinverordnung - müssen nachfolgende Pufferstreifen angelegt werden:
+
+- 1\. entlang von oberirdischen Gewässern — mindestens 6 m
+- 2\. bei Schächten mit Entwässerungsfunktion ab Schachtrand
+  - a) innerhalb der landwirtschaftlichen Nutzfläche — mindestens 3 m
+  - b) entlang von Feldwegen und Strassen — mindestens 0,5 m
+
+<sup>2</sup> Für die Anlegung des Pufferstreifens entlang von oberirdischen Gewässern gemäss Absatz 1 sind die Anforderungen für den ökologischen Leistungsnachweis gemäss Anhang 1 Ziffer 9.6 der Verordnung über die Direktzahlungen in der Landwirtschaft (Direktzahlungsverordnung, DZV) vom 23. Oktober 2013[^3b-1] einzuhalten.
+
+<sup>3</sup> Schächte ohne Entwässerungsfunktion sind innerhalb der landwirtschaftlichen Nutzfläche und entlang von Feldwegen und Strassen mit geschlossenen Deckeln zu versehen, wenn kein Pufferstreifen gemäss Absatz 1 angelegt ist.
+
+[^3b-1]: SR [910.13](https://db.clex.ch/link/Bund/910.13/de)
+
 #### § 4
 
 **Bewilligungs- und Meldeverfahren bei Neuanpflanzungen**
 
-<sup>1</sup> Gesuche für Neuanpflanzungen für die Weinerzeugung sind auf dem amtlichen Formular schriftlich beim LZL einzureichen. Vor Erteilung der Bewilligung ist die kantonale Fachstelle für Natur- und Landschaftsschutz anzuhören.
+<sup>1</sup> Gesuche für Neuanpflanzungen für die Weinerzeugung sind auf dem amtlichen Formular schriftlich beim LZL einzureichen.
 
-<sup>2</sup> Für die Zulassung von Rebflächen zur gewerblichen Weinerzeugung sind namentlich folgende Richtwerte zu erfüllen:
+<sup>2</sup> Neuanpflanzungen für die gewerbliche Weinerzeugung werden nur an Standorten bewilligt, deren Eignung unter Berücksichtigung der in Art. 2 Abs. 2 Bst. a–f der Weinverordnung aufgeführten Kriterien nachgewiesen ist.
 
-- a) Durchschnittliche Hangneigung: mindestens 15 %,
-- b) Höhe über Meer: maximal 550 m,
-- c) Exposition: West bis Süd-Ost.
+- a) …
+- b) …
+- c) …
 - d) …
 
-<sup>2<sup>bis</sup></sup> In begründeten Fällen können ausnahmsweise Rebflächen zur gewerblichen Weinerzeugung zugelassen werden, die von den Richtwerten gemäss Absatz 2 abweichen.
+<sup>2<sup>bis</sup></sup> Die Beurteilung der Eignung von Rebflächen zur gewerblichen Weinerzeugung erfolgt anhand des Beurteilungsrasters in Anhang 4. Die Standorte müssen mindestens mit 120 von maximal 180 Punkten bewertet werden.
+
+<sup>2<sup>ter</sup></sup> In begründeten Fällen können ausnahmsweise Rebflächen zugelassen werden, welche die Mindestpunktzahl nicht erreichen.
 
 <sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup> Zur Beurteilung der naturschützerischen Bedeutung der Fläche gemäss Art. 2 Abs. 2 Bst. f der Weinverordnung wird die Fachstelle für Natur- und Landschaftsschutz angehört.
 
 <sup>4</sup> Neuanpflanzungen, die nicht der Weinerzeugung dienen, müssen dem LZL gemeldet werden.
 
@@ -179,14 +201,28 @@ beschliesst:
 
 <sup>1</sup> AOC-Roséweine dürfen bis zu 10 % Weisswein enthalten.
 
+#### § 8b
+
+**Schaum- und Perlweine**
+
+<sup>1</sup> AOC-Schaum- und Perlweine erfüllen die Bestimmungen gemäss Verordnung des EDI über Getränke vom 16. Dezember 2016[^8b-1] und entsprechen allen Anforderungen an Aargauer AOC-Weine.
+
+[^8b-1]: SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de)
+
+#### § 8c
+
+**Likörweine**
+
+<sup>1</sup> AOC-Likörweine erfüllen die Bestimmungen gemäss Verordnung des EDI über Getränke und entsprechen allen Anforderungen an Aargauer AOC-Weine.
+
 #### § 9
 
 **Mindestzuckergehalte**
 
-<sup>1</sup> Es gelten folgende natürlichen Mindestzuckergehalte in °Brix beziehungsweise in °Öchsle (Art. 63 Abs. 3 LwG sowie Art. 21 Abs. 5 der Weinverordnung):
+<sup>1</sup> Es gelten folgende natürlichen Mindestzuckergehalte in °Brix beziehungsweise in °Oechsle (Art. 63 Abs. 3 LwG sowie Art. 21 Abs. 5 der Weinverordnung):
 
 <table>
-<tr><th>Weinart</th><th>Traubensorte</th><th>°Brix</th><th>°Öchsle</th></tr>
+<tr><th>Weinart</th><th>Traubensorte</th><th>°Brix</th><th>°Oechsle</th></tr>
 <tr><td>AOC-Weine</td><td>Blauburgunder, blaue Spezialitäten, Pinot gris, Gewürztraminer, Kerner, Chardonnay, Sauvignon blanc</td><td>17,8°</td><td>73°</td></tr>
 <tr><td>AOC-Weine</td><td>Dornfelder, Dakapo</td><td>17,1°</td><td>70°</td></tr>
 <tr><td>AOC-Weine</td><td>Müller-Thurgau, Charmont, Bacchus, Seyval blanc, Riesling, Räuschling, Elbling, Gutedel, Dunkelfelder, Muscat Bleu, weisse Spezialitäten</td><td>15,9°</td><td>65°</td></tr>
@@ -198,34 +234,32 @@ beschliesst:
 
 **Anreicherung**
 
-<sup>1</sup> Durch die zulässigen Anreicherungsverfahren darf bei AOC-Weinen der Gesamtalkoholgehalt der frischen Weintrauben, des Traubenmosts, des teilweise vergorenen Traubenmosts, des Jungweins oder des Weins um bis zu 2,5 auf 15 Volumenprozent erhöht werden.
+<sup>1</sup> Die Anreicherung von AOC-Weinen ist zulässig, wenn die Anforderungen gemäss Anhang 9 der Verordnung des EDI über Getränke erfüllt sind.
 
 #### § 9b
 
 **Süssung**
 
-<sup>1</sup> Die Süssung von AOC-Weinen ist zulässig, wenn die Grenzwerte und Bedingungen gemäss der Anlage 11 zu Anhang 9 der Verordnung des EDI über Getränke vom 16. Dezember[^9b-1] erfüllt sind.
+<sup>1</sup> Die Süssung von AOC-Weinen ist zulässig, wenn die Anforderungen gemäss Anhang 9 der Verordnung des EDI über Getränke erfüllt sind.
 
-<sup>2</sup> Der Gesamtalkoholgehalt der frischen Weintrauben, des Traubenmostes, des teilweise vergorenen Traubenmostes, des Jungweins oder des Weins darf dabei auf 15 Volumenprozent angehoben werden.
-
-[^9b-1]: SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de)
+<sup>2</sup> …
 
 #### § 10
 
 **Höchsterträge**
 
-<sup>1</sup> Für AOC-Weine gelten die folgenden maximal zulässigen Erträge pro m² und Sorte (Art. 21 Abs. 6 der Weinverordnung):
+<sup>1</sup> Für AOC-Weine gelten die gemäss Art. 21 Abs. 6 der Weinverordnung maximal zulässigen Höchsterträge pro Flächeneinheit.
 
-- a) 1,1 kg für rote Traubensorten,
-- b) 1,3 kg für weisse Traubensorten.
+- a) …
+- b) …
 
-<sup>2</sup> Bei der Erfassung der zulässigen Erträge wird eine Toleranz von maximal 5 % gewährt.
+<sup>2</sup> …
 
 #### § 11
 
 **Ausnahmen**
 
-<sup>1</sup> In Ausnahmejahren kann das DFR auf Antrag der AOC-Kommission Brix- beziehungsweise Öchslegrade sowie Höchsterträge senken beziehungsweise erhöhen. In keinem Fall dürfen jedoch die vom Bund festgelegten Brixgrade unter- und/oder die Höchsterträge überschritten werden.
+<sup>1</sup> In Ausnahmejahren kann das DFR auf Antrag der AOC-Kommission Brix- beziehungsweise Oechslegrade sowie Höchsterträge senken beziehungsweise erhöhen. In keinem Fall dürfen jedoch die vom Bund festgelegten Brixgrade unter- und/oder die Höchsterträge überschritten werden.
 
 #### § 12
 
@@ -266,7 +300,7 @@ beschliesst:
 
 <sup>6</sup> …
 
-<sup>7</sup> Die AOC-Kommission entscheidet auf Gesuch hin über die Bewilligung von Zusatzbezeichnungen gemäss den Absätzen 2–4. Das LZL veröffentlicht auf seiner Internetseite ein Verzeichnis, in dem sämtliche bewilligten Zusatzbezeichnungen aufgeführt sind.
+<sup>7</sup> Die AOC-Kommission entscheidet auf Gesuch hin über die Bewilligung von Zusatzbezeichnungen gemäss den Absätzen 2–4. Das LZL veröffentlicht auf seiner Internetseite ein Verzeichnis, in dem sämtliche bewilligten Lagebezeichnungen aufgeführt sind.
 
 #### § 15
 
@@ -284,7 +318,8 @@ beschliesst:
 
 - a) Stickelbau,
 - b) Drahtbau im Direktzug,
-- c) Drahtbau in Querterrassenlagen.
+- c) Drahtbau in Querterrassenlagen,
+- d) Pergola.
 
 #### § 16a
 
@@ -340,15 +375,90 @@ beschliesst:
 <table>
 <tr><th>Begriff</th><th>Ergänzte Begriffsbestimmung</th></tr>
 <tr><td>Auslese, Sélection, Selezione</td><td>Wein mit kontrollierter Ursprungsbezeichnung, der aus Trauben überdurchschnittlicher Qualität stammt oder einem speziellen Kelterungsverfahren unterzogen wurde. Die Qualitätskriterien und deren Einhaltung beziehungsweise das Kelterungsverfahren sind zu dokumentieren.</td></tr>
-<tr><td>Beerenauslese</td><td>Wein mit kontrollierter Ursprungsbezeichnung, erzeugt aus Trauben mit Edelfäulebefall mit einem natürlichen Mindestzuckergehalt von 110° Öchsle (26,0° Brix). Jede Anreicherung beziehungsweise Konzentration ist verboten.</td></tr>
+<tr><td>Beerenauslese</td><td>Wein mit kontrollierter Ursprungsbezeichnung, erzeugt aus Trauben mit Edelfäulebefall mit einem natürlichen Mindestzuckergehalt von 110 °Oechsle (26,0 °Brix). Jede Anreicherung beziehungsweise Konzentration ist verboten.</td></tr>
+<tr><td>Crémant</td><td>Wein mit kontrollierter Ursprungsbezeichnung, gewonnen aus zweiter Gärung von Wein. Beim Öffnen der Flasche darf das entweichende Kohlendioxid ausschliesslich aus der Gärung stammen. Bei 20°C weist der Wein einen Überdruck von mindestens 3 bar auf, der auf gelöstes Kohlendioxid zurückzuführen ist. Der Gesamtalkoholgehalt beträgt mindestens 8.5 Volumenprozent.</td></tr>
 <tr><td>Eiswein</td><td>…</td></tr>
 <tr><td>Oeil-de-Perdrix</td><td>…</td></tr>
+<tr><td>Grand Cru Aargau</td><td>Wein mit kontrollierter Ursprungsbezeichnung von höherer Qualität nach den Vorschriften dieser Verordnung.</td></tr>
+<tr><td>Grande Réserve</td><td>Wein mit kontrollierter Ursprungsbezeichnung, der nach einem Reifungsprozess von mindestens 48 Monaten ab dem 1. Oktober des Erntejahres auf den Markt gelangt.</td></tr>
 <tr><td>Reserve, Réserve, Riserva</td><td>Wein mit kontrollierter Ursprungsbezeichnung, der nach einem Reifungsprozess von mindestens 18 Monaten ab dem 1. Oktober des Erntejahres für Rotweine beziehungsweise 12 Monate ab dem 1. Oktober des Erntejahres für Weissweine auf den Markt gelangt.</td></tr>
 <tr><td>Schloss, Château</td><td>Wein mit kontrollierter Ursprungsbezeichnung, der aus Trauben aus den Rebbergen um das in der Bezeichnung erwähnte Schloss gekeltert wurde.</td></tr>
-<tr><td>Spätlese</td><td>Wein mit kontrollierter Ursprungsbezeichnung aus Trauben, deren natürliches Mostgewicht mindestens 3° Öchsle über dem Betriebsdurchschnitt der Weinbezeichnung der verwendeten Sorte liegt.</td></tr>
+<tr><td>Spätlese</td><td>Wein mit kontrollierter Ursprungsbezeichnung aus Trauben, deren natürliches Mostgewicht mindestens 3 °Oechsle über dem Betriebsdurchschnitt der Weinbezeichnung der verwendeten Sorte liegt.</td></tr>
 <tr><td>Strohwein</td><td>Wein mit kontrollierter Ursprungsbezeichnung, hergestellt aus weissen oder roten, auf Stroh, Horden, Lattenkisten oder nach einer anderen geeigneten Methode getrockneten Trauben. Jede Anreicherung beziehungsweise Konzentration ist verboten.</td></tr>
 <tr><td>Trockenbeerenauslese</td><td>…</td></tr>
 </table>
+
+## 5<sup>ter</sup>. Grand Cru Aargau
+
+#### § 19b
+
+**Definition**
+
+<sup>1</sup> "Grand Cru Aargau" ist ein Wein mit kontrollierter Ursprungsbezeichnung von höherer Qualität, der die in diesem Kapitel geregelten Anforderungen erfüllt.
+
+#### § 19c
+
+**Grand Cru-Parzellen**
+
+<sup>1</sup> Grand Cru-Weine dürfen ausschliesslich aus Trauben hergestellt werden, die von zugelassenen Grand Cru-Parzellen stammen.
+
+<sup>2</sup> Gesuche für Grand Cru-Parzellen sind auf dem amtlichen Formular schriftlich beim LZL einzureichen. Die Eignung wird anhand des Beurteilungsrasters in Anhang 4 geprüft. Für die Zulassung müssen mindestens 140 von maximal 180 Punkten erreicht werden.
+
+#### § 19d
+
+**Rebsorten und Alter des Rebstocks**
+
+<sup>1</sup> Zur Herstellung von Grand Cru-Weinen ist ausschliesslich die Rebsorte "Blauburgunder" zugelassen.
+
+<sup>2</sup> Die Rebstöcke müssen mindestens fünfzehn Jahre alt sein. Das Anpflanzungsjahr wird mitgezählt.
+
+#### § 19e
+
+**Höchsterträge**
+
+<sup>1</sup> Der Flächenertrag ist auf 0,6 kg pro m² begrenzt.
+
+#### § 19f
+
+**Mindestzuckergehalt**
+
+<sup>1</sup> Der erforderliche natürliche Mindestzuckergehalt beträgt 22,7 °Brix beziehungsweise 95 °Oechsle.
+
+#### § 19g
+
+**Methoden der Weinbereitung**
+
+<sup>1</sup> Soweit in den nachfolgenden Absätzen nicht abweichend geregelt, sind zur Herstellung von Grand Cru-Weinen sämtliche Methoden der Weinbereitung zulässig, die auch für AOC-Weine zulässig sind.
+
+<sup>2</sup> Jahrgangsmischungen sind verboten.
+
+<sup>3</sup> Ein Grand Cru-Wein darf insgesamt bis höchstens 10 Prozent mit einem AOC-Wein verschnitten werden.
+
+<sup>4</sup> Grand Cru-Weine müssen mindestens 12 Monate im Barrique (225 l / 228 l) ausgebaut werden.
+
+<sup>5</sup> Die Verwendung jeglicher Art von Holzchips, Staves, Sticks, Konzentrat oder anderen Aromatisierungsmitteln ist verboten.
+
+<sup>6</sup> Die Anreicherung der Trauben, des Mosts und des Jungweins mittels Zugabe von Zucker ist verboten.
+
+#### § 19h
+
+**Analyse und sensorische Prüfung**
+
+<sup>1</sup> Produzentinnen und Produzenten von Grand Cru-Weinen sind verpflichtet, der AOC-Kommission eine Musterflasche ihrer verkaufsfertigen, nicht etikettierten Grand Cru-Weine zwecks sensorischer Prüfung kostenlos zur Verfügung zu stellen.
+
+<sup>2</sup> Ein Wein darf nicht die Kennzeichnung “Grand Cru Aargau“ tragen, wenn die anwesenden Mitglieder der AOC-Kommission dem Wein im Durchschnitt nicht mindestens 18 von 20 Punkten vergeben.
+
+<sup>3</sup> Die sensorische Prüfung und das weitere Verfahren richten sich nach § 18.
+
+#### § 19i
+
+**Kennzeichnung und Vermarktung**
+
+<sup>1</sup> Grand Cru-Weine müssen mit "Grand Cru Aargau" und dem Jahrgang gekennzeichnet werden.
+
+<sup>2</sup> Bezeichnungen wie "Premier cru", "Cru classé", "Grand cru classé" und Ähnlichem sind nicht gestattet.
+
+<sup>3</sup> Grand Cru-Weine dürfen nicht vor dem 1. Juni des zweiten auf die Ernte folgenden Jahres in den Verkehr gebracht werden.
 
 ## 6. Schlussbestimmungen
 
@@ -360,7 +470,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Gegen Entscheide der AOC-Kommission gemäss § 3 Abs. 2 lit. b, c und d kann beim Departement Gesundheit und Soziales Beschwerde geführt werden. Der weitere Rechtsweg und die Strafbestimmungen richten sich nach den Vorschriften des Lebensmittelrechts.
+<sup>3</sup> Gegen Entscheide der AOC-Kommission gemäss § 3 Abs. 2 lit. b–e kann beim Departement Gesundheit und Soziales Beschwerde geführt werden. Der weitere Rechtsweg und die Strafbestimmungen richten sich nach den Vorschriften des Lebensmittelrechts.
 
 #### § 20a
 
