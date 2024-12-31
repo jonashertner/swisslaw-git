@@ -1,23 +1,24 @@
 ---
 canton: GR
 number: "310.100"
-title: Lescha davart las advocatas ed ils advocats
+title: "Lescha davart las advocatas ed ils advocats *"
 short: LAdv
 language: rm
-version: 2023-04-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 2006-02-14
 in_force: 2006-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/310.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3316/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3390/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart las advocatas ed ils advocats
 
-dals 14-02-2006 (versiun dals 01-04-2023)
+(LAdv)
+
+dals 14-02-2006 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun,
 
@@ -62,15 +63,20 @@ concluda:
 
 **Cumissiun da surveglianza 1. elecziun, cumposiziun, indemnisaziun**
 
-<sup>1</sup> La dretgira chantunala e la dretgira administrativa elegian communablamain ina cumissiun da surveglianza da tschintg commembras e commembers e da trais substitutas e substituts per ina perioda d'uffizi da quatter onns.
+<sup>1</sup> La Dretgira superiura elegia las tschintg commembras e commembers da la cumissiun da surveglianza sco er las trais substitutas e substituts per ina durada da quatter onns. Elecziuns substitutivas durant la durada d'uffizi èn pussaivlas.
 
-<sup>2</sup> A la cumissiun da surveglianza appartegnan per regla duas advocatas respectivamain dus advocats ch'èn inscrits en il register dal chantun Grischun e mintgamai ina commembra u in commember da la dretgira chantunala e da la dretgira administrativa.
+<sup>2</sup> La cumissiun da surveglianza sa cumpona per regla:
+
+- a) d'ina commembra ordinaria u d'in commember ordinari da la Dretgira superiura che presidiescha la cumissiun da surveglianza;
+- b) d'ina ulteriura commembra ordinaria u d'in ulteriur commember ordinari da la Dretgira superiura che appartegna ad in'autra partiziun da la Dretgira superiura che la presidenta u il president;
+- c) da trais ulteriuras commembras e commembers, dals quals dus èn per regla advocatas u advocats che pratitgeschan en il chantun;
+- d) da trais substitutas u substituts.
 
 <sup>3</sup> Tut las commembras e substitutas e tut ils commembers e substituts ston esser en possess da la patenta d'advocata u d'advocat.
 
-<sup>4</sup> La cumissiun da surveglianza sa constituescha sezza. Ella po eleger in secretariat ed in actuariat.
+<sup>4</sup> La cumissiun da surveglianza sa constituescha sezza. En reguard administrativ è ella integrada en la Dretgira superiura. Là dispona ella d'ina adressa da consegna, po nizzegiar las localitads da la Dretgira superiura e far diever da ses secretariat sco er da ses actuariat.
 
-<sup>5</sup> La regenza fixescha las indemnisaziuns da lavur e da las spesas da las commembras e dals commembers da la cumissiun da surveglianza.
+<sup>5</sup> La Regenza fixescha las indemnisaziuns da lavur e da las spesas per las commembras ed ils commembers da la cumissiun da surveglianza.
 
 #### Art. 6
 
@@ -78,17 +84,29 @@ concluda:
 
 <sup>1</sup> La cumissiun da surveglianza è l'autoritad da surveglianza da las advocatas e dals advocats.
 
-<sup>2</sup> En spezial ha ella las suandantas incumbensas:
+<sup>2</sup> Ella ha cunzunt las suandantas incumbensas:
 
-- a) ella surveglia l'activitad da las advocatas e dals advocats ed exequescha il dretg disciplinar;
-- b) ella maina il register da las advocatas e dals advocats e la glista publica da las appartegnentas e dals appartegnents da stadis commembers da la UE u da la AECL;
-- c) ella decida davart l'admissiun a l'examen d'advocatas e d'advocats, maina tras ils examens d'advocatas e d'advocats, surdat la patenta d'advocata u d'advocat, conceda la permissiun da praticum e decida davart la privaziun da la patenta d'advocata u d'advocat;
-- d) ella decida davart la liberaziun dal secret professiunal;
-- e) ella è incumbensada cun l'execuziun da la LLCA[^6-1], uschenavant che questa lescha na declera betg expressivamain in'autra instanza sco cumpetenta.
+- a) survegliar l'activitad da las advocatas e dals advocats ed exequir il dretg disciplinar;
+- b) manar il register da las advocatas e dals advocats e la glista publica da las appartegnentas e dals appartegnents da stadis commembers da la UE u da la AECL;
+- c) admetter persunas a l'examen d'advocatas e d'advocats, manar tras ils examens d'advocatas e d'advocats, surdar la patenta d'advocata u d'advocat, conceder la permissiun da praticum e decider davart la privaziun da la patenta d'advocata u d'advocat sco er da las permissiuns concedidas;
+- d) decider davart la liberaziun dal secret professiunal;
+- e) exequir la LLCA[^6-1], uschenavant che questa lescha na declera betg expressivamain in'autra instanza sco cumpetenta.
 
-<sup>3</sup> La cumissiun da surveglianza rapporta annualmain al cussegl grond.
+<sup>3</sup> …
 
 [^6-1]: CS [935.61](https://db.clex.ch/link/Bund/935.61/rm)
+
+#### Art. 6a
+
+**3. surveglianza**
+
+<sup>1</sup> La Dretgira superiura surveglia la cumissiun da surveglianza.
+
+<sup>2</sup> Envers la cumissiun da surveglianza ed envers sias commembras e ses commembers dispona ella dals medems instruments da surveglianza e dals medems meds auxiliars sco envers las autoritads giudizialas ed envers lur commembras e commembers ch'èn suttamess a sia surveglianza directa. Las disposiziuns da la Lescha davart l'organisaziun giudiziala[^6a-1] concernent la surveglianza giudiziala vegnan applitgadas analogamain.
+
+<sup>3</sup> La Dretgira superiura decida, sche las commembras ed ils commembers da la cumissiun duain vegnir liberads dal secret d'uffizi per dar pled e fatg davant autras autoritads sco er per edir actas.
+
+[^6a-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 7
 
@@ -96,7 +114,7 @@ concluda:
 
 <sup>1</sup> Uschenavant che questa lescha na cuntegna naginas disposiziuns spezialas, vala la Lescha davart la giurisdicziun administrativa[^7-1] per tut las proceduras davant la cumissiun da surveglianza.
 
-<sup>2</sup> Cunter decisiuns da la cumissiun da surveglianza po vegnir fatg recurs tar la dretgira administrativa. Exceptadas èn decisiuns davart la valitaziun da l'examen d'advocatas e d'advocats.
+<sup>2</sup> Cunter decisiuns da la cumissiun da surveglianza poi vegnir fatg recurs tar la Dretgira da giustia entaifer 30 dis dapi la communicaziun da la decisiun motivada.
 
 <sup>3</sup> La cumissiun da surveglianza po decretar decisiuns davart l'examen da notariat en il dispositiv. Entaifer 10 dis dapi la communicaziun pon las persunas pertutgadas pretender en scrit ina decisiun motivada tar la cumissiun da surveglianza. Dal rest vala l'artitgel 48 da la Lescha davart la giurisdicziun administrativa confurm al senn.
 
@@ -222,7 +240,7 @@ concluda:
 
 **Inscripziun en il register chantunal da las advocatas e dals advocats**
 
-<sup>1</sup> La cumissiun da surveglianza fixescha en il cas singul il cuntegn da l'examen da qualificaziun tenor la LLCA[^17-1] e dal discurs per examinar las cumpetenzas professiunalas tenor la LLCA. Las disposiziuns dal reglament d'examen valan confurm al senn.
+<sup>1</sup> La cumissiun da surveglianza fixescha en il cas singul il cuntegn da l'examen da qualificaziun tenor la LLCA[^17-1] e dal discurs per examinar las cumpetenzas professiunalas tenor la LLCA. Las disposiziuns da l'Ordinaziun davart l'examen d'advocata u d'advocat valan confurm al senn.
 
 [^17-1]: CS [935.61](https://db.clex.ch/link/Bund/935.61/rm)
 
@@ -257,6 +275,8 @@ concluda:
 **Disposiziun transitorica**
 
 <sup>1</sup> Per proceduras davant la cumissiun da surveglianza ch'èn pendentas avant l'entrada en vigur da questa lescha sto vegnir applitgà il dretg nov. Exceptadas da quai èn proceduras disciplinaras, uschenavant ch'il dretg vegl è pli favuraivel per las persunas pertutgadas.
+
+<sup>2</sup> Las novas regulaziuns da la surveglianza da las finanzas valan a partir da l'emprim onn da gestiun che cumenza suenter l'entrada en vigur da la midada da questa lescha.
 
 #### Art. 22
 

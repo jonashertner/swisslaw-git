@@ -1,23 +1,24 @@
 ---
 canton: GR
 number: "310.100"
-title: Legge sugli avvocati
+title: "Legge sugli avvocati *"
 short: LAvv
 language: it
-version: 2023-04-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 2006-02-14
 in_force: 2006-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/310.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3316/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3390/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sugli avvocati
 
-del 14.02.2006 (stato 01.04.2023)
+(LAvv)
+
+del 14.02.2006 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
@@ -64,15 +65,20 @@ decide:
 
 **Commissione di vigilanza 1. Nomina, composizione, indennità**
 
-<sup>1</sup> Il Tribunale cantonale e il Tribunale amministrativo nominano di comune accordo una Commissione di vigilanza composta di cinque membri e tre supplenti, per un periodo di carica di quattro anni.
+<sup>1</sup> Il Tribunale d'appello nomina i cinque membri della Commissione di vigilanza e i tre supplenti per un periodo di quattro anni. È possibile procedere a nomine sostitutive durante il periodo di carica.
 
-<sup>2</sup> Fanno di regola parte della Commissione di vigilanza due avvocati iscritti nel registro del Cantone dei Grigioni e un membro ciascuno del Tribunale cantonale e del Tribunale amministrativo.
+<sup>2</sup> La Commissione di vigilanza è composta di regola da:
+
+- a) un giudice ordinario del Tribunale d'appello il quale presiede la Commissione di vigilanza;
+- b) un altro giudice ordinario del Tribunale d'appello che fa parte di un'altra sezione del Tribunale d'appello rispetto al presidente;
+- c) altri tre membri, di cui di norma due avvocati esercitanti nel Cantone;
+- d) tre supplenti.
 
 <sup>3</sup> Tutti i membri e i supplenti devono essere in possesso della patente di avvocato.
 
-<sup>4</sup> La Commissione di vigilanza si costituisce da sé. Può dotarsi di una segreteria e di un attuario.
+<sup>4</sup> La Commissione di vigilanza si costituisce da sé. Sotto il profilo amministrativo è annessa al Tribunale d'appello. Lì ha un indirizzo di recapito, può utilizzare gli spazi del Tribunale d'appello e far capo al suo segretariato e al suo attuariato.
 
-<sup>5</sup> Il Governo stabilisce le indennità di lavoro e i rimborsi spese dei membri della Commissione di vigilanza.
+<sup>5</sup> Il Governo stabilisce le indennità di lavoro e i rimborsi spese per i membri della Commissione di vigilanza.
 
 #### Art. 6
 
@@ -80,15 +86,29 @@ decide:
 
 <sup>1</sup> La Commissione di vigilanza è l'autorità di vigilanza sugli avvocati.
 
-<sup>2</sup> In particolare ha i seguenti compiti:
+<sup>2</sup> Le competono in particolare:
 
-- a) vigila sull'attività degli avvocati ed esercita il diritto disciplinare;
-- b) tiene il registro degli avvocati e l'albo pubblico dei cittadini degli Stati membri dell'UE o dell'AELS;
-- c) decide sull'ammissione all'esame di avvocatura, organizza gli esami di avvocatura e rilascia la patente d'avvocato e l'autorizzazione al praticantato e decide in merito alla revoca della patente d'avvocato;
-- d) decide sulla liberazione dal segreto professionale;
-- e) è incaricata dell'esecuzione della LLCA, per quanto la presente legge non dichiari espressamente competente un'altra autorità.
+- a) la sorveglianza sull'attività degli avvocati nonché l'esercizio del diritto disciplinare;
+- b) la tenuta del registro degli avvocati e dell'albo pubblico dei cittadini degli Stati membri dell'UE o dell'AELS;
+- c) l'ammissione all'esame di avvocatura, lo svolgimento degli esami di avvocatura, il conferimento della patente d'avvocato, il rilascio dell'autorizzazione al praticantato e la decisione in merito alla revoca della patente d'avvocato nonché delle autorizzazioni rilasciate;
+- d) la decisione sulla liberazione dal segreto professionale;
+- e) l'esecuzione della LLCA[^6-1], per quanto la presente legge non dichiari espressamente competente un'altra autorità.
 
-<sup>3</sup> La Commissione di vigilanza presenta annualmente rapporto all'attenzione del Gran Consiglio.
+<sup>3</sup> …
+
+[^6-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/it)
+
+#### Art. 6a
+
+**3. Vigilanza**
+
+<sup>1</sup> Il Tribunale d'appello esercita la vigilanza sulla Commissione di vigilanza.
+
+<sup>2</sup> Nei confronti della Commissione di vigilanza e dei suoi membri esso dispone degli stessi strumenti di vigilanza e mezzi ausiliari di cui dispone nei confronti delle autorità giudiziarie e dei loro membri sottoposti alla sua vigilanza diretta. Si applicano per analogia le disposizioni della legge sull'organizzazione giudiziaria[^6a-1] relative alla vigilanza sulla giustizia.
+
+<sup>3</sup> Il Tribunale d'appello decide in merito alla liberazione dal segreto d'ufficio di membri della Commissione per dichiarazioni dinanzi ad altre autorità e per l'edizione di atti.
+
+[^6a-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 7
 
@@ -96,7 +116,7 @@ decide:
 
 <sup>1</sup> Se la presente legge non prevede disposizioni particolari, per tutti i procedimenti dinanzi alla Commissione di vigilanza si applica la legge sulla giustizia amministrativa[^7-1].
 
-<sup>2</sup> Decisioni della Commissione di vigilanza possono essere impugnate mediante ricorso al Tribunale amministrativo. Fanno eccezione le decisioni sulla valutazione dell'esame di avvocatura.
+<sup>2</sup> Le decisioni della Commissione di vigilanza possono essere impugnate mediante ricorso al Tribunale della magistratura entro 30 giorni dalla comunicazione della decisione motivata.
 
 <sup>3</sup> La Commissione di vigilanza può emanare decisioni in merito all'esame di avvocatura nel dispositivo. Le persone interessate possono richiedere per iscritto una decisione motivata alla Commissione di vigilanza entro dieci giorni dalla comunicazione. Per il resto l'articolo 48 della legge sulla giustizia amministrativa fa stato per analogia.
 
@@ -220,7 +240,7 @@ decide:
 
 **Iscrizione nel registro cantonale degli avvocati**
 
-<sup>1</sup> La Commissione di vigilanza stabilisce, nel singolo caso, il contenuto dell'esame attitudinale secondo la LLCA[^17-1] e del colloquio di verifica delle competenze professionali secondo la LLCA. Si applicano per analogia le disposizioni del regolamento d'esame.
+<sup>1</sup> La Commissione di vigilanza stabilisce, nel singolo caso, il contenuto della prova attitudinale secondo la LLCA[^17-1] e del colloquio di verifica delle competenze professionali secondo la LLCA. Si applicano per analogia le disposizioni dell'ordinanza sull'esame di avvocatura.
 
 [^17-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/it)
 
@@ -255,6 +275,8 @@ decide:
 **Disposizione transitoria**
 
 <sup>1</sup> Alle procedure pendenti dinanzi alla Commissione di vigilanza prima dell'entrata in vigore della presente legge deve essere applicato il nuovo diritto. Fanno eccezione le procedure disciplinari, se il vecchio diritto risulta più favorevole per gli interessati.
+
+<sup>2</sup> Le nuove regolamentazioni in materia di vigilanza finanziaria sono valide a partire dal primo anno contabile che inizia dopo l'entrata in vigore della modifica della presente legge.
 
 #### Art. 22
 

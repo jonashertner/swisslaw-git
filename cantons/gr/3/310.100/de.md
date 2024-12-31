@@ -4,20 +4,21 @@ number: "310.100"
 title: Anwaltsgesetz
 short: AnwG
 language: de
-version: 2023-04-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 2006-02-14
 in_force: 2006-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/310.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3316/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3390/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Anwaltsgesetz
 
-Vom 14.02.2006 (Stand 01.04.2023)
+(AnwG)
+
+Vom 14.02.2006 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden,
 
@@ -64,15 +65,20 @@ beschliesst:
 
 **Aufsichtskommission 1. Wahl, Zusammensetzung, Entschädigung**
 
-<sup>1</sup> Kantonsgericht und Verwaltungsgericht wählen gemeinsam für eine Amtsdauer von vier Jahren eine Aufsichtskommission von fünf Mitgliedern und drei Stellvertretenden.
+<sup>1</sup> Das Obergericht wählt die fünf Mitglieder der Aufsichtskommission und die drei Stellvertretenden für eine Dauer von vier Jahren. Ersatzwahlen während der Amtsdauer sind möglich.
 
-<sup>2</sup> Der Aufsichtskommission gehören in der Regel zwei im Register des Kantons Graubünden eingetragene Anwältinnen oder Anwälte und je ein Mitglied des Kantons- und des Verwaltungsgerichts an.
+<sup>2</sup> Die Aufsichtskommission besteht in der Regel aus:
+
+- a) einem ordentlichen Mitglied des Obergerichts, das die Aufsichtskommission präsidiert;
+- b) einem weiteren ordentlichen Mitglied des Obergerichts, das einer anderen Abteilung des Obergerichts angehört als die Präsidentin oder der Präsident;
+- c) drei weiteren Mitgliedern, von denen in der Regel zwei Anwältinnen und Anwälte sind, die im Kanton praktizieren;
+- d) drei Stellvertreterinnen oder Stellvertreter.
 
 <sup>3</sup> Sämtliche Mitglieder und Stellvertretenden müssen im Besitz des Anwaltspatents sein.
 
-<sup>4</sup> Die Aufsichtskommission konstituiert sich selbst. Sie kann ein Sekretariat und ein Aktuariat bestellen.
+<sup>4</sup> Die Aufsichtskommission konstituiert sich selbst. Administrativ ist sie dem Obergericht angegliedert. Sie verfügt dort über eine Zustelladresse, kann die Räumlichkeiten des Obergerichts nutzen und dessen Sekretariat sowie Aktuariat beanspruchen.
 
-<sup>5</sup> Die Regierung legt die Arbeitsentschädigungen und Spesenvergütungen der Mitglieder der Aufsichtskommission fest.
+<sup>5</sup> Die Regierung legt die Arbeitsentschädigungen und Spesenvergütungen für die Mitglieder der Aufsichtskommission fest.
 
 #### Art. 6
 
@@ -80,17 +86,29 @@ beschliesst:
 
 <sup>1</sup> Die Aufsichtskommission ist die Aufsichtsbehörde über die Anwältinnen und Anwälte.
 
-<sup>2</sup> Insbesondere hat sie folgende Aufgaben:
+<sup>2</sup> Ihr obliegen insbesondere:
 
-- a) Sie überwacht die Tätigkeit der Anwältinnen und Anwälte und übt das Disziplinarrecht aus;
-- b) Sie führt das Anwaltsregister und die öffentliche Liste der Angehörigen von Mitgliedstaaten der EU oder EFTA;
-- c) Sie entscheidet über die Zulassung zur Anwaltsprüfung, führt die Anwaltsprüfungen durch, erteilt das Anwaltspatent und die Praktikumsbewilligung und entscheidet über den Entzug des Anwaltspatents;
-- d) Sie entscheidet über die Entbindung vom Berufsgeheimnis;
-- e) Sie ist mit dem Vollzug des BGFA[^6-1] betraut, soweit dieses Gesetz nicht ausdrücklich eine andere Instanz für zuständig erklärt.
+- a) die Überwachung der Tätigkeit der Anwältinnen und Anwälte sowie die Ausübung des Disziplinarrechts;
+- b) die Führung des Anwaltsregisters und der öffentlichen Liste der Angehörigen von Mitgliedstaaten der EU oder EFTA;
+- c) die Zulassung zur Anwaltsprüfung, die Durchführung der Anwaltsprüfungen, die Erteilung des Anwaltspatents und der Praktikumsbewilligung und der Entscheid über den Entzug des Anwaltspatents sowie der erteilten Bewilligungen;
+- d) der Entscheid über die Entbindung vom Berufsgeheimnis;
+- e) der Vollzug des BGFA[^6-1], soweit dieses Gesetz nicht ausdrücklich eine andere Instanz für zuständig erklärt.
 
-<sup>3</sup> Die Aufsichtskommission erstattet dem Grossen Rat jährlich Bericht.
+<sup>3</sup> …
 
 [^6-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+
+#### Art. 6a
+
+**3. Aufsicht**
+
+<sup>1</sup> Das Obergericht übt die Aufsicht über die Aufsichtskommission aus.
+
+<sup>2</sup> Es verfügt gegenüber der Aufsichtskommission und deren Mitgliedern über dieselben Aufsichtsinstrumente und Hilfsmittel wie gegenüber den richterlichen Behörden und deren Mitgliedern, die seiner direkten Aufsicht unterstehen. Die Bestimmungen des Gerichtsorganisationsgesetzes[^6a-1] über die Justizaufsicht finden sinngemäss Anwendung.
+
+<sup>3</sup> Das Obergericht entscheidet über die Entbindung der Kommissionsmitglieder vom Amtsgeheimnis für Aussagen vor anderen Behörden und für die Aktenedition.
+
+[^6a-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 7
 
@@ -98,7 +116,7 @@ beschliesst:
 
 <sup>1</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, gilt für alle Verfahren vor der Aufsichtskommission das Gesetz über die Verwaltungsrechtspflege[^7-1].
 
-<sup>2</sup> Entscheide der Aufsichtskommission können mit Beschwerde an das Verwaltungsgericht weitergezogen werden. Ausgenommen sind Entscheide über die Bewertung der Anwaltsprüfung.
+<sup>2</sup> Entscheide der Aufsichtskommission können innert 30 Tagen seit der Mitteilung des begründeten Entscheids mit Beschwerde an das Justizgericht weitergezogen werden.
 
 <sup>3</sup> Die Aufsichtskommission kann Entscheide über die Anwaltsprüfung im Dispositiv erlassen. Die betroffenen Personen können bei der Aufsichtskommission innert zehn Tagen seit der Mitteilung schriftlich einen begründeten Entscheid verlangen. Im Übrigen gilt Artikel 48 des Gesetzes über die Verwaltungsrechtspflege sinngemäss.
 
@@ -224,7 +242,7 @@ beschliesst:
 
 **Eintragung in das kantonale Anwaltsregister**
 
-<sup>1</sup> Die Aufsichtskommission bestimmt im Einzelfall den Inhalt der Eignungsprüfung gemäss BGFA[^17-1] und des Gesprächs zur Prüfung der beruflichen Fähigkeiten gemäss BGFA. Die Bestimmungen des Prüfungsreglementes gelten sinngemäss.
+<sup>1</sup> Die Aufsichtskommission bestimmt im Einzelfall den Inhalt der Eignungsprüfung gemäss BGFA[^17-1] und des Gesprächs zur Prüfung der beruflichen Fähigkeiten gemäss BGFA. Die Bestimmungen der Verordnung über die Anwaltsprüfung gelten sinngemäss.
 
 [^17-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
@@ -259,6 +277,8 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Auf vor In-Kraft-Treten dieses Gesetzes hängige Verfahren vor der Aufsichtskommission ist neues Recht anzuwenden. Davon ausgenommen sind Disziplinarverfahren, soweit das alte Recht für die Betroffenen günstiger ist.
+
+<sup>2</sup> Die neuen finanzaufsichtsrechtlichen Regelungen gelten vom ersten Rechnungsjahr an, das nach dem Inkrafttreten der Änderung dieses Gesetzes beginnt.
 
 #### Art. 22
 
