@@ -4,7 +4,7 @@ number: "814.31.4"
 title: "RÈGLEMENT du 16.12.2015 en matière d'organisation et de gestion en cas d'évènements ABC (R-ABC)"
 short: R-ABC
 language: fr
-version: 2016-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/814.31.4?id=b7358641-1415-4635-a402-8a477fc10200"
 ---
 
@@ -99,7 +99,7 @@ arrête
 
 <sup>1</sup> La commission consultative en matière de défense incendie et de secours au sens de l'article 5 LSDIS[^6-1] doit également être consultée en matière de lutte contre les évènements ABC.
 
-<sup>2</sup> Une commission SDIS-ABC est constituée par le service en charge de la lutte contre les évènements ABC du département et l'ECA. Elle se réunit tant que de besoin.
+<sup>2</sup> Une commission stratégique SDIS-ABC est constituée par le service en charge de la lutte contre les événements ABC et l'ECA. Elle est composée paritairement de représentants des deux entités précitées. Elle se réunit tant que de besoin.
 
 [^5-1]: Modif. 1 du 15.01.2025: Modification Al. 2; entrée en vigueur au 01.01.2025
 [^6-1]: Loi du 02.03.2010 sur le service de défense contre l'incendie et de secours ([BLV 963.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15?id=dc52e66b-a4d0-4b22-9cca-46a5f68a6f1a))
@@ -120,9 +120,9 @@ arrête
 
 #### Art. 8
 
-**Tâches de la commission SDIS-ABC [^7-1]**
+**Tâches de la commission stratégique SDIS-ABC [^7-1]**
 
-<sup>1</sup> La commission SDIS-ABC :
+<sup>1</sup> La commission stratégique SDIS-ABC :
 
 - a. définit les orientations stratégiques de l'activité dans le domaine des évènements ABC du canton et assure le contrôle de leur mise en œuvre ;
 - b. assure la coordination entre la mission de lutte contre les évènements ABC et les missions de défense contre l'incendie et de secours ;
@@ -180,7 +180,7 @@ arrête
 
 <sup>1</sup> Les interventions sont conduites par le chef d'intervention du SDIS désigné pour lutter contre les évènements ABC, en fonction de la mission à accomplir et du territoire sur lequel se produit l'évènement.
 
-<sup>2</sup> Le chef d'intervention peut faire appel aux conseillers techniques du département. Ceux-ci peuvent décider des mesures d'assainissement.
+<sup>2</sup> Le chef d'intervention peut faire appel aux conseillers techniques du département. Ceux-ci décident des mesures d'assainissement.
 
 <sup>3</sup> La conduite de l'intervention peut être prise en charge par un membre du SDIS Lausanne ou un membre de l'Inspectorat cantonal de l'ECA si les circonstances l'exigent.
 
@@ -212,7 +212,7 @@ arrête
 
 <sup>1</sup> Le chef d'intervention peut faire appel aux services d'entreprises privées en cas de besoin non couvert par les ressources des SDIS, notamment pour ce qui concerne le matériel. Cas échéant, il formule une demande par l'intermédiaire du CTA.
 
-<sup>2</sup> Il sollicite l'accord préalable du conseiller technique du département, sauf en cas d'urgence.
+<sup>2</sup> Il doit obtenir l'accord préalable du conseiller technique du département, sauf en cas d'urgence.
 
 [^15-2]: Modif. 1 du 15.01.2025: Modification Al. 2; entrée en vigueur au 01.01.2025
 
@@ -271,7 +271,7 @@ arrête
 <sup>1</sup> Les frais d'intervention et de rétablissement des SDIS, ainsi que ceux des conseillers techniques du département et des collaborateurs de l'ECA qui participent à l'intervention, sont facturés comme suit :
 
 - a. Sapeurs-pompiers et personnel
-- 1\. sapeur-pompier du SDIS Lausanne : Fr. 170.00 par heure ;
+- 1\. sapeur-pompier professionnel du SDIS Lausanne : Fr. 170.00 par heure ;
 - 2\. autre sapeur-pompier : Fr. 100.00 par heure ;
 - 3\. personnel du département et de l'ECA : Fr. 170.00 par heure.
 - b. Véhicules et engins
@@ -282,7 +282,7 @@ arrête
 
 <sup>2</sup> Les montants horaires prévus ci-dessus incluent les frais relatifs à l'état de préparation, aux sapeurs-pompiers volontaires alarmés et non-engagés, et au traitement administratif des interventions effectué par le SDIS. Les effectifs sapeurs-pompiers pris en compte correspondent aux effectifs recommandés selon la directive cantonale sur les consignes d'intervention à l'intention des SDIS.
 
-<sup>3</sup> Des frais d'usure du matériel et d'autres frais sont facturés en sus, à hauteur de 20 % des frais de sapeurs-pompiers et de personnel au sens de l'alinéa 1, lettre a, mais au minimum Fr. 100.00 et au maximum Fr. 1000.00 par intervention.
+<sup>3</sup> Des frais d'usure du matériel et d'autres frais sont facturés en sus, à hauteur de 20 % des frais de main-d'œuvre des sapeurs-pompiers et de personnel au sens de l'alinéa 1, lettre a, mais au minimum Fr. 100.00 et au maximum Fr. 1'000.00 par intervention.
 
 <sup>4</sup> Des frais pour le traitement administratif du dossier par le département sont facturés en sus, à hauteur de 5 % des frais d'intervention et de rétablissement, mais au minimum Fr. 100.00 et au maximum Fr. 500.00 par intervention.
 
@@ -308,15 +308,14 @@ Fr. 1'700.00 par alarme en cas d'intervention ou de mise sur pied du SDIS Lausan
 
 **Formation et exercices des SDIS [^chapterChapitreVI-1]**
 
-<sup>1</sup> Les montants alloués conformément à l'article 22a LSDIS[^24-1] pour la formation et les exercices font l'objet d'une directive établie conjointement par le département et l'ECA.
+<sup>1</sup> Les montants alloués conformément à l'article 22a LSDIS pour la formation, les exercices, leur encadrement ainsi que la logistique font l'objet d'une directive établie conjointement par le département et l'ECA.
 
 <sup>2</sup> Les montants versés par participant aux exercices doivent être compris dans les limites suivantes :
 
-- a. de Fr. 65.00 à 70.00 de l'heure pour le SDIS Lausanne ;
-- b. de Fr. 20.00 à 25.00 de l'heure pour les autres SDIS.
+- a. de Fr. 65.00 à 85.00 de l'heure pour le SDIS Lausanne ;
+- b. de Fr. 20.00 à 35.00 de l'heure pour les autres SDIS.
 
 [^chapterChapitreVI-1]: Modif. 1 du 15.01.2025: Modification Al. 1; entrée en vigueur au 01.01.2025; Modification Al. 2, a-b; entrée en vigueur au 01.01.2025
-[^24-1]: Loi du 02.03.2010 sur le service de défense contre l'incendie et de secours ([BLV 963.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15?id=dc52e66b-a4d0-4b22-9cca-46a5f68a6f1a))
 
 #### Art. 25
 
@@ -350,16 +349,15 @@ Fr. 1'700.00 par alarme en cas d'intervention ou de mise sur pied du SDIS Lausan
 
 **Equipement [^26-2]**
 
-<sup>1</sup> Les montants alloués conformément à l'article 22a LSDIS[^27-1] pour les frais d'entretien et d'entreposage de l'équipement, du matériel, des véhicules et des engins font l'objet d'une directive établie conjointement par le département et l'ECA.
+<sup>1</sup> Les montants alloués conformément à l'article 22a LSDIS pour les frais d'entretien et d'entreposage de l'équipement, du matériel, des véhicules et des engins sont fixés de manière forfaitaire dans une directive établie conjointement par le département et l'ECA.
 
 <sup>2</sup> Ces montants sont déterminés en fonction des moyens alloués aux SDIS. Ils sont compris dans les limites suivantes :
 
-- a. de Fr. 2'000.00 à 25'000.00 par an pour les frais d'entreposage de l'équipement, du matériel et des véhicules ;
-- b. de Fr. 500.00 à 4'500.00 par an pour les frais d'entretien de l'équipement et du matériel ;
+- a. de Fr. 4'000.00 à 30'000.00 par an pour les frais d'entreposage de l'équipement, du matériel et des véhicules ;
+- b. de Fr. 1'000.00 à 6'000.00 par an pour les frais d'entretien de l'équipement et du matériel ;
 - c. de Fr. 800.00 à 1'500.00 par an et par véhicule pour les frais d'entretien des véhicules et des bateaux.
 
 [^26-2]: Modif. 1 du 15.01.2025: Modification Al. 1; entrée en vigueur au 01.01.2025; Modification Al. 2, a-b; entrée en vigueur au 01.01.2025
-[^27-1]: Loi du 02.03.2010 sur le service de défense contre l'incendie et de secours ([BLV 963.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15?id=dc52e66b-a4d0-4b22-9cca-46a5f68a6f1a))
 
 #### Art. 28
 
