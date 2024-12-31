@@ -4,13 +4,12 @@ number: "935.300"
 title: "Ordonnance concernant la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées"
 short: OHR
 language: fr
-version: 2022-09-01
-valid_until: 2024-12-31
-version_adopted: 2022-06-22
+version: 2025-01-01
+version_adopted: 2024-10-16
 adopted: 2004-11-03
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.300"
-pdf: "https://lex.vs.ch/api/fr/versions/3042/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3389/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,13 +18,13 @@ pdf: "https://lex.vs.ch/api/fr/versions/3042/pdf_file"
 
 (OHR)
 
-du 03.11.2004 (état 01.09.2022)
+du 03.11.2004 (état 01.01.2025)
 
-Le Conseil d'Etat du Canton du Valais
+Le Conseil d'Etat du canton du Valais
 
-vu les articles 6 alinéa 3, 8 alinéa 2, 17, 20 alinéa 2, 23 alinéa 3, 25 alinéa 4, 28, 29 alinéa 3 et 34 alinéa 3 de la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées du 8 avril 2004;
+vu les articles 6 alinéa 3, 8 alinéa 2, 20 alinéa 2, 23 alinéa 3, 25 alinéa 4, 28, 29 alinéa 3 et 34 alinéa 3 de la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées du 8 avril 2004 (LHR);
 
-sur la proposition du Département de l'économie, des institutions et de la sécurité,
+sur la proposition du département en charge de l'économie,
 
 ordonne:
 
@@ -325,9 +324,13 @@ ordonne:
 
 <sup>1</sup> Le chiffre d'affaires à prendre en compte pour le calcul de la redevance annuelle est celui réalisé durant l'année précédente (TVA et taxe de séjour déduites).
 
-<sup>2</sup> Le titulaire de l'autorisation d'exploiter doit communiquer le chiffre d'affaires annuel pour le 31 mars au plus tard à la commune, au moyen de la formule officielle. Les communes doivent transmettre au Service les formules remplies pour le 31 mai au plus tard.
+<sup>2</sup> Le titulaire de l'autorisation d'exploiter communique au Service le chiffre d'affaires annuel pour le 31 mars au plus tard. Il le fait, en principe, au moyen du logiciel prévu par le Service pour cette procédure.
 
-<sup>3</sup> Le titulaire de l'autorisation pour le commerce de détail de boissons alcoolisées doit communiquer le chiffre d'affaires annuel pour le 31 mars au plus tard au Service, au moyen de la formule officielle.
+<sup>3</sup> Le titulaire de l'autorisation pour le commerce de détail de boissons alcoolisées communique au Service le chiffre d'affaires annuel pour le 31 mars au plus tard. Il le fait, en principe, au moyen du logiciel prévu par le Service pour cette procédure.
+
+<sup>4</sup> Le Service peut autoriser d'autres modes de transmission du chiffre d'affaires annuel, en particulier par voie postale.
+
+<sup>5</sup> Le Service transmet aux communes les chiffres d'affaires communiqués, pour leur information.
 
 #### Art. 30
 

@@ -4,13 +4,12 @@ number: "935.300"
 title: "Verordnung betreffend das Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken *"
 short: VBB
 language: de
-version: 2022-09-01
-valid_until: 2024-12-31
-version_adopted: 2022-06-22
+version: 2025-01-01
+version_adopted: 2024-10-16
 adopted: 2004-11-03
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.300"
-pdf: "https://lex.vs.ch/api/de/versions/3042/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3389/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,13 @@ pdf: "https://lex.vs.ch/api/de/versions/3042/pdf_file"
 
 (VBB)
 
-vom 03.11.2004 (Stand 01.09.2022)
+vom 03.11.2004 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 6 Absatz 3, 8 Absatz 2, 17, 20 Absatz 2, 23 Absatz 3, 25 Absatz 4, 28, 29 Absatz 3 und 34 Absatz 3 des Gesetzes über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken vom 8. April 2004;
+eingesehen die Artikel 6 Absatz 3, 8 Absatz 2, 20 Absatz 2, 23 Absatz 3, 25 Absatz 4, 28, 29 Absatz 3 und 34 Absatz 3 des Gesetzes über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken vom 8. April 2004 (GBB);
 
-auf Antrag des Departements für Volkswirtschaft, Institutionen und Sicherheit,
+auf Antrag des für die Volkswirtschaft zuständigen Departements,
 
 verordnet:
 
@@ -325,9 +324,13 @@ verordnet:
 
 <sup>1</sup> Der für die Berechnung der jährlichen Abgabe zu berücksichtigende Umsatz ist jener, welcher im vorangehenden Jahr (abzüglich MwSt. und Kurtaxe) erzielt wurde.
 
-<sup>2</sup> Der Inhaber der Betriebsbewilligung muss der Gemeinde den Jahresumsatz bis spätestens am 31. März mittels offiziellen Formulars mitteilen. Die Gemeinden müssen bis spätestens am 31. Mai die ausgefüllten Formulare der Dienststelle zustellen.
+<sup>2</sup> Der Inhaber der Betriebsbewilligung teilt der Dienststelle den Jahresumsatz bis spätestens am 31. März mit. Dies geschieht grundsätzlich mit Hilfe der von der Dienststelle für dieses Verfahren vorgesehenen Software.
 
-<sup>3</sup> Der Inhaber der Bewilligung für den Kleinhandel mit alkoholischen Getränken muss der Dienststelle den Jahresumsatz bis spätestens am 31. März mittels offiziellen Formulars mitteilen.
+<sup>3</sup> Der Inhaber einer Bewilligung für den Kleinhandel mit alkoholischen Getränken teilt der Dienststelle den Jahresumsatz bis spätestens am 31. März mit. Dies geschieht grundsätzlich mit Hilfe der von der Dienststelle für dieses Verfahren vorgesehenen Software.
+
+<sup>4</sup> Die Dienststelle kann andere Wege für die Übermittlung des Jahresumsatzes genehmigen, insbesondere den Postweg.
+
+<sup>5</sup> Die Dienststelle leitet die gemeldeten Umsätze zu Informationszwecken an die Gemeinden weiter.
 
 #### Art. 30
 
