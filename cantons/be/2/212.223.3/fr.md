@@ -4,13 +4,12 @@ number: "212.223.3"
 title: "Règlement fixant les émoluments de l'Autorité bernoise de surveillance des institutions de prévoyance et des fondations"
 short: REmo ABSPF
 language: fr
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-26
+version: 2025-01-01
+version_adopted: 2024-05-28
 adopted: 2014-08-20
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/212.223.3"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2425/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3057/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2425/pdf_file"
 
 (REmo ABSPF)
 
-du 20.08.2014 (état au 01.01.2022)
+du 20.08.2014 (état au 01.01.2025)
 
 Le conseil de surveillance de l'Autorité bernoise de surveillance des institutions de prévoyance et des fondations,
 
@@ -36,7 +35,7 @@ arrête:
 <sup>1</sup> Le présent règlement fixe
 
 - a les émoluments perçus par l'Autorité bernoise de surveillance des institutions de prévoyance et des fondations (ABSPF) pour ses activités et
-- b le prélèvement, au prorata, de la taxe de haute surveillance pour les différentes institutions de prévoyance.
+- b …
 
 ## 2 Emoluments liés aux prestations de service et aux activités spéciales
 
@@ -170,6 +169,8 @@ arrête:
 
 #### Art. 11a
 
+**Principes**
+
 <sup>1</sup> Lorsque le montant des revenus de l’émolument excède les charges annuelles de l’ABSPF de plus de cinq pour cent suite à une alimentation ou une dissolution partielle du fonds de réserve au sens de l’article 17 LABSPF, l’ABSPF rembourse aux institutions placées sous sa surveillance au moins la part de l'excédent de l'émolument dépassant ce pourcentage.
 
 <sup>2</sup> Lorsque l’excédent au sens de l’alinéa 1 est de cinq pour cent ou moins, l’ABSPF peut le rembourser, en totalité ou en partie, aux institutions placées sous sa surveillance.
@@ -178,13 +179,19 @@ arrête:
 
 <sup>4</sup> Elle déduit le montant du remboursement de la facture du prochain émolument annuel de base.
 
-## 4 Taxe de haute surveillance
+#### Art. 11b
+
+**Notions**
+
+<sup>1</sup> Le montant des revenus de l’émolument comprend toutes les rentrées financières de l’ABSPF fondées sur les articles 2 à 11. Les intérêts et les produits dus aux manifestations de l’ABSPF ne sont pas comptabilisés dans le montant des revenus de l’émolument.
+
+<sup>2</sup> Le total des charges comprend toutes les dépenses de l’ABSPF, déduction faite des dépenses de tiers directement imputables dues aux manifestations de l’ABSPF.
+
+## 4
 
 #### Art. 12
 
-<sup>1</sup> Le prélèvement, au prorata, de la taxe annuelle de haute surveillance auprès des différentes institutions de prévoyance ainsi que le montant de la part sont régis par l'article 16 LABSPF.
-
-<sup>2</sup> La part de chaque institution de prévoyance à la taxe annuelle de haute surveillance est facturée dans les 30 jours qui suivent la communication par la Commission de haute surveillance de la prévoyance professionnelle du montant de la taxe. Elle est exigible à la date de la présentation de la facture et payable dans les 30 jours.
+**…**
 
 ## 5 Dispositions transitoires et dispositions finales
 

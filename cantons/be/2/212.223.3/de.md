@@ -4,13 +4,12 @@ number: "212.223.3"
 title: Gebührenreglement der Bernischen BVG- und Stiftungsaufsicht
 short: GebR BBSA
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-26
+version: 2025-01-01
+version_adopted: 2024-05-28
 adopted: 2014-08-20
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/212.223.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2425/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2425/pdf_file"
 
 (GebR BBSA)
 
-vom 20.08.2014 (Stand 01.01.2022)
+vom 20.08.2014 (Stand 01.01.2025)
 
 Der Aufsichtsrat der Bernischen BVG- und Stiftungsaufsicht,
 
@@ -36,7 +35,7 @@ beschliesst:
 <sup>1</sup> Dieses Reglement bestimmt
 
 - a die Gebühren, die die Bernische BVG- und Stiftungsaufsicht (BBSA) für ihre Tätigkeiten erhebt, und
-- b den anteilsmässigen Bezug der Oberaufsichtsabgabe von den einzelnen Vorsorgeeinrichtungen.
+- b …
 
 ## 2 Gebühren für Dienstleistungen und spezielle Tätigkeiten
 
@@ -170,6 +169,8 @@ beschliesst:
 
 #### Art. 11a
 
+**Grundsätze**
+
 <sup>1</sup> Übersteigt der Gebührenertrag den Gesamtaufwand der BBSA in einem Geschäftsjahr nach der allfälligen Äufnung bzw. teilweisen Auflösung des Reservefonds nach Artikel 17 BBSAG um mehr als fünf Prozent, vergütet die BBSA den Beaufsichtigten mindestens den fünf Prozent übersteigenden Prozentanteil des Gebührenüberschusses.
 
 <sup>2</sup> Beträgt der Gebührenüberschuss nach Absatz 1 fünf Prozent oder weniger, kann die BBSA ihn den Beaufsichtigten ganz oder teilweise vergüten.
@@ -178,13 +179,19 @@ beschliesst:
 
 <sup>4</sup> Die BBSA bringt die Vergütung des Gebührenüberschusses in der nächsten Rechnung der jährlichen Grundgebühr in Abzug.
 
-## 4 Oberaufsichtsabgabe
+#### Art. 11b
+
+**Begriffe**
+
+<sup>1</sup> Der Gebührenertrag umfasst alle Einnahmen der BBSA, die sich auf Artikel 2 bis 11 stützen. Nicht zum Gebührenertrag zählen Zinserträge und Erträge aus den Veranstaltungen der BBSA.
+
+<sup>2</sup> Der Gesamtaufwand umfasst alle Aufwendungen der BBSA abzüglich den direkt zuordenbaren Drittaufwendungen, die im Zusammenhang mit den Veranstaltungen der BBSA entstehen.
+
+## 4
 
 #### Art. 12
 
-<sup>1</sup> Der anteilsmässige Bezug der jährlichen Oberaufsichtsabgabe von den einzelnen Vorsorgeeinrichtungen und die Höhe des Anteils richten sich nach Artikel 16 BBSAG.
-
-<sup>2</sup> Der Anteil der einzelnen Vorsorgeeinrichtung an der jährlichen Oberaufsichtsabgabe wird innert 30 Tagen, nachdem die Oberaufsichtskommission Berufliche Vorsorge die Höhe der Oberaufsichtsabgabe der BBSA mitgeteilt hat, in Rechnung gestellt. Er wird bei Rechnungsstellung fällig und ist innert 30 Tagen zu bezahlen.
+**…**
 
 ## 5 Übergangs- und Schlussbestimmungen
 
