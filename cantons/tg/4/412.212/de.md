@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "412.212"
-title: Verordnung des Regierungsrates über die berufliche Grundbildung
+title: Verordnung über die berufliche Grundbildung
 short: BbG
 language: de
-version: 2022-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-30
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-22
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.212"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2513/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2837/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die berufliche Grundbildung
+# Verordnung über die berufliche Grundbildung
 
 BbG
 
 (BbG)
 
-vom 25.11.2014 (Stand 01.08.2022)
+vom 25.11.2014 (Stand 01.01.2025)
 
 ## 1. Unterricht an den Berufsfachschulen
 
@@ -226,9 +226,11 @@ vom 25.11.2014 (Stand 01.08.2022)
 
 **Prüfungskommission Thurgau**
 
-<sup>1</sup> Die Prüfungskommission Thurgau setzt sich aus den Präsidien der einzelnen Kommissionen gemäss § 19a, einer Vertretung des Gewerbeverbandes Thurgau und der Industrie- und Handelskammer Thurgau, dem Amtschef oder der Amtschefin sowie einer weiteren Person des Amtes zusammen.
+<sup>1</sup> Die Prüfungskommission Thurgau setzt sich aus 9 bis 11 Vertreterinnen und Vertretern der verschiedenen Branchen zusammen.
 
-<sup>2</sup> Die Leitung obliegt dem Amtschef oder der Amtschefin. Die Administration erfolgt durch das Amt.
+<sup>1<sup>bis</sup></sup> Als Beisitzende wirken die Prüfungsleitung und ein Schulleitungsmitglied einer Berufsfachschule mit.
+
+<sup>2</sup> Die Leitung der Kommission obliegt dem Präsidenten oder der Präsidentin. Die Administration erfolgt durch das Amt.
 
 <sup>3</sup> Die Mitglieder werden vom Departement gewählt.
 
@@ -236,9 +238,11 @@ vom 25.11.2014 (Stand 01.08.2022)
 
 **Aufgaben**
 
-<sup>1</sup> Die Prüfungskommission Thurgau übt die Oberaufsicht über das gesamte Qualifikationsverfahren aus.
+<sup>1</sup> Die Prüfungskommission Thurgau übt die Aufsicht über das gesamte Qualifikationsverfahren aus.
 
-<sup>2</sup> Sie wählt die Chefexperten und Chefexpertinnen und schlägt die Mitglieder der einzelnen Kommissionen gemäss § 19a vor.
+<sup>2</sup> Sie wählt die Chefexperten und Chefexpertinnen sowie die Prüfungsexperten und Prüfungsexpertinnen.
+
+<sup>2<sup>bis</sup></sup> Sie erlässt unter Einbezug der Chefexperten und Chefexpertinnen Prüfungsentscheide und behandelt dagegen erhobene Einsprachen.
 
 <sup>3</sup> Sie regelt ihre Organisation in einer Geschäftsordnung, die der Genehmigung des Departements bedarf.
 
@@ -252,33 +256,9 @@ vom 25.11.2014 (Stand 01.08.2022)
 
 <sup>3</sup> Sie stellt den Austausch zwischen den Kantonen sicher.
 
-#### § 19a
+#### § 19a–19b
 
-**Kommissionen**
-
-<sup>1</sup> Es werden drei Kommissionen gebildet, die sich aus der folgenden Anzahl von Vertreterinnen und Vertretern der entsprechenden Branchen zusammensetzen:
-
-- 1\. Kommission Gewerbe, Industrie, Gesundheit und Soziales (Kommission GIGS): — 9 bis 11
-- 2\. Kommission Kaufmännische Berufe (Kommission KB): — 5 bis 7
-- 3\. Kommission Detailhandel (Kommission DH): — 5 bis 7
-
-<sup>2</sup> Als Beisitzende wirken die Prüfungsleitung und ein Schulleitungsmitglied einer Berufsfachschule mit.
-
-<sup>3</sup> Die Leitung der Kommissionen obliegt dem Präsidenten oder der Präsidentin. Die Administration erfolgt durch das Amt.
-
-<sup>4</sup> Die Mitglieder werden vom Departement gewählt.
-
-#### § 19b
-
-**Aufgaben**
-
-<sup>1</sup> Die Kommissionen üben die Aufsicht über die Durchführung des Qualifikationsverfahrens in den ihnen zugeteilten Berufen aus.
-
-<sup>2</sup> Sie wählen die Prüfungsexperten und Prüfungsexpertinnen und schlagen die Chefexperten und Chefexpertinnen vor und sorgen für deren Schulung.
-
-<sup>3</sup> Sie erlassen unter Einbezug der Chefexperten und Chefexpertinnen Prüfungsentscheide und behandeln dagegen erhobene Einsprachen.
-
-<sup>4</sup> Sie geben sich eine Geschäftsordnung, die der Genehmigung des Amtes bedarf.
+**…**
 
 #### § 20
 
