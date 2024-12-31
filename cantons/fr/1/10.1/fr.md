@@ -4,13 +4,12 @@ number: "10.1"
 title: Constitution du canton de Fribourg
 short: Cst.
 language: fr
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-02-09
+version: 2025-01-01
+version_adopted: 2024-06-09
 adopted: 2004-05-16
 in_force: 2005-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/10.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8069/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8177/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Constitution du canton de Fribourg
 
 (Cst.)
 
-du 16.05.2004 (version entrée en vigueur le 01.01.2021)
+du 16.05.2004 (version entrée en vigueur le 01.01.2025)
 
 Nous, peuple du canton de Fribourg,
 
@@ -632,6 +631,8 @@ Nous nous donnons la présente Constitution.
 **Santé**
 
 <sup>1</sup> L'Etat s'emploie à la promotion de la santé et veille à ce que toute personne ait accès à des soins de qualité égale.
+
+<sup>1a</sup> Il assure des soins urgents accessibles 24 heures sur 24 et 7 jours sur 7 dans toutes les régions du canton.
 
 <sup>2</sup> Il prend des mesures visant à protéger la population contre la fumée passive.
 
@@ -1415,10 +1416,12 @@ Nous nous donnons la présente Constitution.
 
 **Garantie fédérale**
 
-La Constitution a été garantie par le Conseil des Etats le 08.06.2005 et par le Conseil national le 13.06.2005.
+La Constitution a été garantie par le Conseil des Etats le 08.06.2005 et par le Conseil national le 13.06.2005 ([FF 2005 4025](https://www.fedlex.admin.ch/eli/fga/2005/616/fr)).
 
-La modification du 20.06.2008 a été garantie par le Conseil des Etats le 01.06.2010 et par le Conseil national le 08.06.2010.
+La modification du 20.06.2008 a été garantie par le Conseil des Etats le 01.06.2010 et par le Conseil national le 08.06.2010 ([FF 2010 3977](https://www.fedlex.admin.ch/eli/fga/2010/748/fr)).
 
-La modification du 09.02.2017 a été garantie par le Conseil des Etats le 12.03.2019 et par le Conseil national le 22.03.2019.
+La modification du 09.02.2017 a été garantie par le Conseil des Etats le 12.03.2019 et par le Conseil national le 22.03.2019 ([FF 2019 2821](https://www.fedlex.admin.ch/eli/fga/2019/791/fr)).
+
+La modification du 09.06.2024 a été garantie par le Conseil des Etats le 13.03.2025 et par le Conseil national le 17.03.2025 ([FF 2025 966](https://www.fedlex.admin.ch/eli/fga/2025/966/fr)).
 
 2004\_035

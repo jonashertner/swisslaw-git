@@ -4,13 +4,12 @@ number: "10.1"
 title: Verfassung des Kantons Freiburg
 short: KV
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-02-09
+version: 2025-01-01
+version_adopted: 2024-06-09
 adopted: 2004-05-16
 in_force: 2005-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/10.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8069/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8177/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Verfassung des Kantons Freiburg
 
 (KV)
 
-vom 16.05.2004 (Fassung in Kraft getreten am 01.01.2021)
+vom 16.05.2004 (Fassung in Kraft getreten am 01.01.2025)
 
 Wir, das Volk des Kantons Freiburg,
 
@@ -632,6 +631,8 @@ geben uns folgende Verfassung:
 **Gesundheit**
 
 <sup>1</sup> Der Staat bemüht sich um die Gesundheitsförderung und sorgt dafür, dass jeder Person die gleichen Pflegeleistungen zugänglich sind.
+
+<sup>1a</sup> Er stellt die Notfallpflege rund um die Uhr und an 7 Tagen in der Woche in allen Regionen des Kantons sicher.
 
 <sup>2</sup> Er ergreift Massnahmen zum Schutz der Bevölkerung vor dem Passivrauchen.
 
@@ -1415,10 +1416,12 @@ geben uns folgende Verfassung:
 
 **Gewährleistung des Bundes**
 
-Die Staatsverfassung ist am 08.06.2005 vom Ständerat und am 13.06.2005 vom Nationalrat gewährleistet worden.
+Die Staatsverfassung ist am 08.06.2005 vom Ständerat und am 13.06.2005 vom Nationalrat gewährleistet worden ([BBl 2005 4245](https://www.fedlex.admin.ch/eli/fga/2005/616/de)).
 
-Die Änderung vom 20.06.2008 ist am 01.06.2010 vom Ständerat und am 08.06.2010 vom Nationalrat gewährleistet worden.
+Die Änderung vom 20.06.2008 ist am 01.06.2010 vom Ständerat und am 08.06.2010 vom Nationalrat gewährleistet worden ([BBl 2010 4365](https://www.fedlex.admin.ch/eli/fga/2010/748/de)).
 
-Die Änderung vom 09.02.2017 ist am 12.03.2019 vom Ständerat und am 22.03.2019 vom Nationalrat gewährleistet worden.
+Die Änderung vom 09.02.2017 ist am 12.03.2019 vom Ständerat und am 22.03.2019 vom Nationalrat gewährleistet worden ([BBl 2019 2861](https://www.fedlex.admin.ch/eli/fga/2019/791/de)).
+
+Die Änderung vom 09.06.2024 ist am 13.03.2025 vom Ständerat und am 17.03.2025 vom Nationalrat gewährleistet worden ([BBl 2025 966](https://www.fedlex.admin.ch/eli/fga/2025/966/de)).
 
 2004\_035
