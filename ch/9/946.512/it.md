@@ -4,11 +4,11 @@ title: "Ordinanza del 17 giugno 1996 sul sistema svizzero di accreditamento e la
 short: OAccD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904"
 language: it
-version: 2023-07-27
+version: 2025-01-01
 adopted: 1996-06-17
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230727-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it"
 
 (Ordinanza sull’accreditamento e sulla designazione, OAccD)
 
-del 17 giugno 1996 (Stato 27 luglio 2023)
+del 17 giugno 1996 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,13 +25,13 @@ visti gli articoli 8, 10, 15 e 16 della legge federale del 6 ottobre 1995[^ingre
 
 ordina:
 
-[^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-2]: [RS 0.946.523.21](https://fedlex.data.admin.ch/eli/cc/2001/436)
-[^ingress-3]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-2]: [RS 0.946.523.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4340)
+[^ingress-3]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 [^ingress-4]: [RU 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11)
-[^ingress-7]: RS **0**.**812.101.933.6**
+[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40078)
+[^ingress-7]: [RS 0.812.101.933.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40144)
 [^ingress-8]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 27 lug. 2023 ([RU 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 ## Capitolo 1: Oggetto, scopo dell’accreditamento e della designazione
@@ -496,7 +496,7 @@ L’organismo assume le spese derivanti dalla sua domanda di accreditamento o di
 
 <sup>3</sup> L’autorizzazione può essere vincolata a oneri e condizioni ed è revocabile in ogni momento.
 
-[^38-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^38-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^38-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 [^38-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 
@@ -514,7 +514,7 @@ La SECO designa e conduce la delegazione svizzera negli organi degli accordi seg
 - b. Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul reciproco riconoscimento in materia di valutazione della conformità;
 - c. Allegato I dell’Accordo del 21 giugno 2001 di emendamento della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio;
 - d. Accordo del 17 novembre 2022 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sul reciproco riconoscimento in materia di valutazione della conformità;
-- e. Accordo del 12 gennaio 2023 tra la Confederazione Svizzera e gli Stati Uniti d’America sul reciproco riconoscimento relativo alla buona prassi di fabbricazione dei prodotti farmaceutici.[^39-2]
+- e. Accordo del 12 gennaio 2023 tra la Confederazione Svizzera e gli Stati Uniti d’America sul reciproco riconoscimento della buona prassi di fabbricazione dei prodotti farmaceutici.[^39-2]
 
 <sup>2</sup>
 
@@ -587,21 +587,23 @@ Allegato 2[^t-2]
 
 (art. 7 cpv. 1)
 
-## Criteri internazionali applicabili agli organismi di valutazione della conformità
+## Requisiti internazionali applicabili agli organismi di valutazione della conformità
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DEFR del 5 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
-[^annex2-lvlu1-1]: Il testo di tale norme può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^t-2]: Nuovo testo giusta il n. II dell’O del 23 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
+[^annex2-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch<sup>.</sup>
 
-- a. SN EN ISO/IEC 17025, Requisiti generali per la competenza dei laboratori di prova e di taratura;
+- a. SN EN ISO/IEC 17025, Requisiti generali per la competenza dei laboratori di prova e taratura;
 - b. SN EN ISO 15189, Laboratori medici – Requisiti riguardanti la qualità e la competenza;
-- c. ISO Guide 34, Requisiti generali riguardanti la competenza dei produttori di materiali di riferimento;
-- d. SN EN ISO/IEC 17043, Valutazione della conformità – Requisiti generali per prove valutative interlaboratorio;
+- c. SN EN ISO 17034, Requisiti generali per la competenza dei produttori di materiali di riferimento;
+- d. SN EN ISO/IEC 17043, Valutazione della conformità – Requisiti generali per la competenza degli organizzatori di prove valutative interlaboratorio;
 - e. SN EN ISO/IEC 17020, Valutazione della conformità – Requisiti per il funzionamento di vari tipi di organismi che eseguono ispezioni;
-- f. SN EN ISO/IEC 17021, Valutazione della conformità – Requisiti per gli organismi che forniscono audit e certificazione di sistemi di gestione;
+- f. SN EN ISO/IEC 17021-1, Valutazione della conformità – Requisiti per gli organismi che forniscono audit e certificazione di sistemi di gestione;
 - g. SN EN ISO/IEC 17024, Valutazione della conformità – Requisiti generali per organismi che eseguono la certificazione di persone;
-- h. SN EN ISO/IEC 17065, Valutazione della conformità – Requisiti per organismi che certificano prodotti, processi e servizi.
+- h. SN EN ISO/IEC 17065, Valutazione della conformità – Requisiti per organismi che certificano prodotti, processi e servizi;
+- i. SN EN ISO 20387, Biotecnologie – Biobanking – Requisiti generali per il biobanking;
+- j. SN EN ISO/IEC 17029, Valutazione della conformità – Principi e requisiti generali per gli organismi di validazione e verifica.
 
 Allegato 3[^t-3]
 
@@ -613,41 +615,53 @@ Allegato 4[^t-4]
 
 ## Sigle di accreditamento
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del DEFR del 5 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
+[^t-4]: Nuovo testo giusta il n. II dell’O del 23 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 
-Le seguenti sigle di accreditamento possono essere utilizzate sia in versione rossa che nera.
+Le seguenti sigle di accreditamento possono essere utilizzate sia nella versione rossa che nera:
 
 - a. Sigla dei laboratori di prova accreditati («Swiss Testing Service» [STS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image2.png)
 
 - b. Sigla dei laboratori di taratura accreditati («Swiss Calibration Service» [SCS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image4.png)
 
-- c. Sigla dei produttori di materiale di riferimento accreditati («Swiss Reference Material Service» [SRMS])
+- c. Sigla dei laboratori medici accreditati («Swiss Medical Testing Service» [SMTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image6.png)
 
-- d. Sigla dei servizi svizzeri di prove valutative interlaboratorio accreditati («Swiss Proficiency Testing Service» [SPTS])
+- d. Sigla dei produttori di materiale di riferimento accreditati («Swiss Reference Material Service» [SRMS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image8.png)
 
-- e. Sigla degli organismi d’ispezione accreditati («Swiss Inspection Service» [SIS])
+- e. Sigla degli organizzatori di prove valutative interlaboratorio accreditati («Swiss Proficiency Testing Service» [SPTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image10.png)
 
-- f. Sigla degli organismi di certificazione di sistemi di gestione accreditati («Swiss Certification Service for Managementsystems» [SCESm])
+- f. Sigla degli organismi di ispezione accreditati («Swiss Inspection Service» [SIS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image12.png)
 
-- g. Sigla degli organismi di certificazione di persone accreditati («Swiss Certification Service for Persons» [SCESe])
+- g. Sigla degli organismi accreditati di certificazione di sistemi di gestione («Swiss Certification Service for Managementsystems» [SCESm])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image14.png)
 
-- h. Sigla degli organismi di certificazione di prodotti, processi e servizi accreditati («Swiss Certification Service for Products, Processes and Services» [SCESp])
+- h. Sigla degli organismi accreditati di certificazione di persone («Swiss Certification Service for Persons» [SCESe])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image16.png)
+
+- i. Sigla degli organismi accreditati di certificazione di prodotti, processi e servizi («Swiss Certification Service for Products, Processes and Services» [SCESp])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image17.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image18.png)
+
+- j. Sigla delle biobanche accreditate («Swiss Biobanking Service» [SBBS])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image19.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image20.png)
+
+- k. Sigla degli organismi di validazione e verifica accreditati («Swiss Validation and Verification Service» [SVVS])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image21.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/it/xml/image/image22.png)
 
 Allegato 5[^t-5]
 
@@ -659,7 +673,7 @@ Allegato 5[^t-5]
 
 1
 
-- 11\.1
+- 1\.1
 
   L’organismo designato, il suo direttore ed il personale incaricato della valutazione e della verifica non possono:
 
@@ -673,23 +687,20 @@ Allegato 5[^t-5]
 
 - 2\.1 L’organismo designato e il suo personale devono svolgere le operazioni di valutazione e di verifica con la massima integrità professionale e la massima competenza richiesta, non devono essere sottoposti a nessun genere di pressione o incentivo, in particolare di tipo economico, che possa influire sul loro giudizio o sui risultati del loro controllo, in particolare a pressioni o incentivi provenienti da persone o gruppi di persone interessati ai risultati delle verifiche.
 - 2\.2 Se un organismo designato subappalta determinati lavori specifici che riguardano la verifica e la constatazione dei fatti, esso deve accertarsi preliminarmente che il subappaltatore rispetti tutte le disposizioni della legislazione settoriale relativa ai prodotti. L’organismo designato deve tenere a disposizione dell’organo di controllo competente i documenti relativi alla valutazione della competenza del subappaltatore e dei lavori svolti da quest’ultimo.
-- 3
+- 3 L’organismo designato deve soddisfare i seguenti criteri:
+- 3\.1 essere in grado di garantire lo svolgimento di tutti i compiti assegnatigli dalla legislazione settoriale e per i quali esso è stato designato, indipendentemente dal fatto che i suddetti compiti siano eseguiti dall’organismo stesso o sotto la sua responsabilità;
+- 3\.2 disporre in particolare del personale e dei mezzi necessari per svolgere adeguatamente i compiti tecnici e amministrativi connessi con l’esecuzione delle operazioni di valutazione e di verifica; ciò implica la presenza in organico, in quantità sufficiente, di personale scientifico dotato dell’esperienza e delle competenze adeguate per valutare la funzionalità e le prestazioni dei dispositivi per i quali l’organismo è stato designato, in considerazione della legislazione settoriale;
+- 3\.3 avere accesso al materiale necessario per le verifiche richieste, in particolare per le verifiche eccezionali;
+- 3\.4 disporre delle descrizioni di procedure adeguate all’esecuzione delle valutazioni di conformità che consentono di garantire la trasparenza e la ripetibilità di tali procedure;
+- 3\.5 eseguire le valutazioni di conformità nel rispetto del principio di proporzionalità, evitando di imporre inutili stress a produttori, mandatari, importatori o commercianti;
+- 3\.6
 
-  L’organismo designato deve soddisfare i seguenti criteri:
+  informare l’autorità di designazione su:
 
-  - 3\.1 essere in grado di garantire lo svolgimento di tutti i compiti assegnatigli dalla legislazione settoriale e per i quali esso è stato designato, indipendentemente dal fatto che i suddetti compiti siano eseguiti dall’organismo stesso o sotto la sua responsabilità;
-  - 3\.2 disporre in particolare del personale e dei mezzi necessari per svolgere adeguatamente i compiti tecnici e amministrativi connessi con l’esecuzione delle operazioni di valutazione e di verifica; ciò implica la presenza in organico, in quantità sufficiente, di personale scientifico dotato dell’esperienza e delle competenze adeguate per valutare la funzionalità e le prestazioni dei dispositivi per i quali l’organismo è stato designato, in considerazione della legislazione settoriale;
-  - 3\.3 avere accesso al materiale necessario per le verifiche richieste, in particolare per le verifiche eccezionali;
-  - 3\.4 disporre delle descrizioni di procedure adeguate all’esecuzione delle valutazioni di conformità che consentono di garantire la trasparenza e la ripetibilità di tali procedure;
-  - 3\.5 eseguire le valutazioni di conformità nel rispetto del principio di proporzionalità, evitando di imporre inutili stress a produttori, mandatari, importatori o commercianti;
-  - 3\.6
-
-    informare l’autorità di designazione su:
-
-    - – il rifiuto, la limitazione, la sospensione o la revoca di un certificato di conformità;
-    - – tutte le circostanze suscettibili di avere ripercussioni sul campo d’applicazione e sulle condizioni della designazione;
-    - – qualsiasi richiesta di informazioni ricevuta da parte delle autorità di sorveglianza del mercato in merito alle attività di valutazione della conformità,
-    - – le attività di valutazione della conformità svolte nel campo d’applicazione della sua designazione e altre attività, incluse le attività transfrontaliere e l’assegnazione di subappalti, sempre che ciò sia richiesto dall’autorità di designazione.
+  - – il rifiuto, la limitazione, la sospensione o la revoca di un certificato di conformità;
+  - – tutte le circostanze suscettibili di avere ripercussioni sul campo d’applicazione e sulle condizioni della designazione;
+  - – qualsiasi richiesta di informazioni ricevuta da parte delle autorità di sorveglianza del mercato in merito alle attività di valutazione della conformità,
+  - – le attività di valutazione della conformità svolte nel campo d’applicazione della sua designazione e altre attività, incluse le attività transfrontaliere e l’assegnazione di subappalti, sempre che ciò sia richiesto dall’autorità di designazione.
 
 - 4
 

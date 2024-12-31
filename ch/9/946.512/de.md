@@ -4,11 +4,11 @@ title: "Verordnung vom 17. Juni 1996 über das schweizerische Akkreditierungssys
 short: AkkBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904"
 language: de
-version: 2023-07-27
+version: 2025-01-01
 adopted: 1996-06-17
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230727-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de"
 
 (Akkreditierungs‑ und Bezeichnungsverordnung, AkkBV)
 
-vom 17. Juni 1996 (Stand am 27. Juli 2023)
+vom 17. Juni 1996 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,13 +25,13 @@ gestützt auf die Artikel 8, 10, 15 und 16 des Bundesgesetzes vom 6. Oktober 199
 
 verordnet:
 
-[^ingress-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-2]: [SR 0.946.523.21](https://fedlex.data.admin.ch/eli/cc/2001/436)
-[^ingress-3]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^ingress-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-2]: [SR 0.946.523.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4340)
+[^ingress-3]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 [^ingress-4]: [AS 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [SR 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11)
-[^ingress-7]: [SR 0.812.101.933.6](https://fedlex.data.admin.ch/eli/cc/2023/419)
+[^ingress-5]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-6]: [SR 0.946.536.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40078)
+[^ingress-7]: [SR 0.812.101.933.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40144)
 [^ingress-8]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 27. Juli 2023 ([AS 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 ## 1. Kapitel: Gegenstand; Zweck der Akkreditierung und der Bezeichnung
@@ -495,7 +495,7 @@ Die Stelle hat die Kosten zu tragen, die sie im Rahmen von Verfahren nach dieser
 
 <sup>3</sup> Die Bewilligung kann mit Auflagen oder Bedingungen verbunden werden und ist jederzeit widerrufbar.
 
-[^38-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^38-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^38-2]: Fassung gemäss Ziff. I der V vom 5. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 [^38-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 
@@ -590,17 +590,19 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des WBF vom 5. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 [^annex2-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 - a. SN EN ISO/IEC 17025, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien;
 - b. SN EN ISO 15189, Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz;
-- c. ISO Guide 34, Allgemeine Anforderungen an die Kompetenz von Referenzmaterial-Herstellern;
-- d. SN EN ISO/IEC 17043, Konformitätsbewertung – Allgemeine Anforderungen an Eignungsprüfungen;
+- c. SN EN ISO 17034, Allgemeine Anforderungen an die Kompetenz von Referenzmaterialherstellern;
+- d. SN EN ISO/IEC 17043, Konformitätsbewertung – Allgemeine Anforderungen an die Kompetenz von Anbietern von Eignungsprüfungen;
 - e. SN EN ISO/IEC 17020, Konformitätsbewertung – Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen;
-- f. SN EN ISO/IEC 17021, Konformitätsbewertung – Anforderungen an Stellen, die Managementsysteme auditieren und zertifizieren;
+- f. SN EN ISO/IEC 17021-1, Konformitätsbewertung – Anforderungen an Stellen, die Managementsysteme auditieren und zertifizieren;
 - g. SN EN ISO/IEC 17024, Konformitätsbewertung – Allgemeine Anforderungen an Stellen, die Personen zertifizieren;
-- h. SN EN ISO/IEC 17065, Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren.
+- h. SN EN ISO/IEC 17065, Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren;
+- i. SN EN ISO 20387, Biotechnologie – Biobanking – Allgemeine Anforderungen an Biobanking;
+- j. SN EN ISO/IEC 17029, Konformitätsbewertung – Allgemeine Grundsätze und Anforderungen an Stellen, die Validierungs- und Verifizierungstätigkeiten durchführen.
 
 Anhang 3[^t-3]
 
@@ -612,41 +614,53 @@ Anhang 4[^t-4]
 
 ## Akkreditierungszeichen
 
-[^t-4]: Fassung gemäss Ziff. II der V des WBF vom 5. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
+[^t-4]: Fassung gemäss Ziff. II der V vom 23. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 
 Folgende Akkreditierungszeichen können in roter oder in schwarzer Ausführung verwendet werden:
 
 - a. Zeichen der akkreditierten Prüfstellen («Swiss Testing Service» [STS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image2.png)
 
 - b. Zeichen der akkreditierten Kalibrierstellen («Swiss Calibration Service» [SCS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image4.png)
 
-- c. Zeichen der akkreditierten Hersteller von Referenzmaterialien («Swiss Reference Material Service» [SRMS])
+- c. Zeichen der akkreditierten medizinischen Laboratorien («Swiss Medical Testing Service» [SMTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image6.png)
 
-- d. Zeichen der akkreditierten Anbieter von Eignungsprüfungen («Swiss Proficiency Testing Service» [SPTS])
+- d. Zeichen der akkreditierten Hersteller von Referenzmaterialien («Swiss Reference Material Service» [SRMS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image8.png)
 
-- e. Zeichen der akkreditierten Inspektionsstellen («Swiss Inspection Service» [SIS])
+- e. Zeichen der akkreditierten Anbieter von Eignungsprüfungen («Swiss Proficiency Testing Service» [SPTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image10.png)
 
-- f. Zeichen der akkreditierten Zertifizierungsstellen für Managementsysteme («Swiss Certification Service for Managementsystems» [SCESm])
+- f. Zeichen der akkreditierten Inspektionsstellen («Swiss Inspection Service» [SIS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image12.png)
 
-- g. Zeichen der akkreditierten Zertifizierungsstellen für Personen («Swiss Certification Service for Persons» [SCESe])
+- g. Zeichen der akkreditierten Zertifizierungsstellen für Managementsysteme («Swiss Certification Service for Managementsystems» [SCESm])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image14.png)
 
-- h. Zeichen der akkreditierten Zertifizierungsstellen für Produkte, Prozesse und Dienstleistungen («Swiss Certification Service for Products, Processes and Services» [SCESp])
+- h. Zeichen der akkreditierten Zertifizierungsstellen für Personen («Swiss Certification Service for Persons» [SCESe])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image16.png)
+
+- i. Zeichen der akkreditierten Zertifizierungsstellen für Produkte, Prozesse und Dienstleistungen («Swiss Certification Service for Products, Processes and Services» [SCESp])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image17.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image18.png)
+
+- j. Zeichen der akkreditierten Biobanken («Swiss Biobanking Service» [SBBS])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image19.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image20.png)
+
+- k. Zeichen der akkreditierten Validierungs- und Verifizierungsstellen («Swiss Validation and Verification Service» [SVVS])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image21.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/de/xml/image/image22.png)
 
 Anhang 5[^t-5]
 

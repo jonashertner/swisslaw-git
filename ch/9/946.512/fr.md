@@ -4,11 +4,11 @@ title: "Ordonnance du 17 juin 1996 sur le système suisse d'accréditation et la
 short: OAccD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904"
 language: fr
-version: 2023-07-27
+version: 2025-01-01
 adopted: 1996-06-17
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230727-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr"
 
 (Ordonnance sur l’accréditation et la désignation, OAccD)
 
-du 17 juin 1996 (État le 27 juillet 2023)
+du 17 juin 1996 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,13 +25,13 @@ vu les art. 8, 10, 15 et 16 de la loi fédérale du 6 octobre 1995 sur les entra
 
 arrête:
 
-[^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-2]: [RS 0.946.523.21](https://fedlex.data.admin.ch/eli/cc/2001/436)
-[^ingress-3]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-2]: [RS 0.946.523.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4340)
+[^ingress-3]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 [^ingress-4]: [RO 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11)
-[^ingress-7]: [RS 0.812.101.933.6](https://fedlex.data.admin.ch/eli/cc/2023/419)
+[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40078)
+[^ingress-7]: [RS 0.812.101.933.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40144)
 [^ingress-8]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 27 juil. 2023 ([RO 2023 418](https://fedlex.data.admin.ch/eli/oc/2023/418)).
 
 ## Chapitre 1 Objet; but de l’accréditation et de la désignation
@@ -126,7 +126,7 @@ Peuvent également être accrédités, compte tenu des intérêts de l’économ
 
 #### Art. 8
 
-<sup>1</sup> Les demandes d’accréditation sont à adresser au SAS avec la documentation nécessaire.
+Les demandes d’accréditation sont à adresser au SAS avec la documentation nécessaire.
 
 ### Section 6 Évaluation de la demande d’accréditation
 
@@ -495,7 +495,7 @@ L’organisme supporte les coûts qu’il engendre dans le cadre des procédures
 
 <sup>3</sup> L’autorisation peut être assortie de charges et de conditions et elle est en tout temps révocable.
 
-[^38-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^38-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 [^38-3]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 
@@ -590,17 +590,19 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du DEFR du 5 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
-[^annex2-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
+[^annex2-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
-- a. SN EN ISO/CEI 17025, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais;
+- a. SN EN ISO/IEC 17025, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais;
 - b. SN EN ISO 15189, Laboratoires de biologie médicale – Exigences concernant la qualité et la compétence;
-- c. ISO Guide 34, Exigences générales pour la compétence des producteurs de matériaux de référence;
-- d. SN EN ISO/CEI 17043, Évaluation de la conformité – Exigences générales concernant les essais d’aptitude;
-- e. SN EN ISO/CEI 17020, Évaluation de la conformité – Exigences pour le fonctionnement de différents types d’organismes procédant à l’inspection;
-- f. SN EN ISO/CEI 17021, Évaluation de la conformité – Exigences pour les organismes procédant à l’audit et à la certification des systèmes de management;
-- g. SN EN ISO/CEI 17024, Évaluation de la conformité – Exigences générales pour les organismes de certification procédant à la certification de personnes;
-- h. SN EN ISO/CEI 17065, Évaluation de la conformité – Exigences pour les organismes certifiant les produits, les procédés et les services.
+- c. SN EN ISO 17034, Exigences générales pour la compétence des producteurs de matériaux de référence;
+- d. SN EN ISO/IEC 17043, Évaluation de la conformité – Exigences générales concernant la compétence des organisateurs d’essais d’aptitude;
+- e. SN EN ISO/IEC 17020, Évaluation de la conformité – Exigences pour le fonctionnement de différents types d’organismes procédant à l’inspection;
+- f. SN EN ISO/IEC 17021-1, Évaluation de la conformité – Exigences pour les organismes procédant à l’audit et à la certification des systèmes de management;
+- g. SN EN ISO/IEC 17024, Évaluation de la conformité – Exigences générales pour les organismes de certification procédant à la certification de personnes;
+- h. SN EN ISO/IEC 17065, Évaluation de la conformité – Exigences pour les organismes certifiant les produits, les procédés et les services;
+- i. SN EN ISO 20387, Biotechnologie – «Biobanking» – Exigences générales relatives au «biobanking»;
+- j. SN EN ISO/IEC 17029 Évaluation de la conformité – Principes généraux et exigences pour les organismes de validation et de vérification.
 
 Annexe 3[^t-3]
 
@@ -612,41 +614,53 @@ Annexe 4[^t-4]
 
 ## Sigles d’accréditation
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O du DEFR du 5 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1411](https://fedlex.data.admin.ch/eli/oc/2014/301)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 649](https://fedlex.data.admin.ch/eli/oc/2024/649)).
 
-Les sigles d’accréditation suivants peuvent être utilisés dans leur version rouge ou noire.
+Les sigles d’accréditation suivants peuvent être utilisés dans leur version rouge ou noire:
 
 - a. Sigle des laboratoires d’essais accrédités («Swiss Testing Service» [STS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image2.png)
 
 - b. Sigle des laboratoires d’étalonnage accrédités («Swiss Calibration Service» [SCS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image4.png)
 
-- c. Sigle des producteurs de matériaux de référence accrédités («Swiss Reference Material Service» [SRMS])
+- c. Sigle des laboratoires de biologie médicale accrédités («Swiss Medical Testing Service» [SMTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image6.png)
 
-- d. Sigle des organisateurs d’essais d’aptitude accrédités («Swiss Proficiency Testing Service» [SPTS])
+- d. Sigle des producteurs de matériaux de référence accrédités («Swiss Reference Material Service» [SRMS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image8.png)
 
-- e. Sigle des organismes d’inspection accrédités («Swiss Inspection Service» [SIS])
+- e. Sigle des organisateurs d’essais d’aptitude accrédités («Swiss Proficiency Testing Service» [SPTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image10.png)
 
-- f. Sigle des organismes accrédités de certification de systèmes de management («Swiss Certification Service for Managementsystems» [SCESm])
+- f. Sigle des organismes d’inspection accrédités («Swiss Inspection Service» [SIS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image12.png)
 
-- g. Sigle des organismes accrédités de certification de personnes («Swiss Certification Service for Persons» [SCESe])
+- g. Sigle des organismes accrédités de certification de systèmes de management («Swiss Certification Service for Managementsystems» [SCESm])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image14.png)
 
-- h. Sigle des organismes accrédités de certification de produits, procédés et services («Swiss Certification Service for Products, Processes and Services» [SCESp])
+- h. Sigle des organismes accrédités de certification de personnes («Swiss Certification Service for Persons» [SCESe])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230727/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image16.png)
+
+- i. Sigle des organismes accrédités de certification de produits, procédés et services («Swiss Certification Service for Products, Processes and Services» [SCESp])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image17.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image18.png)
+
+- j. Sigle des biobanques accréditées («Swiss Biobanking Service» [SBBS])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image19.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image20.png)
+
+- k. Sigle des organismes de validation et de vérification accrédités («Swiss Validation and Verification Service» [SVVS])
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image21.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20250101/fr/xml/image/image22.png)
 
 Annexe 5[^t-5]
 
