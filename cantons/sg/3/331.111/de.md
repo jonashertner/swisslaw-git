@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2024-10-01
-valid_until: 2024-12-31
-version_adopted: 2024-09-10
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2024-12-10
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3681/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3731/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.10.2024)
+vom 12.12.1995 (Stand 01.01.2025)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -41,27 +41,20 @@ als Verordnung:[^ingress-2]
 
 - a) die Überwachung der Einhaltung der Versicherungspflicht;[^1-1]
 - b) die Überwachung des Vollzugs der Prämienverbilligung[^1-2], die Abrechnung des Bundesbeitrags für die Prämienverbilligung und der Prämienverbilligung mit der Sozialversicherungsanstalt;
-- c) die Führung der Spitalliste;[^1-3]
-- d) die Zulassung und die Beaufsichtigung von Leistungserbringern im Bereich der ambulanten Krankenpflege.[^1-4]
+- c) …
+- d) die Zulassung und die Beaufsichtigung von Leistungserbringern im Bereich der ambulanten Krankenpflege.[^1-3]
 
 [^1-1]: Art. 6 Abs. 1 des BG über die Krankenversicherung vom 18. März 1994, SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 [^1-2]: Art. 65 Abs. 1 und Art. 66 des BG über die Krankenversicherung vom 18. März 1994, SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^1-3]: Art. 39 Abs. 1 Bst. e des BG über die Krankenversicherung vom 18. März 1994, [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^1-4]: Art. 36 und Art. 38 des BG über die Krankenversicherung vom 18. März 1994, [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^1-3]: Art. 36 und Art. 38 des BG über die Krankenversicherung vom 18. März 1994, [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 2
 
-**b) Departement des Innern**
-
-<sup>1</sup> Das Departement des Innern führt die Liste der Pflegeheime.[^2-1]
-
-[^2-1]: Art. 39 Abs. 3 des BG über die Krankenversicherung vom 18. März 1994, SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+**…**
 
 #### Art. 2a
 
-**c) Verwaltungsrekurskommission**
-
-<sup>1</sup> Verfügungen nach Art. 1 Abs. 2 Bst. d dieses Erlasses können mit Rekurs bei der Verwaltungsrekurskommission angefochten werden.
+**…**
 
 #### Art. 3
 
