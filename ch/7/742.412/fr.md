@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuse
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/fr"
 
 (RSD)
 
-du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2023)
+du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -156,11 +156,11 @@ Annexe 1[^t-1]
 
 ## Version applicable du RID
 
-[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O du DETEC du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 19 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 680](https://fedlex.data.admin.ch/eli/oc/2024/680)).
 
-Sont applicables les prescriptions du RID 2023[^annex1-lvlu1-1].
+Sont applicables les prescriptions du RID 2025[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Le contenu du RID 2023 (annexe de l’appendice C à la Convention relative aux transports internationaux ferroviaires dans la teneur du protocole de modification du 3 juin 1999; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), www.otif.org &gt; Textes de référence &gt; RID 2023.
+[^annex1-lvlu1-1]: Le contenu du RID 2025 (annexe de l’appendice C à la Convention relative aux transports internationaux ferroviaires dans la teneur du Protocole de modification du 3 juin 1999; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), [www.otif.org](https://www.otif.org) &gt; Textes de référence &gt; RID 2025.
 
 Annexe <sup>2</sup>.1[^t-2]
 

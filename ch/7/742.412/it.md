@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2012 concernente il trasporto di merci pericolos
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-785-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-785-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/it"
 
 (RSD)
 
-del 31 ottobre 2012 (Stato 1° gennaio 2023)
+del 31 ottobre 2012 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: Nuovo testo giusta l’all. n. II 6 dell’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-3]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 1
 
@@ -156,11 +156,11 @@ Allegato 1[^t-1]
 
 ## Versione applicabile del RID
 
-[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O del DATEC del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
+[^t-1]: Nuovo testo giusta I dell’O del DATEC del 19 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 680](https://fedlex.data.admin.ch/eli/oc/2024/680)).
 
-Si applicano le prescrizioni del RID 2023[^annex1-lvlu1-1].
+Si applicano le prescrizioni del RID 2025[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Il contenuto del RID 2023 (allegato dell’appendice C alla Convenzione relativa ai trasporti internazionali ferroviari nel tenore del Protocollo di modifica del 3 giugno 1999, COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Textes de référence &gt; RID 2023.
+[^annex1-lvlu1-1]: Il contenuto del RID 2025 (all. dell’appendice C alla Conv. relativa ai transporti internazionali ferroviari nel tenore del Prot. di mod. del 3 giu. 1999, COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Textes de référence &gt; RID 2025.
 
 Allegato 2.1[^t-2]
 
@@ -168,7 +168,7 @@ Allegato 2.1[^t-2]
 
 ## Deroghe a singole prescrizioni del RID per il trasporto di merci pericolose per ferrovia nel traffico nazionale
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DATEC del 7 dic. 2018 ([RU 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)). Aggiornato dal n. I cpv. 2 dell’O del DATEC del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 7 dic. 2018 ([RU 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)). Aggiornato dalla cifra I cpv. 2 dell’O del DATEC del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)).
 
 <table>
 <tr><th>Numeri delle prescrizioni del RID</th><th>Prescrizioni deroganti al RID per il trasporto di merci pericolose per ferrovia nel traffico nazionale</th></tr>
@@ -191,7 +191,7 @@ Allegato 2.2[^t-3]
 
 ## Deroghe a singole prescrizioni del RID per il trasporto di merci pericolose tramite impianti di trasporto a fune nel traffico nazionale
 
-[^t-3]: Nuovo testo giusta il n. I dell’O del DATEC del 7 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+[^t-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 7 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
 
 In aggiunta alle deroghe elencate nell’allegato 2.1, al trasporto di merci pericolose tramite impianti di trasporto a fune nel traffico nazionale si applicano le seguenti deroghe:
 

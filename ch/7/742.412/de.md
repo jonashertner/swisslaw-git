@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güt
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/de"
 
 (RSD)
 
-vom 31. Oktober 2012 (Stand am 1. Januar 2023)
+vom 31. Oktober 2012 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -156,11 +156,11 @@ Anhang 1[^t-1]
 
 ## Gültige Fassung des RID
 
-[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des UVEK vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
+[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 19. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 680](https://fedlex.data.admin.ch/eli/oc/2024/680)).
 
-Es gelten die Vorschriften des RID 2023[^annex1-lvlu1-1].
+Es gelten die Vorschriften des RID der Ausgabe 2025[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Der Inhalt des RID 2023 (Anlage von Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter www.otif.org &gt; Referenztexte &gt; RID 2023 abgerufen werden.
+[^annex1-lvlu1-1]: Der Inhalt des RID 2025 (Anlage von Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter: [www.otif.org](https://www.otif.org) &gt; Referenztexte &gt; RID 2025 abgerufen werden.
 
 Anhang <sup>2</sup>.1[^t-2]
 
