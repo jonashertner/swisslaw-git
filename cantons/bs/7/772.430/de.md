@@ -3,188 +3,148 @@ canton: BS
 number: "772.430"
 title: Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-29
+version: 2025-01-01
+version_adopted: 2024-06-27
 adopted: 2024-06-27
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.430"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6111/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie
 
-Wasser / Energie[^t-1]
+Wasser / Energie
 
-Vom 4. Juli 2011 (Stand 1. Januar 2024)
+Vom 27. Juni 2024 (Stand 1. Januar 2025)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
-gestützt auf § 10 Abs. 2 lit. h und § 23 Abs. 1 lit. b des Gesetzes über die Industriellen Werke Basel (IWB-Gesetz) vom 11. Februar 2009[^ingress-1],
+gestützt auf § 10 Abs. 2 lit. h und § 23 Abs. 1 lit. d des Gesetzes über die Industriellen Werke Basel (IWB-Gesetz) vom 11. Februar 2009[^ingress-1],
 
 beschliesst:
 
-[^t-1]: Vom Regierungsrat genehmigt am 30. 8. 2011.
 [^ingress-1]: SG [772.300](https://www.gesetzessammlung.bs.ch/data/772.300/de).
-
-## I. Allgemeines
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Gebührentarif regelt die Belieferung der Endverbrauchenden durch die IWB mit elektrischer Energie.
+<sup>1</sup> Dieser Gebührentarif legt die Tarife für die Energielieferung im Rahmen der Grundversorgung mit elektrischer Energie durch die IWB Industrielle Werke Basel (IWB) fest.
 
 #### § 2
 
 **Grundsätze der Tarifgestaltung**
 
-<sup>1</sup> Die Tarife für den Bezug von elektrischer Energie beinhalten keine Netznutzungsentgelte. Die Tarife für die Netznutzung sind im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 geregelt.
+<sup>1</sup> Der Gebührentarif basiert auf den Vorgaben des Bundesgesetzes über die Stromversorgung (Stromversorgungsgesetz, StromVG) vom 23. März 2007[^2-1] und der Stromversorgungsverordnung (StromVV) vom 14. März 2008[^2-2].
 
-<sup>2</sup> Die Tarife für den Bezug elektrischer Energie bestehen entweder aus Einfachtarifen in Rp./kWh oder aus nach Zeiten differenzierten Doppeltarifen (Normal- und Spartarif) in Rp./kWh.
+<sup>2</sup> Der Gebührentarif unterscheidet zwischen verschiedenen Kundensegmenten. Für jedes Segment gelten einheitliche Tarife. Vorgesehen sind Einfachtarife und nach Zeiten differenzierte Doppeltarife, bestehend aus einem Normaltarif und einem Spartarif. Normaltarife gelten von Montag bis Freitag zwischen 06.00 und 20.00 Uhr, Spartarife ausserhalb dieser Zeiten.
+
+[^2-1]: SR [734.7](https://db.clex.ch/link/Bund/734.7/de)
+[^2-2]: SR [734.71](https://db.clex.ch/link/Bund/734.71/de)
 
 #### § 3
 
-**Normal- und Spartarife**
+**Kundensegmente und Zuteilungskriterien**
 
-<sup>1</sup> Der Normaltarif wird von Montag bis Freitag von 06.00 Uhr bis 20.00 Uhr angewendet, der Spartarif während der restlichen Zeit.
+<sup>1</sup> Der Gebührentarif unterscheidet zwischen folgenden Kundensegmenten:
+
+<table>
+<tr><th></th><th>Segment</th><th>Zuordnungskriterium</th></tr>
+<tr><td>1</td><td>Small</td><td>Vorjahresverbrauch &lt;13 MWh oder temporäre Netzanschlüsse (Messen, Märkte, öffentliche Beleuchtung und sonstige Veranstaltungen sowie Baustromanschlüsse)</td></tr>
+<tr><td>2</td><td>Small plus</td><td>Vorjahresverbrauch ≥13 MWh bis &lt;50 MWh</td></tr>
+<tr><td>3</td><td>Medium</td><td>Vorjahresverbrauch ≥50 MWh bis &lt;100 MWh</td></tr>
+<tr><td>4</td><td>Medium plus</td><td>Vorjahresverbrauch ≥100 MWh bis &lt;1 GWh</td></tr>
+<tr><td>5</td><td>Big</td><td>Vorjahresverbrauch ≥1 GWh bis &lt;10 GWh</td></tr>
+<tr><td>6</td><td>Big plus</td><td>Vorjahresverbrauch ≥10 GWh</td></tr>
+<tr><td>7</td><td>Switch</td><td>Kundinnen und Kunden mit Wahltarif unterbrechbare Verbraucher gemäss § 13 Gebührentarif von IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie</td></tr>
+<tr><td>8</td><td>Crowd</td><td>Kundinnen und Kunden mit Wahltarif IWB Sonnenbox Crowd</td></tr>
+</table>
+
+<sup>2</sup> Der für die Zuordnung zu einem Segment massgebende Vorjahresverbrauch richtet sich nach den von IWB bei den Kundinnen und Kunden erhobenen Messdaten. Die Datenerhebung richtet sich nach §§ 45 ff. der Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität vom 14. Dezember 2023 [^3-1].
+
+<sup>3</sup> Bei Neuanschlüssen ohne Messung eines Vorjahresverbrauchs erfolgt im ersten Kalenderjahr eine Zuordnung zum Segment small, bei nachweisbar höherer Jahresverbrauchsprognose kann eine abweichende Zuordnung vorgenommen werden. Ab dem zweiten Kalenderjahr richtet sich die Zuordnung grundsätzlich nach Abs. 2. Bei unterjährigem Beginn des Grundversorgungsverhältnisses und einem Bezugszeitraum von zwei Monaten oder weniger im ersten Kalenderjahr erfolgt auch im zweiten Kalenderjahr eine Zuordnung zum Segment small und wird die Zuordnung nach dem Vorjahresverbrauch erst im dritten Kalenderjahr vorgenommen. Für die Berechnung des Vorjahresverbrauchs im zweiten Kalenderjahr gilt bei unterjährigem Beginn des Grundversorgungsverhältnisses Abs. 5.
+
+<sup>4</sup> Bei einem Kundenwechsel wird die neue Kundin oder der neue Kunde im ersten Kalenderjahr dem Segment der bisherigen Kundin oder des bisherigen Kunden zugeordnet; bei nachweisbar abweichender Jahresverbrauchsprognose der neuen Kundin oder des neuen Kunden kann eine abweichende Zuordnung vorgenommen werden. Ab dem zweiten Kalenderjahr richtet sich die Zuordnung grundsätzlich nach Abs. 2. Ist der Kundenwechsel unterjährig erfolgt und beträgt der Bezugszeitraum der neuen Kundin oder des neuen Kunden im ersten Kalenderjahr zwei Monate oder weniger, erfolgt die Zuordnung zum Segment der bisherigen Kundin oder des bisherigen Kunden für das erste und zweite Kalenderjahr und wird die Zuordnung nach dem Vorjahresverbrauch erst im dritten Kalenderjahr vorgenommen. Für die Berechnung des Vorjahresverbrauchs im zweiten Kalenderjahr gilt bei unterjährigem Beginn des Grundversorgungsverhältnisses Abs. 5.
+
+<sup>5</sup> Bei unterjährigem Beginn des Grundversorgungsverhältnisses und damit verbundenen unvollständigen Jahresverbrauchsdaten werden für die Berechnung des massgebenden Vorjahresverbrauchs die vorhandenen Messdaten linear auf 12 Monate hochgerechnet.
+
+[^3-1]: SG [772.400](https://www.gesetzessammlung.bs.ch/data/772.400/de)
 
 #### § 4
 
-**Steuern und Abgaben**
+**Tarife**
 
-<sup>1</sup> Auf allen Tarifen und Preisen wird zusätzlich die Mehrwertsteuer erhoben.
+<sup>1</sup> Pro Kundensegment gelten folgende Tarife:
 
-<sup>2</sup> Gemäss § 16 Energiegesetz vom 9. September 1998 erhebt der Kanton zusätzlich zu den Tarifen eine Förderabgabe.
+<table>
+<tr><th></th><th>Segment</th><th>Tarifbezeichnung</th><th>Einfachtarif (Rp./kWh)</th><th>Normaltarif (Rp./kWh)</th><th>Spartarif (Rp./kWh)</th></tr>
+<tr><td>1</td><td>Small</td><td>IWB Strom small</td><td>11.10</td><td>12.25</td><td>9.65</td></tr>
+<tr><td>2</td><td>Small plus</td><td>IWB Strom small plus</td><td>9.40</td><td>10.55</td><td>7.90</td></tr>
+<tr><td>3</td><td>Medium</td><td>IWB Strom medium</td><td>9.20</td><td>10.40</td><td>7.85</td></tr>
+<tr><td>4</td><td>Medium plus</td><td>IWB Strom medium plus</td><td>8.60</td><td>9.80</td><td>7.45</td></tr>
+<tr><td>5</td><td>Big</td><td>IWB Strom big</td><td>–</td><td>9.60</td><td>7.30</td></tr>
+<tr><td>6</td><td>Big plus</td><td>IWB Strom big plus</td><td>–</td><td>9.40</td><td>7.10</td></tr>
+<tr><td>7</td><td>Switch</td><td>IWB Strom switch</td><td>8.70</td><td>–</td><td>–</td></tr>
+<tr><td>8</td><td>Crowd</td><td>IWB Sonnenbox Crowd</td><td>14.85</td><td>14.85</td><td>14.85</td></tr>
+</table>
 
-## II. Tarife der elektrischen Energie
+<sup>2</sup> Ist sowohl ein Einfach- als auch ein Doppeltarif vorgesehen (Segment 1 bis 4) gilt der Doppeltarif gemäss § 2 Abs. 2, soweit gemäss Abs. 3 nicht der Einfachtarif zur Anwendung kommt.
 
-### A. Grundversorgung
+<sup>3</sup> Der Einfachtarif kommt zur Anwendung:
+
+- a) für Kundinnen und Kunden ohne Smart Meter oder anderen doppeltariffähigen Elektrizitätszähler;
+- b) für Kundinnen und Kunden mit Smart Meter oder anderem doppeltariffähigen Elektrizitätszähler, wenn:
+  - 1\. die Kundin oder der Kunde den Einfachtarif wählt oder
+  - 2\. die Kundin oder der Kunde den Einfachtarif von der bisherigen Kundin bzw. dem bisherigen Kunden übernimmt. Eine Übernahme erfolgt, wenn für den betreffenden Messpunkt zuletzt, vor Begründung des Grundversorgungsverhältnisses durch die Kundin oder den Kunden (§ 31 Abs. 2 der Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität), der Einfachtarif zur Anwendung kam und die Kundin oder der Kunde keine abweichende Wahl zugunsten des Doppeltarifs trifft.
+
+<sup>4</sup> Die Tarife werden grundsätzlich verbrauchsabhängig (pro kWh) in Rechnung gestellt. Bei fehlender Messung gilt § 5.
 
 #### § 5
 
-**Anwendung**
+**Tarifpauschalen**
 
-<sup>1</sup> In der Grundversorgung werden feste Endverbrauchende im Sinne von Art. 6 des Bundesgesetzes über die Stromversorgung (Stromversorgungsgesetz, StromVG) vom 23. März 2007 sowie freie Endverbrauchende, die gemäss Art. 13 Abs. 1 StromVG keinen Gebrauch von ihrem Netzzugang machen, mit elektrischer Energie versorgt.
+<sup>1</sup> Bei Kundinnen und Kunden ohne Messung gemäss § 40 Abs. 2 der Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität werden Tarifpauschalen in Rechnung gestellt.
+
+<sup>2</sup> Die Tarifpauschale für Kundinnen und Kunden mit temporärem Netzanschluss (Messen, Märkte, öffentliche Beleuchtung und sonstige Veranstaltungen sowie Baustromanschlüsse) ohne Messung richtet sich nach der maximalen Anschlussleistung (in kVA), der Anschlussdauer (Anzahl Tage vom Zeitpunkt der Installation bis zur Demontage des temporären Netzanschlusses), den effektiven Betriebsstunden und dem Tarif IWB Strom small (Einfachtarif). Diese berechnet sich wie folgt:
+
+Tarifpauschale für temporäre Anschlüsse (in Fr.) =
+
+Maximale Anschlussleistung x Anschlussdauer x Betriebsstunden x 0.5 x IWB Strom small, Einfachtarif
+
+<sup>3</sup> Für Kundinnen und Kunden mit dauerhaftem Netzanschluss ohne Messung wird von IWB eine angemessene Tarifpauschale festgesetzt.
 
 #### § 6
 
-**Produkte und Segmentzuteilung**
+**Wahltarif IWB Sonnenbox Crowd**
 
-<sup>1</sup> Die IWB bietet ihren Endverbrauchenden die elektrische Energie in unterschiedlicher ökologischer Qualität an. Diese haben die Möglichkeit, aus verschiedenen Produkten auszuwählen.
+<sup>1</sup> Der Tarif «IWB Sonnenbox Crowd» ist ein Tarif mit Vorauszahlung der Kundin oder des Kunden für eine bestimmte Energiemenge (kWh) aus schweizerischer Solarstromproduktion.
 
-<sup>2</sup> Machen die Endverbrauchenden von der Wahlmöglichkeit keinen Gebrauch, erhalten sie das Produkt Vollversorgung IWB Strom.
+<sup>2</sup> Die Tarifwahl erfolgt durch den Erwerb eines oder mehrerer virtueller Quadratmeter an einer bestimmten Photovoltaikanlage von IWB.
 
-<sup>3</sup> …
+<sup>3</sup> Bei einer Neuanlage (Anlage, die von IWB noch nicht in Betrieb genommen wurde) beträgt der Preis für einen virtuellen Quadratmeter Fr. 297.12 und entspricht einer Vorauszahlung für eine Energiemenge von 100 kWh pro Jahr über einen Zeitraum von 20 Jahren, beginnend ab dem nächsten Monatsersten nach Inbetriebnahme der Anlage.
 
-<sup>4</sup> Segmentkriterien IWB Strom:
+<sup>4</sup> Bei einer Bestandsanlage (Anlage, die von IWB bereits in Betrieb genommen wurde) beträgt der Preis für einen virtuellen Quadratmeter Fr. 297.12 abzüglich Fr. 1.24 für jeden abgelaufenen Monat seit Inbetriebnahme der Anlage und entspricht einer Vorauszahlung für eine Energiemenge von 100 kWh pro Jahr bis zum Ablauf von 20 Jahren nach Inbetriebnahme der Anlage, beginnend ab dem nächsten Monatsersten nach dem Erwerb.
 
-<table>
-<tr><th>Segmentnamen</th><th>Kriterium</th></tr>
-<tr><td>small</td><td>Jahresverbrauch pro Verbrauchsstätte: 0 MWh bis &lt;13 MWh</td></tr>
-<tr><td>small plus</td><td>Jahresverbrauch pro Verbrauchsstätte: ≥13 MWh bis &lt;50 MWh</td></tr>
-<tr><td>medium</td><td>Jahresverbrauch pro Verbrauchsstätte: ≥50 MWh bis &lt;100 MWh</td></tr>
-<tr><td>medium plus</td><td>Jahresverbrauch pro Verbrauchsstätte: ≥100 MWh bis &lt;1 GWh</td></tr>
-<tr><td>big</td><td>Jahresverbrauch pro Verbrauchsstätte: ≥1 GWh bis &lt;10 GWh</td></tr>
-<tr><td>big plus</td><td>Jahresverbrauch pro Verbrauchsstätte: ≥10 GWh</td></tr>
-<tr><td>switch</td><td>Elektrischer Energietarif für unterbrechbare Stromlieferungen für fest angeschlossene Verbraucher Jahresverbrauch pro Verbrauchsstätte: 0 MWh bis &lt;100 MWh</td></tr>
-</table>
+<sup>5</sup> Der Tarif «IWB Sonnenbox Crowd» gilt für die der Vorauszahlung entsprechenden Verbrauchsmenge in einem Abrechnungszeitraum. Für Verbrauchsmengen, die über die vorausbezahlte Menge hinausgehen, gilt der gemäss § 3 anwendbare Tarif. Für vorausbezahlte und in einem Abrechnungszeitraum nicht bezogene Mengen erhält die Kundin oder der Kunde eine Gutschrift zum Tarif «IWB Sonnenbox Crowd».
 
-<sup>5</sup> Bei fehlenden Messwerten oder bei Unterjährigkeit wird für die Berechnung des massgeblichen Jahresverbrauchs der effektiv an der Verbrauchsstätte abgelesene Verbrauch linear auf 12 Monate hochgerechnet.
-
-<sup>5<sup>bis</sup></sup> Neue Verbrauchsstätten werden für das laufende Jahr vorläufig dem Segment small zugewiesen. Die definitive Segmentzuteilung für das neue Tarifjahr erfolgt im darauffolgenden Januar.
-
-<sup>6</sup> Wechselt die Verbrauchsstätte den Vertragspartner, so übernimmt der neue Vertragspartner den Segmenttarif des Vorgängers bis zur nächsten Jahresverbrauchsanalyse und der entsprechenden Segmentzuteilung. Bei Verbrauchsstätten mit einer stark von der Norm abweichenden Bezugscharakteristik und fehlender Übereinstimmung mit der Segmentzuteilung kann eine Zuteilung in das richtige Segment unabhängig der Jahresverbrauchsanalyse erfolgen.
-
-<sup>7</sup> Verbrauchsstätten von Baustellen und temporären Anlagen werden dem Segment small zugewiesen.
-
-<sup>8</sup> Beansprucht eine Verbrauchsstätte den Tarif „IWB Strom switch“, so kann dies nur in Kombination mit dem Tarif für unterbrechbare Stromlieferungen gemäss §10a des Gebührentarifs der IWB betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie, sowie unter Einhaltung der technischen Werkvorschriften TAB (technische Anschlussbedingungen für den Anschluss an das Niederspannungsverteilnetz) bewilligt werden. Ebenfalls darf in diesem Fall die Kundin oder der Kunde mit ihren beziehungsweise seinen unterbrechbaren Verbrauchern (z.B. Wärmepumpen, Grossboiler, Elektromobile usw.) weder direkt noch durch Vermittlung einer Drittperson am Regelleistungs- bzw. am Regelenergiemarkt teilnehmen.
-
-<sup>9</sup> …
+<sup>6</sup> Der Tarif «IWB Sonnenbox Crowd» gilt bis zum Ende der Vorauszahlung. Bei einer Beendigung des Grundversorgungsverhältnisses vor dem Ende der Vorauszahlung oder bei einem vorzeitigen Tarifwechsel durch die Kundin oder den Kunden gilt Abs. 5 entsprechend und erhält die Kundin bzw. der Kunde für die nicht bezogene Menge eine Gutschrift zum Tarif «IWB Sonnenbox Crowd». Ein Tarifwechsel kann jeweils zum 1. Januar eines Jahres erfolgen.
 
 #### § 7
 
-**Tarife**
+**Steuern und Abgaben**
 
-<sup>1</sup> Der Einfachtarif beträgt:
-
-<table>
-<tr><th></th><th>Einfachtarif</th></tr>
-<tr><td>small</td><td>11.10 Rp./kWh</td></tr>
-<tr><td>small plus</td><td>9.40 Rp./kWh</td></tr>
-<tr><td>medium</td><td>9.20 Rp./kWh</td></tr>
-<tr><td>medium plus</td><td>8.60 Rp./kWh</td></tr>
-<tr><td>big</td><td>-</td></tr>
-<tr><td>big plus</td><td>-</td></tr>
-<tr><td>switch</td><td>8.70 Rp./kWh</td></tr>
-</table>
+<sup>1</sup> Anwendbare Steuern und Abgaben richten sich nach den gesetzlichen Bestimmungen und werden von IWB zusätzlich erhoben.
 
 #### § 8
 
-<sup>1</sup> Der Doppeltarif beträgt:
+**Übergangsbestimmung**
 
-<table>
-<tr><th></th><th>Normaltarif</th><th>Spartarif</th></tr>
-<tr><td>small</td><td>12.25 Rp./kWh</td><td>9.65 Rp./kWh</td></tr>
-<tr><td>small plus</td><td>10.55 Rp./kWh</td><td>7.90 Rp./kWh</td></tr>
-<tr><td>medium</td><td>10.40 Rp./kWh</td><td>7.85 Rp./kWh</td></tr>
-<tr><td>medium plus</td><td>9.80 Rp./kWh</td><td>7.45 Rp./kWh</td></tr>
-<tr><td>big</td><td>9.60 Rp./kWh</td><td>7.30 Rp./kWh</td></tr>
-<tr><td>big plus</td><td>9.40 Rp./kWh</td><td>7.10 Rp./kWh</td></tr>
-</table>
+<sup>1</sup> Die Abrechnung von Bezügen vor und nach Inkrafttreten des Gebührentarifs beruht auf der Annahme eines gleichmässigen Verbrauchs über die gesamte Abrechnungsperiode. Der Bezugsanteil vor dem 1. Januar 2025 wird der Kundin oder dem Kunden zu dem bis dahin gültigen Tarif in Rechnung gestellt, der Bezugsanteil nach dem 1. Januar 2025 wird der Kundin oder dem Kunden zu dem in dieser Änderung festgelegten Tarif in Rechnung gestellt.
 
-#### § 9
+Dieser Gebührentarif ist zu publizieren; er bedarf der Genehmigung durch den Regierungsrat und tritt am 1. Januar 2025 in Kraft. Auf den gleichen Zeitpunkt wird der Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie vom 4. Juli 2011 aufgehoben.
 
-**Pauschale**
+Gebührentarif vom Regierungsrat genehmigt am: 20. August 2024
 
-<sup>1</sup> Kann der Energieverbrauch aufgrund der fehlenden Messeinrichtung nicht ermittelt werden (§ 25 des Gebührentarifs der IWB betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie), kann die IWB mit den Endverbrauchenden eine Pauschale vereinbaren.
-
-#### § 10
-
-**Verträge**
-
-<sup>1</sup> Die IWB kann mit Endverbrauchenden mit einem Jahresverbrauch ≥100 MWh je Verbrauchsstätte oder mit einer stark von der Norm abweichenden Bezugscharakteristik Energielieferverträge abschliessen. Die Preise für Energielieferungen orientieren sich an den Tarifen von § 7 und § 8 dieses Gebührentarifs.
-
-<sup>2</sup> Die IWB verkauft ihre Ökostromzertifikate auf vertraglicher Basis.
-
-### B. Kundschaft mit eingefordertem Netzzugang
-
-#### § 11
-
-**Anwendung**
-
-<sup>1</sup> Endverbrauchende, die ihren Netzzugang in Anspruch nehmen, werden von der IWB als freie Endverbrauchende im Sinne von Art. 11 der Stromversorgungsverordnung (StromVV) vom 14. März 2008 betrachtet.
-
-<sup>2</sup> Die IWB kann mit diesen Endverbrauchenden individuelle Energielieferverträge abschliessen.
-
-### C. Ersatzbelieferung
-
-#### § 12
-
-**Anwendung**
-
-<sup>1</sup> Die IWB kann an freie Endverbrauchende, die elektrische Energie von einer Drittlieferantin oder einem Drittlieferanten beziehen, Ersatzenergie liefern, wenn die Drittlieferantin oder der Drittlieferant ihrer resp. seiner Lieferpflicht gegenüber diesen Endverbrauchenden nicht nachkommt.
-
-<sup>2</sup> Die IWB kann diesen Endverbrauchenden eine vertragliche Belieferung anbieten.
-
-#### § 13
-
-**Tarif**
-
-<sup>1</sup> Der Tarif für die Ersatzbelieferung entspricht dem Tarif small zuzüglich eines Zuschlags von 20 % zur Deckung der Bearbeitungskosten, fällt jedoch niemals unter den Mindesttarif für die Ersatzbelieferung. Der Mindesttarif für die Ersatzbelieferung basiert auf dem Preis für CH Base Monatskontrakte [EUR/MWh, umgerechnet in Rp./kWh] des Terminmarktberichts der Eidgenössischen Elektrizitätskommission (ElCom), zuzüglich eines Zuschlags von 30 % zur Bearbeitungskosten- und Risikodeckung. Einschlägig für die Preisbestimmung der CH Base Monatskontrakte ist jeweils der im dritten Terminmarktbericht desjenigen Monats, welcher der monatlichen Ersatzbelieferung vorangeht, publizierte Preis für den nächstfolgenden Monat (Frontmonat). Es gilt der Wechselkurs der Schweizerischen Nationalbank am Publikationstag des anwendbaren Terminmarktberichts.
-
-## III. Übergangs- und Schlussbestimmungen
-
-#### § 14
-
-**Abgrenzung der Abrechnungs-Perioden**
-
-<sup>1</sup> Die Verrechnung von Bezügen, die vor und nach Wirksamwerden dieser Verordnung getätigt wurde, beruht auf der Annahme eines gleichmässigen Verbrauchs über die gesamte Abrechnungsperiode. Die Aufteilung erfolgt in einen Anteil vor dem 1. Januar 2012, der mit den bisherigen Tarifen in Rechnung gestellt wird, und in einen Anteil nach dem 1. Januar 2012, welcher mit den in dieser Verordnung festgelegten Tarifen in Rechnung gestellt wird.
-
-*Schlussbestimmung*
-
-Der Gebührentarif ist zu publizieren. Er wird per 1. Januar 2012 wirksam. Auf den gleichen Zeitpunkt wird der Gebührentarif der Industriellen Werke Basel für die elektrische Energie vom 28. Juni 2010 aufgehoben.
-
-KB 03.09.2011
+28.08.2024
