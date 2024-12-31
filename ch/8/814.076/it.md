@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1990 che designa le organizzazioni di protezione
 short: ODO
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086"
 language: it
-version: 2019-06-01
+version: 2025-01-01
 adopted: 1990-06-27
 in_force: 1990-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086/20190601/it/xml/fedlex-data-admin-ch-eli-cc-1990-1086_1086_1086-20190601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20190601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1990-1086_1086_1086-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20190601/it"
 
 (ODO)[^t-1]
 
-del 27 giugno 1990 (Stato 1° giugno 2019)
+del 27 giugno 1990 (Stato 1° gennaio 2025)
 
-[^t-1]: Nuovo testo del tit. giusta il n. I dell’O del 15 giu. 1998, in vigore dal 1° lug. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
+[^t-1]: Nuovo testo del tit. giusta la cifra I dell’O del 15 giu. 1998, in vigore dal 1° lug. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
 
 Il Consiglio federale svizzero,
 
@@ -48,8 +48,8 @@ Le organizzazioni legittimate a ricorrere secondo gli articoli 55 e 55*f* LPAmb,
 
 <sup>2</sup> Il Dipartimento verifica se le organizzazioni legittimate a ricorrere adempiono ancora alle condizioni per il diritto di ricorso. Esso può consultare i documenti necessari per la valutazione. Se accerta che un’organizzazione non adempie più a tali condizioni, chiede al Consiglio federale le pertinenti modifiche dell’allegato.[^2-2]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 1998, in vigore dal 1° lug. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 15 giu. 1998, in vigore dal 1° lug. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
 
 #### Art. 3
 
@@ -69,10 +69,10 @@ La richiesta deve contenere:
 
 <sup>4</sup> Secondo l’articolo 55 capoverso 1 LPAmb e l’articolo 12 capoverso 1 LPN, le attività economiche delle organizzazioni servono a conseguire scopi idealistici se il tipo di attività corrisponde a tali scopi e l’attività in questione non è predominante rispetto alle altre attività dell’organizzazione.[^3-4]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 1998, in vigore dal 1° lug. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 15 giu. 1998, in vigore dal 1° lug. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
 [^3-2]: Nuovo testo giusta l’all. 5 n. 5 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
-[^3-3]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
-[^3-4]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° lug. 2010 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
+[^3-3]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
+[^3-4]: Introdotto dalla cifra I dell’O del 19 set. 2008, in vigore dal 1° lug. 2010 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
 
 #### Art. 4
 
@@ -92,7 +92,7 @@ L’organizzazione deve mostrare nella sua statistica, indicando l’autorità c
 
 <sup>4</sup> Le organizzazioni informano l’UFAM entro la fine di aprile di ogni anno sull’ammontare delle loro entrate dell’anno precedente in relazione all’esercizio del diritto di ricorso.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4635](https://fedlex.data.admin.ch/eli/oc/2008/647)).
 
 #### Art. 5
 
@@ -114,7 +114,7 @@ Allegato[^t-2]
 
 ## Elenco delle organizzazioni legittimate a ricorrere ai sensi della LPAmb, della LIG o della LPN
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 15 giu. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)). Aggiornato dal n. I delle O del 18 ott. 2000 ([RU 2000 2671](https://fedlex.data.admin.ch/eli/oc/2000/435)), del 16 apr. 2003 ([RU 2003 1142](https://fedlex.data.admin.ch/eli/oc/2003/195)), dall’all. 5 n. 5 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), dal n. I dell’O del 27 ott. 2010 ([RU 2010 5077](https://fedlex.data.admin.ch/eli/oc/2010/732)), dal n. III 1 dell’O del 12 ago. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), dalla correzione del 30 apr. 2019 ([RU 2019 1303](https://fedlex.data.admin.ch/eli/oc/2019/250)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1485](https://fedlex.data.admin.ch/eli/oc/2019/285)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 15 giu. 1998 ([RU 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)). Aggiornato dalla cifra I delle O del 18 ott. 2000 ([RU 2000 2671](https://fedlex.data.admin.ch/eli/oc/2000/435)), del 16 apr. 2003 ([RU 2003 1142](https://fedlex.data.admin.ch/eli/oc/2003/195)), dall’all. 5 n. 5 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), dalla cifra I dell’O del 27 ott. 2010 ([RU 2010 5077](https://fedlex.data.admin.ch/eli/oc/2010/732)), dalla cifra III n. 1 dell’O del 12 ago. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), dalla correzione del 30 apr. 2019 ([RU 2019 1303](https://fedlex.data.admin.ch/eli/oc/2019/250)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1485](https://fedlex.data.admin.ch/eli/oc/2019/285)) e dalla cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 743](https://fedlex.data.admin.ch/eli/oc/2024/743)).
 
 <table>
 <tr><th>Associazioni</th><th>Legittimate a ricorrere ai sensi della LPAmb/ LIG <sup>a</sup></th><th>Legittimate a ricorrere ai sensi della LPN <sup>b</sup></th></tr>
@@ -125,7 +125,7 @@ Allegato[^t-2]
 <tr><td>5. Lega svizzera del patrimonio nazionale (LSP)</td><td>x</td><td>x</td></tr>
 <tr><td>6. Pro Natura</td><td>x</td><td>x</td></tr>
 <tr><td>7. Club alpino svizzero (CAS)</td><td>x</td><td>x</td></tr>
-<tr><td>8. ...</td><td></td><td></td></tr>
+<tr><td>8. Freie Landschaft Schweiz – Paysage libre Suisse</td><td>x</td><td>x</td></tr>
 <tr><td>9. Helvetia Nostra</td><td>x</td><td>x</td></tr>
 <tr><td>10. Associazione Svizzera per la protezione della salute e di tecnica ambientale (ASTA)</td><td>x</td><td></td></tr>
 <tr><td>11. Società svizzera di pedologia (SSP)</td><td>x</td><td>x</td></tr>

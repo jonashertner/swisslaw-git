@@ -4,20 +4,20 @@ title: Verordnung vom 27. Juni 1990 über die Bezeichnung der im Bereich des Umw
 short: VBO
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086"
 language: de
-version: 2019-06-01
+version: 2025-01-01
 adopted: 1990-06-27
 in_force: 1990-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086/20190601/de/xml/fedlex-data-admin-ch-eli-cc-1990-1086_1086_1086-20190601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1990-1086_1086_1086-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bezeichnung der im Bereich des Umweltschutzes sowie des Natur- und Heimatschutzes beschwerdeberechtigten Organisationen
 
-(VBO)**[^t-1]**
+(VBO)[^t-1]
 
-vom 27. Juni 1990 (Stand am 1. Juni 2019)
+vom 27. Juni 1990 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 15. Juni 1998, in Kraft seit 1. Juli 1998 ([AS 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
 
@@ -99,7 +99,7 @@ Die Organisation muss in ihrer Statistik unter Angabe der zuständigen Behörde 
 
 Diese Verordnung tritt am 1. August 1990 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 19. September 2008****
+## Übergangsbestimmung zur Änderung vom 19. September 2008
 
 [^u1-1]
 
@@ -107,13 +107,13 @@ Diese Verordnung tritt am 1. August 1990 in Kraft.
 
 Die Organisationen müssen über ihre Ausübung des Beschwerderechts nach Artikel 4 Absätze 1, 2 und 4 erstmals im April 2009 für das Jahr 2008 Bericht erstatten.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 1)
 
 ## Verzeichnis der nach dem USG, dem GTG oder dem NHG beschwerdeberechtigten Organisationen
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 15. Juni 1998 ([AS 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)). Bereinigt gemäss Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2671](https://fedlex.data.admin.ch/eli/oc/2000/435)), vom 16. April 2003 ([AS 2003 1142](https://fedlex.data.admin.ch/eli/oc/2003/195)), Anhang 5 Ziff. 5 der Freisetzungsverordnung vom 10. Sept. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5077](https://fedlex.data.admin.ch/eli/oc/2010/732)), Ziff. III 1 der V vom 12. Aug. 2015 ([AS 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1485](https://fedlex.data.admin.ch/eli/oc/2019/285)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 15. Juni 1998 ([AS 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)). Bereinigt gemäss Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2671](https://fedlex.data.admin.ch/eli/oc/2000/435)), vom 16. April 2003 ([AS 2003 1142](https://fedlex.data.admin.ch/eli/oc/2003/195)), Anhang 5 Ziff. 5 der Freisetzungsverordnung vom 10. Sept. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5077](https://fedlex.data.admin.ch/eli/oc/2010/732)), Ziff. III 1 der V vom 12. Aug. 2015 ([AS 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), Ziff. I der V vom 17. April 2019 ([AS 2019 1485](https://fedlex.data.admin.ch/eli/oc/2019/285)) und vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **20****24** 743).
 
 <table>
 <tr><th>Organisationen</th><th>beschwerdeberechtigt nach USG/GTG<sup>a</sup></th><th>beschwerdeberechtigt nach NHG<sup>b</sup></th></tr>
@@ -124,7 +124,7 @@ Anhang*[^t-2]*
 <tr><td>5. Schweizer Heimatschutz (SHS)</td><td>x</td><td>x</td></tr>
 <tr><td>6. Pro Natura</td><td>x</td><td>x</td></tr>
 <tr><td>7. Schweizer Alpen-Club (SAC)</td><td>x</td><td>x</td></tr>
-<tr><td>8. …</td><td></td><td></td></tr>
+<tr><td>8. Freie Landschaft Schweiz</td><td>x</td><td>x</td></tr>
 <tr><td>9. Helvetia Nostra</td><td>x</td><td>x</td></tr>
 <tr><td>10. Schweizerische Vereinigung für Gesundheitsschutz und Umwelttechnik (SVG)</td><td>x</td><td></td></tr>
 <tr><td>11. Bodenkundliche Gesellschaft der Schweiz (BGS)</td><td>x</td><td>x</td></tr>

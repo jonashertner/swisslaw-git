@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1990 relative à la désignation des organisations
 short: ODO
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086"
 language: fr
-version: 2019-06-01
+version: 2025-01-01
 adopted: 1990-06-27
 in_force: 1990-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086/20190601/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1086_1086_1086-20190601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20190601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1086_1086_1086/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1086_1086_1086-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/1086_1086_1086/20190601/fr"
 
 relative à la désignation des organisations habilitées à recourir dans les domaines de la protection de l’environnement ainsi que de la protection de la nature et du paysage
 
-(ODO)**[^t-1]**
+(ODO)[^t-1]
 
-du 27 juin 1990 (Etat le 1<sup>er</sup> juin 2019)
+du 27 juin 1990 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de l’O du 15 juin 1998, en vigueur depuis le 1<sup>er</sup> juil. 1998 ([RO 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)).
 
@@ -101,7 +101,7 @@ En plus de préciser l’autorité compétente, les organisations doivent faire 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1990.
 
-## Disposition transitoire concernant la modification du 19 septembre 2008****
+## Disposition transitoire concernant la modification du 19 septembre 2008
 
 [^u1-1]
 
@@ -109,13 +109,13 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1990.
 
 Les organisations doivent rendre compte de l’exercice du droit de recours conformément à l’art. 4, al. 1, 2 et 4, pour l’année 2008, la première fois en avril 2009.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 1)
 
 ## Liste des organisations habilitées à recourir conformément à la LPE, à la LGG ou à la LPN
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 15 juin 1998 ([RO 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)). Mise à jour selon le ch. I des O du 18 oct. 2000 ([RO 2000 2671](https://fedlex.data.admin.ch/eli/oc/2000/435)), du 16 avril 2003 ([RO 2003 1142](https://fedlex.data.admin.ch/eli/oc/2003/195)), l’annexe 5 ch. 5 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), le ch. I de l’O du 27 oct. 2010 ([RO 2010 5077](https://fedlex.data.admin.ch/eli/oc/2010/732)), le ch. III 1 de l’O du 12 août 2015 ([RO 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1485](https://fedlex.data.admin.ch/eli/oc/2019/285)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 15 juin 1998 ([RO 1998 1570](https://fedlex.data.admin.ch/eli/oc/1998/1570_1570_1570)). Mise à jour selon le ch. I des O du 18 oct. 2000 ([RO 2000 2671](https://fedlex.data.admin.ch/eli/oc/2000/435)), du 16 avril 2003 ([RO 2003 1142](https://fedlex.data.admin.ch/eli/oc/2003/195)), l’annexe 5 ch. 5 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), le ch. I de l’O du 27 oct. 2010 ([RO 2010 5077](https://fedlex.data.admin.ch/eli/oc/2010/732)), le ch. III 1 de l’O du 12 août 2015 ([RO 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1485](https://fedlex.data.admin.ch/eli/oc/2019/285)) et le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 743](https://fedlex.data.admin.ch/eli/oc/2024/743)).
 
 <table>
 <tr><th>Organisations</th><th>Organisations habilitées à recourir au sens de la LPE/LGG<sup>a</sup></th><th>Organisations habilitées à recourir au sens de la LPN<sup>b</sup></th></tr>
@@ -126,7 +126,7 @@ Annexe*[^t-2]*
 <tr><td>5. Ligue suisse du patrimoine national (LSP)</td><td>x</td><td>x</td></tr>
 <tr><td>6. Pro Natura</td><td>x</td><td>x</td></tr>
 <tr><td>7. Club alpin suisse (CAS)</td><td>x</td><td>x</td></tr>
-<tr><td>8. …</td><td></td><td></td></tr>
+<tr><td>8. Paysage Libre Suisse</td><td>x</td><td>x</td></tr>
 <tr><td>9. Helvetia Nostra</td><td>x</td><td>x</td></tr>
 <tr><td>10. Association Suisse pour la protection de santé et de technique de l’environnement (ASTE)</td><td>x</td><td></td></tr>
 <tr><td>11. Société suisse de pédologie (SSP)</td><td>x</td><td>x</td></tr>
