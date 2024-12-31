@@ -4,11 +4,11 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20250101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20240101/fr"
 
 (RAVS)[^t-1]
 
-du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2024)
+du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -342,11 +342,11 @@ Le salaire déterminant pour le calcul des cotisations comprend notamment:[^7-1]
 - i. le revenu des membres d’autorités de la Confédération, des cantons et des communes;
 - k. les émoluments et les indemnités fixes touchés par des assurés dont l’activité est régie par le droit public, sous réserve de dispositions cantonales contraires;
 - l. les honoraires des privat-docents et des autres personnes qui, dans l’enseignement, sont rétribués d’une manière analogue;
-- m.[^7-8] les prestations accordées par les employeurs pour compenser les pertes de salaire par suite d’accident ou de maladie;
-- n. les prestations accordées par les employeurs pour compenser les pertes de salaire par suite de service militaire;
+- m.[^7-8] les prestations accordées par l’employeur si le salarié est empêché de travailler pour cause d’accident ou de maladie;
+- n.[^7-9] les prestations accordées par l’employeur si le salarié est empêché de travailler pour cause de service au sens de l’art. 1*a* de la loi du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^7-10] ou de parentalité;
 - o. les indemnités de vacances ou pour jours fériés;
-- p.[^7-9] les prestations de l’employeur consistant à prendre en charge la cotisation due par le salarié à l’assurance-vieillesse, survivants et invalidité, au régime des allocations pour perte de gain et à l’assurance-chômage et les impôts; est exceptée la prise en charge des cotisations dues par le salarié sur les revenus en nature et les salaires globaux;
-- q.[^7-10] les prestations versées par l’employeur lors de la cessation des rapports de travail, si elles ne sont pas exceptées du salaire déterminant en vertu des art. 8<sup>bis</sup> ou 8<sup>ter</sup>; les rentes sont converties en capital; l’OFAS établit à cet effet des tables de conversion dont l’usage est obligatoire.
+- p.[^7-11] les prestations de l’employeur consistant à prendre en charge la cotisation due par le salarié à l’assurance-vieillesse, survivants et invalidité, au régime des allocations pour perte de gain et à l’assurance-chômage et les impôts; est exceptée la prise en charge des cotisations dues par le salarié sur les revenus en nature et les salaires globaux;
+- q.[^7-12] les prestations versées par l’employeur lors de la cessation des rapports de travail, si elles ne sont pas exceptées du salaire déterminant en vertu des art. 8<sup>bis</sup> ou 8<sup>ter</sup>; les rentes sont converties en capital; l’OFAS établit à cet effet des tables de conversion dont l’usage est obligatoire.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
 [^7-2]: Nouvelle teneur selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
@@ -355,9 +355,11 @@ Le salaire déterminant pour le calcul des cotisations comprend notamment:[^7-1]
 [^7-5]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
 [^7-6]: Nouvelle dénomination selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Il a été tenu compte de cette mod. dans tout le texte.
 [^7-7]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
-[^7-8]: Nouvelle teneur selon le ch. I de l’ACF du 30 déc. 1953, en vigueur depuis le 1<sup>er</sup> janv. 1954 ([RO 1954 226](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
-[^7-9]: Introduite par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
-[^7-10]: Introduite par le ch. I de l’O du 27 mai 1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^7-8]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
+[^7-9]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
+[^7-10]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^7-11]: Introduite par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^7-12]: Introduite par le ch. I de l’O du 27 mai 1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 
 #### Art. 8
 
@@ -486,7 +488,7 @@ Les cotisations des membres de la famille qui travaillent avec l’exploitant ag
 
 **Pourboires**[^15-1]
 
-<sup>1</sup> et <sup>2</sup> …[^15-2]
+<sup>1 et <sup>2</sup></sup> …[^15-2]
 
 <sup>3</sup> Les pourboires versés aux salariés des entreprises de transport ne sont comptés dans le salaire déterminant que dans la mesure où ils sont soumis aux primes dues à l’assurance-accidents obligatoire.
 
@@ -497,9 +499,12 @@ Les cotisations des membres de la famille qui travaillent avec l’exploitant ag
 
 **Cotisations des salariés dont l’employeur n’est pas tenu de payer des cotisations**[^16-1]
 
-Les art. 22 à 27 s’appliquent par analogie à la fixation et à la détermination des cotisations. L’art. 6, al. 2, LAVS est réservé.
+<sup>1</sup> Les art. 22 à 27 s’appliquent par analogie à la fixation et à la détermination des cotisations. L’art. 6, al. 2, LAVS est réservé.
+
+<sup>2</sup> L’art. 6<sup>quater</sup>, al. 4 à 6, s’applique également par analogie à la fixation et à la détermination des cotisations dues après l’âge de référence. Si les cotisations sont versées en application de l’art. 6, al. 2, LAVS, l’art. 6<sup>quater</sup>, al. 1 à 3, s’applique.[^16-2]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
+[^16-2]: Introduit par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 
 ### II. Les cotisations perçues sur le revenu provenant d’une activité indépendante
 
@@ -532,9 +537,9 @@ Est réputé revenu provenant d’une activité lucrative indépendante au sens 
 
 **Revenu de minime importance provenant d’une activité indépendante exercée à titre accessoire**[^19-1]
 
-Lorsque le revenu provenant d’une activité indépendante exercée à titre accessoire n’excède pas 2300 francs par année civile, la cotisation n’est perçue qu’à la demande de l’assuré.
+Lorsque le revenu provenant d’une activité indépendante exercée à titre accessoire n’excède pas 2500 francs par année civile, la cotisation n’est perçue qu’à la demande de l’assuré.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 24 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 
 #### Art. 20
 
@@ -553,33 +558,33 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Barème dégressif des cotisations des personnes exerçant une activité indépendante**[^21-1]
 
-<sup>1</sup> Si le revenu provenant d’une activité indépendante est d’au moins 9800 francs par an, mais inférieur à 58 800 francs, les cotisations sont calculées comme suit:
+<sup>1</sup> Si le revenu provenant d’une activité indépendante est d’au moins 10 100 francs par an, mais inférieur à 60 500 francs, les cotisations sont calculées comme suit:
 
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>9 800</td><td colspan="2">17 500</td><td>4,35</td></tr>
-<tr><td>17 500</td><td colspan="2">21 300</td><td>4,45</td></tr>
-<tr><td>21 300</td><td colspan="2">23 800</td><td>4,55</td></tr>
-<tr><td>23 800</td><td colspan="2">26 300</td><td>4,65</td></tr>
-<tr><td>26 300</td><td colspan="2">28 800</td><td>4,75</td></tr>
-<tr><td>28 800</td><td colspan="2">31 300</td><td>4,85</td></tr>
-<tr><td>31 300</td><td colspan="2">33 800</td><td>5,05</td></tr>
-<tr><td>33 800</td><td colspan="2">36 300</td><td>5,25</td></tr>
-<tr><td>36 300</td><td colspan="2">38 800</td><td>5,45</td></tr>
-<tr><td>38 800</td><td colspan="2">41 300</td><td>5,65</td></tr>
-<tr><td>41 300</td><td colspan="2">43 800</td><td>5,85</td></tr>
-<tr><td>43 800</td><td colspan="2">46 300</td><td>6,05</td></tr>
-<tr><td>46 300</td><td colspan="2">48 800</td><td>6,35</td></tr>
-<tr><td>48 800</td><td colspan="2">51 300</td><td>6,65</td></tr>
-<tr><td>51 300</td><td colspan="2">53 800</td><td>6,95</td></tr>
-<tr><td>53 800</td><td colspan="2">56 300</td><td>7,25</td></tr>
-<tr><td>56 300</td><td colspan="2">58 800</td><td>7,55</td></tr>
+<tr><td>10 100</td><td colspan="2">17 600</td><td>4,35</td></tr>
+<tr><td>17 600</td><td colspan="2">23 000</td><td>4,45</td></tr>
+<tr><td>23 000</td><td colspan="2">25 500</td><td>4,55</td></tr>
+<tr><td>25 500</td><td colspan="2">28 000</td><td>4,65</td></tr>
+<tr><td>28 000</td><td colspan="2">30 500</td><td>4,75</td></tr>
+<tr><td>30 500</td><td colspan="2">33 000</td><td>4,85</td></tr>
+<tr><td>33 000</td><td colspan="2">35 500</td><td>5,05</td></tr>
+<tr><td>35 500</td><td colspan="2">38 000</td><td>5,25</td></tr>
+<tr><td>38 000</td><td colspan="2">40 500</td><td>5,45</td></tr>
+<tr><td>40 500</td><td colspan="2">43 000</td><td>5,65</td></tr>
+<tr><td>43 000</td><td colspan="2">45 500</td><td>5,85</td></tr>
+<tr><td>45 500</td><td colspan="2">48 000</td><td>6,05</td></tr>
+<tr><td>48 000</td><td colspan="2">50 500</td><td>6,35</td></tr>
+<tr><td>50 500</td><td colspan="2">53 000</td><td>6,65</td></tr>
+<tr><td>53 000</td><td colspan="2">55 500</td><td>6,95</td></tr>
+<tr><td>55 500</td><td colspan="2">58 000</td><td>7,25</td></tr>
+<tr><td>58 000</td><td colspan="2">60 500</td><td>7,55</td></tr>
 </table>
 
-<sup>2</sup> Si le revenu à prendre en compte en vertu de l’art. 6<sup>quater</sup> est inférieur à 9800 francs, l’assuré doit acquitter une cotisation de 4,35 %, mais au plus la cotisation minimale.
+<sup>2</sup> Si le revenu à prendre en compte en vertu de l’art. 6<sup>quater</sup> est inférieur à 10 100 francs, l’assuré doit acquitter une cotisation de 4,35 %, mais au plus la cotisation minimale.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 
 ### 2. Fixation et détermination des cotisations
 
@@ -686,14 +691,15 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Détermination des cotisations**[^28-1]
 
-<sup>1</sup> Les cotisations des personnes sans activité lucrative, pour lesquelles la cotisation minimale de 422 francs par année (art. 10, al. 2, LAVS) n’est pas prévue, sont déterminées sur la base de leur fortune et du revenu qu’elles tirent des rentes. Les rentes versées en application des art. 36 et 39 LAI[^28-2] ne font pas partie du revenu sous forme de rente. Les cotisations se calculent comme suit:
+<sup>1</sup> Les cotisations des personnes sans activité lucrative, pour lesquelles la cotisation minimale de 435 francs par année (art. 10, al. 2, LAVS) n’est pas prévue, sont déterminées sur la base de leur fortune et du revenu qu’elles tirent des rentes. Les rentes versées en application des art. 36 et 39 LAI[^28-2] ne font pas partie du revenu sous forme de rente. Les cotisations se calculent comme suit:
 
 <table>
-<tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</th><th></th><th>Cotisation annuelle fr.</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</th></tr>
-<tr><td>moins de</td><td colspan="2">340 000</td><td>422</td><td>–</td></tr>
-<tr><td>dès</td><td colspan="2">340 000</td><td>504,60</td><td>87</td></tr>
-<tr><td>dès</td><td colspan="2">1740 000</td><td>2 940,60</td><td>130,50</td></tr>
-<tr><td>dès</td><td colspan="2">8740 000</td><td>21 100</td><td>– [^28-3]</td></tr>
+<tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20</th><th>Cotisation annuelle</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20</th></tr>
+<tr><th colspan="2">fr.</th><th>fr.</th><th>fr.</th></tr>
+<tr><td>moins de</td><td>350 000</td><td>435</td><td>–</td></tr>
+<tr><td>dès</td><td>350 000</td><td>522</td><td>87</td></tr>
+<tr><td>dès</td><td>1 750 000</td><td>2958</td><td>130.50</td></tr>
+<tr><td>dès</td><td>8 950 000</td><td>21 750</td><td>– .[^28-3]</td></tr>
 </table>
 
 <sup>2</sup> Si une personne n’exerçant aucune activité lucrative dispose à la fois d’une fortune et d’un revenu sous forme de rente, le montant de la rente annuelle multiplié par 20 est ajouté à la fortune.
@@ -710,7 +716,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 [^28-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^28-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^28-3]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 [^28-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 [^28-5]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
 [^28-6]: Introduit par le ch. I de l’O du 20 sept. 2002 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Abrogé par le ch. I de l’O du 19 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
@@ -772,7 +778,9 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Perception des cotisations par les établissements d’enseignement**[^29ter-1]
 
-<sup>1</sup> La perception des cotisations peut être confiée à un établissement d’enseignement, s’il conclut avec la caisse de compensation une convention écrite par laquelle il s’engage
+<sup>1</sup>
+
+La perception des cotisations peut être confiée à un établissement d’enseignement, s’il conclut avec la caisse de compensation une convention écrite par laquelle il s’engage:
 
 - a. à agir au nom de la caisse de compensation et conformément aux dispositions légales;
 - b. à effectuer la part du travail convenue entre la caisse de compensation et l’établissement d’enseignement;
@@ -792,7 +800,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 <sup>3</sup> …[^30-3]
 
-[^30-1]: Abrogé par le ch. I de l’ACF du 20 avr. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)). Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^30-2]: Erratum du 16 juin 2020, ne concerne que le texte italien ([RO 2020 2185](https://fedlex.data.admin.ch/eli/oc/2020/435)).
 [^30-3]: Abrogé par le ch. I de l’O du 16 sept. 1996, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
 
@@ -919,13 +927,13 @@ Les cotisations seront payées à la caisse:
 
 [^chap2-lvlE-lvlII-1]
 
-[^chap2-lvlE-lvlII-1]: Titre introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
+[^chap2-lvlE-lvlII-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
 #### Art. 34d
 
 **Salaire de minime importance**[^34d-1]
 
-<sup>1</sup> Lorsque le salaire déterminant n’excède pas 2300 francs par année civile et par employeur, les cotisations ne sont perçues qu’à la demande de l’assuré.[^34d-2]
+<sup>1</sup> Lorsque le salaire déterminant n’excède pas 2500 francs par année civile et par employeur, les cotisations ne sont perçues qu’à la demande de l’assuré.[^34d-2]
 
 <sup>2</sup>
 
@@ -945,7 +953,7 @@ Doivent être versées dans tous les cas:
 <sup>4</sup> L’al. 1 n’est pas applicable aux soldes allouées pour les tâches essentielles du service du feu qui dépassent le montant exempté de cotisations selon l’art. 6, al. 2, let. a.[^34d-4]
 
 [^34d-1]: Introduit par l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^34d-2]: Nouvelle teneur selon le ch. I de l’O du 24 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)).
+[^34d-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 [^34d-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
 [^34d-4]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 
@@ -1007,7 +1015,7 @@ Doivent être versées dans tous les cas:
 
 [^chap2-lvlE-lvlIII-1]
 
-[^chap2-lvlE-lvlIII-1]: Titre introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
+[^chap2-lvlE-lvlIII-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
 #### Art. 39
 
@@ -1105,7 +1113,7 @@ Doivent payer des intérêts moratoires:
 
 [^chap2-lvlF-1]
 
-[^chap2-lvlF-1]: Titre introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
+[^chap2-lvlF-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
 #### Art. 43
 
@@ -1216,7 +1224,7 @@ Une année de cotisations est entière lorsqu’une personne a été assurée au
 
 <sup>2</sup> L’OFAS établit des tables pour la détermination de la durée de cotisations des années 1948 à 1968, dont l’usage est obligatoire.
 
-[^50a-1]: Introduit par le ch. I de l’O du 26 sept. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2162](https://fedlex.data.admin.ch/eli/oc/1994/2162_2162_2162)). Anciennement art. 50<sup>bis</sup>.
+[^50a-1]: Anciennement art. 50<sup>bis</sup>. Introduit par le ch. I de l’O du 26 sept. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2162](https://fedlex.data.admin.ch/eli/oc/1994/2162_2162_2162)).
 
 #### Art. 50b
 
@@ -1256,7 +1264,7 @@ Une année de cotisations est entière lorsqu’une personne a été assurée au
 
 **d. Tâches des caisses de compensation commises**[^50e-1]
 
-Si les conditions pour un partage des revenus sont remplies, les caisses de compensation commises doivent s’acquitter des tâches suivantes. Elles
+Si les conditions pour un partage des revenus sont remplies, les caisses de compensation commises doivent s’acquitter des tâches suivantes. Elles:
 
 - a. ouvrent un nouveau compte individuel pour le conjoint de leur assuré dans la mesure où il n’est pas déjà établi;
 - b. procèdent au partage par moitié des revenus de l’assuré pendant les années civiles de mariage;
@@ -1347,7 +1355,7 @@ L’OFAS informe la Commission fédérale de l’assurance-vieillesse, survivant
 La base (valeur de 100 points) de l’indice des rentes selon l’art. 33<sup>ter</sup>, al. 2, LAVS est constituée par:
 
 - a. le niveau de 104,1 points (septembre 1977 = 100) de l’indice suisse des prix à la consommation;
-- [tab] b.[^51ter-4]le niveau de 1004 points (juin 1939 = 100) de l’indice des nominaux.[^51ter-5]
+- b.[^51ter-4] le niveau de 1004 points (juin 1939 = 100) de l’indice des nominaux.[^51ter-5]
 
 <sup>2</sup> L’OFAS examine périodiquement la situation financière de l’assurance-vieillesse et survivants. Il soumet ses constatations à la Commission. Cette Commission propose au besoin une modification de la relation entre les deux indices mentionnés à l’art. 33<sup>ter</sup>, al. 2, LAVS, compte tenu de l’art. 212 RAVS.
 
@@ -1424,9 +1432,9 @@ Le montant de la rente adaptée à l’indice des rentes selon l’art. 33<sup>t
 
 <sup>2</sup> Une rente complète est attribuée lorsque le rapport entre les années entières de cotisations de l’assuré et celles de sa classe d’âge est d’au moins 97,73 %.
 
-<sup>3</sup> et <sup>4</sup> …[^52-3]
+<sup>3 et <sup>4</sup></sup> …[^52-3]
 
-[^52-1]: Abrogé par le ch. I de l’ACF du 10 mai 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)). Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^52-2]: Introduit par le ch. I de l’O du 16 sept. 1998 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^52-3]: Abrogés par le ch. I de l’O du 18 oct. 2000, avec effet au 1<sup>er</sup> juin 2002 ([RO 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 
@@ -1603,7 +1611,7 @@ Pour la détermination du montant des bonifications pour tâches d’assistance,
 
 Si l’un des deux conjoints ne présente pas une durée de cotisations complète, le montant maximum des deux rentes correspond alors à un pourcentage du montant maximum en cas de rente complète (art. 35, al. 1, LAVS). Ce montant est déterminé en additionnant le pourcentage correspondant à l’échelle de rentes la plus basse et le double du pourcentage correspondant à l’échelle de rentes la plus élevée (art. 52). Ce total doit être divisé par trois.
 
-[^53bis-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^53bis-1]: Introduit par le ch. I 1 de l’O du 11 oct. 1972 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
 #### Art. 53<sup>ter</sup>
 
@@ -1614,6 +1622,26 @@ Si l’un des deux conjoints ne présente pas une durée de cotisations complèt
 <sup>2</sup> En cas d’ajournement d’un pourcentage de la rente de vieillesse, la rente de vieillesse entière est déterminante.
 
 [^53ter-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 53<sup>quater</sup>
+
+**Supplément de rente pour les femmes de la génération transitoire**[^53quater-1]
+
+<sup>1</sup> Le montant du supplément de rente pour les femmes de la génération transitoire prévu à l’art. 34<sup>bis</sup> LAVS est déterminé sur la base du revenu annuel moyen déterminant pour le calcul de la rente à l’âge de référence. Une modification ultérieure de ce revenu n’a pas d’incidence sur celui du supplément.
+
+<sup>2</sup> Le supplément de rente n’est pas adapté à l’évolution des salaires et des prix.
+
+<sup>3</sup> En cas de durée de cotisations incomplète, le supplément de rente est réduit dans une proportion équivalente au rapport entre les années entières de cotisations de l’assurée et celles de sa classe d’âge.
+
+<sup>4</sup> L’OFAS établit des tables de suppléments de rente dont l’usage est obligatoire. Les suppléments de rentes sont arrondis au franc supérieur.
+
+<sup>5</sup> En cas d’ajournement de la totalité de la rente de vieillesse, le supplément est versé au moment où l’ajournement est révoqué. Si seule une partie de la rente est ajournée, le supplément est versé dans son intégralité en même temps que la partie de rente versée. L’ajournement n’entraîne pas d’augmentation du supplément.
+
+<sup>6</sup> Lorsqu’une convention de sécurité sociale prévoit le versement de la rente sous la forme d’une indemnité unique, le supplément de rente est également accordé sous la forme d’une indemnité unique, dont le montant est défini dans les tables établies par l’OFAS.
+
+<sup>7</sup> Le supplément de rente est versé selon les mêmes modalités que la rente de vieillesse.
+
+[^53quater-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2033 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 54
 
@@ -1637,7 +1665,7 @@ Lorsque la personne décédée a accompli l’âge indiqué ci-dessous, l’augm
 <tr><td>plus de 45</td><td>0</td></tr>
 </table>
 
-[^54-1]: Abrogé par le ch. I de l’ACF du 20 avr. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
 #### Art. 54<sup>bis</sup>
 
@@ -1683,29 +1711,15 @@ La réduction des rentes extraordinaires pour enfants et des rentes extraordinai
 
 #### Art. 55<sup>bis</sup>
 
-**Ajournement des rentes exclu**[^55bis-1]
+[^55bis-1]
 
-Sont exclues de l’ajournement prévu à l’art. 39 LAVS:
-
-- a.[^55bis-2] …
-- b.[^55bis-3] les rentes de vieillesse entières succédant à une rente d’invalidité entière;
-- b<sup>bis</sup>.[^55bis-4] le pourcentage de la rente de vieillesse correspondant à la quotité de la rente d’invalidité à laquelle succède ladite rente de vieillesse;
-- c. les rentes de vieillesse assorties d’une allocation pour impotent;
-- [tab] d. à f.[^55bis-5] …
-- g. les rentes de vieillesse des assurés facultatifs qui, jusqu’à la limite d’âge prévue à l’art. 21, al. 1 et 2, LAVS, ont bénéficié d’une allocation de secours conformément à l’art. 92 LAVS ou à l’art. 76 LAI[^55bis-6].
-
-[^55bis-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^55bis-2]: Abrogée par le ch. I de l’O du 29 juin 1983, avec effet au 1<sup>er</sup> janv. 1993 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
-[^55bis-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^55bis-4]: Introduite par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^55bis-5]: Abrogées par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55bis-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845). Abréviation introduite par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^55bis-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Abrogé par le ch. I de l’O du 28 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 
 #### Art. 55<sup>ter</sup>
 
 **Augmentation de la rente en cas d’ajournement**[^55ter-1]
 
-<sup>1</sup> En cas d’ajournement, les taux d’augmentation de la rente de vieillesse, en pour-cent, sont les suivants:
+<sup>1</sup> En cas d’ajournement de la rente conformément à l’art. 39 LAVS, les taux d’augmentation de la rente de vieillesse, en pour-cent, sont les suivants:[^55ter-2]
 
 <table>
 <tr><th>Durée d’ajournement Années</th><th>et 0 à 2 mois</th><th>et 3 à 5 mois</th><th>et 6 à 8 mois</th><th>et 9 à 11 mois</th></tr>
@@ -1725,6 +1739,7 @@ Sont exclues de l’ajournement prévu à l’art. 39 LAVS:
 <sup>5</sup> Le montant de l’augmentation est adapté à l’évolution des salaires et des prix.
 
 [^55ter-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^55ter-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 
 #### Art. 55<sup>quater</sup>
 
@@ -1803,6 +1818,51 @@ Sont exclues de l’ajournement prévu à l’art. 39 LAVS:
 [^56ter-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^56ter-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
+#### Art. 56<sup>quater</sup>
+
+**Réduction en cas d’anticipation de la rente des femmes de la génération transitoire**[^56quater-1]
+
+<sup>1</sup>
+
+Lorsqu’une femme de la génération transitoire au sens de l’art. 34<sup>bis</sup>, al. 3, LAVS anticipe le versement de sa rente de vieillesse, les taux de réduction applicables en dérogation à l’art. 56<sup>bis</sup>, al. 1, sont les suivants:
+
+- a. si le revenu annuel moyen déterminant est inférieur ou égal au montant minimal de la rente annuelle de vieillesse au sens de l’art. 34 LAVS multiplié par quatre, les taux de réduction de la rente, en pour-cent, sont les suivants:
+
+<table>
+<tr><th>Durée d’anticipation en années</th><th colspan="12">et en mois</th></tr>
+<tr><th></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>0</td><td>–</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>0</td><td>0,2</td><td>0,3</td><td>0,5</td><td>0,7</td><td>0,8</td><td>1,0</td><td>1,2</td><td>1,3</td><td>1,5</td><td>1,7</td><td>1,8</td></tr>
+<tr><td>2</td><td>2,0</td><td>2,1</td><td>2,2</td><td>2,3</td><td>2,3</td><td>2,4</td><td>2,5</td><td>2,6</td><td>2,7</td><td>2,8</td><td>2,8</td><td>2,9</td></tr>
+<tr><td>3</td><td>3,0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+- b. si le revenu annuel moyen déterminant est supérieur au montant minimal de la rente annuelle de vieillesse au sens de l’art. 34 LAVS multiplié par quatre, mais inférieur ou égal à ce même montant multiplié par cinq, les taux de réduction de la rente, en pour-cent, sont les suivants:
+
+<table>
+<tr><th>Durée d’anticipation en années</th><th colspan="12">et en mois</th></tr>
+<tr><th></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>0</td><td>–</td><td>0,2</td><td>0,4</td><td>0,6</td><td>0,8</td><td>1,0</td><td>1,3</td><td>1,5</td><td>1,7</td><td>1,9</td><td>2,1</td><td>2,3</td></tr>
+<tr><td>1</td><td>2,5</td><td>2,7</td><td>2,8</td><td>3,0</td><td>3,2</td><td>3,3</td><td>3,5</td><td>3,7</td><td>3,8</td><td>4,0</td><td>4,2</td><td>4,3</td></tr>
+<tr><td>2</td><td>4,5</td><td>4,7</td><td>4,8</td><td>5,0</td><td>5,2</td><td>5,3</td><td>5,5</td><td>5,7</td><td>5,8</td><td>6,0</td><td>6,2</td><td>6,3</td></tr>
+<tr><td>3</td><td>6,5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+- c. si le revenu annuel moyen déterminant est supérieur au montant minimal de la rente annuelle de vieillesse au sens de l’art. 34 LAVS multiplié par cinq, les taux de réduction de la rente, en pour-cent, sont les suivants:
+
+<table>
+<tr><th>Durée d’anticipation en années</th><th colspan="12">et en mois</th></tr>
+<tr><th></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>0</td><td>–</td><td>0,3</td><td>0,6</td><td>0,9</td><td>1,2</td><td>1,5</td><td>1,8</td><td>2,0</td><td>2,3</td><td>2,6</td><td>2,9</td><td>3,2</td></tr>
+<tr><td>1</td><td>3,5</td><td>3,8</td><td>4,0</td><td>4,3</td><td>4,5</td><td>4,8</td><td>5,0</td><td>5,3</td><td>5,5</td><td>5,8</td><td>6,0</td><td>6,3</td></tr>
+<tr><td>2</td><td>6,5</td><td>6,8</td><td>7,2</td><td>7,5</td><td>7,8</td><td>8,2</td><td>8,5</td><td>8,8</td><td>9,2</td><td>9.5</td><td>9,8</td><td>10,2</td></tr>
+<tr><td>3</td><td>10,5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<sup>2</sup> Le taux de réduction est fixé en fonction du revenu annuel moyen déterminant pour le calcul de la rente au moment de l’anticipation. Une modification ultérieure du revenu annuel moyen déterminant n’a pas d’incidence sur le taux de réduction.
+
+[^56quater-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2033 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
 #### Art. 57
 
 [^57-1]
@@ -1844,14 +1904,14 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 **Bases de calcul**[^60-1]
 
-<sup>1</sup> Le calcul anticipé est effectué en se fondant sur les art. 50 à 56<sup>ter</sup>. Pour le calcul des rentes de survivant, la date du dépôt de la demande est déterminante. Pour le calcul d’une rente de vieillesse, la date à laquelle l’assuré atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS ou celle de l’anticipation de la rente est déterminante.[^60-2]
+<sup>1</sup> Le calcul anticipé est effectué en se fondant sur les art. 50 à 56<sup>quater</sup>. Pour le calcul des rentes de survivant, la date du dépôt de la demande est déterminante. Pour le calcul d’une rente de vieillesse, la date à laquelle l’assuré atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS ou celle de l’anticipation de la rente est déterminante.[^60-2]
 
 <sup>2</sup> La caisse de compensation peut baser le calcul sur les indications figurant sur la demande.
 
 <sup>3</sup> La caisse de compensation se procure d’office les extraits des comptes individuels.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
-[^60-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^60-2]: Nouvelle teneur selon le ch. III al. 3 de l’O du 30 août 2023, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2033 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 61 à 66
 
@@ -1907,7 +1967,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 <sup>2</sup> Si l’assuré a droit à une allocation pour impotent de l’assurance-accidents et que le montant de celle-ci est augmenté pour une cause étrangère à un accident, la caisse de compensation verse à l’assureur-accidents tenu de verser les prestations le montant de l’allocation pour impotent que l’AVS aurait dû allouer à l’assuré s’il n’avait pas été victime d’un accident.
 
-[^66quater-1]: Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
+[^66quater-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 
 ### H. Dispositions diverses
 
@@ -1919,7 +1979,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 #### Art. 67
 
-<sup>1</sup> Pour faire valoir son droit à une rente ou à une allocation pour impotent, l’ayant droit doit remettre une formule de demande dûment remplie à la caisse de compensation compétente conformément aux art. 122 ss. L’exercice de ce droit appartient à l’ayant droit ou, agissant en son nom, à son représentant légal, à son conjoint, à ses parents ou grands-parents, à ses enfants ou petits-enfants, à ses frères et sœurs, ainsi qu’au tiers ou à l’autorité pouvant exiger le versement de la rente.[^67-1] [^67-2]
+<sup>1</sup> Pour faire valoir son droit à une rente ou à une allocation pour impotent, l’ayant droit doit remettre une formule de demande dûment remplie à la caisse de compensation compétente conformément aux art. 122 ss.[^67-1] L’exercice de ce droit appartient à l’ayant droit ou, agissant en son nom, à son représentant légal, à son conjoint, à ses parents ou grands-parents, à ses enfants ou petits-enfants, à ses frères et sœurs, ainsi qu’au tiers ou à l’autorité pouvant exiger le versement de la rente.[^67-2]
 
 <sup>1bis</sup> Seul l’ayant droit ou son représentant légal peut faire valoir le droit à la rente anticipée ordinaire de vieillesse. Ce droit ne peut être requis rétroactivement.[^67-3]
 
@@ -1929,8 +1989,8 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 <sup>2</sup> Les caisses de compensation cantonales feront au moins une fois par année des publications pour attirer l’attention des assurés sur les prestations de l’assurance et leurs conditions, ainsi que sur l’exercice du droit aux prestations.[^67-7]
 
-[^67-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^67-2]: Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
+[^67-1]: Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
+[^67-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^67-3]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^67-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^67-5]: Anciennement al. 1<sup>bis</sup>. Introduit par le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
@@ -1960,7 +2020,7 @@ La décision de rente doit être notifiée aux parties, en particulier:[^68-3]
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^68-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^68-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^68-5]: Abrogée par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+[^68-5]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^68-6]: Abrogée par le ch. I de l’ACF du 10 janv. 1969, avec effet au 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 
 #### Art. 69
@@ -2266,7 +2326,10 @@ Une association dont la décision de créer une caisse de compensation est attaq
 
 <sup>2</sup> Si les conditions de la constitution de sûretés cessent d’exister, les gages doivent être libérés au plus tard dans les cinq ans à compter du moment où ces conditions ont cessé d’exister. Il en est de même lorsque des gages sont remplacés par des cautionnements et que la caution ne se charge pas de la responsabilité pour des dommages antérieurs au cautionnement.
 
+<sup>3</sup> …[^94-2]
+
 [^94-1]: Nouvelle teneur selon le ch. II de l’ACF du 10 mai 1957, en vigueur depuis le 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
+[^94-2]: Abrogé par le ch. I de l’ACF du 10 mai 1957, avec effet au 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
 
 #### Art. 95
 
@@ -2639,7 +2702,7 @@ La caisse de compensation du canton de domicile du requérant est compétente po
 
 **Changement de caisse**[^125-1]
 
-Un changement de la caisse de compensation compétente pour servir les rentes n’a lieu que
+Un changement de la caisse de compensation compétente pour servir les rentes n’a lieu que:
 
 - a. si l’employeur qui sert la rente est affilié à une autre caisse;
 - b. si le bénéficiaire transfère son domicile de Suisse à l’étranger ou de l’étranger en Suisse;
@@ -3226,7 +3289,7 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 [^143-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 [^143-4]: Introduit par le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^143-5]: [RS 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
-[^143-6]: Intoduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
+[^143-6]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
 #### Art. 144
 
@@ -3389,13 +3452,16 @@ Le fonds de compensation de l’assurance-vieillesse et survivants verse aux cai
 
 - a. 110 francs pour chaque calcul anticipé d’une rente de vieillesse au sens de l’art. 58;
 - b. 80 francs pour chaque requête en continuation de la poursuite au sens de l’art. 88 LP[^158bis-2];
+- b<sup>bis</sup>.[^158bis-3] 70 francs pour chaque réquisition de faillite au sens de l’art. 166 LP[^158bis-4] et 210 francs pour chaque clôture de faillite prononcée en vertu de l’art. 268, al. 2, LP par le juge qui a déclaré la faillite;
 - c. 700 francs pour chaque dommage au sens de l’art. 52, al. 1, LAVS que la caisse fait valoir à l’encontre d’une ou de plusieurs personnes responsables; toute indemnité est exclue lorsque la réparation du dommage fait l’objet d’une transaction.
 
-<sup>2</sup> L’OFAS est chargé de l’exécution et du contrôle.[^158bis-3]
+<sup>2</sup> L’OFAS est chargé de l’exécution et du contrôle.[^158bis-5]
 
 [^158bis-1]: Introduit par le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 [^158bis-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^158bis-3]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5077](https://fedlex.data.admin.ch/eli/oc/2018/789)).
+[^158bis-3]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750); [2024 707](https://fedlex.data.admin.ch/eli/oc/2024/707)).
+[^158bis-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^158bis-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5077](https://fedlex.data.admin.ch/eli/oc/2018/789)).
 
 ### L. La révision des caisses et le contrôle des employeurs
 
@@ -3874,12 +3940,13 @@ Les assureurs-accidents et l’assurance militaire visés à l’art. 50*b*, al.
 
 **Indemnités pour les frais de poursuite irrécouvrables**[^211quater-1]
 
-<sup>1</sup> Le fonds de compensation de l’assurance-vieillesse et survivants rembourse aux caisses de compensation les avances de frais qu’elles ont versées pour les poursuites en vertu de l’art. 68 LP[^211quater-2], si le débiteur ne les paie pas et qu’un acte de défaut de biens a été délivré.
+<sup>1</sup> Le fonds de compensation de l’assurance-vieillesse et survivants rembourse aux caisses de compensation les avances de frais qu’elles ont versées pour les poursuites en vertu de l’art. 68 LP[^211quater-2], s’il est prouvé que le débiteur ne les paie pas.[^211quater-3]
 
 <sup>2</sup> L’OFAS est chargé de l’exécution et du contrôle.
 
 [^211quater-1]: Introduit par le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 [^211quater-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^211quater-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>quinquies</sup>
 
@@ -4229,5 +4296,3 @@ Les art. 222 à 225 ne s’appliquent qu’aux cours de formation et de formatio
 Pour les obligations des employeurs en matière d’attestations de participation selon l’art. 143, al. 3, l’art. 18 (disposition transitoire) de l’ordonnance du 27 juin 2012 sur les participations de collaborateur[^u12-2] est applicable par analogie.
 
 [^u12-2]: [RS 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
-
-## Table des matières
