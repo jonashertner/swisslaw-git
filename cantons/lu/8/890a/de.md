@@ -3,20 +3,19 @@ canton: LU
 number: 890a
 title: Verordnung über die Arbeitslosenversicherung und den Arbeitslosenhilfsfonds
 language: de
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-07-02
+version: 2025-01-01
+version_adopted: 2025-01-07
 adopted: 2002-11-05
 in_force: 2002-12-01
 url: "https://srl.lu.ch/app/de/texts_of_law/890a"
-pdf: "https://srl.lu.ch/api/de/versions/4249/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Arbeitslosenversicherung und den Arbeitslosenhilfsfonds
 
-vom 05.11.2002 (Stand 01.09.2024)
+vom 05.11.2002 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -55,7 +54,7 @@ beschliesst:
 <sup>1</sup> Der Kanton ist in drei Arbeitsvermittlungsregionen eingeteilt:
 
 - a.
-- b. Arbeitsvermittlungsregion I: bestehend aus den Gemeinden Adligenswil, Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Honau, Horw, Inwil, Kriens, Luzern, Meggen, Meierskappel, Rain, Römerswil, Root, Rothenburg, Schongau, Udligenswil, Vitznau, Weggis
+- b. Arbeitsvermittlungsregion I: bestehend aus den Gemeinden Adligenswil, Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Horw, Inwil, Kriens, Luzern, Meggen, Meierskappel, Rain, Römerswil, Root, Rothenburg, Schongau, Udligenswil, Vitznau, Weggis
 - c. …
 - d. Arbeitsvermittlungsregion II: bestehend aus den Gemeinden Altishofen, Beromünster, Büron, Dagmersellen, Egolzwil, Eich, Ettiswil, Geuensee, Hildisrieden, Knutwil, Mauensee, Nebikon, Neuenkirch, Nottwil, Oberkirch, Pfaffnau, Reiden, Rickenbach, Roggliswil, Schenkon, Schlierbach, Schötz, Sempach, Sursee, Triengen, Wauwil, Wikon
 - e. Arbeitsvermittlungsregion III: bestehend aus den Gemeinden Alberswil, Altbüron, Buttisholz, Doppleschwand, Entlebuch, Escholzmatt-Marbach, Fischbach, Flühli, Grossdietwil, Grosswangen, Hasle, Hergiswil, Luthern, Malters, Menznau, Romoos, Ruswil, Schüpfheim, Schwarzenberg, Ufhusen, Werthenstein, Willisau, Wolhusen, Zell
