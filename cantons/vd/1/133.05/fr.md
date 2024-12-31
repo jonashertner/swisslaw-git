@@ -4,7 +4,7 @@ number: "133.05"
 title: "LOI du 13.09.2011 sur l'organisation policière vaudoise (LOPV)"
 short: LOPV
 language: fr
-version: 2016-03-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/133.05?id=ddc5d535-ca80-4174-92ed-43c721ab7e6a"
 ---
 
@@ -631,6 +631,16 @@ décrète
 - e. les modalités de saisine de ces organes par les autorités de police et les intervenants ;
 - f. les conséquences en cas de non respect des exigences minimales de qualité par les polices et des conditions d'accréditation par les polices communales, ainsi que leur lien avec la procédure de retrait d'accréditation.
 
+#### Art. 43a
+
+**Délais d'annonce [^43-1]**
+
+<sup>1</sup> Une commune qui souhaite créer sa propre police ou adhérer à une police intercommunale doit l'annoncer au Conseil cantonal de sécurité au moins une année auparavant.
+
+<sup>2</sup> Une commune qui souhaite quitter la police intercommunale dont elle fait partie ou dissoudre sa police communale et confier l'accomplissement des missions générales de police sur son territoire à la Police cantonale doit l'annoncer au Conseil cantonal de sécurité au moins une année auparavant. Les délais plus long prévus par les statuts des associations intercommunales sont réservés.
+
+[^43-1]: Modif. 2 du 04.06.2024: Introduction Art. 43a; entrée en vigueur au 01.01.2025
+
 ## Titre IV Financement
 
 #### Art. 44
@@ -645,16 +655,23 @@ décrète
 
 **Financement des prestations de la police cantonale pour les missions générales de police [^44-1]**
 
-<sup>1</sup> Le montant total des coûts pour l'exercice des missions générales de police par la police cantonale correspond au coût complet annuel des policiers affectés à ces missions.
+<sup>1</sup> Le montant facturé par l'Etat aux communes pour l'exercice des missions générales de police par la police cantonale est de CHF 74'269'768.-. Il est indexé chaque année de 1.5 %.
 
-<sup>2</sup> La différence entre le montant défini à l'alinéa 1 et le total des montants facturés aux communes ne disposant pas d'une police communale est financée par toutes les communes selon le mécanisme de la péréquation indirecte prévu par l'article 6 de la loi du 15 juin 2010 sur les péréquations intercommunales [^45-1] .
+<sup>2</sup> Ce montant est réparti entre les communes comme suit :
 
-<sup>3</sup> La facturation aux communes des prestations de la police cantonale pour l'exercice des missions générales de police est faite selon les modalités prévues par l'article 13 de la loi du 15 juin 2010 sur les péréquations intercommunales.
+- a. 65% est supporté par les communes ne disposant pas d'une police communale;
+- b. 35% est supporté par l'ensemble des communes et réparti entre elles en francs par habitant.
 
-<sup>4</sup> Le montant facturé aux communes fait l'objet d'un processus de régulation instauré d'entente entre le Conseil d'Etat et les communes.
+<sup>3</sup> Le montant supporté par les communes ne disposant pas d'une police communale est réparti comme suit :
 
-[^44-1]: Modif. 2 du 04.06.2024: Introduction Art. 43a; entrée en vigueur au 01.01.2025; Modification Al. 1-2; entrée en vigueur au 01.01.2025; Introduction Al. 2, a-b; entrée en vigueur au 01.01.2025; Modification Al. 3; entrée en vigueur au 01.01.2025; Introduction Al. 3, a-b; entrée en vigueur au 01.01.2025; Modification Al. 4; entrée en vigueur au 01.01.2025; Introduction Al. 5; entrée en vigueur au 01.01.2025
-[^45-1]: Loi du 15.06.2010 sur les péréquations intercommunales ([BLV 175.51](https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.51?id=7c48dfd9-956e-4b8c-90e3-eee0f967446c))
+- a. pour moitié en francs par habitant;
+- b. pour moitié selon la population pondérée par les coefficients suivants : De/habitant 0 1'001 3'001 5'001 12'001 15'001 30'001 45'001 Jusqu'à/habitant 1'000 3'000 5'000 12'000 15'000 30'000 45'000 et plus Coefficient 2 3 3.5 4 5 6 7 8
+
+<sup>4</sup> Si une commune disposant de sa propre police décide de déléguer les missions générales de police à la police cantonale, l'Etat lui facture un montant ad hoc, en sus de celui fixé conformément à l'alinéa 1er. Ce montant est calculé selon les principes fixés à l'alinéa 3, applicables par analogie. La commune en question ne participe pas à la répartition prévue à l'alinéa 3.
+
+<sup>5</sup> Si une commune décide de constituer sa propre police ou d'intégrer une police intercommunale existante, elle continue à être prise en compte dans la répartition prévue à l'alinéa 3, mais le montant résultant de cette répartition ne lui est pas facturé par l'Etat.
+
+[^44-1]: Modif. 2 du 04.06.2024: Modification Al. 1-2; entrée en vigueur au 01.01.2025; Introduction Al. 2, a-b; entrée en vigueur au 01.01.2025; Modification Al. 3; entrée en vigueur au 01.01.2025; Introduction Al. 3, a-b; entrée en vigueur au 01.01.2025; Modification Al. 4; entrée en vigueur au 01.01.2025; Introduction Al. 5; entrée en vigueur au 01.01.2025
 
 #### Art. 46
 
