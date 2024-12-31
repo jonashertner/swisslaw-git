@@ -1,128 +1,93 @@
 ---
 canton: BS
 number: RiE 153.840
-title: Reglement betreffend die Erhebung von Kanzleigebühren
+title: Reglement betreffend die Erhebung von Gebühren der Einwohnerdienste der Gemeinde Riehen
 short: Gebührenreglement Einwohnerdienste
 language: de
-version: 1994-11-13
-valid_until: 2024-12-31
-version_adopted: 1994-11-01
+version: 2025-01-01
+version_adopted: 2024-10-15
 adopted: 2024-10-15
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20153.840"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3134/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Erhebung von Kanzleigebühren
+# Reglement betreffend die Erhebung von Gebühren der Einwohnerdienste der Gemeinde Riehen
 
-Kanzleigebühren: Reglement | Riehen: Einwohnergemeinde
+Gemeinderat und Gemeindeverwaltung / Verwaltungsgebühren
 
-Vom 1. November 1994 (Stand 13. November 1994)
+(Gebührenreglement Einwohnerdienste)
 
-Der Gemeinderat Riehen erlässt, gestützt auf § 49 der Gemeindeordnung der Einwohnergemeinde Riehen vom 23. Oktober 1985[^ingress-1], nachstehendes Reglement:
+Vom 15. Oktober 2024 (Stand 1. Januar 2025)
 
-Die Gemeindekanzlei erhebt folgende Gebühren:
+Der Gemeinderat Riehen,
 
-[^ingress-1]: Diese Ordnung ist aufgehoben. Massgebend ist jetzt § 34 Abs. 2 der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. 2. 2002 (wirksam seit 1. 1. 2003, [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)).
+gestützt auf § 1 Abs. 1 des Gesetzes über die Verwaltungsgebühren vom 9. März 1972[^ingress-1], § 15 Abs. 3 des Gesetzes über Niederlassung und Aufenthalt (NAG) vom 11. Januar 2017[^ingress-2] und § 24 Abs. 3 lit. e der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-3],
 
-#### Ziff. 1
+beschliesst:
 
-**[^Ziff1-1]**
+[^ingress-1]: SG [153.800](https://www.gesetzessammlung.bs.ch/data/153.800/de)
+[^ingress-2]: SG [122.200](https://www.gesetzessammlung.bs.ch/data/122.200/de)
+[^ingress-3]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
 
-<sup>1</sup> Für das Ausstellen einer Identitätskarte Fr. 25.-
+## 1. Allgemeines
 
-- a) Für Kinder bis zum vollendeten 15. Altersjahr (für jeden bezahlten Antrag, der aufgrund unrichtiger Angaben nicht zu einer Kartenausstellung führt, werden Fr. 14.– zurückerstattet).
-- b) Für Erwachsene (für jeden bezahlten Antrag, der aufgrund unrichtiger Angaben nicht zu einer Kartenausstellung führt, werden Fr. 17.– zurückerstattet). — Fr. 35.-
-- c) Für das Ausstellen eines kurzbefristeten Notausweises für Erwachsene und Kinder — Fr. 25.-
+#### § 1
 
-[^Ziff1-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern und -buchstaben.
+**Geltungsbereich**
 
-#### Ziff. 2
+<sup>1</sup> Dieses Reglement regelt die Erhebung von Gebühren für verschiedene Dienstleistungen der Einwohnerdienste der Gemeinde Riehen.
 
-<sup>1</sup>
+#### § 2
 
-- a) Für das Ausstellen eines Handlungsfähigkeitszeugnisses, einer Wohnsitz- oder Personalienbescheinigung — Fr. 10.-
-- b) Für Bescheinigungen in einer Fremdsprache werden zusätzlich erhoben — Fr. 10.-
-- c) Personalienbescheinigung auf Schüler- oder Lehrlingsausweisen sind kostenlos.
+**Definition und Höhe der Gebühren**
 
-#### Ziff. 3
+<sup>1</sup> Die Gebühren sind das Entgelt für Verwaltungshandlungen der Gemeinde und alle damit notwendig zusammenhängenden Tätigkeiten.
 
-<sup>1</sup>
+<sup>2</sup> Die Gebühren bemessen sich grundsätzlich nach dem gesamten mittelbaren und unmittelbaren Verwaltungsaufwand und sollen kostendeckend sein. Im Übrigen sind die Grundsätze des Gesetzes über die Verwaltungsgebühren massgeblich.
 
-- a) Für das Ausstellen einer Lebensbescheinigung — Fr. 6.-
-- b) Mit auswärtiger Vitalitätsprüfung in Riehen — Fr. 25.-
-- c) Das Ausstellen einer Altersbescheinigung für Jugendliche ist kostenlos.
+<sup>3</sup> Für ausserordentlichen Verwaltungsaufwand kann die Gebühr um das Doppelte erhöht werden.
 
-#### Ziff. 4
+## 2. Gebühren
 
-<sup>1</sup>
+#### § 3
 
-- a) Für das Ausstellen eines Heimatausweises — Fr. 15.-
-- b) Für Verlängerung und Ortswechselumschreibung insgesamt — Fr. 10.-
+**Allgemeine Gebühren**
 
-#### Ziff. 5
+<sup>1</sup> Es werden folgende Gebühren erhoben:
 
-<sup>1</sup> Für das Ausstellen eines Leumundszeugnisses Fr. 15.-
+- a) Für das Erstellen von Fotokopien / A4, pro Kopie — CHF 0.50
+- b) Für das Erstellen von Fotokopien / A3, pro Kopie — CHF 1.00
+- c) Für Porti — gemäss Aufwand
 
-#### Ziff. 6
+#### § 4
 
-<sup>1</sup> Für mündliche Katasterauskünfte je Parzelle am Schalter Fr. 3.-
+**Zahlungsfristen und Mahngebühren**
 
-#### Ziff. 7
+<sup>1</sup> Die Zahlungsfrist von Gebühren beträgt 30 Tage.
 
-<sup>1</sup>
+<sup>2</sup> Nach Ablauf der Zahlungsfrist kann ein Verzugszins von 5 % erhoben werden.
 
-- a) Für eine schriftliche Personendatenauskunft aus Einwohnerregister bei vorliegendem Interessennachweis — Fr. 10.-
-- b) Für eine einfache, schriftliche Personendatenauskunft — Fr. 5.-
-- c) Gemeinnützigen Institutionen wird für Auskünfte gemäss 7 a) und b) Rabatt gewährt.
-- d) Öffentlich-rechtliche Körperschaften und Anstalten entrichten keine Gebühren.
-- e) Mündliche Personendatenauskünfte aus dem Einwohnerregister am Schalter sind kostenlos.
-- f) Ab 3 Personendatenauskünften, pro Personendatenauskunft — Fr. 1.-
-- g) Für Auszüge aus dem Einwohnerregister je nach Aufwand bis — Fr. 20.-
-- h) Personendatenauskünfte aus dem Einwohnerregister für Klassenzusammenkünfte sind kostenlos.
+<sup>3</sup> Für nicht rechtzeitig bezahlte Gebühren können Mahn- und Umtriebsgebühren für Inkassomassnahmen erhoben werden. Diese betragen:
 
-#### Ziff. 8
+- a) erste Mahnung — kostenlos
+- b) Mahngebühren ab zweiter Mahnung — je CHF 40
+- c) Umtriebsgebühr für Inkassomassnahmen — CHF 50
 
-<sup>1</sup> Für die Beglaubigung
+<sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
 
-- a) einer Unterschrift — Fr. 10.-
-- b) von Unterschriften eines Ehepaares — Fr. 16.-
-- c) von Unterschriften auf Verlangen der Gemeinde werden keine Gebühren erhoben.
+#### § 5
 
-#### Ziff. 9
+**Gebühren der Einwohnerdienste**
 
-<sup>1</sup>
+<sup>1</sup> Die Gemeindeverwaltung erhebt für Beglaubigungen, Bescheinigungen und weitere Dienstleistungen der Einwohnerdienste Gebühren gemäss Anhang.
 
-- a) Für das Anfertigen einer Photokopie auf Verlangen — Fr. 2.-
-- b) Für alle weiteren Kopien je Stück — Fr. 1.-
+<sup>2</sup> Für die Ausstellung von Identitätskarten werden die Gebühren gemäss Vorgaben des Bundes erhoben.
 
-#### Ziff. 10
+*Schlussbestimmung*
 
-<sup>1</sup> Für das Zustellen amtlicher Papiere oder Drucksachen an Firmen oder Privatpersonen Fr. 2.- und Porto
+Dieses Reglement ist zu publizieren; es tritt am 1. Januar 2025 in Kraft. Auf den gleichen Zeitpunkt wird das Reglement betreffend die Erhebung von Kanzleigebühren vom 1. November 1994 aufgehoben.
 
-#### Ziff. 11
-
-<sup>1</sup> Für eine Holzsammelbewilligung Fr. 2.-
-
-#### Ziff. 12
-
-<sup>1</sup> Zuschläge zu den ordentlichen Gebühren:
-
-- a) Für Dienstleistungen, die ausserhalb der ordentlichen Bürozeiten zu erbringen sind — bis Fr. 100.-
-- b) Für Dienstleistungen, die das gewöhnliche Mass an Abklärungen übersteigen — plus Fr. 20.-
-
-#### Ziff. 13
-
-<sup>1</sup>
-
-- a) Für Anmeldegebühren für Kantonszuzüger je Haushalt — Fr. 10.-
-- b) Für Ortsbürger ist die Anmeldung kostenlos.
-- c) Für die Wiederanmeldung nach amtlicher Streichung — Fr. 20.-
-
-Dieses Reglement ersetzt das Reglement betreffend die Erhebung von Kanzleigebühren vom 5. Juni 1990. Es ist zu publizieren und wird sofort wirksam.[^footer-1]
-
-KB 12.11.1994
-
-[^footer-1]: Wirksam seit 13. 11. 1994.
+KB 23.11.2024
