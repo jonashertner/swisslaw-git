@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2024-02-01
+version: 2025-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20250101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° febbraio 2024)
+del 30 settembre 2016 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -30,7 +30,11 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)
 
-## Capitolo 1: Scopo, valori indicativi e principi
+## Capitolo 1: Scopo, obiettivi e principi
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 1
 
@@ -48,21 +52,36 @@ Essa ha lo scopo di:
 
 #### Art. 2
 
-**Valori indicativi per l’incremento della produzione di elettricità generata a partire da energie rinnovabili**
+**Obiettivi di incremento della produzione di elettricità generata da energie rinnovabili**[^2-1]
 
-<sup>1</sup> Per la produzione di elettricità generata a partire da energie rinnovabili, esclusa la forza idrica, è perseguito un incremento che consenta di raggiungere una produzione indigena media di almeno 4400 GWh nel 2020 e di almeno 11 400 GWh nel 2035.
+<sup>1</sup> La produzione di elettricità generata da energie rinnovabili, esclusa la forza idrica, deve ammontare nel 2035 almeno a 35 000 GWh e nel 2050 almeno a 45 000 GWh.
 
-<sup>2</sup> Per la produzione di elettricità generata a partire dalla forza idrica è perseguito un incremento che consenta di raggiungere una produzione indigena media di almeno 37 400 GWh nel 2035. Nel caso delle centrali di pompaggio, questi valori indicativi comprendono soltanto la produzione proveniente da affluenti naturali.
+<sup>2</sup> La produzione netta di elettricità generata dalla forza idrica deve ammontare nel 2035 almeno a 37 900 GWh e nel 2050 almeno a 39 200 GWh. Nel caso delle centrali di pompaggio, è computata soltanto la produzione proveniente da affluenti naturali.
 
-<sup>3</sup> Il Consiglio federale può definire ulteriori valori indicativi intermedi globali o per singole tecnologie.
+<sup>3</sup> L’importazione netta di elettricità nel periodo compreso tra il 1° ottobre e il 31 marzo (semestre invernale) non può superare il valore indicativo di 5 TWh.
+
+<sup>4</sup> Il Consiglio federale definisce ogni cinque anni obiettivi intermedi globali e per singole tecnologie, la prima volta un anno dopo l’entrata in vigore della modifica del 29 settembre 2023 della presente legge. Vigila sul raggiungimento degli obiettivi e adotta tempestivamente le misure del caso.
+
+[^2-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 2a
+
+**Aumento temporaneo della produzione di elettricità mediante una riduzione del deflusso residuale**[^2a-1]
+
+In situazione di penuria imminente, il Consiglio federale può obbligare i gestori di centrali idroelettriche per le quali il deflusso residuale è stato aumentato conformemente agli articoli 31 capoverso 2 e 33 della legge federale del 24 gennaio 1991[^2a-2] sulla protezione delle acque (LPAc) ad aumentare temporaneamente la produzione di elettricità, nel rispetto del deflusso minimo secondo l’articolo 31 capoverso 1 LPAc e sempre che l’aumento della produzione sia tecnicamente possibile.
+
+[^2a-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^2a-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 #### Art. 3
 
-**Valori indicativi in materia di consumo**
+**Obiettivi di consumo**[^3-1]
 
-<sup>1</sup> Per il consumo medio annuo pro capite di energia è perseguita, rispetto al livello del 2000, una riduzione pari al 16 per cento entro il 2020 e al 43 per cento entro il 2035.
+<sup>1</sup> Il consumo medio annuo pro capite di energia è ridotto, rispetto al 2000, del 43 per cento entro il 2035 e del 53 per cento entro il 2050.
 
-<sup>2</sup> Per il consumo medio annuo pro capite di elettricità è perseguita, rispetto al livello del 2000, una riduzione pari al 3 per cento entro il 2020 e al 13 per cento entro il 2035.
+<sup>2</sup> Il consumo medio annuo pro capite di elettricità è ridotto, rispetto al 2000, del 13 per cento entro il 2035 e del 5 per cento entro il 2050.
+
+[^3-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 4
 
@@ -147,11 +166,18 @@ Chi fornisce elettricità ai consumatori finali è tenuto a:
 
 **Piani direttori dei Cantoni e piani di utilizzazione**
 
-<sup>1</sup> I Cantoni provvedono affinché nel piano direttore (art. 8*b* della legge del 22 giugno 1979[^10-1] sulla pianificazione del territorio) siano definiti in particolare i territori e le sezioni di corsi d’acqua adeguati per l’impiego della forza idrica e della forza eolica. Vi includono le ubicazioni già sfruttate e possono indicare anche territori e sezioni di corsi d’acqua che devono in linea di massima essere preservati.
+<sup>1</sup> I Cantoni provvedono affinché nel piano direttore (art. 8*b* della legge del 22 giugno 1979[^10-1] sulla pianificazione del territorio) siano definiti in particolare i territori e le sezioni di corsi d’acqua adeguati per l’impiego della forza idrica e della forza eolica, nonché i territori adeguati per gli impianti solari di interesse nazionale secondo l’articolo 12 capoverso 2.[^10-2]
+
+<sup>1bis</sup> Vi includono le ubicazioni già sfruttate e possono indicare anche territori e sezioni di corsi d’acqua che devono in linea di massima essere preservati.[^10-3]
+
+<sup>1ter</sup> Nel definire i territori per gli impianti solari ed eolici i Cantoni tengono conto degli interessi della protezione del paesaggio e dei biotopi e della conservazione della foresta, nonché di quelli dell’agricoltura, in particolare della protezione dei terreni coltivi e delle superfici per l’avvicendamento delle colture.[^10-4]
 
 <sup>2</sup> Se necessario, i Cantoni provvedono affinché siano allestiti nuovi piani di utilizzazione o siano adeguati quelli esistenti.
 
 [^10-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-3]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-4]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 11
 
@@ -167,16 +193,33 @@ Chi fornisce elettricità ai consumatori finali è tenuto a:
 
 <sup>1</sup> L’impiego di energie rinnovabili e l’incremento della loro produzione costituiscono un interesse nazionale.
 
-<sup>2</sup> Gli impianti per l’impiego di energie rinnovabili, segnatamente le centrali ad accumulazione, nonché le centrali di pompaggio, costituiscono, a partire da una grandezza e un’importanza determinate, un interesse nazionale che corrisponde in particolare a quello di cui all’articolo 6 capoverso 2 della legge federale del 1° luglio 1966[^12-1] sulla protezione della natura e del paesaggio (LPN). Nei biotopi d’importanza nazionale di cui all’articolo 18*a* LPN e nelle riserve per uccelli acquatici e di passo di cui all’articolo 11 della legge del 20 giugno 1986[^12-2] sulla caccia non sono ammessi nuovi impianti per l’impiego di energie rinnovabili.
+<sup>2</sup> Gli impianti per l’impiego di energie rinnovabili, segnatamente le centrali ad accumulazione, le centrali ad acqua fluente, le centrali di pompaggio, gli impianti solari ed eolici, nonché gli elettrolizzatori e gli impianti di metanizzazione, costituiscono, a partire da una grandezza e importanza determinate, un interesse nazionale che corrisponde in particolare a quello di cui all’articolo 6 capoverso 2 della legge federale del 1° luglio 1966[^12-1] sulla protezione della natura e del paesaggio (LPN).[^12-2]
 
-<sup>3</sup> Quando un’autorità decide sull’autorizzazione di un progetto di costruzione, ampliamento o rinnovamento di impianti o centrali di pompaggio di cui al capoverso 2 oppure sul rilascio di concessioni per tali impianti o centrali, nella ponderazione degli interessi l’interesse nazionale alla realizzazione di detti progetti è considerato equivalente ad altri interessi nazionali. Nel caso di un oggetto iscritto in un inventario di cui all’articolo 5 LPN si può prendere in considerazione una deroga al principio secondo il quale un oggetto dev’essere conservato intatto.
+<sup>2bis</sup>
 
-<sup>4</sup> Il Consiglio federale stabilisce la grandezza e l’importanza richieste per gli impianti idroelettrici e gli impianti eolici. Le stabilisce sia per i nuovi impianti sia per gli ampliamenti e i rinnovamenti di impianti esistenti. Se necessario può definire la grandezza e l’importanza richieste anche per le altre tecnologie e per le centrali di pompaggio.
+Nei biotopi d’importanza nazionale di cui all’articolo 18*a* LPN e nelle riserve per uccelli acquatici e di passo di cui all’articolo 11 della legge del 20 giugno 1986[^12-3] sulla caccia non sono ammessi nuovi impianti per l’impiego di energie rinnovabili; tale divieto non si applica:
 
-<sup>5</sup> Il Consiglio federale stabilisce la grandezza e l’importanza richieste di cui al capoverso 4 tenendo conto di criteri quali la potenza o la produzione nonché la capacità di produrre secondo un orario flessibile e in funzione del mercato.
+- a. alle zone golenali che sono margini proglaciali o pianure alluvionali alpine e che il Consiglio federale ha iscritto nell’inventario federale delle zone golenali d’importanza nazionale dopo il 1° gennaio 2023 in virtù dell’articolo 18*a* capoverso 1 LPN;
+- b. alle centrali di derivazione delle portate di piena finalizzate al risanamento ecologico secondo l’articolo 39*a* LPAc[^12-4], sempre che sia possibile eliminare i sensibili pregiudizi arrecati agli obiettivi di protezione dell’oggetto in questione;
+- c. se soltanto il tratto del deflusso residuale è situato nell’oggetto protetto.[^12-5]
+
+<sup>3</sup> Quando un’autorità decide sull’autorizzazione di un progetto di costruzione, ampliamento o rinnovamento di impianti o centrali di pompaggio di cui al capoverso 2 oppure sul rilascio di concessioni per tali impianti o centrali, nella ponderazione degli interessi l’interesse nazionale alla realizzazione di detti progetti è considerato equivalente ad altri interessi nazionali. L’interesse nazionale prevale su interessi di importanza cantonale, regionale o locale.[^12-6]
+
+<sup>3bis</sup> Nel caso di un oggetto iscritto in un inventario ai sensi dell’articolo 5 LPN può essere presa in considerazione una deroga al principio secondo cui l’oggetto deve essere conservato intatto. In tal caso è lecito rinunciare a provvedimenti di protezione, di ripristino, di sostituzione o di compensazione.[^12-7]
+
+<sup>4</sup> Il Consiglio federale stabilisce la grandezza e l’importanza richieste per gli impianti idroelettrici, solari ed eolici.[^12-8] Le stabilisce sia per i nuovi impianti sia per gli ampliamenti e i rinnovamenti di impianti esistenti. Se necessario può definire la grandezza e l’importanza richieste anche per le altre tecnologie e per le centrali di pompaggio.
+
+<sup>5</sup> Il Consiglio federale stabilisce la grandezza e l’importanza richieste di cui al capoverso 4 tenendo conto di criteri quali la potenza, la produzione o la produzione invernale nonché la capacità di produrre secondo un orario flessibile e in funzione del mercato.[^12-9]
 
 [^12-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^12-2]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^12-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^12-4]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^12-5]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-6]: Nuovo periodo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-7]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-8]: Nuovo periodo giusta la cifra I della LF del 19.09.2023 (Modifica della legge federale sull’energia e della legge sull’approvvigionamento elettrico), in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-9]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 13
 
@@ -184,12 +227,19 @@ Chi fornisce elettricità ai consumatori finali è tenuto a:
 
 <sup>1</sup>
 
-Il Consiglio federale può riconoscere eccezionalmente un interesse nazionale secondo l’articolo 12 a un impianto per l’impiego di energie rinnovabili o a una centrale di pompaggio che non raggiunge la grandezza e l’importanza richieste, se:
+Finché non è raggiunto l’obiettivo di incremento della produzione di elettricità generata da energie rinnovabili, il Consiglio federale riconosce un interesse nazionale secondo l’articolo 12 a un impianto per l’impiego di energie rinnovabili o a una centrale di pompaggio che non raggiunge la grandezza e l’importanza richieste, se:[^13-1]
 
-- a. detto impianto o detta centrale fornisce un contributo fondamentale al raggiungimento dei valori indicativi per l’incremento della produzione;
+- a. [^13-2] detto impianto o detta centrale fornisce un contributo fondamentale al raggiungimento degli obiettivi di incremento della produzione;
 - b. il Cantone di ubicazione lo richiede.
 
-<sup>2</sup> Il Consiglio federale valuta la richiesta considerando se vi sono ubicazioni alternative, quante ve ne sono e quali.
+<sup>2</sup> ...[^13-3]
+
+<sup>3</sup> Se riconosce a un impianto un interesse nazionale secondo l’articolo 12, il Consiglio federale può inoltre decidere che le autorizzazioni necessarie siano concesse mediante una procedura abbreviata e accentrata.[^13-4]
+
+[^13-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-3]: Abrogato dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, con effetto dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-4]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 14
 
@@ -230,37 +280,41 @@ Se il gestore di rete e il produttore non trovano un accordo sulla rimunerazione
 
 <sup>4</sup> I capoversi 1–3 non si applicano fintanto che i produttori partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19).[^15-1]
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 16
 
 **Consumo proprio**
 
-<sup>1</sup> I gestori di impianti possono consumare nel luogo di produzione tutta o parte dell’energia da essi prodotta. Possono anche vendere tutta o parte dell’energia da essi prodotta affinché sia consumata nel luogo di produzione. Entrambe le destinazioni sono considerate consumo proprio. Il Consiglio federale emana disposizioni volte a definire e delimitare il luogo di produzione.
+<sup>1</sup> I gestori di impianti possono consumare nel luogo di produzione tutta o parte dell’energia da essi prodotta. Possono anche vendere tutta o parte dell’energia da essi prodotta affinché sia consumata nel luogo di produzione. Entrambe le destinazioni sono considerate consumo proprio. Il Consiglio federale emana disposizioni volte a definire e delimitare il luogo di produzione; può consentire l’utilizzo di linee di raccordo.[^16-1]
 
-<sup>2</sup> Il capoverso 1 si applica anche ai gestori di impianti che partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19) o a quelli che beneficiano di un contributo d’investimento secondo il capitolo 5 o di un contributo alle spese d’esercizio (art. 33*a*).[^16-1]
+<sup>2</sup> Il capoverso 1 si applica anche ai gestori di impianti che partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19) o a quelli che beneficiano di un contributo d’investimento secondo il capitolo 5 o di un contributo alle spese d’esercizio (art. 33*a*).[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^16-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 17
 
 **Raggruppamento ai fini del consumo proprio**
 
-<sup>1</sup> Se in un luogo di produzione vi sono più proprietari fondiari che sono consumatori finali, essi possono raggrupparsi ai fini del consumo proprio comune, sempre che la potenza totale di produzione sia considerevole rispetto alla potenza allacciata nel punto di misurazione (art. 18 cpv. 1). A tal fine concludono una convenzione tra di loro e con il gestore dell’impianto.
+<sup>1</sup> Se in un luogo di produzione vi sono più proprietari fondiari che sono consumatori finali, essi possono raggrupparsi ai fini del consumo proprio comune, sempre che la potenza totale di produzione sia considerevole rispetto alla potenza allacciata del raggruppamento.[^17-1] A tal fine concludono una convenzione tra di loro e con il gestore dell’impianto.
 
-<sup>2</sup> I proprietari fondiari possono prevedere che il consumo proprio comune in un luogo di produzione si estenda ai consumatori finali con i quali hanno concluso un contratto di locazione o di affitto. Essi sono responsabili dell’approvvigionamento dei locatari e degli affittuari partecipanti al raggruppamento. Gli articoli 6 e 7 della legge del 23 marzo 2007[^17-1] sull’approvvigionamento elettrico (LAEl) si applicano per analogia. Il Consiglio federale può prevedere deroghe ai diritti e agli obblighi di cui agli articoli 6 e 7 LAEl.
+<sup>2</sup> I proprietari fondiari possono prevedere che il consumo proprio comune in un luogo di produzione si estenda ai consumatori finali con i quali hanno concluso un contratto di locazione o di affitto. Essi sono responsabili dell’approvvigionamento dei locatari e degli affittuari partecipanti al raggruppamento. Gli articoli 6 e 7 della legge del 23 marzo 2007[^17-2] sull’approvvigionamento elettrico (LAEl) si applicano per analogia. Gli articoli 6 e 7 LAEl si applicano per analogia.[^17-3]
 
 <sup>3</sup> Quando il proprietario fondiario introduce il consumo proprio comune i locatari o affittuari hanno la possibilità di scegliere che l’approvvigionamento di base sia garantito dal gestore di rete secondo l’articolo 6 o 7 LAEl. Successivamente i locatari o affittuari possono far valere questo diritto soltanto se il proprietario fondiario non adempie gli obblighi di cui al capoverso 2. Essi conservano in linea di massima il loro diritto all’accesso alla rete di cui all’articolo 13 LAEl.
 
-<sup>4</sup> I costi connessi all’introduzione del consumo proprio comune sono a carico dei proprietari fondiari, sempre che non siano coperti dal corrispettivo per l’utilizzazione della rete (art. 14 LAEl). I proprietari fondiari non possono addossarli ai locatari o agli affittuari.
+<sup>4</sup> I costi connessi all’introduzione del consumo proprio comune sono a carico dei proprietari fondiari, sempre che non siano coperti dal corrispettivo per l’utilizzazione della rete (art. 14 LAEl). I proprietari fondiari non possono addossarli direttamente ai locatari o agli affittuari.[^17-4]
 
-[^17-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^17-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-3]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^17-4]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 18
 
-**Rapporto con il gestore di rete e altri dettagli**
+**Relazioni esterne e altri dettagli[^18-1]**
 
-<sup>1</sup> Dopo il raggruppamento i consumatori finali dispongono congiuntamente, nei confronti del gestore di rete, di un punto di misurazione unico come un consumatore finale. Essi devono essere trattati come un consumatore finale unico, anche per quanto concerne il dispositivo di misurazione, la misurazione o il diritto di accesso alla rete secondo gli articoli 6 e 13 LAEl[^18-1].
+<sup>1</sup> I consumatori finali costituitisi in un raggruppamento sono trattati come un consumatore finale unico per quanto concerne il prelievo di elettricità dalla rete.[^18-2]
 
 <sup>2</sup>
 
@@ -270,7 +324,20 @@ Il Consiglio federale può emanare disposizioni in particolare:
 - b. sulle condizioni alle quali un locatario o un affittuario può far valere i diritti che gli spettano conformemente alla LAEl;
 - c. sulle condizioni e sulle procedure di misurazione in caso di impiego di accumulatori elettrici nell’ambito del consumo proprio.
 
-[^18-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^18-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 18a
+
+**Immissione di energia da parte della Confederazione**[^18a-1]
+
+<sup>1</sup> La Confederazione può vendere a prezzi di mercato l’elettricità e altre energie di rete, prodotte per soddisfare il fabbisogno di energia delle proprie unità amministrative, se non le può utilizzare direttamente.
+
+<sup>2</sup> Il DATEC limita tali vendite se i prezzi di mercato ne verrebbero influenzati in modo considerevole.
+
+<sup>3</sup> Il Consiglio federale disciplina l’utilizzo delle garanzie di origine rilasciate per la produzione di energia e dei ricavi conseguiti dalla vendita dell’energia.
+
+[^18a-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 ## Capitolo 4: Rimunerazione per l’immissione di elettricità generata a partire da energie rinnovabili (Sistema di rimunerazione per l’immissione di elettricità)
 
@@ -324,7 +391,7 @@ Il Consiglio federale disciplina gli ulteriori dettagli del sistema di rimuneraz
 - g. ulteriori compiti dei gruppi di bilancio e dei gestori di rete, in particolare un obbligo di ritiro e di rimunerazione nell’ambito dell’articolo 21 nonché un eventuale obbligo di versamento anticipato della rimunerazione.
 
 [^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^19-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^19-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
 
@@ -378,15 +445,18 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti in particola
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^chap5-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 24
 
 **Principi**[^24-1]
 
-Per gli impianti che producono elettricità da energie rinnovabili è possibile beneficiare di un contributo d’investimento sulla base delle disposizioni del presente capitolo, sempre che vi siano risorse sufficienti (art. 35 e 36).
+<sup>1</sup> Per gli impianti che producono elettricità da energie rinnovabili è possibile beneficiare di un contributo d’investimento sulla base delle disposizioni del presente capitolo, sempre che vi siano risorse sufficienti (art. 35 e 36).
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+<sup>2</sup> Per le prestazioni di progettazione svolte a partire dal 3 aprile 2020 è possibile beneficiare dei contributi di cui agli articoli 26 capoverso 3<sup>bis</sup>, 27*a* capoverso 3 e 27*b* capoverso 3.[^24-2]
+
+[^24-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^24-2]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 25
 
@@ -398,7 +468,7 @@ Per gli impianti che producono elettricità da energie rinnovabili è possibile 
 
 <sup>3</sup> Per gli impianti che immettono in rete tutta l’elettricità prodotta la rimunerazione unica può ammontare, in deroga al capoverso 2, fino al 60 per cento dei costi d’investimento determinanti degli impianti di riferimento al momento della messa in esercizio.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 25a
 
@@ -418,7 +488,7 @@ Il Consiglio federale può prevedere sanzioni fino al 10 per cento dell’import
 - b. non raggiunge o raggiunge soltanto in parte gli obiettivi garantiti nell’offerta per la quale il partecipante si è aggiudicato l’asta;
 - c. non presenta o presenta soltanto in parte le caratteristiche garantite nell’offerta per la quale il partecipante si è aggiudicato l’asta.
 
-[^25a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^25a-1]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 26
 
@@ -441,6 +511,8 @@ Il contributo d’investimento ammonta:
 - a. al massimo al 60 per cento dei costi d’investimento computabili, per gli impianti di cui al capoverso 1 lettere a e b;
 - b. al massimo al 40 per cento dei costi d’investimento computabili, per gli impianti di cui al capoverso 1 lettera c.
 
+<sup>3bis</sup> È possibile beneficiare di un contributo per la progettazione di nuovi impianti idroelettrici o di ampliamenti considerevoli di impianti idroelettrici che adempiono i requisiti di cui al capoverso 1 lettere a e b. Il contributo ammonta al massimo al 40 per cento dei costi di progettazione computabili; viene detratto da un eventuale contributo d’investimento di cui al capoverso 1.[^26-2]
+
 <sup>4</sup> I limiti inferiori di potenza di cui al capoverso 1 non si applicano agli impianti accessori.
 
 <sup>5</sup>
@@ -450,7 +522,8 @@ Il Consiglio federale può esentare altri impianti idroelettrici dal rispetto de
 - a. sono ubicati in sezioni di corsi d’acqua già sfruttate; o
 - b. non implicano ulteriori interventi in corsi d’acqua naturali o preziosi sotto il profilo ecologico.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^26-2]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 27
 
@@ -462,7 +535,7 @@ Il Consiglio federale può esentare altri impianti idroelettrici dal rispetto de
 
 <sup>3</sup> Per gli impianti che utilizzano in parte combustibili o carburanti fossili non è possibile beneficiare di un contributo d’investimento.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 27a
 
@@ -472,7 +545,10 @@ Il Consiglio federale può esentare altri impianti idroelettrici dal rispetto de
 
 <sup>2</sup> Il contributo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
 
-[^27a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+<sup>3</sup> Per la progettazione di nuovi impianti eolici è possibile beneficiare di un contributo. Il contributo ammonta al massimo al 40 per cento dei costi di progettazione computabili; viene detratto da un eventuale contributo d’investimento di cui al capoverso 1.[^27a-2]
+
+[^27a-1]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^27a-2]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 27b
 
@@ -488,7 +564,10 @@ Il Consiglio federale può esentare altri impianti idroelettrici dal rispetto de
 
 <sup>2</sup> Ogni contributo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
 
-[^27b-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+<sup>3</sup> Per la progettazione di nuovi impianti geotermici è possibile beneficiare di un contributo. Il contributo ammonta al massimo al 40 per cento dei costi di progettazione computabili; viene detratto da un eventuale contributo d’investimento di cui al capoverso 1 lettera c.[^27b-2]
+
+[^27b-1]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^27b-2]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 28
 
@@ -500,8 +579,8 @@ Il Consiglio federale può esentare altri impianti idroelettrici dal rispetto de
 
 <sup>3</sup> Il Consiglio federale può estendere queste regole alla rimunerazione unica per impianti fotovoltaici a partire da una determinata potenza.
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^28-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^28-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 29
 
@@ -535,14 +614,103 @@ Il Consiglio federale può inoltre prevedere in particolare:[^29-4]
 - i.[^29-7] importi basati sul principio dell’impianto di riferimento per i contributi d’investimento di cui agli articoli 26–27*b* per determinate classi di potenza;
 - j.[^29-8] l’obbligo per i promotori di progetti che ricevono un contributo d’investimento secondo il presente capitolo di fornire alla Confederazione dati e informazioni di interesse pubblico.
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-5]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-6]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-7]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^29-8]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-4]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-5]: Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-6]: Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-7]: Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-8]: Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+## Capitolo 5*a*[^chap5a-1]: Premi di mercato fluttuanti per l’immissione di elettricità generata da energie rinnovabili
+
+[^chap5a-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 29a
+
+**Partecipazione al sistema dei premi di mercato fluttuanti**
+
+<sup>1</sup>
+
+Per i seguenti nuovi impianti per la produzione di elettricità generata da energie rinnovabili, come pure in caso di ampliamenti o rinnovamenti considerevoli di siffatti impianti secondo quanto indicato qui appresso, è possibile beneficiare di premi di mercato fluttuanti conformemente alle disposizioni del presente capitolo, sempre che vi siano risorse sufficienti (art. 35 e 36):
+
+- a. nuovi impianti idroelettrici con una potenza di almeno 1 MW;
+- b. ampliamento o rinnovamento considerevole di impianti idroelettrici che, dopo l’ampliamento o il rinnovamento, hanno una potenza di almeno 300 kW;
+- c. impianti fotovoltaici senza consumo proprio con una potenza di almeno 150 kW;
+- d. impianti eolici;
+- e. impianti a biomassa.
+
+<sup>2</sup> Sono considerati nuovi gli impianti messi in esercizio dopo l’entrata in vigore della modifica del 29 settembre 2023 della presente legge.
+
+<sup>3</sup>
+
+Non sussiste alcun diritto a beneficiare di premi di mercato fluttuanti per:
+
+- a. impianti d’incenerimento dei rifiuti urbani (impianti d’incenerimento dei rifiuti);
+- b. forni per l’incenerimento di fanghi, impianti a gas di depurazione e impianti a gas di discarica;
+- c. impianti che utilizzano in parte combustibili o carburanti fossili;
+- d. impianti idroelettrici destinati prevalentemente al pompaggio-turbinaggio; il Consiglio federale può prevedere eccezioni se vi è la necessità comprovata di disporre di ulteriori capacità di accumulazione al fine di integrare le energie rinnovabili.
+
+<sup>4</sup> Le eccezioni ai limiti inferiori di potenza nel caso di impianti idroelettrici (cpv. 1 lett. a e b) sono rette dall’articolo 26 capoversi 4 e 5.
+
+<sup>5</sup>
+
+Il Consiglio federale disciplina gli ulteriori dettagli, in particolare:
+
+- a. la procedura di presentazione delle domande;
+- b. la durata della rimunerazione;
+- c. le esigenze minime di carattere energetico, ecologico o di altro tipo applicabili agli impianti a biomassa;
+- d. l’estinzione anticipata del diritto di beneficiare di premi di mercato fluttuanti;
+- e. l’uscita dal sistema dei premi di mercato fluttuanti;
+- f. la ridistribuzione contabile dell’elettricità immessa nella rete da parte dei gruppi di bilancio attivi quali unità di misurazione e di conteggio;
+- g. ulteriori compiti dei gruppi di bilancio e dei gestori di rete, in particolare un obbligo di ritiro e di rimunerazione nell’ambito dell’articolo 21 nonché un eventuale obbligo di versamento anticipato della rimunerazione che vi è connesso.
+
+#### Art. 29b
+
+**Libera scelta**
+
+<sup>1</sup> Se ha diritto sia a partecipare al sistema dei premi di mercato fluttuanti che a ricevere un contributo d’investimento, il gestore dell’impianto può scegliere una delle due opzioni.
+
+<sup>2</sup> Se sceglie di partecipare al sistema dei premi di mercato fluttuanti, il gestore dell’impianto versa al Fondo per il supplemento rete (art. 37) i contributi d’investimento già ricevuti (art. 24).
+
+#### Art. 29c
+
+**Partecipazione parziale e prezzo di mercato di riferimento**
+
+<sup>1</sup> Le disposizioni concernenti la partecipazione parziale al sistema di rimunerazione per l’immissione di elettricità (art. 20) e quelle concernenti il prezzo di mercato di riferimento nel sistema di rimunerazione per l’immissione di elettricità (art. 23) si applicano per analogia al sistema dei premi di mercato fluttuanti.
+
+<sup>2</sup> Per determinare il prezzo di mercato di riferimento il Consiglio federale può tenere conto anche di eventuali ricavi ulteriori.
+
+#### Art. 29d
+
+**Commercializzazione diretta**
+
+<sup>1</sup> Alla vendita di elettricità nel sistema dei premi di mercato fluttuanti si applica per analogia l’articolo 21 capoversi 1–4.
+
+<sup>2</sup> Se il prezzo di mercato di riferimento è superiore al tasso di rimunerazione, la parte eccedente è assegnata al Fondo per il supplemento rete (art. 37).
+
+<sup>3</sup> Da dicembre a marzo il gestore può trattenere un importo pari a una quota compresa tra il 10 e il 40 per cento della parte eccedente. Il Consiglio federale stabilisce la quota spettante ai gestori.
+
+#### Art. 29e
+
+**Tasso di rimunerazione**
+
+<sup>1</sup> Il tasso di rimunerazione si fonda sui costi di produzione determinanti e adeguati al momento della messa in esercizio dell’impianto.
+
+<sup>2</sup> Per singole tecnologie o tipi di impianto il Consiglio federale può prevedere che il tasso di rimunerazione si fondi sui costi di produzione di impianti di riferimento determinanti al momento della messa in esercizio. Gli impianti di riferimento corrispondono alla tecnologia più efficiente; quest’ultima deve essere economica a lungo termine.
+
+<sup>3</sup> Per impianti fotovoltaici a partire da una determinata potenza il tasso di rimunerazione può essere stabilito tramite vendite all’asta. Per categorie di impianti diverse possono essere svolte vendite all’asta separate.
+
+<sup>4</sup> Il tasso di rimunerazione rimane lo stesso per tutta la durata della rimunerazione.
+
+<sup>5</sup>
+
+Il Consiglio federale emana disposizioni d’esecuzione concernenti in particolare:
+
+- a. la determinazione dei tassi di rimunerazione per le singole tecnologie di generazione, categorie e classi di potenza;
+- b. i tassi di rimunerazione per tecnologie o tipi di impianto il cui tasso di rimunerazione si fonda sui costi di produzione degli impianti di riferimento;
+- c. le deroghe al principio di cui al capoverso 4, in particolare per quanto concerne l’adeguamento dei tassi di rimunerazione per impianti che già partecipano al sistema dei premi di mercato fluttuanti, nei casi in cui l’impianto o l’impianto di riferimento realizza guadagni o perdite eccessivi.
 
 ## Capitolo 6: Misure di sostegno particolari
 
@@ -571,8 +739,8 @@ Il Consiglio federale disciplina i dettagli, in particolare:
 
 <sup>5</sup> ...[^30-2]
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^30-2]: Abrogato dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^30-2]: Abrogato dalla cifra I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 31
 
@@ -592,11 +760,17 @@ Il Consiglio federale disciplina i dettagli, in particolare:
 
 **Bandi di gara per misure di efficienza energetica**
 
+<sup>1</sup>
+
 Il Consiglio federale prevede bandi di gara per misure di efficienza energetica che perseguono in particolare:
 
 - a. l’impiego parsimonioso ed efficiente dell’energia elettrica negli edifici, negli impianti, nelle imprese e nei veicoli;
 - b. la riduzione delle perdite dovute alla trasformazione nel caso di impianti elettrici destinati alla produzione e alla distribuzione di elettricità;
 - c. il recupero, ai fini della produzione di elettricità, del calore residuo che non può essere impiegato in altro modo.
+
+<sup>2</sup> Il Consiglio federale può prevedere, in aggiunta al capoverso 1, programmi a livello nazionale per bandi di gara diretti concernenti le misure di cui al capoverso 1 lettera a.[^32-1]
+
+[^32-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 33
 
@@ -608,7 +782,7 @@ Il Consiglio federale prevede bandi di gara per misure di efficienza energetica 
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli, in particolare i costi d’investimento computabili e la procedura.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 33a
 
@@ -636,16 +810,17 @@ Non è possibile beneficiare di un contributo alle spese d’esercizio per:
 - b. forni per l’incenerimento di fanghi, impianti a gas di depurazione e impianti a gas di discarica;
 - c. impianti che utilizzano in parte combustibili o carburanti fossili.
 
-[^33a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^33a-1]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 34
 
-**Indennizzo secondo le legislazioni sulla protezione delle acque e sulla pesca**
+**Indennizzo secondo le legislazioni sulla protezione delle acque e sulla pesca**[^34-1]
 
-Al proprietario di un impianto idroelettrico (centrale idroelettrica secondo la legislazione sulla protezione delle acque) sono rimborsati i costi globali delle misure di cui all’articolo 83*a* della legge federale del 24 gennaio 1991[^34-1] sulla protezione delle acque o all’articolo 10 della legge federale del 21 giugno 1991[^34-2] sulla pesca.
+Al proprietario di un impianto idroelettrico (centrale idroelettrica secondo la legislazione sulla protezione delle acque) sono rimborsati i costi globali delle misure di cui all’articolo 83*a* LPAc[^34-2] o all’articolo 10 della legge federale del 21 giugno 1991[^34-3] sulla pesca.
 
-[^34-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^34-2]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^34-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^34-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^34-3]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 ## Capitolo 7: Supplemento rete
 
@@ -666,25 +841,27 @@ Con il supplemento rete sono finanziati:
 - c. le spese[^35-1] supplementari secondo l’articolo 73 capoverso 4 non coperte dai prezzi di mercato;
 - d.[^35-2] i contributi d’investimento secondo il capitolo 5;
 - d<sup>bis</sup>.[^35-3] la rimunerazione unica secondo l’articolo 71*a* capoverso 4;
+- d<sup>ter</sup>[^35-4]. il premio di mercato fluttuante secondo il capitolo 5*a*;
 - e. il premio di mercato per l’elettricità proveniente da grandi impianti idroelettrici secondo l’articolo 30;
 - f. i costi dei bandi di gara di cui all’articolo 32;
-- g.[^35-4] le perdite derivanti dalle garanzie per la geotermia di cui all’articolo 33;
+- g.[^35-5] le perdite derivanti dalle garanzie per la geotermia di cui all’articolo 33;
 - h. l’indennizzo di cui all’articolo 34;
-- h<sup>bis</sup>.[^35-5] i contributi alle spese d’esercizio di cui all’articolo 33*a*;
+- h<sup>bis</sup>.[^35-6] i contributi alle spese d’esercizio di cui all’articolo 33*a*;
 - i. i rispettivi costi di esecuzione, in particolare i costi indispensabili dell’organo d’esecuzione;
 - j. i costi a carico dell’UFE risultanti dai suoi compiti nei confronti dell’organo d’esecuzione.
 
 <sup>3</sup> Il supplemento rete ammonta al massimo a 2,3 ct./kWh. Il Consiglio federale lo fissa in funzione dei bisogni.
 
 [^35-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^35-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^35-3]: Introdotta dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^35-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^35-5]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-3]: Introdotta dalla cifra I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-4]: Introdotta dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^35-5]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-6]: Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 36
 
-**Limitazione per singoli utilizzi e lista d’attesa**[^36-1]
+**Limitazione per singoli utilizzi[^36-2]**[^36-1]
 
 <sup>1</sup>
 
@@ -703,29 +880,48 @@ Le risorse sono destinate ai singoli utilizzi conformemente alle quote massime s
 
 <sup>2</sup> L’UFE stabilisce annualmente le risorse destinate agli impianti fotovoltaici (contingente per il fotovoltaico). Può stabilire contingenti anche per le altre tecnologie. Al riguardo persegue una progressione continua e tiene conto dell’evoluzione dei costi.
 
-<sup>3</sup> Il Consiglio federale disciplina le conseguenze delle limitazioni previste dal presente articolo. Può prevedere liste d’attesa per i contributi d’investimento secondo il capitolo 5. Per ridurre le liste d’attesa può prendere in considerazione anche criteri diversi dalla data d’iscrizione in tali liste.
+<sup>3</sup> Il Consiglio federale disciplina le conseguenze delle limitazioni previste dal presente articolo.[^36-3]
 
 <sup>4</sup> Le risorse di cui al capoverso 1 lettera c rimaste inutilizzate sono impiegate l’anno successivo per gli altri utilizzi di cui all’articolo 26 capoverso 1 lettere b e c o all’articolo 34, tenendo conto delle quote massime di cui al capoverso 1.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^36-2]: Nuovo testo giusta la cifra I della LF del 19.09.2023 (Modifica della legge federale sull’energia e della legge sull’approvvigionamento elettrico), in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)).
+[^36-3]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 37
 
 **Fondo per il supplemento rete**
 
-<sup>1</sup> Il Consiglio federale istituisce per il supplemento rete un fondo speciale (Fondo per il supplemento rete) secondo l’articolo 52 della legge federale del 7 ottobre 2005[^37-1] sulle finanze della Confederazione.
+<sup>1</sup> Per il supplemento rete è gestito un fondo speciale secondo l’articolo 52 della legge federale del 7 ottobre 2005 sulle finanze della Confederazione (Fondo per il supple-mento rete).[^37-1]
 
 <sup>2</sup> Il Fondo per il supplemento rete è amministrato in seno al DATEC. Agli uffici federali competenti e all’organo d’esecuzione spettano le risorse di cui abbisognano per effettuare i pagamenti necessari nei rispettivi ambiti di competenza esecutiva (art. 62).
 
 <sup>3</sup> L’Amministrazione federale delle finanze investe le risorse del Fondo per il supplemento rete. Queste sono iscritte nel conto annuale della Confederazione nella rubrica «capitale di terzi».
 
-<sup>4</sup> Il Fondo per il supplemento rete non può indebitarsi. Le sue risorse fruttano interessi.
+<sup>4</sup> Il Fondo per il supplemento rete può indebitarsi conformemente a quanto previsto dall’articolo 37a. Le sue risorse fruttano interessi.[^37-2]
 
 <sup>5</sup> Il Controllo federale delle finanze verifica annualmente i conti del Fondo per il supplemento rete.
 
 <sup>6</sup> Sui conferimenti e sui prelievi nonché sullo stato patrimoniale del Fondo per il supplemento rete è presentato un rapporto annuo.
 
-[^37-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^37-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^37-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 37a
+
+**Mutui di tesoreria**[^37a-1]
+
+<sup>1</sup> Per coprire picchi di investimento, l’Amministrazione federale delle finanze può accordare al Fondo per il supplemento rete mutui di tesoreria.
+
+<sup>2</sup> I mutui sono accordati fino a concorrenza del doppio dei ricavi medi annui del supplemento rete calcolati sull’arco di cinque anni.
+
+<sup>3</sup> I mutui vanno rimborsati entro sette anni mediante i ricavi del supplemento rete. A partire dall’ottenimento del mutuo, ogni anno un importo pari a un settimo dell’importo iniziale è prelevato dai ricavi annuali del supplemento rete e destinato al rimborso.
+
+<sup>4</sup> Il credito è rimunerato conformemente ai tassi d’interesse usuali sul mercato.
+
+<sup>5</sup> Il Consiglio federale disciplina i dettagli.
+
+[^37a-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 38
 
@@ -738,22 +934,25 @@ Non vengono più presi nuovi impegni a partire dal 1° gennaio:
 - a. del sesto anno dall’entrata in vigore della presente legge, nel sistema di rimunerazione per l’immissione di elettricità;
 - b.
 
-  del 2031 per:
+  del 2036 per:[^38-1]
 
-  - 1\.[^38-1] le rimunerazioni uniche di cui agli articoli 25 e 25*a*,
-  - 2\.[^38-2] i contributi d’investimento di cui agli articoli 26–27*b*,
+  - 1\.[^38-2] le rimunerazioni uniche di cui agli articoli 25 e 25*a*,
+  - 2\.[^38-3] i contributi d’investimento di cui agli articoli 26–27*b*,
   - 3\. i bandi di gara di cui all’articolo 32,
-  - 4\.[^38-3] le garanzie per la geotermia di cui all’articolo 33.
+  - 4\.[^38-4] le garanzie per la geotermia di cui all’articolo 33,
+  - 5\.[^38-5] i premi di mercato fluttuanti di cui all’articolo 29*a.*
 
-<sup>2</sup> Il premio di mercato di cui all’articolo 30 è versato per l’ultima volta per il 2030.[^38-4]
+<sup>2</sup> Il premio di mercato di cui all’articolo 30 è versato per l’ultima volta per il 2030.[^38-6]
 
-<sup>3</sup> I contributi alle spese d’esercizio di cui all’articolo 33*a* sono concessi sino al 31 dicembre 2030.[^38-5]
+<sup>3</sup> ...[^38-7]
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^38-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^38-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^38-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^38-5]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^38-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-4]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-5]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^38-6]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-7]: Introdotto dalla cifra I della LF del 1° ott. 2021 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)). Abrogato dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 ### Sezione 2: Rimborso
 
@@ -818,23 +1017,28 @@ Il Consiglio federale disciplina la procedura; in particolare fissa il termine e
 
 <sup>1</sup>
 
-Ai fini della riduzione del consumo di energia il Consiglio federale emana per gli impianti, i veicoli e gli apparecchi prodotti in serie e per i loro componenti prodotti in serie prescrizioni concernenti:
+Ai fini della riduzione del consumo di energia il Consiglio federale emana per gli impianti, i veicoli e gli apparecchi prodotti in serie e per i loro componenti prodotti in serie, messi a disposizione sul mercato svizzero, prescrizioni concernenti:
 
-- a. indicazioni uniformi e comparabili relative al consumo di energia specifico, all’efficienza energetica e alle caratteristiche rilevanti sotto il profilo del consumo di energia;
+- a. indicazioni uniformi e comparabili relative al consumo di energia specifico, all’efficienza energetica, alle emissioni e alle caratteristiche rilevanti sotto il profilo del consumo di energia osservate durante l’utilizzo e per l’intero ciclo di vita;
 - b. la procedura di omologazione energetica;
-- c. le esigenze relative all’immissione in commercio; per gli apparecchi elettrici, tali esigenze comprendono anche il consumo in modalità di attesa.
+- c. le esigenze relative alla messa a disposizione sul mercato;
+- d. indicazioni relative al minore o maggiore impatto finanziario, sui consumi e sulle emissioni rispetto ad altri impianti, veicoli, apparecchi e ai loro componenti prodotti in serie.[^44-1]
 
-<sup>2</sup> Anziché emanare prescrizioni concernenti le esigenze per l’immissione in commercio, il Consiglio federale può introdurre strumenti di economia di mercato.
+<sup>2</sup> Anziché emanare prescrizioni concernenti le esigenze relative alla messa a disposizione sul mercato, il Consiglio federale può introdurre strumenti di economia di mercato.[^44-2]
 
 <sup>3</sup> Se per determinati prodotti non vi sono prescrizioni conformemente al capoverso 1, l’UFE può concludere con i produttori e gli importatori corrispondenti convenzioni.
 
-<sup>4</sup> Il Consiglio federale e l’UFE si fondano sull’economicità e sulle migliori tecnologie disponibili e tengono conto delle norme internazionali e delle raccomandazioni di organizzazioni specializzate riconosciute. Le esigenze relative all’immissione in commercio e gli obiettivi degli strumenti di economia di mercato devono essere adeguati allo stato della tecnica e agli sviluppi internazionali.
+<sup>4</sup> Il Consiglio federale e l’UFE si fondano sull’economicità e sulle migliori tecnologie disponibili e tengono conto delle norme internazionali e delle raccomandazioni di organizzazioni specializzate riconosciute. Le esigenze relative alla messa a disposizione sul mercato e gli obiettivi degli strumenti di economia di mercato devono essere adeguati allo stato della tecnica e agli sviluppi internazionali.[^44-3]
 
-<sup>5</sup> Il Consiglio federale può disporre che le prescrizioni concernenti le esigenze relative all’immissione in commercio si applichino anche all’uso proprio.
+<sup>5</sup> Il Consiglio federale può disporre che le prescrizioni concernenti le esigenze relative alla messa a disposizione sul mercato si applichino anche all’uso proprio.[^44-4]
 
-<sup>6</sup> Se impianti e apparecchi prodotti in serie o i loro componenti prodotti in serie rientrano nell’ambito di applicazione di una norma armonizzata di cui nella legge del 21 marzo 2014[^44-1] sui prodotti da costruzione (LProdC) o se per essi è stata rilasciata una valutazione tecnica europea secondo la LProdC, i capoversi 1–5 sono sostituiti dalle disposizioni relative all’utilizzo, alla messa in esercizio, all’applicazione o all’installazione.
+<sup>6</sup> Se impianti e apparecchi prodotti in serie o i loro componenti prodotti in serie rientrano nell’ambito di applicazione di una norma armonizzata di cui nella legge del 21 marzo 2014[^44-5] sui prodotti da costruzione (LProdC) o se per essi è stata rilasciata una valutazione tecnica europea secondo la LProdC, i capoversi 1–5 sono sostituiti dalle disposizioni relative all’utilizzo, alla messa in esercizio, all’applicazione o all’installazione.
 
-[^44-1]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^44-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-3]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-4]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-5]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
 
 #### Art. 45
 
@@ -851,11 +1055,15 @@ I Cantoni emanano in particolare disposizioni concernenti:
 - a. la quota massima ammissibile di energie non rinnovabili a copertura dell’approvvigionamento termico, per il riscaldamento e l’acqua calda; il calore residuo può essere computato nella quota di energie rinnovabili;
 - b. l’installazione e la sostituzione di riscaldamenti elettrici fissi a resistenza;
 - c. il conteggio individuale delle spese di riscaldamento e di acqua calda nelle nuove costruzioni e in caso di rinnovamenti considerevoli negli edifici esistenti;
-- d. la produzione di energie rinnovabili e l’efficienza energetica.
+- d. la produzione di energie rinnovabili e l’efficienza energetica;
+- e.[^45-1] i valori limite per l’energia grigia nelle nuove costruzioni e in caso di rinnovamenti considerevoli negli edifici esistenti.
 
-<sup>4</sup> Nell’emanare le disposizioni di cui al capoverso 3 lettera d i Cantoni prevedono che negli edifici riscaldati che soddisfano almeno lo standard Minergie, lo standard MoPEC o uno standard edilizio equivalente, un superamento di 20 cm al massimo, causato dall’isolamento termico o da un impianto per un migliore impiego delle energie rinnovabili indigene, non sia considerato nel calcolo in particolare dell’altezza dell’edificio, della distanza tra edifici, della distanza dai confini, della distanza dalle acque, della distanza dalle strade o della distanza dal parcheggio e nell’ambito degli allineamenti.
+<sup>4</sup> Nell’emanare le disposizioni di cui al capoverso 3 lettera d i Cantoni prevedono che negli edifici riscaldati che soddisfano almeno lo standard Minergie, lo standard previsto dal Modello di prescrizioni energetiche dei Cantoni (MoPEC) o uno standard edilizio equivalente, un superamento di 20 cm al massimo, causato dall’isolamento termico o da un impianto per un migliore impiego delle energie rinnovabili indigene, non sia considerato nel calcolo in particolare dell’altezza dell’edificio, della distanza tra edifici, della distanza dai confini, della distanza dalle acque, della distanza dalle strade o della distanza dal parcheggio e nell’ambito degli allineamenti.[^45-2]
 
 <sup>5</sup> I Cantoni emanano prescrizioni uniformi sull’indicazione del consumo energetico degli edifici (certificato energetico degli edifici). Possono dichiarare obbligatorio tale certificato per il loro territorio cantonale; se prevedono tale obbligo, ne definiscono il campo d’applicazione.
+
+[^45-1]: Introdotta dalla cifra II n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^45-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 45a
 
@@ -875,17 +1083,23 @@ I Cantoni disciplinano le eccezioni, in particolare per i casi in cui l’instal
 
 <sup>4</sup> I Cantoni che entro il 1° gennaio 2023 hanno introdotto requisiti relativi alla produzione propria di energia negli edifici nuovi secondo la sezione E del Modello di prescrizioni energetiche dei Cantoni (MoPEC 2014) o requisiti più severi sono esentati dall’attuazione dei capoversi 1−3.
 
-[^45a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^45a-1]: Introdotto dalla cifra I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno) ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 45b
 
 **Sfruttamento dell’energia solare per le infrastrutture della Confederazione**[^45b-1]
 
-<sup>1</sup> L’energia solare va sfruttata nel miglior modo possibile sulle superfici delle infrastrutture della Confederazione che si prestano a tale scopo. Dette superfici devono essere equipaggiate per produrre energia solare entro il 2030.
+<sup>1</sup> Nelle infrastrutture dell’Amministrazione federale e delle imprese parastatali della Confederazione, le superfici che si prestano a tale scopo devono essere equipaggiate per produrre energia solare. Le superfici che non sono utilizzate a tale scopo sono messe a disposizione di organizzazioni o imprese private, oppure di privati.
 
-<sup>2</sup> Il Consiglio federale disciplina il quadro generale e i dettagli.
+<sup>2</sup>
 
-[^45b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+Il Consiglio federale disciplina le eccezioni, in particolare per i casi in cui l’installazione di un impianto solare:
+
+- a. violi altre prescrizioni di diritto pubblico;
+- b. non sia tecnicamente possibile; o
+- c. sia sproporzionata dal punto di vista economico.
+
+[^45b-1]: Introdotto dalla cifra I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno) ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 46
 
@@ -896,6 +1110,44 @@ I Cantoni disciplinano le eccezioni, in particolare per i casi in cui l’instal
 <sup>2</sup> A tal fine la Confederazione può concludere con le imprese convenzioni sugli obiettivi volte ad aumentare l’efficienza energetica. Dette convenzioni devono essere economicamente sostenibili. La Confederazione si impegna inoltre in favore della diffusione e dell’accettazione delle convenzioni sugli obiettivi e delle corrispondenti misure. Provvede alla definizione di una procedura coordinata con i Cantoni.
 
 <sup>3</sup> I Cantoni emanano disposizioni concernenti la conclusione di convenzioni sugli obiettivi tra di essi e i grandi consumatori volte ad aumentare l’efficienza energetica e prevedono vantaggi in caso di conclusione e rispetto di dette convenzioni. Armonizzano le loro disposizioni con le disposizioni della Confederazione relative alle convenzioni sugli obiettivi. Dette convenzioni sugli obiettivi devono essere economicamente sostenibili.
+
+#### Art. 46a
+
+**Ruolo esemplare della Confederazione e dei Cantoni in materia di efficienza energetica**[^46a-1]
+
+<sup>1</sup> La Confederazione e i Cantoni assumono un ruolo esemplare in materia di efficienza energetica.
+
+<sup>2</sup> Entro il 2040 il consumo di energia annuale dell’Amministrazione federale centrale va ridotto del 53 per cento rispetto al 2000. Il Consiglio federale può prevedere eccezioni per motivi legati alla sicurezza del Paese e alla protezione della popolazione.
+
+<sup>3</sup> Il Consiglio federale stabilisce le misure applicabili all’Amministrazione federale centrale e alle imprese parastatali della Confederazione.
+
+[^46a-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 46b
+
+**Miglioramenti dell’efficienza energetica da parte dei fornitori di elettricità**[^46b-1]
+
+<sup>1</sup> Per assicurare il raggiungimento dell’obiettivo di cui all’articolo 9*a*<sup>bis</sup> capoverso 1 LAEl[^46b-2], il Consiglio federale definisce obiettivi annuali di miglioramento dell’efficienza energetica. Gli obiettivi non prevedono limitazioni della quantità di elettricità che i fornitori di elettricità possono vendere.
+
+<sup>2</sup> I fornitori di elettricità realizzano gli obiettivi mediante misure volte a migliorare l’efficienza energetica applicate ad apparecchi, impianti e veicoli elettrici esistenti presso i consumatori finali svizzeri. Se non raggiungono interamente gli obiettivi, acquistano in ragione dell’ammanco altre prove, fornite secondo il presente articolo, di misure volte a migliorare l’efficienza energetica realizzate in Svizzera.
+
+<sup>3</sup> I miglioramenti dell’efficienza energetica sono realizzati mediante misure standardizzate o non standardizzate. L’UFE stabilisce le misure standardizzate e le adegua ove necessario. Le misure non standardizzate vanno sottoposte all’UFE per approvazione.
+
+<sup>4</sup> Per ogni fornitore di elettricità l’obiettivo corrisponde a una quota specifica delle sue vendite ai consumatori finali in Svizzera nell’anno precedente. Il fornitore di elettricità che non raggiunge l’obiettivo deve raggiungere ulteriormente la quota di obiettivo mancante nei tre anni successivi.
+
+<sup>5</sup>
+
+Il Consiglio federale stabilisce i dettagli, in particolare:
+
+- a. la quota delle vendite delle imprese determinante;
+- b. l’esenzione di singole categorie di fornitori di elettricità dall’obbligo di raggiungere gli obiettivi;
+- c. i requisiti della prova dell’adozione di misure volte a migliorare l’efficienza energetica;
+- d. la computabilità delle misure cantonali e comunali.
+
+<sup>6</sup> Nella fissazione degli obiettivi, il Consiglio federale può prevedere eccezioni o agevolazioni per i fornitori di elettricità che approvvigionano imprese che consumano grandi quantità di elettricità.
+
+[^46b-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^46b-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 ## Capitolo 9: Promozione
 
@@ -943,6 +1195,23 @@ Nell’ambito dell’impiego dell’energia e del recupero del calore residuo la
 - a. l’impiego parsimonioso ed efficiente dell’energia;
 - b. l’impiego di energie rinnovabili;
 - c. il recupero del calore residuo, in particolare di quello delle centrali e degli impianti di incenerimento dei rifiuti, di depurazione delle acque, del settore dei servizi e dell’industria, nonché per la ripartizione del calore residuo nelle reti di riscaldamento locale e di teleriscaldamento.
+
+#### Art. 50a
+
+**Programma d’impulso per la sostituzione degli impianti di produzione di calore e per misure volte a migliorare l’efficienza energetica**[^50a-1]
+
+<sup>1</sup> Nell’ambito di un programma d’impulso la Confederazione promuove, mediante un importo di 200 milioni di franchi all’anno durante dieci anni, la sostituzione degli impianti di riscaldamento a combustibili fossili e dei riscaldamenti elettrici a resistenza fissi con una produzione di calore mediante energie rinnovabili, come pure misure volte a migliorare l’efficienza energetica.
+
+<sup>2</sup> L’esecuzione compete ai Cantoni nell’ambito delle strutture esistenti conformemente all’articolo 34 della legge del 23 dicembre 2011[^50a-2] sul CO<sub>2</sub>.
+
+<sup>3</sup> I fondi sono versati ai Cantoni sotto forma di contributo di base pro capite. Per il loro versamento il Consiglio federale può tenere conto degli sforzi già profusi dai singoli Cantoni nel settore degli edifici.
+
+<sup>4</sup> Il Consiglio federale disciplina i dettagli, in particolare l’importo dei contributi di promozione, tenendo conto dell’eventuale assenza di sistemi di distribuzione di calore. Ai fini della sostituzione degli impianti di riscaldamento a combustibili fossili, promuove in particolare gli impianti di media e grande potenza; stabilisce le esigenze minime del programma d’impulso.
+
+<sup>5</sup> L’Assemblea federale stanzia un credito d’impegno della durata di dieci anni mediante decreto federale semplice.
+
+[^50a-1]: Introdotto dall’all. della LF del 30 set. 2022 sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica, in vigore dal 1° gen. 2025 ([RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^50a-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Sezione 2: Finanziamento
 
@@ -1022,11 +1291,14 @@ Sono considerati costi computabili:
 
 **Monitoraggio**
 
-<sup>1</sup> L’UFE verifica periodicamente quanto le misure previste dalla presente legge hanno contribuito al raggiungimento dei valori indicativi di cui agli articoli 2 e 3 e allestisce un monitoraggio dettagliato in collaborazione con la Segreteria di Stato dell’economia e altri servizi della Confederazione.
+<sup>1</sup> L’UFE verifica periodicamente quanto le misure previste dalla presente legge hanno contribuito al raggiungimento degli obiettivi di cui agli articoli 2 e 3 e allestisce un monitoraggio dettagliato in collaborazione con la Segreteria di Stato dell’economia e altri servizi della Confederazione.[^55-1]
 
 <sup>2</sup> I risultati delle verifiche sono pubblicati.
 
-<sup>3</sup> Il Consiglio federale valuta ogni cinque anni le conseguenze e l’efficacia delle misure previste dalla presente legge e riferisce all’Assemblea federale sui risultati e sul raggiungimento dei valori indicativi di cui agli articoli 2 e 3. Se si prospetta che i valori indicativi non possono essere raggiunti, propone contemporaneamente i provvedimenti supplementari necessari.
+<sup>3</sup> Il Consiglio federale valuta ogni cinque anni le conseguenze e l’efficacia delle misure previste dalla presente legge e riferisce all’Assemblea federale sui risultati e sul raggiungimento degli obiettivi di cui agli articoli 2 e 3. Se si prospetta che questi non possono essere raggiunti, propone le misure supplementari necessarie.[^55-2]
+
+[^55-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^55-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 56
 
@@ -1049,16 +1321,18 @@ Le informazioni, i dati personali e i dati concernenti persone giuridiche necess
 
 <sup>2</sup> Il Consiglio federale stabilisce le informazioni e i dati necessari.
 
-[^56-1]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^56-1]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^56-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 #### Art. 57
 
 **Obbligo di informare**
 
-<sup>1</sup> Chiunque fabbrica, importa, immette in commercio o utilizza impianti, veicoli o apparecchi che consumano energia è tenuto a fornire alle autorità federali le informazioni necessarie per la preparazione e la realizzazione dei provvedimenti, come pure per la verifica della loro efficacia.
+<sup>1</sup> Chiunque fabbrica, importa, mette a disposizione sul mercato o utilizza impianti, veicoli o apparecchi che consumano energia è tenuto a fornire alle autorità federali le informazioni necessarie per la preparazione e la realizzazione delle misure, come pure per la verifica della loro efficacia.[^57-1]
 
 <sup>2</sup> Gli interessati forniscono i documenti necessari alle autorità e garantiscono loro l’accesso alle installazioni durante il normale orario di lavoro.
+
+[^57-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 58
 
@@ -1070,9 +1344,9 @@ Le informazioni, i dati personali e i dati concernenti persone giuridiche necess
 
 <sup>3</sup> Il Consiglio federale stabilisce i dati personali e i dati concernenti persone giuridiche che possono essere trattati e per quanto tempo devono essere conservati.[^58-3]
 
-[^58-1]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^58-2]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^58-3]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-1]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-2]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^58-3]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 59
 
@@ -1093,9 +1367,9 @@ Le autorità federali competenti possono pubblicare in forma adeguata i dati ano
 - a. questo corrisponde a un interesse pubblico; e
 - b. i dati non contengono segreti d’affari né di fabbricazione.
 
-[^59-1]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^59-2]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^59-3]: Nuovo testo giusta l’all. 1 n. II 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-1]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-2]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^59-3]: Nuovo testo giusta l’all. 1 cifra II n. 56 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Capitolo 12: Esecuzione, competenze e procedura
 
@@ -1140,7 +1414,7 @@ I tribunali civili giudicano:
 - a. le controversie relative a convenzioni di cui all’articolo 17 capoverso 1;
 - b. le controversie relative a rapporti giuridici tra proprietari fondiari e locatari o affittuari nell’ambito del raggruppamento ai fini del consumo proprio.
 
-[^62-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 63
 
@@ -1169,7 +1443,7 @@ L’organo d’esecuzione di cui all’articolo 64 è competente per l’esecuzi
 
 <sup>1</sup> L’organo d’esecuzione è una filiale della società nazionale di rete, che ne detiene tutte le quote. Ha la forma giuridica di una società anonima di diritto privato con sede in Svizzera, una ditta propria e strutture snelle.
 
-<sup>2</sup> I membri del Consiglio di amministrazione e della Direzione devono essere indipendenti dal settore dell’elettricità, possono tuttavia esercitare un’attività anche per la società nazionale di rete se adempiono tale esigenza di indipendenza. L’organo d’esecuzione non può detenere quote in altre società e non versa dividendi né prestazioni pecuniarie simili alla società nazionale di rete. Nell’ambito della sua attività d’esecuzione non può favorire la società nazionale di rete e i suoi azionisti rispetto ad altri richiedenti.
+<sup>2</sup> I membri del consiglio di amministrazione e della direzione devono essere indipendenti dal settore dell’energia, possono tuttavia esercitare un’attività anche per la società nazionale di rete se adempiono tale esigenza di indipendenza.[^64-1] L’organo d’esecuzione non può detenere quote in altre società e non versa dividendi né prestazioni pecuniarie simili alla società nazionale di rete. Nell’ambito della sua attività d’esecuzione non può favorire la società nazionale di rete e i suoi azionisti rispetto ad altri richiedenti.
 
 <sup>3</sup> L’UFE approva gli statuti dell’organo d’esecuzione ed esercita la vigilanza su di esso. Approva inoltre il preventivo e il conteggio delle spese d’esecuzione.
 
@@ -1178,6 +1452,8 @@ L’organo d’esecuzione di cui all’articolo 64 è competente per l’esecuzi
 <sup>5</sup> L’organo d’esecuzione non è incluso nel conto annuale consolidato della società nazionale di rete. Il Consiglio federale può emanare disposizioni supplementari relative alla presentazione dei conti.
 
 <sup>6</sup> L’organo d’esecuzione è esonerato da tutte le imposte federali, cantonali e comunali dirette.
+
+[^64-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 65
 
@@ -1266,7 +1542,7 @@ Tutte le persone incaricate dell’esecuzione della presente legge sottostanno a
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 20 000 franchi.
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 71
 
@@ -1315,7 +1591,7 @@ I grandi impianti fotovoltaici devono soddisfare i requisiti seguenti:
 
 <sup>6</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente entro il 31 dicembre 2025 nonché alle eventuali procedure di ricorso.
 
-[^71a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-1]: Introdotto dalla cifra I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 [^71a-2]: Correzione della CdR dell’AF del 14 mar. 2023, pubblicata il 15 mar. 2023 ([RU 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
 [^71a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^71a-4]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
@@ -1336,7 +1612,7 @@ All’ampliamento della centrale idroelettrica ad accumulazione di cui al capove
 
 <sup>3</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente entro il 31 dicembre 2025 nonché alle eventuali procedure di ricorso.
 
-[^71b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71b-1]: Introdotto dalla cifra I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 71c
 
@@ -1362,7 +1638,7 @@ Le disposizioni del presente articolo si applicano anche nel caso in cui vi sia 
 
 <sup>4</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente prima del raggiungimento dell’obiettivo di cui al capoverso 1, nonché alle eventuali procedure di ricorso, anche dopo il raggiungimento di tale obiettivo.
 
-[^71c-1]: Introdotto dal n. I 1 della LF del 16 giu. 2023 concernente l’accelerazione della procedura di autorizzazione degli impianti eolici, in vigore dal 1° feb. 2024 ([RU 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
+[^71c-1]: Introdotto dalla cifra I n. 1 della LF del 16 giu. 2023 concernente l’accelerazione della procedura di autorizzazione degli impianti eolici, in vigore dal 1° feb. 2024 ([RU 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
 [^71c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 72
@@ -1413,7 +1689,7 @@ Per quanto concerne i contratti vigenti tra gestori di rete e produttori indipen
 
 <sup>5</sup> Per quanto concerne i contratti secondo il capoverso 4 per il ritiro di elettricità proveniente da impianti idroelettrici, la ElCom può, nel singolo caso, ridurre adeguatamente la rimunerazione se tra il prezzo di ripresa e i costi di produzione vi è una sproporzione evidente.
 
-[^73-1]: Abrogati dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^73-1]: Abrogati dalla cifra I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^73-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^73-3]: [RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
 
@@ -1447,7 +1723,7 @@ Per i consumatori finali che hanno concluso una convenzione sugli obiettivi seco
 
 <sup>3</sup> Chi, prima dell’entrata in vigore della modifica del 1° ottobre 2021, ha presentato una domanda per l’ottenimento di un contributo per l’esplorazione geotermica o di una garanzia per la geotermia secondo l’articolo 33 del diritto anteriore nel tenore del 30 settembre 2016 o ha già concluso un contratto corrispondente, può richiedere all’UFE entro sei mesi dall’entrata in vigore della presente modifica un contributo d’investimento di cui all’articolo 27*b* capoverso 1 lettera b in luogo del contributo per l’esplorazione geotermica o della garanzia per la geotermia.
 
-[^75a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^75a-1]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^75a-2]: [RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762)
 
 #### Art. 75b
@@ -1456,7 +1732,15 @@ Per i consumatori finali che hanno concluso una convenzione sugli obiettivi seco
 
 I Cantoni emanano le disposizioni relative alle eccezioni di cui all’articolo 45*a* capoverso 2 entro il 1° gennaio 2023. Le domande presentate prima di tale data non sottostanno all’obbligo di cui all’articolo 45*a* capoverso 1.
 
-[^75b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 al 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), qui art. 75*a*; [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^75b-1]: Introdotto dalla cifra I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 al 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), qui art. 75*a*; [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 75c
+
+**Disposizione transitoria relativa all’articolo 46*b**[^75c-1]*
+
+Il Consiglio federale disciplina la computabilità delle misure cantonali o comunali adottate prima dell’entrata in vigore della modifica del 29 settembre 2023 della presente legge.
+
+[^75c-1]: Introdotto dalla cifra I n. 1 della LF del 19 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 76
 
@@ -1492,5 +1776,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)n. II 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)n. I 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)n. I;, [2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132)all. n. 26]
+[^annexu1-lvlu1-1]: [[RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)cifra II n. 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)cifra I n. 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)cifra I, [2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132)all. n. 26]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762).

@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2024-02-01
+version: 2025-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20250101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240201/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Februar 2024)
+vom 30. September 2016 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -30,7 +30,11 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)
 
-## 1. Kapitel: Zweck, Richtwerte und Grundsätze
+## 1. Kapitel: Zweck, Ziele und Grundsätze
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 1
 
@@ -48,21 +52,36 @@ Es bezweckt:
 
 #### Art. 2
 
-**Richtwerte für den Ausbau der Elektrizität aus erneuerbaren Energien**
+**Ziele für den Ausbau der Produktion von Elektrizität aus erneuerbaren Energien**[^2-1]
 
-<sup>1</sup> Bei der Produktion von Elektrizität aus erneuerbaren Energien, ausgenommen aus Wasserkraft, ist ein Ausbau anzustreben, mit dem die durchschnittliche inländische Produktion im Jahr 2020 bei mindestens 4400 GWh und im Jahr 2035 bei mindestens 11 400 GWh liegt.
+<sup>1</sup> Die Produktion von Elektrizität aus erneuerbaren Energien, ausgenommen aus Wasserkraft, hat im Jahr 2035 mindestens 35 000 GWh und im Jahr 2050 mindestens 45 000 GWh zu betragen.
 
-<sup>2</sup> Bei der Produktion von Elektrizität aus Wasserkraft ist ein Ausbau anzustreben, mit dem die durchschnittliche inländische Produktion im Jahr 2035 bei mindestens 37 400 GWh liegt. Bei Pumpspeicherkraftwerken ist nur die Produktion aufgrund von natürlichen Zuflüssen in diesen Richtwerten enthalten.
+<sup>2</sup> Die Nettoproduktion von Elektrizität aus Wasserkraft hat im Jahr 2035 mindestens 37 900 GWh und im Jahr 2050 mindestens 39 200 GWh zu betragen. Bei Pumpspeicherkraftwerken wird nur die Produktion aufgrund von natürlichen Zuflüssen angerechnet.
 
-<sup>3</sup> Der Bundesrat kann gesamthaft oder für einzelne Technologien weitere Zwischenrichtwerte festlegen.
+<sup>3</sup> Der Import von Elektrizität im Winterhalbjahr (1. Oktober−31. März) soll netto den Richtwert von 5 TWh nicht überschreiten.
+
+<sup>4</sup> Der Bundesrat legt gesamthaft und für einzelne Technologien alle fünf Jahre Zwischenziele fest, erstmals ein Jahr nach Inkrafttreten der Änderung vom 29. September 2023. Er überwacht die Zielerreichung und ergreift rechtzeitig entsprechende Massnahmen.
+
+[^2-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 2a
+
+**Befristete Erhöhung der Stromproduktion durch eine Senkung der Restwassermengen**[^2a-1]
+
+Der Bundesrat kann bei einer drohenden Mangellage die Betreiber von Wasserkraftwerken, bei denen die Restwassermenge gestützt auf die Artikel 31 Absatz 2 und 33 des Gewässerschutzgesetzes vom 24. Januar 1991[^2a-2] (GSchG) erhöht wurde, verpflichten, unter Einhaltung der minimalen Restwassermengen nach Artikel 31 Absatz 1 GSchG ihre Stromproduktion befristet zu erhöhen, sofern dies technisch machbar ist.
+
+[^2a-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^2a-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 #### Art. 3
 
-**Verbrauchsrichtwerte**
+**Verbrauchsziele**[^3-1]
 
-<sup>1</sup> Beim durchschnittlichen Energieverbrauch pro Person und Jahr ist gegenüber dem Stand im Jahr 2000 eine Senkung um 16 Prozent bis zum Jahr 2020 und eine Senkung um 43 Prozent bis zum Jahr 2035 anzustreben.
+<sup>1</sup> Der durchschnittliche Energieverbrauch pro Person und Jahr ist gegenüber dem Stand im Jahr 2000 bis zum Jahr 2035 um 43 Prozent und bis zum Jahr 2050 um 53 Prozent zu senken.
 
-<sup>2</sup> Beim durchschnittlichen Elektrizitätsverbrauch pro Person und Jahr ist gegenüber dem Stand im Jahr 2000 eine Senkung um 3 Prozent bis zum Jahr 2020 und eine Senkung um 13 Prozent bis zum Jahr 2035 anzustreben.
+<sup>2</sup> Der durchschnittliche Elektrizitätsverbrauch pro Person und Jahr ist gegenüber dem Stand im Jahr 2000 bis zum Jahr 2035 um 13 Prozent und bis zum Jahr 2050 um 5 Prozent zu senken.
+
+[^3-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 4
 
@@ -147,11 +166,18 @@ Wer Endverbraucherinnen und Endverbraucher beliefert, muss:
 
 **Richtpläne der Kantone und Nutzungspläne**
 
-<sup>1</sup> Die Kantone sorgen dafür, dass insbesondere die für die Nutzung der Wasser- und Windkraft geeigneten Gebiete und Gewässerstrecken im Richtplan festgelegt werden (Art. 8*b* Raumplanungsgesetz vom 22. Juni 1979[^10-1]). Sie schliessen bereits genutzte Standorte mit ein und können auch Gebiete und Gewässerstrecken bezeichnen, die grundsätzlich freizuhalten sind.
+<sup>1</sup> Die Kantone sorgen dafür, dass insbesondere die für die Nutzung der Wasser- und Windkraft geeigneten Gebiete und Gewässerstrecken sowie die für Solaranlagen von nationalem Interesse nach Artikel 12 Absatz 2 geeigneten Gebiete im Richtplan festgelegt werden (Art. 8*b* Raumplanungsgesetz vom 22. Juni 1979[^10-1]).[^10-2]
+
+<sup>1bis</sup> Sie schliessen bereits genutzte Standorte mit ein und können auch Gebiete und Gewässerstrecken bezeichnen, die grundsätzlich freizuhalten sind.[^10-3]
+
+<sup>1ter</sup> Bei der Festlegung der Gebiete für Solar- und Windkraftanlagen müssen die Kantone die Interessen des Landschaft- und Biotopschutzes und der Walderhaltung sowie die Interessen der Landwirtschaft, insbesondere des Kulturlandschutzes und des Schutzes der Fruchtfolgeflächen, berücksichtigen.[^10-4]
 
 <sup>2</sup> Soweit nötig, sorgen sie dafür, dass Nutzungspläne erstellt oder bestehende Nutzungspläne angepasst werden.
 
 [^10-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 11
 
@@ -167,16 +193,33 @@ Wer Endverbraucherinnen und Endverbraucher beliefert, muss:
 
 <sup>1</sup> Die Nutzung erneuerbarer Energien und ihr Ausbau sind von nationalem Interesse.
 
-<sup>2</sup> Einzelne Anlagen zur Nutzung erneuerbarer Energien, namentlich auch Speicherkraftwerke, sowie Pumpspeicherkraftwerke sind ab einer bestimmten Grösse und Bedeutung von einem nationalen Interesse, das insbesondere demjenigen nach Artikel 6 Absatz 2 des Bundesgesetzes vom 1. Juli 1966[^12-1] über den Natur- und Heimatschutz (NHG) entspricht. In Biotopen von nationaler Bedeutung nach Artikel 18*a* NHG und in Wasser- und Zugvogelreservaten nach Artikel 11 des Jagdgesetzes vom 20. Juni 1986[^12-2] sind neue Anlagen zur Nutzung erneuerbarer Energien ausgeschlossen.
+<sup>2</sup> Einzelne Anlagen zur Nutzung erneuerbarer Energien, namentlich Speicher- und Laufwasserkraftwerke, Pumpspeicherkraftwerke, Solaranlagen und Windkraftanlagen sowie Elektrolyseure und Methanisierungsanlagen, sind ab einer bestimmten Grösse und Bedeutung von nationalem Interesse, das insbesondere demjenigen nach Artikel 6 Absatz 2 des Bundesgesetzes vom 1. Juli 1966[^12-1] über den Natur- und Heimatschutz (NHG) entspricht.[^12-2]
 
-<sup>3</sup> Hat eine Behörde über die Bewilligung des Baus, der Erweiterung oder Erneuerung oder über die Konzessionierung einer Anlage oder eines Pumpspeicherkraftwerks nach Absatz 2 zu entscheiden, so ist das nationale Interesse an der Realisierung dieser Vorhaben bei der Interessenabwägung als gleichrangig zu betrachten mit anderen nationalen Interessen. Betrifft das Vorhaben ein Objekt, das in einem Inventar nach Artikel 5 NHG aufgeführt ist, so darf ein Abweichen von der ungeschmälerten Erhaltung in Erwägung gezogen werden.
+<sup>2bis</sup>
 
-<sup>4</sup> Der Bundesrat legt für die Wasser- und für die Windkraftanlagen die erforderliche Grösse und Bedeutung fest. Er tut dies sowohl für neue Anlagen als auch für Erweiterungen und Erneuerungen bestehender Anlagen. Er kann nötigenfalls auch für die anderen Technologien und für Pumpspeicherkraftwerke die erforderliche Grösse und Bedeutung festlegen.
+In Biotopen von nationaler Bedeutung nach Artikel 18*a* NHG und in Wasser- und Zugvogelreservaten nach Artikel 11 des Jagdgesetzes vom 20. Juni 1986[^12-3] sind neue Anlagen zur Nutzung erneuerbarer Energien ausgeschlossen; dieser Ausschluss gilt nicht:
 
-<sup>5</sup> Er berücksichtigt bei der Festlegung nach Absatz 4 Kriterien wie Leistung oder Produktion sowie die Fähigkeit, zeitlich flexibel und marktorientiert zu produzieren.
+- a. für Auengebiete, bei denen es sich um Gletschervorfelder oder alpine Schwemmebenen handelt und die der Bundesrat nach dem 1. Januar 2023 gestützt auf Artikel 18*a* Absatz 1 NHG in das Bundesinventar der Auengebiete von nationaler Bedeutung aufgenommen hat;
+- b. bei Schwall-Ausleitkraftwerken zur ökologischen Sanierung nach Artikel 39*a* GschG[^12-4], wenn wesentliche Beeinträchtigungen der Schutzziele des betroffenen Objekts beseitigt werden können;
+- c. in Fällen, in denen lediglich die Restwasserstrecke im Schutzobjekt zu liegen kommt.[^12-5]
+
+<sup>3</sup> Hat eine Behörde über die Bewilligung des Baus, der Erweiterung oder Erneuerung oder über die Konzessionierung einer Anlage oder eines Pumpspeicherkraftwerks nach Absatz 2 zu entscheiden, so ist das nationale Interesse an der Realisierung dieser Vorhaben bei der Interessenabwägung als gleichrangig zu betrachten mit anderen nationalen Interessen. Das nationale Interesse geht entgegenstehenden Interessen von kantonaler, regionaler oder lokaler Bedeutung vor.[^12-6]
+
+<sup>3bis</sup> Betrifft das Vorhaben ein Objekt, das in einem Inventar nach Artikel 5 NHG aufgeführt ist, so darf ein Abweichen von der ungeschmälerten Erhaltung in Erwägung gezogen werden. Dabei kann auf Schutz-, Wiederherstellungs-, Ersatz- oder Ausgleichsmassnahmen verzichtet werden.[^12-7]
+
+<sup>4</sup> Der Bundesrat legt für die Wasser-, die Solar- und die Windkraftanlagen die erforderliche Grösse und Bedeutung fest.[^12-8] Er tut dies sowohl für neue Anlagen als auch für Erweiterungen und Erneuerungen bestehender Anlagen. Er kann nötigenfalls auch für die anderen Technologien und für Pumpspeicherkraftwerke die erforderliche Grösse und Bedeutung festlegen.
+
+<sup>5</sup> Er berücksichtigt bei der Festlegung nach Absatz 4 Kriterien wie Leistung, Produktion oder Produktion im Winter sowie die Fähigkeit, zeitlich flexibel und marktorientiert zu produzieren.[^12-9]
 
 [^12-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^12-2]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^12-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^12-4]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^12-5]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-6]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-7]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-8]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^12-9]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 13
 
@@ -184,12 +227,19 @@ Wer Endverbraucherinnen und Endverbraucher beliefert, muss:
 
 <sup>1</sup>
 
-Der Bundesrat kann einer Anlage zur Nutzung erneuerbarer Energien oder einem Pumpspeicherkraftwerk trotz Nichterreichens der erforderlichen Grösse und Bedeutung ausnahmsweise ein nationales Interesse im Sinne von Artikel 12 zuerkennen, wenn:
+Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerbaren Energien nicht erreicht sind, erkennt der Bundesrat einer Anlage zur Nutzung erneuerbarer Energien oder einem Pumpspeicherkraftwerk trotz Nichterreichens der erforderlichen Grösse und Bedeutung ein nationales Interesse im Sinne von Artikel 12 zu, wenn:[^13-1]
 
-- a. sie oder es einen zentralen Beitrag zur Erreichung der Ausbaurichtwerte leistet; und
+- a.[^13-2] sie oder es einen zentralen Beitrag zur Erreichung der Ausbauziele leistet; und
 - b. der Standortkanton einen entsprechenden Antrag stellt.
 
-<sup>2</sup> Bei der Beurteilung des Antrags berücksichtigt der Bundesrat, ob, wie viele und welche Alternativstandorte es gibt.
+<sup>2</sup> …[^13-3]
+
+<sup>3</sup> Erkennt der Bundesrat einer Anlage ein nationales Interesse im Sinne von Artikel 12 zu, so kann der Bundesrat zudem beschliessen, dass die notwendigen Bewilligungen in einem konzentrierten und abgekürzten Verfahren erteilt werden.[^13-4]
+
+[^13-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-3]: Aufgehoben durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 14
 
@@ -236,31 +286,35 @@ Können sich Netzbetreiber und Produzent über die Vergütung nicht einigen, so 
 
 **Eigenverbrauch**
 
-<sup>1</sup> Die Betreiber von Anlagen dürfen die selbst produzierte Energie am Ort der Produktion ganz oder teilweise selber verbrauchen. Sie dürfen die selbst produzierte Energie auch zum Verbrauch am Ort der Produktion ganz oder teilweise veräussern. Beides gilt als Eigenverbrauch. Der Bundesrat erlässt Bestimmungen zur Definition und Eingrenzung des Orts der Produktion.
+<sup>1</sup> Die Betreiber von Anlagen dürfen die selbst produzierte Energie am Ort der Produktion ganz oder teilweise selber verbrauchen. Sie dürfen die selbst produzierte Energie auch zum Verbrauch am Ort der Produktion ganz oder teilweise veräussern. Beides gilt als Eigenverbrauch. Der Bundesrat erlässt Bestimmungen zur Definition und Eingrenzung des Orts der Produktion; er kann die Nutzung von Anschlussleitungen erlauben.[^16-1]
 
-<sup>2</sup> Absatz 1 gilt auch für Betreiber von Anlagen, die am Einspeisevergütungssystem (Art. 19) teilnehmen oder einen Investitionsbeitrag nach dem 5. Kapitel oder einen Betriebskostenbeitrag (Art. 33*a*) in Anspruch nehmen.[^16-1]
+<sup>2</sup> Absatz 1 gilt auch für Betreiber von Anlagen, die am Einspeisevergütungssystem (Art. 19) teilnehmen oder einen Investitionsbeitrag nach dem 5. Kapitel oder einen Betriebskostenbeitrag (Art. 33*a*) in Anspruch nehmen.[^16-2]
 
-[^16-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^16-1]: Fassung des vierten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 17
 
 **Zusammenschluss zum Eigenverbrauch**
 
-<sup>1</sup> Sind am Ort der Produktion mehrere Grundeigentümerinnen und Grundeigentümer Endverbraucherinnen und Endverbraucher, so können sie sich zum gemeinsamen Eigenverbrauch zusammenschliessen, sofern die gesamte Produktionsleistung im Verhältnis zur Anschlussleistung am Messpunkt (Art. 18 Abs. 1) erheblich ist. Dazu treffen sie mit dem Anlagebetreiber und unter sich eine Vereinbarung.
+<sup>1</sup> Sind am Ort der Produktion mehrere Grundeigentümerinnen und Grundeigentümer Endverbraucherinnen und Endverbraucher, so können sie sich zum gemeinsamen Eigenverbrauch zusammenschliessen, sofern die gesamte Produktionsleistung im Verhältnis zur Anschlussleistung des Zusammenschlusses erheblich ist.[^17-1] Dazu treffen sie mit dem Anlagebetreiber und unter sich eine Vereinbarung.
 
-<sup>2</sup> Grundeigentümerinnen und Grundeigentümer können einen gemeinsamen Eigenverbrauch am Ort der Produktion auch für Endverbraucherinnen und Endverbraucher vorsehen, die zu ihnen in einem Miet- oder Pachtverhältnis stehen. Sie sind für die Versorgung der am Zusammenschluss Beteiligten verantwortlich. Artikel 6 oder 7 des Stromversorgungsgesetzes vom 23. März 2007[^17-1] (StromVG) gilt sinngemäss. Der Bundesrat kann in Bezug auf die Rechte und Pflichten nach den Artikeln 6 und 7 StromVG Ausnahmen vorsehen.
+<sup>2</sup> Grundeigentümerinnen und Grundeigentümer können einen gemeinsamen Eigenverbrauch am Ort der Produktion auch für Endverbraucherinnen und Endverbraucher vorsehen, die zu ihnen in einem Miet- oder Pachtverhältnis stehen. Sie sind für die Versorgung der am Zusammenschluss Beteiligten verantwortlich. Artikel 6 oder 7 StromVG[^17-2] gilt sinngemäss.[^17-3] Der Bundesrat kann in Bezug auf die Rechte und Pflichten nach den Artikeln 6 und 7 StromVG Ausnahmen vorsehen.
 
 <sup>3</sup> Mieterinnen oder Mieter oder Pächterinnen oder Pächter haben bei der Einführung des gemeinsamen Eigenverbrauchs durch die Grundeigentümerin oder den Grundeigentümer die Möglichkeit, sich für die Grundversorgung durch den Netzbetreiber nach Artikel 6 oder 7 StromVG zu entscheiden. Sie können diesen Anspruch zu einem späteren Zeitpunkt nur noch geltend machen, wenn die Grundeigentümerin oder der Grundeigentümer den Pflichten nach Absatz 2 nicht nachkommt. Sie behalten grundsätzlich ihren Anspruch auf Netzzugang nach Artikel 13 StromVG.
 
-<sup>4</sup> Die Grundeigentümerinnen und Grundeigentümer haben die mit der Einführung des gemeinsamen Eigenverbrauchs verbundenen Kosten selber zu tragen, soweit sie nicht durch das Netznutzungsentgelt gedeckt sind (Art. 14 StromVG). Sie dürfen diese Kosten nicht auf Mieterinnen und Mieter oder Pächterinnen und Pächter überwälzen.
+<sup>4</sup> Die Grundeigentümerinnen und Grundeigentümer haben die mit der Einführung des gemeinsamen Eigenverbrauchs verbundenen Kosten selber zu tragen, soweit sie nicht durch das Netznutzungsentgelt gedeckt sind (Art. 14 StromVG). Sie dürfen diese Kosten nicht unmittelbar auf Mieterinnen und Mieter oder Pächterinnen und Pächter überwälzen.[^17-4]
 
-[^17-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^17-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-3]: Fassung des dritten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^17-4]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 18
 
-**Verhältnis zum Netzbetreiber und weitere Einzelheiten**
+**Aussenverhältnis und weitere Einzelheiten[^18-1]**
 
-<sup>1</sup> Nach dem Zusammenschluss verfügen die Endverbraucherinnen und die Endverbraucher gegenüber dem Netzbetreiber gemeinsam über einen einzigen Messpunkt wie eine Endverbraucherin oder ein Endverbraucher. Sie sind gemeinsam, auch in Bezug auf die Messeinrichtung, die Messung oder den Anspruch auf Netzzugang nach den Artikeln 6 und 13 StromVG[^18-1], wie eine einzige Endverbraucherin oder ein einziger Endverbraucher zu behandeln.
+<sup>1</sup> Nach dem Zusammenschluss sind die Endverbraucherinnen und die Endverbraucher hinsichtlich des Elektrizitätsbezugs aus dem Netz gemeinsam wie eine einzige Endverbraucherin oder ein einziger Endverbraucher zu behandeln.[^18-2]
 
 <sup>2</sup>
 
@@ -270,7 +324,20 @@ Der Bundesrat kann Bestimmungen erlassen, insbesondere:
 - b. zu den Bedingungen, unter denen Mieterinnen und Mieter sowie Pächterinnen und Pächter Ansprüche, die sie aufgrund des StromVG haben, geltend machen können;
 - c. zu den Bedingungen und dem Messverfahren beim Einsatz von Elektrizitätsspeichern im Rahmen des Eigenverbrauchs.
 
-[^18-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^18-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 18a
+
+**Energieeinspeisung durch den Bund**[^18a-1]
+
+<sup>1</sup> Der Bund darf Elektrizität und andere netzgebundene Energien, die er zur Deckung des Energiebedarfs seiner Verwaltungseinheiten produziert, zu Marktpreisen verkaufen, wenn er diese Energien nicht selbst verwenden kann.
+
+<sup>2</sup> Das UVEK schränkt solche Verkäufe ein, falls sie die Marktpreise wesentlich beeinflussen würden.
+
+<sup>3</sup> Der Bundesrat regelt die Verwendung der für die Energieproduktion ausgestellten Herkunftsnachweise und der Erträge, die aus dem Verkauf der Energie erzielt werden.
+
+[^18a-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 ## 4. Kapitel: Vergütung der Einspeisung von Elektrizität aus erneuerbaren Energien (Einspeisevergütungssystem)
 
@@ -384,9 +451,12 @@ Der Bundesrat erlässt Ausführungsbestimmungen, insbesondere über:
 
 **Grundsätze**[^24-1]
 
-Für Anlagen zur Erzeugung von Elektrizität aus erneuerbaren Energien kann, soweit die Mittel reichen (Art. 35 und 36), gestützt auf die Bestimmungen dieses Kapitels ein Investitionsbeitrag in Anspruch genommen werden.
+<sup>1</sup> Für Anlagen zur Erzeugung von Elektrizität aus erneuerbaren Energien kann, soweit die Mittel reichen (Art. 35 und 36), gestützt auf die Bestimmungen dieses Kapitels ein Investitionsbeitrag in Anspruch genommen werden.
+
+<sup>2</sup> Beiträge nach den Artikeln 26 Absatz 3<sup>bis</sup>, 27*a* Absatz 3 und 27*b* Absatz 3 können in Anspruch genommen werden für Projektierungsleistungen, die ab dem 3. April 2020 vorgenommen werden.[^24-2]
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^24-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 25
 
@@ -441,6 +511,8 @@ Der Investitionsbeitrag beträgt:
 - a. höchstens 60 Prozent der anrechenbaren Investitionskosten: für Anlagen nach Absatz 1 Buchstaben a und b;
 - b. höchstens 40 Prozent der anrechenbaren Investitionskosten: für Anlagen nach Absatz 1 Buchstabe c.
 
+<sup>3bis</sup> Für die Projektierung neuer Wasserkraftanlagen oder erheblicher Erweiterungen von Wasserkraftanlagen kann ein Beitrag in Anspruch genommen werden, wenn die Anforderungen nach Absatz 1 Buchstaben a und b erfüllt sind. Er beträgt höchstens 40 Prozent der anrechenbaren Projektierungskosten und wird von einem allfälligen Investitionsbeitrag nach Absatz 1 in Abzug gebracht.[^26-2]
+
 <sup>4</sup> Die Leistungsuntergrenzen nach Absatz 1 gelten nicht für Nebennutzungsanlagen.
 
 <sup>5</sup>
@@ -451,6 +523,7 @@ Der Bundesrat kann weitere Wasserkraftanlagen von den Leistungsuntergrenzen nach
 - b. mit keinen neuen Eingriffen in natürliche oder ökologisch wertvolle Gewässer verbunden sind.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^26-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 27
 
@@ -472,7 +545,10 @@ Der Bundesrat kann weitere Wasserkraftanlagen von den Leistungsuntergrenzen nach
 
 <sup>2</sup> Er beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
 
+<sup>3</sup> Für die Projektierung neuer Windenergieanlagen kann ein Beitrag in Anspruch genommen werden. Er beträgt höchstens 40 Prozent der anrechenbaren Projektierungskosten und wird von einem allfälligen Investitionsbeitrag nach Absatz 1 in Abzug gebracht.[^27a-2]
+
 [^27a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^27a-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 27b
 
@@ -488,7 +564,10 @@ Ein Investitionsbeitrag kann in Anspruch genommen werden für:
 
 <sup>2</sup> Jeder Beitrag beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
 
+<sup>3</sup> Für die Projektierung neuer Geothermieanlagen kann ein Beitrag in Anspruch genommen werden. Er beträgt höchstens 40 Prozent der anrechenbaren Projektierungskosten und wird von einem allfälligen Investitionsbeitrag nach Absatz 1 Buchstabe c in Abzug gebracht.[^27b-2]
+
 [^27b-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^27b-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 28
 
@@ -544,6 +623,97 @@ Der Bundesrat kann zudem insbesondere vorsehen:[^29-4]
 [^29-7]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^29-8]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
+## 5*a*. Kapitel: Gleitende Marktprämie für die Einspeisung von Elektrizität aus erneuerbaren Energien
+
+[^chap5a-1]
+
+[^chap5a-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 29a
+
+**Teilnahme am System der gleitenden Marktprämie**
+
+<sup>1</sup>
+
+Für die Erstellung neuer Anlagen und die erhebliche Erweiterung oder Erneuerung von Anlagen zur Erzeugung von Elektrizität aus erneuerbaren Energien kann, soweit die Mittel reichen (Art. 35 und 36), gestützt auf die Bestimmungen dieses Kapitels eine gleitende Marktprämie in Anspruch genommen werden; diese Bestimmung gilt für die folgenden Anlagen:
+
+- a. neue Wasserkraftanlagen mit einer Leistung ab 1 MW;
+- b. erhebliche Erweiterungen und Erneuerungen von Wasserkraftanlagen, wenn diese nach der Erweiterung oder Erneuerung eine Leistung von mindestens 300 kW aufweisen;
+- c. Photovoltaikanlagen ohne Eigenverbrauch mit einer Leistung ab 150 kW;
+- d. Windenergieanlagen;
+- e. Biomasseanlagen.
+
+<sup>2</sup> Als neue Anlagen gelten Anlagen, die nach dem Inkrafttreten der Änderung vom 29. September 2023 in Betrieb genommen werden.
+
+<sup>3</sup>
+
+Kein Anspruch auf eine gleitende Marktprämie besteht für:
+
+- a. Verbrennungsanlagen für Siedlungsabfälle (Kehrichtverbrennungsanlagen);
+- b. Schlammverbrennungs-, Klärgas- und Deponiegasanlagen;
+- c. Anlagen, die teilweise fossile Brenn- oder Treibstoffe nutzen;
+- d. Wasserkraftanlagen, die überwiegend dem Umwälzbetrieb dienen; der Bundesrat kann Ausnahmen vorsehen, wenn ein ausgewiesener Bedarf an zusätzlichen Speicherkapazitäten besteht, um erneuerbare Energien integrieren zu können.
+
+<sup>4</sup> Für Ausnahmen von der Untergrenze bei Wasserkraftanlagen (Abs. 1 Bst. a und b) gilt Artikel 26 Absätze 4 und 5.
+
+<sup>5</sup>
+
+Der Bundesrat regelt die weiteren Einzelheiten, insbesondere:
+
+- a. das Antragsverfahren;
+- b. die Vergütungsdauer;
+- c. energetische, ökologische und andere Mindestanforderungen für Biomasseanlagen;
+- d. das vorzeitige Erlöschen des Anspruchs auf die gleitende Marktprämie;
+- e. den Austritt aus dem System der gleitenden Marktprämie;
+- f. die rechnerische Weiterverteilung der eingespeisten Elektrizität durch die als Mess- und Abrechnungseinheiten tätigen Bilanzgruppen;
+- g. weitere Aufgaben der Bilanzgruppen und der Netzbetreiber, insbesondere eine Pflicht zur Abnahme und Vergütung im Rahmen von Artikel 21 sowie eine allfällige damit zusammenhängende Vorleistungspflicht.
+
+#### Art. 29b
+
+**Wahl zwischen der gleitenden Marktprämie und einem Investitionsbeitrag**
+
+<sup>1</sup> Betreiber von Anlagen, die sowohl Anspruch auf die Teilnahme am System der gleitenden Marktprämie als auch auf einen Investitionsbeitrag haben, können wählen, welchen Anspruch sie geltend machen wollen.
+
+<sup>2</sup> Entscheiden sie sich für die Teilnahme am System der gleitenden Marktprämie, so stehen die bereits in Anspruch genommenen Investitionsbeiträge (Art. 24) dem Netzzuschlagsfonds (Art. 37) zu.
+
+#### Art. 29c
+
+**Teilweise Teilnahme und Referenz-Marktpreis**
+
+<sup>1</sup> Die Bestimmungen zur teilweisen Teilnahme (Art. 20) am Einspeisevergütungssystem und die Bestimmungen zum Referenz-Marktpreis (Art. 23) im Einspeisevergütungssystem gelten sinngemäss auch für das System der gleitenden Marktprämie.
+
+<sup>2</sup> Bei der Festlegung des Referenz-Marktpreises kann der Bundesrat mögliche Zusatzerlöse mitberücksichtigen.
+
+#### Art. 29d
+
+**Direktvermarktung**
+
+<sup>1</sup> Für den Verkauf der Elektrizität im System der gleitenden Marktprämie gilt Artikel 21 Absätze 1–4 sinngemäss.
+
+<sup>2</sup> Übersteigt der Referenz-Marktpreis den Vergütungssatz, so steht der übersteigende Teil dem Netzzuschlagsfonds (Art. 37) zu.
+
+<sup>3</sup> In den Monaten Dezember bis März kann der Betreiber 10 bis 40 Prozent des übersteigenden Teils einbehalten. Der Bundesrat setzt den dem Betreiber zustehenden Teil fest.
+
+#### Art. 29e
+
+**Vergütungssatz**
+
+<sup>1</sup> Der Vergütungssatz orientiert sich an den Gestehungskosten, die bei der Inbetriebnahme einer Anlage massgeblich und angemessen sind.
+
+<sup>2</sup> Für einzelne Technologien oder Anlagetypen kann der Bundesrat vorsehen, dass sich der Vergütungssatz an den bei der Inbetriebnahme einer Anlage massgeblichen Gestehungskosten von Referenzanlagen orientiert. Die Referenzanlagen entsprechen der jeweils effizientesten Technologie; diese muss langfristig wirtschaftlich sein.
+
+<sup>3</sup> Für Photovoltaikanlagen ab einer bestimmen Leistung kann der Vergütungssatz mittels Auktionen festgesetzt werden. Für verschiedene Kategorien können je separate Auktionen durchgeführt werden.
+
+<sup>4</sup> Der Vergütungssatz bleibt während der ganzen Vergütungsdauer gleich.
+
+<sup>5</sup>
+
+Der Bundesrat erlässt Ausführungsbestimmungen, insbesondere über:
+
+- a. die Festsetzung der Vergütungssätze je Erzeugungstechnologie, Kategorie und Leistungsklasse;
+- b. die Vergütungssätze für Technologien oder Anlagetypen, die sich an den Gestehungskosten von Referenzanlagen orientieren;
+- c. Ausnahmen vom Grundsatz nach Absatz 4, insbesondere über die Anpassung der Vergütungssätze für bereits am System der gleitenden Marktprämie teilnehmende Anlagen, wenn bei der jeweiligen Anlage oder Referenzanlage übermässige Gewinne oder übermässige Verluste erzielt werden.
+
 ## 6. Kapitel: Besondere Unterstützungsmassnahmen
 
 #### Art. 30
@@ -592,11 +762,17 @@ Der Bundesrat regelt die Einzelheiten, insbesondere:
 
 **Wettbewerbliche Ausschreibungen für Effizienzmassnahmen**
 
+<sup>1</sup>
+
 Der Bundesrat sieht wettbewerbliche Ausschreibungen für Effizienzmassnahmen vor, insbesondere für Massnahmen:
 
 - a. zur Förderung des sparsamen und effizienten Umgangs mit Elektrizität in Gebäuden, Anlagen, Unternehmen und Fahrzeugen;
 - b. zur Reduktion von Umwandlungsverlusten bei elektrischen Anlagen zur Elektrizitätsproduktion und -verteilung;
 - c. zur Nutzung nicht anders nutzbarer Abwärme für die Elektrizitätsproduktion.
+
+<sup>2</sup> Er kann in Ergänzung zu Absatz 1 schweizweite Programme für die direkte Ausschreibung von Massnahmen nach Absatz 1 Buchstabe a vorsehen.[^32-1]
+
+[^32-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 33
 
@@ -640,12 +816,13 @@ Kein Betriebskostenbeitrag kann in Anspruch genommen werden für:
 
 #### Art. 34
 
-**Entschädigung nach Gewässerschutz- und Fischereigesetzgebung**
+**Entschädigung nach Gewässerschutz- und Fischereigesetzgebung**[^34-1]
 
-Dem Inhaber einer Wasserkraftanlage (Wasserkraftwerk im Sinne der Gewässerschutzgesetzgebung) sind die vollständigen Kosten für die Massnahmen nach Artikel 83*a* des Gewässerschutzgesetzes vom 24. Januar 1991[^34-1] oder nach Artikel 10 des Bundesgesetzes vom 21. Juni 1991[^34-2] über die Fischerei zu erstatten.
+Dem Inhaber einer Wasserkraftanlage (Wasserkraftwerk im Sinne der Gewässerschutzgesetzgebung) sind die vollständigen Kosten für die Massnahmen nach Artikel 83*a* GschG[^34-2] oder nach Artikel 10 des Bundesgesetzes vom 21. Juni 1991[^34-3] über die Fischerei zu erstatten.
 
-[^34-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^34-2]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^34-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^34-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^34-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 ## 7. Kapitel: Netzzuschlag
 
@@ -666,11 +843,12 @@ Mit dem Netzzuschlag werden finanziert:
 - c. die nicht durch Marktpreise gedeckten Kosten für die Mehrkosten-Vergütungen nach Artikel 73 Absatz 4;
 - d.[^35-1] die Investitionsbeiträge nach dem 5. Kapitel;
 - d<sup>bis</sup>.[^35-2] die Einmalvergütung nach Artikel 71*a* Absatz 4;
+- d<sup>ter</sup>.[^35-3] die gleitende Marktprämie nach dem 5*a*. Kapitel;
 - e. die Marktprämie für Elektrizität aus Grosswasserkraftanlagen nach Artikel 30;
 - f. die Kosten der wettbewerblichen Ausschreibungen nach Artikel 32;
-- g.[^35-3] die Verluste aus Geothermie-Garantien nach Artikel 33;
+- g.[^35-4] die Verluste aus Geothermie-Garantien nach Artikel 33;
 - h. die Entschädigung nach Artikel 34;
-- h<sup>bis</sup>.[^35-4] die Betriebskostenbeiträge nach Artikel 33*a*;
+- h<sup>bis</sup>.[^35-5] die Betriebskostenbeiträge nach Artikel 33*a*;
 - i. die jeweiligen Vollzugskosten, insbesondere die notwendigen Kosten der Vollzugsstelle;
 - j. die Kosten des BFE, die diesem aus seinen Aufgaben gegenüber der Vollzugsstelle entstehen.
 
@@ -678,12 +856,13 @@ Mit dem Netzzuschlag werden finanziert:
 
 [^35-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^35-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^35-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^35-4]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^35-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-5]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 36
 
-**Begrenzung für einzelne Verwendungen und Warteliste**[^36-1]
+**Begrenzung für einzelne Verwendungen[^36-2]**[^36-1]
 
 <sup>1</sup>
 
@@ -702,29 +881,49 @@ Beim Einsatz der Mittel für die einzelnen Verwendungen sind die folgenden Höch
 
 <sup>2</sup> Das BFE legt jährlich die Mittel fest, die für Photovoltaikanlagen eingesetzt werden (Photovoltaik-Kontingent). Es kann auch für die übrigen Technologien Kontingente festlegen. Es strebt dabei einen kontinuierlichen Zubau an und trägt der Kostenentwicklung Rechnung.
 
-<sup>3</sup> Der Bundesrat regelt die Folgen der Begrenzungen nach diesem Artikel. Er kann für die Investitionsbeiträge nach dem 5. Kapitel Wartelisten vorsehen. Für deren Abbau kann er auch andere Kriterien als das Anmeldedatum vorsehen.
+<sup>3</sup> Der Bundesrat regelt die Folgen der Begrenzungen nach diesem Artikel.[^36-3]
 
 <sup>4</sup> Nicht beanspruchte Mittel aus Absatz 1 Buchstabe c werden im Folgejahr unter Berücksichtigung der Höchstanteile in Absatz 1 für andere Verwendungen nach Artikel 26 Absatz 1 Buchstaben b und c oder Artikel 34 eingesetzt.
 
 [^36-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^36-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^36-3]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 37
 
 **Netzzuschlagsfonds**
 
-<sup>1</sup> Der Bundesrat errichtet für den Netzzuschlag einen Spezialfonds nach Artikel 52 des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^37-1] (Netzzuschlagsfonds).
+<sup>1</sup> Für den Netzzuschlag wird ein Spezialfonds nach Artikel 52 des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^37-1] geführt (Netzzuschlagsfonds).[^37-2]
 
 <sup>2</sup> Der Netzzuschlagsfonds wird im UVEK verwaltet. Die zuständigen Bundesämter und die Vollzugsstelle sind so mit Mitteln zu versorgen, dass sie in ihrem Vollzugszuständigkeitsbereich (Art. 62) die nötigen Zahlungen leisten können.
 
 <sup>3</sup> Die Eidgenössische Finanzverwaltung legt die Mittel des Netzzuschlagsfonds an. Sie werden in der Jahresrechnung des Bundes unter dem Fremdkapital bilanziert.
 
-<sup>4</sup> Der Netzzuschlagsfonds darf sich nicht verschulden. Seine Mittel sind zu verzinsen.
+<sup>4</sup> Der Netzzuschlagsfonds darf sich nach Artikel 37*a* verschulden. Seine Mittel sind zu verzinsen.[^37-3]
 
 <sup>5</sup> Die Eidgenössische Finanzkontrolle prüft jährlich die Rechnung des Netzzuschlagsfonds.
 
 <sup>6</sup> Über die Einlagen und Entnahmen sowie den Stand des Fondsvermögens ist jährlich ein Bericht zu erstellen.
 
-[^37-1]: SR **611.0**
+[^37-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^37-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^37-3]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 37a
+
+**Tresoreriedarlehen**[^37a-1]
+
+<sup>1</sup> Die Eidgenössische Finanzverwaltung kann dem Netzzuschlagsfonds Tresoreriedarlehen gewähren, um Finanzierungsspitzen zu überbrücken.
+
+<sup>2</sup> Die Darlehen dürfen höchstens das Zweifache der über fünf Jahre gemittelten Jahreseinnahme aus dem Netzzuschlag betragen.
+
+<sup>3</sup> Die Darlehen sind innerhalb von sieben Jahren aus den Erträgen des Netzzuschlags zurückzuzahlen. Ab Erhalt eines Darlehens wird jährlich 1/7 des Anfangsbetrags von den jährlichen Erträgen des Netzzuschlags für die Rückzahlung eingesetzt.
+
+<sup>4</sup> Der Kredit ist zu einem marktüblichen Zins zu verzinsen.
+
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten.
+
+[^37a-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 38
 
@@ -737,22 +936,25 @@ Neue Verpflichtungen werden nicht mehr eingegangen spätestens ab dem 1. Januar:
 - a. des sechsten Jahres nach Inkrafttreten dieses Gesetzes: im Einspeisevergütungssystem;
 - b.
 
-  des Jahres 2031 für:
+  des Jahres 2036 für:[^38-1]
 
-  - 1\.[^38-1] Einmalvergütungen nach den Artikeln 25 und 25*a*,
-  - 2\.[^38-2] Investitionsbeiträge nach den Artikeln 26–27*b*,
+  - 1\.[^38-2] Einmalvergütungen nach den Artikeln 25 und 25*a*,
+  - 2\.[^38-3] Investitionsbeiträge nach den Artikeln 26–27*b*,
   - 3\. wettbewerbliche Ausschreibungen nach Artikel 32,
-  - 4\.[^38-3] Geothermie-Garantien nach Artikel 33.
+  - 4\.[^38-4] Geothermie-Garantien nach Artikel 33,
+  - 5\.[^38-5] gleitende Marktprämien nach Artikel 29*a*.
 
-<sup>2</sup> Die Marktprämie nach Artikel 30 wird letztmals für das Jahr 2030 ausgerichtet.[^38-4]
+<sup>2</sup> Die Marktprämie nach Artikel 30 wird letztmals für das Jahr 2030 ausgerichtet.[^38-6]
 
-<sup>3</sup> Die Betriebskostenbeiträge nach Artikel 33*a* werden bis zum 31. Dezember 2030 gewährt.[^38-5]
+<sup>3</sup> …[^38-7]
 
-[^38-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^38-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^38-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^38-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^38-5]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-5]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^38-6]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-7]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)). Aufgehoben durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 ### 2. Abschnitt: Rückerstattung
 
@@ -817,23 +1019,28 @@ Der Bundesrat regelt das Verfahren; insbesondere legt er die Frist fest, innert 
 
 <sup>1</sup>
 
-Zur Reduktion des Energieverbrauchs erlässt der Bundesrat für serienmässig hergestellte Anlagen, Fahrzeuge, Geräte und für deren serienmässig hergestellte Bestandteile Vorschriften über:
+Zur Reduktion des Energieverbrauchs erlässt der Bundesrat für serienmässig hergestellte Anlagen, Fahrzeuge, Geräte und für deren serienmässig hergestellte Bestandteile, die auf dem Schweizer Markt bereitgestellt werden, Vorschriften über:
 
-- a. einheitliche und vergleichbare Angaben des spezifischen Energieverbrauchs, der Energieeffizienz sowie der energieverbrauchsrelevanten Eigenschaften;
+- a. einheitliche und vergleichbare Angaben des spezifischen Energieverbrauchs, der Energieeffizienz, der Emissionen sowie der im Gebrauch und über den ganzen Lebenszyklus betrachteten energieverbrauchsrelevanten Eigenschaften;
 - b. das energietechnische Prüfverfahren;
-- c. die Anforderungen an das Inverkehrbringen, bei Elektrogeräten einschliesslich des Standby-Verbrauchs.
+- c. die Anforderungen an die Bereitstellung auf dem Markt;
+- d. Angaben zu finanz-, verbrauchs- und emissionsrelevanten Einsparungen oder Mehraufwendungen gegenüber anderen Anlagen, Fahrzeugen, Geräten und deren serienmässig hergestellten Bestandteilen.[^44-1]
 
-<sup>2</sup> Statt Vorschriften über die Anforderungen an das Inverkehrbringen zu erlassen, kann der Bundesrat marktwirtschaftliche Instrumente einführen.
+<sup>2</sup> Statt Vorschriften über die Anforderungen an das Bereitstellen auf dem Markt zu erlassen, kann der Bundesrat marktwirtschaftliche Instrumente einführen.[^44-2]
 
 <sup>3</sup> Sofern für bestimmte Produkte keine Vorschriften gemäss Absatz 1 bestehen, kann das BFE mit Herstellern und Importeuren entsprechende Vereinbarungen treffen.
 
-<sup>4</sup> Der Bundesrat und das BFE orientieren sich an der Wirtschaftlichkeit und an den besten verfügbaren Technologien und berücksichtigen internationale Normen und Empfehlungen anerkannter Fachorganisationen. Die Anforderungen an das Inverkehrbringen und die Ziele marktwirtschaftlicher Instrumente sind dem Stand der Technik und den internationalen Entwicklungen anzupassen.
+<sup>4</sup> Der Bundesrat und das BFE orientieren sich an der Wirtschaftlichkeit und an den besten verfügbaren Technologien und berücksichtigen internationale Normen und Empfehlungen anerkannter Fachorganisationen. Die Anforderungen an das Bereitstellen auf dem Markt und die Ziele marktwirtschaftlicher Instrumente sind dem Stand der Technik und den internationalen Entwicklungen anzupassen.[^44-3]
 
-<sup>5</sup> Der Bundesrat kann die Vorschriften über die Anforderungen an das Inverkehrbringen auch für den Eigengebrauch anwendbar erklären.
+<sup>5</sup> Der Bundesrat kann die Vorschriften über die Anforderungen an das Bereitstellen auf dem Markt auch für den Eigengebrauch anwendbar erklären.[^44-4]
 
-<sup>6</sup> Werden serienmässig hergestellte Anlagen, Geräte oder deren serienmässig hergestellte Bestandteile von einer harmonisierten Norm nach dem Bauproduktegesetz vom 21. März 2014[^44-1] (BauPG) erfasst oder ist für diese eine Europäische Technische Bewertung nach dem BauPG ausgestellt worden, so treten an die Stelle der Absätze 1–5 die Vorschriften über die Verwendung, Inbetriebnahme, Anwendung oder Installation.
+<sup>6</sup> Werden serienmässig hergestellte Anlagen, Geräte oder deren serienmässig hergestellte Bestandteile von einer harmonisierten Norm nach dem Bauproduktegesetz vom 21. März 2014[^44-5] (BauPG) erfasst oder ist für diese eine Europäische Technische Bewertung nach dem BauPG ausgestellt worden, so treten an die Stelle der Absätze 1–5 die Vorschriften über die Verwendung, Inbetriebnahme, Anwendung oder Installation.
 
-[^44-1]: [SR 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^44-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-3]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-4]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^44-5]: [SR 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
 
 #### Art. 45
 
@@ -850,11 +1057,15 @@ Sie erlassen insbesondere Vorschriften über:
 - a. den maximal zulässigen Anteil nicht erneuerbarer Energien zur Deckung des Wärmebedarfs für Heizung und Warmwasser; beim erneuerbaren Anteil kann Abwärme angerechnet werden;
 - b. die Neuinstallation und über den Ersatz von ortsfesten elektrischen Widerstandsheizungen;
 - c. die verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung bei Neubauten und bei wesentlichen Erneuerungen bestehender Gebäude;
-- d. die Produktion erneuerbarer Energien und über die Energieeffizienz.
+- d. die Produktion erneuerbarer Energien und über die Energieeffizienz;
+- e.[^45-1] die Grenzwerte für die graue Energie bei Neubauten und bei wesentlichen Erneuerungen bestehender Gebäude.
 
-<sup>4</sup> Beim Erlass der Vorschriften nach Absatz 3 Buchstabe d beachten sie, dass bei beheizten Gebäuden, die mindestens den Minergie-, den MuKEn-Standard oder einen vergleichbaren Baustandard erreichen, eine durch die Wärmedämmung oder durch Anlagen zur besseren Nutzung einheimischer erneuerbarer Energien verursachte Überschreitung von maximal 20 cm bei der Berechnung insbesondere der Gebäudehöhe, der Gebäude-, Grenz-, Gewässer-, Strassen- oder Parkplatzabstände und bei Baulinien nicht mitgezählt wird.
+<sup>4</sup> Beim Erlass der Vorschriften nach Absatz 3 Buchstabe d beachten sie, dass bei beheizten Gebäuden, die mindestens den Minergiestandard, den Standard der Mustervorschriften der Kantone im Energiebereich (MuKEn) oder einen vergleichbaren Baustandard erreichen, eine durch die Wärmedämmung oder durch Anlagen zur besseren Nutzung einheimischer erneuerbarer Energien verursachte Überschreitung von maximal 20 cm bei der Berechnung insbesondere der Gebäudehöhe, der Gebäude-, Grenz-, Gewässer-, Strassen- oder Parkplatzabstände und bei Baulinien nicht mitgezählt wird.[^45-2]
 
 <sup>5</sup> Sie erlassen einheitliche Vorschriften über die Angabe des Energieverbrauchs von Gebäuden (Gebäudeenergieausweis). Sie können für ihr Kantonsgebiet festlegen, dass der Energieausweis obligatorisch ist; sehen sie ein Obligatorium vor, so legen sie fest, in welchen Fällen der Ausweis obligatorisch ist.
+
+[^45-1]: Eingefügt durch Ziff. II 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^45-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 45a
 
@@ -874,17 +1085,23 @@ Die Kantone regeln die Ausnahmen, insbesondere wenn das Erstellen einer Solaranl
 
 <sup>4</sup> Kantone, welche Anforderungen zur Eigenstromerzeugung bei Neubauten gemäss MuKEn 2014 Teil E oder weitergehend bis am 1. Januar 2023 eingeführt haben, sind von der Umsetzung der Absätze 1−3 befreit.
 
-[^45a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^45a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter) ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 45b
 
 **Nutzung der Sonnenenergie bei Infrastrukturen des Bundes**[^45b-1]
 
-<sup>1</sup> Die Sonnenergie ist auf den dafür geeigneten Infrastrukturoberflächen des Bundes bestmöglich zu nutzen. Geeignete Flächen sind bis 2030 solaraktiv auszurüsten.
+<sup>1</sup> An den Infrastrukturen der Bundesverwaltung und der bundesnahen Betriebe sind geeignete Flächen solaraktiv auszurüsten. Infrastrukturoberflächen, die nicht genutzt werden, sind privaten Organisationen, Unternehmen oder Personen zur Nutzung zur Verfügung zu stellen.
 
-<sup>2</sup> Der Bundesrat regelt die Rahmenbedingungen und die Einzelheiten.
+<sup>2</sup>
 
-[^45b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+Der Bundesrat regelt die Ausnahmen, insbesondere wenn das Erstellen einer Solaranlage:
+
+- a. anderen öffentlich-rechtlichen Vorschriften widerspricht;
+- b. technisch nicht möglich ist; oder
+- c. wirtschaftlich unverhältnismässig ist.
+
+[^45b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter) ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 46
 
@@ -895,6 +1112,44 @@ Die Kantone regeln die Ausnahmen, insbesondere wenn das Erstellen einer Solaranl
 <sup>2</sup> Der Bund kann zu diesem Zweck Vereinbarungen mit Unternehmen über Ziele zur Steigerung der Energieeffizienz abschliessen. Diese Zielvereinbarungen müssen wirtschaftlich tragbar sein. Der Bund setzt sich im Weiteren ein für die Verbreitung und die Akzeptanz der Zielvereinbarungen und der damit verbundenen Massnahmen. Er sorgt für ein koordiniertes Vorgehen mit den Kantonen.
 
 <sup>3</sup> Die Kantone erlassen Vorschriften über den Abschluss von Vereinbarungen zwischen ihnen und Grossverbrauchern über Ziele zur Steigerung der Energieeffizienz und sehen Vorteile bei Abschluss und Einhaltung dieser Zielvereinbarungen vor. Sie harmonisieren ihre Vorschriften mit denjenigen des Bundes über Zielvereinbarungen. Diese Zielvereinbarungen müssen wirtschaftlich tragbar sein.
+
+#### Art. 46a
+
+**Vorbildfunktion von Bund und Kantonen in Bezug auf die Energieeffizienz**[^46a-1]
+
+<sup>1</sup> Bund und Kantone nehmen in Bezug auf die Energieeffizienz eine Vorbildfunktion wahr.
+
+<sup>2</sup> Der Energieverbrauch der zentralen Bundesverwaltung pro Jahr ist gegenüber dem Stand im Jahr 2000 bis zum Jahr 2040 um 53 Prozent zu senken. Der Bundesrat kann Ausnahmen im Zusammenhang mit der Landessicherheit und dem Bevölkerungsschutz vorsehen.
+
+<sup>3</sup> Der Bundesrat legt die notwendigen Massnahmen für die zentrale Bundesverwaltung und die bundesnahen Betriebe fest.
+
+[^46a-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 46b
+
+**Effizienzsteigerungen durch Elektrizitätslieferanten**[^46b-1]
+
+<sup>1</sup> Zur Erreichung des Ziels gemäss Artikel 9*a*<sup>bis</sup> Absatz 1 StromVG[^46b-2] legt der Bundesrat jährliche Zielvorgaben für Effizienzsteigerungen fest. Die Zielvorgaben enthalten keine Beschränkung der Menge an Elektrizität, welche Elektrizitätslieferanten absetzen dürfen.
+
+<sup>2</sup> Elektrizitätslieferanten müssen die Zielvorgaben durch Massnahmen für Effizienz-steigerungen an bestehenden elektrisch betriebenen Geräten, Anlagen und Fahrzeugen bei schweizerischen Endverbraucherinnen und Endverbrauchern erfüllen. Soweit sie ihre Zielvorgabe nicht selber erfüllen, erwerben sie andere gemäss diesem Artikel erbrachte Nachweise von Massnahmen zur Effizienzsteigerung in der Schweiz.
+
+<sup>3</sup> Die Effizienzsteigerungen sind mittels standardisierter oder nicht standardisierter Massnahmen zu erreichen. Das BFE bezeichnet die einzelnen standardisierten Massnahmen und passt sie bei Bedarf an. Die nicht standardisierten Massnahmen sind dem BFE zur Zulassung vorzulegen.
+
+<sup>4</sup> Die Zielvorgabe eines Elektrizitätslieferanten entspricht einem bestimmten Anteil seines Absatzes des Vorjahres bei Endverbraucherinnen und Endverbrauchern im Inland. Soweit die Elektrizitätslieferanten das Ziel verfehlt haben, müssen sie den fehlenden Teil in den folgenden drei Jahren zusätzlich erfüllen.
+
+<sup>5</sup>
+
+Der Bundesrat regelt die Einzelheiten, insbesondere:
+
+- a. den Anteil des Absatzes der Unternehmen, der für die Zielvorgabe massgeblich ist;
+- b. die Befreiung einzelner Kategorien von Elektrizitätslieferanten von Zielvorgaben;
+- c. die Anforderungen an den Nachweis von Effizienzsteigerungen;
+- d. die Anrechenbarkeit kantonaler und kommunaler Massnahmen.
+
+<sup>6</sup> Der Bundesrat kann Ausnahmen oder Erleichterungen bei der Zielvorgabe für Elektrizitätslieferanten vorsehen, sofern diese stromintensive Unternehmen beliefern.
+
+[^46b-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^46b-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 ## 9. Kapitel: Förderung
 
@@ -942,6 +1197,23 @@ Der Bund kann im Bereich der Energie- und Abwärmenutzung Massnahmen unterstütz
 - a. sparsamen und effizienten Energienutzung;
 - b. Nutzung erneuerbarer Energien;
 - c. Nutzung der Abwärme, insbesondere von Kraftwerken, von Abfallverbrennungs-, Abwasserreinigungs-, Dienstleistungs- und von Industrieanlagen, sowie zur Verteilung der Abwärme in Nah- und Fernwärmenetzen.
+
+#### Art. 50a
+
+**Impulsprogramm für den Ersatz von Wärmeerzeugungsanlagen und Massnahmen im Bereich der Energieeffizienz**[^50a-1]
+
+<sup>1</sup> Der Bund fördert im Rahmen eines Impulsprogramms mit einem Betrag von 200 Millionen Franken pro Jahr und befristet auf zehn Jahre den Ersatz fossil betriebener Heizungen und ortsfester elektrischer Widerstandsheizungen durch eine Wärmeerzeugung aus erneuerbaren Energien und Massnahmen im Bereich der Energieeffizienz.
+
+<sup>2</sup> Der Vollzug erfolgt durch die Kantone im Rahmen der bestehenden Strukturen nach Artikel 34 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^50a-2].
+
+<sup>3</sup> Die Mittel werden den Kantonen in einem Sockelbeitrag pro Einwohnerin und Einwohner ausgerichtet. Der Bundesrat kann bei der Ausrichtung der Mittel die bisherigen Anstrengungen der Kantone im Gebäudebereich berücksichtigen.
+
+<sup>4</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Höhe der Förderbeiträge unter Berücksichtigung fehlender Wärmeverteilsysteme. Er unterstützt beim Ersatz fossil betriebener Heizungen insbesondere Anlagen im mittleren und höheren Leistungsbereich und legt die minimalen Anforderungen an das Impulsprogramm fest.
+
+<sup>5</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen zehnjährigen Verpflichtungskredit.
+
+[^50a-1]: Eingefügt durch Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit, in Kraft seit 1. Jan. 2025 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^50a-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### 2. Abschnitt: Finanzierung
 
@@ -1021,11 +1293,14 @@ Als anrechenbare Kosten gelten:
 
 **Monitoring**
 
-<sup>1</sup> Das BFE untersucht regelmässig, wie weit die Massnahmen dieses Gesetzes zur Erreichung der Richtwerte nach den Artikeln 2 und 3 beigetragen haben, und erstellt in Zusammenarbeit mit dem Staatssekretariat für Wirtschaft und weiteren Bundesstellen ein detailliertes Monitoring.
+<sup>1</sup> Das BFE untersucht regelmässig, wie weit die Massnahmen dieses Gesetzes zur Erreichung der Ziele nach den Artikeln 2 und 3 beigetragen haben, und erstellt in Zusammenarbeit mit dem Staatssekretariat für Wirtschaft und weiteren Bundesstellen ein detailliertes Monitoring.[^55-1]
 
 <sup>2</sup> Die Ergebnisse der Untersuchungen sind zu veröffentlichen.
 
-<sup>3</sup> Der Bundesrat beurteilt alle fünf Jahre die Auswirkungen und die Wirksamkeit der Massnahmen nach diesem Gesetz und erstattet der Bundesversammlung Bericht über die Ergebnisse sowie über den Stand der Erreichung der Richtwerte nach den Artikeln 2 und 3. Zeichnet sich ab, dass die Richtwerte nicht erreicht werden können, so beantragt er gleichzeitig die zusätzlich notwendigen Massnahmen.
+<sup>3</sup> Der Bundesrat beurteilt alle fünf Jahre die Auswirkungen und die Wirksamkeit der Massnahmen nach diesem Gesetz und erstattet der Bundesversammlung Bericht über die Ergebnisse sowie über den Stand der Erreichung der Ziele nach den Artikeln 2 und 3. Zeichnet sich ab, dass diese nicht erreicht werden können, so beantragt er die zusätzlich notwendigen Massnahmen.[^55-2]
+
+[^55-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^55-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 56
 
@@ -1055,9 +1330,11 @@ Die für die Untersuchungen und das Monitoring nach Artikel 55 sowie für statis
 
 **Auskunftspflicht**
 
-<sup>1</sup> Wer energieverbrauchende Anlagen, Fahrzeuge und Geräte herstellt, einführt, in Verkehr bringt oder betreibt, muss den Bundesbehörden die Auskünfte erteilen, die sie für die Vorbereitung, die Durchführung und die Untersuchung der Wirksamkeit der Massnahmen benötigen.
+<sup>1</sup> Wer energieverbrauchende Anlagen, Fahrzeuge und Geräte herstellt, einführt, auf dem Markt bereitstellt oder betreibt, muss den Bundesbehörden die Auskünfte erteilen, die sie für die Vorbereitung, die Durchführung und die Untersuchung der Wirksamkeit der Massnahmen benötigen.[^57-1]
 
 <sup>2</sup> Den Behörden sind die notwendigen Unterlagen zur Verfügung zu stellen, und es ist ihnen während der üblichen Arbeitszeit der Zutritt zu den Einrichtungen zu ermöglichen.
+
+[^57-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 58
 
@@ -1166,7 +1443,7 @@ Für den Vollzug in den folgenden Bereichen ist die Vollzugsstelle gemäss Artik
 
 <sup>1</sup> Die Vollzugsstelle ist eine Tochtergesellschaft der nationalen Netzgesellschaft, an der diese sämtliche Anteile hält. Sie hat die Rechtsform einer privatrechtlichen Aktiengesellschaft mit Sitz in der Schweiz, eine eigene Firma und schlanke Strukturen.
 
-<sup>2</sup> Die Mitglieder von Verwaltungsrat und Geschäftsleitung müssen von der Elektrizitätswirtschaft unabhängig sein, dürfen aber, wenn sie dieses Unabhängigkeitserfordernis erfüllen, auch für die nationale Netzgesellschaft tätig sein. Die Vollzugsstelle darf keine Anteile an anderen Gesellschaften halten und richtet keine Dividenden und vergleichbare geldwerte Leistungen an die nationale Netzgesellschaft aus. Sie darf diese und deren Aktionärinnen und Aktionäre bei ihrer Vollzugstätigkeit gegenüber anderen Gesuchstellerinnen und Gesuchstellern nicht bevorzugt behandeln.
+<sup>2</sup> Die Mitglieder von Verwaltungsrat und Geschäftsleitung müssen von der Energiewirtschaft unabhängig sein, dürfen aber, wenn sie dieses Unabhängigkeitserfordernis erfüllen, auch für die nationale Netzgesellschaft tätig sein.[^64-1] Die Vollzugsstelle darf keine Anteile an anderen Gesellschaften halten und richtet keine Dividenden und vergleichbare geldwerte Leistungen an die nationale Netzgesellschaft aus. Sie darf diese und deren Aktionärinnen und Aktionäre bei ihrer Vollzugstätigkeit gegenüber anderen Gesuchstellerinnen und Gesuchstellern nicht bevorzugt behandeln.
 
 <sup>3</sup> Das BFE genehmigt die Statuten der Vollzugsstelle und übt die Aufsicht über diese aus. Es genehmigt ausserdem das Budget und die Abrechnung über die Vollzugsausgaben.
 
@@ -1175,6 +1452,8 @@ Für den Vollzug in den folgenden Bereichen ist die Vollzugsstelle gemäss Artik
 <sup>5</sup> Die Vollzugsstelle ist nicht in die konsolidierte Jahresrechnung der nationalen Netzgesellschaft einzubeziehen. Der Bundesrat kann weitere Bestimmungen zur Rechnungslegung erlassen.
 
 <sup>6</sup> Die Vollzugsstelle ist von allen direkten Steuern von Bund, Kantonen und Gemeinden befreit.
+
+[^64-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 65
 
@@ -1396,7 +1675,7 @@ Für Betreiber, denen die Vergütung vor dem Inkrafttreten dieses Gesetzes zuges
 
 **Übergangsbestimmungen zu anderen Netzzuschlags-Verwendungen**
 
-<sup>1 und 2</sup> …[^73-1]
+<sup>1</sup> und <sup>2</sup> …[^73-1]
 
 <sup>3</sup> Wer zwischen dem 1. August 2013 und dem Inkrafttreten dieses Gesetzes einen verbindlichen Grundsatzbescheid betreffend Gewährung einer Bürgschaft zur Risikoabsicherung von Geothermie-Anlagen in der Höhe von 50 Prozent der Investitionskosten erhalten hat, kann beim BFE bis sechs Monate nach Inkrafttreten dieses Gesetzes eine Neubeurteilung des Grundsatzbescheids nach neuem Recht beantragen. Es besteht kein Rechtsanspruch auf Erhöhung der Garantie.
 
@@ -1452,6 +1731,14 @@ Für Endverbraucherinnen und Endverbraucher, die eine Zielvereinbarung nach bish
 Die Kantone erlassen die Ausnahmebestimmungen gemäss Artikel 45*a* Absatz 2 bis zum 1. Januar 2023. Gesuche, die vor diesem Zeitpunkt eingereicht werden, unterstehen der Pflicht gemäss Artikel 45*a* Absatz 1 nicht.
 
 [^75b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), dort Art. 75*a*; [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 75c
+
+**Übergangsbestimmung zu Artikel 46*b**[^75c-1]*
+
+Der Bundesrat regelt die Anrechenbarkeit kantonaler und kommunaler Massnahmen, die vor Inkrafttreten der Änderung vom 29. September 2023 umgesetzt worden sind.
+
+[^75c-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 76
 
