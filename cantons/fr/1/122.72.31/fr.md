@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "122.72.31"
-title: "Ordonnance concernant la fixation des échelles de traitement du personnel de l'Etat pour l'année 2024"
+title: "Ordonnance concernant la fixation des échelles de traitement du personnel de l'Etat pour l'année 2025"
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7901/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8107/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la fixation des échelles de traitement du personnel de l'Etat pour l'année 2024
+# Ordonnance concernant la fixation des échelles de traitement du personnel de l'Etat pour l'année 2025
 
 Personnel de l'Etat, échelles de traitements – O
 
-du 12.12.2023 (version entrée en vigueur le 01.01.2024)
+du 10.12.2024 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,7 +26,7 @@ Vu l'article 81 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers);
 
 Considérant:
 
-L'indice suisse des prix à la consommation, qui sert de référence au calcul du renchérissement s'élève au mois de novembre 2023 à 114,2 points (base mai 2000 = 100 pts). Par rapport au mois de novembre 2022 (112,6 pts), il a progressé de 1,6 points, ce qui correspond à une augmentation de 1,42 % environ. Les salaires du personnel de l'Etat seront donc adaptés au 1<sup>er</sup> janvier 2024 à hauteur de 1,42 %.
+Dans le cadre du budget 2025, le Conseil d'Etat a décidé de ne pas adapter les salaires au renchérissement. Par conséquent, les échelles de traitement valables pour l'année 2024 sont maintenues pour l'année 2025.
 
 Sur la proposition de la Direction des finances,
 
@@ -36,13 +36,13 @@ Arrête:
 
 **Adaptation des échelles de traitement**
 
-<sup>1</sup> L'échelle générale des traitements et l'échelle spéciale des traitements du personnel de l'Etat (échelles de traitements) sont adaptées à raison de 1,42 %.
+<sup>1</sup> Les échelles de traitement valables pour l'année 2024 sont maintenues pour l'année 2025.
 
 #### Art. 2
 
-**Echelle générale au 1<sup>er</sup> janvier 2024**
+**Echelle générale au 1<sup>er</sup> janvier 2025**
 
-<sup>1</sup> L'échelle générale déterminante pour la fixation du traitement de base du personnel de l'Etat au 1<sup>er</sup> janvier 2024 est consignée dans le tableau suivant:
+<sup>1</sup> L'échelle générale déterminante pour la fixation du traitement de base du personnel de l'Etat au 1<sup>er</sup> janvier 2025 est consignée dans le tableau suivant:
 
 <table>
 <tr><th>Echelle</th><th>Minimum en Fr.</th><th>Minimum en Fr. (y c. 13<sup>e</sup> salaire)</th><th>Maximum en Fr.</th><th>Maximum en Fr. (y c. 13<sup>e</sup> salaire)</th></tr>
@@ -88,9 +88,9 @@ Arrête:
 
 #### Art. 3
 
-**Echelle spéciale au 1<sup>er</sup> janvier 2024**
+**Echelle spéciale au 1<sup>er</sup> janvier 2025**
 
-<sup>1</sup> L'échelle spéciale déterminante pour la fixation du traitement de base de certaines catégories de personnel de l'Etat au 1<sup>er</sup> janvier 2024 est consignée dans le tableau suivant:
+<sup>1</sup> L'échelle spéciale déterminante pour la fixation du traitement de base de certaines catégories de personnel de l'Etat au 1<sup>er</sup> janvier 2025 est consignée dans le tableau suivant:
 
 <table>
 <tr><th>Echelle</th><th>Minimum en Fr.</th><th>Minimum en Fr. (y c. 13<sup>e</sup> salaire)</th><th>Maximum</th><th>Maximum en Fr. (y c. 13<sup>e</sup> salaire)</th></tr>
@@ -108,4 +108,4 @@ Arrête:
 
 <sup>1</sup> Lorsque l'Etat subventionne les charges salariales de certains secteurs, les subventions y relatives sont adaptées dans la même proportion que les traitements du personnel de l'Etat.
 
-2023\_117
+2025\_001

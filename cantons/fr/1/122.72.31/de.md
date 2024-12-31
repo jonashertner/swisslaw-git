@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "122.72.31"
-title: Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2024
+title: Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2025
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-10
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/7901/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8107/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2024
+# Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2025
 
-Staatspersonal, Lohnskalen – O
+Staatspersonal, Lohnskalen – V
 
-vom 12.12.2023 (Fassung in Kraft getreten am 01.01.2024)
+vom 10.12.2024 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -26,7 +26,7 @@ gestützt auf Artikel 81 des Gesetzes vom 17. Oktober 2001 über das Staatsperso
 
 in Erwägung:
 
-Der Landesindex der Konsumentenpreise, der als Bezugsgrösse für die Berechnung des Teuerungsausgleichs für die Löhne des Staatspersonals dient, lag im November 2023 bei 114,2 Punkten (Basis Mai 2000 = 100 Punkte). Gegenüber November 2022 (112,6 Punkte) ist er somit um 1,6 Punkte, also um 1,42 % gestiegen. Die Löhne des Staatspersonals werden also per 1. Januar 2024 mit einer Erhöhung um 1,42 % der Teuerung angepasst.
+Der Staatsrat hat im Rahmen des Staatsvoranschlags 2025 beschlossen, die Löhne nicht an die Teuerung anzupassen. Damit werden die 2024 geltenden Lohnskalen 2025 unverändert beibehalten.
 
 Auf Antrag der Finanzdirektion,
 
@@ -36,13 +36,13 @@ beschliesst:
 
 **Anpassung der Lohnskalen**
 
-<sup>1</sup> Die allgemeine Lohnskala und die Sonderlohnskala (Lohnskalen) werden um 1,42 % erhöht.
+<sup>1</sup> Die 2024 geltenden Lohnskalen werden 2025 unverändert beibehalten.
 
 #### Art. 2
 
-**Allgemeine Lohnskala per 1. Januar 2024**
+**Allgemeine Lohnskala per 1. Januar 2025**
 
-<sup>1</sup> Für die Festsetzung des Grundlohns des Staatspersonals per 1. Januar 2024 gilt folgende allgemeine Lohnskala:
+<sup>1</sup> Für die Festsetzung des Grundlohns des Staatspersonals per 1. Januar 2025 gilt folgende allgemeine Lohnskala:
 
 <table>
 <tr><th>Klasse</th><th>Minimum in Fr.</th><th>Minimum in Fr. (einschl. 13. Monatslohn)</th><th>Maximum in Fr.</th><th>Maximum in Fr. (einschl. 13. Monatslohn)</th></tr>
@@ -84,13 +84,13 @@ beschliesst:
 <tr><td>36</td><td>148'999.20</td><td>161'415.80</td><td>210'147.00</td><td>227'659.25</td></tr>
 </table>
 
-<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, also 114,2 Punkten (Mai 2000 = 100 Punkte).
+<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, d, h. 114,2 Punkten (Mai 2000 = 100 Punkte).
 
 #### Art. 3
 
-**Sonderlohnskala per 1. Januar 2024**
+**Sonderlohnskala per 1. Januar 2025**
 
-<sup>1</sup> Für die Festsetzung des Grundlohns gewisser Personalkategorien per 1. Januar 2024 gilt folgende Sonderlohnskala:
+<sup>1</sup> Für die Festsetzung des Grundlohns gewisser Personalkategorien per 1. Januar 2025 gilt folgende Sonderlohnskala:
 
 <table>
 <tr><th>Klasse</th><th>Minimum in Fr.</th><th>Minimum in Fr. (einschl. 13. Monatslohn)</th><th>Maximum</th><th>Maximum in Fr. (einschl. 13. Monatslohn)</th></tr>
@@ -100,7 +100,7 @@ beschliesst:
 <tr><td>H04</td><td>172'132.80</td><td>186'477.20</td><td>239'419.20</td><td>259'370.80</td></tr>
 </table>
 
-<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, also 114,2 Punkten (Mai 2000 = 100 Punkte).
+<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, d. h. 114,2 Punkten (Mai 2000 = 100 Punkte).
 
 #### Art. 4
 
@@ -108,4 +108,4 @@ beschliesst:
 
 <sup>1</sup> Subventioniert der Staat die Lohnkosten gewisser Sektoren, so werden die entsprechenden Subventionen im gleichen Verhältnis wie die Löhne des Staatspersonals angepasst.
 
-2023\_117
+2025\_001
