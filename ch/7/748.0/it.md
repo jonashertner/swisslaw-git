@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230901-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/it"
 
 (LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° settembre 2023)
+del 21 dicembre 1948 (Stato 1° gennaio 2025)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -116,11 +116,12 @@ Il Consiglio federale può concludere accordi internazionali concernenti:
 - b.[^3a-2] la sicurezza tecnica nell’aviazione (sicurezza aerea);
 - c. il servizio della sicurezza aerea;
 - c<sup>bis</sup>.[^3a-3] la prevenzione di atti illeciti contro l’aviazione (sicurezza dell’aviazione);
-- d. lo scambio di dati aeronautici.
+- d. lo scambio di dati aeronautici;
+- e.[^3a-4] la lotta contro gli effetti dannosi o molesti del traffico aereo sull’ambiente e la loro riduzione.
 
 <sup>2</sup>
 
-Gli accordi concernenti la sicurezza aerea, il servizio della sicurezza aerea e la sicurezza dell’aviazione possono contenere in particolare disposizioni riguardanti:[^3a-4]
+Gli accordi concernenti la sicurezza aerea, il servizio della sicurezza aerea e la sicurezza dell’aviazione possono contenere in particolare disposizioni riguardanti:[^3a-5]
 
 - a. la vigilanza, incluse le sanzioni;
 - b. la delega di singoli settori o competenze di vigilanza a istituzioni internazionali.
@@ -129,18 +130,19 @@ Gli accordi concernenti la sicurezza aerea, il servizio della sicurezza aerea e 
 
 Gli accordi concernenti il servizio della sicurezza aerea possono:
 
-- a. contenere disposizioni relative alla responsabilità per i danni causati nell’ambito della fornitura di servizi della sicurezza aerea; queste disposizioni possono derogare alla legge del 14 marzo 1958[^3a-5] sulla responsabilità;
+- a. contenere disposizioni relative alla responsabilità per i danni causati nell’ambito della fornitura di servizi della sicurezza aerea; queste disposizioni possono derogare alla legge del 14 marzo 1958[^3a-6] sulla responsabilità;
 - b. prevedere che il servizio della sicurezza aerea possa coprire regioni transfrontaliere;
-- c.[^3a-6] prevedere la delega della fornitura di servizi della sicurezza aerea ad altri fornitori di servizi della sicurezza aerea; va rispettato il divieto in materia di delega di cui all’articolo 40*b* capoverso 4.
+- c.[^3a-7] prevedere la delega della fornitura di servizi della sicurezza aerea ad altri fornitori di servizi della sicurezza aerea; va rispettato il divieto in materia di delega di cui all’articolo 40*b* capoverso 4.
 
 <sup>4</sup> Se, in applicazione di un accordo concernente il servizio della sicurezza aerea, è tenuta a versare indennizzi per danni causati illecitamente da un fornitore svizzero di servizi della sicurezza aerea, la Confederazione ha diritto di regresso nei confronti di quest’ultimo.
 
 [^3a-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^3a-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^3a-3]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-4]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-5]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3a-6]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-4]: Introdotta dall’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3a-5]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-6]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^3a-7]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 1*b*. Collaborazione con autorità straniere
 
@@ -1080,13 +1082,13 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>2</sup> La domanda deve essere pubblicata negli organi ufficiali di pubblicazione dei Cantoni e dei Comuni interessati e depositata pubblicamente durante 30 giorni.
 
-<sup>3</sup> ...[^37d-3]
+<sup>3</sup> …[^37d-3]
 
 [^37d-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^37d-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^37d-3]: Abrogato dall’all. n. 16 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### f. ...
+### f. …
 
 #### Art. 37e
 
@@ -1171,7 +1173,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>1</sup> Dopo la conclusione della procedura di approvazione dei piani per gli impianti aeroportuali è eseguita, se necessario, la procedura di conciliazione e di stima dinanzi alla Commissione federale di stima (Commissione di stima) secondo le disposizioni della LEspr[^37k-2].[^37k-3]
 
-<sup>2</sup> ...[^37k-4]
+<sup>2</sup> …[^37k-4]
 
 <sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva di approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
@@ -1435,7 +1437,7 @@ Per stabilire le tasse l’esercente dell’aeroporto tiene segnatamente conto d
 
 <sup>2</sup> Provvede all’istituzione e all’esercizio di un’interfaccia nazionale di registrazione dei dati contenente tutti i dati aeronautici secondo il capoverso 1. Può delegare questo compito a una persona giuridica di diritto privato. Quest’ultima sottostà alla vigilanza dell’UFAC.
 
-<sup>3</sup> e <sup>4</sup> ...[^40a-2]
+<sup>3</sup> e <sup>4</sup> …[^40a-2]
 
 [^40a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^40a-2]: Non ancora in vigore.
@@ -2654,9 +2656,24 @@ La Commissione della concorrenza esamina la compatibilità con l’articolo 13 d
 
 [^103b-1]
 
-La Confederazione promuove l’istruzione e la formazione continua, nonché la ricerca e lo sviluppo di nuove tecnologie nell’ambito dei vari settori dell’aviazione.
+<sup>1</sup> La Confederazione può promuovere la formazione e la formazione continua, nonché la ricerca e lo sviluppo di nuove tecnologie nell’ambito dei vari settori dell’aviazione.
 
-[^103b-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 27 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+<sup>2</sup> La Confederazione può promuovere in particolare provvedimenti finalizzati a ridurre le emissioni di gas serra generate dal traffico aereo, segnatamente lo sviluppo e la fabbricazione di carburanti per l’aviazione sintetici rinnovabili.
+
+<sup>3</sup>
+
+Possono essere promossi in particolare provvedimenti e progetti in Svizzera e all’estero che:
+
+- a. consentono a lungo termine la massima riduzione possibile delle emissioni di gas serra generate dal traffico aereo;
+- b. presentano a lungo termine un rapporto costi-benefici vantaggioso;
+- c. sono potenzialmente applicabili su larga scala e hanno un’elevata probabilità di successo;
+- d. creano valore aggiunto in Svizzera;
+- e. si avvalgono di partner lungo l’intera filiera produttiva; o
+- f. concorrono al mantenimento e all’ampliamento delle conoscenze.
+
+<sup>4</sup> Il Consiglio federale stabilisce le condizioni di concessione e il calcolo degli aiuti finanziari.
+
+[^103b-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 103c e 103d
 
@@ -2910,18 +2927,53 @@ Data dell’entrata in vigore: 15 giugno 1950[^111-1]
 
 [^111-1]: DCF del 5 giu. 1950.
 
-Disposizioni finali della modifica del 17 dicembre 1971[^t-2] III <sup>1</sup> Nell’applicazione dell’articolo 44 deve essere tenuto conto degli impianti sistemati prima del 1° gennaio 1971 in vicinanza di aerodromi esistenti, tenuto conto della costituzione di zone di sicurezza o di zone di rumore. <sup>2</sup> Le procedure giusta l’articolo 44 che, al momento dell’entrata in vigore della presente legge[^t-3], sono avviate secondo il diritto cantonale nell’intento di istituire zone di sicurezza o di rumore vanno portate a termine secondo il diritto cantonale. IV–V[^t-4]
+## Disposizioni finali della modifica del 17 dicembre 1971
 
-Disposizioni finali della modifica del 26 giugno 1998[^t-5] <sup>1</sup> Le autorizzazioni di esercizio rilasciate in virtù del diritto previgente rimangono in vigore fino alla scadenza della loro validità. Non possono più essere modificate o rinnovate. <sup>2</sup> I diritti derivanti da concessioni esistenti rimangono validi, purché siano effettivamente utilizzati al momento dell’entrata in vigore della presente modifica. Essi vengono ripresi nelle concessioni di rotta. Se tali diritti venissero pregiudicati da accordi internazionali, non può essere preteso alcun indennizzo dalla Confederazione. I diritti in concessione esistenti possono essere revocati o limitati con riserva di indennizzo.
+[^u1-1]
 
-Disposizioni finali della modifica del 18 giugno 1999[^t-6] <sup>1</sup> Le procedure di concessione edilizia e di autorizzazione di costruzione pendenti al momento dell’entrata in vigore della presente modifica sono continuate come procedure d’approvazione dei piani. Per le espropriazioni va, se del caso, attuata a posteriori la procedura d’opposizione. <sup>2</sup> Ai ricorsi pendenti si applica il diritto procedurale previgente.
+[^u1-1]: [RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)
 
-Disposizioni transitorie della modifica del 1° ottobre 2010[^t-7] <sup>1</sup> Le procedure pendenti dinanzi alla Commissione federale sugli infortuni aeronautici (Commissione; ex art. 26 cpv. 1[^t-8]) al momento dell’entrata in vigore della modifica del 1° ottobre 2010 della presente legge sono portate a termine in applicazione del diritto anteriore. La Commissione resta in funzione fino al termine dell’ultima procedura. <sup>2</sup> Per una durata di cinque anni al massimo a partire dall’entrata in vigore della presente modifica e per quanto le prescrizioni europee applicabili in virtù di accordi bilaterali non dispongano altrimenti, il Consiglio federale può prevedere che i proventi della tassa di una singola categoria di aerodromi possano essere utilizzati per finanziare i costi di un’altra categoria di aerodromi in deroga all’articolo 49 capoverso 4. <sup>3</sup> Il Consiglio federale stabilisce quali importi possono essere trasferiti e tra quali categorie.
+III
 
-[^t-2]: [RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)
-[^t-3]: Questa L è entrata in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
-[^t-4]: Abrogati dal n. II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^t-5]: [RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)
-[^t-6]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
-[^t-7]: [RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)
-[^t-8]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010)
+<sup>1</sup> Nell’applicazione dell’articolo 44 deve essere tenuto conto degli impianti sistemati prima del 1° gennaio 1971 in vicinanza di aerodromi esistenti, tenuto conto della costituzione di zone di sicurezza o di zone di rumore.
+
+<sup>2</sup> Le procedure giusta l’articolo 44 che, al momento dell’entrata in vigore della presente legge[^u1-2], sono avviate secondo il diritto cantonale nell’intento di istituire zone di sicurezza o di rumore vanno portate a termine secondo il diritto cantonale.
+
+IV–V[^u1-3]
+
+[^u1-2]: Questa L è entrata in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
+[^u1-3]: Abrogati dal n. II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+
+## Disposizioni finali della modifica del 26 giugno 1998
+
+[^u2-1]
+
+[^u2-1]: [RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)
+
+<sup>1</sup> Le autorizzazioni di esercizio rilasciate in virtù del diritto previgente rimangono in vigore fino alla scadenza della loro validità. Non possono più essere modificate o rinnovate.
+
+<sup>2</sup> I diritti derivanti da concessioni esistenti rimangono validi, purché siano effettivamente utilizzati al momento dell’entrata in vigore della presente modifica. Essi vengono ripresi nelle concessioni di rotta. Se tali diritti venissero pregiudicati da accordi internazionali, non può essere preteso alcun indennizzo dalla Confederazione. I diritti in concessione esistenti possono essere revocati o limitati con riserva di indennizzo.
+
+## Disposizioni finali della modifica del 18 giugno 1999
+
+[^u3-1]
+
+[^u3-1]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
+
+<sup>1</sup> Le procedure di concessione edilizia e di autorizzazione di costruzione pendenti al momento dell’entrata in vigore della presente modifica sono continuate come procedure d’approvazione dei piani. Per le espropriazioni va, se del caso, attuata a posteriori la procedura d’opposizione.
+
+<sup>2</sup> Ai ricorsi pendenti si applica il diritto procedurale previgente.
+
+## Disposizioni transitorie della modifica del 1° ottobre 2010
+
+[^u4-1]
+
+[^u4-1]: [RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)
+
+<sup>1</sup> Le procedure pendenti dinanzi alla Commissione federale sugli infortuni aeronautici (Commissione; ex art. 26 cpv. 1[^u4-2]) al momento dell’entrata in vigore della modifica del 1° ottobre 2010 della presente legge sono portate a termine in applicazione del diritto anteriore. La Commissione resta in funzione fino al termine dell’ultima procedura.
+
+<sup>2</sup> Per una durata di cinque anni al massimo a partire dall’entrata in vigore della presente modifica e per quanto le prescrizioni europee applicabili in virtù di accordi bilaterali non dispongano altrimenti, il Consiglio federale può prevedere che i proventi della tassa di una singola categoria di aerodromi possano essere utilizzati per finanziare i costi di un’altra categoria di aerodromi in deroga all’articolo 49 capoverso 4.
+
+<sup>3</sup> Il Consiglio federale stabilisce quali importi possono essere trasferiti e tra quali categorie.
+
+[^u4-2]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010)

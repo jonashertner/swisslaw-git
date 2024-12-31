@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230901-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/de"
 
 (Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. September 2023)
+vom 21. Dezember 1948 (Stand am 1. Januar 2025)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -115,11 +115,12 @@ Der Bundesrat kann internationale Vereinbarungen abschliessen über:
 - b.[^3a-2] die technische Sicherheit in der Luftfahrt (Flugsicherheit);
 - c. die Flugsicherung;
 - c<sup>bis</sup>.[^3a-3] die Abwehr widerrechtlicher Handlungen gegen die Luftfahrt (Luftsicherheit);
-- d. den Austausch von Luftfahrtdaten.
+- d. den Austausch von Luftfahrtdaten;
+- e.[^3a-4] die Bekämpfung und Verringerung von schädlichen oder lästigen Umwelteinwirkungen im Luftverkehr.
 
 <sup>2</sup>
 
-Die Vereinbarungen über die Flugsicherheit, die Flugsicherung und die Luftsicherheit können insbesondere Bestimmungen enthalten über:[^3a-4]
+Die Vereinbarungen über die Flugsicherheit, die Flugsicherung und die Luftsicherheit können insbesondere Bestimmungen enthalten über:[^3a-5]
 
 - a. die Aufsicht, einschliesslich Sanktionen;
 - b. die Übertragung einzelner Aufsichtsbereiche oder -befugnisse auf internationale Einrichtungen.
@@ -128,19 +129,20 @@ Die Vereinbarungen über die Flugsicherheit, die Flugsicherung und die Luftsiche
 
 Die Vereinbarungen über die Flugsicherung können:
 
-- a.[^3a-5] Bestimmungen enthalten über die Haftung für Schäden, die aufgrund der Erbringung von Flugsicherungsdienstleistungen entstehen; diese Bestimmungen können vom Verantwortlichkeitsgesetz vom 14. März 1958[^3a-6] abweichen;
+- a.[^3a-6] Bestimmungen enthalten über die Haftung für Schäden, die aufgrund der Erbringung von Flugsicherungsdienstleistungen entstehen; diese Bestimmungen können vom Verantwortlichkeitsgesetz vom 14. März 1958[^3a-7] abweichen;
 - b. vorsehen, dass die Flugsicherung grenzüberschreitende Gebiete abdecken kann;
-- c.[^3a-7] die Übertragung der Erbringung von Flugsicherungsdienstleistungen auf andere Flugsicherungsdienstleistungserbringer vorsehen; das Übertragungsverbot nach Artikel 40*b* Absatz 4 ist einzuhalten.
+- c.[^3a-8] die Übertragung der Erbringung von Flugsicherungsdienstleistungen auf andere Flugsicherungsdienstleistungserbringer vorsehen; das Übertragungsverbot nach Artikel 40*b* Absatz 4 ist einzuhalten.
 
 <sup>4</sup> Wird der Bund aufgrund einer Vereinbarung über die Flugsicherung zu Entschädigungszahlungen für Schäden verpflichtet, die auf eine widerrechtliche Handlung eines schweizerischen Erbringers von Flugsicherungsdiensten zurückzuführen sind, so kann er auf diesen Rückgriff nehmen.
 
 [^3a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^3a-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^3a-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-4]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^3a-5]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-6]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3a-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-6]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-7]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^3a-8]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 1*b*. Zusammenarbeit mit ausländischen Behörden
 
@@ -2631,15 +2633,30 @@ Die Wettbewerbskommission prüft, ob mit Artikel 13 des Abkommens vom 21. Juni 1
 
 [^103a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
-### V. Aus- und Weiterbildung , Forschung und Entwicklung
+### V. Aus- und Weiterbildung, Forschung und Entwicklung
 
 #### Art. 103b
 
 [^103b-1]
 
-Der Bund fördert die Aus- und Weiterbildung sowie Forschung und Entwicklung neuer Technologien im Bereich der verschiedenen Sparten der Luftfahrt.
+<sup>1</sup> Der Bund kann die Aus- und Weiterbildung sowie die Forschung und Entwicklung neuer Technologien im Bereich der verschiedenen Sparten der Luftfahrt fördern.
 
-[^103b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+<sup>2</sup> Der Bund kann dabei insbesondere Massnahmen zur Verminderung von Treibhausgasemissionen aus dem Luftverkehr, namentlich die Entwicklung und die Herstellung von erneuerbaren synthetischen Flugtreibstoffen, fördern.
+
+<sup>3</sup>
+
+Gefördert werden können insbesondere Massnahmen und Projekte im In- und Ausland, die:
+
+- a. langfristig eine möglichst grosse Reduktion der Treibhausgasemissionen aus dem Luftverkehr erzielen;
+- b. langfristig kosteneffizient sind;
+- c. ein grosses Anwendungspotenzial und eine hohe Erfolgswahrscheinlichkeit aufweisen;
+- d. zu Wertschöpfung in der Schweiz führen;
+- e. Partner über den ganzen Herstellungspfad vorweisen können; oder
+- f. zu Wissenserhalt und Wissensausbau führen.
+
+<sup>4</sup> Der Bundesrat regelt die Voraussetzungen und die Bemessung der Finanzhilfen.
+
+[^103b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 103c und 103d
 

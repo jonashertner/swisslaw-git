@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230901-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/fr"
 
 (LA)[^t-1] [^t-2]
 
-du 21 décembre 1948 (État le 1<sup>er</sup> septembre 2023)
+du 21 décembre 1948 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -124,11 +124,12 @@ Le Conseil fédéral peut conclure des accords internationaux:
 - b.[^3a-2] sur la sécurité technique dans l’aviation (sécurité de l’aviation);
 - c. sur le service de la navigation aérienne;
 - c<sup>bis</sup>.[^3a-3] sur la prévention des actes illicites dirigés contre l’aviation (sûreté de l’aviation);
-- d. sur l’échange de données aéronautiques.
+- d. sur l’échange de données aéronautiques;
+- e.[^3a-4] sur la lutte et la réduction des effets nuisibles ou incommodants du transport aérien sur l’environnement.
 
 <sup>2</sup>
 
-Les accords sur la sécurité de l’aviation, sur le service de la navigation aérienne et sur la sûreté de l’aviation peuvent comprendre notamment:[^3a-4]
+Les accords sur la sécurité de l’aviation, sur le service de la navigation aérienne et sur la sûreté de l’aviation peuvent comprendre notamment:[^3a-5]
 
 - a. des dispositions sur la surveillance, qui peuvent être assorties de sanctions;
 - b. des dispositions sur la délégation de certains domaines ou de certaines compétences de surveillance à des organismes internationaux.
@@ -137,18 +138,19 @@ Les accords sur la sécurité de l’aviation, sur le service de la navigation a
 
 Les accords sur le service de la navigation aérienne peuvent:
 
-- a. comprendre des dispositions sur la responsabilité en cas de dommages résultant de la fourniture de services de navigation aérienne; ces dispositions peuvent déroger à la loi du 14 mars 1958 sur la responsabilité[^3a-5];
+- a. comprendre des dispositions sur la responsabilité en cas de dommages résultant de la fourniture de services de navigation aérienne; ces dispositions peuvent déroger à la loi du 14 mars 1958 sur la responsabilité[^3a-6];
 - b. prévoir que le service de la navigation aérienne peut couvrir des espaces transfrontaliers;
-- c.[^3a-6] prévoir la délégation de la fourniture de services de navigation aérienne à d’autres prestataires de services de navigation aé-rienne; l’interdiction en matière de délégation visée à l’art. 40*b*, al. 4, doit être respectée.
+- c.[^3a-7] prévoir la délégation de la fourniture de services de navigation aérienne à d’autres prestataires de services de navigation aé-rienne; l’interdiction en matière de délégation visée à l’art. 40*b*, al. 4, doit être respectée.
 
 <sup>4</sup> Si la Confédération est tenue, en vertu d’un accord sur le service de la navigation aérienne, de verser des indemnités pour un dommage qu’un prestataire suisse de services de navigation aérienne a causé d’une manière illicite, elle peut intenter une action récursoire contre celui-ci.
 
 [^3a-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^3a-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^3a-3]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-4]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-5]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3a-6]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-4]: Introduite par l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^3a-5]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-6]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^3a-7]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 1*b*. Collaboration avec des autorités étrangères
 
@@ -1370,22 +1372,22 @@ Dans la mesure où les intérêts militaires le permettent, les aérodromes qui 
 
 Les catégories de redevances sont notamment les suivantes:
 
-- [tab] a. redevances passagers;
-- [tab] b. redevances de sûreté;
-- [tab] c. redevances d’atterrissage;
-- [tab] d. redevances de stationnement;
-- [tab] e. redevances liées au bruit et à l’émission de substances nocives;
-- [tab] f. redevances d’utilisation des infrastructures centralisées;
-- [tab] g. redevances d’accès aux installations aéroportuaires.
+- a. redevances passagers;
+- b. redevances de sûreté;
+- c. redevances d’atterrissage;
+- d. redevances de stationnement;
+- e. redevances liées au bruit et à l’émission de substances nocives;
+- f. redevances d’utilisation des infrastructures centralisées;
+- g. redevances d’accès aux installations aéroportuaires.
 
 <sup>4</sup>
 
 L’exploitant de l’aéroport fixe le montant des redevances en sefondant notamment sur les critères suivants:
 
-- [tab] a. masse maximale au décollage de l’aéronef;
-- [tab] b. nombre de passagers;
-- [tab] c. émission de bruit;
-- [tab] d. émission de substances nocives.
+- a. masse maximale au décollage de l’aéronef;
+- b. nombre de passagers;
+- c. émission de bruit;
+- d. émission de substances nocives.
 
 <sup>5</sup> Le produit des redevances ne doit pas excéder les frais attestés et une rémunération raisonnable du capital investi.
 
@@ -1772,7 +1774,8 @@ Les prestataires de services de navigation aérienne perçoivent des redevances 
 
 - a. le contrôle en route;
 - b. le contrôle des approches et des départs sur les aérodromes.
-- [tab] <sup>2</sup> Le produit des redevances ne doit pas excéder les frais attestés et une rémunération raisonnable du capital investi.
+
+<sup>2</sup> Le produit des redevances ne doit pas excéder les frais attestés et une rémunération raisonnable du capital investi.
 
 <sup>3</sup> Le Conseil fédéral peut classer les aérodromes par catégorie. Il fixe, pour chaque catégorie d’aérodrome, les principes déterminant l’établissement des redevances d’approche et de départ et définit les moyens supplémentaires nécessaires pour couvrir les frais du contrôle des approches et des départs. Il tient compte à cet égard des possibilités de financement offertes par les cantons ou les communes aéroportuaires ou par des organismes privés.
 
@@ -2644,17 +2647,28 @@ La Commission de la concurrence examine la compatibilité avec l’art. 13 de l�
 
 ### V. Formation et formation continue, recherche et développement
 
-[^part3-lvlV-1]
-
-[^part3-lvlV-1]: Nouvelle teneur selon l’annexe ch. 25 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-
 #### Art. 103b
 
 [^103b-1]
 
-La Confédération encourage la formation et la formation continue ainsi que la recherche et le développement de nouvelles technologies dans les différents domaines de l’aviation.
+<sup>1</sup> La Confédération peut encourager la formation et la formation continue ainsi que la recherche et le développement de nouvelles technologies dans les différents domaines de l’aviation.
 
-[^103b-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon l’annexe ch. 27 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+<sup>2</sup> Elle peut encourager en particulier les mesures visant à réduire les émissions de gaz à effet de serre générées par le trafic aérien, notamment le développement et la production de carburants d’aviation synthétiques renouvelables.
+
+<sup>3</sup>
+
+Peuvent être encouragés notamment les mesures et les projets réalisés en Suisse et à l’étranger:
+
+- a. qui permettent durablement une réduction aussi élevée que possible des émissions de gaz à effet de serre générées par le trafic aérien;
+- b. qui présentent durablement un rapport coût-efficacité avantageux;
+- c. qui présentent un potentiel d’application et de succès important;
+- d. qui créent de la valeur en Suisse;
+- e. qui peuvent démontrer qu’ils disposent de partenaires tout au long de la chaîne de création de valeur, ou
+- f. qui contribuent au maintien et au développement des connaissances.
+
+<sup>4</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des aides financières.
+
+[^103b-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 103c et 103d
 
@@ -2682,15 +2696,15 @@ Les dispositions de la législation sur les télécommunications sont réservée
 
 <sup>2</sup> Les exploitants d’aérodromes sont tenus de mettre à disposition les locaux nécessaires aux formalités douanières.
 
+### III. Aviation militaire
+
 ### 1. Application à l’aviation militaire des dispositions régissant l’aviation civile
 
-[^part4-lvlII-lvl1-1]
+[^part4-lvlIII-lvl1-1]
 
-[^part4-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^part4-lvlIII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 106
-
-III. Aviation militaire
 
 <sup>1</sup> La Confédération ne répond que selon les art. 64 à 74 et 77 à 79 des dommages qui sont causés par un aéronef militaire suisse à des personnes et à des biens qui se trouvent à la surface.
 
