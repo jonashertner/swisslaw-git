@@ -3,20 +3,20 @@ canton: BL
 number: "331.11"
 title: Verordnung zum Steuergesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331.11"
-pdf: "https://bl.clex.ch/api/de/versions/3787/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4099/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 13.12.2005 (Stand 01.01.2024)
+Vom 13.12.2005 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -371,14 +371,16 @@ beschliesst:
 - a. für das Kalenderjahr 2021 — 0,20 %;
 - b. für das Kalenderjahr 2022 — 0,20 %;
 - c. für das Kalenderjahr 2023 — 0,20 %;
-- d. für das Kalenderjahr 2024 — 0,80 %.
+- d. für das Kalenderjahr 2024 — 0,80 %;
+- e. für das Kalenderjahr 2025 — 0,20 %.
 
 <sup>2</sup> Der Verzugszins beträgt:
 
 - a. für das Kalenderjahr 2021 — 5,00 %;
 - b. für das Kalenderjahr 2022 — 5,00 %;
 - c. für das Kalenderjahr 2023 — 5,00 %;
-- d. für das Kalenderjahr 2024 — 4,75 %.
+- d. für das Kalenderjahr 2024 — 4,75 %;
+- e. für das Kalenderjahr 2025 — 5,50 %.
 
 <sup>3</sup> Die Berechnung der Zinsen gemäss den Abs. 1 und 2 wird auf der Basis eines Kalenderjahres mit 365 bzw. 366 Tagen vorgenommen.
 
