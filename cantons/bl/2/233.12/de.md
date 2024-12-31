@@ -3,20 +3,19 @@ canton: BL
 number: "233.12"
 title: Verordnung über den Online-Zugriff auf die Protokolle und Register der Betreibungs- und Konkursämter
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-06-05
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2005-12-06
 in_force: 2006-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/233.12"
-pdf: "https://bl.clex.ch/api/de/versions/2247/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Online-Zugriff auf die Protokolle und Register der Betreibungs- und Konkursämter
 
-Vom 06.12.2005 (Stand 01.01.2019)
+Vom 06.12.2005 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -47,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Einen Online-Zugriff erhalten:
 
-- a. das Amt für Migration und Bürgerrecht;
+- a. das Amt für Migration, Integration und Bürgerrecht;
 - b. das Amt für Militär und Bevölkerungsschutz: Wehrpflichtersatz;
 - c. …
 - d. die Zivilkreisgerichte: Inkasso;
