@@ -4,13 +4,12 @@ number: "162.110"
 title: Verordnung zum Personalgesetz
 short: VPG
 language: de
-version: 2021-07-01
-valid_until: 2024-12-31
-version_adopted: 2020-11-24
+version: 2025-01-01
+version_adopted: 2025-02-25
 adopted: 2000-06-27
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5291/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6576/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Verordnung zum Personalgesetz | Staatspersonal: Arbeitsverhältnis
 
 (VPG)
 
-Vom 27. Juni 2000 (Stand 1. Juli 2021)
+Vom 27. Juni 2000 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel Stadt,
 
@@ -153,6 +152,24 @@ erlässt folgende Verordnung:
 <sup>3</sup> Die Reinigung und Instandhaltung der Arbeitskleidung erfolgt grundsätzlich durch die Mitarbeitenden.
 
 <sup>4</sup> Die Dienststellen können für ihre Bereiche ergänzende Regelungen erlassen. Diese unterliegen der Genehmigung durch die Departementsvorsteherin oder den Departementsvorsteher.
+
+#### § 8bbis
+
+**Umkleidezeit, Anrechnung von Arbeitszeit**
+
+<sup>1</sup> Ist von der Anstellungsbehörde die Umkleidung am Arbeitsort angeordnet, gilt diese Umkleidezeit als Arbeitszeit. Die Anordnung erfolgt aus betrieblichen Gründen oder zum Schutz der Persönlichkeit der Mitarbeitenden.
+
+<sup>2</sup> Die Anstellungsbehörde kann angemessene Zeitpauschalen festsetzen.
+
+<sup>3</sup> Die Departementsvorsteherin oder der Departementsvorsteher genehmigt die Anordnung und die Zeitpauschalen.
+
+#### § 8bter
+
+**Umkleidezeit, Geldpauschale**
+
+<sup>1</sup> Die Anstellungsbehörde kann aus sachlichen Gründen anstelle der Anrechnung von Arbeitszeit gemäss § 8b<sup>bis</sup> Abs. 1 für von ihr bezeichnete Funktionen eine Geldpauschale auszahlen, die von der Departementsvorsteherin oder dem Departementsvorsteher zu genehmigen ist. Sie beträgt Fr. 80 und wird zwölf Mal jährlich mit dem Lohn ausbezahlt.
+
+<sup>2</sup> Die Geldpauschale kann dem Beschäftigungsgrad entsprechend und bei unbezahlten Abwesenheiten reduziert werden.
 
 #### § 8c
 
