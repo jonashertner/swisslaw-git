@@ -1,26 +1,29 @@
 ---
 canton: ZG
 number: "161.812"
-title: "Kantonsratsbeschluss betreffend Festsetzung der Zahl der Mitglieder und Ersatzmitglieder sowie der Zahl der Voll-, Teil- und Nebenämter im Kantonsgericht und im Strafgericht für die Amtsperiode 2019–2024"
+title: Kantonsratsbeschluss betreffend Festsetzung der Zahl der Mitglieder und Ersatzmitglieder sowie der Zahl der Vollämter und Teilämter (inklusive Beschäftigungsgrade) im Kantonsgericht und im Strafgericht für die Amtsperiode 2025–2030
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-02-22
+version: 2025-01-01
+version_adopted: 2023-11-30
 adopted: 2023-11-30
 in_force: 2025-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.812"
-pdf: "https://bgs.zg.ch/api/de/versions/1800/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2793/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonsratsbeschluss betreffend Festsetzung der Zahl der Mitglieder und Ersatzmitglieder sowie der Zahl der Voll-, Teil- und Nebenämter im Kantonsgericht und im Strafgericht für die Amtsperiode 2019–2024
+# Kantonsratsbeschluss betreffend Festsetzung der Zahl der Mitglieder und Ersatzmitglieder sowie der Zahl der Vollämter und Teilämter (inklusive Beschäftigungsgrade) im Kantonsgericht und im Strafgericht für die Amtsperiode 2025–2030
 
-Vom 22. Februar 2018 (Stand 1. Januar 2019)
+Vom 30. November 2023 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. l Ziff. 1 und 2 der Kantonsverfassung[^ingress-1] und § 14 Abs. 2 und 3 des Gerichtsorganisationsgesetzes[^ingress-2],
+gestützt auf
+
+• § 41 Abs. 1 Bst. l Ziff. 2 der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
+
+• § 14 Abs. 2–4 des Gesetzes über die Organisation der Zivil- und Strafrechtspflege (Gerichtsorganisationsgesetz, GOG) vom 26. August 2010[^ingress-2],
 
 beschliesst:
 
@@ -29,14 +32,14 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Das Kantonsgericht setzt sich in der Amtsperiode 2019–2024 aus neun Mitgliedern im Vollamt zusammen.
+<sup>1</sup> Das Kantonsgericht setzt sich in der Amtsperiode 2025–2030 aus acht Mitgliedern im Vollamt und vier Mitgliedern im Teilamt zusammen. Die Beschäftigungsgrade der Teilämter betragen einmal 80 Prozent, einmal 60 Prozent und zweimal 50 Prozent.
 
 #### § 2
 
-<sup>1</sup> Das Strafgericht setzt sich in der Amtsperiode 2019–2024 aus vier Mitgliedern im Vollamt zusammen.
+<sup>1</sup> Das Strafgericht setzt sich in der Amtsperiode 2025–2030 aus vier Mitgliedern im Vollamt und einem Mitglied im Teilamt zusammen. Der Beschäftigungsgrad des Teilamts beträgt 70 Prozent.
 
 #### § 3
 
-<sup>1</sup> Die Zahl der Ersatzmitglieder des Kantons- und des Strafgerichts wird für die Amtsperiode 2019–2024 auf sechs festgesetzt.
+<sup>1</sup> Die Zahl der Ersatzmitglieder des Kantons- und des Strafgerichts wird für die Amtsperiode 2025–2030 auf sechs festgesetzt.
 
-GS 2018/010
+GS 2024/006
