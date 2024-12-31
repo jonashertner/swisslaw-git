@@ -4,13 +4,12 @@ number: "185.11"
 title: Finanzausgleichsverordnung
 short: FAV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-09-27
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 2016-03-15
 in_force: 2016-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/185.11"
-pdf: "https://bl.clex.ch/api/de/versions/3659/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4056/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3659/pdf_file"
 
 (FAV)
 
-Vom 15.03.2016 (Stand 01.01.2023)
+Vom 15.03.2016 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -38,7 +37,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt den Vollzug des Finanzausgleichsgesetzes (FAG) vom 25. Juni 2009[^1-1].
 
-<sup>2</sup> Sie wird vom Amt für Daten und Statistik (kurz: Amt) vollzogen.
+<sup>2</sup> Sie wird vom Generalsekretariat der Finanz- und Kirchendirektion vollzogen.
 
 [^1-1]: [SGS 185](https://bl.clex.ch/data/185/de)
 
@@ -100,9 +99,9 @@ beschliesst:
 
 <sup>1</sup> Die Steuererträge der Einwohnergemeinden richten sich nach den Gemeinderechnungen des Kalenderjahres, das dem Finanzausgleichsjahr vorangegangen ist (kurz: Rechnungsjahr).
 
-<sup>2</sup> Die Gemeinde übermittelt dem Amt bis zum 30. April den gemeinderätlichen Entwurf der Jahresrechnung in elektronischer Form via Webplattform. Zudem reicht sie den unterzeichneten Auszug mit den Steuerwerten im PDF-Format ein. Erfolgt die Einreichung nicht fristgerecht, schätzt das Amt die Steuererträge ein.
+<sup>2</sup> Die Gemeinde übermittelt dem Generalsekretariat der Finanz- und Kirchendirektion bis zum 30. April den gemeinderätlichen Entwurf der Jahresrechnung in elektronischer Form via Webplattform. Zudem reicht sie den unterzeichneten Auszug mit den Steuerwerten im PDF-Format ein. Erfolgt die Einreichung nicht fristgerecht, schätzt das Generalsekretariat der Finanz- und Kirchendirektion die Steuererträge ein.
 
-<sup>3</sup> Nimmt eine Gemeinde die Steuerabgrenzung gemäss § 15 Abs. 2 der Gemeinderechnungsverordnung vom 14. Februar 2012[^6-1] nicht korrekt vor, korrigiert das Amt nach Rücksprache mit der Gemeinde die Steuererträge entsprechend.
+<sup>3</sup> Nimmt eine Gemeinde die Steuerabgrenzung gemäss § 15 Abs. 2 der Gemeinderechnungsverordnung vom 14. Februar 2012[^6-1] nicht korrekt vor, korrigiert das Generalsekretariat der Finanz- und Kirchendirektion nach Rücksprache mit der Gemeinde die Steuererträge entsprechend.
 
 <sup>4</sup> Besteht zwischen dem gemeinderätlichen Entwurf der Jahresrechnung und der Jahresrechnung eine erhebliche Differenz bei den für die Steuerkraft massgebenden Beträgen, wird die Differenz bei der Festlegung der Steuerkraft im Kalenderjahr berücksichtigt, das dem Finanzausgleichsjahr folgt.
 
@@ -162,7 +161,7 @@ beschliesst:
 - d. Art und Anteil der Eigenfinanzierung,
 - e. interkommunaler Belastungsvergleich insbesondere hinsichtlich Steuern und Gebühren.
 
-<sup>2</sup> Das Amt lädt die Gesuchstellerin zu einem Gespräch ein.
+<sup>2</sup> Das Generalsekretariat der Finanz- und Kirchendirektion lädt die Gesuchstellerin zu einem Gespräch ein.
 
 [^9-1]: [SGS 180.10](https://bl.clex.ch/data/180.10/de)
 
@@ -170,7 +169,7 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Das Amt erstattet den Einwohnergemeinden und der Öffentlichkeit regelmässig Bericht über ausgerichtete Härtebeiträge.
+<sup>1</sup> Das Generalsekretariat der Finanz- und Kirchendirektion erstattet den Einwohnergemeinden und der Öffentlichkeit regelmässig Bericht über ausgerichtete Härtebeiträge.
 
 ## 4 Lastenabgeltung
 
