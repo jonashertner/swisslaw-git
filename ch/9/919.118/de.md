@@ -3,18 +3,18 @@ sr: "919.118"
 title: Verordnung vom 7. Dezember 1998 über die Beurteilung der Nachhaltigkeit in der Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-58-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Beurteilung der Nachhaltigkeit in der Landwirtschaft
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2024)
+vom 7. Dezember 1998 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -36,14 +36,18 @@ verordnet:
 Diese Verordnung regelt:
 
 - a. die Beurteilung der Agrarpolitik und der Leistungen der Landwirtschaft unter dem Gesichtspunkt der Nachhaltigkeit;
-- b. die Reduktionsziele für Nährstoffverluste; und
-- c. die Methoden zur Berechnung der Stickstoff- und Phosphorverluste sowie der Risiken durch den Einsatz von Pflanzenschutzmitteln.[^1-1]
+- b. die Reduktionsziele für Nährstoffverluste;
+- c. die Methoden zur Berechnung der Stickstoff- und Phosphorverluste sowie der Risiken durch den Einsatz von Pflanzenschutzmitteln;
+- d.[^1-1] die Lieferung von Daten für die zentrale Auswertung von Buchhaltungsdaten und die Verwendung der Daten; und
+- e.[^1-2] die Lieferung von Daten für das regionale und betriebsbezogene Agrarumweltmonitoring und die Verwendung der Daten.[^1-3]
 
 <sup>2</sup> Die Beurteilung betrifft die wirtschaftlichen, ökologischen und sozialen Auswirkungen der Agrarpolitik und der Leistungen der Landwirtschaft. Sie ist periodisch vorzunehmen.
 
 <sup>3</sup> Die Untersuchung und Beurteilung der agrarpolitischen Massnahmen durch öffentliche Forschungsinstitutionen und durch Dritte wird im Rahmen der bewilligten Kredite abgegolten.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+[^1-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^1-3]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 #### Art. 2
 
@@ -54,13 +58,13 @@ Diese Verordnung regelt:
 Untersucht werden:
 
 - a. der Agrarsektor insgesamt;
-- b. repräsentative Referenzbetriebe;
+- b.[^2-1] einzelne Landwirtschaftsbetriebe anhand einer repräsentativen Stichprobe;
 - c. die Regionen;
 - d. die agrarpolitischen Massnahmen.
 
 <sup>2</sup>
 
-Das Bundesamt für Landwirtschaft (Bundesamt) stützt sich dafür auf die folgenden Grundlagen:
+Das Bundesamt für Landwirtschaft (BLW) stützt sich dafür auf die folgenden Grundlagen:[^2-2]
 
 - a. die landwirtschaftliche Gesamtrechnung;
 - b. ökologische und soziale Indikatoren;
@@ -72,28 +76,28 @@ Das Bundesamt für Landwirtschaft (Bundesamt) stützt sich dafür auf die folgen
 
 <sup>3</sup> Es zieht die Evaluationen der landwirtschaftlichen Forschungsanstalten herbei. Es kann die Dienste anderer Bundesstellen oder privater Organisationen in Anspruch nehmen.
 
+[^2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
 ## 2. Abschnitt: Beurteilung der wirtschaftlichen Lage
 
 #### Art. 3
 
 **Agrarsektor**
 
-Das Bundesamt stützt sich für die wirtschaftliche Beurteilung des Agrarsektors hauptsächlich auf die landwirtschaftliche Gesamtrechnung.
+Das BLW[^3-1] stützt sich für die wirtschaftliche Beurteilung des Agrarsektors hauptsächlich auf die landwirtschaftliche Gesamtrechnung.
+
+[^3-1]: Ausdruck gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 4
 
-**Referenzbetriebe**
+**Einzelbetriebliche Beurteilung der wirtschaftlichen Lage**[^4-1]
 
-<sup>1</sup> Das Bundesamt verwendet für die Untersuchung der Referenzbetriebe die Daten aus der zentralen Auswertung von Buchhaltungsdaten nach der Verordnung vom 30. Juni 1993[^4-1] über die Durchführung von statistischen Erhebungen des Bundes.
+<sup>1</sup> Das BLW verwendet für die einzelbetriebliche Beurteilung der wirtschaftlichen Lage die Daten aus der zentralen Auswertung von Buchhaltungsdaten.
 
-<sup>2</sup>
+<sup>2</sup> Dazu nimmt es eine Gegenüberstellung des bäuerlichen Arbeitsverdienstes und des Vergleichseinkommens vor und analysiert die Entwicklung und die Streuung der Produktivitäts- und Rentabilitätsindikatoren der landwirtschaftlichen Betriebe.
 
-Dazu:
-
-- a. nimmt es eine Gegenüberstellung des bäuerlichen Arbeitsverdienstes und des Vergleichseinkommens vor;
-- b. analysiert es die Entwicklung und Streuung der Produktivitäts- und Rentabilitätsindikatoren der landwirtschaftlichen Betriebe.
-
-[^4-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^4-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 #### Art. 5
 
@@ -123,13 +127,47 @@ Dazu:
 
 [^7-1]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 
+#### Art. 7a
+
+**Daten für die zentrale Auswertung von Buchhaltungsdaten**[^7a-1]
+
+<sup>1</sup> Für das einzelbetriebliche Monitoring der Einkommenssituation in der Landwirtschaft bestimmt Agroscope jährlich eine repräsentative Stichprobe von zufällig ausgewählten Landwirtschaftsbetrieben (Stichprobe Einkommenssituation).
+
+<sup>2</sup> Die Stichprobe Einkommenssituation ist repräsentativ, wenn für die gesamte Schweiz und für die einzelnen landwirtschaftlichen Regionen, wie Tal-, Hügel- und Bergregionen, statistisch gesicherte Aussagen möglich sind.
+
+<sup>3</sup> Für die Beurteilung der Wirtschaftlichkeit einzelner Betriebszweige bestimmt Agroscope jährlich eine Stichprobe von ausgewählten Landwirtschaftsbetrieben (Stichprobe Betriebsführung).
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
+#### Art. 7b
+
+**Verknüpfung und Weitergabe der einzelbetrieblichen Buchhaltungsdaten**[^7b-1]
+
+<sup>1</sup> Agroscope teilt den Bewirtschafterinnen und Bewirtschaftern mit, dass ihr Betrieb für die Datenlieferung ausgewählt wurde. Stimmt die Bewirtschafterin oder der Bewirtschafter der Datenlieferung zu, so werden die Daten in pseudonymisierter Form zur Auswertung an Agroscope weitergegeben.
+
+<sup>2</sup>
+
+Agroscope informiert die Bewirtschafterinnen und Bewirtschafter darüber, dass ihre Buchhaltungsdaten:
+
+- a. mit Daten aus Informationssystemen des Bundes verknüpft werden dürfen;
+- b.
+
+  für Studien-, Forschungs- und Ausbildungszwecke weitergegeben werden dürfen an:
+
+  - 1\. Hochschulen und Forschungsinstitutionen,
+  - 2\. Dritte, sofern diese im Auftrag des Bundes handeln.
+
+<sup>3</sup> Die Bewirtschafterinnen und Bewirtschafter werden für die Ablieferung auswertbarer Daten entschädigt.
+
+[^7b-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
 ## 3. Abschnitt: Beurteilung nach ökologischen und sozialen Gesichtspunkten
 
 #### Art. 8
 
 **Umweltleistungen und Auswirkungen auf die Umwelt**
 
-<sup>1</sup> Das Bundesamt beurteilt periodisch die Entwicklung der ökologischen Leistungen der Landwirtschaftsbetriebe, auch im Tierschutzbereich, und die Auswirkungen der Landwirtschaft auf die natürlichen Lebensgrundlagen.
+<sup>1</sup> Das BLW beurteilt periodisch die Entwicklung der ökologischen Leistungen der Landwirtschaftsbetriebe, auch im Tierschutzbereich, und die Auswirkungen der Landwirtschaft auf die natürlichen Lebensgrundlagen.
 
 <sup>2</sup> Es beurteilt anhand von gesamtschweizerischen, regionalen und betriebsbezogenen Ökoindikatoren die quantitativen und qualitativen Auswirkungen der Agrarpolitik. Diese Indikatoren sind mit den internationalen Normen vergleichbar.
 
@@ -139,7 +177,7 @@ Dazu:
 
 <sup>1</sup>
 
-Das Bundesamt stützt sich für die ökologische Beurteilung auf folgende Indikatoren:
+Das BLW stützt sich für die ökologische Beurteilung auf folgende Indikatoren:
 
 - a. Stoff- und Energieumsatz;
 - b. Emissionen umweltschädigender Stoffe;
@@ -147,13 +185,44 @@ Das Bundesamt stützt sich für die ökologische Beurteilung auf folgende Indika
 - d. biologische Vielfalt;
 - e. Nutztierhaltung.
 
-<sup>2</sup> Das Bundesamt erarbeitet die Indikatoren zusammen mit anderen Bundesstellen, den interessierten Kreisen und anderen Institutionen.
+<sup>2</sup> Das BLW erarbeitet die Indikatoren zusammen mit anderen Bundesstellen, den interessierten Kreisen und anderen Institutionen.
+
+#### Art. 9a
+
+**Daten für das regionale und betriebsbezogene Agrarumweltmonitoring**[^9a-1]
+
+<sup>1</sup> Agroscope führt ein regionales und betriebsbezogenes Agrarumweltmonitoring durch. Für das Agrarumweltmonitoring verwendet es verfügbare Daten und Daten aus Umfragen und aus landwirtschaftlichen Farm-Management-Informationssystemen (FMIS).
+
+<sup>2</sup>
+
+Die Datenlieferungen für das Agrarumweltmonitoring sind freiwillig. Agroscope informiert die Bewirtschafterinnen und Bewirtschafter darüber, dass die einzelbetrieblichen Daten:
+
+- a. mit Daten aus Informationssystemen des Bundes und weiteren, nicht personenbezogenen Daten verknüpft werden dürfen;
+- b.
+
+  pseudonymisiert für Studien-, Forschungs- und Ausbildungszwecke weitergegeben werden dürfen an:
+
+  - 1\. Hochschulen und Forschungsinstitutionen,
+  - 2\. Dritte, sofern diese im Auftrag des Bundes handeln.
+
+<sup>3</sup>
+
+Die Datenlieferungen werden wie folgt entschädigt:
+
+- a. Betreiber von FMIS erhalten eine Entschädigung für den Initialaufwand und eine Entschädigung pro gelieferten Betriebsdatensatz.
+- b. Bewirtschafterinnen und Bewirtschafter erhalten bei erfolgter Datenlieferung eine Entschädigung pro Kalenderjahr.
+
+<sup>4</sup> Agroscope definiert die Schnittstelle zur Datenübermittlung aus FMIS.
+
+<sup>5</sup> Es kann die maximale Stichprobengrösse für Daten nach Absatz 2 festlegen.
+
+[^9a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 #### Art. 10
 
 **Beurteilung der sozialen Lage**
 
-<sup>1</sup> Das Bundesamt beurteilt die Entwicklung der landwirtschaftlichen Strukturen und der sozialen Bedingungen in der Landwirtschaft namentlich im Hinblick auf die Erfüllung der gemeinwirtschaftlichen Aufgaben.
+<sup>1</sup> Das BLW beurteilt die Entwicklung der landwirtschaftlichen Strukturen und der sozialen Bedingungen in der Landwirtschaft namentlich im Hinblick auf die Erfüllung der gemeinwirtschaftlichen Aufgaben.
 
 <sup>2</sup> Es verfolgt und beurteilt die Entwicklung entsprechender Indikatoren.
 
@@ -207,7 +276,7 @@ Die Risiken werden jährlich pro Wirkstoff wie folgt berechnet:
 
 #### Art. 11
 
-<sup>1</sup> Das Bundesamt erstellt und veröffentlicht jährlich einen Bericht über die Resultate der Beurteilung der Landwirtschaft unter dem Gesichtspunkt der Nachhaltigkeit.
+<sup>1</sup> Das BLW erstellt und veröffentlicht jährlich einen Bericht über die Resultate der Beurteilung der Landwirtschaft unter dem Gesichtspunkt der Nachhaltigkeit.
 
 <sup>2</sup> Es sind auch gesonderte Veröffentlichungen über die verschiedenen Beurteilungsbereiche möglich.
 

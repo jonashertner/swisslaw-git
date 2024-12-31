@@ -3,18 +3,18 @@ sr: "919.118"
 title: "Ordinanza del 7 dicembre 1998 concernente l'analisi della sostenibilità in agricoltura"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’analisi della sostenibilità in agricoltura
 
-del 7 dicembre 1998 (Stato 1° gennaio 2024)
+del 7 dicembre 1998 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -23,7 +23,7 @@ visti gli articoli 6*a* capoverso 2, 6*b* capoverso 3 e 185 capoverso 2 della le
 ordina:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -37,13 +37,18 @@ La presente ordinanza disciplina:
 
 - a. l’analisi della politica agricola e delle prestazioni dell’agricoltura dal profilo della sostenibilità;
 - b. gli obiettivi di riduzione per le perdite di sostanze nutritive; e
-- c. i metodi per il calcolo delle perdite di azoto e di fosforo nonché dei rischi associati all’uso di prodotti fitosanitari.[^1-1]
+- c. i metodi per il calcolo delle perdite di azoto e di fosforo nonché dei rischi associati all’uso di prodotti fitosanitari;
+- d.[^1-1] la fornitura di dati per l’analisi centralizzata dei dati contabili nonché l’utilizzo dei dati; e
+- e.[^1-2] la fornitura di dati per il monitoraggio agroambientale regionale e aziendale nonché l’utilizzo dei dati.[^1-3]
 
 <sup>2</sup> L’analisi considera le ripercussioni economiche, ecologiche e sociali della politica agricola e delle prestazioni dell’agricoltura. È effettuata periodicamente.
 
-<sup>3</sup> La verifica e l’analisi dei provvedimenti di politica agricola da parte di istituti di ricerca pubblici e da parte di terzi sono indennizzate entro i limiti di credito approvati.
+<sup>3</sup> La verifica e l’analisi dei provvedimenti di politica agricola da parte di istituzioni di ricerca pubbliche e da parte di terzi sono indennizzate entro i limiti di credito approvati.[^1-4]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+[^1-1]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^1-2]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 #### Art. 2
 
@@ -51,16 +56,16 @@ La presente ordinanza disciplina:
 
 <sup>1</sup>
 
-Sono oggetto dell’analisi i seguenti settori:
+Sono oggetto dell’analisi:[^2-1]
 
 - a. il settore agricolo nel suo insieme;
-- b. le aziende agricole di riferimento;
+- b.[^2-2] singole aziende agricole sulla base di un campione rappresentativo;
 - c. le regioni;
 - d. i provvedimenti di politica agricola.
 
 <sup>2</sup>
 
-L’Ufficio federale dell’agricoltura (Ufficio federale) si fonda sugli strumenti d’analisi seguenti:
+L’Ufficio federale dell’agricoltura (UFAG) si fonda sugli strumenti d’analisi seguenti:[^2-3]
 
 - a. il conto economico dell’agricoltura;
 - b. gli indicatori ecologici e sociali;
@@ -70,7 +75,12 @@ L’Ufficio federale dell’agricoltura (Ufficio federale) si fonda sugli strume
 - f. simulazioni e calcoli teorici;
 - g. studi scientifici.
 
-<sup>3</sup> L’Ufficio federale si avvale delle valutazioni effettuate dalle stazioni di ricerche agronomiche. Può avvalersi della collaborazione di altri servizi federali o di organizzazioni private.
+<sup>3</sup> L’UFAG[^2-4] si avvale delle valutazioni effettuate dalle stazioni di ricerche agronomiche. Può avvalersi della collaborazione di altri servizi federali o di organizzazioni private.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^2-4]: Nuova espr. giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Analisi della situazione economica
 
@@ -78,22 +88,17 @@ L’Ufficio federale dell’agricoltura (Ufficio federale) si fonda sugli strume
 
 **Settore agricolo**
 
-Per analizzare la situazione economica del settore agricolo, l’Ufficio federale si basa prevalentemente sul conto economico dell’agricoltura.
+Per analizzare la situazione economica del settore agricolo, l’UFAG si basa prevalentemente sul conto economico dell’agricoltura.
 
 #### Art. 4
 
-**Aziende agricole di riferimento**
+**Valutazione della situazione economica delle singole aziende**[^4-1]
 
-<sup>1</sup> Per analizzare le aziende agricole di riferimento l’Ufficio federale utilizza i dati dell’analisi centralizzata dei dati contabili secondo l’ordinanza del 30 giugno 1993[^4-1] sull’esecuzione di rilevazioni statistiche federali.
+<sup>1</sup> Per valutare la situazione economica delle singole aziende l’UFAG utilizza i dati dell’analisi centralizzata dei dati contabili.
 
-<sup>2</sup>
+<sup>2</sup> A tal fine paragona il reddito del lavoro agricolo al salario comparabile e analizza lo sviluppo e la dispersione degli indicatori di produttività e di redditività delle aziende agricole.
 
-Inoltre:
-
-- a. paragona il reddito del lavoro agricolo al salario comparabile;
-- b. analizza lo sviluppo e la dispersione degli indicatori di produttività e di redditività delle aziende agricole.
-
-[^4-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 #### Art. 5
 
@@ -107,7 +112,7 @@ Inoltre:
 
 **Salario comparabile**
 
-<sup>1</sup> Il salario comparabile è determinato in base ai risultati dell’inchiesta sulla struttura dei salari effettuata ogni due anni dall’Ufficio federale di statistica e in base all’indice di evoluzione dei salari.
+<sup>1</sup> Il salario comparabile è determinato in base ai risultati dell’inchiesta sulla struttura dei salari effettuata ogni due anni dall’UFAG di statistica e in base all’indice di evoluzione dei salari.
 
 <sup>2</sup> Il salario comparabile corrisponde alla media dei salari di tutti gli impiegati attivi nei settori secondario e terziario. Comprende il salario annuale lordo standardizzato, così come i pagamenti speciali e la tredicesima.
 
@@ -123,15 +128,49 @@ Inoltre:
 
 [^7-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 
+#### Art. 7a
+
+**Dati per l’analisi centralizzata dei dati contabili**[^7a-1]
+
+<sup>1</sup> Per monitorare la situazione reddituale delle singole aziende nell’agricoltura ogni anno Agroscope seleziona in modo causale un campione rappresentativo di aziende agricole (campione Situazione reddituale).
+
+<sup>2</sup> Il campione Situazione reddituale è rappresentativo se consente di fare affermazioni statisticamente fondate per tutta la Svizzera e per le singole regioni agricole, come le regioni di pianura, collinare e di montagna.
+
+<sup>3</sup> Per valutare la redditività dei singoli rami aziendali ogni anno Agroscope seleziona un campione di aziende agricole (campione Conduzione aziendale).
+
+[^7a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
+#### Art. 7b
+
+**Collegamento e trasmissione dei dati contabili delle singole aziende**[^7b-1]
+
+<sup>1</sup> Agroscope comunica ai gestori che la loro azienda è stata selezionata per la fornitura di dati. Se il gestore acconsente alla fornitura di dati, questi vengono trasmessi ad Agroscope in forma pseudonimizzata per valutazione.
+
+<sup>2</sup>
+
+Agroscope informa i gestori che i loro dati contabili possono essere:
+
+- a. collegati con dati dei sistemi d’informazione della Confederazione;
+- b.
+
+  trasmessi a scopo di studio, ricerca e formazione a:
+
+  - 1\. scuole universitarie e istituzioni di ricerca,
+  - 2\. terzi, a condizione che operino su mandato della Confederazione.
+
+<sup>3</sup> I gestori sono indennizzati per la fornitura di dati valutabili.
+
+[^7b-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
 ## Sezione 3: Analisi secondo criteri ecologici e sociali
 
 #### Art. 8
 
 **Prestazioni ambientali e ripercussioni sull’ambiente**
 
-<sup>1</sup> L’Ufficio federale analizza periodicamente lo sviluppo delle prestazioni ecologiche delle aziende agricole, anche nel settore della protezione degli animali, e le ripercussioni dell’agricoltura sulle basi vitali naturali.
+<sup>1</sup> L’UFAG analizza periodicamente lo sviluppo delle prestazioni ecologiche delle aziende agricole, anche nel settore della protezione degli animali, e le ripercussioni dell’agricoltura sulle basi vitali naturali.
 
-<sup>2</sup> L’Ufficio federale analizza le ripercussioni quantitative e qualitative della politica agricola sulla base di indicatori ecologici nazionali, regionali e aziendali. Questi indicatori devono essere applicabili alle norme internazionali.
+<sup>2</sup> L’UFAG analizza le ripercussioni quantitative e qualitative della politica agricola sulla base di indicatori ecologici nazionali, regionali e aziendali. Questi indicatori devono essere applicabili alle norme internazionali.
 
 #### Art. 9
 
@@ -139,7 +178,7 @@ Inoltre:
 
 <sup>1</sup>
 
-Per l’analisi ecologica l’Ufficio federale si fonda sui seguenti indicatori:
+Per l’analisi ecologica l’UFAG si fonda sui seguenti indicatori:
 
 - a. utilizzazione di sostanze e di energia;
 - b. emissioni di sostanze nocive per l’ambiente;
@@ -147,13 +186,44 @@ Per l’analisi ecologica l’Ufficio federale si fonda sui seguenti indicatori:
 - d. biodiversità;
 - e. tenuta di animali da reddito.
 
-<sup>2</sup> L’Ufficio federale elabora gli indicatori in collaborazione con altri uffici federali, con le cerchie interessate e con altre istituzioni.
+<sup>2</sup> L’UFAG elabora gli indicatori in collaborazione con altri uffici federali, con le cerchie interessate e con altre istituzioni.
+
+#### Art. 9a
+
+**Dati per il monitoraggio agroambientale regionale e aziendale**[^9a-1]
+
+<sup>1</sup> Agroscope effettua un monitoraggio agroambientale regionale e aziendale. Per tale monitoraggio si fonda sui dati disponibili e quelli provenienti da inchieste e da sistemi d’informazione sulla gestione agricola.
+
+<sup>2</sup>
+
+Le forniture di dati per il monitoraggio agroambientale sono volontarie. Agroscope informa i gestori che i dati delle singole aziende possono essere:
+
+- a. collegati con dati dei sistemi d’informazione della Confederazione e altri dati non personali;
+- b.
+
+  trasmessi, in forma pseudonimizzata, a scopo di studio, ricerca e formazione a:
+
+  - 1\. scuole universitarie e istituzioni di ricerca,
+  - 2\. terzi, a condizione che operino su mandato della Confederazione.
+
+<sup>3</sup>
+
+Le forniture di dati sono indennizzate come segue:
+
+- a. i gestori di sistemi d’informazione sulla gestione agricola ricevono un indennizzo per il dispendio iniziale e uno per ogni serie di dati aziendali fornita;
+- b. i gestori di aziende ricevono, ad avvenuta fornitura dei dati, un indennizzo per anno civile.
+
+<sup>4</sup> Agroscope definisce l’interfaccia per la trasmissione dei dati provenienti da sistemi d’informazione sulla gestione agricola.
+
+<sup>5</sup> Può definire la dimensione massima del campione per i dati di cui al capoverso 2.
+
+[^9a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 #### Art. 10
 
 **Analisi della situazione sociale**
 
-<sup>1</sup> L’Ufficio federale analizza l’evoluzione delle strutture agricole e delle condizioni sociali nell’agricoltura considerando in particolare i compiti di interesse generale che essa è chiamata a svolgere.
+<sup>1</sup> L’UFAG analizza l’evoluzione delle strutture agricole e delle condizioni sociali nell’agricoltura considerando in particolare i compiti di interesse generale che essa è chiamata a svolgere.
 
 <sup>2</sup> Osserva e analizza l’evoluzione dei relativi indicatori.
 
@@ -161,7 +231,7 @@ Per l’analisi ecologica l’Ufficio federale si fonda sui seguenti indicatori:
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+[^sec3a-1]: Introdotta dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 #### Art. 10a
 
@@ -172,7 +242,7 @@ Rispetto al valore medio degli anni 2014–2016, entro il 2030 le perdite sono r
 - a.[^10a-1] azoto: di almeno il 15 per cento;
 - b. fosforo: di almeno il 20 per cento.
 
-[^10a-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 707](https://fedlex.data.admin.ch/eli/oc/2023/707)).
+[^10a-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 707](https://fedlex.data.admin.ch/eli/oc/2023/707)).
 
 #### Art. 10b
 
@@ -207,7 +277,7 @@ I rischi sono calcolati annualmente per principio attivo come segue:
 
 #### Art. 11
 
-<sup>1</sup> Ogni anno l’Ufficio federale redige e pubblica un rapporto che espone i risultati dell’analisi dell’agricoltura dal profilo della sostenibilità.
+<sup>1</sup> Ogni anno l’UFAG redige e pubblica un rapporto che espone i risultati dell’analisi dell’agricoltura dal profilo della sostenibilità.
 
 <sup>2</sup> I diversi settori di osservazione e di analisi possono essere oggetto di pubblicazioni particolari.
 

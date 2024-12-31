@@ -3,18 +3,18 @@ sr: "919.118"
 title: "Ordonnance du 7 décembre 1998 sur l'évaluation de la durabilité de l'agriculture"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’évaluation de la durabilité de l’agriculture
 
-du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2024)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -37,13 +37,17 @@ La présente ordonnance règle:
 
 - a. l’évaluation de la politique agricole et des prestations de l’agriculture sous l’angle de la durabilité;
 - b. les objectifs de réduction des pertes d’éléments fertilisants, et
-- c. les méthodes de calcul des pertes d’azote et de phosphore et des risques liés à l’utilisation de produits phytosanitaires.[^1-1]
+- c. les méthodes de calcul des pertes d’azote et de phosphore et des risques liés à l’utilisation de produits phytosanitaires;
+- d.[^1-1] la livraison de données pour le dépouillement centralisé des données comptables, ainsi que l’utilisation des données, et
+- e.[^1-2] la livraison de données pour le monitoring agro-environnemental à l’échelon de la région et de l’exploitation, ainsi que l’utilisation des données.[^1-3]
 
 <sup>2</sup> L’évaluation porte sur les implications économiques, écologiques et sociales de la politique agricole et des prestations de l’agriculture. Elle est effectuée périodiquement.
 
 <sup>3</sup> Les analyses et évaluations des mesures de politique agricole réalisées par des institutions publiques de recherches ou par des tiers sont financées dans les limites des crédits autorisés.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+[^1-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^1-2]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 #### Art. 2
 
@@ -54,13 +58,13 @@ La présente ordonnance règle:
 Sont soumis à l’analyse:
 
 - a. le secteur agricole dans son ensemble;
-- b. les exploitations de référence représentatives;
+- b.[^2-1] un échantillon représentatif d’exploitations agricoles;
 - c. les régions;
 - d. les mesures de politique agricole.
 
 <sup>2</sup>
 
-L’Office fédéral de l’agriculture (office) utilise à cet effet les instruments suivants:
+L’Office fédéral de l’agriculture (OFAG) utilise à cet effet les instruments suivants:[^2-2]
 
 - a. les comptes économiques de l’agriculture;
 - b. des indicateurs écologiques et sociaux;
@@ -72,28 +76,28 @@ L’Office fédéral de l’agriculture (office) utilise à cet effet les instru
 
 <sup>3</sup> Il se fonde sur les évaluations effectuées par les stations de recherches agronomiques. Il peut s’assurer le concours d’autres services fédéraux ou organisations privées.
 
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
 ## Section 2 Évaluation de la situation économique
 
 #### Art. 3
 
 **Secteur agricole**
 
-L’office analyse l’évolution économique du secteur agricole en se basant essentiellement sur les comptes économiques de l’agriculture.
+L’OFAG[^3-1] analyse l’évolution économique du secteur agricole en se basant essentiellement sur les comptes économiques de l’agriculture.
+
+[^3-1]: Nouvelle expression selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
-**Exploitations de référence**
+**Examen de la situation économique à l’échelon de l’exploitation**[^4-1]
 
-<sup>1</sup> L’office analyse les résultats des exploitations de référence sur la base des données collectées dans le cadre du dépouillement centralisé de données comptables en vertu de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^4-1].
+<sup>1</sup> L’OFAG utilise les données du dépouillement centralisé des données comptables pour examiner la situation économique à l’échelon de l’exploitation.
 
-<sup>2</sup>
+<sup>2</sup> À cet effet, il compare le revenu du travail paysan au salaire comparable et examine l’évolution et la dispersion des indicateurs de productivité et de viabilité des exploitations agricoles.
 
-À cet effet, il:
-
-- a. compare le revenu du travail paysan au salaire comparable;
-- b. examine l’évolution et la dispersion des indicateurs de productivité et de viabilité des exploitations agricoles.
-
-[^4-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 #### Art. 5
 
@@ -117,11 +121,45 @@ L’office analyse l’évolution économique du secteur agricole en se basant e
 
 **Évaluation régionale**
 
-<sup>1</sup> L’office évalue la situation économique de l’agriculture selon les régions.
+<sup>1</sup> L’OFAG évalue la situation économique de l’agriculture selon les régions.
 
 <sup>2</sup> Les régions retenues correspondent aux zones définies dans l’ordonnance du 7 décembre 1998 sur les zones agricoles[^7-1] ou à un groupement de ces dernières.
 
 [^7-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+
+#### Art. 7a
+
+**Données pour le dépouillement centralisé des données comptables**[^7a-1]
+
+<sup>1</sup> En vue du monitoring de la situation du revenu dans l’agriculture à l’échelon de l’exploitation, Agroscope sélectionne chaque année de manière aléatoire un échantillon représentatif d’exploitations agricoles (échantillon Situation du revenu).
+
+<sup>2</sup> L’échantillon Situation du revenu est réputé représentatif lorsqu’il permet de tirer des conclusions fiables au plan statistique pour l’ensemble de la Suisse et pour les différentes régions agricoles telles que la région de plaine, la région des collines et la région de montagne.
+
+<sup>3</sup> En vue de l’évaluation de la rentabilité des différentes branches de production, Agroscope sélectionne chaque année un échantillon d’exploitations agricoles (échantillon Gestion de l’exploitation).
+
+[^7a-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
+#### Art. 7b
+
+**Appariement et transmission des données comptables des exploitations individuelles**[^7b-1]
+
+<sup>1</sup> Agroscope informe les exploitants que leur exploitation a été sélectionnée pour la livraison de données. Si l’exploitant consent à la livraison des données, celles-ci sont transmises à Agroscope sous forme pseudonymisée en vue du dépouillement.
+
+<sup>2</sup>
+
+Agroscope informe les exploitants que leurs données comptables:
+
+- a. peuvent être appariées avec les données des systèmes d’information de la Confédération;
+- b.
+
+  peuvent être transmises à des fins d’étude, de recherche ou de formation:
+
+  - 1\. à des hautes écoles et des institutions de recherche,
+  - 2\. à des tiers, si ceux-ci sont mandatés par la Confédération.
+
+<sup>3</sup> Les exploitants sont indemnisés pour la livraison des données exploitables.
+
+[^7b-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
 
 ## Section 3 Évaluation sous les aspects écologiques et sociaux
 
@@ -129,7 +167,7 @@ L’office analyse l’évolution économique du secteur agricole en se basant e
 
 **Prestations écologiques et effets sur l’environnement**
 
-<sup>1</sup> L’office effectue périodiquement une analyse de l’évolution des prestations écologiques des exploitations agricoles, y compris dans le domaine de la protection des animaux, ainsi que des effets de l’agriculture sur les ressources naturelles.
+<sup>1</sup> L’OFAG effectue périodiquement une analyse de l’évolution des prestations écologiques des exploitations agricoles, y compris dans le domaine de la protection des animaux, ainsi que des effets de l’agriculture sur les ressources naturelles.
 
 <sup>2</sup> Il évalue au moyen des indicateurs écologiques nationaux, régionaux ou concernant les exploitations agricoles les effets quantitatifs et qualitatifs de la politique agricole. Ces indicateurs sont comparables aux normes internationales.
 
@@ -139,7 +177,7 @@ L’office analyse l’évolution économique du secteur agricole en se basant e
 
 <sup>1</sup>
 
-L’office se base pour l’évaluation écologique notamment sur les indicateurs relatifs:
+L’OFAG se base pour l’évaluation écologique notamment sur les indicateurs relatifs:
 
 - a. à l’utilisation des substances et de l’énergie;
 - b. aux émissions de substances nuisibles;
@@ -149,11 +187,42 @@ L’office se base pour l’évaluation écologique notamment sur les indicateur
 
 <sup>2</sup> Il élabore les indicateurs avec le concours des autres organes fédéraux, des milieux intéressés et d’autres institutions.
 
+#### Art. 9a
+
+**Données pour le monitoring agro-environnemental à l’échelon de la région et de l’exploitation**[^9a-1]
+
+<sup>1</sup> Agroscope réalise un monitoring agro-environnemental à l’échelon de la région et de l’exploitation. Il utilise à cet effet les données disponibles, ainsi que des données tirées d’enquêtes et de systèmes d’information de gestion agricole.
+
+<sup>2</sup>
+
+Les livraisons de données pour le monitoring agro-environnemental sont facultatives. Agroscope informe les exploitants que leurs données:
+
+- a. peuvent être appariées avec les données des systèmes d’information de la Confédération et avec d’autres données ne se rapportant pas à des personnes;
+- b.
+
+  peuvent être transmises sous forme pseudonymisée à des fins d’étude, de recherche ou de formation:
+
+  - 1\. à des hautes écoles et des institutions de recherche,
+  - 2\. à des tiers, si ceux-ci sont mandatés par la Confédération.
+
+<sup>3</sup>
+
+Les livraisons de données sont indemnisées comme suit:
+
+- a. les gestionnaires de systèmes d’information de gestion agricole obtiennent une indemnité pour les charges initiales et une indemnité pour chaque jeu de données livré;
+- b. les exploitants qui ont livré des données obtiennent une indemnité par année civile.
+
+<sup>4</sup> Agroscope définit l’interface de transmission des données à partir des systèmes d’information de gestion agricole.
+
+<sup>5</sup> Il peut déterminer la taille maximale de l’échantillon pour les données visées à l’al. 2.
+
+[^9a-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+
 #### Art. 10
 
 **Évaluation de la situation sociale**
 
-<sup>1</sup> L’office analyse l’évolution des structures de l’agriculture et de ses conditions sociales, notamment au regard des tâches d’intérêt général.
+<sup>1</sup> L’OFAG analyse l’évolution des structures de l’agriculture et de ses conditions sociales, notamment au regard des tâches d’intérêt général.
 
 <sup>2</sup> Il observe et analyse l’évolution d’indicateurs relatifs aux critères sociaux.
 
@@ -207,7 +276,7 @@ Les risques sont calculés chaque année comme suit pour chaque substance active
 
 #### Art. 11
 
-<sup>1</sup> L’office établit et publie chaque année un rapport exposant les résultats de l’évaluation de la situation de l’agriculture sous l’angle de la durabilité.
+<sup>1</sup> L’OFAG établit et publie chaque année un rapport exposant les résultats de l’évaluation de la situation de l’agriculture sous l’angle de la durabilité.
 
 <sup>2</sup> Les divers champs d’évaluation peuvent faire l’objet de publications particulières.
 
