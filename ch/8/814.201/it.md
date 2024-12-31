@@ -4,11 +4,11 @@ title: Ordinanza del 28 ottobre 1998 sulla protezione delle acque (OPAc)
 short: OPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: it
-version: 2023-02-01
+version: 2025-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it"
 
 (OPAc)
 
-del 28 ottobre 1998 (Stato 1° febbraio 2023)
+del 28 ottobre 1998 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1565,7 +1565,7 @@ Gli impianti e gli elementi d’impianto costruiti conformemente alle prescrizio
 
 <sup>1</sup> I Cantoni determinano entro il 31 dicembre 2018 lo spazio riservato alle acque conformemente agli articoli 41*a* e 41*b*.
 
-<sup>3</sup> Invece dei criteri di cui all’articolo 54*b* capoverso 1 lettere a e b, l’ammontare delle indennità per le rivitalizzazioni realizzate prima del 31 dicembre 2024 può essere stabilito in funzione dell’entità delle misure.[^u2-2]
+<sup>3</sup> Invece dei criteri di cui all’articolo 54*b* capoverso 1 lettere a e b, l’ammontare delle indennità per le rivitalizzazioni di acque realizzate prima del 31 dicembre 2028 può essere stabilito in funzione dell’entità delle misure.[^u2-2]
 
 <sup>4</sup> L’articolo 54*b* capoverso 5 non si applica alle rivitalizzazioni realizzate prima del 31 dicembre 2015.
 
@@ -1575,7 +1575,7 @@ Gli impianti e gli elementi d’impianto costruiti conformemente alle prescrizio
 - b. 20 metri, per i corsi d’acqua con un fondo dell’alveo di larghezza superiore ai 12 metri;
 - c. 20 metri, per le acque stagnanti con una superficie superiore a 0,5 ettari.
 
-[^u2-2]: Nuovo testo giusta il n. I 1 dell’O del 17 apr. 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Nuovo testo giusta il n. I 1 dell’O del 31 mag. 2024 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2025–2028, in vigore dal 1° gen. 2025 ([RU 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
 
 ## Disposizione transitoria relativa alla modifica del 25 maggio 2011
 
@@ -1837,11 +1837,11 @@ Allegato 3.1[^t-2]
 <tr><td>2</td><td>Richiesta di ossigeno chimica *(COD)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE: – concentrazione in uscita: 60 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 80 % Per acque di scarico da impianti di 10 000 AE e più: – concentrazione in uscita: 45 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 85 %</td></tr>
 <tr><td>3</td><td>Carbonio organico disciolto *(DOC)*</td><td>Per acque di scarico da impianti di 2000 e più AE: – concentrazione in uscita: 10 mg/l ed – efficienza depurativa: 85 %, espressa come segue:</td></tr>
 <tr><td></td><td></td><td>100 • (1 – mg DOC nelle acque di scarico depurate mg carbonio organico totale nelle acque di scarico non trattate</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/it/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
 <tr><td>4</td><td>Trasparenza *(secondo Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e* *NH**<sub>3</sub>* – *N)*</td><td>Se le concentrazioni di ammonio nelle acque di scarico possono avere effetti pregiudizievoli sulla qualità di un corso d’acqua, per una temperatura dell’acqua superiore ai 10 °C valgono i seguenti valori: – concentrazione in uscita: 2 mg/l N ed – efficienza depurativa: 90 %, espressa come segue:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/it/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In questi casi si deve eseguire una nitrificazione durante tutto l’anno. *Nota:* il valore dell’azoto ottenuto con il metodo di Kjeldahl corrisponde alla somma dell’azoto contenuto nei sali di ammonio, nell’ammoniaca e nei composti organici azotati.</td></tr>
 <tr><td>6</td><td>Nitrito *(NO**<sub>2</sub>*<sup>–</sup> - *N)*</td><td>0.3 mg/l N (valore indicativo)</td></tr>
 <tr><td>7</td><td>Composti organici alogenati adsorbibili *(AOX)*</td><td>0.08 mg/l X Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>

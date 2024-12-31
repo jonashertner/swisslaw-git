@@ -4,11 +4,11 @@ title: Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
 short: GSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: de
-version: 2023-02-01
+version: 2025-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/de"
 
 (GSchV)
 
-vom 28. Oktober 1998 (Stand am 1. Februar 2023)
+vom 28. Oktober 1998 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1362,6 +1362,8 @@ Abgeltungen können einzeln gewährt werden, wenn die Massnahmen:
 
 **Ausbildung von Fachpersonal und Aufklärung der Bevölkerung**
 
+<sup>1</sup>
+
 Die Finanzhilfen für die Ausbildung von Fachpersonal (Art. 64 Abs. 2 GSchG) betragen:
 
 - a. bis zu 25 Prozent der Kosten;
@@ -1559,7 +1561,7 @@ Anlagen und Anlageteile, die vor Inkrafttreten dieser Änderung vorschriftsgemä
 
 <sup>1</sup> Die Kantone legen den Gewässerraum gemäss den Artikeln 41*a* und 41*b* bis zum 31. Dezember 2018 fest.
 
-<sup>3</sup> Anstelle der Kriterien nach Artikel 54*b* Absatz 1 Buchstaben a und b kann sich die Höhe der Abgeltungen an Revitalisierungen, die vor dem 31. Dezember 2024 durchgeführt werden, nach dem Umfang der Massnahmen richten.[^u2-2]
+<sup>3</sup> Anstelle der Kriterien nach Artikel 54*b* Absatz 1 Buchstaben a und b kann sich die Höhe der Abgeltungen an Revitalisierungen von Gewässern, die vor dem 31. Dezember 2028 durchgeführt werden, nach dem Umfang der Massnahmen richten.[^u2-2]
 
 <sup>4</sup> Artikel 54*b* Absatz 5 gilt nicht für Revitalisierungen, die vor dem 31. Dezember 2015 durchgeführt werden.
 
@@ -1569,7 +1571,7 @@ Anlagen und Anlageteile, die vor Inkrafttreten dieser Änderung vorschriftsgemä
 - b. 20 m bei Fliessgewässern mit einer bestehenden Gerinnesohle von mehr als 12 m Breite;
 - c. 20 m bei stehenden Gewässern mit einer Wasserfläche von mehr als 0,5 ha.
 
-[^u2-2]: Fassung gemäss Ziff. I 1 der V vom 17. April 2019 über Anpassungen des Verordnungsrechts an die Weiterentwicklung der Programmvereinbarungen im Umweltbereich für die Programmperiode 2020–2024, in Kraft seit 1. Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Fassung gemäss Ziff. I 1 der V vom 31. Mai 2024 über Anpassungen des Verordnungsrechts an die Weiterentwicklung der Programmvereinbarungen im Umweltbereich für die Programmperiode 2025–2028, in Kraft seit 1. Jan. 2025 ([AS 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
 
 ## Übergangsbestimmung zur Änderung vom 25. Mai 2011
 
@@ -1598,7 +1600,7 @@ Die kantonale Behörde kann für Betriebe, die aufgrund des Verbots der Fütteru
 
 [^u5-1]
 
-[^u5-1]: AS **20****23** 3
+[^u5-1]: [AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)
 
 Die Kantone erheben und kontrollieren die Befüll- und Waschplätze nach Artikel 47*a* erstmals bis spätestens zum 31. Dezember 2026. Festgestellte Mängel sind je nach Schwere der Gewässergefährdung umgehend, spätestens jedoch bis zum 31. Dezember 2028, zu beheben. Bis zum Abschluss dieser erstmaligen Kontrollen erfolgt die Berichterstattung (Art. 47*a* Abs. 3) jährlich.
 
@@ -1830,20 +1832,20 @@ Anhang 3.1[^t-2]
 ### 2 Allgemeine Anforderungen
 
 <table>
-<tr><th>Nr.</th><th>Parameter</th><th colspan="4">Anforderungen</th><th></th><th colspan="3"></th></tr>
-<tr><td>1</td><td>Gesamte ungelöste Stoffe</td><td colspan="6">Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 20 mg/l Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 15 mg/l</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>2</td><td>Chemischer Sauerstoffbedarf *(CSB)*</td><td colspan="6">Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 60 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 80 % Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 45 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 85 %</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><th>3</th><th>Gelöster organischer Kohlenstoff *(DOC)*</th><th colspan="4">Für Abwasser aus Anlagen ab 2000 EW gilt: – Abflusskonzentration: 10 mg/l und – Reinigungseffekt: 85 %, ausgedrückt in</th><th></th><th colspan="3"></th></tr>
-<tr><th></th><th></th><th>100 • (1 –</th><th>mg DOC im gereinigten Abwasser mg Totaler organischer Kohlenstoff im Rohabwasser</th><th colspan="6">)</th></tr>
-<tr><th></th><th></th><th colspan="4">Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</th><th></th><th colspan="3"></th></tr>
-<tr><th>4</th><th>Durchsichtigkeit *(nach Snellen)*</th><th colspan="4">30 cm</th><th></th><th colspan="3"></th></tr>
-<tr><th>5</th><th>Ammonium *(Summe von* *NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</th><th colspan="4">Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</th><th></th><th colspan="3"></th></tr>
-<tr><th></th><th></th><th>100 • (1 –</th><th colspan="2">mg Ammonium - N im gereinigten Abwasser mg Kjeldahl - N im Rohabwasser</th><th colspan="5">)</th></tr>
-<tr><th></th><th></th><th colspan="4">In diesen Fällen ist die Nitrifikation ganzjährig durchzuführen. *Hinweis:* Der Kjeldahl-Stickstoff ist die Summe von Ammonium-Stickstoff, Ammoniak-Stickstoff und organischem Stickstoff.</th><th></th><th colspan="3"></th></tr>
-<tr><th>6</th><th>Nitrit *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</th><th colspan="4">0,3 mg/l N (Richtwert)</th><th></th><th colspan="3"></th></tr>
-<tr><th>7</th><th>Adsorbierbare organische Halogenverbindungen *(AOX)*</th><th colspan="4">0,08 mg/l X. Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</th><th></th><th colspan="3"></th></tr>
-<tr><td>8</td><td>Organische Stoffe, die bereits in tiefen Konzentrationen Gewässer verunreinigen können *(organische Spurenstoffe)*</td><td colspan="6">Der Reinigungseffekt, bezogen auf Rohabwasser und gemessen anhand von ausgewählten Substanzen, muss 80 % betragen für Abwasser aus: – Anlagen ab 80 000 angeschlossenen Einwohnern; – Anlagen ab 24 000 angeschlossenen Einwohnern im Einzugsgebiet von Seen; der Kanton kann Ausnahmen bewilligen, wenn der Nutzen einer Reinigung für die Umwelt und für die Trinkwasserversorgung klein ist; – Anlagen ab 8000 angeschlossenen Einwohnern, die in ein Fliessgewässer mit einem Anteil von mehr als 10 % bezüglich organische Spurenstoffe ungereinigtem Abwasser einleiten; der Kanton bezeichnet die Anlagen, die Massnahmen treffen müssen, im Rahmen einer Planung im Einzugsgebiet; – anderen Anlagen ab 8000 angeschlossenen Einwohnern, wenn eine Reinigung aufgrund besonderer hydrogeologischer Verhältnisse erforderlich ist; –[^annex31-lvlu1-lvl2-1] … Das Departement legt in einer Verordnung fest, anhand welcher Substanzen der Reinigungseffekt gemessen und wie er berechnet wird.</td><td></td><td></td></tr>
-<tr><td>9</td><td>Biochemischer Sauerstoffbedarf *(BSB**<sub>5</sub>**, mit* *Nitrifikationshemmung)*</td><td colspan="6">Für Abwasser aus Anlagen mit weniger als 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 20 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 % Für Abwasser aus Anlagen ab 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 15 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 %</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><th>Nr.</th><th>Parameter</th><th>Anforderungen</th></tr>
+<tr><td>1</td><td>Gesamte ungelöste Stoffe</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 20 mg/l Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 15 mg/l</td></tr>
+<tr><td>2</td><td>Chemischer Sauerstoffbedarf *(CSB)*</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 60 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 80 % Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 45 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 85 %</td></tr>
+<tr><td>3</td><td>Gelöster organischer Kohlenstoff *(DOC)*</td><td>Für Abwasser aus Anlagen ab 2000 EW gilt: – Abflusskonzentration: 10 mg/l und – Reinigungseffekt: 85 %, ausgedrückt in</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
+<tr><td>4</td><td>Durchsichtigkeit *(nach Snellen)*</td><td>30 cm</td></tr>
+<tr><td>5</td><td>Ammonium *(Summe von* *NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</td><td>Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/de/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>In diesen Fällen ist die Nitrifikation ganzjährig durchzuführen. *Hinweis:* Der Kjeldahl-Stickstoff ist die Summe von Ammonium-Stickstoff, Ammoniak-Stickstoff und organischem Stickstoff.</td></tr>
+<tr><td>6</td><td>Nitrit *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0,3 mg/l N (Richtwert)</td></tr>
+<tr><td>7</td><td>Adsorbierbare organische Halogenverbindungen *(AOX)*</td><td>0,08 mg/l X. Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
+<tr><td>8</td><td>Organische Stoffe, die bereits in tiefen Konzentrationen Gewässer verunreinigen können *(organische Spurenstoffe)*</td><td>Der Reinigungseffekt, bezogen auf Rohabwasser und gemessen anhand von ausgewählten Substanzen, muss 80 % betragen für Abwasser aus: – Anlagen ab 80 000 angeschlossenen Einwohnern; – Anlagen ab 24 000 angeschlossenen Einwohnern im Einzugsgebiet von Seen; der Kanton kann Ausnahmen bewilligen, wenn der Nutzen einer Reinigung für die Umwelt und für die Trinkwasserversorgung klein ist; – Anlagen ab 8000 angeschlossenen Einwohnern, die in ein Fliessgewässer mit einem Anteil von mehr als 10 % bezüglich organische Spurenstoffe ungereinigtem Abwasser einleiten; der Kanton bezeichnet die Anlagen, die Massnahmen treffen müssen, im Rahmen einer Planung im Einzugsgebiet; – anderen Anlagen ab 8000 angeschlossenen Einwohnern, wenn eine Reinigung aufgrund besonderer hydrogeologischer Verhältnisse erforderlich ist; –[^annex31-lvlu1-lvl2-1] … Das Departement legt in einer Verordnung fest, anhand welcher Substanzen der Reinigungseffekt gemessen und wie er berechnet wird.</td></tr>
+<tr><td>9</td><td>Biochemischer Sauerstoffbedarf *(BSB**<sub>5</sub>**, mit* *Nitrifikationshemmung)*</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 20 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 % Für Abwasser aus Anlagen ab 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 15 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 %</td></tr>
 </table>
 
 [^annex31-lvlu1-lvl2-1]: In Kraft am 1. Jan. 2028 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).

@@ -4,11 +4,11 @@ title: Waters Protection Ordinance of 28 October 1998 (WPO)
 short: WPO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: en
-version: 2023-02-01
+version: 2025-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (WPO)
 
-of 28 October 1998 (Status as of 1 February 2023)
+of 28 October 1998 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -770,7 +770,6 @@ The width of the space provided for waters calculated in accordance with paragra
 Provided protection against flooding is guaranteed, the width of the space provided for waters may be adapted:
 
 - a. to the structural conditions in densely built-up areas;
-
 - b.
 
   to the topographic conditions on stretches of waters:
@@ -890,7 +889,7 @@ They shall set out in a plan for a period of 20 years the stretches of water to 
 
 <sup>4</sup> They shall renew the plans under paragraph 2 every 12 years for a period of 20 years and shall submit these plans to the FOEN one year before their adoption so that the FOEN may comment thereon.
 
-[^41d-1]: Amended by No I 4 of the O of 28 Jan. 2015 on Amendments to Ordinance Law on the Environment, in particular in relation to the programme agreements for the programme period 2016-2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^41d-1]: Amended by No I 4 of the O of 28 Jan. 2015 on Amendments to Secondary Legislation on the Environment, in particular in relation to the programme agreements for the programme period 2016-2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 ### Section 2 Hydropeaking
 
@@ -1564,7 +1563,7 @@ Installations and parts of installation that were constructed in accordance with
 
 <sup>1</sup> The cantons shall specify the space provided for waters in accordance with Articles 41*a* and 41*b* by 31 December 2018.
 
-<sup>3</sup> Instead of the criteria under Article 54*b* paragraph 1 letters a and b, the level of the compensatory payments for rehabilitation operations carried out before 31 December 2024 may be determined by the extent of the measures.[^u2-2]
+<sup>3</sup> Instead of the criteria under Article 54*b* paragraph 1 letters a and b, the level of the compensatory payments for rehabilitation operations carried out on watercourses before 31 December 2028 may be determined by the extent of the measures.[^u2-2]
 
 <sup>4</sup> Article 54*b* paragraph 5 does not apply to rehabilitation operations carried out before 31 December 2015.
 
@@ -1574,7 +1573,7 @@ Installations and parts of installation that were constructed in accordance with
 - b. 20 m in the case of watercourses with an existing channel bed of more than 12 m width;
 - c. 20 m in the case of standing waters with a surface area of more than 0.5 ha.
 
-[^u2-2]: Amended by No I 1 of the O of 17 April 2019 on Amendments to Ordinance Law on the Environment, in particular in relation to the programme agreements for the programme period 2020-2024, in force since 1 Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
+[^u2-2]: Amended by No I 1 of the O of 31 May 2024 on Amendments to Secondary Legislation on the Environment, in particular in relation to the programme agreements for the programme period 2025–2028, in force since 1 Jan. 2025 ([AS 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
 
 ## Transitional Provision to the Amendment of 25 May 2011
 
@@ -1838,9 +1837,9 @@ Annex 3.1[^t-2]
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
 <tr><td>1</td><td>Total suspended solids</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 20 mg/l For waste water from plants from 10 000 PE the following applies: – discharge concentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemical oxygen demand *(COD)*</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 60 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 80% For waste water from plants of 10.000 PE or over the following requirements apply: – discharge concentration: 45 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 85%</td></tr>
-<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
+<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>4</td><td>Transparency *(Snellen method)*</td><td>30 cm</td></tr>
-<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
+<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250101/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
 <tr><td>6</td><td>Nitrite *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0.3 mg/l N (guide value)</td></tr>
 <tr><td>7</td><td>Adsorbable organic halogen *(AOX)*</td><td>0.08 mg/l X. If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>8</td><td>Organic substances that can pollute waters even in low concentrations *(organic trace substances)*</td><td>The removal efficiency with respect to raw waste water and measured using selected substances must amount to 80 % for waste water from: – plants with 80 000 or more connected residents; – plants with 24 000 or more connected residents in the catchment area of lakes; the canton may authorise exceptions if the benefit of removal for the environment and for the drinking water supply is negligible; – plants with 8000 or more connected residents that discharge into a watercourse containing more than 10 % waste water untreated for organic trace substances; the canton shall identify the plants that must take measures as part of a plan for the catchment area; – other plants with 8000 or more connected residents if removal is required due to special hydrogeological conditions; – ...[^annex31-lvlu1-lvl2-1] The Department shall specify the substances to be used to measure the removal efficiency in an ordinance, and how efficiency is calculated.</td></tr>
