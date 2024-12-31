@@ -4,13 +4,12 @@ number: "110.300"
 title: "Ordinaziun tar l'execuziun da la lescha federala davart la protecziun da la vopna svizra e d'auters segns publics"
 short: "ordinaziun chantunala davart la protecziun da las vopnas, OCPV"
 language: rm
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-04-26
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2016-04-26
 in_force: 2017-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2712/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2712/pdf_file"
 
 (ordinaziun chantunala davart la protecziun da las vopnas, OCPV)
 
-dals 26-04-2016 (versiun dals 01-01-2017)
+dals 26-04-2016 (versiun dals 01-01-2025)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -66,6 +65,6 @@ relaschada da la regenza ils 26 d'avrigl 2016
 
 **Instanza giudiziala**
 
-<sup>1</sup> Per plants civils tenor la lescha federala davart la protecziun da las vopnas è la dretgira chantunala cumpetenta sco unica instanza chantunala.
+<sup>1</sup> Per plants civils tenor la Lescha federala davart la protecziun da las vopnas è cumpetenta la Dretgira superiura sco unica instanza chantunala.
 
 2016-004

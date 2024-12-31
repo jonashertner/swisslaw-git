@@ -4,13 +4,12 @@ number: "110.300"
 title: "Ordinanza relativa all'esecuzione della legge federale sulla protezione dello stemma della Svizzera e di altri segni pubblici"
 short: "Ordinanza cantonale sulla protezione degli stemmi, OCPSt"
 language: it
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-04-26
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2016-04-26
 in_force: 2017-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2712/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3449/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2712/pdf_file"
 
 (Ordinanza cantonale sulla protezione degli stemmi, OCPSt)
 
-del 26.04.2016 (stato 01.01.2017)
+del 26.04.2016 (stato 01.01.2025)
 
 emanata dal Governo il 26 aprile 2016
 
@@ -66,6 +65,6 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Autorità giudiziaria**
 
-<sup>1</sup> Il Tribunale cantonale è l'unica istanza cantonale competente per decidere in merito ad azioni civili secondo la legge federale sulla protezione degli stemmi.
+<sup>1</sup> Il Tribunale d'appello è l'unica istanza cantonale competente per decidere in merito ad azioni civili secondo la legge federale sulla protezione degli stemmi.
 
 2016-004

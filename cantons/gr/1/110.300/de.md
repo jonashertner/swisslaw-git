@@ -4,13 +4,12 @@ number: "110.300"
 title: Verordnung zum Vollzug des Bundesgesetzes über den Schutz des Schweizerwappens und anderer öffentlicher Zeichen
 short: "Kantonale Wappenschutzverordnung, KWSchV"
 language: de
-version: 2017-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-04-26
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2016-04-26
 in_force: 2017-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2712/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2712/pdf_file"
 
 (Kantonale Wappenschutzverordnung, KWSchV)
 
-Vom 26.04.2016 (Stand 01.01.2017)
+Vom 26.04.2016 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -66,6 +65,6 @@ von der Regierung erlassen am 26. April 2016
 
 **Gerichtsinstanz**
 
-<sup>1</sup> Für Zivilklagen nach dem eidgenössischen Wappenschutzgesetz ist das Kantonsgericht als einzige kantonale Instanz zuständig.
+<sup>1</sup> Für Zivilklagen nach dem eidgenössischen Wappenschutzgesetz ist das Obergericht als einzige kantonale Instanz zuständig.
 
 2016-004
