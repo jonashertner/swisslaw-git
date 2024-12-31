@@ -4,13 +4,13 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-21
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-21
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3554/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3747/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3554/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.01.2024)
+vom 07.12.1951 (Stand 01.01.2025)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -172,13 +172,14 @@ verordnen:[^ingress-1]
 - g) Bürgerrecht und Zivilstand;
 - g<sup>bis</sup>) Pflegekinderwesen;
 - g<sup>ter</sup>) Einrichtungen für Menschen mit Behinderung (ohne Sonderschulen);
-- g<sup>quater</sup>) Betagten- und Pflegeheime;
+- g<sup>quater</sup>) …
 - g<sup>quinquies</sup>) gemischte Einrichtungen nach dem Sozialhilfegesetz;
 - g<sup>sexies</sup>) Adoption und Herkunftssuche;
-- h) Sozialhilfe, soweit nicht andere Departemente zuständig sind;
+- h) Sozialhilfe, soweit nicht andere Departemente zuständig sind, sowie die soziale Sicherung der Bevölkerung, namentlich von Familien, Kindern, Jugendlichen, Alleinstehenden, Betagten und Behinderten;
 - i) Sozialversicherungen, soweit nicht andere Departemente zuständig sind;
 - i<sup>bis</sup>) Gleichstellung von Mann und Frau;
 - i<sup>ter</sup>) Integrationsförderung;
+- j) Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt sowie Menschenhandel;
 - k) Staats- und Stiftsarchiv sowie Bibliotheken;
 - l) Kulturförderung und Kulturerbe einschliesslich Denkmalpflege und Archäologie;
 - l<sup>bis</sup>) Lotteriefonds-Beitragswesen;
@@ -302,6 +303,7 @@ verordnen:[^ingress-1]
 <sup>1</sup> In den Geschäftskreis des Gesundheitsdepartementes fallen:
 
 - a) Spitäler, psychiatrische Kliniken und stationäre Einrichtungen der Suchthilfe;
+- a<sup>bis</sup>) Einrichtungen der stationären Pflege, soweit sie nicht ausdrücklich dem Departement des Innern zugewiesen sind;
 - b) Kantonsapotheke, Zentrum für Labormedizin;
 - c) medizinische Berufe und andere Berufe der Gesundheitspflege;
 - d) …
