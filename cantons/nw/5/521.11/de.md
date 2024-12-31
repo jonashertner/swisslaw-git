@@ -4,13 +4,13 @@ number: "521.11"
 title: Verordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuerverordnung, StV"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-14
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-03
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1292/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1292/pdf_file"
 
 (Steuerverordnung, StV)
 
-vom 19.12.2000 (Stand 01.01.2024)
+vom 19.12.2000 (Stand 01.01.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -161,9 +161,23 @@ beschliesst:
 
 #### § 13
 
-**Erträge aus unbeweglichem Vermögen; Mietwert von selbstgenutzten Grundstücken**
+**Mietwert von selbstgenutzten Grundstücken 1. Mietwertansätze**
 
-<sup>1</sup> Der Mietwert von selbstgenutzten Grundstücken ist unter Berücksichtigung des Prozentsatzes gemäss dem Anhang zu versteuern.
+<sup>1</sup> Die Mietwerte selbstgenutzter Ein-, Zwei- und Dreifamilienhäuser sowie von selbstgenutztem Stockwerkeigentum werden mit einem Prozentsatz vom Grundstückswert berechnet (Mietwertansatz).
+
+<sup>2</sup> Bei Zwei- und Dreifamilienhäusern wird der ermittelte Mietwert anhand der Wohnflächen anteilsmässig auf die einzelnen Einheiten verteilt.
+
+<sup>3</sup> Die Mietwertansätze werden im Anhang festgelegt.
+
+#### § 13a
+
+**2. Vergleichsmieten**
+
+<sup>1</sup> Für industriell und gewerblich genutzte Objekte wird kein Mietwert festgelegt. Nur bei Selbstnutzung oder vorhandenem Wohnraum wird der Mietwert pauschal gestützt auf Vergleichsmieten festgelegt.
+
+<sup>2</sup> Der Mietwert selbstgenutzter Einheiten von Mehrfamilien- und Geschäftshäusern sowie von Stockwerkeigentum zu Geschäftszwecken wird gestützt auf Vergleichsmieten ähnlicher Objekte ermittelt.
+
+<sup>3</sup> Sind keine Vergleichsmieten bekannt, wird der Mietwert geschätzt.
 
 #### § 14
 
@@ -460,35 +474,84 @@ beschliesst:
 
 #### § 42
 
-**Güterschatzung 1. Schätzungsobjekte**
+**Immobilienbewertung**
 
-<sup>1</sup> Von Amtes wegen werden geschätzt:
+<sup>1</sup> Von Amtes wegen werden bewertet:
 
 - 1\. Liegenschaften;
 - 2\. Miteigentumsanteile an Grundstücken;
 - 3\. in das Grundbuch aufgenommene selbstständige und dauernde Rechte;
 - 4\. Bergwerke;
-- 5\. nutzbar gemachte Wasserkräfte und Naturvorteile, die nicht mit einem Grundstück geschätzt werden können.
+- 5\. nutzbar gemachte Wasserkräfte und Naturvorteile, die nicht mit einem Grundstück bewertet werden können.
 
-<sup>2</sup> Verfügt eine Eigentümerin oder ein Eigentümer über mehrere Grundstücke, die wirtschaftlich eine Einheit bilden, so können die Grundstücke für die Schatzung vereinigt werden, wenn keine getrennte Bewertung möglich ist.
+<sup>2</sup> Verfügt eine Eigentümerin oder ein Eigentümer über mehrere Grundstücke, die wirtschaftlich eine Einheit bilden, können die Grundstücke für die Bewertung vereinigt werden, wenn keine getrennte Bewertung möglich ist.
 
 <sup>3</sup> Die mit dem Grundstück verbundenen Rechte und Lasten sind bei der Bewertung zu berücksichtigen, soweit sie für den Wert eines Grundstückes von Bedeutung sind.
 
-<sup>4</sup> Soweit für Steuerzwecke keine amtliche Schatzung benötigt wird, kann auf die Schatzung von Grundstücken verzichtet werden.
+<sup>4</sup> Soweit für Steuerzwecke keine amtliche Bewertung benötigt wird, kann auf die Bewertung von Grundstücken verzichtet werden.
 
-<sup>5</sup> Soweit Miteigentumsanteile im Grundbuch festgehalten sind, sind diese für Schatzungen verbindlich.
+<sup>5</sup> Soweit Miteigentumsanteile im Grundbuch festgehalten sind, sind diese für die Bewertung verbindlich.
 
 #### § 43
 
-**2. Bewertungsgrundsätze a) nichtlandwirtschaftliche Grundstücke**
+**2. Nichtlandwirtschaftliche Grundstücke a) Bewertungsmethoden für Grundstücke innerhalb der Bauzone**
 
-<sup>1</sup> Die Bewertung der nichtlandwirtschaftlichen Grundstücke erfolgt grundsätzlich nach den Regeln des Schweizerischen Schätzerhandbuches der Schweizerischen Vereinigung kantonaler Grundstückbewertungsexperten, der Schweizerischen Schätzungsexperten-Kammer sowie des Schweizerischen Verbandes der Immobilien-Treuhänder in der jeweils aktuellen Auflage.
+<sup>1</sup> Bei unüberbauten Grundstücken, Ein-, Zwei- und Dreifamilienhäusern, Stockwerkeigentum, gemischten Wohn- und Geschäftshäusern bis drei Einheiten sowie bei industriell und gewerblich genutzten Objekten entspricht der Grundstückswert dem Realwert. In begründeten Fällen kann für den Grundstückswert auch der Ertragswert herangezogen werden.
 
-<sup>2</sup> Soweit die allgemeine Schätzertoleranz von 10 Prozent nicht überschritten wird, dürfen vereinfachte Verfahren angewendet werden.
+<sup>2</sup> Bei Mehrfamilienhäusern ab vier Wohneinheiten, Stockwerkeigentum zu Geschäftszwecken, reinen Geschäftshäusern sowie bei gemischten Wohn- und Geschäftshäusern ab vier Einheiten entspricht der Grundstückswert dem Ertragswert. In begründeten Fällen kann für den Grundstückswert auch der Realwert herangezogen werden.
+
+<sup>3</sup> Bei industriell und gewerblich genutzten Objekten handelt es sich um Objekte, bei denen der Wert vor allem durch eine handwerkliche Produktion wie Schreinereien, Gärtnereien, Garagen oder Restaurants bestimmt wird.
+
+<sup>4</sup> Bei Geschäftshäusern handelt es sich um Objekte, bei denen der Wert durch eine nichthandwerkliche Nutzung wie Büros oder Läden bestimmt wird.
+
+#### § 43a
+
+**b) Abgrenzung bei gemischten Objekten**
+
+<sup>1</sup> Für die Zuordnung von industriell und gewerblich genutzten Objekten und Geschäftshäusern ist die überwiegende Nutzung massgebend.
+
+<sup>2</sup> Für die Einteilung in Mehrfamilien- oder Geschäftshäuser ist die überwiegende Nutzung bezogen auf die Mieterträge beziehungsweise die Mietwerte massgebend.
+
+#### § 43b
+
+**c) unüberbaute Grundstücke**
+
+<sup>1</sup> Bei unüberbauten Grundstücken wird der Realwert durch Multiplikation der Grundstücksfläche mit dem Landwert pro Quadratmeter bestimmt.
+
+<sup>2</sup> Die Landwerte richten sich sinngemäss nach den Landwertzonen für bebaute Grundstücke je Gemeinde und m² gemäss Anhang.
+
+#### § 43c
+
+**d) Ein-, Zwei- und Dreifamilienhäuser, Stockwerkeigentum sowie industriell und gewerblich genutzte Objekte**
+
+<sup>1</sup> Bei Ein-, Zwei- und Dreifamilienhäusern, bei Stockwerkeigentum sowie bei industriell und gewerblich genutzten Objekten setzt sich der Realwert aus dem Landwert und dem Zeitbauwert zusammen.
+
+<sup>2</sup> Die Landwerte werden nach Landwertzonen je Gemeinde und m² im Anhang festgelegt. Die Grundstücke werden nach anerkannten Grundsätzen in Landwertzonen eingeteilt.
+
+<sup>3</sup> Der Zeitbauwert entspricht dem Neubauwert gemäss der Nidwaldner Sachversicherung abzüglich der dem Alter des Gebäudes entsprechenden Entwertung. Der Entwertungsfaktor beträgt:
+
+- 1\. bei Ein-, Zwei- und Dreifamilienhäusern sowie bei Stockwerkeigentum je Jahr 1.5 Prozent des Neubauwertes, höchstens jedoch 45 Prozent;
+- 2\. bei industriell und gewerblich genutzten Objekten je Jahr 2 Prozent des Neubauwertes, höchstens jedoch 60 Prozent.
+
+<sup>4</sup> Liegt im Einzelfall der tatsächliche Zeitbauwert mindestens 10 Prozent tiefer, kann auf Antrag eine höhere Entwertung festgelegt werden.
+
+#### § 43d
+
+**e) Mehrfamilien- und Geschäftshäuser sowie Stockwerkeigentum zu Geschäftszwecken**
+
+<sup>1</sup> Bei Mehrfamilien- und Geschäftshäusern sowie bei Stockwerkeigentum zu Geschäftszwecken werden die jährlichen Nettomieterträge durch einen Kapitalisierungssatz dividiert.
+
+<sup>2</sup> Der Nettomietertrag entspricht dem Bruttomietertrag abzüglich der darin aufgeführten Mietnebenkosten.
+
+<sup>3</sup> Der Kapitalisierungssatz beträgt:
+
+- 1\. für Mehrfamilienhäuser 5.25 Prozent;
+- 2\. für Geschäftshäuser 6.25 Prozent;
+- 3\. für Stockwerkeigentum zu Geschäftszwecken 6.25 Prozent.
 
 #### § 44
 
-**b) landwirtschaftliche Grundstücke**
+**3. Landwirtschaftliche Grundstücke**
 
 <sup>1</sup> Die Bewertung der landwirtschaftlichen Grundstücke erfolgt grundsätzlich nach den Regeln der jeweils geltenden Fassung der Anleitung für die Schätzung des landwirtschaftlichen Ertragswertes[^44-1].
 
@@ -935,15 +998,61 @@ beschliesst:
 
 [^80a-1]: SR 642.115.325.1
 
-### 6.4 Schatzungsverfahren
+### 6.4 Immobilienbewertung
 
 #### § 81
 
-**Revisionsschatzung**
+**Neubewertung 1. Grundsatz**
 
-<sup>1</sup> Eine wesentliche Änderung des Landwertes oder des Zeitwertes liegt vor, wenn sich der Wert der letzten allgemeinen oder teilweisen Neuschatzung um mehr als 20 Prozent verändert. Als wesentlich gelten auch Um- und Erneuerungsbauten, wenn der aufgewendete Betrag 20 Prozent des Neuwertes übersteigt.
+<sup>1</sup> Ein Grundstück wird neu bewertet:
 
-<sup>2</sup> Bei mehreren kleineren Veränderungen ist eine Revisionsschatzung vorzunehmen, wenn die Summe aller Veränderungen die 20 Prozentmarke erreicht hat.
+- 1\. wenn die letzte Bewertung mehr als sieben Jahre zurückliegt (Bewertungszyklus); oder
+- 2\. bei einer Änderung der für die Bewertung massgebenden Parameter.
+
+<sup>2</sup> …
+
+#### § 81a
+
+**2. Überprüfung der Parameter**
+
+<sup>1</sup> Der Regierungsrat überprüft alle sieben Jahre die verwendeten Parameter wie die Landwerte, Entwertungsfaktoren, Mietwertansätze, Kapitalisierungssätze und die Pauschalen und passt diese bei Bedarf an.
+
+#### § 81b
+
+**3. Individuelle Anpassung**
+
+<sup>1</sup> Das Kantonale Steueramt passt den Grundstückswert an, insbesondere bei:
+
+- 1\. einer Änderung von Bewertungsbestandteilen, die das Grundstück betreffen wie die Änderung des Sachversicherungswertes oder der Grundstücksfläche;
+- 2\. einer Änderung der für die Bewertung massgebenden tatsächlichen Verhältnisse wie eine Veränderung der Mieterträge oder Nutzungsänderungen; oder
+- 3\. einer Handänderung.
+
+<sup>2</sup> Der neue Grundstückswert wird auf das Datum der entsprechenden Änderung in Kraft gesetzt.
+
+#### § 81c
+
+**Abweichende Bewertungsmethoden 1. Pauschale Festsetzung a) Grundstückswert**
+
+<sup>1</sup> Bei Handänderungen unter unabhängigen Dritten, bei welchen der Handänderungspreis wesentlich vom ermittelten Grundstückswert abweicht, kann von Amtes wegen oder auf Antrag hin eine pauschale Festsetzung des Grundstückswerts erfolgen. Liegt der gemäss § 43 ff. ermittelte Grundstückswert:
+
+- 1\. unter 80 Prozent des Handänderungspreises, kann der Grundstückswert pauschal auf 80 Prozent des Handänderungspreises erhöht werden;
+- 2\. über dem Handänderungspreis, kann der Grundstückswert pauschal auf 100 Prozent des Handänderungswertes gesenkt werden.
+
+<sup>2</sup> Der Mietwert wird mit den bestehenden Mietwertansätzen vom pauschal angepassten Grundstückswert abgeleitet. Weicht der nach dieser Formel ermittelte Mietwert wesentlich von der Marktmiete ab, kann der Mietwert pauschal korrigiert werden.
+
+#### § 81d
+
+**b) Mietwert**
+
+<sup>1</sup> Führt der gemäss § 13 f. ermittelte Mietwert zu einem Wert, der über 100 Prozent oder unter 80 Prozent der Marktmiete liegt, kann der Mietwert pauschal festgesetzt werden.
+
+<sup>2</sup> Der Mietwert kann in diesen Fällen insbesondere aufgrund vorhandener Markt- oder Vergleichsmieten korrigiert werden.
+
+#### § 81e
+
+**2. Individuelle Bewertung**
+
+<sup>1</sup> Von Amtes wegen oder auf Antrag hin kann eine individuelle Bewertung nach einer anderen anerkannten Bewertungsmethode erfolgen, wenn Anhaltspunkte bestehen, dass der gemäss § 43 ff. ermittelte Grundstückswert beziehungsweise der gemäss § 13 f. ermittelte Mietwert über 100 Prozent oder unter 80 Prozent des Verkehrswerts beziehungsweise der Marktmiete liegt.
 
 ### 6.5 Bezug
 
@@ -997,7 +1106,7 @@ beschliesst:
 
 **Steuererlass**
 
-<sup>1</sup> Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 37'500.– (Alleinstehende) beziehungsweise Fr. 60'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
+<sup>1</sup> Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 30'000.– (Alleinstehende) beziehungsweise Fr. 50'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
 
 ### 6.6 Elektronische Steuerakten
 
@@ -1146,9 +1255,7 @@ beschliesst:
 
 #### § A1-4
 
-**Mietwert von selbstgenutzten Grundstücken**
-
-<sup>1</sup> Der Prozentsatz gemäss Art. 24 Abs. 3 des Steuergesetzes beträgt 100 Prozent.
+**…**
 
 ### A1-3 Berufsunkosten
 
@@ -1281,9 +1388,7 @@ beschliesst:
 
 #### § A1-17
 
-**Unbewegliches Vermögen**
-
-<sup>1</sup> Der Prozentsatz gemäss Art. 49 Abs. 2 des Steuergesetzes beträgt 100 Prozent.
+**…**
 
 ### A1.8 Zinssätze
 
@@ -1291,11 +1396,11 @@ beschliesst:
 
 **Zinssätze**
 
-<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.75 Prozent.
+<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.50 Prozent.
 
-<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 1.00 Prozent.
+<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 0.50 Prozent.
 
-<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 1.00 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
+<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 0.50 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
 
 ### A1.9 Quellensteuern
 
@@ -1305,7 +1410,7 @@ beschliesst:
 
 <sup>1</sup> Die Pauschale für die Berufskosten beträgt 5 Prozent des Bruttolohnes, höchstens jedoch Fr. 7'000.– je Jahr, und der Abzug für Fahrkosten und auswärtige Verpflegung Fr. 3'900.–.
 
-<sup>2</sup> Beim zweitverdienenden Ehegatten wird zusätzlich zu Abs. 1 Fr. 1'100.– in Abzug gebracht.
+<sup>2</sup> Beim zweitverdienenden Ehegatten wird zusätzlich zu Abs. 1 Fr. 1'200.– in Abzug gebracht.
 
 #### § A1-20
 
@@ -1325,7 +1430,7 @@ beschliesst:
 
 **Abzüge für Familienlasten**
 
-<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'000.– für den Kinderabzug und Fr. 3'100.– für den Eigenbetreuungsabzug.
+<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'400.– für den Kinderabzug und Fr. 3'100.– für den Eigenbetreuungsabzug.
 
 #### § A1-22
 
@@ -1365,5 +1470,123 @@ beschliesst:
 <sup>1</sup> Die Quellensteuertarife können beim Kantonalen Steueramt oder im Internet[^A124-1] eingesehen werden.
 
 [^A124-1]: [www.steuern-nw.ch/natuerlichepersonen/quellensteuer](http://www.steuern-nw.ch/natuerlichepersonen/quellensteuer/)
+
+### A2.0 Mietwertansätze
+
+#### § A1-25
+
+**Mietwertansätze**
+
+<sup>1</sup> Für Einfamilienhäuser gelten folgende Mietwertansätze:
+
+<table>
+<tr><th>Mietwertansatz</th><th>Grundstückswert</th><th>Grundstückswert</th></tr>
+<tr><td>3.75 %</td><td></td><td>bis Fr. 250'000</td></tr>
+<tr><td>plus 3.00 % vom Mehrbetrag über</td><td>Fr. 250'001</td><td>bis Fr. 500'000</td></tr>
+<tr><td>plus 2.50 % vom Mehrbetrag über</td><td>Fr. 500'001</td><td>bis Fr. 750'000</td></tr>
+<tr><td>plus 2.00 % vom Mehrbetrag über</td><td>Fr. 750'001</td><td>bis Fr. 1'000'000</td></tr>
+<tr><td>plus 1.75 % vom Mehrbetrag über</td><td>Fr. 1'000'001</td><td>bis Fr. 1'250'000</td></tr>
+<tr><td>plus 1.50 % vom Mehrbetrag über</td><td>Fr. 1'250'001</td><td>bis Fr. 1'500'000</td></tr>
+<tr><td>plus 1.25 % vom Mehrbetrag über</td><td>Fr. 1'500'001</td><td>bis Fr. 1'750'000</td></tr>
+<tr><td>plus 1.00 % vom Mehrbetrag über</td><td>Fr. 1'750'001</td><td></td></tr>
+</table>
+
+<sup>2</sup> Für Zweifamilienhäuser gelten folgende Mietwertansätze:
+
+<table>
+<tr><th>Mietwertansatz</th><th>Grundstückswert</th><th>Gründstückswert</th></tr>
+<tr><td>4.00 %</td><td></td><td>bis Fr. 250'000</td></tr>
+<tr><td>plus 3.25 % vom Mehrbetrag über</td><td>Fr. 250'001</td><td>bis Fr. 500'000</td></tr>
+<tr><td>plus 2.75 % vom Mehrbetrag über</td><td>Fr. 500'001</td><td>bis Fr. 750'000</td></tr>
+<tr><td>plus 2.25 % vom Mehrbetrag über</td><td>Fr. 750'001</td><td>bis Fr. 1'000'000</td></tr>
+<tr><td>plus 2.00 % vom Mehrbetrag über</td><td>Fr. 1'000'001</td><td>bis Fr. 1'250'000</td></tr>
+<tr><td>plus 1.75 % vom Mehrbetrag über</td><td>Fr. 1'250'001</td><td>bis Fr. 1'500'000</td></tr>
+<tr><td>plus 1.50 % vom Mehrbetrag über</td><td>Fr. 1'500'001</td><td>bis Fr. 1'750'000</td></tr>
+<tr><td>plus 1.25 % vom Mehrbetrag über</td><td>Fr. 1'750'001</td><td></td></tr>
+</table>
+
+<sup>3</sup> Für Dreifamilienhäuser gelten folgende Mietwertansätze:
+
+<table>
+<tr><th>Mietwertansatz</th><th>Grundstückswert</th><th>Grundstückswert</th></tr>
+<tr><td>4.50 %</td><td></td><td>bis Fr. 250'000</td></tr>
+<tr><td>plus 4.00 % vom Mehrbetrag über</td><td>Fr. 250'001</td><td>bis Fr. 500'000</td></tr>
+<tr><td>plus 3.50 % vom Mehrbetrag über</td><td>Fr. 500'001</td><td>bis Fr. 750'000</td></tr>
+<tr><td>plus 3.00 % vom Mehrbetrag über</td><td>Fr. 750'001</td><td>bis Fr. 1'000'000</td></tr>
+<tr><td>plus 2.50 % vom Mehrbetrag über</td><td>Fr. 1'000'001</td><td>bis Fr. 1'250'000</td></tr>
+<tr><td>plus 2.00 % vom Mehrbetrag über</td><td>Fr. 1'250'001</td><td>bis Fr. 1'500'000</td></tr>
+<tr><td>plus 1.75 % vom Mehrbetrag über</td><td>Fr. 1'500'001</td><td>bis Fr. 1'750'000</td></tr>
+<tr><td>plus 1.50 % vom Mehrbetrag über</td><td>Fr. 1'750'001</td><td>bis Fr. 2'000'000</td></tr>
+<tr><td>plus 1.25 % vom Mehrbetrag über</td><td>ab Fr. 2'000'001</td><td></td></tr>
+</table>
+
+<sup>4</sup> Für Stockwerkeigentumswohnungen gelten folgende Mietwertansätze:
+
+<table>
+<tr><th>Mietwertansatz</th><th>Grundstückswert</th><th>Grundstückswert</th></tr>
+<tr><td>4.50 %</td><td></td><td>bis Fr. 250'000</td></tr>
+<tr><td>plus 3.50 % vom Mehrbetrag über</td><td>Fr. 250'001</td><td>bis Fr. 500'000</td></tr>
+<tr><td>plus 2.75 % vom Mehrbetrag über</td><td>Fr. 500'001</td><td>bis Fr. 750'000</td></tr>
+<tr><td>plus 2.00 % vom Mehrbetrag über</td><td>Fr. 750'001</td><td>bis Fr. 1'000'000</td></tr>
+<tr><td>plus 1.50 % vom Mehrbetrag über</td><td>Fr. 1'000'001</td><td>bis Fr. 1'250'000</td></tr>
+<tr><td>plus 1.25 % vom Mehrbetrag über</td><td>Fr. 1'250'001</td><td></td></tr>
+</table>
+
+### A2.1 Landwerte Grundstücke
+
+#### § A1-26
+
+**Landwerte**
+
+<sup>1</sup> Für Ein- bis Dreifamilienhäuser gelten je Landwertzone und Gemeinde folgende Landpreise je m²:
+
+<table>
+<tr><th>Gemeinde</th><th>Landwertzone 1</th><th>Landwertzone 2</th><th>Landwertzone 3</th><th>Landwertzone 4</th><th>Landwertzone 5</th></tr>
+<tr><td>Beckenried</td><td>Fr. 2'040</td><td>Fr. 1'900</td><td>Fr. 1'750</td><td>Fr. 1'600</td><td>Fr. 1'460</td></tr>
+<tr><td>Buochs</td><td>Fr. 1'910</td><td>Fr. 1'780</td><td>Fr. 1'650</td><td>Fr. 1'520</td><td>Fr. 1'390</td></tr>
+<tr><td>Dallenwil</td><td>Fr. 940</td><td>Fr. 830</td><td>Fr. 710</td><td></td><td></td></tr>
+<tr><td>Emmetten</td><td>Fr. 1'600</td><td>Fr. 1'390</td><td>Fr. 1'180</td><td></td><td></td></tr>
+<tr><td>Ennetbürgen</td><td>Fr. 2'110</td><td>Fr. 1'990</td><td>Fr. 1'880</td><td>Fr. 1'770</td><td></td></tr>
+<tr><td>Ennetmoos</td><td>Fr. 1'490</td><td>Fr. 1'360</td><td>Fr. 1'230</td><td>Fr. 1'100</td><td></td></tr>
+<tr><td>Hergiswil</td><td>Fr. 3'140</td><td>Fr. 2'900</td><td>Fr. 2'660</td><td>Fr. 2'410</td><td>Fr. 2'170</td></tr>
+<tr><td>Oberdorf</td><td>Fr. 1'390</td><td>Fr. 1'230</td><td>Fr. 1'070</td><td></td><td></td></tr>
+<tr><td>Stans</td><td>Fr. 1'720</td><td>Fr. 1'560</td><td>Fr. 1'390</td><td>Fr. 1'230</td><td></td></tr>
+<tr><td>Stansstad</td><td>Fr. 2'740</td><td>Fr. 2'510</td><td>Fr. 2'280</td><td>Fr. 2'060</td><td>Fr. 1'830</td></tr>
+<tr><td>Wolfenschiessen</td><td>Fr. 960</td><td>Fr. 830</td><td>Fr. 700</td><td></td><td></td></tr>
+</table>
+
+<sup>2</sup> Für Stockwerkeigentum gelten je Landwertzone und Gemeinde folgende Landpreise je m²:
+
+<table>
+<tr><th>Gemeinde</th><th>Landwertzone 1</th><th>Landwertzone 2</th><th>Landwertzone 3</th><th>Landwertzone 4</th><th>Landwertzone 5</th></tr>
+<tr><td>Beckenried</td><td>Fr. 2'500</td><td>Fr. 2'320</td><td>Fr. 2'140</td><td>Fr. 1'960</td><td>Fr. 1'780</td></tr>
+<tr><td>Buochs</td><td>Fr. 2'340</td><td>Fr. 2'180</td><td>Fr. 2'020</td><td>Fr. 1'860</td><td>Fr. 1'700</td></tr>
+<tr><td>Dallenwil</td><td>Fr. 1'150</td><td>Fr. 1'010</td><td>Fr. 870</td><td></td><td></td></tr>
+<tr><td>Emmetten</td><td>Fr. 1'960</td><td>Fr. 1'700</td><td>Fr. 1'440</td><td></td><td></td></tr>
+<tr><td>Ennetbürgen</td><td>Fr. 2'570</td><td>Fr. 2'440</td><td>Fr. 2'300</td><td>Fr. 2'160</td><td></td></tr>
+<tr><td>Ennetmoos</td><td>Fr. 1'820</td><td>Fr. 1'660</td><td>Fr. 1'500</td><td>Fr. 1'350</td><td></td></tr>
+<tr><td>Hergiswil</td><td>Fr. 3'840</td><td>Fr. 3'540</td><td>Fr. 3'250</td><td>Fr. 2'950</td><td>Fr. 2'650</td></tr>
+<tr><td>Oberdorf</td><td>Fr. 1 '700</td><td>Fr. 1'500</td><td>Fr. 1'310</td><td></td><td></td></tr>
+<tr><td>Stans</td><td>Fr. 2'100</td><td>Fr. 1'900</td><td>Fr. 1'700</td><td>Fr. 1'500</td><td></td></tr>
+<tr><td>Stansstad</td><td>Fr. 3'350</td><td>Fr. 3'070</td><td>Fr. 2'790</td><td>Fr. 2'520</td><td>Fr. 2'240</td></tr>
+<tr><td>Wolfenschiessen</td><td>Fr. 1'170</td><td>Fr. 1'010</td><td>Fr. 850</td><td></td><td></td></tr>
+</table>
+
+<sup>3</sup> Für industriell und gewerblich genutzte Objekte gelten je Landwertzone und Gemeinde folgende Landpreise je m²:
+
+<table>
+<tr><th>Gemeinde</th><th>Landwertzone 1</th><th>Landwertzone 2</th><th>Landwertzone 3</th><th>Landwertzone 4</th><th>Landwertzone 5</th></tr>
+<tr><td>Beckenried</td><td>Fr. 150</td><td>Fr. 150</td><td>Fr. 150</td><td>Fr. 150</td><td>Fr. 150</td></tr>
+<tr><td>Buochs</td><td>Fr. 170</td><td>Fr. 170</td><td>Fr. 170</td><td>Fr. 170</td><td>Fr. 170</td></tr>
+<tr><td>Dallenwil</td><td>Fr. 100</td><td>Fr. 100</td><td>Fr. 100</td><td></td><td></td></tr>
+<tr><td>Emmetten</td><td>Fr. 80</td><td>Fr. 80</td><td>Fr. 80</td><td></td><td></td></tr>
+<tr><td>Ennetbürgen</td><td>Fr. 250</td><td>Fr. 250</td><td>Fr. 250</td><td>Fr. 250</td><td></td></tr>
+<tr><td>Ennetmoos</td><td>Fr. 120</td><td>Fr. 120</td><td>Fr. 120</td><td>Fr. 120</td><td></td></tr>
+<tr><td>Hergiswil</td><td>Fr. 930</td><td>Fr. 930</td><td>Fr. 930</td><td>Fr. 930</td><td>Fr. 930</td></tr>
+<tr><td>Oberdorf</td><td>Fr. 140</td><td>Fr. 140</td><td>Fr. 140</td><td></td><td></td></tr>
+<tr><td>Stans</td><td>Fr. 260</td><td>Fr. 260</td><td>Fr. 260</td><td>Fr. 260</td><td></td></tr>
+<tr><td>Stansstad</td><td>Fr. 670</td><td>Fr. 670</td><td>Fr. 670</td><td>Fr. 670</td><td>Fr. 670</td></tr>
+<tr><td>Wolfenschiessen</td><td>Fr. 100</td><td>Fr. 100</td><td>Fr. 100</td><td></td><td></td></tr>
+</table>
 
 A 2000, 1807
