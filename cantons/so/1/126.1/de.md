@@ -3,20 +3,20 @@ canton: SO
 number: "126.1"
 title: Gesetz über das Staatspersonal
 language: de
-version: 2019-06-01
-valid_until: 2024-12-31
-version_adopted: 2018-12-19
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-03-20
 adopted: 1992-09-27
 in_force: 1993-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.1"
-pdf: "https://bgs.so.ch/api/de/versions/4821/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5478/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über das Staatspersonal
 
-Vom 27.09.1992 (Stand 01.06.2019)
+Vom 27.09.1992 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -214,7 +214,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat beziehungsweise das zuständige Organ nach § 2<sup>bis</sup> ist Anstellungsbehörde.
 
-<sup>3</sup> Der Regierungsrat kann Anstellungen an die Departemente, an das Personalamt oder an die Solothurner Spitäler AG delegieren.
+<sup>3</sup> Der Regierungsrat kann Anstellungen an die Departemente, an das Personalamt sowie an die Solothurner Spitäler AG und an die Solothurnische Gebäudeversicherung delegieren.
 
 <sup>4</sup> Die Gerichtsverwaltungskommission ist Anstellungsbehörde nach Massgabe des Gesetzes über die Gerichtsorganisation. Sie kann Anstellungen an das kantonale Personalamt delegieren.
 
@@ -477,7 +477,7 @@ beschliesst:
 
 <sup>3</sup> Das gleiche gilt für gerichtliche Aufforderungen zur Herausgabe von Verwaltungsakten.
 
-<sup>4</sup> Der Regierungsrat kann die Ermächtigung an die zuständigen Departemente und an die Solothurner Spitäler AG delegieren.
+<sup>4</sup> Der Regierungsrat kann die Ermächtigung an die zuständigen Departemente sowie an die Solothurner Spitäler AG und an die Solothurnische Gebäudeversicherung delegieren.
 
 <sup>4<sup>bis</sup></sup> Die Ermächtigung von Angestellten der Pensionskasse Kanton Solothurn obliegt dem zuständigen Organ nach § 2<sup>bis</sup>.
 
