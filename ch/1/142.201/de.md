@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2024-06-01
+version: 2025-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Juni 2024)
+vom 24. Oktober 2007 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -823,7 +823,11 @@ Zur Erleichterung des internationalen wirtschaftlichen, wissenschaftlichen und k
 
 <sup>2</sup> Das SEM kann, zulasten der in den Stagiaires-Abkommen vereinbarten Höchstzahlen, für Aufenthalte von höchstens 18 Monaten Verfügungen für Bewilligungen an Stagiaires erlassen.
 
+<sup>2bis</sup> Sind in den Stagiaires-Abkommen keine Höchstzahlen für Bewilligungen festgelegt, so kann das SEM an Ausländerinnen und Ausländer, die vom Geltungsbereich dieser Abkommen erfasst werden, Kurzaufenthaltsbewilligungen im Rahmen der Höchstzahlen nach Anhang 1 Ziffer 9 erteilen.[^42-1]
+
 <sup>3</sup> Stagiairesbewilligungen können aufgrund einer Verfügung des SEM im Rahmen der maximalen Aufenthaltsdauer von 18 Monaten verlängert werden.
+
+[^42-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 #### Art. 43
 
@@ -1746,47 +1750,13 @@ Wichtige Gründe für eine Ausnahme vom Erfordernis des Zusammenwohnens können 
 
 #### Art. 77
 
-**Auflösung der Familiengemeinschaft**
+**Sprachkompetenzen bei Ansprüchen bei Auflösung der Familiengemeinschaft**[^77-1]
 
-### (Art. 44 und 50 Abs. 1 Bst. a und b AIG)
+### (Art. 50 Abs. 1 Bst. a AIG)
 
-<sup>1</sup>
+Der Anspruch nach Artikel 50 Absatz 1 Buchstabe a AIG besteht nur, wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass sie oder er in der am Wohnort gesprochenen Landessprache über mündliche Sprachkompetenzen mindestens auf dem Referenzniveau A1 des Referenzrahmens verfügt.
 
-Nach Auflösung der Ehe oder der Familiengemeinschaft kann die im Rahmen des Familiennachzugs nach Artikel 44 AIG erteilte Aufenthaltsbewilligung des Ehegatten und der Kinder verlängert werden, wenn:[^77-1]
-
-- a.[^77-2] die Ehegemeinschaft mindestens drei Jahre bestanden hat und die Integrationskriterien nach Artikel 58*a* Absatz 1 AIG erfüllt sind; oder
-- b. wichtige persönliche Gründe einen weiteren Aufenthalt in der Schweiz erforderlich machen.
-
-<sup>2</sup> Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorliegen, wenn die Ehegattin oder der Ehegatte Opfer ehelicher Gewalt wurde oder die Ehe nicht aus freiem Willen geschlossen hat oder wenn die soziale Wiedereingliederung im Herkunftsland stark gefährdet erscheint.[^77-3]
-
-<sup>3</sup> Die Frist zur Erteilung der Niederlassungsbewilligung richtet sich nach Artikel 34 AIG.
-
-<sup>4</sup> Für die Verlängerung der Aufenthaltsbewilligung nach Artikel 50 Absatz 1 Buchstabe a AIG und nach Absatz 1 Buchstabe a des vorliegenden Artikels muss die Gesuchstellerin oder der Gesuchsteller nachweisen, dass sie oder er in der am Wohnort gesprochenen Landessprache über mündliche Sprachkompetenzen mindestens auf dem Referenzniveau A1 des Referenzrahmens verfügt.[^77-4]
-
-<sup>5</sup> Wird das Vorliegen ehelicher Gewalt nach Absatz 1 Buchstabe b sowie Artikel 50 Absatz 2 AIG geltend gemacht, können die zuständigen Behörden entsprechende Nachweise verlangen.
-
-<sup>6</sup>
-
-Als Hinweise für eheliche Gewalt gelten insbesondere:
-
-- a. Arztzeugnisse;
-- b. Polizeirapporte;
-- c. Strafanzeigen;
-- d.[^77-5] Massnahmen im Sinne von Artikel 28*b* ZGB[^77-6]; oder
-- e. entsprechende strafrechtliche Verurteilungen.
-
-<sup>6bis</sup> Bei der Prüfung der wichtigen persönlichen Gründe nach Absatz 1 Buchstabe b sowie Artikel 50 Absatz 1 Buchstabe b AIG werden die Hinweise und Auskünfte von spezialisierten Fachstellen mit berücksichtigt.[^77-7]
-
-<sup>7</sup> Die Bestimmungen in den Absätzen 1–6<sup>bis</sup> gelten für die eingetragene Partnerschaft gleichgeschlechtlicher Paare sinngemäss.[^77-8]
-
-[^77-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-2]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-3]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1041](https://fedlex.data.admin.ch/eli/oc/2013/227)).
-[^77-4]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-5]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-6]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^77-7]: Eingefügt durch Ziff. I der V vom 23. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
-[^77-8]: Fassung gemäss Ziff. I der V vom 23. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
+[^77-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 714](https://fedlex.data.admin.ch/eli/oc/2024/714)).
 
 ## 6*a*. Kapitel: Integrationskriterien
 
@@ -1875,7 +1845,10 @@ Die zuständige Behörde berücksichtigt die persönlichen Verhältnisse der Aus
 
   - 1\. einer ausgeprägten Lern-, Lese- oder Schreibschwäche,
   - 2\. Erwerbsarmut,
-  - 3\. der Wahrnehmung von Betreuungsaufgaben.
+  - 3\. der Wahrnehmung von Betreuungsaufgaben,
+  - 4\.[^77f-1] den negativen Folgen von häuslicher Gewalt oder von Zwangsheirat.
+
+[^77f-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 714](https://fedlex.data.admin.ch/eli/oc/2024/714)).
 
 #### Art. 77g
 
@@ -2443,37 +2416,37 @@ Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 19−19*b*)
+(Art. 19−19*b* und 42 Abs. 2<sup>bis</sup>)
 
 ## Höchstzahlen für Kurzaufenthaltsbewilligungen
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 \1. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19 werden insgesamt auf 4000 festgesetzt:
 
 - a. Höchstzahlen für die Kantone: 2000
 
 <table>
-<tr><td>Zürich 399</td><td>Schaffhausen 18</td></tr>
-<tr><td>Bern 235</td><td>Appenzell A.Rh. 9</td></tr>
-<tr><td>Luzern 93</td><td>Appenzell I.Rh. 4</td></tr>
-<tr><td>Uri 7</td><td>St. Gallen 114</td></tr>
-<tr><td>Schwyz 31</td><td>Graubünden 48</td></tr>
-<tr><td>Obwalden 8</td><td>Aargau 130</td></tr>
-<tr><td>Nidwalden 9</td><td>Thurgau 52</td></tr>
-<tr><td>Glarus 8</td><td>Tessin 94</td></tr>
-<tr><td>Zug 45</td><td>Waadt 181</td></tr>
-<tr><td>Freiburg 58</td><td>Wallis 69</td></tr>
-<tr><td>Solothurn 54</td><td>Neuenburg 41</td></tr>
-<tr><td>Basel-Stadt 72</td><td>Genf 147</td></tr>
-<tr><td>Basel-Landschaft 57</td><td>Jura 17</td></tr>
+<tr><td>Zürich</td><td>399</td><td>Schaffhausen</td><td>17</td></tr>
+<tr><td>Bern</td><td>232</td><td>Appenzell A.Rh.</td><td>10</td></tr>
+<tr><td>Luzern</td><td>92</td><td>Appenzell I.Rh.</td><td>3</td></tr>
+<tr><td>Uri</td><td>7</td><td>St. Gallen</td><td>114</td></tr>
+<tr><td>Schwyz</td><td>31</td><td>Graubünden</td><td>49</td></tr>
+<tr><td>Obwalden</td><td>8</td><td>Aargau</td><td>128</td></tr>
+<tr><td>Nidwalden</td><td>9</td><td>Thurgau</td><td>53</td></tr>
+<tr><td>Glarus</td><td>8</td><td>Tessin</td><td>95</td></tr>
+<tr><td>Zug</td><td>46</td><td>Waadt</td><td>182</td></tr>
+<tr><td>Freiburg</td><td>58</td><td>Wallis</td><td>70</td></tr>
+<tr><td>Solothurn</td><td>54</td><td>Neuenburg</td><td>41</td></tr>
+<tr><td>Basel-Stadt</td><td>72</td><td>Genf</td><td>148</td></tr>
+<tr><td>Basel-Landschaft</td><td>57</td><td>Jura</td><td>17</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 2000
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2024 bis zum 31. Dezember 2024.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025.
 
-\3. Die durch die Änderung vom 23. November 2022[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 29. November 2023[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*a* werden insgesamt auf 3000 festgesetzt:
 
@@ -2482,9 +2455,9 @@ Anhang 1[^t-1]
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2024 bis zum 31. Dezember 2024 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 23. November 2022 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 29. November 2023 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*b* werden insgesamt auf 1400 festgesetzt:
 
@@ -2493,9 +2466,12 @@ Anhang 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2024 bis zum 31. Dezember 2024 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
 
-[^annex1-lvlu1-1]: [AS 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
+\9. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen, die vom Geltungsbereich des Abkommens vom 11. Oktober 2024[^annex1-lvlu1-2] zwischen dem Schweizerischen Bundesrat und der Regierung der Vereinigten Staaten von Amerika über den Austausch von Praktikantinnen und Praktikanten sowie jungen Berufsleuten erfasst werden (Art. 42 Abs. 2<sup>bis</sup>), werden auf 300 pro Kalenderjahr festgesetzt. Der nicht genutzte Restbestand wird nicht auf das folgende Jahr übertragen.
+
+[^annex1-lvlu1-1]: [AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex1-lvlu1-2]: [SR 0.142.113.367](https://fedlex.data.admin.ch/eli/cc/2024/613)
 
 Anhang 2[^t-2]
 
@@ -2503,33 +2479,33 @@ Anhang 2[^t-2]
 
 ## Höchstzahlen für Aufenthaltsbewilligungen
 
-[^t-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 \1. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20 werden insgesamt auf 4500 festgesetzt:
 
 - a. Höchstzahlen für die Kantone: 1250
 
 <table>
-<tr><td>Zürich 250</td><td>Schaffhausen 11</td></tr>
-<tr><td>Bern 147</td><td>Appenzell A.Rh. 7</td></tr>
-<tr><td>Luzern 59</td><td>Appenzell I.Rh. 2</td></tr>
-<tr><td>Uri 4</td><td>St. Gallen 71</td></tr>
-<tr><td>Schwyz 20</td><td>Graubünden 31</td></tr>
-<tr><td>Obwalden 5</td><td>Aargau 80</td></tr>
-<tr><td>Nidwalden 6</td><td>Thurgau 32</td></tr>
-<tr><td>Glarus 5</td><td>Tessin 58</td></tr>
-<tr><td>Zug 29</td><td>Waadt 112</td></tr>
-<tr><td>Freiburg 36</td><td>Wallis 44</td></tr>
-<tr><td>Solothurn 33</td><td>Neuenburg 26</td></tr>
-<tr><td>Basel-Stadt 45</td><td>Genf 91</td></tr>
-<tr><td>Basel-Landschaft 36</td><td>Jura 10</td></tr>
+<tr><td>Zürich</td><td>249</td><td>Schaffhausen</td><td>11</td></tr>
+<tr><td>Bern</td><td>145</td><td>Appenzell A.Rh.</td><td>6</td></tr>
+<tr><td>Luzern</td><td>58</td><td>Appenzell I.Rh.</td><td>2</td></tr>
+<tr><td>Uri</td><td>4</td><td>St. Gallen</td><td>71</td></tr>
+<tr><td>Schwyz</td><td>20</td><td>Graubünden</td><td>31</td></tr>
+<tr><td>Obwalden</td><td>5</td><td>Aargau</td><td>80</td></tr>
+<tr><td>Nidwalden</td><td>5</td><td>Thurgau</td><td>33</td></tr>
+<tr><td>Glarus</td><td>5</td><td>Tessin</td><td>59</td></tr>
+<tr><td>Zug</td><td>29</td><td>Waadt</td><td>114</td></tr>
+<tr><td>Freiburg</td><td>36</td><td>Wallis</td><td>44</td></tr>
+<tr><td>Solothurn</td><td>33</td><td>Neuenburg</td><td>26</td></tr>
+<tr><td>Basel-Stadt</td><td>45</td><td>Genf</td><td>92</td></tr>
+<tr><td>Basel-Landschaft</td><td>36</td><td>Jura</td><td>11</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 3250
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2024 bis zum 31. Dezember 2024.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025.
 
-\3. Die durch die Änderung vom 23. November 2022[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 29. November 2023[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*a* werden insgesamt auf 500 festgesetzt:
 
@@ -2538,9 +2514,9 @@ Anhang 2[^t-2]
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2024 bis zum 31. Dezember 2024 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 23. November 2022 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 29. November 2023 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*b* werden insgesamt auf 2100 festgesetzt:
 
@@ -2549,9 +2525,9 @@ Anhang 2[^t-2]
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2024 bis zum 31. Dezember 2024 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
 
-[^annex2-lvlu1-1]: [AS 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
+[^annex2-lvlu1-1]: [AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
 
 Anhang 3[^t-3]
 

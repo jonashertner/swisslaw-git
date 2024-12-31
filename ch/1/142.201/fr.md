@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2024-06-01
+version: 2025-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> juin 2024)
+du 24 octobre 2007 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -841,7 +841,11 @@ Des autorisations de séjour ou de courte durée peuvent être accordées en vue
 
 <sup>2</sup> Le SEM peut octroyer des autorisations de séjour pour un stage de 18 mois au maximum, en imputant ces autorisations sur les nombres maximums fixés dans les accords concernant les stagiaires.
 
+<sup>2bis</sup> Lorsque les nombres maximums d’autorisations ne sont pas fixés dans les accords concernant les stagiaires, le SEM peut délivrer aux étrangers couverts par le champ d’application de ces accords des autorisations de séjour de courte durée dans les limites des nombres maximums fixés à l’annexe 1, ch. 9.[^42-1]
+
 <sup>3</sup> Les autorisations de stagiaires peuvent être prolongées, sur décision du SEM, dans les limites de la durée de séjour maximale de 18 mois.
+
+[^42-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 #### Art. 43
 
@@ -1768,47 +1772,13 @@ Une exception à l’exigence du ménage commun peut résulter de raisons majeur
 
 #### Art. 77
 
-**Dissolution de la famille**
+**Compétences linguistiques nécessaires à l’obtention de droits en cas de dissolution de la famille**[^77-1]
 
-### (art. 44 et 50, al. 1, let. a et b, LEI)
+### (art. 50, al. 1, let. a, LEI)
 
-<sup>1</sup>
+Pour prétendre aux droits prévus à l’art. 50, al. 1, let. a, LEI, le requérant est tenu de prouver qu’il possède des connaissances orales de la langue nationale parlée au lieu de domicile équivalant au moins au niveau A1 du cadre de référence.
 
-L’autorisation de séjour octroyée au conjoint et aux enfants au titre du regroupement familial en vertu de l’art. 44 LEI peut être prolongée après la dissolution du mariage ou de la famille si:[^77-1]
-
-- a.[^77-2] la communauté conjugale existe depuis au moins trois ans et que les critères d’intégration définis à l’art. 58*a*, al. 1, LEI sont remplis, ou
-- b. la poursuite du séjour en Suisse s’impose pour des raisons personnelles majeures.
-
-<sup>2</sup> Les raisons personnelles majeures visées à l’al. 1, let. b, sont notamment données lorsque le conjoint est victime de violence conjugale ou lorsque le mariage a été conclu en violation de la libre volonté d’un des époux ou que la réintégration sociale dans le pays de provenance semble fortement compromise.[^77-3]
-
-<sup>3</sup> Le délai d’octroi de l’autorisation d’établissement se fonde sur l’art. 34 LEI.
-
-<sup>4</sup> Pour obtenir la prolongation d’une autorisation de séjour en vertu de l’art. 50, al. 1, let. a, LEI et de l’al. 1, let. a, du présent article, le requérant est tenu de prouver qu’il possède des connaissances orales de la langue nationale parlée au lieu de domicile équivalant au moins au niveau A1 du cadre de référence.[^77-4]
-
-<sup>5</sup> Si la violence conjugale au sens de l’al. 1, let. b, et de l’art. 50, al. 2, LEI, est invoquée, les autorités compétentes peuvent demander des preuves.
-
-<sup>6</sup>
-
-Sont notamment considérés comme indices de violence conjugale:
-
-- a. les certificats médicaux;
-- b. les rapports de police;
-- c. les plaintes pénales;
-- d.[^77-5] les mesures au sens de l’art. 28*b* CC[^77-6], ou
-- e. les jugements pénaux prononcés à ce sujet.
-
-<sup>6bis</sup> Lors de l’examen des raisons personnelles majeures visées à l’al. 1, let. b, et à l’art. 50, al. 1, let. b, LEI, les autorités compétentes tiennent compte des indications et des renseignements fournis par des services spécialisés.[^77-7]
-
-<sup>7</sup> Les dispositions prévues aux al. 1 à 6<sup>bis</sup> s’appliquent par analogie aux partenariats enregistrés entre personnes du même sexe.[^77-8]
-
-[^77-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-2]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-3]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1041](https://fedlex.data.admin.ch/eli/oc/2013/227)).
-[^77-4]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-5]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^77-7]: Introduit par le ch. I de l’O du 23 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
-[^77-8]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 714](https://fedlex.data.admin.ch/eli/oc/2024/714)).
 
 ## Chapitre 6*a* Critères d’intégration
 
@@ -1897,7 +1867,10 @@ L’autorité compétente tient compte de manière appropriée de la situation p
 
   - 1\. de grandes difficultés à apprendre, à lire et à écrire,
   - 2\. une situation de pauvreté malgré un emploi,
-  - 3\. des charges d’assistance familiale à assumer.
+  - 3\. des charges d’assistance familiale à assumer,
+  - 4\.[^77f-1] les conséquences négatives de la violence domestique ou du mariage forcé.
+
+[^77f-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 714](https://fedlex.data.admin.ch/eli/oc/2024/714)).
 
 #### Art. 77g
 
@@ -2466,37 +2439,37 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
 Annexe 1[^t-1]
 
-(art. 19 à 19*b*)
+(art. 19 à 19*b* et 42, al. 2<sup>bis</sup>)
 
 ## Nombre maximum d’autorisations de séjour de courte durée
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 \1. Le nombre maximum d’autorisations de séjour de courte durée délivrées aux personnes visées à l’art. 19 est fixé à 4000 au total:
 
-- a. Nombre maximum pour les cantons: 2000
+- a. nombre maximum pour les cantons: 2000
 
 <table>
-<tr><td>Zurich 399</td><td>Schaffhouse 18</td></tr>
-<tr><td>Berne 235</td><td>Appenzell Rh.-E. 9</td></tr>
-<tr><td>Lucerne 93</td><td>Appenzell Rh.-I. 4</td></tr>
-<tr><td>Uri 7</td><td>Saint-Gall 114</td></tr>
-<tr><td>Schwyz 31</td><td>Grisons 48</td></tr>
-<tr><td>Obwald 8</td><td>Argovie 130</td></tr>
-<tr><td>Nidwald 9</td><td>Thurgovie 52</td></tr>
-<tr><td>Glaris 8</td><td>Tessin 94</td></tr>
-<tr><td>Zoug 45</td><td>Vaud 181</td></tr>
-<tr><td>Fribourg 58</td><td>Valais 69</td></tr>
-<tr><td>Soleure 54</td><td>Neuchâtel 41</td></tr>
-<tr><td>Bâle-Ville 72</td><td>Genève 147</td></tr>
-<tr><td>Bâle-Campagne 57</td><td>Jura 17</td></tr>
+<tr><td>Zurich</td><td>399</td><td>Schaffhouse</td><td>17</td></tr>
+<tr><td>Berne</td><td>232</td><td>Appenzell Rh.-E.</td><td>10</td></tr>
+<tr><td>Lucerne</td><td>92</td><td>Appenzell Rh.-I.</td><td>3</td></tr>
+<tr><td>Uri</td><td>7</td><td>Saint-Gall</td><td>114</td></tr>
+<tr><td>Schwyz</td><td>31</td><td>Grisons</td><td>49</td></tr>
+<tr><td>Obwald</td><td>8</td><td>Argovie</td><td>128</td></tr>
+<tr><td>Nidwald</td><td>9</td><td>Thurgovie</td><td>53</td></tr>
+<tr><td>Glaris</td><td>8</td><td>Tessin</td><td>95</td></tr>
+<tr><td>Zoug</td><td>46</td><td>Vaud</td><td>182</td></tr>
+<tr><td>Fribourg</td><td>58</td><td>Valais</td><td>70</td></tr>
+<tr><td>Soleure</td><td>54</td><td>Neuchâtel</td><td>41</td></tr>
+<tr><td>Bâle-Ville</td><td>72</td><td>Genève</td><td>148</td></tr>
+<tr><td>Bâle-Campagne</td><td>57</td><td>Jura</td><td>17</td></tr>
 </table>
 
-- b. Nombre maximum pour la Confédération: 2000
+- b. nombre maximum pour la Confédération: 2000
 
-\2. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2024 au 31 décembre 2024.
+\2. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2025 au 31 décembre 2025.
 
-\3. Si le nombre maximum d’autorisations fixé par la modification du 23 novembre 2022[^annex1-lvlu1-1] de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont imputées sur le nombre maximum de la Confédération (ch. 1, let. b).
+\3. Si le nombre maximum d’autorisations fixé par la modification du 29 novembre 2023[^annex1-lvlu1-1] de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont imputées sur le nombre maximum de la Confédération (ch. 1, let. b).
 
 \4. Le nombre maximum d’autorisations de séjour de courte durée délivrées aux personnes visées à l’art. 19*a* est fixé à 3000 au total:
 
@@ -2505,9 +2478,9 @@ Annexe 1[^t-1]
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2024 au 31 décembre 2024; les autorisations sont accordées trimestriellement.
+\5. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2025 au 31 décembre 2025; les autorisations sont accordées trimestriellement.
 
-\6. Si le nombre maximum d’autorisations fixé par la modification du 23 novembre 2022 de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont reportées sur le premier trimestre de l’année suivante.
+\6. Si le nombre maximum d’autorisations fixé par la modification du 29 novembre 2023 de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont reportées sur le premier trimestre de l’année suivante.
 
 \7. Le nombre maximum d’autorisations de séjour de courte durée délivrées aux personnes visées à l’art. 19*b* est fixé à 1400 au total:
 
@@ -2516,9 +2489,12 @@ Annexe 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2024 au 31 décembre 2024; les autorisations sont accordées trimestriellement.
+\8. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2025 au 31 décembre 2025; les autorisations sont accordées trimestriellement.
 
-[^annex1-lvlu1-1]: [RO 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
+\9. Le nombre maximum d’autorisations de séjour de courte durée délivrées aux personnes qui sont couvertes par le champ d’application de l’Accord du 11 octobre 2024 entre le Conseil fédéral suisse et le Gouvernement des États-Unis d’Amerique relatif à l’échange de stagiaires et de jeunes professionnels[^annex1-lvlu1-2] visées à l’art. art. 42, al. 2<sup>bis</sup> est fixé à 300 par année civile. Le solde non utilisé n’est pas reporté à l’année suivante.
+
+[^annex1-lvlu1-1]: [RO 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex1-lvlu1-2]: [RS 0.142.113.367](https://fedlex.data.admin.ch/eli/cc/2024/613)
 
 Annexe 2[^t-2]
 
@@ -2526,33 +2502,33 @@ Annexe 2[^t-2]
 
 ## Nombre maximum d’autorisations de séjour
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 \1. Le nombre maximum d’autorisations de séjour délivrées aux personnes visées à l’art. 20 est fixé à 4500 au total:
 
 - a. Nombre maximum pour les cantons: 1250
 
 <table>
-<tr><td>Zurich 250</td><td>Schaffhouse 11</td></tr>
-<tr><td>Berne 147</td><td>Appenzell Rh.-E. 7</td></tr>
-<tr><td>Lucerne 59</td><td>Appenzell Rh.-I. 2</td></tr>
-<tr><td>Uri 4</td><td>Saint-Gall 71</td></tr>
-<tr><td>Schwyz 20</td><td>Grisons 31</td></tr>
-<tr><td>Obwald 5</td><td>Argovie 80</td></tr>
-<tr><td>Nidwald 6</td><td>Thurgovie 32</td></tr>
-<tr><td>Glaris 5</td><td>Tessin 58</td></tr>
-<tr><td>Zoug 29</td><td>Vaud 112</td></tr>
-<tr><td>Fribourg 36</td><td>Valais 44</td></tr>
-<tr><td>Soleure 33</td><td>Neuchâtel 26</td></tr>
-<tr><td>Bâle-Ville 45</td><td>Genève 91</td></tr>
-<tr><td>Bâle-Campagne 36</td><td>Jura 10</td></tr>
+<tr><td>Zurich</td><td>249</td><td>Schaffhouse</td><td>11</td></tr>
+<tr><td>Berne</td><td>145</td><td>Appenzell Rh.-E.</td><td>6</td></tr>
+<tr><td>Lucerne</td><td>58</td><td>Appenzell Rh.-I.</td><td>2</td></tr>
+<tr><td>Uri</td><td>4</td><td>Saint-Gall</td><td>71</td></tr>
+<tr><td>Schwyz</td><td>20</td><td>Grisons</td><td>31</td></tr>
+<tr><td>Obwald</td><td>5</td><td>Argovie</td><td>80</td></tr>
+<tr><td>Nidwald</td><td>5</td><td>Thurgovie</td><td>33</td></tr>
+<tr><td>Glaris</td><td>5</td><td>Tessin</td><td>59</td></tr>
+<tr><td>Zoug</td><td>29</td><td>Vaud</td><td>114</td></tr>
+<tr><td>Fribourg</td><td>36</td><td>Valais</td><td>44</td></tr>
+<tr><td>Soleure</td><td>33</td><td>Neuchâtel</td><td>26</td></tr>
+<tr><td>Bâle-Ville</td><td>45</td><td>Genève</td><td>92</td></tr>
+<tr><td>Bâle-Campagne</td><td>36</td><td>Jura</td><td>11</td></tr>
 </table>
 
 - b. Nombre maximum pour la Confédération: 3250
 
-\2. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2024 au 31 décembre 2024.
+\2. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2025 au 31 décembre 2025.
 
-\3. Si le nombre maximum d’autorisations fixé par la modification du 23 novembre 2022[^annex2-lvlu1-1] de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont imputées sur le nombre maximum de la Confédération (ch. 1, let. b).
+\3. Si le nombre maximum d’autorisations fixé par la modification du 29 novembre 2023[^annex2-lvlu1-1] de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont imputées sur le nombre maximum de la Confédération (ch. 1, let. b).
 
 \4. Le nombre maximum d’autorisations de séjour délivrées aux personnes visées à l’art. 20*a* est fixé à 500 au total:
 
@@ -2561,9 +2537,9 @@ Annexe 2[^t-2]
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2024 au 31 décembre 2024; les autorisations sont accordées trimestriellement.
+\5. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2025 au 31 décembre 2025; les autorisations sont accordées trimestriellement.
 
-\6. Si le nombre maximum d’autorisations fixé par la modification du 23 novembre 2022 de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont reportées sur le premier trimestre de l’année suivante.
+\6. Si le nombre maximum d’autorisations fixé par la modification du 29 novembre 2023 de la présente ordonnance n’est pas atteint, les autorisations restantes peuvent être octroyées ultérieurement. Elles sont reportées sur le premier trimestre de l’année suivante.
 
 \7. Le nombre maximum d’autorisations de séjour délivrées aux personnes visées à l’art. 20*b* est fixé à 2100 au total:
 
@@ -2572,9 +2548,9 @@ Annexe 2[^t-2]
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2024 au 31 décembre 2024; les autorisations sont accordées trimestriellement.
+\8. Ces nombres maximums sont valables du 1<sup>er</sup> janvier 2025 au 31 décembre 2025; les autorisations sont accordées trimestriellement.
 
-[^annex2-lvlu1-1]: [RO 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
+[^annex2-lvlu1-1]: [RO 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
 
 Annexe 3[^t-3]
 

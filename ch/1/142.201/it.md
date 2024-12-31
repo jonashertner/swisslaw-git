@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2024-06-01
+version: 2025-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° giugno 2024)
+del 24 ottobre 2007 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,13 +27,13 @@ ordina:
 
 [^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ## Capitolo 1: Campo d’applicazione e definizioni
 
 [^chap1-1]
 
-[^chap1-1]: Nuovo testo giusta il n. I 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^chap1-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 #### Art. 1
 
@@ -45,9 +45,9 @@ ordina:
 
 <sup>3</sup> Gli Accordi di associazione alla normativa di Dublino sono menzionati nell’allegato 4.[^1-3]
 
-[^1-1]: Nuovo testo giusta il n. I 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^1-2]: Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^1-3]: Introdotto dal n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^1-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^1-3]: Introdotto dalla cifra I n. 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
 #### Art. 1a
 
@@ -61,9 +61,9 @@ ordina:
 
 <sup>2</sup> È considerata attività lucrativa dipendente in particolare anche l’attività di apprendista, praticante, volontario, sportivo, assistente sociale, missionario, consulente religioso, artista e impiegato alla pari.[^1a-3]
 
-[^1a-1]: Introdotto dal n. I 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^1a-2]: Nuova espressione giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1a-3]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856), [2009 349](https://fedlex.data.admin.ch/eli/oc/2009/60)).
+[^1a-1]: Introdotto dalla cifra I n. 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1a-2]: Nuova espressione giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1a-3]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856), [2009 349](https://fedlex.data.admin.ch/eli/oc/2009/60)).
 
 #### Art. 2
 
@@ -99,7 +99,7 @@ ordina:
 
 Se la domanda per un permesso di soggiorno di breve durata o per un permesso di dimora in vista di svolgere un’attività lucrativa è accolta e il richiedente si trova ancora all’estero, l’autorità competente autorizza la rappresentanza svizzera all’estero a rilasciare il visto. Se il visto non è obbligatorio, l’autorità competente rilascia, su domanda, l’assicurazione di un tale permesso.
 
-[^5-1]: Nuovo testo giusta il n. I 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^5-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 #### Art. 6
 
@@ -142,7 +142,7 @@ Al momento della notificazione non è necessario presentare un documento di legi
 
 <sup>4</sup> Su richiesta, lo straniero è tenuto a mostrare il documento di legittimazione estero alle autorità competenti per il controllo delle persone o, se non lo porta con sé, a presentarlo entro un termine adeguato.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
 [^8-2]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
 
 ### Sezione 2: Procedura di notificazione e procedura di permesso in caso di soggiorno senza attività lucrativa
@@ -171,7 +171,7 @@ Al momento della notificazione non è necessario presentare un documento di legi
 
 Se non può lasciare la Svizzera entro il termine stabilito nel visto o se intende cambiare lo scopo del soggiorno, lo straniero cui è stato rilasciato un visto per un soggiorno non superiore a tre mesi deve chiederne la proroga all’autorità cantonale della migrazione[^11-1] (art. 88 cpv. 1), al più tardi 14 giorni prima della scadenza del visto.
 
-[^11-1]: Nuova espr. giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^11-1]: Nuova espr. giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 3: Procedura di notificazione e procedura di permesso in caso di soggiorno con attività lucrativa
 
@@ -187,8 +187,8 @@ Se non può lasciare la Svizzera entro il termine stabilito nel visto o se inten
 
 <sup>3</sup> Gli artisti (art. 19 cpv. 4 lett. b e 19*b* cpv. 2 lett. b) devono notificarsi indipendentemente dalla durata del soggiorno in Svizzera.[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 13
 
@@ -204,7 +204,7 @@ Gli stranieri occupati come personale di servizio che accompagnano il loro dator
 
 <sup>2</sup> La notificazione dev’essere effettuata prima dell’assunzione d’impiego.
 
-[^13a-1]: Introdotto dal n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 14
 
@@ -226,7 +226,7 @@ Indipendentemente dalla durata del soggiorno, deve avere un permesso lo stranier
 - f.[^14-2] paesaggistica.
 
 [^14-1]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^14-2]: Introdotta dal n. II dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
+[^14-2]: Introdotta dalla cifra II dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
 
 ### Sezione 4: Disposizioni generali sulla notificazione dell’arrivo e della partenza
 
@@ -276,7 +276,7 @@ I Cantoni designano i servizi competenti per il trattamento delle notificazioni 
 
 <sup>2</sup> I permessi di dimora di cui all’allegato 2 possono essere rilasciati per soggiorni di oltre un anno con attività lucrativa.
 
-[^18a-1]: Introdotto dal n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 
 #### Art. 19
 
@@ -301,11 +301,11 @@ Sono esclusi dai contingenti di cui ai capoversi 1 e 2 gli stranieri che:
 
 - b. soggiornano in Svizzera per otto mesi al massimo in un arco di tempo di 12 mesi ed esercitano un’attività lucrativa come artisti nei settori della musica, della letteratura, dello spettacolo o delle arti figurative o come artisti di circo o di teatro di varietà.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 [^19-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^19-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^19-5]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^19-5]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 19a
 
@@ -325,11 +325,11 @@ Sono esclusi dai contingenti dei permessi di soggiorno di breve durata di cui al
 - a. la durata e lo scopo del soggiorno siano definiti in anticipo; e
 - b. il numero degli stranieri occupati temporaneamente superi soltanto in casi eccezionali e motivati il quarto dell’effettivo totale del personale dell’azienda.
 
-[^19a-1]: Introdotto dal n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
-[^19a-2]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
+[^19a-2]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 [^19a-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^19a-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^19a-5]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^19a-5]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 19b
 
@@ -350,7 +350,7 @@ Sono esclusi dai contingenti di cui al capoverso 1 gli stranieri che:
 
 - b. soggiornano in Svizzera per otto mesi al massimo in un arco di tempo di 12 mesi ed esercitano un’attività lucrativa come artisti nei settori della musica, della letteratura, dello spettacolo o delle arti figurative o come artisti di circo o di teatro di varietà.
 
-[^19b-1]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^19b-1]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^19b-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 
 #### Art. 20
@@ -363,11 +363,11 @@ Sono esclusi dai contingenti di cui al capoverso 1 gli stranieri che:
 
 <sup>3</sup> Su domanda, la SEM può ripartire fra i Cantoni il contingente a disposizione della Confederazione. Allo scopo considera le necessità dei Cantoni e l’interesse economico globale durante il periodo di contingentamento definito nell’allegato 2.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 [^20-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^20-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^20-5]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^20-5]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 20a
 
@@ -378,7 +378,7 @@ I Cantoni possono rilasciare permessi di dimora, computandoli sui contingenti gi
 - a. le prestazioni sono fornite nel quadro dell’ALC[^20a-2] o della Convenzione AELS[^20a-3]; e
 - b. il soggiorno supera i 90 giorni o, qualora siano adempiti i presupposti de l’articolo 19*a* capoverso 2, i 120 giorni.
 
-[^20a-1]: Introdotto dal n. I dell’O del 3 dic. 2010 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)). Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)). Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 [^20a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^20a-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -388,7 +388,7 @@ I Cantoni possono rilasciare permessi di dimora, computandoli sui contingenti gi
 
 I Cantoni possono rilasciare permessi di dimora, computandoli sui contingenti giusta l’allegato 2 numeri 7 e 8, ai cittadini del Regno Unito che esulano dal campo d’applicazione dell’accordo sui diritti acquisiti[^20b-2].
 
-[^20b-1]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^20b-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 
 #### Art. 21
@@ -402,7 +402,7 @@ Non v’è computo sui contingenti (art. 19–20*b*) se lo straniero:[^21-1]
 - a. rinuncia all’attività lucrativa autorizzata in Svizzera;
 - b. lascia la Svizzera entro 90 giorni dall’inizio dell’attività lucrativa.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 22
 
@@ -424,7 +424,7 @@ Non v’è computo sui contingenti (art. 19–20*b*) se lo straniero:[^21-1]
 
 <sup>2</sup> Il capoverso 1 non si applica se al lavoratore distaccato o al prestatore di servizi transfrontalieri è garantito un salario minimo sulla base di un contratto collettivo di lavoro di obbligatorietà generale o di un contratto normale di lavoro ai sensi dell’articolo 360*a* del Codice delle obbligazioni[^22a-2].
 
-[^22a-1]: Introdotto dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^22a-1]: Introdotto dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^22a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 22b
@@ -437,13 +437,13 @@ Non v’è computo sui contingenti (art. 19–20*b*) se lo straniero:[^21-1]
 
 <sup>2</sup> Ai fini del rilascio di un permesso di dimora, il consulente o insegnante deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di lavoro, almeno il livello di riferimento B1 e, per quanto riguarda le competenze scritte, almeno il livello di riferimento A1 del quadro di riferimento per le lingue generalmente riconosciuto in Europa (quadro di riferimento).
 
-[^22b-1]: Originario art. 22*a*. Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^22b-1]: Originario art. 22*a*. Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ### Sezione 2: Formazione e formazione continua
 
 [^chap3-sec2-1]
 
-[^chap3-sec2-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 #### Art. 23
 
@@ -467,10 +467,10 @@ L’esistenza dei mezzi finanziari necessari per una formazione o una formazione
 
 <sup>4</sup> L’esercizio di un’attività lucrativa è retto dagli articoli 38–40.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2010 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
-[^23-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
-[^23-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
-[^23-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2010 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 #### Art. 24
 
@@ -486,9 +486,9 @@ L’esistenza dei mezzi finanziari necessari per una formazione o una formazione
 
 <sup>4</sup> In casi motivati, le competenti autorità possono anche esigere un esame linguistico.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
-[^24-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
-[^24-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^24-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 ### Sezione 3: Redditieri
 
@@ -510,7 +510,7 @@ Vi sono legami personali particolari con la Svizzera, in particolare se:
 <sup>4</sup> I mezzi finanziari sono considerati sufficienti se superano l’importo che autorizzerebbe un richiedente svizzero e se del caso i suoi familiari a percepire le prestazioni complementari giusta la legge federale del 6 ottobre 2006[^25-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC).[^25-2]
 
 [^25-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^25-2]: Introdotto dal n. I dell’O del 29 nov. 2013 ([RU 2013 4371](https://fedlex.data.admin.ch/eli/oc/2013/777)). Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^25-2]: Introdotto dalla cifra I dell’O del 29 nov. 2013 ([RU 2013 4371](https://fedlex.data.admin.ch/eli/oc/2013/777)). Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 ### Sezione 4: Deroghe alle condizioni d’ammissione
 
@@ -542,7 +542,7 @@ Il coniuge straniero e i figli stranieri con diritto di esercitare un’attivit�
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I dell’O del 4 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6413](https://fedlex.data.admin.ch/eli/oc/2009/784)).
+[^28-1]: Abrogato dalla cifra I dell’O del 4 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6413](https://fedlex.data.admin.ch/eli/oc/2009/784)).
 
 #### Art. 29
 
@@ -568,9 +568,9 @@ L’esercizio di un’attività lucrativa indipendente può essere autorizzato s
 - b. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.[^29-4]
 
 [^29-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^29-2]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^29-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^29-4]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^29-2]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^29-4]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 30
 
@@ -585,9 +585,9 @@ L’esercizio di un’attività lucrativa indipendente può essere autorizzato s
 <sup>3</sup> Le persone la cui cittadinanza svizzera è stata annullata in virtù dell’articolo 36 LCit o revocata in virtù dell’articolo 42 LCit sottostanno alle condizioni generali d’ammissione della LStrI.[^30-4]
 
 [^30-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^30-2]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^30-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^30-4]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^30-2]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^30-4]: Nuovo testo giusta l’all. cifra II n. 1 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 
 #### Art. 30a
 
@@ -610,10 +610,10 @@ Per consentire a uno straniero senza statuto di soggiorno regolare di acquisire 
 
 <sup>3</sup> I genitori, i fratelli e le sorelle della persona interessata possono ottenere un permesso di dimora se soddisfano le condizioni di cui all’articolo 31.
 
-[^30a-1]: Introdotto dal n. I dell’O del 7 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2012 7267](https://fedlex.data.admin.ch/eli/oc/2012/886)).
-[^30a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 206](https://fedlex.data.admin.ch/eli/oc/2024/206)).
-[^30a-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^30a-4]: Abrogata dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 7 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2012 7267](https://fedlex.data.admin.ch/eli/oc/2012/886)).
+[^30a-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 206](https://fedlex.data.admin.ch/eli/oc/2024/206)).
+[^30a-3]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-4]: Abrogata dalla cifra I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 31
 
@@ -643,13 +643,13 @@ Se sussiste un caso personale particolarmente grave, può essere rilasciato un p
 
 <sup>6</sup> Nella valutazione di una domanda di rilascio di un permesso di dimora secondo l’articolo 84 capoverso 5 LStrI, va presa in considerazione la partecipazione con successo a un programma d’integrazione o d’occupazione.[^31-7]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-2]: Abrogata dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^31-5]: Abrogato dal n. I dell’O del 1° mag. 2024, con effetto dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^31-6]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-7]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-2]: Abrogata dalla cifra I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-4]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-5]: Abrogato dalla cifra I dell’O del 1° mag. 2024, con effetto dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-6]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-7]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 32
 
@@ -668,7 +668,7 @@ Per la tutela di importanti interessi pubblici può essere rilasciato un permess
 
 <sup>2</sup> Nel caso di ammissione secondo il capoverso 1 lettere a e b, l’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni dell’articolo 29 capoverso 2 o 3.[^32-1]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 33
 
@@ -678,13 +678,13 @@ Per la tutela di importanti interessi pubblici può essere rilasciato un permess
 
 Il minore affiliato può ottenere un permesso di dimora se le condizioni di diritto civile per l’accoglimento di un affiliando straniero sono adempite.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
 #### Art. 34
 
 [^34-1]
 
-[^34-1]: Abrogato dal n. I dell’O del 22 ott. 2014, con effetto dal 1° gen. 2016 ([RU 2014 3541](https://fedlex.data.admin.ch/eli/oc/2014/613)).
+[^34-1]: Abrogato dalla cifra I dell’O del 22 ott. 2014, con effetto dal 1° gen. 2016 ([RU 2014 3541](https://fedlex.data.admin.ch/eli/oc/2014/613)).
 
 #### Art. 35
 
@@ -705,10 +705,10 @@ Il periodo di recupero e di riflessione finisce inoltre se lo straniero in quest
 - c. in base a nuovi elementi risulta non essere né una vittima né un testimone della tratta di esseri umani; o
 - d. viola gravemente la sicurezza e l’ordine pubblici.
 
-[^35-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^35-2]: Nuovo testo giusta l’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^35-3]: Nuovo testo giusta l’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^35-4]: Nuovo testo giusta l’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^35-1]: Nuovo testo giusta l’all. cifra II n. 1 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^35-2]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^35-3]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^35-4]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 
 #### Art. 36
 
@@ -734,7 +734,7 @@ L’esercizio di un’attività lucrativa può essere autorizzato, se:
 
 <sup>6</sup> Può essere autorizzato un ulteriore soggiorno in presenza di casi personali particolarmente gravi (art. 31). Occorre considerare la situazione particolare delle vittime nonché dei testimoni della tratta di esseri umani. È fatta salva la disposizione sull’ammissione provvisoria (art. 83 LStrI).
 
-[^36-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^36-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 
 #### Art. 36a
 
@@ -753,9 +753,9 @@ Nell’ambito della protezione extraprocessuale dei testimoni allo straniero è 
 
 <sup>3</sup> L’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni di cui all’articolo 29 capoverso 2 o 3.[^36a-3]
 
-[^36a-1]: Introdotto dall’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^36a-1]: Introdotto dall’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 [^36a-2]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^36a-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^36a-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 37
 
@@ -785,8 +785,8 @@ Lo straniero che assolve una formazione o una formazione continua presso un’un
 - c. vi è la domanda di un datore di lavoro secondo l’articolo 18 lettera b LStrI;
 - d. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
-[^38-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 #### Art. 39
 
@@ -841,7 +841,11 @@ Per agevolare gli scambi internazionali nel settore economico, scientifico e cul
 
 <sup>2</sup> La SEM può, computandoli sul contingente definito negli accordi sui praticanti, decidere di far rilasciare permessi a praticanti per soggiorni di 18 mesi al massimo.
 
+<sup>2bis</sup> Se i contingenti dei permessi non sono stabiliti negli accordi sui praticanti, la SEM può rilasciare permessi di soggiorno di breve durata, computandoli sui contingenti giusta l’allegato 1 numero 9, agli stranieri che rientrano nel campo d’applicazione di tali accordi.[^42-1]
+
 <sup>3</sup> La SEM può decidere di prorogare i permessi dei praticanti, nell’ambito del soggiorno massimo di 18 mesi.
+
+[^42-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 #### Art. 43
 
@@ -906,7 +910,7 @@ Per semplificare il trasferimento, per motivi aziendali, di quadri superiori e s
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. I dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
+[^47-1]: Abrogato dalla cifra I dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 
 #### Art. 48
 
@@ -929,7 +933,7 @@ L’impiegato alla pari straniero può ottenere un permesso di soggiorno di brev
 <sup>2</sup> I permessi per gli impiegati alla pari sono rilasciati per 12 mesi al massimo e non possono essere prorogati.
 
 [^48-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^48-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 49
 
@@ -952,7 +956,7 @@ L’esercizio di un’attività lucrativa dipendente può essere autorizzato se:
 - b. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI;
 - c. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
 
 #### Art. 50
 
@@ -967,8 +971,8 @@ Lo straniero che ha soggiornato provvisoriamente all’estero per conto del suo 
 - c. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI;
 - d. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
-[^50-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^50-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 #### Art. 51
 
@@ -1001,10 +1005,10 @@ Sempreché le condizioni secondo il diritto in materia d’asilo (art. 43 cpv. 1
 
 <sup>2</sup> ...[^52-4]
 
-[^52-1]: Introdotta dal n. I 1 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^52-1]: Introdotta dalla cifra I n. 1 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^52-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^52-4]: Abrogato dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^52-4]: Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 53
 
@@ -1021,7 +1025,7 @@ Una volta ottenuta la protezione provvisoria, la persona bisognosa di protezione
 
 <sup>2</sup> Una volta ottenuta la protezione provvisoria, la persona bisognosa di protezione può essere autorizzata a esercitare un’attività lucrativa indipendente temporanea se sono adempite le condizioni di cui all’articolo 19 lettere b e c LStrI.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
 
 #### Art. 53a
 
@@ -1031,7 +1035,7 @@ Una volta ottenuta la protezione provvisoria, la persona bisognosa di protezione
 
 Il richiedente l’asilo, lo straniero ammesso provvisoriamente o la persona bisognosa di protezione che partecipa a un programma d’occupazione sottostà alle condizioni stabilite in tale programma.
 
-[^53a-1]: Introdotto dal n. I dell’O del 15 ago. 2018 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^53a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 ### Sezione 5: Cambiamento dello scopo del soggiorno
 
@@ -1061,8 +1065,8 @@ Lo straniero titolare di un permesso di soggiorno di breve durata può essere au
 
 <sup>3</sup> Uno straniero può ottenere una sola volta il permesso di soggiorno di breve durata per una formazione o una formazione continua (art. 23 e 24), per un soggiorno come impiegato alla pari (art. 48) oppure come praticante (art. 42). Sono ammesse deroghe in singoli casi motivati.[^56-2]
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^56-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^56-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 #### Art. 57
 
@@ -1079,7 +1083,7 @@ I seguenti permessi non possono essere rilasciati immediatamente uno dopo l’al
 
 <sup>2</sup> Fra un permesso e l’altro, lo straniero in questione deve soggiornare all’estero per almeno due mesi e fornirne la prova.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 ### Sezione 2: Permesso di dimora
 
@@ -1111,7 +1115,7 @@ I seguenti permessi non possono essere rilasciati immediatamente uno dopo l’al
 
 <sup>2</sup> Lo straniero deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A2 e, per quanto riguarda le competenze scritte, almeno il livello di riferimento A1 del quadro di riferimento.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 61
 
@@ -1123,7 +1127,7 @@ I seguenti permessi non possono essere rilasciati immediatamente uno dopo l’al
 
 <sup>2</sup> Lo straniero deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A2 e, per quanto riguarda le competenze scritte, almeno il livello di riferimento A1 del quadro di riferimento.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 61a
 
@@ -1142,7 +1146,7 @@ Il permesso di domicilio può essere rilasciato nuovamente se:
 
 <sup>3</sup> Lo straniero deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A2 e, per quanto riguarda le competenze scritte, almeno il livello di riferimento A1 del quadro di riferimento.
 
-[^61a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^61a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 62
 
@@ -1158,9 +1162,9 @@ Il permesso di domicilio può essere rilasciato nuovamente se:
 
 <sup>2</sup> Nell’esame della domanda di rilascio anticipato del permesso di domicilio è tenuto conto del grado d’integrazione dei membri della famiglia di età superiore a 12 anni.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^62-2]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^62-3]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^62-2]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^62-3]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 62a
 
@@ -1179,7 +1183,7 @@ Se non viene vincolata a un accordo d’integrazione o a una raccomandazione per
 - c. le condizioni per poter rimanere in Svizzera (art. 33 cpv. 2 LStrI);
 - d. le conseguenze per il soggiorno in Svizzera in caso d’inadempimento delle condizioni di cui alla lettera c (art. 62 cpv. 1 lett. d LStrI).
 
-[^62a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^62a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 63
 
@@ -1189,13 +1193,13 @@ Se non viene vincolata a un accordo d’integrazione o a una raccomandazione per
 
 Lo straniero titolare del permesso di domicilio deve presentare o consegnare, per la proroga, la carta di soggiorno alle autorità cantonali della migrazione (art. 88 cpv. 1) almeno 14 giorni prima della scadenza della validità. La proroga avviene al più presto tre mesi prima della scadenza della validità; sono ammesse deroghe in singoli casi motivati.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
 
 ### Sezione 4: Richiedenti l’asilo, persone bisognose di protezione, stranieri ammessi provvisoriamente, rifugiati e apolidi esercitanti un’attività lucrativa
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^chap4-sec4-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 64
 
@@ -1211,10 +1215,10 @@ Lo straniero titolare del permesso di domicilio deve presentare o consegnare, pe
 
 <sup>3</sup> Al cambiamento d’impiego di stranieri, rifugiati o apolidi ammessi provvisoriamente in Svizzera, di rifugiati che vi hanno ottenuto asilo e apolidi che vi sono riconosciuti nonché di rifugiati o di apolidi oggetto di un’espulsione giudiziaria passata in giudicato si applicano per analogia gli articoli 65–65*c.*[^64-4]
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^64-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^64-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
-[^64-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-3]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^64-4]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 65
 
@@ -1261,16 +1265,16 @@ L’inizio di un’attività lucrativa non soggiace all’obbligo di notifica se
 
 <sup>8</sup> I capoversi 4 e 7 si applicano per analogia alle autorità che attuano direttamente provvedimenti d’integrazione e di reintegrazione professionale.[^65-10]
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-4]: Introdotto dal n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-5]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^65-6]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65-4]: Introdotto dalla cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65-5]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-6]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^65-7]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 [^65-8]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^65-9]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^65-10]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-9]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-10]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 65a
 
@@ -1282,8 +1286,8 @@ L’inizio di un’attività lucrativa non soggiace all’obbligo di notifica se
 
 Alla notifica della fine di un’attività lucrativa si applica per analogia l’articolo 65 capoversi 2–4 e 6.
 
-[^65a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^65a-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 65b
 
@@ -1305,8 +1309,8 @@ Alla notifica dell’inizio di un’attività lucrativa, l’autorità competent
 
 <sup>3</sup> Alla notifica della fine di un’attività lucrativa, l’autorità competente ne registra la data in SIMIC.
 
-[^65b-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65b-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65b-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^65b-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 65c
 
@@ -1320,15 +1324,15 @@ Alla notifica dell’inizio di un’attività lucrativa, l’autorità competent
 
 <sup>2</sup> Può altresì inoltrare una copia della notifica ad altri organi di controllo, per esempio alle commissioni tripartite secondo l’articolo 360*b* del Codice delle obbligazioni[^65c-3] o alle commissioni paritetiche incaricate dell’esecuzione del contratto collettivo di lavoro del pertinente settore.
 
-[^65c-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65c-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65c-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^65c-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65c-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Sezione 5: Validità territoriale dei permessi e cambiamento di Cantone di persone ammesse provvisoriamente
 
 [^chap4-sec5-1]
 
-[^chap4-sec5-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^chap4-sec5-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 66
 
@@ -1372,7 +1376,7 @@ Considerato l’orario di lavoro, non è ragionevole esigere la permanenza nel C
 
 <sup>5</sup> La SEM può inoltre disporre un cambiamento di Cantone se entrambi i Cantoni in questione sono d’accordo.
 
-[^67a-1]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^67a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 68
 
@@ -1382,8 +1386,8 @@ Considerato l’orario di lavoro, non è ragionevole esigere la permanenza nel C
 
 <sup>2</sup> Lo stesso vale per gli stranieri ai quali, in virtù dell’articolo 36 capoverso 2, è stato rilasciato un permesso di soggiorno di breve durata valido per la presumibile durata delle indagini di polizia o della procedura giudiziaria e che soggiornano fuori dal Cantone che ha rilasciato il permesso.[^68-2]
 
-[^68-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^68-2]: Introdotto dall’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^68-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^68-2]: Introdotto dall’all. cifra II n. 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 
 #### Art. 69
 
@@ -1391,7 +1395,7 @@ Considerato l’orario di lavoro, non è ragionevole esigere la permanenza nel C
 
 Nel caso di minorenni stranieri sotto tutela (art. 327*a*–327*c* del Codice civile[^69-2], CC) e di stranieri sotto curatela generale (art. 398 CC), il Cantone competente per la regolamentazione del soggiorno secondo il diritto in materia di stranieri è quello in cui si trova la sede dell’autorità di protezione dei minori e degli adulti (APMA) competente.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^69-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 70
@@ -1404,13 +1408,13 @@ Nel caso di minorenni stranieri sotto tutela (art. 327*a*–327*c* del Codice ci
 
 [^70-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^70-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^70-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^70-3]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ## Capitolo 5: Carta di soggiorno
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2010, in vigore dal 24 gen. 2011 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2010, in vigore dal 24 gen. 2011 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)).
 
 #### Art. 71
 
@@ -1422,7 +1426,7 @@ Nel caso di minorenni stranieri sotto tutela (art. 327*a*–327*c* del Codice ci
 
 <sup>3</sup> Per regolare il loro soggiorno, gli artisti e i musicisti con ingaggio mensile (art. 19 cpv. 4 lett. b e 19*b* cpv. 2 lett. b) ricevono, indipendentemente dalla durata del soggiorno, un attestato di lavoro e, se l’ingaggio è superiore a tre mesi, una carta di soggiorno.[^71-1]
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 71a
 
@@ -1448,10 +1452,10 @@ Le persone seguenti ricevono un permesso specifico relativo al loro statuto part
 
 <sup>3</sup> Il richiedente l’asilo che non è stato attribuito a un Cantone riceve una conferma per la durata della procedura d’asilo secondo l’articolo 42 LAsi.[^71a-4]
 
-[^71a-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71a-2]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71a-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
+[^71a-2]: Nuovo testo giusta la cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 [^71a-3]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
-[^71a-4]: Introdotto dal n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71a-4]: Introdotto dalla cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 71b
 
@@ -1478,12 +1482,12 @@ La carta di soggiorno non biometrica può essere rilasciata:
 <sup>4</sup> Il titolo di soggiorno per frontalieri che sono cittadini del Regno Unito, che sono domiciliati in uno Stato Schengen e che rientrano nel campo d’applicazione dell’accordo del 25 febbraio 2019 sui diritti acquisiti contiene la menzione che il titolo di soggiorno è rilasciato conformemente a questo accordo.[^71b-7]
 
 [^71b-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71b-2]: Introdotta dal n. I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
+[^71b-2]: Introdotta dalla cifra I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 [^71b-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^71b-4]: Nuovo testo giusta il n. I dell’O del 13 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
+[^71b-4]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
 [^71b-5]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
-[^71b-6]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^71b-7]: Introdotto dal n. I dell’O del 22 mar. 2019 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)). Nuovo testo giusta il n. I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
+[^71b-6]: Nuovo testo giusta la cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71b-7]: Introdotto dalla cifra I dell’O del 22 mar. 2019 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)). Nuovo testo giusta la cifra I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 
 #### Art. 71c
 
@@ -1517,17 +1521,17 @@ Conformemente alle esigenze del regolamento (CE) n. 1030/2002[^71c-1], la carta 
 
 <sup>6</sup> Il cittadino di cui ai capoversi 1 e 4 titolare di una carta non biometrica, rilasciata dopo il 12 dicembre 2008 secondo le disposizioni del regolamento (CE) n. 1030/2002[^71d-10], o di un altro documento cartaceo può conservarli fino alla scadenza della loro durata di validità.[^71d-11]
 
-[^71d-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
+[^71d-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
 [^71d-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^71d-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^71d-4]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^71d-4]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^71d-5]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^71d-6]: Introdotto dal n. I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
+[^71d-6]: Introdotto dalla cifra I dell’O del 25 nov. 2020 (Contingenti per cittadini del Regno Unito), in vigore dal 1° gen. 2021 ([RU 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 [^71d-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^71d-8]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^71d-9]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^71d-8]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^71d-9]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^71d-10]: Cfr. nota a piè di pagina relativa all’art. 71*c*.
-[^71d-11]: Nuovo testo giusta il n. II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^71d-11]: Nuovo testo giusta la cifra II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
 
 #### Art. 71e
 
@@ -1549,8 +1553,8 @@ Conformemente alle esigenze del regolamento (CE) n. 1030/2002[^71c-1], la carta 
 
 <sup>8</sup> Le persone di cui, per ragioni fisiche, è impossibile rilevare le impronte digitali sono esentate dall’obbligo di darle.
 
-[^71e-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^71e-2]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71e-1]: Nuovo testo giusta la cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71e-2]: Nuovo testo giusta la cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 71f
 
@@ -1568,8 +1572,8 @@ Conformemente alle esigenze del regolamento (CE) n. 1030/2002[^71c-1], la carta 
 
 Le autorità cantonali possono esigere dagli adulti e dai minori una registrazione dei dati biometrici prima dello scadere del termine di cinque anni previsto dall’articolo 102*a* capoverso 4 LStrI qualora siano constatate importanti modifiche della fisionomia tali da impedire l’identificazione del titolare della carta di soggiorno.
 
-[^71g-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^71g-2]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71g-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^71g-2]: Nuovo testo giusta la cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 71h
 
@@ -1583,7 +1587,7 @@ I Cantoni riprendono la carta di soggiorno e la pertinente procedura di allestim
 
 Se lo straniero trasferisce il proprio domicilio in un Comune o in un Cantone con un’altra lingua ufficiale, il Cantone può rilasciare una nuova carta di soggiorno in quella lingua.
 
-[^71i-1]: Introdotto dal n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^71i-1]: Introdotto dalla cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 72
 
@@ -1593,7 +1597,7 @@ Se lo straniero trasferisce il proprio domicilio in un Comune o in un Cantone co
 
 <sup>2</sup> L’autorità della migrazione[^72-1] può ritirare la carta di soggiorno se non sono più adempite le condizioni del soggiorno.
 
-[^72-1]: Nuova espr. giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
+[^72-1]: Nuova espr. giusta la cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 #### Art. 72a
 
@@ -1620,14 +1624,14 @@ La SEM è autorizzata a comunicare i diritti di lettura per le impronte digitali
 - b. alle autorità svizzere autorizzate a procedere alla lettura delle impronte digitali ai sensi dell’articolo 102*b* LStrI;
 - c. alle imprese e agli esercenti di cui al capoverso 1.
 
-[^72a-1]: Nuovo testo giusta il n. II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^72a-1]: Nuovo testo giusta la cifra II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
 [^72a-2]: Cfr. nota a piè di pagina relativa all’art. 71*c*.
 
 ## Capitolo 5*a*: Centro incaricato di confezionare la carta di soggiorno biometrica
 
 [^chap5a-1]
 
-[^chap5a-1]: Introdotto dal n. I dell’O del 17 dic. 2010, in vigore dal 24 gen. 2011 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)).
+[^chap5a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2010, in vigore dal 24 gen. 2011 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)).
 
 #### Art. 72b
 
@@ -1650,7 +1654,7 @@ Come prova della buona reputazione del centro incaricato di confezionare la cart
 
 <sup>4</sup> La SEM può chiedere al centro incaricato di confezionare la carta di soggiorno biometrica di cui all’articolo 41*b* LStrI di verificare regolarmente in modo autonomo la buona reputazione delle persone interessate e di confermare che godono di una buona reputazione.
 
-[^72b-1]: Nuovo testo giusta l’all. 10 n. II 4 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^72b-1]: Nuovo testo giusta l’all. 10 cifra II n. 4 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 72c
 
@@ -1697,7 +1701,7 @@ La SEM può chiedere al centro di cui all’articolo 41*b* LStrI e, se necessari
 
 <sup>2</sup> Ai fini della proroga del permesso di dimora conformemente agli articoli 43 o 44 LStrI, il coniuge di uno straniero titolare del permesso di domicilio o di dimora deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A1 del quadro di riferimento.
 
-[^73a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^73a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 73b
 
@@ -1707,7 +1711,7 @@ La SEM può chiedere al centro di cui all’articolo 41*b* LStrI e, se necessari
 
 Ai fini del rilascio del permesso di domicilio conformemente agli articoli 42 o 43 LStrI, il coniuge di uno svizzero o di uno straniero titolare del permesso di domicilio deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A2 e, per quanto riguarda le competenze scritte, almeno il livello di riferimento A1 del quadro di riferimento.
 
-[^73b-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^73b-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 74
 
@@ -1729,8 +1733,8 @@ Ai fini del rilascio del permesso di domicilio conformemente agli articoli 42 o 
 
 <sup>6</sup> Le disposizioni dei capoversi 1–5 sono applicabili per analogia all’unione domestica registrata di coppie omosessuali.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^74-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^74-3]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 74a
@@ -1745,9 +1749,9 @@ Ai fini del rilascio del permesso di domicilio conformemente agli articoli 42 o 
 
 <sup>2</sup> Se la condizione di cui al capoverso 1 non è adempita, è sufficiente l’iscrizione a un’offerta di promozione linguistica che consenta di raggiungere almeno il livello di riferimento A1 del quadro di riferimento.[^74a-3]
 
-[^74a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^74a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^74a-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^74a-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74a-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 75
 
@@ -1767,53 +1771,19 @@ Sono considerati motivi gravi per una deroga all’esigenza della coabitazione i
 
 #### Art. 77
 
-**Scioglimento della comunità familiare**
+**Competenze linguistiche correlate ai diritti garantiti per legge in caso di scioglimento della comunità familiare**[^77-1]
 
-### (art. 44 e 50 cpv. 1 lett. a e b LStrI)
+### (art. 50 cpv. 1 lett. a LStrI)
 
-<sup>1</sup>
+Il diritto secondo l’articolo 50 capoverso 1 lettera a LStrI è dato unicamente se il richiedente dimostra di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A1 del quadro di riferimento.
 
-Dopo lo scioglimento del matrimonio o della comunità familiare, il permesso di dimora del coniuge e dei figli rilasciato nell’ambito del ricongiungimento familiare secondo l’articolo 44 LStrI può essere prorogato se:[^77-1]
-
-- a.[^77-2] l’unione coniugale è durata almeno tre anni e sono soddisfatti i criteri d’integrazione conformemente all’articolo 58*a* capoverso 1 LStrI; o
-- b. gravi motivi personali rendono necessario un ulteriore soggiorno in Svizzera.
-
-<sup>2</sup> Sussistono gravi motivi personali secondo il capoverso 1 lettera b segnatamente se il coniuge è stato vittima di violenza nel matrimonio, se il matrimonio contratto non è espressione della libera volontà di uno degli sposi o se il reinserimento sociale nel Paese d’origine appare fortemente compromesso.[^77-3]
-
-<sup>3</sup> Il termine per il rilascio del permesso di domicilio è retto dall’articolo 34 LStrI.
-
-<sup>4</sup> Ai fini della proroga del permesso di dimora conformemente all’articolo 50 capoverso 1 lettera a LStrI e al capoverso 1 lettera a del presente articolo, il richiedente deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A1 del quadro di riferimento.[^77-4]
-
-<sup>5</sup> Se è fatta valere l’esistenza di violenza nel matrimonio secondo il capoverso 1 lettera b nonché l’articolo 50 capoverso 2 LStrI, le competenti autorità possono esigere una prova.
-
-<sup>6</sup>
-
-Come indizi di violenza coniugale valgono in particolare:
-
-- a. i certificati medici;
-- b. i rapporti di polizia;
-- c. le denunce penali;
-- d.[^77-5] i provvedimenti ai sensi dell’articolo 28*b* CC[^77-6]; o
-- e. le corrispondenti condanne penali.
-
-<sup>6bis</sup> Nell’esame dei gravi motivi personali secondo il capoverso 1 lettera b e secondo l’articolo 50 capoverso 1 lettera b LStrI è tenuto conto delle indicazioni e delle informazioni di servizi specializzati.[^77-7]
-
-<sup>7</sup> Le disposizioni dei capoversi 1–6<sup>bis</sup> sono applicabili per analogia all’unione domestica registrata di coppie omosessuali.[^77-8]
-
-[^77-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-2]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-3]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1041](https://fedlex.data.admin.ch/eli/oc/2013/227)).
-[^77-4]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-5]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^77-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^77-7]: Introdotto dal n. I dell’O del 23 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
-[^77-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 714](https://fedlex.data.admin.ch/eli/oc/2024/714)).
 
 ## Capitolo 6*a*: Criteri d’integrazione
 
 [^chap6a-1]
 
-[^chap6a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^chap6a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 77a
 
@@ -1896,7 +1866,10 @@ Nel valutare i criteri d’integrazione di cui all’articolo 58*a* capoverso 1 
 
   - 1\. ha grandi difficoltà a imparare, leggere o scrivere,
   - 2\. è un lavoratore povero,
-  - 3\. adempie obblighi di assistenza.
+  - 3\. adempie obblighi di assistenza,
+  - 4\.[^77f-1] soffre delle conseguenze negative della violenza domestica o di un matrimonio forzato.
+
+[^77f-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 714](https://fedlex.data.admin.ch/eli/oc/2024/714)).
 
 #### Art. 77g
 
@@ -1944,7 +1917,7 @@ Nel valutare i criteri d’integrazione di cui all’articolo 58*a* capoverso 1 
 
 [^80-1]
 
-[^80-1]: Abrogato dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^80-1]: Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 81
 
@@ -1958,7 +1931,7 @@ Le autorità cantonali possono chiedere alla SEM di pronunciare un divieto d’e
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 82
 
@@ -1970,7 +1943,7 @@ Le autorità cantonali possono chiedere alla SEM di pronunciare un divieto d’e
 
 <sup>2</sup> Comunicano parimenti se uno straniero controllato soggiorna illegalmente in Svizzera.
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 82a
 
@@ -1984,7 +1957,7 @@ Le autorità cantonali possono chiedere alla SEM di pronunciare un divieto d’e
 
 <sup>3</sup> I capoversi 1 e 2 si applicano per analogia alle unioni domestiche registrate di coppie omossessuali.
 
-[^82a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 82b
 
@@ -1994,7 +1967,7 @@ Le autorità cantonali possono chiedere alla SEM di pronunciare un divieto d’e
 
 Le autorità competenti per l’erogazione di prestazioni dell’aiuto sociale comunicano spontaneamente alle autorità cantonali competenti nel settore della migrazione il versamento di tali prestazioni a stranieri.
 
-[^82b-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82b-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 82c
 
@@ -2020,10 +1993,10 @@ Devono essere comunicati i dati di:
 
 <sup>2</sup> Il capoverso 1 non si applica se gli interessati possiedono un permesso di domicilio.
 
-[^82c-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^82c-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^82c-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82c-2]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^82c-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^82c-4]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^82c-4]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 82d
 
@@ -2049,7 +2022,7 @@ La comunicazione deve avvenire entro 20 giorni:
 
 <sup>4</sup> L’autorità cantonale competente nel settore della migrazione che sulla base dei dati ottenuti decide di non prorogare o di revocare un permesso di soggiorno di breve durata o un permesso di dimora è tenuta a informarne l’organo competente per la determinazione e il versamento della prestazione complementare entro 20 giorni dal passaggio in giudicato.
 
-[^82d-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82d-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^82d-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
 #### Art. 82e
@@ -2062,7 +2035,7 @@ La comunicazione deve avvenire entro 20 giorni:
 
 <sup>2</sup> Il capoverso 1 non si applica se l’allievo non soggiorna legalmente in Svizzera.
 
-[^82e-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82e-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 82f
 
@@ -2080,7 +2053,7 @@ Le APMA comunicano spontaneamente alle autorità cantonali competenti nel settor
 
 <sup>2</sup> Le autorità giudiziarie comunicano spontaneamente all’autorità cantonale competente nel settore della migrazione le misure di protezione del figlio di cui al capoverso 1 lettere a *e* b da loro ordinate in una procedura del diritto di famiglia.
 
-[^82f-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82f-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^82f-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 82g
@@ -2098,7 +2071,7 @@ Nel quadro dell’applicazione degli Accordi di associazione alla normativa di D
 
 <sup>3</sup> La procedura è retta dagli articoli 31 e 32 del regolamento (UE) n. 604/2013[^82g-4] e dagli articoli 8 paragrafo 3 e 15*a* del regolamento (CE) n. 1560/2003.
 
-[^82g-1]: Originario art. 82*a*. Introdotto dal n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^82g-1]: Originario art. 82*a*. Introdotto dalla cifra I n. 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^82g-2]: Gli Acc. di associazione alla normativa di Dublino sono menzionati nell’all. 4.
 [^82g-3]: Regolamento (CE) 1560/2003 della Commissione, del 2 set. 2003, recante modalità di applicazione del regolamento (CE) n. 343/2003 del Consiglio che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda d’asilo presentata in uno degli Stati membri da un cittadino di un Paese terzo, GU L 222 del 5.9.2003, pag. 3; modificato da ultimo dal regolamento di esecuzione (UE) n. 118/2014, GU L 39 dell’8.2.2014, pag. 1.
 [^82g-4]: Regolamento (UE) 604/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione), nella versione della GU L 180 del 29.6.2013, pag. 31.
@@ -2125,7 +2098,7 @@ Prima del primo rilascio di un permesso di soggiorno di breve durata o di un per
 
 <sup>4</sup> D’intesa con la SEM, invece di decisioni nel singolo caso secondo il capoverso 1 lettera c e il capoverso 2 può essere concessa un’approvazione generale per determinate categorie di stranieri e di domande.
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 83a
 
@@ -2137,11 +2110,11 @@ Prima del primo rilascio di un permesso di soggiorno di breve durata o di un per
 
 <sup>3</sup> Le spese di esecuzione dell’allontanamento sono rimborsate conformemente all’articolo 7 della direttiva 2001/40/CE e alla decisione 2004/191/CE[^83a-6]. La SEM è l’organo di contatto ai sensi di detta decisione.
 
-[^83a-1]: Introdotto dal n. I 3 dell’O del 22 ott. 2008 (Schengen/Dublino ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^83a-1]: Introdotto dalla cifra I n. 3 dell’O del 22 ott. 2008 (Schengen/Dublino ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I n. 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^83a-2]: Direttiva 2001/40/CE del Consiglio, del 28 maggio 2001, relativa al riconoscimento reciproco delle decisioni di allontanamento dei cittadini di paesi terzi, versione della GU L 149 del 2.6.2001, pag. 34.
 [^83a-3]: Gli Acc. di associazione alla normativa di Schengen sono menzionati nell’all. 3.
 [^83a-4]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice comunitario relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), versione della GU L 77 del 23.3.2016, pag. 1; modificato dal regolamento (UE) 2017/458, GU L 74 del 18.3.2017, pag. 1.
-[^83a-5]: Nuovo testo giusta il n. II dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2549](https://fedlex.data.admin.ch/eli/oc/2017/239)).
+[^83a-5]: Nuovo testo giusta la cifra II dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2549](https://fedlex.data.admin.ch/eli/oc/2017/239)).
 [^83a-6]: Decisione 2004/191/CE del Consiglio, del 23 feb. 2004, che definisce i criteri e le modalità pratiche per la compensazione degli squilibri finanziari risultanti dall’applicazione della direttiva 2001/40/CE del Consiglio relativa al riconoscimento reciproco delle decisioni di allontanamento dei cittadini di paesi terzi, versione della GU L 60 del 27.2.2004, pag. 55.
 
 #### Art. 84
@@ -2162,9 +2135,9 @@ La validità della decisione preliminare delle autorità cantonali preposte al m
 
 <sup>3</sup> L’autorità cantonale preposta al mercato del lavoro (art. 83) e l’autorità cantonale della migrazione (art. 88 cpv. 1) possono sottoporre alla SEM per approvazione una decisione cantonale affinché verifichi se le condizioni previste dal diritto federale sono adempiute.[^85-3]
 
-[^85-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2015, in vigore dal 1° set. 2015 ([RU 2015 2739](https://fedlex.data.admin.ch/eli/oc/2015/517)).
-[^85-2]: Nuovo testo giusta il n. II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
-[^85-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° feb. 2023 ([RU 2022 660](https://fedlex.data.admin.ch/eli/oc/2022/660)).
+[^85-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2015, in vigore dal 1° set. 2015 ([RU 2015 2739](https://fedlex.data.admin.ch/eli/oc/2015/517)).
+[^85-2]: Nuovo testo giusta la cifra II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^85-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° feb. 2023 ([RU 2022 660](https://fedlex.data.admin.ch/eli/oc/2022/660)).
 
 #### Art. 86
 
@@ -2193,7 +2166,7 @@ Nega l’approvazione:
 
 <sup>5</sup> La carta di soggiorno può essere rilasciata soltanto dopo l’approvazione da parte della SEM.
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 ## Capitolo 10: Protezione dei dati
 
@@ -2260,33 +2233,33 @@ I dati di cui al capoverso 1 lettere a e b possono essere rilevati sistematicame
 - c. i richiedenti un visto D per motivi umanitari ai sensi dell’articolo 4 capoverso 2 dell’ordinanza del 15 agosto 2018[^87-21] concernente l’entrata e il rilascio del visto.[^87-22]
 
 [^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° dic. 2022.
-[^87-2]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^87-3]: Introdotta dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^87-4]: Introdotta dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-3]: Introdotta dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-4]: Introdotta dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2017/458, GU L 74 del 18.3.2017, p. 1.
-[^87-6]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-6]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-7]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-8]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^87-9]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-10]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-11]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^87-11]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
 [^87-12]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-13]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^87-14]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-15]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-16]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-17]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-13]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^87-14]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-15]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-16]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-17]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-18]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^87-19]: Cfr. nota a piè di pagina relativa all’art. 71*c*.
-[^87-20]: Introdotto dal n. I dell’O del 17 dic. 2010 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^87-20]: Introdotto dalla cifra I dell’O del 17 dic. 2010 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nuovo testo giusta la cifra I n. 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^87-21]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^87-22]: Introdotto dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-22]: Introdotto dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
 ## Capitolo 10*a*: Eurodac
 
 [^chap10a-1]
 
-[^chap10a-1]: Introdotta dal n. I 1 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^chap10a-1]: Introdotta dalla cifra I 1 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
 #### Art. 87a
 
@@ -2358,7 +2331,7 @@ Essa adempie segnatamente i compiti seguenti:
 
 <sup>6</sup> Le persone incaricate dell’audizione di minorenni devono tenere conto degli aspetti specifici della minore età.
 
-[^88a-1]: Introdotto dal n. I 1 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^88a-1]: Introdotto dalla cifra I n. 1 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
 #### Art. 89
 
@@ -2372,7 +2345,7 @@ La SEM emana le istruzioni necessarie per l’esecuzione della presente ordinanz
 
 È data una protezione adeguata dei dati dell’interessato ai sensi dell’articolo 111*d* capoverso 3 LStrI se le garanzie adeguate adempiono i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^89a-2] sulla protezione dei dati.
 
-[^89a-1]: Introdotto dal n. I 3 dell’O del 22 ott. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 n. II 4 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89a-1]: Introdotto dalla cifra I n. 3 dell’O del 22 ott. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^89a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 90
@@ -2385,7 +2358,7 @@ Nel calcolo dei termini di notificazione è computato il giorno dell’arrivo in
 
 [^chap11a-1]
 
-[^chap11a-1]: Introdotto dal n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
+[^chap11a-1]: Introdotto dalla cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
 
 ### (art. 120 cpv. 2 LStrI)
 
@@ -2398,7 +2371,7 @@ Nel calcolo dei termini di notificazione è computato il giorno dell’arrivo in
 - a. l’obbligo di notificazione secondo l’articolo 13*a*;
 - b. l’obbligo di presentare o consegnare la carta di soggiorno secondo gli articoli 63 o 72.
 
-[^90a-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^90a-1]: Nuovo testo giusta la cifra I dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 ## Capitolo 12: Disposizioni finali
 
@@ -2414,23 +2387,23 @@ Le seguenti ordinanze sono abrogate:
 - 4\. l’ordinanza del 19 gennaio 1965[^91-4] concernente l’assicurazione d’un permesso di dimora per l’assunzione d’impiego;
 - 5\. l’ordinanza del 6 ottobre 1986[^91-5] che limita l’effettivo degli stranieri.
 
-[^91-1]: [[RU 1949 233](https://fedlex.data.admin.ch/eli/oc/1949/228_232_233), [1980 1730](https://fedlex.data.admin.ch/eli/oc/1980/1730_1730_1730)art. 16, [1983 534](https://fedlex.data.admin.ch/eli/oc/1983/534_534_534), [1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791)art. 57 cpv. 2, [1987 1669](https://fedlex.data.admin.ch/eli/oc/1987/1669_1669_1669)art. 13 n. 2, [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234)art. 57 cpv. 2, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 31, [2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)all. n. 2 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 2]
-[^91-2]: [[RU 1983 535](https://fedlex.data.admin.ch/eli/oc/1983/535_535_535), [1986 1482](https://fedlex.data.admin.ch/eli/oc/1986/1482_1482_1482), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 32, [1998 846](https://fedlex.data.admin.ch/eli/oc/1998/846_846_846), [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)n. III 2, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n.1]
-[^91-3]: [[RU 1971 69](https://fedlex.data.admin.ch/eli/oc/1971/65_69_69), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 33]
-[^91-4]: [[RU 1965 62](https://fedlex.data.admin.ch/eli/oc/1965/58_62_62), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 34, [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 1]
-[^91-5]: [[RU 1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791); [1987 518](https://fedlex.data.admin.ch/eli/oc/1987/__518), [1334](https://fedlex.data.admin.ch/eli/oc/1987/1334_1334_1334); [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234); [1990 1720](https://fedlex.data.admin.ch/eli/oc/1990/1720_1720_1720); [1991 2236](https://fedlex.data.admin.ch/eli/oc/1991/2236_2236_2236); [1992 2040](https://fedlex.data.admin.ch/eli/oc/1992/2040_2040_2040); [1993 1460](https://fedlex.data.admin.ch/eli/oc/1993/1460_1460_1460), [2944](https://fedlex.data.admin.ch/eli/oc/1993/2944_2944_2944); [1994 2310](https://fedlex.data.admin.ch/eli/oc/1994/2310_2310_2310); [1995 4869](https://fedlex.data.admin.ch/eli/oc/1995/4869_4869_4869), [5243](https://fedlex.data.admin.ch/eli/oc/1995/5243_5243_5243); [1997 2410](https://fedlex.data.admin.ch/eli/oc/1997/2410_2410_2410); [1998 860](https://fedlex.data.admin.ch/eli/oc/1998/860_860_860), [2726](https://fedlex.data.admin.ch/eli/oc/1998/2726_2726_2726); [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268), [3571](https://fedlex.data.admin.ch/eli/oc/2002/537), [4167](https://fedlex.data.admin.ch/eli/oc/2002/672)n. II; [2004 4389](https://fedlex.data.admin.ch/eli/oc/2004/671), [5397](https://fedlex.data.admin.ch/eli/oc/2004/825); [2005 4841](https://fedlex.data.admin.ch/eli/oc/2005/654); [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 12, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 87, [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)n. I 4, [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)n. I 6; [2007 4967](https://fedlex.data.admin.ch/eli/oc/2007/693)]
+[^91-1]: [[RU 1949 233](https://fedlex.data.admin.ch/eli/oc/1949/228_232_233); [1980 1730](https://fedlex.data.admin.ch/eli/oc/1980/1730_1730_1730)art. 16; [1983 534](https://fedlex.data.admin.ch/eli/oc/1983/534_534_534); [1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791)art. 57 cpv. 2; [1987 1669](https://fedlex.data.admin.ch/eli/oc/1987/1669_1669_1669)art. 13 n. 2; [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234)art. 57 cpv. 2; [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 31; [2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)all. n. 2, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 2]
+[^91-2]: [[RU 1983 535](https://fedlex.data.admin.ch/eli/oc/1983/535_535_535); [1986 1482](https://fedlex.data.admin.ch/eli/oc/1986/1482_1482_1482); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 32; [1998 846](https://fedlex.data.admin.ch/eli/oc/1998/846_846_846); [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)cifra III n. 2; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n.1]
+[^91-3]: [[RU 1971 69](https://fedlex.data.admin.ch/eli/oc/1971/65_69_69); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 33]
+[^91-4]: [[RU 1965 62](https://fedlex.data.admin.ch/eli/oc/1965/58_62_62); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 34; [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 1]
+[^91-5]: [[RU 1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791); [1987 518](https://fedlex.data.admin.ch/eli/oc/1987/__518), [1334](https://fedlex.data.admin.ch/eli/oc/1987/1334_1334_1334); [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234); [1990 1720](https://fedlex.data.admin.ch/eli/oc/1990/1720_1720_1720); [1991 2236](https://fedlex.data.admin.ch/eli/oc/1991/2236_2236_2236); [1992 2040](https://fedlex.data.admin.ch/eli/oc/1992/2040_2040_2040); [1993 1460](https://fedlex.data.admin.ch/eli/oc/1993/1460_1460_1460), [2944](https://fedlex.data.admin.ch/eli/oc/1993/2944_2944_2944); [1994 2310](https://fedlex.data.admin.ch/eli/oc/1994/2310_2310_2310); [1995 4869](https://fedlex.data.admin.ch/eli/oc/1995/4869_4869_4869), [5243](https://fedlex.data.admin.ch/eli/oc/1995/5243_5243_5243); [1997 2410](https://fedlex.data.admin.ch/eli/oc/1997/2410_2410_2410); [1998 860](https://fedlex.data.admin.ch/eli/oc/1998/860_860_860), [2726](https://fedlex.data.admin.ch/eli/oc/1998/2726_2726_2726); [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268), [3571](https://fedlex.data.admin.ch/eli/oc/2002/537), [4167](https://fedlex.data.admin.ch/eli/oc/2002/672)cifra II; [2004 4389](https://fedlex.data.admin.ch/eli/oc/2004/671), [5397](https://fedlex.data.admin.ch/eli/oc/2004/825); [2005 4841](https://fedlex.data.admin.ch/eli/oc/2005/654); [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 12, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 87, [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)cifra I n. 4, [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)cifra I n. 6; [2007 4967](https://fedlex.data.admin.ch/eli/oc/2007/693)]
 
 #### Art. 91a
 
 [^91a-1]
 
-[^91a-1]: Introdotto dal n. I dell’O del 18 giu. 2008 ([RU 2008 2737](https://fedlex.data.admin.ch/eli/oc/2008/381)). Abrogato dall’all. n. 1 dell’O del 21 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^91a-1]: Introdotto dalla cifra I dell’O del 18 giu. 2008 ([RU 2008 2737](https://fedlex.data.admin.ch/eli/oc/2008/381)). Abrogato dall’all. n. 1 dell’O del 21 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
 
 #### Art. 91b
 
 [^91b-1]
 
-[^91b-1]: Introdotto dal n. I dell’O dell’8 dic. 2017 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)). Abrogato dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^91b-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2017 ([RU 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)). Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 91c
 
@@ -2444,7 +2417,7 @@ Le seguenti ordinanze sono abrogate:
 
 <sup>4</sup> Se le prestazioni complementari concesse conformemente all’articolo 3 capoverso 1 lettera a LPC[^91c-2] prima del 1° gennaio 2019 continuano a essere erogate, esse sono parimenti soggette all’obbligo di comunicare secondo l’articolo 82*d*. La comunicazione deve avvenire entro il 1° luglio 2019.
 
-[^91c-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^91c-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^91c-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
 #### Art. 91d
@@ -2453,7 +2426,7 @@ Le seguenti ordinanze sono abrogate:
 
 I cittadini del Regno Unito rientranti nel campo d’applicazione dell’accordo sui diritti acquisiti[^91d-2] che all’entrata in vigore della presente modifica dispongono di una carta di soggiorno non biometrica conformemente all’articolo 71*b* possono conservare la loro carta di soggiorno fino alla scadenza della sua durata di validità se non si rende necessario il rilascio di una nuova carta di soggiorno, segnatamente a causa di modifiche della stessa.
 
-[^91d-1]: Introdotto dal n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^91d-1]: Introdotto dalla cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^91d-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 
 #### Art. 92
@@ -2464,37 +2437,37 @@ La presente ordinanza entra in vigore il 1° gennaio 2008.
 
 Allegato 1[^t-1]
 
-(art. 19−19*b*)
+(art. 19–19*b* e 42 cpv. 2<sup>bis</sup>)
 
 ## Contingenti dei permessi di soggiorno di breve durata
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 \1. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19 sono stabiliti complessivamente a 4000:
 
 - a. Contingente a disposizione dei Cantoni: 2000
 
 <table>
-<tr><td>Zurigo 399</td><td>Sciaffusa 18</td></tr>
-<tr><td>Berna 235</td><td>Appenzello Esterno 9</td></tr>
-<tr><td>Lucerna 93</td><td>Appenzello Interno 4</td></tr>
-<tr><td>Uri 7</td><td>San Gallo 114</td></tr>
-<tr><td>Svitto 31</td><td>Grigioni 48</td></tr>
-<tr><td>Obvaldo 8</td><td>Argovia 130</td></tr>
-<tr><td>Nidvaldo 9</td><td>Turgovia 52</td></tr>
-<tr><td>Glarona 8</td><td>Ticino 94</td></tr>
-<tr><td>Zugo 45</td><td>Vaud 181</td></tr>
-<tr><td>Friburgo 58</td><td>Vallese 69</td></tr>
-<tr><td>Soletta 54</td><td>Neuchâtel 41</td></tr>
-<tr><td>Basilea Città 72</td><td>Ginevra 147</td></tr>
-<tr><td>Basilea Campagna 57</td><td>Giura 17</td></tr>
+<tr><td>Zurigo</td><td>399</td><td>Sciaffusa</td><td>17</td></tr>
+<tr><td>Berna</td><td>232</td><td>Appenzello Esterno</td><td>10</td></tr>
+<tr><td>Lucerna</td><td>92</td><td>Appenzello Interno</td><td>3</td></tr>
+<tr><td>Uri</td><td>7</td><td>San Gallo</td><td>114</td></tr>
+<tr><td>Svitto</td><td>31</td><td>Grigioni</td><td>49</td></tr>
+<tr><td>Obvaldo</td><td>8</td><td>Argovia</td><td>128</td></tr>
+<tr><td>Nidvaldo</td><td>9</td><td>Turgovia</td><td>53</td></tr>
+<tr><td>Glarona</td><td>8</td><td>Ticino</td><td>95</td></tr>
+<tr><td>Zugo</td><td>46</td><td>Vaud</td><td>182</td></tr>
+<tr><td>Friburgo</td><td>58</td><td>Vallese</td><td>70</td></tr>
+<tr><td>Soletta</td><td>54</td><td>Neuchâtel</td><td>41</td></tr>
+<tr><td>Basilea Città</td><td>72</td><td>Ginevra</td><td>148</td></tr>
+<tr><td>Basilea Campagna</td><td>57</td><td>Giura</td><td>17</td></tr>
 </table>
 
 - b. Contingente a disposizione della Confederazione: 2000
 
-\2. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024.
+\2. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025.
 
-\3. I contingenti liberati in virtù della modifica del 23 novembre 2022[^annex1-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
+\3. I contingenti liberati in virtù della modifica del 29 novembre 2023[^annex1-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
 
 \4. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19*a* sono stabiliti complessivamente a 3000:
 
@@ -2503,9 +2476,9 @@ Allegato 1[^t-1]
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
+\5. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
 
-\6. I contingenti liberati in virtù della modifica del 23 novembre 2022 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
+\6. I contingenti liberati in virtù della modifica del 29 novembre 2023 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
 
 \7. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19*b* sono stabiliti complessivamente a 1400:
 
@@ -2514,43 +2487,46 @@ Allegato 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
+\8. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
 
-[^annex1-lvlu1-1]: [RU 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
+\9. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 42 capoverso 2<sup>bis</sup> che rientrano nel campo d’applicazione dell’Accordo dell’11 ottobre 2024[^annex1-lvlu1-2] tra il Consiglio federale svizzero e il Governo degli Stati Uniti d’America sullo scambio di stagisti e di giovani professionisti sono stabiliti a 300 per anno civile. Il saldo inutilizzato non è riportato sull’anno successivo.
+
+[^annex1-lvlu1-1]: [RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex1-lvlu1-2]: [RS 0.142.113.367](https://fedlex.data.admin.ch/eli/cc/2024/613)
 
 Allegato 2[^t-2]
 
-(art. 20−20*b*)
+(art. 20–20*b*)
 
 ## Contingenti dei permessi di dimora
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
 
 \1. I contingenti dei permessi di dimora per le persone di cui all’articolo 20 sono stabiliti complessivamente a 4500:
 
 - a. Contingente a disposizione dei Cantoni: 1250
 
 <table>
-<tr><td>Zurigo 250</td><td>Sciaffusa 11</td></tr>
-<tr><td>Berna 147</td><td>Appenzello Esterno 7</td></tr>
-<tr><td>Lucerna 59</td><td>Appenzello Interno 2</td></tr>
-<tr><td>Uri 4</td><td>San Gallo 71</td></tr>
-<tr><td>Svitto 20</td><td>Grigioni 31</td></tr>
-<tr><td>Obvaldo 5</td><td>Argovia 80</td></tr>
-<tr><td>Nidvaldo 6</td><td>Turgovia 32</td></tr>
-<tr><td>Glarona 5</td><td>Ticino 58</td></tr>
-<tr><td>Zugo 29</td><td>Vaud 112</td></tr>
-<tr><td>Friburgo 36</td><td>Vallese 44</td></tr>
-<tr><td>Soletta 33</td><td>Neuchâtel 26</td></tr>
-<tr><td>Basilea Città 45</td><td>Ginevra 91</td></tr>
-<tr><td>Basilea Campagna 36</td><td>Giura 10</td></tr>
+<tr><td>Zurigo</td><td>249</td><td>Sciaffusa</td><td>11</td></tr>
+<tr><td>Berna</td><td>145</td><td>Appenzello Esterno</td><td>6</td></tr>
+<tr><td>Lucerna</td><td>58</td><td>Appenzello Interno</td><td>2</td></tr>
+<tr><td>Uri</td><td>4</td><td>San Gallo</td><td>71</td></tr>
+<tr><td>Svitto</td><td>20</td><td>Grigioni</td><td>31</td></tr>
+<tr><td>Obvaldo</td><td>5</td><td>Argovia</td><td>80</td></tr>
+<tr><td>Nidvaldo</td><td>5</td><td>Turgovia</td><td>33</td></tr>
+<tr><td>Glarona</td><td>5</td><td>Ticino</td><td>59</td></tr>
+<tr><td>Zugo</td><td>29</td><td>Vaud</td><td>114</td></tr>
+<tr><td>Friburgo</td><td>36</td><td>Vallese</td><td>44</td></tr>
+<tr><td>Soletta</td><td>33</td><td>Neuchâtel</td><td>26</td></tr>
+<tr><td>Basilea Città</td><td>45</td><td>Ginevra</td><td>92</td></tr>
+<tr><td>Basilea Campagna</td><td>36</td><td>Giura</td><td>11</td></tr>
 </table>
 
 - b. Contingente a disposizione della Confederazione: 3250
 
-\2. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024.
+\2. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025.
 
-\3. I contingenti liberati in virtù della modifica del 23 novembre 2022[^annex2-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
+\3. I contingenti liberati in virtù della modifica del 29 novembre 2023[^annex2-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
 
 \4. I contingenti dei permessi di dimora per le persone di cui all’articolo 20*a* sono stabiliti complessivamente a 500:
 
@@ -2559,9 +2535,9 @@ Allegato 2[^t-2]
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
+\5. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
 
-\6. I contingenti liberati in virtù della modifica del 23 novembre 2022 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
+\6. I contingenti liberati in virtù della modifica del 29 novembre 2023 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
 
 \7. I contingenti dei permessi di dimora per le persone di cui all’articolo 20*b* sono stabiliti complessivamente a 2100:
 
@@ -2570,9 +2546,9 @@ Allegato 2[^t-2]
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. I contingenti sono validi dal 1° gennaio 2024 al 31 dicembre 2024 e sono liberati trimestralmente.
+\8. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
 
-[^annex2-lvlu1-1]: [RU 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)
+[^annex2-lvlu1-1]: [RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
 
 Allegato 3[^t-3]
 
@@ -2580,7 +2556,7 @@ Allegato 3[^t-3]
 
 ## Accordi d’associazione a Schengen
 
-[^t-3]: Introdotto dal n. I 3 dell’O del 22 ott. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3721](https://fedlex.data.admin.ch/eli/oc/2015/623)).
+[^t-3]: Introdotto dalla cifra I 3 dell’O del 22 ott. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3721](https://fedlex.data.admin.ch/eli/oc/2015/623)).
 
 Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 
@@ -2604,7 +2580,7 @@ Allegato 4[^t-4]
 
 ## Accordi di associazione alla normativa di Dublino
 
-[^t-4]: Introdotto dal n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^t-4]: Introdotto dalla cifra I n. 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
 Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi seguenti:
 
