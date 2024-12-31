@@ -1,23 +1,22 @@
 ---
 canton: FR
 number: "923.51"
-title: "Ausführungsreglement zum Konkordat über die Fischerei im Neuenburgersee in den Jahren 2022, 2023 und 2024"
+title: "Ausführungsreglement zum Konkordat über die Fischerei im Neuenburgersee in den Jahren 2025, 2026 und 2027"
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-07-06
+version: 2025-01-01
+version_adopted: 2024-06-21
 adopted: 2024-06-21
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/7081/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8112/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Ausführungsreglement zum Konkordat über die Fischerei im Neuenburgersee in den Jahren 2022, 2023 und 2024
+# Ausführungsreglement zum Konkordat über die Fischerei im Neuenburgersee in den Jahren 2025, 2026 und 2027
 
-vom 6. Juli 2021
+vom 21.06. 2024
 
 ## Die Interkantonale Kommission für die Fischerei im Neuenburgersee
 
@@ -37,13 +36,13 @@ gestützt auf das Konkordat vom 19. Mai 2003 über die Fischerei im Neuenburgers
 
 **Terminologie**
 
-In diesem Reglement wird aus Gründen der Lesbarkeit das generische Maskulinum verwendet und bezeichnet somit auch weibliche Personen.
+<sup>1</sup> In diesem Reglement wird aus Gründen der Lesbarkeit das generische Maskulinum verwendet, dieses bezeichnet somit auch weibliche Personen.
 
 #### Art. 2
 
 **Begriffe**
 
-Es gelten folgende Begriffsbestimmungen:
+<sup>1</sup> Es gelten folgende Begriffsbestimmungen:
 
 - a) Passive Fischerei: Der Fischer beschränkt sich auf das Setzen und Heben des Geräts, bedient es aber während des eigentlichen Fangaktes nicht.
 
@@ -51,7 +50,7 @@ Es gelten folgende Begriffsbestimmungen:
 
 des Fangaktes.
 
-- c) Wasserfahrzeug: sämtliche Boote, Flosse, Strandboote (Belly Boat, Float Tube, Luftmatratzen und weitere Schwimmhilfen) oder ähnliche Geräte, ob
+- c) Wasserfahrzeug: Alle Boote, Flosse, Strandboote (Belly Boat, Float Tube, Luftmatratzen und weitere Schwimmhilfen) oder ähnliche Geräte, ob
 
 vertäut oder nicht.
 
@@ -61,7 +60,7 @@ vertäut oder nicht.
 
 **Konsultativkommission**
 
-<sup>1</sup> Die Mitglieder der Konsultativkommission werden von der Interkantonalen Kommission für die Fischerei im Neuenburgersee (die Interkantonale Kommission) beim Vorsitzwechsel der Kantone bestimmt.
+<sup>1</sup> Die Mitglieder der Konsultativkommission werden von der Interkantonalen Kommission für die Fischerei im Neuenburgersee (die Interkantonale Kommission) beim Wechsel des Vorsitzkantons bestimmt.
 
 <sup>2</sup> Sie werden aus den verschiedenen Fischereiorganisationen ausgewählt, nachdem diese angehört wurden.
 
@@ -81,51 +80,45 @@ vertäut oder nicht.
 
 ### Art Für die Fischerei offene Zeiten
 
-**45 cm**
+**40 cm**
 
-Forelle vom 16. Januar bis 23. Oktober 2022
+Forelle vom 12. Januar bis 19. Oktober 2025
 
-vom 15. Januar bis 22. Oktober 2023
+vom 18. Januar bis 25. Oktober 2026
 
-vom 14. Januar bis 20. Oktober 2024
-
-**30 cm**
-
-Seesaibling dieselben Zeiten wie für die Forelle Bondelle Für die Ausübung der Berufsfischerei:
+vom 17. Januar bis 24. Oktober 2027
 
 **25 cm**
 
-Vom von der Technischen
+Bondelle Für die Ausübung der Berufsfischerei:
 
-Kommission festgelegten Datum
-
-(frühestens vom 1. Februar) bis
-
-\14. Dezember Palée Für die Ausübung der Berufsfischerei:
+Vom von der Technischen Kommission festgelegten Datum (frühestens vom 15. Februar) bis 14. Dezember Palée Für die Ausübung der Berufsfischerei:
 
 **30 cm**
 
-vom 1. Januar bis 14. Oktober Felchenartige Für die Ausübung (Coregonus der Sportfischerei:
+vom 15. Januar bis 14. Oktober Felchenartige Für die Ausübung der Sportfischerei:
 
 **25 cm**
 
-spp.) vom 1. März bis 14. Oktober Hecht vom 1. Januar bis 31. März vom 21. April bis 31. Dezember Wels vom 1. Januar bis 14. Mai vom 16. Juni bis 31. Dezember Barsch (Egli) vom 1. Januar bis 14. April vom 1. Juni bis 31. Dezember
+(Coregonus) vom 1. März bis 14. Oktober Hecht vom 1. Januar bis 31. März vom 21. April bis 31. Dezember Wels vom 1. Januar bis 14. Mai vom 16. Juni bis 31. Dezember Barsch (Egli) vom 1. Januar bis 14. April vom 1. Juni bis 31. Dezember
 
 **45 cm**
 
 **50 cm**
 
-**15 cm**
+**–**
 
-<sup>2</sup> Das Fangen von Aalen, Äschen, Bitterlingen und Nasen ist verboten.
+<sup>2</sup> Jeder gefangene Barsch (Egli) muss aufbewahrt werden und darf keinesfalls wieder ins Wasser entlassen werden.
 
-<sup>3</sup> Sportfischer dürfen keine Krebse fangen.
+<sup>3</sup> Das Fangen von Aalen, Äschen, Bitterlingen, Nasen und Seesaiblingen ist verboten.
 
-<sup>4</sup> Alle Fische nach Absatz 1 dieses Artikels, die während ihrer Schonzeit gefangen wurden oder das vorgeschriebene Mindestmass nicht erreichen und die vom Fischer als nicht mehr lebensfähig beurteilt werden, müssen sofort getötet und ins Wasser zurückgesetzt werden. Werden sie als lebensfähig beurteilt, so dürfen sie nicht getötet werden und müssen ebenfalls sofort und sorgfältig ins Wasser zurückgesetzt werden. Absatz 5 bleibt vorbehalten.
+<sup>4</sup> Sportfischer dürfen keine Krebse fangen.
 
-<sup>5</sup> Felchen (Palée und Bondellen) und Barsche (Egli), die während ihrer Schonzeit oder wenn sie das vorgeschriebene Mindestmass noch nicht erreicht haben, mit Netzen oder Reusen gefangen werden, können jedoch behalten werden, ausser es handelt sich um Felchen, die mit dem Zugnetz gefangen wurden.
+<sup>5</sup> Alle Fische nach Absatz 1 dieses Artikels, die während ihrer Schonzeit gefangen wurden oder das vorgeschriebene Mindestmass nicht erreichen und die vom Fischer als nicht mehr lebensfähig beurteilt werden, müssen sofort getötet und ins Wasser zurückgesetzt werden. Werden sie als lebensfähig beurteilt, so dürfen sie nicht getötet werden und müssen ebenfalls sofort und sorgfältig ins Wasser zurückgesetzt werden. Absatz 5 bleibt vorbehalten.
 
-<sup>6</sup> Alle Netze müssen am Tag vor Beginn der Schonzeit spätestens bei Fischereischluss gehoben werden; sie dürfen nach Ende der Schonzeit nicht vor der Eröffnung der Fischerei gesetzt werden.
+<sup>6</sup> Felchen (Palée und Bondellen) und Barsche (Egli), die während ihrer Schonzeit oder wenn sie das vorgeschriebene Mindestmass noch nicht erreicht haben, mit Netzen oder Reusen gefangen werden, können jedoch behalten werden, ausser es handelt sich um Felchen, die mit dem Zugnetz gefangen wurden.
+
+<sup>7</sup> Alle Netze müssen am Tag vor Beginn der Schonzeit spätestens bei Fischereischluss gehoben werden; sie dürfen nach Ende der Schonzeit nicht vor der Eröffnung der Fischerei gesetzt werden.
 
 #### Art. 5
 
@@ -155,7 +148,7 @@ spp.) vom 1. März bis 14. Oktober Hecht vom 1. Januar bis 31. März vom 21. Apr
 
 **Verbotene Methoden**
 
-Es ist verboten:
+<sup>1</sup> Es ist verboten:
 
 - a) Wasserorganismen mit elektrischem Strom oder Sprengstoff zu fangen, zu betäuben oder zu töten;
 
@@ -165,7 +158,9 @@ Es ist verboten:
 
 - d) für die Ausübung der Fischerei mit oder ohne Tauchgerät zu tauchen;
 
-- e) mit der Hand, mit Schlingen oder mit Geräten, die dazu dienen, die Fische zu harpunieren oder zu verletzen, zu fischen.
+- e) mit der Hand, mit Schlingen oder mit Geräten, die dazu dienen, die Fische zu harpunieren oder zu verletzen, zu fischen;
+
+- f) den Einsatz von ferngesteuerten Geräten beim Ausüben der Fischerei zu nutzen (Drohnen, ferngesteuerte Futterboote, usw.).
 
 #### Art. 7
 
@@ -179,9 +174,9 @@ Es ist verboten:
 
 - b) vom 1. Januar bis zum Ende der Schonzeit des Hechts in den übrigen Teichen und den anschliessenden Gräben und Kanälen sowie in einer Entfernung von weniger als 100 m diesseits und jenseits von ihren Mündungen bis in 5 m Tiefe;
 
-- c) vom 1. Oktober bis 31. Januar in einem Umkreis von 300 m von der Einmündung der Zuflüsse des Neuenburgersees und derjenigen des Zihlkanals;
+- c) vom 1. Oktober bis 31. Januar in einem Umkreis von 300 m von der Einmündung der Zuflüsse des Neuenburgersees und derjenigen des Zihlkanals. Das Aufstellen von Krebsreusen im Sinne von Artikel 56 Abs. 5 bleibt vorbehalten;
 
-- d) vom 1. Februar bis 30. September mit der Schleppangel, mit dem Netz und mit Hilfe der Reuse in einem Umkreis von 100 m von der Einmündung der Zuflüsse des Neuenburgersees und derjenigen des Zihlkanals;
+- d) vom 1. Februar bis 30. September mit der Schleppangel, mit dem Netz und mit Hilfe der Reuse in einem Umkreis von 100 m von der Einmündung der Zuflüsse des Neuenburgersees und derjenigen des Zihlkanals; das Aufstellen von Krebsreusen im Sinne von Artikel 56 Abs. 5 bleibt vorbehalten;
 
 - e) von Molen und Landestegen aus bei der Aus- oder Einfahrt eines Kursschiffes;
 
@@ -211,7 +206,7 @@ Es ist verboten:
 
 - a) das Fischen mit höchstens 3 schwimmenden Angeln, die alle mit einem festsitzenden Schwimmer und einem einfachen Angelhaken versehen sind, und zwar vom Ufer aus, im Wasser stehend oder von einem Wasserfahrzeug aus;
 
-- b) für Kinder unter 14 Jahren das Fischen von einem Wasserfahrzeug aus, vorausgesetzt, das Kind steht unter der Aufsicht eines Patentinhabers, der über einen Sachkundenachweis verfügt;
+- b) für Kinder unter 14 Jahren das Fischen von einem Wasserfahrzeug aus, vorausgesetzt, das Kind steht unter der Aufsicht eines Patentinhabers, der über einen Sachkundenachweis (SaNa) verfügt;
 
 - c) für Kinder unter 14 Jahren das Fischen mit der Gambe oder mit der Wurfangel vom Ufer aus oder im Wasser stehend.
 
@@ -239,7 +234,7 @@ Es ist verboten:
 
 <sup>2</sup> Der Inhaber des Zusatzpatents für Gastfischer muss über ein Jahrespatent für die Sportfischerei (Patent C oder D) verfügen.
 
-<sup>3</sup> Der Gast muss vom selben Wasserfahrzeug aus wie der Inhaber des Sportfischereipatents fischen. Er untersteht der Kontrolle und der Verantwortung des Patentinhabers.
+<sup>3</sup> Der Gast muss vom selben Wasserfahrzeug oder vom Ufer aus, in der Nähe des Inhabers des Sportfischereipatents fischen. Er untersteht der Kontrolle und der Verantwortung des Patentinhabers.
 
 <sup>4</sup> Der Gast darf die Schleppangeln des Inhabers des Patents C, den er begleitet, benutzen.
 
@@ -247,7 +242,7 @@ Es ist verboten:
 
 #### Art. 11
 
-**Dauer und Gültigkeit des Patents**
+**Gültigkeitsdauer der Patente**
 
 <sup>1</sup> Jahrespatente sind für das laufende Kalenderjahr gültig.
 
@@ -267,7 +262,7 @@ Es ist verboten:
 
 **Dokumente**
 
-Der Inhaber eines Fischereipatents muss neben dem Fischereipatent einen amtlichen Identitätsausweis mit Foto auf sich tragen.
+<sup>1</sup> Der Inhaber eines Fischereipatents muss neben dem Fischereipatent einen amtlichen Identitätsausweis mit Foto auf sich tragen.
 
 #### Art. 14
 
@@ -313,7 +308,7 @@ Der Inhaber eines Fischereipatents muss neben dem Fischereipatent einen amtliche
 
 <sup>2</sup> Die Schleppangel darf vom 1. November bis zum Tag vor der Eröffnung der Fischerei der Forelle und des Seesaiblings nicht verwendet werden.
 
-<sup>3</sup> Jeder Köder darf mit höchstens 5 Angelhaken versehen sein. Die Angelhaken müssen direkt am Köder befestigt werden.
+<sup>3</sup> Jeder Köder darf mit höchstens 3 Angelhaken versehen sein. Die Angelhaken müssen direkt am Köder befestigt werden.
 
 <sup>4</sup> Für die Schleppangelfischerei sind maximal 12 Köder erlaubt.
 
@@ -451,21 +446,11 @@ Der Inhaber eines Fischereipatents muss neben dem Fischereipatent einen amtliche
 
 **Köder**
 
-<sup>1</sup> Das Verwenden von lebenden Köderfischen für den Fang von Raubfischen ist nur Inhabern eines Sachkundenachweises erlaubt.
+<sup>1</sup> Es ist verboten, folgende Köder zu verwenden:
 
-<sup>2</sup> Lebende Köderfische dürfen für die Fischerei nur verwendet werden mit:
+- a) lebende Fische;
 
-- a) der Schwebangel, Senkangel (abgesehen von der Gambe) oder Setzangel, die von einem nicht absichtlich getriebenen Wasserfahrzeug aus in verkrauteten Gewässerteilen verwendet werden;
-
-- b) dem Schäubli in verkrauteten Gewässerteilen.
-
-<sup>3</sup> Lebende Köderfische dürfen nur am Maul am Angelhaken befestigt werden.
-
-<sup>4</sup> Als Köder dürfen nicht verwendet werden:
-
-- a) Fische, die nicht im Neuenburgersee gefangen wurden;
-
-- b) Fische, die zu einer im Neuenburgersee standortfremden Art gehören;
+- b) Fische, die nicht im Neuenburgersee gefangen wurden;
 
 - c) Fische mit Gefährdungsstatus 1, 2, 3 oder 4 gemäss Anhang 3;
 
@@ -473,23 +458,21 @@ Der Inhaber eines Fischereipatents muss neben dem Fischereipatent einen amtliche
 
 - e) Krebse.
 
-<sup>5</sup> Lebende Köderfische müssen spätestens bei Fischereischluss wieder ins Wasser zurückgesetzt werden.
-
 - 6\. Fang und Statistik
 
 #### Art. 29
 
 **Kontrolle und Hälterung der gefangenen Fische**
 
-<sup>1</sup> Fische müssen schonend gefangen werden.
+<sup>1</sup> Fische müssen schonend gefangen und behandelt werden.
 
-<sup>2</sup> Zum Verzehr bestimmte Fische müssen unverzüglich getötet werden. Fischer, die Inhaber eines Sachkundenachweises sind, dürfen lebende Fische kurzfristig hältern, vorausgesetzt, dass diese nicht verletzt sind; die Fische dürfen durch die Hälterung nicht leiden.
+<sup>2</sup> Zum Verzehr bestimmte Fische müssen unverzüglich getötet werden. Fischer, die über einen SaNa gemäss Artikel 5a VBGF verfügen, dürfen lebende Fische kurzfristig hältern, vorausgesetzt, dass diese nicht verletzt sind. Die Fische dürfen durch die Hälterung nicht leiden.
 
-<sup>3</sup> Als kurzfristig gilt grundsätzlich bis am Ende des Fangtags. Ausnahmen können gemacht werden bei Fischen, die möseln (Wels, Karpfen und andere Weissfische im Sommer).
+<sup>3</sup> Als kurzfristig gilt grundsätzlich bis am Ende des Fangtags. Ausnahmen können gemacht werden bei Fischen, die vor der Konsumation in sauberem Wasser gehältert werden müssen (Wels, Karpfen und andere Weissfische im Sommer).
 
-<sup>4</sup> Gefangene Fische dürfen vor dem Ende des Fischereiausflugs nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden kann.
+<sup>4</sup> Die gefangenen Fische dürfen vor dem Ende des Fischereiausflugs nicht so verstümmelt werden, dass ihre Grösse und Anzahl nicht mehr ermittelt werden können.
 
-<sup>5</sup> Gehälterte Fische, mit Ausnahme lebender Köderfische, dürfen nicht wieder ins Wasser ausgesetzt werden.
+<sup>5</sup> Gehälterte Fische dürfen nicht wieder ins Wasser ausgesetzt werden.
 
 <sup>6</sup> Fische müssen gemäss den Anforderungen der eidgenössischen Tierschutzverordnung und der dazugehörigen Vollzugshilfe getötet werden.
 
@@ -497,7 +480,7 @@ Der Inhaber eines Fischereipatents muss neben dem Fischereipatent einen amtliche
 
 **Fang von nicht einheimischen Fischarten**
 
-Fischarten nach Anhang 4 gelten als unerwünscht. Der Fischer muss diese Fische direkt nach dem Fang töten.
+<sup>1</sup> Fischarten nach Anhang 4 gelten als unerwünscht. Der Fischer muss diese Fische direkt nach dem Fang töten.
 
 #### Art. 31
 
@@ -507,11 +490,9 @@ Fischarten nach Anhang 4 gelten als unerwünscht. Der Fischer muss diese Fische 
 
 - 80 Barsche (Egli);
 
-- 10 Felchen (Palée und Bondellen);
+- 8 Felchen (Palée und Bondellen);
 
-- 5 Forellen;
-
-- 2 Seesaiblinge;
+- 3 Forellen;
 
 - 7 Hechte.
 
@@ -520,8 +501,6 @@ Fischarten nach Anhang 4 gelten als unerwünscht. Der Fischer muss diese Fische 
 - 1800 Barsche (Egli);
 
 - 30 Forellen;
-
-- 10 Seesaiblinge;
 
 - 100 Hechte.
 
@@ -533,7 +512,7 @@ Fischarten nach Anhang 4 gelten als unerwünscht. Der Fischer muss diese Fische 
 
 **Kontrollheft und Statistikbogen**
 
-<sup>1</sup> Inhaber eines Jahrespatents für Sportfischerei müssen ihr Kontrollheft, in dem sie das Datum, die Zahl und das Gewicht ihrer Fänge und der Fänge ihrer Gäste unmittelbar nach dem Fang, mit unlöschbarer Tinte eingetragen haben, bei sich haben; diese Eintragungen müssen den Angaben im Kontrollheft entsprechen.
+<sup>1</sup> Inhaber eines Jahrespatents für Sportfischerei müssen ihr Kontrollheft, in dem sie das Datum, die Zahl und das Gewicht ihrer Fänge und der Fänge ihrer Gäste unmittelbar nach dem Fang mit unlöschbarer Tinte eingetragen haben, bei sich haben. Diese Eintragungen müssen den Angaben im Kontrollheft entsprechen.
 
 <sup>2</sup> Inhaber eines Tagespatents für Sportfischerei müssen ihren Statistikbogen, in dem sie die Zahl und das Gewicht ihrer Fänge unmittelbar nach dem Fang, mit unlöschbarer Tinte eingetragen haben, bei sich haben.
 
@@ -577,13 +556,13 @@ Wasser- und Zugvogelreservate von internationaler Bedeutung und Naturschutzgebie
 
 - b) Das Spezialberufspatent (Patent B) berechtigt zur Fischerei mit den Geräten nach Artikel 43, mit Ausnahme des Zugnetzes.
 
-<sup>2</sup> Jahrespatente sind für das laufende Kalenderjahr gültig.
+<sup>2</sup> Die Jahrespatente sind für das laufende Kalenderjahr gültig.
 
 #### Art. 35
 
 **Berufsfischereipatente**
 
-Hat der Inhaber eines Berufsfischereipatents (Patent A) einen Unfall erlitten oder ist er krank, so darf er ab dem vollendeten 65. Altersjahr für die Fischerei weder auf einen Vertreter noch auf einen Gehilfen zurückgreifen.
+<sup>1</sup> Hat der Inhaber eines Berufsfischereipatents (Patent A) einen Unfall erlitten oder ist er krank, so darf er ab dem vollendeten 65. Altersjahr für die Fischerei weder auf einen Vertreter noch auf einen Gehilfen zurückgreifen.
 
 #### Art. 36
 
@@ -603,7 +582,7 @@ Hat der Inhaber eines Berufsfischereipatents (Patent A) einen Unfall erlitten od
 
 **Preise der Fischereipatente**
 
-Die Preise der Fischereipatente werden in Anhang 1 aufgeführt.
+<sup>1</sup> Die Preise der Fischereipatente werden in Anhang 1 aufgeführt.
 
 #### Art. 38
 
@@ -629,7 +608,7 @@ Die Preise der Fischereipatente werden in Anhang 1 aufgeführt.
 
 **Fächer**
 
-Die Prüfung umfasst folgende Fächer:
+<sup>1</sup> Die Prüfung umfasst folgende Fächer:
 
 - a) Kenntnisse der aquatischen Fauna des Sees;
 
@@ -647,7 +626,7 @@ Die Prüfung umfasst folgende Fächer:
 
 <sup>1</sup> Jedes Kommissionsmitglied bewertet die Kenntnisse der Kandidaten und erteilt ihnen für jedes Fach eine Note gemäss folgender Skala:
 
-6 Punkte = sehr gut 5 Punkte = gut 4 Punkte = genügend 3 Punkte = ungenügend 2 Punkte = zum Ausscheiden führend 1 Punkt = zum Ausscheiden führend.
+6 Punkte = sehr gut 5 Punkte = gut 4 Punkte = genügend 3 Punkte = ungenügend 2 Punkte = zum Ausscheiden führend 1 Punkt = zum Ausscheiden führend
 
 <sup>2</sup> Für die Berechnung des Gesamtdurchschnitts zählt die im Fach «Ausübung der Fischerei» erzielte Note doppelt, die in den übrigen Fächern erzielten Noten zählen einfach.
 
@@ -659,7 +638,7 @@ Die Prüfung umfasst folgende Fächer:
 
 **Misserfolg**
 
-Besteht der Kandidat die Prüfung nicht, so kann er sie frühestens nach einem Jahr wiederholen. Er kann jedoch insgesamt höchstens zweimal zur Prüfung antreten.
+<sup>1</sup> Besteht der Kandidat die Prüfung nicht, so kann er sie frühestens nach einem Jahr wiederholen. Er kann jedoch insgesamt höchstens zweimal zur Prüfung antreten.
 
 - 10\. Bewilligte Fischereigeräte und Methoden
 
@@ -683,7 +662,7 @@ Besteht der Kandidat die Prüfung nicht, so kann er sie frühestens nach einem J
 
 **Netze und andere Geräte**
 
-Es gelten folgende Begriffsbestimmungen:
+<sup>1</sup> Es gelten folgende Begriffsbestimmungen:
 
 - a) Netz: jedes Fischereigerät, das aus einem weichen Maschengeflecht aus Natur- oder Kunstfasern besteht; es kann verankert oder frei treibend, schwimmend oder auf den Grund gesetzt sein;
 
@@ -745,9 +724,9 @@ schwimmend sein.
 
 <sup>3</sup> Das Zugnetz muss unmittelbar nach dem Setzen gehoben werden; es darf nicht geschleppt werden.
 
-<sup>4</sup> Die Verwendung des Zugnetzes ist verboten:
+<sup>4</sup> Die Verwendung des Zugnetzes ist verboten.
 
-- a) vom 1. Oktober bis 31. Dezember und an Sonntagen;
+- a) vom 1. Oktober bis 31. Dezember und an Sonntagen:
 
 - b) in den Teilen des Sees, die weniger als 40 m tief sind;
 
@@ -785,7 +764,9 @@ schwimmend sein.
 
 - a) Die Maschenweite ist wie folgt festgelegt:
 
-- von mindestens 23 mm bis höchstens 23,9 mm vom 15. Dezember bis zum Tag vor der Eröffnung der Fischerei der Bondelle für die Fischzucht.
+- von mindestens 23 mm bis höchstens 23,9 mm vom 15. Dezember
+
+bis zum Tag vor der Eröffnung der Fischerei der Bondelle;
 
 - von mindestens 23 mm bis höchstens 29,9 mm während der restlichen Zeit.
 
@@ -793,11 +774,11 @@ schwimmend sein.
 
 - c) Die Anzahl der Netze ist wie folgt festgelegt:
 
-- höchstens 10 Einheiten vom 1. Juni bis 31. Oktober und vom 15. Dezember bis zum Tag vor der Eröffnung der Fischerei der Bondelle für die Fischzucht.
+- höchstens 10 Einheiten vom 1. Juni bis 31. Oktober und vom 15. Dezember bis zum Tag vor der Eröffnung der Fischerei der Bondelle für die Fischzucht;
 
 - höchstens 20 Einheiten vom 1. November bis 14. Dezember sowie vom Tag der Eröffnung der Fischerei der Bondelle bis zum 14. April.
 
-- d) Die Verwendung dieses Netzes ist während der Fischerei der Bondelle für die Fischzucht sowie vom 15. April bis 31. Mai verboten.
+- d) Die Verwendung dieses Netzes ist während der Fischerei der Bondelle für die Fischzucht sowie vom 15. April bis 31. Mai verboten;
 
 - e) Die maximale Wassertiefe, in der dieses Netz gesetzt werden darf, ist wie folgt festgelegt:
 
@@ -813,7 +794,7 @@ schwimmend sein.
 
 - vom 1. November bis 14. Dezember: 60 m;
 
-- vom 15. Dezember bis zum Tag vor der Eröffnung der Fischerei der Bondelle für die Fischzucht: zwischen 40 und 55 m.
+- vom 15. Dezember bis zum Tag vor der Eröffnung der Fischerei der Bondelle: zwischen 40 und 55 m.
 
 <sup>2</sup> Wenn die Beifänge, namentlich von Felchen, zu zahlreich werden, kann die Technische Kommission andere Wassertiefen festlegen.
 
@@ -825,13 +806,17 @@ schwimmend sein.
 
 <sup>1</sup> Der Gebrauch des Bodennetzes mit 31–39,9 mm Maschenweite unterliegt folgenden Einschränkungen:
 
-- a) Es dürfen höchstens 40 dieser Netze mit einer Maximalhöhe von 2 m und höchstens 6 dieser Netze, die höher als 2 m sind, gesetzt werden; wenn die 2 über 2 m hohen Schwebnetze nach Artikel 51 nicht verwendet werden, können sie durch 2 über 2 m hohe Bodennetze ersetzt werden, die im Kontingent der 40 Bodennetze enthalten sein müssen.
+- a) Es dürfen höchstens 40 dieser Netze mit einer Maximalhöhe von 2 m gesetzt werden.
 
-- b) Dieses Netz darf während der Schonzeit der Bondelle nicht verwendet werden.
+- b) Es dürfen höchstens 6 dieser Netze, die höher als 2 m sind, gesetzt werden, wobei höchstens 2 dieser Netze eine Maschenweite von 31– 32,9 mm haben dürfen.
 
-- c) Wenn die Maximalhöhe dieses Netzes 2 m beträgt, muss es in mindestens 40 m Tiefe gesetzt werden.
+- c) Wenn die 2 über 2 m hohen Schwebnetze nach Artikel 51 nicht verwendet werden, können sie durch 2 über 2 m hohe Bodennetze mit 33–39,9 mm Maschenweite ersetzt werden, die im Kontingent der 40 Bodennetze enthalten sein müssen.
 
-- d) Wenn dieses Netz über 2 m hoch ist, muss es in mindestens 25 m Tiefe gesetzt werden. Vom 1. Oktober bis 30. November muss es in einer Mindesttiefe von 40 m gesetzt werden.
+- d) Das Bodennetz mit 31–39,9 mm Maschenweite darf während der Schonzeit der Bondelle nicht verwendet werden.
+
+- e) Wenn die Maximalhöhe dieses Netzes 2 m beträgt, muss es in mindestens 40 m Tiefe gesetzt werden.
+
+- f) Wenn dieses Netz über 2 m hoch ist, muss es in mindestens 25 m Tiefe gesetzt werden. Vom 1. Oktober bis 30. November muss es in einer Mindesttiefe von 40 m gesetzt werden.
 
 <sup>2</sup> Artikel 50 bleibt vorbehalten.
 
@@ -849,7 +834,7 @@ schwimmend sein.
 
 **Bodennetz mit 40–49,9 mm Maschenweite**
 
-Der Gebrauch des Bodennetzes mit 40–49,9 mm Maschenweite unterliegt folgenden Einschränkungen:
+<sup>1</sup> Der Gebrauch des Bodennetzes mit 40–49,9 mm Maschenweite unterliegt folgenden Einschränkungen:
 
 - a) Das Netz darf nicht höher als 2 m sein.
 
@@ -865,7 +850,7 @@ Der Gebrauch des Bodennetzes mit 40–49,9 mm Maschenweite unterliegt folgenden 
 
 **Bodennetz mit 50 mm Maschenweite und mehr**
 
-Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 50 mm unterliegt folgenden Einschränkungen:
+<sup>1</sup> Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 50 mm unterliegt folgenden Einschränkungen:
 
 - a) Es dürfen nicht mehr als 20 dieser Netze gesetzt werden.
 
@@ -881,7 +866,7 @@ Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 50 mm unterli
 
 - a) Die Maschenweite dieses Netzes muss zwischen 33 und 39,9 mm betragen.
 
-- b) Dieses Netz muss ein Monofil-Maschengewebe bestehen.
+- b) Dieses Netz muss ein Monofil-Maschengewebe enthalten.
 
 - c) Dieses Netz muss mit Ankern an beiden Enden verankert und mit zwei Bojen gekennzeichnet sein; die Anker dürfen ohne Netz während höchstens 48 Stunden im Wasser gelassen werden.
 
@@ -901,7 +886,7 @@ Der Gebrauch des Bodennetzes mit einer Maschenweite von mindestens 50 mm unterli
 
 **Frei treibendes Schwebnetz**
 
-Der Gebrauch des frei treibenden Schwebnetzes unterliegt folgenden Einschränkungen:
+<sup>1</sup> Der Gebrauch des frei treibenden Schwebnetzes unterliegt folgenden Einschränkungen:
 
 - a) Die Maschenweite dieses Netzes muss mindestens 50 mm betragen, mit Ausnahme von 6 Netzen des Kontingents, die höher als 2 m sind (Spitze) und deren Mindestmaschenweite 45 mm betragen darf.
 
@@ -923,11 +908,11 @@ Der Gebrauch des frei treibenden Schwebnetzes unterliegt folgenden Einschränkun
 
 **Spiegelnetz für das Fischen von Trüschen**
 
-Der Gebrauch des Spiegelnetzes unterliegt folgenden Einschränkungen:
+<sup>1</sup> Der Gebrauch des Spiegelnetzes unterliegt folgenden Einschränkungen:
 
-- a) Das Spiegelnetz darf höchstens 100 m lang und 2 m hoch sein;
+- a) Das Spiegelnetz darf höchstens 100 m lang und 2 m hoch sein.
 
-- b) in Abweichung von Artikel 47 beträgt die Mindestmaschenweite dieses Netzes 25 mm;
+- b) in Abweichung von Artikel 47 beträgt die Mindestmaschenweite dieses Netzes 25 mm.
 
 - c) vom 1. Februar bis 15. April sind höchstens 2 Netze, die als Bodennetze verwendet werden, gestattet.
 
@@ -953,23 +938,39 @@ Der Gebrauch des Spiegelnetzes unterliegt folgenden Einschränkungen:
 
 <sup>5</sup> Inhaber eines Patents A dürfen zum ausschliesslichen Fang von Krebsen höchstens 20 Krebsreusen mit einem einheitlichen Volumen von höchstens 100 l und einem oder zwei Eingängen benützen. Dabei gelten folgende Bedingungen:
 
-- a) die Reusen müssen miteinander verbunden sein, sodass sie eine Reihe bilden;
+- a) Die Reusen müssen miteinander verbunden sein, sodass sie eine Reihe bilden.
 
-- b) die beiden Reusen am Anfang und am Ende der Reihe müssen nach Artikel 60 Abs. 6 und 7 gekennzeichnet sein.
+- b) Die beiden Reusen am Anfang und am Ende der Reihe müssen nach Artikel 60 Abs. 6 und 7 gekennzeichnet sein.
 
 #### Art. 57
 
 **Schnur**
 
-Inhaber eines Berufspatents dürfen beliebig viele Setzschnüre und Schwebschnüre verwenden, wobei letztere höchstens 500 Angelhaken aufweisen dürfen.
+<sup>1</sup> Inhaber eines Berufspatents dürfen beliebig viele Setzschnüre und Schwebschnüre verwenden, wobei letztere höchstens 500 Angelhaken aufweisen dürfen.
 
 #### Art. 58
 
 **Köder**
 
-<sup>1</sup> Berufsfischern ist die Verwendung von lebenden Köderfischen für den Fang von Raubfischen nach denselben Bedingungen wie für die Sportfischerei (Art. 28) erlaubt.
+<sup>1</sup> Berufsfischern ist die Verwendung von lebenden Köderfischen für den Fang von Raubfischen ausschliesslich in Gebieten mit Wasserpflanzen erlaubt.
 
-<sup>2</sup> Berufsfischer dürfen zusätzlich lebende Köderfische für die Fischerei mit der Schnur (Art. 57) verwenden.
+<sup>2</sup> Die Verwendung von lebenden Köderfischen ist nur beim Angeln mit folgenden Geräten erlaubt: der Setzschnur und der schwimmenden Schnur (Schäubli).
+
+<sup>3</sup> Lebende Köderfische dürfen nur durch das Maul am Haken befestigt werden.
+
+<sup>4</sup> Es ist verboten, folgende Köder zu verwenden:
+
+- a) Fische, die nicht im Neuenburgersee gefangen wurden;
+
+- b) Fische, die zu einer im Neuenburgersee standortfremden Art gehören (siehe Anhang 4);
+
+- c) Fische mit Gefährdungsstatus 1, 2, 3 oder 4 gemäss Anhang 3;
+
+- d) Fisch- und Amphibieneier;
+
+- e) Krebse.
+
+<sup>5</sup> Lebende Köderfische müssen spätestens bei Fischereischluss wieder ins Wasser zurückgesetzt werden.
 
 #### Art. 59
 
@@ -977,7 +978,7 @@ Inhaber eines Berufspatents dürfen beliebig viele Setzschnüre und Schwebschnü
 
 <sup>1</sup> Patentinhaber müssen ihre Fischereigeräte innert 48 Stunden heben. Diese Frist beträgt 24 Stunden für Geräte, die Reuse ausgenommen, die innerhalb des Zeitraums vom 1. Mai bis 30. September in weniger als 20 m Tiefe gesetzt wurden.
 
-<sup>2</sup> Wenn sie diese Frist aus den Gründen nach Artikel 29 des Konkordats nicht einhalten können, melden sie dies dem Fischereiaufseher.
+<sup>2</sup> Wenn diese Frist aus den Gründen nach Artikel 29 des Konkordats nicht eingehalten werden kann, melden sie sich bei den für die Fischereiaufsicht zuständigen Beamten.
 
 #### Art. 60
 
@@ -1003,7 +1004,7 @@ Inhaber eines Berufspatents dürfen beliebig viele Setzschnüre und Schwebschnü
 
 **Kontrolle und Hälterung der gefangenen Fische**
 
-<sup>1</sup> Fische und Krebse müssen schonend gefangen werden.
+<sup>1</sup> Fische und Krebse müssen schonend gefangen und behandelt werden.
 
 <sup>2</sup> Zum Verzehr bestimmte Fische müssen unverzüglich getötet werden. Berufsfischer dürfen lebende Fische kurzfristig hältern; die Fische dürfen durch die Hälterung nicht leiden.
 
@@ -1025,11 +1026,11 @@ Inhaber eines Berufspatents dürfen beliebig viele Setzschnüre und Schwebschnü
 
 <sup>1</sup> Berufsfischern ist es erlaubt, unter folgenden Bedingungen Fisch- und Krebsabfälle im Neuenburgersee zu versenken:
 
-- a) die Abfälle müssen von Fischen und Krebsen stammen, die im Neuenburgersee gefangen wurden;
+- a) Die Abfälle müssen von Fischen und Krebsen stammen, die im Neuenburgersee gefangen wurden.
 
-- b) die Abfälle müssen mindestens eine Stunde nach Sonnenuntergang bis zu einer Stunde vor Sonnenaufgang versenkt werden;
+- b) Die Abfälle müssen mindestens eine Stunde nach Sonnenuntergang bis zu einer Stunde vor Sonnenaufgang versenkt werden.
 
-- c) die Wassertiefe muss an diesem Ort mindestens 30 m betragen.
+- c) Die Wassertiefe muss an diesem Ort mindestens 30 m betragen.
 
 <sup>2</sup> Berufsfischer, die Fische bearbeiten, die nicht aus dem Neuenburgersee stammen, dürfen keine Abfälle im Sinne von Absatz 1 versenken.
 
@@ -1049,7 +1050,7 @@ Inhaber eines Berufspatents dürfen beliebig viele Setzschnüre und Schwebschnü
 
 **Fischzuchtanlagen**
 
-Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung von Fischen und/oder Krebsen dienen, sind verboten.
+<sup>1</sup> Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung von Fischen und/oder Krebsen dienen, sind verboten.
 
 ### 4. KAPITEL Schlussbestimmungen
 
@@ -1067,7 +1068,7 @@ Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung vo
 
 - b) in den Schongebieten oder während der Schonzeiten, die in diesem Reglement festgesetzt werden, gefischt wird;
 
-- c) eine Widerhandlung festgestellt wird gegen die Bestimmungen dieses Reglements über die Grösse der Netze und Reusen oder ihre Maschenweite, die Anzahl erlaubter Geräte (ohne Köderflasche, Krebsreuse und Kescher), die zeitlichen Fischereiverbote oder - einschränkungen, die Fangmindestmasse der Fische, die Eintragung der Fänge in das Kontrollheft und die nicht fristgerechte Rückgabe des Kontrollhefts;
+- c) eine Widerhandlung festgestellt wird gegen die Bestimmungen dieses Reglements über die Grösse der Netze und Reusen oder ihre Maschenweite, die Anzahl erlaubter Geräte (ohne Köderflasche, Krebsreuse und Kescher), die zeitlichen Fischereiverbote oder - einschränkungen, die Fangmindestmasse der Fische und die Eintragung der Fänge in das Kontrollheft;
 
 - d) eine Widerhandlung gegen die Bestimmungen der Artikel 31 Abs. 1 Bst. a, 34 Abs. 1 oder 53 Abs. 2 Bst. b, c, d, e des Konkordats festgestellt wird;
 
@@ -1093,7 +1094,9 @@ Fischzuchtanlagen im See (schwimmende oder untergetauchte), die der Erzeugung vo
 
 #### Art. 68
 
-Vor Inkrafttreten dieses Reglements entstandene Tatbestände Bei der Anwendung der Artikel 66 und 67 dieses Reglements werden berücksichtigt:
+**Vor Inkrafttreten dieses Reglements entstandene Tatbestände**
+
+<sup>1</sup> Bei der Anwendung der Artikel 63 und 64 dieses Reglements werden berücksichtigt:
 
 - a) der vor Inkrafttreten dieses Reglements verfügte administrative Entzug des Fischereirechts aufgrund ähnlicher Widerhandlungen;
 
@@ -1103,11 +1106,15 @@ Vor Inkrafttreten dieses Reglements entstandene Tatbestände Bei der Anwendung d
 
 #### Art. 69
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2022 in Kraft.
+<sup>1</sup> Dieses Reglement tritt am 1. Januar 2025 in Kraft.
 
-<sup>2</sup> Das Ausführungsreglement vom 14. Juni 2018 zum Konkordat über die Fischerei im Neuenburgersee in den Jahren 2019, 2020 und 2021 wird aufgehoben.
+<sup>2</sup> Das Ausführungsreglement vom 6. Juli 2021 zum Konkordat über die Fischerei im Neuenburgersee in den Jahren 2022, 2023 und 2024 wird aufgehoben.
 
 <sup>3</sup> Es wird in den amtlichen Publikationsorganen der Konkordatskantone veröffentlicht.
+
+### Genehmigung durch den Bund
+
+— Dieses Reglement muss von der zuständigen Bundesbehörde gemäss Artikel 26 des Bundesgesetzes vom 21. Juni 1991 über Fischerei genehmigt werden.
 
 ## ANHANG 1
 
@@ -1189,15 +1196,13 @@ Zusatzpatent für Gastfischer
 
 ## ANHANG 3
 
-### Gefährdungsstatus der Fische im Neuenburgersee (Art. 28)
+### Gefährdungsstatus der Fische im Neuenburgersee (Art. 28 Abs 1 und 58 Abs. 4)
 
-**Name Gefährdungs-**
+### Nom vernaculaire/ Name deutsch/ Wissenschaftlicher Gefährdungs-
 
-### Nom vernaculaire/ Name deutsch/
+**Name status 1**
 
-**status 1)**
-
-local lokal wissenschaftlich
+local lokal
 
 ### Anguillidae
 
@@ -1209,7 +1214,9 @@ Anguille Aal Anguilla anguilla
 
 **2**
 
-Cobite italiano Cobite italiano Cobitis bilineata Loche de rivière Dorngrundel Cobitis bilineata DU, E
+Cobite italiano, Cobite italiano, Cobitis bilineata Loche transalpine Dorngrundel Loche de rivière Steinbeisser Cobitis taenia
+
+**DI, E**
 
 ### Coregonidae
 
@@ -1229,15 +1236,15 @@ Chabot Groppe Cottus gobio
 
 **NG 3, E**
 
-Brème Brachsmen Abramis brama Spirlin Schneider Alburnoides bipunctatus Ablette Laube Alburnus alburnus NG Barbeau Barbe Barbus barbus Brème bordelière Blicke Blicca bjoerkna Nase Nase Chondrostoma nasus Carpe Karpfen Cyprinus carpio Goujon Gründling Gobio gobio Able de Stymphale Moderlieschen Leucaspius delineatus Vandoise Hasel Leuciscus leuciscus
+Brème Brachsmen Abramis brama Spirlin Schneider Alburnoides bipunctatus Ablette Laube Alburnus alburnus NG Barbeau Barbe Barbus barbus Brème bordelière Blicke Blicca bjoerkna Nase Nase Chondrostoma nasus Carpe Karpfen Cyprinus carpio Goujon Gründling Gobio gobio Able de Stymphale Moderlieschen Leucaspius delineatus
 
-**Name Gefährdungs-**
+### Nom vernaculaire/ Name deutsch/ Wissenschaftlicher Gefährdungs-
 
-### Nom vernaculaire/ Name deutsch/
+**Name status 1**
 
-**status 1) NG**
+local lokal Vandoise Hasel Leuciscus leuciscus Vairon Elritze Phoxinus phoxinus NG Bouvière Bitterling Rhodeus amarus Gardon, Vengeron Rotauge Rutilus rutilus Rotengle Rotfeder Scardinius erythrophthalmus Chevaine Alet Squalius cephalus Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
 
-local lokal wissenschaftlich Vairon Elritze Phoxinus phoxinus Bouvière Bitterling Rhodeus amarus Gardon, Vengeron Rotauge Rutilus rutilus Rotengle Rotfeder Scardinius erythrophthalmus Chevaine Alet Squalius cephalus Blageon Strömer Telestes souffia Tanche Schleie Tinca tinca
+**NG**
 
 **2, E NG NG**
 
@@ -1271,29 +1278,27 @@ Loche franche Schmerle, Barbatula Bartgrundel barbatula
 
 ### Percidae
 
+**4 NG 3, E**
+
 **NG**
 
 Grémille Kaulbarsch Gymnocephalus cernua Perche Flussbarsch, Egli Perca fluviatilis
-
-**4 NG 3, E**
 
 **NG**
 
 ### Salmonidae
 
-**NG**
-
 **4**
 
 Truite atlantique, Atlantische Forelle, Salmo trutta Truite de rivière Bachforelle
 
-**Name Gefährdungs-**
+### Nom vernaculaire/ Name deutsch/ Wissenschaftlicher Gefährdungs-
 
-### Nom vernaculaire/ Name deutsch/
+**Name status 1**
 
-**status 1) 2**
+local lokal Truite atlantique, Atlantische Forelle, Salmo trutta Truite lacustre Seeforelle Omble-chevalier Seesaibling Salvelinus umbla
 
-local lokal wissenschaftlich Truite atlantique, Atlantische Forelle, Salmo trutta Truite lacustre Seeforelle Omble-chevalier Seesaibling Salvelinus umbla
+**2**
 
 **3**
 
@@ -1313,7 +1318,7 @@ Silure glâne Wels Silurus glanis
 
 ### Nicht zur Fauna des Neuenburgersees gehörende Fisch- und Krebsarten
 
-**Name wissenschaftlich**
+**Wissenschaftlicher Name**
 
 ### Nom vernaculaire/ Name deutsch/
 
@@ -1321,15 +1326,15 @@ local lokal
 
 ### Centrarchidae
 
-**Lepomis gibbosus**
+**Lepomis gibbosus Micropterus salmoides**
 
-Perche soleil Sonnenbarsch
+Perche soleil Sonnenbarsch Black-bass à Forellenbarsch grande bouche
 
 ### Cyprinidae
 
-**Carassius auratus Carassius gibelio Carassius carassius**
+**Carassius auratus Carassius gibelio Carassius carassius Hypophthalmichthys**
 
-Poisson rouge Goldfisch Carpe prussienne Giebel Carassin Karausche
+Poisson rouge Goldfisch Carpe prussienne Giebel Carassin Karausche Carpe marbrée Marmorkarpfen nobilis
 
 ### Percidae
 
@@ -1343,14 +1348,26 @@ Sandre Zander
 
 Truite arc-en-ciel Regenbogenforelle
 
-### Astacidae
+### Decapoda
 
 **Faxonius limosus**
 
-**Pacifastacus leniusculus**
+**Pacifastacus leniusculus Eriocheir sinensis**
 
-Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signalkrebs
+Ecrevisse Kamberkrebs américaine (amerikanischer Krebs) Ecrevisse signal Signalkrebs Crabe chinois Chinesische Wollhandkrabbe Inkrafttreten für den Kanton Freiburg: 1. Januar 2025
+
+### Änderungstabelle – Nach Beschlussdatum
+
+### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
+
+21.06.2024 Erlass Grunderlass 01.01.2025 2024\_077
+
+### Änderungstabelle – Nach Artikel
+
+### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
+
+Erlass Grunderlass 21.06.2024 01.01.2025 2024\_077
 
 ## Weitere Fussnoten
 
-- [1] = vom Aussterben bedroht, 2 = stark gefährdet, 3 = gefährdet, 4 = potenziell gefährdet, NG = nicht gefährdet, DU = Datenlage ungenügend, E = europäisch geschützt nach Berner Konvention.
+- [1] Gefährdungsstatus der Art nach Anhang 1 der Verordnung vom 24. November 1993 zum Bundesgesetz über die Fischerei: 1 = vom Aussterben bedroht, 2 = stark gefährdet, 3 = gefährdet, 4 = potenziell gefährdet, NG = nicht gefährdet, DU = Datenlage ungenügend, E = europäisch geschützt nach Berner Konvention.

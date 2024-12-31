@@ -1,35 +1,34 @@
 ---
 canton: FR
 number: "923.51"
-title: "Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2022, 2023 et 2024"
+title: "Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2025, 2026 et 2027"
 language: fr
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-07-06
+version: 2025-01-01
+version_adopted: 2024-06-21
 adopted: 2024-06-21
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/923.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7081/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8112/pdf_file"
 text: pdf
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
 
-# Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2022, 2023 et 2024
+# Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2025, 2026 et 2027
 
-du 6 juillet 2021
+du 21.06.2024
 
 ## La Commission intercantonale de la pêche dans le lac de Neuchâtel
 
-Vu la loi fédérale du 21 juin 1991 sur la pêche (LFSP) ;
+Vu la loi fédérale du 21 juin 1991 sur la pêche (LFSP);
 
-Vu l’ordonnance fédérale du 24 novembre 1993 relative à la loi fédérale sur la pêche (OLFP) ;
+Vu l’ordonnance fédérale du 24 novembre 1993 relative à la loi fédérale sur la pêche (OLFP);
 
-Vu l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux (OPAn) ;
+Vu l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux (OPAn);
 
-Vu le concordat du 19 mai 2003 sur la pêche dans le lac de Neuchâtel ;
+Vu le concordat du 19 mai 2003 sur la pêche dans le lac de Neuchâtel;
 
-## Edicte les dispositions d’exécution suivantes :
+## Edicte les dispositions suivantes :
 
 CHAPITRE PREMIER Dispositions générales
 
@@ -37,21 +36,23 @@ CHAPITRE PREMIER Dispositions générales
 
 **Terminologie**
 
-Les termes du présent règlement s’appliquent indistinctement aux femmes et aux hommes.
+<sup>1</sup> Les termes du présent règlement s’appliquent indistinctement aux femmes et aux hommes.
 
 #### Art. 2
 
 **Définitions**
 
-On entend par :
+<sup>1</sup> On entend par:
 
-- a) pêche passive : celle où le pêcheur n’intervient que pour tendre ou relever l’engin mais ne manipule pas ce dernier lors du processus de capture
+- a) pêche passive: celle où le pêcheur n’intervient que pour tendre ou relever l’engin mais ne manipule pas ce dernier lors du processus de capture
 
-proprement dit ;
+proprement dit;
 
-- b) pêche active : celle où le pêcheur manipule l’engin lors du processus de capture ;
+- b) pêche active: celle où le pêcheur manipule l’engin lors du processus de capture;
 
-- c) embarcation : tout bateau, radeau, engin de plage (belly boat, float tube, matelas pneumatiques et autres bouées) ou engin analogue, qu’il soit amarré ou non.
+## 921.51
+
+- c) embarcation: tout bateau, radeau, engin de plage (belly boat, float tube, matelas pneumatiques et autres bouées) ou engin analogue, qu’il soit amarré ou non.
 
 - 1\. Organisation
 
@@ -65,7 +66,7 @@ proprement dit ;
 
 <sup>3</sup> La commission consultative est présidée par une personne représentant le service de la pêche du canton directeur.
 
-<sup>4</sup> La commission consultative est convoquée au moins une fois par an ; elle est convoquée en outre toutes les fois que trois de ses membres en font la demande.
+<sup>4</sup> La commission consultative est convoquée au moins une fois par an; elle est convoquée en outre toutes les fois que trois de ses membres en font la demande.
 
 - 2\. Protection des poissons et des écrevisses
 
@@ -75,63 +76,51 @@ proprement dit ;
 
 <sup>1</sup> Les poissons énumérés ci-après ne peuvent être pêchés que durant les périodes prévues par le présent article, pour autant qu’ils atteignent les longueurs minimales suivantes, mesurées du bout du museau à l’extrémité de la nageoire caudale normalement déployée :
 
-**Longueur**
+**Longueur minimale 40 cm**
 
 ### Espèce Période de pêche autorisée
 
-minimale Truite – du 16 janvier au 23 octobre 2022
-
-**45 cm**
-
-- du 15 janvier au 22 octobre 2023
-
-- du 14 janvier au 20 octobre 2024
-
-**30 cm 25 cm**
-
-Omble-chevalier Mêmes périodes que pour la truite Bondelle Pour l’exercice de la pêche professionnelle :
-
-De la date fixée par la commission technique (au plus tôt le 1<sup>er</sup> février) au 14 décembre
-
-**Longueur**
-
-### Espèce Période de pêche autorisée
-
-minimale Palée Pour l’exercice de la pêche professionnelle :
-
-**30 cm**
-
-du 1<sup>er</sup> janvier au 14 octobre Corégones Pour l’exercice de la pêche de loisir :
+Truite – du 12 janvier au 19 octobre 2025 – du 18 janvier au 25 octobre 2026 – du 17 janvier au 24 octobre 2027 Bondelle Pour l’exercice de la pêche professionnelle:
 
 **25 cm**
 
-du 1<sup>er</sup> mars au 14 octobre Brochet – du 1<sup>er</sup> janvier au 31 mars
+De la date fixée par la commission technique
+
+(au plus tôt le 15 février) au 14 décembre
+
+**30 cm**
+
+Palée Pour l’exercice de la pêche professionnelle:
+
+du 15 janvier au 14 octobre
+
+## 921.51
+
+**Longueur minimale 25 cm**
+
+### Espèce Période de pêche autorisée
+
+Corégones Pour l’exercice de la pêche de loisir:
+
+du 1<sup>er</sup> mars au 14 octobre Brochet – du 1<sup>er</sup> janvier au 31 mars – du 21 avril au 31 décembre Silure – du 1<sup>er</sup> janvier au 14 mai – du 16 juin au 31 décembre Perche – du 1<sup>er</sup> janvier au 14 avril – du 1<sup>er</sup> juin au 31 décembre
 
 **45 cm**
 
-- du 21 avril au 31 décembre
-
 **50 cm**
 
-Silure – du 1<sup>er</sup> janvier au 14 mai
+**–**
 
-- du 16 juin au 31 décembre
+<sup>2</sup> Toute perche capturée doit être conservée et ne peut en aucun cas être remise à l’eau.
 
-**15 cm**
+<sup>3</sup> La pêche de l’anguille, de la bouvière, du nase, de l’omble chevalier et de l’ombre de rivière est interdite.
 
-Perche – du 1<sup>er</sup> janvier au 14 avril
+<sup>4</sup> La capture des écrevisses par des pêcheurs de loisir est interdite.
 
-- du 1<sup>er</sup> juin au 31 décembre
+<sup>5</sup> Sous réserve des dispositions de l’alinéa 5, tout poisson mentionné à l’alinéa 1 du présent article, pêché durant sa période de protection ou qui n’atteint pas la longueur minimale prescrite, qui est jugé non viable par le pêcheur doit être immédiatement mis à mort et remis à l’eau. S’il est jugé viable, il ne doit pas être mis à mort et doit être immédiatement et soigneusement remis à l’eau.
 
-<sup>2</sup> La pêche de l’anguille, de la bouvière, du nase et de l’ombre de rivière est interdite.
+<sup>6</sup> Les corégones (palées et bondelles) et les perches capturés au moyen de filets ou de nasses durant leur période de protection ou qui n’atteignent pas la longueur minimale prescrite peuvent toutefois être conservés, sauf les corégones capturés au moyen de la senne.
 
-<sup>3</sup> La capture des écrevisses par des pêcheurs de loisir est interdite.
-
-<sup>4</sup> Sous réserve des dispositions de l’alinéa 5, tout poisson mentionné à l’alinéa 1 du présent article, pêché durant sa période de protection ou qui n’atteint pas la longueur minimale prescrite, qui est jugé non viable par le pêcheur doit être immédiatement mis à mort et remis à l’eau. S’il est jugé viable, il ne doit pas être mis à mort et doit être immédiatement et soigneusement remis à l’eau.
-
-<sup>5</sup> Les corégones (palées et bondelles) et les perches capturés au moyen de filets ou de nasses durant leur période de protection ou qui n’atteignent pas la longueur minimale prescrite peuvent toutefois être conservés, sauf les corégones capturés au moyen de la senne.
-
-<sup>6</sup> Tous les filets doivent être relevés au plus tard à l’heure de la fermeture de la pêche le jour précédant une période d’interdiction de pêcher ; ils ne peuvent être tendus avant l’heure d’ouverture de la pêche suivant une telle période.
+<sup>7</sup> Tous les filets doivent être relevés au plus tard à l’heure de la fermeture de la pêche le jour précédant une période d’interdiction de pêcher; ils ne peuvent être tendus avant l’heure d’ouverture de la pêche suivant une telle période.
 
 #### Art. 5
 
@@ -139,15 +128,17 @@ Perche – du 1<sup>er</sup> janvier au 14 avril
 
 <sup>1</sup> Exercée de terre, même en pénétrant dans l’eau, la pêche peut se pratiquer à toute heure.
 
-<sup>2</sup> Les heures pendant lesquelles la pêche exercée d’une embarcation peut se pratiquer sont les suivantes :
+<sup>2</sup> Les heures pendant lesquelles la pêche exercée d’une embarcation peut se pratiquer sont les suivantes:
 
-- a) pour les pêcheurs professionnels :
+- a) pour les pêcheurs professionnels:
 
-- de 4 à 22 heures toute l’année ;
+- de 4 à 22 heures toute l’année;
 
-- b) pour les pêcheurs de loisir :
+- b) pour les pêcheurs de loisir:
 
-- durant l’heure d’été, de 5 à 22 heures ;
+## 921.51
+
+- durant l’heure d’été, de 5 à 22 heures;
 
 - durant l’heure d’hiver, de 7 à 19 heures.
 
@@ -161,41 +152,47 @@ Perche – du 1<sup>er</sup> janvier au 14 avril
 
 **Moyens interdits**
 
-Il est interdit :
+<sup>1</sup> Il est interdit :
 
-- a) de capturer, d’étourdir ou de tuer des organismes aquatiques au moyen du courant électrique ou d’explosifs ;
+- a) de capturer, d’étourdir ou de tuer des organismes aquatiques au moyen du courant électrique ou d’explosifs;
 
-- b) de faire usage d’appareils acoustiques électroniques ou de sources lumineuses pour attirer des organismes aquatiques ;
+- b) de faire usage d’appareils acoustiques électroniques ou de sources lumineuses pour attirer des organismes aquatiques;
 
-- c) d’attirer des organismes aquatiques au moyen de substances dispersées dans l’eau, notamment l’amorçage ;
+- c) d’attirer des organismes aquatiques au moyen de substances dispersées dans l’eau, notamment l’amorçage;
 
-- d) de faire usage de la plongée subaquatique en scaphandre ou en apnée dans l’exercice de la pêche ;
+- d) de faire usage de la plongée subaquatique en scaphandre ou en apnée dans l’exercice de la pêche;
 
-- e) de pêcher à la main, au moyen de lacets ou d’engins servant à harponner ou blesser les poissons.
+- e) de pêcher à la main, au moyen de lacets ou d’engins servant à harponner ou blesser les poissons;
+
+- f) de faire usage d’engins télécommandés dans l’exercice de la pêche (drones, amorceurs téléguidés, etc.).
 
 #### Art. 7
 
 **Zones d’interdiction de pêche**
 
-<sup>1</sup> Il est interdit de pêcher :
+<sup>1</sup> Il est interdit de pêcher:
 
-- a) durant toute l’année, dans la gouille de Châble-Perron, la gouille située au nord de la route nationale N5 à Auvernier, la gouille de Witzwil, la gouille d’Ostende et les fossés adjacents ainsi que dans la réserve ornithologique de la Broye, cette dernière étant délimitée comme il suit : de l’extrémité du môle droit du canal de la Broye à la barrière de Witzwil (coord. 2.570.350/1.204.400), en ligne droite ; de là, en suivant le bord du lac jusqu’à la frontière des cantons de Berne, Fribourg et Neuchâtel (coord. approx. 2.569.700/1.203.250) ; de là, la rive droite du canal de la Broye jusqu’à l’extrémité du môle droit (môle nord) de ce canal ;
+- a) durant toute l’année, dans la gouille de Châble-Perron, la gouille située au nord de la route nationale N5 à Auvernier, la gouille de Witzwil, la gouille d’Ostende et les fossés adjacents ainsi que dans la réserve ornithologique de la Broye, cette dernière étant délimitée comme il suit: de l’extrémité du môle droit du canal de la Broye à la barrière de Witzwil (coord. 2.570.350/1.204.400), en ligne droite; de là, en suivant le bord du lac jusqu’à la frontière des cantons de Berne, Fribourg et Neuchâtel (coord. approx. 2.569.700/1.203.250); de là, la rive droite du canal de la Broye jusqu’à l’extrémité du môle droit (môle nord) de ce canal;
 
-- b) du 1<sup>er</sup> janvier à la fin de la période de protection du brochet, dans les autres gouilles et dans les fossés ou canaux adjacents ainsi qu’à moins de 100 mètres de part et d’autre de leur entrée, jusqu’à une profondeur de 5 mètres ;
+- b) du 1<sup>er</sup> janvier à la fin de la période de protection du brochet, dans les autres gouilles et dans les fossés ou canaux adjacents ainsi qu’à moins de
 
-- c) du 1<sup>er</sup> octobre au 31 janvier, dans un rayon de 300 mètres de l’embouchure des affluents du lac de Neuchâtel ainsi que du canal de la Thielle ;
+## 921.51
 
-- d) à la ligne traînante, au filet et au moyen de la nasse du 1<sup>er</sup> février au 30 septembre, dans un rayon de 100 mètres de l’embouchure des affluents du lac de Neuchâtel ainsi que du canal de la Thielle ;
+100 mètres de part et d’autre de leur entrée, jusqu’à une profondeur de 5 mètres;
 
-- e) des môles et des embarcadères, lors du départ ou de l’arrivée d’un bateau assurant un service public ;
+- c) du 1<sup>er</sup> octobre au 31 janvier, dans un rayon de 300 mètres de l’embouchure des affluents du lac de Neuchâtel ainsi que du canal de la Thielle, la pose de nasses à écrevisses au sens de l’article 56 al. 5 reste réservée;
 
-- f) à moins de 30 mètres des zones de baignade balisées ;
+- d) à la ligne traînante, au filet et au moyen de la nasse du 1<sup>er</sup> février au 30 septembre, dans un rayon de 100 mètres de l’embouchure des affluents du lac de Neuchâtel ainsi que du canal de la Thielle, la pose de nasses à écrevisses au sens de l’article 56 al. 5 reste réservée;
+
+- e) des môles et des embarcadères, lors du départ ou de l’arrivée d’un bateau assurant un service public;
+
+- f) à moins de 30 mètres des zones de baignade balisées;
 
 - g) dans l’embouchure du Seyon, du pont routier au lac.
 
-<sup>2</sup> A l’entrée ainsi qu’à l’intérieur des ports, il est interdit :
+<sup>2</sup> A l’entrée ainsi qu’à l’intérieur des ports, il est interdit:
 
-- a) de lancer des lignes ou de pêcher au moyen d’une ligne au lancer ;
+- a) de lancer des lignes ou de pêcher au moyen d’une ligne au lancer;
 
 - b) de tendre des filets et de poser des nasses de manière à gêner la navigation ou à mettre en danger les bateaux et leurs occupants.
 
@@ -211,11 +208,13 @@ Il est interdit :
 
 **Pêche libre**
 
-<sup>1</sup> La pêche sans permis est autorisée selon les modalités suivantes :
+<sup>1</sup> La pêche sans permis est autorisée selon les modalités suivantes:
 
-- a) la pêche avec 3 lignes flottantes au maximum, munies chacune d’un flotteur fixe et d’un hameçon simple, que la pêche soit exercée de terre, même en pénétrant dans l’eau, ou d’une embarcation ;
+- a) la pêche avec 3 lignes flottantes au maximum, munies chacune d’un flotteur fixe et d’un hameçon simple, que la pêche soit exercée de terre, même en pénétrant dans l’eau, ou d’une embarcation;
 
-- b) la pêche pratiquée d’une embarcation par un enfant âgé de moins de 14 ans, à la condition qu’il soit sous la responsabilité d’un titulaire de permis et que ce dernier soit en possession d’une attestation de compétence (SaNa) ;
+## 921.51
+
+- b) la pêche pratiquée d’une embarcation par un enfant âgé de moins de 14 ans, à la condition qu’il soit sous la responsabilité d’un titulaire de permis et que ce dernier soit en possession d’une attestation de compétence (SaNa);
 
 - c) la pêche à la gambe ou au lancer exercée de terre, même en pénétrant dans l’eau, par un enfant de moins de 14 ans.
 
@@ -227,11 +226,11 @@ Il est interdit :
 
 **Catégories de permis de pêche de loisir**
 
-<sup>1</sup> Les permis sont les suivants :
+<sup>1</sup> Les permis sont les suivants:
 
-- a) le permis de pêche de loisir avec traîne (permis C), donnant le droit de pêcher avec les engins mentionnés aux articles 17 à 26 ;
+- a) le permis de pêche de loisir avec traîne (permis C), donnant le droit de pêcher avec les engins mentionnés aux articles 17 à 26;
 
-- b) le permis de pêche de loisir sans traîne (permis D), donnant le droit de pêcher avec les engins mentionnés aux articles 18 à 26 ;
+- b) le permis de pêche de loisir sans traîne (permis D), donnant le droit de pêcher avec les engins mentionnés aux articles 18 à 26;
 
 - c) le permis additionnel « hôte », donnant au titulaire d’un permis de pêche de loisir le droit de se faire accompagner par un seul hôte, qui aura le droit de pêcher avec les engins mentionnés aux articles 18 à 26.
 
@@ -243,7 +242,7 @@ Il est interdit :
 
 <sup>2</sup> Le titulaire du permis additionnel « hôte » doit être titulaire d’un permis annuel de pêche de loisir (permis C ou D).
 
-<sup>3</sup> L’hôte doit exercer la pêche depuis la même embarcation que le titulaire d’un permis de pêche de loisir et sous le contrôle et la responsabilité de celuici.
+<sup>3</sup> L’hôte doit exercer la pêche depuis la même embarcation, ou à terre, à proximité du titulaire d’un permis de pêche de loisir et sous le contrôle et la responsabilité de celui-ci.
 
 <sup>4</sup> L’hôte a le droit de manier les lignes traînantes du titulaire du permis C qu’il accompagne.
 
@@ -256,6 +255,8 @@ Il est interdit :
 <sup>1</sup> Les permis annuels sont valables pour l’année civile en cours.
 
 <sup>2</sup> Le permis journalier C ou D est limité à un jour.
+
+## 921.51
 
 #### Art. 12
 
@@ -271,7 +272,7 @@ Il est interdit :
 
 **Documents**
 
-Le titulaire d’un permis de pêche doit être porteur, en plus du permis de pêche, d’une pièce d’identité officielle munie d’une photographie.
+<sup>1</sup> Le titulaire d’un permis de pêche doit être porteur, en plus du permis de pêche, d’une pièce d’identité officielle munie d’une photographie.
 
 #### Art. 14
 
@@ -293,6 +294,8 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 <sup>3</sup> Les modalités sont fixées de cas en cas par la commission technique.
 
+## 921.51
+
 - 5\. Normes d’utilisation des engins et moyens de pêche autorisés
 
 #### Art. 16
@@ -305,7 +308,7 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 <sup>3</sup> La pêche à la ligne ne peut être pratiquée simultanément d’une même embarcation avec plus de 12 lignes.
 
-<sup>4</sup> Il est permis d’utiliser 3 lignes au maximum au choix parmi les suivantes : gambe, ligne plongeante, ligne flottante, ligne dormante ou ligne au lancer. Leur utilisation est définie aux articles 18 à 22.
+<sup>4</sup> Il est permis d’utiliser 3 lignes au maximum au choix parmi les suivantes: gambe, ligne plongeante, ligne flottante, ligne dormante ou ligne au lancer. Leur utilisation est définie aux articles 18 à 22.
 
 <sup>5</sup> Seule la ligne traînante peut être utilisée depuis une embarcation mue volontairement.
 
@@ -315,9 +318,9 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 <sup>1</sup> La ligne traînante est une ligne tirée par une embarcation mue volontairement.
 
-<sup>2</sup> L’usage de la ligne traînante est interdit du 1<sup>er</sup> novembre jusqu’au jour précédant l’ouverture de la pêche de la truite et de l’omble-chevalier.
+<sup>2</sup> L’usage de la ligne traînante est interdit du 1<sup>er</sup> novembre jusqu’au jour précédant l’ouverture de la pêche de la truite.
 
-<sup>3</sup> Chaque leurre peut être muni de 5 hameçons au maximum. Les hameçons doivent être fixés directement sur le leurre.
+<sup>3</sup> Chaque leurre peut être muni de 3 hameçons au maximum. Les hameçons doivent être fixés directement sur le leurre.
 
 <sup>4</sup> Pour la pêche à la ligne traînante, 12 leurres au maximum sont permis.
 
@@ -333,19 +336,21 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 <sup>1</sup> La gambe est une ligne plongeante animée d’un mouvement vertical.
 
-<sup>2</sup> Une seule gambe peut être utilisée, aux conditions suivantes :
+<sup>2</sup> Une seule gambe peut être utilisée, aux conditions suivantes:
 
-- a) son usage est interdit pour la pêche de la perche du 15 avril au 31 mai et pour la pêche des corégones du 15 octobre au dernier jour du mois de février ;
+## 921.51
 
-- b) elle ne peut être utilisée qu’avec 6 hameçons simples au maximum ;
+- a) son usage est interdit pour la pêche de la perche du 15 avril au 31 mai et pour la pêche des corégones du 15 octobre au dernier jour du mois de février;
 
-- c) son usage est interdit à partir d’une embarcation mue volontairement, et il est interdit d’attacher l’embarcation à une boille ou à un engin de pêche ;
+- b) elle ne peut être utilisée qu’avec 6 hameçons simples au maximum;
 
-- d) il est interdit de s’approcher à moins de 50 mètres d’un engin de pêche si l’embarcation n’est pas ancrée et à moins de 100 mètres si l’embarcation est ancrée ;
+- c) son usage est interdit à partir d’une embarcation mue volontairement, et il est interdit d’attacher l’embarcation à une boille ou à un engin de pêche;
 
-- e) il est interdit de lancer la gambe depuis une embarcation ;
+- d) il est interdit de s’approcher à moins de 50 mètres d’un engin de pêche si l’embarcation n’est pas ancrée et à moins de 100 mètres si l’embarcation est ancrée;
 
-- f) le lest de la gambe ne peut être fixé qu’à l’extrémité de la ligne ou audessus du dernier hameçon ;
+- e) il est interdit de lancer la gambe depuis une embarcation;
+
+- f) le lest de la gambe ne peut être fixé qu’à l’extrémité de la ligne ou audessus du dernier hameçon;
 
 - g) pour la gambe à corégones, il est interdit de pêcher dans les secteurs du lac où la profondeur d’eau est inférieure à 20 mètres.
 
@@ -353,7 +358,7 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 **Ligne plongeante**
 
-<sup>1</sup> La ligne plongeante est une ligne lestée, sans flotteur ou munie d’un flotteur coulissant et qui ne repose pas sur le fond ;
+<sup>1</sup> La ligne plongeante est une ligne lestée, sans flotteur ou munie d’un flotteur coulissant et qui ne repose pas sur le fond.
 
 <sup>2</sup> Une seule ligne plongeante peut être utilisée.
 
@@ -385,6 +390,8 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 <sup>1</sup> La ligne au lancer est une ligne lestée, avec ou sans flotteur, dont l’appât est lancé au loin, puis ramené activement vers le pêcheur.
 
+## 921.51
+
 <sup>2</sup> Il est permis d’utiliser une seule ligne au lancer.
 
 <sup>3</sup> La ligne au lancer ne peut être munie que d’un seul leurre avec 3 hameçons au maximum, à condition qu’ils soient fixés à ce leurre.
@@ -395,21 +402,21 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 <sup>1</sup> Le fil dormant est une ligne ancrée.
 
-<sup>2</sup> Les titulaires d’un permis de pêche de loisir ont le droit d’utiliser un seul fil dormant, selon les prescriptions suivantes :
+<sup>2</sup> Les titulaires d’un permis de pêche de loisir ont le droit d’utiliser un seul fil dormant, selon les prescriptions suivantes:
 
-- a) la longueur du fil ne peut dépasser 30 mètres et le nombre d’hameçons est limité à 20 ;
+- a) la longueur du fil ne peut dépasser 30 mètres et le nombre d’hameçons est limité à 20;
 
-- b) il doit être posé perpendiculairement à la rive ;
+- b) il doit être posé perpendiculairement à la rive;
 
-- c) il doit être posé de fond à plus de 15 mètres et à moins de 30 mètres de profondeur ;
+- c) il doit être posé de fond à plus de 15 mètres et à moins de 30 mètres de profondeur;
 
-- d) il doit être ancré et signalé à chaque extrémité par une boille de 5 litres au minimum, munie du nom du propriétaire ;
+- d) il doit être ancré et signalé à chaque extrémité par une boille de 5 litres au minimum, munie du nom du propriétaire;
 
-- e) son usage n’est autorisé que du jour suivant la fin de la période de protection de la truite et de l’omble-chevalier jusqu’au 15 avril et de la période allant du 1<sup>er</sup> juillet jusqu’au 15 octobre ;
+- e) son usage n’est autorisé que du jour suivant la fin de la période de protection de la truite et de l’omble-chevalier jusqu’au 15 avril et de la période allant du 1<sup>er</sup> juillet jusqu’au 15 octobre;
 
-- f) il doit être levé au plus tard à 6 heures (heure d’été) et à 8 heures (heure d’hiver) ; le soir, il doit être posé au plus tôt à 20 heures (heure d’été) et à 17 heures (heure d’hiver) ;
+- f) il doit être levé au plus tard à 6 heures (heure d’été) et à 8 heures (heure d’hiver); le soir, il doit être posé au plus tôt à 20 heures (heure d’été) et à 17 heures (heure d’hiver);
 
-- g) l’usage du fil dormant est autorisé exclusivement dans la partie du lac située à l’est de la ligne reliant l’embouchure de l’Arnon (coord. 2.542.325/1.186.250) au (coord. 2.545.850/1.184.175) et à l’ouest de la ligne reliant le port de Neuchâtel (coord. 2.561.625/1.204.425) au barrage antichars situé entre Cudrefin et Champmartin (coord. 2.566.400/1.200.100) ; il ne peut par ailleurs pas être posé à l’intérieur du carré fixé par les coordonnées 2.559.000/1.196.000, 2.562.000/1.199.000, 2.560.000/1.201.000 et 2.557.000/1.198.000 (comprenant les hauts-fonds de la Motte).
+- g) l’usage du fil dormant est autorisé exclusivement dans la partie du lac située à l’est de la ligne reliant l’embouchure de l’Arnon (coord. 2.542.325/1.186.250) au (coord. 2.545.850/1.184.175) et à l’ouest de la ligne reliant le port de Neuchâtel (coord. 2.561.625/1.204.425) au barrage antichars situé entre Cudrefin et Champmartin (coord. 2.566.400/1.200.100); il ne peut par ailleurs pas être posé à l’intérieur du carré fixé par les coordonnées 2.559.000/1.196.000, 2.562.000/1.199.000, 2.560.000/1.201.000 et 2.557.000/1.198.000 (comprenant les hauts-fonds de la Motte).
 
 #### Art. 24
 
@@ -424,6 +431,8 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 <sup>3</sup> Le torchon doit être muni du nom du propriétaire.
 
 <sup>4</sup> Il est permis d’utiliser au maximum 8 torchons.
+
+## 921.51
 
 <sup>5</sup> Il est interdit d’utiliser plus de 6 leurres par torchon.
 
@@ -457,29 +466,17 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 **Appâts**
 
-<sup>1</sup> L’utilisation des poissons d’appât vivants pour la pêche de poissons carnassiers est autorisée uniquement aux pêcheurs détenteurs d’une attestation de compétence.
+<sup>1</sup> Il est interdit d'utiliser comme appâts:
 
-<sup>2</sup> L’usage de poissons d’appât vivants n’est autorisé que pour la pêche au moyen des engins suivants :
+- a) des poissons vivants;
 
-- a) la ligne flottante, plongeante (hormis la gambe) et dormante, pratiquée depuis une embarcation non mue volontairement et dans des zones envahies par les plantes aquatiques ;
+- b) des poissons n'ayant pas été capturés dans le lac de Neuchâtel;
 
-- b) le torchon, dans les zones envahies par les plantes aquatiques.
+- c) des poissons dont le statut de menace est 1, 2, 3 ou 4 selon l'annexe 3;
 
-<sup>3</sup> Les poissons d’appât vivants doivent être fixés à l’hameçon uniquement par la bouche.
-
-<sup>4</sup> Il est interdit d’utiliser comme appâts :
-
-- a) les poissons n’ayant pas été capturés dans le lac de Neuchâtel ;
-
-- b) des poissons appartenant à des espèces étrangères au lac de Neuchâtel ;
-
-- c) des poissons dont le statut de menace est 1, 2, 3 ou 4 selon l’annexe 3 ;
-
-- d) des œufs de poissons et de batraciens ;
+- d) des œufs de poissons et de batraciens;
 
 - e) des écrevisses.
-
-<sup>5</sup> Les poissons d’appât vivants doivent être remis à l’eau au plus tard à l’heure de fermeture de la pêche.
 
 - 6\. Captures et statistiques
 
@@ -487,15 +484,19 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 **Contrôle et détention du poisson pêché**
 
-<sup>1</sup> La capture des poissons doit être effectuée avec ménagement.
+<sup>1</sup> La capture et manipulation des poissons doit être effectuée avec ménagement.
 
-<sup>2</sup> Les poissons destinés à la consommation doivent être mis à mort sans tarder. Toutefois, les pêcheurs titulaires d’une attestation de compétence peuvent stocker pour une courte durée des poissons vivants pour autant qu’ils ne soient pas blessés. Ces poissons ne doivent pas souffrir du fait du stockage.
+<sup>2</sup> Les poissons destinés à la consommation doivent être mis à mort sans tarder. Toutefois, les pêcheurs titulaires d’une attestation de compétence (SaNa), au sens de l’article 5a de l’OLFP, peuvent stocker pour une courte
+
+## 921.51
+
+durée des poissons vivants pour autant qu’ils ne soient pas blessés. Ces poissons ne doivent pas souffrir du fait du stockage.
 
 <sup>3</sup> Par courte durée, on entend, en principe, jusqu’à la fin de la journée de pêche. Des exceptions sont possibles pour les poissons qui sentent la vase (silure, carpe et autres cyprinidés en été).
 
 <sup>4</sup> Les poissons capturés ne doivent pas, jusqu’à la fin de la partie de pêche, être mutilés d’une manière ne permettant plus de déterminer leur taille ou leur nombre.
 
-<sup>5</sup> Il est interdit de remettre à l’eau un poisson qui a été stocké, à l’exception des poissons d’appât vivants.
+<sup>5</sup> Il est interdit de remettre à l’eau un poisson qui a été stocké.
 
 <sup>6</sup> La mise à mort des poissons doit être effectuée conformément aux exigences de l’ordonnance fédérale sur la protection des animaux et de l’aide à l’exécution y relative.
 
@@ -503,35 +504,33 @@ Le titulaire d’un permis de pêche doit être porteur, en plus du permis de p�
 
 **Capture de poissons non-indigènes**
 
-Les espèces de poissons listées à l’annexe 4 sont considérées comme indésirables. Le pêcheur a l’obligation de les mettre à mort immédiatement après la capture.
+<sup>1</sup> Les espèces de poissons listées à l’annexe 4 sont considérées comme indésirables. Le pêcheur a l’obligation de les mettre à mort immédiatement après la capture.
 
 #### Art. 31
 
 **Nombre maximal de poissons capturés**
 
-<sup>1</sup> Le titulaire d’un permis de pêche de loisir ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis ne peuvent capturer par jour plus de :
+<sup>1</sup> Le titulaire d’un permis de pêche de loisir ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis ne peuvent capturer par jour plus de:
 
-- 80 perches ;
+- 80 perches;
 
-- 10 corégones (palées et bondelles) ;
+- 8 corégones (palées et bondelles);
 
-- 5 truites ;
-
-- 2 ombles-chevaliers ;
+- 3 truites;
 
 - 7 brochets.
 
-<sup>2</sup> Le titulaire d’un permis de pêche de loisir ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis ne peuvent capturer par année civile plus de :
+<sup>2</sup> Le titulaire d’un permis de pêche de loisir ainsi que la personne pratiquant un mode de pêche non soumis au régime des permis ne peuvent capturer par année civile plus de:
 
-- 1800 perches ;
+- 1800 perches;
 
-- 30 truites ;
-
-- 10 ombles-chevaliers ;
+- 30 truites;
 
 - 100 brochets.
 
 <sup>3</sup> Si le titulaire d’un permis de pêche de loisir est accompagné d’une personne pratiquant un mode de pêche non soumis au régime des permis, d’un enfant âgé de moins de 14 ans révolus ou d’un hôte, le produit total de la pêche pratiquée par les intéressés ne peut dépasser les normes fixées par le présent article.
+
+## 921.51
 
 <sup>4</sup> Les exceptions autorisées par un canton lors d’une rencontre de pêche sont réservées.
 
@@ -545,9 +544,9 @@ Les espèces de poissons listées à l’annexe 4 sont considérées comme indé
 
 <sup>3</sup> Le carnet de contrôle doit être présenté, sur demande, aux organes chargés de la surveillance de la pêche et restitué au service qui l’a délivré, dans les quinze jours suivant la fin de l’année civile.
 
-<sup>4</sup> La feuille de statistique doit être présentée, sur demande, aux organes chargés de la surveillance de la pêche et restituée au service ou à la préfecture qui l’a délivrée. Les prescriptions édictées en vertu de l’article 12 al. 1 let. f du concordat du 19 mai 2003 sur la pêche dans le lac de Neuchâtel (ci-après : le concordat) ne sont pas applicables.
+<sup>4</sup> La feuille de statistique doit être présentée, sur demande, aux organes chargés de la surveillance de la pêche et restituée au service ou à la préfecture qui l’a délivrée. Les prescriptions édictées en vertu de l’article 12 al. 1 let. f du concordat du 19 mai 2003 sur la pêche dans le lac de Neuchâtel (ci-après: le concordat) ne sont pas applicables.
 
-<sup>5</sup> Lorsque le titulaire ne respecte pas les exigences fixées à l’alinéa 1 ou 2, l’agent chargé de la surveillance de la pêche séquestre respectivement le carnet de contrôle ou la feuille de statistique ainsi que le permis de pêche, puis les remet au service de la pêche du canton qui les a délivrés ; ce dernier les retient jusqu’à droit connu sur les plans administratif et pénal.
+<sup>5</sup> Lorsque le titulaire ne respecte pas les exigences fixées à l’alinéa 1 ou 2, l’agent chargé de la surveillance de la pêche séquestre respectivement le carnet de contrôle ou la feuille de statistique ainsi que le permis de pêche, puis les remet au service de la pêche du canton qui les a délivrés; ce dernier les retient jusqu’à droit connu sur les plans administratif et pénal.
 
 <sup>6</sup> Un titulaire de permis annuel ne peut détenir plus d’un carnet de contrôle.
 
@@ -559,13 +558,15 @@ Les espèces de poissons listées à l’annexe 4 sont considérées comme indé
 
 internationale et réserves naturelles
 
-<sup>1</sup> Les titulaires d’un permis de pêche de loisir, leurs hôtes ainsi que les personnes pratiquant un mode de pêche non soumis au régime des permis ne peuvent pas pêcher depuis la rive ni depuis une embarcation à l’intérieur des réserves d’oiseaux d’eau et de migrateurs d’importance internationale (OROEM) suivantes :
+<sup>1</sup> Les titulaires d’un permis de pêche de loisir, leurs hôtes ainsi que les personnes pratiquant un mode de pêche non soumis au régime des permis ne peuvent pas pêcher depuis la rive ni depuis une embarcation à l’intérieur des réserves d’oiseaux d’eau et de migrateurs d’importance internationale (OROEM) suivantes:
 
-- a) les zones balisées interdites à la navigation des réserves Fanel–Chablaisde-Cudrefin, Pointe-de-Marin, Chevroux–Portalban, Yvonand–Cheyres et Grandson–Champ-Pittet ;
+- a) les zones balisées interdites à la navigation des réserves Fanel–Chablaisde-Cudrefin, Pointe-de-Marin, Chevroux–Portalban, Yvonand–Cheyres et Grandson–Champ-Pittet;
 
-- b) entre le canal de la Broye et le canal de la Thielle (dans la réserve Fanel– Chablais-de-Cudrefin, Pointe-de-Marin) :
+## 921.51
 
-- 1\. durant toute l’année dans la zone marquée interdite à la navigation ;
+- b) entre le canal de la Broye et le canal de la Thielle (dans la réserve Fanel– Chablais-de-Cudrefin, Pointe-de-Marin):
+
+- 1\. durant toute l’année dans la zone marquée interdite à la navigation;
 
 - 2\. du 1<sup>er</sup> octobre au 31 mars à l’est de la ligne reliant les extrémités des môles de ces deux canaux.
 
@@ -579,9 +580,9 @@ internationale et réserves naturelles
 
 **Catégories de permis de pêche professionnelle**
 
-<sup>1</sup> Les permis sont les suivants :
+<sup>1</sup> Les permis sont les suivants:
 
-- a) le permis de pêche professionnelle (permis A), donnant le droit de pêcher avec tous les engins mentionnés à l’article 43 ;
+- a) le permis de pêche professionnelle (permis A), donnant le droit de pêcher avec tous les engins mentionnés à l’article 43;
 
 - b) le permis spécial de pêche professionnelle (permis B), donnant le droit de pêcher avec les engins mentionnés à l’article 43, à l’exception de la senne.
 
@@ -591,7 +592,7 @@ internationale et réserves naturelles
 
 **Permis de pêche professionnelle**
 
-Le titulaire d’un permis de pêche professionnelle (permis A) ne peut pas recourir à un remplaçant ou à un aide en cas d’accident ou de maladie dès l’âge de 65 ans révolus.
+<sup>1</sup> Le titulaire d’un permis de pêche professionnelle (permis A) ne peut pas recourir à un remplaçant ou à un aide en cas d’accident ou de maladie dès l’âge de 65 ans révolus.
 
 #### Art. 36
 
@@ -603,6 +604,8 @@ Le titulaire d’un permis de pêche professionnelle (permis A) ne peut pas reco
 
 <sup>3</sup> Ils n’ont pas le droit d’utiliser la senne.
 
+## 921.51
+
 <sup>4</sup> Ils ont le droit d’utiliser au maximum la moitié des filets de plus de 2 mètres de hauteur. Si le nombre de ces engins est impair, le nombre est arrondi vers le haut. Toutefois, ils ont le droit d’utiliser la totalité des filets flottants dérivants octroyés aux titulaires d’un permis A.
 
 <sup>5</sup> Le titulaire d’un permis B ne peut pas recourir à un remplaçant ou à un aide en cas d’accident ou de maladie.
@@ -611,7 +614,7 @@ Le titulaire d’un permis de pêche professionnelle (permis A) ne peut pas reco
 
 **Prix des permis de pêche**
 
-Les prix des permis figurent à l’annexe 1.
+<sup>1</sup> Les prix des permis figurent à l’annexe 1.
 
 #### Art. 38
 
@@ -637,15 +640,17 @@ Les prix des permis figurent à l’annexe 1.
 
 **Branches**
 
-L’examen porte sur les branches suivantes :
+<sup>1</sup> L’examen porte sur les branches suivantes:
 
-- a) connaissances de la faune aquatique du lac ;
+- a) connaissances de la faune aquatique du lac;
 
-- b) engins et modes de pêche ;
+- b) engins et modes de pêche;
 
-- c) pratique de la pêche ;
+- c) pratique de la pêche;
 
-- d) législations fédérale et intercantonale sur la pêche ;
+- d) législations fédérale et intercantonale sur la pêche;
+
+## 921.51
 
 - e) connaissances en matière de protection des animaux.
 
@@ -653,19 +658,19 @@ L’examen porte sur les branches suivantes :
 
 **Appréciation**
 
-<sup>1</sup> Chaque membre de la commission apprécie les connaissances des candidats et leur attribue une note pour chaque branche selon le barème suivant : 6 points = très bien 5 points = bien 4 points = suffisant 3 points = insuffisant 2 points = éliminatoire 1 point = éliminatoire.
+<sup>1</sup> Chaque membre de la commission apprécie les connaissances des candidats et leur attribue une note pour chaque branche selon le barème suivant: 6 points = très bien 5 points = bien 4 points = suffisant 3 points = insuffisant 2 points = éliminatoire 1 point = éliminatoire
 
 <sup>2</sup> Pour le calcul de la moyenne générale, la note obtenue pour la branche « pratique de la pêche » est comptée deux fois et celle de toutes les autres branches, une seule fois.
 
 <sup>3</sup> L’examen est réussi lorsque le candidat obtient une moyenne générale de 4 points et un minimum de 3 points par branche.
 
-<sup>4</sup> La décision de la commission d’examen est souveraine ; elle est communiquée à la Commission intercantonale.
+<sup>4</sup> La décision de la commission d’examen est souveraine; elle est communiquée à la Commission intercantonale.
 
 #### Art. 42
 
 **Echec**
 
-En cas d’échec, le candidat peut se présenter à nouveau devant la commission d’examen, mais au maximum deux fois et au plus tôt à l’expiration d’un délai d’une année.
+<sup>1</sup> En cas d’échec, le candidat peut se présenter à nouveau devant la commission d’examen, mais au maximum deux fois et au plus tôt à l’expiration d’un délai d’une année.
 
 - 10\. Normes d’utilisation des engins et moyens de pêche autorisés
 
@@ -673,69 +678,77 @@ En cas d’échec, le candidat peut se présenter à nouveau devant la commissio
 
 **Engins de pêche**
 
-<sup>1</sup> Les seuls engins de pêche dont l’utilisation est autorisée sont les suivants :
+<sup>1</sup> Les seuls engins de pêche dont l’utilisation est autorisée sont les suivants:
 
-- a) la senne ;
+- a) la senne;
 
-- b) le filet à simple toile ou tramaillé ;
+- b) le filet à simple toile ou tramaillé;
 
-- c) la nasse ;
+- c) la nasse;
 
 - d) les engins de pêche admis pour la pêche de loisir définis aux articles 17 à 26 du présent règlement.
 
 <sup>2</sup> En cas de besoin, la Commission intercantonale peut autoriser l’usage d’autres engins de pêche.
 
+## 921.51
+
 #### Art. 44
 
 **Filets et autres engins**
 
-On entend par :
+**1**
 
-- a) filet : tout engin de pêche comprenant une toile faite de mailles en fibres naturelles ou synthétiques ; il peut être ancré ou dérivant, flottant ou posé sur le fond ;
+On entend par:
 
-- b) filet à simple toile : un filet composé d’une seule nappe
+- a) filet: tout engin de pêche comprenant une toile faite de mailles en fibres naturelles ou synthétiques; il peut être ancré ou dérivant, flottant ou posé sur le fond;
 
-rectangulaire ;
+- b) filet à simple toile: un filet composé d’une seule nappe
 
-- c) filet tramaillé : un filet composé d’une toile à petites mailles et d’une ou deux toiles superposées à
+rectangulaire;
 
-grandes mailles ;
+- c) filet tramaillé: un filet composé d’une toile à petites mailles et d’une ou deux toiles superposées à
 
-- d) senne : un filet utilisé en pêche active et composé de deux parties de forme allongée, appelées bras, reliées par une partie en forme de sac ;
+grandes mailles;
 
-- e) goujonnière : un filet utilisé en pêche active et formé d’une toile repliée sur elle-même en forme de gouttière, celle-ci étant fermée aux deux
+- d) senne: un filet utilisé en pêche active et composé de deux parties de forme allongée, appelées bras, reliées par une partie en forme de sac;
 
-extrémités ;
+- e) goujonnière: un filet utilisé en pêche active et formé d’une toile repliée sur elle-même en forme de gouttière, celle-ci étant fermée aux deux
 
-- f) couble : un ensemble de filets attachés les uns aux autres ;
+extrémités;
 
-- g) longueur d’un filet : elle est donnée par la longueur du chalame ;
+- f) couble: un ensemble de filets attachés les uns aux autres;
 
-- h) hauteur d’un filet : elle se détermine compte non tenu des chevalets, les mailles étant ouvertes ;
+- g) longueur d’un filet: elle est donnée par la longueur du chalame;
 
-- i) pêche en battue : le fait de chasser volontairement le poisson en direction d’un filet ;
+- h) hauteur d’un filet: elle se détermine compte non tenu des chevalets, les mailles étant ouvertes;
 
-- j) nasse : tout piège à poissons ou à écrevisses, constitué d’un réseau de mailles en fibres naturelles ou synthétiques ou de fil métallique, le tout tendu de façon rigide sur
+- i) pêche en battue: le fait de chasser volontairement le poisson en direction d’un filet;
 
-une armature ;
+- j) nasse: tout piège à poissons ou à écrevisses, constitué d’un réseau de mailles en fibres naturelles ou synthétiques ou de fil métallique, le tout tendu de façon rigide sur
 
-- k) fil : une ligne ancrée ; il peut être de fond ou flottant.
+une armature;
+
+- k) fil: une ligne ancrée; il peut être de fond ou flottant.
 
 #### Art. 45
 
 **Dimensions des mailles des filets et des nasses**
 
-<sup>1</sup> Les dimensions des mailles des filets autres que les sennes sont déterminées sur la moyenne de 10 mailles mesurées à l’état humide, au moyen de l’appareil adopté par la Commission intercantonale.
+**1**
+
+Les dimensions des mailles des filets autres que les sennes sont déterminées sur la moyenne de 10 mailles mesurées à l’état humide, au moyen de l’appareil adopté par la Commission intercantonale.
+
+## 921.51
 
 <sup>2</sup> Cet appareil est muni d’un poinçon comprenant un « N » et une silhouette de poisson.
 
-<sup>3</sup> Il est utilisé comme il suit :
+<sup>3</sup> Il est utilisé comme il suit:
 
-- a) l’appareil est tenu de la main droite, de manière que le poids se trouve en bas et la pointe dirigée vers la gauche ;
+- a) l’appareil est tenu de la main droite, de manière que le poids se trouve en bas et la pointe dirigée vers la gauche;
 
-- b) deux mailles consécutives dans le sens horizontal sont superposées ;
+- b) deux mailles consécutives dans le sens horizontal sont superposées;
 
-- c) la pointe du triangle que forme l’appareil est introduite dans ces deux mailles jusqu’au point où le bras inférieur coïncide avec les traits apposés sur le côté vertical du triangle ;
+- c) la pointe du triangle que forme l’appareil est introduite dans ces deux mailles jusqu’au point où le bras inférieur coïncide avec les traits apposés sur le côté vertical du triangle;
 
 - d) les nœuds supérieur et inférieur doivent se trouver en face du repère correspondant à une même maille.
 
@@ -753,37 +766,39 @@ une armature ;
 
 <sup>2</sup> Les bras de la senne ne doivent pas avoir plus de 130 mètres de long. Tout dispositif permettant de la refermer par le bas est interdit. La dimension des mailles du sac doit être au minimum de 35 millimètres.
 
-<sup>3</sup> Sitôt tendue, la senne doit être relevée ; il est interdit de la traîner.
+<sup>3</sup> Sitôt tendue, la senne doit être relevée; il est interdit de la traîner.
 
-<sup>4</sup> L’usage de la senne est interdit :
+<sup>4</sup> L’usage de la senne est interdit:
 
-- a) du 1<sup>er</sup> octobre au 31 décembre ainsi que le dimanche ;
+- a) du 1<sup>er</sup> octobre au 31 décembre ainsi que le dimanche;
 
-- b) dans les parties du lac comprenant une profondeur d’eau de moins de 40 mètres ;
+- b) dans les parties du lac comprenant une profondeur d’eau de moins de 40 mètres;
 
 - c) d’une embarcation ancrée ou de deux ou plusieurs embarcations accouplées.
 
 #### Art. 47
 
-**Autres filets : généralités**
+**Autres filets: généralités**
 
 <sup>1</sup> Seuls les filets définis aux articles 48 à 55 peuvent être utilisés.
 
-<sup>2</sup> Leurs caractéristiques et leur usage sont réglés comme il suit :
+<sup>2</sup> Leurs caractéristiques et leur usage sont réglés comme il suit:
 
-- a) le filet à simple toile ne doit pas avoir plus de 100 mètres de long et plus de 10 mètres de haut ; il doit être utilisé soit de fond, soit flottant ;
+## 921.51
 
-- b) le filet tramaillé ne doit pas avoir plus de 100 mètres de long et plus de 2 mètres de haut ; ses mailles doivent être de 40 millimètres au minimum ; il ne peut être utilisé que de fond ;
+- a) le filet à simple toile ne doit pas avoir plus de 100 mètres de long et plus de 10 mètres de haut; il doit être utilisé soit de fond, soit flottant;
 
-- c) le filet de fond doit reposer sur le fond sur toute sa longueur ; le filet flottant doit être soutenu par des flotteurs répartis d’une manière égale sur sa longueur ;
+- b) le filet tramaillé ne doit pas avoir plus de 100 mètres de long et plus de 2 mètres de haut; ses mailles doivent être de 40 millimètres au minimum; il ne peut être utilisé que de fond;
 
-- d) les filets ne peuvent être attachés les uns aux autres (couble) que dans le sens de la longueur ;
+- c) le filet de fond doit reposer sur le fond sur toute sa longueur; le filet flottant doit être soutenu par des flotteurs répartis d’une manière égale sur sa longueur;
+
+- d) les filets ne peuvent être attachés les uns aux autres (couble) que dans le sens de la longueur;
 
 - e) il est interdit à plusieurs pêcheurs de réunir leurs coubles.
 
-<sup>3</sup> Le nombre total de filets de fond et de filets flottants, un filet de plus de 2 mètres de hauteur équivalant à 5 filets de 2 mètres de hauteur au maximum, est limité comme il suit :
+<sup>3</sup> Le nombre total de filets de fond et de filets flottants, un filet de plus de 2 mètres de hauteur équivalant à 5 filets de 2 mètres de hauteur au maximum, est limité comme il suit:
 
-- a) 25 unités de 50 millimètres de maille ou plus ;
+- a) 25 unités de 50 millimètres de maille ou plus;
 
 - b) 60 unités de maille inférieure à 40 millimètres.
 
@@ -791,39 +806,41 @@ une armature ;
 
 **Filet de fond destiné à la capture de la perche**
 
-<sup>1</sup> L’usage du filet de fond destiné à la capture de la perche est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet de fond destiné à la capture de la perche est soumis aux restrictions suivantes:
 
-- a) les mailles autorisées sont fixées comme suit :
+- a) les mailles autorisées sont fixées comme suit:
 
-- de 23 millimètres au minimum à 23,9 mm au maximum durant la période du 15 décembre au jour précédant la date d’ouverture de la pêche de pisciculture de la bondelle ;
+- de 23 millimètres au minimum à 23,9 mm au maximum durant la période du 15 décembre au jour précédant la date d’ouverture de la pêche de pisciculture de la bondelle;
 
-- de 23 millimètres au minimum à 29,9 mm au maximum durant les autres périodes ;
+- de 23 millimètres au minimum à 29,9 mm au maximum durant les autres périodes;
 
-- b) sa hauteur ne peut dépasser 2 mètres ;
+- b) sa hauteur ne peut dépasser 2 mètres;
 
-- c) le nombre de ces filets est limité comme suit :
+- c) le nombre de ces filets est limité comme suit:
 
-- 10 unités au maximum du 1<sup>er</sup> juin au 31 octobre et du 15 décembre au jour précédant la date d’ouverture de la pêche de pisciculture de la bondelle ;
+- 10 unités au maximum du 1<sup>er</sup> juin au 31 octobre et du 15 décembre au jour précédant la date d’ouverture de la pêche de pisciculture de la bondelle;
 
 - 20 unités au maximum du 1<sup>er</sup> novembre au 14 décembre, ainsi que de
 
-la date d’ouverture de la pêche à la bondelle au 14 avril ;
+la date d’ouverture de la pêche à la bondelle au 14 avril;
 
-- d) l’usage de ce filet est interdit durant la pêche de pisciculture de la bondelle ainsi que du 15 avril au 31 mai ;
+- d) l’usage de ce filet est interdit durant la pêche de pisciculture de la bondelle ainsi que du 15 avril au 31 mai;
 
-- e) la profondeur maximale à laquelle ce filet peut être tendu est fixée comme suit :
+- e) la profondeur maximale à laquelle ce filet peut être tendu est fixée comme suit:
 
-- de la date d’ouverture de la pêche de la bondelle au 14 avril, 60 mètres ;
+## 921.51
 
-- du 1<sup>er</sup> juin au 31 juillet, 15 mètres ou la profondeur fixée par la commission technique et 10 mètres dans le secteur de la Motte ;
+- de la date d’ouverture de la pêche de la bondelle au 14 avril, 60 mètres;
 
-- du 1<sup>er</sup> août au 30 septembre, 20 mètres sur la Motte et dans la zone située au nord-est de la ligne reliant le port de Neuchâtel (coord. 2.561.625/1.204.425) au barrage antichars « toblerones » (coord. 2.566.400/1.200.100) situé entre Cudrefin et Chabrey et 25 mètres dans les autres parties du lac ;
+- du 1<sup>er</sup> juin au 31 juillet, 15 mètres ou la profondeur fixée par la commission technique et 10 mètres dans le secteur de la Motte;
 
-- du 1<sup>er</sup> au 14 octobre, 25 mètres ;
+- du 1<sup>er</sup> août au 30 septembre, 20 mètres sur la Motte et dans la zone située au nord-est de la ligne reliant le port de Neuchâtel (coord. 2.561.625/1.204.425) au barrage antichars « toblerones » (coord. 2.566.400/1.200.100) situé entre Cudrefin et Chabrey et 25 mètres dans les autres parties du lac;
 
-- du 15 au 31 octobre, 30 mètres ;
+- du 1<sup>er</sup> au 14 octobre, 25 mètres;
 
-- du 1<sup>er</sup> novembre au 14 décembre, 60 mètres ;
+- du 15 au 31 octobre, 30 mètres;
+
+- du 1<sup>er</sup> novembre au 14 décembre, 60 mètres;
 
 - du 15 décembre au jour précédant la date d’ouverture de la pêche de pisciculture de la bondelle, entre 40 et 55 mètres.
 
@@ -833,19 +850,21 @@ la date d’ouverture de la pêche à la bondelle au 14 avril ;
 
 #### Art. 49
 
-**Filet de fond de 33 à 39,9 mm**
+**Filet de fond de 31 à 39,9 mm**
 
-<sup>1</sup> L’usage du filet de fond de 33 à 39,9 mm de maille est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet de fond de 31 à 39,9 mm de maille est soumis aux restrictions suivantes:
 
-- a) il est interdit de tendre plus de 40 de ces filets si leur hauteur est de 2 mètres au maximum et plus de 6 de ces filets si leur hauteur est de plus de 2 mètres ; si les 2 filets de lève de plus de 2 mètres de hauteur prévus à l’article 51 ne sont pas utilisés, ils peuvent être remplacés par 2 filets de fond de plus de 2 mètres de hauteur, qui doivent être compris dans le contingent de 40 filets de fond ;
+- a) il est interdit de tendre plus de 40 de ces filets si leur hauteur est de 2 mètres au maximum et plus de 6 de ces filets si leur hauteur est de plus de 2 mètres; seuls deux filets de maille 31 à 32.9 mm et de plus de 2 mètres de hauteur peuvent être employés sur les six autorisés; si les 2 filets de lève de plus de 2 mètres de hauteur prévus à l’article 51 ne sont pas utilisés, ils peuvent être remplacés par 2 filets de fond de maille 33 à 39.9 mm et de plus de 2 mètres de hauteur, qui doivent être compris dans le contingent de 40 filets de fond;
 
-- b) l’usage de ce filet est interdit pendant la période de protection de la bondelle ;
+- b) l’usage de ce filet est interdit pendant la période de protection de la bondelle;
 
-- c) si sa hauteur est de 2 mètres au maximum, ce filet ne peut être tendu à moins de 40 mètres de profondeur ;
+- c) si sa hauteur est de 2 mètres au maximum, ce filet ne peut être tendu à moins de 40 mètres de profondeur;
 
 - d) si sa hauteur est de plus de 2 mètres, ce filet ne peut être tendu à moins de 25 mètres de profondeur, sauf du 1<sup>er</sup> octobre au 30 novembre où cette profondeur doit être de 40 mètres au minimum.
 
 <sup>2</sup> Les dispositions de l’article 50 sont réservées.
+
+## 921.51
 
 #### Art. 50
 
@@ -863,15 +882,15 @@ la date d’ouverture de la pêche à la bondelle au 14 avril ;
 
 **Filet de fond de 40 à 49,9 mm**
 
-L’usage du filet de fond de 40 à 49,9 mm de maille est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet de fond de 40 à 49,9 mm de maille est soumis aux restrictions suivantes:
 
-- a) la hauteur de ce filet ne peut dépasser 2 mètres ;
+- a) la hauteur de ce filet ne peut dépasser 2 mètres;
 
-- b) il est interdit de tendre plus de 10 de ces filets ;
+- b) il est interdit de tendre plus de 10 de ces filets
 
-- c) l’usage de ce filet est interdit du 15 octobre au 31 décembre ;
+- c) l’usage de ce filet est interdit du 15 octobre au 31 décembre;
 
-- d) du 1<sup>er</sup> janvier à fin février, l’usage de 10 filets au maximum de 45 millimètres de maille au minimum est autorisé ; il est interdit de tendre ce genre de filet à plus de 40 mètres de profondeur ;
+- d) du 1<sup>er</sup> janvier à fin février, l’usage de 10 filets au maximum de 45 millimètres de maille au minimum est autorisé; il est interdit de tendre ce genre de filet à plus de 40 mètres de profondeur;
 
 - e) de la date de l’ouverture de la pêche à la bondelle au 31 mai, ce filet ne peut être tendu à une profondeur inférieure à 10 mètres.
 
@@ -879,11 +898,11 @@ L’usage du filet de fond de 40 à 49,9 mm de maille est soumis aux restriction
 
 **Filet de fond de 50 millimètres et plus**
 
-L’usage du filet de fond de 50 millimètres de maille au minimum est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet de fond de 50 millimètres de maille au minimum est soumis aux restrictions suivantes:
 
-- a) il est interdit de tendre plus de 20 de ces filets ;
+- a) il est interdit de tendre plus de 20 de ces filets;
 
-- b) la hauteur de ces filets ne peut dépasser 2 mètres ; toutefois, du 16 avril au 15 octobre, 5 de ces filets peuvent avoir une hauteur de 5 mètres au maximum ;
+- b) la hauteur de ces filets ne peut dépasser 2 mètres; toutefois, du 16 avril au 15 octobre, 5 de ces filets peuvent avoir une hauteur de 5 mètres au maximum;
 
 - c) l’usage de ce filet est interdit du 15 octobre au 31 décembre.
 
@@ -891,21 +910,23 @@ L’usage du filet de fond de 50 millimètres de maille au minimum est soumis au
 
 **Filet flottant ancré**
 
-<sup>1</sup> L’usage du filet flottant ancré est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet flottant ancré est soumis aux restrictions suivantes:
 
-- a) la dimension des mailles de ce filet doit être comprise entre 33 et 39,9 mm ;
+- a) la dimension des mailles de ce filet doit être comprise entre 33 et 39,9 mm;
 
-- b) ce filet doit avoir une toile en monofil ;
+## 921.51
 
-- c) ce filet doit être ancré au moyen d’ancres se trouvant à chaque extrémité et signalées par 2 boilles ; les ancres peuvent être laissées à l’eau sans filet pendant quarante-huit heures au maximum ;
+- b) ce filet doit avoir une toile en monofil;
 
-- d) il est interdit pendant la période de protection de la bondelle ;
+- c) ce filet doit être ancré au moyen d’ancres se trouvant à chaque extrémité et signalées par 2 boilles; les ancres peuvent être laissées à l’eau sans filet pendant quarante-huit heures au maximum;
 
-- e) de l’ouverture de la pêche à la bondelle au 30 avril, au maximum 4 de ces filets peuvent être tendus, cela exclusivement dans les parties du lac comprenant une profondeur d’eau de 50 mètres au minimum, le haut de ces filets devant se trouver à plus de 20 mètres au-dessous de la surface du lac ;
+- d) il est interdit pendant la période de protection de la bondelle;
 
-- f) du 1<sup>er</sup> mai au 30 septembre, 2 de ces filets peuvent être tendus, cela exclusivement dans les parties du lac comprenant une profondeur d’eau de 25 mètres au minimum et de 50 mètres au maximum, le haut de ces filets devant se trouver à plus de 2 mètres au-dessous de la surface de l’eau ;
+- e) de l’ouverture de la pêche à la bondelle au 30 avril, au maximum 4 de ces filets peuvent être tendus, cela exclusivement dans les parties du lac comprenant une profondeur d’eau de 50 mètres au minimum, le haut de ces filets devant se trouver à plus de 20 mètres au-dessous de la surface du lac;
 
-- g) du 1<sup>er</sup> octobre au 30 novembre, au maximum 2 de ces filets peuvent être tendus, cela exclusivement dans les parties du lac comprenant une profondeur d’eau de 50 mètres au minimum, le haut de ces filets devant se trouver à plus de 20 mètres au-dessous de la surface du lac ;
+- f) du 1<sup>er</sup> mai au 30 septembre, 2 de ces filets peuvent être tendus, cela exclusivement dans les parties du lac comprenant une profondeur d’eau de 25 mètres au minimum et de 50 mètres au maximum, le haut de ces filets devant se trouver à plus de 2 mètres au-dessous de la surface de l’eau;
+
+- g) du 1<sup>er</sup> octobre au 30 novembre, au maximum 2 de ces filets peuvent être tendus, cela exclusivement dans les parties du lac comprenant une profondeur d’eau de 50 mètres au minimum, le haut de ces filets devant se trouver à plus de 20 mètres au-dessous de la surface du lac;
 
 - h) en cas de pêche trop importante, la commission technique peut diminuer le nombre de ces filets.
 
@@ -915,21 +936,23 @@ L’usage du filet de fond de 50 millimètres de maille au minimum est soumis au
 
 **Filet flottant dérivant**
 
-L’usage du filet flottant dérivant est limité comme il suit :
+<sup>1</sup> L’usage du filet flottant dérivant est limité comme il suit:
 
-- a) les mailles de ce filet doivent être de 50 millimètres au minimum, sauf 6 filets de plus de 2 mètres de hauteur (pics) du contingent qui peuvent être de 45 millimètres au minimum ;
+- a) les mailles de ce filet doivent être de 50 millimètres au minimum, sauf 6 filets de plus de 2 mètres de hauteur (pics) du contingent qui peuvent être de 45 millimètres au minimum;
 
-- b) son ancrage est interdit ;
+- b) son ancrage est interdit;
 
-- c) les coubles doivent être tendues en ligne, perpendiculairement au grand axe du lac ;
+- c) les coubles doivent être tendues en ligne, perpendiculairement au grand axe du lac;
 
-- d) l’usage de ce filet est interdit du 1<sup>er</sup> janvier au 30 avril et du 1<sup>er</sup> octobre au 31 décembre ;
+- d) l’usage de ce filet est interdit du 1<sup>er</sup> janvier au 30 avril et du 1<sup>er</sup> octobre au 31 décembre;
 
-- e) ce filet ne peut être tendu que dans les parties du lac comprenant une profondeur d’eau de 40 mètres au minimum ;
+- e) ce filet ne peut être tendu que dans les parties du lac comprenant une profondeur d’eau de 40 mètres au minimum;
 
-- f) les filets de plus de 2 mètres de hauteur doivent avoir une toile en monofil ou polymonofil ;
+- f) les filets de plus de 2 mètres de hauteur doivent avoir une toile en monofil ou polymonofil;
 
-- g) il est interdit de tendre plus de 6 de ces filets si leur hauteur est de plus de 2 mètres ;
+## 921.51
+
+- g) il est interdit de tendre plus de 6 de ces filets si leur hauteur est de plus de 2 mètres;
 
 - h) le nombre total de ces filets ne doit pas dépasser 20 unités, un filet de plus de 2 mètres de hauteur équivalant à trois filets de 2 mètres de hauteur au maximum.
 
@@ -937,11 +960,11 @@ L’usage du filet flottant dérivant est limité comme il suit :
 
 **Filet tramaillé pour la pêche de la lotte**
 
-L’usage du filet tramaillé est soumis aux restrictions suivantes :
+<sup>1</sup> L’usage du filet tramaillé est soumis aux restrictions suivantes:
 
-- a) le filet ne doit pas avoir plus de 100 mètres de long et plus de 2 mètres de haut ;
+- a) le filet ne doit pas avoir plus de 100 mètres de long et plus de 2 mètres de haut;
 
-- b) en dérogation à l’article 47, la dimension des mailles de ce filet doit être de 25 millimètres au minimum ;
+- b) en dérogation à l’article 47, la dimension des mailles de ce filet doit être de 25 millimètres au minimum;
 
 - c) l’usage de 2 filets au maximum, utilisés de fond, est autorisé du 1<sup>er</sup> février au 15 avril.
 
@@ -955,35 +978,53 @@ L’usage du filet tramaillé est soumis aux restrictions suivantes :
 
 <sup>3</sup> La dimension des mailles de la nasse doit être de 23 millimètres au minimum.
 
-<sup>4</sup> L’usage de nasses est limité comme il suit :
+<sup>4</sup> L’usage de nasses est limité comme il suit:
 
-- a) du 15 avril au 31 mai, au maximum 4 nasses peuvent être posées ;
+- a) du 15 avril au 31 mai, au maximum 4 nasses peuvent être posées;
 
-- b) hors de cette période, au maximum 10 nasses peuvent être posées, cela à une profondeur de 39 mètres au maximum ;
+- b) hors de cette période, au maximum 10 nasses peuvent être posées, cela à une profondeur de 39 mètres au maximum;
 
-- c) les nasses doivent être reliées deux par deux avec une corde en nylon de 5 millimètres de diamètre au minimum ;
+- c) les nasses doivent être reliées deux par deux avec une corde en nylon de 5 millimètres de diamètre au minimum;
 
 - d) l’usage de la nasse de 40 millimètres de maille au minimum est interdit du 15 mars au 15 avril.
 
-<sup>5</sup> Les titulaires d’un permis A sont autorisés à utiliser au maximum 20 nasses à écrevisses d’un volume unitaire de 100 litres au maximum comprenant une ou deux entrées, pour la capture des écrevisses exclusivement. Les conditions sont les suivantes :
+<sup>5</sup> Les titulaires d’un permis A sont autorisés à utiliser au maximum 20 nasses à écrevisses d’un volume unitaire de 100 litres au maximum comprenant une ou deux entrées, pour la capture des écrevisses exclusivement. Les conditions sont les suivantes:
 
-- a) les nasses doivent être reliées entre elles de manière à former une ligne ;
+- a) les nasses doivent être reliées entre elles de manière à former une ligne;
 
-- b) les deux nasses à l’extrémité de la ligne doivent être marquées conformément à l’article 60 al. 6 et 7 ;
+- b) les deux nasses à l’extrémité de la ligne doivent être marquées conformément à l’article 60 al. 6 et 7.
+
+## 921.51
 
 #### Art. 57
 
 **Fil**
 
-Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser un nombre illimité de fils dormants et de fils flottants, ces derniers pouvant être pourvus au maximum de 500 hameçons.
+<sup>1</sup> Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser un nombre illimité de fils dormants et de fils flottants, ces derniers pouvant être pourvus au maximum de 500 hameçons.
 
 #### Art. 58
 
 **Appâts**
 
-<sup>1</sup> Les pêcheurs professionnels sont autorisés à utiliser des poissons d’appât selon les moyens et aux conditions fixées pour la pêche de loisir (art. 28).
+<sup>1</sup> Les pêcheurs professionnels sont autorisés à utiliser des poissons d’appât vivants, exclusivement dans les zones envahies par des plantes aquatiques.
 
-<sup>2</sup> Ils sont également autorisés à utiliser de tels appâts au moyen du fil (art. 57).
+<sup>2</sup> L’usage de poissons d’appâts vivants n’est autorisé qu’au moyen du fil (voir art. 57 du présent règlement).
+
+<sup>3</sup> Les poissons d’appâts vivants doivent être fixés à l’hameçon uniquement par la bouche.
+
+<sup>4</sup> Il est interdit d’utiliser comme appâts:
+
+- a) des poissons n'ayant pas été capturés dans le lac de Neuchâtel;
+
+- b) des poissons appartenant à des espèces étrangères au lac de Neuchâtel (voir annexe 4);
+
+- c) des poissons dont le statut de menace est 1, 2, 3 ou 4 selon l'annexe 3;
+
+- e) des œufs de poissons et de batraciens;
+
+- f) des écrevisses.
+
+<sup>5</sup> Les poissons d’appâts vivants doivent être remis à l’eau au plus tard à l’heure de fermeture de la pêche.
 
 #### Art. 59
 
@@ -991,7 +1032,7 @@ Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser
 
 <sup>1</sup> Les titulaires de permis sont tenus de relever leurs engins de pêche dans les quarante-huit heures. Ce délai est de vingt-quatre heures s’il s’agit d’un engin autre qu’une nasse, tendu ou posé à moins de 20 mètres de profondeur dans la période du 1<sup>er</sup> mai au 30 septembre.
 
-<sup>2</sup> S’ils sont empêchés de respecter ces délais pour les raisons indiquées à l’article 29 du concordat, ils en informent le garde-pêche.
+<sup>2</sup> S’ils sont empêchés de respecter ces délais pour les raisons indiquées à l’article 29 du concordat, ils en informent les agents chargés de la surveillance de la pêche.
 
 #### Art. 60
 
@@ -1000,6 +1041,8 @@ Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser
 <sup>1</sup> Chaque insigne doit porter le nom et le prénom du propriétaire des engins, indépendamment du fait que les filets soient tendus ou non.
 
 <sup>2</sup> Le filet de fond tendu isolément doit être muni d’une boille de 10 litres au moins.
+
+## 921.51
 
 <sup>3</sup> La couble de 2 à 5 filets de fond ou tendue à moins de 20 mètres de profondeur doit être munie à chaque extrémité d’une boille de 10 litres au moins ou d’un drapeau émergeant de 60 centimètres au moins.
 
@@ -1017,9 +1060,9 @@ Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser
 
 **Contrôle et détention du poisson pêché**
 
-<sup>1</sup> La capture des poissons et des écrevisses doit être effectuée avec ménagement.
+<sup>1</sup> La capture et manipulation des poissons et des écrevisses doit être effectuée avec ménagement.
 
-<sup>2</sup> Les poissons destinés à la consommation doivent être mis à mort sans tarder. Toutefois, les pêcheurs professionnels peuvent stocker pour une courte durée des poissons vivants ; ces poissons ne doivent pas souffrir du fait du stockage.
+<sup>2</sup> Les poissons destinés à la consommation doivent être mis à mort sans tarder. Toutefois, les pêcheurs professionnels peuvent stocker pour une courte durée des poissons vivants; ces poissons ne doivent pas souffrir du fait du stockage.
 
 <sup>3</sup> Les poissons capturés par les pêcheurs professionnels, dont la mise à mort immédiate n’est pas possible en raison des conditions météorologiques défavorables ou de la masse de poissons capturés, peuvent être transportés sur de la glace et doivent être mis à mort dès que possible, mais au plus tard après le retour dans l’entreprise.
 
@@ -1029,7 +1072,11 @@ Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser
 
 **Feuille de statistique**
 
-<sup>1</sup> Les titulaires de permis de pêche professionnelle sont tenus de remplir et de renvoyer leur feuille de statistique au service qui l’a délivrée, dans les cinq jours suivant la fin de chaque mois et conformément aux directives fixées par la commission technique.
+<sup>1</sup> Les titulaires de permis de pêche professionnelle sont tenus de remplir et de renvoyer leur feuille de statistique au service qui l’a délivrée, dans les
+
+## 921.51
+
+cinq jours suivant la fin de chaque mois et conformément aux directives fixées par la commission technique.
 
 <sup>2</sup> Outre les poissons et les écrevisses capturés, ils sont tenus d’y faire figurer les oiseaux capturés accidentellement.
 
@@ -1037,11 +1084,11 @@ Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser
 
 **Gestion des déchets de poissons**
 
-<sup>1</sup> Les pêcheurs professionnels sont autorisés à immerger des déchets de poissons et d’écrevisses dans le lac de Neuchâtel, aux conditions suivantes :
+<sup>1</sup> Les pêcheurs professionnels sont autorisés à immerger des déchets de poissons et d’écrevisses dans le lac de Neuchâtel, aux conditions suivantes:
 
-- a) les déchets doivent être issus de poissons et d’écrevisses pêchés dans le lac de Neuchâtel ;
+- a) les déchets doivent être issus de poissons et d’écrevisses pêchés dans le lac de Neuchâtel;
 
-- b) les déchets doivent être immergés depuis une heure après le coucher du soleil jusqu’à une heure avant le lever de soleil ;
+- b) les déchets doivent être immergés depuis une heure après le coucher du soleil jusqu’à une heure avant le lever de soleil;
 
 - c) la profondeur doit être d’au moins 30 mètres au lieu d’immersion.
 
@@ -1063,7 +1110,9 @@ Les titulaires d’un permis de pêche professionnelle ont le droit d’utiliser
 
 **Installations d’élevage**
 
-Toute installation piscicole dans le lac (flottante ou immergée) servant à produire du poisson et/ou des écrevisses est interdite.
+<sup>1</sup> Toute installation piscicole dans le lac (flottante ou immergée) servant à produire du poisson et/ou des écrevisses est interdite.
+
+## 921.51
 
 ### CHAPITRE 4 Dispositions finales
 
@@ -1075,21 +1124,21 @@ Toute installation piscicole dans le lac (flottante ou immergée) servant à pro
 
 <sup>1</sup> En cas d’infraction grave, le permis de pêche est retiré par le service qui l’a délivré, une fois que la décision pénale est devenue exécutoire.
 
-<sup>2</sup> Le permis peut être retiré notamment :
+<sup>2</sup> Le permis peut être retiré notamment:
 
-- a) en cas d’utilisation d’engins de pêche ou de pêche avec des méthodes ou des moyens non autorisés selon les dispositions du concordat ou du présent règlement d’application ;
+- a) en cas d’utilisation d’engins de pêche ou de pêche avec des méthodes ou des moyens non autorisés selon les dispositions du concordat ou du présent règlement d’application;
 
-- b) en cas de pêche dans les zones de protection ou pendant les périodes de protection définies dans le présent règlement ;
+- b) en cas de pêche dans les zones de protection ou pendant les périodes de protection définies dans le présent règlement;
 
-- c) en cas d’infraction aux dispositions du présent règlement, concernant la dimension des filets et des nasses ou de leurs mailles, le nombre d’engins autorisés (hormis la bouteille à vairons, la nasse à écrevisses ainsi que la filoche), les périodes ou les heures pendant lesquelles la pêche est interdite ou limitée, les longueurs minimales des poissons, l’inscription des prises dans le carnet de contrôle ;
+- c) en cas d’infraction aux dispositions du présent règlement, concernant la dimension des filets et des nasses ou de leurs mailles, le nombre d’engins autorisés (hormis la bouteille à vairons, la nasse à écrevisses ainsi que la filoche), les périodes ou les heures pendant lesquelles la pêche est interdite ou limitée, les longueurs minimales des poissons, l’inscription des prises dans le carnet de contrôle;
 
-- d) en cas d’infraction aux dispositions des articles 31 al. 1 let. a, 34 al. 1 ou 53 al. 2 let. b, c, d ou e du concordat ;
+- d) en cas d’infraction aux dispositions des articles 31 al. 1 let. a, 34 al. 1 ou 53 al. 2 let. b, c, d ou e du concordat;
 
 - e) en cas de récidive à une infraction aux dispositions du présent règlement, concernant la profondeur à laquelle des engins de pêche peuvent être utilisés, ou aux dispositions concernant l’obligation de relever les engins de pêche.
 
 <sup>3</sup> Le retrait du permis implique celui du droit de pêche.
 
-<sup>4</sup> La période pour laquelle le permis et le droit de pêche professionnelle sont retirés débute une année après la date de l’infraction ; cette période est reportée d’une année si la décision pénale est devenue exécutoire plus d’une année après l’infraction.
+<sup>4</sup> La période pour laquelle le permis et le droit de pêche professionnelle sont retirés débute une année après la date de l’infraction; cette période est reportée d’une année si la décision pénale est devenue exécutoire plus d’une année après l’infraction.
 
 #### Art. 67
 
@@ -1097,11 +1146,13 @@ Toute installation piscicole dans le lac (flottante ou immergée) servant à pro
 
 <sup>1</sup> La durée de retrait du permis et de privation du droit de pêcher est en principe d’une année pour les titulaires d’un permis de pêche de loisir et de quinze jours consécutifs en cas de première infraction commise par le titulaire d’un permis de pêche professionnelle ou d’un permis spécial de pêche professionnelle.
 
+## 921.51
+
 <sup>2</sup> La durée du retrait du permis de pêche professionnelle et du permis spécial de pêche professionnelle est de trente jours consécutifs en cas de première récidive et de soixante jours consécutifs en cas de seconde récidive à une infraction prévue à l’article 66 al. 2 let. a à d.
 
 <sup>3</sup> Le contrevenant est considéré comme étant en état de récidive si l’infraction commise est du même type que la précédente.
 
-<sup>4</sup> Le contrevenant n’est pas considéré comme se trouvant en état de première récidive si plus de trois ans se sont écoulés depuis la date de la dernière infraction à l’une des règles déterminantes ; il n’est pas considéré comme se trouvant en état de seconde récidive si plus de cinq ans se sont écoulés depuis la date de la dernière infraction à l’une des règles déterminantes.
+<sup>4</sup> Le contrevenant n’est pas considéré comme se trouvant en état de première récidive si plus de trois ans se sont écoulés depuis la date de la dernière infraction à l’une des règles déterminantes; il n’est pas considéré comme se trouvant en état de seconde récidive si plus de cinq ans se sont écoulés depuis la date de la dernière infraction à l’une des règles déterminantes.
 
 <sup>5</sup> Les durées de retrait de permis et de privation du droit de pêcher peuvent être augmentées dans le cas d’infractions particulièrement graves ou exceptionnellement être réduites en cas d’infractions de peu de gravité.
 
@@ -1109,9 +1160,9 @@ Toute installation piscicole dans le lac (flottante ou immergée) servant à pro
 
 **Faits antérieurs au règlement**
 
-Sont pris en considération lors de l’application des articles 66 et 67 du présent règlement :
+<sup>1</sup> Sont pris en considération lors de l’application des articles 66 et 67 du présent règlement:
 
-- a) les privations administratives du droit de pêche prononcées avant son entrée en vigueur en raison d’infractions similaires ;
+- a) les privations administratives du droit de pêche prononcées avant son entrée en vigueur en raison d’infractions similaires;
 
 - b) les faits qui se sont produits avant cette date et qui sont constitutifs d’une infraction selon les prescriptions en vigueur après cette date.
 
@@ -1119,11 +1170,17 @@ Sont pris en considération lors de l’application des articles 66 et 67 du pr�
 
 #### Art. 69
 
-<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2022.
+<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2025.
 
-<sup>2</sup> Il abroge le règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2019, 2020 et 2021, du 14 juin 2018.
+<sup>2</sup> Il abroge le règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2022, 2023 et 2024, du 6 juillet 2021.
 
 <sup>3</sup> Il est publié dans les organes officiels des cantons concordataires.
+
+### Approbation fédérale
+
+— Le présent règlement doit faire l’objet d’une approbation par l’autorité fédérale compétente, en vertu de l’article 26 de la loi fédérale du 21 juin 1991 sur la pêche.
+
+## 921.51
 
 ## ANNEXE 1
 
@@ -1155,6 +1212,8 @@ Permis de pêche de loisir sans traîne 80.– 40.– (permis D)
 
 Permis additionnel 50.– (Exclus) (Exclus) (Exclus) « hôte »
 
+## 921.51
+
 ## ANNEXE 2
 
 ### Pêcheurs domiciliés hors des cantons concordataires
@@ -1185,11 +1244,13 @@ Permis de pêche de loisir sans traîne 160.– 80.– (permis D)
 
 Permis additionnel 100.– (Exclus) (Exclus) (Exclus) « hôte »
 
+## 921.51
+
 ## ANNEXE 3
 
-### Statut de menace des poissons dans le lac de Neuchâtel (art. 28)
+### Statut de menace des poissons dans le lac de Neuchâtel (art. 28 al.1 et 58 al. 4)
 
-**Statut de menace 1)**
+**Statut de menace 1**
 
 ### Nom vernaculaire/ Name deutsch/ Dénomination
 
@@ -1205,11 +1266,11 @@ Anguille Aal Anguilla anguilla
 
 **2**
 
-Cobite italiano Cobite italiano Cobitis bilineata
+Cobite italiano, Cobite italiano, Cobitis bilineata Loche transalpine Dorngrundel
 
 **DI, E**
 
-Loche de rivière Dorngrundel Cobitis taenia
+Loche de rivière Steinbeisser Cobitis taenia
 
 ### Coregonidae
 
@@ -1251,7 +1312,9 @@ Nase Nase Chondrostoma nasus
 
 Carpe Karpfen Cyprinus carpio
 
-**Statut de menace 1) NM**
+## 921.51
+
+**Statut de menace 1 NM**
 
 ### Nom vernaculaire/ Name deutsch/ Dénomination
 
@@ -1311,11 +1374,13 @@ Lotte Trüsche Lota lota
 
 Loche franche Schmerle, Barbatula barbatula Bartgrundel
 
+## 921.51
+
 **Statut de**
 
 ### Nom vernaculaire/ Name deutsch/ Dénomination
 
-**scientifique menace 1)**
+**scientifique menace 1**
 
 local lokal
 
@@ -1355,6 +1420,8 @@ Ombre de rivière Äsche thymallus
 
 Silure glâne Wels Silurus glanis
 
+## 921.51
+
 ## ANNEXE 4
 
 ### Espèces de poissons et d’écrevisses étrangères à la faune du lac de Neuchâtel
@@ -1371,6 +1438,10 @@ local lokal
 
 Perche soleil Sonnenbarsch
 
+**Micropterus salmoides**
+
+Black-bass à Forellenbarsch grande bouche
+
 ### Cyprinidae
 
 **Carassius auratus**
@@ -1385,6 +1456,8 @@ Carpe prussienne Giebel
 
 Carassin Karausche
 
+Carpe marbrée Marmorkarpfen Hypophtalmichtys nobilis
+
 ### Percidae
 
 **Sander lucioperca**
@@ -1397,7 +1470,7 @@ Sandre Zander
 
 Truite arc-en-ciel Regenbogenforelle
 
-### Astacidae
+### Decapoda
 
 **Faxonius limosus**
 
@@ -1407,7 +1480,28 @@ Ecrevisse Kamberkrebs américaine (amerikanischer Krebs)
 
 Ecrevisse signal Signalkrebs
 
+**Eriocheir sinensis**
+
+Crabe chinois Chinesische Wollhandkrabbe
+
+## 921.51
+
+Entrée en vigueur pour le canton de Fribourg: 1<sup>er</sup> janvier 2025
+
+### Tableau des modifications – Par date d'adoption
+
+### Adoption Elément touché Type de Entrée en Source (ROF depuis
+
+modification vigueur 2002) 21.06.2024 Acte acte de base 01.01.2025 2024\_077
+
+### Tableau des modifications – Par article
+
+### Elément touché Type de Adoption Entrée en Source (ROF depuis
+
+modification vigueur 2002)
+
+Acte acte de base 21.06.2024 01.01.2025 2024\_077
+
 ## Autres notes
 
-- [1] = menacée d’extinction, 2 = fortement menacée, 3 = menacée,
-- [4] = potentiellement menacée, NM = non menacée, DI = données insuffisantes ; E = protégée à l’échelle européenne selon la Convention de Berne.
+- [1] Statut de menace de l’espèce selon annexe 1 de l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche: 1 = menacée d’extinction, 2 = fortement menacée, 3 = menacée, 4 = potentiellement menacée, NM = non menacée, DI = données insuffisantes; E = protégée à l’échelle européenne selon la Convention de Berne.
