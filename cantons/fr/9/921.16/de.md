@@ -3,13 +3,12 @@ canton: FR
 number: "921.16"
 title: Verordnung über die Kantonsbeiträge für den Wald und den Schutz vor Naturereignissen
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-03-03
+version: 2025-01-01
+version_adopted: 2024-11-18
 adopted: 2004-03-30
 in_force: 2004-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/6533/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8081/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6533/pdf_file"
 
 Wald und Schutz vor Naturereignissen, Kantonsbeiträge – V
 
-vom 30.03.2004 (Fassung in Kraft getreten am 01.01.2020)
+vom 30.03.2004 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -226,7 +225,7 @@ beschliesst:
 
 <table>
 <tr><th>Massnahmen</th><th>Arten/Kriterien</th><th>Kantonaler Satz oder Pauschalbetrag</th></tr>
-<tr><td>Defizitäre Holzernte zur Waldverjüngung</td><td>Pauschalbetrag gemäss Bestandes- und Geländebesonderheiten sowie Bringungsmittel</td><td>5–80 Franken pro m³ Holz</td></tr>
+<tr><td>Defizitäre Holzernte zur Waldverjüngung</td><td>Pauschalbetrag gemäss Bestandes- und Geländebesonderheiten sowie Bringungsmittel</td><td>15-100 Franken pro m³ Holz, davon 10-20 Franken pro m³ für Kosten für die Bewirtschaftung durch die Eigentümerin oder den Eigentümer (je nach den verfügbaren finanziellen Mitteln)</td></tr>
 <tr><td>Jungwaldbegründung</td><td>Pauschalbetrag</td><td>4000 Franken pro bepflanzte Hektare</td></tr>
 </table>
 

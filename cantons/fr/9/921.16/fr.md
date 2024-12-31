@@ -3,13 +3,12 @@ canton: FR
 number: "921.16"
 title: Ordonnance concernant les subventions cantonales aux forêts et à la protection contre les catastrophes naturelles
 language: fr
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-03-03
+version: 2025-01-01
+version_adopted: 2024-11-18
 adopted: 2004-03-30
 in_force: 2004-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6533/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8081/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6533/pdf_file"
 
 Forêts et protection contre les catastrophes naturelles, subventions – O
 
-du 30.03.2004 (version entrée en vigueur le 01.01.2020)
+du 30.03.2004 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -226,7 +225,7 @@ Arrête:
 
 <table>
 <tr><th>Mesures</th><th>Formes/critères</th><th>Taux ou montant forfaitaire cantonal</th></tr>
-<tr><td>Coupe de bois déficitaire pour la régénération des forêts</td><td>Montant forfaitaire selon les caractéristiques du peuplement et du terrain et le moyen de débardage</td><td>5 à 80 francs par mètre cube de bois</td></tr>
+<tr><td>Coupe de bois déficitaire pour la régénération des forêts</td><td>Montant forfaitaire selon les caractéristiques du peuplement et du terrain et le moyen de débardage</td><td>15 à 100 francs par mètre cube de bois, dont 10 à 20 francs par mètre cube à titre de frais de gestion par le propriétaire (en fonction des moyens financiers à disposition)</td></tr>
 <tr><td>Création de jeune peuplement forestier</td><td>Montant forfaitaire</td><td>4000 francs par hectare planté</td></tr>
 </table>
 
