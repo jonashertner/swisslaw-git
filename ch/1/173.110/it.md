@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale federale (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/it"
 
 (LTF)
 
-del 17 giugno 2005 (Stato 1° luglio 2024)
+del 17 giugno 2005 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -508,17 +508,19 @@ Il giudice o cancelliere che si trovi in un caso di ricusazione deve comunicarlo
 
 <sup>1</sup> Gli atti scritti devono essere redatti in una lingua ufficiale, contenere le conclusioni, i motivi e l’indicazione dei mezzi di prova ed essere firmati.
 
-<sup>2</sup> Nei motivi occorre spiegare in modo conciso perché l’atto impugnato viola il diritto. Qualora il ricorso sia ammissibile soltanto se concerne una questione di diritto di importanza fondamentale o un caso particolarmente importante per altri motivi, occorre spiegare perché la causa adempie siffatta condizione.[^42-1] [^42-2]
+<sup>1bis</sup> Se un procedimento in materia civile si è svolto in inglese dinanzi all’autorità inferiore, gli atti scritti possono essere redatti in tale lingua.[^42-1]
+
+<sup>2</sup> Nei motivi occorre spiegare in modo conciso perché l’atto impugnato viola il diritto. Qualora il ricorso sia ammissibile soltanto se concerne una questione di diritto di importanza fondamentale o un caso particolarmente importante per altri motivi, occorre spiegare perché la causa adempie siffatta condizione.[^42-2] [^42-3]
 
 <sup>3</sup> Se sono in possesso della parte, i documenti indicati come mezzi di prova devono essere allegati; se l’atto scritto è diretto contro una decisione, anche questa deve essere allegata.
 
 <sup>4</sup>
 
-In caso di trasmissione per via elettronica, la parte o il suo patrocinatore deve munire l’atto scritto di una firma elettronica qualificata secondo la legge del 18 marzo 2016[^42-3] sulla firma elettronica. Il Tribunale federale determina mediante regolamento:
+In caso di trasmissione per via elettronica, la parte o il suo patrocinatore deve munire l’atto scritto di una firma elettronica qualificata secondo la legge del 18 marzo 2016[^42-4] sulla firma elettronica. Il Tribunale federale determina mediante regolamento:
 
 - a. il formato dell’atto scritto e dei relativi allegati;
 - b. le modalità di trasmissione;
-- c. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.[^42-4]
+- c. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.[^42-5]
 
 <sup>5</sup> Se mancano la firma della parte o del suo patrocinatore, la procura dello stesso o gli allegati prescritti, o se il patrocinatore non è autorizzato in quanto tale, è fissato un congruo termine per sanare il vizio, con la comminatoria che altrimenti l’atto scritto non sarà preso in considerazione.
 
@@ -526,10 +528,11 @@ In caso di trasmissione per via elettronica, la parte o il suo patrocinatore dev
 
 <sup>7</sup> Gli atti scritti dovuti a condotta processuale da querulomane o altrimenti abusiva sono inammissibili.
 
-[^42-1]: Nuovo testo del per. giusta la cifra I n. 1 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-2]: Nuovo testo giusta l’all. n. 1 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^42-4]: Nuovo testo giusta l’all. cifra II n. 2 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^42-1]: Introdotto dalla cifra II n. 1 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^42-2]: Nuovo testo del per. giusta la cifra I n. 1 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-3]: Nuovo testo giusta l’all. n. 1 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^42-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-5]: Nuovo testo giusta l’all. cifra II n. 2 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
 
@@ -701,11 +704,12 @@ Il presidente della corte può ordinare un dibattimento.
 
 **Deliberazione**
 
-<sup>1</sup> Il Tribunale federale delibera oralmente se:
+<sup>1</sup>
 
-a. il presidente della corte lo ordina o un giudice lo chiede;
+Il Tribunale federale delibera oralmente se:
 
-b. non vi è unanimità.
+- a. il presidente della corte lo ordina o un giudice lo chiede;
+- b. non vi è unanimità.
 
 <sup>2</sup> Negli altri casi, il Tribunale federale giudica mediante circolazione degli atti.
 
@@ -870,8 +874,8 @@ Le sentenze sono invece eseguite conformemente alle seguenti disposizioni:
 [^70-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^70-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
 [^70-3]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^70-4]: Nuovo testo giusta l’all. la cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^70-5]: Abrogato dall’all. la cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, con effetto dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^70-4]: Nuovo testo giusta l’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^70-5]: Abrogato dall’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, con effetto dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### Sezione 12: Disposizioni suppletive
 
@@ -1030,7 +1034,7 @@ Il ricorso è inammissibile contro le decisioni della Corte dei reclami penali d
 
 <sup>2</sup> I Cantoni istituiscono tribunali superiori quali autorità cantonali di ultima istanza. Tali tribunali giudicano su ricorso. Sono fatti salvi i casi in cui secondo il Codice di procedura penale (CPP)[^80-2] si pronuncia, quale istanza cantonale unica, un tribunale superiore o un giudice dei provvedimenti coercitivi.[^80-3]
 
-[^80-1]: Nuovo testo giusta il cifra II n. 1 della LF del 17 mar. 2017 (Istituzione di una corte d’appello in seno al Tribunale penale federale), in vigore dal 1° gen. 2019 ([RU 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6121](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5587](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^80-1]: Nuovo testo giusta la cifra II n. 1 della LF del 17 mar. 2017 (Istituzione di una corte d’appello in seno al Tribunale penale federale), in vigore dal 1° gen. 2019 ([RU 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6121](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5587](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 [^80-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^80-3]: Nuovo testo giusta la cifra II della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154), [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -1061,8 +1065,8 @@ Ha diritto di interporre ricorso in materia penale chi:
 
 [^81-1]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^81-2]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-3]: Nuovo testo giusta l’all. la cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^81-4]: Introdotto dal n. II 8 della L201F del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^81-3]: Nuovo testo giusta l’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^81-4]: Introdotto dalla cifra II n. 8 della L201F del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^81-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^81-6]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
@@ -1161,8 +1165,8 @@ Il ricorso è inammissibile contro:
 - z.[^83-27] le decisioni concernenti le autorizzazioni edilizie di impianti eolici d’interesse nazionale secondo l’articolo 71*c* capoverso 1 lettera b della legge federale del 30 settembre 2016[^83-28] sull’energia e le autorizzazioni di competenza cantonale a esse necessariamente connesse, se non si pone alcuna questione di diritto d’importanza fondamentale.
 
 [^83-1]: Nuovo testo giusta la cifra I n. 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^83-2]: Introdotta dalla cifra I n. 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^83-3]: Nuovo testo giusta la cifra I n.2 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^83-2]: Introdotta dalla cifraI n. 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^83-3]: Nuovo testo giusta la cifra I n. 2 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^83-4]: Nuovo testo giusta l’all. 7 cifra II n. 2 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^83-5]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 [^83-6]: Introdotta dalla cifra I n. 2 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
@@ -1321,7 +1325,7 @@ Il ricorso è ammissibile contro altre decisioni pregiudiziali e incidentali not
 
 <sup>3</sup> Se il ricorso in virtù dei capoversi 1 e 2 non è ammissibile o non è stato interposto, le decisioni pregiudiziali e incidentali possono essere impugnate mediante ricorso contro la decisione finale in quanto influiscano sul contenuto della stessa.
 
-[^93-1]: Nuovo testo giusta la cifra I n.2 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^93-1]: Nuovo testo giusta la cifra I n. 2 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 
 #### Art. 94
 
@@ -1560,11 +1564,13 @@ Le decisioni impugnabili mediante ricorso al Tribunale federale sono notificate 
 - c. il dispositivo;
 - d. l’indicazione dei rimedi giuridici, con menzione del valore litigioso nei casi in cui la presente legge prevede un valore litigioso minimo.
 
-<sup>2</sup> Se il diritto cantonale lo prevede, l’autorità può notificare la sua decisione senza motivarla. In tal caso le parti possono chiedere, entro 30 giorni, il testo integrale della decisione. La decisione non può essere eseguita finché tale termine non scade infruttuoso o il testo integrale della stessa non è notificato.
+<sup>2</sup> Se il diritto federale o il diritto cantonale lo prevede, di regola l’autorità notifica la sua decisione rapidamente senza motivarla.[^112-1] In tal caso le parti possono chiedere, entro 30 giorni, il testo integrale della decisione. La decisione non può essere eseguita finché tale termine non scade infruttuoso o il testo integrale della stessa non è notificato.
 
 <sup>3</sup> Se una decisione non soddisfa le esigenze di cui al capoverso 1, il Tribunale federale può rinviarla all’autorità cantonale affinché la completi o annullarla.
 
 <sup>4</sup> Nei campi in cui autorità federali hanno diritto di ricorrere al Tribunale federale, il Consiglio federale determina quali decisioni devono essere loro notificate dalle autorità cantonali.
+
+[^112-1]: Nuovo testo giusta la cifra II n. 1 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ## Capitolo 5: Ricorso sussidiario in materia costituzionale
 
@@ -1623,7 +1629,7 @@ Alla procedura di ricorso in materia costituzionale si applicano per analogia gl
 
 [^chap5a-1]
 
-[^chap5a-1]: Introdotto dall’all. la cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^chap5a-1]: Introdotto dall’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 119a
 
@@ -1653,7 +1659,7 @@ Il Tribunale federale giudica su azione come giurisdizione unica:
 
 <sup>3</sup> La procedura in sede di azione è retta dalla PC[^120-3].
 
-[^120-1]: Nuovo testo giusta l’all. la cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^120-1]: Nuovo testo giusta l’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^120-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 [^120-3]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
 
@@ -1695,14 +1701,15 @@ La revisione di una sentenza del Tribunale federale per violazione della Convenz
 
 La revisione può inoltre essere domandata:
 
-- a. in materia civile e di diritto pubblico, se l’instante, dopo la pronuncia della sentenza, viene a conoscenza di fatti rilevanti o ritrova mezzi di prova decisivi che non ha potuto addurre nel procedimento precedente, esclusi i fatti e i mezzi di prova posteriori alla sentenza;
-- b.[^123-1] in materia penale, se sono adempiute le condizioni di cui all’articolo 410 capoversi 1 lettere a e b e 2 CPP[^123-2];
-- c.[^123-3] in materia di pretese di risarcimento di un danno nucleare, per i motivi di cui all’articolo 5 capoverso 5 della legge federale del 13 giugno 2008[^123-4] sulla responsabilità civile in materia nucleare.
+- a.[^123-1] in materia civile e di diritto pubblico, se l’instante, dopo la pronuncia della sentenza, viene a conoscenza di fatti rilevanti o ritrova mezzi di prova decisivi che non ha potuto addurre nel procedimento precedente nonostante abbia usato la dovuta attenzione, esclusi i fatti e i mezzi di prova posteriori alla sentenza;
+- b.[^123-2] in materia penale, se sono adempiute le condizioni di cui all’articolo 410 capoversi 1 lettere a e b e 2 CPP[^123-3];
+- c.[^123-4] in materia di pretese di risarcimento di un danno nucleare, per i motivi di cui all’articolo 5 capoverso 5 della legge federale del 13 giugno 2008[^123-5] sulla responsabilità civile in materia nucleare.
 
-[^123-1]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^123-3]: Introdotta dall’all. cifra II n. 1 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicata il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-4]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-1]: Nuovo testo giusta la cifra II n. 1 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^123-2]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^123-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-4]: Introdotta dall’all. cifra II n. 1 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicata il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-5]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 
@@ -1797,7 +1804,7 @@ Se non ritiene inammissibile o infondata la domanda di revisione, il Tribunale f
 
 <sup>3</sup> L’Assemblea federale può adeguare mediante ordinanza le disposizioni di leggi federali che, nonostante siano in contraddizione con la presente legge, non sono state modificate formalmente dalla stessa.
 
-[^131-1]: [CS **3** 499; RU **1948** 899 art. 86; [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II n. 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II n. 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. cifra II n. 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7]
+[^131-1]: [CS **3** 499; RU **1948** 899 art. 86; [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II n. 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II n. 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III cpv. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I n. 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I n. 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I n. 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I n. 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. cifra II n.4 lett. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. cifra II n. 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7]
 
 #### Art. 132
 

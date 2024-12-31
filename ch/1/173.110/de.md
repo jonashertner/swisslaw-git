@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Juli 2024)
+vom 17. Juni 2005 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -508,17 +508,19 @@ Trifft bei einer Gerichtsperson ein Ausstandsgrund zu, so hat sie dies rechtzeit
 
 <sup>1</sup> Rechtsschriften sind in einer Amtssprache abzufassen und haben die Begehren, deren Begründung mit Angabe der Beweismittel und die Unterschrift zu enthalten.
 
-<sup>2</sup> In der Begründung ist in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt. Ist eine Beschwerde nur unter der Voraussetzung zulässig, dass sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt, so ist auszuführen, warum die jeweilige Voraussetzung erfüllt ist. [^42-1] [^42-2]
+<sup>1bis</sup> Wurde in einer Zivilsache das Verfahren vor der Vorinstanz in englischer Sprache geführt, so können Rechtsschriften in dieser Sprache abgefasst werden.[^42-1]
+
+<sup>2</sup> In der Begründung ist in gedrängter Form darzulegen, inwiefern der angefochtene Akt Recht verletzt. Ist eine Beschwerde nur unter der Voraussetzung zulässig, dass sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt, so ist auszuführen, warum die jeweilige Voraussetzung erfüllt ist. [^42-2] [^42-3]
 
 <sup>3</sup> Die Urkunden, auf die sich die Partei als Beweismittel beruft, sind beizulegen, soweit die Partei sie in Händen hat; richtet sich die Rechtsschrift gegen einen Entscheid, so ist auch dieser beizulegen.
 
 <sup>4</sup>
 
-Bei elektronischer Einreichung muss die Rechtsschrift von der Partei oder ihrem Vertreter beziehungsweise ihrer Vertreterin mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016[^42-3] über die elektronische Signatur versehen werden. Das Bundesgericht bestimmt in einem Reglement:
+Bei elektronischer Einreichung muss die Rechtsschrift von der Partei oder ihrem Vertreter beziehungsweise ihrer Vertreterin mit einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016[^42-4] über die elektronische Signatur versehen werden. Das Bundesgericht bestimmt in einem Reglement:
 
 - a. das Format der Rechtsschrift und ihrer Beilagen;
 - b. die Art und Weise der Übermittlung;
-- c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.[^42-4]
+- c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.[^42-5]
 
 <sup>5</sup> Fehlen die Unterschrift der Partei oder ihrer Vertretung, deren Vollmacht oder die vorgeschriebenen Beilagen oder ist die Vertretung nicht zugelassen, so wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass die Rechtsschrift sonst unbeachtet bleibt.
 
@@ -526,10 +528,11 @@ Bei elektronischer Einreichung muss die Rechtsschrift von der Partei oder ihrem 
 
 <sup>7</sup> Rechtsschriften, die auf querulatorischer oder rechtsmissbräuchlicher Prozessführung beruhen, sind unzulässig.
 
-[^42-1]: Fassung des zweiten Satzes gemäss Ziff. I 1 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-2]: Fassung gemäss Anhang Ziff. 1 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-3]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^42-4]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^42-1]: Eingefügt durch Ziff. II 1 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^42-2]: Fassung des zweiten Satzes gemäss Ziff. I 1 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-3]: Fassung gemäss Anhang Ziff. 1 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^42-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-5]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
 
@@ -1561,11 +1564,13 @@ Entscheide, die der Beschwerde an das Bundesgericht unterliegen, sind den Partei
 - c. das Dispositiv;
 - d. eine Rechtsmittelbelehrung einschliesslich Angabe des Streitwerts, soweit dieses Gesetz eine Streitwertgrenze vorsieht.
 
-<sup>2</sup> Wenn es das kantonale Recht vorsieht, kann die Behörde ihren Entscheid ohne Begründung eröffnen. Die Parteien können in diesem Fall innert 30 Tagen eine vollständige Ausfertigung verlangen. Der Entscheid ist nicht vollstreckbar, solange nicht entweder diese Frist unbenützt abgelaufen oder die vollständige Ausfertigung eröffnet worden ist.
+<sup>2</sup> Sofern es das Bundesrecht oder das kantonale Recht vorsieht, eröffnet die Behörde ihren Entscheid in der Regel zeitnah und ohne Begründung.[^112-1] Die Parteien können in diesem Fall innert 30 Tagen eine vollständige Ausfertigung verlangen. Der Entscheid ist nicht vollstreckbar, solange nicht entweder diese Frist unbenützt abgelaufen oder die vollständige Ausfertigung eröffnet worden ist.
 
 <sup>3</sup> Das Bundesgericht kann einen Entscheid, der den Anforderungen von Absatz 1 nicht genügt, an die kantonale Behörde zur Verbesserung zurückweisen oder aufheben.
 
 <sup>4</sup> Für die Gebiete, in denen Bundesbehörden zur Beschwerde berechtigt sind, bestimmt der Bundesrat, welche Entscheide ihnen die kantonalen Behörden zu eröffnen haben.
+
+[^112-1]: Fassung gemäss Ziff. II 1 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ## 5. Kapitel: Subsidiäre Verfassungsbeschwerde
 
@@ -1696,14 +1701,15 @@ Die Revision wegen Verletzung der Konvention zum Schutz der Menschenrechte und G
 
 Die Revision kann zudem verlangt werden:
 
-- a. in Zivilsachen und öffentlich-rechtlichen Angelegenheiten, wenn die ersuchende Partei nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die sie im früheren Verfahren nicht beibringen konnte, unter Ausschluss der Tatsachen und Beweismittel, die erst nach dem Entscheid entstanden sind;
-- b.[^123-1] in Strafsachen, wenn die Voraussetzungen von Artikel 410 Absätze 1 Buchstaben a und b sowie 2 StPO[^123-2] erfüllt sind;
-- c.[^123-3] in Sachen, die Ansprüche auf Ersatz von nuklearem Schaden betreffen, aus den in Artikel 5 Absatz 5 Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^123-4] genannten Gründen.
+- a.[^123-1] in Zivilsachen und öffentlich-rechtlichen Angelegenheiten, wenn die ersuchende Partei nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die sie im früheren Verfahren trotz gehöriger Aufmerksamkeit nicht beibringen konnte, unter Ausschluss der Tatsachen und Beweismittel, die erst nach dem Entscheid entstanden sind;
+- b.[^123-2] in Strafsachen, wenn die Voraussetzungen von Artikel 410 Absätze 1 Buchstaben a und b sowie 2 StPO[^123-3] erfüllt sind;
+- c.[^123-4] in Sachen, die Ansprüche auf Ersatz von nuklearem Schaden betreffen, aus den in Artikel 5 Absatz 5 Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^123-5] genannten Gründen.
 
-[^123-1]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^123-3]: Eingefügt durch Anhang Ziff. II 1 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-4]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-1]: Fassung gemäss Ziff. II 1 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^123-2]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^123-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-4]: Eingefügt durch Anhang Ziff. II 1 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-5]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 

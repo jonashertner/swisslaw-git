@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il Tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da fanadur 2024)
+dals 17 da zercladur 2005 (versiun dal 1. da schaner 2025)
 
 [^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
 
@@ -512,17 +512,19 @@ Sch’igl è avant maun in motiv da recusaziun tar ina persuna giudiziala, sto e
 
 <sup>1</sup> Las scrittiras giuridicas ston vegnir inoltradas en ina lingua uffiziala, ston cuntegnair las pretensiuns, lur motivaziun ed ils meds da cumprova e ston esser suttascrittas.
 
-<sup>2</sup> En la motivaziun stoi vegnir declerà en moda concisa, pertge che l’act contestà violescha il dretg. Sch’in recurs è mo admissibel sut la premissa ch’i sa tractia d’ina dumonda giuridica d’impurtanza fundamentala u ch’i saja avant maun per auters motivs in cas spezialmain impurtant, stoi vegnir explitgà, pertge che la premissa respectiva è ademplida.[^42-1] [^42-2]
+<sup>1bis</sup> Sch’ina procedura en chaussas civilas è vegnida manada en englais davant l’instanza precedenta, pon scrittiras giuridicas vegnir redigidas en englais.[^42-1]
+
+<sup>2</sup> En la motivaziun stoi vegnir declerà en moda concisa, pertge che l’act contestà violescha il dretg. Sch’in recurs è mo admissibel sut la premissa ch’i sa tractia d’ina dumonda giuridica d’impurtanza fundamentala u ch’i saja avant maun per auters motivs in cas spezialmain impurtant, stoi vegnir explitgà, pertge che la premissa respectiva è ademplida.[^42-2] [^42-3]
 
 <sup>3</sup> Ils documents, als quals la partida sa referescha sco meds da cumprova, ston vegnir agiuntads, uschenavant che la partida posseda quels; sche la scrittira giuridica sa drizza cunter ina decisiun, sto er quella vegnir agiuntada.
 
 <sup>4</sup>
 
-En cas d’ina inoltraziun electronica sto la scrittira giuridica vegnir munida da la partida u da ses represchentant cun ina signatura electronica qualifitgada tenor la Lescha federala dals 18 da mars 2016[^42-3] davart la signatura electronica. En in reglament fixescha il Tribunal federal:
+En cas d’ina inoltraziun electronica sto la scrittira giuridica vegnir munida da la partida u da ses represchentant cun ina signatura electronica qualifitgada tenor la Lescha federala dals 18 da mars 2016[^42-4] davart la signatura electronica. En in reglament fixescha il Tribunal federal:
 
 - a. il format da la scrittira giuridica e da sias agiuntas;
 - b. la moda e maniera da la transmissiun;
-- c. las premissas, sut las qualas i po vegnir pretendì ch’ils documents vegnian anc tramess sin palpiri en cas da problems tecnics.[^42-4]
+- c. las premissas, sut las qualas i po vegnir pretendì ch’ils documents vegnian anc tramess sin palpiri en cas da problems tecnics.[^42-5]
 
 <sup>5</sup> Sch’i mancan la suttascripziun da la partida u da sia represchentanza, ses plainpudair u las agiuntas prescrittas u sche la represchentanza n’è betg admessa, vegn fixà in termin adequat per rectifitgar la mancanza, e quai cun smanatschar che la scrittira giuridica na vegnia uschiglio betg resguardada.
 
@@ -530,10 +532,11 @@ En cas d’ina inoltraziun electronica sto la scrittira giuridica vegnir munida 
 
 <sup>7</sup> Scrittiras giuridicas che sa basan sin proceduras da caracter querulatoric u giuridicamain abusiv n’èn betg admessas.
 
-[^42-1]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 20 da zer. 2014 davart la dispensaziun da la taglia, en vigur dapi il 1. da schan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 28 da sett. 2012 davart l’assistenza administrativa fiscala, en vigur dapi il 1. da fav. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-3]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^42-4]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^42-1]: Integrà tras la cifra II 1 da la LF dals 17 da mars 2023 (meglieraziun da la praticabilitad e da l’applicaziun dal dretg), en vigur dapi il 1. da schan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^42-2]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 20 da zer. 2014 davart la dispensaziun da la taglia, en vigur dapi il 1. da schan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 28 da sett. 2012 davart l’assistenza administrativa fiscala, en vigur dapi il 1. da fav. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^42-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-5]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
 
@@ -1565,11 +1568,13 @@ Las decisiuns ch’èn suttamessas al recurs tar il Tribunal federal ston vegnir
 - c. il dispositiv;
 - d. ina indicaziun dals meds legals e l’indicaziun da la valur en dispita, sche questa lescha prevesa ina valur minimala da la chaussa en dispita.
 
-<sup>2</sup> Sch’il dretg chantunal prevesa quai, po l’autoritad communitgar sia decisiun senza motivaziun. En quest cas pon las partidas pretender entaifer 30 dis che la decisiun cumpletta vegnia communitgada. La decisiun n’è betg exequibla, avant che quest termin è scadì senza che la decisiun cumpletta saja vegnida pretendida, ubain avant che la decisiun cumpletta è vegnida communitgada.
+<sup>2</sup> Sch’il dretg federal u chantunal prevesa quai, communitgescha l’autoritad sia decisiun per regla svelt e senza motivaziun.[^112-1] En quest cas pon las partidas pretender entaifer 30 dis che la decisiun cumpletta vegnia communitgada. La decisiun n’è betg exequibla, avant che quest termin è scadì senza che la decisiun cumpletta saja vegnida pretendida, ubain avant che la decisiun cumpletta è vegnida communitgada.
 
 <sup>3</sup> Sch’ina decisiun na satisfa betg a las pretensiuns da l’alinea 1, po il Tribunal federal la returnar a la l’autoritad chantunala per la laschar curreger ubain l’annullar.
 
 <sup>4</sup> Per ils secturs, en ils quals las autoritads federalas han il dretg da far recurs, fixescha il Cussegl federal, tge decisiuns che las autoritads chantunalas las ston communitgar.
+
+[^112-1]: Versiun tenor la cifra II 1 da la LF dals 17 da mars 2023 (meglieraziun da la praticabilitad e da l’applicaziun dal dretg), en vigur dapi il 1. da schan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ## 5. chapitel Recurs constituziunal subsidiar
 
@@ -1700,14 +1705,15 @@ La revisiun pervia d’ina violaziun da la Convenziun dals 4 da november 1950[^1
 
 Plinavant po la revisiun vegnir dumandada:
 
-- a. en chaussas civilas ed en chaussas da dretg public, sche la partida petenta scuvra posteriuramain fatgs relevants u chatta meds da cumprova decisivs ch’ella n’ha betg pudì preschentar en la procedura precedenta; exclus èn fatgs e meds da cumprova ch’èn resultads pir suenter la decisiun;
-- b.[^123-1] en chaussas penalas, sche las premissas da l’artitgel 410 alinea 1 literas a e b ed alinea 2 CPP[^123-2] èn ademplidas;
-- c.[^123-3] en chaussas che pertutgan pretensiuns da reparaziun d’in donn nuclear, per ils motivs numnads en l’artitgel 5 alinea 5 da la Lescha federala dals 13 da zercladur 2008[^123-4] davart la responsabladad civila per l’energia nucleara.
+- a.[^123-1] en chaussas civilas ed en chaussas da dretg public, sche la partida petenta scuvra posteriuramain fatgs relevants u chatta meds da cumprova decisivs ch’ella n’ha, malgrà l’attenziun necessaria, betg pudì preschentar en la procedura precedenta; exclus èn fatgs e meds da cumprova ch’èn resultads pir suenter la decisiun;
+- b.[^123-2] en chaussas penalas, sche las premissas da l’artitgel 410 alinea 1 literas a e b ed alinea 2 CPP[^123-3] èn ademplidas;
+- c.[^123-4] en chaussas che pertutgan pretensiuns da reparaziun d’in donn nuclear, per ils motivs numnads en l’artitgel 5 alinea 5 da la Lescha federala dals 13 da zercladur 2008[^123-5] davart la responsabladad civila per l’energia nucleara.
 
-[^123-1]: Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^123-3]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 13 da zer. 2008 davart la responsabladad civila per l’energia nucleara, en vigur dapi il 1. da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-4]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-1]: Versiun tenor la cifra II 1 da la LF dals 17 da mars 2023 (meglieraziun da la praticabilitad e da l’applicaziun dal dretg), en vigur dapi il 1. da schan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^123-2]: Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^123-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-4]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 13 da zer. 2008 davart la responsabladad civila per l’energia nucleara, en vigur dapi il 1. da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-5]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 

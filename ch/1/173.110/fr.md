@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal fédéral (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/fr"
 
 (LTF)[^t-1]
 
-du 17 juin 2005 (État le 1<sup>er</sup> juillet 2024)
+du 17 juin 2005 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -509,17 +509,19 @@ Le juge ou le greffier qui se trouve dans un cas de récusation est tenu d’en 
 
 <sup>1</sup> Les mémoires doivent être rédigés dans une langue officielle, indiquer les conclusions, les motifs et les moyens de preuve, et être signés.
 
-<sup>2</sup> Les motifs doivent exposer succinctement en quoi l’acte attaqué viole le droit. Si le recours n’est recevable que lorsqu’il soulève une question juridique de principe ou qu’il porte sur un cas particulièrement important pour d’autres motifs, il faut exposer en quoi l’affaire remplit la condition exigée.[^42-1] [^42-2]
+<sup>1bis</sup> Lorsqu’une procédure en matière civile a été menée en anglais devant l’autorité précédente, les mémoires peuvent être rédigés en anglais.[^42-1]
+
+<sup>2</sup> Les motifs doivent exposer succinctement en quoi l’acte attaqué viole le droit. Si le recours n’est recevable que lorsqu’il soulève une question juridique de principe ou qu’il porte sur un cas particulièrement important pour d’autres motifs, il faut exposer en quoi l’affaire remplit la condition exigée.[^42-2] [^42-3]
 
 <sup>3</sup> Les pièces invoquées comme moyens de preuve doivent être jointes au mémoire, pour autant qu’elles soient en mains de la partie; il en va de même de la décision attaquée si le mémoire est dirigé contre une décision.
 
 <sup>4</sup>
 
-En cas de transmission électronique, le mémoire doit être muni de la signature électronique qualifiée de la partie ou de son mandataire au sens de la loi du 18 mars 2016 sur la signature électronique[^42-3]. Le Tribunal fédéral détermine dans un règlement:
+En cas de transmission électronique, le mémoire doit être muni de la signature électronique qualifiée de la partie ou de son mandataire au sens de la loi du 18 mars 2016 sur la signature électronique[^42-4]. Le Tribunal fédéral détermine dans un règlement:
 
 - a. le format du mémoire et des pièces jointes;
 - b. les modalités de la transmission;
-- c. les conditions auxquelles il peut exiger, en cas de problème technique, que des documents lui soient adressés ultérieurement sur papier.[^42-4]
+- c. les conditions auxquelles il peut exiger, en cas de problème technique, que des documents lui soient adressés ultérieurement sur papier.[^42-5]
 
 <sup>5</sup> Si la signature de la partie ou de son mandataire, la procuration ou les annexes prescrites font défaut, ou si le mandataire n’est pas autorisé, le Tribunal fédéral impartit un délai approprié à la partie pour remédier à l’irrégularité et l’avertit qu’à défaut le mémoire ne sera pas pris en considération.
 
@@ -527,10 +529,11 @@ En cas de transmission électronique, le mémoire doit être muni de la signatur
 
 <sup>7</sup> Le mémoire de recours introduit de manière procédurière ou à tout autre égard abusif est irrecevable.
 
-[^42-1]: Nouvelle teneur de la phrase selon le ch. I 1 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^42-4]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^42-1]: Introduit par le ch. II 1 de la LF du 17 mars 2023 (Amélioration de la praticabilité et de l’application du droit), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2607](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^42-2]: Nouvelle teneur de la phrase selon le ch. I 1 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^42-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-5]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
 
@@ -1565,11 +1568,13 @@ Les décisions qui peuvent faire l’objet d’un recours devant le Tribunal fé
 - c. le dispositif;
 - d. l’indication des voies de droit, y compris la mention de la valeur litigieuse dans les cas où la présente loi requiert une valeur litigieuse minimale.
 
-<sup>2</sup> Si le droit cantonal le prévoit, l’autorité peut notifier sa décision sans la motiver. Les parties peuvent alors en demander, dans les 30 jours, une expédition complète. La décision ne peut pas être exécutée avant que ce délai soit échu sans avoir été utilisé ou que l’expédition complète soit notifiée.
+<sup>2</sup> Si le droit fédéral ou le droit cantonal le prévoit, l’autorité notifie généralement sa décision rapidement sans la motiver.[^112-1] Les parties peuvent alors en demander, dans les 30 jours, une expédition complète. La décision ne peut pas être exécutée avant que ce délai soit échu sans avoir été utilisé ou que l’expédition complète soit notifiée.
 
 <sup>3</sup> Si une décision attaquée ne satisfait pas aux exigences fixées à l’al. 1, le Tribunal fédéral peut soit la renvoyer à l’autorité cantonale en invitant celle-ci à la parfaire, soit l’annuler.
 
 <sup>4</sup> Dans les domaines où les autorités fédérales ont qualité pour recourir devant le Tribunal fédéral, le Conseil fédéral détermine quelles décisions les autorités cantonales doivent leur notifier.
+
+[^112-1]: Nouvelle teneur selon le ch. II 1 de la LF du 17 mars 2023 (Amélioration de la praticabilité et de l’application du droit), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2607](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ## Chapitre 5 Recours constitutionnel subsidiaire
 
@@ -1700,14 +1705,15 @@ La révision d’un arrêt du Tribunal fédéral pour violation de la Convention
 
 La révision peut en outre être demandée:
 
-- a. dans les affaires civiles et les affaires de droit public, si le requérant découvre après coup des faits pertinents ou des moyens de preuve concluants qu’il n’avait pas pu invoquer dans la procédure précédente, à l’exclusion des faits ou moyens de preuve postérieurs à l’arrêt;
-- b.[^123-1] dans les affaires pénales, si les conditions fixées à l’art. 410, al. 1, let. a et b, et 2 CPP[^123-2] sont remplies;
-- c.[^123-3] en matière de réparation d’un dommage nucléaire, pour les motifs prévus à l’art. 5, al. 5, de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^123-4].
+- a.[^123-1] dans les affaires civiles et les affaires de droit public, si le requérant découvre après coup des faits pertinents ou des moyens de preuve concluants qu’il n’avait pas pu invoquer dans la procédure précédente bien qu’il ait fait preuve de la diligence requise, à l’exclusion des faits ou moyens de preuve postérieurs à l’arrêt;
+- b.[^123-2] dans les affaires pénales, si les conditions fixées à l’art. 410, al. 1, let. a et b, et 2 CPP[^123-3] sont remplies;
+- c.[^123-4] en matière de réparation d’un dommage nucléaire, pour les motifs prévus à l’art. 5, al. 5, de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^123-5].
 
-[^123-1]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^123-3]: Introduite par l’annexe ch. II 1 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-4]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-1]: Nouvelle teneur selon le ch. II 1 de la LF du 17 mars 2023 (Amélioration de la praticabilité et de l’application du droit), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2607](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^123-2]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^123-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-4]: Introduite par l’annexe ch. II 1 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^123-5]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 #### Art. 124
 
