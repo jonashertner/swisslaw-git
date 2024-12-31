@@ -4,13 +4,12 @@ number: "842.11"
 title: Verordnung über die Wohnbauförderung
 short: "Wohnbauförderungsverordnung, WBFV"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-19
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 2023-12-19
 in_force: 2024-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/842.11"
-pdf: "https://bl.clex.ch/api/de/versions/3850/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4061/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3850/pdf_file"
 
 (Wohnbauförderungsverordnung, WBFV)
 
-Vom 19.12.2023 (Stand 01.01.2024)
+Vom 19.12.2023 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -88,11 +87,11 @@ beschliesst:
 
 **Fördergegenstände**
 
-<sup>1</sup> Die Energieprämie wird für Fördergegenstände gemäss Energieförderverordnung (EnFV BL) vom 15. Dezember 2009[^7-1] ausgerichtet.
+<sup>1</sup> Die Energieprämie wird für Fördergegenstände gemäss § 1 Abs. 1 Bst. a., b. und c Energieförderverordnung (EnFV BL) vom 15. Dezember 2009[^7-1] ausgerichtet.
 
 <sup>2</sup> Die Bedingungen und Auflagen für Fördergegenstände gemäss EnFV BL sind einzuhalten.
 
-[^7-1]: [SGS 490.10](https://bl.clex.ch/data/490.10/de)
+[^7-1]: [SGS 490.10](https://bl.clex.ch/data/490.10/de/art1)
 
 #### § 8
 
