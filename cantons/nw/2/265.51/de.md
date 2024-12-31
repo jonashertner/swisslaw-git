@@ -4,13 +4,12 @@ number: "265.51"
 title: Verordnung zum Gesetz über die amtlichen Kosten
 short: "Gebührenverordnung, GebV"
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-20
+version: 2025-01-01
+version_adopted: 2024-10-29
 adopted: 2024-02-20
 in_force: 2024-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/265.51"
-pdf: "https://gesetze.nw.ch/api/de/versions/1258/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1258/pdf_file"
 
 (Gebührenverordnung, GebV)
 
-vom 20.02.2024 (Stand 01.03.2024)
+vom 20.02.2024 (Stand 01.01.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -255,6 +254,21 @@ beschliesst:
 <tr><td></td><td>bei Personen aus dem Asylbereich</td><td>gebührenfrei</td></tr>
 <tr><td>1.3.8.7</td><td>Verlängerung einer bestehenden Bewilligung</td><td>100.–</td></tr>
 <tr><td>1.3.8.8</td><td>Arbeitsbewilligung für Schutzbedürftige (S)</td><td>100.–</td></tr>
+</table>
+
+<sup>3</sup>
+
+<table>
+<tr><th>Tarif-Nr.</th><th>Bezeichnung</th><th>Betrag</th></tr>
+<tr><td>1.4</td><td>Publikationsgesetzgebung (NG 141.1)</td><td></td></tr>
+<tr><td>1.4.1</td><td>Amtsblatt</td><td></td></tr>
+<tr><td>1.4.1.1</td><td>Jahresabonnement</td><td>66.-</td></tr>
+<tr><td>1.4.1.2</td><td>Publikation allgemein</td><td>30.-</td></tr>
+<tr><td>1.4.1.3</td><td>Publikation in den Rubriken Schuldbetreibungen, Konkurse, Nachlassverfahren</td><td>15.-</td></tr>
+<tr><td>1.4.1.4</td><td>Publikation von Handesregistereintragungen</td><td>gebührenfrei</td></tr>
+<tr><td>1.4.2</td><td>Einzelausgaben kantonaler Erlasse</td><td></td></tr>
+<tr><td>1.4.2.1</td><td>je Seite</td><td>0.20 (insgesamt mindestens 2.-)</td></tr>
+<tr><td>1.4.2.2</td><td>je Zustellung</td><td>5.-</td></tr>
 </table>
 
 #### § A1-2
