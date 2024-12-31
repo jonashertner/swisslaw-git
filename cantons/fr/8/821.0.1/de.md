@@ -4,13 +4,13 @@ number: "821.0.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-02-07
 adopted: 1999-11-16
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7915/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8041/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesundheitsgesetz
 
 (GesG)
 
-vom 16.11.1999 (Fassung in Kraft getreten am 01.01.2024)
+vom 16.11.1999 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -211,6 +211,18 @@ beschliesst:
 <sup>2</sup> Ihre Aufgabe besteht darin, die Erarbeitung des kantonalen Plans für Gesundheitsförderung und Prävention und des daraus abgeleiteten Aktionsplans zu steuern. Sie äussert sich zudem zu den Projekten für Gesundheitsförderung und Prävention und zur Umsetzung des kantonalen Plans für Gesundheitsförderung und Prävention.
 
 <sup>3</sup> Ihre Kompetenzen, ihre Zusammensetzung und Organisation werden im Einzelnen vom Staatsrat festgesetzt.
+
+#### Art. 16a
+
+**Kantonale Kommission für sanitätsdienstliche Notmassnahmen**
+
+<sup>1</sup> Als beratendes Organ des Staatsrats und der Direktion wird eine Kantonale Kommission für sanitätsdienstliche Notmassnahmen (KKSNM) eingesetzt.
+
+<sup>2</sup> Ihre Aufgabe besteht darin, Vorschläge und Empfehlungen im Bereich der sanitätsdienstlichen Notfälle abzugeben.
+
+<sup>3</sup> Sie besteht aus ständigen und nichtständigen Mitgliedern, welche die betroffenen Kreise vertreten.
+
+<sup>4</sup> Ihre Kompetenzen, Zusammensetzung und Organisation werden im Einzelnen vom Staatsrat festgesetzt.
 
 #### Art. 17
 
@@ -1155,9 +1167,11 @@ beschliesst:
 
 <sup>1</sup> Die Verpflichtungen des Staates und der Gemeinden in der Organisation und im Betrieb der Institutionen, die zur Deckung des Pflegebedarfs der Bevölkerung nötig sind, werden in besonderen Bestimmungen festgelegt.
 
-<sup>2</sup> Der Staat stellt die Organisation und den Betrieb einer Sanitätsnotrufzentrale sicher. Der Staatsrat legt den Auftrag, die Organisation und die Finanzierung der Zentrale fest; er kann mit einem Leistungsauftrag Dritte mit dem Betrieb der Zentrale betrauen.
+<sup>2</sup> Der Staat stellt die Organisation und den Betrieb einer Telefonzentrale für lebensbedrohliche Notfälle und einer Telefonzentrale für nicht lebensbedrohliche Notfälle sicher. Der Staatsrat legt den Auftrag, die Organisation und die Finanzierung dieser Zentralen fest; er kann mit einem Leistungsauftrag Dritte mit ihrem Betrieb beauftragen.
 
 <sup>3</sup> Die Gemeinden stellen die Organisation und den Betrieb der Ambulanzdienste sicher, indem sie bei Bedarf private Organisationen beiziehen. Zu diesem Zweck können sie sich in einem Verband gemäss dem Gesetz über die Gemeinden organisieren.
+
+<sup>4</sup> Der Staat garantiert die regionale Gleichbehandlung im Bereich der Kosten für die Rettungseinsätze der Ambulanzdienste, unabhängig vom Ort und der Dauer des Einsatzes. Darüber hinaus kann er sämtliche Massnahmen unterstützen, die geeignet sind, die Notfallversorgung insbesondere in den Randregionen zu stärken.
 
 #### Art. 108
 

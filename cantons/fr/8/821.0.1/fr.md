@@ -4,13 +4,13 @@ number: "821.0.1"
 title: Loi sur la santé
 short: LSan
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-02-07
 adopted: 1999-11-16
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7915/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8041/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Santé – L
 
 (LSan)
 
-du 16.11.1999 (version entrée en vigueur le 01.01.2024)
+du 16.11.1999 (version entrée en vigueur le 01.01.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -211,6 +211,18 @@ Décrète:
 <sup>2</sup> Elle a pour tâche de piloter l'élaboration du plan cantonal de promotion de la santé et de prévention et du plan d'action qui en découle. Elle se prononce également sur les projets de promotion de la santé et de prévention et sur la mise en œuvre du plan cantonal de promotion de la santé et de prévention.
 
 <sup>3</sup> Le détail de ses compétences, sa composition et son organisation sont fixés par le Conseil d'Etat.
+
+#### Art. 16a
+
+**Commission cantonale pour les mesures sanitaires d'urgence**
+
+<sup>1</sup> Une commission cantonale pour les mesures sanitaires d'urgence (CCMSU) est instituée en tant qu'organe consultatif du Conseil d'Etat et de la Direction.
+
+<sup>2</sup> Elle a pour tâche d'émettre des propositions et recommandations dans le domaine des urgences sanitaires.
+
+<sup>3</sup> Elle est composée de membres permanents et non permanents représentant les milieux concernés.
+
+<sup>4</sup> Le détail de ses compétences, sa composition et son organisation sont fixés par le Conseil d'Etat.
 
 #### Art. 17
 
@@ -1155,9 +1167,11 @@ Décrète:
 
 <sup>1</sup> Les obligations de l'Etat et des communes concernant l'organisation et l'exploitation des institutions de santé nécessaires à la couverture en soins de la population sont fixées dans des dispositions spécifiques.
 
-<sup>2</sup> L'Etat assure l'organisation et l'exploitation d'une centrale d'appels d'urgence sanitaire. Le Conseil d'Etat fixe la mission, l'organisation et le financement de la centrale; il peut également confier à un tiers son exploitation, sur la base d'un mandat de prestations.
+<sup>2</sup> L'Etat assure l'organisation et l'exploitation d'une centrale d'appels en cas d'urgences sanitaires vitales, ainsi que d'une centrale d'appels en cas d'urgences non vitales. Le Conseil d'Etat fixe la mission, l'organisation et le financement de ces centrales; il peut également confier à des tiers leur exploitation, sur la base de mandats de prestations.
 
 <sup>3</sup> Les communes assurent l'organisation et l'exploitation des services d'ambulance, au besoin en faisant appel à des organismes privés. A cette fin, elles peuvent se constituer en association conformément à la loi sur les communes.
+
+<sup>4</sup> L'Etat assure l'équité entre les régions en matière de coûts pour les interventions de sauvetage effectuées par les services d'ambulances, indépendamment du lieu et du temps d'intervention. En outre, il peut soutenir toute mesure susceptible de renforcer la prise en charge des cas d'urgences notamment dans les régions périphériques.
 
 #### Art. 108
 
