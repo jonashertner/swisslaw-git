@@ -3,11 +3,11 @@ sr: "0.814.05"
 title: Convention de Bâle du 22 mars 1989 sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125"
 language: fr
-version: 2022-10-06
+version: 2025-01-01
 adopted: 1989-03-22
 in_force: 1992-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20221006/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20221006-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20221006/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 31 janvier 1990
 
 Entrée en vigueur pour la Suisse le 5 mai 1992
 
-(État le 6 octobre 2022)
+(État le 1<sup>er</sup> janvier 2025)
 
 *Préambule*
 
@@ -644,7 +644,7 @@ Annexe II[^t-2]
 
 ## Catégories de déchets demandant un examen spécial
 
-[^t-2]: Mise à jour selon la D BC-14/12 de la Conférence des Parties du 10 mai 2019, entrée en vigueur pour la Suisse le 24 mars 2020 ([RO 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-2]: Mise à jour selon la D BC-14/12 de la Conférence des Parties du 10 mai 2019 ([RO 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) et la D BC-15/18 de la Conférence des Parties du 17 juin 2022, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 - Y46 Déchets ménagers collectés
 - Y47 Résidus provenant de l’incinération des déchets ménagers
@@ -692,6 +692,13 @@ Annexe II[^t-2]
     - – Fluorure de polyvinylidène (PVDF)
 
 - – Mélanges de déchets plastiques constitués de polyéthylène (PE), polypropylène (PP) et/ou téréphtalate de polyéthylène (PET), à condition que chacun de leurs constituants soit destiné à être recyclé séparément[^annexII-lvlu1-10] et d’une manière écologiquement rationnelle et soit presque exempt de contamination et d’autres types de déchets[^annexII-lvlu1-11].
+- Y49[^annexII-lvlu1-12]<sup>,</sup>[^annexII-lvlu1-13] Déchets d’équipements électriques et électroniques:
+- – Déchets d’équipements électriques et électroniques
+  - – Ne contenant pas d’éléments inscrits à l’Annexe I ni contaminés par de tels éléments dans des proportions telles que le déchet présente une des caractéristiques de danger énumérées dans l’Annexe III, et
+  - – Dont aucun des composants (par exemple, certains circuits imprimés, certains dispositifs d’affichage) ne contient des éléments inscrits à l’Annexe I ni n’est contaminé par de tels éléments, dans des proportions telles que le composant présente une des caractéristiques de danger énumérées dans l’Annexe III
+
+- – Constituants de déchets d’équipements électriques et électroniques (par exemple, certains circuits imprimés, certains dispositifs d’affichage) ne contenant pas d’éléments inscrits à l’Annexe I ni contaminés par de tels éléments dans des proportions telles qu’ils présentent une des caractéristiques de danger énumérées dans l’Annexe III, sauf s’ils sont couverts par une autre rubrique de l’Annexe II ou par une rubrique de l’Annexe IX
+- – Déchets provenant du traitement de déchets d’équipements électriques et électroniques ou de constituants de déchets d’équipements électriques et électroniques (par exemple, fractions provenant du déchiquetage ou du démontage) et ne contenant pas d’éléments inscrits à l’Annexe I ni contaminés par de tels éléments dans des proportions telles qu’ils présentent une des caractéristiques de danger énumérées dans l’Annexe III, sauf s’ils sont couverts par une autre rubrique de l’Annexe II ou par une rubrique de l’Annexe IX.
 
 [^annexII-lvlu1-1]: Cette rubrique prend effet le 1<sup>er</sup> janvier 2021.
 [^annexII-lvlu1-2]: Les Parties peuvent imposer des exigences plus strictes en lien avec cette rubrique.
@@ -704,6 +711,8 @@ Annexe II[^t-2]
 [^annexII-lvlu1-9]: À l’exclusion des déchets produits après l’étape de la consommation.
 [^annexII-lvlu1-10]: Recyclage/récupération de substances organiques qui ne sont pas utilisées comme solvants (opération R3 de la partie B de l’annexe IV) avec tri préalable et, si nécessaire, stockage temporaire limité à un seul cas, à condition qu’il soit suivi de l’opération R3 et attesté par une documentation contractuelle ou officielle appropriée.
 [^annexII-lvlu1-11]: Les spécifications internationales et nationales peuvent offrir un point de référence pour l’interprétation de l’expression «presque exempts de contamination et d’autres types de déchets».
+[^annexII-lvlu1-12]: Cette rubrique prend effet le 1<sup>er</sup> janvier 2025.
+[^annexII-lvlu1-13]: Voir la rubrique A1181 correspondante de la liste A figurant dans l’Annexe VIII.
 
 Annexe III
 
@@ -910,7 +919,7 @@ Annexe VIII[^t-4]
 
 ## Liste A
 
-[^t-4]: Introduite par la D VI/35 ([RO 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Mise à jour selon les corrections entrées en vigueur les 26 fév., 8 avril et 28 août 2008 ([RO 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)) et la D BC-14/12 de la Conférence des Parties du 10 mai 2019, entrée en vigueur pour la Suisse le 24 mars 2020 ([RO 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-4]: Introduite par la D VI/35 ([RO 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Mise à jour selon les corrections entrées en vigueur les 26 fév., 8 avril et 28 août 2008 ([RO 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), la D BC-14/12 de la Conférence des Parties du 10 mai 2019 ([RO 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) et la D BC-15/18 de la Conférence des Parties du 17 juin 2022, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 Les déchets qui figurent dans la présente annexe sont considérés comme des déchets dangereux en vertu de l’al. a) du par. 1 de l’art. 1 de la Convention et l’inscription d’un déchet dans la présente annexe n’exclut pas le recours à l’annexe III pour démontrer que ledit déchet n’est pas dangereux.
 
@@ -970,13 +979,34 @@ Les déchets qui figurent dans la présente annexe sont considérés comme des d
 - A1150 Cendres de métaux précieux provenant de l’incinération de circuits imprimés ne figurant pas sur la liste B[^annexVIII-lvlu1-lvlu1-1]
 - A1160 Déchets d’accumulateurs électriques au plomb et à l’acide, entiers ou concassés
 - A1170 Accumulateurs électriques et piles usagés non triés, à l’exception des mélanges ne contenant que des accumulateurs électriques et piles usagés figurant sur la liste B. Accumulateurs électriques et piles usagés ne figurant pas sur la liste B et contenant des constituants mentionnés à l’annexe I dans une proportion qui les rend dangereux
-- A1180 Assemblages électriques et électroniques usagés ou sous forme de débris[^annexVIII-lvlu1-lvlu1-2] contenant des éléments tels que les accumulateurs et autres piles figurant sur la liste A, les interrupteurs à mercure, les verres provenant de tubes cathodiques, les autres verres activés, les condensateurs à PCB, ou contaminés par les constituants figurant à l’annexe I (comme le cadmium, le mercure, le plomb, les diphényles polychlorés, etc.) dans une proportion telle qu’ils présentent l’une des caractéristiques de danger énumérées à l’annexe III [voir rubrique correspondante de la liste B (B1110)][^annexVIII-lvlu1-lvlu1-3]
-- A1190 Déchets de câbles métalliques revêtus de matières plastiques ou isolés par des matières plastiques, ou contaminés par du goudron, des PCB[^annexVIII-lvlu1-lvlu1-4], du plomb, du cadmium, d’autres composés organohalogénés ou d’autres constituants de l’Annexe I au point de présenter les caractéristiques de l’Annexe III
+- A1180[^annexVIII-lvlu1-lvlu1-2] Assemblages électriques et électroniques usagés ou sous forme de débris[^annexVIII-lvlu1-lvlu1-3] contenant des éléments tels que les accumulateurs et autres piles figurant sur la liste A, les interrupteurs à mercure, les verres provenant de tubes cathodiques, les autres verres activés, les condensateurs à PCB, ou contaminés par les constituants figurant à l’annexe I (comme le cadmium, le mercure, le plomb, les diphényles polychlorés, etc.) dans une proportion telle qu’ils présentent l’une des caractéristiques de danger énumérées à l’annexe III [voir rubrique correspondante de la liste B (B1110)][^annexVIII-lvlu1-lvlu1-4]
+- A1181[^annexVIII-lvlu1-lvlu1-5] Déchets d’équipements électriques et électroniques (voir la rubrique correspondante Y49 dans l’Annexe II)[^annexVIII-lvlu1-lvlu1-6]:
+- – Déchets d’équipements électriques et électroniques
+  - – Contenant du cadmium, du plomb, du mercure, des composés organohalogénés ou d’autres éléments inscrits à l’Annexe I, ou contaminés par de tels éléments dans des proportions telles que le déchet présente une des caractéristiques de danger énumérées dans l’Annexe III, ou
+  - –
+
+    Dotés d’un composant contenant des éléments inscrits à l’Annexe I ou contaminé par de tels éléments dans des proportions telles que le composant présente une des caractéristiques de danger énumérées dans l’Annexe III, notamment les composants ci-après:
+
+    - – Verre de tube cathodique figurant sur la liste A
+    - – Accumulateur ou pile figurant sur la liste A
+    - – Interrupteur, lampe, tube fluorescent ou dispositif d’affichage à rétro-éclairage contenant du mercure
+    - – Condensateur contenant des PCB
+    - – Composant contenant de l’amiante
+    - – Certains circuits imprimés
+    - – Certains dispositifs d’affichage
+    - – Certains composants plastiques contenant un retardateur de flamme bromé
+
+- – Constituants de déchets d’équipements électriques et électroniques contenant des éléments inscrits à l’Annexe I ou contaminés par de tels éléments dans des proportions telles qu’ils présentent une des caractéristiques de danger énumérées dans l’Annexe III, sauf s’ils sont couverts par une autre rubrique figurant sur la liste A
+- – Déchets provenant du traitement de déchets d’équipements électriques et électroniques ou de constituants de déchets d’équipements électriques et électroniques et contenant des éléments inscrits à l’Annexe I ou contaminés par de tels éléments dans des proportions telles qu’ils présentent une des caractéristiques de danger énumérées dans l’Annexe III (par exemple, fractions provenant du déchiquetage ou du démontage), sauf s’ils sont couverts par une autre rubrique figurant sur la liste A
+- A1190 Déchets de câbles métalliques revêtus de matières plastiques ou isolés par des matières plastiques, ou contaminés par du goudron, des PCB[^annexVIII-lvlu1-lvlu1-7], du plomb, du cadmium, d’autres composés organohalogénés ou d’autres constituants de l’Annexe I au point de présenter les caractéristiques de l’Annexe III
 
 [^annexVIII-lvlu1-lvlu1-1]: Il est à noter que la rubrique correspondante de la liste B (B1160) ne prévoit pas d’exceptions.
-[^annexVIII-lvlu1-lvlu1-2]: Cette rubrique n’inclut pas les déchets agglomérés provenant de la production d’énergie électrique.
-[^annexVIII-lvlu1-lvlu1-3]: Concentration de PCB égale ou supérieure à 50 mg/kg.
-[^annexVIII-lvlu1-lvlu1-4]: Les concentrations de PCB sont de 50 mg/kg ou plus.
+[^annexVIII-lvlu1-lvlu1-2]: La rubrique A1180 est applicable jusqu’au 31 décembre 2024.
+[^annexVIII-lvlu1-lvlu1-3]: Cette rubrique n’inclut pas les déchets agglomérés provenant de la production d’énergie électrique.
+[^annexVIII-lvlu1-lvlu1-4]: Concentration de PCB égale ou supérieure à 50 mg/kg.
+[^annexVIII-lvlu1-lvlu1-5]: Cette rubrique prend effet le 1<sup>er</sup> janvier 2025.
+[^annexVIII-lvlu1-lvlu1-6]: Présence de PCB ou PBB à une concentration égale ou supérieure à 50 mg/kg dans un équipement, dans un composant ou dans des déchets provenant du traitement de déchets d’équipements électriques et électroniques ou de constituants de déchets d’équipements électriques et électroniques.
+[^annexVIII-lvlu1-lvlu1-7]: Les concentrations de PCB sont de 50 mg/kg ou plus.
 
 ### A2Déchets ayant principalement des constituants inorganiques qui pourraient contenir des métaux et des matières organiques
 
@@ -1053,7 +1083,7 @@ Annexe IX[^t-5]
 
 ## Liste B
 
-[^t-5]: Introduite par la D VII/19 ([RO 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Mise à jour selon les corrections entrées en vigueur les 26 fév., 8 avr. et 28 août 2008 ([RO 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), l’am. du 10 mai 2013 en vigueur depuis le 27 mai 2014 ([RO 2014 2617](https://fedlex.data.admin.ch/eli/oc/2014/461)) et la D BC-14/12 de la Conférence des Parties du 10 mai 2019, entrée en vigueur pour la Suisse le 24 mars 2020 ([RO 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-5]: Introduite par la D VII/19 ([RO 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Mise à jour selon les corrections entrées en vigueur les 26 fév., 8 avr. et 28 août 2008 ([RO 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), l’am. du 10 mai 2013 en vigueur depuis le 27 mai 2014 ([RO 2014 2617](https://fedlex.data.admin.ch/eli/oc/2014/461)), la D BC-14/12 de la Conférence des Parties du 10 mai 2019, entrée en vigueur pour la Suisse le 24 mars 2020 ([RO 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) et la D BC-15/18 de la Conférence des Parties du 17 juin 2022, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 Les déchets qui figurent dans la présente annexe ne sont pas couverts par l’al. a) du par. 1 de l’art. 1 de la Convention, à moins qu’ils ne contiennent des matières de l’annexe I à des concentrations telles qu’ils présentent une caractéristique de danger figurant à l’annexe III.
 
@@ -1123,14 +1153,7 @@ Les déchets qui figurent dans la présente annexe ne sont pas couverts par l’
   - – Scories provenant du traitement des métaux précieux et destinées à un affinage ultérieur
   - – Scories d’étain contenant du tantale, contenant moins de 0,5 % d’étain
 
-- B1110
-
-  Assemblages électriques et électroniques:
-
-  - – Assemblages électroniques constitués uniquement de métaux ou d’alliages
-  - – Déchets et débris d’assemblages électriques et électroniques[^annexIX-lvlu1-lvlu1-3] (y compris les circuits imprimés) ne contenant pas d’éléments tels que les accumulateurs et autres piles mentionnés sur la liste A, les interrupteurs au mercure, les verres de tubes cathodiques, les autres verres activés, et les condensateurs au PCB, ou non contaminés par les constituants figurant à l’annexe I (tels que cadmium, mercure, plomb, polychlorobiphényles, etc.) ou purifiés de ces constituants, au point de ne présenter aucune des caractéristiques figurant à l’annexe III [voir rubrique correspondante de la liste A (A1180)]
-  - – Assemblages électriques et électroniques (y compris circuits imprimés, composants et fils électriques) destinés à une réutilisation directe[^annexIX-lvlu1-lvlu1-4] et non au recyclage ou à l’élimination définitive[^annexIX-lvlu1-lvlu1-5]
-
+- B1110 …
 - B1115 Déchets de câbles métalliques revêtus de matières plastiques ou isolés par des matières plastiques, non inscrits à la rubrique A - A1190, à l’exclusion de ceux qui sont destinés à des opérations visées à l’Annexe IV A ou à toute autre opération d’élimination impliquant, à un stade quelconque, un procédé thermique non contrôlé, tel que le brûlage à l’air libre
 
 - B1120 Catalyseurs usagés, à l’exception des liquides utilisés comme catalyseurs, possédant l’une des substances suivantes:
@@ -1170,9 +1193,6 @@ Les déchets qui figurent dans la présente annexe ne sont pas couverts par l’
 
 [^annexIX-lvlu1-lvlu1-1]: Il est à noter que même en cas de faible niveau de contamination initiale par des constituants figurant à l’annexe I, les traitements ultérieurs, y compris le recyclage, peuvent aboutir à des fractions séparées ayant des concentrations nettement plus élevées de ces constituants figurant à l’annexe I.
 [^annexIX-lvlu1-lvlu1-2]: Le statut à accorder aux cendres de zinc est actuellement à l’étude, et il est recommandé par la Conférence des Nations Unies sur le commerce et le développement (CNUCED) que ces cendres ne soient pas classées comme matières dangereuses.
-[^annexIX-lvlu1-lvlu1-3]: Cette rubrique n’inclut pas les débris provenant de la production des générateurs électriques.
-[^annexIX-lvlu1-lvlu1-4]: La réutilisation peut inclure la réparation, la remise en état ou l’amélioration, mais pas un réassemblage majeur.
-[^annexIX-lvlu1-lvlu1-5]: Dans certains pays, ces matières destinées à être réutilisées directement ne sont pas considérées comme des déchets.
 
 ### B2Déchets ayant principalement des constituants inorganiques, pouvant contenir des métaux et des matières organiques
 
@@ -1445,7 +1465,7 @@ Les déchets qui figurent dans la présente annexe ne sont pas couverts par l’
 
 - B4010 Déchets constitués principalement de peintures à l’eau/au latex, d’encres et de vernis durcis, ne contenant pas de solvants organiques, de métaux lourds ni de biocides à des concentrations pouvant les rendre dangereux [voir rubrique correspondante de la liste A (A4070)]
 - B4020 Déchets issus de la production, de la préparation et de l’utilisation de résines, de latex, de plastifiants ou de colles et adhésifs, ne figurant pas sur la liste A et dépourvus de solvants et d’autres contaminants de sorte qu’ils ne possèdent pas les caractéristiques de danger mentionnées à l’annexe III, par exemple lorsqu’ils sont à base d’eau ou de colles à base de caséine, d’amidon, dextrine, éthers cellulosiques et alcools polyvinyliques [voir rubrique correspondante de la liste A (A3050)]
-- B4030 Appareils photographiques jetables hors d’usage, ne contenant pas de piles figurant sur la liste A
+- B4030 …
 
 Champ d’application le 6 octobre 2022[^t-6]
 
@@ -1649,7 +1669,7 @@ Champ d’application le 6 octobre 2022[^t-6]
 <tr><td colspan="2">Yémen</td><td colspan="2">21 février</td><td colspan="2">1996 A</td><td>21 mai</td><td>1996</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">15 novembre</td><td colspan="2">1994 A</td><td>13 février</td><td>1995</td></tr>
 <tr><td colspan="2">Zimbabwe</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">2012 A</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 oct. 1995 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 28 juin 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> La Convention s’applique aux Îles Féroé et au Groenland. <sup>d</sup> La Convention ne s’applique pas aux Tokélaou. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 oct. 1995 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 28 juin 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> La Convention s’applique aux Îles Féroé et au Groenland. <sup>d</sup> La Convention ne s’applique pas aux Tokélaou. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
 [^t-6]: [RO 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59), [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

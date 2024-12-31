@@ -3,11 +3,11 @@ sr: "0.814.05"
 title: Convenzione di Basilea del 22 marzo 1989 sul controllo dei movimenti oltre frontiera di rifiuti pericolosi e sulla loro eliminazione (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125"
 language: it
-version: 2022-10-06
+version: 2025-01-01
 adopted: 1989-03-22
 in_force: 1992-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20221006/it/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20221006-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20221006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Basilea il 22 marzo 1989 Ratificata con strumenti depositati dalla Svizzera il 31 gennaio 1990 Entrata in vigore per la Svizzera il 5 maggio 1992
 
-(Stato 6 ottobre 2022)
+(Stato 1° gennaio 2025)
 
 *Preambolo*
 
@@ -656,7 +656,7 @@ Allegato II[^t-2]
 
 ## Categorie di rifiuti che richiedono un esame speciale
 
-[^t-2]: Aggiornato dalla Dec. BC-14/12 del 10 mag. 2019, entrata in vigore per la Svizzera il 24 mar. 2020 ([RU 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-2]: Aggiornato dalla Dec. BC-14/12 del 10 mag. 2019 ([RU 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) e dalla Dec. BC-15/18 del 17 giu. 2022, entrata in vigore per la Svizzera il 1° gen. 2025 ([RU 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 - Y46 Rifiuti urbani
 - Y47 Residui provenienti dell’incenerimento dei rifiuti urbani
@@ -704,6 +704,13 @@ Allegato II[^t-2]
     - – polifluoruro di vinilidene (PVDF)
 
 - – Miscugli di rifiuti di plastica costituiti da polietilene (PE), polipropilene (PP) e/o polietilene tereftalato (PET), a condizione che ciascuno dei loro componenti sia destinato a essere riciclato separatamente[^annexII-lvlu1-10] e in modo ecologicamente razionale e sia quasi esente da contaminazione, e di altri tipi di rifiuti[^annexII-lvlu1-11].
+- Y49[^annexII-lvlu1-12]<sup>,</sup>[^annexII-lvlu1-13] Rifiuti di apparecchiature elettriche ed elettroniche:
+- – rifiuti di apparecchiature elettriche ed elettroniche
+  - – che non contengono né sono contaminati da costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III, e
+  - – in cui nessun componente (ad esempio determinate piastre di circuiti, determinati dispositivi di visualizzazione) contiene o è contaminato da costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III
+
+- – componenti di scarto di apparecchiature elettriche ed elettroniche (ad esempio determinate piastre di circuiti, determinati dispositivi di visualizzazione) che non contengono né sono contaminati da costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III, a meno che non rientrino in un’altra voce dell’allegato II o in una voce dell’allegato IX
+- – rifiuti risultanti dal trattamento di rifiuti di apparecchiature elettriche ed elettroniche o componenti di scarto di apparecchiature elettriche ed elettroniche (ad esempio frazioni derivanti dalla frantumazione o dallo smantellamento) che non contengono né sono contaminati da costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III, a meno che non rientrino in un’altra voce dell’allegato II o in una voce dell’allegato IX.
 
 [^annexII-lvlu1-1]: Questa rubrica ha effetto dal 1° gen. 2021.
 [^annexII-lvlu1-2]: Le Parti possono imporre requisiti più rigorosi in relazione con questa rubrica.
@@ -716,6 +723,8 @@ Allegato II[^t-2]
 [^annexII-lvlu1-9]: Esclusi i rifiuti prodotti dopo la fase di consumo.
 [^annexII-lvlu1-10]: Riciclaggio/recupero di sostanze organiche non utilizzate come solventi (operazione R3 della parte B dell’all. IV) con preselezione e, se necessario, stoccaggio temporaneo limitato a un solo caso, a condizione che sia seguito dall’operazione R3 e attestato da una documentazione contrattuale o ufficiale adeguata.
 [^annexII-lvlu1-11]: Le specificazioni internazionali e nazionali possono offrire un punto di riferimento per l’interpretazione dell’espressione «quasi esente da contaminazione e da altri tipi di rifiuti».
+[^annexII-lvlu1-12]: Questa voce ha effetto dal 1° gen. 2025.
+[^annexII-lvlu1-13]: Cfr. la voce correlata A1181 dell’elenco A dell’all. VIII.
 
 Allegato III
 
@@ -914,7 +923,7 @@ Allegato VIII[^t-4]
 
 ## Elenco A
 
-[^t-4]: Introdotto dalla Dec. VI/35 ([RU 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Aggiornato dall’emendamento entrato in vigore il 28 ago. 2008 ([RU 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)) e dalla Dec. BC-14/12 del 10 mag. 2019, entrata in vigore per la Svizzera il 24 mar. 2020 ([RU 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-4]: Introdotto dalla Dec. VI/35 ([RU 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Aggiornato dall’emendamento entrato in vigore il 28 ago. 2008 ([RU 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), dalla Dec. BC-14/12 del 10 mag. 2019 ([RU 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) e dalla Dec. BC-15/18 del 17 giu. 2022, entrata in vigore per la Svizzera il 1° gen. 2025 ([RU 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 I rifiuti che figurano nel presente allegato sono considerati rifiuti pericolosi conformemente al capoverso a) paragrafo 1 dell’articolo 1 della Convenzione, e l’iscrizione di un rifiuto nel presente allegato non esclude il ricorso all’allegato III per dimostrare che detto rifiuto non è pericoloso.
 
@@ -974,13 +983,34 @@ I rifiuti che figurano nel presente allegato sono considerati rifiuti pericolosi
 - A1150 Ceneri di metalli preziosi prodotte dall’incenerimento di circuiti stampati non inclusi nell’elenco B[^annexVIII-lvlu1-lvlu1-1]
 - A1160 Batterie piombo/acido in pezzi o rottami
 - A1170 Batterie non assortite, esclusi i miscugli di batterie inclusi soltanto nell’elenco B. Batterie non incluse nell’elenco B che contengono sostanze di cui all’allegato 1 in quantità tale da renderle pericolose
-- A1180 Rifiuti di dispositivi elettrici o elettronici o rottami[^annexVIII-lvlu1-lvlu1-2] che contengono elementi quali accumulatori e batterie incluse nell’elenco A, commutatori a mercurio, vetri di tubi a raggi catodici ed altri vetri rivestiti e condensatori di PCB, o contaminati da elementi riportati nell’allegato I (ad esempio cadmio, mercurio, piombo, difenile policlorato) in misura tale da acquisire una delle caratteristiche di cui all’allegato III (cfr. la voce corrispondente nell’elenco B [B1110])[^annexVIII-lvlu1-lvlu1-3]
-- A1190 Rifiuti di cavi metallici rivestiti di materia plastica o isolati mediante materia plastica contenenti o contaminati con catrame, PCB[^annexVIII-lvlu1-lvlu1-4], piombo, cadmio, altri composti organoalogenati o altri costituenti dell’allegato I in una misura tale da presentare le caratteristiche dell’allegato III.
+- A1180[^annexVIII-lvlu1-lvlu1-2] Rifiuti di dispositivi elettrici o elettronici o rottami[^annexVIII-lvlu1-lvlu1-3] che contengono elementi quali accumulatori e batterie incluse nell’elenco A, commutatori a mercurio, vetri di tubi a raggi catodici ed altri vetri rivestiti e condensatori di PCB, o contaminati da elementi riportati nell’allegato I (ad esempio cadmio, mercurio, piombo, difenile policlorato) in proporzione tale da acquisire una delle caratteristiche di cui all’allegato III (cfr. la voce corrispondente nell’elenco B [B1110])[^annexVIII-lvlu1-lvlu1-4]
+- A1181[^annexVIII-lvlu1-lvlu1-5] Rifiuti di apparecchiature elettriche ed elettroniche (cfr. la voce corrispondente Y49 dell’allegato II)[^annexVIII-lvlu1-lvlu1-6]:
+- – rifiuti di apparecchiature elettriche ed elettroniche
+  - – contenenti o contaminati da cadmio, piombo, mercurio, composti organici alogenati o altri costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III, oppure
+  - –
+
+    con un componente che contiene o è contaminato da costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III, compresi, a titolo esemplificativo ma non esaustivo, i seguenti componenti:
+
+    - – vetri di tubi a raggi catodici inclusi nell’elenco A
+    - – accumulatori o batterie incluse nell’elenco A
+    - – interruttori, lampade, tubi fluorescenti o unità di retroilluminazione di un dispositivo di visualizzazione contenenti mercurio
+    - – condensatori contenenti PCB
+    - – componenti contenenti amianto
+    - – determinate piastre di circuiti
+    - – determinati dispositivi di visualizzazione
+    - – determinati componenti in plastica contenenti un ritardante di fiamma bromurato
+
+- – componenti di scarto di apparecchiature elettriche ed elettroniche contenenti o contaminati da costituenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III, a meno che non rientrino in un’altra voce dell’elenco A
+- – rifiuti risultanti dal trattamento di rifiuti di apparecchiature elettriche ed elettroniche o componenti di scarto di apparecchiature elettriche ed elettroniche contenenti o contaminati da componenti di cui all’allegato I in proporzione tale da presentare una caratteristica di pericolo di cui all’allegato III (ad esempio frazioni derivanti dalla frantumazione o dallo smantellamento), a meno che non rientrino in un’altra voce dell’elenco A
+- A1190 Rifiuti di cavi metallici rivestiti di materia plastica o isolati mediante materia plastica contenenti o contaminati con catrame, PCB[^annexVIII-lvlu1-lvlu1-7], piombo, cadmio, altri composti organoalogenati o altri costituenti dell’allegato I in una misura tale da presentare le caratteristiche dell’allegato III.
 
 [^annexVIII-lvlu1-lvlu1-1]: Si noti che la voce corrispondente nell’elenco B (1160) non specifica eccezioni.
-[^annexVIII-lvlu1-lvlu1-2]: Questa voce non include rottami di assemblaggi provenienti dalle centrali elettriche.
-[^annexVIII-lvlu1-lvlu1-3]: I PCB presentano un livello di concentrazione pari o superiore a 50 mg/kg.
-[^annexVIII-lvlu1-lvlu1-4]: Concentrazioni di PCB uguali o superiori a 50 mg/kg.
+[^annexVIII-lvlu1-lvlu1-2]: La voce A1180 è applicabile fino al 31 dicembre 2024.
+[^annexVIII-lvlu1-lvlu1-3]: Questa voce non include rottami di assemblaggi provenienti dalle centrali elettriche.
+[^annexVIII-lvlu1-lvlu1-4]: I PCB presentano un livello di concentrazione pari o superiore a 50 mg/kg.
+[^annexVIII-lvlu1-lvlu1-5]: Questa voce ha effetto dal 1° gen. 2025.
+[^annexVIII-lvlu1-lvlu1-6]: Presenza di PCB o PBB in una concentrazione pari o superiore a 50 mg/kg in un’apparecchiatura, in un componente o in rifiuti derivanti dalla lavorazione di rifiuti di apparecchiature elettriche ed elettroniche o di componenti di rifiuti di apparecchiature elettriche ed elettroniche.
+[^annexVIII-lvlu1-lvlu1-7]: Concentrazioni di PCB uguali o superiori a 50 mg/kg.
 
 ### A2Rifiuti contenenti prevalentemente composti inorganici, che possono a loro volta contenere metalli e composti organici
 
@@ -1057,7 +1087,7 @@ Allegato IX[^t-5]
 
 ## Elenco B
 
-[^t-5]: Introdotto dalla Dec. VII/19 ([RU 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Aggiornato dagli emendamenti in vigore dal 26 feb., 8 apr. e 28 ago. 2008 ([RU 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), dalla Dec. BC-11/6 del 10 mag. 2013 ([RU 2014 2617](https://fedlex.data.admin.ch/eli/oc/2014/461)) e dalla Dec. BC-14/12 del 10 mag. 2019, entrata in vigore per la Svizzera il 24 mar. 2020 ([RU 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-5]: Introdotto dalla Dec. VII/19 ([RU 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Aggiornato dagli emendamenti in vigore dal 26 feb., 8 apr. e 28 ago. 2008 ([RU 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), dalla Dec. BC-11/6 del 10 mag. 2013 ([RU 2014 2617](https://fedlex.data.admin.ch/eli/oc/2014/461)), dalla Dec. BC-14/12 del 10 mag. 2019 ([RU 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) e dalla Dec. BC-15/18 del 17 giu. 2022, entrata in vigore per la Svizzera il 1° gen. 2025 ([RU 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 I rifiuti che figurano nel presente allegato non sono contemplati dal capoverso a) del paragrafo 1 dell’articolo 1 della Convenzione, a meno che non contengano sostanze dell’allegato I in concentrazioni tali da presentare caratteristiche di rischio figuranti nell’allegato III.
 
@@ -1130,11 +1160,6 @@ I rifiuti che figurano nel presente allegato non sono contemplati dal capoverso 
   - – Scorie della lavorazione dei metalli preziosi per ulteriori raffinazioni
   - – Tantalio contenente scorie di stagno con un tenore di stagno inferiore allo 0,5 %
 
-- B1110 Assemblaggi elettrici ed elettronici
-  - – Rifiuti provenienti da assemblaggi elettrici costituiti unicamente da metalli o leghe
-  - – Rifiuti o rottami[^annexIX-lvlu1-lvlu1-3] di assemblaggi elettrici o elettronici (comprese le lastre di circuiti stampati) che non contengono componenti quali accumulatori e altre batterie riportate nell’elenco A, commutatori a mercurio, vetri di tubi a raggi catodici ed altri vetri radioattivi e condensatori di PCB, o non contaminati da sostanze di cui all’allegato I (ad esempio cadmio, mercurio, piombo, difenile policlorato) o da cui tali sostanze sono state eliminate in misura tale che essi non presentano alcuna delle caratteristiche di cui all’allegato III (cfr. la voce corrispondente nell’elenco A [A1180])
-  - – Assemblaggi elettrici ed elettronici (compresi i circuiti stampati, i componenti elettronici ed i cavi) destinati al riutilizzo diretto[^annexIX-lvlu1-lvlu1-4] e non al riciclaggio o all’eliminazione definitiva[^annexIX-lvlu1-lvlu1-5]
-
 - B1115 Rifiuti di cavi metallici rivestiti di materia plastica o isolati mediante materia plastica non figuranti nella voce A[A1190], esclusi quelli destinati alle operazioni di cui all’allegato IV A o a qualsiasi altra operazione di smaltimento comportante, in una qualsiasi sua fase, un processo termico non controllato, come l’incinerazione all’aria aperta.
 - B1120 Catalizzatori esausti, esclusi i liquidi utilizzati come catalizzatori, contenenti uno dei seguenti elementi:
 
@@ -1169,9 +1194,6 @@ I rifiuti che figurano nel presente allegato non sono contemplati dal capoverso 
 
 [^annexIX-lvlu1-lvlu1-1]: Si noti che anche laddove si registri inizialmente un basso livello di contaminazione con i materiali inclusi nell’allegato I, i trattamenti successivi, incluso il riciclaggio, possono determinare la separazione di frazioni che presentano concentrazioni significativamente superiori a quelle dei materiali citati.
 [^annexIX-lvlu1-lvlu1-2]: La classificazione delle ceneri di zinco è attualmente allo studio ed esiste una raccomandazione della Conferenza delle Nazioni Unite per il commercio e lo sviluppo (UNCTAD) secondo cui le ceneri di zinco non dovrebbero essere considerate pericolose.
-[^annexIX-lvlu1-lvlu1-3]: Questa voce non include rottami provenienti dalle centrali elettriche.
-[^annexIX-lvlu1-lvlu1-4]: «Riutilizzo» può indicare la riparazione, la ristrutturazione o il miglioramento, ma non un riassemblaggio di grande portata.
-[^annexIX-lvlu1-lvlu1-5]: In alcuni Paesi, tali materiali destinati al riutilizzo diretto non sono considerati rifiuti.
 
 ### B2Rifiuti contenenti prevalentemente composti inorganici, che possono a loro volta contenere metalli e sostanze organiche
 
@@ -1434,7 +1456,6 @@ I rifiuti che figurano nel presente allegato non sono contemplati dal capoverso 
 
 - B4010 Rifiuti che consistono principalmente di idropitture e pitture a base di lattice, inchiostri e vernici indurite non contenenti solventi organici, metalli pesanti o biocidi in misura tale da renderli pericolosi (cfr. la voce corrispondente nell’elenco A [A4070])
 - B4020 Rifiuti derivanti dalla produzione, preparazione e uso di resine, latex, plastificanti, colle/adesivi non inclusi nell’elenco A, liberi da solventi e altri agenti inquinanti in misura tale da non presentare le caratteristiche di cui all’allegato III, ad esempio prodotti a base di acqua o colle a base di amido di caseina, destrina, eteri di cellulosa, alcool polivinilici (cfr. la voce corrispondente nell’elenco A [A3050])
-- B4030 Macchine fotografiche monouso, con batterie non incluse nell’elenco A
 
 Campo d’applicazione il 6 ottobre 2022[^t-6]
 
@@ -1646,4 +1667,4 @@ Campo d’applicazione il 6 ottobre 2022[^t-6]
 <tr><td colspan="5"><sup>e</sup> La Conv. si applica al Regno in Europa.</td></tr>
 </table>
 
-[^t-6]: [RU 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59); [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
+[^t-6]: [RU 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59); [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

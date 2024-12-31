@@ -3,11 +3,11 @@ sr: "0.814.05"
 title: Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125"
 language: de
-version: 2022-10-06
+version: 2025-01-01
 adopted: 1989-03-22
 in_force: 1992-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20221006/de/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20221006-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20221006/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1992** 1125
 
 Abgeschlossen in Basel am 22. März 1989 Schweizerische Ratifikationsurkunde hinterlegt am 31. Januar 1990 In Kraft getreten für die Schweiz am 5. Mai 1992
 
-(Stand am 6. Oktober 2022)
+(Stand am 1. Januar 2025)
 
 *Präambel*
 
@@ -635,7 +635,7 @@ Anlage II[^t-2]
 
 ## Gruppen von Abfällen, die besonderer Prüfung bedürfen
 
-[^t-2]: Bereinigt gemäss Beschluss BC-14/12 der Konferenz der Vertragsparteien vom 10. Mai 2019, in Kraft getreten für die Schweiz am 24. März 2020 ([AS 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-2]: Bereinigt gemäss Beschluss BC-14/12 der Konferenz der Vertragsparteien vom . 10. Mai 2019 ([AS 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) und Beschluss BC-15/18 der Konferenz der Vertragsparteien am 17. Juni 2022, in Kraft getreten für die Schweiz am 1. Jan. 2025 ([AS 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 - Y46 Haushaltsabfälle
 - Y47 Rückstände aus der Verbrennung von Haushaltsabfällen
@@ -683,6 +683,13 @@ Anlage II[^t-2]
     - – Polyvinylidenfluorid (PVDF)
 
 - – Gemische von Kunststoffabfällen, die aus Polyethylen (PE), Polypropylen (PP) und/oder Polyethylenterephthalat (PET) bestehen, sofern diese für eine umweltgerechte und getrennte Verwertung[^annexII-lvlu1-10] jedes Materials bestimmt sind und fast keine Verunreinigungen und andere Abfallarten[^annexII-lvlu1-11] enthalten.
+- Y49[^annexII-lvlu1-12]<sup>,</sup>[^annexII-lvlu1-13] Elektro- und Elektronik-Altgeräte:
+- – Elektro- und Elektronik-Altgeräte
+  - – die keine in Anlage I aufgeführten Bestandteile in solchen Mengen enthalten oder mit solchen verunreinigt sind, dass die Abfälle eine Eigenschaft der Anlage III aufweisen, und
+  - – bei denen keine der Komponenten (z. B. bestimmte Leiterplatten, bestimmte Anzeigegeräte) Bestandteile der Anlage I in solchen Mengen enthalten oder mit solchen verunreinigt ist, dass die Komponente eine Eigenschaft der Anlage III aufweist
+
+- – Abfallbestandteile von Elektro- und Elektronikgeräten (z. B. bestimmte Leiterplatten, bestimmte Anzeigegeräte), die keine in Anlage I aufgeführten Bestandteile in solchen Mengen enthalten oder mit solchen verunreinigt sind, dass die Abfallbestandteile eine Eigenschaft der Anlage III aufweisen, es sei denn, sie fallen unter einen anderen Eintrag in Anlage II oder Anlage IX
+- – Abfälle aus der Verarbeitung von Elektro- und Elektronik-Altgeräten oder Abfallbestandteile von Elektro- und Elektronikgeräten (z. B. Fraktionen, die beim Schreddern oder der Demontage anfallen), die keine in Anlage I aufgeführten Bestandteile in solchen Mengen enthalten oder mit solchen verunreinigt sind, dass die Abfälle eine Eigenschaft der Anlage III aufweisen, es sei denn, sie fallen unter einen anderen Eintrag in Anlage II oder Anlage IX
 
 [^annexII-lvlu1-1]: Dieser Eintrag wird am 1. Januar 2021 wirksam.
 [^annexII-lvlu1-2]: Die Vertragsparteien können bezüglich dieses Eintrags strengere Anforderungen vorschreiben.
@@ -695,6 +702,8 @@ Anlage II[^t-2]
 [^annexII-lvlu1-9]: Beim Endverbraucher anfallende Abfälle sind ausgenommen.
 [^annexII-lvlu1-10]: Verwertung/Rückgewinnung organischer Stoffe, die nicht als Lösemittel verwendet werden (Verfahren R3 nach Abschnitt B von Anlage IV), mit vorheriger Sortierung und, falls nötig, befristeter Lagerung, die auf einen einzigen Vorgang beschränkt ist, sofern danach das Verfahren R3 durchgeführt wird und dies durch ein vertragliches oder relevantes offizielles Dokument belegt wird.
 [^annexII-lvlu1-11]: Als Bezugspunkte für «fast keine Verunreinigungen und andere Abfallarten» können internationale und nationale Spezifikationen dienen.
+[^annexII-lvlu1-12]: Dieser Eintrag wird am 1. Januar 2025 wirksam.
+[^annexII-lvlu1-13]: Siehe den entsprechenden Eintrag A1181 in der Liste A in Anlage VIII.
 
 Anlage III
 
@@ -893,7 +902,7 @@ Anlage VIII[^t-4]
 
 ## Liste A
 
-[^t-4]: Eingefügt durch den Beschluss VI/35, in Kraft getreten am 20. Nov. 2003 ([AS 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Bereinigt gemäss Berichtigung, in Kraft seit 28. Aug. 2008 ([AS 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)) und gemäss Beschluss BC-14/12 der Konferenz der Vertragsparteien vom 10. Mai 2019, in Kraft getreten für die Schweiz am 24. März 2020 ([AS 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-4]: Eingefügt durch den Beschluss VI/35, in Kraft getreten am 20. Nov. 2003 ([AS 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Bereinigt gemäss Berichtigung, in Kraft seit 28. Aug. 2008 ([AS 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)) und gemäss Beschluss BC-14/12 der Konferenz der Vertragsparteien vom 10. Mai 2019 ([AS 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) und Beschluss BC-15/18 der Konferenz der Vertragsparteien am 17. Juni 2022, in Kraft getreten für die Schweiz am 1. Jan. 2025 ([AS 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 In dieser Anlage aufgeführte Abfälle gelten nach Artikel 1 Absatz 1 Buchstabe a) dieses Übereinkommens als gefährlich; die Nennung eines Abfalls in dieser Anlage schliesst nicht die Anwendung der Anlage III aus, um nachzuweisen, dass ein Abfall nicht gefährlich ist.
 
@@ -953,13 +962,34 @@ In dieser Anlage aufgeführte Abfälle gelten nach Artikel 1 Absatz 1 Buchstabe 
 - A1150 Edelmetallasche aus der Verbrennung von Leiterplatten, soweit sie nicht in Liste B[^annexVIII-lvlu1-lvlu1-1] aufgeführt sind
 - A1160 Abfälle von Bleiakkumulatoren, ganz oder zerkleinert
 - A1170 Abfälle von nicht sortierten Batterien, ausgenommen Gemische, die aus-schliesslich aus in Liste B aufgeführten Batterien bestehen. In Liste B nicht aufgeführte Batterien, die in Anlage I genannte Bestandteile in solchen Mengen enthalten, dass sie dadurch gefährlich werden
-- A1180 Abfälle oder Schrott von elektrischen und elektronischen Geräten[^annexVIII-lvlu1-lvlu1-2], die Komponenten enthalten wie etwa Akkumulatoren und andere in Liste A aufgeführte Batterien, Quecksilberschalter, Glas von Kathodenstrahlröhren und sonstige beschichtete Gläser und PCB-haltige Kondensatoren oder die mit in Anlage I genannten Bestandteilen (z.B. Cadmium, Quecksilber, Blei, polychlorierte Biphenyle) in einem solchen Ausmass verunreinigt sind, dass sie eine der in Anlage III festgelegten Eigenschaften aufweisen [siehe den diesbezüglichen Eintrag in Liste B (B1110)[^annexVIII-lvlu1-lvlu1-3]]
-- A1190 Altmetallkabel, die mit Kunststoffen ummantelt oder isoliert sind, welche Kohlenteer, PCB[^annexVIII-lvlu1-lvlu1-4], Blei, Cadmium, andere organische Halogenverbindun-gen oder in Anlage I genannte Bestandteile in solchen Mengen enthalten oder damit in einem solchen Ausmass verunreinigt sind, dass sie in Anlage III festgelegte Eigenschaften aufweisen
+- A1180[^annexVIII-lvlu1-lvlu1-2] Abfälle oder Schrott von elektrischen und elektronischen Geräten[^annexVIII-lvlu1-lvlu1-3], die Komponenten enthalten wie etwa Akkumulatoren und andere in Liste A aufgeführte Batterien, Quecksilberschalter, Glas von Kathodenstrahlröhren und sonstige beschichtete Gläser und PCB-haltige Kondensatoren oder die mit in Anlage I genannten Bestandteilen (z. B. Cadmium, Quecksilber, Blei, polychlorierte Biphenyle) in einem solchen Ausmass verunreinigt sind, dass sie eine der in Anlage III festgelegten Eigenschaften aufweisen [siehe den diesbezüglichen Eintrag in Liste B (B1110)][^annexVIII-lvlu1-lvlu1-4]
+- A1181[^annexVIII-lvlu1-lvlu1-5] Elektro- und Elektronik-Altgeräte (siehe den diesbezüglichen Eintrag Y49 in Anlage II[^annexVIII-lvlu1-lvlu1-6]:
+- – Elektro- und Elektronik-Altgeräte
+  - – die Cadmium, Blei, Quecksilber, halogenorganische Verbindungen oder andere in Anlage I aufgeführte Bestandteile in solchen Mengen enthalten oder mit solchen verunreinigt sind, dass die Abfälle eine Eigenschaft der Anlage III aufweisen, oder
+  - –
+
+    die Komponenten enthalten, die in Anlage I genannte Bestandteile in solchen Mengen enthalten oder mit solchen verunreinigt sind, dass die Abfälle eine Eigenschaft der Anlage III aufweisen, einschließlich, aber nicht beschränkt auf die folgenden Komponenten:
+
+    - – Glas aus Kathodenstrahlröhren der Liste A
+    - – Akkumulatoren oder Batterien der Liste A
+    - – quecksilberhaltige Schalter, Lampen, Leuchtstoffröhren oder Hintergrundbeleuchtungen für Anzeigegeräte
+    - – PCB-haltige Kondensatoren
+    - – asbesthaltige Komponenten
+    - – bestimmte Leiterplatten
+    - – bestimmte Anzeigegeräte
+    - – bestimmte Kunststoffkomponenten, die bromierte Flammschutzmittel enthalten
+
+- – Abfallbestandteile von Elektro- und Elektronikgeräten, die in Anlage I aufgeführte Bestandteile in solchen Mengen enthalten oder damit verunreinigt sind, dass die Abfallbestandteile eine Eigenschaft der Anlage III aufweisen, es sei denn, sie fallen unter einen anderen Eintrag in Liste A
+- – Abfälle aus der Verarbeitung von Elektro- und Elektronik-Altgeräten oder Abfallbestandteile von Elektro- und Elektronikgeräten, die in Anlage I aufgeführte Bestandteile in solchen Mengen enthalten oder mit solchen verunreinigt sind, dass die Abfälle eine Eigenschaft der Anlage III aufweisen (z. B. Fraktionen, die beim Schreddern oder der Demontage anfallen), es sei denn, sie fallen unter einen anderen Eintrag in Liste A
+- A1190 Altmetallkabel, die mit Kunststoffen ummantelt oder isoliert sind, welche Kohlenteer, PCB[^annexVIII-lvlu1-lvlu1-7], Blei, Cadmium, andere organische Halogenverbindun-gen oder in Anlage I genannte Bestandteile in solchen Mengen enthalten oder damit in einem solchen Ausmass verunreinigt sind, dass sie in Anlage III festgelegte Eigenschaften aufweisen
 
 [^annexVIII-lvlu1-lvlu1-1]: Es wird darauf hingewiesen, dass der Spiegeleintrag in Liste B (B1160) keine Ausnahme erwähnt.
-[^annexVIII-lvlu1-lvlu1-2]: Dieser Eintrag umfasst nicht Schrott von Kraftwerkseinrichtungen.
-[^annexVIII-lvlu1-lvlu1-3]: PCB mit einer Konzentration von ≥ 50 mg/kg.
+[^annexVIII-lvlu1-lvlu1-2]: Der Eintrag A1180 gilt bis zum 31. Dezember 2024.
+[^annexVIII-lvlu1-lvlu1-3]: Dieser Eintrag umfasst nicht Schrott von Kraftwerkseinrichtungen.
 [^annexVIII-lvlu1-lvlu1-4]: PCB mit einer Konzentration von ≥ 50 mg/kg.
+[^annexVIII-lvlu1-lvlu1-5]: Dieser Eintrag wird am 1. Januar 2025 wirksam.
+[^annexVIII-lvlu1-lvlu1-6]: Vorhandensein von PCB oder PBB in einer Konzentration von 50 mg/kg oder mehr in einem Gerät, einem Bauteil oder in Abfällen, die bei der Verarbeitung von Elektro- und Elektronik-Altgeräten oder von Bestandteilen von Elektro- und Elektronik-Altgeräten anfallen.
+[^annexVIII-lvlu1-lvlu1-7]: PCB mit einer Konzentration von ≥ 50 mg/kg.
 
 ### A2Abfälle aus vorwiegend anorganischen Bestandteilen, die Metalle oder organische Stoffe enthalten können
 
@@ -1036,7 +1066,7 @@ Anlage IX[^t-5]
 
 ## Liste B
 
-[^t-5]: Eingefügt durch den Beschluss VII/19, in Kraft getreten am 8. Okt. 2005 ([AS 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Bereinigt gemäss Berichtigung in Kraft getreten am 26. Febr., 8. April und vom 28. Aug. 2008 ([AS 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), gemäss Änd. vom 10. Mai 2013 ([AS 2014 2617](https://fedlex.data.admin.ch/eli/oc/2014/461)) und gemäss Beschluss BC-14/12 der Konferenz der Vertragsparteien vom 10. Mai 2019, in Kraft getreten für die Schweiz am 24. März 2020 ([AS 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)).
+[^t-5]: Eingefügt durch den Beschluss VII/19, in Kraft getreten am 8. Okt. 2005 ([AS 2007 197](https://fedlex.data.admin.ch/eli/oc/2007/39)). Bereinigt gemäss Berichtigung in Kraft getreten am 26. Febr., 8. April und vom 28. Aug. 2008 ([AS 2009 5063](https://fedlex.data.admin.ch/eli/oc/2009/589)), gemäss Änd. vom 10. Mai 2013 ([AS 2014 2617](https://fedlex.data.admin.ch/eli/oc/2014/461)), Beschluss BC-14/12 der Konferenz der Vertragsparteien vom 10. Mai 2019 ([AS 2020 4477](https://fedlex.data.admin.ch/eli/oc/2020/787)) und Beschluss BC-15/18 der Konferenz der Vertragsparteien am 17. Juni 2022, in Kraft getreten für die Schweiz am 1. Jan. 2025 ([AS 2024 746](https://fedlex.data.admin.ch/eli/oc/2024/746)).
 
 Die in dieser Anlage aufgeführten Abfälle werden nicht von Artikel 1 Absatz 1 Buchstabe a) dieses Übereinkommens erfasst, es sei denn, sie enthalten in Anlage I genannte Stoffe in solchen Mengen, dass sie eine der in Anlage III festgelegten Eigenschaften aufweisen.
 
@@ -1109,14 +1139,6 @@ Die in dieser Anlage aufgeführten Abfälle werden nicht von Artikel 1 Absatz 1 
   - – zur Raffination bestimmte Schlacken aus der Edelmetallproduktion
   - – tantalhaltige Zinnschlacken mit einem Zinngehalt von weniger als 0,5 %
 
-- B1110
-
-  Elektrische und elektronische Geräte:
-
-  - – nur aus Metallen oder Legierungen bestehende elektronische Geräte
-  - – Abfälle oder Schrott[^annexIX-lvlu1-lvlu1-3] von elektrischen und elektronischen Geräten (einschliesslich Leiterplatten), soweit sie keine Komponenten wie etwa Akkumulatoren oder andere in Liste A enthaltene Batterien, Quecksilberschalter, Glas aus Kathodenstrahlröhren, sonstiges beschichtetes Glas oder PCB-haltige Kondensatoren enthalten oder die nicht durch in Anlage I genannte Bestandteile (z. B. Cadmium, Quecksilber, Blei, PCB) verunreinigt sind oder von solchen Bestandteilen oder Verunreinigungen soweit befreit wurden, dass sie keine der in Anlage III festgelegten Eigenschaften aufweisen [siehe den diesbezüglichen Eintrag in Liste A (A1180)]
-  - – zur unmittelbaren Wiederverwendung[^annexIX-lvlu1-lvlu1-4], jedoch nicht zur Verwertung oder Beseitigung[^annexIX-lvlu1-lvlu1-5] bestimmte elektrische und elektronische Geräte (einschliesslich Leiterplatten)
-
 - B1115 Altmetallkabel, die mit Kunststoffen ummantelt oder isoliert sind und nicht in Liste A (A1190) aufgeführt sind, unter Ausschluss solcher, die für Verfahren nach Anlage IV Abschnitt A oder andere Entsorgungsverfahren bestimmt sind, die in einem beliebigen Verfahrensschritt unkontrollierte thermische Prozesse wie offene Verbrennung einschliessen
 - B1120 Verbrauchte Katalysatoren, ausgenommen der als Katalysatoren verwen-deten Flüssigkeiten, und die Folgendes enthalten:
 
@@ -1151,9 +1173,6 @@ Die in dieser Anlage aufgeführten Abfälle werden nicht von Artikel 1 Absatz 1 
 
 [^annexIX-lvlu1-lvlu1-1]: Es wird darauf hingewiesen, dass selbst im Falle niedriger anfänglicher Verunreinigung mit in Anlage I genannten Stoffen spätere Prozesse einschliesslich der Verwertung solcher Abfälle dazu führen können, dass einzelne Fraktionen signifikant erhöhte Konzentrationen solcher Stoffe enthalten.
 [^annexIX-lvlu1-lvlu1-2]: Der Status der Zinkasche wird zur Zeit überprüft; die Konferenz der Vereinten Nationen für Handel und Entwicklung (UNCTAD) empfiehlt, Zinkaschen nicht als gefährlich einzustufen.
-[^annexIX-lvlu1-lvlu1-3]: Dieser Eintrag erstreckt sich nicht auf Kraftwerkschrott.
-[^annexIX-lvlu1-lvlu1-4]: Die Wiederverwendung umfasst beispielsweise die Reparatur, Erneuerung oder Aufrüstung, jedoch nicht grösseren Zusammenbau.
-[^annexIX-lvlu1-lvlu1-5]: In einigen Ländern werden die zur unmittelbaren Wiederverwendung bestimmten Gegenstände nicht als Abfall eingestuft.
 
 ### B2Abfälle aus vorwiegend anorganischen Bestandteilen, die Metalle oder organische Stoffe enthalten können
 
@@ -1444,7 +1463,6 @@ Die in dieser Anlage aufgeführten Abfälle werden nicht von Artikel 1 Absatz 1 
 
 - B4010 Abfälle, die vorwiegend aus wasserverdünnbaren Dispersionsfarben, Tinten und ausgehärteten Lacken bestehen und die keine organischen Lösemittel, Schwermetalle oder Biozide in solchen Mengen enthalten, dass sie dadurch gefährlich werden [siehe den diesbezüglichen Eintrag in Liste A (A4070)]
 - B4020 Abfälle aus der Herstellung, Formulierung und Verwendung von Harzen, Latex, Weichmachern, Leimen/Klebstoffen, soweit sie nicht in Liste A aufgeführt sind und keine Lösungsmittel und andere Verunreinigungen in solchen Mengen enthalten, dass sie eine der in Anlage III festgelegten Eigenschaften aufweisen, beispielsweise wasserlösliche Produkte oder Klebstoffe auf der Grundlage von Casein-Stärke, Dextrin, Celluloseethern, Polyvinylalkoholen [siehe den diesbezüglichen Eintrag in Liste A (A3050)]
-- B4030 Gebrauchte Einwegphotoapparate mit nicht in Liste A enthaltenen Batterien
 
 Geltungsbereich am 6. Oktober 2022[^t-6]
 
@@ -1648,7 +1666,7 @@ Geltungsbereich am 6. Oktober 2022[^t-6]
 <tr><td>Vietnam</td><td>13. März</td><td>1995 B</td><td>11. Juni</td><td>1995</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>24. Februar</td><td>2006 B</td><td>25. Mai</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>17. September</td><td>1992</td><td>16. Dezember</td><td>1992</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 30. Okt. 1995 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 28. Juni 1999 bis zum 19. Dez. 1999 war das Übereink. aufgrund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereinkommen gilt für die Färöer und Grönland. <sup>d</sup> Das Übereink. gilt nicht für Tokelau. <sup>e</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 30. Okt. 1995 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 28. Juni 1999 bis zum 19. Dez. 1999 war das Übereink. aufgrund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereinkommen gilt für die Färöer und Grönland. <sup>d</sup> Das Übereink. gilt nicht für Tokelau. <sup>e</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59); [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
+[^t-6]: [AS 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59); [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
