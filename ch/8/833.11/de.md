@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 1993 über die Militärversicherung (MVV)
 short: MVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/de"
 
 (MVV)
 
-vom 10. November 1993 (Stand am 1. Januar 2024)
+vom 10. November 1993 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -343,11 +343,11 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 **Höchstbetrag des versicherten Jahresverdienstes beim Taggeld und bei der Invalidenrente**
 
-<sup>1</sup> Der Höchstbetrag des versicherten Jahresverdienstes nach Artikel 28 Absatz 4 des Gesetzes für die Ermittlung des Taggeldes und nach Artikel 40 Absatz 3 des Gesetzes für die Ermittlung der Invalidenrente beträgt 159 502 Franken.[^15-1]
+<sup>1</sup> Der Höchstbetrag des versicherten Jahresverdienstes nach Artikel 28 Absatz 4 des Gesetzes für die Ermittlung des Taggeldes und nach Artikel 40 Absatz 3 des Gesetzes für die Ermittlung der Invalidenrente beträgt 163 722 Franken.[^15-1]
 
 <sup>2</sup> Der Verdienst, der den Betrag des höchstversicherten Verdienstes übersteigt, wird nicht berücksichtigt. Vorbehalten bleibt die Ermittlung des Grades der Arbeitsunfähigkeit nach Artikel 28 Absatz 3 des Gesetzes oder des Grades der Invalidität nach Artikel 16 ATSG.[^15-2]
 
-[^15-1]: Fassung gemäss Art. 5 Abs. 2 der MV-Anpassungsverordnung vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
+[^15-1]: Fassung gemäss Art. 5 Abs. 2 der MV-Anpassungsverordnung vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 698](https://fedlex.data.admin.ch/eli/oc/2024/698)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 
 #### Art. 16
@@ -484,11 +484,11 @@ Die Militärversicherung ist berechtigt, die kantonalen und die gemeinsamen Inva
 
 **Jahresrentenansatz und Rentenbetreffnis**
 
-<sup>1</sup> Der Jahresrentenansatz für die Integritätsschadenrenten beträgt 21 378 Franken. Die Jahresrente ergibt sich aus dem Jahresrentenansatz, dem ermittelten Prozentsatz des Integritätsschadens und dem Prozentsatz der Bundeshaftung.[^26-1]
+<sup>1</sup> Der Jahresrentenansatz für die Integritätsschadenrenten beträgt 21 961 Franken. Die Jahresrente ergibt sich aus dem Jahresrentenansatz, dem ermittelten Prozentsatz des Integritätsschadens und dem Prozentsatz der Bundeshaftung.[^26-1]
 
 <sup>2</sup> Die Anpassung des Jahresrentenansatzes nach Artikel 49 Absatz 4 des Gesetzes erfolgt jeweils auf den gleichen Zeitpunkt wie die Rentenanpassung nach Artikel 43 des Gesetzes.
 
-[^26-1]: Fassung gemäss Art. 5 Abs. 2 der MV-Anpassungsverordnung vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
+[^26-1]: Fassung gemäss Art. 5 Abs. 2 der MV-Anpassungsverordnung vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 698](https://fedlex.data.admin.ch/eli/oc/2024/698)).
 
 #### Art. 27
 
@@ -521,7 +521,7 @@ Der Barwert der Rente wird auf der Basis des Jahresrentenansatzes berechnet, der
 
 **Prämie für Leistungen bei Krankheit**
 
-<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 430 Franken.[^28a-1]
+<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 450 Franken.[^28a-1]
 
 <sup>2</sup>
 
@@ -535,16 +535,16 @@ Bei beruflich Versicherten, deren Lohn in einer der folgenden Bandbreiten liegt,
 
 <sup>4</sup> Derjenige Teil der Prämie von teilzeitlich angestellten beruflich Versicherten, der das Risiko für Krankheit betrifft, ist gleich hoch wie für vollzeitlich angestellte.
 
-[^28a-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
+[^28a-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
 [^28a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten**[^28b-1]
 
-Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 52 Franken pro Monat.
+Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 61 Franken pro Monat.
 
-[^28b-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
+[^28b-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
 
 #### Art. 28c
 

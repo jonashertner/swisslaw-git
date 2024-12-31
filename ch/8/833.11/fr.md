@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 1993 sur l'assurance militaire (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/fr"
 
 (OAM)
 
-du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2024)
+du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -343,11 +343,11 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 **Gain annuel maximum assuré pris en compte pour le calcul de l’indemnité journalière ou de la rente d’invalidité**
 
-<sup>1</sup> Le montant du gain annuel maximum assuré selon l’art. 28, al. 4, de la loi, pris en compte pour le calcul de l’indemnité journalière et, selon l’art. 40, al. 3, de la loi, pour le calcul de la rente d’invalidité s’élève à 159 502 francs.[^15-1]
+<sup>1</sup> Le montant du gain annuel maximum assuré selon l’art. 28, al. 4, de la loi, pris en compte pour le calcul de l’indemnité journalière et, selon l’art. 40, al. 3, de la loi, pour le calcul de la rente d’invalidité s’élève à 163 722 francs.[^15-1]
 
 <sup>2</sup> Le gain qui dépasse le montant maximum du gain assuré n’est pas pris en compte. Est réservée la détermination du taux d’incapacité de travail selon l’art. 28, al. 3, de la loi, ou du taux d’invalidité selon l’art. 16 LPGA.[^15-2]
 
-[^15-1]: Nouvelle teneur selon l’art. 5 al. 2 de l’O AM du 16 nov. 2022 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
+[^15-1]: Nouvelle teneur selon l’art. 5 al. 2 de l’O AM du 20 nov. 2024 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 698](https://fedlex.data.admin.ch/eli/oc/2024/698)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 
 #### Art. 16
@@ -486,11 +486,11 @@ L’assurance militaire peut faire appel aux offices régionaux ou communs de l�
 
 **Montant annuel des rentes et valeur annuelle de la rente**
 
-<sup>1</sup> Le montant annuel servant de base au calcul de la rente pour atteinte à l’intégrité s’élève à 21 378 francs. La rente annuelle est calculée sur la base du montant annuel de la rente, du taux de l’atteinte à l’intégrité et du taux de responsabilité de la Confédération.[^26-1]
+<sup>1</sup> Le montant annuel servant de base au calcul de la rente pour atteinte à l’intégrité s’élève à 21 961 francs. La rente annuelle est calculée sur la base du montant annuel de la rente, du taux de l’atteinte à l’intégrité et du taux de responsabilité de la Confédération.[^26-1]
 
 <sup>2</sup> L’adaptation du montant annuel des rentes selon l’art. 49, al. 4, de la loi a lieu en même temps que l’adaptation des rentes selon l’art. 43 de la loi.
 
-[^26-1]: Nouvelle teneur selon l’art. 5 al. 2 de l’O AM du 16 nov. 2022 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
+[^26-1]: Nouvelle teneur selon l’art. 5 al. 2 de l’O AM du 20 nov. 2024 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 698](https://fedlex.data.admin.ch/eli/oc/2024/698)).
 
 #### Art. 27
 
@@ -522,7 +522,7 @@ La valeur capitalisée de la rente est calculée à partir de la date de la déc
 
 **Primes pour les prestations en cas de maladie**
 
-<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 430 francs.[^28a-1]
+<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 450 francs.[^28a-1]
 
 <sup>2</sup>
 
@@ -536,16 +536,16 @@ La prime est réduite comme suit pour les assurés à titre professionnel dont l
 
 <sup>4</sup> La partie des primes afférente au risque de maladie des assurés à titre professionnel engagés à temps partiel est égale à celle qu’ils devraient verser s’ils avaient été engagés à plein temps.
 
-[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
+[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
 [^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Prime pour les prestations en cas d’accident des assurés auprès de l’assurance de base facultative**[^28b-1]
 
-Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 52 francs par mois.
+Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 61 francs par mois.
 
-[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
+[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
 
 #### Art. 28c
 
