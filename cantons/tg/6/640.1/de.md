@@ -4,13 +4,13 @@ number: "640.1"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-14
+version: 2025-01-01
+valid_until: 2028-12-31
+version_adopted: 2025-02-19
 adopted: 1992-09-14
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2799/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ StG
 
 (StG)
 
-vom 14.09.1992 (Stand 01.07.2024)
+vom 14.09.1992 (Stand 01.01.2025)
 
 ## 1. Teil: Staatssteuern
 
@@ -584,6 +584,8 @@ vom 14.09.1992 (Stand 01.07.2024)
 
 <sup>2</sup> …
 
+<sup>3</sup> Die steuerpflichtige Person kann anstelle der tatsächlichen Kosten und Prämien gemäss Abs. 1 Ziff. 1 einen Pauschalabzug geltend machen (Wahlpauschale). Der Regierungsrat regelt diesen Pauschalabzug.
+
 [^34-1]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
 [^34-2]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
 
@@ -601,18 +603,18 @@ vom 14.09.1992 (Stand 01.07.2024)
 
 #### § 36
 
-**Sozialabzüge[^36-1]**
+**Sozialabzüge [^36-1]**
 
 <sup>1</sup> …
 
 <sup>2</sup> Vom Reineinkommen werden abgezogen:
 
 - 1\. für nicht selbständig besteuerte, für in Ausbildung stehende oder erwerbsunfähige Kinder, für deren Unterhalt der Steuerpflichtige aufkommt,
-  - a. je Kind — Fr. 7'300
-  - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'300
-  - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'400
+  - a. je Kind — Fr. 7'400
+  - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'500
+  - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'600
 - 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Abs. 2 Ziff. 1 gewährt wird, — Fr. 2'700
-- 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'200; beträgt das Reineinkommen mehr als Fr. 16'700, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 24'000, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
+- 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'200; beträgt das Reineinkommen mehr als Fr. 16'900, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 24'300, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
 - 4\.–5. …
 
 <sup>3</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgesetzt.
@@ -625,7 +627,7 @@ vom 14.09.1992 (Stand 01.07.2024)
 
 <sup>7</sup> Erhält ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder Unterhaltsbeiträge, die er gemäss § 25 Ziff. 5 zu versteuern hat, stehen die Abzüge gemäss Abs. 2 Ziff. 1 ihm zu. Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge regelt der Regierungsrat die Zuteilung der Abzüge.
 
-[^36-1]: Anpassung der Beträge gemäss § 40 Abs. 2 StG und § 1 der Verordnung über den Ausgleich der kalten Progression (VAKP; RB [640.13](https://www.rechtsbuch.tg.ch/data/640.13/de)).
+[^36-1]: Die Beträge wurden gemäss § 40 Abs. 2 StG und § 1 der Verordnung über den Ausgleich der kalten Progression (VAKP; RB [640.13](https://www.rechtsbuch.tg.ch/data/640.13/de)) an die Teuerung angepasst. Abgedruckt sind die angepassten Beträge, letzte Anpassung per 1. Januar 2025.
 
 ### 1.2.2.5. Steuerberechnung
 
@@ -635,18 +637,18 @@ vom 14.09.1992 (Stand 01.07.2024)
 
 <sup>1</sup> Die einfache Steuer vom Einkommen beträgt:
 
-- 1\. Fr. 0 bis Fr. 12'100 und 2 % für den Mehrbetrag
-- 2\. Fr. 48 bis Fr. 14'500 und 3 % für den Mehrbetrag
-- 3\. Fr. 111 bis Fr. 16'600 und 4 % für den Mehrbetrag
-- 4\. Fr. 195 bis Fr. 18'700 und 5 % für den Mehrbetrag
-- 5\. Fr. 300 bis Fr. 20'800 und 6 % für den Mehrbetrag
-- 6\. Fr. 1'236 bis Fr. 36'400 und 7 % für den Mehrbetrag
-- 7\. Fr. 4'519 bis Fr. 83'300 und 7.5 % für den Mehrbetrag
-- 8\. Fr. 10'001.50 bis Fr. 156'400 und 8 % für den Mehrbetrag
+- 1\. Fr. 0 bis Fr. 12'200 und 2 % für den Mehrbetrag
+- 2\. Fr. 48 bis Fr. 14'600 und 3 % für den Mehrbetrag
+- 3\. Fr. 114 bis Fr. 16'800 und 4 % für den Mehrbetrag
+- 4\. Fr. 198 bis Fr. 18'900 und 5 % für den Mehrbetrag
+- 5\. Fr. 303 bis Fr. 21'000 und 6 % für den Mehrbetrag
+- 6\. Fr. 1'251 bis Fr. 36'800 und 7 % für den Mehrbetrag
+- 7\. Fr. 4'583 bis Fr. 84'400 und 7.5 % für den Mehrbetrag
+- 8\. Fr. 10'133 bis Fr. 158'400 und 8 % für den Mehrbetrag
 
 <sup>2</sup> Für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, wird der Steuersatz ermittelt, indem das steuerbare Einkommen durch den Divisor 2,0 geteilt wird. Massgebend sind die Verhältnisse am Ende der Steuerperiode oder der Steuerpflicht.
 
-[^37-1]: Anpassung der Beträge gemäss § 40 Abs. 2 StG und § 2 der Verordnung über den Ausgleich der kalten Progression (VAKP; RB [640.13](https://www.rechtsbuch.tg.ch/data/640.13/de)).
+[^37-1]: Die Beträge wurden gemäss § 40 Abs. 2 StG und § 1 der Verordnung über den Ausgleich der kalten Progression (VAKP; RB [640.13](https://www.rechtsbuch.tg.ch/data/640.13/de)) an die Teuerung angepasst. Abgedruckt sind die angepassten Beträge, letzte Anpassung per 1. Januar 2025.
 
 #### § 38
 
@@ -2494,7 +2496,7 @@ vom 14.09.1992 (Stand 01.07.2024)
 
 <sup>1</sup> Die Steuern vom Grundeigentum sind gemäss § 68 EG ZGB[^198-1] grundpfandgesichert.
 
-<sup>2</sup> Das Grundpfand besteht für alle Steuerforderungen, die durch das Halten oder Veräussern von Liegenschaften entstehen.
+<sup>2</sup> Das Grundpfand besteht für alle Steuerforderungen, die durch das Halten oder Veräussern von Grundstücken im Sinne von Art. 655 ff. ZGB entstehen.
 
 <sup>3</sup> Der Erwerber kann von der Steuerverwaltung Auskunft über die anfallenden Steuern verlangen.
 
@@ -2518,17 +2520,21 @@ vom 14.09.1992 (Stand 01.07.2024)
 
 <sup>2</sup> ...
 
-### 1.10.5. Ablieferung und Aufteilung
+### 1.10.5. Entschädigungen, Ablieferung und Aufteilung
 
 #### § 201
 
-**Mitwirkungsentschädigung**
+**Mitwirkungs- und Veranlagungsentschädigung**
 
-<sup>1</sup> Für die Mithilfe bei der Veranlagung der Steuerpflichtigen sowie für den Bezug und die Ablieferung der Staatssteuer erhalten die Politischen Gemeinden jährlich eine Entschädigung von insgesamt zwei Prozent der einfachen Staatssteueranlage zu 100 Prozent. Die Aufteilung auf die einzelnen Gemeinden wird durch die Steuerverwaltung aufgrund der Anzahl Steuerpflichtiger gemäss Steuerrevisionstabelle und der einfachen Staatssteueranlage des Vorjahres vorgenommen.
+<sup>1</sup> Die Gemeinden erhalten eine Mitwirkungsentschädigung für die Kosten zur Führung eines Gemeindesteueramts auf der Grundlage eines durchschnittlichen Kostenansatzes, der den Staatssteueranteil abdeckt. Dieser Kostenansatz wird regelmässig durch die Steuerverwaltung überprüft und im Bedarfsfall angepasst. Die Mitwirkungsentschädigung umfasst zudem eine Kompetenz- und eine Leistungskomponente, die durch den Regierungsrat festgelegt werden.
 
-<sup>2</sup> Soweit die Gemeinde bei der Veranlagung natürlicher Personen mitwirkt, wird eine zusätzliche Entschädigung vergütet, deren Höhe der Regierungsrat festlegt.
+<sup>1<sup>bis</sup></sup> Zu den entschädigungspflichtigen Aufgaben bei der Führung eines Gemeindesteueramts gehören insbesondere das Führen des Steuerregisters sowie der Bezug und die Ablieferung der Staats- und Gemeindesteuern natürlicher Personen. Der Regierungsrat regelt die Einzelheiten.
 
-<sup>3</sup> Einer Gemeinde, welche die Aufgaben gemäss vorgegebenem Leistungsauftrag nicht umfassend erledigt, den Steuerbezug oder die Ablieferung der Steuer an den Staat nicht vorschriftsgemäss durchführt, wird die Mitwirkungsentschädigung nicht oder nur zum Teil ausgerichtet.
+<sup>2</sup> Die Gemeinden erhalten eine Veranlagungsentschädigung für die Mitwirkung an der Veranlagung natürlicher Personen. Der Regierungsrat regelt die Mindestanforderungen und die Höhe der Veranlagungsentschädigung.
+
+<sup>3</sup> Das zuständige Departement kann die Mitwirkungs- und Veranlagungsentschädigung kürzen, wenn entschädigungspflichtige Aufgaben nicht oder nur mangelhaft erfüllt werden.
+
+<sup>4</sup> Der Kanton fördert die Zusammenarbeit von Gemeinden in Form von Gemeindeverbünden.
 
 #### § 202
 
