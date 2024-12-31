@@ -3,16 +3,16 @@ sr: "0.232.121.42"
 title: Ausführungsordnung vom 30. September 2003 der Genfer Akte (1999) des Haager Abkommens betreffend die internationale Eintragung gewerblicher Muster und Modelle (mit Gebührenverzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Gemeinsame Ausführungsordnung zur Fassung von 1999 und der Fassung von 1960 des Haager Abkommens
+# Ausführungsordnung der Genfer Akte (1999) des Haager Abkommens betreffend die internationale Eintragung gewerblicher Muster und Modelle
 
 AS **2006** 1375[^t-1]
 
@@ -22,9 +22,9 @@ Angenommen von der Versammlung des Haager Verbands am 30. September 2003
 
 In Kraft getreten am 1. April 2004
 
-(Stand am 1. Januar 2024)
+(Stand am 1. Januar 2025)
 
-[^t-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 30. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
+[^t-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
@@ -32,42 +32,23 @@ In Kraft getreten am 1. April 2004
 
 [^chap1-lvlu1-1]
 
-[^chap1-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap1-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
-\1) [*Abkürzungen*] Im Sinne dieser Ausführungsordnung bedeutet:
+Im Sinne dieser Ausführungsordnung bedeutet:
 
-- i) «Fassung von 1999», die am 2. Juli 1999[^chap1-lvlu1-2] in Genf unterzeichnete Fassung des Haager Abkommens;
+- i) «Fassung», die am 2. Juli 1999[^chap1-lvlu1-2] in Genf unterzeichnete Fassung des Haager Abkommens;
 - ii) «Fassung von 1960», die am 28. November 1960[^chap1-lvlu1-3] im Haag unterzeichnete Fassung des Haager Abkommens;
-- iii) ein Begriff, der in der vorliegenden Ausführungsordnung verwendet wird, und auf den in Artikel 1 des Abkommens in der Fassung von 1999 verwiesen wird, hat dieselbe Bedeutung wie in diesem Abkommen;
+- ii<sup>bis</sup>) «Artikel» ein Artikel der Fassung, sofern nichts anderes angegeben wird;
+- iii) ein Begriff, der in der vorliegenden Ausführungsordnung verwendet wird, und auf den in Artikel 1 der Fassung verwiesen wird, hat dieselbe Bedeutung wie in dieser Fassung;
 - iv) «Verwaltungsvorschriften» die Verwaltungsvorschriften nach Regel 34;
 - v) «Mitteilung» eine internationale Anmeldung oder einen Antrag, eine Erklärung, Aufforderung, Benachrichtigung oder Information, die sich auf eine internationale Anmeldung oder eine internationale Eintragung bezieht oder einer solchen beigefügt ist und in einer nach der vorliegenden Ausführungsordnung oder den Verwaltungsvorschriften zulässigen Weise an das Amt einer Vertragspartei, an das Internationale Büro, den Anmelder oder Inhaber gerichtet ist;
-- vi)[^chap1-lvlu1-4] «amtliches Formblatt» bedeutet ein vom Internationalen Büro erstelltes Formblatt oder eine vom Internationalen Büro auf der Website der Organisation bereitgestellte elektronische Schnittstelle oder jedes Formblatt oder jede elektronische Schnittstelle gleichen Inhalts und gleichen Formats;
+- vi) «amtliches Formblatt» bedeutet ein vom Internationalen Büro erstelltes Formblatt oder eine vom Internationalen Büro auf der Website der Organisation bereitgestellte elektronische Schnittstelle oder jedes Formblatt oder jede elektronische Schnittstelle gleichen Inhalts und gleichen Formats;
 - vii) «Internationale Klassifikation» die durch das Abkommen von Locarno zur Errichtung einer internationalen Klassifikation für gewerbliche Muster und Modelle geschaffene Klassifikation;
 - viii) «vorgeschriebene Gebühr» die im Gebührenverzeichnis festgesetzte geltende Gebühr;
-- ix) «Bulletin» das in regelmässigen Abständen erscheinende Bulletin, in dem das Internationale Büro die Veröffentlichung nach dem Abkommen in der Fassung von 1999, der Fassung von 1960 oder dieser Ausführungsordnung vornimmt, unabhängig von dem benutzten Medium.
-- x) «bestimmte Vertragspartei nach der Fassung von 1999» eine bestimmte Vertragspartei, auf die das Abkommen in der Fassung von 1999 anwendbar ist, sei es weil es sich um das einzige gemeinsame Abkommen handelt, das diese bestimmte Vertragspartei und die Vertragspartei des Anmelders bindet, sei es in Anwendung des Artikels 31.1), erster Satz, des Abkommens in der Fassung von 1999;
-- xi) «bestimmte Vertragspartei nach der Fassung von 1960» eine bestimmte Vertragspartei, auf die das Abkommen in der Fassung von 1960 anwendbar ist, sei es weil es sich um das einzige gemeinsame Abkommen handelt, das diese bestimmte Vertragspartei und den Ursprungsstaat nach Artikel 2 des Abkommens in der Fassung von 1960 bindet, sei es in Anwendung des Artikels 31.1), zweiter Satz, des Abkommens in der Fassung von 1999;
-- xii) «internationale Anmeldung, die ausschliesslich durch das Abkommen in der Fassung von 1999 geregelt ist» eine internationale Anmeldung, für welche alle bestimmten Vertragsparteien als bestimmte Vertragsparteien nach dem Abkommen in der Fassung von 1999 gelten;
-- xiii) «internationale Anmeldung, die ausschliesslich durch das Abkommen in der Fassung von 1960 geregelt ist» eine internationale Anmeldung, für welche alle bestimmten Vertragsparteien als bestimmte Vertragsparteien nach dem Abkommen in der Fassung von 1960 gelten;
-- xiv)
-
-  «internationale Anmeldung, die gleichzeitig durch das Abkommen in der Fassung von 1999 und das Abkommen in der Fassung von 1960 geregelt ist» eine internationale Anmeldung, für welche:
-
-  - – mindestens eine Vertragspartei aufgrund der Fassung von 1999 bestimmt wurde,
-  - – mindestens eine Vertragspartei aufgrund der Fassung von 1960 bestimmt wurde.
-
-\2) [*Übereinstimmung zwischen einigen in den Abkommen in der Fassung von 1999 und dem Abkommen in der Fassung von 1960 verwendeten Begriffen*] Im Sinne dieser Ausführungsordnung:
-
-- i) beinhaltet ein Verweis auf die Ausdrücke «internationale Anmeldung» oder «internationale Eintragung» gegebenenfalls einen Verweis auf den Ausdruck «internationale Hinterlegung» nach dem Abkommen in der Fassung von 1960;
-- ii) beinhaltet ein Verweis auf die Begriffe «Anmelder» und «Inhaber» gegebenenfalls einen Verweis auf die Begriffe «Anmelder» und «Inhaber» nach dem Abkommen in der Fassung von 1960[^chap1-lvlu1-5];
-- iii) beinhaltet ein Verweis auf den Ausdruck «Vertragspartei» gegebenenfalls einen Verweis auf einen dem Abkommen in der Fassung von 1960 angehörenden Staat;
-- iv) beinhaltet ein Verweis auf den Ausdruck «Vertragspartei, deren Amt ein prüfendes Amt ist» gegebenenfalls einen Verweis auf den in Artikel 2 des Abkommens in der Fassung von 1960 definierten Ausdruck «Staat mit Neuheitsprüfung»;
-- v) beinhaltet ein Verweis auf den Ausdruck «Standard-Bestimmungsgebühr» gegebenenfalls einen Verweis auf die in Artikel 15 Absatz 1 Ziffer 2 Buchstabe b des Abkommens in der Fassung von 1960 erwähnte Gebühr.
+- ix) «Bulletin» das in regelmässigen Abständen erscheinende Bulletin, in dem das Internationale Büro die Veröffentlichung in der Fassung oder in dieser Ausführungsordnung vornimmt, unabhängig von dem benutzten Medium.
 
 [^chap1-lvlu1-2]: [SR 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
 [^chap1-lvlu1-3]: [SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
-[^chap1-lvlu1-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 2. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^chap1-lvlu1-5]: Diese Bestimmung ist dadurch gerechtfertigt, dass sich in der englischen Fassung der Texte die verwendete Terminologie für diese Begriffe zwischen dem Abkommen in der Fassung von 1999 und dem Abkommen in der Fassung von 1960 unterscheidet («applicant» und «holder» bzw. «depositor» und «owner»).
 
 ### **Regel 2**Mitteilungen an das Internationale Büro
 
@@ -122,23 +103,13 @@ Mitteilungen an das Internationale Büro sind in der in den Verwaltungsvorschrif
 
 [^chap1-lvlu5-1]
 
-[^chap1-lvlu5-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 11. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^chap1-lvlu5-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
-\1) [*Entschuldigung der Fristversäumnis aufgrund von höherer Gewalt*] Versäumt ein Beteiligter eine in der Ausführungsordnung vorgesehene Frist für die Vornahme einer Handlung, die an das Internationale Büro gerichtet ist, so wird dies entschuldigt, wenn der Beteiligte dem Internationalen Büro überzeugend nachweist, dass die Fristversäumnis durch einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe, eine Epidemie, eine Störung der Postdienste, des Postversands oder der elektronischen Kommunikation infolge von Umständen, auf die der Beteiligte keinen Einfluss hat, oder aus einem anderen Grund höherer Gewalt verursacht wurde.[^chap1-lvlu5-2]
+\1) [*Entschuldigung der Fristversäumnis aufgrund von höherer Gewalt*] Versäumt ein Beteiligter eine in der Ausführungsordnung vorgesehene Frist für die Vornahme einer Handlung, die an das Internationale Büro gerichtet ist, so wird dies entschuldigt, wenn der Beteiligte dem Internationalen Büro überzeugend nachweist, dass die Fristversäumnis durch einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe, eine Epidemie, eine Störung der Postdienste, des Postversands oder der elektronischen Kommunikation infolge von Umständen, auf die der Beteiligte keinen Einfluss hat, oder aus einem anderen Grund höherer Gewalt verursacht wurde.
 
-\2) [*Befreiung vom Nachweis; Mitteilung statt Nachweis*] Das Internationale Büro kann die in Absatz 1) bezeichnete Nachweispflicht aufheben. In diesem Fall muss der Beteiligte eine Mitteilung einreichen, gemäss der das Fristversäumnis auf denselben Grund wie die Aufhebung der Nachweispflicht durch das Internationale Büro zurückzuführen ist.[^chap1-lvlu5-3]
+\2) [*Befreiung vom Nachweis; Mitteilung statt Nachweis*] Das Internationale Büro kann die in Absatz 1) bezeichnete Nachweispflicht aufheben. In diesem Fall muss der Beteiligte eine Mitteilung einreichen, gemäss der das Fristversäumnis auf denselben Grund wie die Aufhebung der Nachweispflicht durch das Internationale Büro zurückzuführen ist.
 
-\3) [*Einschränkung der Entschuldigung*] Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachweis nach Absatz 1) oder die Mitteilung nach Absatz 2) sobald als vernunftgemäss möglich und spätestens sechs Monate nach Ablauf der anwendbaren Frist beim Internationalen Büro eingeht beziehungsweise die entsprechende Handlung vorgenommen wird.[^chap1-lvlu5-4]
-
-\4) [*Einschränkung der Entschuldigung*] Ein Fristversäumnis wird nach dieser Regel nur entschuldigt, wenn der in Absatz 1), 2) oder 3) bezeichnete Nachweis und die Mitteilung oder gegebenenfalls ein Duplikat davon innerhalb von sechs Monaten nach Fristablauf beim Internationalen Büro eingehen.[^chap1-lvlu5-5]
-
-\5) [*Ausnahme*] Diese Regel ist nicht auf die Bezahlung des zweiten Teilbetrags der individuellen Bestimmungsgebühr über das Internationale Büro nach Regel 12 Absatz 3 Buchstabe c anwendbar.[^chap1-lvlu5-6]
-
-[^chap1-lvlu5-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^chap1-lvlu5-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^chap1-lvlu5-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^chap1-lvlu5-5]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 11. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^chap1-lvlu5-6]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 11. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+\3) [*Einschränkung der Entschuldigung*] Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachweis nach Absatz 1) oder die Mitteilung nach Absatz 2) sobald als vernunftgemäss möglich und spätestens sechs Monate nach Ablauf der anwendbaren Frist beim Internationalen Büro eingeht beziehungsweise die entsprechende Handlung vorgenommen wird.
 
 ### **Regel 6**Sprachen
 
@@ -162,15 +133,19 @@ Mitteilungen an das Internationale Büro sind in der in den Verwaltungsvorschrif
 
 ### **Regel 7**Erfordernisse bezüglich der internationalen Anmeldung
 
+[^chap2-lvlu1-1]
+
+[^chap2-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
 \1) [*Formular und Unterschrift*] Die internationale Anmeldung ist auf dem amtlichen Formular einzureichen. Die internationale Anmeldung ist vom Anmelder zu unterzeichnen.
 
 \2) [*Gebühren*] Die für die internationale Anmeldung geltenden vorgeschriebenen Gebühren sind entsprechend den Regeln 27 und 28 zu entrichten.
 
 \3) [*Zwingend vorgeschriebener Inhalt der internationalen Anmeldung*] Die internationale Anmeldung muss folgendes enthalten oder angeben:
 
-- i)[^chap2-lvlu1-1] den Namen des Anmelders, der nach Massgabe der Verwaltungsvorschriften anzugeben ist;
-- ii)[^chap2-lvlu1-2] die Anschrift, die nach Massgabe der Verwaltungsvorschriften anzugeben ist, sowie die E-Mail-Adresse des Anmelders;
-- iii) die Vertragspartei oder die Vertragsparteien, für die der Anmelder die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
+- i) den Namen des Anmelders, der nach Massgabe der Verwaltungsvorschriften anzugeben ist;
+- ii) die Anschrift, die nach Massgabe der Verwaltungsvorschriften anzugeben ist, sowie die E‑Mail-Adresse des Anmelders;
+- iii) die Vertragspartei oder die Vertragsparteien, für die der Anmelder die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt, und die Vertragspartei des Anmelders;
 - iv) das Erzeugnis oder die Erzeugnisse, die das gewerbliche Muster oder Modell darstellen oder für die das gewerbliche Muster oder Modell verwendet werden soll; hierbei ist anzugeben, ob das Erzeugnis oder die Erzeugnisse das gewerbliche Muster oder Modell darstellen, oder ob es sich um Erzeugnisse handelt, für die das gewerbliche Muster oder Modell verwendet werden soll; zur Bezeichnung des Erzeugnisses oder der Erzeugnisse sind vorzugsweise die Begriffe des Warenverzeichnisses der Internationalen Klassifikation zu verwenden;
 - v) die Anzahl der gewerblichen Muster und Modelle, die der internationalen Anmeldung beigefügt sind und die Anzahl 100 nicht übersteigen dürfen, und die Anzahl der Abbildungen der gewerblichen Muster oder Modelle oder der Musterabschnitte, die der internationalen Anmeldung nach Regel 9 oder 10 beigefügt sind;
 - vi) die bestimmten Vertragsparteien;
@@ -178,43 +153,37 @@ Mitteilungen an das Internationale Büro sind in der in den Verwaltungsvorschrif
 
 \4) [*Zusätzlicher zwingend vorgeschriebener Inhalt einer internationalen Anmeldung*]
 
-- a) Hinsichtlich der in einer internationalen Anmeldung nach dem Abkommen in der Fassung von 1999 bestimmten Vertragsparteien hat diese Anmeldung nebst den Angaben nach Absatz 3 Ziffer iii) die Angabe der Vertragspartei des Anmelders zu enthalten.
-- b) Hat eine Vertragspartei nach dem Abkommen in der Fassung von 1999 den Generaldirektor nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 davon in Kenntnis gesetzt, dass nach ihrem Recht ein oder mehrere Bestandteile erforderlich sind, auf die in Artikel 5 Absatz 2 Buchstabe b des Abkommens in der Fassung von 1999 verwiesen wird, so hat die internationale Anmeldung diesen Bestandteil oder diese Bestandteile wie in Regel 11 vorgeschrieben zu enthalten.
-- c) Ist Regel 8 anwendbar, so muss die internationale Anmeldung je nach Fall Angaben nach Regel 8 Absätze 2 und 3 enthalten und mit jeglicher darin erwähnter Erklärung, Eidesaussage oder Bestätigung einhergehen.[^chap2-lvlu1-3]
-- [tab] 5) [*Fakultativer Inhalt einer internationalen Anmeldung*]
-- a) Jeder Bestandteil, auf den in Artikel 5 Absatz 2 Buchstabe b Ziffer i oder ii des Abkommens in der Fassung von 1999 oder auf den in Artikel 8 Absatz 4 Buchstabe a des Abkommens in der Fassung von 1960 verwiesen wird, kann in die internationale Anmeldung aufgenommen werden, wenn der Anmelder dies wünscht, selbst wenn dieser Bestandteil aufgrund einer Erklärung nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 oder aufgrund eines Erfordernisses gemäss Artikel 8 Absatz 4 Buchstabe a des Abkommens in der Fassung von 1960 nicht erforderlich ist.
-- b)[^chap2-lvlu1-4] Hat der Anmelder einen Vertreter bestellt, so sind in der internationalen Anmeldung Name und Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des Vertreters anzugeben.
+- a) Hat eine Vertragspartei den Generaldirektor nach Artikel 5 Absatz 2 Buchstabe a davon in Kenntnis gesetzt, dass nach ihrem Recht ein oder mehrere Bestandteile erforderlich sind, auf die in Artikel 5 Absatz 2 Buchstabe b verwiesen wird, so hat die internationale Anmeldung diesen Bestandteil oder diese Bestandteile wie in Regel 11 vorgeschrieben zu enthalten.
+- b) Ist Regel 8 anwendbar, so muss die internationale Anmeldung je nach Fall Angaben nach Regel 8 Absätze 2 und 3 enthalten und mit jeglicher darin erwähnter Erklärung, Eidesaussage oder Bestätigung einhergehen.
+
+\5) [*Fakultativer Inhalt einer internationalen Anmeldung*]
+
+- a) Jeder Bestandteil, auf den in Artikel 5 Absatz 2 Buchstabe b Ziffer i oder ii verwiesen wird, kann in die internationale Anmeldung aufgenommen werden, wenn der Anmelder dies wünscht, selbst wenn dieser Bestandteil aufgrund einer Erklärung nach Artikel 5 Absatz 2 Buchstabe a nicht erforderlich ist.
+- b) Hat der Anmelder einen Vertreter bestellt, so sind in der internationalen Anmeldung Name und Anschrift entsprechend den Verwaltungsvorschriften sowie die E‑Mail-Adresse des Vertreters anzugeben.
 - c) Wünscht der Anmelder nach Artikel 4 der Pariser Verbandsübereinkunft die Priorität einer früheren Hinterlegung in Anspruch zu nehmen, so hat die internationale Anmeldung eine Erklärung zu enthalten, dass die Priorität der früheren Hinterlegung beansprucht wird, und den Namen des Amtes anzugeben, bei dem diese Hinterlegung erfolgte, sowie das Datum und, soweit verfügbar, das Aktenzeichen dieser Hinterlegung und, sofern sich der Prioritätsanspruch nicht auf alle in dieser internationalen Anmeldung enthaltenen gewerblichen Muster oder Modelle bezieht, die Angabe der gewerblichen Muster oder Modelle, auf die sich der Prioritätsanspruch bezieht oder nicht bezieht.
 - d) Wünscht der Anmelder Artikel 11 der Pariser Verbandsübereinkunft in Anspruch zu nehmen, so hat die internationale Anmeldung eine Erklärung zu enthalten, dass das Erzeugnis oder die Erzeugnisse, die das gewerbliche Muster oder Modell darstellen, oder in denen das gewerbliche Muster oder Modell Verwendung findet, bei einer offiziellen oder offiziell anerkannten internationalen Ausstellung zur Schau gestellt worden sind; zugleich sind der Ort und der Tag der erstmaligen Zurschaustellung des Erzeugnisses oder der Erzeugnisse anzugeben und, sofern es sich nicht um alle in dieser internationalen Anmeldung enthaltenen gewerblichen Muster oder Modelle handelt, diejenigen gewerblichen Muster oder Modelle, auf die sich die Erklärung bezieht oder nicht bezieht.
 - e) Wünscht der Anmelder einen Aufschub der Veröffentlichung des gewerblichen Musters oder Modells, so hat die internationale Anmeldung einen Antrag auf Aufschub der Veröffentlichung zu enthalten.
 - f) Die internationale Anmeldung kann auch Erklärungen, Feststellungen oder andere massgebliche Angaben enthalten, die gegebenenfalls in den Verwaltungsvorschriften angegeben sind.
+- g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welcher Informationen genannt werden, die nach Kenntnis des Anmelders für die Schutzfähigkeit des betreffenden gewerblichen Musters oder Modells von wesentlicher Bedeutung sind.
 
-g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welcher Informationen genannt werden, die nach Kenntnis des Anmelders für die Schutzfähigkeit des betreffenden gewerblichen Musters oder Modells von wesentlicher Bedeutung sind.
-
-\6) [*Keine zusätzlichen Angaben*] Enthält die internationale Anmeldung andere als die nach dem Abkommen in der Fassung von 1999, nach dem Abkommen in der Fassung von 1960, dieser Ausführungsordnung oder den Verwaltungsvorschriften vorgeschriebenen oder zulässigen Angaben, so werden diese vom Internationalen Büro von Amtes wegen gestrichen. Sind der internationalen Anmeldung andere als die vorgeschriebenen oder zulässigen Unterlagen beigefügt, so kann das Internationale Büro über diese Unterlagen verfügen.[^chap2-lvlu1-5]
+\6) [*Keine zusätzlichen Angaben*] Enthält die internationale Anmeldung andere als die nach der Fassung, dieser Ausführungsordnung oder den Verwaltungsvorschriften vorgeschriebenen oder zulässigen Angaben, so werden diese vom Internationalen Büro von Amtes wegen gestrichen. Sind der internationalen Anmeldung andere als die vorgeschriebenen oder zulässigen Unterlagen beigefügt, so kann das Internationale Büro über diese Unterlagen verfügen.
 
 \7) [*Zugehörigkeit aller Erzeugnisse zu derselben Klasse*] Alle Erzeugnisse, die die gewerblichen Muster oder Modelle darstellen, auf die sich eine internationale Anmeldung bezieht, oder für welche die gewerblichen Muster oder Modelle verwendet werden sollen, müssen derselben Klasse der Internationalen Klassifikation angehören.
-
-[^chap2-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap2-lvlu1-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap2-lvlu1-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 2. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^chap2-lvlu1-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap2-lvlu1-5]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ### **Regel 8**Besondere Erfordernisse bezüglich des Anmelders
 
 [^chap2-lvlu2-1]
 
-[^chap2-lvlu2-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 2. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap2-lvlu2-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 \1) [*Unterrichtung über besondere Erfordernisse bezüglich des Anmelders und des Schöpfers*]
 
-- a) i) Sieht das Recht einer durch das Abkommen in der Fassung von 1999 gebundenen Vertragspartei vor, dass ein Antrag auf Schutzerteilung für ein gewerbliches Muster oder Modell im Namen des Schöpfers des gewerblichen Musters oder Modells einzureichen ist, so kann diese Vertragspartei den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen.
-  - ii) Sieht das Recht einer durch die Fassung von 1999 gebundenen Vertragspartei eine Eidesaussage oder eine Bestätigung des Schöpfers vor, so kann diese Vertragspartei den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen.
+- a) i) Sieht das Recht einer Vertragspartei vor, dass ein Antrag auf Schutzerteilung für ein gewerbliches Muster oder Modell im Namen des Schöpfers des gewerblichen Musters oder Modells einzureichen ist, so kann diese Vertragspartei den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen.
+  - ii) Sieht das Recht einer gebundenen Vertragspartei eine Eidesaussage oder eine Bestätigung des Schöpfers vor, so kann diese Vertragspartei den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen.
 
 - b) Die Erklärung nach Buchstabe a Ziffer i) hat die Form und den zwingend vorgeschriebenen Inhalt einer Mitteilung oder eines Schriftstücks anzugeben, welche(s) für die Zwecke des Absatzes 2 erforderlich ist. Die Erklärung nach Buchstabe a Ziffer ii) hat die Form und den zwingend vorgeschriebenen Inhalt der erforderlichen Eidesaussage oder Bestätigung anzugeben.
 
-\2) [*Identität des Schöpfers und Übertragung der internationalen Anmeldung*] Enthält eine internationale Anmeldung die Bestimmung einer Vertragspartei, welche die Erklärung nach Absatz 1 Buchstabe a Ziffer i) abgegeben hat,
+\2) [*Identität des Schöpfers und Übertragung der internationalen Anmeldung*] Enthält eine internationale Anmeldung die Bestimmung einer Vertragspartei, welche die Erklärung nach Absatz 1 Buchstabe a Ziffer i) abgegeben hat:
 
 - i) so hat sie auch Angaben zur Identität des Schöpfers des gewerblichen Musters oder Modells zusammen mit einer Erklärung zu enthalten, welche den Erfordernissen nach Absatz 1 Buchstabe b entspricht, dass letzterer der Schöpfer des gewerblichen Musters oder Modells zu sein glaubt; die so als Schöpfer identifizierte Person gilt für die Zwecke der Bestimmung dieser Vertragspartei als Anmelder, unabhängig davon, wer nach Regel 7 Absatz 3 Ziffer i) als Anmelder genannt ist;
 - ii) ist die als Schöpfer identifizierte Person nicht die nach Regel 7 Absatz 3 Ziffer i) als Anmelder genannte Person, so ist der internationalen Anmeldung eine Erklärung oder ein Schriftstück beizufügen, das den in Absatz 1 Buchstabe b bezeichneten Erfordernissen entspricht und besagt, dass die internationale Anmeldung von der Person des Schöpfers auf die als Anmelder genannte Person übertragen worden ist. Letztere Person wird als Inhaber der internationalen Eintragung registriert.
@@ -222,6 +191,10 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 \3) [*Identität des Schöpfers und Eidesaussage oder Bestätigung des Schöpfers*] Enthält eine internationale Anmeldung die Bestimmung einer Vertragspartei, welche die Erklärung nach Absatz 1 Buchstabe a Ziffer ii) abgegeben hat, so muss sie auch Angaben zur Identität des Schöpfers des gewerblichen Musters oder Modells enthalten.
 
 ### **Regel 9**Abbildungen des gewerblichen Musters oder Modells
+
+[^chap2-lvlu3-1]
+
+[^chap2-lvlu3-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 \1) [*Form und Anzahl der Abbildungen des gewerblichen Musters oder Modells*]
 
@@ -235,29 +208,41 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 
 \3) [*Erforderliche Ansichten*]
 
-- a) Vorbehaltlich des Buchstabens b hat jede durch das Abkommen in der Fassung von 1999 gebundene Vertragspartei, die bestimmte angegebene Ansichten des Erzeugnisses oder der Erzeugnisse verlangt, die das gewerbliche Muster oder Modell darstellen oder für die das gewerbliche Muster oder Modell verwendet werden soll, den Generaldirektor hiervon in einer Erklärung zu notifizieren und dabei anzugeben, welche Ansichten erforderlich sind und unter welchen Umständen sie verlangt werden.
+- a) Vorbehaltlich des Buchstabens b hat jede Vertragspartei, die bestimmte angegebene Ansichten des Erzeugnisses oder der Erzeugnisse verlangt, die das gewerbliche Muster oder Modell darstellen oder für die das gewerbliche Muster oder Modell verwendet werden soll, den Generaldirektor hiervon in einer Erklärung zu notifizieren und dabei anzugeben, welche Ansichten erforderlich sind und unter welchen Umständen sie verlangt werden.
 - b) Von einem flächenmässigen gewerblichen Muster oder Erzeugnis kann keine Vertragspartei mehr als eine Ansicht verlangen; von einem dreidimensionalen Erzeugnis nicht mehr als sechs Ansichten.
 
 \4) [*Schutzverweigerung aufgrund der Abbildungen des gewerblichen Musters oder Modells*] Eine Vertragspartei kann die Wirkungen der internationalen Eintragung nicht deshalb verweigern, weil Erfordernisse bezüglich der Form der Abbildungen des gewerblichen Musters oder Modells nach ihrem Recht nicht erfüllt sind, wenn es sich um Ergänzungen zu oder Abweichungen von den von dieser Vertragspartei nach Absatz 3 Buchstabe a bekannt gegebenen Erfordernissen handelt. Jedoch kann eine Vertragspartei die Wirkungen einer internationalen Eintragung mit der Begründung verweigern, dass die in der internationalen Eintragung enthaltenen Abbildungen zur vollständigen Offenbarung des gewerblichen Musters oder Modells nicht ausreichen.
 
 ### **Regel 10**Musterabschnitte (Exemplare) bei einem Gesuch auf Aufschub der Veröffentlichung
 
-\1) [*Anzahl der Musterabschnitte*] Enthält eine ausschliesslich durch das Abkommen in der Fassung von 1999 geregelte internationale Anmeldung einen Antrag auf Aufschub der Veröffentlichung hinsichtlich eines flächenmässigen gewerblichen Musters und sind diesem Antrag anstelle der Abbildungen nach Regel 9 Musterabschnitte beigefügt, so sind der internationalen Anmeldung die folgende Anzahl von Musterabschnitten beizufügen:
+[^chap2-lvlu4-1]
+
+[^chap2-lvlu4-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
+\1) [*Anzahl der Musterabschnitte*] Enthält eine internationale Anmeldung einen Antrag auf Aufschub der Veröffentlichung hinsichtlich eines flächenmässigen gewerblichen Musters und sind diesem Antrag anstelle der Abbildungen nach Regel 9 Musterabschnitte beigefügt, so sind der internationalen Anmeldung die folgende Anzahl von Musterabschnitten beizufügen:
 
 - i) ein Musterabschnitt für das Internationale Büro; und
-- ii) ein Musterabschnitt für jedes Bestimmungsamt, welches das Internationale Büro nach Artikel 10 Absatz 5 des Abkommens in der Fassung von 1999 unterrichtet hat, dass es Kopien von internationalen Eintragungen zu erhalten wünscht.
+- ii) ein Musterabschnitt für jedes Bestimmungsamt, welches das Internationale Büro nach Artikel 10 Absatz 5 unterrichtet hat, dass es Kopien von internationalen Eintragungen zu erhalten wünscht.
 
 \2) [*Musterabschnitte*] Alle Musterabschnitte müssen in einem einzigen Paket enthalten sein. Sie können gefaltet werden. Die Höchstmasse und das Höchstgewicht des Pakets werden in den Verwaltungsvorschriften angegeben.
 
 ### **Regel 11**Identität des Schöpfers; Beschreibung; Anspruch
 
+[^chap2-lvlu5-1]
+
+[^chap2-lvlu5-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
 \1) [*Identität des Schöpfers*] Enthält die internationale Anmeldung Angaben bezüglich der Identität des Schöpfers des gewerblichen Musters oder Modells, so sind sein Name und seine Anschrift nach den Verwaltungsvorschriften anzugeben.
 
 \2) [*Beschreibung*] Enthält die internationale Anmeldung eine Beschreibung, so hat sich diese auf diejenigen Merkmale zu beziehen, die in den Abbildungen des gewerblichen Musters oder Modells erscheinen und sich nicht auf technische Merkmale, die die Funktion der gewerblichen Muster und Modelle oder die Möglichkeiten der Verwendung betreffen, beziehen. Umfasst die Beschreibung mehr als 100 Wörter, so ist eine zusätzliche, im Gebührenverzeichnis festgesetzte Gebühr zu entrichten.
 
-\3) [*Anspruch*] Eine Erklärung nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999, dass nach dem Recht einer Vertragspartei ein Anspruch verlangt wird, damit einem Gesuch um Schutzerteilung für ein gewerbliches Muster oder Modell nach diesem Recht ein Anmeldedatum zuerkannt wird, hat den genauen Wortlaut des erforderlichen Anspruchs anzugeben. Enthält die internationale Anmeldung einen Anspruch, so ist er entsprechend dem in der Erklärung angegebenen Wortlaut abzufassen.
+\3) [*Anspruch*] Eine Erklärung nach Artikel 5 Absatz 2 Buchstabe a, dass nach dem Recht einer Vertragspartei ein Anspruch verlangt wird, damit einem Gesuch um Schutzerteilung für ein gewerbliches Muster oder Modell nach diesem Recht ein Anmeldedatum zuerkannt wird, hat den genauen Wortlaut des erforderlichen Anspruchs anzugeben. Enthält die internationale Anmeldung einen Anspruch, so ist er entsprechend dem in der Erklärung angegebenen Wortlaut abzufassen.
 
 ### **Regel 12**Gebühren für die internationale Anmeldung
+
+[^chap2-lvlu6-1]
+
+[^chap2-lvlu6-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 \1) [*Vorgeschriebene Gebühren*]
 
@@ -266,52 +251,45 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
   Für die internationale Anmeldung sind die folgenden Gebühren zu entrichten:
 
   - i) eine Grundgebühr;
-  - ii) eine Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 abgegeben hat, deren Stufe von der Erklärung in Buchstabe c abhängt;
-  - iii) eine individuelle Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 abgegeben hat;
+  - ii) eine Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 oder nach Regel 36 Absatz 1 abgegeben hat;
+  - iii) eine individuelle Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 oder nach Regel 36 Absatz 1 abgegeben hat;
   - iv) eine Veröffentlichungsgebühr.
 
-- b)
-
-  Die Stufe der Standard-Bestimmungsgebühr in Buchstabe a Ziffer ii) ist die Folgende:
-
-  - i) Stufe eins für Vertragsparteien deren Amt keine materielle Prüfung durchführt;
-  - ii) Stufe zwei für Vertragsparteien deren Amt eine materielle Prüfung durchführt, die keine Neuheitsprüfung ist;
-  - iii) Stufe drei für Vertragsparteien deren Amt eine materielle Prüfung und eine Neuheitsprüfung oder eine Neuheitsprüfung infolge eines Widerspruchs von Dritten durchführt.
-
-- c)
-  - i) Jede Vertragspartei deren Recht sie ermächtigt, die in Buchstabe b aufgeführten Stufen zwei oder drei anzuwenden, kann den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen. Eine Vertragspartei kann in ihrer Erklärung auch festhalten, dass sie Stufe zwei anwendet, obschon sie das Recht hätte, Stufe drei anzuwenden.
-  - ii) Jede Erklärung auf die in Ziffer i) verwiesen wird, wird drei Monate nachdem sie der Generaldirektor erhalten hat, wirksam oder zu jedem späteren Datum, das in der Erklärung angegeben ist. Sie kann auch jederzeit durch Mitteilung an den Generaldirektor zurückgezogen werden. In diesem Fall wird die Zurücknahme einen Monat nach Eingang der Mitteilung beim Generaldirektor oder zu einem späteren, in der Mitteilung angegebenen Datum wirksam. Bleibt eine solche Erklärung aus oder wird zurückgenommen, gilt für die betreffende Vertragspartei die Stufe eins als anwendbar auf die Standard-Bestimmungsgebühr.[^chap2-lvlu6-1]
+- b) Die Höhe der in den Ziffern i, ii, und iv bezeichneten Gebühren ergibt sich aus dem Gebührenverzeichnis.
 
 \2) [*Vorgeschriebener Zeitpunkt für die Entrichtung der Gebühren*] Die in Absatz 1 genannten Gebühren sind, vorbehaltlich des Absatzes 3, zum Zeitpunkt der Einreichung der internationalen Anmeldung zu entrichten; enthält die internationale Anmeldung jedoch einen Antrag auf Aufschub der Veröffentlichung, so kann die Veröffentlichungsgebühr nach Regel 16 Absatz 3 zu einem späteren Zeitpunkt entrichtet werden.
 
 \3) [*Individuelle Bestimmungsgebühr zahlbar in zwei Teilbeträgen*]
 
-- a) Eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 kann auch festlegen, dass die individuelle Bestimmungsgebühr, die für die betreffende Vertragspartei zu entrichten ist, aus zwei Teilbeträgen besteht, wobei der erste Teilbetrag zum Zeitpunkt der Einreichung der internationalen Anmeldung zu entrichten ist und der zweite Teilbetrag zu einem späteren Zeitpunkt, der sich nach dem Recht der betreffenden Vertragspartei bestimmt.
+- a) Eine Erklärung nach Artikel 7 Absatz 2 kann auch festlegen, dass die individuelle Bestimmungsgebühr, die für die betreffende Vertragspartei zu entrichten ist, aus zwei Teilbeträgen besteht, wobei der erste Teilbetrag zum Zeitpunkt der Einreichung der internationalen Anmeldung zu entrichten ist und der zweite Teilbetrag zu einem späteren Zeitpunkt, der sich nach dem Recht der betreffenden Vertragspartei bestimmt.
 - b) Findet Buchstabe a Anwendung, so wird der Hinweis auf eine individuelle Bestimmungsgebühr in Absatz 1 Ziffer iii als Hinweis auf den ersten Teil der individuellen Bestimmungsgebühr betrachtet.
 - c) Der zweite Teilbetrag der individuellen Bestimmungsgebühr kann nach Wahl des Anmelders entweder unmittelbar an das betreffende Amt oder durch das Internationale Büro entrichtet werden. Wird er unmittelbar an das betreffende Amt entrichtet, so unterrichtet das Amt das Internationale Büro entsprechend und das Internationale Büro trägt diese Mitteilung in das internationale Register ein. Erfolgt die Zahlung durch das Internationale Büro, so trägt das Internationale Büro die Zahlung in das internationale Register ein und unterrichtet das betreffende Amt entsprechend.
 - d) Wird der zweite Teilbetrag der individuellen Bestimmungsgebühr nicht innerhalb der geltenden Frist entrichtet, so unterrichtet das betreffende Amt das Internationale Büro und fordert das Internationale Büro auf, die internationale Eintragung im internationalen Register für die betreffende Vertragspartei zu löschen. Das Internationale Büro handelt entsprechend und unterrichtet den Inhaber hiervon.
 
-[^chap2-lvlu6-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 3. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
-
 ### **Regel 13**Einreichung der internationalen Anmeldung durch ein Amt
 
-\1) [*Datum des Eingangs beim Amt und Übermittlung an das Internationale Büro*] Wird eine ausschliesslich durch das Abkommen in der Fassung von 1999 geregelte internationale Anmeldung durch das Amt der Vertragspartei des Anmelders eingereicht, so teilt dieses Amt dem Anmelder das Datum mit, an dem die Anmeldung bei ihm eingegangen ist. Bei Übermittlung der internationalen Anmeldung an das Internationale Büro teilt das Amt dem Internationalen Büro mit, an welchem Tag die Anmeldung bei ihm eingegangen ist. Das Amt teilt dem Anmelder mit, dass es die internationale Anmeldung dem Internationalen Büro übermittelt hat.
+[^chap2-lvlu7-1]
 
-\2) [*Übermittlungsgebühr*] Erhebt ein Amt eine Übermittlungsgebühr nach Artikel 4 Absatz 2 des Abkommens in der Fassung von 1999, so hat es das Internationale Büro über das Fälligkeitsdatum und die Höhe dieser Gebühr zu unterrichten, welche die Verwaltungskosten für die Entgegennahme und Weiterleitung der internationalen Anmeldung nicht überschreiten sollte.
+[^chap2-lvlu7-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
+\1) [*Datum des Eingangs beim Amt und Übermittlung an das Internationale Büro*] Wird eine internationale Anmeldung durch das Amt der Vertragspartei des Anmelders eingereicht, so teilt dieses Amt dem Anmelder das Datum mit, an dem die Anmeldung bei ihm eingegangen ist. Bei Übermittlung der internationalen Anmeldung an das Internationale Büro teilt das Amt dem Internationalen Büro mit, an welchem Tag die Anmeldung bei ihm eingegangen ist. Das Amt teilt dem Anmelder mit, dass es die internationale Anmeldung dem Internationalen Büro übermittelt hat
+
+\2) [*Übermittlungsgebühr*] Erhebt ein Amt eine Übermittlungsgebühr nach Artikel 4 Absatz 2, so hat es das Internationale Büro über das Fälligkeitsdatum und die Höhe dieser Gebühr zu unterrichten, welche die Verwaltungskosten für die Entgegennahme und Weiterleitung der internationalen Anmeldung nicht überschreiten sollte.
 
 \3) [*Datum der internationalen Anmeldung bei indirekter Einreichung*] Vorbehaltlich der Regel 14 Absatz 2 ist das Anmeldedatum einer internationalen Anmeldung bei Einreichung durch ein Amt:
 
-- i) bei einer ausschliesslich durch das Abkommen in der Fassung von 1999 geregelten internationalen Anmeldung das Datum, an dem die internationale Anmeldung bei diesem Amt eingegangen ist, sofern sie innerhalb eines Monats ab diesem Datum beim Internationalen Büro eingeht;
+- i) das Datum, an dem die internationale Anmeldung bei diesem Amt eingegangen ist, sofern sie innerhalb eines Monats ab diesem Datum beim Internationalen Büro eingeht;
 - ii) andernfalls das Datum, an dem die internationale Anmeldung beim Internationalen Büro eingeht.
 
-\4) [*Datum der Einreichung, wenn die Vertragspartei des Anmelders eine Sicherheitsüberprüfung fordert*] Unbeschadet des Absatzes 3 kann eine Vertragspartei, deren Recht zum Zeitpunkt ihres Beitritts zu dem Abkommen in der Fassung von 1999 eine Sicherheitsüberprüfung verlangt, dem Generaldirektor in einer Erklärung notifizieren, dass die in Absatz 3 angegebene Frist von einem Monat durch eine Frist von sechs Monaten zu ersetzen ist.
+\4) [*Datum der Einreichung, wenn die Vertragspartei des Anmelders eine Sicherheitsüberprüfung fordert*] Unbeschadet des Absatzes 3 kann eine Vertragspartei, deren Recht zum Zeitpunkt ihres Beitritts zu dem Abkommen eine Sicherheitsüberprüfung verlangt, dem Generaldirektor in einer Erklärung notifizieren, dass die in Absatz 3 angegebene Frist von einem Monat durch eine Frist von sechs Monaten zu ersetzen ist.
 
 ### **Regel 14**Prüfung durch das Internationale Büro
 
-\1) [*Frist für die Beseitigung von Mängeln*]
+[^chap2-lvlu8-1]
 
-- a) Stellt das Internationale Büro fest, dass die internationale Anmeldung im Zeitpunkt des Eingangs beim Internationalen Büro den geltenden Erfordernissen nicht entspricht, so fordert es den Hinterleger zur Beseitigung der Mängel auf. Die Frist für die Beseitigung von Mängeln beträgt drei Monate ab dem Datum der Aufforderung durch das Internationale Büro.
-- b) Unbeschadet des Buchstabens a kann das Internationale Büro, sofern die bei Eingang der internationalen Anmeldung erhobenen Gebühren niedriger waren als die Grundgebühr für ein Muster oder ein Modell, den Anmelder zuerst dazu auffordern, innert einer Frist von zwei Monaten ab dem Datum der Aufforderung durch das Internationale Büro, mindestens den der Grundgebühr für eine Zeichnung oder ein Modell entsprechenden Betrag zu bezahlen.[^chap2-lvlu8-1]
+[^chap2-lvlu8-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
+\1) [*Frist für die Beseitigung von Mängeln*] Stellt das Internationale Büro fest, dass die internationale Anmeldung im Zeitpunkt des Eingangs beim Internationalen Büro den geltenden Erfordernissen nicht entspricht, so fordert es den Hinterleger zur Beseitigung der Mängel auf. Die Frist für die Beseitigung von Mängeln beträgt drei Monate ab dem Datum der Aufforderung durch das Internationale Büro.
 
 \2) [*Mängel, die zu einer Verschiebung des Anmeldedatums der internationalen Anmeldung führen*] Enthält eine internationale Anmeldung im Zeitpunkt des Eingangs beim Internationalen Büro einen Mangel, der nach den Vorschriften zu einer Verschiebung des Anmeldedatums der internationalen Anmeldung führt, ist das Hinterlegungsdatum das Datum, an dem die Beseitigung dieses Mangels beim Internationalen Büro eingeht. Die folgenden Mängel führen nach den Vorschriften zu einer Verschiebung des Anmeldedatums der internationalen Anmeldung:
 
@@ -320,16 +298,13 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 
   in der internationalen Anmeldung fehlt einer der folgenden Bestandteile:
 
-  - i) eine ausdrückliche Angabe oder ein Hinweis, der erkennen lässt, dass eine internationale Eintragung nach dem Abkommen in der Fassung von 1999 oder dem Abkommen in der Fassung von 1960 beantragt wird,
+  - i) eine ausdrückliche Angabe oder ein Hinweis, der erkennen lässt, dass eine internationale Eintragung beantragt wird,
   - ii) Angaben, die eine Feststellung der Identität des Anmelders erlauben,
   - iii) ausreichende Angaben, die erlauben, den Anmelder oder gegebenenfalls seinen Vertreter zu erreichen,
-  - iv) eine Abbildung des gewerblichen Musters oder Modells oder, nach Artikel 5 Absatz 1 Ziffer iii des Abkommens in der Fassung von 1999, ein Musterabschnitt jedes gewerblichen Musters, das Gegenstand der internationalen Anmeldung ist,
-  - v) die Bestimmung mindestens einer Vertragspartei.[^chap2-lvlu8-2]
+  - iv) eine Abbildung des gewerblichen Musters oder Modells oder, nach Artikel 5 Absatz 1 Ziffer iii, ein Musterabschnitt jedes gewerblichen Musters, das Gegenstand der internationalen Anmeldung ist,
+  - v) die Bestimmung mindestens einer Vertragsparte.
 
-\3) [*Als zurückgenommen geltende internationale Anmeldung;* *Gebührenrückerstattung*] Wird ein Mangel, mit Ausnahme eines Mangels nach Artikel 8 Absatz 2 Buchstabe b des Abkommens in der Fassung von 1999, nicht innert Frist nach Absatz 1 beseitigt, gilt die internationale Anmeldung als zurückgenommen. Das Internationale Büro erstattet die für diese Anmeldung entrichteten Gebühren nach Abzug eines Betrages in Höhe der Grundgebühr.
-
-[^chap2-lvlu8-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 11. Okt. 2016, in Kraft seit 1. April 2023 ([AS 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
-[^chap2-lvlu8-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+\3) [*Als zurückgenommen geltende internationale Anmeldung;* *Gebührenrückerstattung*] Wird ein Mangel, mit Ausnahme eines Mangels nach Artikel 8 Absatz 2 Buchstabe b, nicht innert Frist nach Absatz 1 Buchstaben a und b beseitigt, gilt die internationale Anmeldung als zurückgenommen. Das Internationale Büro erstattet die für diese Anmeldung entrichteten Gebühren nach Abzug eines Betrages in Höhe der Grundgebühr.
 
 ### **Regel 15**Eintragung des gewerblichen Musters oder Modells in das internationale Register
 
@@ -345,28 +320,25 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 
 ### **Regel 16**Aufschub der Veröffentlichung
 
-\1) [*Maximaler Aufschiebungszeitraum*]
+[^chap2-lvlu10-1]
 
-- a) Der vorgeschriebene Zeitraum für den Aufschub der Veröffentlichung einer ausschliesslich durch das Abkommen in der Fassung von 1999 geregelten internationalen Anmeldung beträgt 30 Monate ab dem Anmeldedatum oder, sofern eine Priorität in Anspruch genommen wird, 30 Monate ab dem Prioritätsdatum der betreffenden Anmeldung.
-- b) Der maximale Aufschiebungszeitraum der Veröffentlichung einer ausschliesslich durch das Abkommen in der Fassung von 1960 oder sowohl durch das Abkommen in der Fassung von 1999 als auch das Abkommen in der Fassung von 1960 geregelten internationalen Anmeldung beträgt 12 Monate ab dem Anmeldedatum oder, sofern eine Priorität in Anspruch genommen wird, 12 Monate ab dem Prioritätsdatum der betreffenden Anmeldung.
+[^chap2-lvlu10-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
-\2) [*Zeitraum für die Zurücknahme der Bestimmung, wenn ein Aufschub nach geltendem Recht nicht möglich ist*] Der Zeitraum nach Artikel 11 Absatz 3 Ziffer i des Abkommens in der Fassung von 1999, in dem der Anmelder die Bestimmung einer Vertragspartei zurücknehmen kann, deren Recht einen Aufschub der Veröffentlichung nicht zulässt, beträgt einen Monat ab dem Datum der Mitteilung des Internationalen Büros.
+\1) [*Maximaler Aufschiebungszeitraum*] Der vorgeschriebene Zeitraum für den Aufschub der Veröffentlichung beträgt 30 Monate ab dem Anmeldedatum oder, sofern eine Priorität in Anspruch genommen wird, 30 Monate ab dem Prioritätsdatum der betreffenden Anmeldung.
+
+\2) [*Zeitraum für die Zurücknahme der Bestimmung, wenn ein Aufschub nach geltendem Recht nicht möglich ist*] Der Zeitraum nach Artikel 11 Absatz 3 Ziffer i, in dem der Anmelder die Bestimmung einer Vertragspartei zurücknehmen kann, deren Recht einen Aufschub der Veröffentlichung nicht zulässt, beträgt einen Monat ab dem Datum der Mitteilung des Internationalen Büros.
 
 \3) [*Frist für die Zahlung der Veröffentlichungsgebühr*]
 
-- a) Die Veröffentlichungsgebühr nach Regel 12 Absatz 1 Buchstabe a Ziffer iv) muss spätestens drei Wochen vor Ablauf der Aufschiebungsfrist nach Artikel 11 Absatz 2 der Fassung von 1999, oder nach Artikel 6 Absatz 4 Buchstabe a der Fassung von 1960, oder spätestens drei Wochen bevor die Aufschiebungsfrist nach Artikel 11 Absatz 4 Buchstabe a der Fassung von 1999 oder nach Artikel 6 Absatz 4 Buchstabe b der Fassung von 1960 als abgelaufen gilt, entrichtet werden.
-- b) Drei Monate vor Ablauf der in Buchstabe a genannten Aufschiebungsfrist übersendet das Internationale Büro dem Inhaber der internationalen Eintragung eine inoffizielle Mitteilung, in der es ihm gegebenenfalls das Datum mitteilt, vor welchem dem die Veröffentlichungsgebühr nach Buchstabe a entrichtet werden muss.[^chap2-lvlu10-1]
+- a) Die Veröffentlichungsgebühr nach Regel 12 Absatz 1 Buchstabe a Ziffer iv muss spätestens drei Wochen vor Ablauf der Aufschiebungsfrist nach Artikel 11 Absatz 2, oder spätestens drei Wochen bevor die Aufschiebungsfrist nach Artikel 11 Absatz 4 Buchstabe a als abgelaufen gilt, entrichtet werden.
+- b) Drei Monate vor Ablauf der in Buchstabe a genannten Aufschiebungsfrist übersendet das Internationale Büro dem Inhaber der internationalen Eintragung eine inoffizielle Mitteilung, in der es ihm gegebenenfalls das Datum mitteilt, vor welchem dem die Veröffentlichungsgebühr nach Buchstabe a entrichtet werden muss.
 
 \4) [*Frist für die Einreichung von Reproduktionen und Eintragung von Reproduktionen*]
 
 - a) Werden statt den Reproduktionen gemäss Regel 10 Musterabschnitte eingereicht, so müssen die Reproduktionen spätestens drei Monate vor Ablauf der Frist für die Zahlung der Veröffentlichungsgebühr nach Absatz 3 Buchstabe a entrichtet werden.
-- b) Das Internationale Büro trägt alle nach Buchstabe a eingereichten Reproduktionen in das internationale Register ein, sofern die Erfordernisse nach Regel 9 Absätze 1 und 2 erfüllt sind.[^chap2-lvlu10-2]
+- b) Das Internationale Büro trägt alle nach Buchstabe a eingereichten Reproduktionen in das internationale Register ein, sofern die Erfordernisse nach Regel 9 Absätze 1 und 2 erfüllt sind.
 
-\5) [*Nicht erfüllte Erfordernisse*] Werden die Erfordernisse der Absätze 3 und 4 nicht erfüllt, so wird die internationale Eintragung gelöscht und nicht veröffentlicht.[^chap2-lvlu10-3]
-
-[^chap2-lvlu10-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 2. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^chap2-lvlu10-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 2. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^chap2-lvlu10-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 2. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+\5) [*Nicht erfüllte Erfordernisse*] Werden die Erfordernisse der Absätze 3 und 4 nicht erfüllt, so wird die internationale Eintragung gelöscht und nicht veröffentlicht.
 
 ### **Regel 17**Veröffentlichung der internationalen Eintragungen
 
@@ -391,12 +363,16 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 
 ## Kapitel 3 Schutzverweigerungen und Ungültigerklärungen
 
-### **Regel 18** Mitteilung der Schutzverweigerung
+### **Regel 18**Mitteilung der Schutzverweigerung
+
+[^chap3-lvlu1-1]
+
+[^chap3-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 \1) [*Frist für die Mitteilung der Schutzverweigerung*]
 
-- a) Die vorgeschriebene Frist für die Mitteilung der Verweigerung der Wirkungen einer internationalen Eintragung nach Artikel 12 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Artikel 8 Absatz 1 des Abkommens in der Fassung von 1960 beträgt sechs Monate ab dem Tag der Veröffentlichung der internationalen Eintragung nach Regel 26 Absatz 3.
-- b) Unbeschadet des Buchstabens a kann jede Vertragspartei, deren Amt ein Prüfungsamt ist oder deren Recht einen Widerspruch gegen die Schutzerteilung zulässt, den Generaldirektor in einer Erklärung davon in Kenntnis setzen, wenn sie nach dem Abkommen in der Fassung von 1999 als solche bestimmt ist, dass anstelle der in Buchstabe a genannten Frist von sechs Monaten eine Frist von 12 Monaten gilt.
+- a) Die vorgeschriebene Frist für die Mitteilung der Verweigerung der Wirkungen einer internationalen Eintragung nach Artikel 12 Absatz 2 beträgt sechs Monate ab dem Tag der Veröffentlichung der internationalen Eintragung nach Regel 26 Absatz 3.
+- b) Unbeschadet des Buchstabens a kann jede Vertragspartei, deren Amt ein Prüfungsamt ist oder deren Recht einen Widerspruch gegen die Schutzerteilung zulässt, den Generaldirektor in einer Erklärung davon in Kenntnis setzen, dass anstelle der in Buchstabe a genannten Frist von sechs Monaten eine Frist von 12 Monaten gilt.
 - c)
 
   In der Erklärung nach Buchstabe b kann auch angegeben werden, dass die Wirkung der internationalen Eintragung nach Artikel 14 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 spätestens wie folgt eintritt:
@@ -413,13 +389,13 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 
   - i) das mitteilende Amt;
   - ii) die Nummer der internationalen Eintragung;
-  - iii) alle Gründe, auf die sich die Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes;
+  - iii) alle Gründe, auf die sich die Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes,
   - iv) beziehen sich die Gründe, auf die sich die Schutzverweigerung stützt, auf eine Ähnlichkeit mit einem gewerblichen Muster oder Modell, das Gegenstand einer früheren nationalen, regionalen oder internationalen Anmeldung oder Eintragung gewesen ist, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung (falls verfügbar), eine Kopie einer Abbildung des früheren gewerblichen Musters oder Modells (wenn diese Abbildung allgemein zugänglich ist) und den Namen und die Anschrift des Inhabers des genannten gewerblichen Musters oder Modells entsprechend den Verwaltungsvorschriften;
   - v) betrifft die Schutzverweigerung nicht alle gewerblichen Muster oder Modelle, die Gegenstand der internationalen Eintragung sind, diejenigen, auf die sie sich bezieht oder nicht bezieht;
   - vi) ob die Schutzverweigerung Gegenstand einer Überprüfung oder Beschwerde sein kann und bejahendenfalls die unter den Umständen angemessene Frist zur Einreichung des Antrags auf Überprüfung oder der Beschwerde gegen die Schutzverweigerung und die für das Gesuch um Überprüfung oder die Beschwerde zuständige Behörde, gegebenenfalls mit dem Hinweis, dass das Gesuch um Überprüfung oder die Beschwerde über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, dessen Amt die Schutzverweigerung ausgesprochen hat; und
   - vii) das Datum, an dem die Schutzverweigerung ausgesprochen wurde.
 
-\3) [*Mitteilung über die Teilung der internationalen Eintragung*] Wird die internationale Eintragung nach einer Mitteilung der Schutzverweigerung gemäss Artikel 13 Absatz 2 des Abkommens in der Fassung von 1999 vor dem Amt einer bestimmten Vertragspartei geteilt, um ein in dieser Mitteilung angegebenes Schutzhindernis zu beseitigen, so macht dieses Amt, wie in den Verwaltungsvorschriften festgelegt, dem Internationalen Büro die die Teilung betreffenden Angaben.
+\3) [*Mitteilung über die Teilung der internationalen Eintragung*] Wird die internationale Eintragung nach einer Mitteilung der Schutzverweigerung gemäss Artikel 13 Absatz 2 vor dem Amt einer bestimmten Vertragspartei geteilt, um ein in dieser Mitteilung angegebenes Schutzhindernis zu beseitigen, so macht dieses Amt, wie in den Verwaltungsvorschriften festgelegt, dem Internationalen Büro die die Teilung betreffenden Angaben.
 
 \4) [*Mitteilung über die Zurücknahme der Schutzverweigerung*]
 
@@ -434,13 +410,11 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
   - iv) das Datum, von dem an die internationale Eintragung dieselbe Wirkung wie ein nach dem anwendbaren Recht erteiltes Schutzrecht hat; und
   - v) das Datum der Zurücknahme der Schutzverweigerung.
 
-- c) Wurde die internationale Eintragung in einem Verfahren vor dem Amt geändert, so hat die Mitteilung auch alle Änderungen zu enthalten oder anzugeben.[^chap3-lvlu1-1]
+- c) Wurde die internationale Eintragung in einem Verfahren vor dem Amt geändert, so hat die Mitteilung auch alle Änderungen zu enthalten oder anzugeben.
 
 \5) [*Eintragung*] Das Internationale Büro trägt die nach Absatz 1 Buchstabe c Ziffer ii, Absatz 2 oder 4 bei ihm eingegangenen Mitteilungen in das internationale Register ein, im Falle einer Mitteilung der Schutzverweigerung unter Angabe des Datums, an dem diese Mitteilung dem Internationalen Büro übersandt wurde.
 
 \6) [*Übermittlung von Kopien von Mitteilungen*] Das Internationale Büro übermittelt dem Inhaber Kopien von Mitteilungen, die bei ihm nach Absatz 1 Buchstabe c Ziffer ii, Absatz 2 oder 4 eingegangen sind.
-
-[^chap3-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 30. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
 
 ### **Regel 18**<sup>bis</sup> Erklärung über die Schutzerteilung
 
@@ -521,19 +495,23 @@ Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die
 
 ### **Regel 21**Eintragung einer Änderung
 
+[^chap4-lvlu1-1]
+
+[^chap4-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
 \1) [*Einreichung des Gesuches*]
 
-- a)[^chap4-lvlu1-1]
+- a)
 
   Ein Gesuch um Eintragung ist beim Internationalen Büro auf dem entsprechenden amtlichen Formblatt einzureichen, falls sich das Gesuch auf folgendes bezieht:
 
   - i) eine Änderung des Inhabers der internationalen Eintragung in Bezug auf alle oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind;
   - ii) eine Änderung des Namens oder der Anschrift des Inhabers;
-  - iii) einen Verzicht auf die internationale Eintragung in Bezug auf eine oder alle bestimmten Vertragsparteien; oder
-  - iv) in Bezug auf eine Vertragspartei eine Einschränkung auf ein oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind;
+  - iii) einen Verzicht auf die internationale Eintragung in Bezug auf eine oder alle bestimmten Vertragsparteien;
+  - iv) in Bezug auf eine Vertragspartei eine Einschränkung auf ein oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind; oder
   - v) eine Änderung des Namens oder der Anschrift des Vertreters.
 
-- b)[^chap4-lvlu1-2]
+- b)
 
   Der Antrag ist vom Inhaber einzureichen und von diesem zu unterzeichnen; ein Antrag auf Eintragung einer Änderung des Inhabers kann jedoch auch von dem neuen Inhaber eingereicht werden, sofern er:
 
@@ -548,14 +526,14 @@ Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die
 
   - i) die Nummer der betreffenden internationalen Eintragung;
   - ii) den Namen des Inhabers, oder des Vertreters, wenn die Änderung sich auf den Namen oder die Anschrift des Vertreters bezieht;
-  - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des neuen Inhabers der internationalen Eintragung;
+  - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E‑Mail-Adresse des neuen Inhabers der internationalen Eintragung;
   - iv) im Falle einer Änderung des Inhabers der internationalen Eintragung die Vertragspartei oder die Vertragsparteien, für die der neue Inhaber die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
   - v) im Falle einer Änderung des Inhabers der internationalen Eintragung, die sich nicht auf alle gewerblichen Muster oder Modelle und alle Vertragsparteien bezieht, die Nummern der gewerblichen Muster oder Modelle und die bestimmten Vertragsparteien, auf die sich die Änderung der Inhaberschaft der internationalen Eintragung bezieht; und
   - vi) die Höhe der entrichteten Gebühren und die Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrages von einem beim Internationalen Büro eröffneten Konto sowie den Namen des Einzahlers oder des Auftraggebers der Zahlung.
 
-- b) Das Gesuch um Eintragung einer Änderung des Inhabers der internationalen Eintragung kann begleitet sein von einer Mitteilung zur Bestellung eines Vertreters für den neuen Inhaber. Sofern die in Regel 3 Absatz 2 Buchstaben b und c genannten Bedingungen erfüllt sind, entspricht das Datum des Wirksamwerdens der Bestellung des Vertreters dem Eintragungsdatum der Änderung des Inhabers gemäss Absatz 6 Buchstabe b. In diesem Fall gibt die Eintragung der Änderung des Inhabers im internationalen Register die Bestellung des Vertreters an.[^chap4-lvlu1-3]
+- b) Das Gesuch um Eintragung einer Änderung des Inhabers der internationalen Eintragung kann begleitet sein von einer Mitteilung zur Bestellung eines Vertreters für den neuen Inhaber. Sofern die in Regel 3 Absatz 2 Buchstaben b und c genannten Bedingungen erfüllt sind, entspricht das Datum des Wirksamwerdens der Bestellung des Vertreters dem Eintragungsdatum der Änderung des Inhabers gemäss Absatz 6 Buchstabe b. In diesem Fall gibt die Eintragung der Änderung des Inhabers im internationalen Register die Bestellung des Vertreters an.
 
-\3) [*Unzulässiger Antrag*] Eine Änderung des Inhabers der internationalen Eintragung kann in Bezug auf eine bestimmte Vertragspartei nicht eingetragen werden, falls diese Vertragspartei nicht durch ein Abkommen gebunden ist, welches die in Absatz 2 Ziffer iv bezeichnete Vertragspartei oder eine der Vertragsparteien bindet.
+\3) [*Gelöscht*]
 
 \4) [*Nicht vorschriftsmässiger Antrag*] Entspricht der Antrag nicht den geltenden Vorschriften, so teilt das Internationale Büro dem Inhaber dies mit; gibt der Antragsteller an, der neue Inhaber zu sein, so wird die Mitteilung an ihn gerichtet.
 
@@ -565,22 +543,19 @@ Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die
 
 - a) Ist der Antrag in Ordnung, so trägt das Internationale Büro die Änderung umgehend in das internationale Register ein und benachrichtigt den Inhaber. Im Falle einer Änderung des Inhabers benachrichtigt das Internationale Büro sowohl den neuen als auch den früheren Inhaber.
 - b) Die Änderung wird mit dem Datum eingetragen, an dem der den geltenden Erfordernissen entsprechende Antrag beim Internationalen Büro eingegangen ist. Ist in dem Antrag jedoch angegeben, dass die Änderung nach einer weiteren Änderung oder nach Verlängerung der internationalen Eintragung eingetragen werden soll, so handelt das Internationale Büro entsprechend.
-- c)[^chap4-lvlu1-4] Wird eine Änderung des Inhabers infolge eines Gesuchs durch den neuen Inhaber nach Absatz 1)b)ii) eingetragen und erhebt der frühere Inhaber beim Internationalen Büro schriftlich gegen diese Änderung Einspruch, gilt die Änderung als nicht eingetragen. Das Internationale Büro informiert beide Parteien entsprechend darüber.
+- c) Wird eine Änderung des Inhabers infolge eines Gesuchs durch den neuen Inhaber nach Absatz 1)b)ii) eingetragen und erhebt der frühere Inhaber beim Internationalen Büro schriftlich gegen diese Änderung Einspruch, gilt die Änderung als nicht eingetragen. Das Internationale Büro informiert beide Parteien entsprechend darüber.
 
 \7) [*Eintragung einer teilweisen Änderung der Inhaberschaft*] Eine Abtretung oder sonstige Übertragung der internationalen Eintragung in Bezug auf nur einige der gewerblichen Muster oder Modelle oder nur einige der bestimmten Vertragsparteien wird im internationalen Register unter der Nummer der internationalen Eintragung registriert, die teilweise abgetreten oder auf andere Weise übertragen worden ist; jeder abgetretene oder auf andere Weise übertragene Teil wird unter der Nummer der genannten internationalen Eintragung gelöscht und als eigenständige internationale Eintragung registriert. Die eigenständige internationale Eintragung trägt die Nummer der teilweise abgetretenen oder auf andere Weise übertragenen internationalen Eintragung mit einem Grossbuchstaben.
 
 \8) [*Registrierung von Zusammenschlüssen internationaler Eintragungen*] Wird eine Person infolge eines teilweisen Inhaberwechsels Inhaber von zwei oder mehr internationalen Eintragungen, so werden diese Eintragungen auf Antrag der genannten Person zusammengeführt; die Absätze 1 bis 6 finden sinngemäss Anwendung. Die aus einer Zusammenführung hervorgegangene internationale Eintragung trägt die Nummer der teilweise abgetretenen oder auf andere Weise übertragenen internationalen Eintragung, gegebenenfalls mit einem Grossbuchstaben.
 
-[^chap4-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 22. Juli 2022, in Kraft seit 1. April 2023 ([AS 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
-[^chap4-lvlu1-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^chap4-lvlu1-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 22. Juli 2022, in Kraft seit 1. April 2023 ([AS 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
-[^chap4-lvlu1-4]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+Eintragung, gegebenenfalls mit einem Grossbuchstaben.
 
 ### **Regel 21**<sup>bis</sup> Erklärung, dass eine Änderung des Inhabers ohne Wirkung ist
 
 [^chap4-lvlu2-1]
 
-[^chap4-lvlu2-1]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap4-lvlu2-1]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)). Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 \1) [*Erklärung und ihre Wirkungen*] Das Amt einer bestimmten Vertragspartei kann erklären, dass eine Änderung des ins internationale Register eingetragenen Inhabers in dieser Vertragspartei ohne Wirkung ist. Diese Erklärung hat zur Folge, dass die betreffende internationale Eintragung hinsichtlich dieser Vertragspartei weiterhin auf den Namen des Zedenten lautet.
 
@@ -591,7 +566,7 @@ Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die
 - c) betrifft die Erklärung nicht alle gewerblichen Muster oder Modelle, die Gegenstand der Änderung des Inhabers sind, diejenigen, auf die sie sich bezieht; und
 - d) ob die Erklärung Gegenstand einer Überprüfung oder Beschwerde sein kann und bejahendenfalls die unter den Umständen angemessene Frist zur Einreichung des Antrags auf Überprüfung oder der Beschwerde gegen die Erklärung und die für das Gesuch um Überprüfung oder die Beschwerde zuständige Behörde, gegebenenfalls mit dem Hinweis, dass das Gesuch um Überprüfung oder die Beschwerde über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, dessen Amt die Erklärung abgegeben hat.
 
-\3) [*Frist für das Übersenden der Erklärung*] Die Erklärung nach Absatz 1 ist dem Internationalen Büro innerhalb von sechs Monaten nach dem Datum der Veröffentlichung der Änderung des Inhabers oder innerhalb der nach Artikel 12 Absatz 2 der Fassung von 1999 oder nach Artikel 8 Absatz 1 der Fassung von 1960 geltenden Frist zu übersenden, wobei die später ablaufende Frist berücksichtigt wird.
+\3) [*Frist für das Übersenden der Erklärung*] Die Erklärung nach Absatz 1 ist dem Internationalen Büro innerhalb von sechs Monaten nach dem Datum der Veröffentlichung der Änderung des Inhabers oder innerhalb der nach Artikel 12 Absatz 2 geltenden Frist zu übersenden, wobei die später ablaufende Frist berücksichtigt wird.
 
 \4) [*Eintragung und Benachrichtigung über die Erklärung; entsprechende Änderung des internationalen Registers*] Das Internationale Büro trägt alle nach Absatz 3 abgegebenen Erklärungen in das internationale Register ein und ändert das internationale Register so, dass der Teil der internationalen Eintragung, der Gegenstand der Erklärung war, als eigenständige internationale Eintragung auf den Namen des früheren Inhabers (Zedenten) eingetragen wird. Das Internationale Büro teilt dies dem früheren Inhaber (Zedenten) und dem neuen Inhaber (Zessionar) mit.
 
@@ -613,6 +588,10 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
 
 ### **Regel 24**Einzelheiten hinsichtlich der Verlängerung
 
+[^chap5-lvlu2-1]
+
+[^chap5-lvlu2-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
 \1) [*Gebühren*]
 
 - a)
@@ -620,8 +599,8 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
   Die internationale Eintragung wird gegen Entrichtung der folgenden Gebühren verlängert:
 
   - i) einer Grundgebühr;
-  - ii) einer Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 abgegeben hat und für jede bestimmte Vertragspartei nach dem Abkommen in der Fassung von 1960 für die die internationale Eintragung zu verlängern ist;
-  - iii) einer individuellen Bestimmungsgebühr für jede bestimmte Vertragspartei nach dem Abkommen in der Fassung von 1999, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 abgegeben hat und für die die internationale Eintragung zu verlängern ist.
+  - ii) einer Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 abgegeben hat und für die die internationale Eintragung zu verlängern ist;
+  - iii) einer individuellen Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 abgegeben hat und für die die internationale Eintragung zu verlängern ist.
 
 - b) Die Höhe der Gebühren nach Buchstabe a Ziffern i und ii ergibt sich aus dem Gebührenverzeichnis.
 - c) Die Zahlung der Gebühren nach Buchstabe a muss spätestens an dem Tag erfolgen, an dem die Verlängerung der internationalen Eintragung fällig ist. Sie kann jedoch noch innerhalb von sechs Monaten nach dem Fälligkeitsdatum für die Verlängerung der internationalen Eintragung erfolgen, sofern gleichzeitig die im Gebührenverzeichnis angegebene Zuschlagsgebühr entrichtet wird.
@@ -629,7 +608,10 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
 
 \2) [*Weitere Einzelheiten*]
 
-- a) Beabsichtigt ein Inhaber nicht, die internationale Eintragung
+- a)
+
+  Beabsichtigt ein Inhaber nicht, die internationale Eintragung:
+
   - i) in Bezug auf eine bestimmte Vertragspartei; oder
   - ii) in Bezug auf ein gewerbliches Muster oder Modell, das Gegenstand der internationalen Eintragung ist, zu verlängern, so ist der Zahlung der erforderlichen Gebühren eine Erklärung beizufügen, in der die Vertragspartei oder die Nummern der gewerblichen Muster oder Modelle angegeben werden, für welche die internationale Eintragung nicht verlängert werden soll.
 
@@ -652,13 +634,9 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
 
 [^chap6-1]
 
-[^chap6-1]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 ### **Regel 26**Veröffentlichung
-
-[^chap6-lvlu1-1]
-
-[^chap6-lvlu1-1]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
 \1) [*Informationen über internationale Eintragungen*] Das Internationale Büro veröffentlicht im Bulletin die massgeblichen Daten über:
 
@@ -666,28 +644,28 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
 - ii) die Schutzverweigerungen mit einem Hinweis, ob die Möglichkeit einer Überprüfung oder Beschwerde besteht, aber ohne Angabe der Gründe für die Schutzverweigerung, sowie die übrigen gemäss Regel 18 Absatz 5 und Regel 18<sup>bis</sup> Absatz 3 eingetragenen Mitteilungen;
 - iii) nach Regel 20 Absatz 2 eingetragene Ungültigerklärungen;
 - iv) nach Regel 21 eingetragene Wechsel;
-- iv<sup>bis)</sup> nach Regel 3 Absatz 3 Buchstabe a eingetragene Bestellungen von Vertretern, es sei denn, sie werden nach Absatz i oder iv veröffentlicht, sowie ihre Löschungen, mit Ausnahme der nach Regel 3 Absatz 5 Buchstabe a von Amts wegen vorgenommenen Löschungen;
+- iv<sup>bis</sup>) nach Regel 3 Absatz 3 Buchstabe a eingetragene Bestellungen von Vertretern, es sei denn, sie werden nach Absatz i oder iv veröffentlicht, sowie ihre Löschungen, mit Ausnahme der nach Regel 3 Absatz 5 Buchstabe a von Amts wegen vorgenommenen Löschungen;
 - v) nach Regel 22 vorgenommene Berichtigungen;
 - vi) nach Regel 25 Absatz 1 eingetragene Verlängerungen;
 - vii) nicht verlängerte internationale Eintragungen;
 - viii) nach Regel 12 Absatz 3 Buchstabe d eingetragene Streichungen;
-- ix) Erklärungen zur Unwirksamkeit des Inhaberwechsels und zur Rücknahme solcher Erklärungen nach Regel 21<sup>bis</sup>.[^chap6-lvlu1-2]
+- ix) Erklärungen zur Unwirksamkeit des Inhaberwechsels und zur Rücknahme solcher Erklärungen nach Regel 21<sup>bis</sup>.
 
-\2) [*Informationen über Erklärungen; weitere Informationen*] Das Internationale Büro veröffentlicht auf der Internetseite der Organisation alle nach dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 oder dieser Ausführungsordnung abgegebenen Erklärungen einer Vertragspartei sowie eine Aufstellung der Tage, an denen das Internationale Büro im laufenden und im folgenden Kalenderjahr für die Öffentlichkeit geschlossen ist.[^chap6-lvlu1-3]
+\2) [*Informationen über Erklärungen; weitere Informationen*] Das Internationale Büro veröffentlicht auf der Internetseite der Organisation alle nach dieser Ausführungsordnung abgegebenen Erklärungen einer Vertragspartei sowie eine Aufstellung der Tage, an denen das Internationale Büro im laufenden und im folgenden Kalenderjahr für die Öffentlichkeit geschlossen ist.
 
-\3) [*Publikationsweise des Bulletins*] Das Bulletin wird auf der Internetseite der Organisation veröffentlicht. Die Veröffentlichung jeder Ausgabe des Bulletins ersetzt die Versendung des Bulletins nach Artikel 10 Absatz 3 Buchstabe b, Artikel 16 Absatz 4 und Artikel 17 Absatz 5 des Abkommens in der Fassung von 1999 und nach Artikel 6 Absatz 3 Buchstabe b des Abkommens in der Fassung von 1960, und zwecks Artikels 8 Absatz 2 des Abkommens in der Fassung von 1960 gilt jede Ausgabe des Bulletins von jedem betreffenden Büro am Datum der besagten Veröffentlichung auf der Internetseite der Organisation als erhalten.[^chap6-lvlu1-4]
-
-[^chap6-lvlu1-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 22. Juli 2022, in Kraft seit 1. April 2023 ([AS 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
-[^chap6-lvlu1-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap6-lvlu1-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 22. Juli 2022, in Kraft seit 1. April 2023 ([AS 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+\3) [*Publikationsweise des Bulletins*] Das Bulletin wird auf der Internetseite der Organisation veröffentlicht. Die Veröffentlichung jeder Ausgabe des Bulletins ersetzt die Versendung des Bulletins nach Artikel 10 Absatz 3 Buchstabe b, Artikel 16 Absatz 4 und Artikel 17 Absatz 5.
 
 ## Kapitel 7 Gebühren
 
+[^chap7-1]
+
+[^chap7-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
 ### **Regel 27**Höhe und Zahlung der Gebühren
 
-\1) [*Höhe der Gebühren*] Mit Ausnahme der individuellen Bestimmungsgebühren nach Regel 12 Absatz 1 Buchstabe a Ziffer iii ergeben sich die Beträge der nach dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 und dieser Ausführungsordnung zu entrichtenden Gebühren aus dem Gebührenverzeichnis, das im Anhang dieser Ausführungsordnung erscheint und Bestandteil derselben ist.[^chap7-lvlu1-1]
+\1) [*Höhe der Gebühren*] Mit Ausnahme der individuellen Bestimmungsgebühren nach Regel 12 Absatz 1 Buchstabe a Ziffer iii ergeben sich die Beträge der nach dieser Ausführungsordnung zu entrichtenden Gebühren aus dem Gebührenverzeichnis, das im Anhang dieser Ausführungsordnung erscheint und Bestandteil derselben ist.
 
-\2) [*Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung*][^chap7-lvlu1-2]
+\2) [*Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung*]
 
 - a) Vorbehaltlich des Buchstabens b und der Regel 12 Absatz 3 Buchstabe c sind die Gebühren unmittelbar an das Internationale Büro zu entrichten.
 - b) Wird die internationale Anmeldung durch das Amt der Vertragspartei des Anmelders eingereicht, so können die im Zusammenhang mit dieser Anmeldung zu entrichtenden Gebühren durch dieses Amt gezahlt werden, wenn es die Entgegennahme und die Weiterleitung dieser Gebühren übernimmt und der Anmelder oder Inhaber dies wünscht. Ämter, die die Entgegennahme und die Weiterleitung dieser Gebühren übernehmen, setzen den Generaldirektor hiervon in Kenntnis.
@@ -710,36 +688,30 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
 - b) Ändert sich der zur Verlängerung einer internationalen Eintragung zu entrichtende Gebührenbetrag zwischen dem Datum der Zahlung und dem Datum der Fälligkeit der Verlängerung, so findet die Gebühr Anwendung, die am Tag der Zahlung oder an dem Tag gültig war, der nach Regel 24 Absatz 1 Buchstabe d als Tag der Zahlung gilt. Erfolgt die Zahlung nach dem Fälligkeitsdatum, so findet die am Fälligkeitsdatum geltende Gebühr Anwendung.
 - c) Ändert sich die Höhe anderer als der in den Buchstaben a und b genannten Gebühren, so findet der am Tag des Eingangs der Gebühr beim Internationalen Büro geltende Betrag Anwendung.
 
-[^chap7-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-[^chap7-lvlu1-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-
-### **Regel 28** Währung, in der die Zahlungen zu entrichten sind
+### **Regel 28**Währung, in der die Zahlungen zu entrichten sind
 
 \1) [*Verpflichtung zur Zahlung in Schweizer Währung*] Alle Zahlungen, die nach dieser Ausführungsordnung an das Internationale Büro geleistet werden, sind in Schweizer Währung zu entrichten, unabhängig davon, ob die Gebühren im Falle einer Zahlung durch ein Amt von diesem Amt in einer anderen Währung entgegengenommen worden sind.
 
 \2) [*Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung*]
 
-- a) Erklärt eine Vertragspartei nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1, dass sie eine individuelle Bestimmungsgebühr zu erhalten wünscht, so ist die Höhe der Gebühr dem Internationalen Büro in der von ihrem Amt verwendeten Währung anzugeben.
+- a) Erklärt eine Vertragspartei nach Artikel 7 Absatz 2, dass sie eine individuelle Bestimmungsgebühr zu erhalten wünscht, so ist die Höhe der Gebühr dem Internationalen Büro in der von ihrem Amt verwendeten Währung anzugeben.
 - b) Wird die Gebühr in der unter Buchstabe a genannten Erklärung nicht in Schweizer Währung angegeben, so setzt der Generaldirektor nach Beratung mit dem Amt der betreffenden Vertragspartei den Gebührenbetrag in Schweizer Währung auf der Basis des amtlichen Wechselkurses der Vereinten Nationen fest.
-- c)[^chap7-lvlu2-1] Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Bestimmungsgebühr angegeben hat, länger als drei Monate in Folge mindestens 5 Prozent unter oder über dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so kann das Amt dieser Vertragspartei den Generaldirektor auffordern, einen neuen Betrag dieser Gebühr in Schweizer Währung auf der Grundlage des am Vortag der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen festzusetzen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages auf der Internetseite der Organisation liegen muss.
-- d)[^chap7-lvlu2-2] Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Bestimmungsgebühr angegeben hat, länger als drei Monate in Folge mindestens 10 Prozent unter dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so setzt der Generaldirektor einen neuen Betrag der Gebühr in Schweizer Währung entsprechend dem aktuellen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages auf der Internetseite der Organisation liegen muss.
-
-[^chap7-lvlu2-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap7-lvlu2-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+- c) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Bestimmungsgebühr angegeben hat, länger als drei Monate in Folge mindestens 5 Prozent unter oder über dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so kann das Amt dieser Vertragspartei den Generaldirektor auffordern, einen neuen Betrag dieser Gebühr in Schweizer Währung auf der Grundlage des am Vortag der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen festzusetzen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages auf der Internetseite der Organisation liegen muss.
+- d) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Bestimmungsgebühr angegeben hat, länger als drei Monate in Folge mindestens 10 Prozent unter dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so setzt der Generaldirektor einen neuen Betrag der Gebühr in Schweizer Währung entsprechend dem aktuellen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages auf der Internetseite der Organisation liegen muss.
 
 ### **Regel 29**Gutschrift von Gebühren auf den Konten der betroffenen Vertragsparteien
 
 Jede in Bezug auf eine Vertragspartei an das Internationale Büro entrichtete Standard-Bestimmungsgebühr oder individuelle Bestimmungsgebühr wird dem Konto dieser Vertragspartei beim Internationalen Büro im Laufe des Monats gutgeschrieben, der auf den Monat folgt, in dem die Registrierung der internationalen Eintragung oder die Verlängerung vorgenommen wurde, für die diese Gebühr entrichtet wurde; im Falle des zweiten Teilbetrags der individuellen Bestimmungsgebühr erfolgt die Gutschrift unmittelbar nach Eingang beim Internationalen Büro.
 
-## Kapitel 8 …
-
-### **Regeln 30** und **31**
-
-[^chap8-lvlu1-1]
-
-[^chap8-lvlu1-1]: Aufgehoben durch Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-
 ## Kapitel 9 Verschiedenes
+
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
+
+### **Regel 30** [*Gelöscht*]
+
+### **Regel 31** [*Gelöscht*]
 
 ### **Regel 32**Auszüge, Kopien und Auskünfte betreffend publizierte internationale Eintragungen
 
@@ -750,16 +722,17 @@ Jede in Bezug auf eine Vertragspartei an das Internationale Büro entrichtete St
 - iii) nicht beglaubigte Abschriften der im internationalen Register vorgenommenen Eintragungen oder Aktenstücke der internationalen Eintragung;
 - iv) schriftliche Auskünfte bezüglich des Inhalts des internationalen Registers oder der Aktenstücke der internationalen Eintragung;
 - v) eine Fotografie eines Musterabschnittes.
-- [tab] 2) [*Befreiung der Authentifizierung, der Beglaubigung oder anderer Bescheinigungen*] Ist ein Dokument nach Absatz 1 Ziffern i und ii mit dem Siegel des Internationalen Büros versehen und trägt es die Unterschrift des Generaldirektors oder einer in seinem Namen handelnden Person, kann keine Behörde einer Vertragspartei eine Authentifizierung, Beglaubigung oder andere Bescheinigung dieses Dokumentes, ein Siegel oder eine Unterschrift einer anderen Person oder anderen Behörde verlangen. Der vorliegende Absatz ist sinngemäss anwendbar auf das Zertifikat der internationalen Eintragung nach Regel 15 Absatz 1.
+
+\2) [*Befreiung der Authentifizierung, der Beglaubigung oder anderer Bescheinigungen*] Ist ein Dokument nach Absatz 1 Ziffern i und ii mit dem Siegel des Internationalen Büros versehen und trägt es die Unterschrift des Generaldirektors oder einer in seinem Namen handelnden Person, kann keine Behörde einer Vertragspartei eine Authentifizierung, Beglaubigung oder andere Bescheinigung dieses Dokumentes, ein Siegel oder eine Unterschrift einer anderen Person oder anderen Behörde verlangen. Der vorliegende Absatz ist sinngemäss anwendbar auf das Zertifikat der internationalen Eintragung nach Regel 15 Absatz 1.
 
 ### **Regel 33**Änderung bestimmter Regeln
 
-\1) [*Erfordernis der Einstimmigkeit*] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung setzt Einstimmigkeit der durch das Abkommen in der Fassung von 1999 gebundenen Vertragsparteien voraus:
+\1) [*Erfordernis der Einstimmigkeit*] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung setzt Einstimmigkeit der durch das Abkommen gebundenen Vertragsparteien voraus:
 
 - i) Regel 13 Absatz 4;
 - ii) Regel 18 Absatz 1.
 
-(2) [*Erfordernis einer Mehrheit von vier Fünfteln*] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung und des Absatzes 3 der vorliegenden Regel setzt eine Mehrheit von vier Fünfteln der durch das Abkommen in der Fassung von 1999 gebundenen Vertragsparteien voraus:
+(2) [*Erfordernis einer Mehrheit von vier Fünfteln*] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung und des Absatzes 3 der vorliegenden Regel setzt eine Mehrheit von vier Fünfteln der durch das Abkommen gebundenen Vertragsparteien voraus:
 
 - i) Regel 7 Absatz 7;
 - ii) Regel 9 Absatz 3 Buchstabe b;
@@ -780,54 +753,36 @@ Jede in Bezug auf eine Vertragspartei an das Internationale Büro entrichtete St
 \3) [*Bekanntmachung und Inkrafttreten*]
 
 - a) Die Verwaltungsvorschriften sowie alle Änderungen dieser Vorschriften werden auf der Internetseite der Organisation bekannt gemacht.
-- b) Bei jeder Bekanntmachung wird der Zeitpunkt angegeben, an dem die bekannt gemachten Bestimmungen in Kraft treten. Der Zeitpunkt muss nicht für alle Bestimmungen derselbe sein, jedoch kann keine Bestimmung vor dem Datum ihrer Bekanntmachung auf der Internetseite der Organisation für wirksam erklärt werden.[^chap9-lvlu3-1]
+- b) Bei jeder Bekanntmachung wird der Zeitpunkt angegeben, an dem die bekannt gemachten Bestimmungen in Kraft treten. Der Zeitpunkt muss nicht für alle Bestimmungen derselbe sein, jedoch kann keine Bestimmung vor dem Datum ihrer Bekanntmachung auf der Internetseite der Organisation für wirksam erklärt werden.
 
-\4) [*Mangelnde Übereinstimmung zwischen den Verwaltungsvorschriften und dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 oder dieser Ausführungsordnung*] Im Falle mangelnder Übereinstimmung einer Bestimmung der Verwaltungsvorschriften und einer Bestimmung des Abkommens in der Fassung von 1999, des Abkommens in der Fassung von 1960 oder dieser Ausführungsordnung haben Letztere Vorrang.[^chap9-lvlu3-2]
+\4) [*Mangelnde Übereinstimmung zwischen den Verwaltungsvorschriften und dem vorliegenden Abkommen, dem Abkommen in der Fassung von 1960 oder dieser Ausführungsordnung*] Im Falle mangelnder Übereinstimmung einer Bestimmung der Verwaltungsvorschriften und einer Bestimmung des vorliegenden Abkommens, des Abkommens in der Fassung von 1960 oder dieser Ausführungsordnung haben Letztere Vorrang.
 
-[^chap9-lvlu3-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 5. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap9-lvlu3-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+### **Regel 35**Erklärungen der Vertragsparteien
 
-### **Regel 35**Erklärungen der Vertragsparteien zum Abkommen in der Fassung von 1999
-
-\1) [*Abgabe und Wirksamwerden von Erklärungen*] Artikel 30 Absatz 1 und 2 des Abkommens in der Fassung von 1999 findet sinngemäss auf die Abgabe von Erklärungen nach Regel 8 Absatz 1, Regel 9 Absatz 3 Buchstabe a, Regel 13 Absatz 4 oder Regel 18 Absatz 1 Buchstabe b und ihr Wirksamwerden Anwendung.
+\1) [*Abgabe und Wirksamwerden von Erklärungen*] Artikel 30 Absatz 1 und 2 findet sinngemäss auf die Abgabe von Erklärungen nach Regel 8 Absatz 1, Regel 9 Absatz 3 Buchstabe a, Regel 13 Absatz 4 oder Regel 18 Absatz 1 Buchstabe b und ihr Wirksamwerden Anwendung.
 
 \2) [*Zurücknahme von Erklärungen*] Eine Erklärung nach Absatz 1 kann jederzeit durch Mitteilung an den Generaldirektor zurückgenommen werden. Die Zurücknahme wird am Tag des Eingangs der Mitteilung der Zurücknahme beim Generaldirektor oder zu einem späteren, in der Mitteilung angegebenen Datum wirksam. Im Falle einer Erklärung nach Regel 18 Absatz 1 Buchstabe b hat die Zurücknahme keine Auswirkung auf eine internationale Eintragung, die vor dem Wirksamwerden der Zurücknahme erfolgte.
 
-### **Regel 36**Erklärungen der Vertragsparteien zum Abkommen in der Fassung von 1960
-
-\1) [*Individuelle Bestimmungsgebühr*] Zum Zwecke des Artikels 15 Absatz 1 Ziffer 2 Buchstabe b des Abkommens in der Fassung von 1960 kann jede Vertragspartei des Abkommen in der Fassung von 1960 dessen Amt ein prüfendes Amt ist in einer Erklärung dem Generaldirektor mitteilen, dass für jede internationale Anmeldung, in welcher sie nach dem Abkommen in der Fassung von 1960 bestimmt wird, die nach Regel 12 Absatz 1 Buchstabe a Ziffer ii vorgeschriebene Standard-Bestimmungsgebühr durch eine individuelle Bestimmungsgebühr ersetzt wird, dessen Betrag in der Erklärung angegeben ist und in späteren Erklärungen geändert werden kann. Dieser Betrag darf den Betrag, welchen das Amt der besagten Vertragspartei vom Hinterleger für einen gewährten Schutz, für eine gleichwertige Dauer, für dieselbe Anzahl von gewerblichen Mustern und Modellen verlangen dürfte, nicht übersteigen; der fragliche Betrag wird um den Betrag der Ersparnisse verringert, die aus dem internationalen Verfahren resultieren.
-
-\2) [*Maximale Schutzdauer*] Jede Vertragspartei des Abkommens in der Fassung von 1960 teilt dem Generaldirektor in einer Erklärung die maximale Schutzdauer, die in ihrer Gesetzgebung vorgesehen ist, mit.
-
-\3) [*Zeitpunkt, zu welchem die Erklärungen gemacht werden können*] Jede Erklärung nach Absatz 1 und 2 kann gemacht werden
-
-- i) zum Zeitpunkt der Hinterlegung einer Urkunde nach Artikel 26 Absatz 2 des Abkommens in der Fassung von 1960. In diesem Fall wird sie ab dem Datum wirksam, an welchem der Staat, welcher die Erklärung gemacht hat, durch das vorliegende Abkommen gebunden ist; oder
-- ii) nach der Hinterlegung einer Urkunde nach Artikel 26 Absatz 2 des Abkommen in der Fassung von 1960. In diesem Fall wird sie einen Monat nach dem Datum, an dem der Generaldirektor die Erklärung erhalten hat, wirksam oder zu jedem späteren Datum, das in der Erklärung angegeben ist. Die Erklärung findet aber nur Anwendung auf internationale Eintragungen, die am gleichen oder an einem späteren Datum eingetragen wurde, als das Datum, an welchem die Erklärung wirksam wurde.
+### **Regel 3** [*Gelöscht*]
 
 ### **Regel 37**Übergangsbestimmungen
 
-[^chap9-lvlu6-1]
-
-[^chap9-lvlu6-1]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 1. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-
-\1) [*Übergangsbestimmung zum Abkommen in der Fassung von 1934*]
+\1) [*Begriffsbestimmungen*]
 
 - a)
 
-  Zum Zwecke dieser Bestimmung bedeutet:
+  Zum Zwecke dieser Bestimmungen bedeutet:
 
-  - i) «Fassung von 1934» die am 2. Juni 1934[^chap9-lvlu6-2] in London unterzeichnete Fassung des Haager Abkommens;
-  - ii) «bestimmte Vertragspartei in der Fassung von 1934» eine als solche im internationalen Register eingetragene Vertragspartei;
-  - iii) ein Verweis auf die Ausdrücke «internationale Anmeldung» oder «internationale Eintragung» gegebenenfalls einen Verweis auf den Ausdruck «internationale Hinterlegung» nach dem Abkommen in der Fassung von 1934.
+  - i) «Gemeinsame Ausführungsordnung» die Gemeinsame Ausführungsordnung zur Fassung von 1999 und der Fassung von 1960 des Haager Abkommens;
+  - ii) «Bestimmung nach der Fassung von 1960» bedeutet die Bestimmung einer Vertragspartei wie sie im internationalen Register nach der Fassung von 1960 eingetragen ist.
 
-- b) Die vor dem 1. Januar 2010 anwendbare Gemeinsame Ausführungsordnung zur Fassung von 1999, der Fassung von 1960 und der Fassung von 1934 des Haager Abkommens bleibt anwendbar auf eine vor diesem Datum eingereichte und zu jenem Zeitpunkt noch hängige internationale Anmeldung sowie auf jede nach dem Abkommen in der Fassung von 1934 in einer internationalen Eintragung aus einer vor diesem Datum eingereichten Anmeldung bestimmten Vertragspartei.
+\2) [*Übergangsbestimmung zur Fassung von 1960*]
 
-\2) [*Übergangsbestimmung in Bezug auf die Sprachen*] Regel 6 in ihrer Anwendung vor dem 1. April 2010 bleibt anwendbar auf eine vor diesem Zeitpunkt eingereichte internationale Anmeldung und die daraus entstandene internationale Eintragung.
+- a) Die vorher anwendbare Gemeinsame Ausführungsordnung bis 31. Dezember 2024 bleibt anwendbar auf jede an diesem Datum oder vor diesem Datum eingereichte internationale Anmeldung sowie die Veröffentlichung jeder internationalen Eintragung daraus, die eine Bestimmung nach der Fassung von 1960 enthält.
+- b) Die Regel 18 Absatz 1 Buchstabe a, die Regel 21 Absatz 3 und die Regel 26 Absatz 3 der Gemeinsamen Ausführungsordnung, in Kraft bis 31. Dezember 2024, bleiben anwendbar auf jede internationale Eintragung in Bezug auf die Bestimmungen der Fassung von 1960.
+- c) Die Regeln 36 Absatz 2 und Absatz 3 Buchstabe ii der Gemeinsamen Ausführungsordnung, in Kraft bis 31. Dezember 2024, bleiben anwendbar auf die Vertragsparteien der Fassung von 1960.
 
-\3) [*Übergangsbestimmung betreffend Publikationsdatum*] Die vor dem 1. Januar 2022 geltende Regel 17.1)iii) bleibt für alle internationalen Eintragungen anlässlich einer vor diesem Datum eingereichten internationalen Anmeldung anwendbar.[^chap9-lvlu6-3]
-
-[^chap9-lvlu6-2]: [BS **11** 1045; [AS 1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598). [AS 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
-[^chap9-lvlu6-3]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+\3) [Übergangsbestimmung in Bezug auf die Sprachen] Regel 6 der Gemeinsamen Ausführungsordnung in ihrer Anwendung vor dem 1. April 2010 bleibt anwendbar auf eine vor diesem Zeitpunkt eingereichte internationale Anmeldung und die daraus entstandene internationale Eintragung.
 
 Gebührenverzeichnis[^t-2]
 
@@ -835,95 +790,98 @@ Gebührenverzeichnis[^t-2]
 
 ## I. Internationale Anmeldungen
 
-[^t-2]: Bereinigt gemäss Beschlüssen der Versammlung des Haager Verbands vom 30. Sept. 2008, ([AS 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), 1. Okt. 2009 ([AS 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)), 30. Sept. 2014 ([AS 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)) und vom 14. Juli 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 589](https://fedlex.data.admin.ch/eli/oc/2023/589)).
+[^t-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 17. Juli 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 <table>
-<tr><td>1.</td><td colspan="3">Grundgebühr[^annexu1-lvlI-1]\*</td><td></td><td>Schweizer Franken</td></tr>
-<tr><td></td><td>1.1</td><td colspan="2">Für ein Muster oder ein Modell</td><td></td><td>397.–</td></tr>
-<tr><td></td><td>1.2</td><td colspan="2">Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td></td><td>50.–</td></tr>
-<tr><td>2.</td><td colspan="3">Veröffentlichungsgebühr<sup>\*</sup></td><td></td><td></td></tr>
-<tr><td></td><td>2.1</td><td colspan="2">Für jede zu veröffentlichende Abbildung</td><td></td><td>17.–</td></tr>
-<tr><td></td><td>2.2</td><td colspan="2">Für jede Seite, zusätzlich zur ersten, auf welcher eine oder mehrere Abbildungen präsentiert werden (falls die Abbildungen auf Papier präsentiert werden)</td><td></td><td>150.–</td></tr>
-<tr><td>3.</td><td colspan="3">Zusätzliche Gebühr, falls die Beschreibung mehr als 100 Wörter enthält (pro Wort, das das hundertste übersteigt)<sup>\*</sup></td><td></td><td>2.–</td></tr>
-<tr><td>4.</td><td colspan="3">Standard-Bestimmungsgebühr[^annexu1-lvlI-2]\*\*</td><td></td><td>Schweizer Franken</td></tr>
-<tr><td></td><td>4.1</td><td colspan="2">Wenn Stufe eins Anwendung findet:</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>4.1.1</td><td>Für ein Muster oder ein Modell</td><td></td><td>42.–</td></tr>
-<tr><td></td><td></td><td>4.1.2</td><td>Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td></td><td>2.–</td></tr>
-<tr><td></td><td>4.2</td><td colspan="2">Wenn Stufe zwei Anwendung findet:</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>4.2.1</td><td>Für ein Muster oder ein Modell</td><td></td><td>60.–</td></tr>
-<tr><td></td><td></td><td>4.2.2</td><td>Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td></td><td>20.–</td></tr>
-<tr><td></td><td>4.3</td><td colspan="2">Wenn Stufe drei Anwendung findet:</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>4.3.1</td><td>Für ein Muster oder ein Modell</td><td></td><td>90.–</td></tr>
-<tr><td></td><td></td><td>4.3.2</td><td>Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td></td><td>50.–</td></tr>
-<tr><td>5.</td><td colspan="3">Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)[^annexu1-lvlI-3]\*\*\*</td><td></td><td></td></tr>
+<tr><th></th><th>Schweizer Franken</th></tr>
+<tr><td>1. Grundgebühr[^annexu1-lvlI-1]\*</td><td></td></tr>
+<tr><td>1.1 Für ein Muster oder ein Modell</td><td>397.–</td></tr>
+<tr><td>1.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td>50.–</td></tr>
+<tr><td>2. Veröffentlichungsgebühr<sup>\*</sup></td><td></td></tr>
+<tr><td>2.1 Für jede zu veröffentlichende Abbildung</td><td>17.–</td></tr>
+<tr><td>2.2 Für jede Seite, zusätzlich zur ersten, auf welcher eine oder mehrere Abbildungen präsentiert werden (falls die Abbildungen auf Papier präsentiert werden)</td><td>150.–</td></tr>
+<tr><td>3. Zusätzliche Gebühr, falls die Beschreibung mehr als 100 Wörter enthält (pro Wort, das das hundertste übersteigt)<sup>\*</sup></td><td>2.–</td></tr>
+<tr><td>4. Standard-Bestimmungsgebühr[^annexu1-lvlI-2]\*\*</td><td></td></tr>
+<tr><td>4.1 Wenn Stufe eins Anwendung findet:</td><td></td></tr>
+<tr><td>4.1.1 Für ein Muster oder ein Modell</td><td>42.–</td></tr>
+<tr><td>4.1.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td>2.–</td></tr>
+<tr><td>4.2 Wenn Stufe zwei Anwendung findet:</td><td></td></tr>
+<tr><td>4.2.1 Für ein Muster oder ein Modell</td><td>60.–</td></tr>
+<tr><td>4.2.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td>20.–</td></tr>
+<tr><td>4.3 Wenn Stufe drei Anwendung findet:</td><td></td></tr>
+<tr><td>4.3.1 Für ein Muster oder ein Modell</td><td>90.–</td></tr>
+<tr><td>4.3.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Anmeldung inbegriffen ist</td><td>50.–</td></tr>
+<tr><td>5. Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)[^annexu1-lvlI-3]\*</td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: \* Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren dies-bezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
-[^annexu1-lvlI-2]: <sup>\*\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die Standardgebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. – Findet eine solche Ermässigung Anwendung, so beträgt die Standard-Bestimmungsgebühr 4 Schweizer Franken (für ein Muster oder Modell) und 1 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe eins, 6 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe zwei und 9 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe drei.
-[^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: – «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 der Gemeinsamen Ausführungsordnung abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl). Des Weiteren sind diese Vertragsparteien aufgefordert, darauf hinzuweisen, dass die Ermässigung auch Anwendung findet auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist.»
+[^annexu1-lvlI-1]: \* Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
+[^annexu1-lvlI-2]: <sup>\*\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die Standardgebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. Findet eine solche Ermässigung Anwendung, so beträgt die Standard-Bestimmungsgebühr 4 Schweizer Franken (für ein Muster oder Modell) und 1 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe eins, 6 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe zwei und 9 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe drei.
+[^annexu1-lvlI-3]: <sup>\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl). Des Weiteren sind diese Vertragsparteien aufgefordert, darauf hinzuweisen, dass die Ermässigung auch Anwendung findet auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist.»
 
-## II. …
+## II. [*Gelöscht*]
 
 <table>
-<tr><td>6.</td><td>…</td><td></td><td></td></tr>
+<tr><td>6. [*Gelöscht*]</td><td></td></tr>
 </table>
 
-## III. Verlängerung einer internationalen Eintragung, die aus einer internationalen Anmeldung hervorgegangen ist, die ausschliesslich oder teilweise durch das Abkommen in der Fassung von 1960 oder das Abkommen in der Fassung von 1999 geregelt ist
+## III. Verlängerung einer internationalen Eintragung
 
 <table>
-<tr><td>7.</td><td colspan="2">Grundgebühr</td><td></td><td>Schweizer Franken</td></tr>
-<tr><td></td><td>7.1</td><td>Für ein Muster oder ein Modell</td><td></td><td>200.–</td></tr>
-<tr><td></td><td>7.2</td><td>Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Eintragung inbegriffen ist</td><td></td><td>17.–</td></tr>
-<tr><td>8.</td><td colspan="2">Standard-Bestimmungsgebühr</td><td></td><td></td></tr>
-<tr><td></td><td>8.1</td><td>Für ein Muster oder ein Modell</td><td></td><td>21.–</td></tr>
-<tr><td></td><td>8.2</td><td>Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Eintragung inbegriffen ist</td><td></td><td>1.–</td></tr>
-<tr><td>9.</td><td colspan="2">Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)</td><td></td><td></td></tr>
-<tr><td>10.</td><td colspan="2">Zuschlagsgebühr (Schonfrist)</td><td></td><td>[^annexu1-lvlIII-1]\*\*\*\*</td></tr>
+<tr><th></th><th>Schweizer Franken</th></tr>
+<tr><td>7. Grundgebühr</td><td></td></tr>
+<tr><td>7.1 Für ein Muster oder ein Modell</td><td>200.–</td></tr>
+<tr><td>7.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Eintragung inbegriffen ist</td><td>17.–</td></tr>
+<tr><td>8. Standard-Bestimmungsgebühr</td><td></td></tr>
+<tr><td>8.1 Für ein Muster oder ein Modell</td><td>21.–</td></tr>
+<tr><td>8.2 Für jedes zusätzliche Muster oder Modell, das in derselben internationalen Eintragung inbegriffen ist</td><td>1.–</td></tr>
+<tr><td>9. Individuelle Bestimmungsgebühr (der Betrag der individuellen Bestimmungsgebühr wird durch jede betroffene Vertragspartei festgelegt)</td><td></td></tr>
+<tr><td>10. Zuschlagsgebühr (Schonfrist)</td><td>[^annexu1-lvlIII-1]\*\*\*\*</td></tr>
 </table>
 
-[^annexu1-lvlIII-1]: <sup>\*\*\*\*</sup> 50 % der Grundgebühr der Verlängerung
+[^annexu1-lvlIII-1]: <sup>\*\*\*\*</sup> 50 % der Grundgebühr der Verlängerung.
 
-## IV. …
+## IV. [*Gelöscht*]
 
 <table>
-<tr><td>11. und 12</td><td>…</td><td></td><td></td></tr>
+<tr><td>11. [*Gelöscht*]</td><td></td></tr>
+<tr><td>12. [*Gelöscht*]</td><td></td></tr>
 </table>
 
 ## V. Verschiedene Eintragungen
 
 <table>
-<tr><td colspan="4"></td><td>Schweizer Franken</td></tr>
-<tr><td>13.</td><td colspan="2">Änderung des Inhabers</td><td></td><td>144.–</td></tr>
-<tr><td>14.</td><td colspan="2">Änderung des Namens oder der Anschrift des Inhabers</td><td></td><td></td></tr>
-<tr><td></td><td>14.1</td><td>Für eine internationale Eintragung</td><td></td><td>144.–</td></tr>
-<tr><td></td><td>14.2</td><td>Für jede zusätzliche internationale Eintragung desselben Inhabers, die im gleichen Gesuch um Eintragung inbegriffen sind</td><td></td><td>72.–</td></tr>
-<tr><td>15.</td><td colspan="2">Verzicht</td><td></td><td>144.–</td></tr>
-<tr><td>16.</td><td colspan="2">Einschränkung</td><td></td><td>144.–</td></tr>
+<tr><th></th><th>Schweizer Franken</th></tr>
+<tr><td>13. Änderung des Inhabers</td><td>144.–</td></tr>
+<tr><td>14. Änderung des Namens oder der Anschrift des Inhabers</td><td></td></tr>
+<tr><td>14.1 Für eine internationale Eintragung</td><td>144.–</td></tr>
+<tr><td>14.2 Für jede zusätzliche internationale Eintragung desselben Inhabers, die im gleichen Gesuch um Eintragung inbegriffen sind</td><td>72.–</td></tr>
+<tr><td>15. Verzicht</td><td>144.–</td></tr>
+<tr><td>16. Einschränkung</td><td>144.–</td></tr>
 </table>
 
 ## VI. Informationen betreffend die veröffentlichten internationalen Eintragungen
 
 <table>
-<tr><td colspan="4"></td><td>Schweizer Franken</td></tr>
-<tr><td>17.</td><td colspan="2">Lieferung eines Auszug aus dem internationalen Register bezüglich einer veröffentlichten internationalen Eintragung</td><td></td><td>144.–</td></tr>
-<tr><td>18.</td><td colspan="2">Lieferung von nicht beglaubigte Abschriften des internationalen Registers oder von Aktenstücken einer veröffentlichten internationalen Eintragung</td><td></td><td></td></tr>
-<tr><td></td><td>18.1</td><td>Bis zu fünf Seiten</td><td></td><td>26.–</td></tr>
-<tr><td></td><td>18.2</td><td>Pro Seite, die über die fünfte hinausgeht, falls die Abschriften zur selben Zeit beantragt werden und sich auf dieselbe internationale Eintragung beziehen</td><td></td><td>2.–</td></tr>
-<tr><td>19.</td><td colspan="2">Lieferung von beglaubigten Abschriften des internationalen Registers oder von Aktenstücken einer veröffentlichten internationalen Eintragung</td><td></td><td></td></tr>
-<tr><td></td><td>19.1</td><td>Bis zu fünf Seiten</td><td></td><td>46.–</td></tr>
-<tr><td></td><td>19.2</td><td>Pro Seite, die über die fünfte hinausgeht, falls die Abschriften zur selben Zeit beantragt werden und sich auf dieselbe internationale Eintragung beziehen</td><td></td><td>2.–</td></tr>
-<tr><td>20.</td><td colspan="2">Lieferung einer Fotografie eines Musterabschnittes</td><td></td><td>57.–</td></tr>
-<tr><td>21.</td><td colspan="2">Lieferung einer schriftlichen Auskunft über den Inhalt des internationalen Registers oder der Akte einer veröffentlichten internationalen Eintragung</td><td></td><td>Schweizer Franken</td></tr>
-<tr><td></td><td>21.1</td><td>Für eine internationale Eintragung</td><td></td><td>82.–</td></tr>
-<tr><td></td><td>21.2</td><td>Für jede zusätzliche internationale Eintragung betreffend den Inhaber, falls dieselbe Auskunft zur gleichen Zeit verlangt wird</td><td></td><td>10.–</td></tr>
-<tr><td>22.</td><td colspan="2">Suche in der Liste der Inhaber von veröffentlichten internationalen Eintragungen</td><td></td><td></td></tr>
-<tr><td></td><td>22.1</td><td>Pro Suche, die sich auf den Namen einer bestimmten natürlichen oder juristischen Person erstreckt</td><td></td><td>82.–</td></tr>
-<tr><td></td><td>22.2</td><td>Für jede internationale Eintragung, die zusätzlich zur ersten gefunden wird</td><td></td><td>10.–</td></tr>
-<tr><td>23.</td><td colspan="2">...</td><td></td><td></td></tr>
+<tr><th></th><th>Schweizer Franken</th></tr>
+<tr><td>17. Lieferung eines Auszug aus dem internationalen Register bezüglich einer veröffentlichten internationalen Eintragung</td><td>144.–</td></tr>
+<tr><td>18. Lieferung von nicht beglaubigte Abschriften des internationalen Registers oder von Aktenstücken einer veröffentlichten internationalen Eintragung</td><td></td></tr>
+<tr><td>18.1 Bis zu fünf Seiten</td><td>26.–</td></tr>
+<tr><td>18.2 Pro Seite, die über die fünfte hinausgeht, falls die Abschriften zur selben Zeit beantragt werden und sich auf dieselbe internationale Eintragung beziehen</td><td>2.–</td></tr>
+<tr><td>19. Lieferung von beglaubigten Abschriften des internationalen Registers oder von Aktenstücken einer veröffentlichten internationalen Eintragung</td><td></td></tr>
+<tr><td>19.1 Bis zu fünf Seiten</td><td>46.–</td></tr>
+<tr><td>19.2 Pro Seite, die über die fünfte hinausgeht, falls die Abschriften zur selben Zeit beantragt werden und sich auf dieselbe internationale Eintragung beziehen</td><td>2.–</td></tr>
+<tr><td>20. Lieferung einer Fotografie eines Musterabschnittes</td><td>57.–</td></tr>
+<tr><td>21. Lieferung einer schriftlichen Auskunft über den Inhalt des internationalen Registers oder der Akte einer veröffentlichten internationalen Eintragung</td><td></td></tr>
+<tr><td>21.1 Für eine internationale Eintragung</td><td>82.–</td></tr>
+<tr><td>21.2 Für jede zusätzliche internationale Eintragung betreffend den Inhaber, falls dieselbe Auskunft zur gleichen Zeit verlangt wird</td><td>10.–</td></tr>
+<tr><td>22. Suche in der Liste der Inhaber von veröffentlichten internationalen Eintragungen</td><td></td></tr>
+<tr><td>22.1 Pro Suche, die sich auf den Namen einer bestimmten natürlichen oder juristischen Person erstreckt</td><td>82.–</td></tr>
+<tr><td>22.2 Für jede internationale Eintragung, die zusätzlich zur ersten gefunden wird</td><td>10.–</td></tr>
+<tr><td>23. [*Gelöscht*]</td><td></td></tr>
 </table>
 
 ## VII. Vom Internationalen Büro erbrachte Dienstleistungen
 
 <table>
-<tr><td>24. Das Internationale Büro ist berechtigt, für die nicht von diesem Gebührenverzeichnis erfassten Dienstleistungen eine Gebühr in einer von ihm selbst festgelegten Höhe zu erheben.</td><td></td><td></td></tr>
+<tr><td>24. Das Internationale Büro ist berechtigt, für die nicht von diesem Gebührenverzeichnis erfassten Dienstleistungen eine Gebühr in einer von ihm selbst festgelegten Höhe zu erheben.</td><td></td></tr>
 </table>

@@ -3,16 +3,16 @@ sr: "0.232.121.42"
 title: "Règlement d'exécution du 30 septembre 2003 de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels (avec barème)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Règlement d’exécution commun à l’Acte de 1999 et l’Acte de 1960 de l’Arrangement de La Haye
+# Règlement d’exécution de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels
 
 RO **2006** 1375[^t-1]
 
@@ -20,50 +20,32 @@ Texte original
 
 Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003 Entré en vigueur le 1<sup>er</sup> avril 2004
 
-(État le 1<sup>er</sup> janvier 2024)
+(État le 1<sup>er</sup> janvier 2025)
 
-[^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 30 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
+[^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
 ## Chapitre 1 Dispositions générales
 
 #### Règle 1
 
-**Définitions**[^1-1]
+**Expressions abrégées**[^1-1]
 
-\1) [*Expressions abrégées*] Aux fins du présent règlement d’exécution, il faut entendre par:
+Aux fins du présent règlement d’exécution, il faut entendre par:
 
-- i) «Acte de 1999[^1-2]», l’Acte signé à Genève le 2 juillet 1999 de l’Arrangement de La Haye;
-- ii) «Acte de 1960[^1-3]», l’Acte signé à La Haye le 28 novembre 1960 de l’Arrangement de La Haye;
-- iii) une expression utilisée dans le présent règlement d’exécution et qui est définie à l’art. premier de l’Acte de 1999 a le même sens que dans cet Acte;
+- i) «Acte», l’Acte signé à Genève le 2 juillet 1999 de l’Arrangement de La Haye[^1-2];
+- ii) «Acte de 1960», l’Acte signé à La Haye le 28 novembre 1960 de l’Arrangement de La Haye[^1-3];
+- ii<sup>bis</sup>) «article», sauf indication contraire, un article de l’Acte;
+- iii) une expression utilisée dans le présent règlement d’exécution et qui est définie à l’article premier de l’Acte a le même sens que dans cet Acte;
 - iv) «instructions administratives» s’entend des instructions administratives visées à la règle 34;
-- v) «communication» s’entend de toute demande internationale ou de toute requête, déclaration, invitation, notification ou information relative ou jointe à une demande internationale ou à un enregistrement international qui est adressée à l’Office d’une Partie contractante, au Bureau international, au déposant ou au titulaire par tout moyen autorisé par le présent règlement d’exécution ou les instructions administratives;
-- vi)[^1-4] «formulaire officiel» s’entend d’un formulaire établi par le Bureau international ou d’une interface électronique mise à disposition par le Bureau international sur le site Internet de l’Organisation, ou de tout formulaire ou interface électronique ayant le même contenu et la même présentation;
+- v) «communication» s’entend de toute demande internationale ou de toute requête, déclaration, invitation, notification ou information relative ou jointe à une demande internationale ou à un enregistrement international qui est adressée à l’Office d’une partie contractante, au Bureau international, au déposant ou au titulaire par tout moyen autorisé par le présent règlement d’exécution ou les instructions administratives;
+- vi) «formulaire officiel» s’entend d’un formulaire établi par le Bureau international ou d’une interface électronique mise à disposition par le Bureau international sur le site Internet de l’Organisation, ou de tout formulaire ou interface électronique ayant le même contenu et la même présentation;
 - vii) «classification internationale» s’entend de la classification établie en vertu de l’Arrangement de Locarno instituant une classification internationale pour les dessins et modèles industriels;
 - viii) «taxe prescrite» s’entend de la taxe applicable indiquée dans le barème des taxes;
-- ix) «bulletin» s’entend du bulletin périodique dans lequel le Bureau international effectue les publications prévues dans l’Acte de 1999, dans l’Acte de 1960 ou dans le présent règlement d’exécution, quel que soit le support utilisé;
-- x) «Partie contractante désignée en vertu de l’Acte de 1999» s’entend d’une Partie contractante désignée à l’égard de laquelle l’Acte de 1999 est applicable, soit parce qu’il s’agit du seul Acte commun auquel cette Partie contractante désignée et la Partie contractante du déposant sont liées, soit par application de l’art. 31.1), première phrase, de l’Acte de 1999;
-- xi) «Partie contractante désignée en vertu de l’Acte de 1960» s’entend d’une Partie contractante désignée à l’égard de laquelle l’Acte de 1960 est applicable, soit parce qu’il s’agit du seul Acte commun auquel cette Partie contractante désignée et l’État d’origine visé à l’art. 2 de l’Acte de 1960 sont liés, soit par application de l’art. 31.1), deuxième phrase, de l’Acte de 1999;
-- xii) «demande internationale régie exclusivement par l’Acte de 1999» s’entend d’une demande internationale à l’égard de laquelle toutes les Parties contractantes désignées sont des Parties contractantes désignées en vertu de l’Acte de 1999;
-- xiii) «demande internationale régie exclusivement par l’Acte de 1960» s’entend d’une demande internationale à l’égard de laquelle toutes les Parties contractantes désignées sont des Parties contractantes désignées en vertu de l’Acte de 1960;
-- xiv)
+- ix) «bulletin» s’entend du bulletin périodique dans lequel le Bureau international effectue les publications prévues dans l’Acte ou dans le présent règlement d’exécution, quel que soit le support utilisé.
 
-  «demande internationale régie à la fois par l’Acte de 1999 et l’Acte de 1960» s’entend d’une demande internationale à l’égard de laquelle:
-
-  - – au moins une Partie contractante a été désignée en vertu de l’Acte de 1999, et
-  - – au moins une Partie contractante a été désignée en vertu de l’Acte de 1960;
-
-\2) [*Correspondance entre certaines expressions utilisées dans l’Acte de 1999 et l’Acte de 1960*] Aux fins du présent règlement d’exécution:
-
-- i) une référence aux expressions «demande internationale» ou «enregistrement international» est réputée inclure, le cas échéant, une référence à l’expression «dépôt international» visée à l’Acte de 1960;
-- ii) une référence aux termes «déposant» et «titulaire» est réputée inclure, le cas échéant, une référence aux termes «déposant» et «titulaire» visés à l’Acte de 1960;
-- iii) une référence à l’expression «Partie contractante» est réputée inclure, le cas échéant, une référence à un État partie à l’Acte de 1960;
-- iv) une référence à l’expression «Partie contractante dont l’Office est un Office procédant à un examen» est réputée inclure, le cas échéant, une référence à l’expression «État procédant à un examen de nouveauté» telle que définie à l’art. 2 de l’Acte de 1960;
-- v) une référence à l’expression «taxe de désignation individuelle» est réputée inclure, le cas échéant, une référence à la taxe mentionnée à l’art. 15.1)2)b) de l’Acte de 1960.
-
-[^1-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^1-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 [^1-2]: [RS 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
 [^1-3]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
-[^1-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
 
 #### Règle 2
 
@@ -122,24 +104,15 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 #### Règle 5
 
-**Excuse de retard dans l’observation de délais[^5-1]**
+**Excuse de retard dans l’observation de délais**[^5-1]
 
-\1) [*Excuse de retard dans l’observation de délais dû à des causes de force majeure*] L’inobservation, par une partie intéressée, d’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant le Bureau international est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que ce délai n’a pas été respecté pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, d’épidémie, de perturbations dans les services postaux, d’acheminement du courrier ou de communication électronique dues à des circonstances indépendantes de la volonté de la partie intéressée ou à une autre cause de force majeure.[^5-2]
+\1) [*Excuse de retard dans l’observation de délais dû à des causes de force majeure*] L’inobservation, par une partie intéressée, d’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant le Bureau international est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que ce délai n’a pas été respecté pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, d’épidémie, de perturbations dans les services postaux, d’acheminement du courrier ou de communication électronique dues à des circonstances indépendantes de la volonté de la partie intéressée ou à une autre cause de force majeure.
 
-\2) [*Dispense de preuve; Déclaration en lieu et place de la preuve*] Le Bureau international peut renoncer à l’exigence énoncée à l’alinéa 1) concernant la présentation d’une preuve. Dans ce cas, la partie intéressée doit soumettre une déclaration selon laquelle l’inobservation du délai était due à la raison pour laquelle le Bureau international a renoncé à l’exigence concernant la présentation de la preuve.[^5-3]
+\2) [*Dispense de preuve; Déclaration en lieu et place de la preuve*] Le Bureau international peut renoncer à l’exigence énoncée à l’alinéa 1) concernant la présentation d’une preuve. Dans ce cas, la partie intéressée doit soumettre une déclaration selon laquelle l’inobservation du délai était due à la raison pour laquelle le Bureau international a renoncé à l’exigence concernant la présentation de la preuve.
 
-\3) [*Limites à l’excuse*] L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’alinéa 1), ou la déclaration visée à l’alinéa 2), est reçue par le Bureau international et l’acte correspondant est accompli devant celui-ci dès qu’il est raisonnablement possible de le faire et au plus tard six mois après l’expiration du délai applicable.[^5-4]
+\3) [*Limites à l’excuse*] L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’alinéa 1), ou la déclaration visée à l’alinéa 2), est reçue par le Bureau international et l’acte correspondant est accompli devant celui-ci dès qu’il est raisonnablement possible de le faire et au plus tard six mois après l’expiration du délai applicable.
 
-\4) [*Limites à l’excuse*] L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’al. 1), 2) ou 3) et la communication ou, le cas échéant, un double de celle ci, sont reçus par le Bureau international au plus tard six mois après l’expiration du délai.[^5-5]
-
-\5) [*Exception*] La présente règle ne s’applique pas au paiement de la deuxième partie de la taxe de désignation individuelle par l’intermédiaire du Bureau international ainsi que le prévoit la règle 12.3)c).[^5-6]
-
-[^5-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^5-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^5-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^5-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^5-5]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^5-6]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^5-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 #### Règle 6
 
@@ -163,7 +136,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 #### Règle 7
 
-**Conditions relatives à la demande internationale**
+**Conditions relatives à la demande internationale**[^7-1]
 
 \1) [*Formulaire et signature*] La demande internationale doit être présentée sur le formulaire officiel. La demande internationale doit être signée par le déposant.
 
@@ -173,37 +146,32 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \5) [*Contenu facultatif de la demande internationale*]
 
-\6) [*Exclusion d’éléments supplémentaires*] Si la demande internationale contient des indications autres que celles qui sont requises ou autorisées par l’Acte de 1999, l’Acte de 1960, le présent règlement d’exécution ou les instructions administratives, le Bureau international les supprime d’office. Si la demande internationale est accompagnée de documents autres que ceux qui sont requis ou autorisés, le Bureau international peut s’en défaire.[^7-1]
+\6) [*Exclusion d’éléments supplémentaires*] Si la demande internationale contient des indications autres que celles qui sont requises ou autorisées par l’Acte, le présent règlement d’exécution ou les instructions administratives, le Bureau international les supprime d’office. Si la demande internationale est accompagnée de documents autres que ceux qui sont requis ou autorisés, le Bureau international peut s’en défaire.
 
-\7) [*Tous les produits doivent appartenir à la même class*e] Tous les produits qui constituent les dessins ou modèles industriels inclus dans la demande internationale, ou en relation avec lesquels ces dessins ou modèles doivent être utilisés, doivent appartenir à la même classe de la classification internationale.
+\7) [*Tous les produits doivent appartenir à la même classe*] Tous les produits qui constituent les dessins ou modèles industriels inclus dans la demande internationale, ou en relation avec lesquels ces dessins ou modèles doivent être utilisés, doivent appartenir à la même classe de la classification internationale.
 
 \3) [*Contenu obligatoire de la demande internationale*] La demande internationale doit contenir ou indiquer:
 
-- i)[^7-2] le nom du déposant, indiqué conformément aux instructions administratives;
-- ii)[^7-3] l’adresse, indiquée conformément aux instructions administratives, ainsi que l’adresse électronique du déposant;
-- iii) la ou les Parties contractantes à l’égard desquelles le déposant remplit les conditions pour être le titulaire d’un enregistrement international;
+- i) le nom du déposant, indiqué conformément aux instructions administratives;
+- ii) l’adresse, indiquée conformément aux instructions administratives, ainsi que l’adresse électronique du déposant;
+- iii) la ou les parties contractantes à l’égard desquelles le déposant remplit les conditions pour être le titulaire d’un enregistrement international, et la partie contractante du déposant;
 - iv) le ou les produits qui constituent le dessin ou modèle industriel ou en relation avec lesquels le dessin ou modèle industriel doit être utilisé, et préciser si le ou les produits constituent le dessin ou modèle industriel ou sont des produits en relation avec lesquels le dessin ou modèle industriel doit être utilisé; le ou les produits doivent être indiqués de préférence au moyen des termes figurant dans la liste des produits de la classification internationale;
 - v) le nombre de dessins et modèles industriels inclus dans la demande internationale, qui ne peut dépasser 100, et le nombre de reproductions ou de spécimens des dessins ou modèles industriels accompagnant la demande internationale conformément à la règle 9 ou 10;
-- vi) les Parties contractantes désignées;
+- vi) les parties contractantes désignées;
 - vii) le montant des taxes payées et le mode de paiement, ou des instructions à l’effet de prélever le montant requis des taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions.
 
-- a) À l’égard des Parties contractantes désignées en vertu de l’Acte de 1999 dans une demande internationale, cette demande doit contenir, en plus des indications visées à l’al. 3)iii), l’indication de la Partie contractante du déposant.
-- b) Lorsqu’une Partie contractante désignée en vertu de l’Acte de 1999 a notifié au Directeur général, conformément à l’art. 5.2)a) de l’Acte de 1999, que sa législation exige un ou plusieurs des éléments visés à l’art. 5.2)b) de l’Acte de 1999, la demande internationale doit contenir cet élément ou ces éléments, présentés de la manière prescrite à la règle 11.
-- c) Lorsque la règle 8 s’applique, la demande internationale doit, selon le cas, contenir les indications visées aux al. 2) et 3) de cette règle et être accompagnée de toute déclaration, tout document, tout serment ou toute attestation visés dans cette règle.[^7-4]
+- a) Lorsqu’une partie contractante désignée a notifié au Directeur général, conformément à l’article 5.2)a), que sa législation exige un ou plusieurs des éléments visés à l’article 5.2)b), la demande internationale doit contenir cet élément ou ces éléments, présentés de la manière prescrite à la règle 11.
+- b) Lorsque la règle 8 s’applique, la demande internationale doit, selon le cas, contenir les indications visées aux alinéas 2) et 3) de cette règle et être accompagnée de toute déclaration, tout document, tout serment ou toute attestation visés dans cette règle.
 
-- a) Tout élément visé au point i) ou ii) de l’art. 5.2) b) de l’Acte de 1999 ou à l’art. 8.4) a) de l’Acte de 1960 peut, au choix du déposant, être inclus dans la demande internationale même s’il n’est pas exigé en conséquence d’une notification faite conformément à l’art. 5.2) a) de l’Acte de 1999 ou en conséquence d’une exigence selon l’art. 8.4) a) de l’Acte de 1960.
-- b)[^7-5] Lorsque le déposant a un mandataire, la demande internationale doit contenir les nom et adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
-- c) Lorsque le déposant souhaite, en vertu de l’art. 4 de la Convention de Paris, bénéficier de la priorité d’un dépôt antérieur, la demande internationale doit contenir une déclaration revendiquant la priorité de ce dépôt antérieur, assortie de l’indication du nom de l’Office auprès duquel il a été effectué ainsi que de la date et, s’il est disponible, du numéro de ce dépôt et, lorsque la revendication de priorité ne s’applique pas à l’ensemble des dessins et modèles industriels inclus dans la demande internationale, de l’indication de ceux auxquels elle s’applique ou ne s’applique pas.
-- d) Lorsque le déposant souhaite se prévaloir de l’art. 11 de la Convention de Paris, la demande internationale doit contenir une déclaration selon laquelle le ou les produits qui constituent ou incorporent le dessin ou modèle industriel ont figuré dans une exposition internationale officielle ou officiellement reconnue, ainsi que le lieu de l’exposition et la date à laquelle ce ou ces produits y ont été présentés pour la première fois; lorsque les dessins ou modèles industriels inclus dans la demande internationale ne sont pas tous concernés, la demande internationale doit indiquer ceux auxquels la déclaration s’applique ou ne s’applique pas.
+- a) Tout élément visé au point i) ou ii) de l’article 5.2)b) peut, au choix du déposant, être inclus dans la demande internationale même s’il n’est pas exigé en conséquence d’une notification faite conformément à l’article 5.2)a).
+- b) Lorsque le déposant a un mandataire, la demande internationale doit contenir les nom et adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
+- c) Lorsque le déposant souhaite, en vertu de l’article 4 de la Convention de Paris, bénéficier de la priorité d’un dépôt antérieur, la demande internationale doit contenir une déclaration revendiquant la priorité de ce dépôt antérieur, assortie de l’indication du nom de l’Office auprès duquel il a été effectué ainsi que de la date et, s’il est disponible, du numéro de ce dépôt et, lorsque la revendication de priorité ne s’applique pas à l’ensemble des dessins et modèles industriels inclus dans la demande internationale, de l’indication de ceux auxquels elle s’applique ou ne s’applique pas.
+- d) Lorsque le déposant souhaite se prévaloir de l’article 11 de la Convention de Paris, la demande internationale doit contenir une déclaration selon laquelle le ou les produits qui constituent ou incorporent le dessin ou modèle industriel ont figuré dans une exposition internationale officielle ou officiellement reconnue, ainsi que le lieu de l’exposition et la date à laquelle ce ou ces produits y ont été présentés pour la première fois; lorsque les dessins ou modèles industriels inclus dans la demande internationale ne sont pas tous concernés, la demande internationale doit indiquer ceux auxquels la déclaration s’applique ou ne s’applique pas.
 - e) Lorsque le déposant souhaite que la publication du dessin ou modèle industriel soit ajournée, la demande internationale doit contenir une demande d’ajournement de la publication.
 - f) La demande internationale peut aussi contenir toute déclaration, tout document ou toute autre indication pertinente que les instructions administratives peuvent spécifier.
 - g) La demande internationale peut être accompagnée d’une déclaration indiquant les informations qui, à la connaissance du déposant, sont pertinentes pour établir que le dessin ou modèle concerné satisfait aux conditions de protection.
 
-[^7-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-[^7-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^7-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^7-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^7-5]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^7-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 8
 
@@ -211,23 +179,23 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \1) [*Notification des exigences spéciales concernant le déposant et le créateur*]
 
-\2) [*Identité du créateur et cession de la demande internationale*] Lorsqu’une demande internationale contient la désignation d’une Partie contractante qui a fait la déclaration visée à l’al. 1)a)i),
+\3) [*Identité du créateur et serment ou attestation du créateur*] Lorsqu’une demande internationale contient la désignation d’une partie contractante qui a fait la déclaration visée à l’alinéa 1)a)ii), elle doit aussi contenir des indications concernant l’identité du créateur du dessin ou modèle industriel.
 
-\3) [*Identité du créateur et serment ou attestation du créateur*] Lorsqu’une demande internationale contient la désignation d’une Partie contractante qui a fait la déclaration visée à l’al. 1)a)ii), elle doit aussi contenir des indications concernant l’identité du créateur du dessin ou modèle industriel.
+- a) i) Lorsque la législation d’une partie contractante exige qu’une demande de protection d’un dessin ou modèle industriel soit déposée au nom du créateur du dessin ou modèle, cette partie contractante peut notifier ce fait au Directeur général dans une déclaration.
+  - ii) Lorsque la législation d’une partie contractante exige un serment ou une attestation du créateur, cette partie contractante peut notifier ce fait au Directeur général dans une déclaration.
 
-- a) i) Lorsque la législation d’une Partie contractante liée par l’Acte de 1999 exige qu’une demande de protection d’un dessin ou modèle industriel soit déposée au nom du créateur du dessin ou modèle, cette Partie contractante peut notifier ce fait au Directeur général dans une déclaration.
-  - ii) Lorsque la législation d’une Partie contractante liée par l’Acte de 1999 exige un serment ou une attestation du créateur, cette Partie contractante peut notifier ce fait au Directeur général dans une déclaration.
+- b) La déclaration visée au sous-alinéa a)i) doit préciser la forme et le contenu obligatoire de toute déclaration ou document exigé aux fins de l’alinéa 2). La déclaration visée au sous-alinéa a)ii) doit préciser la forme et le contenu obligatoire du serment ou de l’attestation requis.
 
-- b) La déclaration visée au sous‑al. a)i) doit préciser la forme et le contenu obligatoire de toute déclaration ou document exigé aux fins de l’al. 2). La déclaration visée au sous‑al. a)ii) doit préciser la forme et le contenu obligatoire du serment ou de l’attestation requis.
+\2) [*Identité du créateur et cession de la demande internationale*] Lorsqu’une demande internationale contient la désignation d’une partie contractante qui a fait la déclaration visée à l’alinéa 1)a)i):
 
-- i) elle doit aussi contenir des indications concernant l’identité du créateur du dessin ou modèle industriel, ainsi qu’une déclaration, conforme aux exigences énoncées en vertu de l’al. 1)b), selon laquelle celui‑ci croit être le créateur du dessin ou modèle industriel; la personne ainsi indiquée comme étant le créateur est réputée être le déposant aux fins de la désignation de cette Partie contractante, quelle que soit la personne indiquée comme étant le déposant en vertu de la règle 7.3)i);
-- ii) si la personne indiquée comme étant le créateur n’est pas celle indiquée comme étant le déposant en vertu de la règle 7.3)i), la demande internationale doit être accompagnée d’une déclaration ou d’un document, conforme aux exigences énoncées en vertu de l’al. 1)b), établissant qu’elle a été cédée par la personne indiquée comme étant le créateur à la personne indiquée comme étant le déposant. Cette dernière est inscrite comme titulaire de l’enregistrement international.
+- i) elle doit aussi contenir des indications concernant l’identité du créateur du dessin ou modèle industriel, ainsi qu’une déclaration, conforme aux exigences énoncées en vertu de l’alinéa 1)b), selon laquelle celui-ci croit être le créateur du dessin ou modèle industriel; la personne ainsi indiquée comme étant le créateur est réputée être le déposant aux fins de la désignation de cette partie contractante, quelle que soit la personne indiquée comme étant le déposant en vertu de la règle 7.3)i);
+- ii) si la personne indiquée comme étant le créateur n’est pas celle indiquée comme étant le déposant en vertu de la règle 7.3)i), la demande internationale doit être accompagnée d’une déclaration ou d’un document, conforme aux exigences énoncées en vertu de l’alinéa 1)b), établissant qu’elle a été cédée par la personne indiquée comme étant le créateur à la personne indiquée comme étant le déposant. Cette dernière est inscrite comme titulaire de l’enregistrement international.
 
-[^8-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^8-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 9
 
-**Reproductions du dessin ou modèle industriel**
+**Reproductions du dessin ou modèle industriel**[^9-1]
 
 \1) [*Forme et nombre des reproductions du dessin ou modèle industriel*]
 
@@ -235,7 +203,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \3) [*Vues exigées*]
 
-\4) [*Refus pour des motifs relatifs aux reproductions du dessin ou modèle industriel*] Une Partie contractante ne peut pas refuser les effets de l’enregistrement international au motif que des conditions relatives à la forme des reproductions du dessin ou modèle industriel qui s’ajoutent aux conditions notifiées par cette Partie contractante conformément à l’al. 3) a) ou qui en diffèrent n’ont, selon sa législation, pas été remplies. Une Partie contractante peut toutefois refuser les effets de l’enregistrement international au motif que les reproductions figurant dans l’enregistrement international ne suffisent pas à divulguer pleinement le dessin ou modèle industriel.
+\4) [*Refus pour des motifs relatifs aux reproductions du dessin ou modèle industriel*] Une partie contractante ne peut pas refuser les effets de l’enregistrement international au motif que des conditions relatives à la forme des reproductions du dessin ou modèle industriel qui s’ajoutent aux conditions notifiées par cette partie contractante conformément à l’alinéa 3)a) ou qui en diffèrent n’ont, selon sa législation, pas été remplies. Une partie contractante peut toutefois refuser les effets de l’enregistrement international au motif que les reproductions figurant dans l’enregistrement international ne suffisent pas à divulguer pleinement le dessin ou modèle industriel.
 
 - a) Les reproductions du dessin ou modèle industriel doivent consister, au choix du déposant, en des photographies ou d’autres représentations graphiques du dessin ou modèle industriel proprement dit ou du ou des produits qui le constituent. Le même produit peut être montré sous différents angles; des vues correspondant à différents angles doivent figurer sur des photographies ou autres représentations graphiques distinctes.
 - b) Toute reproduction doit être remise en un nombre déterminé d’exemplaires spécifié dans les instructions administratives.
@@ -243,109 +211,99 @@ Les communications adressées au Bureau international doivent être effectuées 
 - a) Les reproductions doivent être d’une qualité suffisante pour que tous les détails du dessin ou modèle industriel apparaissent nettement et pour qu’une publication soit possible.
 - b) Les éléments qui figurent dans une reproduction mais qui ne font pas l’objet d’une demande de protection peuvent être indiqués de la façon prévue dans les instructions administratives.
 
-- a) Sous réserve du sous‑al. b), toute Partie contractante liée par l’Acte de 1999 qui exige certaines vues précises du ou des produits qui constituent le dessin ou modèle industriel ou en relation avec lesquels le dessin ou modèle industriel doit être utilisé doit le notifier au Directeur général dans une déclaration, en spécifiant les vues qui sont exigées et les circonstances dans lesquelles elles le sont.
-- b) Aucune Partie contractante ne peut exiger plus d’une vue dans le cas d’un dessin industriel ou d’un produit à deux dimensions ou plus de six vues lorsque le produit est tridimensionnel.
+- a) Sous réserve du sous-alinéa b), toute partie contractante qui exige certaines vues précises du ou des produits qui constituent le dessin ou modèle industriel ou en relation avec lesquels le dessin ou modèle industriel doit être utilisé doit le notifier au Directeur général dans une déclaration, en spécifiant les vues qui sont exigées et les circonstances dans lesquelles elles le sont.
+- b) Aucune partie contractante ne peut exiger plus d’une vue dans le cas d’un dessin industriel ou d’un produit à deux dimensions ou plus de six vues lorsque le produit est tridimensionnel.
+
+[^9-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 10
 
-**Spécimens du dessin industriel en cas de demande d’ajournement de la publication**
+**Spécimens du dessin industriel en cas de demande d’ajournement de la publication**[^10-1]
 
 \2) [*Spécimens*] Tous les spécimens doivent tenir dans un seul paquet. Les spécimens peuvent être pliés. Les dimensions et le poids maximums du paquet sont spécifiés dans les instructions administratives.
 
-\1) [*Nombre de spécimens*] Lorsqu’une demande internationale régie exclusivement par l’Acte de 1999 contient une demande d’ajournement de la publication en ce qui concerne un dessin industriel (bidimensionnel) et que, au lieu d’être accompagnée des reproductions visées à la règle 9, elle est accompagnée de spécimens du dessin industriel, elle doit être accompagnée du nombre ci‑après de spécimens:
+\1) [*Nombre de spécimens*] Lorsqu’une demande internationale contient une demande d’ajournement de la publication en ce qui concerne un dessin industriel (bidimensionnel) et que, au lieu d’être accompagnée des reproductions visées à la règle 9, elle est accompagnée de spécimens du dessin industriel, elle doit être accompagnée du nombre ci-après de spécimens:
 
 - i) un pour le Bureau international, et
-- ii) un pour chaque Office désigné qui a notifié au Bureau international, en vertu de l’art. 10.5) de l’Acte de 1999, qu’il souhaite recevoir copie des enregistrements internationaux.
+- ii) un pour chaque Office désigné qui a notifié au Bureau international, en vertu de l’article 10.5), qu’il souhaite recevoir copie des enregistrements internationaux.
+
+[^10-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 11
 
-**Identité du créateur; description; revendication**
+**Identité du créateur; description; revendication**[^11-1]
 
-\1) [*Identité du créateur*] Lorsque la demande internationale contient des indications relatives à l’identité du créateur du dessin ou modèle industriel, les nom et adresse de celui‑ci doivent être donnés conformément aux instructions administratives.
+\1) [*Identité du créateur*] Lorsque la demande internationale contient des indications relatives à l’identité du créateur du dessin ou modèle industriel, les nom et adresse de celui-ci doivent être donnés conformément aux instructions administratives.
 
-\2) [*Description*] Lorsque la demande internationale contient une description, celle‑ci doit concerner les éléments qui apparaissent sur les reproductions du dessin ou modèle industriel et ne peut faire état de détails techniques concernant le fonctionnement du dessin ou modèle industriel ou ses possibilités d’emploi. Si la description excède 100 mots, une taxe supplémentaire, prévue dans le barème des taxes, doit être payée.
+\2) [*Description*] Lorsque la demande internationale contient une description, celle-ci doit concerner les éléments qui apparaissent sur les reproductions du dessin ou modèle industriel et ne peut faire état de détails techniques concernant le fonctionnement du dessin ou modèle industriel ou ses possibilités d’emploi. Si la description excède 100 mots, une taxe supplémentaire, prévue dans le barème des taxes, doit être payée.
 
-\3) [*Revendication*] Une déclaration faite en vertu de l’art. 5.2) a) de l’Acte de 1999 selon laquelle la législation d’une Partie contractante exige une revendication pour qu’une date de dépôt soit attribuée à une demande de protection d’un dessin ou modèle industriel en vertu de cette législation doit indiquer le libellé exact de la revendication exigée. Lorsque la demande internationale contient une revendication, le libellé de cette revendication doit être conforme aux termes de ladite déclaration.
+\3) [*Revendication*] Une déclaration faite en vertu de l’article 5.2)a) selon laquelle la législation d’une partie contractante exige une revendication pour qu’une date de dépôt soit attribuée à une demande de protection d’un dessin ou modèle industriel en vertu de cette législation doit indiquer le libellé exact de la revendication exigée. Lorsque la demande internationale contient une revendication, le libellé de cette revendication doit être conforme aux termes de ladite déclaration.
+
+[^11-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 12
 
-**Taxes relatives à la demande internationale**
+**Taxes relatives à la demande internationale**[^12-1]
 
 \1) [*Taxes prescrites*]
 
-\2) [*Date à laquelle les taxes doivent être payées*] Les taxes visées à l’al. 1) doivent, sous réserve de l’al. 3), être payées au moment du dépôt de la demande internationale, à l’exception de la taxe de publication qui, lorsque la demande internationale contient une demande d’ajournement de la publication, peut être payée postérieurement conformément à la règle 16.3) a).
+\2) [*Date à laquelle les taxes doivent être payées*] Les taxes visées à l’alinéa 1) doivent, sous réserve de l’alinéa 3), être payées au moment du dépôt de la demande internationale, à l’exception de la taxe de publication qui, lorsque la demande internationale contient une demande d’ajournement de la publication, peut être payée postérieurement conformément à la règle 16.3)a).
 
 \3) [*Taxe de désignation individuelle payable en deux parties*]
 
-- a)
+- a) La demande internationale donne lieu au paiement des taxes suivantes:
+- i) une taxe de base;
+- ii) une taxe de désignation standard pour chaque partie contractante désignée qui n’a pas fait la déclaration prévue à l’article 7.2);
+- iii) une taxe de désignation individuelle pour chaque partie contractante désignée qui a fait la déclaration prévue à l’article 7.2);
+- iv) une taxe de publication.
+- b) Le montant des taxes visées aux points i), ii) et iv) est fixé dans le barème des taxes.
 
-  La demande internationale donne lieu au paiement des taxes suivantes:
+- a) La déclaration visée à l’article 7.2) peut également préciser que la taxe de désignation individuelle due pour la partie contractante concernée comprend deux parties, la première devant être payée au moment du dépôt de la demande internationale et la seconde à une date ultérieure qui est fixée conformément à la législation de la partie contractante concernée.
+- b) Lorsque le sous-alinéa a) s’applique, la référence à l’alinéa 1)iii) à une taxe de désignation individuelle s’entend comme une référence à la première partie de la taxe de désignation individuelle.
+- c) La seconde partie de la taxe de désignation individuelle peut être payée soit directement à l’Office concerné, soit par l’intermédiaire du Bureau international, au choix du titulaire. Lorsqu’elle est payée directement à l’Office concerné, celui-ci notifie ce fait au Bureau international, et le Bureau international inscrit cette notification au registre international. Lorsqu’elle est payée par l’intermédiaire du Bureau international, celui-ci inscrit le paiement au registre international et notifie ce fait à l’Office concerné.
+- d) Lorsque la seconde partie de la taxe de désignation individuelle n’est pas payée dans le délai applicable, l’Office concerné le notifie au Bureau international et demande au Bureau international de radier l’inscription de l’enregistrement international dans le registre international à l’égard de la partie contractante concernée. Le Bureau international agit en conséquence et notifie ce fait au titulaire.
 
-  - i) une taxe de base;
-  - ii) une taxe de désignation standard pour chaque partie contractante désignée qui n’a pas fait la déclaration prévue à l’article 7.2), de l’Acte de 1999 ou à la règle 36.1), dont le niveau dépend de la déclaration prévue au sous-alinéa c);
-  - iii) une taxe de désignation individuelle pour chaque partie contractante désignée qui a fait la déclaration prévue à l’article 7.2), de l’Acte de 1999 ou à la règle 36.1);
-  - iv) une taxe de publication.
-
-- b)
-
-  Le niveau de la taxe de désignation standard visée au sous-alinéa a)ii) est le suivant:
-
-  - i) pour les parties contractantes dont l’Office n’effectue pas un examen quant au fond: niveau un;
-  - ii) pour les parties contractantes dont l’Office effectue un examen quant au fond qui n’est pas un examen de nouveauté: niveau deux;
-  - iii) pour les parties contractantes dont l’Office effectue un examen quant au fond, y compris un examen d’office quant à la nouveauté ou un examen de nouveauté à la suite d’une opposition formée par des tiers: niveau trois.
-
-- c)
-  - i) Toute partie contractante dont la législation l’habilite à appliquer les niveaux deux ou trois visés au sous-alinéa b) peut, dans une déclaration, notifier ce fait au Directeur général. Une partie contractante peut aussi préciser, dans sa déclaration, qu’elle opte pour l’application du niveau deux, même si sa législation l’habilite à appliquer le niveau trois.
-  - ii) Toute déclaration visée au point i) prend effet trois mois après sa réception par le Directeur général ou à toute date ultérieure indiquée dans la déclaration. Elle peut aussi être retirée en tout temps par notification adressée au Directeur général; dans ce cas, le retrait prend effet un mois après sa réception par le Directeur général ou à toute date ultérieure indiquée dans la notification. En l’absence d’une telle déclaration ou lorsque la déclaration a été retirée, le niveau un est réputé être le niveau applicable à la taxe de désignation standard pour ladite partie contractante.[^12-1]
-
-- a) La déclaration visée à l’art. 7.2) de l’Acte de 1999 ou à la règle 36.1) peut également préciser que la taxe de désignation individuelle due pour la Partie contractante concernée comprend deux parties, la première devant être payée au moment du dépôt de la demande internationale et la seconde à une date ultérieure qui est fixée conformément à la législation de la Partie contractante concernée.
-- b) Lorsque le sous‑al. a) s’applique, la référence à l’al. 1) iii) à une taxe de désignation individuelle s’entend comme une référence à la première partie de la taxe de désignation individuelle.
-- c) La seconde partie de la taxe de désignation individuelle peut être payée soit directement à l’Office concerné, soit par l’intermédiaire du Bureau international, au choix du titulaire. Lorsqu’elle est payée directement à l’Office concerné, celui‑ci notifie ce fait au Bureau international, et le Bureau international inscrit cette notification au registre international. Lorsqu’elle est payée par l’intermédiaire du Bureau international, celui‑ci inscrit le paiement au registre international et notifie ce fait à l’Office concerné.
-- d) Lorsque la seconde partie de la taxe de désignation individuelle n’est pas payée dans le délai applicable, l’Office concerné le notifie au Bureau international et demande au Bureau international de radier l’inscription de l’enregistrement international dans le registre international à l’égard de la Partie contractante concernée. Le Bureau international agit en conséquence et notifie ce fait au titulaire.
-
-[^12-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 3 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+[^12-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 13
 
-**Demande internationale déposée par l’intermédiaire d’un Office**
+**Demande internationale déposée par l’intermédiaire d’un Office**[^13-1]
 
-\1) [*Date de réception par l’Office et transmission au Bureau international*] Lorsqu’une demande internationale régie exclusivement par l’Acte de 1999 est déposée par l’intermédiaire de l’Office de la Partie contractante du déposant, cet Office notifie au déposant la date à laquelle il a reçu la demande. En même temps qu’il transmet la demande internationale au Bureau international, l’Office notifie au Bureau international la date à laquelle il a reçu la demande. L’Office notifie au déposant le fait qu’il a transmis la demande internationale au Bureau international.
+\1) [*Date de réception par l’Office et transmission au Bureau international*] Lorsqu’une demande internationale est déposée par l’intermédiaire de l’Office de la partie contractante du déposant, cet Office notifie au déposant la date à laquelle il a reçu la demande. En même temps qu’il transmet la demande internationale au Bureau international, l’Office notifie au Bureau international la date à laquelle il a reçu la demande. L’Office notifie au déposant le fait qu’il a transmis la demande internationale au Bureau international.
 
-\2) [*Taxe de transmission*] Un Office qui exige une taxe de transmission, comme le prévoit l’art. 4.2) de l’Acte de 1999, notifie au Bureau international le montant de cette taxe, qui ne devrait pas dépasser les coûts administratifs correspondant à la réception et à la transmission de la demande internationale, ainsi que sa date d’exigibilité.
+\2) [*Taxe de transmission*] Un Office qui exige une taxe de transmission, comme le prévoit l’article 4.2), notifie au Bureau international le montant de cette taxe, qui ne devrait pas dépasser les coûts administratifs correspondant à la réception et à la transmission de la demande internationale, ainsi que sa date d’exigibilité.
 
-\3) [*Date de dépôt d’une demande internationale déposée indirectement*] Sous réserve de la règle 14.2), la date de dépôt d’une demande internationale déposée par l’intermédiaire d’un Office est
+\4) [*Date de dépôt lorsque la partie contractante du déposant exige un contrôle de sécurité*] Nonobstant l’alinéa 3), une partie contractante dont la législation, à la date à laquelle elle devient partie à l’Acte, exige un contrôle de sécurité peut, dans une déclaration, notifier au Directeur général que le délai d’un mois indiqué dans ledit alinéa est remplacé par un délai de six mois.
 
-\4) [*Date de dépôt lorsque la Partie contractante du déposant exige un contrôle de sécurité*] Nonobstant l’al. 3), une Partie contractante dont la législation, à la date à laquelle elle devient Partie à l’Acte de 1999, exige un contrôle de sécurité peut, dans une déclaration, notifier au Directeur général que le délai d’un mois indiqué dans ledit alinéa est remplacé par un délai de six mois.
+\3) [*Date de dépôt d’une demande internationale déposée indirectement*] Sous réserve de la règle 14.2), la date de dépôt d’une demande internationale déposée par l’intermédiaire d’un Office est:
 
-- i) lorsque la demande internationale est régie exclusivement par l’Acte de 1999, la date à laquelle cet Office a reçu la demande internationale, à condition que celle-ci soit reçue par le Bureau international dans un délai d’un mois à compter de cette date;
+- i) la date à laquelle cet Office a reçu la demande internationale, à condition que celle-ci soit reçue par le Bureau international dans un délai d’un mois à compter de cette date;
 - ii) dans tous les autres cas, la date à laquelle le Bureau international reçoit la demande internationale.
+
+[^13-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 14
 
-**Examen par le Bureau international**
+**Examen par le Bureau international**[^14-1]
 
-\1) [*Délai pour corriger les irrégularités*]
+\1) [*Délai pour corriger les irrégularités*] Si le Bureau international constate que la demande internationale ne remplit pas, au moment de sa réception par le Bureau international, les conditions requises, il invite le déposant à la régulariser dans un délai de trois mois à compter de la date de l’invitation adressée par le Bureau international.
 
-\3) [*Demande internationale réputée abandonnée; remboursement des taxes*] Lorsqu’une irrégularité, autre qu’une irrégularité visée à l’art. 8.2) b) de l’Acte de 1999, n’est pas corrigée dans le délai visé à l’al. 1), la demande internationale est réputée abandonnée et le Bureau international rembourse les taxes payées pour cette demande, après déduction d’un montant correspondant à la taxe de base.
+\3) [*Demande internationale réputée abandonnée; remboursement des taxes*] Lorsqu’une irrégularité, autre qu’une irrégularité visée à l’article 8.2)b), n’est pas corrigée dans le délai visé aux alinéas 1)a) et b), la demande internationale est réputée abandonnée et le Bureau international rembourse les taxes payées pour cette demande, après déduction d’un montant correspondant à la taxe de base.
 
-- a) Si le Bureau international constate que la demande internationale ne remplit pas, au moment de sa réception par le Bureau international, les conditions requises, il invite le déposant à la régulariser dans un délai de trois mois à compter de la date de l’invitation adressée par le Bureau international.
-- b) Nonobstant le sous-alinéa a), si le montant des taxes perçues au moment de la réception de la demande internationale est inférieur au montant correspondant à la taxe de base pour un dessin ou modèle, le Bureau international peut en premier lieu inviter le déposant à payer au moins le montant correspondant à la taxe de base pour un dessin ou modèle dans un délai de deux mois à compter de la date de l’invitation adressée par le Bureau international.[^14-1]
-
-\2) [*Irrégularités entraînant le report de la date de dépôt de la demande internatio**nale*] Lorsque, à la date à laquelle elle est reçue par le Bureau international, la demande internationale comporte une irrégularité qui est prescrite comme une irrégularité entraînant le report de la date de dépôt de la demande internationale, la date de dépôt est la date à laquelle la correction de cette irrégularité est reçue par le Bureau international. Les irrégularités qui sont prescrites comme des irrégularités entraînant le report de la date de dépôt de la demande internationale sont les suivantes:
+\2) [*Irrégularités entraînant le report de la date de dépôt de la demande internationale*] Lorsque, à la date à laquelle elle est reçue par le Bureau international, la demande internationale comporte une irrégularité qui est prescrite comme une irrégularité entraînant le report de la date de dépôt de la demande internationale, la date de dépôt est la date à laquelle la correction de cette irrégularité est reçue par le Bureau international. Les irrégularités qui sont prescrites comme des irrégularités entraînant le report de la date de dépôt de la demande internationale sont les suivantes:
 
 - a) la demande internationale n’est pas rédigée dans l’une des langues prescrites;
 - b)
 
   l’un des éléments suivants ne figure pas dans la demande internationale:
 
-  - i) l’indication expresse ou implicite selon laquelle il est demandé un enregistrement international en vertu de l’Acte de 1999 ou de l’Acte de 1960,
+  - i) l’indication expresse ou implicite selon laquelle il est demandé un enregistrement international,
   - ii) des indications permettant d’établir l’identité du déposant,
-  - iii) des indications suffisantes pour permettre d’entrer en relations avec le déposant ou son mandataire éventuel,
-  - iv) une reproduction ou, conformément à l’art. 5.1)iii) de l’Acte de 1999, un spécimen de chaque dessin ou modèle industriel faisant l’objet de la demande internationale,
-  - v) la désignation d’au moins une Partie contractante.[^14-2]
+  - iii) des indications suffisantes pour permettre d’entrer en relation avec le déposant ou son mandataire éventuel,
+  - iv) une reproduction ou, conformément à l’article 5.1)iii), un spécimen de chaque dessin ou modèle industriel faisant l’objet de la demande internationale,
+  - v) la désignation d’au moins une partie contractante.
 
-[^14-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
-[^14-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^14-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 15
 
@@ -363,30 +321,25 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 #### Règle 16
 
-**Ajournement de la publication**
+**Ajournement de la publication**[^16-1]
 
-\1) [*Période maximum d’ajournement*]
+\1) [*Période maximum d’ajournement*] La période prescrite pour l’ajournement de la publication est de 30 mois à compter de la date de dépôt ou, lorsqu’une priorité est revendiquée, à compter de la date de priorité de la demande concernée.
 
-\2) [*Délai pour retirer une désignation lorsque l’ajournement n’est pas possible se**lon la législation applicable*] Le délai visé à l’art. 11.3) i) de l’Acte de 1999 pour que le déposant retire la désignation d’une Partie contractante dont la législation ne permet pas l’ajournement de la publication est d’un mois à compter de la date de la notification adressée par le Bureau international.
+\2) [*Délai pour retirer une désignation lorsque l’ajournement n’est pas possible selon la législation applicable*] Le délai visé à l’article 11.3)i) pour que le déposant retire la désignation d’une partie contractante dont la législation ne permet pas l’ajournement de la publication est d’un mois à compter de la date de la notification adressée par le Bureau international.
 
 \3) [*Délai pour payer la taxe de publication*]
 
 \4) [*Délai pour remettre les reproductions et enregistrement des reproductions*]
 
-\5) [*Exigences non satisfaites*] Si les exigences des al. 3) et 4) ne sont pas satisfaites, l’enregistrement international est radié et n’est pas publié.[^16-1]
+\5) [*Exigences non satisfaites*] Si les exigences des alinéas 3) et 4) ne sont pas satisfaites, l’enregistrement international est radié et n’est pas publié.
 
-- a) La période prescrite pour l’ajournement de la publication à l’égard d’une demande internationale régie exclusivement par l’Acte de 1999 est de 30 mois à compter de la date de dépôt ou, lorsqu’une priorité est revendiquée, à compter de la date de priorité de la demande concernée.
-- b) La période maximum d’ajournement de la publication à l’égard d’une demande internationale régie exclusivement par l’Acte de 1960 ou à la fois par l’Acte de 1999 et l’Acte de 1960 est de 12 mois à compter de la date de dépôt ou, lorsqu’une priorité est revendiquée, à compter de la date de priorité de la demande concernée.
+- a) La taxe de publication visée à la règle 12.1)a)iv) doit être payée au plus tard trois semaines avant l’expiration de la période d’ajournement applicable en vertu de l’art. 11.2), ou au plus tard trois semaines avant que la période d’ajournement soit considérée comme ayant expiré conformément à l’art. 11.4)a).
+- b) Trois mois avant l’expiration de la période d’ajournement visée au sous-alinéa a), le Bureau international adresse au titulaire de l’enregistrement international un avis officieux lui rappelant, le cas échéant, la date avant laquelle la taxe de publication visée au sous-alinéa a) doit être payée.
 
-- a) La taxe de publication visée à la règle 12.1)a)iv) doit être payée au plus tard trois semaines avant l’expiration de la période d’ajournement applicable en vertu de l’art. 11.2) de l’Acte de 1999 ou en vertu de l’art. 6.4)a) de l’Acte de 1960, ou au plus tard trois semaines avant que la période d’ajournement soit considérée comme ayant expiré conformément à l’art. 11.4)a) de l’Acte de 1999 ou à l’art. 6.4)b) de l’Acte de 1960.
-- b) Trois mois avant l’expiration de la période d’ajournement visée au sous‑al. a), le Bureau international adresse au titulaire de l’enregistrement international un avis officieux lui rappelant, le cas échéant, la date avant laquelle la taxe de publication visée au sous‑al. a) doit être payée.[^16-2]
+- a) Lorsque des spécimens ont été remis au lieu des reproductions conformément à la règle 10, ces reproductions doivent être remises au plus tard trois mois avant l’expiration du délai pour payer la taxe de publication prévu à l’alinéa 3.a).
+- b) Le Bureau international enregistre toute reproduction remise en vertu du sous-alinéa a) dans le registre international, pour autant que les exigences de la règle 9.1) et 2) soient satisfaites.
 
-- a) Lorsque des spécimens ont été remis au lieu des reproductions conformément à la règle 10, ces reproductions doivent être remises au plus tard trois mois avant l’expiration du délai pour payer la taxe de publication prévu à l’al. 3.a).
-- b) Le Bureau international enregistre toute reproduction remise en vertu du sous‑al. a) dans le registre international, pour autant que les exigences de la règle 9.1) et 2) soient satisfaites.[^16-3]
-
-[^16-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^16-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^16-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^16-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 17
 
@@ -411,13 +364,13 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 #### Règle 18
 
-**Notification de refus**
+**Notification de refus**[^18-1]
 
 \1) [*Délai pour notifier un refus*]
 
 \2) [*Notification de refus*]
 
-\3) [*Notification de la division d’un enregistrement international*] Si, à la suite d’une notification de refus visée à l’art. 13.2) de l’Acte de 1999, un enregistrement international est divisé auprès de l’Office d’une Partie contractante désignée pour remédier à un motif de refus indiqué dans ladite notification, cet Office notifie au Bureau international les données relatives à la division, telles que spécifiées dans les instructions administratives.
+\3) [*Notification de la division d’un enregistrement international*] Si, à la suite d’une notification de refus visée à l’art. 13.2), un enregistrement international est divisé auprès de l’Office d’une Partie contractante désignée pour remédier à un motif de refus indiqué dans ladite notification, cet Office notifie au Bureau international les données relatives à la division, telles que spécifiées dans les instructions administratives.
 
 \4) [*Notification de retrait d’un refus*]
 
@@ -425,9 +378,12 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \6) [*Transmission de copies des notifications*] Le Bureau international transmet au titulaire une copie des notifications reçues en vertu de l’al. 1) c) ii), 2) ou 4).
 
-- a) Le délai prescrit pour la notification d’un refus des effets d’un enregistrement international conformément à l’art. 12.2) de l’Acte de 1999 ou à l’art. 8.1) de l’Acte de 1960 est de six mois à compter de la publication de l’enregistrement international telle que prévue à la règle 26.3).
-- b) Nonobstant le sous-al. a), toute Partie contractante dont l’Office est un Office procédant à un examen, ou dont la législation prévoit la possibilité de former opposition à l’octroi de la protection, peut, dans une déclaration, notifier au Directeur général que, lorsqu’elle est désignée en vertu de l’Acte de 1999, le délai de six mois mentionné dans ledit sous-alinéa est remplacé par un délai de 12 mois.
-- c) Dans la déclaration visée au sous‑al. b), il peut aussi être indiqué que l’enregistrement international produira les effets mentionnés à l’art. 14.2) a) de l’Acte de 1999 au plus tard
+- a) Le délai prescrit pour la notification d’un refus des effets d’un enregistrement international conformément à l’art. 12.2) est de six mois à compter de la publication de l’enregistrement international telle que prévue à la règle 26.3).
+- b) Nonobstant le sous-al. a), toute Partie contractante dont l’Office est un Office procédant à un examen, ou dont la législation prévoit la possibilité de former opposition à l’octroi de la protection, peut, dans une déclaration, notifier au Directeur général que le délai de six mois mentionné dans ledit sous-alinéa est remplacé par un délai de 12 mois.
+- c)
+
+  Dans la déclaration visée au sous‑al. b), il peut aussi être indiqué que l’enregistrement international produira les effets mentionnés à l’art. 14.2) a) 1999 au plus tard:
+
   - i) à un moment, précisé dans la déclaration, qui pourra être postérieur à la date visée audit article mais pas de plus de six mois, ou
   - ii) au moment où la protection est octroyée conformément à la législation de la Partie contractante, lorsque la communication, dans le délai applicable en vertu du sous‑al. a) ou b), d’une décision relative à l’octroi de la protection a été involontairement omise; dans ce cas, l’Office de la Partie contractante concernée notifie ce fait au Bureau international et s’efforce de communiquer sans délai la décision au titulaire de l’enregistrement international concerné.
 
@@ -455,9 +411,9 @@ Les communications adressées au Bureau international doivent être effectuées 
   - iv) la date à laquelle l’enregistrement international produit les mêmes effets que l’octroi de la protection en vertu de la législation applicable, et
   - v) la date à laquelle le refus a été retiré.
 
-- c) Lorsque l’enregistrement international a été modifié dans une procédure devant l’Office, la notification doit également contenir ou indiquer toutes les modifications.[^18-1]
+- c) Lorsque l’enregistrement international a été modifié dans une procédure devant l’Office, la notification doit également contenir ou indiquer toutes les modifications.
 
-[^18-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 30 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^18-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 18<sup>bis</sup>
 
@@ -544,13 +500,13 @@ le Bureau international inscrit toutefois le refus au registre international et 
 
 #### Règle 21
 
-**Inscription d’une modification**
+**Inscription d’une modification**[^21-1]
 
 \1) [*Présentation de la demande*]
 
 \2) [*Contenu de la demande*]
 
-\3) [*Demande irrecevable*] Un changement de titulaire d’un enregistrement international ne peut être inscrit à l’égard d’une Partie contractante désignée lorsque cette Partie contractante n’est pas liée par un Acte auquel la Partie contractante, ou l’une des Parties contractantes, indiquée selon l’al. 2) iv) est liée.
+\3) [*Supprimé*]
 
 \4) [*Demande irrégulière*] Lorsque la demande d’inscription ne remplit pas les conditions requises, le Bureau international notifie ce fait au titulaire et, si la demande a été présentée par une personne qui prétend être le nouveau propriétaire, à cette personne.
 
@@ -562,7 +518,7 @@ le Bureau international inscrit toutefois le refus au registre international et 
 
 \8) [*Inscription de la fusion d’enregistrements internationaux*] Lorsque la même personne devient titulaire de plusieurs enregistrements internationaux issus d’un changement partiel de titulaire, ces enregistrements sont fusionnés à la demande de ladite personne et les al. 1) à 6) s’appliquent *mutatis mutandis*. L’enregistrement international issu de la fusion porte le numéro, accompagné, le cas échéant, d’une lettre majuscule, de l’enregistrement international dont une partie a été cédée ou transmise.
 
-- a)[^21-1]
+- a)
 
   Une demande d’inscription doit être présentée au Bureau international sur le formulaire officiel approprié lorsque cette demande se rapporte à:
 
@@ -572,7 +528,7 @@ le Bureau international inscrit toutefois le refus au registre international et 
   - iv) une limitation, à l’égard d’une, de plusieurs ou de la totalité des parties contractantes désignées, portant sur une partie des dessins ou modèles industriels qui font l’objet de l’enregistrement international;
   - v) un changement de nom ou d’adresse du mandataire.
 
-- b)[^21-2]
+- b)
 
   La demande doit être présentée par le titulaire et signée par celui-ci; toutefois, une demande d’inscription de changement de titulaire peut être présentée par le nouveau propriétaire, à condition qu’elle soit:
 
@@ -590,16 +546,13 @@ le Bureau international inscrit toutefois le refus au registre international et 
   - v) en cas de changement de titulaire de l’enregistrement international qui ne concerne pas tous les dessins ou modèles industriels et toutes les parties contractantes, les numéros des dessins ou modèles industriels et les parties contractantes désignées concernés par le changement de titulaire, et
   - vi) le montant des taxes payées et le mode de paiement, ou l’instruction de prélever le montant requis des taxes sur un compte ouvert auprès du Bureau international, ainsi que l’identité de l’auteur du paiement ou des instructions.
 
-- b) La demande d’inscription d’un changement de titulaire de l’enregistrement international peut être accompagnée d’une communication visant à constituer un mandataire pour le nouveau titulaire. Pour autant que les conditions énoncées à la règle 3.2)b) et c) soient remplies, la date de prise d’effet de cette constitution de mandataire est la date d’inscription du changement de titulaire conformément à l’al. 6)b). Dans ce cas, l’inscription du changement de titulaire au registre international indique cette constitution de mandataire.[^21-3]
+- b) La demande d’inscription d’un changement de titulaire de l’enregistrement international peut être accompagnée d’une communication visant à constituer un mandataire pour le nouveau titulaire. Pour autant que les conditions énoncées à la règle 3.2)b) et c) soient remplies, la date de prise d’effet de cette constitution de mandataire est la date d’inscription du changement de titulaire conformément à l’al. 6)b). Dans ce cas, l’inscription du changement de titulaire au registre international indique cette constitution de mandataire.
 
 - a) Pour autant que la demande soit régulière, le Bureau international inscrit à bref délai la modification au registre international et en informe le titulaire. S’agissant de l’inscription d’un changement de titulaire, le Bureau international informe à la fois le nouveau titulaire et le titulaire antérieur.
 - b) La modification doit être inscrite à la date de la réception par le Bureau international de la demande remplissant les conditions requises. Toutefois, lorsque la demande indique que la modification doit être inscrite après une autre modification, ou après le renouvellement de l’enregistrement international, le Bureau international donne suite à cette demande.
-- c)[^21-4] Lorsqu’un changement de titulaire est inscrit à la suite d’une requête présentée par le nouveau propriétaire conformément à l’alinéa 1)b)ii) et que le précédent titulaire s’oppose à ce changement par écrit en s’adressant au Bureau international, le changement est considéré comme n’ayant pas été inscrit. Le Bureau international en avise les deux parties en conséquence.
+- c) Lorsqu’un changement de titulaire est inscrit à la suite d’une requête présentée par le nouveau propriétaire conformément à l’alinéa 1)b)ii) et que le précédent titulaire s’oppose à ce changement par écrit en s’adressant au Bureau international, le changement est considéré comme n’ayant pas été inscrit. Le Bureau international en avise les deux parties en conséquence.
 
-[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
-[^21-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^21-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
-[^21-4]: Introduite par la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -607,7 +560,7 @@ le Bureau international inscrit toutefois le refus au registre international et 
 
 \1) [*La déclaration et ses effets*] L’Office d’une Partie contractante désignée peut déclarer qu’un changement de titulaire inscrit au registre international est sans effet dans ladite Partie contractante. Cette déclaration a pour effet que, à l’égard de ladite Partie contractante, l’enregistrement international concerné reste au nom du cédant.
 
-\3) [*Délai pour envoyer la déclaration*] La déclaration visée à l’al. 1) doit être envoyée au Bureau international dans les six mois suivant la date de la publication dudit changement de titulaire ou dans le délai de refus applicable en vertu de l’art. 12.2) de l’Acte de 1999 ou de l’art. 8.1) de l’Acte de 1960, le délai qui expire le plus tard étant retenu.
+\3) [*Délai pour envoyer la déclaration*] La déclaration visée à l’al. 1) doit être envoyée au Bureau international dans les six mois suivant la date de la publication dudit changement de titulaire ou dans le délai de refus applicable en vertu de l’art. 12.2), le délai qui expire le plus tard étant retenu.
 
 \4) [*Inscription et notification de la déclaration; modification corrélative du registre international*] Le Bureau international inscrit au registre international toute déclaration faite conformément à l’al. 3) et modifie le registre international de sorte que la partie de l’enregistrement international qui a fait l’objet de ladite déclaration soit inscrite en tant qu’enregistrement international distinct au nom du précédent titulaire (cédant). Le Bureau international notifie ce fait au précédent titulaire (cédant) et au nouveau titulaire (cessionnaire).
 
@@ -620,7 +573,7 @@ le Bureau international inscrit toutefois le refus au registre international et 
 - c) lorsque la déclaration ne concerne pas tous les dessins ou modèles industriels qui font l’objet du changement de titulaire, ceux qu’elle concerne, et
 - d) le fait que cette déclaration est ou n’est pas susceptible de réexamen ou de recours et, dans l’affirmative, le délai, raisonnable eu égard aux circonstances, pour présenter une requête en réexamen de cette déclaration ou un recours contre celle‑ci ainsi que l’autorité compétente pour connaître de cette requête en réexamen ou de ce recours, avec indication, le cas échéant, de l’obligation de présenter la requête en réexamen ou le recours par l’intermédiaire d’un mandataire qui a son adresse sur le territoire de la Partie contractante dont l’Office a prononcé la déclaration.
 
-[^21bis-1]: Introduite par la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^21bis-1]: Introduite par la D de l’Ass. de l’Union de la Haye du 5 oct. 2011 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)). Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 22
 
@@ -642,7 +595,7 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 #### Règle 24
 
-**Précisions relatives au renouvellement**
+**Précisions relatives au renouvellement**[^24-1]
 
 \1) [*Taxes*]
 
@@ -655,14 +608,17 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
   L’enregistrement international est renouvelé moyennant le paiement des taxes suivantes:
 
   - i) une taxe de base;
-  - ii) une taxe de désignation standard pour chaque Partie contractante désignée en vertu de l’Acte de 1999 qui n’a pas fait la déclaration prévue à l’art. 7.2) de l’Acte de 1999, et pour chaque Partie contractante désignée en vertu de l’Acte de 1960, pour lesquelles l’enregistrement international doit être renouvelé;
-  - iii) une taxe de désignation individuelle pour chaque Partie contractante désignée en vertu de l’Acte de 1999 qui a fait la déclaration prévue à l’art. 7.2) de l’Acte de 1999 et pour laquelle l’enregistrement international doit être renouvelé.
+  - ii) une taxe de désignation standard pour chaque partie contractante désignée qui n’a pas fait la déclaration prévue à l’art. 7.2) et pour laquelle l’enregistrement international doit être renouvelé;
+  - iii) une taxe de désignation individuelle pour chaque partie contractante désignée qui a fait la déclaration prévue à l’art. 7.2) et pour laquelle l’enregistrement international doit être renouvelé.
 
 - b) Le montant des taxes visées aux points i) et ii) du sous-al. a) est fixé dans le barème des taxes.
 - c) Le paiement des taxes visées au sous-al. a) doit être fait au plus tard à la date à laquelle le renouvellement de l’enregistrement international doit être effectué. Toutefois, il peut encore être fait dans un délai de six mois à compter de la date à laquelle le renouvellement de l’enregistrement international doit être effectué, à condition que la surtaxe indiquée dans le barème des taxes soit payée en même temps.
 - d) Tout paiement aux fins du renouvellement qui est reçu par le Bureau international plus de trois mois avant la date à laquelle le renouvellement de l’enregistrement international doit être effectué est considéré comme ayant été reçu trois mois avant cette date.
 
-- a) Lorsque le titulaire ne souhaite pas renouveler l’enregistrement international
+- a)
+
+  Lorsque le titulaire ne souhaite pas renouveler l’enregistrement international:
+
   - i) à l’égard d’une Partie contractante désignée, ou
   - ii) à l’égard de l’un quelconque des dessins ou modèles industriels qui font l’objet de l’enregistrement international, le paiement des taxes requises doit être accompagné d’une déclaration indiquant la Partie contractante ou les numéros des dessins ou modèles industriels pour lesquels l’enregistrement international ne doit pas être renouvelé.
 
@@ -672,6 +628,8 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 - a) Si le montant des taxes reçu est inférieur à celui qui est requis pour le renouvellement, le Bureau international notifie ce fait à bref délai et en même temps au titulaire et au mandataire éventuel. La notification précise le montant restant dû.
 - b) Si, à l’expiration du délai de six mois visé à l’al. 1) c), le montant des taxes reçu est inférieur à celui qui est requis pour le renouvellement, le Bureau international n’inscrit pas le renouvellement, rembourse le montant reçu et notifie cet état de fait au titulaire et au mandataire éventuel.
+
+[^24-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 25
 
@@ -685,15 +643,15 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 [^chap6-1]
 
-[^chap6-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 26
 
-**Publication[^26-1]**
+**Publication**
 
-\2) [*Informations concernant les déclarations; autres informations*] Le Bureau international publie sur le site Internet de l’Organisation toute déclaration faite par une Partie contractante en vertu de l’Acte de 1999, de l’Acte de 1960 ou du présent règlement d’exécution ainsi que la liste des jours où il est prévu que le Bureau international ne sera pas ouvert au public pendant l’année civile en cours et l’année suivante.[^26-2]
+\2) [*Informations concernant les déclarations; autres informations*] Le Bureau international publie sur le site Internet de l’Organisation toute déclaration faite par une Partie contractante en vertu du présent règlement d’exécution ainsi que la liste des jours où il est prévu que le Bureau international ne sera pas ouvert au public pendant l’année civile en cours et l’année suivante.
 
-\3) [*Mode de publication du bulletin*] Le bulletin est publié sur le site Internet de l’Organisation. La publication de chaque numéro du bulletin est réputée remplacer l’envoi du bulletin visé aux art. 10.3)b), 16.4) et 17.5) de l’Acte de 1999 et à l’art. 6.3)b) de l’Acte de 1960, et, aux fins de l’art. 8.2) de l’Acte de 1960, chaque numéro du bulletin est réputé être reçu par chaque Office concerné à la date de sa publication sur le site Internet de l’Organisation.[^26-3]
+\3) [*Mode de publication du bulletin*] Le bulletin est publié sur le site Internet de l’Organisation. La publication de chaque numéro du bulletin est réputée remplacer l’envoi du bulletin visé aux art. 10.3)b), 16.4) et 17.5).
 
 \1) [*Informations concernant les enregistrements internationaux*] Le Bureau international publie dans le bulletin les données pertinentes relatives:
 
@@ -706,20 +664,19 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 - vi) aux renouvellements inscrits en vertu de la règle 25.1);
 - vii) aux enregistrements internationaux qui n’ont pas été renouvelés;
 - viii) aux radiations inscrites en vertu de la règle 12.3)d);
-- ix) aux déclarations selon lesquelles un changement de titulaire est sans effet, et au retrait de telles déclarations, inscrits en vertu de la règle 21<sup>bis</sup>.[^26-4]
-
-[^26-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^26-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^26-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
-[^26-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+- ix) aux déclarations selon lesquelles un changement de titulaire est sans effet, et au retrait de telles déclarations, inscrits en vertu de la règle 21<sup>bis</sup>.
 
 ## Chapitre 7 Taxes
+
+[^chap7-1]
+
+[^chap7-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 #### Règle 27
 
 **Montants et paiement des taxes**
 
-\1) [*Montants des taxes*] Les montants des taxes dues en vertu de l’Acte de 1999, de l’Acte de 1960 et du présent règlement d’exécution, autres que la taxe de désignation individuelle visée à la règle 12.1)a)iii), sont indiqués dans le barème des taxes qui est annexé au présent règlement d’exécution et en fait partie intégrante.[^27-1]
+\1) [*Montants des taxes*] Les montants des taxes dues en vertu du présent règlement d’exécution, autres que la taxe de désignation individuelle visée à la règle 12.1)a)iii), sont indiqués dans le barème des taxes qui est annexé au présent règlement d’exécution et en fait partie intégrante.
 
 \2) [*Paiement*]
 
@@ -738,13 +695,11 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 - ii) après l’enregistrement international, le nom du titulaire, le numéro de l’enregistrement international concerné et l’objet du paiement.
 
 - a) Sous réserve de la règle 24.1) d) et du sous‑al. b), une taxe est réputée payée au Bureau international le jour où le Bureau international reçoit le montant requis.
-- b) Lorsque le montant requis est disponible sur un compte ouvert auprès du Bureau international et que le Bureau a reçu du titulaire du compte l’instruc-tion d’opérer un prélèvement, la taxe est réputée payée au Bureau international le jour où le Bureau international reçoit une demande internationale, une demande d’inscription de modification ou l’instruction de renouveler un enregistrement international.
+- b) Lorsque le montant requis est disponible sur un compte ouvert auprès du Bureau international et que le Bureau a reçu du titulaire du compte l’instruction d’opérer un prélèvement, la taxe est réputée payée au Bureau international le jour où le Bureau international reçoit une demande internationale, une demande d’inscription de modification ou l’instruction de renouveler un enregistrement international.
 
 - a) Lorsqu’une demande internationale est déposée par l’intermédiaire de l’Office de la Partie contractante du déposant et que le montant des taxes dues pour le dépôt de la demande internationale est modifié entre, d’une part, la date de réception par cet Office de la demande internationale et, d’autre part, la date de réception de la demande internationale par le Bureau international, la taxe applicable est celle qui était en vigueur à la première de ces deux dates.
 - b) Lorsque le montant des taxes dues pour le renouvellement d’un enregistrement international est modifié entre la date du paiement et la date à laquelle le renouvellement doit être effectué, le montant qui est applicable est celui qui était en vigueur à la date du paiement, ou à la date considérée comme étant celle du paiement conformément à la règle 24.1) d). Lorsque le paiement a lieu après la date à laquelle le renouvellement devait être effectué, le montant qui est applicable est celui qui était en vigueur à cette date.
 - c) Lorsque le montant d’une taxe autre que les taxes visées aux sous‑al. a) et b) est modifié, le montant applicable est celui qui était en vigueur à la date à laquelle la taxe a été reçue par le Bureau international.
-
-[^27-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 #### Règle 28
 
@@ -754,29 +709,30 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 \2) [*Établissement du montant des taxes de désignation individuelles en monnaie suisse*]
 
-- a) Lorsqu’une Partie contractante fait, en vertu de l’art. 7.2) de l’Acte de 1999 ou en vertu de la règle 36.1), une déclaration selon laquelle elle désire recevoir une taxe de désignation individuelle, elle indique au Bureau international le montant de cette taxe exprimé dans la monnaie utilisée par son Office.
+- a) Lorsqu’une Partie contractante fait, en vertu de l’art. 7.2), une déclaration selon laquelle elle désire recevoir une taxe de désignation individuelle, elle indique au Bureau international le montant de cette taxe exprimé dans la monnaie utilisée par son Office.
 - b) Lorsque, dans la déclaration visée au sous-al. a), la taxe est indiquée dans une monnaie autre que la monnaie suisse, le Directeur général établit le montant de la taxe en monnaie suisse, après consultation de l’Office de la Partie contractante intéressée, sur la base du taux de change officiel des Nations Unies.
-- c)[^28-1] Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et la monnaie dans laquelle le montant d’une taxe de désignation individuelle a été indiqué par une Partie contractante est supérieur ou inférieur d’au moins 5 % au dernier taux de change appliqué pour la détermination du montant de la taxe en monnaie suisse, l’Office de cette Partie contractante peut demander au Directeur général d’établir un nouveau montant de la taxe en monnaie suisse sur la base du taux de change officiel des Nations Unies applicable le jour précédant celui où cette demande est faite. Le Directeur général prend les dispositions nécessaires à cet effet. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant sur le site Internet de l’Organisation.
-- d)[^28-2] Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et la monnaie dans laquelle le montant d’une taxe de désignation individuelle a été indiqué par une Partie contractante est inférieur d’au moins 10 % au dernier taux de change appliqué pour la détermination du montant de la taxe en monnaie suisse, le Directeur général établit un nouveau montant de la taxe en monnaie suisse, sur la base du taux de change officiel des Nations Unies applicable. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant sur le site Internet de l’Organisation.
-
-[^28-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^28-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+- c) Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et la monnaie dans laquelle le montant d’une taxe de désignation individuelle a été indiqué par une Partie contractante est supérieur ou inférieur d’au moins 5 % au dernier taux de change appliqué pour la détermination du montant de la taxe en monnaie suisse, l’Office de cette Partie contractante peut demander au Directeur général d’établir un nouveau montant de la taxe en monnaie suisse sur la base du taux de change officiel des Nations Unies applicable le jour précédant celui où cette demande est faite. Le Directeur général prend les dispositions nécessaires à cet effet. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant sur le site Internet de l’Organisation.
+- d) Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et la monnaie dans laquelle le montant d’une taxe de désignation individuelle a été indiqué par une Partie contractante est inférieur d’au moins 10 % au dernier taux de change appliqué pour la détermination du montant de la taxe en monnaie suisse, le Directeur général établit un nouveau montant de la taxe en monnaie suisse, sur la base du taux de change officiel des Nations Unies applicable. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant sur le site Internet de l’Organisation.
 
 #### Règle 29
 
-**Inscription du montant des taxes au crédit des Parties contractantes concernées**
+**Inscription du montant des taxes au crédit des parties contractantes concernées**
 
 Toute taxe de désignation standard ou toute taxe de désignation individuelle payée au Bureau international à l’égard d’une Partie contractante est créditée sur le compte de cette Partie contractante auprès du Bureau international au cours du mois qui suit celui de l’inscription de l’enregistrement international ou du renouvellement pour lequel cette taxe a été payée ou, en ce qui concerne la seconde partie de la taxe de désignation individuelle, dès sa réception par le Bureau international.
 
-## Chapitre 8 …
+## Chapitre 8 Dispositions diverses
 
-### **Règles 30** et **31**
+[^chap8-1]
 
-[^chap8-lvlu1-1]
+[^chap8-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
-[^chap8-lvlu1-1]: Abrogées par la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+#### Règle 30
 
-## Chapitre 9 Dispositions diverses
+**[*Supprimée*]**
+
+#### Règle 31
+
+**[*Supprimée*]**
 
 #### Règle 32
 
@@ -798,12 +754,12 @@ Toute taxe de désignation standard ou toute taxe de désignation individuelle p
 
 \3) [*Procédure*] Toute proposition à l’effet de modifier une disposition visée à l’al. 1) ou 2) est envoyée à l’ensemble des Parties contractantes au moins deux mois avant l’ouverture de la session de l’Assemblée qui est convoquée pour se prononcer sur cette proposition.
 
-\1) [*Exigence de l’unanimité*] La modification des dispositions ci-après du présent règlement d’exécution requiert l’unanimité des Parties contractantes liées par l’Acte de 1999:
+\1) [*Exigence de l’unanimité*] La modification des dispositions ci-après du présent règlement d’exécution requiert l’unanimité des Parties contractantes liées par l’Acte:
 
 - i) la règle 13.4);
 - ii) la règle 18.1).
 
-\2) [*Exigence d’une majorité des quatre cinquièmes*] La modification des dispositions ci-après du présent règlement d’exécution et de l’al. 3) de la présente règle requiert une majorité des quatre cinquièmes des Parties contractantes liées par l’Acte de 1999:
+\2) [*Exigence d’une majorité des quatre cinquièmes*] La modification des dispositions ci-après du présent règlement d’exécution et de l’al. 3) de la présente règle requiert une majorité des quatre cinquièmes des Parties contractantes liées par l’Acte:
 
 - i) la règle 7.7);
 - ii) la règle 9.3) b);
@@ -820,130 +776,117 @@ Toute taxe de désignation standard ou toute taxe de désignation individuelle p
 
 \3) [*Publication et entrée en vigueur*]
 
-\4) [*Divergence entre les instructions administratives et l’Acte de 1999, l’Acte de 1960 ou le présent règlement d’exécution*] En cas de divergence entre une disposition des instructions administratives, d’une part, et une disposition de l’Acte de 1999, de l’Acte de 1960 ou du présent règlement d’exécution, d’autre part, c’est cette dernière qui prime.[^34-1]
+\4) [*Divergence entre les instructions administratives et le présent Acte, l’Acte de 1960 ou le présent règlement d’exécution*] En cas de divergence entre une disposition des instructions administratives, d’une part, et une disposition du présent Acte, de l’Acte de 1960 ou du présent règlement d’exécution, d’autre part, c’est cette dernière qui prime.
 
 - a) Le Directeur général établit des instructions administratives. Le Directeur général peut les modifier. Le Directeur général consulte les Offices des Parties contractantes sur les instructions administratives proposées ou sur leurs modifications proposées.
 - b) Les instructions administratives traitent des questions pour lesquelles le présent règlement d’exécution renvoie expressément auxdites instructions et des détails relatifs à l’application du présent règlement d’exécution.
 
 - a) Les instructions administratives et toute modification qui leur est apportée sont publiées sur le site Internet de l’Organisation.
-- b) Chaque publication précise la date à laquelle les dispositions publiées entrent en vigueur. Les dates peuvent être différentes pour des dispositions différentes, étant entendu qu’aucune disposition ne peut entrer en vigueur avant sa publication sur le site Internet de l’Organisation.[^34-2]
-
-[^34-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-[^34-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+- b) Chaque publication précise la date à laquelle les dispositions publiées entrent en vigueur. Les dates peuvent être différentes pour des dispositions différentes, étant entendu qu’aucune disposition ne peut entrer en vigueur avant sa publication sur le site Internet de l’Organisation.
 
 #### Règle 35
 
-**Déclarations faites par les Parties contractantes à l’Acte de 1999**
+**Déclarations faites par les Parties contractantes**
 
-\1) [*Établissement et prise d’effet des déclarations*] L’art. 30.1) et 2) de l’Acte de 1999 s’applique *mutatis mutandis* à toute déclaration faite en vertu des règles 8.1), 9.3) a), 13.4) ou 18.1)b) et à sa prise d’effet.
+\1) [*Établissement et prise d’effet des déclarations*] L’art. 30.1) et 2) s’applique *mutatis* *mutandis* à toute déclaration faite en vertu des règles 8.1), 9.3) a), 13.4) ou 18.1)b) et à sa prise d’effet.
 
 \2) [*Retrait des déclarations*] Toute déclaration visée à l’al. 1) peut être retirée en tout temps au moyen d’une notification adressée au Directeur général. Le retrait prend effet à la date de réception de cette notification par le Directeur général ou à toute date ultérieure indiquée dans cette notification. Dans le cas d’une déclaration faite en vertu de la règle 18.1) b), le retrait n’a pas d’incidence sur un enregistrement international dont la date est antérieure à celle de la prise d’effet du retrait.
 
 #### Règle 36
 
-**Déclarations faites par les Parties contractantes à l’Acte de 1960**
-
-\1) [*Taxe de désignation individuelle*] Aux fins de l’art. 15.1) 2 b) de l’Acte de 1960, toute Partie contractante à l’Acte de 1960 dont l’Office est un Office procédant à un examen peut, dans une déclaration, notifier au Directeur général que, pour toute demande internationale dans laquelle elle est désignée en vertu de l’Acte de 1960, la taxe de désignation prescrite visée à la règle 12.1) a) ii) est remplacée par une taxe de désignation individuelle dont le montant est indiqué dans la déclaration et peut être modifié dans des déclarations ultérieures. Ce montant ne peut pas dépasser le montant équivalant à celui que l’Office de ladite Partie contractante aurait le droit de recevoir du déposant pour une protection accordée, pour une durée équivalente, au même nombre de dessins et modèles industriels, le montant en question étant diminué du montant des économies résultant de la procédure internationale.
-
-\2) [*Durée maximum de protection*] Chaque Partie contractante à l’Acte de 1960 notifie au Directeur général, dans une déclaration, la durée maximale de protection prévue dans sa législation.
-
-\3) [*Moment auquel les déclarations peuvent être faites*] Toute déclaration selon les al. 1) et 2) peut être faite
-
-- i) au moment du dépôt d’un instrument visé à l’art. 26.2) de l’Acte de 1960, auquel cas elle prend effet à la date à laquelle l’État ayant fait la déclaration devient lié par le présent Acte, ou
-- ii) après le dépôt d’un instrument visé à l’art. 26.2) de l’Acte de 1960, auquel cas elle prend effet un mois après la date de sa réception par le Directeur général ou à toute date ultérieure qui y est indiquée mais ne s’applique qu’aux enregistrements internationaux dont la date est identique ou postérieure à la date à laquelle elle a pris effet.
+**[*Supprimée*]**
 
 #### Règle 37
 
-**Dispositions transitoires**[^37-1]
+**Dispositions transitoires**
 
-\1) [*Disposition transitoire relative à l’Acte de 1934*]
+\1) [*Définitions*]
 
-\2) [*Disposition transitoire relative aux langues*] La règle 6 telle qu’elle était applicable avant le 1<sup>er</sup> avril 2010 reste applicable à l’égard d’une demande internationale déposée avant cette date et de l’enregistrement international qui en est issu.
+\2) [*Disposition transitoire relative à l’Acte de 1960*]
 
-\3) [*Disposition transitoire concernant la date de la publication*] La règle 17.1)iii) en vigueur avant le 1<sup>er</sup> janvier 2022 demeure applicable à tout enregistrement international résultant d’une demande internationale déposée avant cette date.[^37-2]
+\3) [*Disposition transitoire relative aux langues*] La règle 6 du règlement d’exécution commun telle qu’elle était applicable avant le 1<sup>er</sup> avril 2010 reste applicable à l’égard d’une demande internationale déposée avant cette date et de l’enregistrement international qui en est issu.
 
 - a)
 
-  Aux fins de la présente disposition:
+  Aux fins des présentes dispositions:
 
-  - i) «Acte de 1934» s’entend de l’acte signé à Londres le 2 juin 1934 de l’Arrangement de La Haye[^37-3];
-  - ii) «Partie contractante désignée en vertu de l’Acte de 1934» s’entend d’une Partie contractante inscrite en tant que telle au registre international;
-  - iii) une référence aux expressions «demande internationale» ou «enregistrement international» est réputée inclure, le cas échéant, une référence à l’expression «dépôt international» visée à l’Acte de 1934.
+  - i) «règlement d’exécution commun» s’entend du règlement d’exécution commun à l’Acte de 1999 et à l’Acte de 1960 de l’Arrangement de La Haye;
+  - ii) «désignation en vertu de l’Acte de 1960» s’entend de la désignation d’une partie contractante inscrite en vertu de l’Acte de 1960 au registre international.
 
-- b) Le Règlement d’exécution commun à l’Acte de 1999, l’Acte de 1960 et l’Acte de 1934 de l’Arrangement de La Haye tel qu’il était applicable avant le 1<sup>er</sup> janvier 2010 reste applicable à l’égard d’une demande internationale déposée avant cette date et encore en instance à cette date, et à l’égard de toute Partie contractante désignée en vertu de l’Acte de 1934 dans un enregistrement international issu d’une demande internationale déposée avant cette date.
-
-[^37-1]: Introduite par la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-[^37-2]: Introduit par la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^37-3]: [RS **11** 988; RO **1975** 1599. [RO 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
+- a) Le Règlement d’exécution commun tel qu’il était applicable avant jusqu’au 31 décembre 2024 continue de s’appliquer à l’égard de toute demande internationale déposée à cette date ou avant cette date et la publication de tout enregistrement international qui en est issu et qui contient une désignation en vertu de l’Acte de 1960.
+- b) Les règles 18.1)a), 21.3) et 26.3) du règlement d’exécution commun en vigueur jusqu’au 31 décembre 2024 continuent de s’appliquer à tout enregistrement international à l’égard des désignations en vertu de l’Acte de 1960.
+- c) Les règles 36.2) et 3)ii) du règlement d’exécution commun en vigueur jusqu’au 31 décembre 2024 continuent de s’appliquer aux parties contractantes à l’Acte de 1960.
 
 Barème des taxes[^t-2]
 
-(en vigueur le 1<sup>er</sup> janv. 2024)
+(en vigueur le 1<sup>er</sup> janvier 2024)
 
 ## I. Demandes internationales
 
-[^t-2]: Mis à jour par les D de l’Ass. de l’Union de la Haye du 30 sept. 2008 ([RO 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), du 1<sup>er</sup> oct. 2009 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)), du 30 sept. 2014 ([RO 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)) et du 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 589](https://fedlex.data.admin.ch/eli/oc/2023/589)).
+[^t-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 20](https://fedlex.data.admin.ch/eli/oc/2025/20)).
 
 <table>
 <tr><th></th><th>Francs suisses</th></tr>
-<tr><td>1. Taxe de base[^annexu1-lvlI-1]\*</td><td colspan="2"></td></tr>
-<tr><td>1.1 Pour un dessin ou modèle</td><td colspan="2">397.–</td></tr>
-<tr><td>1.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td colspan="2">50.–</td></tr>
-<tr><td>2. Taxe de publication<sup>\*</sup></td><td colspan="2"></td></tr>
-<tr><td>2.1 Pour chaque reproduction à publier</td><td colspan="2">17.–</td></tr>
-<tr><td>2.2 Pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions (lorsque les reproductions sont présentées sur papier)</td><td colspan="2">150.–</td></tr>
-<tr><td>3. Taxe supplémentaire lorsque la description excède 100 mots (par mot au-delà du 100<sup>e</sup>)<sup>\*</sup></td><td colspan="2">2.–</td></tr>
-<tr><td>4. Taxe de désignation standard[^annexu1-lvlI-2]\*\*</td><td colspan="2"></td></tr>
-<tr><td>4.1 Lorsque le niveau un s’applique:</td><td colspan="2"></td></tr>
-<tr><td>4.1.1 Pour un dessin ou modèle</td><td colspan="2">42.–</td></tr>
-<tr><td>4.1.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td colspan="2">2.–</td></tr>
-<tr><td>4.2 Lorsque le niveau deux s’applique:</td><td colspan="2"></td></tr>
-<tr><td>4.2.1 Pour un dessin ou modèle</td><td colspan="2">60.–</td></tr>
-<tr><td>4.2.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td colspan="2">20.–</td></tr>
-<tr><td>4.3 Lorsque le niveau trois s’applique:</td><td colspan="2"></td></tr>
-<tr><td>4.3.1 Pour un dessin ou modèle</td><td colspan="2">90.–</td></tr>
-<tr><td>4.3.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td colspan="2">50.–</td></tr>
-<tr><td>5. Taxe de désignation individuelle (le montant de la taxe de désignation individuelle est fixé par chaque Partie contractante concernée)[^annexu1-lvlI-3]\*\*\*</td><td colspan="2"></td></tr>
+<tr><td>1. Taxe de base[^annexu1-lvlI-1]\*</td><td></td></tr>
+<tr><td>1.1 Pour un dessin ou modèle</td><td>397.–</td></tr>
+<tr><td>1.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td>50.–</td></tr>
+<tr><td>2. Taxe de publication<sup>\*</sup></td><td></td></tr>
+<tr><td>2.1 Pour chaque reproduction à publier</td><td>17.–</td></tr>
+<tr><td>2.2 Pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions (lorsque les reproductions sont présentées sur papier)</td><td>150.–</td></tr>
+<tr><td>3. Taxe supplémentaire lorsque la description excède 100 mots (par mot au-delà du 100<sup>e</sup>)<sup>\*</sup></td><td>2.–</td></tr>
+<tr><td>4. Taxe de désignation standard[^annexu1-lvlI-2]\*\*</td><td></td></tr>
+<tr><td>4.1 Lorsque le niveau un s’applique:</td><td></td></tr>
+<tr><td>4.1.1 Pour un dessin ou modèle</td><td>42.–</td></tr>
+<tr><td>4.1.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td>2.–</td></tr>
+<tr><td>4.2 Lorsque le niveau deux s’applique:</td><td></td></tr>
+<tr><td>4.2.1 Pour un dessin ou modèle</td><td>60.–</td></tr>
+<tr><td>4.2.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td>20.–</td></tr>
+<tr><td>4.3 Lorsque le niveau trois s’applique:</td><td></td></tr>
+<tr><td>4.3.1 Pour un dessin ou modèle</td><td>90.–</td></tr>
+<tr><td>4.3.2 Pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale</td><td>50.–</td></tr>
+<tr><td>5. Taxe de désignation individuelle (le montant de la taxe de désignation individuelle est fixé par chaque Partie contractante concernée)[^annexu1-lvlI-3]\*</td><td></td></tr>
 </table>
 
-[^annexu1-lvlI-1]: \* En ce qui concerne les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes qui doivent être payées au Bureau international sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999. En cas de pluralité de déposants, chacun d’entre eux doit remplir ces critères. Lorsque cette réduction de taxe s’applique, la taxe de base s’établit à 40 francs suisses (pour un dessin ou modèle) et à 5 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale), la taxe de publication s’établit à 2 francs suisses pour chaque reproduction et à 15 francs suisses pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions, et la taxe supplémentaire lorsque la description excède 100 mots s’établit à 1 franc suisse par groupe de cinq mots au-delà du 100<sup>e</sup>.
-[^annexu1-lvlI-2]: \*\* Pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes standard sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999. En cas de pluralité de déposants, chacun d’entre eux doit satisfaire à ces critères. – Lorsque cette réduction de taxe s’applique, la taxe de désignation standard s’établit à 4 francs suisses (pour un dessin ou modèle) et à 1 franc suisse (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau un, à 6 francs suisses (pour un dessin ou modèle) et à 2 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau deux et à 9 francs suisses (pour un dessin ou modèle) et à 5 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau trois.
-[^annexu1-lvlI-3]: \*\*\* [Note de l’OMPI]: Recommandation adoptée par l’Assemblée de l’Union de La Haye: – «Les parties contractantes qui font, ou qui ont fait, la déclaration prévue à l’art. 7.2) de l’Acte de 1999 ou à la règle 36.1) du règlement d’exécution commun sont encouragées à indiquer, dans cette déclaration ou dans une nouvelle déclaration, que, pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, la taxe individuelle à payer pour leur désignation est ramenée à 10 % du montant normalement perçu (arrondi au nombre entier le plus proche). Ces parties contractantes sont en outre encouragées à indiquer que la réduction s’applique, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des pays les moins avancés ou, à défaut, qui est un État membre de cette organisation intergouvernementale et que, dans ce cas, la demande internationale soit régie exclusivement par l’Acte de 1999».
+[^annexu1-lvlI-1]: \* Pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes à l’intention du Bureau international sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale. En cas de pluralité de déposants, chacun d’entre eux doit remplir ces critères. Lorsque cette réduction de taxe s’applique, la taxe de base s’établit à 40 francs suisses (pour un dessin ou modèle) et à 5 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale), la taxe de publication s’établit à 2 francs suisses pour chaque reproduction et à 15 francs suisses pour chaque page, en sus de la première, sur laquelle sont présentées une ou plusieurs reproductions, et la taxe supplémentaire lorsque la description excède 100 mots s’établit à 1 franc suisse par groupe de cinq mots au-delà du 100<sup>e</sup>.
+[^annexu1-lvlI-2]: \*\* Pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés (PMA), conformément à la liste établie par l’Organisation des Nations Unies, ou à une organisation intergouvernementale dont la majorité des États membres sont des PMA, les taxes standard sont ramenées à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Cette réduction s’applique également à l’égard d’une demande internationale déposée par un déposant dont le droit à cet égard ne découle pas exclusivement d’un rattachement à une telle organisation intergouvernementale, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des PMA ou, à défaut, qui est un État membre de cette organisation intergouvernementale. En cas de pluralité de déposants, chacun d’entre eux doit satisfaire à ces critères. Lorsque cette réduction de taxe s’applique, la taxe de désignation standard s’établit à 4 francs suisses (pour un dessin ou modèle) et à 1 franc suisse (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau un, à 6 francs suisses (pour un dessin ou modèle) et à 2 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau deux et à 9 francs suisses (pour un dessin ou modèle) et à 5 francs suisses (pour chaque dessin ou modèle supplémentaire compris dans la même demande internationale) pour le niveau trois.
+[^annexu1-lvlI-3]: \* [Note de l’OMPI]: Recommandation adoptée par l’Assemblée de l’Union de La Haye: «Les parties contractantes qui font, ou qui ont fait, la déclaration prévue à l’art. 7.2) sont encouragées à indiquer, dans cette déclaration ou dans une nouvelle déclaration, que, pour les demandes internationales déposées par des déposants dont le droit à cet égard découle exclusivement d’un rattachement à un pays de la catégorie des pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, la taxe individuelle à payer pour leur désignation est ramenée à 10 % du montant normalement perçu (arrondi au nombre entier le plus proche). Ces parties contractantes sont en outre encouragées à indiquer que la réduction s’applique, pour autant que tout autre droit du déposant à cet égard découle d’un rattachement à une partie contractante qui appartient à la catégorie des pays les moins avancés ou, à défaut, qui est un État membre de cette organisation intergouvernementale».
 
-## II. …
+## II. [*Supprimé*]
 
-\6. …
+\6. [*Supprimé*]
 
-## III. Renouvellement d’un enregistrement international issu d’une demande internationale régie exclusivement ou partiellement par l’Acte de 1960 ou par l’Acte de 1999
+## III. Renouvellement d’un enregistrement international
 
 <table>
 <tr><th></th><th>Francs suisses</th></tr>
-<tr><td>7. Taxe de base</td><td colspan="2"></td></tr>
-<tr><td>7.1 Pour un dessin ou modèle</td><td colspan="2">200.–</td></tr>
-<tr><td>7.2 Pour chaque dessin ou modèle supplémentaire compris dans le même enregistrement international</td><td colspan="2">17.–</td></tr>
-<tr><td>8. Taxe de désignation standard</td><td colspan="2"></td></tr>
-<tr><td>8.1 Pour un dessin ou modèle</td><td colspan="2">21.–</td></tr>
-<tr><td>8.2 Pour chaque dessin ou modèle supplémentaire compris dans le même enregistrement international</td><td colspan="2">1.–</td></tr>
-<tr><td>9. Taxe de désignation individuelle (le montant de la taxe de désignation individuelle est fixé par chaque Partie contractante concernée)</td><td colspan="2"></td></tr>
-<tr><td>10. Surtaxe (délai de grâce)</td><td colspan="2">[^annexu1-lvlIII-1]\*\*\*\*</td></tr>
+<tr><td>7. Taxe de base</td><td></td></tr>
+<tr><td>7.1 Pour un dessin ou modèle</td><td>200.–</td></tr>
+<tr><td>7.2 Pour chaque dessin ou modèle supplémentaire compris dans le même enregistrement international</td><td>17.–</td></tr>
+<tr><td>8. Taxe de désignation standard</td><td></td></tr>
+<tr><td>8.1 Pour un dessin ou modèle</td><td>21.–</td></tr>
+<tr><td>8.2 Pour chaque dessin ou modèle supplémentaire compris dans le même enregistrement international</td><td>1.–</td></tr>
+<tr><td>9. Taxe de désignation individuelle (le montant de la taxe de désignation individuelle est fixé par chaque Partie contractante concernée)</td><td></td></tr>
+<tr><td>10. Surtaxe (délai de grâce)</td><td>[^annexu1-lvlIII-1]\*\*\*\*</td></tr>
 </table>
 
-[^annexu1-lvlIII-1]: \*\*\*\* 50 % de la taxe de base de renouvellement.
+[^annexu1-lvlIII-1]: <sup>\*\*\*\*</sup> 50 % de la taxe de base de renouvellement.
 
-## IV. …
+## IV. [*Supprimé*]
 
-\11. et 12. …
+\11. [*Supprimé*]
+
+\12. [*Supprimé*]
 
 ## V. Inscriptions diverses
 
 <table>
 <tr><th></th><th>Francs suisses</th></tr>
-<tr><td>13. Changement de titulaire</td><td colspan="2">144.–</td></tr>
-<tr><td>14. Changement de nom ou d’adresse du titulaire</td><td colspan="2"></td></tr>
-<tr><td>14.1 Pour un enregistrement international</td><td colspan="2">144.–</td></tr>
-<tr><td>14.2 Pour chaque enregistrement international supplémentaire du même titulaire inclus dans la même demande d’inscription</td><td colspan="2">72.–</td></tr>
-<tr><td>15. Renonciation</td><td colspan="2">144.–</td></tr>
-<tr><td>16. Limitation</td><td colspan="2">144.–</td></tr>
+<tr><td>13. Changement de titulaire</td><td>144.–</td></tr>
+<tr><td>14. Changement de nom ou d’adresse du titulaire</td><td></td></tr>
+<tr><td>14.1 Pour un enregistrement international</td><td>144.–</td></tr>
+<tr><td>14.2 Pour chaque enregistrement international supplémentaire du même titulaire inclus dans la même demande d’inscription</td><td>72.–</td></tr>
+<tr><td>15. Renonciation</td><td>144.–</td></tr>
+<tr><td>16. Limitation</td><td>144.–</td></tr>
 </table>
 
 ## VI. Informations concernant les enregistrements internationaux publiés
@@ -964,7 +907,7 @@ Barème des taxes[^t-2]
 <tr><td>22. Recherche dans la liste des titulaires d’enregistrements internationaux publiés</td><td></td></tr>
 <tr><td>22.1 Par recherche portant sur le nom d’une personne physique ou morale déterminée</td><td>82.–</td></tr>
 <tr><td>22.2 Pour chaque enregistrement international trouvé en sus du premier</td><td>10.–</td></tr>
-<tr><td>23. …</td><td></td></tr>
+<tr><td>23. [*Supprimé*]</td><td></td></tr>
 </table>
 
 ## VII. Services fournis par le Bureau international
