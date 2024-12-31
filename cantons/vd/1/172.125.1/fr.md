@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "172.125.1"
-title: "ARRÊTÉ du 20.12.2023 fixant pour l'année 2024 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais"
+title: "ARRÊTÉ du 11.12.2024 fixant pour l'année 2025 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais"
 language: fr
-version: 2024-01-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.125.1?id=7c3f6de0-f918-4adc-9667-4e48a9b66b3e"
+version: 2025-01-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.125.1?id=d4e70792-8aa6-49a5-9d3e-ded7a46ad552"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ fixant pour l'année 2024 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais
+# ARRÊTÉ fixant pour l'année 2025 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais
 
-du 20 décembre 2023
+du 11 décembre 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -35,4 +35,4 @@ arrête
 
 #### Art. 4
 
-<sup>1</sup> La Chancellerie d'Etat est chargée de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2024.
+<sup>1</sup> La Chancellerie d'Etat est chargée de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2025.
