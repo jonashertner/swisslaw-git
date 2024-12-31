@@ -4,13 +4,13 @@ number: "775"
 title: Gesetz über den öffentlichen Verkehr
 short: öVG
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-02-18
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-06-19
 adopted: 2009-06-22
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775"
-pdf: "https://srl.lu.ch/api/de/versions/3501/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3501/pdf_file"
 
 (öVG)
 
-vom 22.06.2009 (Stand 01.01.2020)
+vom 22.06.2009 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -38,6 +38,32 @@ beschliesst:
 <sup>1</sup> Das Gesetz regelt den öffentlichen Personenverkehr und den Schienengüterverkehr von Kanton und Gemeinden. Es ergänzt die Vorschriften des Bundes, welche auch für den danach nicht abgeltungsberechtigten öffentlichen Personenverkehr sinngemäss Anwendung finden.
 
 <sup>2</sup> Das Gesetz enthält Regelungen zur Organisation, zur Planung, zu den Massnahmen für Infrastruktur und Betrieb sowie zur Finanzierung des öffentlichen Personenverkehrs und des Schienengüterverkehrs von Kanton und Gemeinden.
+
+#### § 1a
+
+**Programm Gesamtmobilität**
+
+<sup>1</sup> Das Programm Gesamtmobilität umfasst die verkehrsmittelübergreifende Strategie sowie ein Massnahmenprogramm zur Steuerung und Entwicklung der Mobilität im Kanton Luzern (Massnahmenprogramm Mobilität).
+
+#### § 1b
+
+**Verkehrsmittelübergreifende Strategie**
+
+<sup>1</sup> In der verkehrsmittelübergreifenden Strategie werden die aktuellen Herausforderungen im Bereich der Mobilität aufgezeigt, die Leitlinien zur weiteren Entwicklung bestimmt und die mittel- und langfristigen verkehrspolitischen Ziele festgelegt.
+
+<sup>2</sup> Der Kantonsrat beschliesst die verkehrsmittelübergreifende Strategie mindestens vor jeder Totalrevision des kantonalen Richtplans. Haben sich die Verhältnisse geändert oder stellen sich neue Aufgaben, wird die Strategie nötigenfalls vorzeitig angepasst.
+
+<sup>3</sup> Die betroffenen Gemeinden, die regionalen Entwicklungsträger und die weiteren interessierten Kreise können sich vernehmen lassen.
+
+#### § 1c
+
+**Massnahmenprogramm Mobilität**
+
+<sup>1</sup> Das Massnahmenprogramm Mobilität enthält die Massnahmen des Kantons, die in der Programmperiode geplant, ausgeführt oder fortgesetzt werden. Diese umfassen insbesondere Bauvorhaben für die Verkehrsinfrastruktur, Planungsvorgaben für das Angebot des öffentlichen Verkehrs und weitere Massnahmen zur Steuerung der Gesamtmobilität. Die Massnahmen werden im Programm beschrieben und ihre mutmasslichen Kosten aufgeführt. Massnahmen können in Sammelrubriken zusammengefasst werden. Der Regierungsrat legt den Mindestinhalt in der Verordnung fest.
+
+<sup>2</sup> Die betroffenen Gemeinden, die regionalen Entwicklungsträger und die weiteren interessierten Kreise können sich vernehmen lassen.
+
+<sup>3</sup> Das Massnahmenprogramm Mobilität ist mindestens alle vier Jahre zu überarbeiten und dem Kantonsrat zur Beschlussfassung vorzulegen.
 
 #### § 2
 
@@ -83,7 +109,7 @@ beschliesst:
 
 <sup>1</sup> Der Kantonsrat
 
-- a. behandelt den öV-Bericht gemäss § 13,
+- a. beschliesst den verkehrsmittelübergreifenden Strategieteil sowie das Massnahmenprogramm Mobilität gemäss den §§ 1b und 1c,
 - b. stellt gestützt auf einen Budgetbericht im Voranschlag die in § 25 genannten finanziellen Mittel bereit,
 - c. beschliesst über die Sonder- und Zusatzkredite für Infrastrukturmassnahmen nach § 17 Absatz 2, wenn die Ausgaben im Einzelfall 3 Millionen Franken oder mehr betragen.
 
@@ -93,7 +119,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat
 
-- a. erstellt die in § 5 Unterabsätze a und b genannten Berichte und unterbreitet sie dem Kantonsrat,
+- a. erstellt den in § 5 Absatz 1b genannten Bericht und unterbreitet ihn dem Kantonsrat,
 - b. plant in Zusammenarbeit mit dem Verkehrsverbund Luzern die Infrastrukturvorhaben für den öffentlichen Personenverkehr und den Schienengüterverkehr,
 - c. beschliesst, sofern dafür nicht der Kantonsrat zuständig ist (§ 5 Unterabs. c), im Rahmen der verfügbaren Mittel über die Sonder- und Zusatzkredite für Infrastrukturmassnahmen nach § 17 Absatz 2,
 - d. genehmigt das Reglement für den Verkehrsverbund,
@@ -159,7 +185,7 @@ beschliesst:
 - c. die Aufsicht auszuüben,
 - d. die Leistungsvereinbarung mit dem Kanton abzuschliessen,
 - e. den Geschäftsbericht zuhanden des Regierungsrates zu verabschieden,
-- f. die in § 5 Unterabsätze a und b genannten Berichte zuhanden des Regierungsrates zu verabschieden,
+- f. den in § 5 Absatz 1b genannten Bericht zuhanden des Regierungsrates zu verabschieden,
 - g. das Tarifverbundsgebiet zu bestimmen,
 - h. die tarifarischen Massnahmen zu beschliessen,
 - i. alle ihm sonst im Gesetz, in der Verordnung, im Reglement oder in der Leistungsvereinbarung übertragenen Aufgaben wahrzunehmen.
@@ -186,23 +212,7 @@ beschliesst:
 
 #### § 13
 
-**öV-Bericht**
-
-<sup>1</sup> Der Bericht über die mittel- und langfristige Entwicklung des Angebots für den öffentlichen Personenverkehr (öV-Bericht) ist ein besonderer Planungsbericht gemäss § 77 Absatz 1c des Kantonsratsgesetzes vom 28. Juni 1976[^13-1].
-
-<sup>2</sup> Er gibt Auskunft über das bestehende Angebot, die geplanten Infrastrukturvorhaben und Angebotsveränderungen, den Zeitpunkt ihrer Verwirklichung und die damit verbundenen Kosten und hält die Tarifgrundsätze fest.
-
-<sup>3</sup> Der öV-Bericht berücksichtigt bei der Infrastruktur- und Angebotsplanung
-
-- a. die in § 2 genannten Ziele und Grundsätze,
-- b. die Funktion der Linien, das Erschliessungspotenzial sowie die Siedlungsstruktur und -entwicklung,
-- c. die Wirtschaftlichkeit und die Kostenentwicklung.
-
-<sup>4</sup> Die Gemeinden, die regionalen Entwicklungsträger, die Transportunternehmen und weitere Interessierte sind anzuhören.
-
-<sup>5</sup> Der öV-Bericht ist dem Kantonsrat alle vier Jahre vorzulegen.
-
-[^13-1]: SRL Nr. [30](https://srl.lu.ch/data/30/de)
+**…**
 
 #### § 14
 
@@ -214,7 +224,7 @@ beschliesst:
 
 **Angebotsfestsetzung**
 
-<sup>1</sup> Der Verbundrat setzt das Angebot des öffentlichen Personenverkehrs jährlich nach den Vorgaben des öV-Berichts und unter Berücksichtigung der vom Kantonsrat für den Betrieb des öffentlichen Personenverkehrs bereitgestellten Mittel fest.
+<sup>1</sup> Der Verbundrat setzt das Angebot des öffentlichen Personenverkehrs jährlich nach den im Massnahmenprogramm Mobilität enthaltenen Planungsvorgaben und unter Berücksichtigung der vom Kantonsrat für den Betrieb des öffentlichen Personenverkehrs bereitgestellten Mittel fest.
 
 <sup>2</sup> Die Linienführung, die Haltestellen, das Angebot und die Transportmittel sind so zu wählen, dass die Kosten der Massnahmen in einem möglichst günstigen Verhältnis zu den gefahrenen Personenkilometern stehen.
 
@@ -408,6 +418,12 @@ beschliesst:
 <sup>2</sup> Auf diesen Zeitpunkt wählt der Regierungsrat die Mitglieder des Verbundrates.
 
 <sup>3</sup> In den ersten drei Fahrplanjahren nach Inkrafttreten dieses Gesetzes haben die Gemeinden nebst dem von ihnen gemäss § 29 geschuldeten Beitrag an die Kosten für Massnahmen zugunsten des öffentlichen Personenverkehrs und des Schienengüterverkehrs den nach bisherigem Recht noch verbleibenden, nachschüssig zu leistenden Kostenanteil für das dem Inkrafttreten des Gesetzes vorausgehende Fahrplanjahr zu bezahlen.
+
+#### § 32a
+
+**Übergangsbestimmung zur Änderung vom 19. Juni 2023**
+
+<sup>1</sup> Ist bis Ende 2026 das Massnahmenprogramm Mobilität gemäss § 1c noch nicht beschlossen, so bleibt bis zu dessen Beschluss für die Planung des Angebots und der Infrastrukturbauten des öffentlichen Verkehrs die Planung gemäss dem öV-Bericht 2023–2026 gültig.
 
 #### § 33
 
