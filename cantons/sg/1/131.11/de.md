@@ -5,12 +5,12 @@ title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2024-12-16
 version_adopted: 2024-12-04
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3707/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3704/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -68,7 +68,7 @@ als Reglement:[^ingress-7]
   - 1\. Gültigkeit der Kantonsratswahlen,
   - 2\. Stellungnahme zu Berichten der Regierung, der selbständigen Anstalten und der obersten kantonalen Gerichte sowie zu Plänen der Staatstätigkeit,
   - 3\. Aufträge, wie Motionen und Postulate;
-- i) Entscheide, insbesondere über Einsprachen von Mitgliedern des Kantonsrates, über Ersuchen sowie in Disziplinar-, Straf- und Verantwortlichkeitssachen;
+- i) Entscheide, insbesondere über Einsprachen von Mitgliedern des Kantonsrates, über Gesuche und Petitionen sowie in Disziplinar-, Straf- und Verantwortlichkeitssachen;
 - k) Entgegennahme von Antworten, insbesondere auf Interpellationen und Einfache Anfragen.
 
 ### 2. Präsidium
@@ -221,20 +221,12 @@ als Reglement:[^ingress-7]
 - a) die Gültigkeit der Wahl der Mitglieder des Kantonsrates;
 - b) die Geschäftsberichte der kantonalen Gerichte;
 - c) die Wahlvorschläge der Fraktionen für die kantonalen Gerichte;
-- d) Berichte und Anträge aus Administrativuntersuchungen, Disziplinarfälle sowie Verantwortlichkeitsklagen betreffend oberste kantonale Behörden;
-- e) …
+- d) Berichte und Anträge aus Administrativuntersuchungen, Disziplinarfällen sowie Straf- und Verantwortlichkeitsklagen betreffend oberste kantonale Behörden;
+- e) an den Kantonsrat gerichtete Petitionen.
 
-<sup>1<sup>ter</sup></sup> Sie behandelt folgende Ersuchen:
-
-- a) an den Kantonsrat gerichtete Eingaben, soweit sie diese nicht einer anderen ständigen Kommission überweist;
-- b) an den Kantonsrat gerichtete Petitionen;
-- c) Ermächtigung zur Eröffnung eines Strafverfahrens nach Art. 23 Abs. 2 des Einführungsgesetzes zur Schweizerischen Straf- und Jugendprozessordnung vom 3. August 2010[^14-1];
-- d) Bewilligung einer Nebenbeschäftigung der hauptamtlichen Richterinnen und Richter sowie Mitteilungen der teilamtlichen Richterinnen und Richter des Kantonsgerichtes, des Verwaltungsgerichtes und des Versicherungsgerichtes nach Art. 40 Abs. 3 des Gerichtsgesetzes vom 2. April 1987[^14-2].
+<sup>1<sup>ter</sup></sup> Sie behandelt an den Kantonsrat gerichtete Eingaben, soweit sie diese nicht einer anderen ständigen Kommission überweist.
 
 <sup>2</sup> …
-
-[^14-1]: sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
-[^14-2]: sGS [941.1](https://www.gesetzessammlung.sg.ch/data/941.1/de).
 
 #### Art. 14bis
 
@@ -1542,13 +1534,13 @@ als Reglement:[^ingress-7]
 
 **…**
 
-### e) Ersuchen zuhanden des Kantonsrates
+### e) Eingaben
 
 #### Art. 127
 
 **Überweisung**
 
-<sup>1</sup> An den Kantonsrat gerichtete Ersuchen werden der Rechtspflegekommission überwiesen. Diese kann sie einer anderen ständigen Kommission überweisen.
+<sup>1</sup> An den Kantonsrat gerichtete Eingaben werden der Rechtspflegekommission überwiesen. Diese kann sie einer anderen ständigen Kommission überweisen.
 
 <sup>2</sup> Das Präsidium kann die Regierung einladen, dem Kantonsrat einen Bericht zu unterbreiten.
 
@@ -1556,28 +1548,21 @@ als Reglement:[^ingress-7]
 
 **Rückweisung**
 
-<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident weist unklare, weitschweifige oder Sitte und Anstand verletzende Ersuchen zur Behebung der Mängel zurück.
+<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident weist weitschweifige oder Sitte und Anstand verletzende Eingaben zur Behebung der Mängel zurück.
 
 <sup>2</sup> Sie oder er kann die Nichtbehandlung für den Fall androhen, dass die Mängel nicht innert gesetzter Frist behoben werden.
 
 #### Art. 127ter
 
-**Behandlung**
+**Nichteintreten**
 
-<sup>1</sup> Die ständige Kommission kann, wenn der Beschluss ohne Gegenstimme zustande kommt:
-
-- a) Ersuchen nach Art. 14 Abs. 1<sup>ter</sup> dieses Reglements gutheissen, abweisen oder zur Kenntnis nehmen;
-- b) Ersuchen, die offensichtlich unhaltbar sind oder ausserhalb der Zuständigkeit des Kantonsrates liegen, durch Nichteintreten erledigen.
-
-<sup>2</sup> Andernfalls entscheidet der Kantonsrat.
-
-<sup>3</sup> Die Beschlüsse der ständigen Kommission und des Kantonsrates sind endgültig.
+<sup>1</sup> Die ständige Kommission kann Eingaben, die offensichtlich unhaltbar sind oder ausserhalb der Zuständigkeit des Kantonsrates liegen, durch Nichteintreten erledigen, wenn der Beschluss ohne Gegenstimme zustande kommt. Andernfalls entscheidet der Kantonsrat.
 
 #### Art. 128
 
 **Berichterstattung**
 
-<sup>1</sup> Die ständige Kommission erstattet dem Kantonsrat über jene Ersuchen, die sie nicht von sich aus erledigen konnte, mündlich Bericht.
+<sup>1</sup> Die ständige Kommission erstattet dem Kantonsrat über die ihr überwiesenen Eingaben mündlich Bericht, soweit sie diese nicht von sich aus erledigen konnte.
 
 <sup>2</sup> In besonderen Fällen unterbreitet sie dem Kantonsrat schriftlich Bericht und Antrag.
 
@@ -1868,7 +1853,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Mitglieder des Kantonsrates erhalten für jede Sitzung des Kantonsrates, des Präsidiums und der Kommissionen, an der sie teilnehmen, ein Taggeld.
 
-<sup>2</sup> Wer am gleichen Tag an zwei oder mehr Sitzungen von insgesamt wenigstens vier Stunden Dauer teilnimmt, erhält ein erhöhtes Taggeld.
+<sup>2</sup> Wer am gleichen Tag an wenigstens zwei Sitzungen von jeweils zwei Stunden Dauer oder mehr teilnimmt, erhält ein erhöhtes Taggeld.
 
 <sup>3</sup> …
 
@@ -1884,9 +1869,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Mitglieder des Kantonsrates, die im Auftrag des Präsidiums oder einer Kommission Besichtigungen, Befragungen und Besprechungen durchführen, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung wie für Sitzungen.
 
-<sup>2</sup> Mitglieder des Kantonsrates, die keine Funktionsentschädigung erhalten, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung, wenn sie den Kantonsrat im Auftrag des Präsidiums an einem Anlass vertreten.
-
-<sup>3</sup> Mitglieder des Präsidiums erhalten für die Teilnahme an funktionsbezogenen Weiterbildungen eine Entschädigung nach den Bestimmungen von Art. 150 und Art. 153 Abs. 2 dieses Reglements.
+<sup>2</sup> Mitglieder des Präsidiums, die keine Funktionsentschädigung erhalten, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung, wenn sie den Kantonsrat an einem Anlass vertreten.
 
 #### Art. 152
 
@@ -1918,7 +1901,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Mitglieder des Kantonsrates werden für ihre Tätigkeit in Vertretungen entschädigt.
 
-<sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen von Art. 150 und 153 dieses Reglements.
+<sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen von Art. 150 dieses Reglementes.
 
 ### 2. Präsidentinnen und Präsidenten sowie Berichterstatterinnen und Berichterstatter
 
@@ -2006,14 +1989,6 @@ als Reglement:[^ingress-7]
 #### Art. 161
 
 **…**
-
-### 4. Berufliche Vorsorge
-
-#### Art. 161bis
-
-**Grundsatz**
-
-<sup>1</sup> Der Kanton richtet den Mitgliedern des Kantonsrates einen jährlichen Vorsorgebeitrag aus.
 
 ## V. Schlussbestimmungen
 
