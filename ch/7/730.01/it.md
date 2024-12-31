@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2024-07-25
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240725/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240725-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 25 luglio 2024)
+del 1° novembre 2017 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-vista la legge del 30 settembre 2016[^ingress-1] sull’energia (LEne),
+vista la legge del 30 settembre 2016[^ingress-1] sull’energia (LEne); vista la legge del 23 marzo 2007[^ingress-2] sull’approvvigionamento elettrico (LAEl),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Capitolo 1: Oggetto
 
@@ -33,23 +35,36 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. la garanzia di origine e l’etichettatura dell’elettricità;
+- a.[^1-1] la garanzia di origine per l’elettricità e l’etichettatura dell’elettricità;
+- a<sup>bis</sup>.[^1-2] la garanzia di origine per combustibili e carburanti;
 - b. la pianificazione del territorio in relazione al potenziamento delle energie rinnovabili;
 - c. l’immissione di energia di rete e il consumo proprio;
 - d. i bandi di gara per misure di efficienza;
-- e.[^1-1] le garanzie per la geotermia;
+- e.[^1-3] le garanzie per la geotermia;
 - f. l’indennizzo per le misure di risanamento concernenti gli impianti idroelettrici;
 - g. il supplemento rete;
 - h. l’impiego parsimonioso ed efficiente dell’energia negli edifici e nelle imprese;
+- h<sup>bis</sup>.[^1-4] i miglioramenti dell’efficienza energetica da parte dei fornitori di elettricità;
 - i. le misure di promozione nel settore dell’energia;
 - j. la collaborazione internazionale nell’ambito di applicazione della LEne;
 - k. la verifica degli effetti e il trattamento dei dati.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-2]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-4]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
-## Capitolo 2: Garanzia di origine ed etichettatura dell’elettricità
+## Capitolo 2: Garanzie di origine ed etichettatura dell’elettricità
 
-### Sezione 1: Garanzia di origine
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+### Sezione 1: Garanzia di origine per l’elettricità
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 2
 
@@ -67,12 +82,12 @@ Da questi obblighi sono esclusi i produttori i cui impianti:[^2-2]
 - d.[^2-4] sono classificati secondo l’ordinanza dell’8 novembre 2023[^2-5] sulla sicurezza delle informazioni; o
 - e.[^2-6] sono protetti secondo gli articoli 1 e 2 dell’ordinanza del 2 maggio 1990[^2-7] concernente la protezione delle opere militari.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^2-4]: Nuovo testo giusta l’all. 2 n. II 36 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^2-4]: Nuovo testo giusta l’all. 2 cifra II n. 36 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^2-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-[^2-6]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^2-6]: Introdotta dalla cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-7]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 3
@@ -91,27 +106,114 @@ I proprietari di garanzie di origine devono annullare le garanzie di origine che
 
 <sup>3</sup> I proprietari di garanzie di origine devono notificare senza indugio gli annullamenti all’organo d’esecuzione.
 
+#### Art. 3a
+
+**Garanzie di origine della Confederazione**[^3a-1]
+
+La Confederazione può vendere garanzie di origine per l’elettricità che produce e immette in rete all’acquirente dell’elettricità o a terzi.
+
+[^3a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 ### Sezione 2: Etichettatura dell’elettricità
 
 #### Art. 4
 
 <sup>1</sup> L’etichettatura dell’elettricità di cui all’articolo 9 capoverso 3 lettera b LEne deve essere eseguita annualmente mediante garanzia di origine per ogni chilowattora fornito ai consumatori finali. Nel caso delle ferrovie, ai fini dell’etichettatura dell’elettricità le rispettive imprese ferroviarie sono considerate come consumatori finali.[^4-1]
 
+<sup>1bis</sup> Non è soggetta all’obbligo di etichettatura la fornitura di elettricità per il fabbisogno proprio di una centrale elettrica, per l’azionamento di pompe negli impianti ad accumulazione con pompaggio e per gli impianti di stoccaggio senza consumo finale.[^4-2]
+
 <sup>2</sup>
 
 L’azienda soggetta all’obbligo di etichettatura dell’elettricità deve effettuare l’etichettatura per tutti i propri consumatori finali con la seguente modalità:
 
-- a. per la totalità dell’elettricità fornita ai propri consumatori finali (mix del fornitore); oppure
+- a.[^4-3] per la totalità dell’elettricità fornita ai propri consumatori finali (mix del fornitore); e
 - b. per l’elettricità fornita singolarmente a ogni consumatore finale (mix del prodotto).
 
-<sup>3</sup> Indipendentemente dal tipo di etichettatura, l’azienda deve pubblicare il proprio mix del fornitore e la quantità totale di elettricità fornita ai propri consumatori finali al più tardi entro la fine di giugno dell’anno civile successivo. La pubblicazione deve avvenire in particolare sul sito Internet liberamente accessibile www.etichettatura-elettricita.ch, gestito dalle aziende soggette all’obbligo di etichettatura dell’elettricità.[^4-2]
+<sup>3</sup> Indipendentemente dal tipo di etichettatura, l’azienda deve pubblicare il proprio mix del fornitore e la quantità totale di elettricità fornita ai propri consumatori finali al più tardi entro la fine di giugno dell’anno civile successivo. La pubblicazione deve avvenire in particolare sul sito Internet liberamente accessibile www.etichettatura-elettricita.ch, gestito dalle aziende soggette all’obbligo di etichettatura dell’elettricità.[^4-4]
 
 <sup>4</sup> L’azienda che fornisce ai consumatori finali meno di 500 MWh all’anno è esonerata dall’obbligo di pubblicazione dell’etichettatura dell’elettricità.
 
 <sup>5</sup> La quota relativa all’elettricità soggetta a etichettatura degli impianti partecipanti al sistema di rimunerazione per l’immissione di elettricità viene ripartita in eguale misura fra tutti i consumatori finali.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^4-2]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+
+### Sezione 2*a*: Garanzia di origine per combustibili e carburanti
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 4a
+
+**Campo d’applicazione**
+
+La presente sezione si applica ai combustibili e ai carburanti seguenti:
+
+- a. combustibili e carburanti liquidi o gassosi prodotti a partire da biomassa o utilizzando altri vettori energetici rinnovabili (combustibili e carburanti rinnovabili);
+- b. idrogeno non prodotto a partire da biomassa e non utilizzando altri vettori energetici rinnovabili (idrogeno non rinnovabile);
+- c. carburanti per l’aviazione a basso tenore di emissioni (art. 28*f* della legge del 23 dicembre 2011[^4a-1] sul CO₂).
+
+[^4a-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+
+#### Art. 4b
+
+**Obblighi**
+
+<sup>1</sup> I produttori di combustibili e carburanti devono far registrare l’impianto di produzione nella banca dati dell’organo d’esecuzione e far attestare mediante garanzia di origine presso l’organo d’esecuzione la quantità di combustibili e carburanti prodotti.
+
+<sup>2</sup> Gli importatori di combustibili e carburanti devono far registrare l’impianto di produzione all’estero nella banca dati dell’organo d’esecuzione e far attestare mediante garanzia di origine presso l’organo d’esecuzione la quantità di combustibili e carburanti importati.
+
+<sup>3</sup> Gli importatori di combustibili e carburanti in equilibrio di massa non sono tenuti a registrare gli impianti di produzione.
+
+<sup>4</sup>
+
+Sono esentati dagli obblighi di cui ai capoversi 1 e 2:
+
+- a. i produttori che producono meno di 20 chilogrammi per anno civile di combustibile rinnovabile o idrogeno non rinnovabile che non viene utilizzato come carburante;
+- b.
+
+  gli importatori che:
+
+  - 1\. importano carburanti come mezzi d’esercizio nel serbatoio del veicolo o in un bidone di scorta,
+  - 2\. importano idrogeno all’interno di veicoli alimentati a celle a combustibile come mezzi d’esercizio nel serbatoio del veicolo,
+  - 3\. dispongono di una garanzia di origine estera per i combustibili e i carburanti importati.
+
+<sup>5</sup> Gli importatori di garanzie di origine estere per gas rinnovabili e di altri certificati esteri per gas rinnovabili devono registrarli presso l’organo d’esecuzione.
+
+#### Art. 4c
+
+**Annullamento**
+
+<sup>1</sup>
+
+Deve annullare una garanzia di origine o farla annullare da un terzo incaricato chi:
+
+- a. cede il plusvalore ecologico di un combustibile o carburante cui la garanzia di origine fa riferimento a consumatori finali o a una stazione di servizio;
+- b. cede la quantità di combustibile o carburante gassoso cui la garanzia di origine fa riferimento a consumatori finali o a una stazione di servizio e non la immette nella rete del gas svizzera; o
+- c.
+
+  riguardo alla quantità di combustibile o carburante cui la garanzia di origine fa riferimento:
+
+  - 1\. la utilizza per il consumo proprio,
+  - 2\. la converte in un altro vettore energetico,
+  - 3\. la esporta in un Paese che non riconosce le garanzie di origine svizzere.
+
+<sup>2</sup>
+
+Deve inoltre annullare una garanzia di origine o farla annullare da un terzo incaricato chi la utilizza come prova per l’utilizzo di combustibili o carburanti:
+
+- a. nel quadro dei fattori di riduzione del CO<sub>2</sub> per i parchi veicoli nuovi mediante l’utilizzo di carburanti sintetici rinnovabili secondo l’articolo 11*a* della legge del 23 dicembre 2011[^4c-1] sul CO<sub>2</sub>;
+- b. nel quadro dell’obbligo di compensazione secondo l’articolo 28*b* della legge sul CO<sub>2</sub>; o
+- c. nel quadro dell’obbligo di fornitura e di miscelazione di carburanti a basso tenore di emissioni, rinnovabili e sintetici rinnovabili secondo l’articolo 28*f* della legge sul CO<sub>2</sub>.
+
+<sup>3</sup> L’annullamento deve essere effettuato entro la fine di ogni trimestre.
+
+<sup>4</sup> Chi utilizza una garanzia di origine rilasciata sulla base di certificati esteri per gas rinnovabili nel mercato del calore volontario deve annullarla entro un anno.
+
+[^4c-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Sezione 3: Requisiti tecnici, procedura e obbligo di notifica
 
@@ -123,12 +225,17 @@ L’azienda soggetta all’obbligo di etichettatura dell’elettricità deve eff
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) disciplina in particolare:
 
-- a. i requisiti della garanzia di origine e la sua validità;
-- b. la procedura per il rilevamento, l’emissione, la sorveglianza della trasmissione della garanzia di origine e per il suo annullamento;
+- a.[^5-1] i requisiti delle garanzie di origine e la loro durata di validità;
+- b.[^5-2] la procedura per il rilevamento, l’emissione, la sorveglianza della trasmissione e l’annullamento delle garanzie di origine;
 - c. i requisiti della registrazione degli impianti per i quali deve essere provata l’origine della produzione, nonché la relativa procedura;
-- d. i requisiti dell’etichettatura dell’elettricità.
+- d. i requisiti dell’etichettatura dell’elettricità;
+- e.[^5-3] i requisiti per l’utilizzo delle garanzie di origine.
 
 <sup>2</sup> A tal fine esso si orienta alle norme internazionali, in particolare a quelle dell’Unione europea e dell’Association of Issuing Bodies (AIB).
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^5-3]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 6
 
@@ -147,7 +254,7 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
 
 #### Art. 7
 
@@ -155,13 +262,13 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 <sup>2</sup> I servizi federali competenti devono presentare all’UFE i propri pareri e le proprie autorizzazioni entro due mesi dalla richiesta dell’UFE, sempre che altri atti legislativi federali non prevedano termini diversi. In caso di procedure particolarmente complesse, l’UFE può prorogare il termine di due mesi di al massimo due mesi.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 ### Sezione 1*a*: Progetti nel settore idroelettrico e piani direttori cantonali
 
 [^chap3-sec1a-1]
 
-[^chap3-sec1a-1]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^chap3-sec1a-1]: Introdotta dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 7a
 
@@ -170,6 +277,22 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 <sup>2</sup> Gli impianti idroelettrici privi di ripercussioni considerevoli sul territorio e sull’ambiente non necessitano di una base nel piano direttore, anche se sono considerati di interesse nazionale.
 
 [^7a-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+### Sezione 1*b*: Delimitazione di territori adeguati per impianti eolici e solari
+
+[^chap3-sec1b-1]
+
+[^chap3-sec1b-1]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 7b
+
+Per determinare i territori adeguati per l’utilizzo di impianti eolici e solari di interesse nazionale, i Cantoni si basano su fondamenti che consentono in particolare di tenere conto, al livello opportuno, dei seguenti interessi:
+
+- a. protezione del paesaggio;
+- b. protezione della natura, compresa la protezione delle specie;
+- c. protezione dei terreni coltivi, inclusa la protezione delle superfici per l’avvicendamento delle colture;
+- d. conservazione della foresta;
+- e. protezione delle acque.
 
 ### Sezione 2: Interesse nazionale
 
@@ -206,11 +329,11 @@ Se un ampliamemto o un rinnovamento causa un nuovo grave pregiudizio a un oggett
 
 <sup>4</sup> Gli impianti di stoccaggio con pompaggio sono considerati di interesse nazionale se presentano una potenza installata di almeno 100 MW.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^8-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-2]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^8-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^8-4]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^8-5]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-4]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-5]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 9
 
@@ -227,21 +350,64 @@ Per valutare se un impianto eolico è di interesse nazionale è possibile consid
 
 <sup>3</sup> Gli impianti eolici e i parchi eolici esistenti sono considerati di interesse nazionale se attraverso il loro ampliamento o rinnovamento si raggiunge una produzione media prevista di almeno 20 GWh all’anno.
 
+#### Art. 9a
+
+**Impianti solari di interesse nazionale**[^9a-1]
+
+<sup>1</sup> Per valutare se un impianto solare è di interesse nazionale, è possibile considerare cumulativamente diversi campi fotovoltaici se ciò è giustificato dalla disposizione territoriale dei campi, dalla distanza esigua tra i campi e dalla giustificazione oggettiva di eventuali spazi vuoti tra i campi.
+
+<sup>2</sup> I nuovi impianti solari sono considerati di interesse nazionale se la produzione media prevista da ottobre a marzo è di almeno 5 GWh.
+
+<sup>3</sup> Gli impianti solari esistenti sono considerati di interesse nazionale se attraverso il loro ampliamento o rinnovamento si raggiunge una produzione media prevista da ottobre a marzo di almeno 5 GWh.
+
+[^9a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+### Sezione 2*a*: Incremento della produzione di elettricità in inverno
+
+[^chap3-sec2a-1]
+
+[^chap3-sec2a-1]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 9a<sup>bis</sup>
+
+**Progetti in oggetti d’importanza nazionale iscritti in inventari secondo l’articolo 5 LPN**
+
+Si può rinunciare a misure di protezione, di ripristino, di sostituzione o di compensazione in particolare se la loro attuazione impedirebbe un progetto in oggetti d’importanza nazionale iscritti in inventari secondo l’articolo 5 LPN[^9abis-1] o ne pregiudicherebbe eccessivamente la realizzazione o l’esercizio.
+
+[^9abis-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+#### Art. 9a<sup>ter</sup>
+
+**Centrali idroelettriche ad accumulazione per l’incremento della produzione di elettricità in inverno**
+
+Le centrali idroelettriche ad accumulazione comprendono anche gli impianti e le installazioni necessari per la realizzazione e l’esercizio delle centrali idroelettriche ad accumulazione secondo l’articolo 9*a* capoverso 3 LAEl.
+
+#### Art. 9a<sup>quater</sup>
+
+**Misure di compensazione**
+
+Per le ulteriori misure di compensazione per la protezione della biodiversità e del paesaggio secondo l’articolo 9*a* capoverso 3 lettera e LAEl si applica alle centrali idroelettriche ad accumulazione secondo l’articolo 9*a* capoverso 3 LAEl quanto segue:
+
+- a. le misure di compensazione possono essere attuate presso l’ubicazione dell’impianto o altrove nel Cantone;
+- b. possono essere attuate mediante valorizzazione ecologica o paesaggistica oppure mettendo sotto protezione un perimetro;
+- c. i relativi costi diretti e indiretti devono essere proporzionati ai vantaggi economici e al nuovo impatto del progetto sulla biodiversità e sul paesaggio.
+
 ### Sezione 3: Costruzioni e impianti non soggetti ad autorizzazione edilizia
 
 [^chap3-sec3-1]
 
-[^chap3-sec3-1]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^chap3-sec3-1]: Introdotta dalla cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 
-#### Art. 9a
+#### Art. 9a<sup>quinquies</sup>
 
-**Costruzioni e impianti finalizzati ad accertare l’adeguatezza dell’ubicazione di impianti eolici[^9a-1]**
+**Costruzioni e impianti finalizzati ad accertare l’adeguatezza dell’ubicazione di impianti eolici[^9aquinquies-2]**[^9aquinquies-1]
 
 <sup>1</sup> Le costruzioni e gli impianti destinati a esaminare l’adeguatezza dell’ubicazione di impianti eolici possono essere edificati o modificati per una durata massima di 18 mesi senza autorizzazione edilizia.
 
 <sup>2</sup> I Cantoni possono prevedere una procedura di notifica.
 
-[^9a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^9aquinquies-1]: Originario art. 9*a*.
+[^9aquinquies-2]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 9b
 
@@ -259,13 +425,13 @@ Il committente notifica all’autorità competente gli impianti di prova di cui 
 
 <sup>3</sup> Terminate le prove, il committente smantella completamente l’impianto e ripristina immediatamente la situazione originaria, fornendone la relativa prova all’autorità.
 
-[^9b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^9b-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ### Sezione 4: Grandi impianti fotovoltaici di cui all’articolo 71*a* LEne
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Introdotta dal n. I dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+[^chap3-sec4-1]: Introdotta dalla cifra I dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
 
 #### Art. 9c
 
@@ -328,7 +494,7 @@ La notifica deve essere accompagnata dalle seguenti informazioni:
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Introdotta dal n. I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)) .
+[^chap3-sec5-1]: Introdotta dalla cifra I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)) .
 
 #### Art. 9i
 
@@ -380,12 +546,12 @@ I produttori di energia secondo l’articolo 15 LEne e i gestori di rete stabili
 
 <sup>2</sup> I produttori sono tenuti a prendere a proprie spese provvedimenti volti a evitare perturbazioni tecniche al punto di raccordo alla rete.
 
-<sup>3</sup> Se il capoverso 2 è soddisfatto, i gestori di rete sono tenuti a raccordare gli impianti al punto di raccordo alla rete più conveniente dal punto di vista tecnico ed economico e in modo tale da assicurare l’immissione e il prelievo di energia. Il produttore sostiene i costi per la costruzione delle necessarie linee di raccordo fino al punto di raccordo alla rete nonché i costi di trasformazione eventualmente necessari. Per il rimborso delle spese relative al necessario potenziamento della rete si applica l’articolo 22 capoverso 3 OAEl[^10-1].
+<sup>3</sup> Se la condizione di cui al capoverso 2 è soddisfatta, i gestori di rete sono tenuti a raccordare gli impianti al punto di raccordo alla rete più conveniente dal punto di vista tecnico ed economico e in modo tale da assicurare l’immissione e il prelievo di energia. Il produttore sostiene i costi per la costruzione delle necessarie linee di raccordo fino al punto di raccordo alla rete nonché i costi di trasformazione eventualmente necessari.[^10-1]
 
 <sup>4</sup> Rispettando un termine di preavviso di un mese rispetto alla fine del trimestre, i produttori possono comunicare al gestore di rete se intendono far valere o meno il loro diritto di ritiro e di rimunerazione dell’energia che producono.[^10-2]
 
-[^10-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
-[^10-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^10-2]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 11
 
@@ -399,9 +565,11 @@ Il gestore di rete deve ritirare e rimunerare:
 - b. a un produttore che cede al gestore di rete tutta l’energia prodotta: la produzione netta;
 - c. a un produttore che vende alla società nazionale di rete l’elettricità come energia di regolazione: la produzione eccedente o la produzione netta dedotta l’elettricità di regolazione.
 
-<sup>2</sup> La produzione eccedente corrisponde alla quantità di elettricità effettivamente immessa nella rete del gestore. La produzione netta corrisponde alla quantità di elettricità prodotta dall’impianto (produzione lorda), dedotta la quantità di elettricità consumata dall’impianto stesso (alimentazione ausiliaria).
+<sup>2</sup> La produzione eccedente corrisponde alla quantità di elettricità effettivamente immessa nella rete del gestore che non viene utilizzata nel luogo di produzione. La produzione netta corrisponde alla quantità di elettricità prodotta dall’impianto (produzione lorda), dedotta la quantità di elettricità consumata dall’impianto stesso (alimentazione ausiliaria).[^11-1]
 
 <sup>3</sup> I produttori che intendono passare dalle rimunerazioni secondo il capoverso 1 lettera a alle rimunerazioni secondo il capoverso 1 lettera b o viceversa devono comunicarlo con tre mesi di anticipo al gestore di rete.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 12
 
@@ -415,7 +583,7 @@ Il gestore di rete deve ritirare e rimunerare:
 
 [^12-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^12-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
-[^12-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 
@@ -427,7 +595,7 @@ Il gestore di rete deve ritirare e rimunerare:
 
 <sup>3</sup> La potenza degli impianti a biomassa, eolici e geotermici si misura in base alla potenza nominale del generatore elettrico.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 [^13-2]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
 
 ### Sezione 2: Consumo proprio
@@ -440,7 +608,10 @@ Il gestore di rete deve ritirare e rimunerare:
 
 <sup>2</sup> Il luogo di produzione può comprendere altri fondi, se anche su questi si può consumare l’elettricità autoprodotta senza utilizzare la rete di distribuzione.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+<sup>3</sup> Al livello di tensione inferiore a 1 kV, la linea di raccordo e l’infrastruttura elettrica locale presso il punto di raccordo alla rete possono essere utilizzate per il consumo proprio.[^14-2]
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^14-2]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 15
 
@@ -452,52 +623,74 @@ Il gestore di rete deve ritirare e rimunerare:
 
 <sup>3</sup> Se a posteriori un raggruppamento ai fini del consumo proprio non rispetta più il requisito di cui al capoverso 1, può continuare a esistere solamente se i motivi alla base di questo cambiamento riguardano i partecipanti attuali del raggruppamento.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 
 #### Art. 16
 
-**Partecipazione di locatari e affittuari al raggruppamento**
+**Partecipazione di locatari e affittuari al raggruppamento**[^16-1]
 
 <sup>1</sup>
-
-Il proprietario fondiario addebita ai singoli locatari e affittuari conformemente ai seguenti principi:
-
-- a. per l’elettricità acquistata esternamente, i costi in funzione del consumo, comprendenti, oltre a tutte le tasse, i costi dell’energia, dell’utilizzazione della rete e della misurazione nel punto di misurazione del raggruppamento;
-- b. per l’elettricità prodotta internamente e per i costi della misurazione interna, della fornitura dei dati, dell’amministrazione e della contabilizzazione del raggruppamento (costi interni) può essere addebitato a titolo forfettario al massimo l’80 per cento dell’importo che, in caso di mancata partecipazione al raggruppamento, sarebbe dovuto nel quadro del prodotto elettrico standard esterno per la quantità di energia elettrica corrispondente.[^16-1]
-
-<sup>1bis</sup> ...[^16-2]
-
-<sup>2</sup> Per quanto riguarda i costi interni, il proprietario fondiario può addebitare, anziché l’importo forfettario di cui al capoverso 1 lettera b, anche i costi effettivamente sostenuti, dedotti i ricavi conseguiti attraverso l’elettricità immessa in rete.[^16-3]
-
-<sup>2bis</sup> ...[^16-4]
-
-<sup>3</sup> Qualora i costi interni vengano contabilizzati secondo il capoverso 2, il proprietario fondiario può fatturare al massimo l’importo che sarebbe dovuto nel quadro del prodotto elettrico standard esterno per la quantità di energia elettrica corrispondente. Qualora i costi interni risultino inferiori ai costi di tale prodotto standard esterno, oltre ai costi interni può essere fatturata al massimo la metà del risparmio ottenuto.[^16-5]
-
-<sup>4</sup>
 
 Nel raggruppamento ai fini del consumo proprio si deve stabilire in forma scritta almeno:
 
 - a. il rappresentante del raggruppamento verso l’esterno;
-- b. le modalità di misurazione del consumo interno, di fornitura dei dati, di amministrazione e di contabilizzazione;
-- c. il prodotto elettrico che deve essere acquistato esternamente nonché le modalità per un cambio di questo prodotto.
+- b. le modalità di misurazione del consumo interno, di fornitura dei dati, di amministrazione e di conteggio;
+- c. il prodotto elettrico che deve essere acquistato esternamente nonché le modalità in caso di cambio di questo prodotto.
 
-<sup>5</sup>
+<sup>2</sup>
 
 I locatari e gli affittuari possono uscire dal raggruppamento soltanto se:
 
 - a. hanno diritto di accesso alla rete (art. 17 cpv. 3 LEne) e intendono farlo valere per sé; oppure
-- b. il proprietario fondiario non è in grado di garantire un approvvigionamento elettrico adeguato oppure non rispetta le disposizioni di cui ai capoversi 1–3.
+- b. il proprietario fondiario non è in grado di garantire un approvvigionamento elettrico adeguato oppure non rispetta le disposizioni di cui agli articoli 16*a* e 16*b*.
 
-<sup>6</sup> L’uscita dal raggruppamento deve essere comunicata al proprietario fondiario per scritto con un preavviso di tre mesi e corredata di una motivazione.
+<sup>3</sup> L’uscita dal raggruppamento deve essere comunicata al proprietario fondiario per scritto con un preavviso di tre mesi e corredata di una motivazione.
 
-<sup>7</sup> I proprietari fondiari a cui spetta l’approvvigionamento elettrico di locatari o affittuari sono esentati dall’obbligo di pubblicazione delle tariffe e dalla tenuta di una contabilità per unità finale di imputazione di cui all’articolo 4 OAEl[^16-6].
+<sup>4</sup> I proprietari fondiari a cui spetta l’approvvigionamento elettrico di locatari e affittuari sono esentati dall’obbligo di pubblicazione delle tariffe e dalla tenuta di una contabilità per unità finale di imputazione di cui all’articolo 4 OAEl[^16-2].
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-2]: Introdotto dal n. I dell’O del 27 feb. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-4]: Introdotto dal n. I dell’O del 24 nov. 2021 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-6]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^16-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+
+#### Art. 16a
+
+**Conteggio dei costi esterni di un raggruppamento**[^16a-1]
+
+<sup>1</sup>
+
+Sono considerati costi esterni di un raggruppamento i costi sostenuti per:
+
+- a. l’elettricità acquistata esternamente e i costi dell’utilizzazione della rete e della misurazione del raggruppamento, incluse tutte le tasse;
+- b. un’eventuale rete per la distribuzione interna di elettricità nella misura in cui essa serva a distribuire l’elettricità acquistata esternamente.
+
+<sup>2</sup> Il proprietario fondiario addebita i costi esterni ai locatari e agli affittuari, ad eccezione dei costi per la misurazione del raggruppamento, in funzione del consumo.
+
+<sup>3</sup> Se sono sostenuti costi di cui al capoverso 1 lettera b, il proprietario fondiario non può addebitare al locatario o all’affittuario costi superiori a quelli che quest’ultimo avrebbe sostenuto per la corrispondente quantità di elettricità senza partecipare al raggruppamento.
+
+[^16a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 16b
+
+**Conteggio dei costi interni di un raggruppamento**[^16b-1]
+
+<sup>1</sup>
+
+Sono considerati costi interni di un raggruppamento i costi sostenuti per:
+
+- a. l’energia prodotta internamente;
+- b. la misurazione interna, la fornitura dei dati e il conteggio del raggruppamento;
+- c. un’eventuale rete per la distribuzione interna di elettricità nella misura in cui essa serva a distribuire l’elettricità prodotta internamente.
+
+<sup>2</sup> Il proprietario fondiario può addebitare al locatario e all’affittuario i costi interni in modo forfettario per un importo pari al massimo all’80 per cento dei costi che quest’ultimo avrebbe sostenuto per la corrispondente quantità di elettricità senza partecipare al raggruppamento.
+
+<sup>3</sup>
+
+Il proprietario fondiario può addebitare al locatario o all’affittuario i costi effettivamente sostenuti. Si applica quanto segue:
+
+- a. i ricavi conseguiti attraverso la vendita esterna dell’energia prodotta internamente devono essere dedotti dai costi interni;
+- b. il proprietario fondiario può addebitare i costi interni, dedotti i ricavi di cui alla lettera a, solo fino all’importo che avrebbe sostenuto per la corrispondente quantità di elettricità senza partecipare al raggruppamento;
+- c. se i costi interni, dedotti i ricavi di cui alla lettera a, sono inferiori all’importo massimo di cui alla lettera b, il proprietario fondiario può addebitare anche la metà della differenza.
+
+[^16b-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 17
 
@@ -526,27 +719,36 @@ I proprietari fondiari sono tenuti a notificare al gestore di rete con un antici
 - c. l’impiego di un sistema di accumulazione e le relative modalità;
 - d.[^18-2] il superamento in senso negativo del valore di cui all’articolo 15 capoverso 1.
 
-<sup>2</sup> I proprietari fondiari sono tenuti a notificare senza indugio al gestore di rete l’eventuale uscita dal raggruppamento di un locatario o di un affittuario. Il gestore di rete è tenuto ad accogliere nel servizio universale secondo l’articolo 6 o 7 della legge del 23 marzo 2007[^18-3] sull’approvvigionamento elettrico (LAEl), entro tre mesi, tale locatario o affittuario.
+<sup>2</sup> I proprietari fondiari sono tenuti a notificare senza indugio al gestore di rete l’uscita dal raggruppamento di un locatario o di un affittuario. Il gestore di rete è tenuto ad accogliere nel servizio universale secondo l’articolo 6 o 7 LAEl, entro tre mesi, tale locatario o affittuario.[^18-3]
 
 <sup>3</sup> Se il proprietario fondiario non è in grado di approvvigionare di elettricità i membri e i partecipanti del raggruppamento, il gestore di rete deve intervenire immediatamente per garantire tale approvvigionamento.
 
 <sup>4</sup> I costi per il gestore di rete derivanti dai capoversi 2 e 3 sono a carico del proprietario fondiario.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^18-2]: Introdotta dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^18-3]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+<sup>5</sup> Il gestore di rete è tenuto a comunicare al proprietario fondiario entro 15 giorni lavorativi le informazioni necessarie per la costituzione di un raggruppamento ai fini del consumo proprio avvalendosi di linee di raccordo.[^18-4]
+
+<sup>6</sup> È tenuto ad allestire un conteggio separato per il consumo dei consumatori finali che non partecipano a un raggruppamento ai fini del consumo proprio.[^18-5]
+
+<sup>7</sup> È tenuto a mettere a disposizione del raggruppamento, a titolo gratuito, i dati del profilo di carico della misurazione della produzione e del consumo dei singoli partecipanti che sono necessari per il conteggio.[^18-6]
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^18-2]: Introdotta dalla cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^18-4]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^18-5]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^18-6]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Capitolo 5: Bandi di gara per misure di efficienza, garanzie per la geotermia e indennizzo per le misure di risanamento concernenti impianti idroelettrici
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ### Sezione 1: Bandi di gara per le misure di efficienza
 
 [^chap5-sec1-1]
 
-[^chap5-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^chap5-sec1-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 19
 
@@ -573,6 +775,21 @@ Per i contributi di promozione sono presi in considerazione unicamente i progett
 
 <sup>2</sup> I progetti e i programmi con il migliore rapporto tra contributo di promozione richiesto e risparmio di elettricità computabile a tale contributo (efficacia dei costi in ct./kWh) ottengono un contributo di promozione.
 
+#### Art. 20a
+
+**Programmi a livello nazionale**[^20a-1]
+
+<sup>1</sup>
+
+L’UFE può pubblicare un bando di gara separato per una misura specifica se:
+
+- a. non viene attuata o viene attuata solo in misura esigua nell’ambito dei bandi di gara di cui all’articolo 19; e
+- b. si può attuare in modo standardizzato e scalabile nell’ambito di programmi a livello nazionale.
+
+<sup>2</sup> L’UFE si basa sull’efficacia rispetto ai costi dei precedenti bandi di gara di cui all’articolo 19.
+
+[^20a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 #### Art. 21
 
 **Versamento e restituzione**
@@ -591,7 +808,7 @@ Per i contributi di promozione sono presi in considerazione unicamente i progett
 
 <sup>1</sup>
 
-L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara:
+L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara e i programmi a livello nazionale:[^22-1]
 
 - a. il numero di programmi e di progetti che beneficiano dei contributi di promozione;
 - b. il risparmio di elettricità atteso e realizzato nell’ambito di tali programmi e progetti;
@@ -599,11 +816,13 @@ L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara
 
 <sup>2</sup> Esso può inoltre pubblicare i dati trasmessi dai responsabili del progetto o del programma nonché i rapporti intermedi e finali stilati, nel rispetto del segreto d’affari e di fabbricazione.
 
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 ### Sezione 2: Garanzie per la geotermia
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^chap5-sec2-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 23
 
@@ -613,7 +832,7 @@ L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara
 
 <sup>2</sup> La domanda di garanzia per la geotermia viene presentata all’UFE. Essa deve soddisfare i requisiti di cui all’allegato 2 numero 3.1 e contenere la prova che le domande di rilascio delle autorizzazioni e delle concessioni necessarie al progetto sono state integralmente presentate alle autorità competenti e il finanziamento del progetto è garantito.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 24
 
@@ -627,8 +846,8 @@ L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara
 
 <sup>4</sup> Se sono soddisfatti i requisiti per la prestazione di una garanzia per la geotermia, la Confederazione conclude con il richiedente un contratto di diritto amministrativo. In esso si stabiliscono in particolare le condizioni per la restituzione secondo l’articolo 27.[^24-2]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 25
 
@@ -663,7 +882,7 @@ Prima di un utilizzo per altri scopi o di un’alienazione l’UFE deve essere i
 - b. i rapporti di proprietà e i responsabili;
 - c. eventuali utili e il relativo ammontare.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 [^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### Sezione 3: Indennizzo per le misure di risanamento concernenti impianti idroelettrici
@@ -767,15 +986,25 @@ Per il resto, si applica per analogia il capitolo 3 LSu[^34-1].
 
 <sup>3</sup> Se, in base alla regola di cui all’articolo 38 LEne, risulta una modifica del fabbisogno di mezzi di almeno 0,05 ct./kWh, il DATEC presenta al Consiglio federale una domanda di ridefinizione del supplemento rete. In tale domanda indica le modalità con cui il supplemento è presumibilmente ripartito tra i singoli tipi di utilizzo.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 
 #### Art. 36
 
 **Utilizzo**
 
-<sup>1</sup> L’assegnazione dei mezzi disponibili avviene in funzione del fabbisogno di mezzi e dei costi di esecuzione dei singoli utilizzi, dei costi proporzionali per il rimborso del supplemento rete secondo l’articolo 39 LEne, della liquidità totale del Fondo per il supplemento rete nonché del contributo dei singoli utilizzi per il raggiungimento dello scopo della legge e dei valori indicativi di cui agli articoli 2 e 3 LEne.
+<sup>1</sup> L’assegnazione dei mezzi disponibili avviene in funzione del fabbisogno di mezzi e dei costi di esecuzione dei singoli utilizzi, dei costi proporzionali per il rimborso del supplemento rete secondo l’articolo 39 LEne, della liquidità totale del Fondo per il supplemento rete nonché del contributo dei singoli utilizzi per il raggiungimento dei valori obiettivo di cui agli articoli 2 e 3 LEne.[^36-1]
 
 <sup>2</sup> Le quote massime previste dalla legge per il premio di mercato per l’elettricità prodotta dai grandi impianti idroelettrici esistenti, per i contributi d’investimento agli impianti idroelettrici con una potenza superiore a 10 MW e per gli indennizzi di cui all’articolo 34 LEne vengono sfruttate se necessario a seguito del fabbisogno di mezzi.
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 36a
+
+**Mutui di tesoreria**[^36a-1]
+
+L’UFE e l’Amministrazione federale delle finanze stabiliscono di comune accordo i dettagli dei mutui di tesoreria, in particolare l’entità e la durata dei mutui, il tasso d’interesse e le ulteriori modalità.
+
+[^36a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ### Sezione 2: Rimborso
 
@@ -807,7 +1036,7 @@ L’eventuale diritto del consumatore finale al rimborso è valutato in relazion
 
 <sup>4</sup> La convenzione sugli obiettivi si considera rispettata se il grado di efficienza energetica durante il periodo di validità della convenzione resta al di sotto dell’obiettivo di efficienza energetica fissato per l’anno in questione per non più di due anni consecutivi e complessivamente per non più della metà degli anni previsti.
 
-[^39-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^39-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -879,7 +1108,7 @@ Per i consumatori finali di cui all’articolo 39 capoverso 3 secondo periodo LE
 
 <sup>3</sup> Il plusvalore lordo si calcola in base all’allegato 5.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 [^43-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 44
@@ -988,6 +1217,136 @@ Per rinnovamenti considerevoli ai sensi dell’articolo 45 capoverso 3 lettera c
 
 <sup>4</sup> Esso può incaricare terzi dello svolgimento dei compiti di cui al capoverso 2.
 
+## Capitolo 7*a*: Miglioramenti dell’efficienza energetica da parte dei fornitori di elettricità
+
+[^chap7a-1]
+
+[^chap7a-1]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 51a
+
+**Obiettivi di miglioramento dell’efficienza energetica**
+
+<sup>1</sup>
+
+I fornitori di elettricità che nell’anno precedente hanno venduto ai loro consumatori finali 10 GWh o più di elettricità (quantità di riferimento di elettricità venduta) devono realizzare annualmente, mediante miglioramenti dell’efficienza energetica, un risparmio di elettricità pari a:
+
+- a. 1 per cento nel 2026;
+- b. 1,5 per cento nel 2027;
+- c. 2 per cento a partire dal 2028.
+
+<sup>2</sup>
+
+Per il calcolo della quantità di riferimento di elettricità venduta non si tiene conto delle forniture a:
+
+- a. consumatori finali che soddisfano le condizioni di cui all’articolo 40 LEne e i cui costi per l’elettricità ammontano almeno al 20 per cento del valore aggiunto lordo;
+- b. centrali elettriche e impianti di stoccaggio senza consumo finale secondo l’articolo 14*a* capoverso 1 LAEl.
+
+<sup>3</sup> L’UFE calcola la quantità di riferimento di elettricità venduta e fissa gli obiettivi per i singoli fornitori di elettricità ogni anno entro il 30 giugno.
+
+#### Art. 51b
+
+**Misure computabili**
+
+<sup>1</sup>
+
+Le misure di miglioramento dell’efficienza energetica sono computabili se:
+
+- a. corrispondono alle migliori tecnologie disponibili; e
+- b. il risparmio di elettricità conseguito può essere misurato o calcolato.
+
+<sup>2</sup> Nell’obiettivo annuale viene computato l’intero risparmio di elettricità conseguito da una misura notificata nel corso della durata dei suoi effetti.
+
+#### Art. 51c
+
+**Misure non computabili**
+
+Non sono computabili le misure:
+
+- a. che devono essere attuate in base a prescrizioni legali della Confederazione o che sono previste nel modulo di base del MoPEC 2014[^51c-1];
+- b. per le quali la Confederazione, un Cantone o un Comune ha erogato aiuti finanziari;
+- c. che sono attuate presso consumatori finali secondo l’articolo 51*a* capoverso 2 lettera a;
+- d. che sono computate per l’adempimento di una convenzione sugli obiettivi stipulata con la Confederazione o un Cantone;
+- e. che non sono permanenti;
+- f. che ottengono il risparmio di elettricità attraverso una modifica del comportamento dei consumatori finali.
+
+[^51c-1]: [www.endk.ch](https://www.endk.ch/it/documentazione/edifici-mopec) &gt; Documentazione &gt; Edifici / MoPEC
+
+#### Art. 51d
+
+**Misure standardizzate**
+
+<sup>1</sup> L’UFE stabilisce misure standardizzate per migliorare l’efficienza energetica.
+
+<sup>2</sup> Mette a disposizione protocolli di risparmio che servono ad attestare il risparmio di elettricità ottenuto con le misure standardizzate.
+
+#### Art. 51e
+
+**Misure non standardizzate**
+
+<sup>1</sup>
+
+La domanda di computabilità di una misura non standardizzata deve contenere almeno le indicazioni seguenti:
+
+- a. la descrizione della misura;
+- b. la procedura per misurare o calcolare il risparmio di elettricità.
+
+<sup>2</sup> L’UFE può dichiarare computabile una misura prevedendo oneri e condizioni.
+
+<sup>3</sup> Mette a disposizione di chi presenta la domanda un apposito protocollo di risparmio per la misura.
+
+#### Art. 51f
+
+**Obbligo di notifica e data della notifica**
+
+I fornitori di elettricità comunicano all’UFE ogni anno entro il 30 aprile i seguenti dati relativi all’anno precedente:
+
+- a. la quantità di elettricità che hanno venduto a consumatori finali;
+- b. la quantità di elettricità che hanno venduto a consumatori finali nel servizio universale;
+- c. la quantità di elettricità che hanno venduto a consumatori finali secondo l’articolo 51*a* capoverso 2;
+- d. i costi per l’attuazione delle misure di miglioramento dell’efficienza energetica.
+
+#### Art. 51g
+
+**Raggiungimento dell’obiettivo**
+
+<sup>1</sup> I fornitori di elettricità notificano all’UFE le misure attuate nell’anno in cui auspicano che vengano computate nell’obiettivo.
+
+<sup>2</sup>
+
+La notifica deve contenere segnatamente:
+
+- a. il protocollo di risparmio compilato;
+- b. le indicazioni e i documenti stabiliti nel protocollo di risparmio che attestano il risparmio di elettricità e la data di attuazione della misura.
+
+<sup>3</sup> Se i fornitori di elettricità superano l’obiettivo, i risparmi di elettricità aggiuntivi vengono conteggiati per l’obiettivo dell’anno successivo.
+
+#### Art. 51h
+
+**Controlli**
+
+<sup>1</sup>
+
+L’UFE controlla in modo appropriato le basi utilizzate per stabilire l’obiettivo e l’attuazione delle misure. A tale scopo può segnatamente:
+
+- a. esigere l’accesso alla documentazione e alle informazioni necessarie per il controllo;
+- b. entrare negli edifici, nelle aziende e nelle altre infrastrutture durante il normale orario di lavoro.
+
+<sup>2</sup> Per verificare l’osservanza delle prescrizioni di cui all’articolo 6 capoverso 5<sup>ter</sup> LAEl, la Commissione dell’energia elettrica può controllare i dati e le indicazioni concernenti le forniture ai consumatori finali.
+
+<sup>3</sup> Se da un controllo risulta che le misure notificate non possono essere computate, i risparmi di elettricità del fornitore di elettricità vengono dedotti a posteriori.
+
+#### Art. 51i
+
+**Pubblicazione**
+
+L’UFE pubblica annualmente i seguenti dati:
+
+- a. il numero di fornitori di elettricità cui sono stati assegnati degli obiettivi e l’entità totale degli obiettivi;
+- b. il numero di obiettivi raggiunti e non raggiunti e l’entità totale dei risparmi di elettricità conseguiti;
+- c. il numero e il tipo di misure attuate, nonché l’importo dei risparmi di elettricità conseguiti;
+- d. i costi medi per l’attuazione delle misure di miglioramento dell’efficienza energetica.
+
 ## Capitolo 8: Promozione
 
 ### Sezione 1: Misure
@@ -1033,9 +1392,7 @@ In collaborazione con i Cantoni, le associazioni e le istituzioni formative, ess
 
 #### Art. 54
 
-**Impianti pilota e di dimostrazione nonché progetti pilota e di dimostrazione**
-
-<sup>1</sup>
+**Impianti pilota e di dimostrazione nonché progetti pilota e di dimostrazione**[^54-1]
 
 Possono usufruire del sostegno:
 
@@ -1043,17 +1400,115 @@ Possono usufruire del sostegno:
 
   gli impianti e i progetti pilota che:
 
-  - 1\. servono al collaudo tecnico di sistemi, metodi o concetti energetici, e
-  - 2\. vengono realizzati in una scala che consente la determinazione di dati scientifici, tecnici, economici e sociali;
+  - 1\. servono al collaudo tecnico di sistemi, metodi o concetti energetici innovativi, e
+  - 2\. vengono realizzati sotto forma di prototipi o sistemi parziali che consentono di determinare dati scientifici e tecnici;
 
 - b.
 
   gli impianti e i progetti di dimostrazione che:
 
-  - 1\. servono a provare il corretto funzionamento in un ambiente vicino al mercato, e
-  - 2\. permettono una valutazione globale sotto il profilo tecnico, economico e sociale, nell’ottica dell’effettiva introduzione sul mercato di tecnologie o soluzioni energetiche innovative.
+  - 1\. servono a provare il corretto funzionamento nelle dimensioni reali e in un ambiente vicino al mercato, e
+  - 2\. permettono una valutazione globale sotto il profilo tecnico, economico e sociale, nell’ottica dell’effettiva introduzione sul mercato di tecnologie, soluzioni e approcci energetici innovativi.
 
-<sup>2</sup> Gli impianti e i progetti di dimostrazione possono essere riconosciuti dall’UFE come progetti faro, se servono a far conoscere tecnologie e concetti nuovi e all’avanguardia e favoriscono il dialogo sull’energia in buona parte della popolazione.
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 54a
+
+**Promozione secondo l’articolo 50*a* LEne: condizioni e campo d’applicazione**[^54a-1]
+
+<sup>1</sup>
+
+La Confederazione promuove misure secondo l’articolo 50*a* LEne se queste soddisfano:
+
+- a.
+
+  le condizioni di cui all’allegato 6*a* numero 1 quando un impianto di riscaldamento a olio combustibile, a gas naturale o elettrico a resistenza fisso viene sostituito con:
+
+  - 1\. un impianto di riscaldamento a legna automatico,
+  - 2\. una pompa di calore aria/acqua,
+  - 3\. una pompa di calore salamoia/acqua o una pompa di calore acqua/acqua, o
+  - 4\. un allacciamento a una rete di teleriscaldamento;
+
+- b. le condizioni di cui all’allegato 6*a* numero 2 quando viene installato un impianto di collettore solare termico o viene ampliato un impianto di collettore solare termico esistente;
+- c. le condizioni di cui all’allegato 6*a* numero 3 quando un riscaldamento a olio combustibile, a gas naturale o elettrico a resistenza decentralizzato privo di sistema idraulico di distribuzione del calore viene sostituito con un riscaldamento principale alimentato a energie rinnovabili dotato di un sistema idraulico di distribuzione del calore;
+- d. le condizioni di cui all’allegato 6*a* numero 4 quando l’efficienza energetica dell’involucro dell’edificio viene migliorata in maniera globale.
+
+<sup>2</sup> L’articolo 57 capoverso 1 si applica per analogia.
+
+<sup>3</sup> Non vengono promosse le misure secondo l’articolo 57 capoverso 2 della presente ordinanza nonché quelle secondo l’articolo 104 capoverso 2 dell’ordinanza del 30 novembre 2012[^54a-2] sul CO<sub>2</sub>.
+
+<sup>4</sup> I Cantoni possono escludere dalla promozione al massimo una delle misure di cui all’allegato 6*a* numeri 1 e 2.
+
+[^54a-1]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^54a-2]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+
+#### Art. 54b
+
+**Promozione secondo l’articolo 50*a* LEne: contributi e limite massimo di contribuzione**[^54b-1]
+
+<sup>1</sup> I contributi per le misure di cui all’articolo 50*a* LEne sono stabiliti nell’allegato 6*a* numeri 1.1.3, 1.2.3, 1.3.3, 1.4.2, 2.3, 3.4 e 4.4.
+
+<sup>2</sup> I Cantoni possono fissare un limite massimo dei contributi per le misure. Questo non può essere inferiore a 100 000 franchi.
+
+<sup>3</sup> La promozione delle misure di cui all’allegato 6*a* numeri 1, 2 e 4 non può superare il 50 per cento dei costi d’investimento totali.
+
+[^54b-1]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+
+#### Art. 54c
+
+**Promozione secondo l’articolo 50*a* LEne: consulenza per la sostituzione di riscaldamenti**[^54c-1]
+
+<sup>1</sup> Attingendo ai fondi di cui all’articolo 50*a* LEne è possibile impiegare fino a 15 milioni di franchi all’anno per la consulenza per la sostituzione di riscaldamenti con riscaldamenti principali alimentati a energie rinnovabili.
+
+<sup>2</sup>
+
+La consulenza viene promossa come segue:
+
+- a.
+
+  con 450 franchi forfettari per:
+
+  - 1\. le case unifamiliari,
+  - 2\. le case plurifamiliari fino a sei unità abitative,
+  - 3\. gli edifici non abitativi con una potenza termica installata fino a 30 kW;
+
+- b.
+
+  con 1800 franchi forfettari per:
+
+  - 1\. le comunioni dei proprietari per piani,
+  - 2\. le case plurifamiliari con più di sei unità abitative,
+  - 3\. gli edifici non abitativi con una potenza termica installata superiore a 30 kW.
+
+[^54c-1]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+
+#### Art. 54d
+
+**Promozione secondo l’articolo 50*a* LEne: procedura, esecuzione e finanziamento**[^54d-1]
+
+<sup>1</sup> La Confederazione accorda ai Cantoni i contributi di base secondo l’articolo 50*a* capoverso 3 LEne nell’ambito della concessione dei contributi globali di cui all’articolo 34 della legge del 23 dicembre 2011[^54d-2] sul CO<sub>2</sub>.
+
+<sup>2</sup>
+
+La procedura e l’esecuzione della promozione sono rette per analogia:
+
+- a.
+
+  dalle seguenti disposizioni della presente ordinanza:
+
+  - 1\. articolo 59 in combinato disposto con l’articolo 110 capoversi 2 e 3 dell’ordinanza del 30 novembre 2012[^54d-3] sul CO<sub>2</sub>,
+  - 2\. articolo 60,
+  - 3\. articoli 63, 64 e 67 in combinato disposto con l’articolo 105 lettera b dell’ordinanza sul CO<sub>2</sub>;
+
+- b. dagli articoli 107, 108 capoverso 1 e 109 dell’ordinanza sul CO<sub>2</sub>.
+
+<sup>3</sup> Se in un anno i fondi disponibili in un Cantone secondo l’articolo 50*a* LEne sono esauriti, tale Cantone può farsi conteggiare nuovi incentivi mediante la promozione di cui all’articolo 34 della legge sul CO<sub>2</sub>.
+
+<sup>4</sup> L’esecuzione della promozione della consulenza per la sostituzione di riscaldamenti (art. 54*c*) compete alla Confederazione.
+
+[^54d-1]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^54d-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^54d-3]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
 ### Sezione 2: Contributi globali
 
@@ -1154,7 +1609,7 @@ Per quanto riguarda i programmi cantonali per la promozione dell’impiego dell�
 
 <sup>6</sup> L’UFE può utilizzare i dati per scopi statistici e metterli a disposizione della Conferenza dei direttori cantonali dell’energia (CdEN).
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 60
 
@@ -1180,27 +1635,23 @@ L’UFE effettua controlli a campione concernenti:
 
 #### Art. 61
 
-**Aiuti finanziari per impianti nonché progetti pilota e di dimostrazione e per esperimenti sul terreno e analisi**
+**Aiuti finanziari per impianti pilota e di dimostrazione, progetti pilota e di dimostrazione ed esperimenti sul terreno e analisi**[^61-1]
 
 <sup>1</sup>
 
-Gli aiuti finanziari possono essere erogati a impianti nonché progetti pilota e di dimostrazione (art. 49 cpv. 2 lett. a e 3 LEne), se:
+Gli aiuti finanziari possono essere erogati a impianti pilota e di dimostrazione e a progetti pilota e di dimostrazione (art. 49 cpv. 2 lett. a e 3 LEne) se:
 
-- a. favoriscono l’impiego parsimonioso ed efficiente dell’energia o l’impiego delle energie rinnovabili;
-- b. il potenziale di applicazione e le probabilità di successo sono sufficientemente grandi;
-- c. corrispondono alla politica energetica della Confederazione; e
-- d. i risultati ottenuti sono accessibili al pubblico e resi noti alle cerchie interessate.
+- a. forniscono un contributo rilevante al raggiungimento degli obiettivi della politica energetica e climatica della Confederazione;
+- b. si occupano dello sviluppo e del collaudo di tecnologie, soluzioni e approcci innovativi e generano nuove conoscenze;
+- c. il potenziale di applicazione delle tecnologie, delle soluzioni e degli approcci interessati e la probabilità di successo del progetto sono sufficientemente elevati;
+- d. i risultati ottenuti sono accessibili al pubblico; e
+- e. i costi del progetto sono proporzionati ai criteri di cui alle lettere a–d.
 
 <sup>2</sup> Questi requisiti si applicano per analogia al sostegno a esperimenti sul terreno e analisi (art. 49 cpv. 2 lett. b LEne).
 
-<sup>3</sup>
+<sup>3</sup> L’UFE stabilisce l’ammontare dell’aiuto finanziario sulla base dei costi computabili, tenendo conto in particolare del rapporto di cui al capoverso 1 lettera e.
 
-L’UFE stabilisce l’ammontare dell’aiuto finanziario sulla base dei costi computabili, tenendo conto in particolare:
-
-- a. del tipo di progetto;
-- b. della vicinanza al mercato;
-- c. della situazione finanziaria dei richiedenti; e
-- d. della potenziale risonanza del progetto a livello nazionale.
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 62
 
@@ -1239,7 +1690,7 @@ Le domande di aiuti finanziari per progetti individuali devono contenere tutte l
 
 <sup>3</sup> L’UFE può richiedere ulteriori informazioni e documenti da presentare unitamente alla domanda.
 
-[^63-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^63-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 64
 
@@ -1294,7 +1745,7 @@ L’UFE sottopone per parere al Cantone di ubicazione interessato le domande di 
 
 [^chap10-1]
 
-[^chap10-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^chap10-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 
 #### Art. 69
 
@@ -1331,21 +1782,79 @@ L’UFE elabora e pubblica una visione d’insieme che contiene in particolare l
 - b. tecnologia;
 - c. categoria dell’impianto;
 - d. potenza;
-- e. data della messa in esercizio.
+- e. data della messa in esercizio;
+- f.[^69a-2] eventuale interesse nazionale dell’impianto.
 
 <sup>3</sup> Se un impianto di produzione dell’elettricità viene ampliato, la visione d’insieme contiene inoltre le informazioni concernenti la categoria dell’impianto, la potenza e la data della messa in esercizio dell’ampliamento.
 
 <sup>4</sup> Per gli impianti fotovoltaici l’UFE pubblica anche informazioni sull’orientamento e sull’inclinazione dei moduli, se tali informazioni sono disponibili presso l’organo d’esecuzione.
 
-[^69a-1]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^69a-1]: Introdotto dalla cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^69a-2]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 69b
+
+**Panoramica territoriale degli impianti di produzione di combustibili e carburanti**[^69b-1]
+
+<sup>1</sup> L’organo d’esecuzione documenta conformemente alle disposizioni dell’UFE i geodati degli impianti di produzione di combustibili e carburanti registrati e li fornisce all’UFE.
+
+<sup>2</sup>
+
+L’UFE elabora e pubblica una visione d’insieme che contiene in particolare le seguenti informazioni sui singoli impianti di produzione di combustibili e carburanti:
+
+- a. ubicazione;
+- b. tecnologia;
+- c. capacità di produzione;
+- d. data della messa in esercizio;
+- e. designazione del combustibile o carburante prodotto.
+
+[^69b-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 70
 
 **Trattamento di dati personali e di dati di persone giuridiche**[^70-1]
 
-I dati personali e i dati di persone giuridiche, inclusi i dati degni di particolare protezione concernenti perseguimenti e sanzioni amministrativi e penali, possono essere conservati al massimo per dieci anni.
+<sup>1</sup> I dati personali e i dati di persone giuridiche, inclusi i dati degni di particolare protezione concernenti perseguimenti e sanzioni amministrativi e penali, possono essere conservati al massimo per dieci anni.
+
+<sup>2</sup>
+
+L’organo d’esecuzione concede l’accesso ai dati personali e ai dati di persone giuridiche rilevati nell’ambito degli articoli 4*b* e 4*c*:
+
+- a.
+
+  all’UFE per i suoi compiti d’esecuzione:
+
+  - 1\. nel quadro della promozione di impianti per la produzione di energia elettrica da biomassa (art. 19, 27 e 33*a* LEne),
+  - 2\. nel quadro dei fattori di riduzione del CO<sub>2</sub> per i parchi veicoli nuovi mediante l’utilizzo di carburanti sintetici rinnovabili (art. 11*a* della legge del 23 dicembre 2011[^70-2] sul CO<sub>2</sub>),
+  - 3\. nel quadro della riduzione delle emissioni di CO<sub>2</sub> negli edifici (contributi globali) (art. 34 della legge sul CO<sub>2</sub>),
+  - 4\. nel quadro dell’obbligo di etichettatura (etichettaEnergia) per la commercializzazione e la cessione di automobili, autofurgoni e trattori a sella leggeri (art. 10–12*a* dell’ordinanza del 1° novembre 2017[^70-3] sull’efficienza energetica),
+  - 5\. nel quadro della promozione di impianti per la produzione di gas rinnovabili (art. 34*a* cpv. 1 lett. d della legge sul CO<sub>2</sub>),
+  - 6\. nel quadro del monitoraggio secondo l’articolo 55 LEne;
+
+- b.
+
+  all’UFAM per i suoi compiti d’esecuzione:
+
+  - 1\. nel sistema di scambio di quote di emissioni (art. 15–21 della legge sul CO<sub>2</sub>),
+  - 2\. nel quadro della compensazione per i carburanti (art. 28*b*–28*e* della legge sul CO<sub>2</sub>),
+  - 3\. nel quadro dell’impegno a ridurre le emissioni di gas serra (art. 31–32 della legge sul CO<sub>2</sub>),
+  - 4\. nel quadro della restituzione della tassa sul CO<sub>2</sub> ai gestori di impianti di cogenerazione che non partecipano al SSQE e non hanno sottoscritto un impegno di riduzione (art. 32*a* e 32*b* della legge sul CO<sub>2</sub>);
+
+- c.
+
+  all’Ufficio federale dell’aviazione civile per i suoi compiti d’esecuzione:
+
+  - 1\. nel quadro della fornitura e miscelazione di carburanti per l’aviazione a basso tenore di emissioni, rinnovabili e sintetici rinnovabili (art. 28*f* della legge sul CO<sub>2</sub>),
+  - 2\. nel quadro del Carbon Offsetting and Reduction Scheme for International Aviation di cui all’allegato 16 volume IV della convenzione del 7 dicembre 1944[^70-4] sull’aviazione civile internazionale;
+
+- d. all’Ufficio federale della dogana e della sicurezza dei confini per l’esecuzione della legislazione sull’imposizione degli oli minerali e la riscossione e il rimborso della tassa sul CO<sub>2</sub>;
+- e. ai Cantoni nella misura in cui ne necessitano per l’esecuzione delle prescrizioni cantonali in materia di edifici (art. 45 LEne e art. 9 della legge sul CO<sub>2</sub>).[^70-5]
 
 [^70-1]: Nuovo testo giusta l’all. 2 n. II 74 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^70-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^70-3]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^70-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-5]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Capitolo 11: Esecuzione
 
@@ -1398,7 +1907,7 @@ I dati personali e i dati di persone giuridiche, inclusi i dati degni di partico
 <sup>2</sup> Il conto annuale viene redatto conformemente alle prescrizioni del CO[^75-1] in materia di tenuta della contabilità commerciale e presentazione dei conti e alle «Raccomandazioni concernenti la presentazione dei conti» (Swiss GAAP FER)[^75-2] della Fondazione per le raccomandazioni concernenti la presentazione dei conti.
 
 [^75-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^75-2]: www.fer.ch
+[^75-2]: [www.fer.ch](http://www.fer.ch)
 
 #### Art. 76
 
@@ -1406,13 +1915,23 @@ I dati personali e i dati di persone giuridiche, inclusi i dati degni di partico
 
 L’organo d’esecuzione trasmette all’UFE entro il 6 gennaio dell’anno successivo le indicazioni necessarie al rendiconto finanziario dell’Amministrazione federale.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 
 #### Art. 77
 
 **Direttive**
 
 L’UFE emana direttive concernenti il contenuto e la struttura del preventivo, del catalogo delle prestazioni, del conteggio dei costi di esecuzione e del rendiconto.
+
+## Capitolo 12*a*: Disposizioni penali
+
+[^chap12a-1]
+
+[^chap12a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 77a
+
+Ai sensi dell’articolo 70 capoverso 1 lettera g LEne è punito chiunque, intenzionalmente, non adempie l’obbligo di notifica di cui all’articolo 51*f* o fornisce intenzionalmente false indicazioni sulle misure notificate ai sensi dell’articolo 51*g*.
 
 ## Capitolo 13: Disposizioni finali
 
@@ -1432,13 +1951,44 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>3</sup> Il mix del fornitore può essere pubblicato per l’anno di fornitura 2018 entro la fine del 2019 secondo l’articolo 4 capoverso 3.[^79-1]
 
-[^79-1]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^79-1]: Introdotto dalla cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 
 #### Art. 80
 
 **Disposizione transitoria relativa al rimborso del supplemento rete**
 
 Per i consumatori finali non aventi diritto al rimborso secondo l’articolo 39 capoverso 3 primo periodo LEne, che hanno concluso un accordo sugli obiettivi secondo il diritto previgente, a partire dall’entrata in vigore della LEne decade l’obbligo di rispetto della convenzione sugli obiettivi.
+
+#### Art. 80a
+
+**Disposizione transitoria della modifica del 20 novembre 2024: garanzie di origine per combustibili e carburanti**[^80a-1]
+
+<sup>1</sup> Il servizio di clearing designato dall’industria del gas deve trasmettere entro il 1° gennaio 2025 all’organo d’esecuzione di cui all’articolo 64 LEne i dati che ha trattato fino al 31 dicembre 2024 ai sensi dell’articolo 45*e* dell’ordinanza del 20 novembre 1996[^80a-2] sull’imposizione degli oli minerali nella versione del 1° gennaio 2022[^80a-3].
+
+<sup>2</sup> L’organo d’esecuzione rilascia garanzie di origine per le quantità di biogas, bioidrogeno e gas sintetico svizzero prodotte fino al 31 dicembre 2024 e notificate entro il 28 febbraio 2025 al servizio di clearing di cui all’articolo 45*e* dell’ordinanza sull’imposizione degli oli minerali nella versione del 1° gennaio 2022. Le garanzie d’origine sono valide 60 mesi.
+
+<sup>3</sup> L’organo d’esecuzione rilascia garanzie di origine per i certificati esteri non ancora utilizzati di gas rinnovabili che il servizio di clearing ha registrato dal 1° aprile 2021 al 31 dicembre 2024. Le garanzie d’origine sono valide 24 mesi.
+
+<sup>4</sup> L’organo d’esecuzione rilascia garanzie di origine per i certificati esteri di gas rinnovabili che il servizio di clearing ha registrato prima del 31 marzo 2021 e che non sono ancora stati utilizzati, se i proprietari dimostrano che le vigenti esigenze ecologiche sancite nei principi dell’industria svizzera del gas del 1° aprile 2021[^80a-4] per il biogas e altri gas rinnovabili sono state soddisfatte. Le garanzie d’origine sono valide 24 mesi.
+
+<sup>5</sup> L’organo d’esecuzione rilascia garanzie di origine per i certificati esteri di gas rinnovabili che al 31 dicembre 2024 non sono ancora stati registrati presso il servizio di clearing e le cui sostanze sottostanti sono state prodotte tra il 1° aprile 2021 e il 31 dicembre 2024, se i proprietari dimostrano che le vigenti esigenze ecologiche sancite nei principi dell’industria svizzera del gas per il biogas e altri gas rinnovabili sono state soddisfatte. Le garanzie di origine sono valide dall’importazione dei certificati fino al 31 dicembre 2026.
+
+[^80a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^80a-2]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^80a-3]: [[RU 2021 589](https://www.fedlex.admin.ch/eli/oc/2021/589/it)](https://fedlex.data.admin.ch/eli/oc/2021/589)
+[^80a-4]: [www.gazenergie.ch](https://gazenergie.ch/it/sapere/dettaglio/knowledge-topic/3-principi-applicati-al-biogas/) &gt; Sapere &gt; Biogas / gas rinnovabili &gt; 3. Principi applicati al biogas &gt; Biogas-Grundsätze – Basis für den Entwurf der Energieverordnung (non disponibile in italiano)
+
+#### Art. 80b
+
+**Disposizione transitoria della modifica del 20 novembre 2024: miglioramento dell’efficienza energetica da parte dei fornitori di elettricità**[^80b-1]
+
+<sup>1</sup> I fornitori di elettricità possono chiedere all’UFE entro il 30 aprile 2025 la computabilità per le misure che hanno attuato dal 1° gennaio 2022 al 31 dicembre 2024 e che soddisfano i requisiti di cui all’articolo 51*b* e che non sono considerate non computabili secondo l’articolo 51*c*. Le misure attuate in precedenza e non notificate non sono computabili.
+
+<sup>2</sup> Se le misure sono dichiarate computabili, i risparmi di elettricità così conseguiti possono essere computati fino al massimo al terzo obiettivo dopo l’entrata in vigore della modifica del 20 novembre 2024 sul raggiungimento degli obiettivi.
+
+<sup>3</sup> Le forniture di fornitori di elettricità basate su contratti conclusi prima del 1° gennaio 2024 con consumatori finali che hanno esercitato il loro diritto di accesso alla rete non sono considerate, fino al 31 dicembre 2027, per il calcolo della quantità di riferimento di elettricità venduta. I fornitori di elettricità notificano all’UFE ogni anno entro il 30 aprile le rispettive forniture dell’anno precedente.
+
+[^80b-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 81
 
@@ -1448,7 +1998,7 @@ La presente ordinanza entra in vigore il 1° gennaio 2018.
 
 Allegato 1[^t-1]
 
-[^t-1]: Abrogato dal n. II dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^t-1]: Abrogato dalla cifra II dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 Allegato 2[^t-2]
 
@@ -1456,7 +2006,7 @@ Allegato 2[^t-2]
 
 ## Garanzie per la geotermia
 
-[^t-2]: Aggiornato dal n. II dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+[^t-2]: Aggiornato dalla cifra II dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
 
 ### 1 Requisiti minimi
 
@@ -1643,7 +2193,7 @@ Allegato 5[^t-3]
 
 ## Calcolo del plusvalore lordo
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Per le imprese che soggiacciono alla revisione ordinaria secondo l’articolo 727 capoverso 1 CO[^annex5-lvlu1-1] (art. 43 cpv. 1), il plusvalore lordo si calcola nel modo seguente:
 
@@ -1662,8 +2212,6 @@ Per le imprese che soggiacciono alla revisione ordinaria secondo l’articolo 72
 <tr><td>+/– risultato annuale + costi del personale + ammortamenti +/– risultato finanziario +/– costi straordinari / ricavi straordinari +/– imposte</td></tr>
 <tr><td>= plusvalore lordo</td></tr>
 </table>
-
-- [tab]
 
 [^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -1693,6 +2241,267 @@ Allegato 6
 
 - In caso di rimborso totale in base all’articolo 39 capoverso 1 LEne l’aliquota di rimborso è pari al 100 per cento. In caso di rimborso parziale in base all’articolo 39 capoverso 2 LEne è determinante l’aliquota di rimborso secondo il numero 1.
 
+Allegato 6a[^t-4]
+
+(art. 54*a* cpv. 1 e 4 e 54*b* cpv. 1 e 3)
+
+## Promozione secondo l’articolo 50*a* LEne: condizioni e contributi
+
+[^t-4]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+
+### 1 Sostituzione di impianti di riscaldamento a olio combustibile, gas naturale ed elettrici a resistenza fissi
+
+### 1.1 Sostituzione con impianti di riscaldamento a legna automatici
+
+### 1.1.1 Condizioni
+
+La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
+
+- a. la potenza termica dell’impianto di riscaldamento a legna automatico è superiore a 70 kW;
+- b.
+
+  la copertura dei picchi di carico dell’intero impianto con combustibili fossili non supera la seguente percentuale del fabbisogno annuo complessivo di calore per il riscaldamento e l’acqua calda:
+
+  - – 0 per cento per un intero impianto con una potenza termica nominale pari al massimo a 100 kW,
+  - – 10 per cento per un intero impianto con una potenza termica nominale superiore a 100 kW;
+
+- c. è dimostrato che la norma di gestione della qualità per gli impianti termici a legna[^annex6a-lvlu1-lvl1-lvl11-lvl111-1] è applicata in modo completo ed entro il termine stabilito;
+- d. per le caldaie a legna con potenza termica nominale fino a 500 kW e dotate di un sistema di distribuzione del calore, è disponibile una dichiarazione di conformità secondo l’articolo 7 dell’ordinanza del 1° novembre 2017[^annex6a-lvlu1-lvl1-lvl11-lvl111-2] sull’efficienza energetica in combinato disposto con l’allegato 1.20 di detta ordinanza;
+- e. l’impianto di riscaldamento a legna automatico dispone di una misurazione a regola d’arte dell’elettricità e del calore.
+
+[^annex6a-lvlu1-lvl1-lvl11-lvl111-1]: La norma può essere ottenuta gratuitamente all’indirizzo Internet [www.qmholzheizwerke.ch](https://www.qm-legna.com/home.html) &gt; Publikationen &gt; Band 1: Q-Leitfaden, versione 2011.
+[^annex6a-lvlu1-lvl1-lvl11-lvl111-2]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+
+### 1.1.2 Restrizioni
+
+Si applicano le seguenti restrizioni:
+
+- a. per i sistemi di riscaldamento con rimunerazione a copertura dei costi per l’immissione in rete di energia elettrica (RIC), ha diritto alla promozione solo la produzione di calore che va al di là dei requisiti energetici minimi della RIC;
+- b. se viene pianificata una rete di teleriscaldamento ed è stata effettuata un’attribuzione territoriale a livello parcellare da parte del Comune, il Cantone può sospendere la promozione in tali zone.
+
+### 1.1.3 Calcolo dei contributi e contributo minimo
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a. la grandezza di riferimento è la potenza nominale della caldaia in kW (potenza termica nominale all’uscita del generatore di calore); nel caso di sistemi di riscaldamento a cascata aventi la stessa tecnologia si applica la potenza cumulata;
+- b. il contributo di incentivazione è calcolato sulla base di una potenza termica nominale installata pari al massimo a 50 W per m<sup>2</sup> di superficie di riferimento energetico (SRE) (prima del risanamento);
+- c. il contributo minimo ammonta a:
+
+<table>
+<tr><td>per gli impianti di riscaldamento a legna con una potenza nominale della caldaia pari al massimo a 500 kW:</td><td>360 fr./kW</td></tr>
+<tr><td>per gli impianti di riscaldamento a legna con una potenza nominale della caldaia superiore a 500 kW:</td><td>fr. 80 000 + 200 fr./kW</td></tr>
+</table>
+
+### 1.2 Sostituzione con una pompa di calore aria/acqua
+
+### 1.2.1 Condizioni
+
+La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
+
+- a. la potenza termica nominale della pompa di calore è superiore a 70 kW in corrispondenza del punto di funzionamento A-7/W34 secondo la norma SN EN 14825, luglio 2022[^annex6a-lvlu1-lvl1-lvl12-lvl121-1];
+- b. la pompa di calore è una pompa di calore a motore elettrico;
+- c.
+
+  la copertura dei picchi di carico dell’intero impianto con combustibili fossili non supera la seguente percentuale del fabbisogno annuo complessivo di calore per il riscaldamento e l’acqua calda:
+
+  - – 0 per cento per un intero impianto con una potenza termica nominale pari al massimo a 100 kW,
+  - – 10 per cento per un intero impianto con una potenza termica nominale superiore a 100 kW;
+
+- d. la pompa di calore dispone di un marchio di qualità nazionale o internazionale valido in Svizzera;
+- e. la pompa di calore dispone di una misurazione a regola d’arte dell’elettricità e del calore.
+
+[^annex6a-lvlu1-lvl1-lvl12-lvl121-1]: La norma SN EN 14825 del luglio 2022 su condizionatori d’aria, refrigeratori di liquidi e pompe di calore può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+
+### 1.2.2 Restrizione
+
+Se viene pianificata una rete di teleriscaldamento ed è stata effettuata un’attribuzione territoriale a livello parcellare da parte del Comune, il Cantone può sospendere la promozione in tali zone.
+
+### 1.2.3 Calcolo dei contributi e contributo minimo
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a. la grandezza di riferimento è la potenza termica nominale in kW; nel caso di sistemi di riscaldamento a cascata aventi la stessa tecnologia si applica la potenza cumulata;
+- b. il contributo di incentivazione è calcolato sulla base di una potenza termica nominale installata pari al massimo a 50 W per m<sup>2</sup> di SRE (prima del risanamento);
+- c. il contributo minimo ammonta a fr. 3200 + 120 fr./kW.
+
+### 1.3 Sostituzione con una pompa di calore salamoia/acqua o una pompa di calore acqua/acqua
+
+### 1.3.1 Condizioni
+
+La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
+
+- a. la potenza termica nominale della pompa di calore è superiore a 70 kW in corrispondenza del punto di funzionamento salamoia/acqua B0/W34 o acqua/acqua W10/W34 secondo la norma SN EN 14825, luglio 2022[^annex6a-lvlu1-lvl1-lvl13-lvl131-1];
+- b. la pompa di calore è una pompa di calore a motore elettrico;
+- c.
+
+  la copertura dei picchi di carico dell’intero impianto con combustibili fossili non supera la seguente percentuale del fabbisogno annuo complessivo di calore per il riscaldamento e l’acqua calda:
+
+  - – 0 per cento per un intero impianto con una potenza termica nominale pari al massimo a 100 kW,
+  - – 10 per cento per un intero impianto con una potenza termica nominale superiore a 100 kW;
+
+- d. la pompa di calore utilizza una fonte di calore di valore superiore rispetto all’aria esterna, in particolare il calore ambientale proveniente dal sottosuolo, dalle acque sotterranee o dall’acqua del lago oppure il calore proveniente da un accumulatore di ghiaccio;
+- e. la pompa di calore dispone di un marchio di qualità nazionale o internazionale valido in Svizzera;
+- f. per le pompe di calore con sonde geotermiche è disponibile un marchio di qualità per le imprese di trivellazioni per sonde geotermiche;
+- g. la pompa di calore dispone di una misurazione a regola d’arte dell’elettricità e del calore.
+
+[^annex6a-lvlu1-lvl1-lvl13-lvl131-1]: La norma SN EN 14825 del luglio 2022 su condizionatori d’aria, refrigeratori di liquidi e pompe di calore può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+
+### 1.3.2 Restrizione
+
+Se viene pianificata una rete di teleriscaldamento ed è stata effettuata un’attribuzione territoriale a livello parcellare da parte del Comune, il Cantone può sospendere la promozione in tali zone.
+
+### 1.3.3 Calcolo dei contributi e contributo minimo
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a. la grandezza di riferimento è la potenza termica nominale in kW; nel caso di sistemi di riscaldamento a cascata aventi la stessa tecnologia si applica la potenza cumulata;
+- b. il contributo di incentivazione è calcolato sulla base di una potenza termica nominale installata pari al massimo a 50 W per m<sup>2</sup> di SRE (prima del risanamento);
+- c. il contributo minimo ammonta a:
+
+<table>
+<tr><td>per le pompe di calore con una potenza termica nominale pari al massimo a 500 kW:</td><td>fr. 4 800 + 360 fr./kW</td></tr>
+<tr><td>per le pompe di calore con una potenza termica nominale superiore a 500 kW:</td><td>fr. 84 800 + 200 fr./kW</td></tr>
+</table>
+
+### 1.4. Sostituzione con un allacciamento a una rete di teleriscaldamento
+
+### 1.4.1 Condizioni
+
+La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
+
+- a. la potenza termica nominale è superiore a 70 kW;
+- b. il calore prelevato proviene principalmente da energie rinnovabili o da calore residuo; la percentuale minima è stabilita dal Cantone;
+- c. il Cantone si assicura che il gestore della rete di teleriscaldamento metta a disposizione del Cantone le informazioni necessarie per evitare doppi conteggi.
+
+### 1.4.2 Calcolo dei contributi e contributo minimo
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a. la grandezza di riferimento è la potenza allacciata in kW;
+- b. il contributo di incentivazione è calcolato sulla base di una potenza allacciata pari al massimo a 50 W per m<sup>2</sup> di SRE (prima del risanamento);
+- c. il contributo minimo ammonta a:
+
+<table>
+<tr><td>per gli allacciamenti con una potenza allacciata pari al massimo a 500 kW:</td><td>fr. 8 000 + 40 fr./kW</td></tr>
+<tr><td>per gli allacciamenti con una potenza allacciata superiore a 500 kW:</td><td>fr. 18 000 + 20 fr./kW</td></tr>
+</table>
+
+### 2 Installazione di nuovi impianti di collettori solari termici e ampliamento di impianti esistenti
+
+### 2.1 Condizioni
+
+L’installazione di nuovi impianti di collettori solari termici e l’ampliamento di impianti esistenti vengono promossi se sono soddisfatte le seguenti condizioni:
+
+- a. la potenza termica nominale dell’impianto di collettore solare termico è superiore a 70 kW;
+- b. l’impianto fa parte di un impianto per la generazione di calore con energie rinnovabili che sostituisce un impianto di riscaldamento a olio combustibile, a gas naturale o elettrico a resistenza fisso;
+- c.
+
+  la copertura dei picchi di carico dell’intero impianto con combustibili fossili non supera la seguente percentuale del fabbisogno annuo complessivo di calore per il riscaldamento e l’acqua calda:
+
+  - – 0 per cento per un intero impianto con una potenza termica nominale pari al massimo a 100 kW,
+  - – 10 per cento per un intero impianto con una potenza termica nominale superiore a 100 kW;
+
+- d. i collettori rispondono ai criteri secondo le spiegazioni che figurano nella lista collettori 12/2021[^annex6a-lvlu1-lvl2-lvl21-1];
+- e. è disponibile una garanzia di prestazione validata (GPV) di Swissolar/SvizzeraEnergia;
+- f. l’impianto dispone di una sorveglianza attiva secondo le disposizioni di Swissolar[^annex6a-lvlu1-lvl2-lvl21-2].
+
+[^annex6a-lvlu1-lvl2-lvl21-1]: Le spiegazioni possono essere ottenute gratuitamente all’indirizzo Internet [www.ost.ch](https://www.ost.ch/de/) &gt; Forschung und Dienstleistung &gt; Technik &gt; Erneuerbare Energien und Umwelttechnik &gt; SPF Institut für Solartechnik &gt; Testing &gt; Kollektorliste.ch.
+[^annex6a-lvlu1-lvl2-lvl21-2]: Le disposizioni possono essere ottenute gratuitamente all’indirizzo Internet [www.swissolar.ch/it](https://www.swissolar.ch/it) &gt; Know-how &gt; Progettazione e realizzazione &gt; Gestione qualità solare termico.
+
+### 2.2 Restrizioni
+
+Sono esclusi dalla promozione:
+
+- a. i collettori ad aria;
+- b. i collettori solari per impianti di riscaldamento delle piscine e impianti di essiccazione del fieno;
+- c. la sostituzione di impianti di collettori solari termici esistenti.
+
+### 2.3 Calcolo dei contributi e contributo minimo
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a. la grandezza di riferimento è la potenza termica nominale in kW; nel caso di ampliamenti di impianti, la potenza termica nominale supplementare in kW rispetto allo stato prima dell’ampliamento;
+- b. il contributo minimo ammonta a fr. 2400 + 1000 fr./kW.
+
+### 3. Sostituzione di impianti di riscaldamento a olio combustibile, a gas naturale ed elettrici a resistenza decentralizzati privi di sistema idraulico di distribuzione del calore
+
+### 3.1 Campo d’applicazione
+
+La promozione è destinata alla sostituzione di impianti di riscaldamento a olio combustibile, a gas naturale ed elettrici a resistenza decentralizzati, privi di sistema idraulico di distribuzione del calore, con un riscaldamento principale alimentato a energie rinnovabili dotato di un sistema idraulico di distribuzione del calore.
+
+### 3.2 Condizioni
+
+La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
+
+- a. il riscaldamento da sostituire è indispensabile per generare la potenza termica necessaria per raggiungere la temperatura ambiente standard secondo la norma SIA 384.201(2017)[^annex6a-lvlu1-lvl3-lvl32-1];
+- b. l’impianto di riscaldamento da sostituire è impiegato per coprire oltre il 50 per cento del fabbisogno termico per il riscaldamento dell’edificio (riscaldamento principale);
+- c. vengono sostituiti tutti i riscaldamenti decentralizzati nell’edificio, ad eccezione dei radiatori scaldasalviette;
+- d. qualora non sia possibile disinstallare un riscaldamento elettrico a pavimento o ciò risulti eccessivamente oneroso, questo sarà separato in modo permanente dall’approvvigionamento elettrico.
+
+[^annex6a-lvlu1-lvl3-lvl32-1]: La norma SIA 384.201 (2017) può essere consultata gratuitamente presso l’UFE od ottenuta a pagamento all’indirizzo Internet www.shop.sia.ch &gt; Europäische Normen &gt; Architekt.
+
+### 3.3 Promozione multipla
+
+È ammessa una promozione contemporanea della sostituzione mediante misure cantonali nell’ambito del Programma Edifici nonché mediante altre misure secondo l’articolo 50*a* LEne.
+
+### 3.4 Calcolo dei contributi
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a. la grandezza di riferimento è la SRE in m<sup>2</sup> che sarà riscaldata con il nuovo sistema idraulico di distribuzione del calore;
+- b. il contributo ammonta a:
+
+<table>
+<tr><td>per una SRE di al massimo 250 m<sup>2</sup>:</td><td>fr. 15 000</td></tr>
+<tr><td>per una SRE di oltre 250 m<sup>2</sup>:</td><td>fr. 60 per m<sup>2</sup> di SRE</td></tr>
+</table>
+
+### 4 Miglioramento dell’efficienza energetica dell’involucro dell’edificio
+
+### 4.1 Campo d’applicazione
+
+La promozione è destinata a:
+
+- a. risanamenti completi di edifici con misure individuali secondo la misura M-01 (Isolamento termico di facciate, tetti, pareti e pavimenti dal terreno) del Modèle d’encouragement harmonisé des cantons 2015[^annex6a-lvlu1-lvl4-lvl41-1] (ModEnHa 2015);
+- b. risanamenti completi di edifici in più tappe secondo la misura M-10 (Miglioramento della classe CECE dell’involucro dell’edificio e dell’efficienza energetica complessiva) o la misura M-11 (Riduzione del fabbisogno di riscaldamento e dell’energia per il riscaldamento) del ModEnHa 2015.
+
+[^annex6a-lvlu1-lvl4-lvl41-1]: Il ModEnHa può essere consultato all’indirizzo Internet [www.endk.ch/it](https://www.endk.ch/it) &gt; Documentazione &gt; Modèle d’encouragement harmonisé des cantons (ModEnHa) &gt; Modèle d’encouragement harmonisé des cantons 2015.
+
+### 4.2 Condizioni
+
+- 4\.2.1 I risanamenti di edifici vengono promossi se è soddisfatta una o più delle seguenti condizioni:
+- a. dopo il risanamento, almeno il 90 per cento della facciata e del tetto, ad eccezione della parete e del pavimento contro terra, è isolato termicamente secondo i requisiti della misura M-01 del ModEnHa 2015;
+- b. dopo il risanamento, all’edificio è attribuita la classe di efficienza CECE C o B per l’involucro dell’edificio;
+- c. dopo il risanamento, il fabbisogno termico per il riscaldamento dell’edificio è inferiore al 150 per cento del valore limite per il fabbisogno termico per il riscaldamento dei nuovi edifici secondo il modello di prescrizioni energetiche dei Cantoni 2014 (MoPEC)[^annex6a-lvlu1-lvl4-lvl42-1].
+- 4\.2.2. Il Cantone stabilisce quali risanamenti di edifici secondo il numero 4.2.1 intende promuovere.
+
+[^annex6a-lvlu1-lvl4-lvl42-1]: Il MoPEC può essere consultato all’indirizzo Internet [www.endk.ch/it](https://www.endk.ch/it) &gt; Documentazione &gt; Edifici / MoPEC &gt; MoPEC.
+
+### 4.3 Restrizioni
+
+Si applicano le seguenti restrizioni:
+
+- a. nel valutare se la promozione non supera nel complesso il 50 per cento dei costi d’investimento totali occorre tenere conto del contributo di incentivazione per la misura di base M-01, M-10 o M-11 del ModEnHa 2015;
+- b. è esclusa una combinazione con il bonus per l’efficienza energetica globale previsto nella misura M-15 del ModEnHa 2015.
+
+### 4.4 Contributo minimo
+
+Al calcolo dei contributi si applica quanto segue:
+
+- a.
+
+  La grandezza di riferimento è:
+
+  - – per i risanamenti di edifici che soddisfano la condizione di cui al numero 4.2.1 lettera a, la superficie in m<sup>2</sup> dell’elemento strutturale isolato termicamente,
+  - – per i risanamenti di edifici che soddisfano la condizione di cui al numero 4.2.1 lettera b o c, la SRE in m<sup>2</sup>.
+
+- b. Il contributo minimo ammonta a:
+
+<table>
+<tr><td>per i risanamenti di edifici secondo il numero 4.2.1 lettera a:</td><td>fr. 30 per m<sup>2</sup> di superficie dell’elemento strutturale isolato termicamente</td></tr>
+<tr><td>per i risanamenti di edifici secondo il numero 4.2.1 lettere b o c:</td><td>fr. 30 per m<sup>2</sup> di SRE</td></tr>
+</table>
+
 Allegato 7
 
 (art. 78)
@@ -1709,5 +2518,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32), [3005](https://fedlex.data.admin.ch/eli/oc/2002/435)II; [2004 4709](https://fedlex.data.admin.ch/eli/oc/2004/722); [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)n. II, [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 19, [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)n. II 4; [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)all. n. 2; [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428); [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)n. II; [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)all. n. 2, [3477](https://fedlex.data.admin.ch/eli/oc/2011/471), [4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [4799](https://fedlex.data.admin.ch/eli/oc/2011/686); [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88), [4555](https://fedlex.data.admin.ch/eli/oc/2012/545); [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [4479](https://fedlex.data.admin.ch/eli/oc/2013/792)all. n. 2, [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)art. 62 cpv. 2 n. 2; [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135), [2193](https://fedlex.data.admin.ch/eli/oc/2014/371)n. II, [2229](https://fedlex.data.admin.ch/eli/oc/2014/372), [3683](https://fedlex.data.admin.ch/eli/oc/2014/637); [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294), [4781](https://fedlex.data.admin.ch/eli/oc/2015/784); [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)n. II [2729](https://fedlex.data.admin.ch/eli/oc/2016/439), [2871](https://fedlex.data.admin.ch/eli/oc/2016/475), [4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
+[^annex7-lvlu1-1]: [[RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32), [3005](https://fedlex.data.admin.ch/eli/oc/2002/435)II; [2004 4709](https://fedlex.data.admin.ch/eli/oc/2004/722); [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)cifra II n. 4889 all. 2 n. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 19, [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)cifra II n. 4; [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)all. n. 2; [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428); [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)cifra II; [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)all. n. 2, [3477](https://fedlex.data.admin.ch/eli/oc/2011/471), [4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [4799](https://fedlex.data.admin.ch/eli/oc/2011/686); [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88), [4555](https://fedlex.data.admin.ch/eli/oc/2012/545); [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [4479](https://fedlex.data.admin.ch/eli/oc/2013/792)all. n. 2, [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)art. 62 cpv. 2 n. 2; [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135), [2193](https://fedlex.data.admin.ch/eli/oc/2014/371)cifra II n. 2229, [3683](https://fedlex.data.admin.ch/eli/oc/2014/637); [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294), [4781](https://fedlex.data.admin.ch/eli/oc/2015/784); [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)cifra II n. 2729, [2871](https://fedlex.data.admin.ch/eli/oc/2016/475), [4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
 [^annex7-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763).

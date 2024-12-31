@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2024-07-25
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240725/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240725-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 25. Juli 2024)
+vom 1. November 2017 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG),
+gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG) und auf das Stromversorgungsgesetz vom 23. März 2007[^ingress-2] (StromVG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 1. Kapitel: Gegenstand
 
@@ -33,23 +35,36 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. den Herkunftsnachweis und die Stromkennzeichnung;
+- a.[^1-1] den Herkunftsnachweis für Elektrizität und die Stromkennzeichnung;
+- a<sup>bis</sup>.[^1-2] den Herkunftsnachweis für Brenn- und Treibstoffe;
 - b. die Raumplanung im Zusammenhang mit dem Ausbau erneuerbarer Energien;
 - c. die Einspeisung netzgebundener Energie und den Eigenverbrauch;
 - d. die wettbewerblichen Ausschreibungen für Effizienzmassnahmen;
-- e.[^1-1] die Geothermie-Garantien;
+- e.[^1-3] die Geothermie-Garantien;
 - f. die Entschädigung für Sanierungsmassnahmen bei Wasserkraftanlagen;
 - g. den Netzzuschlag;
 - h. die sparsame und effiziente Energienutzung in Gebäuden und Unternehmen;
+- h<sup>bis</sup>.[^1-4] die Effizienzsteigerungen durch Elektrizitätslieferanten;
 - i. die Fördermassnahmen im Energiebereich;
 - j. die internationale Zusammenarbeit im Anwendungsbereich des EnG;
 - k. die Untersuchung der Wirkungen und die Datenbearbeitung.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-4]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
-## 2. Kapitel: Herkunftsnachweis und Stromkennzeichnung
+## 2. Kapitel: Herkunftsnachweise und Stromkennzeichnung
 
-### 1. Abschnitt: Herkunftsnachweis
+[^chap2-1]
+
+[^chap2-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+### 1. Abschnitt: Herkunftsnachweis für Elektrizität
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 2
 
@@ -91,27 +106,114 @@ Eigentümerinnen und Eigentümer von Herkunftsnachweisen haben Herkunftsnachweis
 
 <sup>3</sup> Eigentümerinnen und Eigentümer von Herkunftsnachweisen haben der Vollzugsstelle die Entwertungen unverzüglich zu melden.
 
+#### Art. 3a
+
+**Herkunftsnachweise des Bundes**[^3a-1]
+
+Der Bund kann Herkunftsnachweise für von ihm produzierte und eingespeiste Elektrizität dem Abnehmer der Elektrizität oder einem Dritten verkaufen.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 ### 2. Abschnitt: Stromkennzeichnung
 
 #### Art. 4
 
 <sup>1</sup> Die Stromkennzeichnung nach Artikel 9 Absatz 3 Buchstabe b EnG muss jährlich mittels Herkunftsnachweis vorgenommen werden, und zwar für jede an Endverbraucherinnen und Endverbraucher gelieferte Kilowattstunde. Bei Eisenbahnen gelten für die Stromkennzeichnung die jeweiligen Eisenbahnunternehmen als Endverbraucher.[^4-1]
 
+<sup>1bis</sup> Nicht kennzeichnungspflichtig ist die Lieferung von Elektrizität für den Eigenbedarf eines Kraftwerkes, für den Antrieb von Pumpen in Pumpspeicherkraftwerken und für Speicher ohne Endverbrauch.[^4-2]
+
 <sup>2</sup>
 
 Das stromkennzeichnungspflichtige Unternehmen muss die Kennzeichnung für alle seine Endverbraucherinnen und Endverbraucher wie folgt vornehmen:
 
-- a. für die gesamthaft an alle seine Endverbraucherinnen und Endverbraucher gelieferte Elektrizität (Lieferantenmix); oder
+- a.[^4-3] für die gesamthaft an alle seine Endverbraucherinnen und Endverbraucher gelieferte Elektrizität (Lieferantenmix); und
 - b. für jede Endverbraucherin und jeden Endverbraucher einzeln für die an diese oder diesen gelieferte Elektrizität (Produktemix).
 
-<sup>3</sup> Unabhängig von der Art der Kennzeichnung muss es seinen Lieferantenmix und die gesamthaft an seine Endverbraucherinnen und Endverbraucher gelieferte Menge Elektrizität bis spätestens Ende Juni des folgenden Kalenderjahres veröffentlichen. Die Veröffentlichung hat insbesondere über die im Internet von den stromkennzeichnungspflichtigen Unternehmen gemeinsam betriebene, frei zugängliche Adresse www.stromkennzeichnung.ch zu erfolgen.[^4-2]
+<sup>3</sup> Unabhängig von der Art der Kennzeichnung muss es seinen Lieferantenmix und die gesamthaft an seine Endverbraucherinnen und Endverbraucher gelieferte Menge Elektrizität bis spätestens Ende Juni des folgenden Kalenderjahres veröffentlichen. Die Veröffentlichung hat insbesondere über die im Internet von den stromkennzeichnungspflichtigen Unternehmen gemeinsam betriebene, frei zugängliche Adresse www.stromkennzeichnung.ch zu erfolgen.[^4-4]
 
 <sup>4</sup> Wer weniger als 500 MWh pro Jahr an Endverbraucherinnen und Endverbraucher liefert, ist von der Pflicht zur Veröffentlichung der Stromkennzeichnung befreit.
 
 <sup>5</sup> Der Anteil, den die gekennzeichnete Elektrizität aus Anlagen, die am Einspeisevergütungssystem teilnehmen, ausmacht, wird gleichmässig auf alle Endverbraucherinnen und Endverbraucher verteilt.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+
+### 2*a**.* Abschnitt: Herkunftsnachweis für Brenn- und Treibstoffe
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 4a
+
+**Geltungsbereich**
+
+Dieser Abschnitt gilt für folgende Brenn- und Treibstoffe:
+
+- a. flüssige oder gasförmige Brenn- und Treibstoffe, die aus Biomasse oder unter Verwendung anderer erneuerbarer Energieträger hergestellt werden (erneuerbare Brenn- und Treibstoffe);
+- b. Wasserstoff, der nicht aus Biomasse und nicht unter Verwendung anderer erneuerbarer Energieträger hergestellt wird (nicht erneuerbarer Wasserstoff);
+- c. emissionsarme Flugtreibstoffe (Art. 28*f* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^4a-1]).
+
+[^4a-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+
+#### Art. 4b
+
+**Pflichten**
+
+<sup>1</sup> Produzenten von Brenn- und Treibstoffen müssen die Produktionsanlage in der Datenbank der Vollzugsstelle registrieren und die Menge der produzierten Brenn- und Treibstoffe mittels Herkunftsnachweis bei der Vollzugsstelle erfassen lassen.
+
+<sup>2</sup> Importeure von Brenn- und Treibstoffen müssen die ausländische Produktionsanlage in der Datenbank der Vollzugsstelle registrieren und die Menge der importierten Brenn- und Treibstoffe mittels Herkunftsnachweis bei der Vollzugsstelle erfassen lassen.
+
+<sup>3</sup> Importeure von massenbilanzierten Brenn- und Treibstoffen müssen die Produktionsanlagen nicht registrieren.
+
+<sup>4</sup>
+
+Von den Pflichten nach den Absätzen 1 und 2 ausgenommen sind:
+
+- a. Produzenten, die pro Kalenderjahr weniger als 20 Kilogramm erneuerbaren Brennstoff oder nicht erneuerbaren Wasserstoff, der nicht als Treibstoff verwendet wird, produzieren;
+- b.
+
+  Importeure, die:
+
+  - 1\. Treibstoffe als Betriebsmittel im Fahrzeugtank oder in einem Reservekanister importieren,
+  - 2\. Wasserstoff in Brennstoffzellenfahrzeugen als Betriebsmittel im Fahrzeugtank importieren,
+  - 3\. für die importierten Brenn- und Treibstoffe über einen ausländischen Herkunftsnachweis verfügen.
+
+<sup>5</sup> Importeure von ausländischen Herkunftsnachweisen für erneuerbare Gase und anderen ausländischen Zertifikaten für erneuerbare Gase müssen diese bei der Vollzugsstelle erfassen lassen.
+
+#### Art. 4c
+
+**Entwertung**
+
+<sup>1</sup>
+
+Einen Herkunftsnachweis hat zu entwerten oder von einem beauftragten Dritten entwerten zu lassen, wer:
+
+- a. den ökologischen Mehrwert eines zugrundeliegenden Brenn- oder Treibstoffs an Endverbraucherinnen oder Endverbraucher oder an eine Tankstelle abgibt;
+- b. die Menge des zugrundeliegenden gasförmige Brenn- oder Treibstoffs an Endverbraucherinnen oder Endverbraucher oder einer Tankstelle abgibt und nicht ins schweizerische Gasnetz einspeist; oder
+- c.
+
+  die Menge des zugrundeliegenden Brenn- oder Treibstoffs:
+
+  - 1\. selber verbraucht,
+  - 2\. in einen anderen Energieträger umwandelt, oder
+  - 3\. ins Ausland exportiert, sofern der schweizerische Herkunftsnachweis im Ausland nicht anerkannt ist.
+
+<sup>2</sup>
+
+Einen Herkunftsnachweis hat zudem zu entwerten oder von einem beauftragten Dritten entwerten zu lassen, wer ihn als Nachweis für die Nutzung von Brenn- oder Treibstoffen einsetzt:
+
+- a. im Rahmen der CO<sub>2</sub>-vermindernden Faktoren bei Neuwagenflotten durch den Verbrauch von erneuerbaren synthetischen Treibstoffen nach Artikel 11*a* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^4c-1];
+- b. im Rahmen der Kompensationspflicht nach Artikel 28*b* des CO<sub>2</sub>-Gesetzes; oder
+- c. im Rahmen der Pflicht zur Bereitstellung und zur Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Treibstoffen nach Artikel 28*f* des CO<sub>2</sub>-Gesetzes.
+
+<sup>3</sup> Die Entwertung muss jeweils bis Ende eines Quartals vorgenommen werden.
+
+<sup>4</sup> Wer einen Herkunftsnachweis, der auf der Basis ausländischer Zertifikate für erneuerbarer Gase ausgestellt worden ist, im freiwilligen Wärmemarkt einsetzt, muss ihn innerhalb eines Jahres entwerten.
+
+[^4c-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### 3. Abschnitt: Technische Anforderungen, Verfahren und Meldepflicht
 
@@ -123,12 +225,17 @@ Das stromkennzeichnungspflichtige Unternehmen muss die Kennzeichnung für alle s
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) regelt insbesondere:
 
-- a. die Anforderungen an den Herkunftsnachweis und dessen Gültigkeitsdauer;
-- b. die Verfahren für die Erfassung, die Ausstellung, die Überwachung der Übertragung des Herkunftsnachweises und dessen Entwertung;
+- a.[^5-1] die Anforderungen an die Herkunftsnachweise und deren Gültigkeitsdauer;
+- b.[^5-2] die Verfahren für die Erfassung, die Ausstellung, die Überwachung der Übertragung und die Entwertung der Herkunftsnachweise;
 - c. die Anforderungen an die Registrierung der Anlagen, für deren Produktion die Herkunft nachgewiesen werden muss, sowie das entsprechende Verfahren;
-- d. die Anforderungen an die Stromkennzeichnung.
+- d. die Anforderungen an die Stromkennzeichnung;
+- e.[^5-3] die Anforderungen an die Verwendung von Herkunftsnachweisen.
 
 <sup>2</sup> Es orientiert sich dabei an internationalen Normen, insbesondere an denjenigen der Europäischen Union und der *Association of Issuing Bodies* (AIB).
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 6
 
@@ -170,6 +277,22 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 <sup>2</sup> Wasserkraftanlagen ohne gewichtige Auswirkungen auf Raum und Umwelt bedürfen keiner Grundlage im Richtplan, auch wenn sie von nationalem Interesse sind.
 
 [^7a-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+### 1*b*. Abschnitt: Ausscheidung von geeigneten Gebieten für Windkraft- und Solaranlagen
+
+[^chap3-sec1b-1]
+
+[^chap3-sec1b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 7b
+
+Zur Festlegung der Gebiete, die für die Nutzung von Windkraft- und Solaranlagen von nationalem Interesse geeignet sind, stützen sich die Kantone auf Grundlagen, die insbesondere die stufengerechte Berücksichtigung folgender Interessen erlauben:
+
+- a. Landschaftsschutz;
+- b. Naturschutz einschliesslich Artenschutz;
+- c. Kulturlandschutz, einschliesslich des Schutzes der Fruchtfolgeflächen;
+- d. Walderhaltung;
+- e. Gewässerschutz.
 
 ### 2. Abschnitt: Nationales Interesse
 
@@ -227,21 +350,64 @@ Für die Beurteilung, ob eine Windkraftanlage von nationalem Interesse ist, kön
 
 <sup>3</sup> Bestehende Windkraftanlagen oder Windparks sind von nationalem Interesse, wenn sie durch die Erweiterung oder Erneuerung eine mittlere erwartete Produktion von jährlich mindestens 20 GWh pro Jahr erreichen.
 
+#### Art. 9a
+
+**Solaranlagen von nationalem Interesse**[^9a-1]
+
+<sup>1</sup> Für die Beurteilung, ob eine Solaranlage von nationalem Interesse ist, können mehrere Modulfelder gesamthaft berücksichtigt werden, wenn dies aufgrund der räumlichen Anordnung der Felder, der geringen Distanz der Felder zueinander und der sachlichen Begründung allfälliger Lücken zwischen den Feldern gerechtfertigt erscheint.
+
+<sup>2</sup> Neue Solaranlagen sind von nationalem Interesse, wenn die mittlere erwartete Produktion von Oktober bis März mindestens 5 GWh beträgt.
+
+<sup>3</sup> Bestehende Solaranlagen sind von nationalem Interesse, wenn sie durch die Erweiterung oder die Erneuerung eine mittlere erwartete Produktion von Oktober bis März von mindestens 5 GWh erreichen.
+
+[^9a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+### 2*a*. Abschnitt: Zubau für die Stromproduktion im Winter
+
+[^chap3-sec2a-1]
+
+[^chap3-sec2a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 9a<sup>bis</sup>
+
+**Vorhaben in inventarisierten Objekten von nationaler Bedeutung nach Artikel 5 NHG**
+
+Auf Schutz-, Wiederherstellungs-, Ersatz- oder Ausgleichsmassnahmen kann insbesondere verzichtet werden, wenn ihre Umsetzung ein Vorhaben in inventarisierten Objekten von nationaler Bedeutung nach Artikel 5 NHG[^9abis-1] verhindern oder dessen Erstellung oder Betrieb übermässig beeinträchtigen würde.
+
+[^9abis-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+#### Art. 9a<sup>ter</sup>
+
+**Speicherwasserkraftwerke für den Zubau für die Stromproduktion im Winter**
+
+Zu den Speicherwasserkraftwerken gehören auch Anlagen und Installationen, die für die Realisierung und den Betrieb der Speicherwasserkraftwerke nach Artikel 9*a* Absatz 3 StromVG notwendig sind.
+
+#### Art. 9a<sup>quater</sup>
+
+**Ausgleichsmassnahmen**
+
+Für die zusätzlichen Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft nach Artikel 9*a* Absatz 3 Buchstabe e StromVG gilt für die Speicherwasserkraftwerke nach Artikel 9*a* Absatz 3 StromVG:
+
+- a. Die Ausgleichsmassnahmen können am Standort der Anlage oder an einem anderen Standort im Kanton umgesetzt werden.
+- b. Sie können durch eine ökologische oder landschaftliche Aufwertung oder die Unterschutzstellung eines Perimeters umgesetzt werden.
+- c. Ihre direkten und indirekten Kosten müssen in einem angemessenen Verhältnis zum volkswirtschaftlichen Nutzen und zum neuen Eingriff eines Vorhabens in die Biodiversität und die Landschaft stehen.
+
 ### 3. Abschnitt: Baubewilligungsfreie Bauten und Anlagen
 
 [^chap3-sec3-1]
 
 [^chap3-sec3-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 
-#### Art. 9a
+#### Art. 9a<sup>quinquies</sup>
 
-**Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen[^9a-1]**
+**Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen[^9aquinquies-2]**[^9aquinquies-1]
 
 <sup>1</sup> Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen dürfen für eine Dauer von maximal 18 Monaten ohne Baubewilligung errichtet oder geändert werden.
 
 <sup>2</sup> Die Kantone können ein Meldeverfahren vorsehen.
 
-[^9a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^9aquinquies-1]: Urspünglich: Art. 9*a.*
+[^9aquinquies-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 9b
 
@@ -380,11 +546,11 @@ Die Produzentinnen und Produzenten von Energie nach Artikel 15 EnG und die Netzb
 
 <sup>2</sup> Die Produzentinnen und Produzenten sind verpflichtet, auf eigene Kosten Massnahmen zu ergreifen, um störende technische Einwirkungen auf den Netzanschlusspunkt zu vermeiden.
 
-<sup>3</sup> Ist Absatz 2 erfüllt, so sind die Netzbetreiber verpflichtet, die Energieerzeugungsanlage mit dem technisch und wirtschaftlich günstigsten Netzanschlusspunkt so zu verbinden, dass die Einspeisung und der Bezug von Energie sichergestellt sind. Die Produzentin oder der Produzent trägt die Kosten für die Erstellung der dazu notwendigen Erschliessungsleitungen bis zum Netzanschlusspunkt sowie allfällig notwendige Transformationskosten. Die Vergütung der Kosten für notwendige Netzverstärkungen richtet sich nach Artikel 22 Absatz 3 StromVV[^10-1].
+<sup>3</sup> Ist die Voraussetzung nach Absatz 2 erfüllt, so sind die Netzbetreiber verpflichtet, die Energieerzeugungsanlage mit dem technisch und wirtschaftlich günstigsten Netzanschlusspunkt so zu verbinden, dass die Einspeisung und der Bezug von Energie sichergestellt sind. Die Produzentin oder der Produzent trägt die Kosten für die Erstellung der dazu neu notwendigen Anschlussleitungen bis zum Netzanschlusspunkt sowie allfällig notwendige Transformationskosten.[^10-1]
 
 <sup>4</sup> Die Produzentinnen und Produzenten können dem Netzbetreiber unter Einhaltung einer Frist von einem Monat auf ein Quartalsende hin melden, ob sie ihren Anspruch auf die Abnahme und Vergütung der von ihnen produzierten Energie geltend machen wollen oder nicht.[^10-2]
 
-[^10-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^10-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 [^10-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 11
@@ -399,9 +565,11 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 - b. einer Produzentin oder einem Produzenten, die oder der die gesamte produzierte Elektrizität dem Netzbetreiber veräussert: die Nettoproduktion;
 - c. einer Produzentin oder einem Produzenten, die oder der Elektrizität der nationalen Netzgesellschaft als Regelenergie verkauft: die Überschuss- respektive Nettoproduktion abzüglich der Regelenergie.
 
-<sup>2</sup> Die Überschussproduktion entspricht der tatsächlich ins Netz des Netzbetreibers eingespeisten Elektrizität. Die Nettoproduktion entspricht der Elektrizität, die mit der Anlage produziert wird (Bruttoproduktion), abzüglich der von der Anlage selber verbrauchten Elektrizität (Hilfsspeisung).
+<sup>2</sup> Die Überschussproduktion entspricht der tatsächlich ins Netz des Netzbetreibers eingespeisten Elektrizität, die nicht am Ort der Produktion verbraucht wird. Die Nettoproduktion entspricht der Elektrizität, die mit der Anlage produziert wird (Bruttoproduktion), abzüglich der von der Anlage selber verbrauchten Elektrizität (Hilfsspeisung).[^11-1]
 
 <sup>3</sup> Produzenten und Produzentinnen, die zwischen den Vergütungen nach Absatz 1 Buchstaben a und b wechseln wollen, haben dies dem Netzbetreiber drei Monate im Voraus mitzuteilen.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 12
 
@@ -440,7 +608,10 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 <sup>2</sup> Der Ort der Produktion kann weitere Grundstücke umfassen, sofern die selber produzierte Elektrizität auch auf diesen Grundstücken ohne Inanspruchnahme des Verteilnetzes verbraucht werden kann.
 
+<sup>3</sup> Auf der Spannungsebene unter 1 kV können die Anschlussleitung und die lokale elektrische Infrastruktur beim Netzanschlusspunkt für den Eigenverbrauch genutzt werden.[^14-2]
+
 [^14-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 15
 
@@ -456,48 +627,70 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 #### Art. 16
 
-**Teilnahme von Mieterinnen und Mietern und Pächterinnen und Pächtern am Zusammenschluss**
+**Teilnahme von Mieterinnen und Mietern sowie Pächterinnen und Pächtern am Zusammenschluss**[^16-1]
 
 <sup>1</sup>
-
-Die Grundeigentümerin oder der Grundeigentümer stellt den einzelnen Mieterinnen und Mietern und Pächterinnen und Pächtern gemäss den folgenden Grundsätzen Rechnung:
-
-- a. Für die extern bezogene Elektrizität sind die Kosten verbrauchsabhängig anzulasten; dazu gehören, einschliesslich aller Abgaben, die Kosten der Energie, der Netznutzung und der Messung am Messpunkt des Zusammenschlusses.
-- b. Für die intern produzierte Elektrizität und die Kosten der internen Messung, der Datenbereitstellung, der Verwaltung und der Abrechnung des Zusammenschlusses (interne Kosten) darf pauschal maximal 80 Prozent des Betrags in Rechnung gestellt werden, der im Falle einer Nichtteilnahme am Zusammenschluss beim Bezug des externen Standardstromprodukts für die entsprechende Strommenge zu entrichten wäre.[^16-1]
-
-<sup>1bis</sup> …[^16-2]
-
-<sup>2</sup> Für die internen Kosten kann die Grundeigentümerin oder der Grundeigentümer anstelle der Pauschale nach Absatz 1 Buchstabe b auch die Kosten in Rechnung stellen, die effektiv angefallen sind, abzüglich der Erlöse aus der eingespeisten Elektrizität.[^16-3]
-
-<sup>2bis</sup> …[^16-4]
-
-<sup>3</sup> Werden die internen Kosten nach Absatz 2 abgerechnet, so darf die Grundeigentümerin oder der Grundeigentümer maximal den Betrag in Rechnung stellen, der für die entsprechende Strommenge beim Bezug des externen Standardstromprodukts zu entrichten wäre. Sind die internen Kosten tiefer als die Kosten dieses externen Standardstromprodukts, so darf zusätzlich zu den internen Kosten höchstens die Hälfte der erzielten Einsparung in Rechnung gestellt werden.[^16-5]
-
-<sup>4</sup>
 
 Beim Zusammenschluss zum Eigenverbrauch ist mindestens schriftlich festzuhalten:
 
 - a. wer den Zusammenschluss gegen aussen vertritt;
 - b. die Art und Weise der Messung des internen Verbrauchs, der Datenbereitstellung, der Verwaltung und der Abrechnung;
-- c. das Stromprodukt, das extern bezogen werden soll, sowie die Modalitäten für einen Wechsel dieses Produkts.
+- c. das Stromprodukt, das extern bezogen werden soll, sowie die Modalitäten bei einem Wechsel dieses Produkts.
 
-<sup>5</sup>
+<sup>2</sup>
 
-Mieterinnen und Mieter und Pächterinnen und Pächter können ihre Teilnahme am Zusammenschluss nur dann beenden, wenn:
+Mieterinnen und Mieter sowie Pächterinnen und Pächter können ihre Teilnahme am Zusammenschluss nur dann beenden, wenn:
 
 - a. sie Anspruch auf Netzzugang (Art. 17 Abs. 3 EnG) haben und diesen für sich geltend machen wollen; oder
-- b. die Grundeigentümerin oder der Grundeigentümer entweder die angemessene Versorgung mit Elektrizität nicht gewährleisten kann oder die Vorgaben der Absätze 1–3 nicht einhält.
+- b. die Grundeigentümerin oder der Grundeigentümer entweder keine angemessene Versorgung mit Elektrizität gewährleisten kann oder die Vorgaben nach Artikel 16*a* und 16*b* nicht einhält.
 
-<sup>6</sup> Die Beendigung ist der Grundeigentümerin oder dem Grundeigentümer drei Monate im Voraus schriftlich und begründet mitzuteilen.
+<sup>3</sup> Die Beendigung der Teilnahme am Zusammenschluss ist der Grundeigentümerin oder dem Grundeigentümer drei Monate im Voraus schriftlich und begründet mitzuteilen.
 
-<sup>7</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern und Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-6] zu führen, befreit.
+<sup>4</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern sowie von Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-2] zu führen, befreit.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^16-6]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^16-2]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+
+#### Art. 16a
+
+**Abrechnung der externen Kosten eines Zusammenschlusses**[^16a-1]
+
+<sup>1</sup>
+
+Als externe Kosten eines Zusammenschlusses gelten die Kosten, die anfallen für:
+
+- a. die extern bezogene Elektrizität sowie die Kosten der Netznutzung und der Messung des Zusammenschlusses einschliesslich aller Abgaben;
+- b. ein allfälliges Netz für die interne Stromverteilung in dem Umfang, in dem das Netz der Verteilung der extern bezogenen Elektrizität dient.
+
+<sup>2</sup> Die Grundeigentümerin oder der Grundeigentümer stellt den Mieterinnen und Mietern sowie den Pächterinnen und Pächtern die externen Kosten mit Ausnahme der Kosten für die Messung des Zusammenschlusses verbrauchsabhängig in Rechnung.
+
+<sup>3</sup> Fallen Kosten nach Absatz 1 Buchstabe b an, so darf die Grundeigentümerin oder der Grundeigentümer der Mieterin oder dem Mieter oder der Pächterin oder dem Pächter keine höheren Kosten in Rechnung stellen, als für die entsprechende Menge Elektrizität bei Nichtteilnahme am Zusammenschluss anfallen würden.
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 16b
+
+**Abrechnung der internen Kosten eines Zusammenschlusses**[^16b-1]
+
+<sup>1</sup>
+
+Als interne Kosten eines Zusammenschlusses gelten die Kosten, die anfallen für:
+
+- a. die intern produzierte Energie;
+- b. die interne Messung, die Datenbereitstellung und die Abrechnung des Zusammenschlusses;
+- c. ein allfälliges Netz für die interne Stromverteilung in dem Umfang, in dem das Netz der Verteilung der intern produzierten Elektrizität dient.
+
+<sup>2</sup> Die Grundeigentümerin oder der Grundeigentümer kann der Mieterin oder dem Mieter sowie der Pächterin oder dem Pächter die internen Kosten pauschal in der Höhe von höchstens 80 Prozent der Kosten, die dieser oder diesem für die entsprechende Menge Elektrizität bei Nichtteilnahme am Zusammenschluss anfallen würden, in Rechnung stellen.
+
+<sup>3</sup>
+
+Die Grundeigentümerin oder der Grundeigentümer kann der Mieterin oder dem Mieter oder der Pächterin oder dem Pächter die effektiv angefallenen Kosten in Rechnung stellen. Dabei gilt:
+
+- a. Die Erlöse aus dem externen Verkauf von intern produzierter Energie sind von den internen Kosten abzuziehen.
+- b. Die Grundeigentümerin oder der Grundeigentümer darf die internen Kosten abzüglich der Erlöse nach Buchstabe a nur bis zu dem Betrag in Rechnung stellen, der für die entsprechende Menge Elektrizität bei Nichtteilnahme am Zusammenschluss anfallen würde.
+- c. Sind die internen Kosten abzüglich der Erlöse nach Buchstabe a tiefer als der Höchstbetrag nach Buchstabe b, so darf die Grundeigentümerin oder der Grundeigentümer zusätzlich die Hälfte der Differenz in Rechnung stellen.
+
+[^16b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 17
 
@@ -526,15 +719,24 @@ Grundeigentümerinnen und Grundeigentümer haben dem Netzbetreiber je drei Monat
 - c. den Einsatz eines Speichers und dessen Verwendungsart;
 - d.[^18-2] die Unterschreitung des Wertes nach Artikel 15 Absatz 1.
 
-<sup>2</sup> Grundeigentümerinnen und Grundeigentümer haben eine allfällige Beendigung der Teilnahme einer Mieterin oder eines Mieters oder einer Pächterin oder eines Pächters am Zusammenschluss dem Netzbetreiber unverzüglich mitzuteilen. Der Netzbetreiber hat die betreffenden Mieterinnen und Mieter und Pächterinnen und Pächter innert drei Monaten in die Grundversorgung nach Artikel 6 oder 7 des Stromversorgungsgesetzes vom 23. März 2007[^18-3] (StromVG) aufzunehmen.
+<sup>2</sup> Grundeigentümerinnen und Grundeigentümer haben eine allfällige Beendigung der Teilnahme einer Mieterin oder eines Mieters oder einer Pächterin oder eines Pächters am Zusammenschluss dem Netzbetreiber unverzüglich mitzuteilen. Der Netzbetreiber hat die betreffenden Mieterinnen und Mieter sowie Pächterinnen und Pächter innert drei Monaten in die Grundversorgung nach Artikel 6 oder 7 StromVG aufzunehmen.[^18-3]
 
 <sup>3</sup> Ist die Grundeigentümerin oder der Grundeigentümer nicht in der Lage, die Mitglieder und Teilnehmerinnen und Teilnehmer des Zusammenschlusses mit Elektrizität zu versorgen, so hat der Netzbetreiber die Versorgung umgehend sicherzustellen.
 
 <sup>4</sup> Die dem Netzbetreiber aufgrund der Absätze 2 und 3 anfallenden Kosten hat die Grundeigentümerin oder der Grundeigentümer zu tragen.
 
+<sup>5</sup> Der Netzbetreiber hat der Grundeigentümerin oder dem Grundeigentümer innerhalb von 15 Arbeitstagen die Informationen mitzuteilen, die für die Bildung eines Zusammenschlusses zum Eigenverbrauch unter Inanspruchnahme von Anschlussleitungen notwendig sind.[^18-4]
+
+<sup>6</sup> Er hat den Verbrauch der Endverbraucherinnen und Endverbraucher, die nicht an einem Zusammenschluss zum Eigenverbrauchs teilnehmen, separat abzurechnen.[^18-5]
+
+<sup>7</sup> Er hat dem Zusammenschluss die für die Abrechnung notwendigen Lastgangdaten der Messung der Produktion und des Verbrauchs der einzelnen Teilnehmenden unentgeltlich zur Verfügung zu stellen.[^18-6]
+
 [^18-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^18-3]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^18-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^18-4]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^18-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^18-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 5. Kapitel: Wettbewerbliche Ausschreibungen für Effizienzmassnahmen, Geothermie-Garantien und Entschädigung für Sanierungsmassnahmen bei Wasserkraftwerken
 
@@ -569,6 +771,21 @@ Für Förderbeiträge werden nur Projekte und Programme berücksichtigt, die:
 
 <sup>2</sup> Die Projekte und Programme mit dem besten Verhältnis zwischen beantragtem Förderbeitrag und der diesem Beitrag anrechenbaren Stromeinsparung (Kostenwirksamkeit in Rp./kWh) erhalten einen Förderbeitrag.
 
+#### Art. 20a
+
+**Schweizweite Programme**[^20a-1]
+
+<sup>1</sup>
+
+Das BFE kann eine spezifische Massnahme separat ausschreiben, wenn sie:
+
+- a. im Rahmen der Ausschreibungen nach Artikel 19 nicht oder nur in geringem Umfang umgesetzt wird; und
+- b. in schweizweiten Programmen standardisiert und skalierbar umsetzbar ist.
+
+<sup>2</sup> Es orientiert sich dabei an der Kostenwirksamkeit der bisherigen Ausschreibungen nach Artikel 19.
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 #### Art. 21
 
 **Auszahlung und Rückforderung**
@@ -587,13 +804,15 @@ Für Förderbeiträge werden nur Projekte und Programme berücksichtigt, die:
 
 <sup>1</sup>
 
-Das BFE publiziert zu den wettbewerblichen Ausschreibungen jährlich folgende Angaben:
+Das BFE publiziert zu den wettbewerblichen Ausschreibungen und den schweizweiten Programmen jährlich folgende Angaben:[^22-1]
 
 - a. die Anzahl der geförderten Programme und Projekte;
 - b. die bei Programmen und Projekten erwartete und realisierte Stromeinsparung;
 - c. die pro eingesparte Kilowattstunde eingesetzten Fördermittel (Kostenwirksamkeit).
 
 <sup>2</sup> Es kann zudem die von Projekt- und Programmträgern eingereichten Eingaben sowie die verfassten Zwischen- und Schlussberichte unter Wahrung des Geschäfts- und Fabrikationsgeheimnisses publizieren.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ### 2. Abschnitt: Geothermie-Garantien
 
@@ -769,9 +988,19 @@ Im Übrigen ist das 3. Kapitel des SuG[^34-1] sinngemäss anwendbar.
 
 **Verwendung**
 
-<sup>1</sup> Die Zuteilung der verfügbaren Mittel richtet sich nach dem Mittelbedarf und den Vollzugskosten der einzelnen Verwendungen, den anteilsmässigen Kosten für die Rückerstattung des Netzzuschlags nach Artikel 39 EnG, der Gesamtliquidität des Netzzuschlagsfonds sowie dem Beitrag, den die einzelnen Verwendungen zur Verwirklichung des Gesetzeszwecks und zur Erreichung der Richtwerte gemäss den Artikeln 2 und 3 EnG leisten.
+<sup>1</sup> Die Zuteilung der verfügbaren Mittel richtet sich nach dem Mittelbedarf und den Vollzugskosten der einzelnen Verwendungen, den anteilsmässigen Kosten für die Rückerstattung des Netzzuschlags nach Artikel 39 EnG, der Gesamtliquidität des Netzzuschlagsfonds sowie dem Beitrag, den die einzelnen Verwendungen zur Erreichung der Zielwerte nach den Artikeln 2 und 3 EnG leisten.[^36-1]
 
 <sup>2</sup> Die gesetzlich vorgesehenen Höchstanteile für die Marktprämie für Elektrizität aus Grosswasserkraftanlagen, für die Investitionsbeiträge für Wasserkraftanlagen mit einer Leistung von mehr als 10 MW und für die Entschädigungen nach Artikel 34 EnG werden ausgeschöpft, sofern dies aufgrund des Mittelbedarfs notwendig ist.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 36a
+
+**Tresoreriedarlehen**[^36a-1]
+
+Das BFE und die Eidgenössische Finanzverwaltung legen die Einzelheiten der Tresoreriedarlehen einvernehmlich fest, insbesondere den Umfang und die Dauer der Darlehen, die Verzinsung und die weiteren Modalitäten.
+
+[^36a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ### 2. Abschnitt: Rückerstattung
 
@@ -984,6 +1213,136 @@ Als wesentliche Erneuerungen nach Artikel 45 Absatz 3 Buchstabe c EnG gelten ins
 
 <sup>4</sup> Es kann Dritte mit den Aufgaben nach Absatz 2 beauftragen.
 
+## 7*a*. Kapitel: Effizienzsteigerungen durch Elektrizitätslieferanten
+
+[^chap7a-1]
+
+[^chap7a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 51a
+
+**Zielvorgabe für die Effizienzsteigerungen**
+
+<sup>1</sup>
+
+Elektrizitätslieferanten, die im Vorjahr 10 GWh oder mehr Elektrizität an ihre Endverbraucherinnen und Endverbraucher abgesetzt haben (Referenzstromabsatz), müssen durch Effizienzsteigerungen jährlich Stromeinsparungen realisieren im Umfang von:
+
+- a. 1 Prozent im Jahr 2026;
+- b. 1,5 Prozent im Jahr 2027;
+- c. 2 Prozent ab dem Jahr 2028.
+
+<sup>2</sup>
+
+Bei der Berechnung des Referenzstromabsatzes nicht berücksichtigt werden Lieferungen an:
+
+- a. Endverbraucherinnen und Endverbraucher, welche die Voraussetzungen nach Artikel 40 EnG einhalten und deren Elektrizitätskosten mindestens 20 Prozent der Bruttowertschöpfung ausmachen;
+- b. Kraftwerke und Speicher ohne Endverbrauch nach Artikel 14*a* Absatz 1 StromVG.
+
+<sup>3</sup> Das BFE berechnet den Referenzstromabsatz und legt jeweils bis zum 30. Juni für die einzelnen Elektrizitätslieferanten die Zielvorgaben fest.
+
+#### Art. 51b
+
+**Anrechenbare Massnahmen**
+
+<sup>1</sup>
+
+Massnahmen zur Effizienzsteigerung sind anrechenbar, wenn:
+
+- a. sie den besten verfügbaren Technologien entsprechen; und
+- b. die damit erzielte Stromeinsparung gemessen oder berechnet werden kann.
+
+<sup>2</sup> An die jährliche Zielvorgabe wird die gesamte Stromeinsparung angerechnet, die eine gemeldete Massnahme während ihrer Wirkungsdauer erzielt.
+
+#### Art. 51c
+
+**Nicht anrechenbare Massnahmen**
+
+Nicht anrechenbar sind Massnahmen:
+
+- a. die aufgrund rechtlicher Vorschriften des Bundes umgesetzt werden müssen oder im Basismodul der MuKEn 2014[^51c-1] vorgesehen sind;
+- b. für die der Bund, ein Kanton oder eine Gemeinde Finanzhilfen ausgerichtet hat;
+- c. die bei Endverbraucherinnen und Endverbrauchern nach Artikel 51*a* Absatz 2 Buchstabe a umgesetzt werden;
+- d. die für die Erfüllung einer mit dem Bund oder einem Kanton abgeschlossenen Zielvereinbarung angerechnet werden;
+- e. die nicht dauerhaft sind;
+- f. welche die Stromeinsparung durch eine Verhaltensänderung der Endverbraucherinnen und Endverbraucher erzielen.
+
+[^51c-1]: [www.endk.ch](https://www.endk.ch/de/dokumentation/gebaude_muken) &gt; Dokumentation/Archiv &gt; Gebäude/MuKEn
+
+#### Art. 51d
+
+**Standardisierte Massnahmen**
+
+<sup>1</sup> Das BFE legt standardisierte Massnahmen zur Effizienzsteigerung fest.
+
+<sup>2</sup> Es stellt Einsparprotokolle zur Verfügung, die dem Nachweis der mit den standardisierten Massnahmen erzielten Stromeinsparung dienen.
+
+#### Art. 51e
+
+**Nicht standardisierte Massnahmen**
+
+<sup>1</sup>
+
+Der Antrag auf Anrechenbarkeit einer nicht standardisierten Massnahme muss mindestens folgende Angaben enthalten:
+
+- a. die Beschreibung der Massnahme;
+- b. das Vorgehen, wie die Stromeinsparung gemessen oder berechnet wird.
+
+<sup>2</sup> Das BFE kann eine Massnahme unter Auflagen und Bedingungen als anrechenbar erklären.
+
+<sup>3</sup> Es stellt dem Antragsteller für die Massnahme ein entsprechendes Einsparprotokoll zur Verfügung.
+
+#### Art. 51f
+
+**Meldepflicht und Zeitpunkt der Meldung**
+
+Elektrizitätslieferanten melden dem BFE jeweils bis zum 30. April folgende Angaben des Vorjahres:
+
+- a. den Stromabsatz an Endverbraucherinnen und Endverbraucher;
+- b. den Stromabsatz an Endverbraucherinnen und Endverbraucher in der Grundversorgung;
+- c. den Stromabsatz an Endverbraucherinnen und Endverbraucher nach Artikel 51*a* Absatz 2;
+- d. die Kosten für die Umsetzung der Massnahmen zur Effizienzsteigerung.
+
+#### Art. 51g
+
+**Erfüllung der Zielvorgabe**
+
+<sup>1</sup> Die Elektrizitätslieferanten melden dem BFE die umgesetzten Massnahmen in dem Jahr, in dem sie sich diese an die Zielvorgabe anrechnen lassen wollen.
+
+<sup>2</sup>
+
+Die Meldung muss insbesondere enthalten:
+
+- a. das ausgefüllte Einsparprotokoll;
+- b. die im Einsparprotokoll festgelegten Angaben und Unterlagen, welche die Stromeinsparung und das Datum der Umsetzung der Massnahme enthalten.
+
+<sup>3</sup> Übertreffen Elektrizitätslieferanten die Zielvorgabe, so werden die zusätzlichen Stromeinsparungen der Zielvorgabe des folgenden Jahres angerechnet.
+
+#### Art. 51h
+
+**Kontrollen**
+
+<sup>1</sup>
+
+Das BFE kontrolliert in geeigneter Weise die Grundlagen zur Festsetzung der Zielvorgabe sowie die Umsetzung der Massnahmen. Es kann zu diesem Zweck insbesondere:
+
+- a. Zugang zu Unterlagen und Informationen verlangen, die für die Kontrolle erforderlich sind;
+- b. Gebäude, Betriebe und sonstige Infrastrukturen während der üblichen Arbeitszeit betreten.
+
+<sup>2</sup> Die Eidgenössische Elektrizitätskommission kann zur Überprüfung der Einhaltung der Vorgaben nach Artikel 6 Absatz 5<sup>ter</sup> StromVG die Daten und die Angaben zu den Lieferungen an die Endverbraucherinnen und Endverbraucher kontrollieren.
+
+<sup>3</sup> Ergibt eine Kontrolle, dass gemeldete Massnahmen nicht angerechnet werden können, so werden dem Elektrizitätslieferanten die Stromeinsparungen nachträglich abgezogen.
+
+#### Art. 51i
+
+**Publikation**
+
+Das BFE veröffentlicht jährlich folgende Angaben:
+
+- a. die Anzahl der Elektrizitätslieferanten mit Zielvorgaben und die Gesamthöhe aller Zielvorgaben;
+- b. die Anzahl der erfüllten und nicht erfüllten Zielvorgaben und die Gesamthöhe der erzielten Stromeinsparungen;
+- c. die Anzahl und die Art der umgesetzten Massnahmen sowie die Höhe der erzielten Stromeinsparungen;
+- d. die durchschnittlichen Kosten für die Umsetzung der Massnahmen zur Effizienzsteigerung.
+
 ## 8. Kapitel: Förderung
 
 ### 1. Abschnitt: Massnahmen
@@ -1029,9 +1388,7 @@ Er kann in Zusammenarbeit mit den Kantonen sowie mit Verbänden und Bildungsinst
 
 #### Art. 54
 
-**Pilot- und Demonstrationsanlagen sowie Pilot- und Demonstrationsprojekte**
-
-<sup>1</sup>
+**Pilot- und Demonstrationsanlagen sowie Pilot- und Demonstrationsprojekte**[^54-1]
 
 Unterstützt werden können:
 
@@ -1039,17 +1396,115 @@ Unterstützt werden können:
 
   Pilotanlagen und -projekte, die:
 
-  - 1\. der technischen Erprobung von Energiesystemen, -methoden oder -konzepten dienen, und
-  - 2\. in einem Massstab realisiert werden, der die Bestimmung wissenschaftlicher, technischer, wirtschaftlicher und gesellschaftlicher Daten erlaubt;
+  - 1\. der technischen Erprobung von innovativen Energiesystemen, -methoden oder -konzepten dienen, und
+  - 2\. als Prototypen oder Teilsysteme realisiert werden, welche die Bestimmung wissenschaftlicher und technischer Daten erlauben;
 
 - b.
 
   Demonstrationsanlagen und -projekte, die:
 
-  - 1\. dem Nachweis der Funktionstüchtigkeit im marktnahen Umfeld dienen, und
-  - 2\. eine umfassende technische, wirtschaftliche und gesellschaftliche Beurteilung im Hinblick auf die effektive Markteinführung von innovativen Energietechnologien oder -lösungen ermöglichen.
+  - 1\. dem Nachweis der Funktionstüchtigkeit im realen Massstab und im marktnahen Umfeld dienen, und
+  - 2\. eine umfassende technische, wirtschaftliche und gesellschaftliche Beurteilung im Hinblick auf die effektive Markteinführung von innovativen Energietechnologien, -lösungen und -ansätzen ermöglichen.
 
-<sup>2</sup> Demonstrationsanlagen und -projekte können vom BFE als Leuchtturmprojekte anerkannt werden, wenn diese der Bekanntmachung von neuen, wegweisenden Konzepten und Technologien dienen und den Energiedialog in der breiten Bevölkerung unterstützen.
+[^54-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 54a
+
+**Förderung nach Artikel 50*a* EnG: Voraussetzungen und Geltungsbereich**[^54a-1]
+
+<sup>1</sup>
+
+Der Bund fördert Massnahmen nach Artikel 50*a* EnG, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a.
+
+  die Voraussetzungen nach Anhang 6*a* Ziffer 1, wenn eine Heizöl- oder Erdgasheizung oder eine ortsfeste elektrische Widerstandsheizung ersetzt wird durch:
+
+  - 1\. eine automatische Holzfeuerung,
+  - 2\. eine Luft/Wasser-Wärmepumpe,
+  - 3\. eine Sole/Wasser-Wärmepumpe oder Wasser/Wasser-Wärmepumpe, oder
+  - 4\. einen Anschluss an ein Wärmenetz;
+
+- b. die Voraussetzungen nach Anhang 6*a* Ziffer 2, wenn eine neue Solarkollektoranlage installiert oder eine bestehende Solarkollektoranlage erweitert wird;
+- c. die Voraussetzungen nach Anhang 6*a* Ziffer 3, wenn eine dezentrale Heizöl-, Erdgas- oder elektrische Widerstandsheizung ohne hydraulisches Wärmeverteilsystem ersetzt wird durch eine mit erneuerbaren Energien betriebene Hauptheizung mit einem hydraulischen Wärmeverteilsystem;
+- d. die Voraussetzungen nach Anhang 6*a* Ziffer 4, wenn die Energieeffizienz der Gebäudehülle umfassend verbessert wird.
+
+<sup>2</sup> Artikel 57 Absatz 1 gilt sinngemäss.
+
+<sup>3</sup> Nicht gefördert werden Massnahmen nach Artikel 57 Absatz 2 sowie nach Artikel 104 Absatz 2 der CO<sub>2</sub>-Verordnung vom 30. November 2012[^54a-2].
+
+<sup>4</sup> Die Kantone können höchstens eine der Massnahmen nach Anhang 6*a* Ziffern 1 und 2 von der Förderung ausschliessen.
+
+[^54a-1]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^54a-2]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+
+#### Art. 54b
+
+**Förderung nach Artikel 50*a* EnG: Beiträge und Beitragsobergrenze**[^54b-1]
+
+<sup>1</sup> Die Beiträge für die Massnahmen nach Artikel 50*a* EnG sind in Anhang 6*a* Ziffern 1.1.3, 1.2.3, 1.3.3, 1.4.2, 2.3, 3.4 und 4.4 festgelegt.
+
+<sup>2</sup> Die Kantone können für die Massnahmen eine Beitragsobergrenze festlegen. Diese muss mindestens 100 000 Franken betragen.
+
+<sup>3</sup> Die Förderung von Massnahmen nach Anhang 6*a* Ziffern 1, 2 und 4 darf 50 Prozent der Gesamtinvestitionskosten nicht übersteigen.
+
+[^54b-1]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+
+#### Art. 54c
+
+**Förderung nach Artikel 50*a* EnG: Beratung für Heizungsersatz**[^54c-1]
+
+<sup>1</sup> Mit den Mitteln nach Artikel 50*a* EnG können bis zu 15 Millionen Franken pro Jahr für die Beratung für den Ersatz einer Heizung durch eine mit erneuerbaren Energien betriebene Hauptheizung eingesetzt werden.
+
+<sup>2</sup>
+
+Die Beratung wird in folgendem Umfang gefördert:
+
+- a.
+
+  mit pauschal 450 Franken für:
+
+  - 1\. Einfamilienhäuser,
+  - 2\. Mehrfamilienhäuser mit höchstens 6 Wohneinheiten,
+  - 3\. Nichtwohnbauten mit einer Heizleistung von höchstens 30 kW;
+
+- b.
+
+  mit pauschal 1800 Franken für:
+
+  - 1\. Stockwerkeigentümergemeinschaften,
+  - 2\. Mehrfamilienhäuser mit mehr als 6 Wohneinheiten,
+  - 3\. Nichtwohnbauten mit einer Heizleistung von mehr als 30 kW.
+
+[^54c-1]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+
+#### Art. 54d
+
+**Förderung nach Artikel 50*a* EnG: Verfahren, Vollzug und Finanzierung**[^54d-1]
+
+<sup>1</sup> Der Bund richtet die Sockelbeiträge nach Artikel 50*a* Absatz 3 EnG den Kantonen im Rahmen der Ausrichtung der Globalbeiträge nach Artikel 34 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^54d-2] aus.
+
+<sup>2</sup>
+
+Das Verfahren und der Vollzug der Förderung richten sich sinngemäss nach:
+
+- a.
+
+  den folgenden Bestimmungen der vorliegenden Verordnung:
+
+  - 1\. Artikel 59 in Verbindung mit Artikel 110 Absätze 2 und 3 der CO<sub>2</sub>-Verordnung vom 30. November 2012[^54d-3],
+  - 2\. Artikel 60,
+  - 3\. den Artikeln 63, 64 und 67 in Verbindung mit Artikel 105 Buchstabe b der CO<sub>2</sub>-Verordnung;
+
+- b. den Artikeln 107, 108 Absatz 1 und 109 der CO<sub>2</sub>-Verordnung.
+
+<sup>3</sup> Sind in einem Kanton die verfügbaren Mittel nach Artikel 50*a* EnG in einem Jahr ausgeschöpft, so kann der Kanton neue Förderzusagen über die Förderung nach Artikel 34 des CO<sub>2</sub>-Gesetzes abrechnen lassen.
+
+<sup>4</sup> Der Vollzug der Förderung der Beratung für den Heizungsersatz (Art. 54*c*) erfolgt durch den Bund.
+
+[^54d-1]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^54d-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^54d-3]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
 ### 2. Abschnitt: Globalbeiträge
 
@@ -1176,27 +1631,23 @@ Das BFE kontrolliert stichprobenweise:
 
 #### Art. 61
 
-**Finanzhilfen an Pilot- und Demonstrationsanlagen und -projekte sowie an Feldversuche und Analysen**
+**Finanzhilfen an Pilot- und Demonstrationsanlagen und -projekte sowie an Feldversuche und Analysen**[^61-1]
 
 <sup>1</sup>
 
-Finanzhilfen können an Pilot- und Demonstrationsanlagen und -projekte (Art. 49 Abs. 2 Bst. a und Abs. 3 EnG) geleistet werden, sofern:
+Finanzhilfen an Pilot- und Demonstrationsanlagen und -projekte (Art. 49 Abs. 2 Bst. a und 3 EnG) können geleistet werden, sofern:
 
-- a. diese der sparsamen und effizienten Energieverwendung oder der Nutzung erneuerbarer Energien dienen;
-- b. das Anwendungspotenzial und die Erfolgswahrscheinlichkeit genügend gross sind;
-- c. diese der Energiepolitik des Bundes entsprechen; und
-- d. die gewonnenen Resultate der Öffentlichkeit zugänglich sind und interessierten Kreisen bekannt gemacht werden.
+- a. sie einen relevanten Beitrag zur Erreichung der energie- und klimapolitischen Ziele des Bundes leisten;
+- b. sie sich mit der Entwicklung und der Erprobung von innovativen Technologien, Lösungen und Ansätzen befassen und sie einen Erkenntnisgewinn generieren;
+- c. das Anwendungspotenzial der involvierten Technologien, Lösungen und Ansätze sowie die Erfolgswahrscheinlichkeit des Vorhabens genügend gross sind;
+- d. die gewonnenen Resultate der Öffentlichkeit zugänglich sind; und
+- e. die Kosten des Projekts in einem angemessenen Verhältnis zu den Kriterien des Projekts nach den Buchstaben a–d stehen.
 
 <sup>2</sup> Für die Unterstützung von Feldversuchen und Analysen (Art. 49 Abs. 2 Bst. b EnG) gelten diese Anforderungen sinngemäss.
 
-<sup>3</sup>
+<sup>3</sup> Das BFE legt die Höhe der Finanzhilfe auf der Grundlage der anrechenbaren Kosten fest und berücksichtigt dabei insbesondere das Verhältnis nach Absatz 1 Buchstabe e.
 
-Das BFE legt die Höhe der Finanzhilfe auf der Grundlage der anrechenbaren Kosten fest und berücksichtigt dabei insbesondere:
-
-- a. die Art des Vorhabens;
-- b. die Nähe zum Markt;
-- c. die finanzielle Situation der Gesuchstellenden; und
-- d. das Potenzial zur Entfaltung nationaler Ausstrahlung des Projekts.
+[^61-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 62
 
@@ -1327,21 +1778,80 @@ Das BFE erstellt und publiziert eine Gesamtsicht, die insbesondere folgende Anga
 - b. Technologie;
 - c. Anlagenkategorie;
 - d. Leistung;
-- e. Inbetriebnahmedatum.
+- e. Inbetriebnahmedatum;
+- f.[^69a-2] Angabe, ob die Anlage im nationalen Interesse ist oder nicht.
 
 <sup>3</sup> Wird eine Elektrizitätsproduktionsanlage erweitert, so enthält die Gesamtsicht zudem die Angaben zu Anlagenkategorie, Leistung und Inbetriebnahmedatum der Erweiterung.
 
 <sup>4</sup> Bei Photovoltaikanlagen publiziert das BFE zudem Angaben zur Ausrichtung und Neigung der Module, soweit diese Angaben bei der Vollzugsstelle vorhanden sind.
 
 [^69a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^69a-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 69b
+
+**Räumliche Übersicht der Brenn- und Treibstoffproduktionsanlagen**[^69b-1]
+
+<sup>1</sup> Die Vollzugsstelle dokumentiert gemäss den Vorgaben des BFE die Geodaten der registrierten Brenn- und Treibstoffproduktionsanlagen und stellt sie dem BFE zu.
+
+<sup>2</sup>
+
+Das BFE erstellt und publiziert eine Gesamtsicht, die insbesondere folgende Angaben zu den einzelnen Brenn- und Treibstoffproduktionsanlagen enthält:
+
+- a. Standort;
+- b. Technologie;
+- c. Produktionskapazität;
+- d. Datum der Inbetriebnahme;
+- e. Bezeichnung des produzierten Brenn- oder Treibstoffs.
+
+[^69b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 70
 
-**Bearbeitung von Personendaten sowie Daten juristischer Personen**[^70-1]
+**Bearbeitung von Personendaten und von Daten juristischer Personen[^70-2]**[^70-1]
 
-Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, dürfen während höchstens zehn Jahren aufbewahrt werden.
+<sup>1</sup> Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, dürfen während höchstens zehn Jahren aufbewahrt werden.
+
+<sup>2</sup>
+
+Die Vollzugstelle gewährt Zugang zu den im Rahmen der Artikel 4*b* und 4*c* erhobenen Personendaten und Daten juristischer Personen:
+
+- a.
+
+  dem Bundesamt für Energie: für seine Vollzugsaufgaben:
+
+  - 1\. im Rahmen der Förderung von Anlagen zur Erzeugung von Elektrizität aus Biomasse (Art 19, 27 und 33*a* EnG),
+  - 2\. im Rahmen der CO<sub>2</sub>-vermindernden Faktoren bei Neuwagenflotten durch den Einsatz von erneuerbaren synthetischen Treibstoffen (Art. 11*a* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^70-3]),
+  - 3\. im Rahmen der Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden (Globalbeiträge) (Art. 34 des CO<sub>2</sub>-Gesetzes),
+  - 4\. im Rahmen der Kennzeichnungspflicht (Energieetikette) beim Inverkehrbringen und Abgeben von Personenwagen, Lieferwagen und leichten Sattelschleppern (Art. 10–12*a* der Energieeffizienzverordnung vom 1. November 2017[^70-4]),
+  - 5\. im Rahmen der Förderung von Anlagen zur Produktion erneuerbarer Gase (Art. 34*a* Abs. 1 Bst. d des CO<sub>2</sub>-Gesetzes),
+  - 6\. im Rahmen des Monitorings nach Artikel 55 EnG;
+
+- b.
+
+  dem Bundesamt für Umwelt: für seine Vollzugsaufgaben:
+
+  - 1\. im Emissionshandelssystem (Art. 15–21 des CO<sub>2</sub>-Gesetzes),
+  - 2\. im Rahmen der Kompensation bei Treibstoffen (Art. 28*b*–28*e* des CO<sub>2</sub>-Gesetzes),
+  - 3\. im Rahmen der Verpflichtung zu Verminderung der Treibhausgasemissionen (Art. 31–32 des CO<sub>2</sub>-Gesetzes),
+  - 4\. im Rahmen der Rückerstattung der CO<sub>2</sub>-Abgabe an Betreiber von Wärme-Kraft-Koppelungsanlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind (Art. 32*a* und 32*b* des CO<sub>2</sub>-Gesetzes);
+
+- c.
+
+  dem Bundesamt für Zivilluftfahrt: für seine Vollzugsaufgaben:
+
+  - 1\. im Rahmen der Bereitstellung und Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Flugtreibstoffen (Art. 28*f* des CO<sub>2</sub>-Gesetzes),
+  - 2\. im Rahmen des Carbon Offsetting and Reduction Scheme for International Aviation gemäss Anhang 16 Band IV zum Übereinkommen vom 7. Dezember 1944[^70-5] über die Internationale Zivilluftfahrt;
+
+- d. dem Bundesamt für Zoll und Grenzsicherheit: für den Vollzug der Mineralölsteuergesetzgebung sowie für die Erhebung und die Rückerstattung der CO<sub>2</sub>-Abgabe;
+- e. den Kantonen: soweit sie diese für den Vollzug der kantonalen Vorschriften im Gebäudebereich benötigen (Art. 45 EnG und Art. 9 des CO<sub>2</sub>-Gesetzes).[^70-6]
 
 [^70-1]: Fassung gemäss Anhang 2 Ziff. II 74 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^70-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^70-3]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^70-4]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^70-5]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 11. Kapitel: Vollzug
 
@@ -1410,6 +1920,16 @@ Die Vollzugsstelle übermittelt dem BFE die für die Finanzberichterstattung der
 
 Das BFE erlässt Richtlinien über Inhalt und Struktur des Budgets, des Leistungskatalogs, der Abrechnung der Vollzugskosten und der Berichterstattung.
 
+## 12*a*. Kapitel: Strafbestimmungen
+
+[^chap12a-1]
+
+[^chap12a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 77a
+
+Nach Artikel 70 Absatz 1 Buchstabe g EnG wird bestraft, wer der Meldepflicht nach Artikel 51*f* vorsätzlich nicht nachkommt oder zu den gemeldeten Massnahmen nach Artikel 51*g* vorsätzlich falsche Angaben macht.
+
 ## 13. Kapitel: Schlussbestimmungen
 
 #### Art. 78
@@ -1435,6 +1955,37 @@ Die Aufhebung und Änderung anderer Erlasse werden in Anhang 7 geregelt.
 **Übergangsbestimmung zur Rückerstattung des Netzzuschlags**
 
 Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher nach Artikel 39 Absatz 3 erster Satz EnG, die eine Zielvereinbarung nach bisherigem Recht abgeschlossen haben, entfällt ab Inkrafttreten des EnG die Pflicht zur Einhaltung der Zielvereinbarung.
+
+#### Art. 80a
+
+**Übergangsbestimmung zur Änderung vom 20. November 2024: Herkunftsnachweise für Brenn‑ und Treibstoffe**[^80a-1]
+
+<sup>1</sup> Die von der Gasbranche eingesetzte Clearingstelle muss die Daten, die sie nach Artikel 45*e* der Mineralölsteuerverordnung vom 20. November 1996[^80a-2] in der Fassung vom 1. Januar 2022[^80a-3] bis zum 31. Dezember 2024 bearbeitet hat, bis zum 1. Januar 2025 der Vollzugsstelle nach Artikel 64 EnG übermitteln.
+
+<sup>2</sup> Die Vollzugsstelle stellt für die Mengen an schweizerischem Biogas, Biowasserstoff und synthetischem Gas, die bis am 31. Dezember 2024 produziert und bis spätestens am 28. Februar 2025 der Clearingstelle nach Artikel 45*e* der Mineralölsteuerverordnung in der Fassung vom 1. Januar 2022 gemeldet wurden, Herkunftsnachweise aus. Diese sind 60 Monate gültig.
+
+<sup>3</sup> Die Vollzugsstelle stellt für die ausländischen Zertifikate für erneuerbare Gase, welche die Clearingstelle vom 1. April 2021 bis zum 31. Dezember 2024 erfasst hat und die noch nicht verwendet wurden, Herkunftsnachweise aus. Diese sind 24 Monate gültig.
+
+<sup>4</sup> Die Vollzugsstelle stellt für die ausländischen Zertifikate für erneuerbare Gase, welche die Clearingstelle vor dem 31. März 2021 erfasst hat und die noch nicht verwendet wurden, Herkunftsnachweise aus, wenn die Eigentümerinnen und Eigentümer nachweisen, dass die geltenden ökologischen Anforderungen nach den Grundsätzen der Schweizer Gasindustrie vom 1. April 2021[^80a-4] für Biogas und andere erneuerbare Gase eingehalten wurden. Diese sind 24 Monate gültig.
+
+<sup>5</sup> Sie stellt für ausländische Zertifikate für erneuerbare Gase, die am 31. Dezember 2024 noch nicht in der Clearingstelle erfasst und deren zugrunde liegenden Stoffe zwischen dem 1. April 2021 und dem 31. Dezember 2024 produziert worden sind, Herkunftsnachweise aus, wenn die Eigentümerinnen und Eigentümer nachweisen, dass die geltenden ökologischen Anforderungen nach den Grundsätzen der Schweizer Gasindustrie für Biogas und andere erneuerbare Gase eingehalten wurden. Die Herkunftsnachweise sind ab dem Import der Zertifikate bis zum 31. Dezember 2026 gültig.
+
+[^80a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^80a-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^80a-3]: [AS 2021 589](https://www.fedlex.admin.ch/eli/oc/2021/589/de)
+[^80a-4]: [www.gazenergie.ch](https://gazenergie.ch/de/wissen/detail/knowledge-topic/3-biogas-grundsaetze/) &gt; Wissen &gt; Biogas / Erneuerbare Gase &gt; 3. Biogas-Grundsätze &gt; Biogas-Grundsätze – Basis für den Entwurf der Energieverordnung
+
+#### Art. 80b
+
+**Übergangsbestimmung zur Änderung vom 20. November 2024: Effizienzsteigerung durch Elektrizitätslieferanten**[^80b-1]
+
+<sup>1</sup> Elektrizitätslieferanten können beim BFE bis zum 30. April 2025 für Massnahmen, die sie vom 1. Januar 2022 bis zum 31. Dezember 2024 umgesetzt haben und welche die Anforderungen nach Artikel 51*b* erfüllen und keine nicht anrechenbare Massnahmen nach Artikel 51*c* sind, die Anrechenbarkeit beantragen. Früher durchgeführte Massnahmen sind nicht anrechenbar.
+
+<sup>2</sup> Werden die Massnahmen für anrechenbar erklärt, so können die damit erreichten Stromeinsparungen bis längstens der dritten Zielvorgabe nach Inkrafttreten der Änderung vom 20. November 2024 zur Erfüllung der Zielvorgaben angerechnet werden.
+
+<sup>3</sup> Lieferungen aus geltenden Verträgen von Elektrizitätslieferanten mit Endverbraucherinnen und Endverbrauchern, die von ihrem Anspruch auf Netzzugang Gebrauch gemacht haben und deren Vertragsabschluss vor dem 1. Januar 2024 liegt, sind bis zum 31. Dezember 2027 von der Berechnung des Referenzstromabsatzes ausgenommen. Die Elektrizitätslieferanten melden dem BFE die entsprechenden Lieferungen des Vorjahres jeweils bis zum 30. April.
+
+[^80b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 81
 
@@ -1686,6 +2237,271 @@ Anhang 6
   - RS<sub>AG</sub>: Rückerstattungssatz im letzten abgeschlossenen Geschäftsjahr in Prozent.
 
 - Bei vollständiger Rückerstattung nach Artikel 39 Absatz 1 des Gesetzes beträgt der Rückerstattungssatz 100 Prozent. Bei teilweiser Rückerstattung nach Artikel 39 Absatz 2 des Gesetzes ist der Rückerstattungssatz nach Ziffer 1 massgebend.
+
+Anhang 6a[^t-4]
+
+(Art. 54*a* Abs. 1 und 4 und 54*b* Abs. 1 und 3)
+
+## Förderung nach Artikel 50*a* EnG: Voraussetzungen und Beiträge
+
+[^t-4]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+
+### 1 Ersatz von Heizöl- und Erdgasheizungen und ortsfesten elektrischen Widerstandsheizungen
+
+### 1.1 Ersatz durch automatische Holzfeuerung
+
+### 1.1.1 Voraussetzungen
+
+Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Feuerungswärmeleistung der automatischen Holzfeuerung ist grösser als 70 kW.
+- b.
+
+  Die fossile Spitzenlastabdeckung der Gesamtanlage übersteigt den folgenden Anteil des jährlichen Gesamtwärmebedarfs für Heizung und Warmwasser nicht:
+
+  - − 0 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von höchstens 100 kW
+  - − 10 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von mehr als 100 kW
+
+- c. Es liegt der Nachweis vor, dass der Qualitäts-Management-Standard für Holzheizwerke[^annex6a-lvlu1-lvl1-lvl11-lvl111-1] vollständig und termingerecht angewendet wird.
+- d. Für Holzkessel bis 500 kW Nennwärmeleistung mit einem Wärmeverteilsystem liegt eine Konformitätserklärung nach Artikel 7 der Energieeffizienzverordnung vom 1. November 2017[^annex6a-lvlu1-lvl1-lvl11-lvl111-2] in Verbindung mit deren Anhang 1.20 vor.
+- e. Die automatische Holzfeuerung verfügt über eine fachgerechte Strom- und Wärmemessung.
+
+[^annex6a-lvlu1-lvl1-lvl11-lvl111-1]: Der Standard kann kostenlos bezogen werden unter: [www.qmholzheizwerke.ch](https://www.qmholzheizwerke.ch/publikationen.html) &gt; Publikationen &gt; Band 1: Q‑Leitfaden, Version 2011.
+[^annex6a-lvlu1-lvl1-lvl11-lvl111-2]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+
+### 1.1.2 Einschränkungen
+
+Es gelten folgende Einschränkungen:
+
+- a. Bei Heizsystemen mit kostendeckender Einspeisevergütung (KEV) ist ausschliesslich die Wärmeproduktion, die über die energetischen Mindestanforderungen der KEV hinausgeht, förderberechtigt.
+- b. Ist ein thermisches Netz geplant und ist durch die Gemeinde eine parzellen-scharfe, räumliche Zuteilung erfolgt, so kann der Kanton die Förderung in diesen Gebieten aussetzen.
+
+### 1.1.3 Bemessung der Beiträge und Mindestbeitrag
+
+Für die Bemessung der Beiträge gilt:
+
+- a. Die Bezugsgrösse ist die Kessel-Nennleistung in kW (thermische Nennleistung am Ausgang des Wärmeerzeugers); bei kaskadierten Heizsystemen der gleichen Technologie gilt die kumulierte Leistung.
+- b. Der Förderbeitrag wird mit maximal 50 W installierte thermische Nennleistung pro m<sup>2</sup> Energiebezugsfläche (EBF) bemessen (vor der Sanierung).
+- c. Der Mindestbeitrag beträgt:
+
+<table>
+<tr><td>für Holzfeuerungen mit einer Kessel-Nennleistung von höchstens 500 kW:</td><td>360 Fr./kW</td></tr>
+<tr><td>für Holzfeuerungen mit einer Kessel-Nennleistung von mehr als 500 kW:</td><td>80 000 Fr. + 200 Fr./kW</td></tr>
+</table>
+
+### 1.2 Ersatz durch Luft/Wasser-Wärmepumpe
+
+### 1.2.1 Voraussetzungen
+
+Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die thermische Nennleistung der Wärmepumpe ist grösser als 70 kW bei Betriebspunkt A‑7/W34 nach der Norm SN EN 14825, Juli 2022[^annex6a-lvlu1-lvl1-lvl12-lvl121-1].
+- b. Die Wärmepumpe ist eine Elektromotor-Wärmepumpe.
+- c.
+
+  Die fossile Spitzenlastabdeckung der Gesamtanlage übersteigt den folgenden Anteil des jährlichen Gesamtwärmebedarfs für Heizung und Warmwasser nicht:
+
+  - − 0 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von höchstens 100 kW
+  - − 10 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von mehr als 100 kW
+
+- d. Die Wärmepumpe verfügt über ein in der Schweiz gültiges internationales oder nationales Wärmepumpen-Gütesiegel.
+- e. Die Wärmepumpe verfügt über eine fachgerechte Strom- und Wärmemessung.
+
+[^annex6a-lvlu1-lvl1-lvl12-lvl121-1]: Die Norm SN EN 14825 vom Juli 2022 über Luftkonditionierer, Wärmepumpen und Flüssigkeitskühlsätze kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+
+### 1.2.2 Einschränkung
+
+Ist ein thermisches Netz geplant und ist durch die Gemeinde eine parzellen-scharfe, räumliche Zuteilung erfolgt, so kann der Kanton die Förderung in diesen Gebieten aussetzen.
+
+### 1.2.3 Bemessung der Beiträge und Mindestbeitrag
+
+Für die Bemessung der Beiträge gilt:
+
+- a. Die Bezugsgrösse ist die thermische Nennleistung in kW; bei kaskadierten Heizsystemen der gleichen Technologie gilt die kumulierte Leistung.
+- b. Der Förderbeitrag wird mit maximal 50 W installierte thermische Nennleistung pro m<sup>2</sup> EBF bemessen (vor der Sanierung).
+- c. Der Mindestbeitrag beträgt 3200 Fr. + 120 Fr./kW.
+
+### 1.3 Ersatz durch Sole/Wasser-Wärmepumpe oder Wasser/Wasser-Wärmepumpe
+
+### 1.3.1 Voraussetzungen
+
+Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die thermische Nennleistung der Wärmepumpe ist grösser als 70 kW beim Betriebspunkt Sole/Wasser B0/W34 oder Wasser/Wasser W10/W34 nach der Norm SN EN 14825, Juli 2022[^annex6a-lvlu1-lvl1-lvl13-lvl131-1].
+- b. Die Wärmepumpe ist eine Elektromotor-Wärmepumpe.
+- c.
+
+  Die fossile Spitzenlastabdeckung der Gesamtanlage übersteigt den folgenden Anteil des jährlichen Gesamtwärmebedarfs für Heizung und Warmwasser nicht:
+
+  - − 0 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von höchstens 100 kW
+  - − 10 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von mehr als 100 kW
+
+- d. Die Wärmepumpe nutzt eine höherwertigere Wärmequelle als Aussenluft, insbesondere Umweltwärme aus dem Untergrund, dem Grundwasser oder dem Seewasser oder Wärme aus einem Eisspeicher.
+- e. Die Wärmepumpe verfügt über ein in der Schweiz gültiges internationales oder nationales Wärmepumpen-Gütesiegel.
+- f. Bei Wärmepumpen mit Erdwärmesonden liegt ein Gütesiegel für Erdwärmesonden-Bohrfirmen vor.
+- g. Die Wärmepumpe verfügt über eine fachgerechte Strom- und Wärmemessung.
+
+[^annex6a-lvlu1-lvl1-lvl13-lvl131-1]: Die Norm SN EN 14825 vom Juli 2022 über Luftkonditionierer, Wärmepumpen und Flüssigkeitskühlsätze kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+
+### 1.3.2 Einschränkung
+
+Ist ein thermisches Netz geplant und ist durch die Gemeinde eine parzellen-scharfe, räumliche Zuteilung erfolgt, so kann der Kanton die Förderung in diesen Gebieten aussetzen.
+
+### 1.3.3 Bemessung der Beiträge und Mindestbeitrag
+
+Für die Bemessung der Beiträge gilt:
+
+- a. Die Bezugsgrösse ist die thermische Nennleistung in kW; bei kaskadierten Heizsystemen der gleichen Technologie gilt die kumulierte Leistung.
+- b. Der Förderbeitrag wird mit maximal 50 W installierte thermische Nennleistung pro m<sup>2</sup> EBF bemessen (vor der Sanierung).
+- c. Der Mindestbeitrag beträgt:
+
+<table>
+<tr><td>für Wärmepumpen mit einer thermischen Nennleistung von höchstens 500 kW:</td><td>4 800 Fr. + 360 Fr./kW</td></tr>
+<tr><td>für Wärmepumpen mit einer thermischen Nennleistung von mehr als 500 kW:</td><td>84 800 Fr. + 200 Fr./kW</td></tr>
+</table>
+
+### 1.4 Ersatz durch Anschluss an ein Wärmenetz
+
+### 1.4.1 Voraussetzungen
+
+Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die thermische Nennleistung des Anschlusses ist grösser als 70 kW.
+- b. Die bezogene Wärme stammt hauptsächlich aus erneuerbaren Energien oder Abwärme; der Mindestanteil ist durch den Kanton festzulegen.
+- c. Der Kanton stellt sicher, dass der Wärmenetzbetreiber dem Kanton die notwendigen Angaben zur Vermeidung von Doppelzählungen zur Verfügung stellt.
+
+### 1.4.2 Bemessung der Beiträge und Mindestbeitrag
+
+Für die Bemessung der Beiträge gilt:
+
+- a. Die Bezugsgrösse ist die Anschlussleistung in kW.
+- b. Der Förderbeitrag wird mit maximal 50 W Anschlussleistung pro m<sup>2</sup> EBF bemessen (vor der Sanierung).
+- c. Der Mindestbeitrag beträgt:
+
+<table>
+<tr><td>für Anschlüsse mit einer Anschlussleistung von höchstens 500 kW:</td><td>8 000 Fr. + 40 Fr./kW</td></tr>
+<tr><td>für Anschlüsse mit einer Anschlussleistung von mehr als 500 kW:</td><td>18 000 Fr. + 20 Fr./kW</td></tr>
+</table>
+
+### 2 Installation neuer Solarkollektoranlagen und Erweiterung bestehender Anlagen
+
+### 2.1 Voraussetzungen
+
+Die Installation neuer Solarkollektoranlagen und die Erweiterung bestehender Anlagen werden gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die thermische Nennleistung der Solarkollektoranlage ist grösser als 70 kW.
+- b. Die Anlage ist Teil einer Anlage für die Wärmeerzeugung mit erneuerbaren Energien, die eine Heizöl- oder Erdgasheizung oder eine ortsfeste elektrische Widerstandsheizung ersetzt.
+- c.
+
+  Die fossile Spitzenlastabdeckung der Gesamtanlage übersteigt den folgenden Anteil des jährlichen Gesamtwärmebedarfs für Heizung und Warmwasser nicht:
+
+  - − 0 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von höchstens 100 kW
+  - − 10 Prozent bei einer Gesamtanlage mit einer thermischen Nennleistung von mehr als 100 kW
+
+- d. Die Kollektoren entsprechen den Anforderungen gemäss den «Erläuterungen zur kollektorliste.ch», 12/2021[^annex6a-lvlu1-lvl2-lvl21-1].
+- e. Es liegt eine validierte Leistungsgarantie (VLG) von Swissolar/Energie Schweiz vor.
+- f. Die Anlage verfügt über eine aktive Anlagenüberwachung gemäss den Vorgaben von Swissolar[^annex6a-lvlu1-lvl2-lvl21-2].
+
+[^annex6a-lvlu1-lvl2-lvl21-1]: Die Erläuterungen zur kollektorliste.ch, 12/2021, können kostenlos bezogen werden unter: [www.ost.ch](https://www.ost.ch/de/forschung-und-dienstleistungen/technik/erneuerbare-energien-und-umwelttechnik/spf-institut-fuer-solartechnik/testing) &gt; Forschung und Dienstleistungen &gt; Technik &gt; Erneuerbare Energien und Umwelttechnik &gt; SPF Institut für Solartechnik &gt; Testing &gt; Kollektorliste.ch.
+[^annex6a-lvlu1-lvl2-lvl21-2]: Die Vorgaben können kostenlos bezogen werden unter: [www.swissolar.ch](https://www.swissolar.ch/de/wissen/planung-umsetzung/qualitaetsmanagement-solarwaerme) &gt; Wissen &gt; Planung & Umsetzung &gt; Qualitätsmanagement Solarwärme.
+
+### 2.2 Einschränkungen
+
+Von der Förderung ausgeschlossen sind:
+
+- a. Luftkollektoren;
+- b. Solarkollektoren für Schwimmbadheizungsanlagen und Heutrocknungsanlagen;
+- c. Der Ersatz von bestehenden Solarkollektoranlagen.
+
+### 2.3 Bemessung der Beiträge und Mindestbeitrag
+
+Für die Bemessung der Beiträge gilt:
+
+- a. Die Bezugsgrösse ist die thermische Nennleistung der Anlage in kW; bei Anlagenerweiterungen ist die Bezugsgrösse die zusätzliche thermische Nennleistung in kW gegenüber dem Zustand vor der Erweiterung.
+- b. Der Mindestbeitrag beträgt 2400 Franken + 1000 Fr./kW.
+
+### 3 Ersatz von dezentralen Heizöl-, Erdgas- und elektrischen Widerstandsheizungen ohne hydraulisches Wärmeverteilsystem
+
+### 3.1 Geltungsbereich
+
+Gefördert wird der Ersatz von dezentralen Heizöl-, Erdgas- und elektrischen Widerstandsheizungen ohne hydraulisches Wärmeverteilsystem durch eine mit erneuerbaren Energien betriebene Hauptheizung mit einem hydraulischen Wärmeverteilsystem.
+
+### 3.2 Voraussetzungen
+
+Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die zu ersetzende Heizung war für die Bereitstellung der nötigen Heizleistung zum Erreichen der Standard-Raumtemperatur nach Norm SIA 384.201 (2017)[^annex6a-lvlu1-lvl3-lvl32-1] unerlässlich.
+- b. Die zu ersetzende Heizung wurde zur Deckung von über 50 Prozent des jährlichen Heizwärmebedarfs des Gebäudes eingesetzt (Hauptheizung).
+- c. Es werden alle dezentralen Heizungen im Gebäude ersetzt, mit Ausnahme von Handtuchradiatoren.
+- d. Ist der Ausbau einer elektrischen Fussbodenheizung nicht möglich oder unverhältnismässig, so wird diese elektrisch dauerhaft von der Stromversorgung getrennt.
+
+[^annex6a-lvlu1-lvl3-lvl32-1]: Die Norm SIA 384.201 (2017) kann beim BFE kostenlos eingesehen oder gegen Bezahlung abgerufen werden unter www.shop.sia.ch &gt; Europäische Normen &gt; Architekt.
+
+### 3.3 Mehrfachförderung
+
+Eine gleichzeitige Förderung des Ersatzes durch kantonale Massnahmen im Rahmen des Gebäudeprogramms und durch Massnahmen nach Artikel 50*a* EnG ist zulässig.
+
+### 3.4 Bemessung der Beiträge
+
+Für die Bemessung der Beiträge gilt:
+
+- a. Die Bezugsgrösse ist die EBF in m<sup>2</sup>, die mit dem neuen hydraulischen Wärmeverteilsystems beheizt wird.
+- b. Der Beitrag beträgt:
+
+<table>
+<tr><td>für eine EBF von höchstens 250 m<sup>2</sup>:</td><td>15 000 Fr.</td></tr>
+<tr><td>für eine EBF von mehr als 250 m<sup>2</sup>:</td><td>60 Fr. pro m<sup>2</sup> EBF</td></tr>
+</table>
+
+### 4 Umfassende Verbesserung der Energieeffizienz der Gebäudehülle
+
+### 4.1 Geltungsbereich
+
+Gefördert werden:
+
+- a. umfassende Gebäudesanierungen mit Einzelmassnahmen gemäss M-01 «Wärmedämmung Fassade, Dach, Wand und Boden gegen Erdreich» des Harmonisiertem Fördermodells der Kantone 2015[^annex6a-lvlu1-lvl4-lvl41-1] (HFM 2015);
+- b. umfassende Gebäudesanierungen in umfangreichen Etappen gemäss M-10 «Verbesserung GEAK‐Klasse Gebäudehülle und Gesamtenergieeffizienz» oder M‑11 «Reduktion Heizwärme‐ und Heizenergiebedarf» des HFM 2015.
+
+[^annex6a-lvlu1-lvl4-lvl41-1]: Das HFM 2015 kann abgerufen werden unter: [www.endk.ch](https://www.endk.ch/de/dokumentation/harmonisiertes-foerdermodell-der-kantone-hfm) &gt; Dokumentation / Archiv &gt; Harmonisiertes Fördermodell der Kantone (HFM) &gt; Harmonisiertes Fördermodell der Kantone 2015.
+
+### 4.2 Voraussetzungen
+
+- 4\.2.1
+
+  Gebäudesanierungen werden gefördert, wenn eine oder mehrere der folgenden Voraussetzungen erfüllt sind:
+
+  - a. Mindestens 90 Prozent der Fassade und des Dachs, mit Ausnahme der Wand und des Bodens gegen das Erdreich, sind nach der Sanierung gemäss den Anforderungen nach M‑01 des HFM 2015 wärmegedämmt.
+  - b. Das Gebäude weist nach der Sanierung für die Gebäudehülle die GEAK-Effizienzklasse C oder B auf.
+  - c. Der Heizwärmebedarf des Gebäudes liegt nach der Sanierung unter dem Grenzwert von 150 Prozent des Grenzwerts für den Heizwärmebedarf von Neubauten gemäss den Mustervorschriften der Kantone im Energiebereich 2014 (MuKEn 2014)[^annex6a-lvlu1-lvl4-lvl42-1].
+
+- 4\.2.2. Der Kanton bestimmt, welche Gebäudesanierungen nach Ziffer 4.2.1 er fördert.
+
+[^annex6a-lvlu1-lvl4-lvl42-1]: Die MuKEn 2014 können abgerufen werden unter: [www.endk.ch](https://www.endk.ch/de/dokumentation/gebaude_muken) &gt; Dokumentation / Archiv &gt; Gebäude / MuKEn &gt; MuKEn 2014.
+
+### 4.3 Einschränkungen
+
+Es gelten folgende Einschränkungen:
+
+- a. Bei der Beurteilung, ob die Förderung gesamthaft 50 Prozent der Gesamtinvestitionskosten nicht übersteigt, ist der Förderbeitrag für die Basismassnahme M‑01, M‑10 oder M‑11 des HFM 2015 mitzuberücksichtigen.
+- b. Eine Kombination mit dem Bonus für die Gesamtenergieeffizienz M-15 des HFM 2015 ist ausgeschlossen.
+
+### 4.4 Mindestbeitrag
+
+Für die Bemessung der Beiträge gilt:
+
+- a.
+
+  Die Bezugsgrösse ist:
+
+  - − die wärmegedämmte Bauteilfläche in m<sup>2</sup>: für Gebäudesanierungen, die die Voraussetzung nach Ziffer 4.2.1 Buchstabe a erfüllen
+  - − die EBF in m<sup>2</sup>: für Gebäudesanierungen, die die Voraussetzung nach Ziffer 4.2.1 Buchstabe b oder c erfüllen
+
+- b. Der Mindestbeitrag beträgt:
+
+<table>
+<tr><td>für Gebäudesanierungen nach Ziff. 4.2.1 Bst. a:</td><td>30 Fr. pro m<sup>2</sup> wärmegedämmte Bauteilfläche</td></tr>
+<tr><td>für Gebäudesanierungen nach Ziff. 4.2.1 Bst. b und c:</td><td>30 Fr. pro m<sup>2</sup> EBF</td></tr>
+</table>
 
 Anhang 7
 
