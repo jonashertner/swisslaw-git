@@ -5,11 +5,12 @@ title: Gebührenverordnung für das Amt für Berufsbildung
 short: GebVAFB
 language: de
 version: 2025-01-01
+corrected: 2024-10-22
 version_adopted: 2024-10-15
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.180"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3472/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -54,9 +55,9 @@ von der Regierung erlassen am 5. Februar 2008
 
 #### Art. 3
 
-**Versandspesen**
+**Mehrwertsteuer und Versandspesen**
 
-<sup>1</sup> Versandspesen werden zum Rechnungsbetrag dazugeschlagen.
+<sup>1</sup> Mehrwertsteuer und Versandspesen werden zum Rechnungsbetrag dazugeschlagen.
 
 #### Art. 4
 

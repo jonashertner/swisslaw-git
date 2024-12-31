@@ -5,11 +5,12 @@ title: "Ordinaziun davart las taxas per l'uffizi per la furmaziun professiunala 
 short: OTUCFP
 language: rm
 version: 2025-01-01
+corrected: 2024-10-22
 version_adopted: 2024-10-15
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/430.180"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3472/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -54,9 +55,9 @@ relaschada da la regenza ils 5 da favrer 2008
 
 #### Art. 3
 
-**Spesas da spediziun**
+**Taglia sin la plivalur e spesas da spediziun**
 
-<sup>1</sup> Las spesas da spediziun vegnan agiuntadas a l'import dal quint.
+<sup>1</sup> La taglia sin la plivalur e las spesas da spediziun vegnan quintadas vitiers l'import dal quint.
 
 #### Art. 4
 

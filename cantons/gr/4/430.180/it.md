@@ -5,11 +5,12 @@ title: "Ordinanza sulle tasse per l'Ufficio della formazione professionale *"
 short: OTaUCFP
 language: it
 version: 2025-01-01
+corrected: 2024-10-22
 version_adopted: 2024-10-15
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/430.180"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3472/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3470/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -54,9 +55,9 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 #### Art. 3
 
-**Spese di spedizione**
+**Imposta sul valore aggiunto e spese di spedizione**
 
-<sup>1</sup> Le spese di spedizione vengono aggiunte all'importo della fattura.
+<sup>1</sup> L'imposta sul valore aggiunto e le spese di spedizione vengono aggiunte all'importo della fattura.
 
 #### Art. 4
 
