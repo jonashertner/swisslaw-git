@@ -4,13 +4,13 @@ number: "890.700"
 title: Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen
 short: "Harmonisierungsgesetz Sozialleistungen, SoHaG"
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-05-08
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2022-10-20
 adopted: 2008-06-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/890.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5347/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Harmonisierung von Sozialleistungen: Gesetz | Sozialhilfe / Sozialbeiträge
 
 (Harmonisierungsgesetz Sozialleistungen, SoHaG)
 
-Vom 25. Juni 2008 (Stand 1. Januar 2022)
+Vom 25. Juni 2008 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -114,9 +114,9 @@ beschliesst:
 - c) für die Anspruchsermittlung auf Mietzinsbeiträge gemäss § 1 Abs. 1 lit. c dieses Gesetzes
   - ca) das anrechenbare Einkommen gemäss § 7 dieses Gesetzes;
   - cb) nach § 1 Abs. 1 lit. a dieses Gesetzes bezogene Leistungen.
-  - cc) Ausbildungsbeiträge nach dem Gesetz betreffend Ausbildungsbeiträge vom 12. Oktober 1967 (nachfolgend Ausbildungsbeiträge).
-  - cd) Gemäss dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Oktober 2006 bezogene Ergänzungsleistungen (nachfolgend Ergänzungsleistungen) und gemäss dem Gesetz über die Einführung des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie über die Ausrichtung von kantonalen Beihilfen vom 11. November l987 bezogene Beihilfen (nachfolgend Beihilfen).
-  - ce) Mietzinsbeiträge gemäss Wohnbau- und Eigentumsförderungsgesetz vom 4. Oktober 1974 und dem Bundesgesetz über die Förderung von preisgünstigem Wohnraum vom 21. März 2003 (nachfolgend Mietzinsbeiträge des Bundes).
+  - cc) Ausbildungsbeiträge nach dem Gesetz betreffend Ausbildungsbeiträge vom 12. Oktober 1967[^6-2] (nachfolgend Ausbildungsbeiträge).
+  - cd) Gemäss dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) vom 6. Oktober 2006[^6-3] bezogene Ergänzungsleistungen (nachfolgend Ergänzungsleistungen) und gemäss dem Gesetz über die Einführung des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie über die Ausrichtung von kantonalen Beihilfen (EG/ELG) vom 11. November 1987[^6-4] bezogene Beihilfen (nachfolgend Beihilfen).
+  - ce) Mietzinsbeiträge gemäss Wohnbau- und Eigentumsförderungsgesetz (WEG) vom 4. Oktober 1974[^6-5] und dem Bundesgesetz über die Förderung von preisgünstigem Wohnraum (Wohnraumförderungsgesetz, WFG) vom 21. März 2003[^6-6] (nachfolgend Mietzinsbeiträge des Bundes).
 - d) für die Anspruchsermittlung auf Prämienverbilligung gemäss § 1 Abs. 1 lit. d dieses Gesetzes
   - da) das anrechenbare Einkommen gemäss § 7 dieses Gesetzes;
   - db) nach § 1 Abs. 1 lit. a bis c dieses Gesetzes bezogene Leistungen;
@@ -131,6 +131,11 @@ beschliesst:
   - ee) Mietzinsbeiträge des Bundes.
 
 [^6-1]: § 6: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern und -buchstaben.
+[^6-2]: SG [491.100](https://www.gesetzessammlung.bs.ch/data/491.100/de)
+[^6-3]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
+[^6-4]: SG [832.700](https://www.gesetzessammlung.bs.ch/data/832.700/de)
+[^6-5]: SR [843](https://db.clex.ch/link/Bund/843/de)
+[^6-6]: SR [842](https://db.clex.ch/link/Bund/842/de)
 
 #### § 7
 
@@ -172,7 +177,7 @@ beschliesst:
 
 <sup>2</sup> Sie enthält für die Haushaltseinheit in ihrer Gesamtheit sowie die einzelnen darunter fallenden Personen mindestens die Daten zu den folgenden Identifikatoren und Merkmalen:
 
-- a) Versichertennummer gemäss Art. 92a[^10-1] des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946;
+- a) Versichertennummer gemäss Art. 92a[^10-1] des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^10-2];
 - b) Name und Vorname;
 - c) Wohnadresse;
 - d) Geburtsdatum;
@@ -192,6 +197,7 @@ beschliesst:
 <sup>4</sup> Der Regierungsrat regelt den Prozess der Datenlieferung der beteiligten Durchführungsorgane an die zentrale Datenbank.
 
 [^10-1]: § 10 Abs. 1 lit. a: Dieser Artikel ist aufgehoben. Massgeblich ist jetzt Art. 50c.
+[^10-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
 #### § 11
 
@@ -288,7 +294,9 @@ beschliesst:
 
 **Bekanntgabe von Personendaten**
 
-<sup>1</sup> Die Bekanntgabe von in der zentralen Datenbank gemäss § 9 dieses Gesetzes enthaltenen Personendaten richtet sich nach dem Gesetz über die Information und den Datenschutz vom 9. Juni 2010 (nachfolgend IDG).
+<sup>1</sup> Die Bekanntgabe von in der zentralen Datenbank gemäss § 9 dieses Gesetzes enthaltenen Personendaten richtet sich nach dem Gesetz über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010[^22-1].
+
+[^22-1]: SG [153.260](https://www.gesetzessammlung.bs.ch/data/153.260/de)
 
 #### § 23
 
@@ -314,13 +322,16 @@ beschliesst:
 
 **Bekanntgabe von Daten aus der zentralen Datenbank für statistische und weitere nicht personenbezogene Zwecke**
 
-<sup>1</sup> Die Bekanntgabe von Daten an die zentrale Statistikstelle des Kantons richtet sich nach den Bestimmungen des Gesetzes über die öffentliche Statistik (StatG) vom 21. Mai 2014.
+<sup>1</sup> Die Bekanntgabe von Daten an die zentrale Statistikstelle des Kantons richtet sich nach den Bestimmungen des Gesetzes über die öffentliche Statistik (StatG) vom 21. Mai 2014[^25-1].
 
-<sup>2</sup> Die Bekanntgabe von Daten für einen nicht personenbezogenen Zweck, namentlich für Planung, Wissenschaft und Forschung, an andere öffentliche Organe im Kanton sowie an öffentliche Organe in anderen Kantonen oder des Bundes richtet sich nach § 22 IDG.
+<sup>2</sup> Die Bekanntgabe von Daten für einen nicht personenbezogenen Zweck, namentlich für Planung und Forschung, an andere öffentliche Organe im Kanton sowie an öffentliche Organe in anderen Kantonen oder des Bundes richtet sich nach § 22 des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010[^25-2].
 
-<sup>3</sup> Die Bekanntgabe von Daten an Private kann zum Zweck der Wissenschaft und Forschung ausschliesslich in anonymisierter Form erfolgen.
+<sup>3</sup> Die Bekanntgabe von Daten an Private kann zum Zweck der Forschung ausschliesslich in anonymisierter Form erfolgen.
 
 <sup>4</sup> Anfragen für die Bekanntgabe von Daten sind an das für die zentrale Datenbank zuständige Organ gemäss § 13 dieses Gesetzes zu richten.
+
+[^25-1]: SG [453.200](https://www.gesetzessammlung.bs.ch/data/453.200/de)
+[^25-2]: SG [153.260](https://www.gesetzessammlung.bs.ch/data/153.260/de)
 
 #### § 26
 
