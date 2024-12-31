@@ -4,7 +4,7 @@ number: "963.15"
 title: "LOI du 02.03.2010 sur le service de défense contre l'incendie et de secours (LSDIS)"
 short: LSDIS
 language: fr
-version: 2020-02-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15?id=dc52e66b-a4d0-4b22-9cca-46a5f68a6f1a"
 ---
 
@@ -44,10 +44,11 @@ décrète
 
 - a. les exigences déterminant les moyens à mettre en œuvre pour les premières interventions en matière de défense contre l'incendie et de secours, destinées à garantir une efficacité uniforme sur l'ensemble du territoire cantonal (ci-après : standard de sécurité SDIS) ;
 - b. les exigences déterminant les moyens à mettre en œuvre pour les missions en matière de lutte contre les pollutions et les événements impliquant des hydrocarbures, des produits chimiques ou radioactifs ou d'autres éléments relevant de la sécurité biologique (ci-après : standard de sécurité ABC).
+- c. les exigences déterminant les moyens à mettre en œuvre pour les missions en matière de lutte contre les incendies de forêt (ci-après : standard de sécurité IF).
 
-<sup>4</sup> Sur la base des standards de sécurité SDIS et ABC, le canton est divisé en secteurs d'intervention.
+<sup>4</sup> Sur la base des standards de sécurité cantonaux, le canton est divisé en secteurs d'intervention.
 
-[^1-1]: Modif. 2 du 26.11.2019: Modification Al. 3; entrée en vigueur au 01.02.2020; Introduction Al. 3, a-b; entrée en vigueur au 01.02.2020; Introduction Al. 4; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Al. 3, c; entrée en vigueur au 01.01.2025; Modification Al. 4; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^1-1]: Modif. 2 du 26.11.2019: Modification Al. 3; entrée en vigueur au 01.02.2020; Introduction Al. 3, a-b; entrée en vigueur au 01.02.2020; Introduction Al. 4; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Al. 3, c; entrée en vigueur au 01.01.2025; Modification Al. 4; entrée en vigueur au 01.01.2025
 
 ## Titre II Autorités compétentes
 
@@ -57,24 +58,25 @@ décrète
 
 <sup>1</sup> Le Conseil d'Etat exerce la haute surveillance sur la défense contre l'incendie et les secours dans le canton.
 
-<sup>2</sup> Il définit les standards de sécurité SDIS et ABC et en fixe les critères par voie d'arrêté.
+<sup>2</sup> Il définit les standards de sécurité cantonaux et en fixe les critères par voie d'arrêté.
 
 <sup>3</sup> Il conclut les accords intercantonaux de collaboration ou de regroupement en matière de défense incendie et de secours.
 
-[^titleTitreII-1]: Modif. 2 du 26.11.2019: Modification Al. 2; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Modification Al. 2; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^titleTitreII-1]: Modif. 2 du 26.11.2019: Modification Al. 2; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Modification Al. 2; entrée en vigueur au 01.01.2025
 
 #### Art. 3a
 
-**Département [^3-1]**
+**Départements [^3-1]**
 
-<sup>1</sup> Le département en charge de la protection de l'environnement et de la protection des eaux (ci-après : le département)[^3a-1] est compétent en matière de prévention et de lutte contre les cas accidentels de pollution, notamment par les hydrocarbures, les produits chimiques ou les produits radioactifs (ci-après : les cas de pollution).
+<sup>1</sup> Le département en charge de la protection de l'environnement et de la protection des eaux (ci-après : le département en charge de la lutte contre les cas de pollution) est compétent en matière de prévention et de lutte contre les cas accidentels de pollution, notamment par les hydrocarbures, les produits chimiques ou les produits radioactifs (ci-après : les cas de pollution).
 
-[^3-1]: Modif. 1 du 06.05.2014: Introduction Art. 3a; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 2; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
-[^3a-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+<sup>2</sup> Le département en charge des forêts (ci-après : le département en charge de la lutte contre les incendies de forêt) est compétent en matière de prévention et de lutte contre les incendies de forêt.
+
+[^3-1]: Modif. 1 du 06.05.2014: Introduction Art. 3a; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 2; entrée en vigueur au 01.01.2025
 
 #### Art. 4
 
-**Etablissement d'assurance contre l'incendie et les éléments naturels du Canton de Vaud [^3a-2]**
+**Etablissement d'assurance contre l'incendie et les éléments naturels du Canton de Vaud [^3a-1]**
 
 <sup>1</sup> Sous réserve de celles que la législation cantonale attribue expressément au Conseil d'Etat, aux départements ou à d'autres autorités, les compétences du canton en matière de défense contre l'incendie et les dangers résultant des éléments naturels sont exercées par l'Etablissement d'assurance contre l'incendie et les éléments naturels du Canton de Vaud (ECA).
 
@@ -90,11 +92,11 @@ décrète
 
 <sup>7</sup> L'ECA définit les exigences en matière de formation. Il fixe le programme annuel des cours cantonaux de formation de base et des formations complémentaires nécessaires à l'exercice d'une fonction et peut prévoir des exercices d'alarme et d'engagement. Il en assure l'organisation.
 
-<sup>8</sup> Le Conseil d'Etat peut déléguer à l'ECA des tâches d'organisation et de gestion relatives à la mission de lutte contre les cas de pollution.
+<sup>8</sup> Le Conseil d'Etat peut déléguer à l'ECA des tâches d'organisation et de gestion relatives à la mission de lutte contre les cas de pollution et à la mission de lutte contre les incendies de forêt, moyennant prise en charge des coûts correspondants.
 
-<sup>9</sup> Le principe et les modalités de cette délégation sont arrêtés dans un règlement.
+<sup>9</sup> Le principe et les modalités de ces délégations sont arrêtés par voie réglementaire.
 
-[^3a-2]: Modif. 1 du 06.05.2014: Introduction Al. 8,9; entrée en vigueur au 01.09.2014 · Modif. 2 du 26.11.2019: Modification Al. 3; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification Al. 8-9; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^3a-1]: Modif. 1 du 06.05.2014: Introduction Al. 8,9; entrée en vigueur au 01.09.2014 · Modif. 2 du 26.11.2019: Modification Al. 3; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Modification Al. 8-9; entrée en vigueur au 01.01.2025
 
 #### Art. 5
 
@@ -102,11 +104,11 @@ décrète
 
 <sup>1</sup> Au début de chaque législature, le Conseil d'Etat nomme une commission consultative en matière de défense incendie et de secours composée de cinq à dix membres rééligibles.
 
-<sup>2</sup> La commission donne son avis sur les projets de prescription en matière de défense contre l'incendie et de secours ou sur toute autre question que le Conseil d'Etat ou le chef de département estime opportun de lui soumettre.
+<sup>2</sup> La commission donne son avis sur les projets de prescriptions en matière de défense contre l'incendie et de secours ou sur toute autre question que le Conseil d'Etat ou les chefs de département estiment opportun de lui soumettre.
 
 <sup>3</sup> La commission est convoquée au minimum une fois par année.
 
-[^4-1]: Modif. 2 du 26.11.2019: Modification Al. 1; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification Al. 2; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^4-1]: Modif. 2 du 26.11.2019: Modification Al. 1; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Modification Al. 2; entrée en vigueur au 01.01.2025
 
 #### Art. 6
 
@@ -116,8 +118,8 @@ décrète
 
 <sup>2</sup> Les communes ont les attributions suivantes :
 
-- a. l'incorporation des sapeurs-pompiers ; elles prennent à cet égard toute mesure nécessaire pour que le SDIS couvrant leur territoire soit suffisamment doté en personnel au regard des standards de sécurité SDIS et ABC ;
-- b. la gestion et l'entretien des équipements, du matériel, des véhicules et des locaux nécessaires au service selon les standards de sécurité SDIS et ABC ;
+- a. l'incorporation des sapeurs-pompiers ; elles prennent à cet égard toute mesure nécessaire pour que le SDIS couvrant leur territoire soit suffisamment doté en personnel au regard des standards de sécurité cantonaux;
+- b. la gestion et l'entretien des équipements, du matériel, des véhicules et des locaux nécessaires au service selon les standards de sécurité cantonaux;
 - c. la prise des mesures nécessaires pour que chaque sapeur-pompier :
 - - puisse être mis sur pied rapidement par l'intermédiaire du CTA,
 - - soit correctement équipé et instruit,
@@ -125,7 +127,7 @@ décrète
 
 <sup>3</sup> Les communes peuvent confier à l'organisation régionale à laquelle elles sont rattachées tout ou partie de leurs attributions.
 
-[^5-1]: Modif. 2 du 26.11.2019: Modification Al. 2, a-b; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification Al. 2, a-b; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^5-1]: Modif. 2 du 26.11.2019: Modification Al. 2, a-b; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Modification Al. 2, a-b; entrée en vigueur au 01.01.2025
 [^6-1]: Loi du 28.02.1956 sur les communes ([BLV 175.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.11?id=3f4231f9-d36c-4911-9d48-e38c0f18ad3c))
 
 ## Titre III Obligations des communes
@@ -134,9 +136,9 @@ décrète
 
 **Sécurité [^titleTitreIII-1]**
 
-<sup>1</sup> Dans le cadre des compétences qui leur sont attribuées, les communes sont responsables sur leur territoire du respect des exigences fixées par les standards de sécurité SDIS et ABC.
+<sup>1</sup> Dans le cadre des compétences qui leur sont attribuées, les communes sont responsables sur leur territoire du respect des exigences fixées par les standards de sécurité cantonaux.
 
-[^titleTitreIII-1]: Modif. 2 du 26.11.2019: Modification Al. 1; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^titleTitreIII-1]: Modif. 2 du 26.11.2019: Modification Al. 1; entrée en vigueur au 01.02.2020 · Modif. 3 du 01.10.2024: Modification Al. 1; entrée en vigueur au 01.01.2025
 
 #### Art. 8
 
@@ -208,15 +210,15 @@ décrète
 
 #### Art. 15a
 
-**Lutte contre les cas de pollution [^15-1]**
+**Lutte contre les cas de pollution et les incendies de forêt [^15-1]**
 
-<sup>1</sup> En accord avec l'ECA, le département désigne les sites opérationnels des DPS auxquels les missions de lutte contre les cas de pollution sont attribuées.
+<sup>1</sup> En accord avec l'ECA, chaque département désigne, pour son domaine de compétence, les sites opérationnels des DPS auxquels les missions de lutte contre les cas de pollution ou contre les incendies de forêts sont attribués.
 
-<sup>2</sup> En accord avec l'ECA, le département fixe le périmètre des secteurs d'intervention des sites opérationnels désignés selon l'alinéa premier.
+<sup>2</sup> En accord avec l'ECA, chaque département fixe le périmètre des secteurs d'intervention des sites opérationnels désignés selon l'alinéa premier.
 
-<sup>3</sup> Les normes applicables en matière d'organisation, de formation, d'équipement, de matériel et de véhicules nécessaires à ces missions sont fixées dans un règlement.
+<sup>3</sup> Les normes applicables en matière d'organisation, de formation, d'équipement, de matériel et de véhicules nécessaires à ces missions sont fixées dans des règlements.
 
-[^15-1]: Modif. 1 du 06.05.2014: Introduction Art. 15a; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1-3; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^15-1]: Modif. 1 du 06.05.2014: Introduction Art. 15a; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1-3; entrée en vigueur au 01.01.2025
 
 ## Titre V Effectif
 
@@ -248,18 +250,17 @@ décrète
 
 #### Art. 19
 
-**[^titleTitreVI-1]**
+**Devoirs et sanction [^titleTitreVI-1]**
 
 <sup>1</sup> Quiconque aperçoit un incendie ou un autre événement générateur d'un danger sérieux pour l'homme ou son environnement doit en avertir immédiatement les secours.
 
 <sup>2</sup> Jusqu'à l'arrivée des secours et en cas de besoin après leur arrivée, toute personne se trouvant sur place ou qui en est requise a l'obligation de coopérer à l'intervention.
 
-<sup>3</sup> Celui qui, notamment en violant les obligations définies aux alinéas 1 et 2 ci-dessus, entrave l'action des services de défense contre l'incendie et de secours est passible de l'amende. La poursuite a lieu conformément à la loi sur les contraventions du 18 novembre 1969 (LContr) [^19-1] .
+<sup>3</sup> Celui qui, notamment en violant les obligations définies aux alinéas 1 et 2 ci-dessus, entrave l'action des services de défense contre l'incendie et de secours est passible de l'amende. La poursuite a lieu conformément à la loi sur les contraventions du 19 mai 2009 (LContr).
 
 <sup>4</sup> Dès leur arrivée, les sapeurs-pompiers et les personnes qui collaborent à l'intervention peuvent prendre toutes les mesures commandées par les circonstances. Ils sont habilités notamment à requérir le concours de tiers, à pénétrer sur des biens-fonds publics ou privés ou en interdire l'accès, à réquisitionner du matériel, des véhicules, des engins ou des aéronefs, des locaux ou des établissements publics.
 
-[^titleTitreVI-1]: Modif. 1 du 06.05.2014: Modification Al. 4; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
-[^19-1]: Loi du 19.05.2009 sur les contraventions ([BLV 312.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.11?id=1b6bc951-dbb8-4926-aae9-8e0fdcc46bc3))
+[^titleTitreVI-1]: Modif. 1 du 06.05.2014: Modification Al. 4; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 3; entrée en vigueur au 01.01.2025
 
 ## Titre VII Charges et financement
 
@@ -298,33 +299,61 @@ décrète
 
 #### Art. 22a
 
-**Subventions aux SDIS en matière de lutte contre les cas de pollution [^22-1]**
+**Subventions aux SDIS en matière de lutte contre les cas de pollution et les incendies de forêt [^22-1]**
 
-<sup>1</sup> Le département octroie, à titre d'indemnités, pour couvrir les frais liés à l'accomplissement de la mission de lutte contre les cas de pollution :
+<sup>1</sup> Le département en charge de la lutte contre les cas de pollution et le département en charge de la lutte contre les incendies de forêt octroient chacun une subvention pour couvrir les frais liés à l'accomplissement de la mission de lutte contre les cas de pollution, respectivement de lutte contre les incendies de forêt :
 
 - a. une subvention, sous forme de prestations pécuniaires ou d'avantages économiques, afin de financer la formation des membres des SDIS désignés au sens de l'article 15a ;
 - b. une subvention, sous forme de prestations pécuniaires ou d'avantages économiques, afin de financer le fonctionnement de ces entités ;
 - c. une subvention, sous forme de prestations pécuniaires ou d'avantages économiques, afin de financer l'équipement de ces entités.
 
-<sup>2</sup> Les modalités de cette prise en charge sont fixées dans un règlement.
+<sup>2</sup> Les modalités de ces prises en charge sont fixées dans des règlements.
 
-<sup>3</sup> La subvention est octroyée à l'ECA, qui se charge d'en faire bénéficier les SDIS désignés. Elle est octroyée pour cinq ans au maximum par convention spécifique entre le département et l'ECA. Elle peut être renouvelée.
+<sup>3</sup> Les subventions sont octroyées pour cinq ans au maximum, par convention spécifique pour chacun des domaines, entre le département compétent et l'ECA. Chaque convention en arrête le montant sur la base d'un budget détaillé de l'activité déployée par l'ECA dans chaque domaine. Chaque convention peut être renouvelée.
 
-<sup>4</sup> La convention fixe notamment les buts de l'octroi de la subvention, les activités pour lesquelles elle est octroyée, ainsi que les charges et conditions auxquelles elle est subordonnée. Le département effectue annuellement la procédure de suivi et de contrôle de la subvention.
+<sup>4</sup> Chaque convention fixe notamment les buts de l'octroi des subventions, les activités pour lesquelles elle est octroyée ainsi que les charges et conditions auxquelles elle est subordonnée. Chacun des départements effectue annuellement la procédure de suivi et de contrôle de la subvention qu'il octroie.
 
-[^22-1]: Modif. 1 du 06.05.2014: Introduction Art. 22a; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1-4; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^22-1]: Modif. 1 du 06.05.2014: Introduction Art. 22a; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Modification tArt; entrée en vigueur au 01.01.2025; Modification Al. 1-4; entrée en vigueur au 01.01.2025
 
 #### Art. 22b
 
 **Autres frais en matière de lutte contre les cas de pollution [^22a-1]**
 
-<sup>1</sup> Les frais d'intervention, d'assainissement et des autres mesures de lutte contre les cas de pollution, ainsi que les frais liés à la prévention d'un danger de pollution, sont mis à la charge de ceux qui en sont la cause, par décision du département.
+<sup>1</sup> Les frais d'intervention, d'assainissement et des autres mesures de lutte contre les cas de pollution, ainsi que les frais liés à la prévention d'un danger de pollution, sont mis à la charge de ceux qui en sont la cause, par décision du département en charge de la lutte contre les cas de pollution.
 
 <sup>2</sup> Les personnes qui subissent un dommage du fait d'une intervention en matière de lutte contre les cas de pollution peuvent en réclamer la réparation à l'Etat, à moins qu'elles n'aient causé elles-mêmes cette intervention. Les prétentions à l'égard de ceux qui ont causé la pollution, au sens de l'alinéa 1 ci-dessus, sont réservées.
 
 <sup>3</sup> Les avances de frais faites par l'Etat lui sont remboursées. Les dépenses occasionnées par l'intervention des services publics sont facturées sur la base d'un tarif établi par le Conseil d'Etat.
 
-[^22a-1]: Modif. 1 du 06.05.2014: Introduction Art. 22b; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Introduction Art. 2, Al. 3, c; entrée en vigueur au 01.01.2025; Introduction Art. 3a, Al. 2; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Art. 22c; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
+[^22a-1]: Modif. 1 du 06.05.2014: Introduction Art. 22b; entrée en vigueur au 01.09.2014 · Modif. 3 du 01.10.2024: Modification Al. 1; entrée en vigueur au 01.01.2025
+
+#### Art. 22c
+
+**Autres frais en matière de lutte contre les incendies de forêt [^22b-1]**
+
+<sup>1</sup> En cas d'incendie de forêt, les frais d'intervention, de remise en état et des autres mesures sont mis à la charge de ceux qui en sont la cause, par décision du département en charge de la lutte contre les incendies de forêt.
+
+<sup>2</sup> Lorsque tel ne peut pas être le cas, parce que le responsable de l'incendie ne peut pas être identifié ou pour d'autres motifs, les frais sont assumés par l'Etat.
+
+<sup>3</sup> Lorsqu'ils concernent une intervention dans une forêt appartenant à une collectivité publique ou la remise en état d'une forêt appartenant à une collectivité publique, les frais peuvent être mis à la charge de cette collectivité publique à raison de 30% au maximum.
+
+<sup>4</sup> Les personnes qui subissent un dommage du fait d'une intervention en matière de lutte contre les incendies de forêt peuvent en réclamer la réparation à l'Etat, à moins qu'elles n'aient causé elles-mêmes cette intervention. Les prétentions à l'égard de ceux qui ont causé l'incendie, au sens de l'alinéa 1 ci-dessus, sont réservées.
+
+<sup>5</sup> Les avances de frais faites par l'Etat lui sont remboursées. Les dépenses occasionnées par l'intervention des services publics sont facturées sur la base d'un tarif établi par le Conseil d'Etat.
+
+[^22b-1]: Modif. 3 du 01.10.2024: Introduction Art. 22c; entrée en vigueur au 01.01.2025
+
+#### Art. 22d
+
+**Autres subventions en matière de lutte contre les cas de pollution et les incendies de forêt [^22c-1]**
+
+<sup>1</sup> Le département en charge de la lutte contre les cas de pollution et le département en charge de la lutte contre les incendies de forêt octroient chacun une subvention à l'ECA, afin de contribuer aux coûts de fonctionnement occasionnés par les tâches déléguées au sens de l'article 4, alinéa 8.
+
+<sup>2</sup> Les subventions sont octroyées pour cinq ans au maximum, par convention spécifique pour chacun des domaines, entre le département compétent et l'ECA. Chaque convention en arrête le montant sur la base d'un budget détaillé de l'activité déployée par l'ECA dans chaque domaine. Chaque convention peut être renouvelée.
+
+<sup>3</sup> Chaque convention fixe notamment les buts de l'octroi des subventions, les activités pour lesquelles elle est octroyée ainsi que les charges et conditions auxquelles elle est subordonnée. Chacun des départements effectue annuellement la procédure de suivi et de contrôle de la subvention qu'il octroie.
+
+[^22c-1]: Modif. 3 du 01.10.2024: Introduction tArt; entrée en vigueur au 01.01.2025; Introduction Al. 1-3; entrée en vigueur au 01.01.2025; Introduction Art. 22d; entrée en vigueur au 01.01.2025
 
 ## Titre VIII Dispositions finales et transitoires
 
