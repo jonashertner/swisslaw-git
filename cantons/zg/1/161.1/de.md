@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Zivil- und Strafrechtspflege
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2025-01-01
-valid_until: 2025-01-02
-version_adopted: 2024-01-25
+version: 2025-01-03
+valid_until: 2025-10-16
+version_adopted: 2024-08-29
 adopted: 2010-08-26
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2552/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2673/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,23 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2552/pdf_file"
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 26. August 2010 (Stand 1. Januar 2025)
+Vom 26. August 2010 (Stand 3. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf
-
-• Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1],
-
-•Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2],
-
-• Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3],
-
-• Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4],
-
-• Art. 13 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-5]
-
-• § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-6],
+gestützt auf Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1], auf Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2], auf Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3], auf Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4], auf Art. 13 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-5] sowie auf § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-6],
 
 beschliesst:
 
@@ -99,7 +87,7 @@ beschliesst:
 
 <sup>1</sup> Die Justizbehörden prüfen ihre Zuständigkeit von Amtes wegen.
 
-<sup>2</sup> Das Plenum des Obergerichts entscheidet endgültig über Kompetenzkonflikte zwischen seinen Abteilungen.
+<sup>2</sup> Das Plenum des Obergerichts entscheidet endgültig über Kompetenzkonflikte zwischen seinen Abteilungen. Über alle übrigen Kompetenzkonflikte entscheidet endgültig die Justizverwaltungsabteilung des Obergerichts.
 
 #### § 6
 
@@ -107,13 +95,17 @@ beschliesst:
 
 <sup>1</sup> Eingaben oder Zahlungen an eine unzuständige kantonale oder gemeindliche Behörde sind von Amtes wegen und unter Mitteilung an die Absenderin oder den Absender an die zuständige Justizbehörde weiterzuleiten.
 
-<sup>2</sup> Für die Einhaltung der Frist ist der Zeitpunkt der Einreichung an die unzuständige Behörde massgebend.
+<sup>2</sup> …
 
 #### § 7
 
 **Verfahrenssprache**
 
 <sup>1</sup> Die Verfahrenssprache ist Deutsch.
+
+<sup>2</sup> Zivilverfahren können mit dem Einverständnis des jeweiligen Spruchkörpers ganz oder teilweise in den in Art. 129 Abs. 2 und Art. 251a Abs. 2 ZPO[^7-1] vorgesehenen Sprachen geführt werden. Ein Anspruch der Parteien, das Verfahren in einer anderen Sprache als Deutsch zu führen, besteht nicht.
+
+[^7-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### § 8
 
@@ -143,9 +135,9 @@ beschliesst:
 
 **Sitz, Ort der Verfahrenshandlungen**
 
-<sup>1</sup> Der Sitz der Justizbehörden ist Zug. Die Friedensrichterämter haben ihren Sitz in ihrer oder der gemäss § 37 festgelegten Gemeinde.
+<sup>1</sup> Der Sitz der Justizbehörden ist Zug. Die Friedensrichterämter haben ihren Sitz in ihrer oder der gemäss § 37b festgelegten Gemeinde.
 
-<sup>2</sup> Die Justizbehörden nehmen die Verfahrenshandlungen grundsätzlich an ihrem Sitz vor und halten Sitzungen in den ihnen zugewiesenen Räumlichkeiten ab.
+<sup>2</sup> Die Justizbehörden nehmen die Verfahrenshandlungen grundsätzlich an ihrem Sitz vor und halten Sitzungen in den ihnen zugewiesenen Räumlichkeiten ab. Mit Einverständnis des jeweiligen Spruchkörpers ist bei Beratungen eine virtuelle Teilnahme mittels elektronischer Mittel zur Ton- und Bildübertragung, insbesondere mittels Videokonferenz, möglich.
 
 <sup>3</sup> Die Verfahrens- oder Prozessleitung kann aus sachlichen Gründen einen andern Verhandlungsort festlegen.
 
@@ -153,7 +145,7 @@ beschliesst:
 
 **Sitzungen**
 
-<sup>1</sup> Die Mitglieder von Justizbehörden haben an allen Sitzungen des Plenums oder von Spruchkörpern teilzunehmen und ihre Stimme abzugeben. Die Protokollführerin bzw. der Protokollführer nimmt mit beratender Stimme teil.
+<sup>1</sup> Die Mitglieder von Justizbehörden haben an allen Sitzungen des Plenums oder von Spruchkörpern teilzunehmen und ihre Stimme abzugeben. Bei Sitzungen des Plenums nimmt die Generalsekretärin oder der Generalsekretär bzw. die Kanzleivorsteherin oder der Kanzleivorsteher mit beratender Stimme teil. Bei Sitzungen des gerichtlichen Spruchkörpers nimmt eine Gerichtsschreiberin bzw. ein Gerichtsschreiber mit beratender Stimme teil.
 
 <sup>2</sup> Ist eine Teilnahme ausnahmsweise aus zwingenden Gründen nicht möglich, so haben die Mitglieder dies der Verfahrensleitung bzw. Prozessleitung rechtzeitig mitzuteilen.
 
@@ -206,9 +198,9 @@ beschliesst:
 
 #### § 15
 
-**Wahl - Ordentliche Mitglieder und Ersatzmitglieder**
+**Wahl der Mitglieder und Ersatzmitglieder**
 
-<sup>1</sup> Das Volk wählt die ordentlichen Mitglieder und Ersatzmitglieder der Gerichte.
+<sup>1</sup> Das Volk wählt die Mitglieder und Ersatzmitglieder der Gerichte.
 
 <sup>2</sup> Der Kantonsrat wählt die Präsidentin oder den Präsidenten aus den Mitgliedern des betreffenden Gerichts.
 
@@ -222,7 +214,7 @@ beschliesst:
 - b) für die Dauer der Verhinderung, wenn eine voll- oder teilamtliche Richterin oder ein voll- oder teilamtlicher Richter infolge Krankheit oder aus anderen Gründen voraussichtlich für mehrere Monate an der Ausübung des Amtes verhindert sein wird;
 - c) für die Dauer von höchstens zwei Jahren, wenn ein Gericht wegen einer ausserordentlichen Zunahme der Arbeitslast nicht mehr in der Lage ist, seine Aufgaben innert angemessener Frist zu erfüllen.
 
-<sup>2</sup> Gerichtsschreiberinnen und Gerichtsschreiber sind in diesen Fällen als Ersatzmitglieder wählbar.
+<sup>2</sup> Wählbar sind die in schweizerischen Angelegenheiten Stimmberechtigten.
 
 ### 2.1.2. Obergericht
 
@@ -237,7 +229,7 @@ beschliesst:
 - c) Beschwerdeabteilung;
 - d) Justizverwaltungsabteilung.
 
-<sup>2</sup> Es kann in der Geschäftsordnung weitere Zivil-, Straf- und Beschwerdeabteilungen sowie innerhalb der Abteilungen Kammern bilden, wenn die Arbeitslast es erfordert. In den Kammern führen die Präsidien der jeweiligen Abteilung den Vorsitz.
+<sup>2</sup> Es kann in der Geschäftsordnung weitere Zivil-, Straf- und Beschwerdeabteilungen sowie innerhalb der Abteilungen Kammern bilden. In den Kammern führen die Präsidien der jeweiligen Abteilung den Vorsitz.
 
 <sup>3</sup> Es wählt seine Vizepräsidentin bzw. seinen Vizepräsidenten (Vizepräsidium) und bestimmt die Präsidien und Mitglieder der Abteilungen.
 
@@ -323,22 +315,26 @@ beschliesst:
 
 **Einzelrichterinnen und Einzelrichter**
 
-<sup>1</sup> Die Einzelrichterinnen und Einzelrichter sind in den vom Abteilungspräsidium zugewiesenen Fällen an dessen Stelle abschliessend zur Verfahrensleitung bzw. zur Prozessleitung zuständig. Ihnen stehen alle Befugnisse zu, die nach den Prozessordnungen der Präsidentin oder dem Präsidenten des Gerichts zustehen.
+<sup>1</sup> Die Einzelrichterinnen und Einzelrichter sind in den ihnen vom Abteilungspräsidium zugewiesenen Fällen an dessen Stelle abschliessend für die Verfahrens- bzw. Prozessleitung zuständig.
 
-<sup>2</sup> Sie entscheiden als Rechtsmittelinstanz
+<sup>2</sup> Sie entscheiden zudem
 
 - a) in den Fällen, in welchen die Prozessordnungen dies ausdrücklich vorsehen;
 - b) über Nichteintreten auf offensichtlich unzulässige Rechtsmittel;
 - c) über Nichteintreten auf Rechtsmittel, die offensichtlich keine hinreichende Begründung enthalten;
-- d) über Nichteintreten auf Rechtsmittel, die nach Ablauf der Rechtsmittelfrist eingereicht wurden;
-- e) über Nichteintreten auf offensichtlich querulatorische oder rechtsmissbräuchliche Rechtsmittel;
-- f) über die Erledigung des Verfahrens bei Rückzug des Rechtsmittels.
+- d) über Nichteintreten auf Rechtsmittel, die nach Ablauf der Rechtsmittelfrist eingereicht wurden, oder bei fehlender Berufungserklärung;
+- e) über Nichteintreten auf querulatorische oder rechtsmissbräuchliche Ausstandsgesuche und Rechtsmittel;
+- f) über die Erledigung des Verfahrens zufolge Rückzugs, Anerkennung, Vergleichs oder Gegenstandslosigkeit;
+- g) über die Erledigung des Verfahrens wegen Nichtleistung von Kostenvorschüssen oder Sicherheiten für die Parteientschädigung;
+- h) über die Gewährung der unentgeltlichen Rechtspflege;
+- i) über die aufschiebende Wirkung und die vorzeitige Vollstreckung;
+- j) über die Anordnung vorsorglicher Massnahmen.
 
-<sup>3</sup> Sie entscheiden über die Anordnung vorsorglicher Massnahmen nach Art. 5 Abs. 2 ZPO.
+<sup>3</sup> …
 
-<sup>4</sup> Sie entscheiden für das Obergericht über die unentgeltliche Rechtspflege im Rechtsmittelverfahren.
+<sup>4</sup> …
 
-<sup>5</sup> Das Präsidium der Abteilung entscheidet endgültig über die aufschiebende Wirkung.
+<sup>5</sup> …
 
 #### § 24
 
@@ -404,23 +400,23 @@ beschliesst:
 
 **Einzelrichterinnen und Einzelrichter**
 
-<sup>1</sup> Die Prozessleitung einschliesslich der Anordnung von Schriftenwechsel und der Beweisabnahme von Amtes wegen, der Verfahrensvereinigung (Art. 73 Abs. 2 ZPO) sowie der Durchführung von Beweisverfahren und Instruktionsverhandlungen vor der Hauptverhandlung, der vorsorglichen Beweisführung (Art. 158 ZPO) und der Anordnung vorsorglicher Massnahmen (Art. 261 ff. ZPO), obliegt den Einzelrichterinnen und Einzelrichtern. Die Geschäftsordnung regelt die Zuweisung der Fälle.
+<sup>1</sup> Die Prozessleitung, die Beweisabnahme sowie die Durchführung von Einigungsverhandlungen und Instruktionsverhandlungen obliegen den Einzelrichterinnen und Einzelrichtern. Die Geschäftsordnung regelt die Zuweisung der Fälle.
 
-<sup>2</sup> Die Einzelrichterinnen und Einzelrichter beurteilen bzw. sind zuständig für
+<sup>2</sup> Die Einzelrichterinnen und Einzelrichter entscheiden
 
-- a) Leistungsklagen, unbezifferte Forderungsklagen, Gestaltungsklagen und Feststellungsklagen im ordentlichen Verfahren mit einem Streitwert bis 30’000 Franken;
-- b) vermögensrechtliche Streitigkeiten im vereinfachten Verfahren (Art. 243 ff. ZPO);
-- c) Streitigkeiten im summarischen Verfahren;
-- d) Scheidungen auf gemeinsames Begehren bei umfassender Einigung (Art. 285 ZPO, ohne die Fälle nach Art. 292 ZPO);
-- e) Änderungen rechtskräftig entschiedener Scheidungsfolgen (Art. 284 ZPO);
-- f) Vaterschaftsklagen (Art. 261 ZGB) sowie die Anfechtung der Vaterschaft (Art. 260a ff. ZGB);
-- g) Unterhaltsklagen (Art. 279 ZGB);
-- h) Entscheide nach Art. 303 und 304 ZPO;
-- i) Auflösungen der eingetragenen Partnerschaft auf gemeinsames Begehren bei umfassender Einigung (Art. 307 i.V.m. Art. 285 ZPO, ohne die Fälle nach Art. 292 ZPO);
-- j) die Unterstützung des Schiedsgerichts (Art. 356 Abs. 2 Bst. c ZPO);
-- k) Verfügungen und Entscheide als Vollstreckungsgericht;
-- l) Gesuche um unentgeltliche Rechtspflege, unabhängig von der Zuständigkeit in der Hauptsache;
-- m) den bestrittenen Ausstand von Mitgliedern der Schlichtungsbehörden.
+- a) über Streitigkeiten im vereinfachten Verfahren;
+- b) über Streitigkeiten im summarischen Verfahren;
+- c) über die Erledigung ordentlicher Verfahren zufolge Rückzugs, Anerkennung, Vergleichs oder Gegenstandslosigkeit;
+- d) über die Erledigung ordentlicher Verfahren wegen Nichtleistung von Kostenvorschüssen oder Sicherheiten für die Parteientschädigung;
+- e) als Vollstreckungsgericht;
+- f) über Gesuche um unentgeltliche Rechtspflege betreffend Verfahren vor Schlichtungsbehörden und Kantonsgericht, unabhängig von der Zuständigkeit in der Hauptsache;
+- g) über den bestrittenen Ausstand von Mitgliedern der Schlichtungsbehörden.
+- h) …
+- i) …
+- j) …
+- k) …
+- l) …
+- m) …
 
 <sup>3</sup> Sie nehmen die Handlungen der interkantonalen und internationalen Rechtshilfe in Zivilsachen vor.
 
@@ -458,12 +454,12 @@ beschliesst:
 - a) das Plenum;
 - b) das Präsidium;
 - c) das Kollegialgericht als Spruchkörper mit drei Richterinnen oder Richtern;
-- d) die Einzelrichterinnen oder Einzelrichter;
+- d) das Einzelgericht;
 - e) die Gerichtsschreiberinnen und Gerichtsschreiber.
 
 <sup>2</sup> Soweit das Gesetz oder die Geschäftsordnung nichts anderes bestimmen, handelt das Strafgericht als Kollegialgericht.
 
-<sup>3</sup> Das Plenum des Strafgerichts kann für die Tätigkeit der Abteilungen sowie der Einzelrichterinnen und Einzelrichter generelle Weisungen erlassen.
+<sup>3</sup> Das Plenum des Strafgerichts kann für die Tätigkeit der Abteilungen sowie des Einzelgerichts generelle Weisungen erlassen.
 
 #### § 32
 
@@ -473,7 +469,12 @@ beschliesst:
 
 <sup>2</sup> Die Verfahrensleitung obliegt den Einzelrichterinnen und Einzelrichtern. Ihnen stehen alle Befugnisse zu, die nach der Strafprozessordnung der Präsidentin oder dem Präsidenten des Gerichts zustehen (Art. 61 lit. c StPO). Die Zuweisung der Fälle wird durch die Geschäftsordnung geregelt.
 
-<sup>3</sup> Die Einzelrichterinnen und Einzelrichter beurteilen die Fälle nach Art. 19 Abs. 2 lit. a und b StPO.
+<sup>3</sup> Das Einzelgericht beurteilt die Fälle nach Art. 19 Abs. 2 lit. a und b StPO[^32-1]. Zudem entscheidet es über die Vollstreckbarkeit ausländischer
+
+Strafentscheide gemäss Art. 103 ff. IRSG[^32-2].
+
+[^32-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^32-2]: SR [351.1](https://db.clex.ch/link/Bund/351.1/de)
 
 #### § 33
 
@@ -534,9 +535,11 @@ beschliesst:
 
 **Wahl, Organisation**
 
-<sup>1</sup> Jede Einwohnergemeinde wählt für ihr Gebiet eine Friedensrichterin oder einen Friedensrichter und eine Stellvertreterin oder einen Stellvertreter. Wählbar sind alle in der Gemeinde wohnhaften und in kantonalen Angelegenheiten stimmberechtigten Schweizer Bürgerinnen und Bürger.
+<sup>1</sup> Jede Gemeinde wählt für ihr Gebiet eine Friedensrichterin oder einen Friedensrichter sowie – falls nicht von der Möglichkeit gemäss § 37b Gebrauch gemacht wird – eine Stellvertreterin oder einen Stellvertreter. Wählbar sind alle in der Gemeinde wohnhaften und in kantonalen Angelegenheiten stimmberechtigten Schweizer Bürgerinnen und Bürger.
 
-<sup>2</sup> Zwei oder mehrere Gemeinden können durch einen Vertrag, der vom Obergericht genehmigt werden muss, ein gemeinsames Friedensrichteramt mit Sitz in einer der Gemeinden einsetzen. In diesem Fall besteht für die Wahl nach Absatz 1 ein Wahlkreis über das Gebiet aller beteiligten Gemeinden.
+<sup>2</sup> …
+
+<sup>2a</sup> Die Friedensrichterinnen und Friedensrichter teilen die eingehenden Geschäfte mit ihren Stellvertreterinnen und Stellvertretern nach im Voraus festgelegten Kriterien auf.
 
 <sup>3</sup> Die Gemeinde trägt die Kosten für das Friedensrichteramt und ist für die Ausstattung zuständig. Die Einnahmen des Friedensrichteramts fallen in die Gemeindekasse.
 
@@ -544,25 +547,51 @@ beschliesst:
 
 <sup>5</sup> Das Obergericht regelt die Amtsführung, die Organisation und – nach Anhörung der Gemeinden und der Standesorganisation – die Entschädigung in einer Verordnung.
 
+#### § 37a
+
+**Gemeindeübergreifende Stellvertretung**
+
+<sup>1</sup> Zwei oder mehrere Gemeinden können einen Vertrag über die gemeindeübergreifende Stellvertretung für einzelne Geschäftsfälle oder für eine bestimmte Dauer abschliessen. Der Grundsatzentscheid zur Stellvertretung mit einer oder mehreren bestimmten Gemeinden fällt in die Kompetenz der Gemeindeversammlung oder des Grossen Gemeinderats. Der Abschluss des Vertrags fällt in die Kompetenz des Gemeinderats oder Stadtrats.
+
+<sup>2</sup> Die Stellvertretung setzt eine begründete Verhinderung an der Amtsführung oder eine Arbeitsüberlastung der Friedensrichterin oder des Friedensrichters sowie der Stellvertreterin oder des Stellvertreters der Einsatzgemeinde voraus.
+
+<sup>3</sup> Der Vertrag enthält den jeweiligen Grund der Stellvertretung.
+
+<sup>4</sup> Die Stellvertretung für eine bestimmte Dauer bedarf der Genehmigung durch das Obergericht.
+
+#### § 37b
+
+**Zusammenschluss von Friedensrichterämtern**
+
+<sup>1</sup> Zwei oder mehrere Gemeinden können einen Vertrag über den Zusammenschluss ihrer Friedensrichterämter abschliessen.
+
+<sup>2</sup> Nach dem Zusammenschluss wählt jede beteiligte Gemeinde nur je eine Friedenrichterin oder einen Friedensrichter. Die zum Zeitpunkt des Zusammenschlusses amtierenden Stellvertreterinnen und Stellvertreter verbleiben bis zum Ende der Amtsperiode im Amt. Sie werden bei einem vorzeitigen Rücktritt nicht ersetzt.
+
+<sup>3</sup> Alle Friedensrichterinnen und Friedensrichter können auf dem Gebiet der beteiligten Gemeinden tätig sein. Sie vertreten sich gegenseitig.
+
+<sup>4</sup> Im Vertrag ist festzulegen, ob die Gemeinden ein gemeinsames Friedensrichteramt mit Sitz in einer der Gemeinden oder ob mehrere oder alle beteiligten Gemeinden ein eigenes Friedensrichteramt betreiben.
+
+<sup>5</sup> Der Vertrag bedarf der Genehmigung durch das Obergericht.
+
 #### § 38
 
 **Zuständigkeit**
 
 <sup>1</sup> Das Friedensrichteramt ist die ordentliche Schlichtungsbehörde in Zivilsachen. Es ist zur Durchführung des Schlichtungsverfahrens zuständig, sofern nicht eine der besonderen Schlichtungsbehörden sachlich zuständig ist.
 
-<sup>2</sup> Die örtliche Zuständigkeit umfasst das Gemeindegebiet.
+<sup>2</sup> Die örtliche Zuständigkeit umfasst das Gemeindegebiet oder das Gebiet der an einem Zusammenschluss beteiligten Gemeinden.
 
 ### 2.2.3. Schlichtungsbehörde Arbeitsrecht
 
 #### § 39
 
-**Ernennung, Zuständigkeit, Organisation**
+**Wahl, Zuständigkeit, Organisation**
 
-<sup>1</sup> Für Streitigkeiten aus einem Arbeitsvertrag gemäss Schweizerischem Obligationenrecht (OR)[^39-1] besteht eine besondere Schlichtungsbehörde (Schlichtungsbehörde Arbeitsrecht) für das gesamte Kantonsgebiet. Die Mitglieder werden vom Obergericht gewählt.
+<sup>1</sup> Für Streitigkeiten aus einem Arbeitsvertrag gemäss Schweizerischem Obligationenrecht (OR)[^39-1] besteht eine besondere Schlichtungsbehörde (Schlichtungsbehörde Arbeitsrecht) für das gesamte Kantonsgebiet. Die Mitglieder werden vom Obergericht gewählt. Wählbar sind die in kantonalen Angelegenheiten Stimmberechtigten.
 
 <sup>2</sup> Die Schlichtungsbehörde Arbeitsrecht steht unter der Aufsicht des Obergerichts.
 
-<sup>3</sup> Das Obergericht regelt die Ernennung, die Amtsführung und die Organisation in einer Verordnung.
+<sup>3</sup> Das Obergericht regelt die Wahl, die Amtsführung und die Organisation in einer Verordnung.
 
 [^39-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -582,14 +611,14 @@ beschliesst:
 
 #### § 41
 
-**Ernennung, Organisation**
+**Wahl, Organisation**
 
 <sup>1</sup> Die Schlichtungsbehörde Miet- und Pachtrecht besteht aus mindestens 13 nebenamtlichen Mitgliedern:
 
 - a) drei Mitglieder als Vorsitzende, die Gewähr für eine unabhängige Behandlung der Verfahren bieten;
 - b) mindestens je fünf Mitglieder als Vertreterinnen und Vertreter der Interessen der Mieter- und Vermieterschaft, die von den Mieter- bzw. Vermieterorganisationen vorgeschlagen werden.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion ernennt die Vorsitzenden (eine Präsidentin oder einen Präsidenten und zwei Vizepräsidentinnen oder Vizepräsidenten) und die übrigen Mitglieder. Wählbar sind die in schweizerischen Angelegenheiten Stimmberechtigten.
+<sup>2</sup> Die Volkswirtschaftsdirektion wählt die Vorsitzenden (eine Präsidentin oder einen Präsidenten und zwei Vizepräsidentinnen oder Vizepräsidenten) und die übrigen Mitglieder. Wählbar sind die in kantonalen Angelegenheiten Stimmberechtigten.
 
 <sup>3</sup> Die Schlichtungsbehörde Miet- und Pachtrecht handelt und beschliesst als Spruchkörper, bestehend aus einem oder einer Vorsitzenden und je einer Vertretung der Mieter- und Vermieterschaft.
 
@@ -876,6 +905,20 @@ beschliesst:
 
 <sup>5</sup> Für die Abgabe eines anonymisierten Entscheides beträgt die Gebühr pro Seite 5.00 Franken, jedoch maximal 100.00 Franken pro Entscheid. Für wissenschaftliche Zwecke oder bei besonders geringem Aufwand kann diese Gebühr angemessen herabgesetzt oder erlassen werden. Die Abgabe von anonymisierten Entscheiden an Amtsstellen erfolgt kostenlos.
 
+#### § 63a
+
+**Nach- und Rückzahlungsverfahren bei unentgeltlicher Rechtspflege und amtlicher Verteidigung**
+
+<sup>1</sup> Die Obergerichtskanzlei, vertreten durch die Gerichtskasse, prüft regelmässig, ob Parteien, denen die unentgeltliche Rechtspflege oder die amtliche Verteidigung bewilligt wurde, zur Rückzahlung im Sinne von Art. 123 ZPO[^63a-1] bzw. Art. 135 Abs. 4 Bst. a StPO[^63a-2] in der Lage sind. Zu diesem Zweck fordert sie die Parteien auf, die offenen Beträge zu bezahlen oder nachzuweisen, dass eine Rückzahlung nicht möglich ist. Die Parteien sind zur Mitwirkung verpflichtet.
+
+<sup>2</sup> Reichen die Parteien trotz Mahnung die verlangten Belege nicht ein, wird angenommen, sie seien zur Rückzahlung in der Lage. In diesem Fall entscheidet die Obergerichtskanzlei über die Nach- oder Rückzahlung. Das Verfahren richtet sich nach dem Verwaltungsrechtspflegegesetz[^63a-3].
+
+<sup>3</sup> Im Streitfall entscheidet auf Antrag der Obergerichtskanzlei in Zivilsachen die Einzelrichterin bzw. der Einzelrichter des Kantonsgerichts und in Strafsachen die zuständige Behörde nach Art. 363 StPO darüber, ob und in welchem Umfang die wirtschaftlichen Verhältnisse einer Partei die Rückzahlung erlauben. Das Verfahren richtet sich in Zivilsachen sinngemäss nach Art. 119 ZPO und in Strafsachen nach Art. 363 ff. StPO.
+
+[^63a-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^63a-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^63a-3]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
+
 ### 3.3. Richterinnen und Richter sowie Personal
 
 #### § 64
@@ -902,30 +945,33 @@ beschliesst:
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Mit dem Amt einer Richterin oder eines Richters in der Zivil- und Strafrechtspflege ist unvereinbar
+<sup>1</sup> Für die voll-, teil- und nebenamtlichen Mitglieder der Gerichte der Zivil- und Strafrechtspflege bestehen folgende Unvereinbarkeiten:
 
-- a) die Mitgliedschaft im Kantonsrat;
-- b) die Mitgliedschaft im Regierungsrat;
-- c) die Funktion als Landschreiberin oder Landschreiber, als Ombudsperson, als Datenschutzbeauftragte oder Datenschutzbeauftragter;
-- d) die Mitgliedschaft im Verwaltungsgericht;
-- e) die Funktionen mit staatsanwaltschaftlicher Befugnis;
-- f) die Funktion als Gerichtsschreiberin oder Gerichtsschreiber;
-- g) die Leitung der Ämter und Abteilungen gemäss dem Gesetz über die Organisation der Staatsverwaltung[^66-1];
-- h) die Mitgliedschaft in einer Schlichtungsbehörde;
-- i) die Ausübung des Berufes einer Rechtsanwältin oder eines Rechtsanwalts im Sinne des BGFA;
-- j) die Tätigkeit in einem Schiedsgericht, welches in die Zuständigkeit der Zivilgerichtsbarkeit des Kantons Zug fällt oder fallen könnte.
+- a) Tätigkeit als Kantonsrat;
+- b) Tätigkeit als Regierungsrat;
+- c) Funktion als Landschreiberin oder Landschreiber, als Ombudsperson, als Datenschutzbeauftragte oder Datenschutzbeauftragter;
+- d) Tätigkeit als voll-, teil- oder nebenamtliches Mitglied eines anderen Gerichts;
+- e) Funktionen mit staatsanwaltschaftlicher Befugnis;
+- f) Funktion als Gerichtsschreiberin oder Gerichtsschreiber;
+- g) Leitung der Ämter und Abteilungen gemäss dem Gesetz über die Organisation der Staatsverwaltung[^66-1];
+- h) Mitgliedschaft in einer Schlichtungsbehörde;
+- i) Ausübung des Berufs einer Rechtsanwältin oder eines Rechtsanwalts im Sinne des BGFA[^66-2];
+- j) Tätigkeit in einem Schiedsgericht, welches in die Zuständigkeit der Zivilgerichtsbarkeit des Kantons Zug fällt oder fallen könnte.
 
-<sup>2</sup> Funktionen mit staatsanwaltschaftlicher Befugnis sind unvereinbar mit Funktionen gemäss Absatz 1 Bst. a bis d, f und i.
+<sup>1a</sup> Mit der Funktion eines Ersatzmitglieds der Gerichte der Zivil- und Strafrechtspflege unvereinbar sind die Funktionen gemäss Abs. 1 Bst. a bis j, soweit diese im Kanton Zug ausgeübt werden.
 
-<sup>3</sup> Mit der Funktion einer Friedensrichterin oder eines Friedensrichters zusätzlich unvereinbar sind die Funktionen gemäss Absatz 1 Bst. a bis c, i und j.
+<sup>2</sup> Funktionen mit staatsanwaltschaftlicher Befugnis sind unvereinbar mit Funktionen gemäss Abs. 1 Bst. a bis d sowie f und i, soweit diese im Kanton Zug ausgeübt werden.
 
-<sup>4</sup> Mit der Funktion einer Richterin oder eines Richters am Obergericht unvereinbar ist die Funktion einer Richterin oder eines Richters am Kantons- und Strafgericht.
+<sup>3</sup> Mit der Funktion einer Friedensrichterin oder eines Friedensrichters unvereinbar sind die Funktionen gemäss Abs. 1 Bst. a bis c sowie i und j, soweit diese im Kanton Zug ausgeübt werden.
 
-<sup>5</sup> Die Vertretung anderer Personen vor Gericht ist den Richterinnen und Richtern, den Friedensrichterinnen und Friedensrichtern, den Gerichtsschreiberinnen und Gerichtsschreibern sowie dem Personal der Gerichtskanzleien untersagt.
+<sup>4</sup> Mit der Funktion eines Ersatzmitglieds am Obergericht unvereinbar ist die Funktion eines Ersatzmitglieds am Kantons- oder Strafgericht.
 
-<sup>6</sup> Tritt eine Unvereinbarkeit ein, so meldet die betroffene Person dies der Justizverwaltungsabteilung des Obergerichts unter gleichzeitiger Mitteilung, welche der unvereinbaren Funktionen weitergeführt und auf welche verzichtet wird. Bis zur Beseitigung der Unvereinbarkeit tritt die Person in den Ausstand.
+<sup>5</sup> Die Vertretung anderer Personen vor Gericht ist den voll-, teil- und nebenamtlichen Mitgliedern der Gerichte gänzlich, den Ersatzmitgliedern, den Friedensrichterinnen und Friedensrichtern, den Gerichtsschreiberinnen und Gerichtsschreibern sowie dem Personal der Gerichtskanzleien innerhalb des Kantons Zug untersagt.
+
+<sup>6</sup> Tritt eine Unvereinbarkeit ein, meldet die betroffene Person dies umgehend der Justizverwaltungsabteilung des Obergerichts unter gleichzeitiger Mitteilung, welche der unvereinbaren Funktionen weitergeführt und auf welche verzichtet wird. Bis zur Beseitigung der Unvereinbarkeit tritt die Person in den Ausstand.
 
 [^66-1]: BGS [153.1](https://bgs.zg.ch/data/153.1/de)
+[^66-2]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### § 67
 
@@ -933,8 +979,8 @@ beschliesst:
 
 <sup>1</sup> Für die Wahl bzw. Anstellung sind folgende fachliche Voraussetzungen erforderlich:
 
-- a) Voll- oder teilamtliche Mitglieder der Gerichte: abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master) und Anwaltspatent oder gleichwertige Fachausbildung sowie mindestens fünf Jahre Berufserfahrung in der Rechtsprechung, Advokatur, Verwaltung oder im Rechtsdienst einer Unternehmung;
-- b) Nebenamtliche Mitglieder und Ersatzmitglieder der Gerichte: abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master) oder gleichwertige Fachausbildung sowie mindestens drei Jahre Berufserfahrung in der Rechtsprechung, Advokatur, Verwaltung oder im Rechtsdienst einer Unternehmung;
+- a) voll- oder teilamtliche Mitglieder der Gerichte: abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master) und Anwaltspatent sowie danach mindestens fünf Jahre Berufserfahrung in der Rechtsprechung, Advokatur, Verwaltung oder im Rechtsdienst einer Unternehmung;
+- b) nebenamtliche Mitglieder und Ersatzmitglieder der Gerichte: abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master) sowie danach mindestens drei Jahre Berufserfahrung in der Rechtsprechung, Advokatur, Verwaltung oder im Rechtsdienst einer Unternehmung;
 - c) Staatsanwältinnen und Staatsanwälte: abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master) und Anwaltspatent; in Ausnahmefällen kann bei anderer gleichwertiger, fachbezogener Ausbildung oder langjähriger Tätigkeit in Advokatur oder Rechtspflege vom Erfordernis des Anwaltspatents abgesehen werden;
 - d) Gerichtsschreiberinnen und Gerichtsschreiber: abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master).
 
@@ -952,6 +998,20 @@ beschliesst:
 <sup>2</sup> Änderungen sind zu Beginn jedes Kalenderjahres anzugeben. Das Berufsgeheimnis bleibt vorbehalten.
 
 <sup>3</sup> Das Obergericht erstellt ein Register über die Angaben gemäss Abs. 1 und sorgt dafür, dass die entsprechenden Informationen in elektronischer Form öffentlich zugänglich gemacht werden. Es wacht über die Einhaltung der Offenlegungspflichten.
+
+#### § 67b
+
+**Erlöschen des Amts**
+
+<sup>1</sup> Das Amt eines vom Volk gewählten Mitglieds oder Ersatzmitglieds der Gerichte erlischt, wenn das Mitglied oder Ersatzmitglied das Stimmrecht in kantonalen Angelegenheiten oder die übrigen Wählbarkeitsvoraussetzungen verliert.
+
+<sup>2</sup> Das Amt einer Friedensrichterin oder eines Friedensrichters erlischt, wenn sie oder er das Stimmrecht in der betreffenden Gemeinde verliert.
+
+<sup>3</sup> Das Amt eines Mitglieds der Schlichtungsbehörde Arbeitsrecht oder der Schlichtungsbehörde Miet- und Pachtrecht erlischt, wenn das Mitglied das Stimmrecht in kantonalen Angelegenheiten verliert.
+
+<sup>4</sup> Die betroffene Person meldet den Verlust ihres Stimmrechts oder der übrigen Wählbarkeitsvoraussetzungen umgehend der Behörde, der sie angehört, sowie der Staatskanzlei und im Falle von Friedensrichterinnen oder Friedensrichtern zusätzlich der zuständigen Gemeinde.
+
+<sup>5</sup> Der betroffenen Person sind ab dem Zeitpunkt des Verlusts des Stimmrechts oder der übrigen Wählbarkeitsvoraussetzungen jegliche Amtshandlungen untersagt.
 
 ### 3.4. Logistik
 
@@ -983,7 +1043,7 @@ beschliesst:
 
 **Transport**
 
-<sup>1</sup> Die Zuger Polizei gewährleistet dienstliche Personentransporte der Gerichte und der Staatsanwaltschaft, soweit besondere Sicherheitsaspekte dies erfordern.
+<sup>1</sup> Die Polizei gewährleistet dienstliche Personentransporte der Gerichte und der Staatsanwaltschaft, soweit besondere Sicherheitsaspekte dies erfordern.
 
 #### § 71
 
@@ -1053,7 +1113,9 @@ beschliesst:
 
 **Ergänzendes Verfahrensrecht**
 
-<sup>1</sup> Auf die subsidiäre Aufsichtsbeschwerde finden die Bestimmungen über die Beschwerde in Strafsachen (Art. 393 ff. StPO) sinngemäss Anwendung.
+<sup>1</sup> Auf die subsidiäre Aufsichtsbeschwerde finden die Bestimmungen des Verwaltungsrechtspflegegesetzes[^78-1] sinngemäss Anwendung.
+
+[^78-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 ### 3.5.3. Verwaltungsbeschwerde
 
@@ -1061,12 +1123,13 @@ beschliesst:
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Die Beschwerdeabteilung des Obergerichts entscheidet über Beschwerden gegen Justizverwaltungsakte, insbesondere betreffend
+<sup>1</sup> Die Beschwerdeabteilung des Obergerichts entscheidet über Beschwerden gegen Justizverwaltungsakte, insbesondere hinsichtlich
 
 - a) Verfügungen im Zusammenhang mit der Durchsetzung des Hausrechts (§§ 83 ff.);
 - b) Verfügungen betreffend die Akteneinsicht bei abgeschlossenen Verfahren;
 - c) Vollzugsverfügungen der Jugendanwältinnen und Jugendanwälte sowie der Gerichtskasse;
-- d) Verfügungen betreffend Kostenerlassgesuche.
+- d) Verfügungen betreffend Kostenerlassgesuche;
+- e) Verfügungen der Obergerichtskanzlei betreffend Nach- und Rückzahlungsverfahren bei unentgeltlicher Rechtspflege und amtlicher Verteidigung.
 
 <sup>2</sup> Für das Verfahren gelten die Bestimmungen des Verwaltungsrechtspflegegesetzes[^79-1].
 
@@ -1218,11 +1281,28 @@ beschliesst:
 
 <sup>2</sup> Dritte können die Akten einsehen, wenn sie dafür ein wissenschaftliches oder ein anderes schützenswertes Interesse geltend machen und der Einsichtnahme keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
 
+#### § 88a
+
+**Akteneinsicht im abgeschlossenen Verfahren**
+
+<sup>1</sup> Parteien können die Akten einsehen, sofern keine überwiegenden öffentlichen oder privaten Interessen an der Geheimhaltung entgegenstehen.
+
+<sup>2</sup> Dritte können Akten einsehen, wenn dafür ein wissenschaftliches oder ein anderes schützenswertes Interesse glaubhaft gemacht ist und der Einsichtnahme keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
+
+<sup>3</sup> Im Übrigen richtet sich die Bearbeitung von Personendaten nach dem Datenschutzgesetz vom 28. September 2000[^88a-1].
+
+<sup>4</sup> Die Einsicht in archivierte Akten richtet sich nach dem Archivgesetz vom 29. Januar 2004[^88a-2].
+
+[^88a-1]: BGS [157.1](https://bgs.zg.ch/data/157.1/de)
+[^88a-2]: BGS [152.4](https://bgs.zg.ch/data/152.4/de)
+
 #### § 89
 
 **Verfahren der Akteneinsicht**
 
 <sup>1</sup> Die Verfahrensleitung bzw. die instruierende Einzelrichterin oder der instruierende Einzelrichter entscheidet über die Akteneinsicht und trifft die erforderlichen Massnahmen, um Missbräuche und Verzögerungen zu verhindern und berechtigte Geheimhaltungsinteressen zu schützen.
+
+<sup>1a</sup> Bei abgeschlossenen Verfahren entscheidet das Präsidium des jeweiligen Gerichts bzw. die Leitende Oberstaatsanwältin oder der Leitende Oberstaatsanwalt über die Akteneinsicht und trifft die erforderlichen Massnahmen, um Missbräuche und Verzögerungen zu verhindern und berechtigte Geheimhaltungsinteressen zu schützen. Der Entscheid kann an die ursprüngliche Verfahrensleitung delegiert werden.
 
 <sup>2</sup> Die Akten sind am Sitz der betreffenden Justizbehörde einzusehen. Bei anwaltlich vertretenen Parteien werden die Akten in der Regel den in der Schweiz domizilierten Anwältinnen und Anwälten zugestellt.
 
@@ -1230,15 +1310,13 @@ beschliesst:
 
 #### § 90
 
-**Akteneinsicht im abgeschlossenen Verfahren**
-
-<sup>1</sup> Nach Abschluss des Verfahrens richten sich die Auskunftserteilung und die Einsicht in die Akten nach der Datenschutzgesetzgebung. Die Einsicht in archivierte Akten richtet sich nach dem Archivgesetz vom 29. Januar 2004[^90-1].
-
-[^90-1]: BGS [152.4](https://bgs.zg.ch/data/152.4/de)
+**…**
 
 ### 5.2. Informationsaustausch unter Zuger Behörden
 
 #### § 91
+
+**Aktenedition und Auskunftserteilung**
 
 <sup>1</sup> Die Behörden der Zivil- und Strafrechtspflege geben untereinander sowie anderen Behörden der Rechtspflege und der Verwaltung Akten heraus und erteilen Auskünfte, wenn
 
@@ -1253,6 +1331,48 @@ beschliesst:
 
 [^91-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
 [^91-2]: BGS [171.1](https://bgs.zg.ch/data/171.1/de)
+
+#### § 91a
+
+**Datenbezug aus dem kantonalen Personenregister**
+
+<sup>1</sup> Das Sekretariatspersonal des Obergerichts, des Strafgerichts und der Staatsanwaltschaft ist berechtigt, zur Erfassung der betroffenen Person in der Geschäftskontrolle, zur Adressabklärung bei nicht zustellbarer Post in hängigen Verfahren sowie zur Mutation im Schweizerischen Strafregister über einen elektronischen Zugriff folgende Daten aus dem kantonalen Personenregister zu beziehen (Einzelabfrage):
+
+- a) Name, Vorname, Aliasname;
+- b) Geschlecht;
+- c) Wohnadresse und Zustelladresse (Strasse, Nr., Postfach, PLZ, Ort, Land);
+- d) Geburtsdatum, Geburtsort, Geburtsland;
+- e) Heimatorte, Staatsangehörigkeit;
+- f) AHV-Nummer;
+- g) Vorname und Name des Vaters und der Mutter;
+- h) Zivilstand;
+- i) Datum und Herkunftsort bei Zuzug;
+- j) Datum und Zielort bei Wegzug;
+- k) Todesdatum.
+
+<sup>2</sup> Das Sekretariatspersonal des Kantonsgerichts ist berechtigt, zur Erfassung der betroffenen Person in der Geschäftskontrolle sowie zur Adressabklärung bei nicht zustellbarer Post in hängigen Verfahren folgende Daten (Einzelabfragen) über einen elektronischen Zugriff aus dem kantonalen Personenregister zu beziehen:
+
+- a) Name und Vorname;
+- a1) Geschlecht;
+- b) Wohnadresse und Zustelladresse (Strasse, Nr., Postfach, PLZ, Ort, Land);
+- c) Geburtsdatum;
+- d) Heimatorte, Staatsangehörigkeit;
+- e) Datum und Herkunftsort bei Zuzug;
+- f) Datum und Zielort bei Wegzug.
+
+<sup>3</sup> Die Gerichtskasse des Obergerichts ist berechtigt, zur Adressabklärung bei nicht zustellbarer Post und für Inkassomassnahmen über einen elektronischen Zugriff folgende Daten aus dem kantonalen Personenregister zu beziehen (Einzelabfrage):
+
+- a) Name, Vorname, Aliasname;
+- b) Geschlecht;
+- c) Wohnadresse und Zustelladresse (Strasse, Nr., Postfach, PLZ, Ort, Land);
+- d) Geburtsdatum, Geburtsort, Geburtsland;
+- e) Heimatorte, Staatsangehörigkeit;
+- f) AHV-Nummer;
+- g) Vorname und Name des Vaters und der Mutter;
+- h) Zivilstand;
+- i) Datum und Herkunftsort bei Zuzug;
+- j) Datum und Zielort bei Wegzug;
+- k) Todesdatum.
 
 ### 5.3. Informationsaustausch im Rahmen des Rahmenbeschlusses über die Vereinfachung des Austauschs von Informationen mit Schengen-Staaten
 
@@ -1451,7 +1571,7 @@ beschliesst:
 
 <sup>1</sup> Die Einnahmen aus Ordnungsbussen fallen in die Staatskasse.
 
-<sup>2</sup> Hat der Gemeinderat mit der Polizei eine Verwaltungsvereinbarung über den Beizug von Sicherheitsassistentinnen und -assistenten sowie von Mitarbeitenden des Verkehrskontrolldienstes abgeschlossen, fallen die von ihnen erhobenen Ordnungsbussen wegen Verletzung von Verkehrsregeln im ruhenden Verkehr auf öffentlichen Parkplätzen in die jeweilige Gemeindekasse.
+<sup>2</sup> Hat der Gemeinderat mit der Polizei eine Verwaltungsvereinbarung über den Beizug von Sicherheitsassistentinnen und -assistenten abgeschlossen, fallen die von ihnen erhobenen Ordnungsbussen wegen Verletzung von Verkehrsregeln im ruhenden Verkehr auf öffentlichen Parkplätzen in die jeweilige Gemeindekasse.
 
 ### 7.4. Begnadigung
 
@@ -1522,19 +1642,22 @@ beschliesst:
 - a) die Vollzugsanstalten einschliesslich der Anstaltsordnung sowie des medizinischen und psychiatrischen Dienstes;
 - b) das Disziplinarrecht im Rahmen von Art. 91 StGB;
 - c) die soziale Betreuung;
-- d) die gemeinnützige Arbeit;
-- e) die Bewährungshilfe und die Kontrolle der Erfüllung von Weisungen (Art. 44 Abs. 2 StGB);
+- d) …
+- e) die Bewährungshilfe und die Kontrolle der Erfüllung von Weisungen;
 - f) die Kostenbeteiligung der Verurteilten im Vollzug.
 
 <sup>4</sup> Er oder die von ihm bezeichnete Stelle ist insbesondere zuständig für den Vollzug
 
 - a) der Freiheitsstrafen einschliesslich der Ersatzfreiheitsstrafen (Art. 74 ff. StGB);
-- b) der gemeinnützigen Arbeit (Art. 38 StGB);
+- b) …
 - c) der stationären therapeutischen Massnahmen (Art. 59 ff. StGB);
 - d) der ambulanten Behandlung (Art. 63 ff. StGB);
 - e) der Verwahrung (Art. 64 ff. StGB) einschliesslich der Massnahmen gemäss Art. 64c Abs. 1 und 2 StGB;
 - f) der anderen Massnahmen nach Art. 67 bis 67b StGB;
-- g) der Sicherungseinziehung (Art. 69 StGB) einschliesslich der angeordneten Unbrauchbarmachung oder Vernichtung.
+- g) der Sicherungseinziehung (Art. 69 StGB) einschliesslich der angeordneten Unbrauchbarmachung oder Vernichtung;
+- h) der Lernprogramme (Art. 55a Abs. 2 StGB);
+- i) der Ersatzmassnahmen (Art. 237 StPO);
+- j) der zivilrechtlichen elektronischen Überwachung (Art. 28c ZGB).
 
 #### § 116
 
