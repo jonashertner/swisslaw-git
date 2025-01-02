@@ -3,20 +3,19 @@ canton: ZG
 number: "161.4"
 title: Verordnung über die Schlichtungsbehörden
 language: de
-version: 2011-01-01
-valid_until: 2025-01-02
-version_adopted: 2011-01-18
+version: 2025-01-03
+version_adopted: 2024-12-11
 adopted: 2011-01-18
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.4"
-pdf: "https://bgs.zg.ch/api/de/versions/566/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schlichtungsbehörden
 
-Vom 18. Januar 2011 (Stand 1. Januar 2011)
+Vom 18. Januar 2011 (Stand 3. Januar 2025)
 
 Das Obergericht des Kantons Zug,
 
@@ -49,7 +48,7 @@ beschliesst:
 - c) die Anwesenheit der Parteien und ihrer Vertretungen;
 - d) die Rechtsbegehren, Anträge und Prozesserklärungen der Parteien;
 - e) das Datum der Einleitung des Schlichtungsverfahrens (Postaufgabe und Eingang bei der Schlichtungsbehörde);
-- f) den Hinweis auf die Art und den Zeitpunkt der Erledigung des Verfahrens (Klagerückzug, Klageanerkennung, Vergleich, Urteilsvorschlag, Entscheid, Mediation, Urteil);
+- f) den Hinweis auf die Art und den Zeitpunkt der Erledigung des Verfahrens (Klagerückzug, Klageanerkennung, Vergleich, Entscheidvorschlag, Entscheid, Mediation);
 - g) die Unterschrift der Schlichtungsbehörde;
 - h) im Falle der Erledigung durch Vergleich, Klageanerkennung oder Klagerückzug zusätzlich deren Wortlaut und die Unterschriften der Parteien.
 
@@ -79,7 +78,7 @@ beschliesst:
 
 #### § 6
 
-**Bekanntgabe von Gerichtsurteilen**
+**Bekanntgabe von Gerichtsentscheiden**
 
 <sup>1</sup> Die kantonalen Gerichte stellen der Schlichtungsbehörde Arbeitsrecht die arbeitsrechtlichen Urteile und Entscheide und der Schlichtungsbehörde Miet- und Pachtrecht die miet- und pachtrechtlichen Urteile und Entscheide regelmässig und in geeigneter Form zu.
 
@@ -92,6 +91,8 @@ beschliesst:
 <sup>1</sup> Das Friedensrichteramt wird durch die Friedensrichterin oder den Friedensrichter, bei Verhinderung durch die Stellvertreterin oder den Stellvertreter ausgeübt.
 
 <sup>2</sup> Die Friedensrichterin oder der Friedensrichter weist der Stellvertreterin oder dem Stellvertreter auch unabhängig vom Verhinderungsfalle Geschäfte zur Bearbeitung zu.
+
+<sup>3</sup> Bei einem Zusammenschluss von Friedensrichterämtern gilt § 37b GOG.
 
 #### § 8
 
@@ -111,6 +112,8 @@ beschliesst:
 
 <sup>4</sup> Die Gemeinde übernimmt die Kosten für die notwendige fachbezogene Weiterbildung der Friedensrichterin bzw. des Friedensrichters sowie der Stellvertreterin bzw. des Stellvertreters.
 
+<sup>5</sup> Bei einem Zusammenschluss von Friedensrichterämtern oder bei gemeindeübergreifender Stellvertretung regeln die Gemeinden die Logistik im Vertrag.
+
 #### § 9
 
 **Entschädigung**
@@ -126,23 +129,25 @@ beschliesst:
   - 6\. 401 – 500 Falleingängen: Fr. 3’000.–
   - 7\. Über 500 Falleingängen: Fr. 3’500.–
 - b) eine Fallpauschale pro erledigtem Fall:
-  - 1\. bei Erledigung vor der Schlichtungsverhandlung: Fr. 150.–
-  - 2\. bei Durchführung der Schlichtungsverhandlung: Fr. 300.–
-  - 3\. bei durchgeführter Schlichtungsverhandlung mit anschliessendem Urteilsvorschlag: Fr. 400.–
-  - 4\. bei durchgeführter Schlichtungsverhandlung mit anschliessendem Urteil: Fr. 600.–
-- c) eine Fallpauschale für Barauslagen pro erledigtem Fall von Fr. 40.–.
+  - 1\. bei Erledigung vor der Schlichtungsverhandlung: Fr. 220.–
+  - 2\. bei Durchführung der Schlichtungsverhandlung: Fr. 330.–
+  - 3\. bei durchgeführter Schlichtungsverhandlung mit anschliessendem Entscheidvorschlag: Fr. 440.–
+  - 4\. bei durchgeführter Schlichtungsverhandlung mit anschliessendem Entscheid: Fr. 660.–
+- c) eine Fallpauschale für Barauslagen pro erledigtem Fall von Fr. 50.–. Belaufen sich die Barauslagen im Einzelfall auf mehr als das Anderthalbfache der Fallpauschale, werden auf Antrag die effektiven Auslagen vergütet.
 
 <sup>2</sup> Stellt die Gemeinde den Amtsinhaberinnen bzw. Amtshinhabern ein Sekretariat zur Verfügung, reduzieren sich die Ansätze gemäss Abs. 1 Bst. b) wie folgt:
 
 - 1\. bei Erledigung vor der Schlichtungsverhandlung um Fr. 50.–;
-- 2\. bei Durchführung der Schlichtungsverhandlung inkl. allfälligem Urteilsvorschlag um Fr. 100.–;
-- 3\. bei durchgeführter Schlichtungsverhandlung mit anschliessendem Urteil um Fr. 150.–.
+- 2\. bei Durchführung der Schlichtungsverhandlung inkl. allfälligem Entscheidvorschlag um Fr. 100.–;
+- 3\. bei durchgeführter Schlichtungsverhandlung mit anschliessendem Entscheid um Fr. 150.–.
 
 #### § 10
 
 **Inkasso**
 
 <sup>1</sup> Die Friedensrichterin bzw. der Friedensrichter und die Stellvertreterin bzw. der Stellvertreter besorgen das Inkasso der im Schlichtungsverfahren vor dem Friedensrichteramt auferlegten Verfahrenskosten. Die Einnahmen sind der Gemeinde abzuliefern.
+
+<sup>2</sup> Bei einem Zusammenschluss von Friedensrichterämtern oder bei gemeindeübergreifender Stellvertretung regeln die Gemeinden das Inkasso im Vertrag.
 
 ## 3. Ergänzende Vorschriften für die Schlichtungsbehörde Arbeitsrecht
 
@@ -160,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Das Obergericht wählt die Schlichterinnen bzw. Schlichter sowie die Vertreterinnen und Vertreter der Arbeitgeber- und Arbeitnehmerseite für eine Amtsdauer von sechs Jahren.
 
-<sup>2</sup> Wählbar sind die in schweizerischen Angelegenheiten Stimmberechtigten. Die Schlichterinnen und Schlichter müssen Gewähr für eine unabhängige Behandlung der Verfahren bieten und über die erforderlichen Fachkenntnisse verfügen.
+<sup>2</sup> Wählbar als Schlichterinnen und Schlichter sind die in kantonalen Angelegenheiten Stimmberechtigten. Die Schlichterinnen und Schlichter müssen Gewähr für eine unabhängige Behandlung der Verfahren bieten und über die erforderlichen Fachkenntnisse verfügen. Wählbar als Vertreterinnen und Vertreter der Arbeitgeber- und Arbeitnehmerseite sind die in schweizerischen Angelegenheiten Stimmberechtigten.
 
 <sup>3</sup> Die Schlichterinnen bzw. Schlichter dürfen keine Parteien in arbeitsrechtlichen Prozessen vor den zugerischen Zivilgerichten vertreten.
 
@@ -206,16 +211,16 @@ beschliesst:
 
 #### § 18
 
-**In-Kraft-Treten**
-
-<sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. Januar 2011 in Kraft.
+**…**
 
 #### § 19
 
-**Aufhebung bisherigen Rechts**
+**…**
 
-<sup>1</sup> Die Verordnung des Obergerichts über die Schlichtungsstelle für arbeitsrechtliche Streitigkeiten vom 20. November 2001[^19-1] wird aufgehoben.
+#### § 20
 
-[^19-1]: GS 27, 243 (BGS 216.71)
+**Wählbarkeitsvoraussetzungen**
+
+<sup>1</sup> Auf die Mitglieder der Schlichtungsbehörde Arbeitsrecht sowie der Schlichtungsbehörde Miet- und Pachtrecht, die am 1. Januar 2025 gewählt sind, sind die zum Zeitpunkt der Wahl geltenden Wählbarkeitsvoraussetzungen für die ganze Amtsperiode 2025 bis 2030 anwendbar. § 67b Abs. 3 GOG ist auf sie in dieser Amtsperiode nicht anwendbar.
 
 GS 31, 21
