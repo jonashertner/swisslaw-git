@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2024-12-24
+version: 2025-01-03
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241224/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241224-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241224/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250103/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250103-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250103/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 24. Dezember 2024)
+vom 16. März 2022 (Stand am 3. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -802,10 +802,11 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 <sup>12</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 2 bewilligen, sofern die Rechtsberatungsdienstleistungen für die Fortsetzung bestehender Initiativen zur Unterstützung der Opfer von Natur- oder Nuklearkatastrophen oder von Chemieunfällen und im Rahmen von internationalen Adoptionsverfahren erforderlich sind.
 
-<sup>13</sup> und <sup>14</sup> …[^24b-2]
+<sup>13</sup> Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie gemäss Absatz 6 Buchstabe a erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2025 und anschliessend semesterweise melden.
 
-[^24b-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^24b-2]: Treten am 3. Jan. 2025 in Kraft ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+<sup>14</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Dienstleistungen oder Software enthalten.
+
+[^24b-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024, Abs. 13 und 14 in Kraft seit 3. Jan. 2025 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 

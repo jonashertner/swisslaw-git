@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2024-12-24
+version: 2025-01-03
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241224/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241224-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241224/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250103/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250103-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250103/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 24 dicembre 2024)
+del 16 marzo 2022 (Stato 3 gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -801,10 +801,11 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>12</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui al capoverso 2 se i servizi di consulenza giuridica sono necessari per la continuazione di iniziative esistenti a sostegno delle vittime di catastrofi naturali o nucleari o di incidenti chimici e nel contesto di procedure di adozione internazionale.
 
-<sup>13</sup> e <sup>14</sup> ...[^24b-2]
+<sup>13</sup> Le persone giuridiche, le imprese o le organizzazioni devono notificare alla SECO i servizi o i software che forniscono o mettono a disposizione secondo il capoverso 6 lettera a entro il 31 luglio 2025 e successivamente ogni semestre.
 
-[^24b-1]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^24b-2]: Entrano in vigore il 3 gen. 2025 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+<sup>14</sup> Le notifiche devono indicare i nomi dei beneficiari, nonché il genere e il valore degli averi e delle risorse economiche bloccati.
+
+[^24b-1]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024, cpv. 13 e 14 in vigore dal 3 gen. 2025 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ## Sezione 4: Ulteriori restrizioni
 

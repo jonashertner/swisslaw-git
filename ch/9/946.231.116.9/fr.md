@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2024-12-24
+version: 2025-01-03
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241224/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241224-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241224/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250103/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250103-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250103/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 24 décembre 2024)
+du 16 mars 2022 (État le 3 janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -799,10 +799,11 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 <sup>12</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues à l’al. 2, pour autant que les services de conseil juridique soient nécessaires à la poursuite d’initiatives existantes visant à soutenir les victimes de catastrophes naturelles, nucléaires ou chimiques, ou dans le cadre de procédures d’adoption internationales.
 
-<sup>13</sup> e <sup>14</sup> ...[^24b-2]
+<sup>13</sup> Les personnes morales, entreprises et entités doivent déclarer au SECO d’ici au 31 juillet 2025, puis sur une base semestrielle, les services et logiciels qu’elles fournissent ou mettent à disposition conformément à l’art. 6, let. a.
 
-[^24b-1]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^24b-2]: Entrent en vigueur le 3 janvier 2025 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+<sup>14</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des services ou logiciels concernés.
+
+[^24b-1]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024, sous réserve des al. 13 et 14, en vigueur depuis le 3 janv. 2025 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ## Section 4 Autres restrictions
 
