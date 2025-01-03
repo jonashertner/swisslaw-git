@@ -2,22 +2,22 @@
 canton: FR
 number: "559.6"
 title: Konkordat über die Sicherheitsunternehmen
+short: KSU
 language: de
-version: 2014-04-01
-valid_until: 2025-01-03
-version_adopted: 2012-10-05
+version: 2025-01-04
+version_adopted: 2024-03-21
 adopted: 1996-10-18
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/559.6"
-pdf: "https://bdlf.fr.ch/api/de/versions/6163/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8165/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Konkordat über die Sicherheitsunternehmen
+# Konkordat über die Sicherheitsunternehmen (KSU)
 
-vom 18.10.1996 (Fassung in Kraft getreten am 01.04.2014)
+vom 18.10.1996 (Fassung in Kraft getreten am 04.01.2025)
 
 I. Allgemeines
 
@@ -41,9 +41,7 @@ Mitglieder des Konkordats sind jene Kantone, die ihren Beitritt erklären.
 
 #### Art. 3
 
-**Vorbehalt der eidgenössischen und kantonalen Gesetz–**
-
-gebungen Vorbehalten bleiben die eidgenössischen Bestimmungen sowie die strengeren Vorschriften, die von einem Konkordatskanton für die Sicherheitsunternehmen, deren Sitz oder Zweigstelle auf seinem Gebiet liegt, oder für das Personal der dort praktizierenden Sicherheitsunternehmen erlassen werden.
+Vorbehalt der eidgenössischen und kantonalen Gesetz–gebungen Vorbehalten bleiben die eidgenössischen Bestimmungen sowie die strengeren Vorschriften, die von einem Konkordatskanton für die Sicherheitsunternehmen, deren Sitz oder Zweigstelle auf seinem Gebiet liegt, oder für das Personal der dort praktizierenden Sicherheitsunternehmen erlassen werden.
 
 ### II. Geltungsbereich
 
@@ -83,7 +81,7 @@ In diesem Konkordat versteht man unter:
 
 - a) Sicherheitsunternehmen jedes Unternehmen, ungeachtet seiner Rechtsform (Einzelunternehmen, juristische Person, …), ob es Personal beschäftigt oder nicht, das im Auftragsverhältnis eine Tätigkeit ausübt, die diesem Konkordat untersteht;
 
-a<sup>bis</sup>)der verantwortlichen Person des Unternehmens die Person, die als Einzelperson oder als von einer juristischen Person bestimmte verantwortliche Person ein Sicherheitsunternehmen betreibt, unabhängig davon, ob dieses nach kaufmännischer Art geführt wird oder nicht. Die verantwortliche Person muss die Befugnis haben, das Unternehmen dem Sicherheitspersonal, den Behörden und Kunden gegenüber zu vertreten und zu verpflichten. Die Konkordatskommission führt die Anforderungen diesbezüglich näher aus.
+a<sup>bis</sup>) der verantwortlichen Person des Unternehmens die Person, die als Einzelperson oder als von einer juristischen Person bestimmte verantwortliche Person ein Sicherheitsunternehmen betreibt, unabhängig davon, ob dieses nach kaufmännischer Art geführt wird oder nicht. Die verantwortliche Person muss die Befugnis haben, das Unternehmen dem Sicherheitspersonal, den Behörden und Kunden gegenüber zu vertreten und zu verpflichten. Die Konkordatskommission führt die Anforderungen diesbezüglich näher aus.
 
 - b) Sicherheitspersonal jede natürliche Person, die haupt- oder nebenamtlich, bezahlt oder unbezahlt, als Mitglied eines Sicherheitsunternehmens beauftragt ist, eine Überwachungs- oder Schutztätigkeit auszuüben oder Sicherheitstransporte durchzuführen;
 
@@ -149,9 +147,9 @@ a<sup>bis</sup>)der verantwortlichen Person des Unternehmens die Person, die als
 
 - b) handlungsfähig ist;
 
-- c) zahlungsfähig ist oder gegen es beziehungsweise ihn keine definitiven Verlustscheine ausgestellt worden sind;
+- c) Aufgehoben
 
-- d) durch sein Vorleben, seinen Charakter und sein Verhalten vollständige Gewähr für seine Ehrenhaftigkeit in Bezug auf das geplante Tätigkeitsumfeld leistet. Die Konkordatskommission erlässt diesbezüglich eine Richtlinie (s. Art. 8 Abs. 1 Bst. d, 2. Satz);
+- d) durch Vorleben, Charakter und Verhalten vollständige Gewähr für seine Ehrenhaftigkeit in Bezug auf das geplante Tätigkeitsumfeld bietet. Die Konkordatskommission erlässt diesbezüglich eine Richtlinie (s. Art. 8 Abs. 1 Bst. d, 2. Satz).
 
 <sup>2</sup> Ausserdem muss der Leiter einer Zweigstelle die in Artikel 8 Abs. 1 Bst. f vorgesehene Prüfung mit Erfolg abgelegt haben.
 
@@ -249,9 +247,7 @@ a<sup>bis</sup>)der verantwortlichen Person des Unternehmens die Person, die als
 
 **b) Dauer und Erneuerung**
 
-<sup>1</sup> Die Bewilligung ist grundsätzlich für vier Jahre gültig; Artikel 10a Abs. 1,
-
-- 2\. Satz, bleibt vorbehalten. Die zuständige Behörde kann eine kürzere Dauer vorsehen, wenn dies durch die Umstände gerechtfertigt ist.
+<sup>1</sup> Die Bewilligung ist grundsätzlich für vier Jahre gültig; Artikel 10a Abs. 1, 2. Satz, bleibt vorbehalten. Die zuständige Behörde kann eine kürzere Dauer vorsehen, wenn dies durch die Umstände gerechtfertigt ist.
 
 <sup>2</sup> Die Bewilligung kann auf Verlangen erneuert werden; das Gesuch um Erneuerung muss mindestens zwei Monate vor Ablauf der Bewilligung eingereicht werden. Die zuständige Behörde tritt nicht auf das Gesuch ein, wenn das Sicherheitsunternehmen mit den Gebühren im Rückstand ist.
 
@@ -335,7 +331,9 @@ a<sup>bis</sup>)der verantwortlichen Person des Unternehmens die Person, die als
 
 <sup>2</sup> Die Weitergabe von Tätigkeiten ist nur zulässig, wenn:
 
-- a) der Auftraggeber seine Ermächtigung dazu gegeben hat (s. Art. 398 Abs. 3 OR);
+- a) der Auftraggeber seine Ermächtigung dazu gegeben hat (s. Art. 398 Abs.
+
+3 OR);
 
 - b) der Vertrag über die Auftragsübertragung in schriftlicher Form ausgefertigt ist;
 
@@ -507,7 +505,7 @@ Nach der Genehmigung durch den Bundesrat tritt dieses Konkordat in Kraft, wenn i
 
 **Anpassung an das Konkordat der KKJPD**
 
-<sup>1</sup> Die Änderungen dieses Konkordats, die aufgrund des Inkrafttretens des Konkordats der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren über private Sicherheitsdienstleistungen vom 12. November 2010 (das Konkordat der KKJPD) erforderlich sind, werden in einer Zusatzvereinbarung zu diesem Konkordat aufgeführt (Zusatzvereinbarung 1).
+<sup>1</sup> Die Änderungen dieses Konkordats, die aufgrund des Inkrafttretens des Konkordats der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und - direktoren über private Sicherheitsdienstleistungen vom 12. November 2010 (das Konkordat der KKJPD) erforderlich sind, werden in einer Zusatzvereinbarung zu diesem Konkordat aufgeführt (Zusatzvereinbarung 1).
 
 <sup>2</sup> Die Konferenz entscheidet je nach Anzahl und Grösse der Kantone, die dem Konkordat der KKJPD beigetreten sind, über das Inkrafttreten aller in der Zusatzvereinbarung vorgesehenen Änderungen oder eines Teils davon.
 
@@ -517,19 +515,17 @@ Nach der Genehmigung durch den Bundesrat tritt dieses Konkordat in Kraft, wenn i
 
 Ein Mitgliedkanton kann das Konkordat mittels einjähriger Vorankündigung auf Ende eines Jahres kündigen. Die anderen Kantone entscheiden darüber, ob das Konkordat in Kraft zu lassen ist.
 
-———————
-
-## Genehmigung
+### Genehmigung
 
 Das Konkordat ist am 17.12.1992 vom Eidgenössischen Justiz- und Polizeidepartement genehmigt worden.
-
-———————
 
 Beitritt durch Dekret vom 21.5.1997 Inkrafttreten für den Kanton Freiburg: 1.1.1999
 
 ## Zusatzvereinbarung 1
 
-Das Konkordat vom 18. Oktober 1996 über die Sicherheitsunternehmen (SGF 559.6) wird wie folgt geändert:
+**559.6)**
+
+Das Konkordat vom 18. Oktober 1996 über die Sicherheitsunternehmen (SGF wird wie folgt geändert:
 
 #### Art. 9
 
@@ -549,17 +545,17 @@ Das Konkordat vom 18. Oktober 1996 über die Sicherheitsunternehmen (SGF 559.6) 
 
 ### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
 
-18.10.1996 Erlass Grunderlass 01.01.1999 BL/AGS 1997 f 244 / d 246 03.07.2003 Art.5 geändert 01.07.2004 2003\_152 03.07.2003 Art.6 geändert 01.07.2004 2003\_152 03.07.2003 Art.7 geändert 01.07.2004 2003\_152 03.07.2003 Art.8 geändert 01.07.2004 2003\_152 03.07.2003 Art.9 geändert 01.07.2004 2003\_152 03.07.2003 Art.10 geändert 01.07.2004 2003\_152 03.07.2003 Art.10a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.10b eingefügt 01.07.2004 2003\_152 03.07.2003 Art.11 geändert 01.07.2004 2003\_152 03.07.2003 Art.11a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.12 geändert 01.07.2004 2003\_152 03.07.2003 Art.13 geändert 01.07.2004 2003\_152 03.07.2003 Art.14 geändert 01.07.2004 2003\_152 03.07.2003 Art.14a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.15 geändert 01.07.2004 2003\_152 03.07.2003 Art.15a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.16 geändert 01.07.2004 2003\_152 03.07.2003 Art.18 geändert 01.07.2004 2003\_152 03.07.2003 Art.22 geändert 01.07.2004 2003\_152 03.07.2003 Art.28 geändert 01.07.2004 2003\_152 09.07.2004 Art.11a geändert 01.07.2004 2003\_152a 09.07.2004 Art.15 geändert 01.07.2004 2003\_152a 09.07.2004 Art.16 geändert 01.07.2004 2003\_152a 09.07.2004 Art.18 geändert 01.07.2004 2003\_152a 05.10.2012 Art.2 geändert 01.04.2014 2013\_071 05.10.2012 Art.4 geändert 01.04.2014 2013\_071 05.10.2012 Art.5 geändert 01.04.2014 2013\_071 05.10.2012 Art.6 geändert 01.04.2014 2013\_071 05.10.2012 Art.7 geändert 01.04.2014 2013\_071 05.10.2012 Art.8 geändert 01.04.2014 2013\_071 05.10.2012 Art.9 geändert 01.04.2014 2013\_071 05.10.2012 Art.10 geändert 01.04.2014 2013\_071 05.10.2012 Art.10a geändert 01.04.2014 2013\_071 05.10.2012 Art.10b geändert 01.04.2014 2013\_071 05.10.2012 Art.11 geändert 01.04.2014 2013\_071 05.10.2012 Art.11a geändert 01.04.2014 2013\_071 05.10.2012 Art.11b eingefügt 01.04.2014 2013\_071 05.10.2012 Art.12 geändert 01.04.2014 2013\_071 05.10.2012 Art.12a eingefügt 01.04.2014 2013\_071 05.10.2012 Art.13 geändert 01.04.2014 2013\_071 05.10.2012 Art.14 geändert 01.04.2014 2013\_071 05.10.2012 Art.14a geändert 01.04.2014 2013\_071 05.10.2012 Art.15 geändert 01.04.2014 2013\_071 05.10.2012 Art.15a geändert 01.04.2014 2013\_071 05.10.2012 Art.15b eingefügt 01.04.2014 2013\_071
+18.10.1996 Erlass Grunderlass 01.01.1999 BL/AGS 1997 f 244 / d 246 03.07.2003 Art.5 geändert 01.07.2004 2003\_152 03.07.2003 Art.6 geändert 01.07.2004 2003\_152 03.07.2003 Art.7 geändert 01.07.2004 2003\_152 03.07.2003 Art.8 geändert 01.07.2004 2003\_152 03.07.2003 Art.9 geändert 01.07.2004 2003\_152 03.07.2003 Art.10 geändert 01.07.2004 2003\_152 03.07.2003 Art.10a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.10b eingefügt 01.07.2004 2003\_152 03.07.2003 Art.11 geändert 01.07.2004 2003\_152 03.07.2003 Art.11a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.12 geändert 01.07.2004 2003\_152 03.07.2003 Art.13 geändert 01.07.2004 2003\_152 03.07.2003 Art.14 geändert 01.07.2004 2003\_152 03.07.2003 Art.14a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.15 geändert 01.07.2004 2003\_152 03.07.2003 Art.15a eingefügt 01.07.2004 2003\_152 03.07.2003 Art.16 geändert 01.07.2004 2003\_152 03.07.2003 Art.18 geändert 01.07.2004 2003\_152 03.07.2003 Art.22 geändert 01.07.2004 2003\_152 03.07.2003 Art.28 geändert 01.07.2004 2003\_152 09.07.2004 Art.11a geändert 01.07.2004 2003\_152a 09.07.2004 Art.15 geändert 01.07.2004 2003\_152a 09.07.2004 Art.16 geändert 01.07.2004 2003\_152a 09.07.2004 Art.18 geändert 01.07.2004 2003\_152a 05.10.2012 Art.2 geändert 01.04.2014 2013\_071 05.10.2012 Art.4 geändert 01.04.2014 2013\_071 05.10.2012 Art.5 geändert 01.04.2014 2013\_071 05.10.2012 Art.6 geändert 01.04.2014 2013\_071 05.10.2012 Art.7 geändert 01.04.2014 2013\_071 05.10.2012 Art.8 geändert 01.04.2014 2013\_071 05.10.2012 Art.9 geändert 01.04.2014 2013\_071 05.10.2012 Art.10 geändert 01.04.2014 2013\_071 05.10.2012 Art.10a geändert 01.04.2014 2013\_071 05.10.2012 Art.10b geändert 01.04.2014 2013\_071 05.10.2012 Art.11 geändert 01.04.2014 2013\_071 05.10.2012 Art.11a geändert 01.04.2014 2013\_071 05.10.2012 Art.11b eingefügt 01.04.2014 2013\_071 05.10.2012 Art.12 geändert 01.04.2014 2013\_071 05.10.2012 Art.12a eingefügt 01.04.2014 2013\_071 05.10.2012 Art.13 geändert 01.04.2014 2013\_071 05.10.2012 Art.14 geändert 01.04.2014 2013\_071 05.10.2012 Art.14a geändert 01.04.2014 2013\_071 05.10.2012 Art.15 geändert 01.04.2014 2013\_071 05.10.2012 Art.15a geändert 01.04.2014 2013\_071 05.10.2012 Art.15b eingefügt 01.04.2014 2013\_071 05.10.2012 Art.15c eingefügt 01.04.2014 2013\_071
 
 ### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
 
-05.10.2012 Art.15c eingefügt 01.04.2014 2013\_071 05.10.2012 Art.18 geändert 01.04.2014 2013\_071 05.10.2012 Art.22 geändert 01.04.2014 2013\_071 05.10.2012 Art.23 geändert 01.04.2014 2013\_071 05.10.2012 Art.26 geändert 01.04.2014 2013\_071 05.10.2012 Art.28 geändert 01.04.2014 2013\_071 05.10.2012 Art.28a eingefügt 01.04.2014 2013\_071 05.10.2012 Art.30a eingefügt 01.04.2014 2013\_071 05.10.2012 Nachtrag 1 eingefügt 01.04.2014 2013\_071
+05.10.2012 Art.18 geändert 01.04.2014 2013\_071 05.10.2012 Art.22 geändert 01.04.2014 2013\_071 05.10.2012 Art.23 geändert 01.04.2014 2013\_071 05.10.2012 Art.26 geändert 01.04.2014 2013\_071 05.10.2012 Art.28 geändert 01.04.2014 2013\_071 05.10.2012 Art.28a eingefügt 01.04.2014 2013\_071 05.10.2012 Art.30a eingefügt 01.04.2014 2013\_071 05.10.2012 Nachtrag 1 eingefügt 01.04.2014 2013\_071 10.10.2024 Art. 9 Geändert 04.01.2025 2024\_075
 
 ### Änderungstabelle – Nach Artikel
 
 ### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
 
-Erlass Grunderlass 18.10.1996 01.01.1999 BL/AGS 1997 f 244 / d 246 Art.2 geändert 05.10.2012 01.04.2014 2013\_071 Art.4 geändert 05.10.2012 01.04.2014 2013\_071 Art.5 geändert 03.07.2003 01.07.2004 2003\_152 Art.5 geändert 05.10.2012 01.04.2014 2013\_071 Art.6 geändert 03.07.2003 01.07.2004 2003\_152 Art.6 geändert 05.10.2012 01.04.2014 2013\_071 Art.7 geändert 03.07.2003 01.07.2004 2003\_152 Art.7 geändert 05.10.2012 01.04.2014 2013\_071 Art.8 geändert 03.07.2003 01.07.2004 2003\_152 Art.8 geändert 05.10.2012 01.04.2014 2013\_071 Art.9 geändert 03.07.2003 01.07.2004 2003\_152 Art.9 geändert 05.10.2012 01.04.2014 2013\_071 Art.10 geändert 03.07.2003 01.07.2004 2003\_152 Art.10 geändert 05.10.2012 01.04.2014 2013\_071 Art.10a eingefügt 03.07.2003 01.07.2004 2003\_152 Art.10a geändert 05.10.2012 01.04.2014 2013\_071 Art.10b eingefügt 03.07.2003 01.07.2004 2003\_152 Art.10b geändert 05.10.2012 01.04.2014 2013\_071 Art.11 geändert 03.07.2003 01.07.2004 2003\_152 Art.11 geändert 05.10.2012 01.04.2014 2013\_071 Art.11a eingefügt 03.07.2003 01.07.2004 2003\_152 Art.11a geändert 09.07.2004 01.07.2004 2003\_152a Art.11a geändert 05.10.2012 01.04.2014 2013\_071 Art.11b eingefügt 05.10.2012 01.04.2014 2013\_071 Art.12 geändert 03.07.2003 01.07.2004 2003\_152 Art.12 geändert 05.10.2012 01.04.2014 2013\_071 Art.12a eingefügt 05.10.2012 01.04.2014 2013\_071 Art.13 geändert 03.07.2003 01.07.2004 2003\_152 Art.13 geändert 05.10.2012 01.04.2014 2013\_071 Art.14 geändert 03.07.2003 01.07.2004 2003\_152 Art.14 geändert 05.10.2012 01.04.2014 2013\_071
+Erlass Grunderlass 18.10.1996 01.01.1999 BL/AGS 1997 f 244 / d 246 Art.2 geändert 05.10.2012 01.04.2014 2013\_071 Art.4 geändert 05.10.2012 01.04.2014 2013\_071 Art.5 geändert 03.07.2003 01.07.2004 2003\_152 Art.5 geändert 05.10.2012 01.04.2014 2013\_071 Art.6 geändert 03.07.2003 01.07.2004 2003\_152 Art.6 geändert 05.10.2012 01.04.2014 2013\_071 Art.7 geändert 03.07.2003 01.07.2004 2003\_152 Art.7 geändert 05.10.2012 01.04.2014 2013\_071 Art.8 geändert 03.07.2003 01.07.2004 2003\_152 Art.8 geändert 05.10.2012 01.04.2014 2013\_071 Art.9 geändert 03.07.2003 01.07.2004 2003\_152 Art.9 geändert 05.10.2012 01.04.2014 2013\_071 Art. 9 Geändert 10.10.2024 04.01.2025 2024\_075 Art.10 geändert 03.07.2003 01.07.2004 2003\_152 Art.10 geändert 05.10.2012 01.04.2014 2013\_071 Art.10a eingefügt 03.07.2003 01.07.2004 2003\_152 Art.10a geändert 05.10.2012 01.04.2014 2013\_071 Art.10b eingefügt 03.07.2003 01.07.2004 2003\_152 Art.10b geändert 05.10.2012 01.04.2014 2013\_071 Art.11 geändert 03.07.2003 01.07.2004 2003\_152 Art.11 geändert 05.10.2012 01.04.2014 2013\_071 Art.11a eingefügt 03.07.2003 01.07.2004 2003\_152 Art.11a geändert 09.07.2004 01.07.2004 2003\_152a Art.11a geändert 05.10.2012 01.04.2014 2013\_071 Art.11b eingefügt 05.10.2012 01.04.2014 2013\_071 Art.12 geändert 03.07.2003 01.07.2004 2003\_152 Art.12 geändert 05.10.2012 01.04.2014 2013\_071 Art.12a eingefügt 05.10.2012 01.04.2014 2013\_071 Art.13 geändert 03.07.2003 01.07.2004 2003\_152 Art.13 geändert 05.10.2012 01.04.2014 2013\_071 Art.14 geändert 03.07.2003 01.07.2004 2003\_152 Art.14 geändert 05.10.2012 01.04.2014 2013\_071
 
 ### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
 

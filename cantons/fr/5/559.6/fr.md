@@ -4,21 +4,20 @@ number: "559.6"
 title: Concordat sur les entreprises de sécurité
 short: CES
 language: fr
-version: 2014-04-01
-valid_until: 2025-01-03
-version_adopted: 2012-10-05
+version: 2025-01-04
+version_adopted: 2024-03-21
 adopted: 1996-10-18
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/559.6"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6163/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8165/pdf_file"
 text: pdf
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
 
-# Concordat sur les entreprises de sécurité
+# Concordat sur les entreprises de sécurité (CES)
 
-du 18.10.1996 (version entrée en vigueur le 01.04.2014)
+du 18.10.1996 (version entrée en vigueur le 04.01.2025)
 
 I. Généralités
 
@@ -32,9 +31,9 @@ Sont parties au concordat les cantons qui déclarent leur adhésion.
 
 **Buts**
 
-<sup>1</sup> Le présent concordat a pour buts :
+<sup>1</sup> Le présent concordat a pour buts:
 
-- a) de fixer des règles communes régissant l’activité des entreprises de sécurité et de leurs agents ;
+- a) de fixer des règles communes régissant l’activité des entreprises de sécurité et de leurs agents;
 
 - b) d’assurer la validité intercantonale des autorisations accordées par les cantons.
 
@@ -52,11 +51,11 @@ Sont réservées les dispositions fédérales ainsi que les prescriptions plus r
 
 **En général**
 
-<sup>1</sup> Le présent concordat régit les activités suivantes, exercées, sur le domaine public ou sur le domaine privé, à titre principal ou accessoire, rémunérées ou non, soit par du personnel, soit au moyen d’installations adéquates (notamment centrales d’alarmes) :
+<sup>1</sup> Le présent concordat régit les activités suivantes, exercées, sur le domaine public ou sur le domaine privé, à titre principal ou accessoire, rémunérées ou non, soit par du personnel, soit au moyen d’installations adéquates (notamment centrales d’alarmes):
 
-- a) la surveillance ou la garde de biens mobiliers ou immobiliers ;
+- a) la surveillance ou la garde de biens mobiliers ou immobiliers;
 
-- b) la protection des personnes ;
+- b) la protection des personnes;
 
 - c) le transport de sécurité de biens ou de valeurs.
 
@@ -70,9 +69,9 @@ Sont réservées les dispositions fédérales ainsi que les prescriptions plus r
 
 <sup>2</sup> Les employeurs visés par l’alinéa 1 doivent obtenir une autorisation d’engager du personnel conformément aux articles 9 et 10a par le canton où l’activité s’exerce. Les dispositions des articles 10a, 10b, 11 al. 1, 11a, 12, 12a al. 1 à 3, 13, 14, 14a, 15, 15a, 16 al. 1 et 2, 17, 18, 22, 23 et 24 s’appliquent par analogie aux employeurs et aux employés visés par le présent article.
 
-<sup>3</sup> Les cantons sont en outre compétents pour soumettre au concordat :
+<sup>3</sup> Les cantons sont en outre compétents pour soumettre au concordat:
 
-- a) la protection et la surveillance exercée, sous contrat de travail, par les employés engagés par un employeur dans des stades ou des autres lieux où sont exercées des activités sportives ;
+- a) la protection et la surveillance exercée, sous contrat de travail, par les employés engagés par un employeur dans des stades ou des autres lieux où sont exercées des activités sportives;
 
 - b) la recherche de renseignements effectuée sous contrat de mandat (recherche de renseignements commerciaux ou privés).
 
@@ -80,13 +79,13 @@ Sont réservées les dispositions fédérales ainsi que les prescriptions plus r
 
 **Définitions**
 
-Au sens du présent concordat, on entend par :
+Au sens du présent concordat, on entend par:
 
-- a) entreprise de sécurité, toute entreprise, qu’elle qu’en soit la forme juridique (entreprise individuelle, personne morale, …), employant ou non du personnel et pratiquant sous contrat de mandat des activités soumises au présent concordat ;
+- a) entreprise de sécurité, toute entreprise, qu’elle qu’en soit la forme juridique (entreprise individuelle, personne morale, …), employant ou non du personnel et pratiquant sous contrat de mandat des activités soumises au présent concordat;
 
-a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou comme responsable désigné par une personne morale, exploite une entreprise de sécurité, en la forme commerciale ou non. Le responsable doit avoir les pouvoirs de représenter et d’engager l’entreprise auprès des agents de sécurité, des clients et des autorités. La Commission concordataire précise les exigences en la matière ;
+a<sup>bis</sup>) responsable d’entreprise, celui qui, à titre individuel ou comme responsable désigné par une personne morale, exploite une entreprise de sécurité, en la forme commerciale ou non. Le responsable doit avoir les pouvoirs de représenter et d’engager l’entreprise auprès des agents de sécurité, des clients et des autorités. La Commission concordataire précise les exigences en la matière;
 
-- b) agent de sécurité, toute personne physique chargée, à titre principal ou accessoire, d’une façon rémunérée ou non, employée comme membre d’une entreprise de sécurité, d’assurer des activités de surveillance ou de protection ou des transports de sécurité.
+- b) agent de sécurité, toute personne physique chargée, à titre principal ou accessoire, d’une façon rémunérée ou non, employée comme membre d’une entreprise de sécurité, d’assurer des activités de surveillance ou de protection ou des transports de sécurité;
 
 - c) chef de succursale, la personne responsable d’un secteur d’activité géographiquement décentralisé de l’entreprise de sécurité, pour autant qu’elle dispose de compétences étendues dans la direction dudit secteur et dans la conduite des collaborateurs qui lui sont subordonnés.
 
@@ -96,11 +95,11 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 **Principes**
 
-<sup>1</sup> Une autorisation préalable est nécessaire pour :
+<sup>1</sup> Une autorisation préalable est nécessaire pour:
 
-- a) exploiter une entreprise de sécurité ou une succursale de celle-ci dans les cantons concordataires et engager du personnel à cet effet ;
+- a) exploiter une entreprise de sécurité ou une succursale de celle-ci dans les cantons concordataires et engager du personnel à cet effet;
 
-- b) exercer, sur le territoire des cantons concordataires, une activité visée à l’article 4 du présent concordat ;
+- b) exercer, sur le territoire des cantons concordataires, une activité visée à l’article 4 du présent concordat;
 
 - c) utiliser un chien pour l’exécution d’activités régies par le présent concordat.
 
@@ -116,25 +115,25 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 - a) Autorisation d’exploiter
 
-<sup>1</sup> L’autorisation d’exploiter ne peut être accordée à l’entreprise de sécurité que si le responsable :
+<sup>1</sup> L’autorisation d’exploiter ne peut être accordée à l’entreprise de sécurité que si le responsable:
 
-- a) est de nationalité suisse, ressortissant d’un Etat membre de l’Union européenne ou de l’Association européenne de libre-échange ou, pour les ressortissants d’autres Etats étrangers, titulaire d’un permis d’établissement ;
+- a) est de nationalité suisse, ressortissant d’un Etat membre de l’Union européenne ou de l’Association européenne de libre-échange ou, pour les ressortissants d’autres Etats étrangers, titulaire d’un permis d’établissement;
 
-- b) a l’exercice des droit civils ;
+- b) a l’exercice des droit civils;
 
-- c) est solvable ou ne fait pas l’objet d’actes de défaut de biens définitifs ;
+- c) est solvable ou ne fait pas l’objet d’actes de défaut de biens définitifs;
 
-- d) offre, par ses antécédents, par son caractère et son comportement, toute garantie d’honorabilité concernant la sphère d’activité envisagée. La Commission concordataire édicte une directive fixant les exigences à cet égard ; elle tient essentiellement compte de la gravité des actes commis précédemment à la requête d’autorisation, des circonstances subjectives de ces actes et du temps écoulé depuis ceux-ci ;
+- d) offre, par ses antécédents, par son caractère et son comportement, toute garantie d’honorabilité concernant la sphère d’activité envisagée. La Commission concordataire édicte une directive fixant les exigences à cet égard ; elle tient essentiellement compte de la gravité des actes commis précédemment à la requête d’autorisation, des circonstances subjectives de ces actes et du temps écoulé depuis ceux-ci;
 
 - e) …
 
 - f) a subi avec succès l’examen de responsable d’entreprise portant sur la connaissance de la législation applicable en la matière.
 
-<sup>1bis</sup> En outre, elle ne peut être accordée que si l’entreprise de sécurité :
+<sup>1bis</sup> En outre, elle ne peut être accordée que si l’entreprise de sécurité:
 
-- a) n’est pas en faillite ;
+- a) n’est pas en faillite;
 
-- b) offre toute garantie concernant le respect, par ses organes, des dispositions concordataires et des dispositions du droit fédéral applicables à l’entreprise et à ses agents (cf. art. 15 à 21) ;
+- b) offre toute garantie concernant le respect, par ses organes, des dispositions concordataires et des dispositions du droit fédéral applicables à l’entreprise et à ses agents (cf. art. 15 à 21);
 
 - c) est assurée en responsabilité civile, à concurrence d’un montant de couverture de 5 millions de francs au minimum.
 
@@ -144,17 +143,17 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 **) Autorisation d’engager du personnel**
 
-<sup>1</sup> L’autorisation d’engager du personnel n’est accordée que si l’agent de sécurité ou le chef de succursale :
+<sup>1</sup> L’autorisation d’engager du personnel n’est accordée que si l’agent de sécurité ou le chef de succursale:
 
-- a) est de nationalité suisse, ressortissant d’un Etat membre de l’Union européenne ou de l’Association européenne de libre-échange ou, pour les ressortissants d’autres Etats étrangers, titulaire d’un permis d’établissement ou d’un permis de séjour depuis deux ans au moins ;
+- a) est de nationalité suisse, ressortissant d’un Etat membre de l’Union européenne ou de l’Association européenne de libre-échange ou, pour les ressortissants d’autres Etats étrangers, titulaire d’un permis d’établissement ou d’un permis de séjour depuis deux ans au moins;
 
-- b) a l’exercice des droits civils ;
+- b) a l’exercice des droits civils;
 
-- c) est solvable ou ne fait pas l’objet d’actes de défaut de biens définitifs ;
+- c) …
 
-- d) offre, par ses antécédents, par son caractère et son comportement, toute garantie d’honorabilité concernant la sphère d’activité envisagée. La Commission concordataire édicte une directive à cet égard (cf. art. 8 al. 1 let. d, 2<sup>e</sup> phr.).
+- d) offre, par ses antécédents, par son caractère et son comportement, toute garantie d’honorabilité concernant la sphère d’activité envisagée. La Commission concordataire édicte une directive à cet égard (cf. art. 8, al. 1, let. d, 2<sup>e</sup> phr.).
 
-<sup>2</sup> En outre, le chef de succursale doit avoir subi avec succès l’examen prévu à l’article 8 al. 1 let. f.
+<sup>2</sup> En outre, le chef de succursale doit avoir subi avec succès l’examen prévu à l’article 8, alinéa 1, lettre f.
 
 #### Art. 10 c
 
@@ -172,9 +171,9 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 <sup>1</sup> Les agents de sécurité qui utilisent des chiens pour l’exécution des activités régies par le concordat doivent être au bénéfice d’une autorisation délivrée à cet effet. L’autorisation est valable deux ans ; elle est renouvelable sur demande du titulaire.
 
-<sup>2</sup> L’autorisation n’est accordée que si, par un test d’aptitudes, il est démontré que :
+<sup>2</sup> L’autorisation n’est accordée que si, par un test d’aptitudes, il est démontré que:
 
-- a) le maître-chien est apte à conduire son chien ;
+- a) le maître-chien est apte à conduire son chien;
 
 - b) le chien utilisé est formé à exercer les activités régies par le concordat.
 
@@ -202,13 +201,13 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 - a) des entreprises de sécurité
 
-<sup>1</sup> Les entreprises de sécurité communiquent immédiatement aux autorités cantonales compétentes :
+<sup>1</sup> Les entreprises de sécurité communiquent immédiatement aux autorités cantonales compétentes:
 
-- a) la cessation d’activité des responsables d’entreprises, des chefs de succursales et des agents de sécurité ;
+- a) la cessation d’activité des responsables d’entreprises, des chefs de succursales et des agents de sécurité;
 
-- b) la perte, le vol, la destruction ou la détérioration des cartes de légitimation ;
+- b) la perte, le vol, la destruction ou la détérioration des cartes de légitimation;
 
-- c) tout fait pouvant justifier une mesure administrative ;
+- c) tout fait pouvant justifier une mesure administrative;
 
 - d) toute modification de leurs coordonnées et de leur organisation.
 
@@ -262,21 +261,21 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 **Mesures administratives**
 
-<sup>1</sup> L’autorité qui a accordé la décision doit la retirer :
+<sup>1</sup> L’autorité qui a accordé la décision doit la retirer:
 
-- a) lorsque les conditions de son octroi, prévues aux articles 8, 9, 10 et 10a, ne sont plus remplies ;
+- a) lorsque les conditions de son octroi, prévues aux articles 8, 9, 10 et 10a, ne sont plus remplies;
 
-- b) lorsque les charges y relatives, prévues à l’article 12 al. 3, ne sont plus remplies ;
+- b) lorsque les charges y relatives, prévues à l’article 12 al. 3, ne sont plus remplies;
 
 - c) lorsque l’autorisation cesse d’être utilisée ou lorsqu’il n’en est pas fait usage dans les six mois à compter de sa délivrance.
 
 <sup>2</sup> Elle peut retirer l’autorisation lorsque son titulaire ou l’agent concerné contrevient aux dispositions du présent concordat, de ses directives d’application ou de la législation cantonale applicable.
 
-<sup>3</sup> L’autorité peut également, dans les cas visés à l’alinéa 2 :
+<sup>3</sup> L’autorité peut également, dans les cas visés à l’alinéa 2:
 
-- a) prononcer un avertissement ;
+- a) prononcer un avertissement;
 
-- b) suspendre l’autorisation pour une durée de un à six mois ;
+- b) suspendre l’autorisation pour une durée de un à six mois;
 
 - c) prononcer une amende administrative d’un montant maximal de 60 000 francs ; l’amende peut être cumulée avec les sanctions prévues aux lettres a et b.
 
@@ -332,11 +331,11 @@ a<sup>bis</sup>)responsable d’entreprise, celui qui, à titre individuel ou co
 
 <sup>1</sup> Les entreprises de sécurité peuvent sous-traiter des tâches de protection et de surveillance à d’autres entreprises de sécurité.
 
-<sup>2</sup> La sous-traitance n’est admissible qu’aux conditions suivantes :
+<sup>2</sup> La sous-traitance n’est admissible qu’aux conditions suivantes:
 
-- a) le mandant y a donné son autorisation (cf. art. 398 al. 3 CO) ;
+- a) le mandant y a donné son autorisation (cf. art. 398 al. 3 CO);
 
-- b) le contrat de sous-mandat est passé en la forme écrite ;
+- b) le contrat de sous-mandat est passé en la forme écrite;
 
 - c) les entreprises et les agents concernés sont autorisés conformément au présent concordat.
 
@@ -410,13 +409,13 @@ Les personnes soumises au présent concordat ont l’obligation de dénoncer san
 
 **Contraventions**
 
-<sup>1</sup> Est passible de l’amende celui qui :
+<sup>1</sup> Est passible de l’amende celui qui:
 
-- a) pratique, comme agent de sécurité, comme chef de succursale ou comme responsable d’entreprise, sans y être autorisé en application des articles 8, 9 ou 10 ;
+- a) pratique, comme agent de sécurité, comme chef de succursale ou comme responsable d’entreprise, sans y être autorisé en application des articles 8, 9 ou 10;
 
-- b) utilise un chien sans être au bénéfice d’une autorisation en application de l’article 10a ;
+- b) utilise un chien sans être au bénéfice d’une autorisation en application de l’article 10a;
 
-- c) emploie, en sa qualité de responsable d’entreprise, des personnes ou des chiens non autorisés ;
+- c) emploie, en sa qualité de responsable d’entreprise, des personnes ou des chiens non autorisés;
 
 - d) contrevient aux dispositions des articles 11, 15, 15a, 15b, 15c, 16, 17, 18, 19, 20 et 21 al. 2.
 
@@ -444,17 +443,17 @@ Les autorités judiciaires des cantons concordataires communiquent à l’autori
 
 **Tâches des cantons**
 
-Les cantons concordataires veillent à l’application du présent concordat. Ils sont en particulier compétents pour :
+Les cantons concordataires veillent à l’application du présent concordat. Ils sont en particulier compétents pour:
 
-- a) régler la procédure applicable ;
+- a) régler la procédure applicable;
 
-- b) désigner les autorités compétentes ;
+- b) désigner les autorités compétentes;
 
 - c) fixer les émoluments, les voies de droit et la procédure de recours.
 
 #### Art. 26
 
-**Organe directeur**
+**En vertu du droit cantonal**
 
 La Conférence latine des chefs des Départements de justice et police, cas échéant complétée par les représentants d’autres cantons parties (ci-après : la Conférence), est l’organe directeur du présent concordat. Elle désigne les membres d’une Commission concordataire.
 
@@ -466,7 +465,7 @@ La Conférence latine des chefs des Départements de justice et police, cas éch
 
 <sup>1</sup> La Commission concordataire est composée d’un représentant par canton concordataire et elle est présidée par un membre de la Conférence nommé par celle-ci à cet effet.
 
-<sup>2</sup> La Commission concordataire se réunit au moins une fois par année et fixe elle-même sa procédure. Elle peut notamment constituer des souscommissions chargées de tâches spéciales.
+<sup>2</sup> La Commission concordataire se réunit au moins une fois par année et fixe elle-même sa procédure. Elle peut notamment constituer des sous-commissions chargées de tâches spéciales.
 
 <sup>3</sup> Le secrétariat est assuré par le canton d’où provient le président.
 
@@ -500,13 +499,13 @@ Le présent concordat, après avoir été approuvé par le Conseil fédéral, en
 
 **Droit transitoire**
 
-...
+…
 
 #### Art. 30a
 
 **Adaptation au concordat de la CCDJP**
 
-<sup>1</sup> Les modifications du présent concordat, nécessitées par l’entrée en vigueur du concordat du 12 novembre 2010 sur les prestations de sécurité effectuées par des personnes privées, émanant de la Conférence des directrices et directeurs des départements cantonaux de justice et police (ciaprès : le concordat de la CCDJP), figurent dans un avenant annexé au présent concordat (Avenant N<sup>o</sup> 1).
+<sup>1</sup> Les modifications du présent concordat, nécessitées par l’entrée en vigueur du concordat du 12 novembre 2010 sur les prestations de sécurité effectuées par des personnes privées, émanant de la Conférence des directrices et directeurs des départements cantonaux de justice et police (ci-après : le concordat de la CCDJP), figurent dans un avenant annexé au présent concordat (Avenant N<sup>o</sup> 1).
 
 <sup>2</sup> La Conférence décide de l’entrée en vigueur de tout ou partie des modifications prévues par cet avenant, en fonction du nombre et de l’importance des cantons ayant adhéré au concordat de la CCDJP.
 
@@ -516,7 +515,7 @@ Le présent concordat, après avoir été approuvé par le Conseil fédéral, en
 
 Un canton signataire peut dénoncer le concordat, moyennant préavis d’un an, pour la fin d’une année. Les autres cantons décident s’il y a lieu de le maintenir en vigueur.
 
-## Approbation
+### Approbation
 
 Le concordat a été approuvé par le Département fédéral de justice et police le 17.12.1996.
 
@@ -530,7 +529,7 @@ Le concordat du 18 octobre 1996 sur les entreprises de sécurité (RSF 559.6) es
 
 **al. 1 let. e (nouvelle) et al. 3 (nouveau)**
 
-[<sup>1</sup> L’autorisation d’engager du personnel n’est accordée que si l’agent de sécurité ou le chef de succursale :] e) a subi avec succès l’examen portant sur les connaissances théoriques de base applicables en la matière.
+[<sup>1</sup> L’autorisation d’engager du personnel n’est accordée que si l’agent de sécurité ou le chef de succursale:] e) a subi avec succès l’examen portant sur les connaissances théoriques de base applicables en la matière.
 
 <sup>3</sup> L’examen d’agent de sécurité est organisé par le canton du siège de l’entreprise ou de la succursale. Son contenu et ses modalités sont fixés par une directive de la Commission concordataire, laquelle peut prendre l’avis d’organismes privés offrant des formations en la matière. L’article 26 al. 2 est réservé.
 
@@ -544,17 +543,17 @@ Le concordat du 18 octobre 1996 sur les entreprises de sécurité (RSF 559.6) es
 
 ### Adoption Elément touché Type de modification Entrée en Source (ROF depuis 2002)
 
-vigueur 18.10.1996 Acte acte de base 01.01.1999 BL/AGS 1997 f 244 / d 246 03.07.2003 Art.5 modifié 01.07.2004 2003\_152 03.07.2003 Art.6 modifié 01.07.2004 2003\_152 03.07.2003 Art.7 modifié 01.07.2004 2003\_152 03.07.2003 Art.8 modifié 01.07.2004 2003\_152 03.07.2003 Art.9 modifié 01.07.2004 2003\_152 03.07.2003 Art.10 modifié 01.07.2004 2003\_152 03.07.2003 Art.10a introduit 01.07.2004 2003\_152 03.07.2003 Art.10b introduit 01.07.2004 2003\_152 03.07.2003 Art.11 modifié 01.07.2004 2003\_152 03.07.2003 Art.11a introduit 01.07.2004 2003\_152 03.07.2003 Art.12 modifié 01.07.2004 2003\_152 03.07.2003 Art.13 modifié 01.07.2004 2003\_152 03.07.2003 Art.14 modifié 01.07.2004 2003\_152 03.07.2003 Art.14a introduit 01.07.2004 2003\_152 03.07.2003 Art.15 modifié 01.07.2004 2003\_152 03.07.2003 Art.15a introduit 01.07.2004 2003\_152 03.07.2003 Art.16 modifié 01.07.2004 2003\_152 03.07.2003 Art.18 modifié 01.07.2004 2003\_152 03.07.2003 Art.22 modifié 01.07.2004 2003\_152 03.07.2003 Art.28 modifié 01.07.2004 2003\_152 09.07.2004 Art.11a modifié 01.07.2004 2003\_152a 09.07.2004 Art.15 modifié 01.07.2004 2003\_152a 09.07.2004 Art.16 modifié 01.07.2004 2003\_152a 09.07.2004 Art.18 modifié 01.07.2004 2003\_152a 05.10.2012 Art.2 modifié 01.04.2014 2013\_071 05.10.2012 Art.4 modifié 01.04.2014 2013\_071 05.10.2012 Art.5 modifié 01.04.2014 2013\_071 05.10.2012 Art.6 modifié 01.04.2014 2013\_071 05.10.2012 Art.7 modifié 01.04.2014 2013\_071 05.10.2012 Art.8 modifié 01.04.2014 2013\_071 05.10.2012 Art.9 modifié 01.04.2014 2013\_071 05.10.2012 Art.10 modifié 01.04.2014 2013\_071 05.10.2012 Art.10a modifié 01.04.2014 2013\_071 05.10.2012 Art.10b modifié 01.04.2014 2013\_071 05.10.2012 Art.11 modifié 01.04.2014 2013\_071 05.10.2012 Art.11a modifié 01.04.2014 2013\_071 05.10.2012 Art.11b introduit 01.04.2014 2013\_071 05.10.2012 Art.12 modifié 01.04.2014 2013\_071 05.10.2012 Art.12a introduit 01.04.2014 2013\_071 05.10.2012 Art.13 modifié 01.04.2014 2013\_071 05.10.2012 Art.14 modifié 01.04.2014 2013\_071 05.10.2012 Art.14a modifié 01.04.2014 2013\_071 05.10.2012 Art.15 modifié 01.04.2014 2013\_071 05.10.2012 Art.15a modifié 01.04.2014 2013\_071 05.10.2012 Art.15b introduit 01.04.2014 2013\_071
+vigueur 18.10.1996 Acte acte de base 01.01.1999 BL/AGS 1997 f 244 / d 246 03.07.2003 Art.5 Modifié 01.07.2004 2003\_152 03.07.2003 Art.6 Modifié 01.07.2004 2003\_152 03.07.2003 Art.7 Modifié 01.07.2004 2003\_152 03.07.2003 Art.8 Modifié 01.07.2004 2003\_152 03.07.2003 Art.9 Modifié 01.07.2004 2003\_152 03.07.2003 Art.10 modifié 01.07.2004 2003\_152 03.07.2003 Art.10a Introduit 01.07.2004 2003\_152 03.07.2003 Art.10b Introduit 01.07.2004 2003\_152 03.07.2003 Art.11 Modifié 01.07.2004 2003\_152 03.07.2003 Art.11a Introduit 01.07.2004 2003\_152 03.07.2003 Art.12 Modifié 01.07.2004 2003\_152 03.07.2003 Art.13 Modifié 01.07.2004 2003\_152 03.07.2003 Art.14 Modifié 01.07.2004 2003\_152 03.07.2003 Art.14a Introduit 01.07.2004 2003\_152 03.07.2003 Art.15 Modifié 01.07.2004 2003\_152 03.07.2003 Art.15a Introduit 01.07.2004 2003\_152 03.07.2003 Art.16 Modifié 01.07.2004 2003\_152 03.07.2003 Art.18 Modifié 01.07.2004 2003\_152 03.07.2003 Art.22 modifié 01.07.2004 2003\_152 03.07.2003 Art.28 modifié 01.07.2004 2003\_152 09.07.2004 Art.11a modifié 01.07.2004 2003\_152a 09.07.2004 Art.15 modifié 01.07.2004 2003\_152a 09.07.2004 Art.16 modifié 01.07.2004 2003\_152a 09.07.2004 Art.18 modifié 01.07.2004 2003\_152a 05.10.2012 Art.2 modifié 01.04.2014 2013\_071 05.10.2012 Art.4 modifié 01.04.2014 2013\_071 05.10.2012 Art.5 modifié 01.04.2014 2013\_071 05.10.2012 Art.6 modifié 01.04.2014 2013\_071 05.10.2012 Art.7 modifié 01.04.2014 2013\_071 05.10.2012 Art.8 modifié 01.04.2014 2013\_071 05.10.2012 Art.9 modifié 01.04.2014 2013\_071 05.10.2012 Art.10 modifié 01.04.2014 2013\_071 05.10.2012 Art.10a modifié 01.04.2014 2013\_071 05.10.2012 Art.10b modifié 01.04.2014 2013\_071 05.10.2012 Art.11 modifié 01.04.2014 2013\_071 05.10.2012 Art.11a modifié 01.04.2014 2013\_071 05.10.2012 Art.11b introduit 01.04.2014 2013\_071 05.10.2012 Art.12 modifié 01.04.2014 2013\_071 05.10.2012 Art.12a introduit 01.04.2014 2013\_071 05.10.2012 Art.13 modifié 01.04.2014 2013\_071 05.10.2012 Art.14 modifié 01.04.2014 2013\_071 05.10.2012 Art.14a modifié 01.04.2014 2013\_071 05.10.2012 Art.15 modifié 01.04.2014 2013\_071 05.10.2012 Art.15a modifié 01.04.2014 2013\_071 05.10.2012 Art.15b introduit 01.04.2014 2013\_071 05.10.2012 Art.15c introduit 01.04.2014 2013\_071
 
 ### Adoption Elément touché Type de modification Entrée en Source (ROF depuis 2002)
 
-vigueur 05.10.2012 Art.15c introduit 01.04.2014 2013\_071 05.10.2012 Art.18 modifié 01.04.2014 2013\_071 05.10.2012 Art.22 modifié 01.04.2014 2013\_071 05.10.2012 Art.23 modifié 01.04.2014 2013\_071 05.10.2012 Art.26 modifié 01.04.2014 2013\_071 05.10.2012 Art.28 modifié 01.04.2014 2013\_071 05.10.2012 Art.28a introduit 01.04.2014 2013\_071 05.10.2012 Art.30a introduit 01.04.2014 2013\_071 05.10.2012 Avenant 1 introduit 01.04.2014 2013\_071
+vigueur 05.10.2012 Art.18 modifié 01.04.2014 2013\_071 05.10.2012 Art.22 modifié 01.04.2014 2013\_071 05.10.2012 Art.23 modifié 01.04.2014 2013\_071 05.10.2012 Art.26 modifié 01.04.2014 2013\_071 05.10.2012 Art.28 modifié 01.04.2014 2013\_071 05.10.2012 Art.28a introduit 01.04.2014 2013\_071 05.10.2012 Art.30a introduit 01.04.2014 2013\_071 05.10.2012 Avenant 1 introduit 01.04.2014 2013\_071 10.10.2024 Art.9 modifié 04.01.2025 2024\_075
 
 ### Tableau des modifications – Par article
 
 ### Elément touché Type de modification Adoption Entrée en Source (ROF depuis 2002)
 
-vigueur Acte acte de base 18.10.1996 01.01.1999 BL/AGS 1997 f 244 / d 246 Art.2 modifié 05.10.2012 01.04.2014 2013\_071 Art.4 modifié 05.10.2012 01.04.2014 2013\_071 Art.5 modifié 03.07.2003 01.07.2004 2003\_152 Art.5 modifié 05.10.2012 01.04.2014 2013\_071 Art.6 modifié 03.07.2003 01.07.2004 2003\_152 Art.6 modifié 05.10.2012 01.04.2014 2013\_071 Art.7 modifié 03.07.2003 01.07.2004 2003\_152 Art.7 modifié 05.10.2012 01.04.2014 2013\_071 Art.8 modifié 03.07.2003 01.07.2004 2003\_152 Art.8 modifié 05.10.2012 01.04.2014 2013\_071 Art.9 modifié 03.07.2003 01.07.2004 2003\_152 Art.9 modifié 05.10.2012 01.04.2014 2013\_071 Art.10 modifié 03.07.2003 01.07.2004 2003\_152 Art.10 modifié 05.10.2012 01.04.2014 2013\_071 Art.10a introduit 03.07.2003 01.07.2004 2003\_152 Art.10a modifié 05.10.2012 01.04.2014 2013\_071 Art.10b introduit 03.07.2003 01.07.2004 2003\_152 Art.10b modifié 05.10.2012 01.04.2014 2013\_071 Art.11 modifié 03.07.2003 01.07.2004 2003\_152 Art.11 modifié 05.10.2012 01.04.2014 2013\_071 Art.11a introduit 03.07.2003 01.07.2004 2003\_152 Art.11a modifié 09.07.2004 01.07.2004 2003\_152a Art.11a modifié 05.10.2012 01.04.2014 2013\_071 Art.11b introduit 05.10.2012 01.04.2014 2013\_071 Art.12 modifié 03.07.2003 01.07.2004 2003\_152 Art.12 modifié 05.10.2012 01.04.2014 2013\_071 Art.12a introduit 05.10.2012 01.04.2014 2013\_071 Art.13 modifié 03.07.2003 01.07.2004 2003\_152 Art.13 modifié 05.10.2012 01.04.2014 2013\_071 Art.14 modifié 03.07.2003 01.07.2004 2003\_152 Art.14 modifié 05.10.2012 01.04.2014 2013\_071
+vigueur Acte acte de base 18.10.1996 01.01.1999 BL/AGS 1997 f 244 / d 246 Art.2 modifié 05.10.2012 01.04.2014 2013\_071 Art.4 modifié 05.10.2012 01.04.2014 2013\_071 Art.5 modifié 03.07.2003 01.07.2004 2003\_152 Art.5 modifié 05.10.2012 01.04.2014 2013\_071 Art.6 modifié 03.07.2003 01.07.2004 2003\_152 Art.6 modifié 05.10.2012 01.04.2014 2013\_071 Art.7 modifié 03.07.2003 01.07.2004 2003\_152 Art.7 modifié 05.10.2012 01.04.2014 2013\_071 Art.8 modifié 03.07.2003 01.07.2004 2003\_152 Art.8 modifié 05.10.2012 01.04.2014 2013\_071 Art.9 modifié 03.07.2003 01.07.2004 2003\_152 Art.9 modifié 05.10.2012 01.04.2014 2013\_071 Art. 9 Modifié 1010.2024 04.01.2025 2024\_075 Art.10 modifié 03.07.2003 01.07.2004 2003\_152 Art.10 modifié 05.10.2012 01.04.2014 2013\_071 Art.10a introduit 03.07.2003 01.07.2004 2003\_152 Art.10a modifié 05.10.2012 01.04.2014 2013\_071 Art.10b introduit 03.07.2003 01.07.2004 2003\_152 Art.10b modifié 05.10.2012 01.04.2014 2013\_071 Art.11 modifié 03.07.2003 01.07.2004 2003\_152 Art.11 modifié 05.10.2012 01.04.2014 2013\_071 Art.11a introduit 03.07.2003 01.07.2004 2003\_152 Art.11a modifié 09.07.2004 01.07.2004 2003\_152a Art.11a modifié 05.10.2012 01.04.2014 2013\_071 Art.11b introduit 05.10.2012 01.04.2014 2013\_071 Art.12 modifié 03.07.2003 01.07.2004 2003\_152 Art.12 modifié 05.10.2012 01.04.2014 2013\_071 Art.12a introduit 05.10.2012 01.04.2014 2013\_071 Art.13 modifié 03.07.2003 01.07.2004 2003\_152 Art.13 modifié 05.10.2012 01.04.2014 2013\_071 Art.14 modifié 03.07.2003 01.07.2004 2003\_152 Art.14 modifié 05.10.2012 01.04.2014 2013\_071
 
 ### Elément touché Type de modification Adoption Entrée en Source (ROF depuis 2002)
 
