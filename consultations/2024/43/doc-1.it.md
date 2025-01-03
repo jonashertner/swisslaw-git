@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica delle disposizioni della Legge sulla vigilanza dei mercati finanziari (LFINMA) e di altri atti legislativi in vista della cooperazione con le autorità estere
 document: Progetto posto in consultazione
 language: it

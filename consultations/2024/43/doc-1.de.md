@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Bestimmungen des Finanzmarktaufsichtsgesetzes (FINMAG) sowie weiterer Erlasse im Hinblick auf die Zusammenarbeit mit ausländischen Stellen
 document: Vernehmlassungsvorlage
 language: de

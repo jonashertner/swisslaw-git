@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification des dispositions de la loi sur la surveillance des marchés financiers (LFINMA) et d'autres actes législatifs en vue de la collaboration avec des instances étrangères"
 document: Projet mis en consultation-2
 language: fr
