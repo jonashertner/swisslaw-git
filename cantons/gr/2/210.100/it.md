@@ -5,12 +5,12 @@ title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-01-06
 version_adopted: 2022-06-14
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3525/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3385/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -832,9 +832,9 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Il Tribunale d'appello è l'autorità giudiziaria di reclamo.
 
-<sup>2</sup> Decisioni incidentali dell'autorità di protezione dei minori e degli adulti possono essere impugnate entro dieci giorni dalla comunicazione dinanzi al Tribunale d'appello.
+<sup>2</sup> Decisioni incidentali dell'autorità di protezione dei minori e degli adulti possono essere impugnate entro dieci giorni dalla comunicazione dinanzi al Tribunale cantonale.
 
-<sup>3</sup> Il Tribunale d'appello non è vincolato alle richieste delle parti e indaga la fattispecie d'ufficio. Sono ammessi nuovi fatti e mezzi di prova.
+<sup>3</sup> Il Tribunale cantonale non è vincolato alle richieste delle parti e indaga la fattispecie d'ufficio. Sono ammessi nuovi fatti e mezzi di prova.
 
 <sup>4</sup> A termini disposti dalla legge o dall'autorità non si applica la sospensione del termine. Le parti devono essere rese attente al riguardo.
 

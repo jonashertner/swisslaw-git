@@ -5,12 +5,12 @@ title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-01-06
 version_adopted: 2022-06-14
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3525/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -844,9 +844,9 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Das Obergericht ist die gerichtliche Beschwerdeinstanz.
 
-<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Obergericht angefochten werden.
+<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Kantonsgericht angefochten werden.
 
-<sup>3</sup> Das Obergericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
+<sup>3</sup> Das Kantonsgericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
 
 <sup>4</sup> Für gesetzliche und behördlich angeordnete Fristen gilt kein Fristenstillstand. Die Parteien sind darauf hinzuweisen.
 

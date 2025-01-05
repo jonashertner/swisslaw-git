@@ -5,12 +5,12 @@ title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-01-06
 version_adopted: 2022-06-14
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3525/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -850,9 +850,9 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> La Dretgira superiura è l'instanza giudiziala da recurs.
 
-<sup>2</sup> Cunter decisiuns intermediaras da l'Autoritad per la protecziun d'uffants e da creschids poi vegnir fatg recurs tar la Dretgira superiura entaifer 10 dis dapi lur communicaziun.
+<sup>2</sup> Cunter decisiuns intermediaras da l'Autoritad per la protecziun d'uffants e da creschids poi vegnir fatg recurs tar la Dretgira chantunala entaifer 10 dis dapi lur communicaziun.
 
-<sup>3</sup> La Dretgira superiura n'è betg liada vi da las propostas da las partidas ed eruescha d'uffizi ils fatgs. Novs fatgs e novs meds da cumprova èn admess.
+<sup>3</sup> La Dretgira chantunala n'è betg liada vi da las propostas da las partidas ed eruescha d'uffizi ils fatgs. Novs fatgs e novs meds da cumprova èn admess.
 
 <sup>4</sup> Termins legals e termins ordinads da l'autoritad na vegnan betg sistids. Las partidas ston vegnir rendidas attentas a quest fatg.
 
