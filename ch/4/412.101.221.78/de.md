@@ -3,18 +3,18 @@ sr: "412.101.221.78"
 title: Verordnung des SBFI vom 15. April 2020 über die berufliche Grundbildung Kältesystem-Monteurin/Kältesystem-Monteur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/332"
 language: de
-version: 2024-04-01
+version: 2025-01-08
 adopted: 2020-04-15
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2020-332-20240401-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20250108/de/xml/fedlex-data-admin-ch-eli-cc-2020-332-20250108-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20250108/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kältesystem-Monteurin/Kältesystem-Monteur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 15. April 2020 (Stand am 1. April 2024)
+vom 15. April 2020 (Stand am 8. Januar 2025)
 
 <table>
 <tr><td>47806</td><td>Kältesystem-Monteurin EFZ / Kältesystem-Monteur EFZ</td></tr>
@@ -237,7 +237,7 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 15. April 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
+[^9-1]: Der Bildungsplan vom 15. April 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
 [^9-2]: [SR 814.812.38](https://fedlex.data.admin.ch/eli/cc/2005/505)
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
@@ -252,7 +252,9 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 - b. gelernte Kältemonteurin oder gelernter Kältemonteur mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
 - c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Kältesystem-Monteurin EFZ und des Kältesystem-Monteurs EFZ und mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
 - d. einschlägiger Abschluss der höheren Berufsbildung;
-- e. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+- e.[^10-1] einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+
+[^10-1]: Die Berichtigung vom 8. Jan. 2025 betrifft nur den französischen Text ([AS 2025 5](https://fedlex.data.admin.ch/eli/oc/2025/5)).
 
 #### Art. 11
 
@@ -473,7 +475,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 Die Verordnung des SBFI vom 4. November 2011[^24-1] über die berufliche Grundbildung Kältesystem-Monteurin/Kältesystem-Monteur mit eidgenössischem Fähigkeitszeugnis (EFZ) wird aufgehoben.
 
-[^24-1]: [[AS 2011 6121](https://fedlex.data.admin.ch/eli/oc/2011/851), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 128 und II 128]
+[^24-1]: [[AS 2011 6121](https://fedlex.data.admin.ch/eli/oc/2011/851); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 128 und II 128]
 
 #### Art. 25
 

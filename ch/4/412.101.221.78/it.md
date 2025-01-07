@@ -3,18 +3,18 @@ sr: "412.101.221.78"
 title: Ordinanza della SEFRI del 15 aprile 2020 sulla formazione professionale di base Installatrice di sistemi di refrigerazione / Installatore di sistemi di refrigerazione con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/332"
 language: it
-version: 2024-04-01
+version: 2025-01-08
 adopted: 2020-04-15
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2020-332-20240401-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20250108/it/xml/fedlex-data-admin-ch-eli-cc-2020-332-20250108-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20250108/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Installatrice di sistemi di refrigerazione / Installatore di sistemi di refrigerazione con attestato federale di capacità (AFC)
 
-del 15 aprile 2020 (Stato 1° aprile 2024)
+del 15 aprile 2020 (Stato 8 gennaio 2025)
 
 <table>
 <tr><td>47806</td><td>Installatrice di sistemi di refrigerazione AFC / Installatore di sistemi di refrigerazione AFC</td></tr>
@@ -252,7 +252,9 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 - b. attestato federale di capacità di montatore di impianti di refrigerazione qualificato e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’installatore di sistemi di refrigerazione AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - d. titolo della formazione professionale superiore in ambito pertinente;
-- e. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+- e.[^10-1] diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+
+[^10-1]: La correzione dell’8 gen. 2025 concerne soltanto il testo francese ([RU 2025 5](https://fedlex.data.admin.ch/eli/oc/2025/5)).
 
 #### Art. 11
 
@@ -473,7 +475,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 4 novembre 2011[^24-1] sulla formazione professionale di base Installatrice di sistemi di refrigerazione/Installatore di sistemi di refrigerazione con attestato federale di capacità (AFC) è abrogata.
 
-[^24-1]: [[RU 2011 6121](https://fedlex.data.admin.ch/eli/oc/2011/851), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 128 e II 128]
+[^24-1]: [[RU 2011 6121](https://fedlex.data.admin.ch/eli/oc/2011/851); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 128, II 128]
 
 #### Art. 25
 

@@ -3,18 +3,18 @@ sr: "412.101.221.78"
 title: Ordonnance du SEFRI du 15 avril 2020 sur la formation professionnelle initiale de monteuse frigoriste / monteur frigoriste avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/332"
 language: fr
-version: 2024-04-01
+version: 2025-01-08
 adopted: 2020-04-15
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-332-20240401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20250108/fr/xml/fedlex-data-admin-ch-eli-cc-2020-332-20250108-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20250108/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de monteuse frigoriste / monteur frigoriste avec certificat fédéral de capacité (CFC)
 
-du 15 avril 2020 (État le 1<sup>er</sup> avril 2024)
+du 15 avril 2020 (État le 8 janvier 2025)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
@@ -246,7 +246,9 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 - b. les monteurs-frigoristes qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
 - c. les titulaires d’un CFC dans une profession apparentée justifiant des connaissances professionnelles requises propres aux monteurs frigoristes CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
 - d. les titulaires d’un titre correspondant de la formation professionnelle supérieure;
-- e. les titulaires d’un titre correspondant de la formation professionnelle supérieure justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+- e.[^10-1] les titulaires d’un diplôme correspondant d’une haute école justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+
+[^10-1]: Erratum du 8 janv. 2025 ([RO 2025 5](https://fedlex.data.admin.ch/eli/oc/2025/5)).
 
 #### Art. 11
 
