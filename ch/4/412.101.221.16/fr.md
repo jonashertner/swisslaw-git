@@ -3,18 +3,18 @@ sr: "412.101.221.16"
 title: Ordonnance du SEFRI du 3 avril 2024 sur la formation professionnelle initiale de géomaticienne CFC / géomaticien CFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/178"
 language: fr
-version: 2025-01-01
+version: 2025-01-08
 adopted: 2024-04-03
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/178/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-178-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/178/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/178/20250108/fr/xml/fedlex-data-admin-ch-eli-cc-2024-178-20250108-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/178/20250108/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de géomaticienne CFC / géomaticien CFC
 
-du 3 avril 2024 (État le 1<sup>er</sup> janvier 2025)
+du 3 avril 2024 (État le 8 janvier 2025)
 
 <table>
 <tr><td>64105</td><td>Géomaticienne CFC / Géomaticien CFC Geomatikerin EFZ / Geomatiker EFZ Geomatica AFC / Geomatico AFC</td></tr>
@@ -159,7 +159,9 @@ Les compétences opérationnelles dans les domaines de compétences opérationne
 
 **Formation à la pratique professionnelle**
 
-La formation à la pratique professionnelle en entreprise s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 4 jours par semaine.
+La formation à la pratique professionnelle en entreprise s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 3,75 jours par semaine.[^6-1]
+
+[^6-1]: Erratum du 8 janv. 2025 ([RO 2025 4](https://fedlex.data.admin.ch/eli/oc/2025/4)).
 
 #### Art. 7
 
@@ -172,8 +174,9 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Exécution de mandats et fourniture de prestations</td><td>40</td><td>80</td><td>0</td><td>40</td><td>160</td></tr>
 <tr><td>– Obtention de géoinformations</td><td>120</td><td>80</td><td>40</td><td>40</td><td>280</td></tr>
-<tr><td>– Structuration, organisation et gestion de géodonnées</td><td>80</td><td>80</td><td>80</td><td>40</td><td>280</td></tr>
+<tr><td>–[^7-1] Structuration, organisation et gestion de géodonnées</td><td>80</td><td>80</td><td>40</td><td>40</td><td>240</td></tr>
 <tr><td>– Conception et réalisation de produits à partir de géodonnées Mise en application des géoinformations</td><td>80</td><td>80</td><td>80</td><td>40</td><td>280</td></tr>
+<tr><td>–[^7-2] Compétence opérationnelle propre au domaine spécifique</td><td>0</td><td>0</td><td>40</td><td>0</td><td>40</td></tr>
 <tr><td>Total connaissances professionnelles</td><td>320</td><td>320</td><td>200</td><td>160</td><td>1000</td></tr>
 <tr><td>b. Culture générale</td><td>120</td><td>120</td><td>120</td><td>120</td><td>480</td></tr>
 <tr><td>c. Éducation physique</td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
@@ -182,13 +185,15 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-3].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale, dans sa forme standard, du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Erratum du 8 janv. 2025 ([RO 2025 4](https://fedlex.data.admin.ch/eli/oc/2025/4)).
+[^7-2]: Erratum du 8 janv. 2025 ([RO 2025 4](https://fedlex.data.admin.ch/eli/oc/2025/4)).
+[^7-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 8
 

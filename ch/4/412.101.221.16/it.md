@@ -3,18 +3,18 @@ sr: "412.101.221.16"
 title: Ordinanza della SEFRI del 3 aprile 2024 sulla formazione professionale di base Geomatica AFC / Geomatico AFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/178"
 language: it
-version: 2025-01-01
+version: 2025-01-08
 adopted: 2024-04-03
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/178/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-178-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/178/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/178/20250108/it/xml/fedlex-data-admin-ch-eli-cc-2024-178-20250108-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/178/20250108/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Geomatica AFC / Geomatico AFC
 
-del 3 aprile 2024 (Stato 1° gennaio 2025)
+del 3 aprile 2024 (Stato 8 gennaio 2025)
 
 <table>
 <tr><td>64105</td><td>Geomatica AFC / Geomatico AFC Geomatikerin EFZ / Geomatiker EFZ Géomaticienne CFC / Géomaticien CFC</td></tr>
@@ -159,7 +159,9 @@ Nei campi di competenze operative di cui al capoverso 1 lettere c ed e le compet
 
 **Formazione professionale pratica**
 
-La formazione professionale pratica in azienda comprende in media quattro giornate alla settimana per tutta la durata della formazione professionale di base.
+La formazione professionale pratica in azienda comprende in media 3,75 giornate alla settimana per tutta la durata della formazione professionale di base.[^6-1]
+
+[^6-1]: Correzione dell’8 gen. 2025 ([RU 2025 4](https://fedlex.data.admin.ch/eli/oc/2025/4)).
 
 #### Art. 7
 
@@ -172,8 +174,9 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Esecuzione di mandati e fornitura di servizi</td><td>40</td><td>80</td><td>0</td><td>40</td><td>160</td></tr>
 <tr><td>– Ottenimento di geoinformazioni</td><td>120</td><td>80</td><td>40</td><td>40</td><td>280</td></tr>
-<tr><td>– Strutturazione, organizzazione e gestione di geodati</td><td>80</td><td>80</td><td>80</td><td>40</td><td>280</td></tr>
+<tr><td>– [^7-1] Strutturazione, organizzazione e gestione di geodati</td><td>80</td><td>80</td><td>40</td><td>40</td><td>240</td></tr>
 <tr><td>– Creazione e realizzazione di prodotti sulla base di geodati Riproduzione di geoinformazioni</td><td>80</td><td>80</td><td>80</td><td>40</td><td>280</td></tr>
+<tr><td>– [^7-2] Competenza operativa specifica dell’orientamento</td><td>0</td><td>0</td><td>40</td><td>0</td><td>40</td></tr>
 <tr><td>Totale conoscenze professionali</td><td>320</td><td>320</td><td>200</td><td>160</td><td>1000</td></tr>
 <tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>120</td><td>480</td></tr>
 <tr><td>c. Educazione fisica</td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
@@ -182,13 +185,15 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale nella variante standard del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Correzione dell’8 gen. 2025 ([RU 2025 4](https://fedlex.data.admin.ch/eli/oc/2025/4)).
+[^7-2]: Correzione dell’8 gen. 2025 ([RU 2025 4](https://fedlex.data.admin.ch/eli/oc/2025/4)).
+[^7-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 8
 
@@ -260,7 +265,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuoverne la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 3 aprile 2024 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
+[^9-1]: Il piano del 3 apr. 2024 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -498,7 +503,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 7 ottobre 2009[^23-1] sulla formazione professionale di base Geomatica/Geomatico con attestato federale di capacità (AFC) è abrogata.
 
-[^23-1]: [[RU 2009 6179](https://fedlex.data.admin.ch/eli/oc/2009/754); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 84, II 84; [2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)]
+[^23-1]: [[RU 2009 6179](https://fedlex.data.admin.ch/eli/oc/2009/754); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I 84, II 84; [2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)]
 
 #### Art. 24
 
