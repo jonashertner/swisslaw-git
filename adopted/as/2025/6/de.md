@@ -1,0 +1,336 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2025 6
+title: Verordnung vom 20. Dezember 2024 über die Krisenorganisation der Bundesverwaltung (KOBV)
+language: de
+adopted: 2024-12-20
+published: 2025-01-09
+in_force: ["2025-02-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2025/6/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Krisenorganisation der Bundesverwaltung
+
+(KOBV)
+
+vom 20. Dezember 2024
+
+Der Schweizerische Bundesrat,
+
+gestützt auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-1] (RVOG),
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung regelt:
+
+- a. den Aufbau und die Aufgaben der überdepartementalen Krisenorganisation der Bundesverwaltung;
+- b. die Zusammenarbeit der Verwaltungseinheiten mit der überdepartementalen Krisenorganisation;
+- c. den Einbezug von Kantonen, Wissenschaft und Dritten durch die überdepartementale Krisenorganisation;
+- d. die Krisenkommunikation des Bundesrates.
+
+#### Art. 2
+
+**Überdepartementale Krisenorganisation**
+
+<sup>1</sup>
+
+Die überdepartementale Krisenorganisation der Bundesverwaltung besteht aus:
+
+- a. einem politisch-strategischen Krisenstab (PSK);
+- b. einem operativen Krisenstab (OPK).
+
+<sup>2</sup> Die beiden Krisenstäbe werden von einer Basisorganisation für Krisenmanagement (BOK) unterstützt.
+
+<sup>3</sup> Bei Bedarf können Sonderstäbe, Fachstäbe, Fachgruppen sowie Krisenstäbe der Verwaltungseinheiten beigezogen werden.
+
+#### Art. 3
+
+**Einsetzung der Krisenstäbe**
+
+<sup>1</sup> Der Bundesrat setzt den PSK ein, wenn eine unmittelbare und schwere Gefahr für Staat, Gesellschaft oder Wirtschaft droht, die mit den bestehenden Strukturen nicht bewältigt werden kann. Er bestimmt ein federführendes Departement.
+
+<sup>2</sup> Das federführende Departement setzt den OPK ein.
+
+#### Art. 4
+
+**Auflösung der Krisenstäbe**
+
+<sup>1</sup> Der Bundesrat löst den PSK auf, wenn die Gefahr nach Artikel 3 Absatz 1 nicht mehr besteht.
+
+<sup>2</sup> Das federführende Departement löst den OPK auf; es stellt sicher, dass allfällige Folgearbeiten an die zuständigen Stellen übergeben werden.
+
+## 2. Abschnitt: Politisch-strategischer Krisenstab
+
+#### Art. 5
+
+**Aufgaben**
+
+<sup>1</sup> Der PSK beurteilt die politisch-strategische Lage und erarbeitet Handlungsoptionen und Entscheidungsgrundlagen zuhanden des Bundesrates.
+
+<sup>2</sup> Er unterstützt das federführende Departement bei der Vorbereitung entsprechender Anträge an den Bundesrat.
+
+<sup>3</sup>
+
+Er nimmt zudem folgende Aufgaben wahr:
+
+- a. Er koordiniert das Krisenmanagement der Bundesverwaltung auf politisch-strategischer Ebene.
+- b. Er macht politisch-strategische Vorgaben für die operative Krisenbewältigung.
+
+#### Art. 6
+
+**Zusammensetzung**
+
+<sup>1</sup>
+
+Der PSK besteht aus:
+
+- a. den Generalsekretären und Generalsekretärinnen der betroffenen Departemente;
+- b. den Vizekanzlern und Vizekanzlerinnen;
+- c. dem Direktor oder der Direktorin der Eidgenössischen Finanzverwaltung;
+- d. dem Direktor oder der Direktorin des Bundesamtes für Justiz (BJ);
+- e. dem Staatssekretär oder der Staatssekretärin des Staatssekretariats für Wirtschaft;
+- f. dem Staatssekretär oder der Staatssekretärin für Sicherheitspolitik.
+
+<sup>2</sup> Das federführende Departement kann den Bundeskanzler oder die Bundeskanzlerin in beratender Funktion beiziehen.
+
+<sup>3</sup> Das federführende Departement zieht in beratender Funktion Vertretungen von weiteren Bundesstellen, Kantonen und Dritten bei, die von der Krise betroffen sind.
+
+<sup>4</sup> Der Generalsekretär oder die Generalsekretärin des federführenden Departementes hat den Vorsitz des PSK.
+
+## 3. Abschnitt: Operativer Krisenstab
+
+#### Art. 7
+
+**Aufgaben**
+
+<sup>1</sup> Der OPK trägt die für die Erarbeitung von Entscheidungsgrundlagen relevanten Informationen zusammen und bereitet sie zuhanden des PSK auf, insbesondere auch zu den verfassungsrechtlichen Voraussetzungen für die Einschränkung von Grundrechten und den Erlass von Notrecht.
+
+<sup>2</sup> Er koordiniert die Tätigkeit der im Einsatz stehenden Sonderstäbe, Fachstäbe, Fachgruppen sowie Krisenstäbe der Verwaltungseinheiten und der weiteren betroffenen Stellen.
+
+#### Art. 8
+
+**Zusammensetzung**
+
+<sup>1</sup>
+
+Der OPK besteht aus:
+
+- a. Vertretungen der betroffenen Verwaltungseinheiten und ihrer Krisenstäbe;
+- b. Vertretungen des BJ.
+
+<sup>2</sup> Das federführende Departement kann in beratender Funktion Vertretungen weiterer Verwaltungseinheiten beiziehen.
+
+<sup>3</sup> Das federführende Departement zieht in beratender Funktion Vertretungen von Kantonen und Dritten bei, die von der Krise betroffen sind.
+
+<sup>4</sup> Das federführende Departement bestimmt die Leitung des OPK.
+
+## 4. Abschnitt: Basisorganisation für Krisenmanagement
+
+#### Art. 9
+
+**Aufgaben**
+
+Die BOK unterstützt die Bundesverwaltung bei der Vorbereitung auf Krisen und bei der Bewältigung von Krisen.
+
+#### Art. 10
+
+**Organisation**
+
+<sup>1</sup> Das Bundesamt für Bevölkerungsschutz (BABS) betreibt die BOK in Zusammenarbeit mit der Bundeskanzlei.
+
+<sup>2</sup> Es führt die Geschäftsstelle und stellt eine ständig erreichbare Kontaktstelle sicher.
+
+<sup>3</sup> Es kann im Krisenfall Mitarbeitende aus anderen Bundesstellen zur Mitarbeit beiziehen.
+
+#### Art. 11
+
+**Tätigkeiten im Krisenfall**
+
+Im Krisenfall nimmt die BOK folgende Aufgaben wahr:
+
+- a. Sie unterstützt das federführende Departement beim Beizug weiterer Stellen des Bundes, der Kantone und Dritter.
+- b. Sie kann die weiteren Stellen und Stäbe der Bundesverwaltung beraten und begleiten.
+- c. Sie stellt die Lagebeurteilung für den PSK und den OPK sicher.
+- d. Sie stellt das Funktionieren des Lageverbundes von Bund, Kantonen, Betreiberinnen kritischer Infrastrukturen, Behörden im Ausland und Dritten sicher.
+- e. Sie führt eine Übersicht über die sich im Einsatz befindenden Stäbe der Bundesverwaltung und erfasst deren Zuständigkeiten.
+- f. Sie leitet die Anliegen der Verwaltungseinheiten und der Kantone an die zuständigen Stellen weiter.
+- g. Sie koordiniert den Einsatz der nationalen und internationalen Ressourcen.
+- h. Sie erstellt eine Übersicht der krisenrelevanten Bundesratsaufträge.
+- i. Sie informiert die Mitglieder der Generalsekretärenkonferenz regelmässig über ihre Aktivitäten.
+- j. Sie unterstützt die Koordination der internen und externen Informationstätigkeiten von Bundesrat und Bundesverwaltung.
+
+#### Art. 12
+
+**Tätigkeiten zur Vorbereitung auf Krisen**
+
+<sup>1</sup>
+
+Das BABS nimmt im Rahmen der BOK folgende Aufgaben zur Vorbereitung auf Krisen wahr:
+
+- a. Es führt eine Übersicht der Kontaktstellen.
+- b. Es stellt zusammen mit der Bundeskanzlei den Einbezug weiterer Bundesstellen, der Kantone und Dritter sicher.
+- c. Es stellt eine geschützte Führungsinfrastruktur für den PSK und den OPK sicher.
+- d. Es stellt die Kommunikation auf der Basis der gemeinsamen Kommunikationssysteme von Bund, Kantonen und Dritten gemäss den Artikeln 18–21 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^12-1] sicher.
+- e. Es betreibt eine elektronische Lagedarstellung.
+- f. Es koordiniert in Zusammenarbeit mit dem Eidgenössischen Personalamt (EPA) den unterstützenden Personaleinsatz der in die Krisenorganisation der Bundesverwaltung eingebundenen Organisationseinheiten.
+- g. Es unterstützt in Zusammenarbeit mit der Bundeskanzlei die Verwaltungseinheiten bei der Sicherstellung der Einsatzbereitschaft ihrer Krisenstäbe.
+- h. Es sorgt für die Einsatzbereitschaft des Ressourcenmanagements des Bundes.
+- i. Es koordiniert die nationalen Vorsorgeplanungen.
+
+<sup>2</sup>
+
+Die Bundeskanzlei nimmt im Rahmen der BOK folgende Aufgaben zur Vorbereitung auf Krisen wahr:
+
+- a. Sie unterstützt gemeinsam mit dem BABS Verwaltungseinheiten beim Aufbau ihrer Krisenorganisation und des Krisenmanagements.
+- b. Sie schätzt im Rahmen einer Krisenantizipation unter Einbezug der Departemente, Kantone und Dritter Entwicklungen ein, die zu einer Krise führen können.
+- c. Sie führt eine Übersicht über die Krisenstäbe der Bundesverwaltung.
+- d. Sie stellt zusammen mit dem BABS den Einbezug von Kantonen und Dritten in die Krisenorganisation des Bundes sicher.
+- e. Sie stellt die regelmässige Durchführung von Veranstaltungen zum Erfahrungsaustausch im Krisenmanagement sicher.
+- f. Sie koordiniert in Zusammenarbeit mit dem EPA, dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und weiteren Stellen die Entwicklung der Aus- und Weiterbildung im Krisenmanagement.
+- g. Sie erstellt gemeinsam mit dem VBS die Gesamtplanung grosser Übungen.
+- h. Sie organisiert regelmässig Übungen im Krisenmanagement.
+- i. Sie bereitet das Präsidialdepartement auf seine Aufgaben im Rahmen des Krisenmanagements vor.
+- j. Sie stellt zusammen mit dem BABS die strategische Steuerung und Weiterentwicklung des Krisenmanagements der Bundesverwaltung sicher.
+
+[^12-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+
+## 5. Abschnitt: Zusammenarbeit der Verwaltungseinheiten mit der überdepartementalen Krisenorganisation
+
+#### Art. 13
+
+**Vorbereitung auf Krisen**
+
+<sup>1</sup> Die Verwaltungseinheiten melden der Geschäftsstelle der BOK die Kontaktstellen für den Krisenfall.
+
+<sup>2</sup> Das EPA verwaltet die Personendaten für den unterstützenden Personaleinsatz zugunsten der Krisenorganisation der Bundesverwaltung.
+
+#### Art. 14
+
+**Zusammenarbeit während Krisen**
+
+<sup>1</sup> Die Krisenstäbe der Verwaltungseinheiten sind zur Zusammenarbeit verpflichtet. Sie unterstützen und informieren sich gegenseitig.
+
+<sup>2</sup> Sie stimmen ihre Tätigkeit auf die Arbeit der Krisenorganisation der Bundesverwaltung ab.
+
+<sup>3</sup> Alle Krisenstäbe verwenden nach Möglichkeit für den gemeinsamen Lageüberblick das Informationssystem Elektronische Lagedarstellung.
+
+<sup>4</sup>
+
+Sie informieren die Kontaktstelle der BOK, wenn:
+
+- a. sich in ihrem Zuständigkeitsbereich eine Krise abzeichnet oder eine solche eingetreten ist;
+- b. sich die aktuelle Lage wesentlich verändert;
+- c. sie Massnahmen planen oder treffen.
+
+## 6. Abschnitt: Einbezug von Kantonen und Wissenschaft
+
+#### Art. 15
+
+**Kantone**
+
+<sup>1</sup> Die Geschäftsstelle der BOK führt eine Übersicht der Kontaktstellen der Kantone für den Krisenfall.
+
+<sup>2</sup>
+
+Die Kantone können die Kontaktstelle der BOK informieren, wenn:
+
+- a. sich in ihrem Zuständigkeitsbereich eine Krise abzeichnet oder eine solche eingetreten ist;
+- b. sich die aktuelle Lage wesentlich verändert;
+- c. sie Massnahmen planen oder treffen.
+
+#### Art. 16
+
+**Wissenschaft**
+
+<sup>1</sup> Der Bundesrat setzt bei Bedarf ein wissenschaftliches Beratungsgremium ein. Die Einsetzung erfolgt durch Verfügung.
+
+<sup>2</sup>
+
+Die Einsetzungsverfügung regelt namentlich:
+
+- a. die Ernennung der Mitglieder;
+- b. die Organisation;
+- c. die Angliederung an die Krisenorganisation der Bundesverwaltung;
+- d. die Leistungen und die Entschädigung;
+- e. die Kommunikation mit der Öffentlichkeit;
+- f. die Vertraulichkeit und den Informationsschutz.
+
+<sup>3</sup> Die Einsetzung des wissenschaftlichen Beratungsgremiums ist befristet.
+
+<sup>4</sup> Die Bundeskanzlei ist die Kontaktstelle des Bundes für die wissenschaftliche Beratung in Krisen. Sie trifft vorbereitende Massnahmen zum Einbezug der Wissenschaft.
+
+## 7. Abschnitt: Krisenkommunikation
+
+#### Art. 17
+
+<sup>1</sup> Der Bundesrat trägt bei der Erfüllung seiner Informationspflichten gemäss Artikel 180 Absatz 2 der Bundesverfassung[^17-1] und den Artikeln 10 und 11 RVOG dem besonderen Informationsbedürfnis der Öffentlichkeit in Krisenzeiten Rechnung.
+
+<sup>2</sup> Der Bundesratssprecher oder die Bundesratssprecherin koordiniert die Krisenkommunikation des Bundesrates.
+
+[^17-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+## 8. Abschnitt: Schlussbestimmungen
+
+#### Art. 18
+
+**Änderung anderer Erlasse**
+
+Die Änderung anderer Erlasse ist im Anhang geregelt.
+
+#### Art. 19
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Februar 2025 in Kraft.
+
+<table>
+<tr><td>20. Dezember 2024</td><td>Im Namen des Schweizerischen Bundesrates Die Bundespräsidentin: Viola Amherd Der Bundeskanzler: Viktor Rossi</td></tr>
+</table>
+
+Anhang
+
+(Art. 18)
+
+## Änderung anderer Erlasse
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+### 1. Bundespersonalverordnung vom 3. Juli 2001
+
+[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+**Art. 18 Abs. 3 Bst. q**
+
+<sup>3</sup>
+
+Fachstelle für personalpolitische Fragen ist das Eidgenössische Personalamt (EPA). Es nimmt folgende Aufgaben wahr:
+
+- q. Es stellt Systeme für den unterstützenden Personaleinsatz zur Bewältigung von ausserordentlichem oder besonders dringlichem Mehraufwand, insbesondere zugunsten der Krisenorganisation der Bundesverwaltung, bereit.
+
+### 2. Verordnung vom 22. November 2017 über den Schutz von Personendaten des Bundespersonals
+
+[^annexu1-lvlu1-lvl2-1]
+
+[^annexu1-lvlu1-lvl2-1]: [SR 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+
+**Art. 32 Bst. k**
+
+Das IPDM besteht aus folgenden Komponenten:
+
+- k. Administration der Daten für Personaleinsätze zur Bewältigung von ausserordentlichem oder besonders dringlichem Mehraufwand, insbesondere zugunsten der Krisenorganisation der Bundesverwaltung.
+
+**Art. 33 Abs. 2**
+
+<sup>2</sup> Die Angestellten können ihre eigenen Daten, namentlich Personalien, Zeitdaten, Spesen, Bankverbindungen, Kompetenzen und Angaben zu unterstützenden Personaleinsätzen, bearbeiten, soweit ihnen ein Zugriffsrecht zusteht.
