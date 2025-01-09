@@ -4,11 +4,11 @@ title: "Ordinanza del DFF dell' 11 aprile 2018 sull'imposta alla fonte nel quadr
 short: OIFo
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: it
-version: 2025-01-01
+version: 2025-01-10
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250110/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250110-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/it"
 
 (Ordinanza sull’imposta alla fonte, OIFo)
 
-dell’11 aprile 2018 (Stato 1° gennaio 2025)
+dell’11 aprile 2018 (Stato 10 gennaio 2025)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -43,7 +43,7 @@ Per la ritenuta d’imposta alla fonte, alle persone indicate di seguito sono at
 - c. *tariffario C:* coniugi non separati legalmente o di fatto che esercitano entrambi un’attività lucrativa;
 - d. *tariffario D:* persone che ricevono prestazioni ai sensi dell’articolo 18 capoverso 3 della legge federale del 20 dicembre 1946[^1-1] sull’assicurazione per la vecchiaia e per i superstiti;
 - e. *tariffario E:* persone con imposizione secondo la procedura di conteggio semplificata di cui agli articoli 21–24;
-- f. *...*[^1-2]
+- f.[^1-2] *...*
 - g. *tariffario G:* persone assoggettate all’imposta alla fonte che percepiscono proventi compensativi di cui all’articolo 3 che non sono versati tramite il datore di lavoro;
 - h. *tariffario H:* persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale;
 - i. *tariffario L:* frontalieri secondo la Convenzione dell’11 agosto 1971[^1-3] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI‑D) che adempiono le condizioni richieste per il tariffario A;
@@ -125,11 +125,12 @@ In caso di fine del rapporto di lavoro nel corso dell’anno di un lavoratore do
 - c. il tasso di occupazione medio, espresso in per cento, per il periodo di cui alla lettera b;
 - d. il numero di giorni di lavoro svolti sotto forma di impieghi temporanei nello Stato di residenza per il periodo di cui alla lettera b;
 - e. il numero di giorni di lavoro svolti sotto forma di impieghi temporanei in Stati terzi per il periodo di cui alla lettera b;
-- f. il numero di giorni di telelavoro o la quota di telelavoro espressa in per cento nello Stato di residenza per il periodo di cui alla lettera b, senza tenere conto degli impieghi temporanei di cui alle lettere d ed e;
-- g. il numero di pernottamenti in Svizzera per i lavoratori soggetti all’accordo dell’11 aprile 1983[^5a-2] tra il Consiglio federale svizzero e il governo della Repubblica francese concernente l’imposizione delle rimunerazioni dei frontalieri.
+- f.[^5a-2] il numero di giorni di telelavoro o la quota di telelavoro espressa in per cento nello Stato di residenza per il periodo di cui alla lettera b, senza tenere conto degli impieghi temporanei di cui alle lettere d ed e;
+- g. il numero di pernottamenti in Svizzera per i lavoratori soggetti all’accordo dell’11 aprile 1983[^5a-3] tra il Consiglio federale svizzero e il governo della Repubblica francese concernente l’imposizione delle rimunerazioni dei frontalieri.
 
 [^5a-1]: Introdotto dalla cifra I dell’O del DFF del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 586](https://fedlex.data.admin.ch/eli/oc/2024/586)).
-[^5a-2]: FF **1983** II 515
+[^5a-2]: La correzione del 10 gen. 2025 concerne soltanto il testo francese ([RU 2025 8](https://fedlex.data.admin.ch/eli/oc/2025/8)).
+[^5a-3]: FF **1983** II 515
 
 #### Art. 6
 

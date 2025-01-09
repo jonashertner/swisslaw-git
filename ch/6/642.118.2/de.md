@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 11. April 2018 über die Quellensteuer bei der di
 short: QStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: de
-version: 2025-01-01
+version: 2025-01-10
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250110/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250110-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/de"
 
 (Quellensteuerverordnung, QStV)
 
-vom 11. April 2018 (Stand am 1. Januar 2025)
+vom 11. April 2018 (Stand am 10. Januar 2025)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -125,11 +125,12 @@ Der bisherige Arbeitgeber muss der in Frankreich wohnhaften Arbeitnehmerin oder 
 - c. durchschnittlicher Beschäftigungsgrad in Prozent im Zeitraum nach Buchstabe b;
 - d. Anzahl Arbeitstage in Form temporärer Einsätze im Ansässigkeitsstaat im Zeitraum nach Buchstabe b;
 - e. Anzahl Arbeitstage in Form temporärer Einsätze in Drittstaaten im Zeitraum nach Buchstabe b;
-- f. Anzahl Telearbeitstage oder Telearbeitsquote in Prozent im Ansässigkeitsstaat im Zeitraum nach Buchstabe b, ohne Berücksichtigung der temporären Einsätze nach den Buchstaben d und e;
-- g. Anzahl Übernachtungen in der Schweiz für Arbeitnehmerinnen und Arbeitnehmer, die der Vereinbarung vom 11. April 1983[^5a-2] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern unterliegen.
+- f.[^5a-2] Anzahl Telearbeitstage oder Telearbeitsquote in Prozent im Ansässigkeitsstaat im Zeitraum nach Buchstabe b, ohne Berücksichtigung der temporären Einsätze nach den Buchstaben d und e;
+- g. Anzahl Übernachtungen in der Schweiz für Arbeitnehmerinnen und Arbeitnehmer, die der Vereinbarung vom 11. April 1983[^5a-3] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern unterliegen.
 
 [^5a-1]: Eingefügt durch Ziff. I der V des EFD vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 586](https://fedlex.data.admin.ch/eli/oc/2024/586)).
-[^5a-2]: BBl **1983** II 535
+[^5a-2]: Die Berichtigung vom 10. Jan. 2025 betrifft nur den französischen Text ([AS 2025 8](https://fedlex.data.admin.ch/eli/oc/2025/8)).
+[^5a-3]: BBl **1983** II 535
 
 #### Art. 6
 

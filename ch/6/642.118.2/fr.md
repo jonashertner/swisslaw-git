@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 11 avril 2018 sur l'imposition à la source dans le
 short: OIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: fr
-version: 2025-01-01
+version: 2025-01-10
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250110/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250110-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/fr"
 
 (Ordonnance sur l’imposition à la source, OIS)
 
-du 11 avril 2018 (État le 1<sup>er</sup> janvier 2025)
+du 11 avril 2018 (État le 10 janvier 2025)
 
 Le Département fédéral des finances (DFF),
 
@@ -125,11 +125,12 @@ En cas de résiliation en cours d’année des rapports de travail d’un employ
 - c. taux d’occupation moyen, en pour cent, au cours de la période visée à la let. b;
 - d. nombre de jours de travail liés à des missions temporaires réalisées dans l’État du domicile au cours de la période visée à la let. b;
 - e. nombre de jours de travail liés à des missions temporaires réalisées dans des États tiers au cours de la période visée à la let. b;
-- f. nombre de jours de télétravail ou taux de télétravail, en pour cent, sans prise en compte des missions temporaires visées aux let. e et f, dans l’État du domicile au cours de la période visée à la let. b;
-- g. nombre de nuitées en Suisse pour les employés soumis à l’accord du 11 avril 1983 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à l’imposition des rémunérations des travailleurs frontaliers[^5a-2].
+- f.[^5a-2] nombre de jours de télétravail ou taux de télétravail, en pour cent, sans prise en compte des missions temporaires visées aux let. d et e, dans l’État du domicile au cours de la période visée à la let. b;
+- g. nombre de nuitées en Suisse pour les employés soumis à l’accord du 11 avril 1983 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à l’imposition des rémunérations des travailleurs frontaliers[^5a-3].
 
 [^5a-1]: Introduit par le ch. I de l’O du DFF du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 586](https://fedlex.data.admin.ch/eli/oc/2024/586)).
-[^5a-2]: FF **1983** II 559
+[^5a-2]: Erratum du 10 janv. 2025 ([RO 2025 8](https://fedlex.data.admin.ch/eli/oc/2025/8)).
+[^5a-3]: FF **1983** II 559
 
 #### Art. 6
 
