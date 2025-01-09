@@ -1,0 +1,130 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2025 9
+title: Ordinanza del DEFR sull’ottenimento retroattivo del titolo di una scuola universitaria professionale
+language: it
+adopted: 2024-12-18
+published: 2025-01-10
+in_force: ["2025-02-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2025/9/it"
+---
+
+> Riproduzione non ufficiale della Raccolta ufficiale (RU). L’atto è pubblicato ma non ancora in vigore; fa stato la pubblicazione nella RU (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DEFR sull’ottenimento retroattivo del titolo di una scuola universitaria professionale
+
+Modifica del 18 dicembre 2024
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)
+
+ordina:
+
+## I
+
+L’ordinanza del DEFR del 4 luglio 2000[^lvlI-1] sull’ottenimento retroattivo del titolo di una scuola universitaria professionale è modificata come segue:
+
+**Titolo**
+
+Ordinanza del DEFR sull’ottenimento retroattivo del titolo di una scuola universitaria professionale
+
+(OORT)
+
+***Art. 1* Presupposti generali per il rilascio**
+
+<sup>1</sup>
+
+I presupposti per il rilascio di un titolo di scuola universitaria professionale (titolo SUP) nei settori di studio della tecnica e della tecnologia dell’informazione, dell’architettura, dell’edilizia e della progettazione, della chimica e delle scienze della vita, dell’agricoltura e dell’economia forestale, dell’economia e dei servizi nonché del design sono:
+
+- a. aver conseguito un diploma di una scuola d’ingegneria (STS) riconosciuta, di una scuola per i quadri dell’economia e dell’amministrazione (SSQEA), di una scuola superiore di arti applicate (SSAA) o di una scuola superiore di economia domestica (SSED) oppure aver concluso uno studio di diploma negli anni 1998, 1999 o 2000 presso la scuola alberghiera di Losanna (EHL); e
+- b. poter comprovare una pratica professionale riconosciuta (art. 2 cpv. 1) di almeno cinque anni o la frequenza di un corso postdiploma di livello universitario (art. 3).
+
+<sup>2</sup> Nei settori di studio del lavoro sociale, della musica, del teatro e delle altre arti, della psicologia applicata nonché della linguistica applicata i presupposti per l’ottenimento di un titolo SUP per i detentori di un diploma di scuola specializzata superiore si basano sull’articolo 13 del regolamento del 10 giugno 1999[^lvlI-2] della Conferenza dei direttori cantonali della pubblica educazione sul riconoscimento dei diplomi cantonali di scuole universitarie professionali.
+
+<sup>3</sup>
+
+I presupposti per il rilascio di un titolo SUP nel campo della sanità ad eccezione del ciclo di studio cure infermieristiche sono:
+
+- a.
+
+  aver conseguito uno dei seguenti diplomi o certificati:
+
+  - 1\.
+
+    uno dei seguenti diplomi di una scuola riconosciuta dalla Croce Rossa Svizzera (CRS):
+
+    - – «dietista dipl.»,
+    - – «levatrice/ostetrica dipl.»/«ostetrico dipl.»,
+    - – «fisioterapista dipl.»,
+
+  - 2\. un certificato della CRS di «ergoterapista dipl.» rilasciato al termine della procedura di riconoscimento del corrispondente diploma cantonale;
+
+- b. poter comprovare una pratica professionale riconosciuta (art. 2 cpv. 2) di almeno due anni; e
+- c. poter comprovare la frequenza di un corso postdiploma di livello universitario nel settore di studio della sanità, delle scienze sociali, della psicologia, della medicina, della gestione o delle scienze dell’educazione (art. 3) o un’altra formazione continua equivalente.
+
+***Art. 1a* Presupposti per il rilascio nel ciclo di studio cure infermieristiche**
+
+<sup>1</sup>
+
+I presupposti per il rilascio di un titolo SUP del ciclo di studio cure infermieristiche nel settore di studio della sanità sono:
+
+- a.
+
+  aver conseguito uno dei seguenti diplomi riconosciuti dalla CRS:
+
+  - 1\. «infermiere/infermiera»,
+  - 2\. «cure infermieristiche di livello II»,
+  - 3\. «infermiere/a in cure generali»,
+  - 4\. «infermiere/a in psichiatria»,
+  - 5\. «infermiere/a in igiene materna e pediatria»,
+  - 6\. «infermiere/a a domicilio»,
+  - 7\. «infermiere/a in cure integrate»,
+  - 8\. «infermiere/a della scuola di infermeria di Sarnen, Sarner Schwestern, con la formazione complementare in cure ambulatoriali»;
+
+- b.
+
+  aver conseguito una delle seguenti formazioni complementari o uno dei seguenti diplomi complementari:
+
+  - 1\. una «höhere Fachausbildung Pflege Stufe II» (HöFa II) del Bildungszentrum des Schweizer Berufsverbands für Pflegefachpersonal (SBK BIZ) della Kaderschule für die Krankenpflege Aarau o del Weiterbildungszentrum Gesundheitsberufe (WE’G),
+  - 2\. un «certificat d’infirmière clinicienne/infirmier clinicien II» dell’Ecole supérieure d’enseignement infirmier (ESEI),
+  - 3\. un «diploma CRS indirizzo clinico» della Scuola superiore per le formazioni sanitarie,
+  - 4\. un corso postdiploma presso una scuola specializzata superiore nel settore di studio della sanità, delle scienze sociali, della psicologia, della gestione o delle scienze dell’educazione ,
+  - 5\. un attestato professionale federale nel settore di studio della sanità, delle scienze sociali, della psicologia, della medicina, della gestione o delle scienze dell’educazione,
+  - 6\. un diploma federale nel settore di studio della sanità, della socialità, della psicologia, della medicina, della gestione o delle scienze dell’educazione,
+  - 7\. una formazione continua nel settore di studio della sanità, delle scienze sociali, della psicologia, della medicina, della gestione o delle scienze dell’educazione per un totale di almeno 150 ore di studio; e
+
+- c. poter comprovare una pratica professionale riconosciuta (art. 2 cpv. 2) di almeno due anni;
+
+<sup>2</sup> Chi non può comprovare una formazione o un diploma di cui al capoverso 1 lettera b numeri 1-3 deve comprovare anche un corso postdiploma di livello universitario nel settore di studio della sanità, delle scienze sociali, della psicologia, della medicina, della gestione o delle scienze dell’educazione (art. 3) o un’altra formazione continua equivalente.
+
+<sup>3</sup> Non deve comprovare una formazione o un diploma di cui al capoverso 1 lettera b chi ha raggiunto 20 punti di credito secondo il Sistema europeo di trasferimento dei crediti (European Credit Transfer System, ECTS) con al massimo due corsi postdiploma di livello universitario nel settore di studio della sanità, delle scienze sociali, della psicologia, della medicina, della gestione o delle scienze dell’educazione o con al massimo altre due formazioni continue equivalenti.
+
+**Art. 2 cpv. 2**
+
+<sup>2</sup> È riconosciuta come pratica professionale per i richiedenti del settore di studio della sanità (art. 1 cpv. 3 e art. 1*a*) un’attività professionale esercitata nel rispettivo campo professionale dopo il 1° giugno 2001.
+
+***Art. 3* Estensione dei corsi postdiploma di livello universitario**
+
+<sup>1</sup> Per i richiedenti dei settori di studio di cui all’articolo 1 capoversi 1 e 3 e all’articolo 1*a* il corso postdiploma di livello universitario deve comprendere almeno 10 punti di credito ECTS.
+
+<sup>2</sup> Un punto di credito ECTS corrisponde a un carico di lavoro di 25–30 ore.
+
+**Art. 4 cpv. 2 lett. b e cpv. 3**
+
+<sup>2</sup>
+
+Essa deve includere:
+
+- b. indicazioni relative al diploma o certificato e, se necessario, alla pratica professionale, al corso postdiploma di livello universitario o a un’altra formazione continua equivalente.
+
+<sup>3</sup> La titolarità del diploma o del certificato, l’adempimento della pratica professionale richiesta, del corso postdiploma di livello universitario o di un’altra formazione continua equivalente devono essere comprovati mediante i documenti originali o in copia autenticata.
+
+[^lvlI-1]: [RS 414.711.5](https://fedlex.data.admin.ch/eli/cc/2000/361)
+[^lvlI-2]: Il regolamento può essere consultato gratuitamente sul sito della Segreteria di Stato per la formazione, la ricerca e l’innovazione all’indirizzo [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Scuole universitarie &gt; Le scuole universitarie &gt; Coordinamento del settore universitario &gt; Basi legali.
+
+## II
+
+La presente ordinanza entra in vigore il 1° febbraio 2025.
+
+<table>
+<tr><td>18 dicembre 2024</td><td>Dipartimento federale dell’economia, della formazione e della ricerca: Guy Parmelin</td></tr>
+</table>
