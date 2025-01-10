@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 17.480 n Iv. pa. (Weibel) Bäumle. Tassa per i casi di lieve entità nei reparti di pronto soccorso degli ospedali
 document: Progetto posto in consultazione
 language: it

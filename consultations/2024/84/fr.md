@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 17.480 n Iv. pa. (Weibel) Bäumle. Urgences hospitalières. Taxe pour les cas bénins
 document: Projet mis en consultation
 language: fr

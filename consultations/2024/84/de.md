@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 17.480 n Pa. Iv. (Weibel) Bäumle. Gebühr für Bagatellfälle in der Spitalnotfallaufnahme
 document: Vernehmlassungsvorlage
 language: de
