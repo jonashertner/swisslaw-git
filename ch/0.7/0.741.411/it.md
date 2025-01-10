@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2023-06-23
+version: 2025-01-11
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230623/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230623-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230623/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250111/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250111-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250111/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Ginevra il 20 marzo 1958 Emendato il 10 novembre 1967 Approvato dall’Assemblea federale il 15 marzo 1973[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973 Entrato in vigore per la Svizzera il 28 agosto 1973 Emendamenti adottati il 18 agosto 1994 Entrata in vigore il 16 ottobre 1995 Emendamenti adottati il 25 settembre 2015 Entrata in vigore il 14 settembre 2017
 
-(Stato 23 giugno 2023)
+(Stato 11 gennaio 2025)
 
 [^t-1]: [RU 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -862,7 +862,7 @@ Regolamenti[^t-4]
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-4]: Il testo dei regolamenti e dei loro campi d’applicazione non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)). Possono essere richiesti all’Ufficio federale delle strade, 3003 Berna oppure consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) (regolamenti), [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations) (campi d’applicazione).
+[^t-4]: Il testo e il campo d’applicazione dei regolamenti non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62)). Possono essere ottenuto presso l’Ufficio federale delle strade, 3003 Berna oppure consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/un‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Il campo d’applicazione può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -986,11 +986,11 @@ Applicato dalla Svizzera dal 2 febbraio 1996
 
 Prescrizioni uniformi relative:
 
-**I. all****’****omologazione dei motori ad accensione per compressione (motori Diesel) per quanto riguarda l****’****emissione di materie inquinanti l****’****aria visibili;**
+**I. all’omologazione dei motori ad accensione per compressione (motori Diesel) per quanto riguarda l’emissione di materie inquinanti l’aria visibili;**
 
-**II. all****’****omologazione dei veicoli a motore concernente l****’****installazione di un** **motore** **ad accensione per compressione (motore Diesel) di tipo omologato;**
+**II. all’omologazione dei veicoli a motore concernente l’installazione di un** **motore** **ad accensione per compressione (motore Diesel) di tipo omologato;**
 
-**III. all****’****omologazione dei veicoli a motore muniti di un motore ad accensione per compressione (motore Diesel) per quanto riguarda l****’****emissione di materie inquinanti dal motore (motori Diesel);**
+**III. all’omologazione dei veicoli a motore muniti di un motore ad accensione per compressione (motore Diesel) per quanto riguarda l’emissione di materie inquinanti dal motore (motori Diesel);**
 
 **IV. alla misurazione della potenza dei motori (motori Diesel).**
 
@@ -1240,9 +1240,9 @@ Applicato dalla Svizzera dal 1° gennaio 1997
 
 Condizioni uniformi per l’omologazione:
 
-**I. di un dispositivo d****’****agganciamento corto (DAC);**
+**I. di un dispositivo d’agganciamento corto (DAC);**
 
-**II. dei veicoli per quanto concerne l****’****installazione di un tipo omologato di DAC.**
+**II. dei veicoli per quanto concerne l’installazione di un tipo omologato di DAC.**
 
 Applicato dalla Svizzera dal 13 dicembre 1996
 
@@ -1294,7 +1294,7 @@ Condizioni unitarie per l’omologazione di:
 
 **I. parti di costruzione speciali per veicoli a motore nel cui sistema di** **propulsione viene impiegato gas naturale compresso (GNC);**
 
-**II. veicoli comprendenti l****’****installazione di parti di costruzione speciali di un** **tipo omologato per l****’****impiego di gas naturale compresso (GNC) nel suo sistema di propulsione.**
+**II. veicoli comprendenti l’installazione di parti di costruzione speciali di un** **tipo omologato per l’impiego di gas naturale compresso (GNC) nel suo sistema di propulsione.**
 
 Applicato dalla Svizzera dal 28 dicembre 2000
 
@@ -1332,9 +1332,9 @@ Applicato dalla Svizzera dal 1° febbraio 2003
 
 Prescrizioni uniformi relative all’omologazione di:
 
-**I. impianti specifici di trasformazione a GPL (gas di petrolio** **liquefatti) destinati ad essere installati su veicoli a motore per consentire l****’****utilizzo di GPL nel sistema di propulsione;**
+**I. impianti specifici di trasformazione a GPL (gas di petrolio** **liquefatti) destinati ad essere installati su veicoli a motore per consentire l’utilizzo di GPL nel sistema di propulsione;**
 
-**II. impianti specifici di trasformazione a GNC (gas naturale compresso) destinati ad essere installati su veicoli a motore per consentire l****’****utilizzo di GNC nel sistema di propulsione.**
+**II. impianti specifici di trasformazione a GNC (gas naturale compresso) destinati ad essere installati su veicoli a motore per consentire l’utilizzo di GNC nel sistema di propulsione.**
 
 Applicato dalla Svizzera dal 30 ottobre 2003
 
@@ -1649,3 +1649,33 @@ Applicato dalla Svizzera dall’8 giugno 2023
 Prescrizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda la visione diretta
 
 Applicato dalla Svizzera dall’8 giugno 2023
+
+## Regolamento n. 168 allegato all’Accordo
+
+Disposizioni uniformi relative all’omologazione dei veicoli per passeggeri e commerciali leggeri per quanto riguarda le emissioni reali di guida (RDE)
+
+Applicato dalla Svizzera dal 26 marzo 2024
+
+## Regolamento n. 169 allegato all’Accordo
+
+Disposizioni uniformi per l’omologazione di registratori di dati di evento (EDR) per i veicoli pesanti
+
+Applicato dalla Svizzera dal 20 giugno 2024
+
+## Regolamento n. 170 allegato all’Accordo
+
+Disposizioni uniformi per l’omologazione di sistemi di ritenuta per bambini per il trasporto sicuro di bambini su autobus
+
+Applicato dalla Svizzera dal 20 giugno 2024
+
+## Regolamento n. 171 allegato all’Accordo
+
+Disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda i sistemi di assistenza alla guida (DCAS)
+
+Applicato dalla Svizzera dal 22 settembre 2024
+
+## Regolamento n. 172 allegato all’Accordo
+
+Disposizioni uniformi relative all’omologazione degli pneumatici ricostruiti per quanto riguarda le prestazioni di aderenza sulla neve e la classificazione come pneumatici da trazione
+
+Applicato dalla Svizzera dall’11 gennaio 2025
