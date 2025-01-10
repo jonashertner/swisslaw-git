@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über das bäuerliche Bodenrecht (Umsetzung Motion 22.4253 WAK-S «Entkopplung des bäuerlichen Bodenrechts von der AP22+»)
 document: Vernehmlassungsvorlage
 language: de

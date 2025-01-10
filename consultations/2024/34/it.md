@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sul diritto fondiario rurale (attuazione della mozione 22.4253 CET-S «Disgiungere il diritto fondiario rurale dalla PA22+»)
 document: Progetto posto in consultazione
 language: it

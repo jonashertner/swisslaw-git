@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur le droit foncier rural (mise en œuvre de la motion 22.4253 CER-E «Découplage du droit foncier rural de la PA22+»)
 document: Projet mis en consultation
 language: fr
