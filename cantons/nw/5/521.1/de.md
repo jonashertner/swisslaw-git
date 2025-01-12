@@ -5,12 +5,12 @@ title: Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuergesetz, StG"
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-01-13
 version_adopted: 2024-12-03
 adopted: 2000-03-22
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1337/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1231/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -623,7 +623,7 @@ beschliesst:
 
 **2. Zweitverdienerabzug**
 
-<sup>1</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 1'200.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt. Der Abzug darf das betreffende Einkommen nach Abzug der Gewinnungskosten nicht übersteigen.
+<sup>1</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 1'100.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt. Der Abzug darf das betreffende Einkommen nach Abzug der Gewinnungskosten nicht übersteigen.
 
 #### Art. 37
 
@@ -663,7 +663,7 @@ beschliesst:
 
 <sup>1</sup> Zur Ermittlung des steuerbaren Einkommens werden vom Reineinkommen abgezogen:
 
-- 1\. als Kinderabzug: Fr. 6'400.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
+- 1\. als Kinderabzug: Fr. 6'000.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
 - 2\. als Ausbildungsabzug zusätzlich zum Abzug gemäss Ziff. 1:
   - a) Fr. 1'700.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht; oder
   - b) Fr. 5'600.– für das erste Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
