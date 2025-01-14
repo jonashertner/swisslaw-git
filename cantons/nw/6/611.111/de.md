@@ -4,12 +4,12 @@ number: "611.111"
 title: Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 language: de
 version: 2025-01-01
-valid_until: 2025-07-31
+corrected: 2025-01-15
 version_adopted: 2025-01-07
 adopted: 2023-12-12
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1339/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1316/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -49,7 +49,7 @@ beschliesst:
 <tr><td>Oberdorf</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Stans</td><td>1. Januar 2025</td></tr>
 <tr><td>Stansstad</td><td>1. Januar 2024</td></tr>
-<tr><td>Wolfenschiessen</td><td>1. Januar 2025</td></tr>
+<tr><td>Wolfenschiessen</td><td>noch nicht in Kraft</td></tr>
 </table>
 
 <sup>2</sup> Die Bestimmungen des BauG[^Ziff2-4] und der BauV[^Ziff2-5] treten im gleichen Zeitpunkt gemeindeweise ausser Kraft.
