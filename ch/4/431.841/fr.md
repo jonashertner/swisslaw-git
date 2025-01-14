@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des
 short: ORegBL
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: fr
-version: 2024-01-01
+version: 2025-01-15
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250115-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20240101/fr"
 
 (ORegBL)
 
-du 9 juin 2017 (État le 1<sup>er</sup> janvier 2024)
+du 9 juin 2017 (État le 15 janvier 2025)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 10, al. 3<sup>bis</sup>, de la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^ingress-1],
+vu l’art. 10, al. 3<sup>bis</sup>, de la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^ingress-1], vu les art. 5 et 6 de la loi fédérale du 5 octobre 2007 sur la géoinformation (LGéo)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Section 1 Dispositions générales
 
@@ -35,7 +37,9 @@ arrête:
 
 <sup>1</sup> L’Office fédéral de la statistique (OFS) tient le Registre fédéral des bâtiments et des logements (RegBL) en tant que système d’information de référence à des fins statistiques, de recherche ou de planification.
 
-<sup>2</sup> Le RegBL sert également à accomplir d’autres tâches légales.
+<sup>2</sup> Le RegBL sert en outre à assurer la gestion commune des données de référence de la Confédération ainsi qu’à accomplir d’autres tâches légales.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 2
 
@@ -43,15 +47,22 @@ arrête:
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *projet de construction:* objet pour lequel une demande d’autorisation de construire selon l’art. 22 de la loi du 22 juin 1979 sur l’aménagement du territoire (LAT)[^2-1] est requise;
+- a.[^2-1] *projet de construction:* objet pour lequel une demande d’autorisation de construire selon l’art. 22 de la loi du 22 juin 1979 sur l’aménagement du territoire[^2-2] est requise ou objet similaire ne nécessitant pas d’autorisation de construire mais soumis à une obligation d’annonce;
 - b. *bâtiment:* construction immobilière durable couverte, bien ancrée dans le sol, pouvant accueillir des personnes et utilisée pour l’habitat, le travail, la formation, la culture, le sport ou pour toute autre activité humaine; dans le cas de maisons jumelées, en groupe ou en rangée, chaque construction ayant son propre accès depuis l’extérieur et séparée des autres par un mur porteur de séparation vertical allant du rez-de-chaussée au toit est également considérée comme un bâtiment;
-- c. *logement:* ensemble de pièces selon l’art. 2, al. 1, de la loi du 20 mars 2015 sur les résidences secondaires (LRS)[^2-2];
+- b<sup>bis</sup>.[^2-3] *objet similaire à un bâtiment:* objet qui ne remplit que certains critères de la définition selon la let. b;
+- c. *logement:* ensemble de pièces selon l’art. 2, al. 1, de la loi du 20 mars 2015 sur les résidences secondaires (LRS)[^2-4];
+- c<sup>bis</sup>.[^2-5] *objet similaire à un logement:* objet qui ne remplit que certains critères de la définition selon l’art. 2, al. 1, LRS;
 - d. *entrée de bâtiment:* accès à un bâtiment depuis l’extérieur; l’entrée est identifiée par une adresse de bâtiment;
-- e. *adresse de bâtiment:* indications d’adressage selon l’art. 26*b* de l’ordonnance du 21 mai 2008 sur les noms géographiques (ONGéo)[^2-3] et coordonnées de l’entrée du bâtiment*.*
+- e. *adresse de bâtiment:* indications d’adressage selon l’art. 26*b* de l’ordonnance du 21 mai 2008 sur les noms géographiques (ONGéo)[^2-6] et coordonnées de l’entrée du bâtiment;
+- f.[^2-7] *données de référence des bâtiments et des logements:* données servant de base pour l’identification, la catégorisation et la caractérisation des bâtiments et des logements ainsi que des objets similaires à un bâtiment ou à un logement.
 
-[^2-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^2-2]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
-[^2-3]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-3]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-4]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^2-5]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-6]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^2-7]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Section 2 Organisation, gestion et contenu du RegBL
 
@@ -66,6 +77,13 @@ Au sens de la présente ordonnance, on entend par:
 <sup>3</sup> Il définit, pour les identificateurs et les caractères figurant dans le RegBL, les modalités, les nomenclatures et les listes de codes correspondantes.
 
 <sup>4</sup> En collaboration avec l’Office fédéral du développement territorial et l’Office fédéral de topographie, l’OFS arrête une directive portant sur la définition des bâtiments selon l’art. 2, let. b, pour assurer une gestion standardisée des données enregistrées dans le RegBL.
+
+<sup>5</sup> Il règle, dans une convention d’organisation écrite conclue avec chaque canton, les tâches et leur accomplissement concret, les compétences et les responsabilités du service de coordination cantonal concerné.[^3-1]
+
+<sup>6</sup> Il veille à ce que les services administratifs de la Confédération, des cantons et des communes disposent gratuitement des données de référence des bâtiments et des logements dont ils ont besoin pour l’accomplissement de leurs tâches légales.[^3-2]
+
+[^3-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^3-2]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 4
 
@@ -85,7 +103,9 @@ L’OFS travaille en collaboration avec:
 
 <sup>1</sup> Chaque canton désigne un service responsable de la coordination des activités du RegBL et communique à l’OFS quels sont les services responsables de la mise à jour des données.
 
-<sup>2</sup> D’entente avec l’OFS, le service de coordination cantonal s’assure de l’actualisation régulière des données du RegBL.
+<sup>2</sup> Le service de coordination cantonal s’assure, conformément à la convention d’organisation conclue avec l’OFS, que les services cantonaux ou communaux responsables de la mise à jour du RegBL actualisent (art. 7), mettent à jour (art. 10), vérifient et corrigent (art. 12) régulièrement les données du registre.[^5-1]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 6
 
@@ -109,17 +129,20 @@ L’OFS peut déléguer le contrôle de la qualité et le soutien aux services r
 
 Les objets suivants sont enregistrés dans le RegBL:
 
-- a. les projets de construction, au plus tard au moment de l’octroi de l’autorisation de construire;
-- b. tous les bâtiments avec leurs entrées (y compris les adresses) et, pour les bâtiments avec usage d’habitation, les logements qui en font partie;
+- a.[^7-1] les projets de construction, au plus tard au moment de l’entrée en force de l’autorisation de construire;
+- b.[^7-2] tous les bâtiments avec leurs entrées, y compris les adresses, et, pour les bâtiments avec usage d’habitation, les logements qui en font partie, ainsi que les objets similaires à un bâtiment ou à un logement;
 - c. d’autres objets construits ou d’autres types de projets de construction.
 
-<sup>2</sup> Les bâtiments projetés, leurs entrées et leurs logements doivent être enregistrés au plus tard au moment de l’octroi de l’autorisation de construire.
+<sup>2</sup> Les bâtiments projetés, leurs entrées et leurs logements doivent être enregistrés au plus tard au moment de l’entrée en force de l’autorisation de construire.[^7-3]
 
 <sup>3</sup> L’OFS définit dans le catalogue des caractères dans quels cas les objets selon l’al. 1 sont exceptés de l’enregistrement dans le RegBL.
 
-<sup>4</sup> Les objets, constructions et installations militaires assujettis à l’ordonnance du 2 mai 1990 concernant la protection des ouvrages militaires[^7-1] ne sont pas enregistrés dans le RegBL.
+<sup>4</sup> Les objets, constructions et installations militaires assujettis à l’ordonnance du 2 mai 1990 concernant la protection des ouvrages militaires[^7-4] ne sont pas enregistrés dans le RegBL.
 
-[^7-1]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^7-4]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 8
 
@@ -138,32 +161,32 @@ Pour chaque projet de construction, les informations suivantes sont enregistrée
 - g. les coûts du projet;
 - h. le statut du projet (état d’avancement du projet);
 - i. le type de dérogation;
-- j. le nombre de bâtiments concernés par le projet;
-- k. le nombre de logements concernés par le projet.
+- j. et k.[^8-1] …
 
 <sup>2</sup>
 
-Pour chaque bâtiment, les informations suivantes sont enregistrées dans le RegBL:
+Pour chaque bâtiment et objet similaire à un bâtiment, les informations suivantes sont enregistrées dans le RegBL:[^8-2]
 
-- a. l’identificateur de bâtiment attribué par l’OFS (EGID);
+- a.[^8-3] l’identificateur de bâtiment et d’objet similaire à un bâtiment attribué par l’OFS (EGID);
 - b. le numéro de bâtiment attribué par le canton ou la commune;
 - c. l’identificateur de l’entrée du bâtiment attribué par l’OFS (EDID);
 - d. la commune politique;
 - e. la référence aux biens-fonds;
-- f. l’indication d’adressage selon les art. 26*a* et 26*b* ONGéo[^8-1];
+- f. l’indication d’adressage selon les art. 26*a* et 26*b* ONGéo[^8-4];
 - g. la catégorie du bâtiment;
 - h. le statut du bâtiment (projeté, achevé, démoli);
 - i. la date ou la période de construction et de démolition du bâtiment;
 - j. les dimensions du bâtiment (surfaces, volume);
 - k. la structure du bâtiment (nombre d’étages);
 - l. les installations techniques principales du bâtiment (système de chauffage, abri PC);
-- m. l’appartenance à des zones statistiques, à des quartiers et à d’autres unités territoriales infracommunales.
+- m. l’appartenance à des zones statistiques, à des quartiers et à d’autres unités territoriales infracommunales;
+- n.[^8-5] l’efficacité de l’enveloppe du bâtiment (années de rénovation des éléments de construction importants).
 
 <sup>3</sup>
 
-Pour chaque logement, les informations suivantes sont enregistrées dans le RegBL:
+Pour chaque logement et objet similaire à un logement, les informations suivantes sont enregistrées dans le RegBL:[^8-6]
 
-- a. l’identificateur de logement attribué par l’OFS (EWID);
+- a.[^8-7] l’identificateur de logement et d’objet similaire à un logement attribué par l’OFS (EWID);
 - b. le numéro de logement attribué par le canton ou la commune;
 - c. la référence aux biens-fonds pour les logements en propriété par étage;
 - d. la situation du logement dans le bâtiment;
@@ -171,7 +194,7 @@ Pour chaque logement, les informations suivantes sont enregistrées dans le RegB
 - f. le statut du logement (projeté, achevé, démoli);
 - g. les dimensions du logement (surface);
 - h. la structure du logement (nombre de pièces, installation de cuisine, multiniveau);
-- i. l’affectation du logement;
+- i.[^8-8] l’affectation du logement (au sens de la LRS[^8-9]);
 - j. la restriction d’utilisation du logement (au sens de la LRS).
 
 <sup>4</sup> Une information selon les al. 1 à 3 peut être détaillée en un ou plusieurs caractères.
@@ -180,7 +203,25 @@ Pour chaque logement, les informations suivantes sont enregistrées dans le RegB
 
 <sup>6</sup> Il peut faire figurer dans le RegBL des caractères ou des indications complémentaires nécessaires à la tenue du registre ou à l’exploitation statistique. Ces informations ne sont pas accessibles à des tiers.
 
-[^8-1]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-1]: Abrogées par le ch. I de l’O du 27 nov. 2024, avec effet au 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-4]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-5]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-6]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-7]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-8]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-9]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+
+#### Art. 8a
+
+**Données de référence des bâtiments et des logements**[^8a-1]
+
+<sup>1</sup> Sont réputées données de référence des bâtiments et des objets similaires à un bâtiment les identificateurs et caractères définis comme tels dans le catalogue des caractères de l’OFS selon l’art. 3, al. 1, pour les informations du registre des bâtiments et des logements selon l’art. 8, al. 2, let. a, c, d, f à h et j à l.
+
+<sup>2</sup> Sont réputées données de référence des logements et des objets similaires à un logement les identificateurs et caractères définis comme tels dans le catalogue des caractères de l’OFS selon l’art. 3, al. 1, pour les informations du registre des bâtiments et des logements selon l’art. 8, al. 3, let. a, d et f à h.
+
+[^8a-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 9
 
@@ -198,24 +239,28 @@ Les sources suivantes, en particulier, peuvent être utilisées pour la mise à 
 - d. les données de référence (bâtiments et logements) servant à la détermination de la valeur fiscale;
 - e. les registres administratifs des assurances immobilières cantonales;
 - f. les données collectées par la Poste, les services de télécommunication et les distributeurs d’électricité et de gaz ainsi que par les opérateurs de réseaux de chaleur;
-- g. les communications faites par des maîtres d’ouvrage, des architectes, des propriétaires et des sociétés de gestion immobilière;
-- h. les données d’autres relevés statistiques, pour autant que cette utilisation dans le RegBL soit explicitement mentionnée dans l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^9-1];
+- g.[^9-1] les communications faites par des maîtres d’ouvrage, des architectes, des propriétaires, des sociétés de gestion immobilière, des assurances ainsi que d’autres sources privées;
+- h. les données d’autres relevés statistiques, pour autant que cette utilisation dans le RegBL soit explicitement mentionnée dans l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^9-2];
 - i. les données relevées lors du contrôle cantonal et communal des installations de combustion;
 - j. les données relevées pour l’établissement des certificats énergétiques cantonaux des bâtiments (CECB).
 
-<sup>3</sup> Les données tirées de registres de la Confédération, des cantons et des communes doivent être mises gratuitement à la disposition de l’OFS ou d’un service en charge d’un registre reconnu pour la mise à jour du RegBL.
+<sup>3</sup> Les données tirées de registres et de répertoires de la Confédération, des cantons et des communes doivent être mises gratuitement à la disposition de l’OFS ou d’un service en charge d’un registre reconnu pour la mise à jour du RegBL.[^9-3]
 
 <sup>4</sup> Les personnes physiques ou morales et les institutions chargées de tâches de droit public sont tenues de fournir les informations selon art. 8.
 
-[^9-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^9-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 10
 
-**Mise à jour des registres**
+**Mise à jour des registres**[^10-1]
 
-<sup>1</sup> Les services communaux ou cantonaux responsables de la mise à jour des données enregistrent de manière permanente dans le RegBL ou dans un registre reconnu toutes les informations relatives aux projets de construction, aux bâtiments et aux logements selon l’art. 8. La mise à jour doit être clôturée formellement au plus tard à la fin de chaque trimestre dans un délai de 30 jours.
+<sup>1</sup> Les services communaux ou cantonaux responsables de la mise à jour des données enregistrent de manière permanente dans le RegBL ou dans un registre reconnu toutes les informations relatives aux projets de construction, aux bâtiments et aux logements ainsi qu’aux objets similaires à un bâtiment ou à un logement selon l’art. 8. La mise à jour doit être clôturée formellement au plus tard à la fin de chaque trimestre dans un délai de 30 jours.
 
-<sup>2</sup> Les services en charge des registres reconnus transmettent à l’OFS au moins une fois par mois les données relatives aux bâtiments et aux logements. Le transfert et l’importation des données se fait autant que possible de manière standardisée et automatisée.
+<sup>2</sup> Les services en charge des registres reconnus transmettent de manière permanente à l’OFS les données actualisées relatives aux bâtiments et aux logements ainsi qu’aux objets similaires à un bâtiment ou à un logement. Le transfert et l’importation des données se font de manière standardisée et automatisée.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 11
 
@@ -237,6 +282,10 @@ Les sources suivantes, en particulier, peuvent être utilisées pour la mise à 
 
 <sup>4</sup> Si les données enregistrées sont incomplètes ou erronées ou qu’elles comportent des anomalies, l’OFS ordonne leur correction en fixant un délai.
 
+<sup>5</sup> Les autorités et les services responsables des sources mentionnées à l’art. 9, al. 2, communiquent au service chargé de la mise à jour du RegBL les défauts constatés dans les données de référence des bâtiments et des logements, tels que des données incomplètes ou erronées.[^12-1]
+
+[^12-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+
 #### Art. 13
 
 **Interfaces pour la gestion électronique de données**
@@ -244,6 +293,10 @@ Les sources suivantes, en particulier, peuvent être utilisées pour la mise à 
 <sup>1</sup> L’OFS met à la disposition des services responsables de la mise à jour des données du RegBL une application informatique pour l’enregistrement et la gestion des données.
 
 <sup>2</sup> Il définit les interfaces d’échange de données entre le RegBL et les registres reconnus, ainsi qu’entre le RegBL et les communes qui ne sont pas liées à un registre reconnu. Lors de changements, il consulte les services en charges des registres reconnus. Il accorde un délai raisonnable pour la mise en œuvre.
+
+<sup>3</sup> Il met à disposition une interface standardisée pour communiquer les défauts constatés dans les données de référence des bâtiments et des logements ou dans d’autres données. Les défauts communiqués et leur correction sont transmis aux services responsables de la mise à jour des données du RegBL aux fins de validation.[^13-1]
+
+[^13-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Section 3 Utilisation et communication des données
 
@@ -281,11 +334,28 @@ L’OFS permet un accès en ligne aux données du RegBL pour la réalisation de 
 
 <sup>6</sup> Les services au bénéfice d’une autorisation d’accès selon l’al. 1 peuvent communiquer les données à des tiers si leur législation cantonale le prévoit et si les tiers ont besoin des données pour l’exécution de travaux statistiques, à but de recherche ou de planification ou pour l’accomplissement d’une tâche légale. Le traitement des données par un tiers doit se faire conformément aux dispositions de la présente ordonnance.
 
+#### Art. 15a
+
+**Utilisation uniforme des données de référence des bâtiments et des logements**[^15a-1]
+
+<sup>1</sup>
+
+Les autorités ci-après qui ont besoin de données de référence des bâtiments et des logements dans l’accomplissement de leurs tâches légales sont tenues d’utiliser ces données:
+
+- a. les autorités fédérales;
+- b. les autorités cantonales et communales, dans le cadre de leur communication avec la Confédération.
+
+<sup>2</sup> Les autorités fédérales, cantonales et communales communiquent à l’OFS toute incohérence constatée entre les données de référence des bâtiments et des logements et leurs propres données via l’interface standardisée selon l’art. 13, al. 3.
+
+[^15a-1]: Introduit par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+
 #### Art. 16
 
-**Publication des données du RegBL**
+**Publication des données du RegBL**[^16-1]
 
-L’OFS publie sur Internet les données du RegBL du niveau d’accès A selon l’annexe 1.
+L’OFS publie, sur Internet et via l’interface standardisée, les données du RegBL du niveau d’accès A selon l’annexe 1, y compris les éventuelles données de référence des bâtiments et des logements. Sont exclues les données protégées par des dispositions de lois spéciales.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 17
 
@@ -349,33 +419,34 @@ Annexe 1[^t-1]
 
 ## Accès aux données du Registre fédéral des bâtiments et des logements
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 175](https://fedlex.data.admin.ch/eli/oc/2022/175)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 <table>
-<tr><th>Les niveaux d’accès Niveau A - données accessibles au public Niveau B - données accessibles avec restriction Niveau C - données non accessibles</th><th>Niveau A / B / C</th></tr>
-<tr><td>Informations concernant les bâtiments</td><td></td></tr>
-<tr><td>Identificateur fédéral du bâtiment (EGID)</td><td>A</td></tr>
+<tr><th>Les niveaux d’accès Niveau A – données accessibles au public (\*= contiennent des données de référence des bâtiments et des logements) Niveau B – données accessibles avec restriction Niveau C – données non accessibles</th><th>Niveau A / B / C</th></tr>
+<tr><td>Informations concernant les bâtiments et les objets similaires à un bâtiment</td><td></td></tr>
+<tr><td>Identificateur fédéral du bâtiment (EGID)</td><td>A\*</td></tr>
 <tr><td>Numéro du bâtiment attribué par le canton ou la commune</td><td>A</td></tr>
-<tr><td>Commune politique</td><td>A</td></tr>
+<tr><td>Commune politique</td><td>A\*</td></tr>
 <tr><td>Référence aux biens-fonds</td><td>A</td></tr>
-<tr><td>Indication d’adressage selon art. 26*a* et 26*b* ONGéo[^annex1-lvlu1-1]</td><td>A</td></tr>
-<tr><td>Catégorie du bâtiment</td><td>A</td></tr>
-<tr><td>Statut du bâtiment (projeté, achevé, démoli)</td><td>A</td></tr>
+<tr><td>Indication d’adressage selon art. 26*a* et 26*b* ONGéo[^annex1-lvlu1-1]</td><td>A\*</td></tr>
+<tr><td>Catégorie du bâtiment</td><td>A\*</td></tr>
+<tr><td>Statut du bâtiment (projeté, achevé, démoli)</td><td>A\*</td></tr>
 <tr><td>Date ou période de construction et de démolition du bâtiment</td><td>A</td></tr>
-<tr><td>Dimensions du bâtiment (surfaces, volume)</td><td>A</td></tr>
-<tr><td>Structure du bâtiment (nombre d’étages)</td><td>A</td></tr>
-<tr><td>Installations techniques principales du bâtiment (système de chauffage, abri PC)</td><td>A</td></tr>
+<tr><td>Dimensions du bâtiment (surfaces, volume)</td><td>A\*</td></tr>
+<tr><td>Structure du bâtiment (nombre d’étages)</td><td>A\*</td></tr>
+<tr><td>Installations techniques principales du bâtiment (système de chauffage, abri PC)</td><td>A\*</td></tr>
+<tr><td>Efficacité de l’enveloppe du bâtiment</td><td>A</td></tr>
 <tr><td>Appartenance à des zones statistiques, à des quartiers et à d’autres unités territoriales infracommunales</td><td>B</td></tr>
 <tr><td>Personne de référence du bâtiment</td><td>C</td></tr>
-<tr><td>Informations concernant les logements</td><td></td></tr>
-<tr><td>Identificateur de logement attribué par l’OFS (EWID)</td><td>A</td></tr>
+<tr><td>Informations concernant les logements et les objets similaires à un logement</td><td></td></tr>
+<tr><td>Identificateur de logement attribué par l’OFS (EWID)</td><td>A\*</td></tr>
 <tr><td>Numéro de logement attribué par le canton ou la commune</td><td>A</td></tr>
 <tr><td>Référence aux biens-fonds pour les logements en propriété par étage</td><td>A</td></tr>
-<tr><td>Situation du logement dans le bâtiment</td><td>A</td></tr>
+<tr><td>Situation du logement dans le bâtiment</td><td>A\*</td></tr>
 <tr><td>Date ou période de construction et de démolition du logement</td><td>A</td></tr>
-<tr><td>Statut du logement (projeté, achevé, démoli)</td><td>A</td></tr>
-<tr><td>Dimensions du logement (surface)</td><td>A</td></tr>
-<tr><td>Structure du logement (nombre de pièces, installation de cuisine, multiniveau)</td><td>A</td></tr>
+<tr><td>Statut du logement (projeté, achevé, démoli)</td><td>A\*</td></tr>
+<tr><td>Dimensions du logement (surface)</td><td>A\*</td></tr>
+<tr><td>Structure du logement (nombre de pièces, installation de cuisine, multiniveau)</td><td>A\*</td></tr>
 <tr><td>Affectation du logement</td><td>B</td></tr>
 <tr><td>Restriction d’utilisation du logement (au sens de la LRS[^annex1-lvlu1-2])</td><td>B</td></tr>
 <tr><td>Informations concernant les projets de construction</td><td></td></tr>

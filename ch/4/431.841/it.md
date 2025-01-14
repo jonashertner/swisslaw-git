@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2024-01-01
+version: 2025-01-15
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250115/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250115-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20240101/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° gennaio 2024)
+del 9 giugno 2017 (Stato 15 gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 10 capoverso 3<sup>bis</sup> della legge del 9 ottobre 1992[^ingress-1] sulla statistica federale (LStat),
+visti gli articoli 10 capoverso 3<sup>bis</sup> della legge del 9 ottobre 1992 sulla statistica federale[^ingress-1] (LStat); visti gli articoli 5 e 6 della legge del 5 ottobre 2007[^ingress-2] sulla geoinformazione (LGI),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -35,7 +37,9 @@ ordina:
 
 <sup>1</sup> L’Ufficio federale di statistica (UST) tiene per scopi di statistica, ricerca o pianificazione il Registro federale degli edifici e delle abitazioni (REA) come sistema informativo di riferimento.
 
-<sup>2</sup> Il REA serve anche all’esecuzione di altri compiti legali.
+<sup>2</sup> Il REA serve anche alla gestione comune dei dati di base della Confederazione e all’esecuzione di altri compiti legali.[^1-1]
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 2
 
@@ -43,15 +47,22 @@ ordina:
 
 Nella presente ordinanza si intende per:
 
-- a. *progetto di costruzione:* oggetto che richiede un’autorizzazione edilizia secondo l’articolo 22 della legge del 22 giugno 1979[^2-1] sulla pianificazione del territorio (LPT);
+- a.[^2-1] *progetto di costruzione:* oggetto che richiede un’autorizzazione edilizia secondo l’articolo 22 della legge del 22 giugno 1979[^2-2] sulla pianificazione del territorio oppure oggetto simile che non richiede un’autorizzazione edilizia ma è soggetto all’obbligo di notifica;
 - b. *edificio:* costruzione immobiliare duratura, coperta, ben ancorata al terreno, in grado di accogliere persone e che serve per l’abitazione, il lavoro, la formazione, la cultura, lo sport o per qualsiasi altra attività umana; se si tratta di case abbinate, a gruppi o a schiera è considerata edificio indipendente ogni costruzione dotata di una propria entrata dall’esterno e separata dalle altre costruzioni da un muro divisorio verticale portante dal piano terra al tetto;
-- c. *abitazione:* insieme di locali secondo la definizione dell’articolo 2 capoverso 1 della legge del 20 marzo 2015[^2-2] sulle abitazioni secondarie (LASec);
+- b<sup>bis</sup>.[^2-3] *oggetto simile a un edificio:* oggetto che soddisfa solo alcuni dei criteri della definizione di cui alla lettera b;
+- c. *abitazione:* insieme di locali secondo la definizione dell’articolo 2 capoverso 1 della legge del 20 marzo 2015[^2-4] sulle abitazioni secondarie (LASec);
+- c<sup>bis</sup>.[^2-5] *oggetto simile a un’abitazione:* oggetto che soddisfa solo alcuni dei criteri della definizione di cui all’articolo 2 capoverso 1 LASec;
 - d. *entrata dell’edificio:* accesso all’edificio dall’esterno; l’entrata è identificata dall’indirizzo dell’edificio;
-- e. *indirizzo dell’edificio:* indicazione dell’indirizzo secondo l’articolo 26*b* dell’ordinanza del 21 maggio 2008[^2-3] sui nomi geografici (ONGeo) e coordinate dell’indirizzo dell’edificio.
+- e. *indirizzo dell’edificio:* indicazione dell’indirizzo secondo l’articolo 26*b* dell’ordinanza del 21 maggio 2008[^2-6] sui nomi geografici (ONGeo) e coordinate dell’indirizzo dell’edificio;
+- f.[^2-7] *dati di base degli edifici* e *delle abitazioni:* dati che fungono da base per l’identificazione, l’attribuzione di categorie e caratteristiche di edifici e abitazioni nonché di oggetti simili a edifici e abitazioni.
 
-[^2-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^2-2]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
-[^2-3]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-3]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-4]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^2-5]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-6]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^2-7]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Sezione 2: Organizzazione, gestione e contenuto del REA
 
@@ -66,6 +77,13 @@ Nella presente ordinanza si intende per:
 <sup>3</sup> Definisce, per gli identificatori e le caratteristiche contenuti nel REA, le modalità, le nomenclature e le liste di codici corrispondenti.
 
 <sup>4</sup> Emana, in collaborazione con l’Ufficio federale dello sviluppo territoriale e l’Ufficio federale di topografia, una direttiva sulla definizione degli edifici di cui all’articolo 2 lettera b, allo scopo di garantire una gestione standardizzata dei dati contenuti del REA.
+
+<sup>5</sup> Disciplina in una convenzione organizzativa scritta con ciascun Cantone i compiti, compreso il loro concreto adempimento, le competenze e le responsabilità dei rispettivi servizi cantonali di coordinamento.[^3-1]
+
+<sup>6</sup> Garantisce che i dati di base degli edifici e delle abitazioni siano gratuitamente a disposizione dei servizi amministrativi della Confederazione, dei Cantoni e dei Comuni per l’adempimento dei loro compiti legali.[^3-2]
+
+[^3-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^3-2]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 4
 
@@ -85,7 +103,9 @@ L’UST lavora in collaborazione con:
 
 <sup>1</sup> Ogni Cantone designa un servizio responsabile del coordinamento delle attività connesse al REA e comunica all’UST quali sono i servizi responsabili dell’aggiornamento dei dati.
 
-<sup>2</sup> D’intesa con l’UST, il servizio cantonale di coordinamento si assicura che i dati del REA siano aggiornati regolarmente.
+<sup>2</sup> D’intesa con l’UST e in conformità con la convenzione organizzativa, il servizio cantonale di coordinamento si assicura che i servizi cantonali o comunali responsabili dell’aggiornamento del REA attualizzino periodicamente i dati del REA (art. 7), li aggiornino (art. 10) e li controllino e correggano (art. 12).[^5-1]
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 6
 
@@ -109,17 +129,20 @@ L’UST può delegare ai Cantoni o alle grandi città che gestiscono un registro
 
 Nel REA sono registrati gli oggetti seguenti:
 
-- a. i progetti di costruzione, al più tardi al momento del rilascio dell’autorizzazione edilizia;
-- b. tutti gli edifici con le loro entrate (compresi gli indirizzi) e, nel caso degli edifici con uso abitativo, le rispettive abitazioni;
+- a.[^7-1] i progetti di costruzione, al più tardi al momento del passaggio in giudicato del rilascio dell’autorizzazione edilizia;
+- b.[^7-2] tutti gli edifici con le loro entrate, compresi gli indirizzi, e, nel caso degli edifici con uso abitativo, le rispettive abitazioni nonché gli oggetti simili a edifici e quelli simili ad abitazioni;
 - c. altri oggetti costruiti o altri tipi di progetti di costruzione.
 
-<sup>2</sup> Gli edifici progettati e le loro entrate e abitazioni devono essere registrati al più tardi al momento del rilascio dell’autorizzazione edilizia.
+<sup>2</sup> Gli edifici progettati e le loro entrate e abitazioni devono essere registrati al più tardi al momento del passaggio in giudicato del rilascio dell’autorizzazione edilizia.[^7-3]
 
 <sup>3</sup> L’UST definisce nel catalogo delle caratteristiche in quali casi gli oggetti di cui al capoverso 1 sono esonerati dalla registrazione nel REA.
 
-<sup>4</sup> Gli oggetti, le costruzioni e le installazioni militari soggetti all’ordinanza del 2 maggio 1990[^7-1] concernente la protezione delle opere militari non sono registrati nel REA.
+<sup>4</sup> Gli oggetti, le costruzioni e le installazioni militari soggetti all’ordinanza del 2 maggio 1990[^7-4] concernente la protezione delle opere militari non sono registrati nel REA.
 
-[^7-1]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^7-4]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 8
 
@@ -138,32 +161,32 @@ Per ogni progetto di costruzione sono registrate nel REA le informazioni seguent
 - g. costi del progetto;
 - h. stato del progetto (stato di avanzamento del progetto);
 - i. tipo di deroga all’autorizzazione edilizia;
-- j. numero di edifici del progetto di costruzione;
-- k. numero di abitazioni del progetto di costruzione.
+- j. e k[^8-1] ...
 
 <sup>2</sup>
 
-Per ogni edificio sono registrate nel REA le informazioni seguenti:
+Per ogni edificio e oggetto simile a un edificio sono registrate nel REA le informazioni seguenti:[^8-2]
 
-- a. identificatore dell’edificio (EGID) attribuito dall’UST;
+- a.[^8-3] identificatore dell’edificio e di oggetti simili a un edificio (EGID) attribuito dall’UST;
 - b. numero dell’edificio attribuito dal Cantone o dal comune;
 - c. identificatore dell’entrata dell’edificio (EDID) attribuito dall’UST;
 - d. Comune politico;
 - e. riferimento ai fondi;
-- f. indicazione dell’indirizzo secondo gli articoli 26*a* e 26*b* ONGeo[^8-1];
+- f. indicazione dell’indirizzo secondo gli articoli 26*a* e 26*b* ONGeo[^8-4];
 - g. categoria dell’edificio;
 - h. stato dell’edificio (progettato, terminato, demolito);
 - i. data o periodo di costruzione e data o periodo di demolizione dell’edificio;
 - j. dimensioni dell’edificio (superfici, volumi);
 - k. struttura dell’edificio (numero di piani);
 - l. installazioni tecniche principali dell’edificio (sistema di riscaldamento, rifugio);
-- m. appartenenza a zone statistiche, quartieri e altre unità territoriali infracomunali.
+- m. appartenenza a zone statistiche, quartieri e altre unità territoriali infracomunali;
+- n.[^8-5] efficienza dell’involucro dell’edificio (anno di risanamento delle principali parti dell’edificio).
 
 <sup>3</sup>
 
-Per ogni abitazione sono registrate nel REA le informazioni seguenti:
+Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA le informazioni seguenti:[^8-6]
 
-- a. identificatore dell’abitazione (EWID) attribuito dall’UST;
+- a.[^8-7] identificatore dell’abitazione e di oggetti simili a un’abitazione (EWID) attribuito dall’UST;
 - b. numero dell’abitazione attribuito dal Cantone o dal comune;
 - c. riferimento ai fondi nel caso di abitazioni in proprietà per piani;
 - d. ubicazione dell’abitazione nell’edificio;
@@ -171,7 +194,7 @@ Per ogni abitazione sono registrate nel REA le informazioni seguenti:
 - f. stato dell’abitazione (progettato, terminato, demolito);
 - g. dimensioni dell’abitazione (superficie);
 - h. struttura dell’abitazione (numero di locali, equipaggiata di cucina, su più piani);
-- i. destinazione dell’abitazione;
+- i.[^8-8] destinazione dell’abitazione (secondo la LASec[^8-9]);
 - j. limitazione d’uso dell’abitazione (secondo la LASec).
 
 <sup>4</sup> Un’informazione secondo i capoversi 1–3 può essere suddivisa in una o più caratteristiche.
@@ -180,7 +203,25 @@ Per ogni abitazione sono registrate nel REA le informazioni seguenti:
 
 <sup>6</sup> L’UST può fare figurare nel REA caratteristiche o indicazioni complementari necessarie a tenere il registro o a effettuare elaborazioni statistiche. Queste informazioni non sono accessibili a terzi.
 
-[^8-1]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-1]: Abrogate dalla cifra I dell’O del 27 nov. 2024, con effetto dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-4]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-5]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-6]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-7]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-8]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-9]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+
+#### Art. 8a
+
+**Dati di base degli edifici e delle abitazioni**[^8a-1]
+
+<sup>1</sup> Sono considerati dati di base degli edifici e di oggetti simili a un edificio gli indentificatori e le caratteristiche definite come tali nel catalogo delle caratteristiche dell’UST secondo l’articolo 3 capoverso 1 per i dati del registro degli edifici e delle abitazioni secondo l’articolo 8 capoverso 2 lettere a, c, d, f–h e j–l.
+
+<sup>2</sup> Sono considerati dati di base delle abitazioni e di oggetti simili a un’abitazione gli indentificatori e le caratteristiche definite come tali nel catalogo delle caratteristiche dell’UST secondo l’articolo 3 capoverso 1 per i dati del registro degli edifici e delle abitazioni secondo l’articolo 8 capoverso 3 lettere a, d e f–h.
+
+[^8a-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 9
 
@@ -198,25 +239,29 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 - d. dati di riferimento relativi agli edifici e alle abitazioni per la determinazione del valore fiscale;
 - e. registri amministrativi delle assicurazioni immobiliari cantonali;
 - f.[^9-1] banche dati della Posta, dei servizi di telecomunicazione, dei fornitori di elettricità e di gas nonché dei gestori delle reti di riscaldamento a distanza;
-- g. notifiche di committenti, architetti, proprietari e società di gestione immobiliare;
-- h. dati di altre rilevazioni statistiche a condizione che l’utilizzo nel REA sia espressamente menzionato nell’allegato dell’ordinanza del 30 giugno 1993[^9-2] sulle rilevazioni statistiche;
+- g.[^9-2] notifiche di committenti, architetti, proprietari, società di gestione immobiliare, assicurazioni e di altre fonti private;
+- h. dati di altre rilevazioni statistiche a condizione che l’utilizzo nel REA sia espressamente menzionato nell’allegato dell’ordinanza del 30 giugno 1993[^9-3] sulle rilevazioni statistiche;
 - i. dati rilevati in occasione di controlli cantonali e comunali di impianti di combustione;
 - j. dati rilevati per il rilascio di certificati energetici cantonali degli edifici (CECE).
 
-<sup>3</sup> Per l’aggiornamento del REA i dati dei registri della Confederazione, dei Cantoni e dei Comuni sono messi gratuitamente a disposizione dall’UST o da un servizio incaricato di un registro riconosciuto.
+<sup>3</sup> Per l’aggiornamento del REA i dati dei registri e degli elenchi della Confederazione, dei Cantoni e dei Comuni sono messi gratuitamente a disposizione dall’UST o da un servizio incaricato di un registro riconosciuto.[^9-4]
 
 <sup>4</sup> Le persone fisiche o giuridiche e le istituzioni con compiti di diritto pubblico sono tenute a fornire le informazioni di cui all’articolo 8.
 
-[^9-1]: Nuovo testo giusta l’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^9-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Nuovo testo giusta l’all. 2 cifra II n. 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^9-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 10
 
-**Aggiornamento dei registri**
+**Aggiornamento dei registri**[^10-1]
 
-<sup>1</sup> I servizi comunali o cantonali responsabili dell’aggiornamento dei dati registrano in modo costante nel REA o in un registro riconosciuto tutte le informazioni relative ai progetti di costruzione, agli edifici e alle abitazioni secondo l’articolo 8. L’aggiornamento deve essere formalmente concluso al più tardi alla fine di ogni trimestre, entro un termine di 30 giorni.
+<sup>1</sup> I servizi comunali o cantonali responsabili dell’aggiornamento dei dati registrano in modo costante nel REA o in un registro riconosciuto tutte le informazioni relative ai progetti di costruzione, agli edifici e alle abitazioni, nonché agli altri oggetti simili a edifici e a quelli simili ad abitazioni, secondo l’articolo 8. L’aggiornamento deve essere formalmente concluso al più tardi alla fine di ogni trimestre, entro un termine di 30 giorni.
 
-<sup>2</sup> I servizi incaricati dei registri riconosciuti trasmettono all’UST i dati sugli edifici e sulle abitazioni almeno una volta al mese. La trasmissione e l’importazione dei dati avvengono per quanto possibile in modo standardizzato e automatizzato.
+<sup>2</sup> I servizi incaricati dei registri riconosciuti trasmettono in modo costante all’UST i dati aggiornati sugli edifici e sulle abitazioni nonché sugli oggetti simili ad edifici e su quelli simili ad abitazioni. La trasmissione e l’importazione dei dati avvengono in modo standardizzato e automatizzato.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 11
 
@@ -238,6 +283,10 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 
 <sup>4</sup> Se i dati registrati risultano incompleti o errati oppure se presentano anomalie l’UST ne ordina la correzione fissando un termine per provvedervi.
 
+<sup>5</sup> Le autorità e i servizi responsabili delle fonti dei dati menzionate nell’articolo 9 capoverso 2 segnalano al servizio responsabile dell’aggiornamento del REA eventuali irregolarità, quali lacune o errori, dei dati di base degli edifici e delle abitazioni.[^12-1]
+
+[^12-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+
 #### Art. 13
 
 **Interfacce**
@@ -245,6 +294,10 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 <sup>1</sup> L’UST mette a disposizione dei servizi responsabili dell’aggiornamento dei dati del REA un’applicazione informatica per la registrazione e la gestione dei dati.
 
 <sup>2</sup> Stabilisce le interfacce per lo scambio di dati tra il REA e i registri riconosciuti come anche tra il REA e i Comuni che non sono collegati a un registro riconosciuto. Prima di apportare modifiche, consulta i servizi incaricati dei registri riconosciuti. Per l’applicazione concede scadenze appropriate.
+
+<sup>3</sup> Mette a disposizione un’interfaccia standardizzata per la segnalazione di irregolarità nei dati di base degli edifici e delle abitazioni nonché di altri dati. Le irregolarità segnalate e la loro correzione sono comunicate ai servizi responsabili dell’aggiornamento del REA a scopo di convalida.[^13-1]
+
+[^13-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Sezione 3: Impiego e comunicazione dei dati
 
@@ -282,11 +335,28 @@ L’UST consente di accedere on line ai dati del REA per eseguire lavori statist
 
 <sup>6</sup> I servizi che beneficiano di un’autorizzazione d’accesso secondo il capoverso 1 possono comunicare i dati a terzi se la loro legislazione cantonale lo prevede e se i terzi necessitano i dati per scopi di statistica, ricerca, pianificazione o l’esecuzione di un compito legale. Il trattamento dei dati da parte di terzi deve avvenire conformemente alle disposizioni della presente ordinanza.
 
+#### Art. 15a
+
+**Impiego uniforme dei dati di base degli edifici e delle abitazioni**[^15a-1]
+
+<sup>1</sup>
+
+L’impiego di questi dati è vincolante per le seguenti autorità che necessitano di dati di base sugli edifici e sulle abitazioni per l’adempimento dei loro compiti legali:
+
+- a. le autorità federali;
+- b. le autorità cantonali e comunali nel quadro della comunicazione con la Confederazione.
+
+<sup>2</sup> Se le autorità federali, cantonali e comunali accertano discrepanze tra di dati di base degli edifici e delle abitazioni e i propri dati, lo segnalano all’UST utilizzando l’apposita interfaccia di cui all’articolo 13 capoverso 3.
+
+[^15a-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+
 #### Art. 16
 
-**Pubblicazione dei dati del REA**
+**Pubblicazione dei dati del REA**[^16-1]
 
-L’UST pubblica in Internet i dati del REA del livello di autorizzazione all’accesso A secondo l’allegato 1.
+L’UST pubblica in Internet e attraverso interfacce standardizzate i dati del REA del livello di autorizzazione all’accesso A secondo l’allegato 1, compresi eventuali dati di base degli edifici e delle abitazioni. Ciò non si applica ai dati protetti dalle disposizioni di leggi speciali.
+
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 1°15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 17
 
@@ -318,11 +388,11 @@ La sicurezza dei dati è disciplinata:
 <sup>2</sup> L’OPDa si applica per analogia alla sicurezza dei dati delle persone giuridiche.[^18-6]
 
 [^18-1]: Nuovo testo giusta l’all. n. 25 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^18-2]: Nuovo testo giusta l’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: Nuovo testo giusta l’all. 2 cifra II n. 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-4]: Nuovo testo giusta l’all. 2 n. II 26 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18-4]: Nuovo testo giusta l’all. 2 cifra II n. 26 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-[^18-6]: Introdotto dall’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-6]: Introdotto dall’all. 2 cifra II n. 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -350,33 +420,34 @@ Allegato 1[^t-1]
 
 ## Accesso ai dati del Registro federale degli edifici e delle abitazioni
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 175](https://fedlex.data.admin.ch/eli/oc/2022/175)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 <table>
-<tr><th>Livelli di autorizzazione all’accesso Livello A – dati accessibili al pubblico Livello B – dati accessibili con restrizioni Livello C – dati non accessibili</th><th>Livello A / B / C</th></tr>
-<tr><td>Informazioni concernenti gli edifici</td><td></td></tr>
-<tr><td>Identificatore dell’edificio (EGID) attribuito dall’UST</td><td>A</td></tr>
-<tr><td>Numero dell’edificio attribuito dal Cantone o dal comune</td><td>A</td></tr>
-<tr><td>Comune politico</td><td>A</td></tr>
+<tr><th>Livelli di autorizzazione all’accesso Livello A – dati accessibili al pubblico (\*= contengono dati di base degli edifici e delle abitazioni) Livello B – dati accessibili con restrizioni Livello C – dati non accessibili</th><th>Livello A / B / C</th></tr>
+<tr><td>Informazioni su edifici e oggetti simili a edifici</td><td></td></tr>
+<tr><td>Identificatore dell’edificio (EGID) attribuito dall’UST</td><td>A\*</td></tr>
+<tr><td>Numero dell’edificio attribuito dal Cantone o dal Comune</td><td>A</td></tr>
+<tr><td>Comune politico</td><td>A\*</td></tr>
 <tr><td>Riferimento ai fondi</td><td>A</td></tr>
-<tr><td>Indicazione dell’indirizzo secondo gli articoli 26*a* e 26*b* ONGeo[^annex1-lvlu1-1]</td><td>A</td></tr>
-<tr><td>Categoria dell’edificio</td><td>A</td></tr>
-<tr><td>Stato dell’edificio (progettato, terminato, demolito)</td><td>A</td></tr>
+<tr><td>Indicazione dell’indirizzo secondo gli articoli 26*a* e 26*b* ONGeo[^annex1-lvlu1-1]</td><td>A\*</td></tr>
+<tr><td>Categoria dell’edificio</td><td>A\*</td></tr>
+<tr><td>Stato dell’edificio (progettato, terminato, demolito)</td><td>A\*</td></tr>
 <tr><td>Data o periodo di costruzione e data o periodo di demolizione dell’edificio</td><td>A</td></tr>
-<tr><td>Dimensioni dell’edificio (superfici, volumi)</td><td>A</td></tr>
-<tr><td>Struttura dell’edificio (numero di piani)</td><td>A</td></tr>
-<tr><td>Installazioni tecniche principali dell’edificio (sistema di riscaldamento, rifugio)</td><td>A</td></tr>
+<tr><td>Dimensioni dell’edificio (superfici, volumi)</td><td>A\*</td></tr>
+<tr><td>Struttura dell’edificio (numero di piani)</td><td>A\*</td></tr>
+<tr><td>Installazioni tecniche principali dell’edificio (sistema di riscaldamento, rifugio)</td><td>A\*</td></tr>
+<tr><td>Efficienza dell’involucro dell’edificio</td><td>A</td></tr>
 <tr><td>Appartenenza a zone statistiche, quartieri e altre unità territoriali infracomunali</td><td>B</td></tr>
 <tr><td>Persona di riferimento per l’edificio</td><td>C</td></tr>
-<tr><td>Informazioni concernenti le abitazioni</td><td></td></tr>
-<tr><td>Identificatore dell’abitazione (EWID) attribuito dall’UST</td><td>A</td></tr>
-<tr><td>Numero dell’abitazione attribuito dal Cantone o dal comune</td><td>A</td></tr>
+<tr><td>Informazioni su abitazioni e oggetti simili ad abitazioni</td><td></td></tr>
+<tr><td>Identificatore dell’abitazione (EWID) attribuito dall’UST</td><td>A\*</td></tr>
+<tr><td>Numero dell’abitazione attribuito dal Cantone o dal Comune</td><td>A</td></tr>
 <tr><td>Riferimento ai fondi nel caso di abitazioni in proprietà per piani</td><td>A</td></tr>
-<tr><td>Ubicazione dell’abitazione nell’edificio</td><td>A</td></tr>
+<tr><td>Ubicazione dell’abitazione nell’edificio</td><td>A\*</td></tr>
 <tr><td>Data o periodo di costruzione e data o periodo di demolizione dell’abitazione</td><td>A</td></tr>
-<tr><td>Stato dell’abitazione (progettato, terminato, demolito)</td><td>A</td></tr>
-<tr><td>Dimensioni dell’abitazione (superficie)</td><td>A</td></tr>
-<tr><td>Struttura dell’abitazione (numero di locali, equipaggiata di cucina, su più piani)</td><td>A</td></tr>
+<tr><td>Stato dell’abitazione (progettato, terminato, demolito)</td><td>A\*</td></tr>
+<tr><td>Dimensioni dell’abitazione (superficie)</td><td>A\*</td></tr>
+<tr><td>Struttura dell’abitazione (numero di locali, equipaggiata di cucina, su più piani)</td><td>A\*</td></tr>
 <tr><td>Destinazione dell’abitazione</td><td>B</td></tr>
 <tr><td>Limitazione d’uso dell’abitazione (secondo la LASec[^annex1-lvlu1-2])</td><td>B</td></tr>
 <tr><td>Informazioni concernenti i progetti di costruzione</td><td></td></tr>
