@@ -4,24 +4,23 @@ number: "153.260"
 title: Gesetz über die Information und den Datenschutz
 short: "Informations- und Datenschutzgesetz, IDG"
 language: de
-version: 2025-01-01
-valid_until: 2025-01-15
-version_adopted: 2022-10-20
+version: 2025-01-16
+version_adopted: 2024-11-13
 adopted: 2010-06-09
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/153.260"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6464/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Information und den Datenschutz
 
-Informations- und Datenschutzgesetz | Regierung und Verwaltung
+Regierung und Verwaltung
 
 (Informations- und Datenschutzgesetz, IDG)
 
-Vom 9. Juni 2010 (Stand 1. Januar 2025)
+Vom 9. Juni 2010 (Stand 16. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -60,7 +59,7 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat sorgt dafür, dass interkantonale Institutionen mit baselstädtischer Beteiligung einen gleichwertigen Datenschutz gewährleisten.
 
-[^2-1]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de)
+[^2-1]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de), Totalrevision des Bundesgesetzes per 1. September 2023, neu: Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG) vom 25. September 2020
 
 #### § 3
 
@@ -640,7 +639,7 @@ beschliesst:
 
 **Leitung**
 
-<sup>1</sup> Die Aufsichtsstelle wird von einer in Datenschutzfragen ausgewiesenen Fachperson (der oder dem Beauftragten) geleitet.
+<sup>1</sup> Die Aufsichtsstelle wird von einer in Datenschutzfragen ausgewiesenen Fachperson (der oder dem Beauftragten) geleitet. Die Besoldung erfolgt analog den Zivilgerichtspräsidentinnen und Zivilgerichtspräsidenten des Kantons Basel-Stadt.
 
 <sup>2</sup> Der Grosse Rat wählt die Beauftragte oder den Beauftragten auf Antrag seiner Wahlvorbereitungskommission auf eine feste Amtsdauer von sechs Jahren. Der Wahlvorschlag ist dem Regierungsrat zur Stellungnahme vorzulegen. Wiederwahl ist möglich.
 
