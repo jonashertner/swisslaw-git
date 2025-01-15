@@ -3,11 +3,11 @@ sr: "0.312.12"
 title: Änderungen des Römer Statuts vom 10. Juni 2010 des Internationalen Strafgerichtshofs betreffend die Kriegsverbrechen
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/645"
 language: de
-version: 2022-02-16
+version: 2025-01-16
 adopted: 2010-06-10
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20220216/de/xml/fedlex-data-admin-ch-eli-cc-2015-645-20220216-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20220216/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20250116/de/xml/fedlex-data-admin-ch-eli-cc-2015-645-20250116-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20250116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,9 +26,9 @@ Ratifikationsurkunde durch die Schweiz hinterlegt am 10. September 2015
 
 In Kraft getreten für die Schweiz am 10. September 2016
 
-(Stand am 16. Februar 2022)
+(Stand am 16. Januar 2025)
 
-[^t-1]: Resolution RC/Res.5; siehe Verwahrernotifikation C.N.533.2010 Treaties-6 vom 29. November 2010, verfügbar unter http://treaties.un.org.
+[^t-1]: Resolution RC/Res.5; siehe Verwahrernotifikation C.N.533.2010 Treaties-6 vom 29. November 2010, verfügbar unter: [http://treaties.un.org](http://treaties.un.org).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 20. März 2015 ([AS 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).
 
 Die Überprüfungskonferenz,
@@ -55,6 +55,75 @@ in der Erwägung, dass das in Artikel 8 Absatz 2 Buchstabe e Ziffer xv (Verwendu
 
 \2. beschliesst, die in Anhang II dieser Resolution enthaltenen, den «Verbrechenselementen» anzufügenden relevanten Elemente anzunehmen.[^ingress-3]
 
-[^ingress-1]: [SR 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^ingress-2]: [SR 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
-[^ingress-3]: Anhang II wird in der AS nicht publiziert. Der Text ist in seinen Originalsprachen zugänglich unter www.icc-cpi.int &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.5.
+[^ingress-1]: [SR 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+[^ingress-2]: [SR 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
+[^ingress-3]: Anhang II wird in der AS nicht publiziert. Der Text ist in seinen Originalsprachen zugänglich unter: [www.icc-cpi.int](http://www.icc-cpi.int) &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.5.
+
+Anhang I
+
+## Änderung des Artikels 8
+
+In Artikel 8 Absatz 2 Buchstabe e wird Folgendes angefügt:
+
+- «xiii) die Verwendung von Gift oder vergifteten Waffen;
+- xiv) die Verwendung erstickender, giftiger oder gleichartiger Gase sowie aller ähnlichen Flüssigkeiten, Stoffe oder Vorrichtungen;
+- xv) die Verwendung von Geschossen, die sich im Körper des Menschen leicht ausdehnen oder flachdrücken, beispielsweise Geschosse mit einem harten Mantel, der den Kern nicht ganz umschliesst oder mit Einschnitten versehen ist.»
+
+Geltungsbereich am 16. Januar 2025[^t-3]
+
+<table>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Andorra</td><td>26. September</td><td>2013</td><td>26. September</td><td>2014</td></tr>
+<tr><td>Argentinien</td><td>28. April</td><td>2017</td><td>28. April</td><td>2018</td></tr>
+<tr><td>Belgien</td><td>26. November</td><td>2013</td><td>26. November</td><td>2014</td></tr>
+<tr><td>Botsuana</td><td>4. Juni</td><td>2013</td><td>4. Juni</td><td>2014</td></tr>
+<tr><td>Chile</td><td>23. September</td><td>2016</td><td>23. September</td><td>2017</td></tr>
+<tr><td>Costa Rica</td><td>5. Februar</td><td>2015</td><td>5. Februar</td><td>2016</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>1. Januar</td><td>2025</td><td>1. Januar</td><td>2026</td></tr>
+<tr><td>Deutschland</td><td>3. Juni</td><td>2013</td><td>3. Juni</td><td>2014</td></tr>
+<tr><td>El Salvador</td><td>3. März</td><td>2016</td><td>3. März</td><td>2017</td></tr>
+<tr><td>Estland</td><td>27. März</td><td>2013</td><td>27. März</td><td>2014</td></tr>
+<tr><td>Finnland</td><td>30. Dezember</td><td>2015</td><td>30. Dezember</td><td>2016</td></tr>
+<tr><td>Georgien</td><td>3. November</td><td>2015</td><td>3. November</td><td>2016</td></tr>
+<tr><td>Guyana</td><td>28. September</td><td>2018</td><td>28. September</td><td>2019</td></tr>
+<tr><td>Italien</td><td>26. Januar</td><td>2022</td><td>26. Januar</td><td>2023</td></tr>
+<tr><td>Kroatien</td><td>20. Dezember</td><td>2013</td><td>20. Dezember</td><td>2014</td></tr>
+<tr><td>Lettland</td><td>25. September</td><td>2014</td><td>25. September</td><td>2015</td></tr>
+<tr><td>Liechtenstein</td><td>8. Mai</td><td>2012</td><td>8. Mai</td><td>2013</td></tr>
+<tr><td>Litauen</td><td>7. Dezember</td><td>2015</td><td>7. Dezember</td><td>2016</td></tr>
+<tr><td>Luxemburg</td><td>15. Januar</td><td>2013</td><td>15. Januar</td><td>2014</td></tr>
+<tr><td>Malta</td><td>30. Januar</td><td>2015</td><td>30. Januar</td><td>2016</td></tr>
+<tr><td>Mauritius</td><td>5. September</td><td>2013</td><td>5. September</td><td>2014</td></tr>
+<tr><td>Mexiko</td><td>20. Januar</td><td>2023</td><td>20. Januar</td><td>2024</td></tr>
+<tr><td>Mongolei</td><td>18. Januar</td><td>2021</td><td>18. Januar</td><td>2022</td></tr>
+<tr><td>Neuseeland\*</td><td>14. Oktober</td><td>2020</td><td>14. Oktober</td><td>2021</td></tr>
+<tr><td>Niederlande</td><td>23. September</td><td>2016</td><td>23. September</td><td>2017</td></tr>
+<tr><td>Aruba</td><td>21. Dezember</td><td>2017</td><td>21. Dezember</td><td>2017</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>23. September</td><td>2016</td><td>23. September</td><td>2017</td></tr>
+<tr><td>Nordmazedonien</td><td>1. März</td><td>2016</td><td>1. März</td><td>2017</td></tr>
+<tr><td>Norwegen</td><td>10. Juni</td><td>2013</td><td>10. Juni</td><td>2014</td></tr>
+<tr><td>Österreich</td><td>17. Juli</td><td>2014</td><td>17. Juli</td><td>2015</td></tr>
+<tr><td>Palästina</td><td>29. Dezember</td><td>2017</td><td>29. Dezember</td><td>2018</td></tr>
+<tr><td>Panama</td><td>6. Dezember</td><td>2017</td><td>4. Dezember</td><td>2018</td></tr>
+<tr><td>Paraguay</td><td>5. April</td><td>2019</td><td>5. April</td><td>2020</td></tr>
+<tr><td>Peru</td><td>14. Oktober</td><td>2022</td><td>14. Oktober</td><td>2023</td></tr>
+<tr><td>Polen</td><td>25. September</td><td>2014</td><td>25. September</td><td>2015</td></tr>
+<tr><td>Portugal</td><td>11. April</td><td>2017</td><td>11. April</td><td>2018</td></tr>
+<tr><td>Rumänien</td><td>14. Februar</td><td>2022</td><td>14. Februar</td><td>2023</td></tr>
+<tr><td>Samoa</td><td>25. September</td><td>2012</td><td>25. September</td><td>2013</td></tr>
+<tr><td>San Marino</td><td>26. September</td><td>2011</td><td>26. September</td><td>2012</td></tr>
+<tr><td>Schweden</td><td>26. Januar</td><td>2022</td><td>26. Januar</td><td>2023</td></tr>
+<tr><td>Schweiz</td><td>10. September</td><td>2015</td><td>10. September</td><td>2016</td></tr>
+<tr><td>Slowakei</td><td>28. April</td><td>2014</td><td>28. April</td><td>2015</td></tr>
+<tr><td>Slowenien</td><td>25. September</td><td>2013</td><td>25. September</td><td>2014</td></tr>
+<tr><td>Spanien</td><td>25. September</td><td>2014</td><td>25. September</td><td>2015</td></tr>
+<tr><td>Trinidad und Tobago</td><td>13. November</td><td>2012</td><td>13. November</td><td>2013</td></tr>
+<tr><td>Tschechische Republik\*</td><td>12. März</td><td>2015</td><td>12. März</td><td>2016</td></tr>
+<tr><td>Ukraine</td><td>25. Oktober</td><td>2024</td><td>25. Oktober</td><td>2025</td></tr>
+<tr><td>Uruguay</td><td>26. September</td><td>2013</td><td>26. September</td><td>2014</td></tr>
+<tr><td>Zypern</td><td>25. September</td><td>2013</td><td>25. September</td><td>2014</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Die Änderungen gelten nicht für die Färöer und Grönland.</td></tr>
+</table>
+
+[^t-3]: [AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [2016 1483](https://fedlex.data.admin.ch/eli/oc/2016/284); [2017 2895](https://fedlex.data.admin.ch/eli/oc/2017/300); [2018 3007](https://fedlex.data.admin.ch/eli/oc/2018/465); [2020 3331](https://fedlex.data.admin.ch/eli/oc/2020/564); [2022 106](https://fedlex.data.admin.ch/eli/oc/2022/106); [2025 44](https://fedlex.data.admin.ch/eli/oc/2025/44). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.312.12"
 title: Emendamenti allo Statuto di Roma del 10 giugno 2010 della Corte penale internazionale relativi ai crimini di guerra
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/645"
 language: it
-version: 2022-02-16
+version: 2025-01-16
 adopted: 2010-06-10
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20220216/it/xml/fedlex-data-admin-ch-eli-cc-2015-645-20220216-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20220216/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20250116/it/xml/fedlex-data-admin-ch-eli-cc-2015-645-20250116-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20250116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottati a Kampala il 10 giugno 2010[^t-1] Approvati dall’Assemblea federale il 20 marzo 2015[^t-2] Strumenti di ratifica depositati dalla Svizzera il 10 settembre 2015 Entrati in vigore per la Svizzera il 10 settembre 2016
 
-(Stato 16 febbraio 2022)
+(Stato 16 gennaio 2025)
 
 [^t-1]: Risoluzione RC/Res.5; cfr. notifica del depositario C.N.533.2010.TREATIES-6 in data 29 novembre 2010, disponibile al seguente indirizzo: http://treaties.un.org.
 [^t-2]: Art. 1 cpv. 1 lett. b del DF del 20 mar. 2015 ([RU 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).
@@ -49,6 +49,74 @@ considerando che il crimine menzionato all’articolo 8 paragrafo 2 lettera e) c
 
 \2. *decide* di adottare gli elementi pertinenti contenuti nell’allegato II alla presente risoluzione e che devono essere aggiunti agli Elementi dei crimini.[^ingress-3]
 
-[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^ingress-2]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+[^ingress-2]: [RS 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 [^ingress-3]: L’all. II non è pubblicato nella RU. Il testo è disponibile nelle sue lingue originali su www.icc-cpi.int &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.5.
+
+Allegato I
+
+## Emendamento all’articolo 8
+
+*Le seguenti cifre sono aggiunte al paragrafo 2 lettera e) dell’articolo 8:*
+
+- «xiii) utilizzare veleno o armi velenose;
+- xiv) utilizzare gas asfissianti, gas tossici o gas simili nonché tutti i liquidi, le materie o i procedimenti analoghi;
+- xv) utilizzare proiettili che si espandono o si appiattiscono facilmente all’interno del corpo umano, quali i proiettili con l’involucro duro che non ricopre interamente la parte centrale o quelli perforati ad in taglio.»
+
+Campo d’applicazione il 16 gennaio 2025[^t-3]
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Andorra</td><td>26 settembre</td><td>2013</td><td>26 settembre</td><td>2014</td></tr>
+<tr><td>Argentina</td><td>28 aprile</td><td>2017</td><td>28 aprile</td><td>2018</td></tr>
+<tr><td>Austria</td><td>17 luglio</td><td>2014</td><td>17 luglio</td><td>2015</td></tr>
+<tr><td>Belgio</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2014</td></tr>
+<tr><td>Botswana</td><td>4 giugno</td><td>2013</td><td>4 giugno</td><td>2014</td></tr>
+<tr><td>Ceca, Repubblica\*</td><td>12 marzo</td><td>2015</td><td>12 marzo</td><td>2016</td></tr>
+<tr><td>Cile</td><td>23 settembre</td><td>2016</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Cipro</td><td>25 settembre</td><td>2013</td><td>25 settembre</td><td>2014</td></tr>
+<tr><td>Costa Rica</td><td>5 febbraio</td><td>2015</td><td>5 febbraio</td><td>2016</td></tr>
+<tr><td>Croazia</td><td>20 dicembre</td><td>2013</td><td>20 dicembre</td><td>2014</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>1° gennaio</td><td>2025</td><td>1° gennaio</td><td>2026</td></tr>
+<tr><td>El Salvador</td><td>3 marzo</td><td>2016</td><td>3 marzo</td><td>2017</td></tr>
+<tr><td>Estonia</td><td>27 marzo</td><td>2013</td><td>27 marzo</td><td>2014</td></tr>
+<tr><td>Finlandia</td><td>30 dicembre</td><td>2015</td><td>30 dicembre</td><td>2016</td></tr>
+<tr><td>Georgia</td><td>3 novembre</td><td>2015</td><td>3 novembre</td><td>2016</td></tr>
+<tr><td>Germania</td><td>3 giugno</td><td>2013</td><td>3 giugno</td><td>2014</td></tr>
+<tr><td>Guyana</td><td>28 settembre</td><td>2018</td><td>28 settembre</td><td>2019</td></tr>
+<tr><td>Italia</td><td>26 gennaio</td><td>2022</td><td>26 gennaio</td><td>2023</td></tr>
+<tr><td>Lettonia</td><td>25 settembre</td><td>2014</td><td>25 settembre</td><td>2015</td></tr>
+<tr><td>Liechtenstein</td><td>8 maggio</td><td>2012</td><td>8 maggio</td><td>2013</td></tr>
+<tr><td>Lituania</td><td>7 dicembre</td><td>2015</td><td>7 dicembre</td><td>2016</td></tr>
+<tr><td>Lussemburgo</td><td>15 gennaio</td><td>2013</td><td>15 gennaio</td><td>2014</td></tr>
+<tr><td>Macedonia del Nord</td><td>1° marzo</td><td>2016</td><td>1° marzo</td><td>2017</td></tr>
+<tr><td>Malta</td><td>30 gennaio</td><td>2015</td><td>30 gennaio</td><td>2016</td></tr>
+<tr><td>Mauritius</td><td>5 settembre</td><td>2013</td><td>5 settembre</td><td>2014</td></tr>
+<tr><td>Messico</td><td>20 gennaio</td><td>2023</td><td>20 gennaio</td><td>2024</td></tr>
+<tr><td>Mongolia</td><td>18 gennaio</td><td>2021</td><td>18 gennaio</td><td>2022</td></tr>
+<tr><td>Norvegia</td><td>10 giugno</td><td>2013</td><td>10 giugno</td><td>2014</td></tr>
+<tr><td>Nuova Zelanda\*</td><td>14 ottobre</td><td>2020</td><td>14 ottobre</td><td>2021</td></tr>
+<tr><td>Paesi Bassi</td><td>23 settembre</td><td>2016</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Aruba</td><td>21 dicembre</td><td>2017</td><td>21 dicembre</td><td>2017</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>23 settembre</td><td>2016</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Palestina</td><td>29 dicembre</td><td>2017</td><td>29 dicembre</td><td>2018</td></tr>
+<tr><td>Panama</td><td>6 dicembre</td><td>2017</td><td>4 dicembre</td><td>2018</td></tr>
+<tr><td>Paraguay</td><td>5 aprile</td><td>2019</td><td>5 aprile</td><td>2020</td></tr>
+<tr><td>Perù</td><td>14 ottobre</td><td>2022</td><td>14 ottobre</td><td>2023</td></tr>
+<tr><td>Polonia</td><td>25 settembre</td><td>2014</td><td>25 settembre</td><td>2015</td></tr>
+<tr><td>Portogallo</td><td>11 aprile</td><td>2017</td><td>11 aprile</td><td>2018</td></tr>
+<tr><td>Romania</td><td>14 febbraio</td><td>2022</td><td>14 febbraio</td><td>2023</td></tr>
+<tr><td>Samoa</td><td>25 settembre</td><td>2012</td><td>25 settembre</td><td>2013</td></tr>
+<tr><td>San Marino</td><td>26 settembre</td><td>2011</td><td>26 settembre</td><td>2012</td></tr>
+<tr><td>Slovacchia</td><td>28 aprile</td><td>2014</td><td>28 aprile</td><td>2015</td></tr>
+<tr><td>Slovenia</td><td>25 settembre</td><td>2013</td><td>25 settembre</td><td>2014</td></tr>
+<tr><td>Spagna</td><td>25 settembre</td><td>2014</td><td>25 settembre</td><td>2015</td></tr>
+<tr><td>Svezia</td><td>26 gennaio</td><td>2022</td><td>26 gennaio</td><td>2023</td></tr>
+<tr><td>Svizzera</td><td>10 settembre</td><td>2015</td><td>10 settembre</td><td>2016</td></tr>
+<tr><td>Trinidad e Tobago</td><td>13 novembre</td><td>2012</td><td>13 novembre</td><td>2013</td></tr>
+<tr><td>Ucraina</td><td>25 ottobre</td><td>2024</td><td>25 ottobre</td><td>2025</td></tr>
+<tr><td>Uruguay</td><td>26 settembre</td><td>2013</td><td>26 settembre</td><td>2014</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite : https://treaties.un.org oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Gli Emendamenti non si applicano alle Isole FærØer e alla Groenlandia.</td></tr>
+</table>
+
+[^t-3]: [RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [2016 1483](https://fedlex.data.admin.ch/eli/oc/2016/284); [2017 2895](https://fedlex.data.admin.ch/eli/oc/2017/300); [2018 3007](https://fedlex.data.admin.ch/eli/oc/2018/465); [2020 3331](https://fedlex.data.admin.ch/eli/oc/2020/564); [2022 106](https://fedlex.data.admin.ch/eli/oc/2022/106); [2025 44](https://fedlex.data.admin.ch/eli/oc/2025/44). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
