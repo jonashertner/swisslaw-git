@@ -3,13 +3,13 @@ canton: BS
 number: "154.180"
 title: Organisationsreglement des Strafgerichts
 language: de
-version: 2020-08-31
-valid_until: 2025-01-15
-version_adopted: 2020-06-26
+version: 2025-01-16
+valid_until: 2026-07-05
+version_adopted: 2024-11-08
 adopted: 2016-12-16
 in_force: 2017-06-05
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.180"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4999/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4999/pdf_file"
 
 Strafgericht: Organisationsreglement | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 
-Vom 16. Dezember 2016 (Stand 31. August 2020)
+Vom 16. Dezember 2016 (Stand 16. Januar 2025)
 
 Das Gesamtgericht des Strafgerichts Basel-Stadt,
 
@@ -145,7 +145,7 @@ beschliesst:
 
 <sup>3</sup> Die Fallzuteilung in den Abteilungen Strafgericht A - E wird jeweils vom Präsidium der Abteilung Strafgericht A vorgenommen. Die Fallzuteilung in den Abteilungen Einsprachen H und J wird vom Präsidium der Abteilung Einsprachen H vorgenommen. Die Fallzuteilung bei den Abteilungen Zwangsmassnahmengericht F und G wird vom Präsidium der Abteilung Zwangsmassnahmengericht F vorgenommen.
 
-<sup>4</sup> Den Abteilungen des Zwangsmassnahmengerichts können zur Entlastung Fälle der Abteilungen Strafgericht A - E und der Abteilungen Einsprachen H und J zugewiesen werden.
+<sup>4</sup> Den Abteilungen des Zwangsmassnahmengerichts können Fälle der Abteilungen Strafgericht A - E und der Abteilungen Einsprachen H und I zugewiesen werden. Den Abteilungen Einsprachen H und I können Fälle der Abteilungen A - E zugewiesen werden.
 
 #### § 12
 
