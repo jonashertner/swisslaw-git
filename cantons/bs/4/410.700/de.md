@@ -4,13 +4,13 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2024-08-12
-valid_until: 2025-01-15
-version_adopted: 2024-01-09
+version: 2025-01-16
+valid_until: 2025-08-10
+version_adopted: 2025-01-07
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6483/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 12. August 2024)
+Vom 11. September 2012 (Stand 16. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -635,7 +635,7 @@ beschliesst:
 
 **Aufnahme in eine Fachrichtung an der FMS nach der 1. Klasse**
 
-<sup>1</sup> Für die Aufnahme in eine Fachrichtung an der FMS nach der 1. Klasse gelten zusätzlich zur Beförderung nach § 46a Abs. 1 im Zwischenzeugnis am Ende des ersten Semesters der 1. Klasse die Zulassungskriterien gemäss Anhang I § 2.
+<sup>1</sup> Für die Aufnahme in eine Fachrichtung an der FMS nach der 1. Klasse müssen im Zwischenzeugnis am Ende des ersten Semesters der 1. Klasse die Zulassungskriterien gemäss Anhang I § 2 erfüllt werden.
 
 #### § 48
 
