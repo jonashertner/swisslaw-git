@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 13 décembre 2024 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/774"
 language: fr
-version: 2024-12-14
+version: 2025-01-16
 adopted: 2024-12-13
 in_force: 2024-12-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/774/20241214/fr/xml/fedlex-data-admin-ch-eli-cc-2024-774-20241214-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/774/20241214/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/774/20250116/fr/xml/fedlex-data-admin-ch-eli-cc-2024-774-20250116-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/774/20250116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 13 décembre 2024 (État le 14 décembre 2024)
+du 13 décembre 2024 (État le 16 janvier 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -187,14 +187,36 @@ Annexe 1
 
 La présente annexe ne comporte encore aucune entrée.
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 6)
 
 ## Régions d’observation
 
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 14 janv. 2025, en vigueur depuis le 16 janv. 2025 ([RO 2025 32](https://fedlex.data.admin.ch/eli/oc/2025/32)).
+
 Sont réputées régions d’observation, sur une largeur de 3 km, les rives bordant les eaux mentionnées ci-dessous:
 
-- – Lac de Constance (parties supérieure et inférieure);
-- – de l’embouchure du vieux Rhin au lac de Constance en amont du fleuve jusqu’à la commune de St. Margrethen comprise;
-- – le Rhin en aval du lac de Constance à l’affluent du Mühlebach se jetant dans le Rhin dans la commune de Dachsen, y compris dans l’enclave allemande de Büsingen dans le canton de Schaffhouse.
+- – Aar, effluent du lac de Bienne jusqu’à Klingnau, y compris la réserve naturelle Häftli;
+- – Allondon y compris le Rhône, à partir de l’effluent du lac Léman;
+- – lac de Baldegg;
+- – lac de Bienne, y compris le canal de la Thièle;
+- – lac de Constance, partie supérieure;
+- – lac de Constance, partie inférieure;
+- – lac Léman;
+- – lac de Greifen;
+- – lac d’Hallwil;
+- – lac de retenue de Klingnau;
+- – Limmat;
+- – lac de Morat;
+- – lac de Neuchâtel, y compris le canal de la Broye;
+- – lac de Pfäffikon;
+- – Reuss, à partir de l’effluent du lac des Quatre-Cantons;
+- – Rhin, à partir de l’effluent du lac de Constance jusqu’à Bâle, y compris l’enclave allemande de Büsingen dans le canton de Schaffhouse;
+- – lac de Sempach;
+- – lac de retenue de Niederried;
+- – lac des Quatre-Cantons;
+- – lac de Wohlen;
+- – lac de Zoug;
+- – lac de Zurich;
+- – Vieux Rhin, de la commune de Sankt Margrethen à l’embouchure dans le lac de Constance.

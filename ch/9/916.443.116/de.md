@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 13. Dezember 2024 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/774"
 language: de
-version: 2024-12-14
+version: 2025-01-16
 adopted: 2024-12-13
 in_force: 2024-12-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/774/20241214/de/xml/fedlex-data-admin-ch-eli-cc-2024-774-20241214-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/774/20241214/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/774/20250116/de/xml/fedlex-data-admin-ch-eli-cc-2024-774-20250116-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/774/20250116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 13. Dezember 2024 (Stand am 14. Dezember 2024)
+vom 13. Dezember 2024 (Stand am 16. Januar 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -187,14 +187,36 @@ Anhang 1
 
 Dieser Anhang enthält noch keine Einträge.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 6)
 
 ## Beobachtungsgebiete
 
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 14. Jan. 2025, in Kraft seit 16. Jan. 2025 ([AS 2025 32](https://fedlex.data.admin.ch/eli/oc/2025/32)).
+
 Als Beobachtungsgebiete gelten in einem drei Kilometer breiten Streifen die Ufer der folgenden Gewässer:
 
-- – Bodensee (Ober- und Untersee);
-- – von der Mündung des Alten Rheins in den Bodensee flussaufwärts bis und mit der Gemeinde St. Margrethen;
-- – Rhein-abwärts ab Bodensee bis zum Einfluss des Mühlebachs in den Rhein in der Gemeinde Dachsen, einschliesslich der deutschen Enklave Büsingen im Kanton Schaffhausen.
+- – Aare, ab Ausfluss aus dem Bielersee bis Klingnau, einschliesslich des Naturschutzgebietes Häftli;
+- – Allondon, einschliesslich Rhone, ab Ausfluss aus dem Genfersee;
+- – Alter Rhein, von der Gemeinde St. Margrethen bis zur Mündung in den Bodensee;
+- – Baldeggersee;
+- – Bielersee, einschliesslich Zihlkanal;
+- – Bodensee-Obersee;
+- – Bodensee-Untersee;
+- – Genfersee;
+- – Greifensee;
+- – Hallwilersee;
+- – Klingnauer Stausee;
+- – Limmat;
+- – Murtensee;
+- – Neuenburgersee, einschliesslich Broye-Kanal;
+- – Pfäffikersee;
+- – Reuss, ab Ausfluss aus dem Vierwaldstättersee;
+- – Rhein, ab Ausfluss aus dem Bodensee bis Basel, einschliesslich der deutschen Enklave Büsingen im Kanton Schaffhausen;
+- – Sempachersee;
+- – Stausee Niederried;
+- – Vierwaldstättersee;
+- – Wohlensee;
+- – Zugersee;
+- – Zürichsee.
