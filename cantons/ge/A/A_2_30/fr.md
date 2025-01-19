@@ -1,0 +1,37 @@
+---
+canton: GE
+number: A 2 30
+title: Loi sur la computation des délais échéant un samedi (LDélais)
+short: LDélais
+language: fr
+version: 2025-01-20
+adopted: 1963-06-22
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_a2_30.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi sur la computation des délais échéant un samedi (LDélais)
+**Dernières modifications au 20 janvier 2025**
+
+du 22 juin 1963
+
+(Entrée en vigueur : 2 août 1963)
+
+Le GRAND CONSEIL de la République et canton de Genève
+
+décrète ce qui suit :
+
+#### Article unique
+
+<sup>1</sup> Lorsque le dernier jour d’un délai légal de droit cantonal ou d’un délai fixé par une autorité conformément au droit cantonal tombe un samedi, le délai expire le premier jour utile qui suit.
+
+<sup>2</sup> Lorsqu’un acte notifié par envoi postal normal est reçu un samedi, un dimanche ou un jour férié prévu par le droit fédéral ou le droit cantonal, la communication de l’acte est réputée avoir lieu le premier jour ouvrable qui suit.<sup>(1)</sup>
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| A 2 30 L sur la computation des délais échéant un samedi | 22.06.1963 | 02.08.1963 |
+| Modification : |  |  |
+| 1. *n.* : article unique/2 | 01.11.2024 | 20.01.2025 |
