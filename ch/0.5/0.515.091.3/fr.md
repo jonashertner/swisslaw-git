@@ -3,11 +3,11 @@ sr: "0.515.091.3"
 title: "Amendement du 21 décembre 2001 de l'article 1 de la Convention du 10 octobre 1980 sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/565"
 language: fr
-version: 2020-04-15
+version: 2025-01-20
 adopted: 2001-12-21
 in_force: 2004-07-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/565/20200415/fr/xml/fedlex-data-admin-ch-eli-cc-2004-565-20200415-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/565/20200415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/565/20250120/fr/xml/fedlex-data-admin-ch-eli-cc-2004-565-20250120-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/565/20250120/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2004** 3953; FF **2003** 3153
 
 Texte original
 
-Conclu à Genève le 21 décembre 2001
+Conclu à Genève le 21 décembre 2001 Approuvé par l’Assemblée fédérale le 15 décembre 2003[^t-1] Instrument de ratification déposé par la Suisse le 19 janvier 2004 Entré en vigueur pour la Suisse le 19 juillet 2004
 
-Approuvé par l’Assemblée fédérale le 15 décembre 2003[^t-1]
-
-Instrument de ratification déposé par la Suisse le 19 janvier 2004
-
-Entré en vigueur pour la Suisse le 19 juillet 2004
-
-(Etat le 15 avril 2020)
+(État le 20 janvier 2025)
 
 [^t-1]: [RO 2004 3951](https://fedlex.data.admin.ch/eli/oc/2004/564)
 

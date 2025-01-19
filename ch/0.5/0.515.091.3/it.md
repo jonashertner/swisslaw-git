@@ -3,11 +3,11 @@ sr: "0.515.091.3"
 title: "Emendamento del 21 dicembre 2001 all'articolo 1 della Convenzione del 10 ottobre 1980 sul divieto o la limitazione dell'impiego di talune armi classiche che possono essere ritenute capaci di causare effetti traumatici eccessivi o di colpire in modo indiscriminato"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/565"
 language: it
-version: 2020-04-15
+version: 2025-01-20
 adopted: 2001-12-21
 in_force: 2004-07-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/565/20200415/it/xml/fedlex-data-admin-ch-eli-cc-2004-565-20200415-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/565/20200415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/565/20250120/it/xml/fedlex-data-admin-ch-eli-cc-2004-565-20250120-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/565/20250120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2004** 3953; FF **2003** 3045
 
 Traduzione
 
-Concluso a Ginevra il 21 dicembre 2001
+Concluso a Ginevra il 21 dicembre 2001 Approvato dall’Assemblea federale il 15 dicembre 2003[^t-1] Ratificato con strumenti depositati dalla Svizzera il 19 gennaio 2004 Entrato in vigore per la Svizzera il 19 luglio 2004
 
-Approvato dall’Assemblea federale il 15 dicembre 2003[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 19 gennaio 2004
-
-Entrato in vigore per la Svizzera il 19 luglio 2004
-
-(Stato 15 aprile 2020)
+(Stato 20 gennaio 2025)
 
 [^t-1]: [RU 2004 3951](https://fedlex.data.admin.ch/eli/oc/2004/564)
 

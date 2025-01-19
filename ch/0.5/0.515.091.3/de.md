@@ -3,11 +3,11 @@ sr: "0.515.091.3"
 title: "Änderung vom 21. Dezember 2001 von Artikel 1 des Übereinkommens vom 10. Oktober 1980 über das Verbot oder die Beschränkung des Einsatzes bestimmter konventioneller Waffen, die übermässige Leiden verursachen oder unterschiedslos wirken können"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/565"
 language: de
-version: 2020-04-15
+version: 2025-01-20
 adopted: 2001-12-21
 in_force: 2004-07-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/565/20200415/de/xml/fedlex-data-admin-ch-eli-cc-2004-565-20200415-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/565/20200415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/565/20250120/de/xml/fedlex-data-admin-ch-eli-cc-2004-565-20250120-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/565/20250120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 19. Januar 2004
 
 In Kraft getreten für die Schweiz am 19. Juli 2004
 
-(Stand am 15. April 2020)
+(Stand am 20. Januar 2025)
 
 [^t-1]: [AS 2004 3951](https://fedlex.data.admin.ch/eli/oc/2004/564)
 
