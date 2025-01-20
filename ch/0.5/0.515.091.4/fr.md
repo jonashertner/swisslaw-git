@@ -3,11 +3,11 @@ sr: "0.515.091.4"
 title: "Protocole du 28 novembre 2003 relatif aux restes explosifs de guerre à la Convention du 10 octobre 1980 sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination (Protocole V) (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/581"
 language: fr
-version: 2020-07-09
+version: 2025-01-21
 adopted: 2003-11-28
 in_force: 2006-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/581/20200709/fr/xml/fedlex-data-admin-ch-eli-cc-2006-581-20200709-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20200709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/581/20250121/fr/xml/fedlex-data-admin-ch-eli-cc-2006-581-20250121-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20250121/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2006** 3871; FF **2005** 5251
 
 Texte original
 
-Conclu à Genève le 28 novembre 2003
+Conclu à Genève le 28 novembre 2003 Approuvé par l’Assemblée fédérale le 9 mai 2006[^t-1] Instrument de ratification déposé par la Suisse le 12 mai 2006 Entré en vigueur pour la Suisse le 12 novembre 2006
 
-Approuvé par l’Assemblée fédérale le 9 mai 2006[^t-1]
-
-Instrument de ratification déposé par la Suisse le 12 mai 2006
-
-Entré en vigueur pour la Suisse le 12 novembre 2006
-
-(Etat le 9 juillet 2020)
+(État le 21 janvier 2025)
 
 [^t-1]: [RO 2006 3869](https://fedlex.data.admin.ch/eli/oc/2006/580)
 
@@ -87,7 +81,7 @@ Après la cessation des hostilités actives et dès que faisable, chaque Haute P
 - c) Elle marque et enlève, retire ou détruit ces restes;
 - d) Elle prend des dispositions pour mobiliser les ressources nécessaires à l’exécution de ces opérations.
 
-<sup>4.</sup> Lorsqu’elles mènent les activités visées ci-dessus, les Hautes Parties contractantes et les parties à un conflit armé tiennent compte des normes internationales, y compris les Normes internationales de l’action antimines *(Intern**a**tional Mine Action Standards).*
+<sup>4.</sup> Lorsqu’elles mènent les activités visées ci-dessus, les Hautes Parties contractantes et les parties à un conflit armé tiennent compte des normes internationales, y compris les Normes internationales de l’action antimines *(International Mine Action Standards).*
 
 <sup>5.</sup> Les Hautes Parties contractantes coopèrent, s’il y a lieu, tant entre elles qu’avec d’autres États, des organisations régionales et internationales compétentes et des organisations non gouvernementales, en vue de l’octroi, entre autres, d’une assistance technique, financière, matérielle et en personnel, y compris, si les circonstances s’y prêtent, l’organisation d’opérations conjointes nécessaires pour appliquer les dispositions du présent article.
 
@@ -126,7 +120,7 @@ Toute Haute Partie contractante, de même que toute partie à un conflit armé:
 
 <sup>1.</sup> Chaque Haute Partie contractante a le droit de solliciter et de recevoir une assistance, s’il y a lieu, d’autres Hautes Parties contractantes, d’États qui ne sont pas parties au présent Protocole, ainsi que d’institutions et organisations internationales compétentes pour le règlement des problèmes posés par les restes explosifs de guerre existants.
 
-<sup>2.</sup> Chaque Haute Partie contractante qui est en mesure de le faire fournit, en fonction de ce qui est nécessaire et de ce qui est faisable, une assistance afin de régler les problèmes posés par les restes explosifs de guerre existants. À cet égard, les Hautes Parties contractantes prennent également en considération les objectifs humanitaires du présent Protocole, de même que les normes internationales, notamment les Normes internationales de l’action antimines *(Inte**r**national Mine Action Standards)*.
+<sup>2.</sup> Chaque Haute Partie contractante qui est en mesure de le faire fournit, en fonction de ce qui est nécessaire et de ce qui est faisable, une assistance afin de régler les problèmes posés par les restes explosifs de guerre existants. À cet égard, les Hautes Parties contractantes prennent également en considération les objectifs humanitaires du présent Protocole, de même que les normes internationales, notamment les Normes internationales de l’action antimines *(International Mine Action Standards)*.
 
 #### Art. 8
 
@@ -284,7 +278,7 @@ Les États qui produisent ou acquièrent des munitions explosives devraient, dan
 - *e)* *Production future*
 - Un État devrait examiner les moyens d’améliorer la fiabilité des munitions explosives qu’il entend produire ou dont il entend se doter, afin d’atteindre la plus haute fiabilité possible.
 
-Champ d’application le 9 juillet 2020**[^t-2]**
+Champ d’application le 21 janvier 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -310,8 +304,8 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Canada</td><td>19 mai</td><td>2009</td><td>19 novembre</td><td>2009</td></tr>
 <tr><td>Chili</td><td>18 août</td><td>2009</td><td>18 février</td><td>2010</td></tr>
 <tr><td>Chine</td><td>10 juin</td><td>2010</td><td>10 décembre</td><td>2010</td></tr>
-<tr><td>[tab] Hong Kong</td><td>10 juin</td><td>2010</td><td>10 décembre</td><td>2010</td></tr>
-<tr><td>[tab] Macao</td><td>10 juin</td><td>2010</td><td>10 décembre</td><td>2010</td></tr>
+<tr><td>Hong Kong</td><td>10 juin</td><td>2010</td><td>10 décembre</td><td>2010</td></tr>
+<tr><td>Macao</td><td>10 juin</td><td>2010</td><td>10 décembre</td><td>2010</td></tr>
 <tr><td>Chypre</td><td>11 mars</td><td>2010</td><td>11 septembre</td><td>2010</td></tr>
 <tr><td>Corée (Sud)</td><td>23 janvier</td><td>2008</td><td>23 juillet</td><td>2008</td></tr>
 <tr><td>Costa Rica</td><td>27 avril</td><td>2009</td><td>27 octobre</td><td>2009</td></tr>
@@ -329,8 +323,8 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>France</td><td>31 octobre</td><td>2006</td><td>30 avril</td><td>2007</td></tr>
 <tr><td>Gabon</td><td>22 septembre</td><td>2010</td><td>22 mars</td><td>2011</td></tr>
 <tr><td>Géorgie</td><td>22 décembre</td><td>2008</td><td>22 juin</td><td>2009</td></tr>
-<tr><td>Grenade</td><td>10 décembre</td><td>2014</td><td>10 juin</td><td>2015</td></tr>
 <tr><td>Grèce</td><td>21 octobre</td><td>2014</td><td>21 avril</td><td>2015</td></tr>
+<tr><td>Grenade</td><td>10 décembre</td><td>2014</td><td>10 juin</td><td>2015</td></tr>
 <tr><td>Guatemala</td><td>28 février</td><td>2008</td><td>28 août</td><td>2008</td></tr>
 <tr><td>Guinée-Bissau</td><td>6 août</td><td>2008</td><td>6 février</td><td>2009</td></tr>
 <tr><td>Honduras</td><td>16 août</td><td>2010</td><td>16 février</td><td>2011</td></tr>
@@ -359,7 +353,7 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Nicaragua</td><td>15 septembre</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>8 décembre</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>2 octobre</td><td>2007</td><td>2 avril</td><td>2008</td></tr>
-<tr><td>[tab] Tokelau</td><td>2 octobre</td><td>2007</td><td>2 avril</td><td>2008</td></tr>
+<tr><td>Tokelau</td><td>2 octobre</td><td>2007</td><td>2 avril</td><td>2008</td></tr>
 <tr><td>Pakistan</td><td>3 février</td><td>2009</td><td>3 août</td><td>2009</td></tr>
 <tr><td>Palestine</td><td>29 décembre</td><td>2017</td><td>29 juin</td><td>2018</td></tr>
 <tr><td>Panama</td><td>29 novembre</td><td>2010</td><td>29 mai</td><td>2011</td></tr>
@@ -367,12 +361,14 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Pays-Bas <sup>a</sup></td><td>18 juillet</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>28 avril</td><td>2014</td><td>28 avril</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>29 mai</td><td>2009</td><td>29 novembre</td><td>2009</td></tr>
+<tr><td>Philippines</td><td>10 mai</td><td>2022</td><td>10 novembre</td><td>2022</td></tr>
 <tr><td>Pologne</td><td>26 septembre</td><td>2011</td><td>26 mars</td><td>2012</td></tr>
 <tr><td>Portugal</td><td>22 février</td><td>2008</td><td>22 août</td><td>2008</td></tr>
 <tr><td>Qatar</td><td>16 novembre</td><td>2009</td><td>16 mai</td><td>2010</td></tr>
 <tr><td>République dominicaine</td><td>21 juin</td><td>2010</td><td>21 décembre</td><td>2010</td></tr>
 <tr><td>République tchèque</td><td>6 juin</td><td>2006</td><td>6 décembre</td><td>2006</td></tr>
 <tr><td>Roumanie</td><td>29 janvier</td><td>2008</td><td>29 juillet</td><td>2008</td></tr>
+<tr><td>Royaume-Uni</td><td>13 mai</td><td>2024</td><td>13 novembre</td><td>2024</td></tr>
 <tr><td>Russie</td><td>21 juillet</td><td>2008</td><td>21 janvier</td><td>2009</td></tr>
 <tr><td>Saint-Siège\*</td><td>13 décembre</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>6 décembre</td><td>2010</td><td>6 juin</td><td>2011</td></tr>
@@ -383,12 +379,13 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Suède</td><td>2 juin</td><td>2004</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Suisse</td><td>12 mai</td><td>2006</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Tadjikistan</td><td>18 mai</td><td>2006</td><td>18 novembre</td><td>2006</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>29 juillet</td><td>2024</td><td>29 janvier</td><td>2025</td></tr>
 <tr><td>Tunisie</td><td>7 mars</td><td>2008</td><td>7 septembre</td><td>2008</td></tr>
 <tr><td>Turkménistan</td><td>23 juillet</td><td>2012</td><td>23 janvier</td><td>2013</td></tr>
 <tr><td>Ukraine</td><td>17 mai</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>7 août</td><td>2007</td><td>7 février</td><td>2008</td></tr>
 <tr><td>Zambie</td><td>25 septembre</td><td>2013</td><td>25 mars</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 3871](https://fedlex.data.admin.ch/eli/oc/2006/581), [2007 3681](https://fedlex.data.admin.ch/eli/oc/2007/463), [2008 3757](https://fedlex.data.admin.ch/eli/oc/2008/506), [2009 3199](https://fedlex.data.admin.ch/eli/oc/2009/412), [2010 1563](https://fedlex.data.admin.ch/eli/oc/2010/221), [2011 2981](https://fedlex.data.admin.ch/eli/oc/2011/389), [2012 4217](https://fedlex.data.admin.ch/eli/oc/2012/499), [2013 3527](https://fedlex.data.admin.ch/eli/oc/2013/657), [2016 2295](https://fedlex.data.admin.ch/eli/oc/2016/370), [2019 839](https://fedlex.data.admin.ch/eli/oc/2019/143), [2020 3477](https://fedlex.data.admin.ch/eli/oc/2020/602). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 3871](https://fedlex.data.admin.ch/eli/oc/2006/581); [2007 3681](https://fedlex.data.admin.ch/eli/oc/2007/463); [2008 3757](https://fedlex.data.admin.ch/eli/oc/2008/506); [2009 3199](https://fedlex.data.admin.ch/eli/oc/2009/412); [2010 1563](https://fedlex.data.admin.ch/eli/oc/2010/221); [2011 2981](https://fedlex.data.admin.ch/eli/oc/2011/389); [2012 4217](https://fedlex.data.admin.ch/eli/oc/2012/499); [2013 3527](https://fedlex.data.admin.ch/eli/oc/2013/657); [2016 2295](https://fedlex.data.admin.ch/eli/oc/2016/370); [2019 839](https://fedlex.data.admin.ch/eli/oc/2019/143); [2020 3477](https://fedlex.data.admin.ch/eli/oc/2020/602); [2025 58](https://fedlex.data.admin.ch/eli/oc/2025/58). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

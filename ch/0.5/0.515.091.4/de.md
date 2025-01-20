@@ -3,11 +3,11 @@ sr: "0.515.091.4"
 title: "Protokoll vom 28. November 2003 über explosive Kriegsmunitionsrückstände zu dem Übereinkommen vom 10. Oktober 1980 über das Verbot oder die Beschränkung des Einsatzes bestimmter konventioneller Waffen, die übermässige Leiden verursachen oder unterschiedslos wirken können (Protokoll V) (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/581"
 language: de
-version: 2020-07-09
+version: 2025-01-21
 adopted: 2003-11-28
 in_force: 2006-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/581/20200709/de/xml/fedlex-data-admin-ch-eli-cc-2006-581-20200709-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20200709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/581/20250121/de/xml/fedlex-data-admin-ch-eli-cc-2006-581-20250121-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20250121/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20200709/de"
 
 AS **2006** 3871; BBl **2005** 5579
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Genf am 28. November 2003 Von der Bundesversammlung genehmigt am 9. Mai 2006[^t-2] Ratifikationsurkunde von der Schweiz hinterlegt am 12. Mai 2006 In Kraft getreten für die Schweiz am 12. November 2006
 
-(Stand am 9. Juli 2020)
+(Stand am 21. Januar 2025)
 
 [^t-1]: Die amtliche schweizerische Übersetzung ist mit den Aussenministerien Deutschlands, Österreichs und Liechtensteins abgestimmt. Deutschland und Österreich werden in ihren amtlichen deutschsprachigen Übersetzungen durchgehend die in der nachfolgenden Übersicht wiedergegebenen abweichenden Begriffe verwenden und die daraus folgenden notwendigen grammatischen Anpassungen vornehmen: In den für Deutschland und Österreich amtlichen deutschsprachigen Übersetzungen verwendete Begriffe: In den für die Schweiz und Liechtenstein amtlichen deutschsprachigen Übersetzungen verwendete Begriffe: explosive Kampfmittel explosive Munition explosive Kampfmittelaltlasten bestehende explosive Kriegsmunitionsrückstände explosive Kampfmittelrückstände explosive Kriegsmunitionsrückstände
 [^t-2]: [AS 2006 3869](https://fedlex.data.admin.ch/eli/oc/2006/580)
@@ -82,7 +82,7 @@ Nach Beendigung der aktiven Feindseligkeiten und so früh wie praktisch möglich
 - c) Kennzeichnung und Räumung, Beseitigung oder Zerstörung explosiver Kriegsmunitionsrückstände;
 - d) Ergreifung von Massnahmen zur Mobilisierung von Mitteln für die Durchführung dieser Tätigkeiten.
 
-<sup>4.</sup> Bei der Durchführung der oben genannten Tätigkeiten berücksichtigen die Hohen Vertragsparteien und die an einem bewaffneten Konflikt beteiligten Parteien internationale Normen einschliesslich der Internationalen Normen für Minenaktionen (*Inte**r**national Mine Action Standards*, IMAS).
+<sup>4.</sup> Bei der Durchführung der oben genannten Tätigkeiten berücksichtigen die Hohen Vertragsparteien und die an einem bewaffneten Konflikt beteiligten Parteien internationale Normen einschliesslich der Internationalen Normen für Minenaktionen (*International Mine Action Standards*, IMAS).
 
 <sup>5.</sup> Die Hohen Vertragsparteien arbeiten gegebenenfalls sowohl untereinander als auch mit anderen Staaten, einschlägigen regionalen und internationalen Organisationen sowie nichtstaatlichen Organisationen bei der Bereitstellung von Hilfe unter anderem technischer, finanzieller, materieller und personeller Art zusammen – einschliesslich, wenn die Umstände es zulassen, bei der Ergreifung gemeinsamer Massnahmen, die notwendig sind, um diesen Artikel umzusetzen.
 
@@ -121,7 +121,7 @@ Jede Hohe Vertragspartei und jede an einem bewaffneten Konflikt beteiligte Parte
 
 <sup>1.</sup> Jede Hohe Vertragspartei hat das Recht, von anderen Hohen Vertragsparteien, von Staaten, die nicht Vertragsparteien sind, und von einschlägigen internationalen Organisationen und Einrichtungen gegebenenfalls Hilfe bei der Behandlung der von bestehenden explosiven Kriegsmunitionsrückständen ausgehenden Probleme zu erbitten und zu erhalten.
 
-<sup>2.</sup> Jede Hohe Vertragspartei, die hierzu in der Lage ist, leistet, soweit notwendig und praktisch möglich, Hilfe bei der Behandlung der von bestehenden explosiven Kriegsmunitionsrückständen ausgehenden Probleme. Dabei berücksichtigen die Hohen Vertragsparteien auch die humanitären Ziele dieses Protokolls sowie internationale Normen einschliesslich der Internationalen Normen für Minenaktionen (*International Mine Action Sta**n**dards*, IMAS).
+<sup>2.</sup> Jede Hohe Vertragspartei, die hierzu in der Lage ist, leistet, soweit notwendig und praktisch möglich, Hilfe bei der Behandlung der von bestehenden explosiven Kriegsmunitionsrückständen ausgehenden Probleme. Dabei berücksichtigen die Hohen Vertragsparteien auch die humanitären Ziele dieses Protokolls sowie internationale Normen einschliesslich der Internationalen Normen für Minenaktionen (*International Mine Action Standards*, IMAS).
 
 #### Art. 8
 
@@ -226,7 +226,7 @@ Dieser Technische Anhang enthält Vorschläge zu bewährten Gepflogenheiten zur 
     - (11) die Lage und Art aller in einem Gebiet mit aufgegebener explosiver Munition bekanntermassen vorhandenen Sprengfallen.
 
   - ii) Empfänger: Die Informationen sollten der Partei oder den Parteien freigegeben werden, die die Kontrolle über das betroffene Gebiet ausüben, sowie den Personen oder Einrichtungen, von denen der freigebende Staat sich vergewissert hat, dass sie an der Räumung nicht zur Wirkung gelangter explosiver Munition oder aufgegebener explosiver Munition in dem betroffenen Gebiet sowie an der Aufklärung der Zivilbevölkerung über die Gefahren nicht zur Wirkung gelangter explosiver Munition oder aufgegebener explosiver Munition beteiligt sind oder beteiligt sein werden.
-  - iii) Mechanismus: Ein Staat sollte, soweit praktisch möglich, die international oder lokal eingerichteten Mechanismen für die Freigabe von Informationen nutzen, darunter den Minenaktionsdienst der Vereinten Nationen (*United Nations Mine Action Service*, UNMAS), das System für das Management von Informationen über Minenaktionen (*Inform**a**tion Management System for Mine Action*, IMSMA) und sonstige Expertenagenturen, die der freigebende Staat für geeignet hält.
+  - iii) Mechanismus: Ein Staat sollte, soweit praktisch möglich, die international oder lokal eingerichteten Mechanismen für die Freigabe von Informationen nutzen, darunter den Minenaktionsdienst der Vereinten Nationen (*United Nations Mine Action Service*, UNMAS), das System für das Management von Informationen über Minenaktionen (*Information Management System for Mine Action*, IMSMA) und sonstige Expertenagenturen, die der freigebende Staat für geeignet hält.
   - iv) Zeitrahmen: Die Informationen sollten so früh wie möglich freigegeben werden, wobei Probleme wie etwaige laufende militärische und humanitäre Massnahmen in den betroffenen Gebieten, die Verfügbarkeit und Zuverlässigkeit von Informationen und einschlägige Sicherheitsfragen zu berücksichtigen sind.
 
 ## 2. Warnung, Aufklärung über Gefahren, Kennzeichnung, Absperrung und Überwachung
@@ -279,10 +279,10 @@ Staaten, die explosive Munition herstellen oder beschaffen, sollten sich soweit 
 - *e)* *Künftige Herstellung*
 - Ein Staat sollte Mittel und Wege prüfen, die Verlässlichkeit von explosiver Munition, die er herzustellen oder zu beschaffen beabsichtigt, mit dem Ziel zu verbessern, die grösstmögliche Verlässlichkeit zu erreichen.
 
-Geltungsbereich am 9. Juli 2020**[^t-3]**
+Geltungsbereich am 21. Januar 2025[^t-3]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>9. August</td><td>2017</td><td>9. Februar</td><td>2018</td></tr>
 <tr><td>Albanien</td><td>12. Mai</td><td>2006</td><td>12. November</td><td>2006</td></tr>
 <tr><td>Argentinien\*</td><td>7. Oktober</td><td>2011</td><td>7. April</td><td>2012</td></tr>
@@ -358,6 +358,7 @@ Geltungsbereich am 9. Juli 2020**[^t-3]**
 <tr><td>Panama</td><td>29. November</td><td>2010</td><td>29. Mai</td><td>2011</td></tr>
 <tr><td>Paraguay</td><td>3. Dezember</td><td>2008</td><td>3. Juni</td><td>2009</td></tr>
 <tr><td>Peru</td><td>29. Mai</td><td>2009</td><td>29. November</td><td>2009</td></tr>
+<tr><td>Philippinen</td><td>10. Mai</td><td>2022</td><td>10. November</td><td>2022</td></tr>
 <tr><td>Polen</td><td>26. September</td><td>2011</td><td>26. März</td><td>2012</td></tr>
 <tr><td>Portugal</td><td>22. Februar</td><td>2008</td><td>22. August</td><td>2008</td></tr>
 <tr><td>Rumänien</td><td>29. Januar</td><td>2008</td><td>29. Juli</td><td>2008</td></tr>
@@ -374,6 +375,7 @@ Geltungsbereich am 9. Juli 2020**[^t-3]**
 <tr><td>St. Vincent und die Grenadinen</td><td>6. Dezember</td><td>2010</td><td>6. Juni</td><td>2011</td></tr>
 <tr><td>Südafrika</td><td>24. Januar</td><td>2012</td><td>24. Juli</td><td>2012</td></tr>
 <tr><td>Tadschikistan</td><td>18. Mai</td><td>2006</td><td>18. November</td><td>2006</td></tr>
+<tr><td>Trinidad und Tobago</td><td>29. Juli</td><td>2024</td><td>29. Januar</td><td>2025</td></tr>
 <tr><td>Tschechische Republik</td><td>6. Juni</td><td>2006</td><td>6. Dezember</td><td>2006</td></tr>
 <tr><td>Tunesien</td><td>7. März</td><td>2008</td><td>7. September</td><td>2008</td></tr>
 <tr><td>Turkmenistan</td><td>23. Juli</td><td>2012</td><td>23. Januar</td><td>2013</td></tr>
@@ -381,10 +383,11 @@ Geltungsbereich am 9. Juli 2020**[^t-3]**
 <tr><td>Ungarn</td><td>13. November</td><td>2006</td><td>13. Mai</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>7. August</td><td>2007</td><td>7. Februar</td><td>2008</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>26. Februar</td><td>2009</td><td>26. August</td><td>2009</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>13. Mai</td><td>2024</td><td>13. November</td><td>2024</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>21. Januar</td><td>2009</td><td>21. Juli</td><td>2009</td></tr>
 <tr><td>Zypern</td><td>11. März</td><td>2010</td><td>11. September</td><td>2010</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2006 3871](https://fedlex.data.admin.ch/eli/oc/2006/581), [2007 3681](https://fedlex.data.admin.ch/eli/oc/2007/463), [2008 3757](https://fedlex.data.admin.ch/eli/oc/2008/506), [2009 3199](https://fedlex.data.admin.ch/eli/oc/2009/412), [2010 1563](https://fedlex.data.admin.ch/eli/oc/2010/221), [2011 2981](https://fedlex.data.admin.ch/eli/oc/2011/389), [2012 4217](https://fedlex.data.admin.ch/eli/oc/2012/499), [2013 3527](https://fedlex.data.admin.ch/eli/oc/2013/657), [2016 2295](https://fedlex.data.admin.ch/eli/oc/2016/370), [2019 839](https://fedlex.data.admin.ch/eli/oc/2019/143), [2020 3477](https://fedlex.data.admin.ch/eli/oc/2020/602). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2006 3871](https://fedlex.data.admin.ch/eli/oc/2006/581); [2007 3681](https://fedlex.data.admin.ch/eli/oc/2007/463); [2008 3757](https://fedlex.data.admin.ch/eli/oc/2008/506); [2009 3199](https://fedlex.data.admin.ch/eli/oc/2009/412); [2010 1563](https://fedlex.data.admin.ch/eli/oc/2010/221); [2011 2981](https://fedlex.data.admin.ch/eli/oc/2011/389); [2012 4217](https://fedlex.data.admin.ch/eli/oc/2012/499); [2013 3527](https://fedlex.data.admin.ch/eli/oc/2013/657); [2016 2295](https://fedlex.data.admin.ch/eli/oc/2016/370); [2019 839](https://fedlex.data.admin.ch/eli/oc/2019/143); [2020 3477](https://fedlex.data.admin.ch/eli/oc/2020/602); [2025 58](https://fedlex.data.admin.ch/eli/oc/2025/58). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

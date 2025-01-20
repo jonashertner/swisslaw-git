@@ -3,11 +3,11 @@ sr: "0.515.091.4"
 title: "Protocollo del 28 novembre 2003 relativo ai residuati bellici esplosivi allegato alla Convenzione del 10 ottobre 1980 sul divieto o la limitazione dell'impiego di talune armi classiche che possono essere ritenute capaci di causare effetti traumatici eccessivi o di colpire in modo indiscriminato (Protocollo V) (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/581"
 language: it
-version: 2020-07-09
+version: 2025-01-21
 adopted: 2003-11-28
 in_force: 2006-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/581/20200709/it/xml/fedlex-data-admin-ch-eli-cc-2006-581-20200709-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20200709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/581/20250121/it/xml/fedlex-data-admin-ch-eli-cc-2006-581-20250121-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/581/20250121/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2006** 3871; FF **2005** 4977
 
 Traduzione
 
-Concluso a Ginevra il 28 novembre 2003
+Concluso a Ginevra il 28 novembre 2003 Approvato dall’Assemblea federale il 9 maggio 2006[^t-1] Ratificato con strumenti depositatidalla Svizzera il 12 maggio 2006 Entrato in vigore per la Svizzera il 12 novembre 2006
 
-Approvato dall’Assemblea federale il 9 maggio 2006[^t-1]
-
-Ratificato con strumenti depositatidalla Svizzera il 12 maggio 2006
-
-Entrato in vigore per la Svizzera il 12 novembre 2006
-
-(Stato 9 luglio 2020)
+(Stato 21 gennaio 2025)
 
 [^t-1]: [RU 2006 3869](https://fedlex.data.admin.ch/eli/oc/2006/580)
 
@@ -87,7 +81,7 @@ Una volta cessate le ostilità attive e non appena possibile, ciascuna Alta Part
 - c) demarca e bonifica, elimina o distrugge i residuati bellici esplosivi;
 - d) adotta provvedimenti per mobilizzare le risorse necessarie all’esecuzione di tali operazioni.
 
-<sup>4.</sup> Nell’eseguire le attività predette, le Alte Parti contraenti, come pure le Parti coinvolte in un conflitto armato, tengono conto delle norme internazionali, segnatamente delle Norme internazionali delle azioni di lotta contro le mine (*Internati**o**nal Mine Action Standards*)*.*
+<sup>4.</sup> Nell’eseguire le attività predette, le Alte Parti contraenti, come pure le Parti coinvolte in un conflitto armato, tengono conto delle norme internazionali, segnatamente delle Norme internazionali delle azioni di lotta contro le mine (*International Mine Action Standards*)*.*
 
 <sup>5.</sup> Se del caso, le Alte Parti contraenti cooperano sia tra di esse sia con altri Stati, organizzazioni regionali e internazionali competenti e organizzazioni non governative in particolare allo scopo di fornire un’assistenza tecnica, finanziaria, materiale e in termini di personale, compresa, se le circostanze lo permettono, l’organizzazione delle operazioni congiunte necessarie per applicare le disposizioni del presente articolo.
 
@@ -240,7 +234,7 @@ Termini o espressioni chiave
 
 Procedure ottimali per quanto riguarda gli avvertimenti e la sensibilizzazione ai rischi
 
-- c) In tutti i programmi concernenti gli avvertimenti e la sensibilizzazione occorrerebbe tenere conto, se possibile, delle norme nazionali e internazionali esistenti, segnatamente delle Norme internazionali delle azioni di lotta contro le mine (*Intern**a**tional Mine Action Standards*).
+- c) In tutti i programmi concernenti gli avvertimenti e la sensibilizzazione occorrerebbe tenere conto, se possibile, delle norme nazionali e internazionali esistenti, segnatamente delle Norme internazionali delle azioni di lotta contro le mine (*International Mine Action Standards*).
 - d) Gli avvertimenti e le attività di sensibilizzazione ai rischi dovrebbero essere rivolti alla popolazione civile interessata, tra cui i civili che vivono all’interno o in prossimità delle zone in cui si trovano residuati bellici esplosivi e quelli che attraversano tali zone.
 - e) Gli avvertimenti dovrebbero essere diffusi non appena possibile, in funzione del contesto e delle informazioni disponibili. Un programma di sensibilizzazione ai rischi dovrebbe sostituire quanto prima il programma relativo agli avvertimenti. L’avvertimento delle collettività interessate e la loro sensibilizzazione ai rischi dovrebbe sempre avvenire nei tempi più brevi possibili.
 - f) Le Parti coinvolte in un conflitto dovrebbero ricorrere a terzi, quali le organizzazioni internazionali e le organizzazioni non governative, qualora non dispongano delle risorse e delle competenze richieste per assicurare una sensibilizzazione efficace ai rischi.
@@ -281,13 +275,13 @@ Gli Stati che producono o acquisiscono munizioni esplosive dovrebbero vigilare, 
 - *e)* *Produzione futura*
 - [tab] Allo scopo di raggiungere la maggiore affidabilità possibile, lo Stato dovrebbe esaminare i mezzi atti a migliorare l’affidabilità delle munizioni esplosive che esso intende produrre o di cui intende dotarsi.
 
-Campo d’applicazione il 9 luglio 2020**[^t-2]**
+Campo d’applicazione il 21 gennaio 2025[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>9 agosto</td><td>2017</td><td>9 febbraio</td><td>2018</td></tr>
 <tr><td>Albania</td><td>12 maggio</td><td>2006</td><td>12 novembre</td><td>2006</td></tr>
-<tr><td>Arabia Saudita</td><td>8 gennaio</td><td>2010 A</td><td>8 luglio</td><td>2010</td></tr>
+<tr><td>Arabia Saudita</td><td>8 gennaio</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>7 ottobre</td><td>2011</td><td>7 aprile</td><td>2012</td></tr>
 <tr><td>Australia</td><td>4 gennaio</td><td>2007</td><td>4 luglio</td><td>2007</td></tr>
 <tr><td>Austria</td><td>1° ottobre</td><td>2007</td><td>1° aprile</td><td>2008</td></tr>
@@ -320,6 +314,7 @@ Campo d’applicazione il 9 luglio 2020**[^t-2]**
 <tr><td>El Salvador</td><td>23 marzo</td><td>2006</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>26 febbraio</td><td>2009</td><td>26 agosto</td><td>2009</td></tr>
 <tr><td>Estonia</td><td>18 dicembre</td><td>2006</td><td>18 giugno</td><td>2007</td></tr>
+<tr><td>Filippine</td><td>10 maggio</td><td>2022</td><td>10 novembre</td><td>2022</td></tr>
 <tr><td>Finlandia</td><td>23 marzo</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Francia</td><td>31 ottobre</td><td>2006</td><td>30 aprile</td><td>2007</td></tr>
 <tr><td>Gabon</td><td>22 settembre</td><td>2010</td><td>22 marzo</td><td>2011</td></tr>
@@ -358,13 +353,14 @@ Campo d’applicazione il 9 luglio 2020**[^t-2]**
 <tr><td>Paesi Bassi <sup>a</sup></td><td>18 luglio</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>28 aprile</td><td>2014</td><td>28 aprile</td><td>2014</td></tr>
 <tr><td>Pakistan</td><td>3 febbraio</td><td>2009</td><td>3 agosto</td><td>2009</td></tr>
-<tr><td>Palestina</td><td>29 dicembre</td><td>2017 A</td><td>29 giugno</td><td>2018</td></tr>
+<tr><td>Palestina</td><td>29 dicembre</td><td>2017</td><td>29 giugno</td><td>2018</td></tr>
 <tr><td>Panama</td><td>29 novembre</td><td>2010</td><td>29 maggio</td><td>2011</td></tr>
 <tr><td>Paraguay</td><td>3 dicembre</td><td>2008</td><td>3 giugno</td><td>2009</td></tr>
 <tr><td>Perù</td><td>29 maggio</td><td>2009</td><td>29 novembre</td><td>2009</td></tr>
 <tr><td>Polonia</td><td>26 settembre</td><td>2011</td><td>26 marzo</td><td>2012</td></tr>
 <tr><td>Portogallo</td><td>22 febbraio</td><td>2008</td><td>22 agosto</td><td>2008</td></tr>
 <tr><td>Qatar</td><td>16 novembre</td><td>2009</td><td>16 maggio</td><td>2010</td></tr>
+<tr><td>Regno Unito</td><td>13 maggio</td><td>2024</td><td>13 novembre</td><td>2024</td></tr>
 <tr><td>Romania</td><td>29 gennaio</td><td>2008</td><td>29 luglio</td><td>2008</td></tr>
 <tr><td>Russia</td><td>21 luglio</td><td>2008</td><td>21 gennaio</td><td>2009</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>6 dicembre</td><td>2010</td><td>6 giugno</td><td>2011</td></tr>
@@ -379,14 +375,15 @@ Campo d’applicazione il 9 luglio 2020**[^t-2]**
 <tr><td>Svezia</td><td>2 giugno</td><td>2004</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Svizzera</td><td>12 maggio</td><td>2006</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Tagikistan</td><td>18 maggio</td><td>2006</td><td>18 novembre</td><td>2006</td></tr>
+<tr><td>Trinidad e Tobago</td><td>29 luglio</td><td>2024</td><td>29 gennaio</td><td>2025</td></tr>
 <tr><td>Tunisia</td><td>7 marzo</td><td>2008</td><td>7 settembre</td><td>2008</td></tr>
 <tr><td>Turkmenistan</td><td>23 luglio</td><td>2012</td><td>23 gennaio</td><td>2013</td></tr>
 <tr><td>Ucraina</td><td>17 maggio</td><td>2005</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Ungheria</td><td>13 novembre</td><td>2006</td><td>13 maggio</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>7 agosto</td><td>2007</td><td>7 febbraio</td><td>2008</td></tr>
 <tr><td>Zambia</td><td>25 settembre</td><td>2013</td><td>25 marzo</td><td>2014</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2006 3871](https://fedlex.data.admin.ch/eli/oc/2006/581), [2007 3681](https://fedlex.data.admin.ch/eli/oc/2007/463), [2008 3757](https://fedlex.data.admin.ch/eli/oc/2008/506), [2009 3199](https://fedlex.data.admin.ch/eli/oc/2009/412), [2010 1563](https://fedlex.data.admin.ch/eli/oc/2010/221), [2011 2981](https://fedlex.data.admin.ch/eli/oc/2011/389), [2012 4217](https://fedlex.data.admin.ch/eli/oc/2012/499), [2013 3527](https://fedlex.data.admin.ch/eli/oc/2013/657), [2016 2295](https://fedlex.data.admin.ch/eli/oc/2016/370), [2019 839](https://fedlex.data.admin.ch/eli/oc/2019/143), [2020 3477](https://fedlex.data.admin.ch/eli/oc/2020/602). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2006 3871](https://fedlex.data.admin.ch/eli/oc/2006/581); [2007 3681](https://fedlex.data.admin.ch/eli/oc/2007/463); [2008 3757](https://fedlex.data.admin.ch/eli/oc/2008/506); [2009 3199](https://fedlex.data.admin.ch/eli/oc/2009/412); [2010 1563](https://fedlex.data.admin.ch/eli/oc/2010/221); [2011 2981](https://fedlex.data.admin.ch/eli/oc/2011/389); [2012 4217](https://fedlex.data.admin.ch/eli/oc/2012/499); [2013 3527](https://fedlex.data.admin.ch/eli/oc/2013/657); [2016 2295](https://fedlex.data.admin.ch/eli/oc/2016/370); [2019 839](https://fedlex.data.admin.ch/eli/oc/2019/143); [2020 3477](https://fedlex.data.admin.ch/eli/oc/2020/602); [2025 58](https://fedlex.data.admin.ch/eli/oc/2025/58). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
