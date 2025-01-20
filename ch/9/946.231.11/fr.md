@@ -3,11 +3,11 @@ sr: "946.231.11"
 title: Ordonnance du 29 novembre 2002 sur le commerce international des diamants bruts (Ordonnance sur les diamants)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/710"
 language: fr
-version: 2022-01-19
+version: 2025-01-21
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20220119/fr/xml/fedlex-data-admin-ch-eli-cc-2002-710-20220119-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20220119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20250121/fr/xml/fedlex-data-admin-ch-eli-cc-2002-710-20250121-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20250121/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20220119/fr"
 
 (Ordonnance sur les diamants)
 
-du 29 novembre 2002 (État le 19 janvier 2022)
+du 29 novembre 2002 (État le 21 janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -154,7 +154,7 @@ Tous les documents importants relatifs au commerce des diamants bruts doivent ê
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^12-1]
+…[^12-1]
 
 [^12-1]: Les mod. peuvent être consultées au [RO 2002 4357](https://fedlex.data.admin.ch/eli/oc/2002/710).
 
@@ -176,7 +176,7 @@ Annexe[^t-1]
 
 ## Liste des participants
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 20 mai 2003 ([RO 2003 1200](https://fedlex.data.admin.ch/eli/oc/2003/209)). Mise à jour par le ch. I des O du DEFR du 28 août 2003 ([RO 2003 3260](https://fedlex.data.admin.ch/eli/oc/2003/448)), du 22 sept. 2003 ([RO 2003 3493](https://fedlex.data.admin.ch/eli/oc/2003/495)), du 20 oct. 2003 ([RO 2003 3771](https://fedlex.data.admin.ch/eli/oc/2003/539)), du 13 nov. 2003 ([RO 2003 4075](https://fedlex.data.admin.ch/eli/oc/2003/602)), du 4 mai 2004 ([RO 2004 2415](https://fedlex.data.admin.ch/eli/oc/2004/279)), du 30 juin 2004 ([RO 2004 3387](https://fedlex.data.admin.ch/eli/oc/2004/437)), du 13 juil. 2004 ([RO 2004 3449](https://fedlex.data.admin.ch/eli/oc/2004/459)), du 15 août 2005 ([RO 2005 4389](https://fedlex.data.admin.ch/eli/oc/2005/563)), du 28 sept. 2005 ([RO 2005 4699](https://fedlex.data.admin.ch/eli/oc/2005/621)), du 28 nov. 2006 ([RO 2006 4865](https://fedlex.data.admin.ch/eli/oc/2006/753)), du 19 fév. 2007 ([RO 2007 509](https://fedlex.data.admin.ch/eli/oc/2007/103)), du 24 mai 2007 ([RO 2007 2423](https://fedlex.data.admin.ch/eli/oc/2007/339)), du 28 août 2007 ([RO 2007 4155](https://fedlex.data.admin.ch/eli/oc/2007/555)), du 11 déc. 2007 ([RO 2007 6877](https://fedlex.data.admin.ch/eli/oc/2007/890)), du 27 janv. 2009 ([RO 2009 489](https://fedlex.data.admin.ch/eli/oc/2009/88)), du 30 janv. 2012 ([RO 2012 613](https://fedlex.data.admin.ch/eli/oc/2012/89)), du 26 oct. 2012 ([RO 2012 5835](https://fedlex.data.admin.ch/eli/oc/2012/684)), du 25 mars 2013 ([RO 2013 951](https://fedlex.data.admin.ch/eli/oc/2013/195)), du 1<sup>er</sup> juin 2013 ([RO 2013 2153](https://fedlex.data.admin.ch/eli/oc/2013/458)), du 23 sept. 2013 ([RO 2013 3271](https://fedlex.data.admin.ch/eli/oc/2013/626)), du 11 nov. 2014 ([RO 2014 3707](https://fedlex.data.admin.ch/eli/oc/2014/643)), du 15 oct. 2015 ([RO 2015 4063](https://fedlex.data.admin.ch/eli/oc/2015/681)), du 21 déc. 2016 ([RO 2017 29](https://fedlex.data.admin.ch/eli/oc/2017/9)), du 15 fév. 2019 ([RO 2019 719](https://fedlex.data.admin.ch/eli/oc/2019/125)), du 15 janv. 2021 ([RO 2021 10](https://fedlex.data.admin.ch/eli/oc/2021/10)) et du 18 janv. 2022, en vigueur depuis le 19 janv. 2022 à 18 heures ([RO 2022 18](https://fedlex.data.admin.ch/eli/oc/2022/18)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 20 mai 2003 ([RO 2003 1200](https://fedlex.data.admin.ch/eli/oc/2003/209)). Mise à jour par le ch. I des O du DEFR du 28 août 2003 ([RO 2003 3260](https://fedlex.data.admin.ch/eli/oc/2003/448)), du 22 sept. 2003 ([RO 2003 3493](https://fedlex.data.admin.ch/eli/oc/2003/495)), du 20 oct. 2003 ([RO 2003 3771](https://fedlex.data.admin.ch/eli/oc/2003/539)), du 13 nov. 2003 ([RO 2003 4075](https://fedlex.data.admin.ch/eli/oc/2003/602)), du 4 mai 2004 ([RO 2004 2415](https://fedlex.data.admin.ch/eli/oc/2004/279)), du 30 juin 2004 ([RO 2004 3387](https://fedlex.data.admin.ch/eli/oc/2004/437)), du 13 juil. 2004 ([RO 2004 3449](https://fedlex.data.admin.ch/eli/oc/2004/459)), du 15 août 2005 ([RO 2005 4389](https://fedlex.data.admin.ch/eli/oc/2005/563)), du 28 sept. 2005 ([RO 2005 4699](https://fedlex.data.admin.ch/eli/oc/2005/621)), du 28 nov. 2006 ([RO 2006 4865](https://fedlex.data.admin.ch/eli/oc/2006/753)), du 19 fév. 2007 ([RO 2007 509](https://fedlex.data.admin.ch/eli/oc/2007/103)), du 24 mai 2007 ([RO 2007 2423](https://fedlex.data.admin.ch/eli/oc/2007/339)), du 28 août 2007 ([RO 2007 4155](https://fedlex.data.admin.ch/eli/oc/2007/555)), du 11 déc. 2007 ([RO 2007 6877](https://fedlex.data.admin.ch/eli/oc/2007/890)), du 27 janv. 2009 ([RO 2009 489](https://fedlex.data.admin.ch/eli/oc/2009/88)), du 30 janv. 2012 ([RO 2012 613](https://fedlex.data.admin.ch/eli/oc/2012/89)), du 26 oct. 2012 ([RO 2012 5835](https://fedlex.data.admin.ch/eli/oc/2012/684)), du 25 mars 2013 ([RO 2013 951](https://fedlex.data.admin.ch/eli/oc/2013/195)), du 1<sup>er</sup> juin 2013 ([RO 2013 2153](https://fedlex.data.admin.ch/eli/oc/2013/458)), du 23 sept. 2013 ([RO 2013 3271](https://fedlex.data.admin.ch/eli/oc/2013/626)), du 11 nov. 2014 ([RO 2014 3707](https://fedlex.data.admin.ch/eli/oc/2014/643)), du 15 oct. 2015 ([RO 2015 4063](https://fedlex.data.admin.ch/eli/oc/2015/681)), du 21 déc. 2016 ([RO 2017 29](https://fedlex.data.admin.ch/eli/oc/2017/9)), du 15 fév. 2019 ([RO 2019 719](https://fedlex.data.admin.ch/eli/oc/2019/125)), du 15 janv. 2021 ([RO 2021 10](https://fedlex.data.admin.ch/eli/oc/2021/10)), du 18 janv. 2022 ([RO 2022 18](https://fedlex.data.admin.ch/eli/oc/2022/18)) et du 13 janv. 2025, en vigueur depuis le 21 janv. 2025 ([RO 2025 33](https://fedlex.data.admin.ch/eli/oc/2025/33)).
 
 <table>
 <tr><td>Afrique du Sud</td><td>Liban</td></tr>
@@ -189,26 +189,26 @@ Annexe[^t-1]
 <tr><td>Brésil</td><td>Namibie</td></tr>
 <tr><td>Canada</td><td>Norvège</td></tr>
 <tr><td>Cambodge</td><td>Nouvelle-Zélande</td></tr>
-<tr><td>Cameroun</td><td>Panama</td></tr>
-<tr><td>Chine</td><td>Qatar</td></tr>
-<tr><td>Congo</td><td>République centrafricaine</td></tr>
-<tr><td>Corée du Sud</td><td>République démocratique du Congo</td></tr>
-<tr><td>Côte d’Yvoire</td><td>Royaume-Uni</td></tr>
-<tr><td>Émirats arabes unis</td><td>Russie</td></tr>
-<tr><td>Eswatini</td><td>Sierra Leone</td></tr>
-<tr><td>États-Unis d’Amérique</td><td>Singapour</td></tr>
-<tr><td>Gabon</td><td>Sri Lanka</td></tr>
-<tr><td>Ghana</td><td>Suisse</td></tr>
-<tr><td>Guinée</td><td>Tanzanie</td></tr>
-<tr><td>Guyana</td><td>Thaïlande</td></tr>
-<tr><td>Inde</td><td>Togo</td></tr>
-<tr><td>Indonésie</td><td>Turquie</td></tr>
-<tr><td>Israël</td><td>Ukraine</td></tr>
-<tr><td>Japon</td><td>Union européenne</td></tr>
-<tr><td>Kazakhstan</td><td>Venezuela</td></tr>
-<tr><td>Kirghizistan</td><td>Vietnam</td></tr>
-<tr><td>Laos</td><td>Zimbabwe</td></tr>
-<tr><td>Lesotho</td><td></td></tr>
+<tr><td>Cameroun</td><td>Ouzbékistan</td></tr>
+<tr><td>Chine</td><td>Panama</td></tr>
+<tr><td>Congo</td><td>Qatar</td></tr>
+<tr><td>Corée du Sud</td><td>République centrafricaine</td></tr>
+<tr><td>Côte d’Yvoire</td><td>République démocratique du Congo</td></tr>
+<tr><td>Émirats arabes unis</td><td>Royaume-Uni</td></tr>
+<tr><td>Eswatini</td><td>Russie</td></tr>
+<tr><td>États-Unis d’Amérique</td><td>Sierra Leone</td></tr>
+<tr><td>Gabon</td><td>Singapour</td></tr>
+<tr><td>Ghana</td><td>Sri Lanka</td></tr>
+<tr><td>Guinée</td><td>Suisse</td></tr>
+<tr><td>Guyana</td><td>Tanzanie</td></tr>
+<tr><td>Inde</td><td>Thaïlande</td></tr>
+<tr><td>Indonésie</td><td>Togo</td></tr>
+<tr><td>Israël</td><td>Turquie</td></tr>
+<tr><td>Japon</td><td>Ukraine</td></tr>
+<tr><td>Kazakhstan</td><td>Union européenne</td></tr>
+<tr><td>Kirghizistan</td><td>Venezuela</td></tr>
+<tr><td>Laos</td><td>Vietnam</td></tr>
+<tr><td>Lesotho</td><td>Zimbabwe</td></tr>
 </table>
 
 Le commerce des diamants bruts est également autorisé avec le Taipei chinois.
