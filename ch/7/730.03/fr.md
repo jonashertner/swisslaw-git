@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2025-01-01
+version: 2025-01-23
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250123-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250101/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2025)
+du 1<sup>er</sup> novembre 2017 (État le 23 janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -253,7 +253,7 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/fr/xml/image/image1.png) .[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image1.png) .[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -3168,7 +3168,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -3514,7 +3514,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -3638,7 +3638,7 @@ Annexe 1.5[^t-5]
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -3651,7 +3651,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image5.png)
 
 - b.
 
@@ -3812,7 +3812,7 @@ Annexe 2.1[^t-6]
 
 ## Rétribution unique allouée pour les installations photovoltaïques
 
-[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), du 29 nov. 2023 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) et le ch. II al. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), du 29 nov. 2023 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) et le ch. II al. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Erratum du 23 janv. 2025 ([RO 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)).
 
 ### 1 Définition des installations
 
@@ -3868,7 +3868,8 @@ Annexe 2.1[^t-6]
 - 2\.7 Bonus
 - 2\.7.1 Le bonus pour les installations intégrées présentant un angle d’inclinaison d’au moins 75 degrés est de 400 francs par kW.
 - 2\.7.2 Le bonus pour les installations ajoutées ou isolées présentant un angle d’inclinaison d’au moins 75 degrés est de 200 francs par kW.
-- 2\.7.3 Le bonus pour les places de stationnement est de 250 francs par kW.
+- 2\.7.3 Le bonus pour les installations mises en place à une altitude d’au moins 1500 mètres est de 250 francs par kW. La preuve que l’installation n’a pas été ajoutée à un bâtiment ou intégrée dans un bâtiment doit être apportée au moyen de photographies.
+- 2\.7.4 Le bonus pour les places de stationnement est de 250 francs par kW.
 - 2\.8 Les taux suivants s’appliquent pour les installations intégrées mises en service à partir du 1<sup>er</sup> janvier 2023:
 
 <table>
@@ -5316,4 +5317,4 @@ Annexe 6.3[^t-17]
   - h. production nette d’électricité et de chaleur ainsi qu’utilisation externe de la chaleur, par année civile avant et après l’investissement;
   - i. date prévue de mise en service.
 
-Table des matières
+## Table des matières

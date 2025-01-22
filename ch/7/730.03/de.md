@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2025-01-01
+version: 2025-01-23
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250123-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250101/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Januar 2025)
+vom 1. November 2017 (Stand am 23. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -3168,7 +3168,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -3514,7 +3514,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -3638,7 +3638,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -3651,7 +3651,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image5.png)
 
 - b.
 
@@ -3812,7 +3812,7 @@ Anhang 2.1[^t-6]
 
 ## Einmalvergütung für Photovoltaikanlagen
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), Ziff. II der V vom 17. März 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), vom 29. Nov. 2023 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) und Ziff. II Abs. 1 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), Ziff. II der V vom 17. März 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), vom 29. Nov. 2023 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) und Ziff. II Abs. 1 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Berichtigung vom 23. Jan. 2025 ([AS 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)).
 
 ### 1 Anlagendefinition
 
@@ -3868,7 +3868,8 @@ Anhang 2.1[^t-6]
 - 2\.7 Boni
 - 2\.7.1 Der Bonus für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad beträgt 400 Franken pro kW.
 - 2\.7.2 Der Bonus für angebaute oder freistehende Anlagen mit einem Neigungswinkel von mindestens 75 Grad beträgt 200 Franken pro kW.
-- 2\.7.3 Der Parkflächenbonus beträgt 250 Franken pro kW.
+- 2\.7.3 Der Bonus für Anlagen, die ab einer Höhe von 1500 m ü. M installiert werden, beträgt 250 Franken pro kW. Der Nachweis, dass die Anlage nicht an ein Gebäude angebaut oder in ein Gebäude integriert wurde, ist mittels Fotos zu erbringen.
+- 2\.7.4 Der Parkflächenbonus beträgt 250 Franken pro kW.
 - 2\.8 Für integrierte Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen wurden, gelten die folgenden Ansätze:
 
 <table>
