@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juin 2012 les fonds propres et la répartit
 short: OFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: fr
-version: 2025-01-01
+version: 2025-01-24
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/fr"
 
 (Ordonnance sur les fonds propres, OFR)[^t-1]
 
-du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> janvier 2025)
+du 1<sup>er</sup> juin 2012 (État le 24 janvier 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -1062,7 +1062,7 @@ Les banques calculent en sus les positions pondérées en fonction des risques �
 Par approches standard, on entend:
 
 - a. l’approche SA-CCR (art. 57);
-- b. l’approche standard pour les opérations de titrisation (*standardised approach for securitisations*, SEC-SA) (art. 59*b*, al. 2, let. a), l’approche fondée sur les notations externes pour les opérations de titrisation (*external ratings-based approach for securitisations,* SEC-ERBA) (art. 59*b*, al. 2, let. c) et la pondération selon l’art. 59*b*, al. 3;
+- b. l’approche standard pour les opérations de titrisation (*standardised approach for securitisations*, SEC-SA) (art. 59*b*, al. 2, let. a), l’approche fondée sur les notations externes pour les opérations de titrisation (*external ratings-based* *approach for securitisations,* SEC-ERBA) (art. 59*b*, al. 2, let. c) et la pondération selon l’art. 59*b*, al. 3;
 - c. l’approche simple pour les opérations de financement de titres et les autres transactions adossées à des sûretés (art. 62, al. 1, let. a) et l’approche globale pour les opérations de financement de titres et les autres transactions adossées à des sûretés avec décotes réglementaires appropriées (art. 62, al. 3, let. a);
 - d. l’approche AS-BRI (art. 63 à 73);
 - e. les approches utilisées pour les risques d’ajustements de valeur de dérivés et d’opérations de financement de titres (art. 77*g* à 77*j*);
@@ -2054,10 +2054,11 @@ Si les conditions prévues aux al. 1 à 3 ne sont pas remplies, la pondération 
 
 - b. pour les objets d’habitation et les objets commerciaux qui ne sont pas à usage propre: 150 %.
 
-<sup>6</sup> Pour les créances de rang subordonné, la pondération en fonction des risques selon l’annexe 3, ch. 2, résultant de la quotité de financement est multipliée par le facteur 1,25, à moins qu’elle ne corresponde à la pondération en fonction des risques concernée la moins élevée selon l’annexe 3, ch. 3.1 à 3.4. La pondération en fonction des risques qui en résulte est au maximum celle qui est prévue à l’al. 5.
+<sup>6</sup> Pour les créances de rang subordonné, la pondération en fonction des risques selon l’annexe 3, ch. 3, résultant de la quotité de financement est multipliée par le facteur 1,25, à moins qu’elle ne corresponde à la pondération en fonction des risques concernée la moins élevée selon l’annexe 3, ch. 3.1 à 3.4. La pondération en fonction des risques qui en résulte est au maximum celle qui est prévue à l’al. 5.[^72c-3]
 
 [^72c-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^72c-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^72c-3]: Erratum du 24 janv. 2025 ([RO 2025 61](https://fedlex.data.admin.ch/eli/oc/2025/61)).
 
 #### Art. 72d
 
@@ -3680,7 +3681,7 @@ Annexe 1[^t-2]
 
 [^t-2]: Introduite par le ch. II al. 3 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-Disponibles sous [www.sif.admin.ch &gt; Politique et stratégie en matière de marchés financiers &gt; Réglementation des marchés financiers &gt; Normes minimales de Bâle](https://www.sif.admin.ch/sif/fr/home/finanzmarktpolitik/reglementation-marches-financiers/basler-mindeststandards.html)
+Disponibles sous [www.sif.admin.ch &gt; Politique et stratégie en matière de marchés financiers &gt; Règlement des marchés financiers &gt; Bâle III &gt; Normes minimales de Bâle](https://www.sif.admin.ch/fr)
 
 <table>
 <tr><th>Chiffre</th><th>Titre</th><th>Date de référence</th></tr>
@@ -3956,7 +3957,7 @@ Annexe 4a[^t-7]
 
 Les fonds propres minimaux pour les contributions au fonds de défaillance d’une banque en tant que membre compensateur d’une contrepartie centrale qualifiée sont calculés à l’aide de la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image1.png)
 
 Dans cette formule, on entend par:
 
@@ -4009,19 +4010,19 @@ Le trait figurant au-dessus de la sous-composante signifie que celle-ci doit êt
 
 - **1.** **Composante intérêts et dividendes (ILDC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image2.png)
 
 - **2.** **Composante services (SC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image3.png)
 
 - **3.** **Composante financière (FC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image4.png)
 
 - **4.** **Multiplicateur des pertes internes (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image5.png)
 
 On entend par:
 

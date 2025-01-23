@@ -4,11 +4,11 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2025-01-01
+version: 2025-01-24
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/it"
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 1° gennaio 2025)
+del 1° giugno 2012 (Stato 24 gennaio 2025)
 
-[^t-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^t-1]: Nuovo testo giusta l’all. 1 cifra II n. 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 
 [^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^ingress-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^ingress-3]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^ingress-3]: Nuovo testo giusta l’all. 1 cifra II n. 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ## Titolo primo: Disposizioni generali
 
@@ -43,8 +43,8 @@ ordina:
 
 <sup>2</sup> Esse devono coprire con fondi propri i rischi di credito, i rischi di mercato e i rischi operativi.[^1-2]
 
-[^1-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^1-1]: Nuovo testo giusta l’all. 1 cifra II n. 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 2
 
@@ -61,8 +61,8 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> ...[^2-2]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^2-2]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^2-2]: Abrogato dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 3
 
@@ -70,8 +70,8 @@ La presente ordinanza disciplina:
 
 La presente ordinanza si applica alle banche ai sensi della LBCR e alle società di intermediazione mobiliare[^3-1] che tengono conti ai sensi della LIsFi (qui di seguito banche).[^3-2]
 
-[^3-1]: Nuova espr. giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
-[^3-2]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-1]: Nuova espr. giusta l’all. 1 cifra II n. 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
+[^3-2]: Nuovo testo giusta l’all. 1 cifra II n. 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 
@@ -131,17 +131,17 @@ Quali strumenti partecipativi si intendono in particolare gli strumenti seguenti
     - – in caso di rimborso obbligatorio o di rimborso richiesto dall’emittente: all’atto dell’emissione di un numero variabile di titoli di partecipazione, un’eventuale modifica del valore d’esposizione è analoga, comparabile e legata alla modifica del valore di un numero dato di titoli di partecipazione al capitale sociale
     - – in caso di rimborso richiesto dal titolare dello strumento finanziario: la FINMA ha respinto la richiesta della banca di trattarlo come un credito.[^4-11]
 
-[^4-1]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-1]: Introdotta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^4-3]: Lo standard CAP è riportato nell’all. 1 n. 2.
-[^4-4]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^4-6]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-4]: Introdotta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-6]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^4-7]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^4-8]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
-[^4-9]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-9]: Introdotta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^4-10]: Lo standard LEV è riportato nell’all. 1 n. 7.
-[^4-11]: Introdotta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4-11]: Introdotta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 4a
 
@@ -151,7 +151,7 @@ Quali strumenti partecipativi si intendono in particolare gli strumenti seguenti
 
 <sup>2</sup> La versione determinante degli standard minimi di Basilea è riportata nell’allegato 1.
 
-[^4a-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4a-1]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 4b
 
@@ -169,7 +169,7 @@ Le posizioni seguenti devono essere assegnate al portafoglio della banca:
 - h. posizioni detenute per coprire rischi legati alle posizioni di cui alle lettere a–g;
 - i. altre posizioni non assegnate al portafoglio di negoziazione secondo l’articolo 5.
 
-[^4b-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4b-1]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 5
 
@@ -210,7 +210,7 @@ Le posizioni seguenti devono essere assegnate al portafoglio di negoziazione, sa
 
 <sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative all’obbligo di documentazione e alla procedura di assegnazione delle posizioni al portafoglio di negoziazione e al portafoglio della banca. A tale scopo si fonda sullo standard RBC. Essa prevede agevolazioni riguardo alla verifica dell’osservanza delle direttive interne delle banche di cui al numero 25.13 RBC.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^5-2]: Lo standard RBC è riportato nell’all. 1 n. 3.
 
 #### Art. 5a
@@ -221,7 +221,7 @@ Le posizioni seguenti devono essere assegnate al portafoglio di negoziazione, sa
 
 <sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla riclassificazione e al trasferimento interno dei rischi. A tale scopo si fonda sullo standard RBC[^5a-2]. Essa prevede agevolazioni per le banche delle categorie 3–5 secondo l’allegato 3 dell’ordinanza del 30 aprile 2014[^5a-3] sulle banche (OBCR) nonché riguardo all’obbligo di autorizzazione per le riclassificazioni di cui al numero 25.16 RBC.
 
-[^5a-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^5a-1]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^5a-2]: Lo standard RBC è riportato nell’all. 1 n. 3.
 [^5a-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
@@ -237,7 +237,7 @@ Le posizioni seguenti devono essere assegnate al portafoglio di negoziazione, sa
 
 <sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla valutazione prudente. A tale scopo si fonda sullo standard CAP[^5b-2].
 
-[^5b-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^5b-1]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^5b-2]: Lo standard CAP è riportato nell’all. 1 n. 2.
 
 #### Art. 6
@@ -261,7 +261,7 @@ La FINMA può riconoscere un’agenzia di rating se le condizioni di cui ai nume
 
 <sup>3</sup> Se constata che un’agenzia di rating riconosciuta non adempie più le condizioni di riconoscimento, la FINMA le revoca il riconoscimento.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^6-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 [^6-3]: Il «Code of Conduct Fundamentals for Credit Rating Agencies» può essere consultato gratuitamente all’indirizzo: [www.iosco.org](http://www.iosco.org) &gt; Publications &gt; Public Reports.
 
@@ -285,7 +285,7 @@ Il consolidamento comprende tutte le società del gruppo attive nel settore fina
 <sup>4</sup> Se la banca detiene uno strumento di capitale proprio in un’impresa non consolidata ai sensi del capoverso 2 lettera b, tale strumento sottostà all’approccio di deduzione corrispondente senza riferimento a una franchigia.
 
 [^7-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
-[^7-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 8
 
@@ -367,7 +367,7 @@ I limiti superiori delle partecipazioni qualificate di una banca a un’impresa 
 - b. i valori mobiliari sono ripresi per la durata normale dell’operazione di emissione; o
 - c.[^13-1] la differenza tra i limiti superiori applicabili a tali partecipazioni e il valore contabile delle partecipazioni che supera questi limiti è ponderata al 1250 per cento.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 3: Comprova dell’adeguatezza dei fondi propri e relativa pubblicazione
 
@@ -381,7 +381,7 @@ I limiti superiori delle partecipazioni qualificate di una banca a un’impresa 
 
 <sup>3</sup> Le comprove devono essere presentate alla FINMA al più tardi sei settimane dopo la fine del trimestre o del semestre.[^14-1]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 15
 
@@ -389,7 +389,7 @@ I limiti superiori delle partecipazioni qualificate di una banca a un’impresa 
 
 Per il calcolo dei fondi propri computabili e necessari oggetto della comprova la banca si fonda sulla chiusura allestita conformemente alle norme della FINMA per la presentazione dei conti.[^15-1] La FINMA disciplina le eccezioni a questo principio.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 16
 
@@ -401,9 +401,9 @@ Per il calcolo dei fondi propri computabili e necessari oggetto della comprova l
 
 <sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea relativo alle esigenze in materia di pubblicazione (DIS)[^16-2]. Inoltre, stabilisce in particolare quali informazioni devono essere pubblicate oltre al conto annuale e alle chiusure intermedie, segnatamente per quanto riguarda la gestione d’impresa e i rischi finanziari legati al clima, e quali informazioni devono pubblicare le banche di rilevanza sistemica in merito alle esigenze di cui al titolo quinto e al loro adempimento. Essa prevede agevolazioni per le banche che non hanno rilevanza sistemica se ciò è giustificato per motivi di proporzionalità.[^16-3]
 
-[^16-1]: Nuovo testo del per. giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^16-1]: Nuovo testo del per. giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^16-2]: Lo standard DIS è riportato nell’all. 1 n. 11.
-[^16-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 4: Applicazione semplificata
 
@@ -473,8 +473,8 @@ Gli strumenti di capitale che prevedono una conversione condizionale o una rinun
 
 <sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla computabilità dei fondi propri.[^20-2]
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^20-2]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^20-2]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 2: Calcolo
 
@@ -501,10 +501,10 @@ Sono computabili come fondi propri di base di qualità primaria:
 
 <sup>2</sup> Le quote minoritarie nel capitale di imprese regolate integralmente consolidate possono essere computate nella misura in cui possono essere computate nelle imprese stesse. Sono escluse dal computo le eccedenze di capitale attribuibili alle quote minoritarie e calcolate sulla base di esigenze che includono il cuscinetto («buffer») di fondi propri e i fondi propri supplementari. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard CAP[^21-3].[^21-4]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^21-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^21-3]: Lo standard CAP è riportato nell’all. 1 n. 2.
-[^21-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^21-4]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 22
 
@@ -534,8 +534,8 @@ Le azioni privilegiate e il capitale di partecipazione sono computabili come fon
 
 <sup>3</sup> Per valutare se sono adempiute le condizioni di cui ai capoversi 1 e 2 lettera b, la FINMA tiene conto della forma giuridica della banca e delle particolarità del suo capitale sociale.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^22-2]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^22-2]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^22-3]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 [^22-4]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 [^22-5]: Introdotta dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
@@ -649,10 +649,10 @@ L’emissione dello strumento di capitale è subordinata all’approvazione, da 
 
 <sup>6</sup> Si applicano per analogia le disposizioni dell’articolo 21 capoverso 2 sul computo delle quote di capitale detenute da azionisti minoritari in imprese regolate integralmente consolidate.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^27-3]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^27-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-3]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 27a
 
@@ -660,7 +660,7 @@ L’emissione dello strumento di capitale è subordinata all’approvazione, da 
 
 Se il «trigger» si verifica in relazione a impegni di cui all’articolo 27 capoverso 3 computati come fondi propri di base supplementari, la FINMA ordina la riduzione del credito o la conversione in fondi propri di base di qualità primaria nonché la relativa data e determina l’importo interessato. Essa rispetta le condizioni contrattuali di emissione o di prestito nonché l’ordine di rango che ne deriva.
 
-[^27a-1]: Introdotto il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^27a-1]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 28
 
@@ -683,8 +683,8 @@ La conversione in fondi propri di base di qualità primaria o la riduzione del c
 
 <sup>3</sup> Per i titoli di partecipazione computabili come fondi propri di base supplementari che non contemplano un meccanismo finalizzato all’assorbimento delle perdite secondo il capoverso 1, il contratto o lo statuto deve prevedere la rinuncia irrevocabile a qualsiasi privilegio rispetto al capitale sociale computabile come fondi propri di base di qualità primaria nel momento di una incombente insolvibilità. La FINMA ordina nel singolo caso il momento della cessazione del privilegio.[^29-2]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^29-2]: Per. introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^29-2]: Per. Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 3: Fondi propri complementari (Tier 2)
 
@@ -737,7 +737,7 @@ L’importo determinante di una correzione è il valore di bilancio. Gli effetti
 
 <sup>3</sup> Nelle disposizioni di esecuzione tecniche la FINMA può precisare le modalità di attuazione delle disposizioni sulle correzioni e prevedere norme speciali per le banche che allestiscono i loro conti annuali conformemente alle norme contabili internazionali riconosciute.[^31-1]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 31a
 
@@ -775,7 +775,7 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 <sup>4</sup> Se la FINMA non ammette una ponderazione in funzione del rischio secondo l’allegato 4 numero 1 o 2, nel quadro del calcolo per il singolo istituto, oltre alle deduzioni di cui al capoverso 1 vanno dedotte le posizioni lunghe nette calcolate conformemente all’articolo 52 delle partecipazioni detenute direttamente in imprese attive nel settore finanziario soggette all’obbligo di consolidamento.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^32-2]: Lo standard CAP è riportato nell’all. 1 n. 2.
 
 #### Art. 33
@@ -788,7 +788,7 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 <sup>2</sup> Se nella corrispondente componente dei fondi propri computabili la banca non dispone di capitale o ne dispone ma non in misura sufficiente, la deduzione è operata sulla componente dei fondi propri di rango immediatamente superiore.
 
-[^33-1]: Introdotto dal n. I dell’O del 21 nov. 2018 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^33-1]: Introdotto dalla cifra I dell’O del 21 nov. 2018 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 34
 
@@ -810,7 +810,7 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 <sup>4</sup> Il limite 3 della franchigia va stabilito in maniera tale che tenuto conto di tutte le correzioni prudenziali, compresa la deduzione dell’importo superiore a tale limite secondo l’articolo 40 capoverso 1, l’importo residuo delle tre posizioni di cui agli articoli 38 capoverso 2 e 39 capoverso 1 non superi il 15 per cento dei fondi propri di base di qualità primaria.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 36
 
@@ -821,7 +821,7 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 <sup>2</sup> Agli strumenti di capitale proprio detenuti da una banca sotto forma di fondi propri di base supplementari o di fondi propri complementari in imprese i cui titoli di partecipazione vanno dedotti integralmente dai fondi propri di base di qualità primaria conformemente all’articolo 32 capoverso 1 lettere h–i e capoverso 4 si applica l’approccio di cui all’articolo 38 capoverso 1.[^36-2]
 
 [^36-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 37
 
@@ -836,8 +836,8 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 <sup>3</sup> La parte dei valori di bilancio sommati secondo il capoverso 1 inferiore al limite della franchigia è ponderata in funzione del rischio. Il calcolo delle posizioni ponderate in funzione del rischio è effettuato per ogni componente del capitale proprio in base alla sua attribuzione al portafoglio della banca o al portafoglio di negoziazione prima della deduzione.[^37-3]
 
 [^37-1]: Nuovo testo giusta l’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
-[^37-2]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^37-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^37-2]: Introdotto dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^37-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 38
 
@@ -849,7 +849,7 @@ Dai fondi propri di base di qualità primaria vanno dedotti integralmente:
 
 <sup>3</sup> L’importo determinato secondo il capoverso 2 inferiore al limite della franchigia è trattato conformemente all’articolo 40.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 39
 
@@ -872,7 +872,7 @@ La banca deve dedurre separatamente dai fondi propri di base di qualità primari
 
 <sup>2</sup> La banca deve ponderare al 250 per cento, in funzione del rischio, gli importi delle tre posizioni di cui agli articoli 38 capoverso 2 e 39 capoverso 1 inferiori al limite 3 della franchigia conformemente all’approccio standard internazionale per i rischi di credito (AS-BRI).[^40-1]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 3: Fondi supplementari in grado di assorbire le perdite per le banche cantonali
 
@@ -932,9 +932,9 @@ I fondi propri necessari sono composti da:
 
 <sup>2</sup> Sono fatte salve le esigenze particolari più elevate per le banche di rilevanza sistemica di cui al titolo quinto.[^41-3]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^41-2]: Introdotta dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^41-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^41-2]: Introdotta dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^41-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 42
 
@@ -951,7 +951,7 @@ Dopo le deduzioni di cui agli articoli 31–40 le banche devono detenere comples
 
 <sup>3</sup> Se la banca non dispone dei fondi propri minimi conformemente al capoverso 1, le norme in materia di fondi propri sono considerate non adempiute ai sensi dell’articolo 25 capoverso 1 LBCR.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 42a
 
@@ -961,7 +961,7 @@ Dopo le deduzioni di cui agli articoli 31–40 le banche devono detenere comples
 
 <sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche relative al «leverage ratio» e all’esposizione totale. A tale scopo si fonda sullo standard LEV[^42a-2]. Per il calcolo del supplemento di garanzia nei derivati, oltre all’approccio standard per il calcolo degli equivalenti di credito dei derivati («Standardised Approach for Measuring Counterparty Credit Risk», SA-CCR) (art. 57), la FINMA ammette il SA-CCR semplificato e l’approccio basato sul valore di mercato (art. 58).
 
-[^42a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^42a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^42a-2]: Lo standard LEV è riportato nell’all. 1 n. 7.
 
 #### Art. 42b
@@ -974,7 +974,7 @@ L’insieme delle posizioni ponderate in funzione del rischio è composto:
 - b. dai fondi propri minimi per la copertura dei rischi di mercato (art. 81–88), moltiplicati per 12,5;
 - c. dai fondi propri minimi per la copertura dei rischi operativi (art. 89–94), moltiplicati per 12,5.
 
-[^42b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^42b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 42c
 
@@ -982,7 +982,7 @@ L’insieme delle posizioni ponderate in funzione del rischio è composto:
 
 Almeno il 4,5 per cento dell’insieme delle posizioni ponderate in funzione del rischio deve essere coperto con fondi propri di base di qualità primaria e almeno il 6 per cento con fondi propri di base.
 
-[^42c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^42c-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 43
 
@@ -994,7 +994,7 @@ Almeno il 4,5 per cento dell’insieme delle posizioni ponderate in funzione del
 
 <sup>3</sup> Nel caso in cui il cuscinetto di fondi propri sia inferiore a quanto prescritto, la FINMA fissa un termine per la sua ricostituzione.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 44
 
@@ -1013,8 +1013,8 @@ La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le 
 
 <sup>4</sup> L’articolo 43 capoversi 2 e 3 si applica per analogia al cuscinetto anticiclico.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^44-2]: Nuovo testo del per. giusta il n. I dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^44-2]: Nuovo testo del per. giusta la cifra I dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
 
 #### Art. 44a
 
@@ -1032,9 +1032,9 @@ La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le 
 
 <sup>6</sup> L’articolo 43 capoversi 2 e 3 si applica per analogia.
 
-[^44a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^44a-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^44a-2]: L’elenco può essere consultato gratuitamente all’indirizzo: [www.bis.org](http://www.bis.org) &gt; Committees & Associations &gt; Basel Committee on Banking Supervision &gt; CCyB and G-SIB buffer &gt; Countercyclical capital buffer (CCyB).
-[^44a-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^44a-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 45
 
@@ -1048,7 +1048,7 @@ In circostanze particolari la FINMA può obbligare le banche, nel singolo caso, 
 - d. alla qualità della gestione dei rischi; o
 - e. allo stato di evoluzione delle tecniche applicate.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 45a
 
@@ -1086,19 +1086,19 @@ Per calcolare l’insieme delle posizioni ponderate in funzione del rischio, le 
 
 <sup>4</sup> Il capoverso 3 si applica sia a livello del singolo istituto sia a livello di gruppo o conglomerato finanziario.
 
-[^45a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^45a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 46 e 47
 
 [^4647-1]
 
-[^4647-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^4647-1]: Abrogati dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 1*a*: Semplificazioni per le banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
 
 [^tit3-chap1a-1]
 
-[^tit3-chap1a-1]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^tit3-chap1a-1]: Introdotto dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 47a
 
@@ -1106,7 +1106,7 @@ Per calcolare l’insieme delle posizioni ponderate in funzione del rischio, le 
 
 Le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^47a-2] possono chiedere alla FINMA di essere esentate dall’osservanza delle disposizioni relative ai fondi propri necessari di cui agli articoli 41–45*a*.
 
-[^47a-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^47a-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^47a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 47b
@@ -1210,7 +1210,7 @@ Le banche che non intendono più beneficiare delle semplificazioni di cui all’
 
 <sup>3</sup> È definito rischio CVA il pericolo di perdite di valore di mercato per la banca risultanti da adeguamenti della valutazione del credito («Credit Valuation Adjustment», CVA) effettuati nel caso di derivati e operazioni di finanziamento di titoli a causa del rischio di inadempienza della controparte.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 49
 
@@ -1250,7 +1250,7 @@ Per i seguenti derivati di credito le banche non devono detenere fondi propri mi
 - a. protezione del credito acquistata per una posizione del portafoglio della banca o per una posizione che comporta un rischio di credito della controparte;
 - b. protezione del credito venduta sotto forma di «swap» contro il rischio di perdita del credito («credit default swap») nel portafoglio della banca, sempreché essa sia trattata come una garanzia concessa dalla banca e l’intero importo nominale sia considerato nei fondi propri minimi relativi ai rischi di credito.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 50
 
@@ -1269,7 +1269,7 @@ Il calcolo delle posizioni ponderate in funzione dei rischi di credito è effett
 
 <sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative ai rischi di credito. A tale scopo si fonda sullo standard CRE[^50-2].
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^50-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 ### Sezione 2: Calcolo delle posizioni
@@ -1288,7 +1288,7 @@ Le posizioni da ponderare in funzione dei rischi di credito devono essere previa
 
 <sup>2</sup> Le regole derogatorie relative all’IRB secondo i numeri 30–36 CRE[^50a-2] prevalgono su quelle di cui al capoverso 1, fatto salvo l’articolo 77 capoverso 4 per le posizioni in stato di default.
 
-[^50a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^50a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^50a-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 51
@@ -1312,7 +1312,7 @@ Le posizioni nette sono calcolate come segue:
 
 <sup>3</sup> Le posizioni nette positive sono designate come posizioni lunghe nette e gli importi assoluti delle posizioni negative nette come posizioni corte nette.
 
-[^51-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^51-1]: Abrogato dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 52
 
@@ -1377,7 +1377,7 @@ L’AS-BRI permette di applicare un fattore di conversione del credito pari allo
 
 <sup>6</sup> Le banche che applicano l’IRB devono calcolare l’equivalente di credito di impegni eventuali e di impegni irrevocabili secondo le regole dell’AS-BRI se l’IRB non contiene disposizioni in materia.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 54
 
@@ -1385,13 +1385,13 @@ L’AS-BRI permette di applicare un fattore di conversione del credito pari allo
 
 Gli impegni eventuali per i quali la banca ha ceduto sottopartecipazioni possono essere trattati, nei limiti della sottopartecipazione, come crediti diretti nei confronti dei rispettivi sottopartecipanti.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 55
 
 [^55-1]
 
-[^55-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^55-1]: Abrogato dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 56
 
@@ -1421,7 +1421,7 @@ Gli equivalenti di credito devono essere calcolati secondo uno degli approcci se
 
 <sup>6</sup> La FINMA può emanare disposizioni di esecuzione tecniche relative al calcolo dell’equivalente di credito in caso di compensazione legale o contrattuale ai sensi dell’articolo 61 capoverso 1 lettera a alla quale partecipano più di due parti.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 57
 
@@ -1431,7 +1431,7 @@ Gli equivalenti di credito devono essere calcolati secondo uno degli approcci se
 
 <sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 52 CRE[^57-2]. Essa disciplina, fondandosi sul diritto dell’Unione europea (UE), il calcolo dei derivati su tassi d’interesse in caso di interessi negativi.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^57-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 58
@@ -1447,7 +1447,7 @@ Le banche seguenti possono applicare il SA-CCR semplificato o l’approccio basa
 
 <sup>2</sup> La FINMA emana disposizioni di esecuzione tecniche.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^58-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 59
@@ -1458,7 +1458,7 @@ Le banche seguenti possono applicare il SA-CCR semplificato o l’approccio basa
 
 <sup>2</sup> Gli equivalenti di credito sono moltiplicati per il fattore EPE. La FINMA stabilisce il fattore EPE nei singoli casi. Esso è almeno pari a 1,2.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^59-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 59a
@@ -1483,7 +1483,7 @@ Le banche seguenti possono applicare l’approccio semplificato in alternativa a
 
 <sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 60 CRE[^59a-3].
 
-[^59a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^59a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^59a-3]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
@@ -1514,7 +1514,7 @@ Per le posizioni di cartolarizzazione, le posizioni da ponderare in funzione del
 
 <sup>5</sup> La FINMA emana disposizioni di esecuzione tecniche relative alle cartolarizzazioni. A tale scopo si fonda sui numeri 40–45 CRE[^59b-2]. Essa assegna i rating esterni alle singole classi di rating. Per l’applicazione del SEC-ERBA disciplina inoltre le esigenze relative alle conoscenze specifiche, alla gestione del rischio per quanto riguarda le cartolarizzazioni e alla verifica della diligenza nell’utilizzo di rating esterni.
 
-[^59b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^59b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^59b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 60
@@ -1529,7 +1529,7 @@ Per le posizioni di cartolarizzazione, le posizioni da ponderare in funzione del
 
 <sup>4</sup> I capoversi 1 e 2 si applicano parimenti agli strumenti su tassi d’interesse e agli strumenti partecipativi detenuti nel portafoglio di negoziazione, sempreché i fondi propri minimi siano calcolati secondo l’articolo 83 capoverso 3.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 61
 
@@ -1556,12 +1556,12 @@ La FINMA emana disposizioni di esecuzione tecniche relative alle misure di riduz
 
 <sup>4</sup> Essa indica, fondandosi sul diritto dell’UE, gli indici principali che possono essere utilizzati per la determinazione dello scarto di garanzia.[^61-6]
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^61-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 [^61-3]: [RS 843](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10342)
 [^61-4]: [RS 946.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11341)
-[^61-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^61-6]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^61-5]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^61-6]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 62
 
@@ -1592,14 +1592,14 @@ Nell’approccio completo la posizione è compensata con la quota di posizione c
 
 <sup>7</sup> La FINMA emana disposizioni di esecuzione tecniche relative agli approcci di cui ai capoversi 1–5 e al fine di prendere in considerazione le garanzie di cui al capoverso 6. A tale scopo si fonda sullo standard CRE[^62-2], ad eccezione del numero 56.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^62-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 ### Sezione 3: Classi di posizione e fattori di ponderazione del rischio secondo l’AS‑BRI
 
 [^tit3-chap2-sec3-1]
 
-[^tit3-chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^tit3-chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 63
 
@@ -1634,7 +1634,7 @@ Nelle seguenti classi di posizione non possono essere utilizzati rating esterni:
 
 <sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative alle definizioni delle classi di posizione. A tale scopo si fonda sullo standard CRE[^63-2]. Essa designa le banche multilaterali di sviluppo alle quali può essere assegnato un fattore di ponderazione del rischio pari allo 0 per cento.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^63-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 63a
@@ -1647,7 +1647,7 @@ Nelle seguenti classi di posizione non possono essere utilizzati rating esterni:
 
 <sup>3</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard CRE[^63a-2].
 
-[^63a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^63a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^63a-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 64
@@ -1668,7 +1668,7 @@ Nelle seguenti classi di posizione non possono essere utilizzati rating esterni:
 
 <sup>7</sup> I rating esterni rilasciati per singole imprese appartenenti a un gruppo non possono essere utilizzati per determinare il fattore di ponderazione del rischio di altre imprese dello stesso gruppo.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^64-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 64a
@@ -1699,7 +1699,7 @@ Il fattore minimo di ponderazione del rischio per le posizioni senza rating nei 
 
 <sup>6</sup> Il fattore minimo di ponderazione del rischio di cui al capoverso 5 lettera b non si applica se la banca effettua una riduzione dei rischi secondo l’articolo 61 per le posizioni senza rating.
 
-[^64a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^64a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^64a-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 64b
@@ -1728,7 +1728,7 @@ Qualora per il debitore sia disponibile un rating relativo all’emittente, si a
 
 <sup>6</sup> Un rating specifico dell’emissione o relativo all’emittente è di elevata qualità se ad esso è assegnato un fattore di ponderazione del rischio inferiore a quello che otterrebbe senza rating.
 
-[^64b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^64b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 64c
 
@@ -1736,7 +1736,7 @@ Qualora per il debitore sia disponibile un rating relativo all’emittente, si a
 
 Se per la ponderazione in funzione del rischio di posizioni senza rating sono utilizzati crediti comparabili con rating nei confronti dello stesso debitore, per le posizioni in valuta estera si utilizzano rating in valuta estera. I rating in valuta locale possono essere utilizzati soltanto per la ponderazione in funzione del rischio di posizioni espresse in valuta locale.
 
-[^64c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^64c-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 65
 
@@ -1760,7 +1760,7 @@ Per le categorie di tale classificazione del rischio Paese si applicano i seguen
 - d. 100 per cento per una classificazione del rischio Paese da 4 a 6;
 - e. 150 per cento per una classificazione del rischio Paese pari a 7.
 
-[^65a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^65a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^65a-2]: L’«Arrangement on Guidelines for Officially Supported Export Credits» può essere consultato gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/) &gt; Topics &gt; Trade &gt; Export credits &gt; Arrangement and Sector Understandings.
 [^65a-3]: La classificazione del rischio Paese può essere consultata gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/financing-terms-and-conditions/country-risk-classification/) &gt; Topics &gt; Trade &gt; Export credits &gt; Arrangement and Sector Understandings &gt; Country risk classification.
 
@@ -1778,7 +1778,7 @@ Per le categorie di tale classificazione del rischio Paese si applicano i seguen
 
 <sup>5</sup> Nel caso delle posizioni sotto forma di strumenti di capitale proprio di imprese attive nel settore finanziario, la ponderazione in funzione del rischio secondo i capoversi 3 e 4 si riferisce alla parte della posizione netta di cui all’articolo 52 non dedotta dai fondi propri in base all’approccio di deduzione corrispondente (art. 33).
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 66a
 
@@ -1788,7 +1788,7 @@ Per le categorie di tale classificazione del rischio Paese si applicano i seguen
 
 <sup>2</sup> Per le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^66a-2], il capoverso 1 non si applica alle posizioni nei confronti di mutuatari con sede o domicilio in Svizzera.
 
-[^66a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^66a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^66a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 67
@@ -1797,7 +1797,7 @@ Per le categorie di tale classificazione del rischio Paese si applicano i seguen
 
 Se l’autorità di vigilanza di un Paese diverso dalla Svizzera prevede, per le posizioni in valuta locale nei confronti del governo centrale o della banca centrale di tale Paese, una ponderazione in funzione del rischio inferiore rispetto a quella prevista dall’articolo 66 capoverso 1, le banche possono ponderare in modo analogo tali posizioni, sempreché queste siano rifinanziate nella valuta locale di detto Paese e la vigilanza sulle banche in detto Paese sia adeguata. Questa ponderazione in funzione del rischio si applica alla quota di questa posizione rifinanziata in valuta locale.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 68
 
@@ -1807,7 +1807,7 @@ Se l’autorità di vigilanza di un Paese diverso dalla Svizzera prevede, per le
 
 <sup>2</sup> Per la ponderazione in funzione del rischio di posizioni nei confronti di banche non si possono utilizzare rating esterni basati su una garanzia implicita dello Stato, ad eccezione delle banche di proprietà statale.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 68a
 
@@ -1829,7 +1829,7 @@ Le posizioni nei confronti di una banca senza rating esterno sono assegnate alle
 
 <sup>5</sup> Le posizioni nei confronti di una banca senza rating esterno la cui richiesta di ricorrere alle semplificazioni di cui all’articolo 47*a* è stata autorizzata dalla FINMA sono assegnate alle sottoclassi di posizione A–C unicamente in base alla solvibilità della banca. Non si applicano le condizioni di cui ai capoversi 2–4.
 
-[^68a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^68a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 69
 
@@ -1848,7 +1848,7 @@ Le posizioni nei confronti di una banca assegnata alla sottoclasse di posizione 
 
 <sup>4</sup> Le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^69-2] possono rinunciare all’assegnazione a sottoclassi di posizione per le posizioni nei confronti di una banca senza rating esterno. Ciò si applica anche alle banche della categoria 3 secondo l’allegato 3 OBCR che dispongono di posizioni non rilevanti nei confronti di banche senza rating esterno. In caso di rinuncia alle sottoclassi di posizione, ai crediti è assegnato, in funzione della loro durata originaria, un fattore di ponderazione del rischio del 35 per cento o del 60 per cento (all. 3 n. 4). La FINMA emana disposizioni di esecuzione tecniche.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^69-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 70
@@ -1865,7 +1865,7 @@ Le posizioni nei confronti di una banca assegnata alla sottoclasse di posizione 
 
 <sup>5</sup> Le posizioni nei confronti di PMI, escluse le posizioni garantite direttamente o indirettamente da pegno immobiliare, possono essere assegnate alla classe di posizione «retail» (art. 71) se soddisfano le condizioni relative alle posizioni «retail» qualificate. Devono essere ponderate secondo l’allegato 3 numeri 1.1 e 1.2.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^70-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 70a
@@ -1895,7 +1895,7 @@ Le posizioni nei confronti di imprese, escluse le posizioni garantite direttamen
 
 <sup>3</sup> Le banche delle categorie 3–5 secondo l’allegato 3 OBCR[^70a-2] non devono identificare come tali le posizioni di cui al capoverso 1 lettera a numeri 2 e 3. Esse possono ponderarle in funzione del rischio applicando il fattore previsto per le posizioni nei confronti di imprese senza rating.
 
-[^70a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^70a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^70a-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 70b
@@ -1908,7 +1908,7 @@ Le posizioni nei confronti di imprese, escluse le posizioni garantite direttamen
 
 <sup>3</sup> Sono considerate finanziamenti di progetti di elevata qualità le posizioni nei confronti di imprese in grado di adempiere puntualmente i propri obblighi finanziari anche in condizioni economiche o aziendali avverse. I finanziamenti di progetti devono altresì adempiere le ulteriori esigenze di cui al numero 20.52 CRE[^70b-2]. La FINMA emana disposizioni di esecuzione tecniche.
 
-[^70b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^70b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^70b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 71
@@ -1926,7 +1926,7 @@ Le posizioni «retail» devono essere ponderate come posizioni «retail» qualif
 
 <sup>3</sup> I derivati e gli altri titoli non vanno classificati come posizioni «retail» qualificate.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 71a
 
@@ -1934,7 +1934,7 @@ Le posizioni «retail» devono essere ponderate come posizioni «retail» qualif
 
 Le obbligazioni fondiarie svizzere sono obbligazioni fondiarie conformemente alla legge del 25 giugno 1930[^71a-2] sulle obbligazioni fondiarie. Devono essere ponderate secondo l’allegato 3 numero 2.
 
-[^71a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^71a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^71a-2]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 
 #### Art. 71b
@@ -1960,7 +1960,7 @@ I titoli di credito esteri coperti possono essere assegnati a questa classe di p
 - e. il valore nominale dei valori patrimoniali utilizzati per la copertura deve superare di almeno il 10 per cento il valore nominale dei titoli di credito esteri coperti emessi dall’istituto. Se le norme di legge di cui alla lettera b non prevedono tale sovracopertura, l’istituto deve dimostrare pubblicamente e regolarmente il rispetto di tale esigenza;
 - f. la banca si procura almeno ogni sei mesi dall’emittente dei titoli di credito esteri coperti le informazioni di cui al numero 20.37 CRE[^71b-2].
 
-[^71b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^71b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^71b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 72
@@ -1979,7 +1979,7 @@ I titoli di credito esteri coperti possono essere assegnati a questa classe di p
 
 <sup>6</sup> Gli immobili utilizzati a scopo sia abitativo sia commerciale sono assegnati in funzione del loro tipo di uso prevalente. Il rispettivo fattore di ponderazione del rischio per immobili a uso proprio può essere applicato solo se l’immobile è prevalentemente destinato a uso proprio per entrambi i tipi di uso.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 72a
 
@@ -1993,7 +1993,7 @@ I titoli di credito esteri coperti possono essere assegnati a questa classe di p
 
 <sup>4</sup> Eventuali crediti di pari rango o di rango anteriore vanno inclusi nel calcolo del tasso di anticipo.
 
-[^72a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 72b
 
@@ -2020,7 +2020,7 @@ Il valore di anticipo deve essere verificato nel caso di:
 
 <sup>8</sup> La FINMA disciplina in dettaglio le prescrizioni relative alle direttive interne, precisando in particolare cosa si intende per determinazione dei valori di anticipo improntata alla cautela.
 
-[^72b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 72c
 
@@ -2062,10 +2062,11 @@ Se le esigenze di cui ai capoversi 1–3 non sono adempiute, il fattore di ponde
 
 - b. per immobili d’abitazione o commerciali non a uso proprio: al 150 per cento.
 
-<sup>6</sup> Per i crediti di rango posteriore il fattore di ponderazione del rischio secondo l’allegato 3 numero 3 risultante dal tasso di anticipo va moltiplicato per 1,25, a meno che corrisponda al fattore più basso nel singolo caso secondo l’allegato 3 numeri 3.1–3.4. Il fattore di ponderazione del rischio che ne deriva corrisponde al massimo al fattore di cui al capoverso 5.
+<sup>6</sup> Per i crediti di rango posteriore il fattore di ponderazione del rischio secondo l’allegato 3 numero 3 risultante dal tasso di anticipo va moltiplicato per 1,25, a meno che corrisponda al fattore più basso nel singolo caso secondo l’allegato 3 numeri 3.1–3.4. Il fattore di ponderazione del rischio che ne deriva corrisponde al massimo al fattore di cui al capoverso 5.[^72c-3]
 
-[^72c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72c-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^72c-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^72c-3]: La correzione del 24 gen. 2025 concerne soltanto il testo francese ([RU 2025 61](https://fedlex.data.admin.ch/eli/oc/2025/61)).
 
 #### Art. 72d
 
@@ -2075,7 +2076,7 @@ Se le esigenze di cui ai capoversi 1–3 non sono adempiute, il fattore di ponde
 
 <sup>2</sup> La FINMA disciplina in dettaglio le prescrizioni relative alle direttive interne, precisando in particolare cosa si intende per garanzia durevole e sistematica della sostenibilità e per calcolo dei costi figurativi improntato alla cautela.
 
-[^72d-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72d-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 72e
 
@@ -2091,7 +2092,7 @@ Se le esigenze di cui ai capoversi 1–3 non sono adempiute, il fattore di ponde
 
 <sup>5</sup> I crediti di costruzione e i crediti per terreni edificabili relativi a immobili commerciali non a uso proprio sono ponderati al 150 per cento.
 
-[^72e-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72e-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 72f
 
@@ -2107,7 +2108,7 @@ I patrimoni di previdenza costituiti in pegno conformemente all’articolo 30*b*
 - b. l’immobile sia un immobile d’abitazione a uso proprio; e
 - c. le esigenze minime di cui all’articolo 72*c* capoverso 3 siano adempiute.
 
-[^72f-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72f-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^72f-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^72f-3]: [RS 831.461.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10116)
 
@@ -2117,7 +2118,7 @@ I patrimoni di previdenza costituiti in pegno conformemente all’articolo 30*b*
 
 La FINMA emana disposizioni di esecuzione tecniche relative alle posizioni garantite direttamente o indirettamente da pegno immobiliare. A tale scopo si fonda sullo standard CRE[^72g-2]. In deroga allo standard CRE, essa disciplina nel quadro dell’articolo 72*f* capoverso 2 la computabilità di patrimoni di previdenza costituiti in pegno.
 
-[^72g-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72g-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^72g-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 #### Art. 73
@@ -2129,14 +2130,14 @@ Le posizioni nette in strumenti partecipativi devono essere ponderate conformeme
 - a. devono essere dedotte dalle componenti dei fondi propri conformemente agli articoli 31–40; o
 - b. devono essere ponderate conformemente all’articolo 40 capoverso 2.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^73-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 74 a 76
 
 [^7476-1]
 
-[^7476-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^7476-1]: Abrogati dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 4: Approccio basato sui rating interni
 
@@ -2161,14 +2162,14 @@ Le banche che applicano l’IRB per il calcolo dei fondi propri minimi relativi 
 
 <sup>6</sup> In assenza di regolamentazione in ambito di IRB, si applicano per analogia le disposizioni dell’AS-BRI.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^77-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
 
 ### Sezione 5: Disposizioni comuni per la ponderazione in funzione del rischio secondo l’AS-BRI e l’IRB
 
 [^tit3-chap2-sec5-1]
 
-[^tit3-chap2-sec5-1]: Introdotta dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^tit3-chap2-sec5-1]: Introdotta dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 77a
 
@@ -2345,7 +2346,7 @@ Le banche che applicano l’approccio base per calcolare i fondi propri minimi p
 
 [^7879-1]
 
-[^7879-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^7879-1]: Abrogati dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Capitolo 4: Rischi di mercato
 
@@ -2355,7 +2356,7 @@ Le banche che applicano l’approccio base per calcolare i fondi propri minimi p
 
 [^80-1]
 
-[^80-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^80-1]: Abrogato dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 81
 
@@ -2369,7 +2370,7 @@ Le banche che applicano l’approccio base per calcolare i fondi propri minimi p
 - d. oro (rischio di prezzo dell’oro);
 - e. materie prime, inclusi i metalli preziosi, ad eccezione dell’oro, ed elettricità (rischio delle materie prime).
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 81a
 
@@ -2379,7 +2380,7 @@ Le banche che applicano l’approccio base per calcolare i fondi propri minimi p
 
 <sup>2</sup> Per le posizioni del portafoglio della banca vanno calcolati i fondi propri minimi che sono necessari per la copertura del rischio di cambio, del rischio di prezzo dell’oro e del rischio delle materie prime.
 
-[^81a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^81a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 81b
 
@@ -2400,7 +2401,7 @@ Le posizioni assunte o mantenute per coprire interamente o parzialmente contro i
 
 <sup>3</sup> La FINMA disciplina le prescrizioni relative alle direttive interne di cui al capoverso 2 lettera d emanando disposizioni di esecuzione tecniche. A tale scopo si fonda sul numero 11.3 MAR[^81b-2].
 
-[^81b-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^81b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^81b-2]: Lo standard MAR è riportato nell’all. 1 n. 5.
 
 #### Art. 81c
@@ -2416,7 +2417,7 @@ Previa approvazione della FINMA, la banca può considerare nel calcolo dei fondi
 - a. sia un «market maker» attivo su tali strumenti; e
 - b. disponga di sistemi e controlli adeguati per la negoziazione di tali posizioni.
 
-[^81c-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^81c-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 82
 
@@ -2439,13 +2440,13 @@ Per le posizioni seguenti i fondi propri minimi non possono essere calcolati sec
 - a. cartolarizzazioni;
 - b. quote di patrimoni collettivi gestiti che secondo l’articolo 5 capoverso 3 lettera c sono assegnati al portafoglio di negoziazione e delle quali non è possibile conoscere con precisione gli investimenti sottostanti.
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 2: Approccio standard semplice dei rischi di mercato
 
 [^tit3-chap4-sec2-1]
 
-[^tit3-chap4-sec2-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^tit3-chap4-sec2-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 83
 
@@ -2533,7 +2534,7 @@ I fondi propri minimi prima della moltiplicazione per il fattore scalare che son
 
 [^tit3-chap4-sec3-1]
 
-[^tit3-chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^tit3-chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 87
 
@@ -2560,14 +2561,14 @@ La FINMA disciplina le condizioni di autorizzazione e precisa le modalità di ca
 
 <sup>3</sup> La FINMA stabilisce nel singolo caso il moltiplicatore previsto nell’approccio modello dei rischi di mercato. Il moltiplicatore ammonta almeno a 1,5. Per determinarlo, la FINMA tiene conto dell’adempimento delle condizioni di autorizzazione e dell’esattezza delle previsioni del modello di aggregazione del rischio specifico all’istituto.
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^88-2]: Lo standard MAR è riportato nell’all. 1 n. 5.
 
 ### Capitolo 5: Rischi operativi
 
 [^tit3-chap5-1]
 
-[^tit3-chap5-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^tit3-chap5-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 89
 
@@ -2751,7 +2752,7 @@ Nel calcolo della perdita lorda non possono essere considerati:
 
 <sup>2</sup> Le banche devono identificare i grandi rischi e gli altri rischi di credito rilevanti nei confronti di una singola controparte o di un gruppo di controparti associate, sorvegliarli e osservare i relativi obblighi di comunicazione.
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 96
 
@@ -2772,8 +2773,8 @@ Nel calcolo della posizione complessiva non devono essere considerate:
 
 <sup>5</sup> La posizione complessiva nei confronti di un gruppo di controparti associate risulta dalla somma delle posizioni complessive nei confronti delle singole controparti.
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^96-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^96-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 2: Limiti massimi dei grandi rischi
 
@@ -2794,8 +2795,8 @@ Questo limite massimo non si applica:
 
 <sup>3</sup> La determinazione delle posizioni si basa sull’articolo 119 capoverso 3.
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^97-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^97-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 98
 
@@ -2803,7 +2804,7 @@ Questo limite massimo non si applica:
 
 Per le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^98-2] il limite massimo di singoli grandi rischi nei confronti di banche che non hanno rilevanza sistemica e di società di intermediazione mobiliare assegnate alla classe di posizione «banche» secondo l’articolo 68 capoverso 1 ammonta al 100 per cento dei fondi propri di base computabili corretti conformemente agli articoli 31–40.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^98-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 99
@@ -2818,13 +2819,13 @@ Per le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^98-2] il limite
 
 <sup>4</sup> L’importo che supera il limite massimo a seguito di una riunione secondo il capoverso 3 non può essere ulteriormente aumentato in modo attivo. L’eccedenza deve essere eliminata entro due anni a decorrere dall’esecuzione legale della riunione.
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^99-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 ### Sezione 3: Obblighi di comunicazione in relazione ai grandi rischi e ad altri rischi di credito rilevanti
 
 [^tit4-chap1-sec3-1]
 
-[^tit4-chap1-sec3-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^tit4-chap1-sec3-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 100
 
@@ -2866,8 +2867,8 @@ Devono essere comunicati segnatamente:
 
 <sup>9</sup> La società di audit esamina i sistemi di controllo interno alla banca implementati per garantire la corretta identificazione e comunicazione dei rischi e valuta l’evoluzione di questi ultimi.
 
-[^100-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^100-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^100-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^100-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 101
 
@@ -2875,7 +2876,7 @@ Devono essere comunicati segnatamente:
 
 Se constata che un grande rischio supera il limite massimo, senza che si tratti di un’eccezione ai sensi dell’articolo 99, la banca deve darne immediatamente comunicazione alla società di audit e alla FINMA e correggere l’eccedenza entro breve termine. Tale termine deve essere approvato dalla FINMA. Sono esclusi dall’obbligo di comunicazione immediata i superamenti del limite massimo dovuti all’osservanza del principio della contabilizzazione alla data di negoziazione e relativi a operazioni che, in base ai giorni di valuta, saranno regolate nei due giorni feriali bancari successivi o che a causa di giorni festivi all’estero saranno regolate nei tre giorni feriali bancari successivi.
 
-[^101-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^101-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 102
 
@@ -2883,7 +2884,7 @@ Se constata che un grande rischio supera il limite massimo, senza che si tratti 
 
 La banca deve redigere trimestralmente una comunicazione sulle posizioni interne al gruppo di cui all’articolo 111*a* e trasmetterla alla società di audit, alla FINMA nonché all’organo competente per la direzione generale, la vigilanza e il controllo, unitamente alla comunicazione dei grandi rischi esistenti secondo l’articolo 100. In questo contesto va operata una distinzione tra società del gruppo secondo l’articolo 111*a* capoverso 1 e società del gruppo secondo l’articolo 111*a* capoverso 3.
 
-[^102-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^102-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 4: Principi di calcolo
 
@@ -2909,7 +2910,7 @@ Le posizioni specifiche agli emittenti per impegni fissi di sottoscrizione di em
 
 [^104105-1]
 
-[^104105-1]: Abrogati dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^104105-1]: Abrogati dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 106
 
@@ -2917,13 +2918,13 @@ Le posizioni specifiche agli emittenti per impegni fissi di sottoscrizione di em
 
 Le transazioni non regolate dopo il quinto giorno feriale bancario (art. 77*f*) devono essere incluse nella posizione complessiva al loro valore d’esposizione.
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^106-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 107 e 108
 
 [^107108-1]
 
-[^107108-1]: Abrogati dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^107108-1]: Abrogati dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 109
 
@@ -2950,7 +2951,7 @@ Le imprese dell’ente pubblico giuridicamente indipendenti non sono considerate
 - a. l’ente di diritto pubblico non risponde per legge degli impegni dell’impresa; o
 - b. l’impresa è una banca.
 
-[^109-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^109-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 110
 
@@ -2981,7 +2982,7 @@ Se la banca fa parte di un gruppo finanziario o di un conglomerato finanziario s
 
 <sup>3</sup> Le posizioni interne al gruppo nei confronti di altre società del gruppo sottostanno in modo aggregato al limite massimo ordinario del 25 per cento dei fondi propri di base computabili corretti conformemente agli articoli 31–40.
 
-[^111a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^111a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 ### Sezione 5: Allentamenti e inasprimenti
 
@@ -3006,14 +3007,14 @@ La FINMA può inoltre allentare o inasprire le norme in materia di ripartizione 
 - i. consentire, in circostanze particolari che la banca deve motivare, che le parti interessate non siano considerate un gruppo di controparti associate, anche se adempiono le condizioni previste all’articolo 109 capoverso 1;
 - j. consentire che le controparti non siano considerate un gruppo di controparti associate, a condizione che la banca dimostri che una controparte possa risolvere i problemi finanziari o l’inadempienza di una controparte strettamente legata a essa sotto il profilo economico e trovare un altro partner commerciale o un altro finanziatore entro un termine ragionevole.
 
-[^112-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^112-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^112-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 ### Capitolo 2: Calcolo della posizione complessiva
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^tit4-chap2-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 ### Sezione 1: Ponderazione
 
@@ -3029,7 +3030,7 @@ Devono essere ponderate diversamente le posizioni:
 - b. in obbligazioni fondiarie svizzere emesse secondo la legge del 25 giugno 1930[^113-2] sulle obbligazioni fondiarie: con l’aliquota del 10 per cento;
 - c. in titoli di credito coperti di cui all’articolo 118 capoverso 1 lettera c: con l’aliquota del 20 per cento.
 
-[^113-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^113-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^113-2]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 
 ### Sezione 2: Somma
@@ -3050,7 +3051,7 @@ Per la determinazione della posizione complessiva nei confronti di una contropar
 
 <sup>3</sup> I valori delle posizioni per le operazioni di finanziamento di titoli detenute nel portafoglio della banca o nel portafoglio di negoziazione devono essere calcolati secondo l’approccio semplice o completo (art. 62); gli approcci modello non possono essere applicati. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea per i grandi rischi (LEX)[^115-2].
 
-[^115-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^115-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^115-2]: Lo standard LEX è riportato nell’all. 1 n. 8.
 
 #### Art. 116
@@ -3059,7 +3060,7 @@ Per la determinazione della posizione complessiva nei confronti di una contropar
 
 Per le posizioni in bilancio detenute nel portafoglio della banca che non rientrano nel campo di applicazione dell’articolo 115, è determinante il valore contabile secondo la presentazione dei conti. Le singole rettifiche di valore possono essere dedotte. In alternativa la banca può utilizzare anche il valore lordo senza dedurre le singole rettifiche di valore e gli adeguamenti di valore.
 
-[^116-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^116-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 117
 
@@ -3076,7 +3077,7 @@ Agli impegni di credito irrevocabili nell’ambito di un credito sindacato devon
 - c. 0,5 per la quota non sindacata durante la fase di sindacazione, nonché 1 per la quota propria prevista;
 - d. 1,0 per l’intera quota non sindacata dopo 90 giorni (rischio residuo).
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 118
 
@@ -3096,7 +3097,7 @@ La FINMA disciplina il calcolo:
 
 [^118-1]: Lo standard LEX è riportato nell’all. 1 n. 8.
 [^118-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
-[^118-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^118-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ### Sezione 4: Riduzione dei rischi
 
@@ -3127,10 +3128,10 @@ Inoltre, essa può prevedere agevolazioni:
 - a. se il limite massimo dei grandi rischi viene superato soltanto temporaneamente;
 - b. per la registrazione di posizioni indirette che presentano rischi di credito ridotti a seguito dell’esistenza di garanzie finanziarie.[^119-4]
 
-[^119-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^119-2]: Lo standard LEX è riportato nell’all. 1 n. 8.
-[^119-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^119-4]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^119-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^119-4]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 120 a 123
 
@@ -3159,10 +3160,10 @@ Le esigenze particolari devono essere adempiute a livello di gruppo finanziario,
 
 <sup>4</sup> In singoli casi, la FINMA può escludere le unità che esercitano funzioni di rilevanza sistemica, ma la cui partecipazione diretta alle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario non supera globalmente la quota del 5 per cento o la cui importanza per il mantenimento delle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario è altrimenti esigua.[^124-4]
 
-[^124-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^124-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 [^124-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^124-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^124-4]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^124-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^124-4]: Introdotto dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 124a
 
@@ -3174,25 +3175,25 @@ Le esigenze particolari devono essere adempiute a livello di gruppo finanziario,
 
 <sup>3</sup> Le altre banche di rilevanza sistemica non sono considerate attive a livello internazionale.
 
-[^124a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^124a-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 125
 
 [^125-1]
 
-[^125-1]: Abrogato dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^125-1]: Abrogato dalla cifra I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 #### Art. 125a
 
 [^125a-1]
 
-[^125a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^125a-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 ### Capitolo 2: Capitale convertibile e strumenti di debito a copertura delle perdite nell’applicazione di misure in caso di insolvenza
 
 [^tit5-chap2-1]
 
-[^tit5-chap2-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^tit5-chap2-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 126
 
@@ -3208,7 +3209,7 @@ Il capitale convertibile è emesso a destinazione di investitori esterni al grup
 - b. da una società del gruppo creata appositamente a tale scopo da gruppi finanziari e da conglomerati finanziari a predominanza bancaria; o
 - c. da un’altra società del gruppo, previa approvazione della FINMA.
 
-[^126-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^126-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 126a
 
@@ -3234,10 +3235,10 @@ Gli strumenti di debito a copertura delle perdite nell’applicazione di misure 
 
 <sup>3</sup> La FINMA deve essere informata in merito al rimborso di «bail-in bond» o di prestiti di cui ai capoversi 1 e 2, emessi con la sua approvazione e da rimborsare prima della loro scadenza senza la sua approvazione.[^126a-4]
 
-[^126a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^126a-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^126a-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^126a-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^126a-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^126a-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^126a-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^126a-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 #### Art. 126b
 
@@ -3255,7 +3256,7 @@ Le unità svizzere di banche di rilevanza sistemica subordinate alla società ma
 
 <sup>3</sup> Gli strumenti di debito di cui al capoverso 1 possono essere computati per l’ammontare del credito soltanto se la loro durata residua è di almeno un anno.
 
-[^126b-1]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^126b-1]: Introdotto dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 127
 
@@ -3272,8 +3273,8 @@ Il capitale convertibile è computabile a titolo di componente dei fondi propri 
 
 <sup>3</sup> ...[^127-2]
 
-[^127-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^127-2]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^127-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^127-2]: Abrogato dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 127a
 
@@ -3294,17 +3295,17 @@ Le banche di rilevanza sistemica non possono detenere a proprio rischio né stru
 - a. le posizioni in relazione alla definizione di corsi d’acquisto e di vendita nella funzione di «market maker» nonché le posizioni detenute a corto termine in relazione con operazioni d’emissione; e
 - b. la detenzione di «bail-in bond» nell’ambito degli articoli 37 e 38 nel portafoglio di negoziazione della banca, se questi «bail-in bond» sono rivenduti entro 30 giorni operativi dalla data di acquisto.[^127a-5]
 
-[^127a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^127a-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^127a-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^127a-3]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^127a-4]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^127a-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-4]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-5]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 ### Capitolo 3: Fondi propri necessari alla continuazione dell’attività ordinaria della banca
 
 [^tit5-chap3-1]
 
-[^tit5-chap3-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^tit5-chap3-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 128
 
@@ -3319,7 +3320,7 @@ I fondi propri necessari sono calcolati in base:
 - a. al «leverage ratio»; e
 - b.[^128-1] alla quota dell’insieme delle posizioni ponderate in funzione del rischio di cui all’articolo 42*b* (quota di RWA).
 
-[^128-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^128-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 129
 
@@ -3340,7 +3341,7 @@ L’esigenza di base ammonta al:
 
 <sup>5</sup> Il DFF verifica regolarmente i valori e i supplementi definiti nell’allegato 9 in relazione con la stabilità del sistema e la competitività delle banche di rilevanza sistemica e propone al Consiglio federale eventuali adeguamenti.[^129-1]
 
-[^129-1]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^129-1]: Introdotto dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 130
 
@@ -3395,7 +3396,7 @@ In circostanze particolari la FINMA può esigere, nel singolo caso, fondi propri
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^tit5-chap4-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 132
 
@@ -3433,7 +3434,7 @@ L’esigenza relativa a questi fondi supplementari è calcolata in base all’es
 
 <sup>7</sup> Se in precedenza ha detenuto fondi propri per adempiere le esigenze di cui al presente capitolo, la banca può successivamente impiegare tali fondi per adempiere le esigenze di cui agli articoli 128–131*b* soltanto se le esigenze del presente articolo continuano a essere adempiute con i fondi residui.
 
-[^132-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^132-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 [^132-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^132-3]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^132-4]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
@@ -3448,7 +3449,7 @@ L’esigenza relativa a questi fondi supplementari è calcolata in base all’es
 
 <sup>2</sup> Per le unità di cui all’articolo 124 capoverso 3 lettere b–d, l’ammontare delle esigenze relative ai fondi supplementari, tenuto conto della riduzione delle esigenze di cui al capoverso 1, non può scendere sotto il 3,75 per cento per il «leverage ratio» e sotto il 10 per cento per la quota di RWA.
 
-[^132a-1]: Introdotto dal n. I dell’O del 21 nov. 2018 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132a-1]: Introdotto dalla cifra I dell’O del 21 nov. 2018 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 132b
 
@@ -3500,10 +3501,10 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 
 <sup>4</sup> Per il resto si applicano le disposizioni sulla ripartizione dei rischi di cui al titolo quarto.[^136-4]
 
-[^136-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
-[^136-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^136-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^136-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^136-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^136-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^136-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^136-4]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ## Titolo sesto: Disposizioni transitorie e finali
 
@@ -3513,43 +3514,43 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 
 [^tit6-chap1-sec1-1]
 
-[^tit6-chap1-sec1-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^tit6-chap1-sec1-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 137 e 138
 
 [^137138-1]
 
-[^137138-1]: Abrogati dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^137138-1]: Abrogati dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 139 a 142
 
 [^139142-1]
 
-[^139142-1]: Abrogati dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^139142-1]: Abrogati dalla cifra I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 143 a 147
 
 [^143147-1]
 
-[^143147-1]: Abrogati dal n. I dell’O dell’11 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^143147-1]: Abrogati dalla cifra I dell’O dell’11 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 148
 
 [^148-1]
 
-[^148-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^148-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
 #### Art. 148a
 
 [^148a-1]
 
-[^148a-1]: Introdotto dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). Abrogato dal n. I dell’O dell’11 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^148a-1]: Introdotto dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). Abrogato dalla cifra I dell’O dell’11 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 ### Sezione 2: Disposizioni transitorie della modifica dell’11 maggio 2016
 
 [^tit6-chap1-sec2-1]
 
-[^tit6-chap1-sec2-1]: Introdotta dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^tit6-chap1-sec2-1]: Introdotta dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 148b
 
@@ -3576,7 +3577,7 @@ Riguardo alla qualità del capitale richiesta secondo l’articolo 131, il capit
 
 [^tit6-chap1-sec3-1]
 
-[^tit6-chap1-sec3-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^tit6-chap1-sec3-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 148c
 
@@ -3688,9 +3689,9 @@ Allegato 1[^t-2]
 
 ## Standard minimi di Basilea
 
-[^t-2]: Introdotto dal n. II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-2]: Introdotto dalla cifra II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-Consultabili su [www.sif.admin.ch](https://www.sif.admin.ch/sif/it/home/finanzmarktpolitik/regolamentazione-mercati-finanziari/basler-mindeststandards.html) &gt; Politica e strategia dei mercati finanziari &gt; Regolamentazione dei mercati finanziari &gt; Standard minimi di Basilea
+Consultabili su [www.sif.admin.ch](https://www.sif.admin.ch/sif/it/home/finanzmarktpolitik/regolamentazione-mercati-finanziari/basler-mindeststandards.html) &gt; Politica e strategia dei mercati finanziari &gt; Regolamentazione dei mercati finanziari &gt; Basilea III &gt; Standard minimi di Basilea
 
 <table>
 <tr><th>Numero</th><th>Titolo</th><th>Data di riferimento</th></tr>
@@ -3817,7 +3818,7 @@ Allegato 1a[^t-3]
 
 ## Fattori di conversione del credito per operazioni fuori bilancio in caso di applicazione dell’AS-BRI
 
-[^t-3]: Originario all. 1. Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-3]: Originario all. 1. Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th></th><th>Posizioni</th><th>Fattori di conversione del credito</th></tr>
@@ -3843,7 +3844,7 @@ Allegato 2[^t-4]
 
 ## Classi di posizione secondo l’AS-BRI in caso di utilizzo di rating esterni e fattori di ponderazione del rischio
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th></th><th>Classi di posizione</th><th colspan="12">Classi di rating</th></tr>
@@ -3892,7 +3893,7 @@ Allegato 3[^t-5]
 
 ## Classi di posizione secondo l’AS-BRI senza utilizzo di rating esterni e fattori di ponderazione del rischio
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th></th><th>Classi di posizione</th><th>Fattori di ponderazione del rischio</th></tr>
@@ -3943,7 +3944,7 @@ Allegato 4[^t-6]
 
 ## Fattori di ponderazione del rischio di titoli di partecipazione e di altri strumenti partecipativi secondo l’AS-BRI
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th></th><th>Classi di posizione</th><th>Fattori di ponderazione del rischio</th></tr>
@@ -3962,11 +3963,11 @@ Allegato 4a[^t-7]
 
 ## Fondi propri minimi per i contributi al fondo di garanzia di controparti centrali qualificate
 
-[^t-7]: Introdotto dal n. II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-7]: Introdotto dalla cifra II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 I fondi propri minimi per i contributi di una banca quale membro compensatore di una controparte centrale qualificata al fondo di garanzia si calcolano secondo la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image1.png)
 
 Legenda:
 
@@ -3988,7 +3989,7 @@ Allegato 5[^t-8]
 
 ## Aliquote per il calcolo dei fondi propri richiesti per la copertura del rischio specifico di tasso d’interesse secondo l’approccio standard semplice dei rischi di mercato
 
-[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-8]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 <table>
 <tr><th>Categoria</th><th>Classe di rating</th><th>Durata residua</th><th>Aliquota</th></tr>
@@ -4013,25 +4014,25 @@ Allegato 5a[^t-9]
 
 ## Rischi operativi: approccio di calcolo
 
-[^t-9]: Introdotto dal n. II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-9]: Introdotto dalla cifra II cpv. 3 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 La sopralineatura indica che la relativa sottocomponente deve essere calcolata come media dei tre anni precedenti. Gli importi assoluti (Ias) vanno rilevati dapprima per ogni anno singolarmente e poi calcolati come media triennale.
 
 - **1.** **Componente di interessi e dividendi (ILDC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image2.png)
 
 - **2.** **Componente dei servizi (SC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image3.png)
 
 - **3.** **Componente finanziaria (FC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image4.png)
 
 - **4.** **Moltiplicatore delle perdite interne (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image5.png)
 
 Legenda:
 
@@ -4053,7 +4054,7 @@ Allegato 7[^t-10]
 
 ## Cuscinetto anticiclico
 
-[^t-10]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-10]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 - 1\. Le banche sono obbligate a detenere un cuscinetto anticiclico sotto forma di fondi propri di base di qualità primaria per le posizioni di credito garantite direttamente o indirettamente da pegno immobiliare per immobili d’abitazione in Svizzera secondo l’articolo 72.
 - 2\. Il cuscinetto ammonta al 2,5 per cento delle posizioni di credito di cui al numero 1 ponderate in funzione del rischio. Per le banche che applicano l’IRB per calcolare i fondi propri minimi relativi ai rischi di credito, le posizioni di credito ponderate in funzione del rischio corrispondono alle posizioni di credito ponderate secondo l’IRB, ma almeno al 72,5 per cento delle posizioni di credito ponderate secondo l’AS-BRI.
@@ -4064,7 +4065,7 @@ Allegato 8[^t-11]
 
 ## Fondi propri minimi e cuscinetto di fondi propri
 
-[^t-11]: Introdotto dal n. II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-11]: Introdotto dalla cifra II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 in % dell’insieme delle posizioni ponderate in funzione del rischio secondo l’articolo 42*b*
 
@@ -4089,7 +4090,7 @@ Allegato 9[^t-12]
 
 ## Supplementi
 
-[^t-12]: Introdotto dal n. II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aggiornato dal n. II dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^t-12]: Introdotto dalla cifra II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aggiornato dalla cifra II dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 ### 1 Supplementi per la quota di mercato
 

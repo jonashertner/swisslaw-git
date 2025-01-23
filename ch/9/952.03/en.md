@@ -4,11 +4,11 @@ title: "Ordinance of 1 June 2012 on the Capital Adequacy and Risk Diversificatio
 short: CAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: en
-version: 2025-01-01
+version: 2025-01-24
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Capital Adequacy Ordinance, CAO)
 
-of 1 June 2012 (Last amended on 1 January 2025)
+of 1 June 2012 (Last amended on 24 January 2025)
 
 [^t-1]: Amended by Annex 1 No II 10 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2056,10 +2056,11 @@ If the prerequisites under paragraphs 1 to 3 are not met, the risk weight shall 
 
 - b. for non-owner-occupied residential real estate and non-owner-occupied commercial real estate: 150%.
 
-<sup>6</sup> For subordinate claims, the risk weight under Annex 3 No 3 based on the loan-to-value ratio must be multiplied by a factor of 1.25, unless it is the lowest risk weight under Annex 3 Nos 3.1 to 3.4. The resulting risk weight shall correspond to, at most, the risk weight under paragraph 5.
+<sup>6</sup> For subordinate claims, the risk weight under Annex 3 No 3 based on the loan-to-value ratio must be multiplied by a factor of 1.25, unless it is the lowest risk weight under Annex 3 Nos 3.1 to 3.4. The resulting risk weight shall correspond to, at most, the risk weight under paragraph 5.[^72c-3]
 
 [^72c-1]: Inserted by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^72c-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^72c-3]: The correction of 24 Jan. 2025 concerns the French text only ([AS 2025 61](https://fedlex.data.admin.ch/eli/oc/2025/61)).
 
 #### Art. 72d
 
@@ -3962,7 +3963,7 @@ Annex 4a[^t-7]
 
 The minimum capital for a bank's contributions to the default fund as a clearing member of a qualifying central counterparty shall be calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/en/xml/image/image1.png)
 
 Formula key:
 
@@ -4023,7 +4024,7 @@ The overline indicates that the corresponding subcomponent is to be calculated a
 - [tab] *FC = Abs(net profit/loss on trading book) + Abs(net profit/loss on banking book)*
 - **4.** **Internal loss multiplier (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/en/xml/image/image2.png)
 
 Formula key:
 

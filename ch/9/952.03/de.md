@@ -4,11 +4,11 @@ title: "Verordnung vom 1. Juni 2012 über die Eigenmittel und Risikoverteilung d
 short: ERV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: de
-version: 2025-01-01
+version: 2025-01-24
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250101/de"
 
 (Eigenmittelverordnung, ERV)[^t-1]
 
-vom 1. Juni 2012 (Stand am 1. Januar 2025)
+vom 1. Juni 2012 (Stand am 24. Januar 2025)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 10 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2054,10 +2054,11 @@ Sind die Voraussetzungen nach den Absätzen 1–3 nicht erfüllt, so beträgt da
 
 - b. für nicht selbstgenutzte Wohnliegenschaften und nicht selbstgenutzte Gewerbeliegenschaften: 150 Prozent.
 
-<sup>6</sup> Bei nachrangigen Forderungen muss das gemäss Belehnungsgrad resultierende Risikogewicht nach Anhang 3 Ziffer 3 mit dem Faktor 1,25 multipliziert werden, ausser es entspricht dem nach Anhang 3 Ziffern 3.1–3.4 jeweils tiefsten Risikogewicht. Das resultierende Risikogewicht entspricht höchstens dem Risikogewicht nach Absatz 5.
+<sup>6</sup> Bei nachrangigen Forderungen muss das gemäss Belehnungsgrad resultierende Risikogewicht nach Anhang 3 Ziffer 3 mit dem Faktor 1,25 multipliziert werden, ausser es entspricht dem nach Anhang 3 Ziffern 3.1–3.4 jeweils tiefsten Risikogewicht. Das resultierende Risikogewicht entspricht höchstens dem Risikogewicht nach Absatz 5.[^72c-3]
 
 [^72c-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^72c-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^72c-3]: Die Berichtigung vom 24. Jan. 2025 betrifft nur den französischen Text ([AS 2025 61](https://fedlex.data.admin.ch/eli/oc/2025/61)).
 
 #### Art. 72d
 
@@ -3684,7 +3685,7 @@ Anhang 1[^t-2]
 
 [^t-2]: Eingefügt durch Ziff. II Abs. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
-Abrufbar unter [www.sif.admin.ch](http://www.sif.admin.ch) &gt; Finanzmarktpolitik und -strategie &gt; Finanzmarktregulierung &gt; Basler Mindeststandards
+Abrufbar unter [www.sif.admin.ch](http://www.sif.admin.ch) &gt; Finanzmarktpolitik und -strategie &gt; Finanzmarktregulierung &gt; Umsetzung Basel III &gt; Basler Mindeststandards
 
 <table>
 <tr><th>Ziffer</th><th>Titel</th><th>Referenzdatum</th></tr>
@@ -3960,7 +3961,7 @@ Anhang 4a[^t-7]
 
 Die Mindesteigenmittel für Beiträge einer Bank als Clearing-Mitglied einer qualifizierten zentralen Gegenpartei an den Ausfallfonds berechnen sich nach der folgenden Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image1.png)
 
 Hierin bezeichnen:
 
@@ -4013,19 +4014,19 @@ Die Überstreichung zeigt an, dass die entsprechende Unterkomponente als Durchsc
 
 - **1.** **Zins- und Dividendenkomponente (ILDC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image2.png)
 
 - **2.** **Dienstleistungskomponente (SC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image3.png)
 
 - **3.** **Finanzkomponente (FC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image4.png)
 
 - **4.** **Interner Verlustmultiplikator (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image5.png)
 
 Hierin bezeichnen:
 
