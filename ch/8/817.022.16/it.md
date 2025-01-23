@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente le informazioni sulle 
 short: OID
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: it
-version: 2024-02-01
+version: 2025-01-24
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-158-20240201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/it/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250124-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/it"
 
 (OID)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 24 gennaio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -26,7 +26,7 @@ visti gli articoli 12 capoversi 3 e 4, 14 capoverso 2 lettera b, 36 capoversi 3 
 ordina:
 
 [^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -92,8 +92,8 @@ Nel caso di imballaggi multipli (ossia di più prodotti uguali o diversi riuniti
 - a. figurano sui singoli imballaggi contenuti all’interno; e
 - b. sono leggibili dall’esterno per i consumatori oppure nel punto di vendita si provvede a informare in altro modo.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^3-3]: [RS 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
@@ -116,9 +116,9 @@ Nello stesso campo visivo della denominazione specifica devono figurare:
 - b.[^4-1] la dichiarazione concernente lʼimpiego di modalità di produzione vietate in Svizzera ai sensi dellʼarticolo 3 dellʼordinanza del 26 novembre 2003[^4-2] sulle dichiarazioni agricole;
 - c.[^4-3] le indicazioni di quantità ai sensi delle prescrizioni dellʼordinanza del 5 settembre 2012[^4-4] sulle indicazioni di quantità.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-2]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^4-3]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^4-3]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^4-4]: [RS 941.204](https://fedlex.data.admin.ch/eli/cc/2012/607)
 
 #### Art. 5
@@ -159,13 +159,13 @@ Per le derrate alimentari immesse sfuse sul mercato si applicano per le informaz
 
 <sup>3</sup> Le informazioni richieste devono essere disponibili al momento dell’offerta dei prodotti.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^5-2]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
-[^5-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 [^5-5]: Correzione del 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)).
-[^5-6]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)). Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^5-7]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^5-6]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)). Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^5-7]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Sezione 2: Denominazione specifica
 
@@ -201,7 +201,7 @@ Per le derrate alimentari immesse sfuse sul mercato si applicano per le informaz
 
 Le eccezioni stabilite dal DFI secondo lʼarticolo 14 capoverso 2 lettera b ODerr sono elencate nellʼallegato 5*a*.
 
-[^7a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^7a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Sezione 3: Elenco degli ingredienti
 
@@ -310,10 +310,10 @@ Le diciture secondo il capoverso 7 possono essere indicate con una denominazione
 
 <sup>9</sup> Se è possibile fornire la prova che singoli ingredienti, fabbricati con ingredienti di cui all’allegato 6, non provocano allergie o altre reazioni indesiderate, è consentito rinunciare alla loro indicazione secondo i capoversi 1, 3 e 5.
 
-[^11-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^11-4]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^11-4]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Sezione 5: Indicazione quantitativa degli ingredienti
 
@@ -340,7 +340,7 @@ La quantità di un ingrediente deve essere indicata se l’ingrediente è:
 
 <sup>3</sup> I dettagli concernenti l’indicazione della data, le eccezioni concernenti l’obbligo di datazione e l’indicazione della data di congelamento sono disciplinati nell’allegato 8.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Sezione 7: Condizioni di conservazione e di utilizzo
 
@@ -398,11 +398,11 @@ Sono considerati interamente fabbricati in un Paese:
 
 <sup>7</sup> Lʼindicazione del Paese di produzione può essere abbreviata qualora sia utilizzata unʼabbreviazione conforme al codice ISO-2 secondo lʼelenco dei Paesi per la statistica del commercio estero nella tariffa dʼuso nella versione del 1° gennaio 2019[^15-4]. Sono ammesse abbreviazioni solo per i Paesi riconosciuti dalla Svizzera.[^15-5]
 
-[^15-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^15-2]: Regolamento (UE) n. 1379/2013 del Parlamento europeo e del Consiglio, dell’11 dicembre 2013, relativo all’organizzazione comune dei mercati nel settore dei prodotti della pesca e dell’acquacoltura, recante modifica ai regolamenti (CE) n. 1184/2006 e (CE) n. 1224/2009 del Consiglio e che abroga il regolamento (CE) n. 104/2000 del Consiglio, GU L 354 del 28.12.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2020/560, GU L 130 del 20.4.2020, pag. 11.
-[^15-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^15-4]: La tariffa d’uso è consultabile o ottenibile gratuitamente presso la Direzione generale delle dogane, Monbijoustrasse 40, 3003 Berna.
-[^15-5]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^15-5]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 16
 
@@ -423,7 +423,7 @@ L’origine di una materia prima secondo l’articolo 15 capoverso 2 che è util
 
 <sup>4</sup> L’indicazione della provenienza di un ingrediente deve figurare nell’elenco degli ingredienti o nello stesso campo visivo.
 
-[^16-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^16-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^16-2]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
 
 #### Art 17
@@ -473,7 +473,7 @@ In deroga al capoverso 3, la carne fresca di suino, ovino, caprino e pollame pu�
 
 <sup>6</sup> Per la carne macinata venduta come tale è necessario indicare il Paese di produzione della carne macinata. Il Paese di origine della carne deve essere indicato solo se non coincide con quello di produzione della carne macinata.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Sezione 9: Tenore alcolico
 
@@ -516,7 +516,7 @@ Il tenore alcolico effettivo può avere un margine di tolleranza massimo e minim
 
 <sup>3</sup> La determinazione del tenore alcolico è disciplinata nell’ordinanza del 15 febbraio 2006[^18-2] sugli strumenti di misurazione e dalle disposizioni su di essa basate, emanate dal Dipartimento federale di giustizia e polizia.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^18-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 
 ### Sezione 10: Partita
@@ -543,7 +543,7 @@ Non è necessario indicare la partita:
 - c. quando il termine minimo di conservazione, la data di scadenza, di imballaggio o di raccolta sono forniti nella caratterizzazione e indicano in modo chiaro e nell’ordine almeno il giorno e il mese;
 - d. sulle porzioni individuali di gelato, se l’indicazione è fornita sull’imballaggio collettivo.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 20
 
@@ -573,7 +573,7 @@ Per le derrate alimentari di cui all’allegato 9 la dichiarazione del valore nu
 
 <sup>3</sup> Le disposizioni della presente sezione non si applicano agli integratori alimentari e alle acque minerali e di sorgente.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^21-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 22
@@ -582,7 +582,7 @@ Per le derrate alimentari di cui all’allegato 9 la dichiarazione del valore nu
 
 La dichiarazione del valore nutritivo deve contenere le seguenti indicazioni: valore energetico e tenore di grassi, acidi grassi saturi, carboidrati, zuccheri, proteine e sale.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 23
 
@@ -608,9 +608,9 @@ Se la caratterizzazione di una derrata alimentare preimballata contiene una dich
 - a. il valore energetico; oppure
 - b. il valore energetico insieme al tenore di grassi, acidi grassi saturi, zuccheri e sale.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
-[^23-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 24
 
@@ -833,7 +833,7 @@ Le indicazioni nutrizionali e sulla salute concernenti la mancanza o il ridotto 
 
 <sup>6</sup> Le disposizioni della presente sezione non si applicano alle acque minerali e di sorgente.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Sezione 13: Marchio d’identificazione
 
@@ -914,7 +914,7 @@ Le derrate alimentari possono recare le seguenti designazioni:
 
 <sup>2</sup> Le derrate alimentari e gli ingredienti che sono fabbricati impiegando sostanze ausiliarie per la lavorazione di origine animale possono essere designati con una denominazione secondo il capoverso 1 lettere a–c, se sono separati dai corrispondenti componenti proteici animali delle sostanze ausiliarie per la lavorazione e purificati.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 41
 
@@ -977,7 +977,7 @@ L’informazione deve soddisfare i seguenti requisiti:
 
 <sup>3</sup> L’informazione non è ammessa sulle bevande con un tenore alcolico superiore all’1,2 per cento in volume.
 
-[^42a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^42a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 42b
 
@@ -987,7 +987,7 @@ L’informazione deve soddisfare i seguenti requisiti:
 
 <sup>2</sup> L’informazione non è ammessa sulle bevande contenenti caffeina ai sensi dell’articolo 37 dell’ordinanza del DFI del 16 dicembre 2016[^42b-2] sulle bevande e sulle bevande alcoliche ai sensi dell’articolo 61 capoverso 1 dell’ordinanza del DFI sulle bevande.
 
-[^42b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^42b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 [^42b-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
 
 ## Capitolo 4: Adeguamento degli allegati
@@ -1024,7 +1024,7 @@ I prodotti con marchi commerciali o nomi di produttori esistenti prima del 1° g
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^45a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^45a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 #### Art. 45b
 
@@ -1032,7 +1032,7 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^45b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^45b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 #### Art. 46
 
@@ -1094,7 +1094,7 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari la cui caratterizzazione deve contenere una o più indicazioni supplementari
 
-[^t-1]: Aggiornato dalla correzione del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^t-1]: Aggiornato dalla correzione del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)) e dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Parte A Particolari indicazioni obbligatorie nella caratterizzazione delle derrate alimentari
 
@@ -1153,7 +1153,7 @@ Allegato 3
 
 ## Definizione di altezza della X
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/it/xml/image/image1.png)
 
 Legenda
 
@@ -1207,7 +1207,7 @@ Allegato 5[^t-3]
 
 ## Indicazione e denominazione degli ingredienti
 
-[^t-3]: Aggiornato dalle correzioni del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)), dal 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^t-3]: Aggiornato dalle correzioni del 12 giu. 2018 ([RU 2018 2317](https://fedlex.data.admin.ch/eli/oc/2018/329)), dal 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)) e dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 ### Parte A Disposizioni particolari relative all’indicazione degli ingredienti in ordine decrescente di peso
 
@@ -1303,7 +1303,7 @@ Allegato 5a[^t-4]
 
 ## Denominazioni specifiche ammesse secondo l’articolo 14 capoverso 2 lettera b ODerr
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 <table>
 <tr><td>**Tedesco**</td><td>**Francese**</td><td>**Italiano**</td></tr>
@@ -1316,7 +1316,7 @@ Allegato 6[^t-5]
 
 ## Sostanze che potrebbero provocare allergie o altre reazioni indesiderate
 
-[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^t-5]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 I seguenti ingredienti e i prodotti da essi ottenuti potrebbero provocare allergie o altre reazioni indesiderate e devono pertanto essere sempre menzionati nella caratterizzazione; è fatto salvo l’articolo 11 capoverso 9:
 
@@ -1782,7 +1782,7 @@ Allegato 14[^t-7]
 
 ## Indicazioni sulla salute ammesse per gli alimenti, i componenti, i costituenti e le categorie di derrate alimentari, nonché condizioni per il loro impiego
 
-[^t-7]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), dal n. I dell’O del DFI del 31 mag. 2023 ([RU 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) e dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^t-7]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), dalla cifra I dell’O del DFI del 31 mag. 2023 ([RU 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) e dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)). Aggiornato dalla correzione del 24 gen. 2025 ([RU 2025 60](https://fedlex.data.admin.ch/eli/oc/2025/60)).
 
 <table>
 <tr><th>Derrate alimentari, componenti, costituenti, categorie di derrate alimentari</th><th colspan="3">Indicazione</th><th colspan="3">Condizioni per lʼimpiego</th><th>Restrizioni/avvertenze</th></tr>
@@ -1953,7 +1953,7 @@ Allegato 14[^t-7]
 <tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al normale funzionamento del sistema nervoso.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al mantenimento di membrane mucose normali.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al mantenimento di globuli rossi normali.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
-<tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al normale metabolismo energetico.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
+<tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al mantenimento di una pelle normale.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al mantenimento della capacità visiva normale.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce al normale metabolismo del ferro.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
 <tr><td>Riboflavina o vitamina B2</td><td colspan="3">La riboflavina contribuisce alla protezione delle cellule dallo stress ossidativo.</td><td colspan="2">Questa indicazione può essere impiegata solo per una derrata alimentare che è almeno una fonte di riboflavina secondo l’allegato 13 numero 28 della presente ordinanza.</td><td colspan="2"></td></tr>
@@ -2063,7 +2063,7 @@ Allegato 14a[^t-8]
 
 ## Eccezioni definite dall’USAV per le denominazioni generiche tradizionalmente utilizzate per indicare la peculiarità di una categoria di derrate alimentari o bevande e che potrebbero avere un effetto sulla salute umana
 
-[^t-8]: Introdotto dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^t-8]: Introdotto dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 Attualmente non vi è ancora nessuna voce.
 

@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 concernant l'information sur les 
 short: OIDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: fr
-version: 2024-02-01
+version: 2025-01-24
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20240201-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250124-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/fr"
 
 (OIDAl)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 24 janvier 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -1161,7 +1161,7 @@ Annexe 3
 
 ## Définition de la hauteur d’x
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/fr/xml/image/image1.png)
 
 Légende
 
@@ -1777,7 +1777,6 @@ Si une denrée alimentaire remplit naturellement les conditions visées dans la 
   - b. ne dépasse pas 1 g par 100 g de matière sèche.
 
 - 35\.2 Les pâtes alimentaires pauvres en protéines peuvent, contrairement aux pâtes visées aux art. 70 à 72 de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine végétale, les champignons et le sel comestible[^annex13-lvlu1-lvl35-1], contenir des champignons, du sel et des proportions variables d’amidon.
-- [tab]
 
 [^annex13-lvlu1-lvl35-1]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
@@ -1787,7 +1786,7 @@ Annexe 14[^t-11]
 
 ## Allégations de santé admises pour les denrées alimentaires, les ingrédients et composants alimentaires, les catégories de denrées alimentaires, conditions d’utilisation
 
-[^t-11]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), le ch. I de l’O de l’OSAV du 31 mai 2023 ([RO 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^t-11]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), le ch. I de l’O de l’OSAV du 31 mai 2023 ([RO 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) et le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)). Erratum du 24 janv. 2025 ([RO 2025 60](https://fedlex.data.admin.ch/eli/oc/2025/60)).
 
 <table>
 <tr><th>Denrées alimentaires, ingrédients, composants alimentaires, catégories de denrées alimentaires</th><th>Allégation</th><th>Conditions d’utilisation</th><th>Restrictions/avertissements</th></tr>
@@ -1936,7 +1935,7 @@ Annexe 14[^t-11]
 <tr><td>Niacine</td><td>La niacine contribue au maintien d’une peau normale.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de niacine selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Niacine</td><td>La niacine contribue à réduire la fatigue.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de niacine selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Noix</td><td>Les noix contribuent à améliorer l’élasticitédes vaisseaux sanguins.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 30 g de noix. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 30 g de noix.</td><td></td></tr>
-<tr><td>Pectines</td><td>Les bêta-glucanes contribuent au maintien d’une cholestérolémie normale</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 6 g de pectines. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 6 g de pectines.</td><td>Avertissement quant au risque de suffocation en cas de difficultés de déglutition ou en cas d’ingestion avec un fluide inadéquat. Consommation avec beaucoup d’eau conseillée pour garantir l’ingestion de pectines jusqu’à l’estomac.</td></tr>
+<tr><td>Pectines</td><td>Les pectines contribuent au maintien d’une cholestérolémie normale</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière de 6 g de pectines. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation journalière de 6 g de pectines.</td><td>Avertissement quant au risque de suffocation en cas de difficultés de déglutition ou en cas d’ingestion avec un fluide inadéquat. Consommation avec beaucoup d’eau conseillée pour garantir l’ingestion de pectines jusqu’à l’estomac.</td></tr>
 <tr><td>Pectines</td><td>La consommation de pectines à l’occasion d’un repas contribue à atténuer la hausse de la glycémie après ce repas.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire contenant au moins 10 g de pectines par portion quantifiée. L’allégation peut être utilisée si le consommateur est informé que l’effet bénéfique est obtenu par la consommation de 10 g de pectines au cours du repas.</td><td>Avertissement quant au risque de suffocation en cas de difficultés de déglutition ou en cas d’ingestion avec un fluide inadéquat. Consommation avec beaucoup d’eau conseillée pour garantir l’ingestion de pectines jusqu’à l’estomac.</td></tr>
 <tr><td>Phosphore</td><td>Le phosphore contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de phosphore selon l’annexe 13, ch. 28.</td><td></td></tr>
 <tr><td>Phosphore</td><td>Le phosphore contribue au fonctionnement normal des membranes cellulaires.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de phosphore selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -2069,8 +2068,6 @@ Annexe 14a[^t-12]
 [^t-12]: Introduite par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
 
 Aucune entrée à ce jour
-
-- [tab]
 
 Annexe 15
 

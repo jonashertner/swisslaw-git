@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 betreffend die Information über
 short: LIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: de
-version: 2024-02-01
+version: 2025-01-24
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20240201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20250124-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20250124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20240201/de"
 
 (LIV)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 24. Januar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -1152,7 +1152,7 @@ Anhang 3
 
 ## Definition der x-Höhe
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20240201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20250124/de/xml/image/image1.png)
 
 Legende
 
@@ -1780,7 +1780,7 @@ Anhang 14[^t-7]
 
 ## Zulässige gesundheitsbezogene Angaben für Lebensmittel, Lebensmittelbestandteile, Lebensmittelinhaltsstoffe und Lebensmittelkategorien sowie die Voraussetzungen für ihre Verwendung
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), Ziff. I der V des BLV vom 31. Mai 2023 ([AS 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)), Ziff. I der V des BLV vom 31. Mai 2023 ([AS 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)) und Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 7](https://fedlex.data.admin.ch/eli/oc/2024/7)). Die Berichtigung vom 24. Jan. 2025 betrifft nur den französischen und den italienischen Text ([AS 2025 60](https://fedlex.data.admin.ch/eli/oc/2025/60)).
 
 <table>
 <tr><th>Lebensmittel, Lebensmittelbestandteile, Lebensmittelinhaltsstoffe, Lebensmittelkategorien</th><th>Angabe</th><th>Verwendungsbedingungen</th><th>Einschränkungen/Warnhinweise</th></tr>
