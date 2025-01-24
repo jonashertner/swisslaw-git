@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.325"
 title: "Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2024-08-01"
-nachtrag: "125"
-valid_until: 2025-01-24
+version: "2025-01-01"
+nachtrag: "128"
 adopted: 2021-05-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-128.html"
 text: pdf
 ---
 
@@ -51,17 +50,19 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 <sup>2</sup> Der Studiengang umfasst Studienleistungen von 90 ECTS-Credits.
 
+[^3-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025.
+
 #### § 4
 
 **Vertiefungen**
 
-Der Studiengang kann in den folgenden Vertiefungen angeboten werden:
-
-- a. Digitalisation & Sustainability,
+Der Studiengang kann in den folgenden Vertiefungen angeboten werden:[^3-1] a. Digitalisation & Sustainability,
 
 - b. Economics & Finance,
 
-- c. Strategic Real Estate & Facility Management.
+- c. Workplace & Services,
+
+- d. Strategy & Entrepreneurship.
 
 #### § 5
 
@@ -71,15 +72,11 @@ Der Studiengang kann in den folgenden Vertiefungen angeboten werden:
 
 <sup>2</sup> Die Studiengangleitung entscheidet über Ausnahmen.
 
-#### § 6
-
-**Unterrichtssprache**
-
-Die Module werden in deutscher oder englischer Sprache durchgeführt.
-
 **1**
 
-- 1\. 7. 24 - 125
+- 1\. 4. 25 - 128 § 6. Die Module werden in deutscher oder englischer Sprache durchgeführt.
+
+**Unterrichtssprache**
 
 ### B. Zulassung zum Studium
 
@@ -117,11 +114,13 @@ Für Bewerberinnen und Bewerber, welche die Zulassungsbedingungen nicht vollstä
 
 #### § 10
 
-**c. Gültigkeit und Wiederholung**
+**Gültigkeit**
 
 <sup>1</sup> Eine bestandene Eignungsabklärung ist für den Studienbeginn im Jahr der Eignungsabklärung und für den Studienbeginn im darauffolgenden Jahr gültig.
 
-<sup>2</sup> Die Eignungsabklärung kann einmal wiederholt werden.
+<sup>2</sup> . . .[^10-1]
+
+[^10-1]: Aufgehoben durch B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025. 1. 4. 25 - 128 5
 
 ### C. Prüfungen und andere Leistungsnachweise
 
@@ -137,21 +136,19 @@ Für Bewerberinnen und Bewerber, welche die Zulassungsbedingungen nicht vollstä
 
 <sup>4</sup> Kommt keine Einigung zustande, steht der Stichentscheid der prüfenden Dozentin oder dem prüfenden Dozenten zu.
 
-#### § 12
-
 **Nachbesserung**
 
-<sup>1</sup> Für Leistungsnachweise in der Form einer schriftlichen Arbeit kann eine Nachbesserung erbracht werden, wenn a. der Leistungsnachweis mit einer Note zwischen 3,5 und 3,9 oder mit dem Prädikat «nicht bestanden (Nachbesserung möglich)» bewertet wurde und b. die Modulbeschreibung die Möglichkeit einer Nachbesserung vorsieht.
+§ 12.[^11-1] <sup>1</sup> Für Leistungsnachweise in der Form einer schriftlichen Arbeit kann eine Nachbesserung erbracht werden, wenn a. der Leistungsnachweis mit einer Note zwischen 3,50 und 3,99 oder mit dem Prädikat «nicht bestanden (Nachbesserung möglich)» bewertet wurde und b. die Modulbeschreibung die Möglichkeit einer Nachbesserung vorsieht.
 
-<sup>2</sup> Eine erfolgreiche Nachbesserung wird mit der Note 4,0 oder dem Prädikat «bestanden» bewertet.
+<sup>2</sup> Eine erfolgreiche Nachbesserung wird mit der Note 4,00 oder dem Prädikat «bestanden» bewertet.
 
 **Nachprüfung**
 
-§ 12 a.[^12-1] <sup>1</sup> Für andere Formen von Leistungsnachweisen als schriftliche Arbeiten kann eine einmalige Nachprüfung angeboten werden, wenn a. der Leistungsnachweis mit einer Note zwischen 3,5 und 3,9 oder mit dem Prädikat «nicht bestanden (Nachprüfung möglich)» bewertet wurde und b. die Modulbeschreibung die Möglichkeit einer Nachprüfung vorsieht.
+§ 12 a.[^11-1] <sup>1</sup> Für andere Formen von Leistungsnachweisen als schriftliche Arbeiten kann eine einmalige Nachprüfung angeboten werden, wenn a. der Leistungsnachweis mit einer Note zwischen 3,50 und 3,99 oder mit dem Prädikat «nicht bestanden (Nachprüfung möglich)» bewertet wurde und b. die Modulbeschreibung die Möglichkeit einer Nachprüfung vorsieht.
 
-<sup>2</sup> Eine erfolgreiche Nachprüfung wird mit der Note 4,0 oder dem Prädikat «bestanden» bewertet.
+<sup>2</sup> Eine erfolgreiche Nachprüfung wird mit der Note 4,00 oder dem Prädikat «bestanden» bewertet.
 
-[^12-1]: Eingefügt durch B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
+[^11-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025.
 
 #### § 13
 
@@ -169,6 +166,10 @@ Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen
 
 <sup>3</sup> Die Masterarbeit kann sich über zwei Semester erstrecken. Über Ausnahmen entscheidet die Studiengangleitung.
 
+**3**
+
+- 1\. 4. 25 - 128
+
 ### D. Studienabschluss und Masterdiplom
 
 **Bestehensvoraussetzungen**
@@ -179,23 +180,26 @@ Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen
 
 - b. die Masterarbeit bestanden ist.
 
-**3**
+[^hDStudienabschluss-1]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025.
 
-- 1\. 7. 24 - 125
+#### § 16
 
-**Abschlussnote**
+**Abschlussnote und überzählige Credits**
 
-- 16\. <sup>1</sup> Die Abschlussnote errechnet sich aus dem Durchschnitt der Modulnoten aller besuchten oder angerechneten Pflicht- und Wahlpflichtmodule gemäss Anhang.
+<sup>1</sup> Die Abschlussnote errechnet sich aus dem Durchschnitt der Modulnoten aller besuchten oder angerechneten Pflicht und Wahlpflichtmodule gemäss Anhang. Es können überzählige Wahlpflichtmodule belegt werden, sofern dies im Anhang vorgesehen ist. Alle überzähligen Wahlpflichtmodule fliessen in die Abschlussnote ein.[^hDStudienabschluss-1]
 
 <sup>2</sup> Die Modulnoten werden nach der Anzahl der ECTS-Credits eines Moduls gewichtet.
 
 **Titel**
 
-§ 17.[^hDStudienabschluss-1] Der Masterstudiengang wird mit dem Titel «Master of Science ZHAW in Real Estate & Facility Management mit Vertiefung in [gewählten Vertiefungsrichtung]» abgeschlossen.
+§ 17.[^16-1] Der Masterstudiengang wird mit dem Titel «Master of Science ZHAW in Real Estate & Facility Management mit Vertiefung in [gewählten Vertiefungsrichtung]» abgeschlossen.
 
-[^hDStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 500; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^16-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 500; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^16-2]: Fassung gemäss B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025.
 
-### E. Schlussbestimmung
+### E. Schluss- und Übergangsbestimmungen
+
+[^16-2]
 
 #### § 18
 
@@ -209,11 +213,20 @@ Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Facil
 
 Studierende, die ihr Studium unter der Studienordnung vom 24. März 2011 aufgenommen und dieses bis Ende Herbstsemester 2022/ 2023 nicht abgeschlossen haben, werden in die Studienordnung vom 5. Mai 2021 überführt.
 
-[^19-1]: Fassung gemäss B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
+[^19-1]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025.
+
+### F. Übergangsbestimmung vom 2. Oktober 2024
+
+[^19-1]
+
+§ 20.[^hFÜbergangsbestimmu-1] Studierende, die ihr Studium vor dem Herbstsemester 2025/ 2026 aufgenommen haben, schliessen mit den Vertiefungstiteln gemäss Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften in der Fassung vom 5. Mai 2021 ab.
+
+[^hFÜbergangsbestimmu-1]: Eingefügt durch B vom 2. Oktober 2024 (OS 80, 11; ABl 2024-11-22). In Kraft seit 1. Januar 2025.
+[^hFÜbergangsbestimmu-2]: Fassung gemäss B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
 
 ### Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
 
-[^19-1]
+[^hFÜbergangsbestimmu-2]
 
 Der Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -221,6 +234,6 @@ Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrass
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
-**5**
+## Weitere Fussnoten
 
-- 1\. 7. 24 - 125
+- [5] Eingefügt durch B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
