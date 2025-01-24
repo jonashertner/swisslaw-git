@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avant-projet de révision partielle de la loi sur l’aide aux victimes
 document: Projet mis en consultation
 language: fr

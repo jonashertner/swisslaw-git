@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vorentwurf zur Teilrevision des Opferhilfegesetzes
 document: Vernehmlassungsvorlage
 language: de

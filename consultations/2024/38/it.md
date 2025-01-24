@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avamprogetto di revisione parziale della legge federale concernente l’aiuto alle vittime di reati
 document: Progetto posto in consultazione
 language: it
