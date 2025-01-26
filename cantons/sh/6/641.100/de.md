@@ -4,12 +4,12 @@ number: "641.100"
 title: Gesetz über die direkten Steuern
 language: de
 version: 2025-01-01
-corrected: 2025-01-20
+corrected: 2025-01-27
 version_adopted: 2025-05-05
 adopted: 2000-03-20
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1968/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1969/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -401,7 +401,15 @@ beschliesst:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40% steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+
+- a) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz vom 2. April 1908 (VVG) unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Art. 36 Abs. 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt: Ertragsanteil = [1 - ((1 + m)^22 - 1) / (22 × m × (1 + m)^23)] × 100%
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
+- c) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten- und aus Verpfründungsverträgen ist die Höhe der um 0.5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt: Ertragsanteil = [1 - ((1 + r)^22 - 1) / (22 × r × (1 + r)^23)] × 100%
+  - 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
 
 ### 1.2.2.1.7 Übrige Einkünfte
 
@@ -557,7 +565,7 @@ beschliesst:
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfang des nach den Art. 22, 22a und 23 steuerbaren Vermögensertrages und weiterer Fr. 50'000.00. Nicht abzugsfähig sind Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonstwie nahestehenden natürlichen Person zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen
-- b) die dauernden Lasten sowie 40% der bezahlten Leibrenten
+- b) die dauernden Lasten sowie der Ertragsanteil nach Art. 24 Abs. 3 lit. c der Leistungen aus Leibrenten- und aus Verpfründungsverträgen
 - c) die periodischen Unterhaltsbeiträge an Geschiedene, gerichtlich oder tatsächlich Getrenntlebende sowie die periodischen Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge stehenden Kinder, nicht jedoch andere Leistungen in Erfüllung familienrechtlicher Unterhalts- oder Unterstützungspflichten, wie beispielsweise Kapitalabfindungen, selbst wenn diese in Raten bezahlt werden
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge (Art. 82 BVG)
@@ -919,7 +927,7 @@ beschliesst:
 
 <sup>3</sup> Die Abgrenzung der Steuerpflicht für Geschäftsbetriebe, Betriebsstätten und Grundstücke erfolgt im Verhältnis zum Ausland nach den Grundsätzen des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung. Verluste aus ausländischen Grundstücken können nur dann berücksichtigt werden, wenn im betreffenden Land auch eine Betriebsstätte unterhalten wird. Vorbehalten bleiben Abs. 4–7.
 
-<sup>4</sup> Wenn ein schweizerisches Unternehmen Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnet hat, innert der folgenden sieben Jahre aber aus dieser Betriebsstätte Gewinne zu verzeichnen sind, so ist im Ausmass dieser Gewinne eine Revision der ursprünglichen Veranlagung vorzunehmen; die Verluste aus dieser Betriebsstätte werden in der Folge in der Schweiz nachträglich nur satzbestimmend berücksichtigt. Die Revision unterbleibt, soweit der Steuerpflichtige nachweist, dass er die Verluste im Betriebsstättestaat nicht mit den Gewinnen verrechnen konnte.
+<sup>4</sup> Ein schweizerisches Unternehmen kann Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit diese Verluste im Betriebsstättenstaat nicht bereits berücksichtigt wurden. Verzeichnet diese Betriebsstätte innert der folgenden sieben Geschäftsjahre Gewinne, so erfolgt in diesen Geschäftsjahren im Ausmass der im Betriebsstättenstaat verrechneten Verlustvorträge eine Besteuerung.
 
 <sup>5</sup> Verluste aus ausländischen Liegenschaften können nur dann berücksichtigt werden, wenn im betreffenden Land auch eine Betriebsstätte unterhalten wird. In allen übrigen Fällen sind Auslandsverluste ausschliesslich satzbestimmend zu berücksichtigen.
 
@@ -1874,6 +1882,14 @@ beschliesst:
 
 <sup>2</sup> Eine Auskunft ist zulässig, soweit hierfür eine gesetzliche Grundlage im kantonalen Recht oder im Bundesrecht gegeben ist. Das Finanzdepartement ist in den übrigen Fällen befugt, gegenüber inländischen Gerichts- und Verwaltungsbehörden Auskünfte aus den Steuerakten zu erteilen oder die kantonale Steuerverwaltung dazu zu ermächtigen, soweit ein öffentliches Interesse besteht. Diese Behörden unterliegen der Schweigepflicht gemäss Abs. 1, soweit die Verwendung von Steuerfaktoren zur Begründung rechtsmittelfähiger Entscheide nicht unabdingbar ist.
 
+#### Art. 127a
+
+**Meldung an Sozialhilfebehörden und Auskunftserteilung an Stipendienbehörden**
+
+<sup>1</sup> Die kantonale Steuerverwaltung kann den zuständigen Sozialhilfebehörden Fälle melden, bei denen Verdacht auf einen ungerechtfertigten Bezug von Sozialhilfeleistungen besteht.
+
+<sup>2</sup> Sie kann den Stipendienbehörden von Kantonen, die der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009 beigetreten sind, auf deren Gesuch Auskunft über das steuerpflichtige Einkommen und das steuerpflichtige Vermögen (einschliesslich deren Zusammensetzung) jedes Elternteils erteilen, der sich im Verfahren zur Festsetzung des Stipendienanspruchs seines Kindes weigert, diese Angaben offenzulegen.
+
 #### Art. 128
 
 **Amtshilfe unter Steuerbehörden**
@@ -2095,7 +2111,7 @@ beschliesst:
 
 - a) Arbeitgeber bzw. Arbeitgeberinnen über ihre Leistungen an Arbeitnehmer bzw. Arbeitnehmerinnen
 - b) Gläubiger bzw. Gläubigerinnen und Schuldner bzw. Schuldnerinnen über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen
-- c) Versicherungsinstitute über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem VVG unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach Art. 24 Abs. 3 sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach Art. 24 Abs. 3 lit. b ausweisen
 - d) Personen, die Vermögen des Steuerpflichtigen in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und dessen Erträgnisse
 - e) Personen, die mit der steuerpflichtigen Person Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen
 
