@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2025-01-01
+version: 2025-01-28
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250128/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/fr"
 
 (LAPG)[^t-1]
 
-du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2025)
+du 25 septembre 1952 (État le 28 janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -516,11 +516,13 @@ Le droit à l’allocation s’éteint:
 
 **Montant et calcul de l’allocation**
 
-<sup>1</sup> L’indemnité journalière est égale à 80 % du revenu moyen de l’activité lucrative obtenu avant le début du droit à l’allocation.
+<sup>1</sup> L’indemnité journalière est égale à 80 % du revenu moyen de l’activité lucrative obtenu avant le début du droit à l’allocation.[^16l-1]
 
 <sup>2</sup> Pour déterminer le montant du revenu au sens de l’al. 1, l’art. 11, al. 1, est applicable par analogie.
 
 <sup>3</sup> Pour le montant maximal, l’art. 16*f* est applicable par analogie.
+
+[^16l-1]: Erratum du 28 janv. 2025, ne concerne que le texte italien ([RO 2025 72](https://fedlex.data.admin.ch/eli/oc/2025/72)).
 
 #### Art. 16m
 
@@ -1164,13 +1166,13 @@ Les décrets cantonaux concernant la création des caisses cantonales de compens
 
 [^34-1]: Abrogé par le ch. I de la LF du 18 déc. 1968, avec effet au 1<sup>er</sup> janv. 1969 ([RO 1969 318](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 81](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
 
-## Dispositions finales de la modification du 20 mars 1981
+## Dispositions transitoires selon la loi fédérale du 20 mars 1981 sur l’assurance-accidents
 
 [^u1-1]
 
 [^u1-1]: [RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 3; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogées par le ch. II 45 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Dispositions finales de la modification du 3 octobre 2003
+## Dispositions transitoires de la modification du 3 octobre 2003
 
 [^u2-1]
 

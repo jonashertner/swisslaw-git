@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2025-01-01
+version: 2025-01-28
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250128/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° gennaio 2025)
+del 25 settembre 1952 (Stato 28 gennaio 2025)
 
 [^t-1]: Nuovo testo giusta la cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -83,12 +83,12 @@ Le persone che prestano servizio nell’esercito svizzero o nel servizio della C
 
 [^1a-1]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^1a-2]: Abrogata dalla cifra I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^1a-3]: Nuovo testo giusta la cifra II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^1a-3]: Nuovo testo giusta la cifra II n. 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^1a-4]: Introdotto dall’all. n. 10 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^1a-5]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
 [^1a-6]: Introdotto dalla cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^1a-7]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1a-8]: Nuovo testo giusta l’all. n. II n. 3 della LF del 20 dic. 2019 protezione della popolazione e sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 477](https://fedlex.data.admin.ch/eli/fga/2019/113)).
+[^1a-8]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 20 dic. 2019 protezione della popolazionee sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 477](https://fedlex.data.admin.ch/eli/fga/2019/113)).
 [^1a-9]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^1a-10]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^1a-11]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
@@ -515,11 +515,13 @@ Il diritto all’indennità si estingue:
 
 **Importo e calcolo dell’indennità**
 
-<sup>1</sup> L’indennità giornaliera ammonta all’80 per cento del reddito medio conseguito prima dell’inizio del diritto all’indennità di paternità.
+<sup>1</sup> L’indennità giornaliera ammonta all’80 per cento del reddito medio conseguito prima dell’inizio del diritto all’indennità.[^16l-1]
 
 <sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’articolo 11 capoverso 1.
 
 <sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
+
+[^16l-1]: Correzione del 28 gen. 2025 ([RU 2025 72](https://fedlex.data.admin.ch/eli/oc/2025/72)).
 
 #### Art. 16m
 
@@ -1045,7 +1047,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 [^27-4]: Contributo giusta l’art. 9 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^27-5]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^27-7]: Introdotto dal n. VII della LF del 4 ott. 1968 che modifica quella sull’AVS ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo del per. giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^27-7]: Introdotto dalla cifra VII della LF del 4 ott. 1968 che modifica quella sull’AVS ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo del per. giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 28
 
@@ -1163,13 +1165,13 @@ I decreti cantonali concernenti l’istituzione delle casse cantonali di compens
 
 [^34-1]: Abrogato dalla cifra I della LF del 18 dic. 1968, con effetto dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
 
-## Disposizione finale della modifica del 20 marzo 1981
+## Disposizioni transitorie secondo la legge federale del 20 marzo 1981 sull’assicurazione contro gli infortuni
 
 [^u1-1]
 
-[^u1-1]: [RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 3; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogate dalla cifra II 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u1-1]: [RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 3; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogate dalla cifra II n. 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Disposizioni finali della modifica del 3 ottobre 2003
+## Disposizioni transitorie della modifica del 3 ottobre 2003
 
 [^u2-1]
 

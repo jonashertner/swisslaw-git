@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2025-01-01
+version: 2025-01-28
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250128/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250101/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Januar 2025)
+vom 25. September 1952 (Stand am 28. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -517,11 +517,13 @@ Der Anspruch endet:
 
 **Höhe und Bemessung der Entschädigung**
 
-<sup>1</sup> Das Taggeld beträgt 80 Prozent des durchschnittlichen Erwerbseinkommens, das vor dem Beginn des Entschädigungsanspruchs erzielt wurde.
+<sup>1</sup> Das Taggeld beträgt 80 Prozent des durchschnittlichen Erwerbseinkommens, das vor dem Beginn des Entschädigungsanspruchs erzielt wurde.[^16l-1]
 
 <sup>2</sup> Für die Ermittlung des Einkommens nach Absatz 1 ist Artikel 11 Absatz 1 sinngemäss anwendbar.
 
 <sup>3</sup> Für den Höchstbetrag gilt Artikel 16*f* sinngemäss.
+
+[^16l-1]: Die Berichtigung vom 28. Jan. 2025 betrifft nur den italienischen Text ([AS 2025 72](https://fedlex.data.admin.ch/eli/oc/2025/72)).
 
 #### Art. 16m
 
@@ -1166,13 +1168,13 @@ In die kantonalen Erlasse betreffend die Errichtung der kantonalen Ausgleichskas
 
 [^34-1]: Aufgehoben durch Ziff. I des BG vom 18. Dez. 1968, mit Wirkung am 1. Jan. 1969 ([AS 1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [BBl 1968 II 85](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
 
-## Schlussbestimmung der Änderung vom 20. März 1981
+## Übergangsbestimmungen gemäss Bundesgesetz vom 20. März 1981 über die Unfallversicherung
 
 [^u1-1]
 
 [^u1-1]: [AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676); [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Aufgehoben durch Ziff. II 45 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 3. Oktober 2003
+## Übergangsbestimmungen der Änderung vom 3. Oktober 2003
 
 [^u2-1]
 
