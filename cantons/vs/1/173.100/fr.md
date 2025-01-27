@@ -4,35 +4,36 @@ number: "173.100"
 title: "Règlement d'organisation des tribunaux valaisans"
 short: ROT
 language: fr
-version: 2011-01-01
-corrected: 2017-09-01
-version_adopted: 2010-12-21
+version: 2017-08-01
+corrected: 2025-01-28
+version_adopted: 2017-07-05
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.100"
-pdf: "https://lex.vs.ch/api/fr/versions/642/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2320/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement d'organisation des tribunaux valaisans
 
-du 21 décembre 2010
+(ROT)
+
+du 21.12.2010 (état 01.08.2017)
 
 Le Tribunal cantonal
 
-vu l'article 2 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs (LOCRP) du 28 mars 1996;
+vu l'article 2 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-vu la loi sur l'organisation de la Justice (LOJ) du 11 février 2009;
+vu la loi sur l'organisation de la Justice du 11 février 2009 (LOJ);
 
 vu la législation cantonale d'application du droit fédéral des assurances sociales et la législation cantonale en ce domaine;
 
-vu la loi sur la procédure et la juridiction administratives (LPJA) du 6 octobre 1976;
+vu la loi sur la procédure et la juridiction administratives du 6 octobre 1976 (LPJA);
 
 décide:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -40,16 +41,11 @@ décide:
 
 <sup>1</sup> Le présent règlement s'applique aux tribunaux suivants:
 
-- a) les tribunaux de première instance, au sens du règlement précité, soit
-
-- les tribunaux de district
-
-- les tribunaux d'arrondissement
-
-- le tribunal des mesures de contrainte et le tribunal de l'application des peines et mesures
-
-- le tribunal des mineurs
-
+- a) les tribunaux de première instance, au sens du règlement précité, soit:
+  - 1\. les tribunaux de district,
+  - 2\. les tribunaux d'arrondissement,
+  - 3\. le tribunal des mesures de contrainte et le tribunal de l'application des peines et mesures,
+  - 4\. le tribunal des mineurs;
 - b) le Tribunal cantonal.
 
 <sup>2</sup> Toute désignation de personne, de statut ou de fonction dans le présent règlement s'applique indifféremment aux femmes et aux hommes.
@@ -74,7 +70,7 @@ décide:
 
 **Renominations**
 
-<sup>1</sup> Dans la mesure où il n'y a pas de motifs de refus de nouvelle nomination, les personnes nommées sont renommées pour une durée de quatre ans avec effet au 1er janvier suivant la réélection du Tribunal cantonal.
+<sup>1</sup> Dans la mesure où il n'y a pas de motifs de refus de nouvelle nomination, les personnes nommées sont renommées pour une durée de quatre ans avec effet au 1<sup>er</sup> janvier suivant la réélection du Tribunal cantonal.
 
 <sup>2</sup> En cas de refus de renomination, une décision écrite et motivée doit être notifiée à l'intéressé six mois avant la fin de la période administrative. L'intéressé doit avoir la possibilité de se déterminer préalablement.
 
@@ -144,9 +140,9 @@ décide:
 
 **Compétence financière**
 
-Le juge ou le président d'un tribunal collégial dispose des crédits en tant qu'ils concernent les procédures judiciaires, tel le règlement des frais de justice et des frais d'avocats et d'avocats d'office.
+<sup>1</sup> Le juge ou le président d'un tribunal collégial dispose des crédits en tant qu'ils concernent les procédures judiciaires, tel le règlement des frais de justice et des frais d'avocats et d'avocats d'office.
 
-### Chapitre 2: Tribunaux de première instance
+## 2 Tribunaux de première instance
 
 #### Art. 12
 
@@ -160,7 +156,11 @@ Le juge ou le président d'un tribunal collégial dispose des crédits en tant q
 
 <sup>4</sup> Le doyen assume les tâches prévues par la loi ou par le présent règlement ainsi que celles que lui confie le Tribunal cantonal.
 
-<sup>5</sup> Il est responsable de la direction administrative du tribunal et veille - à une attribution équilibrée de la charge de travail - au respect du principe de célérité - à la gestion du personnel, en particulier à la planification des absences et des présences, aux entretiens d'évaluation des collaborateurs, à l'établissement des certificats de travail et à l'observation du cahier des charges.
+<sup>5</sup> Il est responsable de la direction administrative du tribunal et veille:
+
+- a) à une attribution équilibrée de la charge de travail;
+- b) au respect du principe de célérité;
+- c) à la gestion du personnel, en particulier à la planification des absences et des présences, aux entretiens d'évaluation des collaborateurs, à l'établissement des certificats de travail et à l'observation du cahier des charges.
 
 #### Art. 13
 
@@ -186,7 +186,9 @@ Le juge ou le président d'un tribunal collégial dispose des crédits en tant q
 
 #### Art. 15
 
-Tribunal des mesures de contrainte et tribunal de l'application des peines et mesures Les juges des mesures de contrainte et de l'application des peines et mesures se suppléent d'office en cas d'empêchement, de récusation ou de surcharge de travail. Le Tribunal cantonal tranche la question de savoir si cette dernière condition est remplie.
+**Tribunal des mesures de contrainte et tribunal de l'application des peines et mesures**
+
+<sup>1</sup> Les juges des mesures de contrainte et de l'application des peines et mesures se suppléent d'office en cas d'empêchement, de récusation ou de surcharge de travail. Le Tribunal cantonal tranche la question de savoir si cette dernière condition est remplie.
 
 #### Art. 16
 
@@ -204,17 +206,17 @@ Tribunal des mesures de contrainte et tribunal de l'application des peines et me
 
 **Attribution des unités juristes**
 
-Le fonctionnement optimal de l'ensemble des tribunaux est déterminant pour l'attribution des juges, des juges suppléants et des greffiers aux différents tribunaux. Un changement d'attribution peut également intervenir en cours de période administrative.
+<sup>1</sup> Le fonctionnement optimal de l'ensemble des tribunaux est déterminant pour l'attribution des juges, des juges suppléants et des greffiers aux différents tribunaux. Un changement d'attribution peut également intervenir en cours de période administrative.
 
-### Chapitre 3: Le Tribunal cantonal
+## 3 Le Tribunal cantonal
 
-- 1\. Généralités
+### 3.1 Généralités
 
 #### Art. 18
 
 **Composition et attributions de la Cour plénière**
 
-Les membres ordinaires du Tribunal cantonal forment la Cour plénière. Celle-ci exerce les attributions et les tâches que lui confèrent la loi ou le présent règlement et peut les déléguer à une cour, à la présidence, à une commission, à un juge en particulier ou au secrétaire général.
+<sup>1</sup> Les membres ordinaires du Tribunal cantonal forment la Cour plénière. Celle-ci exerce les attributions et les tâches que lui confèrent la loi ou le présent règlement et peut les déléguer à une cour, à la présidence, à une commission, à un juge en particulier ou au secrétaire général.
 
 #### Art. 19
 
@@ -232,7 +234,7 @@ Les membres ordinaires du Tribunal cantonal forment la Cour plénière. Celle-ci
 
 <sup>6</sup> Un procès-verbal des séances est tenu, qui est, en règle générale, communiqué à tous les membres dans le délai d'une semaine et dans tous les cas approuvé lors de la séance suivante.
 
-- 2\. Juridiction
+### 3.2 Juridiction
 
 #### Art. 20
 
@@ -240,7 +242,7 @@ Les membres ordinaires du Tribunal cantonal forment la Cour plénière. Celle-ci
 
 <sup>1</sup> Le Tribunal cantonal dit le droit par l'intermédiaire de ses cours statuant collégialement, de la présidence du Tribunal cantonal ou des sections organisées conformément aux dispositions légales et du juge unique.
 
-<sup>2</sup> Le Tribunal cantonal désigne pour chaque année administrative, commençant le 1er juin, les membres des sections et délégations prévues par la loi ainsi que leurs présidents. Après constitution, la composition des sections et délégations est publiée chaque année dans l'organe officiel cantonal de publication.
+<sup>2</sup> Le Tribunal cantonal désigne pour chaque année administrative, commençant le 1<sup>er</sup> juin, les membres des sections et délégations prévues par la loi ainsi que leurs présidents. Après constitution, la composition des sections et délégations est publiée chaque année dans l'organe officiel cantonal de publication.
 
 <sup>3</sup> Le Tribunal cantonal répartit équitablement les juges suppléants entre les sections. Cette répartition intervient chaque année en même temps que la constitution des sections et délégations.
 
@@ -248,34 +250,28 @@ Les membres ordinaires du Tribunal cantonal forment la Cour plénière. Celle-ci
 
 <sup>5</sup> Les conflits de compétence et divergences de jurisprudence entre sections sont tranchés par les sections concernées réunies sous la présidence du juge le plus ancien en fonctions. Si aucune majorité ne se dégage, la Cour plénière tranche.
 
-- 3\. Gestion et administration
+### 3.3 Gestion et administration
 
 #### Art. 21
 
 **Généralités**
 
-La gestion et l'administration des tribunaux valaisans sont exercées, en tant qu'elles sont de la compétence du Tribunal cantonal, par la Cour plénière, la commission administrative, la présidence et le secrétaire général. La répartition interne des compétences est réglée par les dispositions suivantes.
+<sup>1</sup> La gestion et l'administration des tribunaux valaisans sont exercées, en tant qu'elles sont de la compétence du Tribunal cantonal, par la Cour plénière, la commission administrative, la présidence et le secrétaire général. La répartition interne des compétences est réglée par les dispositions suivantes.
 
 #### Art. 22
 
 **Attributions de la Cour plénière**
 
-La Cour plénière a) adopte les règlements et les directives qui sont de son ressort;
+<sup>1</sup> La Cour plénière:
 
+- a) adopte les règlements et les directives qui sont de son ressort;
 - b) nomme les juges de première instance et les greffiers des deux instances;
-
 - c) désigne les cours et les délégations et attribue les juges;
-
 - d) nomme la commission administrative et le secrétaire général ainsi que son adjoint;
-
 - e) adopte le rapport annuel à l'intention du Grand Conseil;
-
 - f) traite les requêtes au Grand Conseil;
-
 - g) se saisit des réclamations dirigées contre les décisions administratives et disciplinaires de la commission administrative;
-
 - h) traite des affaires administratives importantes qui concernent personnellement un de ses membres;
-
 - i) décide de la répartition des unités juristes au Tribunal cantonal, dans les tribunaux de district, au tribunal des mesures de contrainte, au tribunal de l'application des peines et mesures et au tribunal des mineurs.
 
 #### Art. 23
@@ -290,24 +286,17 @@ La Cour plénière a) adopte les règlements et les directives qui sont de son r
 
 **Attributions de la commission administrative**
 
-<sup>1</sup> La commission administrative a) est un organe consultatif du président et surveille l'administration des tribunaux;
+<sup>1</sup> La commission administrative:
 
+- a) est un organe consultatif du président et surveille l'administration des tribunaux;
 - b) prépare les dossiers de nominations à l'intention de la Cour plénière;
-
 - c) prend les décisions en matière de personnel qui ne sont pas du ressort de la Cour plénière;
-
 - d) exerce les pouvoirs de surveillance incombant au Tribunal cantonal;
-
 - e) édicte les directives de procédure et celles concernant la gestion des dossiers judiciaires;
-
 - f) prépare le projet de budget à l'intention de la Cour plénière;
-
 - g) planifie et coordonne la formation continue et fixe les sujets de la conférence annuelle des autorités judiciaires;
-
 - h) est compétente en matière de relations publiques et de publications;
-
 - i) est autorité disciplinaire conformément à l'article 32 alinéa 1 LOJ;
-
 - j) décide des demandes de congé, règle les conditions de travail particulières et contrôle les activités accessoires.
 
 <sup>2</sup> La commission administrative peut déléguer des compétences à la présidence ou au secrétaire général.
@@ -316,24 +305,20 @@ La Cour plénière a) adopte les règlements et les directives qui sont de son r
 
 **Procès-verbal**
 
-Les procès-verbaux des séances de la Cour plénière et de la commission administrative sont communiqués aux membres de la Cour plénière, qui peuvent en tout temps prendre connaissance des autres procès-verbaux.
+<sup>1</sup> Les procès-verbaux des séances de la Cour plénière et de la commission administrative sont communiqués aux membres de la Cour plénière, qui peuvent en tout temps prendre connaissance des autres procès-verbaux.
 
 #### Art. 26
 
 **Attributions de la présidence**
 
-<sup>1</sup> Le président du Tribunal cantonal a) dirige le Tribunal cantonal et traite les affaires courantes;
+<sup>1</sup> Le président du Tribunal cantonal:
 
+- a) dirige le Tribunal cantonal et traite les affaires courantes;
 - b) représente le Tribunal cantonal et les tribunaux de première instance envers l'extérieur;
-
 - c) préside la Cour plénière et la commission administrative;
-
 - d) veille à une répartition équitable du travail et prend les dispositions qui s'imposent ou propose les mesures adéquates;
-
 - e) dispose des crédits, sous réserve de l'article 11 du présent règlement;
-
 - f) représente le Tribunal cantonal envers les tribunaux de première instance;
-
 - g) est compétent pour toutes les affaires administratives qui ne sont pas du ressort de la Cour plénière, de la commission administrative ou du secrétaire général.
 
 <sup>2</sup> La présidence peut soumettre les affaires administratives de son ressort à la décision de la commission administrative; le président peut déléguer des compétences au secrétaire général.
@@ -344,35 +329,25 @@ Les procès-verbaux des séances de la Cour plénière et de la commission admin
 
 **Secrétaire général**
 
-<sup>1</sup> Le secrétaire général a) est le supérieur du personnel administratif et dirige les services administratifs;
+<sup>1</sup> Le secrétaire général:
 
+- a) est le supérieur du personnel administratif et dirige les services administratifs;
 - b) gère la transmission interne des informations et coordonne la communication externe;
-
 - c) organise la transmission des affaires à des tiers;
-
 - d) gère le personnel des tribunaux;
-
 - e) est responsable de l'informatique du Tribunal cantonal et des tribunaux de première instance;
-
 - f) coordonne et surveille la comptabilité et entretient les contacts nécessaires avec l'administration des finances;
-
 - g) établit le projet de budget du Tribunal cantonal et des tribunaux de première instance;
-
 - h) prépare en collaboration avec la présidence les objets soumis à délibération de la Cour plénière et de la commission administrative et veille à l'exécution des décisions;
-
 - i) soutient le président dans l'exécution des tâches présidentielles;
-
 - j) organise la formation continue et d'autres événements pour les tribunaux;
-
 - k) exécute les tâches que la commission administrative lui confie;
-
 - l) assiste les tribunaux de première instance dans l'exécution des tâches administratives qui leur incombent et coordonne ces tâches;
-
 - m) assure la liaison avec l'administration cantonale.
 
 <sup>2</sup> Le secrétaire général prend part aux séances de la Cour plénière et de la commission administrative avec voix consultative; il est responsable de la tenue du procès-verbal.
 
-### Chapitre 4: Relations avec l'extérieur
+## 4 Relations avec l'extérieur
 
 #### Art. 28
 
@@ -403,7 +378,6 @@ Les procès-verbaux des séances de la Cour plénière et de la commission admin
 <sup>2</sup> Lorsque les circonstances particulières d'une affaire l'exigent, le juge peut:
 
 - a) publier un communiqué de presse dans les médias; il en informe immédiatement le Tribunal cantonal. Il peut, préalablement, demander le concours du secrétaire général;
-
 - b) organiser une conférence de presse pour les médias après en avoir informé le président du Tribunal cantonal.
 
 <sup>3</sup> Les tribunaux mettent à la disposition des journalistes accrédités la liste des causes faisant l'objet de débats publics.
@@ -418,19 +392,16 @@ Les procès-verbaux des séances de la Cour plénière et de la commission admin
 
 <sup>3</sup> Le président de la Cour ou le juge unique détermine le moyen par lequel le jugement sera publié:
 
-- a) par la communication interne au tribunal
-
-- b) sur l'internet
-
-- c) dans une base de données juridiques
-
+- a) par la communication interne au tribunal;
+- b) sur l'internet;
+- c) dans une base de données juridiques;
 - d) dans la revue valaisanne de jurisprudence.
 
 #### Art. 32
 
 **Revue valaisanne de jurisprudence**
 
-<sup>1</sup> La revue valaisanne de jurisprudence (RVJ) est publiée sous la responsabilité du Tribunal cantonal.
+<sup>1</sup> La revue valaisanne de jurisprudence (ci-après: RVJ) est publiée sous la responsabilité du Tribunal cantonal.
 
 <sup>2</sup> Le Tribunal cantonal désigne l'administration de la RVJ.
 
@@ -438,7 +409,7 @@ Les procès-verbaux des séances de la Cour plénière et de la commission admin
 
 **Renseignements juridiques**
 
-Les juges, les greffiers et les collaborateurs administratifs s'abstiennent de donner, par écrit ou par oral, des renseignements ou des consultations juridiques sur des questions susceptibles d'être portées devant le tribunal.
+<sup>1</sup> Les juges, les greffiers et les collaborateurs administratifs s'abstiennent de donner, par écrit ou par oral, des renseignements ou des consultations juridiques sur des questions susceptibles d'être portées devant le tribunal.
 
 #### Art. 34
 
@@ -450,7 +421,7 @@ Les juges, les greffiers et les collaborateurs administratifs s'abstiennent de d
 
 <sup>3</sup> Les juges, les greffiers et les avocats sont autorisés à porter la robe.
 
-### Chapitre 5: Conférences institutionnelles
+## 5 Conférences institutionnelles
 
 #### Art. 35
 
@@ -472,13 +443,27 @@ Les juges, les greffiers et les collaborateurs administratifs s'abstiennent de d
 
 <sup>4</sup> Dans le cadre de ses structures, la conférence s'efforce d'assurer la formation continue de ses membres.
 
-### Chapitre 6: Activités accessoires des magistrats
+## 6 Liens d'intérêts et activités accessoires des magistrats
 
 #### Art. 37
 
 **Principe**
 
-Les magistrats des autorités mentionnées à l'article premier du présent règlement doivent toute leur force de travail à leur fonction.
+<sup>1</sup> Les magistrats des autorités mentionnées à l'article premier du présent règlement doivent toute leur force de travail à leur fonction.
+
+#### Art. 37a
+
+<sup>1</sup> Le registre des liens d'intérêts des magistrats des tribunaux valaisans comprend:
+
+- a) leur appartenance aux organes de direction ou de surveillance de corporations, entreprises, établissements ou fondations de droit privé ou de droit public;
+- b) les fonctions qu'ils occupent au sein de commissions ou d'autres organes de la Confédération, d'un canton, d'une commune ou d'une collaboration intercantonale ou intercommunale;
+- c) toutes les activités accessoires.
+
+<sup>2</sup> Les modifications éventuelles sont annoncées dès qu'elles se produisent.
+
+<sup>3</sup> Les magistrats, par la signature du formulaire des liens d'intérêts, reconnaissent avoir déclaré tous leurs liens d'intérêts. La commission administrative du Tribunal cantonal statue sur les cas douteux d'annonce des liens d'intérêts.
+
+<sup>4</sup> Le registre est publié sur le site officiel du Tribunal cantonal du canton du Valais.
 
 #### Art. 38
 
@@ -489,9 +474,7 @@ Les magistrats des autorités mentionnées à l'article premier du présent règ
 <sup>2</sup> L'autorisation ne peut être accordée que si:
 
 - a) la nature et l'importance du mandat justifient le concours d'un magistrat;
-
 - b) l'exercice du mandat ou d'une activité accessoire ne compromet pas le prestige ni l'indépendance de la justice valaisanne;
-
 - c) le mandat, compte tenu du temps nécessaire à son exécution, n'empêche pas le requérant de se consacrer pleinement à sa fonction de juge.
 
 <sup>3</sup> Une autorisation ne peut pas être délivrée pour un mandat de conseiller permanent d'un organisme public ou d'une entreprise privée.
@@ -512,13 +495,13 @@ Les magistrats des autorités mentionnées à l'article premier du présent règ
 
 **Autres activités accessoires**
 
-Peuvent notamment être autorisés, comme autres activités accessoires, l'enseignement et la collaboration au sein d'une commission d'experts ou d'examen fédérale ou cantonale.
+<sup>1</sup> Peuvent notamment être autorisés, comme autres activités accessoires, l'enseignement et la collaboration au sein d'une commission d'experts ou d'examen fédérale ou cantonale.
 
 #### Art. 41
 
 **Procédure d'autorisation**
 
-La demande est adressée à la présidence du Tribunal cantonal. Elle contient toutes les indications nécessaires sur la nature et l'objet de l'activité accessoire envisagée, ainsi que sur le temps probablement nécessaire à son exécution.
+<sup>1</sup> La demande est adressée à la présidence du Tribunal cantonal. Elle contient toutes les indications nécessaires sur la nature et l'objet de l'activité accessoire envisagée, ainsi que sur le temps probablement nécessaire à son exécution.
 
 #### Art. 42
 
@@ -552,9 +535,9 @@ La demande est adressée à la présidence du Tribunal cantonal. Elle contient t
 
 <sup>3</sup> La commission administrative fixe les taxes d'utilisation dans le détail.
 
-### Chapitre 7: Surveillance et mesures disciplinaires
+## 7 Surveillance et mesures disciplinaires
 
-### 1. Généralités
+### 7.1 Généralités
 
 #### Art. 45
 
@@ -563,9 +546,7 @@ La demande est adressée à la présidence du Tribunal cantonal. Elle contient t
 <sup>1</sup> Le Tribunal cantonal exerce la surveillance des tribunaux de première instance en exploitant les données fournies par:
 
 - a) l'examen des actes judiciaires provenant des tribunaux;
-
 - b) l'inspection annuelle de chaque siège;
-
 - c) les inspections et contrôles particuliers commandés par les circonstances.
 
 <sup>2</sup> Le doyen doit annoncer immédiatement au Tribunal cantonal des circonstances qui pourraient mettre en cause le bon fonctionnement du tribunal.
@@ -574,7 +555,7 @@ La demande est adressée à la présidence du Tribunal cantonal. Elle contient t
 
 **Instructions et directives**
 
-Dans le respect de l'indépendance des autorités judiciaires soumises à sa surveillance, le Tribunal cantonal peut leur adresser des instructions pour la conduite administrative des affaires et des directives générales concernant la jurisprudence.
+<sup>1</sup> Dans le respect de l'indépendance des autorités judiciaires soumises à sa surveillance, le Tribunal cantonal peut leur adresser des instructions pour la conduite administrative des affaires et des directives générales concernant la jurisprudence.
 
 #### Art. 47
 
@@ -594,7 +575,7 @@ Dans le respect de l'indépendance des autorités judiciaires soumises à sa sur
 
 <sup>2</sup> Une procédure disciplinaire peut être ouverte contre le personnel administratif, les greffiers ainsi que les juges qui violent leurs devoirs de fonction.
 
-- 2\. Procédure disciplinaire
+### 7.2 Procédure disciplinaire
 
 #### Art. 49
 
@@ -630,34 +611,32 @@ Dans le respect de l'indépendance des autorités judiciaires soumises à sa sur
 
 <sup>2</sup> Il en va de même pour la prescription. Lorsque l'affaire fait l'objet d'une procédure pénale, le délai de prescription ne commence cependant à courir qu'après l'entrée en force du jugement pénal.
 
-- 3\. Dispositions sociales
+### 7.3 Dispositions sociales
 
 #### Art. 52
 
 **Egalité entre femmes et hommes**
 
-La commission nommée par le Conseil d'Etat en vertu de l'article 6 de la loi du 19 juin 1996 concernant l'application du principe d'égalité entre femmes et hommes est aussi compétente pour les personnes employées dans les tribunaux valaisans.
+<sup>1</sup> La commission nommée par le Conseil d'Etat en vertu de l'article 6 de la loi du 19 juin 1996 concernant l'application du principe d'égalité entre femmes et hommes est aussi compétente pour les personnes employées dans les tribunaux valaisans.
 
 #### Art. 53
 
 **Consultation sociale**
 
-La consultation sociale de l'administration cantonale est également à la disposition des magistrats, des greffiers et du personnel administratif.
+<sup>1</sup> La consultation sociale de l'administration cantonale est également à la disposition des magistrats, des greffiers et du personnel administratif.
 
-### Chapitre 8: Abrogation du droit en vigueur et entrée en vigueur
+## 8 Abrogation du droit en vigueur et entrée en vigueur
 
 #### Art. 54
 
 **Abrogation du droit en vigueur**
 
-Toutes les dispositions contraires au présent règlement, notamment le règlement d'organisation des tribunaux valaisans du 4 mai 1999, sont abrogées.
+<sup>1</sup> Toutes les dispositions contraires au présent règlement, notamment le règlement d'organisation des tribunaux valaisans du 4 mai 1999, sont abrogées.
 
 #### Art. 55
 
 **Entrée en vigueur**
 
-Le présent règlement entre en vigueur le 1er janvier 2011.
+<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2011.
 
-Adopté en séance du Tribunal cantonal du 21 décembre 2010.
-
-Le président du Tribunal cantonal: Jacques Berthouzoz Le secrétaire général des tribunaux valaisans: Walter Lengacher
+RCV BO/Abl. 1/2011

@@ -4,33 +4,36 @@ number: "173.100"
 title: Organisationsreglement der Walliser Gerichte
 short: ORG
 language: de
-version: 2011-01-01
-corrected: 2017-09-01
-version_adopted: 2010-12-21
+version: 2017-08-01
+corrected: 2025-01-28
+version_adopted: 2017-07-05
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.100"
-pdf: "https://lex.vs.ch/api/de/versions/642/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2320/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Organisationsreglement der Walliser Gerichte
 
-vom 21. Dezember 2010
+(ORG)
+
+vom 21.12.2010 (Stand 01.08.2017)
 
 Das Kantonsgericht
 
-eingesehen den Artikel 2 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten (GORBG) vom 28. März 1996;
+eingesehen den Artikel 2 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-eingesehen das Gesetz über die Rechtspflege (RPflG) vom 11. Februar 2009; eingesehen die kantonale Ausführungsgesetzgebung zum eidgenössischen Sozialversicherungsrecht sowie die kantonale Gesetzgebung in diesem Bereich;
+eingesehen das Gesetz über die Rechtspflege vom 11. Februar 2009 (RPflG);
+
+eingesehen die kantonale Ausführungsgesetzgebung zum eidgenössischen Sozialversicherungsrecht sowie die kantonale Gesetzgebung in diesem Bereich;
 
 eingesehen das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976;
 
 beschliesst:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -39,16 +42,11 @@ beschliesst:
 <sup>1</sup> Dieses Reglement gilt für die nachfolgenden Gerichte:
 
 - a) Erstinstanzliche Gerichte im Sinne des vorliegenden Reglements:
-
-- Bezirksgerichte
-
-- Kreisgerichte
-
-- Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsgericht
-
-- Jugendgericht
-
-- b) Kantonsgericht
+  - 1\. Bezirksgerichte,
+  - 2\. Kreisgerichte,
+  - 3\. Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsgericht,
+  - 4\. Jugendgericht;
+- b) Kantonsgericht.
 
 <sup>2</sup> In diesem Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Frau und Mann.
 
@@ -108,7 +106,7 @@ beschliesst:
 
 <sup>2</sup> Der Doyen oder der Generalsekretär ist für die Führung des Sekretariats zuständig.
 
-#### Art 8
+#### Art. 8
 
 **Protokollierung**
 
@@ -142,9 +140,9 @@ beschliesst:
 
 **Finanzkompetenzen**
 
-Der Richter und bei Kollegialgerichten der Präsident, verfügt über die Kredite, soweit sie die gerichtlichen Verfahren wie die Regelung der Kosten, Prozesskosten und Honorare für Rechtsbeistand und amtliche Verteidigung betreffen.
+<sup>1</sup> Der Richter und bei Kollegialgerichten der Präsident, verfügt über die Kredite, soweit sie die gerichtlichen Verfahren wie die Regelung der Kosten, Prozesskosten und Honorare für Rechtsbeistand und amtliche Verteidigung betreffen.
 
-### 2. Kapitel: Erstinstanzliche Gerichte
+## 2 Erstinstanzliche Gerichte
 
 #### Art. 12
 
@@ -158,7 +156,11 @@ Der Richter und bei Kollegialgerichten der Präsident, verfügt über die Kredit
 
 <sup>4</sup> Der Doyen nimmt die im Gesetz, im vorliegenden Reglement oder vom Kantonsgericht übertragenen Aufgaben wahr.
 
-<sup>5</sup> Er ist zuständig für die administrative Führung des Gerichts, wie - die ausgewogene Zuteilung der Arbeit - die Einhaltung des Beschleunigungsprinzips - die Personalführung, insbesondere die An- und Abwesenheitsplanung, Mitarbeitergespräche und -beurteilungen, Arbeitszeugnisse, Einhaltung der Pflichtenhefte.
+<sup>5</sup> Er ist zuständig für die administrative Führung des Gerichts, wie:
+
+- a) die ausgewogene Zuteilung der Arbeit;
+- b) die Einhaltung des Beschleunigungsprinzips;
+- c) die Personalführung, insbesondere die An- und Abwesenheitsplanung, Mitarbeitergespräche und -beurteilungen, Arbeitszeugnisse, Einhaltung der Pflichtenhefte.
 
 #### Art. 13
 
@@ -184,11 +186,9 @@ Der Richter und bei Kollegialgerichten der Präsident, verfügt über die Kredit
 
 #### Art. 15
 
-**Straf- und**
+**Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsgericht**
 
-**Zwangsmassnahmen- sowie**
-
-Massnahmenvollzugsgericht Bei Verhinderung, Ausstand oder Überlastung vertreten sich die Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsrichter von Amtes wegen gegenseitig. Das Kantonsgericht entscheidet, ob die letztgenannte Bedingung erfüllt ist.
+<sup>1</sup> Bei Verhinderung, Ausstand oder Überlastung vertreten sich die Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsrichter von Amtes wegen gegenseitig. Das Kantonsgericht entscheidet, ob die letztgenannte Bedingung erfüllt ist.
 
 #### Art. 16
 
@@ -206,17 +206,17 @@ Massnahmenvollzugsgericht Bei Verhinderung, Ausstand oder Überlastung vertreten
 
 **Zuteilung von juristischen Einheiten**
 
-Massgebend für die Zuteilung der Richter, Ersatzrichter und Gerichtsschreiber an die einzelnen Gerichte ist das optimale Funktionieren sämtlicher Gerichte. Eine Änderung der Zuteilung kann auch während der Amtsperiode erfolgen.
+<sup>1</sup> Massgebend für die Zuteilung der Richter, Ersatzrichter und Gerichtsschreiber an die einzelnen Gerichte ist das optimale Funktionieren sämtlicher Gerichte. Eine Änderung der Zuteilung kann auch während der Amtsperiode erfolgen.
 
-### 3. Kapitel: Das Kantonsgericht
+## 3 Das Kantonsgericht
 
-### 1. Allgemeines
+### 3.1 Allgemeines
 
 #### Art. 18
 
 **Zusammensetzung und Aufgaben des Gesamtgerichts**
 
-Die hauptamtlichen Mitglieder des Kantonsgerichts bilden das Gesamtgericht. Es nimmt die ihm vom Gesetz oder diesem Reglement übertragenen Aufgaben wahr und kann diese einzelnen Abteilungen, dem Präsidium, Kommissionen, einzelnen Richtern oder dem Generalsekretär delegieren.
+<sup>1</sup> Die hauptamtlichen Mitglieder des Kantonsgerichts bilden das Gesamtgericht. Es nimmt die ihm vom Gesetz oder diesem Reglement übertragenen Aufgaben wahr und kann diese einzelnen Abteilungen, dem Präsidium, Kommissionen, einzelnen Richtern oder dem Generalsekretär delegieren.
 
 #### Art. 19
 
@@ -234,7 +234,7 @@ Die hauptamtlichen Mitglieder des Kantonsgerichts bilden das Gesamtgericht. Es n
 
 <sup>6</sup> Über die Sitzungen wird ein Protokoll geführt, das in der Regel allen Mitgliedern innert Wochenfrist zugestellt und allenfalls in der folgenden Sitzung bereinigt wird.
 
-- 2\. Rechtsprechung
+### 3.2 Rechtsprechung
 
 #### Art. 20
 
@@ -250,34 +250,28 @@ Die hauptamtlichen Mitglieder des Kantonsgerichts bilden das Gesamtgericht. Es n
 
 <sup>5</sup> Kompetenzkonflikte unter den Abteilungen und Differenzen in der Rechtsprechung zwischen einzelnen Abteilungen werden durch die betroffenen Abteilungen in einer gemeinsamen Beratung unter Leitung des amtsältesten Richters entschieden. Dieser bestimmt das rapportierende Mitglied. Findet sich keine Mehrheit, entscheidet das Gesamtgericht.
 
-- 3\. Führung und Verwaltung
+### 3.3 Führung und Verwaltung
 
 #### Art. 21
 
 **Allgemeines**
 
-Führung und Verwaltung der Walliser Gerichte werden, soweit diese in den Kompetenzbereich des Kantonsgerichts fallen, durch das Gesamtgericht, die Verwaltungskommission, das Präsidium oder den Generalsekretär wahrgenommen. Die interne Kompetenzzuteilung richtet sich nach den nachfolgenden Bestimmungen.
+<sup>1</sup> Führung und Verwaltung der Walliser Gerichte werden, soweit diese in den Kompetenzbereich des Kantonsgerichts fallen, durch das Gesamtgericht, die Verwaltungskommission, das Präsidium oder den Generalsekretär wahrgenommen. Die interne Kompetenzzuteilung richtet sich nach den nachfolgenden Bestimmungen.
 
 #### Art. 22
 
 **Gesamtgericht**
 
-Das Gesamtgericht a) erlässt die Reglemente und Weisungen, die in die Zuständigkeit des Kantonsgerichts fallen;
+<sup>1</sup> Das Gesamtgericht:
 
+- a) erlässt die Reglemente und Weisungen, die in die Zuständigkeit des Kantonsgerichts fallen;
 - b) ernennt die erstinstanzlichen Richter sowie die Gerichtsschreiber beider Instanzen;
-
 - c) bestimmt die Gerichtshöfe sowie Delegationen und teilt die Richter zu;
-
 - d) bestellt die Verwaltungskommission und ernennt den Generalsekretär sowie dessen Stellvertreter;
-
 - e) beschliesst den jährlichen Bericht über die Rechtspflege zu Handen des Grossen Rates;
-
 - f) entscheidet über alle Anträge an den Grossen Rat;
-
 - g) amtet als Rekursinstanz bei administrativen und disziplinarischen Entscheiden der Verwaltungskommission;
-
 - h) befindet über wichtige Verwaltungsgeschäfte, die ein Mitglied persönlich betreffen;
-
 - i) befindet über die Zuteilung der juristischen Einheiten an das Kantonsgericht, die Bezirksgerichte, das Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsgericht und Jugendgericht.
 
 #### Art. 23
@@ -292,24 +286,17 @@ Das Gesamtgericht a) erlässt die Reglemente und Weisungen, die in die Zuständi
 
 **Verwaltungskommission, Befugnisse**
 
-<sup>1</sup> Die Verwaltungskommission a) ist Konsultativorgan des Präsidenten und überwacht die Gerichtsverwaltung;
+<sup>1</sup> Die Verwaltungskommission:
 
+- a) ist Konsultativorgan des Präsidenten und überwacht die Gerichtsverwaltung;
 - b) schlägt dem Gesamtgericht die diesem zustehenden Ernennungen vor;
-
 - c) trifft die Personalentscheide, die nicht dem Gesamtgericht vorbehalten sind;
-
 - d) übt die dem Kantonsgericht obliegenden aufsichtsrechtlichen Befugnisse aus;
-
 - e) erlässt Weisungen zur Führung der Prozessakten und andere allgemeine Anordnungen zur Geschäftsführung;
-
 - f) stellt dem Gesamtgericht Antrag zum Voranschlag;
-
 - g) plant und koordiniert die Weiterbildung und bestimmt die Themen für die Jahreskonferenz der richterlichen Behörden;
-
 - h) ist zuständig für die Öffentlichkeitsarbeit und die Publikationen;
-
 - i) ist Disziplinarbehörde nach Artikel 32 Absatz 1 RPflG;
-
 - j) entscheidet über Beurlaubungen, besondere Arbeitsbedingungen und Nebenbeschäftigungen.
 
 <sup>2</sup> Die Verwaltungskommission kann Kompetenzen an das Präsidium oder den Generalsekretär delegieren.
@@ -318,24 +305,20 @@ Das Gesamtgericht a) erlässt die Reglemente und Weisungen, die in die Zuständi
 
 **Protokolle**
 
-Die Protokolle der Sitzungen des Gesamtgerichts und der Verwaltungskommission werden den Mitgliedern des Gesamtgerichts kommuniziert. Die übrigen Protokolle stehen ihnen zur Einsicht offen.
+<sup>1</sup> Die Protokolle der Sitzungen des Gesamtgerichts und der Verwaltungskommission werden den Mitgliedern des Gesamtgerichts kommuniziert. Die übrigen Protokolle stehen ihnen zur Einsicht offen.
 
 #### Art. 26
 
 **Präsidium**
 
-<sup>1</sup> Der Präsident des Kantonsgerichts a) leitet das Kantonsgericht und führt die laufenden Geschäfte;
+<sup>1</sup> Der Präsident des Kantonsgerichts:
 
+- a) leitet das Kantonsgericht und führt die laufenden Geschäfte;
 - b) vertritt das Kantonsgericht und die erstinstanzlichen Gerichte nach aussen;
-
 - c) präsidiert das Gesamtgericht und die Verwaltungskommission;
-
 - d) plant die Bewältigung der Geschäftslast und trifft die notwendigen Massnahmen oder stellt sachdienliche Anträge;
-
 - e) verfügt über die Kredite, unter Vorbehalt von Artikel 11 des vorliegenden Reglements;
-
 - f) vertritt das Kantonsgericht gegenüber den erstinstanzlichen Gerichten;
-
 - g) ist zuständig für alle weiteren Verwaltungsgeschäfte, die nicht dem Gesamtgericht, der Verwaltungskommission oder dem Generalsekretär vorbehalten sind.
 
 <sup>2</sup> Das Präsidium kann ein Verwaltungsgeschäft, das in seine Kompetenz fällt, der Verwaltungskommission zum Entscheid unterbreiten oder Kompetenzen an den Generalsekretär delegieren.
@@ -346,35 +329,25 @@ Die Protokolle der Sitzungen des Gesamtgerichts und der Verwaltungskommission we
 
 **Generalsekretär**
 
-<sup>1</sup> Der Generalsekretär a) ist Vorgesetzter des administrativen Personals und leitet die administrativen Dienste;
+<sup>1</sup> Der Generalsekretär:
 
+- a) ist Vorgesetzter des administrativen Personals und leitet die administrativen Dienste;
 - b) stellt den internen Informationsdienst sicher und koordiniert die externe Kommunikation;
-
 - c) organisiert den Geschäftsverkehr mit Dritten;
-
 - d) sorgt für das Personalwesen an den Gerichten;
-
 - e) ist verantwortlich für die Informatik des Kantonsgerichts und der erstinstanzlichen Gerichte;
-
 - f) koordiniert und überwacht das Rechnungswesen und unterhält die hierfür erforderlichen Kontakte mit der Finanzverwaltung;
-
 - g) erstellt den Voranschlag des Kantonsgerichts und der erstinstanzlichen Gerichte;
-
 - h) bereitet zusammen mit dem Präsidium die Geschäfte des Gesamtgerichts und der Verwaltungskommission vor und sorgt für die Umsetzung der Beschlüsse;
-
 - i) unterstützt den Präsidenten bei der Erfüllung der präsidialen Aufgaben;
-
 - j) organisiert die Weiterbildungsveranstaltungen und andere Anlässe für die Gerichte;
-
 - k) er übernimmt die Aufgaben, die ihm die Verwaltungskommission überträgt;
-
 - l) er berät die erstinstanzlichen Gerichte in der Erfüllung der administrativen Aufgaben, die diesen anfallen und koordiniert diese;
-
 - m) er stellt die Verbindung zur kantonalen Verwaltung sicher.
 
 <sup>2</sup> Der Generalsekretär nimmt an den Sitzungen des Gesamtgerichts und der Verwaltungskommission mit beratender Stimme teil und ist verantwortlich für das Protokoll.
 
-### 4. Kapitel: Beziehungen nach aussen
+## 4 Beziehungen nach aussen
 
 #### Art. 28
 
@@ -402,8 +375,9 @@ Die Protokolle der Sitzungen des Gesamtgerichts und der Verwaltungskommission we
 
 <sup>1</sup> Die Orientierung der Öffentlichkeit erfolgt in der Regel durch die öffentliche Gerichtsverhandlung und die öffentliche Urteilsverkündung.
 
-<sup>2</sup> Wenn es die besonderen Umstände eines Verfahrens erfordern, kann der Richter a) eine Medienmitteilung herausgeben; er informiert unverzüglich das Kantonsgericht. Er kann vorgängig den Generalsekretär um Unterstützung angehen;
+<sup>2</sup> Wenn es die besonderen Umstände eines Verfahrens erfordern, kann der Richter:
 
+- a) eine Medienmitteilung herausgeben; er informiert unverzüglich das Kantonsgericht. Er kann vorgängig den Generalsekretär um Unterstützung angehen;
 - b) eine Medienkonferenz einberufen, wobei er in diesem Fall vorgängig dem Präsidenten des Kantonsgerichts Anzeige machen muss.
 
 <sup>3</sup> Die Gerichte stellen den akkreditierten Medienschaffenden die Tagungsliste der öffentlich verhandelten Fälle zur Verfügung.
@@ -418,19 +392,16 @@ Die Protokolle der Sitzungen des Gesamtgerichts und der Verwaltungskommission we
 
 <sup>3</sup> Der Abteilungspräsident oder der Einzelrichter bestimmt das Publikationsmittel:
 
-- a) Gerichtsinterne Verbreitung
+- a) Gerichtsinterne Verbreitung;
+- b) Internet;
+- c) Anbieter von juristischen Datenbanken;
+- d) Zeitschrift für Walliser Rechtsprechung.
 
-- b) Internet
-
-- c) Anbieter von juristischen Datenbanken
-
-- d) Zeitschrift für Walliser Rechtsprechung
-
-#### Art 32
+#### Art. 32
 
 **Zeitschrift für Walliser Rechtsprechung**
 
-<sup>1</sup> Die Zeitschrift für Walliser Rechtsprechung (ZWR) wird unter der Verantwortung des Kantonsgerichts herausgegeben.
+<sup>1</sup> Die Zeitschrift für Walliser Rechtsprechung (nachfolgend: ZWR) wird unter der Verantwortung des Kantonsgerichts herausgegeben.
 
 <sup>2</sup> Das Kantonsgericht bezeichnet die Verwaltung der ZWR.
 
@@ -438,7 +409,7 @@ Die Protokolle der Sitzungen des Gesamtgerichts und der Verwaltungskommission we
 
 **Rechtsauskünfte**
 
-Richter sowie Gerichtsschreiber und administrative Mitarbeiter erteilen weder mündlich noch schriftlich Rechtsauskünfte oder Rechtsberatungen, soweit die Frage Gegenstand eines Verfahrens vor dem Gericht bilden kann.
+<sup>1</sup> Richter sowie Gerichtsschreiber und administrative Mitarbeiter erteilen weder mündlich noch schriftlich Rechtsauskünfte oder Rechtsberatungen, soweit die Frage Gegenstand eines Verfahrens vor dem Gericht bilden kann.
 
 #### Art. 34
 
@@ -450,7 +421,7 @@ Richter sowie Gerichtsschreiber und administrative Mitarbeiter erteilen weder m�
 
 <sup>3</sup> Richter, Gerichtsschreiber und Anwälte können die Robe tragen.
 
-### 5. Kapitel: Institutionalisierte Konferenzen
+## 5 Institutionalisierte Konferenzen
 
 #### Art. 35
 
@@ -472,13 +443,29 @@ Richter sowie Gerichtsschreiber und administrative Mitarbeiter erteilen weder m�
 
 <sup>4</sup> Die Konferenz bemüht sich im Rahmen der bestehenden Strukturen um die Weiterbildung ihrer Mitglieder.
 
-### 6. Kapitel: Nebenamtliche Tätigkeiten der Magistraten
+## 6 Interessenbindungen und nebenamtliche Tätigkeiten der Magistraten
 
 #### Art. 37
 
 **Grundsatz**
 
-Die Magistraten der in Artikel 1 dieses Reglements erwähnten kantonalen Justizbehörden widmen ihre gesamte Arbeitskraft der mit dem Amt verbundenen Tätigkeit.
+<sup>1</sup> Die Magistraten der in Artikel 1 dieses Reglements erwähnten kantonalen Justizbehörden widmen ihre gesamte Arbeitskraft der mit dem Amt verbundenen Tätigkeit.
+
+#### Art. 37a
+
+**Register der Interessenbindungen**
+
+<sup>1</sup> Das Register der Interessenbindungen der Richter der Walliser Gerichte umfasst:
+
+- a) ihren Zugehörigkeit zu Führungs- und Aufsichtsgremien von Körperschaften, Unternehmen, Anstalten oder Stiftungen des privaten und des öffentlichen Rechts;
+- b) die Funktionen, die sie in Kommissionen oder anderen Organen der Eidgenossenschaft, eines Kantons, einer Gemeinde oder im Rahmen einer interkantonalen oder interkommunalen Zusammenarbeit ausüben;
+- c) jegliche Nebenbeschäftigungen.
+
+<sup>2</sup> Allfällige Änderungen sind bei deren Eintreten bekannt zu geben.
+
+<sup>3</sup> Mit der Unterschrift auf dem Formular der Interessenbindungen bestätigen die Richter alle ihre Interessenbindungen bekannt gegeben zu haben. Die Verwaltungskommission entscheidet in Zweifelsfällen über die gemeldeten Interessenbindungen.
+
+<sup>4</sup> Das Register wird auf der offiziellen Seite des Walliser Kantonsgerichts publiziert.
 
 #### Art. 38
 
@@ -488,11 +475,9 @@ Die Magistraten der in Artikel 1 dieses Reglements erwähnten kantonalen Justizb
 
 <sup>2</sup> Die Bewilligung kann erteilt werden, wenn:
 
-- a) Art und Bedeutung den Beizug eines Magistraten rechtfertigen.
-
-- b) Die Ausübung des Mandats oder der Nebenbeschäftigung das Ansehen und die Unabhängigkeit der Walliser Justiz nicht beeinträchtigt.
-
-- c) Der Magistrat in zeitlicher Hinsicht nicht an der uneingeschränkten Erfüllung der Amtspflichten gehindert wird.
+- a) Art und Bedeutung den Beizug eines Magistraten rechtfertigen;
+- b) die Ausübung des Mandats oder der Nebenbeschäftigung das Ansehen und die Unabhängigkeit der Walliser Justiz nicht beeinträchtigt;
+- c) der Magistrat in zeitlicher Hinsicht nicht an der uneingeschränkten Erfüllung der Amtspflichten gehindert wird.
 
 <sup>3</sup> Es darf kein Mandat zur ständigen Beratung einer öffentlichen Körperschaft oder einer privaten Unternehmung bewilligt werden.
 
@@ -512,13 +497,13 @@ Die Magistraten der in Artikel 1 dieses Reglements erwähnten kantonalen Justizb
 
 **Andere Nebenbeschäftigungen**
 
-An anderen Nebenbeschäftigungen können namentlich die Übernahme eines Lehrauftrages sowie die Mitwirkung in einer eidgenössischen oder kantonalen Experten- oder Examenskommission bewilligt werden.
+<sup>1</sup> An anderen Nebenbeschäftigungen können namentlich die Übernahme eines Lehrauftrages sowie die Mitwirkung in einer eidgenössischen oder kantonalen Experten- oder Examenskommission bewilligt werden.
 
 #### Art. 41
 
 **Bewilligungsverfahren**
 
-Das Gesuch wird beim Präsidium des Kantonsgerichts eingereicht. Es enthält alle notwendigen Angaben über Art und Gegenstand der Nebenbeschäftigung sowie über den Zeitaufwand, der voraussichtlich damit verbunden sein wird.
+<sup>1</sup> Das Gesuch wird beim Präsidium des Kantonsgerichts eingereicht. Es enthält alle notwendigen Angaben über Art und Gegenstand der Nebenbeschäftigung sowie über den Zeitaufwand, der voraussichtlich damit verbunden sein wird.
 
 #### Art. 42
 
@@ -552,23 +537,19 @@ Das Gesuch wird beim Präsidium des Kantonsgerichts eingereicht. Es enthält all
 
 <sup>3</sup> Die Verwaltungskommission legt die Benutzungsgebühren im Einzelnen fest.
 
-### 7. Kapitel: Aufsicht und Disziplinarfälle
+## 7 Aufsicht und Disziplinarfälle
 
-### 1. Allgemeines
+### 7.1 Allgemeines
 
 #### Art. 45
 
 **Amtsaufsicht**
 
-<sup>1</sup> Das Kantonsgericht übt seine Aufsicht über die erstinstanzlichen Gerichte aus:
+<sup>1</sup> Das Kantonsgericht übt seine Aufsicht über die erstinstanzlichen Gerichte anhand der Statistiken aus:
 
 - a) aufgrund der laufend eingehenden Akten;
-
 - b) mittels jährlicher Inspektionen;
-
-- c) anhand der Statistiken
-
-- d) durch Untersuchungen und Kontrollen, welche die Umstände im Einzelfall nötig machen.
+- c) les inspections et contrôles particuliers commandés par les circonstances.
 
 <sup>2</sup> Der Doyen meldet Gegebenheiten, die den ordentlichen Gang der Geschäfte an einem erstinstanzlichen Gericht beeinträchtigen können, umgehend dem Kantonsgericht.
 
@@ -576,7 +557,7 @@ Das Gesuch wird beim Präsidium des Kantonsgerichts eingereicht. Es enthält all
 
 **Weisungen und Richtlinien**
 
-Das Kantonsgericht kann den ihm unterstellten richterlichen Behörden Weisungen für die Geschäftsführung und unter Respektierung ihrer Unabhängigkeit generelle Richtlinien für die Rechtsprechung erteilen.
+<sup>1</sup> Das Kantonsgericht kann den ihm unterstellten richterlichen Behörden Weisungen für die Geschäftsführung und unter Respektierung ihrer Unabhängigkeit generelle Richtlinien für die Rechtsprechung erteilen.
 
 #### Art. 47
 
@@ -596,7 +577,7 @@ Das Kantonsgericht kann den ihm unterstellten richterlichen Behörden Weisungen 
 
 <sup>2</sup> Gegen das administrative Personal, die Gerichtsschreiber und die Richter, die ihre Dienst- oder Amtspflichten verletzen, kann ein Disziplinarverfahren eröffnet werden.
 
-- 2\. Disziplinarverfahren
+### 7.2 Disziplinarverfahren
 
 #### Art. 49
 
@@ -632,32 +613,32 @@ Das Kantonsgericht kann den ihm unterstellten richterlichen Behörden Weisungen 
 
 <sup>2</sup> Dasselbe gilt für die Verjährung. Falls der Tatbestand jedoch Gegenstand eines Strafverfahrens bildet, beginnt die Verjährungsfrist erst mit dem Eintritt der Rechtskraft des Strafurteils.
 
-- 3\. Sozialbestimmungen
+### 7.3 Sozialbestimmungen
 
 #### Art. 52
 
 **Gleichstellung von Frau und Mann**
 
-Die vom Staatsrat gemäss Artikel 6 des Gesetzes vom 19. Juni 1996 über die Anwendung des Grundsatzes der Gleichstellung von Mann und Frau ernannte Kommission gilt auch als Fachkommission für die bei den Walliser Gerichten Beschäftigten.
+<sup>1</sup> Die vom Staatsrat gemäss Artikel 6 des Gesetzes vom 19. Juni 1996 über die Anwendung des Grundsatzes der Gleichstellung von Mann und Frau ernannte Kommission gilt auch als Fachkommission für die bei den Walliser Gerichten Beschäftigten.
 
 #### Art. 53
 
 **Sozialberatung**
 
-Die Sozialberatung der kantonalen Verwaltung steht auch den Magistraten sowie den Gerichtsschreibern und dem administrativen Personal zur Verfügung.
+<sup>1</sup> Die Sozialberatung der kantonalen Verwaltung steht auch den Magistraten sowie den Gerichtsschreibern und dem administrativen Personal zur Verfügung.
 
-### 8. Kapitel: Aufhebungen geltenden Rechts und Inkrafttreten
+## 8 Aufhebungen geltenden Rechts und Inkrafttreten
 
 #### Art. 54
 
 **Aufhebung geltenden Rechts**
 
-Sämtliche dem vorliegenden Reglement widersprechenden Bestimmungen sind aufgehoben, namentlich das Organisationsreglement der Walliser Gerichte vom 4. Mai 1999.
+<sup>1</sup> Sämtliche dem vorliegenden Reglement widersprechenden Bestimmungen sind aufgehoben, namentlich das Organisationsreglement der Walliser Gerichte vom 4. Mai 1999.
 
 #### Art. 55
 
 **Inkrafttreten**
 
-Das vorliegende Reglement tritt am 1. Januar 2011 in Kraft.
+<sup>1</sup> Das vorliegende Reglement tritt am 1. Januar 2011 in Kraft.
 
-So beschlossen an der Sitzung des Kantonsgerichts vom 21. Dezember 2010. Der Präsident des Kantonsgerichts: Jacques Berthouzoz Der Generalsekretär der Walliser Gerichte: Walter Lengacher
+CSW BO/Abl. 1/2011
