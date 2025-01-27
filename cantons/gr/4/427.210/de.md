@@ -5,11 +5,12 @@ title: Verordnung über Hochschulen mit kantonaler Trägerschaft
 short: VH
 language: de
 version: 2025-01-01
+corrected: 2025-01-28
 version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3804/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -182,9 +183,9 @@ von der Regierung erlassen am 8. Juli 2014
 
 <sup>1</sup> Der Anteil am Globalbeitrag für die Organisationsentwicklung der Hochschulen ist im Leistungsauftrag enthalten und beträgt maximal sechs Prozent des durchschnittlichen Bruttoaufwands der letzten vier Jahre.
 
-<sup>2</sup> Der Anteil ist in der Jahresrechnung unter den Reserven auszuweisen.
+<sup>2</sup> Der Anteil ist in der Jahresrechnung unter Rückstellungen auszuweisen.
 
-<sup>3</sup> Nach jeder Leistungsauftragsperiode ist der verbleibende Anteil den allgemeinen Reserven unter Berücksichtigung der Einschränkung nach Artikel 17 Absatz 2 zuzuweisen.
+<sup>3</sup> Nach jeder Leistungsauftragsperiode sind die Rückstellungen aufzulösen und der allgemeinen Reserve unter Berücksichtigung der Einschränkung nach Artikel 17 Absatz 2 zuzuweisen.
 
 #### Art. 18
 
@@ -312,99 +313,5 @@ von der Regierung erlassen am 8. Juli 2014
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt auf den 1. August 2014 in Kraft.
-
-## A2 Anhang 2: Höchstanrechenbare Gehaltsansätze (Art. 27a)
-
-### A2.1. Allgemeines
-
-#### Art. A2-1
-
-**Besoldung**
-
-<sup>1</sup> Die in diesem Anhang fixierten höchstanrechenbaren Ansätze für die Besoldung basieren auf dem Funktionsklassensystem der kantonalen Verwaltung.
-
-<sup>2</sup> Bei der konkreten Festsetzung der Löhne müssen die Hochschulen gegebenenfalls tiefere ortsübliche Ansätze einhalten.
-
-### A2.2. Lohnregelung an Hochschulen
-
-#### Art. A2-2
-
-**Grundsatz**
-
-<sup>1</sup> Die Löhne im Bereich der Schulleitung, des Unterrichts, des Technologie- und Wissenstransfers sowie der anwendungsorientierten Forschung und Entwicklung richten sich nach Artikel A2-4.
-
-<sup>2</sup> Für die übrigen Mitarbeitenden gelten die Lohnkategorien und Lohnklassen gemäss Artikel A2-3.
-
-<sup>3</sup> Bei der Einreihung von Mitarbeitenden, die nicht nach Artikel A2-3 oder A2-4 eingeteilt werden können, gilt erstens der Anhang 1 der Defizitverordnung und zweitens der generelle Einreihungsplan des Kantons Graubünden.
-
-#### Art. A2-3
-
-**Kategorien von Mitarbeitenden und höchstanerkannte Gehälter**
-
-<sup>1</sup> Folgende Kategorien von Mitarbeitenden werden unterschieden sowie mit höchstanerkannten Gehälter gemäss Funktionsklassensystem der kantonalen Verwaltung wie folgt festgesetzt (bei nachstehenden Funktionen ohne Spezifikation oder mit mehreren möglichen Funktionsklassen erfolgt die definitive Zuteilung zu einer Funktionsklasse aufgrund des Pflichtenheftes nach Rücksprache mit dem zuständigen Amt):
-
-<table>
-<tr><th>Funktion</th><th>Funktionsklasse</th></tr>
-<tr><td>Höhere Stabsfunktion</td><td>19</td></tr>
-<tr><td>Leiter/-in IT</td><td>18</td></tr>
-<tr><td>Abteilungsleiter/-in Services</td><td>17</td></tr>
-<tr><td>I+D Spezialist/-in II (mit Bachelor)</td><td>15</td></tr>
-<tr><td>Personal Sachbearbeiter/-in II (mit eidg. Fachausweis)</td><td>14</td></tr>
-<tr><td>Buchhalter/-in (mit eidg. Fachausweis)</td><td>14</td></tr>
-<tr><td>I+D Spezialist/-in I (mit eidg. Fähigkeitszeugnis)</td><td>13</td></tr>
-<tr><td>Sekretär/-in I–IV</td><td>10–13</td></tr>
-<tr><td>Hauswart/-in</td><td>10</td></tr>
-<tr><td>Sekretär/-in, Telefonist/-in</td><td>8/9</td></tr>
-<tr><td>Büro-Assistent/-in</td><td>7/8</td></tr>
-</table>
-
-<sup>2</sup> Teilzeitbeschäftigte werden ihrer Funktion gemäss anteilsmässig entlöhnt.
-
-#### Art. A2-4
-
-**Hochschulen**
-
-<sup>1</sup> Folgende Kategorien von Lehrpersonen und Hochschulpersonal werden unterschieden sowie die höchstanerkannten Gehälter gemäss Funktionsklassensystem der kantonalen Verwaltung wie folgt festgesetzt:
-
-<sup>1.1</sup> Hauptamtliche Mitarbeitende:
-
-<table>
-<tr><th>Funktion</th><th>Funktionsklasse</th></tr>
-<tr><td>Rektor/-in</td><td>27</td></tr>
-<tr><td>Mitglied der Hochschulleitung</td><td>25</td></tr>
-<tr><td>Abteilungsleiter/-in II</td><td>24</td></tr>
-<tr><td>Forschungsleiter/-in</td><td>24</td></tr>
-<tr><td>Studienleiter/-in II</td><td>24</td></tr>
-<tr><td>Institutsleiter/-in</td><td>24</td></tr>
-<tr><td>Studienleiter/-in I</td><td>23</td></tr>
-<tr><td>Ressortleiter/-in</td><td>23</td></tr>
-<tr><td>Dozent/-in mit Fachführung</td><td>23</td></tr>
-<tr><td>Dozent/-in mit Wissens- und Technologietransfer (WTT)</td><td>23</td></tr>
-<tr><td>Leiter/-in Fachgruppe</td><td>23</td></tr>
-<tr><td>Abteilungsleiter/-in I</td><td>23</td></tr>
-<tr><td>Dozent/-in</td><td>22</td></tr>
-<tr><td>Wissenschaftl. Mitarbeiter/-in III</td><td>21</td></tr>
-<tr><td>Abteilungsleiter/-in</td><td>20</td></tr>
-<tr><td>Wissenschaftl. Mitarbeiter/-in II</td><td>19</td></tr>
-<tr><td>Leiter/-in Personalwesen</td><td>17</td></tr>
-<tr><td>Projektleiter/-in Zentrale Dienste</td><td>17</td></tr>
-<tr><td>Projektmitarbeiter/-in Zentrale Dienste</td><td>15</td></tr>
-<tr><td>Wissenschaftl. Mitarbeiter/-in I</td><td>15</td></tr>
-<tr><td>Organisationsassistent/-in mit Fachführung</td><td>13</td></tr>
-<tr><td>Organisationsassistent/-in</td><td>12</td></tr>
-</table>
-
-<sup>1.2</sup> Nebenamtliche Mitarbeitende:
-
-<table>
-<tr><th>Kategorie</th><th>Funktion / Ausbildung</th><th>Entschädigung</th></tr>
-<tr><td>Lehrbeauftragte</td><td>Lehrpersonen mit einer unter Artikel A2-4 Absatz 1.1 erwähnten Fachqualifikation, die semesterweise und regelmässig Unterricht von mindestens acht Wochenlektionen an der gleichen Schule erteilen</td><td>Lohnklasse gemäss Artikel A2-4 Absatz 1.1 anteilsmässig</td></tr>
-<tr><td>Nebenamtlehrperson</td><td>Lehrpersonen mit einer unter Artikel A2-4 Abs. 1.1 erwähnten Fachqualifikation, die semesterweise und regelmässig weniger als acht Wochenlektionen Unterricht an der gleichen Schule erteilen oder in Abendkursen, in branchenbezogenen Unterrichtsfächern oder als Stellvertreter/innen einzelne Stunden erteilen</td><td>Lohnklasse gemäss Artikel A2-4 Absatz 1.1, geteilt durch Schulwochen und Pflichtpensum (Pflichtlektionen für vollamtliche Lehrpersonen). Es werden nur die effektiv erteilten Lektionen vergütet. In diesem Ansatz ist die Feiertags- und Ferienentschädigung enthalten</td></tr>
-<tr><td>Stellvertretung von Lehrpersonen / Gastrefenten</td><td>Lehrpersonen, die in Stellvertretungsfunktion während kurzer Zeit Unterricht erteilen</td><td>Lohnklasse Min. gemäss Artikel A2-3 oder A2-4 Absatz 1.1 geteilt durch Schulwochen und Pflichtpensum (Pflichtlektionen für vollamtliche Lehrpersonen). In diesem Ansatz ist die Feiertags- und Ferienentschädigung enthalten</td></tr>
-</table>
-
-<sup>2</sup> Für vollamtlich Dozierende von Hochschulen, die ein Teilpensum von maximal 30 Prozent an einer höheren Fachschule erfüllen, sind die Ansätze für Dozierende von Hochschulen anrechenbar.
-
-<sup>3</sup> Der Austausch von Dozierenden mit anderen Hochschulen wird auf Antrag durch das Departement geregelt.
 
 -

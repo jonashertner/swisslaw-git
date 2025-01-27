@@ -5,11 +5,12 @@ title: Ordinaziun davart las scolas autas purtadas dal chantun
 short: OSA
 language: rm
 version: 2025-01-01
+corrected: 2025-01-28
 version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3804/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -182,9 +183,9 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 <sup>1</sup> La cumpart da la contribuziun globala per il svilup da l'organisaziun da las scolas autas è cuntegnida en l'incarica da prestaziun ed importa maximalmain 6 pertschient da la media dals custs bruts dals ultims 4 onns.
 
-<sup>2</sup> La cumpart sto vegnir inditgada en il quint annual sut las reservas.
+<sup>2</sup> La cumpart sto vegnir inditgada en il quint annual sut retenziuns.
 
-<sup>3</sup> Suenter mintga perioda da l'incarica da prestaziun sto la cumpart restanta vegnir attribuida a las reservas generalas, resguardond la restricziun tenor l'artitgel 17 alinea 2.
+<sup>3</sup> Las retenziuns ston vegnir schliadas suenter mintga perioda da l'incarica da prestaziun e vegnir attribuidas a las reservas generalas resguardond la restricziun tenor l'artitgel 17 alinea 2.
 
 #### Art. 18
 
@@ -312,99 +313,5 @@ relaschada da la regenza ils 8 da fanadur 2014
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. d'avust 2014.
-
-## A2 Agiunta 2: Salaris maximals imputabels (art. 27a)
-
-### A2.1. Chaussas generalas
-
-#### Art. A2-1
-
-**Salarisaziun**
-
-<sup>1</sup> Las tariffas maximalas imputablas per la salarisaziun ch'èn fixadas en questa agiunta sa basan sin il sistem da classas da funcziun da l'administraziun chantunala.
-
-<sup>2</sup> Tar la fixaziun concreta dals salaris ston las scolas autas eventualmain observar las tariffas pli bassas d'usit local.
-
-### A2.2. Regulaziun dals salaris a las scolas autas
-
-#### Art. A2-2
-
-**Princip**
-
-<sup>1</sup> Ils salaris en il sectur da la direcziun da la scola, da l'instrucziun, dal transfer da tecnologia e da savida sco er da la perscrutaziun e dal svilup ch'è orientà a l'applicaziun sa drizzan tenor l'artitgel A2-4.
-
-<sup>2</sup> Per las ulteriuras collavuraturas ed ils ulteriurs collavuraturs valan las categorias e las classas da salari tenor l'artitgel A2-3.
-
-<sup>3</sup> Per la classificaziun da collavuraturas e collavuraturs che na pon betg vegnir classifitgads tenor l'artitgel A2-3 u l'artitgel A2-4 vala en emprima lingia l'agiunta 1 da l'Ordinaziun da deficit ed en segunda lingia il plan general da classificaziun dal chantun Grischun.
-
-#### Art. A2-3
-
-**Categorias da collavuraturas e collavuraturs e salaris maximals renconuschids**
-
-<sup>1</sup> Las suandantas categorias da collavuraturas e collavuraturs vegnan differenziadas, ed i vegnan fixads ils suandants salaris maximals renconuschids tenor il sistem da classas da funcziun da l'administraziun chantunala (tar las funcziuns menziunadas qua sutvart che n'han nagina specificaziun u che appartegnan a pliras classas da funcziun pussaivlas, vegn l'attribuziun definitiva ad ina classa da funcziun fatga sin basa dal carnet d'obligaziuns, suenter avair consultà l'uffizi cumpetent):
-
-<table>
-<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
-<tr><td>funcziun da stab pli auta</td><td>19</td></tr>
-<tr><td>manader/-dra da las tecnologias d'infurmaziun</td><td>18</td></tr>
-<tr><td>manader/-dra da partiziun dals servetschs</td><td>17</td></tr>
-<tr><td>spezialist/-a dad I+D II (cun bachelor)</td><td>15</td></tr>
-<tr><td>referendari/-a da fatgs da persunal II (cun certificat professiunal federal)</td><td>14</td></tr>
-<tr><td>contabilist/-a (cun certificat professiunal federal)</td><td>14</td></tr>
-<tr><td>spezialist/-a dad I+D I (cun attestat federal da qualificaziun)</td><td>13</td></tr>
-<tr><td>secretari/-a I–IV</td><td>10–13</td></tr>
-<tr><td>pedel/-la</td><td>10</td></tr>
-<tr><td>secretari/-a, telefonist/-a</td><td>8/9</td></tr>
-<tr><td>assistent/-a da biro</td><td>7/8</td></tr>
-</table>
-
-<sup>2</sup> Persunas che lavuran a temp parzial survegnan in salari proporziunal a lur funcziun.
-
-#### Art. A2-4
-
-**Scolas autas**
-
-<sup>1</sup> Las suandantas categorias da persunas d'instrucziun e da collavuraturas e collavuraturs da scolas autas vegnan differenziadas, ed i vegnan fixads ils suandants salaris maximals renconuschids tenor il sistem da classas da funcziun da l'administraziun chantunala:
-
-<sup>1.1</sup> Collavuraturas e collavuraturs en uffizi principal:
-
-<table>
-<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
-<tr><td>rectur/-a</td><td>27</td></tr>
-<tr><td>commember/-bra da la direcziun da la scola auta</td><td>25</td></tr>
-<tr><td>manader/-dra da partiziun II</td><td>24</td></tr>
-<tr><td>manader/-dra da perscrutaziun</td><td>24</td></tr>
-<tr><td>manader/-dra da studi II</td><td>24</td></tr>
-<tr><td>manader/-dra d'institut</td><td>24</td></tr>
-<tr><td>manader/-dra da studi I</td><td>23</td></tr>
-<tr><td>manader/-dra da ressort</td><td>23</td></tr>
-<tr><td>docent/-a cun direcziun dal rom</td><td>23</td></tr>
-<tr><td>docent/-a cun transfer da savida e da tecnologia (TST)</td><td>23</td></tr>
-<tr><td>manader/-dra da gruppa professiunala</td><td>23</td></tr>
-<tr><td>manader/-dra da partiziun I</td><td>23</td></tr>
-<tr><td>docent/-a</td><td>22</td></tr>
-<tr><td>collavuratur/-a scientific/-a III</td><td>21</td></tr>
-<tr><td>manader/-dra da partiziun</td><td>20</td></tr>
-<tr><td>collavuratur/-a scientific/-a II</td><td>19</td></tr>
-<tr><td>manader/-dra dals fatgs da persunal</td><td>17</td></tr>
-<tr><td>manader/-dra da project dals servetschs centrals</td><td>17</td></tr>
-<tr><td>collavuratur/-a da project dals servetschs centrals</td><td>15</td></tr>
-<tr><td>collavuratur/-a scientific/-a I</td><td>15</td></tr>
-<tr><td>assistent/-a d'organisaziun cun direcziun dal rom</td><td>13</td></tr>
-<tr><td>assistent/-a d'organisaziun</td><td>12</td></tr>
-</table>
-
-<sup>1.2</sup> Collavuraturas e collavuraturs en uffizi accessoric:
-
-<table>
-<tr><th>Categoria</th><th>Funcziun / scolaziun</th><th>Indemnisaziun</th></tr>
-<tr><td>Incumbensadas ed incumbensads per l'instrucziun</td><td>Persunas d'instrucziun cun ina qualificaziun professiunala menziunada en l'artitgel A2-4 alinea 1 che instrueschan per semester e regularmain almain 8 lecziuns per emna a la medema scola</td><td>Classa da salari tenor l'artitgel A2-4 alinea 1, proporziunalmain</td></tr>
-<tr><td>Persuna d'instrucziun en uffizi accessoric</td><td>Persunas d'instrucziun cun ina qualificaziun professiunala menziunada en l'artitgel A2-4 alinea 1 che instrueschan per semester e regularmain main che 8 lecziuns per emna a la medema scola u che dattan singulas uras d'instrucziun en curs da saira, en roms d'instrucziun che sa refereschan a la branscha ubain sco substitutas u substituts</td><td>Classa da salari tenor l'artitgel A2-4 alinea 1, partì cun emnas da scola e pensum obligatoric (lecziuns obligatoricas da las persunas d'instrucziun en uffizi cumplain) I vegnan indemnisadas mo las lecziuns che vegnan dadas ef-fectivamain. En questa tariffa è cuntegnida l'indemnisaziun da firads e da vacanzas</td></tr>
-<tr><td>Substituziun da: persunas d'instrucziun / referents/-as ospitants/-as</td><td>Persunas d'instrucziun che instrueschan en ina funcziun da substitut/-a durant in curt temp</td><td>Classa da salari minimala tenor l'artitgel A2-3 u A2-4 alinea 1, partì cun emnas da scola e pensum obligatoric (lecziuns obligatoricas da las persunas d'instrucziun en uffizi cumplain). En questa tariffa è cuntegnida l'indemnisaziun da firads e da vacanzas</td></tr>
-</table>
-
-<sup>2</sup> Per docentas e docents en uffizi cumplain da scolas autas che adempleschan en ina scola spezialisada superiura in pensum parzial da maximalmain 30 pertschient èn imputablas las tariffas per docentas e docents da la scola auta.
-
-<sup>3</sup> Il departament regla sin dumonda il barat da docentas e docents cun autras scolas autas.
 
 -

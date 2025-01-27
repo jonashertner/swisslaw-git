@@ -5,11 +5,12 @@ title: Ordinanza sulle scuole universitarie con ente responsabile cantonale
 short: OSU
 language: it
 version: 2025-01-01
+corrected: 2025-01-28
 version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3804/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3491/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -182,9 +183,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> La quota del contributo globale destinata allo sviluppo dell'organizzazione delle scuole universitarie è inclusa nel mandato di prestazioni e ammonta al massimo al sei per cento della spesa lorda media degli ultimi quattro anni.
 
-<sup>2</sup> La quota deve essere iscritta nel conto annuale tra le riserve.
+<sup>2</sup> La quota deve essere iscritta nel conto annuale tra gli accantonamenti.
 
-<sup>3</sup> Dopo ogni periodo di mandato di prestazioni la quota rimanente deve essere attribuita alle riserve generali tenendo conto della limitazione prevista dall'articolo 17 capoverso 2.
+<sup>3</sup> Dopo ogni periodo di mandato di prestazioni gli accantonamenti devono essere sciolti e attribuiti alla riserva generale tenendo conto della limitazione prevista dall'articolo 17 capoverso 2.
 
 #### Art. 18
 
@@ -312,99 +313,5 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° agosto 2014.
-
-## A2 Allegato 2: Stipendi massimi computabili (art. 27a)
-
-### A2.1. In generale
-
-#### Art. A2-1
-
-**Retribuzione**
-
-<sup>1</sup> Le aliquote massime computabili per la retribuzione fissate nel presente allegato si basano sul sistema delle classi di funzione dell'Amministrazione cantonale.
-
-<sup>2</sup> Per la determinazione concreta degli stipendi, le scuole universitarie devono eventualmente osservare aliquote locali inferiori.
-
-### A2.2. Regolamentazione degli stipendi nelle scuole universitarie
-
-#### Art. A2-2
-
-**Principio**
-
-<sup>1</sup> Gli stipendi nell'ambito della direzione scolastica, dell'insegnamento, del transfer di tecnologia e scienza, nonché della ricerca e dello sviluppo applicati si conformano all'articolo A2-4.
-
-<sup>2</sup> Per gli altri collaboratori fanno stato le categorie e le classi di stipendio conformemente all'articolo A2-3.
-
-<sup>3</sup> Per la classificazione dei collaboratori che non possono essere classificati secondo l'articolo A2-3 o l'articolo A2-4 fanno stato in primo luogo l'allegato 1 all'ordinanza sul disavanzo e in secondo luogo il piano generale di classificazione del Cantone dei Grigioni.
-
-#### Art. A2-3
-
-**Categorie di collaboratori e stipendi massimi riconosciuti**
-
-<sup>1</sup> Vengono distinte le seguenti categorie di collaboratori e fissati gli stipendi massimi riconosciuti secondo il sistema delle classi di funzione dell'Amministrazione cantonale (per le seguenti funzioni senza specificazione o con più classi di funzione possibili, l'attribuzione definitiva a una classe di funzione viene effettuata in base al mansionario, previo accordo con l'Ufficio competente):
-
-<table>
-<tr><th>Funzione</th><th>Classe di funzione</th></tr>
-<tr><td>Funzione stato maggiore superiore</td><td>19</td></tr>
-<tr><td>Responsabile IT</td><td>18</td></tr>
-<tr><td>Responsabile sezione servizi</td><td>17</td></tr>
-<tr><td>Specialista I+D II (con bachelor)</td><td>15</td></tr>
-<tr><td>Funzionario incaricato risorse umane II (con attestato professionale federale)</td><td>14</td></tr>
-<tr><td>Contabile (con attestato professionale federale)</td><td>14</td></tr>
-<tr><td>Specialista I+D I (con attestato federale di capacità)</td><td>13</td></tr>
-<tr><td>Segretario I–IV</td><td>10–13</td></tr>
-<tr><td>Custode</td><td>10</td></tr>
-<tr><td>Segretario, centralinista</td><td>8/9</td></tr>
-<tr><td>Assistente d'ufficio</td><td>7/8</td></tr>
-</table>
-
-<sup>2</sup> Le persone impiegate a tempo parziale vengono retribuite proporzionalmente secondo la loro funzione.
-
-#### Art. A2-4
-
-**Scuole universitarie**
-
-<sup>1</sup> Vengono distinte le seguenti categorie di insegnanti e personale di scuola universitaria e fissati gli stipendi massimi riconosciuti secondo il sistema delle classi di funzione dell'Amministrazione cantonale:
-
-<sup>1.1</sup> Collaboratori a titolo principale:
-
-<table>
-<tr><th>Funzione</th><th>Classe di funzione</th></tr>
-<tr><td>Rettore</td><td>27</td></tr>
-<tr><td>Membro della direzione della scuola universitaria</td><td>25</td></tr>
-<tr><td>Responsabile di sezione II</td><td>24</td></tr>
-<tr><td>Responsabile ricerca</td><td>24</td></tr>
-<tr><td>Responsabile studi II</td><td>24</td></tr>
-<tr><td>Responsabile di istituto</td><td>24</td></tr>
-<tr><td>Responsabile studi I</td><td>23</td></tr>
-<tr><td>Responsabile di settore</td><td>23</td></tr>
-<tr><td>Docente con gestione specialistica</td><td>23</td></tr>
-<tr><td>Docente con trasferimento di sapere e tecnologie (TST)</td><td>23</td></tr>
-<tr><td>Responsabile gruppo specialistico</td><td>23</td></tr>
-<tr><td>Responsabile di sezione I</td><td>23</td></tr>
-<tr><td>Docente</td><td>22</td></tr>
-<tr><td>Collaboratore scientifico III</td><td>21</td></tr>
-<tr><td>Responsabile di sezione</td><td>20</td></tr>
-<tr><td>Collaboratore scientifico II</td><td>19</td></tr>
-<tr><td>Responsabile risorse umane</td><td>17</td></tr>
-<tr><td>Responsabile di progetto servizi centrali</td><td>17</td></tr>
-<tr><td>Collaboratore di progetto servizi centrali</td><td>15</td></tr>
-<tr><td>Collaboratore scientifico I</td><td>15</td></tr>
-<tr><td>Assistente organizzativo con gestione specialistica</td><td>13</td></tr>
-<tr><td>Assistente organizzativo</td><td>12</td></tr>
-</table>
-
-<sup>1.2</sup> Collaboratori a titolo accessorio:
-
-<table>
-<tr><th>Categoria</th><th>Funzione / formazione</th><th>Indennità</th></tr>
-<tr><td>Insegnanti incaricati</td><td>insegnanti con una qualifica specialistica indicata all'articolo A2-4 capoverso 1.1 che impartiscono a semestri e regolarmente un insegnamento di almeno otto lezioni settimanali nella stessa scuola</td><td>classe di stipendio conformemente all'articolo A2-4 capoverso 1.1, proporzionalmente</td></tr>
-<tr><td>Insegnanti a tempo parziale</td><td>insegnanti con una qualifica specialistica indicata all'articolo A2-4 capoverso 1.1 che impartiscono a semestri e regolarmente un insegnamento di meno di otto lezioni settimanali presso la medesima scuola oppure che impartiscono ore singole in corsi serali, in materie d'insegnamento relative a un settore o quali supplenti</td><td>classe di stipendio conformemente all'articolo A2-4 capoverso 1.1, divisa per le settimane di scuola e il numero di lezioni obbligatorie (lezioni obbligatorie per insegnanti a tempo pieno). Vengono retribuite solo le lezioni effettivamente impartite. In questa aliquota è inclusa l'indennità per i giorni festivi e le vacanze</td></tr>
-<tr><td>Insegnanti supplenti / relatori esterni</td><td>insegnanti che impartiscono lezioni in qualità di supplenti per un breve periodo</td><td>classe di stipendio min. conformemente all'articolo A2-3 o all'articolo A2-4 capoverso 1.1, divisa per le settimane di scuola e il numero di lezioni obbligatorie (lezioni obbligatorie per insegnanti a tempo pieno). In questa aliquota è inclusa l'indennità per i giorni festivi e le vacanze</td></tr>
-</table>
-
-<sup>2</sup> Per docenti a tempo pieno di scuole universitarie che insegnano fino a un massimo del 30 per cento presso una scuola specializzata superiore, sono computabili le aliquote per docenti di scuole universitarie.
-
-<sup>3</sup> Lo scambio di docenti con altre scuole universitarie è disciplinato dal Dipartimento, su richiesta.
 
 -
