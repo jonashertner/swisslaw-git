@@ -5,12 +5,12 @@ title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-01-28
 version_adopted: 2025-01-21
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3747/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -179,7 +179,6 @@ verordnen:[^ingress-1]
 - i) Sozialversicherungen, soweit nicht andere Departemente zuständig sind;
 - i<sup>bis</sup>) Gleichstellung von Mann und Frau;
 - i<sup>ter</sup>) Integrationsförderung;
-- j) Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt sowie Menschenhandel;
 - k) Staats- und Stiftsarchiv sowie Bibliotheken;
 - l) Kulturförderung und Kulturerbe einschliesslich Denkmalpflege und Archäologie;
 - l<sup>bis</sup>) Lotteriefonds-Beitragswesen;
