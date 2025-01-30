@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur le libre passage: protéger l’avoir de prévoyance en cas de sortie d’un plan de prévoyance 1e"
 document: Projet mis en consultation
 language: fr

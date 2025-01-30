@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge sul libero passaggio: proteggere gli averi di vecchiaia in caso di uscita da un piano di previdenza 1e"
 document: Progetto posto in consultazione
 language: it

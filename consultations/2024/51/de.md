@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Freizügigkeitsgesetzes: Altersguthaben schützen bei einem Austritt aus einem 1e-Plan"
 document: Vernehmlassungsvorlage
 language: de
