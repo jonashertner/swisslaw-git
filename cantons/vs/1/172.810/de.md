@@ -5,11 +5,12 @@ title: Allgemeine Ausführungsverordnung zum Gesetz über die Referenzdatenbanke
 short: AVGRDB
 language: de
 version: 2022-06-01
+corrected: 2025-01-31
 version_adopted: 2022-05-18
 adopted: 2021-02-03
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.810"
-pdf: "https://lex.vs.ch/api/de/versions/3456/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3034/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -521,8 +522,6 @@ verordnet:
 
 <sup>1</sup> Die vorliegende Ausführungsverordnung tritt ab ihrem Inkrafttreten an die Stelle der Bestimmungen, die durch sie aufgehoben werden und auf die in der geltenden Gesetzgebung verwiesen wird.
 
-<sup>2</sup> Den Behörden wird ab Inkrafttreten der vorliegenden Verordnung eine zweijährige Frist zugestanden, um die Bestimmungen der Verordnungen zum GRDB zu erfüllen. Der Staatsrat kann diese Frist von Jahr zu Jahr verlängern. [^36-1]
-
-[^36-1]: vgl. Frist verlängert: [https://lex.vs.ch/app/de/change\_documents/1380](https://lex.vs.ch/app/de/change_documents/1380)
+<sup>2</sup> Den Behörden wird ab Inkrafttreten der vorliegenden Verordnung eine zweijährige Frist zugestanden, um die Bestimmungen der Verordnungen zum GRDB zu erfüllen. Der Staatsrat kann diese Frist von Jahr zu Jahr verlängern.
 
 CSW RO/AGS 2021-012

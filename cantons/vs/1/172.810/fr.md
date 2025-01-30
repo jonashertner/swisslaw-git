@@ -5,11 +5,12 @@ title: Ordonnance d’application générale de la loi sur les bases de données
 short: OgBDR
 language: fr
 version: 2022-06-01
+corrected: 2025-01-31
 version_adopted: 2022-05-18
 adopted: 2021-02-03
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.810"
-pdf: "https://lex.vs.ch/api/fr/versions/3456/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3034/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -523,8 +524,6 @@ ordonne:
 
 <sup>1</sup> La présente ordonnance est applicable dès son entrée en vigueur en lieu et place des dispositions qu’elle abroge et auxquelles la législation en vigueur se réfère.
 
-<sup>2</sup> Les autorités disposent d’un délai de 2 ans dès l’entrée en vigueur de la présente ordonnance pour se conformer aux dispositions des ordonnances relatives à la LBDR. Le Conseil d’Etat peut prolonger ce délai d’année en année. [^36-1]
-
-[^36-1]: cf. délai prolongé: [https://lex.vs.ch/app/fr/change\_documents/1380](https://lex.vs.ch/app/fr/change_documents/1380)
+<sup>2</sup> Les autorités disposent d’un délai de 2 ans dès l’entrée en vigueur de la présente ordonnance pour se conformer aux dispositions des ordonnances relatives à la LBDR. Le Conseil d’Etat peut prolonger ce délai d’année en année.
 
 RCV RO/AGS 2021-012
