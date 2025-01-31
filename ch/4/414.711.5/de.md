@@ -4,20 +4,22 @@ title: Verordnung des WBF vom 4. Juli 2000 über den nachträglichen Erwerb des 
 short: VNEF
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/361"
 language: de
-version: 2017-01-01
+version: 2025-02-01
 adopted: 2000-07-04
 in_force: 2000-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/361/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2000-361-20170101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/361/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/361/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2000-361-20250201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/361/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über den nachträglichen Erwerb des Fachhochschultitels
 
-vom 4. Juli 2000 (Stand am 1. Januar 2017)[^t-1]
+(VNEF)[^t-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609))
+vom 4. Juli 2000 (Stand am 1. Februar 2025)
+
+[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 18. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 9](https://fedlex.data.admin.ch/eli/oc/2025/9)).
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -28,24 +30,24 @@ verordnet:
 [^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^ingress-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^ingress-3]: [SR 414.201](https://fedlex.data.admin.ch/eli/cc/2016/741)
-[^ingress-4]: Fassung gemäss Ziff. I der V des WBF vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4611](https://fedlex.data.admin.ch/eli/oc/2016/743))
+[^ingress-4]: Fassung gemäss Ziff. I der V des WBF vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4611](https://fedlex.data.admin.ch/eli/oc/2016/743)).
 
 #### Art. 1
 
-**Erwerbsvoraussetzungen**[^1-1]
+**Allgemeine Erwerbsvoraussetzungen**[^1-1]
 
 <sup>1</sup>
 
-Voraussetzungen für den Erwerb des Fachhochschultitels in den Fachbereichen Technik und Informationstechnologie, Architektur, Bau- und Planungswesen, Chemie und Life Sciences, Land- und Forstwirtschaft, Wirtschaft und Dienstleistungen sowie Design sind:[^1-2]
+Voraussetzungen für den Erwerb des Fachhochschultitels in den Fachbereichen Technik und Informationstechnologie, Architektur, Bau- und Planungswesen, Chemie und Life Sciences, Land- und Forstwirtschaft, Wirtschaft und Dienstleistungen sowie Design sind:
 
 - a. ein Diplom einer anerkannten Ingenieurschule (HTL), einer Höheren Wirtschafts- und Verwaltungsschule (HWV), einer Höheren Fachschule für Gestaltung (HFG), einer Höheren Hauswirtschaftlichen Fachschule (HHF) oder ein in den Jahren 1998, 1999 oder 2000 abgeschlossenes Diplomstudium der Hotelfachschule Lausanne (EHL); und
-- b. eine anerkannte Berufspraxis von mindestens fünf Jahren oder ein Nachdiplomkurs auf Hochschulstufe.
+- b. eine anerkannte Berufspraxis (Art. 2 Abs. 1) von mindestens fünf Jahren oder ein Nachdiplomkurs auf Hochschulstufe (Art. 3).
 
-<sup>2</sup> In den Fachbereichen soziale Arbeit, Musik, Theater und andere Künste, angewandte Psychologie sowie angewandte Linguistik richten sich die Voraussetzungen für den Erwerb des Fachhochschultitels für Inhaberinnen und Inhaber eines Diploms einer höheren Fachschule nach Artikel 13 des Reglements der Erziehungsdirektorenkonferenz vom 10. Juni 1999[^1-3] über die Anerkennung kantonaler Fachhochschuldiplome in der Fassung vom 31. August 2004.[^1-4]
+<sup>2</sup> In den Fachbereichen soziale Arbeit, Musik, Theater und andere Künste, angewandte Psychologie sowie angewandte Linguistik richten sich die Voraussetzungen für den Erwerb des Fachhochschultitels für Inhaberinnen und Inhaber eines Diploms einer höheren Fachschule nach Artikel 13 des Reglements der Erziehungsdirektorenkonferenz vom 10. Juni 1999[^1-2] über die Anerkennung kantonaler Fachhochschuldiplome.
 
 <sup>3</sup>
 
-Voraussetzungen für den Erwerb des Fachhochschultitels im Fachbereich Gesundheit mit Ausnahme des Studiengangs Pflege sind:[^1-5]
+Voraussetzungen für den Erwerb des Fachhochschultitels im Fachbereich Gesundheit mit Ausnahme des Studiengangs Pflege sind:
 
 - a.
 
@@ -53,18 +55,25 @@ Voraussetzungen für den Erwerb des Fachhochschultitels im Fachbereich Gesundhei
 
   - 1\.
 
-    eines der folgenden Diplome einer vom Schweizerischen Roten Kreuz (SRK) anerkannten Schule:[^1-6]
+    eines der folgenden Diplome einer vom Schweizerischen Roten Kreuz (SRK) anerkannten Schule:
 
-    - – «dipl. Ernährungsberaterin»/«dipl. Ernährungsberater»,
-    - – «dipl. Hebamme»/«dipl. Entbindungspfleger»,
-    - – «dipl. Physiotherapeutin»/«dipl. Physiotherapeut»,
+    - – «dipl. Ernährungsberaterin» / «dipl. Ernährungsberater»
+    - – «dipl. Hebamme / «dipl. Entbindungspfleger»
+    - – «dipl. Physiotherapeutin» / «dipl. Physiotherapeut»,
 
-  - 2\. ein Ausweis des Schweizerischen Roten Kreuzes als «dipl. Ergotherapeutin»/«dipl. Ergotherapeut», ausgestellt nach Abschluss des Anerkennungsverfahrens des entsprechenden kantonalen Abschlusses;
+  - 2\. ein Ausweis des SRK als «dipl. Ergotherapeutin» / «dipl. Ergotherapeut», ausgestellt nach Abschluss des Anerkennungsverfahrens des entsprechenden kantonalen Abschlusses;
 
 - b. eine anerkannte Berufspraxis (Art. 2 Abs. 2) von mindestens zwei Jahren; und
-- c. ein Nachdiplomkurs auf Hochschulstufe im Fachbereich Gesundheit oder eine andere gleichwertige Weiterbildung (Art. 3 Abs. 2).[^1-7]
+- c. ein Nachdiplomkurs auf Hochschulstufe im Fachbereich Gesundheit, Soziales, Psychologie, Medizin, Management oder Bildung (Art. 3) oder eine andere gleichwertige Weiterbildung.
 
-<sup>4</sup>
+[^1-1]: Fassung gemäss Ziff. I der V des WBF vom 18. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 9](https://fedlex.data.admin.ch/eli/oc/2025/9)).
+[^1-2]: Das Reglement kann beim Staatsekretariat für Bildung, Forschung und Innovation kostenlos abgerufen werden unter: [www.sbfi.admin.ch](https://www.sbfi.admin.ch/sbfi/de/home/hs/hochschulen/koordination-hochschulbereich/rechtliche-grundlagen.html) &gt; Hochschulen &gt; Die Hochschulen &gt; Koordination Hochschulbereich &gt; Rechtliche Grundlagen.
+
+#### Art. 1a
+
+**Erwerbsvoraussetzungen im Studiengang Pflege**[^1a-1]
+
+<sup>1</sup>
 
 Voraussetzungen für den Erwerb des Fachhochschultitels des Studiengangs Pflege im Fachbereich Gesundheit sind:
 
@@ -72,45 +81,34 @@ Voraussetzungen für den Erwerb des Fachhochschultitels des Studiengangs Pflege 
 
   eines der folgenden vom SRK anerkannten Diplome:
 
-  - 1\. «Pflegefachfrau/Pflegefachmann»,
+  - 1\. «Pflegefachfrau»/«Pflegefachmann»,
   - 2\. «Gesundheits- und Krankenpflege, DN II»,
   - 3\. «allgemeine Krankenpflege» (AKP),
   - 4\. «psychiatrische Krankenpflege» (PsyKP),
   - 5\. «Kinderkrankenpflege, Wochen- und Säuglingspflege» (KWS),
   - 6\. «Gemeindekrankenpflege» (GKP),
-  - 7\. «integrierte Krankenpflege» (IKP);
+  - 7\. «integrierte Krankenpflege» (IKP),
+  - 8\. «Krankenpflegerin oder Krankenpfleger der Schule für Krankenpflege Sarnen, Sarner Schwestern, mit der Zusatzausbildung für ambulante Krankenpflege»;
 
 - b.
 
   eine der folgenden ergänzenden Ausbildungen oder eines der folgenden ergänzenden Diplome:
 
-  - 1\. «Höhere Fachausbildung Pflege Stufe II» (HöFa II) des SBK Bildungszentrums (BIZ), der Kaderschule für die Krankenpflege Aarau oder des Weiterbildungszentrums Gesundheitsberufe (WE’G),
-  - 2\. «Certificat d’infirmière clinicienne/infirmier clinicien II» der Ecole supérieure d’enseignement infirmier (ESEI),
+  - 1\. «Höhere Fachausbildung Pflege Stufe II» (HöFa II) des Bildungszentrums des Schweizer Berufsverbands für Pflegefachpersonal (SBK BIZ), der Kaderschule für die Krankenpflege Aarau oder des Weiterbildungszentrums Gesundheitsberufe (WE’G),
+  - 2\. Certificat d’infirmière clinicienne / infirmier clinicien II» der Ecole supérieure d’enseignement infirmier (ESEI),
   - 3\. «Diploma CRS indirizzo clinico» der Scuola superiore per le formazioni sanitarie,
-  - 4\. vom Schweizer Berufsverband der Pflegefachfrauen und Pflegefachmänner (SBK) anerkannte «Höhere Fachausbildung Pflege Stufe I» (HöFa I),
-  - 5\. «Höhere Fachausbildung Pflege Stufe I» der Kaderschule für die Krankenpflege Aarau, des WE’G oder von Careum Weiterbildung,
-  - 6\. «Höhere Fachausbildung für Gesundheitsberufe Stufe I» (HFG) mit Schwerpunkt Pflege des WE’G,
-  - 7\. «Certificat d’infirmière clinicienne/infirmier clinicien I» der ESEI,
-  - 8\. vom SRK anerkanntes Diplom als «Gesundheitsschwester/Gesundheitspfleger»,
-  - 9\. «Certificat d’Etudes Approfondies, Option Clinique» des Institut romand pour les sciences et les pratiques de la santé et du social (IRSP) oder der ESEI,
-  - 10\. «Certificato CRS indirizzo clinico» der Scuola superiore per le formazioni sanitarie,
-  - 11\. «WE’G-Zertifikat NDK Pflege» mit fachlichen Schwerpunkten,
-  - 12\. «Nachdiplomkurs Pflege» mit fachlichen Schwerpunkten von Careum Weiterbildung,
-  - 13\. «Diplom Careum Weiterbildung Mütter- und Väterberaterin»,
-  - 14\. «WE’G-Diplom Mütterberaterin»,
-  - 15\. «Certificat Le Bon Secours en Soins à la personne âgée et soins palliatifs»;
+  - 4\. Nachdiplomstudium an einer höheren Fachschule im Fachbereich Gesundheit, Soziales, Psychologie, Management oder Bildung,
+  - 5\. eidgenössischer Fachausweis im Fachbereich Gesundheit, Soziales, Psychologie, Medizin, Management oder Bildung,
+  - 6\. eidgenössisches Diplom im Fachbereich Gesundheit, Soziales, Psychologie, Medizin, Management oder Bildung,
+  - 7\. Weiterbildung im Fachbereich Gesundheit, Soziales, Psychologie, Medizin, Management oder Bildung mit einem Arbeitsaufwand im Umfang von mindestens 150 Stunden; und
 
-- c. eine anerkannte Berufspraxis (Art. 2 Abs. 2) von mindestens zwei Jahren;
-- d. ein Nachdiplomkurs auf Hochschulstufe im Fachbereich Gesundheit oder eine andere gleichwertige Weiterbildung (Art. 3 Abs. 2), sofern nicht eine Ausbildung oder ein Diplom gemäss Buchstabe b Ziffern 1–3 nachgewiesen wird.[^1-8]
+- c. eine anerkannte Berufspraxis (Art. 2 Abs. 2) von mindestens zwei Jahren.
 
-[^1-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609))
-[^1-2]: Fassung gemäss Ziff. I der V des WBF vom 12. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4155](https://fedlex.data.admin.ch/eli/oc/2014/694))
-[^1-3]: Nicht in der SR oder AS veröffentlicht. Das Reglement kann beim: Staatsekretariat für Bildung, Forschung und Innovation, Einsteinstrasse 2, 3003 Bern bezogen und unter www.sbfi.admin.ch eingesehen werden.
-[^1-4]: Fassung gemäss Ziff. I der V des WBF vom 12. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4155](https://fedlex.data.admin.ch/eli/oc/2014/694))
-[^1-5]: Fassung gemäss Ziff. I der V des WBF vom 4. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4481](https://fedlex.data.admin.ch/eli/oc/2014/746)).
-[^1-6]: Fassung gemäss Ziff. I der V des WBF vom 4. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4481](https://fedlex.data.admin.ch/eli/oc/2014/746)).
-[^1-7]: Eingefügt durch Ziff. I der V des WBF vom 17. März 2009, in Kraft seit 1. Mai 2009 ([AS 2009 1501](https://fedlex.data.admin.ch/eli/oc/2009/214)).
-[^1-8]: Eingefügt durch Ziff. I der V des WBF vom 4. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4481](https://fedlex.data.admin.ch/eli/oc/2014/746)).
+<sup>2</sup> Wer keine Ausbildung oder kein Diplom nach Absatz 1 Buchstabe b Ziffern 1–3 nachweisen kann, muss zusätzlich einen Nachdiplomkurs auf Hochschulstufe im Fachbereich Gesundheit, Soziales, Psychologie, Medizin, Management oder Bildung (Art. 3) oder eine andere gleichwertige Weiterbildung nachweisen.
+
+<sup>3</sup> Keine Ausbildung und kein Diplom nach Absatz 1 Buchstabe b muss nachweisen, wer mit höchstens zwei Nachdiplomkursen auf Hochschulstufe im Fachbereich Gesundheit, Soziales, Psychologie, Medizin, Management oder Bildung oder höchstens zwei anderen gleichwertigen Weiterbildungen mindestens 20 Kreditpunkte nach dem Europäischen Kredittransfersystem (European Credit Transfer System, ECTS) erreicht.
+
+[^1a-1]: Eingefügt durch Ziff. I der V des WBF vom 18. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 9](https://fedlex.data.admin.ch/eli/oc/2025/9)).
 
 #### Art. 2
 
@@ -118,23 +116,20 @@ Voraussetzungen für den Erwerb des Fachhochschultitels des Studiengangs Pflege 
 
 <sup>1</sup> Als anerkannte Berufspraxis für Inhaberinnen und Inhaber eines Diploms nach Artikel 1 Absatz 1 Buchstabe a gilt eine nach dem Erwerb des HTL-, HWV-, HFG-, HHF- oder EHL-Diploms ausgeübte berufliche Tätigkeit im einschlägigen Berufsfeld.
 
-<sup>2</sup> Als anerkannte Berufspraxis für Gesuchstellerinnen und Gesuchsteller aus dem Gesundheitsbereich (Art. 1 Abs. 3 und 4) gilt eine nach dem 1. Juni 2001 ausgeübte berufliche Tätigkeit im einschlägigen Berufsfeld.[^2-2]
+<sup>2</sup> Als anerkannte Berufspraxis für Gesuchstellerinnen und Gesuchsteller aus dem Gesundheitsbereich (Art. 1 Abs. 3 und Art. 1*a*) gilt eine nach dem 1. Juni 2001 ausgeübte berufliche Tätigkeit im einschlägigen Berufsfeld.[^2-2]
 
-[^2-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609))
-[^2-2]: Eingefügt durch Ziff. I der V des WBF vom 17. März 2009 ([AS 2009 1501](https://fedlex.data.admin.ch/eli/oc/2009/214)). Fassung gemäss Ziff. I der V des WBF vom 4. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4481](https://fedlex.data.admin.ch/eli/oc/2014/746)).
+[^2-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609)).
+[^2-2]: Eingefügt durch Ziff. I der V des WBF vom 17. März 2009 ([AS 2009 1501](https://fedlex.data.admin.ch/eli/oc/2009/214)). Fassung gemäss Ziff. I der V des WBF vom 18. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 9](https://fedlex.data.admin.ch/eli/oc/2025/9)).
 
 #### Art. 3
 
 **Umfang der Nachdiplomkurse auf Hochschulstufe**[^3-1]
 
-<sup>1</sup> Für Inhaberinnen und Inhaber eines Diploms nach Artikel 1 Absatz 1 Buchstabe a muss der Nachdiplomkurs auf Hochschulstufe mindestens 200 Lektionen oder 10 Kreditpunkte nach dem Europäischen Kredittransfersystem (European Credit Transfer System, ECTS) umfassen.
+<sup>1</sup> Für Gesuchstellerinnen und Gesuchsteller aus den Fachbereichen nach Artikel 1 Absätze 1 und 3 und Artikel 1*a* muss der Nachdiplomkurs auf Hochschulstufe mindestens 10 ECTS-Kreditpunkte umfassen.
 
-<sup>2</sup> Für Gesuchstellerinnen und Gesuchsteller aus dem Gesundheitsbereich (Art. 1 Abs. 3 und 4) muss der Nachdiplomkurs auf Hochschulstufe mindestens 200 Lektionen oder 10 ECTS-Kreditpunkte umfassen.[^3-2]
+<sup>2</sup> Ein ECTS-Kreditpunkt entspricht einem Arbeitsaufwand von 25–30 Stunden.
 
-<sup>3</sup> Ein ECTS-Kreditpunkt entspricht einem Arbeitsaufwand von 25–30 Stunden.
-
-[^3-1]: Fassung gemäss Ziff. I der V des WBF vom 17. März 2009, in Kraft seit 1. Mai 2009 ([AS 2009 1501](https://fedlex.data.admin.ch/eli/oc/2009/214)).
-[^3-2]: Fassung gemäss Ziff. I der V des WBF vom 4. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4481](https://fedlex.data.admin.ch/eli/oc/2014/746)).
+[^3-1]: Fassung gemäss Ziff. I der V des WBF vom 18. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 9](https://fedlex.data.admin.ch/eli/oc/2025/9)).
 
 #### Art. 4
 
@@ -180,8 +175,8 @@ Es muss enthalten:
 
 <sup>3</sup> Das SBFI führt ein Verzeichnis der Personen, die einen Fachhochschultitel aufgrund dieser Verordnung tragen.
 
-[^7-1]: Fassung gemäss Ziff. I der V des WBF vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4611](https://fedlex.data.admin.ch/eli/oc/2016/743))
-[^7-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609))
+[^7-1]: Fassung gemäss Ziff. I der V des WBF vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4611](https://fedlex.data.admin.ch/eli/oc/2016/743)).
+[^7-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609)).
 
 #### Art. 8
 
@@ -199,7 +194,7 @@ Es muss enthalten:
 
 Personen, die ihr Studium im Studienjahr 1996/1997 begonnen haben, müssen in Abweichung von Artikel 3 einen Nachdiplomkurs von mindestens 100 Lektionen oder 5 Kreditpunkte nachweisen. Diese Bestimmung gilt nicht für Inhaberinnen oder Inhaber eines Diploms nach Artikel 1 Absatz 2.
 
-[^9-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609))
+[^9-1]: Fassung gemäss Ziff. I der V des WBF vom 2. Sept. 2005, in Kraft seit 5. Okt. 2005 ([AS 2005 4655](https://fedlex.data.admin.ch/eli/oc/2005/609)).
 
 #### Art. 10
 
