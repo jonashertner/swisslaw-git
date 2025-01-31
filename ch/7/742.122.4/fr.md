@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFT du 14 mai 2012 sur l'accès au réseau ferroviaire (
 short: OARF-OFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: fr
-version: 2025-01-01
+version: 2025-02-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20250101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20250201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250101/fr"
 
 (OARF-OFT)[^t-1]
 
-du 14 mai 2012 (État le 1<sup>er</sup> janvier 2025)
+du 14 mai 2012 (État le 1<sup>er</sup> février 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -27,7 +27,7 @@ vu l’ordonnance du 25 novembre 1998 sur l’accès au réseau ferroviaire (OAR
 
 arrête:
 
-[^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8735)
+[^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
 ## Section 1 Prix du sillon
@@ -57,10 +57,10 @@ Le prix de base lié au sillon s’élève à:
 
 <sup>3</sup>
 
-Le prix de base lié à l’usure s’élève à:
+Le prix de base lié à l’usure, qui est applicable aux tronçons énumérés à l’annexe 1, s’élève à:[^1-5]
 
 - a. 0,29 ct./tonne brute-kilomètre (tb-km) pour les tronçons dont la superstructure est prévue pour un poids par essieu de 13 t au maximum;
-- b. 0,36 ct./tb-km pour les courses sur tous les autres tronçons.[^1-5]
+- b. 0,36 ct./tb-km pour les courses sur tous les autres tronçons.[^1-6]
 
 <sup>4</sup>
 
@@ -72,13 +72,15 @@ Pour les courses sur les tronçons à voie normale, le prix de base lié à l’
 - d. les autres véhicules sont attribués à un groupe de types de véhicule apparenté et leur prix est augmenté pour chaque catégorie de vitesse et de rayon de 25 % par rapport à la valeur maximale du groupe;
 - e. les véhicules moteurs remorqués bénéficient d’une déduction de la valeur caractéristique de la traction conformément à la formule de l’annexe 1*a*.
 
-<sup>5</sup> Les prix visés à l’al. 3 sont applicables directement aux courses sur les tronçons d’exploitation frontalière visés à l’annexe 2 OARF, sur les tronçons à crémaillère et sur les tronçons à voie étroite, y compris les voies à écartement multiple.
+<sup>5</sup> Les prix visés à l’al. 3 sont applicables directement aux courses sur les tronçons à crémaillère et sur les tronçons à voie étroite, y compris les voies à écartement multiple, ainsi qu’aux tronçons énumérés à l’annexe 3.[^1-7]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 [^1-4]: Introduit par le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
-[^1-5]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 10 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^1-6]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 10 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
+[^1-7]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 2
 
@@ -106,43 +108,21 @@ Pour les courses sur les tronçons à voie normale, le prix de base lié à l’
 
 <sup>2</sup> L’OFT autorise les chemins de fer à courant continu à payer un prix du courant différent lorsque ceux-ci attestent de coûts différents.
 
-<sup>3</sup> Si l’utilisateur du réseau ne mesure pas la consommation d’électricité ou n’indique pas au gestionnaire d’infrastructure le numéro à douze chiffres du véhicule moteur, la consommation est calculée à l’aide des taux mentionnés à l’annexe 5 avec un supplément visé à l’art. 20*a,* al. 3, OARF.[^3-3]
+<sup>3</sup> Si les entreprises de transport ferroviaire renoncent à mesurer la consommation d’électricité sur les tronçons interopérables au sens de l’art. 15*a*, al. 1, let. a, de l’ordonnance du 23 novembre 1983 sur les chemins de fer[^3-3] ainsi que sur le tronçon à voie normale non interopérable Emmenbrücke-Hübeli (bif.) – Beinwil am See – Lenzburg, ou si elles n’indiquent pas au gestionnaire d’infrastructure le numéro à douze chiffres du véhicule moteur, la consommation est calculée à l’aide des taux mentionnés à l’annexe 5 avec un supplément tel que visé à l’art. 20*a,* al. 4, OARF. Pour les autres tronçons, l’OFT fixe périodiquement les taux forfaitaires pour la consommation d’électricité sur la base des indications fournies par le gestionnaire d’infrastructure.[^3-4]
 
-<sup>4</sup>
-
-Pour les véhicules sans freins à récupération, ces taux sont multipliés:
-
-- a. par 1,45 pour les courses du transport régional de voyageurs;
-- b. par 1,15 pour les autres courses.[^3-4]
+<sup>4</sup> …[^3-5]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^3-3]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
-[^3-4]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^3-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^3-4]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^3-5]: Abrogé par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 4
 
-**Rabais ETCS**
+[^4-1]
 
-### (art. 19*c* OARF)
-
-<sup>1</sup>
-
-Le rabais est fixé à un forfait de 25 000 francs par équipement de véhicule et par année et il est accordé à l’utilisateur du réseau à partir de la mise en service du système de contrôle des trains ETCS sur les tronçons suivants:
-
-- a. Pully – Brig;
-- b. Flüelen – Chiasso.
-
-<sup>2</sup> La demande de rabais doit être présentée à l’OFT et renouvelée annuellement.
-
-<sup>3</sup>
-
-Elle contient:
-
-- a. une liste des véhicules pour lesquels le rabais ETCS est demandé;
-- b. l’attestation selon laquelle ces véhicules circulent régulièrement sur un des tronçons énumérés à l’al. 1.
-
-<sup>4</sup> Sur la base de la demande approuvée par l’OFT, le gestionnaire d’infrastructure accorde le rabais ETCS à l’utilisateur du réseau.
+[^4-1]: Abrogé par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 ## Section 2 Prestations complémentaires, publication
 
@@ -199,106 +179,55 @@ Il incombe au gestionnaire d’infrastructure:
 
 [^sec3-1]: Introduite par le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 
-#### Art. 8
+#### Art. 8 et 9
 
-**Attribution des sillons en cas de conflit de commande**[^8-1]
+[^89-1]
 
-### (art. 12 et 12*c*, al. 1 et 2, let. a et b, OARF)
-
-<sup>1</sup> En cas de conflit entre différentes demandes de sillons, le gestionnaire d’infrastructure cherche une solution consensuelle avec les requérants.
-
-<sup>2</sup> Si aucune solution n’est trouvée, le gestionnaire d’infrastructure attribue les sillons conformément aux prescriptions du plan d’utilisation du réseau. Les demandes qui ne restreignent ni le nombre réservé ni la qualité des sillons du même ou d’un autre type de transport sont prioritaires.
-
-<sup>3</sup>
-
-En cas de conflit de commande qui ne concerne que des sillons du trafic voyageurs et qui n’aboutit pas à une solution conformément à l’al. 1 ou 2, l’ordre de priorité est le suivant:
-
-- a. demandes présentées en vertu d’une convention-cadre;
-- b. demandes relatives au trafic voyageurs selon l’horaire cadencé;
-- c. demandes relatives à des trains qui donnent lieu à la contribution de couverture la plus élevée.
-
-<sup>4</sup>
-
-En cas de conflit de commande qui ne concerne pas que des sillons du trafic voyageurs et qui n’aboutit pas à une solution conformément à l’al. 1 ou 2, l’ordre de priorité est le suivant:
-
-- a. demandes présentées en vertu d’une convention-cadre;
-- b. demandes relatives aux trains de marchandises pour lesquels il n’est pas possible de proposer de solution de rechange pour des raisons techniques, notamment du fait du profil d’espace libre requis; la charge de la preuve incombe au requérant;
-- c. demandes présentées à l’année dans le cadre de chaînes coordonnées de transport de marchandises et pour lesquelles il n’est pas possible de proposer de solution de rechange;
-- d.
-
-  demandes pour des trains circulant de manière répétée au cours de l’année d’horaire selon l’ordre de priorité suivant, déterminé d’après la fréquence:
-
-  - 1\. trains circulant en moyenne annuelle au moins 5 jours de transport par semaine,
-  - 2\. trains circulant en moyenne annuelle au moins 3, mais moins de 5 jours de transport par semaine,
-  - 3\. trains circulant en moyenne annuelle au moins 1, mais moins de 3 jours de transport par semaine.
-
-<sup>5</sup> Dans les cas visés à l’al. 4, let. d, le nombre de jours de transport indiqué dans la demande est déterminant. Les demandes sont de même rang au sein d’une même catégorie de fréquence. Si les trains circulent, en moyenne annuelle, moins d’un jour de transport par semaine, les jours de transport effectivement commandés par année d’horaire sont comparés.
-
-[^8-1]: Introduit par le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
-
-#### Art. 9
-
-**Procédure d’appel d’offres**[^9-1]
-
-### (art. 12*c*, al. 3, OARF)
-
-<sup>1</sup> Si la procédure conformément à l’art. 8 ne permet pas de régler un conflit de commande, le gestionnaire d’infrastructure lance une procédure d’appel d’offres.
-
-<sup>2</sup> Il informe tous les requérants concernés qu’il lance une procédure d’appel d’offres. Il les invite à présenter une offre dans un délai précis. Celui-ci est d’au moins quatre jours ouvrables, à moins que le gestionnaire d’infrastructure et les requérants ne s’entendent sur un délai plus bref.
-
-<sup>3</sup> Si une demande relative au trafic voyageurs est concernée par la procédure d’appel d’offres, l’offre en question doit correspondre au moins à la contribution de couverture visée à l’art. 20 OARF.
-
-<sup>4</sup> L’offre la plus élevée remporte l’adjudication. Si la différence par rapport à l’offre suivante dépasse 1000 francs, le gestionnaire d’infrastructure fixe le montant à payer de sorte qu’il soit supérieur de 1000 francs à l’offre suivante.
-
-<sup>5</sup> Si plusieurs offres égales sont présentées, la procédure d’appel d’offres est répétée jusqu’à ce qu’un requérant l’emporte.
-
-<sup>6</sup> Le gestionnaire d’infrastructure dresse un procès-verbal de la procédure d’appel d’offres.
-
-<sup>7</sup> Un requérant n’ayant pas remporté la procédure d’appel d’offres peut se rétracter gratuitement d’autres attributions de sillons s’il prouve qu’il ne pourrait pas les utiliser sans le sillon attribué dans le cadre de la procédure d’appel d’offres.
-
-<sup>8</sup> Le montant proposé ou fixé conformément à l’al. 4 est dû par le requérant qui a remporté la procédure d’appel d’offres même s’il se rétracte de l’attribution du sillon. Dans ce cas, le sillon est attribué aux capacités résiduelles.
-
-[^9-1]: Introduit par le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^89-1]: Introduits par le ch. I de l’O de l’OFT du 7 fév. 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)). Abrogés par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 10
 
-**Attribution de sillons lors de travaux le long de tronçons**[^10-1]
+**Attribution de sillons lors de limitations de capacité en raison de travaux**[^10-1]
 
 ### (art. 11*b* OARF)
 
-<sup>1</sup> Si les fermetures temporaires de tronçons en vue de travaux ne sont pas prises en compte de manière définitive dans le plan d’utilisation du réseau, le gestionnaire d’infrastructure cherche une solution consensuelle avec les requérants concernés.
+<sup>1</sup> Si des limitations de capacité ne sont pas prises en compte dans le plan d’utilisation du réseau ou si elles ne le sont pas de manière définitive, le gestionnaire d’infrastructure cherche une solution consensuelle avec les requérants concernés.
 
-<sup>2</sup> Si aucune solution n’est trouvée, les sillons sont attribués aux types de transport dans la mesure du possible sur la base du plan d’utilisation du réseau.
+<sup>2</sup> Si aucune solution consensuelle n’est trouvée, le service d’attribution des sillons attribue en principe les sillons de manière proportionnelle à tous les types de transport conformément au plan d’utilisation du réseau.
 
-<sup>3</sup> Si la capacité restreinte du fait des fermetures de tronçons n’est pas suffisante pour attribuer les sillons conformément au plan d’utilisation du réseau, le gestionnaire d’infrastructure peut, pour la durée de la restriction de la capacité, adapter le nombre de sillons prévus et leur qualité en fonction du type de transport sur le tronçon concerné et sur les tronçons de contournement envisagés.
+<sup>3</sup> En cas de limitation de capacité qui n’ont pas été prises en compte dans le plan d’utilisation du réseau ou si elles ne l’ont pas été de manière définitive, le service d’attribution des sillons peut adapter les sillons déjà affectés.
 
-[^10-1]: Introduit par le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^10-1]: Introduit par le ch. I de l’O de l’OFT du 7 fév. 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)). Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
-## Section 4 Fermetures de tronçons pour travaux de construction
+## Section 4 Limitations de capacité en raison de travaux
 
-[^sec4-1]
+[^sec4-1][^sec4-2]
 
 [^sec4-1]: Introduite par le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^sec4-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 10a
 
-**Types de fermetures de tronçons**
+**Exigences applicables aux chaînes de transport de voyageurs**[^10a-1]
 
-### (art. 11*b*, al. 1 à 3, OARF)
+### (art. 11*b*, al. 6, OARF)
 
-<sup>1</sup> Une fermeture en fin de semaine commence au plus tôt le vendredi soir après les heures de pointe (hdp) et se termine au plus tard le lundi matin avant les hdp.
+En cas de transport de remplacement, les chaînes de transport de voyageurs sont considérées comme garanties si la durée totale du voyage:
 
-<sup>2</sup> Une fermeture nocturne prolongée commence au plus tôt le soir après les hdp et se termine au plus tard le lendemain matin avant les hdp.
+- a. n’est pas prolongée de plus de 15 minutes pour les voyages devant durer au plus une heure;
+- b. ni de plus de 30 minutes pour les voyages devant durer plus d’une heure.
 
-<sup>3</sup> Une chaîne de transport de voyageurs est considérée comme garantie si, du fait de la fermeture, la durée totale du voyage n’est pas prolongée de plus de 15 minutes pour les voyages devant durer au plus une heure, ni de plus de 30 minutes pour les voyages devant durer plus d’une heure.
+[^10a-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 10b
 
-**Coûts à charge de l’entreprise de transport ferroviaire en cas de fermetures de tronçons**
+**Coûts à la charge de l’entreprise de transport ferroviaire en cas de limitation de capacité**
 
-### (art. 11*b*, al. 4, OARF)
+### (art. 11*c* OARF)
 
-En cas de fermetures de tronçons, les entreprises de transport ferroviaire assument leurs propres coûts:
+[^10b-1]
+
+En cas de limitation de capacité, les entreprises de transport ferroviaire assument leurs propres coûts:[^10b-2]
 
 - a. de planification et de préparation des transports de remplacement et des déviations;
 - b. de prestations d’exploitation supplémentaires;
@@ -306,27 +235,37 @@ En cas de fermetures de tronçons, les entreprises de transport ferroviaire assu
 - d. de distribution, et
 - e. de communication.
 
+[^10b-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^10b-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
 #### Art. 10c
 
 **Indemnisation dans les autres transports**
 
-### (art. 11*b*, al. 5, OARF)
+### (art. 11*b*, al. 4, OARF)
 
-<sup>1</sup> En transport de marchandises sur tronçons à voie normale, le gestionnaire d’infrastructure indemnise l’entreprise de transport ferroviaire à hauteur de 800 francs par train concerné, exceptés les trains de service, en cas de déviations sur le rail.
+[^10c-1]
+
+<sup>1</sup> En transport de marchandises sur tronçons à voie normale, le gestionnaire d’infrastructure indemnise l’entreprise de transport ferroviaire à hauteur de 800 francs par train concerné, excepté les trains de service, en cas de déviations sur le rail. Les déviations dans les zones de gare ne donnent lieu à une indemnisation que si elles réduisent la longueur maximale ou le poids maximal des trains.[^10c-2]
 
 <sup>2</sup> Si une déviation sur le rail n’est pas possible, l’indemnité s’élève à 1500 francs par train concerné.
 
 <sup>3</sup> Sur les tronçons à voie étroite, l’indemnité compense les surcoûts occasionnés à l’entreprise de transport ferroviaire.
 
+[^10c-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^10c-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
 #### Art. 10d
 
-**Forfait en cas de communication tardive d’une fermeture**
+**Forfait en cas de communication tardive d’une limitation de capacités**[^10d-1]
 
-### (art. 11*b*, al. 6, OARF)
+### (art. 11*c*, al. 6, OARF)
 
-<sup>1</sup> En cas de communication tardive d’une fermeture de tronçon, le gestionnaire d’infrastructure verse à l’entreprise de transport ferroviaire un montant forfaitaire de 2000 francs par train concerné.
+<sup>1</sup> En cas de communication tardive d’une limitation de capacité, le gestionnaire d’infrastructure verse à l’entreprise de transport ferroviaire un montant forfaitaire de 2000 francs par train concerné.
 
 <sup>2</sup> Si une déviation sur le rail n’est pas possible, le forfait s’élève à 3000 francs par train concerné.
+
+[^10d-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 ## Section 5 Dispositions finales
 
@@ -336,29 +275,21 @@ En cas de fermetures de tronçons, les entreprises de transport ferroviaire assu
 
 #### Art. 11
 
-**Abrogation du droit en vigueur**[^11-1]
+[^11-1]
 
-Les dispositions d’exécution du 7 juin 1999 de l’ordonnance sur l’accès au réseau ferroviaire[^11-2] sont abrogées.
-
-[^11-1]: Anciennement art. 8.
-[^11-2]: [[RO 2000 1037](https://fedlex.data.admin.ch/eli/oc/2000/163), [2002 196](https://fedlex.data.admin.ch/eli/oc/2002/33), [2006 4801](https://fedlex.data.admin.ch/eli/oc/2006/736), [2007 4655](https://fedlex.data.admin.ch/eli/oc/2007/655), [2009 5815](https://fedlex.data.admin.ch/eli/oc/2009/702), [2011 1249](https://fedlex.data.admin.ch/eli/oc/2011/187)]
+[^11-1]: Anciennement art. 8. Abrogé par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 12
 
-**Disposition transitoire de la modification du 21 septembre 2016**[^12-1]
+[^12-1]
 
-Pour les trains du transport régional de voyageurs indemnisé conformément à l’art. 28 de la loi du 20 mars 2009 sur le transport de voyageurs[^12-2], le prix de base lié à l’usure se calcule conformément à l’art. 1, al. 3, jusqu’au 9 décembre 2017.
-
-[^12-1]: Anciennement art. 8*a*. Introduit par le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^12-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^12-1]: Anciennement art. 8*a*. Introduit par le ch. I de l’O de l’OFT du 21 sept. 2016 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)). Abrogé par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 12a
 
-**Disposition transitoire de la modification du 14 novembre 2019**[^12a-1]
+[^12a-1]
 
-Le supplément selon l’art. 20*a*, al. 3, OARF n’est pas perçu jusqu’au 31 décembre 2022 sur les véhicules pour lesquels un remplacement est commandé lors de l’entrée en vigueur de la modification du 14 novembre 2019.
-
-[^12a-1]: Introduit par le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
+[^12a-1]: Introduit par le ch. I de l’O de l’OFT du 14 nov. 2019 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)). Abrogé par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 12b
 
@@ -369,7 +300,7 @@ Le supplément selon l’art. 20*a*, al. 3, OARF n’est pas perçu jusqu’au 3
 <sup>2</sup> La durée de validité visée à l’al. 1 est prolongée jusqu’au 31 décembre 2024.[^12b-3]
 
 [^12b-1]: Introduit par le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^12b-3]: Introduit par le ch. I de l’O de l’OFT du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 718](https://fedlex.data.admin.ch/eli/oc/2023/718)).
 
 #### Art. 12c
@@ -390,168 +321,168 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
 
 Annexe 1[^t-2]
 
-(art. 1, al. 2)
+(art. 1, al. 2 et 3)
 
 ## Catégories de tronçons au sens de l’art. 19*a*, al. 1, OARF
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFT du 10 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 <table>
 <tr><th>a. voie normale:</th><th>b. voie étroite:</th></tr>
 <tr><td>1. Catégorie de tronçon A</td><td>1. Catégorie de tronçon A</td></tr>
-<tr><td>300 Wengi-Ey – LBT – St. German</td><td>aucune</td></tr>
-<tr><td>302 Frutigen – Frutigen Nordportal</td><td></td></tr>
-<tr><td>600.2 (Altdorf –) Rynächt – GBT – Giustizia (– Bellinzona)</td><td></td></tr>
-<tr><td>601 (Giubiasco –) CBT (– Lugano)</td><td></td></tr>
-<tr><td>634 Sant’Antonino – Vigana (Bretella)</td><td></td></tr>
+<tr><td>300 Wengi-Ey – LBT – St. German</td><td>[tab] aucune</td></tr>
+<tr><td>302 Frutigen – Frutigen Nordportal</td><td>[tab]</td></tr>
+<tr><td>600.2 (Altdorf –) Rynächt – GBT – Giustizia (– Bellinzona)</td><td>[tab]</td></tr>
+<tr><td>601 (Giubiasco –) CBT (– Lugano)</td><td>[tab]</td></tr>
+<tr><td>634 Sant’Antonino – Vigana (Bretella)</td><td>[tab]</td></tr>
 <tr><td>2. Catégorie de tronçon B; coefficient lié à la demande: 2</td><td>2. Catégorie de tronçon B; coefficient lié à la demande: 2</td></tr>
-<tr><td>100.1 Lausanne – Montreux</td><td>aucune</td></tr>
-<tr><td>100.3 Sion – Brig</td><td></td></tr>
-<tr><td>150 Genève Aéroport – Lausanne</td><td></td></tr>
-<tr><td>205 (Lausanne –) L.-Sébeillon (– Renens VD)</td><td></td></tr>
-<tr><td>210.1 Renens VD – Yverdon-les-Bains</td><td></td></tr>
-<tr><td>210.2 Yverdon-les-Bains – Neuchâtel</td><td></td></tr>
-<tr><td>210.3 Neuchâtel – Biel/Bienne</td><td></td></tr>
-<tr><td>250.1 Lausanne – Palézieux</td><td></td></tr>
-<tr><td>250.2 Palézieux – Fribourg/Freiburg – Flamatt</td><td></td></tr>
-<tr><td>250.3 Flamatt – Bern</td><td></td></tr>
-<tr><td>260 Biel/Bienne – Zollikofen</td><td></td></tr>
-<tr><td>290 (Bern –) Bern Wyler – Thun</td><td></td></tr>
-<tr><td>298 (Bern –) Holligen – Belp</td><td></td></tr>
-<tr><td>310 Thun – Spiez</td><td></td></tr>
-<tr><td>410.1 Biel/Bienne – Solothurn</td><td></td></tr>
-<tr><td>450.1 Bern – Löchligut bif. – NBS (– Olten)</td><td></td></tr>
-<tr><td>450.2 Rothrist – Olten</td><td></td></tr>
-<tr><td>460.1 Gümligen Süd – Konolfingen</td><td></td></tr>
-<tr><td>460.2 Konolfingen – Langnau i. E.</td><td></td></tr>
-<tr><td>500.1 Basel SBB – Liestal – Olten</td><td></td></tr>
-<tr><td>500.2 Olten Nord – Olten RB – Olten</td><td></td></tr>
-<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td></td></tr>
-<tr><td>504 (Basel SBB –) Basel SBB RB Nordkopf – Muttenz</td><td></td></tr>
-<tr><td>508.1 Gellert Nord – Basel SBB RB Nordkopf</td><td></td></tr>
-<tr><td>510 Olten – Sursee – Luzern</td><td></td></tr>
-<tr><td>520 (Basel SBB –) Basel Bad. Bf.</td><td></td></tr>
-<tr><td>601.3 Biasca – Bellinzona – Giubiasco</td><td></td></tr>
-<tr><td>601.5 Lugano – Chiasso</td><td></td></tr>
-<tr><td>650 Olten – Aarau – Lenzburg – Killwangen-Spreitenbach</td><td></td></tr>
-<tr><td>660 (Luzern–) Fluhmühle – Zug – Thalwil</td><td></td></tr>
-<tr><td>670.2 Samstagern – Pfäffikon SZ</td><td></td></tr>
-<tr><td>670.3 Pfäffikon SZ – Rapperswil</td><td></td></tr>
-<tr><td>672 Wädenswil – Samstagern – Biberbrugg – Einsiedeln</td><td></td></tr>
-<tr><td>703 Zürich Altstetten – Herdern – Zürich HB</td><td></td></tr>
-<tr><td>704.2 Zürich Altstetten – Hard (– Zürich Oerlikon)</td><td></td></tr>
-<tr><td>710 Brugg AG – Zürich HB</td><td></td></tr>
-<tr><td>711.2 Zürich Altstetten – Zürich Hardbrücke – Zürich HB (Museumstrasse)</td><td></td></tr>
-<tr><td>715 Zürich Altstetten – Vorbhf. – Zürich HB</td><td></td></tr>
-<tr><td>719 Zürich Altstetten (– Zürich Wiedikon)</td><td></td></tr>
-<tr><td>720 (Zürich HB –) ZBT (– Thalwil)</td><td></td></tr>
-<tr><td>721.1 Zürich HB – Kilchberg – Thalwil</td><td></td></tr>
-<tr><td>721.2 Thalwil – Pfäffikon SZ</td><td></td></tr>
-<tr><td>721.3 Pfäffikon SZ – Ziegelbrücke</td><td></td></tr>
-<tr><td>733 Zürich Stadelhofen – Stettbach – Chriesbach (– Dübendorf)</td><td></td></tr>
-<tr><td>734 (Stettbach –) Neugut – Dietlikon</td><td></td></tr>
-<tr><td>735.1 Zürich HB (Museumstrasse) – Meilen</td><td></td></tr>
-<tr><td>740 Wallisellen – Uster – Rapperswil</td><td></td></tr>
-<tr><td>750 Zürich Hardbrücke – Zürich Flughafen – Hürlistein</td><td></td></tr>
-<tr><td>751 Zürich HB – Zürich Wipkingen – Dietlikon – Winterthur</td><td></td></tr>
-<tr><td>752 Zürich Altstetten – Zürich HB – Zürich Oerlikon (DML)</td><td></td></tr>
-<tr><td>755.2 Würenlos – Zürich Oerlikon</td><td></td></tr>
-<tr><td>755.3 Zürich Oerlikon – Opfikon Süd – Kloten – Dorfnest</td><td></td></tr>
-<tr><td>755.4 Zürich Seebach – Opfikon Süd</td><td></td></tr>
-<tr><td>757.1 Effretikon – Wetzikon</td><td></td></tr>
-<tr><td>760.1 Zürich Oerlikon – Oberglatt</td><td></td></tr>
-<tr><td>760.3 Bülach – Eglisau – Schaffhausen</td><td></td></tr>
-<tr><td>762 Winterthur – Neuhausen</td><td></td></tr>
-<tr><td>850.1 Winterthur – Wil – Gossau SG</td><td></td></tr>
-<tr><td>850.2 Gossau SG – St. Gallen St. Fiden</td><td></td></tr>
-<tr><td>870.2 Herisau – Lichtensteig</td><td></td></tr>
-<tr><td>870.3 Herisau – St. Gallen</td><td></td></tr>
-<tr><td>870.4 Romanshorn – St. Gallen St. Fiden</td><td></td></tr>
+<tr><td>100.1 Lausanne – Montreux</td><td>[tab] aucune</td></tr>
+<tr><td>100.3 Sion – Brig</td><td>[tab]</td></tr>
+<tr><td>150 Genève Aéroport – Lausanne</td><td>[tab]</td></tr>
+<tr><td>205 (Lausanne –) L.-Sébeillon (– Renens VD)</td><td>[tab]</td></tr>
+<tr><td>210.1 Renens VD – Yverdon-les-Bains</td><td>[tab]</td></tr>
+<tr><td>210.2 Yverdon-les-Bains – Neuchâtel</td><td>[tab]</td></tr>
+<tr><td>210.3 Neuchâtel – Biel/Bienne</td><td>[tab]</td></tr>
+<tr><td>250.1 Lausanne – Palézieux</td><td>[tab]</td></tr>
+<tr><td>250.2 Palézieux – Fribourg/Freiburg – Flamatt</td><td>[tab]</td></tr>
+<tr><td>250.3 Flamatt – Bern</td><td>[tab]</td></tr>
+<tr><td>260 Biel/Bienne – Zollikofen</td><td>[tab]</td></tr>
+<tr><td>290 (Bern –) Bern Wyler – Thun</td><td>[tab]</td></tr>
+<tr><td>298 (Bern –) Holligen – Belp</td><td>[tab]</td></tr>
+<tr><td>310 Thun – Spiez</td><td>[tab]</td></tr>
+<tr><td>410.1 Biel/Bienne – Solothurn</td><td>[tab]</td></tr>
+<tr><td>450.1 Bern – Löchligut bif. – NBS (– Olten)</td><td>[tab]</td></tr>
+<tr><td>450.2 Rothrist – Olten</td><td>[tab]</td></tr>
+<tr><td>460.1 Gümligen Süd – Konolfingen</td><td>[tab]</td></tr>
+<tr><td>460.2 Konolfingen – Langnau i. E.</td><td>[tab]</td></tr>
+<tr><td>500.1 Basel SBB – Liestal – Olten</td><td>[tab]</td></tr>
+<tr><td>500.2 Olten Nord – Olten RB – Olten</td><td>[tab]</td></tr>
+<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td>[tab]</td></tr>
+<tr><td>504 (Basel SBB –) Basel SBB RB Nordkopf – Muttenz</td><td>[tab]</td></tr>
+<tr><td>508.1 Gellert Nord – Basel SBB RB Nordkopf</td><td>[tab]</td></tr>
+<tr><td>510 Olten – Sursee – Luzern</td><td>[tab]</td></tr>
+<tr><td>520 (Basel SBB –) Basel Bad. Bf.</td><td>[tab]</td></tr>
+<tr><td>601.3 Biasca – Bellinzona – Giubiasco</td><td>[tab]</td></tr>
+<tr><td>601.5 Lugano – Chiasso</td><td>[tab]</td></tr>
+<tr><td>650 Olten – Aarau – Lenzburg – Killwangen-Spreitenbach</td><td>[tab]</td></tr>
+<tr><td>660 (Luzern–) Fluhmühle – Zug – Thalwil</td><td>[tab]</td></tr>
+<tr><td>670.2 Samstagern – Pfäffikon SZ</td><td>[tab]</td></tr>
+<tr><td>670.3 Pfäffikon SZ – Rapperswil</td><td>[tab]</td></tr>
+<tr><td>672 Wädenswil – Samstagern – Biberbrugg – Einsiedeln</td><td>[tab]</td></tr>
+<tr><td>703 Zürich Altstetten – Herdern – Zürich HB</td><td>[tab]</td></tr>
+<tr><td>704.2 Zürich Altstetten – Hard (– Zürich Oerlikon)</td><td>[tab]</td></tr>
+<tr><td>710 Brugg AG – Zürich HB</td><td>[tab]</td></tr>
+<tr><td>711.2 Zürich Altstetten – Zürich Hardbrücke – Zürich HB (Museumstrasse)</td><td>[tab]</td></tr>
+<tr><td>715 Zürich Altstetten – Vorbhf. – Zürich HB</td><td>[tab]</td></tr>
+<tr><td>719 Zürich Altstetten (– Zürich Wiedikon)</td><td>[tab]</td></tr>
+<tr><td>720 (Zürich HB –) ZBT (– Thalwil)</td><td>[tab]</td></tr>
+<tr><td>721.1 Zürich HB – Kilchberg – Thalwil</td><td>[tab]</td></tr>
+<tr><td>721.2 Thalwil – Pfäffikon SZ</td><td>[tab]</td></tr>
+<tr><td>721.3 Pfäffikon SZ – Ziegelbrücke</td><td>[tab]</td></tr>
+<tr><td>733 Zürich Stadelhofen – Stettbach – Chriesbach (– Dübendorf)</td><td>[tab]</td></tr>
+<tr><td>734 (Stettbach –) Neugut – Dietlikon</td><td>[tab]</td></tr>
+<tr><td>735.1 Zürich HB (Museumstrasse) – Meilen</td><td>[tab]</td></tr>
+<tr><td>740 Wallisellen – Uster – Rapperswil</td><td>[tab]</td></tr>
+<tr><td>750 Zürich Hardbrücke – Zürich Flughafen – Hürlistein</td><td>[tab]</td></tr>
+<tr><td>751 Zürich HB – Zürich Wipkingen – Dietlikon – Winterthur</td><td>[tab]</td></tr>
+<tr><td>752 Zürich Altstetten – Zürich HB – Zürich Oerlikon (DML)</td><td>[tab]</td></tr>
+<tr><td>755.2 Würenlos – Zürich Oerlikon</td><td>[tab]</td></tr>
+<tr><td>755.3 Zürich Oerlikon – Opfikon Süd – Kloten – Dorfnest</td><td>[tab]</td></tr>
+<tr><td>755.4 Zürich Seebach – Opfikon Süd</td><td>[tab]</td></tr>
+<tr><td>757.1 Effretikon – Wetzikon</td><td>[tab]</td></tr>
+<tr><td>760.1 Zürich Oerlikon – Oberglatt</td><td>[tab]</td></tr>
+<tr><td>760.3 Bülach – Eglisau – Schaffhausen</td><td>[tab]</td></tr>
+<tr><td>762 Winterthur – Neuhausen</td><td>[tab]</td></tr>
+<tr><td>850.1 Winterthur – Wil – Gossau SG</td><td>[tab]</td></tr>
+<tr><td>850.2 Gossau SG – St. Gallen St. Fiden</td><td>[tab]</td></tr>
+<tr><td>870.2 Herisau – Lichtensteig</td><td>[tab]</td></tr>
+<tr><td>870.3 Herisau – St. Gallen</td><td>[tab]</td></tr>
+<tr><td>870.4 Romanshorn – St. Gallen St. Fiden</td><td>[tab]</td></tr>
 <tr><td>3. Catégorie de tronçon B; coefficient lié à la demande: 1</td><td>3. Catégorie de tronçon B; coefficient lié à la demande: 1</td></tr>
-<tr><td>026 (St-Louis –) frontière – Basel St. Johann – Basel SBB</td><td>aucune</td></tr>
-<tr><td>070 Basel Bad Bf. – frontière (– Weil [Rhein])</td><td></td></tr>
-<tr><td>072 Basel Bad Bf. – frontière (– Lörrach)</td><td></td></tr>
-<tr><td>075 Basel Bad Bf. – frontière (– Waldshut)</td><td></td></tr>
-<tr><td>081 Buchs SG – frontière (– Schaan)</td><td></td></tr>
-<tr><td>083 St. Margrethen – frontière (– Lustenau)</td><td></td></tr>
-<tr><td>100.2 Montreux – Martigny – Sion</td><td></td></tr>
-<tr><td>100.3 Sion – Brig</td><td></td></tr>
-<tr><td>131 Monthey – Les Paluds (– St-Maurice)</td><td></td></tr>
-<tr><td>145 Brig – frontière (– Iselle di Trasquera)</td><td></td></tr>
-<tr><td>151 (Bellegarde –) frontière – La Plaine – Châtelaine (– Genève)</td><td></td></tr>
-<tr><td>152 La Praille – Furet (– Châtelaine)</td><td></td></tr>
-<tr><td>153 (Genève –) Genève-Stade – Eaux-Vives – frontière (– Annemasse)</td><td></td></tr>
-<tr><td>190 Denges/Lonay – Lausanne-Triage – Bussigny/Renens VD</td><td></td></tr>
-<tr><td>200 Frontière – Vallorbe – Daillens</td><td></td></tr>
-<tr><td>211 Orbe – Chavornay</td><td></td></tr>
-<tr><td>220 (Neuchâtel –) Kerzers – Bern</td><td></td></tr>
-<tr><td>226.2 Moutier – Delémont</td><td></td></tr>
-<tr><td>229 Basel SBB GB St. Jakob – Ruchfeld</td><td></td></tr>
-<tr><td>230 Delémont – Basel SBB</td><td></td></tr>
-<tr><td>232 Lengnau – Grenchenberg – Moutier</td><td></td></tr>
-<tr><td>280 (Gümmenen) – Laupen – Flamatt</td><td></td></tr>
-<tr><td>297 Schwarzenburg – Bern Fischermätteli</td><td></td></tr>
-<tr><td>299 (Löchligut bif. –) Löchligut Süd bif. – Wankdorf bif. (– Ostermundigen)</td><td></td></tr>
-<tr><td>301 Spiez – Kandersteg – Brig</td><td></td></tr>
-<tr><td>310 Spiez bif. – Interlaken Ost</td><td></td></tr>
-<tr><td>320 Zweisimmen – Spiez</td><td></td></tr>
-<tr><td>409 Biel Mett bif. – Madretsch</td><td></td></tr>
-<tr><td>410.2 Solothurn – Oensingen – Olten</td><td></td></tr>
-<tr><td>412 Oensingen – Balsthal</td><td></td></tr>
-<tr><td>430 Solothurn – Wanzwil (– NBS – Olten)</td><td></td></tr>
-<tr><td>440 Solothurn – Burgdorf</td><td></td></tr>
-<tr><td>441 Burgdorf – Obermatt (– Langnau i. E.)</td><td></td></tr>
-<tr><td>442 Hasle-Rüegsau – Konolfingen – Thun bif.</td><td></td></tr>
-<tr><td>444.1 Ramsei – Sumiswald-Grünen</td><td></td></tr>
-<tr><td>451.1 (Bern –) Löchligut bif. – Burgdorf</td><td></td></tr>
-<tr><td>451.2 Burgdorf – Langenthal</td><td></td></tr>
-<tr><td>451.3 Langenthal – Aarburg-Oftringen</td><td></td></tr>
-<tr><td>459 Äspli – Mattstetten bif. (– Hindelbank)</td><td></td></tr>
-<tr><td>490 (Rothrist –) Aarburg West – Aarburg Süd (– Zofingen)</td><td></td></tr>
-<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td></td></tr>
-<tr><td>508.3 Basel Kleinhüningen Hafen – Basel Bad Bf.</td><td></td></tr>
-<tr><td>509 (Basel SBB RB) – Birsfelden Hafen – Basel Auhafen</td><td></td></tr>
-<tr><td>512 (Olten Tunnel –) Olten Nord – Olten Ost (– Dulliken)</td><td></td></tr>
-<tr><td>550 Rupperswil – Brugg AG</td><td></td></tr>
-<tr><td>601.1 Immensee – Arth-Goldau – Erstfeld</td><td></td></tr>
-<tr><td>601.2 Erstfeld – Göschenen – Biasca</td><td></td></tr>
-<tr><td>601.4 Giubiasco – Lugano</td><td></td></tr>
-<tr><td>630.1 Giubiasco – Cadenazzo Ovest</td><td></td></tr>
-<tr><td>630.2 Cadenazzo Ovest – Locarno</td><td></td></tr>
-<tr><td>633 Lugano-Vedeggio – Taverne-Torricella</td><td></td></tr>
-<tr><td>637 Mendrisio – Stabio – frontière (– Varese)</td><td></td></tr>
-<tr><td>638 Balerna bif. – Chiasso SM</td><td></td></tr>
-<tr><td>653 (Lenzburg –) Hendschiken – Rotkreuz – Immensee</td><td></td></tr>
-<tr><td>654 Brugg AG – Hendschiken (– Wohlen)</td><td></td></tr>
-<tr><td>665 Zug – Arth-Goldau</td><td></td></tr>
-<tr><td>670.1 Arth-Goldau – Biberbrugg</td><td></td></tr>
-<tr><td>699 (Schinznach Dorf –) Brugg Nord – Brugg Süd (– Lupfig)</td><td></td></tr>
-<tr><td>704.1 Würenlos – Killwangen-Spreitenbach</td><td></td></tr>
-<tr><td>705 Bülach – Winterthur</td><td></td></tr>
-<tr><td>700 Pratteln – Stein-Säckingen – Brugg AG</td><td></td></tr>
-<tr><td>711.1 (Zug Chollermüli –) Zürich Altstetten</td><td></td></tr>
-<tr><td>712 Zürich HB – Sihlbrugg</td><td></td></tr>
-<tr><td>713 (Uetliberg –) Ringlikon – Zürich Giesshübel</td><td></td></tr>
-<tr><td>717 Zürich Giesshübel – Zürich Wiedikon</td><td></td></tr>
-<tr><td>735.2 Meilen – Rapperswil</td><td></td></tr>
-<tr><td>736.1 Rapperswil – Uznach</td><td></td></tr>
-<tr><td>755.1 Wettingen – Würenlos</td><td></td></tr>
-<tr><td>757.2 Wetzikon – Hinwil – Bäretswil</td><td></td></tr>
-<tr><td>760.2 Oberglatt – Bülach</td><td></td></tr>
-<tr><td>770 (Waldshut –) frontière – Trasadingen – Schaffhausen – Thayngen – frontière (– Singen)</td><td></td></tr>
-<tr><td>820.2 Kreuzlingen – Romanshorn</td><td></td></tr>
-<tr><td>820.3 Romanshorn – Rorschach</td><td></td></tr>
-<tr><td>830.2 Kreuzlingen – frontière (– Konstanz)</td><td></td></tr>
-<tr><td>831 (Konstanz –) frontière – Kreuzlingen Hafen</td><td></td></tr>
-<tr><td>840 Winterthur – Weinfelden – Romanshorn</td><td></td></tr>
-<tr><td>849 (Weinfelden –) Romanshorn Süd – Romanshorn West (– Rorschach)</td><td></td></tr>
-<tr><td>850.3 St. Gallen St. Fiden – Rorschach</td><td></td></tr>
-<tr><td>852 Gossau SG – Sulgen</td><td></td></tr>
-<tr><td>870.1 Lichtensteig – Wattwil – Nesslau – Neu St. Johann</td><td></td></tr>
-<tr><td>871 Uznach – Wattwil</td><td></td></tr>
-<tr><td>880 Rorschach – St. Margrethen – Sargans</td><td></td></tr>
-<tr><td>900 Ziegelbrücke – Sargans</td><td></td></tr>
-<tr><td>905 Sargans – Chur</td><td></td></tr>
+<tr><td>026 (St-Louis –) frontière – Basel St. Johann – Basel SBB</td><td>[tab] aucune</td></tr>
+<tr><td>070 Basel Bad. Bf. – frontière (– Weil [Rhein])</td><td>[tab]</td></tr>
+<tr><td>072 Basel Bad. Bf. – frontière (– Lörrach)</td><td>[tab]</td></tr>
+<tr><td>075 Basel Bad. Bf. – frontière (– Waldshut)</td><td>[tab]</td></tr>
+<tr><td>081 Buchs SG – frontière (– Schaan)</td><td>[tab]</td></tr>
+<tr><td>083 St. Margrethen – frontière (– Lustenau)</td><td>[tab]</td></tr>
+<tr><td>100.2 Montreux – Martigny – Sion</td><td>[tab]</td></tr>
+<tr><td>100.3 Sion – Brig</td><td>[tab]</td></tr>
+<tr><td>131 Monthey – Les Paluds (– St-Maurice)</td><td>[tab]</td></tr>
+<tr><td>145 Brig – frontière (– Iselle di Trasquera)</td><td>[tab]</td></tr>
+<tr><td>151 (Bellegarde –) frontière – La Plaine – Châtelaine (– Genève)</td><td>[tab]</td></tr>
+<tr><td>152 La Praille – Furet (– Châtelaine)</td><td>[tab]</td></tr>
+<tr><td>153 (Genève –) Genève-Stade – Eaux-Vives – frontière (– Annemasse)</td><td>[tab]</td></tr>
+<tr><td>190 Denges/Lonay – Lausanne-Triage – Bussigny/Renens VD</td><td>[tab]</td></tr>
+<tr><td>200 Frontière – Vallorbe – Daillens</td><td>[tab]</td></tr>
+<tr><td>211 Orbe – Chavornay</td><td>[tab]</td></tr>
+<tr><td>220 (Neuchâtel –) Kerzers – Bern</td><td>[tab]</td></tr>
+<tr><td>226.2 Moutier – Delémont</td><td>[tab]</td></tr>
+<tr><td>229 Basel SBB GB St. Jakob – Ruchfeld</td><td>[tab]</td></tr>
+<tr><td>230 Delémont – Basel SBB</td><td>[tab]</td></tr>
+<tr><td>232 Lengnau – Grenchenberg – Moutier</td><td>[tab]</td></tr>
+<tr><td>280 (Gümmenen) – Laupen – Flamatt</td><td>[tab]</td></tr>
+<tr><td>297 Schwarzenburg – Bern Fischermätteli</td><td>[tab]</td></tr>
+<tr><td>299 (Löchligut bif. –) Löchligut Süd bif. – Wankdorf bif. (– Ostermundigen)</td><td>[tab]</td></tr>
+<tr><td>301 Spiez – Kandersteg – Brig</td><td>[tab]</td></tr>
+<tr><td>310 Spiez – Interlaken Ost</td><td>[tab]</td></tr>
+<tr><td>320 Zweisimmen – Spiez</td><td>[tab]</td></tr>
+<tr><td>409 Biel Mett bif. – Madretsch</td><td>[tab]</td></tr>
+<tr><td>410.2 Solothurn – Oensingen – Olten</td><td>[tab]</td></tr>
+<tr><td>412 Oensingen – Balsthal</td><td>[tab]</td></tr>
+<tr><td>430 Solothurn – Wanzwil (– NBS – Olten)</td><td>[tab]</td></tr>
+<tr><td>440 Solothurn – Burgdorf</td><td>[tab]</td></tr>
+<tr><td>441 Burgdorf – Obermatt (– Langnau i. E.)</td><td>[tab]</td></tr>
+<tr><td>442 Hasle-Rüegsau – Konolfingen – Thun bif.</td><td>[tab]</td></tr>
+<tr><td>444.1 Ramsei – Sumiswald-Grünen</td><td>[tab]</td></tr>
+<tr><td>451.1 (Bern –) Löchligut bif. – Burgdorf</td><td>[tab]</td></tr>
+<tr><td>451.2 Burgdorf – Langenthal</td><td>[tab]</td></tr>
+<tr><td>451.3 Langenthal – Aarburg-Oftringen</td><td>[tab]</td></tr>
+<tr><td>459 Äspli – Mattstetten bif. (– Hindelbank)</td><td>[tab]</td></tr>
+<tr><td>490 (Rothrist –) Aarburg West – Aarburg Süd (– Zofingen)</td><td>[tab]</td></tr>
+<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td>[tab]</td></tr>
+<tr><td>508.3 Basel Kleinhüningen Hafen – Basel Bad. Bf.</td><td>[tab]</td></tr>
+<tr><td>509 (Basel SBB RB) – Birsfelden Hafen – Basel Auhafen</td><td>[tab]</td></tr>
+<tr><td>512 (Olten Tunnel –) Olten Nord – Olten Ost (– Dulliken)</td><td>[tab]</td></tr>
+<tr><td>550 Rupperswil – Brugg AG</td><td>[tab]</td></tr>
+<tr><td>601.1 Immensee – Arth-Goldau – Erstfeld</td><td>[tab]</td></tr>
+<tr><td>601.2 Erstfeld – Göschenen – Biasca</td><td>[tab]</td></tr>
+<tr><td>601.4 Giubiasco – Lugano</td><td>[tab]</td></tr>
+<tr><td>630.1 Giubiasco – Cadenazzo Ovest</td><td>[tab]</td></tr>
+<tr><td>630.2 Cadenazzo Ovest – Locarno</td><td>[tab]</td></tr>
+<tr><td>633 Lugano-Vedeggio – Taverne-Torricella</td><td>[tab]</td></tr>
+<tr><td>637 Mendrisio – Stabio – frontière (– Varese)</td><td>[tab]</td></tr>
+<tr><td>638 Balerna bif. – Chiasso SM</td><td>[tab]</td></tr>
+<tr><td>653 (Lenzburg –) Hendschiken – Rotkreuz – Immensee</td><td>[tab]</td></tr>
+<tr><td>654 Brugg AG – Hendschiken (– Wohlen)</td><td>[tab]</td></tr>
+<tr><td>665 Zug – Arth-Goldau</td><td>[tab]</td></tr>
+<tr><td>670.1 Arth-Goldau – Biberbrugg</td><td>[tab]</td></tr>
+<tr><td>699 (Schinznach Dorf –) Brugg Nord – Brugg Süd (– Lupfig)</td><td>[tab]</td></tr>
+<tr><td>704.1 Würenlos – Killwangen-Spreitenbach</td><td>[tab]</td></tr>
+<tr><td>705 Bülach – Winterthur</td><td>[tab]</td></tr>
+<tr><td>700 Pratteln – Stein-Säckingen – Brugg AG</td><td>[tab]</td></tr>
+<tr><td>711.1 (Zug Chollermüli –) Zürich Altstetten</td><td>[tab]</td></tr>
+<tr><td>712 Zürich HB – Sihlbrugg</td><td>[tab]</td></tr>
+<tr><td>713 (Uetliberg –) Ringlikon – Zürich Giesshübel</td><td>[tab]</td></tr>
+<tr><td>717 Zürich Giesshübel – Zürich Wiedikon</td><td>[tab]</td></tr>
+<tr><td>735.2 Meilen – Rapperswil</td><td>[tab]</td></tr>
+<tr><td>736.1 Rapperswil – Uznach</td><td>[tab]</td></tr>
+<tr><td>755.1 Wettingen – Würenlos</td><td>[tab]</td></tr>
+<tr><td>757.2 Wetzikon – Hinwil – Bäretswil</td><td>[tab]</td></tr>
+<tr><td>760.2 Oberglatt – Bülach</td><td>[tab]</td></tr>
+<tr><td>770 (Waldshut –) frontière – Trasadingen – Schaffhausen – Thayngen – frontière (– Singen)</td><td>[tab]</td></tr>
+<tr><td>820.2 Kreuzlingen – Romanshorn</td><td>[tab]</td></tr>
+<tr><td>820.3 Romanshorn – Rorschach</td><td>[tab]</td></tr>
+<tr><td>830.2 Kreuzlingen – frontière (– Konstanz)</td><td>[tab]</td></tr>
+<tr><td>831 (Konstanz –) frontière – Kreuzlingen Hafen</td><td>[tab]</td></tr>
+<tr><td>840 Winterthur – Weinfelden – Romanshorn</td><td>[tab]</td></tr>
+<tr><td>849 (Weinfelden –) Romanshorn Süd – Romanshorn West (– Rorschach)</td><td>[tab]</td></tr>
+<tr><td>850.3 St. Gallen St. Fiden – Rorschach</td><td>[tab]</td></tr>
+<tr><td>852 Gossau SG – Sulgen</td><td>[tab]</td></tr>
+<tr><td>870.1 Lichtensteig – Wattwil – Nesslau – Neu St. Johann</td><td>[tab]</td></tr>
+<tr><td>871 Uznach – Wattwil</td><td>[tab]</td></tr>
+<tr><td>880 Rorschach – St. Margrethen – Sargans</td><td>[tab]</td></tr>
+<tr><td>900 Ziegelbrücke – Sargans</td><td>[tab]</td></tr>
+<tr><td>905 Sargans – Chur</td><td>[tab]</td></tr>
 <tr><td>4. Catégorie de tronçon C</td><td>4. Catégorie de tronçon C</td></tr>
 <tr><td>102 Renens VD TL – Lausanne-Flon</td><td>101 Lausanne-Flon – Echallens – Bercher</td></tr>
 <tr><td>111 Puidoux-Chexbres – Vevey</td><td>112.1 Vevey – Blonay</td></tr>
@@ -570,7 +501,7 @@ Annexe 1[^t-2]
 <tr><td>251 Palézieux – Payerne – Murten/Morat – Lyss</td><td>158 L’Isle-Mont-la-Ville – Apples</td></tr>
 <tr><td>252 Yverdon-les-Bains – Payerne – Fribourg/Freiburg</td><td>212 Ste-Croix – Yverdon-les-Bains</td></tr>
 <tr><td>254 Romont – Bulle</td><td>213 Boudry – Neuchâtel-Place Pury</td></tr>
-<tr><td>255.1 Ins – Muntelier (– Murten/Morat)</td><td>222 Les Ponts-de-Martel – La Chaux-de-Fonds</td></tr>
+<tr><td>255.1 Ins – Muntelier (– Murten/Morat)</td><td>222 Les Ponts-de-Martel – La Chaux‑de‑Fonds</td></tr>
 <tr><td>255.2 Murten/Morat – Givisiez (– Fribourg/Freiburg)</td><td>224 Les Brenets – Le Locle</td></tr>
 <tr><td>411 Moutier – Solothurn West</td><td>236 La Chaux-de-Fonds – Le Noirmont – Saignelégier – Glovelier</td></tr>
 <tr><td>415 Busswil – Büren an der Aare</td><td>237 Le Noirmont – Tramelan – Tavannes</td></tr>
@@ -582,7 +513,8 @@ Annexe 1[^t-2]
 <tr><td>503 Sissach – Läufelfingen – Olten Nord</td><td>296 Worblaufen – Unterzollikofen</td></tr>
 <tr><td>511 Triengen-Winikon – Sursee</td><td>311 Interlaken Ost – Lauterbrunnen</td></tr>
 <tr><td>514 Zofingen – Suhr – Lenzburg</td><td>312 Zweilütschinen – Grindelwald</td></tr>
-<tr><td>602 Arth-Goldau – Rigi Kulm 603 Vitznau – Rigi Kulm</td><td>313 Grütschalp – Mürren</td></tr>
+<tr><td>602 Arth-Goldau – Rigi Kulm</td><td>313 Grütschalp – Mürren</td></tr>
+<tr><td>[tab] 603</td><td>[tab]</td></tr>
 <tr><td>604 Rigi Staffel – Arth-Goldau</td><td>315 Lauterbrunnen – Wengen</td></tr>
 <tr><td>631 Cadenazzo Ovest – frontière (– Luino)</td><td>413 Solothurn – Niederbipp – Oensingen</td></tr>
 <tr><td>645 (Lenzburg –) Gruemet – Wettingen</td><td>414 Niederbipp – Langenthal – St. Urban Ziegelei</td></tr>
@@ -602,36 +534,36 @@ Annexe 1[^t-2]
 <tr><td>857 Rorschach – Heiden</td><td>632 Grono – Cama</td></tr>
 <tr><td>872 Wil – Lichtensteig (– Wattwil)</td><td>635 Lugano – Ponte Tresa</td></tr>
 <tr><td>940 Ems Werk – Chur</td><td>643 Aarau – Schöftland</td></tr>
-<tr><td></td><td>644 Aarau – Menziken</td></tr>
-<tr><td></td><td>655 Wohlen – Bremgarten – Dietikon</td></tr>
-<tr><td></td><td>731 Zürich Rehalp – Esslingen</td></tr>
-<tr><td></td><td>835 Frauenfeld – Wil</td></tr>
-<tr><td></td><td>854 Gossau SG – Appenzell – Wasserauen</td></tr>
-<tr><td></td><td>855 St. Gallen – Gais – Appenzell</td></tr>
-<tr><td></td><td>856 Gais – Altstätten</td></tr>
-<tr><td></td><td>858 Rheineck – Walzenhausen</td></tr>
-<tr><td></td><td>859 St. Gallen – Trogen</td></tr>
-<tr><td></td><td>908 Chur – Landquart</td></tr>
-<tr><td></td><td>910 Landquart – Davos Platz</td></tr>
-<tr><td></td><td>915 Filisur – Davos Platz</td></tr>
-<tr><td></td><td>920 Disentis/Mustér (– Reichenau-Tamins)</td></tr>
-<tr><td></td><td>930 Chur – Arosa</td></tr>
-<tr><td></td><td>940 Chur – Reichenau-Tamins – St. Moritz</td></tr>
-<tr><td></td><td>950 St. Moritz – Campocologno – Tirano</td></tr>
-<tr><td></td><td>955 Klosters – Sagliains</td></tr>
-<tr><td></td><td>959 Sagliains bif. Sasslatschtunnel – Sasslatsch bif.</td></tr>
-<tr><td></td><td>960.1 Samedan – Pontresina</td></tr>
-<tr><td></td><td>960.2 Bever – Scuol-Tarasp</td></tr>
+<tr><td>[tab]</td><td>644 Aarau – Menziken</td></tr>
+<tr><td>[tab]</td><td>655 Wohlen – Bremgarten – Dietikon</td></tr>
+<tr><td>[tab]</td><td>731 Zürich Rehalp – Esslingen</td></tr>
+<tr><td>[tab]</td><td>835 Frauenfeld – Wil</td></tr>
+<tr><td>[tab]</td><td>854 Gossau SG – Appenzell – Wasserauen</td></tr>
+<tr><td>[tab]</td><td>855 St. Gallen – Gais – Appenzell</td></tr>
+<tr><td>[tab]</td><td>856 Gais – Altstätten</td></tr>
+<tr><td>[tab]</td><td>858 Rheineck – Walzenhausen</td></tr>
+<tr><td>[tab]</td><td>859 St. Gallen – Trogen</td></tr>
+<tr><td>[tab]</td><td>908 Chur – Landquart</td></tr>
+<tr><td>[tab]</td><td>910 Landquart – Davos Platz</td></tr>
+<tr><td>[tab]</td><td>915 Filisur – Davos Platz</td></tr>
+<tr><td>[tab]</td><td>920 Disentis/Mustér (– Reichenau-Tamins)</td></tr>
+<tr><td>[tab]</td><td>930 Chur – Arosa</td></tr>
+<tr><td>[tab]</td><td>940 Chur – Reichenau-Tamins – St. Moritz</td></tr>
+<tr><td>[tab]</td><td>950 St. Moritz – Campocologno – Tirano</td></tr>
+<tr><td>[tab]</td><td>955 Klosters – Sagliains</td></tr>
+<tr><td>[tab]</td><td>959 Sagliains bif. Sasslatschtunnel – Sasslatsch bif.</td></tr>
+<tr><td>[tab]</td><td>960.1 Samedan – Pontresina</td></tr>
+<tr><td>[tab]</td><td>960.2 Bever – Scuol-Tarasp</td></tr>
 <tr><td>5. Catégorie de tronçon D</td><td>5. Catégorie de tronçon D</td></tr>
 <tr><td>[tab] aucune</td><td>143 Riffelalp – Hotel Riffelalp</td></tr>
-<tr><td></td><td>159.1 Réseau de tramways Genève (TPG)</td></tr>
-<tr><td></td><td>294.1 Réseau de tramways Bern (SVB)</td></tr>
-<tr><td></td><td>505.1 Basel Bhf. SBB – Münchensteinerstr.</td></tr>
-<tr><td></td><td>507.1 Réseau de tramways Basel (BVB)</td></tr>
-<tr><td></td><td>507.2 Basel Schänzli – Pratteln (BLT)</td></tr>
-<tr><td></td><td>759.1 Réseau de tramways Zürich (VBZ)</td></tr>
-<tr><td></td><td>759.2 Verkehrsbetriebe Glattal</td></tr>
-<tr><td></td><td>759.2 Limmattalbahn</td></tr>
+<tr><td>[tab]</td><td>159.1 Réseau de tramways Genève (TPG)</td></tr>
+<tr><td>[tab]</td><td>294.1 Réseau de tramways Bern (SVB)</td></tr>
+<tr><td>[tab]</td><td>505.1 Basel Bhf. SBB – Münchensteinerstr.</td></tr>
+<tr><td>[tab]</td><td>507.1 Réseau de tramways Basel (BVB)</td></tr>
+<tr><td>[tab]</td><td>507.2 Basel Schänzli – Pratteln (BLT)</td></tr>
+<tr><td>[tab]</td><td>759.1 Réseau de tramways Zürich (VBZ)</td></tr>
+<tr><td>[tab]</td><td>759.2 Verkehrsbetriebe Glattal</td></tr>
+<tr><td>[tab]</td><td>759.2 Limmattalbahn</td></tr>
 </table>
 
 Annexe 1a[^t-3]
@@ -655,7 +587,7 @@ Les variables sont:
 - k<sub>2</sub> facteur de calibrage destiné au calcul des coûts de maintenance issus des dégâts Qf1.2 sur l’ensemble du réseau, pondérés à 64 %: meulage des rails (dans les alignements et dans les courbes de rayon &gt; 1200 m);
 - α coefficient d’exploitation de la performance installée; peut varier en fonction du type d’utilisation;
 - k<sub>3</sub> facteur de calibrage destiné au calcul des coûts de maintenance issus des dégâts sur l’ensemble du réseau liés à la traction, pondérés à 36 %: meulage des rails (dans les alignements et dans les courbes de rayon &gt; 1200 m);
-- T<sub>PV</sub> valeur caractéristique de la traction: densité de puissance calculée analytiquement (puissance propulsive/force d’appui des roues);
+- T<sub>pv</sub> valeur caractéristique de la traction: densité de puissance calculée analytiquement (puissance propulsive/force d’appui des roues);
 - k<sub>4</sub> facteur de calibrage destiné au calcul des coûts de maintenance résultant des dégâts relatifs à Wbf: meulage des rails et remplacement de rails dans les courbes de rayon ≤ 1200 m;
 - F<sub>RWb</sub> valeur de dévers en fonction du rayon par rapport au facteur de calibrage k4;
 - W<sub>bf</sub> dégât dû à l’énergie de frottement spécifique, déterminé par simulation, de chaque essieu avant d’un châssis en fonction du rayon;
@@ -666,7 +598,7 @@ Les variables sont:
 - Y<sub>W185</sub> force de guidage, déterminée par simulation, de chaque essieu avant d’un châssis sur les appareils de voie de type E<sub>W185</sub>;
 - S facteur d’échelle pour atteindre le niveau de prix visé à l’art. 1, al. 3.
 
-[^annex1a-lvlu1-1]: Les instructions de calcul du prix de base lié à l’usure, y compris les valeurs des paramètres sont disponibles gratuitement sur www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
+[^annex1a-lvlu1-1]: Les instructions de calcul du prix de base lié à l’usure, y compris les valeurs des paramètres sont disponibles gratuitement sur [www.oft.admin.ch](http://www.oft.admin.ch) &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
 
 Annexe 1b[^t-4]
 
@@ -701,7 +633,7 @@ Annexe 1c[^t-5]
 [^annex1c-lvlu1-1]
 
 [^t-5]: Introduite par le ch. II al. 1 de l’O de l’OFT du 21 sept. 2016 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)). Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
-[^annex1c-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il est disponible gratuitement sur www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
+[^annex1c-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il est disponible gratuitement sur [www.oft.admin.ch](http://www.oft.admin.ch) &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
 
 Annexe 1d[^t-6]
 
@@ -712,7 +644,7 @@ Annexe 1d[^t-6]
 [^annex1d-lvlu1-1]
 
 [^t-6]: Introduite par le ch. II al. 1 de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^annex1d-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il est disponible gratuitement sur www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
+[^annex1d-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il est disponible gratuitement sur [www.oft.admin.ch](http://www.oft.admin.ch) &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
 
 Annexe 2[^t-7]
 
@@ -881,7 +813,29 @@ Annexe 2[^t-7]
 
 Annexe 3[^t-8]
 
-[^t-8]: Abrogée par le ch. II de l’O de l’OFT du 7 fév. 2017, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+(art. 1, al. 5)
+
+## Tronçons sur lesquels les prix visés à l’art. 1, al. 5, sont directement applicables
+
+[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
+- 1\. Basel Bad. Bf. – frontière (– Weil am Rhein)
+- 2\. Basel Bad. Bf. – frontière (– Basel Bad. Rbf.)
+- 3\. Basel Bad. Bf. – frontière d’infrastructure BEV/SBB – Basel SBB PB/RB
+- 4\. Basel RB-tête de gare Nord – Basel St. Jakob – Basel GB – Basel SBB
+- 5\. Basel Bad. Bf. – frontière (– Grenzach)
+- 6\. Basel Bad. Bf. – frontière (– Lörrach)
+- 7\. (Kreuzlingen –) frontière d’infrastructure SBB/BEV – frontière (– Konstanz)
+- 8\. (Kreuzlingen Hafen –) frontière d’infrastructure SBB/BEV – frontière (– Konstanz)
+- 9\. Schaffhausen – frontière (– Gottmadingen)
+- 10\. Schaffhausen – frontière (– Erzingen [Baden])
+- 11\. St. Margrethen – frontière (Autriche)
+- 12\. Buchs SG – frontière (Principauté de Liechtenstein)
+- 13\. Basel SBB – Basel St. Johann – frontière (France)
+- 14\. Vallorbe – frontière (France)
+- 15\. Genève-La Praille – La Plaine – frontière (France)
+- 16\. Genève-Cornavin – La Plaine – frontière (France)
+- 17\. Chiasso Smistamento – frontière (Italie)
 
 Annexe 4
 
@@ -902,19 +856,18 @@ Annexe 5[^t-9]
 
 ## Taux forfaitaires pour la consommation de courant
 
-[^t-9]: Introduite par le ch. II al. 2 de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^t-9]: Introduite par le ch. II al. 2 de l’O de l’OFT du 19 déc. 2018 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)). Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 <table>
-<tr><td>Catégorie de trains</td><td colspan="2">Taux (kWh par tbkm)</td></tr>
-<tr><td></td><td>Véhicules avec freins électriques à récupération</td><td>Véhicules sans freins électriques à récupération</td></tr>
-<tr><td>1. Intercity/Eurocity</td><td>0,0235</td><td>0,0271</td></tr>
-<tr><td>2. Train direct/Interregio</td><td>0,0235</td><td>0,0271</td></tr>
-<tr><td>3. Train régional</td><td>0,0370</td><td>0,0537</td></tr>
-<tr><td>4. RER</td><td>0,0370</td><td>0,0537</td></tr>
-<tr><td>5. Regioexpress</td><td>0,0310</td><td>0,0356</td></tr>
-<tr><td>6. Train marchandises grandes lignes</td><td>0,0180</td><td>0,0207</td></tr>
-<tr><td>7. Course de véhicule moteur historique</td><td>0,0303</td><td>0,0348</td></tr>
-<tr><td>8. Train de tracteurs</td><td>0,0347</td><td>0,0399</td></tr>
-<tr><td>9. Train de locomotives</td><td>0,0410</td><td>0,0471</td></tr>
-<tr><td>10. Train vide du transport de voyageurs</td><td>0,0295</td><td>0,0339</td></tr>
+<tr><th>Catégorie de trains</th><th>Taux (kWh par tbkm)</th></tr>
+<tr><td>1. Intercity/Eurocity</td><td>0,0198</td></tr>
+<tr><td>2. Train direct/Interregio</td><td>0,0195</td></tr>
+<tr><td>3. Train régional</td><td>0,0332</td></tr>
+<tr><td>4. RER</td><td>0,0332</td></tr>
+<tr><td>5. Regioexpress</td><td>0,0274</td></tr>
+<tr><td>6. Train marchandises grandes lignes</td><td>0,0159</td></tr>
+<tr><td>7. Course de véhicule moteur historique</td><td>0,0303</td></tr>
+<tr><td>8. Train de tracteurs</td><td>0,0224</td></tr>
+<tr><td>9. Train de locomotives</td><td>0,0340</td></tr>
+<tr><td>10. Train vide du transport de voyageurs</td><td>0,0248</td></tr>
 </table>

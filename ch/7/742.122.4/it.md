@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFT del 14 maggio 2012 concernente l'accesso alla rete fe
 short: OARF-UFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: it
-version: 2025-01-01
+version: 2025-02-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20250101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20250201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250101/it"
 
 (OARF-UFT)[^t-1]
 
-del 14 maggio 2012 (Stato 1° gennaio 2025)
+del 14 maggio 2012 (Stato 1° febbraio 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFT 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -27,7 +27,7 @@ vista l’ordinanza del 25 novembre 1998[^ingress-1] concernente l’accesso all
 
 ordina:
 
-[^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8735)
+[^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
 ## Sezione 1: Prezzo delle tracce
@@ -57,10 +57,10 @@ Il prezzo di base per traccia è di:
 
 <sup>3</sup>
 
-Il prezzo di base in funzione dell’usura è di:
+Il prezzo di base in funzione dell’usura, applicabile sulle tratte di cui all’allegato 1, è di:[^1-5]
 
 - a. 0,29 ct./tonnellata-chilometro lorda (tkmL) per corse effettuate su tratte la cui sovrastruttura è concepita per un carico per asse di 13 tonnellate al massimo;
-- b. 0,36 ct./tkmL per corse effettuate sulle altre tratte.[^1-5]
+- b. 0,36 ct./tkmL per corse effettuate sulle altre tratte.[^1-6]
 
 <sup>4</sup>
 
@@ -72,13 +72,15 @@ Per corse effettuate su tratte a scartamento normale il prezzo di base in funzio
 - d. gli altri veicoli vengono assegnati ad un gruppo di tipi di veicoli affini e gravati di un supplemento del 25 per cento rispetto al prezzo massimo del gruppo per i singoli intervalli di velocità e intervalli di raggi;
 - e. per i veicoli motore rimorchiati viene detratto l’indice della forza di trazione secondo la formula riportata all’allegato 1*a*.
 
-<sup>5</sup> Per le corse su tronchi di confine di cui all’allegato 2 OARF nonché su tratte a cremagliera e su tratte a scartamento ridotto, compresi i binari a rotaie multiple, si applicano direttamente i prezzi di cui al capoverso 3.
+<sup>5</sup> Per le corse su tratte a cremagliera, su tratte a scartamento ridotto, compresi i binari a rotaie multiple, nonché sulle tratte di cui all’allegato 3 si applicano direttamente i prezzi di cui al capoverso 3.[^1-7]
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^1-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 [^1-3]: Nuovo testo giusta la cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 [^1-4]: Introdotto dalla cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
-[^1-5]: Nuovo testo giusta la cifra I dell’O dell’UFT del 10 giu. 2024, in vigore dal 1° gen. 2025 ([RU 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^1-6]: Nuovo testo giusta la cifra I dell’O dell’UFT del 10 giu. 2024, in vigore dal 1° gen. 2025 ([RU 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
+[^1-7]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 2
 
@@ -106,43 +108,21 @@ Per corse effettuate su tratte a scartamento normale il prezzo di base in funzio
 
 <sup>2</sup> L’UFT approva un prezzo diverso dell’energia elettrica per le ferrovie a corrente continua qualora esse attestino una differenza di costi.
 
-<sup>3</sup> Se l’utente della rete non misura il consumo di energia elettrica o non comunica al gestore dell’infrastruttura il numero di veicolo a dodici cifre attribuito al veicolo motore, il consumo si calcola sulla base dei valori di riferimento di cui all’allegato 5 applicando un supplemento secondo l’articolo 20*a* capoverso 3 OARF.[^3-3]
+<sup>3</sup> Se le imprese di trasporto ferroviario rinunciano a misurare il consumo di energia elettrica lungo le tratte interoperabili di cui all’articolo 15*a* capoverso 1 lettera a dell’ordinanza del 23 novembre 1983[^3-3] sulle ferrovie e lungo la tratta non interoperabile a scartamento normale Emmenbrücke-Hübeli (bif.) – Beinwil am See – Lenzburg o non comunicano al gestore dell’infrastruttura il numero di veicolo a dodici cifre attribuito al veicolo motore, il consumo si calcola sulla base dei valori di riferimento di cui all’allegato 5 applicando un supplemento secondo l’articolo 20*a* capoverso 4 OARF. Per le restanti tratte l’UFT stabilisce periodicamente i valori di riferimento forfettari in base ai dati del gestore dell’infrastruttura.[^3-4]
 
-<sup>4</sup>
-
-Per i veicoli privi di freni rigenerativi tali valori di riferimento sono moltiplicati per i seguenti fattori:
-
-- a. fattore 1,45 per le corse del traffico regionale viaggiatori;
-- b. fattore 1,15 per le altre corse.[^3-4]
+<sup>4</sup> ...[^3-5]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^3-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^3-3]: Nuovo testo giusta la cifra I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
-[^3-4]: Nuovo testo giusta la cifra I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^3-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^3-4]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^3-5]: Abrogato dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 4
 
-**Riduzione ETCS**
+[^4-1]
 
-### (art. 19*c* OARF)
-
-<sup>1</sup>
-
-La riduzione ETCS, pari a 25 000 franchi per anno ed equipaggiamento installato sui veicoli, è concessa all’utente della rete a partire dall’entrata in servizio del sistema di controllo automatico della marcia dei treni ETCS sulle tratte seguenti:
-
-- a. Pully–Briga;
-- b. Flüelen–Chiasso.
-
-<sup>2</sup> La domanda, da presentare all’UFT, va rinnovata ogni anno.
-
-<sup>3</sup>
-
-Essa deve comprendere:
-
-- a. l’elenco dei veicoli per cui viene richiesta la riduzione ETCS;
-- b. la documentazione attestante che questi veicoli sono impiegati regolarmente su una delle tratte indicate al capoverso 1.
-
-<sup>4</sup> In base all’autorizzazione dell’UFT, il gestore dell’infrastruttura della tratta interessata versa all’utente della rete l’importo corrispondente alla riduzione ETCS.
+[^4-1]: Abrogato dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47))
 
 ## Sezione 2: Prestazioni supplementari, pubblicazione
 
@@ -199,106 +179,55 @@ Il gestore dell’infrastruttura è tenuto:
 
 [^sec3-1]: Introdotto dalla cifra I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 
-#### Art. 8
+#### Art. 8 e 9
 
-**Attribuzione delle tracce in caso di conflitti d’ordinazione**[^8-1]
+[^89-1]
 
-### (art. 12 e 12*c* cpv. 1 e 2 lett. a e b OARF)
-
-<sup>1</sup> In caso di richieste di tracce confliggenti, il gestore dell’infrastruttura cerca una soluzione di comune intesa con i richiedenti.
-
-<sup>2</sup> Se non si perviene a una soluzione, il gestore dell’infrastruttura attribuisce le tracce sulla base del piano di utilizzazione della rete. Hanno priorità le richieste che non limitano il numero di tracce riservate e la qualità delle tracce per il medesimo o per un altro tipo di trasporto.
-
-<sup>3</sup>
-
-In caso di conflitti d’ordinazione che non è possibile risolvere secondo il capoverso 1 o 2 e che riguardano esclusivamente tracce destinate al traffico viaggiatori, vale il seguente ordine di priorità:
-
-- a. richieste presentate sulla base di un accordo quadro;
-- b. richieste per il traffico viaggiatori cadenzato;
-- c. richieste per treni che offrono il maggior contributo di copertura.
-
-<sup>4</sup>
-
-In caso di conflitti d’ordinazione che non è possibile risolvere secondo il capoverso 1 o 2 e che non riguardano esclusivamente tracce destinate al traffico viaggiatori, vale il seguente ordine di priorità:
-
-- a. richieste presentate sulla base di un accordo quadro;
-- b. richieste relative a treni merci per le quali non è possibile proporre soluzioni alternative per ragioni tecniche, in particolare a causa del profilo di spazio libero richiesto; l’onere della prova spetta al richiedente;
-- c. richieste che riguardano catene di trasporto concertate nel traffico merci previsto tutto l’anno e per le quali non è possibile proporre soluzioni alternative;
-- d.
-
-  richieste per treni che circolano ripetutamente nel corso dell’anno d’orario, con il seguente ordine di priorità, in base alla frequenza delle corse:
-
-  - 1\. treni che nella media annuale circolano almeno 5 giorni a settimana,
-  - 2\. treni che nella media annuale circolano almeno 3 giorni a settimana, ma meno di 5 giorni a settimana,
-  - 3\. treni che nella media annuale circolano almeno 1 giorno a settimana, ma meno di 3 giorni a settimana.
-
-<sup>5</sup> Nei casi di cui al capoverso 4 lettera d è determinante il numero di giornate indicato nella richiesta. Le richieste concernenti la stessa categoria di frequenza sono considerate avere lo stesso rango. Se i treni non raggiungono la media annuale di un giorno a settimana, si confronta il numero delle giornate effettivamente ordinate per anno d’orario.
-
-[^8-1]: Introdotto dalla cifra I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
-
-#### Art. 9
-
-**Vendita all’asta**[^9-1]
-
-### (art. 12*c* cpv. 3 OARF)
-
-<sup>1</sup> Se non è possibile risolvere il conflitto d’ordinazione mediante la procedura prevista dall’articolo 8, il gestore dell’infrastruttura esegue una vendita all’asta.
-
-<sup>2</sup> Comunica a tutti i richiedenti che verrà effettuata una vendita all’asta. Li invita a presentare un’offerta entro un termine preciso. Il termine per la presentazione dell’offerta deve essere di almeno quattro giorni lavorativi, salvo che il gestore dell’infrastruttura si accordi con i richiedenti per un termine più breve.
-
-<sup>3</sup> Se alla vendita all’asta partecipano richiedenti per il traffico viaggiatori, l’offerta deve corrispondere almeno al contributo di copertura di cui all’articolo 20 OARF.
-
-<sup>4</sup> La traccia è aggiudicata all’offerta più alta. Se la differenza rispetto alla seconda migliore offerta supera 1000 franchi, il gestore dell’infrastruttura fissa l’importo da versare in modo tale che superi di 1000 franchi la seconda migliore offerta.
-
-<sup>5</sup> Se sono presentate due o più offerte uguali, l’asta continua finché un’offerta non prevale sulle altre.
-
-<sup>6</sup> Il gestore dell’infrastruttura stila un verbale della vendita all’asta.
-
-<sup>7</sup> I richiedenti che non si sono aggiudicati una traccia nell’ambito di una vendita all’asta possono rinunciare, senza conseguenze finanziarie, ad altre tracce ottenute in precedenza se dimostrano che queste risultano inutilizzabili a seguito della mancata aggiudicazione della traccia in questione.
-
-<sup>8</sup> L’importo offerto o stabilito conformemente al capoverso 4 è dovuto dal vincitore dell’asta anche se questi rinuncia alla traccia ottenuta. In questo caso, la traccia è assegnata alla capacità residua.
-
-[^9-1]: Introdotto dalla cifra I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^89-1]: Introdotti dalla cifra I dell’O dell’UFT del 7 feb. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)). Abrogati dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47))
 
 #### Art. 10
 
-**Attribuzione delle tracce in caso di temporanea chiusura di tratte per lavori di costruzione**[^10-1]
+**Attribuzione delle tracce in caso di limitazioni della capacità per lavori di costruzione**[^10-1]
 
 ### (art. 11*b* OARF)
 
-<sup>1</sup> Se la temporanea chiusura di una tratta per lavori di costruzione non è già prevista in via definitiva nel piano di utilizzazione della rete, il gestore dell’infrastruttura cerca una soluzione di comune intesa con i richiedenti interessati.
+<sup>1</sup> Se nel piano di utilizzazione della rete non sono previste limitazioni della capacità o non lo sono in via definitiva, il gestore dell’infrastruttura cerca una soluzione di comune intesa con i richiedenti interessati.
 
-<sup>2</sup> Se non si perviene a una soluzione, le tracce devono essere attribuite ai diversi tipi di trasporto, per quanto possibile, sulla base del piano di utilizzazione della rete.
+<sup>2</sup> Se non si perviene a una soluzione consensuale, il servizio di assegnazione delle tracce attribuisce le tracce in linea di principio proporzionalmente a tutti i tipi di trasporto sulla base del piano di utilizzazione della rete.
 
-<sup>3</sup> Se la limitazione della capacità dovuta alla chiusura al traffico di una tratta è tale da non consentire l’attribuzione delle tracce sulla base del piano di utilizzazione della rete, nel periodo di durata di tale limitazione il gestore dell’infrastruttura può adeguare il numero previsto di tracce e la loro qualità in funzione del tipo di trasporto, sulla tratta in questione e sulle tratte alternative valutate.
+<sup>3</sup> Se nel piano di utilizzazione della rete non sono previste limitazioni della capacità o non lo sono in via definitiva, il servizio di assegnazione delle tracce può adeguare le tracce già assegnate.
 
-[^10-1]: Introdotto dalla cifra I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^10-1]: Introdotto dalla cifra I dell’O dell’UFT del 7 feb. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)). Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
-## Sezione 4: Chiusura di tratte per lavori di costruzione
+## Sezione 4: Limitazioni della capacità per lavori di costruzione
 
-[^sec4-1]
+[^sec4-1][^sec4-2]
 
 [^sec4-1]: Introdotta dalla cifra I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^sec4-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 10a
 
-**Tipi di chiusura di tratte**
+**Requisiti applicabili alle catene di trasporto nel traffico viaggiatori**[^10a-1]
 
-### (art. 11*b* cpv. 1–3 OARF)
+### (art. 11*b* cpv. 6 OARF)
 
-<sup>1</sup> Le chiusure durante i fine settimana iniziano al più presto il venerdì sera dopo le ore di punta (OdP) e terminano al più tardi il lunedì mattina prima delle OdP.
+Nel servizio sostitutivo le catene di trasporto nel traffico viaggiatori sono garantite se il tempo di viaggio totale si allunga:
 
-<sup>2</sup> Le chiusure notturne prolungate iniziano al più presto la sera dopo le OdP e terminano al più tardi il mattino successivo prima delle OdP.
+- a. di non oltre 15 minuti per i viaggi di durata non superiore a un’ora in base a quanto pianificato;
+- b. di non oltre 30 minuti per i viaggi di durata superiore a un’ora in base a quanto pianificato.
 
-<sup>3</sup> Le catene di trasporto nel traffico viaggiatori sono garantite se il tempo di viaggio totale si allunga di non oltre 15 minuti per i viaggi di durata non superiore a un’ora in base a quanto pianificato, e di non oltre 30 minuti per i viaggi di durata superiore in base a quanto pianificato.
+[^10a-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 10b
 
-**Costi per le imprese di trasporto ferroviario in caso di chiusura di tratte**
+**Costi per le imprese di trasporto ferroviario in caso di limitazioni della capacità**
 
-### (art. 11*b* cpv. 4 OARF)
+### (art. 11*c* OARF)
 
-In caso di chiusura di tratte le imprese di trasporto ferroviario si assumono i propri costi di:
+[^10b-1]
+
+In caso di limitazioni della capacità le imprese di trasporto ferroviario si assumono i propri costi di:[^10b-2]
 
 - a. pianificazione e preparazione del servizio sostitutivo e delle deviazioni;
 - b. prestazioni d’esercizio supplementari;
@@ -306,27 +235,37 @@ In caso di chiusura di tratte le imprese di trasporto ferroviario si assumono i 
 - d. distribuzione; e
 - e. comunicazione.
 
+[^10b-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^10b-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
 #### Art. 10c
 
 **Indennizzo nel rimanente traffico**
 
-### (art. 11*b* cpv. 5 OARF)
+### (art. 11*c* cpv. 4 OARF)
 
-<sup>1</sup> Nel traffico merci su tratte a scartamento normale, in caso di deviazioni su rotaia il gestore dell’infrastruttura versa all’impresa di trasporto ferroviario un indennizzo di 800 franchi per treno interessato, treni di servizio esclusi.
+[^10c-1]
+
+<sup>1</sup> Nel traffico merci su tratte a scartamento normale, in caso di deviazioni su rotaia il gestore dell’infrastruttura versa all’impresa di trasporto ferroviario un indennizzo di 800 franchi per treno interessato, treni di servizio esclusi. Una deviazione che interessi aree di stazioni ferroviarie è soggetta a indennizzo solo se comporta una riduzione della lunghezza massima o del peso massimo del treno.[^10c-2]
 
 <sup>2</sup> Se la deviazione su rotaia non è possibile, l’indennizzo è di 1500 franchi per treno interessato.
 
 <sup>3</sup> Su tratte a scartamento ridotto l’indennizzo equivale ai costi supplementari causati all’impresa di trasporto ferroviario.
 
+[^10c-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+[^10c-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
 #### Art. 10d
 
-**Importo forfettario in caso di annuncio non tempestivo di una chiusura**
+**Importo forfettario in caso di annuncio non tempestivo di una limitazione della capacità**[^10d-1]
 
-### (art. 11*b* cpv. 6 OARF)
+### (art. 11*c* cpv. 6 OARF)
 
-<sup>1</sup> Se non annuncia tempestivamente la chiusura di una tratta, il gestore dell’infrastruttura versa all’impresa di trasporto ferroviario un importo forfettario di 2000 franchi per treno interessato.
+<sup>1</sup> Se non annuncia tempestivamente una limitazione della capacità, il gestore dell’infrastruttura versa all’impresa di trasporto ferroviario un importo forfettario di 2000 franchi per treno interessato.
 
 <sup>2</sup> Se la deviazione su rotaia non è possibile, l’importo forfettario è di 3000 franchi per treno interessato.
+
+[^10d-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -336,29 +275,21 @@ In caso di chiusura di tratte le imprese di trasporto ferroviario si assumono i 
 
 #### Art. 11
 
-**Diritto previgente: abrogazione**[^11-1]
+[^11-1]
 
-Le disposizioni esecutive del 7 giugno 1999[^11-2] dell’ordinanza sull’accesso alla rete ferroviaria sono abrogate.
-
-[^11-1]: Originario art. 8.
-[^11-2]: [[RU 2000 1037](https://fedlex.data.admin.ch/eli/oc/2000/163); [2002 196](https://fedlex.data.admin.ch/eli/oc/2002/33); [2006 4801](https://fedlex.data.admin.ch/eli/oc/2006/736); [2007 4655](https://fedlex.data.admin.ch/eli/oc/2007/655); [2009 5815](https://fedlex.data.admin.ch/eli/oc/2009/702); [2011 1249](https://fedlex.data.admin.ch/eli/oc/2011/187)]
+[^11-1]: Originario art. 8. Abrogato dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47))
 
 #### Art. 12
 
-**Disposizione transitoria concernente la modifica del 21 settembre 2016**[^12-1]
+[^12-1]
 
-Per i treni del traffico regionale viaggiatori beneficiario di indennità secondo l’articolo 28 della legge federale del 20 marzo 2009[^12-2] sul trasporto di viaggiatori, fino al 9 dicembre 2017 il prezzo di base in funzione dell’usura viene calcolato secondo l’articolo 1 capoverso 3.
-
-[^12-1]: Originario art. 8*a*. Introdotto dalla cifra I dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^12-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^12-1]: Originario art. 8*a*. Introdotto dalla cifra I dell’O dell’UFT del 21 set. 2016 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)). Abrogato dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47))
 
 #### Art. 12a
 
-**Disposizione transitoria concernente la modifica del 14 novembre 2019**[^12a-1]
+[^12a-1]
 
-Per veicoli per i quali all’entrata in vigore della modifica del 14 novembre 2019 è ordinato un veicolo sostitutivo, il supplemento di cui all’articolo 20*a* capoverso 3 OARF non è applicato fino al 31 dicembre 2022.
-
-[^12a-1]: Introdotto dalla cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
+[^12a-1]: Introdotto dalla cifra I dell’O dell’UFT del 14 nov. 2019 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)). Abrogato dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47))
 
 #### Art. 12b
 
@@ -369,7 +300,7 @@ Per veicoli per i quali all’entrata in vigore della modifica del 14 novembre 2
 <sup>2</sup> Il termine di cui al capoverso 1 è prorogato fino al 31 dicembre 2024.[^12b-3]
 
 [^12b-1]: Introdotto dalla cifra I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^12b-3]: Introdotto dalla cifra I dell’O dell’UFT del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 718](https://fedlex.data.admin.ch/eli/oc/2023/718)).
 
 #### Art. 12c
@@ -390,14 +321,14 @@ La presente ordinanza entra in vigore il 1° gennaio 2013.
 
 Allegato 1[^t-2]
 
-(art. 1 cpv. 2)
+(art. 1 cpv. 2 e 3)
 
-## Categorie delle tratte ai sensi dell’articolo 19*a* capoverso 1 OARF
+## Categorie di tratta secondo l’articolo 19*a* capoverso 1 OARF
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O dell’UFT del 10 giu. 2024, in vigore dal 1° gen. 2025 ([RU 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
+[^t-2]: Nuovo testo giusta la cifra II n. 1 dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 <table>
-<tr><th>a. Scartamento normale:</th><th>b. Scartamento ridotto:</th></tr>
+<tr><th>a. Scartamento normale</th><th>b. Scartamento ridotto</th></tr>
 <tr><td>1. Categoria A</td><td>1. Categoria A</td></tr>
 <tr><td>300 Wengi-Ey – LBT – St. German</td><td>nessuna</td></tr>
 <tr><td>302 Frutigen – Frutigen Nordportal</td><td></td></tr>
@@ -423,7 +354,7 @@ Allegato 1[^t-2]
 <tr><td>450.1 Bern – Löchligut bif. – NBS (– Olten)</td><td></td></tr>
 <tr><td>450.2 Rothrist – Olten</td><td></td></tr>
 <tr><td>460.1 Gümligen Süd – Konolfingen</td><td></td></tr>
-<tr><td>460.2 Konolfingen – Langnau i. E.</td><td></td></tr>
+<tr><td>460.2 Konolfingen – Langnau i.E.</td><td></td></tr>
 <tr><td>500.1 Basel SBB – Liestal – Olten</td><td></td></tr>
 <tr><td>500.2 Olten Nord – Olten RB – Olten</td><td></td></tr>
 <tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td></td></tr>
@@ -482,7 +413,7 @@ Allegato 1[^t-2]
 <tr><td>152 La Praille – Furet (– Châtelaine)</td><td></td></tr>
 <tr><td>153 (Genève –) Genève-Stade – Eaux-Vives – frontiera (– Annemasse)</td><td></td></tr>
 <tr><td>190 Denges/Lonay – Lausanne-Triage – Bussigny/Renens VD</td><td></td></tr>
-<tr><td>200 frontiera – Vallorbe – Daillens</td><td></td></tr>
+<tr><td>200 Frontiera – Vallorbe – Daillens</td><td></td></tr>
 <tr><td>211 Orbe – Chavornay</td><td></td></tr>
 <tr><td>220 (Neuchâtel –) Kerzers – Bern</td><td></td></tr>
 <tr><td>226.2 Moutier – Delémont</td><td></td></tr>
@@ -493,14 +424,14 @@ Allegato 1[^t-2]
 <tr><td>297 Schwarzenburg – Bern Fischermätteli</td><td></td></tr>
 <tr><td>299 (Löchligut bif. –) Löchligut Süd bif. – Wankdorf bif. (– Ostermundigen)</td><td></td></tr>
 <tr><td>301 Spiez – Kandersteg – Brig</td><td></td></tr>
-<tr><td>310 Spiez bif. – Interlaken Ost</td><td></td></tr>
+<tr><td>310 Spiez – Interlaken Ost</td><td></td></tr>
 <tr><td>320 Zweisimmen – Spiez</td><td></td></tr>
 <tr><td>409 Biel Mett bif. – Madretsch</td><td></td></tr>
 <tr><td>410.2 Solothurn – Oensingen – Olten</td><td></td></tr>
 <tr><td>412 Oensingen – Balsthal</td><td></td></tr>
 <tr><td>430 Solothurn – Wanzwil (– NBS – Olten)</td><td></td></tr>
 <tr><td>440 Solothurn – Burgdorf</td><td></td></tr>
-<tr><td>441 Burgdorf – Obermatt (– Langnau i. E.)</td><td></td></tr>
+<tr><td>441 Burgdorf – Obermatt (– Langnau i.E.)</td><td></td></tr>
 <tr><td>442 Hasle-Rüegsau – Konolfingen – Thun bif.</td><td></td></tr>
 <tr><td>444.1 Ramsei – Sumiswald-Grünen</td><td></td></tr>
 <tr><td>451.1 (Bern –) Löchligut bif. – Burgdorf</td><td></td></tr>
@@ -509,7 +440,7 @@ Allegato 1[^t-2]
 <tr><td>459 Äspli – Mattstetten bif. (– Hindelbank)</td><td></td></tr>
 <tr><td>490 (Rothrist –) Aarburg West – Aarburg Süd (– Zofingen)</td><td></td></tr>
 <tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td></td></tr>
-<tr><td>508.3 Basel Kleinhüningen Hafen – Basel Bad Bf.</td><td></td></tr>
+<tr><td>508.3 Basel Kleinhüningen Hafen – Basel Bad. Bf.</td><td></td></tr>
 <tr><td>509 (Basel SBB RB) – Birsfelden Hafen – Basel Auhafen</td><td></td></tr>
 <tr><td>512 (Olten Tunnel –) Olten Nord – Olten Ost (– Dulliken)</td><td></td></tr>
 <tr><td>550 Rupperswil – Brugg AG</td><td></td></tr>
@@ -573,7 +504,7 @@ Allegato 1[^t-2]
 <tr><td>255.1 Ins – Muntelier (– Murten/Morat)</td><td>222 Les Ponts-de-Martel – La Chaux-de-Fonds</td></tr>
 <tr><td>255.2 Murten/Morat – Givisiez (– Fribourg/Freiburg)</td><td>224 Les Brenets – Le Locle</td></tr>
 <tr><td>411 Moutier – Solothurn West</td><td>236 La Chaux-de-Fonds – Le Noirmont – Saignelégier – Glovelier</td></tr>
-<tr><td>415 Busswil – Büren an der Aare</td><td>237 Le Noirmont – Tramelan – Tavannes</td></tr>
+<tr><td>415 Busswil – Büren an der Aare</td><td>237 Le Noirmont– Tramelan – Tavannes</td></tr>
 <tr><td>443 Sumiswald-Grünen – Wasen i.E.</td><td>253 Bulle-bif. – Broc</td></tr>
 <tr><td>444.2 Sumiswald-Grünen – Affoltern-Weier – Huttwil</td><td>256 Palézieux – Bulle – Montbovon</td></tr>
 <tr><td>445 Langenthal – Huttwil – Wolhusen</td><td>261 Ins – Täuffelen – Biel/Bienne</td></tr>
@@ -582,8 +513,8 @@ Allegato 1[^t-2]
 <tr><td>503 Sissach – Läufelfingen – Olten Nord</td><td>296 Worblaufen – Unterzollikofen</td></tr>
 <tr><td>511 Triengen-Winikon – Sursee</td><td>311 Interlaken Ost – Lauterbrunnen</td></tr>
 <tr><td>514 Zofingen – Suhr – Lenzburg</td><td>312 Zweilütschinen – Grindelwald</td></tr>
-<tr><td>602 Arth-Goldau – Rigi Kulm</td><td>313 Grütschalp – Mürren</td></tr>
-<tr><td>603 Vitznau – Rigi Kulm</td><td></td></tr>
+<tr><td>602 Vitznau – Rigi Kulm</td><td>313 Grütschalp – Mürren</td></tr>
+<tr><td>[tab] 603</td><td>[tab]</td></tr>
 <tr><td>604 Rigi Staffel – Arth-Goldau</td><td>315 Lauterbrunnen – Wengen</td></tr>
 <tr><td>631 Cadenazzo Ovest – frontiera (– Luino)</td><td>413 Solothurn – Niederbipp – Oensingen</td></tr>
 <tr><td>645 (Lenzburg –) Gruemet – Wettingen</td><td>414 Niederbipp – Langenthal – St. Urban Ziegelei</td></tr>
@@ -620,17 +551,17 @@ Allegato 1[^t-2]
 <tr><td></td><td>940 Chur – Reichenau-Tamins – St. Moritz</td></tr>
 <tr><td></td><td>950 St. Moritz – Campocologno – Tirano</td></tr>
 <tr><td></td><td>955 Klosters – Sagliains</td></tr>
-<tr><td></td><td>959 Sagliains bif. Sasslatschtunnel – Sasslatsch bif.</td></tr>
+<tr><td></td><td>959 Sagliains Abzweigung Sasslatschtunnel – Sasslatsch Abzweigung</td></tr>
 <tr><td></td><td>960.1 Samedan – Pontresina</td></tr>
 <tr><td></td><td>960.2 Bever – Scuol-Tarasp</td></tr>
 <tr><td>5. Categoria D</td><td>5. Categoria D</td></tr>
-<tr><td>[tab] nessuna</td><td>143 Riffelalp – Hotel Riffelalp</td></tr>
-<tr><td></td><td>159.1 Rete tranviaria di Ginevra (TPG)</td></tr>
-<tr><td></td><td>294.1 Rete tranviaria di Berna (SVB)</td></tr>
+<tr><td>nessuna</td><td>143 Riffelalp – Hotel Riffelalp</td></tr>
+<tr><td></td><td>159.1 Tramnetz Genf (TPG)</td></tr>
+<tr><td></td><td>294.1 Tramnetz Bern (SVB)</td></tr>
 <tr><td></td><td>505.1 Basel Bhf. SBB – Münchensteinerstr.</td></tr>
-<tr><td></td><td>507.1 Rete tranviaria di Basilea (BVB)</td></tr>
+<tr><td></td><td>507.1 Tramnetz Basel (BVB)</td></tr>
 <tr><td></td><td>507.2 Basel Schänzli – Pratteln (BLT)</td></tr>
-<tr><td></td><td>759.1 Rete tranviaria di Zurigo (VBZ)</td></tr>
+<tr><td></td><td>759.1 Tramnetz Zürich (VBZ)</td></tr>
 <tr><td></td><td>759.2 Verkehrsbetriebe Glattal</td></tr>
 <tr><td></td><td>759.2 Limmattalbahn</td></tr>
 </table>
@@ -882,7 +813,29 @@ Allegato 2[^t-7]
 
 Allegato 3[^t-8]
 
-[^t-8]: Abrogato dalla cifra II cpv. 2 dell’O dell’UFT del 7 feb. 2017, con effetto dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+(art. 1 cpv. 5)
+
+## Tratte sulle quali si applicano direttamente i prezzi di cui all’articolo 1 capoverso 5
+
+[^t-8]: Nuovo testo giusta la cifra II n. 2 dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
+- 1\. Basel Bad. Bf – frontiera (– Weil am Rhein)
+- 2\. Basel Bad. Bf – frontiera (– Basel Bad. Rbf)
+- 3\. Basel Bad. Bf – confine d’infrastruttura BEV/FFS – Basel SBB PB/RB
+- 4\. Basel RB-Nordkopf – Basel St. Jakob – Basel GB – Basel SBB
+- 5\. Basel Bad. Bf – frontiera (– Grenzach)
+- 6\. Basel Bad. Bf – frontiera (– Lörrach)
+- 7\. (Kreuzlingen –) confine d’infrastruttura FFS/BEV – frontiera (– Konstanz)
+- 8\. (Kreuzlingen Hafen –) confine d’infrastruttura FFS/BEV – frontiera (– Konstanz)
+- 9\. Schaffhausen – frontiera (– Gottmadingen)
+- 10\. Schaffhausen – frontiera (– Erzingen [Baden])
+- 11\. St. Margrethen – frontiera (Austria)
+- 12\. Buchs SG – frontiera (Principato del Liechtenstein)
+- 13\. Basel SBB – Basel St. Johann – frontiera (Francia)
+- 14\. Vallorbe – frontiera (Francia)
+- 15\. Genève-La Praille – La Plaine – frontiera (Francia)
+- 16\. Genève-Cornavin – La Plaine – frontiera (Francia)
+- 17\. Chiasso Smistamento – frontiera (Italia)
 
 Allegato 4
 
@@ -903,19 +856,18 @@ Allegato 5[^t-9]
 
 ## Valori di riferimento forfettari relativi al consumo di energia elettrica
 
-[^t-9]: Introdotto dalla cifra II cpv. 2 dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^t-9]: Introdotto dalla cifra II cpv. 2 dell’O dell’UFT del 19 dic. 2018 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)). Nuovo testo giusta la cifra II n. 1 dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 <table>
-<tr><td>Categoria di treno</td><td colspan="2">Valore di riferimento (kWh per tkmL)</td></tr>
-<tr><td></td><td>Veicoli con freni rigenerativi</td><td>Veicoli senza freni rigenerativi</td></tr>
-<tr><td>1. Intercity/Eurocity</td><td>0.0235</td><td>0.0271</td></tr>
-<tr><td>2. Treno diretto/Interregio</td><td>0.0235</td><td>0.0271</td></tr>
-<tr><td>3. Treno regionale</td><td>0.0370</td><td>0.0537</td></tr>
-<tr><td>4. Treno suburbano (S-Bahn)</td><td>0.0370</td><td>0.0537</td></tr>
-<tr><td>5. Regioexpress</td><td>0.0310</td><td>0.0356</td></tr>
-<tr><td>6. Treno merci a lunga percorrenza</td><td>0.0180</td><td>0.0207</td></tr>
-<tr><td>7. Corsa con veicolo motore d’epoca</td><td>0.0303</td><td>0.0348</td></tr>
-<tr><td>8. Treno merci trattore</td><td>0.0347</td><td>0.0399</td></tr>
-<tr><td>9. Treno di locomotive</td><td>0.0410</td><td>0.0471</td></tr>
-<tr><td>10. Treno di materiale rotabile vuoto del traffico viaggiatori</td><td>0.0295</td><td>0.0339</td></tr>
+<tr><th>Categoria di treno</th><th>Valore di riferimento (kWh per tkmL)</th></tr>
+<tr><td>1. Intercity/Eurocity</td><td>0,0198</td></tr>
+<tr><td>2. Treno diretto/Interregio</td><td>0,0195</td></tr>
+<tr><td>3. Treno regionale</td><td>0,0332</td></tr>
+<tr><td>4. Treno suburbano (S-Bahn)</td><td>0,0332</td></tr>
+<tr><td>5. Regioexpress</td><td>0,0274</td></tr>
+<tr><td>6. Treno merci a lunga percorrenza</td><td>0,0159</td></tr>
+<tr><td>7. Corsa con veicolo motore d’epoca</td><td>0,0303</td></tr>
+<tr><td>8. Treno merci trattore</td><td>0,0224</td></tr>
+<tr><td>9. Treno di locomotive</td><td>0,0340</td></tr>
+<tr><td>10. Treno di materiale rotabile vuoto del traffico viaggiatori</td><td>0,0248</td></tr>
 </table>
