@@ -3,11 +3,11 @@ sr: "0.632.401.2"
 title: Protocollo n. 2 del 22 luglio 1972 riguardante taluni prodotti agricoli trasformati
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997"
 language: it
-version: 2024-02-01
+version: 2025-02-01
 adopted: 1972-07-22
 in_force: 1973-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20240201/it/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20250201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conchiuso il 22 luglio 1972 Approvato dall’Assemblea federale il 3 ottobre 1972[^t-2] Ratificazione svizzera comunicata il 21 dicembre 1972 Entrato in vigore per la Svizzera il 1° gennaio 1973
 
-(Stato 1° febbraio 2024)
+(Stato 1° febbraio 2025)
 
 [^t-1]: Nuovo testo giusta l’art. 1 n. 2 dell’Acc. del 26 ott. 2004 tra la Confederazione Svizzera e la Comunità europea che mod. l’Acc. del 22 lug. 1972 tra la Confederazione Svizzera e la Comunità economica europea per quanto concerne le disposizioni che si applicano ai prodotti agricoli trasformati, approvato dall’AF l’8 dic. 2004, in vigore dal 30 mar. 2005 ([RU 2005 1533](https://fedlex.data.admin.ch/eli/oc/2005/238); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^t-2]: Art. 1 n. 1 del 1317 del 3 ott. 1972 ([RU 1972 2945](https://fedlex.data.admin.ch/eli/oc/1972/3111_3165_2945)).
@@ -279,23 +279,23 @@ Tabella III[^t-5]
 
 ## Prezzi interni di riferimento dell’UE e della Svizzera
 
-[^t-5]: Nuovo testo giusta l’art. 1 lett. a della Dec. n. 1/2024 del Comitato misto Svizzera–UE del 12 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 48](https://fedlex.data.admin.ch/eli/oc/2024/48)).
+[^t-5]: Nuovo testo giusta l’art. 1 lett. a della Dec. n. 1/2025 del Comitato misto Svizzera–UE del 13 gen. 2025, in vigore dal 1° feb. 2025 ([RU 2025 87](https://fedlex.data.admin.ch/eli/oc/2025/87)).
 
 <table>
-<tr><th>Materia prima agricola</th><th>Prezzo interno di riferimento svizzero</th><th>Prezzo interno di riferimento dell’UE</th><th>**Articolo 4,** **paragrafo 1** Differenza prezzo di riferimento svizzero/UE applicata in Svizzera</th><th>**Articolo 3,** **paragrafo 3** Differenza prezzo di riferimento svizzero/UE applicata nell’UE</th></tr>
+<tr><th>Materia prima agricola</th><th>Prezzo interno di riferimento svizzero</th><th>Prezzo interno di riferimento dell’UE</th><th>**Articolo** **4,** **paragrafo** **1** Differenza prezzo di riferimento svizzero / UE applicata in Svizzera</th><th>**Articolo** **3,** **paragrafo** **3** Differenza prezzo di riferimento svizzero / UE applicata nell’UE</th></tr>
 <tr><th></th><th>CHF per 100 kg netti</th><th>CHF per 100 kg netti</th><th>CHF per 100 kg netti</th><th>EUR per 100 kg netti</th></tr>
-<tr><td>Frumento tenero</td><td>59,28</td><td>28,78</td><td>30,50</td><td>0,00</td></tr>
+<tr><td>Frumento tenero</td><td>60,35</td><td>20,93</td><td>39,40</td><td>0,00</td></tr>
 <tr><td>Frumento duro</td><td>–</td><td>–</td><td>1,20</td><td>0,00</td></tr>
-<tr><td>Segale</td><td>47,70</td><td>27,53</td><td>20,15</td><td>0,00</td></tr>
+<tr><td>Segale</td><td>47,37</td><td>18,48</td><td>28,90</td><td>0,00</td></tr>
 <tr><td>Orzo</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>Granturco</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Farina di frumento tenero</td><td>101,28</td><td>53,18</td><td>48,10</td><td>0,00</td></tr>
-<tr><td>Latte intero in polvere</td><td>713,26</td><td>385,92</td><td>327,35</td><td>0,00</td></tr>
-<tr><td>Latte scremato in polvere</td><td>491,82</td><td>271,66</td><td>220,15</td><td>0,00</td></tr>
-<tr><td>Burro</td><td>1241,84</td><td>540,51</td><td>701,35</td><td>0,00</td></tr>
+<tr><td>Farina di frumento tenero</td><td>100,37</td><td>42,47</td><td>57,90</td><td>0,00</td></tr>
+<tr><td>Latte intero in polvere</td><td>724,26</td><td>356,22</td><td>368,05</td><td>0,00</td></tr>
+<tr><td>Latte scremato in polvere</td><td>498,09</td><td>237,55</td><td>260,55</td><td>0,00</td></tr>
+<tr><td>Burro</td><td>1247,15</td><td>556,88</td><td>690,25</td><td>0,00</td></tr>
 <tr><td>Zucchero bianco</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>Uova</td><td>–</td><td>–</td><td>38,00</td><td>0,00</td></tr>
-<tr><td>Patate fresche</td><td>40,72</td><td>21,25</td><td>19,45</td><td>0,00</td></tr>
+<tr><td>Patate fresche</td><td>42,31</td><td>20,55</td><td>21,75</td><td>0,00</td></tr>
 <tr><td>Grasso vegetale</td><td>–</td><td>–</td><td>170,00</td><td>0,00</td></tr>
 </table>
 
@@ -303,26 +303,26 @@ Tabella IV[^t-6]
 
 ## Regime d’importazione svizzero
 
-[^t-6]: Aggiornata dall’art. 1 della Dec. n. 2/2006 del Comitato misto Svizzera–UE del 31 gen. 2006 ([RU 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)), dall’art. 1 lett. b della Dec. n. 1/2024 del Comitato misto Svizzera–UE del 12 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 48](https://fedlex.data.admin.ch/eli/oc/2024/48)).
+[^t-6]: Aggiornata dall’art. 1 della Dec. n. 2/2006 del Comitato misto Svizzera–UE del 31 gen. 2006 ([RU 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)), dall’art. 1 lett. b della Dec. n. 1/2025 del Comitato misto Svizzera–UE del 13 gen. 2025, in vigore dal 1° feb. 2025 ([RU 2025 87](https://fedlex.data.admin.ch/eli/oc/2025/87)).
 
 - a) Il dazio doganale per i prodotti elencati nell’appendice della presente tabella corrisponde ad una componente agricola calcolata sulla base della massa netta. Le composizioni standard sono indicate nell’appendice.
 - b) Importi di base di materie prime agricole di cui si tiene conto ai fini del calcolo delle componenti agricole:
 
 <table>
-<tr><th>Materia prima agricola</th><th>**Importo di base applicato in Svizzera** Articolo 3 paragrafo 2</th><th>**Importo di base applicato** **nell’UE** Articolo 4 paragrafo 2</th></tr>
+<tr><th>Materia prima agricola</th><th>**Importo di base applicato** **in Svizzera** articolo 3, paragrafo 2</th><th>**Importo di base applicato** **nell’UE** articolo 4, paragrafo 2</th></tr>
 <tr><th></th><th>CHF per 100 kg netti</th><th>EUR per 100 kg netti</th></tr>
-<tr><td>Frumento tenero</td><td>22,10</td><td>0,00</td></tr>
+<tr><td>Frumento tenero</td><td>29,80</td><td>0,00</td></tr>
 <tr><td>Frumento duro</td><td>1,00</td><td>0,00</td></tr>
-<tr><td>Segale</td><td>14,80</td><td>0,00</td></tr>
+<tr><td>Segale</td><td>22,75</td><td>0,00</td></tr>
 <tr><td>Orzo</td><td>–</td><td>–</td></tr>
 <tr><td>Granturco</td><td>–</td><td>–</td></tr>
-<tr><td>Farina di frumento tenero</td><td>34,10</td><td>0,00</td></tr>
-<tr><td>Latte intero in polvere</td><td>266,80</td><td>0,00</td></tr>
-<tr><td>Latte scremato in polvere</td><td>179,40</td><td>0,00</td></tr>
-<tr><td>Burro</td><td>529,70</td><td>0,00</td></tr>
+<tr><td>Farina di frumento tenero</td><td>47,20</td><td>0,00</td></tr>
+<tr><td>Latte intero in polvere</td><td>299,95</td><td>0,00</td></tr>
+<tr><td>Latte scremato in polvere</td><td>212,35</td><td>0,00</td></tr>
+<tr><td>Burro</td><td>549,35</td><td>0,00</td></tr>
 <tr><td>Zucchero bianco</td><td>–</td><td>–</td></tr>
 <tr><td>Uova</td><td>30,95</td><td>0,00</td></tr>
-<tr><td>Patate fresche</td><td>14,15</td><td>0,00</td></tr>
+<tr><td>Patate fresche</td><td>15,75</td><td>0,00</td></tr>
 <tr><td>Grasso vegetale</td><td>138,55</td><td>0,00</td></tr>
 </table>
 
