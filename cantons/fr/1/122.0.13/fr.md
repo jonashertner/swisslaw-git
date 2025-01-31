@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2024-12-01
-valid_until: 2025-01-31
-version_adopted: 2024-11-05
+version: 2025-02-01
+valid_until: 2025-07-31
+version_adopted: 2025-01-07
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8075/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8131/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8075/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.12.2024)
+du 09.07.2002 (version entrée en vigueur le 01.02.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -115,7 +115,7 @@ Arrête:
 - d) le Service du registre du commerce (SRC);
 - e) le Service de la formation professionnelle (SFP);
 - f) le Service de l'énergie (SdE);
-- g) le Service de la statistique (SStat);
+- g) le Service de la statistique et de la donnée (SSD);
 - h) le Service du logement (SLog).
 
 <sup>2</sup> Lui sont rattachées administrativement les unités suivantes:
@@ -208,7 +208,8 @@ Arrête:
 - d) le Service de l'informatique et des télécommunications;
 - e) le Service des bâtiments;
 - f) le Service d'achat du matériel et des imprimés;
-- g) les Archives de l'Etat.
+- g) les Archives de l'Etat;
+- h) le Service de la statistique et de la donnée.
 
 #### Art. 10
 
