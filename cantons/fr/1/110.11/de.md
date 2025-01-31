@@ -4,13 +4,13 @@ number: "110.11"
 title: Verordnung über die Durchführung von statistischen Erhebungen des Kantons
 short: StatEV
 language: de
-version: 2020-03-03
-valid_until: 2025-01-31
-version_adopted: 2020-03-03
+version: 2025-02-01
+valid_until: 2026-01-31
+version_adopted: 2025-01-07
 adopted: 2026-01-27
 in_force: 2026-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/110.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8162/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8163/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Statistische Erhebungen des Kantons – V
 
 (StatEV)
 
-vom 03.03.2020 (Fassung in Kraft getreten am 03.03.2020)
+vom 03.03.2020 (Fassung in Kraft getreten am 01.02.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -53,7 +53,7 @@ beschliesst:
 
 **Erhebungsorgane**
 
-<sup>1</sup> Die Erhebungsorgane sind das Amt für Statistik (das Amt) als zentrale Statistikstelle des Kantons und die Verwaltungseinheiten und Institutionen gemäss Anhang 1 für die Erhebungen in ihrem Zuständigkeitsgebiet.
+<sup>1</sup> Die Erhebungsorgane sind das Amt für Statistik und Daten (das Amt) als zentrale Statistikstelle des Kantons und die Verwaltungseinheiten und Institutionen gemäss Anhang 1 für die Erhebungen in ihrem Zuständigkeitsgebiet.
 
 #### Art. 3
 
@@ -257,7 +257,7 @@ beschliesst:
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> *Verknüpfung der gesammelten Daten:* Die Daten werden vom kantonalen Amt für Statistik gestützt auf einen Vertrag zwischen dem Bund und dem Kanton Freiburg mit dem Gebäude- und Wohnungsregister (GWR) des Bundesamts für Statistik und mit dem kantonalen Einwohnerregister (FriPers) verknüpft.
+<sup>1</sup> *Verknüpfung der gesammelten Daten:* Die Daten werden vom Amt für Statistik und Daten gestützt auf einen Vertrag zwischen dem Bund und dem Kanton Freiburg mit dem Gebäude- und Wohnungsregister (GWR) des Bundesamts für Statistik und mit dem kantonalen Einwohnerregister (FriPers) verknüpft.
 
 <sup>2</sup> *Öffentlich-private Partnerschaft:* Die Erhebung ist die Grundlage eines Referenzinformationssystems für die regionale Immobilienbranche. Ihr Nutzen wird von den öffentlichen und privaten Akteuren, die Mitglieder des Vereins des Wohn- und Immobilienmonitors Freiburg sind, anerkannt. Die Bedingungen und Pflichten dieses nichtgewinnorientierten Vereins werden in der Projektvereinbarung zwischen den Mitgliedern und der HSW-FR aufgeführt. Die Vereinbarung endet am 30.08.2022. Sie kann stillschweigend um vier Jahre verlängert werden.
 

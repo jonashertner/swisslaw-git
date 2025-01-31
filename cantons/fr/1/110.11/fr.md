@@ -4,13 +4,13 @@ number: "110.11"
 title: "Ordonnance concernant l'exécution des relevés statistiques cantonaux"
 short: ORStat
 language: fr
-version: 2020-03-03
-valid_until: 2025-01-31
-version_adopted: 2020-03-03
+version: 2025-02-01
+valid_until: 2026-01-31
+version_adopted: 2025-01-07
 adopted: 2026-01-27
 in_force: 2026-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/110.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8162/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8163/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Relevés statistiques cantonaux – O
 
 (ORStat)
 
-du 03.03.2020 (version entrée en vigueur le 03.03.2020)
+du 03.03.2020 (version entrée en vigueur le 01.02.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -53,7 +53,7 @@ Arrête:
 
 **Organes responsables des relevés**
 
-<sup>1</sup> Les organes responsables des relevés sont le Service de la statistique (ci-après: le Service), en tant qu'organe central de la statistique cantonale, ainsi que, pour les relevés dont elles ont la charge, les unités de l'administration cantonale et les institutions mentionnées dans l'Annexe 1.
+<sup>1</sup> Les organes responsables des relevés sont le Service de la statistique et de la donnée (ci-après: le Service), en tant qu'organe central de la statistique cantonale, ainsi que, pour les relevés dont elles ont la charge, les unités de l'administration cantonale et les institutions mentionnées dans l'Annexe 1.
 
 #### Art. 3
 
@@ -257,7 +257,7 @@ Arrête:
 
 **Dispositions particulières**
 
-<sup>1</sup> *Appariement des données collectées:* Les données sont appariées par le Service cantonal de la statistique avec le Registre des bâtiments et logements (RegBL) de l'Office fédéral de la statistique en vertu d'un contrat entre la Confédération et l'Etat de Fribourg, ainsi qu'avec le registre cantonal des habitants (FriPers).
+<sup>1</sup> *Appariement des données collectées:* Les données sont appariées par le Service de la statistique et de la donnée avec le Registre des bâtiments et logements (RegBL) de l'Office fédéral de la statistique en vertu d'un contrat entre la Confédération et l'Etat de Fribourg, ainsi qu'avec le registre cantonal des habitants (FriPers).
 
 <sup>2</sup> *Partenariat public-privé:* L'enquête s'inscrit dans le système d'information de référence au service de l'immobilier régional. Son utilité est reconnue par des acteurs privés et publics réunis autour de l'Association de l'observatoire du logement et immobilier Fribourg. Les conditions et les obligations de cette Association sans but lucratif sont fixées dans une convention de projet signée entre les membres et la HEG-FR. Son échéance est fixée au 30 août 2022. Elle est renouvelable pour une période de quatre ans par tacite reconduction.
 
