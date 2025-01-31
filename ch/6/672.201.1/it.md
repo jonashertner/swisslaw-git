@@ -3,18 +3,18 @@ sr: "672.201.1"
 title: Ordinanza 1 del DFF del 4 dicembre 2019 sul computo di imposte alla fonte estere
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/29"
 language: it
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2019-12-04
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2020-29-20240201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2020-29-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 1 del DFF sul computo di imposte alla fonte estere
 
-del 4 dicembre 2019 (Stato 1° febbraio 2024)
+del 4 dicembre 2019 (Stato 1° febbraio 2025)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -34,7 +34,7 @@ ordina:
 
 L’ordinanza 1 del DFF del 6 dicembre 1967[^2-1] sul computo globale d’imposta è abrogata.
 
-[^2-1]: [RS **1967** 1711, **1981** 1999 n. I, **1988** 604, **2001** 1065, **2012** 5983, **2019** 167]
+[^2-1]: [RS **1967** 1711; **1981** 1999 cifra I; **1988** 604; **2001** 1065; **2012** 5983; **2019** 167]
 
 #### Art. 3
 
@@ -46,9 +46,9 @@ Allegato[^t-1]
 
 ## Distinta degli Stati contraenti
 
-[^t-1]: Nuovo testo giusta il n. I dell’O della SFI del 6 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 812](https://fedlex.data.admin.ch/eli/oc/2023/812)).
+[^t-1]: Nuovo testo giusta la cifra n. I dell’O della SFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 797](https://fedlex.data.admin.ch/eli/oc/2024/797)).
 
-(valevole per i redditi maturati nel 2023)[^annexu1-lvlu1-1]
+(valevole per i redditi maturati nel 2024)[^annexu1-lvlu1-1]
 
 Il computo di imposte estere non recuperabili prelevate alla fonte deve essere operato attualmente in base alle convenzioni per evitare le doppie imposizioni (CDI) menzionate nella presente distinta[^annexu1-lvlu1-2]<sup>,</sup>[^annexu1-lvlu1-3].
 
@@ -74,8 +74,9 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td></td><td>Canoni</td><td>15 [D6]</td></tr>
 <tr><td></td><td>Compensi per fornitura d’assistenza tecnica</td><td>10</td></tr>
 <tr><td>Armenia</td><td>Dividendi</td><td></td></tr>
-<tr><td>12.6.2006</td><td>– di filiali (dal 25 %)</td><td>5 [B5]</td></tr>
-<tr><td></td><td>– altri</td><td>5/10 [B43]</td></tr>
+<tr><td>12.6.2006</td><td>– di filiali (dal 50 %)</td><td>0 [B38]</td></tr>
+<tr><td></td><td>– di filiali (dal 10 %)</td><td>5 [B42]</td></tr>
+<tr><td></td><td>– altri</td><td>5 [B43]</td></tr>
 <tr><td></td><td>Interessi</td><td>10 [C29]</td></tr>
 <tr><td></td><td>Canoni</td><td>5</td></tr>
 <tr><td>Australia</td><td>Dividendi</td><td>0 [B7]</td></tr>
@@ -86,7 +87,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td></td><td>– altri</td><td>15</td></tr>
 <tr><td>Azerbaigian</td><td>Dividendi</td><td></td></tr>
 <tr><td>23.2.2006</td><td>– di filiali (dal 20 %)</td><td>5 [B6]</td></tr>
-<tr><td></td><td>– altri</td><td>10 [B1]</td></tr>
+<tr><td></td><td>– altri</td><td>5 [B1]</td></tr>
 <tr><td></td><td>Interessi</td><td>10 [C3] [C21]</td></tr>
 <tr><td></td><td>Canoni</td><td>10 [D4]</td></tr>
 <tr><td>Bahrain</td><td>Dividendi</td><td></td></tr>
@@ -149,7 +150,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td></td><td>Interessi</td><td>10 [C26]</td></tr>
 <tr><td></td><td>Canoni</td><td>10</td></tr>
 <tr><td></td><td>Remunerazioni per prestazioni di servizi</td><td>10</td></tr>
-<tr><td>Corea del Sud</td><td>Dividendi</td><td></td></tr>
+<tr><td>Corea (Sud)</td><td>Dividendi</td><td></td></tr>
 <tr><td>12.2.1980</td><td>– di filiali (dal 10 %)</td><td>5</td></tr>
 <tr><td></td><td>– altri</td><td>15</td></tr>
 <tr><td></td><td>Interessi</td><td>10 [C3]</td></tr>
@@ -167,13 +168,20 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td>Ecuador</td><td>Dividendi</td><td>10 [B10]</td></tr>
 <tr><td>28.11.1994</td><td>Interessi</td><td>10 [C7]</td></tr>
 <tr><td></td><td>Canoni</td><td>10</td></tr>
-<tr><td>Egitto</td><td>Dividendi</td><td>0 [B1] [B3]</td></tr>
-<tr><td>20.5.1987</td><td>Interessi</td><td>15 [C2]</td></tr>
+<tr><td>Egitto</td><td>Dividendi</td><td></td></tr>
+<tr><td>20.5.1987</td><td>– di filiali (dal 25 %)</td><td>5 [B3]</td></tr>
+<tr><td></td><td>– altri</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Interessi</td><td>15 [C2]</td></tr>
 <tr><td></td><td>Canoni</td><td>12,5 [D22]</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>Dividendi</td><td>0 [B31]</td></tr>
 <tr><td>6.10.2011</td><td></td><td></td></tr>
 <tr><td>Estonia</td><td>Dividendi</td><td>0 [B12]</td></tr>
 <tr><td>11.6.2002</td><td></td><td></td></tr>
+<tr><td>Etiopia [A4]</td><td>Dividendi</td><td></td></tr>
+<tr><td>29.7.2021</td><td>– di filiali (dal 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– altri</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Interessi</td><td>5</td></tr>
+<tr><td></td><td>Canoni</td><td>5</td></tr>
 <tr><td>Filippine</td><td>Dividendi</td><td></td></tr>
 <tr><td>24.6.1998</td><td>– di filiali (dal 10 %)</td><td>10</td></tr>
 <tr><td></td><td>– altri</td><td>15</td></tr>
@@ -231,7 +239,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td>27.10.2002</td><td>– di filiali (dal 15 %)</td><td>0 [B3]</td></tr>
 <tr><td></td><td>– altri</td><td>0 [B1]</td></tr>
 <tr><td></td><td>Interessi</td><td>0 [C4]</td></tr>
-<tr><td></td><td>Canoni</td><td>5–7.5 [D25]</td></tr>
+<tr><td></td><td>Canoni</td><td>5–7,5 [D25]</td></tr>
 <tr><td>Islanda</td><td>Dividendi</td><td></td></tr>
 <tr><td>10.7.2014</td><td>– di filiali (dal 10 %)</td><td>0</td></tr>
 <tr><td></td><td>– altri</td><td>15</td></tr>
@@ -293,7 +301,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td>25.2.2011</td><td></td><td></td></tr>
 <tr><td>Marocco</td><td>Dividendi</td><td></td></tr>
 <tr><td>31.3.1993</td><td>– di filiali (dal 25 %)</td><td>7</td></tr>
-<tr><td></td><td>– altri</td><td>13,75 [B1]</td></tr>
+<tr><td></td><td>– altri</td><td>12,5 [B1]</td></tr>
 <tr><td></td><td>Interessi</td><td>10 [C2]</td></tr>
 <tr><td></td><td>Canoni</td><td>10</td></tr>
 <tr><td>Messico</td><td>Dividendi</td><td></td></tr>
@@ -323,10 +331,10 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td>6.6.1980</td><td>Interessi</td><td>10 [C16]</td></tr>
 <tr><td></td><td>Canoni</td><td>10</td></tr>
 <tr><td>Oman</td><td>Dividendi</td><td></td></tr>
-<tr><td>22.5.2015</td><td>– di filiali (dal 10 %)</td><td>5</td></tr>
-<tr><td></td><td>– altri</td><td>10 [B1]</td></tr>
-<tr><td></td><td>Interessi</td><td>0/5 [C31]</td></tr>
-<tr><td></td><td>Canoni</td><td>8</td></tr>
+<tr><td>22.5.2015</td><td>– di filiali (dal 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– altri</td><td>0 [B1]</td></tr>
+<tr><td></td><td>Interessi</td><td>0</td></tr>
+<tr><td></td><td>Canoni</td><td>0/8 [D14]</td></tr>
 <tr><td>Paesi Bassi</td><td>Dividendi</td><td>[B19]</td></tr>
 <tr><td>26.2.2010</td><td>– di filiali (dal 10 %)</td><td>0</td></tr>
 <tr><td></td><td>– altri</td><td>15</td></tr>
@@ -356,7 +364,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td>8.12.1977</td><td></td><td></td></tr>
 <tr><td>Romania</td><td>Dividendi</td><td></td></tr>
 <tr><td>25.10.1993</td><td>– di filiali (dal 25 %)</td><td>0</td></tr>
-<tr><td></td><td>– altri</td><td>5 [B1]</td></tr>
+<tr><td></td><td>– altri</td><td>8 [B1]</td></tr>
 <tr><td></td><td>Interessi</td><td>5 [C6]</td></tr>
 <tr><td>Russia</td><td>Dividendi</td><td></td></tr>
 <tr><td>15.11.1995</td><td>– di filiali (dal 20 %)</td><td>5 [B5]</td></tr>
@@ -368,7 +376,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td>Singapore</td><td>Dividendi</td><td>0 [B23]</td></tr>
 <tr><td>24.2.2011</td><td>Interessi</td><td>5 [C14]</td></tr>
 <tr><td></td><td>Canoni</td><td>5</td></tr>
-<tr><td>Slovacchia</td><td>Dividendi</td><td>7 [B1] [B24]</td></tr>
+<tr><td>Slovacchia</td><td>Dividendi</td><td>10 [B1] [B24]</td></tr>
 <tr><td>14.2.1997</td><td>Interessi</td><td>5 [C6]</td></tr>
 <tr><td></td><td>Canoni</td><td>5 [D13]</td></tr>
 <tr><td>Slovenia</td><td>Dividendi</td><td></td></tr>
@@ -398,7 +406,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td></td><td>– altri</td><td>15</td></tr>
 <tr><td>Tagikistan</td><td>Dividendi</td><td></td></tr>
 <tr><td>23.6.2010</td><td>– di filiali (dal 20 %)</td><td>5 [B40]</td></tr>
-<tr><td></td><td>– altri</td><td>12 [B1] [B40]</td></tr>
+<tr><td></td><td>– altri</td><td>12/15 [B1] [B40]</td></tr>
 <tr><td></td><td>Interessi</td><td>10</td></tr>
 <tr><td></td><td>Canoni</td><td>5</td></tr>
 <tr><td>Thailandia</td><td>Dividendi</td><td></td></tr>
@@ -406,9 +414,9 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td></td><td>– altri</td><td>10 [B1] [B27]</td></tr>
 <tr><td></td><td>Interessi</td><td>10 [C9] [C19] [C20]</td></tr>
 <tr><td></td><td>Canoni (leasing compreso)</td><td>10 [D17] [D18] [D19]</td></tr>
-<tr><td>Taiwan (Taipei Cinese)</td><td>Dividendi</td><td></td></tr>
-<tr><td>8.10.2007 [A3]</td><td>– di filiali (dal 20 %)</td><td>10</td></tr>
-<tr><td></td><td>– altri</td><td>15</td></tr>
+<tr><td>Taiwan</td><td>Dividendi</td><td></td></tr>
+<tr><td>(Taipei Cinese)</td><td>– di filiali (dal 20 %)</td><td>10</td></tr>
+<tr><td>8.10.2007 [A3]</td><td>– altri</td><td>15</td></tr>
 <tr><td></td><td>Interessi</td><td>10</td></tr>
 <tr><td></td><td>Canoni</td><td>10</td></tr>
 <tr><td>Trinidad e Tobago</td><td>Dividendi</td><td>10 [B28]</td></tr>
@@ -431,7 +439,7 @@ Il computo di imposte estere non recuperabili prelevate alla fonte deve essere o
 <tr><td></td><td>Canoni</td><td>10</td></tr>
 <tr><td>Ucraina</td><td>Dividendi</td><td></td></tr>
 <tr><td>30.10.2000</td><td>– di filiali (dal 10 %)</td><td>5</td></tr>
-<tr><td></td><td>– altri dividendi pagati</td><td>15</td></tr>
+<tr><td></td><td>– altri dividendi pagati</td><td>15/5 [B44]</td></tr>
 <tr><td></td><td>Interessi</td><td>5</td></tr>
 <tr><td></td><td>Canoni</td><td>5</td></tr>
 <tr><td>Ungheria</td><td>Dividendi</td><td></td></tr>
@@ -476,6 +484,8 @@ A. Generali
 
 [3] Tra la Svizzera e Taiwan non esiste nessuna convenzione per evitare le doppie imposizioni. Esiste unicamente una convenzione privata per evitare le doppie imposizioni che il Consiglio federale ha riconosciuto il 9 dicembre 2011. Le relative disposizioni sono applicabili a partire dal 1° gennaio 2011.
 
+[4] I pagamenti per la prestazione di servizi tecnici sono esclusi dall’ambito di applicazione della CDI e possono essere tassati in base alla legislazione nazionale degli Stati contraenti. L’imposta alla fonte estera viene contabilizzata come costo. Non vi è alcun computo.
+
 B. Dividendi
 
 [1] Secondo la CDI lo Stato della fonte è autorizzato a prelevare un’imposta alla fonte del 15 %.
@@ -504,7 +514,7 @@ B. Dividendi
 
 [13] Eventualmente del 15 % in caso di interesse straniero preponderante nella società svizzera da parte di persone non residenti nell’UE (art. 11 par. 2 lett. b n. iii).
 
-[14] Attualmente il Brasile non preleva l’imposta alla fonte sui dividendi. Secondo la CDI sarebbe autorizzato a prelevare un’imposta alla fonte del 15 % sui dividendi o del 10 % in caso di una partecipazione al capitale di almeno il 10 %.
+[14] Attualmente il Brasile non preleva l’imposta alla fonte sui dividendi. Secondo la CDI sarebbe autorizzato a prelevare un’imposta alla fonte del 15% sui dividendi o del 10 % in caso di una partecipazione al capitale di almeno il 10 %.
 
 [15] In Turchia è possibile prelevare un’imposta alla fonte («branch profits tax») del 5 % al massimo sugli utili di una stabile organizzazione (secondo il diritto interno turco: 10 %) trasferiti alla società svizzera, se questi utili sono esentati in Svizzera (Stato della sede dell’impresa). L’esenzione di una stabile organizzazione è sancita nell’art. 52 della legge federale del 14 dicembre 1990 sull’imposta federale diretta (RS *642.11*) e nelle pertinenti disposizioni cantonali.
 
@@ -524,7 +534,7 @@ B. Dividendi
 
 [23] Singapore non preleva alcuna imposta alla fonte sui dividendi, a eccezione dei dividendi REIT («Real Estate Investment Trusts»). Secondo la CDI sarebbe autorizzato a prelevare un’imposta alla fonte del 15 % o del 5 % in caso di una partecipazione al capitale di almeno il 10 %.
 
-[24] La Slovacchia preleva un’imposta alla fonte del 7 % sui dividendi distribuiti da utili realizzati dopo il 1° gennaio 2017.
+[24] La Slovacchia preleva un’imposta alla fonte del 10 % sui dividendi pagati alle persone fisiche. 0 % sui dividendi pagati alle persone giuridiche che provengono da utili realizzati dopo il 1° gennaio 2024.
 
 [25] Nessuna imposta residua se le condizioni dell’art. 10 par. 2 lett. b della CDI e dei n. 2 e 3 del Protocollo sono soddisfatte.
 
@@ -552,21 +562,21 @@ B. Dividendi
 
 [37] Il Perù applica un’imposta alla fonte del 5 % sui dividendi. Secondo la CDI sarebbe autorizzato a prelevare un’imposta alla fonte del 10 % (applicazione di una clausola della nazione più favorita).
 
-[38] …
+[38] A condizione che il capitale estero investito superi 2 000 000 CHF, o il suo controvalore in un’altra valuta, per un periodo di 365 giorni.
 
 [39] 5 % se i dividendi sono pagati da una società residente nell’Astana hub. 10 %, secondo il diritto kazako, se la partecipazione in relazione alla quale viene pagato il dividendo si riferisce a una società quotata alla borsa del Kazakistan oppure se le sue azioni sono detenute da più di tre anni, la società residente in Kazakistan non è considerata una società attiva nello sfruttamento del sottosuolo e, se del caso, la partecipazione di una società attiva nello sfruttamento del sottosuolo negli asset della società residente non supera il 50 %.
 
-[40] 15 % sui dividendi pagati a persone fisiche non-residenti.
+[40] Ai sensi del diritto interno 15 % sui dividendi pagati a persone fisiche non-residenti.
 
 [41] Nessuna imposta alla fonte prelevata sui pagamenti di dividendi distribuiti da utili realizzati dopo il 31 dicembre 2017.
 
-[42] …
+[42] A condizione che il capitale estero investito superi 200 000 CHF, o il suo controvalore in un’altra valuta, per un periodo di 365 giorni.
 
-[43] Ai sensi del diritto interno 5 % sui dividendi versati a persone fisiche non residenti.
+[43] Ai sensi del diritto interno 5 %.
 
-[44] …
+[44] 5% sui dividendi pagati alle persone fisiche da contribuenti societari ucraini.
 
-[45] A seguito della clausola evolutiva della nazione più favorita tra la Svizzera e l’India, l’adesione della Lituania e della Colombia all’OCSE ha quale conseguenza, per quanto attiene alle relazioni tra Svizzera e India, che il computo dell’imposta alla fonte estera per i dividendi dovuti dal 1° gennaio 2021 è limitato al 5 %.
+[45] A seguito della clausola evolutiva della nazione più favorita tra la Svizzera e l’India, l’adesione della Lituania e della Colombia all’Organizzazione per la cooperazione e lo sviluppo economico ha quale conseguenza, per quanto attiene alle relazioni tra Svizzera e India, che il computo dell’imposta alla fonte estera per i dividendi dovuti dal 1° gennaio 2021 è limitato al 5 %.
 
 C. Interessi
 
@@ -626,11 +636,11 @@ C. Interessi
 
 [28] Israele prevede numerosi esoneri. In particolare, non sono imponibili gli interessi sulle obbligazioni di Stato e i depositi bancari in valuta estera.
 
-[29] 0 % secondo il diritto interno sugli interessi di alcune obbligazioni di Stato in valuta estera. Secondo la CDI lo 0 % si applica alla vendita a credito di un equipaggiamento industriale, commerciale o scientifico e su un mutuo di qualunque natura concesso da un istituto bancario.
+[29] 0 % secondo il diritto interno sugli interessi di alcune obbligazioni di Stato in valuta estera. Secondo la CDI lo 0 % si applica alla vendita a credito di un equipaggiamento industriale, commerciale o scientifico, su un mutuo di qualunque natura concesso da un istituto bancario e sugli interessi pagati al Governo dell’altro Stato, alle sue suddivisioni politiche o ai suoi enti locali o alla sua banca centrale.
 
 [30] L’aliquota d’imposizione alla fonte italiana può essere in alcuni casi, come ad esempio per gli interessi di certe obbligazioni, inferiore a 12,5 %.
 
-[31] Gli interessi sono soggetti ai sensi della legge omanita a un’imposta alla fonte del 10 %., che è limitata a un massimo del 5 % dalla CDI. In alcuni casi l’imposta alla fonte non può essere applicata (ad esempio, prestiti tra società, interessi su vendite a credito o prestiti bancari).
+[31] …
 
 [32] 0 % per gli interessi sui titoli di Stato.
 
@@ -670,7 +680,7 @@ D. Canoni
 
 [13] 0 % tra imprese associate.
 
-[14] …
+[14] 0 % per i compensi per l’uso di navi, aerei e motori di aerei.
 
 [15] 5 % sui canoni per l’uso o la concessione in uso di equipaggiamenti industriali, commerciali o scientifici e 7 % per gli altri canoni.
 
@@ -700,6 +710,6 @@ E. Prestazioni di servizi
 
 [2] Senza tenere conto dell’imposta effettivamente dedotta, poiché la CDI prevede un computo fittizio d’imposta.
 
-[^annexu1-lvlu1-1]: Per i redditi maturati nel 2022, cfr. [RU 2022 848](https://fedlex.data.admin.ch/eli/oc/2022/848).
-[^annexu1-lvlu1-2]: Le note si trovano alla fine della distinta.
-[^annexu1-lvlu1-3]: Questa distinta illustra le imposte alla fonte estere non recuperabili sulla base delle convenzioni contro le doppie imposizioni concluse dalla Svizzera. A determinate condizioni, l’art. 9 dell’Accordo del 26 ott. 2004 tra la Confederazione Svizzera e l’Unione europea sullo scambio automatico di informazioni finanziarie per migliorare l’adempimento fiscale internazionale ([RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) prevede l’imposizione esclusiva nello Stato di residenza delle persone che ricevono dividendi, interessi o canoni di licenza pagati tra imprese associate. Una società svizzera che riceve dividendi, interessi o canoni di licenza esenti dall’imposta alla fonte estera sulla base dell’art. 9 di detto Accordo non può fare valere il computo dell’imposta alla fonte per questi redditi.
+[^annexu1-lvlu1-1]: Per i redditi maturati nel 2023, cfr. [RU 2023 812](https://fedlex.data.admin.ch/eli/oc/2023/812).
+[^annexu1-lvlu1-2]: Questa distinta illustra le imposte alla fonte estere non recuperabili sulla base delle convenzioni contro le doppie imposizioni concluse dalla Svizzera. A determinate condizioni, l’art. 9 dell’Accordo del 26 ott. 2004 tra la Confederazione Svizzera e l’Unione europea sullo scambio automatico di informazioni finanziarie per migliorare l’adempimento fiscale internazionale ([RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) prevede l’imposizione esclusiva nello Stato di residenza delle persone che ricevono dividendi, interessi o canoni di licenza pagati tra imprese associate. Una società svizzera che riceve dividendi, interessi o canoni di licenza esenti dall’imposta alla fonte estera sulla base dell’art. 9 di detto Accordo non può fare valere il computo dell’imposta alla fonte per questi redditi.
+[^annexu1-lvlu1-3]: Le note si trovano alla fine della distinta.

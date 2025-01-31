@@ -3,18 +3,18 @@ sr: "672.201.1"
 title: Verordnung 1 des EFD vom 4. Dezember 2019 über die Anrechnung ausländischer Quellensteuern
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/29"
 language: de
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2019-12-04
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2020-29-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2020-29-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung 1 des EFD über die Anrechnung ausländischer Quellensteuern
 
-vom 4. Dezember 2019 (Stand am 1. Februar 2024)
+vom 4. Dezember 2019 (Stand am 1. Februar 2025)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -46,424 +46,433 @@ Anhang[^t-1]
 
 ## Liste der Vertragsstaaten
 
-[^t-1]: Fassung gemäss Ziff. I der V des SIF vom 6. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 812](https://fedlex.data.admin.ch/eli/oc/2023/812)).
+[^t-1]: Fassung gemäss Ziff. I der V des SIF vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 797](https://fedlex.data.admin.ch/eli/oc/2024/797)).
 
-(Gilt für die im Jahr 2023 fällig gewordenen Erträge)[^annexu1-lvlu1-1]
+(Gilt für die im Jahr 2024 fällig gewordenen Erträge)[^annexu1-lvlu1-1]
 
 Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund der in der nachstehenden Liste[^annexu1-lvlu1-2] genannten Doppelbesteuerungsabkommen (DBA) anzurechnen.[^annexu1-lvlu1-3]
 
 <table>
-<tr><th colspan="2">*Vertragsstaaten* Datum des DBA</th><th colspan="2">Erträge [A1]</th><th colspan="2">Nicht rückforderbare Quellensteuern der Vertragsstaaten in % [A2]</th></tr>
-<tr><td colspan="2">Ägypten</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1] [B3]</td></tr>
-<tr><td colspan="2">20.5.1987</td><td colspan="2">Zinsen</td><td colspan="2">15 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">12,5 [D22]</td></tr>
-<tr><td colspan="2">Albanien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.11.1999</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">8 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Algerien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">3.6.2006</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Argentinien</td><td colspan="2">Dividenden</td><td colspan="2">7 [B4]</td></tr>
-<tr><td colspan="2">20.3.2014</td><td colspan="2">Zinsen</td><td colspan="2">12</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">15 [D6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Vergütungen für technische Unterstützungsleistungen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Armenien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.6.2006</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5 [B5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">5/10 [B1] [B43]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C29]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Aserbaidschan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">23.2.2006</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5 [B6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C3] [C21]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10 [D4]</td></tr>
-<tr><td colspan="2">Australien</td><td colspan="2">Dividenden</td><td colspan="2">0 [B7]</td></tr>
-<tr><td colspan="2">30.7.2013</td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Bahrain</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">23.11.2019</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0 [B3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2">Bangladesch</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">10.12.2007</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Belarus</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">26.4.1999</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an juristische Personen</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">13 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">8 [C3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– für Patente und Knowhow</td><td colspan="2">3</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Leasinggebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Belgien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">28.8.1978</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Brasilien</td><td colspan="2">Dividenden</td><td colspan="2">0 [B14]</td></tr>
-<tr><td colspan="2">3.5.2018</td><td colspan="2">Zinsen</td><td colspan="2">15 [C23]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] für das Recht auf Benutzung einer Marke</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] andere</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Vergütungen für technische Dienstleistungen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Bulgarien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">28.10.1991</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">5 [B2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Chile</td><td colspan="2">Dividenden</td><td colspan="2">15 [B8]</td></tr>
-<tr><td colspan="2">2.4.2008</td><td colspan="2">Zinsen</td><td colspan="2">10 [C8]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Leasing</td><td colspan="2">2</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">China</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">25.9.2013</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">3–9</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">Dividenden</td><td colspan="2">10 [B11]</td></tr>
-<tr><td colspan="2">23.11.1987</td><td colspan="2">Zinsen</td><td colspan="2">15 [C27] [C10]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Dänemark</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">23.11.1973</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Deutschland</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.8.1971</td><td colspan="2">– von Grenzkraftwerken</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Einkünfte aus Genussrechten, Gewinnobligationen, stillen Beteiligungen und partiarischen Darlehen</td><td colspan="2">26,375 [B9]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Ecuador</td><td colspan="2">Dividenden</td><td colspan="2">10 [B10]</td></tr>
-<tr><td colspan="2">28.11.1994</td><td colspan="2">Zinsen</td><td colspan="2">10 [C7]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Estland</td><td colspan="2">Dividenden</td><td colspan="2">0 [B12]</td></tr>
-<tr><td colspan="2">11.6.2002</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Finnland</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">16.12.1991</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Frankreich</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">9.9.1966</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0 [B13]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">12,8/15 [B26]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Georgien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">15.6.2010</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">5 [B2]</td></tr>
-<tr><td colspan="2">Ghana</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">23.7.2008</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">8 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">8 [C4] [C32]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">8</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td colspan="2">8 [E1]</td></tr>
-<tr><td colspan="2">Griechenland</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">16.6.1983</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">5 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">7 [C17]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Hongkong</td><td colspan="2">Lizenzgebühren</td><td colspan="2">3</td></tr>
-<tr><td colspan="2">4.11.2011</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Indien</td><td colspan="2">Dividenden</td><td colspan="2">5 [B45]</td></tr>
-<tr><td colspan="2">2.11.1994</td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Gebühren für technische Dienstleistungen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Indonesien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">29.8.1988</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Iran</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">27.10.2002</td><td colspan="2">– von Tochtergesellschaften (ab 15 %)</td><td colspan="2">0 [B3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5–7,5 [D25]</td></tr>
-<tr><td colspan="2">Island</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">10.7.2014</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Israel</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2.7.2003</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– von Tochtergesellschaften (ab 10 %), jedoch keine ordentliche Besteuerung der ausschüttenden israelischen Gesellschaft</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C3] [C28]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Italien</td><td colspan="2">Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">9.3.1976</td><td colspan="2">Zinsen</td><td colspan="2">12,5 [C30]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Jamaika</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">6.12.1994</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C2] [C3] [C32]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10 [D5] [D8]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td colspan="2">5 [E2]</td></tr>
-<tr><td colspan="2">Japan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">19.1.1971</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Zinsen</td><td colspan="2">0 [C34]</td></tr>
-<tr><td colspan="2">Kanada</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5.5.1997</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an verbundene Personen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an unverbundene Personen</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Kasachstan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">21.10.1999</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5 [B17] [B39]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10/15 [B39]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td colspan="2">10 [D9]</td></tr>
-<tr><td colspan="2">Katar</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1] [B2] [B3]</td></tr>
-<tr><td colspan="2">24.9.2009</td><td colspan="2">[tab]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Kosovo</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1] [B3]</td></tr>
-<tr><td colspan="2">26.5.2017</td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Kirgisistan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">26.1.2001</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Kolumbien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">26.10.2007</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C26]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Vergütungen für Dienstleistungen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Südkorea</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.2.1980</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Kuwait</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2">16.2.1999</td><td colspan="2">Zinsen</td><td colspan="2">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">0 [D2]</td></tr>
-<tr><td colspan="2">Kroatien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.3.1999</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Lettland</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">31.1.2002</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0 [B3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an juristische Personen</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10/0 [B1] [B41]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an juristische Personen</td><td colspan="2">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– andere</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an juristische Personen</td><td colspan="2">0 [D2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– andere</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2">10.7.2015</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Litauen</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">27.5.2002</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an juristische Personen</td><td colspan="2">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– andere</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">0 [D7]</td></tr>
-<tr><td colspan="2">Luxemburg</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">21.1.1993</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0 [B18] [B19]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15 [B19]</td></tr>
-<tr><td colspan="2">Malaysia</td><td colspan="2">Dividenden</td><td colspan="2">0 [B20]</td></tr>
-<tr><td colspan="2">30.12.1974</td><td colspan="2">Zinsen</td><td colspan="2">10 [C24]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10 [D11]</td></tr>
-<tr><td colspan="2">Malta</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1] [B21]</td></tr>
-<tr><td colspan="2">25.2.2011</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Marokko</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">31.3.1993</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">7</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">13,75 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Mexiko</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">3.8.1993</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an Börsen in Mexiko oder in einem Land, mit dem Mexiko ein DBA abgeschlossen hat, gehandelte Wertpapiere</td><td colspan="2">4,9</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an eine Bank oder Versicherung gezahlt</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– andere</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10 [D24]</td></tr>
-<tr><td colspan="2">Moldau</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">13.1.1999</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">6 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Mongolei</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">20.9.1999</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Montenegro</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">13.4.2005</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Neuseeland</td><td colspan="2">Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">6.6.1980</td><td colspan="2">Zinsen</td><td colspan="2">10 [C16]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Niederlande</td><td colspan="2">Dividenden</td><td colspan="2">[B19]</td></tr>
-<tr><td colspan="2">26.2.2010</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Nordmazedonien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">14.4.2000</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Norwegen</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">7.9.1987</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Oman</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">22.5.2015</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Zinsen</td><td colspan="2">0/5 [C31]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Lizenzgebühren</td><td colspan="2">8</td></tr>
-<tr><td colspan="2">Österreich</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">30.1.1974</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Pakistan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">21.03.2017</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">0–10 [B22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">0–20 [B22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C15]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Vergütungen für technische Dienstleistungen</td><td colspan="2">7</td></tr>
-<tr><td colspan="2">Peru</td><td colspan="2">Dividenden</td><td colspan="2">5 [B37]</td></tr>
-<tr><td colspan="2">21.9.2012</td><td colspan="2">Zinsen</td><td colspan="2">10 [C25]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Vergütungen für technische Unterstützung und numerische Dienste</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Philippinen</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">24.6.1998</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10 [D12]</td></tr>
-<tr><td colspan="2">Polen</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2.9.1991</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5 [C6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5 [D13]</td></tr>
-<tr><td colspan="2">Portugal</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">26.9.1974</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5 [B35]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C33]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Rumänien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">25.10.1993</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">5 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5 [C6]</td></tr>
-<tr><td colspan="2">Russland</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">15.11.1995</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5 [B5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Sambia</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">29.8.2017</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Saudi-Arabien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] 18.2.2018</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">[tab] 5</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2">– übrige Dividenden</td><td colspan="2">[tab] 5 [B1]</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2">[tab] Zinsen</td><td colspan="2">[tab] 5 [C36]</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2">[tab] Lizenzgebühren</td><td colspan="2">[tab] 5/7 [D15]</td></tr>
-<tr><td colspan="2">Schweden</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">7.5.1965</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Serbien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">13.4.2005</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Singapur</td><td colspan="2">Dividenden</td><td colspan="2">0 [B23]</td></tr>
-<tr><td colspan="2">24.02.2011</td><td colspan="2">Zinsen</td><td colspan="2">5 [C14]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Slowakei</td><td colspan="2">Dividenden</td><td colspan="2">7 [B1] [B24]</td></tr>
-<tr><td colspan="2">14.2.1997</td><td colspan="2">Zinsen</td><td colspan="2">5 [C6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5 [D13]</td></tr>
-<tr><td colspan="2">Slowenien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.6.1996</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5 [C6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5 [D13]</td></tr>
-<tr><td colspan="2">Spanien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">26.4.1966</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0 [B25]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5 [D16]</td></tr>
-<tr><td colspan="2">Sri Lanka</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.1.1983</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Südafrika</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">8.5.2007</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Tadschikistan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">23.6.2010</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5 [B40]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">12 [B1] [B40]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Taiwan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">*(Chinesisches Taipei)*</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">8.10.2007 [A3]</td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Thailand</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.2.1996</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">10 [B27]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1] [B27]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Zinsen</td><td colspan="2">10 [C9] [C19] [C20]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td colspan="2">10 [D17] [D18] [D19]</td></tr>
-<tr><td colspan="2">Trinidad und Tobago</td><td colspan="2">Dividenden</td><td colspan="2">10 [B28]</td></tr>
-<tr><td colspan="2">1.2.1973</td><td colspan="2">Zinsen</td><td colspan="2">10 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Geschäftsleitungsvergütungen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Tschechien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">4.12.1995</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5 [D13]</td></tr>
-<tr><td colspan="2">Tunesien</td><td colspan="2">Dividenden</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">10.2.1994</td><td colspan="2">Zinsen</td><td colspan="2">10 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10 [D8]</td></tr>
-<tr><td colspan="2">Türkei</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">18.6.2010</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">0–15 [C22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Ausgeschüttete Gewinne einer Betriebsstätte</td><td colspan="2">5 [B15]</td></tr>
-<tr><td colspan="2">Turkmenistan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">8.10.2012</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10/15 [B1] [B16]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Ukraine</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">30.10.2000</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Ungarn</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.9.2013</td><td colspan="2">– an Gesellschaften</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an natürliche Personen</td><td colspan="2">15</td></tr>
-<tr><td colspan="2">Uruguay</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">18.10.2010</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">7 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C11]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Usbekistan</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">3.4.2002</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">0/5 [B1] [B36]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5 [C35]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Venezuela</td><td colspan="2">Dividenden</td><td colspan="2">0 [B30]</td></tr>
-<tr><td colspan="2">20.12.1996</td><td colspan="2">Zinsen</td><td colspan="2">5 [C5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Vereinigte Arabische Emirate</td><td colspan="2">Dividenden</td><td colspan="2">0 [B31]</td></tr>
-<tr><td colspan="2">6.10.2011</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vereinigte Staaten</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2.10.1996</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td colspan="2">5 [B29]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15 [B29]</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">Dividenden</td><td colspan="2">0 [B32]</td></tr>
-<tr><td colspan="2">8.12.1977</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vietnam</td><td colspan="2">Dividenden</td><td colspan="2">[B33] [B34]</td></tr>
-<tr><td colspan="2">6.5.1996</td><td colspan="2">– an Gesellschaften</td><td colspan="2">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an natürliche Personen</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an Gesellschaften</td><td colspan="2">5 [C4] [C12]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an natürliche Personen</td><td colspan="2">5 [C12]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an Gesellschaften</td><td colspan="2">10 [D10]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– an natürliche Personen</td><td colspan="2">5 [D2] [D10]</td></tr>
-<tr><td colspan="2">Zypern</td><td colspan="2">Dividenden</td><td colspan="2">0 [B1]</td></tr>
-<tr><td colspan="2">25.7.2014</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><th>*Vertragsstaaten* Datum des DBA</th><th>Erträge [A1]</th><th>Nicht rückforderbare Quellensteuern der Vertragsstaaten in % [A2]</th></tr>
+<tr><th></th><th>[tab]</th><th></th></tr>
+<tr><td>Ägypten</td><td>Dividenden</td><td></td></tr>
+<tr><td>20.5.1987</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5 [B3]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>15 [C2]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>12,5 [D22]</td></tr>
+<tr><td>Äthiopien [A4]</td><td>Dividenden</td><td></td></tr>
+<tr><td>29.7.2021</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Albanien</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.11.1999</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>8 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Algerien</td><td>Dividenden</td><td></td></tr>
+<tr><td>3.6.2006</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Argentinien</td><td>Dividenden</td><td>7 [B4]</td></tr>
+<tr><td>20.3.2014</td><td>Zinsen</td><td>12</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>15 [D6]</td></tr>
+<tr><td></td><td>Vergütungen für technische Unterstützungsleistungen</td><td>10</td></tr>
+<tr><td>Armenien</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.6.2006</td><td>– von Tochtergesellschaften (ab 50 %)</td><td>0 [B38]</td></tr>
+<tr><td></td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5 [B42]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5 [B1] [B43]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C29]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Aserbaidschan</td><td>Dividenden</td><td></td></tr>
+<tr><td>23.2.2006</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5 [B6]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C3] [C21]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10 [D4]</td></tr>
+<tr><td>Australien</td><td>Dividenden</td><td>0 [B7]</td></tr>
+<tr><td>30.7.2013</td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Bahrain</td><td>Dividenden</td><td></td></tr>
+<tr><td>23.11.2019</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0 [B3]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>0 [B1]</td></tr>
+<tr><td>Bangladesch</td><td>Dividenden</td><td></td></tr>
+<tr><td>10.12.2007</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>10</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Belarus</td><td>Dividenden</td><td></td></tr>
+<tr><td>26.4.1999</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– an juristische Personen</td><td>15</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>13 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>8 [C3]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td></td></tr>
+<tr><td></td><td>– für Patente und Knowhow</td><td>3</td></tr>
+<tr><td></td><td>– Leasinggebühren</td><td>5</td></tr>
+<tr><td></td><td>– übrige Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Belgien</td><td>Dividenden</td><td></td></tr>
+<tr><td>28.8.1978</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Brasilien</td><td>Dividenden</td><td>0 [B14]</td></tr>
+<tr><td>3.5.2018</td><td>Zinsen</td><td>15 [C23]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td></td></tr>
+<tr><td></td><td>für das Recht auf Benutzung einer Marke</td><td>15</td></tr>
+<tr><td></td><td>andere</td><td>10</td></tr>
+<tr><td></td><td>Vergütungen für technische Dienstleistungen</td><td>10</td></tr>
+<tr><td>Bulgarien</td><td>Dividenden</td><td></td></tr>
+<tr><td>28.10.1991</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5 [B2]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Chile</td><td>Dividenden</td><td>15 [B8]</td></tr>
+<tr><td>2.4.2008</td><td>Zinsen</td><td>10 [C8]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td></td></tr>
+<tr><td></td><td>– Leasing</td><td>2</td></tr>
+<tr><td></td><td>– übrige Lizenzgebühren</td><td>10</td></tr>
+<tr><td>China</td><td>Dividenden</td><td></td></tr>
+<tr><td>25.9.2013</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>3–9</td></tr>
+<tr><td>Côte d’Ivoire</td><td>Dividenden</td><td>10 [B11]</td></tr>
+<tr><td>23.11.1987</td><td>Zinsen</td><td>15 [C27] [C10]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Dänemark</td><td>Dividenden</td><td></td></tr>
+<tr><td>23.11.1973</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Deutschland</td><td>Dividenden</td><td></td></tr>
+<tr><td>11.8.1971</td><td>– von Grenzkraftwerken</td><td>5</td></tr>
+<tr><td></td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– Einkünfte aus Genussrechten, Gewinnobligationen, stillen Beteiligungen und partiarischen Darlehen</td><td>26,375 [B9]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Ecuador</td><td>Dividenden</td><td>10 [B10]</td></tr>
+<tr><td>28.11.1994</td><td>Zinsen</td><td>10 [C7]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Estland</td><td>Dividenden</td><td>0 [B12]</td></tr>
+<tr><td>11.6.2002</td><td></td><td></td></tr>
+<tr><td>Finnland</td><td>Dividenden</td><td></td></tr>
+<tr><td>16.12.1991</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10</td></tr>
+<tr><td>Frankreich</td><td>Dividenden</td><td></td></tr>
+<tr><td>9.9.1966</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0 [B13]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>12,8/15 [B26]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Georgien</td><td>Dividenden</td><td></td></tr>
+<tr><td>15.6.2010</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5 [B2]</td></tr>
+<tr><td>Ghana</td><td>Dividenden</td><td></td></tr>
+<tr><td>23.7.2008</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>8 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>8 [C4] [C32]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>8</td></tr>
+<tr><td></td><td>Dienstleistungsvergütungen</td><td>8 [E1]</td></tr>
+<tr><td>Griechenland</td><td>Dividenden</td><td></td></tr>
+<tr><td>16.6.1983</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>7 [C17]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Hongkong</td><td>Lizenzgebühren</td><td>3</td></tr>
+<tr><td>4.11.2011</td><td></td><td></td></tr>
+<tr><td>Indien</td><td>Dividenden</td><td>5 [B45]</td></tr>
+<tr><td>2.11.1994</td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren (inkl. Leasing)</td><td>10</td></tr>
+<tr><td></td><td>Gebühren für technische Dienstleistungen</td><td>10</td></tr>
+<tr><td>Indonesien</td><td>Dividenden</td><td></td></tr>
+<tr><td>29.8.1988</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>10</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td></td><td>Dienstleistungsvergütungen</td><td>5</td></tr>
+<tr><td>Iran</td><td>Dividenden</td><td></td></tr>
+<tr><td>27.10.2002</td><td>– von Tochtergesellschaften (ab 15 %)</td><td>0 [B3]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>0 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>0 [C4]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5–7,5 [D25]</td></tr>
+<tr><td>Island</td><td>Dividenden</td><td></td></tr>
+<tr><td>10.7.2014</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Israel</td><td>Dividenden</td><td></td></tr>
+<tr><td>2.7.2003</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– von Tochtergesellschaften (ab 10 %), jedoch keine ordentliche Besteuerung der ausschüttenden israelischen Gesellschaft</td><td>10</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C3] [C28]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Italien</td><td>Dividenden</td><td>15</td></tr>
+<tr><td>9.3.1976</td><td>Zinsen</td><td>12,5 [C30]</td></tr>
+<tr><td></td><td>Lizenzgebühren (inkl. Leasing)</td><td>5</td></tr>
+<tr><td>Jamaika</td><td>Dividenden</td><td></td></tr>
+<tr><td>6.12.1994</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>10</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C2] [C3] [C32]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10 [D5] [D8]</td></tr>
+<tr><td></td><td>Dienstleistungsvergütungen</td><td>5 [E2]</td></tr>
+<tr><td>Japan</td><td>Dividenden</td><td></td></tr>
+<tr><td>19.1.1971</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10</td></tr>
+<tr><td></td><td>Zinsen</td><td>0 [C34]</td></tr>
+<tr><td>Kanada</td><td>Dividenden</td><td></td></tr>
+<tr><td>5.5.1997</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td></td></tr>
+<tr><td></td><td>– an verbundene Personen</td><td>10</td></tr>
+<tr><td></td><td>– an unverbundene Personen</td><td>0</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Kasachstan</td><td>Dividenden</td><td></td></tr>
+<tr><td>21.10.1999</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5 [B17] [B39]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10/15 [B39]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren (inkl. Leasing)</td><td>10 [D9]</td></tr>
+<tr><td>Katar</td><td>Dividenden</td><td>0 [B1] [B2] [B3]</td></tr>
+<tr><td>24.9.2009</td><td></td><td></td></tr>
+<tr><td>Kosovo</td><td>Dividenden</td><td>0 [B1] [B3]</td></tr>
+<tr><td>26.5.2017</td><td>Zinsen</td><td>5</td></tr>
+<tr><td>Kirgisistan</td><td>Dividenden</td><td></td></tr>
+<tr><td>26.1.2001</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Kolumbien</td><td>Dividenden</td><td></td></tr>
+<tr><td>26.10.2007</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C26]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td></td><td>Vergütungen für Dienstleistungen</td><td>10</td></tr>
+<tr><td>Kuwait</td><td>Dividenden</td><td>0 [B1]</td></tr>
+<tr><td>16.2.1999</td><td>Zinsen</td><td>0 [C4]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>0 [D2]</td></tr>
+<tr><td>Kroatien</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.3.1999</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td>Lettland</td><td>Dividenden</td><td></td></tr>
+<tr><td>31.1.2002</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0 [B3]</td></tr>
+<tr><td></td><td>– an juristische Personen</td><td>0 [B1]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10/0 [B1] [B41]</td></tr>
+<tr><td></td><td>Zinsen</td><td></td></tr>
+<tr><td></td><td>– an juristische Personen</td><td>0 [C4]</td></tr>
+<tr><td></td><td>– andere</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td></td></tr>
+<tr><td></td><td>– an juristische Personen</td><td>0 [D2]</td></tr>
+<tr><td></td><td>– andere</td><td>5</td></tr>
+<tr><td>Liechtenstein</td><td>Dividenden</td><td>0 [B1]</td></tr>
+<tr><td>10.7.2015</td><td></td><td></td></tr>
+<tr><td>Litauen</td><td>Dividenden</td><td></td></tr>
+<tr><td>27.5.2002</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td></td></tr>
+<tr><td></td><td>– an juristische Personen</td><td>0 [C4]</td></tr>
+<tr><td></td><td>– andere</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>0 [D7]</td></tr>
+<tr><td>Luxemburg</td><td>Dividenden</td><td></td></tr>
+<tr><td>21.1.1993</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0 [B18] [B19]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15 [B19]</td></tr>
+<tr><td>Malaysia</td><td>Dividenden</td><td>0 [B20]</td></tr>
+<tr><td>30.12.1974</td><td>Zinsen</td><td>10 [C24]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10 [D11]</td></tr>
+<tr><td>Malta</td><td>Dividenden</td><td>0 [B1] [B21]</td></tr>
+<tr><td>25.2.2011</td><td></td><td></td></tr>
+<tr><td>Marokko</td><td>Dividenden</td><td></td></tr>
+<tr><td>31.3.1993</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>7</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>12,5 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C2]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Mexiko</td><td>Dividenden</td><td></td></tr>
+<tr><td>3.8.1993</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td></td></tr>
+<tr><td></td><td>– an Börsen in Mexiko oder in einem Land, mit dem Mexiko ein DBA abgeschlossen hat, gehandelte Wertpapiere</td><td>4,9</td></tr>
+<tr><td></td><td>– an eine Bank oder Versicherung gezahlt</td><td>5</td></tr>
+<tr><td></td><td>– andere</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10 [D24]</td></tr>
+<tr><td>Moldau</td><td>Dividenden</td><td></td></tr>
+<tr><td>13.1.1999</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>6 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Mongolei</td><td>Dividenden</td><td></td></tr>
+<tr><td>20.9.1999</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Montenegro</td><td>Dividenden</td><td></td></tr>
+<tr><td>13.4.2005</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Neuseeland</td><td>Dividenden</td><td>15</td></tr>
+<tr><td>6.6.1980</td><td>Zinsen</td><td>10 [C16]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Niederlande</td><td>Dividenden</td><td>[B19]</td></tr>
+<tr><td>26.2.2010</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Nordmazedonien</td><td>Dividenden</td><td></td></tr>
+<tr><td>14.4.2000</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Norwegen</td><td>Dividenden</td><td></td></tr>
+<tr><td>7.9.1987</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Oman</td><td>Dividenden</td><td></td></tr>
+<tr><td>22.5.2015</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>0 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>0</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>0/8 [D14]</td></tr>
+<tr><td>Österreich</td><td>Dividenden</td><td></td></tr>
+<tr><td>30.1.1974</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Pakistan</td><td>Dividenden</td><td></td></tr>
+<tr><td>21.03.2017</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>0–10 [B22]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>0–20 [B22]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C15]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td></td><td>Vergütungen für technische Dienstleistungen</td><td>7</td></tr>
+<tr><td>Peru</td><td>Dividenden</td><td>5 [B37]</td></tr>
+<tr><td>21.9.2012</td><td>Zinsen</td><td>10 [C25]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>15</td></tr>
+<tr><td></td><td>Vergütungen für technische Unterstützung und numerische Dienste</td><td>10</td></tr>
+<tr><td>Philippinen</td><td>Dividenden</td><td></td></tr>
+<tr><td>24.6.1998</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>10</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10 [D12]</td></tr>
+<tr><td>Polen</td><td>Dividenden</td><td></td></tr>
+<tr><td>2.9.1991</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>5 [C6]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5 [D13]</td></tr>
+<tr><td>Portugal</td><td>Dividenden</td><td></td></tr>
+<tr><td>26.9.1974</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5 [B35]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C33]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Rumänien</td><td>Dividenden</td><td></td></tr>
+<tr><td>25.10.1993</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>8 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5 [C6]</td></tr>
+<tr><td>Russland</td><td>Dividenden</td><td></td></tr>
+<tr><td>15.11.1995</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5 [B5]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Sambia</td><td>Dividenden</td><td></td></tr>
+<tr><td>29.8.2017</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Saudi-Arabien</td><td>Dividenden</td><td></td></tr>
+<tr><td>18.2.2018</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5 [C36]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5/7 [D15]</td></tr>
+<tr><td>Schweden</td><td>Dividenden</td><td></td></tr>
+<tr><td>7.5.1965</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td>Serbien</td><td>Dividenden</td><td></td></tr>
+<tr><td>13.4.2005</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td>Singapur</td><td>Dividenden</td><td>0 [B23]</td></tr>
+<tr><td>24.02.2011</td><td>Zinsen</td><td>5 [C14]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Slowakei</td><td>Dividenden</td><td>10 [B1] [B24]</td></tr>
+<tr><td>14.2.1997</td><td>Zinsen</td><td>5 [C6]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5 [D13]</td></tr>
+<tr><td>Slowenien</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.6.1996</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>5 [C6]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5 [D13]</td></tr>
+<tr><td>Spanien</td><td>Dividenden</td><td></td></tr>
+<tr><td>26.4.1966</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0 [B25]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5 [D16]</td></tr>
+<tr><td>Sri Lanka</td><td>Dividenden</td><td></td></tr>
+<tr><td>11.1.1983</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>10</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td></td><td>Dienstleistungsvergütungen</td><td>5</td></tr>
+<tr><td>Südafrika</td><td>Dividenden</td><td></td></tr>
+<tr><td>8.5.2007</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td>Südkorea</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.2.1980</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C3]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Tadschikistan</td><td>Dividenden</td><td></td></tr>
+<tr><td>23.6.2010</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5 [B40]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>12/15 [B1] [B40]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Taiwan</td><td>Dividenden</td><td></td></tr>
+<tr><td>(Chinesisches Taipei)</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>10</td></tr>
+<tr><td>8.10.2007 [A3]</td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Thailand</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.2.1996</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>10 [B27]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1] [B27]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C9] [C19] [C20]</td></tr>
+<tr><td></td><td>Lizenzgebühren (inkl. Leasing)</td><td>10 [D17] [D18] [D19]</td></tr>
+<tr><td>Trinidad und Tobago</td><td>Dividenden</td><td>10 [B28]</td></tr>
+<tr><td>1.2.1973</td><td>Zinsen</td><td>10 [C2]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td></td><td>Geschäftsleitungsvergütungen</td><td>5</td></tr>
+<tr><td>Tschechien</td><td>Dividenden</td><td></td></tr>
+<tr><td>4.12.1995</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5 [D13]</td></tr>
+<tr><td>Tunesien</td><td>Dividenden</td><td>10</td></tr>
+<tr><td>10.2.1994</td><td>Zinsen</td><td>10 [C2]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10 [D8]</td></tr>
+<tr><td>Türkei</td><td>Dividenden</td><td></td></tr>
+<tr><td>18.6.2010</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>0–15 [C22]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td></td><td>Ausgeschüttete Gewinne einer Betriebsstätte</td><td>5 [B15]</td></tr>
+<tr><td>Turkmenistan</td><td>Dividenden</td><td></td></tr>
+<tr><td>8.10.2012</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>10/15 [B1] [B16]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Ukraine</td><td>Dividenden</td><td></td></tr>
+<tr><td>30.10.2000</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15/5 [B44]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Ungarn</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.9.2013</td><td>– an Gesellschaften</td><td>0 [B1]</td></tr>
+<tr><td></td><td>– an natürliche Personen</td><td>15</td></tr>
+<tr><td>Uruguay</td><td>Dividenden</td><td></td></tr>
+<tr><td>18.10.2010</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>7 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C11]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Usbekistan</td><td>Dividenden</td><td></td></tr>
+<tr><td>3.4.2002</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>0/5 [B1] [B36]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5 [C35]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Venezuela</td><td>Dividenden</td><td>0 [B30]</td></tr>
+<tr><td>20.12.1996</td><td>Zinsen</td><td>5 [C5]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td>Dividenden</td><td>0 [B31]</td></tr>
+<tr><td>6.10.2011</td><td></td><td></td></tr>
+<tr><td>Vereinigte Staaten</td><td>Dividenden</td><td></td></tr>
+<tr><td>2.10.1996</td><td>– von Tochtergesellschaften (ab 10 %)</td><td>5 [B29]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15 [B29]</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>Dividenden</td><td>0 [B32]</td></tr>
+<tr><td>8.12.1977</td><td></td><td></td></tr>
+<tr><td>Vietnam</td><td>Dividenden</td><td>[B33] [B34]</td></tr>
+<tr><td>6.5.1996</td><td>– an Gesellschaften</td><td>0</td></tr>
+<tr><td></td><td>– an natürliche Personen</td><td>5</td></tr>
+<tr><td></td><td>Zinsen</td><td></td></tr>
+<tr><td></td><td>– an Gesellschaften</td><td>5 [C4] [C12]</td></tr>
+<tr><td></td><td>– an natürliche Personen</td><td>5 [C12]</td></tr>
+<tr><td></td><td>Lizenzgebühren (inkl. Leasing)</td><td></td></tr>
+<tr><td></td><td>– an Gesellschaften</td><td>10 [D10]</td></tr>
+<tr><td></td><td>– an natürliche Personen</td><td>5 [D2] [D10]</td></tr>
+<tr><td>Zypern</td><td>Dividenden</td><td>0 [B1]</td></tr>
+<tr><td>25.7.2014</td><td></td><td></td></tr>
 </table>
 
 Anmerkungen
@@ -476,55 +485,57 @@ A. Allgemein
 
 [3] Zwischen der Schweiz und Taiwan besteht kein DBA. Es besteht lediglich eine private Doppelbesteuerungsvereinbarung. Diese wurde vom Bundesrat am 9. Dezember 2011 anerkannt. Ihre Bestimmungen sind seit dem 1. Januar 2011 anwendbar.
 
+[4] Zahlungen für technische Dienstleistungen sind vom Geltungsbereich des DBA ausgenommen und können nach dem innerstaatlichen Recht der Vertragsstaaten besteuert werden. Die ausländische Quellensteuer wird als Aufwand berücksichtigt. Es erfolgt keine Anrechnung.
+
 B. Dividenden
 
-[1] Berechtigung des Quellenstaats nach DBA zur Erhebung einer Quellensteuer von 15 %.
+[1] Berechtigung des Quellenstaats nach dem DBA zur Erhebung einer Quellensteuer von 15 %.
 
-[2] Berechtigung des Quellenstaats nach DBA zur Erhebung einer Quellensteuer von 10 %.
+[2] Berechtigung des Quellenstaats nach dem DBA zur Erhebung einer Quellensteuer von 10 %.
 
-[3] Berechtigung des Quellenstaats nach DBA zur Erhebung einer Quellensteuer von 5 %.
+[3] Berechtigung des Quellenstaats nach dem DBA zur Erhebung einer Quellensteuer von 5 %.
 
-[4] Argentinien erhebt eine Quellensteuer von 7 % auf Dividenden. Nach DBA wäre Argentinien berechtigt, eine Quellensteuer von 15 % bzw. 10 % bei einer Beteiligung von mindestens 25 % am Kapital zu erheben.
+[4] Argentinien erhebt eine Quellensteuer von 7 % auf Dividenden. Nach dem DBA wäre Argentinien berechtigt, eine Quellensteuer von 15 % bzw. 10 % bei einer Beteiligung von mindestens 25 % am Kapital zu erheben.
 
 [5] Vorausgesetzt, das ausländisch investierte Kapital übersteigt 200 000 Franken oder deren Gegenwert in anderer Währung.
 
-[6] Vorausgesetzt, die getätigten Investitionen betragen mindestens 200 000 US-Dollar.
+[6] Vorausgesetzt, die getätigten Investitionen betragen mindestens 200 000 US‑Dollar.
 
 [7] In gewissen Fällen («unfranked dividends») wird eine Quellensteuer von 30 % erhoben. In diesen Fällen wird eine Anrechnung der ausländischen Quellensteuer von 15 % gewährt, bei Dividenden von Tochtergesellschaften bei einer Beteiligung von mindestens 10 % jedoch nur 5 %, und bei einer Beteiligung von mindestens 80 % wird in der Regel gar keine Anrechnung der ausländischen Quellensteuer gewährt.
 
 [8] Anrechnung der ausländischen Quellensteuer, soweit die chilenische Gutschrift der Steuer erster Kategorie auf der chilenischen zusätzlichen Steuer gewährt wird. Als Bruttobetrag der Dividenden sind die erhaltenen Dividenden zuzüglich 15 % zu verstehen.
 
-[9] Gilt nur, wenn diese Beträge bei der Gewinnermittlung des Schuldners abzugsfähig sind (inkl. Solidaritätszuschlag). Deutschland wäre nach DBA berechtigt, eine Quellensteuer von 30 % zu erheben.
+[9] Gilt nur, wenn diese Beträge bei der Gewinnermittlung des Schuldners abzugsfähig sind (inkl. Solidaritätszuschlag). Deutschland wäre nach dem DBA berechtigt, eine Quellensteuer von 30 % zu erheben.
 
-[10] Ecuador erhebt eine Quellensteuer auf Dividenden, deren Satz in der Regel 10 % beträgt. Nach DBA wäre es berechtigt, eine Quellensteuer von 15 % zu erheben.
+[10] Ecuador erhebt eine Quellensteuer auf Dividenden, deren Satz in der Regel 10 % beträgt. Nach dem DBA wäre es berechtigt, eine Quellensteuer von 15 % zu erheben.
 
 [11] 10 % auf ausgeschütteten Dividenden von kotierten Gesellschaften, 15 % auf ausgeschütteten Dividenden von Gesellschaften, wenn die Gewinne nicht der Gewinnsteuer unterliegen.
 
-[12] Estland erhebt keine Quellensteuern auf Dividenden. Nach DBA wäre es berechtigt, eine Quellensteuer auf Dividenden von 10 % bzw. 0 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
+[12] Estland erhebt keine Quellensteuern auf Dividenden. Nach dem DBA wäre es berechtigt, eine Quellensteuer auf Dividenden von 10 % bzw. 0 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
 
 [13] Bei wesentlichen ausländischen Interessen von nicht in der EU ansässigen Personen an der schweizerischen Gesellschaft allenfalls 15 % (Art. 11 Abs. 2 Bst. b Ziff. iii).
 
-[14] Brasilien erhebt zurzeit keine Quellensteuern auf Dividenden. Nach DBA wäre es berechtigt, eine Quellensteuer von 15 % bzw. 10 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
+[14] Brasilien erhebt zurzeit keine Quellensteuern auf Dividenden. Nach dem DBA wäre es berechtigt, eine Quellensteuer von 15 % bzw. 10 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
 
 [15] In der Türkei kann auf den einer schweizerischen Gesellschaft überwiesenen Gewinnen einer Betriebsstätte eine Quellensteuer in Höhe von maximal 5 % («branch profits tax») erhoben werden (nach innerstaatlichem türkischem Recht: 10 %), sofern diese Gewinne in der Schweiz (Sitzstaat des Unternehmens) steuerbefreit sind. Die Steuerbefreiung der Betriebsstätten ist in Artikel 52 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (SR *642.11*) und in den einschlägigen kantonalen Bestimmungen verankert.
 
 [16] Gemäss internem Recht 10 % bei Dividenden, die an nicht ansässige natürliche Personen gezahlt werden.
 
-[17] Keine Quellensteuer für Dividenden aus Beteiligungen ab 50 % und im Mindestwert von 1 Million US-Dollar, sofern die Investition von der Regierung Kasachstans genehmigt worden ist und seitens der Schweiz vollumfänglich garantiert oder versichert ist.
+[17] Keine Quellensteuer für Dividenden aus Beteiligungen ab 50 % und im Mindestwert von 1 Million US‑Dollar, sofern die Investition von der Regierung Kasachstans genehmigt worden ist und seitens der Schweiz vollumfänglich garantiert oder versichert ist.
 
 [18] Wenn die Beteiligung, aufgrund derer die Dividende bezahlt wird, nicht während eines ununterbrochenen Zeitraums von zwei Jahren vor der Zahlung der Dividende gehalten worden ist, beträgt die nicht rückforderbare Steuer 5 %.
 
 [19] Zinsen aus Gewinnobligationen werden wie Dividenden behandelt.
 
-[20] Malaysia erhebt keine Quellensteuern auf Dividenden. Nach DBA wäre es berechtigt, eine Quellensteuer von 15 % bzw. 5 % bei einer Beteiligung von mindestens 25 % zu erheben.
+[20] Malaysia erhebt keine Quellensteuern auf Dividenden. Nach dem DBA wäre es berechtigt, eine Quellensteuer von 15 % bzw. 5 % bei einer Beteiligung von mindestens 25 % zu erheben.
 
-[21] Malta erhebt zurzeit keine Quellensteuern auf Dividenden. Nach DBA wäre es berechtigt, eine Quellensteuer von 15 % zu erheben, ausser es besteht eine Beteiligung von 10 % am Kapital.
+[21] Malta erhebt zurzeit keine Quellensteuern auf Dividenden. Nach dem DBA wäre es berechtigt, eine Quellensteuer von 15 % zu erheben, ausser es besteht eine Beteiligung von 10 % am Kapital.
 
-[22] Pakistan ist nach DBA berechtigt, eine Quellensteuer von 20 % zu erheben. Dividenden werden in Pakistan zu Sätzen zwischen 0 und 20 % besteuert, weshalb im Einzelfall Anrechnungen von ausländischen Quellensteuern von bis zu 20 % gewährt werden müssen, bzw. von bis zu 10 % bei einer Beteiligung von mindestens 20 % am Kapital.
+[22] Pakistan ist nach dem DBA berechtigt, eine Quellensteuer von 20 % zu erheben. Dividenden werden in Pakistan zu Sätzen zwischen 0 und 20 % besteuert, weshalb im Einzelfall Anrechnungen von ausländischen Quellensteuern von bis zu 20 % gewährt werden müssen, bzw. von bis zu 10 % bei einer Beteiligung von mindestens 20 % am Kapital.
 
-[23] Singapur erhebt auf Dividenden, mit Ausnahme von Dividenden von REIT («Real Estate Investment Trusts»), keine Quellensteuern. Nach DBA wäre es berechtigt, eine Quellensteuer von 15 % bzw. 5 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
+[23] Singapur erhebt auf Dividenden, mit Ausnahme von Dividenden von REIT («Real Estate Investment Trusts»), keine Quellensteuern. Nach dem DBA wäre es berechtigt, eine Quellensteuer von 15 % bzw. 5 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
 
-[24] Die Slowakei erhebt eine Quellensteuer von 7 % auf Dividenden, die mit nach dem 1. Januar 2017 erzielten Gewinnen finanziert wurden.
+[24] Die Slowakei erhebt eine Quellensteuer von 10 % auf Dividenden, die an natürliche Personen gezahlt werden. 0 % auf Dividenden, die an juristische Personen gezahlt werden, die aus Gewinnen stammen, die nach dem 1. Januar 2024 erzielt wurden.
 
 [25] Keine Sockelsteuer, wenn die Bedingungen von Artikel 10 Absatz 2 Buchstabe b des DBA und der Absätze II und III des Protokolls erfüllt sind.
 
@@ -536,15 +547,15 @@ B. Dividenden
 
 [29] Keine Anrechnung der ausländischen Quellensteuer für Einkünfte aus den Vereinigten Staaten, die aufgrund von Artikel 10 Absatz 2 (Dividenden, die von einem in den Vereinigten Staaten ansässigen REIT-«Real Estate Investment Trust» gezahlt werden), von Artikel 11 Absatz 6 oder von Artikel 22 des DBA der amerikanischen Quellensteuer zum Satz von 30 % unterliegen.
 
-[30] Venezuela erhebt keine Quellensteuern auf Dividenden, wenn sie aus besteuerten Gewinnen ausbezahlt werden. Nach DBA wäre es berechtigt, eine Quellensteuer von 10 % zu erheben, ausser es besteht eine Beteiligung von 25 % am Kapital.
+[30] Venezuela erhebt keine Quellensteuern auf Dividenden, wenn sie aus besteuerten Gewinnen ausbezahlt werden. Nach dem DBA wäre es berechtigt, eine Quellensteuer von 10 % zu erheben, ausser es besteht eine Beteiligung von 25 % am Kapital.
 
-[31] Die Vereinigten Arabischen Emirate erheben zurzeit keine Quellensteuern auf Dividenden. Nach DBA wären sie berechtigt, eine Quellensteuer von 15 % bzw. 5 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
+[31] Die Vereinigten Arabischen Emirate erheben zurzeit keine Quellensteuern auf Dividenden. Nach dem DBA wären sie berechtigt, eine Quellensteuer von 15 % bzw. 5 % bei einer Beteiligung von mindestens 10 % am Kapital zu erheben.
 
-[32] Das Vereinigte Königreich erhebt keine Quellensteuern auf Dividenden, mit Ausnahme von Dividenden von REIT («Real Estate Investment Trusts»). Nach DBA wäre es berechtigt, eine Quellensteuer von 15 % zu erheben, ausser es besteht eine Beteiligung von 10 % am Kapital.
+[32] Das Vereinigte Königreich erhebt keine Quellensteuern auf Dividenden, mit Ausnahme von Dividenden von REIT («Real Estate Investment Trusts»). Nach dem DBA wäre es berechtigt, eine Quellensteuer von 15 % zu erheben, ausser es besteht eine Beteiligung von 10 % am Kapital.
 
 [33] Bei Dividenden, die zum Zweck der Wirtschaftsförderung in Vietnam nicht oder zu einem niedrigeren als im DBA vorgesehenen Satz besteuert werden, wird die Anrechnung der ausländischen Quellensteuer entsprechend den im DBA vorgesehenen Sätzen gewährt.
 
-[34] Vietnam wäre nach DBA berechtigt, eine Quellensteuer wie folgt zu erheben: 7 % bei Dividenden an Gesellschaften mit einer Beteiligung ab 50 % an der ausschüttenden Gesellschaft, 10 % bei Dividenden an Gesellschaften mit einer Beteiligung ab 25 % an der ausschüttenden Gesellschaft und 15 % in den übrigen Fällen.
+[34] Vietnam wäre nach dem DBA berechtigt, eine Quellensteuer wie folgt zu erheben: 7 % bei Dividenden an Gesellschaften mit einer Beteiligung ab 50 % an der ausschüttenden Gesellschaft, 10 % bei Dividenden an Gesellschaften mit einer Beteiligung ab 25 % an der ausschüttenden Gesellschaft und 15 % in den übrigen Fällen.
 
 [35] 0 %, wenn die Gesellschaft, welche die Dividenden erhält, direkt und während mindestens zwei Jahren mindestens 25 % des Kapitals an der die Dividenden zahlenden Gesellschaft hält, beide Gesellschaften der Steuer unterstellt sind, ohne von einer Steuer nach Artikel 2 des DBA befreit zu sein, keine dieser Gesellschaften gemäss einem mit einem Drittstaat abgeschlossenen DBA in diesem Drittstaat ansässig ist und beide Gesellschaften die Rechtsform einer Kapitalgesellschaft aufweisen.
 
@@ -552,21 +563,21 @@ B. Dividenden
 
 [37] Auf Dividenden erhebt Peru eine Quellensteuer von 5 %. Gemäss DBA wäre es berechtigt, eine Quellensteuer von 10 % zu erheben (Anwendung Meistbegünstigungsklausel).
 
-[38] …
+[38] Vorausgesetzt, das ausländisch investierte Kapital übersteigt 2 000 000 Franken oder deren Gegenwert in anderer Währung während einer Dauer von 365 Tagen.
 
 [39] 5 %, wenn die Dividenden von einer im Astana Hub ansässigen Gesellschaft bezahlt werden. Die kasachische Steuer beträgt 10 % nach kasachischem Recht, wenn die Dividenden von einer an der kasachischen Börse kotierten Gesellschaft bezahlt werden oder wenn die Anteile seit mehr als drei Jahren gehalten werden und die in Kasachstan ansässige Gesellschaft nicht in der Ausbeutung von Bodenschätzen tätig ist bzw. die Aktiven der Vermögenswerte der in Kasachstan ansässigen Gesellschaft nicht zu mehr als 50 % aus einer Beteiligung an einer in der Ausbeutung von Bodenschätzen tätigen Gesellschaft bestehen.
 
-[40] 15 % bei Auszahlung von Dividenden an nicht ansässige natürliche Personen.
+[40] Gemäss internem Recht 15 % bei Auszahlung von Dividenden an nicht ansässige natürliche Personen.
 
 [41] Auf der Auszahlung der Dividenden, die nach dem 31. Dezember 2017 erzielt wurden, wird keine Quellensteuer erhoben.
 
-[42] …
+[42] Vorausgesetzt, das ausländisch investierte Kapital übersteigt 200 000 Franken oder deren Gegenwert in anderer Währung während einer Dauer von 365 Tagen.
 
-[43] Gemäss internem Recht 5 % bei Dividenden, die an nicht ansässige natürliche Personen gezahlt werden.
+[43] Gemäss internem Recht 5 %.
 
-[44] …
+[44] 5 % auf Dividenden, die von steuerpflichtigen ukrainischen Unternehmen an natürliche Personen gezahlt werden.
 
-[45] Aufgrund der evolutiven Meistbegünstigungsklausel zwischen der Schweiz und Indien hat der Beitritt Litauens bzw. Kolumbiens zur OECD zur Folge, dass im Verhältnis zwischen Indien und der Schweiz der Anspruch auf die Anrechnung der ausländischen Quellensteuer für Dividenden, die ab dem 1. Januar 2021 fällig werden, auf 5 % begrenzt ist.
+[45] Aufgrund der evolutiven Meistbegünstigungsklausel zwischen der Schweiz und Indien hat der Beitritt Litauens bzw. Kolumbiens zur Organisation für wirtschaftliche Zusammenarbeit und Entwicklung zur Folge, dass im Verhältnis zwischen Indien und der Schweiz der Anspruch auf die Anrechnung der ausländischen Quellensteuer für Dividenden, die ab dem 1. Januar 2021 fällig werden, auf 5 % begrenzt ist.
 
 C. Zinsen
 
@@ -576,9 +587,9 @@ C. Zinsen
 
 [3] 5 % auf Zinsen von Bankdarlehen.
 
-[4] Berechtigung des Quellenstaats nach DBA zur Erhebung einer Quellensteuer von 10 %.
+[4] Berechtigung des Quellenstaats nach dem DBA zur Erhebung einer Quellensteuer von 10 %.
 
-[5] 0 % auf Zinsen von Obligationen, die von einer öffentlich-rechtlichen Körperschaft emittiert werden, und auf Zinsen, die für ein auf Grund der schweizerischen Bestimmungen über die Exportrisikogarantie gewährtes, garantiertes oder versichertes Darlehen oder einen genehmigten, garantierten oder versicherten Kredit gezahlt werden; 4,95 % für überwiesene Zinsen an internationale nicht ansässige Finanzinstitute.
+[5] 0 % auf Zinsen von Obligationen, die von einer öffentlich-rechtlichen Körperschaft emittiert werden, und auf Zinsen, die für ein aufgrund der schweizerischen Bestimmungen über die Exportrisikogarantie gewährtes, garantiertes oder versichertes Darlehen oder einen genehmigten, garantierten oder versicherten Kredit gezahlt werden; 4,95 % für überwiesene Zinsen an internationale nicht ansässige Finanzinstitute.
 
 [6] 0 % zwischen verbundenen Unternehmen.
 
@@ -626,11 +637,11 @@ C. Zinsen
 
 [28] Es bestehen zahlreiche Befreiungen in Israel. Insbesondere Zinsen für Staatsanleihen und Fremdwährungseinlagen bei Banken werden in Israel nicht besteuert.
 
-[29] 0 % gemäss internem Recht auf Zinsen von gewissen Staatsobligationen in ausländischer Währung. Nach dem DBA 0 % für Kreditverkäufe von industriellen, kaufmännischen oder wissenschaftlichen Ausrüstungen und ausserdem auf Darlehen, die von einer Bank gewährt werden.
+[29] 0 % gemäss internem Recht auf Zinsen von gewissen Staatsobligationen in ausländischer Währung. Nach dem DBA 0 % für Kreditverkäufe von industriellen, kaufmännischen oder wissenschaftlichen Ausrüstungen, ausserdem auf Darlehen, die von einer Bank gewährt werden und Zinszahlung an die Regierung des anderen Staates, seine politischen Unterabteilungen oder lokalen Körperschaften oder seine Zentralbank.
 
 [30] Der italienische Quellensteuersatz ist in gewissen Fällen, wie z. B. für Zinsen aus gewissen Obligationen, niedriger als 12,5 %.
 
-[31] Nach omanischem Recht wird eine Quellenteuer von 10 % erhoben, die durch das DBA auf höchstens 5 % beschränkt wird und in gewissen Fällen gar nicht erhoben werden darf (u. a. bei Darlehen zwischen Gesellschaften, Zinsen für Kreditkauf oder Bankdarlehen).
+[31] …
 
 [32] 0 % für Zinsen auf Staatsobligationen.
 
@@ -646,7 +657,7 @@ D. Lizenzgebühren
 
 [1] …
 
-[2] Berechtigung des Quellenstaates nach DBA zur Erhebung einer Quellensteuer von 10 %.
+[2] Berechtigung des Quellenstaates nach dem DBA zur Erhebung einer Quellensteuer von 10 %.
 
 [3] 5 % für Leasingzahlungen.
 
@@ -670,7 +681,7 @@ D. Lizenzgebühren
 
 [13] 0 % zwischen verbundenen Unternehmen.
 
-[14] …
+[14] 0 % für Vergütungen zur Benutzung von Schiffen, Flugzeugen und Flugzeugmotoren.
 
 [15] 5 % auf Zahlungen für die Nutzung von gewerblicher, kaufmännischer oder wissenschaftlicher Ausrüstung und 7 % für übrige Lizenzgebühren.
 
@@ -700,6 +711,6 @@ E. Dienstleistungsvergütungen
 
 [2] Ohne Rücksicht auf den Betrag der tatsächlich abgezogenen Steuer, weil das DBA eine fiktive Steueranrechnung vorsieht.
 
-[^annexu1-lvlu1-1]: Für die 2022 fällig gewordenen Erträge siehe [AS 2022 848](https://fedlex.data.admin.ch/eli/oc/2022/848).
+[^annexu1-lvlu1-1]: Für die 2023 fällig gewordenen Erträge siehe [AS 2023 812](https://fedlex.data.admin.ch/eli/oc/2023/812).
 [^annexu1-lvlu1-2]: Die vorliegende Übersicht hält die nicht rückforderbaren Quellensteuern aufgrund der von der Schweiz abgeschlossenen Doppelbesteuerungsabkommen fest. Art. 9 des Abkommens vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union über den automatischen Informationsaustausch über Finanzkonten zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten ([SR 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) sieht unter bestimmten Voraussetzungen ein ausschliessliches Besteuerungsrecht im Ansässigkeitsstaat der empfangenden Person für zwischen verbundenen Gesellschaften gezahlte Dividenden, Zinsen und Lizenzgebühren vor. Eine schweizerische Gesellschaft, die aufgrund von Art. 9 dieses Abkommens von der ausländischen Quellensteuer befreite Dividenden, Zinsen, Lizenzgebühren vereinnahmt, kann für diese Einkünfte keine Anrechnung an die Schweizer Steuern geltend machen.
 [^annexu1-lvlu1-3]: Die Anmerkungen finden sich am Schluss der Liste.
