@@ -3,13 +3,12 @@ canton: FR
 number: "111.11"
 title: Ordonnance relative à la population dite légale
 language: fr
-version: 2024-07-01
-valid_until: 2025-01-31
-version_adopted: 2024-06-24
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 2011-08-16
 in_force: 2011-08-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/111.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8031/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8149/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8031/pdf_file"
 
 Population dite légale
 
-du 16.08.2011 (version entrée en vigueur le 01.07.2024)
+du 16.08.2011 (version entrée en vigueur le 01.02.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -46,11 +45,13 @@ Arrête:
 
 **Définition**
 
-<sup>1</sup> Sous réserve des alinéas 2 et 3 du présent article, la population dite légale correspond à la population résidante permanente établie annuellement, conformément à l'article 2 let. d de l'ordonnance sur le recensement fédéral de la population (RS 431.112.1).
+<sup>1</sup> Sous réserve des alinéas 2 et 3 du présent article, la population dite légale correspond à la population résidante permanente établie annuellement, conformément à l'article 2 let. d de l'ordonnance sur le recensement fédéral de la population (RS 431.112.1)[^1-1].
 
-<sup>2</sup> Les effectifs de la population dite légale peuvent être ajustés en cas d'erreurs ou d'imprécisions avérées de la population résidante permanente portées à la connaissance du Service de la statistique du canton de Fribourg et ne pouvant plus être prises en compte par l'Office fédéral de la statistique.
+<sup>2</sup> Les effectifs de la population dite légale peuvent être ajustés en cas d'erreurs ou d'imprécisions avérées de la population résidante permanente portées à la connaissance du Service de la statistique et de la donnée du canton de Fribourg et ne pouvant plus être prises en compte par l'Office fédéral de la statistique.
 
 <sup>3</sup> Les requérants et requérantes d'asile, les personnes admises à titre provisoire et les personnes à protéger logées dans un centre d'hébergement de requérants d'asile ainsi que les réfugié-e-s logés dans un centre d'hébergement, de formation et d'intégration ne sont pas comptés dans la population dite légale, cela quels que soient le type de permis dont ils bénéficient et la durée totale de leur séjour en Suisse.
+
+[^1-1]: RS [431.112.1](https://db.clex.ch/link/Bund/431.112.1/fr)
 
 #### Art. 2
 

@@ -3,13 +3,12 @@ canton: FR
 number: "111.11"
 title: Verordnung über die zivilrechtliche Bevölkerung
 language: de
-version: 2024-07-01
-valid_until: 2025-01-31
-version_adopted: 2024-06-24
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 2011-08-16
 in_force: 2011-08-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/111.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8031/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8149/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8031/pdf_file"
 
 Zivilrechtliche Bevölkerung – V
 
-vom 16.08.2011 (Fassung in Kraft getreten am 01.07.2024)
+vom 16.08.2011 (Fassung in Kraft getreten am 01.02.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -46,11 +45,13 @@ beschliesst:
 
 **Definition**
 
-<sup>1</sup> Die zivilrechtliche Bevölkerung entspricht der jährlich erhobenen ständigen Wohnbevölkerung gemäss Artikel 2 Bst. d der Verordnung über die eidgenössische Volkszählung (SR 431.112.1); die Absätze 2 und 3 bleiben vorbehalten.
+<sup>1</sup> Die zivilrechtliche Bevölkerung entspricht der jährlich erhobenen ständigen Wohnbevölkerung gemäss Artikel 2 Bst. d der Verordnung über die eidgenössische Volkszählung (SR 431.112.1)[^1-1]; die Absätze 2 und 3 bleiben vorbehalten.
 
-<sup>2</sup> Der Bestand der zivilrechtlichen Bevölkerung kann angepasst werden, falls das Amt für Statistik des Kantons Freiburg Kenntnis von erwiesenen Fehlern oder Ungenauigkeiten im Bestand der ständigen Wohnbevölkerung hat, die das Bundesamt für Statistik nicht mehr berücksichtigen kann.
+<sup>2</sup> Der Bestand der zivilrechtlichen Bevölkerung kann angepasst werden, falls das Amt für Statistik und Daten des Kantons Freiburg Kenntnis von erwiesenen Fehlern oder Ungenauigkeiten im Bestand der ständigen Wohnbevölkerung hat, die das Bundesamt für Statistik nicht mehr berücksichtigen kann.
 
 <sup>3</sup> Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige, die in einer Asylunterkunft wohnen, sowie Flüchtlinge, die in einem Beherbergungs-, Ausbildungs- und Integrationszentrum untergebracht sind, zählen unabhängig von der Art der Aufenthaltsbewilligung und der Gesamtaufenthaltsdauer in der Schweiz nicht zur zivilrechtlichen Bevölkerung.
+
+[^1-1]: SR [431.112.1](https://db.clex.ch/link/Bund/431.112.1/de)
 
 #### Art. 2
 
