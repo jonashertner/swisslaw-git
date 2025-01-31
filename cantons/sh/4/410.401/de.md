@@ -4,13 +4,13 @@ number: "410.401"
 title: Verordnung über die Arbeitsverhältnisse der Lehrpersonen an den öffentlichen Schulen
 short: Lehrerverordnung
 language: de
-version: 2024-12-01
-valid_until: 2025-01-31
-version_adopted: 2024-11-26
+version: 2025-02-01
+valid_until: 2026-07-31
+version_adopted: 2024-06-04
 adopted: 2005-10-25
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.401"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1923/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1923/pdf_file"
 
 (Lehrerverordnung)
 
-Vom 25.10.2005 (Stand 01.12.2024)
+Vom 25.10.2005 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -91,17 +91,17 @@ beschliesst:
 
 **Befristete und unbefristete Anstellung**
 
-<sup>1</sup> Der Anstellungsvertrag von neu in den Schuldienst im Kanton Schaffhausen eintretenden Lehrpersonen ist in der Regel auf zwei Jahre befristet. In begründeten Fällen kann eine kürzere Dauer vereinbart oder auf eine Befristung verzichtet werden.
+<sup>1</sup> Lehrpersonen mit EDK-anerkanntem Diplom oder erfolgreichem Abschluss der kantonalen Intensivbegleitung zum Einstieg in den Lehrberuf werden in der Regel unbefristet angestellt. In begründeten Fällen kann eine Befristung vorgesehen werden.
 
-<sup>2</sup> Voraussetzungen für eine unbefristete Anstellung sind ein für die entsprechende Schulstufe und die entsprechenden Unterrichtsfächer notwendiges Lehr- bzw. Fachlehrdiplom, eine zufriedenstellende zweijährige, die Anforderungen des Amtsauftrags erfüllende Berufstätigkeit sowie die Absolvierung allfälliger obligatorischer Berufseinführungen und Weiterbildungen. Über Ausnahmen entscheidet das Erziehungsdepartement.
+<sup>2</sup> Die Anstellung der übrigen Lehrpersonen ist in der Regel auf ein oder zwei Jahre befristet. In begründeten Fällen kann auf eine Befristung verzichtet werden.
 
 #### § 8
 
 **Befristete und unbefristete Anstellung im Lehrauftragsverhältnis**
 
-<sup>1</sup> Als im Lehrauftragsverhältnis angestellt gelten Lehrpersonen, die in der Regel mindestens für die Dauer eines Schulsemesters befristet oder unbefristet angestellt werden und deren Pensum semesterweise je nach Bedarf veränderbar ist.
+<sup>1</sup> Als im Lehrauftragsverhältnis angestellt gelten Lehrpersonen, die in der Regel mindestens für die Dauer eines Schulsemesters angestellt werden und deren Pensum semesterweise je nach Bedarf veränderbar ist.
 
-<sup>2</sup> Die Anstellungsbehörde kann von den Voraussetzungen für eine unbefristete Anstellung gemäss § 7 Abs. 2 dieser Verordnung abweichen.
+<sup>2</sup> Die Anstellung kann befristet oder unbefristet erfolgen gemäss den Bestimmungen in § 7 dieser Verordnung.
 
 <sup>3</sup> § 18 der Personalverordnung findet keine Anwendung auf im Lehrauftragsverhältnis angestellte Lehrpersonen.
 
@@ -117,9 +117,9 @@ beschliesst:
 
 **Probezeit**
 
-<sup>1</sup> Zu Beginn der Anstellung gilt grundsätzlich eine Probezeit von drei Monaten.
+<sup>1</sup> Bei unbefristeten Anstellungen gilt zu Beginn der Anstellung in der Regel eine Probezeit von sechs Monaten. In begründeten Fällen kann auf eine Probezeit verzichtet oder es kann eine kürzere Probezeit vereinbart werden.
 
-<sup>2</sup> In begründeten Fällen kann auf eine Probezeit verzichtet oder es kann eine kürzere Probezeit vereinbart werden.
+<sup>2</sup> Bei befristeten Anstellungen gilt zu Beginn der Anstellung in der Regel eine Probezeit von vier Monaten. In begründeten Fällen kann auf eine Probezeit verzichtet werden, eine kürzere oder eine längere Probezeit bis zu sechs Monaten vereinbart werden.
 
 #### § 11
 
