@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2025-01-01
+version: 2025-02-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2025)
+du 3 novembre 2021 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -565,7 +565,7 @@ Les personnes mandatées visées à l’art. 23 peuvent consulter et utiliser le
 
 [^38a-1]
 
-[^38a-1]: En vigueur le 1<sup>er</sup> janv. 2026.
+[^38a-1]: En vigueur le 1<sup>er</sup> janv. 2026 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 #### Art. 38b
 
@@ -625,11 +625,13 @@ Les systèmes d’information suivants peuvent tirer les données de la BDTA via
 - f. le calculateur UGB;
 - g. l’e-Transit;
 - h. le Fleko;
-- i. le Ribes.
+- i. le Ribes;
+- j.[^40-4] le système d’information et de documentation sur les grands prédateurs (GRIDS).
 
 [^40-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^40-2]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^40-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^40-4]: Introduite par l’annexe ch. 3 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## Chapitre 4 Calculateur UGB
 

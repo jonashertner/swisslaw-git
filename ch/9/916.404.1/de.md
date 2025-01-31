@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2025-01-01
+version: 2025-02-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250101/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Januar 2025)
+vom 3. November 2021 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -625,10 +625,12 @@ Die folgenden Informationssysteme können mittels Schnittstellen die Daten aus d
 - f. der GVE-Rechner;
 - g. das E-Transit;
 - h. das Fleko;
-- i. das Ribes.
+- i. das Ribes;
+- j.[^40-3] das Informations- und Dokumentationssystem über Grossraubtiere (GRIDS).
 
 [^40-1]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^40-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^40-3]: Eingefügt durch Anhang Ziff. 3 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## 4. Kapitel: GVE-Rechner
 
