@@ -4,13 +4,13 @@ number: "723.101"
 title: Kantonale Geoinformationsverordnung
 short: kGeoIV
 language: de
-version: 2021-01-01
-valid_until: 2025-01-31
-version_adopted: 2020-12-15
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-21
 adopted: 2012-10-23
 in_force: 2012-11-01
 url: "https://ar.clex.ch/app/de/texts_of_law/723.101"
-pdf: "https://ar.clex.ch/api/de/versions/1333/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1559/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1333/pdf_file"
 
 (kGeoIV)
 
-vom 23.10.2012 (Stand 01.01.2021)
+vom 23.10.2012 (Stand 01.02.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -59,8 +59,8 @@ beschliesst:
 
 <sup>1</sup> Der GIS-Ausschuss ist das Koordinationsorgan des Kantons und der Gemeinden im Bereich der Geoinformation. Er hat insbesondere folgende Aufgaben:
 
-- a) Planung und Koordination der Tätigkeiten des Kantons und der Gemeinden im Bereich der GDI und des GIS;
-- b) Entwicklung von gemeinsamen Strategien des Kantons und der Gemeinden im Bereich der GDI und des GIS;
+- a) Planung und Koordination der Tätigkeiten des Kantons und der Gemeinden im Bereich der GDI und der Geoinformationen;
+- b) Entwicklung von gemeinsamen Strategien des Kantons und der Gemeinden im Bereich der GDI und der Geoinformationen;
 - c) Mitwirkung bei der Entwicklung von technischen Normen.
 
 <sup>2</sup> Der GIS-Ausschuss setzt sich aus Vertretern des Kantons und der Gemeinden zusammen. Wird der Betrieb des GIS einem Unternehmen übertragen, nimmt dieses mit einer Vertreterin oder einem Vertreter Einsitz in den Ausschuss.
@@ -285,15 +285,25 @@ beschliesst:
 
 <sup>1</sup> Werden Geobasisdaten widerrechtlich genutzt, so wird das Verfahren zur Erteilung der Einwilligung nachträglich von Amtes wegen durchgeführt.
 
+#### Art. 21a
+
+**Nutzung offener Verwaltungsdaten**
+
+<sup>1</sup> Bei Geobasisdaten der Zugangsberechtigungsstufe A gilt die Einwilligung zur Nutzung als erteilt.
+
+<sup>2</sup> Bei übermässiger, unangemessener oder missbräuchlicher Nutzung kann der Zugang eingeschränkt oder verweigert werden.
+
+<sup>3</sup> Zur Verhinderung von übermässiger, unangemessener und missbräuchlicher Nutzung kann die GIS-Fachstelle den freien Zugang durch geeignete Instrumente, einschliesslich der Erfassung von IP-Adressen, überwachen.
+
 #### Art. 22
 
 **Nutzungsvorschriften**
 
 <sup>1</sup> Für die Nutzung zum Eigengebrauch gelten die entsprechenden Bestimmungen des Urheberrechtsgesetzes[^22-1] sinngemäss.
 
-<sup>2</sup> Die Nutzerinnen und Nutzer sind für die Einhaltung der Vorschriften über den Datenschutz verantwortlich. Die Nutzerinnen und Nutzer werden darauf hingewiesen.
+<sup>2</sup> Die Nutzerinnen und Nutzer sind für die Einhaltung der Vorschriften über den Datenschutz verantwortlich.
 
-<sup>3</sup> Geobasisdaten dürfen nur mit der Angabe der Quelle wiedergegeben werden.
+<sup>3</sup> …
 
 [^22-1]: URG (SR [231.1](https://db.clex.ch/link/Bund/231.1/de))
 
@@ -345,7 +355,7 @@ beschliesst:
 - b) vernetzter Suchdienst für Geodienste nach Art. 26;
 - c) vernetzter Zugang zu den Geobasisdaten;
 - d) vernetzter Download-Dienst für die im Anhang 2 entsprechend bezeichneten Geobasisdaten;
-- e) Dienst für die Transformation.
+- e) …
 
 <sup>2</sup> Weitere Geodienste können vom Kanton nach Bedarf angeboten werden.
 
@@ -451,5 +461,53 @@ beschliesst:
 <sup>2</sup> Bereits erfasste und neue Hausanschlüsse sind Bestandteil des Leitungskatasters.
 
 <sup>3</sup> Die GIS-Fachstelle bestimmt die qualitativen und technischen Anforderungen.
+
+## 10. Abschnitt: Gebühren
+
+#### Art. 38
+
+**Gebühren nach Zeitaufwand**
+
+<sup>1</sup> Die zuständigen Stellen[^38-1] erheben für ihre Leistungen und Amtshandlungen nach Zeitaufwand bemessene Gebühren. Vorbehalten bleiben Art. 39 und 40.
+
+<sup>2</sup> Die Gebühr nach Zeitaufwand beträgt 160 Franken pro Stunde, höchstens aber 800 Franken pro Fall.
+
+<sup>3</sup> Allfällige Material- und Transportkosten werden zusätzlich in Rechnung gestellt.
+
+<sup>4</sup> Das Inkasso der Gebühren kann an Dritte übertragen werden.
+
+[^38-1]: Art. 8 kGeoIG (bGS [723.1](https://ar.clex.ch/data/723.1/de))
+
+#### Art. 39
+
+**Gebührenbefreite Leistungen**
+
+<sup>1</sup> Keine Gebühren werden erhoben für:
+
+- a) den Zugang zu offenen Verwaltungsdaten nach Art. 21a;
+- b) den Zugang zu den Geodiensten nach Art. 27 und deren Nutzung;
+- c) die Nutzung von Geobasisdaten, unabhängig von der Art des Zugangs und der Art der Nutzung.
+
+#### Art. 40
+
+**Pauschalgebühren**
+
+<sup>1</sup> Datenlieferung in Kopie oder im Format PDF:
+
+- a) Katasterplan amtliche Vermessung bis DIN A3 (exkl. Beglaubigung) — 20 Franken
+- b) Planauszug Leitungskataster bis DIN A3 — 50 Franken
+- c) Plot bis DIN A0 — 80 Franken
+
+<sup>2</sup> Beglaubigung von analogen oder digitalen Datenauszügen der amtlichen Vermessung:
+
+- a) bei Erstellung des Datenauszugs — 50 Franken
+- b) nachträglich — 80 Franken
+
+<sup>3</sup> Weitere Exemplare desselben Ausschnitts, sofern gleichzeitig bezogen:
+
+- a) bis DIN A3 — 5 Franken
+- b) bis DIN A0 — 20 Franken
+
+<sup>4</sup> Allfällige Material- und Transportkosten werden zusätzlich in Rechnung gestellt.
 
 Lf. Nr. / Abl. 1232 / 2012, S. 1212
