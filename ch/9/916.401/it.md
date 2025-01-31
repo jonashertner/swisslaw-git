@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2024-10-01
+version: 2025-02-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20241001-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20241001/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° ottobre 2024)
+del 27 giugno 1995 (Stato 1° febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -122,31 +122,33 @@ Sono considerate epizoozie da combattere le seguenti malattie:
 - f. l’epididimite contagiosa degli arieti;
 - g.[^4-3] paratubercolosi;
 - g<sup>bis</sup>.[^4-4] febbre catarrale ovina (Blue tongue o «malattia della lingua blu») e malattia emorragica epizootica (EHD);
+- g<sup>ter</sup>.[^4-5] Border Disease negli animali della specie bovina, nei bufali e bisonti;
 - h. la metrite contagiosa equina;
-- h<sup>bis</sup>.[^4-5] l’encefalomielite equina venezuelana;
-- i.[^4-6] polmonite enzootica dei suini;
-- i<sup>bis</sup>.[^4-7] actinobacillosi dei suini;
-- k.[^4-8] la clamidiosi degli uccelli (*Chlamydia psittaci*);
-- l.[^4-9] l’infezione del pollame da *Salmonella;*
+- h<sup>bis</sup>.[^4-6] l’encefalomielite equina venezuelana;
+- i.[^4-7] polmonite enzootica dei suini;
+- i<sup>bis</sup>.[^4-8] actinobacillosi dei suini;
+- k.[^4-9] la clamidiosi degli uccelli (*Chlamydia psittaci*);
+- l.[^4-10] l’infezione del pollame da *Salmonella;*
 - m. la laringotracheite infettiva dei polli;
 - n. la mixomatosi;
 - o. la peste americana delle api;
 - p. la peste europea delle api;
-- p<sup>bis</sup>.[^4-10] l’infestazione da piccolo coleottero dell’alveare (*Aethina tumida*);
-- q.[^4-11] lʼinfezione da virus della malattia dei puntini bianchi dei crostacei;
+- p<sup>bis</sup>.[^4-11] l’infestazione da piccolo coleottero dell’alveare (*Aethina tumida*);
+- q.[^4-12] lʼinfezione da virus della malattia dei puntini bianchi dei crostacei;
 - r. la peste dei granchi.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^4-3]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-4]: Introdotta dalla cifra I dell’O del 14 mag. 2008 ([RU 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^4-5]: Introdotta dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^4-6]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^4-7]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^4-8]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^4-9]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^4-10]: Introdotta dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° apr. 2015 ([RU 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
-[^4-11]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^4-5]: Introdotta dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^4-6]: Introdotta dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^4-7]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^4-8]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^4-9]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^4-10]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^4-11]: Introdotta dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° apr. 2015 ([RU 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
+[^4-12]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 5
 
@@ -180,7 +182,7 @@ Sono considerate epizoozie da sorvegliare le seguenti malattie:
 - v.[^5-12] neosporosi;
 - w.[^5-13] l’herpesvirosi della carpa Koi;
 - x.[^5-14] la coxiellosi;
-- y.[^5-15] criptosporidiosi;
+- y.[^5-15] ...
 - z.[^5-16] malattia renale proliferativa dei pesci.
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -197,7 +199,7 @@ Sono considerate epizoozie da sorvegliare le seguenti malattie:
 [^5-12]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^5-13]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^5-14]: Introdotta dalla cifra I dell’O del 28 mar. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)). Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^5-15]: Introdotta dalla cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^5-15]: Introdotta dalla cifra I dell’O del 28 mar. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)). Abrogata dalla cifra I dell’O del 6 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^5-16]: Introdotta dalla cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 
 #### Art. 6
@@ -209,82 +211,84 @@ Ai fini della presente ordinanza si applicano le definizioni seguenti:[^6-1]
 - a.[^6-2] *DFI:* Dipartimento federale dell’interno;
 - b.[^6-3] *USAV:* Ufficio federale della sicurezza alimentare e di veterinaria;
 - c. *IVI:* Istituto di virologia e di immunologia[^6-4];
-- d.[^6-5] *Centro di ricerche apicole:* Centro svizzero di ricerche apicole della Stazione di ricerca Agroscope di Liebefeld-Posieux ALP;
-- e.[^6-6] *OSOAn:* ordinanza del 25 maggio 2011[^6-7] concernente i sottoprodotti di origine animale;
+- d.[^6-5] *Centro di ricerca apistica*[^6-6]*:* Centro di ricerca apistica della Stazione di ricerca Agroscope di Liebefeld-Posieux ALP;
+- e.[^6-7] *OSOAn:* ordinanza del 25 maggio 2011[^6-8] concernente i sottoprodotti di origine animale;
 - f. *autorità cantonale competente:* un’autorità o un ufficio designati dal Cantone;
 - g. *veterinario:* titolare di un diploma federale di veterinario o di un diploma di veterinario equivalente;
 - h. *veterinario ufficiale:* veterinario nominato dal Cantone conformemente all’articolo 302;
-- i.[^6-8] *...*
+- i.[^6-9] *...*
 - k. *organi della polizia epizootica:* le autorità o le persone che esercitano mansioni ufficiali per la Confederazione o un Cantone in materia di polizia epizootica;
 - l. *epizoozie:* le malattie animali designate negli articoli da 2 a 5 dell’ordinanza;
-- l<sup>bis</sup>.[^6-9] *zoonosi**:* malattia trasmissibile dall’animale all’uomo;
-- l<sup>ter</sup>.[^6-10] *biosicurezza:* protezione dai rischi di introduzione, propagazione e diffusione di un’epizoozia;
-- m.[^6-11] *eliminare:* eliminare un animale dall’effettivo uccidendolo ed eliminandolo in quanto sottoprodotto di origine animale, oppure macellandolo e riutilizzandolo;
+- l<sup>bis</sup>.[^6-10] *zoonosi**:* malattia trasmissibile dall’animale all’uomo;
+- l<sup>ter</sup>.[^6-11] *biosicurezza:* protezione dai rischi di introduzione, propagazione e diffusione di un’epizoozia;
+- m.[^6-12] *eliminare:* eliminare un animale dall’effettivo uccidendolo ed eliminandolo in quanto sottoprodotto di origine animale, oppure macellandolo e riutilizzandolo;
 - n. *eradicare:* debellare un’epizoozia in modo che non rimangano né animali malati né animali portatori dell’agente di epizoozia;
-- o.[^6-12]
+- o.[^6-13]
 
   *azienda detentrice di animali:*
 
-  - 1\. aziende agricole detentrici di animali giusta l’articolo 11 dell’ordinanza del 7 dicembre 1998[^6-13] sulla terminologia agricola (OTerm),
+  - 1\. aziende agricole detentrici di animali giusta l’articolo 11 dell’ordinanza del 7 dicembre 1998[^6-14] sulla terminologia agricola (OTerm),
   - 2\. mandre transumanti,
-  - 3\. aziende che commerciano bestiame, cliniche veterinarie, macelli,
+  - 3\.[^6-15] aziende che commerciano bestiame con stalle e impianti per la detenzione di animali, cliniche veterinarie, macelli,
   - 4\. mercati di bestiame, aste di bestiame, esposizioni di bestiame e manifestazioni analoghe,
   - 5\. animali tenuti a scopo non commerciale,
-  - 6\.[^6-14] aziende di acquacoltura;
+  - 6\.[^6-16] aziende di acquacoltura;
 
-- o<sup>bis</sup>.[^6-15] *azienda di acquacoltura:* stabilimento in cui si pratica la detenzione di animali acquatici mediante l’impiego di tecniche finalizzate ad aumentare, al di là delle capacità naturali dell’ambiente, la resa degli animali in questione
-- p.[^6-16] *effettivo (mandria):* animali di un’azienda detentrice di animali che costituiscono un’unità epidemiologica; un’azienda detentrice di animali può comprendere uno o più effettivi;
+- o<sup>bis</sup>.[^6-17] *azienda di acquacoltura:* stabilimento in cui si pratica la detenzione di animali acquatici mediante l’impiego di tecniche finalizzate ad aumentare, al di là delle capacità naturali dell’ambiente, la resa degli animali in questione
+- p.[^6-18] *effettivo (mandria):* animali di un’azienda detentrice di animali che costituiscono un’unità epidemiologica; un’azienda detentrice di animali può comprendere uno o più effettivi;
 - q. *animale sospetto di contaminazione:* animale che è stato in contatto diretto o indiretto con animali infetti, ma che non manifesta alcun sintomo dell’epizoozia;
-- r.[^6-17] *animale sospetto:* animale i cui segni clinici, le lesioni riscontrate post mortem, i risultati dell’analisi istologica o della messa in evidenza indiretta indicano la presenza di un’epizoozia;
-- s.[^6-18]
+- r.[^6-19] *animale sospetto:* animale i cui segni clinici, le lesioni riscontrate post mortem, i risultati dell’analisi istologica o della messa in evidenza indiretta indicano la presenza di un’epizoozia;
+- s.[^6-20]
 
   *animale infetto:* animale in cui senza correlazione con una vaccinazione:
 
   - 1\. è stato messo in evidenza l’agente patogeno, un antigene o un acido nucleico specifico dell’agente patogeno, o
   - 2\. è presente una messa in evidenza indiretta di un agente patogeno insieme a segni clinici o insieme a una connessione epidemiologica con un animale infetto;
 
-- t.[^6-19] *animali a unghia fessa:* animali domestici delle specie bovina, ovina, caprina e suina; bufali e bisonti, camelidi del vecchio mondo (dromedario, cammello) e camelidi del nuovo mondo (lama, alpaca) nonché selvaggina dell’ordine degli artiodattili tenuta in parchi, ad eccezione degli animali da zoo;
+- t.[^6-21] *animali a unghia fessa:* animali domestici delle specie bovina, ovina, caprina e suina; bufali e bisonti, camelidi del vecchio mondo (dromedario, cammello) e camelidi del nuovo mondo (lama, alpaca) nonché selvaggina dell’ordine degli artiodattili tenuta in parchi, ad eccezione degli animali da zoo;
 - u. *bestiame:* animali domestici delle specie equina, bovina, ovina, caprina e suina;
-- v.[^6-20] *animali esotici ai sensi dell’articolo 34 capoverso 2 numero 1 LFE*[^6-21]: animali non presenti in natura in Svizzera, ad eccezione degli animali di cui alla lettera t;
-- v<sup>bis</sup>.[^6-22] *api*: animali della specie *Apis mellifera*;
-- v<sup>ter</sup>.[^6-23] *bombi*: animali della specie *Bombus*;
-- w.[^6-24] *pollame*[^6-25]*:* uccelli dell’ordine dei gallinacei (*Galliformes*), dei palmipedi (*Anseriformes*) e degli struzioniformi (*Struthioniformes*);
-- x.[^6-26] *pollame da cortile**:* pollame tenuto in cattività;
-- y.[^6-27] *equidi:* animali addomesticati della specie equina (cavalli, asini, muli, bardotti)*;*
-- z.[^6-28] *animali acquatici:* pesci della superclasse degli Agnati (*Agnatha*) e delle classi dei Pesci cartilaginei (*Chondrichthyes*) e Pesci ossei (*Osteichthyes*), nonché Molluschi (*Mollusca*) e Crostacei (*Crustacea*);
-- z<sup>bis</sup>.[^6-29] *aborto:* espulsione di un feto immaturo, non in grado di sopravvivere, prima della fine della normale durata della gravidanza;
-- z<sup>ter</sup>.[^6-30] *animale nato morto:* animale che dopo una normale durata della gravidanza viene partorito morto o che muore entro 24 ore dalla nascita.
+- v.[^6-22] *animali esotici ai sensi dell’articolo 34 capoverso 2 numero 1 LFE*[^6-23]: animali non presenti in natura in Svizzera, ad eccezione degli animali di cui alla lettera t;
+- v<sup>bis</sup>.[^6-24] *api*: animali della specie *Apis mellifera*;
+- v<sup>ter</sup>.[^6-25] *bombi*: animali della specie *Bombus*;
+- w.[^6-26] *pollame*[^6-27]*:* uccelli dell’ordine dei gallinacei (*Galliformes*), dei palmipedi (*Anseriformes*) e degli struzioniformi (*Struthioniformes*);
+- x.[^6-28] *pollame da cortile**:* pollame tenuto in cattività;
+- y.[^6-29] *equidi:* animali addomesticati della specie equina (cavalli, asini, muli, bardotti)*;*
+- z.[^6-30] *animali acquatici:* pesci della superclasse degli Agnati (*Agnatha*) e delle classi dei Pesci cartilaginei (*Chondrichthyes*) e Pesci ossei (*Osteichthyes*), nonché Molluschi (*Mollusca*) e Crostacei (*Crustacea*);
+- z<sup>bis</sup>.[^6-31] *aborto:* espulsione di un feto immaturo, non in grado di sopravvivere, prima della fine della normale durata della gravidanza;
+- z<sup>ter</sup>.[^6-32] *animale nato morto:* animale che dopo una normale durata della gravidanza viene partorito morto o che muore entro 24 ore dalla nascita.
 
 [^6-1]: Nuovo testo giusta l’all. 8 cifra II n. 4 dell’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale, in vigore dal 1° lug. 2011 ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
 [^6-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° mag. 2013.
 [^6-5]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^6-6]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-7]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-8]: Abrogata dall’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, con effetto dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
-[^6-9]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-10]: Introdotta dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-11]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
-[^6-12]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-13]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-14]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-15]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-16]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-17]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^6-18]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-6]: Nuova espressione giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)). Di detta mod. è tenuto conto in tutto il testo.
+[^6-7]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^6-8]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-9]: Abrogata dall’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, con effetto dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^6-10]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-11]: Introdotta dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^6-12]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
+[^6-13]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
+[^6-14]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6-15]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^6-16]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-17]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-18]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 [^6-19]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^6-20]: Introdotta dalla cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^6-21]: Nuova espr. giusta la cifra I dell’O del 15 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-22]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^6-23]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^6-24]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-25]: Nuova espr. giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-20]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-21]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-22]: Introdotta dalla cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^6-23]: Nuova espr. giusta la cifra I dell’O del 15 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-24]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-25]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^6-26]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-27]: Introdotta dalla cifra I dell’O del 19 ago. 2009 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
-[^6-28]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-29]: Introdotta dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^6-30]: Introdotta dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^6-27]: Nuova espr. giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-28]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-29]: Introdotta dalla cifra I dell’O del 19 ago. 2009 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
+[^6-30]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-31]: Introdotta dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^6-32]: Introdotta dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
 ## Titolo secondo: Movimento di animali, di materie animali, di seme e di embrioni
 
@@ -611,8 +615,8 @@ Il passaporto per equide deve contenere le seguenti indicazioni:
   - 7\.[^15d-4] colore dell’animale;
 
 - e. il numero di microchip;
-- f. lo scopo d’utilizzazione ai sensi dell’articolo 3 dell’ordinanza del 18 agosto 2004[^15d-5] sui medicamenti veterinari;
-- g. una sezione per l’adempimento dell’obbligo di comunicazione in caso di cambiamento del detentore di cui all’articolo 23 dell’ordinanza del 18 agosto 2004 sui medicamenti veterinari e della dichiarazione sanitaria di cui all’articolo 24 dell’ordinanza del 23 novembre 2005[^15d-6] concernente la macellazione e il controllo delle carni;
+- f.[^15d-5] lo scopo d’utilizzazione secondo l’articolo 3 capoverso 1 lettera a o b dell’ordinanza del 18 agosto 2004[^15d-6] sui medicamenti veterinari (OMVet);
+- g.[^15d-7] una sezione per l’adempimento dell’obbligo di comunicazione in caso di cambiamento del detentore secondo l’articolo 23 OMVet e della dichiarazione sanitaria secondo l’articolo 24 dell’ordinanza del 16 dicembre 2016[^15d-8] concernente la macellazione e il controllo delle carni (OMCC);
 - h. il sistema di lettura, se esso non corrisponde alla norma ISO 11784;
 - i. la data e il luogo di rilascio del passaporto, il nome, l’indirizzo e la firma di chi lo ha rilasciato.
 
@@ -621,18 +625,20 @@ Il passaporto per equide deve contenere le seguenti indicazioni:
 Il passaporto per equide deve inoltre contenere i seguenti allegati:
 
 - a. la prova del controllo d’identità dell’equide, per il quale è stato rilasciato il passaporto;
-- b.[^15d-7] la prova della vaccinazione contro l’influenza equina, comprese le vaccinazioni combinate;
-- c.[^15d-8] la prova della vaccinazione contro malattie diverse dall’influenza equina;
+- b.[^15d-9] la prova della vaccinazione contro l’influenza equina, comprese le vaccinazioni combinate;
+- c.[^15d-10] la prova della vaccinazione contro malattie diverse dall’influenza equina;
 - d. la prova di controlli sanitari dell’equide mediante esami di laboratorio.
 
 [^15d-1]: Direttive dell’Universal Equine Life Number: www.ueln.net
 [^15d-2]: Abrogata dalla cifra I dell’O del 20 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-3]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^15d-4]: Introdotto dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^15d-5]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^15d-6]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II n. 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
-[^15d-7]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^15d-8]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^15d-5]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^15d-6]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^15d-7]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^15d-8]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^15d-9]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^15d-10]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 15d<sup>bis</sup>
 
@@ -948,9 +954,9 @@ L’USAV assegna i diritti di accesso alle autorità federali. I Cantoni assegna
 
 **Conservazione dei dati**[^17l-1]
 
-Il gestore della banca dati conserva i dati rilevati secondo l’articolo 17*c* capoverso 1 della presente ordinanza e l’articolo 74 capoverso 6 dell’ordinanza del 23 aprile 2008[^17l-2] sulla protezione degli animali. I dati relativi al detentore vengono cancellati dieci anni dopo il decesso dell’ultimo cane.
+Il gestore della banca dati sui cani conserva i dati rilevati secondo l’articolo 17*c* capoverso 1 della presente ordinanza e l’articolo 74 capoverso 6 dell’ordinanza del 23 aprile 2008[^17l-2] sulla protezione degli animali (OPAn). I dati relativi al detentore di cani vengono cancellati dieci anni dopo il decesso dell’ultimo cane.
 
-[^17l-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+[^17l-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)). Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^17l-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 #### Art. 17m
@@ -1128,7 +1134,7 @@ Entro dieci giorni lavorativi, il detentore di animali deve notificare al serviz
 
 #### Art. 22
 
-**Controllo degli effettivi e altri obblighi**[^22-1]
+**Controllo degli effettivi[^22-2]**[^22-1]
 
 <sup>1</sup>
 
@@ -1155,20 +1161,68 @@ Le aziende di acquacoltura devono documentare il controllo degli effettivi. La d
   - 3\. il peso totale,
   - 4\. la data dell’uscita;
 
-- e. la mortalità in ogni unità epidemiologica.[^22-2]
+- e. la mortalità in ogni unità epidemiologica.[^22-3]
 
-<sup>2</sup> I documenti relativi al controllo degli effettivi devono essere conservati per tre anni ed esibiti su richiesta agli organi della polizia epizootica e agli organi preposti alla vigilanza sulla pesca.[^22-3]
+<sup>2</sup> I documenti relativi al controllo degli effettivi devono essere conservati per tre anni ed esibiti su richiesta agli organi della polizia epizootica e agli organi preposti alla vigilanza sulla pesca.[^22-4]
 
-<sup>3</sup> La documentazione dei risultati diagnostici, delle vaccinazioni e dell’impiego di disinfettanti a scopo terapeutico dell’effettivo deve essere conservata per tre anni ed esibita su richiesta agli organi della polizia epizootica.[^22-4]
-
-<sup>4</sup> La documentazione relativa al trasferimento di animali acquatici vivi in un ambiente idrico a fini di ripopolamento deve poter essere esibita al servizio cantonale per un periodo di tre anni.
-
-<sup>5</sup> Le aziende di acquacoltura devono operare secondo criteri di buona prassi igienica per prevenire l’introduzione e la diffusione di agenti patogeni. L’USAV emana prescrizioni tecniche in materia di buona prassi igienica.
+<sup>3</sup> a <sup>5</sup> ... [^22-5]
 
 [^22-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^22-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^22-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^22-4]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^22-5]: Abrogati dalla cifra I dell’O del 6 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 22a
+
+**Documentazione dei risultati, delle vaccinazioni e dell’impiego di biocidi**[^22a-1]
+
+<sup>1</sup> I detentori di animali devono documentare i risultati diagnostici, le vaccinazioni e l’impiego di prodotti a scopo terapeutico dell’effettivo omologati ai sensi dell’ordinanza del 18 maggio 2005[^22a-2] sui biocidi (OBioc).
+
+<sup>2</sup> La documentazione deve essere conservata per tre anni ed esibita su richiesta agli organi della polizia epizootica.
+
+[^22a-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^22a-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+
+#### Art. 22b
+
+**Buona prassi igienica**[^22b-1]
+
+<sup>1</sup> Le aziende di acquacoltura devono operare secondo criteri di buona prassi igienica per prevenire l’introduzione e la diffusione di agenti patogeni.
+
+<sup>2</sup> L’USAV emana prescrizioni tecniche in materia di buona prassi igienica.
+
+[^22b-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 22c
+
+**Certificato d’accompagnamento**[^22c-1]
+
+<sup>1</sup> Se animali acquatici vivi sono trasferiti in un’altra azienda di acquacoltura, il detentore deve rilasciare un certificato d’accompagnamento e conservarne un duplicato.
+
+<sup>2</sup>
+
+Il certificato d’accompagnamento deve contenere le seguenti indicazioni:
+
+- a. l’indirizzo dell’azienda di acquacoltura da cui gli animali provengono;
+- b. la specie animale;
+- c. il numero o il peso totale degli animali;
+- d. l’età degli animali;
+- e. la data in cui gli animali sono portati via dall’azienda di acquacoltura;
+- f. l’indirizzo dell’azienda di acquacoltura nella quale gli animali sono trasferiti;
+- g. una conferma firmata dal detentore di animali secondo cui la sua azienda di acquacoltura non è soggetta a provvedimenti di sequestro di polizia epizootica.
+
+<sup>3</sup> Gli articoli 11*b* capoversi 3 e 4, 12 capoverso 2, 12*a* e 13 si applicano per analogia.
+
+[^22c-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 22d
+
+**Trasferimento di animali acquatici in un ambiente idrico**[^22d-1]
+
+La documentazione relativa al trasferimento di animali acquatici vivi in un ambiente idrico a fini di ripopolamento deve poter essere esibita al servizio cantonale per un periodo di tre anni.
+
+[^22d-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 23
 
@@ -1196,6 +1250,7 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 - b. i problemi sanitari manifestatisi dall’ultimo controllo nonché i trattamenti e le verifiche effettuati per questo motivo;
 - c.[^23-2] le misure profilattiche eseguite dall’ultimo controllo e le relative indicazioni;
 - d. il giornale dei trattamenti e il deposito dei medicamenti veterinari;
+- d<sup>bis</sup> [^23-3] la documentazione di cui all’articolo 22*a*;
 - e. la biosicurezza e la prassi igienica dell’azienda.
 
 <sup>3</sup> Per le aziende di acquacoltura che non soddisfano le condizioni di cui al capoverso 1, il veterinario cantonale può disporre una sorveglianza sanitaria.
@@ -1204,6 +1259,7 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 
 [^23-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^23-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^23-3]: Introdotta dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### Sezione 4: Trasporto di animali
 
@@ -1340,18 +1396,21 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 La patente è rilasciata se il richiedente:
 
 - a. ha partecipato a un corso d’introduzione e ha superato l’esame;
-- b. possiede una stalla che, per quanto riguarda l’ubicazione e le infrastrutture, nonché l’organizzazione e la gestione, è conforme ai principi igienico-sanitari in materia di lotta alle epizoozie.
+- b.[^34-3] ha conseguito una formazione per il personale addetto al trasporto di animali ai sensi dell’articolo 150 OPAn[^34-4] e ha superato l’esame.
 
 <sup>4</sup> La patente può essere rilasciata eccezionalmente a titolo provvisorio prima che il richiedente abbia concluso il corso di introduzione.
 
-<sup>5</sup> Sono esentati dall’obbligo di disporre di una stalla i commercianti di bestiame che consegnano gli animali direttamente ai macelli.
+<sup>5</sup> La patente per il commercio di bestiame non è rilasciata in caso di violazione ripetuta o grave da parte del richiedente delle prescrizioni delle legislazioni in materia di epizoozie, di protezione degli animali, di derrate alimentari, di agenti terapeutici o di agricoltura.[^34-5]
 
-<sup>6</sup> Il veterinario cantonale registra il rilascio della patente per il commercio di bestiame nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) secondo l’ordinanza del 27 aprile 2022[^34-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^34-4]
+<sup>6</sup> Il veterinario cantonale registra il rilascio della patente per il commercio di bestiame nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) secondo l’ordinanza del 27 aprile 2022[^34-6] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^34-7]
 
 [^34-1]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^34-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^34-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^34-4]: Nuovo testo giusta l’all. 4 cifra II n. 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^34-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^34-4]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^34-5]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^34-6]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^34-7]: Nuovo testo giusta l’all. 4 cifra II n. 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 35
 
@@ -1359,22 +1418,17 @@ La patente è rilasciata se il richiedente:
 
 <sup>1</sup> La patente viene rinnovata se il commerciante di bestiame ha frequentato un corso di formazione continua nei tre anni della sua validità.[^35-2]
 
-<sup>2</sup> Prima del rinnovo della patente, i commercianti di bestiame le cui attività hanno dato adito a contestazioni possono essere obbligati a ripetere il corso d’introduzione.
+<sup>2</sup> Il rinnovo della patente per il commercio di bestiame può essere soggetto a oneri, in particolare se l’attività del commerciante di bestiame ha dato adito a contestazioni.[^35-3]
 
-<sup>3</sup>
+<sup>3</sup> La patente per il commercio di bestiame non è rinnovata o è revocata in caso di violazione ripetuta o grave da parte del commerciante di bestiame o del suo personale delle prescrizioni delle legislazioni in materia di epizoozie, di protezione degli animali, di derrate alimentari, di agenti terapeutici o di agricoltura.[^35-4]
 
-La patente per il commercio di bestiame non è rinnovata o è revocata in caso di:
-
-- a. assenza della stalla o non conformità della stessa ai principi igienico-sanitari in materia di lotta alle epizoozie;
-- b. violazione ripetuta o grave da parte del commerciante di bestiame o del suo personale delle prescrizioni delle legislazioni in materia di epizoozie, di protezione degli animali, di derrate alimentari, di agenti terapeutici e di agricoltura;
-- c.[^35-3] mancata frequentazione del corso di formazione continua o mancata ripetizione del corso di introduzione.
-
-<sup>4</sup> Il veterinario cantonale registra la revoca o il mancato rinnovo della patente per il commercio di bestiame in ASAN.[^35-4]
+<sup>4</sup> Il veterinario cantonale registra la revoca o il mancato rinnovo della patente per il commercio di bestiame in ASAN.[^35-5]
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^35-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^35-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^35-4]: Nuovo testo giusta l’all. 4 cifra II n. 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^35-4]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^35-5]: Nuovo testo giusta l’all. 4 cifra II n. 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 36
 
@@ -1384,59 +1438,40 @@ La patente per il commercio di bestiame non è rinnovata o è revocata in caso d
 
 <sup>2</sup>
 
-Lo svolgimento dei corsi può essere affidato a un’organizzazione. Tale organizzazione deve poter dimostrare:
+Lo svolgimento dei corsi può essere affidato a un’organizzazione. Tale organizzazione deve poter dimostrare di disporre:
 
-- a. di disporre di insegnanti qualificati per la formazione specifica; e
-- b. che il controllo esterno della qualità è effettuato da un’associazione accreditata secondo l’ordinanza del 17 giugno 1996[^36-4] sull’accreditamento e sulla designazione.
+- a. di insegnanti qualificati per la formazione specifica; e
+- b. di un certificato ISO 21001:20188[^36-4] o eduQua:2021[^36-5] valido o di una certificazione equivalente per le istituzioni di formazione per adulti, la cui certificazione deve essere stata rilasciata da un organismo di certificazione di sistemi di gestione accreditati ai sensi dell’ordinanza del 17 giugno 1996[^36-6] sull’accreditamento e sulla designazione.[^36-7]
 
 <sup>3</sup> Durante i corsi d’introduzione i partecipanti ricevono una formazione sugli obblighi dei commercianti di bestiame, nonché sulla normativa in materia di epizoozie, protezione degli animali, derrate alimentari e agenti terapeutici.
 
-<sup>4</sup> Durante i corsi di formazione continua i partecipanti ricevono informazioni in merito alle conoscenze attuali sulla prevenzione delle epizoozie, sulla protezione degli animali nonché sulla sicurezza delle derrate alimentari e degli agenti terapeutici.[^36-5]
+<sup>4</sup> Durante i corsi di formazione continua i partecipanti ricevono informazioni in merito alle conoscenze attuali sulla prevenzione delle epizoozie, sulla protezione degli animali nonché sulla sicurezza delle derrate alimentari e degli agenti terapeutici.[^36-8]
 
-<sup>5</sup> L’USAV, dopo aver consultato i veterinari cantonali, emana un regolamento sui corsi d’introduzione e di formazione continua per i commercianti di bestiame. Il regolamento stabilisce la durata e il contenuto dei corsi.[^36-6]
+<sup>5</sup> L’USAV, dopo aver consultato i veterinari cantonali, emana un regolamento sui corsi d’introduzione e di formazione continua per i commercianti di bestiame. Il regolamento stabilisce la durata e il contenuto dei corsi.[^36-9]
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^36-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^36-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^36-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^36-5]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^36-6]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+[^36-4]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^36-5]: La norma può essere consultata gratuitamente all’indirizzo [https://alice.ch](https://alice.ch) &gt; Qualità &gt; eduQua (Label di qualità).
+[^36-6]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^36-7]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^36-8]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+[^36-9]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 
 #### Art. 37
 
-**Obblighi dei commercianti di bestiame**[^37-1]
+**Portare con sé la patente per il commercio di bestiame**[^37-1]
 
-I commercianti di bestiame sono tenuti a:
+I commercianti di bestiame devono portare con sé la patente per il commercio di bestiame durante il commercio e il trasporto degli animali.
 
-- a. notificare senza indugio a un veterinario il sospetto o la comparsa di un’epizoozia nonché una maggiore frequenza di morti o aborti;
-- b. utilizzare per il trasporto esclusivamente i veicoli di cui all’articolo 25 capoverso 1;
-- c. informare il personale sull’osservanza delle prescrizioni e a provvedere alla sua formazione e al suo perfezionamento periodici;
-- d. controllare regolarmente le notifiche di epizoozie dell’USAV;
-- e. portare con sé la patente per il commercio di bestiame durante il commercio e il trasporto degli animali.
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
-[^37-1]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
+#### Art. 37a e 37b
 
-#### Art. 37a
+[^37a37b-1]
 
-**Requisiti delle stalle**[^37a-1]
-
-La stalla di un commerciante di bestiame deve essere dotata di:
-
-- a. sufficiente capacità per l’isolamento degli animali malati;
-- b. se del caso, sufficiente capacità per l’isolamento di animali destinati all’esportazione;
-- c. strutture adeguate per scaricare, ricoverare, abbeverare, foraggiare e curare gli animali;
-- d. una superficie adeguata per la raccolta dello strame e del letame;
-- e. una vasca di raccolta per il colaticcio.
-
-[^37a-1]: Introdotto dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-
-#### Art. 37b
-
-***S*orveglianza da parte del veterinario ufficiale**[^37b-1]
-
-Il veterinario cantonale dispone che le stalle dei commercianti di bestiame e le registrazioni sul traffico di animali siano sottoposte, a intervalli di tempo regolari, a un controllo basato sui rischi da parte del veterinario ufficiale.
-
-[^37b-1]: Introdotto dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
+[^37a37b-1]: Introdotti dalla cifra I dell’O del 19 ago. 2009 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Abrogati dalla cifra I dell’O del 6 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### Sezione 8: Macelli
 
@@ -1444,12 +1479,12 @@ Il veterinario cantonale dispone che le stalle dei commercianti di bestiame e le
 
 **Requisiti per i macelli**
 
-<sup>1</sup> I requisiti di polizia epizootica riguardanti la gestione e gli impianti dei macelli sono stabiliti sulla base dell’articolo 4 dell’ordinanza del 23 novembre 2005[^38-1] concernente la macellazione e il controllo delle carni.[^38-2]
+<sup>1</sup> I requisiti di polizia epizootica riguardanti la gestione e gli impianti dei macelli sono stabiliti sulla base dell’articolo 4 OMCC[^38-1].[^38-2]
 
 <sup>2</sup> Nei grandi stabilimenti di macellazione, il veterinario ufficiale[^38-3] allestisce un catalogo di provvedimenti urgenti da applicare qualora venga accertata o sospettata un’epizoozia altamente contagiosa.
 
-[^38-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II n. 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
-[^38-2]: Nuovo testo giusta l’all. cifra II n. 3 dell’O del 23 nov. 2005 concernente la macellazione e il controllo delle carni, in vigore dal 1° gen. 2006 ([RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747)).
+[^38-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^38-3]: Nuova espr. giusta l’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 9: Tassa di macellazione
@@ -1527,13 +1562,14 @@ Nel caso dell’insorgenza di un’epizoozia che può essere propagata mediante 
 
 **Prodotti destinati alla diagnosi, alla prevenzione e alla cura di epizoozie**[^48-1]
 
-<sup>1</sup> Ai fini della diagnosi, della prevenzione e della cura di epizoozie possono essere utilizzati soltanto prodotti immunologici omologati dall’Istituto svizzero per gli agenti terapeutici in conformità alla legislazione sugli agenti terapeutici e inoltre approvati dall’USAV. L’USAV rilascia l’approvazione, nella misura in cui l’utilizzo del prodotto immunologico non è vietato in base alla presente ordinanza. I prodotti immunologici possono essere forniti soltanto a veterinari e ad autorità.
+<sup>1</sup> Ai fini della diagnosi, della prevenzione e della cura di epizoozie possono essere utilizzati soltanto prodotti immunologici omologati dall’Istituto svizzero per gli agenti terapeutici o da un Paese con un controllo dei medicamenti equivalente e inoltre approvati dall’USAV. L’USAV rilascia l’approvazione, nella misura in cui l’utilizzo del prodotto immunologico non è vietato in base alla presente ordinanza. I prodotti immunologici possono essere forniti soltanto a veterinari e ad autorità. [^48-2]
 
 <sup>2</sup> L’USAV pubblica periodicamente l’elenco dei preparati immunologici approvati a tale scopo.
 
 <sup>3</sup> L’USAV può vietare l’offerta di sostanze o di prodotti per la prevenzione o la cura di epizoozie, qualora non ne sia stata accertata scientificamente l’efficacia.
 
 [^48-1]: Nuovo testo giusta l’all. n. 5 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 49
 
@@ -1795,13 +1831,13 @@ Il veterinario predispone conformemente alle prescrizioni dell’USAV:
 
 <sup>2</sup> Devono collaborare con gli organi della polizia epizootica nell’attuazione di provvedimenti nei propri effettivi, come la sorveglianza e l’analisi degli animali, la registrazione, l’identificazione, la vaccinazione, l’uccisione e il carico, e mettere a disposizione il materiale necessario, ove disponibile. Devono garantire che sia disponibile lʼinfrastruttura per immobilizzare gli animali e che questi ultimi siano abituati al contatto con le persone e allʼimmobilizzazione. Per la loro collaborazione non hanno diritto ad alcuna indennità.[^59-4]
 
-<sup>3</sup> Gli apicoltori sono tenuti a prendersi regolarmente cura degli apiari occupati e di quelli vuoti e ad adottare tutti i provvedimenti necessari al fine di evitare che l’apiario diventi una fonte di propagazione di epizoozie. Le arnie devono essere costruite in modo che in ogni momento sia possibile accedervi per i controlli e aprire i favi.[^59-5]
+<sup>3</sup> Gli apicoltori sono tenuti a prendersi regolarmente cura degli apiari occupati e di quelli vuoti e ad adottare tutti i provvedimenti necessari al fine di evitare che l’apiario diventi una fonte di propagazione di epizoozie. Le dimore fornite dall’essere umano alle api devono essere costruite in modo che in ogni momento sia possibile accedervi per i controlli e aprire i favi.[^59-5]
 
 [^59-1]: Introdotta dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^59-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^59-3]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^59-4]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^59-5]: Introdotto dalla cifra I dell’O del 19 ago. 2009 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^59-5]: Introdotto dalla cifra I dell’O del 19 ago. 2009 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 59a
 
@@ -1827,7 +1863,7 @@ Le disposizioni della presente sezione sono applicabili, sempreché non siano pr
 
 <sup>1bis</sup> ...[^61-1]
 
-<sup>2</sup> Lʼobbligo di notifica incombe anche agli assistenti specializzati ufficiali, ai collaboratori dei servizi sanitari del bestiame e a quelli che garantiscono il controllo della produzione primaria, ai tecnici dʼinseminazione, al personale delle aziende di eliminazione, al personale dei macelli, come pure ai funzionari di polizia e di dogana.[^61-2]
+<sup>2</sup> L’obbligo di notifica incombe anche agli assistenti specializzati ufficiali, al personale dei servizi di sanità animale e a quello che garantisce il controllo della produzione primaria, ai tecnici d’inseminazione, ai commercianti di bestiame e al loro personale, al personale delle aziende di eliminazione e delle imprese di trasporto, al personale dei macelli, come pure al personale delle autorità di polizia e di dogana.[^61-2]
 
 <sup>3</sup> In caso di epizoozie delle api o di loro sospetto, la notifica deve essere rivolta all’ispettore degli apiari.
 
@@ -1838,7 +1874,7 @@ Le disposizioni della presente sezione sono applicabili, sempreché non siano pr
 <sup>6</sup> I cacciatori e gli organi di sorveglianza della caccia hanno l’obbligo di notificare senza indugio a un veterinario ufficiale la comparsa di un’epizoozia e ogni sintomo sospetto che ne fa supporre la comparsa negli animali selvatici che vivono in libertà.[^61-4]
 
 [^61-1]: Introdotto dalla cifra I dell’O dell’8 giu. 1998 ([RU 1998 1575](https://fedlex.data.admin.ch/eli/oc/1998/1575_1575_1575)). Abrogato dalla cifra I dell’O del 25 apr. 2018, con effetto dal 1° gen. 2020 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^61-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
+[^61-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^61-3]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^61-4]: Introdotto dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
@@ -2049,7 +2085,7 @@ Il movimento delle merci è limitato nel seguente modo:
 
 **Competenze**
 
-<sup>1</sup> Per le disinfezioni ordinate dalle autorità ufficiali possono essere impiegati soltanto mezzi che possono essere immessi in commercio conformemente all’ordinanza del 18 maggio 2005[^74-1] sui biocidi.[^74-2]
+<sup>1</sup> Per le disinfezioni ordinate dalle autorità ufficiali possono essere impiegati soltanto mezzi che possono essere immessi in commercio conformemente all’OBioc[^74-1].[^74-2]
 
 <sup>2</sup> L’USAV emana prescrizioni tecniche sulla pulizia, la disinfezione e la disinfestazione, come pure sui mezzi da impiegare per la disinfezione nelle singole epizoozie.
 
@@ -2060,7 +2096,7 @@ Il movimento delle merci è limitato nel seguente modo:
 <sup>5</sup> In caso di epizoozie altamente contagiose, i Cantoni possono affidare la pulizia e la disinfezione a imprese specializzate e far partecipare i detentori alle spese.
 
 [^74-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^74-2]: Nuovo testo giusta la cifra II n. 20 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^74-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^74-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 
 ### Sezione 5: Indennità per perdite di animali
@@ -2228,12 +2264,13 @@ I veterinari e i laboratori d’analisi che sospettano o diagnosticano l’esist
 Egli ordina inoltre i seguenti provvedimenti:
 
 - a.[^84-2] il sequestro rinforzato dell’effettivo;
-- b. l’apposizione degli affissi gialli (art. 87 cpv. 3 lett. a);
-- c.[^84-3] ulteriori analisi per chiarire il sospetto di epizoozia, d’intesa con il laboratorio nazionale di riferimento competente.
+- b.[^84-3] ...
+- c.[^84-4] ulteriori analisi per chiarire il sospetto di epizoozia, d’intesa con il laboratorio nazionale di riferimento competente.
 
 [^84-1]: Nuovo testo giusta l’all. 3 cifra II n. 8 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 [^84-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^84-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^84-3]: Abrogata dalla cifra I dell’O del 6 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^84-4]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 85
 
@@ -2245,13 +2282,13 @@ Egli ordina inoltre i seguenti provvedimenti:
 
 Egli ordina inoltre i seguenti provvedimenti:
 
-- a. l’apposizione degli affissi gialli (art. 87 cpv. 3 lett. a);
-- b. l’uccisione immediata sul posto di tutti gli animali ricettivi dell’effettivo[^85-2] sotto sorveglianza del veterinario ufficiale;
+- a.[^85-2] ...
+- b. l’uccisione immediata sul posto di tutti gli animali ricettivi dell’effettivo[^85-3] sotto sorveglianza del veterinario ufficiale;
 - c. l’eliminazione di tutti gli animali uccisi o morti sotto sorveglianza del veterinario ufficiale;
 - d. il sequestro o l’uccisione di piccoli animali domestici come cani, gatti, pollame e conigli, se si suppone che possano propagare l’epizoozia;
 - e. la disinfezione preliminare, la pulizia, la disinfezione e la disinfestazione.
 
-<sup>2bis</sup> Nel caso degli animali acquatici può, in deroga al capoverso 2 lettera b, autorizzare la macellazione ordinando simultaneamente i necessari provvedimenti di sicurezza.[^85-3]
+<sup>2bis</sup> Nel caso degli animali acquatici può, in deroga al capoverso 2 lettera b, autorizzare la macellazione ordinando simultaneamente i necessari provvedimenti di sicurezza.[^85-4]
 
 <sup>2ter</sup>
 
@@ -2259,14 +2296,15 @@ In deroga al capoverso 2 lettera b, il veterinario cantonale può, d’intesa co
 
 - a. animali di specie rare o protette;
 - b. animali tenuti per scopi scientifici;
-- c. animali che hanno un valore genetico particolare.[^85-4]
+- c. animali che hanno un valore genetico particolare.[^85-5]
 
 <sup>3</sup> D’intesa con l’USAV, il veterinario cantonale estende i provvedimenti previsti dai capoversi 1 e 2 agli effettivi esposti al contagio diretto a causa della loro ubicazione.
 
 [^85-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^85-2]: Nuovo termine giusta il n. 1 dell’O del 15 mar. 1999, in vigore dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^85-3]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^85-2]: Abrogata dalla cifra I dell’O del 6 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^85-3]: Nuovo termine giusta il n. 1 dell’O del 15 mar. 1999, in vigore dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^85-4]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^85-5]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 86
 
@@ -2284,18 +2322,47 @@ In deroga al capoverso 2 lettera b, il veterinario cantonale può, d’intesa co
 
 #### Art. 87
 
-**Informazione**
+**Obbligo d’informazione**[^87-1]
 
 <sup>1</sup> L’USAV e il veterinario cantonale informano la popolazione sulla comparsa di un’epizoozia altamente contagiosa.
 
-<sup>2</sup> Il veterinario cantonale vigila affinché le prescrizioni ordinate nelle zone di protezione e di sorveglianza siano rese note mediante affissi.
+<sup>2</sup>
 
-<sup>3</sup>
+Il veterinario cantonale informa inoltre in merito a:
 
-Sulla base dei modelli dell’USAV, devono essere utilizzati i seguenti affissi:
+- a. i principali sintomi dell’epizoozia in questione;
+- b. i provvedimenti nei confronti degli effettivi sotto sequestro;
+- c. ulteriori provvedimenti nelle zone di protezione e di sorveglianza nonché nelle zone di controllo e di osservazione.
 
-- a. affissi gialli per gli effettivi sotto sequestro; essi contengono indicazioni sulla motivazione dei provvedimenti di sequestro (sospetto o caso di epizoozia), le prescrizioni di sequestro e le pene in caso di infrazione alle prescrizioni della polizia epizootica;
-- b. affissi rossi che devono essere apposti agli albi pubblici all’interno delle zone di protezione e di sorveglianza, con l’indicazione dei principali sintomi della malattia e delle regole di comportamento e con un estratto delle relative prescrizioni.
+<sup>3</sup> Per le informazioni utilizza i modelli dell’USAV.
+
+[^87-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 87a
+
+**Informazione sui provvedimenti nei confronti degli effettivi sotto sequestro**[^87a-1]
+
+<sup>1</sup>
+
+L’informazione sui provvedimenti nei confronti degli effettivi sotto sequestro deve contenere almeno le seguenti indicazioni:
+
+- a. regole di comportamento;
+- b. indicazioni sulla motivazione dei provvedimenti.
+
+<sup>2</sup> Essa viene apposta all’ingresso del rispettivo effettivo.
+
+[^87a-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 87b
+
+**Informazione sugli ulteriori provvedimenti nelle zone di protezione e di sorveglianza nonché nelle zone di controllo e di osservazione**[^87b-1]
+
+L’informazione sugli ulteriori provvedimenti nelle zone di protezione e di sorveglianza nonché nelle zone di controllo e di osservazione deve contenere almeno:
+
+- a. regole di comportamento;
+- b. estratti delle prescrizioni in materia o rimandi ad esse.
+
+[^87b-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 88
 
@@ -2331,7 +2398,7 @@ Sulla base dei modelli dell’USAV, devono essere utilizzati i seguenti affissi:
 Il veterinario cantonale provvede a:
 
 - a.[^89-1] l’applicazione immediata dei provvedimenti concernenti il movimento di animali, merci e persone (art. 90–93);
-- b. l’apposizione degli affissi rossi (art. 87 cpv. 3 lett. b);
+- b.[^89-2] ...
 - c. il prelievo di campioni e l’analisi veterinaria degli effettivi in cui si trovano animali delle specie ricettive;
 - d. la tenuta del controllo degli effettivi da parte del detentore di animali; e
 - e. la pulizia e la disinfezione dei mezzi di trasporto per gli animali.
@@ -2339,6 +2406,7 @@ Il veterinario cantonale provvede a:
 <sup>2</sup> L’USAV emana prescrizioni tecniche sulla portata delle analisi veterinarie e la tenuta dei controlli degli effettivi.
 
 [^89-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^89-2]: Abrogata dalla cifra I dell’O del 6 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 90
 
@@ -2446,12 +2514,13 @@ Dopo la reintroduzione di animali, l’azienda è posta sotto sorveglianza uffic
 
 Su proposta del veterinario cantonale e nella misura in cui la situazione epizoologica lo consenta, l’USAV può autorizzare:
 
-- a. una riduzione del raggio delle zone di protezione e di sorveglianza (art. 88 cpv. 1 e 2);
+- a.[^95-1] una riduzione del raggio delle zone di protezione e di sorveglianza (art. 88 cpv. 1 e 2) o rinunciare alla loro delimitazione;
 - b. l’estivazione e lo svernamento nelle zone di protezione e di sorveglianza (art. 90 e 92);
-- c.[^95-1] ...
+- c.[^95-2] ...
 - d. la macellazione di animali non sospetti fuori dalle zone di protezione e di sorveglianza se queste sussistono da più di 21 giorni (art. 90 e 92).
 
-[^95-1]: Abrogata dalla cifra I dell’O del 15 mar. 1999, con effetto dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^95-2]: Abrogata dalla cifra I dell’O del 15 mar. 1999, con effetto dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
 
 #### Art. 96
 
@@ -2611,11 +2680,12 @@ Per le zone di protezione e di sorveglianza, il veterinario cantonale può ordin
 
 <sup>1</sup> Le disposizioni della presente sezione sono applicabili nella lotta contro la morva in cavalli, asini e zebre e loro incroci.
 
-<sup>2</sup> L’USAV definisce i metodi di analisi per la messa in evidenza della morva. Tiene conto al riguardo dei metodi di analisi riconosciuti dall’Ufficio internazionale delle epizoozie.
+<sup>2</sup> L’USAV definisce i metodi di analisi per la messa in evidenza della morva. Tiene conto al riguardo dei metodi di analisi riconosciuti dall’Organizzazione mondiale della sanità animale[^105-2].
 
 <sup>3</sup> Il periodo d’incubazione è di 180 giorni.
 
 [^105-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^105-2]: Nuova espressione giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)). Di detta mod. è tenuto conto in tutto il pesente testo.
 
 #### Art. 105a
 
@@ -2817,16 +2887,17 @@ Dopo aver consultato i Cantoni, l’USAV può stabilire un programma:
 
 <sup>1</sup>
 
-In caso di sospetto di epizoozia di peste equina o di contagio, il veterinario cantonale ordina il sequestro semplice di 1° grado dell’effettivo sospetto. Egli ordina inoltre:
+In deroga all’articolo 84 capoverso 2 lettera a, in caso di sospetto di epizoozia di peste equina o di contagio, il veterinario cantonale ordina il sequestro semplice di 1° grado dell’effettivo sospetto. Egli ordina inoltre: [^112b-1]
 
-- a.[^112b-1] l’analisi dei virus della peste equina sugli animali interessati;
+- a.[^112b-2] l’analisi dei virus della peste equina sugli animali interessati;
 - b. provvedimenti che permettono di ridurre la popolazione di insetti vettori.
 
 <sup>2</sup> Il sospetto è considerato confutato quando non si riscontrano più virus.
 
 <sup>3</sup> L’USAV emana prescrizioni tecniche riguardo al prelievo dei campioni e alla loro analisi, nonché riguardo ai provvedimenti che permettono di ridurre la popolazione di insetti vettori.
 
-[^112b-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^112b-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^112b-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 112c
 
@@ -2834,7 +2905,7 @@ In caso di sospetto di epizoozia di peste equina o di contagio, il veterinario c
 
 <sup>1</sup>
 
-In caso di diagnosi di peste equina, il veterinario cantonale ordina il sequestro semplice di 1° grado dell’effettivo infetto. Egli ordina inoltre:
+In deroga all’articolo 85 capoverso 1, in caso di diagnosi di peste equina, il veterinario cantonale ordina il sequestro semplice di 1° grado dell’effettivo infetto. Egli ordina inoltre:[^112c-1]
 
 - a. l’uccisione e l’eliminazione degli animali infetti;
 - b. provvedimenti che permettono di ridurre la popolazione di insetti vettori.
@@ -2854,6 +2925,8 @@ Egli revoca i provvedimenti di sequestro se tutti gli animali ricettivi dell’e
 - b. sono stati vaccinati contro la peste equina e da allora sono trascorsi almeno 30 giorni.
 
 <sup>4</sup> In deroga al capoverso 1 lettera a, l’USAV può ordinare che si rinunci all’uccisione e all’eliminazione degli animali infetti se ciò non permette di impedire la propagazione della peste equina.
+
+[^112c-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 112d
 
@@ -2968,10 +3041,12 @@ I provvedimenti di sequestro nelle zone di sorveglianza possono essere revocati:
 
 **Reintroduzione di animali**
 
-Dopo la revoca del sequestro semplice di 2° grado, i suini possono essere reintrodotti nell’azienda alle seguenti condizioni:
+In deroga all’articolo 94*a*, i suini possono essere reintrodotti nell’azienda alle seguenti condizioni:[^120-1]
 
 - a. in caso di detenzione all’aperto, dopo che due analisi sierologiche a distanza di tre settimane effettuate su suinetti-sentinella hanno dato un risultato negativo;
 - b. in caso di altre forme di detenzione, conformemente alla lettera a oppure immediatamente; in quest’ultimo caso è ordinato il sequestro semplice di 1° grado dell’effettivo per la durata di 60 giorni, il quale è revocato solo se l’analisi sierologica di un numero rappresentativo di suini ha dato un risultato negativo.
+
+[^120-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 121
 
@@ -2990,8 +3065,8 @@ In caso di sospetto di peste suina di cinghiali in libertà, il veterinario cant
 In caso di diagnosi di peste suina di cinghiali in libertà:
 
 - a.[^121-1] previa consultazione dei veterinari cantonali, l’USAV stabilisce zone di sequestro iniziale, di controllo e di osservazione e ordina le analisi necessarie per determinare la diffusione dell’epizoozia;
-- b.[^121-2] l’USAV elabora, in collaborazione con l’UFAM, l’UFAG, il veterinario cantonale, le autorità cantonali in materia di caccia e agricoltura e altri specialisti, provvedimenti per eradicare l’epizoozia;
-- c.[^121-3] il veterinario cantonale stabilisce la delimitazione esatta delle zone di controllo e di osservazione e ordina i necessari provvedimenti di biosicurezza atti a evitare i contatti tra suini domestici e cinghiali;
+- b.[^121-2] l’USAV definisce, d’intesa con l’UFAM, l’UFAG, il veterinario cantonale, le autorità cantonali in materia di caccia e agricoltura e altri specialisti, provvedimenti per eradicare l’epizoozia;
+- c.[^121-3] il veterinario cantonale stabilisce la delimitazione esatta delle zone di sequestro iniziale, di controllo e di osservazione e ordina i necessari provvedimenti di biosicurezza atti a evitare i contatti tra suini domestici e cinghiali;
 - d.[^121-4] ...
 
 <sup>2bis</sup>
@@ -3011,8 +3086,8 @@ Nelle zone di sequestro iniziale, di controllo e di osservazione il veterinario 
 <sup>3</sup> D’intesa con l’UFAM, l’USAV emana prescrizioni tecniche sui provvedimenti da adottare per lottare contro la peste suina dei cinghiali in libertà.[^121-7]
 
 [^121-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^121-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^121-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^121-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^121-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^121-4]: Introdotta dalla cifra I dell’O del 9 apr. 2003 ([RU 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)). Abrogata dalla cifra I dell’O del 31 ago. 2022, con effetto dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^121-5]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^121-6]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -3166,25 +3241,20 @@ All’interno delle zone di controllo e di osservazione può inoltre:
 
 La malattia di Newcastle è diagnosticata se:
 
-- a.
+- a.[^123-2] è messo in evidenza l’ortoavulavirus aviario di tipo 1 (*Orthoavulavirus javaense*); oppure
+- b. vengono messi in evidenza anticorpi dell’ortoavulavirus aviario di tipo 1.[^123-3]
 
-  è causata da un ortoavulavirus aviario di tipo 1:
-
-  - 1\. con una sequenza genomica che codifica gli amminoacidi basici multipli al C-terminale della proteina F2 e fenilalanina al residuo 117, l’N-terminale della proteina F1, o
-  - 2\. con un indice di patogenicità intracerebrale superiore a 0,7; oppure
-
-- b. vengono messi in evidenza anticorpi dell’ortoavulavirus aviario di tipo 1.[^123-2]
-
-<sup>1ter</sup> In deroga al capoverso 1<sup>bis</sup> lettera b, la malattia di Newcastle non è diagnosticata se nei piccioni sono stati messi in evidenza anticorpi.[^123-3]
+<sup>1ter</sup> In deroga al capoverso 1<sup>bis</sup> lettera b, la malattia di Newcastle non è diagnosticata se nei piccioni sono stati messi in evidenza anticorpi.[^123-4]
 
 <sup>2</sup> Il periodo di incubazione è di 21 giorni.
 
-<sup>3</sup> L’USAV emana prescrizioni tecniche riguardo ai provvedimenti contro la malattia di Newcastle.[^123-4]
+<sup>3</sup> L’USAV emana prescrizioni tecniche riguardo ai provvedimenti contro la malattia di Newcastle.[^123-5]
 
 [^123-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^123-2]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^123-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^123-3]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^123-4]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^123-4]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^123-5]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 123a
 
@@ -3194,12 +3264,14 @@ La malattia di Newcastle è diagnosticata se:
 
 <sup>2</sup> Il veterinario cantonale provvede affinché i prodotti, provenienti da effettivi infetti, come la carne di pollame, le uova da consumo, le uova da cova e i pulcini prodotti nel periodo compreso tra la presunta propagazione dell’epizoozia e il momento in cui sono stati ordinati i provvedimenti di sequestro, siano individuati ed eliminati come sottoprodotti della categoria 2 secondo l’articolo 6 OSOAn[^123a-2]. Occorre eliminare anche i contenitori di trasporto e gli imballaggi per uova provenienti dall’effettivo infetto, se questi non possono essere convenientemente puliti e disinfettati.
 
-<sup>3</sup> In deroga all’articolo 94 capoverso 2, trascorsi dieci giorni il veterinario cantonale d’intesa con l’USAV può revocare il sequestro semplice di 2° grado di effettivi sospetti di contagio se l’esame clinico di tutti gli animali ricettivi come pure l’esame sierologico del sangue e la messa in evidenza del genoma virale effettuati su un campione di animali sospetti di contagio hanno avuto esito negativo.
+<sup>3</sup> In deroga all’articolo 94 capoverso 2, trascorsi dieci giorni il veterinario cantonale d’intesa con l’USAV può revocare il sequestro rinforzato di effettivi sospetti di contagio se l’esame clinico di tutti gli animali ricettivi come pure l’esame sierologico del sangue e la messa in evidenza del genoma virale effettuati su un campione di animali sospetti di contagio hanno avuto esito negativo.[^123a-3]
 
-<sup>4</sup> Il sequestro semplice di 2° grado dell’effettivo infetto viene revocato trascorsi 21 giorni, dopo l’eliminazione di tutti gli animali delle specie ricettive, la pulizia e la disinfezione.
+<sup>4</sup> Il sequestro rinforzato dell’effettivo infetto viene revocato trascorsi 21 giorni, dopo l’eliminazione di tutti gli animali delle specie ricettive, la pulizia e la disinfezione.[^123a-4]
 
 [^123a-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^123a-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^123a-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^123a-4]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 123b
 
@@ -3240,14 +3312,14 @@ Se autorizza le deroghe di cui al capoverso 2, il veterinario cantonale provvede
 
 <sup>1</sup> Se la malattia di Newcastle si manifesta nei piccioni, le prescrizioni relative alle zone di protezione e di sorveglianza non si applicano.
 
-<sup>2</sup> In deroga all’articolo 81 è ammessa la vaccinazione di piccioni con un vaccino inattivato omologato dall’Istituto svizzero per gli agenti terapeutici e approvato dall’USAV.[^124-2]
+<sup>2</sup> In deroga all’articolo 81 è ammessa la vaccinazione di piccioni con un vaccino inattivato.[^124-2]
 
 <sup>3</sup> I piccioni viaggiatori che partecipano a manifestazioni come fiere o gare di volo devono essere vaccinati con un vaccino ai sensi del capoverso 2. In merito alla vaccinazione suddetta, un certificato veterinario recante il numero dell’anello apposto alla zampa deve attestare che i piccioni viaggiatori sono stati vaccinati entro i sette mesi che precedono la manifestazione ma almeno tre settimane prima di quest’ultima.
 
 <sup>4</sup> D’intesa con l’USAV, il veterinario cantonale può concedere deroghe all’uccisione di piccioni prevista dall’articolo 85 capoverso 2 lettera b.
 
 [^124-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^124-2]: Nuovo testo giusta l’all. n. 5 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^124-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 125
 
@@ -3325,7 +3397,7 @@ Le disposizioni della presente sezione si applicano alle epizoozie da eradicare,
 
 <sup>1</sup> Il detentore di animali notifica ad un veterinario tutti gli aborti nelle femmine della specie bovina gravide da almeno tre mesi, come pure tutti gli aborti nelle femmine delle specie ovina, caprina e suina.[^129-1]
 
-<sup>2</sup> Se si verifica un aborto nella stalla di un commerciante o durante l’estivazione, o se in un effettivo di animali ad unghia fessa nell’arco di quattro mesi ha abortito più di una femmina, il veterinario è tenuto a svolgere un’analisi.[^129-2]
+<sup>2</sup> Se si verifica un aborto in un’azienda detentrice di animali di un commerciante di bestiame o durante l’estivazione, o se in un effettivo di animali a unghia fessa nell’arco di quattro mesi ha abortito più di una femmina, il veterinario è tenuto a svolgere un’analisi.[^129-2]
 
 <sup>3</sup>
 
@@ -3340,7 +3412,7 @@ L’analisi comprende:
 <sup>5</sup> Il veterinario cantonale ordina altre analisi a seconda dei casi.
 
 [^129-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^129-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^129-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^129-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^129-4]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
@@ -3426,9 +3498,11 @@ In caso di diagnosi di carbonchio ematico, il veterinario cantonale ordina, nell
 
 #### Art. 137
 
-**Riconoscimento ufficiale**
+**Riconoscimento ufficiale**[^137-1]
 
-Tutti gli effettivi di suini sono riconosciuti ufficialmente indenni dalla malattia di Aujeszky. In caso di sospetto o di infezione, agli effettivi interessati è tolto il riconoscimento ufficiale fino alla revoca del sequestro.
+Tutti gli effettivi di suini sono riconosciuti ufficialmente indenni dalla malattia di Aujeszky. In caso di sospetto di epizoozia o in caso di epizoozia, agli effettivi interessati è sospeso o revocato il riconoscimento ufficiale fino alla revoca del sequestro.
+
+[^137-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 138
 
@@ -3814,9 +3888,12 @@ In caso di diagnosi di tubercolosi in animali selvatici in libertà, dopo aver c
 
 <sup>2</sup> Il periodo d’incubazione è di 120 giorni.[^166-3]
 
+<sup>3</sup> L’USAV emana prescrizioni tecniche sul prelievo dei campioni e sulla loro analisi.[^166-4]
+
 [^166-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^166-2]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^166-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^166-4]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 167
 
@@ -3891,7 +3968,10 @@ Il veterinario cantonale revoca il sequestro dopo che:
 
 <sup>2</sup> Il periodo d’incubazione è di 30 giorni.
 
+<sup>3</sup> L’USAV emana prescrizioni tecniche sul prelievo dei campioni e sulla loro analisi.[^170-2]
+
 [^170-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^170-2]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 171
 
@@ -3915,7 +3995,14 @@ In caso di sospetto di infezione o di contaminazione da IBR/IPV, il veterinario 
 - a. il sequestro semplice di 1° grado fino all’invalidazione del sospetto, e
 - b. l’analisi sierologica di tutti gli animali.
 
-<sup>2</sup> Il sospetto di epizoozia è invalidato quando una nuova analisi sierologica di tutti gli animali, effettuata dopo 30 giorni, risulta negativa.
+<sup>2</sup>
+
+Il sospetto di epizoozia è invalidato quando:
+
+- a. una nuova analisi sierologica di tutti gli animali, effettuata dopo 30 giorni, risulta negativa; oppure
+- b. un’infezione da herpesvirus bovino di tipo 1 è stata esclusa mediante diagnosi di laboratorio.[^172-1]
+
+[^172-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 173
 
@@ -3968,10 +4055,11 @@ Il seme dei tori la cui analisi sierologica è od era positiva non può essere i
 
 <sup>1</sup> Tutti gli effettivi di bovini, bufali e bisonti sono riconosciuti ufficialmente indenni da BVD. In caso di sospetto di contagio, di sospetto di epizoozia o di epizoozia, all’effettivo interessato è sospeso o revocato il riconoscimento ufficiale fino alla cessazione di tutti i sequestri.[^174b-2]
 
-<sup>2</sup> L’USAV emana prescrizioni tecniche riguardo allo svolgimento della sorveglianza degli effettivi di animali. Esso può inoltre prescrivere l’esame virologico riguardo alla BVD nei vitelli neonati e in quelli nati morti entro cinque giorni dal parto, e imporre un divieto di trasferimento per i vitelli neonati fino all’esito negativo delle analisi.
+<sup>2</sup> L’USAV emana prescrizioni tecniche riguardo allo svolgimento della sorveglianza degli effettivi di animali. Esso può inoltre prescrivere l’esame virologico riguardo alla BVD nei vitelli neonati e in quelli nati morti entro cinque giorni dal parto, e imporre un divieto di trasferimento per i vitelli neonati fino all’esito negativo delle analisi.[^174b-3]
 
 [^174b-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^174b-2]: Correzione del 22 set. 2023 ([RU 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
+[^174b-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174c
 
@@ -4028,35 +4116,37 @@ In caso di sospetto di epizoozia, per tutti gli effettivi dell’azienda detentr
 
 <sup>1</sup>
 
-In caso di diagnosi di BVD il veterinario cantonale ordina il sequestro semplice di 1° grado di tutti gli effettivi dell’azienda detentrice di animali infetta. Ordina inoltre:[^174e-2]
+In caso di diagnosi di BVD, il veterinario cantonale ordina il sequestro semplice di 1° grado di tutti gli effettivi dell’azienda detentrice di animali infetta. Ordina inoltre:
 
-- a. la macellazione dell’animale infetto e dei discendenti delle femmine infette;
+- a. la macellazione dell’animale infetto e dei discendenti diretti delle femmine infette;
 - b. l’individuazione e l’esame virologico della madre dell’animale infetto;
 - c. lo svolgimento di accertamenti epidemiologici al fine di identificare la fonte del contagio;
-- d.[^174e-3] l’identificazione degli animali entrati in contatto con l’animale infetto e per i quali non si può escludere una gravidanza;
+- d. l’identificazione degli animali entrati in contatto con gli animali infetti e per i quali non si può escludere una gravidanza;
 - e. l’esame virologico dei vitelli e dei vitelli nati morti, partoriti da bovine di cui alla lettera d, entro cinque giorni dal parto;
 - f. il divieto di trasferimento delle bovine di cui alla lettera d, il quale cessa se le bovine risultano non gravide o in caso di fine prematura della gravidanza, oppure se l’esito dell’esame virologico del vitello o del vitello nato morto è negativo;
-- g. il divieto di trasferimento dei vitelli di cui alla lettera e, il quale cessa se l’esito dell’esame virologico è negativo.
+- g. il divieto di trasferimento dei vitelli di animali di cui alla lettera d, il quale cessa se l’esito dell’esame virologico è negativo;
+- h. l’elaborazione e l’attuazione di un piano di risanamento individuale.
 
-<sup>2</sup> Al termine degli accertamenti epidemiologici il veterinario cantonale revoca il sequestro semplice di 1° grado, tuttavia solo dopo 14 giorni dall’eliminazione di tutti gli animali infetti dell’effettivo.
+<sup>2</sup> Egli revoca il sequestro semplice di 1° grado non appena sono stati eliminati tutti gli animali infetti dell’effettivo, sono stati conclusi gli accertamenti epidemiologici ed è stata esclusa mediante diagnosi di laboratorio una circolazione del virus nell’effettivo.
 
-<sup>2bis</sup> Al più tardi un anno dopo la revoca di tutti i sequestri, il veterinario cantonale ordina un’analisi sierologica di un gruppo di bovini dell’effettivo riguardo alla BVD.[^174e-4]
+<sup>3</sup>
 
-<sup>3</sup> Dalla nascita di un animale ai sensi del capoverso 1 lettera d fino all’esito negativo dell’esame virologico del vitello o del vitello nato morto nessun animale può lasciare l’effettivo interessato. È consentita la cessione diretta di animali al macello.[^174e-5]
+Ordina che per 12 mesi dalla data di eliminazione dell’ultimo animale infetto dell’effettivo:
 
-[^174e-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^174e-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^174e-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^174e-4]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^174e-5]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+- a. le femmine di età superiore agli otto mesi siano sottoposte al divieto di trasferimento;
+- b. i vitelli neonati e quelli nati morti siano sottoposti a esame virologico riguardo alla BVD entro cinque giorni dal parto e che sia imposto un divieto di trasferimento per i vitelli neonati fino all’esito negativo dell’esame.
+
+<sup>4</sup> Dalla nascita di un animale ai sensi del capoverso 1 lettera d o del capoverso 3 lettera a fino all’esito negativo dell’esame virologico del vitello o del vitello nato morto nessun animale può lasciare l’azienda detentrice di animali in questione. È consentita la cessione diretta di animali al macello.
+
+[^174e-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174f
 
 **Mercati e fiere di bestiame**[^174f-1]
 
-Ai mercati e alle fiere di bestiame possono essere condotti soltanto animali provenienti da aziende detentrici di animali riconosciute indenni da BVD. Sono eccettuati i mercati di bestiame da macello se è garantita la cessione diretta al macello di tutti gli animali condotti a tali mercati.
+Ai mercati e alle esposizioni di bestiame possono essere condotti soltanto animali tenuti da almeno 30 giorni in aziende detentrici di animali riconosciute ufficialmente indenni da BVD.
 
-[^174f-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174f-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174g
 
@@ -4346,13 +4436,15 @@ Il periodo di incubazione è di 21 giorni.
 
 #### Art. 183
 
-**Riconoscimento ufficiale**
+**Riconoscimento ufficiale**[^183-1]
 
-Tutti gli effettivi di suini sono riconosciuti ufficialmente indenni da PRRS. In caso di sospetto o di epizoozia, all’effettivo colpito è tolto il riconoscimento ufficiale fino alla revoca del sequestro.
+Tutti gli effettivi di suini sono riconosciuti ufficialmente indenni dalla sindrome riproduttiva e respiratoria dei suini (PRRS). In caso di sospetto di epizoozia o in caso di epizoozia, all’effettivo colpito è sospeso o revocato il riconoscimento ufficiale fino alla revoca del sequestro.
+
+[^183-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 184
 
-**Caso di sospetto[^184-1]**
+**Caso di sospetto**[^184-1]
 
 <sup>1</sup>
 
@@ -4362,14 +4454,21 @@ Vi è sospetto di PRRS quando:
 - b. nell’arco di più settimane le perdite di lattonzoli superano il 15 per cento;
 - c. i decessi delle scrofe madri aumentano;
 - d. la capacità d’ingrasso scende di oltre il 20 per cento;
-- e. l’analisi sierologica su un animale è risultata positiva; oppure
-- f.[^184-2] per unʼinseminazione artificiale o un trasferimento embrionale sono stati utilizzati seme, ovuli o embrioni importati.
+- e. l’analisi sierologica su un animale è risultata positiva; oppure;
+- f. per un’inseminazione artificiale, un trasferimento di ovuli o di embrioni sono stati utilizzati seme, ovuli o embrioni importati.
 
-<sup>2</sup> Non vi è sospetto ai sensi del capoverso 1 lettera f se per unʼinseminazione artificiale o un trasferimento embrionale sono stati utilizzati seme, ovuli o embrioni congelati importati provenienti da un’azienda che è risultata negativa al test del virus di PRRS non prima di 90 giorni dopo il prelievo.[^184-3]
+<sup>2</sup>
 
-[^184-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^184-2]: Introdotta dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
-[^184-3]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014,([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). ). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
+Non vi è sospetto ai sensi del capoverso 1 lettera f se per un’inseminazione artificiale, un trasferimento di ovuli o di embrioni sono stati utilizzati seme, ovuli o embrioni congelati importati e se sono soddisfatte le seguenti condizioni:
+
+- a. il giorno del prelievo del materiale germinale agli animali donatori è stato prelevato sangue risultato sierologicamente e virologicamente negativo al test del virus di PRRS;
+- b. il seme prelevato dai verri donatori è stato analizzato per il virus della PRRS con esito negativo;
+- c. l’inseminazione, il trasferimento di ovuli o di embrioni avviene non prima di 90 giorni dopo il prelievo del materiale germinale. Nell’azienda in cui sono tenuti gli animali donatori, in questo periodo vengono eseguite regolari analisi sierologiche per la PRRS e queste analisi hanno dato esiti costantemente negativi;
+- d. i metodi utilizzati per le analisi di cui alle lettere a–c sono stati valutati dall’IVI e ritenuti adeguati.
+
+<sup>3</sup> Il capoverso 2 lettere a, b e d si applica, per analogia, al seme fresco, a condizione che provenga da un Paese riconosciuto indenne da PRRS.
+
+[^184-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 185
 
@@ -4381,22 +4480,25 @@ Vi è sospetto di PRRS quando:
 
 Ordina inoltre i seguenti provvedimenti:
 
-- a. l’analisi sierologica delle scrofe madri se sono emersi disturbi al sistema riproduttivo;
-- b. l’analisi sierologica di un campione rappresentativo di giovani animali di età superiore a dieci settimane quando nell’effettivo si sono manifestati altri problemi;
-- c. l’analisi sierologica di un campione rappresentativo di animali di tutte le unità produttive quando nell’effettivo non è emerso alcun problema;
+- a.[^185-1] l’analisi sierologica e virologica delle scrofe madri interessate se sono emersi disturbi al sistema riproduttivo;
+- b.[^185-2] l’analisi sierologica di un campione rappresentativo di animali della categoria di età interessata quando nell’effettivo si sono manifestati altri problemi;
+- c.[^185-3] l’analisi sierologica di un campione rappresentativo di animali dell’unità produttiva interessata quando l’analisi sierologica su un singolo animale è risultata positiva;
 - d. la messa in evidenza del virus quando il campione rappresentativo (lett. b e c) si compone di animali morti;
 - e. l’eliminazione del seme dei verri risultati positivi all’analisi sierologica;
-- f.[^185-1] lʼanalisi sierologica e la messa in evidenza del virus in un campione rappresentativo di scrofe madri sottoposte a inseminazione artificiale o a trasferimento embrionale per i quali sono stati utilizzati seme, ovuli o embrioni importati.
+- f.[^185-4] lʼanalisi sierologica e la messa in evidenza del virus in un campione rappresentativo di scrofe madri sottoposte a inseminazione artificiale o a trasferimento embrionale per i quali sono stati utilizzati seme, ovuli o embrioni importati.
 
-<sup>3</sup> La definizione del campione rappresentativo (cpv. 2 lett. b, c e f) avviene in base ai dati dell’effettivo e dopo aver consultato l’USAV.[^185-2]
+<sup>3</sup> La definizione del campione rappresentativo (cpv. 2 lett. b, c e f) avviene in base ai dati dell’effettivo e dopo aver consultato l’USAV.[^185-5]
 
-<sup>3bis</sup> Le analisi di cui al capoverso 2 lettera f possono essere effettuate al più presto 21 giorni dopo lʼinseminazione artificiale o il trasferimento embrionale.[^185-3]
+<sup>3bis</sup> Le analisi di cui al capoverso 2 lettera f possono essere effettuate al più presto 21 giorni dopo lʼinseminazione artificiale o il trasferimento embrionale.[^185-6]
 
 <sup>4</sup> Il veterinario cantonale revoca il sequestro se l’analisi degli animali secondo il capoverso 2 è risultata negativa.
 
-[^185-1]: Introdotta dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). ). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
-[^185-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^185-3]: Introdotto dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^185-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^185-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^185-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^185-4]: Introdotta dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). ). Correzione del 3 ago. 2023 ([RU 2023 442](https://fedlex.data.admin.ch/eli/oc/2023/442)).
+[^185-5]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^185-6]: Introdotto dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
 #### Art. 185a
 
@@ -4672,7 +4774,7 @@ Egli revoca il sequestro dopo che:
 
 <sup>1</sup> Le disposizioni della presente sezione sono applicabili nella lotta contro il morbo coitale maligno e l’anemia infettiva in cavalli, asini, zebre e loro incroci.[^204-1]
 
-<sup>2</sup> L’USAV determina i metodi d’analisi per diagnosticare le epizoozie equine. Tiene conto al riguardo dei metodi d’analisi riconosciuti dall’Ufficio internazionale delle epizoozie.
+<sup>2</sup> L’USAV determina i metodi d’analisi per diagnosticare le epizoozie equine. Tiene conto al riguardo dei metodi d’analisi riconosciuti dall’Organizzazione mondiale della sanità animale.
 
 [^204-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -5279,7 +5381,7 @@ Il sospetto di paratubercolosi è considerato confutato:
 
 <sup>1</sup>
 
-In qualsiasi caso di epizoozia, il veterinario cantonale ordina inoltre che:[^238a-1]
+<sup>1</sup> In caso di diagnosi di paratubercolosi, il veterinario cantonale ordina il sequestro semplice di 1° grado di tutti gli effettivi dell’azienda detentrice di animali infetta. Ordina inoltre che:[^238a-1]
 
 - a.[^238a-2] gli animali infetti siano isolati, uccisi ed eliminati;
 - a<sup>bis</sup>.[^238a-3] i discendenti di esemplari femmina di cui alla lettera a che sono nati entro gli ultimi 12 mesi prima del caso di epizoozia vengano isolati e macellati al più tardi entro l’età di 12 mesi;
@@ -5296,7 +5398,7 @@ Il veterinario cantonale revoca il sequestro di cui al capoverso 1 dopo che: [^2
 - a. l’analisi clinica si è conclusa senza individuare nessun animale sospetto; e
 - b.[^238a-7] gli animali infetti sono stati uccisi ed eliminati e le stalle sono state pulite e disinfettate.
 
-[^238a-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^238a-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^238a-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238a-3]: Introdotta dalla cifra I dell’O del 31 mar. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^238a-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
@@ -5388,13 +5490,14 @@ Il veterinario cantonale leva il sequestro se tutti gli animali ricettivi dell�
 
 **Zona delimitata a causa della febbre catarrale ovina o della EHD**[^239e-1]
 
-<sup>1</sup> La zona delimitata a causa della febbre catarrale ovina o della EHD comprende un territorio del raggio di circa 100 km intorno agli effettivi infetti. Per delimitare tale zona occorre tenere conto della situazione geografica, delle possibilità di controllo e delle osservazioni epidemiologiche.
+<sup>1</sup> La zona delimitata a causa della febbre catarrale ovina o della EHD comprende un territorio del raggio di circa 150 km intorno agli effettivi infetti. Per delimitare tale zona occorre tenere conto della situazione geografica, delle possibilità di controllo e delle osservazioni epidemiologiche.[^239e-2]
 
 <sup>2</sup> Dopo aver consultato i Cantoni, l’USAV stabilisce l’ampiezza della zona da delimitare. Revoca il sequestro della zona dopo aver consultato i Cantoni, se durante almeno due anni non si è più constatata la malattia della febbre catarrale ovina o dell’EHD presso animali ricettivi.
 
 <sup>3</sup> Stabilisce a quali condizioni è permesso trasportare all’esterno della zona delimitata gli animali ricettivi, il loro seme, i loro ovuli e i loro embrioni.
 
 [^239e-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^239e-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 239f
 
@@ -5424,6 +5527,66 @@ Dopo avere consultato i Cantoni, l’USAV può prescrivere vaccinazioni contro l
 
 [^239h-1]: Nuovo testo giusta la cifra I dell’O del 20 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 395](https://fedlex.data.admin.ch/eli/oc/2010/45)).
 [^239h-2]: Abrogato dalla cifra I dell’O del 25 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+
+### Sezione 8*b*: Border Disease negli animali della specie bovina, nei bufali e bisonti
+
+[^tit3-chap4-sec8b-1]
+
+[^tit3-chap4-sec8b-1]: Introdotta dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 239i
+
+**Campo d’applicazione e diagnosi**
+
+<sup>1</sup> Le disposizioni della presente sezione sono applicabili alla lotta contro la Border Disease (BD) negli animali della specie bovina, nei bufali e nei bisonti se il virus della BD è stato messo in evidenza nell’ambito della lotta e della sorveglianza della BVD.
+
+<sup>2</sup> È diagnosticata la BD negli animali della specie bovina, nei bufali e nei bisonti se l’esito di un esame virologico secondo un metodo autorizzato dall’USAV è positivo e il virus della BD è stato messo in evidenza mediante analisi genetico-molecolari nel laboratorio di riferimento.
+
+#### Art. 239j
+
+**Sospetto di contagio**
+
+<sup>1</sup> Vi è sospetto di contagio di BD se sussistono indizi epidemiologici di un possibile contagio degli animali di un effettivo con il virus della BD, anche se la fonte del contagio non può più essere identificata mediante la diagnosi di laboratorio.
+
+<sup>2</sup> In caso di sospetto di contagio il veterinario cantonale impone il divieto di trasferimento degli animali presumibilmente entrati in contatto con il virus della BD e per i quali non si può escludere una gravidanza.
+
+<sup>3</sup>
+
+Il divieto di trasferimento di un animale viene abrogato se:
+
+- a. risulta non gravido o la gravidanza termina prematuramente;
+- b. l’esito dell’esame virologico del vitello o del vitello nato morto è negativo.
+
+<sup>4</sup> Dalla nascita di un animale ai sensi del capoverso 2 fino all’esito negativo dell’esame virologico del vitello o del vitello nato morto nessun animale può lasciare l’azienda detentrice di animali in questione. È consentita la cessione diretta di animali al macello.
+
+#### Art. 239k
+
+**Caso di epizoozia**
+
+<sup>1</sup>
+
+In caso di diagnosi di BD, il veterinario cantonale ordina il sequestro semplice di 1° grado di tutti gli effettivi dell’azienda detentrice di animali infetta. Ordina inoltre:
+
+- a. la macellazione dell’animale infetto e dei discendenti delle femmine infette;
+- b. l’individuazione e l’esame virologico della madre dell’animale infetto;
+- c. lo svolgimento di accertamenti epidemiologici al fine di identificare la fonte di contagio;
+- d. l’identificazione degli animali entrati in contatto con gli animali infetti e per i quali non si può escludere una gravidanza;
+- e. l’esame virologico dei vitelli e dei vitelli nati morti, partoriti da animali di cui alla lettera d, entro cinque giorni dal parto;
+- f. il divieto di trasferimento degli animali di cui alla lettera d, il quale cessa se le bovine risultano non gravide o in caso di fine prematura della gravidanza, oppure se l’esito dell’esame virologico del vitello o del vitello nato morto è negativo;
+- g. il divieto di trasferimento dei vitelli di animali di cui alla lettera d, il quale cessa se l’esito dell’esame virologico è negativo;
+- h. l’adozione di misure ragionevoli destinate a proteggere gli animali da un contagio causato da piccoli ruminanti se tali animali sono tenuti nell’azienda detentrice di animali e non possono essere esclusi come fonte di contagio.
+
+<sup>2</sup> Al termine degli accertamenti epidemiologici, il veterinario cantonale revoca il sequestro semplice di 1° grado, tuttavia al più presto 21 giorni dopo l’eliminazione di tutti gli animali infetti dell’effettivo.
+
+<sup>3</sup> Ordina che per 12 mesi dalla data di eliminazione dell’ultimo animale infetto dell’effettivo, tutti i vitelli neonati e quelli nati morti siano sottoposti a esame virologico riguardo alla BD entro cinque giorni dal parto e che sia imposto un divieto di trasferimento per i vitelli neonati fino all’esito negativo delle analisi.
+
+<sup>4</sup> Dalla nascita di un animale ai sensi del capoverso 1 lettera d fino all’esito negativo dell’esame virologico del vitello o del vitello nato morto nessun animale può lasciare l’azienda detentrice di animali in questione. È consentita la cessione diretta di animali al macello.
+
+#### Art. 239l
+
+**Vaccinazioni**
+
+Le vaccinazioni contro la BD sono vietate.
 
 ### Sezione 9: Metrite contagiosa equina
 
@@ -5506,7 +5669,7 @@ Le perdite di animali causate dalla CEM non sono indennizzate.
 
 <sup>2</sup> È diagnosticata l’encefalomielite equina venezuelana quando è stato messo in evidenza lʼagente patogeno.
 
-<sup>3</sup> L’USAV definisce i metodi di analisi per la messa in evidenza dell’encefalomielite equina venezuelana. Tiene conto dei metodi di analisi riconosciuti dallʼUfficio internazionale delle epizoozie.
+<sup>3</sup> L’USAV definisce i metodi di analisi per la messa in evidenza dell’encefalomielite equina venezuelana. Tiene conto dei metodi di analisi riconosciuti dallʼOrganizzazione mondiale della sanità animale.
 
 <sup>4</sup> LʼUSAV può prescrivere, per regioni o per tutto il Paese, le analisi e i provvedimenti necessari alla sorveglianza e alla lotta all’encefalomielite equina venezuelana ed estenderli ad altre specie animali.
 
@@ -6105,7 +6268,7 @@ Il veterinario cantonale revoca i provvedimenti di sequestro:
 
 **Prescrizioni tecniche sulla lotta alla peste americana delle api**[^271a-1]
 
-D’intesa con il Centro di ricerche apicole, l’USAV può emanare prescrizioni tecniche sulla lotta alla peste americana delle api, le quali disciplinano in particolare i provvedimenti volti a evitare una propagazione dell’epizoozia, gli esami diagnostici, la pulizia, la disinfezione e i controlli successivi.
+D’intesa con il Centro di ricerca apistica, l’USAV può emanare prescrizioni tecniche sulla lotta alla peste americana delle api, le quali disciplinano in particolare i provvedimenti volti a evitare una propagazione dell’epizoozia, gli esami diagnostici, la pulizia, la disinfezione e i controlli successivi.
 
 [^271a-1]: Introdotto dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 
@@ -6164,7 +6327,7 @@ Il veterinario cantonale revoca i provvedimenti di sequestro:
 
 **Prescrizioni tecniche sulla lotta alla peste europea delle api**[^273a-1]
 
-D’intesa con il Centro di ricerche apicole, l’USAV può emanare prescrizioni tecniche sulla lotta alla peste europea delle api, le quali disciplinano in particolare i provvedimenti volti a evitare una propagazione dell’epizoozia, gli esami diagnostici, la pulizia, la disinfezione e i controlli successivi.
+D’intesa con il Centro di ricerca apistica, l’USAV può emanare prescrizioni tecniche sulla lotta alla peste europea delle api, le quali disciplinano in particolare i provvedimenti volti a evitare una propagazione dell’epizoozia, gli esami diagnostici, la pulizia, la disinfezione e i controlli successivi.
 
 [^273a-1]: Introdotto dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 
@@ -6236,31 +6399,33 @@ Il veterinario cantonale revoca le zone di protezione e di sorveglianza se:
 
 #### Art. 274e
 
-**Provvedimenti nella zona di protezione e nella zona di sorveglianza**
+**Provvedimenti nella zona di protezione e nella zona di sorveglianza**[^274e-1]
 
-<sup>1</sup> Nella zona di protezione e nella zona di sorveglianza sono vietati l’offerta, il trasferimento nonché l’introduzione nelle zone di api e di bombi, di attrezzature apistiche usate, di miele in favo e di sottoprodotti apicoli. Gli utensili apicoli possono essere trasferiti solo se precedentemente puliti e disinfestati.
+<sup>1</sup> Nella zona di protezione e nella zona di sorveglianza sono vietati l’offerta, il trasferimento nonché l’introduzione nelle zone di api e di bombi, di attrezzature apistiche usate, di miele in favo e di sottoprodotti apicoli. Gli utensili apicoli possono essere trasferiti in un altro apiario soltanto dopo essere stati puliti e disinfettati.
 
 <sup>2</sup>
 
 Il veterinario cantonale può autorizzare, ordinando i necessari provvedimenti di sicurezza:
 
-- a. il trasporto di api e di bombi all’interno della zona di protezione o all’interno della zona di sorveglianza;
+- a. il trasferimento di api e di bombi all’interno della zona di protezione o all’interno della zona di sorveglianza;
 - b. l’introduzione di api e di bombi dalla zona di sorveglianza nella zona di protezione;
-- c. l’introduzione di api e di bombi da una regione esterna alle zone nella zona di protezione o di sorveglianza.[^274e-1]
+- c. l’introduzione di api e di bombi da una regione esterna alle zone nella zona di protezione o di sorveglianza.
 
-<sup>3</sup> Entro 30 giorni dalla determinazione della zona di protezione, l’ispettore degli apiari controlla se gli apiari ivi ubicati e i nidi di bombi noti al veterinario cantonale sono infestati da piccolo coleottero dell’alveare. Negli apiari e nei nidi di bombi in cui non ha diagnosticato l’infestazione installa trappole che controlla regolarmente.
+<sup>3</sup> Entro 30 giorni dalla determinazione della zona di protezione, l’ispettore degli apiari controlla se gli apiari ivi ubicati e i nidi di bombi noti al veterinario cantonale nonché tutte le aziende apicole sono infestati da piccolo coleottero dell’alveare. Negli apiari in cui non ha diagnosticato l’infestazione installa trappole che controlla regolarmente.
 
-<sup>4</sup> Entro 30 giorni dalla determinazione della zona di sorveglianza, negli apiari e nei nidi di bombi prescelti dal veterinario cantonale l’ispettore degli apiari installa trappole che controlla regolarmente. Può affidare questi compiti agli apicoltori. In questo caso gli apicoltori devono notificargli regolarmente i risultati del controllo. L’USAV fissa in prescrizioni tecniche il numero minimo di apiari da controllare.
+<sup>4</sup> Nella zona di protezione, tutti i nidi di bombi noti al veterinario cantonale competente e giunti al termine del loro periodo di utilizzo devono essere imballati in modo sicuro, congelati e conservati dal detentore di bombi fino al momento dell’ispezione da parte dell’ispettore degli apiari. Le colonie di bombi ancora attive che non possono essere controllate senza distruggere irreversibilmente il nido di bombi devono essere distrutte in anticipo dal detentore di bombi o dall’ispettore degli apiari e conservate imballate in modo sicuro e congelate fino al momento del controllo.
 
-<sup>5</sup> La primavera successiva alla comparsa dell’epizoozia tutti gli apiari e i nidi di bombi noti al veterinario cantonale ubicati nella zona di protezione nonché le aziende apicole infestate l’anno prima devono essere sottoposti a un controllo successivo da parte dell’ispettore degli apiari.
+<sup>5</sup> Entro 30 giorni dalla determinazione della zona di sorveglianza, negli apiari prescelti dal veterinario cantonale l’ispettore degli apiari installa trappole che controlla regolarmente. Può affidare questi compiti agli apicoltori. In questo caso gli apicoltori devono notificargli regolarmente i risultati del controllo. L’USAV fissa in direttive tecniche §il numero minimo di apiari da controllare.
 
-[^274e-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+<sup>6</sup> La primavera successiva alla comparsa dell’epizoozia tutti gli apiari ubicati nella zona di protezione e le aziende apicole infestate l’anno prima devono essere sottoposti a un controllo successivo da parte dell’ispettore degli apiari.
+
+[^274e-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 274f
 
 **Prescrizioni tecniche sulla lotta all’infestazione da piccolo coleottero dell’alveare**
 
-D’intesa con il Centro di ricerche apicole, l’USAV può emanare prescrizioni tecniche sulla lotta all’infestazione da piccolo coleottero dell’alveare.
+D’intesa con il Centro di ricerca apistica, l’USAV può emanare prescrizioni tecniche sulla lotta all’infestazione da piccolo coleottero dell’alveare.
 
 #### Art. 274g
 
@@ -6510,7 +6675,7 @@ Per la zona di protezione il veterinario cantonale ordina:
 
 L’USAV emana prescrizioni tecniche riguardo allo svolgimento e all’esecuzione dei provvedimenti in caso di epizoozia.
 
-[^282b-1]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^282b-1]: Introdotto dalla cifra I dell’O del 31 mar. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)). Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 282c
 
@@ -6791,16 +6956,17 @@ In caso di comparsa di un’epizoozia altamente contagiosa in Svizzera o all’e
 - b. gestori di stazioni ferroviarie, aeroporti, porti e aree di sosta;
 - c. operatori turistici che offrono viaggi nelle zone infette interessate.
 
-<sup>2</sup> Le imprese forniscono informazioni mediante manifesti o fogli informativi distribuiti ai viaggiatori.
+<sup>2</sup> Le imprese forniscono informazioni ai viaggiatori mediante manifesti, fogli informativi o tabelloni elettronici nonché sui loro siti Internet.[^295a-3]
 
-<sup>3</sup> LʼUSAV determina le imprese interessate, il contenuto e la durata delle informazioni. Esso armonizza i provvedimenti con gli obblighi di cui all’allegato 11 dellʼAccordo del 21 giugno 1999[^295a-3] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli. Esso mette a disposizione il materiale informativo.
+<sup>3</sup> LʼUSAV determina le imprese interessate, il contenuto e la durata delle informazioni. Esso armonizza i provvedimenti con gli obblighi di cui all’allegato 11 dellʼAccordo del 21 giugno 1999[^295a-4] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli. Esso mette a disposizione il materiale informativo.
 
-<sup>4</sup> Per prevenire l’introduzione di epizoozie, l’USAV può, indipendentemente dalla comparsa di un focolaio, esporre negli aeroporti nazionali informazioni sull’importazione di animali e prodotti animali nel traffico turistico in punti ben visibili dai passeggeri. Chiede ai gestori degli aeroporti di mettergli a disposizione lo spazio necessario a tal fine.[^295a-4]
+<sup>4</sup> Per prevenire l’introduzione di epizoozie, l’USAV può, indipendentemente dalla comparsa di un focolaio, esporre negli aeroporti nazionali informazioni sull’importazione di animali e prodotti animali nel traffico turistico in punti ben visibili dai passeggeri. Chiede ai gestori degli aeroporti di mettergli a disposizione lo spazio necessario a tal fine.[^295a-5]
 
 [^295a-1]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^295a-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^295a-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^295a-4]: Introdotto dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
+[^295a-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^295a-4]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^295a-5]: Introdotto dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 296
 
@@ -7023,7 +7189,7 @@ Un laboratorio è riconosciuto se:
 - b.[^312-4] nel quadro dei suoi compiti principali è in grado di analizzare uno spettro di almeno 15 epizoozie di cui agli articoli 3–5 e dispone dei metodi necessari per le analisi;
 - c. ha sede e svolge le analisi in Svizzera;
 - d. adempie i requisiti in materia di personale di cui ai capoversi 3 e 4;
-- e.[^312-5] è collegato al sistema d’informazione per i risultati dei controlli e delle analisi secondo l’ordinanza del 27 aprile 2022[^312-6] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.
+- e.[^312-5] è collegato ad ARES.
 
 <sup>3</sup> Il laboratorio deve essere diretto da un veterinario specializzato in diagnostica delle malattie infettive e da un sostituto con una specializzazione equivalente. Il direttore e il suo sostituto devono avere portato a termine un perfezionamento in lotta alle epizoozie e lavorare almeno al 60 per cento nello stesso laboratorio.
 
@@ -7035,8 +7201,7 @@ Un laboratorio è riconosciuto se:
 [^312-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^312-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^312-4]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^312-5]: Nuovo testo giusta l’all. 4 cifra II n. 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^312-6]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^312-5]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 312a
 
@@ -7088,11 +7253,13 @@ L’USAV può revocare il riconoscimento se:
 
 <sup>2</sup>
 
-Essi notificano regolarmente ad ALIS i seguenti dati:
+Per le analisi ordinate dagli organi di polizia epizootica devono notificare regolarmente ad ARES i seguenti dati:[^312c-2]
 
 - a. la provenienza dei campioni analizzati riguardo a epizoozie soggette a notifica e a resistenze agli antibiotici;
 - b. i risultati di queste analisi;
 - c. il numero di identificazione delle aziende detentrici di animali e degli animali da cui provengono i campioni, oppure, se non dispongono di tale numero, il nome e l’indirizzo del detentore degli animali.
+
+<sup>2bis</sup> I dati relativi alle analisi sulle epizoozie soggette a notifica devono essere notificati quotidianamente. In situazioni di emergenza, l’USAV può richiedere una frequenza di notifica più elevata.[^312c-3]
 
 <sup>3</sup> L’USAV e il veterinario cantonale possono designare i laboratori nei quali devono essere eseguite le analisi dei campioni. Se nessun laboratorio riconosciuto dispone delle necessarie conoscenze tecniche per eseguire un’analisi, l’incarico può essere impartito, con il consenso scritto del committente, anche a un laboratorio non riconosciuto in Svizzera. Se in Svizzera non vi è alcun laboratorio adatto, l’incarico può essere impartito a un laboratorio all’estero.
 
@@ -7101,6 +7268,18 @@ Essi notificano regolarmente ad ALIS i seguenti dati:
 <sup>5</sup> L’USAV può richiedere informazioni in merito a risultati di analisi inaspettatamente frequenti concernenti un nuovo tipo di epizoozia, non soggetta all’obbligo di notifica, nonché in merito al grado di resistenza.
 
 [^312c-1]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^312c-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^312c-3]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 312d
+
+**Obblighi dei laboratori per le analisi commissionate da privati o organizzazioni di diritto privato**[^312d-1]
+
+<sup>1</sup> Se i privati o le organizzazioni di diritto privato commissionano analisi sulle epizoozie soggette a notifica, i laboratori devono notificare ad ARES i dati relativi alle analisi per le quali sono riconosciuti dall’USAV.
+
+<sup>2</sup> L’articolo 312*c* capoversi 2 e 2<sup>bis</sup> si applica per analogia.
+
+[^312d-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### Capitolo 5: Tasse
 
