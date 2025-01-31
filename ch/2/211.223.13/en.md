@@ -4,11 +4,11 @@ title: Federal Act of 30 September 2016 on Compulsory Social Measures and Placem
 short: CSMPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: en
-version: 2023-09-01
+version: 2025-02-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20250201/en/xml/fedlex-data-admin-ch-eli-cc-2017-145-20250201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20250201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CSMPA)
 
-of 30 September 2016 (Status as of 1 September 2023)
+of 30 September 2016 (Status as of 1 February 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -103,6 +103,11 @@ The following also applies to the solidarity contribution:
 - a. The contribution is treated under tax law as a satisfaction payment under Article 24 letter g of the Federal Act of 14 December 1990[^4-1] on Direct Federal Taxation and under Article 7 paragraph 4 letter i of the Federal Act of 14 December 1990[^4-2] on the Harmonisation of Direct Taxation at Cantonal and Communal Levels.
 - b. It is treated under debt enforcement law as a satisfaction payment under Article 92 paragraph 1 number 9 of the Federal Act of 11 April 1889[^4-3] on Debt Enforcement and Bankruptcy.
 - c.[^4-4] It does not lead to a reduction in social assistance benefits, in benefits under the Federal Act of 6 October 2006[^4-5] on Benefits supplementary to the Old Age, Survivors and Invalidity Insurance (SBA), or to benefits under the Federal Act of 19 June 2020[^4-6] on Bridging Payments for Older Unemployed Persons.
+- d.[^4-7] If the victim is subject to a deputyship or another adult protection measure, the victim’s representative must ensure that the victim is, as far as possible, free to decide how the solidarity contribution is spent.
+
+<sup>7</sup> The principles set out in paragraph 6 also apply to solidarity contributions from cantons and communes that are paid to victims as defined in Article 2 letter d and that fulfil the purpose of this Act. They apply up to an amount of 25,000 Swiss francs.[^4-8]
+
+<sup>8</sup> If the solidarity contribution paid to a victim becomes part of his or her estate on death, paragraphs 6 and 7 no longer apply.[^4-9]
 
 [^4-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
@@ -110,6 +115,9 @@ The following also applies to the solidarity contribution:
 [^4-4]: Amended by Annex No 1 of the FA of 19 June 2020 on Bridging Payments for Older Unemployed Persons, in force since 1 July 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^4-5]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^4-6]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^4-7]: Inserted by No I of the FA of 27 Sept. 2024 (Processing of Cantonal and Communal Solidarity Contributions), in force since 1 Feb. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-8]: Inserted by No I of the FA of 27 Sept. 2024 (Processing of Cantonal and Communal Solidarity Contributions), in force since 1 Feb. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-9]: Inserted by No I of the FA of 27 Sept. 2024 (Processing of Cantonal and Communal Solidarity Contributions), in force since 1 Feb. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 5
 
@@ -344,6 +352,18 @@ Applications submitted to the competent authority between 1 April 2018 and the d
 
 [^21b-1]: Inserted by No I of the FA of 19 June 2020 (Abolition of the Deadline for Submitting Applications for Solidarity Contributions), in force since 1 Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 [^21b-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 21c
+
+**Transitional Provision to the Amendment of 27 September 2024**[^21c-1]
+
+Where the provisions affect the taxes, supplementary benefits and transition benefits for older unemployed persons and social assistance, Article 4 paragraphs 7 and 8 also apply to solidarity contributions paid out by cantons and communes before the Amendment of 27 September 2024 comes into force. The following applies to these solidarity contributions:
+
+- a. The tax assessments are revised ex officio.
+- b. Article 21*a* applies *mutatis mutandis* to rulings on annual supplementary benefits and ruling on transition benefits for older unemployed persons.
+- c. Rulings on social assistance shall be reassessed at the victim’s request.
+
+[^21c-1]: Inserted by No I of the FA of 27 Sept. 2024 (Processing of Cantonal and Communal Solidarity Contributions), in force since 1 Feb. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 22
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 30. September 2016 über die Aufarbeitung der fürsorger
 short: AFZFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: de
-version: 2023-09-01
+version: 2025-02-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2017-145-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/de"
 
 (AFZFG)
 
-vom 30. September 2016 (Stand am 1. September 2023)
+vom 30. September 2016 (Stand am 1. Februar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -101,6 +101,11 @@ Für den Solidaritätsbeitrag gilt überdies Folgendes:
 - a. Der Beitrag wird steuerrechtlich Genugtuungssummen nach Artikel 24 Buchstabe g des Bundesgesetzes vom 14. Dezember 1990[^4-1] über die direkte Bundessteuer und nach Artikel 7 Absatz 4 Buchstabe i des Bundesgesetzes vom 14. Dezember 1990[^4-2] über die Harmonisierung der direkten Steuern der Kantone und Gemeinden gleichgestellt.
 - b. Er wird schuldbetreibungsrechtlich den Genugtuungsleistungen nach Artikel 92 Absatz 1 Ziffer 9 des Bundesgesetzes vom 11. April 1889[^4-3] über Schuldbetreibung und Konkurs gleichgestellt.
 - c.[^4-4] Er führt nicht zu einer Reduktion von Leistungen der Sozialhilfe, von Leistungen gemäss dem Bundesgesetz vom 6. Oktober 2006[^4-5] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) sowie von Leistungen gemäss dem Bundesgesetz vom 19. Juni 2020[^4-6] über Überbrückungsleistungen für ältere Arbeitslose.
+- d.[^4-7] Besteht für das Opfer eine Beistandschaft oder eine andere erwachsenenschutzrechtliche Massnahme, so muss die mit der Vertretung betraute Person sicherstellen, dass der Solidaritätsbeitrag dem Opfer möglichst zur freien Verfügung steht.
+
+<sup>7</sup> Die Grundsätze nach Absatz 6 gelten auch für Solidaritätsbeiträge von Kantonen und Gemeinden, die an Opfer nach Artikel 2 Buchstabe d ausgerichtet werden und dem Zweck dieses Gesetzes entsprechen. Sie gelten bis zu einer Höhe von 25 000 Franken.[^4-8]
+
+<sup>8</sup> Fällt der Solidaritätsbeitrag eines Opfers im Todesfall in die Erbmasse, so finden die Absätze 6 und 7 keine Anwendung.[^4-9]
 
 [^4-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
@@ -108,6 +113,9 @@ Für den Solidaritätsbeitrag gilt überdies Folgendes:
 [^4-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^4-5]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^4-6]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^4-7]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024 (Behandlung von kantonalen und kommunalen Solidaritätsbeiträgen), in Kraft seit 1. Febr. 2025 (AS **202****5** 51; [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-8]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024 (Behandlung von kantonalen und kommunalen Solidaritätsbeiträgen), in Kraft seit 1. Febr. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-9]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024 (Behandlung von kantonalen und kommunalen Solidaritätsbeiträgen), in Kraft seit 1. Febr. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 5
 
@@ -342,6 +350,18 @@ Gesuche, die zwischen dem 1. April 2018 und dem Inkrafttreten der Änderung vom 
 
 [^21b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Streichung der Frist zur Einreichung der Gesuche um Solidaritätsbeiträge), in Kraft seit 1. Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 [^21b-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 21c
+
+**Übergangsbestimmung zur Änderung vom 27. September 2024**[^21c-1]
+
+Artikel 4 Absätze 7 und 8 gilt, soweit er die Bereiche Steuern, Ergänzungsleistungen, Überbrückungsleistungen für ältere Arbeitslose sowie Sozialhilfe betrifft, auch für Solidaritätsbeiträge von Kantonen und Gemeinden, die vor dem Inkrafttreten dieser Änderung vom 27. September 2024 ausbezahlt worden sind. Für diese Solidaritätsbeiträge gilt:
+
+- a. Die Steuerveranlagungen werden von Amtes wegen revidiert.
+- b. Für Verfügungen über jährliche Ergänzungsleistungen und für Verfügungen über Überbrückungsleistungen für ältere Arbeitslose gilt Artikel 21*a* sinngemäss.
+- c. Verfügungen betreffend Sozialhilfe werden auf Antrag des Opfers in Wiedererwägung gezogen.
+
+[^21c-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024 (Behandlung von kantonalen und kommunalen Solidaritätsbeiträgen), in Kraft seit 1. Febr. 2025 ([AS 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [BBl 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 22
 

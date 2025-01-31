@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2016 sulle misure coercitive a scopo assi
 short: LMCCE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: it
-version: 2023-09-01
+version: 2025-02-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2017-145-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/it"
 
 (LMCCE)
 
-del 30 settembre 2016 (Stato 1° settembre 2023)
+del 30 settembre 2016 (Stato 1° febbraio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -100,7 +100,12 @@ Per il contributo di solidarietà vale inoltre quanto segue:
 
 - a. è fiscalmente parificato ai versamenti a titolo di riparazione morale ai sensi dell’articolo 24 lettera g della legge federale del 14 dicembre 1990[^4-1] sull’imposta federale diretta e dell’articolo 7 capoverso 4 lettera i della legge federale del 14 dicembre 1990[^4-2] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni;
 - b. in termini di diritto in materia di esecuzione e fallimento è parificato alle indennità a titolo di riparazione morale ai sensi dell’articolo 92 capoverso 1 numero 9 della legge federale dell’11 aprile 1889[^4-3] sull’esecuzione e sul fallimento;
-- c.[^4-4] non comporta una riduzione né delle prestazioni dell’aiuto sociale né delle prestazioni ai sensi della legge federale del 6 ottobre 2006[^4-5] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC) né delle prestazioni ai sensi della legge federale del 19 giugno 2020[^4-6] sulle prestazioni transitorie per i disoccupati anziani.
+- c.[^4-4] non comporta una riduzione né delle prestazioni dell’aiuto sociale né delle prestazioni ai sensi della legge federale del 6 ottobre 2006[^4-5] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC) né delle prestazioni ai sensi della legge federale del 19 giugno 2020[^4-6] sulle prestazioni transitorie per i disoccupati anziani;
+- d.[^4-7] se la vittima è sotto curatela o è sottoposta a un’altra misura di protezione degli adulti, la persona incaricata della rappresentanza provvede affinché, nella misura del possibile, il contributo di solidarietà sia a libera disposizione dell’assistito.
+
+<sup>7</sup> I principi di cui al capoverso 6 si applicano anche ai contributi di solidarietà versati da Cantoni e Comuni alle vittime ai sensi dell’articolo 2 lettera d per lo scopo previsto dalla presente legge. Si applicano sino a concorrenza di un importo di 25 000 franchi.[^4-8]
+
+<sup>8</sup> I capoversi 6 e 7 non si applicano ai contributi di solidarietà confluiti nella massa ereditaria al decesso della vittima.[^4-9]
 
 [^4-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
@@ -108,6 +113,9 @@ Per il contributo di solidarietà vale inoltre quanto segue:
 [^4-4]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^4-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^4-6]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^4-7]: Introdotta dalla cifra I della LF del 27 set. 2024 (Contributi di solidarietà cantonali o comunali), in vigore dal 1° feb. 2025 ([RU 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-8]: Introdotto dalla cifra I della LF del 27 set. 2024 (Contributi di solidarietà cantonali o comunali) (Contributi di solidarietà cantonali o comunali), in vigore dal 1° feb. 2025 ([RU 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-9]: Introdotto dalla cifra I della LF del 27 set. 2024 (Contributi di solidarietà cantonali o comunali), in vigore dal 1° feb. 2025 ([RU 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 5
 
@@ -117,7 +125,7 @@ Per il contributo di solidarietà vale inoltre quanto segue:
 
 <sup>2</sup> Il richiedente deve rendere verosimile di essere una vittima ai sensi della presente legge. A tal fine allega alla domanda gli atti e altri documenti che possono dimostrare la sua qualità di vittima.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 6
 
@@ -132,8 +140,8 @@ Per il contributo di solidarietà vale inoltre quanto segue:
 <sup>4</sup> ...[^6-3]
 
 [^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: Nuovo testo giusta l’all. 1 n. II 17 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^6-3]: Abrogato dal n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^6-2]: Nuovo testo giusta l’all. 1 cifra II n. 17 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^6-3]: Abrogato dalla cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 7
 
@@ -143,7 +151,7 @@ Per il contributo di solidarietà vale inoltre quanto segue:
 
 <sup>2</sup> È versato alle vittime la cui domanda è stata accolta.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 8
 
@@ -174,8 +182,8 @@ Per le liberalità di cui al capoverso 1 lettere b e c vale quanto segue:
 - a. sono iscritte a titolo di ricavi nel consuntivo della Confederazione;
 - b. sono vincolate ai sensi dell’articolo 53 della legge federale del 7 ottobre 2005[^9-3] sulle finanze della Confederazione.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
-[^9-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^9-2]: Abrogato dalla cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 [^9-3]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
 ## Sezione 3: Archiviazione e consultazione degli atti
@@ -299,7 +307,7 @@ Il Consiglio federale emana le disposizioni di esecuzione. Disciplina in partico
 - b.[^19-1] ...
 - c. del finanziamento e dell’attuazione di altri provvedimenti secondo l’articolo 17.
 
-[^19-1]: Abrogata dal n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^19-1]: Abrogata dalla cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 ## Sezione 8: Disposizioni finali
 
@@ -330,7 +338,7 @@ I crediti verso le vittime o i loro familiari il cui titolo giuridico risiede di
 
 <sup>3</sup> In deroga all’articolo 24 LPGA, il diritto al versamento retroattivo di prestazioni complementari derivante dalla presente modifica non si estingue.
 
-[^21a-1]: Introdotto dal n. I della LF del 20 dic. 2019 (Concessione di prestazioni complementari alle vittime), in vigore dal 1° mag. 2020 ([RU 2020 1267](https://fedlex.data.admin.ch/eli/oc/2020/242); [FF 2019 6731](https://fedlex.data.admin.ch/eli/fga/2019/2754)[6827](https://fedlex.data.admin.ch/eli/fga/2019/2803)).
+[^21a-1]: Introdotto dalla cifra I della LF del 20 dic. 2019 (Concessione di prestazioni complementari alle vittime), in vigore dal 1° mag. 2020 ([RU 2020 1267](https://fedlex.data.admin.ch/eli/oc/2020/242); [FF 2019 6731](https://fedlex.data.admin.ch/eli/fga/2019/2754)[6827](https://fedlex.data.admin.ch/eli/fga/2019/2803)).
 [^21a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^21a-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 
@@ -340,8 +348,20 @@ I crediti verso le vittime o i loro familiari il cui titolo giuridico risiede di
 
 Le domande presentate all’autorità competente tra il 1° aprile 2018 e l’entrata in vigore della presente modifica sono considerate presentate al momento dell’entrata in vigore di quest’ultima. Questo vale anche per le domande presentate nel medesimo periodo e non prese in considerazione perché non adempivano le condizioni per la restituzione del termine di cui all’articolo 24 della legge federale del 20 dicembre 1968[^21b-2] sulla procedura amministrativa.
 
-[^21b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^21b-1]: Introdotto dalla cifra I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), in vigore dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 [^21b-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 21c
+
+**Disposizione transitoria della modifica del 27 settembre 2024**[^21c-1]
+
+Per quanto concerne la tassazione, le prestazioni complementari, le prestazioni transitorie per i disoccupati anziani o l’aiuto sociale, l’articolo 4 capoversi 7 e 8 si applica anche ai contributi di solidarietà versati da Cantoni e Comuni prima dell’entrata in vigore della presente modifica. Per tali contributi di solidarietà vale quanto segue:
+
+- a. le decisioni di tassazione sono riesaminate d’ufficio;
+- b. alle decisioni concernenti le prestazioni complementari annue e le prestazioni transitorie per i disoccupati anziani si applica per analogia l’articolo 21*a*;
+- c. le decisioni concernenti l’aiuto sociale sono riconsiderate su richiesta della vittima.
+
+[^21c-1]: Introdotto dalla cifra I della LF del 27 set. 2024 (Contributi di solidarietà cantonali o comunali), in vigore dal 1° feb. 2025 ([RU 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 22
 

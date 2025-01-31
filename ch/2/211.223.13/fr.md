@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2016 sur les mesures de coercition à des
 short: LMCFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: fr
-version: 2023-09-01
+version: 2025-02-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-145-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/fr"
 
 (LMCFA)
 
-du 30 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
+du 30 septembre 2016 (État le 1<sup>er</sup> février 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -92,22 +92,31 @@ La Confédération reconnaît que les victimes ont subi une injustice qui a eu d
 
 <sup>4</sup> Toutes les victimes obtiennent le même montant. Les contributions versées sur une base volontaire à titre d’aide immédiate aux victimes se trouvant dans une situation financière précaire ne sont pas déduites de la contribution de solidarité.
 
-<sup>5</sup> Le droit à la contribution de solidarité est individuel; il ne peut être ni légué ni cédé. Lorsqu’une victime meurt après avoir déposé sa demande, le montant tombe dans la masse successorale.
+<sup>5</sup> Le droit à la contribution de solidarité est personnel; il ne peut être ni légué ni cédé.[^4-1] Lorsqu’une victime meurt après avoir déposé sa demande, le montant tombe dans la masse successorale.
 
 <sup>6</sup>
 
 Au surplus, sont applicables les règles suivantes:
 
-- a. en droit fiscal, la contribution de solidarité est assimilée aux versements à titre de réparation du tort moral au sens de l’art. 24, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^4-1] et de l’art. 7, al. 4, let. i, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes[^4-2];
-- b. en droit de la poursuite, elle est assimilée aux indemnités versées à titre de réparation morale au sens de l’art. 92, al. 1, ch. 9, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^4-3];
-- c.[^4-4] elle n’entraîne aucune réduction des prestations de l’aide sociale, des prestations au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^4-5] ni des prestations au sens de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^4-6].
+- a. en droit fiscal, la contribution de solidarité est assimilée aux versements à titre de réparation du tort moral au sens de l’art. 24, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^4-2] et de l’art. 7, al. 4, let. i, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes[^4-3];
+- b. en droit de la poursuite, elle est assimilée aux indemnités versées à titre de réparation morale au sens de l’art. 92, al. 1, ch. 9, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^4-4];
+- c.[^4-5] elle n’entraîne aucune réduction des prestations de l’aide sociale, des prestations au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^4-6] ni des prestations au sens de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^4-7];
+- d.[^4-8] si la victime fait l’objet d’une curatelle ou d’une autre mesure de protection de l’adulte, la personne chargée de la représenter veille à ce que la contribution de solidarité soit le plus possible à sa libre disposition.
 
-[^4-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^4-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^4-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^4-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^4-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^4-6]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+<sup>7</sup> Les principes fixés à l’al. 6 s’appliquent également aux contributions de solidarité cantonales et communales accordées à des victimes au sens de l’art. 2, let. d, si elles correspondent au but de la loi. Ils s’appliquent jusqu’à un montant de 25 000 francs.[^4-9]
+
+<sup>8</sup> Si la contribution de solidarité d’une victime tombe dans la masse successorale suite à son décès, les al. 6 et 7 ne s’appliquent pas.[^4-10]
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024 (Traitement des contributions de solidarité cantonales et communales), en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^4-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^4-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^4-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^4-6]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^4-7]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^4-8]: Introduite par le ch. I de la LF du 27 sept. 2024 (Traitement des contributions de solidarité cantonales et communales), en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-9]: Introduit par le ch. I de la LF du 27 sept. 2024 (Traitement des contributions de solidarité cantonales et communales), en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
+[^4-10]: Introduit par le ch. I de la LF du 27 sept. 2024 (Traitement des contributions de solidarité cantonales et communales), en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 5
 
@@ -129,7 +138,7 @@ Au surplus, sont applicables les règles suivantes:
 
 <sup>3</sup> Elle demande l’avis de la commission consultative (art. 18, al. 2) avant de prendre sa décision.
 
-<sup>4</sup> ...[^6-3]
+<sup>4</sup> …[^6-3]
 
 [^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^6-2]: Nouvelle teneur selon l’annexe 1 ch. II 17 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -165,7 +174,7 @@ Les contributions de solidarité sont financées par:
 - b. des contributions volontaires des cantons;
 - c. des contributions volontaires provenant d’autres sources.
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 <sup>3</sup>
 
@@ -296,7 +305,7 @@ L’autorité compétente peut prendre d’autres mesures dans l’intérêt des
 Le Conseil fédéral arrête les dispositions d’exécution. Il y règle en particulier les modalités:
 
 - a. de la procédure de demande d’une contribution de solidarité (art. 5);
-- b.[^19-1] ...
+- b.[^19-1] …
 - c. du financement et de la mise en œuvre d’autres mesures au sens de l’art. 17.
 
 [^19-1]: Abrogée par le ch. I de la LF du 19 juin 2020 (Suppression du délai de dépôt des demandes d’octroi d’une contribution de solidarité), avec effet au 1<sup>er</sup> nov. 2020 ([RO 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1573](https://fedlex.data.admin.ch/eli/fga/2020/396)[1587](https://fedlex.data.admin.ch/eli/fga/2020/398)).
@@ -315,7 +324,7 @@ Les créances envers une victime ou ses proches dont le motif juridique réside 
 
 <sup>1</sup> La loi fédérale du 21 mars 2014 sur la réhabilitation des personnes placées par décision administrative[^21-1] est abrogée.
 
-<sup>2</sup> ...[^21-2]
+<sup>2</sup> …[^21-2]
 
 [^21-1]: [[RO 2014 2293](https://fedlex.data.admin.ch/eli/oc/2014/385)]
 [^21-2]: La mod. peut être consultée au [RO 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145).
@@ -342,6 +351,18 @@ Les demandes déposées auprès de l’autorité compétente entre le 1<sup>er</
 
 [^21b-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Suppression du délai de dépôt des demandes d’octroi d’une contribution de solidarité), en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1573](https://fedlex.data.admin.ch/eli/fga/2020/396)[1587](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 [^21b-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 21c
+
+**Disposition transitoire de la modification du 27 septembre 2024**[^21c-1]
+
+Dans la mesure où il a des conséquences fiscales ou affecte les prestations complémentaires, les prestations transitoires pour les chômeurs âgés et les prestations de l’aide sociale, l’art. 4, al. 7 et 8 s’applique également aux contributions de solidarité cantonales et communales versées avant l’entrée en vigueur de la modification du 27 septembre 2024. Les règles suivantes sont applicables à ces contributions de solidarité:
+
+- a. les décisions de taxation sont révisées d’office;
+- b. l’art. 21*a* s’applique par analogie aux décisions portant sur des prestations complémentaires annuelles et sur des prestations transitoires pour les chômeurs âgés;
+- c. les décisions portant sur les prestations de l’aide sociale sont reconsidérées si l’assuré en fait la demande.
+
+[^21c-1]: Introduit par le ch. I de la LF du 27 sept. 2024 (Traitement des contributions de solidarité cantonales et communales), en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 51](https://fedlex.data.admin.ch/eli/oc/2025/51); [FF 2024 953](https://fedlex.data.admin.ch/eli/fga/2024/953), [1132](https://fedlex.data.admin.ch/eli/fga/2024/1132)).
 
 #### Art. 22
 
