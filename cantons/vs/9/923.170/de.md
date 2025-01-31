@@ -3,20 +3,20 @@ canton: VS
 number: "923.170"
 title: 5-Jahres-Beschluss über die Ausübung der Fischerei im Wallis für die Jahre 2024-2028
 language: de
-version: 2024-02-21
-valid_until: 2025-01-31
-version_adopted: 2024-02-21
+version: 2025-02-01
+valid_until: 2026-02-24
+version_adopted: 2025-01-15
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/de/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/de/versions/3293/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # 5-Jahres-Beschluss über die Ausübung der Fischerei im Wallis für die Jahre 2024-2028
 
-vom 21.02.2024 (Stand 21.02.2024)
+vom 21.02.2024 (Stand 01.02.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -188,7 +188,8 @@ beschliesst:
   - 1\. Uisträ Talbach,
   - 2\. Inrä Talbach;
 - e) Bezirk Leuk:
-  - 1\. Turtmänna, von der Wasserfassung Hübschweidi bis zur Brücke Zer Tänt, ist nur die Fliegenfischerei erlaubt;
+  - 1\. Turtmänna, von der Wasserfassung Hübschweidi bis zur Brücke Zer Tänt, ist nur die Fliegenfischerei erlaubt,
+  - 2\. Turtmänna vom Fuss des Wasserfalls Turtmann bis zur Rottenmündung sind nur künstliche Köder erlaubt;
 - f) Bezirk Siders:
   - 1\. Navizence, von der Einmündung des Torrent de Pinsec bis zum Ausgleichbecken von Vissoie,
   - 2\. Torrent de Pinsec,

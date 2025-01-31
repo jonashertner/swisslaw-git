@@ -3,20 +3,20 @@ canton: VS
 number: "923.170"
 title: "Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028"
 language: fr
-version: 2024-02-21
-valid_until: 2025-01-31
-version_adopted: 2024-02-21
+version: 2025-02-01
+valid_until: 2026-02-24
+version_adopted: 2025-01-15
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/fr/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/fr/versions/3293/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3453/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028
 
-du 21.02.2024 (état 21.02.2024)
+du 21.02.2024 (état 01.02.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -190,7 +190,8 @@ arrête:
   - 1\. l'Uistre Talbach,
   - 2\. l'Innre Talbach;
 - e) district de Loèche:
-  - 1\. la Turtmänna, de la prise d’eau de Hübschweidi au pont de Zer Tänt, seule la pratique de la pêche à la mouche est autorisée;
+  - 1\. la Turtmänna, de la prise d’eau de Hübschweidi au pont de Zer Tänt, seule la pratique de la pêche à la mouche est autorisée,
+  - 2\. la Turtmänna, du pied de la cascade de Tourtmagne à l’embouchure du Rhône, seuls les leurres artificiels sont autorisés;
 - f) district de Sierre:
   - 1\. la Navizence, de l’embouchure du torrent de Pinsec au bassin d’accumulation de Vissoie,
   - 2\. le Torrent de Pinsec,
