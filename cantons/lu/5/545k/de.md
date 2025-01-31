@@ -4,13 +4,12 @@ number: 545k
 title: Reglement zum Weiterbildungsangebot «MAS in Management of Innovative Technologies» des Instituts für Marketing und Analytics der Universität Luzern (IMA) in Kooperation mit der Hochschule Luzern (HSLU)
 short: Reglement MAS MoIT
 language: de
-version: 2023-08-01
-valid_until: 2025-01-31
-version_adopted: 2023-06-23
+version: 2025-02-01
+version_adopted: 2024-10-18
 adopted: 2023-06-23
 in_force: 2023-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545k"
-pdf: "https://srl.lu.ch/api/de/versions/4105/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,17 +20,17 @@ Nr. 545k
 
 (Reglement MAS MoIT)
 
-vom 23.06.2023 (Stand 01.08.2023)
+vom 23.06.2023 (Stand 01.02.2025)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
 
 auf Antrag des Senats,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -39,10 +38,13 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Der «MAS in Management of Innovative Technologies» (MAS MoIT) ist ein modulares Weiterbildungsangebot des Instituts für Marketing und Analytics der Universität Luzern (IMA) in Kooperation mit der Hochschule Luzern (HSLU). Es beinhaltet drei Zertifikatslehrgänge (Certificate of Advanced Studies, CAS), nämlich zwei Zertifikatslehrgänge des IMA (CAS für Innovation Implementation[^1-1] und CAS für Innovation Management[^1-2]) und einen Zertifikatslehrgang der HSLU, frei wählbar aus einer Auswahl von fünf Zertifikatslehrgängen (CAS Internet of Things and Digital Ecosystems, CAS Smart Technologies, CAS Digital Transformation, CAS Blockchain, CAS IT Management and Agile Transformation), sowie einen MAS (Master of Advanced Studies, MAS) des IMA. Das Weiterbildungsangebot befähigt Personen, innovative und digitale Technologien einzuschätzen, anzuwenden, zu kommerzialisieren und in Unternehmen zu implementieren.
+<sup>1</sup> Der «MAS in Management of Innovative Technologies» (MAS MoIT) ist ein modulares Weiterbildungsangebot des Instituts für Marketing und Analytics der Universität Luzern (IMA) in Kooperation mit der Hochschule Luzern (HSLU). Es beinhaltet drei Zertifikatslehrgänge (Certificate of Advanced Studies, CAS), nämlich den CAS für Innovation Implementation[^1-1], den CAS für Innovation Management[^1-2] und einen dritten, frei wählbaren Zertifikatslehrgang gemäss Absatz 2, sowie einen Weiterbildungsmaster-Lehrgang (Master of Advanced Studies, MAS) des IMA.
+
+<sup>2</sup> Als dritter Zertifikatslehrgang gemäss Absatz 1 stehen fünf Zertifikatslehrgänge der HSLU (CAS Internet of Things and Digital Ecosystems, CAS Smart Technologies, CAS Digital Transformation, CAS Blockchain, CAS IT Management and Agile Transformation) sowie der CAS Artificial Intelligence Management for Business Value[^1-3] der Universität Luzern zur Auswahl, soweit diese mindestens 15 ECTS-Punkte umfassen.
 
 [^1-1]: SRL Nr. [545h](https://srl.lu.ch/data/545h/de)
 [^1-2]: SRL Nr. [545f](https://srl.lu.ch/data/545f/de)
+[^1-3]: SRL Nr. [545j](https://srl.lu.ch/data/545j/de)
 
 #### § 2
 
@@ -64,13 +66,15 @@ beschliesst:
 
 <sup>1</sup> Das IMA übt als Trägerschaft die Aufsicht über das Weiterbildungsangebot MAS MoIT aus. Dieses unterliegt den Qualitätsanforderungen der Universität Luzern.
 
-<sup>2</sup> Die Fakultätsversammlung der Wirtschaftswissenschaftlichen Fakultät wählt die Mitglieder der Studiengangsleitung auf deren Vorschlag.
+<sup>2</sup> …
 
 #### § 4
 
 **Studiengangsleitung**
 
-<sup>1</sup> Die Studiengangsleitung ist für die wissenschaftliche und strategische Ausrichtung des Weiterbildungsangebots zuständig. Sie setzt sich zusammen aus zwei bis vier Personen der Universität Luzern. Die Mitglieder werden für vier Jahre gewählt. Wiederwahl ist zulässig.
+<sup>1</sup> Die Studiengangsleitung ist für die wissenschaftliche und strategische Ausrichtung des Weiterbildungsangebots zuständig. Sie setzt sich aus zwei bis vier Personen der Universität Luzern zusammen.
+
+<sup>1<sup>bis</sup></sup> Die Fakultätsversammlung der Wirtschaftswissenschaftlichen Fakultät wählt die Mitglieder der Studiengangsleitung auf deren Vorschlag für eine Amtsdauer von vier Jahren. Die Wiederwahl ist zulässig.
 
 <sup>2</sup> Die Studiengangsleitung hat insbesondere folgende Aufgaben:
 
@@ -78,11 +82,13 @@ beschliesst:
 - b. Entscheid über das Lehrprogramm und über die Anrechnung und Zuordnung von ECTS-Punkten,
 - c. Zulassung von Studierenden,
 - d. Genehmigung des Budgets, der Gebühren, der Honorare, der Jahresrechnung, des Jahresberichtes zuhanden der Wirtschaftswissenschaftlichen Fakultät sowie Bewilligung von Ausgaben ausserhalb des Budgets,
-- e. Entscheid über die Annahme und Verwendung von Drittmitteln und die Vergabe von Stipendien,
+- e. Entscheid über die Annahme und Verwendung von Drittmitteln und die Vergabe von Stipendien, unter Vorbehalt von § 70 des Universitätsstatuts[^4-1],
 - f. Antrag an die Wirtschaftswissenschaftliche Fakultät zur Verleihung der Abschlüsse,
 - g. Besetzung der Programmleitung.
 
 <sup>3</sup> Die Studiengangsleitung ist für alle Bereiche zuständig, soweit diese nicht in die Zuständigkeit anderer Organe fallen. Für die Zulassung kann sie einen Ausschuss bestimmen.
+
+[^4-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 5
 
@@ -106,25 +112,27 @@ beschliesst:
 
 #### § 6
 
-**Umfang und Struktur des Weiterbildungsangebots**
+**Umfang und Struktur**
 
-<sup>1</sup> Das Weiterbildungsangebot wird berufsbegleitend durchgeführt. Die CAS gemäss § 1 werden separat absolviert. Nach einem erfolgreichen Abschluss aller drei CAS besteht die Möglichkeit, einen modularen MAS zu erlangen.
+<sup>1</sup> Das Weiterbildungsangebot wird berufsbegleitend durchgeführt. Die Zertifikatslehrgänge gemäss § 1 werden separat absolviert. Nach einem erfolgreichen Abschluss aller drei Zertifikatslehrgänge besteht die Möglichkeit, einen modularen MAS zu erlangen.
 
-<sup>2</sup> Der MAS MoIT besteht aus zwei CAS des IMA und einem CAS der HSLU gemäss § 1 sowie der Masterarbeit.
+<sup>2</sup> Der MAS MoIT besteht aus drei Zertifikatslehrgängen gemäss § 1 sowie einer Masterarbeit.
 
 #### § 7
 
 **Zulassung**
 
-<sup>1</sup> Zu den Zertifikatslehrgängen gemäss § 1 und zum Masterprogramm kann zugelassen werden, wer über ein abgeschlossenes Hochschulstudium verfügt. Sur-dossier-Aufnahmen sind möglich.
+<sup>1</sup> Zum Weiterbildungsmaster-Lehrgang des MAS MoIT kann zugelassen werden, wer über ein abgeschlossenes Hochschulstudium verfügt. Sur-dossier-Aufnahmen sind möglich.
 
-<sup>2</sup> Die Zulassung zum Masterprogramm bedingt zusätzlich den erfolgreichen Abschluss aller drei CAS gemäss § 1.
+<sup>2</sup> Die Zulassung zum Weiterbildungsmaster-Lehrgang bedingt zusätzlich den erfolgreichen Abschluss aller drei Zertifikatslehrgänge gemäss § 1.
+
+<sup>3</sup> Die Zulassung zu den Zertifikatslehrgängen gemäss § 1 richtet sich nach den für den entsprechenden Lehrgang geltenden Bestimmungen.
 
 #### § 8
 
 **Leistungsnachweise und ECTS-Punkte**
 
-<sup>1</sup> Der MAS MoIT im Umfang von 60 ECTS-Punkten umfasst zwei CAS des IMA gemäss § 1 im Umfang von 18 ECTS-Punkten und einen CAS der HSLU gemäss § 1 im Umfang von 15 ECTS-Punkten. Die Masterarbeit umfasst 9 ECTS-Punkte.
+<sup>1</sup> Der MAS MoIT im Umfang von 60 ECTS-Punkten umfasst zwei Zertifikatslehrgänge des IMA gemäss § 1 Absatz 1 im Umfang von je 18 ECTS-Punkten und einen Zertifikatslehrgang gemäss § 1 Absatz 2 im Umfang von mindestens 15 ECTS-Punkten. Die Masterarbeit umfasst 9 ECTS-Punkte.
 
 <sup>2</sup> Nicht bestandene Leistungsnachweise dürfen einmal wiederholt werden.
 
@@ -144,20 +152,17 @@ beschliesst:
 
 **Certificate of Advanced Studies (CAS)**
 
-<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Innovation Management of the University of Lucerne»[^10-1] oder eines «Certificate of Advanced Studies in Innovation Implementation of the University of Lucerne»[^10-2] muss der erfolgreiche Abschluss des entsprechenden Zertifikatslehrgangs im Umfang von 18 ECTS-Punkten nachgewiesen werden.
+<sup>1</sup> Der erfolgreiche Abschluss der Zertifikatslehrgänge gemäss § 1 richtet sich nach den für den jeweiligen Lehrgang geltenden Bestimmungen.
 
-<sup>2</sup> Die Schlussnote des einzelnen Zertifikatslehrgangs ergibt sich aus dem arithmetischen Mittel der benoteten Module. Das Bestehen sämtlicher Module («bestanden» oder Note 4,0) ist Voraussetzung für den erfolgreichen Abschluss des Zertifikatslehrgangs.
+<sup>2</sup> …
 
-<sup>3</sup> Für den erfolgreichen Abschluss des dritten CAS gemäss § 1 gelten die entsprechenden Vorschriften der HSLU.
-
-[^10-1]: SRL Nr. [545f](https://srl.lu.ch/data/545f/de)
-[^10-2]: SRL Nr. [545h](https://srl.lu.ch/data/545h/de)
+<sup>3</sup> …
 
 #### § 11
 
 **Master of Advanced Studies (MAS)**
 
-<sup>1</sup> Für den Erwerb des «MAS in Management of Innovative Technologies of the University of Lucerne» muss der erfolgreiche Abschluss der jeweiligen CAS und der Masterarbeit (§ 6 Absatz 2) geleistet worden sein.
+<sup>1</sup> Für den Erwerb des «MAS in Management of Innovative Technologies of the University of Lucerne» müssen die drei Zertifikatslehrgänge gemäss § 1 und die Masterarbeit (§ 6 Abs. 2) bestanden worden sein.
 
 <sup>2</sup> Die Schlussnote des MAS setzt sich aus den nach ECTS-Punkten gewichteten Noten der drei Zertifikatslehrgänge und der Masterarbeit zusammen.
 
@@ -177,7 +182,7 @@ beschliesst:
 
 <sup>1</sup> Die Honorare der Dozierenden werden von der Studiengangsleitung im Einklang mit der durch den Universitätsrat verabschiedeten Richtlinie für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern[^13-1] definiert.
 
-<sup>2</sup> Die beanspruchten Querschnittsleistungen der Universität im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^13-2] werden durch eine Strukturkostenpauschale von 6 Prozent auf die eingenommenen Studiengebühren abgegolten.
+<sup>2</sup> Die beanspruchten Querschnittsleistungen der Universität im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^13-2] werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten.
 
 [^13-1]: Beschluss des Universitätsrates vom 17. Dezember 2021
 [^13-2]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
