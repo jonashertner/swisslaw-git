@@ -4,13 +4,13 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2024-12-16
-valid_until: 2025-01-31
-version_adopted: 2024-10-16
+version: 2025-02-01
+valid_until: 2025-08-10
+version_adopted: 2023-02-08
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6476/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 16. Dezember 2024)
+Vom 29. Juni 2006 (Stand 1. Februar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -341,6 +341,36 @@ erlässt folgendes Gesetz:
 <sup>3</sup> Beschlüsse können, sofern die Schlussabstimmung noch nicht stattgefunden hat, mit einer Mehrheit von zwei Dritteln der Stimmen in Wiedererwägung gezogen werden.
 
 <sup>4</sup> Die Präsidentin oder der Präsident stimmt nicht mit, gibt jedoch bei Stimmengleichheit den Stichentscheid. In diesem Falle hat sie oder er das Recht, den Stichentscheid zu begründen.
+
+#### § 28a
+
+**Abstimmungen in Abwesenheit in Krisensituationen**
+
+<sup>1</sup> Werden wegen einer Krisensituation voraussichtlich mehrere Ratsmitglieder an der Anwesenheit bei einer oder mehreren Sitzungen des Grossen Rates verhindert, kann das Ratsbüro den Krisenmodus beschliessen. Der Beschluss bedarf der Zustimmung von zwei Drittel der Mitglieder und ist zu begründen. Er tritt sofort in Kraft.
+
+<sup>2</sup> Der Krisenmodus berechtigt Ratsmitglieder, die wegen der Krisensituation nicht an einer Sitzung teilnehmen können, in Abwesenheit abzustimmen und an offenen Wahlen teilzunehmen.
+
+<sup>3</sup> Das Ratsbüro kann den Krisenmodus für höchstens zwei Monate beschliessen. Verlängerungen beschliesst der Grosse Rat.
+
+<sup>4</sup> Ratsmitglieder, die zur Abstimmung in Abwesenheit berechtigt sind, gelten nicht als anwesend. Die Ausübung der übrigen Rechte der Ratsmitglieder setzt die Anwesenheit voraus.
+
+<sup>5</sup> Das Ratsbüro erlässt ausführende Bestimmungen.
+
+#### § 28b
+
+**Abstimmungen in Abwesenheit aus persönlichen Gründen**
+
+<sup>1</sup> Ratsmitglieder dürfen in folgenden Fällen in Abwesenheit abstimmen und an offenen Wahlen teilnehmen:
+
+- a) ab der 8. Woche vor dem errechneten Geburtstermin bis zum Ende des gesetzlichen Mutterschaftsurlaubs;
+- b) während der Dauer des gesetzlichen Vaterschaftsurlaubs;
+- c) während der Dauer des gesetzlichen Adoptionsurlaubs;
+- d) wer wegen Krankheit oder Unfalls während mindestens zwei Monaten oder wegen Schwangerschaftsbeschwerden nicht an den Sitzungen teilnehmen kann, nach Vorlage eines Arztzeugnisses, das die Teilnahmeunfähigkeit bescheinigt. Dauert die Abwesenheit länger als sechs Monate, ist eine Genehmigung des Ratsbüros erforderlich;
+- e) aus anderen Gründen an höchstens vier ganzen Sitzungstagen pro Amtsperiode.
+
+<sup>2</sup> Ratsmitglieder, die zur Abstimmung in Abwesenheit berechtigt sind, gelten nicht als anwesend. Die Ausübung der übrigen Rechte der Ratsmitglieder setzt die Anwesenheit voraus.
+
+<sup>3</sup> Das Ratsbüro erlässt ausführende Bestimmungen.
 
 #### § 29
 
