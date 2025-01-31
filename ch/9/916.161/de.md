@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2025-01-01
+version: 2025-02-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250101/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Januar 2025)
+vom 12. Mai 2010 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -2028,6 +2028,23 @@ Pflanzenschutzmittel, die Wirkstoffe enthalten, die mit der Änderung vom 27. Ma
 
 [^86k-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 245](https://fedlex.data.admin.ch/eli/oc/2024/245)).
 
+#### Art. 86l
+
+**Übergangsbestimmung zur Änderung vom 6. Dezember 2024**[^86l-1]
+
+Pflanzenschutzmittel, die Wirkstoffe enthalten, die mit der Änderung vom 6. Dezember 2024 aus Anhang 1 gestrichen werden, dürfen bis zu den folgenden Daten in Verkehr gebracht und verwendet werden:
+
+<table>
+<tr><th>Gebräuchliche Bezeichnung, Kennnummer des Wirkstoffs</th><th>Frist für das Inverkehrbringen von Pflanzenschutzmitteln, die den Wirkstoff enthalten</th><th>Frist für die Verwendung von Pflanzenschutzmitteln, die den Wirkstoff enthalten</th></tr>
+<tr><td>Asulam</td><td>01.07.2025</td><td>01.07.2026</td></tr>
+<tr><td>Acibenzolar-S-methyl</td><td>01.07.2025</td><td>01.01.2026</td></tr>
+<tr><td>Dimethomorph</td><td>01.07.2025</td><td>01.01.2026</td></tr>
+<tr><td>Mepanipyrim</td><td>01.07.2025</td><td>01.01.2026</td></tr>
+<tr><td>Schalenwicklergranulose-Virus, Isolat GV-0001</td><td>01.07.2025</td><td>01.07.2026</td></tr>
+</table>
+
+[^86l-1]: Eingefügt durch Ziff. I der V des EDI vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 3](https://fedlex.data.admin.ch/eli/oc/2025/3)).
+
 ### 3. Abschnitt: Inkrafttreten
 
 #### Art. 87
@@ -2040,7 +2057,7 @@ Anhang 1[^t-1]
 
 ## Für die Verwendung in Pflanzenschutzmitteln genehmigte Wirkstoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), Ziff. II der V des WBF vom 17. Mai 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), vom 30. Nov. 2021 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), Ziff. II der V des EDI vom 31. Mai 2022 ([AS 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)), Ziff. I der V des EDI vom 21. Nov. 2022 ([AS 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)), vom 9. Juni 2023 ([AS 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)), vom 21. Nov. 2023 ([AS 2023 753](https://fedlex.data.admin.ch/eli/oc/2023/753)) und Ziff. II der V des EDI vom 27. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 245](https://fedlex.data.admin.ch/eli/oc/2024/245)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), Ziff. II der V des WBF vom 17. Mai 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), vom 30. Nov. 2021 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), Ziff. II der V des EDI vom 31. Mai 2022 ([AS 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)), Ziff. I der V des EDI vom 21. Nov. 2022 ([AS 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)), vom 9. Juni 2023 ([AS 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)), vom 21. Nov. 2023 ([AS 2023 753](https://fedlex.data.admin.ch/eli/oc/2023/753)), Ziff. II der V des EDI vom 27. Mai 2024 ([AS 2024 245](https://fedlex.data.admin.ch/eli/oc/2024/245)) und vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 3](https://fedlex.data.admin.ch/eli/oc/2025/3)).
 
 ### Teil A: Chemische Stoffe
 
@@ -2059,7 +2076,6 @@ Anhang 1[^t-1]
 <tr><td>Abamectin</td><td>avermectin B1</td><td>71751-41-2</td><td>495</td><td>Insektizid, Akarizid</td></tr>
 <tr><td>Acequinocyl</td><td>3-dodecyl-1,4-dihydro-1,4-dioxo-2-naphthyl acetate</td><td>57960-19-7</td><td>760</td><td>Akarizid</td></tr>
 <tr><td>Acetamiprid</td><td>(E)-N1-[(6-chloro-3-pyridyl)methyl]-N2-cyano-N1-methylacetamidine</td><td>135410-20-7</td><td>649</td><td>Insektizid</td></tr>
-<tr><td>Acibenzolar-S-methyl</td><td>S-methyl benzo[1,2,3]thiadiazol-7-carbothioate</td><td>135158-54-2</td><td>597</td><td>Stimulator natürlicher Abwehrkräfte</td></tr>
 <tr><td>Aclonifen</td><td>2-chloro-6-nitro-3-phenoxyaniline</td><td>74070-46-5</td><td>498</td><td>Herbizid</td></tr>
 <tr><td>alpha-Pinen</td><td>2,6,6-Trimethylbicyclo[3.1.1]hept-2-en</td><td>2437-95-8</td><td>–</td><td>Pheromon</td></tr>
 <tr><td>Aluminiumkaliumsulfat- Dodecahydrat</td><td></td><td>7784-24-9</td><td></td><td>Bakterizid</td></tr>
@@ -2069,7 +2085,6 @@ Anhang 1[^t-1]
 <tr><td>Amidosulfuron</td><td>1-(4,6-dimethoxypyrimidin-2-yl)-3-mesyl(methyl)sulfamoylurea</td><td>120923-37-7</td><td>515</td><td>Herbizid</td></tr>
 <tr><td>Aminopyralid</td><td>4-amino-3,6-dichloropyridine-2-carboxylic acid</td><td>150114-71-9</td><td>771</td><td>Herbizid</td></tr>
 <tr><td>Amisulbrom</td><td>3-(3-Brom-6-fluor-2-methylindol-1-ylsulfonyl)- N,N-dimethyl-1H-1,2,4- triazol-1-sulfonamid</td><td>348635-87-0</td><td>789</td><td>Fungizid</td></tr>
-<tr><td>Asulam</td><td>methyl 4-aminophenylsulfonylcarbamate</td><td>3337-71-1</td><td>240</td><td>Herbizid</td></tr>
 <tr><td>Ätherische Öle</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
 <tr><td>Azadirachtin A</td><td>dimethyl (2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)- 10-(acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-butenyl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naphtho[1,8-bc:4,4a-c′]difuran-5,10a(8H)-dicarboxylate</td><td>11141-17-6</td><td>627</td><td>Insektizid</td></tr>
 <tr><td>Azoxystrobin</td><td>methyl (E)-2-{2[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate</td><td>131860-33-8</td><td>571</td><td>Fungizid</td></tr>
@@ -2082,6 +2097,7 @@ Anhang 1[^t-1]
 <tr><td>Bifenazat</td><td>isopropyl 2-(4-methoxybiphenyl-3-yl)hydrazinoformate</td><td>149877-41-8</td><td>736</td><td>Akarizid</td></tr>
 <tr><td>Bifenox</td><td>methyl 5-(2,4-dichlorophenoxy)-2-nitrobenzoate</td><td>42576-02-3</td><td>413</td><td>Herbizid</td></tr>
 <tr><td>Bixafen</td><td>*N*-(3',4'-dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide</td><td>581809-46-3</td><td>819</td><td>Fungizid</td></tr>
+<tr><td>Blutmehl</td><td></td><td>90989-74-5</td><td>909</td><td>Wildabhaltemittel, Stoff mit geringem Risiko</td></tr>
 <tr><td>Boscalid</td><td>2-Chloro-N-(4’-chlorobiphenyl-2-yl)nicotinamide</td><td>188425-85-6</td><td>673</td><td>Fungizid</td></tr>
 <tr><td>Bromuconazol</td><td>1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4-dichlorophenyl)tetrahydrofurfuryl]-1H-1,2,4-triazole</td><td>116255-48-2</td><td>680</td><td>Fungizid</td></tr>
 <tr><td>Bupirimate</td><td>5-butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulfamate</td><td>41483-43-6</td><td>261</td><td>Fungizid</td></tr>
@@ -2125,7 +2141,6 @@ Anhang 1[^t-1]
 <tr><td>Diflufenican</td><td>2’,4’-difluoro-2-(α,α,α-trifluoro-m-tolyloxy)nicotinanilide</td><td>83164-33-4</td><td>462</td><td>Herbizid</td></tr>
 <tr><td>Dimethachlor</td><td>2-chloro-N-(2-methoxyethyl)aceto-2’,6’-xylidide</td><td>50563-36-5</td><td>688</td><td>Herbizid</td></tr>
 <tr><td>Dimethenamid-P</td><td>S-2-chloro-N-(2,4-dimethyl-3-thienyl)-N- (2-methoxy-1-methylethyl)-acetamide</td><td>163515-14-8</td><td>638</td><td>Herbizid</td></tr>
-<tr><td>Dimethomorph</td><td>(E,Z 4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)acryloyl]morpholine</td><td>110488-70-5</td><td>483</td><td>Fungizid</td></tr>
 <tr><td>Dinatriumphosphonat</td><td>disodium phosphonate</td><td>13708-85-5</td><td>808</td><td>Fungizid</td></tr>
 <tr><td>Dithianon</td><td>5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithi-in- 2,3-dicarbonitrile</td><td>3347-22-6</td><td>153</td><td>Fungizid</td></tr>
 <tr><td>Dodemorph</td><td>4-cyclododecyl-2,6-dimethylmorpholine</td><td>1593-77-7</td><td>300</td><td>Fungizid</td></tr>
@@ -2226,7 +2241,6 @@ Anhang 1[^t-1]
 <tr><td>Mecoprop-P</td><td>(R)-2-(4-chloro-o-tolyloxy)propionic acid</td><td>16484-77-8</td><td>475</td><td>Herbizid</td></tr>
 <tr><td>Mefenpyr-Diethyl</td><td>diethyl (RS)-1-(2,4-dichlororphenyl)-5-methyl-2-pyrazoline-3,5-dicarboxylate</td><td>135590-91-9</td><td>651.229</td><td>Herbizid «Safener»</td></tr>
 <tr><td>Mefentrifluconazol</td><td>(2RS)-2-[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol</td><td>1417782-03-6</td><td>1004</td><td>Fungizid</td></tr>
-<tr><td>Mepanipyrim</td><td>N-(4-methyl-6-prop-1-ynylpyrimidin-2-yl)aniline</td><td>110235-47-7</td><td>611</td><td>Fungizid</td></tr>
 <tr><td>Mepiquat</td><td>1,1-dimethylpiperidinium *Variante*: Mepiquat-chloride</td><td>15302-91-7 24307-26-4</td><td>440 440.302</td><td>Phytoregulator</td></tr>
 <tr><td>Meptyldinocap</td><td>Mischung aus 75–100 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylcrotonat und 25–0 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylisocrotonat</td><td>6119-92-2</td><td>811</td><td>Fungizid</td></tr>
 <tr><td>Mesosulfuron-methyl</td><td>methyl 2-[3-(4,6-dimethoxypyrimidin-2-yl)ureidosulfonyl]-4-methanesulfonamidomethylbenzoate</td><td>208465-21-8</td><td>663.201</td><td>Herbizid</td></tr>
@@ -2274,7 +2288,6 @@ Anhang 1[^t-1]
 <tr><td>Proquinazid</td><td>6-iodo-2-propoxy-3-propylquinazolin-4(3H)-one</td><td>189278-12-4</td><td>764</td><td>Fungizid</td></tr>
 <tr><td>Prosulfocarb</td><td>S-benzyl dipropylthiocarbamate</td><td>52888-80-9</td><td>539</td><td>Herbizid</td></tr>
 <tr><td>Prosulfuron</td><td>1-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-3-[2-(3,3,3-trifluoropropyl)-phenylsulfonyl]-urea</td><td>94125-34-5</td><td>579</td><td>Herbizid</td></tr>
-<tr><td>Proteine</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
 <tr><td>Prothioconazol</td><td>(RS)-2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-2,4-dihydro-1,2,4-triazole-3-thione</td><td>178928-70-6</td><td>745</td><td>Fungizid</td></tr>
 <tr><td>Pyraclostrobin</td><td>methyl N-(2-{[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxymethyl}phenyl) N-methoxy carbamate</td><td>175013-18-0</td><td>657</td><td>Fungizid</td></tr>
 <tr><td>Pyraflufen-ethyl</td><td>ethyl 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methylpyrazol-3-yl)-4-fluorophenoxyacetate</td><td>129630-17-7</td><td>605.202</td><td>Herbizid</td></tr>
@@ -2348,6 +2361,7 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Ampelomyces quisqualis – Stamm M10</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Aureobasidium pullulans – Stämme DSM 14940, DSM 14941</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Bakterizid</td></tr>
 <tr><td colspan="2">Bacillus amyloliquefaciens – Stamm FZB24</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Bakterizid, Fungizid, Stoff mit geringem Risiko</td></tr>
+<tr><td colspan="2">Bacillus amyloliquefaciens – Stamm MBI 600</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Bacillus amyloliquefaciens – Stamm QST 713</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Bakterizid, Fungizid</td></tr>
 <tr><td colspan="2">Bacillus amyloliquefaciens sp plantarum – Stamm D747</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Bacillus thuringiensis var. aizawai – Stämme GC-91, ABTS-1857</td><td colspan="2">Entomopathogene Bakterie</td><td colspan="2">Bakterie</td><td colspan="2">Insektizid</td></tr>
@@ -2360,10 +2374,13 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Coniothyrium minitans – Stamm K1</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Cydia pomonella Granulovirus (Apfelwicklergranulose-Virus, CpGV) – Isolate CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid, Stoff mit geringem Risiko</td></tr>
 <tr><td colspan="2">Gliocladium catenulatum – Stamm J1446</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid, Stoff mit geringem Risiko</td></tr>
+<tr><td colspan="2">Helicoverpa armigera Nucleopolyhedrovirus – Stamm HaNPV-BJ</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Metarhizium anisopliae – Stamm BIPESCO5 (F52), FAL 997</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Paecilomyces fumosoroseus</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Purpureocillium lilacinum – Stamm 251</td><td colspan="2">Pathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Nematizid</td></tr>
 <tr><td colspan="2">Pepino mosaic virus – Stamm CH2, Isolat 1906</td><td colspan="2">Viraler Antagonist</td><td colspan="2">Virus</td><td colspan="2">Viruzid, Stoff mit geringem Risiko, nur die Verwendung in Gewächshäusern ist zulässig</td></tr>
+<tr><td colspan="2">Pepino mosaic virus – Stamm CH2, Isolat VC1</td><td colspan="2">Viraler Antagonist</td><td colspan="2">Virus</td><td colspan="2">Stimulator der natürlichen Abwehrkräfte, Stoff mit geringem Risiko, nur die Verwendung in Gewächshäusern ist zulässig</td></tr>
+<tr><td colspan="2">Pepino mosaic virus – Stamm LP, Isolat VX1</td><td colspan="2">Viraler Antagonist</td><td colspan="2">Virus</td><td colspan="2">Stimulator der natürlichen Abwehrkräfte, Stoff mit geringem Risiko, nur die Verwendung in Gewächshäusern ist zulässig</td></tr>
 <tr><td colspan="2">Phlebiopsis gigantea – Stamm VRA 1835</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid, Stoff mit geringem Risiko</td></tr>
 <tr><td colspan="2">Photorhabdus luminescens – Stamm ATCC 29999</td><td colspan="2">Entomopathogene Bakterien</td><td colspan="2">Bakterien</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Pseudomonas chlororaphis – Stamm MA342</td><td colspan="2">Bakterielle Antagonisten</td><td colspan="2">Bakterien</td><td colspan="2">Saatbeizmittel</td></tr>
@@ -2373,114 +2390,115 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Trichoderma asperellum – Stamm ICC 012</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Trichoderma gamsii – Stamm ICC 080</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Verticillium lecanii – Stämme IMI 328553, IMI 528555</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
-<tr><td colspan="2">Schalenwicklergranulose-Virus – Isolat GV-0001</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid</td></tr>
-<tr><td colspan="2">Helicoverpa armigera Nucleopolyhedrovirus – Stamm HaNPV-BJ</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Xenorhabdus bovienii – Stamm ATCC35271</td><td colspan="2">Entomopathogene Bakterien</td><td colspan="2">Bakterien</td><td colspan="2">Insektizid</td></tr>
 </table>
 
 ### Teil C: Makroorganismen
 
 <table>
-<tr><th colspan="2">Gebräuchliche Bezeichnung, Kennnummer</th><th colspan="3">Beschreibung</th><th colspan="2">Organismus</th><th colspan="3">Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
-<tr><td colspan="2">Adalia bipunctata</td><td colspan="3">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Amblyseius andersoni</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid, Akarizid</td></tr>
-<tr><td colspan="2">Amblyseius barkeri (mackenziei)</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Amblyseius californicus</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Amblyseius degenerans</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="3">Anagyrus vladimiri</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="3">Anastatus bifasciatus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="2">Anisopteromalus calandrae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Anthocoris nemoralis</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphelinus abdominalis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidius colemani</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidius ervi</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidius matricariae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidoletes aphidimyza</td><td colspan="3">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphytis melinus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="3">Cephalonomia tarsalis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="2">Chrysoperla carnea</td><td colspan="3">Räuberische Nevropteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Coccophagus scutellaris</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Cryptolaemus montrouzieri</td><td colspan="3">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Dacnusa sibirica</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Diglyphus isaea</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="3">Encarsia citrina</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="2">Encarsia formosa</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Encyrtus lecaniorum</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Ephedrus cerasicola</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Eretmocerus eremicus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Eretmocerus mundus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Eupeodes corollae</td><td colspan="3">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="3">Exochomus quadripustulatus</td><td colspan="2">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="2">Feltiella acarisuga</td><td colspan="3">Räuberische Gallmücke</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Habrobracon hebetor</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Heterorhabditis bacteriophora</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="3">Heterorhabditis downesi</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="2">Heterorhabditis megidis</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Hypoaspis aculeifer</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Lariophagus distinguendus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Leptomastidea abnormis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Leptomastix dactylopii</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Macrolophus pigmaeus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Metaphycus helvolus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Microterys flavus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Orius insidiosus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Orius laevigatus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Orius majusculus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Phasmarhabditis hermaphrodita</td><td colspan="3">Schneckenparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Molluskizid</td></tr>
-<tr><td colspan="2">Phytoseiulus persimilis</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Praon volucre</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="3">Pronematus ubiquitus</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="4">Akarizid</td></tr>
-<tr><td colspan="2">Pseudaphycus maculipennis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Rodolia cardinalis</td><td colspan="3">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
-<tr><td colspan="3">Sphaerophoria rueppellii</td><td colspan="2">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
-<tr><td colspan="2">Steinernema carpocapsae</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Steinernema carpocapsae all strain</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Steinernema feltiae</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Stratiolaelaps scimitus</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Transeius montdorensis (Synonyme: Amblyseius montdorensis und Typhlodromips montdorensis)</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid, Akarizid</td></tr>
-<tr><td colspan="2">Trichogramma brassicae Bezdenko</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trichogramma cacoeciae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trichogramma evanescens</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trichopria drosophilae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trissolcus basalis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Typhlodromips swirskii</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><th colspan="2">Gebräuchliche Bezeichnung, Kennnummer</th><th colspan="3">Beschreibung</th><th colspan="3">Organismus</th><th colspan="4">Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
+<tr><td colspan="2">Adalia bipunctata</td><td colspan="3">Räuberische Käfer</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Amblyseius andersoni</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid, Akarizid</td></tr>
+<tr><td colspan="2">Amblyseius barkeri (mackenziei)</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Amblyseius californicus</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Amblyseius degenerans</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Anagyrus vladimiri</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="3">Anastatus bifasciatus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="2">Anisopteromalus calandrae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Anthocoris nemoralis</td><td colspan="3">Räuberische Wanzen</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Aphelinus abdominalis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Aphidius colemani</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Aphidius ervi</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Aphidius matricariae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Aphidoletes aphidimyza</td><td colspan="3">Räuberische Dipteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Aphytis melinus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Cephalonomia tarsalis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="2">Chrysoperla carnea</td><td colspan="3">Räuberische Nevropteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Chrysoperla lucasina</td><td colspan="4">Räuberische Neuropteren</td><td colspan="3">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Coccophagus scutellaris</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Cryptolaemus montrouzieri</td><td colspan="3">Räuberische Käfer</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Dacnusa sibirica</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Diglyphus isaea</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Encarsia citrina</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="2">Encarsia formosa</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Encyrtus lecaniorum</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Ephedrus cerasicola</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Eretmocerus eremicus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekt</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Eretmocerus mundus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekt</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Eupeodes corollae</td><td colspan="3">Räuberische Dipteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Exochomus quadripustulatus</td><td colspan="2">Räuberische Käfer</td><td colspan="3">Insekten</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="2">Feltiella acarisuga</td><td colspan="3">Räuberische Gallmücke</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Habrobracon hebetor</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Heterorhabditis bacteriophora</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Heterorhabditis downesi</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="2">Heterorhabditis megidis</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Hypoaspis aculeifer</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Lariophagus distinguendus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Leptomastidea abnormis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Leptomastix dactylopii</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Macrolophus pigmaeus</td><td colspan="3">Räuberische Wanzen</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Metaphycus helvolus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Microterys flavus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Orius insidiosus</td><td colspan="3">Räuberische Wanzen</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Orius laevigatus</td><td colspan="3">Räuberische Wanzen</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Orius majusculus</td><td colspan="3">Räuberische Wanzen</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Phasmarhabditis hermaphrodita</td><td colspan="3">Schneckenparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="4">Molluskizid</td></tr>
+<tr><td colspan="2">Phytoseiulus persimilis</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Praon volucre</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Pronematus ubiquitus</td><td colspan="2">Raubmilben</td><td colspan="3">Milben</td><td colspan="5">Akarizid</td></tr>
+<tr><td colspan="2">Pseudaphycus maculipennis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Rodolia cardinalis</td><td colspan="3">Räuberische Käfer</td><td colspan="3">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Sphaerophoria rueppellii</td><td colspan="2">Räuberische Dipteren</td><td colspan="3">Insekten</td><td colspan="5">Insektizid</td></tr>
+<tr><td colspan="2">Steinernema carpocapsae</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Steinernema carpocapsae all strain</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Steinernema feltiae</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="3">Nematoden</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Stratiolaelaps scimitus</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Transeius montdorensis (Synonyme: Amblyseius montdorensis und Typhlodromips montdorensis)</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="3">Insektizid, Akarizid</td></tr>
+<tr><td colspan="2">Trichogramma brassicae Bezdenko</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Trichogramma cacoeciae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekt</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Trichogramma evanescens</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Trichopria drosophilae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Trissolcus basalis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="3">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Typhlodromips swirskii</td><td colspan="3">Raubmilben</td><td colspan="3">Milben</td><td colspan="4">Insektizid</td></tr>
 </table>
 
 ### Teil D: Grundstoffe
 
 <table>
-<tr><th colspan="2">Gebräuchliche Bezeichnung</th><th colspan="2">Spezifikation</th><th colspan="3">Wirkungsart / Besondere Bedingungen und Einschränkungen</th></tr>
-<tr><td colspan="2">Bier CAS-Nr.: 8029-31-0</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung als Lockmittel für Becherfallen</td></tr>
-<tr><td colspan="2">Tonhaltige Pflanzenkohle – CAS-Nr.: 7440-44-0 (Aktivkohle) – CAS-Nr.: 1333-86-4 (Kohlenschwarz) – CAS-Nr.: 1302-78-9 (Bentonit)</td><td colspan="2">Gemisch aus Pflanzenkohle und Bentonit. Kohle: Erforderliche Reinheit gemäss Verordnung (EU) Nr. 231/2012[^annex1-lvlu1-partD-1] Bentonit: Erforderliche Reinheit gemäss Durchführungsverordnung (EU) Nr. 1060/2013[^annex1-lvlu1-partD-2]</td><td colspan="3">Anwendung zur Bekämpfung von Esca im Weinbau mittels Einarbeitung in den Boden; Höchstdosis 500 kg/ha</td></tr>
-<tr><td colspan="2">Chitosanhydrochlorid CAS-Nr.: 70694-72-3</td><td colspan="2">Reinheit gemäss Spezifikationen des Europäischen Arzneibuches. Höchstgehalt an Schwermetallen: 40 ppm</td><td colspan="3">Anwendung als Fungizid und Bakterizid zur Saat- und Pflanzgutbehandlung oder Blattanwendung; Höchstdosis 800 g a.i/ha.</td></tr>
-<tr><td colspan="2">Natriumchlorid CAS-Nr.: 7647-14-5</td><td colspan="2">Reinheit 970 g/kg Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung als Fungizid gegen Echten Mehltau der Weinrebe, Stadium BBCH 10 bis 57; Höchstdosis 6 kg a.i./ha und pro Jahr; Wartefrist 30 Tage. Anwendung als Insektizid gegen Traubenwickler, Stadium BBCH 55 bis 91; Höchstdosis 3.6 kg a.i./ha und pro Jahr; Wartefrist 30 Tage. Anwendung gegen Pilzkrankheiten in Speisepilzen; max. 0.03g a.i./kg Substrat.</td></tr>
-<tr><td colspan="2">Equisetum arvense L.</td><td colspan="2">Reinheit gemäss Spezifikationen des Europäischen Arzneibuches</td><td colspan="3">Extraktion, mittels Abkochen in heissem Wasser, der sterilen, getrockneten, oberirdischen Sprossachsen</td></tr>
-<tr><td colspan="2">Brennnesselextrakt</td><td colspan="2">100 % Brennnesselextrakt</td><td colspan="3">Extraktion mittels Fermentation in Wasser, anschliessend Filtration</td></tr>
-<tr><td colspan="2">Fruktose CAS-Nr: 57-48-7</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung gegen Apfelwickler; Höchstdosis 100 g/ha; max. 7 Anwendungen pro Jahr. Anwendung gegen die Amerikanische Rebzikade (Scaphoideus titanus), Stadium BBCH 17-57; max. 45 g/ha und Jahr. Anwendung gegen den Falschen Mehltau in Reben, Stadium BBCH 10-57; max. 240g/ha und Jahr.</td></tr>
-<tr><td colspan="2">Sonnenblumenöl CAS-Nr.: 8001-21-6</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung als Fungizid in Tomate gegen Echten Mehltau, Stadium 32 bis 71; Höchstkonzentration 0,5 %; Blüten nicht behandeln</td></tr>
-<tr><td colspan="2">Natriumhydrogencarbonat CAS-Nr.: 144-55-8</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung als Fungizid für folgende Indikationen: – Gemüse, Zierpflanzen, Rebe, Echter Mehltau; Stadium BBCH 12 bis 89; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Apfel, Schorf, Stadium 10 bis 85; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Bekämpfung von Lagerkrankheiten im Obst, nach der Ernte; max. 2 Behandlungen mit max. 4%. Bekämpfung von Moosen in Topfpflanzen, max. 122 kg/ha; Verträglichkeit zuerst auf wenigen Pflanzen prüfen.</td></tr>
-<tr><td colspan="2">Calciumhydroxid CAS-Nr. 1305-62-0</td><td colspan="2">920 g/kg Lebensmittelqualität Folgende Verunreinigung dürfen die nachstehend genannten Werte nicht überschreiten (ausgedrückt in mg/kg in der Trockensubstanz): Barium 300 mg/kg, Fluorid 50 mg/kg, Arsen 3 mg/kg, Blei 2 mg/kg.</td><td colspan="3">Anwendung ausschliesslich ausserhalb der Vegetationsperiode in Kern- und Steinobst zur Bekämpfung von Krebs.</td></tr>
-<tr><td colspan="2">Entrahmte Milch (Magermilch)</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Die verwendete Magermilch muss mit einem Verfahren nach Artikel 49 Absatz 1 der Hygieneverordnung EDI vom 16. Dezember 2016[^annex1-lvlu1-partD-3] (HyV) hitzebehandelt worden sein. Die Magermilch darf nicht eingesetzt werden auf den essbaren Teilen von Pflanzen, die zum menschlichen Verzehr gedacht sind. Eine Anwendung auf Keltertrauben ist erlaubt, wenn die Etikette des damit hergestellten Weins die Angaben nach Artikel 75 Absatz 1 Buchstabe e der Verordnung des EDI vom 16. Dezember 2016[^annex1-lvlu1-partD-4] über Getränke enthält.</td></tr>
-<tr><td colspan="2">Lecithine CAS-Nr.: 8002-43-5</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung als Fungizid gemäss folgenden Indikationen: – Apfel, Echter Mehltau, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Pfirsich, Kräuselkrankheit, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Stachelbeere, Stadium BBCH 10 bis 85; Höchstdosis 2000 g a.i/ha; Wartefrist 5 Tage; – Gurke, Kopfsalat, Nüsslisalat/Feldsalat, Tomate, Brüsseler Witloof, Echter Mehltau, Krautfäule, Alternaria, Stadium BBCH 10 bis 89; Höchstdosis 2250 g a.i/ha; Wartefrist 5 Tage; – Zierpflanzen, Stadium BBCH 10 bis 89; Höchstdosis 225 g a.i/ha; – Rebe, Echter und Falscher Mehltau, Stadium BBCH 10 bis 85; Höchstdosis 225 g a.i/ha; Wartefrist 30 Tage; – Erdbeeren, Himbeeren, Pilzkrankheiten, Stadium BBCH 10-89; Höchstdosis 1 kg a.i./ha; – Kartoffeln, Krautfäule, Stadium BBCH 10-90; Höchstdosis 800 g a.i./ha; – Karotten, Echter Mehltau, Stadium BBCH 19-90; Höchstdosis 2 kg a.i./ha.</td></tr>
-<tr><td colspan="2">Molke</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Die verwendete Molke muss mit einem Verfahren nach Artikel 49 Absatz 1 HyV hitzebehandelt worden sein. Die Molke darf nicht eingesetzt werden auf den essbaren Teilen von Pflanzen, die zum menschlichen Verzehr gedacht sind. Eine Anwendung auf Keltertrauben ist erlaubt, wenn die Etikette des damit hergestellten Weins die Angaben nach Artikel 75 Absatz 1 Buchstabe e der Verordnung des EDI über Getränke enthält.</td></tr>
-<tr><td colspan="2">Wasserstoffperoxid CAS-Nr.: 7722-84-1</td><td colspan="2">Wässrige Lösung (&lt; 5 %) Zur Herstellung der Lösung verwendetes Wasserstoffperoxid muss eine Reinheit gemäss den Spezifikationen des JECFA[^annex1-lvlu1-partD-5] der FAO/WHO haben.</td><td colspan="3">Anwendung als Saatbeizmittel und zur Desinfektion von Schnittwerkzeug</td></tr>
-<tr><td colspan="2">Diammoniumphosphat CAS-Nr.: 7783-28-0</td><td colspan="2">Weintaugliche Qualität</td><td colspan="3">Anwendung als Lockmittel für Becherfallen zum Massenfang der Kirschfruchtfliege und Olivenfruchtfliege</td></tr>
-<tr><td colspan="2">Senfsaatpulver</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung zur Beizung von Weizensaat; Höchstdosis 1500 g a.i/100 kg Saatgut</td></tr>
-<tr><td colspan="2">*Salix* spp. cortex</td><td colspan="2">Reinheit gemäss Spezifikationen des Europäischen Arzneibuches.</td><td colspan="3">Extraktion durch Aufguss der Rinde in heissem Wasser. Anwendung als Fungizid für folgende Indikationen: – Apfel, Echter Mehltau, Schorf, Stadium BBCH 53 bis 67; max. 2222 g a.i/ha; – Pfirsich, Kräuselkrankheit, Stadium BBCH 10 bis 57; max. 2222 g a.i/ha; – Rebpflanze, Echter und Falscher Mehltau, Stadium BBCH 10 bis 57; max. 667 g a.i/ha.</td></tr>
-<tr><td colspan="2">Saccharose CAS-Nr.: 57-50-1</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung als Lockmittel für Becherfallen zum Massenfang. Stärkung der pflanzeneigenen Widerstandskraft gegen folgende Indikationen: – Apfel, Apfelwickler, Stadium BBCH 6 bis 89; max. 1 kg a.i./ ha und Jahr; – Mais, Maiszünsler, Stadium BBC 12 bis 89; max. 80 g a.i./ ha und Jahr: – Reben, Amerikanische Rebzikade, Stadium BBCH 17 bis 57; max. 45 g a.i./ ha und Jahr – Reben, Falscher Mehltau, Stadium BBCH 10-57, max. 240 g a.i./ ha und Jahr</td></tr>
-<tr><td colspan="2">Talkum E 553b CAS-Nr.: 14807-96-6</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung &lt; 0,1 % alveolengängiges kristallines Siliciumdioxid</td><td colspan="3">Anwendung als Insekten- und Pilzabwehrmittel auf Obstbäumen ab Stadium BBCH 41; Höchstdosierung 20 kg a.i/ha. Anwendung als Insekten- und Pilzabwehrmittel im Weinbau ab Stadium BBCH 20; max. 12,75 kg a.i/ha.</td></tr>
-<tr><td colspan="2">Wein</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Anwendung nur als Lockmittel für Becherfallen zum Massenfang</td></tr>
-<tr><td colspan="2">Essig CAS-Nr.: 90132-02-8</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung Max. 10 % Essigsäure</td><td colspan="3">Anwendung als Lockmittel für Becherfallen zum Massenfang, zur Saatbeizung und zur Desinfektion von Schnittwerkzeug. Anwendung als Vorauflauf-Herbizid und zur Einzelpflanzenbehandlung; Risiko von Phytotoxizität.</td></tr>
-<tr><td colspan="2">Zwiebelöl CAS-Nr.: 8002-72-0</td><td colspan="2">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="3">Auf Doldenblütlern gegen die Möhrenfliege</td></tr>
-<tr><td colspan="2">Extrakt der Zwiebel von Allium cepa L.</td><td colspan="2">Die zur Herstellung des Extrakts verwendeten Zwiebeln müssen Lebensmittelqualität aufweisen.</td><td colspan="3">500 g gehackte Zwiebeln in 10 l Wasser während 10 Min. kochen, 15 Min. ziehen lassen und mit einem Metallsieb absieben. Extrakt innerhalb von 24 Std. verwenden. Anwendung als Spritzapplikation für folgende Indikationen: – Alternaria solani in Kartoffeln, Stadium BBCH 21-85, max. 5 Behandlungen im Intervall von 7 Tagen, max. 0,5 kg Zwiebeln/ha; – Phytophtora infestans in Tomaten, Stadium BBCH 21-75, max. 5 Behandlungen im Intervall von 3-4 Tagen, max. 0,75 kg Zwiebeln/ha; – Botrytis cinerea in Gurken, Stadium BBCH 21-75, max. 5 Behandlungen im Intervall von 7 Tagen, max. 0,75 kg Zwiebeln/ha.</td></tr>
+<tr><th colspan="2">Gebräuchliche Bezeichnung</th><th colspan="3">Spezifikation</th><th colspan="4">Wirkungsart / Besondere Bedingungen und Einschränkungen</th></tr>
+<tr><td colspan="2">Bier CAS-Nr.: 8029-31-0</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung als Lockmittel für Becherfallen</td></tr>
+<tr><td colspan="2">Tonhaltige Pflanzenkohle – CAS-Nr.: 7440-44-0 (Aktivkohle) – CAS-Nr.: 1333-86-4 (Kohlenschwarz) – CAS-Nr.: 1302-78-9 (Bentonit)</td><td colspan="3">Gemisch aus Pflanzenkohle und Bentonit. Kohle: Erforderliche Reinheit gemäss Verordnung (EU) Nr. 231/2012[^annex1-lvlu1-partD-1] Bentonit: Erforderliche Reinheit gemäss Durchführungsverordnung (EU) Nr. 1060/2013[^annex1-lvlu1-partD-2]</td><td colspan="4">Anwendung zur Bekämpfung von Esca im Weinbau mittels Einarbeitung in den Boden; Höchstdosis 500 kg/ha</td></tr>
+<tr><td colspan="3">Chitosan CAS-Nr.: 9012-76-4</td><td colspan="3">≥ 85 % Chitosan Höchstgehalt an Schwermetallen: max. 20 mg/kg Lebensmittelqualität, die den Spezifikationen für «Chitosan-Extrakt aus Pilzen» gemäss der Durchführungsverordnung (EU) Nr. 2017/2470[^annex1-lvlu1-partD-3] der Kommission entspricht.</td><td colspan="3">Anwendung als Fungizid und Bakterizid zur Saat- und Pflanzgutbehandlung oder Blattanwendung; Höchstdosis 800 g a.i/ha</td></tr>
+<tr><td colspan="2">Chitosanhydrochlorid CAS-Nr.: 70694-72-3</td><td colspan="3">Reinheit gemäss Spezifikationen des Europäischen Arzneibuches. Höchstgehalt an Schwermetallen: 40 ppm</td><td colspan="4">Anwendung als Fungizid und Bakterizid zur Saat- und Pflanzgutbehandlung oder Blattanwendung; Höchstdosis 800 g a.i/ha.</td></tr>
+<tr><td colspan="2">Natriumchlorid CAS-Nr.: 7647-14-5</td><td colspan="3">Reinheit 970 g/kg Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung als Fungizid gegen Echten Mehltau der Weinrebe, Stadium BBCH 10 bis 57; Höchstdosis 6 kg a.i./ha und pro Jahr; Wartefrist 30 Tage. Anwendung als Insektizid gegen Traubenwickler, Stadium BBCH 55 bis 91; Höchstdosis 3.6 kg a.i./ha und pro Jahr; Wartefrist 30 Tage. Anwendung gegen Pilzkrankheiten in Speisepilzen; max. 0.03g a.i./kg Substrat.</td></tr>
+<tr><td colspan="2">Equisetum arvense L.</td><td colspan="3">Reinheit gemäss Spezifikationen des Europäischen Arzneibuches</td><td colspan="4">Extraktion, mittels Abkochen in heissem Wasser, der sterilen, getrockneten, oberirdischen Sprossachsen</td></tr>
+<tr><td colspan="2">Brennnesselextrakt</td><td colspan="3">100 % Brennnesselextrakt</td><td colspan="4">Extraktion mittels Fermentation in Wasser, anschliessend Filtration</td></tr>
+<tr><td colspan="2">Fruktose CAS-Nr: 57-48-7</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung gegen Apfelwickler; Höchstdosis 100 g/ha; max. 7 Anwendungen pro Jahr. Anwendung gegen die Amerikanische Rebzikade (Scaphoideus titanus), Stadium BBCH 17-57; max. 45 g/ha und Jahr. Anwendung gegen den Falschen Mehltau in Reben, Stadium BBCH 10-57; max. 240g/ha und Jahr.</td></tr>
+<tr><td colspan="2">Sonnenblumenöl CAS-Nr.: 8001-21-6</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung als Fungizid in Tomate gegen Echten Mehltau, Stadium 32 bis 71; Höchstkonzentration 0,5 %; Blüten nicht behandeln</td></tr>
+<tr><td colspan="2">Natriumhydrogencarbonat CAS-Nr.: 144-55-8</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung als Fungizid für folgende Indikationen: – Gemüse, Zierpflanzen, Rebe, Beerenobst, Echter Mehltau; Stadium BBCH 12 bis 89; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Apfel, Schorf, Stadium 10 bis 85; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Bekämpfung von Lagerkrankheiten im Obst, nach der Ernte; max. 2 Behandlungen mit max. 4 %. Bekämpfung von Moosen in Topfpflanzen, max. 122 kg/ha; Verträglichkeit zuerst auf wenigen Pflanzen prüfen.</td></tr>
+<tr><td colspan="2">Calciumhydroxid CAS-Nr. 1305-62-0</td><td colspan="3">920 g/kg Lebensmittelqualität Folgende Verunreinigung dürfen die nachstehend genannten Werte nicht überschreiten (ausgedrückt in mg/kg in der Trockensubstanz): Barium 300 mg/kg, Fluorid 50 mg/kg, Arsen 3 mg/kg, Blei 2 mg/kg.</td><td colspan="4">Anwendung ausschliesslich ausserhalb der Vegetationsperiode in Kern- und Steinobst zur Bekämpfung von Krebs.</td></tr>
+<tr><td colspan="2">Entrahmte Milch (Magermilch)</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Die verwendete Magermilch muss mit einem Verfahren nach Artikel 49 Absatz 1 der Hygieneverordnung EDI vom 16. Dezember 2016[^annex1-lvlu1-partD-4] (HyV) hitzebehandelt worden sein. Die Magermilch darf nicht eingesetzt werden auf den essbaren Teilen von Pflanzen, die zum menschlichen Verzehr gedacht sind. Eine Anwendung auf Keltertrauben ist erlaubt, wenn die Etikette des damit hergestellten Weins die Angaben nach Artikel 75 Absatz 1 Buchstabe e der Verordnung des EDI vom 16. Dezember 2016[^annex1-lvlu1-partD-5] über Getränke enthält.</td></tr>
+<tr><td colspan="2">Lecithine CAS-Nr.: 8002-43-5</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung als Fungizid gemäss folgenden Indikationen: – Apfel, Echter Mehltau, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Pfirsich, Kräuselkrankheit, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Stachelbeere, Stadium BBCH 10 bis 85; Höchstdosis 2000 g a.i/ha; Wartefrist 5 Tage; – Gurke, Kopfsalat, Nüsslisalat/Feldsalat, Tomate, Brüsseler Witloof, Echter Mehltau, Krautfäule, Alternaria, Stadium BBCH 10 bis 89; Höchstdosis 2250 g a.i/ha; Wartefrist 5 Tage; – Zierpflanzen, Stadium BBCH 10 bis 89; Höchstdosis 225 g a.i/ha; – Rebe, Echter und Falscher Mehltau, Stadium BBCH 10 bis 85; Höchstdosis 225 g a.i/ha; Wartefrist 30 Tage; – Erdbeeren, Himbeeren, Pilzkrankheiten, Stadium BBCH 10-89; Höchstdosis 1 kg a.i./ha; – Kartoffeln, Krautfäule, Stadium BBCH 10-90; Höchstdosis 800 g a.i./ha; – Karotten, Echter Mehltau, Stadium BBCH 19-90; Höchstdosis 2 kg a.i./ha.</td></tr>
+<tr><td colspan="2">Molke</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Die verwendete Molke muss mit einem Verfahren nach Artikel 49 Absatz 1 HyV hitzebehandelt worden sein. Die Molke darf nicht eingesetzt werden auf den essbaren Teilen von Pflanzen, die zum menschlichen Verzehr gedacht sind. Eine Anwendung auf Keltertrauben ist erlaubt, wenn die Etikette des damit hergestellten Weins die Angaben nach Artikel 75 Absatz 1 Buchstabe e der Verordnung des EDI über Getränke enthält.</td></tr>
+<tr><td colspan="2">Wasserstoffperoxid CAS-Nr.: 7722-84-1</td><td colspan="3">Wässrige Lösung (&lt; 5 %) Zur Herstellung der Lösung verwendetes Wasserstoffperoxid muss eine Reinheit gemäss den Spezifikationen des JECFA[^annex1-lvlu1-partD-6] der FAO/WHO haben.</td><td colspan="4">Anwendung als Saatbeizmittel und zur Desinfektion von Schnittwerkzeug</td></tr>
+<tr><td colspan="2">Diammoniumphosphat CAS-Nr.: 7783-28-0</td><td colspan="3">Weintaugliche Qualität</td><td colspan="4">Anwendung als Lockmittel für Becherfallen zum Massenfang der Kirschfruchtfliege und Olivenfruchtfliege</td></tr>
+<tr><td colspan="2">Senfsaatpulver</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung zur Beizung von Weizensaat; Höchstdosis 1500 g a.i/100 kg Saatgut</td></tr>
+<tr><td colspan="2">*Salix* spp. cortex</td><td colspan="3">Reinheit gemäss Spezifikationen des Europäischen Arzneibuches.</td><td colspan="4">Extraktion durch Aufguss der Rinde in heissem Wasser. Anwendung als Fungizid für folgende Indikationen: – Apfel, Echter Mehltau, Schorf, Stadium BBCH 53 bis 67; max. 2222 g a.i/ha; – Pfirsich, Kräuselkrankheit, Stadium BBCH 10 bis 57; max. 2222 g a.i/ha; – Rebpflanze, Echter und Falscher Mehltau, Stadium BBCH 10 bis 57; max. 667 g a.i/ha.</td></tr>
+<tr><td colspan="2">Saccharose CAS-Nr.: 57-50-1</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung als Lockmittel für Becherfallen zum Massenfang. Stärkung der pflanzeneigenen Widerstandskraft gegen folgende Indikationen: – Apfel, Apfelwickler, Stadium BBCH 6 bis 89; max. 1 kg a.i./ ha und Jahr; – Mais, Maiszünsler, Stadium BBC 12 bis 89; max. 80 g a.i./ ha und Jahr: – Reben, Amerikanische Rebzikade, Stadium BBCH 17 bis 57; max. 45 g a.i./ ha und Jahr – Reben, Falscher Mehltau, Stadium BBCH 10-57, max. 240 g a.i./ ha und Jahr</td></tr>
+<tr><td colspan="2">Talkum E 553b CAS-Nr.: 14807-96-6</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung &lt; 0,1 % alveolengängiges kristallines Siliciumdioxid</td><td colspan="4">Anwendung als Insekten- und Pilzabwehrmittel auf Obstbäumen ab Stadium BBCH 41; Höchstdosierung 20 kg a.i/ha. Anwendung als Insekten- und Pilzabwehrmittel im Weinbau ab Stadium BBCH 20; max. 12,75 kg a.i/ha.</td></tr>
+<tr><td colspan="2">Wein</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Anwendung nur als Lockmittel für Becherfallen zum Massenfang</td></tr>
+<tr><td colspan="2">Essig CAS-Nr.: 90132-02-8</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung Max. 10 % Essigsäure</td><td colspan="4">Anwendung als Lockmittel für Becherfallen zum Massenfang, zur Saatbeizung und zur Desinfektion von Schnittwerkzeug. Anwendung als Vorauflauf-Herbizid und zur Einzelpflanzenbehandlung; Risiko von Phytotoxizität.</td></tr>
+<tr><td colspan="2">Zwiebelöl CAS-Nr.: 8002-72-0</td><td colspan="3">Lebensmittel gemäss Lebensmittelgesetzgebung</td><td colspan="4">Auf Doldenblütlern gegen die Möhrenfliege</td></tr>
+<tr><td colspan="2">Extrakt der Zwiebel von Allium cepa L.</td><td colspan="3">Die zur Herstellung des Extrakts verwendeten Zwiebeln müssen Lebensmittelqualität aufweisen.</td><td colspan="4">500 g gehackte Zwiebeln in 10 l Wasser während 10 Min. kochen, 15 Min. ziehen lassen und mit einem Metallsieb absieben. Extrakt innerhalb von 24 Std. verwenden. Anwendung als Spritzapplikation für folgende Indikationen: – Alternaria solani in Kartoffeln, Stadium BBCH 21-85, max. 5 Behandlungen im Intervall von 7 Tagen, max. 0,5 kg Zwiebeln/ha; – Phytophtora infestans in Tomaten, Stadium BBCH 21-75, max. 5 Behandlungen im Intervall von 3-4 Tagen, max. 0,75 kg Zwiebeln/ha; – Botrytis cinerea in Gurken, Stadium BBCH 21-75, max. 5 Behandlungen im Intervall von 7 Tagen, max. 0,75 kg Zwiebeln/ha.</td></tr>
 </table>
 
 [^annex1-lvlu1-partD-1]: Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe, Fassung gemäss ABl. L 83 vom 22.3.2012, S. 1.
 [^annex1-lvlu1-partD-2]: Durchführungsverordnung (EU) Nr. 1060/2013 der Kommission vom 29. Oktober 2013 zur Zulassung von Bentonit als Zusatzstoff in Futtermitteln für alle Tierarten, Fassung gemäss ABl. L 289 vom 31.10.2013, S. 33.
-[^annex1-lvlu1-partD-3]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
-[^annex1-lvlu1-partD-4]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
-[^annex1-lvlu1-partD-5]: Gemeinsame FAO/WHO-Sachverständigenausschuss für Lebensmittelzusatzstoffe
+[^annex1-lvlu1-partD-3]: Durchführungsverordnung (EU) Nr. 2017/2470 der Kommission vom 20. Dezember 2017 zur Erstellung der Unionsliste der neuartigen Lebensmittel gemäss der Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates über neuartige Lebensmittel, Fassung gemäss ABl. L 351 vom 30.12.2017, S. 72.
+[^annex1-lvlu1-partD-4]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^annex1-lvlu1-partD-5]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^annex1-lvlu1-partD-6]: Gemeinsame FAO/WHO-Sachverständigenausschuss für Lebensmittelzusatzstoffe
 
 ### Teil E: Substitutionskandidaten
 
@@ -2671,7 +2689,7 @@ Anhang 5[^t-4]
 <sup>3</sup> Für die korrekte Auslegung des Anhangs der Verordnung (EU) Nr. 283/2013 gelten die folgenden Entsprechungen von Ausdrücken und Erlassen:
 
 <table>
-<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><th>EU</th><th>Schweiz</th></tr>
 <tr><td>zuständige europäische Behörde (Ziff. 1.6 und 1.7)</td><td>Zulassungsstelle</td></tr>
 <tr><td>zuständige Behörde (Ziff. 3.2.3)</td><td>Zulassungsstelle</td></tr>
 <tr><td>Richtlinie (EG) Nr. 2010/63/EU (Ziff. 1.10)</td><td>Tierschutzgesetz vom 16. Dezember 2005 (TSchG)</td></tr>
@@ -3117,9 +3135,9 @@ Die Beurteilungsstellen bewerten die Rückstandsmengen in protokollierten Versuc
 
 ### 9BI-2.4.2.4Rückstandsmengen in Erzeugnissen tierischen Ursprungs
 
-Die Beurteilungsstellen bewerten die Rückstandsmengen in Erzeugnissen tierischen Ursprungs und berücksichtigen dabei die in Anhang III Teil A Ziffer 8.4 der Richtlinie 91/414/EWG[^annex9-partI-lvlu2-lvld4e207-lvlu22-1] vorgesehenen Informationen sowie die Rückstände anderer Anwendungen.
+Die Beurteilungsstellen bewerten die Rückstandsmengen in Erzeugnissen tierischen Ursprungs und berücksichtigen dabei die in Anhang III Teil A Ziffer 8.4 der Richtlinie 91/414/EWG[^annex9-partI-lvlu2-lvld4e208-lvlu22-1] vorgesehenen Informationen sowie die Rückstände anderer Anwendungen.
 
-[^annex9-partI-lvlu2-lvld4e207-lvlu22-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
+[^annex9-partI-lvlu2-lvld4e208-lvlu22-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
 
 ### 9BI-2.4.2.5Potenzielle Exposition der Konsumenten und Konsumentinnen über die Nahrung
 
@@ -3137,7 +3155,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 
 ### 9BI-2.5.1.1Verbleib und Verteilung im Boden
 
-<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände[^annex9-partI-lvlu2-lvld4e207-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
+<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände[^annex9-partI-lvlu2-lvld4e208-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
 
 <sup>2</sup> Bei dieser Bewertung werden folgende Informationen berücksichtigt:
 
@@ -3158,7 +3176,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 - c. alle in Anhang 6 Ziffer 2 vorgesehenen relevanten Informationen über das Pflanzenschutzmittel, einschliesslich Informationen über Verteilung und Abbau im Boden;
 - d. gegebenenfalls Angaben über andere bewilligte Anwendungen von Pflanzenschutzmitteln in der vorgeschlagenen Anwendungsregion, wenn diese denselben Wirkstoff enthalten oder dieselben Rückstände hinterlassen.
 
-[^annex9-partI-lvlu2-lvld4e207-lvlu27-1]: Nicht gebundene Rückstände in Pflanzen und im Boden sind definiert als chemische Stoffe, die auf den Einsatz von Pflanzenschutzmitteln nach guter landwirtschaftlicher Praxis zurückzuführen sind und die ohne entscheidende Veränderung der chemischen Eigenschaften dieser Rückstände nicht extrahiert werden können. Nicht zu den nicht gebundenen Rückständen zählen Metaboliten, die in natürliche Stoffe umgewandelt werden.
+[^annex9-partI-lvlu2-lvld4e208-lvlu27-1]: Nicht gebundene Rückstände in Pflanzen und im Boden sind definiert als chemische Stoffe, die auf den Einsatz von Pflanzenschutzmitteln nach guter landwirtschaftlicher Praxis zurückzuführen sind und die ohne entscheidende Veränderung der chemischen Eigenschaften dieser Rückstände nicht extrahiert werden können. Nicht zu den nicht gebundenen Rückständen zählen Metaboliten, die in natürliche Stoffe umgewandelt werden.
 
 ### 9BI-2.5.1.2Verbleib und Verteilung im Grundwasser
 
@@ -3441,14 +3459,14 @@ Die Beurteilungsstellen bewerten die tatsächliche Wirkstoffkonzentration des Pf
 <sup>1</sup> Die Beurteilungsstellen bewerten die physikalischen und chemischen Eigenschaften des Pflanzenschutzmittels, insbesondere folgende Punkte:
 
 - a. die in der betreffenden Spezifikation aufgeführten physikalischen und chemischen Eigenschaften, sofern es eine adäquate FAO-Spezifikation gibt;
-- b. alle im «Manual on the development and use of FAO specifications for plant protection products»[^annex9-partI-lvlu2-lvld4e207-lvlu44-1] aufgeführten, für die Zubereitung relevanten physikalischen und chemischen Eigenschaften, wenn es keine adäquate FAO-Spezifikation gibt.
+- b. alle im «Manual on the development and use of FAO specifications for plant protection products»[^annex9-partI-lvlu2-lvld4e208-lvlu44-1] aufgeführten, für die Zubereitung relevanten physikalischen und chemischen Eigenschaften, wenn es keine adäquate FAO-Spezifikation gibt.
 
 <sup>2</sup> Bei der Bewertung werden folgende Informationen berücksichtigt:
 
 - a. die in Anhang 5 Ziffer 2 vorgesehenen Angaben über die physikalischen und chemischen Eigenschaften des Wirkstoffs sowie die Ergebnisse ihrer Bewertung;
 - b. die in Anhang 6 Ziffer 2 vorgesehenen Angaben über die physikalischen und chemischen Eigenschaften des Pflanzenschutzmittels.
 
-[^annex9-partI-lvlu2-lvld4e207-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex9-partI-lvlu2-lvld4e208-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Tankmischung
 
@@ -3564,9 +3582,9 @@ Die vorgeschlagenen Anweisungen zur Reinigung der Ausbringungsgeräte müssen de
 
 <sup>1</sup> Es wird keine Bewilligung erteilt, wenn der Anwender oder die Anwenderin bei der Handhabung und Anwendung des Pflanzenschutzmittels gemäss den vorgeschlagenen Bedingungen, einschliesslich Dosis und Anwendungsmethode, einer höheren als der annehmbaren Anwenderexposition (AOEL = Acceptable Operator Exposition Level) ausgesetzt ist.
 
-<sup>2</sup> Darüber hinaus setzt die Erteilung der Bewilligung voraus, dass die Höchstkonzentration eingehalten wird, die für den Wirkstoff und/oder die toxikologisch massgebliche(n) Verbindung(en) des Erzeugnisses nach der Verordnung des EDI vom 16. Dezember 2016[^annex9-partI-lvlu3-lvld4e259-lvlu19-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlichen und tierischer Herkunft festgesetzt worden ist.
+<sup>2</sup> Darüber hinaus setzt die Erteilung der Bewilligung voraus, dass die Höchstkonzentration eingehalten wird, die für den Wirkstoff und/oder die toxikologisch massgebliche(n) Verbindung(en) des Erzeugnisses nach der Verordnung des EDI vom 16. Dezember 2016[^annex9-partI-lvlu3-lvld4e260-lvlu19-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlichen und tierischer Herkunft festgesetzt worden ist.
 
-[^annex9-partI-lvlu3-lvld4e259-lvlu19-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e260-lvlu19-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Schutzkleidung oder -ausrüstung
 
@@ -3598,9 +3616,9 @@ Bei den Bewilligungen ist sicherzustellen, dass die Rückstände von den Mindest
 
 <sup>1</sup> Gibt es noch keine Angabe der Höchstkonzentration setzen die Beurteilungsstellen eine vorläufige Höchstkonzentration fest. Die Schlussfolgerungen in Bezug auf die festgelegten Höchstkonzentrationen müssen für alle Bedingungen gelten, die den Rückstandsgehalt in der Kultur beeinflussen können, wie der Anwendungszeitpunkt, die Aufwandmenge, die Anwendungshäufigkeit und die Anwendungsweise.
 
-<sup>2</sup> Basierend auf der Beurteilung potenzieller Rückstände in und auf essbaren Teilen von Pflanzen und -erzeugnissen durch die verantwortliche Beurteilungsstelle und gestützt auf die VPRH[^annex9-partI-lvlu3-lvld4e259-lvlu27-1] legt das BLV die Höchstkonzentrationen von Wirkstoffen fest.
+<sup>2</sup> Basierend auf der Beurteilung potenzieller Rückstände in und auf essbaren Teilen von Pflanzen und -erzeugnissen durch die verantwortliche Beurteilungsstelle und gestützt auf die VPRH[^annex9-partI-lvlu3-lvld4e260-lvlu27-1] legt das BLV die Höchstkonzentrationen von Wirkstoffen fest.
 
-[^annex9-partI-lvlu3-lvld4e259-lvlu27-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e260-lvlu27-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3ADI-Wert
 
@@ -3631,9 +3649,9 @@ Sollen behandelte Pflanzen oder Pflanzenerzeugnisse als Futtermittel verwendet w
 
 ### 9CI-2.5.1.2Verbleib und Verhalten in Grundwasser
 
-Es wird keine Bewilligung erteilt, wenn die zu erwartende Konzentration des Wirkstoffs oder seiner relevanten Metaboliten, Abbau- oder Reaktionsprodukte im Grundwasser, das als Trinkwasser genutzt wird oder dafür vorgesehen ist, den Anforderungen nach Anhang 2 Ziffer 22 GSchV[^annex9-partI-lvlu3-lvld4e259-lvlu34-1] nicht genügt.
+Es wird keine Bewilligung erteilt, wenn die zu erwartende Konzentration des Wirkstoffs oder seiner relevanten Metaboliten, Abbau- oder Reaktionsprodukte im Grundwasser, das als Trinkwasser genutzt wird oder dafür vorgesehen ist, den Anforderungen nach Anhang 2 Ziffer 22 GSchV[^annex9-partI-lvlu3-lvld4e260-lvlu34-1] nicht genügt.
 
-[^annex9-partI-lvlu3-lvld4e259-lvlu34-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex9-partI-lvlu3-lvld4e260-lvlu34-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Verbleib und Verhalten in Oberflächengewässern
 
@@ -4254,11 +4272,11 @@ Die verschiedenen Entwicklungsstadien und der Lebenszyklus des Mikroorganismus s
 
 <sup>2</sup> Informationen über den Ursprung und die Eigenschaften (z.B. Spezifität) des Mikroorganismus/seiner rückstandsbildenden Metaboliten/-toxine und seine beabsichtigte Verwendung bilden die Grundlage für die Bewertung von Verbleib und Verhalten von Pflanzenschutzmitteln in der Umwelt. Der Wirkungsweise des Mikroorganismus sollte Rechnung getragen werden.
 
-<sup>3</sup> Auch Verbleib und Verhalten jedes bekannten relevanten Metaboliten, der vom Mikroorganismus gebildet wird, ist zu bewerten. Diese Prüfung betrifft jedes Umweltkompartiment und erfolgt aufgrund der in Anhang IIB Abschnitt 7 Ziffer iv) der Richtlinie 91/414/EWG[^annex9-partII-lvlu2-lvld4e319-lvlu44-1] genannten Kriterien.
+<sup>3</sup> Auch Verbleib und Verhalten jedes bekannten relevanten Metaboliten, der vom Mikroorganismus gebildet wird, ist zu bewerten. Diese Prüfung betrifft jedes Umweltkompartiment und erfolgt aufgrund der in Anhang IIB Abschnitt 7 Ziffer iv) der Richtlinie 91/414/EWG[^annex9-partII-lvlu2-lvld4e320-lvlu44-1] genannten Kriterien.
 
 <sup>4</sup> Bei der Bewertung von Verbleib und Verhalten der Pflanzenschutzmittel in der Umwelt berücksichtigen die Beurteilungsstellen alle Umweltaspekte, einschliesslich Biota. Die Persistenz- und Vermehrungsfähigkeit von Mikroorganismen ist für alle Umweltkompartimente zu bewerten, es sei denn, es kann nachgewiesen werden, dass besondere Mikroorganismen nicht in ein spezifisches Kompartiment gelangen. Entsprechend ist die Mobilität von Mikroorganismen und ihrer rückstandsbildenden Metaboliten und -toxine zu prüfen.
 
-[^annex9-partII-lvlu2-lvld4e319-lvlu44-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
+[^annex9-partII-lvlu2-lvld4e320-lvlu44-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
 
 ### 9BII-2.7.1Risiko für Wasser
 
@@ -4483,9 +4501,9 @@ Die Zulassungsstelle teilt den Gesuchstellerinnen etwa getroffene Massnahmen nac
 
 <sup>10</sup> Eine Bewilligung wird nicht erteilt, wenn relevante Metaboliten/Toxine (d.h. Metaboliten/Toxine, die erwartungsgemäss für die Gesundheit des Menschen und/oder die Umwelt von Belang sind), die bekanntermassen von Mikroorganismen und/oder mikrobiellen Kontaminanten gebildet werden, im Pflanzenschutzmittel vorhanden sind, es sei denn, es kann nachgewiesen werden, dass die vorhandene Menge vor und nach der vorgeschlagenen Anwendung ein annehmbares Niveau nicht übersteigt.
 
-<sup>11</sup> Die Zulassungsstelle trägt dafür Sorge, dass angemessene Qualitätssicherungsmassnahmen getroffen werden, um die Identität des Mikroorganismus und den Inhalt des Pflanzenschutzmittels sicherzustellen. Zu diesen Massnahmen muss ein System wie das HACCP-Konzept (Hazard Analysis and Critical Control Points – Gefahrenanalyse und Überwachung kritischer Kontrollpunkte[^annex9-partII-lvlu3-lvld4e396-1]) oder ein gleichartiges System gehören.
+<sup>11</sup> Die Zulassungsstelle trägt dafür Sorge, dass angemessene Qualitätssicherungsmassnahmen getroffen werden, um die Identität des Mikroorganismus und den Inhalt des Pflanzenschutzmittels sicherzustellen. Zu diesen Massnahmen muss ein System wie das HACCP-Konzept (Hazard Analysis and Critical Control Points – Gefahrenanalyse und Überwachung kritischer Kontrollpunkte[^annex9-partII-lvlu3-lvld4e397-1]) oder ein gleichartiges System gehören.
 
-[^annex9-partII-lvlu3-lvld4e396-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
+[^annex9-partII-lvlu3-lvld4e397-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
 
 ### 9CII-2 Besondere Grundsätze
 
@@ -4499,9 +4517,9 @@ Um eine Bewilligung erteilen zu können, stellt die Zulassungsstelle sicher, das
 
 ### 9CII-2.2.1Bewertung des Mikroorganismusmindest- und ­höchstgehalts
 
-Für eine Bewertung des Mikroorganismusmindest- und -höchstgehalts in dem für die Herstellung von Pflanzenschutzmitteln verwendeten Ausgangsmaterial und im Pflanzenschutzmittel selbst müssen hinreichend Informationen vorhanden sein. Der Gehalt des Pflanzenschutzmittels an anderen Komponenten und Beistoffen und kontaminierende Mikroorganismen, die bei der Herstellung anfallen, müssen möglichst umfassend definiert sein. Die Zulassungsstelle trägt dafür Sorge, dass die Menge an kontaminierenden Organismen auf einem akzeptablen Niveau gehalten wird. Darüber hinaus sind der physikalische Zustand und die Art des Pflanzenschutzmittels im Einzelnen anzugeben, vorzugsweise gemäss dem «Catalogue of pesticide formulation types and international coding system»[^annex9-partII-lvlu3-lvld4e397-lvlu3-1].
+Für eine Bewertung des Mikroorganismusmindest- und -höchstgehalts in dem für die Herstellung von Pflanzenschutzmitteln verwendeten Ausgangsmaterial und im Pflanzenschutzmittel selbst müssen hinreichend Informationen vorhanden sein. Der Gehalt des Pflanzenschutzmittels an anderen Komponenten und Beistoffen und kontaminierende Mikroorganismen, die bei der Herstellung anfallen, müssen möglichst umfassend definiert sein. Die Zulassungsstelle trägt dafür Sorge, dass die Menge an kontaminierenden Organismen auf einem akzeptablen Niveau gehalten wird. Darüber hinaus sind der physikalische Zustand und die Art des Pflanzenschutzmittels im Einzelnen anzugeben, vorzugsweise gemäss dem «Catalogue of pesticide formulation types and international coding system»[^annex9-partII-lvlu3-lvld4e399-lvlu3-1].
 
-[^annex9-partII-lvlu3-lvld4e397-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
+[^annex9-partII-lvlu3-lvld4e399-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
 
 ### 9CII-2.2.2Resistenzen
 
@@ -4636,12 +4654,12 @@ Wartezeiten und Wiederbetretungsfristen oder andere Sicherheitsvorkehrungen, mit
 
 ### 9CII-2.6.1.9Bewilligungsbedingungen
 
-Die Bewilligungsbedingungen müssen den Vorgaben der Richtlinie 98/24/EG[^annex9-partII-lvlu3-lvld4e397-lvlu37-1] und der Richtlinie 2000/54/EG[^annex9-partII-lvlu3-lvld4e397-lvlu37-2] entsprechen. Die darin vorgesehenen Versuchsdaten und Informationen über die Erkennung von Symptomen einer Infektion oder Pathogenität und über die Wirksamkeit erster Hilfe und therapeutischer Massnahmen sind zu berücksichtigen. Die Bewilligungsbedingungen müssen ferner der Richtlinie 2004/37/EG[^annex9-partII-lvlu3-lvld4e397-lvlu37-3] entsprechen. Die Bewilligungsbedingungen müssen darüber hinaus der Richtlinie 89/656/EWG[^annex9-partII-lvlu3-lvld4e397-lvlu37-4] genügen.
+Die Bewilligungsbedingungen müssen den Vorgaben der Richtlinie 98/24/EG[^annex9-partII-lvlu3-lvld4e399-lvlu37-1] und der Richtlinie 2000/54/EG[^annex9-partII-lvlu3-lvld4e399-lvlu37-2] entsprechen. Die darin vorgesehenen Versuchsdaten und Informationen über die Erkennung von Symptomen einer Infektion oder Pathogenität und über die Wirksamkeit erster Hilfe und therapeutischer Massnahmen sind zu berücksichtigen. Die Bewilligungsbedingungen müssen ferner der Richtlinie 2004/37/EG[^annex9-partII-lvlu3-lvld4e399-lvlu37-3] entsprechen. Die Bewilligungsbedingungen müssen darüber hinaus der Richtlinie 89/656/EWG[^annex9-partII-lvlu3-lvld4e399-lvlu37-4] genügen.
 
-[^annex9-partII-lvlu3-lvld4e397-lvlu37-1]: Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
-[^annex9-partII-lvlu3-lvld4e397-lvlu37-2]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. Sept. 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, in der Fassung gemäss ABl. L 262 vom 17.10.2000, S. 21
-[^annex9-partII-lvlu3-lvld4e397-lvlu37-3]: Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit, in der Fassung gemäss ABl. L 204 vom 4.8.2007, S. 28
-[^annex9-partII-lvlu3-lvld4e397-lvlu37-4]: Richtlinie 89/656/EWG des Rates vom 30. Nov. 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz bei Benutzung persönlicher Schutzausrüstungen durch Arbeitnehmer bei der Arbeit, ABl. L 393 vom 30.12.1989, S. 18; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
+[^annex9-partII-lvlu3-lvld4e399-lvlu37-1]: Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
+[^annex9-partII-lvlu3-lvld4e399-lvlu37-2]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. Sept. 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, in der Fassung gemäss ABl. L 262 vom 17.10.2000, S. 21
+[^annex9-partII-lvlu3-lvld4e399-lvlu37-3]: Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit, in der Fassung gemäss ABl. L 204 vom 4.8.2007, S. 28
+[^annex9-partII-lvlu3-lvld4e399-lvlu37-4]: Richtlinie 89/656/EWG des Rates vom 30. Nov. 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz bei Benutzung persönlicher Schutzausrüstungen durch Arbeitnehmer bei der Arbeit, ABl. L 393 vom 30.12.1989, S. 18; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
 
 ### 9CII-2.6.2Durch Rückstände hervorgerufene Auswirkungen
 
@@ -4796,7 +4814,7 @@ Auf der Verpackung eines Pflanzenschutzmittels müssen die folgenden Angaben deu
 - 20\. die aufgrund der Einstufung nach Artikel 18 Absatz 4 nötigen Gefahrenpiktogramme, Signalwörter, Gefahrenhinweise und Sicherheitshinweise;
 - 21\. gegebenenfalls die Kategorien der Verwenderinnen und Verwender, die das Pflanzenschutzmittel verwenden dürfen.
 
-[^annex11-lvlu1-1]: Die IUPAC-Regeln können bei der Internationalen Union für reine und angewandte Chemie unter www.iupac.org abgerufen werden.
+[^annex11-lvlu1-1]: Die IUPAC-Regeln können bei der Internationalen Union für reine und angewandte Chemie unter: www.iupac.org abgerufen werden.
 
 Anhang 12[^t-11]
 
