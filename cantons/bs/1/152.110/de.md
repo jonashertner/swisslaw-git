@@ -4,13 +4,13 @@ number: "152.110"
 title: Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates
 short: AB
 language: de
-version: 2023-08-01
-valid_until: 2025-01-31
+version: 2025-02-01
+valid_until: 2025-10-31
 version_adopted: 2023-02-08
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5896/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5897/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates: Ausführungsbestimmungen | Grosser Rat / Om
 
 (AB)
 
-Vom 29. Juni 2006 (Stand 1. August 2023)
+Vom 29. Juni 2006 (Stand 1. Februar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -67,7 +67,7 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Präsenz**
 
-<sup>1</sup> Die Mitglieder sind verpflichtet, allen Sitzungen beizuwohnen.
+<sup>1</sup> Die Mitglieder sind verpflichtet, allen Sitzungen beizuwohnen. §§ 28a und 28b GO bestimmen die Ausnahmen.
 
 <sup>2</sup> Zu Beginn jeder Sitzung wird die Präsenz festgestellt. Wer sich innerhalb einer Viertelstunde nach der Eröffnung der Sitzung angemeldet hat, gilt als anwesend.
 
@@ -331,6 +331,18 @@ Für jede halbtägige Sitzung im Plenum:
 <sup>3</sup> Eine namentliche Abstimmung ist durchzuführen, falls zehn Ratsmitglieder dies schriftlich verlangen
 
 <sup>4</sup> Die Feststellung der Beschlussfähigkeit gemäss § 23 Abs. 2 GO sowie die Aufhebung der Immunität und die dringliche Inkraftsetzung eines Gesetzes oder Beschlusses gemäss § 29 Abs. 2 GO werden mit namentlicher Abstimmung durchgeführt.
+
+#### § 30b
+
+**Abstimmungen in Abwesenheit**
+
+<sup>1</sup> Ratsmitglieder, die aus persönlichen Gründen in Abwesenheit abstimmen wollen, melden dies dem Parlamentsdienst frühestmöglich, spätestens jedoch 24 Stunden vor Beginn einer Sitzung schriftlich, unter Angabe des Grundes und unter Beilage der erforderlichen Dokumente.
+
+<sup>2</sup> Ratsmitglieder, die wegen einer Krisensituation in Abwesenheit abstimmen wollen, melden dies dem Parlamentsdienst frühestmöglich vor Beginn der Sitzung schriftlich. Sie legen dar, inwiefern die Krisensituation sie an der Sitzungsteilnahme hindert.
+
+<sup>3</sup> Das Verfahren und die Informatikmittel zur Teilnahme an Abstimmungen in Abwesenheit müssen die Authentifizierung der betreffenden Ratsmitglieder und die korrekte Ermittlung der Abstimmungsergebnisse gewährleisten. Das Ratsbüro erlässt ausführende Bestimmungen.
+
+<sup>4</sup> Abstimmungen werden nicht wiederholt, wenn abwesende Ratsmitglieder ihre Stimme aus technischen Gründen nicht abgeben konnten.
 
 #### § 31
 
