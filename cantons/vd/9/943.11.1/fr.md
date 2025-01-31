@@ -4,7 +4,7 @@ number: "943.11.1"
 title: "RÈGLEMENT du 31.01.1990 d'application de la loi du 6 décembre 1988 sur les procédés de réclame (RLPR)"
 short: RLPR
 language: fr
-version: 2024-07-15
+version: 2025-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11.1?id=48e55fdd-198c-4d5e-8f30-c3eb6e3079f1"
 ---
 
@@ -458,11 +458,9 @@ dans laquelle «c» est un coefficient qui dépend de la hauteur à laquelle est
 
 **Dispositions transitoires de la modification du règlement du 3 juillet 2024 [^36-1]**
 
-<sup>1</sup> Les exploitants d'un commerce qui sont au bénéfice d'une autorisation de vente en détail au sens de l'article 66a de la LEAE[^36a-1], ainsi que toute personne physique ou morale soumise à la loi sur les procédés de réclame[^36a-2] (LPR), ont jusqu'au 31 janvier 2025 pour procéder aux adaptations nécessaires conformément à l'article 2a, alinéas 2, 4 et 5, du présent règlement.
+<sup>1</sup> Les exploitants d'un commerce qui sont au bénéfice d'une autorisation de vente en détail au sens de l'article 66a de la LEAE, ainsi que toute personne physique ou morale soumise à la loi sur les procédés de réclame (LPR), ont jusqu'au 30 septembre 2025 pour procéder aux adaptations nécessaires conformément à l'article 2a, alinéas 2, 4 et 5, du présent règlement.
 
 [^36-1]: Modif. 4 du 03.07.2024: Introduction tArt; entrée en vigueur au 15.07.2024; Introduction Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 36a; entrée en vigueur au 15.07.2024 · Modif. 5 du 05.02.2025: Modification Al. 1; entrée en vigueur au 01.02.2025
-[^36a-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
-[^36a-2]: Loi du 06.12.1988 sur les procédés de réclame ([BLV 943.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11?id=16154f30-b84b-41d2-b8d9-bf01f56b7842))
 
 #### Art. 37
 
@@ -474,4 +472,4 @@ Annexes
 
 1
 
-[Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/48e55fdd-198c-4d5e-8f30-c3eb6e3079f1/annexes/1?dmev=15.07.2024)
+[Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/48e55fdd-198c-4d5e-8f30-c3eb6e3079f1/annexes/1?dmev=01.02.2025)
