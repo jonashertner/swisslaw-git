@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 5 settembre 2008 concernente le formazioni per la 
 short: OFPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/609"
 language: it
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-09-05
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20180301/it/xml/fedlex-data-admin-ch-eli-cc-2008-609-20180301-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20180301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2008-609-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20180301/it"
 
 (Ordinanza sulla formazione in protezione degli animali, OFPAn)[^t-1]
 
-del 5 settembre 2008 (Stato 1° marzo 2018)
+del 5 settembre 2008 (Stato 1° febbraio 2025)
 
-[^t-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^t-1]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 Il Dipartimento federale dell’interno (DFI)[^ingress-1],
 
-visti gli articoli 190 capoversi 3 e 4, 197 capoverso 3, 198 capoverso 3, 202 capoverso 2 e 203 capoverso 1 dell’ordinanza del 23 aprile 2008[^ingress-2] sulla protezione degli animali (OPAn),
+visti gli articoli 76 capoverso 3, 190 capoverso 3, 197 capoverso 3, 198 capoverso 3, 198*c* capoverso 2 e 202 capoverso 2 dell’ordinanza del 23 aprile 2008[^ingress-2] sulla protezione degli animali (OPAn),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 [^ingress-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -74,7 +75,7 @@ Essa contiene il regolamento d’esame per la formazione:
 
 <sup>6</sup> Essa non si applica alla formazione con un attestato di competenza per il trattamento di pesci e decapodi secondo l’articolo 5*a* dell’ordinanza del 24 novembre 1993[^1-2] concernente la legge federale sulla pesca.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 [^1-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
 ## Capitolo 2: Formazione specialistica non legata a una professione
@@ -83,29 +84,30 @@ Essa contiene il regolamento d’esame per la formazione:
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 #### Art. 2
 
 **Obiettivi di apprendimento**[^2-1]
 
-<sup>1</sup> L’obiettivo della formazione di cui agli articoli 31 capoverso 5, 85 capoverso 2, 97 capoverso 2, 102 capoverso 2 o 103 lettera e OPAn è insegnare al detentore di animali o alla persona responsabile dell’accudimento degli animali a trattarli con riguardo e in modo corretto, a detenerli in modo adeguato, a mantenerli in buona salute, ad allevarli in modo responsabile e ad assicurare lo sviluppo di una progenie sana.
+<sup>1</sup> L’obiettivo della formazione di cui agli articoli 31 capoverso 5, 85 capoverso 2, 97 capoverso 2, 102 capoverso 2 o 4 oppure 103 lettera e OPAn è insegnare al detentore di animali o alla persona responsabile dell’accudimento degli animali a trattarli con riguardo e in modo corretto, a detenerli in modo adeguato, a mantenerli in buona salute, ad allevarli in modo responsabile e ad assicurare lo sviluppo di una progenie sana.[^2-2]
 
 <sup>2</sup> L’obiettivo della formazione di cui all’articolo 102 capoverso 5 OPAn è insegnare all’addetto alla cura degli unghioni dei bovini o degli zoccoli degli equidi a trattare gli animali con riguardo e in modo corretto.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 3
 
-**Forma e durata della formazione**
+**Forma e durata della formazione**[^3-1]
 
-<sup>1</sup> La formazione comprende una parte teorica e una parte pratica nonché un periodo di pratica in un’azienda di cui all’articolo 206 OPAn.
+<sup>1</sup> La formazione comprende una parte teorica e una parte pratica nonché un periodo di pratica in una o in diverse aziende secondo l’articolo 198*c* OPAn.
 
-<sup>2</sup> La parte teorica e la parte pratica comprendono complessivamente al minimo 40 ore, di cui almeno 20 sono dedicate alla parte teorica e almeno 10 alla parte pratica. Il periodo di pratica comprende almeno 3 mesi.
+<sup>2</sup> La parte teorica e la parte pratica comprendono complessivamente al minimo 40 ore, di cui almeno 20 sono dedicate alla parte teorica e almeno 10 alla parte pratica.
 
-<sup>3</sup> La formazione delle persone che allevano a titolo professionale animali da compagnia o cani da lavoro deve comprendere almeno 10 ore di insegnamento teorico nei settori di cui all’articolo 4 capoverso 2 lettere d–g.[^3-1]
+<sup>3</sup> Il periodo di pratica comprende almeno 360 ore. Di queste, un massimo di 80 ore può essere svolto in piccoli gruppi.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 4
 
@@ -124,7 +126,7 @@ La parte teorica permette di acquisire le nozioni fondamentali inerenti agli ani
 
 <sup>2</sup>
 
-La parte teorica della formazione di cui agli articoli 31 capoverso 5, 85 capoverso 2, 97 capoverso 2, 102 capoverso 2 o 103 lettera e OPAn permette di acquisire conoscenze approfondite in merito agli animali accuditi negli ambiti seguenti:[^4-1]
+La parte teorica della formazione di cui agli articoli 31 capoverso 5, 85 capoverso 2, 97 capoverso 2, 102 capoverso 2 o 4 oppure 103 lettera e OPAn permette di acquisire conoscenze approfondite in merito agli animali accuditi negli ambiti seguenti:[^4-1]
 
 - a. accudimento nonché cura degli animali malati e feriti;
 - b. alimentazione, in particolare composizione del foraggio, fabbisogno alimentare fisiologico ed esigenze comportamentali legate all’assunzione di cibo;
@@ -144,25 +146,51 @@ La parte teorica della formazione di cui all’articolo 102 capoverso 5 OPAn per
 - d. esecuzione dei servizi corretta e riguardosa;
 - e. pulizia e disinfezione dei locali, dei parchi e degli apparecchi.[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^4-2]: Introdotto dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+<sup>4</sup> La parte teorica della formazione di persone che allevano a titolo professionale animali da compagnia o cani da lavoro deve comprendere almeno 10 ore negli ambiti di cui al capoverso 2 lettere d–g.[^4-3]
 
-#### Art. 5
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^4-2]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^4-3]: Introdotto dalla cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
-**Contenuto della parte pratica**[^5-1]
+#### Art. 4a
 
-<sup>1</sup> La parte pratica della formazione di cui agli articoli 31 capoverso 5, 85 capoverso 2, 97 capoverso 2, 102 capoverso 2 o 103 lettera e OPAn deve comprendere esercizi inerenti al modo di trattare gli animali, di fornire loro le cure necessarie, di osservare il loro comportamento, di allestire un parco e di rispettare le norme igieniche.[^5-2]
+**Contenuto della parte pratica**[^4a-1]
+
+<sup>1</sup> La parte pratica della formazione di cui agli articoli 31 capoverso 5, 85 capoverso 2, 97 capoverso 2, 102 capoverso 2 o 4 oppure 103 lettera e OPAn deve comprendere esercizi inerenti al modo di trattare gli animali, di fornire loro le cure necessarie, di osservare il loro comportamento, di allestire un parco e di rispettare le norme igieniche.
 
 <sup>2</sup> La parte pratica della formazione di cui all’articolo 102 capoverso 5 OPAn deve comprendere esercizi inerenti al modo di trattare gli animali, di fornire loro le cure necessarie, di rispettare le norme igieniche e alle manipolazioni sull’animale legate al servizio offerto.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^4a-1]: Introdotto dalla cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
+#### Art. 5
+
+**Periodo di pratica**[^5-1]
+
+<sup>1</sup>
+
+Per quanto riguarda la formazione di cui agli articoli 31 capoverso 5 OPAn e la formazione di cui all’articolo 85 capoverso 2 OPAn, per la detenzione professionale di quaglie della specie *Coturnix japonica* è possibile computare ai fini del periodo di pratica un massimo di 240 ore se:
+
+- a. il detentore di animali dimostra di tenere animali della specie corrispondente da almeno tre anni; e
+- b. l’autorità cantonale di esecuzione competente non ha riscontrato gravi carenze durante i controlli.
+
+<sup>2</sup> Per quanto riguarda la formazione di cui all’articolo 102 capoverso 2 OPAn, almeno 240 ore del periodo di pratica devono essere svolte in una pensione per animali munita di autorizzazione secondo l’articolo 101 lettera a OPAn. È possibile svolgere al massimo 80 ore in uno studio veterinario per piccoli animali.
+
+<sup>3</sup>
+
+Per quanto riguarda la formazione di cui all’articolo 102 capoverso 4 OPAn, ai fini del periodo di pratica è possibile computare un massimo di 240 ore se:
+
+- a. il detentore di animali dimostra di essere membro di un’associazione di allevatori della specie corrispondente da almeno tre anni e di aver allevato almeno cinque cucciolate durante questo periodo di tempo; e
+- b. l’autorità cantonale di esecuzione competente non ha riscontrato gravi carenze durante i controlli.
+
+<sup>4</sup> Per quanto riguarda la formazione di cui all’articolo 102 capoverso 5 OPAn, l’organizzazione di formazione può specificare il numero di animali sui quali deve essere effettuata la cura degli zoccoli o degli unghioni durante il periodo di pratica. La durata dei trattamenti, compreso il tempo dedicato alla documentazione, deve essere pari ad almeno 360 ore. 120 ore di attività pratica possono essere eseguite in modo autonomo. Tutti i trattamenti devono essere documentati.
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ### Sezione 1*a*: Impiegati del commercio al dettaglio nel commercio specializzato di animali
 
 [^chap2-sec1a-1]
 
-[^chap2-sec1a-1]: Introdotta dal n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap2-sec1a-1]: Introdotta dalla cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 5a
 
@@ -174,9 +202,11 @@ L’obiettivo della formazione di cui all’articolo 103 lettera b OPAn è che g
 
 **Forma e durata della formazione**
 
-<sup>1</sup> La formazione comprende una parte teorica e un periodo di pratica in una o in diverse aziende secondo l’articolo 206 OPAn. Il periodo di pratica si svolge in modo specifico per ogni gruppo di animali e prevede almeno quattro gruppi di animali di cui all’articolo 5*d* capoverso 1.
+<sup>1</sup> La formazione comprende una parte teorica e un periodo di pratica in una o in diverse aziende secondo l’articolo 198*c* OPAn. Il periodo di pratica si svolge in modo specifico per ogni gruppo di animali e prevede almeno quattro gruppi di animali di cui all’articolo 5*d* capoverso 1.[^5b-1]
 
 <sup>2</sup> La parte teorica comprende almeno 90 ore e il periodo di pratica almeno 40 giorni lavorativi, di cui al minimo dieci giorni lavorativi con quattro diversi gruppi di animali di cui all’articolo 5*d*.
+
+[^5b-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 5c
 
@@ -238,10 +268,12 @@ L’obiettivo della formazione di cui all’articolo 150 OPAn è di insegnare al
 La parte pratica si svolge in modo specifico per ogni gruppo di animali sotto la supervisione di un trasportatore di animali esperto e dura:
 
 - a. per il personale addetto al trasporto di volatili almeno due giorni lavorativi, che devono essere impiegati per i volatili;
+- a<sup>bis</sup>.[^7-1] per il personale addetto al trasporto di equidi almeno due giorni lavorativi, che devono essere impiegati per gli equidi;
 - b. per il personale addetto al trasporto di animali da compagnia, animali da laboratorio o animali selvatici almeno due giorni lavorativi, che devono essere impiegati per le specie di questo gruppo di animali trasportate regolarmente;
-- c. in tutti gli altri casi almeno cinque giorni lavorativi, di cui almeno uno deve essere impiegato per ogni gruppo di animali di cui all’articolo 9 capoverso 1 lettere a–d.[^7-1]
+- c. in tutti gli altri casi almeno cinque giorni lavorativi, di cui almeno uno deve essere impiegato per ogni gruppo di animali di cui all’articolo 9 capoverso 1 lettere a–d.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^7-1]: Introdotta dalla cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 #### Art. 8
 
@@ -280,20 +312,22 @@ La parte pratica si svolge in modo specifico per ognuno dei seguenti gruppi di a
 - d. piccoli ruminanti;
 - e. volatili;
 - f.[^9-1] animali da compagnia, in particolare cani e gatti;
-- g.[^9-2] animali da laboratorio; e
-- h.[^9-3] animali selvatici.
+- g.[^9-2] animali da laboratorio;
+- h.[^9-3] animali selvatici; e
+- i.[^9-4] equidi.
 
 <sup>2</sup> Essa deve comprendere esercitazioni inerenti al modo di trattare gli animali durante il carico e lo scarico, alla conduzione, alla guida e all’accudimento degli animali.
 
-[^9-1]: Introdotta dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^9-2]: Introdotta dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^9-3]: Introdotta dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-1]: Introdotta dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-2]: Introdotta dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-3]: Introdotta dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-4]: Introdotta dalla cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ### Sezione 3: Personale dei macelli
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 10
 
@@ -301,7 +335,7 @@ La parte pratica si svolge in modo specifico per ognuno dei seguenti gruppi di a
 
 L’obiettivo della formazione di cui all’articolo 177 capoverso 2 OPAn è di insegnare al personale dei macelli a trattare gli animali con riguardo nonché a stordirli e a dissanguarli correttamente.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 11
 
@@ -315,8 +349,8 @@ L’obiettivo della formazione di cui all’articolo 177 capoverso 2 OPAn è di 
 
 <sup>4</sup> La parte pratica comprende per ogni gruppo di animali almeno due giorni, complessivamente almeno 12 ore.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^11-2]: Nuova espr. giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^11-2]: Nuova espr. giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 12
 
@@ -361,13 +395,14 @@ La parte pratica comprende:
 
 **Obiettivi di apprendimento**
 
-<sup>1</sup> L’obiettivo della formazione di cui all’articolo 203 OPAn è di fornire ai formatori dei detentori di animali conoscenze approfondite riguardo alle esigenze particolari delle diverse specie animali e alla loro detenzione adeguata.
+<sup>1</sup> L’obiettivo della formazione di cui all’articolo 203*a* OPAn è di fornire ai formatori dei detentori di animali conoscenze approfondite riguardo alle esigenze particolari degli animali e alla loro detenzione adeguata.[^14-1]
 
-<sup>2</sup> ... [^14-1]
+<sup>2</sup> ... [^14-2]
 
 <sup>3</sup> Dopo aver svolto la formazione, i formatori devono essere in grado di trasmettere le loro conoscenze in modo semplice e comprensibile.
 
-[^14-1]: Abrogato dal n. I dell’O del DFI del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^14-2]: Abrogato dalla cifra I dell’O del DFI del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
 
 #### Art. 15
 
@@ -400,7 +435,7 @@ La parte pratica permette di acquisire competenze pratiche negli ambiti di cui a
 
 [^chap2-sec5-1]
 
-[^chap2-sec5-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap2-sec5-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 18
 
@@ -432,7 +467,7 @@ La parte pratica permette di acquisire i contenuti di cui all’articolo 25 lett
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap2-sec6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 22
 
@@ -506,7 +541,7 @@ La parte pratica deve comprendere esercitazioni concernenti:
 
 [^chap2-sec7-1]
 
-[^chap2-sec7-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap2-sec7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 26
 
@@ -514,7 +549,7 @@ La parte pratica deve comprendere esercitazioni concernenti:
 
 L’obiettivo della formazione di cui agli articoli 129*b* capoverso 1 o 132 capoverso 1 OPAn è insegnare agli incaricati della protezione degli animali e ai responsabili d’esperimento a pianificare e a dirigere gli esperimenti sugli animali a regola d’arte e in modo metodicamente corretto nonché ad applicare il principio delle 3R.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 27
 
@@ -522,7 +557,7 @@ L’obiettivo della formazione di cui agli articoli 129*b* capoverso 1 o 132 cap
 
 La formazione comprende una parte teorica e una parte incentrata sull’obiettivo sperimentale della durata rispettiva di almeno 20 ore.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 28
 
@@ -553,7 +588,7 @@ La parte incentrata sull’obiettivo degli esperimenti permette di acquisire in 
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 ### Sezione 1: Detenzione e accudimento di animali domestici nonché detenzione privata e accudimento di animali selvatici
 
@@ -581,7 +616,7 @@ La formazione permette di acquisire nozioni fondamentali o competenze pratiche n
 
 [^3335-1]
 
-[^3335-1]: Abrogati dal n. I dell’O del DFI del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
+[^3335-1]: Abrogati dalla cifra I dell’O del DFI del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
 
 ### Sezione 3: Trattamento di pesci e decapodi
 
@@ -591,7 +626,7 @@ La formazione permette di acquisire nozioni fondamentali o competenze pratiche n
 
 L’obiettivo della formazione di cui all’articolo 97 capoverso 3 OPAn è insegnare alle persone che svolgono la formazione come si trattano con riguardo i pesci e i decapodi, risparmiando loro ogni sofferenza evitabile.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 37
 
@@ -613,7 +648,7 @@ La formazione permette di acquisire:
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap3-sec4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 39
 
@@ -621,13 +656,15 @@ La formazione permette di acquisire:
 
 L’obiettivo della formazione di cui all’articolo 103 lettera d OPAn è insegnare alla persona responsabile dell’accudimento come si tratta con riguardo un animale in occasione di manifestazioni commerciali o nell’ambito della pubblicità
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 40
 
-**Forma e durata della formazione**
+**Forma e durata della formazione**[^40-1]
 
-La formazione si svolge sotto forma di un corso della durata di almeno 3 ore o di un periodo di pratica durante almeno 3 manifestazioni in un’azienda di cui all’articolo 206 OPAn, sotto la direzione di un titolare del rispettivo attestato di competenza.
+La formazione si svolge sotto forma di un corso della durata di almeno tre ore o di un periodo di pratica durante almeno tre manifestazioni in una o in diverse aziende secondo l’articolo 198*c* OPAn, sotto la direzione di un titolare del rispettivo attestato di competenza.
+
+[^40-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 41
 
@@ -661,7 +698,7 @@ La formazione si svolge sotto forma di un corso di teoria della durata di almeno
 
 [^chap4-1]
 
-[^chap4-1]: Originario Cap. 4*a*. Introdotto dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^chap4-1]: Originario Cap. 4*a*. Introdotto dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 #### Art. 44a
 
@@ -713,13 +750,13 @@ Il periodo di pratica deve comprendere esercizi concernenti:
 
 [^4548-1]
 
-[^4548-1]: Abrogati dal n. I dell’O del DFI del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^4548-1]: Abrogati dalla cifra I dell’O del DFI del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 ## Capitolo 5: Formazione continua
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 49
 
@@ -727,7 +764,7 @@ Il periodo di pratica deve comprendere esercizi concernenti:
 
 Lo scopo della formazione continua o consiste nell’attualizzare le conoscenze tecniche e le competenze pratiche conformemente al più recente stato della scienza.
 
-[^49-1]: Nuova espr. giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^49-1]: Nuova espr. giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 50
 
@@ -743,13 +780,13 @@ La formazione continua può svolgersi:
 
 [^chap6-1]
 
-[^chap6-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 ### Sezione 1: Principi applicati nello svolgimento dei corsi di formazione
 
 [^chap6-sec1-1]
 
-[^chap6-sec1-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap6-sec1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 51
 
@@ -757,7 +794,17 @@ La formazione continua può svolgersi:
 
 Chiunque organizza e svolge corsi di formazione deve consegnare ai partecipanti una documentazione scritta sul programma d’insegnamento.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+
+#### Art. 51a
+
+**Insegnamento online**[^51a-1]
+
+<sup>1</sup> La parte teorica della formazione può essere svolta interamente tramite una piattaforma didattica, a condizione che i partecipanti possano essere chiaramente identificati.
+
+<sup>2</sup> Al massimo un quarto della parte teorica può essere svolta mediante altri mezzi elettronici, in particolare tramite videochiamata.
+
+[^51a-1]: Introdotto dalla cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 52
 
@@ -775,7 +822,7 @@ L’esercitazione pratica nell’ambito di una formazione si svolge sotto vigila
 
 [^chap6-sec2-1]
 
-[^chap6-sec2-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap6-sec2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 54
 
@@ -788,7 +835,7 @@ L’attestazione della partecipazione a una formazione di cui all’articolo 197
 - c. luogo e data del corso di formazione nonché denominazione della formazione;
 - d. luogo, data, nome e firma della persona responsabile della formazione.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 55
 
@@ -802,7 +849,7 @@ L’attestazione della partecipazione a un periodo di pratica di cui all’artic
 - d. durata, entità e genere delle attività svolte dal praticante;
 - e. luogo, data, nome e firma del direttore dell’azienda.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 56
 
@@ -828,25 +875,19 @@ La conferma della partecipazione a un corso di formazione continua deve contener
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 ### Sezione 1: Organizzazione degli es
 
 #### Art. 58
 
-**Svolgimento dell’esame**
+**Svolgimento dell’esame**[^58-1]
 
-<sup>1</sup> Le persone che offrono le formazioni specialistiche non legate a una professione organizzano gli esami al termine di tali formazioni.[^58-1]
+<sup>1</sup> Le organizzazioni di formazione secondo l’articolo 198*a* OPAn conducono gli esami al termine della formazione specialistica non legata a una professione.
 
-<sup>2</sup> I centri di formazione di cui all’articolo 205 OPAn organizzano l’esame al termine della formazione per i formatori dei detentori di animali.
+<sup>2</sup> Spetta ai Cantoni o all’organizzazione da essi incaricata condurre gli esami di cui all’articolo 76 capoverso 3 OPAn per ottenere l’autorizzazione a utilizzare apparecchi a scopi terapeutici nel trattamento dei cani.
 
-<sup>3</sup> I Cantoni organizzano gli esami di cui all’articolo 76 capoverso 3 OPAn che permettono di ottenere l’autorizzazione a utilizzare apparecchi a scopi terapeutici nel trattamento dei cani.[^58-2]
-
-<sup>4</sup> ...[^58-3]
-
-[^58-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^58-2]: Introdotto dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^58-3]: Introdotto dal n. I dell’O del DFI del 23 ott. 2013 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)). Abrogato dal n. I dell’O del DFI del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 59
 
@@ -856,15 +897,21 @@ La conferma della partecipazione a un corso di formazione continua deve contener
 
 <sup>2</sup> Il comitato di sorveglianza degli esami si compone di almeno 3 membri che soddisfano i requisiti posti ai periti d’esame di cui all’articolo 60.
 
+<sup>3</sup> Il comitato di sorveglianza è responsabile del corretto svolgimento dell’esame in conformità al regolamento d’esame.[^59-1]
+
+[^59-1]: Introdotto dalla cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 60
 
 **Periti d’esame**
 
 <sup>1</sup> Gli organizzatori nominano i periti d’esame che soddisfano al minimo i requisiti di cui all’articolo 203 OPAn per le materie oggetto dell’esame.
 
-<sup>2</sup> Per lo svolgimento dell’esame occorre designare, oltre al perito d’esame, almeno un’altra persona indipendente in qualità di membro assistente.
+<sup>2</sup> Per lo svolgimento dell’esame occorre designare, oltre al perito d’esame, almeno un’altra persona indipendente. Nel caso dell’esame orale, questa persona deve soddisfare i requisiti di cui all’articolo 203 OPAn.[^60-1]
 
 <sup>3</sup> I risultati degli esami, le osservazioni particolari fatte durante gli esami e le obiezioni dei candidati devono essere registrati per scritto nonché firmati dalla persona esaminante e dal membro assistente.
+
+[^60-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 61
 
@@ -880,7 +927,9 @@ La conferma della partecipazione a un corso di formazione continua deve contener
 
 <sup>1</sup> L’iscrizione all’esame deve essere inviata all’attenzione dell’organizzazione responsabile del suo svolgimento allegando l’attestazione della partecipazione ai corsi di formazione prescritti.
 
-<sup>2</sup> Il centro di formazione competente decide in merito all’ammissione all’esame.
+<sup>2</sup> L’organizzazione competente decide in merito all’ammissione all’esame.[^62-1]
+
+[^62-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 dic. 2024, in vigore il 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 63
 
@@ -896,10 +945,10 @@ La conferma della partecipazione a un corso di formazione continua deve contener
 
 <sup>5</sup> ...[^63-4]
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^63-2]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^63-3]: Introdotto dal n. I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^63-4]: Introdotto dal n. I dell’O del DFI del 23 ott. 2013 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)). Abrogato dal n. I dell’O del DFI del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^63-2]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^63-3]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2013, in vigore il 1° gen. 2014 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^63-4]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2013 ([RU 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)). Abrogato dalla cifra I dell’O del DFI del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 64
 
@@ -925,7 +974,7 @@ Chi ha superato l’esame ottiene dall’organizzazione competente in questo amb
 
 [^chap7-sec2-1]
 
-[^chap7-sec2-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap7-sec2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 66
 
@@ -951,7 +1000,7 @@ Abrogati
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del DFI del 10 gen. 2018, in vigore il 1° mar. 2018 ([RU 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
 #### Art. 70
 
@@ -967,9 +1016,10 @@ L’ordinanza del 22 agosto 1986[^70-1] concernente l’ottenimento del certific
 
 <sup>1</sup> Le formazioni che permettono di ottenere il certificato di capacità di cui all’articolo 13 OGA[^71-1] e che sono state iniziate prima del 1° ottobre 2008 si svolgono conformemente al diritto previgente.
 
-<sup>2</sup> Le formazioni per i formatori dei detentori di animali che si sono svolte prima del 1° ottobre 2008 e un’esperienza pluriennale in questo ambito sono computate dal centro di formazione di cui all’articolo 205 OPAn adeguandole a una formazione equivalente secondo la presente ordinanza.
+<sup>2</sup> ...[^71-2]
 
 [^71-1]: [[RU 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511)]
+[^71-2]: Abrogato dalla cifra I dell’O del DFI del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 72
 

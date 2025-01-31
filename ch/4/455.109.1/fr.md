@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 5 septembre 2008 sur les formations à la détentio
 short: OFPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/609"
 language: fr
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-09-05
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20180301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-609-20180301-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20180301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-609-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20180301/fr"
 
 (Ordonnance sur les formations en matière de protection des animaux, OFPAn)[^t-1]
 
-du 5 septembre 2008 (Etat le 1<sup>er</sup> mars 2018)
+du 5 septembre 2008 (État le 1<sup>er</sup> février 2025)
 
 [^t-1]: Introduit par le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
-Le Département fédéral de l’intérieur (DFI)*[^ingress-1]*,
+Le Département fédéral de l’intérieur (DFI)[^ingress-1],
 
-vu les art. 190, al. 3 et 4, 197, al. 3, 198, al. 3, 202, al. 2, et 203, al. 1, de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)[^ingress-2],
+vu les art. 76, al. 3, 190, al. 3, 197, al. 3, 198, al. 3, 198*c*, al. 2, et 202, al. 2, de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^ingress-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ## Chapitre 1 Objet et champ d’application
 
@@ -77,13 +78,13 @@ Elle fixe les règles d’examen pour les formations:
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 [^1-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
-## Chapitre 2 Formations spécifiques indépendantes d’une formation professionnelle****
+## Chapitre 2 Formations spécifiques indépendantes d’une formation professionnelle
 
 [^chap2-1]
 
 [^chap2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
-### Section 1 Prise en charge, soins, élevage et détention des animaux****
+### Section 1 Prise en charge, soins, élevage et détention des animaux
 
 [^chap2-sec1-1]
 
@@ -93,23 +94,24 @@ Elle fixe les règles d’examen pour les formations:
 
 **Objectif des formations**[^2-1]
 
-<sup>1</sup> L’objectif des formations visées à l’art. 31, al. 5, 85, al. 2, 97, al. 2, 102, al. 2, ou 103, let. e, OPAn est que le détenteur ou la personne responsable de la prise en charge des animaux traite ceux-ci avec ménagement et de manière adéquate, les détient de façon conforme à leurs besoins, les maintient en bonne santé, pratique un élevage responsable et veille à la bonne santé des jeunes en élevage.
+<sup>1</sup> L’objectif des formations visées à l’art. 31, al. 5, 85, al. 2, 97, al. 2, 102, al. 2 ou 4, ou 103, let. e, OPAn est que le détenteur ou la personne responsable de la prise en charge des animaux traite ceux-ci avec ménagement et de manière adéquate, les détienne de façon conforme à leurs besoins, les maintienne en bonne santé, pratique un élevage responsable et veille à la bonne santé des jeunes en élevage.[^2-2]
 
 <sup>2</sup> L’objectif de la formation visée à l’art. 102, al. 5, OPAn est que la personne qui se charge des soins des onglons de bovins ou des sabots d’équidés traite les animaux avec ménagement et de manière adéquate.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 3
 
-**Forme et ampleur**
+**Forme et ampleur**[^3-1]
 
-<sup>1</sup> La formation comprend une partie théorique et une partie pratique ainsi qu’un stage dans un établissement au sens de l’art. 206 OPAn.
+<sup>1</sup> La formation comprend une partie théorique et une partie pratique ainsi qu’un stage dans un ou plusieurs établissements au sens de l’art. 198*c* OPAn.
 
-<sup>2</sup> Les parties théorique et pratique de la formation comprennent en tout au moins 40 heures d’enseignement, dont au moins 20 heures de théorie et 10 heures de pratique. Le stage dure trois mois au minimum.
+<sup>2</sup> Les parties théorique et pratique de la formation comprennent en tout au moins 40 heures d’enseignement, dont au moins 20 heures de théorie et 10 heures de pratique.
 
-<sup>3</sup> La formation des personnes qui élèvent des animaux de compagnie ou des chiens utilitaires à titre professionnel doit comporter une partie théorique d’au moins 10 heures concernant les domaines visés à l’art. 4, al. 2, let. d à g.[^3-1]
+<sup>3</sup> Le stage dure 360 heures au minimum. Sur la durée totale du stage, 80 heures au plus peuvent être accomplies en petits groupes.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 4
 
@@ -128,7 +130,7 @@ La partie théorique permet d’acquérir les connaissances de base suivantes su
 
 <sup>2</sup>
 
-La partie théorique des formations visées aux art. 31, al. 5, 85, al. 2, 97, al. 2, 102, al. 2, ou 103, let. e, OPAn permet d’acquérir des connaissances approfondies sur les animaux pris en charge dans les domaines suivants:[^4-1]
+partie théorique des formations visées aux art. 31, al. 5, 85, al. 2, 97, al. 2, 102, al. 2 ou 4, ou 103, let. e, OPAn permet d’acquérir des connaissances approfondies sur les animaux pris en charge dans les domaines suivants:[^4-1]
 
 - a. garde d’animaux en général et soins à prodiguer aux animaux malades ou blessés en particulier;
 - b. alimentation des animaux, notamment composition des aliments, besoins alimentaires et occupation en rapport avec la prise de nourriture;
@@ -148,21 +150,47 @@ La partie théorique de la formation visée à l’art. 102, al. 5, OPAn permet 
 - d. exécution adéquate des services et manipulations qui ménagent les animaux;
 - e. nettoyage et désinfection des locaux, des enclos et des appareils utilisés.[^4-2]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+<sup>4</sup> La formation des personnes qui élèvent des animaux de compagnie ou des chiens utilitaires à titre professionnel doit comporter une partie théorique d’au moins 10 heures concernant les domaines visés à l’al. 2, let. d à g.[^4-3]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 [^4-2]: Introduit par le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^4-3]: Introduit par le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
+#### Art. 4a
+
+**Contenu de la partie pratique**[^4a-1]
+
+<sup>1</sup> La partie pratique des formations visées aux art. 31, al. 5, 85, al. 2, 97, al. 2, 102, al. 2 ou 4, ou 103, let. e, OPAn, doit comporter des exercices pratiques sur la manière de traiter les animaux ainsi que sur les soins à leur apporter, sur l’observation de leur comportement, la manière d’aménager un enclos et le respect de l’hygiène.
+
+<sup>2</sup> La partie pratique de la formation visée à l’art. 102, al. 5, OPAn doit comporter des exercices pratiques sur la manière de traiter les animaux ainsi que sur les soins à leur apporter, le respect de l’hygiène et les manipulations liées au service concerné.
+
+[^4a-1]: Introduit par le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 5
 
-**Contenu de la partie pratique**[^5-1]
+**Stage**[^5-1]
 
-<sup>1</sup> La partie pratique de la formation visée aux art. 31, al. 5, 85, al. 2, 97, al. 2, 102, al. 2, ou 103, let. e, OPAn, doit comporter des exercices pratiques sur la manière de traiter les animaux ainsi que sur les soins à leur apporter, sur l’observation de leur comportement, la manière d’aménager un enclos et le respect de l’hygiène.[^5-2]
+<sup>1</sup>
 
-<sup>2</sup> La partie pratique de la formation visée à l’art. 102, al. 5, OPAn, doit comporter des exercices pratiques sur la manière de traiter les animaux ainsi que sur les soins à leur apporter, le respect de l’hygiène et les manipulations liées au service concerné.
+Dans le cadre de la formation visée à l’art. 31, al. 5, OPAn et de la formation visée à l’art. 85, al. 2, OPAn concernant la détention à titre professionnel de cailles de l’espèce *Coturnix japonica*, 240 heures au plus peuvent être comptabilisées au titre du stage si les conditions suivantes sont réunies:
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+- a. le détenteur apporte la preuve qu’il détient des animaux de l’espèce concernée depuis au moins trois ans;
+- b. l’autorité cantonale d’exécution compétente n’a pas constaté de manquements majeurs lors de ses contrôles.
 
-### Section 1*a***** Gestionnaires du commerce de détail dans un magasin zoologique
+<sup>2</sup> Dans le cadre de la formation visée à l’art. 102, al. 2, OPAn, 240 heures au moins doivent être accomplies au cours du stage dans une pension ou un refuge disposant de l’autorisation visée à l’art. 101, let. a, OPAn. Au maximum 80 heures peuvent être accomplies dans un cabinet vétérinaire pour petits animaux.
+
+<sup>3</sup>
+
+Dans le cadre de la formation visée à l’art. 102, al. 4, OPAn, 240 heures au plus peuvent être comptabilisées au titre du stage si les conditions suivantes sont réunies:
+
+- a. le détenteur apporte la preuve qu’il est membre d’une fédération d’élevage de l’espèce concernée depuis au moins 3 ans et qu’il a élevé au moins 5 portées durant ce laps de temps;
+- b. l’autorité cantonale d’exécution compétente n’a pas constaté de manquements majeurs lors de ses contrôles.
+
+<sup>4</sup> Dans le cadre de la formation visée à l’art. 102, al. 5, OPAn, l’organisation de formation peut fixer le nombre d’animaux sur lesquels la personne doit pratiquer les soins des sabots ou des onglons au cours du stage. La durée des traitements, documentation comprise, doit correspondre à 360 heures au moins. La personne peut accomplir 120 heures de pratique de manière autonome. Tous les traitements doivent être documentés.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
+### Section 1*a* Gestionnaires du commerce de détail dans un magasin zoologique
 
 [^chap2-sec1a-1]
 
@@ -178,9 +206,11 @@ L’objectif de la formation visée à l’art. 103, let. b, OPAn est que le ges
 
 **Forme et ampleur**
 
-<sup>1</sup> La formation se compose d’une partie théorique et d’un stage dans un plusieurs établissements visés à l’art. 206, OPAn. Le stage porte sur les catégories d’animaux que le stagiaire prendra sous sa garde mais sur au moins quatre groupes d’animaux visés à l’art. 5*d,* al. 1.
+<sup>1</sup> La formation se compose d’une partie théorique et d’un stage dans un ou plusieurs établissements visés à l’art. 198*c* OPAn. Le stage porte sur les catégories d’animaux que le stagiaire prendra en charge, mais sur au moins quatre groupes d’animaux visés à l’art. 5*d*, al. 1.[^5b-1]
 
 <sup>2</sup> La partie théorique se compose d’au moins 90 heures de cours et le stage dure au moins 40 jours ouvrables, dont au moins 10 jours ouvrables pour chacune des quatre catégories d’animaux visées à l’art. 5*d*.
+
+[^5b-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 5c
 
@@ -241,11 +271,13 @@ L’objectif de la formation visée à l’art. 150 OPAn est que les transporteu
 
 La partie pratique est spécifique à un groupe d’animaux et consiste à accompagner un transporteur d’animaux expérimenté; elle dure:
 
-- a. pour le personnel chargé du transport des volailles : au moins 2 jours ouvrables devant être consacrés à la volaille;
-- b. pour le personnel chargé du transport des animaux de compagnie, des animaux d’expérience ou des animaux sauvages : au moins 2 jours ouvrables devant être consacrés aux espèces régulièrement transportées parmi ces groupes d’animaux;
-- c. dans tous les autres cas : au moins 5 jours ouvrables, dont au moins un jour doit être consacré à chaque groupe d’animaux visé à l’art. 9, al. 1, let. a à d.[^7-1]
+- a. pour le personnel chargé du transport des volailles: au moins 2 jours ouvrables devant être consacrés à la volaille;
+- a<sup>bis</sup>.[^7-1] pour le personnel chargé du transport des équidés: au moins 2 jours ouvrables devant être consacrés aux équidés;
+- b. pour le personnel chargé du transport des animaux de compagnie, des animaux d’expérience ou des animaux sauvages: au moins 2 jours ouvrables devant être consacrés aux espèces régulièrement transportées parmi ces groupes d’animaux;
+- c. dans tous les autres cas: au moins 5 jours ouvrables, dont au moins un jour doit être consacré à chaque groupe d’animaux visé à l’art. 9, al. 1, let. a à d.[^7-2]
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^7-1]: Introduite par le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 #### Art. 8
 
@@ -284,14 +316,16 @@ La partie pratique est donnée spécifiquement par groupe d’animaux, selon la 
 - d. petits ruminants;
 - e. volaille;
 - f.[^9-1] animaux de compagnie, en particulier chiens et chats;
-- g.[^9-2] animaux d’expérience, et
-- h.[^9-3] animaux sauvages.
+- g.[^9-2] animaux d’expérience;
+- h.[^9-3] animaux sauvages, et
+- i.[^9-4] équidés.
 
 <sup>2</sup> Elle doit comporter des exercices sur la manière de traiter les animaux, notamment sur la façon de les charger, de les décharger, de les rabattre, de conduire le véhicule et d’assumer la garde des animaux.
 
 [^9-1]: Introduite par le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 [^9-2]: Introduite par le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 [^9-3]: Introduite par le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-4]: Introduite par le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ### Section 3 Formation du personnel des abattoirs
 
@@ -358,13 +392,14 @@ La partie pratique doit comporter:
 
 **Objectif**
 
-<sup>1</sup> L’objectif de la formation visée à l’art. 203 OPAn est que les formateurs de détenteurs d’animaux aient des connaissances approfondies des besoins spécifiques à l’espèce animale considérée et de la manière de détenir les animaux conformément à leurs besoins.
+<sup>1</sup> L’objectif de la formation visée à l’art. 203*a* OPAn est que les formateurs de détenteurs d’animaux aient des connaissances approfondies des besoins spécifiques à l’espèce animale considérée et de la manière de détenir les animaux conformément à leurs besoins.[^14-1]
 
-<sup>2</sup> …[^14-1]
+<sup>2</sup> …[^14-2]
 
 <sup>3</sup> Après avoir suivi la formation, les formateurs doivent pouvoir transmettre leurs connaissances de manière compréhensible et réalisable.
 
-[^14-1]: Abrogé par le ch. I de l’O du DFI du 23 nov. 2013, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^14-2]: Abrogé par le ch. I de l’O du DFI du 23 nov. 2013, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
 
 #### Art. 15
 
@@ -393,7 +428,7 @@ La partie théorique permet d’acquérir des connaissances approfondies dans le
 
 La partie pratique permet d’acquérir les aptitudes pratiques dans les domaines énumérés à l’art. 16.
 
-### Section 5 Responsables d’animaleries****
+### Section 5 Responsables d’animaleries
 
 [^chap2-sec5-1]
 
@@ -425,7 +460,7 @@ La durée minimale de la formation est de 40 heures, dont au moins 30 heures de 
 
 La partie pratique permet d’acquérir des connaissances dans les domaines énumérés à l’art. 25, let. a à f, et dans la mise en œuvre des réglementations dans une animalerie existante.
 
-### Section 6 Expérimentateurs****
+### Section 6 Expérimentateurs
 
 [^chap2-sec6-1]
 
@@ -499,7 +534,7 @@ La partie pratique doit comporter des exercices portant sur la manière:
 - f. de travailler de manière hygiénique;
 - g. de reconnaître les différents stades d’une anesthésie générale, de les surveiller, d’administrer des analgésiques et de vérifier l’analgésie.
 
-### Section 7 Délégués à la protection des animaux et directeurs d’expériences****
+### Section 7 Délégués à la protection des animaux et directeurs d’expériences
 
 [^chap2-sec7-1]
 
@@ -546,13 +581,13 @@ La partie théorique permet d’approfondir les matières énumérées à l’ar
 
 La partie de la formation axée sur des expériences spécifiques permet d’acquérir de manière adéquate des connaissances sur les méthodes et sur les espèces animales nécessaires pour garantir une exécution professionnelle des expériences sur animaux.
 
-## Chapitre 3 Formations sanctionnées par une attestation de compétences****
+## Chapitre 3 Formations sanctionnées par une attestation de compétences
 
 [^chap3-1]
 
 [^chap3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
-### Section 1 Détention et garde d’animaux domestiques et détention et garde d’animaux sauvages à titre privé****
+### Section 1 Détention et garde d’animaux domestiques et détention et garde d’animaux sauvages à titre privé
 
 [^chap3-sec1-1]
 
@@ -610,7 +645,7 @@ La formation permet d’acquérir:
 - b. des connaissances approfondies sur les exigences de détention de ces animaux, notamment sur la densité maximale d’individus par bassin et sur la contrainte que leur occasionnent les méthodes de marquage;
 - c. les aptitudes permettant de procéder avec ménagement à la capture, au marquage, au stockage temporaire et à la mise à mort des poissons et des décapodes marcheurs.
 
-### Section 4 Garde d’animaux lors de manifestations commerciales ou de séances de publicité****
+### Section 4 Garde d’animaux lors de manifestations commerciales ou de séances de publicité
 
 [^chap3-sec4-1]
 
@@ -626,9 +661,11 @@ L’objectif de la formation visée à l’art. 103, let. d, OPAn est que les pe
 
 #### Art. 40
 
-**Forme et ampleur**
+**Forme et ampleur**[^40-1]
 
-La formation est donnée sous la forme d’un cours d’une durée minimale de 3 heures ou d’un stage dans un établissement au sens de l’art. 206 OPAn lors de trois événements ou manifestations sous la direction d’une personne titulaire de l’attestation de compétences correspondante.
+La formation est donnée sous la forme d’un cours d’une durée minimale de 3 heures ou d’un stage dans un ou plusieurs établissements au sens de l’art. 198*c* OPAn lors d’au moins trois événements ou manifestations sous la direction d’une personne titulaire de l’attestation de compétences correspondante.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 41
 
@@ -658,7 +695,7 @@ La formation est donnée sous la forme d’un cours théorique d’au moins 3 he
 
 <sup>2</sup> La partie pratique doit comporter des exercices sur la manière de préparer les animaux à l’intervention, de doser et d’administrer correctement des médicaments vétérinaires, d’exécuter l’intervention dans les règles de l’art et de surveiller les animaux ayant subi l’intervention.
 
-## Chapitre 4**** Formation pour utiliser des appareils à des fins de traitement de comportements canins problématiques****
+## Chapitre 4 Formation pour utiliser des appareils à des fins de traitement de comportements canins problématiques
 
 [^chap4-1][^chap4-2]
 
@@ -717,7 +754,7 @@ Le stage comprend des exercices concernant:
 
 [^4548-1]: Abrogés par le ch. I de l’O du DFI du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
-## Chapitre 5 Formation continue****
+## Chapitre 5 Formation continue
 
 [^chap5-1]
 
@@ -739,13 +776,13 @@ La formation continue peut prendre la forme:
 - b. d’un stage;
 - c. d’une participation à des congrès ou à des ateliers de travail.
 
-## Chapitre 6 Procédure****
+## Chapitre 6 Procédure
 
 [^chap6-1]
 
 [^chap6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
-### Section 1 Principes à respecter pour donner des formations****
+### Section 1 Principes à respecter pour donner des formations
 
 [^chap6-sec1-1]
 
@@ -759,6 +796,16 @@ Quiconque propose des formations doit remettre des supports de cours écrits aux
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
+#### Art. 51a
+
+**Cours en ligne**[^51a-1]
+
+<sup>1</sup> La partie théorique peut se dérouler entièrement sur une plateforme d’apprentissage en ligne pour autant que les participants puissent être identifiés de manière univoque.
+
+<sup>2</sup> Un quart de la partie théorique au plus peut être dispensée à l’aide d’autres moyens électroniques, notamment par visioconférence.
+
+[^51a-1]: Introduit par le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 52
 
 **Contrôle des connaissances**
@@ -771,7 +818,7 @@ A la fin de chaque partie théorique de la formation, il est effectué un contr�
 
 Les exercices pratiques dans le cadre des formations sont effectués sous surveillance et en fonction du volume de travail journalier de l’établissement. Aucune intervention sur des animaux ne peut être effectuée uniquement à titre d’exercice, sauf si l’intervention a été autorisée comme une expérience sur animaux conformément à l’art. 141 OPAn.
 
-### Section 2 Attestation de participation à la formation ou la formation continue****
+### Section 2 Attestation de participation à la formation ou la formation continue
 
 [^chap6-sec2-1]
 
@@ -824,7 +871,7 @@ L’attestation de participation à une formation continue doit contenir au moin
 - b. la dénomination, la durée, le lieu et la date de la formation continue;
 - c. le nom du participant.
 
-## Chapitre 7 Règlement des examens****
+## Chapitre 7 Règlement des examens
 
 [^chap7-1]
 
@@ -834,19 +881,13 @@ L’attestation de participation à une formation continue doit contenir au moin
 
 #### Art. 58
 
-**Exécution de l’examen**
+**Exécution de l’examen**[^58-1]
 
-<sup>1</sup> Les personnes qui proposent des formations spécifiques indépendantes d’une formation professionnelle font passer les examens sanctionnant les formations.[^58-1]
+<sup>1</sup> Les organisations de formation visées à l’art. 198*a* OPAn font passer les examens sanctionnant les formations spécifiques indépendantes d’une formation professionnelle.
 
-<sup>2</sup> Les instituts de formation visés à l’art. 205 OPAn font passer les examens sanctionnant la formation de formateur de détenteurs d’animaux.
+<sup>2</sup> Il incombe aux cantons, ou à l’organisation qu’ils ont mandatée, de faire passer les examens visés à l’art. 76, al. 3, OPAn permettant d’obtenir l’autorisation d’utiliser des appareils à des fins thérapeutiques avec des chiens.
 
-<sup>3</sup> Il incombe aux cantons de faire passer les examens visés à l’art. 76, al. 3, OPAn permettant d’obtenir l’autorisation d’utiliser des appareils à des fins thérapeutiques pour le traitement des chiens.[^58-2]
-
-<sup>4</sup> ... [^58-3]
-
-[^58-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^58-2]: Introduit par le ch. I de l’O du DFI du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^58-3]: Introduit par le ch. I de l’O du DFI du 23 oct. 2013 ([RO 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)). Abrogé par le ch. I de l’O du DFI du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 59
 
@@ -856,15 +897,22 @@ L’attestation de participation à une formation continue doit contenir au moin
 
 <sup>2</sup> Le comité de surveillance des examens se compose d’au moins trois personnes qui remplissent les conditions fixées à l’art. 60 pour pouvoir être expert aux examens.
 
+<sup>3</sup> Il est responsable du bon déroulement des examens conformément au règlement d’examen.[^59-1]
+
+[^59-1]: Introduit par le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 60
 
 **Experts aux examens**
 
-<sup>1</sup> Les organisateurs des formations désignent les experts aux examens, qui doivent remplir au moins les conditions fixées à l’art. 203 OPAn pour les branches sur lesquelles porte l’examen.
+<sup>1</sup> Les organisateurs des formations désignent les experts aux examens; ceux-ci doivent remplir au moins les conditions fixées aux art. 203 OPAn pour les branches sur lesquelles porte l’examen.[^60-1]
 
-<sup>2</sup> Ils désignent, en plus des experts, au moins une personne indépendante qui fera office d’assesseur.
+<sup>2</sup> En plus d’un expert, au moins une personne indépendante doit être présente lors de l’examen. Celle-ci doit remplir les conditions fixées aux art. 203 ou 203*a* OPAn pour faire passer l’examen oral.[^60-2]
 
 <sup>3</sup> Les résultats des examens, les observations particulières au cours des examens et les objections des candidats doivent être consignés par écrit et signés par la personne qui fait passer les examens et par son assesseur.
+
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^60-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 61
 
@@ -880,7 +928,9 @@ L’attestation de participation à une formation continue doit contenir au moin
 
 <sup>1</sup> L’inscription aux examens doit être adressée à l’organisation qui les fait passer, accompagnée d’une attestation de participation aux cours de formation exigés.
 
-<sup>2</sup> L’institut de formation qui fait passer les examens décide de l’admission d’une personne aux examens.
+<sup>2</sup> L’organisation qui fait passer les examens décide de l’admission aux examens.[^62-1]
+
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 63
 
@@ -894,7 +944,7 @@ L’attestation de participation à une formation continue doit contenir au moin
 
 <sup>4</sup> L’examen permettant d’obtenir l’autorisation cantonale d’utiliser des appareils à des fins thérapeutiques pour le traitement des chiens visé à l’art. 76, al. 3, OPAn est réussi si le candidat obtient une note moyenne de 4 au moins.[^63-3]
 
-<sup>5</sup> ...[^63-4]
+<sup>5</sup> …[^63-4]
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 [^63-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
@@ -921,7 +971,7 @@ Les personnes qui réussissent l’examen reçoivent une attestation d’examen 
 - d. la dénomination de la formation réussie;
 - e. le lieu, la date, le nom et la signature de l’organisateur de l’examen.
 
-### Section 2**** Forme, contenu et durée des examens
+### Section 2 Forme, contenu et durée des examens
 
 [^chap7-sec2-1]
 
@@ -947,7 +997,7 @@ Les personnes qui réussissent l’examen reçoivent une attestation d’examen 
 
 *Abrogés*
 
-## Chapitre 8 Dispositions finales****
+## Chapitre 8 Dispositions finales
 
 [^chap8-1]
 
@@ -967,9 +1017,10 @@ L’ordonnance du 22 août 1986 concernant l’obtention du certificat de capaci
 
 <sup>1</sup> Les formations pour obtenir le certificat de capacité visé à l’art. 13 OGAn[^71-1] qui ont débuté avant le 1<sup>er</sup> octobre 2008 sont régies par l’ancien droit.
 
-<sup>2</sup> Les formations pour devenir formateur de détenteurs d’animaux achevées avant le 1<sup>er</sup> octobre 2008 de même qu’une longue expérience dans le domaine doivent être dûment prises en compte par les instituts de formation visés à l’art. 205 OPAn dans le cadre d’une formation correspondante au sens de la présente ordonnance.
+<sup>2</sup> …[^71-2]
 
 [^71-1]: [[RO 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511)]
+[^71-2]: Abrogé par le ch. I de l’O du DFI du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 72
 

@@ -4,31 +4,32 @@ title: "Verordnung des EDI vom 5. September 2008 über Ausbildungen in der Tierh
 short: TSchAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/609"
 language: de
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-09-05
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20180301/de/xml/fedlex-data-admin-ch-eli-cc-2008-609-20180301-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20180301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2008-609-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über Ausbildungen in der Tierhaltung und im Umgang mit Tieren
 
-(Tierschutz-Ausbildungsverordnung, TSchAV)**[^t-1]**
+(Tierschutz-Ausbildungsverordnung, TSchAV)[^t-1]
 
-vom 5. September 2008 (Stand am 1. März 2018)
+vom 5. September 2008 (Stand am 1. Februar 2025)
 
 [^t-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 Das Eidgenössische Departement des Innern (EDI)[^ingress-1],
 
-gestützt auf die Artikel 190 Absätze 3 und 4, 197 Absatz 3, 198 Absatz 3, 202 Absatz 2 und 203 Absatz 1 der Tierschutzverordnung vom 23. April 2008[^ingress-2] (TSchV),
+gestützt auf die Artikel 76 Absatz 3, 190 Absatz 3, 197 Absatz 3, 198 Absatz 3, 198*c* Absatz 2 und 202 Absatz 2 der Tierschutzverordnung vom 23. April 2008[^ingress-2] (TSchV),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 [^ingress-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-3]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
 
@@ -79,7 +80,7 @@ Sie enthält die Prüfungsvorschriften für die Ausbildung von:
 
 ## 2. Kapitel: Fachspezifische berufsunabhängige Ausbildung
 
-### 1. Abschnitt: Betreuung, Pflege, Zucht und Haltung von Tieren****
+### 1. Abschnitt: Betreuung, Pflege, Zucht und Haltung von Tieren
 
 [^chap2-sec1-1]
 
@@ -89,23 +90,24 @@ Sie enthält die Prüfungsvorschriften für die Ausbildung von:
 
 **Lernziele**[^2-1]
 
-<sup>1</sup> Das Ziel der Ausbildung nach Artikel 31 Absatz 5, 85 Absatz 2, 97 Absatz 2, 102 Absatz 2 oder 103 Buchstabe e TSchV muss sein, dass die Tierhalterin oder der Tierhalter beziehungsweise die für die Tierbetreuung verantwortliche Person schonend und fachgerecht mit den Tieren umgeht, sie tiergerecht hält, gesund erhält, verantwortungsbewusst züchtet und gesunde Jungtiere heranzieht.
+<sup>1</sup> Das Ziel der Ausbildung nach Artikel 31 Absatz 5, 85 Absatz 2, 97 Absatz 2, 102 Absatz 2 oder 4 oder 103 Buchstabe e TSchV muss sein, dass die Tierhalterin oder der Tierhalter beziehungsweise die für die Tierbetreuung verantwortliche Person schonend und fachgerecht mit den Tieren umgeht, sie tiergerecht hält, gesund erhält, verantwortungsbewusst züchtet und gesunde Jungtiere heranzieht.[^2-2]
 
 <sup>2</sup> Das Ziel der Ausbildung nach Artikel 102 Absatz 5 TSchV muss sein, dass die Person, welche die Klauenpflege für Rinder oder die Hufpflege für Equiden durchführt, schonend und fachgerecht mit den Tieren umzugehen weiss.
 
 [^2-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^2-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 3
 
-**Form und Umfang**
+**Form und Umfang**[^3-1]
 
-<sup>1</sup> Die Ausbildung umfasst einen theoretischen und einen praktischen Teil sowie ein Praktikum auf einem Betrieb nach Artikel 206 TSchV.
+<sup>1</sup> Die Ausbildung umfasst einen theoretischen und einen praktischen Teil sowie ein Praktikum in einem oder mehreren Betrieben nach Artikel 198*c* TSchV.
 
-<sup>2</sup> Der theoretische und der praktische Teil umfassen zusammen mindestens 40 Stunden, davon der theoretische Teil mindestens 20 und der praktische Teil min-destens 10 Stunden. Das Praktikum umfasst mindestens drei Monate.
+<sup>2</sup> Der theoretische und der praktische Teil umfassen zusammen mindestens 40 Stunden, davon der theoretische Teil mindestens 20 und der praktische Teil mindestens 10 Stunden.
 
-<sup>3</sup> In der Ausbildung von Personen, die gewerbsmässig Heimtiere oder Nutzhunde züchten, müssen mindestens 10 Stunden des theoretischen Teils für die Bereiche nach Artikel 4 Absatz 2 Buchstaben d–g eingesetzt werden.[^3-1]
+<sup>3</sup> Das Praktikum umfasst mindestens 360 Stunden. Davon können höchstens 80 Stunden in Kleingruppen absolviert werden.
 
-[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 4
 
@@ -124,7 +126,7 @@ Der theoretische Teil vermittelt Grundkenntnisse über die betreuten Tiere in fo
 
 <sup>2</sup>
 
-Für die Ausbildung nach Artikel 31 Absatz 5, 85 Absatz 2, 97 Absatz 2, 102 Absatz 2 oder 103 Buchstabe e TSchV vermittelt der theoretische Teil vertiefte Kenntnisse über die betreuten Tiere in folgenden Bereichen:[^4-1]
+Für die Ausbildung nach Artikel 31 Absatz 5, 85 Absatz 2, 97 Absatz 2, 102 Absatz 2 oder 4 oder 103 Buchstabe e TSchV vermittelt der theoretische Teil vertiefte Kenntnisse über die betreuten Tiere in folgenden Bereichen:[^4-1]
 
 - a. Tierbetreuung sowie Pflege von kranken und verletzten Tieren;
 - b. Fütterung, insbesondere Futterzusammensetzung, physiologischer Futterbedarf und Beschäftigung im Zusammenhang mit der Futteraufnahme;
@@ -144,21 +146,47 @@ Für die Ausbildung nach Artikel 102 Absatz 5 TSchV vermittelt der theoretische 
 - d. fachgerechte und schonende Durchführung der Dienstleistungen;
 - e. Reinigung und Desinfektion von Räumen, Gehegen und Gerätschaften.[^4-2]
 
-[^4-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^4-2]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 (AS **20****13** 3781).
+<sup>4</sup> In der Ausbildung von Personen, die gewerbsmässig Heimtiere oder Nutzhunde züchten, müssen mindestens 10 Stunden des theoretischen Teils für die Bereiche nach Absatz 2 Buchstaben d–g eingesetzt werden.[^4-3]
 
-#### Art. 5
+[^4-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^4-2]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^4-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
-**Inhalt des praktischen Teils**[^5-1]
+#### Art. 4a
 
-<sup>1</sup> Der praktische Teil der Ausbildung nach Artikel 31 Absatz 5, 85 Absatz 2, 97 Absatz 2, 102 Absatz 2 oder 103 Buchstabe e TSchV muss Übungen betreffend Umgang mit Tieren, Pflege, Verhaltensbeobachtungen, Einrichten von Gehegen und Hygiene beinhalten.[^5-2]
+**Inhalt des praktischen Teils**[^4a-1]
+
+<sup>1</sup> Der praktische Teil der Ausbildung nach Artikel 31 Absatz 5, 85 Absatz 2, 97 Absatz 2, 102 Absatz 2 oder 4 oder 103 Buchstabe e TSchV muss Übungen betreffend Umgang mit Tieren, Pflege, Verhaltensbeobachtungen, Einrichten von Gehegen und Hygiene beinhalten.
 
 <sup>2</sup> Der praktische Teil der Ausbildung nach Artikel 102 Absatz 5 TSchV muss Übungen betreffend Umgang mit Tieren, Pflege, Hygiene sowie Ausübung der mit der Dienstleistung verbundenen Handgriffe am Tier beinhalten.
 
-[^5-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^5-2]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^4a-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
-### 1*a*. Abschnitt:**** Detailhandelsfachleute im Zoofachhandel
+#### Art. 5
+
+**Praktikum**[^5-1]
+
+<sup>1</sup>
+
+Für die Ausbildung nach Artikel 31 Absatz 5 TSchV und für die Ausbildung nach Artikel 85 Absatz 2 TSchV zur gewerbsmässigen Haltung von Wachteln der Art *Coturnix* *japonica* können höchstens 240 Stunden an das Praktikum angerechnet werden, wenn:
+
+- a. die Tierhalterin oder der Tierhalter nachweist, dass sie oder er Tiere der entsprechenden Art bereits seit mindestens drei Jahren gehalten hat; und
+- b. die zuständige kantonale Vollzugsbehörde bei Kontrollen keine wesentlichen Mängel festgestellt hat.
+
+<sup>2</sup> Für die Ausbildung nach Artikel 102 Absatz 2 TSchV müssen mindestens 240 Stunden des Praktikums in einem Tierheim mit einer Bewilligung nach Artikel 101 Buchstabe a TSchV absolviert werden. Höchstens 80 Stunden können in einer Kleintierpraxis absolviert werden.
+
+<sup>3</sup>
+
+Für die Ausbildung nach Artikel 102 Absatz 4 TSchV können höchstens 240 Stunden an das Praktikum angerechnet werden, wenn:
+
+- a. die Tierhalterin oder der Tierhalter nachweist, dass sie oder er seit mindestens drei Jahren Mitglied eines Zuchtverbandes der entsprechenden Tierart ist und in dieser Zeit mindestens fünf Würfe gezüchtet hat; und
+- b. die zuständige kantonale Vollzugsbehörde bei Kontrollen keine wesentlichen Mängel festgestellt hat.
+
+<sup>4</sup> Für die Ausbildung nach Artikel 102 Absatz 5 TSchV kann die Ausbildungsorganisation für das Praktikum eine Anzahl Tiere festlegen, an denen die Huf- oder Klauenpflege durchgeführt werden muss. Deren Behandlung muss zusammen mit der Dokumentation mindestens einer Dauer von 360 Stunden entsprechen. 120 Stunden praktische Tätigkeit dürfen selbstständig durchgeführt werden. Alle Behandlungen sind zu dokumentieren.
+
+[^5-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
+### 1*a*. Abschnitt: Detailhandelsfachleute im Zoofachhandel
 
 [^chap2-sec1a-1]
 
@@ -174,9 +202,11 @@ Das Ziel der Ausbildung nach Artikel 103 Buchstabe b TSchV muss sein, dass Detai
 
 **Form und Umfang**
 
-<sup>1</sup> Die Ausbildung besteht aus einem theoretischen Teil und einem Praktikum auf einem oder mehreren Betrieben nach Artikel 206 TSchV. Das Praktikum erfolgt tiergruppenspezifisch mit mindestens vier Tiergruppen nach Artikel 5*d* Absatz 1.
+<sup>1</sup> Die Ausbildung besteht aus einem theoretischen Teil und einem Praktikum in einem oder mehreren Betrieben nach Artikel 198*c* TSchV. Das Praktikum erfolgt tiergruppenspezifisch mit mindestens vier Tiergruppen nach Artikel 5*d* Absatz 1.[^5b-1]
 
 <sup>2</sup> Der theoretische Teil umfasst mindestens 90 Stunden und das Praktikum mindestens 40 Arbeitstage, davon mindestens je zehn Arbeitstage bei vier verschiedenen Tiergruppen nach Artikel 5*d*.
+
+[^5b-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 5c
 
@@ -238,10 +268,12 @@ Das Ziel der Ausbildung nach Artikel 150 TSchV muss sein, dass das Tiertransport
 Der praktische Teil erfolgt tiergruppenspezifisch durch Begleitung einer erfahrenen Tiertransporteurin oder eines erfahrenen Tiertransporteurs und umfasst:
 
 - a. für Geflügeltransportpersonal mindestens zwei Arbeitstage, die für Geflügel aufzuwenden sind;
+- a<sup>bis</sup>.[^7-1] für Equidentransportpersonal mindestens zwei Arbeitstage, die für Equiden aufzuwenden sind;
 - b. für Tiertransportpersonal für Heimtiere, Versuchstiere oder Wildtiere mindestens zwei Arbeitstage, die für regelmässig transportierte Tierarten dieser Tiergruppen aufzuwenden sind;
-- c. in allen übrigen Fällen mindestens fünf Arbeitstage, wovon mindestens ein Tag für jede Tiergruppe nach Artikel 9 Absatz 1 Buchstaben a–d aufzuwenden ist.[^7-1]
+- c. in allen übrigen Fällen mindestens fünf Arbeitstage, wovon mindestens ein Tag für jede Tiergruppe nach Artikel 9 Absatz 1 Buchstaben a–d aufzuwenden ist.[^7-2]
 
-[^7-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^7-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^7-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 #### Art. 8
 
@@ -280,16 +312,18 @@ Der praktische Teil wird tiergruppenspezifisch nach folgenden Tiergruppen vermit
 - d. kleine Wiederkäuer;
 - e. Geflügel;
 - f.[^9-1] Heimtiere, insbesondere Hunde und Katzen;
-- g.[^9-2] Versuchstiere; und
-- h.[^9-3] Wildtiere.
+- g.[^9-2] Versuchstiere;
+- h.[^9-3] Wildtiere; und
+- i.[^9-4] Equiden.
 
 <sup>2</sup> Er muss Übungen betreffend Umgang mit Tieren wie Ein- und Ausladen, Treiben, Fahren und Betreuen von Tieren beinhalten.
 
 [^9-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 [^9-2]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 [^9-3]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-4]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
-### 3. Abschnitt: Personal der Schlachtbetriebe****
+### 3. Abschnitt: Personal der Schlachtbetriebe
 
 [^chap2-sec3-1]
 
@@ -361,13 +395,14 @@ Der praktische Teil beinhaltet:
 
 **Lernziele**
 
-<sup>1</sup> Das Ziel der Ausbildung nach Artikel 203 TSchV muss sein, dass Ausbilderinnen und Ausbilder von Tierhalterinnen und Tierhaltern über vertiefte Kenntnisse der artspezifischen Bedürfnisse der Tiere und ihrer tiergerechten Haltung verfügen.
+<sup>1</sup> Das Ziel der Ausbildung nach Artikel 203*a* TSchV muss sein, dass Ausbilderinnen und Ausbilder von Tierhalterinnen und Tierhaltern über vertiefte Kenntnisse der artspezifischen Bedürfnisse der Tiere und ihrer tiergerechten Haltung verfügen.[^14-1]
 
-<sup>2</sup> …[^14-1]
+<sup>2</sup> …[^14-2]
 
 <sup>3</sup> Nach Absolvieren der Ausbildung müssen Ausbilderinnen und Ausbilder ihre Kenntnisse verständlich und nachvollziehbar weitergeben können.
 
-[^14-1]: Aufgehoben durch Ziff. I der V des EDI vom 23. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
+[^14-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^14-2]: Aufgehoben durch Ziff. I der V des EDI vom 23. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
 
 #### Art. 15
 
@@ -396,7 +431,7 @@ Der theoretische Teil vermittelt Grundkenntnisse in den folgenden Bereichen:
 
 Der praktische Teil vermittelt praktische Fähigkeiten in den Bereichen nach Artikel 16.
 
-### 5. Abschnitt: Leiterinnen und Leiter von Versuchstierhaltungen****
+### 5. Abschnitt: Leiterinnen und Leiter von Versuchstierhaltungen
 
 [^chap2-sec5-1]
 
@@ -428,7 +463,7 @@ Die Ausbildung umfasst insgesamt mindestens 40 Stunden, davon der theoretische T
 
 Der praktische Teil vermittelt die Inhalte nach Artikel 25 Buchstaben a–f sowie die praktische Umsetzung der Vorgaben in einer bestehenden Versuchstierhaltung.
 
-### 6. Abschnitt: Versuchsdurchführende Personen****
+### 6. Abschnitt: Versuchsdurchführende Personen
 
 [^chap2-sec6-1]
 
@@ -502,7 +537,7 @@ Der praktische Teil muss Übungen beinhalten betreffend:
 - f. hygienisches Arbeiten;
 - g. Erkennen der verschiedenen Stadien einer allgemeinen Anästhesie und deren Überwachung sowie Verabreichen von Analgetika und Überprüfung der Analgesie.
 
-### 7. Abschnitt: Tierschutzbeauftragte sowie Versuchsleiterinnen und Versuchsleiter****
+### 7. Abschnitt: Tierschutzbeauftragte sowie Versuchsleiterinnen und Versuchsleiter
 
 [^chap2-sec7-1]
 
@@ -549,13 +584,13 @@ Der theoretische Teil vertieft die Lerninhalte nach Artikel 24 und vermittelt Ke
 
 Der versuchszielorientierte Teil vermittelt in geeigneter Form die methoden- und die tierartspezifischen Kenntnisse, die erforderlich sind, damit eine fachgerechte Durchführung der vorgesehenen Tierversuche gewährleistet ist.
 
-## 3. Kapitel: Ausbildung mit Sachkundenachweis****
+## 3. Kapitel: Ausbildung mit Sachkundenachweis
 
 [^chap3-1]
 
 [^chap3-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
-### 1. Abschnitt: Haltung und Betreuung von Haustieren sowie private Haltung und Betreuung von Wildtieren****
+### 1. Abschnitt: Haltung und Betreuung von Haustieren sowie private Haltung und Betreuung von Wildtieren
 
 [^chap3-sec1-1]
 
@@ -613,7 +648,7 @@ Die Ausbildung vermittelt:
 - b. vertiefte Kenntnisse über Haltungsanforderungen, insbesondere bei hoher Besatzdichte, und über die Belastung durch Markierungsmethoden;
 - c. die Fähigkeit zur schonenden Durchführung von Fang, Markierung, Hälterung und Tötung.
 
-### 4. Abschnitt: Betreuung von Tieren an Handelsveranstaltungen und in der Werbung****
+### 4. Abschnitt: Betreuung von Tieren an Handelsveranstaltungen und in der Werbung
 
 [^chap3-sec4-1]
 
@@ -629,9 +664,11 @@ Das Ziel der Ausbildung nach Artikel 103 Buchstabe d TSchV muss sein, dass die a
 
 #### Art. 40
 
-**Form und Umfang**
+**Form und Umfang**[^40-1]
 
-Die Ausbildung erfolgt in Form eines Kurses von mindestens drei Stunden Dauer oder eines Praktikums während mindestens drei Anlässen auf einem Betrieb nach Artikel 206 TSchV unter der Leitung einer Person mit entsprechendem Sachkundenachweis.
+Die Ausbildung erfolgt in Form eines Kurses von mindestens drei Stunden Dauer oder eines Praktikums während mindestens drei Anlässen in einem oder mehreren Betrieben nach Artikel 198*c* TSchV unter der Leitung einer Person mit entsprechendem Sachkundenachweis.
+
+[^40-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 41
 
@@ -661,7 +698,7 @@ Die Ausbildung erfolgt in Form eines Theoriekurses von mindestens drei Stunden D
 
 <sup>2</sup> Das praktische Üben auf dem eigenen Betrieb muss Übungen betreffend Vorbereitung des Tieres auf den Eingriff, korrektes Dosieren und Verabreichen von Tierarzneimitteln sowie die korrekte Vornahme des Eingriffs und die Überwachung des Tieres beinhalten.
 
-## 4. Kapitel:**** Ausbildung für die Verwendung von Geräten zu therapeutischen Zwecken im Umgang mit Hunden
+## 4. Kapitel: Ausbildung für die Verwendung von Geräten zu therapeutischen Zwecken im Umgang mit Hunden
 
 [^chap4-1]
 
@@ -721,7 +758,7 @@ Das Praktikum muss Übungen beinhalten betreffend:
 
 [^4548-1]: Aufgehoben durch Ziff. I der V des EDI vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
-## 5. Kapitel: Weiterbildung****
+## 5. Kapitel: Weiterbildung
 
 [^chap5-1]
 
@@ -745,13 +782,13 @@ Die Weiterbildung kann erfolgen:
 - b. in Form eines Praktikums;
 - c. durch die Teilnahme an Kongressen oder Workshops.
 
-## 6. Kapitel: Verfahren****
+## 6. Kapitel: Verfahren
 
 [^chap6-1]
 
 [^chap6-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
-### 1. Abschnitt: Grundsätze bei der Durchführung von Ausbildungen****
+### 1. Abschnitt: Grundsätze bei der Durchführung von Ausbildungen
 
 [^chap6-sec1-1]
 
@@ -765,6 +802,16 @@ Wer Ausbildungen durchführt, muss den Teilnehmerinnen und Teilnehmern schriftli
 
 [^51-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
+#### Art. 51a
+
+**Online-Unterricht**[^51a-1]
+
+<sup>1</sup> Der theoretische Ausbildungsteil kann vollständig über eine Lernplattform durchgeführt werden, wenn die Teilnehmerinnen und Teilnehmer eindeutig identifiziert werden können.
+
+<sup>2</sup> Die Durchführung mit anderen elektronischen Mitteln, namentlich per Videokonferenz, darf höchstens einen Viertel des theoretischen Ausbildungsteils umfassen.
+
+[^51a-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 52
 
 **Ausbildungskontrolle**
@@ -777,7 +824,7 @@ Nach dem theoretischen Ausbildungsteil wird der Lernerfolg ausgewertet und dokum
 
 Das praktische Üben im Rahmen einer Ausbildung erfolgt unter Aufsicht anhand der täglich anfallenden Arbeit in einer Tierhaltung. Nur zu Übungszwecken dürfen keine Eingriffe an Tieren vorgenommen werden, ausser wenn ein Eingriff nach Artikel 141 TSchV als Tierversuch bewilligt worden ist.
 
-### 2. Abschnitt: Nachweis von Aus- und Weiterbildungen****
+### 2. Abschnitt: Nachweis von Aus- und Weiterbildungen
 
 [^chap6-sec2-1]
 
@@ -830,7 +877,7 @@ Die Bestätigung über die Teilnahme an einer Weiterbildung muss mindestens die 
 - b. Bezeichnung und Dauer der Weiterbildung mit Durchführungsort und ‑datum;
 - c. Name der Teilnehmerin oder des Teilnehmers.
 
-## 7. Kapitel: Prüfungsvorschriften****
+## 7. Kapitel: Prüfungsvorschriften
 
 [^chap7-1]
 
@@ -840,19 +887,13 @@ Die Bestätigung über die Teilnahme an einer Weiterbildung muss mindestens die 
 
 #### Art. 58
 
-**Durchführung der Prüfung**
+**Durchführung der Prüfung**[^58-1]
 
-<sup>1</sup> Die Anbieterinnen und Anbieter der fachspezifischen berufsunabhängigen Ausbildungen führen die Prüfungen zum Abschluss dieser Ausbildungen durch.[^58-1]
+<sup>1</sup> Die Ausbildungsorganisationen nach Artikel 198*a* TSchV führen die Prüfungen zum Abschluss der fachspezifischen berufsunabhängigen Ausbildungen durch.
 
-<sup>2</sup> Die Ausbildungsstätten nach Artikel 205 TSchV führen die Prüfung zum Abschluss der Ausbildung von Ausbilderinnen und Ausbildern von Tierhalterinnen und Tierhaltern durch.
+<sup>2</sup> Die Kantone oder die von ihnen beauftragte Organisation führen die Prüfungen nach Artikel 76 Absatz 3 TSchV zur Erlangung der Bewilligung zum Verwenden von Geräten zu therapeutischen Zwecken im Umgang mit Hunden durch.
 
-<sup>3</sup> Die Kantone führen die Prüfungen nach Artikel 76 Absatz 3 TSchV zur Erlangung der Bewilligung zum Verwenden von Geräten zu therapeutischen Zwecken im Umgang mit Hunden durch.[^58-2]
-
-<sup>4</sup> …[^58-3]
-
-[^58-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^58-2]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^58-3]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2013 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)). Aufgehoben durch Ziff. I der V des EDI vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^58-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 59
 
@@ -862,15 +903,21 @@ Die Bestätigung über die Teilnahme an einer Weiterbildung muss mindestens die 
 
 <sup>2</sup> Die Prüfungsaufsicht setzt sich aus mindestens drei Mitgliedern zusammen, die die Anforderungen an die Prüfungsexpertinnen und Prüfungsexperten nach Artikel 60 erfüllen.
 
+<sup>3</sup> Die Prüfungsaufsicht ist für die korrekte Durchführung der Prüfung gemäss Prüfungsreglement verantwortlich.[^59-1]
+
+[^59-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 60
 
 **Prüfungsexpertinnen und Prüfungsexperten**
 
 <sup>1</sup> Die Organisatorinnen und Organisatoren ernennen Prüfungsexpertinnen und Prüfungsexperten, die für die geprüften Fächer mindestens die Anforderungen nach Artikel 203 TSchV erfüllen.
 
-<sup>2</sup> Für die Abnahme der Prüfung ist zusätzlich zur Prüfungsexpertin oder zum Prüfungsexperten mindestens eine weitere, unabhängige Person als Beisitzerin oder Beisitzer anwesend.
+<sup>2</sup> Für die Abnahme der Prüfung muss zusätzlich zur Prüfungsexpertin oder zum Prüfungsexperten mindestens eine weitere, unabhängige Person anwesend sein. Bei der mündlichen Prüfung muss diese die Anforderungen nach Artikel 203 TSchV erfüllen.[^60-1]
 
 <sup>3</sup> Die Resultate sowie besondere Beobachtungen während der Prüfung, einschliesslich der Einwände der Kandidatinnen und Kandidaten, werden schriftlich festgehalten und von der prüfenden und der beisitzenden Person unterzeichnet.
+
+[^60-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 61
 
@@ -886,7 +933,9 @@ Die Bestätigung über die Teilnahme an einer Weiterbildung muss mindestens die 
 
 <sup>1</sup> Die Anmeldung zur Prüfung erfolgt zuhanden der durchführenden Organisation mit dem Nachweis, dass die vorgeschriebenen Ausbildungskurse besucht worden sind.
 
-<sup>2</sup> Die durchführende Ausbildungsstätte entscheidet über die Zulassung zur Prüfung.
+<sup>2</sup> Die durchführende Organisation entscheidet über die Zulassung zur Prüfung.[^62-1]
+
+[^62-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 63
 
@@ -927,7 +976,7 @@ Wer die Prüfung bestanden hat, erhält von der für die Prüfung zuständigen O
 - d. Bezeichnung der mit der Prüfung bestandenen Ausbildung;
 - e. Ort, Datum, Name und Unterschrift der Prüfungsorganisatorin oder des Prüfungsorganisators.
 
-### 2. Abschnitt:**** Form, Inhalt und Dauer der Prüfungen
+### 2. Abschnitt: Form, Inhalt und Dauer der Prüfungen
 
 [^chap7-sec2-1]
 
@@ -953,7 +1002,7 @@ Wer die Prüfung bestanden hat, erhält von der für die Prüfung zuständigen O
 
 Aufgehoben
 
-## 8. Kapitel: Schlussbestimmungen****
+## 8. Kapitel: Schlussbestimmungen
 
 [^chap8-1]
 
@@ -973,9 +1022,10 @@ Die Verordnung vom 22. August 1986[^70-1] über den Erwerb des Fähigkeitsauswei
 
 <sup>1</sup> Ausbildungen zur Erlangung des Fähigkeitsausweises nach Artikel 13 VTpf[^71-1]<sup>,</sup> die vor dem 1. Oktober 2008 begonnen wurden, werden nach bisherigem Recht durchgeführt.
 
-<sup>2</sup> Ausbildungen zur Ausbilderin oder zum Ausbilder von Tierhalterinnen und Tierhaltern, die vor dem 1. Oktober 2008 absolviert wurden, sowie langjährige einschlägige Erfahrung werden von der Ausbildungsstätte nach Artikel 205 TSchV an eine entsprechende Ausbildung nach dieser Verordnung angemessen angerechnet.
+<sup>2</sup> …[^71-2]
 
 [^71-1]: [[AS 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511)]
+[^71-2]: Aufgehoben durch Ziff. I der V des EDI vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 72
 

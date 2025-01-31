@@ -4,11 +4,11 @@ title: "FDHA Ordinance of 5 September 2008 on Training in Animal Husbandry and H
 short: AWTO
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/609"
 language: en
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-09-05
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20180301/en/xml/fedlex-data-admin-ch-eli-cc-2008-609-20180301-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20180301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/609/20250201/en/xml/fedlex-data-admin-ch-eli-cc-2008-609-20250201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/609/20250201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,18 +19,19 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Animal Welfare Training Ordinance, AWTO)[^t-1]
 
-of 5 September 2008 (Status as of 1 March 2018)
+of 5 September 2008 (Status as of 1 February 2025)
 
 [^t-1]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 The Federal Department of Home Affairs (FDHA)[^ingress-1],
 
-based on Articles 190, paragraphs 3 and 4, 197 paragraph 3, 198 paragraph 3, 202 paragraph 2 and 203 paragraph 1 of the Animal Welfare Ordinance of 23 April 2008[^ingress-2] (AniWO),
+based on Articles 76 paragraph 3, 190 paragraph 3, 197 paragraph 3, 198 paragraph 3, 198*c* paragraph 2 and 202 paragraph 2 of the Animal Welfare Ordinance of 23 April 2008[^ingress-2] (AniWO),[^ingress-3]
 
 decrees:
 
 [^ingress-1]: The name of the administrative unit was modified in accordance with Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), with effect from 1 Jan. 2013.
 [^ingress-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-3]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ## Chapter 1 Purpose and Scope
 
@@ -91,23 +92,24 @@ It contains the examination requirements for the training of:
 
 **Learning objectives**[^2-1]
 
-<sup>1</sup> The objective of training in accordance with Article 31 paragraph 5, 85 paragraph 2, 97 paragraph 2, 102 paragraph 2 or 103 letter e AniWO must be to ensure that animal keepers or persons responsible for their care, handle them with due care, house them in a species-appropriate manner, keep them healthy, breed them responsibly and raise healthy young animals.
+<sup>1</sup> The practical part of training in accordance with Article 31 paragraph 5, 85 paragraph 2, 97 paragraph 2, 102 paragraph 2 or 4 or 103 letter e AniWO must contain practical exercises in handling the animals, care, observation of behaviour, setting up enclosures and hygiene.[^2-2]
 
 <sup>2</sup> The objective of training in accordance with Article 102 paragraph 5 AniWO must be to ensure that persons who perform hoof care for cattle or equids know how to handle the animals with due care.
 
 [^2-1]: Amended by No I of the FDHA Ordinance of 10 Jan. 2018, in force since 1 March 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^2-2]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 3
 
-**Form and scope**
+**Form and scope**[^3-1]
 
-<sup>1</sup> Training comprises a theoretical part, a practical part and a traineeship with an organisation in accordance with Article 206 AniWO.
+<sup>1</sup> Training comprises a theoretical part, a practical part and a traineeship with one or more organisations in accordance with Article 198*c* AniWO.
 
-<sup>2</sup> The theoretical part and the practical part together comprise at least 40 hours, of which the theoretical part accounts for at least 20 hours and the practical part at least 10 hours. The traineeship lasts at least three months.
+<sup>2</sup> The theoretical part and the practical part together comprise at least 40 hours, of which the theoretical part accounts for at least 20 hours and the practical part at least 10 hours.
 
-<sup>3</sup> At least 10 hours of the theoretical part of training for persons who breed pets or working dogs commercially must deal with the areas described in Article 4 paragraph 2 letters d–g.[^3-1]
+<sup>3</sup> The traineeship lasts for at least 360 hours. A maximum of 80 hours may be completed in small groups.
 
-[^3-1]: Amended by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^3-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 4
 
@@ -126,7 +128,7 @@ The theoretical part provides basic knowledge of the following aspects relating 
 
 <sup>2</sup>
 
-The theoretical part of training in accordance with Article 31 paragraph 5, 85 paragraph 2, 97 paragraph 2, 102 paragraph 2 or 103 letter e AniWO provides in-depth knowledge of the following aspects relating to the animals being cared for:[^4-1]
+The theoretical part of training in accordance with Article 31 paragraph 5, 85 paragraph 2, 97 paragraph 2, 102 paragraph 2 or 4 or 103 letter e AniWO provides in-depth knowledge of the following aspects relating to the animals being cared for:[^4-1]
 
 - a. animal care and the care of sick and injured animals;
 - b. feeding, in particular the composition of feed, physiological feed requirements and occupation in the context of feeding;
@@ -146,19 +148,45 @@ The theoretical part of training in accordance with Article 102 paragraph 5 AniW
 - d. providing the services with due care;
 - e. cleaning and disinfection of rooms, enclosures and equipment.[^4-2]
 
-[^4-1]: Amended by No I of the FDHA Ordinance of 10 Jan. 2018, in force since 1 March 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+<sup>4</sup> At least 10 hours of the theoretical part of training for persons who breed pets or working dogs commercially must deal with the areas described in paragraph 2letters d–g.[^4-3]
+
+[^4-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 [^4-2]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^4-3]: Inserted by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
-#### Art. 5
+#### Art. 4a
 
-**Content of the practical part**[^5-1]
+**Content of the practical part**[^4a-1]
 
-<sup>1</sup> The practical part of training in accordance with Article 31 paragraph 5, 85 paragraph 2, 97 paragraph 2, 102 paragraph 2 or 103 letter e AniWO must contain practical exercises in handling the animals, care, observation of behaviour, setting up enclosures and hygiene.[^5-2]
+<sup>1</sup> The practical part of training in accordance with Article 31 paragraph 5, 85 paragraph 2, 97 paragraph 2, 102 paragraph 2 or 4 or 103 letter e AniWO must contain practical exercises in handling the animals, care, observation of behaviour, setting up enclosures and hygiene.
 
 <sup>2</sup> The practical part of training in accordance with Article 102 paragraph 5 AniWO must contain practical exercises in handling the animals, care, hygiene and carrying out the procedures on the animal associated with the services.
 
-[^5-1]: Amended by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^5-2]: Amended by No I of the FDHA Ordinance of 10 Jan. 2018, in force since 1 March 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^4a-1]: Inserted by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
+#### Art. 5
+
+**Traineeship**[^5-1]
+
+<sup>1</sup>
+
+In the case of training in accordance with Article 31 paragraph 5 AniWO and training in accordance with Article 85 paragraph 2 AniWO for the commercial keeping of quails of the species *Coturnix* *japonica*, a maximum of 240 hours may be counted towards the traineeship provided:
+
+- a. the keeper provides evidence that he or she has kept animals of the relevant species for at least three years; and
+- b. the competent cantonal enforcement agency has not detected any serious deficiencies during inspections.
+
+<sup>2</sup> In the case of training in accordance with Article 102 paragraph 2 AniWO, a minimum of 240 hours of the traineeship must be completed in an animal shelter with a licence in accordance with Article 101 letter a AniWO. A maximum of 80 hours may be completed in a small animal practice.
+
+<sup>3</sup>
+
+In the case of training in accordance with Article 102 paragraph 4 AniWO, a maximum of 240 hours may be counted towards the traineeship if:
+
+- a. the keeper provides evidence that he or she has been a member of a breeding association for the species concerned and has bred at least five litters during this time; and
+- b. the competent cantonal enforcement agency has not detected any serious deficiencies in the course of inspections.
+
+<sup>4</sup> In the case of training in accordance with Article 102 paragraph 5 AniWO, the training organisation may specify a number of animals on which hoof care must be carried out during the traineeship. The treatment of these animals, together with its documentation, must account for a minimum of 360 hours. 120 hours of practical work may be carried out independently. All treatments must be documented.
+
+[^5-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ### Section 1*a* Retail Specialists in the Pet Shop Business
 
@@ -176,9 +204,11 @@ The objective of training in accordance with Article 103 letter b AniWO must be 
 
 **Form and scope**
 
-<sup>1</sup> Training consists of a theoretical part and a traineeship with one or more organisations as described in Article 206 AniWO. The traineeship relates to specific animal groups, involving at least four of the animal groups listed in Article 5*d* paragraph 1.
+<sup>1</sup> Training consists of a theoretical part and a traineeship with one or more facilities as described in Article 198*c* AniWO. The traineeship relates to specific animal groups, involving at least four of the animal groups listed in Article 5*d* paragraph 1.[^5b-1]
 
 <sup>2</sup> The theoretical part comprises at least 90 hours, the traineeship at least 40 working days, of which at least ten working days must be devoted to each of four different animal groups listed in Article 5*d*.
+
+[^5b-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 5c
 
@@ -240,10 +270,12 @@ The objective of training in accordance with Article 150 AniWO must be to ensure
 The practical part is provided for specific groups of animals and is learned by accompanying an experienced animal transport operator, comprising:
 
 - a. for poultry transport personnel: at least two working days spent on poultry;
+- a<sup>bis</sup>.[^7-1] for equid transport personnel: at least two working days spent on equids;
 - b. for animal transport personnel who transport pets, laboratory animals or wild animals: at least two working days spent on regularly transported animal species in these animal groups;
-- c. in all other cases at least five working days, of which at least one day must be spent on each of the animal groups listed in Article 9 paragraph 1 letters a–d.[^7-1]
+- c. in all other cases at least five working days, of which at least one day must be spent on each of the animal groups listed in Article 9 paragraph 1 letters a–d.[^7-2]
 
-[^7-1]: Amended by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^7-1]: Inserted by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^7-2]: Amended by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 
 #### Art. 8
 
@@ -282,14 +314,16 @@ The practical part is taught with reference to the following specific animal gro
 - d. small ruminants;
 - e. poultry;
 - f.[^9-1] pets, particularly dogs and cats;
-- g.[^9-2] laboratory animals; and
-- h.[^9-3] wild animals.
+- g.[^9-2] laboratory animals;
+- h.[^9-3] wild animals; and
+- i.[^9-4] equids.
 
 <sup>2</sup> It must contain practical exercises in the handling of animals in situations such as loading and unloading, herding, driving and care of the animals.
 
 [^9-1]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 [^9-2]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
 [^9-3]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
+[^9-4]: Inserted by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 ### Section 3 Personnel in Slaughterhouse Facilities
 
@@ -363,13 +397,14 @@ The practical part comprises:
 
 **Learning objectives**
 
-<sup>1</sup> The objective of training in accordance with Article 203 AniWO must be to give trainers of animal keepers in-depth knowledge of the species-specific needs of animals and their appropriate housing.
+<sup>1</sup> The objective of training in accordance with Article 203*a* AniWO must be to give trainers of animal keepers in-depth knowledge of the species-specific needs of animals and their appropriate housing.[^14-1]
 
-<sup>2</sup> ...[^14-1]
+<sup>2</sup> ...[^14-2]
 
 <sup>3</sup> After completing their training, trainers must be able to pass on their knowledge clearly and comprehensibly.
 
-[^14-1]: Repealed by No I of the FDHA Ordinance of 23 Nov. 2016, with effect from 1 Jan. 2017 ([AS 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
+[^14-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+[^14-2]: Repealed by No I of the FDHA Ordinance of 23 Nov. 2016, with effect from 1 Jan. 2017 ([AS 2016 4873](https://fedlex.data.admin.ch/eli/oc/2016/783)).
 
 #### Art. 15
 
@@ -631,9 +666,11 @@ The objective of training in accordance with Article 103 letter d AniWO must be 
 
 #### Art. 40
 
-**Form and scope**
+**Form and scope**[^40-1]
 
-Training is provided in the form of a course lasting at least three hours or a traineeship during at least three events at a business as described in Article 206 AniWO under the guidance of a person with a corresponding certificate of competence.
+Training is provided in the form of a course lasting at least three hours or a traineeship during at least three events at one or more facilities as described in Article 198*c* AniWO under the guidance of a person with a corresponding certificate of competence.
+
+[^40-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 41
 
@@ -653,7 +690,7 @@ The objective of training in accordance with Article 32 AniWO must be to ensure 
 
 **Form and scope**
 
-Training is provided in the form of a theory course lasting at least three hours, followed by practice under the guidance of a veterinarian on the keeper’s own premises.
+Training is provided in the form of a theory course lasting at least three hours, followed by practice under the guidance of a veterinarian on the keeper’s own facility.
 
 #### Art. 44
 
@@ -661,7 +698,7 @@ Training is provided in the form of a theory course lasting at least three hours
 
 <sup>1</sup> Training provides basic knowledge of the legal foundations and anatomy and in-depth knowledge of the stress and pain caused, anaesthesia and surgery.
 
-<sup>2</sup> Practice on the keeper’s own premises must contain exercises in the appropriate preparation of the animal for the intervention, correct dosage and administration of veterinary drugs and the correct performance of the procedure and monitoring of the animal.
+<sup>2</sup> Practice on the keeper’s own facility must contain exercises in the appropriate preparation of the animal for the intervention, correct dosage and administration of veterinary drugs and the correct performance of the procedure and monitoring of the animal.
 
 ## Chapter 4 Training in the Use of Equipment for Therapeutic Purposes when Handling Dogs
 
@@ -767,6 +804,16 @@ Any person who provides training must issue participants with written documents 
 
 [^51-1]: Amended by No I of the FDHA Ordinance of 10 Jan. 2018, in force since 1 March 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
 
+#### Art. 51a
+
+**Online teaching**[^51a-1]
+
+<sup>1</sup> The theory part of training may be taught in its entirety via an online teaching platform, provided the participants can be clearly identified.
+
+<sup>2</sup> Teaching by other electronic means, in particular by video conference, may account for a maximum of one quarter of the theory part of training.
+
+[^51a-1]: Inserted by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 52
 
 **Training management**
@@ -842,19 +889,13 @@ Confirmation of participation in continuing education must contain at least the 
 
 #### Art. 58
 
-**Conduct of the examination**
+**Conduct of the examinations**[^58-1]
 
-<sup>1</sup> The organisations that offer specialist training independent of vocational training shall conduct the examinations that complete this training.[^58-1]
+<sup>1</sup> The training organisations in accordance with Article 198*a* AniWO shall conduct the examinations that complete the specialist training independent of vocational training.
 
-<sup>2</sup> The training facilities described in Article 205 AniWO shall conduct the examination that completes the training of trainers of animal keepers.
+<sup>2</sup> The cantons or the organisations that they engage shall conduct the examinations in accordance with Article 76 paragraph 3 AniWO to gain approval to use equipment for therapeutic purposes when handling dogs.
 
-<sup>3</sup> The cantons shall conduct the examinations in accordance with Article 76 paragraph 3 AniWO to gain approval to use equipment for therapeutic purposes when handling dogs.[^58-2]
-
-<sup>4</sup> ...[^58-3]
-
-[^58-1]: Amended by No I of the FDHA Ordinance of 10 Jan. 2018, in force since 1 March 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
-[^58-2]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)).
-[^58-3]: Inserted by No I of the FDHA Ordinance of 23 Oct. 2013 ([AS 2013 3781](https://fedlex.data.admin.ch/eli/oc/2013/698)). Repealed by No I of the FDHA Ordinance of 10 Jan. 2018, with effect from 1 March 2018 ([AS 2018 627](https://fedlex.data.admin.ch/eli/oc/2018/79)).
+[^58-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 59
 
@@ -864,15 +905,21 @@ Confirmation of participation in continuing education must contain at least the 
 
 <sup>2</sup> The examination supervisory board shall comprise at least three members who fulfil the requirements on examination experts stipulated in Article 60.
 
+<sup>3</sup> The examination supervisory board is responsible for the proper conduct of the examination in accordance with the examination regulations.[^59-1]
+
+[^59-1]: Inserted by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
+
 #### Art. 60
 
 **Examination experts**
 
 <sup>1</sup> The organisers nominate examination experts who fulfil at least the requirements stipulated in Article 203 AniWO for the subjects to be examined.
 
-<sup>2</sup> In addition to the examination expert, at least one further independent person must be present in an advisory capacity when the examination is held.
+<sup>2</sup> In addition to the examination expert, at least one further independent person must be present when the examination is held. In the case of the oral examination, these persons must meet the requirements of Article 203 AniWO.[^60-1]
 
 <sup>3</sup> The results of and particular observations made during the examination, including objections raised by the candidates, shall be recorded in writing and signed by the inspecting person and the advisor.
+
+[^60-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 61
 
@@ -888,7 +935,9 @@ Confirmation of participation in continuing education must contain at least the 
 
 <sup>1</sup> Candidates register with the organisation conducting the examination, providing evidence that the prescribed training courses have been attended.
 
-<sup>2</sup> The training facility conducting the examination decides whether candidates are allowed to sit the examination.
+<sup>2</sup> The training organisation conducting the examination decides whether candidates are allowed to sit the examination.[^62-1]
+
+[^62-1]: Amended by No I of the FDHA O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 63
 
@@ -975,9 +1024,10 @@ The Ordinance of 22 August 1986[^70-1] on the VET Diploma for Animal Care Worker
 
 <sup>1</sup> Training to obtain a certificate of competency in accordance with Article 13 ACWO[^71-1] that is started before 1 October 2008 shall be provided in accordance with the previous law.
 
-<sup>2</sup> Training for trainers of animal keepers completed before 1 October 2008 and many years of relevant experience will be counted appropriately towards corresponding training in accordance with this Ordinance by the training facility in accordance with Article 205 AniWO.
+<sup>2</sup> …[^71-2]
 
 [^71-1]: [[AS 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511)]
+[^71-2]: Repealed by No I of the FDHA O of 20 Dec. 2024, with effect from 1 Feb. 2025 ([AS 2025 22](https://fedlex.data.admin.ch/eli/oc/2025/22)).
 
 #### Art. 72
 
