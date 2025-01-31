@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 concernant la protection des données pers
 short: OPDC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: fr
-version: 2023-10-01
+version: 2025-02-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20231001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20250201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/fr"
 
 (OPDC)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> octobre 2023)
+du 22 novembre 2017 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -415,11 +415,13 @@ L’IGDP comprend les modules suivants:
 - g. gestion des déplacements, pour la saisie et le décompte des déplacements, y compris les coûts de déplacement et les frais correspondants;
 - h.[^32-1] introduction du personnel, pour la gestion des données personnelles des nouveaux employés;
 - i.[^32-2] données de base servant à l’établissement des certificats de travail;
-- j.[^32-3] gestion des absences consécutives à une maladie ou un accident.
+- j.[^32-3] gestion des absences consécutives à une maladie ou un accident;
+- k.[^32-4] administration des données pour l’engagement de personnel afin de faire face à un surcroît de travail extraordinaire ou particulièrement urgent, notamment en faveur de l’organisation de crise de l’administration fédérale.
 
 [^32-1]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^32-2]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^32-3]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-4]: Introduite par l’annexe ch. 2 de l’O du 20 déc. 2024 sur l’organisation de crise de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 33
 
@@ -427,11 +429,13 @@ L’IGDP comprend les modules suivants:
 
 <sup>1</sup> Les services du personnel, les centres de services spécialisés dans la gestion du personnel, les services financiers, les services d’assistance technique et les domaines spécialisés de l’OFPER traitent les données de l’IGDP pour autant que l’exécution de leurs tâches l’exige.
 
-<sup>2</sup> Les employés peuvent traiter leurs propres données, notamment les données personnelles, les données relatives au temps de travail, les frais, les coordonnées bancaires et les compétences, pour autant qu’ils disposent d’un droit d’accès.
+<sup>2</sup> Les employés peuvent traiter leurs propres données, notamment les données personnelles, les données relatives au temps de travail, les frais, les coordonnées bancaires, les compétences et les données relatives aux engagements de personnel auxiliaire, pour autant qu’ils disposent d’un droit d’accès.[^33-1]
 
 <sup>3</sup> Les supérieurs hiérarchiques peuvent consulter et approuver les données de leurs collaborateurs, notamment les données relatives au temps de travail, les frais et les compétences, pour autant qu’ils disposent d’un droit d’accès.
 
 <sup>4</sup> L’étendue des droits de traitement est réglée à l’annexe 3.
+
+[^33-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 20 déc. 2024 sur l’organisation de crise de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 34
 
@@ -908,8 +912,9 @@ Annexe 3[^t-3]
 
 ### 1.2.1 Dénomination
 
-- CCRH Centre de compétences Ressources humaines
-- OFIT Office fédéral de l’informatique et de la télécommunication
+CCRH Centre de compétences Ressources humaines
+
+OFIT Office fédéral de l’informatique et de la télécommunication
 
 ### 1.2.2 Mutation
 
@@ -1143,8 +1148,9 @@ Annexe 4[^t-4]
 
 ### 1.2.1 Dénomination
 
-- CCRH Centre de compétences Ressources humaines
-- OFIT Office fédéral de l’informatique et de la télécommunication
+CCRH Centre de compétences Ressources humaines
+
+OFIT Office fédéral de l’informatique et de la télécommunication
 
 ### 1.2.2 Téléchargement / lecture des données
 

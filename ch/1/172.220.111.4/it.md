@@ -4,11 +4,11 @@ title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del pe
 short: OPDPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: it
-version: 2023-10-01
+version: 2025-02-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20231001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20250201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/it"
 
 (OPDPers)
 
-del 22 novembre 2017 (Stato 1° ottobre 2023)
+del 22 novembre 2017 (Stato 1° febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -54,7 +54,7 @@ La presente ordinanza disciplina il trattamento dei dati personali dei candidati
 [^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^1-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^1-4]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
-[^1-5]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^1-6]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^1-7]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 [^1-8]: Nuovo testo giusta l’all. n. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
@@ -65,7 +65,7 @@ La presente ordinanza disciplina il trattamento dei dati personali dei candidati
 
 Gli impiegati sono informati prima dell’introduzione o della modifica di un sistema d’informazione o di una banca dati.
 
-[^2-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -93,7 +93,7 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 <sup>2</sup> I dati inesatti sono rettificati d’ufficio.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### Sezione 3: Comunicazione di dati
 
@@ -119,7 +119,7 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 <sup>4</sup> Le disposizioni del presente articolo si applicano anche all’impiegato che cambia unità all’interno dell’Amministrazione federale. Sono fatti salvi gli articoli 7*a*, 7*b*, 22 e 35.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 7a
 
@@ -127,7 +127,7 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 Per la preparazione e l’attuazione di riorganizzazioni e di rilevamenti dell’esercizio a fini organizzativi, possono essere comunicati alla nuova unità amministrativa i dati necessari alla verifica del carattere ragionevolmente esigibile di un lavoro o al rilevamento di rapporti di lavoro. L’impiegato interessato dev’essere informato circa la comunicazione dei dati.
 
-[^7a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 7b
 
@@ -135,7 +135,7 @@ Per la preparazione e l’attuazione di riorganizzazioni e di rilevamenti dell�
 
 La comunicazione di dati tra unità amministrative è possibile se è stata appurata una prestazione finanziaria indebita a favore di un impiegato o se ne sussiste il fondato sospetto. L’impiegato interessato dev’essere informato circa la comunicazione dei dati.
 
-[^7b-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## Capitolo 2: Dossier di candidatura
 
@@ -151,8 +151,8 @@ La comunicazione di dati tra unità amministrative è possibile se è stata appu
 
 <sup>3</sup> Invece di un colloquio in sede, le unità amministrative possono svolgere una conferenza audio o video oppure utilizzare registrazioni effettuate dal candidato. Le registrazioni sono parte integrante del dossier di candidatura.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^8-2]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^8-2]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 9
 
@@ -162,7 +162,7 @@ La comunicazione di dati tra unità amministrative è possibile se è stata appu
 
 <sup>2</sup> Esso può contenere, in particolare, i dati elencati nell’allegato 1.
 
-[^9-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -174,7 +174,7 @@ La comunicazione di dati tra unità amministrative è possibile se è stata appu
 
 <sup>3</sup> I dossier di candidatura cartacei sono restituiti ai candidati non assunti. Eccezion fatta per la lettera di candidatura, gli altri dati sono distrutti entro tre mesi. Sono fatti salvi accordi particolari con i candidati. La durata di conservazione di un dossier può essere prorogata se ciò è necessario per il trattamento di un ricorso secondo l’articolo 13 capoverso 2 della legge federale del 24 marzo 1995[^10-2] sulla parità dei sessi.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^10-2]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 
 #### Art. 11
@@ -239,7 +239,7 @@ In caso di candidatura elettronica il candidato stesso può esercitare nel siste
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
 
-[^16-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^16-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 17
 
@@ -278,7 +278,7 @@ Il dossier personale può contenere le seguenti categorie di dati personali degn
 
 <sup>2</sup> I dati contenuti nel dossier personale sono elencati nell’allegato 2.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 20
 
@@ -292,7 +292,7 @@ I servizi e le persone seguenti trattano i dati del dossier personale, per quant
 - d. i settori specializzati dell’UFPER;
 - e. i servizi giuridici.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 21
 
@@ -310,7 +310,7 @@ Le unità amministrative sono responsabili della protezione dei dati; è fatta s
 
 <sup>3</sup> Previo consenso dell’impiegato, la nuova unità amministrativa può chiedere che la vecchia unità amministrativa le trasmetta i documenti che l’impiegato ha già presentato a quest’ultima.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 23
 
@@ -344,7 +344,7 @@ I dati non degni di particolare protezione possono essere ripresi dal sistema d�
 
 <sup>2</sup> I servizi del personale e i centri di prestazione di servizi in materia di personale, se necessario, possono assegnare un diritto d’accesso ai superiori, al pertinente servizio giuridico e ai settori specializzati dell’UFPER.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 27
 
@@ -362,7 +362,7 @@ I servizi del personale consentono agli impiegati che ne fanno richiesta di acce
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
 
-[^28-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^28-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29
 
@@ -415,11 +415,13 @@ Il SIGDP è costituito dai seguenti elementi:
 - g. gestione dei viaggi per la rilevazione e il conteggio dei viaggi, compresi i relativi costi e spese;
 - h.[^32-1] inserimento del personale per la gestione dei dati personali di nuovi impiegati;
 - i.[^32-2] dati di base per la redazione di attestati di lavoro;
-- j.[^32-3] gestione delle assenze in caso di malattia e infortunio.
+- j.[^32-3] gestione delle assenze in caso di malattia e infortunio;
+- k.[^32-4] amministrazione dei dati relativi a impieghi di personale per la gestione di oneri straordinari o particolarmente urgenti, in particolare a favore dell’organizzazione di crisi dell’Amministrazione federale.
 
-[^32-1]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^32-2]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^32-3]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-1]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-2]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-3]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-4]: Introdotta dall’all. n. 2 dell’O del 20 dic. 2024 sull’organizzazione di crisi dell’Amministrazione federale, in vigore dal 1° feb. 2024 ([RU 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 33
 
@@ -427,11 +429,13 @@ Il SIGDP è costituito dai seguenti elementi:
 
 <sup>1</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale, i servizi finanziari, i servizi responsabili del supporto tecnico e i settori specializzati dell’UFPER elaborano i dati del SIGDP, per quanto sia necessario all’adempimento dei loro compiti.
 
-<sup>2</sup> Gli impiegati possono elaborare i loro dati, più precisamente i dati personali, i dati riferiti agli orari di presenza, le spese, le coordinate bancarie e le competenze, purché abbiano il diritto di accedervi.
+<sup>2</sup> Gli impiegati possono elaborare i loro dati, più precisamente i dati personali, i dati riferiti agli orari di presenza, le spese, le coordinate bancarie, le competenze e le informazioni relative a impieghi di supporto, purché abbiano il diritto di accedervi.[^33-1]
 
 <sup>3</sup> I superiori possono accedere ai dati dei loro collaboratori e autorizzarli, purché abbiano diritto di accedervi; si tratta in particolare dei dati riferiti agli orari di presenza, alle spese e alle competenze.
 
 <sup>4</sup> La portata delle autorizzazioni al trattamento dei dati è disciplinata nell’allegato 3.
+
+[^33-1]: Nuovo testo giusta l’all. n. 2 dell’O del 20 dic. 2025 sull’organizzazione di crisi dell’Amministrazione federale, in vigore dal 1° feb. 2025 ([RU 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 34
 
@@ -452,7 +456,7 @@ I dati contenuti nel SIGDP, compresi i dati personali degni di particolare prote
 
 <sup>4</sup> Le unità amministrative possono riprendere dal SIGDP i dati non degni di particolare protezione dei loro impiegati ai fini dell’amministrazione del personale nel loro ambito.
 
-[^34-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^34-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^34-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 
@@ -480,7 +484,7 @@ Quando un impiegato cambia unità all’interno dell’Amministrazione federale,
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
 
-[^37-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^37-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 
@@ -517,13 +521,13 @@ I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
 
 - a. dai sistemi d’informazione per l’esecuzione dei processi di supporto alle finanze e alla logistica conformemente agli articoli 42–47 dell’ordinanza del 5 aprile 2006[^40-2] sulle finanze della Confederazione;
 - b.[^40-3] dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* LSIM
-- c.[^40-4] ...
+- c.[^40-4] …
 - d. dal sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa conformemente agli articoli 72*j*–72*j*<sup>sexies</sup> OSIM;
 - e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-5] sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini[^40-6].
 
 <sup>4</sup> I dati contenuti nel sistema d’informazione per il controllo della gestione del personale sono elencati nell’allegato 4.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^40-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
 [^40-3]: Nuovo testo giusta l’all. n. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^40-4]: Abrogata dall’all. n. 3 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
@@ -556,8 +560,8 @@ Il sistema d’informazione per il controllo della gestione del personale è cos
 
 <sup>2</sup> La portata delle autorizzazioni al trattamento dei dati è disciplinata nell’allegato 4.
 
-[^42-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^42-2]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42-1]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42-2]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 42a
 
@@ -570,8 +574,8 @@ I dati contenuti nel sistema d’informazione per il controllo della gestione de
 - c. l’altro il sistema d’informazione sia dotato di un regolamento per il trattamento dei dati; e
 - d. non sussistano elevati requisiti di sicurezza per i dati degli impiegati.
 
-[^42a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
-[^42a-2]: Nuovo testo giusta il n. II dell’O del 19 ott. 2022, in vigore dal 1° set. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-1]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-2]: Nuovo testo giusta la cifra II dell’O del 19 ott. 2022, in vigore dal 1° set. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^42a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 43
@@ -592,7 +596,7 @@ I dati contenuti nel sistema d’informazione per il controllo della gestione de
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
 
-[^44-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^44-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 45
 
@@ -640,7 +644,7 @@ Gli organi competenti raccolgono i dati per la piattaforma LMS Confederazione pr
 - a. i partecipanti ai corsi;
 - b.[^49-1] il SIGDP.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 50
 
@@ -660,7 +664,7 @@ Gli organi competenti raccolgono i dati per la piattaforma LMS Confederazione pr
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
 
-[^51-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^51-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 52
 
@@ -729,7 +733,7 @@ La CSPers assegna nel singolo caso alle persone e ai servizi di cui all’artico
 
 <sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
 
-[^57-1]: Nuovo testo giusta l’all. 2 n. II 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^57-1]: Nuovo testo giusta l’all. 2 cifra II n. 25 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58
 
@@ -741,7 +745,7 @@ La CSPers è responsabile del sistema d’informazione della CSPers.
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 59
 
@@ -765,7 +769,7 @@ L’abrogazione e la modifica di altri atti normativi è disciplinata nell’all
 
 Dall’entrata in vigore della modifica del 19 ottobre 2022, l’UFPER conserva i documenti medici dei candidati e degli impiegati redatti prima del 1° gennaio 2021 per 10 anni.
 
-[^67a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^67a-1]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 68
 
@@ -779,7 +783,7 @@ Allegato 1[^t-1]
 
 ## Dati del dossier di candidatura e del sistema di reclutamento elettronico
 
-[^t-1]: Nuovo testo giusta l’all. 4 n. II dell’O del 23 ago. 2023 sui sistemi d’informazione sul personale del DFAE, in vigore dal 1° ott. 2023 ([RU 2023 485](https://fedlex.data.admin.ch/eli/oc/2023/485)).
+[^t-1]: Nuovo testo giusta l’all. 4 cifra II dell’O del 23 ago. 2023 sui sistemi d’informazione sul personale del DFAE, in vigore dal 1° ott. 2023 ([RU 2023 485](https://fedlex.data.admin.ch/eli/oc/2023/485)).
 
 - 1\. Fotografia
 - 2\. Appellativo
@@ -813,7 +817,7 @@ Allegato 2[^t-2]
 
 ## Dati del dossier personale
 
-[^t-2]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-2]: Aggiornato dalla cifra III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Reclutamento del personale
 
@@ -890,7 +894,7 @@ Allegato 3[^t-3]
 
 ## Sistema d’informazione per la gestione dei dati del personale (SIGDP)
 
-[^t-3]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-3]: Aggiornato dalla cifra III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Portata dell’autorizzazione al trattamento dei dati
 
@@ -907,8 +911,9 @@ Allegato 3[^t-3]
 
 ### 1.2.1 Descrizione
 
-- CCRU Centro di competenza delle risorse umane
-- UFIT Ufficio federale dell’informatica e della telecomunicazione
+CCRU Centro di competenza delle risorse umane
+
+UFIT Ufficio federale dell’informatica e della telecomunicazione
 
 ### 1.2.2 Mutazione
 
@@ -924,7 +929,6 @@ Allegato 3[^t-3]
 - 1 Gestione del personale
 - 2 Controllo della gestione
 - 3 Approvazione
-
 - 4 Supporto della gestione
 - 5 Gestione tecnica
 
@@ -1126,7 +1130,7 @@ Allegato 4[^t-4]
 
 ## Sistema d’informazione per il controllo della gestione del personale
 
-[^t-4]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-4]: Aggiornato dalla cifra III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Portata dell’autorizzazione al trattamento dei dati
 
@@ -1143,8 +1147,9 @@ Allegato 4[^t-4]
 
 ### 1.2.1 Descrizione
 
-- CCRU Centro di competenza delle risorse umane
-- UFIT Ufficio federale dell’informatica e della telecomunicazione
+CCRU Centro di competenza delle risorse umane
+
+UFIT Ufficio federale dell’informatica e della telecomunicazione
 
 ### 1.2.2 Caricamento, visualizzazione e simulazione dei dati
 
@@ -1310,7 +1315,7 @@ Allegato 5[^t-5]
 
 ## Sistema d’informazione per la piattaforma didattica della Confederazione (LMS Confederazione)
 
-[^t-5]: Nuovo testo giusta il n. III cpv. 2 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-5]: Nuovo testo giusta la cifra III cpv. 2 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### Dati personali
 
@@ -1352,14 +1357,14 @@ Allegato 6
 - 2\.1 Registro
 - 2\.2 Analisi della situazione
 - 2\.3 Dati di base del *case management*
-- 2\.4 Piano d’integrazione (compresa la valutazione nell’ambito del *case manag**e**ment* della CSPers)
+- 2\.4 Piano d’integrazione (compresa la valutazione nell’ambito del *case management* della CSPers)
 - 2\.5 Continuazione del pagamento dello stipendio / incapacità lavorativa
 - 2\.6 Attribuzione di fondi per l’integrazione professionale
 - 2\.7 Domanda al fondo di soccorso del personale federale
 
 Allegato 7[^t-6]
 
-[^t-6]: Abrogato dal n. III cpv. 3 dell’O del 19 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-6]: Abrogato dalla cifra III cpv. 3 dell’O del 19 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Allegato 8
 
@@ -1375,7 +1380,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annex8-lvlu1-2]
+…[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786); [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378), [2209](https://fedlex.data.admin.ch/eli/oc/2013/467)n. III; [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
+[^annex8-lvlu1-1]: [[RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786); [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378), [2209](https://fedlex.data.admin.ch/eli/oc/2013/467)cifra III; [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
 [^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793).

@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über den Schutz von Personendaten des B
 short: BPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: de
-version: 2023-10-01
+version: 2025-02-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20231001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20250201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/de"
 
 (BPDV)
 
-vom 22. November 2017 (Stand am 1. Oktober 2023)
+vom 22. November 2017 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -415,11 +415,13 @@ Das IPDM besteht aus folgenden Komponenten:
 - g. Reisemanagement für die Erfassung und die Abrechnung von Reisen, einschliesslich Reisekosten und Spesen;
 - h.[^32-1] Personaleinarbeitung für die Verwaltung der Personendaten von neuen Angestellten;
 - i.[^32-2] Grunddaten für die Erstellung von Arbeitszeugnissen;
-- j.[^32-3] Management der Absenzen infolge von Krankheit und Unfall.
+- j.[^32-3] Management der Absenzen infolge von Krankheit und Unfall;
+- k.[^32-4] Administration der Daten für Personaleinsätze zur Bewältigung von ausserordentlichem oder besonders dringlichem Mehraufwand, insbesondere zugunsten der Krisenorganisation der Bundesverwaltung.
 
 [^32-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^32-2]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^32-3]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-4]: Eingefügt durch Anhang Ziff. 2 der V vom 20. Dez. 2024 über die Krisenorganisation der Bundesverwaltung, in Kraft seit 1. Febr. 2025 ([AS 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 33
 
@@ -427,11 +429,13 @@ Das IPDM besteht aus folgenden Komponenten:
 
 <sup>1</sup> Die Personaldienste, die Fachdienstleistungszentren Personal, die Finanzdienste, die für den Support verantwortlichen Dienststellen und die Fachbereiche des EPA bearbeiten die Daten des IPDM, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist.
 
-<sup>2</sup> Die Angestellten können ihre eigenen Daten, namentlich Personalien, Zeitdaten, Spesen, Bankverbindungen und Kompetenzen, bearbeiten, soweit ihnen ein Zugriffsrecht zusteht.
+<sup>2</sup> Die Angestellten können ihre eigenen Daten, namentlich Personalien, Zeitdaten, Spesen, Bankverbindungen, Kompetenzen und Angaben zu unterstützenden Personaleinsätzen, bearbeiten, soweit ihnen ein Zugriffsrecht zusteht.[^33-1]
 
 <sup>3</sup> Die Vorgesetzten können die Daten ihrer Mitarbeiterinnen und Mitarbeiter, namentlich Zeitdaten, Spesen und Kompetenzen, einsehen und genehmigen, soweit ihnen ein Zugriffsrecht zusteht.
 
 <sup>4</sup> Der Umfang der Bearbeitungsrechte ist in Anhang 3 geregelt.
+
+[^33-1]: Fassung gemäss Anhang Ziff. 2 der V vom 20. Dez. 2024 über die Krisenorganisation der Bundesverwaltung, in Kraft seit 1. Febr. 2025 ([AS 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 34
 
@@ -850,15 +854,11 @@ Anhang 2[^t-2]
 
 ### 5 Gesundheit
 
-5.1 Eignungsbeurteilung für sicherheitsrelevante Funktionen bei Eintritt
-
-5.2 Eignungsbeurteilung für sicherheitsrelevante Funktionen während des Arbeitsverhältnisses
-
+- 5\.1 Eignungsbeurteilung für sicherheitsrelevante Funktionen bei Eintritt
+- 5\.2 Eignungsbeurteilung für sicherheitsrelevante Funktionen während des Arbeitsverhältnisses
 - 5\.3 Arztzeugnisse
 - 5\.4 Ermächtigungen für Ärztinnen und Ärzte sowie Versicherungen
-
-5.5 Aufträge an Ärztinnen und Ärzte sowie medizinische Expertisen von Ärztinnen und Ärzten
-
+- 5\.5 Aufträge an Ärztinnen und Ärzte sowie medizinische Expertisen von Ärztinnen und Ärzten
 - 5\.6 Dauer der Absenzen infolge Krankheit und Unfall
 
 ### 6 Versicherungen Allgemein
@@ -910,8 +910,9 @@ Anhang 3[^t-3]
 
 ### 1.2.1 Bezeichnung
 
-- CCHR Competence Center Human Resources
-- BIT Bundesamt für Informatik und Telekommunikation
+CCHR Competence Center Human Resources
+
+BIT Bundesamt für Informatik und Telekommunikation
 
 ### 1.2.2 Mutieren
 
@@ -1145,8 +1146,9 @@ Anhang 4[^t-4]
 
 ### 1.2.1 Bezeichnung
 
-- CCHR Competence Center Human Resources
-- BIT Bundesamt für Informatik und Telekommunikation
+CCHR Competence Center Human Resources
+
+BIT Bundesamt für Informatik und Telekommunikation
 
 ### 1.2.2 Laden, Sichten und Simulation von Daten
 
