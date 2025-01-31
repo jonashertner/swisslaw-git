@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollpl
 short: MNKPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: de
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/de"
 
 (MNKPV)
 
-vom 27. Mai 2020 (Stand am 1. Februar 2024)
+vom 27. Mai 2020 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -218,7 +218,7 @@ Nebst den Grundkontrollen können zusätzliche Kontrollen vorgenommen werden, in
 <sup>2</sup> Privatrechtliche Stellen müssen gestützt auf die Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^9-1] nach der Norm «SN EN ISO/IEC 17020, 2012, Konformitätsbewertung − Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen»[^9-2] akkreditiert sein.
 
 [^9-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^9-2]: Die genannten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^9-2]: Die genannten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ## 4. Abschnitt: Spezifische Bestimmungen für die Primärproduktion
 
@@ -398,7 +398,7 @@ Anhang 1[^t-1]
 
 ## Maximale Zeitspannen zwischen den Grundkontrollen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 8. Dez. 2023 ([AS 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)) und Ziff. II der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### Liste 1Betriebe der Primärproduktion
 
@@ -433,6 +433,7 @@ Anhang 1[^t-1]
 <tr><td>2.14</td><td>Sammelstelle von tierischen Nebenprodukten; Zwischenlagerung</td><td>2</td></tr>
 <tr><td>2.15</td><td>Detailhandelsbetrieb oder tierärztliche Privatapotheke, der oder die Arzneimittel für Nutztiere führt</td><td>5</td></tr>
 <tr><td>2.16</td><td>Detailhandelsbetrieb oder tierärztliche Privatapotheke von Heimtierarztpraxen, der oder die keine Arzneimittel für Nutztiere führt</td><td>10</td></tr>
+<tr><td>2.17</td><td>Viehhandelsunternehmen</td><td>2</td></tr>
 </table>
 
 [^annex1-lvlu1-lvlu2-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)

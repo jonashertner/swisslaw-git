@@ -4,11 +4,11 @@ title: Ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel d
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: fr
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/fr"
 
 (OPCNP)
 
-du 27 mai 2020 (État le 1<sup>er</sup> février 2024)
+du 27 mai 2020 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -218,7 +218,7 @@ En plus des contrôles de base, des contrôles supplémentaires peuvent être ef
 <sup>2</sup> Conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^9-1], les organes de droit privé doivent être accrédités selon la norme SN EN ISO/IEC 17020:2012 «Évaluation de la conformité – Exigences pour le fonctionnement de différents types d’organismes procédant à l´inspection»[^9-2].
 
 [^9-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^9-2]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^9-2]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 ## Section 4 Dispositions spécifiques à la production primaire
 
@@ -398,7 +398,7 @@ Annexe 1[^t-1]
 
 ## Intervalles maximaux entre les contrôles de base
 
-[^t-1]: Mise à jour par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)).
+[^t-1]: Mise à jour par le ch. I de l’O du 8 déc. 2023 ([RO 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)) et le ch. II de l’O du 6 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### Liste 1Exploitations pratiquant la production primaire
 
@@ -433,6 +433,7 @@ Annexe 1[^t-1]
 <tr><td>2.14</td><td>Centre de collecte de sous-produits animaux; stockage intermédiaire</td><td>2</td></tr>
 <tr><td>2.15</td><td>Commerce de détail ou pharmacie vétérinaire privée qui remet des médicaments pour animaux de rente</td><td>5</td></tr>
 <tr><td>2.16</td><td>Commerce de détail ou pharmacie vétérinaire privée d’un cabinet vétérinaire pour animaux de compagnie qui ne remet pas des médicaments pour animaux de rente</td><td>10</td></tr>
+<tr><td>2.17</td><td>Entreprise de marchand de bétail</td><td>2</td></tr>
 </table>
 
 [^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)

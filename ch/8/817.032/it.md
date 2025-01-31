@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sul piano di controllo nazionale pluriennal
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: it
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20240201/it"
 
 (OPCNP)
 
-del 27 maggio 202 (Stato 1° febbraio 2024)
+del 27 maggio 202 (Stato 1° febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -244,7 +244,7 @@ Le disposizioni delle sezioni 3 e 4 si applicano ai controlli nella produzione p
 [^10-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^10-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
 [^10-5]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^10-6]: Nuovo testo giusta l’all. 3 n. II 5 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^10-6]: Nuovo testo giusta l’all. 3 cifra II n. 5 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^10-7]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 11
@@ -294,7 +294,7 @@ Nellʼambito della protezione degli animali, almeno la seguente percentuale dei 
 
 [^14-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^14-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^14-3]: Nuovo testo giusta l’all. 4 n. II 4 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^14-3]: Nuovo testo giusta l’all. 4 cifra II n. 4 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 15
 
@@ -376,7 +376,7 @@ L’UFAG e l’USAV, nei propri ambiti di competenza, pubblicano in base ai cont
 
 È abrogata l’ordinanza del 16 dicembre 2016[^22-1] sul piano di controllo nazionale della catena alimentare e degli oggetti d’uso.
 
-[^22-1]: [[RU 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64); [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)all. 2 n. 2; [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)all. 8 n. 5]
+[^22-1]: [[RU 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64); [2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)all. 2 n. 2, [4209](https://fedlex.data.admin.ch/eli/oc/2018/682)all. 8 n. 5]
 
 #### Art. 23
 
@@ -398,7 +398,7 @@ Allegato 1[^t-1]
 
 ## Intervalli massimi tra i controlli di base
 
-[^t-1]: Aggiornato dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)).
+[^t-1]: Aggiornato dalla cifra I dell’O dell’8 dic. 2023 ([RU 2024 10](https://fedlex.data.admin.ch/eli/oc/2024/10)) e cifra II dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### Elenco 1Aziende che effettuano produzione primaria
 
@@ -433,6 +433,10 @@ Allegato 1[^t-1]
 <tr><td>2.14</td><td>Centro di raccolta di sottoprodotti di origine animale; stoccaggio intermedio</td><td>2</td></tr>
 <tr><td>2.15</td><td>Commercio al dettaglio e farmacia veterinaria privata che dispensano medicamenti per animali da reddito</td><td>5</td></tr>
 <tr><td>2.16</td><td>Commercio al dettaglio e farmacia veterinaria privata di ambulatori veterinari per animali da compagnia che non dispensano medicamenti per animali da reddito</td><td>10</td></tr>
+</table>
+
+<table>
+<tr><td>2.17</td><td>Azienda che commercia bestiame</td><td>2</td></tr>
 </table>
 
 [^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
