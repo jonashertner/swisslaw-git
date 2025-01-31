@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2024-12-06
+version: 2025-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20241206/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20241206-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20250201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 6. Dezember 2024)
+vom 23. April 2008 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -73,6 +73,14 @@ Im Sinne dieser Verordnung gelten als:
 - k. *belastete Mutante:* Tier, das genetisch bedingt Schmerzen oder Leiden erfährt, Schäden aufweist, in Angst lebt oder anderweitig einen tiefgreifenden Eingriff in seine Erscheinung oder seine Fähigkeiten erleidet; die belastende Mutation kann spontan entstanden, physikalisch oder chemisch induziert sowie gentechnisch verursacht sein;
 - l. *belastete Linie oder belasteter Stamm:* Zuchtlinien oder Stämme, die belastete Mutanten umfassen oder bei deren Zucht Tiere übermässig instrumentalisiert werden;
 - m. *Versuchstierhaltung:* Tierhaltung, die Versuchstiere hält, züchtet oder mit ihnen handelt;
+- m<sup>bis</sup>.[^2-2] *belastungsmindernde Massnahmen*: Massnahmen, durch die die Belastung eines Tieres in einer Versuchstierhaltung oder in einem Tierversuch reduziert oder vermieden wird, wie Anpassung der Haltungsbedingungen oder Pflegemassnahmen;
+- m<sup>ter</sup>.[^2-3]
+
+  *Abbruchkriterien:* im Voraus bestimmte Ereignisse oder Symptome, bei deren Auftreten:
+
+  - 1\. ein Tier in einer Versuchstierhaltung getötet werden muss,
+  - 2\. ein Tier aus einem Tierversuch genommen und allenfalls getötet werden muss;
+
 - n. *Schlachten:* Töten von Tieren zum Zwecke der Lebensmittelgewinnung;
 - o.
 
@@ -82,28 +90,30 @@ Im Sinne dieser Verordnung gelten als:
   - 2\. *von Hunden:* der Einsatz zu einem anderen Zweck als die Begleitung von Personen,
   - 3\. *von anderen Tieren:* der gewerbsmässige Einsatz eines Produkts oder einer Verhaltenseigenschaft des Tieres;
 
-- p.[^2-2] *Equiden:* die domestizierten Tiere der Pferdegattung, das heisst Pferde, Ponys, Esel, Maultiere und Maulesel;
-- q.[^2-3] …
+- p.[^2-4] *Equiden:* die domestizierten Tiere der Pferdegattung, das heisst Pferde, Esel, Maultiere und Maulesel;
+- q.[^2-5] …
 - r. *Rinder:* domestizierte Tiere der Rindergattung einschliesslich Yaks und Wasserbüffel;
 - s. *Tierheim:* Tierhaltung, in der Tiere in Pension genommen werden oder Verzichttiere und herrenlose Tiere betreut werden;
-- t.[^2-4] *Informationssystem Animex-ch*: Informationssystem nach der Animex-ch-Verordnung vom 1. September 2010[^2-5];
-- u.[^2-6] *BLV:* Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
-- v.[^2-7] *gentechnisch veränderte Tiere:* Tiere, deren genetisches Material in den Keimzellen durch gentechnische Verfahren nach Anhang 1 der Einschliessungsverordnung vom 9. Mai 2012[^2-8] so verändert worden ist, wie dies unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt;
-- w.[^2-9] *Panzerkrebse:* Krebstiere der Unterordnung *Pleocyemata*, ausgenommen der Teilordnungen *Stenopodidea* und *Caridea*.
+- t.[^2-6] *Informationssystem Animex-ch*: Informationssystem nach der Animex-ch-Verordnung vom 1. September 2010[^2-7];
+- u.[^2-8] *BLV:* Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
+- v.[^2-9] *gentechnisch veränderte Tiere:* Tiere, deren genetisches Material in den Keimzellen durch gentechnische Verfahren nach Anhang 1 der Einschliessungsverordnung vom 9. Mai 2012[^2-10] so verändert worden ist, wie dies unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt;
+- w.[^2-11] *Panzerkrebse:* Krebstiere der Unterordnung *Pleocyemata*, ausgenommen der Teilordnungen *Stenopodidea* und *Caridea*.
 
 <sup>4</sup> Die Begriffe *Sömmerungsgebiet, Berggebiet* und *Standardarbeitskraft* sind im Sinne der Landwirtschaftsgesetzgebung zu verstehen.
 
 <sup>5</sup> Neubauten oder Gebäude, die eine Nutzungsänderung erfahren haben, sowie Anbauten, die neu gebaut oder erweitert werden, gelten in dieser Verordnung als *neu eingerichtet*.
 
 [^2-1]: Ausdruck gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^2-2]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-3]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-4]: Fassung gemäss Ziff. III 1 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
-[^2-5]: [SR 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
-[^2-6]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^2-7]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-8]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^2-5]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-6]: Fassung gemäss Ziff. III 1 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
+[^2-7]: [SR 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^2-8]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-9]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-10]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-11]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## 2. Kapitel: Tierhaltung und Umgang mit Tieren
 
@@ -252,14 +262,14 @@ Abweichungen von Vorschriften zur Tierhaltung und zum Umgang mit Tieren sind zul
 
 Fachkundige Personen dürfen folgende Eingriffe ohne Schmerzausschaltung vornehmen:
 
-- a. das Kürzen des Schwanzes bei Lämmern bis zum Alter von sieben Tagen; der Schwanzstummel muss After und Zucht bedecken;
-- b. das Absetzen der Afterkrallen an den Hinterläufen bei Welpen bis zum Alter von vier Tagen;
-- c. das Touchieren der Schnäbel beim Hausgeflügel;
-- d. das Kürzen der Zehen und Sporen bei männlichen Küken, die für die Zucht von Mastpoulets und Legehennen vorgesehen sind;
-- e. das Markieren von Tieren, ausgenommen das Tätowieren von Hunden und Katzen und das Markieren von Fischen;
-- f. das Abschleifen der Zahnspitzen bei Ferkeln.
+- a. das Markieren von Tieren mit Ausnahme der Fische, wobei die Markierungsmethode das Tier möglichst wenig belasten darf;
+- b. das Abschleifen der Zahnspitzen bei Ferkeln;
+- c. das Touchieren der Schnäbel beim Hausgeflügel am ersten und zweiten Lebenstag in Brütereien;
+- d. das Kürzen der Zehen und der Sporen bei männlichen Küken, die für die Zucht von Mastpoulets und Legehennen vorgesehen sind, am ersten und zweiten Lebenstag in Brütereien.[^15-1]
 
 <sup>3</sup> Als fachkundig gelten Personen, die sich unter kundiger Anleitung und Aufsicht die notwendigen Kenntnisse und die praktische Erfahrung mit einem Eingriff aneignen konnten und diesen regelmässig vornehmen.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### 3. Abschnitt: Verbotene Handlungen
 
@@ -340,10 +350,16 @@ Bei Schweinen sind zudem verboten:
 
 **Verbotene Handlungen bei Schafen und Ziegen**
 
+<sup>1</sup>
+
 Bei Schafen und Ziegen sind zudem verboten:
 
 - a. das Verwenden von elastischen Ringen und ätzenden Substanzen zum Entfernen der Hörner oder des Hornansatzes;
 - b. Eingriffe am Penis von Such-Böcken.
+
+<sup>2</sup> Bei Schafen ist zusätzlich das Kürzen des Schwanzes verboten.[^19-1]
+
+[^19-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 20
 
@@ -352,14 +368,18 @@ Bei Schafen und Ziegen sind zudem verboten:
 Beim Hausgeflügel sind zudem verboten:
 
 - a. das Coupieren der Schnäbel;
+- a<sup>bis</sup>.[^20-1] das Touchieren der Schnäbel; zulässig ist das Touchieren am ersten und zweiten Lebenstag in Brütereien;
 - b. das Coupieren der Kopfanhänge und der Flügel;
 - c. das Verwenden von Brillen und Kontaktlinsen sowie das Anbringen von Hilfsmitteln, die das Schliessen des Schnabels verhindern;
 - d. das Entziehen von Wasser zum Herbeiführen der Mauser;
 - e. das Stopfen;
 - f. das Rupfen am lebenden Tier;
-- g.[^20-1] das Homogenisieren von lebenden Föten in Brutrückständen und von lebenden Küken.
+- g.[^20-2] das Homogenisieren von Embryonen ab dem Zeitpunkt, ab dem eine Schmerzempfindung nicht ausgeschlossen werden kann, und von lebenden Küken;
+- h.[^20-3] das Kürzen der Zehen und der Sporen im Bereich des durchbluteten Gewebes; zulässig ist das Kürzen bei männlichen Küken, die für die Zucht von Mastpoulets und Legehennen vorgesehen sind, am ersten und zweiten Lebenstag in Brütereien.
 
-[^20-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^20-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^20-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2019 ([AS 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^20-3]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 21
 
@@ -374,45 +394,43 @@ Bei Equiden sind zudem verboten:
 - e. das Entfernen der Tasthaare;
 - f. das Anbinden der Zunge;
 - g.[^21-1] das Barren;
-- h.[^21-2] Methoden, mit denen eine Überdehnung des Equidenhalses oder ‑rückens bewirkt wird (Rollkur).
+- h.[^21-2] Methoden, mit denen eine Überdehnung des Equidenhalses oder ‑rückens bewirkt wird (Rollkur);
+- i.[^21-3]
+
+  der Einsatz folgender Ausrüstungsgegenstände:
+
+  - 1\. Zäumungen mit gezähnten, einschneidenden, quetschenden oder harten Bestandteilen, wie Nasenbügel und Kappzäume mit Metallbestandteilen, die ungepolstert auf dem Nasenbein aufliegen,
+  - 2\. gedrehte oder scharfkantige Gebisse, wie Draht- oder Kettentrensen.
 
 [^21-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^21-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^21-3]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 22
 
-**Verbotene Handlungen bei Hunden und Meldepflicht bei Ausnahmen vom Verbot des Coupierens[^22-1]**
+**Verbotene Handlungen bei Hunden und Meldepflicht bei Ausnahmen vom Verbot des Coupierens**[^22-1]
 
 <sup>1</sup>
 
 Bei Hunden sind zudem verboten:
 
 - a. das Coupieren der Rute und der Ohren sowie operative Eingriffe zur Erzeugung von Kippohren;
-- b. die Einfuhr von Hunden mit coupierten Ohren oder Ruten;
-- b<sup>bis</sup>.[^22-2] die Ein- und Durchfuhr von Welpen, die weniger als 56 Tage alt sind, ohne Begleitung durch ihre Mutter oder eine Amme;
-- c.[^22-3] das Zerstören der Stimmorgane;
-- d.[^22-4] das Verwenden lebender Tiere, um Hunde auszubilden oder zu prüfen, ausser für die Ausbildung und Prüfung von Jagdhunden nach Artikel 75 Absatz 1 sowie für die Ausbildung von Herdenschutz- und Treibhunden;
-- e. das Anpreisen, Verkaufen, Verschenken oder Ausstellen von Hunden mit coupierten Ohren oder Ruten, sofern diese den Eingriff unter Verletzung der schweizerischen Tierschutzbestimmungen erlitten haben.
+- b. das Zerstören der Stimmorgane;
+- c. das Verwenden lebender Tiere, um Hunde auszubilden oder zu prüfen, ausser für die Ausbildung und Prüfung von Jagdhunden nach Artikel 75 Absatz 1 sowie für die Ausbildung von Herdenschutz- und Treibhunden;
+- d. das Anpreisen, Verkaufen, Verschenken oder Ausstellen von Hunden mit coupierten Ohren oder Ruten, sofern diese den Eingriff unter Verletzung der schweizerischen Tierschutzbestimmungen erlitten haben;
+- e. die Ein- oder Durchfuhr von Hunden, die den Ein- beziehungsweise Durchfuhrbestimmungen nach den Artikeln 76*a* und 76*b* nicht entsprechen.
 
-<sup>2</sup> Hunde mit coupierten Ohren oder Ruten dürfen von ausländischen Halterinnen und Haltern für Ferien oder andere Kurzaufenthalte vorübergehend in die Schweiz verbracht sowie als Übersiedlungsgut eingeführt werden. Solche Hunde dürfen in der Schweiz nicht angepriesen, verkauft, verschenkt oder an Ausstellungen gezeigt werden.
-
-<sup>3</sup>
+<sup>2</sup>
 
 Die Hundehalterinnen und Hundehalter müssen der kantonalen Fachstelle die folgenden Merkmale von Hunden melden:
 
-- a. coupierte Ohren oder Ruten bei Hunden, die als Übersiedlungsgut eingeführt wurden;
-- b. aus medizinischen Gründen coupierte Ohren oder Ruten;
-- c. von Geburt an verkürzte Ruten.[^22-5]
+- a. aus medizinischen Gründen coupierte Ohren oder Ruten;
+- b. von Geburt an verkürzte Ruten.
 
-<sup>4</sup> Die kantonale Fachstelle erfasst die Merkmale in der Datenbank nach Artikel 30 Absatz 2 des Tierseuchengesetzes vom 1. Juli 1966[^22-6] (TSG).[^22-7]
+<sup>3</sup> Die kantonale Fachstelle erfasst die Merkmale in der Datenbank nach Artikel 30 Absatz 2 des Tierseuchengesetzes vom 1. Juli 1966[^22-2] (TSG).
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^22-2]: Eingefügt durch Anhang 6 Ziff. II 1 der V vom 28. Nov. 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren, in Kraft seit 29. Dez. 2014 ([AS 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^22-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^22-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^22-5]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^22-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^22-7]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^22-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 #### Art. 23
 
@@ -604,6 +622,10 @@ In kleineren Tierhaltungen mit höchstens zehn Grossvieheinheiten muss die für 
 
 <sup>2</sup> Die Tierhalterinnen und Tierhalter müssen einen vom Bundesamt für Landwirtschaft und vom BLV anerkannten Sachkundenachweis erbringen und die Eingriffe unter der Anleitung und Aufsicht der Bestandestierärztin oder des Bestandestierarztes ausüben. Können sie einen Eingriff unter Schmerzausschaltung selbstständig durchführen, so meldet sie die Bestandestierärztin oder der Bestandestierarzt bei der zuständigen kantonalen Behörde zur Überprüfung der praktischen Fähigkeiten an. Ab dem Zeitpunkt der Anmeldung dürfen die Tierhalterinnen und Tierhalter den Eingriff selbstständig durchführen.
 
+<sup>3</sup> Bei Zicklein muss die Schmerzausschaltung zur Enthornung von einer Person mit einem tierärztlichen Diplom durchgeführt werden.[^32-1]
+
+[^32-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 33
 
 **Beleuchtung**
@@ -711,7 +733,7 @@ Bei Verwendung von Elektrobügeln gelten folgende Bestimmungen:
 
 **Anbindehaltung**
 
-<sup>1</sup> Rinder, die angebunden gehalten werden, müssen regelmässig, mindestens jedoch an 60 Tagen während der Vegetationsperiode und an 30 Tagen während der Winterfütterungsperiode, Auslauf erhalten. Sie dürfen höchstens zwei Wochen ohne Auslauf bleiben. Der Auslauf ist in einem Auslaufjournal einzutragen.
+<sup>1</sup> Rinder, die angebunden gehalten werden, müssen regelmässig, mindestens jedoch an 60 Tagen vom 1. Mai bis zum 31. Oktober und an 30 Tagen vom 1. November bis zum 30. April, Auslauf erhalten. Sie dürfen höchstens zwei Wochen ohne Auslauf bleiben. Der Auslauf ist in einem Auslaufjournal einzutragen.[^40-1]
 
 <sup>2</sup> Für Zuchtstiere kann das BLV Ausnahmen beim Auslauf vorsehen.
 
@@ -720,6 +742,8 @@ Bei Verwendung von Elektrobügeln gelten folgende Bestimmungen:
 <sup>4</sup> Für Wasserbüffel dürfen keine neuen Standplätze eingerichtet werden.
 
 <sup>5</sup> Yaks dürfen nicht angebunden gehalten werden.
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 41
 
@@ -777,9 +801,11 @@ In neu eingerichteten Ställen müssen bei Hitze für Schweine ab 25 kg in Grupp
 
 **Stallböden und Liegeflächen**
 
-<sup>1</sup> Für Schweine in Gruppenhaltung und Zuchteber muss ein in grösseren Flächen zusammenhängender Liegebereich, der nur einen geringen Perforationsanteil zum Abfliessen von Flüssigkeiten aufweisen darf, vorhanden sein.
+<sup>1</sup> Für Schweine muss ein in grösseren Flächen zusammenhängender Liegebereich, der nur einen geringen Perforationsanteil zum Abfliessen von Flüssigkeiten aufweisen darf, vorhanden sein.[^47-1]
 
 <sup>2</sup> Kastenstände für Sauen dürfen im Deckzentrum nur zur Hälfte und in Fressliegebuchten nur zu einem Drittel mit perforiertem Boden versehen sein.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 48
 
@@ -812,6 +838,14 @@ In neu eingerichteten Ställen müssen bei Hitze für Schweine ab 25 kg in Grupp
 <sup>2</sup> Einige Tage vor dem Abferkeln ist ausreichend Langstroh oder anderes zum Nestbau geeignetes Material und während der Säugezeit ausreichend Einstreu in die Bucht zu geben.
 
 <sup>3</sup> Der Liegebereich der Ferkel muss ein ihren Temperaturansprüchen entsprechendes Mikroklima aufweisen.
+
+#### Art. 50a
+
+**Mutterlose Ferkelaufzucht**[^50a-1]
+
+Ferkel dürfen in den ersten zwei Lebenswochen nicht abgesetzt und mutterlos aufgezogen werden. Ausgenommen davon sind Einzelfälle, bei denen die Sau vorzeitig stirbt, aus gesundheitlichen Gründen getötet oder geschlachtet werden muss oder gesundheitliche Probleme hat, die das Säugen verunmöglichen.
+
+[^50a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 51
 
@@ -912,14 +946,24 @@ Abgesetzte Ferkel dürfen nicht in mehrstöckigen Käfigen gehalten werden. Die 
 
 <sup>2</sup> Liegeplätze in Unterkünften müssen ausreichend mit geeigneter, sauberer und trockener Einstreu versehen sein.
 
-<sup>3</sup> Equiden müssen Sicht-, Hör- und Geruchkontakt zu einem anderen Equide haben. Die kantonale Behörde kann in begründeten Fällen eine befristete Ausnahmebewilligung für ein einzeln gehaltenes, altes Tier erteilen.
+<sup>3</sup> Equiden müssen Sicht-, Hör- und Geruchkontakt zu einem Artgenossen haben.[^59-1]
 
-<sup>4</sup> Equiden müssen nach dem Absetzen vom Muttertier bis zum Alter von 30 Monaten oder bis zum Beginn der regelmässigen Nutzung in Gruppen gehalten werden.[^59-1]
+<sup>3bis</sup>
 
-<sup>5</sup> Werden Equiden in Gruppen gehalten, so müssen Ausweich‑ und Rückzugsmöglichkeiten vorhanden sein; keine Ausweich- und Rückzugsmöglichkeiten sind erforderlich für abgesetzte Fohlen sowie Jungtiere bis zum Beginn der regelmässigen Nutzung, längstens jedoch bis zum Alter von 30 Monaten. Es dürfen keine Sackgassen vorhanden sein.[^59-2]
+Als Artgenossen für die einzelnen Equidenarten gelten:
 
-[^59-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^59-2]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+- a. bei Pferden: Pferde, Maultiere und Maulesel;
+- b. bei Eseln: Esel, Maultiere und Maulesel;
+- c. bei Maultieren und Mauleseln: Maultiere, Maulesel, Pferde und Esel.[^59-2]
+
+<sup>4</sup> Equiden müssen nach dem Absetzen vom Muttertier bis zum Alter von 30 Monaten oder bis zum Beginn der regelmässigen Nutzung in Gruppen gehalten werden.[^59-3]
+
+<sup>5</sup> Werden Equiden in Gruppen gehalten, so müssen Ausweich‑ und Rückzugsmöglichkeiten vorhanden sein; keine Ausweich- und Rückzugsmöglichkeiten sind erforderlich für abgesetzte Fohlen sowie Jungtiere bis zum Beginn der regelmässigen Nutzung, längstens jedoch bis zum Alter von 30 Monaten. Es dürfen keine Sackgassen vorhanden sein.[^59-4]
+
+[^59-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^59-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^59-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^59-4]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 60
 
@@ -1009,7 +1053,9 @@ Gehege müssen:
 
 <sup>1</sup> Dem Hausgeflügel und den Haustauben müssen genügend Fütterungs- und Tränkeeinrichtungen zur Verfügung stehen.
 
-<sup>2</sup> Dem Hausgeflügel muss während der ganzen Lichtphase eine Fläche von mindestens 20 Prozent der begehbaren Fläche im Stall mit geeigneter Einstreu zur Verfügung stehen, ausser in den ersten zwei Lebenswochen. Die Einstreu muss auf dem Stallboden angeboten werden.
+<sup>2</sup> Dem Hausgeflügel muss während der ganzen Lichtphase eine Fläche von mindestens 20 Prozent der begehbaren Fläche im Stall mit geeigneter Einstreu zur Verfügung stehen. Die Einstreu muss auf dem Stallboden angeboten werden sowie grösstenteils trocken und locker sein.[^66-1]
+
+<sup>2bis</sup> Dem Hausgeflügel, ausgenommen Mastpoulets, müssen jederzeit geeignete Beschäftigungsmöglichkeiten zur Verfügung stehen.[^66-2]
 
 <sup>3</sup>
 
@@ -1019,11 +1065,16 @@ Weiter müssen vorhanden sein:
 - b. für Haushühner: geschützte und geeignete Einzel- oder Gruppennester mit Einstreu oder weichen Einlagen wie Kunststoffrasen oder Gumminoppenmatten; für Einzelnester sind auch Kunststoffschalen erlaubt;
 - c. für Aufzucht-, Lege- und Elterntiere der Haushühner sowie für Perlhühner und Haustauben: dem Alter und dem Verhalten der Tiere angepasste erhöhte Sitzgelegenheiten auf verschiedenen Höhen;
 - d. für Enten und Gänse: eine Schwimmgelegenheit;
-- e.[^66-1] für Haustauben: wöchentlich mindestens eine Badegelegenheit mit frischem Wasser.
+- e.[^66-3] für Haustauben: wöchentlich mindestens eine Badegelegenheit mit frischem Wasser.
 
 <sup>4</sup> Die Einrichtungen müssen für die Tiere leicht erreichbar sein.
 
-[^66-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+<sup>5</sup> Bei Küken in Volierenhaltungen können während der ersten zwei Lebenswochen die Mindestanforderungen für Flächen, Sitzstangen, Futterangebot und Wasser nach Anhang 1 angemessen unterschritten werden. Vom Zugang zur eingestreuten Fläche kann abgesehen werden.[^66-4]
+
+[^66-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^66-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^66-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^66-4]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 67
 
@@ -1067,7 +1118,14 @@ Als Nutzhunde gelten:
 - f. Treibhunde;
 - g. Jagdhunde.
 
-<sup>3</sup> Diensthunde sind Hunde, die in der Armee, beim Grenzwachtkorps oder bei der Polizei eingesetzt werden oder dafür vorgesehen sind.
+<sup>3</sup> Diensthunde sind Hunde, die in der Armee, beim Bundesamt für Zoll und Grenzsicherheit (BAZG) oder bei der Polizei eingesetzt werden oder dafür vorgesehen sind.[^69-1]
+
+<sup>4</sup> Herdenschutzhunde sind Hunde, die in der Landwirtschaft entsprechend dem Einsatzzweck nach Artikel 10*d* Absatz 1 der Jagdverordnung vom 29. Februar 1988[^69-2] eingesetzt werden und in der Datenbank nach Artikel 30 TSG[^69-3] als Herdenschutzhunde erfasst sind oder die für einen Einsatz als Herdenschutzhunde vorgesehen sind.[^69-4]
+
+[^69-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^69-2]: [SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+[^69-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^69-4]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 70
 
@@ -1089,11 +1147,14 @@ Als Nutzhunde gelten:
 
 **Bewegung**
 
-<sup>1</sup> Hunde müssen täglich im Freien und entsprechend ihrem Bedürfnis ausgeführt werden. Soweit möglich sollen sie sich dabei auch unangeleint bewegen können.
+<sup>1</sup> Hunde müssen täglich im Freien und entsprechend ihrem Bedürfnis ausgeführt werden. Soweit möglich sollen sie sich dabei auch unangeleint bewegen können. Bei Herdenschutzhunden erfüllt der Weidegang zusammen mit den Nutztieren, für deren Schutz sie vorgesehen sind, diese Anforderungen.[^71-1]
 
-<sup>2</sup> Können sie nicht ausgeführt werden, so müssen sie täglich Auslauf haben. Der Aufenthalt im Zwinger oder an der Laufkette gilt nicht als Auslauf.
+<sup>2</sup> Können die Hunde nicht ausgeführt werden, so müssen sie täglich Auslauf haben. Der Aufenthalt im Zwinger oder an der Laufkette sowie die Stallhaltung von Herdenschutzhunden gelten nicht als Auslauf.[^71-2]
 
 <sup>3</sup> Angebunden gehaltene Hunde müssen sich während des Tages mindestens fünf Stunden frei bewegen können. In der übrigen Zeit müssen sie sich in einem Bereich von mindestens 20 m<sup>2</sup> an einer Laufkette bewegen können. Sie dürfen nicht mit einem Zughalsband angebunden werden.
+
+[^71-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^71-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 72
 
@@ -1118,7 +1179,7 @@ Als Nutzhunde gelten:
 
 **Umgang mit Hunden**
 
-<sup>1</sup> Aufzucht und Erziehung der Hunde sowie der Umgang mit ihnen müssen die Sozialisierung gegenüber Artgenossen und Menschen sowie die Gewöhnung an die Umwelt gewährleisten. Für Nutzhunde ist die Sozialisierung dem Einsatzzweck anzupassen.
+<sup>1</sup> Aufzucht und Erziehung der Hunde sowie der Umgang mit ihnen müssen die Sozialisierung gegenüber Artgenossen und Menschen sowie die Gewöhnung an die Umwelt gewährleisten. Für Nutzhunde ist die Sozialisierung dem Einsatzzweck anzupassen. Bei Herdenschutzhunden muss zusätzlich eine Sozialisierung gegenüber den Nutztieren, für deren Schutz sie vorgesehen sind, gewährleistet sein.[^73-1]
 
 <sup>2</sup>
 
@@ -1133,11 +1194,12 @@ Massnahmen zur Korrektur des Verhaltens von Hunden müssen der Situation angepas
   - 2\. Stachelhalsbändern,
   - 3\. anderen Führhilfen mit nach innen vorstehenden Elementen;
 
-- c. übermässige Härte, wie das Schlagen mit harten Gegenständen.[^73-1]
+- c. übermässige Härte, wie das Schlagen mit harten Gegenständen.[^73-2]
 
 <sup>3</sup> Zum Ziehen dürfen nur geeignete Hunde verwendet werden. Ungeeignet sind insbesondere kranke, hochträchtige oder säugende Tiere. Die Hunde sind in geeignete Geschirre einzuspannen.
 
-[^73-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^73-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^73-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 74
 
@@ -1183,7 +1245,7 @@ Das Verwenden lebender Tiere ist zulässig für die Ausbildung und Prüfung von 
 
 - a. am Kunstbau für den Einsatz bei der Baujagd;
 - b. in Schwarzwildgattern für die Schwarzwildjagd;
-- c. im Bereich des Apportierens.
+- c.[^75-2] im Bereich des Vorstehens und des Apportierens.
 
 <sup>2</sup> Der direkte Kontakt zwischen Jagdhund und Wildtier ist verboten, ausser wenn er zum Erreichen des Ausbildungs- oder Prüfungsziels unerlässlich ist. Das Wildtier muss sich jederzeit in Deckung zurückziehen können.
 
@@ -1208,6 +1270,7 @@ Ein Schwarzwildgatter wird bewilligt, wenn:
 <sup>6</sup> Jede Veranstaltung, bei der Jagdhunde am lebenden Wildtier ausgebildet oder geprüft werden, ist der kantonalen Behörde zu melden. Diese sorgt für die Überwachung der Veranstaltung. Sie kann die Zahl der Anlagen und der Veranstaltungen begrenzen.
 
 [^75-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^75-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 76
 
@@ -1217,7 +1280,7 @@ Ein Schwarzwildgatter wird bewilligt, wenn:
 
 <sup>2</sup> Die Verwendung von Geräten, die elektrisieren, für den Hund sehr unangenehme akustische Signale aussenden oder mittels chemischer Stoffe wirken, ist verboten.
 
-<sup>3</sup> Auf Gesuch hin kann die kantonale Behörde Personen, die sich über die notwendigen Fähigkeiten ausweisen, die Verwendung von Geräten, die elektrisieren oder für den Hund sehr unangenehme akustische Signale aussenden, ausnahmsweise zu therapeutischen Zwecken bewilligen. Die Befähigung ist durch die kantonale Behörde zu prüfen. Das Eidgenössische Departement des Innern (EDI) legt nach Anhörung der Kantone Inhalt und Form der Ausbildung und Prüfung fest.[^76-1]
+<sup>3</sup> Auf Gesuch hin kann die kantonale Behörde Personen, die sich über die notwendigen Fähigkeiten ausweisen, die Verwendung von Geräten, die elektrisieren oder für den Hund sehr unangenehme akustische Signale aussenden, ausnahmsweise zu therapeutischen Zwecken bewilligen. Die Befähigung ist durch die kantonale Behörde oder durch eine von ihr beauftragte Organisation zu prüfen. Das Eidgenössische Departement des Innern (EDI) legt nach Anhörung der Kantone Inhalt und Form der Ausbildung und Prüfung fest.[^76-1]
 
 <sup>4</sup>
 
@@ -1233,13 +1296,55 @@ Wer bewilligungspflichtige Geräte einsetzt, muss jeden Geräteeinsatz dokumenti
 
 <sup>6</sup> Das Anwenden von Mitteln zur Verhinderung von Laut- und Schmerzensäusserungen ist verboten.[^76-3]
 
-[^76-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^76-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^76-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^76-3]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 76a
 
-**Anbieten von Hunden**[^76a-1]
+**Einfuhr von Hunden: Hunde mit coupierten Ohren oder coupierter Rute**[^76a-1]
+
+<sup>1</sup> Die Einfuhr von Hunden mit coupierten Ohren oder coupierter Rute ist verboten. Ausgenommen davon ist die Einfuhr von Hunden, deren Ohren oder Rute aus medizinischen Gründen coupiert wurden, sowie die Einfuhr von Hunden mit coupierten Ohren oder coupierter Rute als Übersiedlungsgut.
+
+<sup>2</sup> Wollen in der Schweiz wohnhafte Halterinnen und Halter Hunde mit verkürzten Ohren oder verkürzter Rute einführen, so müssen sie dem BLV vor der Einfuhr den Nachweis erbringen, dass das Coupieren der Ohren oder der Rute aus medizinischen Gründen erfolgt ist oder dass der Hund von Geburt an eine verkürzte Rute hat. Das BLV stellt eine entsprechende Bestätigung aus.
+
+<sup>3</sup> Hunde mit coupierten Ohren oder coupierter Rute, die als Übersiedlungsgut eingeführt wurden, dürfen in der Schweiz nicht angepriesen oder an Ausstellungen gezeigt werden. Sie dürfen verkauft oder verschenkt werden, wenn sie von der bisherigen Halterin oder dem bisherigen Halter nicht mehr gehalten werden können.
+
+<sup>4</sup> Hunde mit coupierten Ohren oder coupierter Rute dürfen von im Ausland wohnhaften Halterinnen und Haltern für Ferien oder andere Kurzaufenthalte vorübergehend in die Schweiz verbracht werden. Solche Hunde dürfen in der Schweiz nicht angepriesen, verkauft, verschenkt oder an Ausstellungen gezeigt werden.
+
+<sup>5</sup> Die Hundehalterinnen und Hundehalter müssen der kantonalen Fachstelle verkürzte Ohren oder eine verkürzte Rute bei Hunden, die eingeführt wurden, melden. Die kantonale Fachstelle erfasst die Merkmale in der Datenbank nach Artikel 30 Absatz 2 TSG[^76a-2].
+
+[^76a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^76a-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+
+#### Art. 76b
+
+**Ein- und Durchfuhr von Hunden: Mindestalter**[^76b-1]
+
+<sup>1</sup>
+
+Die Ein- und die Durchfuhr von Hunden, die weniger als 15 Wochen alt sind, sind verboten, wenn:
+
+- a. es sich um eine gewerbsmässige Ein- oder Durchfuhr handelt; oder
+- b. die Hunde dazu bestimmt sind, Gegenstand einer Eigentumsübertragung zu sein.
+
+<sup>2</sup> Die Ein- und die Durchfuhr von Hunden, die weniger als 8 Wochen alt sind, sind nur zulässig, wenn die Hunde in Begleitung ihrer Mutter oder einer Amme sind.
+
+[^76b-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 76c
+
+**Ein- und Durchfuhr von Hunden: Massnahmen**[^76c-1]
+
+<sup>1</sup> Stellt das BAZG im Rahmen der Zollkontrolle Hunde fest, deren Ein- oder Durchfuhr verboten ist, oder kann ihm die Bestätigung nach Artikel 76*a* Absatz 2 nicht vorgelegt werden, so meldet es dies der zuständigen Behörde des Wohnsitzkantons der Hundehalterin oder des Hundehalters. Besteht kein Wohnsitz in der Schweiz, so erfolgt die Meldung an den Kanton, auf dessen Gebiet die Kontrolle erfolgte. Stellt das BAZG solche Hunde oder eine fehlende Bestätigung an den zugelassenen Grenzkontrollstellen fest, so meldet es dies dem grenztierärztlichen Dienst.
+
+<sup>2</sup> Die zuständige Behörde ordnet nötigenfalls die Rückweisung an.
+
+[^76c-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 76d
+
+**Anbieten von Hunden**[^76d-1]
 
 <sup>1</sup>
 
@@ -1251,16 +1356,13 @@ Wer Hunde öffentlich anbietet, muss folgende Informationen schriftlich angeben:
 
 <sup>2</sup> Die Betreiberinnen und Betreiber der Internetplattformen und die Verlegerinnen und Verleger der Zeitschriften sorgen für die Vollständigkeit der Angaben.
 
-[^76a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^76d-1]: Ursprünglich: Art. 76*a*. Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 77
 
-**Verantwortung der Personen, die Hunde halten oder ausbilden**[^77-1]
+[^77-1]
 
-Wer einen Hund hält oder ausbildet, hat Vorkehrungen zu treffen, damit der Hund Menschen und Tiere nicht gefährdet. Bei der Beurteilung der Verantwortlichkeit für Herdenschutzhunde nach Artikel 10<sup>quater</sup> der Jagdverordnung vom 29. Februar 1988[^77-2] wird deren Einsatzzweck zur Abwehr fremder Tiere berücksichtigt.
-
-[^77-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^77-2]: [SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+[^77-1]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 78
 
@@ -1268,12 +1370,14 @@ Wer einen Hund hält oder ausbildet, hat Vorkehrungen zu treffen, damit der Hund
 
 <sup>1</sup>
 
-Tierärztinnen und Tierärzte, Ärztinnen und Ärzte, Tierheimverantwortliche, Hundeausbilderinnen und Hundeausbilder sowie Zollorgane sind verpflichtet, der zuständigen kantonalen Stelle Vorfälle zu melden, bei denen ein Hund:
+Tierärztinnen und Tierärzte, Ärztinnen und Ärzte, Tierheimverantwortliche, Anbieterinnen und Anbieter von Tierbetreuungsdiensten, Hundeausbildnerinnen und Hundeausbildner sowie Zollorgane sind verpflichtet, der zuständigen kantonalen Stelle Vorfälle zu melden, bei denen ein Hund:[^78-1]
 
 - a. Menschen oder Tiere erheblich verletzt hat; oder
 - b. ein übermässiges Aggressionsverhalten zeigt.
 
 <sup>2</sup> Die Kantone können die Meldepflicht auf weitere Personenkreise ausdehnen.
+
+[^78-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 79
 
@@ -1583,10 +1687,11 @@ Die maximale Dauer der Bewilligung beträgt:
 
 <sup>2</sup> Wer gewerbsmässig Speisefische, Besatzfische oder Panzerkrebse züchtet oder hält, muss über eine Ausbildung nach Artikel 197 verfügen.
 
-<sup>3</sup> Wer nicht gewerbsmässig Speisefische, Besatzfische oder Panzerkrebse fängt, markiert, hält, züchtet oder tötet, muss einen Sachkundenachweis nach Artikel 5*a* der Verordnung vom 24. November 1993[^97-2] zum Bundesgesetz über die Fischerei oder nach Artikel 198 der vorliegenden Verordnung erbringen. Das Fangen und Töten ist ohne Sachkundenachweis gestattet, wenn im betreffenden Kanton zum Angeln in öffentlichen Gewässern kein Patent oder ein Kurzpatent bis zu einem Monat Dauer erforderlich ist.
+<sup>3</sup> Wer nicht gewerbsmässig Speisefische, Besatzfische oder Panzerkrebse fängt, markiert, züchtet oder tötet oder wer nicht gewerbsmässig Speisefische oder Besatzfische hält, muss einen Sachkundenachweis nach Artikel 5*a* der Verordnung vom 24. November 1993[^97-2] zum Bundesgesetz über die Fischerei oder nach Artikel 198 der vorliegenden Verordnung erbringen. Das Fangen und Töten ist ohne Sachkundenachweis gestattet, wenn im betreffenden Kanton zum Angeln in öffentlichen Gewässern kein Patent oder ein Kurzpatent bis zu einem Monat Dauer erforderlich ist.[^97-3]
 
 [^97-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^97-2]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^97-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 98
 
@@ -1639,10 +1744,10 @@ Die maximale Dauer der Bewilligung beträgt:
 Eine kantonale Bewilligung benötigt, wer:[^101-1]
 
 - a. ein Tierheim mit mehr als fünf Pflegeplätzen betreibt;
-- b. gewerbsmässig Tierbetreuungsdienste für mehr als fünf Tiere anbietet;
+- b.[^101-2] gewerbsmässig Tierbetreuungsdienste für mehr als fünf Tiere pro Tag anbietet;
 - c.
 
-  mehr als folgende Anzahl Tiere pro Jahr abgibt:
+  mehr als folgende Anzahl Tiere pro Jahr züchtet und aus der eigenen Nachzucht abgibt:[^101-3]
 
   - 1\. zwanzig Hunde oder drei Würfe Hundewelpen,
   - 2\. zwanzig Katzen oder fünf Würfe Katzenwelpen,
@@ -1652,11 +1757,13 @@ Eine kantonale Bewilligung benötigt, wer:[^101-1]
   - 6\. 100 Reptilien,
   - 7\. die Nachzucht von mehr als fünfundzwanzig Vogelpaaren bis zur Grösse eines Nymphensittichs, von mehr als zehn Vogelpaaren, die grösser als Nymphensittiche sind, oder von mehr als fünf Ara- oder Kakadupaaren;
 
-- d.[^101-2] …
+- d.[^101-4] …
 - e. gewerbsmässig Klauenpflege für Rinder oder Hufpflege für Equiden durchführt, ohne über eine Ausbildung nach Artikel 192 Absatz 1 Buchstabe a zu verfügen.
 
 [^101-1]: Die Berichtigung vom 9. April 2015 betrifft nur den französischen Text ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
-[^101-2]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^101-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^101-4]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 101a
 
@@ -1713,18 +1820,19 @@ In den folgenden Fällen genügt es, wenn die für die Tierbetreuung verantwortl
 
 - a. in Tierheimen mit maximal 19 Pflegeplätzen;
 - b.[^102-2] bei anderer gewerbsmässiger Betreuung von höchstens 19 Tieren;
-- [tab] c. und d.[^102-3] …
+- c. und d.[^102-3] …
 
-<sup>3</sup> In Tierheimen mit maximal 5 Pflegeplätzen oder bei anderer gewerbsmässiger Betreuung von höchstens 5 Tieren genügt es, wenn die für die Tierbetreuung verantwortliche Person über die für die Haltung der betreuten Tierarten verlangte Ausbildung verfügt.
+<sup>3</sup> In Tierheimen mit höchstens 5 Pflegeplätzen oder bei anderer gewerbsmässiger Betreuung von höchstens 5 Tieren pro Tag genügt es, wenn die für die Tierbetreuung verantwortliche Person über die für die Haltung der betreuten Tierarten verlangte Ausbildung verfügt.[^102-4]
 
-<sup>4</sup> Wer Tiere nach Artikel 101 Buchstabe c abgibt, muss über eine Ausbildung nach Artikel 197 verfügen.[^102-4]
+<sup>4</sup> Wer Tiere nach Artikel 101 Buchstabe c abgibt, muss über eine Ausbildung nach Artikel 197 verfügen.[^102-5]
 
 <sup>5</sup> Wer gewerbsmässig Klauenpflege für Rinder oder Hufpflege für Equiden durchführt, muss über eine Ausbildung nach Artikel 192 Absatz 1 Buchstabe a oder b verfügen.
 
 [^102-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^102-2]: Die Berichtigung vom 6. Febr. 2018 betrifft nur den französischen Text ([AS 2018 547](https://fedlex.data.admin.ch/eli/oc/2018/68)).
 [^102-3]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^102-4]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^102-5]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### 2. Abschnitt: Handel und Werbung mit Tieren
 
@@ -1736,13 +1844,13 @@ Bei Handel und Werbung mit Tieren muss die für die Betreuung der Tiere verantwo
 
 - a. in Betrieben, die gewerbsmässig mit Tieren handeln: Tierpflegerin oder Tierpfleger sein;
 - b.[^103-1] im Zoofachhandel: Tierpflegerin oder Tierpfleger sein oder über ein eidgenössisches Fähigkeitszeugnis nach Artikel 38 des Berufsbildungsgesetzes vom 13. Dezember 2002[^103-2] (BBG) als Detailhandelsfachfrau oder Detailhandelsfachmann mit Fachrichtung Zoofachhandel verfügen, ergänzt durch eine Ausbildung nach Artikel 197;
-- c.[^103-3] in Unternehmen, die Viehhandel nach Artikel 20 Absatz 2 TSG[^103-4] betreiben: über ein Viehhandelspatent verfügen;
+- c.[^103-3] in Unternehmen, die Viehhandel nach Artikel 20 Absatz 2 TSG[^103-4] betreiben: über ein Viehhandelspatent verfügen; ausgenommen sind Metzgerinnen und Metzger, die ausschliesslich Tiere zur Schlachtung im eigenen Betrieb kaufen;
 - d.[^103-5] bei Handelsveranstaltungen und in der Werbung: einen Sachkundenachweis erbringen;
 - e.[^103-6] in Betrieben, die ausschliesslich mit Speise-, Köder- oder Besatzfischen oder Panzerkrebsen handeln: über eine Ausbildung nach Artikel 197 verfügen.
 
 [^103-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^103-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^103-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^103-5]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-6]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
@@ -1872,7 +1980,7 @@ Abweichungen von den Bestimmungen dieser Verordnung zu Tierhaltung, Umgang, Zuch
 
 **Leitung der Versuchstierhaltung**
 
-<sup>1</sup> Für jede Versuchstierhaltung muss eine Leiterin oder ein Leiter bezeichnet sein. Die Stellvertretung ist zu regeln.
+<sup>1</sup> Für jede Versuchstierhaltung muss eine Leiterin oder ein Leiter bezeichnet sein. Die Stellvertretung ist zu gewährleisten.[^114-1]
 
 <sup>2</sup>
 
@@ -1882,7 +1990,11 @@ Die Leiterin oder der Leiter:
 - b. trägt in tierschützerischer Hinsicht die Verantwortung für die Tierhaltung und die Zucht der Tiere sowie für den Handel;
 - c. ist zuständig für die Arbeitszuteilung, die Instruktion der Tierpflegerinnen und Tierpfleger und des weiteren Personals, die Kontrolle der Arbeiten, die Organisation der fachgerechten Überwachung und Betreuung der Versuchstiere sowie der notwendigen Dokumentationsarbeiten;
 - d. ist für die Meldungen nach den Artikeln 126 und 145 Absatz 1 verantwortlich;
-- e. stellt sicher, dass der verantwortlichen Versuchsleiterin oder dem verantwortlichen Versuchsleiter im Rahmen der Tierhaltung festgestellte Mängel sofort gemeldet werden.
+- e. stellt sicher, dass der verantwortlichen Versuchsleiterin oder dem verantwortlichen Versuchsleiter im Rahmen der Tierhaltung festgestellte Mängel sofort gemeldet werden;
+- f.[^114-2] stellt sicher, dass bei der Zucht und der Haltung von Versuchstieren, die nicht für einen bestimmten Tierversuch vorgesehen sind, die kleinstmögliche Anzahl Tiere gezüchtet und gehalten wird (Art. 118*a* Abs. 1).
+
+[^114-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^114-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 115
 
@@ -1915,11 +2027,11 @@ Die Leiterin oder der Leiter der Versuchstierhaltung muss über eine Ausbildung 
 
 **Anforderungen an Räume und Gehege**
 
-<sup>1</sup> Räume und Gehege, in denen Versuchstiere gehalten werden, müssen durch Tageslicht oder künstliche Lichtquellen mit ähnlichem Spektrum erhellt werden. Die Beleuchtungsstärke im Bereich der Tiere, die Hell- und Dunkelphasen sowie die Lichtwechsel sind auf die Bedürfnisse der Tiere abzustimmen. Bei künstlichen Lichtquellen darf kein störendes Flimmern wahrnehmbar sein.
+<sup>1</sup> Räume und Gehege, in denen Versuchstiere gehalten werden, müssen durch Tageslicht oder künstliche Lichtquellen mit ähnlichem Spektrum erhellt werden. Die Beleuchtungsstärke im Bereich der Tiere, die Hell- und Dunkelphasen sowie die Lichtwechsel sind auf die Bedürfnisse der Tiere abzustimmen. Bei künstlichen Lichtquellen darf kein Flimmern wahrnehmbar sein.[^117-1]
 
 <sup>2</sup> Die Temperatur, die Luftfeuchtigkeit, die Belüftung und die Wasserqualität müssen den Bedürfnissen der Tiere angepasst werden können.
 
-<sup>3</sup> Die Räume und Gehege müssen den Anforderungen in Anhang 3 entsprechen und es erlauben, das Befinden aller Tiere zu überprüfen, ohne sie erheblich zu stören. Für Tierarten, die nicht in Anhang 3 aufgeführt sind, gelten die Mindestanforderungen nach den Anhängen 1 und 2.[^117-1]
+<sup>3</sup> Die Räume und Gehege müssen den Anforderungen in Anhang 3 entsprechen und es erlauben, das Befinden aller Tiere zu überprüfen, ohne sie erheblich zu stören. Für Tierarten, die nicht in Anhang 3 aufgeführt sind, gelten die Mindestanforderungen nach den Anhängen 1 und 2.[^117-2]
 
 <sup>4</sup>
 
@@ -1928,7 +2040,8 @@ Versuchstierhaltungen müssen über ausreichend Räume und Einrichtungen verfüg
 - a. kranke Tiere und Tiere mit unklarem Hygienestatus abgesondert werden können;
 - b. die Lagerung von Futter und anderen Materialien wie Reinigungs- und Desinfektionsmittel sowie die Entsorgung in geeigneter Weise von der Tierhaltung getrennt werden können.
 
-[^117-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^117-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^117-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 118
 
@@ -1942,17 +2055,34 @@ Versuchstierhaltungen müssen über ausreichend Räume und Einrichtungen verfüg
 
 <sup>4</sup> Primaten dürfen nur in Tierversuchen eingesetzt werden, wenn sie gezüchtet worden sind.
 
+#### Art. 118a
+
+**Zulässige Anzahl Versuchstiere**[^118a-1]
+
+<sup>1</sup> Die Zucht und die Haltung von Versuchstieren ist auf die kleinstmögliche Anzahl Tiere zu beschränken, mit der gewährleistet ist, dass für die Durchführung von Tierversuchen ausreichend Tiere zur Verfügung stehen.
+
+<sup>2</sup> Für die Zucht und die Haltung von belasteten Linien und Stämmen, bei denen die Belastung durch belastungsmindernde Massnahmen nicht vermieden werden kann, muss vorgängig eine Tierversuchsbewilligung vorliegen, welche die Anzahl der Tiere begründet.
+
+<sup>3</sup> Überzählige Versuchstiere sind zu töten, wenn sie keiner weiteren Verwendung zugeführt werden können.
+
+[^118a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 119
 
 **Umgang mit den Versuchstieren**
 
-<sup>1</sup> Versuchstiere müssen vor dem Beginn eines Versuchs ausreichend an die lokalen Haltungsbedingungen sowie an den Kontakt mit Menschen, insbesondere an die im Versuch notwendige Handhabung, gewöhnt werden.
+<sup>1</sup> Mit Versuchstieren muss schonend umgegangen werden.[^119-1]
+
+<sup>1bis</sup> Versuchstiere müssen vor dem Beginn eines Versuchs ausreichend an die lokalen Haltungsbedingungen sowie an den Kontakt mit Menschen, insbesondere an die im Versuch notwendige Handhabung, gewöhnt werden.[^119-2]
 
 <sup>2</sup> Versuchstiere soziallebender Arten müssen in Gruppen mit Artgenossen gehalten werden. Die Einzelhaltung unverträglicher Tiere ist in Ausnahmefällen für eine begrenzte Dauer gestattet.
 
 <sup>3</sup> Verschiedene Tierarten dürfen nur im gleichen Raum gehalten werden, wenn dies die Tiere nicht belastet.
 
 <sup>4</sup> Übermässiger oder überraschender Lärm ist im Umgang mit den Versuchstieren zu vermeiden.
+
+[^119-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^119-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 120
 
@@ -1989,10 +2119,10 @@ Versuchstierhaltungen werden bewilligt, wenn die folgenden Voraussetzungen erfü
 
 <sup>5</sup>
 
-Sie kann mit Bedingungen und Auflagen verbunden werden hinsichtlich:
+Sie kann mit Bedingungen und Auflagen verbunden werden insbesondere hinsichtlich:[^122-2]
 
 - a. Tierarten, Anzahl Tiere und Umfang des Handels;
-- b. Haltung, Fütterung, Pflege und Überwachung der Tiere;
+- b.[^122-3] Haltung, Fütterung, Pflege und Überwachung der Tiere sowie Umgang mit den Tieren;
 - c. Herkunft und Gesundheitsüberwachung der Tiere;
 - d. personeller Voraussetzungen und personeller Verantwortlichkeiten;
 - e. Tierbestandeskontrolle;
@@ -2001,6 +2131,8 @@ Sie kann mit Bedingungen und Auflagen verbunden werden hinsichtlich:
 <sup>6</sup> Keine Bewilligung als Versuchstierhaltung benötigen bestehende Haus-, Wild- und Heimtierhaltungen, in denen vereinzelt oder vorübergehend Tiere zu Versuchszwecken gehalten werden.
 
 [^122-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^122-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^122-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### 3. Abschnitt: Haltung und Zucht von gentechnisch veränderten Tieren und belasteten Mutanten sowie Handel mit ihnen
 
@@ -2028,17 +2160,17 @@ Sie kann mit Bedingungen und Auflagen verbunden werden hinsichtlich:
 
 #### Art. 125
 
-**Belastungsmindernde Massnahmen**
+**Belastungsmindernde Massnahmen und Abbruchkriterien**[^125-1]
 
-<sup>1</sup> Durch Anpassung der Haltungsbedingungen und Pflegemassnahmen sowie durch andere geeignete Massnahmen, wie die Begrenzung der Lebensdauer, ist die Beeinträchtigung des Wohlergehens belasteter Mutanten so gering wie möglich zu halten.
+Die Beeinträchtigung des Wohlergehens belasteter Mutanten ist durch belastungsmindernde Massnahmen und die Anwendung von Abbruchkriterien so gering wie möglich zu halten.
 
-<sup>2</sup> Bei belasteten Linien und Stämmen muss die Zahl der gezüchteten oder gehaltenen Tiere durch die Anzahl der in bewilligten Tierversuchen benötigten Tiere begründet sein. Überzählige Tiere sind zu töten, wenn ihr Wohlergehen beeinträchtigt ist.
+[^125-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 126
 
 **Meldepflicht für belastete Linien und Stämme**
 
-<sup>1</sup> Ergibt die Belastungserfassung, dass eine Linie oder ein Stamm belastete Mutanten hervorbringt, so ist dies der kantonalen Behörde zu melden.
+<sup>1</sup> Ergibt die Belastungserfassung, dass eine Linie oder ein Stamm belastete Mutanten hervorbringt, so ist dies der kantonalen Behörde zu melden. Dies gilt auch, wenn die Belastung durch belastungsmindernde Massnahmen vermieden werden kann.[^126-1]
 
 <sup>2</sup>
 
@@ -2046,20 +2178,25 @@ Die Meldung muss Angaben zu den folgenden Aspekten enthalten:
 
 - a. Charakterisierung der Linie oder des Stamms;
 - b. Dokumentation der Belastungsfassung;
-- c. mögliche belastungsmindernde Massnahmen;
+- c.[^126-2] mögliche belastungsmindernde Massnahmen und Abbruchkriterien;
 - d. Nutzen der Linie oder des Stamms für die Forschung, die Therapie oder die Diagnostik an Menschen oder Tieren.
+
+[^126-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^126-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 127
 
 **Entscheid über die Zulässigkeit belasteter Linien und Stämme**
 
-<sup>1</sup> Bei der Beurteilung der zulässigen Belastung einer Linie oder eines Stammes ist nach Artikel 137 die Schwere der Belastung gegenüber dem Nutzen abzuwägen. Dabei ist insbesondere zu berücksichtigen, ob die Tiere zusätzlich zur genetisch bedingten Beeinträchtigung des Wohlergehens künftig versuchsbedingt weitere Beeinträchtigungen erfahren.
+<sup>1</sup> Bei der Beurteilung der zulässigen Belastung einer Linie oder eines Stammes ist nach Artikel 137 die Schwere der Belastung gegenüber dem Nutzen abzuwägen. Kann durch die festgelegten belastungsmindernden Massnahmen das Auftreten von Belastungen ausgeschlossen werden, so muss keine Güterabwägung durchgeführt werden.[^127-1]
 
 <sup>2</sup> Die Behörde überweist die Meldung über belastete Linien oder Stämme an die kantonale Tierversuchskommission und entscheidet auf Grund des Antrags der Kommission über die Zulässigkeit und den Umfang des Fortbestands der Linie oder des Stamms.
 
 <sup>3</sup> Der Entscheid wird auf den Namen der Leiterin oder des Leiters der Versuchstierhaltung ausgestellt und kann mit Bedingungen und Auflagen verbunden werden.
 
 <sup>4</sup> Verfügte Bedingungen und Auflagen sind in die Belastungsdokumentation zu integrieren.
+
+[^127-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### 4. Abschnitt: Durchführung von Tierversuchen
 
@@ -2083,24 +2220,27 @@ Institute und Laboratorien, die Tierversuche durchführen, müssen über ausreic
 
 **Bezeichnung der verantwortlichen Personen**[^129-1]
 
-<sup>1</sup> In jedem Institut oder Laboratorium ist eine Tierschutzbeauftragte oder ein Tierschutzbeauftragter zu bezeichnen; die Stellvertretung ist zu regeln.
+<sup>1</sup> In jedem Institut oder Laboratorium ist eine Tierschutzbeauftragte oder ein Tierschutzbeauftragter zu bezeichnen. Die oder der Tierschutzbeauftragte darf in Bezug auf einen Tierversuch, für den sie oder er als Tierschutzbeauftragte oder Tierschutzbeauftragter zuständig ist, keine Funktion als Bereichsleiterin oder Bereichsleiter oder als Versuchsleiterin oder Versuchsleiter wahrnehmen.[^129-2]
 
 <sup>2</sup> In jedem Institut oder Laboratorium ist für den Tierversuchsbereich eine Bereichsleiterin oder ein Bereichsleiter zu bezeichnen.
 
-<sup>3</sup> Für jeden Tierversuch ist eine Versuchsleiterin oder ein Versuchsleiter zu bezeichnen; die Stellvertretung ist zu regeln. Werden mehrere Versuchsleiterinnen und Versuchsleiter bezeichnet, so muss ihr Verantwortungsbereich eindeutig festgelegt sein.
+<sup>3</sup> Für jeden Tierversuch ist eine Versuchsleiterin oder ein Versuchsleiter zu bezeichnen; die Stellvertretung ist zu gewährleisten. Werden mehrere Versuchsleiterinnen und Versuchsleiter bezeichnet, so muss ihr Verantwortungsbereich eindeutig festgelegt sein.[^129-3]
 
 [^129-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^129-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 129a
 
 **Zuständigkeit der oder des Tierschutzbeauftragten**[^129a-1]
 
-Die oder der Tierschutzbeauftragte stellt sicher, dass:
+Die oder der Tierschutzbeauftragte stellt sicher, dass die Bewilligungsgesuche für Tierversuche vollständig und kohärent sind, insbesondere hinsichtlich:
 
-- a. die Bewilligungsgesuche für Tierversuche vollständig sind;
-- b. in den Bewilligungsgesuchen insbesondere die Angaben für die Beurteilung des unerlässlichen Masses nach Artikel 137 ausgeführt werden.
+- a. der Angaben für die Beurteilung des unerlässlichen Masses nach Artikel 137;
+- b. der Angaben zu den festgelegten Überwachungs- und Abbruchkriterien sowie den belastungsmindernden Massnahmen;
+- c. der Ausführungen zur Güterabwägung für die Beurteilung der Zulässigkeit der Versuche.
 
-[^129a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 129b
 
@@ -2172,7 +2312,7 @@ Sie:
 
 **Versuchsdurchführung**
 
-<sup>1</sup> Vor Versuchsbeginn sind die Ereignisse oder Symptome festzulegen, bei deren Auftreten ein Tier aus dem Versuch genommen und allenfalls getötet werden muss (Abbruchkriterien).
+<sup>1</sup> Vor Versuchsbeginn sind die Abbruchkriterien festzulegen.[^135-1]
 
 <sup>2</sup> Die Tiere sind sorgfältig an die Versuchsbedingungen zu gewöhnen. Ängstigt sich ein Tier durch den Versuch, so sind geeignete Massnahmen zu treffen, um die Angst und den damit verbundenen Stress möglichst klein zu halten.
 
@@ -2188,9 +2328,10 @@ Sie:
 
 <sup>8</sup> Hatte ein Versuch für ein Tier hochgradige oder mittel bis länger dauernde mittelgradige Schmerzen, Leiden, Schäden oder Angst zur Folge, so ist durch geeignete Massnahmen sicherzustellen, dass es nicht erneut für solche Versuche verwendet wird.
 
-<sup>9</sup> Das Töten von Tieren sowie Massnahmen oder Eingriffe, die Schmerzen, Leiden, Schäden oder Angst zur Folge haben, dürfen nicht in Räumen durchgeführt werden, in denen Tiere gehalten werden. Das BLV kann Ausnahmen festlegen für Massnahmen und Eingriffe, die für die Tiere im gleichen Raum keine übermässige Belastung darstellen, wie insbesondere Markieren, Verabreichungen und Probenahmen.[^135-1]
+<sup>9</sup> Das Töten von Tieren sowie Massnahmen oder Eingriffe, die Schmerzen, Leiden, Schäden oder Angst zur Folge haben, dürfen nicht in Räumen durchgeführt werden, in denen Tiere gehalten werden. Das BLV kann Ausnahmen festlegen für Massnahmen und Eingriffe, die für die Tiere im gleichen Raum keine übermässige Belastung darstellen, wie insbesondere Markieren, Verabreichungen und Probenahmen.[^135-2]
 
-[^135-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^135-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^135-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 136
 
@@ -2223,8 +2364,9 @@ Belastende Tierversuche nach Artikel 17 TSchG sind solche, in deren Rahmen:
 Die Gesuchstellerin oder der Gesuchsteller muss belegen, dass das Versuchsziel:
 
 - a. in Zusammenhang mit der Erhaltung oder dem Schutz des Lebens und der Gesundheit von Mensch und Tier steht;
-- b. neue Kenntnisse über grundlegende Lebensvorgänge erwarten lässt; oder
-- c. dem Schutz der natürlichen Umwelt dient.
+- b. neue Kenntnisse über grundlegende Lebensvorgänge erwarten lässt;
+- c. dem Schutz der natürlichen Umwelt dient; oder
+- d.[^137-1] dem Ersatz von Tierversuchen, der Reduktion der Anzahl von Versuchstieren oder der Belastungsminderung in Tierversuchen dient.
 
 <sup>2</sup> Sie oder er muss ausserdem belegen, dass das Versuchsziel mit Verfahren ohne Tierversuche, die nach dem Stand der Kenntnisse tauglich sind, nicht erreicht werden kann.
 
@@ -2237,6 +2379,8 @@ Ein Tierversuch und dessen einzelne Teile müssen so geplant werden, dass:
 - a. die kleinste notwendige Anzahl Tiere eingesetzt und die geringstmögliche Belastung der Tiere angestrebt wird;
 - b. die zweckmässigsten Verfahren zur Auswertung der Versuchsergebnisse sowie dem aktuellen Stand des Wissens entsprechende statistische Verfahren angewendet werden; und
 - c. die einzelnen Teile zeitlich gezielt gestaffelt werden.
+
+[^137-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 138
 
@@ -2274,18 +2418,22 @@ Das Gesuch muss für jeden Tierversuch enthalten:
 - d. die geplante Anzahl Tiere pro Tierart; und
 - e. den voraussichtlichen Schweregrad der Belastung.[^139-2]
 
-<sup>2</sup> Betrifft ein Tierversuch, durch Änderung des Aufenthaltsorts der Tiere während des Versuchs oder bei Feldstudien, mehrere Kantone, so ist das Gesuch bei der Behörde des Kantons einzureichen, in dem der Versuch hauptsächlich stattfindet. Diese informiert alle anderen betroffenen kantonalen Behörden und berücksichtigt deren Beurteilung.
+<sup>2</sup> …[^139-3]
 
 <sup>3</sup> Die kantonale Behörde prüft das Gesuch und entscheidet vorweg, ob es sich um einen belastenden Tierversuch handelt.
 
 <sup>4</sup> Die kantonale Behörde überweist Gesuche für belastende Tierversuche an die kantonale Tierversuchskommission und entscheidet auf Grund des Antrags der Kommission. Entscheidet die kantonale Behörde gegen den Antrag, so begründet sie dies gegenüber der Kommission.
 
+<sup>5</sup> Bei kantonsübergreifenden Versuchen ist das Gesuch bei der Behörde des Kantons einzureichen, in dem der Versuch hauptsächlich stattfindet (Primärkanton). Die Behörde des Primärkantons informiert alle betroffenen Behörden der übrigen Kantone (Sekundärkantone) und berücksichtigt deren Beurteilung beim Entscheid. Sie überweist Gesuche für belastende Tierversuche an die kantonale Tierversuchskommission. Die Sekundärkantone können sich für ihre Beurteilung auf den Antrag der Tierversuchskommission des Primärkantons abstützen. Überweisen sie das Gesuch an ihre eigene Tierversuchskommission und berücksichtigen sie deren Antrag in ihrer Beurteilung nicht, so begründen sie dies gegenüber der Kommission.[^139-4]
+
 [^139-1]: Ausdruck gemäss Ziff. III 1 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^139-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-3]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^139-4]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 140
 
-**Bewilligungsvoraussetzungen für Tierversuche**
+**Bewilligungsvoraussetzungen für Tierversuche**[^140-1]
 
 <sup>1</sup>
 
@@ -2294,14 +2442,15 @@ Ein belastender Tierversuch wird bewilligt, wenn:
 - a. mit dem Versuch das unerlässliche Mass nicht überschritten wird;
 - b. sich aus der Güterabwägung nach Artikel 19 Absatz 4 TSchG die Zulässigkeit des Versuchs ergibt;
 - c. kein unzulässiger Versuchszweck angestrebt wird;
-- d. geeignete Abbruchkriterien festgelegt sind;
-- e. bei der Verwendung von belasteten Mutanten die Anforderungen an die Zucht und das Erzeugen eingehalten werden;
-- f. die Anforderungen an die Haltung, den Umgang, die Räumlichkeiten und Gehege, die Herkunft und die Markierung erfüllt sind;
-- g. die Anforderungen an die Institute und Laboratorien für das Durchführen der Versuche eingehalten werden;
-- h. die personellen Anforderungen eingehalten werden;
-- i. die Verantwortlichkeiten für die Tierhaltung vor, während und nach dem Versuch geregelt sind.
+- d. geeignete Überwachungs- und Abbruchkriterien sowie geeignete belastungsmindernde Massnahmen festgelegt sind;
+- e. die Anforderungen an die Zucht und die Erzeugung, die Haltung, den Umgang, die Räumlichkeiten und Gehege, die Herkunft und die Markierung erfüllt sind;
+- f. die Anforderungen an die Institute und Laboratorien für das Durchführen der Versuche eingehalten werden;
+- g. die personellen Anforderungen eingehalten werden;
+- h. die Verantwortlichkeiten für die Tierhaltung vor, während und nach dem Versuch geregelt sind.
 
-<sup>2</sup> Bei den nicht belastenden Tierversuchen bilden die Buchstaben e–i die Bewilligungsvoraussetzungen.
+<sup>2</sup> Bei den nicht belastenden Tierversuchen bilden die Buchstaben e–h die Bewilligungsvoraussetzungen.
+
+[^140-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 141
 
@@ -2408,13 +2557,21 @@ Die Aufzeichnungen müssen:
 Die Leiterin oder der Leiter einer Versuchstierhaltung muss der kantonalen Behörde über das Informationssystem Animex-ch melden:
 
 - a. Linien oder Stämme mit belasteten Mutanten nach Artikel 126 innerhalb zweier Wochen nach Feststellung der Belastung;
-- b. pro Kalenderjahr für jede Tierart sowie für gentechnisch veränderte und belastete Linien oder Stämme die Gesamtzahl der gezüchteten und erzeugten Tiere, jeweils bis Ende Februar des folgenden Jahres.
+- b.[^145-1]
+
+  pro Kalenderjahr, jeweils bis Ende Februar des folgenden Jahres, für jede Tierart sowie für gentechnisch veränderte und belastete Linien oder Stämme:
+
+  - 1\. die Anzahl der gezüchteten und erzeugten Tiere,
+  - 2\. die Anzahl der importierten Tiere,
+  - 3\. die Anzahl Tiere, die nicht in einem Tierversuch eingesetzt, sondern an Dritte abgegeben wurden, getötet wurden oder verendet sind, erstmals Ende Februar 2027.
+
+<sup>1bis</sup> Das BLV legt fest, für welche Entwicklungsstadien der Tiere die Meldungen nach Absatz 1 Buchstabe b erfolgen müssen.[^145-2]
 
 <sup>2</sup>
 
 Die Bereichsleiterin oder der Bereichsleiter muss der kantonalen Behörde über das Informationssystem Animex-ch für jeden Tierversuch melden:
 
-- a.[^145-1] den Abschluss eines Versuchs oder einer Versuchsreihe, die Angaben über die Versuchstätigkeit im laufenden Kalenderjahr, die endgültigen Angaben zur Anzahl Tiere pro Tierart und zum Schweregrad der Belastung sowie die Bestätigung der Richtigkeit der Angaben nach Artikel 139 Absatz 1<sup>bis</sup> Buchstaben a–c: innerhalb von zwei Monaten nach Beendigung des Versuchs oder der Versuchsreihe, spätestens aber innerhalb von zwei Monaten nach Ablauf der Bewilligung;
+- a.[^145-3] den Abschluss eines Versuchs oder einer Versuchsreihe, die Angaben über die Versuchstätigkeit im laufenden Kalenderjahr, die endgültigen Angaben zur Anzahl Tiere pro Tierart und zum Schweregrad der Belastung sowie die Bestätigung der Richtigkeit der Angaben nach Artikel 139 Absatz 1<sup>bis</sup> Buchstaben a–c: innerhalb von zwei Monaten nach Beendigung des Versuchs oder der Versuchsreihe, spätestens aber innerhalb von zwei Monaten nach Ablauf der Bewilligung;
 - b. bei Versuchen, die sich über mehrere Jahre erstrecken, jeweils bis Ende Februar die Angaben über die Versuchstätigkeit im abgelaufenen Kalenderjahr.
 
 <sup>3</sup> Die kantonale Behörde kann in begründeten Fällen Meldungen nach der Formularvorlage des BLV in Papierform zulassen.
@@ -2432,20 +2589,28 @@ Die Kantone übermitteln dem BLV über das Informationssystem Animex-ch:
   - 3\. die Meldungen nach Absatz 2 Buchstabe a,
   - 4\. weitere Verfügungen im Zusammenhang mit Tierversuchen und Versuchstierhaltungen;
 
-- b. jeweils bis Ende April: die Meldungen nach Absatz 1 Buchstabe b und nach Absatz 2 Buchstabe b.[^145-2]
+- b. jeweils bis Ende April: die Meldungen nach Absatz 1 Buchstabe b und nach Absatz 2 Buchstabe b.[^145-4]
 
 <sup>5</sup> Das BLV kann nach Anhören der kantonalen Behörden festlegen, welche Angaben in anderer als der elektronischen Form übermittelt werden können.
 
-[^145-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^145-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014, Bst. a Ziff. 3 in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^145-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^145-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014, Bst. a Ziff. 3 in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 145a
 
 **Information der Öffentlichkeit**[^145a-1]
 
-Nach Abschluss eines Tierversuchs veröffentlicht das BLV die Angaben nach Artikel 139 Absatz 1<sup>bis</sup> Buchstaben a–c sowie die endgültigen Angaben zur Anzahl Tiere pro Tierart und zum Schweregrad der Belastung.
+Nach Abschluss eines Tierversuchs veröffentlicht das BLV die folgenden Angaben:
 
-[^145a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+- a. den Titel des Versuchs;
+- b. das Fachgebiet;
+- c. den Versuchszweck nach international anerkannter Einteilung;
+- d. die Anzahl eingesetzter Tiere pro Tierart;
+- e. den Schweregrad der Belastung.
+
+[^145a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 146
 
@@ -2514,9 +2679,11 @@ Das BLV führt zuhanden der Bewilligungsbehörden ein Register der Entscheide zu
 Die verantwortliche Tierhalterin oder der verantwortliche Tierhalter des Betriebs, von dem das Tier abtransportiert wird, muss:
 
 - a. die für den Transport und die Ablieferung notwendigen Dokumente zum Voraus besorgen, damit der Transport und die Ablieferung rasch durchgeführt werden können;
-- b. allfällige Verletzungen und Krankheiten der Tiere schriftlich festhalten.
+- b.[^151-1] allfällige Verletzungen und Krankheiten der Tiere schriftlich festhalten, bei Klauentieren im Begleitdokument.
 
 <sup>2</sup> Für Personen, die für einen Markt verantwortlich sind, gilt Absatz 1 sinngemäss.
+
+[^151-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 152
 
@@ -2528,13 +2695,17 @@ Die Fahrerin oder der Fahrer muss:
 
 - a. sich vergewissern, dass die notwendigen Dokumente vorhanden sind;
 - b. nach dem Einladen den Transport schonend und ohne unnötige Verzögerungen durchführen;
-- c. die von den Tieren auf dem Transport erlittenen Verletzungen schriftlich festhalten;
+- c.[^152-1] die von den Tieren auf dem Transport erlittenen Verletzungen schriftlich festhalten, bei Klauentieren im Begleitdokument;
 - d. der Empfängerin oder dem Empfänger die Ankunft der Tiere umgehend melden;
-- e.[^152-1] bei der Übergabe von Klauentieren sowie von Tieren, die zur Schlachtung transportiert werden, die Fahrzeit und die Dauer des Transports schriftlich festhalten.
+- e.[^152-2] bei der Übergabe von Klauentieren sowie von Tieren, die zur Schlachtung transportiert werden, die Fahrzeit und die Dauer des Transports schriftlich festhalten, bei Klauentieren im Begleitdokument.
+
+<sup>1bis</sup> Die Dauer des Transports nach Absatz 1 Buchstabe e wird mit dem Eintragen der Belade- und der Entladezeit festgehalten, wobei die Beladezeit vor der Abfahrt eingetragen werden muss.[^152-3]
 
 <sup>2</sup> Die Fahrerin oder der Fahrer ist von der Übernahme bis zur Ablieferung an die Empfängerin oder den Empfänger für die Unterbringung und Betreuung der Tiere verantwortlich.
 
-[^152-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^152-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^152-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^152-3]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 152a
 
@@ -2641,18 +2812,19 @@ Stiere, die mehr als 18 Monate alt sind, müssen einen Nasenring tragen. Auf den
 - a. die Stiere vorwiegend im Freien in einer Herde oder in Laufställen als Gruppe gehalten wurden; und
 - b. spezielle Vorkehrungen für einen sicheren Transport und einen sicheren Ein‑ und Auslad getroffen worden sind.
 
-<sup>5</sup> Zuchtschalenwild darf nicht lebend zur Schlachtung transportiert werden, wenn es nicht vorgängig an den Transport gewöhnt worden ist.
+<sup>5</sup> Gehegewild darf nicht lebend zur Schlachtung transportiert werden, wenn es nicht vorgängig an den Transport gewöhnt worden ist.[^160-2]
 
 <sup>6</sup> Panzerkrebse sind während des Transports ausreichend feucht zu halten.
 
-<sup>7</sup> Lebende Frösche dürfen nicht aufeinander geschichtet transportiert werden. Kann die Haufenbildung während des Transports nicht verhindert werden, so sind die Tiere am Bestimmungsort unverzüglich aus den Transportbehältern herauszunehmen und in eine geeignete Umgebung zu verbringen.[^160-2]
+<sup>7</sup> Lebende Frösche dürfen nicht aufeinander geschichtet transportiert werden. Kann die Haufenbildung während des Transports nicht verhindert werden, so sind die Tiere am Bestimmungsort unverzüglich aus den Transportbehältern herauszunehmen und in eine geeignete Umgebung zu verbringen.[^160-3]
 
 <sup>8</sup> Werden Tiere während eines Versuchs oder belastete Mutanten transportiert, so sind die notwendigen Massnahmen zu treffen, damit ihr Wohlergehen möglichst geringfügig beeinträchtigt wird. Die Transportzeit ist kurz zu halten.
 
 <sup>9</sup> Beim Transport von Versuchstieren mit definiertem Hygienestatus sind die notwendigen Vorkehrungen zu treffen, damit Mikroorganismen weder ein- noch austreten können.
 
 [^160-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^160-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^160-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^160-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 161
 
@@ -2742,7 +2914,9 @@ Versandbehälter müssen ein Tiersymbol oder die Aufschrift «Lebende Tiere» tr
 - a. allseitig einsehbare Behälter;
 - b. Behälter, die in grösserer Zahl als ganze Sendung in speziell bezeichneten Fahrzeugen ohne Umlad transportiert werden.
 
-<sup>4</sup> Stapelbehälter müssen so gebaut sein, dass sie sich standfest stapeln lassen, die Lüftungsöffnungen beim Stapeln nicht verschlossen werden und keine Ausscheidungen in die unteren Behälter gelangen können.
+<sup>4</sup> Stapelbehälter müssen so gebaut sein, dass sie sich standfest stapeln lassen, die Lüftungsöffnungen beim Stapeln nicht verschlossen werden und keine oder nur wenig Ausscheidungen in die unteren Behälter gelangen können.[^167-1]
+
+[^167-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 168
 
@@ -2904,25 +3078,31 @@ Die Tötung von Wirbeltieren oder Panzerkrebsen ist ohne Betäubung zulässig:
 
 **Zulässige Betäubungsmethoden**[^179a-1]
 
-<sup>1</sup> Folgende Betäubungsverfahren sind zulässig für:
+<sup>1</sup> Folgende Betäubungsmethoden sind zulässig für:[^179a-2]
 
 <table>
 <tr><td>a. Equiden:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn;</td></tr>
 <tr><td>b. Rinder:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – pneumatische Schussapparate, bei denen sichergestellt ist, dass die Druckluft nicht in den Schädel eindringt, – Elektrizität;</td></tr>
-<tr><td>c. Schweine:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – Elektrizität, – Kohlendioxid-Gas;</td></tr>
+<tr><td>c.[^179a-3] Schweine:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – Elektrizität, – geeignete Gasmischung;</td></tr>
 <tr><td>d. Schafe und Ziegen:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – Elektrizität;</td></tr>
-<tr><td>e. Kaninchen:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – stumpfe Schussschlagbetäubung, – Elektrizität;</td></tr>
-<tr><td>f. Geflügel:</td><td>– Elektrizität, – stumpfer, kräftiger Schlag auf den Kopf, – Bolzenschuss, [tab] –[^179a-2] geeignete Gasmischung; lebende Küken dürfen bei diesem Vorgang nicht aufeinandergeschichtet werden;</td></tr>
+<tr><td>[tab] d<sup>bis</sup>.[^179a-4] Lamas und Alpakas:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – Elektrizität;</td></tr>
+<tr><td>e.[^179a-5] Kaninchen:</td><td>– Bolzen‑ oder Kugelschuss ins Gehirn, – stumpfe Schussschlagbetäubung;</td></tr>
+<tr><td>f.[^179a-6] Geflügel:</td><td>– Elektrizität, – stumpfer, kräftiger Schlag auf den Kopf, – stumpfe Schussschlagbetäubung, – Bolzenschuss ins Gehirn, – geeignete Gasmischung, – Betäubung durch niedrigen Atmosphärendruck;</td></tr>
 <tr><td>g. Laufvögel:</td><td>– Bolzenschuss ins Gehirn, – Elektrizität;</td></tr>
 <tr><td>h. Zuchtschalenwild:</td><td>– Bolzen- oder Kugelschuss ins Gehirn;</td></tr>
 <tr><td>i. Fische:</td><td>– stumpfer, kräftiger Schlag auf den Kopf, – Genickbruch, – Elektrizität, – mechanische Zerstörung des Gehirns;</td></tr>
-<tr><td>j. Panzerkrebse</td><td>– Elektrizität, – mechanische Zerstörung des Gehirns.</td></tr>
+<tr><td>j.[^179a-7] Panzerkrebse:</td><td>– Elektrizität.</td></tr>
 </table>
 
 <sup>2</sup> Das BLV kann nach Anhören der kantonalen Behörden weitere zulässige Betäubungsmethoden vorsehen.
 
 [^179a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^179a-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^179a-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-4]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-5]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-6]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-7]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 179b
 
@@ -2936,7 +3116,10 @@ Die Tötung von Wirbeltieren oder Panzerkrebsen ist ohne Betäubung zulässig:
 
 <sup>4</sup> Geflügel muss vor dem Entbluten betäubt werden, ausgenommen beim rituellen Schlachten.
 
+<sup>5</sup> Bei der Betäubung von Geflügel mit einer Gasmischung dürfen lebende Küken nicht aufeinandergeschichtet werden.[^179b-2]
+
 [^179b-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Die Berichtigung vom 27. Nov. 2018 betrifft nur den französischen Text ([AS 2018 4283](https://fedlex.data.admin.ch/eli/oc/2018/685)).
+[^179b-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 179c
 
@@ -2954,7 +3137,7 @@ Die Tötung von Wirbeltieren oder Panzerkrebsen ist ohne Betäubung zulässig:
 
 **Entblutung**[^179d-1]
 
-<sup>1</sup> Das Entbluten hat mittels Durchtrennen oder Anstechen von Hauptblutgefässen im Halsbereich zu erfolgen. Es muss möglichst rasch nach dem Betäuben und solange das Tier bewusstlos ist, vorgenommen werden.
+<sup>1</sup> Das Entbluten muss durch einen Schnitt in beide Halsschlagadern oder durch einen Schnitt in die Hauptblutgefässe an der Halsbasis mittels Bruststich erfolgen. Das Entbluten muss möglichst rasch nach dem Betäuben und solange das Tier bewusstlos ist, vorgenommen werden.[^179d-2]
 
 <sup>2</sup> Bis zum Eintritt des Todes durch Blutentzug müssen sich Tiere, die der Betäubungspflicht nach Artikel 21 TSchG unterliegen, in einem Zustand der Empfindungs- und Wahrnehmungslosigkeit befinden.
 
@@ -2965,6 +3148,7 @@ Die Tötung von Wirbeltieren oder Panzerkrebsen ist ohne Betäubung zulässig:
 <sup>5</sup> Fische können nach der Betäubung ausgenommen statt entblutet werden.
 
 [^179d-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179d-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### 2. Abschnitt: Verantwortlichkeiten bei der Schlachtung und Umgang mit den Tieren in den Schlachtbetrieben
 
@@ -3096,7 +3280,8 @@ An mindestens vier Tagen innerhalb von vier Jahren müssen sich weiterbilden:
 - a. Tierpflegerinnen und Tierpfleger;
 - b. Tierschutzbeauftragte, Versuchsleiterinnen und -leiter, versuchsdurchführende Personen sowie Leiterinnen und Leiter von Versuchstierhaltungen;
 - c. Personen, die vom BLV anerkannte Ausbildungen für Tierhalterinnen und Tierhalter anbieten;
-- d.[^190-2] Detailhandelsfachleute im Zoofachhandel mit einer Ausbildung nach Artikel 197.
+- d.[^190-2] Detailhandelsfachleute im Zoofachhandel mit einer Ausbildung nach Artikel 197;
+- e.[^190-3] Personen, die in Tierheimen mit mehr als fünf Pflegeplätzen oder bei anderer gewerbsmässiger Betreuung von mehr als fünf Tieren pro Tag für die Tierbetreuung verantwortlich sind.
 
 <sup>2</sup>
 
@@ -3110,6 +3295,7 @@ An mindestens einem Tag innerhalb von drei Jahren müssen sich weiterbilden:
 
 [^190-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^190-2]: Berichtigung vom 20. März 2018 ([AS 2018 1171](https://fedlex.data.admin.ch/eli/oc/2018/173)).
+[^190-3]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 191
 
@@ -3171,10 +3357,10 @@ Als Nachweis der Ausbildungen gelten:
 
 Als landwirtschaftliche Ausbildung im Sinne dieser Verordnung gelten:
 
-- a. eine berufliche Grundbildung aus dem Berufsfeld «Landwirtschaft und deren Berufe» mit einem eidgenössischen Berufsattest nach Artikel 37 BBG[^194-2] oder einem eidgenössischen Fähigkeitszeugnis nach Artikel 38 BBG;
+- a.[^194-2] eine berufliche Grundbildung als Landwirtin oder Landwirt mit einem eidgenössischen Berufsattest nach Artikel 37 BBG[^194-3] oder einem eidgenössischen Fähigkeitszeugnis nach Artikel 38 BBG;
 - b. eine höhere Berufsausbildung in den Berufen nach Buchstabe a;
 - c. eine Fachhochschul- oder Hochschulausbildung in den Berufen nach Buchstabe a;
-- d. eine gleichwertige Ausbildung in einem landwirtschaftlichen Spezialberuf.
+- d.[^194-4] eine gleichwertige Ausbildung in einem tierbezogenen landwirtschaftlichen Spezialberuf.
 
 <sup>2</sup>
 
@@ -3184,7 +3370,9 @@ Der beruflichen Grundbildung nach Absatz 1 Buchstabe a gleichgestellt ist eine a
 - b. einer ausgewiesenen praktischen Tätigkeit während mindestens drei Jahren als Bewirtschafterin, Bewirtschafter, Mitbewirtschafterin, Mitbewirtschafter, Angestellte oder Angestellter auf einem Landwirtschaftsbetrieb.
 
 [^194-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^194-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^194-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 195
 
@@ -3222,7 +3410,9 @@ Als Ausbildung in einem Fischereiberuf gelten:
 
 <sup>2</sup> Die Ausbildung umfasst einen theoretischen und einen praktischen Teil. Der praktische Teil muss genügend Übungen beinhalten.
 
-<sup>3</sup> Das EDI regelt Lernziele, Form, Inhalt und Umfang des theoretischen und des praktischen Teils der Ausbildung.
+<sup>3</sup> Das EDI regelt Lernziele, Form, Inhalt und Umfang der Ausbildung. Es kann Praktika vorsehen.[^197-1]
+
+[^197-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 198
 
@@ -3234,6 +3424,55 @@ Als Ausbildung in einem Fischereiberuf gelten:
 
 <sup>3</sup> Das EDI regelt Lernziele, Form, Inhalt und Umfang der Ausbildung.
 
+### 2*a*. Abschnitt: Ausbildungsorganisationen und Praktikumsbetriebe
+
+[^chap9-sec2a-1]
+
+[^chap9-sec2a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 198a
+
+**Anforderungen an Ausbildungsorganisationen**
+
+<sup>1</sup>
+
+Fachspezifische berufsunabhängige Ausbildungen können angeboten werden von:
+
+- a. einer öffentlich-rechtlichen Institution;
+- b. einer von der kantonalen Fachstelle beauftragten Organisation;
+- c. einem Berufsverband;
+- d. einer anderen Organisation, die den Nachweis erbringt, dass sie über die für die Ausbildung qualifizierten Lehrkräfte verfügt und über ein gültiges Zertifikat ISO 21001:2018[^198a-1] oder eduQua:2021[^198a-2] oder eine gleichwertige Zertifizierung für Institutionen in der Erwachsenenbildung verfügt.
+
+<sup>2</sup> Die Zertifizierung nach Absatz 1 Buchstabe d muss von einer nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^198a-3] akkreditierten Zertifizierungsstelle für Managementsysteme erteilt worden sein.
+
+<sup>3</sup> Gibt es für eine fachspezifische berufsunabhängige Ausbildung keine oder nur sehr wenige Anbieter, so kann das BLV im Einzelfall die Ausbildung einer Organisation anerkennen, die die Anforderungen nach Absatz 1 nicht erfüllt. Dies gilt nicht für Ausbildungen nach Artikel 203*a*.
+
+[^198a-1]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.sunv.ch](https://www.snv.ch).
+[^198a-2]: Die aufgeführte Norm kann kostenlos abgerufen werden unter: [https://alice.ch](https://alice.ch) &gt; Qualität &gt; Qualitätslabel eduQua.
+[^198a-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 198b
+
+**Kontrolle der Ausbildungsorganisationen**
+
+<sup>1</sup> Das BLV kann die Ausbildungsorganisationen stichprobenweise und bei der Meldung von Mängeln vor Ort kontrollieren.
+
+<sup>2</sup> Kontrollen, die zu Beanstandungen geführt haben, können der Ausbildungsorganisation nach der Gebührenverordnung BLV vom 30. Oktober 1985[^198b-1] nach Zeitaufwand in Rechnung gestellt werden.
+
+[^198b-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+
+#### Art. 198c
+
+**Anforderungen an Praktikumsbetriebe**
+
+<sup>1</sup> Ein Tierhaltungsbetrieb, der ein Praktikum im Rahmen einer Aus- oder Weiterbildung nach dieser Verordnung anbietet, muss über einen Tierbestand verfügen, der in Grösse und Art mindestens demjenigen entspricht, den die Praktikantin oder der Praktikant zu betreuen beabsichtigt. Die für die Betreuung der Tiere verantwortliche Person muss über die erforderliche Qualifikation zur Betreuung der Tiere verfügen.
+
+<sup>2</sup> Das EDI kann festlegen, dass ein Praktikum teilweise im eigenen Tierhaltungsbetrieb absolviert werden kann. In diesem Fall muss eine externe Person für die Begleitung der Praktikantin oder des Praktikanten beigezogen werden. Die beigezogene Person muss über die erforderliche Qualifikation zur Betreuung der Tiere verfügen.
+
+<sup>3</sup> Die Praktikantin oder der Praktikant muss direkt durch die für die Betreuung der Tiere verantwortliche Person oder, bei einem Praktikum im eigenen Betrieb, durch die beigezogene externe Person angewiesen werden.
+
+<sup>4</sup> Ein Dienstleistungsbetrieb, der ein Praktikum im Rahmen einer Aus- oder Weiterbildung nach dieser Verordnung anbietet, muss diejenigen Dienstleistungen anbieten, die die Praktikantin oder der Praktikant anzubieten beabsichtigt. Die für den Betrieb verantwortliche Person muss über die erforderliche Qualifikation zum Anbieten der betreffenden Dienstleistung verfügen.
+
 ### 3. Abschnitt: Anerkennung und Organisation der Aus- und Weiterbildungen
 
 [^chap9-sec3-1]
@@ -3242,40 +3481,58 @@ Als Ausbildung in einem Fischereiberuf gelten:
 
 #### Art. 199
 
-**Anerkennung durch das BLV und die kantonale Behörde**
+**Anerkennung: Zuständigkeiten[^199-1]**
 
-<sup>1</sup> Das BLV anerkennt Ausbildungen nach Artikel 197 und Kurse nach Artikel 198 Absatz 2. Es veröffentlicht die Liste der anerkannten Ausbildungen.[^199-1]
+<sup>1</sup> Das BLV anerkennt fachspezifische berufsunabhängige Ausbildungen sowie Kurse nach Artikel 198 Absatz 2. Es veröffentlicht die Liste der anerkannten Ausbildungen.[^199-2]
 
 <sup>2</sup> Es kann Organisationen mit der Durchführung oder der Qualitätskontrolle von Aus- und Weiterbildungen beauftragen. Pflichtenheft und Qualitätskriterien sind im Leistungsauftrag zu umschreiben.
 
 <sup>3</sup> Die kantonale Behörde kann im Einzelfall eine andere als die verlangte Ausbildung anerkennen, wenn die betreffende Person nachweislich über vergleichbare Kenntnisse und Fähigkeiten oder über einen Beruf mit vergleichbaren Voraussetzungen verfügt. Sie kann bei Bedarf diese Personen verpflichten, eine ergänzende Ausbildung zu absolvieren.
 
-<sup>4</sup> Die kantonale Behörde anerkennt die Weiterbildung im Tierversuchsbereich.[^199-2]
+<sup>4</sup> Die kantonale Behörde anerkennt die Weiterbildung im Tierversuchsbereich.[^199-3]
 
-[^199-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^199-2]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^199-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^199-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^199-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 199a
+
+**Anerkennung: Kriterien und Verfahren**[^199a-1]
+
+<sup>1</sup> Das Gesuch um Anerkennung einer fachspezifischen berufsunabhängigen Ausbildung oder eines Kurses nach Artikel 198 Absatz 2 muss dem BLV zusammen mit der Dokumentation und dem Stundenplan in elektronischer Form zugestellt werden.
+
+<sup>2</sup> Die Dokumentation muss Angaben über Lernziele, Form, Inhalt und Umfang der Ausbildung sowie über die Ausbildung und Berufserfahrung der Lehrkräfte enthalten.
+
+<sup>3</sup>
+
+Für fachspezifische berufsunabhängige Ausbildungen muss sie zudem Angaben enthalten über:
+
+- a. die Erfüllung der Anforderungen an Ausbildungsorganisationen (Art. 198*a*); zertifizierte Organisationen müssen dem BLV den Bericht der Zertifizierungsstelle einreichen;
+- b. die Kontrolle der Praktikumsvorgaben;
+- c. die Prüfung.
+
+<sup>4</sup> Hat die Gesuchstellerin oder der Gesuchsteller eine eigene Tierhaltung oder werden Teile der Ausbildung in Tierhaltungen absolviert, so ist dem Gesuch ein Kontrollbericht der zuständigen kantonalen Vollzugsbehörde für die Tierhaltungen beizulegen. Dieser muss in den letzten zwölf Monaten erstellt worden sein. Die Anerkennung kann abgelehnt werden, wenn eine Tierhaltung wesentliche Mängel aufweist.
+
+<sup>5</sup> Die Anerkennung wird auf fünf Jahre befristet.
+
+<sup>6</sup> Beim Gesuch um Erneuerung der Anerkennung muss die Dokumentation nach den Absätzen 1−4 eingereicht sowie der Besuch der Weiterbildung der Lehrkräfte nach Artikel 190 Absatz 1 Buchstabe c nachgewiesen werden.
+
+[^199a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 200
 
-**Anerkennungskriterien und Anerkennungsverfahren**
+**Anerkennung: Massnahmen bei Mängeln**[^200-1]
 
-<sup>1</sup> Das Gesuch um Anerkennung einer Ausbildung nach Artikel 197 oder eines Kurses nach Artikel 198 Absatz 2 muss dem BLV zusammen mit der Dokumentation und dem Stundenplan in elektronischer Form zugestellt werden.[^200-1]
+<sup>1</sup>
 
-<sup>2</sup> Die Dokumentation muss Angaben über Lernziele, Form, Inhalt und Umfang der Ausbildung sowie über die Ausbildung und Berufserfahrung der Lehrkräfte enthalten. Für Ausbildungen nach Artikel 197 muss sie zudem Angaben über die Prüfung enthalten.[^200-2]
+Das BLV kann die Anerkennung von fachspezifischen berufsunabhängigen Ausbildungen oder von Kursen nach Artikel 198 Absatz 2 widerrufen, wenn:
 
-<sup>3</sup> Die Anerkennung wird auf fünf Jahre befristet.
+- a. die Durchführung der Ausbildung nicht der Tierschutzgesetzgebung entspricht oder erheblich von der mit dem Gesuch um Anerkennung eingereichten Dokumentation abweicht; oder
+- b. die Tierhaltung der Anbieterin oder des Anbieters oder eine Tierhaltung, in der Teile der Ausbildung absolviert werden, wesentliche Mängel aufweist.
 
-<sup>4</sup> Die Anerkennung kann vom BLV widerrufen werden, wenn die Durchführung nicht dieser Verordnung entspricht oder erheblich von der mit dem Gesuch um Anerkennung eingereichten Dokumentation abweicht.[^200-3]
+<sup>2</sup> Es kann Anbieterinnen und Anbietern von fachspezifischen berufsunabhängigen Ausbildungen oder von Kursen nach Artikel 198 Absatz 2 die Ausstellung von Ausbildungsnachweisen nach Artikel 193 Absatz 1 Buchstaben b und c untersagen, wenn eine der Voraussetzungen nach Absatz 1 erfüllt ist.
 
-<sup>5</sup> Beim Gesuch um Erneuerung der Anerkennung muss die Dokumentation nach Absatz 2 eingereicht sowie der Besuch der Weiterbildung nach Artikel 190 Absatz 1 nachgewiesen werden.[^200-4]
-
-<sup>6</sup> Das BLV kann Anbieterinnen und Anbietern von Ausbildungen nach Artikel 197 oder Kursen nach Artikel 198 Absatz 2 die Ausstellung von Ausbildungsnachweisen nach Artikel 193 Absatz 1 Buchstaben b und c untersagen, wenn die Durchführung der Tierschutzgesetzgebung widerspricht oder erheblich von der mit dem Gesuch um Anerkennung eingereichten Dokumentation abweicht.[^200-5]
-
-[^200-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-2]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-3]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^200-4]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-5]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 200a
 
@@ -3295,7 +3552,7 @@ Personen mit einer ausländischen Berufsqualifikation müssen ihren Abschluss vo
 [^200a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^200a-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^200a-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^200a-4]: Die Liste der zuständigen Behörden findet sich unter: www.sbfi.admin.ch &gt; Bildung &gt; Anerkennung ausländischer Diplome.
+[^200a-4]: Die Liste der zuständigen Behörden findet sich unter: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Bildung &gt; Anerkennung ausländischer Diplome.
 [^200a-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^200a-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^200a-7]: [SR 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
@@ -3318,29 +3575,41 @@ Personen mit einer ausländischen Berufsqualifikation müssen ihren Abschluss vo
 
 **Prüfung**
 
-<sup>1</sup> Die Ausbildungen nach Artikel 197 sind mit einer Prüfung abzuschliessen.[^202-1]
+<sup>1</sup> Die fachspezifischen berufsunabhängigen Ausbildungen sind mit einer Prüfung abzuschliessen.[^202-1]
 
 <sup>2</sup> Das EDI erlässt die Prüfungsvorschriften.
 
-[^202-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^202-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### 4. Abschnitt: Anforderungen an die Ausbilderinnen und Ausbilder im Bereich Tierhaltung
 
 #### Art. 203
 
-**Ausbilderinnen und Ausbilder von Tierhalterinnen und Tierhaltern**
+**Ausbildnerinnen und Ausbildner von Tierhalterinnen und Tierhaltern**[^203-1]
 
-<sup>1</sup> Wer Tierhalterinnen und Tierhaltern eine Ausbildung nach Artikel 192 Absatz 1 Buchstabe b oder c über die Haltung von Tieren und den Umgang mit ihnen vermittelt, muss über eine Ausbildung nach Artikel 197 und über mindestens drei Jahre Erfahrung im Umgang mit der betreffenden Tierart verfügen. Die Ausbildung ist mit einer Prüfung abzuschliessen. Das EDI erlässt die Prüfungsvorschriften.
+<sup>1</sup>
 
-<sup>2</sup>
+Wer Tierhalterinnen und Tierhalter im Rahmen einer fachspezifischen berufsunabhängigen Ausbildung oder eines Kurses nach Artikel 198 Absatz 2 ausbildet, muss über eine der folgenden Ausbildungen verfügen:
 
-Das BLV anerkennt Kurse für die Ausbildung von Ausbilderinnen und Ausbildern, wenn sie zusätzlich zu den Anforderungen nach Artikel 197 folgende Inhalte vermitteln:
+- a. Berufs- oder Hochschulausbildung, die sich auf das unterrichtete Fachgebiet bezieht;
+- b. fachspezifische berufsunabhängige Ausbildung und mindestens drei Jahre Erfahrung im Umgang mit der betreffenden Tierart; oder
+- c. fachspezifische berufsunabhängige Ausbildung, die zusätzlich die Anforderungen nach Artikel 203*a* erfüllt.
+
+<sup>2</sup> Das BLV kann im Einzelfall andere fachspezifische Kenntnisse zulassen, wenn deren Gleichwertigkeit nachgewiesen wird.
+
+[^203-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 203a
+
+**Fachspezifische berufsunabhängige Ausbildung für Ausbildnerinnen und Ausbildner von Tierhalterinnen und Tierhaltern**[^203a-1]
+
+Die fachspezifische berufsunabhängige Ausbildung nach Artikel 203 Absatz 1 Buchstabe c muss zusätzlich zu den Anforderungen nach Artikel 197 folgende Inhalte vermitteln:
 
 - a. didaktisches und rechtliches Grundwissen;
 - b. Grundlagen der Erwachsenenbildung;
 - c. Kursorganisation.
 
-<sup>3</sup> Die Ausbildung muss bei einer Organisation nach Artikel 205 absolviert werden.
+[^203a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 204
 
@@ -3348,34 +3617,11 @@ Das BLV anerkennt Kurse für die Ausbildung von Ausbilderinnen und Ausbildern, w
 
 Wer Tierhalterinnen und Tierhaltern eine Ausbildung nach Artikel 32 zur Vornahme von Eingriffen unter Schmerzausschaltung vermittelt, muss über ein tierärztliches Diplom verfügen.
 
-#### Art. 205
+#### Art. 205 und 206
 
-**Anforderungen an Ausbildungsstätten**[^205-1]
+[^205206-1]
 
-<sup>1</sup>
-
-Ausbildungen nach Artikel 203 können angeboten werden von:
-
-- a. einer öffentlich-rechtlichen Institution;
-- b. einer von der kantonalen Fachstelle beauftragten Organisation;
-- c. einer anderen Organisation, die den Nachweis erbringt, dass sie über die für die Ausbildung qualifizierten Lehrkräfte verfügt und über ein gültiges Zertifikat ISO 29990:2010[^205-2] oder eduQua:2012[^205-3] oder eine gleichwertige Zertifizierung für Institutionen in der Erwachsenenbildung verfügt.
-
-<sup>2</sup> Die Zertifizierung nach Absatz 1 Buchstabe c muss von einer nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^205-4] akkreditierten Zertifizierungsstelle für Managementsysteme erteilt worden sein.
-
-[^205-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^205-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^205-3]: Die aufgeführte Norm kann eingesehen und bezogen werden bei der Geschäftsstelle eduQua, Oerlikonerstrasse 38, 8057 Zürich.
-[^205-4]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-
-#### Art. 206
-
-**Anforderungen an Praktikumsbetriebe**
-
-<sup>1</sup> Ein Betrieb, auf dem ein Praktikum im Rahmen einer Aus- oder Weiterbildung nach dieser Verordnung absolviert wird, muss über einen Tierbestand verfügen, der in Grösse und Art mindestens demjenigen entspricht, den die Praktikantin oder der Praktikant zu betreuen beabsichtigt. Die für den Betrieb verantwortliche Person muss über die erforderliche Qualifikation zur Betreuung des Bestandes verfügen.[^206-1]
-
-<sup>2</sup> Der Praktikant oder die Praktikantin muss direkt durch die für die Betreuung der Tiere verantwortliche Person angewiesen werden.
-
-[^206-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^205206-1]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ## 9*a*. Kapitel: Widerhandlungen
 
@@ -3389,16 +3635,19 @@ Nach Artikel 28 Absatz 3 TSchG wird bestraft, sofern nicht Artikel 26 TSchG anwe
 
 - a. Delfine oder andere Walartige (*Cetacea*) einführt (Art. 7 Abs. 3 TSchG);
 - b. gegen die Vorschriften über die Schutzdienstausbildung mit Hunden verstösst (Art. 74);
-- c. gegen die Vorschriften über die Ausbildung von Jagd-, Herdenschutz- und Treibhunden verstösst (Art. 75);
+- c.[^206a-1] gegen die Vorschriften über die Ausbildung von Jagdhunden verstösst (Art. 75);
 - d. ohne Bewilligung Geräte, die elektrisieren oder für Hunde sehr unangenehme akustische Signale aussenden, zu therapeutischen Zwecken einsetzt oder die entsprechenden Dokumentationspflichten nicht einhält (Art. 76 Abs. 3 und 4);
-- d<sup>bis</sup>.[^206a-1] den Informationspflichten nach Artikel 76*a* Absatz 1 nicht nachkommt;
+- d<sup>bis</sup>.[^206a-2] den Informationspflichten nach Artikel 76*d* Absatz 1 nicht nachkommt;
 - e. gegen seine Meldepflicht bei Vorfällen mit Hunden verstösst (Art. 78);
 - f. ohne Bewilligung serienmässig hergestellte Aufstallungssysteme und Stalleinrichtungen für Nutztiere in Verkehr bringt (Art. 81);
 - g. die Tätigkeiten nach Artikel 101 Buchstabe b, c oder e ausübt und über keine Bewilligung verfügt oder nicht die entsprechenden personellen Anforderungen nach Artikel 102 erfüllt;
-- h. als Betreiberin eines Schlachtbetriebs den Verpflichtungen nach Artikel 177*a* nicht nachkommt;
-- i. als Ausbildnerin oder Ausbildner die Anforderungen nicht erfüllt (Art. 203 und 204).
+- h.[^206a-3] als Betreiberin eines Schlachtbetriebs den Verpflichtungen nach Artikel 179*e* nicht nachkommt;
+- i.[^206a-4] als Ausbildnerin oder Ausbildner die Anforderungen nicht erfüllt (Art. 203–204).
 
-[^206a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^206a-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^206a-2]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^206a-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^206a-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ## 10. Kapitel: Verwaltungsaufgaben und Vollzug
 
@@ -3428,7 +3677,7 @@ Das BLV beschafft die wissenschaftlichen Grundlagen für die Vorgaben und Empfeh
 
 <sup>2</sup> Es kann die zuständigen kantonalen Behörden verpflichten, die Bewilligungen und Ergebnisse der amtlichen Kontrollen in das ASAN einzugeben.[^209-1]
 
-<sup>3</sup> und <sup>4</sup> …[^209-2]
+<sup>3 und <sup>4</sup></sup> …[^209-2]
 
 <sup>5</sup> …[^209-3]
 
@@ -3528,7 +3777,7 @@ Die kantonalen Behörden teilen dem BLV sämtliche Strafentscheide und Einstellu
 
 <sup>3</sup> Die kantonale Fachstelle erstellt jährlich nach Vorgabe des BLV einen Bericht über ihre Kontrolltätigkeit und über die Massnahmen, die sie getroffen hat.
 
-<sup>4</sup> und <sup>5</sup> …[^213-4]
+<sup>4 und <sup>5</sup></sup> …[^213-4]
 
 [^213-1]: Fassung gemäss Anhang 2 Ziff. 1 der Kontrollkoordinationsverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^213-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
@@ -3605,7 +3854,7 @@ Die kantonale Fachstelle kann für die nachstehenden Dienstleistungen folgende G
 <tr><th></th><th></th><th>Fr.</th></tr>
 <tr><td>a. Bewilligungen und Verfügungen, je nach Zeitaufwand</td><td></td><td>100.– bis 5000.–</td></tr>
 <tr><td>b. Kontrollen, die zu Beanstandungen geführt haben</td><td></td><td>nach Zeitaufwand</td></tr>
-<tr><td>c. besondere Dienstleistungen, die einen Aufwand verursacht haben, der über die übliche Amtstätigkeit hinausgeht</td><td>[tab]</td><td>nach Zeitaufwand</td></tr>
+<tr><td>c. besondere Dienstleistungen, die einen Aufwand verursacht haben, der über die übliche Amtstätigkeit hinausgeht</td><td></td><td>nach Zeitaufwand</td></tr>
 </table>
 
 ## 11. Kapitel: Schlussbestimmungen
@@ -3697,6 +3946,40 @@ Bis am 1. Januar 2017 müssen die Anforderungen an die Ausbildung erfüllt sein:
 
 [^225b-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
+#### Art. 225c
+
+**Ausnahmebestimmung zur Änderung vom 20. Dezember 2024**[^225c-1]
+
+Personen, die beim Inkrafttreten dieser Änderung eine Tätigkeit ausüben, für die nach dieser Verordnung eine landwirtschaftliche Ausbildung notwendig ist, und über eine Ausbildung aus dem Berufsfeld «Landwirtschaft und deren Berufe» nach bisherigem Recht verfügen, müssen die Anforderungen nach Artikel 194 Absatz 1 nicht erfüllen.
+
+[^225c-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 225d
+
+**Übergangsbestimmungen zur Änderung vom 20. Dezember 2024**[^225d-1]
+
+<sup>1</sup> In Abweichung von Artikel 19 Absatz 2 darf bis zum 31. Januar 2040 durch fachkundige Personen nach Artikel 15 Absatz 3 bei Lämmern bis zum Alter von sieben Tagen der Schwanz ohne Schmerzausschaltung mittels Gummiring-Ligatur auf mindestens 15 cm Länge gekürzt werden.
+
+<sup>2</sup> In Abweichung von Artikel 59 Absatz 3 dürfen Paarhaltungen von Equiden, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 bereits langjährig bestehen und bei denen ein Equide mit einem anderen Equiden, der nicht als Artgenosse gilt, gehalten wird, bis zum Verkauf oder Tod eines der beiden Tiere bestehen bleiben, sofern eine kantonale Ausnahmebewilligung für diese Haltung vorliegt.
+
+<sup>3</sup> Betriebe, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 eine technische Ferkelamme einsetzen, müssen die Anforderungen nach Artikel 50*a* ab dem 1. Februar 2040 erfüllen.
+
+<sup>4</sup> Versuchstierhaltungen, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 bereits bestehen, müssen die Anforderungen betreffend den Unterschlupf nach Anhang 3 ab dem 1. Februar 2026 erfüllen.
+
+<sup>5</sup> Versuchstierhaltungen, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 bereits bestehen und die belastete Linien oder Stämme züchten oder halten, bei denen die Belastung durch belastungsmindernde Massnahmen nicht vermieden werden kann, müssen die Anforderung, wonach die Anzahl der Tiere vorgängig durch eine Tierversuchsbewilligung begründet werden muss (Art. 118*a* Abs. 2), ab dem 1. Februar 2026 erfüllen.
+
+<sup>6</sup> Tierschutzbeauftragte, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 bei Tierversuchen mit einer gültigen Tierversuchsbewilligung die Funktion der Bereichsleitung oder der Versuchsleitung wahrnehmen, dürfen diese Funktion bis zum Ablauf der entsprechenden Bewilligung ausüben. Für Tierversuche, deren Bewilligung nach Inkrafttreten dieser Änderung erteilt wird, muss das Verbot nach Artikel 129 Absatz 1, als Tierschutzbeauftragte oder Tierschutzbeauftragter weitere Funktionen wahrzunehmen, ab dem 1. Februar 2027 erfüllt sein.
+
+<sup>7</sup> Institute und Laboratorien müssen die Anforderungen betreffend die Zuständigkeit der Tierschutzbeauftragten nach Artikel 129*a* Buchstaben b und c ab dem 1. Februar 2026 erfüllen.
+
+<sup>8</sup> Wer fachspezifische berufsunabhängige Ausbildungen anbietet, die vor Inkrafttreten der Änderung vom 20. Dezember 2024 anerkannt wurden, muss die Anforderungen nach Artikel 198*a* ab dem 1. Februar 2027 erfüllen.
+
+<sup>9</sup> Tierhaltungen mit Schafen, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 bereits bestehen, müssen die Anforderung betreffend Fressplätze nach Anhang 1 Tabelle 4 Ziffer 23 ab dem 1. Februar 2026 erfüllen.
+
+<sup>10</sup> Tierhaltungen mit Haushühnern, die beim Inkrafttreten der Änderung vom 20. Dezember 2024 bereits bestehen, müssen die Anforderung der minimalen Grundfläche von 2 m<sup>2</sup> nach Anhang 1 Tabelle 9-1 Anmerkung 7 ab dem 1. Februar 2026 erfüllen.
+
+[^225d-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 ### 3. Abschnitt: Inkrafttreten
 
 #### Art. 226
@@ -3711,7 +3994,7 @@ Anhang 1[^t-1]
 
 ## Mindestanforderungen für das Halten von Haustieren
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) und Ziff. II der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), Ziff. II der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) und vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Vorbemerkungen
 
@@ -3722,25 +4005,25 @@ Tabelle 1
 ## Rinder
 
 <table>
-<tr><th>Tierkategorie</th><th></th><th>Kälber</th><th></th><th></th><th>Jungtiere</th><th></th><th></th><th></th><th colspan="3">Kühe und hochträchtige Erstkalbende<sup>1</sup> mit Widerristhöhe von</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>bis 2 Wochen</th><th>bis 3 Wochen</th><th>4 Wochen bis 4 Monate</th><th>bis 200 kg</th><th>200–300 kg</th><th>300–400 kg</th><th>über 400 kg</th><th>125 ± 5 cm</th><th>135 ± 5 cm</th><th colspan="3">145 ± 5 cm</th></tr>
-<tr><td>1 Anbindehaltung<sup>2</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>11 Standplatzbreite, pro Tier</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td colspan="3">120<sup>3</sup></td></tr>
-<tr><td>12 Standplatzlänge</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>121 bei Kurzstand<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td colspan="3">195<sup>3</sup></td></tr>
-<tr><td>122 bei Mittellangstand</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td colspan="3">240<sup>3</sup></td></tr>
-<tr><td>2 Boxenhaltung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>21 Breite</td><td>cm</td><td>85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
-<tr><td>22 Länge</td><td>cm</td><td>130</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
-<tr><td>3 Gruppenhaltung im Laufstall</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>31 Fläche des eingestreuten Liegebereichs in Systemen ohne Liegeboxen, pro Tier</td><td>m<sup>2</sup></td><td>–</td><td>1,0<sup>6</sup></td><td>1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td>2,0<sup>8</sup></td><td>2,5<sup>8</sup></td><td>3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,53</td><td colspan="3">5,0<sup>3</sup></td></tr>
-<tr><td>32 Liegeboxen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>321 Boxenbreite, pro Tier</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>110<sup>3</sup></td><td>120<sup>3, 13</sup></td><td colspan="3">125<sup>3</sup></td></tr>
-<tr><td>322 Boxenlänge wandständig</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>160</td><td>190</td><td>210</td><td>240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td colspan="3">260<sup>3</sup></td></tr>
-<tr><td>323 Boxenlänge gegenständig</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>150</td><td>180</td><td>200</td><td>220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td colspan="3">235<sup>3</sup></td></tr>
-<tr><td>33 Fressplatzbreite, pro Tier</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td colspan="3">78<sup>9</sup></td></tr>
-<tr><td>34 Fressplatztiefe einschliesslich Laufgang<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td colspan="3">330<sup>11</sup></td></tr>
-<tr><td>35 Laufgang hinter Boxenreihe<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td colspan="3">260<sup>12</sup></td></tr>
+<tr><th>Tierkategorie</th><th></th><th>Kälber</th><th></th><th></th><th>Jungtiere</th><th></th><th></th><th></th><th colspan="3">Kühe und hochträchtige Erstkalbende<sup>1</sup> mit Widerristhöhe von</th></tr>
+<tr><th></th><th></th><th>bis 2 Wochen</th><th>bis 3 Wochen</th><th>4 Wochen bis 4 Monate</th><th>bis 200 kg</th><th>200–300 kg</th><th>300–400 kg</th><th>über 400 kg</th><th>120–130 cm</th><th>130–140 cm</th><th>140–150 cm</th></tr>
+<tr><td>1 Anbindehaltung<sup>2</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Standplatzbreite, pro Tier</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td>120<sup>3</sup></td></tr>
+<tr><td>12 Standplatzlänge</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>121 bei Kurzstand<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td>195<sup>3</sup></td></tr>
+<tr><td>122 bei Mittellangstand</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td>240<sup>3</sup></td></tr>
+<tr><td>2 Boxenhaltung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Breite</td><td>cm</td><td>85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>22 Länge</td><td>cm</td><td>130</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>3 Gruppenhaltung im Laufstall</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 Fläche des eingestreuten Liegebereichs in Systemen ohne Liegeboxen, pro Tier</td><td>m<sup>2</sup></td><td>–</td><td>1,0<sup>6</sup></td><td>1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td>2,0<sup>8</sup></td><td>2,5<sup>8</sup></td><td>3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,53</td><td>5,0<sup>3</sup></td></tr>
+<tr><td>32 Liegeboxen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>321 Boxenbreite, pro Tier</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>110<sup>3</sup></td><td>120<sup>3, 13</sup></td><td>125<sup>3</sup></td></tr>
+<tr><td>322 Boxenlänge wandständig</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>160</td><td>190</td><td>210</td><td>240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td>260<sup>3</sup></td></tr>
+<tr><td>323 Boxenlänge gegenständig</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>150</td><td>180</td><td>200</td><td>220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td>235<sup>3</sup></td></tr>
+<tr><td>33 Fressplatzbreite, pro Tier</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td>78<sup>9</sup></td></tr>
+<tr><td>34 Fressplatztiefe einschliesslich Laufgang<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td>330<sup>11</sup></td></tr>
+<tr><td>35 Laufgang hinter Boxenreihe<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td>260<sup>12</sup></td></tr>
 </table>
 
 Anmerkungen zu Tabelle 1 – Rinder
@@ -3777,23 +4060,23 @@ Tabelle 3
 ## Schweine (ausgenommen Minipigs)
 
 <table>
-<tr><th>Tierkategorie</th><th></th><th colspan="2">abgesetzte Ferkel</th><th></th><th>Schweine<sup>1</sup></th><th colspan="2"></th><th></th><th colspan="2"></th><th>Sauen</th><th>Zuchteber</th></tr>
-<tr><th></th><th></th><th>bis 15 kg</th><th colspan="2">15–25 kg</th><th>25–60 kg</th><th>60–85 kg</th><th colspan="3">85–110 kg</th><th>110–160 kg</th><th></th><th></th></tr>
-<tr><td>1 Fressplatz</td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>11 Fressplatzbreite pro Tier bei Gruppenhaltung</td><td>cm</td><td>12</td><td colspan="2">18</td><td>27</td><td>30</td><td colspan="3">33</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
-<tr><td>2 Bodenflächen</td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>21 Kastenstände, Fressliegebuchten</td><td>cm</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>65×190<sup>4</sup></td><td>–</td></tr>
-<tr><td>22 Gangbreite bei Fressliegebuchten</td><td>cm</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>180</td><td>–</td></tr>
-<tr><td>23 Fressstände, verschliessbar</td><td>cm</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>45×160</td><td>–</td></tr>
-<tr><td>3 Liegefläche</td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>31 Gesamtfläche pro Tier<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td colspan="2">0,35</td><td>0,60</td><td>0,75</td><td colspan="3">0,90</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
-<tr><td>32 davon Liegefläche pro Tier<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td colspan="2">0,25</td><td>0,40</td><td>0,50</td><td colspan="3">0,60</td><td>0,95</td><td>–</td><td>3</td></tr>
-<tr><td>321 bis 6 Tiere</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
-<tr><td>322 7–20 Tiere</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
-<tr><td>323 über 20 Tiere</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
-<tr><td>4 Am 1. Juli 1997 bestehende Abferkelbuchten</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
-<tr><td>5 Nach dem 1. Juli 1997 eingerichtete Abferkelbuchten</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
-<tr><td>6 Neu eingerichtete Abferkelbuchten</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
+<tr><th>Tierkategorie</th><th></th><th colspan="2">abgesetzte Ferkel</th><th>Schweine<sup>1</sup></th><th colspan="2"></th><th colspan="2"></th><th></th><th></th><th>Sauen</th><th>Zuchteber</th></tr>
+<tr><th></th><th></th><th>bis 15 kg</th><th>15–25 kg</th><th>25–60 kg</th><th>60–85 kg</th><th colspan="2">85–110 kg</th><th colspan="2">110–130 kg</th><th>130–160 kg</th><th></th><th></th></tr>
+<tr><td>1 Fressplatz</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>11 Fressplatzbreite pro Tier bei Gruppenhaltung</td><td>cm</td><td>12</td><td>18</td><td>27</td><td>30</td><td colspan="2">33</td><td colspan="2">36</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
+<tr><td>2 Bodenflächen<sup>3a</sup></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>21 Kastenstände, Fressliegebuchten</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>65×190<sup>4</sup></td><td>–</td></tr>
+<tr><td>22 Gangbreite bei Fressliegebuchten</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>180</td><td>–</td></tr>
+<tr><td>23 Fressstände, verschliessbar</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>45×160</td><td>–</td></tr>
+<tr><td>3 Liegefläche<sup>3a</sup></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>31 Gesamtfläche pro Tier<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td>0,35</td><td>0,60</td><td>0,75</td><td colspan="2">0,90</td><td colspan="2">1,30</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
+<tr><td>32 davon Liegefläche pro Tier<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td>0,25</td><td>0,40<sup>8a</sup></td><td>0,50</td><td colspan="2">0,60</td><td colspan="2">0,75</td><td>0,95</td><td>–</td><td>3</td></tr>
+<tr><td>321 bis 6 Tiere</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
+<tr><td>322 7–20 Tiere</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
+<tr><td>323 über 20 Tiere</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
+<tr><td>4 Am 1. Juli 1997 bestehende Abferkelbuchten<sup>3a</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
+<tr><td>5 Nach dem 1. Juli 1997 eingerichtete Abferkelbuchten<sup>3a</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
+<tr><td>6 Nach dem 1. September 2008 eingerichtete Abferkelbuchten<sup>3a</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
 </table>
 
 Anmerkungen zu Tabelle 3 – Schweine (ausgenommen Minipigs)
@@ -3802,11 +4085,13 @@ Anmerkungen zu Tabelle 3 – Schweine (ausgenommen Minipigs)
 <tr><td><sup>1</sup> Diese Masse gelten für Schweine, die in Gruppen von ausschliesslich gleichaltrigen Tieren gehalten werden.</td></tr>
 <tr><td><sup>2</sup> Für am 1. September 2008 bestehende Fressplätze genügen 40 cm.</td></tr>
 <tr><td><sup>3</sup> Bei der Verwendung von Abschrankungen, die in die Bucht hineinragen, muss die lichte Weite bei neu eingerichteten Fressplätzen an der engsten Stelle mindestens 45 cm betragen.</td></tr>
+<tr><td><sup>3a</sup> Durch Fütterungseinrichtungen wie Futtertröge und -automaten belegte, für die Tiere nicht nutzbare Flächen dürfen nicht an die Mindestflächen angerechnet werden.</td></tr>
 <tr><td><sup>4</sup> Höchstens ein Drittel der Kastenstände für Sauen darf auf 60 cm × 180 cm verkleinert sein. Falls die Kastenstände in Abferkelbuchten in der Breite und der Länge nicht verstellbar sind, müssen sie 65 cm × 190 cm aufweisen.</td></tr>
 <tr><td><sup>5</sup> Werden Tiere in Ställen mit Tiefstreu gehalten, so ist die Bodenfläche angemessen zu vergrössern.</td></tr>
 <tr><td><sup>6</sup> Für am 1. September 2008 bestehende Gruppenhaltungen genügen 2 m<sup>2</sup> pro Tier.</td></tr>
 <tr><td><sup>7</sup> Eine Buchtenseite muss mindestens 2 m lang sein. Für einzeln gehaltene Zuchteber von 110–160 kg Gewicht genügen 4 m<sup>2</sup>, davon muss mindestens die Hälfte als Liegefläche gestaltet sein.</td></tr>
 <tr><td><sup>8</sup> Bei den Anfangsgewichten darf die Liegefläche mit verschiebbaren Wänden verkleinert werden.</td></tr>
+<tr><td><sup>8a</sup> In Buchten mit verschiebbaren Wänden muss für Schweine mit einem Gewicht von 25‒40 kg eine Liegefläche von mindestens 0,3 m<sup>2</sup> pro Tier zur Verfügung stehen.</td></tr>
 <tr><td><sup>9</sup> Eine Seite der Liegefläche muss bei neu eingerichteten Liegeflächen mindestens 2 m breit sein.</td></tr>
 <tr><td><sup>10</sup> Davon müssen mindestens 1,6 m<sup>2</sup> fester Boden im Liegebereich von Sau und Ferkeln sein.</td></tr>
 <tr><td><sup>11</sup> Davon müssen mindestens 2,25 m<sup>2</sup> dem Liegebereich von Sau und Ferkeln zugeordnet sein. In nach dem 31. Oktober 2005 eingerichteten Abferkelbuchten muss in dem von der Sau begehbaren Bereich eine zusammenhängende Liegefläche von mindestens 1,2 m<sup>2</sup> mit einer Mindestbreite von 65 cm und einer Mindestlänge von 125 cm vorhanden sein. Die Mindestbreite von Abferkelbuchten muss 150 cm betragen. Buchten, die schmaler als 170 cm sind, dürfen in den hinteren 150 cm der Bucht keine Einrichtungen aufweisen.</td></tr>
@@ -3817,23 +4102,24 @@ Tabelle 4
 ## Schafe
 
 <table>
-<tr><th>Tierkategorie</th><th></th><th>Lämmer</th><th>Jungtiere</th><th>Schafe<sup>1</sup></th><th colspan="2">Widder und Schafe<sup>1</sup> ohne Lämmer</th><th></th><th colspan="2">Schafe<sup>1</sup> mit Lämmern<sup>2</sup></th></tr>
-<tr><th></th><th></th><th>bis 20 kg</th><th>20–50 kg</th><th>50–70 kg</th><th>70–90 kg</th><th colspan="2">über 90 kg</th><th>70–90 kg</th><th>über 90 kg</th></tr>
-<tr><td>1 Haltung in Einzelboxen</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>11 Boxenfläche, pro Tier</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>2,0</td><td>2,0</td><td colspan="2">2,5</td><td>2,5</td><td>3,0</td></tr>
-<tr><td>2 Laufstallhaltung</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>21 Fressplatzbreite, pro Tier<sup>3</sup></td><td>cm</td><td>20</td><td>30</td><td>35</td><td>40</td><td colspan="2">50</td><td>60</td><td>70</td></tr>
-<tr><td>22 Buchtenfläche, pro Tier</td><td>m<sup>2</sup></td><td>0,3<sup>4</sup></td><td>0,6</td><td>1,0</td><td>1,2</td><td colspan="2">1,5</td><td>1,5<sup>5</sup></td><td>1,8<sup>5</sup></td></tr>
+<tr><th>Tierkategorie</th><th></th><th>Lämmer</th><th>Jungtiere</th><th>Schafe<sup>1</sup></th><th colspan="2">Widder und Schafe<sup>1</sup> ohne Lämmer</th><th colspan="2">Schafe<sup>1</sup> mit Lämmern<sup>2</sup></th></tr>
+<tr><th></th><th></th><th>bis 20 kg</th><th>20–50 kg</th><th>50–70 kg</th><th>70–90 kg</th><th>über 90 kg</th><th>70–90 kg</th><th>über 90 kg</th></tr>
+<tr><td>1 Haltung in Einzelboxen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Boxenfläche, pro Tier</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>2,0</td><td>2,0</td><td>2,5</td><td>2,5</td><td>3,0</td></tr>
+<tr><td>2 Laufstallhaltung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Fressplatzbreite, pro Tier<sup>3</sup></td><td>cm</td><td>20</td><td>30</td><td>35</td><td>40</td><td>50</td><td>60</td><td>70</td></tr>
+<tr><td>22 Buchtenfläche, pro Tier</td><td>[tab] m<sup>2</sup></td><td>[tab] 0,3<sup>4</sup></td><td>[tab] 0,6</td><td>[tab] 1,0</td><td>[tab] 1,2</td><td>[tab] 1,5</td><td>[tab] 1,5<sup>5</sup></td><td>[tab] 1,8<sup>5</sup></td></tr>
+<tr><td>23 Anzahl Fressplätze, pro Tier</td><td>n</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
 </table>
 
 Anmerkungen zu Tabelle 4 – Schafe
 
 <table>
-<tr><td>1 Bei weiblichen Schafen ist das Gewicht bei Nichtträchtigkeit massgebend.</td></tr>
-<tr><td>2 Die Abmessungen gelten für Schafe mit Lämmern bis 20 kg.</td></tr>
-<tr><td>3 Für Rundraufen darf die Breite um 40 Prozent reduziert werden.</td></tr>
-<tr><td>4 Die Buchtenfläche muss mindestens 1 m<sup>2</sup> aufweisen.</td></tr>
-<tr><td>5 Gilt auch für kurzfristig separierte Mutterschafe mit Lämmern.</td></tr>
+<tr><td><sup>1</sup> Bei weiblichen Schafen ist das Gewicht bei Nichtträchtigkeit massgebend.</td></tr>
+<tr><td><sup>2</sup> Die Abmessungen gelten für Schafe mit Lämmern bis 20 kg.</td></tr>
+<tr><td><sup>3</sup> Für Rundraufen darf die Breite um 40 Prozent reduziert werden.</td></tr>
+<tr><td><sup>4</sup> Die Buchtenfläche muss mindestens 1 m<sup>2</sup> aufweisen.</td></tr>
+<tr><td><sup>5</sup> Gilt auch für kurzfristig separierte Mutterschafe mit Lämmern.</td></tr>
 </table>
 
 Tabelle 5
@@ -3975,7 +4261,7 @@ Tabelle 9
 
 <table>
 <tr><th>**Tab. 9-1** **Haushühner**</th><th colspan="2">Tierkategorie</th><th>Küken</th><th>Jungtiere</th><th>Legehennen, Elterntiere</th><th>Masttiere</th></tr>
-<tr><th></th><th colspan="2">Lebenswoche</th><th>bis Ende 10</th><th>ab 11. bis Legebeginn</th><th>ab Legebeginn</th><th></th></tr>
+<tr><th></th><th colspan="2">Lebenswoche</th><th>bis Ende 10.</th><th>ab 11. bis Legebeginn</th><th>ab Legebeginn</th><th></th></tr>
 <tr><td colspan="2">1 Stalleinrichtungen</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">11 Fütterungs‑ und Tränkeeinrichtungen, pro Tier</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">111 Fressplatzlänge am Trog bei manueller Fütterung</td><td>cm</td><td>3</td><td>10</td><td>16</td><td>–</td></tr>
@@ -3987,12 +4273,13 @@ Tabelle 9
 <tr><td colspan="2">117 Cuptränken mit offenem Wasser<sup>2</sup>, 1 Tränke pro (n) Tiere</td><td>n</td><td>30</td><td>25</td><td>25</td><td>30</td></tr>
 <tr><td colspan="2">12 Sitzstangen</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">121 Sitzstangenlänge, pro Tier</td><td>cm</td><td>8</td><td>11</td><td>14</td><td>–</td></tr>
-<tr><td colspan="2">122 horizontaler Sitzstangenabstand<sup>3</sup></td><td>cm</td><td>25</td><td>25</td><td>30</td><td>–</td></tr>
+<tr><td colspan="2">122 horizontaler Sitzstangenabstand<sup>3</sup></td><td>[tab] cm</td><td>[tab] 25</td><td>[tab] 25</td><td>[tab] 30</td><td>[tab] –</td></tr>
+<tr><td colspan="2">123 lichte Höhe über Sitzstangen<sup>6</sup></td><td>cm</td><td>50</td><td>50</td><td>50</td><td>50</td></tr>
 <tr><td colspan="2">13 Eiablage</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">131 Einzelnester: 1 Nest pro (n) Tiere</td><td>Tiere</td><td>–</td><td>–</td><td>5</td><td>–</td></tr>
 <tr><td colspan="2">132 Fläche in Gruppennestern<sup>4</sup>: 1 m<sup>2</sup> pro (n) Tiere</td><td>Tiere</td><td>–</td><td>–</td><td>100</td><td>–</td></tr>
 <tr><td colspan="2">14 Begehbare Flächen<sup>5</sup></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">141 freie Höhe über Fläche<sup>6</sup></td><td>cm</td><td>50</td><td>50</td><td>50</td><td>50<sup>1</sup></td></tr>
+<tr><td colspan="2">141 lichte Höhe über Fläche<sup>6</sup></td><td>[tab] cm</td><td>[tab] 50</td><td>[tab] 50</td><td>[tab] 50</td><td>[tab] 50<sup>1</sup></td></tr>
 <tr><td colspan="2">142 Mindestbreite</td><td>cm</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
 <tr><td colspan="2">143 maximale Bodenneigung</td><td>%</td><td>12</td><td>12</td><td>12</td><td>0</td></tr>
 </table>
@@ -4019,8 +4306,8 @@ Anmerkungen zu Tabelle 9-1 – Haushühner
 <tr><td><sup>3</sup> Achsmass.</td></tr>
 <tr><td><sup>4</sup> Pro Gruppennest sind mehrere Nestöffnungen vorzusehen, sofern die Nester nicht mit Vorhängen versehen sind.</td></tr>
 <tr><td><sup>5</sup> Auf begehbaren Flächen darf der Kot nicht offen liegen bleiben.</td></tr>
-<tr><td><sup>6</sup> Für Volierenaufbauten kann das BLV im Rahmen des Bewilligungsverfahrens für Stalleinrichtungen nach Artikel 82 Absatz 5 geringere Höhen bewilligen.</td></tr>
-<tr><td><sup>7</sup> Die kleinste Haltungseinheit im Tierversuch muss mindestens folgende Kriterien erfüllen: Grundfläche 4000 cm<sup>2</sup> für maximal 2 Tiere; Höhe 80 cm; Einstreubereich <sup>1</sup>/<sub>3</sub> der Fläche; erhöhte Sitzstangen.</td></tr>
+<tr><td><sup>6</sup> Für Volierenaufbauten kann das BLV im Rahmen des Bewilligungsverfahrens für Stalleinrichtungen nach Artikel 82 Absatz 5 geringere Höhen bewilligen. Es kann die Mindesthöhen in einer Amtsverordnung festlegen.</td></tr>
+<tr><td><sup>7</sup> Die kleinste Haltungseinheit muss mindestens 2,0 m<sup>2</sup> Grundfläche aufweisen. Im Tierversuch muss die kleinste Haltungseinheit mindestens folgende Kriterien erfüllen: Grundfläche 4000 cm<sup>2</sup> für maximal 2 Tiere; Höhe 80 cm; Einstreubereich <sup>1</sup>/<sub>3</sub> der Fläche; erhöhte Sitzstangen.</td></tr>
 <tr><td><sup>8</sup> Werden für Masttiere erhöhte Sitzgelegenheiten angeboten, so kann das BLV die Besatzdichtenregelung angemessen anpassen.</td></tr>
 </table>
 
@@ -4812,7 +5099,7 @@ Anhang 3[^t-3]
 
 ## Mindestanforderungen für das Halten von Versuchstieren
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) und vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Vorbemerkungen
 
@@ -4828,19 +5115,19 @@ Die Werte gelten für belüftete Gehege oder Räume. Ansonsten gelten die Werte 
 <table>
 <tr><th>Tierarten, Gewicht</th><th>Mindestbodenfläche der Haltungseinheit cm<sup>2</sup></th><th>Bodenfläche pro Tier cm<sup>2</sup></th><th>Höhe cm</th><th>Anmerkungen</th></tr>
 <tr><td>Maus, *Mus musculus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>20–30 g</td><td>330</td><td>80</td><td>12</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt; 30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&lt; 20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>20–30 g</td><td>330</td><td>80</td><td>12</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>&gt; 30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 4) 5) 6)</td></tr>
 <tr><td>Ratte, *Rattus norvegicus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>200–300 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>300–400 g</td><td>800</td><td>350</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>400–600 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt; 600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&lt; 200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>200–300 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>300–400 g</td><td>800</td><td>350</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>400–600 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>&gt; 600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 4) 5) 6)</td></tr>
 <tr><td>Hamster, *Mesocricetus sp.; Cricetulus griseus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt; 60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>Mongolische Rennmaus, *Meriones* sp.</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>&lt; 60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>&gt; 60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>Mongolische Rennmaus, *Meriones sp.*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>&lt; 40 g</td><td>1500</td><td>350</td><td>20</td><td>1) 3) 5) 7)</td></tr>
 <tr><td>&gt; 40 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 7)</td></tr>
 <tr><td>Meerschweinchen, *Cavia porcellus*</td><td></td><td></td><td></td><td></td></tr>
@@ -4869,11 +5156,11 @@ Die Werte gelten für belüftete Gehege oder Räume. Ansonsten gelten die Werte 
 
 <table>
 <tr><th>Tierarten, Gewicht</th><th>Mindestbodenfläche der Haltungseinheit cm<sup>2</sup></th><th>Höhe cm</th><th>Anmerkungen</th></tr>
-<tr><td>Maus, *Mus musculus*</td><td>500</td><td>12</td><td>1) 3) 5) 6) 8) 9)</td></tr>
+<tr><td>Maus, *Mus musculus*</td><td>500</td><td>12</td><td>1) 3) 4) 5) 6) 8) 9)</td></tr>
 <tr><td>Ratte, *Rattus norvegicus*</td><td></td><td></td><td></td></tr>
-<tr><td>300–400 g</td><td>800</td><td>18</td><td>1) 3) 5) 6) 10)</td></tr>
-<tr><td>&gt; 400 g</td><td>1500</td><td>20</td><td>1) 3) 5) 6) 10)</td></tr>
-<tr><td>Hamster, *Mesocricetus sp.; Cricetulus griseus*</td><td>800</td><td>18</td><td>1) 3) 5) 6) 11)</td></tr>
+<tr><td>300–400 g</td><td>800</td><td>18</td><td>1) 3) 4) 5) 6) 10)</td></tr>
+<tr><td>&gt; 400 g</td><td>1500</td><td>20</td><td>1) 3) 4) 5) 6) 10)</td></tr>
+<tr><td>Hamster, *Mesocricetus sp.*; *Cricetulus griseus*</td><td>800</td><td>18</td><td>1) 3) 4) 5) 6) 11)</td></tr>
 <tr><td>Mongolische Rennmaus, *Meriones sp.*</td><td>1500</td><td>20</td><td>1) 3) 5) 7) 8)</td></tr>
 <tr><td>Meerschweinchen, *Cavia porcellus*</td><td>3800</td><td>30</td><td>1) 2) 3) 4) 8) 12)</td></tr>
 </table>
@@ -4942,7 +5229,7 @@ Anhang 4[^t-4]
 
 ## Mindestraumbedarf für den Transport von Nutztieren
 
-[^t-4]: Bereinigt gemäss Ziff. I der V vom 25. Juni 2008 ([AS 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) und Ziff. II Abs. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^t-4]: Bereinigt gemäss Ziff. I der V vom 25. Juni 2008 ([AS 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)) und Ziff. II der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Vorbemerkungen
 
@@ -4955,18 +5242,31 @@ Tabelle 1
 ## Mindestraumbedarf für den Transport von Rindern und Schweinen
 
 <table>
-<tr><td colspan="3">Mindestraumbedarf für den Transport von Rindern</td><td></td><td></td><td></td><td colspan="3">Mindestraumbedarf für den Transport von Schweinen</td></tr>
-<tr><td>Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td colspan="3">Mindesthöhe des Abteils cm</td><td></td><td>Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
-<tr><td>40–80 kg</td><td>0,30</td><td colspan="3">Widerristhöhe + 20 cm</td><td></td><td>bis 15 kg</td><td>0,09</td><td>75 cm</td></tr>
-<tr><td>80–150 kg</td><td>0,40</td><td colspan="3">Widerristhöhe + 25 cm</td><td></td><td>15–25 kg</td><td>0,12</td><td>75 cm</td></tr>
-<tr><td>150–250 kg</td><td>0,80</td><td colspan="3">Widerristhöhe + 25 cm</td><td></td><td>25–50 kg</td><td>0,18</td><td>75 cm</td></tr>
-<tr><td>250–350 kg</td><td>1,00</td><td colspan="3">Widerristhöhe + 35 cm</td><td></td><td>50–75 kg</td><td>0,30</td><td>90 cm</td></tr>
-<tr><td>350–450 kg</td><td>1,20</td><td colspan="3">Widerristhöhe + 35 cm</td><td></td><td>75–90 kg</td><td>0,35</td><td>100 cm</td></tr>
-<tr><td>450–550 kg</td><td>1,40</td><td colspan="3">Widerristhöhe + 35 cm</td><td></td><td>90–110 kg</td><td>0,43</td><td>100 cm</td></tr>
-<tr><td>550–700 kg</td><td>1,60</td><td colspan="3">Widerristhöhe + 35 cm</td><td></td><td>110–125 kg</td><td>0,51</td><td>100 cm</td></tr>
-<tr><td>über 700 kg</td><td>1,80</td><td colspan="3">Widerristhöhe + 35 cm</td><td></td><td>125–150 kg</td><td>0,56</td><td>110 cm</td></tr>
-<tr><td></td><td></td><td colspan="3"></td><td></td><td>150–200 kg</td><td>0,69</td><td>110 cm</td></tr>
-<tr><td></td><td></td><td colspan="3"></td><td></td><td>über 200 kg</td><td>0,82</td><td>110 cm</td></tr>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von Rindern</td></tr>
+<tr><td>Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
+<tr><td>40–80 kg</td><td>0,30</td><td>Widerristhöhe + 20 cm</td></tr>
+<tr><td>80–150 kg</td><td>0,40</td><td>Widerristhöhe + 25 cm</td></tr>
+<tr><td>150–250 kg</td><td>0,80</td><td>Widerristhöhe + 25 cm</td></tr>
+<tr><td>250–350 kg</td><td>1,00</td><td>Widerristhöhe + 35 cm</td></tr>
+<tr><td>350–450 kg</td><td>1,20</td><td>Widerristhöhe + 35 cm</td></tr>
+<tr><td>450–550 kg</td><td>1,40</td><td>Widerristhöhe + 35 cm</td></tr>
+<tr><td>550–700 kg</td><td>1,60</td><td>Widerristhöhe + 35 cm</td></tr>
+<tr><td>über 700 kg</td><td>1,80</td><td>Widerristhöhe + 35 cm</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von Schweinen</td></tr>
+<tr><td>Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
+<tr><td>bis 15 kg</td><td>0,09</td><td>75 cm</td></tr>
+<tr><td>15–25 kg</td><td>0,12</td><td>75 cm</td></tr>
+<tr><td>25–50 kg</td><td>0,18</td><td>75 cm</td></tr>
+<tr><td>50–75 kg</td><td>0,30</td><td>90 cm</td></tr>
+<tr><td>75–90 kg</td><td>0,35</td><td>100 cm</td></tr>
+<tr><td>90–110 kg</td><td>0,43</td><td>100 cm</td></tr>
+<tr><td>110–125 kg</td><td>0,51</td><td>100 cm</td></tr>
+<tr><td>125–150 kg</td><td>0,56</td><td>110 cm</td></tr>
+<tr><td>150–200 kg</td><td>0,69</td><td>110 cm</td></tr>
+<tr><td>über 200 kg</td><td>0,82</td><td>110 cm</td></tr>
 </table>
 
 Tabelle 2
@@ -4974,21 +5274,53 @@ Tabelle 2
 ## Mindestraumbedarf für den Transport von Schafen, Ziegen und Equiden
 
 <table>
-<tr><td colspan="5">Mindestraumbedarf für den Transport von geschorenen Schafen</td><td></td><td colspan="3"></td><td></td><td colspan="5">Mindestraumbedarf für den Transport von Ziegen</td></tr>
-<tr><td colspan="2">Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td colspan="6">Mindesthöhe des Abteils cm</td><td></td><td>Gewicht kg</td><td colspan="3">Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
-<tr><td colspan="2">30–45 kg</td><td>0,25</td><td colspan="6">Widerristhöhe + 25 cm</td><td></td><td>unter 35 kg</td><td colspan="3">0,25</td><td>Widerristhöhe + 50 cm</td></tr>
-<tr><td colspan="2">45–60 kg</td><td>0,33</td><td colspan="6">Widerristhöhe + 30 cm</td><td></td><td>35–55 kg</td><td colspan="3">0,33</td><td>Widerristhöhe + 50 cm</td></tr>
-<tr><td colspan="2">über 60 kg</td><td>0,40</td><td colspan="6">Widerristhöhe + 30 cm</td><td></td><td>über 55 kg</td><td colspan="3">0,50</td><td>Widerristhöhe + 50 cm</td></tr>
-<tr><td colspan="5">Mindestraumbedarf für den Transport von nicht geschorenen Schafe</td><td></td><td colspan="3"></td><td></td><td colspan="5">Mindestraumbedarf für den Transport von Equiden</td></tr>
-<tr><td>Gewicht kg</td><td colspan="3">Fläche je Tier m<sup>2</sup></td><td colspan="5">Mindesthöhe des Abteils cm</td><td></td><td colspan="2"></td><td colspan="2">Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
-<tr><td>unter 30 kg</td><td colspan="3">0,20</td><td colspan="5">Widerristhöhe + 20 cm</td><td></td><td colspan="2">Fohlen</td><td colspan="2">0,85</td><td>Widerristhöhe + 40 cm</td></tr>
-<tr><td>30–45 kg</td><td colspan="3">0,25</td><td colspan="5">Widerristhöhe + 25 cm</td><td></td><td colspan="2">Leichte Equiden</td><td colspan="2">1,40</td><td>Widerristhöhe + 40 cm</td></tr>
-<tr><td>45–60 kg</td><td colspan="3">0,40</td><td colspan="5">Widerristhöhe + 30 cm</td><td></td><td colspan="2">Mittlere Equiden</td><td colspan="2">1,60</td><td>Widerristhöhe + 40 cm</td></tr>
-<tr><td>über 60 kg</td><td colspan="3">0,50</td><td colspan="5">Widerristhöhe + 30 cm</td><td></td><td colspan="2">Schwere Equiden</td><td colspan="2">1,90</td><td>Widerristhöhe + 40 cm</td></tr>
-<tr><td colspan="7">Mindestraumbedarf für den Transport von Auen in fortgeschrittenem Trächtigkeitsstadium und von Zuchtwiddern</td><td></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td>Fläche je Tier m<sup>2</sup></td><td colspan="6">Mindesthöhe des Abteils cm</td><td></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="2">Auen</td><td>0,50</td><td colspan="6">Widerristhöhe + 30 cm</td><td></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="2">Widder</td><td>0,50</td><td colspan="6">Widerristhöhe + 30 cm</td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von geschorenen Schafen</td><td></td><td></td></tr>
+<tr><td>Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td colspan="3">Mindesthöhe des Abteils cm</td></tr>
+<tr><td>30–45 kg</td><td>0,25</td><td colspan="3">Widerristhöhe + 25 cm</td></tr>
+<tr><td>45–60 kg</td><td>0,33</td><td colspan="3">Widerristhöhe + 30 cm</td></tr>
+<tr><td>über 60 kg</td><td>0,40</td><td colspan="3">Widerristhöhe + 30 cm</td></tr>
+</table>
+
+<table>
+<tr><th colspan="3">Mindestraumbedarf für den Transport von Ziegen</th></tr>
+<tr><th>Gewicht<sup>1</sup> kg</th><th>Fläche je Tier m<sup>2</sup></th><th>Mindesthöhe des Abteils cm</th></tr>
+<tr><td>unter 15<sup>2</sup> kg</td><td>0,12</td><td>Widerristhöhe + 30 cm</td></tr>
+<tr><td>15–23<sup>2</sup> kg</td><td>0,18</td><td>Widerristhöhe + 40 cm</td></tr>
+<tr><td>23–35 kg</td><td>0,25</td><td>Widerristhöhe + 50 cm</td></tr>
+<tr><td>35–55 kg</td><td>0,33</td><td>Widerristhöhe + 50 cm</td></tr>
+<tr><td>über 55 kg</td><td>0,50</td><td>Widerristhöhe + 50 cm</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von nicht geschorenen Schafe</td><td></td><td></td></tr>
+<tr><td>Gewicht kg</td><td>Fläche je Tier m<sup>2</sup></td><td colspan="3">Mindesthöhe des Abteils cm</td></tr>
+<tr><td>unter 30 kg</td><td>0,20</td><td colspan="3">Widerristhöhe + 20 cm</td></tr>
+<tr><td>30–45 kg</td><td>0,25</td><td colspan="3">Widerristhöhe + 25 cm</td></tr>
+<tr><td>45–60 kg</td><td>0,40</td><td colspan="3">Widerristhöhe + 30 cm</td></tr>
+<tr><td>über 60 kg</td><td>0,50</td><td colspan="3">Widerristhöhe + 30 cm</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von Equiden</td></tr>
+<tr><td></td><td>Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
+<tr><td>Fohlen</td><td>0,85</td><td>Widerristhöhe + 40 cm</td></tr>
+<tr><td>Leichte Equiden</td><td>1,40</td><td>Widerristhöhe + 40 cm</td></tr>
+<tr><td>Mittlere Equiden</td><td>1,60</td><td>Widerristhöhe + 40 cm</td></tr>
+<tr><td>Schwere Equiden</td><td>1,90</td><td>Widerristhöhe + 40 cm</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von Auen in fortgeschrittenem Trächtigkeitsstadium und von Zuchtwiddern</td></tr>
+<tr><td></td><td>Fläche je Tier m<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
+<tr><td>Auen</td><td>0,50</td><td>Widerristhöhe + 30 cm</td></tr>
+<tr><td>Widder</td><td>0,50</td><td>Widerristhöhe + 30 cm</td></tr>
+</table>
+
+Anmerkungen zu Tabelle 2
+
+<table>
+<tr><td><sup>1</sup> In einem Transportbehälter im Personenwagen dürfen maximal 3 Jungtiere bis je 7 kg transportiert werden.</td></tr>
+<tr><td><sup>2</sup> Beim Transport von Jungtieren in einem Transportmittel für Grossvieh muss die Ladefläche mit stabilen Trennwänden in mehrere Abteile aufgeteilt werden, sodass die Tiere genügend Halt finden</td></tr>
 </table>
 
 Tabelle 3
@@ -4996,13 +5328,20 @@ Tabelle 3
 ## Mindestraumbedarf für den Transport von Geflügel
 
 <table>
-<tr><td colspan="3">Mindestraumbedarf für den Transport von Hühnern, Gänsen, Enten und Truten</td><td></td><td></td><td></td><td colspan="3">Mindestraumbedarf für den Transport von Eintagsküken</td></tr>
-<tr><td>Gewicht kg</td><td>Fläche je kg Lebendgewicht cm<sup>2</sup>/kg</td><td colspan="3">Mindesthöhe des Abteils cm</td><td></td><td></td><td>Fläche je Tier cm<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
-<tr><td>bis 3,0 kg</td><td>160</td><td colspan="3">24</td><td></td><td>Eintagsküken, -enten</td><td>21</td><td>10</td></tr>
-<tr><td>bis 5,0 kg</td><td>115</td><td colspan="3">25</td><td></td><td>Eintagsgänse, -truten</td><td>35</td><td>10</td></tr>
-<tr><td>bis 10,0 kg</td><td>105</td><td colspan="3">30</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>bis 15,0 kg</td><td>105</td><td colspan="3">35</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>über 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von Hühnern, Gänsen, Enten und Truten</td></tr>
+<tr><td>Gewicht kg</td><td>Fläche je kg Lebendgewicht cm<sup>2</sup>/kg</td><td>Mindesthöhe des Abteils cm</td></tr>
+<tr><td>bis 3,0 kg</td><td>160</td><td>24</td></tr>
+<tr><td>bis 5,0 kg</td><td>115</td><td>25</td></tr>
+<tr><td>bis 10,0 kg</td><td>105</td><td>30</td></tr>
+<tr><td>bis 15,0 kg</td><td>105</td><td>35</td></tr>
+<tr><td>über 15,0 kg</td><td>90</td><td>40</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Mindestraumbedarf für den Transport von Eintagsküken</td></tr>
+<tr><td></td><td>Fläche je Tier cm<sup>2</sup></td><td>Mindesthöhe des Abteils cm</td></tr>
+<tr><td>Eintagsküken, -enten</td><td>21</td><td>10</td></tr>
+<tr><td>Eintagsgänse, -truten</td><td>35</td><td>10</td></tr>
 </table>
 
 Anhang 5[^t-5]

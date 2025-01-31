@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2024-12-06
+version: 2025-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20241206/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20241206-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20250201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/fr"
 
 (OPAn)
 
-du 23 avril 2008 (État le 6 décembre 2024)
+du 23 avril 2008 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -75,38 +75,48 @@ Au sens de la présente ordonnance, on entend par:
 - k. *mutants présentant un phénotype invalidant:* tout animal qui, suite à une modification génétique, connaît des douleurs ou des maux, présente des dommages, vit en état d’anxiété ou souffre pour une autre raison d’une atteinte profonde à son aspect physique ou à ses aptitudes. La mutation invalidante peut être apparue spontanément, avoir été induite par un facteur physique ou chimique ou avoir été produite par génie génétique;
 - l. *lignée ou souche présentant un phénotype invalidant:* la lignée ou la souche qui comporte des animaux porteurs d’une mutation invalidante ou dont l’élevage aboutit à des animaux instrumentalisés de manière excessive;
 - m. *animalerie:* l’établissement qui détient, élève ou commercialise des animaux d’expérience;
+- m<sup>bis</sup>.[^2-2] *mesures diminuant la contrainte:* mesures permettant de réduire ou d’éviter les contraintes subies par un animal dans une animalerie ou lors d’une expérience, par exemple des soins ou l’adaptation des conditions de détention;
+- m<sup>ter</sup>.[^2-3]
+
+  *critères d’arrêt:* certains événements ou symptômes définis à l’avance qui, s’ils se produisent ou apparaissent, doivent conduire:
+
+  - 1\. à la mise à mort de l’animal dans une animalerie,
+  - 2\. au retrait de l’animal de l’expérience et, éventuellement, à sa mise à mort;
+
 - n. *abattage:* la mise à mort d’animaux à des fins de production de denrées alimentaires;
 - o.
 
   *utilisation:*
 
-  - 1\. *d’un* *équidé*[^2-2]*:* le travail sous la selle, à la main ou à l’attelage et les déplacements de l’animal dans un carrousel,
+  - 1\. *d’un* *équidé*[^2-4]*:* le travail sous la selle, à la main ou à l’attelage et les déplacements de l’animal dans un carrousel,
   - 2\. *d’un chien:* l’emploi de cet animal à une autre fin que la compagnie,
   - 3\. *d’autres animaux:* l’emploi d’un produit animal, l’exploitation d’un trait de comportement de l’animal, à titre professionnel;
 
-- p.[^2-3] *équidés:* les animaux domestiqués de l’espèce chevaline, à savoir les chevaux, les poneys, les ânes, les mulets et les bardots;
-- q.[^2-4] *…*
+- p.[^2-5] *équidés:* les animaux domestiqués de l’espèce chevaline, à savoir les chevaux, les ânes, les mulets et les bardots;
+- q.[^2-6] *…*
 - r. *bovins:* les animaux domestiqués de l’espèce bovine, y compris les yacks et les buffles;
 - s. *pension ou refuge pour animaux:* l’établissement qui accueille des animaux en pension ou qui recueille et soigne des animaux sans maître ou dont le détenteur a dû se séparer;
-- t.[^2-5] *système informatique animex-ch:* le système informatique visé par l’ordonnance animex-ch du 1<sup>er</sup> septembre 2010[^2-6];
-- u.[^2-7] *OSAV:* Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
-- v.[^2-8] *animaux génétiquement modifiés:* les animaux dont le matériel génétique a été modifié dans les cellules germinales par des techniques de modification génétique au sens de l’annexe 1 de l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^2-9] d’une manière qui ne se produit pas par croisement dans des conditions naturelles ou par recombinaison naturelle;
-- w.[^2-10] *décapodes marcheurs:* crustacés du sous-ordre *Pleocyemata*, à l’exception des infra-ordres *Stenopodidea* et *Caridea*.
+- t.[^2-7] *système informatique animex-ch:* le système informatique visé par l’ordonnance animex-ch du 1<sup>er</sup> septembre 2010[^2-8];
+- u.[^2-9] *OSAV:* Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
+- v.[^2-10] *animaux génétiquement modifiés:* les animaux dont le matériel génétique a été modifié dans les cellules germinales par des techniques de modification génétique au sens de l’annexe 1 de l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^2-11] d’une manière qui ne se produit pas par croisement dans des conditions naturelles ou par recombinaison naturelle;
+- w.[^2-12] *décapodes marcheurs:* crustacés du sous-ordre *Pleocyemata*, à l’exception des infra-ordres *Stenopodidea* et *Caridea*.
 
 <sup>4</sup> Les termes *région d’estivage, région de montagne* et *unité de main-d’œuvre standard* sont utilisés au sens défini dans la législation sur l’agriculture.
 
 <sup>5</sup> Sont réputés *nouvellement aménagés* au sens de la présente ordonnance, les constructions nouvelles et les bâtiments existants qui ont connu un changement d’affectation ainsi que les bâtiments annexes qui ont été reconstruits ou agrandis.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-2]: Nouvelle expressionselon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Il a été tenu compte de cette mod. dans tout le texte.
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-4]: Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-5]: Nouvelle teneur selon le ch. III 1 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
-[^2-6]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
-[^2-7]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^2-8]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-9]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-2]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^2-3]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^2-4]: Nouvelle expressionselon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^2-6]: Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-7]: Nouvelle teneur selon le ch. III 1 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
+[^2-8]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^2-9]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-10]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-11]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-12]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Chapitre 2 Détention et manière de traiter les animaux
 
@@ -122,7 +132,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> Les animaux doivent être détenus et traités de manière à ce que leurs fonctions corporelles et leur comportement ne soient pas gênés et que leur faculté d’adaptation ne soit pas sollicitée de manière excessive.[^3-2]
 
-<sup>2</sup> Les logements et les enclos doivent être munis de mangeoires, d’abreuvoirs, d’emplacements de défécation et d’urinement, de lieux de repos et de retraite couverts, de possibilités d’occupation, de dispositifs pour les soins corporels et d’aires climatisées adéquats.
+<sup>2</sup> Les logements et les enclos doivent être munis de mangeoires, d’abreuvoirs, d’emplacements de défécation et d’urinement, de lieux de repos et de retraite couverts, de possibilités d’occupation, de dispositifs pour les soins corporels et d’aires climatisées appropriés[^3-3].
 
 <sup>3</sup> L’alimentation et les soins sont appropriés s’ils répondent aux besoins des animaux à la lumière de l’expérience acquise et des connaissances en physiologie, éthologie et hygiène.
 
@@ -130,6 +140,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^3-3]: Nouvelle expression selon le ch. I al. 1 de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 4
 
@@ -183,11 +194,13 @@ Les logements et les enclos doivent être construits et équipés de façon à c
 
 #### Art. 8
 
-**Couches, box, dispositifs d’attache**
+**Couches, boxes[^8-1], dispositifs d’attache**
 
-<sup>1</sup> Les couches, les box et les dispositifs d’attache doivent être conçus de telle façon qu’ils n’occasionnent pas de blessures et que les animaux puissent se tenir debout, se coucher, se reposer et se lever de la manière qui est propre à l’espèce.
+<sup>1</sup> Les couches, les boxes et les dispositifs d’attache doivent être conçus de telle façon qu’ils n’occasionnent pas de blessures et que les animaux puissent se tenir debout, se coucher, se reposer et se lever de la manière qui est propre à l’espèce.
 
 <sup>2</sup> Cordes, chaînes, licols et dispositifs d’attache similaires doivent être contrôlés régulièrement et adaptés à la taille des animaux.
+
+[^8-1]: Nouvelle expression selon le ch. I al. 2 de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 9
 
@@ -257,14 +270,14 @@ Les dérogations aux dispositions régissant la manière de détenir et de trait
 
 Des personnes compétentes peuvent effectuer les interventions suivantes sans anesthésie préalable des animaux:
 
-- a. l’accourcissement de la queue des agneaux avant l’âge de huit jours; le moignon doit couvrir l’anus et la vulve;
-- b. l’amputation des ergots des pattes arrières des chiots jusqu’au quatrième jour de vie;
-- c. l’épointage du bec de la volaille domestique;
-- d. le rognage des doigts et des ergots des poussins mâles de lignées parentales de poulets de chair et de pondeuses;
-- e. le marquage d’animaux, excepté le tatouage des chiens et des chats et le marquage des poissons;
-- f. le ponçage de la pointe des dents des porcs.
+- a. le marquage d’animaux, à l’exception des poissons, la méthode de marquage devant être la moins contraignante possible pour les animaux;
+- b. le ponçage de la pointe des dents chez les porcelets;
+- c. l’épointage du bec de la volaille domestique le premier ou le deuxième jour de vie dans un couvoir;
+- d. le rognage des doigts et des ergots des poussins mâles de lignées parentales de poulets de chair et de pondeuses lors du premier ou deuxième jour de vie dans un couvoir.[^15-1]
 
 <sup>3</sup> Par personne compétente, on entend toute personne qui a acquis sous la direction et la surveillance d’un professionnel les connaissances théoriques et l’expérience nécessaires pour pratiquer une intervention et qui l’effectue régulièrement.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### Section 3 Pratiques interdites
 
@@ -345,10 +358,16 @@ Il est en outre interdit de pratiquer les interventions suivantes sur les porcs:
 
 **Pratiques interdites sur les moutons et les chèvres**
 
+<sup>1</sup>
+
 Il est en outre interdit de pratiquer les interventions suivantes sur les moutons et les chèvres:
 
 - a. utiliser des anneaux élastiques et des substances corrosives pour l’écornage ou l’ablation de la base de la corne;
 - b. effectuer des interventions sur le pénis des béliers et des boucs détecteurs d’œstrus.
+
+<sup>2</sup> Il est en outre interdit de raccourcir la queue des moutons.[^19-1]
+
+[^19-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 20
 
@@ -357,14 +376,18 @@ Il est en outre interdit de pratiquer les interventions suivantes sur les mouton
 Il est en outre interdit de pratiquer les interventions suivantes sur la volaille domestique:
 
 - a. lui couper le bec;
+- a<sup>bis</sup>.[^20-1] lui épointer le bec; l’épointage du bec est autorisé le premier oule deuxième jour de vie dans un couvoir;
 - b. lui couper les excroissances de la tête et les ailes;
 - c. lui poser des lunettes ou des lentilles de contact ou des moyens auxiliaires qui empêchent la fermeture du bec;
 - d. la priver d’eau pour provoquer la mue;
 - e. la gaver;
 - f. plumer la volaille vivante;
-- g.[^20-1] homogénéiser les embryons vivants des rebuts de couvoir et les poussins vivants.
+- g.[^20-2] homogénéiser les embryons dès le moment où une perception de la douleur ne peut être exclue et homogénéiser les poussins vivants;
+- h.[^20-3] lui rogner les doigts ou les ergots dans les tissus vascularisés; le rognage est autorisé sur les poussins mâles de lignées parentales de poulets de chair et de pondeuses lors de leur premier ou deuxième jour de vie dans un couvoir.
 
-[^20-1]: Introduite par le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^20-1]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^20-2]: Introduite par le ch. I de l’O du 23 oct. 2019 ([RO 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)). Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^20-3]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 21
 
@@ -379,45 +402,43 @@ Il est en outre interdit de pratiquer les interventions suivantes sur les équid
 - e. les priver de leurs poils tactiles;
 - f. leur attacher la langue;
 - g.[^21-1] les barrer;
-- h.[^21-2] obliger l’équidé à maintenir son encolure en hyperflexion («Rollkur»).
+- h.[^21-2] obliger l’équidé à maintenir son encolure en hyperflexion («Rollkur»);
+- i.[^21-3]
+
+  utiliser les équipements suivants:
+
+  - 1\. des brides comportant des éléments dentés, tranchants, écrasants ou durs, tels que les muserolles et les caveçons comportant des éléments métalliques non rembourrés qui reposent sur l’os nasal,
+  - 2\. les embouchures tranchantes aux arêtes vives ou torsadées, telles que les mors en fil de fer ou en chaînes.
 
 [^21-1]: Introduite par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^21-2]: Introduite par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^21-3]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 22
 
-**Pratiques interdites sur les chiens et annonce obligatoire des dérogations à l’interdiction de couper la queue ou les oreilles des chiens[^22-1]**
+**Pratiques interdites sur les chiens et annonce obligatoire des dérogations à l’interdiction de couper la queue ou les oreilles des chiens**[^22-1]
 
 <sup>1</sup>
 
 Il est en outre interdit de pratiquer les interventions suivantes sur les chiens:
 
 - a. leur couper la queue ou les oreilles et les soumettre à des interventions chirurgicales pour obtenir des oreilles tombantes;
-- b. importer des chiens aux oreilles ou à la queue coupées;
-- b<sup>bis</sup>.[^22-2] importer et faire transiter des chiots âgés de moins de 56 jours non accompagnés de leur mère ou d’une nourrice;
-- c.[^22-3] leur supprimer les organes vocaux;
-- d.[^22-4] employer des animaux vivants pour les éduquer ou les tester, sauf pour l’éducation et le contrôle des chiens de chasse visés à l’art. 75, al. 1, ainsi que l’éducation des chiens de protection et des chiens de conduite des troupeaux;
-- e. proposer à la vente, vendre, offrir ou présenter à des expositions des chiens essorillés ou ayant la queue coupée, s’ils ont subi cette intervention en violation des dispositions suisses sur la protection des animaux.
+- b. leur supprimer les organes vocaux;
+- c. employer des animaux vivants pour éduquer ou tester les chiens, sauf pour la formation et le test des chiens de chasse visés à l’art. 75, al. 1, et pour la formation des chiens de protection et des chiens de conduite des troupeaux;
+- d. proposer à la vente, vendre, offrir ou présenter à des expositions des chiens ayant les oreilles ou la queue coupées, s’ils ont subi cette intervention en violation des dispositions suisses sur la protection des animaux;
+- e. importer ou faire transiter des chiens, en violation des dispositions des art. 76*a* et 76*b* relatives à l’importation et au transit.
 
-<sup>2</sup> Sont autorisées l’importation temporaire de chiens aux oreilles ou à la queue coupées appartenant à des détenteurs résidant à l’étranger qui viennent en Suisse pour des vacances ou des séjours de courte durée, et l’importation de ces chiens à titre de biens de déménagement. Il est interdit de proposer ces chiens à la vente, de les vendre, de les offrir ou de les présenter à des expositions.
-
-<sup>3</sup>
+<sup>2</sup>
 
 Les détenteurs de chiens doivent informer le service cantonal spécialisé dans les cas suivants:
 
-- a. leur chien a la queue ou les oreilles coupées, mais a été importé comme bien de déménagement;
-- b. leur chien a la queue courte ou les oreilles coupées pour des raisons médicales;
-- c. leur chien a une queue courte de naissance.[^22-5]
+- a. leur chien a la queue courte ou les oreilles coupées pour des raisons médicales;
+- b. leur chien a une queue courte de naissance.
 
-<sup>4</sup> Le service cantonal spécialisé saisit ces cas dans la banque de données visée à l’art. 30, al. 2, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^22-6].[^22-7]
+<sup>3</sup> Le service cantonal spécialisé saisit ces caractéristiques dans la banque de données visée à l’art. 30, al. 2, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^22-2].
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^22-2]: Introduite par l’annexe 6 ch. II 1 de l’O du 28 nov. 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie, en vigueur depuis le 29 déc. 2014 ([RO 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^22-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^22-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^22-5]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^22-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^22-7]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^22-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 #### Art. 23
 
@@ -608,6 +629,10 @@ Dans les petites unités d’élevage abritant au plus 10 unités de gros bétai
 
 <sup>2</sup> Les détenteurs d’animaux doivent fournir une attestation de compétences reconnue par l’Office fédéral de l’agriculture et par l’OSAV et avoir pratiqué ces interventions sous la surveillance du vétérinaire du troupeau et en respectant ses instructions. S’ils savent réaliser l’intervention sous anesthésie de manière autonome, les détenteurs d’animaux sont inscrits par le vétérinaire du troupeau auprès de l’autorité cantonale, laquelle contrôlera leurs aptitudes pratiques. Dès leur inscription, ils sont autorisés à effectuer l’intervention visée de manière autonome.
 
+<sup>3</sup> Chez les chevreaux, l’anesthésie en vue de l’écornage doit être pratiquée par une personne titulaire d’un diplôme en médecine vétérinaire.[^32-1]
+
+[^32-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 33
 
 **Éclairage**
@@ -669,7 +694,9 @@ Dans les étables où un dresse-vache électrique est utilisé, les dispositions
 
 <sup>2</sup> S’il n’existe pas dans la région d’estivage de protection adaptée contre les conditions météorologiques extrêmes, des mesures appropriées doivent être prises pour satisfaire les besoins de repos et de protection des animaux.
 
-<sup>3</sup> La couverture herbeuse des prés doit être adaptée à la taille du groupe. Si ce n’est pas le cas, il faut que les animaux reçoivent un supplément d’aliments appropriés.
+<sup>3</sup> La surface herbeuse[^36-1] des prés doit être adaptée à la taille du groupe. Si ce n’est pas le cas, il faut que les animaux reçoivent un supplément d’aliments appropriés.
+
+[^36-1]: Nouvelle expression selon le ch. I al. 3 de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### Section 2 Bovins
 
@@ -707,7 +734,7 @@ Dans les étables où un dresse-vache électrique est utilisé, les dispositions
 
 <sup>2</sup> L’aire de repos des autres bovins doit être recouverte d’une litière suffisante et appropriée ou d’un matériau souple et qui épouse la forme de l’animal.
 
-<sup>3</sup> Les bovins âgés de plus de cinq mois destinés à l’engraissement ne doivent pas être exclusivement détenus dans des box à un seul compartiment pourvu de litière profonde. Le mode de leur détention doit garantir l’usure de leurs onglons.[^39-1]
+<sup>3</sup> Les bovins âgés de plus de cinq mois destinés à l’engraissement ne doivent pas être exclusivement détenus dans des boxes à un seul compartiment pourvu de litière profonde. Le mode de leur détention doit garantir l’usure de leurs onglons.[^39-1]
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
@@ -715,7 +742,7 @@ Dans les étables où un dresse-vache électrique est utilisé, les dispositions
 
 **Stabulation entravée**
 
-<sup>1</sup> Les bovins détenus à l’attache doivent bénéficier de sorties régulières hors de l’étable pendant au moins 60 jours durant la période de végétation et 30 jours durant la période d’affouragement d’hiver. Ils ne doivent pas être détenus à l’étable sans sorties pendant plus de deux semaines. Les sorties doivent être inscrites dans un journal.
+<sup>1</sup> Les bovins détenus à l’attache doivent bénéficier de sorties régulières hors de l’étable pendant au moins 60 jours entre le 1<sup>er</sup> mai et le 31 octobre et 30 jours entre le 1<sup>er</sup> novembre et le 30 avril. Ils ne doivent pas être détenus à l’étable sans sorties pendant plus de deux semaines. Les sorties doivent être inscrites dans un journal.[^40-1]
 
 <sup>2</sup> L’OSAV peut prévoir des dérogations en matière de sorties pour les taureaux d’élevage.
 
@@ -724,6 +751,8 @@ Dans les étables où un dresse-vache électrique est utilisé, les dispositions
 <sup>4</sup> Il est interdit de construire de nouvelles couches destinées à des buffles.
 
 <sup>5</sup> Les yacks ne doivent pas être détenus à l’attache.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 41
 
@@ -783,9 +812,11 @@ Dans les porcheries nouvellement aménagées, les porcs de 25 kg et plus détenu
 
 **Sols et surfaces de repos des porcheries**
 
-<sup>1</sup> Les porcs détenus en groupe et les verrats d’élevage doivent disposer d’une aire de repos composée de grandes surfaces formant un tout et n’ayant qu’une faible proportion de perforations pour permettre l’écoulement des liquides; l’aire de repos est composée de surfaces assez grandes formant un tout.
+<sup>1</sup> Les porcs doivent disposer d’une aire de repos composée de grandes surfaces formant un tout et n’ayant qu’une faible proportion de perforations pour permettre l’écoulement des liquides.[^47-1]
 
 <sup>2</sup> La logette pour les truies ne peut comporter un sol perforé que sur la moitié de la surface du local de saillie et que sur un tiers de la surface du box d’alimentation et de repos.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 48
 
@@ -795,9 +826,11 @@ Dans les porcheries nouvellement aménagées, les porcs de 25 kg et plus détenu
 
 <sup>2</sup> Les porcs ne doivent pas être détenus à l’attache.
 
-<sup>3</sup> Les verrats d’élevage et les porcs à l’engrais ne doivent pas être détenus dans des logettes.
+<sup>3</sup> Les verrats reproducteurs[^48-1] et les porcs à l’engrais ne doivent pas être détenus dans des logettes.
 
 <sup>4</sup> Les logettes pour les truies ne peuvent être utilisées que pendant la période de saillie et durant dix jours au maximum.
+
+[^48-1]: Nouvelle expression selon le ch. I al. 4 de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 49
 
@@ -807,17 +840,25 @@ Dans les porcheries nouvellement aménagées, les porcs de 25 kg et plus détenu
 
 <sup>2</sup> Si les porcs sont alimentés par ration au moyen d’un distributeur automatique de concentrés, il faut veiller à ce qu’ils ne soient pas chassés de la mangeoire durant la prise d’aliments.
 
-<sup>3</sup> Dans les systèmes comportant des box d’alimentation et de repos, les couloirs doivent être suffisamment larges pour que les porcs puissent se tourner librement et s’éviter.
+<sup>3</sup> Dans les systèmes comportant des boxes d’alimentation et de repos, les couloirs doivent être suffisamment larges pour que les porcs puissent se tourner librement et s’éviter.
 
 #### Art. 50
 
 **Box de mise bas**
 
-<sup>1</sup> Les box de mise bas doivent être conçus de telle façon que la truie puisse se tourner librement. Pendant la phase de mise bas, la truie peut être enfermée si elle est agressive avec ses porcelets ou si elle a des problèmes au niveau des articulations.
+<sup>1</sup> Les boxes de mise bas doivent être conçus de telle façon que la truie puisse se tourner librement. Pendant la phase de mise bas, la truie peut être enfermée si elle est agressive avec ses porcelets ou si elle a des problèmes au niveau des articulations.
 
 <sup>2</sup> Quelques jours avant la mise bas, on mettra suffisamment de paille longue ou de matériel approprié dans le box pour que la truie puisse construire un nid. On lui fournira suffisamment de litière durant la période d’allaitement.
 
 <sup>3</sup> Dans l’aire de repos des porcelets, il doit régner un microclimat qui tienne compte de leurs besoins en termes de température.
+
+#### Art. 50a
+
+**Porcelets élevés sans leur mère**[^50a-1]
+
+Les porcelets ne doivent pas être sevrés ni élevés sans leur mère au cours de leurs deux premières semaines de vie. Font exception les cas dans lesquels la truie meurt prématurément, doit être mise à mort ou abattue pour des raisons de santé ou a des problèmes de santé qui l’empêche d’allaiter.
+
+[^50a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 51
 
@@ -918,14 +959,24 @@ Les porcelets sevrés ne doivent pas être détenus dans des cages à plusieurs 
 
 <sup>2</sup> Les aires de repos des logements doivent être recouvertes d’une litière suffisante, appropriée, propre et sèche.
 
-<sup>3</sup> Les équidés doivent avoir des contacts visuel, auditif et olfactif avec un autre équidé. Dans des cas justifiés, les autorités cantonales peuvent délivrer une dérogation temporaire pour continuer à détenir seul un équidé âgé.
+<sup>3</sup> Les équidés doivent avoir des contacts visuel, auditif et olfactif avec un congénère.[^59-1]
 
-<sup>4</sup> Après leur sevrage et jusqu’à l’âge de 30 mois ou jusqu’au début de leur utilisation régulière, les équidés doivent être détenus en groupes.[^59-1]
+<sup>3bis</sup>
 
-<sup>5</sup> Si des équidés sont détenus en groupes, des aménagements leur permettant de s’éviter ou de se retirer doivent être à leur disposition; de tels aménagements ne sont pas exigés pour les poulains sevrés et les jeunes équidés jusqu’au début de leur utilisation régulière, au plus tard cependant jusqu’à l’âge de 30 mois. Les locaux ne doivent pas comporter d’impasses.[^59-2]
+Sont reconnus comme des congénères:
 
-[^59-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^59-2]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+- a. pour les chevaux: les chevaux, les mulets et les bardots;
+- b. pour les ânes: les ânes, les mulets et les bardots;
+- c. pour les mulets et les bardots: les mulets, les bardots, les chevaux et les ânes.[^59-2]
+
+<sup>4</sup> Après leur sevrage et jusqu’à l’âge de 30 mois ou jusqu’au début de leur utilisation régulière, les équidés doivent être détenus en groupes.[^59-3]
+
+<sup>5</sup> Si des équidés sont détenus en groupes, des aménagements leur permettant de s’éviter ou de se retirer doivent être à leur disposition; de tels aménagements ne sont pas exigés pour les poulains sevrés et les jeunes équidés jusqu’au début de leur utilisation régulière, au plus tard cependant jusqu’à l’âge de 30 mois. Les locaux ne doivent pas comporter d’impasses.[^59-4]
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^59-2]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^59-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^59-4]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 60
 
@@ -933,7 +984,9 @@ Les porcelets sevrés ne doivent pas être détenus dans des cages à plusieurs 
 
 <sup>1</sup> Les équidés doivent avoir suffisamment de fourrage grossier, comme de la paille fourragère, à leur disposition pour satisfaire le besoin d’occupation propre à l’espèce, sauf quand ils sont au pâturage.
 
-<sup>2</sup> Les sabots doivent être soignés de façon à ce que l’équidé puisse se tenir dans une position anatomique correcte et à ce que ses mouvements ne soient pas entravés, et de manière à prévenir les maladies du sabot.
+<sup>2</sup> Les sabots doivent être soignés de manière à permettre à l’équidé de se tenir dans une position anatomique correcte, à ne pas le gêner dans ses déplacements et à prévenir les maladies du sabot.[^60-1]
+
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 61
 
@@ -1017,7 +1070,9 @@ Les enclos à lapins doivent comporter:
 
 <sup>1</sup> La volaille et les pigeons domestiques doivent disposer de suffisamment de dispositifs d’alimentation et d’abreuvement.
 
-<sup>2</sup> La volaille domestique doit disposer durant toute la phase lumineuse d’une surface au sol recouverte d’une litière appropriée de dimensions égales à au moins 20 % de la surface sur laquelle les animaux peuvent se déplacer. Cette règle ne s’applique pas à la volaille domestique durant leurs deux premières semaines de vie. La litière doit être fournie à même le sol du poulailler.
+<sup>2</sup> La volaille domestique doit disposer durant toute la phase de lumière d’une surface au sol recouverte d’une litière appropriée de dimensions égales à au moins 20 % de la surface sur laquelle les animaux peuvent se déplacer. La litière doit être fournie à même le sol du poulailler et être la majorité du temps sèche et meuble.[^66-1]
+
+<sup>2bis</sup> La volaille domestique, à l’exception des poulets de chair, doit en tout temps disposer de possibilités de s’occuper adaptées.[^66-2]
 
 <sup>3</sup>
 
@@ -1025,13 +1080,19 @@ Il faut prévoir en outre:
 
 - a. pour les pondeuses de toutes les espèces de volaille domestique et pour les pigeons domestiques: des nids appropriés;
 - b. pour les poules domestiques: des nids individuels ou collectifs appropriés et protégés, pourvus d’une litière ou d’un revêtement mou comme du gazon synthétique ou un tapis en nopes de caoutchouc; des coquilles en matière synthétique sont admises comme nids individuels;
-- c. pour les animaux d’élevage, les pondeuses et les parents de poules domestiques ainsi que pour les pintades et les pigeons domestiques, des possibilités de se percher à différentes hauteurs en fonction de l’âge et du comportement des animaux;
+- c.[^66-3] pour les animaux d’élevage, les pondeuses et les parentaux de poules domestiques ainsi que pour les pintades et les pigeons domestiques: des possibilités de se percher à différentes hauteurs en fonction de l’âge et du comportement des animaux;
 - d. pour les canards et les oies: une possibilité de nager;
-- e.[^66-1] pour les pigeons domestiques: la possibilité de prendre un bain d’eau fraîche au moins une fois par semaine.
+- e.[^66-4] pour les pigeons domestiques: la possibilité de prendre un bain d’eau fraîche au moins une fois par semaine.
 
 <sup>4</sup> Ces équipements doivent être facilement accessibles aux animaux.
 
-[^66-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+<sup>5</sup> Pour les poussins détenus en volière, les exigences minimales relatives aux surfaces, aux perchoirs, à la présentation de la nourriture et à l’eau fixées à l’annexe 1 peuvent être réduites de façon appropriée durant les deux premières semaines de vie. Il n’est pas nécessaire de leur donner accès à une surface recouverte de litière.[^66-5]
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^66-2]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^66-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^66-4]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^66-5]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 67
 
@@ -1075,7 +1136,14 @@ Sont réputés chiens utilitaires:
 - f. les chiens de conduite des troupeaux;
 - g. les chiens de chasse.
 
-<sup>3</sup> Les chiens d’intervention sont des chiens utilisés par l’armée, le corps des garde-frontières ou la police, ou destinés à un tel usage.
+<sup>3</sup> Les chiens d’intervention sont des chiens qui sont utilisés par l’armée, l’Office fédéral de la douane et de la sécurité des frontières (OFDF) ou la police ou des chiens qui sont destinés à un tel usage.[^69-1]
+
+<sup>4</sup> Les chiens de protection des troupeaux sont des chiens qui sont utilisés dans l’agriculture pour l’objectif visé à l’art. 10*d*, al. 1, de l’ordonnance du 29 février 1988 sur la chasse[^69-2] et qui sont enregistrés en tant que tels dans la banque de données centrale conformément à l’art. 30 LFE[^69-3] ou des chiens qui sont destinés à un tel usage.[^69-4]
+
+[^69-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^69-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+[^69-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^69-4]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 70
 
@@ -1083,7 +1151,7 @@ Sont réputés chiens utilitaires:
 
 <sup>1</sup> Les chiens doivent avoir tous les jours des contacts suffisants avec des êtres humains et si possible avec d’autres chiens.
 
-<sup>2</sup> Les chiens détenus dans des box ou des chenils pendant plus de trois mois doivent avoir des contacts visuels, auditifs et olfactifs avec un autre chien détenu dans un enclos attenant. Cette exigence ne doit pas être remplie si les chiens ont des contacts avec un être humain ou avec d’autres chiens en dehors de leur enclos dans le cours de la journée sur une durée totale de cinq heures au moins.[^70-1]
+<sup>2</sup> Les chiens détenus dans des boxes ou des chenils pendant plus de trois mois doivent avoir des contacts visuels, auditifs et olfactifs avec un autre chien détenu dans un enclos attenant. Cette exigence ne doit pas être remplie si les chiens ont des contacts avec un être humain ou avec d’autres chiens en dehors de leur enclos dans le cours de la journée sur une durée totale de cinq heures au moins.[^70-1]
 
 <sup>3</sup> Les contacts des chiens utilitaires avec les êtres humains et d’autres congénères doivent être adaptés à l’utilisation qui est faite des chiens.
 
@@ -1097,11 +1165,14 @@ Sont réputés chiens utilitaires:
 
 **Mouvement**
 
-<sup>1</sup> Les chiens doivent être sortis tous les jours et en fonction de leur besoin de mouvement. Lors de ces sorties, ils doivent aussi, dans la mesure du possible, pouvoir se mouvoir librement sans être tenus en laisse.
+<sup>1</sup> Les chiens doivent être sortis tous les jours et en fonction de leur besoin de mouvement. Lors de ces sorties, ils doivent aussi, dans la mesure du possible, pouvoir se mouvoir librement sans être tenus en laisse. Pour les chiens de protection des troupeaux, ces conditions sont remplies lorsqu’ils sont au pâturage avec les animaux de rente.[^71-1]
 
-<sup>2</sup> S’ils ne peuvent être sortis, les chiens doivent néanmoins pouvoir se mouvoir tous les jours dans un enclos. Le séjour au chenil et la détention du chien attaché à une chaîne courante ne sont pas considérés comme des sorties.
+<sup>2</sup> S’ils ne peuvent être sortis, les chiens doivent néanmoins pouvoir se mouvoir tous les jours dans un enclos. Le séjour au chenil et la détention du chien attaché à une chaîne courante ne sont pas considérés comme des sorties; pour les chiens de protection des troupeaux, la stabulation libre n’est pas considérée comme une sortie.[^71-2]
 
 <sup>3</sup> Les chiens détenus à l’attache doivent pouvoir se mouvoir librement la journée durant au moins cinq heures. Le reste du temps, attachés à une chaîne courante, ils doivent pouvoir se mouvoir dans un espace d’au moins 20 m<sup>2</sup>. Il est interdit de les attacher avec un collier étrangleur.
+
+[^71-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 72
 
@@ -1117,7 +1188,7 @@ Sont réputés chiens utilitaires:
 
 <sup>4bis</sup> En cas de détention en box ou en chenil, chaque chien doit disposer d’une surface de repos surélevée et d’un abri où il peut se retirer. Dans des cas fondés, notamment si le chien est malade ou âgé, cet abri peut être omis.[^72-2]
 
-<sup>5</sup> Les chenils et les box adjacents doivent être munis d’écrans appropriés.
+<sup>5</sup> Les chenils et les boxes adjacents doivent être munis d’écrans appropriés.
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
 [^72-2]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
@@ -1126,7 +1197,7 @@ Sont réputés chiens utilitaires:
 
 **Manière de traiter les chiens**
 
-<sup>1</sup> L’élevage, l’éducation et la manière de traiter les chiens doivent garantir leur socialisation, à savoir le développement de relations avec des congénères et avec l’être humain, et leur adaptation à l’environnement. La socialisation des chiens utilitaires doit être adaptée à l’utilisation qui sera faite de ces chiens.
+<sup>1</sup> L’élevage, l’éducation et la manière de traiter les chiens doivent garantir leur socialisation, à savoir le développement de relations avec des congénères et avec l’être humain, et leur adaptation à l’environnement. La socialisation des chiens utilitaires doit être adaptée à l’utilisation qui sera faite de ces chiens. La socialisation des chiens de protection des troupeaux à l’égard des animaux de rente dont ils sont destinés à assurer la protection doit ainsi être garantie.[^73-1]
 
 <sup>2</sup>
 
@@ -1141,11 +1212,12 @@ Les moyens utilisés pour corriger le comportement d’un chien doivent être ad
   - 2\. des colliers à pointes,
   - 3\. d’autres moyens auxiliaires munis d’éléments saillants tournés vers l’intérieur;
 
-- c. la dureté excessive, par exemple les coups avec des objets durs.[^73-1]
+- c. la dureté excessive, par exemple les coups avec des objets durs.[^73-2]
 
 <sup>3</sup> Seuls des chiens qui s’y prêtent peuvent être utilisés pour le trait. Ne s’y prêtent pas en particulier les chiens malades ni les chiennes qui sont en état de gestation avancée ou qui allaitent. Les chiens doivent être attelés avec des harnais appropriés.
 
-[^73-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^73-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^73-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 74
 
@@ -1191,7 +1263,7 @@ Il est admis d’utiliser des animaux vivants afin de former et de tester des ch
 
 - a. au terrier artificiel pour la chasse au terrier;
 - b. à la chasse au sanglier dans des parcs à sangliers;
-- c. en tant que chiens rapporteurs.
+- c.[^75-2] en tant que chiens d’arrêt ou chiens de rapport.
 
 <sup>2</sup> Le contact direct entre le chien de chasse et le gibier est interdit, sauf lorsqu’il est absolument indispensable pour atteindre les objectifs de la formation et tester l’animal. Le gibier doit toujours avoir une possibilité de repli.
 
@@ -1216,6 +1288,7 @@ Un parc à sangliers est agréé:
 <sup>6</sup> Toute manifestation au cours de laquelle des chiens de chasse seront formés ou testés à la chasse au gibier vivant doit être annoncée à l’autorité cantonale. Cette dernière veille à assurer la surveillance de la manifestation. Elle peut limiter le nombre d’installations et de manifestations.
 
 [^75-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^75-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 76
 
@@ -1225,7 +1298,7 @@ Un parc à sangliers est agréé:
 
 <sup>2</sup> L’utilisation d’appareils qui donnent des décharges électriques, qui émettent des signaux sonores très désagréables pour le chien ou qui agissent à l’aide de substances chimiques est interdite.
 
-<sup>3</sup> Sur demande, l’autorité cantonale peut autoriser les personnes justifiant des capacités requises à utiliser exceptionnellement à des fins thérapeutiques des appareils qui donnent des décharges électriques ou qui émettent des signaux sonores très désagréables pour le chien. Elle vérifie que la personne a les capacités requises. Après avoir entendu les cantons, le Département fédéral de l’intérieur (DFI) fixe le contenu et la forme de la formation et de l’examen.[^76-1]
+<sup>3</sup> Sur demande, l’autorité cantonale peut autoriser les personnes justifiant des capacités requises à utiliser exceptionnellement à des fins thérapeutiques des appareils qui donnent des décharges électriques ou qui émettent des signaux sonores très désagréables pour le chien. Elle vérifie ou charge une organisation de vérifier que la personne a les capacités requises. Après avoir entendu les cantons, le Département fédéral de l’intérieur (DFI) fixe le contenu et la forme de la formation et de l’examen.[^76-1]
 
 <sup>4</sup>
 
@@ -1241,12 +1314,54 @@ Celui qui utilise des appareils soumis à autorisation doit en documenter chaque
 
 <sup>6</sup> L’utilisation de moyens auxiliaires pour empêcher les chiens d’émettre des sons et d’exprimer leur douleur est interdite.[^76-2]
 
-[^76-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^76-2]: Introduit par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 76a
 
-**Mise en vente de chiens**[^76a-1]
+**Importation de chiens: chiens aux oreilles ou à la queue coupées**[^76a-1]
+
+<sup>1</sup> Il est interdit d’importer des chiens aux oreilles ou à la queue coupées. Cette interdiction ne s’applique pas à l’importation de chiens dont les oreilles ou la queue ont été coupées pour des raisons médicales ni à l’importation à titre d’effets de déménagement de chiens aux oreilles ou à la queue coupées.
+
+<sup>2</sup> Les détenteurs domiciliés en Suisse qui souhaitent importer des chiens à la queue ou aux oreilles raccourcies doivent au préalable fournir la preuve à l’OSAV que les oreilles ou la queue ont été coupées pour des raisons médicales ou que le chien a une queue courte de naissance. L’OSAV fournit la confirmation que cette preuve lui a été apportée.
+
+<sup>3</sup> Les chiens aux oreilles ou à la queue coupées importés à titre d’effets de déménagement ne peuvent pas, en Suisse, être proposés à la vente, ni présentés à des expositions. Ils peuvent être vendus ou offerts si leur détenteur n’est plus en mesure de les garder.
+
+<sup>4</sup> Est autorisée l’importation temporaire de chiens aux oreilles ou à la queue coupées appartenant à des détenteurs résidant à l’étranger qui viennent en Suisse pour des vacances ou des séjours de courte durée. Il est interdit de proposer ces chiens à la vente, de les vendre, de les offrir ou de les présenter à des expositions.
+
+<sup>5</sup> Les détenteurs de chiens doivent informer le service cantonal spécialisé lorsque le chien importé a la queue ou les oreilles raccourcies. Le service cantonal spécialisé saisit ces caractéristiques dans la banque de données visée à l’art. 30, al. 2, LFE[^76a-2].
+
+[^76a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^76a-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+
+#### Art. 76b
+
+**Importation et transit de chiens: âge minimum**[^76b-1]
+
+<sup>1</sup>
+
+Il est interdit d’importer et de faire transiter par la Suisse des chiens âgés de moins de 15 semaines:
+
+- a. à titre professionnel, ou
+- b. dans le but de procéder à un transfert de propriété.
+
+<sup>2</sup> Les chiens âgés de moins de huit semaines peuvent être importés en Suisse ou transiter par la Suisse uniquement s’ils sont accompagnés de leur mère ou d’une nourrice.
+
+[^76b-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 76c
+
+**Importation et transit de chiens: mesures**[^76c-1]
+
+<sup>1</sup> Si, lors d’un contrôle douanier, l’OFDF identifie un chien dont l’importation ou le transit est interdit ou si la confirmation visée à l’art. 76*a*, al. 2, ne peut être présentée, il en informe l’autorité compétente du canton de domicile du détenteur du chien. Si le détenteur n’est pas domicilié en Suisse, l’OFDF informe le canton sur le territoire duquel le contrôle a été effectué. Si, aux postes de contrôle frontaliers agréés, il identifie de tels chiens ou constate que la confirmation fait défaut, il en informe le Service vétérinaire de frontière.
+
+<sup>2</sup> L’autorité compétente ordonne, si nécessaire, le refoulement de l’animal.
+
+[^76c-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 76d
+
+**Mise en vente de chiens**[^76d-1]
 
 <sup>1</sup>
 
@@ -1258,16 +1373,13 @@ Quiconque met publiquement des chiens en vente doit fournir par écrit les infor
 
 <sup>2</sup> Il incombe aux exploitants des plates-formes Internet ou aux éditeurs des revues concernées de veiller à ce que les données fournies soient complètes.
 
-[^76a-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^76d-1]: Anciennement art. 76*a*. Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 77
 
-**Responsabilité des détenteurs de chiens et des éducateurs canins**[^77-1]
+[^77-1]
 
-Les détenteurs de chiens et les éducateurs canins doivent prendre les dispositions nécessaires pour que leurs animaux ne mettent pas en danger des êtres humains ou des animaux. Dans le cas des chiens de protection des troupeaux au sens de l’art. 10<sup>quater</sup> de l’ordonnance du 29 février 1988 sur la chasse[^77-2], l’évaluation de la responsabilité doit tenir compte de l’utilisation du chien, à savoir la défense contre les animaux intrus.
-
-[^77-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^77-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+[^77-1]: Abrogé par le ch. I de l’O du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 78
 
@@ -1275,12 +1387,14 @@ Les détenteurs de chiens et les éducateurs canins doivent prendre les disposit
 
 <sup>1</sup>
 
-Les vétérinaires, les médecins, les responsables de refuges ou de pensions pour animaux, les éducateurs canins et les organes des douanes sont tenus d’annoncer au service cantonal compétent:
+Les vétérinaires, les médecins, les responsables de refuges ou de pensions pour animaux, les prestataires de services de garde d’animaux, les éducateurs canins et les organes des douanes sont tenus d’annoncer au service cantonal compétent:[^78-1]
 
 - a. les accidents causés par un chien qui a gravement blessé un être humain ou un animal, et
 - b. les chiens qui présentent un comportement d’agression supérieur à la norme.
 
 <sup>2</sup> Les cantons peuvent soumettre d’autres catégories de personnes à l’obligation d’annoncer.
+
+[^78-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 79
 
@@ -1444,7 +1558,7 @@ Une autorisation est requise pour la détention par des particuliers des animaux
 - c. ornithorynque, échnidés; tatous; fourmiliers; porcs-épics; paresseux, athérures;
 - d. bec-en-sabot du Nil, kiwis, ratites, manchots, pélicans, cormorans, anhingas, échassiers, flamants, grues, limicoles, psittacidés de grande taille (aras et cacatoès); tous les rapaces, serpentaires (ou secrétaires), engoulevents, sternes, colibris, trogons, calaos, nectariniidés, paradisiers; oiseaux des tropiques; plongeons, nyctimènes, fous, frégates; grandes outardes; alcidés;
 - e.[^89-2] poissons en liberté dépassant la taille de 1 m, à l’exception des espèces indi-gènes mentionnées dans la législation sur la pêche; requins et raies;
-- f.[^89-3] tortues marines (*Chelonoiidae, Dermochelyidae*); tortues géantes des Galapagos, tortues géantes des Seychelles (*Chelonoidis nigra*, *Dipsochelys* spp.); tortues sillonnées (*Geochelone [Centrochelys] sulcata*); tortues alligators (*Chelydridae*), tortues à cou de serpent (*Chelidae*), pélomédusidés (*Pelomedusidae*); tortues molles de grande taille (*Amyda cartilaginea, Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*); prodocnémides à front sillonné de grande taille (*Podocnemis expansa*); émydes fluviales d’Asie (*Batagur borneensis, Orlitia borneensis*); tous les crocodiliens (*Crocodylia*); sphénodons (*Sphenodon* spp.), iguanes terrestres (*Conolophus* spp.), iguane marin (*Amblyrhynchus cristatus*); iguanes tégus et varans dont la longueur totale dépasse 1 m à l’âge adulte, varan aquatique de Mitchell (*Varanus mitchelli*), varan des mangroves (*Varanus semiremex*); hélodermes (*Heloderma*); tous les caméléons (*Chamaeleonidae*); hydrosaures (*Hydrosaurus* spp.); dragons volants (*Draco* spp.); diable cornu (*Moloch horridus*); boïdés qui dépassent 3 m à l’âge adulte, à l’exclusion des boas constrictors (*Boa constrictor*);
+- f.[^89-3] tortues marines (*Chelonoiidae, Dermochelyidae*); tortues géantes des Galapagos, tortues géantes des Seychelles (*Chelonoidis nigra*, *Dipsochelys* spp.); tortues sillonnées (*Geochelone [Centrochelys] sulcata*); tortues alligators (*Chelydridae*), tortues à cou de serpent (*Chelidae*), pélomédusidés (*Pelomedusidae*); tortues molles de grande taille (*Amyda cartilaginea, Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*); prodocnémides à front sillonné de grande taille (*Podocnemis expansa*); émydes fluviales d’Asie (*Batagur borneensis, Orlitia borneensis*); tous les crocodiliens (*Crocodylia*); sphénodons (*Sphenodon* spp.), iguanes terrestres (*Conolophus* spp.), iguane marin (*Amblyrhynchus cristatus*); iguanes tégus et varans dont la longueur totale dépasse 1 m à l’âge adulte, varan aquatique de Mitchell (*Varanus mitchelli*), varan des mangroves (*Varanus semiremex*); hélodermes (*Heloderma*); tous les caméléons (*Chamaeleonidae*); hydrosaures (*Hydrosau**rus* spp.); dragons volants (*Draco* spp.); diable cornu (*Moloch horridus*); boïdés qui dépassent 3 m à l’âge adulte, à l’exclusion des boas constrictors (*Boa constrictor*);
 - g. grenouilles goliaths; salamandres géantes;
 - h.[^89-4] les serpents qui ont un appareil venimeux et qui peuvent utiliser leur venin (serpents venimeux); sont réservées les espèces non dangereuses de serpents venimeux dont la liste est dressée par l’OSAV dans une ordonnance.
 
@@ -1594,10 +1708,11 @@ L’autorisation est délivrée pour une durée maximale de:
 
 <sup>2</sup> Quiconque pratique l’élevage ou détient à titre professionnel des poissons de consommation, des poissons de repeuplement ou des décapodes marcheurs doit avoir suivi la formation prévue à l’art 197.
 
-<sup>3</sup> Quiconque capture, marque, détient, élève ou met à mort à titre non professionnel des poissons de consommation, des poissons de repeuplement ou des décapodes marcheurs doit être titulaire d’une attestation de compétences conforme à l’art. 5*a* de l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche[^97-2] ou à l’art. 198 de la présente ordonnance. Une personne non titulaire de l’attestation de compétences peut capturer et mettre à mort des poissons si le canton dans lequel elle exerce ses activités n’exige pas de patente ou n’exige qu’une patente de durée inférieure à un mois pour pratiquer la pêche à la ligne dans les eaux publiques.
+<sup>3</sup> Quiconque capture, marque, élève ou met à mort à titre non professionnel des poissons de consommation, des poissons de repeuplement ou des décapodes marcheurs ou détient à titre non professionnel des poissons de consommation ou des poissons de repeuplement doit être titulaire d*’*une attestation de compétences conforme à l*’*art. 5*a* de l*’*ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche[^97-2] ou à l*’*art. 198 de la présente ordonnance. Une personne non titulaire de l*’*attestation de compétences peut capturer et mettre à mort des poissons si le canton dans lequel elle exerce ses activités n*’*exige pas de patente ou n*’*exige qu*’*une patente de durée inférieure à un mois pour pratiquer la pêche à la ligne dans les eaux publiques.[^97-3]
 
 [^97-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^97-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^97-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 98
 
@@ -1654,10 +1769,10 @@ L’autorisation est délivrée pour une durée maximale de:
 Doit être titulaire d’une autorisation cantonale quiconque:[^101-1]
 
 - a. exploite une pension ou un refuge pour animaux de plus de cinq places;
-- b. offre des services de garde d’animaux à titre professionnel pour plus de cinq animaux;
+- b.[^101-2] offre des services de garde d’animaux à titre professionnel pour plus de cinq animaux par jour;
 - c.
 
-  remet à des tiers dans l’intervalle d’une année un nombre plus élevé d’animaux que celui indiqué ci-dessous:
+  élève et remet à des tiers dans l’intervalle d’une année un nombre plus élevé d’animaux issus de leur propre élevage que celui indiqué ci-dessous:[^101-3]
 
   - 1\. 20 chiens ou 3 portées de chiots,
   - 2\. 20 chats ou 5 portées de chatons,
@@ -1667,12 +1782,14 @@ Doit être titulaire d’une autorisation cantonale quiconque:[^101-1]
   - 6\. 100 reptiles,
   - 7\. la descendance de plus de 25 couples d’oiseaux d’une taille inférieure ou égale à celle des perruches callopsittes, la descendance de plus de 10 couples d’oiseaux d’une taille supérieure à celle de la perruche callopsitte ou de plus de 5 couples d’aras ou de cacatoès;
 
-- d.[^101-2] …
-- e.[^101-3] se charge à titre professionnel des soins des onglons de bovins ou des sabots d’équidés, sans avoir suivi une formation au sens de l’art. 192, al. 1, let. a.
+- d.[^101-4] …
+- e.[^101-5] se charge à titre professionnel des soins des onglons de bovins ou des sabots d’équidés, sans avoir suivi une formation au sens de l’art. 192, al. 1, let. a.
 
 [^101-1]: Erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
-[^101-2]: Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^101-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^101-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^101-4]: Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101-5]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 101a
 
@@ -1731,17 +1848,18 @@ Dans les cas suivants, il suffit que la personne responsable de la prise en char
 - b.[^102-2] dans les autres établissements où sont pris en charge au maximum 19 animaux à titre professionnel;
 - c. et d.[^102-3] …
 
-<sup>3</sup> Dans les pensions et refuges pour animaux d’une capacité maximale de 5 places ou dans les autres établissements de prise en charge professionnelle d’animaux d’une capacité maximale de 5 places, il suffit que la personne responsable de la prise en charge des animaux dispose de la formation requise pour la détention de l’espèce animale prise en charge.
+<sup>3</sup> Dans les pensions et refuges pour animaux d’une capacité maximale de 5 places ou dans les autres établissements de prise en charge professionnelle d’animaux d’une capacité maximale de 5 places par jour, il suffit que la personne responsable de la prise en charge des animaux dispose de la formation requise pour la détention de l’espèce animale prise en charge.[^102-4]
 
-<sup>4</sup> Toute personne livrant des animaux conformément à l’art. 101, let. c, est tenue de disposer d’une formation visée à l’art. 197.[^102-4]
+<sup>4</sup> Toute personne livrant des animaux conformément à l’art. 101, let. c, est tenue de disposer d’une formation visée à l’art. 197.[^102-5]
 
-<sup>5</sup> Quiconque pratique à titre professionnel les soins des onglons de bovins ou des sabots d’équidés doit avoir suivi la formation visée à l’art. 192, al. 1, let. a ou b.[^102-5]
+<sup>5</sup> Quiconque pratique à titre professionnel les soins des onglons de bovins ou des sabots d’équidés doit avoir suivi la formation visée à l’art. 192, al. 1, let. a ou b.[^102-6]
 
 [^102-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^102-2]: Erratum du 6 févr. 2018 ([RO 2018 547](https://fedlex.data.admin.ch/eli/oc/2018/68)).
 [^102-3]: Abrogées par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^102-4]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-4]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^102-5]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-6]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Section 2 Commerce d’animaux et publicité au moyen d’animaux
 
@@ -1753,13 +1871,13 @@ S’il est fait du commerce ou de la publicité au moyen d’animaux, la personn
 
 - a. dans les établissements qui font du commerce à titre professionnel: un gardien d’animaux;
 - b.[^103-1] dans les commerces zoologiques: gardien d’animaux ou titulaire du certificat fédéral de capacité visé à l’art. 38 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^103-2] en tant que gestionnaire du commerce de détail dans les commerces zoologiques et avoir suivi la formation visée à l’art. 197;
-- c.[^103-3] dans les entreprises pratiquant le commerce de bétail au sens de l’art. 20, al. 2, LFE[^103-4]: titulaire d’une patente de marchand de bétail;
+- c.[^103-3] dans les entreprises pratiquant le commerce de bétail au sens de l’art. 20, al. 2, LFE[^103-4]: titulaire d’une patente de marchand de bétail; cette condition ne s’applique pas aux bouchers qui achètent uniquement des animaux à abattre dans leur propre établissement;
 - d.[^103-5] pour les manifestations commerciales et la publicité: titulaire d’une attestation de compétences;
 - e.[^103-6] dans les entreprises qui font exclusivement le commerce de poissons de consommation, d’appât ou de repeuplement ou encore de décapodes marcheurs: disposer d’une formation visée à l’art. 197.
 
 [^103-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^103-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^103-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^103-5]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-6]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
@@ -1846,7 +1964,7 @@ Les animaux dont la détention est soumise à autorisation ne peuvent être céd
 
 #### Art. 110
 
-**Age minimal des acquéreurs**
+**Âge minimal des acquéreurs**
 
 Il est interdit de vendre des animaux à des personnes de moins de 16 ans sans l’autorisation expresse du titulaire de l’autorité parentale.
 
@@ -1888,7 +2006,7 @@ Pour les animaux utilisés à des fins d’expérience scientifique, des déroga
 
 **Responsable d’animalerie**
 
-<sup>1</sup> Un responsable d’animalerie doit être désigné pour toute animalerie; sa suppléance doit être réglée.
+<sup>1</sup> Un responsable d’animalerie doit être désigné pour toute animalerie. Sa suppléance doit être garantie.[^114-1]
 
 <sup>2</sup>
 
@@ -1898,9 +2016,12 @@ Le responsable de l’animalerie:
 - b. est responsable de la détention, de l’élevage et du commerce d’animaux sous l’angle de la protection des animaux;
 - c. est responsable de la répartition du travail, de l’instruction des gardiens d’animaux et du reste du personnel, du contrôle des travaux, de l’organisation de la surveillance et de la prise en charge correctes des animaux d’expérience ainsi que du travail de documentation nécessaires;
 - d. est responsable des annonces prévues aux art. 126 et 145, al. 1;
-- e.[^114-1] s’assure que les problèmes constatés dans le cadre de la détention des animaux sont immédiatement communiqués au directeur de l’expérience.
+- e.[^114-2] s’assure que les problèmes constatés dans le cadre de la détention des animaux sont immédiatement communiqués au directeur de l’expérience;
+- f.[^114-3] s’assure que le nombre d’animaux d’expérience qui ne sont pas élevés et détenus en vue d’une expérience spécifique soit le plus petit possible (art. 118*a*, al. 1).
 
-[^114-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^114-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^114-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^114-3]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 115
 
@@ -1933,11 +2054,11 @@ Le responsable de l’animalerie doit avoir suivi la formation visée à l’art
 
 **Conditions que doivent remplir les locaux et les enclos**
 
-<sup>1</sup> Les locaux et les enclos dans lesquels sont détenus les animaux d’expérience doivent être éclairés par la lumière du jour ou par une source de lumière artificielle de spectre équivalent. L’intensité de l’éclairage de la zone où se tiennent les animaux, les périodes de lumière et d’obscurité ainsi que le changement d’éclairage doivent être adaptés aux besoins des animaux. En cas d’utilisation d’une source de lumière artificielle, aucun papillotement dérangeant ne doit être perceptible.
+<sup>1</sup> Les locaux et les enclos dans lesquels sont détenus les animaux d’expérience doivent être éclairés par la lumière du jour ou par une source de lumière artificielle de spectre équivalent. L’intensité de l’éclairage de la zone où se tiennent les animaux, les périodes de lumière et d’obscurité ainsi que le changement d’éclairage doivent être adaptés aux besoins des animaux. En cas d’utilisation d’une source de lumière artificielle, aucun papillotement ne doit être perceptible.[^117-1]
 
 <sup>2</sup> La température, l’humidité de l’air, l’aération et la qualité de l’eau doivent être adaptés aux besoins des animaux.
 
-<sup>3</sup> Les locaux et les enclos doivent être conformes aux exigences de l’annexe 3 et permettre un examen de l’état de santé de tous les animaux sans les déranger de façon excessive. Si une espèce animale ne figure pas à l’annexe 3, les exigences minimales des annexes 1 et 2 sont applicables.[^117-1]
+<sup>3</sup> Les locaux et les enclos doivent être conformes aux exigences de l’annexe 3 et permettre un examen de l’état de santé de tous les animaux sans les déranger de façon excessive. Si une espèce animale ne figure pas à l’annexe 3, les exigences minimales des annexes 1 et 2 sont applicables.[^117-2]
 
 <sup>4</sup>
 
@@ -1946,7 +2067,8 @@ Toute animalerie doit avoir à disposition, ou pouvoir utiliser, suffisamment de
 - a. de pouvoir isoler les animaux malades ou au statut sanitaire indéfini;
 - b. de pouvoir stocker les aliments et les autres articles tels que les produits de nettoyage et de désinfection, et éliminer correctement les animaux dans des locaux distincts de ceux où sont logés les animaux.
 
-[^117-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^117-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^117-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 118
 
@@ -1960,17 +2082,35 @@ Toute animalerie doit avoir à disposition, ou pouvoir utiliser, suffisamment de
 
 <sup>4</sup> Seuls les primates issus d’un élevage peuvent être utilisés pour l’expérimentation animale.
 
+#### Art. 118a
+
+**Nombre d*’*animaux d*’*expérience admis**[^118a-1]
+
+<sup>1</sup> Le nombre d’animaux élevés ou détenus doit être le plus petit possible pour réaliser les expériences.
+
+<sup>2</sup> Lorsque les mesures prises pour diminuer la contrainte subie par les lignées ou souches présentant un phénotype invalidant ne permettent pas d’éviter la contrainte, une autorisation de pratiquer une expérience sur animaux justifiant du nombre d’animaux utilisés doit avoir été délivrée avant le début de l’élevage ou de la détention de ces lignées ou souches.
+
+<sup>3</sup> Les animaux surnuméraires doivent être mis à mort s’ils ne peuvent pas être utilisés à d’autres fins.
+
+[^118a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 119
 
 **Manière de traiter les animaux d’expérience**
 
-<sup>1</sup> Avant que ne débute l’expérience, les animaux d’expérience doivent être suffisamment accoutumés aux conditions de détention locales et aux contacts avec l’être humain, notamment aux manipulations nécessaires à l’expérience.
+<sup>1</sup> Les animaux d’expérience doivent être traités avec ménagement.[^119-1]
 
-<sup>2</sup> Les animaux d’expérience d’espèces sociables doivent être détenus en groupes avec des congénères. La détention individuelle est admise à titre exceptionnel et pour une durée limitée.
+<sup>1bis</sup> Avant que ne débute l’expérience, ils doivent être suffisamment accoutumés aux conditions de détention locales et aux contacts avec l’être humain, notamment aux manipulations nécessaires à l’expérience.[^119-2]
+
+<sup>2</sup> Les animaux d’expérience d’espèces sociables doivent être détenus en groupes avec des congénères. La détention individuelle d’animaux socialement incompatibles est admise à titre exceptionnel et pour une durée limitée.[^119-3]
 
 <sup>3</sup> Des espèces animales différentes ne peuvent être détenues dans le même local que si cela ne représente pas une contrainte pour elles.
 
 <sup>4</sup> Dans la manière de traiter les animaux d’expérience, il faut éviter de les exposer à des bruits excessifs ou soudains.
+
+[^119-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^119-2]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^119-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 120
 
@@ -2007,10 +2147,10 @@ Les animaleries sont autorisées si elles satisfont aux exigences concernant:
 
 <sup>5</sup>
 
-Elle peut être assortie de conditions et de charges concernant:
+Elle peut être assortie de conditions et de charges concernant notamment:[^122-2]
 
 - a. l’espèce animale, le nombre d’animaux et le volume commercial;
-- b. la détention, l’alimentation, les soins et la surveillance des animaux;
+- b.[^122-3] la détention, l’alimentation, les soins et la surveillance des animaux ainsi que la manière de les traiter;
 - c. la provenance des animaux et la surveillance de leur état de santé;
 - d. les conditions applicables au personnel et les responsabilités du personnel;
 - e. le registre des animaux de l’animalerie;
@@ -2019,6 +2159,8 @@ Elle peut être assortie de conditions et de charges concernant:
 <sup>6</sup> Aucune autorisation n’est requise pour les animaleries existantes qui détiennent des animaux domestiques, des animaux sauvages ou des animaux de compagnie utilisés ponctuellement ou temporairement à des fins d’expérimentation animale.
 
 [^122-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^122-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^122-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### Section 3 Détention, élevage et commerce d’animaux génétiquement modifiés et de mutants présentant un phénotype invalidant
 
@@ -2046,17 +2188,17 @@ Elle peut être assortie de conditions et de charges concernant:
 
 #### Art. 125
 
-**Mesures diminuant la contrainte**
+**Mesures diminuant la contrainte et critères d’arrêt**[^125-1]
 
-<sup>1</sup> Il faut réduire autant que possible les atteintes au bien-être des mutants qui présentent un phénotype invalidant en adaptant les conditions de détention et les soins et en prenant d’autres mesures adéquates comme la limitation de la durée de vie.
+Les atteintes au bien-être des mutants qui présentent un phénotype invalidant doivent être réduites autant que possible au moyen de mesures diminuant la contrainte et de critères d’arrêt.
 
-<sup>2</sup> Pour les lignées ou souches présentant un phénotype invalidant, le nombre d’animaux élevés ou détenus doit se justifier par le nombre d’animaux requis pour exécuter les expériences autorisées. Les animaux surnuméraires doivent être mis à mort s’il est porté atteinte à leur bien-être.
+[^125-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 126
 
 **Obligation de notifier les lignées ou souches présentant un phénotype invalidant**
 
-<sup>1</sup> Si la caractérisation de la contrainte révèle qu’une lignée ou une souche produit des mutants présentant un phénotype invalidant, l’autorité cantonale doit en être informée.
+<sup>1</sup> Si la caractérisation de la contrainte révèle qu’une lignée ou une souche produit des mutants présentant un phénotype invalidant, l’autorité cantonale doit en être informée. Cela vaut également si la contrainte peut être supprimée au moyen de mesures diminuant la contrainte.[^126-1]
 
 <sup>2</sup>
 
@@ -2064,20 +2206,25 @@ La notification doit comporter des informations concernant:
 
 - a. la caractérisation de la lignée ou de la souche;
 - b. la documentation sur la caractérisation de la contrainte;
-- c. les mesures possibles pour réduire la contrainte;
+- c.[^126-2] les mesures possibles pour diminuer la contrainte et des critères d’arrêt;
 - d. l’utilité de la lignée ou de la souche pour la recherche, le diagnostic ou le traitement chez l’homme ou l’animal.
+
+[^126-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^126-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 127
 
 **Décision quant à l’admissibilité des lignées ou souches présentant un phénotype invalidant**
 
-<sup>1</sup> Lors de l’évaluation de la contrainte admissible que peut subir une lignée ou une souche présentant un phénotype invalidant, une pesée des intérêts doit être réalisée entre la gravité de la contrainte et l’utilité de l’expérience en application de l’art. 137. Lors de cette pesée des intérêts, il faut tenir compte notamment de l’éventualité que l’expérience cause une atteinte supplémentaire au bien-être des animaux en plus de l’atteinte à leur bien-être due à l’intervention génétique.
+<sup>1</sup> Lors de l’évaluation de la contrainte admissible que peut subir une lignée ou une souche présentant un phénotype invalidant, une pesée des intérêts doit être réalisée en application de l’art. 137 entre la gravité de la contrainte et l’utilité de l’expérience. Aucune pesée des intérêts n’est nécessaire lorsque les mesures diminuant la contrainte permettent d’en exclure l’apparition.[^127-1]
 
 <sup>2</sup> L’autorité transmet la notification à la commission cantonale des expériences sur animaux et décide, sur la base du préavis de cette commission, si la lignée ou la souche est admissible et, dans l’affirmative, dans quelle mesure elle peut être maintenue.
 
 <sup>3</sup> La décision est établie au nom du responsable de l’animalerie et peut être assortie de conditions et de charges.
 
 <sup>4</sup> Les décisions fixant les conditions et les charges qui assortissent l’expérimentation animale doivent être intégrées dans la documentation relative à la caractérisation de la contrainte.
+
+[^127-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### Section 4 Exécution d’expériences sur animaux
 
@@ -2103,24 +2250,27 @@ Les instituts et laboratoires qui effectuent des expériences sur les animaux do
 
 **Désignation des personnes responsables**[^129-1]
 
-<sup>1</sup> Un délégué à la protection des animaux doit être désigné dans tout institut ou laboratoire; la suppléance doit être réglée.
+<sup>1</sup> Un délégué à la protection des animaux doit être désigné dans tout institut ou laboratoire. Il n’a pas le droit d’exercer la fonction de directeur du domaine de l’expérimentation animale ou de directeur d’expérience pour les expériences dont il est responsable en tant que délégué à la protection des animaux.[^129-2]
 
 <sup>2</sup> Un directeur du domaine de l’expérimentation animale doit être désigné dans tout institut ou laboratoire.
 
-<sup>3</sup> Un directeur de l’expérience doit être désigné pour chaque expérience sur des animaux; la suppléance doit être réglée. Si plusieurs directeurs sont désignés, le domaine de compétence de chacun doit être clairement défini.
+<sup>3</sup> Un directeur d’expérience doit être désigné pour chaque expérience menée sur des animaux; sa suppléance doit être garantie. Si plusieurs directeurs sont désignés, leur domaine de compétence doit être clairement défini.[^129-3]
 
 [^129-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^129-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 129a
 
 **Attributions du délégué à la protection des animaux**[^129a-1]
 
-Le délégué à la protection des animaux s’assure:
+Le délégué à la protection des animaux s’assure que les demandes d’autorisation de pratiquer des expériences sur les animaux sont complètes et cohérentes, en particulier en ce qui concerne les informations suivantes:
 
-- a. que les demandes d’autorisation pour effectuer des expériences sur les animaux sont complètes;
-- b. que les éléments permettant d’évaluer le caractère indispensable de l’expérience au sens de l’art. 137 figurent dans les demandes d’autorisation.
+- a. les éléments permettant d’évaluer le caractère indispensable de l’expérience au sens de l’art. 137;
+- b. les indications relatives aux critères de surveillance et d’arrêt définis et aux mesures diminuant la contrainte;
+- c. les considérations relatives à la pesée des intérêts établissant l’admissibilité de l’expérience.
 
-[^129a-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129a-1]: Introduit par le ch. I de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 129b
 
@@ -2196,7 +2346,7 @@ Il:
 
 **Exécution des expériences**
 
-<sup>1</sup> Avant le début de l’expérience, il faut définir les évènements ou les symptômes qui, s’ils apparaissent, doivent conduire l’expérimentateur à retirer l’animal de l’expérience et éventuellement à le mettre à mort (critères d’arrêt de l’expérience).
+<sup>1</sup> Les critères d’arrêt doivent être définis avant le début de l’expérience.[^135-1]
 
 <sup>2</sup> Les animaux doivent être préalablement habitués aux conditions de l’expérience. Si un animal devient anxieux en raison de l’expérience, des mesures appropriées doivent être prises pour que l’anxiété et le stress soient maintenus le plus bas possible.
 
@@ -2212,9 +2362,10 @@ Il:
 
 <sup>8</sup> Lorsque les douleurs, les maux, les dommages ou l’anxiété causés à un animal par une expérience atteignent un degré élevé, ou qu’ils atteignent un degré moyen sur une durée moyenne à longue, il faut prendre des mesures appropriées pour s’assurer que l’animal ne sera pas utilisé à nouveau pour de telles expériences.
 
-<sup>9</sup> La mise à mort d’animaux ou les mesures et interventions qui causent des douleurs, des maux, des dommages ou de l’anxiété ne doivent pas être effectuées dans les locaux où sont détenus les animaux. L’OSAV peut fixer des exceptions pour les cas où les mesures et interventions qui ne causent pas de contrainte excessive aux autres animaux détenus dans le même local, notamment en cas de marquage, d’administration d’une substance et de prélèvement d’échantillons.[^135-1]
+<sup>9</sup> La mise à mort d’animaux ou les mesures et interventions qui causent des douleurs, des maux, des dommages ou de l’anxiété ne doivent pas être effectuées dans les locaux où sont détenus les animaux. L’OSAV peut fixer des exceptions pour les cas où les mesures et interventions qui ne causent pas de contrainte excessive aux autres animaux détenus dans le même local, notamment en cas de marquage, d’administration d’une substance et de prélèvement d’échantillons.[^135-2]
 
-[^135-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^135-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^135-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 136
 
@@ -2247,8 +2398,9 @@ Les expériences causant des contraintes aux animaux au sens de l’art. 17 LPA 
 Le requérant doit établir que le but de l’expérience:
 
 - a. a un rapport avec la sauvegarde et la protection de la vie ou de la santé humaines ou animales;
-- b. est présumé apporter des connaissances nouvelles sur des phénomènes vitaux essentiels, ou
-- c. est utile à la protection de l’environnement naturel.
+- b. est présumé apporter des connaissances nouvelles sur des phénomènes vitaux essentiels;
+- c. est utile à la protection de l’environnement naturel, ou
+- d.[^137-1] sert à remplacer les expériences sur les animaux, à réduire le nombre d’animaux d’expérience ou à diminuer les contraintes liées à ces expériences.
 
 <sup>2</sup> Il doit en outre prouver que le but de l’expérience ne peut pas être atteint par des méthodes qui ne nécessitent pas d’expériences sur animaux et qui sont fiables en l’état actuel des connaissances.
 
@@ -2259,10 +2411,11 @@ Le requérant doit établir que le but de l’expérience:
 Une expérience sur animaux et chacune des parties de l’expérience doivent être planifiées de manière à ce que:
 
 - a. le plus petit nombre d’animaux nécessaires soit utilisé et la contrainte la plus faible possible infligée aux animaux;
-- b.[^137-1] les méthodes d’évaluation des résultats les plus adéquates et les méthodes statistiques correspondant à l’état actuel des connaissances soient appliquées, et à ce que
+- b.[^137-2] les méthodes d’évaluation des résultats les plus adéquates et les méthodes statistiques correspondant à l’état actuel des connaissances soient appliquées, et à ce que
 - c. les différentes parties de l’expérience soient échelonnées dans le temps.
 
-[^137-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^137-1]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^137-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 138
 
@@ -2300,35 +2453,40 @@ Pour chaque expérience sur animaux, la demande doit contenir les informations s
 - d. le nombre d’animaux prévu par espèce, et
 - e. le degré de contrainte prévisible.[^139-3]
 
-<sup>2</sup> Si une expérience sur animaux concerne plusieurs cantons, soit en raison d’un changement du lieu de séjour des animaux durant l’expérience, soit en raison d’études sur le terrain menées dans plusieurs cantons, la demande d’autorisation doit être déposée auprès de l’autorité du canton où l’expérience est réalisée principalement. Cette autorité informe les autres autorités cantonales concernées et prend en considération leur avis.
+<sup>2</sup> …[^139-4]
 
 <sup>3</sup> L’autorité cantonale examine la demande et décide immédiatement s’il s’agit d’une expérience sur animaux qui cause des contraintes à l’animal.
 
 <sup>4</sup> L’autorité cantonale soumet les demandes d’autorisation d’expériences sur animaux causant des contraintes à l’avis de la commission cantonale des expériences sur animaux; elle prend sa décision sur la base du préavis de la commission. Si sa décision va à l’encontre du préavis, elle en informe la commission en lui faisant part de ses motifs.
 
+<sup>5</sup> Lorsqu’une expérience sur animaux concerne plusieurs cantons, la demande d’autorisation doit être déposée auprès de l’autorité du canton où l’expérience est réalisée principalement (canton primaire). L’autorité du canton primaire informe toutes les autorités concernées des autres cantons (cantons secondaires) et prend en considération leur avis lorsqu’elle établit la décision. Elle soumet la demande d’autorisation de pratiquer une expérience sur animaux causant des contraintes à l’avis de la commission cantonale pour les expériences sur animaux. Les cantons secondaires peuvent fonder leur avis sur le préavis de la commission pour les expériences sur animaux du canton primaire. Un canton qui soumet la demande d’autorisation à sa commission pour les expériences sur animaux et qui ne tient pas compte dans son avis du préavis de ladite commission doit en informer la commission en lui faisant part de ses motifs.[^139-5]
+
 [^139-1]: Nouvelle expression selon le ch. III 1 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Il a été tenu compte de cette mod. dans tout le texte.
 [^139-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^139-3]: Introduit le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-4]: Abrogé par le ch. I de l’O du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^139-5]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 140
 
-**Conditions d’octroi de l’autorisation de pratiquer des expériences sur animaux**
+**Conditions d*’*octroi de l*’*autorisation de pratiquer des expériences sur animaux**[^140-1]
 
 <sup>1</sup>
 
-Une expérience sur animaux qui cause des contraintes à l’animal est autorisée si:
+Une expérience sur animaux qui cause des contraintes à l’animal est autorisée si les conditions suivantes sont réunies:
 
 - a. elle n’outrepasse pas le cadre de son caractère indispensable;
 - b. la pesée des intérêts prescrite à l’art. 19, al. 4, LPA a établi son admissibilité;
 - c. aucun but d’expérience illicite n’est poursuivi;
-- d. des critères d’arrêt de l’expérience appropriés ont été fixés;
-- e. les exigences applicables à l’élevage et à la production de mutants présentant un phénotype invalidant sont respectées;
-- f. les exigences applicables à la détention, à la manière de traiter les animaux, aux locaux et aux enclos, à la provenance et au marquage des animaux sont remplies;
-- g. les conditions auxquelles doivent satisfaire les instituts et les laboratoires pour effectuer des expériences sont respectées;
-- h. les exigences applicables au personnel sont respectées;
-- i. les responsabilités de l’animalerie avant, pendant et après l’expérience ont été définies.
+- d. des critères de surveillance et des critères d’arrêt appropriés ainsi que des mesures appropriées diminuant la contrainte ont été fixés;
+- e. les exigences applicables à l’élevage et à la production, à la détention, à la manière de traiter les animaux, aux locaux et aux enclos, à la provenance et au marquage des animaux sont remplies;
+- f. les conditions auxquelles doivent satisfaire les instituts et les laboratoires pour effectuer des expériences sont respectées;
+- g. les exigences applicables au personnel sont respectées;
+- h. les responsabilités de l’animalerie avant, pendant et après l’expérience ont été définies.
 
-<sup>2</sup> Pour les expériences ne causant pas de contraintes aux animaux, les conditions d’octroi de l’autorisation sont fixées aux let. e à i.
+<sup>2</sup> Pour les expériences ne causant pas de contraintes aux animaux, les conditions d’octroi de l’autorisation sont fixées aux let. e à h.
+
+[^140-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 141
 
@@ -2437,13 +2595,21 @@ Les procès-verbaux doivent:
 Le responsable d’une animalerie autorisée doit annoncer à l’autorité cantonale au moyen du système informatique animex-ch:[^145-1]
 
 - a. les lignées visées à l’art. 126, qui comportent des mutants présentant un phénotype invalidant: dans les quinze jours suivant la constatation du phénotype;
-- b. le nombre total d’animaux élevés ou produits par année civile pour chaque espèce animale et chaque lignée ou souche d’animaux génétiquement modifiés ou présentant un phénotype invalidant: au plus tard à la fin du mois de février de l’année suivante.
+- b.[^145-2]
+
+  les informations suivantes chaque année civile, au plus tard fin février de l’année suivante, pour chaque espèce animale et chaque lignée ou souche d’animaux génétiquement modifiés ou présentant un phénotype invalidant:
+
+  - 1\. le nombre d’animaux élevés ou produits,
+  - 2\. le nombre d’animaux importés,
+  - 3\. pour la première fois fin février 2027, le nombre d’animaux qui n’ont pas été utilisés dans une expérience, mais ont été remis à des tiers, mis à mort ou sont morts.
+
+<sup>1bis</sup> L’OSAV détermine pour quels stades de développement les annonces visées à l’al. 1, let. b, doivent être faites.[^145-3]
 
 <sup>2</sup>
 
-Le directeur du domaine de l’expérimentation animale doit communiquer à l’autorité cantonale, en utilisant le système informatique animex-ch, pour chaque expérience:[^145-2]
+Le directeur du domaine de l’expérimentation animale doit communiquer à l’autorité cantonale, en utilisant le système informatique animex-ch, pour chaque expérience:[^145-4]
 
-- a. la fin d’une expérience ou d’une série d’expériences, les expériences effectuées dans le courant de l’année civile, le nombre effectif d’animaux utilisés par espèce et le degré de contrainte imposé et la confirmation de l’exactitude des informations visées à l’art. 139, al. 1<sup>bis</sup>, let. a à c: dans les deux mois qui suivent la fin de l’expérience ou de la série d’expériences, mais au plus tard dans les deux mois qui suivent l’expiration de la validité de l’autorisation;[^145-3]
+- a. la fin d’une expérience ou d’une série d’expériences, les expériences effectuées dans le courant de l’année civile, le nombre effectif d’animaux utilisés par espèce et le degré de contrainte imposé et la confirmation de l’exactitude des informations visées à l’art. 139, al. 1<sup>bis</sup>, let. a à c: dans les deux mois qui suivent la fin de l’expérience ou de la série d’expériences, mais au plus tard dans les deux mois qui suivent l’expiration de la validité de l’autorisation;[^145-5]
 - b. les informations concernant les expériences effectuées lors de l’année écoulée s’il s’agit d’expériences s’étendant sur plusieurs années: avant fin février.
 
 <sup>3</sup> Lorsque la situation le justifie, l’autorité cantonale peut admettre des demandes formulées sur papier si elles sont présentées selon le modèle de formulaire de l’OSAV.
@@ -2461,22 +2627,30 @@ Les cantons transmettent les données suivantes à l’OSAV en utilisant le syst
   - 3\. les notifications visées à l’al. 2, let. a, et
   - 4\. d’autres décisions en rapport avec des expériences sur animaux et des animaleries;
 
-- b. jusqu’à fin avril: les notifications visées aux al. 1, let. b, et 2, let. b.[^145-4]
+- b. jusqu’à fin avril: les notifications visées aux al. 1, let. b, et 2, let. b.[^145-6]
 
 <sup>5</sup> Après avoir pris l’avis des autorités cantonales, l’OSAV peut définir les informations qui peuvent être transmises autrement que sous forme électronique.
 
 [^145-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^145-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^145-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^145-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 sauf la let. a ch. 3, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^145-3]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^145-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-5]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-6]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 sauf la let. a ch. 3, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 145a
 
 **Information du public**[^145a-1]
 
-À la fin d’une expérience, l’OSAV publie les informations visées à l’art. 139, al. 1<sup>bis</sup>, let. a à c, ainsi que le nombre effectif d’animaux utilisés par espèce et le degré de contrainte imposé.
+À la fin d’une expérience, l’OSAV publie les informations suivantes:
 
-[^145a-1]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+- a. le titre de l’expérience;
+- b. le domaine concerné;
+- c. la finalité de l’expérience selon les classifications internationales;
+- d. le nombre d’animaux utilisés par espèce;
+- e. le degré de contrainte.
+
+[^145a-1]: Introduit par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 146
 
@@ -2543,9 +2717,11 @@ L’OSAV tient un registre des décisions relatives aux lignées et souches pré
 Le détenteur d’animaux responsable de l’exploitation d’où partent les animaux transportés doit:
 
 - a. se procurer à l’avance les documents nécessaires au transport et à la livraison afin de permettre un transport et une livraison rapides;
-- b. consigner, le cas échéant, les blessures et les maladies des animaux.
+- b.[^151-1] consigner, le cas échéant, les blessures et les maladies des animaux; pour les animaux à onglons, il les consigne dans le document d’accompagnement.
 
 <sup>2</sup> L’al. 1 est applicable par analogie aux responsables d’un marché.
+
+[^151-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 152
 
@@ -2557,13 +2733,17 @@ Le chauffeur doit:
 
 - a. s’assurer qu’il est en possession des documents requis;
 - b. effectuer le transport des animaux avec ménagement et sans retard inutile après les avoir chargés;
-- c. consigner les blessures subies par les animaux durant le transport;
+- c.[^152-1] consigner, pour les animaux à onglons dans le document d’accompagnement, les blessures subies par les animaux durant le transport;
 - d. aviser immédiatement le destinataire de l’arrivée des animaux;
-- e.[^152-1] consigner par écrit la durée du trajet et la durée du transport au moment de la livraison des animaux à onglons et des animaux conduits à l’abattage.
+- e.[^152-2] consigner, pour les animaux à onglons dans le document d’accompagnement, la durée du trajet et la durée du transport au moment de la livraison des animaux à onglons et des animaux conduits à l’abattage.
+
+<sup>1bis</sup> Il consigne la durée du transport visée à l’al. 1, let. e, en inscrivant les heures de chargement et de déchargement, le temps de chargement devant être inscrit avant le départ.[^152-3]
 
 <sup>2</sup> Le chauffeur est responsable de l’hébergement et des soins aux animaux dès leur prise en charge et jusqu’à leur livraison au destinataire.
 
-[^152-1]: Introduite par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^152-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^152-2]: Introduite par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^152-3]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 152a
 
@@ -2670,18 +2850,19 @@ Les taureaux âgés de plus de 18 mois doivent porter une boucle nasale. Le port
 - a. si les taureaux ont été détenus la plupart du temps dans un troupeau en plein air ou en groupe dans une étable à stabulation libre, et
 - b. si les mesures particulières permettant d’assurer un transport sécurisé ainsi qu’un chargement et un déchargement sécurisés ont été prises.
 
-<sup>5</sup> Le gibier d’élevage à onglons ne doit pas être transporté vivant à l’abattoir s’il n’a pas été au préalable habitué au transport.
+<sup>5</sup> Le gibier d’élevage ne doit pas être transporté vivant à l’abattoir s’il n’a pas été au préalable habitué au transport.[^160-2]
 
 <sup>6</sup> Les décapodes doivent être maintenus suffisamment humides durant leur transport.
 
-<sup>7</sup> Les grenouilles vivantes ne doivent pas être transportées empilées les unes sur les autres. Si l’amoncellement ne peut être évité durant le transport, les grenouilles arrivées à destination doivent être immédiatement sorties de leur conteneur de transport et placées dans un environnement approprié.[^160-2]
+<sup>7</sup> Les grenouilles vivantes ne doivent pas être transportées empilées les unes sur les autres. Si l’amoncellement ne peut être évité durant le transport, les grenouilles arrivées à destination doivent être immédiatement sorties de leur conteneur de transport et placées dans un environnement approprié.[^160-3]
 
 <sup>8</sup> Lorsque des animaux sont transportés pendant une expérience ou lorsque des animaux présentant un phénotype invalidant sont transportés, les mesures nécessaires doivent être prises pour qu’ils soient atteints le moins possible dans leur bien-être. La durée du transport doit rester courte.
 
 <sup>9</sup> Lors du transport d’animaux d’expérience au statut sanitaire défini, il y a lieu de prendre les dispositions nécessaires afin d’empêcher la contamination par des micro-organismes ou la dissémination de ceux-ci.
 
 [^160-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^160-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^160-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^160-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 161
 
@@ -2775,7 +2956,9 @@ Les conteneurs d’expédition doivent porter le symbole d’un animal ou l’in
 - a. aux conteneurs dont le contenu est visible de tous les côtés;
 - b. aux conteneurs transportés en grand nombre en tant qu’envoi formant un tout, sans transbordement, dans des véhicules spécialement signalés.
 
-<sup>4</sup> Les conteneurs à empiler les uns sur les autres doivent être conçus de manière à assurer la stabilité des piles, à éviter l’obturation des orifices d’aération et à empêcher la chute des déjections dans les conteneurs inférieurs.
+<sup>4</sup> Les conteneurs à empiler les uns sur les autres doivent être conçus de manière à assurer la stabilité des piles, à éviter l’obturation des orifices d’aération et à empêcher ou à réduire autant que possible la souillure des conteneurs inférieurs par les déjections.[^167-1]
+
+[^167-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 168
 
@@ -2933,27 +3116,35 @@ La mise à mort de vertébrés ou de décapodes marcheurs sans étourdissement e
 
 #### Art. 179a
 
-**Procédés d’étourdissement admis**[^179a-1]
+**Méthodes d’étourdissement admises[^179a-2]**[^179a-1]
 
-<sup>1</sup> Les procédés d’étourdissement suivants sont admis:
+<sup>1</sup> Les méthodes d’étourdissement suivantes sont admises:[^179a-3]
 
 <table>
 <tr><td>a. équidés:</td><td>– balle ou tige perforante atteignant le cerveau;</td></tr>
 <tr><td>b. bovins:</td><td>– balle ou tige perforante atteignant le cerveau, – pistolet percuteur pneumatique, pour autant qu’il soit garanti que l’air comprimé ne pénètre pas dans le crâne, – électricité;</td></tr>
-<tr><td>c. porcs:</td><td>– balle ou tige perforante atteignant le cerveau, – électricité, – gaz de dioxyde de carbone;</td></tr>
+<tr><td>c.[^179a-4] porcs:</td><td>– balle ou tige perforante atteignant le cerveau, – électricité, – mélange approprié de gaz;</td></tr>
 <tr><td>d. moutons et chèvres:</td><td>– balle ou tige perforante atteignant le cerveau, – électricité;</td></tr>
-<tr><td>e. lapins:</td><td>– balle ou tige perforante atteignant le cerveau, – pistolet percuteur non perforant, – électricité;</td></tr>
-<tr><td>[tab] f. volailles:</td><td>– électricité; – coup puissant sur la tête avec un instrument non tranchant, – tige perforante; –[^179a-2] mélange approprié de gaz; lors de ce processus, les poussins vivants ne doivent pas être empilés les uns sur les autres;</td></tr>
+<tr><td>[tab] d<sup>bis</sup>.[^179a-5] lamas et alpagas:</td><td>– balle ou tige perforante atteignant le cerveau, – électricité;</td></tr>
+<tr><td>e.[^179a-6] lapins:</td><td>– balle ou tige perforante atteignant le cerveau, – pistolet percuteur non perforant;</td></tr>
+<tr><td>f.[^179a-7] volailles:</td><td>– électricité, – coup puissant sur la tête avec un instrument non tranchant, – pistolet percuteur non perforant, – tige perforante atteignant le cerveau, – mélange approprié de gaz, – étourdissement par basse pression atmosphérique;</td></tr>
 <tr><td>g. ratites:</td><td>– tige perforante atteignant le cerveau, – électricité;</td></tr>
 <tr><td>h. gibier d’élevage à onglons:</td><td>– balle ou tige perforante atteignant le cerveau;</td></tr>
 <tr><td>i. poissons:</td><td>– coup puissant sur la tête avec un instrument non tranchant, – rupture de la nuque, – électricité, – destruction mécanique du cerveau;</td></tr>
-<tr><td>j. décapodes marcheurs:</td><td>– électricité, – destruction mécanique du cerveau.</td></tr>
+<tr><td>j.[^179a-8] décapodes marcheurs:</td><td>– électricité.</td></tr>
 </table>
 
-<sup>2</sup> L’OSAV peut prévoir d’autres procédés d’étourdissement après avoir consulté les autorités cantonales.
+<sup>2</sup> L’OSAV peut prévoir d’autres méthodes d’étourdissement après avoir consulté les autorités cantonales.[^179a-9]
 
 [^179a-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^179a-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^179a-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-4]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-5]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-6]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-7]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-8]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^179a-9]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 179b
 
@@ -2967,8 +3158,11 @@ La mise à mort de vertébrés ou de décapodes marcheurs sans étourdissement e
 
 <sup>4</sup> La volaille doit être étourdie avant la saignée, sauf en cas d’abattage rituel.
 
+<sup>5</sup> Lors de l’étourdissement des volailles au moyen d’un mélange de gaz, les poussins vivants ne doivent pas être empilés les uns sur les autres.[^179b-3]
+
 [^179b-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^179b-2]: Erratum du 27 nov. 2018 ([RO 2018 4283](https://fedlex.data.admin.ch/eli/oc/2018/685)).
+[^179b-3]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 179c
 
@@ -2986,7 +3180,7 @@ La mise à mort de vertébrés ou de décapodes marcheurs sans étourdissement e
 
 **Saignée**[^179d-1]
 
-<sup>1</sup> La saignée doit être effectuée par sectionnement ou incision des principaux vaisseaux sanguins du cou. Elle doit être pratiquée aussi rapidement que possible après l’étourdissement et tant que l’animal est dans un état d’insensibilité et d’inconscience.
+<sup>1</sup> La saignée doit être effectuée par une incision des deux artères carotides ou par une section des principaux vaisseaux sanguins à la base du cou. Elle doit être pratiquée aussi rapidement que possible après l’étourdissement et tant que l’animal est inconscient.[^179d-2]
 
 <sup>2</sup> Les animaux dont l’étourdissement est obligatoire en vertu de l’art. 21 LPA doivent être plongés dans un état d’insensibilité et d’inconscience jusqu’au moment de leur mort par saignée.
 
@@ -2997,6 +3191,7 @@ La mise à mort de vertébrés ou de décapodes marcheurs sans étourdissement e
 <sup>5</sup> Après leur étourdissement, les poissons peuvent être vidés au lieu d’être saignés.
 
 [^179d-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179d-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### Section 2 Responsabilités lors de l’abattage et manière de traiter les animaux à l’abattoir
 
@@ -3073,9 +3268,11 @@ Le délégué à la protection des animaux est habilité à donner des instructi
 
 <sup>2</sup> L’utilisation d’appareils soumettant les animaux à des chocs électriques doit être limitée à des cas de nécessité absolue.
 
-<sup>3</sup> Les passages doivent permettre de déplacer les animaux avec ménagement.
+<sup>3</sup> Les couloirs d’acheminement[^182-1] doivent permettre de déplacer les animaux avec ménagement.
 
 <sup>4</sup> Les systèmes de déplacement d’animaux dans les abattoirs doivent être conçus et utilisés de manière à éviter les douleurs et les blessures.
+
+[^182-1]: Nouvelle expression selon le ch. I al. 5 de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 183 à 187
 
@@ -3128,7 +3325,8 @@ Une formation continue d’au moins quatre jours dans un intervalle de quatre an
 - a. les gardiens d’animaux;
 - b. les délégués à la protection des animaux, les directeurs d’expériences, les expérimentateurs et les responsables d’animaleries;
 - c. les personnes qui proposent aux détenteurs d’animaux des formations reconnues par l’OSAV;
-- d.[^190-2] les gestionnaires du commerce de détail dans les commerces zoologiques avec une formation visée à l’art. 197.
+- d.[^190-2] les gestionnaires du commerce de détail dans les commerces zoologiques avec une formation visée à l’art. 197;
+- e.[^190-3] les personnes qui sont responsables de la prise en charge d’animaux dans une pension ou un refuge pour animaux de plus de cinq places ou dans d’autres établissements où sont pris en charge plus de cinq animaux par jour à titre professionnel.
 
 <sup>2</sup>
 
@@ -3142,6 +3340,7 @@ Une formation continue d’au moins un jour dans un intervalle de trois ans doit
 
 [^190-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^190-2]: Erratum du 20 mars 2018 ([RO 2018 1171](https://fedlex.data.admin.ch/eli/oc/2018/173)).
+[^190-3]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 191
 
@@ -3205,10 +3404,10 @@ Par attestation de formation on entend:
 
 Par formation agricole au sens de la présente ordonnance on entend:
 
-- a. une formation professionnelle de base relevant du champ professionnel «Agriculture et ses professions» confirmée par l’attestation fédérale au sens de l’art. 37 LFPr[^194-2] ou par le certificat fédéral de capacité au sens de l’art. 38 LFPr;
+- a.[^194-2] une formation professionnelle de base d’agriculteur confirmée par l’attestation fédérale au sens de l’art. 37 LFPr[^194-3] ou par le certificat fédéral de capacité au sens de l’art. 38 LFPr;
 - b. une formation professionnelle supérieure dans l’une des professions visée à la let. a;
 - c. une formation d’une haute école spécialisée ou d’une haute école dans l’une des professions visées à la let. a;
-- d. une formation équivalente dans une profession spécialisée de l’agriculture.
+- d.[^194-4] une formation équivalente dans une profession spécialisée de l’agriculture en lien avec les animaux.
 
 <sup>2</sup>
 
@@ -3218,7 +3417,9 @@ Une autre formation professionnelle de base sanctionnée par une attestation fé
 - b. une activité pratique attestée de trois ans au moins en tant qu’exploitant, co‑exploitant ou employé d’une exploitation agricole.
 
 [^194-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^194-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^194-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-4]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 195
 
@@ -3257,9 +3458,10 @@ Par formation dans une profession de la pêche on entend:
 
 <sup>2</sup> La formation comprend une partie théorique et une partie pratique. La partie pratique doit comporter suffisamment d’exercices.
 
-<sup>3</sup> Le DFI réglemente les objectifs, la forme, le contenu et l’ampleur de la partie théorique et de la partie pratique de la formation.
+<sup>3</sup> Le DFI réglemente les objectifs, la forme, le contenu et l’ampleur de la formation. Il peut prévoir des stages.[^197-2]
 
 [^197-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^197-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 198
 
@@ -3271,6 +3473,55 @@ Par formation dans une profession de la pêche on entend:
 
 <sup>3</sup> Le DFI réglemente les objectifs, la forme, le contenu et l’ampleur de la formation.
 
+### Section 2*a* Organisations de formation et établissements de stage
+
+[^chap9-sec2a-1]
+
+[^chap9-sec2a-1]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 198a
+
+**Conditions posées aux organisations de formation**
+
+<sup>1</sup>
+
+Les formations spécifiques indépendantes d’une formation professionnelle peuvent être dispensées par:
+
+- a. une institution de droit public;
+- b. une organisation mandatée par le service cantonal spécialisé;
+- c. une association professionnelle;
+- d. une autre organisation qui peut justifier qu’elle dispose, d’une part, d’un corps enseignant qualifié pour cette formation et, d’autre part, d’un certificat valable selon la norme ISO 21001:2018[^198a-1] ou eduQua:2021[^198a-2] ou d’une certification équivalente pour les institutions de formation des adultes.
+
+<sup>2</sup> La certification visée à l’al. 1, let. d, doit avoir été octroyée par un organe de certification des systèmes de management accrédité selon l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^198a-3].
+
+<sup>3</sup> S’il n’y a pas ou très peu de prestataires pour une des formations spécifiques indépendantes d’une formation professionnelle, l’OSAV peut reconnaître au cas par cas la formation dispensée par une organisation qui ne remplit pas les exigences visées à l’al. 1. Cette exception ne s’applique pas aux formations visées à l’art. 203*a*.
+
+[^198a-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^198a-2]: La norme peut être consultée gratuitement à l’adresse suivante: [https://alice.ch](https://alice.ch) &gt; Qualité &gt; Le label qualité eduQua.
+[^198a-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 198b
+
+**Contrôle des organisations de formation**
+
+<sup>1</sup> L’OSAV peut contrôler, en se rendant sur place, les organisations de formation par sondage ou lorsque des manquements lui sont signalés.
+
+<sup>2</sup> Les contrôles ayant donné lieu à des contestations peuvent être facturés à l’organisation de formation en fonction du temps investi, conformément à l’ordonnance du 30 octobre 1985 sur les émoluments de l’OSAV[^198b-1].
+
+[^198b-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+
+#### Art. 198c
+
+**Conditions posées aux établissements de stage**
+
+<sup>1</sup> Une exploitation détenant des animaux qui propose un stage pratique dans le cadre d’une formation ou d’une formation continue au sens de la présente ordonnance doit détenir des animaux qui, de par leur nombre et leur espèce, correspondent au moins à ceux que le stagiaire prévoit de prendre en charge. La personne responsable de la prise en charge des animaux doit avoir les qualifications nécessaires.
+
+<sup>2</sup> Le DFI peut autoriser un stagiaire à effectuer une partie de son stage dans son propre établissement. Dans un tel cas, il faut faire appel à une personne externe pour encadrer le stagiaire. Cette personne doit avoir les qualifications nécessaires à la prise en charge des animaux en question.
+
+<sup>3</sup> Le stagiaire doit recevoir ses instructions directement de la personne responsable de la prise en charge les animaux ou, s’il effectue son stage dans sa propre exploitation, de la personne externe à laquelle il a été fait appel.
+
+<sup>4</sup> Un établissement de services qui propose un stage pratique dans le cadre d’une formation ou d’une formation continue au sens de la présente ordonnance doit proposer les services que le stagiaire prévoit de proposer. Le responsable de l’établissement doit avoir les qualifications nécessaires pour proposer les services concernés.
+
 ### Section 3 Reconnaissance et organisation des formations et des formations continues
 
 [^chap9-sec3-1]
@@ -3279,40 +3530,58 @@ Par formation dans une profession de la pêche on entend:
 
 #### Art. 199
 
-**Reconnaissance des formations par l’OSAV et par l’autorité cantonale**
+**Reconnaissance: attributions[^199-1]**
 
-<sup>1</sup> L’OSAV reconnaît les formations visées à l’art. 197 et les cours visés à l’art. 198, al. 2. Il publie la liste des formations reconnues.[^199-1]
+<sup>1</sup> L’OSAV reconnaît les formations spécifiques indépendantes d’une formation professionnelle et les cours visés à l’art. 198, al. 2. Il publie la liste des formations reconnues.[^199-2]
 
 <sup>2</sup> Il peut confier à des organisations le contrôle de la qualité des formations et des formations qualifiantes. Le cahier des charges et les critères de qualité doivent être fixés dans le mandat de prestations.
 
 <sup>3</sup> Dans les cas particuliers, l’autorité cantonale peut reconnaître une formation autre que celle qui est exigée, à condition que la personne concernée puisse établir qu’elle dispose de connaissances et d’aptitudes comparables ou qu’elle a un métier dont les exigences sont comparables. Elle peut au besoin obliger les personnes à suivre une formation complémentaire.
 
-<sup>4</sup> L’autorité cantonale reconnaît la formation continue dans le domaine de l’expérimentation animale.[^199-2]
+<sup>4</sup> L’autorité cantonale reconnaît la formation continue dans le domaine de l’expérimentation animale.[^199-3]
 
-[^199-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^199-2]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^199-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^199-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^199-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 199a
+
+**Reconnaissance*:* critères et procédures**[^199a-1]
+
+<sup>1</sup> La demande de reconnaissance de la formation spécifique indépendante d’une formation professionnelle ou du cours visé à l’art. 198, al. 2, doit être déposée sous forme électronique auprès de l’OSAV avec la documentation et le plan d’études.
+
+<sup>2</sup> La documentation doit indiquer les objectifs, la forme, le contenu et le volume de la formation et préciser quelle formation et quelle expérience professionnelle doivent avoir les formateurs.
+
+<sup>3</sup>
+
+Pour les formations spécifiques indépendantes d’une formation professionnelle, elle doit en outre contenir des précisions sur les points suivants:
+
+- a. le respect des conditions posées aux organisations de formation (art. 198*a*); les organisations certifiées doivent soumettre le rapport de l’organe de certification à l’OSAV;
+- b. le contrôle des prescriptions relatives aux stages;
+- c. l’examen.
+
+<sup>4</sup> Si le requérant possède sa propre unité d’élevage ou dispense des parties de la formation dans des unités d’élevage, un rapport de contrôle de l’autorité cantonale d’exécution compétente en matière de détention d’animaux est joint à la demande. Ce rapport doit avoir été établi au cours des 12 mois précédents. L’OSAV peut refuser de reconnaître la formation si une unité d’élevage présente des manquements majeurs.
+
+<sup>5</sup> La reconnaissance est limitée à cinq ans.
+
+<sup>6</sup> Dans sa demande de renouvellement de la reconnaissance, le requérant doit envoyer la documentation prévue aux al. 1 à 4 et une attestation confirmant que le corps enseignant a suivi les cours de formation continue prévus à l’art. 190, al. 1, let. c.
+
+[^199a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 200
 
-**Critères et procédures de reconnaissance**
+**Reconnaissance: mesures en cas de manquements**[^200-1]
 
-<sup>1</sup> La demande de reconnaissance de la formation visée à l’art. 197 ou du cours visé à l’art. 198, al. 2, doit être déposée sous forme électronique à l’OSAV avec la documentation et le plan d’études.[^200-1]
+<sup>1</sup>
 
-<sup>2</sup> La documentation doit indiquer les objectifs, la forme, le contenu et le volume de la formation, et préciser quelle formation et quelle expérience professionnelle doivent avoir les formateurs. Pour les formations visées à l’art. 197, elle doit en outre contenir des précisions sur l’examen.[^200-2]
+Dans les cas suivants, l’OSAV peut révoquer la reconnaissance des formations spécifiques indépendantes d’une formation professionnelle ou des cours visés à l’art. 198, al. 2:
 
-<sup>3</sup> La reconnaissance est limitée à cinq ans.
+- a. le déroulement de la formation n’est pas conforme à la législation sur la protection des animaux ou s’écarte considérablement de ce qui est prévu dans la documentation fournie à l’appui de la demande de reconnaissance;
+- b. l’unité d’élevage du prestataire de la formation ou une unité d’élevage dans laquelle des parties de la formation sont accomplies présente des manquements majeurs.
 
-<sup>4</sup> L’OSAV peut révoquer la reconnaissance si l’exécution du cours ne respecte pas la présente ordonnance ou s’écarte considérablement de la documentation fournie à l’appui de la demande de reconnaissance.[^200-3]
+<sup>2</sup> Il peut interdire aux prestataires de formations spécifiques indépendantes d’une formation professionnelle ou de cours visés à l’art. 198, al. 2, de délivrer des attestations de formation au sens de l’art. 193, al. 1, let. b et c, si l’une des conditions visées à l’al. 1 est remplie.
 
-<sup>5</sup> Dans sa demande de renouvellement de la reconnaissance, le requérant doit envoyer la documentation prévue à l’al. 2 et une attestation confirmant qu’il a suivi les cours de formation continue prévus à l’art. 190, al. 1.[^200-4]
-
-<sup>6</sup> Quiconque dispense une formation au sens de l’art. 197 ou un cours au sens de l’art. 198, al. 2, peut se voir interdire par l’OSAV la délivrance de l’attestation de formation au sens de l’art. 193, al. 1, let. b et c, si le déroulement de la formation ou du cours qu’il donne contrevient à la législation sur la protection des animaux ou s’écarte considérablement de ce qui est prévu dans la documentation fournie à l’appui de la demande de reconnaissance.[^200-5]
-
-[^200-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-2]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-3]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^200-4]: Introduit par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-5]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 200a
 
@@ -3355,29 +3624,41 @@ Les personnes qui ont acquis leurs qualifications professionnelles à l’étran
 
 **Examens**
 
-<sup>1</sup> Les formations visées à l’art. 197 sont sanctionnées par un examen.[^202-1]
+<sup>1</sup> Les formations spécifiques indépendantes d’une formation professionnelle doivent être sanctionnées par un examen.[^202-1]
 
 <sup>2</sup> Le DFI établit le règlement des examens.
 
-[^202-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^202-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ### Section 4 Exigences applicables aux formateurs en matière de détention d’animaux
 
 #### Art. 203
 
-**Formateurs de détenteurs d’animaux**
+**Formateurs de détenteurs d’animaux**[^203-1]
 
-<sup>1</sup> Quiconque dispense une des formations visées à l’art. 192, al. 1, let. b ou c, sur la manière de détenir les animaux et de les traiter, doit avoir lui-même suivi la formation visée à l’art. 197 et disposer d’au moins trois années d’expérience avec l’espèce animale concernée. La formation doit être sanctionnée par un examen. Le DFI établit le règlement des examens.
+<sup>1</sup>
 
-<sup>2</sup>
+Quiconque forme des détenteurs d’animaux dans le cadre d’une formation spécifique indépendante d’une formation professionnelle ou d’un cours visé à l’art. 198, al. 2, doit avoir suivi l’une des formations suivantes:
 
-L’OSAV reconnaît les cours pour formateurs si les exigences prévues à l’art. 197 sont complétées par des connaissances sur:
+- a. une formation dans une école professionnelle ou une haute école qui porte sur le domaine qu’il enseigne;
+- b. une formation spécifique indépendante d’une formation professionnelle, assortie d’au moins trois ans d’expérience avec l’espèce animale concernée;
+- c. une formation spécifique indépendante d’une formation professionnelle qui remplit les exigences fixées à l’art. 203*a*.
+
+<sup>2</sup> L’OSAV peut, au cas par cas, autoriser d’autres connaissances spécifiques si leur équivalence est prouvée.
+
+[^203-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 203a
+
+**Formation spécifique indépendante d’une formation professionnelle pour formateurs de détenteurs d’animaux**[^203a-1]
+
+En plus de satisfaire aux exigences de l’art. 197, la formation spécifique indépendante d’une formation professionnelle visée à l’art. 203, al. 1, let. c, doit transmettre des connaissances sur:
 
 - a. les bases didactiques et juridiques;
 - b. les principes de la formation des adultes;
 - c. l’organisation des cours.
 
-<sup>3</sup> La formation doit être accomplie auprès de l’une des organisations visées à l’art. 205.
+[^203a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 204
 
@@ -3385,34 +3666,11 @@ L’OSAV reconnaît les cours pour formateurs si les exigences prévues à l’a
 
 Quiconque dispense la formation visée à l’art. 32 pour effectuer des interventions sous anesthésie doit être titulaire d’un diplôme en médecine vétérinaire.
 
-#### Art. 205
+#### Art. 205 et 206
 
-**Exigences posées aux instituts de formation**[^205-1]
+[^205206-1]
 
-<sup>1</sup>
-
-Les formations visées à l’art. 203 peuvent être dispensées par:
-
-- a. une institution de droit public;
-- b. une organisation mandatée par le service cantonal spécialisé;
-- c. une autre organisation qui peut justifier qu’elle dispose d’un corps enseignant qualifié pour cette formation et d’un certificat valable selon la norme ISO 29990:2010[^205-2] ou eduQua:2012[^205-3], ou d’une certification équivalente pour les institutions de formation des adultes.
-
-<sup>2</sup> La certification visée à l’al. 1, let. c, doit avoir été octroyée par un organe de certification des systèmes de management accrédité selon l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^205-4].
-
-[^205-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^205-2]: La norme citée peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
-[^205-3]: La norme citée peut être consultée et obtenue auprès du secrétariat eduQua, Oerlikonerstrasse 38, 8057 Zurich.
-[^205-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-
-#### Art. 206
-
-**Conditions posées aux établissements de stage**
-
-<sup>1</sup> L’établissement où s’effectue le stage pratique de formation ou de formation qualifiante au sens de la présente ordonnance doit détenir des animaux qui, de par leur nombre et leur espèce, correspondent au moins à ceux que le stagiaire prévoit de prendre en charge. Le responsable de l’établissement doit avoir les qualifications nécessaires à la prise en charge des animaux.[^206-1]
-
-<sup>2</sup> Le stagiaire doit recevoir ses instructions directement de la personne qui assume la garde des animaux.
-
-[^206-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^205206-1]: Abrogés par le ch. I de l’O du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ## Chapitre 9*a* Infractions
 
@@ -3426,16 +3684,19 @@ Est punie conformément à l’art. 28, al. 3, LPA et pour autant que l’art. 2
 
 - a. importe des dauphins ou d’autres cétacés (*Cetacea*) (art. 7, al. 3, LPA);
 - b. contrevient aux dispositions concernant la formation des chiens au travail de défense (art. 74);
-- c. contrevient aux dispositions concernant la formation des chiens de chasse, des chiens de protection des troupeaux et des chiens de conduite des troupeaux (art. 75);
+- c.[^206a-1] contrevient aux dispositions relatives à la formation des chiens de chasse (art. 75);
 - d. utilise sans autorisation des appareils qui donnent des décharges électriques ou qui émettent des signaux sonores très désagréables pour le chien à des fins thérapeutiques ou ne respecte pas les exigences en matière de documentation sur ce point (art. 76, al. 3 et 4);
-- d<sup>bis</sup>.[^206a-1] ne respecte pas son devoir d’information au sens de l’art. 76*a*, al. 1;
+- d<sup>bis</sup>.[^206a-2] ne respecte pas son obligation d’information au sens de l’art. 76*d*, al. 1;
 - e. contrevient à l’obligation d’annoncer les accidents causés par des chiens (art. 78);
 - f. met dans le commerce sans autorisation des systèmes de stabulation et des équipements d’étables fabriqués en série destinés à des animaux de rente (art. 81);
 - g. exerce une des activités visées à l’art. 101, let. b, c ou e, et ne dispose pas d’autorisation ou ne remplit pas les conditions de l’art. 102;
-- h. ne remplit pas, en tant qu’exploitant d’un abattoir, les obligations visées à l’art. 177*a*;
-- i. ne remplit pas les exigences en tant que formateur (art. 203 et 204).
+- h.[^206a-3] ne remplit pas, en tant qu’exploitant d’un abattoir, les obligations visées à l’art. 179*e*;
+- i.[^206a-4] ne remplit pas les exigences qu’elle est tenue de respecter en tant que formateur (art. 203 à 204).
 
-[^206a-1]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^206a-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^206a-2]: Introduite par le ch. I de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^206a-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^206a-4]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ## Chapitre 10 Mesures administratives et exécution
 
@@ -3465,7 +3726,7 @@ L’OSAV procure les connaissances scientifiques nécessaires à l’émission d
 
 <sup>2</sup> Il peut obliger les autorités cantonales compétentes à enregistrer les autorisations et les résultats des contrôles officiels dans ASAN.[^209-1]
 
-<sup>3</sup> et <sup>4</sup> …[^209-2]
+<sup>3 et <sup>4</sup></sup> …[^209-2]
 
 <sup>5</sup> …[^209-3]
 
@@ -3565,7 +3826,7 @@ Les autorités cantonales communiquent à l’OSAV tous les jugements pénaux et
 
 <sup>3</sup> Chaque année, le service cantonal spécialisé établit un rapport selon le modèle de l’OSAV où il présente ses activités de contrôle et les décisions qu’il a prises.
 
-<sup>4</sup> et <sup>5</sup> …[^213-4]
+<sup>4 et <sup>5</sup></sup> …[^213-4]
 
 [^213-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^213-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
@@ -3735,6 +3996,40 @@ Doivent remplir les exigences de formation d’ici au 1<sup>er</sup> janvier 201
 
 [^225b-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
+#### Art. 225c
+
+**Disposition dérogatoire relative à la modification du 20 décembre 2024**[^225c-1]
+
+Les personnes qui exercent, à l’entrée en vigueur de la présente modification, une activité pour laquelle une formation agricole est requise par la présente ordonnance et qui justifient d’une formation relevant du champ professionnel «Agriculture et ses professions» en vertu de l’ancien droit ne sont pas tenues de satisfaire aux exigences fixées à l’art. 194, al. 1.
+
+[^225c-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
+#### Art. 225d
+
+**Dispositions transitoires de la modification du 20 décembre 2024**[^225d-1]
+
+<sup>1</sup> En dérogation à l’art. 19, al. 2, les personnes compétentes au sens de l’art. 15, al. 3, sont autorisées, jusqu’au 31 janvier 2040 (15 ans après l’entrée en vigueur), à raccourcir sans anesthésie la queue des agneaux âgés de moins de huit jours au moyen d’un anneau de ligature en caoutchouc; le moignon doit mesurer au moins 15 cm.
+
+<sup>2</sup> En dérogation à l’art. 59, al. 3, deux équidés qui ne sont pas considérés comme des congénères, mais qui sont détenus ensemble depuis de longues années à l’entrée en vigueur de la modification du 20 décembre 2024, peuvent continuer à être détenus ensemble jusqu’à la vente ou la mort d’un des deux animaux, pour autant qu’une dérogation cantonale soit délivrée.
+
+<sup>3</sup> Les exploitations qui, à l’entrée en vigueur de la modification du 20 décembre 2024, utilisent des nourrices artificielles doivent respecter les exigences fixées à l’art. 50*a* à partir du 1<sup>er</sup> février 2040 (15 ans après l’entrée en vigueur).
+
+<sup>4</sup> Les animaleries existant au moment de l’entrée en vigueur de la modification du 20 décembre 2024 doivent remplir les exigences concernant les cachettes fixées à l’annexe 3 à partir du 1<sup>er</sup> février 2026 (1 an après l’entrée en vigueur).
+
+<sup>5</sup> Les animaleries qui existent à l’entrée en vigueur de la modification du 20 décembre 2024 et qui élèvent ou détiennent des lignées ou souches d’animaux présentant un phénotype invalidant pour lesquelles la contrainte ne peut être évitée par des mesures visant à la diminuer doivent disposer, à partir du 1<sup>er</sup> février 2026 (1 an après l’entrée en vigueur), de l’autorisation de pratiquer une expérience sur des animaux justifiant avant le début de l’expérience du nombre d’animaux utilisés (art. 118*a*, al. 2).
+
+<sup>6</sup> Les délégués à la protection des animaux qui exercent, à l’entrée en vigueur de la modification du 20 décembre 2024, la fonction de directeur du domaine de l’expérimentation animale ou de directeur d’expérience dans le cadre d’expériences sur animaux autorisées peuvent continuer d’exercer ces fonctions jusqu’à l’expiration des autorisations concernées. Pour ce qui est des expérimentations autorisées après l’entrée en vigueur de ladite modification, les délégués à la protection des animaux doivent respecter l’interdiction d’exercer d’autres fonctions prévue à l’art. 129, al. 1, à partir du 1<sup>er</sup> février 2027 (2 ans après l’entrée en vigueur).
+
+<sup>7</sup> Les instituts et les laboratoires doivent respecter les exigences relatives aux attributions des délégués à la protection des animaux définies à l’art. 129*a*, let. b et c, à partir du 1<sup>er</sup> février 2026 (1 an après l’entrée en vigueur).
+
+<sup>8</sup> Quiconque propose des formations qui ont été reconnues avant l’entrée en vigueur de la modification du 20 décembre 2024 doit remplir les exigences fixées à l’art. 198*a* à partir du 1<sup>er</sup> février 2027 (2 ans après l’entrée en vigueur).
+
+<sup>9</sup> Les unités d’élevage de moutons qui existent à l’entrée en vigueur de la présente modification doivent respecter l’exigence relative aux places à la mangeoire fixée dans l’annexe 1, tableau 4, ch. 23, à partir du 1<sup>er</sup> février 2026 (1 an après l’entrée en vigueur).
+
+<sup>10</sup> Les unités d’élevage de volailles domestiques qui existent à l’entrée en vigueur de la modification du 20 décembre 2024 doivent respecter l’exigence relative à la surface au sol minimale de 2 m<sup>2</sup> fixée dans l’annexe 1, tableau 9-1, note 7, à partir du 1<sup>er</sup> février 2026 (1 an après l’entrée en vigueur).
+
+[^225d-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 ### Section 3 Entrée en vigueur
 
 #### Art. 226
@@ -3749,7 +4044,7 @@ Annexe 1[^t-1]
 
 ## Exigences minimales pour la détention d’animaux domestiques
 
-[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), le ch. II de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) et les ch. I al. 6 à 8 et II de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Remarque préliminaire
 
@@ -3760,25 +4055,25 @@ Tableau 1
 ## Bovins
 
 <table>
-<tr><th>Catégorie d’animaux</th><th></th><th>Veaux</th><th></th><th></th><th colspan="2">Jeunes animaux</th><th></th><th></th><th colspan="3">Vaches et génisses en état de gestation avancée<sup>1</sup> hauteur au garrot</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>jusqu’à 2 sem.</th><th>jusqu’à 3 sem.</th><th>4 semaines à 4 mois</th><th>jusqu’à 200 kg</th><th>200–300 kg</th><th>300–400 kg</th><th>plus de 400 kg</th><th>125 ±5 cm</th><th>135 ±5 cm</th><th colspan="3">145 ±5 cm</th></tr>
-<tr><td>1 Stabulation entravée<sup>2</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>11 Largeur de la couche par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td colspan="3">120<sup>3</sup></td></tr>
-<tr><td>12 Longueur de la couche</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>121 Couche courte<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td colspan="3">195<sup>3</sup></td></tr>
-<tr><td>122 Couche moyenne</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td colspan="3">240<sup>3</sup></td></tr>
-<tr><td>2 Détention en box</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>21 Largeur</td><td>cm</td><td>85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
-<tr><td>22 Longueur</td><td>cm</td><td>130</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
-<tr><td>3 Détention en groupe dans l’étable en stabulation libre</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>31 Surface de l’aire de repos recouverte de litière dans les systèmes sans logettes par animal</td><td>m<sup>2</sup></td><td>–</td><td>1,0<sup>6</sup></td><td>1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td>2,0<sup>8</sup></td><td>2,5<sup>8</sup></td><td>3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,5<sup>3</sup></td><td colspan="3">5,0<sup>3</sup></td></tr>
-<tr><td>32 Logettes</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>321 Largeur de la logette par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>110<sup>3</sup></td><td>120<sup>3,13</sup></td><td colspan="3">125<sup>3</sup></td></tr>
-<tr><td>322 Longueur des logettes le long de la paroi</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>160</td><td>190</td><td>210</td><td>240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td colspan="3">260<sup>3</sup></td></tr>
-<tr><td>323 Longueur des logettes opposées</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>150</td><td>180</td><td>200</td><td>220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td colspan="3">235<sup>3</sup></td></tr>
-<tr><td>33 Largeur de la place à la mangeoire par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td colspan="3">78<sup>9</sup></td></tr>
-<tr><td>34 Longueur de la place à la mangeoire, y compris couloir<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td colspan="3">330<sup>11</sup></td></tr>
-<tr><td>35 Couloir derrière la rangée des logettes<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td colspan="3">260<sup>12</sup></td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Veaux</th><th></th><th></th><th colspan="2">Jeunes animaux</th><th></th><th></th><th colspan="3">Vaches et génisses en état de gestation avancée<sup>1</sup> hauteur au garrot</th></tr>
+<tr><th></th><th></th><th>jusqu’à 2 sem.</th><th>jusqu’à 3 sem.</th><th>4 semaines à 4 mois</th><th>jusqu’à 200 kg</th><th>200–300 kg</th><th>300–400 kg</th><th>plus de 400 kg</th><th>120 –130 cm</th><th>130 –140 cm</th><th>140 –150 cm</th></tr>
+<tr><td>1 Stabulation entravée<sup>2</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Largeur de la couche par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td>120<sup>3</sup></td></tr>
+<tr><td>12 Longueur de la couche</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>121 Couche courte<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td>195<sup>3</sup></td></tr>
+<tr><td>122 Couche moyenne</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td>240<sup>3</sup></td></tr>
+<tr><td>2 Détention en box</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Largeur</td><td>cm</td><td>85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>22 Longueur</td><td>cm</td><td>130</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>3 Détention en groupe dans l’étable en stabulation libre</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 Surface de l’aire de repos recouverte de litière dans les systèmes sans logettes par animal</td><td>m<sup>2</sup></td><td>–</td><td>1,0<sup>6</sup></td><td>1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td>2,0<sup>8</sup></td><td>2,5<sup>8</sup></td><td>3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,5<sup>3</sup></td><td>5,0<sup>3</sup></td></tr>
+<tr><td>32 Logettes</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>321 Largeur de la logette par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>110<sup>3</sup></td><td>120<sup>3,13</sup></td><td>125<sup>3</sup></td></tr>
+<tr><td>322 Longueur des logettes le long de la paroi</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>160</td><td>190</td><td>210</td><td>240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td>260<sup>3</sup></td></tr>
+<tr><td>323 Longueur des logettes opposées</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>150</td><td>180</td><td>200</td><td>220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td>235<sup>3</sup></td></tr>
+<tr><td>33 Largeur de la place à la mangeoire par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td>78<sup>9</sup></td></tr>
+<tr><td>34 Longueur de la place à la mangeoire, y compris couloir<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td>330<sup>11</sup></td></tr>
+<tr><td>35 Couloir derrière la rangée des logettes<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td>260<sup>12</sup></td></tr>
 </table>
 
 Notes du tableau 1 – Bovins
@@ -3815,23 +4110,23 @@ Tableau 3
 ## Porcs (minipigs exceptés)
 
 <table>
-<tr><th>Catégorie d’animaux</th><th></th><th>Porcelets sevrés</th><th></th><th>Porcs<sup>1</sup></th><th></th><th></th><th></th><th>Truies</th><th>Verrats reproducteurs</th></tr>
-<tr><th></th><th></th><th>jusqu’à 15 kg</th><th>15–25 kg</th><th>25–60 kg</th><th>60–85 kg</th><th>85–110 kg</th><th>110–160 kg</th><th></th><th></th></tr>
-<tr><td>1 Place à la mangeoire</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>11 Place à la mangeoire par animal dans la détention en groupe</td><td>cm</td><td>12</td><td>18</td><td>27</td><td>30</td><td>33</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
-<tr><td>2 Surfaces au sol</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>21 Logette, stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65×190<sup>4</sup></td><td>–</td></tr>
-<tr><td>22 Largeur du couloir dans le cas des stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180</td><td>–</td></tr>
-<tr><td>23 Stalle d’alimentation pouvant être fermée</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>45×160</td><td>–</td></tr>
-<tr><td>3 Aire de repos</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>31 Surface totale par animal<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td>0,35</td><td>0,60</td><td>0,75</td><td>0,90</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
-<tr><td>32 Dont aire de repos par animal<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td>0,25</td><td>0,40</td><td>0,50</td><td>0,60</td><td>0,95</td><td>–</td><td>3</td></tr>
-<tr><td>321 Jusqu’à 6 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
-<tr><td>322 7 à 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
-<tr><td>323 Plus de 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
-<tr><td>4 Box de mises bas existants le 1<sup>er</sup> juillet 1997</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
-<tr><td>5 Box de mise bas installés après le 1<sup>er</sup> juillet 1997</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
-<tr><td>6 Box de mise bas nouvellement installés</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th colspan="2">Porcelets sevrés</th><th>Porcs<sup>1</sup></th><th colspan="2"></th><th></th><th></th><th></th><th>Truies</th><th>Verrats reproducteurs</th></tr>
+<tr><th></th><th></th><th>jusqu’à 15 kg</th><th>15–25 kg</th><th>25–60 kg</th><th>60–85 kg</th><th colspan="2">85–110 kg</th><th>110 –130 kg</th><th>130 –160 kg</th><th></th><th></th></tr>
+<tr><td>1 Place à la mangeoire</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Largeur de la place à la mangeoire par animal dans la détention en groupe</td><td>cm</td><td>12</td><td>18</td><td>27</td><td>30</td><td colspan="2">33</td><td>36</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
+<tr><td>2 Surfaces au sol<sup>3a</sup></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Logette, stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>65×190<sup>4</sup></td><td>–</td></tr>
+<tr><td>22 Largeur du couloir dans le cas des stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>180</td><td>–</td></tr>
+<tr><td>23 Stalle d’alimentation pouvant être fermée</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>45×160</td><td>–</td></tr>
+<tr><td>3 Aire de repos<sup>3a</sup></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 Surface totale par animal<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td>0,35</td><td>0,60</td><td>0,75</td><td colspan="2">0,90</td><td>1,30</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
+<tr><td>32 Dont aire de repos par animal<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td>0,25</td><td>0,40<sup>8a</sup></td><td>0,50</td><td colspan="2">0,60</td><td>0,75</td><td>0,95</td><td>–</td><td>3</td></tr>
+<tr><td>321 Jusqu’à 6 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
+<tr><td>322 7 à 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
+<tr><td>323 Plus de 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
+<tr><td>4 Boxes de mises bas existant le 1<sup>er</sup> juillet 1997<sup>3a</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
+<tr><td>5 Boxes de mise bas installés après le 1<sup>er</sup> juillet 1997<sup>3a</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
+<tr><td>6 Boxes de mise bas installés après le 1<sup>er</sup> septembre 2008<sup>3a</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
 </table>
 
 Notes du tableau 3 – Porcs (minipigs exceptés)
@@ -3840,11 +4135,13 @@ Notes du tableau 3 – Porcs (minipigs exceptés)
 <tr><td><sup>1</sup> Ces dimensions concernent les groupes de porcs de même âge uniquement.</td></tr>
 <tr><td><sup>2</sup> Pour les places à la mangeoire existantes au 1<sup>er</sup> septembre 2008, un espace de 40 cm suffit.</td></tr>
 <tr><td><sup>3</sup> Pour les places à la mangeoire nouvellement aménagées, l’espace libre à l’endroit le plus étroit doit être de 45 cm au moins si les séparations utilisées sont saillantes dans le box.</td></tr>
+<tr><td><sup>3a</sup> Les surfaces occupées par les dispositifs d’alimentation, tels que les mangeoires et distributeurs automatiques d’aliments, qui ne sont pas utilisables par les animaux ne peuvent pas être prises en compte dans le calcul des surfaces minimales.</td></tr>
 <tr><td><sup>4</sup> Au maximum un tiers des logettes pour truies peut être réduit à 60 cm × 180 cm. Lorsque les logettes dans les box de mise bas ne sont pas réglables en largeur et en longueur, elles doivent avoir les dimensions de 65 cm × 190 cm.</td></tr>
 <tr><td><sup>5</sup> En cas de détention sur litière profonde, la surface au sol doit être augmentée de manière appropriée.</td></tr>
 <tr><td><sup>6</sup> Une surface de 2 m<sup>2</sup> par animal est admise pour les systèmes de détention en groupe existants au 1<sup>er</sup> septembre 2008.</td></tr>
 <tr><td><sup>7</sup> La longueur de l’un des côtés du box doit être de 2 m au moins. Pour les verrats reproducteurs d’un poids de 110 à 160 kg détenus seuls, il suffit de prévoir une surface de 4 m<sup>2</sup>, dont au moins la moitié doit être aménagée comme aire de repos.</td></tr>
 <tr><td><sup>8</sup> Au début de l’engraissement, les aires de repos peuvent être diminuées par des parois amovibles.</td></tr>
+<tr><td><sup>8a</sup> Dans les boxes munis de parois amovibles, les porcs dont le poids est compris entre 25 et 40 kg doivent disposer d’une aire de repos d’au moins 0,3 m<sup>2</sup> par animal.</td></tr>
 <tr><td><sup>9</sup> Si l’aire de repos est nouvellement aménagée, la largeur de l’un des côtés d’une aire de repos doit être de 2 m au moins.</td></tr>
 <tr><td><sup>10</sup> Dont au moins 1,6 m<sup>2</sup> de sol en dur dans l’aire de repos de la truie et des porcelets.</td></tr>
 <tr><td><sup>11</sup> Dont au moins 2,25 m<sup>2</sup> pour l’aire de repos de la truie et des porcelets. Dans les box de mise bas installés après le 31 octobre 2005, la truie doit disposer dans la zone où elle se déplace d’une aire de repos d’un seul tenant d’au moins 1,2 m<sup>2</sup>, ayant une largeur et une longueur minimales, respectivement de 65 cm et de 125 cm. La largeur minimale des box de mise bas doit être de 150 cm. Dans les box plus étroits que 170 cm, aucun équipement ne doit occuper l’espace des derniers 150 cm du box.</td></tr>
@@ -3857,11 +4154,12 @@ Tableau 4
 <table>
 <tr><th>Catégorie d’animaux</th><th></th><th>Agneaux</th><th>Jeunes animaux</th><th>Moutons<sup>1</sup></th><th colspan="2">Béliers et brebis<sup>1</sup> sans agneaux</th><th></th><th colspan="2">Brebis<sup>1</sup> avec agneaux<sup>2</sup></th><th></th></tr>
 <tr><th></th><th></th><th>jusqu’à 20 kg</th><th>20–50 kg</th><th>50–70 kg</th><th>70–90 kg</th><th colspan="2">plus de 90 kg</th><th>70–90 kg</th><th colspan="2">plus de 90 kg</th></tr>
-<tr><td>1 Détention dans des box individuels</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>1 Détention dans des boxes individuels</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>11 Surface du box, par animal</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>2,0</td><td>2,0</td><td colspan="2">2,5</td><td>2,5</td><td colspan="2">3,0</td></tr>
 <tr><td>2 Stabulation libre</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>21 Largeur de la place à la mangeoire, par animal<sup>3</sup></td><td>cm</td><td>20</td><td>30</td><td>35</td><td>40</td><td colspan="2">50</td><td>60</td><td colspan="2">70</td></tr>
 <tr><td>22 Surface du box, par animal</td><td>m<sup>2</sup></td><td>0,3<sup>4</sup></td><td>0,6</td><td>1,0</td><td>1,2</td><td colspan="2">1,5</td><td>1,5<sup>5</sup></td><td colspan="2">1,8<sup>5</sup></td></tr>
+<tr><td>23 Nombre de places à la mangeoire par animal</td><td>n</td><td>1</td><td>1</td><td>1</td><td>1</td><td colspan="2">1</td><td>1</td><td colspan="2">1</td></tr>
 </table>
 
 Notes du tableau 4 – Moutons
@@ -3884,7 +4182,7 @@ Tableau 5
 <tr><td>1 Stabulation entravée</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td>11 Largeur de la couche, par animal</td><td>cm</td><td>–</td><td>–</td><td colspan="2">40</td><td colspan="2">50</td><td>60</td></tr>
 <tr><td>12 Longueur de la couche<sup>2</sup></td><td>cm</td><td>–</td><td>–</td><td colspan="2">75</td><td colspan="2">95</td><td>95</td></tr>
-<tr><td>2 Détention dans des box individuels</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>2 Détention dans des boxes individuels</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td>21 Surface du box</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">2,0</td><td colspan="2">3,0</td><td>3,5</td></tr>
 <tr><td>3 Stabulation libre</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td>31 Largeur de la place à la mangeoire, par animal</td><td>cm</td><td>15</td><td>20</td><td colspan="2">30</td><td colspan="2">35</td><td>40</td></tr>
@@ -3951,7 +4249,7 @@ Notes du tableau 7 (Équidés)
 
 <table>
 <tr><td><sup>1</sup> Si une jument est accompagnée de son poulain âgé de plus de deux mois, la surface doit être augmentée de 30 % au moins. Cette exigence est aussi applicable au box de poulinage.</td></tr>
-<tr><td><sup>2</sup> La largeur des box individuels doit être au moins équivalente à 1,5 fois la hauteur au garrot.</td></tr>
+<tr><td><sup>2</sup> La largeur des boxes individuels doit être au moins équivalente à 1,5 fois la hauteur au garrot.</td></tr>
 <tr><td><sup>3</sup> Pour cinq équidés ou plus qui s’entendent bien, la surface totale peut être réduite de 20 % au maximum.</td></tr>
 <tr><td><sup>4</sup> Des aménagements permettant aux équidés de s’éviter ou de se retirer doivent être à disposition; de tels aménagements ne sont pas exigés pour les poulains sevrés et les jeunes équidés jusqu’au début de leur utilisation régulière, au plus tard cependant jusqu’à l’âge de 30 mois.</td></tr>
 <tr><td><sup>5</sup> Les écuries existant le 1<sup>er</sup> septembre 2008 ne doivent pas être adaptées si leurs dimensions correspondent aux valeurs de tolérance. Si une écurie doit être adaptée parce que l’une des valeurs de tolérance n’est pas respectée, l’autre valeur de tolérance reste valable.</td></tr>
@@ -4016,7 +4314,7 @@ Tableau 9
 <tr><td colspan="2">1 Équipements de poulailler</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">11 Équipements pour l’alimentation et l’abreuvement, par animal</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">111 Longueur de la place à la mangeoire en cas d’alimentation manuelle</td><td>cm</td><td>3</td><td>10</td><td>16</td><td>–</td></tr>
-<tr><td colspan="2">112 Longueur de la place à la mangeoire ou au ruban transporteur en cas d’alimentation mécanique</td><td>cm</td><td>3</td><td>6</td><td>8</td><td>2<sup>1</sup></td></tr>
+<tr><td colspan="2">112 Longueur de la place à la mangeoire ou à la chaîne d’alimentation en cas d’alimentation mécanique</td><td>cm</td><td>3</td><td>6</td><td>8</td><td>2<sup>1</sup></td></tr>
 <tr><td colspan="2">113 Mangeoire à l’automate circulaire</td><td>cm</td><td>2</td><td>3</td><td>3</td><td>1,5<sup>1</sup></td></tr>
 <tr><td colspan="2">114 Gouttière latérale</td><td>cm</td><td>1</td><td>2</td><td>2,5</td><td>1<sup>1</sup></td></tr>
 <tr><td colspan="2">115 Gouttière circulaire</td><td>cm</td><td>1</td><td>1,5</td><td>1,5</td><td>1<sup>1</sup></td></tr>
@@ -4024,12 +4322,13 @@ Tableau 9
 <tr><td colspan="2">117 Système d’abreuvement par godets<sup>2</sup>, 1 godet pour (n) animaux</td><td>n</td><td>30</td><td>25</td><td>25</td><td>30</td></tr>
 <tr><td colspan="2">12 Perchoirs</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">121 Longueur des perchoirs par animal</td><td>cm</td><td>8</td><td>11</td><td>14</td><td>–</td></tr>
-<tr><td colspan="2">122 Espacement horizontal entre les perchoirs<sup>3</sup></td><td>cm</td><td>25</td><td>25</td><td>30</td><td>–</td></tr>
+<tr><td colspan="2">122 Espacement horizontal entre les perchoirs<sup>3</sup></td><td>[tab] cm</td><td>[tab] 25</td><td>[tab] 25</td><td>[tab] 30</td><td>[tab] –</td></tr>
+<tr><td colspan="2">123 Hauteur libre de tout obstacle au-dessus des perchoirs<sup>6</sup></td><td>cm</td><td>50</td><td>50</td><td>50</td><td>50</td></tr>
 <tr><td colspan="2">13 Emplacement pour la ponte</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">131 Nids individuels: 1 nid pour (n) animaux</td><td>animaux</td><td>–</td><td>–</td><td>5</td><td>–</td></tr>
 <tr><td colspan="2">132 Surface dans les nids collectifs<sup>4</sup>: 1 m<sup>2</sup> par (n) animaux</td><td>animaux</td><td>–</td><td>–</td><td>100</td><td>–</td></tr>
 <tr><td colspan="2">14 Surfaces sur lesquelles les animaux peuvent se déplacer<sup>5</sup></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">141 Hauteur libre au-dessus de la surface<sup>6</sup></td><td>cm</td><td>50</td><td>50</td><td>50</td><td>50<sup>1</sup></td></tr>
+<tr><td colspan="2">141 Hauteur libre de tout obstacle au-dessus de la surface<sup>6</sup></td><td>cm</td><td>50</td><td>50</td><td>50</td><td>50<sup>1</sup></td></tr>
 <tr><td colspan="2">142 Largeur minimale</td><td>cm</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
 <tr><td colspan="2">143 Déclivité maximale</td><td>%</td><td>12</td><td>12</td><td>12</td><td>0</td></tr>
 </table>
@@ -4038,13 +4337,13 @@ Tableau 9
 <tr><th>**Tab. 9-1** **Poules domestiques**</th><th>Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th colspan="2">Pondeuses, parentaux</th><th colspan="2"></th><th>Volailles de chair</th></tr>
 <tr><th></th><th>Semaine de vie</th><th>jusqu’à la fin de la 10<sup>e</sup></th><th>à partir de la 11<sup>e</sup> jusqu’au début de la ponte</th><th>jusqu’à 2 kg</th><th colspan="3">plus de 2 kg</th><th></th></tr>
 <tr><td>2 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
-<tr><td>21 à 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td colspan="3">6</td><td>–</td></tr>
+<tr><td>21 jusqu’à 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td colspan="3">6</td><td>–</td></tr>
 <tr><td>22 plus de 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>15</td><td>surface grillagée: 16,4 surface recouverte de litière: 10,3</td><td colspan="3">surface grillagée: 12,5 surface grillagée: 3,5</td><td></td><td>–</td></tr>
 <tr><td>3 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention<sup>8</sup> comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
-<tr><td>31 jusqu’à 20 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>15</td></tr>
-<tr><td>32 21–40 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>20</td></tr>
-<tr><td>33 41-80 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>25</td></tr>
-<tr><td>34 plus de 80 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>30</td></tr>
+<tr><td>31 jusqu’à 20 animaux: densité d’occupation: poids/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>15</td></tr>
+<tr><td>32 21–40 animaux: densité d’occupation: poids/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>20</td></tr>
+<tr><td>33 41-80 animaux: densité d’occupation: poids/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>25</td></tr>
+<tr><td>34 plus de 80 animaux: densité d’occupation: poids/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>30</td></tr>
 <tr><td>4 Surfaces sur lesquelles les parentaux d’animaux à l’engrais peuvent se déplacer, par animal</td><td>cm<sup>2</sup></td><td>–</td><td></td><td>1400</td><td colspan="3">1400</td><td>–</td></tr>
 </table>
 
@@ -4056,9 +4355,9 @@ Notes du tableau 9-1 – volaille domestique
 <tr><td><sup>3</sup> Mesure sur les axes.</td></tr>
 <tr><td><sup>4</sup> Pour chaque nid collectif, il faut prévoir plusieurs ouvertures de nids si les nids ne sont pas munis de rideaux.</td></tr>
 <tr><td><sup>5</sup> Les déjections ne doivent pas joncher les surfaces sur lesquelles les animaux peuvent se déplacer.</td></tr>
-<tr><td><sup>6</sup> Pour les volières, l’OSAV peut autoriser des hauteurs moins élevées dans le cadre de la procédure d’autorisation pour les équipements d’étables visée à l’art. 82, al. 5.</td></tr>
-<tr><td><sup>7</sup> La plus petite unité de détention doit remplir les critères suivants: Surface de base: 4000 cm<sup>2</sup> par 2 animaux; hauteur: 80 cm; zone avec litière: <sup>1</sup>/<sub>3</sub> de la surface; perchoirs surélevés.</td></tr>
-<tr><td><sup>8</sup> Si les animaux à l’engrais peuvent disposer de perchoirs, l’OSAV peut adapter la réglementation de la densité d’occupation de manière appropriée.</td></tr>
+<tr><td><sup>6</sup> Pour les volières, l’OSAV peut autoriser des hauteurs moins élevées dans le cadre de la procédure d’autorisation pour les équipements d’étables visée à l’art. 82, al. 5. Il peut fixer les hauteurs minimales dans une ordonnance de l’office.</td></tr>
+<tr><td><sup>7</sup> La surface de base de la plus petite unité de détention doit être d’au moins 2,0 m<sup>2</sup>. La plus petite unité de détention dans le cadre d’une expérience sur animaux doit remplir les critères suivants:surface de base: 4000 cm<sup>2</sup> pour 2 animaux au maximum; hauteur: 80 cm; zone avec litière: 1/3 de la surface; perchoirs surélevés.</td></tr>
+<tr><td><sup>8</sup> Si les animaux à l’engrais disposent de surfaces surélevées, l’OSAV peut adapter la réglementation de la densité d’occupation de manière appropriée.</td></tr>
 </table>
 
 <table>
@@ -4103,7 +4402,7 @@ Tableau 10
 <tr><td>22 Surface de base pour un chien</td><td>m<sup>2</sup></td><td>6</td><td>8</td><td colspan="5">10</td></tr>
 <tr><td>23 Surface de base pour deux chiens</td><td>m<sup>2</sup></td><td>10</td><td>13</td><td colspan="5">16</td></tr>
 <tr><td>24 Surface de base pour tout chien supplémentaire</td><td>m<sup>2</sup></td><td>3</td><td>4</td><td colspan="5">6</td></tr>
-<tr><td colspan="5">3 Si, pendant la journée, les chiens sont détenus en groupe à l’extérieur, avec possibilité de se retirer, et s’ils ne sont transférés dans des box individuels que pour se reposer et pour dormir, la surface des box doit présenter au moins les dimensions suivantes:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="5">3 Si, pendant la journée, les chiens sont détenus en groupe à l’extérieur, avec possibilité de se retirer, et s’ils ne sont transférés dans des boxes individuels que pour se reposer et pour dormir, la surface des boxes doit présenter au moins les dimensions suivantes:</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>31 Surface de base pour un chien</td><td>m<sup>2</sup></td><td>2,2</td><td>4,3</td><td colspan="5">5</td></tr>
 </table>
 
@@ -4327,7 +4626,7 @@ Exigences particulières
 <table>
 <tr><td>1) Prévoir des possibilités de creuser le sol.</td></tr>
 <tr><td>2) Prévoir des possibilités de grimper, sur des branches ou des rochers selon l’espèce. Le diamètre des branches doit correspondre aux organes de préhension des animaux.</td></tr>
-<tr><td>3) Box pour dormir. Ceux-ci doivent être installés au niveau du sol ou en hauteur selon l’espèce. Des box individuels doivent être prévus pour les espèces dont les animaux sont par moments non sociables.</td></tr>
+<tr><td>3) Boxes pour dormir. Ceux-ci doivent être installés au niveau du sol ou en hauteur selon l’espèce. Des boxes individuels doivent être prévus pour les espèces dont les animaux sont par moments non sociables.</td></tr>
 <tr><td>4) Détention individuelle, par couples ou en groupe suivant l’espèce, l’enclos pouvant être subdivisé. Des enclos supplémentaires doivent être prévus si le nombre d’animaux est plus élevé.</td></tr>
 <tr><td>5) Des enclos extérieurs doivent être prévus pour les espèces de plus grande taille vivant plutôt au sol (*doriani, inustus*, kangourou de Lumholtz).</td></tr>
 <tr><td>6) Écrans, possibilités d’évitement et de retrait.</td></tr>
@@ -4337,7 +4636,7 @@ Exigences particulières
 <tr><td>10) Diversifier les emplacements où l’animal s’alimente, en offrant également la possibilité à l’animal de les atteindre en y grimpant.</td></tr>
 <tr><td>11) Prévoir des possibilités de séparation ou d’isolement. Pour les espèces sociables, un contact visuel doit être possible entre les animaux.</td></tr>
 <tr><td>12) L’enclos intérieur n’est pas nécessaire pour les magots, les macaques du Tibet, les macaques du Japon et les geladas; une hutte isolée de protection suffit. En été, il en va de même pour les autres espèces détenues en plein air.</td></tr>
-<tr><td>13) Box pour dormir pouvant être subdivisés pour les groupes et les individus.</td></tr>
+<tr><td>13) Boxes pour dormir pouvant être subdivisés pour les groupes et les individus.</td></tr>
 <tr><td>14) Permettre aux animaux de s’occuper en mettant différents objets adaptés à l’espèce à leur disposition, p. ex. des cordes permettant de se balancer, de la paille et des fûts en plastique, et en cachant de manière variée la nourriture en différents endroits. Les primates doivent être incités à l’exploration par des stimuli supplémentaires dans leur environnement.</td></tr>
 <tr><td>15) Prévoir, suivant l’espèce animale, des surfaces surélevées pour se coucher (p. ex. tamandua, écureuil géant, félidés) ou un observatoire (loutre, mangouste, etc.).</td></tr>
 <tr><td>16) Prévoir des possibilités de creuser et de fouiller le sol.</td></tr>
@@ -4350,7 +4649,7 @@ Exigences particulières
 <tr><td>23) Un local intérieur est requis uniquement pour les espèces (ou les sous-espèces) sensibles au froid; dans les autres cas, box isolé pour dormir, pour chaque animal adulte, qui soit conforme aux exigences particulières du chiffre 21.</td></tr>
 <tr><td>24) Prévoir une possibilité de se baigner ou de se doucher toute l’année pour les éléphants et les rhinocéros asiatiques. Bassin à l’intérieur et à l’extérieur pour les tapirs, les hippopotames et les hippopotames nains. Les dimensions des bassins extérieurs figurent au tableau 3.</td></tr>
 <tr><td>25) Donner à l’animal la possibilité de se gratter, en installant p. ex. des troncs d’arbre ou des rochers, et prévoir un bain de sable ou une souille pour les soins de sa peau.</td></tr>
-<tr><td>26) Box individuels. Pour les espèces sociables, un contact visuel doit être possible entre les animaux se trouvant dans les box individuels. Pour les espèces sensibles au froid, les box doivent être chauffés.</td></tr>
+<tr><td>26) Boxes individuels. Pour les espèces sociables, un contact visuel doit être possible entre les animaux se trouvant dans les boxes individuels. Pour les espèces sensibles au froid, les boxes doivent être chauffés.</td></tr>
 <tr><td>27) Prévoir, selon l’espèce, la possibilité de séparer les mâles ou des possibilités de fuite pour les femelles et les jeunes animaux.</td></tr>
 <tr><td>28) Les sols à l’extérieur doivent être mous (gazon, morceaux d’écorces).</td></tr>
 <tr><td>29) Souille, sauf pour les daims et les rennes. Prévoir, pour les suidés, des possibilités de se vautrer dans la souille et de fouir le sol.</td></tr>
@@ -4359,7 +4658,7 @@ Exigences particulières
 <tr><td>32) Prévoir des troncs d’arbre permettant aux bœufs musqués de s’occuper.</td></tr>
 <tr><td>33) Prévoir en plus une véranda ou un enclos intérieur de 80 m<sup>2</sup>.</td></tr>
 <tr><td>34) Couple monogame avec descendants subadultes tolérés.</td></tr>
-<tr><td>35) Abri ou local de stabulation; en cas de détention dans des box individuels, la surface doit être triplée.</td></tr>
+<tr><td>35) Abri ou local de stabulation; en cas de détention dans des boxes individuels, la surface doit être triplée.</td></tr>
 <tr><td>36) Si un enclos extérieur est à disposition, un accès permanent à un enclos intérieur doit être garanti.</td></tr>
 <tr><td>37) Femelles en détention commune; les animaux ne doivent être enchaînés que sur une courte durée pour des raisons de sécurité, pour l’entraînement, le soin des pieds ou un traitement vétérinaire.</td></tr>
 <tr><td>38) Structure molle et souple du sol avec une zone marécageuse, permettant un accès permanent à l’eau.</td></tr>
@@ -4393,7 +4692,7 @@ Tableau 2
 <tr><th colspan="2"></th><th></th><th>Nombre</th><th>Enclos extérieur</th><th colspan="4">Volières<sup>b)</sup></th><th></th><th>Enclos extérieur</th><th colspan="2">Volières<sup>b)</sup></th><th>par animal<sup>c)</sup></th><th></th></tr>
 <tr><th colspan="2">Espèces animales</th><th></th><th>(n)</th><th>Surface<sup>d)</sup> m<sup>2</sup></th><th>Surface<sup>d)</sup> m<sup>2</sup></th><th colspan="4">Volume m<sup>3</sup></th><th>Surface m<sup>2</sup></th><th colspan="2">Surface m<sup>2</sup></th><th>Surface m<sup>2</sup></th><th></th></tr>
 <tr><td>1 Autruche africaine</td><td colspan="2">e)</td><td>2</td><td>1100</td><td>–</td><td colspan="4">–</td><td>200 f,</td><td colspan="2">–</td><td>6</td><td>1) 3) 24)</td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td>3</td><td>1600</td><td></td><td colspan="4"></td><td>800 m</td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>3</td><td>1600</td><td></td><td colspan="4"></td><td>800 m</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>2 Nandous</td><td colspan="2">e)</td><td>6</td><td>500</td><td>–</td><td colspan="4">–</td><td>50</td><td colspan="2">–</td><td>–</td><td>1) 3) 24)</td></tr>
 <tr><td>3 Casoars</td><td colspan="2">e)</td><td>2</td><td>300</td><td>–</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td>10</td><td>2) 3) 4) 24) 26)</td></tr>
 <tr><td>4 Émeu</td><td colspan="2">e)</td><td>2</td><td>500</td><td>–</td><td colspan="4">–</td><td>100</td><td colspan="2">–</td><td>–</td><td>1) 3) 24) 25) 26)</td></tr>
@@ -4863,7 +5162,7 @@ Annexe 3[^t-3]
 
 ## Exigences minimales pour la détention d’animaux d’expérience
 
-[^t-3]: Mise à jour par le ch. II de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-3]: Mise à jour par le ch. II des O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) et du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Remarques préliminaires
 
@@ -4877,27 +5176,27 @@ Tableau 1
 Les valeurs concernent des enclos ou des locaux ventilés. Sans ventilation, les valeurs de l’annexe 2 sont applicables
 
 <table>
-<tr><th>Espèces animales, poids</th><th>Surface minimale du sol de la cage cm<sup>2</sup></th><th>Surface au sol par animal cm<sup>2</sup></th><th>Hauteur cm</th><th>Notes</th></tr>
-<tr><td>Souris *Mus musculus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>20–30 g</td><td>330</td><td>80</td><td>12</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt; 30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>Rat *Rattus norvegicus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>200–300 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>300–400 g</td><td>800</td><td>350</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>400–600 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt; 600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>Hamster, *Mesocricetus sp.; Cricetulus griseus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt; 60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>Gerbille de Mongolie *Meriones* sp.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 40 g</td><td>1500</td><td>350</td><td>20</td><td>1) 3) 5) 7)</td></tr>
-<tr><td>&gt; 40 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 7)</td></tr>
-<tr><td>Cochon d’Inde *Cavia porcellus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt; 300 g</td><td>3800</td><td>350</td><td>30</td><td>1) 2) 3) 4)</td></tr>
-<tr><td>300–700 g</td><td>3800</td><td>700</td><td>30</td><td>1) 2) 3) 4)</td></tr>
-<tr><td>&gt; 700 g</td><td>3800</td><td>900</td><td>30</td><td>1) 2) 3) 4)</td></tr>
+<tr><th colspan="2">Espèces animales, poids</th><th>Surface minimale de l’unité de détention cm<sup>2</sup></th><th>Surface au sol par animal cm<sup>2</sup></th><th>Hauteur cm</th><th>Notes</th></tr>
+<tr><td colspan="2">Souris *Mus musculus*</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">20–30 g</td><td>330</td><td>80</td><td>12</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">&gt; 30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">Rat *Rattus norvegicus*</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">200–300 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">300–400 g</td><td>800</td><td>350</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">400–600 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">&gt; 600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">Hamster, *Mesocricetus sp.; Cricetulus griseus*</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td colspan="2">&gt; 60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 4) 5) 6)</td></tr>
+<tr><td>Gerbille de Mongolie *Meriones* sp.</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 40 g</td><td>1500</td><td>350</td><td>20</td><td>1) 3) 5) 7)</td></tr>
+<tr><td colspan="2">&gt; 40 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 7)</td></tr>
+<tr><td colspan="2">Cochon d’Inde *Cavia porcellus*</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 300 g</td><td>3800</td><td>350</td><td>30</td><td>1) 2) 3) 4)</td></tr>
+<tr><td colspan="2">300–700 g</td><td>3800</td><td>700</td><td>30</td><td>1) 2) 3) 4)</td></tr>
+<tr><td colspan="2">&gt; 700 g</td><td>3800</td><td>900</td><td>30</td><td>1) 2) 3) 4)</td></tr>
 </table>
 
 Notes du tableau 1 (rongeurs non utilisés pour l’élevage)
@@ -4920,13 +5219,13 @@ Les valeurs concernent des enclos ou des locaux ventilés. Sans ventilation, les
 
 <table>
 <tr><th>Espèces animales, poids</th><th>Surface minimale de l’unité de détention cm<sup>2</sup></th><th>Hauteur cm</th><th>Notes</th></tr>
-<tr><td>Souris *Mus musculus*</td><td>500</td><td>12</td><td>1) 3) 5) 6) 8) 9)</td></tr>
-<tr><td>Rat *Rattus norvegicus*</td><td></td><td></td><td></td></tr>
-<tr><td>300–400 g</td><td>800</td><td>18</td><td>1) 3) 5) 6) 10)</td></tr>
-<tr><td>&gt; 400 g</td><td>1500</td><td>20</td><td>1) 3) 5) 6) 10)</td></tr>
-<tr><td>Hamster *Mesocricetus* sp.; *Cricetulus griseus*</td><td>800</td><td>18</td><td>1) 3) 5) 6) 11)</td></tr>
+<tr><td>*Souris Mus musculus*</td><td>*500*</td><td>*12*</td><td>*1) 3) 4) 5) 6) 8) 9)*</td></tr>
+<tr><td>Rat Rattus *norvegicus*</td><td></td><td></td><td></td></tr>
+<tr><td>300–400 g</td><td>800</td><td>18</td><td>1) 3) 4) 5) 6) 10)</td></tr>
+<tr><td>&gt; 400 g</td><td>1500</td><td>20</td><td>1) 3) 4) 5) 6) 10)</td></tr>
+<tr><td>Hamster, *Mesocricetus* *sp.; Cricetulus griseus*</td><td>800</td><td>18</td><td>1) 3) 4) 5) 6) 11)</td></tr>
 <tr><td>Gerbille de Mongolie *Meriones* sp.</td><td>1500</td><td>20</td><td>1) 3) 5) 7) 8)</td></tr>
-<tr><td>Cochon d’Inde Cavia porcellus</td><td>3800</td><td>30</td><td>1) 2) 3) 4) 8) 12)</td></tr>
+<tr><td>Cochon d’Inde *Cavia porcellus*</td><td>3800</td><td>30</td><td>1) 2) 3) 4) 8) 12)</td></tr>
 </table>
 
 Notes du tableau 2 (rongeurs, utilisés pour l’élevage)
@@ -4964,7 +5263,7 @@ Notes du tableau 3 (primates, non utilisés pour l’élevage)
 
 <table>
 <tr><td>1) Aménager des possibilités de grimper (branches ou rochers selon l’espèce). Le diamètre des branches doit correspondre aux organes de préhension des animaux.</td></tr>
-<tr><td>2) Box pour dormir. Ceux-ci doivent être installés au niveau du sol ou en hauteur selon l’espèce. Pour les espèces qui peuvent se montrer temporairement non sociables, prévoir un box pour chaque animal.</td></tr>
+<tr><td>2) Boxes pour dormir. Ceux-ci doivent être installés au niveau du sol ou en hauteur selon l’espèce. Pour les espèces qui peuvent se montrer temporairement non sociables, prévoir un box pour chaque animal.</td></tr>
 <tr><td>3) Écrans, possibilités d’évitement et de retrait.</td></tr>
 <tr><td>4) Couple monogame et les descendants s’ils sont tolérés.</td></tr>
 <tr><td>5) Occupation des animaux par des objets variés, p. ex. corde pour s’accrocher, paille, bacs en plastique, et en cachant la nourriture à des endroits toujours différents. Les animaux doivent être incités à l’exploration par des stimuli supplémentaires dans leur environnement.</td></tr>
@@ -4993,7 +5292,7 @@ Annexe 4[^t-4]
 
 ## Espace minimal requis pour le transport d’animaux de rente
 
-[^t-4]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) et le ch. II al. 1 de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^t-4]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)) et le ch. II de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Remarques préliminaires
 
@@ -5025,21 +5324,53 @@ Tableau 2
 ## Espace minimal requis pour le transport des moutons, des chèvres et des équidés
 
 <table>
-<tr><td colspan="5">Espace minimal requis pour le transport de moutons tondus</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="4">Espace minimal requis pour le transport de chèvres</td><td></td><td></td></tr>
-<tr><td>Poids kg</td><td colspan="2">Surface par animal m<sup>2</sup></td><td colspan="6">Hauteur minimale du compartiment cm</td><td colspan="2"></td><td>Poids kg</td><td colspan="2">Surface par animal m<sup>2</sup></td><td colspan="3">Hauteur minimale du compartiment cm</td></tr>
-<tr><td>30–45 kg</td><td colspan="2">0,25</td><td colspan="6">Hauteur au garrot +25 cm</td><td colspan="2"></td><td>moins de 35 kg</td><td colspan="2">0,25</td><td colspan="3">Hauteur au garrot +50 cm</td></tr>
-<tr><td>45–60 kg</td><td colspan="2">0,33</td><td colspan="6">Hauteur au garrot +30 cm</td><td colspan="2"></td><td>35–55 kg</td><td colspan="2">0,33</td><td colspan="3">Hauteur au garrot +50 cm</td></tr>
-<tr><td>plus de 60 kg</td><td colspan="2">0,40</td><td colspan="6">Hauteur au garrot +30 cm</td><td colspan="2"></td><td>plus de 55 kg</td><td colspan="2">0,50</td><td colspan="3">Hauteur au garrot +50 cm</td></tr>
-<tr><td colspan="5">Espace minimal requis pour le transport de moutons non tondus</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="6">Espace minimal requis pour le transport d’équidés</td></tr>
-<tr><td colspan="2">Poids kg</td><td colspan="2">Surface par animal m<sup>2</sup></td><td colspan="6">Hauteur minimale du compartiment cm</td><td></td><td colspan="2"></td><td>Surface par animal m<sup>2</sup></td><td colspan="3">Hauteur minimale du compartiment cm</td></tr>
-<tr><td colspan="2">moins de 30 kg</td><td colspan="2">0,20</td><td colspan="6">Hauteur au garrot +20 cm</td><td></td><td colspan="2">Poulains</td><td>0,85</td><td colspan="3">Hauteur au garrot +40 cm</td></tr>
-<tr><td colspan="2">30–45 kg</td><td colspan="2">0,25</td><td colspan="6">Hauteur au garrot +25 cm</td><td></td><td colspan="2">Équidés légers</td><td>1,40</td><td colspan="3">Hauteur au garrot +40 cm</td></tr>
-<tr><td colspan="2">45–60 kg</td><td colspan="2">0,40</td><td colspan="6">Hauteur au garrot +30 cm</td><td></td><td colspan="2">Équidés moyens</td><td>1,60</td><td colspan="3">Hauteur au garrot +40 cm</td></tr>
-<tr><td colspan="2">plus de 60 kg</td><td colspan="2">0,50</td><td colspan="6">Hauteur au garrot +30 cm</td><td></td><td colspan="2">Équidés lourds</td><td>1,90</td><td colspan="3">Hauteur au garrot +40 cm</td></tr>
-<tr><td colspan="7">Espace minimal requis pour le transport de brebis en état de gestation avancée et de bélier d’élevage</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">Surface par animal m<sup>2</sup></td><td colspan="6">Hauteur minimale du compartiment cm</td><td></td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">Brebis</td><td colspan="2">0,50</td><td colspan="6">Hauteur au garrot +30 cm</td><td></td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">Béliers</td><td colspan="2">0,50</td><td colspan="6">Hauteur au garrot +30 cm</td><td></td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
+<tr><td colspan="3">Espace minimal requis pour le transport de moutons tondus</td></tr>
+<tr><td>Poids kg</td><td>Surface par animal m<sup>2</sup></td><td>Hauteur minimale du compartiment cm</td></tr>
+<tr><td>30–45 kg</td><td>0,25</td><td>Hauteur au garrot +25 cm</td></tr>
+<tr><td>45–60 kg</td><td>0,33</td><td>Hauteur au garrot +30 cm</td></tr>
+<tr><td>plus de 60 kg</td><td>0,40</td><td>Hauteur au garrot +30 cm</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Espace minimal requis pour le transport de moutons non tondus</td></tr>
+<tr><td>Poids kg</td><td>Surface par animal m<sup>2</sup></td><td>Hauteur minimale du compartiment cm</td></tr>
+<tr><td>moins de 30 kg</td><td>0,20</td><td>Hauteur au garrot +20 cm</td></tr>
+<tr><td>30–45 kg</td><td>0,25</td><td>Hauteur au garrot +25 cm</td></tr>
+<tr><td>45–60 kg</td><td>0,40</td><td>Hauteur au garrot +30 cm</td></tr>
+<tr><td>plus de 60 kg</td><td>0,50</td><td>Hauteur au garrot +30 cm</td></tr>
+</table>
+
+<table>
+<tr><td colspan="3">Espace minimal requis pour le transport de brebis en état de gestation avancée et de bélier d’élevage</td></tr>
+<tr><td></td><td>Surface par animal m<sup>2</sup></td><td>Hauteur minimale du compartiment cm</td></tr>
+<tr><td>Brebis</td><td>0,50</td><td>Hauteur au garrot +30 cm</td></tr>
+<tr><td>Béliers</td><td>0,50</td><td>Hauteur au garrot +30 cm</td></tr>
+</table>
+
+<table>
+<tr><th colspan="3">Espace minimal requis pour le transport des chèvres</th></tr>
+<tr><th>Poids<sup>1</sup> kg</th><th>Surface par animal m<sup>2</sup></th><th>Hauteur minimale du compartiment cm</th></tr>
+<tr><td>moins de 15<sup>2</sup> kg</td><td>0,12</td><td>Hauteur au garrot +30 cm</td></tr>
+<tr><td>15 à 23<sup>2</sup> kg</td><td>0,18</td><td>Hauteur au garrot +40 cm</td></tr>
+<tr><td>23 à 35 kg</td><td>0,25</td><td>Hauteur au garrot +50 cm</td></tr>
+<tr><td>35 à 55 kg</td><td>0,33</td><td>Hauteur au garrot +50 cm</td></tr>
+<tr><td>plus de 55 kg</td><td>0,50</td><td>Hauteur au garrot +50 cm</td></tr>
+</table>
+
+<table>
+<tr><th colspan="3">Espace minimal requis pour le transport d’équidés</th></tr>
+<tr><th></th><th>Surface par animal m<sup>2</sup></th><th>Hauteur minimale du compartiment cm</th></tr>
+<tr><td>Poulains</td><td>0,85</td><td>Hauteur au garrot +40 cm</td></tr>
+<tr><td>Équidés légers</td><td>1,40</td><td>Hauteur au garrot +40 cm</td></tr>
+<tr><td>Équidés moyens</td><td>1,60</td><td>Hauteur au garrot +40 cm</td></tr>
+<tr><td>Équidés lourds</td><td>1,90</td><td>Hauteur au garrot +40 cm</td></tr>
+</table>
+
+Notes du tableau 2
+
+<table>
+<tr><td><sup>1</sup> Au maximum 3 jeunes animaux dont le poids est inférieur ou égal à 7 kg peuvent être transportés dans un conteneur placé dans une voiture.</td></tr>
+<tr><td><sup>2</sup> Lors du transport de jeunes animaux dans un moyen de transport pour gros bétail, la surface de chargement doit être divisée en plusieurs compartiments au moyen de parois de séparation de manière à offrir un appui suffisant aux animaux.</td></tr>
 </table>
 
 Tableau 3
@@ -5047,13 +5378,17 @@ Tableau 3
 ## Espace minimal pour le transport de volaille
 
 <table>
-<tr><td colspan="3">Espace minimal requis pour le transport de poules, d’oies, de canards et de dindes</td><td></td><td></td><td></td><td colspan="2">Espace minimal requis pour le transport de poussins d’un jour</td><td></td><td></td></tr>
-<tr><td>Poids kg</td><td>Surface par kg de poids vif cm<sup>2</sup>/kg</td><td colspan="3">Hauteur minimale du compartiment cm</td><td></td><td></td><td colspan="2">Surface par animal cm<sup>2</sup></td><td>Hauteur minimale du compartiment cm</td></tr>
-<tr><td>jusqu’à 3,0 kg</td><td>160</td><td colspan="3">24</td><td></td><td>Poussins/canards d’un jour</td><td colspan="2">21</td><td>10</td></tr>
-<tr><td>jusqu’à 5,0 kg</td><td>115</td><td colspan="3">25</td><td></td><td>Oies/dindes d’un jour</td><td colspan="2">35</td><td>10</td></tr>
-<tr><td>jusqu’à 10,0 kg</td><td>105</td><td colspan="3">30</td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>jusqu’à 15,0 kg</td><td>105</td><td colspan="3">35</td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>plus de 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="3">Espace minimal requis pour le transport de poules, d’oies, de canards et de dindes</td></tr>
+<tr><td>Poids kg</td><td>Surface par kg de poids vif cm<sup>2</sup>/kg</td><td>Hauteur minimale du compartiment cm</td></tr>
+<tr><td>jusqu’à 3,0 kg</td><td>160</td><td>24</td></tr>
+<tr><td>jusqu’à 5,0 kg</td><td>115</td><td>25</td></tr>
+<tr><td>jusqu’à 10,0 kg</td><td>105</td><td>30</td></tr>
+<tr><td>jusqu’à 15,0 kg</td><td>105</td><td>35</td></tr>
+<tr><td>plus de 15,0 kg</td><td>90</td><td>40</td></tr>
+<tr><td colspan="3">Espace minimal requis pour le transport de poussins d’un jour</td></tr>
+<tr><td></td><td>Surface par animal cm<sup>2</sup></td><td>Hauteur minimale du compartiment cm</td></tr>
+<tr><td>Poussins/canards d’un jour</td><td>21</td><td>10</td></tr>
+<tr><td>Oies/dindes d’un jour</td><td>35</td><td>10</td></tr>
 </table>
 
 Annexe 5[^t-5]
@@ -5062,7 +5397,7 @@ Annexe 5[^t-5]
 
 ## Dispositions transitoires
 
-[^t-5]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) et les errata du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et du 6 déc. 2024 ([RO 2024 750](https://fedlex.data.admin.ch/eli/oc/2024/750)).
+[^t-5]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), les errata du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et du 6 déc. 2024 ([RO 2024 750](https://fedlex.data.admin.ch/eli/oc/2024/750)).
 
 Remarque préliminaire
 
@@ -5078,13 +5413,13 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>3</td><td>Art. 31, al. 1</td><td>Formation agricole pour plus de 10 unités de gros bétail de rente</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>4</td><td>Art. 31, al. 4</td><td>Attestation de compétences pour moins de 10 unités de gros bétail de bovins, de porcs, de moutons, de chèvres, d’ équidés, de lamas, d’alpagas, de lapins ou de volaille</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>5</td><td>Art. 31, al. 5</td><td>Attestation de compétences en cas de détention de plus de 11 équidés</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
-<tr><td>6</td><td>Art. 32 en relation avec Art. 224</td><td>La castration sans anesthésie des porcelets mâles</td><td>jusqu’au 31.12.2009</td><td colspan="3">[tab]</td><td>[tab]</td></tr>
+<tr><td>6</td><td>Art. 32 en relation avec Art. 224</td><td>La castration sans anesthésie des porcelets mâles</td><td>jusqu’au 31.12.2009</td><td colspan="3"></td><td></td></tr>
 <tr><td>7</td><td>Art. 35, al. 3</td><td>Interdiction des nouvelles couches avec dresse-vaches</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
-<tr><td>8</td><td>Art. 35, al. 4, let. c</td><td>Utilisation d’appareils reliés au réseau électrique qui ont été autorisés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>[tab]</td></tr>
+<tr><td>8</td><td>Art. 35, al. 4, let. c</td><td>Utilisation d’appareils reliés au réseau électrique qui ont été autorisés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>9</td><td>Art. 37, al. 1</td><td>Accès à de l’eau pour les veaux</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>10</td><td>Art. 37, al. 4</td><td>Affouragement des veaux à l’engrais de manière à couvrir leurs besoins en fibre grossière</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>11</td><td>Art. 39, al. 2, en relation avec l’annexe 1, tableau 2</td><td>Aire de repos pour les autres bovins</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>La surface doit être pour un animal jusqu’à 200 kg de 1,80 m<sup>2</sup>, jusqu’à 300 kg de 2,0 m<sup>2</sup> jusqu’à 400 kg de 2,3 m<sup>2</sup> et pour un animal de plus de 400 kg de 2,5 m<sup>2</sup></td></tr>
-<tr><td>12</td><td>Art. 39, al. 3</td><td>Interdiction des box à un compartiment pourvu de litière profonde pour les bovins de plus de quatre mois à l’engrais</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
+<tr><td>12</td><td>Art. 39, al. 3</td><td>Interdiction des boxes à un compartiment pourvu de litière profonde pour les bovins de plus de quatre mois à l’engrais</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>13</td><td>Art. 40, al. 1</td><td>Sorties durant la période d’affouragement d’hiver</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008 et disposant d’une dérogation</td><td></td></tr>
 <tr><td>14</td><td>Art. 40, al. 3</td><td>Séparation des veaux de leurs mères ou nourrices détenues à l’attache</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>15</td><td>Art. 41, al. 2, 2<sup>e</sup> phrase</td><td>Poutre ou un rebord dans les logettes pour bovins</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
@@ -5094,7 +5429,7 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>19</td><td>Art. 47, al. 1, en relation avec l’annexe 1, tableau 3, ch. 31 et 32</td><td>Surface totale et surface de repos pour les porcs</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">S’agissant des box avec caillebotis total ou partiel, et des box avec endroit de défécation séparé, la surface totale par animal doit être de 0,30 m<sup>2</sup> pour les porcelets jusqu’à 25 kg, de 0,45 m<sup>2</sup> pour les porcs de 25 à 60 kg, de 0,65 m<sup>2</sup> pour les porcs de 60 à 110 kg et de 1,3 m<sup>2</sup> pour les truies. Dans les box d’élevage des porcelets seuls deux tiers de la surface peut être en caillebotis ou en sol perforé.</td></tr>
 <tr><td>20</td><td>Art. 49, al. 2</td><td>Éviter que les porcs alimentés par rations ne soient chassés de la mangeoire durant la prise d’aliments</td><td>15 ans</td><td colspan="2">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="2"></td></tr>
 <tr><td>21</td><td>Art. 52, al. 1</td><td>Interdiction de la détention des moutons à l’attache</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Les moutons détenus à l’attache doivent pouvoir prendre du mouvement en plein air régulièrement, mais pendant au moins 60 jours durant la période de végétation et au moins 30 jours durant la période d’affouragement d’hiver. 2. Il est interdit de les détenir attachés plus de deux semaines sans interruption. 3. Les sorties en hiver doivent être accordées au plus tard à compter du 1<sup>er</sup> septembre 2010.</td></tr>
-<tr><td>22</td><td>Art. 55, al. 1</td><td>Sorties régulières des chèvres détenues à l’attache</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>[tab]</td></tr>
+<tr><td>22</td><td>Art. 55, al. 1</td><td>Sorties régulières des chèvres détenues à l’attache</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>23</td><td>Art. 55, al. 3</td><td>Aire de repos recouverte d’une litière suffisante pour les chèvres</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>24</td><td>Art. 59, al. 1</td><td>Interdiction de la détention des équidés à l’attache</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>25</td><td>Art. 59, al. 3</td><td>Assurer la possibilité de contacts sociaux aux équidés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
@@ -5107,7 +5442,7 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>32</td><td>Art. 66, al. 3, let. d et e</td><td>Possibilité de nager pour les canards, les oies, possibilité de prendre un bain pour les pigeons domestiques</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>33</td><td>Art. 68, al. 1</td><td>Formation avant l’acquisition d’un chien</td><td>2 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>34</td><td>Art. 68, al. 2</td><td>Formation après l’acquisition d’un chien</td><td>2 ans</td><td colspan="3"></td><td></td></tr>
-<tr><td>35</td><td>Art. 72, al. 5</td><td>Écrans dans les box et les chenils pour chiens</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
+<tr><td>35</td><td>Art. 72, al. 5</td><td>Écrans dans les boxes et les chenils pour chiens</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>36</td><td>Art. 85, al. 2</td><td>Formation spécifique à une espèce animale dans les petits établissements détenant des animaux sauvages</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>37</td><td>Art. 85, al. 3</td><td>Formation dans les petits établissements privés de détention d’animaux sauvages</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>38</td><td>Art. 97</td><td>Formation sur la manière de s’occuper de poissons et de crustacés</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
@@ -5123,13 +5458,13 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>48</td><td>Annexe 1, tableau 1, ch. 1 et 32</td><td>Dimensions (longueur et largeur) pour les jeunes animaux détenus à l’attache et pour les vaches détenues à l’attache ou en groupe</td><td>5 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008 dont les couches ou box de repos présentent des dimensions inférieures aux dimensions ci-contre:</td><td colspan="3">Jeunes animaux de 301 à 400 kg – sur couche courte: largeur de 90 cm et longueur de 145 cm Jeunes animaux de plus de 400 kg – sur couche courte: largeur de 100 cm et longueur de 155 cm Vaches ayant une hauteur au garrot de plus de 130 cm – sur couche courte: largeur de 110 cm et longueur de 165 cm – sur couche moyenne: largeur de 110 cm et longueur de 200 cm – box de repos adossés à la paroi: largeur de 120 cm et longueur de 240 cm – box de repos opposés: largeur de 120 cm et longueur de 220 cm</td></tr>
 <tr><td>49</td><td>Annexe 1, tableau 3, ch. 21</td><td>Dimensions des logettes pour les truies</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>Au maximum un tiers des logettes peut avoir les dimensions de 55 cm × 170 cm.</td></tr>
 <tr><td>50</td><td>Annexe 1, tableau 3, ch. 31 et note 7</td><td>Surface pour les verrats (longueur du côté du box)</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
-<tr><td>51</td><td>Annexe 1, tableau 4, ch. 21 et 22</td><td>Largeur de la place à la mangeoire et surface des box pour les moutons</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les box existant le 1<sup>er</sup> septembre 2008 dans les stabulations libres, la surface des box sur laquelle les animaux peuvent se déplacer doit être, par animal, de 0,5 m<sup>2</sup> pour les agneaux à l’engrais de 25 à 50 kg, de 0,7 m<sup>2</sup> pour les moutons âgés d’un an de 50 à 60 kg, de 1,0 m<sup>2</sup> pour les brebis de 60 à 70 kg sans agneaux de 1,5 m<sup>2</sup> pour les brebis de 60 à 70 kg avec agneaux et de 1,5 m<sup>2</sup> pour les béliers de plus de 70 kg. 2. Pour les box existant le 1<sup>er</sup> septembre 2008, dans les stabulations libres, la largeur de la place à la mangeoire pour les agneaux à l’engrais doit être de 20 cm pour les agneaux à l’engrais de 25 à 50 kg, de 30 cm pour les moutons âgés d’un an de 50 à 60 kg, de 40 cm pour les brebis de 60 à 70 kg sans agneaux et de 60 cm pour les brebis de 60 à 70 kg avec agneaux, et de 50 cm pour les béliers de plus de 70 kg. Pour les mangeoires circulaires, la largeur peut être diminuée de 40 %.</td></tr>
-<tr><td>52</td><td>Annexe 1, tableau 5, ch. 21, 32 et 33</td><td>Surface des box et des compartiments, nombre de places à la mangeoire pour les chèvres</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les box individuels existant le 1<sup>er</sup> septembre 2008, la surface du box doit être, par animal, de 2,5 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 3,0 m<sup>2</sup> pour les boucs. 2. Pour les compartiments existant le 1<sup>er</sup> septembre 2008, la surface du compartiment dans les stabulations libres doit être, par animal, de 0,4 m<sup>2</sup> pour les cabris âgés de moins de 3 mois, de 0,9 m<sup>2</sup> pour les jeunes cabris de moins de 12 mois, de 1,0 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 1,5 m<sup>2</sup> pour les boucs. Au moins 80 % de cette surface doivent être constitués d’une aire de repos. 3. Chaque animal doit disposer d’au moins une place à la mangeoire.</td></tr>
+<tr><td>51</td><td>Annexe 1, tableau 4, ch. 21 et 22</td><td>Largeur de la place à la mangeoire et surface des boxes pour les moutons</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les boxes existant le 1<sup>er</sup> septembre 2008 dans les stabulations libres, la surface des boxes sur laquelle les animaux peuvent se déplacer doit être, par animal, de 0,5 m<sup>2</sup> pour les agneaux à l’engrais de 25 à 50 kg, de 0,7 m<sup>2</sup> pour les moutons âgés d’un an de 50 à 60 kg, de 1,0 m<sup>2</sup> pour les brebis de 60 à 70 kg sans agneaux de 1,5 m<sup>2</sup> pour les brebis de 60 à 70 kg avec agneaux et de 1,5 m<sup>2</sup> pour les béliers de plus de 70 kg. 2. Pour les boxes existant le 1<sup>er</sup> septembre 2008, dans les stabulations libres, la largeur de la place à la mangeoire pour les agneaux à l’engrais doit être de 20 cm pour les agneaux à l’engrais de 25 à 50 kg, de 30 cm pour les moutons âgés d’un an de 50 à 60 kg, de 40 cm pour les brebis de 60 à 70 kg sans agneaux et de 60 cm pour les brebis de 60 à 70 kg avec agneaux, et de 50 cm pour les béliers de plus de 70 kg. Pour les mangeoires circulaires, la largeur peut être diminuée de 40 %.</td></tr>
+<tr><td>52</td><td>Annexe 1, tableau 5, ch. 21, 32 et 33</td><td>Surface des boxes et des compartiments, nombre de places à la mangeoire pour les chèvres</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les boxes individuels existant le 1<sup>er</sup> septembre 2008, la surface du box doit être, par animal, de 2,5 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 3,0 m<sup>2</sup> pour les boucs. 2. Pour les compartiments existant le 1<sup>er</sup> septembre 2008, la surface du compartiment dans les stabulations libres doit être, par animal, de 0,4 m<sup>2</sup> pour les cabris âgés de moins de 3 mois, de 0,9 m<sup>2</sup> pour les jeunes cabris de moins de 12 mois, de 1,0 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 1,5 m<sup>2</sup> pour les boucs. Au moins 80 % de cette surface doivent être constitués d’une aire de repos. 3. Chaque animal doit disposer d’au moins une place à la mangeoire.</td></tr>
 <tr><td>53</td><td>Annexe 1, tableau 5, ch. 12, annotation 2</td><td>Couches perforées</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>25 % au plus de la couche peuvent être perforés.</td></tr>
 <tr><td>54</td><td>Annexe 1, tableau 7</td><td>Surface pour équidés</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008, si la surface est inférieure à 75 % des dimensions minimales indiquées dans le tableau</td><td>Les équidés doivent pouvoir se coucher, se reposer et se lever de manière conforme à l’espèce.</td></tr>
 <tr><td>55</td><td>Annexe 1, tableau 7</td><td>Surface pour équidés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008, si la surface est inférieure aux dimensions minimales indiquées dans le tableau, mais supérieure à 75 % des dimensions indiquées</td><td></td></tr>
 <tr><td>56</td><td>Annexe 1, tableau 9-1, ch. 121 et 122</td><td>Perchoirs pour les poussins et les jeunes de poules domestiques</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
-<tr><td>57</td><td>Annexe 1, tableau 10. ch. 12 et 13, 23 et 24</td><td>Surface pour la détention en groupes dans des box et des chenils de chiens domestiques</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
+<tr><td>57</td><td>Annexe 1, tableau 10. ch. 12 et 13, 23 et 24</td><td>Surface pour la détention en groupes dans des boxes et des chenils de chiens domestiques</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>58</td><td>Annexe 1, tableau 11. ch. 12 et 13</td><td>Surfaces pour les chats</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>59</td><td>Annexe 2</td><td>Enclos pour les animaux sauvages</td><td>10 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008 dont les enclos doivent remplir les nouvelles exigences minimales</td><td></td></tr>
 <tr><td>60</td><td>Annexe 3, tableau 1 et 2</td><td>Exigences minimales pour la détention de rongeurs dans des animaleries de laboratoire autorisées</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008 pour rongeurs utilisés dans les laboratoires</td><td></td></tr>
