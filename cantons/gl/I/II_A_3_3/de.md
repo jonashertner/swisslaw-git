@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2025-01-01
-valid_until: 2025-01-31
-version_adopted: 2024-08-27
+version: 2025-02-01
+valid_until: 2025-03-31
+version_adopted: 2024-12-17
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2498/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2526/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2498/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.01.2025)
+Vom 21.03.2006 (Stand 01.02.2025)
 
 Der Regierungsrat,
 
@@ -441,28 +441,34 @@ verordnet:
 
 #### Art. A1-1
 
+**…**
+
+#### Art. A1-1a
+
 **Staatskanzlei**
 
 <sup>1</sup> Zu den Aufgaben der Staatskanzlei gehören insbesondere:
 
-- a. Sekretariat und juristische Betreuung Regierungsrat,
-- b. Koordination der Vorbereitung von Regierungsgeschäften durch die Departemente,
-- c. Controlling Regierungsgeschäfte (ohne Finanzen),
-- d. Parlamentsdienst,
-- e. Verbindung und Koordination zwischen Regierungsrat und Landrat,
-- f. Wahlen und Abstimmungen,
-- g. Information und Kommunikation,
-- h. juristische Beratung der Departemente ohne eigenes juristisches Personal,
-- i. Gesetzessammlung und amtliche Publikationen,
-- k. …
-- l. Koordinationsstelle Statistik,
-- m. Beglaubigungen und Apostillen,
-- n. …
-- o. Nutzung des Rathauses und des Rathausplatzes zu privaten Zwecken,
-- p. Weibeldienst, Beschaffung und Verwaltung Büromaterial sowie Vervielfältigungsgeräte, Postdienst,
-- q. Telefonie (Budget/Rechnung), Telefonzentrale,
-- r. Protokollarisches, Verbindung mit den diplomatischen und konsularischen Korps,
-- s. Öffentlichkeitsprinzip.
+- a. Regierungsgeschäfte (Vorbereitung, Protokoll, Controlling),
+- b. Beschwerdeverfahren,
+- c. Verwaltungsinterne Rechtsberatung,
+- d. Rechtssetzung (Betreuung Gesetzessammlung),
+- e. Politische Kommunikation (Unterstützung, Betreuung Newsroom, Social Media),
+- f. Kantonsmarketing (Koordination),
+- g. Digitale Transformation (Planung, Controlling),
+- h. Serviceportal und Geschäftsverwaltung (Anlaufstelle, Betreuung),
+- i. Redaktion Memorial und Vorlagen,
+- j. Organisation Landsgemeinde und Näfelser Fahrt,
+- k. Wahlen und Abstimmungen,
+- l. Politische Planung Regierung (Koordination, Controlling),
+- m. Beglaubigungen,
+- n. Amtsblatt und Staatskalender,
+- o. Infrastruktur Rathaus (Nutzung, Empfang, Telefonzentrale),
+- p. Weibeldienst und Post,
+- q. Drucksachen und Büromaterial (Einkauf, Abgabe),
+- r. Öffentlichkeitsprinzip und Statistik (Koordination),
+- s. Aussenbeziehungen Kantone, ausländische Vertretungen,
+- t. Ratssekretariat (Aufgaben gemäss Art. 62 Abs. 2 LRV).
 
 #### Art. A1-2
 
@@ -606,23 +612,23 @@ verordnet:
 
 #### Art. A2-1
 
+**…**
+
+#### Art. A2-1a
+
 **Staatskanzlei**
 
 <sup>1</sup> Die Staatskanzlei ist wie folgt gegliedert:
 
 - a. Staatskanzlei
-  - 0\.1. Sekretariat Regierungsrat
-  - 0\.2. Controlling Regierungsgeschäfte
-  - 0\.3. Parlamentsdienst
-  - 0\.4. kantonales Wahlbüro
-  - 0\.5. Informationsdienst
-  - 0\.6. Rechtsdienst
-  - 0\.7. Gesetzessammlung
-  - 0\.8. Weibeldienst
-  - 0\.9. Datenschutz (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
-  - 0\.10. …
-  - 0\.11. Finanzkontrolle (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
-  - 0\.12. Digitale Verwaltung
+  - 0\.1. Kanzleisekretariat
+  - 0\.2. Politik und Strategie
+  - 0\.3. Kommunikation
+  - 0\.4. Digitale Verwaltung
+  - 0\.5. Parlamentsdienst (Ratssekretariat gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
+  - 0\.6. Datenschutz (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
+  - 0\.7. Finanzkontrolle (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
+  - 1\. Recht
 
 #### Art. A2-2
 
