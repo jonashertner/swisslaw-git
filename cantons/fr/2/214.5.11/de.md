@@ -4,13 +4,12 @@ number: "214.5.11"
 title: Ausführungsreglement zum Gesetz über das Grundbuch
 short: ARGBG
 language: de
-version: 2024-03-01
-valid_until: 2025-01-31
-version_adopted: 2024-02-20
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.5.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8590/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8592/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Grundbuch – R
 
 (ARGBG)
 
-vom 09.12.1986 (Fassung in Kraft getreten am 01.03.2024)
+vom 09.12.1986 (Fassung in Kraft getreten am 01.02.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,39 +36,50 @@ beschliesst:
 
 #### Art. 1
 
-**Belange der Grundbuchämter (Art. 2 GBG)**
+**Belange der Grundbuchämter (Art. 2 GBG[^1-1])**
 
 <sup>1</sup> Die Finanzdirektion (die Direktion) und die Aufsichtsbehörde über das Grundbuch (die Aufsichtsbehörde) hören die Freiburger Vereinigung der Grundbuchverwalterinnen und Grundbuchverwalter in wichtigen Fragen der Grundbuchführung an. Sie können den Vorstand der Vereinigung mit Aufgaben betrauen, die alle Grundbuchämter des Kantons betreffen.
 
+[^1-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 2
 
-**Ausstand (Art. 3 GBG)**
+**Ausstand (Art. 3 GBG[^2-1])**
 
 <sup>1</sup> Die Gesetzgebung über das Staatspersonal regelt den Ausstand der Grundbuchverwalterinnen und Grundbuchverwalter.
+
+[^2-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 ### 1.2 Aufsichtsbehörde über das Grundbuch
 
 #### Art. 3
 
-**Sitz (Art. 8 GBG)**
+**Sitz (Art. 8 GBG[^3-1])**
 
 <sup>1</sup> Die Aufsichtsbehörde hat ihren Sitz bei der Direktion in Freiburg.
 
+[^3-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 4
 
-**Wählbarkeit (Art. 8 GBG)**
+**Wählbarkeit (Art. 8 GBG[^4-1])**
 
-<sup>1</sup> Die allgemeinen Voraussetzungen für die Wählbarkeit der Mitglieder der Aufsichtsbehörde richten sich nach den Artikeln 9, 10 und 15 ff. des Justizgesetzes.
+<sup>1</sup> Die allgemeinen Voraussetzungen für die Wählbarkeit der Mitglieder der Aufsichtsbehörde richten sich nach den Artikeln 9, 10 und 15 ff. des Justizgesetzes[^4-2].
+
+[^4-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^4-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 5
 
-**Organisation (Art. 8 GBG) – Präsidium und Vizepräsidium**
+**Organisation (Art. 8 GBG[^5-1]) – Präsidium und Vizepräsidium**
 
 <sup>1</sup> Die Aufsichtsbehörde bezeichnet ihre Präsidentin oder ihren Präsidenten und ihre Vizepräsidentin oder ihren Vizepräsidenten.
 
+[^5-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 6
 
-**Organisation (Art. 8 GBG) – Sekretärin oder Sekretär a) Bezeichnung**
+**Organisation (Art. 8 GBG[^6-1]) – Sekretärin oder Sekretär a) Bezeichnung**
 
 <sup>1</sup> Die Aufsichtsbehörde bezeichnet eine Sekretärin oder einen Sekretär, die oder den sie unter ihren Mitgliedern bestimmen kann. Bei Verhinderung oder Ausstand dieser Person kann sie eine Sekretärin oder einen Sekretär ad hoc bestimmen.
 
@@ -77,11 +87,15 @@ beschliesst:
 
 <sup>3</sup> Die Bezeichnung der Sekretärin oder des Sekretärs wird der Direktion mitgeteilt.
 
+[^6-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 7
 
-**Organisation (Art. 8 GBG) – Sekretärin oder Sekretär b) Tätigkeit**
+**Organisation (Art. 8 GBG[^7-1]) – Sekretärin oder Sekretär b) Tätigkeit**
 
 <sup>1</sup> Die Sekretärin oder der Sekretär führt die Protokolle der Sitzungen und Inspektionen, besorgt die Redaktion und den Versand der Entscheide und Akten der Aufsichtsbehörde und erledigt die übrigen Aufgaben, die ihr oder ihm von der Präsidentin oder vom Präsidenten der Aufsichtsbehörde anvertraut werden.
+
+[^7-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 8
 
@@ -89,9 +103,12 @@ beschliesst:
 
 #### Art. 9
 
-**Entschädigung (Art. 8 GBG)**
+**Entschädigung (Art. 8 GBG[^9-1])**
 
-<sup>1</sup> Die Mitglieder und die Sekretärin oder der Sekretär der Aufsichtsbehörde werden gemäss der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates festgesetzt.
+<sup>1</sup> Die Mitglieder und die Sekretärin oder der Sekretär der Aufsichtsbehörde werden gemäss der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates[^9-2] festgesetzt.
+
+[^9-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^9-2]: SGF [122.8.41](https://bdlf.fr.ch/data/122.8.41/de)
 
 #### Art. 10
 
@@ -111,38 +128,46 @@ beschliesst:
 
 #### Art. 14
 
-**Aufgaben (Art. 10 GBG) – Inspektionen**
+**Aufgaben (Art. 10 GBG[^14-1]) – Inspektionen**
 
 <sup>1</sup> Bei der Inspektion der Grundbuchämter prüft die Aufsichtsbehörde insbesondere die Führung und die Aufbewahrung des Hauptbuches, der ergänzenden Dokumente und des Tagebuches. Sie weist die Grundbuchverwalterin oder den Grundbuchverwalter auf festgestellte Unregelmässigkeiten hin und sorgt dafür, dass diese behoben werden.
 
 <sup>2</sup> Über die Inspektion wird Protokoll geführt, das der Grundbuchverwalterin oder dem Grundbuchverwalter und der Direktion zugestellt wird.
 
+[^14-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 15
 
-**Aufgaben (Art. 10 GBG) – Weisungen**
+**Aufgaben (Art. 10 GBG[^15-1]) – Weisungen**
 
 <sup>1</sup> Die Aufsichtsbehörde kann den Grundbuchverwalterinnen oder den Grundbuchverwaltern allgemeine Weisungen erteilen; die Grundbuchverwalter oder die Grundbuchverwalterinnen entscheiden jedoch in eigener Verantwortung über die Anmeldungen.
 
 <sup>2</sup> Die Aufsichtsbehörde teilt den Grundbuchverwalterinnen oder den Grundbuchverwaltern den Inhalt der grundsätzlichen Beschwerdeentscheide mit.
 
+[^15-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 16
 
-**Aufgaben (Art. 10 GBG) – Zustellung von Weisungen**
+**Aufgaben (Art. 10 GBG[^16-1]) – Zustellung von Weisungen**
 
 <sup>1</sup> Die Weisungen der Aufsichtsbehörde werden der Direktion zugestellt und, soweit sie für die Ausübung ihres Berufes von Bedeutung sind:
 
 - a) mit Genehmigung der Sicherheits-, Justiz- und Sportdirektion den Notarinnen und Notaren über die Präsidentin oder den Präsidenten der Notariatskammer und
 - b) den patentierten Ingenieur-Geometerinnen und Ingenieur-Geometern über das Amt für Geoinformation.
 
+[^16-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 17
 
-**Aufgaben (Art. 10 GBG) – Ausarbeitung von Mustern und Formularen**
+**Aufgaben (Art. 10 GBG[^17-1]) – Ausarbeitung von Mustern und Formularen**
 
 <sup>1</sup> Die Freiburger Vereinigung der Grundbuchverwalterinnen und Grundbuchverwalter erstellt in Zusammenarbeit mit der Aufsichtsbehörde offizielle Muster für Register und Formulare, soweit diese nicht bereits vom Bundesrat bestimmt wurden.
 
+[^17-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 18
 
-**Aufgaben (Art. 10 GBG) – Beziehungen zur Direktion**
+**Aufgaben (Art. 10 GBG[^18-1]) – Beziehungen zur Direktion**
 
 <sup>1</sup> Die Aufsichtsbehörde trifft sich mindestens einmal pro Jahr mit der Direktionsvorsteherin oder dem Direktionsvorsteher, insbesondere im Hinblick auf die Budgeterarbeitung und die Planung im Zusammenhang mit der:
 
@@ -150,13 +175,15 @@ beschliesst:
 - b) Führung und Aufbewahrung der Dokumente des Grundbuches, und
 - c) Informatisierung des Grundbuchs.
 
+[^18-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 ## 2 Anlegung des Eidgenössischen Grundbuches
 
 ### 2.1 Allgemeine Bestimmungen
 
 #### Art. 19
 
-**Beschluss betreffend Ausführung (Art. 14 GBG) – Veröffentlichung**
+**Beschluss betreffend Ausführung (Art. 14 GBG[^19-1]) – Veröffentlichung**
 
 <sup>1</sup> Hinterlegt das Amt für Geoinformation beim Grundbuchamt den Übergangskataster, so teilt es dies der Direktion mit.
 
@@ -175,13 +202,18 @@ beschliesst:
 - c) die Inhaberinnen und Inhaber die Eintragung ihrer Rechte direkt von der Richterin oder vom Richter zu verlangen haben, wenn sie sich innert der vorgesehenen Frist nicht an die Grundbuchverwalterin oder den Grundbuchverwalter gewendet haben, und
 - d) diese Rechte aufgehoben sind, wenn innert der vorgeschriebenen Frist keine Eintragung oder keine vorläufige Eintragung erfolgt.
 
-<sup>5</sup> Artikel 29 Absatz 3 GBG ist sinngemäss anwendbar.
+<sup>5</sup> Artikel 29 Absatz 3 GBG[^19-2] ist sinngemäss anwendbar.
+
+[^19-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^19-2]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 20
 
-**Beschluss betreffend Ausführung (Art. 14 GBG) – Mitteilungen**
+**Beschluss betreffend Ausführung (Art. 14 GBG[^20-1]) – Mitteilungen**
 
 <sup>1</sup> Der Beschluss wird zudem dem Eidgenössischen Amt für Grundbuch- und Bodenrecht und den betroffenen kantonalen Ämtern mitgeteilt.
+
+[^20-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 21
 
@@ -189,7 +221,7 @@ beschliesst:
 
 #### Art. 22
 
-**Mitwirkung der Eigentümerinnen und Eigentümer (Art. 16 GBG)**
+**Mitwirkung der Eigentümerinnen und Eigentümer (Art. 16 GBG[^22-1])**
 
 <sup>1</sup> Die von den Arbeiten der Anlegung des eidgenössischen Grundbuches betroffenen Grundeigentümerinnen und Grundeigentümer können insbesondere verpflichtet werden:
 
@@ -197,21 +229,26 @@ beschliesst:
 - b) die Namen und Adressen der Inhaberinnen und Inhaber der beschränkten dinglichen Rechte auf ihren Grundstücken anzugeben, und
 - c) bei der Bezeichnung der Stelle, an der die Dienstbarkeiten ausgeübt werden, mitzuhelfen.
 
-<sup>2</sup> Eigentümerinnen und Eigentümer, die ihre Mitwirkung verweigern, können verpflichtet werden, die Kosten zu tragen, die durch ihre Weigerung zusätzlich entstanden sind. Artikel 292 des Schweizerischen Strafgesetzbuches bleibt vorbehalten.
+<sup>2</sup> Eigentümerinnen und Eigentümer, die ihre Mitwirkung verweigern, können verpflichtet werden, die Kosten zu tragen, die durch ihre Weigerung zusätzlich entstanden sind. Artikel 292 des Schweizerischen Strafgesetzbuches[^22-2] bleibt vorbehalten.
+
+[^22-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^22-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 ### 2.2 Anerkennungsverfahren
 
 #### Art. 23
 
-**Programm (Art. 23 GBG)**
+**Programm (Art. 23 GBG[^23-1])**
 
 <sup>1</sup> Nach der Ergänzung des Übergangskatasters erstellt die Grundbuchverwalterin oder der Grundbuchverwalter das Programm für die durchzuführenden Anerkennungen.
 
 <sup>2</sup> Die Modifikationsverbale der an den Perimeter angrenzenden Liegenschaften müssen anerkannt werden.
 
+[^23-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 24
 
-**Vorladung (Art. 23 GBG)**
+**Vorladung (Art. 23 GBG[^24-1])**
 
 <sup>1</sup> Das Formular der Vorladung wird von der Grundbuchverwalterin oder vom Grundbuchverwalter ausgearbeitet. Die Vorladung ist mindestens acht Tage vor der Anerkennungssitzung eingeschrieben zu verschicken.
 
@@ -222,36 +259,45 @@ beschliesst:
 
 <sup>3</sup> Sie enthält zudem Angaben darüber, welche Ausweise die vorgeladenen Personen vorzuweisen haben.
 
+[^24-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 25
 
 **…**
 
 #### Art. 26
 
-**Protokoll und Sitzungsort (Art. 24 GBG)**
+**Protokoll und Sitzungsort (Art. 24 GBG[^26-1])**
 
 <sup>1</sup> Die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer führt das Sitzungsprotokoll.
 
 <sup>2</sup> Die Sitzungen werden in der Regel auf dem Grundbuchamt durchgeführt.
 
+[^26-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 27
 
-**Anerkennungssitzungen (Art. 25 GBG) – Nicht eingetragene Rechte**
+**Anerkennungssitzungen (Art. 25 GBG[^27-1]) – Nicht eingetragene Rechte**
 
 <sup>1</sup> Werden Rechte, die vor dem Inkrafttreten des schweizerischen Zivilgesetzbuches begründet wurden, jetzt geltend gemacht, so kann die Grundbuchverwalterin oder der Grundbuchverwalter die Eintragung verweigern, wenn diese Rechte:
 
 - a) offensichtlich nicht bestehen, oder
 - b) wegen ihrer Natur nicht ins Grundbuch aufgenommen werden können.
 
+[^27-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 28
 
-**Anerkennungssitzungen (Art. 25 GBG) – Fehlende Zustimmungen**
+**Anerkennungssitzungen (Art. 25 GBG[^28-1]) – Fehlende Zustimmungen**
 
-<sup>1</sup> Fehlt die Zustimmung für die Eintragung eines geltend gemachten Rechtes, das vor Inkrafttreten des schweizerischen Zivilgesetzbuches begründet wurde, so löscht die Grundbuchverwalterin oder der Grundbuchverwalter die provisorische Eintragung im Übergangskataster.
+<sup>1</sup> Fehlt die Zustimmung für die Eintragung eines geltend gemachten Rechtes, das vor Inkrafttreten des schweizerischen Zivilgesetzbuches[^28-2] begründet wurde, so löscht die Grundbuchverwalterin oder der Grundbuchverwalter die provisorische Eintragung im Übergangskataster.
+
+[^28-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^28-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 29
 
-**Anerkennungssitzungen (Art. 25 GBG) – Mitteilung an die Personen, die nicht eingetragene Rechte geltend gemacht haben**
+**Anerkennungssitzungen (Art. 25 GBG[^29-1]) – Mitteilung an die Personen, die nicht eingetragene Rechte geltend gemacht haben**
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter orientiert die Personen, die nicht eingetragene Rechte geltend gemacht haben, über:
 
@@ -259,19 +305,23 @@ beschliesst:
 - b) das Verfahren, das zu befolgen ist, und
 - c) die Folgen der Nichteintragung.
 
+[^29-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 30
 
-**Schluss des Anerkennungsverfahrens (Art. 27 GBG) – Vermessungsdokumente**
+**Schluss des Anerkennungsverfahrens (Art. 27 GBG[^30-1]) – Vermessungsdokumente**
 
 <sup>1</sup> Die beauftragte Ingenieur-Geometerin oder der beauftragte Ingenieur-Geometer erstellt für die Grundbuchverwalterin oder den Grundbuchverwalter eine Liste der vorgenommenen Änderungen, sobald die in den Anerkennungssitzungen vorgenommenen Änderungen nachgeführt sind. Die Grundbuchverwalterin oder der Grundbuchverwalter stellt dem Amt für Geoinformation eine Kopie dieser Liste zu.
 
+[^30-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 31
 
-**Schluss des Anerkennungsverfahrens (Art. 27 GBG) – Inhalt der Schlussverfügung**
+**Schluss des Anerkennungsverfahrens (Art. 27 GBG[^31-1]) – Inhalt der Schlussverfügung**
 
 <sup>1</sup> Bevor die Schlussverfügung des Anerkennungsverfahrens erlassen wird, fordert die Grundbuchverwalterin oder der Grundbuchverwalter die Personen, die noch Vollmachten oder andere Belege einzureichen haben, auf, dies innert der festgesetzten Frist nachzuholen.
 
-<sup>2</sup> Neben dem in Artikel 27 GBG vorgeschriebenen Inhalt hat die Schlussverfügung zu enthalten:
+<sup>2</sup> Neben dem in Artikel 27 GBG[^31-2] vorgeschriebenen Inhalt hat die Schlussverfügung zu enthalten:
 
 - a) die Zusammensetzung der Anerkennungskommission;
 - b) das Datum der Einreichung des Übergangskatasters beim Grundbuchamt;
@@ -282,19 +332,24 @@ beschliesst:
 
 <sup>3</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter stellt dem Amt für Geoinformation eine Kopie der Schlussverfügung des Anerkennungsverfahrens zu.
 
+[^31-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^31-2]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 ### 2.3 Auflage des eidgenössischen Grundbuches
 
 #### Art. 32
 
-**Teilweise Auflagen (Art. 28 GBG)**
+**Teilweise Auflagen (Art. 28 GBG[^32-1])**
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter kann in Ausnahmefällen und mit der Zustimmung des Amtes für Geoinformation die Blätter eines neu vermessenen Gebietes etappenweise auflegen, wenn keine Verbale notwendig sind, die den Perimeter der Teilauflagen zuerst bestimmen müssen.
 
 <sup>2</sup> Die Inkraftsetzung erfolgt etappenweise.
 
+[^32-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 33
 
-**Bekanntmachung (Art. 29 GBG) – Inhalt**
+**Bekanntmachung (Art. 29 GBG[^33-1]) – Inhalt**
 
 <sup>1</sup> Die Bekanntmachung gibt den Gegenstand der Auflage an und weist darauf hin, dass die Einsprachen:
 
@@ -302,23 +357,31 @@ beschliesst:
 - b) eine Begründung und eine genaue Bezeichnung des Gegenstandes enthalten müssen, und
 - c) mündlich oder schriftlich abgegeben werden können.
 
+[^33-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 34
 
-**Bekanntmachung (Art. 29 GBG) – Bekanntmachung an die Stockwerkeigentümerinnen und Stockwerkeigentümer**
+**Bekanntmachung (Art. 29 GBG[^34-1]) – Bekanntmachung an die Stockwerkeigentümerinnen und Stockwerkeigentümer**
 
 <sup>1</sup> Die Stockwerkeigentümerinnen und Stockwerkeigentümer werden über ihre Verwalterin oder ihren Verwalter benachrichtigt.
 
+[^34-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 35
 
-**Bekanntmachung (Art. 29 GBG) – Auflageakten (Art. 30 GBG)**
+**Bekanntmachung (Art. 29 GBG[^35-1]) – Auflageakten (Art. 30 GBG[^35-2])**
 
-<sup>1</sup> Zusätzlich zu den in Artikel 30 GBG erwähnten Dokumenten müssen die folgenden Akten aufgelegt werden:
+<sup>1</sup> Zusätzlich zu den in Artikel 30 GBG[^35-3] erwähnten Dokumenten müssen die folgenden Akten aufgelegt werden:
 
 - a) die Modifikationsverbale der an den Perimeter angrenzenden Liegenschaften;
 - b) die während dem Anerkennungsverfahren errichteten Belege;
 - c) die Protokolle der Anerkennungssitzungen;
 - d) die Schlussverfügung des Anerkennungsverfahrens, und
 - e) die geltend gemachten nicht eingetragenen Rechte.
+
+[^35-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^35-2]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^35-3]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 ### 2.4 Inkraftsetzung des eidgenössischen Grundbuches und Kosten
 
@@ -328,11 +391,13 @@ beschliesst:
 
 #### Art. 37
 
-**Beschluss (Art. 35 GBG) – Veröffentlichung**
+**Beschluss (Art. 35 GBG[^37-1]) – Veröffentlichung**
 
 <sup>1</sup> Der Beschluss zur Inkraftsetzung des eidgenössischen Grundbuchs und die Inkraftsetzung der Vermessungsdokumente werden einmal veröffentlicht.
 
 <sup>2</sup> Der Beschluss zur Inkraftsetzung des eidgenössischen Grundbuches wird zudem dem Eidgenössischen Amt für Grundbuch- und Bodenrecht mitgeteilt.
+
+[^37-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 38
 
@@ -344,21 +409,25 @@ beschliesst:
 
 #### Art. 40
 
-**Aufbewahrung der Dokumente (Art. 35 GBG)**
+**Aufbewahrung der Dokumente (Art. 35 GBG[^40-1])**
 
 <sup>1</sup> Die Dokumente, die als Grundlagen für die Anlegung des eidgenössischen Grundbuches gedient haben, werden nach den Weisungen der Aufsichtsbehörde aufbewahrt.
 
+[^40-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 41
 
-**Rechtskräftige Blätter und Auszüge (Art. 35 GBG)**
+**Rechtskräftige Blätter und Auszüge (Art. 35 GBG[^41-1])**
 
 <sup>1</sup> Die in Kraft gesetzten Blätter enthalten das Datum der Inkraftsetzung.
 
 <sup>2</sup> Auf Auszügen von Blättern, die zur Zeit der Inkraftsetzung des eidgenössischen Grundbuches Gegenstand einer Beschwerde sind, muss auf diese Tatsache hingewiesen werden.
 
+[^41-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 42
 
-**Nachführung der Grundpfandtitel nach Güterzusammenlegung (Art. 42 GBG)**
+**Nachführung der Grundpfandtitel nach Güterzusammenlegung (Art. 42 GBG[^42-1])**
 
 <sup>1</sup> Nach Inkraftsetzung des Übergangsregisters überträgt die Grundbuchverwalterin oder der Grundbuchverwalter die Bezeichnung aus dem Übergangsregister auf die vorgelegten Grundpfandurkunden und Titel.
 
@@ -368,13 +437,15 @@ beschliesst:
 
 <sup>4</sup> Erfordert es die Klarheit, so kann die Grundbuchverwalterin oder der Grundbuchverwalter neue Grundpfandtitel ausstellen.
 
+[^42-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 ## 3 Führung des eidgenössischen Grundbuches
 
 ### 3.1 Dokumente des Grundbuches
 
 #### Art. 43
 
-**Sprache der Register (Art. 47 GBG) – Grundsatz**
+**Sprache der Register (Art. 47 GBG[^43-1]) – Grundsatz**
 
 <sup>1</sup> Die Register werden in französischer Sprache geführt für
 
@@ -388,31 +459,44 @@ beschliesst:
 - b) die Gemeinde Jaun, und
 - c) die Gemeinden des Seebezirks mit Ausnahme der unter Absatz 1 aufgeführten Gemeinden und Gemeindesektoren.
 
+[^43-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 44
 
-**Sprache der Register (Art. 47 GBG) – Übersetzung a) Übersetzerin oder Übersetzer**
+**Sprache der Register (Art. 47 GBG[^44-1]) – Übersetzung a) Übersetzerin oder Übersetzer**
 
 <sup>1</sup> Wird die Übersetzung der Register für eine Gemeinde angeordnet, so bestimmt die Direktion auf Antrag der Aufsichtsbehörde eine Übersetzerin oder einen Übersetzer.
 
+[^44-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 45
 
-**Sprache der Register (Art. 47 GBG) – Übersetzung b) Vorgehen**
+**Sprache der Register (Art. 47 GBG[^45-1]) – Übersetzung b) Vorgehen**
 
-<sup>1</sup> Wird das Grundbuch bei der Anlegung des eidgenössischen Grundbuches übersetzt, so geschieht dies bei der Vorbereitung der Anerkennung (Art. 17 bis 22 und Art. 39 GBG). Die Übersetzung ist ebenfalls Gegenstand der Auflage des eidgenössischen Grundbuches (Art. 28 bis 34 GBG) oder des Übergangsregisters (Art. 41 GBG).
+<sup>1</sup> Wird das Grundbuch bei der Anlegung des eidgenössischen Grundbuches übersetzt, so geschieht dies bei der Vorbereitung der Anerkennung (Art. 17 bis 22 und Art. 39 GBG[^45-2]). Die Übersetzung ist ebenfalls Gegenstand der Auflage des eidgenössischen Grundbuches (Art. 28 bis 34 GBG[^45-3]) oder des Übergangsregisters (Art. 41 GBG[^45-4]).
 
 <sup>2</sup> In den anderen Fällen werden die übersetzten Blätter öffentlich aufgelegt. Die Auflage beschränkt sich auf die Übereinstimmung der übersetzten Blätter mit dem noch rechtskräftigen Register. Die Artikel 29, 30, 32 bis 35 GBG sind sinngemäss anwendbar auf die Veröffentlichung, die Dauer, die Auflageakten, die Einsprachen und die Beschwerden sowie auf die Inkraftsetzung der Blätter.
 
+[^45-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^45-2]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^45-3]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^45-4]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 46
 
-**Ergänzende Dokumente – Plan (Art. 50 GBG)**
+**Ergänzende Dokumente – Plan (Art. 50 GBG[^46-1])**
 
 <sup>1</sup> Die Nummern der Grundstücke stimmen mit den Nummern auf dem Plan überein.
 
+[^46-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 47
 
-**Ergänzende Dokumente – Belege (Art. 51 GBG)**
+**Ergänzende Dokumente – Belege (Art. 51 GBG[^47-1])**
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter bringt auf den Belegen das Datum der Anmeldung und die Tagebuchnummer an.
+
+[^47-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 48
 
@@ -420,19 +504,23 @@ beschliesst:
 
 #### Art. 49
 
-**Hilfsregister (GBG Art. 53) – Eigentümerinnen- und Eigentümerregister**
+**Hilfsregister (GBG Art. 53[^49-1]) – Eigentümerinnen- und Eigentümerregister**
 
 <sup>1</sup> Das Eigentümerinnen- und Eigentümerregister wird nach den Weisungen der Aufsichtsbehörde geführt.
 
+[^49-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 50
 
-**Hilfsregister (GBG Art. 53) – Gläubigerinnen- und Gläubigerregister**
+**Hilfsregister (GBG Art. 53[^50-1]) – Gläubigerinnen- und Gläubigerregister**
 
 <sup>1</sup> Das Gläubigerinnen- und Gläubigerregister wird auf losen Blättern oder in elektronischer Form geführt.
 
 <sup>2</sup> Die Blätter werden mit dem betreffenden Blatt des Hauptbuches aufbewahrt.
 
 <sup>3</sup> Wurde ein Gläubiger-Blatt erstellt, so wird dies auf dem Blatt des Hauptbuches erwähnt.
+
+[^50-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 51
 
@@ -448,9 +536,9 @@ beschliesst:
 
 #### Art. 54
 
-**Hilfsregister (GBG Art. 53) – Register der vorläufigen Eintragungen**
+**Hilfsregister (GBG Art. 53[^54-1]) – Register der vorläufigen Eintragungen**
 
-<sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter versieht vorläufige Eintragungen nach Artikel 961 des schweizerischen Zivilgesetzbuches entweder im Hauptbuch mit der Angabe «V.E.» (Vorläufige Eintragung) und mit dem Verweis auf das Register der vorläufigen Eintragungen oder trägt die vollständige Vormerkung im Hauptbuch ein.
+<sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter versieht vorläufige Eintragungen nach Artikel 961 des schweizerischen Zivilgesetzbuches[^54-2] entweder im Hauptbuch mit der Angabe «V.E.» (Vorläufige Eintragung) und mit dem Verweis auf das Register der vorläufigen Eintragungen oder trägt die vollständige Vormerkung im Hauptbuch ein.
 
 <sup>2</sup> Erfolgt die Eintragung im Register der vorläufigen Eintragungen, so müssen dort ebenfalls eingetragen werden:
 
@@ -459,15 +547,20 @@ beschliesst:
 - c) die Dauer der Eintragung, und
 - d) die Nummer des Beleges.
 
+[^54-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^54-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
 #### Art. 54a
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Grundsatz**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54a-1]) – Grundsatz**
 
 <sup>1</sup> Das EDV-Grundbuch wird nach und nach in allen Gemeinden eingeführt.
 
+[^54a-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 54b
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Datenersterfassung**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54b-1]) – Datenersterfassung**
 
 <sup>1</sup> Die Datenersterfassung des EDV-Grundbuchs erfolgt:
 
@@ -475,19 +568,25 @@ beschliesst:
 - b) bei der Grundbuchführung nach eidgenössischem System, nach Gemeinden oder Teilen von Gemeinden, nach Rubriken (Rechtstypen) oder bei Anmeldungen nach Grundstücken oder
 - c) bei der Grundbuchführung nach kantonalem System und wenn die Umstände dies erfordern, bei der Aufnahme von Grundstücken (bei Teilungen, Begründungen von StWE usw.).
 
-<sup>2</sup> Eintragungen, die wegen Ablaufs der Zeit jede rechtliche Bedeutung verloren haben, werden nicht ins EDV-Grundbuch übernommen (Art. 976 ZGB).
+<sup>2</sup> Eintragungen, die wegen Ablaufs der Zeit jede rechtliche Bedeutung verloren haben, werden nicht ins EDV-Grundbuch übernommen (Art. 976 ZGB[^54b-2]).
 
 <sup>3</sup> Für die Fälle nach Absatz 1 Bst. b erstellt die Grundbuchverwalterin oder der Grundbuchverwalter eine Planung im Einvernehmen mit der Direktion.
 
+[^54b-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^54b-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
 #### Art. 54c
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Inkraftsetzung**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54c-1]) – Inkraftsetzung**
 
-<sup>1</sup> Für die Fälle nach Artikel 54b Abs. 1 Bst. a erfolgt die Inkraftsetzung nach Artikel 35 und 44 des Gesetzes über das Grundbuch.
+<sup>1</sup> Für die Fälle nach Artikel 54b Abs. 1 Bst. a erfolgt die Inkraftsetzung nach Artikel 35 und 44 des Gesetzes über das Grundbuch[^54c-2].
 
 <sup>2</sup> Für die Fälle nach Artikel 54b Abs. 1 Bst. b und c erfolgt die Inkraftsetzung des EDV-Grundbuchs mit der Gültigerklärung durch die Grundbuchverwalterin oder den Grundbuchverwalter.
 
 <sup>3</sup> Unter Gültigerklärung wird der Übergang der Ersterfassungsdaten in das EDV-Hauptbuch verstanden.
+
+[^54c-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^54c-2]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 54d
 
@@ -499,7 +598,7 @@ beschliesst:
 
 #### Art. 54f
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Persönliche Daten**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54f-1]) – Persönliche Daten**
 
 <sup>1</sup> Es wird ein Personenregister (Eigentümerinnen und Eigentümer sowie andere Berechtigte) erstellt. Dieses kann die folgenden Daten enthalten:
 
@@ -511,23 +610,29 @@ beschliesst:
 - f) Vorname der Person, die mit der eingetragenen Person verheiratet ist oder in eingetragener Partnerschaft lebt;
 - g) Postadresse.
 
+[^54f-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 54g
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Erweiterter Zugang zu den Daten**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54g-1]) – Erweiterter Zugang zu den Daten**
 
 <sup>1</sup> Der direkte Datenzugriff erfolgt auf einer separaten Auskunftsdatenbank.
 
 <sup>2</sup> Einen erweiterten Zugriff auf der Grundlage besonderer Vereinbarungen haben:
 
 - a) im Kanton zugelassene Urkundspersonen, amtliche Ingenieur-Geometerinnen und -Geometer, Steuerbehörden sowie andere Behörden zu den Daten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen;
-- b) Banken, die Schweizerische Post, Pensionskassen, Versicherungen und vom Bund anerkannte Institutionen nach Artikel 76 Abs. 1 Bst. a des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB) zu den Daten, die sie zur Erfüllung ihrer Aufgaben im Hypothekargeschäft benötigen;
+- b) Banken, die Schweizerische Post, Pensionskassen, Versicherungen und vom Bund anerkannte Institutionen nach Artikel 76 Abs. 1 Bst. a des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB)[^54g-2] zu den Daten, die sie zur Erfüllung ihrer Aufgaben im Hypothekargeschäft benötigen;
 - c) bestimmte Personen zu den Daten der Grundstücke, die ihnen gehören, oder der Grundstücke, an denen ihnen Rechte zustehen, sofern sie die Daten zur Ausübung ihrer Geschäftstätigkeit oder der Wahrnehmung ihrer Rechte benötigen.
 
-<sup>3</sup> Für den indirekten Zugriff gilt Artikel 970 des Schweizerischen Zivilgesetzbuchs.
+<sup>3</sup> Für den indirekten Zugriff gilt Artikel 970 des Schweizerischen Zivilgesetzbuchs[^54g-3].
+
+[^54g-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^54g-2]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
+[^54g-3]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 54h
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Art und Weise des Zugriffs**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54h-1]) – Art und Weise des Zugriffs**
 
 <sup>1</sup> Der Datenzugriff erfolgt über elektronische Authentifizierung. Es kann sich dabei um ein Passwort, eine Magnetkarte oder um ein anderes technisches Hilfsmittel handeln, das den direkten Zugriff auf das Informatiksystem ermöglicht.
 
@@ -537,9 +642,11 @@ beschliesst:
 
 <sup>4</sup> Für den direkten Zugriff wird eine Pauschalgebühr oder eine pro Abfrage speziell berechnete Gebühr erhoben. Bei der Gebühr pro Abfrage erfolgt die Abrechnung automatisch anhand des Zugriffsprotokolls. Es gilt der Tarif der festen Grundbuchgebühren.
 
+[^54h-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 54i
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Vereinbarung**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54i-1]) – Vereinbarung**
 
 <sup>1</sup> Die Zugriffsbewilligung wird in einer Vereinbarung zwischen der Benutzerin oder dem Benutzer und der Grundbuchverwalterin oder dem Grundbuchverwalter geregelt.
 
@@ -552,13 +659,18 @@ beschliesst:
 
 <sup>4</sup> Gegen die Verweigerung, die Beschränkung und den Entzug der Zugriffsbewilligung kann innert dreissig Tagen nach Zustellung des Entscheids bei der Aufsichtsbehörde über das Grundbuch Beschwerde erhoben werden. Sie entscheidet unter Vorbehalt der Beschwerde an das Kantonsgericht.
 
+[^54i-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 54j
 
-**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG) – Freier Datenzugriff (Art. 53a GBG)**
+**Elektronische Datenverarbeitung (Art. 46 Abs. 3 GBG[^54j-1]) – Freier Datenzugriff (Art. 53a GBG[^54j-2])**
 
 <sup>1</sup> Via Internet besteht für jede Person die Möglichkeit des freien Zugriffs auf die Grundstücksbeschreibung, den Namen und den (die) Vornamen der Eigentümerin oder des Eigentümers und die Eigentumsform.
 
 <sup>2</sup> Es kann jeweils nur auf die Daten eines bestimmten Grundstücks zugegriffen werden. Das Informationssystem ist gegen Serienabfragen geschützt.
+
+[^54j-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^54j-2]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 ### 3.2 Grundbuchliche Verrichtungen
 
@@ -572,7 +684,7 @@ beschliesst:
 
 #### Art. 57
 
-**Aufnahme (Art. 54 GBG) – Strassen und Gewässer**
+**Aufnahme (Art. 54 GBG[^57-1]) – Strassen und Gewässer**
 
 <sup>1</sup> Kantons- und Gemeindestrassen in Gemeinden oder Teilen von Gemeinden, die bereits Gegenstand eines Verfahrens für die Anlegung des eidgenössischen Grundbuches waren, werden nur durch besonderen Entscheid des Staatsrates aufgenommen.
 
@@ -580,11 +692,14 @@ beschliesst:
 
 <sup>3</sup> Die Bäche von geringer Bedeutung werden nicht aufgenommen; die betreffenden Grundstücke werden aber mit der Anmerkung «öffentlicher Bach» versehen. Bäche sind von geringer Bedeutung, wenn ihre Katasteraufnahme als Liegenschaften nur mit übermässigen Kosten möglich ist. Die Entscheidung für die Nichteintragung eines Bachs wird in Absprache mit der Sektion Gewässer des Amts für Umwelt getroffen.
 
-<sup>4</sup> Artikel 944 des schweizerischen Zivilgesetzbuches bleibt vorbehalten.
+<sup>4</sup> Artikel 944 des schweizerischen Zivilgesetzbuches[^57-2] bleibt vorbehalten.
+
+[^57-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+[^57-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 58
 
-**Aufnahme (Art. 54 GBG) – Grundstücke im öffentlichen Eigentum**
+**Aufnahme (Art. 54 GBG[^58-1]) – Grundstücke im öffentlichen Eigentum**
 
 <sup>1</sup> Grundstücke im öffentlichen Eigentum werden mit der Bezeichnung «Ö.E.» (Öffentliches Eigentum) aufgenommen.
 
@@ -594,6 +709,8 @@ beschliesst:
 - b) der betroffenen Gemeinde, wenn es sich um eine öffentliche Sache einer Gemeinde handelt.
 
 <sup>3</sup> …
+
+[^58-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 59
 
@@ -605,20 +722,22 @@ beschliesst:
 
 #### Art. 61
 
-**Aufnahme (Art. 54 GBG) – Teilung oder Vereinigung von Grundstücken**
+**Aufnahme (Art. 54 GBG[^61-1]) – Teilung oder Vereinigung von Grundstücken**
 
 <sup>1</sup> Werden mehrere Grundstücke geteilt oder vereinigt, so verweist die Grundbuchverwalterin oder der Grundbuchverwalter auf dem neuen Blatt auf die alten Nummern.
 
+[^61-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 62
 
-**Anzeigen (Art. 57 GBG)**
+**Anzeigen (Art. 57 GBG[^62-1])**
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter teilt lediglich die Änderungen am Eigentum, an der Nutzniessung, an den Wohnrechten und an den selbständigen und dauernden Rechten mit.
 
 <sup>2</sup> Diese Änderungen werden mitgeteilt:
 
 - a) der Kantonalen Steuerverwaltung;
-- b) dem Amt für Statistik;
+- b) dem Amt für Statistik und Daten;
 - c) der Kantonalen Gebäudeversicherung;
 - d) …
 - e) den betreffenden Gemeinden.
@@ -628,6 +747,8 @@ beschliesst:
 <sup>4</sup> Die von der Bundesgesetzgebung vorgesehenen Anzeigen bleiben vorbehalten.
 
 <sup>5</sup> Das Amt für Geoinformation wird auf digitalem Weg über den Bearbeitungsstand der auf dem Grundbuchamt abgegebenen Verbale informiert.
+
+[^62-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 63
 
@@ -641,29 +762,37 @@ beschliesst:
 
 #### Art. 65
 
-**Anmeldungen – Unterscheidungsmerkmal (Art. 60 GBG)**
+**Anmeldungen – Unterscheidungsmerkmal (Art. 60 GBG[^65-1])**
 
 <sup>1</sup> Bei der Eintragung ins Tagebuch versieht die Grundbuchverwalterin oder der Grundbuchverwalter die Grundstückblätter mit einem Unterscheidungsmerkmal.
 
+[^65-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 66
 
-**Anmeldungen – Gesamtpfandrechte (Art. 61 GBG) a) Anmeldung**
+**Anmeldungen – Gesamtpfandrechte (Art. 61 GBG[^66-1]) a) Anmeldung**
 
 <sup>1</sup> Soll ein Grundpfandrecht auf mehreren Grundstücken in verschiedenen Grundbuchkreisen des Kantons errichtet werden, so ist auf den der Grundbuchverwalterin oder dem Grundbuchverwalter übergebenen Urkunden auf diesen Umstand hinzuweisen.
 
 <sup>2</sup> Für jeden Grundbuchkreis ist eine Urkundenausfertigung einzureichen.
 
+[^66-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 67
 
-**Anmeldungen – Gesamtpfandrechte (Art. 61 GBG) b) Verfahren**
+**Anmeldungen – Gesamtpfandrechte (Art. 61 GBG[^67-1]) b) Verfahren**
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter, bei der oder bei dem die Anmeldung eingereicht wurde, benachrichtigt sofort, beispielsweise telefonisch, die anderen betroffenen Grundbuchverwalterinnen und Grundbuchverwalter.
 
+[^67-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 68
 
-**Anmeldungen – Gesamtpfandrechte (Art. 61 GBG) c) Gebühren**
+**Anmeldungen – Gesamtpfandrechte (Art. 61 GBG[^68-1]) c) Gebühren**
 
 <sup>1</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter, bei der oder dem die Anmeldung eingereicht wurde, fakturiert die verhältnismässigen Gebühren.
+
+[^68-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 #### Art. 69
 
@@ -677,13 +806,15 @@ beschliesst:
 
 #### Art. 70
 
-**Mitteilung an den betreffenden Grundbuchverwalter (Art. 69 GBG)**
+**Mitteilung an den betreffenden Grundbuchverwalter (Art. 69 GBG[^70-1])**
 
 <sup>1</sup> Wird gegen einen Abweisungsentscheid Beschwerde erhoben, so setzt die Aufsichtsbehörde die betreffende Grundbuchverwalterin oder den betreffenden Grundbuchverwalter davon sofort in Kenntnis.
 
+[^70-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 71
 
-**Inhalt des Entscheides (Art. 74 GBG)**
+**Inhalt des Entscheides (Art. 74 GBG[^71-1])**
 
 <sup>1</sup> Der Entscheid der Aufsichtsbehörde enthält:
 
@@ -697,9 +828,11 @@ beschliesst:
 - h) das Datum des Entscheides und die Unterschriften der Präsidentin oder des Präsidenten und der Sekretärin oder des Sekretärs, und
 - i) die Rechtsmittelinstanz sowie die Rechtsmittelfrist.
 
+[^71-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 #### Art. 72
 
-**Kosten (Art. 75 GBG)**
+**Kosten (Art. 75 GBG[^72-1])**
 
 <sup>1</sup> Die Verfahrenskosten bestehen aus:
 
@@ -708,13 +841,17 @@ beschliesst:
 
 <sup>2</sup> Wird die Beschwerde zurückgezogen, so setzt die Präsidentin oder der Präsident die Gebühren zwischen 50 und 500 Franken fest.
 
+[^72-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
+
 ### 3.5 Gebühren
 
 #### Art. 72a
 
 <sup>1</sup> Die verhältnismässigen Gebühren betragen für alle Fälle, in denen sie erhoben werden, höchstens 5000 Franken pro Fall.
 
-<sup>2</sup> Bei Übertragungen, die gemäss Artikel 103 des Bundesgesetzes vom 3. Oktober 2003 über Fusion, Spaltung, Umwandlung und Vermögensübertragung von den Handänderungssteuern befreit sind, betragen die verhältnismässigen Gebühren höchstens 1000 Franken pro Fall.
+<sup>2</sup> Bei Übertragungen, die gemäss Artikel 103 des Bundesgesetzes vom 3. Oktober 2003 über Fusion, Spaltung, Umwandlung und Vermögensübertragung[^72a-1] von den Handänderungssteuern befreit sind, betragen die verhältnismässigen Gebühren höchstens 1000 Franken pro Fall.
+
+[^72a-1]: SR [221.301](https://db.clex.ch/link/Bund/221.301/de)
 
 ## 4 Übergangs- und Schlussbestimmungen
 
@@ -722,7 +859,7 @@ beschliesst:
 
 #### Art. 72b
 
-**Übertragung kantonaler Kataster auf lose Blätter (Art. 97 GBG)**
+**Übertragung kantonaler Kataster auf lose Blätter (Art. 97 GBG[^72b-1])**
 
 <sup>1</sup> Die Direktion kann auf Antrag der Aufsichtsbehörde anordnen, dass kantonale Kataster auf lose Blätter übertragen werden.
 
@@ -731,6 +868,8 @@ beschliesst:
 <sup>3</sup> Die Übertragung erfolgt ohne Änderung des Wortlauts.
 
 <sup>4</sup> …
+
+[^72b-1]: SGF [214.5.1](https://bdlf.fr.ch/data/214.5.1/de)
 
 ### 4.2 Schlussbestimmungen
 
