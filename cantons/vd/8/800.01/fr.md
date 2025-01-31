@@ -4,7 +4,7 @@ number: "800.01"
 title: LOI du 29.05.1985 sur la santé publique (LSP)
 short: LSP
 language: fr
-version: 2024-01-01
+version: 2025-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762"
 ---
 
@@ -1433,9 +1433,28 @@ décrète
 [^70f-1]: Modif. 26 du 17.03.2009: Modification Al. 1-2; entrée en vigueur au 01.06.2009; Abrogation Al. 3; entrée en vigueur au 01.06.2009
 [^71-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
 
+#### Art. 71a
+
+**Interdiction des pratiques visant à modifier l'orientation affective et sexuelle ou l'identité de genre d'autrui [^71-2]**
+
+<sup>1</sup> Toute pratique visant à modifier ou réprimer l'orientation affective et sexuelle ou l'identité de genre d'autrui est interdite.
+
+<sup>2</sup> Est également interdite la promotion ou le fait de faciliter ou d'encourager l'accès ou le recours à de telles pratiques.
+
+<sup>3</sup> Les professionnels de la santé qui, manquant à leur devoir professionnel, auront prescrit ou administré un traitement supposé modifier ou réprimer l'orientation affective et sexuelle ou l'identité de genre d'autrui seront dénoncés au Département et sanctionnés en application de l'article 191.
+
+<sup>4</sup> Les professionnels œuvrant, notamment, dans le domaine de l'éducation, de la santé, du social, du sport ou des activités de jeunesse ou des activités religieuses, qui constatent qu'une personne mineure ou incapable de discernement subit des pratiques désignées à l'alinéa 1, avisent l'autorité de protection de l'adulte et de l'enfant selon la législation applicable en la matière.
+
+<sup>5</sup> Ne sont pas concernés par les alinéas 1 à 3 :
+
+- a. les prestations d'aide et de soutien de nature psychosociale ou psychothérapeutique respectueuses de l'autodétermination de la personne et contribuant à la libre expression de son orientation affective et sexuelle ou de son identité de genre ;
+- b. les traitements hormonaux et les chirurgies d'affirmation du genre effectués avec le consentement libre et éclairé de la personne et indiqués médicalement dans le cadre des traitements reconnus de l'incongruence de genre.
+
+[^71-2]: Modif. 38 du 29.10.2024: Introduction tArt; entrée en vigueur au 01.02.2025; Introduction Al. 1-5; entrée en vigueur au 01.02.2025; Introduction Art. 71a; entrée en vigueur au 01.02.2025
+
 #### Art. 72
 
-**Procréation humaine assistée [^71-2]**
+**Procréation humaine assistée [^71a-1]**
 
 <sup>1</sup> La pratique de la procréation médicalement assistée, régie par la législation fédérale [^72-1] , est soumise à autorisation du département, sur préavis du médecin cantonal.
 
@@ -1443,7 +1462,7 @@ décrète
 
 <sup>3</sup> …
 
-[^71-2]: Modif. 26 du 17.03.2009: Modification Al. 1-2; entrée en vigueur au 01.06.2009; Abrogation Al. 3; entrée en vigueur au 01.06.2009
+[^71a-1]: Modif. 26 du 17.03.2009: Modification Al. 1-2; entrée en vigueur au 01.06.2009; Abrogation Al. 3; entrée en vigueur au 01.06.2009
 [^72-1]: Loi fédérale du 18.12.1998 sur la procréation médicalement assistée (RS 810.11)
 
 #### Art. 72a
