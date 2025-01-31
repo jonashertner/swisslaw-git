@@ -1,16 +1,16 @@
 ---
 canton: BE
 number: "108.111"
-title: "Ordonnance sur l'archivage"
+title: "Ordonnance sur l'archivage *"
 short: OArch
 language: fr
-version: 2021-07-01
-valid_until: 2025-01-31
-version_adopted: 2021-04-07
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-18
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/108.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2265/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3113/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,17 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2265/pdf_file"
 
 (OArch)
 
-du 04.11.2009 (état au 01.07.2021)
+du 04.11.2009 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 9, alinéa 2, 11, 15, alinéa 2 et 27 de la loi du 31 mars 2009 sur l’archivage (LArch)[^ingress-1],
+vu les articles 9, alinéa 2, 11, 15, alinéa 2, 25c, alinéa 2 et 27 de la loi du 31 mars 2009 sur l’archivage (LArch)[^ingress-1],
 
 sur proposition de la Chancellerie d’Etat,
 
 arrête:
 
-[^ingress-1]: RSB 108.1
+[^ingress-1]: RSB [108.1](https://www.belex.sites.be.ch/data/108.1/fr)
 
 ## 1 Dispositions générales
 
@@ -39,36 +39,35 @@ arrête:
 
 <sup>1</sup> La présente ordonnance règle
 
-- a la conservation des documents des organes du canton, de ses établissements et de ses collectivités, dans la mesure où elle n’est pas réglée par d’autres ordonnances ou règlements en vertu des articles 10, 11 et 12 LArch;
-- b la conservation des documents de personnes privées dans la mesure où elles accomplissent des tâches de droit public à elles confiées;
-- c les tâches des Archives de l’Etat et la communication de leurs fonds.
+- a l'organisation, la gestion et la conservation ainsi que l'archivage des documents des organes du canton, de ses établissements et de ses collectivités, dans la mesure où il n'existe aucune autre réglementation dans une ordonnance ou un règlement en vertu des articles 10, 12 et 12a LArch,
+- b l'archivage des documents de personnes privées dans la mesure où elles accomplissent des tâches de droit public à elles confiées,
+- c les tâches des Archives de l’Etat,
+- d l'accès aux archives et leur communication.
 
 <sup>2</sup> La Direction de l’intérieur et de la justice règle par voie d’ordonnance la gestion des archives
 
-- a de l’administration décentralisée de la Direction de l’intérieur et de la justice,
+- a …
 - b des communes, de leurs établissements et des collectivités soumises à la loi du 16 mars 1998 sur les communes (LCo)[^1-1].
 
 [^1-1]: RSB 170.11
 
 #### Art. 2
 
-**Participation à des institutions intercantonales**
-
-<sup>1</sup> Le Conseil-exécutif veille à ce que les institutions intercantonales auxquelles il participe observent des normes de droit archivistique au sens de la loi sur l’archivage, notamment en demandant, lors de la création de telles institutions ou de la modification de leurs bases légales, des dispositions conformes à la loi sur l’archivage concernant l’obligation de proposer les documents, le droit de consultation et les droits des personnes concernées.
+**…**
 
 #### Art. 3
 
 **Définitions**
 
-<sup>1</sup> Les supports sont tous les matériaux utilisés pour l’enregistrement ou la reproduction d’informations sous forme analogique ou numérique.
+<sup>1</sup> Les supports sont tous les matériaux qui se prêtent à la conservation provisoire ou permanente d’informations analogiques ou numériques.
 
-<sup>2</sup> Les instruments de recherche sont des outils nécessaires pour trouver, consulter et comprendre les documents, comme les inventaires, les répertoires, les fichiers, les listes et les tableaux sommaires, sur support papier ou électronique. Ils fournissent les renseignements complémentaires suivants sur les données primaires:
+<sup>2</sup> Les instruments de recherche sont des outils nécessaires pour trouver, consulter et comprendre les documents, comme les systèmes de classement comportant des métadonnées, les inventaires physiques ou numériques, les répertoires, les fichiers et les listes. Ils fournissent les renseignements complémentaires suivants sur les données primaires:
 
 - a structure (division, présentation, format, etc.),
 - b contexte de traitement (personnes, services impliqués, périphériques de sortie, transactions, etc.),
 - c indications sur le contenu.
 
-<sup>3</sup> Les documents électroniques sont
+<sup>3</sup> Les documents issus de systèmes numériques sont
 
 - a des sous-produits, des produits dérivés ou des produits finis issus de processus de traitement électroniques, dont le support peut être numérique ou analogique;
 - b des documents accessibles exclusivement sous forme numérique et lisibles uniquement à l’aide d’outils électroniques (documents numériques).
@@ -79,64 +78,72 @@ arrête:
 
 **Traçabilité des activités de l’Etat**
 
-<sup>1</sup> Les autorités s’assurent que leurs documents permettent à tout moment de vérifier leurs activités et d’en rendre compte.
+<sup>1</sup> Les autorités s’assurent que le traitement de leurs affaires soit documenté de façon adéquate, de sorte à rendre compte à tout moment de leurs activités et à en garantir la traçabilité.
 
 <sup>2</sup> A cette fin, elles ne conservent que des documents complets et fiables.
 
-<sup>3</sup> La fiabilité des documents, en particulier des documents électroniques, sera garantie par des mesures organisationnelles et techniques appropriées.
+<sup>3</sup> La fiabilité des documents sera garantie par des mesures organisationnelles et techniques appropriées.
 
 #### Art. 5
 
 **Valeur archivistique**
 
-<sup>1</sup> Sont réputés avoir une valeur archivistique les documents qui ont une valeur durable
+<sup>1</sup> Sont réputés avoir une valeur archivistique les documents qui présentent une valeur d'information grande et durable pour
 
-- a pour la sauvegarde des intérêts du canton,
-- b pour la sauvegarde des intérêts légitimes de personnes concernées ou de tiers,
-- c pour l’activité administrative, la législation ou la jurisprudence,
-- d pour la documentation de l’activité et de l’organisation des autorités,
-- e pour la compréhension du présent et de l’histoire,
-- f pour la science et la recherche.
+- a la sauvegarde d'intérêts publics,
+- b la sauvegarde d'intérêts privés légitimes,
+- c l'activité administrative, la législation ou la jurisprudence,
+- d la documentation de l’activité et de l’organisation des autorités,
+- e la compréhension du présent et de l’histoire,
+- f la science et la recherche.
 
-<sup>2</sup> Les documents dépourvus de valeur archivistique sont éliminés à l’expiration du délai de conservation.
+<sup>2</sup> Les documents dépourvus de valeur archivistique sont éliminés à l’expiration du délai de conservation, dans le respect de la législation sur la protection des données.
 
 #### Art. 6
 
-**Plans d’archivage**
+**Système de classement et directives d'organisation**
 
-<sup>1</sup> Chaque autorité dresse et tient à jour un plan d’archivage de ses archives courantes. Elle range ses documents d’après ce classement.
+<sup>1</sup> Chaque autorité établit un système de classement servant de base au stockage de ses documents.
 
-<sup>2</sup> Les plans d’archivage fixent
+<sup>2</sup> Le système de classement fixe
 
 - a le cadre de classement des documents,
-- b les prescriptions relatives à la gestion des documents,
-- c les délais de conservation légaux et administratifs,
-- d pour les autorités soumises à l’obligation de proposer leurs documents, l’évaluation que les Archives de l’Etat ont faite des documents.
+- b …
+- c les délais de conservation,
+- d des indications sur l'évaluation des documents,
+- e d'autres métadonnées.
 
-<sup>3</sup> Le cadre de classement des documents reflète en règle générale les champs d’activité des autorités. Il doit être aussi simple que possible, clair et adéquat.
+<sup>3</sup> Le cadre de classement des documents
+
+- a reflète l'ensemble des tâches des autorités;
+- b doit être aussi simple, clair et adéquat que possible.
+
+<sup>4</sup> Chaque autorité élabore des directives d'organisation qui fixent pour chaque unité administrative les processus et responsabilités dans la gestion des affaires.
+
+<sup>5</sup> Il convient de vérifier et de mettre à jour régulièrement le système de classement et les directives d'organisation.
 
 #### Art. 7
 
-**Archives courantes**
+**Prise en charge et conservation des documents**
 
-<sup>1</sup> Pour la conservation des documents actifs, l’autorité qui gère les archives courantes s’assure que
+<sup>1</sup> Pour la conservation des documents analogiques et numériques, l'autorité compétente veille à garantir la confidentialité, l'intégrité, la disponibilité et la traçabilité des documents à l'aide des mesures techniques et organisationnelles appropriées. Les principes de la législation sur la sécurité de l'information s'appliquent par analogie.
+
+<sup>1a</sup> Pour les documents analogiques, l’autorité qui gère les archives courantes s’assure que
 
 - a les supports, les encres et les autres outils utilisés résistent au temps et offrent la garantie d’une durée de vie suffisante;
-- b les dépôts d’archives ferment à clé et que les documents sont protégés des effets nuisibles du feu, de la poussière, de l’humidité et de l’exposition au soleil;
+- b les dépôts d’archives ferment à clé et que les documents sont protégés des effets nuisibles du feu, de l'eau, de la saleté, de l’humidité, de l’exposition au soleil et des nuisibles;
 - c les personnes non autorisées n’ont pas accès aux documents.
 
-<sup>2</sup> Elle décide qui est responsable de la bonne tenue et de la conservation adéquate des documents.
-
-<sup>3</sup> Les Archives de l’Etat édictent des instructions sur la gestion des archives courantes par les autorités soumises à l’obligation de proposer leurs documents.
+<sup>2</sup> L'autorité compétente décide à qui incombe la prise en charge et la conservation des documents.
 
 #### Art. 8
 
-**Remise de publications officielles et d’imprimés aux Archives de l’Etat**
+**Remise de publications aux Archives de l’Etat**
 
-<sup>1</sup> Les autorités cantonales remettent aux Archives de l’Etat un exemplaire justificatif gratuit
+<sup>1</sup> Les autorités cantonales remettent aux Archives de l’Etat un exemplaire justificatif des publications à valeur documentaire pour leur bibliothèque lorsqu'elles
 
-- a de chaque publication officielle ou autre publication à valeur documentaire qu’elles publient;
-- b de chaque publication à laquelle elles ont collaboré ou apporté un soutien financier.
+- a les ont publié elles-mêmes ou
+- b y ont collaboré ou apporté un soutien financier.
 
 #### Art. 9
 
@@ -152,6 +159,8 @@ arrête:
 
 <sup>2</sup> Elle indiquera explicitement qu’il s’agit d’une contestation, mentionnera le nom de la personne concernée et sera jointe, datée, aux documents à l’endroit correspondant.
 
+<sup>3</sup> Les alinéas 1 et 2 s'appliquent par analogie aux documents numériques.
+
 ## 3 Autorités soumises à l’obligation de proposer les documents
 
 #### Art. 11
@@ -160,59 +169,73 @@ arrête:
 
 <sup>1</sup> …
 
-<sup>2</sup> La Chancellerie d’Etat veille à ce que les documents du Conseil-exécutif soient archivés et assume en cela les tâches des autorités soumises à l’obligation de proposer leurs documents.
+<sup>2</sup> La Chancellerie d’Etat veille à l'organisation, la gestion et la conservation des documents du Conseil-exécutif et assume en cela les tâches de l'autorité soumise à l’obligation de proposer ses documents.
 
 <sup>3</sup> Les Directions et la Chancellerie d’Etat veillent à ce que les documents des commissions de l’administration centrale de leur ressort soient archivés et assument en cela les tâches des autorités soumises à l’obligation de proposer leurs documents.
 
+#### Art. 11a
+
+**Fournisseurs de prestations psychiatriques soumis à l'obligation de proposer leurs documents**
+
+<sup>1</sup> Les fournisseurs de prestations suivants et leurs successeurs en droit sont considérés comme fournisseurs de prestations psychiatriques importantes au sens de l'article 9, alinéa 1, lettre e1 LArch:
+
+- a Services psychiatriques universitaires de Berne (SPU) SA
+- b CPM Centre psychiatrique Münsingen SA
+- c Réseau de l'Arc SA
+
 #### Art. 12
 
-**Ordonnances des Directions et de la Chancellerie d’Etat**
+**Instructions relatives à l'organisation, la gestion et la conservation**
 
-<sup>1</sup> Les Directions et la Chancellerie d’Etat règlent l’organisation, la gestion et la conservation de leurs documents et de leurs instruments de recherche par voie d’ordonnance de Direction.
+<sup>1</sup> Les Archives de l’Etat peuvent édicter des instructions relatives à l'organisation, la gestion et la conservation des documents de l'administration cantonale, notamment concernant la gestion des affaires (directive GEVER).
+
+<sup>2</sup> Les instructions sont approuvées par le Conseil-exécutif, à moins qu'il s'agisse de modifications minimes ou de dispositions d'une moindre importance.
 
 #### Art. 13
 
 **Coordination avec les Archives de l’Etat**
 
-<sup>1</sup> Les autorités soumises à l’obligation de proposer leurs documents s’accordent avec les Archives de l’Etat lors de l’élaboration de leurs plans d’archivage et de leurs instruments de recherche afin que les Archives de l’Etat puissent ensuite autant que possible les reprendre intégralement et les utiliser pour trouver les documents.
+<sup>1</sup> Les autorités soumises à l’obligation de proposer leurs documents remettent aux Archives de l’Etat, au moment de leur première élaboration, leurs systèmes de classement et leurs directives d'organisation pour vérification et approbation.
 
-<sup>2</sup> Elles permettent aux Archives de l’Etat d’accéder à leurs plans d’archivage et leur communiquent immédiatement les modifications importantes.
+<sup>2</sup> Elles présentent aux Archives de l’Etat périodiquement ou selon les prescriptions de celles-ci, pour un contrôle continu, les modifications apportées aux systèmes de classement.
 
 #### Art. 14
 
-**Obligation de proposer les documents**
+**Obligation de proposer les documents et date de versement**
 
 <sup>1</sup> Les documents ne sont plus considérés comme régulièrement nécessaires et doivent par conséquent être proposés aux Archives de l’Etat lorsque l’autorité soumise à l’obligation de les proposer ne les utilise plus fréquemment, l’échéance étant toutefois de dix ans au plus après la clôture du dossier.
 
 <sup>2</sup> Les Archives de l’Etat peuvent prolonger le délai fixé à l’alinéa 1 si l’autorité soumise à l’obligation de proposer ses documents explique qu’elle en a encore fréquemment besoin.
 
+<sup>3</sup> Les Archives de l'Etat peuvent prendre en charge les documents numériques de façon anticipée, en règle générale cinq ans après la clôture de l'affaire, sous forme de copies (modèle du tri). Elles déterminent les modalités dans une convention de versement au sens de l'article 17, alinéa 5.
+
 #### Art. 15
 
 **Evaluation par les Archives de l’Etat**
 
-<sup>1</sup> L’autorité soumise à l’obligation de proposer ses documents désigne sous forme de proposition les documents dont elle estime qu’ils ont une valeur archivistique conformément à l’article 3, alinéa 2 LArch.
+<sup>1</sup> L’autorité soumise à l’obligation de proposer ses documents désigne sous forme de proposition les documents dont elle estime qu’ils ont une valeur archivistique.
 
 <sup>2</sup> Elle les prépare de telle manière qu’il soit possible, sans surcroît de travail, de les évaluer et, s’ils ont été désignés comme ayant une valeur archivistique, de les archiver.
 
 <sup>3</sup> Les Archives de l’Etat évaluent les documents et décident s’ils doivent être archivés durablement en tenant compte des propositions de l’autorité soumise à l’obligation de proposer ses documents.
 
-<sup>4</sup> Elles décident si les documents seront archivés sur papier ou sous forme électronique.
+<sup>4</sup> Elles décident si les documents seront archivés sur papier ou sous forme numérique.
 
 #### Art. 16
 
-**Documents électroniques**
+**Systèmes numériques**
 
-<sup>1</sup> Pour l’évaluation des documents électroniques, les autorités soumises à l’obligation de proposer leurs documents consultent les Archives de l’Etat dès la planification de nouveaux systèmes. Elles doivent impliquer de manière adéquate les Archives de l’Etat dans le projet.
+<sup>1</sup> Lorsque des documents ayant une valeur archivistique sont traités dans un système numérique, les Archives de l'Etat doivent être impliquées suffisamment tôt et de manière adéquate dans la planification de ce système.
 
 <sup>2</sup> Les Archives de l’Etat accèdent à tous les systèmes dont la valeur archivistique des données doit être vérifiée, en particulier à toute la documentation de projet et de système et aux notices d’utilisation, dans la mesure où elles en ont besoin pour accomplir leurs tâches. L’accès par une procédure d’appel est exclu.
 
-<sup>3</sup> Si des documents électroniques à conserver durablement selon les Archives de l’Etat sont totalement conservés sur support analogique (papier ou microfilm) et que leur fiabilité soit préservée, l’autorité responsable peut être libérée de l’obligation de proposer les données contenues dans le système.
+<sup>3</sup> …
 
 #### Art. 17
 
 **Versement**
 
-<sup>1</sup> Les documents proposés aux Archives de l’Etat en vue d’un versement doivent être accompagnés de leurs instruments de recherche et d’autres outils éventuels.
+<sup>1</sup> Lors du versement de documents analogiques, leurs instruments de recherche et d'autres outils éventuels doivent aussi être proposés aux Archives de l’Etat.
 
 <sup>2</sup> Un inventaire des documents versés est joint au versement. Il contient les informations suivantes:
 
@@ -222,9 +245,13 @@ arrête:
 
 <sup>3</sup> Les autorités soumises à l’obligation de proposer leurs documents sont responsables du transfert de leurs archives. Elles concluent au préalable les accords nécessaires avec les Archives de l’Etat.
 
-<sup>4</sup> Les Archives de l’Etat rédigent un bordereau de versement décrivant les documents versés. Il sert de reçu à l’autorité versante.
+<sup>4</sup> Les Archives de l’Etat rédigent un bordereau de versement décrivant les documents versés. Il sert d'accusé de réception à l’autorité versante.
 
-<sup>5</sup> Les Archives de l’Etat édictent des instructions qui détaillent l’obligation de proposer les documents et le versement des documents. Des instructions sur l’archivage électronique seront édictées en accord avec l’Office d’informatique et d’organisation.
+<sup>4a</sup> Les Archives de l'Etat peuvent renvoyer les documents qui ne satisfont pas aux exigences pour amélioration.
+
+<sup>4b</sup> Les alinéas 1 à 4a s'appliquent par analogie au versement de documents numériques.
+
+<sup>5</sup> Les Archives de l’Etat règlent les modalités de l’obligation de proposer les documents et du versement des documents dans des instructions et des conventions de versement. Des instructions sur l’archivage numérique sont édictées en accord avec les organes compétents au sens de la législation sur l'administration numérique.
 
 ## 4 Tâches des Archives de l’Etat
 
@@ -234,23 +261,23 @@ arrête:
 
 <sup>1</sup> Les Archives de l’Etat accomplissent les tâches qui leur sont attribuées par la loi sur l’archivage.
 
-<sup>2</sup> Elles veillent à la conservation des archives qui leur sont confiées.
+<sup>2</sup> Elles veillent à la conservation des archives qui leur sont confiées et peuvent prendre les mesures nécessaires à cet effet.
 
-<sup>3</sup> Dans les limites de leurs moyens, elles aident dans leurs recherches les utilisateurs et les utilisatrices de leurs fonds.
+<sup>3</sup> Dans les limites de leurs moyens, elles conseillent et aident les utilisatrices et les utilisateurs des archives.
 
-<sup>4</sup> Elles n’effectuent des recherches approfondies que sur mandat de la Chancellerie d’Etat, du Conseil-exécutif ou du Grand Conseil.
+<sup>4</sup> Elles effectuent des recherches approfondies sur mandat de l'administration cantonale et des Services parlementaires, pour autant que cela n'entraîne pas un travail disproportionné.
 
 #### Art. 19
 
-**Archivage des documents électroniques**
+**Archives numériques à long terme**
 
-<sup>1</sup> Les Archives de l’Etat gèrent un centre pour la conservation définitive de documents électroniques. Elles sont conseillées par l’Office d’informatique et d’organisation.
+<sup>1</sup> Les Archives de l’Etat gèrent des archives numériques à long terme pour les documents des autorités soumises à l'obligation de présenter leurs documents.
 
 #### Art. 20
 
 **Surveillance spécialisée**
 
-<sup>1</sup> Les Archives de l’Etat surveillent la section historique des archives communales et les archives de l’administration cantonale décentralisée de la Direction de l’intérieur et de la justice en collaboration avec cette Direction.
+<sup>1</sup> Les Archives de l’Etat surveillent le domaine historique des archives communales en collaboration avec la Direction de l'intérieur et de la justice.
 
 <sup>2</sup> Elles sont l’organe cantonal spécialisé dans le domaine de la surveillance des archives communales.
 
@@ -266,87 +293,131 @@ arrête:
 
 **Consultation**
 
-<sup>1</sup> Les fonds des Archives de l’Etat sont en principe consultables par le public dans la salle de lecture des Archives.
+<sup>1</sup> Les fonds des Archives de l’Etat sont en principe consultables par le public dans une salle de lecture physique ou numérique.
 
-<sup>2</sup> Les Archives de l’Etat peuvent fournir des copies à la place des originaux lorsque la protection des archives l’exige.
+<sup>2</sup> Pour des raisons conservatoires, les Archives de l’Etat peuvent fournir les archives à consulter sur un support alternatif ou sous forme numérique. Il n'existe aucun droit à la remise des originaux.
 
-<sup>3</sup> Les demandes de consultation de documents contenant des données personnelles conformément à l’article 20 LArch sont présentées par écrit accompagnées d’une justification.
+<sup>3</sup> Les demandes de consultation sont motivées par écrit lorsqu'elles portent sur l'accès à des données personnelles soumises à un délai de protection qui est en cours.
+
+<sup>4</sup> Au surplus, la procédure est régie par la législation sur l'information.
 
 #### Art. 23
 
-**Consultation sur Internet**
-
-<sup>1</sup> Les Archives de l’Etat peuvent mettre des instruments de recherche électroniques et des photos à disposition sur Internet dans la mesure où ceux-ci sont accessibles au public au sens des articles 16 à 18 LArch.
-
-<sup>2</sup> Il est renoncé à la communication sur Internet si une personne autorisée rend vraisemblable un intérêt privé ou public prépondérant opposé.
+**…**
 
 #### Art. 24
 
 **Restriction à la communication pour des raisons conservatoires**
 
-<sup>1</sup> Les Archives de l’Etat peuvent restreindre ou refuser la consultation de certaines catégories d’archives ou de certains documents lorsque, en raison de leur âge et de leur état, les archives concernées ne peuvent pas être présentées ou ne le peuvent qu’avec des mesures de protection particulières.
+<sup>1</sup> Les Archives de l’Etat peuvent restreindre ou refuser la consultation de certains fonds ou de certains documents lorsque, en raison de leur âge et de leur état, les archives concernées ne peuvent pas être consultées ou ne le peuvent qu’avec des mesures de protection particulières.
 
 #### Art. 25
 
 **Restriction à la communication pour cause de travail disproportionné**
 
-<sup>1</sup> Les Archives de l’Etat peuvent refuser la consultation d’archives pour cause de travail disproportionné, en particulier lorsque les capacités d’encadrement du personnel de surveillance sont épuisées en raison du grand nombre d’utilisateurs et d’utilisatrices.
+<sup>1</sup> Les Archives de l’Etat peuvent provisoirement refuser la consultation d’archives pour cause de travail disproportionné, en particulier lorsque les capacités des collaboratrices et des collaborateurs des Archives de l'Etat sont épuisées en raison du grand nombre d'utilisatrices et d’utilisateurs.
 
-<sup>2</sup> En règle générale, la consultation de registres paroissiaux est accordée au public des Archives de l’Etat au plus trois jours par personne et par an.
+<sup>2</sup> …
 
 #### Art. 26
 
-**Communication de données extraites de registres paroissiaux**
-
-<sup>1</sup> Les Archives de l’Etat sont habilitées à communiquer des données extraites de registres paroissiaux à des personnes privées (art. 11 de la loi du 19 février 1986 sur la protection des données [LCPD][^26-1]). Celles-ci peuvent également acquérir des copies de ces registres.
-
-[^26-1]: RSB 152.04
+**…**
 
 #### Art. 27
 
 **Prêt**
 
-<sup>1</sup> Les Archives de l’Etat peuvent prêter des archives aux autorités de l’administration cantonale.
+<sup>1</sup> Les Archives de l’Etat peuvent prêter des archives au service versant. Sont réservées les restrictions d'accès aux données personnelles archivées applicables selon l'article 14, alinéa 3 LArch.
 
-<sup>2</sup> A des fins de recherche scientifique, elles peuvent aussi prêter des archives à d’autres Archives, dans la mesure où celles-ci offrent la garantie d’un traitement approprié de ces documents.
+<sup>2</sup> A des fins de recherche scientifique, les Archives de l'Etat peuvent prêter des archives à d’autres Archives, dans la mesure où celles-ci offrent la garantie d’un traitement approprié de ces documents et de la protection des données personnelles.
 
 <sup>3</sup> Des archives peuvent sur demande être prêtées à l’extérieur afin d’être exposées
 
 - a s’il n’en découle aucun risque pour leur conservation;
-- b si le lieu d’exposition présente toutes garanties en matière de sécurité et
-- c si le but visé ne peut être atteint à l’aide de reproductions.
+- b si la sécurité requise est garantie durant le transport et sur le lieu d’exposition;
+- c si le but visé ne peut être atteint à l’aide de reproductions et
+- d si les archives prêtées sont suffisamment assurées ou qu'il existe une garantie suffisante.
 
-<sup>4</sup> Les documents présentant une valeur historique particulière, tels que les manuaux du Conseil, les procès-verbaux, les terriers, les volumes faisant partie d’importantes séries, les chartes, les plans, les registres, sont en règle générale exclus du prêt. Des exceptions peuvent être consenties dans des cas particuliers, notamment pour des expositions d’une importance considérable.
+<sup>4</sup> …
 
 #### Art. 28
 
 **Publications**
 
-<sup>1</sup> Qui publie des archives provenant des fonds des Archives de l’Etat est tenu d’indiquer leur origine (Archives de l’Etat de Berne).
+<sup>1</sup> Lors de la publication d'archives, mention doit être faite
+
+- a de leur origine (Archives de l’Etat de Berne),
+- b de toute divergence avec l'original, telles que des modifications de contenu ou des traitements ultérieurs,
+- c le cas échéant, du fait qu'il s'agit d'une reproduction.
 
 #### Art. 29
 
 **Reproductions**
 
-<sup>1</sup> Les Archives de l’Etat détiennent le droit de reproduction de leurs archives. Les reproductions sont faites par les Archives de l’Etat ou commandées par elles.
+<sup>1</sup> …
 
-<sup>2</sup> Les fonds des Archives de l’Etat peuvent servir à la production de photocopies, de photographies, de diapositives, de microfilms ou de supports électroniques, dans la mesure où cela n’endommage pas les documents.
+<sup>1a</sup> Les archives sont, sur demande, à disposition du public pour reproduction si
 
-<sup>3</sup> La reproduction d’unités d’archives complètes (volumes, séries, liasses, etc.) ainsi que d’archives restaurées, d’archives particulièrement menacées et d’archives reliées n’est pas autorisée. La reproduction complète de registres paroissiaux est réservée.
+- a aucune raison conservatoire ne s'y oppose,
+- b cela n'entraîne pas un travail disproportionné pour les Archives de l'Etat,
+- c la reproduction ne sert aucun but commercial ou qu'une autorisation au sens de l'article 24 LArch a été accordée.
 
-<sup>4</sup> Les reproductions sont autorisées uniquement pour un usage personnel. Les reproductions à des fins commerciales sont régies par l’article 24 LArch.
+<sup>2</sup> La réalisation de copies d'utilisation individuelles destinées à l'usage privé est admise dans le respect du règlement d'utilisation des Archives de l’Etat.
+
+<sup>3–4</sup> …
 
 #### Art. 30
 
 **Règlement d’utilisation**
 
-<sup>1</sup> Les Archives de l’Etat fixent les détails de la communication de leurs fonds dans un règlement d’utilisation.
+<sup>1</sup> Les Archives de l’Etat fixent dans un règlement d’utilisation les détails de la communication de leurs fonds dans la salle de lecture physique et numérique.
+
+<sup>2</sup> Elles peuvent
+
+- a interdire partiellement ou totalement la consultation des archives aux utilisatrices et utilisateurs qui contreviennent gravement ou de façon répétée au règlement d'utilisation ou aux instructions du personnel dans la salle de lecture physique;
+- b prendre des mesures appropriées contre l'utilisation abusive de la salle de lecture numérique, comme le blocage du compte utilisateur.
 
 #### Art. 31
 
 **Exclusion**
 
-<sup>1</sup> Les utilisateurs et les utilisatrices qui contreviennent gravement ou de façon répétée au règlement d’utilisation ou aux directives du personnel des Archives de l’Etat peuvent se voir interdire la consultation des archives par l’archiviste cantonal ou l’archiviste cantonale.
+<sup>1</sup> Les Archives de l'Etat peuvent prendre des mesures appropriées pour garantir la sécurité et l'ordre dans leurs locaux ainsi que pour faire respecter le règlement d'utilisation, notamment renvoyer des personnes et prononcer des interdictions d'accès.
+
+## 5a Subventions à la Fondation Gosteli
+
+#### Art. 31a
+
+**Aides financières**
+
+<sup>1</sup> Le canton peut octroyer des aides financières au sens de l'article 25a, alinéas 1 et 2 LArch à la «Fondation Gosteli – Archives sur l'histoire du mouvement des femmes en Suisse».
+
+<sup>2</sup> Les aides financières font l'objet d'un contrat de prestations et prennent la forme de subventions annuelles à l'exploitation.
+
+<sup>3</sup> Le montant accordé est déterminé en fonction de la contribution fédérale et des contributions de tiers.
+
+#### Art. 31b
+
+**Affectation et conditions des subventions**
+
+<sup>1</sup> Des aides financières sont octroyées notamment pour des prestations dans les domaines de l'archivage, de la médiation culturelle et de la diffusion.
+
+<sup>2</sup> Les archives sont en principe mises gratuitement à disposition du public pour consultation.
+
+<sup>3</sup> Les autres conditions pour les subventions et les différentes prestations sont fixées dans le contrat de prestations.
+
+#### Art. 31c
+
+**Procédure et compétence**
+
+<sup>1</sup> La demande de subvention doit être remise aux Archives de l'Etat jusqu'à 13 mois avant le début de la période de contribution.
+
+<sup>2</sup> Elle doit en règle générale comprendre les indications suivantes:
+
+- a une présentation des activités en cours et planifiées,
+- b une vue d'ensemble des prestations à fournir,
+- c le montant et la justification de la subvention cantonale demandée,
+- d des indications sur les subventions fédérales et d'autres fonds de tiers accordés ou demandés, ainsi que sur les fonds propres,
+- e les comptes des trois dernières années approuvés, le budget actuel et un aperçu de la planification financière.
 
 ## 6. Dispositions transitoires et dispositions finales
 
