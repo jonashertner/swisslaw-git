@@ -4,13 +4,13 @@ number: VIII D/13/2
 title: "Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: "Kantonale Ergänzungsleistungsverordnung, KELV"
 language: de
-version: 2024-08-01
-valid_until: 2025-01-31
-version_adopted: 2024-07-04
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2025-01-07
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.13.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2490/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2490/pdf_file"
 
 (Kantonale Ergänzungsleistungsverordnung, KELV)
 
-Vom 27.11.2007 (Stand 01.08.2024)
+Vom 27.11.2007 (Stand 01.02.2025)
 
 Der Regierungsrat,
 
@@ -48,6 +48,14 @@ verordnet:
 <sup>1</sup> Bei Aufenthalt in einem Alters- und Pflegeheim oder in einer Einrichtung für Menschen mit Behinderung werden als Beiträge pro Jahr für persönliche Auslagen 5448 Franken anerkannt.
 
 <sup>2</sup> Für Kinder und Jugendliche werden die persönlichen Auslagen gemäss Anhang 1 bis maximal 5448 Franken pro Jahr bedarfsgerecht festgesetzt (Nebenkostenbudget).
+
+## 1a. Leistungen bei ambulanter Leistungserbringung
+
+#### Art. 2a
+
+**Begrenzung der Kosten ambulanter Leistungserbringung**
+
+<sup>1</sup> Bei ambulanten Leistungserbringungen gelangen höchstens die Ansätze gemäss Anhang 1 zur Anrechnung.
 
 ## 2. Krankheits- und Behinderungskosten
 
@@ -314,20 +322,23 @@ verordnet:
 
 **Stationäre Unterbringung in Alters- und Pflegeheimen**
 
-<sup>1</sup> Die maximalen täglichen EL-Beiträge sind:
+<sup>1</sup> …
 
-- a. APG — 135.80 Franken;
-- a1. APGN — 134.00 Franken;
-- a2. APH Salem — 132.00 Franken;
-- a3. AH Schwanden, APH Linthal und APH Elm — 131.00 Franken;
-- a4. Pflegeabteilung Schwanden — 140.00 Franken;
-- a5. Wohngruppen Schwanden — 150.00 Franken;
-- b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 36.00 Franken;
-- c. KLV (Pflege)
-  - 1\. Stufe 1 — 4.75 Franken;
-  - 2\. Stufe 2 — 22.60 Franken;
-  - 3\. ab Stufe 3 — 23.00 Franken.
-  - 4\. …
+<sup>1a</sup> Die maximalen täglichen EL-Beiträge sind[^A11-1]:
+
+<table>
+<tr><th>EL-Maxima in Franken</th><th>APGS</th><th>APG</th><th>Salem</th><th>APGN</th></tr>
+<tr><td>Pension</td><td>139.00</td><td>140.42</td><td>132.00</td><td>139.00</td></tr>
+<tr><td>Pension Pflegeabteilung Schwanden</td><td>148.00</td><td></td><td></td><td></td></tr>
+<tr><td>Pension Wohngruppe Schwanden / Demenz</td><td>158.00</td><td></td><td></td><td></td></tr>
+<tr><td>Pension Salem Hospiz</td><td></td><td></td><td>157.85</td><td></td></tr>
+<tr><td>Betreuung</td><td>36.00</td><td>34.66</td><td>36.80</td><td>34.30</td></tr>
+<tr><td>Betreuung Salem Hospiz</td><td></td><td></td><td>64.80</td><td></td></tr>
+<tr><td>Pflege</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pflegestufe 1</td><td>3.54</td><td>2.84</td><td>1.85</td><td>3.58</td></tr>
+<tr><td>Pflegestufe 2</td><td>18.95</td><td>16.93</td><td>14.05</td><td>19.07</td></tr>
+<tr><td>ab Pflegestufe 3</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td></tr>
+</table>
 
 <sup>2</sup> Dabei gilt:
 
@@ -335,20 +346,11 @@ verordnet:
 - 2\. Die Beiträge für die Pension und die Betreuungs- und N-KLV werden anhand des Landesindexes der Konsumentenpreise indexiert (100 Punkte, Basis Dezember 2010). Eine Anpassung erfolgt bei einer Veränderung um mehr als fünf Punkte des Standes per Ende Oktober jeweils auf den 1. Januar des Folgejahres.
 - 3\. Beiträge an die berechtigten Pflegekosten werden nur ausgerichtet, soweit die Sozialversicherungsbeiträge diese nicht decken und höchstens bis zur Höhe der maximalen Pflegekostenbeteiligung der Versicherten (Art. 25a Abs. 5 KVG).
 
+[^A11-1]: Es werden folgende Abkürzungen verwendet: Für die Alters- und Pflegeheime Glarus Süd: APGS, für die Alters- und Pflegeheime Glarus: APG und für die Alters- und Pflegeheime Glarus Nord: APGN.
+
 #### Art. A1-1a
 
-**Stationäre Unterbringung im Hospiz**
-
-<sup>1</sup> Die maximalen täglichen EL-Beiträge bei einem Aufenthalt im Hospiz des Alters- und Pflegeheims Salem für die Zeit vom 1. August bis Ende 2024 betragen:
-
-- a. Pension — 157.85 Franken;
-- b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 64.80 Franken;
-- c. KLV (Pflege)
-  - 1\. Stufe 1 — 4.75 Franken;
-  - 2\. Stufe 2 — 22.60 Franken;
-  - 3\. ab Stufe 3 — 23.00 Franken.
-
-<sup>2</sup> Beiträge an die berechtigten Pflegekosten gemäss Artikel A1-1 Absatz 2 Ziffer 3 werden nur ausgerichtet, soweit die Sozialversicherungsbeiträge diese nicht decken und höchstens bis zur Höhe der maximalen Pflegekostenbeteiligung der Versicherten (Art. 25a Abs. 5 KVG).
+**…**
 
 #### Art. A1-2
 
@@ -371,6 +373,16 @@ verordnet:
 - b. ab dem 12. Altersjahr — max. 454 Franken.
 
 <sup>4</sup> Die Wochenpflege wird pro Tag vergütet. Bei regelmässigem Aufenthalt an fünf Tagen pro Woche erfolgt die Vergütung für 20 Tage. Bei Dauerpflege werden pauschal 30 Tage vergütet.
+
+#### Art. A1-3
+
+**Ambulante Leistungserbringung**
+
+<sup>1</sup> Die EL-Beiträge pro Stunde entsprechen den jeweiligen Restkosten, maximal jedoch:
+
+- a. Pflegeleistungen — 15.35 Franken
+- b. hauswirtschaftliche Leistungen — 41.64 Franken
+- c. Betreuungsleistungen — 38.82 Franken
 
 ## A2.
 
