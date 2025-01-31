@@ -3,11 +3,11 @@ sr: "455.163"
 title: Verordnung des BLV vom 12. April 2010 über die Haltung von Versuchstieren und die Erzeugung gentechnisch veränderter Tiere sowie über die Verfahren bei Tierversuchen (Tierversuchsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: de
-version: 2010-05-01
+version: 2025-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20100501/de/xml/fedlex-data-admin-ch-eli-cc-2010-207-20100501-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/de"
 
 (Tierversuchsverordnung)
 
-vom 12. April 2010 (Stand am 1. Mai 2010)
+vom 12. April 2010 (Stand am 1. Februar 2025)
 
-Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)*[^ingress-1]*,
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^ingress-1],
 
 gestützt auf die Artikel 124 Absatz 2, 136 Absatz 2, 142 Absatz 4 und 209 Absatz 1 der Tierschutzverordnung vom 23. April 2008[^ingress-2] (TSchV),
 
@@ -160,8 +160,10 @@ Im Rahmen der Erzeugung und Zucht gentechnisch veränderter Tiere sind zur Genot
 
 Bei kleinen Nagetieren sind als kombinierte Markierungs- und Genotypisierungsmethoden zulässig:
 
-- a. Amputation des ersten Glieds einer Zehe in den ersten zwölf Tagen nach der Geburt; es dürfen maximal zwei Zehenspitzen pro Tier amputiert werden;
+- a.[^10-1] Amputation des ersten Glieds einer Zehe in den ersten neun Tagen nach der Geburt; es dürfen maximal zwei Zehenspitzen pro Tier amputiert werden;
 - b. Kennzeichnung mittels Ohrlochung oder -kerbung nach dem Absetzen.
+
+[^10-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 11
 
@@ -266,11 +268,14 @@ Die provisorische Meldung muss folgende Angaben enthalten:
 - a. präzise Beschreibung der beobachteten Belastungen im Rahmen der Zusammenfassung der Belastungserfassung;
 - b. wissenschaftliche Basisdaten nach Anhang 2;
 - c. geplante zusätzliche Beobachtungen;
-- d. geplante oder eingeleitete belastungsmindernde Massnahmen und deren erwartete Auswirkungen.
+- d. geplante oder eingeleitete belastungsmindernde Massnahmen und deren erwartete Auswirkungen;
+- e.[^17-1] geplante Abbruchkriterien.
 
 <sup>3</sup> Die provisorische Meldung muss innert zwei Wochen nach der Feststellung der Belastungen erfolgen.
 
 <sup>4</sup> Bestätigen sich die Belastungen aufgrund der Belastungserfassung, so muss die Leiterin oder der Leiter der Versuchstierhaltung eine definitive Meldung nach Artikel 18 vornehmen. Bestätigen sich die anfänglichen Belastungen nicht, so muss sie oder er dies der Behörde ebenfalls melden.
+
+[^17-1]: Eingefügt durch Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 18
 
@@ -287,8 +292,11 @@ Die definitive Meldung muss folgende Angaben enthalten:
 - a. wissenschaftliche Basisdaten nach Anhang 2;
 - b. konkreter Beobachtungsplan und Ergebnisse der Belastungserfassung inklusive Belastungskategorie;
 - c. anzuwendende belastungsmindernde Massnahmen und deren Auswirkungen;
+- c<sup>bis</sup>.[^18-1] anzuwendende Abbruchkriterien;
 - d. Güterabwägung zwischen den festgestellten Belastungen für die Tiere einerseits und dem potenziellen Nutzen für Forschung, Therapie oder Diagnostik und der Wahrscheinlichkeit, dass dieser Nutzen realisiert werden kann, andererseits;
 - e. beabsichtigter Umfang der Zucht sowie die zur Verwendung in Tierversuchen vorgesehene Anzahl Tiere.
+
+[^18-1]: Eingefügt durch Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 19
 
@@ -357,7 +365,7 @@ Bei gentechnisch veränderten Linien sowie belasteten Mutanten sind die wichtigs
 
 <sup>3</sup> Es dient als Mitteilung nach Artikel 13 der Einschliessungsverordnung vom 25. August 1999[^23-1], wenn gentechnisch veränderte Tiere von einem geschlossenen System in ein anderes verbracht werden. Bei der Weitergabe einer neuen, noch nicht ausreichend charakterisierten Linie oder einer wahrscheinlich belasteten Linie sind alle bis zu diesem Zeitpunkt vorliegenden Befunde mitzuliefern.
 
-[^23-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 6. [AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Art. 33 Ziff. 1]. Siehe heute: die V vom 9. Mai 2012 ([SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
+[^23-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 6. [AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Art. 33 Ziff. 1]. Siehe heute: die V vom 9. Mai 2012 ([SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
 
 ## 5. Abschnitt: Festlegung des Schweregrads von Belastungen
 
@@ -399,11 +407,17 @@ Für die Beurteilung der Verhältnismässigkeit eines Versuchs sind die Belastun
 
 #### Art. 27
 
-### (Art. 139 Abs. 2 TSchV)
+[^27-1]
 
-<sup>1</sup> In den Meldungen über kantonsübergreifende Tierversuche sind die Tierzahlen nach Kanton zu trennen.
+### (Art. 145 Abs. 2 und 4 TSchV)
+
+<sup>1</sup> Bei kantonsübergreifenden Tierversuchen (Art. 139 Abs. 5 TSchV) sind die Tierzahlen dem Primärkanton zu melden. Sie sind nach Kanton aufzuschlüsseln.
 
 <sup>2</sup> Wechseln Tiere während des Versuchs den Standort, so sind sie lediglich in jenem Kanton zu erfassen, in dem der Versuch hauptsächlich stattgefunden hat.
+
+<sup>3</sup> Der Primärkanton prüft die Meldungen und übermittelt nach Artikel 145 Absatz 4 TSchV die Tierzahlen aller beteiligten Kantone dem BLV.
+
+[^27-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 ## 7. Abschnitt: Gesuche und Meldungen betreffend Versuchstierhaltungen und Tierversuche
 
@@ -431,27 +445,62 @@ Gesuche um die Bewilligung von Versuchstierhaltungen müssen folgende Angaben en
 
 #### Art. 29
 
-**Inhalt der Meldungen über Versuchstierhaltungen**
+**Inhalt der Meldungen über Versuchstierhaltungen**[^29-1]
 
-### (Art. 145 Abs. 1 Bst. b TSchV)
+### (Art. 145 Abs. 1 Bst. b und 1<sup>bis</sup> TSchV)
 
 <sup>1</sup>
 
-Meldungen über Versuchstierhaltungen müssen folgende Angaben enthalten:
+Meldungen über Versuchstierhaltungen müssen pro Kalenderjahr folgende Angaben enthalten:
 
-- a. Anzahl im Betrieb geborene Tiere, gezählt zum Absetzzeitpunkt;
-- b. Anzahl Tiere, die aus dem Ausland importiert wurden.
+- a. Anzahl im Betrieb geborener Tiere;
+- b. Anzahl importierter Tiere;
+- c.
+
+  Anzahl Tiere, die nicht in einem Tierversuch eingesetzt wurden und:
+
+  - 1\. an Dritte abgegeben wurden, oder
+  - 2\. getötet wurden oder verendet sind.
 
 <sup>2</sup> Die Tierzahlen sind nach Tierarten aufzuschlüsseln.
 
-<sup>3</sup> Belastete Linien sind einzeln zu melden. Ihre Bezeichnung muss mit derjenigen des jeweiligen Datenblatts übereinstimmen.
+<sup>3</sup>
 
-<sup>4</sup>
+Die Tierzahlen sind wie folgt zu bestimmen:
+
+- a.
+
+  Zahlen nach Absatz 1 Buchstabe a:
+
+  - 1\. für Mäuse und Ratten: spätestens ab dem Tag 9 nach der Geburt,
+  - 2\. für Fische und Lurche: ab dem Stadium der freien Futteraufnahme,
+  - 3\. für Vögel: ab dem Schlupf;
+
+- b.
+
+  Zahlen nach Absatz 1 Buchstabe b:
+
+  - 1\. für importierte Eier und Larven von Fischen und Lurchen: ab dem Stadium der freien Futteraufnahme,
+  - 2\. für Eier von Vögeln: ab dem Schlupf;
+
+- c.
+
+  Zahlen nach Absatz 1 Buchstabe c:
+
+  - 1\. für Fische und Lurche: ab dem Stadium der freien Futteraufnahme,
+  - 2\. für Vögel: ab dem Schlupf,
+  - 3\. für alle übrigen Tiere als diejenigen nach den Ziffern 1 und 2: ab der Geburt.
+
+<sup>4</sup> Belastete Linien sind einzeln zu melden. Ihre Bezeichnung muss mit derjenigen des jeweiligen Datenblatts übereinstimmen.
+
+<sup>5</sup>
 
 Bei unbelasteten Linien können pro Tierart zusammengefasst werden:
 
 - a. gentechnisch veränderte Linien;
 - b. nicht gentechnisch veränderte Linien.
+
+[^29-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 30
 
@@ -495,24 +544,46 @@ Meldungen über Tierversuche müssen folgende Angaben enthalten:
 
 <sup>2</sup> Die Meldungen sind für durchgeführte und für nicht durchgeführte Tierversuche vorzunehmen.
 
-## 8. Abschnitt: Inkrafttreten
+## 8. Abschnitt: Schlussbestimmungen
+
+[^sec8-1]
+
+[^sec8-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
+#### Art. 31a
+
+**Übergangsbestimmung zur Änderung vom 20. Dezember 2024**[^31a-1]
+
+In Abweichung von Artikel 29 Absätze 1 und 3 müssen die Meldungen über Versuchstierhaltungen betreffend die Kalenderjahre bis 2025 folgende Angaben enthalten:
+
+- a. Anzahl im Betrieb geborene Tiere, gezählt zum Absetzzeitpunkt;
+- b. Anzahl Tiere, die aus dem Ausland importiert wurden.
+
+[^31a-1]: Eingefügt durch Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 32
 
+**Inkrafttreten[^32-1]**
+
 Diese Verordnung tritt am 1. Mai 2010 in Kraft.
 
-Anhang 1
+[^32-1]: Eingefügt durch Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
+Anhang 1[^t-1]
 
 (Art. 9 Abs. 1)
 
 ## Anerkannte Methoden zur Erzeugung gentechnisch veränderter Tiere
 
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
 - a. Kreuzen gentechnisch veränderter Linien;
 - b. Vorkern-Injektion bei Maus, Ratte, Kaninchen und Meerschweinchen;
 - c. Injektion und Aggregation embryonaler Stammzellen bei Maus und Ratte;
 - d. Einsatz viraler Vektoren bei Maus und Ratte;
-- e. intrazytoplasmatische Spermieninjektion bei der Maus;
-- f. Injektion ins Zytoplasma beziehungsweise in den Dottersack früher Embryonalstadien (1- bis16-Zellstadium) beim Zebrafisch.
+- e. intrazytoplasmatische Spermieninjektion bei der Maus und der Ratte;
+- f. Injektion ins Zytoplasma beziehungsweise in den Dottersack früher Embryonalstadien (1- bis16-Zellstadium) beim Zebrafisch;
+- g. Einsatz von Endonukleasen.
 
 Anhang 2
 

@@ -3,11 +3,11 @@ sr: "455.163"
 title: "Ordinanza dell'USAV del 12 aprile 2010 concernente la detenzione di animali da laboratorio, la produzione di animali geneticamente modificati e i metodi utilizzati nella sperimentazione animale (Ordinanza sulla sperimentazione animale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: it
-version: 2010-05-01
+version: 2025-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20100501/it/xml/fedlex-data-admin-ch-eli-cc-2010-207-20100501-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/it"
 
 (Ordinanza sulla sperimentazione animale)
 
-del 12 aprile 2010 (Stato 1° maggio 2010)
+del 12 aprile 2010 (Stato 1° febbraio 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) [^ingress-1],
 
@@ -160,8 +160,10 @@ Nell’ambito della produzione e dell’allevamento di animali geneticamente mod
 
 Nel caso di piccoli roditori sono ammesse le seguenti combinazioni di metodi di marchiatura e genotipizzazione:
 
-- a. amputazione della prima falange di un dito nei primi dodici giorni dalla nascita; a ogni animale possono essere amputate al massimo due estremità distali delle dita;
+- a.[^10-1] amputazione della prima falange di un dito nei primi nove giorni dalla nascita; a ogni animale possono essere amputate al massimo due estremità distali delle dita;
 - b. identificazione tramite perforazione o incisione auricolare dopo lo svezzamento.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
 
 #### Art. 11
 
@@ -266,11 +268,14 @@ La notifica provvisoria deve indicare:
 - a. una descrizione precisa degli aggravi osservati nel quadro del riassunto della documentazione concernente il rilevamento dell’aggravio;
 - b. i dati scientifici di base di cui all’allegato 2;
 - c. le osservazioni supplementari previste;
-- d. le misure che riducono l’aggravio previste o adottate e i loro effetti prevedibili.
+- d. le misure che riducono l’aggravio previste o adottate e i loro effetti prevedibili;
+- e.[^17-1] i criteri d’interruzione previsti.
 
 <sup>3</sup> La notifica provvisoria deve aver luogo entro due settimane dalla constatazione degli aggravi.
 
 <sup>4</sup> Se l’esistenza di aggravi è confermata in base al rilevamento, il direttore del centro di detenzione di animali da laboratorio è tenuto a effettuare una notifica definitiva ai sensi dell’articolo 18. In caso di mancata conferma di aggravi inizialmente individuati, egli deve parimenti notificare tale fatto all’autorità cantonale.
+
+[^17-1]: Introdotta dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
 
 #### Art. 18
 
@@ -287,8 +292,11 @@ La notifica definitiva deve indicare:
 - a. i dati scientifici di base di cui all’allegato 2;
 - b. un programma di osservazione concreto e i risultati del rilevamento dell’aggravio, inclusi i livelli di sofferenza;
 - c. le misure da applicare al fine di ridurre l’aggravio e i loro effetti;
+- c<sup>bis</sup>. [^18-1] i criteri d’interruzione da applicare;
 - d. la ponderazione degli interessi, alla luce degli aggravi rilevati per gli animali e dei potenziali vantaggi per la ricerca, la terapia o la diagnosi, nonché della possibilità di concretizzare tali vantaggi;
 - e. la portata dell’allevamento e il numero di animali oggetto di sperimentazione previsti.
+
+[^18-1]: Introdotta dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
 
 #### Art. 19
 
@@ -357,7 +365,7 @@ Le informazioni più importanti concernenti le linee geneticamente modificate no
 
 <sup>3</sup> La scheda tecnica è considerata una comunicazione ai sensi dell’articolo 13 dell’ordinanza del 25 agosto 1999[^23-1] sull’impiego confinato nel caso in cui animali geneticamente modificati siano trasferiti da un sistema chiuso a un altro. Nel caso della cessione di una linea nuova non ancora sufficientemente caratterizzata oppure di una linea suscettibile di presentare mutazioni patologiche, devono essere comunicati tutti i dati disponibili al momento della cessione.
 
-[^23-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6. [RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)art. 33 n. 1]. Vedi ora l’O del 9 mag. 2012 ([RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
+[^23-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6. [RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)art. 33 n. 1]. Vedi ora l’O del 9 mag. 2012 ([RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
 
 ## Sezione 5: Determinazione del livello di sofferenza
 
@@ -399,11 +407,17 @@ Nella valutazione dell’opportunità di eseguire un esperimento occorre conside
 
 #### Art. 27
 
-### (art. 139 cpv. 2 OPAn)
+[^27-1]
 
-<sup>1</sup> Le notifiche riguardanti esperimenti su animali effettuati in diversi Cantoni devono menzionare il numero di animali utilizzato in ogni Cantone.
+### (art. 145 cpv. 2 e 4 OPAn)
+
+<sup>1</sup> In caso di esperimenti su animali effettuati in diversi Cantoni (art. 139 cpv. 5 OPAn), deve essere notificato al Cantone primario il numero di animali utilizzati. Tale numero dev’essere indicato per ogni Cantone.
 
 <sup>2</sup> Se sono spostati da un luogo a un altro durante l’esperimento, gli animali devono essere registrati unicamente nel Cantone in cui l’esperimento ha avuto luogo a titolo principale.
+
+<sup>3</sup> Il Cantone primario verifica le notifiche e trasmette all’USAV, secondo l’articolo 145 capoverso 4 OPAn, il numero di animali utilizzati in tutti i Cantoni coinvolti.
+
+[^27-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
 
 ## Sezione 7: Domande e notifiche concernenti i centri di detenzione di animali da laboratorio e gli esperimenti sugli animali
 
@@ -431,27 +445,62 @@ Le domande di autorizzazione per i centri di detenzione di animali da laboratori
 
 #### Art. 29
 
-**Contenuto delle notifiche relative ai centri di detenzione di animali da laboratorio**
+**Contenuto delle notifiche relative ai centri di detenzione di animali da laboratorio**[^29-1]
 
-### (art. 145 cpv. 1 lett. b OPAn)
+### (art. 145 cpv. 1 lett. b e 1<sup>bis</sup> OPAn)
 
 <sup>1</sup>
 
-Le notifiche relative ai centri di detenzione di animali da laboratorio devono contenere le indicazioni seguenti:
+Le notifiche relative ai centri di detenzione di animali da laboratorio devono contenere, per ogni anno civile, le indicazioni seguenti:
 
-- a. il numero degli animali nati nell’azienda, stabilito al momento dello svezzamento;
-- b. il numero di animali importati dall’estero.
+- a. il numero di animali nati nell’azienda;
+- b. il numero di animali importati;
+- c.
+
+  il numero di animali che non sono stati utilizzati in un esperimento e che:
+
+  - 1\. sono stati consegnati a terzi, oppure
+  - 2\. sono stati uccisi o sono morti.
 
 <sup>2</sup> Per ogni specie dev’essere indicato il numero di animali.
 
-<sup>3</sup> Le linee con mutazioni patologiche devono essere notificate separatamente. La loro denominazione deve corrispondere a quella della relativa scheda tecnica.
+<sup>3</sup>
 
-<sup>4</sup>
+Il numero di animali dev’essere determinato come segue:
+
+- a.
+
+  il numero di cui al capoverso 1 lettera a:
+
+  - 1\. per i topi e i ratti, al più tardi dal nono giorno dopo la nascita,
+  - 2\. per i pesci e gli anfibi, a partire dallo stadio di assunzione autonoma di cibo,
+  - 3\. per gli uccelli, a partire dalla schiusa;
+
+- b.
+
+  il numero di cui al capoverso 1 lettera b:
+
+  - 1\. per le uova e le larve importate di pesci e anfibi, a partire dallo stadio di assunzione autonoma di cibo,
+  - 2\. per le uova di uccelli, a partire dalla schiusa;
+
+- c.
+
+  il numero di cui al capoverso 1 lettera c:
+
+  - 1\. per i pesci e gli anfibi, a partire dallo stadio di assunzione autonoma di cibo,
+  - 2\. per gli uccelli, a partire dalla schiusa,
+  - 3\. per tutti gli animali diversi da quelli di cui ai numeri 1 e 2, a partire dalla nascita.
+
+<sup>4</sup> Le linee con mutazioni patologiche devono essere notificate separatamente. La loro denominazione deve corrispondere a quella della relativa scheda tecnica.
+
+<sup>5</sup>
 
 In caso di linee prive di mutazioni patologiche, per ogni specie animale possono essere raggruppate:
 
 - a. le linee geneticamente modificate;
 - b. le linee non geneticamente modificate.
+
+[^29-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
 
 #### Art. 30
 
@@ -495,24 +544,46 @@ Le notifiche relative agli esperimenti sugli animali devono indicare:
 
 <sup>2</sup> Le notifiche devono essere inoltrate sia per gli esperimenti eseguiti sia per quelli che non sono stati realizzati.
 
-## Sezione 8: Entrata in vigore
+## Sezione 8: Disposizioni finali
+
+[^sec8-1]
+
+[^sec8-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+
+#### Art. 31a
+
+**Disposizione transitoria della modifica del 20 dicembre 2024**[^31a-1]
+
+In deroga all’articolo 29 capoversi 1 e 3, le notifiche relative ai centri di detenzione di animali da laboratorio fino alla fine dell’anno civile 2025 devono contenere le indicazioni seguenti:
+
+- a. il numero degli animali nati nell’azienda, stabilito al momento dello svezzamento;
+- b. il numero di animali importati dall’estero.
+
+[^31a-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
 
 #### Art. 32
 
+**Entrata in vigore[^32-1]**
+
 La presente ordinanza entra in vigore il 1° maggio 2010.
 
-Allegato 1
+[^32-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+
+Allegato 1[^t-1]
 
 (art. 9 cpv. 1)
 
 ## Metodi riconosciuti per la produzione di animali geneticamente modificati
 
+[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+
 - a. incrocio di linee geneticamente modificate;
 - b. iniezione pronucleare a topi, ratti, conigli e porcellini d’India;
 - c. iniezione e aggregazione di cellule staminali embrionali a topi e ratti;
 - d. utilizzo di vettori virali su topi e ratti;
-- e. iniezione intracitoplasmatica di spermatozoi ai topi;
-- f. iniezione nel citoplasma o nella membrana vitellina di embrioni durante le prime fasi dello sviluppo (dallo stadio a una cellula fino allo stadio a 16 cellule) nei pesci zebra.
+- e. iniezione intracitoplasmatica di spermatozoi ai topi e ai ratti;
+- f. iniezione nel citoplasma o nella membrana vitellina di embrioni durante le prime fasi dello sviluppo (dallo stadio a una cellula fino allo stadio a 16 cellule) nei pesci zebra;
+- g. utilizzo di endonucleasi.
 
 Allegato 2
 

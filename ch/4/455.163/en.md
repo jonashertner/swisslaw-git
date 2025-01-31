@@ -3,11 +3,11 @@ sr: "455.163"
 title: "FSVO Ordinance of 12 April 2010 on Laboratory Animal Husbandry, the Production of Genetically Modified Animals and Methods of Animal Experimentation (Animal Experimentation Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: en
-version: 2010-05-01
+version: 2025-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20100501/en/xml/fedlex-data-admin-ch-eli-cc-2010-207-20100501-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/en/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,11 +18,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Animal Experimentation Ordinance)
 
-of 12 April 2010 (Status as of 1 May 2010)
+of 12 April 2010 (Status as of 1 February 2025)
 
-The Federal Food Safety and Veterinary Office (FSVO)*[^ingress-1]*,
+The Federal Food Safety and Veterinary Office (FSVO)[^ingress-1],
 
-on the basis of Articles 124 paragraph 2, 136 paragraph 2, 142 paragraph 4 and 209 paragraph 1 of the Animal Welfare Ordinance of 23 April 2008[^ingress-2] (AWO),
+on the basis of Articles 124 paragraph 2, 136 paragraph 2, 142 paragraph 4 and 209 paragraph 1 of the Animal Welfare Ordinance of 23 April 2008[^ingress-2] (AniWO),
 
 ordains:
 
@@ -48,7 +48,7 @@ This Ordinance contains regulations on:
 
 **Monitoring of laboratory animals**
 
-### (Art. 121 AWO)
+### (Art. 121 AniWO)
 
 <sup>1</sup> Technical installations such as ventilation and automatic drinking systems shall be fitted with an alarm device if the failure or a malfunction of these systems can cause harm to the animals.
 
@@ -56,7 +56,7 @@ This Ordinance contains regulations on:
 
 <sup>3</sup> The well-being of small rodents must be checked when they are transferred to clean cages. The animals must also be visually inspected at least three times a week. At weekends, the condition of the housing environment and the well-being of the animals need not be checked if it can be shown that the animals are not adversely affected by this procedure.
 
-<sup>4</sup> Small rodents are the animals listed in Annex 3 Table 1 AWO.
+<sup>4</sup> Small rodents are the animals listed in Annex 3 Table 1 AniWO.
 
 <sup>5</sup> If an animal shows signs of any strain, this should be indicated on the enclosure or cage.
 
@@ -68,7 +68,7 @@ This Ordinance contains regulations on:
 
 **Individual housing of incompatible animals**
 
-### (Art. 119 para. 2 AWO)
+### (Art. 119 para. 2 AniWO)
 
 A record shall be kept of the beginning and end of individual housing for incompatible animals and of special events arising during such housing.
 
@@ -76,7 +76,7 @@ A record shall be kept of the beginning and end of individual housing for incomp
 
 **Run for dogs**
 
-### (Art. 71 para. 2 AWO)
+### (Art. 71 para. 2 AniWO)
 
 The run for dogs may be in an outdoor enclosure.
 
@@ -84,7 +84,7 @@ The run for dogs may be in an outdoor enclosure.
 
 **Marking of small rodents**
 
-### (Art. 120 AWO)
+### (Art. 120 AniWO)
 
 <sup>1</sup> Invasive methods such as tattoos, microchips, ear notches or amputation of toe tips may be used for marking small rodents intended for breeding.
 
@@ -98,7 +98,7 @@ The run for dogs may be in an outdoor enclosure.
 
 **Measures and procedures in animal rooms**
 
-### (Art. 135 para. 9 AWO)
+### (Art. 135 para. 9 AniWO)
 
 The following measures and procedures may be performed in rooms where animals are kept:
 
@@ -110,7 +110,7 @@ The following measures and procedures may be performed in rooms where animals ar
 
 **Documentation**
 
-### (Art. 114 AWO)
+### (Art. 114 AniWO)
 
 <sup>1</sup> The allocation and instruction of personnel taking care of laboratory animals must be recorded in a comprehensible manner.
 
@@ -122,9 +122,9 @@ The following measures and procedures may be performed in rooms where animals ar
 
 **Qualification of animal caretakers**
 
-### (Art. 116 AWO)
+### (Art. 116 AniWO)
 
-At least one third of personnel in animal caretaker positions must hold a qualification as animal attendant as specified in Article 195 AWO.
+At least one third of personnel in animal caretaker positions must hold a qualification as animal attendant as specified in Article 195 AniWO.
 
 ## Section 3 Production, Breeding and Housing of Genetically Modified Laboratory Animals and Mutants that have a Clinical Pathological Phenotype
 
@@ -132,7 +132,7 @@ At least one third of personnel in animal caretaker positions must hold a qualif
 
 **Approved methods for producing genetically modified animals**
 
-### (Art. 142 para. 4 AWO)
+### (Art. 142 para. 4 AniWO)
 
 <sup>1</sup> The approved methods for producing genetically modified animals are listed in Annex 1.
 
@@ -146,7 +146,7 @@ At least one third of personnel in animal caretaker positions must hold a qualif
 
 **Genotyping**
 
-### (Art. 120 para. 1 and 123 AWO)
+### (Art. 120 para. 1 and 123 AniWO)
 
 <sup>1</sup>
 
@@ -162,14 +162,16 @@ The following methods and combinations thereof are approved for genotyping in pr
 
 In small rodents the following methods for combined genotyping and marking are permitted:
 
-- a. amputation of the distal phalanx of a toe in the first 12 days after birth; not more than two toe tips per animal may be amputated;
+- a.[^10-1] amputation of the distal phalanx of a toe in the first nine days after birth; not more than two toe tips per animal may be amputated;
 - b. identification by means of ear perforation or notching after weaning.
+
+[^10-1]: Amended by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 11
 
 **Phenotyping**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 In the production and breeding of animal lines or strains, the killing of animals for anatomical or pathological purposes and investigations such as behavioural studies with mild strain or blood sampling are permitted provided they serve to characterise the animal lines and strains. The studies shall be performed in a manner that best ensures the well-being of the animals.
 
@@ -179,7 +181,7 @@ In the production and breeding of animal lines or strains, the killing of animal
 
 **Basic principles of recording strain in small rodents**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup>
 
@@ -196,7 +198,7 @@ The recording of strain in small rodents must be documented. The following data 
 
 **Recording strain in small rodents**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup>
 
@@ -220,7 +222,7 @@ The head of the laboratory animal facility is responsible for recording strain. 
 
 **Recording strain in new or insufficiently characterised lines of small rodents**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup> New or insufficiently characterised lines of genetically modified small rodents shall be inspected for traits in accordance with Annex 4 while changing cages and observed at least once in between cage changes.
 
@@ -234,7 +236,7 @@ The head of the laboratory animal facility is responsible for recording strain. 
 
 **Recording strain in small rodent lines likely to have a clinical pathological phenotype**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup>
 
@@ -249,15 +251,15 @@ A small rodent line is deemed likely to have a clinical pathological phenotype i
 
 **Recording strain in small rodent lines that have a clinical pathological phenotype**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
-In lines that have a clinical pathological phenotype, the scope of the inspections and the list of traits to be studied and documented shall be stipulated in the decision in accordance with Article 127 AWO.
+In lines that have a clinical pathological phenotype, the scope of the inspections and the list of traits to be studied and documented shall be stipulated in the decision in accordance with Article 127 AniWO.
 
 #### Art. 17
 
 **Provisional reporting of strain in small rodent lines**
 
-### (Art. 126 and 145 para. 1 let. a AWO)
+### (Art. 126 and 145 para. 1 let. a AniWO)
 
 <sup>1</sup> If similar signs of strain are found in several animals of a new or insufficiently characterised line or of a line likely to have a clinical pathological phenotype, the head of the laboratory animal facility must report the strain observed to the cantonal authorities (provisional report).
 
@@ -268,17 +270,20 @@ The provisional report must contain the following information:
 - a. a precise description of the signs of strain observed in the summary of the strain record;
 - b. basic scientific data as specified in Annex 2;
 - c. planned additional observations;
-- d. planned or initiated measures to reduce strain and its expected impact.
+- d. planned or initiated measures to reduce strain and its expected impact;
+- e.[^17-1] planned euthanasia criteria.
 
 <sup>3</sup> The provisional report must be submitted within two weeks of the strain being observed.
 
 <sup>4</sup> If strain is confirmed by additional recordings, the head of the laboratory animal facility must submit a definitive report in accordance with Article 18. If the initial strain is not confirmed, he or she must likewise report this to the authorities.
 
+[^17-1]: Inserted by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
 #### Art. 18
 
 **Definitive report of strain in small rodent lines**
 
-### (Art. 126 and 145 para. 1 let. a AWO)
+### (Art. 126 and 145 para. 1 let. a AniWO)
 
 <sup>1</sup> The definitive report of strain in small rodent lines must be submitted at the latest when 100 animals have been checked in accordance with Article 14.
 
@@ -289,14 +294,17 @@ The definitive report must contain the following information:
 - a. basic scientific data as specified in Annex 2;
 - b. specific observation plan and results of strain recording, including degree of severity;
 - c. measures to be taken to reduce strain and its impact;
+- c<sup>bis</sup>.[^18-1] the euthanasia criteria to be applied;
 - d. weighing the observed strain on the animals against the potential benefit for research, therapy or diagnostics and the likelihood of this benefit being realised;
 - e. intended scope of breeding and the number of animals to be used in animal experiments.
+
+[^18-1]: Inserted by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 19
 
 **Recording strain in new or insufficiently characterised fish lines**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup>
 
@@ -314,7 +322,7 @@ In the case of new or insufficiently characterised lines of genetically modified
 
 **Recording strain in fish lines that probably have a clinical pathological phenotype**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup>
 
@@ -329,23 +337,23 @@ A fish line is regarded as probably having a clinical pathological phenotype if:
 
 **Recording strain in fish lines that have a clinical pathological phenotype**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
-In fish lines that have a clinical pathological phenotype, the scope of the inspections and the list of traits to be studied and documented shall be stipulated in the decision in accordance with Article 127 AWO.
+In fish lines that have a clinical pathological phenotype, the scope of the inspections and the list of traits to be studied and documented shall be stipulated in the decision in accordance with Article 127 AniWO.
 
 #### Art. 22
 
 **Reporting procedure for genetically modified fish lines that have a clinical pathological phenotype**
 
-### (Art. 126 and 145 para. 1 let. a AWO)
+### (Art. 126 and 145 para. 1 let. a AniWO)
 
-The report of a genetically modified fish line that has a clinical pathological phenotype comprises the information defined in Article 126 paragraph 2 AWO including the weighing of strain against benefits as specified in Article 18 paragraph 2 letter d of this Ordinance.
+The report of a genetically modified fish line that has a clinical pathological phenotype comprises the information defined in Article 126 paragraph 2 AniWO including the weighing of strain against benefits as specified in Article 18 paragraph 2 letter d of this Ordinance.
 
 #### Art. 23
 
 **Data sheet for genetically modified lines and mutants that have a clinical pathological phenotype**
 
-### (Art. 124 AWO)
+### (Art. 124 AniWO)
 
 <sup>1</sup>
 
@@ -353,7 +361,7 @@ In the case of genetically modified lines and mutants that have a clinical patho
 
 - a. the basic scientific data in accordance with Annex 2;
 - b. a summary of strain recording in accordance with Annex 3;
-- c. where applicable, the decision on lines that have a clinical pathological phenotype (Art. 127 AWO).
+- c. where applicable, the decision on lines that have a clinical pathological phenotype (Art. 127 AniWO).
 
 <sup>2</sup> The data sheet shall be submitted to the cantonal authorities at the latest when an application for animal experiments using the line or mutant in question is submitted for approval or when a report is submitted concerning this line or these mutants.
 
@@ -367,7 +375,7 @@ In the case of genetically modified lines and mutants that have a clinical patho
 
 **Categories of strain resulting from experimental procedures or measures**
 
-### (Art. 136 para. 2 AWO)
+### (Art. 136 para. 2 AniWO)
 
 The following four categories are used for strain on animals resulting from procedures or measures in the context of animal experiments:
 
@@ -380,7 +388,7 @@ The following four categories are used for strain on animals resulting from proc
 
 **Categories of strain due to genetic modifications**
 
-### (Art. 136 para. 2 AWO)
+### (Art. 136 para. 2 AniWO)
 
 The following four categories are used for strain on animals resulting from genetic modifications:
 
@@ -393,7 +401,7 @@ The following four categories are used for strain on animals resulting from gene
 
 **Strain to be consideredfor assessing the acceptability of an experiment**
 
-### (Art. 136 para. 2 AWO)
+### (Art. 136 para. 2 AniWO)
 
 To assess the acceptability of an experiment, consideration shall be given to the strain defined in Articles 24 and 25 and also to further strain imposed on the animals through debasement, through radical intervention in their appearance or their capabilities or through excessive instrumentalisation.
 
@@ -401,11 +409,17 @@ To assess the acceptability of an experiment, consideration shall be given to th
 
 #### Art. 27
 
-### (Art. 139 para. 2 AWO)
+[^27-1]
 
-<sup>1</sup> In the reports on intercantonal animal experiments, the numbers of animals shall be separated by canton.
+### (Art. 145 para. 2 and 4 AniWO)
+
+<sup>1</sup> In the case of intercantonal animal experiments (Art. 139 para. 5 AniWO), the numbers of animals must be reported to the primary canton. They must be broken down according to canton.
 
 <sup>2</sup> If animals change location during the experiment, they shall only be registered in the canton where the experiment mainly took place.
+
+<sup>3</sup> The primary canton shall check the report and send the animal numbers for all participant cantons to the FSVO in accordance with Article 145 paragraph 4 AniWO.
+
+[^27-1]: Amended by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 ## Section 7 Applications and Reports concerning Laboratory Animal Facilities and Animal Experiments
 
@@ -413,7 +427,7 @@ To assess the acceptability of an experiment, consideration shall be given to th
 
 **Content of applications for approval of a laboratory animal facility**
 
-### (Art. 122 AWO)
+### (Art. 122 AniWO)
 
 Applications for the approval of laboratory animal facilities must contain the following information:
 
@@ -435,7 +449,7 @@ Applications for the approval of laboratory animal facilities must contain the f
 
 **Content of reports on laboratory animal facilities**
 
-### (Art. 145 para. 1 let. b AWO)
+### (Art. 145 para. 1 let. b AniWO)
 
 <sup>1</sup>
 
@@ -455,16 +469,75 @@ In the case of lines free of clinical pathological phenotype, the following may 
 - a. genetically modified lines;
 - b. non-genetically modified lines.
 
+#### Art. 29
+
+**Content of reports on laboratory animal facilities**[^29-1]
+
+### (Art. 145 para. 1 let. b and 1<sup>bis</sup> AniWO)
+
+<sup>1</sup>
+
+Reports on laboratory animal facilities for each calendar year must contain the following information:
+
+- a. the number of animals born in the facility;
+- b. the number of imported animals;
+- c.
+
+  the number of animals that have not been used in an animal experiment and:
+
+  - 1\. have been supplied to third parties, or
+  - 2\. have been killed or have died.
+
+<sup>2</sup> The numbers of animals shall be itemised by animal species.
+
+<sup>3</sup>
+
+The numbers of animals shall be specified as follows:
+
+- a.
+
+  numbers in accordance with paragraph 1 letter a:
+
+  - 1\. for mice and rats: from day 9 after birth,
+  - 2\. for fish and amphibians: from the free-feeding stage,
+  - 3\. for birds: from the date of hatching;
+
+- b.
+
+  numbers in accordance with paragraph 1 letter b:
+
+  - 1\. for imported eggs and larvae of fish and amphibians: from the free-feeding stage,
+  - 2\. for bird eggs: from the date of hatching;
+
+- c.
+
+  numbers in accordance with paragraph 1 letter c:
+
+  - 1\. for fish and amphibians: from the free-feeding stage,
+  - 2\. for birds: from the date of hatching,
+  - 3\. for all animals other than those in numbers 1 and 2: from birth.
+
+<sup>4</sup> Lines that have a clinical pathological phenotype shall be reported individually. Their designation must match that in the data sheet.
+
+<sup>5</sup>
+
+In the case of lines free of clinical pathological phenotype, the following may be summarised per species:
+
+- a. genetically modified lines;
+- b. non-genetically modified lines.
+
+[^29-1]: Amended by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
 #### Art. 30
 
 **Content of applications for the approval of animal experiments**
 
-### (Art. 139 para. 1 AWO)
+### (Art. 139 para. 1 AniWO)
 
 Applications for the approval of animal experiments must contain the following information:
 
 - a. species, number, gender and origin of animals that are to be used;
-- b. information on the use of genetically modified animals or mutants that have a clinical pathological phenotype, including the data sheet in accordance with Article 23 of this Ordinance and, where applicable, the decision in accordance with Article 127 AWO;
+- b. information on the use of genetically modified animals or mutants that have a clinical pathological phenotype, including the data sheet in accordance with Article 23 of this Ordinance and, where applicable, the decision in accordance with Article 127 AniWO;
 - c. address of the laboratory animal facility;
 - d. rooms, infrastructure and location of experiment to be conducted;
 - e. names of the resource manager, study director, deputies and persons conducting the experiments;
@@ -482,7 +555,7 @@ Applications for the approval of animal experiments must contain the following i
 
 **Content of reports on animal experiments**
 
-### (Art. 145 para. 2 AWO)
+### (Art. 145 para. 2 AniWO)
 
 <sup>1</sup>
 
@@ -497,24 +570,46 @@ Reports on animal experiments must contain the following information:
 
 <sup>2</sup> The reports shall be written for animal experiments performed and not performed.
 
-## Section 8 Commencement
+## Section 8 Final Provisions
+
+[^sec8-1]
+
+[^sec8-1]: Amended by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
+#### Art. 31a
+
+**Transitional provision to the Amendment of 20 December 2024**[^31a-1]
+
+In derogation from Article 29 paragraphs 1 and 3, the report on laboratory animal facilities relating to the calendar years up to 2025 must contain the following information:
+
+- a. the number of animals born in the facility, counted at the time of weaning;
+- b. the number of animals imported from abroad.
+
+[^31a-1]: Inserted by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 32
 
+**Commencement[^32-1]**
+
 This Ordinance comes into force on 1 May 2010.
 
-Annex 1
+[^32-1]: Inserted by No I of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
+Annex 1[^t-1]
 
 (Art. 9 para. 1)
 
 ## Recognised methods for producing genetically modified animals
 
+[^t-1]: Revised by No II of the FSVO O of 20 Dec. 2024, in force since 1 Feb. 2025 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
 - a. crossing of genetically modified lines;
 - b. pronuclear injection in mouse, rat, rabbit and guinea pig;
 - c. injection and aggregation of embryonic stem cells in mouse and rat;
 - d. use of viral vectors in mouse and rat;
-- e. intracytoplasmic sperm injection in the mouse;
-- f. injection into the cytoplasm or the yolk sac of early embryonic stages (1 to 16-cell stage) in zebrafish.
+- e. intracytoplasmic sperm injection in mouse and rat;
+- f. injection into the cytoplasm or the yolk sac of early embryonic stages (1 to 16-cell stage) in zebrafish;
+- g. use of endonucleases.
 
 Annex 2
 

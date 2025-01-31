@@ -3,11 +3,11 @@ sr: "455.163"
 title: "Ordonnance de l'OSAV du 12 avril 2010 concernant la détention des animaux d'expérience, la production d'animaux génétiquement modifiés et les méthodes utilisées dans l'expérimentation animale (Ordonnance sur l'expérimentation animale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: fr
-version: 2010-05-01
+version: 2025-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20100501/fr/xml/fedlex-data-admin-ch-eli-cc-2010-207-20100501-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20100501/fr"
 
 (Ordonnance sur l’expérimentation animale)
 
-du 12 avril 2010 (Etat le 1<sup>er</sup> mai 2010)
+du 12 avril 2010 (État le 1<sup>er</sup> février 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^ingress-1],
 
@@ -160,8 +160,10 @@ Les méthodes ou combinaison de méthodes suivantes sont admises pour le génoty
 
 Les méthodes suivantes combinant le marquage et le génotypage sont admises chez les petits rongeurs:
 
-- a. l’amputation de la phalange distale d’un doigt dans les douze jours qui suivent la naissance; il est permis d’amputer au maximum deux phalanges distales par animal;
+- a.[^10-1] l’amputation de la phalange distale d’un doigt dans les neuf jours qui suivent la naissance; il est permis d’amputer au maximum deux phalanges distales par animal;
 - b. le marquage par perçage ou entaille de l’oreille après le sevrage.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 11
 
@@ -266,11 +268,14 @@ La notification provisoire doit contenir les informations suivantes:
 - a. dans le résumé de la caractérisation de la contrainte, une description précise des contraintes observées;
 - b. les données scientifiques de base visées à l’annexe 2;
 - c. les points supplémentaires qu’il est prévu d’examiner;
-- d. les mesures prévues ou prises pour réduire la contrainte et leurs effets probables.
+- d. les mesures prévues ou prises pour réduire la contrainte et leurs effets probables;
+- e.[^17-1] les critères d’arrêt prévus.
 
 <sup>3</sup> La notification provisoire est à transmettre dans un délai de deux semaines à compter de la constatation des contraintes.
 
 <sup>4</sup> Si les contraintes décelées lors de la caractérisation de la contrainte se confirment, le responsable de l’animalerie effectuera une notification définitive au sens de l’art. 18. Si les contraintes décelées initialement ne se confirment pas, il le notifiera également à l’autorité cantonale.
+
+[^17-1]: Introduite par le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 18
 
@@ -287,8 +292,11 @@ La notification définitive doit contenir les données suivantes:
 - a. les informations scientifiques de base visées à l’annexe 2;
 - b. un plan d’observation des animaux et les résultats de la caractérisation de la contrainte, y compris la catégorie de contrainte;
 - c. les mesures à prendre pour réduire la contrainte, et leurs effets;
+- c<sup>bis</sup>.[^18-1] les critères d’arrêt;
 - d. la pesée des intérêts entre les contraintes constatées sur les animaux et l’utilité potentielle de la lignée pour la recherche, le diagnostic ou le traitement chez l’homme ou l’animal, y compris la probabilité que cette utilité devienne effective;
 - e. la taille de la colonie destinée à l’élevage ainsi que le nombre d’animaux qu’il est prévu d’utiliser dans des expériences.
+
+[^18-1]: Introduite par le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 19
 
@@ -399,11 +407,17 @@ Pour l’évaluation de la proportionnalité d’une expérience, il sera tenu c
 
 #### Art. 27
 
-### (art. 139, al. 2, OPAn)
+[^27-1]
 
-<sup>1</sup> Les notifications concernant des expériences effectuées dans plusieurs cantons doivent mentionner le nombre d’animaux utilisés dans chacun des cantons.
+### (art. 145, al. 2 et 4, OPAn)
 
-<sup>2</sup> Si les animaux sont déplacés d’un canton à un autre en cours d’expérience, leur nombre sera saisi uniquement dans le canton où l’expérience a eu lieu principalement.
+<sup>1</sup> Lorsqu’une expérience concerne plusieurs cantons (art. 139, al. 5, OPAn), le nombre d’animaux doit être annoncé au canton primaire. Il doit être ventilé par canton.
+
+<sup>2</sup> Si les animaux sont déplacés d’un canton à un autre en cours d’expérience, leur nombre est saisi uniquement dans le canton où l’expérience a eu lieu principalement.
+
+<sup>3</sup> Le canton primaire vérifie les annonces et transmet à l’OSAV le nombre d’animaux utilisés dans tous les cantons impliqués conformément à l’art. 145, al. 4, OPAn.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 ## Section 7 Demandes et déclarations relatives aux animaleries et aux expériences sur animaux
 
@@ -431,27 +445,62 @@ La demande d’autorisation d’exploiter une animalerie doit contenir les infor
 
 #### Art. 29
 
-**Contenu des déclarations à faire par les animaleries**
+**Contenu des annonces à faire par les animaleries**[^29-1]
 
-### (art. 145, al. 1, let. b, OPAn)
+### (art. 145, al. 1, let. b, et 1<sup>bis</sup>, OPAn)
 
 <sup>1</sup>
 
-Les déclarations à faire par les animaleries doivent contenir les informations suivantes:
+Les annonces à faire chaque année civile par les animaleries doivent contenir les informations suivantes:
 
-- a. le nombre des animaux nés dans l’établissement, comptés au moment du sevrage;
-- b. le nombre des animaux importés de l’étranger.
+- a. le nombre d’animaux nés dans l’animalerie;
+- b. le nombre d’animaux importés de l’étranger;
+- c.
 
-<sup>2</sup> Le nombre d’animaux doit être mentionné par espèce animale.
+  le nombre d’animaux qui n’ont pas été utilisés dans une expérience et qui:
 
-<sup>3</sup> Les lignées présentant un phénotype invalidant doivent être déclarées individuellement. Leur dénomination et celle figurant sur leur fiche de données respective doivent correspondre.
+  - 1\. ont été remis à des tiers, ou
+  - 2\. sont morts ou ont été mis à mort.
 
-<sup>4</sup>
+<sup>2</sup> Le nombre d’animaux utilisés doit être ventilé par espèce animale.
 
-Si les lignées ne présentent pas de phénotype invalidant, elles doivent être déclarées, pour chaque espèce animale, en regroupant:
+<sup>3</sup>
+
+Le nombre d’animaux doit être comptabilisé comme suit:
+
+- a.
+
+  pour les chiffres visés à l’al. 1, let. a:
+
+  - 1\. dans le cas des souris et des rats, au plus tard à compter du 9<sup>e</sup> jour suivant leur naissance,
+  - 2\. dans le cas des poissons et des amphibiens, lorsqu’ils ont atteint le stade auquel ils s’alimentent par eux-mêmes,
+  - 3\. dans le cas des oiseaux, après éclosion;
+
+- b.
+
+  pour les chiffres visés à l’al. 1, let. b:
+
+  - 1\. dans le cas des poissons ou des amphibiens importés sous forme d’œufs ou au stade larvaire, lorsqu’ils ont atteint le stade auquel ils s’alimentent par eux-mêmes,
+  - 2\. dans le cas des œufs d’oiseaux, après éclosion;
+
+- c.
+
+  pour les chiffres visés à l’al. 1, let. c:
+
+  - 1\. dans le cas des poissons et des amphibiens, lorsqu’ils ont atteint le stade auquel ils s’alimentent par eux-mêmes,
+  - 2\. dans le cas des oiseaux, après éclosion,
+  - 3\. pour tous les animaux autres que ceux visés aux ch. 1 et 2, à compter de la naissance.
+
+<sup>4</sup> Les lignées présentant un phénotype invalidant doivent être annoncées individuellement. Leur dénomination et celle figurant sur leur fiche de données doivent correspondre.
+
+<sup>5</sup>
+
+Les lignées qui ne présentent pas de phénotype invalidant peuvent être annoncées, pour chaque espèce animale, en regroupant:
 
 - a. les lignées génétiquement modifiées;
 - b. les lignées non génétiquement modifiées.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 30
 
@@ -495,24 +544,46 @@ Les déclarations relatives aux expériences sur des animaux doivent contenir le
 
 <sup>2</sup> Les déclarations doivent être faites dans tous les cas, que l’expérience ait eu lieu ou non.
 
-## Section 8 Entrée en vigueur
+## Section 8 Dispositions finales
+
+[^sec8-1]
+
+[^sec8-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
+#### Art. 31a
+
+**Disposition transitoire relative à la modification du 20 décembre 2024**[^31a-1]
+
+En dérogation à l’art. 29, al. 1 et 3, les annonces faites par les animaleries jusqu’à l’année civile 2025 comprise doivent contenir les indications suivantes:
+
+- a. le nombre d’animaux nés dans l’animalerie, comptabilisés au moment du sevrage;
+- b. le nombre d’animaux importés de l’étranger.
+
+[^31a-1]: Introduit par le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 32
 
+**Entrée en vigueur[^32-1]**
+
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2010.
 
-Annexe 1
+[^32-1]: Introduit par le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
+Annexe 1[^t-1]
 
 (art. 9, al. 1)
 
 ## Méthodes reconnues pour la production d’animaux génétiquement modifiés
 
+[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+
 - a. le croisement de lignées génétiquement modifiées;
 - b. l’injection pronucléaire chez la souris, le rat, le lapin et le cochon d’Inde;
 - c. l’injection et l’agrégation de cellules souches embryonnaires chez la souris et le rat;
 - d. l’utilisation de vecteurs viraux chez la souris et le rat;
-- e. l’injection intracytoplasmique de spermatozoïdes chez la souris;
-- f. l’injection d’embryons situés à un stade de développement peu avancé (stade 1 à 16 cellules) dans le cytoplasme ou dans le sac vitellin du poisson zèbre.
+- e. l’injection intracytoplasmique de spermatozoïdes chez la souris et le rat;
+- f. l’injection d’embryons situés à un stade de développement peu avancé (stade 1 à 16 cellules) dans le cytoplasme ou dans le sac vitellin du poisson zèbre;
+- g. l’utilisation d’endonucléases.
 
 Annexe 2
 
