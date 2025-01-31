@@ -4,13 +4,12 @@ number: "831.0.11"
 title: "Règlement d'exécution de la loi sur l'aide sociale"
 short: RELASoc
 language: fr
-version: 2021-01-01
-valid_until: 2025-01-31
-version_adopted: 2020-11-03
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 1999-11-30
 in_force: 2000-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/831.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6622/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8125/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Aide sociale – R
 
 (RELASoc)
 
-du 30.11.1999 (version entrée en vigueur le 01.01.2021)
+du 30.11.1999 (version entrée en vigueur le 01.02.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -218,7 +217,7 @@ Arrête:
 
 <sup>3</sup> La transmission de données en vue de la production du rapport se fait en concertation avec le Service de l'informatique et des télécommunications par des moyens organisationnels et techniques adéquats pour assurer la sécurité des données (disponibilité, intégrité et confidentialité). Le traitement et la conservation des données se font dans un espace de stockage dont les accès sont protégés et peuvent être audités.
 
-<sup>4</sup> Le Service de la statistique nomme ses collaborateurs et collaboratrices habilités à traiter les données. Ces derniers sont soumis au secret fiscal pour les données fiscales proprement dites.
+<sup>4</sup> Le Service de la statistique et de la donnée nomme ses collaborateurs et collaboratrices habilités à traiter les données. Ces derniers sont soumis au secret fiscal pour les données fiscales proprement dites.
 
 <sup>5</sup> L'utilisation des données porte sur l'élaboration du rapport.
 

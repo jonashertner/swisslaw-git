@@ -4,13 +4,12 @@ number: "831.0.11"
 title: Ausführungsreglement zum Sozialhilfegesetz
 short: ARSHG
 language: de
-version: 2021-01-01
-valid_until: 2025-01-31
-version_adopted: 2020-11-03
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 1999-11-30
 in_force: 2000-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/831.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6622/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8125/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Sozialhilfe – R
 
 (ARSHG)
 
-vom 30.11.1999 (Fassung in Kraft getreten am 01.01.2021)
+vom 30.11.1999 (Fassung in Kraft getreten am 01.02.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -218,7 +217,7 @@ beschliesst:
 
 <sup>3</sup> Die Datenübermittlung zur Erarbeitung des Berichts findet in Absprache mit dem Amt für Informatik und Telekommunikation über angemessene technische und organisatorische Massnahmen statt, welche die Datensicherheit gewährleisten (Verfügbarkeit, Integrität und Vertraulichkeit). Die Daten werden in Datenspeichern bearbeitet und aufbewahrt, deren Zugänge über Schnittstellen geschützt und auditierbar sind.
 
-<sup>4</sup> Das Amt für Statistik ernennt die Mitarbeiterinnen und Mitarbeiter, die im Amt zur Datenbearbeitung befugt sind. Sie unterliegen für Steuerdaten im eigentlichen Sinne dem Steuergeheimnis.
+<sup>4</sup> Das Amt für Statistik und Daten ernennt die Mitarbeiterinnen und Mitarbeiter, die im Amt zur Datenbearbeitung befugt sind. Sie unterliegen für Steuerdaten im eigentlichen Sinne dem Steuergeheimnis.
 
 <sup>5</sup> Die Datennutzung betrifft die Erarbeitung des Berichts.
 
