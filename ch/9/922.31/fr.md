@@ -4,11 +4,11 @@ title: Ordonnance du 30 septembre 1991 concernant les districts francs fédérau
 short: ODF
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304"
 language: fr
-version: 2023-07-01
+version: 2025-02-01
 adopted: 1991-09-30
 in_force: 1992-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20250201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/fr"
 
 (ODF)
 
-du 30 septembre 1991 (État le 1<sup>er</sup> juillet 2023)
+du 30 septembre 1991 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -53,7 +53,7 @@ L’inventaire fédéral des districts francs fédéraux (Inventaire) comprend p
 
 <sup>3</sup> L’Inventaire, qui fait partie intégrante de la présente ordonnance est publié uniquement sous forme électronique sur la page Internet de l’Office fédéral de l’environnement (OFEV)[^2-1] et ne figure pas dans le Recueil officiel des lois fédérales (RO) (art. 5 de la loi du 18 juin 2004 sur les publications officielles[^2-2]).[^2-3]
 
-[^2-1]: www.bafu.admin.ch &gt; Thèmes &gt; Zones protégées &gt; Districts francs &gt; Descriptions d’objets
+[^2-1]: [www.bafu.admin.ch](https://www.bafu.admin.ch/bafu/fr/home.html) &gt; Thèmes &gt; Zones protégées &gt; Districts francs &gt; Descriptions d’objets
 [^2-2]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).
 
@@ -92,22 +92,32 @@ Les dispositions ci-après s’appliquent d’une manière générale aux distri
 - d. il est interdit de porter, de conserver ou d’utiliser des armes et des pièges. Les cantons peuvent accorder des dérogations aux personnes habitant à l’intérieur du district franc et pour les zones partiellement protégées. Les personnes autorisées à chasser et celles qui sont astreintes au service militaire ont le droit de traverser le district franc munies d’armes non chargées en empruntant des chemins et des routes, pendant la chasse ou pour remplir leurs obligations militaires (service, tir et inspection obligatoire). L’utilisation d’armes et de pièges est autorisée pour le personnel de surveillance de la faune;
 - e. il est interdit de camper librement. L’utilisation de places de camping officielles est réservée. Les cantons peuvent accorder des dérogations;
 - f.[^5-4] le décollage et l’atterrissage d’aéronefs civils avec occupants sont interdits sauf dans le cadre de l’exploitation des aérodromes déjà existants ainsi que sous réserve des dispositions figurant aux art. 19, al. 3, let. a, et 28, al. 1, de l’ordonnance du 14 mai 2014 sur les atterrissages en campagne[^5-5];
-- f<sup>bis</sup>.[^5-6] la circulation d’aéronefs civils sans occupants est interdite;
+- f<sup>bis</sup>.[^5-6]
+
+  la circulation d’aéronefs civils sans occupants est interdite; les opérations policières et les opérations de sauvetage de personnes sont réservées; les cantons peuvent autoriser d’autres exceptions pour:
+
+  - 1\. la recherche scientifique,
+  - 2\. les programmes de surveillance des populations animales et des biotopes,
+  - 3\. les inspections d’infrastructures,
+  - 4\. la prise de photographies et le tournage de films dans le cadre de manifestions autorisées en vertu de l’al. 2, ainsi que la prise de photographies et le tournage de films d’intérêt public,
+  - 5\. le sauvetage de faons;
+
 - g. le ski pratiqué en dehors de pistes et d’itinéraires balisés est interdit;
 - h. il est interdit de circuler sur des routes d’alpage et des routes forestières et d’utiliser des véhicules en dehors des routes, des chemins forestiers et de ceux de campagne, excepté à des fins agricoles et sylvicoles ainsi que pour la surveillance de la faune. Les cantons peuvent prévoir des exceptions;
-- i. les exercices militaires avec de la munition pour tir réel ou à blanc sont interdits. L’utilisation de places de tir et d’installations militaires particulières, selon des dispositions contractuelles, est réservée. Le service de garde de la troupe avec arme chargée ainsi que le port d’armes lors des tâches de contrôle du corps de gardes-fortifications et du corps de gardes-frontière sont autorisés.
+- i.[^5-7] les exercices militaires avec de la munition pour tir réel ou à blanc sont interdits; l’utilisation de places de tir et d’installations militaires particulières, selon des dispositions contractuelles, est réservée; le service de garde de la troupe avec arme chargée ainsi que le port d’armes lors des tâches de contrôle de l’Office fédéral de la douane et de la sécurité des frontières sont autorisés.
 
 <sup>2</sup> L’organisation de réunions sportives et d’autres manifestations collectives n’est admise que si celle-ci ne peut compromettre le but visé par la protection. Les organisateurs ont besoin d’une autorisation cantonale.
 
-<sup>3</sup> Sont réservées les dispositions particulières prévues par l’art. 2, al, 2, ainsi que les mesures prévues par les art. 8 à 10 et 12.[^5-7]
+<sup>3</sup> Sont réservées les dispositions particulières prévues par l’art. 2, al, 2, ainsi que les mesures prévues par les art. 8 à 10 et 12.[^5-8]
 
 [^5-1]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-2]: Introduite par le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-3]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-4]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-5]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-6]: Introduite par le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-7]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-6]: Introduite par le ch. IV de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^5-7]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^5-8]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 6
 
@@ -145,9 +155,9 @@ Dans les districts francs, une attention particulière sera accordée à la cons
 
 <sup>3</sup> Aux entrées principales des districts francs ainsi que, dans le cas de biotopes dont la protection est particulièrement importante, à l’intérieur de ces zones, il y a lieu de placer des panneaux comportant des indications sur la zone protégée, sur le but visé par la protection et sur les principales mesures de protection.
 
-<sup>4</sup> L’Office fédéral de topographie indique les districts francs fédéraux ainsi que les itinéraires autorisés sur les cartes nationales avec activités sportives de neige.[^7-1]
+<sup>4</sup> L’Office fédéral de topographie représente, sur les cartes nationales avec activités sportives de neige, les districts francs fédéraux ainsi que les itinéraires autorisés.[^7-1]
 
-[^7-1]: Introduit par le ch. II 1 de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^7-1]: Introduit par le ch. II 1 de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## Section 3 Prévention des dommages causés par la faune sauvage
 
@@ -221,10 +231,11 @@ Les cantons rendent compte chaque année à l’OFEV des mesures prises en vertu
 
 <sup>4</sup> Ils sont engagés par le canton. L’OFEV est consulté au préalable.[^11-2]
 
-<sup>5</sup> Lorsque les districts francs sont proches de frontières nationales, les gardes frontières remplissent également des tâches relevant de la police de la chasse.
+<sup>5</sup> …[^11-3]
 
 [^11-1]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^11-2]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^11-3]: Abrogé par l’annexe ch. 1 de l’O du 13 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 12
 
@@ -265,15 +276,16 @@ Le service cantonal compétent charge les gardes-chasse de l’accomplissement d
 
 <sup>2</sup> L’OFEV organise des cours de perfectionnement sur les problèmes relatifs aux districts francs.
 
-## Section 6 Indemnités
+## Section 6 Indemnités et aides financières
 
-[^sec6-1]
+[^sec6-1][^sec6-2]
 
 [^sec6-1]: Nouvelle teneur selon le ch. I 22 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^sec6-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 14
 
-**Surveillance**
+**Indemnités pour la surveillance[^14-1]**
 
 <sup>1</sup>
 
@@ -291,9 +303,11 @@ Les contributions de base annuelles s’élèvent à:
 - a. 21 000 francs pour tous les districts francs de moins de 20 km<sup>2</sup>;
 - b. 21 000 francs en sus au maximum pour les districts francs de 20 à 100 km<sup>2</sup>, proportionnellement à la superficie excédant 20 km<sup>2</sup>.
 
+[^14-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+
 #### Art. 15
 
-**Dégâts causés par la faune sauvage**
+**Indemnités pour les dommages causés par la faune sauvage[^15-1]**
 
 <sup>1</sup>
 
@@ -306,9 +320,18 @@ Des indemnités globales sont allouées pour:
 
 <sup>3</sup> Il est négocié entre l’OFEV et le canton concerné.
 
-<sup>4</sup> Si les mesures prévues aux art. 8 et 9 ne sont pas prises alors qu’elles sont nécessaires et pertinentes, les indemnités peuvent être refusées ou leur restitution peut être exigée.[^15-1]
+<sup>4</sup> Si les mesures prévues aux art. 8 et 9 ne sont pas prises alors qu’elles sont nécessaires et pertinentes, les indemnités peuvent être refusées ou leur restitution peut être exigée.[^15-2]
 
-[^15-1]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^15-2]: Nouvelle teneur selon le ch. IV de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+
+#### [Art. 15a](https://www.admin.ch/opc/fr/classified-compilation/19910014/index.html)
+
+**[Aides financières pour des mesures de conservation des espèces et des biotopes](https://www.admin.ch/opc/fr/classified-compilation/19910014/index.html)**[^15a-1]
+
+Le montant des aides financières globales allouées pour les coûts de planification et de mise en œuvre des mesures de conservation des espèces et des biotopes dans les districts francs fédéraux énumérés à l’annexe 1 ainsi que dans les districts francs visés à l’art. 11, al. 4, de la loi sur la chasse est convenu entre la Confédération et les cantons concernés; il est fixé en fonction de l’ampleur, de la qualité, de la complexité et de l’efficacité des mesures.
+
+[^15a-1]: Introduit par l’annexe ch. 1 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 16
 

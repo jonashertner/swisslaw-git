@@ -4,11 +4,11 @@ title: Verordnung vom 30. September 1991 über die eidgenössischen Jagdbanngebi
 short: VEJ
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304"
 language: de
-version: 2023-07-01
+version: 2025-02-01
 adopted: 1991-09-30
 in_force: 1992-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20250201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/de"
 
 (VEJ)
 
-vom 30. September 1991 (Stand am 1. Juli 2023)
+vom 30. September 1991 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -92,22 +92,32 @@ In den Banngebieten gelten folgende allgemeine Bestimmungen:
 - d. Das Tragen, Aufbewahren und die Verwendung von Waffen und Fallen ist verboten. Die Kantone können für Personen, die innerhalb des Banngebiets wohnen und für Gebiete mit partiellem Schutz, Ausnahmen gestatten. Auf Wegen und Strassen dürfen Jagdberechtigte während der Jagd und Militärdienstpflichtige zur Erfüllung ihrer Wehrpflicht (Dienst-, Schiess- und Inspektionspflicht) das Banngebiet mit ungeladenen Waffen durchqueren. Die Verwendung von Fallen und Waffen durch Organe der Wildhut ist gestattet.
 - e. Das freie Zelten und Campieren ist verboten. Vorbehalten bleibt die Benutzung offizieller Zeltplätze. Die Kantone können Ausnahmen bewilligen.
 - f.[^5-4] Das Abfliegen und Landen mit zivilen, bemannten Luftfahrzeugen ist verboten, ausser im Rahmen des Betriebs von bestehenden Flugplätzen sowie nach den Bestimmungen der Artikel 19 Absatz 3 Buchstabe a und 28 Absatz 1 der Aussenlandeverordnung vom 14. Mai 2014[^5-5].
-- f<sup>bis</sup>.[^5-6] Der Betrieb von zivilen, unbemannten Luftfahrzeugen ist verboten.
+- f<sup>bis</sup>.[^5-6]
+
+  Der Betrieb von zivilen, unbemannten Luftfahrzeugen ist verboten; vorbehalten sind polizeiliche Einsätze sowie Einsätze zur Rettung von Menschen; zusätzlich können die Kantone Ausnahmen bewilligen für:
+
+  - 1\. die wissenschaftliche Forschung;
+  - 2\. Programme zur Überwachung der Bestände von Tieren und der Lebensräume;
+  - 3\. Inspektionen an Infrastrukturen;
+  - 4\. Foto- oder Filmaufnahmen im Rahmen einer bewilligten Veranstaltung gemäss Absatz 2 sowie Foto- oder Filmaufnahmen im öffentlichen Interesse;
+  - 5\. die Rehkitzrettung.
+
 - g. Das Skifahren ausserhalb von markierten Pisten, Routen und Loipen ist verboten.
 - h. Mit Ausnahme der Verwendung für land- und forstwirtschaftliche Zwecke sowie durch Organe der Wildhut ist es verboten, Alp- und Forststrassen zu befahren sowie Fahrzeuge jeglicher Art ausserhalb von Strassen, Wald- und Feldwegen zu benützen. Die Kantone können Ausnahmen vorsehen.
-- i. Militärische Übungen mit scharfer oder Übungsmunition sind verboten. Vorbehalten ist die vertraglich geregelte Benützung besonderer Schiessplätze und militärischer Anlagen. Der Wachtdienst der Truppe mit geladener Waffe sowie das Mitführen von Waffen bei Kontrollaufgaben des Festungswachtkorps und des Grenzwachtkorps sind zulässig.
+- i.[^5-7] Militärische Übungen mit scharfer oder Übungsmunition sind verboten; vorbehalten ist die vertraglich geregelte Benützung besonderer Schiessplätze und militärischer Anlagen; der Wachtdienst der Truppe mit geladener Waffe sowie das Mitführen von Waffen bei Kontrollaufgaben des Bundesamtes für Zoll und Grenzsicherheit sind zulässig.
 
 <sup>2</sup> Die Durchführung von sportlichen Anlässen und sonstigen gesellschaftlichen Veranstaltungen ist nur zulässig, wenn dadurch das Schutzziel nicht beeinträchtigt werden kann. Die Veranstalter bedürfen einer kantonalen Bewilligung.
 
-<sup>3</sup> Besondere Bestimmungen nach Artikel 2 Absatz 2 sowie Massnahmen nach den Artikeln 8−10 und 12 bleiben vorbehalten.[^5-7]
+<sup>3</sup> Besondere Bestimmungen nach Artikel 2 Absatz 2 sowie Massnahmen nach den Artikeln 8−10 und 12 bleiben vorbehalten.[^5-8]
 
 [^5-1]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-2]: Eingefügt durch Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-3]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-4]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-5]: [SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-6]: Eingefügt durch Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-7]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-6]: Eingefügt durch Ziff. IV der V vom 1. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Fassung gemäss Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^5-7]: Fassung gemäss Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^5-8]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 6
 
@@ -145,9 +155,9 @@ In den Banngebieten ist der Erhaltung von Biotopen im Sinne von Artikel 18 Absat
 
 <sup>3</sup> An den wichtigsten Eingängen in die Banngebiete sowie bei besonders schutzwürdigen Lebensräumen innerhalb der Gebiete sind Hinweistafeln mit Angaben zum Schutzgebiet, zum Schutzziel und zu den wichtigsten Schutzmassnahmen anzubringen.
 
-<sup>4</sup> Das Bundesamt für Landestopografie bezeichnet in den Landeskarten mit Schneesportthematik die eidgenössischen Jagdbanngebiete sowie die darin zur Benutzung erlaubten Routen.[^7-1]
+<sup>4</sup> Das Bundesamt für Landestopografie bildet in den Landeskarten mit Schneesportthematik die eidgenössischen Jagdbanngebiete sowie die darin zur Benutzung erlaubten Routen ab.[^7-1]
 
-[^7-1]: Fassung gemäss Ziff. II 1 der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^7-1]: Eingefügt durch Ziff. II 1 der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)). Fassung gemäss Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## 3. Abschnitt: Verhütung von Wildschaden
 
@@ -221,10 +231,11 @@ Die Kantone erstatten dem BAFU jährlich über die nach den Artikeln 8–10 getr
 
 <sup>4</sup> Die Anstellung erfolgt durch den Kanton. Das BAFU ist vorher anzuhören.[^11-2]
 
-<sup>5</sup> Liegen Banngebiete in der Nähe der Landesgrenzen, sind auch die Grenzwächter mit den Aufgaben der Jagdpolizei zu betrauen.
+<sup>5</sup> …[^11-3]
 
 [^11-1]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^11-2]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^11-3]: Aufgehoben durch Anhang Ziff. 1 der V vom 13. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 12
 
@@ -266,15 +277,16 @@ Die kantonale Fachstelle weist den Wildhütern folgende Aufgaben zu:[^12-1]
 
 <sup>2</sup> Das BAFU führt für die besonderen Belange der Banngebiete Weiterbildungskurse durch.
 
-## 6. Abschnitt: Abgeltungen
+## 6. Abschnitt: [Abgeltungen](https://www.admin.ch/opc/de/classified-compilation/19910014/index.html) und Finanzhilfen
 
-[^sec6-1]
+[^sec6-1][^sec6-2]
 
 [^sec6-1]: Fassung gemäss Ziff. I 22 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^sec6-2]: Fassung gemäss Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 14
 
-**Aufsicht**
+**Abgeltung für die Aufsicht[^14-1]**
 
 <sup>1</sup>
 
@@ -292,9 +304,11 @@ Der Grundbeitrag beträgt pro Jahr:
 - a. für alle Banngebiete bis 20 km<sup>2</sup> Fläche: 21 000 Franken;
 - b. für Banngebiete ab 20–100 km<sup>2</sup>: proportional zu der 20 km<sup>2</sup> übersteigenden Fläche zusätzlich bis zu 21 000 Franken.
 
+[^14-1]: Fassung gemäss Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+
 #### Art. 15
 
-**Wildschäden**
+**Abgeltung für Wildschäden[^15-1]**
 
 <sup>1</sup>
 
@@ -307,9 +321,18 @@ Globale Abgeltungen werden gewährt an die Kosten für:
 
 <sup>3</sup> Sie wird zwischen dem BAFU und dem betroffenen Kanton ausgehandelt.
 
-<sup>4</sup> Werden trotz ihrer Erforderlichkeit und Zweckmässigkeit keine Massnahmen nach Artikel 8 oder 9 getroffen, so können die Abgeltungen verweigert oder zurückgefordert werden.[^15-1]
+<sup>4</sup> Werden trotz ihrer Erforderlichkeit und Zweckmässigkeit keine Massnahmen nach Artikel 8 oder 9 getroffen, so können die Abgeltungen verweigert oder zurückgefordert werden.[^15-2]
 
-[^15-1]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^15-1]: Fassung gemäss Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^15-2]: Fassung gemäss Ziff. IV der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+
+#### [Art. 15a](https://www.admin.ch/opc/de/classified-compilation/19910014/index.html)
+
+**[Finanzhilfen für Massnahmen zur Arten- und Lebensraumförderung](https://www.admin.ch/opc/de/classified-compilation/19910014/index.html)**[^15a-1]
+
+Die Höhe der globalen Finanzhilfen an die Kosten der Planung und die Umsetzung von Massnahmen zur Arten- und Lebensraumförderung in den Gebieten nach Anhang 1 sowie in Gebieten nach Artikel 11 Absatz 4 des Jagdgesetzes wird zwischen dem Bund und den betroffenen Kantonen vereinbart; sie richtet sich nach dem Umfang, der Qualität, der Komplexität und der Wirksamkeit der Massnahmen.
+
+[^15a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 16
 
@@ -351,50 +374,91 @@ Anhang 1[^t-1]
 
 [^t-1]: Bereinigt gemäss Ziff. I der V vom 18. Febr. 2004 ([AS 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)), Ziff. II 1 der V vom 20. Nov. 2013 ([AS 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)) und Ziff. III der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
-- 1\. Augstmatthorn Kanton BE
-- 2\. Combe-Grède Kanton BE
-- 3\. Kiental Kanton BE
-- 4\. Schwarzhorn Kanton BE
-- 5\. Tannhorn Kanton LU
-- 6\. Urirotstock Kanton UR
-- 7\. Fellital Kanton UR
-- 8\. Mythen Kanton SZ
-- 9\. Silbern-Jägern-Bödmerenwald Kanton SZ
-- 10\. Hahnen Kanton OW
-- 11\. Hutstock Kantone OW/NW
-- 12\. Kärpf Kanton GL
-- 13\. Schilt Kanton GL
-- 14\. Rauti-Tros Kanton GL
-- 15\. Graue Hörner Kanton SG
-- 16\. Säntis Kantone AI/AR
-- 17\. Bernina-Albris Kanton GR
-- 18\. Beverin Kanton GR
-- 19\. Campasc Kanton GR
-- 20\. Piz Ela Kanton GR
-- 21\. Trescolmen Kanton GR
-- 22\. Pez Vial/Greina Kanton GR
-- 23\. Campo Tencia Kanton TI
-- 24\. Greina Kanton TI
-- 25\. Dent de Lys Kanton FR
-- 26\. Hochmatt-Motélon Kanton FR
-- 27\. Creux-du-Van Kanton NE
-- 28\. Grand Muveran Kanton VD
-- 29\. Les Bimis-Ciernes Picat Kanton VD
-- 30\. Le Noirmont Kanton VD
-- 31\. Pierreuse-Gummfluh Kanton VD
-- 32\. Aletschwald Kanton VS
-- 33\. Alpjuhorn Kanton VS
-- 34\. Wilerhorn Kanton VS
-- 35\. Bietschhorn Kanton VS
-- 36\. Mauvoisin Kanton VS
-- 37\. Val Ferret/Combe de l’A Kanton VS
-- 38\. Haut de Cry/Derborence Kanton VS
-- 39\. Leukerbad Kanton VS
-- 40\. Turtmanntal Kanton VS
-- 41\. Dixence Kanton VS
-- 42\. Bannalp-Walenstöcke Kantone OW/NW
-- 43\. Chrauchtal Kanton GL
-- [tab]
+\1. Augstmatthorn Kanton BE
+
+\2. Combe-Grède Kanton BE
+
+\3. Kiental Kanton BE
+
+\4. Schwarzhorn Kanton BE
+
+\5. Tannhorn Kanton LU
+
+\6. Urirotstock Kanton UR
+
+\7. Fellital Kanton UR
+
+\8. Mythen Kanton SZ
+
+\9. Silbern-Jägern-Bödmerenwald Kanton SZ
+
+\10. Hahnen Kanton OW
+
+\11. Hutstock Kantone OW/NW
+
+\12. Kärpf Kanton GL
+
+\13. Schilt Kanton GL
+
+\14. Rauti-Tros Kanton GL
+
+\15. Graue Hörner Kanton SG
+
+\16. Säntis Kantone AI/AR
+
+\17. Bernina-Albris Kanton GR
+
+\18. Beverin Kanton GR
+
+\19. Campasc Kanton GR
+
+\20. Piz Ela Kanton GR
+
+\21. Trescolmen Kanton GR
+
+\22. Pez Vial/Greina Kanton GR
+
+\23. Campo Tencia Kanton TI
+
+\24. Greina Kanton TI
+
+\25. Dent de Lys Kanton FR
+
+\26. Hochmatt-Motélon Kanton FR
+
+\27. Creux-du-Van Kanton NE
+
+\28. Grand Muveran Kanton VD
+
+\29. Les Bimis-Ciernes Picat Kanton VD
+
+\30. Le Noirmont Kanton VD
+
+\31. Pierreuse-Gummfluh Kanton VD
+
+\32. Aletschwald Kanton VS
+
+\33. Alpjuhorn Kanton VS
+
+\34. Wilerhorn Kanton VS
+
+\35. Bietschhorn Kanton VS
+
+\36. Mauvoisin Kanton VS
+
+\37. Val Ferret/Combe de l’A Kanton VS
+
+\38. Haut de Cry/Derborence Kanton VS
+
+\39. Leukerbad Kanton VS
+
+\40. Turtmanntal Kanton VS
+
+\41. Dixence Kanton VS
+
+\42. Bannalp-Walenstöcke Kantone OW/NW
+
+\43. Chrauchtal Kanton GL
 
 Anhang 2[^t-2]
 
