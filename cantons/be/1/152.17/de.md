@@ -4,13 +4,12 @@ number: "152.17"
 title: "Verordnung über die Klassifizierung, die Veröffentlichung und die Archivierung von Dokumenten zu Regierungsratsgeschäften"
 short: "Klassifizierungsverordnung, KRGV"
 language: de
-version: 2024-01-01
-valid_until: 2025-01-31
-version_adopted: 2023-11-15
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2013-03-13
 in_force: 2013-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2943/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2943/pdf_file"
 
 (Klassifizierungsverordnung, KRGV)
 
-vom 13.03.2013 (Stand 01.01.2024)
+vom 13.03.2013 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1], auf Artikel 50 Absatz 1 Buchstabe a des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz; OrG)[^ingress-2], auf Artikel 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-3] sowie auf Artikel 27 Absatz 1 Buchstabe a des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^ingress-4],
+gestützt auf Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1], Artikel 50 Absatz 1 Buchstabe a des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^ingress-2], Artikel 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-3] sowie Artikel 27 Absatz 1 Buchstabe a des Archivierungsgesetzes vom 31. März 2009 (ArchG)[^ingress-4],
 
 auf Antrag der Staatskanzlei,
 
@@ -207,7 +206,7 @@ beschliesst:
 
 **Speicherung**
 
-<sup>1</sup> Die Staatskanzlei speichert die als «Vertraulich» und als «Intern» klassifizierten Geschäfte und Dokumente in dazu bestimmten Informatiksystemen.
+<sup>1</sup> Die Staatskanzlei speichert die Dokumente zu Regierungsratsgeschäften in dazu bestimmten Informatiksystemen. Ausgenommen sind die als «Geheim» klassifizierten Dokumente, die in Papierform aufbewahrt werden.
 
 <sup>2</sup> Sie erlässt Weisungen über die zum Schutz klassifizierter Informationen notwendigen organisatorischen und technischen Massnahmen. Sie berücksichtigt namentlich die Artikel 4 ff. der Datenschutzverordnung vom 22. Oktober 2008 (DSV)[^14-1].
 
@@ -217,9 +216,9 @@ beschliesst:
 
 **Archivierung**
 
-<sup>1</sup> Die Staatskanzlei führt ein Naharchiv der Regierungsratsbeschlüsse in Papierform. Ausgenommen sind die als «Geheim» klassifizierten Beschlüsse.
+<sup>1</sup> Die Staatskanzlei bewahrt die Regierungsratsbeschlüsse zusätzlich in Papierform auf.
 
-<sup>2</sup> Die dauerhafte Aufbewahrung der Regierungsratsgeschäfte richtet sich nach der Archivierungsgesetzgebung.
+<sup>2</sup> Die Archivierung der Regierungsratsgeschäfte richtet sich nach der Archivierungsgesetzgebung.
 
 ## 5 Schlussbestimmungen
 

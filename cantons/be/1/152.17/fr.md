@@ -4,13 +4,12 @@ number: "152.17"
 title: "Ordonnance sur la classification, la publication et l'archivage des documents relatifs aux affaires du Conseil-exécutif"
 short: "Ordonnance sur la classification, OCACE"
 language: fr
-version: 2024-01-01
-valid_until: 2025-01-31
-version_adopted: 2023-11-15
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2013-03-13
 in_force: 2013-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2943/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3114/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2943/pdf_file"
 
 (Ordonnance sur la classification, OCACE)
 
-du 13.03.2013 (état au 01.01.2024)
+du 13.03.2013 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -207,7 +206,7 @@ arrête:
 
 **Enregistrement**
 
-<sup>1</sup> La Chancellerie d’Etat enregistre les affaires et les documents confidentiels et internes dans des systèmes électroniques prévus à cet effet.
+<sup>1</sup> La Chancellerie d’Etat enregistre les documents relatifs aux affaires du Conseil-exécutif dans des systèmes électroniques prévus à cet effet. Sont exclus les documents classés secrets, qui sont conservés sur support papier.
 
 <sup>2</sup> Elle édicte des instructions sur les mesures organisationnelles et techniques nécessaires à la protection des informations classifiées. Elle tient notamment compte des articles 4 et suivants de l’ordonnance du 22 octobre 2008 sur la protection des données (OPD)[^14-1].
 
@@ -217,9 +216,9 @@ arrête:
 
 **Archivage**
 
-<sup>1</sup> La Chancellerie d’Etat assure l’archivage intermédiaire des arrêtés du Conseil-exécutif sur support papier, à l’exception des arrêtés classés secrets.
+<sup>1</sup> La Chancellerie d’Etat conserve les arrêtés du Conseil-exécutif sur support papier en sus.
 
-<sup>2</sup> La conservation permanente des arrêtés du Conseil-exécutif est régie par la législation sur l’archivage.
+<sup>2</sup> L'archivage des arrêtés du Conseil-exécutif est régie par la législation sur l’archivage.
 
 ## 5 Dispositions finales
 
