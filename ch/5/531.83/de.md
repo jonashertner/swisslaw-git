@@ -3,18 +3,18 @@ sr: "531.83"
 title: Verordnung vom 27. Juli 2022 über die Beschränkung der Verwendung von Alteplase
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/430"
 language: de
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2022-07-27
 in_force: 2022-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2022-430-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2022-430-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Beschränkung der Verwendung von Alteplase
 
-vom 27. Juli 2022 (Stand am 1. Februar 2024)
+vom 27. Juli 2022 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -63,4 +63,7 @@ Der in Artikel 1 aufgeführte Wirkstoff darf nur für die folgenden bei Swissmed
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Januar 2025 verlängert.[^3-1]
 
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. August 2025 verlängert.[^3-2]
+
 [^3-1]: Eingefügt durch Ziff. I der V vom 15. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 3](https://fedlex.data.admin.ch/eli/oc/2024/3)).
+[^3-2]: Eingefügt durch Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 795](https://fedlex.data.admin.ch/eli/oc/2024/795)).

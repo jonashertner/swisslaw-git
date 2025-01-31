@@ -3,18 +3,18 @@ sr: "531.83"
 title: Ordonnance du 27 juillet 2022 sur la restriction d’utilisation de l’altéplase
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/430"
 language: fr
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2022-07-27
 in_force: 2022-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-430-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/430/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-430-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/430/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la restriction d’utilisation de l’altéplase
 
-du 27 juillet 2022 (État le 1<sup>er</sup> février 2024)
+du 27 juillet 2022 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -63,4 +63,7 @@ Le principe actif visé à l’art. 1 peut être utilisé uniquement dans le cad
 
 <sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 janvier 2025.[^3-1]
 
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 août 2025.[^3-2]
+
 [^3-1]: Introduit par le ch. I de l’O du 15 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 3](https://fedlex.data.admin.ch/eli/oc/2024/3)).
+[^3-2]: Introduit par le ch. I de l’O du 6 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 795](https://fedlex.data.admin.ch/eli/oc/2024/795)).
