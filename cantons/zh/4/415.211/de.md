@@ -4,96 +4,105 @@ number: "415.211"
 title: Reglement über die Anstellung von externen Lehrpersonen an der Universität Zürich (LPR-UZH)
 short: LPR-UZH
 language: de
-nachtrag: "97"
-valid_until: 2025-02-01
+version: "2025-02-01"
+nachtrag: "127"
 adopted: 2016-08-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_211-2016_08_29-2017_08_01-097.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_211-2016_08_29-2017_08_01-127.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Lehranstellungen von externen Lehrpersonen an der Universität Zürich
+# Reglement über die Anstellung von externen Lehrpersonen an der Universität Zürich (LPR-UZH)
 
-(vom 29. August 2016)<sup>1</sup>
+(vom 29. August 2016)[^t-2][^t-1]
 
 Der Universitätsrat,
 
-gestützt auf § 11 Abs. 2 des Universitätsgesetzes vom 15. März 1998 (UniG)<sup>2</sup>, § 17 der Universitätsordnung der Universität Zürich vom 4. Dezember 1998 (UniO)<sup>3</sup> und § 17 Abs. 2 der Personalverordnung der Universität Zürich vom 29. September 2014 (PVO-UZH)<sup>4</sup>,
+gestützt auf § 11 Abs. 2 des Universitätsgesetzes vom 15. März 1998 (UniG)[^t-3], § 17 der Universitätsordnung der Universität Zürich vom 4. Dezember 1998 (UniO)[^t-4] und § 17 Abs. 2 der Personalverordnung der Universität Zürich vom 29. September 2014 (PVO-UZH)[^t-5],
 
 beschliesst:
 
+[^t-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
+[^t-2]: OS 72, 5; Begründung siehe ABl 2016-09-16.
+[^t-3]: LS 415.11.
+[^t-4]: LS 415.111.
+[^t-5]: LS 415.21.
+
 ### A. Grundlagen
 
-#### § 1
+**Geltungsbereich und Gegenstand**
 
-**Geltungsbereich**
+§ 1.[^hAGrundlagen-1] <sup>1</sup> Dieses Reglement gilt für die privatrechtlich angestellten externen Lehrpersonen (§ 17 UniO[^hAGrundlagen-2] und § 17 PVO-UZH[^hAGrundlagen-3]. Es gilt sinngemäss für die privatrechtlich Beauftragten gemäss § 19.
 
-<sup>1</sup> Dieses Reglement gilt für die gemäss § 17 UniO und § 17 PVO-UZH privatrechtlich angestellten externen Lehrpersonen sowie sinngemäss für die in § 19 dieses Reglements genannten privatrechtlich Beauftragten.
-
-<sup>2</sup> Soweit der Arbeitsvertrag gemäss § 5 oder dieses Reglement keine Regelungen enthalten, richtet sich das Arbeitsverhältnis nach dem Obligationenrecht (OR)<sup>5</sup>.
+<sup>2</sup> Die Anstellung erfolgt durch Arbeitsvertrag. Enthalten der Vertrag oder dieses Reglement keine Regelungen, richtet sich das Arbeitsverhältnis nach dem Obligationenrecht (OR)[^hAGrundlagen-4].
 
 <sup>3</sup> Dieses Reglement gilt sinngemäss auch für Lehrtätigkeiten im Stundenlohn.
 
-<sup>4</sup> Dieses Reglement gilt nicht für jene Privatdozierenden und Titularprofessorinnen und Titularprofessoren, die im Rahmen ihrer Venia Legendi Lehrveranstaltungen ausserhalb von Studienprogrammen anbieten.
+<sup>4</sup> Dieses Reglement gilt nicht für jene Privatdozierenden und Titularprofessorinnen und Titularprofessoren, die Lehrveranstaltungen ausserhalb von Studienprogrammen anbieten.
+
+[^hAGrundlagen-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
+[^hAGrundlagen-2]: LS 415.11.
+[^hAGrundlagen-3]: LS 415.111.
+[^hAGrundlagen-4]: SR 220.
 
 #### § 2
 
 **Lehrtätigkeit im Rahmen von Studienprogrammen**
 
-Die Lehrveranstaltungen von Lehrangestellten nach diesem Reglement sind Bestandteil der von der jeweiligen Fakultät durchgeführten Studienprogramme.
+Die Lehrveranstaltungen von Lehrpersonen[^hAGrundlagen-1] nach diesem Reglement sind Bestandteil der von der jeweiligen Fakultät durchgeführten Studienprogramme.
 
-#### § 3
+**Qualifikation der externen Lehrpersonen**
 
-**Qualifikation der Lehrangestellten**
-
-Voraussetzungen für Lehranstellungen sind in der Regel ein akademischer Abschluss einer anerkannten Hochschule und eine Spezialisierung in dem Themenbereich, dem die Lehrveranstaltung gewidmet ist. Die Lehrangestellten legen auf Verlangen die entsprechenden Zeugnisse vor.
+§ 3.[^2-1] Voraussetzungen für Lehranstellungen sind in der Regel ein akademischer Abschluss einer anerkannten Hochschule und eine Spezialisierung in dem Themenbereich, dem die Lehrveranstaltung gewidmet ist. Die Lehrpersonen legen auf Verlangen die entsprechenden Zeugnisse vor.
 
 **1**
 
-- 1\. 7. 17 - 97
+- 1\. 1. 25 - 127
+
+[^2-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
 ### B. Arbeitsverhältnis
 
-#### § 4
-
 **Zuständigkeit**
 
-<sup>1</sup> Die Lehranstellungen werden zuhanden der Abteilung Personal von den verantwortlichen Organisationseinheiten vorbereitet. Diese stellen sicher, dass die vorgesehenen Lehrangestellten die Anforderungen gemäss § 3 erfüllen.
+§ 4.[^hBArbeitsverhältnis-1] <sup>1</sup> Die Lehranstellungen werden zuhanden der Abteilung Personal von den verantwortlichen Organisationseinheiten vorbereitet. Diese stellen sicher, dass die vorgesehenen Lehrpersonen die Anforderungen gemäss § 3 erfüllen.
 
-<sup>2</sup> Der Arbeitsvertrag sowie dessen allfällige Änderungen werden von der oder dem Lehrangestellten und von der zuständigen Person der Abteilung Personal unterzeichnet. Die Delegation dieser Anstellungs- und Änderungskompetenz von der Abteilung Personal an die Fakultäten ist möglich.
+<sup>2</sup> Der Arbeitsvertrag sowie dessen allfällige Änderungen werden von der Lehrperson und von der zuständigen Person der Abteilung Personal unterzeichnet.
 
-<sup>3</sup> Lehrangestellte sind organisatorisch einer oder einem Vorgesetzten unterstellt, die oder der von der zuständigen Fakultät bestimmt wird.
+<sup>3</sup> Lehrpersonen sind organisatorisch einer Person unterstellt, die von der zuständigen Fakultät bestimmt wird.
 
-<sup>4</sup> Für die Kündigung seitens der Arbeitgeberin sowie für die Aufhebungsvereinbarung mit der oder dem Lehrangestellten ist die Unterzeichnung durch die zuständige Person der Abteilung Personal erforderlich.
+<sup>4</sup> Für die Kündigung seitens der Arbeitgeberin sowie für die Aufhebungsvereinbarung mit der Lehrperson ist die Unterzeichnung durch die zuständige Person der Abteilung Personal erforderlich.
 
-#### § 5
+**Dauer und Lehrpensum**
 
-**Dauer**
+§ 5.[^hBArbeitsverhältnis-1] <sup>1</sup> Das Arbeitsverhältnis der Lehrpersonen ist unbefristet. Das Lehrpensum ist variabel. Es kann während der gesamten Vertragsdauer variieren oder für ein oder mehrere Semester entfallen.
 
-<sup>1</sup> Mit externen Lehrpersonen wird ein unbefristeter privatrechtlicher Arbeitsvertrag mit variablem Lehrpensum abgeschlossen. Gemäss Arbeitsvertrag kann das Lehrpensum während der gesamten Vertragsdauer variieren oder allenfalls für ein oder mehrere Semester ganz entfallen.
+<sup>2</sup> In besonderen Fällen, namentlich wenn von Anbeginn ein zeitlich begrenzter Einsatz geplant ist, kann das Arbeitsverhältnis bis zu einer Gesamtdauer von höchstens drei Jahren befristet werden. Das Lehrpensum kann während der gesamten Vertragsdauer variieren.
 
-<sup>2</sup> In begründeten Fällen, namentlich wenn von Anbeginn nur ein kurzfristiger Einsatz von einem oder zwei Semestern geplant ist, kann ein befristeter Arbeitsvertrag abgeschlossen werden. Danach kann nur noch einmal ein weiterer befristeter Arbeitsvertrag für ein oder zwei Semester abgeschlossen werden. Wird danach das Arbeitsverhältnis weitergeführt, wird ein unbefristeter Arbeitsvertrag gemäss Abs. 1 abgeschlossen.
+<sup>3</sup> Das befristete Arbeitsverhältnis kann einmal verlängert werden, darf aber die Gesamtdauer gemäss Abs. 2 nicht überschreiten.
 
-#### § 6
+**Mitteilung des Lehrpensums**
 
-**Lehrpensum**
+§ 6.[^hBArbeitsverhältnis-1] Inhalt und Umfang des Lehrpensums werden von den verantwortlichen Organisationseinheiten mit den Lehrpersonen frühzeitig im Rahmen der Lehrplanung vereinbart und von der Abteilung Personal schriftlich mitgeteilt, nach Möglichkeit spätestens zwei Monate vor Semesterbeginn.
 
-Inhalt und Umfang des Lehrpensums werden von den verantwortlichen Organisationseinheiten den Lehrangestellten frühzeitig im Rahmen der Lehrplanung schriftlich mitgeteilt, nach Möglichkeit spätestens drei Monate vor Semesterbeginn.
+[^hBArbeitsverhältnis-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
-### C. Rechte und Pflichten der Lehrangestellten
+### C. Rechte und Pflichten der Lehrpersonen
 
-#### § 7
+[^hBArbeitsverhältnis-1]
 
 **Aufgabenbereich**
 
-Der Aufgabenbereich umfasst die Vorbereitung und die Durchführung der Lehrveranstaltung sowie die Durchführung von allfälligen Leistungskontrollen.
+§ 7.[^hCRechteundPflich-1] Der Aufgabenbereich umfasst die Vorbereitung und die Durchführung der Lehrveranstaltung sowie die Durchführung von Leistungskontrollen.
+
+[^hCRechteundPflich-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
 #### § 8
 
 **Leistungskontrollen**
 
-<sup>1</sup> Die Lehrangestellten führen Leistungskontrollen durch, sofern diese Bestandteil der Lehrveranstaltung sind, und melden deren Ergebnisse in der vorgesehenen Frist an die von der verantwortlichen Organisationseinheit bezeichnete Stelle.
+<sup>1</sup> Die Lehrpersonen melden die Ergebnisse der Leistungskontrollen in der vorgesehenen Frist an die von der verantwortlichen Organisationseinheit bezeichnete Stelle.[^hCRechteundPflich-1]
 
 <sup>2</sup> Form, Durchführungsart und Zeitpunkt der Leistungskontrollen richten sich nach den Vorgaben der Fakultät bzw. der verantwortlichen Organisationseinheit.
 
@@ -105,70 +114,96 @@ Der Aufgabenbereich umfasst die Vorbereitung und die Durchführung der Lehrveran
 
 <sup>2</sup> Weitere Massnahmen zur Qualitätssicherung, namentlich bei der erstmaligen Durchführung einer Lehrveranstaltung, können von der verantwortlichen Organisationseinheit festgelegt werden.
 
-#### § 10
-
 **Lohn**
 
-Der Bruttolohn richtet sich nach den vom Universitätsrat festgelegten Ansätzen, die in den Einreihungsrichtlinien im Anhang dieses Reglements aufgeführt sind.
+§ 10.[^9-1] <sup>1</sup> Bei der Festsetzung des Lohnes orientieren sich die Fakultäten an den Richtwerten, die im Anhang dieses Reglements aufgeführt sind.
+
+<sup>2</sup> Die Fakultäten können von den Richtwerten aus sachlich vertretbaren Gründen angemessen nach oben oder unten abweichen. Sie berücksichtigen bei der Lohnfestsetzung insbesondere die folgenden Kriterien:
+
+- a. Aufwand für die Vorbereitung und Durchführung der Lehrveranstaltung sowie für die Leistungskontrollen,
+
+- b. Qualifikation und besondere Kompetenzen der Lehrperson,
+
+- c. Berufserfahrung der Lehrperson,
+
+- d. Einsatz als Stellvertretung,
+
+- e. besonderes fachliches Interesse der Fakultät an einer Lehrperson.
+
+[^9-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
 #### § 11
 
 **Arbeitszeit**
 
-<sup>1</sup> Die Lehrangestellten führen die Lehrveranstaltungen, wie semesterweise mitgeteilt, im vereinbarten Umfang zu den vorgesehenen Zeiten durch.
+<sup>1</sup> Die Lehrpersonen führen die Lehrveranstaltungen im vereinbarten Umfang zu den vorgesehenen Zeiten durch.[^9-1]
 
 <sup>2</sup> Durch Vorgabe seitens der verantwortlichen Organisationseinheit oder im Einverständnis mit dieser können die Lehrveranstaltungen in einem oder mehreren zeitlichen Blöcken stattfinden.
 
-#### § 12
-
 **Annullation und Kündigung**
 
-<sup>1</sup> Kommt eine Lehrveranstaltung nicht zustande, entfällt der Lohnanspruch gemäss Arbeitsvertrag. Die verantwortliche Organisationseinheit legt den Umfang der Entschädigung für bereits erbrachte Leistungen fest.
+§ 12.[^11-1] <sup>1</sup> Kommt eine Lehrveranstaltung nicht zustande, entfällt der Lohnanspruch gemäss Arbeitsvertrag. Die verantwortliche Organisationseinheit legt den Umfang der Entschädigung für bereits erbrachte Leistungen fest.
 
-<sup>2</sup> Führt die bzw. der Lehrangestellte die geplante Lehrveranstaltung nicht oder nur teilweise durch, hat sie bzw. er dies umgehend der verantwortlichen Organisationseinheit zu melden. Der Lohnanspruch entfällt ganz oder reduziert sich aufgrund der bereits geleisteten Arbeit. § 13 dieses Reglements bleibt vorbehalten.
+<sup>2</sup> Führt die Lehrperson die geplante Lehrveranstaltung nicht oder nur teilweise durch, hat sie dies umgehend der verantwortlichen Organisationseinheit zu melden. Der Lohnanspruch entfällt ganz oder reduziert sich aufgrund der bereits geleisteten Arbeit. § 13 bleibt vorbehalten.
 
-<sup>3</sup> Die verantwortliche Organisationseinheit überprüft regelmässig, ob das Arbeitsverhältnis noch weiter bestehen soll. Wenn das nicht der Fall ist, z.B. wenn durch Änderungen des Studienprogramms die Lehrveranstaltung entfällt oder wenn die Lehrleistung unzulänglich ist, beantragt die verantwortliche Organisationseinheit die Kündigung des unbefristeten Vertrags durch die Abteilung Personal.
+<sup>3</sup> Die verantwortliche Organisationseinheit überprüft regelmässig, ob das Arbeitsverhältnis noch weiter bestehen soll. Wenn das nicht der Fall ist, beantragt die verantwortliche Organisationseinheit die Kündigung des unbefristeten oder befristeten Arbeitsverhältnisses durch die Abteilung Personal.
+
+**3**
+
+- 1\. 1. 25 - 127
+
+<sup>4</sup> Das Arbeitsverhältnis kann von beiden Parteien mit einer Kündigungsfrist von drei Monaten auf das Ende eines Semesters gekündigt werden.
+
+[^11-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
+[^11-2]: SR 220.
 
 #### § 13
 
 **Lohnfortzahlung bei Arbeitsverhinderung**
 
-Die Lohnfortzahlung der UZH bei Arbeitsverhinderung wie Mutterschaft, Krankheit oder Unfall richtet sich nach Art. 324 a und 324 b OR<sup>5</sup>. Eine weitergehende Krankentaggeldversicherung ist Sache der oder des Lehrangestellten.
+Die Lohnfortzahlung der UZH bei Arbeitsverhinderung wie Mutterschaft, Krankheit oder Unfall richtet sich nach Art. 324 a und 324 b OR[^11-2]. Eine weitergehende Krankentaggeldversicherung ist Sache der Lehrperson[^11-1].
 
-**3**
+[^13-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
+[^13-2]: SR 832.20.
+[^13-3]: SR 832.202.
 
-- 1\. 7. 17 - 97 § 14. Die oder der Lehrangestellte ist gegen Berufsunfälle versichert. Bei äquivalenter wöchentlicher Arbeitszeit über 8 Stunden ist sie oder er auch gegen Nichtberufsunfälle versichert (Art. 1 a Abs. 1 UVG[^13-1], Art. 13 Abs. 1 UVV[^13-2].
+#### § 14
 
 **Unfallversicherung**
 
-[^13-1]: SR 832.20.
-[^13-2]: SR 832.202. 1. 7. 17 - 97 5
+Die Lehrperson[^13-1] ist gegen Berufsunfälle versichert. Bei äquivalenter wöchentlicher Arbeitszeit über 8 Stunden ist sie oder er auch gegen Nichtberufsunfälle versichert (Art. 1a Abs. 1 UVG[^13-2], Art. 13 Abs. 1 UVV[^13-3].
 
 ### D. Übrige Bestimmungen
 
-#### § 15
+**Pensionierungsalter und Wiederanstellung**
 
-**Altersgrenze**
+§ 15.[^hDÜbrigeBestimmung-1] <sup>1</sup> Das Arbeitsverhältnis endet am Ende des Semesters, in dem das ordentliche Pensionierungsalter erreicht wird.
 
-Lehrangestellte können in der Regel bis zum Ende jenes Semesters lehren, in dem sie das ordentliche Pensionierungsalter erreichen. Ausnahmen regelt die zuständige Fakultät. Dabei richtet sie sich nach den gesamtuniversitären Vorgaben der Universitätsleitung.
+<sup>2</sup> Die Lehrpersonen können nach Erreichen des ordentlichen Pensionierungsalters befristet wiederangestellt werden. Es besteht kein Anspruch auf Wiederanstellung. Die Wiederanstellung begründet ein neues Arbeitsverhältnis mit Verlängerungsmöglichkeit.
+
+[^hDÜbrigeBestimmung-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
 #### § 16
 
 **Spesenentschädigung**
 
-Auslagen für Anreise, Verpflegung und Unterkunft von Lehrangestellten werden in der Regel nicht ersetzt. In besonderen Fällen kann die Fakultät nach vorheriger Vereinbarung die Auslagen gemäss den Bedingungen und Ansätzen im Spesenreglement der UZH ersetzen.
+Auslagen für Anreise, Verpflegung und Unterkunft von Lehrpersonen[^hDÜbrigeBestimmung-1] werden in der Regel nicht ersetzt. In besonderen Fällen kann die Fakultät nach vorheriger Vereinbarung die Auslagen gemäss den Bedingungen und Ansätzen im Spesenreglement der UZH ersetzen.
+
+[^16-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
 #### § 17
 
 **Urheberrechte**
 
-Das Urheberrecht an den von den Lehrangestellten erarbeiteten Unterlagen für den Unterricht verbleibt bei der Verfasserin oder dem Verfasser.
+Das Urheberrecht an den von den Lehrpersonen[^16-1] erarbeiteten Unterlagen für den Unterricht verbleibt bei der Verfasserin oder dem Verfasser.
+
+[^17-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
 #### § 18
 
 **Sicherheits- und weitere Vorschriften**
 
-Die oder der Lehrangestellte verpflichtet sich, die an der UZH geltenden betrieblichen Vorschriften, insbesondere Sicherheits- und Zutrittsbestimmungen, die Allgemeine Hausordnung sowie die Bestimmungen über den Einsatz und die Nutzung von Informatikmitteln der UZH einzuhalten. Sie oder er beachtet die datenschutzrechtlichen Vorgaben der UZH im Rahmen des kantonalen Datenschutzrechts.
+Die Lehrperson[^17-1] verpflichtet sich, die an der UZH geltenden betrieblichen Vorschriften, insbesondere Sicherheits- und Zutrittsbestimmungen, die Allgemeine Hausordnung sowie die Bestimmungen über den Einsatz und die Nutzung von Informatikmitteln der UZH einzuhalten. Sie oder er beachtet die datenschutzrechtlichen Vorgaben der UZH im Rahmen des kantonalen Datenschutzrechts.
 
 ### E. Ausnahmefälle
 
@@ -180,50 +215,46 @@ Wenn aufgrund rechtlicher oder vertraglicher Bestimmungen eine Lehranstellung im
 
 ### F. Schlussbestimmung
 
-#### § 20
+**Schlussbestimmung**
 
-Dieses Reglement tritt am 1. August 2017 in Kraft.
+§ 20.[^hFSchlussbestimmung-1] Die Änderungen vom 16. Mai 2024 gelten auch für die bereits bestehenden Arbeitsverhältnisse, § 10 unter Einhaltung der Kündigungsfrist gemäss § 12 Abs. 4.
 
-### Anhang: Einreihungsrichtlinien gemäss § 10
+[^hFSchlussbestimmung-1]: Fassung gemäss URB vom 16. Mai 2024 (OS 79, 288; ABl 2024-05-31). In Kraft seit 1. Februar 2025. 1. 1. 25 - 127 5
 
-[^hAnhangEinreihungsr-1]: Pauschalentschädigung jeweils am Ende des Semesters
+### Anhang: Richtwerte gemäss § 10
 
-### Entschädigung Monatlicher
+[^hFSchlussbestimmung-1]
 
-[^hAnhangEinreihungsr-1]
+**Monatlicher**
 
-pro Semester- Betrag
+### Lehrpersonen gemäss § 17 der Uni- Funktion Personen- Richtwert
 
-[^hEntschädigunghAnha-1]: Monatlich ausbezahlter Betrag, wenn Gesamtbetrag das BVG-Minimum überschreitet
+versitätsordnung der Universität gruppe pro Semester- Richtwert wochenstunde pro SWS
 
-### Einreihung wochenstunde pro SWS Gemäss URB vom 29. März 2004 Funktion Klasse (SWS)
+**Zürich (UniO)**
 
-[^hEntschädigunghAnha-1]
+**in Franken**
 
-**Fr. 5040 Fr. 840 Fr. 4200 Fr. 700**
+### (SWS)
 
-Ordinarien anderer Universitäten Lehrangestellte/r A
+in Franken
 
-Extraordination anderer Universitäten, externe Lehrangestellte/r B Titularprofessorinnen und -professoren, Privatdozentinnen und -dozenten und Klinische Dozentinnen und Dozenten
+**890**
 
-**Fr. 3960 Fr. 660**
+Professorinnen und Professoren anderer Lehr- A 5340 Universitäten (einschliesslich Assistenz- person professorinnen und Assistenzprofesso-
 
-**Chefärztinnen und**
+**ren)**
 
-Externe Oberärztinnen und -ärzte, Lehrangestellte/r C -ärzte, Konsiliarärztinnen und -ärzte Externe Oberassistentinnen und -assistenten, Postdoktorandinnen und Postdoktoranden, Wissenschaftliche Mitarbeiterinnen und
+**740**
 
-**Mitarbeiter**
+Titularprofessorinnen und Titularprofes- Lehr- B 4440 soren, Privatdozierende und Klinische person Dozierende, die nicht bereits an der Universität Zürich angestellt sind
 
-Externe Konservatorinnen und Konservatoren, Fachdidaktikerinnen und -didaktiker, Lehrangestellte für Oberstufe und Berufsschule
+**700**
 
-**Fr. 3360 Fr. 560**
+Externe Ärztinnen und Ärzte, externe Lehr- C 4200 Oberassistierende, externe Postdoktorie- person rende, externe wissenschaftliche Mitarbeitende, externe, an anderen Institutionen angestellte Lehrpersonen sowie weitere externe Fachexpertinnen und
 
-Externe Assistentinnen und Assistenten/ Lehrangestellte/r D Doktorandinnen und Doktoranden
+**Fachexperten**
 
-## Weitere Fussnoten
+**590**
 
-- [1] OS 72, 5; Begründung siehe ABl 2016-09-16.
-- [2] LS 415.11.
-- [3] LS 415.111.
-- [4] LS 415.21.
-- [5] SR 220.
+Externe Assistierende und Doktorierende Lehr- D 3540 person
