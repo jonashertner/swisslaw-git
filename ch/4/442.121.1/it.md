@@ -3,18 +3,18 @@ sr: "442.121.1"
 title: "Ordinanza del DFI del 29 novembre 2016 concernente il regime di promozione in favore dei musei, delle collezioni e delle reti di terzi ai fini della salvaguardia del patrimonio culturale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/780"
 language: it
-version: 2021-01-01
+version: 2025-02-01
 adopted: 2016-11-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/780/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-780-20210101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/780/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/780/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2016-780-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/780/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI concernente il regime di promozione in favore dei musei, delle collezioni e delle reti di terzi ai fini della salvaguardia del patrimonio culturale
 
-del 29 novembre 2016 (Stato 1° gennaio 2021)
+del 29 novembre 2016 (Stato 1° febbraio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -54,9 +54,25 @@ Il sostegno di musei, collezioni e reti di terzi (istituzioni) ha lo scopo di:
 - b. potenziare le istituzioni;
 - c. facilitare l’accesso del grande pubblico alle istituzioni e al patrimonio culturale.
 
-## Sezione 2: Ambiti di promozione
+## Sezione 2: Principi e ambiti di promozione
+
+[^sec2-1]
+
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
+
+#### Art. 2a
+
+**Principi**[^2a-1]
+
+<sup>1</sup> Non sussiste alcun diritto a un sostegno.
+
+<sup>2</sup> I beneficiari di aiuti finanziari devono impegnarsi a favore della sostenibilità, delle pari opportunità, della diversità e della retribuzione adeguata degli operatori culturali professionisti.
+
+[^2a-1]: Introdotto dalla cifra I dell’O del DFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 #### Art. 3
+
+**Ambiti di promozione[^3-1]**
 
 <sup>1</sup>
 
@@ -64,11 +80,13 @@ Le istituzioni possono essere sostenute mediante i seguenti tipi di aiuti finanz
 
 - a. aiuti finanziari per le spese d’esercizio (contributi d’esercizio);
 - b. aiuti finanziari per le spese di progetti di salvaguardia del patrimonio culturale, segnatamente misure di inventariazione e digitalizzazione di opere d’arte legate all’accertamento e alla pubblicazione delle provenienze (contributi a progetti);
-- c. aiuti finanziari per le spese di premi di assicurazione legati al prestito di opere per mostre temporanee in Svizzera (contributi assicurativi[^3-1]).
+- c. aiuti finanziari per le spese di premi di assicurazione legati al prestito di opere per mostre temporanee in Svizzera (contributi assicurativi[^3-2]).
 
-<sup>2</sup> Non sussiste alcun diritto a un sostegno.
+<sup>2</sup> ...[^3-3]
 
-[^3-1]: Nuova espr. giusta il n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-1]: Introdotta dalla cifra I dell’O del DFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
+[^3-2]: Nuova espr. giusta la cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-3]: Abrogato dalla cifra I dell’O del DFI del 5 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 ## Sezione 3: Requisiti di promozione
 
@@ -104,7 +122,9 @@ Beneficiano di un contributo d’esercizio:
   - 1\. l’Associazione dei musei svizzeri,
   - 2\. la fondazione Passaporto Musei Svizzeri,
   - 3\. la Fondazione Museo Alpino Svizzero,
-  - 4\.[^5-2] l’associazione Bibliosuisse;
+  - 4\.[^5-2] l’associazione Bibliosuisse,
+  - 5\.[^5-3] la rete sulla storia dell’uguaglianza tra uomini e donne,
+  - 6\.[^5-4] la rete di divulgazione della storia delle vittime del nazionalsocialismo;
 
 - b.
 
@@ -114,8 +134,10 @@ Beneficiano di un contributo d’esercizio:
   - 2\. l’Associazione per la salvaguardia della memoria audiovisiva della Svizzera – Memoriav,
   - 3\. la Fondazione SAPA, Archivio svizzero delle arti della scena.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
-[^5-2]: Introdotto dal n. I dell’O del DFI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5931](https://fedlex.data.admin.ch/eli/oc/2020/996)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^5-2]: Introdotto dalla cifra I dell’O del DFI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5931](https://fedlex.data.admin.ch/eli/oc/2020/996)).
+[^5-3]: Introdotto dalla cifra I dell’O del DFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
+[^5-4]: Introdotto dalla cifra I dell’O del DFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 #### Art. 6
 
@@ -141,7 +163,7 @@ Per i contributi d’esercizio a musei e collezioni si applicano i seguenti crit
 - b. importanza della collezione, segnatamente alla luce dell’unicità della stessa, del suo volume e del suo valore culturale per la Svizzera;
 - c. importanza del lavoro di mediazione, segnatamente alla luce della portata, della qualità, della diversità e dell’innovatività dell’offerta di mediazione.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^8-1]: Nuovo testo giusta dalla cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 
 #### Art. 9
 
@@ -179,7 +201,7 @@ Gli aiuti finanziari ammontano:
 - b. nel caso dei contributi a progetti: al massimo al 50 per cento dei costi complessivi del progetto, ma al massimo a 100 000 franchi per progetto e al minimo a 20 000 franchi per progetto;
 - c. nel caso dei contributi assicurativi: al massimo al 50 per cento dei premi di assicurazione complessivi di una mostra, ma al massimo a 150 000 franchi per mostra e al minimo a 20 000 franchi per mostra.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 
 #### Art. 12
 
@@ -207,9 +229,9 @@ Gli aiuti finanziari ammontano:
 
 <sup>6</sup> Il versamento dell’aiuto finanziario può avvenire in più rate. L’importo definitivo è versato nell’anno di sussidio sulla base del rendiconto dell’anno precedente previsto dal contratto di prestazioni.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
-[^13-3]: Introdotto dal n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^13-3]: Introdotto dalla cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 
 #### Art. 14
 
@@ -217,9 +239,11 @@ Gli aiuti finanziari ammontano:
 
 <sup>1</sup> L’UFC decide di norma ogni due anni, sulla base di un bando di concorso, circa l’erogazione di contributi a progetti.
 
-<sup>2</sup> Il termine per l’inoltro delle richieste è fissato nel relativo bando. Le richieste di contributi a progetti per gli anni 2018–2020 devono essere presentate all’UFC entro il 31 ottobre 2017.
+<sup>2</sup> Il termine per l’inoltro delle richieste è fissato nel relativo bando.[^14-1]
 
 <sup>3</sup> Le richieste devono documentare l’adempimento dei requisiti di promozione e contenere tutte le informazioni necessarie relative ai criteri di promozione. Devono contenere una descrizione del progetto con l’indicazione degli obiettivi, una lista delle misure e uno scadenzario nonché un preventivo e un piano finanziario.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFI del 5 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 #### Art. 15
 
@@ -231,7 +255,9 @@ Gli aiuti finanziari ammontano:
 
 <sup>3</sup> Le richieste devono contenere tutte le informazioni necessarie relative ai criteri di promozione.
 
-<sup>4</sup> Le istituzioni che hanno ricevuto un contributo a premi di assicurazione l’anno precedente non possono essere sostenute nuovamente l’anno successivo.
+<sup>4</sup> ...[^15-1]
+
+[^15-1]: Abrogato dalla cifra I dell’O del DFI del 5 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 #### Art. 16
 
@@ -259,30 +285,15 @@ I beneficiari di aiuti finanziari sono tenuti a:
 
 #### Art. 18
 
-**Disposizioni transitorie**
+[^18-1]
 
-<sup>1</sup> Per le procedure ancora in corso al momento dell’entrata in vigore della presente ordinanza si applica l’ordinanza del DFI 25 novembre 2015[^18-1] concernente il regime di promozione 2016–2017 in favore dei musei, delle collezioni e delle reti di terzi ai fini della salvaguardia del patrimonio culturale.
-
-<sup>2</sup>
-
-I musei e le collezioni che hanno beneficiato di un contributo d’esercizio nel 2016 e nel 2017 e che dal 2018 non saranno più sostenuti o saranno sostenuti con un contributo inferiore di almeno il 30 per cento rispetto a quello del 2017, possono beneficiare di un contributo transitorio unico per il 2018. L’UFC decide su presentazione di una richiesta circa l’erogazione del contributo transitorio tenendo conto in particolare:
-
-- a. dell’ammontare attuale dell’aiuto finanziario;
-- b. della situazione finanziaria dell’istituzione;
-- c. dei criteri di promozione di cui all’articolo 8;
-- d. delle ripercussioni della riduzione del contributo sulle attività dell’istituzione nel 2018.
-
-<sup>3</sup> Le richieste per l’erogazione di un contributo transitorio devono essere presentate entro il 31 marzo 2017. Esse devono contenere tutte le indicazioni di cui al capoverso 2.
-
-[^18-1]: [RU 2015 5591](https://fedlex.data.admin.ch/eli/oc/2015/871)
+[^18-1]: Abrogato dalla cifra I dell’O del DFI del 5 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 #### Art. 18a
 
-**Disposizione transitoria concernente la modifica del 13 marzo 2020**[^18a-1]
+[^18a-1]
 
-Per le procedure ancora in corso al momento dell’entrata in vigore della presente modifica si applica il diritto previgente.
-
-[^18a-1]: Introdotto dal n. I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^18a-1]: Introdotto dalla cifra I dell’O del DFI del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Abrogato dalla cifra I dell’O del DFI del 5 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785))
 
 #### Art. 19
 

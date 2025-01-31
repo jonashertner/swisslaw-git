@@ -3,18 +3,18 @@ sr: "442.121.1"
 title: "Ordonnance du DFI du 29 novembre 2016 instituant un régime d'encouragement des musées, des collections et des réseaux de tiers en vue de la sauvegarde du patrimoine culturel"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/780"
 language: fr
-version: 2021-01-01
+version: 2025-02-01
 adopted: 2016-11-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/780/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-780-20210101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/780/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/780/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-780-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/780/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI instituant un régime d’encouragement des musées, des collections et des réseaux de tiers en vue de la sauvegarde du patrimoine culturel
 
-du 29 novembre 2016 (État le 1<sup>er</sup> janvier 2021)
+du 29 novembre 2016 (État le 1<sup>er</sup> février 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -54,9 +54,25 @@ Le soutien des musées, collections et réseaux de tiers (institutions) vise à:
 - b. renforcer les institutions;
 - c. faciliter l’accès du grand public aux institutions et au patrimoine culturel.
 
-## Section 2 Domaines soutenus
+## Section 2 Principes et domaines soutenus
+
+[^sec2-1]
+
+[^sec2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
+
+#### Art. 2a
+
+**Principes**[^2a-1]
+
+<sup>1</sup> Il n’existe pas de droit à un soutien.
+
+<sup>2</sup> Les bénéficiaires des aides financières s’engagent en faveur du développement durable, de l’égalité des chances, de la diversité et d’une rémunération équitable des acteurs culturels professionnels.
+
+[^2a-1]: Introduit par le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 3
+
+**Domaines soutenus[^3-1]**
 
 <sup>1</sup>
 
@@ -66,7 +82,10 @@ Les aides financières aux institutions peuvent prendre les formes suivantes:
 - b. aides financières à des projets de sauvegarde du patrimoine culturel, notamment d’inventorisation et de numérisation des œuvres d’art dans le cadre des travaux entrepris pour clarifier et publier les indications de provenance (contributions à des projets);
 - c. aides financières pour les primes d’assurance couvrant le prêt d’objets à des expositions temporaires en Suisse (contributions aux primes d’assurance).
 
-<sup>2</sup> Il n’existe pas de droit à un soutien.
+<sup>2</sup> …[^3-2]
+
+[^3-1]: Introduit par le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
+[^3-2]: Abrogé par le ch. I de l’O du DFI du 5 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 ## Section 3 Conditions de soutien
 
@@ -86,8 +105,8 @@ Les musées et les collections doivent:
 
 <sup>2</sup> Par Helvetica on entend des biens culturels présentant un lien étroit avec la Suisse.
 
-[^4-1]: Code de déontologie de l’ICOM pour les musées du 4 nov. 1986, révisé le 6 juil. 2001 et le 8 oct. 2004. Le code peut être consulté à l’adresse suivante: www.bak.admin.ch &gt; Patrimoine culturel &gt; L’art spolié &gt; Déontologie des musées.
-[^4-2]: Les principes peuvent être consultés à l’adresse suivante: www.bak.admin.ch &gt; Patrimoine culturel &gt; L’art spolié &gt; Bases internationales.
+[^4-1]: Code de déontologie de l’ICOM pour les musées du 4 nov. 1986, révisé le 6 juil. 2001 et le 8 oct. 2004. Le code peut être consulté à l’adresse suivante: [www.bak.admin.ch](https://www.bak.admin.ch) &gt; Patrimoine culturel &gt; L’art spolié &gt; Déontologie des musées.
+[^4-2]: Les principes peuvent être consultés à l’adresse suivante: [www.bak.admin.ch](https://www.bak.admin.ch) &gt; Patrimoine culturel &gt; L’art spolié &gt; Bases internationales.
 
 #### Art. 5
 
@@ -102,7 +121,9 @@ La contribution d’exploitation est versée:
   - 1\. l’Association des musées suisses,
   - 2\. la Fondation Passeport Musées Suisses,
   - 3\. la Fondation Musée Alpin Suisse,
-  - 4\.[^5-2] l’association Bibliosuisse;
+  - 4\.[^5-2] l’association Bibliosuisse,
+  - 5\.[^5-3] le réseau sur l’histoire de l’égalité entre les femmes et les hommes,
+  - 6\.[^5-4] le réseau sur la transmission de l’histoire des victimes du nazisme;
 
 - b.
 
@@ -114,6 +135,8 @@ La contribution d’exploitation est versée:
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 mars 2020, en vigueur depuis le 15 avril 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 [^5-2]: Introduite par le ch. I de l’O du DFI du 16 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5931](https://fedlex.data.admin.ch/eli/oc/2020/996)).
+[^5-3]: Introduit par le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
+[^5-4]: Introduit par le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 6
 
@@ -202,13 +225,14 @@ Les aides financières se montent:
 
 <sup>4</sup> L’OFC peut faire appel à des experts pour l’évaluation des demandes.
 
-<sup>5</sup> Il conclut des contrats de prestations avec les allocataires de contributions d’exploitation. Il y établit en particulier le montant de l’aide financière et les prestations à apporter par les allocataires.
+<sup>5</sup> Il conclut des contrats de prestations avec les bénéficiaires[^13-3] de contributions d’exploitation. Il y établit en particulier le montant de l’aide financière et les prestations à apporter par les bénéficiaires.
 
-<sup>6</sup> Les aides financières peuvent être versées en plusieurs tranches. Le montant définitif est versé au cours de l’année de subventionnement, sur la base du rapport de l’année précédente prévu par le contrat de prestations.[^13-3]
+<sup>6</sup> Les aides financières peuvent être versées en plusieurs tranches. Le montant définitif est versé au cours de l’année de subventionnement, sur la base du rapport de l’année précédente prévu par le contrat de prestations.[^13-4]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 mars 2020, en vigueur depuis le 15 avril 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 mars 2020, en vigueur depuis le 15 avril 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
-[^13-3]: Introduit par le ch. I de l’O du DFI du 13 mars 2020, en vigueur depuis le 15 avril 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^13-3]: Nouvelle expression selon le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)). Il a été tenu compte de cette mod. dans tout le texte.
+[^13-4]: Introduit par le ch. I de l’O du DFI du 13 mars 2020, en vigueur depuis le 15 avril 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 
 #### Art. 14
 
@@ -216,9 +240,11 @@ Les aides financières se montent:
 
 <sup>1</sup> L’OFC décide en règle générale tous les deux ans, sur la base d’une mise au concours, de l’attribution des contributions à des projets.
 
-<sup>2</sup> Le délai de dépôt des demandes est indiqué dans la mise au concours. Les demandes d’allocation de contributions à des projets pour les années 2018 à 2020 doivent parvenir à l’OFC le 31 octobre 2017 au plus tard.
+<sup>2</sup> Le délai de dépôt des demandes est indiqué dans la mise au concours.[^14-1]
 
 <sup>3</sup> Les demandes doivent fournir la preuve que les conditions de soutien sont remplies et contenir toutes les informations nécessaires en rapport avec les critères de soutien. Elles doivent comporter un descriptif du projet et de ses objectifs, un plan de mesures et un calendrier ainsi qu’un budget et un plan de financement.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 15
 
@@ -230,7 +256,9 @@ Les aides financières se montent:
 
 <sup>3</sup> Les demandes doivent contenir toutes les informations nécessaires en rapport avec les critères de soutien.
 
-<sup>4</sup> Les institutions qui ont bénéficié de contributions aux primes d’assurance une année ne peuvent recevoir de soutien l’année suivante.
+<sup>4</sup> …[^15-1]
+
+[^15-1]: Abrogé par le ch. I de l’O du DFI du 5 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 16
 
@@ -244,7 +272,7 @@ Avant de rendre ses décisions relatives aux contributions, l’OFC pondère les
 
 <sup>1</sup>
 
-Les allocataires sont tenus de:
+Les bénéficiaires des aides financières sont tenus de:[^17-1]
 
 - a. faire connaître le soutien apporté par l’OFC;
 - b. communiquer à l’OFC tous les renseignements nécessaires concernant l’aide financière allouée;
@@ -252,36 +280,23 @@ Les allocataires sont tenus de:
 
 <sup>2</sup> Les institutions qui reçoivent des contributions d’exploitation doivent proposer leurs informations de base destinées au public dans deux langues nationales au moins.
 
-<sup>3</sup> Les allocataires de contributions à des projets et de contributions aux primes d’assurance sont en outre tenus de remettre à l’OFC un rapport final et un décompte final dans un délai de trois mois après la fin du projet.
+<sup>3</sup> Les bénéficiaires de contributions à des projets et de contributions aux primes d’assurance sont en outre tenus de remettre à l’OFC un rapport final et un décompte final dans un délai de trois mois après la fin du projet.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 ## Section 7 Dispositions finales
 
 #### Art. 18
 
-**Dispositions transitoires**
+[^18-1]
 
-<sup>1</sup> L’ordonnance du DFI du 25 novembre 2015 instituant un régime d’encouragement des musées, des collections et des réseaux de tiers en vue de la sauvegarde du patrimoine culturel pour les années 2016 et 2017[^18-1] est applicable aux procédures qui ne sont pas achevées au moment de l’entrée en vigueur de la présente ordonnance.
-
-<sup>2</sup>
-
-Les musées et les collections qui ont reçu une contribution d’exploitation pour les années 2016 et 2017 et qui, à compter de 2018, ne seront plus soutenus ou verront leur soutien diminuer d’au moins 30 % par rapport à 2017 peuvent obtenir une contribution transitoire unique pour l’année 2018. L’OFC décide de l’allocation de cette contribution sur demande en tenant compte en particulier:
-
-- a. du montant de l’ancienne aide financière;
-- b. de la situation financière de l’institution;
-- c. des critères de soutien visés à l’art. 8;
-- d. de l’impact d’une contribution réduite sur les activités de l’institution en 2018.
-
-<sup>3</sup> Les demandes d’allocations de contributions transitoires doivent être déposées d’ici au 31 mars 2017. Elles doivent contenir toutes les données requises à l’art. 18, al. 2.
-
-[^18-1]: [RO 2015 5591](https://fedlex.data.admin.ch/eli/oc/2015/871)
+[^18-1]: Abrogé par le ch. I de l’O du DFI du 5 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 18a
 
-**Disposition transitoire relative à la modification du 13 mars 2020**[^18a-1]
+[^18a-1]
 
-L’ancien droit est applicable aux procédures qui ne sont pas achevées au moment de l’entrée en vigueur de la modification du 13 mars 2020.
-
-[^18a-1]: Introduit par le ch. I de l’O du DFI du 13 mars 2020, en vigueur depuis le 15 avril 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^18a-1]: Introduit par le ch. I de l’O du DFI du 13 mars 2020 ([RO 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Abrogé par le ch. I de l’O du DFI du 5 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 19
 

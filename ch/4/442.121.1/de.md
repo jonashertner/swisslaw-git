@@ -3,18 +3,18 @@ sr: "442.121.1"
 title: "Verordnung des EDI vom 29. November 2016 über das Förderungskonzept für die Unterstützung von Museen, Sammlungen und Netzwerken Dritter zur Bewahrung des kulturellen Erbes"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/780"
 language: de
-version: 2021-01-01
+version: 2025-02-01
 adopted: 2016-11-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/780/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-780-20210101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/780/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/780/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2016-780-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/780/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über das Förderungskonzept für die Unterstützung von Museen, Sammlungen und Netzwerken Dritter zur Bewahrung des kulturellen Erbes
 
-vom 29. November 2016 (Stand am 1. Januar 2021)
+vom 29. November 2016 (Stand am 1. Februar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -54,9 +54,25 @@ Die Unterstützung von Museen, Sammlungen und Netzwerken Dritter (Institutionen)
 - b. die Institutionen zu stärken;
 - c. einer breiten Öffentlichkeit den Zugang zu den Institutionen und zum kulturellen Erbe zu erleichtern.
 
-## 2. Abschnitt: Förderbereiche
+## 2. Abschnitt: Grundsätze und Förderbereiche
+
+[^sec2-1]
+
+[^sec2-1]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
+
+#### Art. 2a
+
+**Grundsätze**[^2a-1]
+
+<sup>1</sup> Es besteht kein Anspruch auf Unterstützung.
+
+<sup>2</sup> Die Finanzhilfeempfänger müssen sich für Nachhaltigkeit, Chancengleichheit, Diversität und eine angemessene Entschädigung der professionellen Kulturschaffenden einsetzen.
+
+[^2a-1]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 3
+
+**Förderbereiche[^3-1]**
 
 <sup>1</sup>
 
@@ -64,11 +80,13 @@ Die Institutionen können mit folgenden Arten von Finanzhilfen unterstützt werd
 
 - a. Finanzhilfen an Betriebskosten (Betriebsbeiträge);
 - b. Finanzhilfen an die Kosten von Vorhaben zur Bewahrung des kulturellen Erbes, namentlich für Massnahmen zur Inventarisierung und Digitalisierung von Kunstwerken, die mit der Abklärung und Publikation der Provenienzen verbunden sind (Projektbeiträge);
-- c. Finanzhilfen an die Kosten von Versicherungsprämien für Leihgaben an zeitlich befristete Ausstellungen in der Schweiz (Versicherungsbeiträge[^3-1]).
+- c. Finanzhilfen an die Kosten von Versicherungsprämien für Leihgaben an zeitlich befristete Ausstellungen in der Schweiz (Versicherungsbeiträge[^3-2]).
 
-<sup>2</sup> Es besteht kein Anspruch auf Unterstützung.
+<sup>2</sup> …[^3-3]
 
-[^3-1]: Ausdruck gemäss Ziff. I der V des EDI vom 13. März 2020, in Kraft seit 15. April 2020 ([AS 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-1]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
+[^3-2]: Ausdruck gemäss Ziff. I der V des EDI vom 13. März 2020, in Kraft seit 15. April 2020 ([AS 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-3]: Aufgehoben durch Ziff. I der V des EDI vom 5. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 ## 3. Abschnitt: Fördervoraussetzungen
 
@@ -88,8 +106,8 @@ Museen und Sammlungen müssen:
 
 <sup>2</sup> Als Helvetica gelten Kulturgüter, die einen engen Bezug zur Schweiz aufweisen.
 
-[^4-1]: Ethische Richtlinien für Museen von ICOM vom 4. Nov. 1986, revidiert am 6. Juli 2001 und am 8. Okt. 2004. Die Richtlinien sind abrufbar unter www.bak.admin.ch &gt; Kulturerbe &gt; Raubkunst &gt; Museumsethik.
-[^4-2]: Die Richtlinien sind abrufbar unter www.bak.admin.ch &gt; Kulturerbe &gt; Raubkunst &gt; Internationale Grundlagen.
+[^4-1]: Ethische Richtlinien für Museen von ICOM vom 4. Nov. 1986, revidiert am 6. Juli 2001 und am 8. Okt. 2004. Die Richtlinien sind abrufbar unter: [www.bak.admin.ch](http://www.bak.admin.ch) &gt; Kulturerbe &gt; Raubkunst &gt; Museumsethik.
+[^4-2]: Die Richtlinien sind abrufbar unter: [www.bak.admin.ch](http://www.bak.admin.ch) &gt; Kulturerbe &gt; Raubkunst &gt; Internationale Grundlagen.
 
 #### Art. 5
 
@@ -104,7 +122,9 @@ Einen Betriebsbeitrag erhalten:
   - 1\. der Verband der Museen der Schweiz,
   - 2\. die Stiftung Schweizer Museumspass,
   - 3\. die Stiftung Schweizerisches Alpines Museum,
-  - 4\.[^5-2] der Verband Bibliosuisse;
+  - 4\.[^5-2] der Verband Bibliosuisse,
+  - 5\.[^5-3] das Netzwerk für die Geschichte der Gleichstellung von Frau und Mann,
+  - 6\.[^5-4] das Netzwerk zur Vermittlung der Geschichte zu den Opfern des Nationalsozialismus;
 
 - b.
 
@@ -116,6 +136,8 @@ Einen Betriebsbeitrag erhalten:
 
 [^5-1]: Fassung gemäss Ziff. I der V des EDI vom 13. März 2020, in Kraft seit 15. April 2020 ([AS 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
 [^5-2]: Eingefügt durch Ziff. I der V des EDI vom 16. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5931](https://fedlex.data.admin.ch/eli/oc/2020/996)).
+[^5-3]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
+[^5-4]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 6
 
@@ -217,9 +239,11 @@ Die ausgerichteten Finanzhilfen betragen:
 
 <sup>1</sup> Das BAK entscheidet in der Regel alle zwei Jahre gestützt auf eine Ausschreibung über die Ausrichtung der Projektbeiträge.
 
-<sup>2</sup> Die Frist für die Einreichung der Gesuche wird jeweils in der Ausschreibung festgelegt. Gesuche um Ausrichtung von Projektbeiträgen für die Jahre 2018–2020 sind dem BAK bis zum 31. Oktober 2017 einzureichen.
+<sup>2</sup> Die Frist für die Einreichung der Gesuche wird jeweils in der Ausschreibung festgelegt.[^14-1]
 
 <sup>3</sup> Die Gesuche haben die Erfüllung der Fördervoraussetzungen zu belegen und alle notwendigen Angaben in Bezug auf die Förderkriterien zu enthalten. Sie müssen eine Beschreibung des Vorhabens mit Zielformulierung, einen Massnahmen- und Zeitplan sowie ein Budget und einen Finanzierungsplan enthalten.
+
+[^14-1]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 15
 
@@ -231,7 +255,9 @@ Die ausgerichteten Finanzhilfen betragen:
 
 <sup>3</sup> Die Gesuche haben alle notwendigen Angaben in Bezug auf die Förderkriterien zu enthalten.
 
-<sup>4</sup> Institutionen, die im Vorjahr einen Versicherungsbeitrag erhalten haben, können im Folgejahr nicht erneut unterstützt werden.
+<sup>4</sup> …[^15-1]
+
+[^15-1]: Aufgehoben durch Ziff. I der V des EDI vom 5. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 16
 
@@ -259,30 +285,15 @@ Die Finanzhilfeempfänger sind verpflichtet:
 
 #### Art. 18
 
-**Übergangsbestimmungen**
+[^18-1]
 
-<sup>1</sup> Für Verfahren, die bei Inkrafttreten dieser Verordnung nicht abgeschlossen sind, gilt die Verordnung des EDI vom 25. November 2015[^18-1] über das Förderungskonzept 2016–2017 für die Unterstützung von Museen, Sammlungen und Netzwerken Dritter zur Bewahrung des kulturellen Erbes.
-
-<sup>2</sup>
-
-Museen und Sammlungen, die für die Jahre 2016 und 2017 einen Betriebsbeitrag erhalten haben und ab dem Jahr 2018 nicht mehr oder mit einem im Vergleich zum Jahr 2017 um mindestens 30 Prozent tieferen Beitrag unterstützt werden, können einen einmaligen Überbrückungsbeitrag für das Jahr 2018 erhalten. Das BAK entscheidet auf Gesuch hin über die Ausrichtung des Überbrückungsbeitrags insbesondere unter Berücksichtigung:
-
-- a. der bisherigen Höhe der Finanzhilfe;
-- b. der Finanzsituation der Institution;
-- c. der Förderkriterien nach Artikel 8;
-- d. der Auswirkungen der Beitragskürzung auf die Aktivitäten der Institution im Jahr 2018.
-
-<sup>3</sup> Gesuche um einen Überbrückungsbeitrag sind bis zum 31. März 2017 einzureichen. Sie müssen alle notwendigen Angaben nach Absatz 2 enthalten.
-
-[^18-1]: [AS 2015 5591](https://fedlex.data.admin.ch/eli/oc/2015/871)
+[^18-1]: Aufgehoben durch Ziff. I der V des EDI vom 5. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 18a
 
-**Übergangsbestimmung zur Änderung vom 13. März 2020**[^18a-1]
+[^18a-1]
 
-Verfahren, die bei Inkrafttreten der Änderung vom 13. März 2020 nicht abgeschlossen sind, werden nach bisherigem Recht zu Ende geführt.
-
-[^18a-1]: Eingefügt durch Ziff. I der V des EDI vom 13. März 2020, in Kraft seit 15. April 2020 ([AS 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)).
+[^18a-1]: Eingefügt durch Ziff. I der V des EDI vom 13. März 2020 ([AS 2020 1107](https://fedlex.data.admin.ch/eli/oc/2020/198)). Aufgehoben durch Ziff. I der V des EDI vom 5. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2024 785](https://fedlex.data.admin.ch/eli/oc/2024/785)).
 
 #### Art. 19
 
