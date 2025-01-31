@@ -3,20 +3,20 @@ canton: LU
 number: 539s
 title: "Reglement zur Verleihung von Titular-, Honorar- und ständigen Gastprofessuren sowie von Professuren für medizinische Wissenschaften an der Universität Luzern"
 language: de
-version: 2024-04-01
-valid_until: 2025-01-31
-version_adopted: 2024-03-27
+version: 2025-02-01
+valid_until: 2025-11-30
+version_adopted: 2024-12-18
 adopted: 2024-03-27
 in_force: 2024-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539s"
-pdf: "https://srl.lu.ch/api/de/versions/4195/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Verleihung von Titular-, Honorar- und ständigen Gastprofessuren sowie von Professuren für medizinische Wissenschaften an der Universität Luzern
 
-vom 27.03.2024 (Stand 01.04.2024)
+vom 27.03.2024 (Stand 01.02.2025)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>2</sup> Die Fakultäten können Einzelheiten sowie weitergehende Anforderungen und Rechte für Titularprofessuren und Professuren für medizinische Wissenschaften im Sinne von Absatz 1 festlegen.
 
-<sup>3</sup> Ausnahmsweise kann in Absprache mit der Rektorin oder dem Rektor von einzelnen der nachgenannten Anforderungen abgewichen werden.
+<sup>3</sup> …
 
 [^1-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -50,7 +50,9 @@ beschliesst:
 
 **Befangenheit / Ausstand**
 
-<sup>1</sup> Die universitären Bestimmungen zum Umgang mit Befangenheiten und betreffend Ausstand sind auf die Verfahren auf Titelverleihung nach diesem Reglement anwendbar.
+<sup>1</sup> Der Umgang mit Befangenheiten und betreffend Ausstand unterliegt dem Reglement betreffend Ausstand in Berufungs- und Beförderungsverfahren sowie in Verfahren auf Verleihung von Titeln einer Professorin oder eines Professors[^3-1].
+
+[^3-1]: SRL Nr. [539u](https://srl.lu.ch/data/539u/de)
 
 #### § 4
 
@@ -60,13 +62,13 @@ beschliesst:
 
 <sup>2</sup> In der Regel ist die Habilitation oder ein äquivalenter Leistungsausweis Voraussetzung für die Verleihung einer Titularprofessur.
 
-<sup>3</sup> Es sind mindestens ein internes und ein externes Gutachten einzuholen, welche die erforderliche Qualifikation bestätigen.
+<sup>3</sup> Es sind mindestens ein internes und ein externes Gutachten einzuholen, welche die erforderliche Qualifikation bestätigen. Die Gutachten äussern sich insbesondere dazu, inwiefern die Anforderungen gemäss Absatz 1 und 2 erfüllt sind.
 
 <sup>4</sup> Titularprofessorinnen und Titularprofessoren nehmen einen Lehr- und Forschungsauftrag wahr oder sind als Lehr- und Forschungsbeauftragte an der Universität Luzern angestellt.
 
 <sup>5</sup> Titularprofessorinnen und Titularprofessoren verlieren das Recht zur Titelführung:
 
-- a. wenn sie die Lehr- und Forschungstätigkeit vor dem 65. Altersjahr beenden. Bei Vorliegen besonderer Gründe kann der Senat auf Antrag der Fakultätsversammlung die weitere Führung des Titels bewilligen. Wird die Lehrtätigkeit oder die Lehr- und Forschungstätigkeit mit dem 65. Altersjahr beendet, so kann der Titel weitergeführt werden,
+- a. wenn sie die Lehr- und Forschungstätigkeit vor Vollendung des 65. Altersjahres beenden. Bei Vorliegen besonderer Gründe kann der Senat auf Antrag der Fakultätsversammlung die weitere Führung des Titels bewilligen. Wird die Lehrtätigkeit oder die Lehr- und Forschungstätigkeit nach dem 65. Altersjahr beendet, so kann der Titel weitergeführt werden,
 - b. wenn die Universität ihnen während fünf Jahren keinen Lehrauftrag erteilt hat.
 
 #### § 5
@@ -98,13 +100,13 @@ beschliesst:
 
 **Professur für medizinische Wissenschaften**
 
-<sup>1</sup> Eine Professur für medizinische Wissenschaften kann an akademisch hochrangig qualifizierte Wissenschaftlerinnen und Wissenschaftler verliehen werden, die an einer mit der Universität Luzern verbundenen Partnerinstitution angestellt sind, sich national und international profiliert haben sowie an keiner anderen Universität eine hauptamtliche Professur innehaben.
+<sup>1</sup> Eine Professur für medizinische Wissenschaften kann an akademisch hochrangig qualifizierte Wissenschaftlerinnen und Wissenschaftler verliehen werden, die an einer mit der Universität Luzern verbundenen Partnerinstitution hauptamtlich angestellt sind und sich national und international profiliert haben sowie keinen Professorentitel einer anderen Universität innehaben.
 
 <sup>2</sup> Für die Verleihung einer Professur für medizinische Wissenschaften ist eine Habilitation oder ein äquivalenter Leistungsausweis Voraussetzung.
 
-<sup>3</sup> Es sind mindestens ein internes und zwei externe Gutachten einzuholen, welche die erforderlichen Qualifikationen bestätigen.
+<sup>3</sup> Es sind mindestens ein internes und zwei externe Gutachten einzuholen, welche die erforderlichen Qualifikationen bestätigen. Die Gutachten äussern sich insbesondere dazu, inwiefern die Anforderungen gemäss Absatz 1 und 2 erfüllt sind.
 
-<sup>4</sup> Professorinnen und Professoren für medizinische Wissenschaften nehmen einen Lehrauftrag wahr oder sind als Lehr- und Forschungsbeauftragte an der Universität Luzern angestellt. Einzelheiten dazu werden in Absprache mit der Partnerinstitution geregelt. Sie führen Forschungsprojekte durch, betreuen Qualifikationsarbeiten, publizieren regelmässig ihre Ergebnisse in peer-reviewten Zeitschriften und werben Drittmittel ein.
+<sup>4</sup> Professorinnen und Professoren für medizinische Wissenschaften betreiben im Rahmen ihrer hauptamtlichen Anstellung an einer mit der Universität Luzern verbundenen Partnerinstitution (Abs. 1) im Umfang von mindestens 20 Prozent Forschung und Lehre an der Universität Luzern. Einzelheiten werden in Absprache mit der Partnerinstitution geregelt. Sie lehren regelmässig in den Studiengängen der Universität, führen Forschungsprojekte durch, betreuen Qualifikationsarbeiten, publizieren regelmässig ihre Ergebnisse in peer-reviewten Zeitschriften und werben Drittmittel ein.
 
 <sup>5</sup> Professorinnen oder Professoren für medizinische Wissenschaften verlieren das Recht zur Titelführung:
 
@@ -116,6 +118,8 @@ beschliesst:
 **Titelentzug**
 
 <sup>1</sup> Entfallen die Voraussetzungen für eine Titelführung, stellt die betroffene Fakultät dies fest und widerruft den Titel.
+
+<sup>1<sup>bis</sup></sup> Titel, die nicht mit der korrekten Bezeichnung gemäss deren Verleihung verwendet werden, können entzogen werden.
 
 <sup>2</sup> Titel, die durch Täuschung oder irrtümlich erworben wurden, werden auf Antrag der betroffenen Fakultät durch den Senat widerrufen.
 
