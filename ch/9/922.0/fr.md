@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1986 sur la chasse et la protection des mammif
 short: LChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: fr
-version: 2023-12-01
+version: 2025-02-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20231201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20250201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/fr"
 
 (Loi sur la chasse, LChP)
 
-du 20 juin 1986 (État le 1<sup>er</sup> décembre 2023)
+du 20 juin 1986 (État le 1<sup>er</sup> février 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -26,7 +26,7 @@ vu les art. 74, al. 1, 78, al. 4, 79 et 80, al. 1, de la Constitution[^ingress-1
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^ingress-3]: [FF 1983 II 1229](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)
 
 ## Chapitre 1 But et champ d’application
@@ -64,13 +64,15 @@ La loi concerne les animaux suivants vivant en Suisse à l’état sauvage:
 
 **Principes**
 
-<sup>1</sup> Les cantons réglementent et organisent la chasse. Ce faisant, ils tiennent compte des conditions locales ainsi que des exigences de l’agriculture et de la protection de la nature. Le traitement soutenu des forêts et la régénération naturelle par des essences en station doivent être assurés.
+<sup>1</sup> Les cantons réglementent et organisent la chasse conformément aux principes du développement durable et coordonnent entre eux la planification de la chasse si nécessaire. Ils tiennent compte des conditions locales ainsi que des exigences de l’agriculture, de la protection de la nature ainsi que de la protection et de la santé des animaux. La faune sauvage est régulée de sorte à garantir la gestion durable des forêts et la régénération naturelle par des essences adaptées à la station et à pouvoir éviter des dommages importants aux cultures vivrières.[^3-1]
 
 <sup>2</sup> Ils fixent les conditions de l’autorisation de chasser, déterminent le régime et le territoire de chasse, et pourvoient à une surveillance efficace.
 
 <sup>3</sup> Ils établissent, conformément aux prescriptions du Conseil fédéral, une statistique du nombre des animaux tirés et de la population des espèces les plus importantes.
 
 <sup>4</sup> Le Conseil fédéral détermine les moyens et engins de chasse dont l’usage est prohibé. Il fait établir une statistique fédérale de la chasse.
+
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 4
 
@@ -154,7 +156,7 @@ Les espèces suivantes peuvent être chassées toute l’année:
 
 <sup>1</sup> Tous les animaux visés à l’art. 2 qui n’appartiennent pas à une espèce pouvant être chassée, sont protégés (espèces protégées).
 
-<sup>2</sup> et <sup>3</sup> …[^7-1]
+<sup>2 et <sup>3</sup></sup> …[^7-1]
 
 <sup>4</sup> Les cantons assurent une protection suffisante des mammifères et des oiseaux sauvages contre les dérangements.
 
@@ -184,13 +186,21 @@ Ces régulations ne doivent pas mettre en danger l’effectif de la population e
 - b. prévenir un dommage ou un danger pour l’homme lorsqu’il apparaît que des mesures de protection raisonnables ne seront pas suffisantes, ou
 - c. préserver des populations sauvages adaptées au niveau régional.
 
-[^7a-1]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+<sup>3</sup> La Confédération alloue aux cantons, sur la base de conventions-programmes, des aides financières globales pour couvrir les frais de surveillance et de mise en œuvre des mesures de gestion des espèces visées à l’al. 1.
+
+[^7a-1]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023, sous réserve de l’al. 3, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 8
 
-**Tir d’animaux blessés et malades**
+**Protection des animaux sauvages**[^8-1]
 
-Les gardes-chasse, les surveillants et les locataires d’une chasse sont autorisés à abattre des animaux blessés et malades également en dehors des périodes d’ouverture de la chasse. De tels tirs doivent être immédiatement annoncés à l’autorité cantonale de la chasse.
+<sup>1</sup> Les titulaires d’une autorisation de chasser qui ont blessé des animaux sauvages lors de la chasse ou qui ne sont pas en mesure de l’évaluer clairement, assurent la recherche en temps utile et dans les règles de l’art. Les cantons définissent les modalités.
+
+<sup>2</sup> Les gardes-chasse et les surveillants de la chasse sont autorisés à abattre à tout moment des animaux blessés ou malades. Les cantons peuvent autoriser les titulaires d’une autorisation de chasser à abattre en tout temps des animaux blessés ou malades d’espèces pouvant être chassées. Ces tirs d’abattage doivent être immédiatement annoncés à l’autorité cantonale de la chasse.
+
+<sup>3</sup> Afin de prévenir les accidents avec des animaux sauvages et d’assurer la perméabilité du paysage pour les animaux sauvages, en particulier dans les corridors faunistiques suprarégionaux selon l’art. 11*a*, les cantons prennent des dispositions de sorte que les clôtures soient construites et entretenues dans les règles de l’art.
+
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 9
 
@@ -229,37 +239,61 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>5</sup> La chasse est interdite dans les districts francs et les réserves d’oiseaux. Les organes cantonaux d’exécution peuvent cependant y autoriser le tir d’animaux non protégés lorsque l’exigent la sauvegarde des biotopes, la conservation de la diversité des espèces, des raisons cynégétiques ou la prévention de dommages excessifs causés par le gibier.
 
-<sup>6</sup> Le Conseil fédéral édicte les dispositions concernant la protection dans les réserves de sauvagine et d’oiseaux migrateurs, d’importance internationale et nationale, ainsi que dans les districts francs fédéraux. La Confédération alloue aux cantons, sur la base de conventions-programmes, des indemnités globales pour les frais de surveillance de ces réserves et de ces districts.[^11-1]
+<sup>6</sup> Le Conseil fédéral édicte les dispositions concernant la protection dans les réserves de sauvagine et d’oiseaux migrateurs, d’importance internationale et nationale, ainsi que dans les districts francs fédéraux. La Confédération alloue aux cantons, sur la base de conventions-programmes, des indemnités globales pour les frais de surveillance de ces réserves et de ces districts ainsi que des aides financières pour les coûts liés aux mesures de conservation des espèces et des milieux naturels dans ces réserves et districts ainsi que dans les réserves et districts visés à l’al. 4.[^11-1]
 
-[^11-1]: Nouvelle teneur de la phrase selon le ch. II 31 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+
+#### Art. 11a
+
+**Corridors faunistiques suprarégionaux**[^11a-1]
+
+<sup>1</sup> D’entente avec les cantons, le Conseil fédéral désigne des corridors faunistiques d’importance suprarégionale, destinés à relier les biotopes des animaux sauvages sur un vaste périmètre.
+
+<sup>2</sup> La Confédération et les cantons veillent, dans les limites de leurs compétences, à assurer la garantie territoriale des corridors faunistiques suprarégionaux et à maintenir ces derniers dans un état fonctionnel.
+
+<sup>3</sup> Sur la base de conventions-programmes, la Confédération accorde aux cantons des indemnités globales pour les mesures visant à maintenir les corridors faunistiques suprarégionaux dans un état fonctionnel. Le montant de ces indemnités dépend de l’ampleur des mesures et de la nécessité d’assainir les corridors.
+
+[^11a-1]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 ## Chapitre 4 Dommages causés par la faune sauvage
 
 #### Art. 12
 
-**Prévention des dommages causés par la faune sauvage**
+**Prévention des dommages causés par la faune sauvage et du danger pour l’homme[^12-1]**
 
 <sup>1</sup> Les cantons prennent des mesures pour prévenir les dommages dus à la faune sauvage.
 
-<sup>2</sup> Les cantons peuvent ordonner ou autoriser en tout temps des mesures contre certains animaux protégés ou pouvant être chassés, lorsqu’ils causent des dégâts importants. Seuls des personnes titulaires d’une autorisation de chasser ou des organes de surveillance peuvent être chargés de l’exécution de ces mesures.[^12-1]
+<sup>2</sup> Ils peuvent ordonner ou autoriser en tout temps des mesures contre certains animaux protégés ou pouvant être chassés, lorsque ceux-ci causent des dommages importants ou représentent un danger pour l’homme.[^12-2] Seuls des personnes titulaires d’une autorisation de chasser ou des organes de surveillance peuvent être chargés de l’exécution de ces mesures.[^12-3]
 
-<sup>2bis</sup> Le Conseil fédéral peut désigner des espèces protégées pour lesquelles la compétence d’ordonner les mesures prévues à l’al. 2 appartient à l’Office fédéral.[^12-2]
+<sup>2bis</sup> Le Conseil fédéral peut désigner des espèces protégées pour lesquelles la compétence d’ordonner les mesures prévues à l’al. 2 appartient à l’Office fédéral.[^12-4]
 
-<sup>3</sup> Les cantons déterminent les mesures qui peuvent légalement être prises à titre individuel en vue de protéger du gibier les animaux domestiques, les biens-fonds et les cultures.[^12-3] Le Conseil fédéral désigne les espèces protégées contre lesquelles il est permis de prendre de telles mesures.
+<sup>3</sup> Les cantons déterminent les mesures qui peuvent légalement être prises à titre individuel en vue de protéger du gibier les animaux domestiques, les biens-fonds et les cultures.[^12-5] Le Conseil fédéral désigne les espèces protégées contre lesquelles il est permis de prendre de telles mesures.
 
-<sup>4</sup> Lorsque la population d’animaux d’une espèce protégée est trop nombreuse et qu’il en résulte d’importants dommages ou un grave danger, les cantons peuvent prendre des mesures pour la réduire, avec l’assentiment préalable du Département. Est réservée la régulation de populations d’espèces au sens de l’art. 7*a*, al. 1 et 2.[^12-4]
+<sup>4</sup> Lorsque la population d’animaux d’une espèce protégée est trop nombreuse et qu’il en résulte d’importants dommages ou un grave danger, les cantons peuvent prendre des mesures pour la réduire, avec l’assentiment préalable du Département. Est réservée la régulation de populations d’espèces au sens de l’art. 7*a*, al. 1 et 2.[^12-6]
 
-<sup>4bis</sup> Les loups appartenant à une meute peuvent faire l’objet d’une mesure de régulation entre le 1<sup>er</sup> juin et le 31 août, avec l’accord préalable de l’Office fédéral, si la meute concernée cause des dommages, notamment en attaquant des animaux de rente, bovidés ou équidés. Le Conseil fédéral arrête les conditions de régulation.[^12-5]
+<sup>4bis</sup> Les loups appartenant à une meute peuvent faire l’objet d’une mesure de régulation entre le 1<sup>er</sup> juin et le 31 août, avec l’accord préalable de l’Office fédéral, si la meute concernée cause des dommages, notamment en attaquant des animaux de rente, bovidés ou équidés. Le Conseil fédéral arrête les conditions de régulation.[^12-7]
 
-<sup>5</sup> La Confédération encourage et coordonne les mesures des cantons visant à prévenir les dommages causés par les grands prédateurs aux animaux de rente.[^12-6] Elle peut charger des collectivités de droit public ou des particuliers d’exécuter ces tâches contre rémunération.[^12-7]
+<sup>5</sup>
 
-[^12-1]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-2]: Introduit par l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+La Confédération encourage et coordonne les mesures des cantons visant à prévenir les dommages causés par:
+
+- a. les grands prédateurs aux animaux de rente, ou
+- b. les castors aux bâtiments et installations d’intérêt public, aux chemins de desserte pour les exploitations agricoles ou aux berges jouant un rôle important pour la sécurité contre les crues.[^12-8]
+
+<sup>6</sup> Elle peut charger des collectivités de droit public ou des particuliers d’exécuter les tâches visées à l’al. 5 contre rémunération.[^12-9]
+
+<sup>7</sup> La Confédération définit, en concertation avec les cantons, les principes régissant les mesures de protection des troupeaux et les conditions auxquelles ces mesures sont considérées comme raisonnables; le canton définit les exigences en matière de faisabilité des mesures de protection des troupeaux.[^12-10]
+
+[^12-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 [^12-3]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-4]: Phrase introduite par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
-[^12-5]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
-[^12-6]: Introduit par l’annexe ch. 9 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-7]: Phrase introduite par l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-4]: Introduit par l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-5]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-6]: Phrase introduite par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-7]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-8]: Introduit par l’annexe ch. 9 de la LF du 22 mars 2013 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-9]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-10]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 13
 
@@ -271,25 +305,34 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>3</sup> La Confédération alloue aux cantons, sur la base de conventions-programmes, des indemnités globales pour couvrir les frais d’indemnisation des dégâts causés par la faune sauvage dans les réserves ou districts visés à l’art. 11, al. 6.[^13-1]
 
-<sup>4</sup> La Confédération et les cantons participent à l’indemnisation des dommages causés par certains animaux protégés. Le Conseil fédéral, après avoir consulté les cantons, détermine ces espèces protégées et fixe les conditions d’indemnisation.
+<sup>4</sup> La Confédération et les cantons participent à l’indemnisation des dommages causés par certains animaux protégés à la forêt, aux cultures et aux animaux de rente, si des mesures raisonnables ont été prises pour prévenir ces dommages.[^13-2] Le Conseil fédéral, après avoir consulté les cantons, détermine ces espèces protégées et fixe les conditions d’indemnisation.
+
+<sup>5</sup> La Confédération et les cantons participent, en sus de l’al. 4, à l’indemnisation des dommages causés par les castors aux bâtiments et installations d’intérêt public, aux infrastructures de transport privées ainsi qu’aux berges si leur dégradation ne permet plus de garantir la sécurité contre les crues. Les indemnités ne sont versées que si des mesures raisonnables ont été prises pour prévenir ces dommages.[^13-3]
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^13-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^13-3]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 ## Chapitre 5 Information, formation et recherche
 
 #### Art. 14
 
-<sup>1</sup> Les cantons veillent à ce que la population soit suffisamment informée sur le mode de vie, les besoins et la protection de la faune sauvage.
+<sup>1</sup> La Confédération et les cantons veillent à ce que la population soit suffisamment informée sur le mode de vie, les besoins et la protection de la faune sauvage, en particulier sur les grands prédateurs et la cohabitation avec eux.[^14-1]
 
-<sup>2</sup> Ils règlent la formation et la formation continue des surveillants de la faune sauvage et des chasseurs. La Confédération organise des cours pour la formation continue complémentaire du personnel affecté à la surveillance des zones protégées de la Confédération.[^14-1]
+<sup>2</sup> Ils règlent la formation et la formation continue des surveillants de la faune sauvage et des chasseurs. La Confédération organise des cours pour la formation continue complémentaire du personnel affecté à la surveillance des zones protégées de la Confédération.[^14-2]
 
 <sup>3</sup> La Confédération encourage l’étude des animaux sauvages, de leurs maladies et de leurs biotopes. À cet effet, l’Office fédéral peut déroger aux dispositions de la présente loi concernant les animaux protégés. Les dérogations qui ont trait aux animaux pouvant être chassés sont du ressort des cantons.
 
-<sup>4</sup> La Confédération gère le Centre suisse de documentation sur la recherche concernant la faune sauvage. Elle encourage l’information du public et peut allouer des subventions à des centres de recherche et à d’autres institutions de formation et de recherche d’importance nationale.
+<sup>4</sup> La Confédération gère le Centre suisse de recherche, de documentation et de conseil sur la gestion de la faune sauvage. Elle encourage l’information du public et peut allouer des subventions à des centres de recherche et à d’autres institutions de formation, de recherche ou de conseil d’importance nationale.[^14-3]
+
+<sup>4bis</sup> En collaboration avec les cantons, la Confédération recense et documente les populations de grands prédateurs, leur rôle dans l’écosystème et les dommages directs et indirects causés par eux, et en informe le public.[^14-4]
 
 <sup>5</sup> Le Conseil fédéral édicte des prescriptions sur le marquage des mammifères et des oiseaux sauvages.
 
-[^14-1]: Nouvelle teneur selon l’annexe ch. 43 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^14-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^14-2]: Nouvelle teneur selon l’annexe ch. 43 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^14-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^14-4]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 ## Chapitre 6 Responsabilité et assurance
 
@@ -357,7 +400,8 @@ Est puni de l’amende jusqu’à 20 000 francs quiconque, intentionnellement et
 - e. n’observe pas les mesures visant à protéger les animaux contre les dérangements;
 - f. déniche des œufs ou de jeunes oiseaux d’espèces pouvant être chassées;
 - g. brûle sur de grandes surfaces des talus, des lisières de champs ou des pâturages ou élimine des haies;
-- h. entrave l’exercice de la chasse.
+- h. entrave l’exercice de la chasse;
+- i.[^18-2] omet de rechercher en temps utile et dans les règles de l’art un animal qu’il a blessé lors de la chasse ou dont il ne peut évaluer clairement s’il l’a blessé au cours de la chasse.
 
 <sup>2</sup> La tentative et la complicité sont punissables.
 
@@ -368,6 +412,7 @@ Est puni de l’amende jusqu’à 20 000 francs quiconque, intentionnellement et
 <sup>5</sup> Les cantons peuvent réprimer en tant que contravention d’autres infractions au droit cantonal.
 
 [^18-1]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^18-2]: Introduite par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 19
 

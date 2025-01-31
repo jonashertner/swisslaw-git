@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz wildlebende
 short: JSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: de
-version: 2023-12-01
+version: 2025-02-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20231201/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20231201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20250201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/de"
 
 (Jagdgesetz, JSG)
 
-vom 20. Juni 1986 (Stand am 1. Dezember 2023)
+vom 20. Juni 1986 (Stand am 1. Februar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -64,13 +64,15 @@ Dieses Gesetz bezieht sich auf die folgenden in der Schweiz wildlebenden Tiere:
 
 **Grundsätze**
 
-<sup>1</sup> Die Kantone regeln und planen die Jagd. Sie berücksichtigen dabei die örtlichen Verhältnisse sowie die Anliegen der Landwirtschaft und des Naturschutzes. Die nachhaltige Bewirtschaftung der Wälder und die natürliche Verjüngung mit standortgemässen Baumarten sollen sichergestellt sein.
+<sup>1</sup> Die Kantone regeln und planen die Jagd nach den Grundsätzen der Nachhaltigkeit und koordinieren die Jagdplanung soweit erforderlich untereinander. Sie berücksichtigen dabei die örtlichen Verhältnisse sowie die Anliegen der Landwirtschaft, des Naturschutzes, des Tierschutzes und der Tiergesundheit. Die Regulierung der Wildbestände wird so gestaltet, dass die nachhaltige Bewirtschaftung der Wälder und die natürliche Verjüngung mit standortgerechten Baumarten gesichert sind und grosse Schäden an Lebensmittelkulturen vermieden werden können.[^3-1]
 
 <sup>2</sup> Sie bestimmen die Voraussetzungen für die Jagdberechtigung, legen das Jagdsystem und das Jagdgebiet fest und sorgen für eine wirkungsvolle Aufsicht.
 
 <sup>3</sup> Sie führen nach den Vorschriften des Bundesrates eine Statistik über den Abschuss und den Bestand der wichtigsten Arten.
 
 <sup>4</sup> Der Bundesrat bestimmt die für die Jagd verbotenen Hilfsmittel. Er lässt eine eidgenössische Jagdstatistik erstellen.
+
+[^3-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 4
 
@@ -90,21 +92,36 @@ Dieses Gesetz bezieht sich auf die folgenden in der Schweiz wildlebenden Tiere:
 
 Die jagdbaren Arten und die Schonzeiten werden wie folgt festgelegt:
 
-- a. Rothirsch vom 1. Februar bis 31. Juli
-- b. Wildschwein vom 1. Februar bis 30. Juni
-- c. Damhirsch, Sikahirsch und Mufflon vom 1. Februar bis 31. Juli
-- d. Reh vom 1. Februar bis 30. April
-- e. Gämse vom 1. Januar bis 31. Juli
-- f. Feldhase, Schneehase und Wildkaninchen vom 1. Januar bis 30. September
-- g. Murmeltier vom 16. Oktober bis 31. August
-- h. Fuchs vom 1. März bis 15. Juni
-- i. Dachs vom 16. Januar bis 15. Juni
-- k. Edelmarder und Steinmarder vom 16. Februar bis 31. August
-- l. Birkhahn, Schneehuhn und Rebhuhn vom 1. Dezember bis 15. Oktober
-- m. Ringeltaube, Türkentaube, Kolkrabe und Nebelkrähe vom 16. Februar bis 31. Juli
-- n. Fasan vom 1. Februar bis 31. August
-- o. Haubentaucher, Blässhuhn, Kormoran und Wildenten vom 1. Februar bis 31. August;
-- p. Waldschnepfe vom 15. Dezember bis 15. September
+- a. Rothirsch
+- vom 1. Februar bis 31. Juli
+- b. Wildschwein
+- vom 1. Februar bis 30. Juni
+- c. Damhirsch, Sikahirsch und Mufflon
+- vom 1. Februar bis 31. Juli
+- d. Reh
+- vom 1. Februar bis 30. April
+- e. Gämse
+- vom 1. Januar bis 31. Juli
+- f. Feldhase, Schneehase und Wildkaninchen
+- vom 1. Januar bis 30. September
+- g. Murmeltier
+- vom 16. Oktober bis 31. August
+- h. Fuchs
+- vom 1. März bis 15. Juni
+- i. Dachs
+- vom 16. Januar bis 15. Juni
+- k. Edelmarder und Steinmarder
+- vom 16. Februar bis 31. August
+- l. Birkhahn, Schneehuhn und Rebhuhn
+- vom 1. Dezember bis 15. Oktober
+- m. Ringeltaube, Türkentaube, Kolkrabe und Nebelkrähe
+- vom 16. Februar bis 31. Juli
+- n. Fasan
+- vom 1. Februar bis 31. August
+- o. Haubentaucher, Blässhuhn, Kormoran und Wildenten
+- vom 1. Februar bis 31. August;
+- p. Waldschnepfe
+- vom 15. Dezember bis 15. September
 
 <sup>2</sup> Bei den Wildenten sind die folgenden Arten geschützt: Wildgänse, Halbgänsearten (Brandgans und Rostgans), Säger und Schwäne sowie Marmelenten, Scheckenten, Kragenenten, Ruderenten, Spatelenten und Kolbenenten.
 
@@ -139,7 +156,7 @@ Während des ganzen Jahres können gejagt werden:
 
 <sup>1</sup> Alle Tiere nach Artikel 2, die nicht zu einer jagdbaren Art gehören, sind geschützt (geschützte Arten).
 
-<sup>2</sup> und <sup>3</sup> …[^7-1]
+<sup>2 und <sup>3</sup></sup> …[^7-1]
 
 <sup>4</sup> Die Kantone sorgen für einen ausreichenden Schutz der wildlebenden Säugetiere und Vögel vor Störung.
 
@@ -169,13 +186,21 @@ Solche Regulierungen dürfen den Bestand der Population nicht gefährden und mü
 - b. das Eintreten eines Schadens oder einer Gefährdung von Menschen zu verhindern, sofern dies durch zumutbare Schutzmassnahmen nicht erreicht werden kann; oder
 - c. regional angemessene Wildbestände zu erhalten.
 
-[^7a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+<sup>3</sup> Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Finanzhilfen an die Kosten für die Aufsicht und die Durchführung von Mass-nahmen zum Umgang mit Arten nach Absatz 1.
+
+[^7a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023, Abs. 3 in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 8
 
-**Abschuss kranker und verletzter Tiere**
+**Wildtierschutz**[^8-1]
 
-Wildhüter, Jagdaufseher und Revierpächter sind berechtigt, verletzte und kranke Tiere auch ausserhalb der Jagdzeit zu erlegen. Solche Abschüsse sind der kantonalen Jagdbehörde unverzüglich zu melden.
+<sup>1</sup> Haben Jagdberechtigte bei der Ausübung der Jagd Wildtiere verletzt oder können sie dies nicht klar beurteilen, so sorgen sie innert nützlicher Frist für eine fachgerechte Nachsuche. Die Kantone regeln die Einzelheiten.
+
+<sup>2</sup> Wildhüterinnen und Wildhüter sowie Jagdaufseherinnen und -aufseher können verletzte oder kranke Tiere jederzeit erlegen. Die Kantone können Jagdberechtigten gestatten, verletzte oder kranke Tiere jagdbarer Arten jederzeit zu erlegen. Solche Abschüsse sind der kantonalen Jagdbehörde unverzüglich zu melden.
+
+<sup>3</sup> Zum Verhüten von Unfällen mit Wildtieren und zur Sicherstellung der Durchlässigkeit der Landschaft für Wildtiere, insbesondere in den Wildtierkorridoren von überregionaler Bedeutung nach Artikel 11*a*, regeln die Kantone den fachgerechten Bau und Unterhalt von Zäunen.
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 9
 
@@ -214,37 +239,61 @@ Eine Bewilligung des Bundes braucht, wer:
 
 <sup>5</sup> In den Jagdbanngebieten und Vogelreservaten ist die Jagd verboten. Die kantonalen Vollzugsorgane können jedoch den Abschuss von jagdbaren Tieren zulassen, wenn es für den Schutz der Lebensräume, für die Erhaltung der Artenvielfalt, zur Hege oder zur Verhütung von übermässigen Wildschäden notwendig ist.
 
-<sup>6</sup> Zu den Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung und den eidgenössischen Jagdbanngebieten erlässt der Bundesrat die Schutzbestimmungen. Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an die Kosten für die Aufsicht dieser Reservate und Gebiete.[^11-1]
+<sup>6</sup> Zu den Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung und den eidgenössischen Jagdbanngebieten erlässt der Bundesrat die Schutzbestimmungen. Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an die Kosten für die Aufsicht dieser Reservate und Gebiete, sowie Finanzhilfen an die Kosten für Massnahmen zur Arten- und Lebensraumförderung in diesen Reservaten und Gebieten sowie in Reservaten und Gebieten nach Absatz 4.[^11-1]
 
-[^11-1]: Fassung zweiter Satz gemäss Ziff. II 31 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^11-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+
+#### Art. 11a
+
+**Überregionale Wildtierkorridore**[^11a-1]
+
+<sup>1</sup> Der Bundesrat bezeichnet im Einvernehmen mit den Kantonen Wildtierkorridore von überregionaler Bedeutung, die der grossräumigen Vernetzung der Lebensräume der Wildtiere dienen.
+
+<sup>2</sup> Bund und Kantone sorgen im Rahmen ihrer Zuständigkeit für die räumliche und funktionale Sicherung der überregionalen Wildtierkorridore.
+
+<sup>3</sup> Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an Massnahmen zur funktionalen Sicherung der überregionalen Wildtierkorridore. Deren Höhe richtet sich nach dem Umfang der Massnahmen und der Sanierungsbedürftigkeit der Korridore.
+
+[^11a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 ## 4. Abschnitt: Wildschaden
 
 #### Art. 12
 
-**Verhütung von Wildschaden**
+**Verhütung von Wildschaden und Gefährdung von Menschen[^12-1]**
 
 <sup>1</sup> Die Kantone treffen Massnahmen zur Verhütung von Wildschaden.
 
-<sup>2</sup> Sie können jederzeit Massnahmen gegen einzelne geschützte oder jagdbare Tiere, die erheblichen Schaden anrichten, anordnen oder erlauben. Mit der Durchführung dieser Massnahmen dürfen sie nur Jagdberechtigte und Aufsichtsorgane beauftragen.[^12-1]
+<sup>2</sup> Sie können jederzeit Massnahmen gegen einzelne geschützte oder jagdbare Tiere, die erheblichen Schaden anrichten oder eine Gefährdung von Menschen darstellen, anordnen oder erlauben.[^12-2] Mit der Durchführung dieser Massnahmen dürfen sie nur Jagdberechtigte und Aufsichtsorgane beauftragen.[^12-3]
 
-<sup>2bis</sup> Der Bundesrat kann geschützte Tierarten bezeichnen, bei denen das Bundesamt die Massnahmen nach Absatz 2 anordnet.[^12-2]
+<sup>2bis</sup> Der Bundesrat kann geschützte Tierarten bezeichnen, bei denen das Bundesamt die Massnahmen nach Absatz 2 anordnet.[^12-4]
 
-<sup>3</sup> Die Kantone bestimmen, welche Selbsthilfemassnahmen gegen jagdbare Tiere zum Schutze von Haustieren, Liegenschaften und landwirtschaftlichen Kulturen zulässig sind.[^12-3] Der Bundesrat bezeichnet die geschützten Tierarten, gegen die solche Selbsthilfemassnahmen ergriffen werden dürfen.
+<sup>3</sup> Die Kantone bestimmen, welche Selbsthilfemassnahmen gegen jagdbare Tiere zum Schutze von Haustieren, Liegenschaften und landwirtschaftlichen Kulturen zulässig sind.[^12-5] Der Bundesrat bezeichnet die geschützten Tierarten, gegen die solche Selbsthilfemassnahmen ergriffen werden dürfen.
 
-<sup>4</sup> Weist eine geschützte Tierart einen zu hohen Bestand auf und entsteht dadurch grosser Schaden oder eine erhebliche Gefährdung, so können die Kantone mit vorheriger Zustimmung des Departements Massnahmen zur Verringerung des Bestandes treffen. Vorbehalten bleibt die Bestandsregulierung von Arten gemäss Artikel 7*a* Absätze 1 und 2.[^12-4]
+<sup>4</sup> Weist eine geschützte Tierart einen zu hohen Bestand auf und entsteht dadurch grosser Schaden oder eine erhebliche Gefährdung, so können die Kantone mit vorheriger Zustimmung des Departements Massnahmen zur Verringerung des Bestandes treffen. Vorbehalten bleibt die Bestandsregulierung von Arten gemäss Artikel 7*a* Absätze 1 und 2.[^12-6]
 
-<sup>4bis</sup> Wölfe eines Rudels dürfen zwischen dem 1. Juni und dem 31. August mit vorgängiger Zustimmung des Bundesamtes reguliert werden, wenn das Rudel Schäden insbesondere an Nutztieren der Rinder- oder Pferdegattung anrichtet. Der Bundesrat regelt die Bedingungen.[^12-5]
+<sup>4bis</sup> Wölfe eines Rudels dürfen zwischen dem 1. Juni und dem 31. August mit vorgängiger Zustimmung des Bundesamtes reguliert werden, wenn das Rudel Schäden insbesondere an Nutztieren der Rinder- oder Pferdegattung anrichtet. Der Bundesrat regelt die Bedingungen.[^12-7]
 
-<sup>5</sup> Der Bund fördert und koordiniert die Massnahmen der Kantone zur Verhütung von Wildschaden, der durch Grossraubtiere an Nutztieren verursacht wird.[^12-6] Er kann gegen Entschädigung öffentlich-rechtliche Körperschaften oder Private mit dem Vollzug dieser Aufgaben beauftragen.[^12-7]
+<sup>5</sup>
 
-[^12-1]: Fassung gemäss Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-2]: Eingefügt durch Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+Der Bund fördert und koordiniert die Massnahme der Kantone zur Verhütung von Wildschaden, der verursacht wird durch:
+
+- a. Grossraubtiere an Nutztieren; oder
+- b. Biber an Bauten und Anlagen, die im öffentlichen Interesse liegen, und an Erschliessungswegen für Landwirtschaftsbetriebe oder an Uferböschungen, die für die Hochwassersicherheit von Bedeutung sind.[^12-8]
+
+<sup>6</sup> Er kann gegen Entgelt öffentlich-rechtliche Körperschaften oder Private mit dem Vollzug der Aufgaben nach Absatz 5 beauftragen.[^12-9]
+
+<sup>7</sup> Der Bund legt im Einvernehmen mit den Kantonen die Grundsätze der Herdenschutzmassnahmen und die Anforderungen an die Zumutbarkeit fest; der Kanton die Durchführbarkeit der Herdenschutzmassnahmen.[^12-10]
+
+[^12-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 [^12-3]: Fassung gemäss Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-4]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
-[^12-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
-[^12-6]: Eingefügt durch Anhang Ziff. 9 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356))
-[^12-7]: Satz eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-4]: Eingefügt durch Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-5]: Fassung gemäss Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-6]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-7]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-8]: Eingefügt durch Anhang Ziff. 9 des BG vom 22. März 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-9]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-10]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 13
 
@@ -256,25 +305,34 @@ Eine Bewilligung des Bundes braucht, wer:
 
 <sup>3</sup> Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an die Kosten für die Entschädigung von Wildschaden, der auf ein Reservat oder Gebiet nach Artikel 11 Absatz 6 zurückzuführen ist.[^13-1]
 
-<sup>4</sup> Bund und Kantone beteiligen sich an der Vergütung von Schaden, der durch Tiere bestimmter geschützter Arten verursacht wird. Der Bundesrat bestimmt nach Anhören der Kantone diese geschützten Tierarten und die Voraussetzungen der Entschädigungspflicht.
+<sup>4</sup> Bund und Kantone beteiligen sich an der Vergütung von Schaden an Wald, landwirtschaftlichen Kulturen und Nutztieren, den Tiere bestimmter geschützter Arten verursachen, soweit die zumutbaren Massnahmen zur Verhütung von Wildschaden getroffen worden sind.[^13-2] Der Bundesrat bestimmt nach Anhören der Kantone diese geschützten Tierarten und die Voraussetzungen der Entschädigungspflicht.
+
+<sup>5</sup> Bei Schaden, den Biber verursachen, beteiligen sich Bund und Kantone zusätzlich zu Absatz 4 auch an der Vergütung von Schaden an Bauten und Anlagen, die im öffentlichen Interesse liegen, an privaten Verkehrsinfrastrukturen sowie an Uferböschungen, wenn durch deren Schädigung die Hochwassersicherheit nicht mehr gewährleistet werden kann. Entschädigungen werden nur ausgerichtet, soweit die zumutbaren Massnahmen zur Verhütung von Wildschaden getroffen wurden.[^13-3]
 
 [^13-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^13-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^13-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 ## 5. Abschnitt: Information, Ausbildung und Forschung
 
 #### Art. 14
 
-<sup>1</sup> Die Kantone sorgen dafür, dass die Bevölkerung über die Lebensweise der wildlebenden Tiere, ihre Bedürfnisse und ihren Schutz ausreichend informiert wird.
+<sup>1</sup> Bund und Kantone sorgen dafür, dass die Bevölkerung über die Lebensweise der wildlebenden Tiere, ihre Bedürfnisse und ihren Schutz, insbesondere über Grossraubtiere und das Zusammenleben, ausreichend informiert wird.[^14-1]
 
-<sup>2</sup> Sie regeln die Aus- und Weiterbildung der Wildschutzorgane und der Jäger. Für die zusätzliche Weiterbildung der Wildschutzorgane der eidgenössischen Schutzgebiete führt der Bund entsprechende Kurse durch.[^14-1]
+<sup>2</sup> Sie regeln die Aus- und Weiterbildung der Wildschutzorgane und der Jäger. Für die zusätzliche Weiterbildung der Wildschutzorgane der eidgenössischen Schutzgebiete führt der Bund entsprechende Kurse durch.[^14-2]
 
 <sup>3</sup> Der Bund fördert die Erforschung der wildlebenden Tiere, ihrer Krankheiten und ihres Lebensraumes. Zu diesem Zweck kann das Bundesamt für geschützte Tiere Ausnahmen von den Schutzbestimmungen dieses Gesetzes bewilligen. Für Ausnahmebewilligungen, die jagdbare Tiere betreffen, sind die Kantone zuständig.
 
-<sup>4</sup> Der Bund führt die Schweizerische Dokumentationsstelle für Wildforschung. Er fördert die Information der Öffentlichkeit und kann Forschungsstätten und anderen Einrichtungen von gesamtschweizerischer Bedeutung, welche der Bildung und Forschung dienen, Beiträge gewähren.
+<sup>4</sup> Der Bund führt die Schweizerische Forschungs-, Dokumentations- und Beratungsstelle für das Wildtiermanagement. Er fördert die Information der Öffentlichkeit und kann Forschungsstätten und andere Einrichtungen von gesamtschweizerischer Bedeutung, welche der Bildung, Forschung oder Beratung dienen, Beiträge gewähren.[^14-3]
+
+<sup>4bis</sup> Der Bund erfasst und dokumentiert in Zusammenarbeit mit den Kantonen die Bestände der Grossraubtiere, ihre Rolle im Ökosystem und die durch sie verursachten direkten und indirekten Schäden und informiert die Öffentlichkeit darüber.[^14-4]
 
 <sup>5</sup> Der Bundesrat erlässt Vorschriften über das Markieren von wildlebenden Säugetieren und Vögeln.
 
-[^14-1]: Fassung gemäss Anhang Ziff. 43 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^14-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^14-2]: Fassung gemäss Anhang Ziff. 43 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^14-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^14-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 ## 6. Abschnitt: Haftpflicht und Versicherung
 
@@ -342,7 +400,8 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich und ohne Berecht
 - e. Massnahmen zum Schutze der Tiere vor Störung missachtet;
 - f. Eier oder Jungvögel jagdbarer Arten ausnimmt;
 - g. Böschungen, Feldraine oder Weiden flächenhaft abbrennt oder Hecken beseitigt;
-- h. den Jagdbetrieb behindert.
+- h. den Jagdbetrieb behindert;
+- i.[^18-2] die fachgerechte Nachsuche innert nützlicher Frist unterlässt, nachdem er oder sie bei der Ausübung der Jagd ein Wildtier verletzt hat oder dies nicht klar beurteilen kann.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
@@ -353,6 +412,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich und ohne Berecht
 <sup>5</sup> Die Kantone können Widerhandlungen gegen kantonales Recht als Übertretungen ahnden.
 
 [^18-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^18-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Febr. 2025 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [2025 11](https://fedlex.data.admin.ch/eli/oc/2025/11); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 19
 
@@ -457,7 +517,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 [^25a-1]
 
-[^25a-1]: Eingefügt durch Anhang Ziff. 10 des Gentechnikgesetzes vom 21. März 2003 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Aufgehoben durch Anhang Ziff. 128 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25a-1]: Eingefügt durch Anhang Ziff. 10 des Gentechnikgesetzes vom 21. März 2003 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Aufgehoben durch Anhang Ziff. 128 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26
 
