@@ -4,13 +4,12 @@ number: "169.112"
 title: Ordonnance sur le notariat
 short: ON
 language: fr
-version: 2022-03-01
-valid_until: 2025-01-31
-version_adopted: 2022-02-02
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2006-04-26
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/169.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2542/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3115/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2542/pdf_file"
 
 (ON)
 
-du 26.04.2006 (état au 01.03.2022)
+du 26.04.2006 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -253,7 +252,7 @@ arrête:
 
 <sup>1</sup> Les locaux d’une étude de notaire doivent, par leur situation, leur installation et leur infrastructure, garantir l’exercice du notariat de manière indépendante et irréprochable.
 
-<sup>2</sup> L’étude doit comprendre au moins un bureau destiné à l’instrumentation des actes notariés et une chancellerie et disposer d’une entrée indépendante. Les locaux doivent être aménagés de manière à garantir un archivage adapté des dossiers ainsi que le respect du secret professionnel.
+<sup>2</sup> L’étude doit comprendre au moins un bureau destiné à l’instrumentation des actes notariés et une chancellerie et disposer d’une entrée indépendante. Les locaux doivent être aménagés de manière à garantir la conservation adaptée des dossiers ainsi que le respect du secret professionnel.
 
 <sup>3</sup> L’étude ne peut servir qu’à la pratique du notariat et d’une autre activité compatible avec celui-ci.
 

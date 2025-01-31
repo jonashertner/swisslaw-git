@@ -4,13 +4,12 @@ number: "169.112"
 title: Notariatsverordnung
 short: NV
 language: de
-version: 2022-03-01
-valid_until: 2025-01-31
-version_adopted: 2022-02-02
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2006-04-26
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/169.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2542/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3115/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2542/pdf_file"
 
 (NV)
 
-vom 26.04.2006 (Stand 01.03.2022)
+vom 26.04.2006 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -253,7 +252,7 @@ beschliesst:
 
 <sup>1</sup> Die Räume des Notariatsbüros müssen nach Lage, Zustand und Infrastruktur Gewähr bieten für eine selbstständige, unabhängige und einwandfreie Berufsausübung.
 
-<sup>2</sup> Das Notariatsbüro muss mindestens aus einem Beurkundungsraum sowie einer Kanzlei bestehen und einen unabhängigen Zugang haben. Die Räume haben Gewähr zu bieten für eine zweckmässige Archivierung der Akten und für die Wahrung der Geheimhaltungspflicht.
+<sup>2</sup> Das Notariatsbüro muss mindestens aus einem Beurkundungsraum sowie einer Kanzlei bestehen und einen unabhängigen Zugang haben. Die Räume haben Gewähr zu bieten für eine zweckmässige Aufbewahrung der Akten und für die Wahrung der Geheimhaltungspflicht.
 
 <sup>3</sup> Das Notariatsbüro darf nur für die berufliche und eine mit ihr vereinbare weitere Tätigkeit verwendet werden.
 
