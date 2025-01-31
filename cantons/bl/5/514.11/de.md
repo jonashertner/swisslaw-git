@@ -3,20 +3,19 @@ canton: BL
 number: "514.11"
 title: Verordnung über die Investitionshilfen in der Landwirtschaft
 language: de
-version: 2023-01-01
-valid_until: 2025-01-31
-version_adopted: 2022-12-06
+version: 2025-02-01
+version_adopted: 2025-02-11
 adopted: 1999-01-26
 in_force: 1999-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/514.11"
-pdf: "https://bl.clex.ch/api/de/versions/3470/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Investitionshilfen in der Landwirtschaft
 
-Vom 26.01.1999 (Stand 01.01.2023)
+Vom 26.01.1999 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -37,8 +36,8 @@ beschliesst:
 - a. Beiträge an landwirtschaftliche Gebäude;
 - b. Investitionskredite;
 - c. Betriebshilfedarlehen;
-- d. Beiträge an Projekte zur Regionalentwicklung, Vermarktung und Verarbeitung;
-- e. Beiträge an Bauten gewerblicher Kleinbetriebe im Berggebiet.
+- d. Beiträge an Projekte zur regionalen Entwicklung sowie an Verarbeitung, Lagerung und Vermarktung;
+- e. Beiträge an Bauten gewerblicher Kleinbetriebe.
 
 #### § 2
 
@@ -72,7 +71,7 @@ beschliesst:
 
 **Zuständigkeit der Kommission**
 
-<sup>1</sup> Die Kommission ist zuständig für die Gewährung von Kantonsbeiträgen sowie Investitionskrediten und Betriebshilfedarlehen, die zusammen und unter Berücksichtigung bestehender Kreditsalden sowie von Bundesbeiträgen CHF 50'000.– pro Fall übersteigen.
+<sup>1</sup> Die Kommission ist zuständig für die Gewährung von Kantonsbeiträgen sowie Investitionskrediten und Betriebshilfedarlehen, die zusammen und unter Berücksichtigung bestehender Kreditsalden sowie von Bundesbeiträgen CHF 50'000.– pro Fall übersteigen. Bei Kantonsbeiträgen oder Investitionskrediten von weniger als CHF 20'000.– pro Fall kann auf die Berücksichtigung bestehender Kreditsalden verzichtet werden.
 
 <sup>2</sup> Die Kommission entscheidet über Rückerstattungen in Zusammenhang mit der Zweckentfremdung landwirtschaftlicher Gebäude.
 
@@ -94,7 +93,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Gebäude, welche die Bedingungen für besonders tierfreundliche Stallhaltungssysteme erfüllen, werden mit einem kantonalen Zusatzbeitrag in Höhe von 10 % des entsprechenden Investitionskredites gefördert.
+<sup>3</sup> …
 
 <sup>4</sup> Bauliche Massnahmen und Einrichtungen zur Verwirklichung ökologischer Ziele im Bereich der Minderung von Ammoniakemissionen werden mit einem kantonalen Zusatzbeitrag in Höhe von 25 % des entsprechenden Bundesbeitrags gefördert.
 
@@ -142,13 +141,13 @@ beschliesst:
 
 [^10a-1]: [SGS 515.11](https://bl.clex.ch/data/515.11/de)
 
-## 5 Projekte zur regionalen Entwicklung und gewerbliche Kleinbetriebe im Berggebiet
+## 5 Projekte zur regionalen Entwicklung, gewerbliche Kleinbetriebe sowie Verarbeitung, Lagerung und Vermarktung
 
 #### § 10b
 
 **Grundsatz**
 
-<sup>1</sup> Beiträge an Projekte zur regionalen Entwicklung, Vermarktung und Verarbeitung werden gemäss eidgenössischem Recht gewährt.
+<sup>1</sup> Der Einsatz der Mittel an Projekte zur regionalen Entwicklung, an gewerbliche Kleinbetriebe sowie an Verarbeitung, Lagerung und Vermarktung erfolgt gemäss eidgenössischem Recht.
 
 #### § 10c
 
@@ -156,7 +155,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton gewährt die für den Bundesbeitrag erforderliche kantonale Gegenleistung unter Berücksichtigung der vorhandenen Mittel.
 
-<sup>2</sup> An Bauten gewerblicher Kleinbetriebe im Berggebiet werden keine Beiträge gewährt.
+<sup>2</sup> An Bauten gewerblicher Kleinbetriebe sowie an die Verarbeitung, Lagerung und Vermarktung werden ausserhalb von Projekten zur regionalen Entwicklung keine Beiträge gewährt.
 
 <sup>3</sup> Liegt eine Programmvereinbarung vor, sind deren Bestimmungen massgebend.
 
