@@ -4,13 +4,12 @@ number: "213.316.1"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: KESV
 language: de
-version: 2022-01-01
-valid_until: 2025-01-31
-version_adopted: 2021-06-30
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2012-10-24
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.316.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2350/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3116/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2350/pdf_file"
 
 (KESV)
 
-vom 24.10.2012 (Stand 01.01.2022)
+vom 24.10.2012 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -123,7 +122,7 @@ beschliesst:
 
 <sup>1</sup> Wo die räumliche Unterbringung und die übrigen Verhältnisse es zulassen, nutzen die KESB die Infrastruktur gemeinsam mit den Regierungsstatthalterinnen und Regierungsstatthaltern.
 
-<sup>2</sup> Eine gemeinsame Nutzung ist namentlich anzustreben bei der Loge, den Sitzungszimmern, der Bibliothek, dem Archiv und der Informatik-Hardware.
+<sup>2</sup> Eine gemeinsame Nutzung ist namentlich anzustreben bei der Loge, den Sitzungszimmern, der Bibliothek und der Informatik-Hardware.
 
 #### Art. 7
 

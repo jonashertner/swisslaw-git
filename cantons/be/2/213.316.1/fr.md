@@ -4,13 +4,12 @@ number: "213.316.1"
 title: Ordonnance sur la protection de l’enfant et de l’adulte
 short: OPEA
 language: fr
-version: 2022-01-01
-valid_until: 2025-01-31
-version_adopted: 2021-06-30
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2012-10-24
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.316.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2350/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3116/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2350/pdf_file"
 
 (OPEA)
 
-du 24.10.2012 (état au 01.01.2022)
+du 24.10.2012 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -123,7 +122,7 @@ arrête:
 
 <sup>1</sup> Lorsque l’attribution des locaux et les autres circonstances le permettent, les APEA utilisent les mêmes infrastructures que les préfectures.
 
-<sup>2</sup> Une utilisation commune doit notamment être recherchée dans le cas des services de loge, des salles de réunion, de la bibliothèque, des archives et du matériel informatique.
+<sup>2</sup> Une utilisation commune doit notamment être recherchée dans le cas des services de loge, des salles de réunion, de la bibliothèque et du matériel informatique.
 
 #### Art. 7
 
