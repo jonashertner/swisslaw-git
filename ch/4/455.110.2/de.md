@@ -4,11 +4,11 @@ title: Verordnung des BLV vom 8. November 2021 über den Tierschutz beim Schlach
 short: VTSchS
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: de
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2021-694-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2021-694-20250201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/de"
 
 (VTSchS)
 
-vom 8. November 2021 (Stand am 1. Februar 2024)
+vom 8. November 2021 (Stand am 1. Februar 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -605,11 +605,13 @@ Bei der stumpfen Schussschlagbetäubung von Hauskaninchen ist der Betäubungserf
 
   - – Ausfall des Lid- und des Cornealreflexes.
 
-Anhang 4
+Anhang 4[^t-1]
 
 (Art. 4, 6 Abs. 2 und 9)
 
-## Elektrobetäubung einzelner Tiere bei Rindern, Schweinen, Schafen, Ziegen, Hausgeflügel, Hauskaninchen und Laufvögeln
+## Elektrobetäubung einzelner Tiere bei Rindern, Schweinen, Schafen, Ziegen, Hausgeflügel und Laufvögeln
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 24](https://fedlex.data.admin.ch/eli/oc/2025/24)).
 
 ### 1 Anforderungen an Anlagen und Geräte
 
@@ -651,7 +653,7 @@ Anhang 4
 - 2\.3 Die Elektroden sind im Bereich der Ohrbasis, nach Möglichkeit von hinten, so anzusetzen, dass eine erfolgreiche Durchströmung des Gehirns gewährleistet ist (Kopfdurchströmung).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/de/xml/image/image33.png)</td><td>[tab]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20250201/de/xml/image/image33.png)</td><td>[tab]</td></tr>
 </table>
 
 Zangenansatz Kopf am Beispiel Schwein
@@ -660,12 +662,12 @@ Zangenansatz Kopf am Beispiel Schwein
 
 Zangenansatz Kopf–Herz am Beispiel Schwein
 
-### 3 Parameter für die Kopfdurchströmung bei Rindern, Schweinen, Schafen, Ziegen und Hauskaninchen
+### 3 Parameter für die Kopfdurchströmung bei Rindern, Schweinen, Schafen und Ziegen
 
-- 3\.1 Bei Rindern, Schweinen, Schafen, Ziegen und Hauskaninchen müssen bei der Kopfdurchströmung innerhalb der ersten Sekunde folgende minimale Stromstärken erreicht werden:
+- 3\.1 Bei Rindern, Schweinen, Schafen und Ziegen müssen bei der Kopfdurchströmung innerhalb der ersten Sekunde folgende minimale Stromstärken erreicht werden:
 
 <table>
-<tr><td>Tierkategorie</td><td>Stromstärke in Ampère</td></tr>
+<tr><th>Tierkategorie</th><th>Stromstärke in Ampère</th></tr>
 <tr><td>Rinder bis 200 kg Lebendgewicht</td><td>1,3 A</td></tr>
 <tr><td>Rinder über 200 bis 600 kg Lebendgewicht</td><td>1,5 A</td></tr>
 <tr><td>Rinder über 600 kg Lebendgewicht</td><td>2,0 A</td></tr>
@@ -673,7 +675,6 @@ Zangenansatz Kopf–Herz am Beispiel Schwein
 <tr><td>Schweine bis 110 kg Lebendgewicht</td><td>1,3 A</td></tr>
 <tr><td>Schweine über 110 bis 160 kg Lebendgewicht</td><td>1,5 A</td></tr>
 <tr><td>Schweine über 160 kg Lebendgewicht</td><td>2,0 A</td></tr>
-<tr><td>Hauskaninchen</td><td>0,4 A</td></tr>
 </table>
 
 - 3\.2
@@ -718,7 +719,7 @@ Zangenansatz Kopf–Herz am Beispiel Schwein
 
 - 6\.1
 
-  Bei Rindern, Schweinen, Schafen, Ziegen und Hauskaninchen ist der Betäubungserfolg anhand folgender Leitsymptome zu überprüfen:
+  Bei Rindern, Schweinen, Schafen und Ziegen ist der Betäubungserfolg anhand folgender Leitsymptome zu überprüfen:
 
   - a.
 
@@ -762,7 +763,7 @@ Zangenansatz Kopf–Herz am Beispiel Schwein
 
 ### 7 Zeitdauer bis zur Entblutung
 
-- 7\.1 Folgt auf die Kopfdurchströmung keine Herzdurchströmung, so muss der Entblutungsschnitt bei Rindern, Schweinen, Hausgeflügel, Hauskaninchen und Laufvögeln innerhalb von 10 Sekunden nach der Kopfdurchströmung erfolgen, bei Schafen und Ziegen innerhalb von 5 Sekunden.
+- 7\.1 Folgt auf die Kopfdurchströmung keine Herzdurchströmung, so muss der Entblutungsschnitt bei Rindern, Schweinen, Hausgeflügel und Laufvögeln innerhalb von 10 Sekunden nach der Kopfdurchströmung erfolgen, bei Schafen und Ziegen innerhalb von 5 Sekunden.
 - 7\.2 Nach der Herzdurchströmung muss der Entblutungsschnitt spätestens innerhalb von 30 Sekunden erfolgen.
 
 Anhang 5
@@ -930,13 +931,13 @@ Anhang 6
   - c. keine Reaktion der Augen auf Antippen des Panzers; und
   - d. keine Reaktion auf Berührung im Bereich der Kauwerkzeuge.
 
-Anhang 7[^t-1]
+Anhang 7[^t-2]
 
 (Art. 4, 6 Abs. 2 und 9)
 
 ## Kohlendioxidbetäubung von Schweinen
 
-[^t-1]: Die Berichtigung vom 7. Febr. 2022 betrifft nur den französischen Text ([AS 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69))
+[^t-2]: Die Berichtigung vom 7. Febr. 2022 betrifft nur den französischen Text ([AS 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69))
 
 ### 1 Anforderungen an Anlagen und Geräte
 

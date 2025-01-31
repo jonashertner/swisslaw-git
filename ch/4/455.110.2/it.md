@@ -4,11 +4,11 @@ title: "Ordinanza dell’USAV dell'8 novembre 2021 concernente la protezione deg
 short: OPAnMac
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: it
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2021-694-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2021-694-20250201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/it"
 
 (OPAnMac)
 
-dell’8 novembre 2021 (Stato 1° febbraio 2024)
+dell’8 novembre 2021 (Stato 1° febbraio 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -45,7 +45,7 @@ Si applica all’interno e all’esterno dei macelli per la macellazione di:
 - f. pesci e decapodi in aziende d’acquacoltura, aziende commerciali e di ristorazione.
 
 [^1-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^1-2]: Nuovo testo giusta il n. I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 824](https://fedlex.data.admin.ch/eli/oc/2023/824)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 824](https://fedlex.data.admin.ch/eli/oc/2023/824)).
 
 ## Sezione 2: Requisiti relativi allo stordimento
 
@@ -352,7 +352,7 @@ Le aziende devono documentare la verifica dell’efficacia dello stordimento di 
 
 L’ordinanza dell’USAV del 12 agosto 2010[^29-1] concernente la protezione degli animali nella macellazione è abrogata.
 
-[^29-1]: [[RU 2010 4245](https://fedlex.data.admin.ch/eli/oc/2010/615), [4957](https://fedlex.data.admin.ch/eli/oc/2010/701); [2011 4489](https://fedlex.data.admin.ch/eli/oc/2011/620); [2018 637](https://fedlex.data.admin.ch/eli/oc/2018/81)n. II]
+[^29-1]: [[RU 2010 4245](https://fedlex.data.admin.ch/eli/oc/2010/615), [4957](https://fedlex.data.admin.ch/eli/oc/2010/701); [2011 4489](https://fedlex.data.admin.ch/eli/oc/2011/620); [2018 637](https://fedlex.data.admin.ch/eli/oc/2018/81)cifra II]
 
 #### Art. 30
 
@@ -605,11 +605,13 @@ Nel caso dello stordimento dei conigli domestici con uno strumento che spara a p
 
   - – assenza di riflesso palpebrale e corneale.
 
-Allegato 4
+Allegato 4[^t-1]
 
 (art. 4, 6 cpv. 2 e art. 9)
 
-## Elettronarcosi di singoli animali per bovini, suini, ovini, caprini, volatili da cortile, conigli domestici e ratiti
+## Elettronarcosi di singoli animali per bovini, suini, ovini, caprini, volatili da cortile e ratiti
+
+[^t-1]: Aggiornato dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 24](https://fedlex.data.admin.ch/eli/oc/2025/24)).
 
 ### 1 Requisiti degli impianti e degli apparecchi
 
@@ -651,7 +653,7 @@ Allegato 4
 - 2\.3 Gli elettrodi devono essere applicati nella zona situata alla base delle orecchie, possibilmente da dietro, in modo che la corrente possa attraversare efficacemente il cervello (applicazione di corrente alla testa).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/it/xml/image/image33.png)</td><td>[tab]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20250201/it/xml/image/image33.png)</td><td>[tab]</td></tr>
 </table>
 
 Applicazione della pinza alla testa, esempio: suino
@@ -660,12 +662,12 @@ Applicazione della pinza alla testa, esempio: suino
 
 Applicazione della pinza alla testa e al cuore, esempio: suino
 
-### 3 Parametri dell’applicazione di corrente alla testa dei bovini, dei suini, degli ovini, dei caprini e dei conigli domestici
+### 3 Parametri dell’applicazione di corrente alla testa dei bovini, dei suini, degli ovini e dei caprini
 
-- 3\.1 Per l’applicazione di corrente alla testa dei bovini, dei suini, degli ovini, dei caprini e dei conigli domestici, l’intensità elettrica deve raggiungere i seguenti valori minimi entro il primo secondo:
+- 3\.1 Per l’applicazione di corrente alla testa dei bovini, dei suini, degli ovini e dei caprini, l’intensità elettrica deve raggiungere i seguenti valori minimi entro il primo secondo:
 
 <table>
-<tr><td>Categoria animale</td><td>Intensità elettrica in ampere</td></tr>
+<tr><th>Categoria animale</th><th>Intensità elettrica in ampere</th></tr>
 <tr><td>Bovini fino a 200 kg di peso vivo</td><td>1,3 A</td></tr>
 <tr><td>Bovini da oltre 200 a 600 kg di peso vivo</td><td>1,5 A</td></tr>
 <tr><td>Bovini di oltre 600 kg di peso vivo</td><td>2,0 A</td></tr>
@@ -673,7 +675,6 @@ Applicazione della pinza alla testa e al cuore, esempio: suino
 <tr><td>Suini fino a 110 kg di peso vivo</td><td>1,3 A</td></tr>
 <tr><td>Suini da oltre 110 a 160 kg di peso vivo</td><td>1,5 A</td></tr>
 <tr><td>Suini di oltre 160 kg di peso vivo</td><td>2,0 A</td></tr>
-<tr><td>Conigli domestici</td><td>0,4 A</td></tr>
 </table>
 
 - 3\.2
@@ -718,7 +719,7 @@ Applicazione della pinza alla testa e al cuore, esempio: suino
 
 - 6\.1
 
-  Nei bovini, suini, ovini, caprini e conigli domestici, l’efficacia dello stordimento deve essere verificata controllando la presenza dei seguenti sintomi principali:
+  Nei bovini, suini, ovini e caprini, l’efficacia dello stordimento deve essere verificata controllando la presenza dei seguenti sintomi principali:
 
   - a.
 
@@ -762,7 +763,7 @@ Applicazione della pinza alla testa e al cuore, esempio: suino
 
 ### 7 Durata fino al dissanguamento
 
-- 7\.1 Per i bovini, i suini, i volatili da cortile, i conigli domestici e i ratiti se l’applicazione di corrente alla testa non è seguita da un’applicazione di corrente al cuore, la iugulazione deve essere effettuata entro 10 secondi dall’applicazione di corrente alla testa, per gli ovini e i caprini entro 5 secondi.
+- 7\.1 Per i bovini, i suini, i volatili da cortile e i ratiti, se l’applicazione di corrente alla testa non è seguita da un’applicazione di corrente al cuore, la iugulazione deve essere effettuata entro 10 secondi dall’applicazione di corrente alla testa, per gli ovini e i caprini entro 5 secondi.
 - 7\.2 Dopo l’applicazione di corrente al cuore occorre eseguire la iugulazione al più tardi entro 30 secondi.
 
 Allegato 5
@@ -930,13 +931,13 @@ Allegato 6
   - c. nessuna reazione degli occhi se si tocca il carapace con la punta delle dita; e
   - d. nessuna reazione al tatto nella zona degli organi masticatori.
 
-Allegato 7[^t-1]
+Allegato 7[^t-2]
 
 (art. 4, 6 cpv. 2 e art. 9)
 
 ## Stordimento dei suini per esposizione al biossido di carbonio
 
-[^t-1]: La correzione del 7 feb. 2022 concerne soltanto il testo francese ([RU 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69))
+[^t-2]: La correzione del 7 feb. 2022 concerne soltanto il testo francese ([RU 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69)).
 
 ### 1 Requisiti degli impianti e degli apparecchi
 

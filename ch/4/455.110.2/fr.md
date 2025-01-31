@@ -4,11 +4,11 @@ title: Ordonnance de l’OSAV du 8 novembre 2021 sur la protection des animaux l
 short: OPAnAb
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: fr
-version: 2024-02-01
+version: 2025-02-01
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-694-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-694-20250201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20240201/fr"
 
 (OPAnAb)
 
-du 8 novembre 2021 (État le 1<sup>er</sup> février 2024)
+du 8 novembre 2021 (État le 1<sup>er</sup> février 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -605,11 +605,13 @@ En cas d’étourdissement des lapins domestiques par cheville percutante non pe
 
   - – pas de réflexe palpébral ni de réflexe cornéen.
 
-Annexe 4
+Annexe 4[^t-1]
 
 (art. 4, 6, al. 2, et 9)
 
-## Étourdissement électrique d’animaux individuels des espèces suivantes: bovins, porcs, moutons, chèvres, volaille domestique, lapins domestiques et oiseaux coureurs
+## Étourdissement électrique d’animaux individuels des espèces suivantes: bovins, porcs, moutons, chèvres, volaille domestique et oiseaux coureurs
+
+[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 24](https://fedlex.data.admin.ch/eli/oc/2025/24)).
 
 ### 1 Prescriptions concernant les installations et les appareils
 
@@ -656,20 +658,19 @@ Application de la pince à la tête, à l’exemple du porc
 
 Application de la pince à la tête et au cœur, à l’exemple du porc
 
-### 3 Paramètres du passage du courant par la tête chez les bovins, les porcs, les moutons, les chèvres et les lapins domestiques
+### 3 Paramètres du passage du courant par la tête chez les bovins, les porcs, les moutons et les chèvres
 
-- 3\.1 En cas de passage du courant par la tête chez les bovins, les porcs, les moutons, les chèvres et les lapins domestiques, les intensités minimales à atteindre dans la première seconde sont les suivantes:
+- 3\.1 En cas de passage du courant par la tête chez les bovins, les porcs, les moutons et les chèvres, les intensités minimales à atteindre dans la première seconde sont les suivantes:
 
 <table>
 <tr><td>Catégorie d’animaux</td><td>Intensité du courant en ampères</td></tr>
 <tr><td>Bovins jusqu’à 200 kg de poids vif</td><td>1,3 A</td></tr>
 <tr><td>Bovins de plus de 200 kg et jusqu’à 600 kg de poids vif</td><td>1,5 A</td></tr>
 <tr><td>Bovins de plus de 600 kg de poids vif</td><td>2,0 A</td></tr>
-<tr><td>Moutons / chèvres</td><td>1,0 A</td></tr>
+<tr><td>Moutons, chèvres</td><td>1,0 A</td></tr>
 <tr><td>Porcs jusqu’à 110 kg de poids vif</td><td>1,3 A</td></tr>
 <tr><td>Porcs de plus de 110 kg et jusqu’à 160 kg de poids vif</td><td>1,5 A</td></tr>
 <tr><td>Porcs de plus de 160 kg de poids vif</td><td>2,0 A</td></tr>
-<tr><td>Lapins domestiques</td><td>0,4 A</td></tr>
 </table>
 
 - 3\.2
@@ -714,7 +715,7 @@ Application de la pince à la tête et au cœur, à l’exemple du porc
 
 - 6\.1
 
-  Chez les bovins, les porcs, les moutons, les chèvres et les lapins domestiques, l’efficacité de l’étourdissement doit être vérifiée principalement en fonction des principaux symptômes suivants:
+  Chez les bovins, les porcs, les moutons et les chèvres, l’efficacité de l’étourdissement doit être vérifiée en fonction des principaux symptômes suivants:
 
   - a.
 
@@ -737,7 +738,7 @@ Application de la pince à la tête et au cœur, à l’exemple du porc
 
 - 6\.2
 
-  Chez la volaille domestique et les oiseaux coureurs, l’efficacité de l’étourdissement doit être vérifiée principalement en fonction des principaux symptômes suivants:
+  Chez la volaille domestique et les oiseaux coureurs, l’efficacité de l’étourdissement doit être vérifiée en fonction des principaux symptômes suivants:
 
   - a.
 
@@ -758,7 +759,7 @@ Application de la pince à la tête et au cœur, à l’exemple du porc
 
 ### 7 Durée jusqu’à la saignée
 
-- 7\.1 Si le passage du courant par la tête n’est pas suivi d’un passage du courant par le cœur, l’incision de saignée doit être effectuée chez les bovins, les porcs, la volaille domestique, les lapins domestiques et les oiseaux coureurs dans les 10 secondes suivant le passage du courant par la tête, dans les 5 secondes chez les chèvres et les moutons.
+- 7\.1 Si le passage du courant par la tête n’est pas suivi d’un passage du courant par le cœur, l’incision de saignée doit être effectuée: chez les bovins, les porcs, la volaille domestique et les oiseaux coureurs, dans les 10 secondes suivant le passage du courant par la tête; chez les chèvres et les moutons, dans les 5 secondes.
 - 7\.2 Après le passage du courant par le cœur, l’incision de saignée doit être effectuée au plus tard dans les 30 secondes.
 
 Annexe 5
@@ -926,13 +927,13 @@ Annexe 6
   - c. pas de réaction oculaire lors du tapotement de la carapace, et
   - d. pas de réaction au toucher des pièces masticatoires.
 
-Annexe 7[^t-1]
+Annexe 7[^t-2]
 
 (art. 4, 6, al. 2, et 9)
 
 ## Étourdissement des porcs au dioxyde de carbone
 
-[^t-1]: Mise à jour par l’erratum du 7 fév. 2022 ([RO 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69)).
+[^t-2]: Mise à jour par l’erratum du 7 fév. 2022 ([RO 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69)).
 
 ### 1 Prescriptions concernant les installations et les appareils
 
