@@ -3,18 +3,18 @@ sr: "734.74"
 title: "Règlement interne du 12 septembre 2007 de la Commission de l'électricité"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/923"
 language: fr
-version: 2012-01-01
+version: 2025-02-01
 adopted: 2007-09-12
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/923/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-923-20120101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/923/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/923/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-923-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/923/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement interne de la Commission de l’électricité
 
-du 12 septembre 2007 (Etat le 1<sup>er</sup> janvier 2012)
+du 12 septembre 2007 (État le 1<sup>er</sup> février 2025)
 
 Approuvé par le Conseil fédéral le 21 novembre 2007
 
@@ -34,7 +34,7 @@ arrête:
 
 Le présent règlement régit l’organisation et le fonctionnement de la Commission de l’électricité (ElCom) conformément aux art. 21 et 22 LApEl, ainsi que sa collaboration avec les autres services chargés de l’exécution de la loi.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 2
 
@@ -89,13 +89,13 @@ Il prépare les dossiers de l’ElCom, en s’appuyant sur les directives de cet
 
 <sup>4</sup> L’ElCom nomme le personnel du Secrétariat technique. Les rapports de travail sont régis par la législation sur le personnel de la Confédération.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 6
 
 [^6-1]
 
-[^6-1]: Abrogé par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^6-1]: Abrogé par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 7
 
@@ -115,7 +115,7 @@ Le président ou le vice-président représente l’ElCom vis-à-vis des régula
 
 <sup>4</sup> Les décisions et les mesures sont en règle générale publiées.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 9
 
@@ -125,7 +125,7 @@ Le président ou le vice-président représente l’ElCom vis-à-vis des régula
 
 <sup>2</sup> …[^9-1]
 
-[^9-1]: Abrogé par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^9-1]: Abrogé par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 10
 
@@ -133,7 +133,7 @@ Le président ou le vice-président représente l’ElCom vis-à-vis des régula
 
 L’ElCom établit son budget sur proposition du Secrétariat technique et le transmet au Secrétariat général du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC).
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 ## Section 3 Procédures
 
@@ -171,13 +171,13 @@ La procédure de l’ElCom est régie par la loi fédérale du 20 décembre 1968
 
 <sup>6</sup> Les délibérations ne sont pas publiques.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 14
 
 [^14-1]
 
-[^14-1]: Abrogé par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^14-1]: Abrogé par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 15
 
@@ -187,11 +187,13 @@ La procédure de l’ElCom est régie par la loi fédérale du 20 décembre 1968
 
 <sup>2</sup> Les membres de l’ElCom ne peuvent se faire remplacer.
 
-<sup>3</sup> Les décisions sont prises à la majorité simple des membres présents. Le président participe au vote; en cas d’égalité des voix, il tranche.
+<sup>3</sup> Les décisions sont prises à la majorité simple des membres présents. Le président et le vice-président participent au vote; en cas d’égalité des voix, le président tranche.[^15-1]
 
 <sup>4</sup> L’ElCom peut prendre des décisions par voie de circulation si aucun de ses membres ne demande une séance. Ceux-ci doivent être informés sans délai du résultat de la procédure.
 
 <sup>5</sup> En cas d’urgence, l’ElCom peut prendre des décisions sur des dossiers qui ne figurent pas à l’ordre du jour.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 9 déc. 2024, approuvée par le CF le 20 déc. 2024 et en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
 
 #### Art. 16
 
@@ -201,7 +203,7 @@ La procédure de l’ElCom est régie par la loi fédérale du 20 décembre 1968
 
 <sup>2</sup> Le procès-verbal contient au minimum le nom des membres présents, les propositions déposées, les décisions prises et un résumé des motifs. Les opinions divergentes y figurent sur demande.
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 17
 
@@ -225,26 +227,34 @@ La procédure de l’ElCom est régie par la loi fédérale du 20 décembre 1968
 
 <sup>3</sup> Ils ne peuvent utiliser les informations confidentielles obtenues par leur activité pour l’ElCom que dans ce cadre.
 
-<sup>4</sup> L’ElCom et son Secrétariat technique sont habilités à transmettre au Secrétariat général du DETEC, à l’Office fédéral de l’énergie, au Contrôle fédéral des finances, aux autorités cantonales compétentes, à la Surveillance des prix, à la Commission de la concurrence et à l’Autorité fédérale de surveillance des marchés financiers les données dont ces autorités ont besoin pour accomplir leurs tâches.[^18-2]
+<sup>4</sup> L’ElCom et son Secrétariat technique sont habilités à transmettre au Secrétariat général du DETEC, à l’Office fédéral de l’énergie, à l’Office fédéral pour l’approvisionnement économique du pays, au Contrôle fédéral des finances, aux autorités cantonales compétentes, à la Surveillance des prix, à la Commission de la concurrence et à l’Autorité fédérale de surveillance des marchés financiers les données dont ces autorités ont besoin pour accomplir leurs tâches.[^18-2]
 
 <sup>5</sup> Les publications de l’ElCom ne doivent dévoiler aucun secret d’affaires.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
-
-## Section 5 Entrée en vigueur****
-
-[^sec5-1]
-
-[^sec5-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 9 déc. 2024, approuvée par le CF le 20 déc. 2024 et en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
 
 #### Art. 18a
 
-**Disposition transitoire**[^18a-1]
+**Prise en charge des tâches du président en son absence**[^18a-1]
+
+En l’absence du président, le vice-président prend en charge les tâches et exerce les compétences visées aux art. 3, al. 2, 8, al. 3, 9, al. 1, 13, al. 1, 3 et 5, et 15, al. 3.
+
+[^18a-1]: Introduit par le ch. I de l’O de l’ElCom du 9 déc. 2024, approuvée par le CF le 20 déc. 2024 et en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
+
+## Section 5 Entrée en vigueur
+
+[^sec5-1]
+
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+
+#### Art. 18a<sup>bis</sup>
+
+**Disposition transitoire**[^18abis-1]
 
 Les rapports de travail du personnel du Secrétariat de la commission et du Secrétariat technique conclus avec l’Office fédéral de l’énergie sont reconduits tels quels avec le Secrétariat général du DETEC à l’entrée en vigueur de la modification du 13 septembre 2011. Celui-ci devient le nouvel employeur.
 
-[^18a-1]: Introduit par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18abis-1]: Anciennement art. 18*a*. Introduit par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 19
 
@@ -252,4 +262,4 @@ Les rapports de travail du personnel du Secrétariat de la commission et du Secr
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-[^19-1]: Introduit par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvé par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^19-1]: Introduit par le ch. I de l’O de l’ElCom du 13 sept. 2011, approuvée par le CF le 9 déc. 2011 et en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).

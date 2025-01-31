@@ -3,18 +3,18 @@ sr: "734.74"
 title: "Regolamento interno del 12 settembre 2007 della Commissione dell'energia elettrica"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/923"
 language: it
-version: 2012-01-01
+version: 2025-02-01
 adopted: 2007-09-12
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/923/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2007-923-20120101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/923/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/923/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2007-923-20250201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/923/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento interno della Commissione dell’energia elettrica
 
-del 12 settembre 2007 (Stato 1° gennaio 2012)
+del 12 settembre 2007 (Stato 1° febbraio 2025)
 
 Approvato dal Consiglio federale il 21 novembre 2007
 
@@ -32,7 +32,7 @@ ordina:
 
 Il presente regolamento disciplina l’organizzazione e la gestione della Commissione dell’energia elettrica (ElCom) secondo gli articoli 21 e 22 LAEI nonché la collaborazione di quest’ultima con gli altri servizi incaricati dell’esecuzione della legge.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 2
 
@@ -87,13 +87,13 @@ Sulla base delle istruzioni della ElCom, la segreteria tecnica prepara gli affar
 
 <sup>4</sup> La ElCom nomina il personale della segreteria tecnica. Il rapporto di lavoro si basa sulla legislazione federale in materia di personale.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 6
 
 [^6-1]
 
-[^6-1]: Abrogato dal n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e con effetto dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^6-1]: Abrogato dalla cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e con effetto dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 7
 
@@ -113,7 +113,7 @@ Il presidente o il vicepresidente rappresenta la ElCom nei confronti di regolato
 
 <sup>4</sup> Di regola le disposizioni e le decisioni sono pubblicate.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 9
 
@@ -123,7 +123,7 @@ Il presidente o il vicepresidente rappresenta la ElCom nei confronti di regolato
 
 <sup>2</sup> ...[^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e con effetto dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^9-1]: Abrogato dalla cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e con effetto dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 10
 
@@ -131,7 +131,7 @@ Il presidente o il vicepresidente rappresenta la ElCom nei confronti di regolato
 
 Su proposta della segreteria tecnica, la ElCom allestisce il proprio preventivo e lo presenta alla Segreteria generale del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC).
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 ## Sezione 3: Procedure
 
@@ -169,13 +169,13 @@ La procedura della ElCom si basa sulla legge federale del 20 dicembre 1968[^11-1
 
 <sup>6</sup> Le deliberazioni non sono pubbliche.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 14
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e con effetto dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^14-1]: Abrogato dalla cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e con effetto dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 15
 
@@ -185,11 +185,13 @@ La procedura della ElCom si basa sulla legge federale del 20 dicembre 1968[^11-1
 
 <sup>2</sup> Per la ElCom è esclusa la rappresentanza.
 
-<sup>3</sup> La ElCom prende le sue decisioni a maggioranza semplice dei membri presenti; il presidente partecipa alla votazione. Egli decide in caso di parità.
+<sup>3</sup> La ElCom prende le sue decisioni a maggioranza semplice dei membri presenti. Il presidente e il vicepresidente partecipano alla votazione; il presidente decide in caso di parità.[^15-1]
 
 <sup>4</sup> Se nessun membro chiede la convocazione di una seduta, la ElCom può prendere decisioni mediante circolazione degli atti. I membri devono essere immediatamente informati sull’esito della circolazione degli atti.
 
 <sup>5</sup> In casi urgenti, la ElCom può decidere anche in merito ad affari che non figurano all’ordine del giorno.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 9 dic. 2024, approvata da Consiglio federale il 20 dic. 2024 e in vigore dal 1° feb. 2025 ([RU 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
 
 #### Art. 16
 
@@ -199,7 +201,7 @@ La procedura della ElCom si basa sulla legge federale del 20 dicembre 1968[^11-1
 
 <sup>2</sup> Il verbale deve contenere almeno i nomi dei membri presenti, le proposte presentate, le decisioni prese e un riassunto delle motivazioni. Su richiesta, sono verbalizzati anche i pareri contrari alle decisioni di maggioranza.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 17
 
@@ -223,26 +225,34 @@ La procedura della ElCom si basa sulla legge federale del 20 dicembre 1968[^11-1
 
 <sup>3</sup> Essi possono utilizzare informazioni confidenziali acquisite durante l’attività lavorativa presso la ElCom soltanto in tale ambito.
 
-<sup>4</sup> La ElCom e la segreteria tecnica possono fornire alla Segreteria generale del DATEC, all’Ufficio federale dell’energia (UFE), al Controllo federale delle finanze, alle autorità cantonali competenti, al sorvegliante dei prezzi, alla Commissione della concorrenza e all’Autorità federale di vigilanza sui mercati finanziari soltanto i dati di cui hanno bisogno per l’adempimento dei propri compiti.[^18-2]
+<sup>4</sup> La ElCom e la segreteria tecnica possono fornire alla Segreteria generale del DATEC, all’Ufficio federale dell’energia, all’Ufficio federale per l’approvvigionamento economico del Paese, al Controllo federale delle finanze, alle autorità cantonali competenti, al sorvegliante dei prezzi, alla Commissione della concorrenza e all’Autorità federale di vigilanza sui mercati finanziari soltanto i dati di cui hanno bisogno per l’adempimento dei propri compiti.[^18-2]
 
 <sup>5</sup> Le pubblicazioni della ElCom non devono svelare segreti d’affari.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
-[^18-2]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
-
-## Sezione 5: Disposizioni finali****
-
-[^sec5-1]
-
-[^sec5-1]: Nuovo testo giusta il n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 9 dic. 2024, approvata da Consiglio federale il 20 dic. 2024 e in vigore dal 1° feb. 2025 ([RU 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
 
 #### Art. 18a
 
-**Disposizione transitoria**[^18a-1]
+**Assunzione dei compiti del presidente in caso di assenza**[^18a-1]
+
+In caso di assenza del presidente, il vicepresidente assume i compiti e le competenze di cui agli articoli 3 capoverso 2, 8 capoverso 3, 9 capoverso 1, 13 capoversi 1, 3 e 5 nonché 15 capoverso 3.
+
+[^18a-1]: Introdotto dalla cifra I dell’O dell’ElCom del 9 dic. 2024, approvata da Consiglio federale il 20 dic. 2024 e in vigore dal 1° feb. 2025 ([RU 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
+
+## Sezione 5: Disposizioni finali
+
+[^sec5-1]
+
+[^sec5-1]: Nuovo testo giusta la cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+
+#### Art. 18a<sup>bis</sup>
+
+**Disposizione transitoria**[^18abis-1]
 
 I rapporti di lavoro del personale della segreteria della Commissione e della segreteria tecnica, stipulati con l’UFE, all’entrata in vigore della modifica del 13 settembre 2011 sono ripresi senza modifiche dalla Segreteria generale del DATEC. Quest’ultima diventa il nuovo datore di lavoro.
 
-[^18a-1]: Introdotto dal n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18abis-1]: Originario art. 18*a*. Introdotto dalla cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 19
 
@@ -250,4 +260,4 @@ I rapporti di lavoro del personale della segreteria della Commissione e della se
 
 Il presente regolamento entra in vigore il 1° gennaio 2008.
 
-[^19-1]: Introdotta dal n. I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^19-1]: Introdotta dalla cifra I dell’O dell’ElCom del 13 set. 2011, approvata da Consiglio federale il 9 dic. 2011 e in vigore dal 1° gen. 2012 ([RU 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).

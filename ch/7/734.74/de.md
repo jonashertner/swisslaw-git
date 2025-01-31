@@ -3,18 +3,18 @@ sr: "734.74"
 title: Geschäftsreglement vom 12. September 2007 der Elektrizitätskommission
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/923"
 language: de
-version: 2012-01-01
+version: 2025-02-01
 adopted: 2007-09-12
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/923/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2007-923-20120101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/923/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/923/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2007-923-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/923/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Geschäftsreglement der Elektrizitätskommission
 
-vom 12. September 2007 (Stand am 1. Januar 2012)
+vom 12. September 2007 (Stand am 1. Februar 2025)
 
 vom Bundesrat genehmigt am 21. November 2007
 
@@ -185,11 +185,13 @@ Das Verfahren der ElCom richtet sich nach dem Bundesgesetz vom 20. Dezember 1968
 
 <sup>2</sup> Für die ElCom ist Stellvertretung ausgeschlossen.
 
-<sup>3</sup> Die ElCom fasst ihre Beschlüsse mit einfachem Mehr der Stimmenden. Der Präsident oder die Präsidentin stimmt mit; bei Stimmengleichheit gibt er oder sie den Stichentscheid.
+<sup>3</sup> Die ElCom fasst ihre Beschlüsse mit einfachem Mehr der Stimmenden. Der Präsident oder die Präsidentin sowie der Vizepräsident oder die Vizepräsidentin stimmen mit; bei Stimmengleichheit fällt der Präsident oder die Präsidentin den Stichentscheid.[^15-1]
 
 <sup>4</sup> Die ElCom kann Beschlüsse auf dem Zirkulationsweg fällen, wenn kein Mitglied die Einberufung einer Sitzung verlangt. Die Mitglieder sind umgehend über den Ausgang des Zirkularbeschlusses zu informieren.
 
 <sup>5</sup> In dringenden Fällen kann die ElCom auch über Geschäfte Beschluss fassen, die nicht auf der Tagesordnung stehen.
+
+[^15-1]: Fassung gemäss Ziff. I der V der ElCom vom 9. Dez. 2024, vom Bundesrat genehmigt am 20. Dez. 2024 und in Kraft seit 1. Febr. 2025 ([AS 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
 
 #### Art. 16
 
@@ -223,26 +225,34 @@ Das Verfahren der ElCom richtet sich nach dem Bundesgesetz vom 20. Dezember 1968
 
 <sup>3</sup> Sie dürfen vertrauliche Informationen, die sie bei ihrer Tätigkeit im Dienst der ElCom erlangen, nur in diesem Zusammenhang verwenden.
 
-<sup>4</sup> Die ElCom und das Fachsekretariat dürfen dem Generalsekretariat des UVEK, dem Bundesamt für Energie, der Eidgenössischen Finanzkontrolle, den zuständigen kantonalen Behörden, der Preisüberwachung, der Wettbewerbskommission und der Finanzmarktaufsicht diejenigen Daten weitergeben, welche diese für die Erfüllung ihrer Aufgaben benötigen.[^18-2]
+<sup>4</sup> Die ElCom und das Fachsekretariat dürfen dem Generalsekretariat des UVEK, dem Bundesamt für Energie, dem Bundesamt für wirtschaftliche Landesversorgung, der Eidgenössischen Finanzkontrolle, den zuständigen kantonalen Behörden, der Preisüberwachung, der Wettbewerbskommission und der Finanzmarktaufsicht diejenigen Daten weitergeben, welche diese für die Erfüllung ihrer Aufgaben benötigen.[^18-2]
 
 <sup>5</sup> Die Veröffentlichungen der ElCom dürfen keine Geschäftsgeheimnisse preisgeben.
 
 [^18-1]: Fassung gemäss Ziff. I der V der ElCom vom 13. Sept. 2011, vom Bundesrat genehmigt am 9. Dez. 2011 und in Kraft seit 1. Jan. 2012 ([AS 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
-[^18-2]: Fassung gemäss Ziff. I der V der ElCom vom 13. Sept. 2011, vom Bundesrat genehmigt am 9. Dez. 2011 und in Kraft seit 1. Jan. 2012 ([AS 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18-2]: Fassung gemäss Ziff. I der V der ElCom vom 9. Dez. 2024, vom Bundesrat genehmigt am 20. Dez. 2024 und in Kraft seit 1. Febr. 2025 ([AS 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
 
-## Fünfter Abschnitt: Schlussbestimmungen****
+#### Art. 18a
+
+**Übernahme der Aufgaben des Präsidenten oder der Präsidentin bei Abwesenheit**[^18a-1]
+
+Ist der Präsident oder die Präsidentin abwesend, so übernimmt der Vizepräsident oder die Vizepräsidentin die Aufgaben und die Befugnisse nach den Artikeln 3 Absatz 2, 8 Absatz 3, 9 Absatz 1, 13 Absätze 1, 3 und 5 sowie 15 Absatz 3.
+
+[^18a-1]: Eingefügt durch Ziff. I der V der ElCom vom 9. Dez. 2024, vom Bundesrat genehmigt am 20. Dez. 2024 und in Kraft seit 1. Febr. 2025 ([AS 2025 2](https://fedlex.data.admin.ch/eli/oc/2025/2)).
+
+## Fünfter Abschnitt: Schlussbestimmungen
 
 [^sec5-1]
 
 [^sec5-1]: Fassung gemäss Ziff. I der V der ElCom vom 13. Sept. 2011, vom Bundesrat genehmigt am 9. Dez. 2011 und in Kraft seit 1. Jan. 2012 ([AS 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
-#### Art. 18a
+#### Art. 18a<sup>bis</sup>
 
-**Übergangsbestimmung**[^18a-1]
+**Übergangsbestimmung**[^18abis-1]
 
 Die bei Inkrafttreten der Änderung vom 13. September 2011 bestehenden Arbeitsverhältnisse des bisherigen Personals des Kommissions- und Fachsekretariats mit dem Bundesamt für Energie gehen inhaltlich unverändert auf das Generalsekretariat des UVEK über. Dieses wird der neue Arbeitgeber.
 
-[^18a-1]: Eingefügt durch Ziff. I der V der ElCom vom 13. Sept. 2011, vom Bundesrat genehmigt am 9. Dez. 2011 und in Kraft seit 1. Jan. 2012 ([AS 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
+[^18abis-1]: Ursprünglich: Art. 18*a*. Eingefügt durch Ziff. I der V der ElCom vom 13. Sept. 2011, vom Bundesrat genehmigt am 9. Dez. 2011 und in Kraft seit 1. Jan. 2012 ([AS 2011 6227](https://fedlex.data.admin.ch/eli/oc/2011/872)).
 
 #### Art. 19
 
