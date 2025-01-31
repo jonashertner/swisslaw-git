@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2024-01-01
+version: 2025-02-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20250201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Januar 2024)
+vom 3. Juli 2001 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -463,6 +463,7 @@ Fachstelle für personalpolitische Fragen ist das Eidgenössische Personalamt (E
 - n. Es stellt den Kontakt zu den Sozialpartnern sicher.
 - o. Es ist zuständig für die zentrale öffentliche Ausschreibung offener Stellen und erarbeitet departementsübergreifende Strategien für die Gewinnung geeigneten Personals.
 - p.[^18-9] Es stellt Systeme und Instrumente zur Umsetzung von Massnahmen in den Bereichen Arbeitssicherheit, Gesundheitsschutz und Gesundheitsförderung bereit.
+- q.[^18-10] Es stellt Systeme für den unterstützenden Personaleinsatz zur Bewältigung von ausserordentlichem oder besonders dringlichem Mehraufwand, insbesondere zugunsten der Krisenorganisation der Bundesverwaltung, bereit.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -473,6 +474,7 @@ Fachstelle für personalpolitische Fragen ist das Eidgenössische Personalamt (E
 [^18-7]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-8]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-9]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^18-10]: Eingefügt durch Anhang Ziff. 1 der V vom 20. Dez. 2024 über die Krisenorganisation der Bundesverwaltung, in Kraft seit 1. Febr. 2025 ([AS 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 18a
 
@@ -1523,7 +1525,7 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 <sup>1</sup> Bei der Geburt eines oder mehrerer Kinder besteht für die Angestellte ein Anspruch auf einen bezahlten Mutterschaftsurlaub von vier Monaten. Muss ein Neugeborenes unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilen, so verlängert sich dieser Urlaub um die Dauer der Hospitalisierung, höchstens aber auf insgesamt 154 Tage.[^60-3]
 
-<sup>1<sup>bis</sup></sup> Stirbt der rechtliche Vater oder der rechtliche andere Elternteil während der sechs Monate nach der Geburt des Kindes, so hat die Angestellte Anspruch auf zusätzlich zwanzig Arbeitstage Mutterschaftsurlaub zum vollen Lohn mit Sozialzulagen. Diese zwanzig Arbeitstage können innerhalb einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise bezogen werden.[^60-4]
+<sup>1bis</sup> Stirbt der rechtliche Vater oder der rechtliche andere Elternteil während der sechs Monate nach der Geburt des Kindes, so hat die Angestellte Anspruch auf zusätzlich zwanzig Arbeitstage Mutterschaftsurlaub zum vollen Lohn mit Sozialzulagen. Diese zwanzig Arbeitstage können innerhalb einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise bezogen werden.[^60-4]
 
 <sup>2</sup> Die Angestellte kann den Mutterschaftsurlaub maximal zwei Wochen vor der errechneten Geburt antreten.[^60-5]
 
@@ -3260,17 +3262,17 @@ Das EDA kann im Einvernehmen mit dem EFD abweichende Bestimmungen für das der V
 - f. Artikel 46: Funktionszulagen;
 - g.[^114-1] Artikel 49: Leistungsprämien;
 - h. Artikel 52: Funktionsbewertung;
-- [tab] h<sup>bis</sup>.[^114-2] Artikel 52*a*: Tieferbewertung einer Funktion;
+- h<sup>bis</sup>.[^114-2] Artikel 52*a*: Tieferbewertung einer Funktion;
 - i. Artikel 53: Bewertungsstellen;
 - j. Artikel 63: Leistungen bei Berufsunfall;
 - k. Artikel 64: Arbeitszeit;
-- [tab] k<sup>bis</sup>.[^114-3] Artikel 64*a* Vertrauensarbeitszeit;
+- k<sup>bis</sup>.[^114-3] Artikel 64*a* Vertrauensarbeitszeit;
 - l. Artikel 65: Mehrarbeit und Überzeit;
 - m. Artikel 66: Freie Tage;
 - n. Artikel 67: Ferien;
 - o. Artikel 68: Urlaub;
-- [tab] o<sup>bis</sup>.[^114-4] Artikel 75*a* Absatz 2: Familienergänzende Kinderbetreuung;
-- [tab] o<sup>ter</sup>.[^114-5] Artikel 75*b*: Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung;
+- o<sup>bis</sup>.[^114-4] Artikel 75*a* Absatz 2: Familienergänzende Kinderbetreuung;
+- o<sup>ter</sup>.[^114-5] Artikel 75*b*: Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung;
 - p.[^114-6] Artikel 78 Absatz 2 Buchstabe k: Ausrichtung von Entschädigungen an Personal der DEZA;
 - q.[^114-7] Artikel 78 Absatz 2<sup>bis</sup>: Entschädigungen an Personal der DEZA bei Beendigung des Arbeitsverhältnisses im gegenseitigen Einvernehmen;
 - [tab] r. und s.[^114-8] …

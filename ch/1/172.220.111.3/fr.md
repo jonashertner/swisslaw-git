@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2024-01-01
+version: 2025-02-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20250201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/fr"
 
 (OPers)
 
-du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2024)
+du 3 juillet 2001 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -459,7 +459,8 @@ Le service chargé des questions du personnel est l’Office fédéral du person
 - m.[^18-8] il assure la communication interne au niveau de la Confédération, ainsi que l’information centralisée du personnel fédéral;
 - n. il entretient des relations suivies avec les partenaires sociaux;
 - o. il centralise la mise au concours des offres d’emploi et élabore des stratégies interdépartementales de recherche de personnel qualifié;
-- p.[^18-9] il met à disposition les systèmes et les instruments nécessaires à la mise en œuvre de mesures dans les domaines de la sécurité au travail ainsi que de la protection et de la promotion de la santé.
+- p.[^18-9] il met à disposition les systèmes et les instruments nécessaires à la mise en œuvre de mesures dans les domaines de la sécurité au travail ainsi que de la protection et de la promotion de la santé;
+- q.[^18-10] il met à disposition des systèmes pour l’engagement de personnel auxiliaire afin de faire face à un surcroît de travail extraordinaire ou particulièrement urgent, notamment en faveur de l’organisation de crise de l’administration fédérale.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -470,6 +471,7 @@ Le service chargé des questions du personnel est l’Office fédéral du person
 [^18-7]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-8]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-9]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^18-10]: Introduite par l’annexe ch. 1 de l’O du 20 déc. 2024 sur l’organisation de crise de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 6](https://fedlex.data.admin.ch/eli/oc/2025/6)).
 
 #### Art. 18a
 
@@ -1164,7 +1166,8 @@ Des indemnités peuvent être allouées pour:
 - a. le travail effectué le dimanche et le travail de nuit;
 - b. le service de permanence;
 - c.[^45-1] les engagements effectués dans le cadre de plans de service fixes.
-- [tab] <sup>2</sup> Le DFF définit le mode de calcul et le montant de l’indemnité.
+
+<sup>2</sup> Le DFF définit le mode de calcul et le montant de l’indemnité.
 
 [^45-1]: Introduite par le ch. I de l’O du 27 nov. 2009 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
@@ -2015,7 +2018,7 @@ L’employé a droit au remboursement des coûts de l’accueil extrafamilial d�
 
 - d.[^75b-3] lorsque le revenu brut annuel des personnes formant un ménage commun visées à la let. a ou le revenu brut annuel de la personne seule investie de l’autorité parentale, y compris le treizième mois de salaire, n’excède pas 240 000 francs.
 
-[^75b-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+[^75b-1]: Introduit par le ch. I de l’O du 24 nov. 2010 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 [^75b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^75b-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 
@@ -3259,20 +3262,20 @@ Le DFAE peut, en accord avec le DFF, édicter des dispositions dérogatoires app
 - f. art. 46: prime de fonction;
 - g.[^114-2] art. 49: prime de prestations;
 - h. art. 52: évaluation de la fonction;
-- [tab] h<sup>bis</sup>.[^114-3] art. 52*a*: affectation de la fonction à une classe de salaire inférieure;
+- h<sup>bis</sup>.[^114-3] art. 52*a*: affectation de la fonction à une classe de salaire inférieure;
 - i. art. 53: organes chargés de l’évaluation de la fonction;
 - j. art. 63: prestations en cas d’accident professionnel;
 - k. art. 64: temps de travail
-- [tab] k<sup>bis</sup>.[^114-4] art. 64*a*: horaire de travail fondé sur la confiance.
+- k<sup>bis</sup>.[^114-4] art. 64*a*: horaire de travail fondé sur la confiance.
 - l. art. 65: heures d’appoint et heures supplémentaires;
 - m. art. 66: jours de congé;
 - n. art. 67: vacances;
 - o. art. 68: congés;
-- [tab] o<sup>bis</sup>.[^114-5] art. 75*a,* al. 2: accueil extrafamilial des enfants;
-- [tab] o<sup>ter</sup>.[^114-6] art. 75*b*: droit au remboursement des coûts de l’accueil extrafamilial des enfants;
+- o<sup>bis</sup>.[^114-5] art. 75*a,* al. 2: accueil extrafamilial des enfants;
+- o<sup>ter</sup>.[^114-6] art. 75*b*: droit au remboursement des coûts de l’accueil extrafamilial des enfants;
 - p.[^114-7] art. 78, al. 2, let. k: versement d’indemnités au personnel de la DDC;
 - q.[^114-8] art. 78, al. 2<sup>bis</sup>: indemnités au personnel de la DDC pour cessation des rapports de travail intervenue d’un commun accord;
-- [tab] r. et s.[^114-9] …
+- r. et s.[^114-9] …
 
 <sup>3</sup> La situation personnelle du personnel envoyé à l’étranger est prise en compte dans la détermination du montant de l’indemnité et dans la définition des mesures visées aux art. 63 et 81 à 88. Dans ses dispositions d’exécution le DFAE détermine, en accord avec le DFF, si et dans quelle mesure il y a lieu de prendre en considération des personnes accompagnantes autres que les membres de la famille; il fixe les modalités.
 
