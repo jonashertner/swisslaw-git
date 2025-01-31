@@ -3,20 +3,19 @@ canton: LU
 number: "522"
 title: "Studienordnung für die Weiterbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2021-09-01
-valid_until: 2025-01-31
-version_adopted: 2021-08-27
+version: 2025-02-01
+version_adopted: 2025-01-17
 adopted: 2013-09-04
 in_force: 2013-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/522"
-pdf: "https://srl.lu.ch/api/de/versions/4032/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4392/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Weiterbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 04.09.2013 (Stand 01.09.2021)
+vom 04.09.2013 (Stand 01.02.2025)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -45,7 +44,7 @@ beschliesst:
 - a. Master of Advanced Studies (MAS)-Programme,
 - b. Diploma of Advanced Studies (DAS)-Programme,
 - c. Certificate of Advanced Studies (CAS)-Programme und
-- d. Weiterbildungskurse.
+- d. Kurzprogramme (Short Advanced Studies [SAS]-Programme und andere Formate [Weiterbildungskurse, Fachkurse, Seminare usw.]).
 
 <sup>2</sup> Die Weiterbildungsangebote sind in der Regel berufsbegleitende Bildungsangebote.
 
@@ -61,7 +60,7 @@ beschliesst:
 
 <sup>1</sup> Das «European Credit Transfer and Accumulation System» (ECTS) dient der Leistungsbewertung, der Erfassung und der Akkumulierung des an der Hochschule Luzern erbrachten Studienaufwands sowie dem Transfer und der Anerkennung von an anderen Hochschulen erbrachten Studienleistungen im Rahmen der Mobilität der Teilnehmenden.
 
-<sup>2</sup> Das ECTS muss bei den Weiterbildungskursen nicht angewendet werden.
+<sup>2</sup> Das ECTS wird bei den MAS-, DAS-, CAS- und SAS-Programmen angewendet.
 
 #### Art. 5
 
@@ -106,6 +105,7 @@ beschliesst:
 
 - a. beurteilt die Konzepte für neue MAS-Programme zuhanden der Hochschulleitung,
 - a<sup>bis</sup>. nimmt Stellung zu Konzepten neuer DAS- und CAS-Programme zuhanden der zuständigen Direktorin oder des zuständigen Direktors,
+- a<sup>ter</sup>. informiert sich gegenseitig über neue SAS-Programme,
 - b. kann departementsübergreifende Weiterbildungsangebote initiieren,
 - c. setzt Qualitätsstandards fest und unterstützt deren Umsetzung.
 
@@ -116,7 +116,7 @@ beschliesst:
 <sup>1</sup> Die Direktorin oder der Direktor eines Departementes trägt unter Vorbehalt anderer im Fachhochschulrecht geregelter Zuständigkeiten die abschliessende Verantwortung für die an ihrem oder seinem Departement angebotenen Weiterbildungen. Insbesondere hat sie oder er folgende Aufgaben:
 
 - a. Verabschiedung der Studienreglemente für die Weiterbildung,
-- b. Entscheid CAS- und DAS-Programme sowie Abschluss von Kooperationsvereinbarungen,
+- b. Entscheid SAS-, CAS- und DAS-Programme sowie Abschluss von Kooperationsvereinbarungen,
 - c. Entscheid über die Erteilung der Diplome,
 - d. Sicherstellung einer hochstehenden Qualität der Weiterbildung.
 
@@ -218,21 +218,21 @@ beschliesst:
 
 <sup>1</sup> Wer zu einem Leistungsnachweis aus wichtigen Gründen nicht antreten oder ihn nicht vollenden kann, hat die für den Leistungsnachweis verantwortliche Person umgehend zu informieren und gegebenenfalls ein Arztzeugnis beizubringen. Das Nähere regeln die Studienreglemente der Departemente.
 
-### 3.2 Programme und Weiterbildungskurse
+### 3.2 Programme
 
 #### Art. 18
 
-**Struktur der Weiterbildungsangebote**
+**Struktur der Weiterbildung**
 
 <sup>1</sup> MAS-, DAS- und CAS-Programme sind in Module gegliedert. Für jedes dieser Weiterbildungsangebote besteht eine Programmbeschreibung.
 
-<sup>2</sup> Weiterbildungskurse bestehen aus einzelnen Kurstagen. Sie sind in Form, Umfang und Ausgestaltung in Bezug auf die Zulassungsvoraussetzungen unterschiedlich. Das ECTS kann hierfür angewendet werden. Eine Teilnahmebestätigung kann ausgestellt werden.
+<sup>2</sup> Kurzprogramme gliedern sich in Short Advanced Studies (SAS) sowie in weitere Formate. SAS sind mit ECTS-Credits verbunden. Weitere Formate (Weiterbildungskurse, Fachkurse, Seminare usw.) können in Form, Umfang und Ausgestaltung unterschiedlich sein.
 
 #### Art. 19
 
-**Zulassungsvoraussetzungen für CAS-, DAS- und MAS-Programme**
+**Zulassungsvoraussetzungen für SAS-, CAS-, DAS- und MAS-Programme**
 
-<sup>1</sup> Die Aufnahme in ein CAS-, DAS- oder MAS-Programm setzt einen Tertiärabschluss (Abschluss einer Hochschule oder der Höheren Berufsbildung) voraus.
+<sup>1</sup> Die Aufnahme in ein SAS-, CAS-, DAS- oder MAS-Programm setzt einen Tertiärabschluss (Abschluss einer Hochschule oder der Höheren Berufsbildung) voraus.
 
 <sup>2</sup> Personen mit einem Abschluss einer Hochschule müssen über Berufserfahrung verfügen. Die Departemente regeln die Einzelheiten in ihren Studienreglementen.
 
@@ -242,7 +242,7 @@ beschliesst:
 
 <sup>5</sup> Die Departemente können generell oder für einzelne Angebote zusätzliche Zulassungsvoraussetzungen festlegen.
 
-<sup>6</sup> Bei modular aufgebauten MAS-Programmen, welche aus mehreren CAS oder DAS bestehen, können die Kriterien für die Zulassung zum MAS-Programm restriktiver sein als jene für die Zulassung zu den CAS oder DAS.
+<sup>6</sup> Bei modular aufgebauten MAS-Programmen, welche aus mehreren SAS, CAS oder DAS bestehen, können die Kriterien für die Zulassung zum MAS-Programm restriktiver sein als jene für die Zulassung zu den SAS, CAS oder DAS.
 
 <sup>7</sup> Teilnehmende, deren Muttersprache nicht mit der vorherrschenden Unterrichtssprache identisch ist, müssen Kenntnisse der Unterrichtssprache auf Niveau B2 belegen.
 
@@ -268,11 +268,17 @@ beschliesst:
 
 <sup>1</sup> Während eines CAS-Programms sind mindestens 10 ECTS-Credits zu erwerben. Berufstätigkeit und/oder informell erworbene Kompetenzen können bis zu maximal einem Sechstel der gesamten ECTS-Creditzahl angerechnet werden, sofern diese mit einem Leistungsnachweis belegt sind.
 
+#### Art. 22a
+
+**SAS-Programm**
+
+<sup>1</sup> Während eines SAS-Programms ist mindestens 1 ECTS-Credit zu erwerben. Eine Anrechnung von Berufstätigkeit und/oder informell erworbenen Kompetenzen ist nicht möglich.
+
 #### Art. 23
 
 **Abschluss**
 
-<sup>1</sup> Ein MAS-, DAS- oder CAS-Programm ist abgeschlossen, wenn die hierfür erforderlichen ECTS-Credits erworben worden sind.
+<sup>1</sup> Ein MAS-, DAS-, CAS- oder SAS-Programm ist abgeschlossen, wenn die hierfür erforderlichen ECTS-Credits erworben worden sind.
 
 <sup>2</sup> …
 
@@ -280,12 +286,12 @@ beschliesst:
 
 **Urkunde und Urkundenzusatz**
 
-<sup>1</sup> Die Absolventinnen und Absolventen eines MAS-, DAS- oder CAS-Programms erhalten:
+<sup>1</sup> Die Absolventinnen und Absolventen eines MAS-, DAS-, CAS- oder SAS-Programms erhalten:
 
 - a. eine Urkunde sowie
 - b. einen Urkundenzusatz.
 
-<sup>2</sup> Die Absolventinnen und Absolventen der übrigen Weiterbildungsangebote erhalten eine Kursbestätigung mit oder ohne Auflistung von Leistungsnachweisen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Urkunde gilt als Ausweis über den bestandenen Programmabschluss.
 
@@ -293,9 +299,11 @@ beschliesst:
 
 <sup>5</sup> Die MAS-Urkunden werden von der Rektorin oder dem Rektor der Hochschule Luzern, von der Direktorin oder dem Direktor des zuständigen Departementes der Hochschule Luzern und gegebenenfalls von weiteren in den Studienreglementen bezeichneten Personen unterzeichnet.
 
-<sup>6</sup> Die DAS- und CAS-Urkunden werden von der Direktorin oder dem Direktor des zuständigen Departementes der Hochschule Luzern und gegebenenfalls von weiteren in den Studienreglementen bezeichneten Personen unterzeichnet.
+<sup>6</sup> Die DAS-, CAS- und SAS-Urkunden werden von der Direktorin oder dem Direktor des zuständigen Departementes der Hochschule Luzern und gegebenenfalls von weiteren in den Studienreglementen bezeichneten Personen unterzeichnet.
 
 <sup>7</sup> Bei MAS-, DAS- und CAS-Kooperationsprogrammen unterschreiben zudem innerhalb der Hochschule Luzern die Direktorinnen und Direktoren der an der Kooperation beteiligten Departemente die MAS-Urkunden.
+
+<sup>8</sup> Die Absolventinnen und Absolventen der übrigen Weiterbildungsangebote erhalten eine Teilnahmebestätigung mit oder ohne Auflistung von Leistungsnachweisen. Diese wird von den jeweiligen Angebotsverantwortlichen unterzeichnet.
 
 #### Art. 25
 
@@ -308,7 +316,8 @@ beschliesst:
   - 2\. «Master of Business Administration Hochschule Luzern/FHZ» (Abkürzung: MBA Hochschule Luzern/FHZ) oder
   - 3\. «Executive Master of Business Administration Hochschule Luzern/FHZ» (Abkürzung: EMBA Hochschule Luzern/FHZ),
 - b. für ein DAS-Programm «Diploma of Advanced Studies Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: DAS Hochschule Luzern/FHZ),
-- c. für ein CAS-Programm «Certificate of Advanced Studies Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: CAS Hochschule Luzern/FHZ).
+- c. für ein CAS-Programm «Certificate of Advanced Studies Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: CAS Hochschule Luzern/FHZ),
+- d. für ein SAS-Programm «Short Advanced Studies Hochschule Luzern/FHZ in [Bezeichnung der Richtung]» (Abkürzung: SAS Hochschule Luzern/FHZ).
 
 <sup>2</sup> Wer einen dieser geschützten Titel führt, ohne dazu berechtigt zu sein, oder wer einen Titel verwendet, der den Eindruck erweckt, er habe eine entsprechende Weiterbildung abgeschlossen, wird mit Haft oder Busse bestraft. Fahrlässigkeit ist strafbar. Die Strafverfolgung obliegt den Kantonen.
 
@@ -330,7 +339,7 @@ beschliesst:
 
 **Rückzug der Anmeldung und Abbruch der Weiterbildung**
 
-<sup>1</sup> Der Rückzug der Anmeldung zu einem Weiterbildungsangebot und dessen vorzeitige Beendigung sind der zuständigen Leitung des Weiterbildungsprogrammes oder des Weiterbildungskurses schriftlich und eingeschrieben mitzuteilen.
+<sup>1</sup> Der Rückzug der Anmeldung zu einem Weiterbildungsangebot und dessen vorzeitige Beendigung sind der zuständigen Leitung der Weiterbildung schriftlich und eingeschrieben mitzuteilen.
 
 <sup>2</sup> …
 
@@ -344,7 +353,7 @@ beschliesst:
 
 <sup>2</sup> Die Einsprache im Sinne dieser Ordnung verpflichtet die zuständige Instanz, den angefochtenen Entscheid zu überprüfen und nochmals über die Sache zu entscheiden.
 
-<sup>3</sup> Das Einspracheverfahren findet auf Weiterbildungskurse keine Anwendung.
+<sup>3</sup> Das Einspracheverfahren findet nur Anwendung auf MAS-, DAS-, CAS- und SAS-Programme.
 
 #### Art. 29
 
