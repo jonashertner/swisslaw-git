@@ -3,18 +3,18 @@ sr: "442.122"
 title: Verordnung des EDI vom 29. November 2016 über das Förderungskonzept für die Förderung der musikalischen Bildung
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/781"
 language: de
-version: 2020-07-15
+version: 2025-02-01
 adopted: 2016-11-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/781/20200715/de/xml/fedlex-data-admin-ch-eli-cc-2016-781-20200715-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/781/20200715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/781/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2016-781-20250201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/781/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über das Förderungskonzept für die Förderung der musikalischen Bildung
 
-vom 29. November 2016 (Stand am 15. Juli 2020)
+vom 29. November 2016 (Stand am 1. Februar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -37,17 +37,22 @@ Die Förderung der musikalischen Bildung hat zum Ziel, Kinder und Jugendliche be
 
 **Grundsätze**
 
-<sup>1</sup> Für Vorhaben, die nach Artikel 12 Absatz 2 KFG unterstützt werden, können nicht zusätzlich Beiträge nach der vorliegenden Verordnung beantragt werden.[^2-1]
+<sup>1</sup> Für Vorhaben, die nach Artikel 12 Absatz 2 KFG unterstützt werden, können nicht zusätzlich Finanzhilfen nach der vorliegenden Verordnung beantragt werden.[^2-1]
 
 <sup>2</sup> Es besteht kein Anspruch auf Unterstützung.
 
-[^2-1]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+<sup>3</sup> Die Finanzhilfeempfänger müssen sich für Nachhaltigkeit, Chancengleichheit, Diversität und eine angemessene Entschädigung der professionellen Kulturschaffenden einsetzen.[^2-2]
+
+[^2-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^2-2]: Eingefügt durch Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 3
 
-**Förderbereiche**
+**Förderbereiche**[^3-1]
 
-Es werden Beiträge für Vorhaben gewährt, welche die musikalische Bildung von Kindern und Jugendlichen durch eigenes, aktives Musizieren fördern, namentlich für Festivals und Wettbewerbe sowie für Vorhaben von Musikformationen.
+Es werden Finanzhilfen für Vorhaben gewährt, welche die musikalische Bildung von Kindern und Jugendlichen durch eigenes, aktives Musizieren fördern, namentlich für Festivals und Wettbewerbe sowie für Vorhaben von Musikformationen.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 ## 3. Abschnitt: Fördervoraussetzungen
 
@@ -97,7 +102,11 @@ Erfüllt ein Vorhaben nur eine der Voraussetzungen nach Absatz 1, so muss es zus
 
 <sup>2</sup> Zum ordentlichen Schulunterricht zählt auch der Unterricht in fakultativen Schulfächern, soweit sie in den Zuständigkeitsbereich der Kantone, Städte und Gemeinden fallen.
 
-## 4. Abschnitt: Förderkriterien und Bemessung der Beiträge
+## 4. Abschnitt: Förderkriterien und Bemessung der Finanzhilfen
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 7
 
@@ -117,26 +126,28 @@ Die Vorhaben werden nach folgenden Kriterien beurteilt:
 
 #### Art. 8
 
-**Bemessung und Art der Gewährung der Beiträge**
+**Bemessung und Art der Gewährung der Finanzhilfen[^8-1]**
 
-<sup>1</sup> Die Beiträge betragen höchstens 30 Prozent der Kosten und höchstens 250 000 Franken pro Vorhaben.[^8-1]
+<sup>1</sup> Die Finanzhilfen betragen höchstens 30 Prozent der Kosten und höchstens 250 000 Franken pro Vorhaben.[^8-2]
 
 <sup>2</sup>
 
 Nicht anrechenbar sind namentlich die Kosten für:
 
-- a.[^8-2] Teilnehmerinnen und Teilnehmer ab 26 Jahren;
-- b.[^8-3] Teilnehmerinnen und Teilnehmer ohne Wohnsitz in der Schweiz;
+- a.[^8-3] Teilnehmerinnen und Teilnehmer ab 26 Jahren;
+- b.[^8-4] Teilnehmerinnen und Teilnehmer ohne Wohnsitz in der Schweiz;
 - c. Kompositionsaufträge;
 - d. die Produktion von Tonträgern.
 
 <sup>3</sup> Freiwilligenarbeit kann als Eigenleistung mit höchstens 10 Prozent der Gesamtkosten berücksichtigt werden.
 
-<sup>4</sup> Die Beiträge können in Form von Defizitgarantien gewährt werden.
+<sup>4</sup> Die Finanzhilfen können in Form von Defizitgarantien gewährt werden.[^8-5]
 
-[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
-[^8-2]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^8-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 [^8-3]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^8-4]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^8-5]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 ## 5. Abschnitt: Verfahren und weitere Bestimmungen
 
@@ -144,16 +155,20 @@ Nicht anrechenbar sind namentlich die Kosten für:
 
 **Verfahren**
 
-<sup>1</sup> Das BAK entscheidet über die Ausrichtung der Beiträge. Zur fachlichen Beurteilung der Gesuche kann es Expertinnen und Experten beiziehen.
+<sup>1</sup> Das BAK entscheidet über die Ausrichtung der Finanzhilfen. Zur fachlichen Beurteilung der Gesuche kann es Expertinnen und Experten beiziehen.[^9-1]
 
-<sup>2</sup> Gesuche um Ausrichtung von Beiträgen sind dem BAK jeweils bis zum 1. September einzureichen.[^9-1]
+<sup>2</sup> Gesuche um Ausrichtung von Finanzhilfen sind dem BAK einzureichen.[^9-2]
+
+<sup>2bis</sup> Für die Ausrichtung der Finanzhilfen kann das BAK Ausschreibungen durchführen. Es kommuniziert in der Ausschreibung die Eingabefristen.[^9-3]
 
 <sup>3</sup> Die Gesuche haben die Erfüllung der Fördervoraussetzungen zu belegen und alle notwendigen Angaben in Bezug auf die Förderkriterien zu enthalten.
 
-<sup>4</sup> Besteht ein Vorhaben seit mindestens zehn Jahren und wurde es mindestens fünf Mal durchgeführt, so kann das BAK mit den Empfängerinnen und Empfängern von Finanzhilfen Leistungsvereinbarungen abschliessen. Es legt darin insbesondere die Höhe der Finanzhilfen und die von den Empfängern zu erbringenden Leistungen fest.[^9-2]
+<sup>4</sup> Das BAK kann mit den Finanzhilfeempfängern Leistungsvereinbarungen abschliessen. Es legt darin insbesondere die Höhe der Finanzhilfen und die von den Finanzhilfeempfängern zu erbringenden Leistungen fest.[^9-4]
 
-[^9-1]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
-[^9-2]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^9-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^9-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^9-3]: Eingefügt durch Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^9-4]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 10
 
@@ -165,11 +180,13 @@ Es wird denjenigen Gesuchen der Vorrang gegeben, welche die Kriterien in einer G
 
 **Auflagen**
 
-Die Empfängerinnen und Empfänger von Beiträgen sind verpflichtet:
+Die Finanzhilfeempfänger sind verpflichtet:[^11-1]
 
 - a. die Unterstützung durch das BAK bekannt zu machen;
 - b. dem BAK alle notwendigen Auskünfte in Zusammenhang mit dem unterstützten Vorhaben zu erteilen;
 - c. dem BAK wesentliche Änderungen des unterstützten Vorhabens unverzüglich mitzuteilen.
+
+[^11-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -179,11 +196,11 @@ Die Empfängerinnen und Empfänger von Beiträgen sind verpflichtet:
 
 #### Art. 11a
 
-**Übergangsbestimmung zur Änderung vom 12. Juni 2020**[^11a-1]
+**Übergangsbestimmung zur Änderung vom 23. Dezember 2024**[^11a-1]
 
-Für Verfahren, die bei Inkrafttreten der Änderung vom 12. Juni 2020 nicht abgeschlossen sind, gilt das bisherige Recht.
+Für Verfahren, die bei Inkrafttreten der Änderung vom 23. Dezember 2024 nicht abgeschlossen sind, gilt das bisherige Recht.
 
-[^11a-1]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^11a-1]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2020 ([AS 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)). Fassung gemäss Ziff. I der V des EDI vom 23. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 12
 

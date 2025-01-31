@@ -3,18 +3,18 @@ sr: "442.122"
 title: "Ordonnance du DFI du 29 novembre 2016 instituant un régime d'encouragement de la formation musicale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/781"
 language: fr
-version: 2020-07-15
+version: 2025-02-01
 adopted: 2016-11-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/781/20200715/fr/xml/fedlex-data-admin-ch-eli-cc-2016-781-20200715-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/781/20200715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/781/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-781-20250201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/781/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI instituant un régime d’encouragement de la formation musicale
 
-du 29 novembre 2016 (État le 15 juillet 2020)
+du 29 novembre 2016 (État le 1<sup>er</sup> février 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -37,11 +37,14 @@ La promotion de la formation musicale vise à favoriser l’acquisition et le d�
 
 **Principes**
 
-<sup>1</sup> Des contributions au sens de la présente ordonnance ne peuvent être demandées en sus pour des projets soutenus en vertu de l’art. 12, al. 2, LEC.[^2-1]
+<sup>1</sup> Des aides financières au sens de la présente ordonnance ne peuvent être demandées en sus pour des projets soutenus en vertu de l’art. 12, al. 2, LEC.[^2-1]
 
 <sup>2</sup> Il n’existe pas de droit à un soutien.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+<sup>3</sup> Les bénéficiaires des aides financières s’engagent en faveur du développement durable, de l’égalité des chances, de la diversité et d’une rémunération équitable des acteurs culturels professionnels.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^2-2]: Introduit par le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 3
 
@@ -58,7 +61,7 @@ Des aides financières sont allouées à des projets visant à encourager la for
 Les projets doivent remplir les conditions suivantes:
 
 - a. présenter un intérêt national au sens de l’art. 5;
-- b.[^4-1] ...
+- b.[^4-1] …
 - c. se dérouler dans le domaine extrascolaire au sens de l’art. 6;
 - d. s’adresser à des participants majoritairement âgés de moins de 26 ans;
 - e. être scientifiquement fondés;
@@ -119,7 +122,7 @@ Les projets sont évalués en fonction des critères suivants:
 
 **Calcul et nature des aides financières**
 
-<sup>1</sup> Les contributions n’excèdent pas 30 % des coûts et 250 000 francs par projet.[^8-1]
+<sup>1</sup> Les aides financières n’excèdent pas 30 % des coûts et 250 000 francs par projet.[^8-1]
 
 <sup>2</sup>
 
@@ -134,7 +137,7 @@ Ne sont pas imputables les coûts occasionnés par:
 
 <sup>4</sup> Les aides financières peuvent être accordées sous forme de garanties de déficit.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
 
@@ -144,16 +147,20 @@ Ne sont pas imputables les coûts occasionnés par:
 
 **Procédure**
 
-<sup>1</sup> L’OFC décide de l’allocation des aides. Il peut faire appel à des experts pour l’évaluation des demandes.
+<sup>1</sup> L’OFC décide de l’allocation des aides financières. Il peut faire appel à des experts pour l’évaluation des demandes.[^9-1]
 
-<sup>2</sup> Les demandes de contributions sont à adresser à l’OFC jusqu’au 1<sup>er</sup> septembre.[^9-1]
+<sup>2</sup> Les demandes d’aides financières doivent être adressées à l’OFC.[^9-2]
+
+<sup>2bis</sup> L’OFC peut mettre au concours les aides financières. Il précise dans la mise au concours le délai de dépôt des demandes.[^9-3]
 
 <sup>3</sup> Les demandes doivent apporter la preuve que les conditions d’un encouragement sont réunies et contenir toutes les indications nécessaires en rapport avec les critères d’encouragement.
 
-<sup>4</sup> Lorsque le projet existe depuis dix ans au moins et qu’il a été organisé à cinq reprises au moins, l’OFC peut conclure des contrats de prestations avec les allocataires des aides financières. Il y établit notamment le montant de l’aide financière et les prestations à apporter par les allocataires.[^9-2]
+<sup>4</sup> L’OFC peut conclure des conventions de prestations avec les bénéficiaires des aides financières. Il y fixe notamment le montant des aides financières et les prestations que les bénéficiaires doivent fournir.[^9-4]
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
-[^9-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^9-3]: Introduit par le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 10
 
@@ -165,11 +172,13 @@ La préférence va aux demandes qui remplissent le mieux les critères dans leur
 
 **Charges**
 
-Les allocataires sont tenus de:
+Les bénéficiaires des aides financières sont tenus de:[^11-1]
 
 - a. faire connaître le soutien apporté par l’OFC;
 - b. communiquer à l’OFC tous les renseignements nécessaires concernant le projet soutenu;
 - c. communiquer sans délai à l’OFC toute modification importante du projet soutenu.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 ## Section 6 Dispositions finales
 
@@ -179,11 +188,11 @@ Les allocataires sont tenus de:
 
 #### Art. 11a
 
-**Disposition transitoire relative à la modification du 12 juin 2020**[^11a-1]
+**Disposition transitoire relative à la modification du 23 décembre 2024**[^11a-1]
 
-Les procédures non closes au moment de l’entrée en vigueur de la modification du 12 juin 2020 sont régies par l’ancien droit.
+Les procédures non closes au moment de l’entrée en vigueur de la modification du 23 décembre 2024 sont régies par l’ancien droit.
 
-[^11a-1]: Introduit par le ch. I de l’O du DFI du 12 juin 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)).
+[^11a-1]: Introduit par le ch. I de l’O du DFI du 12 juin 2020 ([RO 2020 2593](https://fedlex.data.admin.ch/eli/oc/2020/475)). Nouvelle teneur selon le ch. I de l’O du DFI du 23 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 13](https://fedlex.data.admin.ch/eli/oc/2025/13)).
 
 #### Art. 12
 
