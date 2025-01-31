@@ -4,11 +4,11 @@ title: Eisenbahn-Netzzugangsverordnung vom 25. November 1998 (NZV)
 short: NZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: de
-version: 2024-07-01
+version: 2025-02-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20240701-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20240701/de"
 
 (NZV)
 
-vom 25. November 1998 (Stand am 1. Juli 2024)
+vom 25. November 1998 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -48,6 +48,11 @@ Kein Netzzugang muss gewährt werden auf:
 - b. Eisenbahnstrecken, deren besondere Beschaffenheit eine Benützung durch andere Eisenbahnverkehrsunternehmen ausschliesst;
 - c. Anlageteilen, die ein Eisenbahnunternehmen ausschliesslich für die Instandhaltung von Fahrzeugen oder Infrastruktur betreibt.
 
+<sup>4</sup> Die Bestimmungen des 6. Abschnittes über die Trassenpreise gelten auch für Strecken, für die der Bund mit der Infrastrukturbetreiberin eine Leistungsvereinbarung nach Artikel 51 EBG oder mit dem Eisenbahnverkehrsunternehmen eine Angebotsvereinbarung nach Artikel 21 der Verordnung vom 11. November 2009[^1-1] über die Abgeltung des regionalen Personenverkehrs abgeschlossen hat.[^1-2]
+
+[^1-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^1-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+
 #### Art. 2
 
 Aufgehoben
@@ -66,15 +71,15 @@ Aufgehoben
 
 <sup>1</sup> Das Bundesamt für Verkehr (BAV) entscheidet innerhalb von drei Monaten nach Eingang über das Gesuch um Erteilung oder Erneuerung einer Netzzugangsbewilligung.
 
-<sup>2</sup> Es kann die Netzzugangsbewilligung auf bestimmte Verkehrsarten oder Strecken beschränken.
+<sup>2</sup> …[^3-1]
+
+[^3-1]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 4
 
-**Fachliche Eignung**
+[^4-1]
 
-### (Art. 8*d* Abs. 1 Bst. a EBG)
-
-Das Eisenbahnverkehrsunternehmen muss den Nachweis der fachlichen Eignung für einen sicheren und zuverlässigen Betrieb im Verfahren zur Erteilung der Sicherheitsbescheinigung erbringen.
+[^4-1]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 5
 
@@ -92,17 +97,9 @@ Das Eisenbahnverkehrsunternehmen muss den Nachweis der fachlichen Eignung für e
 
 #### Art. 5a
 
-**Finanzgarantien für Infrastrukturbetreiberinnen**[^5a-1]
+[^5a-1]
 
-### (Art. 8*d* Abs. 1 Bst. b EBG)
-
-Das BAV kann eine Infrastrukturbetreiberin ermächtigen, von einem Eisenbahnverkehrsunternehmen für die Trassenpreise der folgenden zwei Monate eine Finanzgarantie in Form einer Vorauszahlung oder einer Bankgarantie zu verlangen, wenn das Eisenbahnverkehrsunternehmen nicht über eine Bankgarantie oder Bürgschaft nach Anhang 1 Ziffer 4 verfügt und:
-
-- a. sich im Zahlungsverzug für zwei mindestens 30 Tage auseinanderliegende Fälligkeitstermine befindet;
-- b. nach einer Kündigung der Netzzugangsvereinbarung durch die Infrastrukturbetreiberin wegen Zahlungsverzug erneut den Netzzugang beantragt; oder
-- c. gemäss einer Bonitätsbewertung durch eine unabhängige Prüfstelle den Trassenpreis mit hoher Wahrscheinlichkeit nicht fristgerecht zahlt.
-
-[^5a-1]: Eingefügt durch Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
+[^5a-1]: Eingefügt durch Ziff. I der V vom 5. Sept 2018 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)). Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 5b
 
@@ -110,11 +107,16 @@ Das BAV kann eine Infrastrukturbetreiberin ermächtigen, von einem Eisenbahnverk
 
 ### (Art. 8*d* Abs. 1 Bst. b EBG)
 
-<sup>1</sup> Der Versicherungsschutz ist genügend, wenn das Unternehmen nachweist, dass es gegen die Folgen seiner Haftpflicht bis zu einem Betrag von 100 Millionen Franken je Schadenereignis versichert ist, oder gleichwertige Sicherheiten vorweist.
+<sup>1</sup>
 
-<sup>2</sup> Endigt der Versicherungsvertrag vor dem im Nachweis über die Sicherstellung angegebenen Zeitpunkt, so muss sich das Versicherungsunternehmen darin verpflichten, bis zum Entzug der Bewilligung, längstens aber während 15 Tagen nach Benachrichtigung des BAV über das Ende des Vertrages gleichwohl Ersatzansprüche nach dessen Bestimmungen zu decken. Als Zeitpunkt des Entzugs gilt der Tag, an dem die Entzugsverfügung rechtskräftig wird.
+Der Versicherungsschutz ist genügend, wenn das Unternehmen:
 
-[^5b-1]: Ursprünglich: Art. 5*a*.
+- a. nachweist, dass die Mindesthöhe der Versicherungssumme insgesamt 100 Millionen Franken je Schadensereignis beträgt und die Summe für jedes Kalenderjahr mindestens zweimal zur Verfügung steht; oder
+- b. gleichwertige Sicherheiten vorweist.
+
+<sup>2</sup> Endigt der Versicherungsschutz vor dem im Nachweis über die Sicherstellung angegebenen Zeitpunkt, so muss sich das Versicherungsunternehmen im Versicherungsvertrag verpflichten, bis zum Entzug der Bewilligung, längstens aber während 15 Tagen nach Benachrichtigung des BAV über das Ende des Vertrages gleichwohl Ersatzansprüche nach dessen Bestimmungen zu decken. Als Zeitpunkt des Entzugs gilt der Tag, an dem die Entzugsverfügung rechtskräftig wird.
+
+[^5b-1]: Ursprünglich: Art. 5*a*. Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 6
 
@@ -155,9 +157,9 @@ Das Eisenbahnverkehrsunternehmen muss im Handelsregister eingetragen sein.
 
 [^9-1]
 
-Ausländische Netzzugangsbewilligungen können für Fahrten auf grenznahen Strecken anerkannt werden, ohne dass dafür ein zwischenstaatliches Abkommen über die gegenseitige Anerkennung von Netzzugangsbewilligungen erforderlich ist.
+Ein ausländisches Unternehmen benötigt einen Versicherungsschutz, welcher gleich hoch ist wie bei einem Schweizer Unternehmen.
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 ## 3*a*. Abschnitt: Netznutzungsplan
 
@@ -177,14 +179,16 @@ Der Netznutzungsplan enthält eine Netzgrafik und insbesondere Angaben über:
 - b. die für die einzelnen Verkehrsarten in den Modellstunden reservierten Mindestkapazitäten;
 - c. die Abweichungen für besondere Verkehre wie saisonale Angebote, Expressgüterzüge und Trassen mit besonderen Anforderungen, insbesondere bezüglich Geschwindigkeiten, Bremsreihen, Traktion und Lichtraumprofil;
 - d. Kapazitäten für die nicht geplante Nachfrage;
-- e. Einschränkungen infolge längerer Streckensperrungen.
+- e.[^9a-2] bekannte planbare Kapazitätsbeschränkungen mit einer Dauer von mehr als sieben aufeinanderfolgenden Tagen und mit einer Beschränkung von mehr als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag sowie ihre Auswirkungen auf die Kapazitäten jeder Verkehrsart.
 
-<sup>2</sup> Er enthält soweit erforderlich Angaben zu geplanten Ankunfts-, Abfahrts- und Durchfahrtszeiten.
+<sup>2</sup> Er enthält soweit erforderlich Angaben zu geplanten Ankunfts-, Abfahrts- und Durchfahrtszeiten sowie Angaben über Kapazitätsbeschränkungen mit einer Dauer von bis zu sieben aufeinanderfolgenden Tagen oder mit einer Beschränkung von weniger als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag sowie ihre Auswirkungen auf die Kapazitäten jeder Verkehrsart.[^9a-3]
 
-<sup>3</sup> …[^9a-2]
+<sup>3</sup> …[^9a-4]
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-[^9a-2]: Aufgehoben durch Ziff. I der V vom 5. Sept 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
+[^9a-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^9a-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^9a-4]: Aufgehoben durch Ziff. I der V vom 5. Sept 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 
 #### Art. 9b
 
@@ -196,11 +200,11 @@ Der Netznutzungsplan enthält eine Netzgrafik und insbesondere Angaben über:
 
 [^9b-1]: Eingefügt durch Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 
-## 4. Abschnitt: Trassenvergabe
+## 4. Abschnitt: Trassenzuteilung
 
 [^sec4-1]
 
-[^sec4-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
+[^sec4-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 10
 
@@ -228,7 +232,7 @@ Die Infrastrukturbetreiberin gewährt den diskriminierungsfreien Zugang zu ihrem
 
 **Antragsfrist für Trassen**
 
-<sup>1</sup> Die ordentliche Trassenzuteilung erfolgt abgestimmt auf das Fahrplanverfahren. Das BAV legt die Fristen für die Beantragung von Trassen und das Zuteilungsverfahren in Anwendung des Zeitplans nach Anhang VII der Richtlinie 2012/34/EU[^11-1] zusammen mit jenen für das Fahrplanverfahren fest.[^11-2]
+<sup>1</sup> Die ordentliche Trassenzuteilung erfolgt abgestimmt auf das Fahrplanverfahren durch die Trassenvergabestelle. Das BAV legt die Fristen für die Beantragung von Trassen und das Zuteilungsverfahren zusammen mit jenen für das Fahrplanverfahren fest. Die Festlegung der Fristen erfolgt in Absprache mit der Schweizerischen Trassenvergabestelle und in Anwendung des Zeitplans nach Anhang VII der Richtlinie 2012/34/EU[^11-1]. Die ordentliche Trassenzuteilung erfolgt bei allen Trassenanträgen, welche bis zum Ablauf der Antragsfrist für die ordentliche Trassenzuteilung bei der Trassenvergabestelle eingereicht werden.[^11-2]
 
 <sup>2</sup> Wer ausserhalb der Fristen nach Absatz 1, aber wenigstens 60 Tage vor der ersten Fahrt, eine Trasse beantragt, erhält innert 30 Tagen die Mitteilung, ob die gewünschte Trasse frei ist.
 
@@ -248,7 +252,7 @@ Die letzte Frist, um eine Trasse zu beantragen, ist:
 <sup>7</sup> Informationen über verfügbare Kapazitätsreserven werden allen interessierten Antragstellern zur Verfügung gestellt.[^11-5]
 
 [^11-1]: Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums, zuletzt geändert durch Delegierter Beschluss (EU) 2017/2075 der Kommission vom 4. September 2017 zur Ersetzung des Anhangs VII der Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates zur Schaffung eines einheitlichen europäischen Eisenbahnraums, ABl. L 295 vom 14.11.2017, S. 69.
-[^11-2]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^11-3]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 [^11-4]: Eingefügt durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 [^11-5]: Eingefügt durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
@@ -264,50 +268,75 @@ Eisenbahnverkehrsunternehmen[^11a-2] dürfen ihnen zugeteilte Trassen nicht auf 
 
 #### Art. 11b
 
-**Bauarbeiten**[^11b-1]
+**Planbare Bauarbeiten**[^11b-1]
 
-<sup>1</sup> Die Infrastrukturbetreiberin muss Bauarbeiten an einer Strecke, die während mehr als sieben aufeinanderfolgenden Tagen zu einer Einschränkung von mehr als einem Drittel des täglichen Verkehrsaufkommens führen, erstmals mindestens 24 Monate und in aktualisierter Form mindestens 12 Monate vor dem Beginn der betroffenen Fahrplanperiode veröffentlichen.
+<sup>1</sup> Die Infrastrukturbetreiberin beantragt Kapazitäten für planbare Bauarbeiten im Rahmen der Netzfahrplanerstellung.
 
-<sup>2</sup> Sie muss den betroffenen Eisenbahnverkehrsunternehmen und Anschliessern Wochenendsperren und verlängerte Nachtsperren drei Monate zum Voraus bekanntgeben.
+<sup>2</sup> Kapazitätsbeschränkungen mit einer Dauer von mehr als sieben aufeinanderfolgenden Tagen und mit einer Beschränkung von mehr als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag muss die Infrastrukturbetreiberin zum ersten Mal mindestens 24 Monate und zum zweiten Mal in aktualisierter Form mindestens 12 Monate vor dem betreffenden Netzfahrplanwechsel veröffentlichen.
 
-<sup>3</sup> Sie kann Sperren ohne Auswirkungen auf die Anschlussgewährung des Personenverkehrs und mit der Möglichkeit, andere Strecken für den Gütertransport zu nutzen, mit den Eisenbahnverkehrsunternehmen und Anschliessern kurzfristig vereinbaren.
+<sup>3</sup> Kapazitätsbeschränkungen mit einer Dauer von bis zu sieben aufeinanderfolgenden Tagen oder mit einer Beschränkung von weniger als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag muss die Infrastrukturbetreiberin den betroffenen Eisenbahnverkehrsunternehmen und Anschliessern sechs Monate und soweit erforderlich in aktualisierter Form mindestens drei Monate zum Voraus bekanntgeben.
 
-<sup>4</sup> Sie beantragt Kapazitäten für planbare Bauarbeiten im Rahmen der Netzfahrplanerstellung.
+<sup>4</sup> Die Infrastrukturbetreiberin kann Kapazitätsbeschränkungen ohne Auswirkungen auf die Transportketten im Personen- und Güterverkehr und mit der Möglichkeit, andere Strecken für den Gütertransport zu nutzen, mit den Eisenbahnverkehrsunternehmen und Anschliessern nach Ablauf der für die Bekanntgabe geltenden Frist von 12 Monaten nach Absatz 2 beziehungsweise 3 Monaten nach Absatz 3 vereinbaren.
 
-<sup>5</sup> Sind Kapazitäten aufgrund ausserplanmässiger Bauarbeiten nicht verfügbar, so informiert sie die betroffenen Eisenbahnverkehrsunternehmen so früh wie möglich darüber.
+<sup>5</sup> Bei drohenden wesentlichen Nachteilen für das Vorhaben oder Bauprojekt kann sie nach Ablauf der für die Bekanntgabe geltenden Frist von 12 Monaten nach Absatz 2 beziehungsweise 3 Monaten nach Absatz 3 ausnahmsweise Kapazitätsbeschränkungen mit Auswirkungen auf die Transportketten im Personen- und Güterverkehr oder ohne Möglichkeit, andere Strecken für den Gütertransport zu nutzen, anordnen. Die Frist für die Publikation der angepassten Fahrpläne nach Absatz 6 ist einzuhalten.
 
-<sup>6</sup> Sie legt nach Konsultation der Eisenbahnverkehrsunternehmen und der Besteller im konzessionierten Personenverkehr sowie nach Absprache mit der Trassenvergabestelle den Ersatzverkehr und die Umleitungen fest. Dabei sind die Transportketten zu gewährleisten. Die angepassten Fahrpläne sind mindestens zwei Monate im Voraus zu publizieren. Auf Reisende, Absender und Empfänger dürfen keine Mehrkosten überwälzt werden.
+<sup>6</sup> Im Fall einer Kapazitätsbeschränkung legt sie nach Konsultation der Eisenbahnverkehrsunternehmen und der weiteren interessierten Kreise sowie nach Absprache mit der Trassenvergabestelle den Ersatzverkehr und die Umleitungen fest. Dabei sind die Transportketten zu gewährleisten. Die angepassten Fahrpläne für die Reisenden sind mindestens zwei Monate im Voraus zu publizieren. Auf Reisende, Absender sowie Empfänger dürfen keine Mehrkosten überwälzt werden.
 
-<sup>7</sup> Im konzessionierten Personenverkehr auf Normalspurstrecken trägt die Infrastrukturbetreiberin die eigenen Kosten sowie die Kosten des Ersatzverkehrs. Die Eisenbahnverkehrsunternehmen tragen die eigenen Kosten.
+[^11b-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
-<sup>8</sup> Im übrigen Verkehr entschädigt die Infrastrukturbetreiberin die Eisenbahnverkehrsunternehmen für die Mehrkosten des Ersatzverkehrs und der mit der Umleitung verbundenen Fahrleistungen. Das BAV regelt die Berechnung der Entschädigung.
+#### Art. 11c
 
-<sup>9</sup> Der Trassenpreis richtet sich nach den effektiv erbrachten Leistungen.
+**Kosten und Entschädigung bei planbaren Bauarbeiten**[^11c-1]
 
-<sup>10</sup> Gibt die Infrastrukturbetreiberin eine Einschränkung nicht rechtzeitig bekannt, so entschädigt sie die Eisenbahnverkehrsunternehmen für die dadurch entstandenen Mehrkosten und Mindererlöse mit einer Pauschale. Das BAV regelt die Berechnung der Pauschale.
+<sup>1</sup> Der Trassenpreis bei planbaren Bauarbeiten richtet sich nach den effektiv erbrachten Leistungen.
 
-[^11b-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)). Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+<sup>2</sup> Dauert die Kapazitätsbeschränkung im konzessionierten Personenverkehr auf Normalspurstrecken weniger als ein ganzes Fahrplanjahr, so trägt die Infrastrukturbetreiberin die eigenen Kosten sowie die Kosten des Ersatzverkehrs. Die Eisenbahnverkehrsunternehmen tragen die eigenen Kosten.
+
+<sup>3</sup>
+
+Dauert die Kapazitätsbeschränkung im übrigen Verkehr weniger als ein ganzes Fahrplanjahr, so entschädigt die Infrastrukturbetreiberin die Eisenbahnverkehrsunternehmen für die Mehrkosten:
+
+- a. des Ersatzverkehrs;
+- b. der mit einer Umleitung verbundenen Fahrleistungen;
+- c. der zeitlichen Verschiebung auf der ursprünglichen Strecke, sofern die Ver-schiebung mindestens 15 Minuten im Expressverkehr und 30 Minuten in den übrigen Verkehren beträgt.
+
+<sup>4</sup> Das BAV regelt die Berechnung der Entschädigung nach Absatz 3.
+
+<sup>5</sup>
+
+Dauert die Kapazitätsbeschränkung mindestens ein ganzes Fahrplanjahr, trägt die Infrastrukturbetreiberin:
+
+- a. die Mehrkosten des Ersatzverkehrs, die sich aus dem Vergleich der Kosten des bestellten Angebots für den Personenverkehr mit denen eines geeigneten zukünftigen oder vergangenen Fahrplanjahres ergeben;
+- b. die Kosten eines Ersatzverkehrs für Halte des Fernverkehrs, die nicht bedient werden können;
+- c. die Mehrkosten eines Ersatzverkehrs für jedes Anschlussgleis, das nicht bedient werden kann.
+
+<sup>6</sup> Gibt die Infrastrukturbetreiberin eine Beschränkung nach Ablauf der Frist von 12 Monaten nach Artikel 11*b* Absatz 2 beziehungsweise 3 Monaten nach Artikel 11*b* Absatz 3 bekannt, so entschädigt sie die Eisenbahnverkehrsunternehmen für die dadurch entstandenen Mehrkosten und Mindererlöse mit einer Pauschale. Das BAV regelt die Berechnung der Pauschale.
+
+[^11c-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 12
 
 **Trassenzuteilung**[^12-1]
 
-<sup>1</sup> Die Trassenvergabestelle[^12-2] teilt die Trassen aufgrund des geltenden Netznutzungsplans zu.
+<sup>1</sup> Die Trassenvergabestelle teilt die Trassen in der ordentlichen Trassenzuteilung aufgrund des geltenden Netznutzungsplans zu. Alle Trassen, welche nach Ablauf der Antragsfrist für die ordentliche Trassenzuteilung beantragt wurden, werden in der Reihenfolge ihres Eintreffens bei der Trassenvergabestelle im Rahmen der verbleibenden Kapazität zugeteilt.[^12-2]
 
-<sup>2</sup> Teilt sie eine Trasse nicht oder nicht zur gewünschten Zeit zu, so muss sie dies gegenüber dem antragstellenden Eisenbahnverkehrsunternehmen begründen.
+<sup>2</sup> Teilt die Trassenvergabestelle eine Trasse nicht oder nicht zur gewünschten Zeit zu, so muss sie dies gegenüber dem antragstellenden Eisenbahnverkehrsunternehmen begründen.[^12-3]
 
-<sup>3</sup> Will sie freigebliebene Trassen einer anderen Verkehrsart für ein regelmässiges Angebot des Personenverkehrs zuteilen, so bedarf sie der Genehmigung des BAV.
+<sup>3</sup> Will sie freigebliebene Trassen einer anderen Verkehrsart für ein regelmässiges Angebot des Personenverkehrs zuteilen, so muss diese Zuteilung durch das BAV genehmigt werden.[^12-4]
 
-<sup>4</sup> Nutzt ein Eisenbahnverkehrsunternehmen eine Trasse auf einer überlasteten Strecke (Art. 12*a*) aus wirtschaftlichen Gründen oder aus Gründen, die es beeinflussen kann, in geringerem Ausmass, als dies die publizierten Netzzugangsbedingungen festlegen, so kann die Trassenvergabestelle die Trasse einer anderen Antragstellerin zuteilen.
+<sup>4</sup> Nutzt ein Eisenbahnverkehrsunternehmen eine Trasse auf einer überlasteten Strecke (Art. 12*a*) aus wirtschaftlichen Gründen oder aus Gründen, die es beeinflussen kann, in geringerem Ausmass, als dies die publizierten Netzzugangsbedingungen festlegen, so kann die Trassenvergabestelle[^12-5] die Trasse einer anderen Antragstellerin zuteilen.
 
-<sup>5</sup> Trassen für die europäischen Güterverkehrskorridore (Art. 9*a* Abs. 1 Bst. a) werden nach den Bestimmungen der Verordnung Nr. 913/2010/EU[^12-3] bestellt und zugeteilt.
+<sup>5</sup> Trassen für die europäischen Güterverkehrskorridore (Art. 9*a* Abs. 1 Bst. a) werden nach den Bestimmungen der Verordnung Nr. 913/2010/EU[^12-6] bestellt und zugeteilt.
 
-<sup>6</sup> Vorbehalten bleiben die Bestimmungen über die Transporte im Rahmen der nationalen Sicherheitskooperation (Art. 41 des Personenbeförderungsgesetzes vom 20. März 2009[^12-4]).
+<sup>6</sup> Vorbehalten bleiben die Bestimmungen über die Transporte im Rahmen der nationalen Sicherheitskooperation (Art. 41 des Personenbeförderungsgesetzes vom 20. März 2009[^12-7]).
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
-[^12-2]: Ausdruck gemäss Ziff. I 4 Abs. 1 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^12-3]: Verordnung (EU) Nr. 913/2010 des Europäischen Parlaments und des Rates vom 22. September 2010 zur Schaffung eines europäischen Schienennetzes für einen wettbewerbsfähigen Güterverkehr, ABl. L 276 vom 20.10.2010, S. 22.
-[^12-4]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^12-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^12-5]: Ausdruck gemäss Ziff. I 4 Abs. 1 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^12-6]: Verordnung (EU) Nr. 913/2010 des Europäischen Parlaments und des Rates vom 22. September 2010 zur Schaffung eines europäischen Schienennetzes für einen wettbewerbsfähigen Güterverkehr, ABl. L 276 vom 20.10.2010, S. 22.
+[^12-7]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 #### Art. 12a
 
@@ -321,15 +350,12 @@ Eisenbahnverkehrsunternehmen[^11a-2] dürfen ihnen zugeteilte Trassen nicht auf 
 
 <sup>4</sup> Bei einer Streckenüberlastung ermittelt die Trassenvergabestelle unter Einbezug der betroffenen Infrastrukturbetreiberin die Gründe in einer Kapazitätsanalyse und legt darin kurz- und mittelfristige Massnahmen zur Beseitigung der Überlastung dar. Sie veröffentlicht die Kapazitätsanalyse innerhalb von drei Monaten, nachdem die Strecke für überlastet erklärt worden ist. Sie kann die in der Kapazitätsanalyse dargelegten Massnahmen für die Nutzerinnen als verbindlich erklären.[^12a-3]
 
-<sup>5</sup> Die Infrastrukturbetreiberin muss dem BAV innerhalb von sechs Monaten nach Abschluss der Kapazitätsanalyse einen Plan zur Erhöhung der Kapazität vorlegen.[^12a-4]
-
-<sup>6</sup> Das BAV unterbreitet den Plan den Nutzerinnen der überlasteten Strecke. Es genehmigt den Plan oder verlangt dessen Änderung.[^12a-5]
+<sup>5</sup> und <sup>6</sup> …[^12a-4]
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^12a-2]: Aufgehoben durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 [^12a-3]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^12a-4]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
-[^12a-5]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
+[^12a-4]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)). Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 12b
 
@@ -344,7 +370,7 @@ Die Trassenvergabestelle erstellt einen Überblick über die zugewiesene Rahmenk
 
 <sup>2</sup> Die Infrastrukturbetreiberinnen und die Unternehmen, die an der Durchführung des Eisenbahnverkehrs interessiert sind (Art. 9*a* Abs. 4 EBG), können über den Netzzugang eine Rahmenvereinbarung abschliessen. Darin legen sie die Merkmale der zuzuteilenden Trassen fest.
 
-<sup>3</sup> Stellt die Trassenvergabestelle Konflikte bei Anträgen für neue Rahmenvereinbarungen fest, so sucht sie nach einer einvernehmlichen Lösung. Kommt keine Lösung zustande, so richtet sich das Verfahren sinngemäss nach Artikel 12*c* Absatz 2 Buchstaben b und c.
+<sup>3</sup> Der Abschluss einer Rahmenvereinbarung ist bei der Trassenvergabestelle zu beantragen. Stellt die Trassenvergabestelle Konflikte bei Anträgen für Rahmenvereinbarungen fest, so sucht sie nach einer einvernehmlichen Lösung. Kommt keine Lösung zustande, so richtet sich das Verfahren sinngemäss nach Artikel 12*c* Absatz 2 Buchstaben b und c.[^12b-2]
 
 <sup>4</sup> Die Rahmenvereinbarung darf keine ausschliesslichen Nutzungsrechte zusichern.
 
@@ -352,10 +378,11 @@ Die Trassenvergabestelle erstellt einen Überblick über die zugewiesene Rahmenk
 
 <sup>6</sup> Sie kann von der Infrastrukturbetreiberin nach Anhörung der Trassenvergabestelle im Interesse einer besseren Nutzung der Strecken gekündigt werden. Für diesen Fall kann die Vereinbarung Entschädigungszahlungen vorsehen.
 
-<sup>7</sup> Die Trassenvergabestelle koordiniert die Rahmenvereinbarungen für grenzüberschreitende Trassen mit den betroffenen ausländischen Infrastrukturbetreiberinnen nach den Artikeln 9, 10 und 12 der Durchführungsverordnung (EU) 2016/545[^12b-2].
+<sup>7</sup> Die Trassenvergabestelle koordiniert die Rahmenvereinbarungen für grenzüberschreitende Trassen mit den betroffenen ausländischen Infrastrukturbetreiberinnen nach den Artikeln 9, 10 und 12 der Durchführungsverordnung (EU) 2016/545[^12b-3].
 
 [^12b-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2003 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)). Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^12b-2]: Durchführungsverordnung (EU) 2016/545 der Kommission vom 7. April 2016 über Verfahren und Kriterien in Bezug auf Rahmenverträge für die Zuweisung von Fahrwegkapazität, Fassung gemäss ABl. L 94 vom 8.4.2016, S. 1.
+[^12b-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^12b-3]: Durchführungsverordnung (EU) 2016/545 der Kommission vom 7. April 2016 über Verfahren und Kriterien in Bezug auf Rahmenverträge für die Zuweisung von Fahrwegkapazität, Fassung gemäss ABl. L 94 vom 8.4.2016, S. 1.
 
 #### Art. 12c
 
@@ -368,13 +395,14 @@ Die Trassenvergabestelle erstellt einen Überblick über die zugewiesene Rahmenk
 Kommt keine Lösung zustande, so gelten folgende Grundsätze:
 
 - a. Anträge, die aufgrund einer Rahmenvereinbarung gestellt wurden, haben Vorrang.
-- b. Das BAV kann für Anträge, die nicht aufgrund einer Rahmenvereinbarung gestellt werden, einen Vorrang definieren.
+- b.[^12c-2] Für Anträge, die nicht aufgrund einer Rahmenvereinbarung gestellt werden, kann die Trassenvergabestelle einen Vorrang definieren; sie berücksichtigt dabei die technischen Rahmenbedingungen, die Transportketten, die Häufigkeit der Züge und die Bedürfnisse der Landesversorgung.
 - c. Zwischen gleichrangigen Anträgen führt die Trassenvergabestelle ein Bietverfahren durch.
 
-<sup>3</sup> Die Trassenvergabestelle regelt nach Anhörung des BAV die Einzelheiten des Bietverfahrens.[^12c-2]
+<sup>3</sup> Die Trassenvergabestelle regelt nach Anhörung des BAV die Einzelheiten des Bietverfahrens.[^12c-3]
 
 [^12c-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
-[^12c-2]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12c-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^12c-3]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 13
 
@@ -384,54 +412,53 @@ Die Namen und Adressen der Eisenbahnverkehrsunternehmen und die in den Dienstfah
 
 #### Art. 14
 
-**Betriebsstörungen**[^14-1]
+**Betriebsstörungen und nicht planbare Bauarbeiten**[^14-1]
 
-<sup>1</sup> Die Infrastrukturbetreiberin hat im Falle von Betriebsstörungen ein Weisungsrecht gegenüber den Eisenbahnverkehrsunternehmen. Infrastrukturbetreiberin und Eisenbahnverkehrsunternehmen sind zur Behebung der Störung und zur Aufrechterhaltung des öffentlichen Verkehrs zur gegenseitigen Information und zu gegenseitigen Hilfeleistungen mit Personal und Material verpflichtet. Die Infrastrukturbetreiberin informiert die Trassenvergabestelle über aufgetretene Störungen und deren Behebung.[^14-2]
+<sup>1</sup> Infrastrukturbetreiberin und Eisenbahnverkehrsunternehmen sind zur Aufrechterhaltung des öffentlichen Verkehrs zur gegenseitigen Information und zu gegenseitigen Hilfeleistungen mit Personal und Material verpflichtet.
 
-<sup>2</sup> Führt die Störung voraussichtlich zu einer mehrtägigen Einschränkung, so legt die Infrastrukturbetreiberin nach Rücksprache mit der Trassenvergabestelle und den betroffenen Eisenbahnverkehrsunternehmen in einem Notfahrplan die Ausweichstrecken, die Trassen und den Ersatzverkehr fest.[^14-3] Sie publiziert den Notfahrplan in geeigneter Weise.
+<sup>2</sup> Im Falle einer Betriebsstörung hat die Infrastrukturbetreiberin für die Behebung der Störung ein Weisungsrecht gegenüber den Eisenbahnverkehrsunternehmen. Die Infrastrukturbetreiberin informiert die Trassenvergabestelle über aufgetretene Störungen und deren Behebung.
 
-<sup>3</sup> Der Notfahrplan stellt die bestmögliche Auslastung der vorhandenen Kapazität sicher. Im Notfahrplan ausgewiesene Anschlüsse des Personenverkehrs sind zu gewährleisten.
+<sup>3</sup> Führt die Störung voraussichtlich zu einer Kapazitätsbeschränkung von mindestens drei Tagen, so erarbeitet die Trassenvergabestelle zusammen mit den betroffenen Infrastrukturbetreiberinnen und Eisenbahnverkehrsunternehmen ein Verkehrskonzept für den Personen- und Güterverkehr. Dieses berücksichtigt die Transportbedürfnisse der verschiedenen Verkehrsarten und allfällige temporäre Verlagerungen auf die Strasse. Die Trassenvergabestelle legt nach Rücksprache mit den betroffenen Infrastrukturbetreiberinnen und Eisenbahnverkehrsunternehmen in einem Notfahrplan die Ausweichstrecken, die Trassen und den Ersatzverkehr fest und stellt die bestmögliche Auslastung der vorhandenen Kapazität auf dem Schienennetz sicher. Sie teilt die Trassen jedem Eisenbahnverkehrsunternehmen im Güterverkehr nach Massgabe seines Verkehrsanteils auf der von der Kapazitätsbeschränkung betroffenen Strecke und der Ausweichstrecke zu. Sie kann dem Personen- und dem Güterverkehr bereits zugeteilte Trassen entziehen, wenn dies der höchstmöglichen Auslastung der Kapazität dient.
 
-<sup>4</sup> Führt die Störung voraussichtlich zu einer Streckensperrung, die länger als drei Tage dauert, so ermittelt die Trassenvergabestelle den Verkehrsanteil der Eisenbahnverkehrsunternehmen am Güterverkehr auf der von der Sperrung betroffenen Strecke und auf der Ausweichstrecke.[^14-4] Sie teilt die Trassen auf der Ausweichstrecke jedem Eisenbahnverkehrsunternehmen nach Massgabe seines Verkehrsanteils auf der von der Sperrung betroffenen Strecke und der Ausweichstrecke zu. Sie kann dem Personen- und dem Güterverkehr bereits zugeteilte Trassen entziehen, wenn dies der bestmöglichen Auslastung der Kapazität dient.
+<sup>4</sup> Die Trassenvergabestelle stellt den Eisenbahnverkehrsunternehmen und den Infrastrukturbetreibern den Notfahrplan in geeigneter Weise zur Verfügung. Im Notfahrplan ausgewiesene Anschlüsse des Personenverkehrs sind zu gewährleisten.
 
-<sup>5</sup> Führt die Ausweichstrecke über die Netze mehrerer Infrastrukturbetreiberinnen, so setzen diese einen gemeinsamen Notfallstab ein, der die Aufgaben nach den Absätzen 2 und 3 wahrnimmt. Die Trassenvergabestelle kann im Notfallstab Einsitz nehmen.[^14-5]
+<sup>5</sup> Sind Kapazitäten aufgrund nicht planbarer Bauarbeiten nicht verfügbar, so informiert die Infrastrukturbetreiberin die betroffenen Eisenbahnverkehrsunternehmen so früh wie möglich darüber.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 13. Aug. 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 2603](https://fedlex.data.admin.ch/eli/oc/2014/455)).
-[^14-2]: Dritter Satz eingefügt durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^14-3]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^14-4]: Fassung gemäss Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-[^14-5]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+<sup>6</sup> Der Trassenpreis bei nicht planbaren Bauarbeiten richtet sich nach den effektiv erbrachten Leistungen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+
+#### Art. 14a
+
+**Pilotversuche**[^14a-1]
+
+Das BAV kann zeitlich befristete Pilotversuche bewilligen, die von den Bestimmungen des 3*a*. und 4. Abschnitts abweichen, wenn diese Pilotversuche der europäischen Harmonisierung und der Erprobung neuer Modelle der Kapazitätsnutzung, der Fahrplanerstellung oder der Trassenzuteilung dienen. Das BAV hört vorgängig die Schweizerische Trassenvergabestelle und die interessierten Kreise an.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 ## 5. Abschnitt: Netzzugangsvereinbarung
 
 #### Art. 15
 
-**Form und Inhalt**
+**Form und Inhalt**[^15-1]
 
-<sup>1</sup> Die Netzzugangsvereinbarung (Art. 9*c* Abs. 2 EBG) ist zwischen der Infrastrukturbetreiberin und dem Eisenbahnverkehrsunternehmen abzuschliessen.[^15-1] Sie ist in einer schweizerischen Amtssprache oder in Englisch schriftlich und im Doppel auszufertigen.
+<sup>1</sup> Die Netzzugangsvereinbarung (Art. 9*c* Abs. 2 EBG) ist zwischen der Infrastrukturbetreiberin und dem Eisenbahnverkehrsunternehmen abzuschliessen.
 
-<sup>2</sup>
+<sup>2</sup> Sie ist in einer schweizerischen Amtssprache oder in Englisch schriftlich auszufertigen.
 
-Sie enthält mindestens:
+<sup>3</sup> Die Infrastrukturbetreiberin muss ein Muster oder einen Verweis auf ein Muster der als Grundlage genutzten Netzzugangsvereinbarung veröffentlichen.
 
-- a. die Vertragsparteien;
-- b. die Zulässigkeit des Beizugs von Subunternehmern oder Partnerunternehmen und die in diesem Falle auszutauschenden Informationen;
-- c.[^15-2] …
-- d. die Vertragsdauer;
-- e. die Definition der Trassen sowie deren Qualität;
-- f. den Trassenpreis und die zu dessen Berechnung notwendigen Daten;
-- g. die bei Nichteinhaltung der Vereinbarung zu leistenden Zahlungen;
-- h. die Rücktrittsbedingungen für die Eisenbahnverkehrsunternehmen (Kündigungsklausel);
-- i. die vom Personal anzuwendende(n) Amtssprache(n);
-- j.[^15-3] die Regelung der Rechte und Pflichten bezüglich der Überwachung der Züge durch Zugkontrolleinrichtungen;
-- k.[^15-4] den Nachweis des Eisenbahnverkehrsunternehmens über eine genügende Haftpflichtversicherung.
+[^15-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
-<sup>3</sup> Besteht bereits eine Vereinbarung und soll ihre Gültigkeit um eine einzelne Trasse ausgedehnt werden, genügt für die Bestätigung nach Absatz 2 Buchstaben e und f eine von der Infrastrukturbetreiberin aufgezeichnete elektronische Übermittlung durch die Eisenbahnverkehrsunternehmen.
+#### Art. 15a
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
-[^15-2]: Aufgehoben durch Ziff. I der V vom 16. Juni 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
-[^15-3]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
-[^15-4]: Eingefügt durch Ziff. III der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+**Finanzgarantien für Infrastrukturbetreiberinnen**[^15a-1]
+
+<sup>1</sup> Die Infrastrukturbetreiberin kann von einem Eisenbahnverkehrsunternehmen eine finanzielle Sicherheit für den Trassenpreis verlangen, um sich gegen Zahlungsausfälle abzusichern. Die Sicherheit muss verhältnismässig und diskriminierungsfrei sein.
+
+<sup>2</sup> Die Infrastrukturbetreiberin regelt die Einzelheiten in den grundsätzlichen Bedingungen des Netzzugangs nach Artikel 10 Absatz 1 Buchstabe d.
+
+[^15a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 16
 
@@ -444,11 +471,9 @@ Sieht die Vereinbarung nichts anderes vor, gelten folgende Bestimmungen:
 
 #### Art. 17
 
-**Benützung eigener Infrastruktur**[^17-1]
+[^17-1]
 
-Verkehrt ein Unternehmen auf seiner eigenen Infrastruktur, so muss es dem BAV im Voraus Angaben im Sinne von Artikel 15 Absatz 2 Buchstaben e–g und j machen.
-
-[^17-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
+[^17-1]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 ## 6. Abschnitt: Trassenpreise
 
@@ -494,9 +519,9 @@ Der Basispreis Trasse wird durch folgende Preisfaktoren, Zuschläge und Rabatte 
 - b. einen qualitätsbezogenen Preisfaktor pro Trasse;
 - c. einen nachfragebezogenen Haltezuschlag;
 - d. qualitätsbezogene Zuschläge und Rabatte für die Umweltbelastung der Fahrzeuge;
-- e. einen Rabatt für Fahrten auf Strecken mit dem Zugsicherungssystem ETCS;
+- e.[^19-2] …
 - f. einen Rabatt für Traktionen, die eine bessere Auslastung der Kapazität einer Strecke ermöglichen;
-- g.[^19-2]
+- g.[^19-3]
 
   einen Rabatt von 10 Rappen pro Achse ab der fünften angetriebenen Achse für Trassen von alpenquerenden Güterzügen auf folgenden Strecken:
 
@@ -508,7 +533,8 @@ Der Basispreis Trasse wird durch folgende Preisfaktoren, Zuschläge und Rabatte 
 <sup>5</sup> Es kann Dritte damit beauftragen, die Berechnung des Verschleisses durch Fahrzeuge zu prüfen.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
-[^19-2]: Eingefügt durch Ziff. I der V vom 4. Dez. 2015, in Kraft seit 1. Jan. 2017 ([AS 2016 157](https://fedlex.data.admin.ch/eli/oc/2016/20), [2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
+[^19-2]: Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^19-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2015, in Kraft seit 1. Jan. 2017 ([AS 2016 157](https://fedlex.data.admin.ch/eli/oc/2016/20), [2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
 
 #### Art. 19a
 
@@ -521,17 +547,17 @@ Der Basispreis Trasse wird durch folgende Preisfaktoren, Zuschläge und Rabatte 
 Der qualitätsbezogene Preisfaktor pro Trasse multipliziert den Basispreis mit:
 
 - a. 1,25 für Trassen des konzessionierten Personenfernverkehrs (Kategorie A);
-- b. 1 für Trassen des übrigen konzessionierten Personenverkehrs (Kategorie B);
-- c.[^19a-2] 0,4 für Trassen des nicht konzessionierten Personenverkehrs, Leerfahrten des Personenverkehrs sowie Trassen des Güterverkehrs (Kategorie C);
-- d.[^19a-3]
+- b.[^19a-2] 1 für Trassen des übrigen konzessionierten Personenverkehrs oder des grenzüberschreitenden Personenverkehrs aufgrund eines Staatsvertrages (Kategorie B);
+- c.[^19a-3] 0,4 für Trassen des nicht konzessionierten Personenverkehrs, Leerfahrten des Personenverkehrs sowie Trassen des Güterverkehrs (Kategorie C);
+- d.[^19a-4]
 
-  0,3 für Trassen (Kategorie D):[^19a-4]
+  0,3 für Trassen (Kategorie D):[^19a-5]
 
   - 1\. von Lokzügen,
   - 2\. mit einer gesamten Fahrzeit von mindestens 15 Minuten längerer Dauer als bei der schnellstmöglichen Trasse gleicher Höchstgeschwindigkeit,
   - 3\. von Traktor- und Nahgüterzügen im Einzelwagenladungsverkehr.
 
-<sup>3</sup> …[^19a-5]
+<sup>3</sup> …[^19a-6]
 
 <sup>4</sup> Der nachfragebezogene Haltezuschlag beträgt 2 Franken pro Halt auf Strecken mit Mischverkehr von Regionalverkehr und mindestens zwölf Zügen des Personenfernverkehrs oder des überregionalen Güterverkehrs pro Tag. Das BAV publiziert eine Liste dieser Strecken.
 
@@ -540,25 +566,26 @@ Der qualitätsbezogene Preisfaktor pro Trasse multipliziert den Basispreis mit:
 Die qualitätsbezogenen Zuschläge und Rabatte für die Umweltbelastung der Fahrzeuge sind:
 
 - a. ein Zuschlag von 0,3 Rappen pro Bruttotonnenkilometer für Züge mit thermischer Traktion auf elektrifizierten Strecken, ausgenommen Versuchsfahrten, Fahrten mit historischen Fahrzeugen und Dienstzüge von Infrastrukturbetreiberinnen;
-- b.[^19a-6]
+- b.[^19a-7]
 
   für Gefahrguttransporte ein Zuschlag von:
 
   - 1\. 2 Rappen pro Achskilometer für Fahrzeuge ohne Drehgestelle,
   - 2\. 4 Rappen pro Drehgestellkilometer für Fahrzeuge mit Drehgestellen;
 
-- c.[^19a-7] ein Rabatt für lärmarme Fahrzeuge (Lärmbonus).
+- c.[^19a-8] ein Rabatt für lärmarme Fahrzeuge (Lärmbonus).
 
-<sup>6</sup> Das BAV kann für Fahrten auf Schmalspurstrecken, auf Grenzbetriebsstrecken nach Anhang 2 oder mit historischen Fahrzeugen eine Vereinfachung oder Pauschalierung der Preisfaktoren, Zuschläge und Rabatte vorsehen.[^19a-8]
+<sup>6</sup> Das BAV kann für Fahrten auf Schmalspurstrecken, auf grenznahen Strecken oder mit historischen Fahrzeugen eine Vereinfachung oder Pauschalierung der Preisfaktoren, Zuschläge und Rabatte vorsehen.[^19a-9]
 
 [^19a-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
-[^19a-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
-[^19a-3]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
-[^19a-4]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
-[^19a-5]: Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
-[^19a-6]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
-[^19a-7]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
-[^19a-8]: Eingefügt durch Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
+[^19a-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^19a-3]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
+[^19a-4]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
+[^19a-5]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
+[^19a-6]: Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
+[^19a-7]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
+[^19a-8]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
+[^19a-9]: Eingefügt durch Ziff. I der V vom 24. Juni 2015 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 19b
 
@@ -600,19 +627,9 @@ Die Eisenbahnverkehrsunternehmen müssen der bezeichneten Stelle jedes Fahrzeug,
 
 #### Art. 19c
 
-**Rabatt für Zugsicherungssystem ETCS[^19c-2]**[^19c-1]
+[^19c-1]
 
-<sup>1</sup> Auf Gesuch hin wird für Fahrten auf Strecken, die auf das Zugssicherungssystem ETCS umgebaut wurden, auf dem Trassenpreis ein Rabatt von 25 000 Franken pro Fahrzeugausrüstung und Jahr gewährt.
-
-<sup>2</sup> Der Rabatt wird bis zum 31. Dezember 2024 für Fahrzeuge gewährt, die vor dem 1. Januar 2013 in Betrieb genommen wurden und die weder die Strecke Mattstetten–Rothrist noch die Lötschberg-Basisstrecke, die Gotthard-Basisstrecke oder die Ceneri-Basisstrecke befahren.
-
-<sup>3</sup> Vom Rabatt ausgeschlossen sind Fahrzeuge, deren ETCS-Ausrüstung vom Bund subventioniert worden ist.
-
-<sup>4</sup> Die Gesuche sind jeweils für ein Kalenderjahr zu stellen und spätestens Ende Juni des Folgejahres beim BAV einzureichen. Wird die Frist zur Einreichung der Gesuche nicht eingehalten, so entfällt der Anspruch auf den Rabatt.[^19c-3]
-
-[^19c-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
-[^19c-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
-[^19c-3]: Eingefügt durch Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
+[^19c-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)). Aufgehoben durch Ziff. I der V vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 19d
 
@@ -636,11 +653,12 @@ Das Stornierungsentgelt entspricht dem Basispreis Trasse nach Artikel 19 Absatz 
 Auf überlasteten Strecken (Art. 12*a*) wird das Stornierungsentgelt auch fällig bei Verzicht auf:
 
 - a. eine provisorisch zugeteilte Trasse, wenn die Zuteilung mindestens fünf Arbeitstage zurückliegt;
-- b. eine bestellte Trasse, wenn die Bestellung zu Konflikten unter Nutzerinnen führt und die Trassenvergabestelle die betroffenen Nutzerinnen vor mehr als fünf Arbeitstagen über die Konflikte informiert hat.
+- b.[^19d-4] eine bestellte Trasse, wenn die Bestellung zu Konflikten unter Nutzerinnen führt und die zuständige Trassenvergabestelle die betroffenen Nutzerinnen vor mehr als fünf Arbeitstagen über die Konflikte informiert hat.
 
 [^19d-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 2475](https://fedlex.data.admin.ch/eli/oc/2015/463)).
 [^19d-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
 [^19d-3]: Fassung gemäss Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
+[^19d-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 19e und 19f
 
@@ -686,15 +704,18 @@ Der Deckungsbeitrag im konzessionierten Personenverkehr wird von der Konzessions
 
 <sup>2</sup> Der Strompreis wird in der Hauptverkehrszeit um 20 Prozent erhöht und von 22–6 Uhr um 40 Prozent gesenkt.
 
-<sup>3</sup> Die Eisenbahnverkehrsunternehmen messen den Stromverbrauch mit in den Fahrzeugen installierten Messeinrichtungen. Für diese müssen sie über einen Konformitätsnachweis verfügen, der sich auf eine Konformitätsbewertung durch eine benannte Stelle stützt. Messen sie auf den interoperablen Strecken nach Artikel 15*a* Absatz 1 der Eisenbahnverordnung vom 23. November 1983[^20a-3] den Stromverbrauch nicht mit diesen Einrichtungen, so erhebt die Infrastrukturbetreiberin ab dem 1. Januar 2020 einen Zuschlag von 25 Prozent auf dem Pauschalansatz der betreffenden Zugskategorie. Das BAV legt die Pauschalansätze entsprechend den gemessenen Mittelwerten pro Zugskategorie fest.[^20a-4]
+<sup>3</sup> Die Eisenbahnverkehrsunternehmen messen den Stromverbrauch mit in den Fahrzeugen installierten Messeinrichtungen. Für diese müssen sie über einen Konformitätsnachweis verfügen, der sich auf eine Konformitätsbewertung durch eine benannte Stelle stützt. Fehlen die gemessenen Werte des Stromverbrauchs, sind sie fehlerhaft oder werden sie zu spät geliefert, so kann die Infrastrukturbetreiberin Ersatzwerte festlegen und den Stromverbrauch anhand dieser zuschlagfrei verrechnen. Die Ersatzwerte bestimmen sich anhand des vergangenen Verkehrs auf vergleichbaren Strecken mit vergleichbaren Fahrzeugen.[^20a-3]
 
-<sup>4</sup> Bei Fahrten mit historischen Triebfahrzeugen wird kein Zuschlag erhoben.[^20a-5]
+<sup>4</sup> Verzichten die Eisenbahnverkehrsunternehmen auf den interoperablen Strecken nach Artikel 15*a* Absatz 1 Buchstabe a der Eisenbahnverordnung vom 23. November 1983[^20a-4] sowie der nicht interoperablen normalspurigen Strecke Emmenbrücke-Hübeli (Abzw.) – Beinwil am See – Lenzburg auf die Messung des Stromverbrauchs, so erhebt die Infrastrukturbetreiberin ab dem 1. Januar 2020 einen Zuschlag von 25 Prozent auf dem Pauschalansatz der betreffenden Zugskategorie. Das BAV legt die Pauschalansätze entsprechend den gemessenen Medianwerten pro Zugskategorie fest.[^20a-5]
+
+<sup>5</sup> Bei Fahrten mit historischen Triebfahrzeugen wird kein Zuschlag erhoben.[^20a-6]
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009 ([AS 2009 5813](https://fedlex.data.admin.ch/eli/oc/2009/701)). Fassung gemäss Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
 [^20a-2]: Fassung gemäss Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-[^20a-3]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^20a-4]: Fassung gemäss Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-[^20a-5]: Eingefügt durch Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
+[^20a-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^20a-4]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^20a-5]: Eingefügt durch Ziff. I der V vom 5. Sept 2018 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^20a-6]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 21
 
@@ -716,43 +737,40 @@ Die Grundleistungen umfassen:
 
 #### Art. 22
 
-**Zusatzleistungen**
+**Zusatzleistungen**[^22-1]
 
 <sup>1</sup>
 
-Die Infrastrukturbetreiberin legt die Preise für folgende Zusatzleistungen, soweit diese mit der vorhandenen Infrastruktur und dem verfügbaren Personal angeboten werden, diskriminierungsfrei fest und publiziert sie:[^22-1]
+Die Infrastrukturbetreiberin legt die Preise für folgende Zusatzleistungen in Funktion von Nachfrage und Anlagewert standortabhängig und diskriminierungsfrei fest und publiziert sie:
 
-- a.[^22-2] …
-- b.[^22-3] Gleisbelegung auf der Strecke bei einer vom Eisenbahnverkehrsunternehmen verlangten, nicht durch den Systemverkehr bedingten Wartezeit;
-- c. Abstellen von Zugskompositionen;
-- d. Rangierfahrstrassen;
-- e.[^22-4] stationäre Versorgung von Fahrzeugen mit Wasser und mit Strom, sofern dieser nicht nach Verbrauch abgerechnet werden kann;
-- e<sup>bis</sup>.[^22-5] Entsorgung von Abfällen, Fäkalien und Gebrauchtwasser;
-- f. Benutzung von Verladegleis und Verladeanlagen;
-- g. Rangieren in Rangierbahnhöfen;
-- h. Offenhaltung einer Strecke ausserhalb der üblichen Betriebszeiten;
-- i*.*[^22-6] Rangierdienstleistungen, soweit sie nicht in Rangierbahnhöfen erbracht werden;
-- j.[^22-7] zusätzliche Leistungen für die Information der Kundschaft;
-- k.[^22-8] Arbeitshilfen für Zugbegleiter und -begleiterinnen des Fernverkehrs zur Verbesserung der Betriebsabwicklung, insbesondere Videoüberwachung der Perronkanten;
-- l.[^22-9] Zusatzaufwand bei Trassenbestellungen, die nach 17 Uhr des Vortages erfolgen (Art. 11 Abs. 3 Bst. a);
-- m.[^22-10] Zusatzaufwand bei nachträglichen Änderungen an bereits zugeteilten Trassen.
+- a. Benutzung öffentlicher Verladeanlagen (Art. 62 Abs. 1 Bst. f EBG);
+- b. Gleisbelegung auf der Strecke bei einer vom Eisenbahnverkehrsunternehmen verlangten, nicht durch den Systemverkehr bedingten Wartezeit;
+- c. Abstellen von Eisenbahnfahrzeugen.
 
-<sup>2</sup> Die Preise nach Absatz 1 Buchstaben a–c und f sind als Knappheitspreise in Funktion von Nachfrage und Anlagewert standortabhängig zu bilden. Die übrigen Preise sind sinngemäss nach den Grundsätzen von Artikel 19 festzulegen. Zusätzlich können Kapital- und Abschreibungskosten von Anlagen, die hauptsächlich den Zusatzleistungen dienen, anteilsmässig geltend gemacht werden.[^22-11]
+<sup>2</sup>
 
-<sup>3</sup> Leistungen nach Absatz 1 Buchstabe i können von den Eisenbahnverkehrsunternehmen zu frei aushandelbaren Preisen auch bei anderen Unternehmen als der Infrastrukturbetreiberin zugekauft werden. In diesem Fall gelten sie als Serviceleistungen (Art. 23).[^22-12]
+Sie legt die Preise für folgende Zusatzleistungen diskriminierungsfrei und gemäss den Grundsätzen nach Artikel 19 fest und publiziert sie:
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
-[^22-2]: Aufgehoben durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^22-3]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
-[^22-4]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
-[^22-5]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
-[^22-6]: Eingefügt durch Ziff. I der V vom 16. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
-[^22-7]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
-[^22-8]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
-[^22-9]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
-[^22-10]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
-[^22-11]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5813](https://fedlex.data.admin.ch/eli/oc/2009/701)).
-[^22-12]: Eingefügt durch Ziff. I der V vom 16. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
+- a. stationäre Versorgung von Fahrzeugen mit Wasser, Druckluft und Strom;
+- b. Einstellen von Rangierfahrstrassen;
+- c. Rangieren in Rangierbahnhöfen;
+- d. Offenhaltung einer Strecke ausserhalb der üblichen Betriebszeiten;
+- e. Zusatzaufwand bei Trassenbestellungen, die nach 17 Uhr des Vortages erfolgen (Art. 11 Abs. 3 Bst. a);
+- f. Zusatzaufwand bei nachträglichen Änderungen an bereits zugeteilten Trassen;
+- g. Planungs- und Sonderaufgaben im Zusammenhang mit aussergewöhnlichen Sendungen.
+
+<sup>3</sup>
+
+Sie legt die Preise für folgende Zusatzleistungen, soweit diese mit der vorhandenen Infrastruktur und dem verfügbaren Personal angeboten werden können, diskriminierungsfrei so fest, dass die vollen Kosten gedeckt sind und publiziert sie:
+
+- a. Entsorgung von Abfällen, Fäkalien und Gebrauchtwasser;
+- b. Rangierdienstleistungen, soweit sie nicht in Rangierbahnhöfen erbracht werden;
+- c. Leistungen für die Information der Kundschaft;
+- d. Arbeitshilfen für Zugbegleiter und -begleiterinnen des Fernverkehrs zur Verbesserung der Betriebsabwicklung, insbesondere Videoüberwachung der Perronkanten.
+
+<sup>4</sup> Rangierdienstleistungen nach Absatz 3 Buchstabe b können von anderen Unternehmen als der Infrastrukturbetreiberin als Serviceleistungen angeboten werden.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 23
 
