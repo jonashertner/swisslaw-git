@@ -3,20 +3,22 @@ sr: "455.110.1"
 title: "Ordinanza dell'USAV del 27 agosto 2008 sulla detenzione di animali da reddito e di animali domestici (Ordinanza sugli animali da reddito e domestici)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/610"
 language: it
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-08-27
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/610/20180301/it/xml/fedlex-data-admin-ch-eli-cc-2008-610-20180301-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/610/20180301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/610/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2008-610-20250201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/610/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV sulla detenzione di animali da reddito e di animali domestici
 
-del 27 agosto 2008 (Stato 1° marzo 2018)[^t-1]
+(Ordinanza sugli animali da reddito e domestici)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+del 27 agosto 2008 (Stato 1° febbraio 2025)
+
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 L’Ufficio federale di sicurezza alimentare e di veterinaria (USAV),
 
@@ -25,7 +27,7 @@ visto l’articolo 209 capoverso 1 dellʼordinanza del 23 aprile 2008[^ingress-1
 ordina:
 
 [^ingress-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -35,7 +37,7 @@ ordina:
 
 La presente ordinanza disciplina i requisiti degli impianti, delle pratiche di cura, del trattamento degli animali e della documentazione nella detenzione di bovini, suini, ovini, caprini, lama e alpaca, equidi, conigli e polli domestici.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
 
 ## Capitolo 2: Disposizioni generali sulla detenzione di animali
 
@@ -118,15 +120,13 @@ I pavimenti del settore di riposo dei suini possono presentare una parte perfora
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
 
 #### Art. 7a
 
-**Periodo di foraggiamento invernale**[^7a-1]
+[^7a-1]
 
-Per periodo di foraggiamento invernale si intende il periodo dal 1° novembre al 30 aprile.
-
-[^7a-1]: Introdotto dal n. I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^7a-1]: Introdotto dalla cifra I dell’O dell’USAV del 23 ott. 2013 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)). Abrogato dalla cifra I dell’O dell’USAV del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 #### Art. 8
 
@@ -142,9 +142,9 @@ Per periodo di foraggiamento invernale si intende il periodo dal 1° novembre al
 
 <sup>5</sup> Le rinunce all’uscita degli equidi ai sensi dell’articolo 61 capoverso 6 lettere a–d OPAn devono essere annotate indicandone il motivo e, per le situazioni di cui alle lettere c e d, il luogo e le circostanze.
 
-[^8-1]: Introdotta dal n. I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
-[^8-2]: Nuova espr. giusta il n. I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^8-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
+[^8-1]: Introdotta dalla cifra I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^8-2]: Nuova espr. giusta la cifra I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^8-3]: Nuovo testo giusta la cifra I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
 
 ## Capitolo 3: Bovini
 
@@ -174,7 +174,7 @@ I vitelli possono essere immobilizzati per l’abbeverata ogni volta al massimo 
 
 <sup>3</sup> Se il foraggio grezzo è costantemente disponibile sotto forma di paglia, la somministrazione quotidiana di un altro foraggio adeguato che garantisca l’apporto di fibre grezze può essere limitata.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
 
 ### Sezione 2: Stabulazione fissa
 
@@ -233,11 +233,14 @@ Le coperture del canale del colaticcio perforate e munite di traverse rivestite 
 
 <sup>3</sup> Le parti del cordolo posteriore e del cordolo anteriore rivolte verso l’animale devono essere arrotondate o smussate con un taglio obliquo. Il cordolo posteriore, il cordolo anteriore come pure il livello del pavimento nella zona per la testa non possono superare il livello della superficie di riposo di più di 10 cm.
 
-<sup>4</sup> In caso di utilizzazione di tubi allineatori rigidi, i box contrapposti devono essere divisi mediante una tubo frontale o un’attrezzatura analoga. Tale elemento separatore deve trovarsi a metà tra i box contrapposti.
+<sup>4</sup> Nei box di riposo con dispositivo rigido per il collo, è necessario prevedere un’attrezzatura adeguata per garantire che gli animali non possano entrare nella zona per la testa.[^16-1]
 
 <sup>5</sup> Nel settore di riposo le piantane non devono disturbare gli animali, né quando sono coricati né al momento del coricamento o dell’alzata.
 
-<sup>6</sup> Nei box fronte muro, la piantana anteriore del battifianco deve essere fissata direttamente al muro oppure deve trovarsi ad una distanza di almeno 45 cm da quest’ultimo.
+<sup>6</sup> ... [^16-2]
+
+[^16-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
+[^16-2]: Abrogato dalla cifra I dell’O dell’USAV del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 #### Art. 17
 
@@ -268,7 +271,7 @@ Nelle stalle a stabulazione libera, la larghezza delle corsie trasversali deve e
 
 Per l’abbeverata non è consentito l’impiego di abbeveratoi a tettarella o a succhiotto
 
-[^19-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
 
 #### Art. 20
 
@@ -398,7 +401,7 @@ La punta dei denti dei lattonzoli può essere levigata soltanto utilizzando gli 
 
 <sup>3</sup> I lama e gli alpaca devono essere tosati secondo la crescita e le condizioni del loro pelame.[^31-1]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
 
 ## Capitolo 7: Equidi
 
@@ -433,13 +436,25 @@ I parchi senza lettiera possono essere utilizzati soltanto in locali in cui nel 
 
 [^chap8a-1]
 
-[^chap8a-1]: Introdotto dal n. I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
+[^chap8a-1]: Introdotto dalla cifra I dell’O dell’USAV del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 635](https://fedlex.data.admin.ch/eli/oc/2018/80)).
 
 #### Art. 34a
 
-<sup>1</sup> Al di sopra dei posatoi destinati ai polli domestici, l’altezza libera deve essere di almeno 50 cm. I posatoi più bassi devono essere collocati a un’altezza minima di 50 cm dal pavimento del pollaio.
+**Posatoi e posatoi sopraelevati per i pulcini**[^34a-1]
 
-<sup>2</sup> Per gli animali di razza nana è possibile ridurre a 40 cm le misure di cui al capoverso 1.
+<sup>1</sup> I posatoi devono essere collocati a un’altezza minima di 50 cm dal pavimento del pollaio. Per gli animali di razza nana è possibile ridurre tale altezza a 40 cm.
+
+<sup>2</sup> Nel caso di polli domestici, i pulcini ovaioli e riproduttori devono poter accedere a posatoi sopraelevati nelle prime due settimane di vita.
+
+[^34a-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
+
+#### Art. 34b
+
+**Piani dei posatoi di foraggiamento**[^34b-1]
+
+Nel caso di polli domestici, i piani dei posatoi di foraggiamento installati al di sopra delle superfici grigliate possono essere calcolati come superficie calpestabile secondo l’allegato 1 tabella 9–1 numero 2 OPAn, se sono costituiti da una mangiatoia con due posatoi paralleli, la cui distanza tra gli assi misura almeno 30 cm. Una superficie grigliata al di sopra della quale vi è almeno un piano di posatoi di foraggiamento viene conteggiata 1,5 volte come superficie calpestabile.
+
+[^34b-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 ## Capitolo 9: Entrata in vigore
 
@@ -453,11 +468,11 @@ Allegato 1
 
 ## Larghezza delle fessure e dimensioni dei fori dei pavimenti perforati
 
-## 1 Bovini
+### 1 Bovini
 
-[^annex1-lvl1-1]
+[^annex1-lvlu1-lvl1-1]
 
-[^annex1-lvl1-1]: [RU 2009 5389](https://fedlex.data.admin.ch/eli/oc/2009/649)
+[^annex1-lvlu1-lvl1-1]: [RU 2009 5389](https://fedlex.data.admin.ch/eli/oc/2009/649)
 
 <table>
 <tr><th>Tipo di pavimenti perforati</th><th>Categoria di peso degli animali</th><th colspan="2">Larghezza massima delle fessure o dimensioni massime dei fori [mm]</th></tr>
@@ -475,7 +490,7 @@ Allegato 1
 <tr><td colspan="4"><sup>1</sup> La lunghezza delle celle non può superare i 90 mm.</td></tr>
 </table>
 
-## 2 Suini
+### 2 Suini
 
 <table>
 <tr><th>Tipo di pavimenti perforati</th><th>Categoria di peso degli animali</th><th>Larghezza massima delle fessure o dimensioni massime dei fori [mm]</th></tr>

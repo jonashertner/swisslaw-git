@@ -3,20 +3,22 @@ sr: "455.110.1"
 title: Verordnung des BLV vom 27. August 2008 über die Haltung von Nutztieren und Haustieren (Nutz- und Haustierverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/610"
 language: de
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-08-27
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/610/20180301/de/xml/fedlex-data-admin-ch-eli-cc-2008-610-20180301-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/610/20180301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/610/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2008-610-20250201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/610/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über die Haltung von Nutztieren und Haustieren
 
-vom 27. August 2008 (Stand am 1. März 2018)[^t-1]
+(Nutz- und Haustierverordnung)[^t-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+vom 27. August 2008 (Stand am 1. Februar 2025)
+
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -122,11 +124,9 @@ Böden im Liegebereich von Schweinen dürfen maximal folgenden Perforationsantei
 
 #### Art. 7a
 
-**Winterfütterungsperiode**[^7a-1]
+[^7a-1]
 
-Als Winterfütterungsperiode gilt der Zeitraum vom 1. November bis zum 30. April.
-
-[^7a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^7a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)). Aufgehoben durch Ziff. I der V des BLV vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 #### Art. 8
 
@@ -233,11 +233,14 @@ Perforierte Schwemmkanalabdeckungen mit gummierten Stegen, die zur Lägerverlän
 
 <sup>3</sup> Kotkante und Bugkante sind tierseitig abzurunden oder abzuschrägen. Kotkante, Bugkante und Bodenniveau des Kopfraumes dürfen die Liegefläche um nicht mehr als 10 cm überragen.
 
-<sup>4</sup> Gegenständige Boxen müssen bei der Verwendung von starren Nackenrohren durch ein Frontrohr oder eine ähnliche Einrichtung voneinander getrennt sein. Diese Abtrennung muss sich in der Mitte zwischen den gegenüberliegenden Boxen befinden.
+<sup>4</sup> In Liegeboxen mit starrer Nackensteuerung muss durch eine geeignete Einrichtung sichergestellt sein, dass die Tiere nicht in den Kopfraum gelangen können.[^16-1]
 
 <sup>5</sup> Stützen im Liegeboxenbereich dürfen die Tiere weder beim Liegen, Abliegen noch Aufstehen stören.
 
-<sup>6</sup> Die vordere Abstützung der Liegeboxen-Trennbügel muss bei wandständigen Boxen entweder ganz an der Wand oder aber mindestens 45 cm davon entfernt angebracht sein.
+<sup>6</sup> …[^16-2]
+
+[^16-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
+[^16-2]: Aufgehoben durch Ziff. I der V des BLV vom 20. Dez. 2024, mit Wirkung seit 1. Febr. 2025 ([AS 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 #### Art. 17
 
@@ -435,9 +438,21 @@ Gehege ohne Einstreu dürfen nur in Räumen verwendet werden, in denen im Tierbe
 
 #### Art. 34a
 
-<sup>1</sup> Oberhalb von Sitzstangen für Haushühner muss mindestens 50 cm lichte Höhe frei bleiben. Die tiefer gelegenen Sitzstangen müssen mindestens 50 cm über dem Stallboden angebracht sein.
+**Sitzstangen sowie erhöhte Sitzgelegenheiten für Küken**[^34a-1]
 
-<sup>2</sup> Für Zwergrassen können die Masse nach Absatz 1 auf 40 cm reduziert werden.
+<sup>1</sup> Sitzstangen müssen mindestens 50 cm über dem Stallboden angebracht sein. Für Zwergrassen kann dieses Mass auf 40 cm reduziert werden.
+
+<sup>2</sup> Für Lege- und Elterntierküken der Haushühner muss in den ersten zwei Lebenswochen der Zugang zu erhöhten Sitzgelegenheiten gewährleistet sein.
+
+[^34a-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
+
+#### Art. 34b
+
+**Sitzstangen-Fütterungsebenen**[^34b-1]
+
+Für Haushühner können über Gitterflächen eingerichtete Sitzstangen-Fütterungsebenen an die begehbare Fläche nach Anhang 1 Tabelle 9‑1 Ziffer 2 TSchV angerechnet werden, wenn sie aus einem Futtertrog mit zwei parallelen Sitzstangen bestehen, die einen Achsabstand von mindestens 30 cm haben. Eine Gitterfläche, über der sich mindestens eine Sitzstangen-Fütterungsebene befindet, wird 1,5‑mal als begehbare Fläche angerechnet.
+
+[^34b-1]: Eingefügt durch Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 ## 9. Kapitel: Inkrafttreten
 

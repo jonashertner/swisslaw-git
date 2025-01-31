@@ -3,20 +3,22 @@ sr: "455.110.1"
 title: "Ordonnance de l'OSAV du 27 août 2008 sur la détention des animaux de rente et des animaux domestiques (Ordonnance sur les animaux de rente et les animaux domestiques)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/610"
 language: fr
-version: 2018-03-01
+version: 2025-02-01
 adopted: 2008-08-27
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/610/20180301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-610-20180301-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/610/20180301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/610/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-610-20250201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/610/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV sur la détention des animaux de rente et des animaux domestiques
 
-du 27 août 2008 (État le 1<sup>er</sup> mars 2018)[^t-1]
+(Ordonnance sur les animaux de rente et les animaux domestiques)[^t-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+du 27 août 2008 (État le 1<sup>er</sup> février 2025)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -123,11 +125,9 @@ Sur les aires de repos destinées aux porcs, la perforation des sols ne doit pas
 
 #### Art. 7a
 
-**Période d’affouragement d’hiver**[^7a-1]
+[^7a-1]
 
-La période d’affouragement d’hiver s’étend du 1<sup>er</sup> novembre au 30 avril.
-
-[^7a-1]: Introduit par le ch. I de l’O de l’OSAV du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)).
+[^7a-1]: Introduit par le ch. I de l’O de l’OSAV du 23 oct. 2013 ([RO 2013 3787](https://fedlex.data.admin.ch/eli/oc/2013/699)). Abrogé par le ch. I de l’O de l’OSAV du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 #### Art. 8
 
@@ -234,11 +234,14 @@ Les éléments perforés recouvrant les canaux d’évacuation, munis de barreau
 
 <sup>3</sup> Le rebord garde-litière et l’arrêtoir d’épaule doivent être arrondis ou biseautés du côté animal. Le rebord garde-litière et l’arrêtoir d’épaule, tout comme le niveau du sol de l’espace de tête, ne doivent pas dépasser la couche de plus de 10 cm.
 
-<sup>4</sup> En cas d’utilisation d’une barre de nuque rigide, les logettes opposées doivent être séparées par une barre frontale ou par un dispositif semblable. Cette séparation doit se situer au milieu de l’espace séparant les logettes opposées.
+<sup>4</sup> Dans les logettes équipées d’une barre de nuque rigide, un dispositif approprié doit être prévu pour empêcher les animaux d’avancer dans l’espace réservé à la tête.[^16-1]
 
 <sup>5</sup> Les piliers situés dans l’aire des logettes ne doivent pas gêner les animaux ni lorsqu’ils sont couchés ni lorsqu’ils se couchent ou se lèvent.
 
-<sup>6</sup> Si les logettes sont adossées à la paroi, le point d’appui antérieur des bat-flanc doit se trouver à même la paroi ou être à une distance d’au moins 45 cm de celle-ci.
+<sup>6</sup> …[^16-2]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
+[^16-2]: Abrogé par le ch. I de l’O de l’OSAV du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 #### Art. 17
 
@@ -440,9 +443,21 @@ Les enclos sans litière ne sont admis que dans les locaux où la température d
 
 #### Art. 34a
 
-<sup>1</sup> Au-dessus des perchoirs des poules domestiques, il faut une hauteur libre de tout obstacle d’au moins 50 cm. Le perchoir du bas doit être fixé à au moins 50 cm du sol.
+**Perchoirs et possibilités de se percher pour les poussins**[^34a-1]
 
-<sup>2</sup> Les dimensions visées à l’al. 1 peuvent être réduites à 40 cm pour les races naines.
+<sup>1</sup> Les perchoirs doivent être fixés à au moins 50 cm du sol. Cette hauteur peut être réduite à 40 cm pour les races naines.
+
+<sup>2</sup> S’agissant des poules domestiques, les poussins des lignées de ponte et des lignées parentales doivent avoir accès à des possibilités de se percher pendant leurs deux premières semaines de vie.
+
+[^34a-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
+
+#### Art. 34b
+
+**Étages perchoirs-mangeoires**[^34b-1]
+
+S’agissant des poules domestiques, les étages perchoirs-mangeoires installés au-dessus de surfaces grillagées peuvent être comptabilisés au titre de surface sur laquelle les animaux peuvent se déplacer conformément à l’annexe 1, tableau 9‑1, ch. 2, OPAn s’ils comprennent une mangeoire et deux perchoirs parallèles espacés d’au moins 30 cm. Une surface grillagée au-dessus de laquelle se trouve au moins un étage perchoirs-mangeoires est comptabilisée à raison de 1,5 fois au titre de surface sur laquelle les animaux peuvent se déplacer.
+
+[^34b-1]: Introduit par le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 23](https://fedlex.data.admin.ch/eli/oc/2025/23)).
 
 ## Chapitre 9 Entrée en vigueur
 
