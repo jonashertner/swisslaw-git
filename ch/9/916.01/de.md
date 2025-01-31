@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2025-01-01
+version: 2025-02-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20250201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20250101/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2025)
+vom 26. Oktober 2011 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -782,7 +782,7 @@ Marktordnungsspezifische Vorschriften sind in Artikel 27 geregelt.
 
 Das Zollkontingent wird nach der Reihenfolge der Annahme der Zollanmeldungen zugeteilt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><td>Tarifnummer</td><td>Zollansatz je Stk. **[1]** (CHF)</td><td></td><td>Zollkontingent (Nr)</td></tr>
@@ -806,7 +806,7 @@ Für die Einfuhr der aufgeführten Tiere ist eine GEB erforderlich. Ausnahmen si
 
 Marktordnungsspezifische Vorschriften wie die Verteilung der Zollkontingente sind in der TZV geregelt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><td>Tarifnummer</td><td>Zollansatz **[1]** (CHF)</td><td></td><td>Anzahl Stück ohne GEB-Pflicht</td><td>(Teil-)Zollkontingent (Nr)</td></tr>
@@ -842,7 +842,7 @@ Marktordnungsspezifische Vorschriften wie die Verteilung der Teilzollkontingente
 
 Fleisch und Fleischwaren von Wildschweinen sowie Diät- und Kindernährmittel gehören nicht zum Geltungsbereich der SV. Sie sind weder bewilligungspflichtig, noch werden sie dem Zollkontingent angerechnet. Tarifnummern, in die diese Produkte eingereiht werden können, sind in der 5. Spalte mit der Ergänzung [3-4] oder [3-5] bezeichnet.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [3-1]
 
   Im Teilzollkontingent-Nr. 06.1 sind inbegriffen:
@@ -1230,7 +1230,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften wie die Verteilung der Zoll- und Teilzollkontingente sind in Artikel 34–36 geregelt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [4-1] Der Zollansatz ist in der Verordnung des EFD vom 27. Januar 2005 über die anwendbaren beweglichen Teilbeträge (bT) bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten (SR *632.111.722.1*) festgelegt.
 - [4-2] innerhalb des besonderen Zollkontingents («Fontalkontingent») eingeführt: CHF 50.– je 100 kg brutto
 - [4-3] Produkte, die innerhalb des Teilzollkontingents Nr. 07.3 eingeführt werden, dürfen ausschliesslich zur menschlichen Ernährung verwendet werden.
@@ -1350,7 +1350,7 @@ Es sind keine vom Generaltarif abweichenden Zollansätze festgelegt.
 
 Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><td>Tarifnummer</td><td>Zollansatz je 100 kg brutto **[1]** (CHF)</td></tr>
@@ -1374,7 +1374,7 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich.
 
 Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich. Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [7-1] 60 000 Stück können innerhalb des Zollkontingents Nr. 104 nach Anhang 3 der Freihandelsverordnung 1 vom 18. Juni 2008 (SR *632.421.0*) zum Nullzoll eingeführt werden. Das präferenzielle Zollkontingent wird gestaffelt freigegeben (Art. 18*a* VEAGOG) und nach der Reihenfolge der Annahme der Zollanmeldungen zugeteilt.
 
 <table>
@@ -1399,7 +1399,7 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich.
 
 Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [8-1] Auf eine Regelung zur Verteilung des Zollkontingents Nr. 13 wird verzichtet, jede Einfuhr wird zum KZA zugelassen (Art. 26 AEV; Art. 12 VEAGOG [SR *916.121.10*]).
 
 <table>
@@ -1428,7 +1428,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften wie die Aufteilung des Kontingents und die Verteilung der Teilzollkontingente sind in den Artikeln 36*a*–42 geregelt. In der Spalte «Warenkategorie und Ergänzungen» ist die Unterteilung des Teilzollkontingents Nr. 14.4 nach Artikel 37 Absatz 2 angegeben.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [9-1] Der Zollansatz ist in der Verordnung des EFD vom 27. Januar 2005 über die anwendbaren beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten (SR *632.111.722.1*) festgelegt.
 - [9-2] Nicht betroffen von den marktordnungsspezifischen Vorschriften.
 
@@ -1470,7 +1470,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummern ohne GEB-Pflicht sind von den Regelungen der VEAGOG nicht betroffen [10-4].
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden. Bei der Tarifnummer 0709.3019 darf der Zollansatz vom 4. Juli bis 9. September angewendet werden.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden. Bei der Tarifnummer 0709.3019 darf der Zollansatz vom 4. Juli bis 9. September angewendet werden.**
 - [10-1] Sugo-Peretti-Tomaten, eingeführt vom 20. August bis 6. Oktober
 
 Die Tarifnummern-Gruppe nach Artikel 4 VEAGOG ist in der 5. Spalte angegeben.
@@ -1761,7 +1761,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummern ohne GEB-Pflicht sind von den Regelungen der VEAGOG nicht betroffen [12-3].
 
-- [**1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze** **einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden.**
+- [**1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden.**
 - [12-1] für zerstampfte oder zufolge des Transports zu Mus gewordene Früchte keine GEB erforderlich
 - [12-2] Zollkontingent Nr. 19: ohne Produkte zur industriellen Weiterverarbeitung
 
@@ -1831,7 +1831,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummer 0808.4011 ist von den Regelungen der VEAGOG nicht betroffen [13-1].
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingent (Nr.)</th><th>Ergänzungen</th></tr>
@@ -2338,7 +2338,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 
 Für die Einfuhr der aufgeführten Waren ist keine GEB erforderlich.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th></tr>
@@ -2420,7 +2420,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln 28–33 und die Festlegung der Zollansätze der betroffenen Tarifnummern in Artikel 4 beziehungsweise in Artikel 6 geregelt. Für die Tarifnummern aus dem 12. Kapitel des Zolltarifs bestehen keine spezifischen Vorschriften.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [15-1] Der Zollansatz wird nach Artikel 6 festgelegt.
 - [15-2] GEB-pflichtig ab 20 kg brutto nach den Bestimmungen des LVG
 
@@ -2528,7 +2528,7 @@ Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln
 
 Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmungen des LVG (SR *531*) erforderlich, wenn sie zu Speisezwecken dienen. Ausnahmen sind in der 3. Spalte vermerkt.
 
-- [1] **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- [1] **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Ergänzungen</th></tr>
@@ -2659,7 +2659,7 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich.
 
 Marktordnungsspezifische Vorschriften sind in der Vermehrungsmaterial-Verord-nung vom 7. Dezember 1998 (SR *916.151*) festgelegt.
 
-[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.
+[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif [www.tares.ch](http://www.tares.ch) sind weitere anwendbare Zollansätze einsehbar.
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto [1] (CHF)</th></tr>
@@ -2684,7 +2684,7 @@ Marktordnungsspezifische Vorschriften sind in der Vermehrungsmaterial-Verord-nun
 
 Für die Einfuhr der aufgeführten Erzeugnisse ist zum Teil eine GEB nach den Bestimmungen des LVG (SR *531*) erforderlich. Die Zollansätze werden nach Artikel 5 festgelegt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 - [18-1] GEB-pflichtig ab 20 kg brutto nach den Bestimmungen des LVG
 
 <table>
@@ -2720,7 +2720,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der Weinverordnung vom 14. November 2007 (SR *916.140*) festgelegt.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 Liter **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingente (Nr)</th><th>Ergänzungen</th></tr>
@@ -2781,7 +2781,7 @@ Anhang 2[^t-2]
 
 ## Zollansätze der Marktordnungen Saatgetreide, Futtermittel, Ölsaaten, Zollansätze von Waren, bei deren Verarbeitung Futtermittel anfallen, sowie Zollansätze von Grobgetreide zur menschlichen Ernährung
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 18. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 796](https://fedlex.data.admin.ch/eli/oc/2024/796)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 22. Jan. 2025, in Kraft seit 1. Febr. 2025 ([AS 2025 73](https://fedlex.data.admin.ch/eli/oc/2025/73)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th></tr>
@@ -2809,9 +2809,9 @@ Anhang 2[^t-2]
 <tr><td>1003.9041</td><td>2.30</td><td></td><td>1003.9051</td><td>14.00</td><td></td><td>1003.9059</td><td>10.00</td><td></td><td>1003.9060</td><td>1.50</td><td></td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>14.00</td><td></td><td>1004.9039</td><td>0.00</td><td></td></tr>
 <tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.75</td><td></td><td>1005.9031</td><td>14.00</td><td></td></tr>
-<tr><td>1005.9039</td><td>11.00</td><td></td><td>1005.9040</td><td>1.10</td><td></td><td>1006.1021</td><td>14.00</td><td></td><td>1006.1029</td><td>2.00</td><td>\*</td></tr>
-<tr><td>1006.2021</td><td>14.00</td><td></td><td>1006.2029</td><td>2.00</td><td>\*</td><td>1006.3021</td><td>14.00</td><td></td><td>1006.3029</td><td>2.00</td><td>\*</td></tr>
-<tr><td>1006.4021</td><td>14.00</td><td></td><td>1006.4029</td><td>2.00</td><td>\*</td><td>1007.9031</td><td>14.00</td><td></td><td>1007.9039</td><td>0.00</td><td></td></tr>
+<tr><td>1005.9039</td><td>11.00</td><td></td><td>1005.9040</td><td>1.10</td><td></td><td>1006.1021</td><td>14.00</td><td></td><td>1006.1029</td><td>2.00</td><td></td></tr>
+<tr><td>1006.2021</td><td>14.00</td><td></td><td>1006.2029</td><td>2.00</td><td></td><td>1006.3021</td><td>14.00</td><td></td><td>1006.3029</td><td>2.00</td><td></td></tr>
+<tr><td>1006.4021</td><td>14.00</td><td></td><td>1006.4029</td><td>2.00</td><td></td><td>1007.9031</td><td>14.00</td><td></td><td>1007.9039</td><td>0.00</td><td></td></tr>
 <tr><td>1007.9040</td><td>0.00</td><td></td><td>1008.1031</td><td>14.00</td><td></td><td>1008.1039</td><td>0.00</td><td></td><td>1008.1040</td><td>0.00</td><td></td></tr>
 <tr><td>1008.2931</td><td>14.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>14.00</td><td></td></tr>
 <tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>14.00</td><td></td><td>1008.4039</td><td>10.00</td><td></td></tr>
@@ -2819,9 +2819,9 @@ Anhang 2[^t-2]
 <tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>14.00</td><td></td><td>1008.6049</td><td>14.00</td><td></td><td>1008.6050</td><td>1.40</td><td></td></tr>
 <tr><td>1008.9035</td><td>14.00</td><td></td><td>1008.9037</td><td>10.00</td><td></td><td>1008.9040</td><td>0.30</td><td></td><td>1101.0051</td><td>17.00</td><td></td></tr>
 <tr><td>1101.0059</td><td>21.00</td><td></td><td>1102.2010</td><td>23.95</td><td></td><td>1102.2020</td><td>13.00</td><td></td><td>1102.9013</td><td>25.00</td><td></td></tr>
-<tr><td>1102.9045</td><td>18.00</td><td></td><td>1102.9046</td><td>16.00</td><td></td><td>1102.9052</td><td>5.00</td><td>\*</td><td>1102.9062</td><td>21.00</td><td></td></tr>
+<tr><td>1102.9045</td><td>18.00</td><td></td><td>1102.9046</td><td>16.00</td><td></td><td>1102.9052</td><td>5.00</td><td></td><td>1102.9062</td><td>21.00</td><td></td></tr>
 <tr><td>1103.1112</td><td>20.00</td><td></td><td>1103.1192</td><td>18.00</td><td></td><td>1103.1320</td><td>18.00</td><td></td><td>1103.1390</td><td>25.50</td><td></td></tr>
-<tr><td>1103.1912</td><td>21.00</td><td></td><td>1103.1922</td><td>16.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>6.00</td><td>\*</td></tr>
+<tr><td>1103.1912</td><td>21.00</td><td></td><td>1103.1922</td><td>16.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>6.00</td><td></td></tr>
 <tr><td>1103.1993</td><td>18.00</td><td></td><td>1103.2012</td><td>17.00</td><td></td><td>1103.2022</td><td>18.00</td><td></td><td>1103.2092</td><td>17.00</td><td></td></tr>
 <tr><td>1104.1220</td><td>17.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>18.00</td><td></td><td>1104.1922</td><td>19.00</td><td></td></tr>
 <tr><td>1104.1929</td><td>23.30</td><td></td><td>1104.1993</td><td>18.00</td><td></td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>16.00</td><td></td></tr>
@@ -2887,17 +2887,17 @@ Anhang 2[^t-2]
 <tr><td>1516.2010</td><td>0.00</td><td></td><td>1516.3010</td><td>0.00</td><td></td><td>1517.1010</td><td>0.00</td><td></td><td>1517.9010</td><td>0.00</td><td></td></tr>
 <tr><td>1518.0011</td><td>0.00</td><td></td><td>1518.0081</td><td>0.00</td><td></td><td>1518.0093</td><td>0.00</td><td></td><td>1702.3021</td><td>0.00</td><td></td></tr>
 <tr><td>1702.3033</td><td>0.00</td><td></td><td>1702.4011</td><td>0.00</td><td></td><td>1702.6022</td><td>0.00</td><td></td><td>1702.9011</td><td>0.00</td><td></td></tr>
-<tr><td>1703.9091</td><td>6.00</td><td></td><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>9.00</td><td>\*</td><td>2102.1091</td><td>0.00</td><td></td></tr>
+<tr><td>1703.9091</td><td>6.00</td><td></td><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>12.00</td><td>\*</td><td>2102.1091</td><td>0.00</td><td></td></tr>
 <tr><td>2102.2011</td><td>0.00</td><td></td><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>0.00</td><td></td><td>2301.1011</td><td>0.00</td><td></td></tr>
-<tr><td>2301.1019</td><td>0.00</td><td></td><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>21.00</td><td></td><td>2302.3020</td><td>10.00</td><td></td></tr>
-<tr><td>2302.4030</td><td>11.00</td><td></td><td>2302.4091</td><td>11.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td></tr>
-<tr><td>2303.1012</td><td>5.00</td><td>\*</td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td></td><td>2303.3010</td><td>1.00</td><td></td></tr>
+<tr><td>2301.1019</td><td>0.00</td><td></td><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>23.00</td><td>\*</td><td>2302.3020</td><td>12.00</td><td>\*</td></tr>
+<tr><td>2302.4030</td><td>13.00</td><td>\*</td><td>2302.4091</td><td>13.00</td><td>\*</td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1012</td><td>5.00</td><td></td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td></td><td>2303.3010</td><td>1.00</td><td></td></tr>
 <tr><td>2304.0010</td><td>0.00</td><td></td><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.00</td><td></td><td>2306.2010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>0.00</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>0.00</td><td></td></tr>
 <tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>3.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td></tr>
-<tr><td>2309.9011</td><td>6.75</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.20</td><td></td><td>2309.9082</td><td>6.75</td><td>\*</td></tr>
-<tr><td>2309.9089</td><td>6.75</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
+<tr><td>2309.9011</td><td>6.75</td><td></td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.20</td><td></td><td>2309.9082</td><td>6.75</td><td></td></tr>
+<tr><td>2309.9089</td><td>6.75</td><td></td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>0.00</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
 </table>
