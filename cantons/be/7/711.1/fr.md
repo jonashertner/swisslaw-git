@@ -4,13 +4,12 @@ number: "711.1"
 title: "Ordonnance sur l'expropriation *"
 short: OExpro
 language: fr
-version: 2020-11-01
-valid_until: 2025-01-31
-version_adopted: 2020-09-02
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 1966-09-02
 in_force: 1966-09-24
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/711.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1991/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3121/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1991/pdf_file"
 
 (OExpro)
 
-du 02.09.1966 (état au 01.11.2020)
+du 02.09.1966 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -97,13 +96,11 @@ arrête:
 - b la nature et la date de la solution de la procédure;
 - c les moyens de droit dont il a été fait usage;
 - d la date du jugement en instance supérieure;
-- e la date et le lieu où sont conservés les dossiers.
+- e la date et le lieu de la clôture de l'affaire.
 
 #### Art. 11
 
-<sup>1</sup> Le secrétaire est l'archiviste de la commission.
-
-<sup>2</sup> Une année au plus tard après la liquidation des affaires, les dossiers seront déposés par le secrétaire aux archives centrales des commissions d'estimation en matière d'expropriation. La Direction de l’intérieur et de la justice décide de l'emplacement des archives centrales.
+**…**
 
 #### Art. 12
 

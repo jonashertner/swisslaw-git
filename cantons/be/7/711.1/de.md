@@ -4,13 +4,12 @@ number: "711.1"
 title: Verordnung über die Enteignung
 short: EntV
 language: de
-version: 2020-11-01
-valid_until: 2025-01-31
-version_adopted: 2020-09-02
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 1966-09-02
 in_force: 1966-09-24
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/711.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1991/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1991/pdf_file"
 
 (EntV)
 
-vom 02.09.1966 (Stand 01.11.2020)
+vom 02.09.1966 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -97,13 +96,11 @@ beschliesst:
 - b Art und Datum der Erledigung;
 - c ergriffene Rechtsmittel;
 - d Datum der oberinstanzlichen Erledigung;
-- e Datum und Ort der Archivierung der Akten.
+- e Datum und Ort des Geschäftsabschlusses.
 
 #### Art. 11
 
-<sup>1</sup> Der Sekretär ist Archivar des Gerichts.
-
-<sup>2</sup> Spätestens ein Jahr nach Erledigung des Streitfalles sind die Akten durch den Sekretär im zentralen Archiv für Enteignungsschätzungskommissionen zu archivieren. Die Direktion für Inneres und Justiz bestimmt den Standort des zentralen Archives.
+**…**
 
 #### Art. 12
 
