@@ -3,20 +3,19 @@ canton: OW
 number: "113.111"
 title: Ausführungsbestimmungen über die Daten der Einwohnerregister
 language: de
-version: 2013-01-01
-valid_until: 2025-01-31
-version_adopted: 2012-06-26
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 2009-01-13
 in_force: 2009-01-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/113.111"
-pdf: "http://gdb.ow.ch/api/de/versions/239/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Daten der Einwohnerregister
 
-vom 13.01.2009 (Stand 01.01.2013)
+vom 13.01.2009 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -59,11 +58,19 @@ beschliesst:
 - a. weitere Angaben der zivilstandsamtlichen Ausweise (Name der Mutter und des Vaters);
 - b. Erfüllung der Versicherungspflicht nach Art. 3 ff. des Bundesgesetzes über die Krankenversicherung[^1-3];
 - c. Massnahmen des Kindes- und Erwachsenenschutzes;
-- d. Feuerwehrpflicht.
+- d. Feuerwehrpflicht;
+- e. einen Personenidentifikator für das Kindesverhältnis;
+- f. einen Personenidentifikator des Ehegatten oder der eingetragenen Partnerin beziehungsweise des eingetragenen Partners.
+
+<sup>3</sup> Die Gemeinden können zudem freiwillig angegebene Merkmale führen wie namentlich:
+
+- a. Telefonnummer oder E-Mailadresse zum Zeitpunkt der Anmeldung;
+- b. Zugehörigkeit zu einer althergebrachten Körperschaft nach Art. 107 der Kantonsverfassung[^1-4].
 
 [^1-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
 [^1-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 [^1-3]: SR 832.10
+[^1-4]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
 
 #### Art. 2
 
@@ -93,6 +100,10 @@ beschliesst:
 
 Ursprüngliche Fundstelle: OGS 2009, 7
 
-Geändert durch die AB zur V betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 26. Juni 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 48)
+Geändert durch:
+
+\- AB zur V betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 26. Juni 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 48),
+
+\- AB zum kantonalen Registerharmonisierungsgesetz (AB kRHG) vom 7. Januar 2025, in Kraft seit 1. Februar 2025 (OGS 2025, 1)
 
 OGS 2009, 7
