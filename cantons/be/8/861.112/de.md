@@ -4,13 +4,13 @@ number: "861.112"
 title: "Verordnung über die Datenbearbeitung im Asyl-, Flüchtlings- und Ausländerbereich"
 short: DAFAV
 language: de
-version: 2020-07-01
-valid_until: 2025-01-31
-version_adopted: 2020-05-20
+version: 2025-02-01
+valid_until: 2026-08-31
+version_adopted: 2024-12-18
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/861.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1891/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3122/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1891/pdf_file"
 
 (DAFAV)
 
-vom 20.05.2020 (Stand 01.07.2020)
+vom 20.05.2020 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -179,9 +179,7 @@ beschliesst:
 
 **Archivierung**
 
-<sup>1</sup> Die Archivierung richtet sich nach den Bestimmungen des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^13-1].
-
-[^13-1]: BSG [108.1](https://www.belex.sites.be.ch/data/108.1/de)
+<sup>1</sup> Die Archivierung richtet sich der Archivierungsgesetzgebung.
 
 #### Art. 14
 

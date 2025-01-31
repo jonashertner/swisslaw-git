@@ -4,13 +4,13 @@ number: "861.112"
 title: "Ordonnance sur le traitement des données dans le domaine de l'asile, des réfugiés et des étrangers"
 short: ODARE
 language: fr
-version: 2020-07-01
-valid_until: 2025-01-31
-version_adopted: 2020-05-20
+version: 2025-02-01
+valid_until: 2026-08-31
+version_adopted: 2024-12-18
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/861.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1891/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3122/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1891/pdf_file"
 
 (ODARE)
 
-du 20.05.2020 (état au 01.07.2020)
+du 20.05.2020 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -179,9 +179,7 @@ arrête:
 
 **Archivage**
 
-<sup>1</sup> L'archivage est régi par la loi du 31 mars 2009 sur l'archivage (LArch)[^13-1].
-
-[^13-1]: RSB [108.1](https://www.belex.sites.be.ch/data/108.1/fr)
+<sup>1</sup> L'archivage est régi par la législation sur l'archivage.
 
 #### Art. 14
 
