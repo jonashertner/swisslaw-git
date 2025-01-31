@@ -4,10 +4,10 @@ number: "415.456.1"
 title: Rahmenverordnung über das «Lehrdiplom für Maturitätsschulen» an der Philosophischen Fakultät der Universität Zürich (RVO LfM)
 short: RVO LfM
 language: de
-nachtrag: "113"
-valid_until: 2025-02-01
+version: "2025-02-01"
+nachtrag: "128"
 adopted: 2020-11-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_456_1-2020_11_02-2021_08_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_456_1-2020_11_02-2021_08_01-128.html"
 text: pdf
 ---
 
@@ -61,7 +61,7 @@ Diese Rahmenverordnung regelt a. den Studiengang «Lehrdiplom für Maturitätssc
 
 **1**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 25 - 128
 
 ### B. Organisation
 
@@ -137,7 +137,7 @@ Für den Erwerb des Zertifikats der Berufspädagogischen Zusatzqualifikation mü
 
 **3**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 25 - 128
 
 ### D. Studiengang «Lehrdiplom für Maturitätsschulen»
 
@@ -225,7 +225,7 @@ pädagogische Zusatzqualifikation
 
 **5**
 
-- 1\. 7. 21 - 113 § 19. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
+- 1\. 4. 25 - 128 § 19. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
 **Informationspflicht**
 
@@ -309,7 +309,7 @@ Ein Mustercurriculum und der Modulkatalog werden in geeigneter Weise veröffentl
 
 **7**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Jedem Modul wird eine Anzahl von ECTS Credits (in ganzen Zahlen) zugewiesen, die dem für das erfolgreiche Absolvieren des Moduls erwarteten mittleren Arbeitsaufwand entspricht.
 
@@ -407,7 +407,7 @@ Ein Mustercurriculum und der Modulkatalog werden in geeigneter Weise veröffentl
 
 **9**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während der Durchführung eines Leistungsnachweises ein, ist dies sowohl der bzw. dem Prüfungsdelegierten als auch der bzw. dem Dozierenden mitzuteilen.
 
@@ -489,7 +489,7 @@ Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe 
 
 **11**
 
-- 1\. 7. 21 - 113 § 42. <sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
+- 1\. 4. 25 - 128 § 42. <sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 **Leistungsausweis**
 
@@ -557,7 +557,7 @@ Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe 
 
 **13**
 
-- 1\. 7. 21 - 113 § 48. <sup>1</sup> Anerkannte Studienleistungen sind an den Studienabschluss anrechenbar, wenn
+- 1\. 4. 25 - 128 § 48. <sup>1</sup> Anerkannte Studienleistungen sind an den Studienabschluss anrechenbar, wenn
 
 **Anrechnung von Studienleistungen**
 
@@ -619,7 +619,7 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>1</sup> Das Ergebnis eines Prüfungsmoduls der Diplomprüfung wird im Anschluss an die jeweilige Prüfung mündlich mitgeteilt.
 
-<sup>2</sup> Die Ergebnisse werden von der Direktorin bzw. dem Direktor LLBM mittels Notenbrief einschliesslich Rechtsmittelbelehrung verfügt.
+<sup>2</sup> Die Ergebnisse werden mittels Notenbrief einschliesslich Rechtsmittelbelehrung verfügt.<sup>6</sup>
 
 ### C. Studienabschluss
 
@@ -637,7 +637,7 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 **15**
 
-- 1\. 7. 21 - 113 § 55. <sup>1</sup> Das Lehrdiplom für Maturitätsschulen mit einem oder zwei Unterrichtsfächern wird durch die Philosophische Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung
+- 1\. 4. 25 - 128 § 55. <sup>1</sup> Das Lehrdiplom für Maturitätsschulen mit einem oder zwei Unterrichtsfächern wird durch die Philosophische Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung
 
 **Abschluss des Studiums**
 
@@ -699,19 +699,21 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 
 ### 6. Abschnitt: Rechtsschutz
 
-#### § 60
-
 **Rechtsschutz**
 
-<sup>1</sup> Leistungsausweise gemäss § 42 unterliegen bezüglich der im letzten Semester neu ausgewiesenen Leistungen der Einsprache an die Studiendekanin oder den Studiendekan der Philosophischen Fakultät.
+§ 60.[^h6AbschnittRechts-1] <sup>1</sup> Der Einsprache an die Studiendekanin oder den Studiendekan unterliegen:
 
-<sup>2</sup> Der Notenbrief gemäss § 53 Abs. 2 unterliegt bezüglich der darin ausgewiesenen Leistungen der Einsprache an die Studiendekanin oder den Studiendekan der Philosophischen Fakultät.
+- a. der Leistungsausweis gemäss § 42 bezüglich der im letzten Semester neu ausgewiesenen Leistungen,
 
-<sup>3</sup> Die Einsprache ist der Studiendekanin oder dem Studiendekan der Philosophischen Fakultät innerhalb von 30 Tagen nach Empfang des Leistungsausweises bzw. des Notenbriefs schriftlich und begründet einzureichen. Der Einspracheentscheid unterliegt dem Rekurs.
+- b. der Notenbrief gemäss § 53 Abs. 2 bezüglich der darin ausgewiesenen Leistungen,
 
-<sup>4</sup> Die übrigen Verfügungen gemäss dieser Rahmenverordnung unterliegen dem Rekurs.
+- c. alle übrigen Verfügungen gemäss dieser Rahmenverordnung.
 
-<sup>5</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
+<sup>2</sup> Die Einsprache ist der Studiendekanin oder dem Studiendekan innerhalb von 30 Tagen nach Empfang des Leistungsausweises, des Notenbriefs bzw. der Verfügung schriftlich und begründet einzureichen. Der Einspracheentscheid unterliegt dem Rekurs.
+
+<sup>3</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
+
+[^h6AbschnittRechts-1]: Fassung gemäss URB vom 4. November 2024 (OS 80, 13; ABl 2024-11-15). In Kraft seit 1. Februar 2025.
 
 ### 7. Abschnitt: Schlussbestimmungen
 
@@ -731,7 +733,7 @@ Alle vor Inkrafttreten dieser Verordnung bereits immatrikulierten Studierenden w
 
 ## Weitere Fussnoten
 
-- [*] Anerkennung durch die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) gemäss Reglement über die Anerkennung der Lehrdiplome für Maturitätsschulen vom 4. Juni 1998 (LS 410.411). 1. 7. 21 - 113 17
+- [*] Anerkennung durch die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) gemäss Reglement über die Anerkennung der Lehrdiplome für Maturitätsschulen vom 4. Juni 1998 (LS 410.411). 1. 4. 25 - 128 17
 - [1] OS 76, 121; Begründung siehe ABl 2020-11-27.
 - [2] Inkrafttreten: 1. August 2021.
 - [3] LS 410.5.
