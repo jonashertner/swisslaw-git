@@ -3,20 +3,19 @@ canton: GL
 number: IX E/2/3
 title: Dienstinstruktion für die Revierförster
 language: de
-version: 2016-01-01
-valid_until: 2025-01-31
-version_adopted: 2015-09-22
+version: 2025-02-01
+version_adopted: 2024-12-17
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-E.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1814/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2525/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstinstruktion für die Revierförster
 
-Vom 30.11.2010 (Stand 01.01.2016)
+Vom 30.11.2010 (Stand 01.02.2025)
 
 Der Regierungsrat,
 
@@ -70,7 +69,7 @@ beschliesst:
 
 **Abgeltung**
 
-<sup>1</sup> Der Kanton entschädigt den Gemeinden die von den Revierförstern in seinem Auftrag geleisteten Dienstpflichten und hoheitlichen Aufgaben gemäss einer vom Departement Bau und Umwelt zu erlassenden Weisung zur Förderung der Waldbewirtschaftung.
+<sup>1</sup> Der Kanton entschädigt den Gemeinden die von den Revierförstern in seinem Auftrag geleisteten Dienstpflichten und hoheitlichen Aufgaben gemäss den vom Departement Bau und Umwelt zu erlassenden Weisungen zur Förderung der naturnahen Waldbewirtschaftung und zum Schutz vor Naturgefahren.
 
 #### Art. 7
 
@@ -157,7 +156,7 @@ beschliesst:
 <sup>1</sup>
 
 - a. Beizug und Mitarbeit bei der Projektierung, Projektleitung, Ausführung und Kontrolle von Subventionsprojekten
-- b. Kontrolle des Zustands und Unterhalts von forstlichen Bauwerken und Meldung festgestellter Mängel oder Schäden an den Werkeigentümer und die Abteilung Wald und Naturgefahren
+- b. Periodische Beobachtung des Zustands der Schutzbauten gemäss Schutzbautenkataster sowie Kontrolle der übrigen forstlichen Bauwerke und Meldung festgestellter Mängel oder Schäden an den Werkeigentümer und die Abteilung Wald und Naturgefahren
 - c. Mitwirken bei der Erstellung und Nachführung des Schutzbautenkatasters
 - d. Meldung von Verstössen gegen die Waldgesetzgebung oder gegen einschlägige amtliche Verfügungen an die Abteilung Wald und Naturgefahren und den Waldeigentümer
 
