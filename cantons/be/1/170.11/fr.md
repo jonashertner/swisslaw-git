@@ -4,13 +4,12 @@ number: "170.11"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2024-01-01
-valid_until: 2025-01-31
-version_adopted: 2022-09-05
+version: 2025-02-01
+version_adopted: 2024-06-03
 adopted: 1998-03-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2939/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3111/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2939/pdf_file"
 
 (LCo)
 
-du 16.03.1998 (état au 01.01.2024)
+du 16.03.1998 (état au 01.02.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -963,9 +962,9 @@ arrête:
 
 #### Art. 69a
 
-**Archivage**
+**Conservation et gestion des archives**
 
-<sup>1</sup> La gestion des archives est soumise à la législation cantonale sur l'archivage.
+<sup>1</sup> L'organisation, la gestion et la conservation des documents, ainsi que la gestion des archives sont soumises à la législation cantonale sur l'archivage.
 
 ### 1.6 Finances
 

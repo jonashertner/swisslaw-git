@@ -4,13 +4,12 @@ number: "170.11"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2024-01-01
-valid_until: 2025-01-31
-version_adopted: 2022-09-05
+version: 2025-02-01
+version_adopted: 2024-06-03
 adopted: 1998-03-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2939/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3111/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2939/pdf_file"
 
 (GG)
 
-vom 16.03.1998 (Stand 01.01.2024)
+vom 16.03.1998 (Stand 01.02.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -956,9 +955,9 @@ beschliesst:
 
 #### Art. 69a
 
-**Archivierung**
+**Aufbewahrung und Archivführung**
 
-<sup>1</sup> Für die Archivführung gelten die Vorschriften der kantonalen Gesetzgebung über die Archivierung.
+<sup>1</sup> Für die Organisation, Verwaltung und Aufbewahrung von Unterlagen sowie die Archivführung gelten die Vorschriften der kantonalen Gesetzgebung über die Archivierung.
 
 ### 1.6 Finanzhaushalt
 
