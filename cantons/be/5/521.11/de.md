@@ -4,13 +4,13 @@ number: "521.11"
 title: Kantonale Zivilschutzverordnung
 short: KZSV
 language: de
-version: 2021-01-01
-valid_until: 2025-01-31
-version_adopted: 2020-11-25
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-18
 adopted: 2014-12-03
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/521.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2099/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3120/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2099/pdf_file"
 
 (KZSV)
 
-vom 03.12.2014 (Stand 01.01.2021)
+vom 03.12.2014 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -142,9 +142,7 @@ beschliesst:
 
 <sup>1</sup> Das Staatsarchiv ist die Fachstelle für die Betreuung der archivalischen Kulturgüter.
 
-<sup>2</sup> Die Aufgaben des Staatsarchivs im Kulturgüterschutz richten sich nach dem Gesetz vom 31. März 2009 über die Archivierung (ArchG)[^8-1].
-
-[^8-1]: BSG 108.1
+<sup>2</sup> Die Aufgaben des Staatsarchivs im Kulturgüterschutz richten sich der Archivierungsgesetzgebung.
 
 #### Art. 9
 

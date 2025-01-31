@@ -4,13 +4,13 @@ number: "521.11"
 title: "Ordonnance cantonale sur la protection civile *"
 short: OCPCi
 language: fr
-version: 2021-01-01
-valid_until: 2025-01-31
-version_adopted: 2020-11-25
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-18
 adopted: 2014-12-03
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/521.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2099/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3120/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2099/pdf_file"
 
 (OCPCi)
 
-du 03.12.2014 (état au 01.01.2021)
+du 03.12.2014 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -142,9 +142,7 @@ arrête:
 
 <sup>1</sup> Les Archives de l'État constituent le service de prise en charge des biens culturels archivistiques.
 
-<sup>2</sup> Les tâches des Archives de l'État en matière de protection des biens culturels sont régies par la loi du 31 mars 2009 sur l'archivage (LArch)[^8-1].
-
-[^8-1]: RSB 108.1
+<sup>2</sup> Les tâches des Archives de l'État en matière de protection des biens culturels sont régies par la législation sur l'archivage.
 
 #### Art. 9
 
