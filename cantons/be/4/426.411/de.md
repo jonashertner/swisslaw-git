@@ -4,13 +4,13 @@ number: "426.411"
 title: Verordnung über die Denkmalpflege
 short: "Denkmalpflegeverordnung, DPV"
 language: de
-version: 2021-11-01
-valid_until: 2025-01-31
-version_adopted: 2021-09-01
+version: 2025-02-01
+valid_until: 2026-07-31
+version_adopted: 2024-12-18
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.411"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2363/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3119/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2363/pdf_file"
 
 (Denkmalpflegeverordnung, DPV)
 
-vom 25.10.2000 (Stand 01.11.2021)
+vom 25.10.2000 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -98,8 +98,8 @@ beschliesst:
 
 <sup>1</sup> Zuständige Stellen des Kantons sind
 
-- a das Staatsarchiv unter Vorbehalt von Buchstabe b für Bestände von Archiven (Schriftgut, Pläne, Karten, Fotos, elektronische Datenträger usw.) und Bibliotheken,
-- b das Amt für Gemeinden und Raumordnung für Archivbestände des 20. und 21. Jahrhunderts öffentlich-rechtlicher Körperschaften gemäss Gemeindegesetz (GG) vom 16. März 1998[^7-1]),
+- a das Staatsarchiv unter Vorbehalt von Buchstabe b für Bestände von Archiven (Schriftgut, Pläne, Karten, Fotos usw.),
+- b das Amt für Gemeinden und Raumordnung für Archivbestände des 20. und 21. Jahrhunderts öffentlich-rechtlicher Körperschaften gemäss dem Gemeindegesetz (GG) vom 16. März 1998[^7-1]),
 - c das Amt für Kultur für Museumsbestände und Werke der bildenden Kunst, für archäologische Funde (Archäologischer Dienst) und andere Sachgüter (kantonale Denkmalpflege).
 
 <sup>2</sup> Die Koordination obliegt dem Amt für Kultur.

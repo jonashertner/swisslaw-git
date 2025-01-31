@@ -4,13 +4,13 @@ number: "426.411"
 title: Ordonnance sur la protection du patrimoine
 short: OPat
 language: fr
-version: 2021-11-01
-valid_until: 2025-01-31
-version_adopted: 2021-09-01
+version: 2025-02-01
+valid_until: 2026-07-31
+version_adopted: 2024-12-18
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.411"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2363/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3119/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2363/pdf_file"
 
 (OPat)
 
-du 25.10.2000 (état au 01.11.2021)
+du 25.10.2000 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -98,13 +98,13 @@ arrête:
 
 <sup>1</sup> Les services compétents du canton sont
 
-- a les Archives de l'Etat pour les fonds d'archives (documents, plans, cartes, photos, supports de données électroniques, etc.) et de bibliothèques, sous réserve de la lettre b,
+- a les Archives de l'Etat pour les fonds d'archives (documents, plans, cartes, photos, etc.), sous réserve de la lettre b,
 - b l'Office des affaires communales et de l'organisation du territoire pour les archives des 20<sup>e</sup> et 21<sup>e</sup> siècles des collectivités de droit public au sens de la loi du 16 mars 1998 sur les communes (LCo)[^7-1],
 - c l'Office de la culture pour les fonds des musées et les œuvres d'art, pour les découvertes archéologiques (Service archéologique) et d'autres biens (Service cantonal des monuments historiques).
 
 <sup>2</sup> La coordination incombe à l'Office de la culture.
 
-[^7-1]: RSB 170.11
+[^7-1]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
 
 #### Art. 8
 
