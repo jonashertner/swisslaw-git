@@ -4,13 +4,13 @@ number: "215.341.1"
 title: Ordonnance cantonale sur la mensuration officielle
 short: OCMO
 language: fr
-version: 2024-01-01
-valid_until: 2025-01-31
-version_adopted: 2023-11-22
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-18
 adopted: 1997-03-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3031/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3117/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3031/pdf_file"
 
 (OCMO)
 
-du 05.03.1997 (état au 01.01.2024)
+du 05.03.1997 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -43,16 +43,16 @@ arrête:
 - c permet la consultation des données de la mensuration officielle et en remet, sur demande, des extraits et des restitutions;
 - d dresse les plans du registre foncier et en atteste l'exactitude;
 - e assure l'entretien des données qui lui ont été confiées;
-- f archive les extraits destinés à la tenue du registre foncier et la documentation technique;
+- f conserve les extraits destinés à la tenue du registre foncier et la documentation technique;
 - g communique au service du cadastre toute modification représentable sur le plan d’ensemble des données de la mensuration officielle dans la région n’ayant pas fait l’objet d’une mensuration;
 - h communique toute obtention de données au service du cadastre dans le cadre du rapport annuel.
 
-<sup>2</sup> Il ou elle se procure les ressources personnelles et matérielles nécessaires à l’accomplissement de ses tâches. Il ou elle garantit que son système informatique respecte les exigences définies à l’article 45 de l’ordonnance technique du DDPS du 10 juin 1994 sur la mensuration officielle (OTEMO)[^1-1] et à l’article 15 de l’ordonnance technique du DFJP et du DDPS du 28 décembre 2012 concernant le registre foncier (OTRF)[^1-2].
+<sup>2</sup> Il ou elle se procure les ressources personnelles et matérielles nécessaires à l’accomplissement de ses tâches. Il ou elle garantit que son système informatique respecte les exigences définies dans l’ordonnance du DDPS du 24 août 2023 sur la mensuration officielle (OMO-DDPS)[^1-1] et à l’article 15 de l’ordonnance technique du DFJP et du DDPS du 28 décembre 2012 concernant le registre foncier (OTRF)[^1-2].
 
 <sup>3</sup> La commune met à la disposition du géomètre conservateur ou de la géomètre conservatrice les éléments de la mensuration officielle qui lui sont nécessaires.
 
-[^1-1]: RS 211.432.21
-[^1-2]: RS 211.432.11
+[^1-1]: RS [211.432.21](https://db.clex.ch/link/Bund/211.432.21/fr)
+[^1-2]: RS [211.432.11](https://db.clex.ch/link/Bund/211.432.11/fr)
 
 #### Art. 2
 

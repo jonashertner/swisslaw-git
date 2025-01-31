@@ -4,13 +4,13 @@ number: "215.341.1"
 title: Kantonale Verordnung über die amtliche Vermessung
 short: KVAV
 language: de
-version: 2024-01-01
-valid_until: 2025-01-31
-version_adopted: 2023-11-22
+version: 2025-02-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-18
 adopted: 1997-03-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3031/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3031/pdf_file"
 
 (KVAV)
 
-vom 05.03.1997 (Stand 01.01.2024)
+vom 05.03.1997 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -43,16 +43,16 @@ beschliesst:
 - c gewähren Einsicht in die Daten und geben auf Verlangen Auszüge und Auswertungen ab;
 - d erstellen Pläne für das Grundbuch und bescheinigen deren Richtigkeit;
 - e unterhalten die ihnen anvertrauten Daten;
-- f archivieren die Auszüge für die Grundbuchführung und die technische Dokumentation;
+- f bewahren die Auszüge für die Grundbuchführung und die technische Dokumentation auf;
 - g melden der Vermessungsaufsicht alle im Übersichtsplan darstellbaren Änderungen der Daten der amtlichen Vermessung im unvermessenen Gebiet;
 - h melden der Vermessungsaufsicht im Rahmen des Jahresberichts den Bezug von Daten.
 
-<sup>2</sup> Sie sorgen für die Personal- und Sachmittel, die zur Aufgabenerfüllung notwendig sind. Sie stellen sicher, dass ihre Informatiksysteme die Anforderungen nach Artikel 45 der Technischen Verordnung des VBS vom 10. Juni 1994 über die amtliche Vermessung (TVAV)[^1-1] und Artikel 15 der Technischen Verordnung des EJPD und des VSB vom 28. Dezember 2012 über das Grundbuch (TGBV)[^1-2] erfüllen.
+<sup>2</sup> Sie sorgen für die Personal- und Sachmittel, die zur Aufgabenerfüllung notwendig sind. Sie stellen sicher, dass ihre Informatiksysteme die Anforderungen nach der Verordnung des VBS vom 24. August 2023 über die amtliche Vermessung (VAV-VBS)[^1-1] und Artikel 15 der Technischen Verordnung des EJPD und des VSB vom 28. Dezember 2012 über das Grundbuch (TGBV)[^1-2] erfüllen.
 
 <sup>3</sup> Die Gemeinden stellen ihnen die notwendigen Bestandteile der amtlichen Vermessung zur Verfügung.
 
-[^1-1]: SR 211.432.21
-[^1-2]: SR 211.432.11
+[^1-1]: RS [211.432.21](https://db.clex.ch/link/Bund/211.432.21/de)
+[^1-2]: RS [211.432.11](https://db.clex.ch/link/Bund/211.432.11/de)
 
 #### Art. 2
 
