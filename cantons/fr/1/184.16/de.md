@@ -3,13 +3,12 @@ canton: FR
 number: "184.16"
 title: "Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)"
 language: de
-version: 2024-12-01
-valid_until: 2025-01-31
-version_adopted: 2024-11-05
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/8077/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8077/pdf_file"
 
 Kantonale Bezugssystem von Daten – V
 
-vom 24.06.2019 (Fassung in Kraft getreten am 01.12.2024)
+vom 24.06.2019 (Fassung in Kraft getreten am 01.02.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -204,7 +203,7 @@ beschliesst:
 
 <sup>3</sup> Er erklärt die Regeln über die Integration der Quellen und die verschiedenen Hierarchien, die eingesetzt werden müssen, für gültig. Er stellt sicher, dass die Abläufe und die Bearbeitung der zugehörigen Daten fortlaufend verbessert werden.
 
-<sup>4</sup> Der Ausschuss für die Datenqualität setzt sich aus mindestens drei Mitgliedern zusammen, darunter die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems, die oder der in Artikel A2-3 erwähnt wird. Er wird von der Person, die für die Daten von Registern und speziellen Dienste im Amt für Statistik (StatA) verantwortlich ist, präsidiert.
+<sup>4</sup> Der Ausschuss für die Datenqualität setzt sich aus mindestens drei Mitgliedern zusammen, darunter die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems, die oder der in Artikel A2-3 erwähnt wird. Er wird von der Person, die für die Registerdaten und speziellen Projekte im Amt für Statistik und Daten (das Amt) verantwortlich ist, präsidiert.
 
 #### Art. A1-3
 
@@ -273,7 +272,7 @@ beschliesst:
 - b) das Erarbeiten von fachlichen Regeln, die es erlauben, die Hierarchien zwischen den Datenquellen anzupassen und bei Divergenzen zur Identität, zum Umfang oder zu den Attributen der Personen zu vermitteln;
 - c) die Verbindung vom Netzwerk der Datenqualitätsverantwortlichen zu den Governance-Organen und zum ITA sicherstellen.
 
-<sup>2</sup> Die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems ist hierarchisch dem StatA zugewiesen. Sie oder er schickt dem Ausschuss für die Datenqualität regelmässig einen bewertenden Bericht über den Fortschritt ihrer oder seiner Arbeiten und denjenigen des Netzwerks der Datenqualitätsverantwortlichen.
+<sup>2</sup> Die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems ist hierarchisch dem Amt zugewiesen. Sie oder er schickt dem Ausschuss für die Datenqualität regelmässig einen bewertenden Bericht über den Fortschritt ihrer oder seiner Arbeiten und derjenigen des Netzwerks der Datenqualitätsverantwortlichen.
 
 #### Art. A2-4
 
@@ -445,7 +444,7 @@ beschliesst:
 
 **Bearbeitung der Daten zu Zwecken, die nicht personengebunden sind**
 
-<sup>1</sup> Auf Entscheid des Staatsrats oder einer Direktion kann das StatA die Daten des kantonalen Bezugssystems gemäss den Bestimmungen der Gesetzgebung über die Statistik und über den Datenschutz für statistische, Planungs- oder wissenschaftliche Forschungszwecke bearbeiten.
+<sup>1</sup> Auf Entscheid des Staatsrats oder einer Direktion kann das Amt die Daten des kantonalen Bezugssystems gemäss den Bestimmungen der Gesetzgebung über die Statistik und über den Datenschutz für statistische, Planungs- oder wissenschaftliche Forschungszwecke bearbeiten.
 
 ## A5 ANHANG 5 – Sicherheit, Datenschutz und Aufsicht (Art. 10)
 

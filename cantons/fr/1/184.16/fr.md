@@ -3,13 +3,12 @@ canton: FR
 number: "184.16"
 title: "Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)"
 language: fr
-version: 2024-12-01
-valid_until: 2025-01-31
-version_adopted: 2024-11-05
+version: 2025-02-01
+version_adopted: 2025-01-07
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8077/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8123/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8077/pdf_file"
 
 Référentiel cantonal de données – O
 
-du 24.06.2019 (version entrée en vigueur le 01.12.2024)
+du 24.06.2019 (version entrée en vigueur le 01.02.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -204,7 +203,7 @@ Arrête:
 
 <sup>3</sup> Il valide les règles concernant l'intégration des sources et les différentes hiérarchies à mettre en place. Il veille à l'amélioration continue des opérations et traitements de données associés.
 
-<sup>4</sup> Le comité de qualité est composé d'au moins trois membres, dont l'intendant ou l'intendante du Référentiel cantonal mentionné‑e à l'article A2-3. Sa présidence est assurée par la personne responsable des données de registres et projets spéciaux du Service de la statistique (ci-après: le SStat).
+<sup>4</sup> Le comité de qualité est composé d'au moins trois membres, dont l'intendant ou l'intendante du Référentiel cantonal mentionné‑e à l'article A2-3. Sa présidence est assurée par la personne responsable des données de registres et projets spéciaux du Service de la statistique et de la donnée (ci-après: le Service).
 
 #### Art. A1-3
 
@@ -273,7 +272,7 @@ Arrête:
 - b) élaborer des règles métier permettant de paramétrer les hiérarchies entre les sources de données et d'arbitrer les divergences constatées sur l'identité, le périmètre ou les attributs des personnes;
 - c) assurer la liaison du réseau d'intendance des données avec les organes de la gouvernance et le SITel.
 
-<sup>2</sup> L'intendant ou l'intendante du Référentiel cantonal est rattaché‑e hiérarchiquement au SStat. Il ou elle adresse régulièrement un rapport d'évaluation au comité de qualité sur l'avancement de ses travaux et de ceux du réseau d'intendance des données.
+<sup>2</sup> L'intendant ou l'intendante du Référentiel cantonal est rattaché‑e hiérarchiquement au Service. Il ou elle adresse régulièrement un rapport d'évaluation au comité de qualité sur l'avancement de ses travaux et de ceux du réseau d'intendance des données.
 
 #### Art. A2-4
 
@@ -445,7 +444,7 @@ Arrête:
 
 **Traitement de données à des fins ne se rapportant pas à la personne**
 
-<sup>1</sup> Sur décision du Conseil d'Etat ou d'une Direction, le SStat est autorisé à traiter les données du Référentiel cantonal à des fins de statistique, de planification ou de recherche scientifique, conformément aux dispositions de la législation sur la statistique et sur la protection des données.
+<sup>1</sup> Sur décision du Conseil d'Etat ou d'une Direction, le Service est autorisé à traiter les données du Référentiel cantonal à des fins de statistique, de planification ou de recherche scientifique, conformément aux dispositions de la législation sur la statistique et sur la protection des données.
 
 ## A5 ANNEXE 5 – Sécurité, protection des données et surveillance (art. 10)
 
