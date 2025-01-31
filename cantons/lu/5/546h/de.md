@@ -1,34 +1,33 @@
 ---
 canton: LU
 number: 546h
-title: "Reglement über den Zertifikatslehrgang CAS «Rehabilitation Management and Clinical Rehabilitation» der Universität Luzern, des Schweizer Paraplegiker Zentrums und der Schweizerischen Unfallversicherungsanstalt"
+title: "Reglement über den Zertifikatslehrgang CAS «Rehabilitationsmanagement» der Universität Luzern in Zusammenarbeit mit dem Schweizer Paraplegiker Zentrum, der Schweizerischen Unfallversicherungsanstalt und dem Luzerner Kantonsspital"
 language: de
-version: 2023-08-01
-valid_until: 2025-01-31
-version_adopted: 2023-06-23
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2023-06-23
 in_force: 2023-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546h"
-pdf: "https://srl.lu.ch/api/de/versions/4103/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über den Zertifikatslehrgang CAS «Rehabilitation Management and Clinical Rehabilitation» der Universität Luzern, des Schweizer Paraplegiker Zentrums und der Schweizerischen Unfallversicherungsanstalt
+# Reglement über den Zertifikatslehrgang CAS «Rehabilitationsmanagement» der Universität Luzern in Zusammenarbeit mit dem Schweizer Paraplegiker Zentrum, der Schweizerischen Unfallversicherungsanstalt und dem Luzerner Kantonsspital
 
 Nr. 546h
 
-vom 23.06.2023 (Stand 01.08.2023)
+vom 23.06.2023 (Stand 01.02.2025)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
 
 auf Antrag des Senats,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -36,9 +35,9 @@ beschliesst:
 
 **Zweck und Lernziele**
 
-<sup>1</sup> Das universitäre Weiterbildungsangebot CAS «Rehabilitation Management and Clinical Rehabilitation» ist ein Zertifikatslehrgang der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern (Fakultät) in Zusammenarbeit mit dem Schweizer Paraplegiker Zentrum (SPZ) und der Schweizerischen Unfallversicherungsanstalt (Suva).
+<sup>1</sup> Das universitäre Weiterbildungsangebot CAS «Rehabilitationsmanagement» ist ein Zertifikatslehrgang der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern (Fakultät) in Zusammenarbeit mit dem Schweizer Paraplegiker Zentrum (SPZ), der Schweizerischen Unfallversicherungsanstalt (Suva) und dem Luzerner Kantonsspital (LUKS).
 
-<sup>2</sup> Ziel dieses Zertifikatslehrgangs ist es, qualifizierte Personen aus Gesundheitsversorgung, Management, Forschung und Lehre auf wissenschaftlich hohem Niveau und praxisorientiert im Bereich des Managements in der Rehabilitation und im Bereich der klinischen Rehabilitation mit den Schwerpunkten Rehabilitation im Gesundheitssystem, Funktionsfähigkeit und interdisziplinäre und interprofessionelle Versorgung weiterzubilden.
+<sup>2</sup> Ziel des Zertifikatslehrgangs ist es, die Teilnehmenden zu befähigen, eine aktive und führende Rolle als Spezialistin oder Spezialist für Rehabilitationsmanagement entlang des Patientenpfades in einem interprofessionellen Rehabilitationssetting zu übernehmen sowie Partnerschaften und ein Netzwerk im Schweizer Gesundheits- und Rehabilitationssektor aufzubauen.
 
 <sup>3</sup> Der erfolgreiche Abschluss befähigt Absolvierende, eine aktive und führende Rolle als Spezialistin oder Spezialist im Management in der Rehabilitation und in der klinischen Rehabilitation in einem interprofessionellen Rehabilitationssetting verantwortungsvoll einzunehmen.
 
@@ -50,7 +49,7 @@ beschliesst:
 
 <sup>2</sup> Einzelheiten können in der Wegleitung zum Zertifikatslehrgang geregelt werden.
 
-<sup>3</sup> Soweit dieses Reglement keine Bestimmungen enthält, gilt das Rahmenreglement für das Weiterbildungsangebot der Universität Luzern[^2-1].
+<sup>3</sup> Soweit dieses Reglement keine Bestimmungen enthält, gilt das Rahmenreglement für das Weiterbildungsangebot an der Universität Luzern[^2-1].
 
 [^2-1]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
 
@@ -66,7 +65,7 @@ beschliesst:
 
 **Studienleitung**
 
-<sup>1</sup> Die Studienleitung des Zertifikatslehrgangs setzt sich paritätisch aus je einer Person der Universität Luzern, des SPZ und der Suva zusammen. Die Mitglieder der Studienleitung werden von der Fakultätsversammlung für vier Jahre gewählt. Wiederwahl ist zulässig. Die Studienleitung kann weitere Mitglieder als Beisitzerinnen oder Beisitzer ernennen.
+<sup>1</sup> Die Studienleitung des Zertifikatslehrgangs setzt sich paritätisch aus je einer Person der Universität Luzern, des SPZ, der Suva und des LUKS zusammen. Die Mitglieder der Studienleitung werden von der Fakultätsversammlung für vier Jahre gewählt. Die Wiederwahl ist möglich. Die Studienleitung kann weitere Mitglieder als Beisitzerinnen oder Beisitzer ernennen.
 
 <sup>2</sup> Die Studienleitung konstituiert sich selbst. Das Präsidium der Studienleitung wird durch die Universität Luzern gestellt.
 
@@ -75,7 +74,7 @@ beschliesst:
 - a. Ausrichtung, Weiterentwicklung und wissenschaftliche Qualitätssicherung des Zertifikatlehrgangs,
 - b. Entscheid über den Zertifikatslehrgang und über die Anrechnung und Zuordnung von ECTS-Punkten,
 - c. Zulassung von Teilnehmenden,
-- d. Genehmigung des Budgets, der Honorare für die Dozierenden, der Jahresrechnung, des Jahresberichts zuhanden des SPZ, der Suva und der Fakultät sowie Bewilligung von Ausgaben ausserhalb des Budgets,
+- d. Genehmigung des Budgets, der Honorare für die Dozierenden, der Jahresrechnung, des Jahresberichts zuhanden des SPZ, der Suva, des LUKS und der Fakultät sowie Bewilligung von Ausgaben ausserhalb des Budgets,
 - e. Entscheid bei Unkorrektheiten bei Leistungsnachweisen,
 - f. Antrag an die Fakultät zur Verleihung der Titel,
 - g. Vorschlag an die Fakultät für die Wahl der Mitglieder der Studienleitung,
@@ -83,7 +82,7 @@ beschliesst:
 
 <sup>4</sup> Die Studienleitung ist für alle Bereiche zuständig, soweit diese nicht in die Zuständigkeit anderer Organe fallen.
 
-<sup>5</sup> Die Studienleitung setzt ein Advisory Board ein; bei der Auswahl der Mitglieder des Advisory Boards wird eine ausgewogene Vertretung aller am Zertifikatlehrgang beteiligten Professionen angestrebt. Die Mitglieder unterstützen den Zertifikatlehrgang durch konzeptuelle Beratung, mit ihrem Netzwerk und gegebenenfalls als Dozierende.
+<sup>5</sup> Die Studienleitung setzt einen Expertenbeirat ein; bei der Auswahl der Mitglieder des Expertenbeirats wird eine ausgewogene Vertretung aller am Zertifikatlehrgang beteiligten Professionen angestrebt. Die Mitglieder unterstützen den Zertifikatlehrgang durch konzeptuelle Beratung, mit ihrem Netzwerk und gegebenenfalls als Dozierende.
 
 #### § 5
 
@@ -109,7 +108,7 @@ beschliesst:
 
 **Lehrkörper**
 
-<sup>1</sup> Der Lehrkörper besteht sowohl aus Dozierenden der Universität Luzern, des SPZ und der Suva als auch aus beigezogenen Referentinnen und Referenten anderer Universitäten und weiteren Fachpersonen aus dem Bereich Rehabilitation und affinen Bereichen. Die Studienleitung ist für die Auswahl des Lehrkörpers verantwortlich, die nach fachlichen und didaktischen Kriterien erfolgt.
+<sup>1</sup> Der Lehrkörper besteht sowohl aus Dozierenden der Universität Luzern, des SPZ, der Suva und des LUKS als auch aus beigezogenen Referentinnen und Referenten anderer Universitäten und weiteren Fachpersonen aus dem Bereich Rehabilitation und affinen Bereichen. Die Studienleitung ist für die Auswahl des Lehrkörpers verantwortlich, die nach fachlichen und didaktischen Kriterien erfolgt.
 
 <sup>2</sup> Für die Dozierenden der Universität Luzern besteht keine Verpflichtung und kein Anspruch zur Mitwirkung am Zertifikatslehrgang.
 
@@ -197,7 +196,7 @@ beschliesst:
 
 **Certificate of Advanced Studies (CAS)**
 
-<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Rehabilitation Management and Clinical Rehabilitation der Universität Luzern» muss der erfolgreiche Abschluss des entsprechenden Zertifikatlehrgangs im Umfang von 12 ECTS-Punkten nachgewiesen werden.
+<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Rehabilitationsmanagement der Universität Luzern» muss der erfolgreiche Abschluss des entsprechenden Zertifikatlehrgangs im Umfang von 12 ECTS-Punkten nachgewiesen werden.
 
 <sup>2</sup> Ein Diploma Supplement wird mit dem Abschluss ausgestellt; es gibt Aufschluss über Inhalt und Umfang des Studiengangs sowie über die Thematik der schriftlichen Arbeit.
 
@@ -205,7 +204,7 @@ beschliesst:
 
 **Abschlussurkunde**
 
-<sup>1</sup> Die Abschlussurkunde wird im Namen der Fakultät ausgestellt. Das Zertifikat enthält die Unterschriften aller drei Mitglieder der Studienleitung.
+<sup>1</sup> Die Abschlussurkunde wird im Namen der Fakultät ausgestellt. Das Zertifikat enthält die Unterschriften aller vier Mitglieder der Studienleitung.
 
 <sup>2</sup> Wer den Zertifikatslehrgang endgültig nicht besteht, erhält auf Wunsch einen Ausweis über die bestandenen Leistungsnachweise (Academic Record).
 
@@ -223,7 +222,7 @@ beschliesst:
 
 <sup>4</sup> Die Höhe der Honorare der Dozierenden wird im Rahmen der durch den Universitätsrat verabschiedeten Richtlinie für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern[^15-2] von der Studienleitung festgelegt.
 
-<sup>5</sup> Die beanspruchten Querschnittsleistungen der Universität Luzern im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^15-3] werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten, jene des SPZ und der Suva gemäss den entsprechenden Vereinbarungen.
+<sup>5</sup> Die beanspruchten Querschnittsleistungen der Universität Luzern im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^15-3] werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten, jene des SPZ, der Suva und des LUKS gemäss den entsprechenden Vereinbarungen.
 
 [^15-1]: SRL Nr. [544](https://srl.lu.ch/data/544/de)
 [^15-2]: Beschluss des Universitätsrates vom 17. Dezember 2021
@@ -233,15 +232,17 @@ beschliesst:
 
 **Ertragsüberschuss und Defizit**
 
-<sup>1</sup> Wird ein Ertragsüberschuss erzielt, werden davon 20 Prozent abgegrenzt und eingesetzt:
+<sup>1</sup> Wird ein Ertragsüberschuss erzielt, können davon 70 Prozent abgegrenzt und folgendermassen eingesetzt werden:
 
-- a. als Sicherheit bei unterdurchschnittlichem Geschäftsgang bei künftigen Durchführungen,
-- b. zur Reinvestition in bestehende und künftige Weiterbildungsangebote,
-- c. für Forschungsprojekte im Zusammenhang mit der Weiterbildung.
+- a. als Abdeckung der Fixkosten bei rückläufigem und damit nicht mehr kostendeckendem Geschäftsgang,
+- b. zur Reinvestition in das bestehende und die Erweiterung des künftigen Weiterbildungsangebotes,
+- c. für Forschungsprojekte im Bereich Palliative Care im Zusammenhang mit dem Zertifikatslehrgang «CAS Palliative Care»[^16-1], z.B. auch in Kombination mit einer Masterarbeit.
 
 <sup>2</sup> Der restliche Ertragsüberschuss wird in der Rechnung der Fakultät ausgewiesen.
 
 <sup>3</sup> Ein Defizit verbleibt nach Auflösung allfällig verfügbarer Rücklagen in der Rechnung der Fakultät.
+
+[^16-1]: SRL Nr. [546a](https://srl.lu.ch/data/546a/de)
 
 ## 6 Schlussbestimmungen
 
