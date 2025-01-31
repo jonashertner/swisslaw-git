@@ -4,11 +4,11 @@ title: Verordnung vom 21. Januar 1991 über die Wasser- und Zugvogelreservate vo
 short: WZVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/298_298_298"
 language: de
-version: 2023-07-01
+version: 2025-02-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20250201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/de"
 
 (WZVV)
 
-vom 21. Januar 1991 (Stand am 1. Juli 2023)
+vom 21. Januar 1991 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -55,7 +55,7 @@ Das Bundesinventar der Wasser- und Zugvogelreservate von internationaler und nat
 <sup>3</sup> Das Inventar ist Bestandteil dieser Verordnung und wird ausschliesslich in elektronischer Form auf der Internetseite des Bundesamtes für Umwelt (BAFU)[^2-2] ausserhalb der Amtlichen Sammlung des Bundesrechtes (AS) veröffentlicht (Art. 5 des Publikationsgesetzes vom 18. Juni 2004[^2-3]).[^2-4]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 13. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
-[^2-2]: www.bafu.admin.ch &gt; Themen &gt; Biodiversität &gt; Fachinformation &gt; Massnahmen &gt; Ökologische Infrastruktur &gt; Wasser- und Zugvogelreservate
+[^2-2]: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Biodiversität &gt; Fachinformation &gt; Massnahmen &gt; Ökologische Infrastruktur &gt; Wasser- und Zugvogelreservate
 [^2-3]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
 [^2-4]: Fassung gemäss Ziff. I und III der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
@@ -94,7 +94,16 @@ In den Wasser- und Zugvogelreservaten gelten folgende allgemeine Bestimmungen:
 - d. Das Tragen und Aufbewahren von Waffen und Fallen ist verboten. Die Kantone können für Personen, die innerhalb des Gebiets wohnen, Ausnahmen gestatten. Auf Wegen und Strassen dürfen Jagdberechtigte während der Jagd und Militärdienstpflichtige zur Erfüllung ihrer Wehrpflicht (Dienst-, Schiess- und Inspektionspflicht) das Gebiet mit ungeladenen Waffen durchqueren.
 - e.[^5-4] Militärische Übungen mit scharfer oder Übungsmunition sowie das Starten und das Landen mit militärischen Luftfahrzeugen zu Ausbildungs- und Übungszwecken sind verboten. Vorbehalten sind die vertraglich geregelte Benützung besonderer Schiessplätze und militärischer Anlagen sowie von der Luftwaffe im Einvernehmen mit dem BAFU[^5-5] festgelegte abweichende Regelungen für militärische Luftfahrzeuge.
 - f.[^5-6] Das Abfliegen und Landen mit zivilen, bemannten Luftfahrzeugen ist verboten, ausser im Rahmen des Betriebs von bestehenden Flugplätzen sowie nach den Bestimmungen der Artikel 19 Absatz 3 Buchstabe a und 28 Absatz 1 der Aussenlandeverordnung vom 14. Mai 2014[^5-7].
-- [tab] f<sup>bis</sup>.[^5-8] Der Betrieb von zivilen, unbemannten Luftfahrzeugen ist verboten.
+- f<sup>bis</sup>.[^5-8]
+
+  Der Betrieb von zivilen, unbemannten Luftfahrzeugen ist verboten; vorbehalten sind polizeiliche Einsätze sowie Einsätze zur Rettung von Menschen; zusätzlich können die Kantone Ausnahmen bewilligen für:
+
+  - 1\. die wissenschaftliche Forschung;
+  - 2\. Programme zur Überwachung der Bestände von Tieren und der Lebensräume;
+  - 3\. Inspektionen an Infrastrukturen;
+  - 4\. Foto- oder Filmaufnahmen im Rahmen einer bewilligten Veranstaltung gemäss Absatz 2 sowie Foto- oder Filmaufnahmen im öffentlichen Interesse;
+  - 5\. die Rehkitzrettung.
+
 - g.[^5-9] Das Fahren mit Drachensegelbrettern oder ähnlichen Geräten und der Betrieb von Modellbooten sind verboten.
 - h.[^5-10] Die Kantone können besondere Massnahmen zur Förderung und zum Schutz der Fischbestände (fischereiliche Hegemassnahmen) bewilligen, sofern dadurch die Zielsetzung der Wasser- und Zugvogelreservate nicht beeinträchtigt wird.
 
@@ -109,7 +118,7 @@ In den Wasser- und Zugvogelreservaten gelten folgende allgemeine Bestimmungen:
 [^5-5]: Ausdruck gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^5-6]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-7]: [SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-8]: Eingefügt durch Anhang Ziff. 7 der Aussenlandeverordnung vom 14. Mai 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-8]: Eingefügt durch Anhang Ziff. 7 der Aussenlandeverordnung vom 14. Mai 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Fassung gemäss Anhang Ziff. 2 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^5-9]: Eingefügt durch Ziff. I der V vom 13. Mai 2009 ([AS 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-10]: Eingefügt durch Ziff. I der V vom 13. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
 [^5-11]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
@@ -271,15 +280,16 @@ Die kantonale Fachstelle weist den Reservatsaufsehern folgende Aufgaben zu:
 
 <sup>2</sup> Das BAFU führt für die besondern Belange der Wasser- und Zugvogelreservate Weiterbildungskurse durch.
 
-## 5. Abschnitt: Abgeltungen
+## 5. Abschnitt: [Abgeltungen](https://www.admin.ch/opc/de/classified-compilation/19910014/index.html) und Finanzhilfen
 
-[^sec5-1]
+[^sec5-1][^sec5-2]
 
 [^sec5-1]: Fassung gemäss Ziff. I 23 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^sec5-2]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 14
 
-**Aufsicht**
+**Abgeltung für die Aufsicht[^14-1]**
 
 <sup>1</sup>
 
@@ -297,9 +307,11 @@ Der Grundbeitrag beträgt pro Jahr:
 - a. für alle Reservate von internationaler Bedeutung: 28 000 Franken;
 - b. für alle Reservate von nationaler Bedeutung: 14 000 Franken.
 
+[^14-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+
 #### Art. 15
 
-**Wildschäden**
+**Abgeltung für Wildschäden[^15-1]**
 
 <sup>1</sup>
 
@@ -317,9 +329,18 @@ Die Höhe der Abgeltungen richtet sich:
 
 <sup>3</sup> Sie wird zwischen dem BAFU und dem betroffenen Kanton ausgehandelt.
 
-<sup>4</sup> Werden trotz ihrer Erforderlichkeit und Zweckmässigkeit keine Massnahmen nach Artikel 8 oder 9 getroffen, so können die Abgeltungen verweigert oder zurückgefordert werden.[^15-1]
+<sup>4</sup> Werden trotz ihrer Erforderlichkeit und Zweckmässigkeit keine Massnahmen nach Artikel 8 oder 9 getroffen, so können die Abgeltungen verweigert oder zurückgefordert werden.[^15-2]
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^15-1]: Fassung gemäss Anhang Ziff. 2 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+
+#### [Art. 15a](https://www.admin.ch/opc/de/classified-compilation/19910014/index.html)
+
+**[Finanzhilfen für Massnahmen zur Arten- und Lebensraumförderung](https://www.admin.ch/opc/de/classified-compilation/19910014/index.html)**[^15a-1]
+
+Die Höhe der globalen Finanzhilfen an die Kosten der Planung und Umsetzung von Massnahmen für die Arten- und Lebensraumförderung in den Reservaten nach Anhang 1 sowie in Reservaten nach Artikel 11 Absatz 4 des Jagdgesetzes wird zwischen dem Bund und den betroffenen Kantonen vereinbart; sie richtet sich nach dem Umfang, der Qualität, der Komplexität und der Wirksamkeit der Massnahmen.
+
+[^15a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 16
 

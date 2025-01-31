@@ -4,11 +4,11 @@ title: "Ordinanza del 21 gennaio 1991 sulle riserve d'importanza internazionale 
 short: ORUAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/298_298_298"
 language: it
-version: 2023-07-01
+version: 2025-02-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20250201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/it"
 
 (ORUAM)
 
-del 21 gennaio 1991 (Stato 1° luglio 2023)
+del 21 gennaio 1991 (Stato 1° febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -54,10 +54,10 @@ L’inventario federale delle riserve d’importanza internazionale e nazionale 
 
 <sup>3</sup> L’inventario, parte integrante della presente ordinanza, non è pubblicato nella Raccolta ufficiale delle leggi federali (RU), bensì esclusivamente in forma elettronica nel sito Internet dell’Ufficio federale dell’ambiente (UFAM)[^2-2] (art. 5 della L del 18 giu. 2004[^2-3] sulle pubblicazioni ufficiali).[^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
 [^2-2]: www.bafu.admin.ch &gt; Pagina iniziale &gt; Temi &gt; Tema Biodiversità &gt; Informazioni per gli specialisti &gt; Misure &gt; Infrastruttura ecologica &gt; Riserve di uccelli acquatici e migratori
 [^2-3]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^2-4]: Nuovo testo giusta il n. I e III dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^2-4]: Nuovo testo giusta le cifra I e III dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 3
 
@@ -68,8 +68,8 @@ D’intesa con i Cantoni, il Dipartimento federale dell’ambiente, dei trasport
 - a. la modifica del perimetro per un massimo del cinque per cento della superficie dell’oggetto;
 - b. la riduzione del perimetro per un massimo del dieci per cento della superficie dell’oggetto se il perimetro viene ampliato con una superficie nuova almeno equivalente.
 
-[^3-1]: Nuovo testo giusta il n. II dell’O del 18 feb. 2004, in vigore dal 1° mar. 2004 ([RU 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^3-1]: Nuovo testo giusta la cifra II dell’O del 18 feb. 2004, in vigore dal 1° mar. 2004 ([RU 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 4
 
@@ -94,7 +94,16 @@ Nelle riserve d’uccelli acquatici e migratori valgono le seguenti disposizioni
 - d. è vietato portare seco o conservare armi e trappole. I Cantoni possono autorizzare eccezioni per persone che abitano all’interno della zona. Le persone autorizzate a cacciare o obbligate al servizio militare hanno il diritto, rispettivamente durante la caccia o per adempiere gli obblighi militari (servizio, tiro e ispezione obbligatori), di attraversare la zona lungo sentieri o strade muniti di armi scariche;
 - e.[^5-4] gli esercizi militari con munizioni di guerra o d’esercizio come pure il decollo e l’atterraggio di aeromobili militari per scopi d’istruzione e addestramento sono vietati. Sono fatte salve l’utilizzazione vincolata da contratto di speciali poligoni di tiro e impianti militari nonché le regolamentazioni derogatorie per gli aeromobili militari stabilite dalle Forze aeree d’intesa con l’UFAM[^5-5];
 - f.[^5-6] sono vietati il decollo e l’atterraggio di aeromobili civili con occupanti, eccetto nell’ambito dell’esercizio di aerodromi esistenti e fatte salve le disposizioni degli articoli 19 capoverso 3 lettera a, nonché 28 capoverso 1 dell’ordinanza del 14 maggio 2014[^5-7] sugli atterraggi esterni;
-- f<sup>bis</sup>.[^5-8] la circolazione di aeromobili civili senza occupanti è vietata;
+- f<sup>bis</sup>.[^5-8]
+
+  la circolazione di aeromobili civili senza occupanti è vietata; sono fatti salvi gli interventi di polizia e gli interventi per il salvataggio di persone; i Cantoni possono inoltre autorizzare eccezioni per:
+
+  - 1\. la ricerca scientifica,
+  - 2\. programmi di monitoraggio degli effettivi di animali e dei biotopi,
+  - 3\. ispezioni di infrastrutture,
+  - 4\. fotografie e video realizzati nell’ambito di una manifestazione autorizzata secondo il capoverso 2, nonché per fotografie e video di interesse pubblico,
+  - 5\. il salvataggio di cuccioli di capriolo;
+
 - g.[^5-9] la pratica del kitesurf o l’impiego di attrezzature analoghe come pure la pratica del modellismo navale sono vietati;
 - h.[^5-10] i Cantoni possono autorizzare misure speciali di promozione e protezione del patrimonio ittico (misure di gestione alieutica), nella misura in cui ciò non comprometta l’obiettivo delle riserve d’uccelli acquatici e migratori.
 
@@ -102,17 +111,17 @@ Nelle riserve d’uccelli acquatici e migratori valgono le seguenti disposizioni
 
 <sup>3</sup> Sono fatte salve le disposizioni particolari di cui all’articolo 2 capoverso 2, nonché i provvedimenti di cui agli articoli 8−10 e 12.[^5-11]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
-[^5-5]: Nuova esp. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Di detta mod. é tenuto conto in tutto il presente testo
-[^5-6]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-2]: Introdotta dalla cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
+[^5-5]: Nuova esp. giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Di detta mod. é tenuto conto in tutto il presente testo
+[^5-6]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-7]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-8]: Introdotta dall’all. n. 7 dell’O del 14 mag. 204 sugli atterraggi esterni ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-9]: Introdotta dal n. I dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-10]: Introdotta dal n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
-[^5-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-8]: Introdotta dall’all. n. 7 dell’O del 14 mag. 204 sugli atterraggi esterni ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nuovo testo giusta l’all. n. 2 dell’O sulla caccia del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^5-9]: Introdotta dalla cifra I dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-10]: Introdotta dalla cifra I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
+[^5-11]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 6
 
@@ -127,9 +136,9 @@ Nelle riserve d’uccelli acquatici e migratori valgono le seguenti disposizioni
 <sup>3</sup> Sono fatte salve le disposizioni più severe o di altro tenore per la protezione dei biotopi di cui all’articolo 2 capoverso 2 della presente ordinanza o agli articoli 18 e seguenti della legge federale del 1° luglio 1966[^6-3] sulla protezione della natura e del paesaggio.[^6-4]
 
 [^6-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^6-2]: Introdotto dal II 21 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)). Nuovo testo giusta il n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
+[^6-2]: Introdotto dal II 21 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)). Nuovo testo giusta la cifra I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
 [^6-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^6-4]: Nuovo testo giusta il n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
 
 #### Art. 7
 
@@ -178,10 +187,10 @@ Se tali provvedimenti per la zona protetta interessata non sono già ammessi sec
 
 <sup>3</sup> Per l’esecuzione di questi provvedimenti i Cantoni possono far capo, oltre che ai sorveglianti delle riserve, anche ai guardiani della selvaggina, ai guardiacaccia e ai cacciatori autorizzati.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^9-2]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^9-3]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^9-2]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^9-3]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 9a
 
@@ -189,7 +198,7 @@ Se tali provvedimenti per la zona protetta interessata non sono già ammessi sec
 
 Per prevenire i danni causati dai cormorani agli attrezzi da pesca nell’ambito della pesca professionale, l’UFAM emana, su domanda dei Cantoni e in collaborazione con gli stessi, un aiuto all’esecuzione per la prevenzione dei danni, la stima dei danni, la regolazione delle colonie nelle riserve d’uccelli acquatici e migratori, nonché per il coordinamento intercantonale.
 
-[^9a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 10
 
@@ -201,7 +210,7 @@ Per prevenire i danni causati dai cormorani agli attrezzi da pesca nell’ambito
 
 <sup>2</sup> Annunciano immediatamente tali abbattimenti e provvedimenti al servizio cantonale competente.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^10-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
 
 #### Art. 10a
@@ -210,7 +219,7 @@ Per prevenire i danni causati dai cormorani agli attrezzi da pesca nell’ambito
 
 I Cantoni presentano ogni anno all’UFAM un rapporto sui provvedimenti adottati secondo gli articoli 8–10.
 
-[^10a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 ## Sezione 4: Sorveglianti delle riserve
 
@@ -228,8 +237,8 @@ I Cantoni presentano ogni anno all’UFAM un rapporto sui provvedimenti adottati
 
 <sup>5</sup> Se le riserve di uccelli acquatici e migratori sono in prossimità delle frontiere nazionali, i compiti di polizia della caccia devono essere affidati anche alle guardie di confine.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 12
 
@@ -258,10 +267,10 @@ Il servizio cantonale competente affida i compiti seguenti ai sorveglianti delle
 
 <sup>4</sup> Sull’adempimento di questi compiti viene fatto rapporto ogni anno all’UFAM.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^12-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 (RU **2015**2209).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^12-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^12-2]: Introdotta dalla cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^12-4]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 13
 
@@ -271,15 +280,16 @@ Il servizio cantonale competente affida i compiti seguenti ai sorveglianti delle
 
 <sup>2</sup> L’UFAM organizza corsi di perfezionamento sui problemi particolari relativi alle riserve degli uccelli acquatici e migratori.
 
-## Sezione 5: Indennità
+## Sezione 5: [Indennità](https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/it) e aiuti finanziari
 
-[^sec5-1]
+[^sec5-1][^sec5-2]
 
-[^sec5-1]: Nuovo testo giusta il n. I 23 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^sec5-1]: Nuovo testo giusta la cifra I n. 23 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^sec5-2]: Nuovo testo giusta l’all. n. 2 dell’O sulla caccia del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 14
 
-**Sorveglianza**
+**Indennità per la sorveglianza[^14-1]**
 
 <sup>1</sup>
 
@@ -297,9 +307,11 @@ Il sussidio di base annuo è fissato come segue:
 - a. per tutte le riserve d’importanza internazionale: 28 000 franchi;
 - b. per tutte le riserve d’importanza nazionale: 14 000 franchi.
 
+[^14-1]: Nuovo testo giusta l’all. n. 2 dell’O sulla caccia del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+
 #### Art. 15
 
-**Danni arrecati dalla selvaggina**
+**Indennità per danni arrecati dalla selvaggina[^15-1]**
 
 <sup>1</sup>
 
@@ -317,9 +329,18 @@ L’ammontare delle indennità è stabilito in base:
 
 <sup>3</sup> L’ammontare delle indennità è negoziato tra l’UFAM e il Cantone interessato.
 
-<sup>4</sup> Non è versata alcuna indennità o ne viene chiesta la restituzione se non sono stati presi i provvedimenti di cui all’articolo 8 o 9, sebbene siano necessari e opportuni.[^15-1]
+<sup>4</sup> Non è versata alcuna indennità o ne viene chiesta la restituzione se non sono stati presi i provvedimenti di cui all’articolo 8 o 9, sebbene siano necessari e opportuni.[^15-2]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^15-1]: Nuovo testo giusta l’all. n. 2 dell’O sulla caccia del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+
+#### [Art. 15a](https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/it)
+
+**[Aiuti finanziari per misure di conservazione delle specie e dei biotopi](https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/it)**[^15a-1]
+
+L’ammontare degli aiuti finanziari globali per i costi di pianificazione e di attuazione delle misure di conservazione delle specie e dei biotopi nelle riserve di cui all’allegato 1 e nelle riserve secondo l’articolo 11 capoverso 4 della legge sulla caccia è concordato tra la Confederazione e i Cantoni interessati e dipende dall’entità, dalla qualità, dalla complessità e dall’efficacia delle misure.
+
+[^15a-1]: Introdotto dall’all. n. 2 dell’O sulla caccia del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 16
 
@@ -349,7 +370,7 @@ Allegato 1[^t-1]
 
 ## Riserve d’importanza internazionale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 1° lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Aggiornato dal n. II dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 1° lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Aggiornato dalla cifra II dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 <table>
 <tr><td>N.</td><td>Località</td><td>Cantone(i)</td><td colspan="2">Iscrizione</td><td>Revisione(i)</td></tr>
@@ -398,4 +419,4 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-[^t-2]: Abrogato dal n. II cpv. 2 dell’O del 13 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
+[^t-2]: Abrogato dalla cifra II cpv. 2 dell’O del 13 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).

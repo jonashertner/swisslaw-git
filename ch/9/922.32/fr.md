@@ -4,11 +4,11 @@ title: "Ordonnance du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de mi
 short: OROEM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/298_298_298"
 language: fr
-version: 2023-07-01
+version: 2025-02-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20250201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/fr"
 
 (OROEM)
 
-du 21 janvier 1991 (État le 1<sup>er</sup> juillet 2023)
+du 21 janvier 1991 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -94,7 +94,16 @@ Les dispositions ci-après s’appliquent d’une manière générale aux réser
 - d. il est interdit d’y porter ou d’y conserver des armes et des pièges. Les cantons peuvent accorder des dérogations aux personnes habitant à l’intérieur de la zone. Les personnes autorisées à chasser ou qui sont astreintes au service militaire ont le droit, respectivement pendant la chasse ou pour remplir leurs obligations militaires (service, tir et inspection obligatoires), de traverser la zone munies d’armes non chargées en empruntant des chemins et des routes;
 - e.[^5-4] les exercices militaires avec de la munition pour tir réel ou à blanc ainsi que le décollage et l’atterrissage d’aéronefs militaires à des fins d’instruction et d’entraînement sont interdits; l’utilisation de places de tir et d’installations militaires particulières selon des dispositions contractuelles ainsi qu’une réglementation différente pour les aéronefs militaires définie par les Forces aériennes en accord avec l’OFEV[^5-5] sont réservées;
 - f.[^5-6] le décollage et l’atterrissage d’aéronefs civils avec occupants sont interdits sauf dans le cadre de l’exploitation des aérodromes déjà existants ainsi que sous réserve des dispositions figurant aux art. 19, al. 3, let. a, et 28, al. 1, de l’ordonnance du 14 mai 2014 sur les atterrissages en campagne[^5-7];
-- f<sup>bis</sup>.[^5-8] la circulation d’aéronefs civils sans occupants est interdite;
+- f<sup>bis</sup>.[^5-8]
+
+  la circulation d’aéronefs civils sans occupants est interdite; les opérations policières et les opérations de sauvetage de personnes sont réservées; les cantons peuvent autoriser d’autres exceptions pour:
+
+  - 1\. la recherche scientifique,
+  - 2\. les programmes de surveillance des populations animales et des biotopes,
+  - 3\. les inspections d’infrastructures,
+  - 4\. la prise de photographies et le tournage de films dans le cadre de manifestions autorisées en vertu de l’al. 2, ainsi que la prise de photographies et le tournage de films d’intérêt public,
+  - 5\. le sauvetage de faons;
+
 - g.[^5-9] l’utilisation de planches à voile tirées par des cerfs-volants ou d’engins du même type et la circulation de modèles réduits d’engins flottants sont interdites;
 - h.[^5-10] les cantons peuvent autoriser des mesures particulières de développement et de protection des peuplements de poissons (mesures de gestion halieutique) pour autant qu’elles ne compromettent pas l’objectif visé par les réserves d’oiseaux d’eau et de migrateurs.
 
@@ -109,7 +118,7 @@ Les dispositions ci-après s’appliquent d’une manière générale aux réser
 [^5-5]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-7]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-8]: Introduite par l’annexe ch. 7 de l’O du 14 mai 2014 sur les atterrissages en campagne ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-8]: Introduite par l’annexe ch. 7 de l’O du 14 mai 2014 sur les atterrissages en campagne ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^5-9]: Introduite par le ch. I de l’O du 13 mai 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-10]: Introduite par le ch. I de l’O du 13 mai 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
 [^5-11]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
@@ -120,7 +129,7 @@ Les dispositions ci-après s’appliquent d’une manière générale aux réser
 
 <sup>1</sup> Dans l’accomplissement de leurs tâches, la Confédération et les cantons veillent à assurer la prise en compte de la protection visée par les réserves d’oiseaux d’eau et de migrateurs. Dans le cas particulier où d’autres intérêts sont en jeu, la décision sera prise sur la base d’une appréciation de tous les intérêts.
 
-<sup>1bis</sup> Lorsque des autorités fédérales autres que l'OFEV sont compétentes pour l’exécution, la collaboration de ce dernier est régie par les art. 62*a* et 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^6-1].[^6-2]
+<sup>1bis</sup> Lorsque des autorités fédérales autres que l’OFEV sont compétentes pour l’exécution, la collaboration de ce dernier est régie par les art. 62*a* et 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^6-1].[^6-2]
 
 <sup>2</sup> Les réserves d’oiseaux d’eau et de migrateurs doivent être prises en considération lors de l’élaboration de plans directeurs et de plans d’affectation.
 
@@ -271,15 +280,16 @@ Le service cantonal compétent confie les tâches suivantes aux surveillants des
 
 <sup>2</sup> L’OFEV organise des cours de perfectionnement sur les problèmes particuliers relatifs aux réserves d’oiseaux d’eau et de migrateurs.
 
-## Chapitre 5 Indemnités
+## Chapitre 5 Indemnités et aides financières
 
-[^sec5-1]
+[^sec5-1][^sec5-2]
 
 [^sec5-1]: Nouvelle teneur selon le ch. I 23 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^sec5-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 14
 
-**Surveillance**
+**Indemnités pour la surveillance[^14-1]**
 
 <sup>1</sup>
 
@@ -297,9 +307,11 @@ Les contributions de base annuelles s’élèvent à:
 - a. 28 000 francs pour toutes les réserves d’importance internationale;
 - b. 14 000 francs pour toutes les réserves d’importance nationale.
 
+[^14-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+
 #### Art. 15
 
-**Dommages causés par la faune sauvage**
+**Indemnités pour les dommages causés par la faune sauvage[^15-1]**
 
 <sup>1</sup>
 
@@ -315,12 +327,21 @@ Le montant des indemnités est fonction:
 - a. de l’importance internationale ou nationale des réserves;
 - b. exceptionnellement, de l’ampleur de dommages particulièrement élevés.
 
-<sup>3</sup> Le montant est négocié entre l’OFEV[^15-1] et le canton concerné.
+<sup>3</sup> Le montant est négocié entre l’OFEV[^15-2] et le canton concerné.
 
-<sup>4</sup> Si les mesures prévues aux art. 8 et 9 ne sont pas prises alors qu’elles sont nécessaires et pertinentes, les indemnités peuvent être refusées ou leur restitution peut être exigée.[^15-2]
+<sup>4</sup> Si les mesures prévues aux art. 8 et 9 ne sont pas prises alors qu’elles sont nécessaires et pertinentes, les indemnités peuvent être refusées ou leur restitution peut être exigée.[^15-3]
 
-[^15-1]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Il a été tenu compte de cette mod. dans tout le texte.
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
+[^15-2]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+
+#### [Art. 15a](https://www.admin.ch/opc/fr/classified-compilation/19910014/index.html)
+
+**[Aides financières pour des mesures de conservation des espèces et des biotopes](https://www.admin.ch/opc/fr/classified-compilation/19910014/index.html)**[^15a-1]
+
+Le montant des aides financières globales allouées pour les coûts de planification et de mise en œuvre des mesures de conservation des espèces et des biotopes dans les réserves énumérées à l’annexe 1 ainsi que dans les réserves visées à l’art. 11, al. 4, de la loi sur la chasse est convenu entre la Confédération et le canton concerné; il est fixé en fonction de l’ampleur, de la qualité, de la complexité et de l’efficacité des mesures.
+
+[^15a-1]: Introduit par l’annexe ch. 2 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 #### Art. 16
 
