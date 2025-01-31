@@ -4,13 +4,12 @@ number: 539o
 title: Reglement über die Einwerbung und Entgegennahme von Spenden und Sponsoringbeiträgen (Fundraising) an der Universität Luzern
 short: Fundraising Policy UniLU
 language: de
-version: 2023-08-01
-valid_until: 2025-01-31
-version_adopted: 2023-05-12
+version: 2025-02-01
+version_adopted: 2024-12-18
 adopted: 2023-05-12
 in_force: 2023-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539o"
-pdf: "https://srl.lu.ch/api/de/versions/4120/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,17 +20,18 @@ Nr. 539o
 
 (Fundraising Policy UniLU)
 
-vom 12.05.2023 (Stand 01.08.2023)
+vom 12.05.2023 (Stand 01.02.2025)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 16 des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 16 des Universitätsgesetzes vom 17. Januar 2000[^ingress-1] und § 12 Absatz 2f des Statuts der Universität Luzern (Universitätsstatut[^ingress-2]),
 
 auf Antrag des Senats,
 
 beschliesst:
 
 [^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-2]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -55,7 +55,7 @@ beschliesst:
 
 **Zusammenarbeit mit der Stiftung Universität Luzern**
 
-<sup>1</sup> Die Universität schliesst mit der Stiftung Universität Luzern (Universitätsstiftung), die für die Universität oder unter Verwendung des Namens der Universität Fundraising betreibt, eine Vereinbarung über die Zusammenarbeit ab und verpflichtet diese darin, die Grundsätze dieser Policy einzuhalten.
+<sup>1</sup> Die Universität kann mit der Stiftung Universität Luzern (Universitätsstiftung) eine Vereinbarung abschliessen und verpflichtet diese darin, die Grundsätze dieser Policy einzuhalten.
 
 #### § 3
 
@@ -95,7 +95,7 @@ beschliesst:
 
 <sup>1</sup> Die Organisationseinheiten der Universität sind unter Beachtung aller universitären und übergeordneten Vorgaben, einschliesslich ethischer und fachlicher Standards und unter Vorbehalt von Absatz 2 frei, Fundraising für die Erfüllung ihrer universitären Aufgaben zu betreiben.
 
-<sup>2</sup> Sie informieren die Universitätsstiftung frühzeitig über ihre entsprechenden Aktivitäten zwecks Gewährleistung einer zentralen Koordination von Fundraisingaktivitäten von überfakultärer und gesamtuniversitärer Bedeutung.
+<sup>2</sup> Sie informieren die Rektorin oder den Rektor frühzeitig über ihre entsprechenden Aktivitäten zwecks Gewährleistung einer zentralen Koordination von Fundraisingaktivitäten von überfakultärer und gesamtuniversitärer Bedeutung.
 
 #### § 6
 
@@ -103,11 +103,11 @@ beschliesst:
 
 <sup>1</sup> Spenden und Sponsoringbeiträge werden unter Vorbehalt von Absatz 2 von der Universität entgegengenommen.
 
-<sup>2</sup> Die Entgegennahme von Spenden erfolgt in der Regel durch die Universitätsstiftung, wenn sie:
+<sup>2</sup> Die Universität kann mit der Universitätsstiftung eine Vereinbarung betreffend die Entgegennahme von Spenden und deren Verwaltung für die Universität durch die Universitätsstiftung treffen.
 
-- a. für ein mehrjähriges Projekt ausgerichtet werden,
-- b. 100 000 Franken übersteigen oder
-- c. direkt der Universitätsstiftung angeboten werden.
+- a. …
+- b. …
+- c. …
 
 <sup>3</sup> Die Universitätsstiftung nimmt keine Sponsoringbeiträge zugunsten der Universität entgegen.
 
@@ -148,7 +148,7 @@ beschliesst:
 
 **Offenlegung**
 
-<sup>1</sup> Donationen über 10 000 Franken werden im Geschäftsbericht (Jahresbericht) der Universität publiziert.
+<sup>1</sup> Donationen über 10 000 Franken werden im Geschäftsbericht (Jahresbericht) der Universität publiziert. Dies gilt auch dann, wenn Spenden von der Universitätsstiftung entgegengenommen und für die Universität verwaltet werden (§ 5 Abs. 2).
 
 <sup>2</sup> Im Übrigen richtet sich die Offenlegung der gestützt auf diese Policy eingeworbenen Drittmittel nach der Verordnung des Regierungsrates über die Offenlegung von Drittmitteln der Universität Luzern[^9-1]. Vorbehalten bleiben die Bestimmungen des Kantonalen Gesetzes über den Schutz von Personendaten[^9-2].
 
