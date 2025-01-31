@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2024-06-01
+version: 2025-02-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. Juni 2024)
+vom 3. Juni 2016 (Stand am 1. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -408,7 +408,7 @@ Anhang 3[^t-2]
 
 (Art. 3 Abs. 1)
 
-[^t-2]: Der Text des Anhangs 3 wird weder in der AS noch in der SR publiziert ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Er kann beim Staatssekretariat für Wirtschaft, Ressort Exportkontrollen/Industrieprodukte, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) eingesehen werden.
+[^t-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 765](https://fedlex.data.admin.ch/eli/oc/2024/765)). Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/765](https://fedlex.data.admin.ch/eli/oc/2024/765) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2024-06-01
+version: 2025-02-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° giugno 2024)
+del 3 giugno 2016 (Stato 1° febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -174,7 +174,7 @@ La persona fisica che presenta la domanda o i membri degli organi della persona 
 - e. alla legge federale del 25 giugno 1982[^10-5] sulle misure economiche esterne.
 
 [^10-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^10-2]: Introdotta dal n. III 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^10-2]: Introdotta dalla cifra III n. 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^10-3]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 [^10-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 [^10-5]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
@@ -235,7 +235,7 @@ La fornitura di beni di cui agli allegati 2–5 a depositi doganali aperti o a d
 
 <sup>3</sup> Chiunque esporta beni che sono enumerati nei capitoli della tariffa doganale[^17-2] 28–29, 30 (solo le voci 3002.1200–9000), 34, 36–40, 54–56, 59, 62, 65 (solo la voce 6506.1000), 68–76, 79, 81–90 e 93, ma che non soggiacciono all’obbligo dell’autorizzazione secondo l’articolo 3 o che sono esentati dall’obbligo dell’autorizzazione d’esportazione secondo l’articolo 4, deve menzionare nella dichiarazione doganale l’indicazione «esente da autorizzazione».[^17-3]
 
-[^17-1]: Nuovo testo giusta il n. III 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-1]: Nuovo testo giusta la cifra III n. 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: L del 9 ott. 1986 sulla tariffa delle dogane ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), all. 1 e 2. È possibile consultare gratuitamente la tariffa doganale su www.ezv.admin.ch &gt; Tariffa doganale – Tares.
 [^17-3]: Nuovo testo giusta l’all. 3 n. 16 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
@@ -379,7 +379,7 @@ Il contenuto degli allegati 1–3 non è pubblicato né nella Raccolta ufficiale
 
 L’ordinanza del 25 giugno 1997[^30-1] sul controllo dei beni a duplice impiego è abrogata.
 
-[^30-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 4337; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 n. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 n. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83)]
+[^30-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)cifra II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 4337; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 cifra II n. 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 cifra II n. 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83)]
 
 #### Art. 31
 
@@ -401,14 +401,14 @@ Allegati 1 e 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184)).
 [^annexu1-lvlu1-1]: Il contenuto dei presenti all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
 (art. 3 cpv. 1)
 
-[^t-2]: Il testo dell’all. non è pubblicato nella RU ([RU 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Può essere ordinato presso la SECO, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultato sul sito www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing) &gt; Legge e elenchi dei beni (Allegati)
+[^t-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 feb. 2024, in vigore dal 1° feb. 2025 ([RU 2024 765](https://fedlex.data.admin.ch/eli/oc/2024/765)). Il contenuto dell’all. è pubblicato nella RU e nella RS soltanto mediante rimando ([RU 2024 765](https://fedlex.data.admin.ch/eli/oc/2024/765)). Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/765](https://fedlex.data.admin.ch/eli/oc/2024/765) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4
 

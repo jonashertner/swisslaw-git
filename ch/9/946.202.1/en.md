@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2024-06-01
+version: 2025-02-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 June 2024)
+of 3 June 2016 (Status as of 1 February 2025)
 
 The Swiss Federal Council,
 
@@ -410,7 +410,7 @@ Annex 3[^t-2]
 
 (Art. 3 para. 1)
 
-[^t-2]: Annex 3 is not published in the AS ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). They may be ordered from the State Secretariat for Economic Affairs, Export Controls Division/Industrial products, Holzikofenweg 36, 3003 Bern or consulted under www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing)
+[^t-2]: Amended by No I of the EAER O of 2 Dec. 2024, in force since 1 Feb. 2025 (AS **2024** 765). The content of this annex is only published in the AS and the SR by reference. It can be accessed in German, French and Italian at: [https://fedlex.data.admin.ch/eli/oc/2024/765](https://fedlex.data.admin.ch/eli/oc/2024/765) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Annex 4
 

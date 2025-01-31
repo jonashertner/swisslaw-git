@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2024-06-01
+version: 2025-02-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (État le 1<sup>er</sup> juin 2024)
+du 3 juin 2016 (État le 1<sup>er</sup> février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -408,7 +408,7 @@ Annexe 3[^t-2]
 
 (art. 3, al. 1)
 
-[^t-2]: Le texte de cette annexe n’est pas publié au RO (**2021** 191). Il peut être commandé au Secrétariat d’État à l’économie (SECO), secteur contrôles à l’exportation/produits industriels, Holzikofenweg 36, 3003 Berne ou consulté sur Internet à l’adresse www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels (dual-use) et biens militaires spécifiques (Licensing) &gt; Bases légales et listes des biens (annexes).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 765](https://fedlex.data.admin.ch/eli/oc/2024/765)). Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/765](https://fedlex.data.admin.ch/eli/oc/2024/765) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4
 
