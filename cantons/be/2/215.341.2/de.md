@@ -4,13 +4,13 @@ number: "215.341.2"
 title: Kantonale Geoinformationsverordnung
 short: KGeoIV
 language: de
-version: 2022-04-01
-valid_until: 2025-01-31
-version_adopted: 2022-02-23
+version: 2025-02-01
+valid_until: 2025-10-31
+version_adopted: 2024-12-18
 adopted: 2015-11-11
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2567/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2567/pdf_file"
 
 (KGeoIV)
 
-vom 11.11.2015 (Stand 01.04.2022)
+vom 11.11.2015 (Stand 01.02.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -192,9 +192,7 @@ Die Normen und Vorgaben betreffen insbesondere
 - e die Modalitäten für die Löschung der Daten im Quellsystem sowie
 - f die Modalitäten für die Einsichtnahme in die archivierten Daten und deren Nutzung.
 
-<sup>4</sup> Im Übrigen richtet sich die Archivierung nach dem Gesetz vom 31. März 2009 über die Archivierung (ArchG)[^13-1].
-
-[^13-1]: BSG 108.1
+<sup>4</sup> Im Übrigen richtet sich die Archivierung nach der Archivierungsgesetzgebung.
 
 ## 3 Zugang und Nutzung
 

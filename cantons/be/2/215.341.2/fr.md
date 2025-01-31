@@ -4,13 +4,13 @@ number: "215.341.2"
 title: "Ordonnance cantonale sur la géoinformation *"
 short: OCGéo
 language: fr
-version: 2022-04-01
-valid_until: 2025-01-31
-version_adopted: 2022-02-23
+version: 2025-02-01
+valid_until: 2025-10-31
+version_adopted: 2024-12-18
 adopted: 2015-11-11
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2567/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3118/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2567/pdf_file"
 
 (OCGéo)
 
-du 11.11.2015 (état au 01.04.2022)
+du 11.11.2015 (état au 01.02.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -190,9 +190,7 @@ arrête:
 - e les modalités de suppression des données dans le système source et
 - f les modalités de consultation et d’utilisation des données archivées.
 
-<sup>4</sup> Pour le reste, l’archivage est régi par la loi du 31 mars 2009 sur l’archivage (LArch)[^13-1]
-
-[^13-1]: RSB 108.1
+<sup>4</sup> Pour le reste, l’archivage est régi par la législation sur l'archivage.
 
 ## 3 Accès et utilisation
 
