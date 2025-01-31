@@ -4,13 +4,12 @@ number: "641.1"
 title: Staatsbeitragsgesetz
 short: StBG
 language: de
-version: 2020-03-01
-valid_until: 2025-01-31
-version_adopted: 2020-01-24
+version: 2025-02-01
+version_adopted: 2024-06-03
 adopted: 1992-09-16
 in_force: 1994-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/641.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1808/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1808/pdf_file"
 
 (StBG)
 
-vom 16.09.1992 (Stand 01.03.2020)
+vom 16.09.1992 (Stand 01.02.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -156,14 +155,15 @@ beschliesst:
 
 <sup>3</sup> Empfängerinnen und Empfänger von Staatsbeiträgen haben auf Verlangen der zuständigen Behörde bei der Durchführung von Erfolgskontrollen mitzuwirken.
 
-<sup>4</sup> Betriebe, die zu mehr als 50 Prozent der Gesamtkosten durch den Kanton subventioniert werden oder die Staatsbeiträge von mehr als einer Million Franken jährlich erhalten, geben in einem Vergütungsbericht alle Vergütungen gemäss Artikel 663b<sup>bis</sup> Absätze 2 bis 4 des Obligationenrechts (OR)[^8-1] an, die sie an folgende Personen ausgerichtet haben:
+<sup>4</sup> Betriebe, die zu mehr als 50 Prozent der Gesamtkosten durch den Kanton subventioniert werden oder die Staatsbeiträge von mehr als einer Million Franken jährlich erhalten, geben in einem Vergütungsbericht alle Vergütungen gemäss Artikel 663b<sup>bis</sup> Absätze 2 bis 4[^8-1] des Obligationenrechts (OR)[^8-2] an, die sie an folgende Personen ausgerichtet haben:
 
 - a Mitglieder des strategischen Führungsorgans,
 - b Mitglieder der Geschäftsleitung.
 
 <sup>5</sup> Der Regierungsrat regelt allfällige Ausnahmen durch Verordnung.
 
-[^8-1]: RS 220
+[^8-1]: Aufgehoben. Die neuen Bestimmungen finden sich in Artikel 734a Absätze 2 und 3 sowie in Artikel 734b Absätze 1 und 2 OR.
+[^8-2]: RS 220
 
 #### Art. 9
 

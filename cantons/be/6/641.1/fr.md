@@ -4,13 +4,12 @@ number: "641.1"
 title: Loi sur les subventions cantonales
 short: LCSu
 language: fr
-version: 2020-03-01
-valid_until: 2025-01-31
-version_adopted: 2020-01-24
+version: 2025-02-01
+version_adopted: 2024-06-03
 adopted: 1992-09-16
 in_force: 1994-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/641.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1808/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3142/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1808/pdf_file"
 
 (LCSu)
 
-du 16.09.1992 (état au 01.03.2020)
+du 16.09.1992 (état au 01.02.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -156,14 +155,15 @@ arrête:
 
 <sup>3</sup> L'allocataire collabore, à la demande de l'autorité compétente, à l'exécution des contrôles des résultats.
 
-<sup>4</sup> Les entreprises dont plus de 50 pour cent des coûts globaux sont subventionnés par le canton ou qui reçoivent plus d’un million de francs de subventions cantonales par an publient un rapport sur toutes les indemnités au sens de l’article 663b<sup>bis</sup> alinéas 2 à 4 du Code des obligations (CO)[^8-1] qu’elles ont versées aux personnes suivantes:
+<sup>4</sup> Les entreprises dont plus de 50 pour cent des coûts globaux sont subventionnés par le canton ou qui reçoivent plus d’un million de francs de subventions cantonales par an publient un rapport sur toutes les indemnités au sens de l’article 663b<sup>bis</sup> alinéas 2 à 4[^8-1] du Code des obligations (CO)[^8-2] qu’elles ont versées aux personnes suivantes:
 
 - a membres de leur organe de gestion stratégique,
 - b membres de leur direction.
 
 <sup>5</sup> Le Conseil-exécutif règle les éventuelles exceptions par voie d’ordonnance.
 
-[^8-1]: RS 220
+[^8-1]: Abrogé. Les nouvelles dispositions se trouvent aux articles 734a, alinéas 2 et 3 et 734b, alinéas 1 et 2 CO.
+[^8-2]: RS 220
 
 #### Art. 9
 
