@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Übereinkommen vom 20. Mai 1987 über ein gemeinsames Versandverfahren (mit Anlagen und Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: de
-version: 2024-10-18
+version: 2025-02-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20241018-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20241018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 20. Mai 1987 Von der Bundesversammlung genehmigt am 8. Oktober 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1987 In Kraft getreten am 1. Januar 1988
 
-(Stand am 18. Oktober 2024)
+(Stand am 1. Februar 2025)
 
 [^t-1]: Das Übereink. umfasste ursprünglich folgende Vertragsparteien: Europäische Wirtschaftsgemeinschaft, Republik Österreich, Republik Finnland, Republik Island, Königreich Norwegen, Königreich Schweden und Schweizerische Eidgenossenschaft. Die Republik Österreich, die Republik Finnland und das Königreich Schweden sind am 1. Jan. 1995 den Europäischen Gemeinschaften beigetreten und sind seither nicht mehr selbständige Vertragsparteien des Übereink. Die Republik Polen, die Slowakische Republik, die Tschechische Republik und die Republik Ungarn sind dem Übereink. am 1. Juli 1996 beigetreten (AS **1996** 2508). Mit dem Beitritt zur Europäischen Union, sind diese vier Länder seit dem 1. Mai 2004 nicht mehr selbständige Vertragsparteien des Übereinkommens. Die Republik Kroatien ist dem Übereink. am 1. Juli 2012 beigetreten (AS **2013** 81), die Republik Türkei am 1. Dez. 2012 (AS **2013** 827), die ehemalige jugoslawische Republik Mazedonien (heute: Nordmazedonien) am 1. Juli 2015 (AS **2015** 5967) und die Republik Serbien am 1. Febr. 2016 (AS **2016** 535).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 8. Okt. 1987 ([AS 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -2855,7 +2855,7 @@ Anlage III[^t-5]
 
 ## Versandanmeldung und Vordrucke bei Anwendung von Mitteln der elektronischen Datenverarbeitung
 
-[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) und gemäss Art. 1 des Beschlusses Nr. 3/2022 des Gemischten Ausschusses vom 29. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)). Gemäss Art. 2 dieses Beschlusses dürfen die in den Anhängen C1 bis C6 wiedergegebenen Vordrucke in der am Tag vor dem Inkrafttreten dieses Beschlusses geltenden Fassung bis zum 1. April 2024 weiter verwendet werden, sofern die notwendigen geografischen Änderungen und die Änderungen hinsichtlich eines Wahldomizils oder eines Zustellungsbevollmächtigten entsprechend vorgenommen werden.
+[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)), gemäss Art. 1 des Beschlusses Nr. 3/2022 des Gemischten Ausschusses vom 29. Sept. 2022 ([AS 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)) und gemäss Art. 1 des Beschlusses Nr. 3/2024 des Gemischten Ausschusses vom 5. Nov. 2024, in Kraft für die Schweiz seit 1. Febr. 2025 (AS **202****5** 303). Gemäss Art. 2 dieses Beschlusses dürfen die in den Anhängen C1, C2, C4, C5 und C6 in der am 30. Nov. 2024 geltenden Fassung wiedergegebenen Vordrucke bis zum 30. Juni 2026 weiterverwendet werden, sofern die notwendigen geografischen Änderungen und die Änderungen hinsichtlich eines Wahldomizils oder eines Zustellungsbevollmächtigten entsprechend vorgenommen werden.
 
 #### Art. 1
 
@@ -4637,7 +4637,7 @@ Anhang A3 zu Anlage III
 
 ## Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image1.png)
 
 Anhang A4 zu Anlage III
 
@@ -5783,7 +5783,7 @@ Anhang B9 zu Anlage III
 
 ## Muster für den vom zugelassenen Versender zu verwendenden Sonderstempel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image2.png)
 
 - 1\. Wappen oder sonstige Zeichen oder Buchstaben des Landes
 - 2\. Kennnummer der Abgangszollstelle
@@ -5797,7 +5797,7 @@ Anhang B10 zu Anlage III
 ## Eingangsbescheinigung (TC 11)
 
 <table>
-<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ………… (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am ……………… (TT/MM/JJ) unter der Nr. ……………… (MRN<sup>(2)</sup>) von der Abgangszollstelle von ………………………… (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image3.png) (Ort) ……………, den …………… (TT/MM/JJ) …………………………………………………… (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
+<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ………… (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am ……………… (TT/MM/JJ) unter der Nr. ……………… (MRN<sup>(2)</sup>) von der Abgangszollstelle von ………………………… (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image3.png) (Ort) ……………, den …………… (TT/MM/JJ) …………………………………………………… (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
 </table>
 
 Anhang B11 zu Anlage III
@@ -5806,7 +5806,7 @@ Anhang B11 zu Anlage III
 
 (Versandverfahren im Eisenbahnverkehr)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image4.png)
 
 Anhang C1 zu Anlage III
 
@@ -5814,7 +5814,7 @@ Anhang C1 zu Anlage III
 
 ### I. Verpflichtungserklärung des Bürgen
 
-\1. Der/Die Unterzeichnete (1)
+\1. Der Unterzeichnete (1)
 
 mit Wohnsitz (Sitz) in (2)
 
@@ -5822,31 +5822,31 @@ leistet hiermit bei der Zollstelle der Sicherheitsleistung
 
 bis zu einem Höchstbetrag von
 
-selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden) sowie gegenüber der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, der Ukraine, dem Vereinigten Königreich Grossbritannien und Nordirland (3) (4), dem Fürstentum Andorra und der Republik San Marino (5) für alle Beträge, die der/die Sicherheitsleistende (6):
+selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden) sowie gegenüber Georgien, der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, der Ukraine, dem Vereinigten Königreich Grossbritannien und Nordirland (3) (4), dem Fürstentum Andorra und der Republik San Marino (5) für alle Beträge, die der/die Sicherheitsleistende (6):
 
 den genannten Ländern an Zöllen und anderen Abgaben (7) für die nachstehend bezeichneten Waren schuldet oder schulden wird, die folgendem Zollvorgang (8) unterliegen:
 
-Warenbeschreibung
+Warenbeschreibung:
 
-\2. Der/Die Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der unter Nummer 1 genannten Staaten die geforderten Beträge ohne Aufschub zu zahlen, sofern nicht er/sie oder ein anderer Beteiligter vor Ablauf dieser Frist den Zollbehörden gegenüber nachgewiesen hat, dass das besondere Verfahren (mit Ausnahme der Endverwendung) erledigt, die zollamtliche Überwachung der Waren in der Endverwendung oder die vorübergehende Verwahrung ordnungsgemäss beendet oder bei anderen Zollvorgängen als besonderen Verfahren oder vorübergehender Verwahrung der Status der Waren geregelt wurde.
+\2. Der Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der unter Nummer 1 genannten Staaten die geforderten Beträge ohne Aufschub zu zahlen, sofern nicht er oder ein anderer Beteiligter vor Ablauf dieser Frist den Zollbehörden gegenüber nachgewiesen hat, dass das besondere Verfahren (mit Ausnahme der Endverwendung) erledigt, die zollamtliche Überwachung der Waren in der Endverwendung oder die vorübergehende Verwahrung ordnungsgemäss beendet oder bei anderen Zollvorgängen als besonderen Verfahren oder vorübergehender Verwahrung der Status der Waren geregelt wurde.
 
-Die zuständigen Behörden können aus für stichhaltig erachteten Gründen auf Antrag des/der Unterzeichneten die Frist von dreissig Tagen nach der schriftlichen Aufforderung, innerhalb welcher der/die Unterzeichnete die geforderten Beträge zu zahlen hat, verlängern. Die sich aus der Gewährung dieser zusätzlichen Frist ergebenden Kosten, insbesondere die Zinsen, sind so zu berechnen, dass sie dem Betrag entsprechen, der hierfür auf dem jeweiligen nationalen Geld- und Kapitalmarkt gefordert wird.
+Die zuständigen Behörden können aus für stichhaltig erachteten Gründen auf Antrag des/der Unterzeichneten die Frist von dreissig Tagen nach der schriftlichen Aufforderung, innerhalb welcher der Unterzeichnete die geforderten Beträge zu zahlen hat, verlängern. Die sich aus der Gewährung dieser zusätzlichen Frist ergebenden Kosten, insbesondere die Zinsen, sind so zu berechnen, dass sie dem Betrag entsprechen, der hierfür auf dem jeweiligen nationalen Geld- und Kapitalmarkt gefordert wird.
 
-\3. Diese Verpflichtungserklärung ist vom Tag ihrer Genehmigung durch die Zollstelle der Sicherheitsleistung an verbindlich. Der/Die Unterzeichnete haftet weiter für die Erfüllung der Schuld, die im Verlauf des Zollvorgangs im Rahmen dieser Verpflichtung entstanden ist, wenn dieser Vorgang vor dem Zeitpunkt des Wirksamwerdens einer Kündigung der Sicherheit begonnen hat; dies gilt auch dann, wenn die Zahlung später gefordert wird.
+\3. Diese Verpflichtungserklärung ist vom Tag ihrer Genehmigung durch die Zollstelle der Sicherheitsleistung an verbindlich. Der Unterzeichnete haftet weiter für die Erfüllung der Schuld, die im Verlauf des Zollvorgangs im Rahmen dieser Verpflichtung entstanden ist, wenn dieser Vorgang vor dem Zeitpunkt des Wirksamwerdens einer Kündigung der Sicherheit begonnen hat; dies gilt auch dann, wenn die Zahlung später gefordert wird.
 
-\4. Für diese Verpflichtungserklärung begründet der/die Unterzeichnete ein Wahldomizil (9) in allen unter Nummer 1 genannten Ländern:
+\4. Für diese Verpflichtungserklärung begründet der Unterzeichnete ein Wahldomizil (9) in allen unter Nummer 1 genannten Ländern:
 
 <table>
 <tr><th>Land</th><th>Name und Vorname, bzw. Firma, und vollständige Anschrift</th></tr>
 </table>
 
-Der/Die Unterzeichnete erkennt an, dass alle Förmlichkeiten oder Verfahrensmassnahmen, die diese Verpflichtungserklärung betreffen und an einem der Wahldomizile schriftlich vorgenommen werden, insbesondere Postsendungen und Zustellungen, für ihn/sie verbindlich sind.
+Der Unterzeichnete erkennt an, dass alle Förmlichkeiten oder Verfahrensmassnahmen, die diese Verpflichtungserklärung betreffen und an einem der Wahldomizile schriftlich vorgenommen werden, insbesondere Postsendungen und Zustellungen, für ihn verbindlich sind.
 
-Der/Die Unterzeichnete erkennt als Gerichtsstand den Ort der Gerichte der Wahldomizile an.
+Der Unterzeichnete erkennt als Gerichtsstand den Ort der Gerichte der Wahldomizile an.
 
-Der/Die Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder eines oder mehrere dieser Wahldomizile nur nach vorheriger Unterrichtung der Zollstelle der Sicherheitsleistung zu ändern.
+Der Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder eines oder mehrere dieser Wahldomizile nur nach vorheriger Unterrichtung der Zollstelle der Sicherheitsleistung zu ändern.
 
-(Ort) den
+Ort den
 
 (Unterschrift) (10)
 
@@ -5854,17 +5854,19 @@ Der/Die Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder ei
 
 Zollstelle der Sicherheitsleistung
 
-Verpflichtungserklärung des Bürgen genehmigt am ................ für das Zollverfahren mit der Zollanmeldung/Anmeldung zur vorübergehenden Verwahrung Nr. ................ vom ............... (11).
+Verpflichtungserklärung des Bürgen genehmigt am ................ für das Zollverfahren mit der Zollanmeldung/Anmeldung zur vorübergehenden Verwahrung Nr. ................ vom .............. (11)
 
-(Stempel und Unterschrift)»
+(Stempel und Unterschrift)
 
-- () Name und Vorname oder Firmenbezeichnung.
+Anmerkungen:
+
+- (1) Name und Vorname oder Firma.
 - (2) Vollständige Anschrift.
-- (3) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
+- (3) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
 - (4) Die Namen der Staaten, in deren Gebiet die Sicherheit nicht verwendet werden darf, sind zu streichen.
 - (5) Bezugnahmen auf das Fürstentum Andorra oder die Republik San Marino gelten nur für Unionsversandverfahren.
-- (6) Name und Vorname oder Firmenbezeichnung und vollständige Anschrift des Sicherheitsleistenden.
-- (7) Gilt für die anderen Abgaben im Zusammenhang mit der Einfuhr und Ausfuhr der Waren, wenn die Sicherheitsleistung für die Überführung von Waren in das Unionsversandverfahren bzw. das gemeinsame Versandverfahren verwendet wird oder in mehr als einem Mitgliedstaat verwendet werden kann.
+- (6) Name und Vorname oder Firma und vollständige Anschrift des Sicherheitsleistenden.
+- (7) Gilt für die Abgaben im Zusammenhang mit der Einfuhr und Ausfuhr der Waren, wenn die Sicherheitsleistung für die Überführung von Waren in das Unionsversandverfahren bzw. das gemeinsame Versandverfahren verwendet wird oder in mehr als einem Mitgliedstaat verwendet werden kann.
 - (8)
 
   Anzugeben ist einer der folgenden Zollvorgänge:
@@ -5883,8 +5885,9 @@ Verpflichtungserklärung des Bürgen genehmigt am ................ für das Zoll
   - l) anderer Zollvorgang – bitte Art des Vorgangs angeben.
 
 - (9) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
-- (10) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
+- (10) Vor der Unterschrift muss der Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
 - (11) Von der Zollstelle auszufüllen, bei der die Waren in das Verfahren oder die vorübergehende Verwahrung übergeführt wurden.
+- [tab]
 
 Anhang C2 zu Anlage III
 
@@ -5892,31 +5895,31 @@ Anhang C2 zu Anlage III
 
 ### I. Verpflichtungserklärung des Bürgen
 
-\1. Der/Die Unterzeichnete (1)
+\1. Der Unterzeichnete (1)
 
 mit Wohnsitz (Sitz) in (2)
 
 leistet hiermit bei der Zollstelle der Sicherheitsleistung
 
-selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden) sowie gegenüber der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, der Ukraine, dem Vereinigten Königreich Grossbritannien und Nordirland (3), dem Fürstentum Andorra und der Republik San Marino (4) für alle Beträge, die der Inhaber des Verfahrens den genannten Ländern an Zöllen und anderen Abgaben im Zusammenhang mit der Einfuhr oder der Ausfuhr der in das Unionsversandverfahren oder gemeinsame Versandverfahren übergeführten Waren schuldet oder schulden wird, wobei sich der/die Unterzeichnete zur Ausstellung von Einzelsicherheitstiteln bis zu einem Höchstbetrag von 10 000 EUR je Sicherheitstitel verpflichtet hat.
+selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden) sowie gegenüber Georgien, der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, der Ukraine, dem Vereinigten Königreich Grossbritannien und Nordirland (3), dem Fürstentum Andorra und der Republik San Marino (4) für alle Beträge, die der Inhaber des Verfahrens den genannten Ländern an Zöllen und anderen Abgaben im Zusammenhang mit der Einfuhr oder der Ausfuhr der in das Unionsversandverfahren oder gemeinsame Versandverfahren übergeführten Waren schuldet oder schulden wird, wobei sich der Unterzeichnete zur Ausstellung von Einzelsicherheitstiteln bis zu einem Höchstbetrag von 10 000 EUR je Sicherheitstitel verpflichtet hat.
 
-\2. Der/Die Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der in Nummer 1 genannten Länder die geforderten Beträge bis zu dem angeführten Höchstbetrag von 10 000 EUR je Einzelsicherheitstitel ohne Aufschub zu zahlen, sofern nicht er/sie oder ein anderer Beteiligter vor Ablauf dieser Frist den zuständigen Behörden gegenüber nachgewiesen hat, dass das betreffende Verfahren ordnungsgemäss erledigt wurde.
+\2. Die Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der in Nummer 1 genannten Länder die geforderten Beträge bis zu dem angeführten Höchstbetrag von 10 000 EUR je Einzelsicherheitstitel ohne Aufschub zu zahlen, sofern nicht er oder ein anderer Beteiligter vor Ablauf dieser Frist den zuständigen Behörden gegenüber nachgewiesen hat, dass das betreffende Verfahren ordnungsgemäss erledigt wurde.
 
-Die zuständigen Behörden können aus für stichhaltig erachteten Gründen auf Antrag des/der Unterzeichneten die Frist von dreissig Tagen nach der schriftlichen Aufforderung, innerhalb welcher der/die Unterzeichnete die geforderten Beträge zu zahlen hat, verlängern. Die sich aus der Gewährung dieser zusätzlichen Frist ergebenden Kosten, insbesondere die Zinsen, sind so zu berechnen, dass sie dem Betrag entsprechen, der hierfür auf dem jeweiligen nationalen Geld- und Kapitalmarkt gefordert wird.
+Die zuständigen Behörden können aus für stichhaltig erachteten Gründen auf Antrag des/der Unterzeichneten die Frist von dreissig Tagen nach der schriftlichen Aufforderung, innerhalb welcher der Unterzeichnete die geforderten Beträge zu zahlen hat, verlängern. Die sich aus der Gewährung dieser zusätzlichen Frist ergebenden Kosten, insbesondere die Zinsen, sind so zu berechnen, dass sie dem Betrag entsprechen, der hierfür auf dem jeweiligen nationalen Geld- und Kapitalmarkt gefordert wird.
 
-\3. Diese Verpflichtungserklärung ist vom Tag ihrer Genehmigung durch die Zollstelle der Sicherheitsleistung an verbindlich. Der/Die Unterzeichnete haftet weiter für die Erfüllung der Schuld, die im Verlauf des Unionsversandverfahrens oder des gemeinsamen Versandverfahrens im Rahmen dieser Verpflichtung entstanden ist, wenn dieses Verfahren vor dem Zeitpunkt des Wirksamwerdens einer Kündigung der Sicherheitsleistung begonnen hat; dies gilt auch dann, wenn die Zahlung später gefordert wird.
+\3. Diese Verpflichtungserklärung ist vom Tag ihrer Genehmigung durch die Zollstelle der Sicherheitsleistung an verbindlich. Der Unterzeichnete haftet weiter für die Erfüllung der Schuld, die im Verlauf des Unionsversandverfahrens oder des gemeinsamen Versandverfahrens im Rahmen dieser Verpflichtung entstanden ist, wenn dieses Verfahren vor dem Zeitpunkt des Wirksamwerdens einer Kündigung der Sicherheitsleistung begonnen hat; dies gilt auch dann, wenn die Zahlung später gefordert wird.
 
-\4. Für diese Verpflichtungserklärung begründet der/die Unterzeichnete ein Wahldomizil (5) in allen unter Nummer 1 genannten Ländern:
+\4. Für diese Verpflichtungserklärung begründet der Unterzeichnete ein Wahldomizil (5) in allen unter Nummer 1 genannten Ländern:
 
 <table>
 <tr><th>Land</th><th>Name und Vorname, bzw. Firma, und vollständige Anschrift</th></tr>
 </table>
 
-Der/Die Unterzeichnete erkennt an, dass alle Förmlichkeiten oder Verfahrensmassnahmen, die diese Verpflichtungserklärung betreffen und an einem der Wahldomizile schriftlich vorgenommen werden, insbesondere Postsendungen und Zustellungen, für ihn/sie verbindlich sind.
+Der Unterzeichnete erkennt an, dass alle Förmlichkeiten oder Verfahrensmassnahmen, die diese Verpflichtungserklärung betreffen und an einem der Wahldomizile schriftlich vorgenommen werden, insbesondere Postsendungen und Zustellungen, für ihn verbindlich sind.
 
-Der/Die Unterzeichnete erkennt als Gerichtsstand den Ort der Gerichte der Wahldomizile an.
+Der Unterzeichnete erkennt als Gerichtsstand den Ort der Gerichte der Wahldomizile an.
 
-Der/Die Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder eines oder mehrere dieser Wahldomizile nur nach vorheriger Unterrichtung der Zollstelle der Sicherheitsleistung zu ändern.
+Der Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder eines oder mehrere dieser Wahldomizile nur nach vorheriger Unterrichtung der Zollstelle der Sicherheitsleistung zu ändern.
 
 (Ort) den
 
@@ -5930,19 +5933,21 @@ Verpflichtungserklärung des Bürgen genehmigt am
 
 (Stempel und Unterschrift)»
 
-- (1) Name und Vorname oder Firmenbezeichnung.
+Anmerkungen:
+
+- (1) Name und Vorname oder Firma.
 - (2) Vollständige Anschrift.
-- (3) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken
+- (3) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
 - (4) Bezugnahmen auf das Fürstentum Andorra oder die Republik San Marino gelten nur für Unionsversandverfahren.
 - (5) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
-- (6) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheitsleistung».
+- (6) Vor der Unterschrift muss der Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheitsleistung».
 - [tab]
 
 Anhang C3 zu Anlage III
 
 ## Einzelsicherheitstitel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image5.png)
 
 Technische Anforderungen an den Sicherheitstitel
 
@@ -5958,7 +5963,7 @@ Anhang C4 zu Anlage III
 
 ### I. Verpflichtungserklärung des Bürgen
 
-\1. Der/Die Unterzeichnete (1)
+\1. Der Unterzeichnete (1)
 
 mit Wohnsitz (Sitz) in (2)
 
@@ -5966,55 +5971,55 @@ leistet hiermit bei der Zollstelle der Sicherheitsleistung
 
 bis zu einem Höchstbetrag von
 
-selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, Irland, der Griechischen Republik, dem Königreich Spanien, der Französischen Republik, der Republik Kroatien, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden) sowie gegenüber der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, der Ukraine, dem Vereinigten Königreich Grossbritannien und Nordirland (3) (4), dem Fürstentum Andorra und der Republik San Marino (5), für alle Beträge, die der/die Sicherheitsleistende (6)
+selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, Irland, der Griechischen Republik, dem Königreich Spanien, der Französischen Republik, der Republik Kroatien, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden) sowie gegenüber Georgien, der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, der Ukraine, dem Vereinigten Königreich Grossbritannien und Nordirland (3) (4), dem Fürstentum Andorra und der Republik San Marino(5), für alle Beträge, die der/die Sicherheitsleistende (6)
 
 den genannten Ländern an Zöllen und anderen Abgaben (7) schuldet oder schulden wird, die für die Waren entstanden sind oder möglicherweise entstehen, die den unter Nummer 1a und/oder 1b aufgeführten Zollvorgängen unterliegen.
 
 Der Höchstbetrag der Sicherheitsleistung setzt sich zusammen aus einem Betrag in Höhe von
 
-- a) der 100/50/30 % (8) des Teils des Referenzbetrages ausmacht, der sich aus einem Zollschuldbetrag und anderen möglicherweise entstehenden Abgaben zusammensetzt und der Summe der unter Nummer 1a aufgeführten Beträge entspricht;
+- a) der 100/50/30 % (8) des Teils des Referenzbetrages ausmacht, der sich aus einem Zollschuldbetrag und anderen möglicherweise entstehenden Abgaben zusammensetzt und der Summe, der unter Nummer 1a aufgeführten Beträge entspricht,
 - und
-- b) der 100/30 % (8) des Teils des Referenzbetrages ausmacht, der sich aus einem Zollschuldbetrag und anderen möglicherweise entstehenden Abgaben zusammensetzt und der Summe der unter Nummer 1b aufgeführten Beträge entspricht.
+- b) der 100/30 % (8) des Teils des Referenzbetrages ausmacht, der sich aus einem Zollschuldbetrag und anderen möglicherweise entstehenden Abgaben zusammensetzt und der Summe, der unter Nummer 1b aufgeführten Beträge entspricht.
 
 1a. Die nachstehend für die einzelnen Vorgänge aufgeführten Beträge bilden den Teil des Referenzbetrages, der einem Zollschuldbetrag und gegebenenfalls anderen möglicherweise entstehenden Abgaben entspricht (9):
 
-- a) vorübergehende Verwahrung – … ;
-- b) Unionsversandverfahren/gemeinsames Versandverfahren – … ;
-- c) Zolllagerverfahren – … ;
-- d) vorübergehende Verwendung mit vollständiger Befreiung von den Einfuhrabgaben … ;
-- e) aktive Veredelung – … ;
-- f) Endverwendung – … ;
-- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – … .
+- a) vorübergehende Verwahrung – …;
+- b) Unionsversandverfahren/gemeinsames Versandverfahren – …;
+- c) Zolllagerverfahren – …;
+- d) vorübergehende Verwendung mit vollständiger Befreiung von den Einfuhrabgaben – …;
+- e) aktive Veredelung – …;
+- f) Endverwendung – …;
+- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – ….
 
 1b. Die nachstehend für die einzelnen Vorgänge aufgeführten Beträge bilden den Teil des Referenzbetrages, der einem Zollschuldbetrag und gegebenenfalls anderen entstandenen Abgaben entspricht (9):
 
-- a) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung ohne Zahlungsaufschub – … ;
-- b) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung mit Zahlungsaufschub – … ;
-- c) Überlassung zum zollrechtlich freien Verkehr mit Zollanmeldung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – … ;
-- d) Überlassung zum zollrechtlich freien Verkehr mit Zollanmeldung nach Artikel 182 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – … ;
-- e) vorübergehende Verwendung mit teilweiser Befreiung von den Einfuhrabgaben – … ;
+- a) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung ohne Zahlungsaufschub – …;
+- b) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung mit Zahlungsaufschub – …;
+- c) Überlassung zum zollrechtlich freien Verkehr mit Zollanmeldung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – …;
+- d) Überlassung zum zollrechtlich freien Verkehr mit Zollanmeldung nach Artikel 182 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – …;
+- e) vorübergehende Verwendung mit teilweiser Befreiung von den Einfuhrabgaben – …;
 - f) Endverwendung – … (10);
-- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – … ;
+- g) anderer Zollvorgang – bitte Art des Vorgangs angeben –….
 
-\2. Der/Die Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der unter Nummer 1 genannten Staaten die geforderten Beträge bis zu dem angeführten Höchstbetrag ohne Aufschub zu zahlen, sofern nicht er/sie oder ein anderer Beteiligter vor Ablauf dieser Frist den Zollbehörden gegenüber nachgewiesen hat, dass das besondere Verfahren (mit Ausnahme der Endverwendung) erledigt, die zollamtliche Überwachung der Waren in der Endverwendung oder die vorübergehende Verwahrung ordnungsgemäss beendet oder bei anderen Zollvorgängen als besonderen Verfahren der Status der Waren geregelt wurde.
+\2. Der Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der unter Nummer 1 genannten Staaten die geforderten Beträge bis zu dem angeführten Höchstbetrag ohne Aufschub zu zahlen, sofern nicht er oder ein anderer Beteiligter vor Ablauf dieser Frist den Zollbehörden gegenüber nachgewiesen hat, dass das besondere Verfahren (mit Ausnahme der Endverwendung) erledigt, die zollamtliche Überwachung der Waren in der Endverwendung oder die vorübergehende Verwahrung ordnungsgemäss beendet oder bei anderen Zollvorgängen als besonderen Verfahren der Status der Waren geregelt wurde.
 
-Die zuständigen Behörden können aus für stichhaltig erachteten Gründen auf Antrag des/der Unterzeichneten die Frist von dreissig Tagen nach der schriftlichen Aufforderung, innerhalb welcher der/die Unterzeichnete die geforderten Beträge zu zahlen hat, verlängern. Die sich aus der Gewährung dieser zusätzlichen Frist ergebenden Kosten, insbesondere die Zinsen, sind so zu berechnen, dass sie dem Betrag entsprechen, der hierfür auf dem jeweiligen nationalen Geld- und Kapitalmarkt gefordert wird.
+Die zuständigen Behörden können aus für stichhaltig erachteten Gründen auf Antrag des/der Unterzeichneten die Frist von dreissig Tagen nach der schriftlichen Aufforderung, innerhalb welcher der Unterzeichnete die geforderten Beträge zu zahlen hat, verlängern. Die sich aus der Gewährung dieser zusätzlichen Frist ergebenden Kosten, insbesondere die Zinsen, sind so zu berechnen, dass sie dem Betrag entsprechen, der hierfür auf dem jeweiligen nationalen Geld- und Kapitalmarkt gefordert wird.
 
-Dieser Betrag kann um die Beträge, die aufgrund der Verpflichtungserklärung bereits bezahlt worden sind, nur dann vermindert werden, wenn der/die Unterzeichnete zur Erfüllung einer Schuld aufgefordert wird, die im Rahmen eines Zollvorgangs entstanden ist, der vor Eingang der vorhergehenden Zahlungsaufforderung oder innerhalb von dreissig Tagen danach begonnen hat.
+Dieser Betrag kann um die Beträge, die aufgrund der Verpflichtungserklärung bereits bezahlt worden sind, nur dann vermindert werden, wenn der Unterzeichnete zur Erfüllung einer Schuld aufgefordert wird, die im Rahmen eines Zollvorgangs entstanden ist, der vor Eingang der vorhergehenden Zahlungsaufforderung oder innerhalb von dreissig Tagen danach begonnen hat.
 
-\3. Diese Verpflichtungserklärung ist vom Tag ihrer Genehmigung durch die Zollstelle der Sicherheitsleistung an verbindlich. Der/Die Unterzeichnete haftet weiter für die Erfüllung der Schuld, die im Verlauf des Zollvorgangs im Rahmen dieser Verpflichtung entstanden ist, wenn dieser Vorgang vor dem Zeitpunkt des Wirksamwerdens einer Kündigung der Sicherheit begonnen hat; dies gilt auch dann, wenn die Zahlung später gefordert wird.
+\3. Diese Verpflichtungserklärung ist vom Tag ihrer Genehmigung durch die Zollstelle der Sicherheitsleistung an verbindlich. Der Unterzeichnete haftet weiter für die Erfüllung der Schuld, die im Verlauf des Zollvorgangs im Rahmen dieser Verpflichtung entstanden ist, wenn dieser Vorgang vor dem Zeitpunkt des Wirksamwerdens einer Kündigung der Sicherheit begonnen hat; dies gilt auch dann, wenn die Zahlung später gefordert wird.
 
-\4. Für diese Verpflichtungserklärung begründet der/die Unterzeichnete ein Wahldomizil (11) in allen unter Nummer 1 genannten Ländern:
+\4. Für diese Verpflichtungserklärung begründet der Unterzeichnete ein Wahldomizil (11) in allen unter Nummer 1 genannten Ländern:
 
 <table>
 <tr><th>Land</th><th>Name und Vorname, bzw. Firma, und vollständige Anschrift</th></tr>
 </table>
 
-Der/Die Unterzeichnete erkennt an, dass alle Förmlichkeiten oder Verfahrensmassnahmen, die diese Verpflichtungserklärung betreffen und an einem der Wahldomizile schriftlich vorgenommen werden, insbesondere Postsendungen und Zustellungen, für ihn/sie verbindlich sind.
+Der Unterzeichnete erkennt an, dass alle Förmlichkeiten oder Verfahrensmassnahmen, die diese Verpflichtungserklärung betreffen und an einem der Wahldomizile schriftlich vorgenommen werden, insbesondere Postsendungen und Zustellungen, für ihn verbindlich sind.
 
-Der/Die Unterzeichnete erkennt als Gerichtsstand den Ort der Gerichte der Wahldomizile an.
+Der Unterzeichnete erkennt als Gerichtsstand den Ort der Gerichte der Wahldomizile an.
 
-Der/Die Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder eines oder mehrere dieser Wahldomizile nur nach vorheriger Unterrichtung der Zollstelle der Sicherheitsleistung zu ändern.
+Der Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder eines oder mehrere dieser Wahldomizile nur nach vorheriger Unterrichtung der Zollstelle der Sicherheitsleistung zu ändern.
 
 Ort den
 
@@ -6026,9 +6031,11 @@ Zollstelle der Sicherheitsleistung
 
 Verpflichtungserklärung des Bürgen genehmigt am
 
-(Stempel und Unterschrift)»
+(Stempel und Unterschrift)
 
-- (1) Name und Vorname oder Firmenbezeichnung.
+Anmerkungen:
+
+- (1) Name und Vorname oder Firma.
 - (2) Vollständige Anschrift.
 - (3) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
 - (4) Die Namen der Länder, in deren Gebiet die Sicherheit nicht verwendet werden darf, sind zu streichen.
@@ -6039,7 +6046,7 @@ Verpflichtungserklärung des Bürgen genehmigt am
 - (9) Andere Verfahren als das gemeinsame Versandverfahren gelten ausschliesslich in der Union.
 - (10) Für Beträge, die in einer Zollanmeldung für die zur Endverwendung angemeldeten Waren angegeben wurden.
 - (11) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
-- (12) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.»
+- (12) Vor der Unterschrift muss der Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
 - [tab]
 
 Anhang C5 zu Anlage III
@@ -6054,7 +6061,7 @@ Anhang C5 zu Anlage III
 <tr><td>4. Bürge (Name und Vorname oder Firmenbezeichnung sowie vollständige Anschrift)</td><td colspan="5"></td></tr>
 <tr><td>5. Zollstelle der Sicherheitsleistung (Kennnummer)</td><td colspan="5"></td></tr>
 <tr><td>6. Referenzbetrag Währungscode</td><td colspan="3">in Ziffern</td><td colspan="2">in Worten</td></tr>
-<tr><td colspan="6">7. Die Zollstelle der Sicherheitsleistung bescheinigt, dass der oben genannte Inhaber des Verfahrens eine Gesamtsicherheit geleistet hat, die für Unionsversandverfahren/gemeinsame Versandverfahren in den nachstehenden Zollgebieten gültig ist, deren Namen nicht gestrichen sind: EUROPÄISCHE UNION, ISLAND – DIE REPUBLIK NORDMAZEDONIEN – NORWEGEN – SERBIEN – SCHWEIZ – TÜRKEI – UKRAINE – VEREINIGTES KÖNIGREICH – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. Die Zollstelle der Sicherheitsleistung bescheinigt, dass der oben genannte Inhaber des Verfahrens eine Gesamtsicherheit geleistet hat, die für Unionsversandverfahren/gemeinsame Versandverfahren in den nachstehenden Zollgebieten gültig ist, deren Namen nicht gestrichen sind: EUROPÄISCHE UNION, GEORGIEN, ISLAND – DIE REPUBLIK NORDMAZEDONIEN – NORWEGEN – SERBIEN – SCHWEIZ – TÜRKEI – UKRAINE – VEREINIGTES KÖNIGREICH – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Besondere Vermerke</td></tr>
 <tr><td colspan="2">9. Gültigkeit verlängert bis einschliesslich TT/MM/JJ (Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td><td colspan="4">(Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td></tr>
 </table>
@@ -6082,7 +6089,7 @@ Anhang C6 zu Anlage III
 <tr><td>3. Inhaber des Verfahrens (Name und Vorname oder Firmenbezeichnung sowie vollständige Anschrift)</td><td colspan="5"></td></tr>
 <tr><td>4. Zollstelle der Sicherheitsleistung (Kennnummer)</td><td colspan="5"></td></tr>
 <tr><td>5. Referenzbetrag Währungscode</td><td colspan="3">in Ziffern</td><td colspan="2">in Worten</td></tr>
-<tr><td colspan="6">6. Die Zollstelle der Sicherheitsleistung bescheinigt, dass dem oben genannten Inhaber des Verfahrens für die von ihm durchgeführten Unionsversandverfahren/gemeinsamen Versandverfahren in den nachstehenden Zollgebieten, deren Namen nicht gestrichen sind, eine Befreiung von der Sicherheitsleistung bewilligt wurde: EUROPÄISCHE UNION, ISLAND, DIE REPUBLIK NORDMAZEDONIEN, NORWEGEN, SERBIEN, SCHWEIZ, TÜRKEI, UKRAINE, VEREINIGTES KÖNIGREICH, ANDORRA<sup>(</sup>\*<sup>)</sup>, SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. Die Zollstelle der Sicherheitsleistung bescheinigt, dass dem oben genannten Inhaber des Verfahrens für die von ihm durchgeführten Unionsversandverfahren/gemeinsamen Versandverfahren in den nachstehenden Zollgebieten, deren Namen nicht gestrichen sind, eine Befreiung von der Sicherheitsleistung bewilligt wurde: EUROPÄISCHE UNION, GEORGIEN, ISLAND, DIE REPUBLIK NORDMAZEDONIEN, NORWEGEN, SERBIEN, SCHWEIZ, TÜRKEI, UKRAINE, VEREINIGTES KÖNIGREICH, ANDORRA<sup>(</sup>\*<sup>)</sup>, SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Besondere Vermerke</td></tr>
 <tr><td colspan="2">8. Gültigkeit verlängert bis einschliesslich TT/MM/JJ (Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td><td colspan="4">(Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td></tr>
 </table>
@@ -6133,7 +6140,7 @@ Anlage IIIa[^t-6]
 
 ## Versandanmeldungen, Versandbegleitdokumente und sonstige Papiere
 
-[^t-6]: Eingefügt durch Art. 1 Ziff. 4, 6 und 7 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Bereinigt gemäss Art. 1 Ziff. 4 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses vom 25. Aug. 2022 ([AS 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2024 des Gemischten Ausschusses vom 18. Okt. 2024, in Kraft für die Schweiz seit 18. Okt. 2024 ([AS 2025 302](https://fedlex.data.admin.ch/eli/oc/2025/302)).
+[^t-6]: Eingefügt durch Art. 1 Ziff. 4, 6 und 7 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Bereinigt gemäss Art. 1 Ziff. 4 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses vom 25. Aug. 2022 ([AS 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)), Art. 1 Ziff. 2 des Beschlusses Nr. 1/2024 des Gemischten Ausschusses vom 18. Okt. 2024 ([AS 2025 302](https://fedlex.data.admin.ch/eli/oc/2025/302)) und gemäss Art. 1 des Beschlusses Nr. 3/2024 des Gemischten Ausschusses vom 5. Nov. 2024, in Kraft für die Schweiz seit 1. Febr. 2025 ([AS 2025 303](https://fedlex.data.admin.ch/eli/oc/2025/303)).
 
 Diese Anlage gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission[^annexIIIbis-lvlu1-1] angegebenen Zeitpunkt der Anpassung des NCTS.
 
@@ -7917,20 +7924,20 @@ Anzugeben ist eine Referenz für die Sicherheitsleistung, bei der es sich nicht 
 
 <table>
 <tr><th>Sprachenvermerke</th><th>Beschreibung</th></tr>
-<tr><td>BG опаковка N CS obal N DA N-emballager DE N-Umschliessungen EE N-pakendamine EL Συσκευασία N EN N packaging ES envases N FI N-pakkaus FR emballages N GA N - pacáistíocht HR N pakiranje HU N csomagolás IS N umbúðir IT imballaggi N LT N pakuoté LV N iepakojums MK N пакување MT ippakkjar N NL N-verpakkingen NO N-emballasje PL opakowania N PT embalagens N RO ambalaj N RS N паковање SI N embalaža SK N - obal SV N förpackning TR N Kaplar UA N паковання</td><td>N-Umschliessungen – 98200</td></tr>
-<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς EN Limited validity ES Validez limitada FI Voimassa rajoitetusti FR Validité limitée GA Bailíocht theoranta HR Ograničena valjanost HU Korlátozott érvényű IS Takmarkað gildissvið IT Validità limitata LT Galiojimas apribotas LV Ierobežots derīgums MK Ограничено важење MT Validità limitata NL Beperkte geldigheid NO Begrenset gyldighet PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SK Obmedzená platnosť SL Omejena veljavnost SV Begränsad giltighet TR Sınırlı Geçerli UA Дія обмежена</td><td>Beschränkte Geltung – 99200</td></tr>
-<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή EN Waiver ES Dispensa FI Vapautettu FR Dispense GA Tarscaoileadh HR Oslobođeno HU Mentesség IS Undanþegið IT Dispensa LT Leista neplombuoti LV Derīgs bez zīmoga MK Изземање MT Tneħħija NL Vrijstelling NO Fritak PL Zwolnienie PT Dispensa RO Derogarea RS Ослобођење SK Upustenie SL Opustitev SV Befrielse TR Vazgeçme UA Звільнення</td><td>Befreiung – 99201</td></tr>
-<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη EN Alternative proof ES Prueba alternativa FI Vaihtoehtoinen todiste FR Preuve alternative GA Cruthúnas malartach HR Alternativni dokaz HU Alternatív igazolás IS Önnur sönnun IT Prova alternativa LT Alternatyvusis įrodymas LV Alternatīvs pierādījums MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs NO Alternativt bevis PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SK Alternatívny dôkaz SL Alternativno dokazilo SV Alternativt bevis TR Alternatif Kanıt UA Альтернативне підтвердження</td><td>Alternativnachweis – 99202</td></tr>
-<tr><td>BG Различия: митническо учреждение, където стоките са представени…………….. .................. (наименование и страна) CS Nesrovnalosti: úřad, kterému bylo zboží předloženo ..................... (název a země) DA Forskelle: det sted, hvor varerne blev frembudt ............................. (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ......... ……(Name und Land) EE Erinevused: asutus, kuhu kaup esitati ……............................................. (nimi ja riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ........ (Όνομα και χώρα) EN Differences: office where goods were presented .......................... (name and country) ES Diferencias: mercancías presentadas en la oficina ..................... (nombre y país) FI Muutos: toimipaikka, jossa tavarat esitetty ................................... (nimi ja maa) FR Différences: marchandises présentées au bureau ........................... (nom et pays) GA Difríochtaí: oifig inár cuireadh na hearraí i láthair …...... (ainm agus tír) HR Razlike: Carinarnica kojoj je roba podnesena ............................. (naziv i zemlja) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént .............. (név és ország) IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte … (Name und Land) – 99203</td></tr>
-<tr><td>BG Излизането от ........................ подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, CS Výstup ze ............................................. podléhá omezením nebo dávkám podle nařízení/směrnice/ rozhodnutí č. … DA Udpassage fra ........................ undergivet restriktioner eller afgifter i henhold til forordning/direktiv/ afgørelse nr. … DE Ausgang aus ........................ – gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen. EE ....................... territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/ direktiivile/otsusele nr … EL Η έξοδος από ......................... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. … EN Exit from ............................................... subject to restrictions or charges under Regulation/Directive/ Decision No … ES Salida de ............ sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/ Decisión no … FI ......... ........ vientiin sovelletaan asetuksen/direktiivin/ päätöksen N:o … mukaisia rajoituksia tai maksuja FR Sortie de ...... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> … GA Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/Treoir/Cinneadh … HR Izlaz iz ................................... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br … HU A kilépés ................ területéről a ................. rendelet/ irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Ausgang aus … – gemäss Verordnung/ Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen – 99204</td></tr>
-<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας EN Authorised consignor ES Expedidor autorizado FI Valtuutettu lähettäjä FR Expéditeur agréé GA Coinsíneoir údaraithe HR Ovlašteni pošiljatelj HU Engedélyezett feladó IS Viðurkenndur sendandi IT Speditore autorizzato LT Įgaliotas gavėjas LV Atzītais nosūtītājs MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender NO Autorisert avsender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SK Schválený odosielateľ SL Pooblaščeni pošiljatelj SV Godkänd avsändare TR İzinli Gönderici UA Авторизований вантажовідправник</td><td>Zugelassener Versender – 99206</td></tr>
-<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή EN Signature waived ES Dispensa de firma FI Vapautettu allekirjoituksesta FR Dispense de signature GA Tharscaoileadh an síniú HR Oslobođeno potpisa HU Aláírás alól mentesítve IS Undanþegið undirskrift IT Dispensa dalla firma LT Leista nepasirašyti LV Derīgs bez paraksta MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld NO Fritatt for underskrift PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SK Upustenie od podpisu SL Opustitev podpisa SV Befrielse från underskrift TR İmzadan Vazgeçme UA Звільнено від підпису</td><td>Freistellung von der Unterschriftsleistung – 99207</td></tr>
-<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET SIKKERHEDSSTILLELSE DE GESAMTSICHERHEIT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ EN COMPREHENSIVE GUARANTEE PROHIBITED ES GARANTÍA GLOBAL PROHIBIDA FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY FR GARANTIE GLOBALE INTERDITE GA RATHAÍOCHT CHUIMSITHEACH COISCTHE HR ZABRANJENO ZAJEDNIČKO JAMSTVO HU ÖSSZKEZESSÉG TILOS IS ALLSHERJARTRYGGING BÖNNUÐ IT GARANZIA GLOBALE VIETATA LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN NO FORBUD MOT BRUK AV UNIVERSALGARANTI PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SK ZÁKAZ CELKOVEJ ZÁRUKY SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SV SAMLAD SÄKERHET FÖRBJUDEN TR KAPSAMLI TEMİNAT YASAKLANMIȘTIR UA ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td>Gesamtsicherheit untersagt – 99208</td></tr>
-<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE EL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ EN UNRESTRICTED USE ES UTILIZACIÓN NO LIMITADA FI KÄYTTÖÄ EI RAJOITETTU FR UTILISATION NON LIMITÉE GA ÚSÁID NEAMHSHRIANTA HR NEOGRANIČENA UPORABA HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT IS ÓTAKMÖRKUÐ NOTKUN IT UTILIZZAZIONE NON LIMITATA LT NEAPRIBOTAS NAUDOJIMAS LV NEIEROBEŽOTS IZMANTOJUMS MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT NO UBEGRENSET BRUK PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SK NEOBMEDZENÉ POUŽITIE SL NEOMEJENA UPORABA SV OBEGRÄNSAD ANVÄNDNING TR KISITLANMAMIȘ KULLANIM UA ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td>Unbeschränkte Verwendung – 99209</td></tr>
-<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων EN Issued retroactively ES Expedido a posteriori FI Annettu jälkikäteen FR Délivré a posteriori GA Eisithe go haisghníomhach HR Izdano naknadno HU Kiadva visszamenőleges hatállyal IS Útgefið eftir á IT Rilasciato a posteriori LT Retrospektyvusis išdavimas LV Izsniegts retrospektīvi MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven NO Utstedt i etterhånd PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SK Vyhotovené dodatočne SL Izdano naknadno SV Utfärdat i efterhand TR Sonradan Düzenlenmiştir UA Видано згодом</td><td>Nachträglich ausgestellt – 99210</td></tr>
-<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα EN Various ES Varios FI Useita FR Divers GA Éagsúil HR Razni HU Többféle IS Ýmis IT Vari LT Įvairūs LV Dažādi MK Различни MT Diversi NL Diversen NO Diverse PL Różne PT Diversos RO Diverse RS Разно SK Rôzne SL Razno SV Flera TR Çeșitli UA Різне</td><td>Verschiedene – 99211</td></tr>
-<tr><td>BG Насипно CS Volně loženo DA Bulk DE Lose EE Pakendamata EL Χύμα EN Bulk ES A granel FI Irtotavaraa FR Vrac GA Bulc HR Rasuto HU Ömlesztett IS Vara í lausu IT Alla rinfusa LT Nesupakuota LV Berams MK Рефус MT Bil-kwantitá NL Los gestort NO Bulk PL Luzem PT A granel RO Vrac RS Расуто SK Voľne ložené SL Razsuto SV Bulk TR Dökme UA Навалювальний вантаж</td><td>Lose – 99212</td></tr>
-<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας EN Consignor ES Expedidor FI Lähettäjä FR Expéditeur GA Coinsíneoir HR Pošiljatelj HU Feladó IS Sendandi IT Speditore LT Siuntėjas LV Nosūtītājs MK Испраќач MT Min jikkonsenja NL Afzender NO Avsender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SK Odosielateľ SL Pošiljatelj SV Avsändare TR Gönderici UA Вантажовідправник</td><td>Versender – 99213</td></tr>
+<tr><td>BG опаковка N CS obal N DA N-emballager DE N-Umschliessungen EE N-pakendamine EL Συσκευασία N EN N packaging ES envases N FI N-pakkaus FR emballages N GA N - pacáistíocht GE შეფუთვების რაოდენობა HR N pakiranje HU N csomagolás IS N umbúðir IT imballaggi N LT N pakuoté LV N iepakojums MK N пакување MT ippakkjar N NL N-verpakkingen NO N-emballasje PL opakowania N PT embalagens N RO ambalaj N RS N паковање SI N embalaža SK N - obal SV N förpackning TR N Kaplar UA N паковання</td><td>N-Umschliessungen – 98200</td></tr>
+<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς EN Limited validity ES Validez limitada FI Voimassa rajoitetusti FR Validité limitée GA Bailíocht theoranta GE შეზღუდული ვადა HR Ograničena valjanost HU Korlátozott érvényű IS Takmarkað gildissvið IT Validità limitata LT Galiojimas apribotas LV Ierobežots derīgums MK Ограничено важење MT Validità limitata NL Beperkte geldigheid NO Begrenset gyldighet PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SK Obmedzená platnosť SL Omejena veljavnost SV Begränsad giltighet TR Sınırlı Geçerli UA Дія обмежена</td><td>Beschränkte Geltung – 99200</td></tr>
+<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή EN Waiver ES Dispensa FI Vapautettu FR Dispense GA Tarscaoileadh GE განთავისუფლება HR Oslobođeno HU Mentesség IS Undanþegið IT Dispensa LT Leista neplombuoti LV Derīgs bez zīmoga MK Изземање MT Tneħħija NL Vrijstelling NO Fritak PL Zwolnienie PT Dispensa RO Derogarea RS Ослобођење SK Upustenie SL Opustitev SV Befrielse TR Vazgeçme UA Звільнення</td><td>Befreiung – 99201</td></tr>
+<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη EN Alternative proof ES Prueba alternativa FI Vaihtoehtoinen todiste FR Preuve alternative GA Cruthúnas malartach GE ალტერნატიული მტკიცებულება HR Alternativni dokaz HU Alternatív igazolás IS Önnur sönnun IT Prova alternativa LT Alternatyvusis įrodymas LV Alternatīvs pierādījums MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs NO Alternativt bevis PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SK Alternatívny dôkaz SL Alternativno dokazilo SV Alternativt bevis TR Alternatif Kanıt UA Альтернативне підтвердження</td><td>Alternativnachweis – 99202</td></tr>
+<tr><td>BG Различия: митническо учреждение, където стоките са представени…………….. .................. (наименование и страна) CS Nesrovnalosti: úřad, kterému bylo zboží předloženo ..................... (název a země) DA Forskelle: det sted, hvor varerne blev frembudt ............................. (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ......... ……(Name und Land) EE Erinevused: asutus, kuhu kaup esitati ……............................................. (nimi ja riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ........ (Όνομα και χώρα) EN Differences: office where goods were presented .......................... (name and country) ES Diferencias: mercancías presentadas en la oficina ..................... (nombre y país) FI Muutos: toimipaikka, jossa tavarat esitetty ................................... (nimi ja maa) FR Différences: marchandises présentées au bureau ........................... (nom et pays) GA Difríochtaí: oifig inár cuireadh na hearraí i láthair …...... (ainm agus tír) GE «განსხვავება: ოფისი, სადაც წარედგინა ტვირთი ................... (სახელი და ქვეყანა) HR Razlike: Carinarnica kojoj je roba podnesena ............................. (naziv i zemlja) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént .............. (név és ország) IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte … (Name und Land) – 99203</td></tr>
+<tr><td>BG Излизането от ........................ подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, CS Výstup ze ............................................. podléhá omezením nebo dávkám podle nařízení/směrnice/ rozhodnutí č. … DA Udpassage fra ........................ undergivet restriktioner eller afgifter i henhold til forordning/direktiv/ afgørelse nr. … DE Ausgang aus ........................ – gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen. EE ....................... territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/ direktiivile/otsusele nr … EL Η έξοδος από ......................... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. … EN Exit from ............................................... subject to restrictions or charges under Regulation/Directive/ Decision No … ES Salida de ............ sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/ Decisión no … FI ......... ........ vientiin sovelletaan asetuksen/direktiivin/ päätöksen N:o … mukaisia rajoituksia tai maksuja FR Sortie de ...... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> … GA Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/Treoir/Cinneadh … GE გასვლა ................ ექვემდებარება შეზღუდვებს ან გადასახადებს რეგულაციის/დირექტივის/გადაწყვეტილების საფუძველზე No … HR Izlaz iz ................................... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br … HU A kilépés ................ területéről a ................. rendelet/ irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Ausgang aus … – gemäss Verordnung/ Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen – 99204</td></tr>
+<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας EN Authorised consignor ES Expedidor autorizado FI Valtuutettu lähettäjä FR Expéditeur agréé GA Coinsíneoir údaraithe GE ავტორიზებული გამგზავნი HR Ovlašteni pošiljatelj HU Engedélyezett feladó IS Viðurkenndur sendandi IT Speditore autorizzato LT Įgaliotas gavėjas LV Atzītais nosūtītājs MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender NO Autorisert avsender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SK Schválený odosielateľ SL Pooblaščeni pošiljatelj SV Godkänd avsändare TR İzinli Gönderici UA Авторизований вантажовідправник</td><td>Zugelassener Versender – 99206</td></tr>
+<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή EN Signature waived ES Dispensa de firma FI Vapautettu allekirjoituksesta FR Dispense de signature GA Tharscaoileadh an síniú GE ხელმოწერისგან გათავისუფლება HR Oslobođeno potpisa HU Aláírás alól mentesítve IS Undanþegið undirskrift IT Dispensa dalla firma LT Leista nepasirašyti LV Derīgs bez paraksta MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld NO Fritatt for underskrift PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SK Upustenie od podpisu SL Opustitev podpisa SV Befrielse från underskrift TR İmzadan Vazgeçme UA Звільнено від підпису</td><td>Freistellung von der Unterschriftsleistung – 99207</td></tr>
+<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET SIKKERHEDSSTILLELSE DE GESAMTSICHERHEIT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ EN COMPREHENSIVE GUARANTEE PROHIBITED ES GARANTÍA GLOBAL PROHIBIDA FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY FR GARANTIE GLOBALE INTERDITE GA RATHAÍOCHT CHUIMSITHEACH COISCTHE GE საერთო გარანტიის აკრძალვა HR ZABRANJENO ZAJEDNIČKO JAMSTVO HU ÖSSZKEZESSÉG TILOS IS ALLSHERJARTRYGGING BÖNNUÐ IT GARANZIA GLOBALE VIETATA LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN NO FORBUD MOT BRUK AV UNIVERSALGARANTI PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SK ZÁKAZ CELKOVEJ ZÁRUKY SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SV SAMLAD SÄKERHET FÖRBJUDEN TR KAPSAMLI TEMİNAT YASAKLANMIȘTIR UA ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td>Gesamtsicherheit untersagt – 99208</td></tr>
+<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE EL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ EN UNRESTRICTED USE ES UTILIZACIÓN NO LIMITADA FI KÄYTTÖÄ EI RAJOITETTU FR UTILISATION NON LIMITÉE GA ÚSÁID NEAMHSHRIANTA GE შეუზღუდავი გამოყენება HR NEOGRANIČENA UPORABA HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT IS ÓTAKMÖRKUÐ NOTKUN IT UTILIZZAZIONE NON LIMITATA LT NEAPRIBOTAS NAUDOJIMAS LV NEIEROBEŽOTS IZMANTOJUMS MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT NO UBEGRENSET BRUK PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SK NEOBMEDZENÉ POUŽITIE SL NEOMEJENA UPORABA SV OBEGRÄNSAD ANVÄNDNING TR KISITLANMAMIȘ KULLANIM UA ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td>Unbeschränkte Verwendung – 99209</td></tr>
+<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων EN Issued retroactively ES Expedido a posteriori FI Annettu jälkikäteen FR Délivré a posteriori GA Eisithe go haisghníomhach GE გაიცემა რეტროაქტიულად HR Izdano naknadno HU Kiadva visszamenőleges hatállyal IS Útgefið eftir á IT Rilasciato a posteriori LT Retrospektyvusis išdavimas LV Izsniegts retrospektīvi MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven NO Utstedt i etterhånd PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SK Vyhotovené dodatočne SL Izdano naknadno SV Utfärdat i efterhand TR Sonradan Düzenlenmiştir UA Видано згодом</td><td>Nachträglich ausgestellt – 99210</td></tr>
+<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα EN Various ES Varios FI Useita FR Divers GA Éagsúil GE სხვადასხვა HR Razni HU Többféle IS Ýmis IT Vari LT Įvairūs LV Dažādi MK Различни MT Diversi NL Diversen NO Diverse PL Różne PT Diversos RO Diverse RS Разно SK Rôzne SL Razno SV Flera TR Çeșitli UA Різне</td><td>Verschiedene – 99211</td></tr>
+<tr><td>BG Насипно CS Volně loženo DA Bulk DE Lose EE Pakendamata EL Χύμα EN Bulk ES A granel FI Irtotavaraa FR Vrac GA Bulc GE ნაყარი HR Rasuto HU Ömlesztett IS Vara í lausu IT Alla rinfusa LT Nesupakuota LV Berams MK Рефус MT Bil-kwantitá NL Los gestort NO Bulk PL Luzem PT A granel RO Vrac RS Расуто SK Voľne ložené SL Razsuto SV Bulk TR Dökme UA Навалювальний вантаж</td><td>Lose – 99212</td></tr>
+<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας EN Consignor ES Expedidor FI Lähettäjä FR Expéditeur GA Coinsíneoir GE გამგზავნი HR Pošiljatelj HU Feladó IS Sendandi IT Speditore LT Siuntėjas LV Nosūtītājs MK Испраќач MT Min jikkonsenja NL Afzender NO Avsender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SK Odosielateľ SL Pošiljatelj SV Avsändare TR Gönderici UA Вантажовідправник</td><td>Versender – 99213</td></tr>
 </table>
 
 Anhang A3a zu Anlage IIIa
@@ -7941,7 +7948,7 @@ Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879
 
 Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image6.png)
 
 Anhang A4a zu Anlage IIIa
 
@@ -8022,7 +8029,7 @@ Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879
 
 Muster der Liste der Warenpositionen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image7.png)»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image7.png)»
 
 Anhang A6a zu Anlage IIIa
 

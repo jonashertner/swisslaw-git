@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2024-10-18
+version: 2025-02-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20241018-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20241018/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-(Stato 18 ottobre 2024)
+(Stato 1° febbraio 2025)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -2876,7 +2876,7 @@ Appendice III[^t-5]
 
 ## Dichiarazione di transito e formulari in caso di utilizzo di procedimenti informatici
 
-[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) e dall’art. 1 della dec. n. 3/2022 del Comitato congiunto EU-PTC del 29 set. 2022, in vigore per la Svizzera dal 1° ott. 2022 ([RU 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)). Giusta l’art. 2 n. 1 di detta dec. i formulari basati sui modelli di cui agli all. da C1 a C6 dell’appendice III della Conv., nella versione applicabile il giorno precedente all’entrata in vigore della presente decisione, possono continuare a essere utilizzati, apportandovi i necessari adattamenti geografici e relativi all’elezione del domicilio o al mandatario autorizzato, fino al 1° apr. 2024.
+[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dall’art. 1 della Dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)), dall’art. 1 della Dec. n. 3/2022 del Comitato congiunto EU-PTC del 29 set. 2022 ([RU 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)) e dall’art. 1 della Dec. n. 3/2024 del Comitato congiunto EU-PTC del 5 nov. 2024, in vigore per la Svizzera dal 1° feb. 2025 ([RU 2025 303](https://fedlex.data.admin.ch/eli/oc/2025/303)). Giusta l’art. 2 n. 2 di detta dec. i formulari basati sui modelli di cui agli allegati C1, C2, C4, C5 e C6 dell’appendice III in vigore al 30 novembre 2024 possono continuare ad essere utilizzati, con i necessari adattamenti geografici e di elezione di domicilio o di indirizzo del mandatario, fino al 30 giu. 2026.
 
 #### Art. 1
 
@@ -4693,7 +4693,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -5810,7 +5810,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5824,7 +5824,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5833,7 +5833,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5841,99 +5841,27 @@ Allegato C1 dell’appendice III
 
 ### I. Impegno del fideiussore
 
-\1. Il(la) sottoscritto(a)<sup>1</sup>
+\1. Il(la) sottoscritto(a) (1)
 
-residente a<sup>2</sup>
+residente a (2)
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica Ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica Ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica Francese, dall’Irlanda, dalla Repubblica Italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica Portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica Slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia nonché nei confronti della Repubblica d’Islanda, della Repubblica della Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord<sup>3</sup> <sup>4</sup>, del Principato di Andorra e della Repubblica di San Marino<sup>5</sup>, per tutte le somme di cui il soggetto che costituisce la presente garanzia<sup>6</sup>:
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia) nonché nei confronti della Georgia, della Repubblica d’Islanda, della Repubblica della Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord (3) (4), del Principato di Andorra e della Repubblica di San Marino (5), per tutte le somme di cui il soggetto che costituisce la presente garanzia (6):
 
-è o diventi debitore nei confronti di detti Paesi a titolo di dazi<sup>7</sup> e altri diritti e tributi dovuti<sup>7</sup>, con riguardo alle merci descritte di seguito oggetto dell’operazione doganale<sup>8</sup> seguente:
+è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti (7), con riguardo alle merci descritte di seguito oggetto della seguente operazione doganale (8):
 
 Descrizione delle merci:
 
 \2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti degli Stati di cui al paragrafo 1, il pagamento delle somme richieste senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità doganali, che il regime speciale diverso dal regime di uso finale è stato appurato, che la vigilanza doganale sulle merci in regime di uso finale o la custodia temporanea si sono concluse correttamente o, nel caso delle operazioni diverse dai regimi speciali e dalla custodia temporanea, che la situazione delle merci è stata regolarizzata.
 
-Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario o finanziario nazionale.
+Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario e finanziario nazionale.
 
 \3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione doganale coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
 
-\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio<sup>9</sup> in ciascuno degli altri Stati di cui al punto 1, presso:
-
-<table>
-<tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
-</table>
-
-Il(la) sottoscritto(a) riconosce che qualsiasi comunicazione o notifica e, più generalmente, qualsiasi formalità o procedura relative al presente impegno, indirizzate o compiute per iscritto presso uno dei domicili eletti, saranno accettate e a lui(lei) debitamente comunicate.
-
-Il(la) sottoscritto(a) riconosce la competenza del giudice dei luoghi in cui ha eletto domicilio.
-
-Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se indotto(a) a modificare uno o più domicili eletti, a informare preventivamente l’ufficio di garanzia.
-
-(Fatto) a il
-
-(Firma)<sup>10</sup>
-
-### II. Accettazione dell’ufficio di garanzia
-
-Ufficio di garanzia di
-
-Impegno del fideiussore accettato il .................. a copertura dell’operazione doganale che ha dato luogo alla dichiarazione doganale/dichiarazione di custodia temporanea n. .................................... del ...........................<sup>11</sup>
-
-(Timbro e firma)
-
-- 1 Cognome e nome, o ragione sociale.
-- 2 Indirizzo completo.
-- 3 Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata Parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
-- 4 Cancellare il nome dello Stato (i nomi degli Stati) sul cui territorio la garanzia non può essere utilizzata.
-- 5 I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
-- 6 Cognome e nome, o ragione sociale, e indirizzo completo della persona che presta la garanzia.
-- 7 Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito unionale/comune o può essere utilizzata in più di uno Stato membro.
-- 8
-
-  Inserire una o più delle operazioni doganali seguenti:
-
-  - a) custodia temporanea;
-  - b) regime di transito unionale/regime di transito comune;
-  - c) regime di deposito doganale;
-  - d) regime di ammissione temporanea con esonero totale dai dazi all’importazione;
-  - e) regime di perfezionamento attivo;
-  - f) regime di uso finale;
-  - g) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana senza dilazione di pagamento;
-  - h) immissione in libera pratica nell’ambito di una dichiarazione doganale normale con dilazione di pagamento;
-  - i) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 166 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione;
-  - j) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 182 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione;
-  - k) regime di ammissione temporanea con parziale esonero dai dazi all’importazione;
-  - l) se diversa dalle precedenti, indicare il tipo di operazione.
-
-- 9 Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in tale Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore o dei suoi mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
-- 0 Il firmatario deve far precedere la propria firma dalla menzione manoscritta seguente: «Buono a titolo di garanzia per l’importo di...», indicando l’importo in lettere.
-- 1 Deve essere compilato dall’ufficio in cui le merci sono state vincolate al regime o erano in custodia temporanea.
-
-Allegato C2 dell’appendice III
-
-## Impegno del fideiussore – garanzia isolata a mezzo di certificati
-
-### I. Impegno del fideiussore
-
-\1. Il(la) sottoscritto(a)<sup>1</sup>
-
-residente a<sup>2</sup>
-
-si costituisce fideiussore in solido, presso l’ufficio di garanzia di
-
-nei confronti dell’Unione europea costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica Ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica Ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica Francese, dall’Irlanda, dalla Repubblica Italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica Portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica Slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia, nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord<sup>3</sup>, del Principato di Andorra e della Repubblica di San Marino<sup>4</sup> per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
-
-\2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti dei Paesi di cui al punto 1, il pagamento delle somme richieste, fino a concorrenza di 10 000 EUR per certificato di garanzia isolata e senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità competenti, che l’operazione è stata appurata.
-
-Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario o finanziario nazionale.
-
-\3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione di transito comune/unionale, coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
-
-\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio<sup>5</sup> in ciascuno degli altri Stati di cui al punto 1, presso:
+\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio (9) in ciascuno degli altri Stati di cui al punto 1, presso:
 
 <table>
 <tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
@@ -5947,7 +5875,81 @@ Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se in
 
 Fatto a il
 
-(Firma)<sup>6</sup>
+(Firma) (10)
+
+### II. Accettazione dell’ufficio di garanzia
+
+Ufficio di garanzia di
+
+Impegno del fideiussore accettato il .................. a copertura dell’operazione doganale che ha dato luogo alla dichiarazione doganale/dichiarazione di custodia temporanea n. ….... del…....... (11)
+
+(Timbro e firma)
+
+Note:
+
+- (1) Cognome e nome o ragione sociale.
+- (2) Indirizzo completo.
+- (3) Ai sensi del protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
+- (4) Cancellare il nome dello Stato (i nomi degli Stati) sul cui territorio la garanzia non può essere utilizzata.
+- (5) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
+- (6) Cognome e nome, o ragione sociale, e indirizzo completo della persona che presta la garanzia.
+- (7) Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito unionale/comune o può essere utilizzata in più di uno Stato membro.
+- (8)
+
+  Inserire una o più delle operazioni doganali seguenti:
+
+  - a) custodia temporanea;
+  - b) regime di transito unionale/regime di transito comune;
+  - c) regime di deposito doganale;
+  - d) regime di ammissione temporanea con esonero totale dai dazi all’importazione;
+  - e) regime di perfezionamento attivo;
+  - f) regime di uso finale;
+  - g) immissione in libera pratica nell’ambito di una dichiarazione doganale normale senza dilazione di pagamento;
+  - h) immissione in libera pratica nell’ambito di una dichiarazione doganale normale con dilazione di pagamento;
+  - i) immissione in libera pratica nell’ambito di una dichiarazione doganale presentata a norma dell’articolo 166 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione;
+  - j) immissione in libera pratica nell’ambito di una dichiarazione doganale presentata a norma dell’articolo 182 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione;
+  - k) regime di ammissione temporanea con esonero parziale dai dazi all’importazione;
+  - l) se diversa dalle precedenti, indicare il tipo di operazione.
+
+- (9) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici dei luoghi di domicilio del fideiussore e dei mandatari sono competenti in materia di vertenze inerenti alla presente garanzia.
+- (10) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia per l’importo di …», indicando l’importo in lettere.
+- (11) Deve essere compilato dall’ufficio in cui le merci sono state vincolate al regime o erano in custodia temporanea.
+
+Allegato C2 dell’appendice III
+
+## Impegno del fideiussore — garanzia isolata a mezzo di certificati
+
+### I. Impegno del fideiussore
+
+\1. Il(la) sottoscritto(a) (1)
+
+residente a (2)
+
+si costituisce fideiussore in solido, presso l’ufficio di garanzia di
+
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Georgia, della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
+
+\2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti dei Paesi di cui al punto 1, il pagamento delle somme richieste, fino a concorrenza di 10 000 EUR per certificato di garanzia isolata e senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità competenti, che l’operazione è stata appurata.
+
+Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario e finanziario nazionale.
+
+\3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione di transito comune/unionale, coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
+
+\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio (5) in ciascuno degli altri Stati di cui al punto 1, presso:
+
+<table>
+<tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
+</table>
+
+Il(la) sottoscritto(a) riconosce che qualsiasi comunicazione o notifica e, più generalmente, qualsiasi formalità o procedura relative al presente impegno, indirizzate o compiute per iscritto presso uno dei domicili eletti, saranno accettate e a lui(lei) debitamente comunicate.
+
+Il(la) sottoscritto(a) riconosce la competenza del giudice dei luoghi in cui ha eletto domicilio.
+
+Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se indotto(a) a modificare uno o più domicili eletti, a informare preventivamente l’ufficio di garanzia.
+
+Fatto a il
+
+(Firma) (6)
 
 ### II. Accettazione dell’ufficio di garanzia
 
@@ -5957,12 +5959,14 @@ Impegno del fideiussore accettato il
 
 (Timbro e firma)
 
-- Cognome e nome o ragione sociale.
-- 2 Indirizzo completo.
-- 3 Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata Parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
-- 4 I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
-- 5 Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore o dei suoi mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
-- 6 Il firmatario deve far precedere la propria firma dalla menzione manoscritta seguente: «Buono a titolo di garanzia».
+<sup>Note:</sup>
+
+- (1) Cognome e nome o ragione sociale.
+- (2) Indirizzo completo.
+- (3) Ai sensi del protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
+- (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
+- (5) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici dei luoghi di domicilio del fideiussore e dei mandatari sono competenti in materia di vertenze inerenti alla presente garanzia.
+- (6) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia».
 
 Allegato C3 dell’appendice III
 
@@ -5970,11 +5974,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -5990,53 +5994,53 @@ Allegato C4 dell’appendice III
 
 ### I. Impegno del fideiussore
 
-\1. Il(la) sottoscritto(a)<sup>1</sup>
+\1. Il(la) sottoscritto(a) (1)
 
-residente a<sup>2</sup>
+residente a (2)
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica Ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica Ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica Francese, dalla Repubblica Italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica Slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia, nonché nei confronti della Repubblica d’Islanda, della Repubblica della Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord<sup>3</sup>, del Principato di Andorra e della Repubblica di San Marino<sup>4</sup>, per tutte le somme di cui il soggetto che costituisce la presente garanzia<sup>5</sup>
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Georgia, della Repubblica d’Islanda, della Repubblica della Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3) (4), del Principato di Andorra e della Repubblica di San Marino (5), per tutte le somme di cui il soggetto che costituisce la presente garanzia (6)
 
-è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti<sup>6</sup> che potrebbero sorgere o sono sorti con riguardo alle merci oggetto delle operazioni doganali descritte al punto 1 *bis* e/o al punto 1*<sup>ter</sup>*.
+è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti (7) che potrebbero sorgere o sono sorti con riguardo alle merci oggetto delle operazioni doganali descritte al punto 1<sup>bis</sup> e/o al punto 1<sup>ter</sup>.
 
 L’importo massimo della garanzia comprende un importo di
 
-- a) che rappresenta il 100/50/30 %<sup>7</sup> della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altre spese che potrebbero sorgere, pari alla somma degli importi di cui al punto 1*<sup>bis</sup>*,
+- a) che rappresenta il 100/50/30 % (8) della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altri oneri che potrebbero sorgere, pari alla somma degli importi di cui al punto 1<sup>bis</sup>,
 - e
-- b) che rappresenta il 100/30 %<sup>7</sup> della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altri oneri insorti, pari alla somma degli importi di cui al punto 1*<sup>ter</sup>*.
+- b) che rappresenta il 100/30 % (8) della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altri oneri sorti, pari alla somma degli importi di cui al punto 1<sup>ter</sup>.
 
-1*<sup>bis</sup>*. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altri oneri che potrebbero insorgere sono i seguenti per ciascuna delle finalità di seguito elencate<sup>8</sup>:
+1<sup>bis</sup>. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altri oneri che potrebbero sorgere sono i seguenti per ciascuna delle finalità di seguito elencate<sup>(9)</sup>:
 
-- a) custodia temporanea – ... ;
-- b) regime di transito unionale/regime di transito comune – ... ;
-- c) regime di deposito doganale – ... ;
-- d) regime di ammissione temporanea con esonero totale dai dazi all’importazione – ... ;
-- e) regime di perfezionamento attivo – ... ;
-- f) regime di uso finale – ... ;
-- g) se diversa dalle precedenti, indicare il tipo di operazione – ... .
+- a) custodia temporanea – ...;
+- b) regime di transito unionale/regime di transito comune – ...;
+- c) regime di deposito doganale – ...;
+- d) regime di ammissione temporanea con esonero totale dai dazi all’importazione – ...;
+- e) regime di perfezionamento attivo – ...;
+- f) regime di uso finale – ...;
+- g) se diversa dalle precedenti, indicare il tipo di operazione – ....
 
-1*<sup>ter</sup>*. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altre spese insorte sono i seguenti per ciascuna delle finalità di seguito elencate<sup>8</sup>:
+1<sup>ter</sup>. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altri oneri sorti sono i seguenti per ciascuna delle finalità di seguito elencate (9):
 
-- a) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana senza dilazione di pagamento – ... ;
-- b) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana con dilazione di pagamento – ... ;
-- c) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 166 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ... ;
-- d) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 182 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ... ;
-- e) regime di ammissione temporanea con esonero parziale dai dazi all’importazione – ... ;
-- f) regime di uso finale – ... <sup>9</sup>;
-- g) se diversa dalle precedenti, indicare il tipo di operazione – ... .
+- a) immissione in libera pratica nell’ambito di una dichiarazione doganale normale senza dilazione di pagamento – ...;
+- b) immissione in libera pratica nell’ambito di una dichiarazione doganale normale con dilazione di pagamento – ...;
+- c) immissione in libera pratica nell’ambito di una dichiarazione doganale presentata a norma dell’articolo 166 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ...;
+- d) immissione in libera pratica nell’ambito di una dichiarazione doganale presentata a norma dell’articolo 182 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ...;
+- e) regime di ammissione temporanea con esonero parziale dai dazi all’importazione – ...;
+- f) regime di uso finale – ... (10);
+- g) se diversa dalle precedenti, indicare il tipo di operazione – ....
 
-\2. Il(la) sottoscritto(a) si impegna a effettuare, alla prima richiesta scritta delle autorità competenti degli Stati di cui al punto 1, il pagamento delle somme richieste senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, fino al limite dell’importo massimo sopra indicato, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità doganali, che il regime speciale diverso dal regime di uso finale è stato appurato, che la vigilanza doganale sulle merci in regime di uso finale o la custodia temporanea si sono concluse correttamente o, nel caso delle operazioni diverse dai regimi speciali, che la situazione delle merci è stata regolarizzata.
+\2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti degli Stati di cui al punto 1, il pagamento delle somme richieste senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, fino al limite dell’importo massimo sopra indicato, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità doganali, che il regime speciale diverso dal regime di uso finale è stato appurato, che la vigilanza doganale sulle merci in regime di uso finale o la custodia temporanea si sono concluse correttamente o, nel caso delle operazioni diverse dai regimi speciali, che la situazione delle merci è stata regolarizzata.
 
-Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario o finanziario nazionale.
+Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario e finanziario nazionale.
 
 Tale importo può essere diminuito delle somme già pagate in virtù del presente impegno soltanto quando il(la) sottoscritto(a) è invitato(a) a pagare un’obbligazione sorta in occasione di un’operazione doganale che ha avuto inizio anteriormente alla data di ricevimento della precedente richiesta di pagamento oppure nei trenta giorni successivi a tale data.
 
 \3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione doganale coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
 
-\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio<sup>10</sup> in ciascuno degli altri Stati di cui al punto 1, presso:
+\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio (11) in ciascuno degli altri Stati di cui al punto 1, presso:
 
 <table>
 <tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
@@ -6048,9 +6052,9 @@ Il(la) sottoscritto(a) riconosce la competenza del giudice dei luoghi in cui ha 
 
 Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se indotto(a) a modificare uno o più domicili eletti, a informare preventivamente l’ufficio di garanzia.
 
-Fatto il
+Fatto a il
 
-(Firma)<sup>1</sup><sup>1</sup>
+(Firma) (12)
 
 ### II. Accettazione dell’ufficio di garanzia
 
@@ -6060,18 +6064,20 @@ Impegno del fideiussore accettato il
 
 (Timbro e firma)
 
-- 1 Cognome e nome o ragione sociale.
-- 2 Indirizzo completo.
-- 3 Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata Parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
-- 4 Cancellare il nome del Paese (i nomi dei Paesi) sul cui territorio la garanzia può essere utilizzata.
-- 5 I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
-- 6 Cognome e nome, o ragione sociale, e indirizzo completo della persona che fornisce la garanzia.
-- 7 Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito comune/unionale o può essere utilizzata in più di uno Stato membro o in più di una Parte contraente.
-- 8 Cancellare le menzioni inutili.
-- 9 I regimi diversi dal transito comune si applicano soltanto nell’Unione.
-- 10 Per gli importi dichiarati nell’ambito di una dichiarazione doganale per il regime di uso finale.
-- 11 Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del garante o dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
-- 12 Il firmatario deve far precedere la propria firma dalla menzione manoscritta seguente: «Buono a titolo di garanzia per l’importo di ...», indicando l’importo in lettere.
+Note:
+
+- (1) Cognome e nome o ragione sociale.
+- (2) Indirizzo completo.
+- (3) Ai sensi del protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
+- (4) Cancellare il nome del Paese (i nomi dei Paesi) sul cui territorio la garanzia non può essere utilizzata.
+- (5) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
+- (6) Cognome e nome, o ragione sociale, e indirizzo completo della persona che fornisce la garanzia.
+- (7) Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito comune/unionale o può essere utilizzata in più di uno Stato membro o in più di una parte contraente.
+- (8) Cancellare le menzioni inutili.
+- (9) I regimi diversi dal transito comune si applicano soltanto nell’Unione.
+- (10) Per gli importi dichiarati nell’ambito di una dichiarazione doganale per il regime di uso finale.
+- (11) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore o dei mandatari sono competenti in materia di vertenze inerenti alla presente garanzia.
+- (12) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia per l’importo di…», indicando l’importo in lettere. »
 
 Allegato C5 dell’appendice III
 
@@ -6085,7 +6091,7 @@ Allegato C5 dell’appendice III
 <tr><td>4. Garante (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>5. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>6. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – UCRAINA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA – GEORGIA – ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – UCRAINA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Menzioni particolari</td></tr>
 <tr><td colspan="2">9. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
@@ -6113,7 +6119,7 @@ Allegato C6 dell’appendice III
 <tr><td>3. Titolare del regime (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>4. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>5. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – UCRAINA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA – GEORGIA – ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – UCRAINA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Menzioni particolari</td></tr>
 <tr><td colspan="2">8. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
@@ -6156,7 +6162,7 @@ Appendice III bis[^t-6]
 
 ## Dichiarazioni di transito, documenti di accompagnamento transito e altri documenti
 
-[^t-6]: Introdotta dall’art. 1 n. 4, 6 e 7 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Aggiornata dall’art. 1 n. 4 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dagli art. 1 n. 2 delle Dec. n. 1 /2022 del Commitato congiunto UE–PTC del 25 ago. 2022 ([RU 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)) e n. 1/2024 del Commitato congiunto UE–PTC del 18 ott. 2024, in vigore per la Svizzera dal 18 ott. 2024 ([RU 2025 302](https://fedlex.data.admin.ch/eli/oc/2025/302)).
+[^t-6]: Introdotta dall’art. 1 n. 4, 6 e 7 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Aggiornata dall’art. 1 n. 4 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dagli art. 1 n. 2 delle Dec. n. 1 /2022 del Commitato congiunto UE–PTC del 25 ago. 2022 ([RU 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)), n. 1/2024 del Commitato congiunto UE–PTC del 18 ott. 2024 ([RU 2025 302](https://fedlex.data.admin.ch/eli/oc/2025/302)) e dall’art. 1 della Dec. n. 3/2024 del Comitato congiunto EU-PTC del 5 nov. 2024, in vigore per la Svizzera dal 1° feb. 2025 ([RU 2025 303](https://fedlex.data.admin.ch/eli/oc/2025/303)).
 
 La presente appendice si applica a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2023/2879 della Commissione[^annexIIIbis-lvlu1-1], dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6).
 
@@ -7940,20 +7946,20 @@ inserire il riferimento della garanzia diverso dal numero di riferimento della g
 
 <table>
 <tr><th>Versione linguistica</th><th>Descrizione</th></tr>
-<tr><td>BG опаковка N CS obal N DA N-emballager DE N-Umschließungen EE N-pakendamine EL Συσκευασία N EN N packaging ES envases N FI N-pakkaus FR emballages N GA N - pacáistíocht HR N pakiranje HU N csomagolás IS N umbúðir IT imballaggi N LT N pakuoté LV N iepakojums MK N пакување MT ippakkjar N NL N-verpakkingen NO N-emballasje PL opakowania N PT embalagens N RO ambalaj N RS N паковање SI N embalaža SK N - obal SV N förpackning TR N Kaplar UA N паковання</td><td>Imballaggi N – 98200</td></tr>
-<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς EN Limited validity ES Validez limitada FI Voimassa rajoitetusti FR Validité limitée GA Bailíocht theoranta HR Ograničena valjanost HU Korlátozott érvényű IS Takmarkað gildissvið IT Validità limitata LT Galiojimas apribotas LV Ierobežots derīgums MK Ограничено важење MT Validità limitata NL Beperkte geldigheid NO Begrenset gyldighet PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SK Obmedzená platnosť SL Omejena veljavnost SV Begränsad giltighet TR Sınırlı Geçerli UA Дія обмежена</td><td>Validità limitata – 99200</td></tr>
-<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή EN Waiver ES Dispensa FI Vapautettu FR Dispense GA Tarscaoileadh HR Oslobođeno HU Mentesség IS Undanþegið IT Dispensa LT Leista neplombuoti LV Derīgs bez zīmoga MK Изземање MT Tneħħija NL Vrijstelling NO Fritak PL Zwolnienie PT Dispensa RO Derogarea RS Ослобођење SK Upustenie SL Opustitev SV Befrielse TR Vazgeçme UA Звільнення</td><td>Dispensa – 99201</td></tr>
-<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη EN Alternative proof ES Prueba alternativa FI Vaihtoehtoinen todiste FR Preuve alternative GA Cruthúnas malartach HR Alternativni dokaz HU Alternatív igazolás IS Önnur sönnun IT Prova alternativa LT Alternatyvusis įrodymas LV Alternatīvs pierādījums MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs NO Alternativt bevis PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SK Alternatívny dôkaz SL Alternativno dokazilo SV Alternativt bevis TR Alternatif Kanıt UA Альтернативне підтвердження</td><td>Prova alternativa – 99202</td></tr>
-<tr><td>BG Различия: митническо учреждение, където стоките са представени…………….. .................. (наименование и страна) CS Nesrovnalosti: úřad, kterému bylo zboží předloženo ..................... (název a země) DA Forskelle: det sted, hvor varerne blev frembudt ............................. (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ......... ……(Name und Land) EE Erinevused: asutus, kuhu kaup esitati ……............................................. (nimi ja riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ........ (Όνομα και χώρα) EN Differences: office where goods were presented .......................... (name and country) ES Diferencias: mercancías presentadas en la oficina ..................... (nombre y país) FI Muutos: toimipaikka, jossa tavarat esitetty ................................... (nimi ja maa) FR Différences: marchandises présentées au bureau ........................... (nom et pays) GA Difríochtaí: oifig inár cuireadh na hearraí i láthair …...... (ainm agus tír) HR Razlike: Carinarnica kojoj je roba podnesena ............................. (naziv i zemlja) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént .............. (név és ország) IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e Paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Differenze: ufficio al quale sono state presentate le merci … (nome e Paese) – 99203</td></tr>
-<tr><td>BG Излизането от ........................ подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, CS Výstup ze ............................................. podléhá omezením nebo dávkám podle nařízení/směrnice/rozhodnutí č. … DA Udpassage fra ........................ undergivet restriktioner eller afgifter i henhold til forordning/direktiv/afgørelse nr. … DE Ausgang aus ........................ – gemäß Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen. EE ....................... territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/direktiivile/otsusele nr … EL Η έξοδος από ......................... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. … EN Exit from ............................................... subject to restrictions or charges under Regulation/Directive/Decision No … ES Salida de ............ sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/Decisión no … FI ......... ........ vientiin sovelletaan asetuksen/direktiivin/päätöksen N:o … mukaisia rajoituksia tai maksuja FR Sortie de ...... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> … GA Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/ Treoir/Cinneadh … HR Izlaz iz ................................... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br … HU A kilépés ................ területéről a ................. rendelet/irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e Paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Uscita da …soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/decisione n. … – 99204</td></tr>
-<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας EN Authorised consignor ES Expedidor autorizado FI Valtuutettu lähettäjä FR Expéditeur agréé GA Coinsíneoir údaraithe HR Ovlašteni pošiljatelj HU Engedélyezett feladó IS Viðurkenndur sendandi IT Speditore autorizzato LT Įgaliotas gavėjas LV Atzītais nosūtītājs MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender NO Autorisert avsender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SK Schválený odosielateľ SL Pooblaščeni pošiljatelj SV Godkänd avsändare TR İzinli Gönderici UA Авторизований вантажовідправник</td><td>Speditore autorizzato – 99206</td></tr>
-<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή EN Signature waived ES Dispensa de firma FI Vapautettu allekirjoituksesta FR Dispense de signature GA Tharscaoileadh an síniú HR Oslobođeno potpisa HU Aláírás alól mentesítve IS Undanþegið undirskrift IT Dispensa dalla firma LT Leista nepasirašyti LV Derīgs bez paraksta MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld NO Fritatt for underskrift PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SK Upustenie od podpisu SL Opustitev podpisa SV Befrielse från underskrift TR İmzadan Vazgeçme UA Звільнено від підпису</td><td>Dispensa dalla firma – 99207</td></tr>
-<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET SIKKERHEDSSTILLELSE DE GESAMTSICHERHEIT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ EN COMPREHENSIVE GUARANTEE PROHIBITED ES GARANTÍA GLOBAL PROHIBIDA FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY FR GARANTIE GLOBALE INTERDITE GA RATHAÍOCHT CHUIMSITHEACH COISCTHE HR ZABRANJENO ZAJEDNIČKO JAMSTVO HU ÖSSZKEZESSÉG TILOS IS ALLSHERJARTRYGGING BÖNNUÐ IT GARANZIA GLOBALE VIETATA LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN NO FORBUD MOT BRUK AV UNIVERSALGARANTI PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SK ZÁKAZ CELKOVEJ ZÁRUKY SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SV SAMLAD SÄKERHET FÖRBJUDEN TR KAPSAMLI TEMİNAT YASAKLANMIȘTIR UA ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td>GARANZIA GLOBALE VIETATA – 99208</td></tr>
-<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE EL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ EN UNRESTRICTED USE ES UTILIZACIÓN NO LIMITADA FI KÄYTTÖÄ EI RAJOITETTU FR UTILISATION NON LIMITÉE GA ÚSÁID NEAMHSHRIANTA HR NEOGRANIČENA UPORABA HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT IS ÓTAKMÖRKUÐ NOTKUN IT UTILIZZAZIONE NON LIMITATA LT NEAPRIBOTAS NAUDOJIMAS LV NEIEROBEŽOTS IZMANTOJUMS MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT NO UBEGRENSET BRUK PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SK NEOBMEDZENÉ POUŽITIE SL NEOMEJENA UPORABA SV OBEGRÄNSAD ANVÄNDNING TR KISITLANMAMIȘ KULLANIM UA ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td>UTILIZZAZIONE NON LIMITATA – 99209</td></tr>
-<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων EN Issued retroactively ES Expedido a posteriori FI Annettu jälkikäteen FR Délivré a posteriori GA Eisithe go haisghníomhach HR Izdano naknadno HU Kiadva visszamenőleges hatállyal IS Útgefið eftir á IT Rilasciato a posteriori LT Retrospektyvusis išdavimas LV Izsniegts retrospektīvi MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven NO Utstedt i etterhånd PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SK Vyhotovené dodatočne SL Izdano naknadno SV Utfärdat i efterhand TR Sonradan Düzenlenmiştir UA Видано згодом</td><td>Rilasciato a posteriori – 99210</td></tr>
-<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα EN Various ES Varios FI Useita FR Divers GA Éagsúil HR Razni HU Többféle IS Ýmis IT Vari LT Įvairūs LV Dažādi MK Различни MT Diversi NL Diversen NO Diverse PL Różne PT Diversos RO Diverse RS Разно SK Rôzne SL Razno SV Flera TR Çeșitli UA Різне</td><td>Vari – 99211</td></tr>
-<tr><td>BG Насипно CS Volně loženo DA Bulk DE Lose EE Pakendamata EL Χύμα EN Bulk ES A granel FI Irtotavaraa FR Vrac GA Bulc HR Rasuto HU Ömlesztett IS Vara í lausu IT Alla rinfusa LT Nesupakuota LV Berams MK Рефус MT Bil-kwantitá NL Los gestort NO Bulk PL Luzem PT A granel RO Vrac RS Расуто SK Voľne ložené SL Razsuto SV Bulk TR Dökme UA Навалювальний вантаж</td><td>Alla rinfusa – 99212</td></tr>
-<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας EN Consignor ES Expedidor FI Lähettäjä FR Expéditeur GA Coinsíneoir HR Pošiljatelj HU Feladó IS Sendandi IT Speditore LT Siuntėjas LV Nosūtītājs MK Испраќач MT Min jikkonsenja NL Afzender NO Avsender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SK Odosielateľ SL Pošiljatelj SV Avsändare TR Gönderici UA Вантажовідправник</td><td>Speditore – 99213</td></tr>
+<tr><td>BG опаковка N CS obal N DA N-emballager DE N-Umschließungen EE N-pakendamine EL Συσκευασία N EN N packaging ES envases N FI N-pakkaus FR emballages N GA N - pacáistíocht GE შეფუთვების რაოდენობა HR N pakiranje HU N csomagolás IS N umbúðir IT imballaggi N LT N pakuoté LV N iepakojums MK N пакување MT ippakkjar N NL N-verpakkingen NO N-emballasje PL opakowania N PT embalagens N RO ambalaj N RS N паковање SI N embalaža SK N - obal SV N förpackning TR N Kaplar UA N паковання</td><td>Imballaggi N – 98200</td></tr>
+<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς EN Limited validity ES Validez limitada FI Voimassa rajoitetusti FR Validité limitée GA Bailíocht theoranta GE შეზღუდული ვადა HR Ograničena valjanost HU Korlátozott érvényű IS Takmarkað gildissvið IT Validità limitata LT Galiojimas apribotas LV Ierobežots derīgums MK Ограничено важење MT Validità limitata NL Beperkte geldigheid NO Begrenset gyldighet PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SK Obmedzená platnosť SL Omejena veljavnost SV Begränsad giltighet TR Sınırlı Geçerli UA Дія обмежена</td><td>Validità limitata – 99200</td></tr>
+<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή EN Waiver ES Dispensa FI Vapautettu FR Dispense GA Tarscaoileadh GE განთავისუფლება HR Oslobođeno HU Mentesség IS Undanþegið IT Dispensa LT Leista neplombuoti LV Derīgs bez zīmoga MK Изземање MT Tneħħija NL Vrijstelling NO Fritak PL Zwolnienie PT Dispensa RO Derogarea RS Ослобођење SK Upustenie SL Opustitev SV Befrielse TR Vazgeçme UA Звільнення</td><td>Dispensa – 99201</td></tr>
+<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη EN Alternative proof ES Prueba alternativa FI Vaihtoehtoinen todiste FR Preuve alternative GA Cruthúnas malartach GE ალტერნატიული მტკიცებულება HR Alternativni dokaz HU Alternatív igazolás IS Önnur sönnun IT Prova alternativa LT Alternatyvusis įrodymas LV Alternatīvs pierādījums MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs NO Alternativt bevis PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SK Alternatívny dôkaz SL Alternativno dokazilo SV Alternativt bevis TR Alternatif Kanıt UA Альтернативне підтвердження</td><td>Prova alternativa – 99202</td></tr>
+<tr><td>BG Различия: митническо учреждение, където стоките са представени…………….. .................. (наименование и страна) CS Nesrovnalosti: úřad, kterému bylo zboží předloženo ..................... (název a země) DA Forskelle: det sted, hvor varerne blev frembudt ............................. (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ......... ……(Name und Land) EE Erinevused: asutus, kuhu kaup esitati ……............................................. (nimi ja riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ........ (Όνομα και χώρα) EN Differences: office where goods were presented .......................... (name and country) ES Diferencias: mercancías presentadas en la oficina ..................... (nombre y país) FI Muutos: toimipaikka, jossa tavarat esitetty ................................... (nimi ja maa) FR Différences: marchandises présentées au bureau ........................... (nom et pays) GA Difríochtaí: oifig inár cuireadh na hearraí i láthair …...... (ainm agus tír) GE განსხვავება: ოფისი, სადაც წარედგინა ტვირთი…. (სახელი და ქვეყანა HR Razlike: Carinarnica kojoj je roba podnesena ............................. (naziv i zemlja) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént .............. (név és ország) IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e Paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Differenze: ufficio al quale sono state presentate le merci … (nome e Paese) – 99203</td></tr>
+<tr><td>BG Излизането от ........................ подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, CS Výstup ze ............................................. podléhá omezením nebo dávkám podle nařízení/směrnice/rozhodnutí č. … DA Udpassage fra ........................ undergivet restriktioner eller afgifter i henhold til forordning/direktiv/afgørelse nr. … DE Ausgang aus ........................ – gemäß Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen. EE ....................... territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/direktiivile/otsusele nr … EL Η έξοδος από ......................... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. … EN Exit from ............................................... subject to restrictions or charges under Regulation/Directive/Decision No … ES Salida de ............ sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/Decisión no … FI ......... ........ vientiin sovelletaan asetuksen/direktiivin/päätöksen N:o … mukaisia rajoituksia tai maksuja FR Sortie de ...... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> … GA Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/ Treoir/Cinneadh … GE გასვლა ................ ექვემდებარება შეზღუდვებს ან გადასახადებს რეგულაციის/დირექტივის/გადაწყვეტილების საფუძველზე No… HR Izlaz iz ................................... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br … HU A kilépés ................ területéről a ................. rendelet/irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e Paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Uscita da …soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/decisione n. … – 99204</td></tr>
+<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας EN Authorised consignor ES Expedidor autorizado FI Valtuutettu lähettäjä FR Expéditeur agréé GA Coinsíneoir údaraithe GE ავტორიზებული გამგზავნი HR Ovlašteni pošiljatelj HU Engedélyezett feladó IS Viðurkenndur sendandi IT Speditore autorizzato LT Įgaliotas gavėjas LV Atzītais nosūtītājs MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender NO Autorisert avsender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SK Schválený odosielateľ SL Pooblaščeni pošiljatelj SV Godkänd avsändare TR İzinli Gönderici UA Авторизований вантажовідправник</td><td>Speditore autorizzato – 99206</td></tr>
+<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή EN Signature waived ES Dispensa de firma FI Vapautettu allekirjoituksesta FR Dispense de signature GA Tharscaoileadh an síniú GE ხელმოწერისგან გათავისუფლება HR Oslobođeno potpisa HU Aláírás alól mentesítve IS Undanþegið undirskrift IT Dispensa dalla firma LT Leista nepasirašyti LV Derīgs bez paraksta MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld NO Fritatt for underskrift PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SK Upustenie od podpisu SL Opustitev podpisa SV Befrielse från underskrift TR İmzadan Vazgeçme UA Звільнено від підпису</td><td>Dispensa dalla firma – 99207</td></tr>
+<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET SIKKERHEDSSTILLELSE DE GESAMTSICHERHEIT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ EN COMPREHENSIVE GUARANTEE PROHIBITED ES GARANTÍA GLOBAL PROHIBIDA FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY FR GARANTIE GLOBALE INTERDITE GA RATHAÍOCHT CHUIMSITHEACH COISCTHE GE საერთო გარანტიის აკრძალვა HR ZABRANJENO ZAJEDNIČKO JAMSTVO HU ÖSSZKEZESSÉG TILOS IS ALLSHERJARTRYGGING BÖNNUÐ IT GARANZIA GLOBALE VIETATA LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN NO FORBUD MOT BRUK AV UNIVERSALGARANTI PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SK ZÁKAZ CELKOVEJ ZÁRUKY SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SV SAMLAD SÄKERHET FÖRBJUDEN TR KAPSAMLI TEMİNAT YASAKLANMIȘTIR UA ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td>GARANZIA GLOBALE VIETATA – 99208</td></tr>
+<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE EL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ EN UNRESTRICTED USE ES UTILIZACIÓN NO LIMITADA FI KÄYTTÖÄ EI RAJOITETTU FR UTILISATION NON LIMITÉE GA ÚSÁID NEAMHSHRIANTA GE შეუზღუდავი გამოყენება HR NEOGRANIČENA UPORABA HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT IS ÓTAKMÖRKUÐ NOTKUN IT UTILIZZAZIONE NON LIMITATA LT NEAPRIBOTAS NAUDOJIMAS LV NEIEROBEŽOTS IZMANTOJUMS MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT NO UBEGRENSET BRUK PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SK NEOBMEDZENÉ POUŽITIE SL NEOMEJENA UPORABA SV OBEGRÄNSAD ANVÄNDNING TR KISITLANMAMIȘ KULLANIM UA ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td>UTILIZZAZIONE NON LIMITATA – 99209</td></tr>
+<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων EN Issued retroactively ES Expedido a posteriori FI Annettu jälkikäteen FR Délivré a posteriori GA Eisithe go haisghníomhach GE გაიცემა რეტროაქტიულად HR Izdano naknadno HU Kiadva visszamenőleges hatállyal IS Útgefið eftir á IT Rilasciato a posteriori LT Retrospektyvusis išdavimas LV Izsniegts retrospektīvi MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven NO Utstedt i etterhånd PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SK Vyhotovené dodatočne SL Izdano naknadno SV Utfärdat i efterhand TR Sonradan Düzenlenmiştir UA Видано згодом</td><td>Rilasciato a posteriori – 99210</td></tr>
+<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα EN Various ES Varios FI Useita FR Divers GA Éagsúil GE სხვადასხვა HR Razni HU Többféle IS Ýmis IT Vari LT Įvairūs LV Dažādi MK Различни MT Diversi NL Diversen NO Diverse PL Różne PT Diversos RO Diverse RS Разно SK Rôzne SL Razno SV Flera TR Çeșitli UA Різне</td><td>Vari – 99211</td></tr>
+<tr><td>BG Насипно CS Volně loženo DA Bulk DE Lose EE Pakendamata EL Χύμα EN Bulk ES A granel FI Irtotavaraa FR Vrac GA Bulc GE ნაყარი HR Rasuto HU Ömlesztett IS Vara í lausu IT Alla rinfusa LT Nesupakuota LV Berams MK Рефус MT Bil-kwantitá NL Los gestort NO Bulk PL Luzem PT A granel RO Vrac RS Расуто SK Voľne ložené SL Razsuto SV Bulk TR Dökme UA Навалювальний вантаж</td><td>Alla rinfusa – 99212</td></tr>
+<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας EN Consignor ES Expedidor FI Lähettäjä FR Expéditeur GA Coinsíneoir GE გამგზავნი HR Pošiljatelj HU Feladó IS Sendandi IT Speditore LT Siuntėjas LV Nosūtītājs MK Испраќач MT Min jikkonsenja NL Afzender NO Avsender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SK Odosielateľ SL Pošiljatelj SV Avsändare TR Gönderici UA Вантажовідправник</td><td>Speditore – 99213</td></tr>
 </table>
 
 Allegato A3 bis dell’appendice III bis
@@ -7964,7 +7970,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -8045,7 +8051,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco di articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 
