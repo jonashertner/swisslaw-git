@@ -3,11 +3,11 @@ sr: "0.732.020"
 title: Convenzione del 17 giugno 1994 sulla sicurezza nucleare
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380"
 language: it
-version: 2023-01-31
+version: 2025-02-03
 adopted: 1994-06-17
 in_force: 1996-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20230131/it/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20230131-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20230131/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20250203/it/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20250203-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20250203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificata dalla Svizzera con strumento depositato il 12 settembre 1996
 
 Entrata in vigore per la Svizzera l’11 dicembre 1996
 
-(Stato 31 gennaio 2023)
+(Stato 3 febbraio 2025)
 
 [^t-1]: [RU 1997 2379](https://fedlex.data.admin.ch/eli/oc/1997/2379_2379_2379)
 
@@ -397,7 +397,7 @@ L’originale della presente Convenzione, le cui versioni in lingua araba, cines
 
 *In fede di che,* i sottoscritti, debitamente abilitati a tal fine, hanno firmato la presente convenzione. Fatto a Vienna, il 17 giugno 1994. (Seguono le firme)
 
-Campo d’applicazione il 31 gennaio 2023[^t-2]
+Campo d’applicazione il 3 febbraio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -430,6 +430,8 @@ Campo d’applicazione il 31 gennaio 2023[^t-2]
 <tr><td>Cuba</td><td>3 luglio</td><td>2017</td><td>1° ottobre</td><td>2017</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>13 novembre</td><td>1998</td><td>11 febbraio</td><td>1999</td></tr>
 <tr><td>Groenlandia</td><td>26 settembre</td><td>2016</td><td>26 settembre</td><td>2016</td></tr>
+<tr><td>Egitto</td><td>25 settembre</td><td>2023</td><td>24 dicembre</td><td>2023</td></tr>
+<tr><td>El Salvador</td><td>22 marzo</td><td>2024 A</td><td>20 giugno</td><td>2024</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>31 luglio</td><td>2009 A</td><td>29 ottobre</td><td>2009</td></tr>
 <tr><td>Estonia</td><td>3 febbraio</td><td>2006 A</td><td>4 maggio</td><td>2006</td></tr>
 <tr><td>Finlandia</td><td>22 gennaio</td><td>1996</td><td>24 ottobre</td><td>1996</td></tr>
@@ -441,6 +443,7 @@ Campo d’applicazione il 31 gennaio 2023[^t-2]
 <tr><td>Grecia</td><td>20 giugno</td><td>1997</td><td>18 settembre</td><td>1997</td></tr>
 <tr><td>India</td><td>31 marzo</td><td>2005</td><td>29 giugno</td><td>2005</td></tr>
 <tr><td>Indonesia</td><td>12 aprile</td><td>2002</td><td>11 luglio</td><td>2002</td></tr>
+<tr><td>Iraq</td><td>21 novembre</td><td>2023 A</td><td>19 febbraio</td><td>2024</td></tr>
 <tr><td>Irlanda</td><td>11 luglio</td><td>1996</td><td>24 ottobre</td><td>1996</td></tr>
 <tr><td>Islanda</td><td>4 giugno</td><td>2008</td><td>2 settembre</td><td>2008</td></tr>
 <tr><td>Italia</td><td>15 aprile</td><td>1998</td><td>14 luglio</td><td>1998</td></tr>
@@ -448,6 +451,7 @@ Campo d’applicazione il 31 gennaio 2023[^t-2]
 <tr><td>Kuwait</td><td>11 maggio</td><td>2006 A</td><td>9 agosto</td><td>2006</td></tr>
 <tr><td>Lettonia</td><td>25 ottobre</td><td>1996 A</td><td>23 gennaio</td><td>1997</td></tr>
 <tr><td>Libano</td><td>5 giugno</td><td>1996</td><td>24 ottobre</td><td>1996</td></tr>
+<tr><td>Liberia</td><td>18 settembre</td><td>2024 A</td><td>17 dicembre</td><td>2024</td></tr>
 <tr><td>Libia</td><td>13 agosto</td><td>2009 A</td><td>11 novembre</td><td>2009</td></tr>
 <tr><td>Lituania</td><td>12 giugno</td><td>1996</td><td>24 ottobre</td><td>1996</td></tr>
 <tr><td>Lussemburgo</td><td>7 aprile</td><td>1997</td><td>6 luglio</td><td>1997</td></tr>
@@ -496,7 +500,8 @@ Campo d’applicazione il 31 gennaio 2023[^t-2]
 <tr><td>Ungheria</td><td>18 marzo</td><td>1996</td><td>24 ottobre</td><td>1996</td></tr>
 <tr><td>Uruguay</td><td>3 settembre</td><td>2003</td><td>2 dicembre</td><td>2003</td></tr>
 <tr><td>Vietnam</td><td>16 aprile</td><td>2010 A</td><td>15 luglio</td><td>2010</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Il testo, fran-cese ed inglese, può essere consultato sul sito Internet dell’Agenzia internazionale per l’energia atomica (AIEA): https://www.iaea.org/&gt; Resources &gt; treaties &gt; treaties-under-IAEA-auspices, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faroe.</td></tr>
+<tr><td>Zimbabwe</td><td>25 settembre</td><td>2023 A</td><td>24 dicembre</td><td>2023</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet dell’Agenzia internazionale per l’energia atomica (AIEA): [www.iaea.org](http://www.iaea.org) &gt; Resources &gt; Treaties, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faroe.</td></tr>
 </table>
 
-[^t-2]: [RU 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380); [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461); [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287); [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304); [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31); [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249); [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487); [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482); [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381); [2023 42](https://fedlex.data.admin.ch/eli/oc/2023/42). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: Completa quelli in [RU 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380); [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461); [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287); [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304); [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31); **2015** [1229](https://fedlex.data.admin.ch/eli/oc/2012/182); [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487); [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482); [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381); [2023 42](https://fedlex.data.admin.ch/eli/oc/2023/42); [2025 88](https://fedlex.data.admin.ch/eli/oc/2025/88). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.

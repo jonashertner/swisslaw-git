@@ -3,11 +3,11 @@ sr: "0.732.020"
 title: Übereinkommen vom 17. Juni 1994 über nukleare Sicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380"
 language: de
-version: 2023-01-31
+version: 2025-02-03
 adopted: 1994-06-17
 in_force: 1996-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20230131/de/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20230131-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20230131/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20250203/de/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20250203-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20250203/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 2380; BBl **1995** IV 1343
 
 Abgeschlossen in Wien am 17. Juni 1994 Von der Bundesversammlung genehmigt am 20. Juni 1996[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. September 1996 In Kraft getreten für die Schweiz am 11. Dezember 1996
 
-(Stand am 31. Januar 2023)
+(Stand am 3. Februar 2025)
 
 [^t-1]: [AS 1997 2379](https://fedlex.data.admin.ch/eli/oc/1997/2379_2379_2379)
 
@@ -389,10 +389,11 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Wien am 17. Juni 1994. (Es folgen die Unterschriften)
 
-Geltungsbereich am 31. Januar 2023[^t-2]
+Geltungsbereich am 3. Februar 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Ägypten</td><td>25. September</td><td>2023</td><td>24. Dezember</td><td>2023</td></tr>
 <tr><td>Albanien</td><td>29. Juni</td><td>2011 B</td><td>27. September</td><td>2011</td></tr>
 <tr><td>Angola</td><td>21. September</td><td>2020 B</td><td>20. Dezember</td><td>2020</td></tr>
 <tr><td>Argentinien</td><td>17. April</td><td>1997</td><td>16. Juli</td><td>1997</td></tr>
@@ -412,6 +413,7 @@ Geltungsbereich am 31. Januar 2023[^t-2]
 <tr><td>Dänemark\* <sup>a</sup></td><td>13. November</td><td>1998</td><td>11. Februar</td><td>1999</td></tr>
 <tr><td>Grönland</td><td>26. September</td><td>2016</td><td>26. September</td><td>2016</td></tr>
 <tr><td>Deutschland</td><td>20. Januar</td><td>1997</td><td>20. April</td><td>1997</td></tr>
+<tr><td>El Salvador</td><td>22. März</td><td>2024 B</td><td>20. Juni</td><td>2024</td></tr>
 <tr><td>Estland</td><td>3. Februar</td><td>2006 B</td><td>4. Mai</td><td>2006</td></tr>
 <tr><td>[tab] Europäische Atomgemeinschaft (EURATOM)\*</td><td>31. Januar</td><td>2000 B</td><td>30. April</td><td>2000</td></tr>
 <tr><td>Finnland</td><td>22. Januar</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
@@ -420,6 +422,7 @@ Geltungsbereich am 31. Januar 2023[^t-2]
 <tr><td>Griechenland</td><td>20. Juni</td><td>1997</td><td>18. September</td><td>1997</td></tr>
 <tr><td>Indien</td><td>31. März</td><td>2005</td><td>29. Juni</td><td>2005</td></tr>
 <tr><td>Indonesien</td><td>12. April</td><td>2002</td><td>11. Juli</td><td>2002</td></tr>
+<tr><td>Irak</td><td>21. November</td><td>2023 B</td><td>19. Februar</td><td>2024</td></tr>
 <tr><td>Irland</td><td>11. Juli</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Island</td><td>4. Juni</td><td>2008</td><td>2. September</td><td>2008</td></tr>
 <tr><td>Italien</td><td>15. April</td><td>1998</td><td>14. Juli</td><td>1998</td></tr>
@@ -436,6 +439,7 @@ Geltungsbereich am 31. Januar 2023[^t-2]
 <tr><td>Kuwait</td><td>11. Mai</td><td>2006 B</td><td>9. August</td><td>2006</td></tr>
 <tr><td>Lettland</td><td>25. Oktober</td><td>1996 B</td><td>23. Januar</td><td>1997</td></tr>
 <tr><td>Libanon</td><td>5. Juni</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
+<tr><td>Liberia</td><td>18. September</td><td>2024 B</td><td>17. Dezember</td><td>2024</td></tr>
 <tr><td>Libyen</td><td>13. August</td><td>2009 B</td><td>11. November</td><td>2009</td></tr>
 <tr><td>Litauen</td><td>12. Juni</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Luxemburg</td><td>7. April</td><td>1997</td><td>6. Juli</td><td>1997</td></tr>
@@ -446,7 +450,8 @@ Geltungsbereich am 31. Januar 2023[^t-2]
 <tr><td>Mexiko</td><td>26. Juli</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Moldau</td><td>7. Mai</td><td>1998 B</td><td>5. August</td><td>1998</td></tr>
 <tr><td>Montenegro</td><td>23. April</td><td>2015 B</td><td>22. Juli</td><td>2015</td></tr>
-<tr><td>Myanmar 6. Dezember 2016 B 6. März 2017 Niederlande\*</td><td>15. Oktober</td><td>1996</td><td>13. Januar</td><td>1997</td></tr>
+<tr><td>Myanmar</td><td>6. Dezember</td><td>2016 B</td><td>6. März</td><td>2017</td></tr>
+<tr><td>Niederlande\*</td><td>15. Oktober</td><td>1996</td><td>13. Januar</td><td>1997</td></tr>
 <tr><td>Niger</td><td>5. Dezember</td><td>2016 B</td><td>5. März</td><td>2017</td></tr>
 <tr><td>Nigeria</td><td>4. April</td><td>2007</td><td>3. Juli</td><td>2007</td></tr>
 <tr><td>Nordmazedonien</td><td>15. März</td><td>2006 B</td><td>13. Juni</td><td>2006</td></tr>
@@ -465,6 +470,7 @@ Geltungsbereich am 31. Januar 2023[^t-2]
 <tr><td>Schweiz</td><td>12. September</td><td>1996</td><td>11. Dezember</td><td>1996</td></tr>
 <tr><td>Senegal</td><td>24. Dezember</td><td>2008 B</td><td>24. März</td><td>2009</td></tr>
 <tr><td>Serbien</td><td>18. Dezember</td><td>2017 B</td><td>18. März</td><td>2018</td></tr>
+<tr><td>Simbabwe</td><td>25. September</td><td>2023 B</td><td>24. Dezember</td><td>2023</td></tr>
 <tr><td>Singapur</td><td>15. Dezember</td><td>1997 B</td><td>15. März</td><td>1998</td></tr>
 <tr><td>Slowakei</td><td>7. März</td><td>1995</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Slowenien</td><td>20. November</td><td>1996</td><td>18. Februar</td><td>1997</td></tr>
@@ -489,7 +495,7 @@ Geltungsbereich am 31. Januar 2023[^t-2]
 <tr><td>Zypern</td><td>17. März</td><td>1999 B</td><td>15. Juni</td><td>1999</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer.</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen</td></tr>
-<tr><td colspan="5">\*\* Einwendung. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht publiziert. Die französischen und englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): https://www.iaea.org/&gt; Resources &gt; treaties &gt; treaties-under-IAEA-auspices eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\*\* Einwendung. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht publiziert. Die französischen und englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): [www.iaea.org](https://www.iaea.org) &gt; Resources &gt; treaties &gt; treaties-under-IAEA-auspices eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380); [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461); [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287); [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304); [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31); [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249); [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487); [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482); [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381); [2023 42](https://fedlex.data.admin.ch/eli/oc/2023/42). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380); [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461); [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287); [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304); [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31); [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249); [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487); [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482); [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381); [2023 42](https://fedlex.data.admin.ch/eli/oc/2023/42)und [2025 88](https://fedlex.data.admin.ch/eli/oc/2025/88). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
