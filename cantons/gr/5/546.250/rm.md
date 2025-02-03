@@ -1,22 +1,23 @@
 ---
 canton: GR
 number: "546.250"
-title: "Lescha davart il sustegn da persunas basegnusas *"
-short: "Lescha chantunala da sustegn, LS"
+title: Lescha davart il sustegn da persunas basegnusas
+short: lescha chantunala da sustegn
 language: rm
 version: 2025-01-01
+corrected: 2025-02-04
 version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3843/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart il sustegn da persunas basegnusas
 
-(Lescha chantunala da sustegn, LS)
+(lescha chantunala da sustegn)
 
 dals 03-12-1978 (versiun dals 01-01-2025)
 
@@ -32,7 +33,7 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 <sup>1</sup> Basegnusa è quella persuna che na gudogna betg avunda u betg ad ura per pudair pajar cun ils agens meds finanzials ils custs da viver per sai sco er per sias confamigliaras e per ses confamigliars cun il medem domicil.
 
-<sup>2</sup> L'agid da sustegn consista dal pajament da daners u da natiralias a las persunas basegnusas e da las mesiras per evitar ina basegnusadad smanatschanta u per eliminar ina basegnusadad existenta.
+<sup>2</sup> L'agid da sustegn consista dal pajament da daners u da natiralias a la persuna basegnusa e da las mesiras per evitar ina basegnusadad smanatschanta u per eliminar ina basegnusadad existenta.
 
 <sup>3</sup> Sco sustegn na valan betg:
 
@@ -51,7 +52,7 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 **Sustegn**
 
-<sup>1</sup> L'autoritad sociala cumpetenta fixescha la moda e la dimensiun dal sustegn tenor il basegn cumprovà, considerond las relaziuns localas e persunalas. Per quest intent resguarda ella las grevezzas legalas da famiglia da la persuna basegnusa, eventuals cas da malsogna sco er ils custs d'emprendissadi da quels giuvenils, per ils quals la persuna basegnusa sto procurar.
+<sup>1</sup> L'autoritad sociala cumpetenta fixescha la moda e la mesira dal sustegn tenor il basegn cumprovà, considerond las relaziuns localas e persunalas. En quest connex resguarda ella las grevezzas famigliaras legalas da la persuna basegnusa, eventuals cas da malsogna sco er ils custs da la scolaziun professiunala da giuvenils, per ils quals la persuna basegnusa ha da procurar.
 
 <sup>2</sup> Cun fixar il basegn da sustegn resguarda l'autoritad sociala cumpetenta prestaziuns d'assicuranza, ulteriuras contribuziuns supplementaras socialas sco er donaziuns da terzas persunas.
 
@@ -69,15 +70,13 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 **Autras mesiras**
 
-<sup>1</sup> L'autoritad sociala sclerescha ils motivs da la basegnusadad e fa eventualmain las propostas a l'Autoritad per la protecziun da creschids ch'èn necessarias per evitar ina basegnusadad smanatschanta u per eliminar ina basegnusadad existenta. Talas propostas pon er vegnir fatgas da l'Uffizi da fatgs socials.
+<sup>1</sup> L'autoritad sociala sclerescha ils motivs da la basegnusadad e fa eventualmain las propostas a l'autoritad per la protecziun da creschids ch'èn necessarias per evitar ina basegnusadad smanatschanta u per eliminar ina basegnusadad existenta. Talas propostas pon er vegnir fatgas da l'uffizi chantunal da provediment.
 
 #### Art. 4
 
-**Obligaziuns da las persunas sustegnidas**
+**Obligaziuns da la persuna sustegnida**
 
 <sup>1</sup> La persuna che sto vegnir sustegnida e la persuna sustegnida èn obligadas da dar tut las infurmaziuns utilas, da metter a disposiziun ils documents necessaris sco er da dar suatientscha a las cundiziuns da las autoritads socialas ch'èn colliadas cun la prestaziun da sustegn.
-
-<sup>2</sup> Ultra da quai èn ellas obligadas d'annunziar durant 10 onns suenter ch'ellas han retschavì la prestaziun, las midadas relevantas en lur relaziuns d'entrada e da facultad a quella autoritad che las ha sustegnì sco ultima.
 
 #### Art. 4a
 
@@ -85,19 +84,19 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 <sup>1</sup> Contribuziuns en il senn da questa lescha na pon betg vegnir cedidas. Cessiuns da dretgs da contribuziun èn en mintga cas nunvalaivlas.
 
-## 2. Prestaziuns da la vischnanca da domicil
+## 2. Prestaziuns da la vischnanca da domicil e da la vischnanca burgaisa
 
 #### Art. 5
 
 **Cumpetenza per il sustegn**
 
-<sup>1</sup> L'obligaziun da sustegn è chaussa da quella vischnanca politica, en la quala la persuna basegnusa ha ses domicil.
+<sup>1</sup> L'obligaziun da sustegn è chaussa da la vischnanca politica, en la quala la persuna basegnusa ha ses domicil.
 
-<sup>2</sup> La persuna basegnusa ha ses domicil en quella vischnanca, en la quala ella sa trategna cun l'intenziun da restar permanentamain.
+<sup>2</sup> La persuna basegnusa ha ses domicil en la vischnanca, en la quala ella stat cun l'intenziun da restar permanentamain.
 
-<sup>3</sup> Sch'i sa tracta mo d'ina dimora, è l'agid da sustegn per Svizras e Svizzers chaussa da quella vischnanca, en la quala la persuna basegnusa sa trategna, uschenavant ch'igl exista in'obligaziun da sustegn tenor la Lescha federala davart la cumpetenza per il sustegn da persunas basegnusas[^5-1] en il chantun.
+<sup>3</sup> En cas ch'i sa tracta mo d'ina dimora, è l'agid da sustegn per burgaisas e per burgais dal chantun sco er per burgaisas e per burgais d'auters chantuns chaussa da la vischnanca, en la quala la persuna basegnusa stat, e quai uschenavant ch'igl exista en il chantun in'obligaziun da sustegn tenor la lescha federala davart la cumpetenza per il sustegn da persunas basegnusas[^5-1].
 
-<sup>4</sup> Per il sustegn da persunas estras cun domicil u cun dimora en il chantun valan confurm al senn las disposiziuns da la lescha federala[^5-2].
+<sup>4</sup> Per il sustegn da persunas estras cun domicil u cun dimora en il chantun valan las disposiziuns da la lescha federala[^5-2] confurm al senn.
 
 <sup>5</sup> …
 
@@ -120,7 +119,7 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 <sup>1</sup> Prender e bandunar il domicil sa drizza tenor ils princips che valan tenor la lescha federala[^6-1] en las relaziuns interchantunalas.
 
-<sup>2</sup> Sche la persuna basegnusa mida ses domicil entaifer il chantun, vegn transferida l'obligaziun da sustegn cun effect immediat a la nova vischnanca da domicil.
+<sup>2</sup> Sch'ina burgaisa u sch'in burgais d'in auter chantun mida ses domicil entaifer il chantun, passa l'obligaziun da sustegn cun effect immediat a la nova vischnanca da domicil.
 
 <sup>3</sup> Tras la dimora en ina chasa, en in ospital u en in'autra instituziun sco er tras la collocaziun en ina famiglia da tgira che vegn ordinada d'in uffizi u da l'autoritad da protecziun da l'uffant e da creschids na vegn stabilì nagin domicil da sustegn.
 
@@ -144,62 +143,34 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 #### Art. 11
 
-**Obligaziun da restituziun 1. princips**
+**Restituziuns**
 
-<sup>1</sup> …
+<sup>1</sup> Contribuziuns che vegnan pajadas da persunas parentas che han l'obligaziun da sustegn ston vegnir repartidas sin il chantun, sin la vischnanca da domicil e sin quella vischnanca politica, en la quala la persuna pertutgada ha ses dretg da burgais, e quai en relaziun dals custs da sustegn che tutgan ad ellas.
 
-<sup>2</sup> Prestaziuns da sustegn ch'èn vegnidas retratgas legalmain, ston vegnir restituidas senza tschains, sche las relaziuns finanzialas da la persuna sustegnida sa megliereschan. Valair valan ils artitgels 11a fin 11c.
+<sup>2</sup> Sche las relaziuns da facultad e da gudogn da la persuna sustegnida sa megliereschan, sto ella restituir senza tschains l'agid da sustegn ch'ella ha retratg durant ils ultims 15 onns. La restituziun sto avair lieu mo per quant che quai na chaschuna nagina nova basegnusadad.
 
-<sup>3</sup> Prestaziuns da sustegn ch'èn vegnidas retratgas illegalmain, ston vegnir restituidas cun tschains.
+<sup>3</sup> In sustegn ch'è vegnì retratg nungiustifitgadamain sto vegnir restituì cun tschains.
 
-<sup>4</sup> A norma da l'agid prestà ha l'autoritad da sustegn il dretg a l'ierta da la persuna sustegnida.
+<sup>4</sup> L'autoritad da sustegn ha il dretg sin il relasch da la persuna sustegnida a norma da l'agid prestà.
 
 <sup>5</sup> Il dretg da restituziun surannescha:
 
-- a) en cas da prestaziuns da sustegn retratgas legalmain: 10 onns suenter l'ultim pajament da la prestaziun;
-- b) en cas da prestaziuns da sustegn retratgas illegalmain u en cas d'ina violaziun da l'obligaziun d'annunzia tenor l'artitgel 4 alinea 2: 20 onns suenter l'ultim pajament da la prestaziun;
-- c) envers ils ertavels da la persuna sustegnida, sche la pretensiun envers la persuna sustegnida n'era anc betg surannada: 1 onn suenter la successiun d'ierta.
+- a) envers la persuna sustegnida 15 onns suenter l'ultim pajament d'ina prestaziun;
+- b) envers las ertavlas ed ils ertavels da la persuna sustegnida 1 onn suenter il cumenzament da l'ierta.
 
-<sup>6</sup> Independentamain da l'obligaziun da discreziun, han las vischnancas ed il chantun il dretg da barattar las infurmaziuns ch'èn necessarias per la restituziun.
+<sup>6</sup> Las contribuziuns restituidas vegnan repartidas sco sustegniments da persunas parentas.
 
-<sup>7</sup> …
-
-#### Art. 11a
-
-**2. restituziun ord entradas**
-
-<sup>1</sup> Sche las relaziuns da las entradas da la persuna sustegnida sa megliereschan, è ella suttamessa a l'obligaziun da restituziun, premess che tala na chaschunia nagina ulteriura basegnusadad.
-
-<sup>2</sup> La Regenza fixescha las basas da calculaziun per determinar las entradas ch'èn relevantas per la restituziun. Per quest intent s'orientescha ella a las Directivas da la Conferenza svizra da l'agid social (COSAS).
-
-<sup>3</sup> L'obligaziun da restituziun cumenza 1 onn suenter ch'il sustegn è terminà e dura 4 onns.
-
-#### Art. 11b
-
-**3. restituziun ord augment da facultad**
-
-<sup>1</sup> Sche las relaziuns da facultad da la persuna sustegnida sa megliereschan pervia d'in augment da facultad, è ella suttamessa a l'obligaziun da restituziun en questa dimensiun, resguardond imports libers.
-
-<sup>2</sup> La Regenza fixescha ils imports libers. Per quest intent s'orientescha ella a las Directivas da la COSAS.
-
-<sup>3</sup> Sche la persuna ch'è suttamessa a l'obligaziun da restituziun dispona d'autra facultad, sa reducescha l'import liber per questa facultad.
-
-#### Art. 11c
-
-**4. excepziuns**
-
-<sup>1</sup> Betg suttamessas a l'obligaziun da restituziun n'èn las prestaziuns da sustegn che:
-
-- a) èn vegnidas pajadas ad ina persuna fin ch'ella ha cumplenì ses 25. anniversari durant ch'ella absolveva in'emprima scolaziun;
-- b) stattan en connex cun l'integraziun professiunala e sociala;
-- c) èn vegnidas pajadas – per motivs d'in impediment – al provediment material da basa cumplementarmain al provediment da sanadad;
-- d) pertutgan las premias da l'assicuranza obligatorica da malsauns, che n'èn betg vegnidas garantidas cumplainamain tras la reducziun individuala da las premias.
-
-<sup>2</sup> La Regenza po prevair ulteriuras excepziuns. Per quest intent s'orientescha ella a las Directivas da la COSAS.
+<sup>7</sup> Custs da sustegn per la participaziun a programs d'occupaziun u a purschidas da lavur dal segund martgà da lavur na suttastattan betg a l'obligaziun da restituziun.
 
 #### Art. 12
 
-**…**
+**Annunzia**
+
+<sup>1</sup> L'obligaziun d'annunzia da la vischnanca da domicil vegn reglada pli detagliadamain en l'ordinaziun executiva[^12-1].
+
+<sup>2</sup> Il surpassament da l'obligaziun d'annunzia ha per consequenza ch'il dretg da survegnir ina cumpensaziun va a perder.
+
+[^12-1]: DG [546.260](https://www.gr-lex.gr.ch/data/546.260/rm)
 
 #### Art. 13
 
@@ -224,10 +195,9 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 - a) persunas basegnusas ch'èn da passagi;
 - b) persunas en ina procedura d'asil e persunas admessas provisoricamain;
 - c) persunas, da las qualas la dumonda d'asil è vegnida refusada cun vigur legala, e persunas che n'han nagin dretg da dimora;
-- d) cas extraordinaris;
-- e) Svizras e Svizzers cun moda da viver nomada che fan diever durant l'entir onn u temporarmain d'ina plazza da passagi u da staziunament ch'è disponibla permanentamain.
+- d) cas extraordinaris.
 
-<sup>2</sup> …
+<sup>2</sup> Il chantun surpiglia ils custs per sustegnair burgaisas e burgais chantunals che abitan en auters chantuns u en auters stadis a norma da la legislaziun federala e d'eventuals contracts internaziunals.
 
 <sup>3</sup> El è responsabel per il contact cun posts extrachantunals.
 
@@ -295,7 +265,11 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 #### Art. 20
 
-**…**
+**Execuziun**
+
+<sup>1</sup> Il cussegl grond relascha l'ordinaziun executiva necessaria[^20-1].
+
+[^20-1]: DG [546.260](https://www.gr-lex.gr.ch/data/546.260/rm)
 
 #### Art. 20a
 
