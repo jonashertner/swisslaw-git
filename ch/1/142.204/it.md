@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2024-10-13
+version: 2025-02-04
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20241013/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20241013-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20241013/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250204/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250204-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20241013/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 13 ottobre 2024)
+del 15 agosto 2018 (Stato 4 febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -67,7 +67,7 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 [^1-5]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
 [^1-6]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-7]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-8]: Nuovo testo giusta la cifra II 1 dell’O del 7 giu. 2024, in vigore dall’11 giu. 2024 ([RU 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
+[^1-8]: Nuovo testo giusta la cifra II n. 1 dell’O del 7 giu. 2024, in vigore dall’11 giu. 2024 ([RU 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 [^1-9]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1415, GU L, 2024/1415, 22.05.2024.
 [^1-10]: Introdotta dalla cifra I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-11]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
@@ -264,8 +264,8 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 
 <sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) adegua l’allegato 3 non appena la Svizzera è informata in merito alla conclusione di un accordo in materia di esenzione dall’obbligo del visto tra l’UE e uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806.[^8-13]
 
-[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2024/2495, GU L, 2024/2495, 23.9.2024.
-[^8-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 555](https://fedlex.data.admin.ch/eli/oc/2024/555)).
+[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2025/11, GU L, 2025/11, 14.1.2025.
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 4 feb. 2025 ([RU 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
 [^8-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 [^8-4]: Decisione del Consiglio, del 30 nov. 1994, relativa a un’azione comune adottata dal Consiglio sulla base dell’art. K.3, par. 2, lett. b) del trattato sull’Unione europea in materia di agevolazioni per i viaggi compiuti da scolari di paesi terzi residenti in uno Stato membro (94/795/GAI), versione della GU L 327 del 19.12.1994, pag. 1.
 [^8-5]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -1396,6 +1396,6 @@ Allegato 5[^t-4]
 
 ## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806
 
-[^t-4]: Introdotto dalla cifra II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta la cifra II dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^t-4]: Introdotto dalla cifra II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta la cifra II dell’O del 15 gen. 2025, in vigore dal 4 feb. 2025 ([RU 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
 
-Regolamento delegato (UE) 2024/2059 della Commissione del 31 maggio 2024 che modifica il regolamento (UE) 2018/1806 per quanto riguarda la proroga della sospensione temporanea dell’esenzione dall’obbligo del visto per i cittadini di Vanuatu, versione della GU L 2024/2059, *2.08.2024*
+*Attualmente la lista non contiene alcuna voce.*

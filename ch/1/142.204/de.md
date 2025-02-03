@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2024-10-13
+version: 2025-02-04
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20241013/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20241013-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20241013/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250204/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250204-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20241013/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 13. Oktober 2024)
+vom 15. August 2018 (Stand am 4. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -264,8 +264,8 @@ In Abweichung von Absatz 3 gelten bei Aufenthalten mit Erwerbstätigkeit folgend
 
 <sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) passt Anhang 3 an, sobald die Schweiz über den Abschluss eines Abkommens zwischen der EU und einem der in Anhang II der Verordnung (EU) 2018/1806 genannten Staaten oder einer der dort genannten Gebietskörperschaften zur Aufhebung der Visumpflicht informiert worden ist.[^8-13]
 
-[^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, ABl. L 303 vom 28.11.2018, S. 39; zuletzt geändert durch Verordnung (EU) 2024/2495, ABl. L, 2024/2495, 23.9.2024.
-[^8-2]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 13. Okt. 2024 ([AS 2024 555](https://fedlex.data.admin.ch/eli/oc/2024/555)).
+[^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, ABl. L 303 vom 28.11.2018, S. 39; zuletzt geändert durch Verordnung (EU) 2025/11, ABl. L, 2025/11, 14.1.2025.
+[^8-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 4. Febr. 2025 ([AS 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
 [^8-3]: Siehe Fussnote zu Art. 3 Abs. 1.
 [^8-4]: Beschluss 94/795/JI des Rates vom 30. November 1994 über die vom Rat aufgrund von Artikel K.3 Absatz 2 Buchstabe b) des Vertrages über die Europäische Union beschlossene gemeinsame Massnahme über Reiseerleichterungen für Schüler von Drittstaaten mit Wohnsitz in einem Mitgliedstaat, Fassung gemäss ABl. L 327 vom 19.12.1994, S. 1.
 [^8-5]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -1397,6 +1397,6 @@ Anhang 5[^t-4]
 
 ## Durchführungsrechtsakte und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. II der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. II der V vom 15. Jan. 2025, in Kraft seit 4. Febr. 2025 ([AS 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
 
-Delegierte Verordnung (EU) 2024/2059 der Kommission vom 31. Mai 2024 zur Änderung der Verordnung (EU) 2018/1806 im Hinblick auf die Verlängerung der vorübergehenden Aussetzung der Befreiung von der Visumpflicht für Staatsangehörige Vanuatus, Fassung gemäss ABl, L 2024/2059, *2.8.2024*
+Diese Liste enthält zurzeit keine Einträge.
