@@ -5,12 +5,12 @@ title: "Disposiziuns executivas tar la lescha chantunala da sustegn *"
 short: DEtLS
 language: rm
 version: 2025-01-01
-valid_until: 2026-01-31
+corrected: 2025-02-04
 version_adopted: 2025-02-04
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3623/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -70,7 +70,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 #### Art. 4
 
-**Import d'entrada liber**
+**Import d'entrada liber da taglia**
 
 <sup>1</sup> Sch'i vegn cumenzada u pratitgada in'activitad da gudogn u sche la dimensiun da l'activitad da gudogn vegn engrondida durant il sustegn, na sto l'entrada obtegnida or da l'activitad da gudogn betg vegnir quintada, e quai sco suonda:
 
@@ -83,13 +83,13 @@ relaschadas da la regenza ils 8 da november 2005
 <tr><td>80% e dapli</td><td>fr. 500.–</td></tr>
 </table>
 
-<sup>2</sup> Per calcular il basegn da sustegn da las entradas da gudogn sto l'import d'entrada liber vegnir deducì vinavant anc sis mais suenter che la persuna sustegnida po atgnamain procurar suffizientamain ord agens meds per sia existenza e per quella da ses confamigliars.
+<sup>2</sup> Per calcular il basegn da sustegn da las entradas da gudogn sto l'import d'entrada liber da taglia vegnir deducì vinavant anc sis mais suenter che la persuna sustegnida po atgnamain procurar suffizientamain ord agens meds per sia existenza e per quella da ses confamigliars.
 
 #### Art. 5
 
-**Import da facultad liber**
+**Import da facultad liber da taglia**
 
-<sup>1</sup> Ils suandants imports da facultad libers na ston betg vegnir imputads per determinar il basegn da sustegn ed il sustegn sco tal:
+<sup>1</sup> Ils suandants imports da facultad libers da taglia na ston betg vegnir imputads per determinar il basegn da sustegn ed il sustegn sco tal:
 
 - a) persunas singulas — fr. 4000.–
 - b) conjugals — fr. 8000.–
@@ -113,9 +113,9 @@ relaschadas da la regenza ils 8 da november 2005
 
 #### Art. 7
 
-**Limita superiura per ils imports d'entrada libers e per ils supplements d'integraziun**
+**Limita superiura per ils imports d'entrada libers da taglia e per ils supplements d'integraziun**
 
-<sup>1</sup> La limita superiura per ils imports d'entrada libers e per ils supplements d'integraziun importa totalmain 650 francs per chasada e per mais.
+<sup>1</sup> La limita superiura per ils imports d'entrada libers da taglia e per ils supplements d'integraziun importa totalmain 650 francs per chasada e per mais.
 
 #### Art. 8
 
@@ -133,7 +133,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 **Vehichel a motor**
 
-<sup>1</sup> A tgi ch'è proprietari d'in vehichel a motor, senza esser dependent da quel per motivs professiunals u da sanadad, vegn mess a quint la valur da facultad che surpassa l'import da facultad liber.
+<sup>1</sup> A tgi ch'è proprietari d'in vehichel a motor, senza esser dependent da quel per motivs professiunals u da sanadad, vegn mess a quint la valur da facultad che surpassa l'import da facultad liber da taglia.
 
 <sup>2</sup> Tgi che fa regularmain diever d'in vehichel a motor, senza esser dependent da quel per motivs professiunals u da sanadad, sto cumprovar ch'el na dispona betg d'ina entrada u da facultad supplementara e ch'il sustegn na vegn betg utilisà per in auter intent che quel previs. Sche quai na po betg vegnir cumprovà, vegn il budget calculà da nov u vegnan relaschadas cundiziuns per l'utilisaziun dal vehichel a motor.
 
@@ -247,44 +247,12 @@ relaschadas da la regenza ils 8 da november 2005
 
 <sup>1</sup> L'uffizi chantunal dal servetsch social controlla periodicamain il grad da la cuvrida dals custs da las contribuziuns pajadas a las vischnancas sco er las incumbensas surordinadas ed ils custs da talas.
 
-## 3. Obligaziun da restituziun
-
 #### Art. 13
 
-**Restituziun ord entradas**
+**Disposiziun finala e transitorica**
 
-<sup>1</sup> Las entradas ch'èn decisivas per la restituziun importan la mesadad da l'import calculà tenor l'alinea 2.
+<sup>1</sup> Questas disposiziuns executivas entran en vigur il 1. da schaner 2006.
 
-<sup>2</sup> L'import resulta da la summa da las entradas suttamessas a la taglia minus las suandantas posiziuns:
-
-- a) tariffa dubla dal basegn fundamental per ils custs da viver;
-- b) custs d'abitar effectivs;
-- c) provediment medicinal da basa;
-- d) custs d'acquist e da scolaziun;
-- e) ulteriurs custs: taglias, assicuranzas, contribuziuns da mantegniment, custs da malsogna, tschains da debits ed amortisaziun dals debits sco er ulteriuras expensas motivadas tenor ils custs effectivs.
-
-#### Art. 14
-
-**Restituziun ord augment da facultad**
-
-<sup>1</sup> En cas d'in augment da facultad ston vegnir resguardads ils suandants imports libers:
-
-- a) per persunas singulas: — 30 000.– francs
-- b) per pèrs maridads e pèrs en partenadi registrà: — 50 000.– francs
-- c) per mintga uffant minoren: — 15 000.– francs
-
-<sup>2</sup> Indemnisaziuns d'integritad e prestaziuns da satisfacziun n'èn betg suttamessas a l'obligaziun da restituziun.
-
-#### Art. 15
-
-**Scuntrada**
-
-<sup>1</sup> Ina pretensiun da restituziun pervia da prestaziuns da sustegn retratgas nungiustifitgadamain po vegnir scuntrada cun prestaziuns da sustegn currentas.
-
-<sup>2</sup> La scuntrada vegn fatga cun il basegn fundamental per ils custs da viver. Er resguardond ina reducziun, na dastga questa scuntrada dentant betg reducir il basegn fundamental per ils custs da viver per pli che 30 pertschient.
-
-<sup>3</sup> Sch'i resulta ina scuntrada da pli che 10 pertschient, è questa scuntrada limitada a maximalmain 6 mais. Autras limitaziuns temporaras na datti betg.
-
-<sup>4</sup> Pretensiuns da restituziun pertutgant prestaziuns, ch'èn vegnidas pajadas pervia d'in sbagl da l'autoritad da sustegn senza in motiv giuridic, na dastgan betg vegnir scuntradas.
+<sup>2</sup> Cas da sustegn currents vegnan liquidads a partir dal 1. d'avrigl 2016 tenor las disposiziuns che valan a partir dal 1. da schaner 2016.
 
 -
