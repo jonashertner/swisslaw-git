@@ -1,8 +1,8 @@
 ---
 canton: GR
 number: "546.250"
-title: "Legge sull'assistenza alle persone nel bisogno"
-short: "Legge cantonale sull'assistenza"
+title: "Legge sull'assistenza alle persone nel bisogno *"
+short: "Legge cantonale sull'assistenza, LCAss"
 language: it
 version: 2025-01-01
 corrected: 2025-02-04
@@ -10,14 +10,14 @@ version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3407/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3528/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sull'assistenza alle persone nel bisogno
 
-(Legge cantonale sull'assistenza)
+(Legge cantonale sull'assistenza, LCAss)
 
 del 03.12.1978 (stato 01.01.2025)
 
@@ -52,7 +52,7 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 **Prestazioni assistenziali**
 
-<sup>1</sup> La competente autorità sociale decide sul modo e sulla misura della prestazione assistenziale secondo la necessità di aiuto comprovata avendo riguardo alle condizioni personali e locali. Essa tien conto degli obblighi legali familiari della persona nel bisogno, di eventuali casi di malattia e delle spese di formazione professionale di adolescenti a carico della persona nel bisogno.
+<sup>1</sup> La competente autorità sociale decide sul modo e sulla misura della prestazione assistenziale secondo la necessità di aiuto comprovata avendo riguardo alle condizioni personali e locali. Essa tiene conto degli obblighi legali familiari delle persone nel bisogno, di eventuali casi di malattia e delle spese di formazione professionale di adolescenti a carico della persona nel bisogno.
 
 <sup>2</sup> Nel valutare la necessità di aiuto la competente autorità sociale tiene conto delle prestazioni di assicurazioni, di altri contributi sociali nonché delle assegnazioni di terzi.
 
@@ -74,7 +74,7 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 #### Art. 4
 
-**Obblighi dell'assistito**
+**Obblighi delle persone assistite**
 
 <sup>1</sup> La persona da assistere o assistita è obbligata a dare ogni informazione utile, a produrre i documenti necessari e ad osservare le condizioni poste delle autorità sociali per la prestazione assistenziale.
 
@@ -94,13 +94,14 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 <sup>2</sup> La persona nel bisogno ha il proprio domicilio nel comune nel quale dimora con l'intenzione di stabilirsi.
 
-<sup>3</sup> In caso di sola dimora la prestazione assistenziale per cittadini del Cantone e per cittadini di altri cantoni spetta al comune nel quale dimora la persona nel bisogno, nella misura in cui giusta la legge federale sulla competenza ad assistere le persone nel bisogno[^5-1] esista un obbligo d'assistenza nel Cantone.
+<sup>3</sup> In caso di sola dimora la prestazione assistenziale per persone di cittadinanza svizzera spetta al comune nel quale dimora la persona nel bisogno, nella misura in cui giusta la legge federale sulla competenza ad assistere le persone nel bisogno[^5-1] esista un obbligo d'assistenza nel Cantone.
 
-<sup>4</sup> Per l'assistenza di stranieri con domicilio o dimora nel Cantone fanno stato per analogia le disposizioni della legge federale.
+<sup>4</sup> Per l'assistenza di persone di cittadinanza straniera con domicilio o dimora nel Cantone fanno stato per analogia le disposizioni della legge federale[^5-2].
 
 <sup>5</sup> …
 
 [^5-1]: RS [851.1](https://db.clex.ch/link/Bund/851.1/it)
+[^5-2]: RS [851.1](https://db.clex.ch/link/Bund/851.1/it)
 
 #### Art. 5a
 
@@ -118,7 +119,7 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 <sup>1</sup> Per la costituzione e la fine del domicilio fanno stato i principi validi nei rapporti intercantonali secondo la legge federale.
 
-<sup>2</sup> Se il cittadino di un altro cantone trasferisce il suo domicilio restando nei Grigioni, l'obbligo assistenziale passa con effetto immediato al nuovo comune di domicilio.
+<sup>2</sup> Se la persona nel bisogno trasferisce il suo domicilio restando nei Grigioni, l'obbligo assistenziale passa con effetto immediato al nuovo comune di domicilio.
 
 <sup>3</sup> Non si costituisce domicilio assistenziale con la dimora in un ospizio, ospedale o altro istituto o con il collocamento in una famiglia ordinato dall'autorità di protezione dei minori e degli adulti.
 
@@ -142,9 +143,9 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 **Restituzioni**
 
-<sup>1</sup> I contributi versati da parenti con obbligo d'assistenza vanno ripartiti tra il Cantone, il comune di domicilio e quel comune politico nel quale l'interessato ha il proprio diritto di cittadinanza, in proporzione alle spese d'assistenza da essi dovute.
+<sup>1</sup> I contributi versati da parenti con obbligo d'assistenza vanno ripartiti tra il Cantone, il comune di domicilio e quel comune politico nel quale la persona interessata ha il proprio diritto di cittadinanza, in proporzione alle spese d'assistenza da essi dovute.
 
-<sup>2</sup> Se le condizioni di sostanza o di reddito dell'assistito migliorano, egli deve restituire senza interessi le prestazioni assistenziali percepite negli ultimi 15 anni. La restituzione deve avvenire solo in misura da non provocare una nuova situazione di bisogno.
+<sup>2</sup> Se le condizioni di sostanza o di reddito della persona assistita migliorano, essa deve restituire senza interessi le prestazioni assistenziali percepite negli ultimi 15 anni. La restituzione deve avvenire solo in misura da non provocare una nuova situazione di bisogno.
 
 <sup>3</sup> Una prestazione percepita illegalmente dev'essere restituita con gli interessi.
 
@@ -161,13 +162,7 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 #### Art. 12
 
-**Notifica**
-
-<sup>1</sup> L'obbligo di notifica del comune di domicilio è regolato più precisamente nell'ordinanza d'esecuzione della presente legge.[^12-1]
-
-<sup>2</sup> Il comune che non osserva l'obbligo di notifica perde il diritto a rimborso.
-
-[^12-1]: CSC [546.260](https://www.gr-lex.gr.ch/data/546.260/it)
+**…**
 
 #### Art. 13
 
@@ -192,9 +187,10 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 - a) indigenti di passaggio;
 - b) persone con procedura d'asilo pendente, nonché stranieri ammessi provvisoriamente;
 - c) persone la cui domanda d'asilo è stata respinta con una decisione passata in giudicato o persone senza diritto di soggiorno;
-- d) casi straordinari.
+- d) casi straordinari;
+- e) persone di cittadinanza svizzera con stile di vita nomade che utilizzano tutto l'anno o temporaneamente un'area di transito o di sosta messa a disposizione in modo permanente.
 
-<sup>2</sup> Il Cantone si assume le spese dell'aiuto agli indigenti per persone di cittadinanza grigionese che vivono in altri Cantoni o Stati, in ragione della legislazione federale e di eventuali trattati internazionali.
+<sup>2</sup> …
 
 <sup>3</sup> Esso si occupa dei contatti con servizi extracantonali.
 
@@ -262,11 +258,7 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 #### Art. 20
 
-**Esecuzione**
-
-<sup>1</sup> Il Gran Consiglio emana un'ordinanza d'esecuzione.[^20-1]
-
-[^20-1]: CSC [546.260](https://www.gr-lex.gr.ch/data/546.260/it)
+**…**
 
 #### Art. 20a
 

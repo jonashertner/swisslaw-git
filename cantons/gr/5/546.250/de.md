@@ -2,7 +2,7 @@
 canton: GR
 number: "546.250"
 title: Gesetz über die Unterstützung Bedürftiger
-short: Kantonales Unterstützungsgesetz
+short: "Kantonales Unterstützungsgesetz, UG"
 language: de
 version: 2025-01-01
 corrected: 2025-02-04
@@ -10,14 +10,14 @@ version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3407/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Unterstützung Bedürftiger
 
-(Kantonales Unterstützungsgesetz)
+(Kantonales Unterstützungsgesetz, UG)
 
 Vom 03.12.1978 (Stand 01.01.2025)
 
@@ -33,7 +33,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Bedürftig ist, wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem Wohnsitz nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann.
 
-<sup>2</sup> Die Unterstützungshilfe besteht in der Ausrichtung von Geld oder Naturalien an den Bedürftigen und in den Massnahmen zur Vermeidung drohender oder zur Behebung eingetretener Bedürftigkeit.
+<sup>2</sup> Die Unterstützungshilfe besteht in der Ausrichtung von Geld oder Naturalien an die Bedürftigen und in den Massnahmen zur Vermeidung drohender oder zur Behebung eingetretener Bedürftigkeit.
 
 <sup>3</sup> Als Unterstützung gelten nicht:
 
@@ -52,7 +52,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 **Unterstützung**
 
-<sup>1</sup> Die zuständige Sozialbehörde bestimmt Art und Mass der Unterstützung nach dem ausgewiesenen Bedarf unter Würdigung der örtlichen und persönlichen Verhältnisse. Sie berücksichtigt dabei die gesetzlichen Familienlasten des Bedürftigen, allfällige Krankheitsfälle sowie berufliche Ausbildungskosten Jugendlicher, für die der Bedürftige aufzukommen hat.
+<sup>1</sup> Die zuständige Sozialbehörde bestimmt Art und Mass der Unterstützung nach dem ausgewiesenen Bedarf unter Würdigung der örtlichen und persönlichen Verhältnisse. Sie berücksichtigt dabei die gesetzlichen Familienlasten der Bedürftigen, allfällige Krankheitsfälle sowie berufliche Ausbildungskosten Jugendlicher, für welche die bedürftige Person aufzukommen hat.
 
 <sup>2</sup> Bei der Bemessung des Unterstützungsbedarfs berücksichtigt die zuständige Sozialbehörde Versicherungsleistungen, andere Sozialzuschüsse sowie Zuwendungen Dritter.
 
@@ -74,7 +74,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 #### Art. 4
 
-**Pflichten des Unterstützten**
+**Pflichten der Unterstützten**
 
 <sup>1</sup> Die zu unterstützende und die unterstützte Person sind verpflichtet, jede sachdienliche Auskunft zu erteilen, die nötigen Unterlagen beizubringen sowie den mit der Unterstützungsleistung verbundenen Auflagen der Sozialbehörden Folge zu leisten.
 
@@ -90,13 +90,13 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 **Zuständigkeit für die Unterstützung**
 
-<sup>1</sup> Die Unterstützungspflicht obliegt der politischen Gemeinde, in welcher der Bedürftige seinen Wohnsitz hat.
+<sup>1</sup> Die Unterstützungspflicht obliegt der politischen Gemeinde, in welcher die bedürftige Person ihren Wohnsitz hat.
 
-<sup>2</sup> Der Bedürftige hat seinen Wohnsitz in der Gemeinde, in welcher er sich mit der Absicht dauernden Verbleibens aufhält.
+<sup>2</sup> Die bedürftige Person hat ihren Wohnsitz in der Gemeinde, in welcher sie sich mit der Absicht dauernden Verbleibens aufhält.
 
-<sup>3</sup> Bei blossem Aufenthalt obliegt die Unterstützungshilfe für Kantonsbürger und für Bürger anderer Kantone, soweit gemäss Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger[^5-1] eine Unterstützungspflicht im Kanton besteht, der Gemeinde, in welcher sich der Bedürftige aufhält.
+<sup>3</sup> Bei blossem Aufenthalt obliegt die Unterstützungshilfe für Schweizerinnen und Schweizer, soweit gemäss Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger[^5-1] eine Unterstützungspflicht im Kanton besteht, der Gemeinde, in welcher sich die bedürftige Person aufhält.
 
-<sup>4</sup> Für die Unterstützung von Ausländern mit Wohnsitz oder Aufenthalt im Kanton gelten sinngemäss die Bestimmungen des Bundesgesetzes[^5-2].
+<sup>4</sup> Für die Unterstützung von Ausländerinnen und Ausländern mit Wohnsitz oder Aufenthalt im Kanton gelten sinngemäss die Bestimmungen des Bundesgesetzes[^5-2].
 
 <sup>5</sup> …
 
@@ -119,7 +119,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Begründung und Aufgabe des Wohnsitzes richten sich nach den Grundsätzen, die gemäss Bundesgesetz[^6-1] im interkantonalen Verhältnis gelten.
 
-<sup>2</sup> Verlegt ein Bürger eines anderen Kantons den Wohnsitz innerhalb des Kantons, so geht die Unterstützungspflicht mit sofortiger Wirkung auf die neue Wohngemeinde über.
+<sup>2</sup> Verlegt die bedürftige Person den Wohnsitz innerhalb des Kantons, so geht die Unterstützungspflicht mit sofortiger Wirkung auf die neue Wohngemeinde über.
 
 <sup>3</sup> Der Aufenthalt in einem Heim, einem Spital oder in einer anderen Einrichtung sowie behördliche oder durch die Kindes- und Erwachsenenschutzbehörde angeordnete Unterbringung in Familienpflege begründet keinen Unterstützungswohnsitz.
 
@@ -145,9 +145,9 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 **Rückerstattungen**
 
-<sup>1</sup> Beiträge, die von unterstützungspflichtigen Verwandten geleistet werden, sind zwischen dem Kanton, der Wohngemeinde und derjenigen politischen Gemeinde, in welcher der Betroffene sein Bürgerrecht hat, im Verhältnis der auf sie entfallenden Unterstützungskosten zu verteilen.
+<sup>1</sup> Beiträge, die von unterstützungspflichtigen Verwandten geleistet werden, sind zwischen dem Kanton, der Wohngemeinde und derjenigen politischen Gemeinde, in welcher die betroffene Person ihr Bürgerrecht hat, im Verhältnis der auf sie entfallenden Unterstützungskosten zu verteilen.
 
-<sup>2</sup> Verbessern sich die Vermögens- oder Erwerbsverhältnisse des Unterstützten, so hat er die in den letzten 15 Jahren bezogene Unterstützungshilfe ohne Zins zurückzuerstatten. Die Rückerstattung hat nur soweit zu erfolgen, als dadurch keine neue Bedürftigkeit entsteht.
+<sup>2</sup> Verbessern sich die Vermögens- oder Erwerbsverhältnisse der unterstützten Person, so hat sie die in den letzten 15 Jahren bezogene Unterstützungshilfe ohne Zins zurückzuerstatten. Die Rückerstattung hat nur soweit zu erfolgen, als dadurch keine neue Bedürftigkeit entsteht.
 
 <sup>3</sup> Eine zu Unrecht bezogene Unterstützung muss mit Zinsen zurückerstattet werden.
 
@@ -164,13 +164,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 #### Art. 12
 
-**Meldewesen**
-
-<sup>1</sup> Die Meldepflicht der Wohngemeinde wird in der Vollziehungsverordnung[^12-1] näher geregelt.
-
-<sup>2</sup> Die Missachtung der Meldepflicht führt zum Verlust des Ersatzanspruches.
-
-[^12-1]: BR [546.260](https://www.gr-lex.gr.ch/data/546.260/de)
+**…**
 
 #### Art. 13
 
@@ -195,9 +189,10 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 - a) von bedürftigen Personen auf der Durchreise;
 - b) von Personen im Asylverfahren sowie vorläufig Aufgenommenen;
 - c) von Personen mit einem rechtskräftig abgewiesenen Asylgesuch oder ohne Aufenthaltsrecht;
-- d) in ausserordentlichen Fällen.
+- d) in ausserordentlichen Fällen;
+- e) von Schweizerinnen und Schweizern mit fahrender Lebensweise, die ganzjährig oder vorübergehend einen dauerhaft bereitgestellten Durchgangs- oder Standplatz nutzen.
 
-<sup>2</sup> Der Kanton trägt die Unterstützungskosten von in anderen Kantonen oder Staaten wohnenden Kantonsbürgerinnen und -bürgern nach Massgabe der Bundesgesetzgebung und allfälliger Staatsverträge.
+<sup>2</sup> …
 
 <sup>3</sup> Er besorgt den Verkehr mit ausserkantonalen Stellen.
 
@@ -265,11 +260,7 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 #### Art. 20
 
-**Vollzug**
-
-<sup>1</sup> Der Grosse Rat erlässt die erforderliche Vollziehungsverordnung[^20-1].
-
-[^20-1]: BR [546.260](https://www.gr-lex.gr.ch/data/546.260/de)
+**…**
 
 #### Art. 20a
 
