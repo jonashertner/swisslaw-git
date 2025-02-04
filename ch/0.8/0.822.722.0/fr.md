@@ -3,16 +3,16 @@ sr: "0.822.722.0"
 title: "Convention n<sup>o</sup> 120 du 8 juillet 1964 concernant l'hygiène dans le commerce et les bureaux (avec recommandation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/544_563_561"
 language: fr
-version: 2010-08-18
+version: 2025-02-05
 adopted: 1964-07-08
 in_force: 1967-02-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/544_563_561/20100818/fr/xml/fedlex-data-admin-ch-eli-cc-1966-544_563_561-20100818-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/544_563_561/20100818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/544_563_561/20250205/fr/xml/fedlex-data-admin-ch-eli-cc-1966-544_563_561-20250205-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/544_563_561/20250205/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention n<sup>o</sup> 120 concernant l’hygiène dans le commerce et les bureaux
+# Convention n° 120 concernant l’hygiène dans le commerce et les bureaux
 
 RO **1966** 563; FF **1965** I 686
 
@@ -26,17 +26,17 @@ Instrument de ratification déposé par la Suisse le 18 février 1966
 
 Entrée en vigueur pour la Suisse le 18 février 1967
 
-(Etat le 18 août 2010)
+(État le 5 février 2025)
 
 [^t-1]: [RO 1966 562](https://fedlex.data.admin.ch/eli/oc/1966/543_562_560)
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-Convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 17 juin 1964, en sa quarante‑huitième session;
+Convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 17 juin 1964, en sa quarante‑huitième session,
 
-Après avoir décidé d’adopter diverses propositions relatives à l’hygiène dans le commerce et les bureaux, question qui constitue le quatrième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à l’hygiène dans le commerce et les bureaux, question qui constitue le quatrième point à l’ordre du jour de la session,
 
-Après avoir décidé que certaines de ces propositions prendraient la forme d’une convention internationale,
+après avoir décidé que certaines de ces propositions prendraient la forme d’une convention internationale,
 
 adopte, ce huitième jour de juillet mil neuf cent soixante‑quatre, la convention ci‑après, qui sera dénommée Convention sur l’hygiène (commerce et bureaux), 1964.
 
@@ -46,9 +46,9 @@ adopte, ce huitième jour de juillet mil neuf cent soixante‑quatre, la convent
 
 La présente convention s’applique:
 
-- a. Aux établissements commerciaux;
-- b. Aux établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à un travail de bureau;
-- c. Dans la mesure où ils ne sont pas soumis à la législation nationale ou à d’autres dispositions régissant l’hygiène dans l’industrie, les mines, les transports ou l’agriculture, à tous services d’autres établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à des activités commerciales ou à des travaux de bureau.
+- a. aux établissements commerciaux;
+- b. aux établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à un travail de bureau;
+- c. dans la mesure où ils ne sont pas soumis à la législation nationale ou à d’autres dispositions régissant l’hygiène dans l’industrie, les mines, les transports ou l’agriculture, à tous services d’autres établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à des activités commerciales ou à des travaux de bureau.
 
 #### Art. 2
 
@@ -62,8 +62,8 @@ Dans tous les cas où il n’apparaît pas certain que la présente convention s
 
 Tout Membre qui ratifie la présente convention s’engage:
 
-- a. A adopter et à maintenir en vigueur une législation qui assure l’application des principes généraux contenus dans la partie II;
-- b. A assurer que, dans la mesure où les conditions nationales le permettent et le rendent désirable, il soit donné effet aux dispositions de la recommandation sur l’hygiène (commerce et bureaux), 1964 ou à des dispositions équivalentes.
+- a. à adopter et à maintenir en vigueur une législation qui assure l’application des principes généraux contenus dans la partie II;
+- b. à assurer que, dans la mesure où les conditions nationales le permettent et le rendent désirable, il soit donné effet aux dispositions de la recommandation sur l’hygiène (commerce et bureaux), 1964 ou à des dispositions équivalentes.
 
 #### Art. 5
 
@@ -129,9 +129,9 @@ Les bruits et les vibrations susceptibles de produire sur les travailleurs des e
 
 Tout établissement, institution, administration ou service auquel s’applique la présente convention doit, suivant son importance et suivant les risques supputés:
 
-- a. Soit posséder sa propre infirmerie ou son propre poste de premiers secours;
-- b. Soit posséder une infirmerie ou un poste de premiers secours en commun avec d’autres établissements, institutions, administrations ou services;
-- c. Soit posséder une ou plusieurs armoires, boîtes ou trousses de premiers secours.
+- a. soit posséder sa propre infirmerie ou son propre poste de premiers secours;
+- b. soit posséder une infirmerie ou un poste de premiers secours en commun avec d’autres établissements, institutions, administrations ou services;
+- c. soit posséder une ou plusieurs armoires, boîtes ou trousses de premiers secours.
 
 ## III. Dispositions finales
 
@@ -175,8 +175,8 @@ Chaque fois qu’il le jugera nécessaire, le Conseil d’administration du Bure
 
 Au cas où la Conférence adopterait une nouvelle convention portant revision totale ou partielle de la présente convention, et à moins que la nouvelle convention ne dispose autrement:
 
-- a. La ratification par un Membre de la nouvelle convention portant revision entraînerait de plein droit, nonobstant l’art. 22 ci‑dessus, dénonciation immédiate de la présente convention, sous réserve que la nouvelle convention portant revision soit entrée en vigueur;
-- b. A partir de la date de l’entrée en vigueur de la nouvelle convention portant revision, la présente convention cesserait d’être ouverte à la ratification des Membres.
+- a. la ratification par un Membre de la nouvelle convention portant revision entraînerait de plein droit, nonobstant l’art. 22 ci‑dessus, dénonciation immédiate de la présente convention, sous réserve que la nouvelle convention portant revision soit entrée en vigueur;
+- b. à partir de la date de l’entrée en vigueur de la nouvelle convention portant revision, la présente convention cesserait d’être ouverte à la ratification des Membres.
 
 <sup>2.</sup> La présente convention demeurerait en tout cas en vigueur dans sa forme et teneur pour les Membres qui l’auraient ratifiée et qui ne ratifieraient pas la convention portant revision.
 
@@ -184,7 +184,7 @@ Au cas où la Conférence adopterait une nouvelle convention portant revision to
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-## Recommandation (n<sup>o</sup> 120) concernant l’hygiène dans le commerce et les bureaux
+## Recommandation (n° 120) concernant l’hygiène dans le commerce et les bureaux
 
 La Conférence générale de l’Organisation internationale du Travail,
 
@@ -200,18 +200,18 @@ I. Champ d’application
 
 \1. La présente recommandation s’applique à tous les établissements, institutions ou administrations ci‑dessous, qu’ils soient publics ou privés:
 
-- a. Les établissements commerciaux;
-- b. Les établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à un travail de bureau, y compris les bureaux des professions libérales;
-- c. Dans la mesure où ils ne sont pas visés par le par. 2 ni soumis à la législation nationale ou à d’autres dispositions régissant l’hygiène dans l’industrie, les mines, les transports ou l’agriculture: les services d’autres établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à des activités commerciales ou à des travaux de bureau.
+- a. les établissements commerciaux;
+- b. les établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à un travail de bureau, y compris les bureaux des professions libérales;
+- c. dans la mesure où ils ne sont pas visés par le par. 2 ni soumis à la législation nationale ou à d’autres dispositions régissant l’hygiène dans l’industrie, les mines, les transports ou l’agriculture: les services d’autres établissements, institutions ou administrations dans lesquels les travailleurs sont occupés principalement à des activités commerciales ou à des travaux de bureau.
 
 \2. La présente recommandation s’applique également aux établissements, institutions et administrations suivants:
 
-- a. Les établissements, institutions et administrations fournissant des services d’ordre personnel;
-- b. Les postes et les services de télécommunications;
-- c. Les entreprises de presse et d’édition;
-- d. Les hôtels et les pensions;
-- e. Les restaurants, cercles, cafés et autres établissements où sont servies des consommations;
-- f. Les entreprises de spectacles et de divertissements publics et autres services récréatifs.
+- a. les établissements, institutions et administrations fournissant des services d’ordre personnel;
+- b. les postes et les services de télécommunications;
+- c. les entreprises de presse et d’édition;
+- d. les hôtels et les pensions;
+- e. les restaurants, cercles, cafés et autres établissements où sont servies des consommations;
+- f. les entreprises de spectacles et de divertissements publics et autres services récréatifs.
 - 3\. (1) Au besoin, des dispositions appropriées devraient être prises pour déterminer, après consultation des organisations représentatives d’employeurs et de travailleurs intéressées, la ligne de démarcation entre les établissements, institutions ou administrations auxquels s’applique la présente recommandation et les autres établissements.
 - (2) Dans tous les cas où il n’apparaît pas certain que la présente recommandation s’applique à un établissement, à une institution ou à une administration déterminés, la question devrait être tranchée soit par l’autorité compétente, après consultation des organisations représentatives d’employeurs et de travailleurs intéressées, soit selon toute autre méthode conforme à la législation et à la pratique nationales.
 
@@ -219,10 +219,10 @@ II. Méthodes d’application
 
 \4. Compte tenu de la diversité des conditions et des pratiques nationales, il pourrait être donné effet aux dispositions de la présente recommandation:
 
-- a. Soit par voie de législation nationale;
-- b. Soit par voie de conventions collectives ou par toute autre forme d’accord passé entre les employeurs et les travailleurs intéressés;
-- c. Soit par voie de sentences arbitrales;
-- d. Soit par toute autre voie approuvée par l’autorité compétente après consultation des organisations représentatives d’employeurs et de travailleurs intéressées.
+- a. soit par voie de législation nationale;
+- b. soit par voie de conventions collectives ou par toute autre forme d’accord passé entre les employeurs et les travailleurs intéressés;
+- c. soit par voie de sentences arbitrales;
+- d. soit par toute autre voie approuvée par l’autorité compétente après consultation des organisations représentatives d’employeurs et de travailleurs intéressées.
 
 III. Entretien et propreté
 
@@ -233,14 +233,14 @@ III. Entretien et propreté
 
   Il faudrait notamment que soient nettoyés régulièrement:
 
-  - a. Le sol, les escaliers et les couloirs;
-  - b. Les vitres destinées à éclairer les locaux et les sources d’éclairage artificiel;
-  - c. Les murs, les plafonds et l’équipement.
+  - a. le sol, les escaliers et les couloirs;
+  - b. les vitres destinées à éclairer les locaux et les sources d’éclairage artificiel;
+  - c. les murs, les plafonds et l’équipement.
 
 \7. Le nettoyage devrait être effectué:
 
-- a. Par des procédés soulevant le moins possible de poussière;
-- b. En dehors des heures de travail, sauf exigences particulières ou lorsque l’opération de nettoyage peut être effectuée sans inconvénient pour les travailleurs pendant les heures de travail.
+- a. par des procédés soulevant le moins possible de poussière;
+- b. en dehors des heures de travail, sauf exigences particulières ou lorsque l’opération de nettoyage peut être effectuée sans inconvénient pour les travailleurs pendant les heures de travail.
 
 \8. Les vestiaires, les toilettes, les lavabos et, au besoin, d’autres installations communes mises à la disposition des travailleurs devraient être nettoyés régulièrement et désinfectés périodiquement.
 
@@ -254,14 +254,14 @@ IV. Aérage et ventilation
 
 \12. Il faudrait notamment que:
 
-- a. Les dispositifs d’aération naturelle ou de ventilation artificielle soient conçus de telle sorte qu’ils assurent l’introduction d’une quantité suffisante d’air neuf ou épuré dans le local, par personne et par heure, compte tenu de la nature et des conditions du travail;
-- b. Des dispositions soient prises pour, dans la mesure du possible, éliminer ou rendre inoffensives les émanations, les poussières et les autres impuretés incommodantes ou nuisibles produites en cours de travail;
-- c. La vitesse normale de déplacement de l’air aux emplacements de travail fixes ne soit préjudiciable ni à la santé ni au confort des personnes qui y sont occupées;
-- d. Dans la mesure du possible et pour autant que les circonstances l’exigent, des mesures appropriées soient prises en vue d’assurer, dans les locaux fermés, un degré hygrométrique convenable de l’air.
+- a. les dispositifs d’aération naturelle ou de ventilation artificielle soient conçus de telle sorte qu’ils assurent l’introduction d’une quantité suffisante d’air neuf ou épuré dans le local, par personne et par heure, compte tenu de la nature et des conditions du travail;
+- b. des dispositions soient prises pour, dans la mesure du possible, éliminer ou rendre inoffensives les émanations, les poussières et les autres impuretés incommodantes ou nuisibles produites en cours de travail;
+- c. la vitesse normale de déplacement de l’air aux emplacements de travail fixes ne soit préjudiciable ni à la santé ni au confort des personnes qui y sont occupées;
+- d. dans la mesure du possible et pour autant que les circonstances l’exigent, des mesures appropriées soient prises en vue d’assurer, dans les locaux fermés, un degré hygrométrique convenable de l’air.
 
 \13. Lorsqu’un lieu de travail est pourvu d’un système de conditionnement d’air, une ventilation de sécurité appropriée, naturelle ou artificielle, devrait être prévue.
 
-V. Eclairage
+V. Éclairage
 
 \14. Tous les lieux affectés au travail ou prévus pour les déplacements des travailleurs ou encore utilisés pour les installations sanitaires ou d’autres installations communes mises à la disposition des travailleurs devraient être pourvus, pendant qu’ils sont susceptibles d’être utilisés, d’un éclairage, soit naturel, soit artificiel, soit de ces deux modes d’éclairage, d’une façon suffisante et adaptée aux besoins.
 
@@ -269,14 +269,14 @@ V. Eclairage
 
 - a.
 
-  Pour assurer le confort visuel:
+  pour assurer le confort visuel:
 
   - (i) par des baies d’éclairage naturel, réparties d’une façon appropriée, et de dimensions suffisantes;
   - (ii) par un choix judicieux et une répartition appropriée des sources d’éclairage artificiel;
   - (iii) par un choix judicieux des couleurs à donner aux locaux et à l’équipement de ceux‑ci;
 
-- b. Pour prévenir la gêne ou les troubles provenant de l’éblouissement, des contrastes excessifs d’ombre et de lumière, de la réflexion de la lumière et des éclairages directs trop intenses;
-- c. Pour éliminer tout papillotement nuisible lorsqu’on utilise l’éclairage artificiel.
+- b. pour prévenir la gêne ou les troubles provenant de l’éblouissement, des contrastes excessifs d’ombre et de lumière, de la réflexion de la lumière et des éclairages directs trop intenses;
+- c. pour éliminer tout papillotement nuisible lorsqu’on utilise l’éclairage artificiel.
 
 \16. Partout où un éclairage naturel suffisant peut, sans trop de difficultés, être réalisé, la préférence devrait lui être donnée.
 
@@ -308,9 +308,9 @@ VII. Espace unitaire de travail
 
 \27. L’autorité compétente devrait préciser:
 
-- a. La superficie à prévoir dans les locaux fermés pour chaque travailleur qui y travaille régulièrement;
-- b. Le volume minimum, libre de tout encombrement, à prévoir dans tout local fermé pour chaque travailleur qui y travaille régulièrement;
-- c. La hauteur minimum des locaux neufs fermés où un travail s’effectuera régulièrement.
+- a. la superficie à prévoir dans les locaux fermés pour chaque travailleur qui y travaille régulièrement;
+- b. le volume minimum, libre de tout encombrement, à prévoir dans tout local fermé pour chaque travailleur qui y travaille régulièrement;
+- c. la hauteur minimum des locaux neufs fermés où un travail s’effectuera régulièrement.
 
 VIII. Eau potable
 
@@ -320,10 +320,10 @@ VIII. Eau potable
 
   Les récipients utilisés pour la distribution de l’eau potable ou de toute autre boisson autorisée:
 
-  - a. Devraient être à fermeture étanche, et, le cas échéant, munis d’un robinet;
-  - b. Devraient porter une indication lisible précisant la nature de leur contenu;
-  - c. Ne devraient pas être des seaux, des tonneaux ou d’autres récipients à large ouverture, munis ou non d’un couvercle, dans lesquels il serait possible de plonger un instrument pour puiser du liquide;
-  - d. Devraient être constamment tenus en état de propreté.
+  - a. devraient être à fermeture étanche, et, le cas échéant, munis d’un robinet;
+  - b. devraient porter une indication lisible précisant la nature de leur contenu;
+  - c. ne devraient pas être des seaux, des tonneaux ou d’autres récipients à large ouverture, munis ou non d’un couvercle, dans lesquels il serait possible de plonger un instrument pour puiser du liquide;
+  - d. devraient être constamment tenus en état de propreté.
 
 - (2) Un nombre suffisant de récipients pour boire devrait être disponible; il devrait être possible de les laver avec de l’eau propre.
 - (3) L’usage de gobelets collectifs devrait être interdit.
@@ -380,8 +380,8 @@ XII. Vestiaires
 
   Les vestiaires devraient comporter:
 
-  - a. Des armoires individuelles de dimensions suffisantes, convenablement aérées et pouvant être fermées à clé, ou d’autres aménagements offrant les mêmes avantages;
-  - b. Des sièges en nombre suffisant.
+  - a. des armoires individuelles de dimensions suffisantes, convenablement aérées et pouvant être fermées à clé, ou d’autres aménagements offrant les mêmes avantages;
+  - b. des sièges en nombre suffisant.
 
 - (2) Des compartiments distincts devraient être prévus pour les vêtements de ville et l’équipement de travail, lorsque les travailleurs effectuent des opérations telles que le port d’un équipement de travail est nécessaire et que celui‑ci peut être contaminé, fortement souillé, maculé ou imprégné.
 
@@ -399,18 +399,18 @@ XIV. Substances et procédés incommodes, insalubres ou toxiques
 
 \52. Il faudrait notamment que:
 
-- a. Toutes mesures appropriées et praticables soient prises pour remplacer ces substances ou ces procédés par des substances ou des procédés qui ne soient ni incommodes, ni insalubres, ni toxiques ou dangereux pour quelque raison que ce soit, ou qui le soient moins;
-- b. L’autorité compétente encourage les mesures de remplacement prévues à l’alinéa a et, dans le cas de la vente au détail, l’emploi de procédés ou de conditionnements excluant tout danger, et fournisse des conseils en la matière;
-- c. Lorsqu’il ne serait pas possible de recourir aux mesures de remplacement prévues à l’alinéa a, d’autres moyens de protection, tels que clôtures, isolation, ventilation, soient utilisés;
-- d. L’équipement prévu pour le contrôle et pour l’élimination des substances incommodes, insalubres, toxiques ou dangereuses pour quelque raison que ce soit, soit tenu en bon état à tout moment;
-- e. Toutes mesures appropriées et praticables soient prises pour protéger les travailleurs contre les risques résultant notamment du renversement, de l’écoulement, du dégagement, de l’éclaboussement de substances incommodes, insalubres, ou toxiques ou dangereuses pour quelque raison que ce soit;
-- f. Lorsqu’on manipule des substances toxiques ou dangereuses pour quelque raison que ce soit, il soit interdit de fumer, de manger, de boire ou de se farder; les produits alimentaires, les boissons, le tabac ou les produits pour se farder utilisés par les travailleurs ne devraient pas être exposés à la contamination de telles substances.
+- a. toutes mesures appropriées et praticables soient prises pour remplacer ces substances ou ces procédés par des substances ou des procédés qui ne soient ni incommodes, ni insalubres, ni toxiques ou dangereux pour quelque raison que ce soit, ou qui le soient moins;
+- b. l’autorité compétente encourage les mesures de remplacement prévues à l’alinéa a et, dans le cas de la vente au détail, l’emploi de procédés ou de conditionnements excluant tout danger, et fournisse des conseils en la matière;
+- c. lorsqu’il ne serait pas possible de recourir aux mesures de remplacement prévues à l’alinéa a, d’autres moyens de protection, tels que clôtures, isolation, ventilation, soient utilisés;
+- d. l’équipement prévu pour le contrôle et pour l’élimination des substances incommodes, insalubres, toxiques ou dangereuses pour quelque raison que ce soit, soit tenu en bon état à tout moment;
+- e. toutes mesures appropriées et praticables soient prises pour protéger les travailleurs contre les risques résultant notamment du renversement, de l’écoulement, du dégagement, de l’éclaboussement de substances incommodes, insalubres, ou toxiques ou dangereuses pour quelque raison que ce soit;
+- f. lorsqu’on manipule des substances toxiques ou dangereuses pour quelque raison que ce soit, il soit interdit de fumer, de manger, de boire ou de se farder; les produits alimentaires, les boissons, le tabac ou les produits pour se farder utilisés par les travailleurs ne devraient pas être exposés à la contamination de telles substances.
 
 \53. Les récipients contenant des substances dangereuses devraient porter:
 
-- a. Un emblème de danger conforme aux normes internationales reconnues et caractérisant, au besoin, la nature du risque;
-- b. Le nom de la substance ou une désignation de repérage;
-- c. Dans la mesure du possible, les consignes essentielles relatives aux premiers soins à administrer dans les cas où la substance aurait porté atteinte à la santé ou à l’intégrité physique d’une personne.
+- a. un emblème de danger conforme aux normes internationales reconnues et caractérisant, au besoin, la nature du risque;
+- b. le nom de la substance ou une désignation de repérage;
+- c. dans la mesure du possible, les consignes essentielles relatives aux premiers soins à administrer dans les cas où la substance aurait porté atteinte à la santé ou à l’intégrité physique d’une personne.
 - 54\. (1) Lorsque, malgré les mesures prises conformément aux par. 51 et 52, les opérations effectuées sont particulièrement salissantes ou comportent l’utilisation, la manutention ou la manipulation de substances, ou l’utilisation de procédés, qui sont insalubres, toxiques ou dangereux pour quelque raison que ce soit, et compte tenu de l’importance et de la nature des risques, les travailleurs devraient être protégés de manière adéquate par des vêtements de protection ou tout autre équipement ou moyen de protection individuelle nécessaires.
 - (2) Les vêtements, l’équipement et les moyens de protection individuelle devraient, selon le genre d’opération, comprendre, par exemple, un ou plusieurs des articles suivants: manteaux, blouses, tabliers, lunettes, gants, bonnets, casques, appareils respiratoires, chaussures, crèmes barrière et poudres spéciales.
 - (3) L’autorité compétente devrait fixer, au besoin, des normes d’efficacité minima pour les équipements et autres moyens de protection individuelle.
@@ -428,16 +428,16 @@ XV. Bruits et vibrations
 
   Une attention spéciale devrait être accordée:
 
-  - a. A l’atténuation notable des bruits et des vibrations produits par les machines, mécanismes et appareils sonores;
-  - b. A l’isolation des sources des bruits et des vibrations qui ne peuvent être atténués;
-  - c. A la limitation de l’intensité et de la durée des émissions sonores, émissions musicales comprises;
-  - d. A l’installation d’un dispositif d’insonorisation pour isoler les bureaux du bruit des ateliers, des ascenseurs, des convoyeurs ou de la rue, chaque fois que les circonstances s’y prêtent.
+  - a. à l’atténuation notable des bruits et des vibrations produits par les machines, mécanismes et appareils sonores;
+  - b. à l’isolation des sources des bruits et des vibrations qui ne peuvent être atténués;
+  - c. à la limitation de l’intensité et de la durée des émissions sonores, émissions musicales comprises;
+  - d. à l’installation d’un dispositif d’insonorisation pour isoler les bureaux du bruit des ateliers, des ascenseurs, des convoyeurs ou de la rue, chaque fois que les circonstances s’y prêtent.
 
 \58. Dans le cas où les mesures prévues au sous‑paragraphe (2) du par. 57 se révéleraient insuffisantes pour éliminer de façon adéquate les effets nuisibles du bruit et des vibrations:
 
-- a. Les travailleurs devraient être munis de protecteurs auriculaires appropriés quand ils sont exposés à des émissions sonores susceptibles de produire des effets nuisibles;
-- b. Des pauses de détentes systématiques, comprises dans les heures de travail, dans des locaux ou des lieux où il n’existe pas d’émissions sonores ni de vibrations, devraient être octroyées aux travailleurs qui sont exposés à des émissions sonores et à des vibrations susceptibles de produire des effets nuisibles;
-- c. Des systèmes de répartition ou de rotation des occupations devraient au besoin être appliqués.
+- a. les travailleurs devraient être munis de protecteurs auriculaires appropriés quand ils sont exposés à des émissions sonores susceptibles de produire des effets nuisibles;
+- b. des pauses de détentes systématiques, comprises dans les heures de travail, dans des locaux ou des lieux où il n’existe pas d’émissions sonores ni de vibrations, devraient être octroyées aux travailleurs qui sont exposés à des émissions sonores et à des vibrations susceptibles de produire des effets nuisibles;
+- c. des systèmes de répartition ou de rotation des occupations devraient au besoin être appliqués.
 
 XVI. Méthodes et rythmes de travail
 
@@ -453,9 +453,9 @@ XVII. Premiers secours
 
 \63. Tout établissement, institution, administration ou service auquel s’applique la présente recommandation devrait, suivant son importance et suivant les risques supputés:
 
-- a. Soit posséder sa propre infirmerie ou son propre poste de premiers secours;
-- b. Soit posséder une infirmerie ou un poste de premiers secours en commun avec d’autres établissements, institutions, administrations ou services;
-- c. Soit posséder une ou plusieurs armoires, boîtes ou trousses de premiers secours.
+- a. soit posséder sa propre infirmerie ou son propre poste de premiers secours;
+- b. soit posséder une infirmerie ou un poste de premiers secours en commun avec d’autres établissements, institutions, administrations ou services;
+- c. soit posséder une ou plusieurs armoires, boîtes ou trousses de premiers secours.
 - 64\. (1) L’équipement des infirmeries, postes, armoires, boîtes ou trousses de premiers secours prévus au par. 63 devrait être déterminé par l’autorité compétente suivant l’importance du personnel et la nature des risques.
 - (2) Le contenu des armoires, boîtes ou trousses de premiers secours devrait être conservé dans des conditions d’asepsie et convenablement entretenu; il devrait être vérifié au moins une fois par mois et les armoires, boîtes ou trousses devraient être regarnies à cette occasion ou, dans les cas où cela est nécessaire, immédiatement après usage.
 - (3) Chaque armoire, boîte ou trousse de premiers secours devrait contenir des instructions claires et simples pour les premiers soins à donner en cas d’urgence et porter de façon apparente le nom de la personne responsable désignée conformément au par. 65. Leur contenu devrait être soigneusement étiqueté.
@@ -479,9 +479,9 @@ XIX. Salles de repos
 
 \70. Les salles de repos ainsi prévues devraient comprendre au moins:
 
-- a. Un local comptant des aménagements appropriés au climat pour diminuer les inconvénients du froid ou de la chaleur;
-- b. Une ventilation et un éclairage adéquats;
-- c. Des sièges appropriés en nombre suffisant.
+- a. un local comptant des aménagements appropriés au climat pour diminuer les inconvénients du froid ou de la chaleur;
+- b. une ventilation et un éclairage adéquats;
+- c. des sièges appropriés en nombre suffisant.
 
 XX. Plans et construction
 
@@ -489,13 +489,13 @@ XX. Plans et construction
 
 \72. Les plans devraient comporter des données suffisantes, concernant notamment:
 
-- a. L’emplacement des locaux de travail, ainsi que des voies de circulation, des sorties normales, des issues de secours et des installations sanitaires;
-- b. Les dimensions des locaux de travail et des issues de secours, ainsi que des portes et fenêtres, avec indication de la hauteur des appuis;
-- c. La nature des sols, des parois et des plafonds;
-- d. Toutes machines et installations susceptibles d’émettre ou de dégager de la chaleur, de la vapeur, des gaz, des poussières, des odeurs, de la lumière, des bruits ou des vibrations en quantité telle que la santé, la sécurité ou le confort des travailleurs puissent en souffrir, ainsi que les mesures proposées pour combattre ces inconvénients;
-- e. Les modes de chauffage et d’éclairage;
-- f. Les installations éventuelles de ventilation mécanique;
-- g. Tous moyens d’insonorisation, de protection contre l’humidité et de réglage de la température.
+- a. l’emplacement des locaux de travail, ainsi que des voies de circulation, des sorties normales, des issues de secours et des installations sanitaires;
+- b. les dimensions des locaux de travail et des issues de secours, ainsi que des portes et fenêtres, avec indication de la hauteur des appuis;
+- c. la nature des sols, des parois et des plafonds;
+- d. toutes machines et installations susceptibles d’émettre ou de dégager de la chaleur, de la vapeur, des gaz, des poussières, des odeurs, de la lumière, des bruits ou des vibrations en quantité telle que la santé, la sécurité ou le confort des travailleurs puissent en souffrir, ainsi que les mesures proposées pour combattre ces inconvénients;
+- e. les modes de chauffage et d’éclairage;
+- f. les installations éventuelles de ventilation mécanique;
+- g. tous moyens d’insonorisation, de protection contre l’humidité et de réglage de la température.
 
 \73. L’autorité compétente devrait accorder des délais raisonnables pour toute modification qu’elle exigerait afin que les établissements, institutions, administrations ou services auxquels s’applique la présente recommandation répondent aux dispositions de celle‑ci.
 
@@ -510,8 +510,8 @@ XXI. Mesures à prendre contre la propagation des maladies
 
   Ces dispositions devraient notamment comprendre:
 
-  - a. Des mesures collectives ou individuelles de prévention technique et médicale, y compris la prévention des maladies infectieuses et la lutte contre les insectes, les rongeurs et autres animaux nuisibles;
-  - b. Des mesures de surveillance médicale.
+  - a. des mesures collectives ou individuelles de prévention technique et médicale, y compris la prévention des maladies infectieuses et la lutte contre les insectes, les rongeurs et autres animaux nuisibles;
+  - b. des mesures de surveillance médicale.
 
 XXII. Enseignement des mesures d’hygiène
 
@@ -521,8 +521,8 @@ XXII. Enseignement des mesures d’hygiène
 
   Les travailleurs devraient être informés notamment:
 
-  - a. Des risques pour la santé inhérents à toutes substances nuisibles qu’ils peuvent être appelés à manutentionner, à manipuler ou à employer, même s’il s’agit de produits d’un usage peu courant dans l’établissement considéré;
-  - b. De la nécessité de se servir convenablement des dispositifs et de l’équipement prévus à des fins d’hygiène et de protection.
+  - a. des risques pour la santé inhérents à toutes substances nuisibles qu’ils peuvent être appelés à manutentionner, à manipuler ou à employer, même s’il s’agit de produits d’un usage peu courant dans l’établissement considéré;
+  - b. de la nécessité de se servir convenablement des dispositifs et de l’équipement prévus à des fins d’hygiène et de protection.
 
 - (2) Si des indications relatives à l’hygiène ne peuvent être données dans une langue comprise par les travailleurs, ceux‑ci devraient au moins être informés, dans une langue comprise par eux, du sens de certains termes, expressions, symboles et emblèmes importants du point de vue de l’hygiène.
 
@@ -546,76 +546,75 @@ XXIV. Contrôle de l’application
 
 \84. Si les moyens par lesquels il est donné effet aux dispositions de la présente recommandation le permettent, l’application effective desdites dispositions devrait être assurée par l’institution d’un système de sanctions adéquat.
 
-Champ d’application le 18 août 2010**[^t-2]**
+Champ d’application le 5 février 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Algérie</td><td>12 juin</td><td>1969</td><td>12 juin</td><td>1970</td></tr>
-<tr><td colspan="2">Allemagne</td><td>5 décembre</td><td>1973</td><td>5 décembre</td><td>1974</td></tr>
-<tr><td colspan="2">Azerbaïdjan</td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
-<tr><td colspan="2">Bélarus</td><td>26 février</td><td>1968</td><td>26 février</td><td>1969</td></tr>
-<tr><td colspan="2">Belgique</td><td>17 mai</td><td>1978</td><td>17 mai</td><td>1979</td></tr>
-<tr><td colspan="2">Bolivie</td><td>31 janvier</td><td>1977</td><td>31 janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Brésil</td><td>24 mars</td><td>1969</td><td>24 mars</td><td>1970</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>29 mars</td><td>1965</td><td>29 mars</td><td>1966</td></tr>
-<tr><td colspan="2">Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Macao<sup>a</sup> <sup>b</sup></td><td>20 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>5 septembre</td><td>1967</td><td>5 septembre</td><td>1968</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>27 janvier</td><td>1966</td><td>27 janvier</td><td>1967</td></tr>
-<tr><td colspan="2">Cuba</td><td>5 février</td><td>1971</td><td>5 février</td><td>1972</td></tr>
-<tr><td colspan="2">Danemark<sup>c</sup></td><td>17 juin</td><td>1970</td><td>17 juin</td><td>1971</td></tr>
-<tr><td colspan="2">Djibouti</td><td>3 août</td><td>1978 S</td><td>3 août</td><td>1978</td></tr>
-<tr><td colspan="2">Equateur</td><td>10 mars</td><td>1969</td><td>10 mars</td><td>1970</td></tr>
-<tr><td colspan="2">Espagne</td><td>16 juin</td><td>1970</td><td>16 juin</td><td>1971</td></tr>
-<tr><td colspan="2">Finlande</td><td>23 septembre</td><td>1968</td><td>23 septembre</td><td>1969</td></tr>
-<tr><td colspan="2">France</td><td>6 avril</td><td>1972</td><td>6 avril</td><td>1973</td></tr>
-<tr><td colspan="2">[tab] Guadeloupe</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Guyana (française)</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Martinique</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Nouvelle-Calédonie</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Polynésie française</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Réunion</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Saint-Pierre-et-Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Ghana</td><td>21 novembre</td><td>1966</td><td>21 novembre</td><td>1967</td></tr>
-<tr><td colspan="2">Guatemala</td><td>21 octobre</td><td>1975</td><td>21 octobre</td><td>1976</td></tr>
-<tr><td colspan="2">Guinée</td><td>12 décembre</td><td>1966</td><td>12 décembre</td><td>1967</td></tr>
-<tr><td colspan="2">Indonésie</td><td>13 juin</td><td>1969</td><td>13 juin</td><td>1970</td></tr>
-<tr><td colspan="2">Iraq</td><td>6 mars</td><td>1987</td><td>6 mars</td><td>1988</td></tr>
-<tr><td colspan="2">Italie</td><td>5 mai</td><td>1971</td><td>5 mai</td><td>1972</td></tr>
-<tr><td colspan="2">Japon</td><td>21 juin</td><td>1993</td><td>21 juin</td><td>1994</td></tr>
-<tr><td colspan="2">Jordanie</td><td>11 mars</td><td>1965</td><td>29 mars</td><td>1966</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td>31 mars</td><td>1992 S</td><td>31 mars</td><td>1992</td></tr>
-<tr><td colspan="2">Lettonie</td><td>8 mars</td><td>1993</td><td>8 mars</td><td>1994</td></tr>
-<tr><td colspan="2">Liban</td><td>1<sup>er</sup> juin</td><td>1977</td><td>1<sup>er</sup> juin</td><td>1978</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>8 avril</td><td>2008</td><td>8 avril</td><td>2009</td></tr>
-<tr><td colspan="2">Madagascar</td><td>21 novembre</td><td>1966</td><td>21 novembre</td><td>1967</td></tr>
-<tr><td colspan="2">Mexique</td><td>18 juin</td><td>1968</td><td>18 juin</td><td>1969</td></tr>
-<tr><td colspan="2">Norvège</td><td>6 juin</td><td>1966</td><td>6 juin</td><td>1967</td></tr>
-<tr><td colspan="2">Panama</td><td>19 juin</td><td>1970</td><td>19 juin</td><td>1971</td></tr>
-<tr><td colspan="2">Paraguay</td><td>10 juillet</td><td>1967</td><td>10 juillet</td><td>1968</td></tr>
-<tr><td colspan="2">Pologne</td><td>26 juin</td><td>1968</td><td>26 juin</td><td>1969</td></tr>
-<tr><td colspan="2">Portugal</td><td>24 février</td><td>1983</td><td>24 février</td><td>1984</td></tr>
-<tr><td colspan="2">République centrafricaine</td><td>5 juin</td><td>2006</td><td>5 juin</td><td>2007</td></tr>
-<tr><td colspan="2">République tchèque</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Royaume-Uni</td><td>21 avril</td><td>1967</td><td>21 avril</td><td>1968</td></tr>
-<tr><td colspan="2">[tab] Gibraltar</td><td>18 avril</td><td>1975</td><td>18 avril</td><td>1975</td></tr>
-<tr><td colspan="2">[tab] Guernesey</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">[tab] Ile de Man</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Russie</td><td>22 septembre</td><td>1967</td><td>22 septembre</td><td>1968</td></tr>
-<tr><td colspan="2">Sénégal</td><td>25 avril</td><td>1966</td><td>25 avril</td><td>1967</td></tr>
-<tr><td colspan="2">Slovaquie</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Suède</td><td>11 juin</td><td>1965</td><td>11 juin</td><td>1966</td></tr>
-<tr><td colspan="2">Suisse</td><td>18 février</td><td>1966</td><td>18 février</td><td>1967</td></tr>
-<tr><td colspan="2">Syrie</td><td>10 juin</td><td>1965</td><td>10 juin</td><td>1966</td></tr>
-<tr><td colspan="2">Tadjikistan</td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
-<tr><td colspan="2">Tunisie</td><td>14 avril</td><td>1970</td><td>14 avril</td><td>1971</td></tr>
-<tr><td colspan="2">Ukraine</td><td>19 juin</td><td>1968</td><td>19 juin</td><td>1969</td></tr>
-<tr><td colspan="2">Uruguay</td><td>6 septembre</td><td>1995</td><td>6 septembre</td><td>1996</td></tr>
-<tr><td colspan="2">Venezuela</td><td>3 juin</td><td>1971</td><td>3 juin</td><td>1972</td></tr>
-<tr><td colspan="2">Vietnam</td><td>3 octobre</td><td>1994</td><td>3 octobre</td><td>1995</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Applicable sans modification.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Du 9 août 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 juillet 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">La conv. ne s'applique pas aux Iles Féroé, ni au Groenland.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Algérie</td><td>12 juin</td><td>1969</td><td>12 juin</td><td>1970</td></tr>
+<tr><td>Allemagne</td><td>5 décembre</td><td>1973</td><td>5 décembre</td><td>1974</td></tr>
+<tr><td>Arabie Saoudite</td><td>7 décembre</td><td>2020 A</td><td>7 décembre</td><td>2021</td></tr>
+<tr><td>Azerbaïdjan</td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
+<tr><td>Bélarus</td><td>26 février</td><td>1968</td><td>26 février</td><td>1969</td></tr>
+<tr><td>Belgique</td><td>17 mai</td><td>1978</td><td>17 mai</td><td>1979</td></tr>
+<tr><td>Bolivie</td><td>31 janvier</td><td>1977</td><td>31 janvier</td><td>1978</td></tr>
+<tr><td>Brésil</td><td>24 mars</td><td>1969</td><td>24 mars</td><td>1970</td></tr>
+<tr><td>Bulgarie</td><td>29 mars</td><td>1965</td><td>29 mars</td><td>1966</td></tr>
+<tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Macao <sup>a</sup> <sup>b</sup></td><td>20 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>5 septembre</td><td>1967</td><td>5 septembre</td><td>1968</td></tr>
+<tr><td>Costa Rica</td><td>27 janvier</td><td>1966</td><td>27 janvier</td><td>1967</td></tr>
+<tr><td>Cuba</td><td>5 février</td><td>1971</td><td>5 février</td><td>1972</td></tr>
+<tr><td>Danemark <sup>c</sup></td><td>17 juin</td><td>1970</td><td>17 juin</td><td>1971</td></tr>
+<tr><td>Djibouti</td><td>3 août</td><td>1978 S</td><td>3 août</td><td>1978</td></tr>
+<tr><td>Équateur</td><td>10 mars</td><td>1969</td><td>10 mars</td><td>1970</td></tr>
+<tr><td>Espagne</td><td>16 juin</td><td>1970</td><td>16 juin</td><td>1971</td></tr>
+<tr><td>Finlande</td><td>23 septembre</td><td>1968</td><td>23 septembre</td><td>1969</td></tr>
+<tr><td>France</td><td>6 avril</td><td>1972</td><td>6 avril</td><td>1973</td></tr>
+<tr><td>Guadeloupe</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Guyana (française)</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Martinique</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Nouvelle-Calédonie</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Polynésie française</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Réunion</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Saint-Pierre-et-Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Ghana</td><td>21 novembre</td><td>1966</td><td>21 novembre</td><td>1967</td></tr>
+<tr><td>Guatemala</td><td>21 octobre</td><td>1975</td><td>21 octobre</td><td>1976</td></tr>
+<tr><td>Guinée</td><td>12 décembre</td><td>1966</td><td>12 décembre</td><td>1967</td></tr>
+<tr><td>Indonésie</td><td>13 juin</td><td>1969</td><td>13 juin</td><td>1970</td></tr>
+<tr><td>Iraq</td><td>6 mars</td><td>1987</td><td>6 mars</td><td>1988</td></tr>
+<tr><td>Italie</td><td>5 mai</td><td>1971</td><td>5 mai</td><td>1972</td></tr>
+<tr><td>Japon</td><td>21 juin</td><td>1993</td><td>21 juin</td><td>1994</td></tr>
+<tr><td>Jordanie</td><td>11 mars</td><td>1965</td><td>29 mars</td><td>1966</td></tr>
+<tr><td>Kirghizistan</td><td>31 mars</td><td>1992 S</td><td>31 mars</td><td>1992</td></tr>
+<tr><td>Lettonie</td><td>8 mars</td><td>1993</td><td>8 mars</td><td>1994</td></tr>
+<tr><td>Liban</td><td>1<sup>er</sup> juin</td><td>1977</td><td>1<sup>er</sup> juin</td><td>1978</td></tr>
+<tr><td>Luxembourg</td><td>8 avril</td><td>2008</td><td>8 avril</td><td>2009</td></tr>
+<tr><td>Madagascar</td><td>21 novembre</td><td>1966</td><td>21 novembre</td><td>1967</td></tr>
+<tr><td>Mexique</td><td>18 juin</td><td>1968</td><td>18 juin</td><td>1969</td></tr>
+<tr><td>Norvège</td><td>6 juin</td><td>1966</td><td>6 juin</td><td>1967</td></tr>
+<tr><td>Panama</td><td>19 juin</td><td>1970</td><td>19 juin</td><td>1971</td></tr>
+<tr><td>Paraguay</td><td>10 juillet</td><td>1967</td><td>10 juillet</td><td>1968</td></tr>
+<tr><td>Pologne</td><td>26 juin</td><td>1968</td><td>26 juin</td><td>1969</td></tr>
+<tr><td>Portugal</td><td>24 février</td><td>1983</td><td>24 février</td><td>1984</td></tr>
+<tr><td>République centrafricaine</td><td>5 juin</td><td>2006</td><td>5 juin</td><td>2007</td></tr>
+<tr><td>République tchèque</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Royaume-Uni</td><td>21 avril</td><td>1967</td><td>21 avril</td><td>1968</td></tr>
+<tr><td>Gibraltar</td><td>18 avril</td><td>1975</td><td>18 avril</td><td>1975</td></tr>
+<tr><td>Guernesey</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
+<tr><td>Île de Man</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
+<tr><td>Russie</td><td>22 septembre</td><td>1967</td><td>22 septembre</td><td>1968</td></tr>
+<tr><td>Sénégal</td><td>25 avril</td><td>1966</td><td>25 avril</td><td>1967</td></tr>
+<tr><td>Slovaquie</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Suède</td><td>11 juin</td><td>1965</td><td>11 juin</td><td>1966</td></tr>
+<tr><td>Suisse</td><td>18 février</td><td>1966</td><td>18 février</td><td>1967</td></tr>
+<tr><td>Syrie</td><td>10 juin</td><td>1965</td><td>10 juin</td><td>1966</td></tr>
+<tr><td>Tadjikistan</td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
+<tr><td>Tunisie</td><td>14 avril</td><td>1970</td><td>14 avril</td><td>1971</td></tr>
+<tr><td>Ukraine</td><td>19 juin</td><td>1968</td><td>19 juin</td><td>1969</td></tr>
+<tr><td>Uruguay</td><td>6 septembre</td><td>1995</td><td>6 septembre</td><td>1996</td></tr>
+<tr><td>Venezuela</td><td>3 juin</td><td>1971</td><td>3 juin</td><td>1972</td></tr>
+<tr><td>Vietnam</td><td>3 octobre</td><td>1994</td><td>3 octobre</td><td>1995</td></tr>
+<tr><td colspan="5"><sup>a</sup> Applicable sans modification. <sup>b</sup> Du 9 août 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 juillet 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> La conv. ne s’applique pas aux Îles Féroé, ni au Groenland.</td></tr>
 </table>
 
-[^t-2]: [RO 1973 1693](https://fedlex.data.admin.ch/eli/oc/1973/1693_1693_1693), [1975 2506](https://fedlex.data.admin.ch/eli/oc/1975/2506_2506_2506), [1982 843](https://fedlex.data.admin.ch/eli/oc/1982/843_843_843),[1989 1422](https://fedlex.data.admin.ch/eli/oc/1989/1422_1422_1422), [2005 1767](https://fedlex.data.admin.ch/eli/oc/2005/287)et **2010** 3861. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).
+[^t-2]: [RO 1973 1693](https://fedlex.data.admin.ch/eli/oc/1973/1693_1693_1693); [1975 2506](https://fedlex.data.admin.ch/eli/oc/1975/2506_2506_2506); [1982 843](https://fedlex.data.admin.ch/eli/oc/1982/843_843_843); [1989 1422](https://fedlex.data.admin.ch/eli/oc/1989/1422_1422_1422); [2005 1767](https://fedlex.data.admin.ch/eli/oc/2005/287); [2010 3861](https://fedlex.data.admin.ch/eli/oc/2010/556); [2025 272](https://fedlex.data.admin.ch/eli/oc/2025/272). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
