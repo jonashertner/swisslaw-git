@@ -3,11 +3,11 @@ sr: "0.822.726.0"
 title: "Convention n<sup>o</sup> 160 du 25 juin 1985 concernant les statistiques du travail"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/887_887_887"
 language: fr
-version: 2018-08-08
+version: 2025-02-05
 adopted: 1985-06-25
 in_force: 1988-05-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/887_887_887/20180808/fr/xml/fedlex-data-admin-ch-eli-cc-1988-887_887_887-20180808-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/887_887_887/20180808/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/887_887_887/20250205/fr/xml/fedlex-data-admin-ch-eli-cc-1988-887_887_887-20250205-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/887_887_887/20250205/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,15 +20,15 @@ Texte original
 
 Conclue à Genève le 25 juin 1985 Approuvée par l’Assemblée fédérale le 17 décembre 1986[^t-1] Instrument de ratification déposé par la Suisse le 7 mai 1987 Entrée en vigueur pour la Suisse le 7 mai 1988
 
-(Etat le 8 août 2018)
+(État le 5 février 2025)
 
 [^t-1]: [RO 1988 886](https://fedlex.data.admin.ch/eli/oc/1988/886_886_886)
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1985, en sa soixante et onzième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1985, en sa soixante et onzième session,
 
-après avoir décidé d’adopter diverses propositions relatives à la révision de la convention (n<sup>o</sup> 63) concernant les statistiques des salaires et des heures de travail, 1938[^ingress-1], question qui constitue le cinquième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à la révision de la convention (n<sup>o</sup> 63) concernant les statistiques des salaires et des heures de travail, 1938[^ingress-1], question qui constitue le cinquième point à l’ordre du jour de la session,
 
 considérant que ces propositions devraient prendre la forme d’une convention internationale,
 
@@ -209,87 +209,68 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 8 août 2018**[^t-2]**
+Champ d’application le le 5 février 2025[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Allemagne<sup>a</sup></td><td>25 avril</td><td>1991</td><td>25 avril</td><td>1992</td></tr>
-<tr><td>Arménie<sup>b</sup></td><td>29 avril</td><td>2005</td><td>29 avril</td><td>2006</td></tr>
-<tr><td>Australie<sup>a</sup></td><td>15 mai</td><td>1987</td><td>15 mai</td><td>1988</td></tr>
-<tr><td>[tab] Ile Norfolk</td><td>21 août</td><td>1992</td><td>21 août</td><td>1992</td></tr>
-<tr><td>Autriche<sup>a</sup></td><td>3 juin</td><td>1987</td><td>3 juin</td><td>1988</td></tr>
-<tr><td>Azerbaïdjan<sup>c</sup></td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
-<tr><td>Bélarus<sup>c</sup></td><td>12 octobre</td><td>1990</td><td>12 octobre</td><td>1991</td></tr>
-<tr><td>Bénin<sup>d</sup></td><td>6 avril</td><td>2000</td><td>6 avril</td><td>2001</td></tr>
-<tr><td>Bolivie<sup>e</sup></td><td>14 novembre</td><td>1990</td><td>14 novembre</td><td>1991</td></tr>
-<tr><td>Brésil<sup>f</sup></td><td>2 juillet</td><td>1990</td><td>2 juillet</td><td>1991</td></tr>
-<tr><td>Canada<sup>g</sup></td><td>22 novembre</td><td>1995</td><td>22 novembre</td><td>1996</td></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne <sup>a</sup></td><td>25 avril</td><td>1991</td><td>25 avril</td><td>1992</td></tr>
+<tr><td>Arménie <sup>b</sup></td><td>29 avril</td><td>2005</td><td>29 avril</td><td>2006</td></tr>
+<tr><td>Australie <sup>a</sup></td><td>15 mai</td><td>1987</td><td>15 mai</td><td>1988</td></tr>
+<tr><td>Île Norfolk</td><td>21 août</td><td>1992</td><td>21 août</td><td>1992</td></tr>
+<tr><td>Autriche <sup>a</sup></td><td>3 juin</td><td>1987</td><td>3 juin</td><td>1988</td></tr>
+<tr><td>Azerbaïdjan <sup>c</sup></td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
+<tr><td>Bélarus <sup>c</sup></td><td>12 octobre</td><td>1990</td><td>12 octobre</td><td>1991</td></tr>
+<tr><td>Bénin <sup>d</sup></td><td>6 avril</td><td>2000</td><td>6 avril</td><td>2001</td></tr>
+<tr><td>Bolivie <sup>e</sup></td><td>14 novembre</td><td>1990</td><td>14 novembre</td><td>1991</td></tr>
+<tr><td>Brésil <sup>f</sup></td><td>2 juillet</td><td>1990</td><td>2 juillet</td><td>1991</td></tr>
+<tr><td>Canada <sup>g</sup></td><td>22 novembre</td><td>1995</td><td>22 novembre</td><td>1996</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Hong Kong</td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>Chypre<sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1988</td></tr>
-<tr><td>Colombie<sup>h</sup></td><td>23 mars</td><td>1990</td><td>23 mars</td><td>1991</td></tr>
-<tr><td>Corée (Sud)<sup>a</sup></td><td>8 décembre</td><td>1997</td><td>8 décembre</td><td>1998</td></tr>
-<tr><td>Costa Rica<sup>a</sup></td><td>13 février</td><td>2001</td><td>13 février</td><td>2002</td></tr>
-<tr><td>Côte d’Ivoire<sup>i</sup></td><td>1<sup>er</sup> avril</td><td>2016</td><td>1<sup>er</sup> avril</td><td>2017</td></tr>
-<tr><td>Danemark<sup>a</sup></td><td>22 janvier</td><td>1988</td><td>22 janvier</td><td>1989</td></tr>
-<tr><td>El Salvador<sup>a</sup></td><td>24 avril</td><td>1987</td><td>24 avril</td><td>1988</td></tr>
-<tr><td>Espagne<sup>j</sup></td><td>3 octobre</td><td>1989</td><td>3 octobre</td><td>1990</td></tr>
-<tr><td>Etats-Unis<sup>a</sup></td><td>11 juin</td><td>1990</td><td>11 juin</td><td>1991</td></tr>
-<tr><td>Finlande<sup>a</sup></td><td>27 avril</td><td>1987</td><td>27 avril</td><td>1988</td></tr>
-<tr><td>Grèce<sup>a</sup></td><td>17 mars</td><td>1993</td><td>17 mars</td><td>1994</td></tr>
-<tr><td>Guatemala<sup>a</sup></td><td>7 avril</td><td>1993</td><td>7 avril</td><td>1994</td></tr>
-<tr><td>Hongrie<sup>a</sup></td><td>9 avril</td><td>2010</td><td>9 avril</td><td>2011</td></tr>
-<tr><td>Inde<sup>k</sup></td><td>1<sup>er</sup> avril</td><td>1992</td><td>1<sup>er</sup> avril</td><td>1993</td></tr>
-<tr><td>Irlande<sup>l</sup></td><td>27 octobre</td><td>1995</td><td>27 octobre</td><td>1996</td></tr>
-<tr><td>Israël<sup>a</sup></td><td>21 janvier</td><td>2010</td><td>21 janvier</td><td>2011</td></tr>
-<tr><td>Italie<sup>a</sup></td><td>8 novembre</td><td>1989</td><td>8 novembre</td><td>1990</td></tr>
-<tr><td>Kirghizistan<sup>c</sup></td><td>31 mars</td><td>1992 S</td><td>31 mars</td><td>1992</td></tr>
-<tr><td>Lettonie<sup>b</sup></td><td>10 juin</td><td>1994</td><td>10 juin</td><td>1995</td></tr>
-<tr><td>Lituanie<sup>a</sup></td><td>10 juin</td><td>1999</td><td>10 juin</td><td>2000</td></tr>
-<tr><td>Maurice<sup>i</sup></td><td>14 juin</td><td>1994</td><td>14 juin</td><td>1995</td></tr>
-<tr><td>Mexique<sup>m</sup></td><td>18 avril</td><td>1988</td><td>18 avril</td><td>1989</td></tr>
-<tr><td>Moldova<sup>n</sup></td><td>10 février</td><td>2012</td><td>10 février</td><td>2013</td></tr>
-<tr><td>Norvège<sup>a</sup></td><td>6 août</td><td>1987</td><td>6 août</td><td>1988</td></tr>
-<tr><td>Nouvelle-Zélande<sup>a</sup></td><td>6 novembre</td><td>2001</td><td>6 novembre</td><td>2002</td></tr>
-<tr><td>Panama<sup>i</sup></td><td>3 avril</td><td>1996</td><td>3 avril</td><td>1997</td></tr>
-<tr><td>Pays-Bas<sup>a</sup></td><td>5 octobre</td><td>1990</td><td>5 octobre</td><td>1991</td></tr>
-<tr><td>Pologne<sup>d</sup></td><td>24 avril</td><td>1991</td><td>24 avril</td><td>1992</td></tr>
-<tr><td>Portugal<sup>a</sup></td><td>8 décembre</td><td>1993</td><td>8 décembre</td><td>1994</td></tr>
-<tr><td>République tchèque<sup>o</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Royaume-Uni<sup>a</sup></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Gibraltar</td><td>7 juillet</td><td>1988</td><td>7 juillet</td><td>1988</td></tr>
-<tr><td>[tab] Ile de Man<sup>p</sup></td><td>25 mai</td><td>1993</td><td>25 mai</td><td>1993</td></tr>
-<tr><td>Russie<sup>c</sup></td><td>27 août</td><td>1990</td><td>27 août</td><td>1991</td></tr>
-<tr><td>Saint-Marin<sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1988</td><td>1<sup>er</sup> juillet</td><td>1989</td></tr>
-<tr><td>Slovaquie<sup>o</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Sri Lanka<sup>q</sup></td><td>1<sup>er</sup> avril</td><td>1993</td><td>1<sup>er</sup> avril</td><td>1994</td></tr>
-<tr><td>Suède<sup>r</sup></td><td>22 septembre</td><td>1986</td><td>24 avril</td><td>1988</td></tr>
-<tr><td>Suisse<sup>r</sup></td><td>7 mai</td><td>1987</td><td>7 mai</td><td>1988</td></tr>
-<tr><td>Swaziland<sup>s</sup></td><td>22 septembre</td><td>1992</td><td>22 septembre</td><td>1993</td></tr>
-<tr><td>Tadjikistan<sup>c</sup></td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
-<tr><td>Ukraine<sup>c</sup></td><td>15 août</td><td>1991</td><td>15 août</td><td>1992</td></tr>
+<tr><td>Hong Kong</td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Chypre <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1988</td></tr>
+<tr><td>Colombie <sup>h</sup></td><td>23 mars</td><td>1990</td><td>23 mars</td><td>1991</td></tr>
+<tr><td>Corée (Sud) <sup>a</sup></td><td>8 décembre</td><td>1997</td><td>8 décembre</td><td>1998</td></tr>
+<tr><td>Costa Rica <sup>a</sup></td><td>13 février</td><td>2001</td><td>13 février</td><td>2002</td></tr>
+<tr><td>Côte d’Ivoire <sup>i</sup></td><td>1<sup>er</sup> avril</td><td>2016</td><td>1<sup>er</sup> avril</td><td>2017</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>22 janvier</td><td>1988</td><td>22 janvier</td><td>1989</td></tr>
+<tr><td>El Salvador <sup>a</sup></td><td>24 avril</td><td>1987</td><td>24 avril</td><td>1988</td></tr>
+<tr><td>Espagne <sup>j</sup></td><td>3 octobre</td><td>1989</td><td>3 octobre</td><td>1990</td></tr>
+<tr><td>Eswatini <sup>s</sup></td><td>22 septembre</td><td>1992</td><td>22 septembre</td><td>1993</td></tr>
+<tr><td>États-Unis <sup>a</sup></td><td>11 juin</td><td>1990</td><td>11 juin</td><td>1991</td></tr>
+<tr><td>Finlande <sup>a</sup></td><td>27 avril</td><td>1987</td><td>27 avril</td><td>1988</td></tr>
+<tr><td>Grèce <sup>a</sup></td><td>17 mars</td><td>1993</td><td>17 mars</td><td>1994</td></tr>
+<tr><td>Guatemala <sup>a</sup></td><td>7 avril</td><td>1993</td><td>7 avril</td><td>1994</td></tr>
+<tr><td>Hongrie <sup>a</sup></td><td>9 avril</td><td>2010</td><td>9 avril</td><td>2011</td></tr>
+<tr><td>Inde <sup>k</sup></td><td>1<sup>er</sup> avril</td><td>1992</td><td>1<sup>er</sup> avril</td><td>1993</td></tr>
+<tr><td>Irlande <sup>l</sup></td><td>27 octobre</td><td>1995</td><td>27 octobre</td><td>1996</td></tr>
+<tr><td>Israël <sup>a</sup></td><td>21 janvier</td><td>2010</td><td>21 janvier</td><td>2011</td></tr>
+<tr><td>Italie <sup>a</sup></td><td>8 novembre</td><td>1989</td><td>8 novembre</td><td>1990</td></tr>
+<tr><td>Kirghizistan <sup>c</sup></td><td>31 mars</td><td>1992 S</td><td>31 mars</td><td>1992</td></tr>
+<tr><td>Lettonie <sup>b</sup></td><td>10 juin</td><td>1994</td><td>10 juin</td><td>1995</td></tr>
+<tr><td>Lituanie <sup>a</sup></td><td>10 juin</td><td>1999</td><td>10 juin</td><td>2000</td></tr>
+<tr><td>Macédoine du Nord</td><td>20 octobre</td><td>2023</td><td>20 octobre</td><td>2024</td></tr>
+<tr><td>Maurice <sup>i</sup></td><td>14 juin</td><td>1994</td><td>14 juin</td><td>1995</td></tr>
+<tr><td>Mexique <sup>m</sup></td><td>18 avril</td><td>1988</td><td>18 avril</td><td>1989</td></tr>
+<tr><td>Moldova <sup>n</sup></td><td>10 février</td><td>2012</td><td>10 février</td><td>2013</td></tr>
+<tr><td>Norvège <sup>a</sup></td><td>6 août</td><td>1987</td><td>6 août</td><td>1988</td></tr>
+<tr><td>Nouvelle-Zélande <sup>a</sup></td><td>6 novembre</td><td>2001</td><td>6 novembre</td><td>2002</td></tr>
+<tr><td>Panama <sup>i</sup></td><td>3 avril</td><td>1996</td><td>3 avril</td><td>1997</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>5 octobre</td><td>1990</td><td>5 octobre</td><td>1991</td></tr>
+<tr><td>Pologne <sup>d</sup></td><td>24 avril</td><td>1991</td><td>24 avril</td><td>1992</td></tr>
+<tr><td>Portugal <sup>a</sup></td><td>8 décembre</td><td>1993</td><td>8 décembre</td><td>1994</td></tr>
+<tr><td>République tchèque <sup>o</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Royaume-Uni <sup>a</sup></td><td>27 mai</td><td>1987</td><td>27 mai</td><td>1988</td></tr>
+<tr><td>Gibraltar</td><td>7 juillet</td><td>1988</td><td>7 juillet</td><td>1988</td></tr>
+<tr><td>Île de Man <sup>p</sup></td><td>25 mai</td><td>1993</td><td>25 mai</td><td>1993</td></tr>
+<tr><td>Russie <sup>c</sup></td><td>27 août</td><td>1990</td><td>27 août</td><td>1991</td></tr>
+<tr><td>Saint-Marin <sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1988</td><td>1<sup>er</sup> juillet</td><td>1989</td></tr>
+<tr><td>Sierra Leone</td><td>29 mars</td><td>2022</td><td>29 mars</td><td>2023</td></tr>
+<tr><td>Slovaquie <sup>o</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Sri Lanka <sup>q</sup></td><td>1<sup>er</sup> avril</td><td>1993</td><td>1<sup>er</sup> avril</td><td>1994</td></tr>
+<tr><td>Suède <sup>r</sup></td><td>22 septembre</td><td>1986</td><td>24 avril</td><td>1988</td></tr>
+<tr><td>Suisse <sup>r</sup></td><td>7 mai</td><td>1987</td><td>7 mai</td><td>1988</td></tr>
+<tr><td>Tadjikistan <sup>c</sup></td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
+<tr><td>Ukraine <sup>c</sup></td><td>15 août</td><td>1991</td><td>15 août</td><td>1992</td></tr>
+<tr><td colspan="5"><sup>a</sup> Cet État a accepté tous les articles de la partie II. <sup>b</sup> Cet État a accepté les art. 7, 12 et 13 de la partie II. <sup>c</sup> Cet État a accepté les art. 7 à 10 de la partie II. <sup>d</sup> Cet État a accepté les art. 7, 8 et 12 à 15 de la partie II. <sup>e</sup> Cet État a accepté les art. 7, 8 et 15 de la partie II. <sup>f</sup> Cet État a accepté les art. 7 à 10, 12, 13 et 15 de la partie II. <sup>g</sup> Cet État a accepté les art. 7, 8, 9(1) et 10 à 15 de la partie II <sup>h</sup> Cet État a accepté les art. 7, 8 et 10 à 15 de la partie II <sup>i</sup> Cet État a accepté les art. 7 à 10 et 12 à 15 de la partie II. <sup>j</sup> Cet État a accepté les art. 7 à 9 et 12 à 15 de la partie II. <sup>k</sup> Cet État a accepté l’art. 8 de la partie II. <sup>l</sup> Cet État a accepté les art. 7 à 9 et 11 à 15 de la partie II. <sup>m</sup> Cet État a accepté les art. 7, 8, 9, 11, 12, 14 et 15 de la partie II <sup>n</sup> Cet État a accepté les art. 7 à 13 et 14 par. 1 de la partie II. <sup>o</sup> Cet État a accepté les art. 7 à 10 et 12 à 14 de la partie II. <sup>p</sup> Cet État a accepté les art. 8 à 10 et 12 à 15 de la partie II <sup>q</sup> Cet État a accepté les art. 7, 8, 10, 12, 13 et 15 de la partie II. <sup>r</sup> Cet État a accepté tous les articles de la partie II, excepté l’art. 11. <sup>s</sup> Cet État a accepté les art. 7, 8, 10 et 12 à 15 de la partie II.</td></tr>
 </table>
 
-- <sup>a</sup> Cet Etat a accepté tous les articles de la partie II.
-- <sup>b</sup> Cet Etat a accepté les art. 7, 12 et 13 de la partie II.
-- <sup>c</sup> Cet Etat a accepté les art. 7 à 10 de la partie II.
-- <sup>d</sup> Cet Etat a accepté les art. 7, 8 et 12 à 15 de la partie II.
-- <sup>e</sup> Cet Etat a accepté les art. 7, 8 et 15 de la partie II.
-- <sup>f</sup> Cet Etat a accepté les art. 7 à 10, 12, 13 et 15 de la partie II.
-- <sup>g</sup> Cet Etat a accepté les art. 7, 8, 9(1) et 10 à 15 de la partie II
-- <sup>h</sup> Cet Etat a accepté les art. 7, 8 et 10 à 15 de la partie II
-- <sup>i</sup> Cet Etat a accepté les art. 7 à 10 et 12 à 15 de la partie II.
-- <sup>j</sup> Cet Etat a accepté les art. 7 à 9 et 12 à 15 de la partie II.
-- <sup>k</sup> Cet Etat a accepté l’art. 8 de la partie II.
-- <sup>l</sup> Cet Etat a accepté les art. 7 à 9 et 11 à 15 de la partie II.
-- <sup>m</sup> Cet Etat a accepté les art. 7, 8, 9, 11, 12, 14 et 15 de la partie II
-- <sup>n</sup> Cet Etat a accepté les art. 7 à 13 et 14 par. 1 de la partie II.
-- <sup>o</sup> Cet Etat a accepté les art. 7 à 10 et 12 à 14 de la partie II.
-- <sup>p</sup> Cet Etat a accepté les art. 8 à 10 et 12 à 15 de la partie II
-- <sup>q</sup> Cet Etat a accepté les art. 7, 8, 10, 12, 13 et 15 de la partie II.
-- <sup>r</sup> Cet Etat a accepté tous les articles de la partie II, excepté l’art. 11.
-- <sup>s</sup> Cet Etat a accepté les art. 7, 8, 10 et 12 à 15 de la partie II.
-
-- [tab]
-
-[^t-2]: [RO 1988 887](https://fedlex.data.admin.ch/eli/oc/1988/887_887_887), [1989 1425](https://fedlex.data.admin.ch/eli/oc/1989/1425_1425_1425), [1991 627](https://fedlex.data.admin.ch/eli/oc/1991/627_627_627), [2005 2243](https://fedlex.data.admin.ch/eli/oc/2005/378), [2008 4215](https://fedlex.data.admin.ch/eli/oc/2008/602), [2013 1297](https://fedlex.data.admin.ch/eli/oc/2013/294), [2018 3041](https://fedlex.data.admin.ch/eli/oc/2018/480). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1988 887](https://fedlex.data.admin.ch/eli/oc/1988/887_887_887); [1989 1425](https://fedlex.data.admin.ch/eli/oc/1989/1425_1425_1425); [1991 627](https://fedlex.data.admin.ch/eli/oc/1991/627_627_627); [2005 2243](https://fedlex.data.admin.ch/eli/oc/2005/378); [2008 4215](https://fedlex.data.admin.ch/eli/oc/2008/602); [2013 1297](https://fedlex.data.admin.ch/eli/oc/2013/294); [2018 3041](https://fedlex.data.admin.ch/eli/oc/2018/480); [2025 95](https://fedlex.data.admin.ch/eli/oc/2025/95). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

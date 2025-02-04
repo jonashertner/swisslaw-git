@@ -3,11 +3,11 @@ sr: "0.822.726.0"
 title: Übereinkommen Nr. 160 vom 25. Juni 1985 über Arbeitsstatistiken
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/887_887_887"
 language: de
-version: 2018-08-08
+version: 2025-02-05
 adopted: 1985-06-25
 in_force: 1988-05-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/887_887_887/20180808/de/xml/fedlex-data-admin-ch-eli-cc-1988-887_887_887-20180808-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/887_887_887/20180808/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/887_887_887/20250205/de/xml/fedlex-data-admin-ch-eli-cc-1988-887_887_887-20250205-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/887_887_887/20250205/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 887; BBl **1986** II 911
 
 Abgeschlossen in Genf am 25. Juni 1985 Von der Bundesversammlung genehmigt am 17. Dezember 1986[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 7. Mai 1987 In Kraft getreten für die Schweiz am 7. Mai 1988
 
-(Stand am 8. August 2018)
+(Stand am 5. Februar 2025)
 
 [^t-1]: [AS 1988 886](https://fedlex.data.admin.ch/eli/oc/1988/886_886_886)
 
@@ -34,7 +34,7 @@ ist der Auffassung, dass diese Anträge die Form eines internationalen Übereink
 
 Die Konferenz nimmt heute, am 25. Juni 1985, das folgende Übereinkommen an, das als Übereinkommen über Arbeitsstatistiken, 1985, bezeichnet wird.
 
-[^ingress-1]: [BS **14** 27; [AS 1962 1359](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413), [1973 1669](https://fedlex.data.admin.ch/eli/oc/1973/1669_1669_1669), [1975 2497](https://fedlex.data.admin.ch/eli/oc/1975/2497_2497_2497), [1982 516](https://fedlex.data.admin.ch/eli/oc/1982/516_516_516), [1985 1773](https://fedlex.data.admin.ch/eli/oc/1985/1773_1773_1773)]
+[^ingress-1]: [BS **14** 27; [AS 1962 1359](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413); [1973 1669](https://fedlex.data.admin.ch/eli/oc/1973/1669_1669_1669); [1975 2497](https://fedlex.data.admin.ch/eli/oc/1975/2497_2497_2497); [1982 516](https://fedlex.data.admin.ch/eli/oc/1982/516_516_516); [1985 1773](https://fedlex.data.admin.ch/eli/oc/1985/1773_1773_1773)]
 
 ## I. Allgemeine Bestimmungen
 
@@ -66,14 +66,14 @@ Dieses Übereinkommen enthält keinerlei Verpflichtung, Daten zu veröffentliche
 
 #### Art. 5
 
-Jedes Mitglied, das dieses Übereinkommen ratifiziert, verpflichtet sich, dem Internationalen Arbeitsamt so bald wie möglich die gemäss dem Übereinkommen zusammengestellten und veröffentlichten Statistiken und Informationen über ihre Veröffentlichung zu übermitteln, insbesondere
+Jedes Mitglied, das dieses Übereinkommen ratifiziert, verpflichtet sich, dem Internationalen Arbeitsamt so bald wie möglich die gemäss dem Übereinkommen zusammengestellten und veröffentlichten Statistiken und Informationen über ihre Veröffentlichung zu übermitteln, insbesondere:
 
 - a) die die verwendeten Verbreitungsmittel kennzeichnenden Angaben (Titel und Kennziffern im Falle gedruckter Veröffentlichungen und die entsprechenden Beschreibungen im Falle von Daten, die in anderer Form verbreitet werden);
 - b) die neuesten Daten oder Zeiträume, für welche die verschiedenen Arten von Statistiken verfügbar sind, sowie die Daten ihrer Veröffentlichung oder Verbreitung.
 
 #### Art. 6
 
-Es sind ausführliche Beschreibungen der bei der Erhebung und Zusammenstellung der Statistiken gemäss diesem Übereinkommen verwendeten Quellen, Konzepte, Definitionen und Methoden
+Es sind ausführliche Beschreibungen der bei der Erhebung und Zusammenstellung der Statistiken gemäss diesem Übereinkommen verwendeten Quellen, Konzepte, Definitionen und Methoden:
 
 - a) zu erarbeiten und auf dem neuesten Stand zu halten, um wesentlichen Änderungen Rechnung zu tragen;
 - b) dem Internationalen Arbeitsamt so bald wie möglich zu übermitteln;
@@ -149,7 +149,7 @@ Es sind Statistiken der Arbeitsstreitigkeiten in einer für das gesamte Land rep
 
 Durch dieses Übereinkommen wird das Übereinkommen über die Statistiken der Löhne und der Arbeitszeit, 1938[^18-1], neu gefasst.
 
-[^18-1]: [BS **14** 27; [AS 1962 1359](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413), [1973 1669](https://fedlex.data.admin.ch/eli/oc/1973/1669_1669_1669), [1975 2497](https://fedlex.data.admin.ch/eli/oc/1975/2497_2497_2497), [1982 516](https://fedlex.data.admin.ch/eli/oc/1982/516_516_516), [1985 1773](https://fedlex.data.admin.ch/eli/oc/1985/1773_1773_1773)]
+[^18-1]: [BS **14** 27; [AS 1962 1359](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413); [1973 1669](https://fedlex.data.admin.ch/eli/oc/1973/1669_1669_1669); [1975 2497](https://fedlex.data.admin.ch/eli/oc/1975/2497_2497_2497); [1982 516](https://fedlex.data.admin.ch/eli/oc/1982/516_516_516); [1985 1773](https://fedlex.data.admin.ch/eli/oc/1985/1773_1773_1773)]
 
 ## IV. Schlussbestimmungen
 
@@ -208,7 +208,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. August 2018**[^t-2]**
+Geltungsbereich am 5. Februar 2025[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -227,24 +227,26 @@ Geltungsbereich am 8. August 2018**[^t-2]**
 <tr><td colspan="2">Dänemark <sup>c</sup></td><td colspan="2">22. Januar</td><td colspan="2">1988</td><td>22. Januar</td><td>1989</td></tr>
 <tr><td colspan="2">Deutschland <sup>c</sup></td><td colspan="2">25. April</td><td colspan="2">1991</td><td>25. April</td><td>1992</td></tr>
 <tr><td colspan="2">El Salvador <sup>d</sup></td><td colspan="2">24. April</td><td colspan="2">1987</td><td>24. April</td><td>1988</td></tr>
+<tr><td colspan="2">Eswatini <sup>h</sup></td><td colspan="2">22. September</td><td colspan="2">1992</td><td>22. September</td><td>1993</td></tr>
 <tr><td colspan="2">Finnland <sup>c</sup></td><td colspan="2">27. April</td><td colspan="2">1987</td><td>27. April</td><td>1988</td></tr>
 <tr><td colspan="2">Griechenland <sup>c</sup></td><td colspan="2">17. März</td><td colspan="2">1993</td><td>17. März</td><td>1994</td></tr>
 <tr><td colspan="2">Guatemala <sup>c</sup></td><td colspan="2">7. April</td><td colspan="2">1993</td><td>7. April</td><td>1994</td></tr>
-<tr><td colspan="2">Indien <sup>h</sup></td><td colspan="2">1. April</td><td colspan="2">1992</td><td>1. April</td><td>1993</td></tr>
-<tr><td colspan="2">Irland <sup>i</sup></td><td colspan="2">27. Oktober</td><td colspan="2">1995</td><td>27. Oktober</td><td>1996</td></tr>
+<tr><td colspan="2">Indien <sup>i</sup></td><td colspan="2">1. April</td><td colspan="2">1992</td><td>1. April</td><td>1993</td></tr>
+<tr><td colspan="2">Irland <sup>j</sup></td><td colspan="2">27. Oktober</td><td colspan="2">1995</td><td>27. Oktober</td><td>1996</td></tr>
 <tr><td colspan="2">Israel <sup>c</sup></td><td colspan="2">21. Januar</td><td colspan="2">2010</td><td>21. Januar</td><td>2011</td></tr>
 <tr><td colspan="2">Italien <sup>c</sup></td><td colspan="2">8. November</td><td colspan="2">1989</td><td>8. November</td><td>1990</td></tr>
-<tr><td colspan="2">Kanada <sup>j</sup></td><td colspan="2">22. November</td><td colspan="2">1995</td><td>22. November</td><td>1996</td></tr>
+<tr><td colspan="2">Kanada <sup>k</sup></td><td colspan="2">22. November</td><td colspan="2">1995</td><td>22. November</td><td>1996</td></tr>
 <tr><td colspan="2">Kirgisistan <sup>b</sup></td><td colspan="2">31. März</td><td colspan="2">1992 N</td><td>31. März</td><td>1992</td></tr>
-<tr><td colspan="2">Kolumbien <sup>k</sup></td><td colspan="2">23. März</td><td colspan="2">1990</td><td>23. März</td><td>1991</td></tr>
+<tr><td colspan="2">Kolumbien <sup>l</sup></td><td colspan="2">23. März</td><td colspan="2">1990</td><td>23. März</td><td>1991</td></tr>
 <tr><td colspan="2">Korea (Süd-) <sup>c</sup></td><td colspan="2">8. Dezember</td><td colspan="2">1997</td><td>8. Dezember</td><td>1998</td></tr>
 <tr><td colspan="2">Lettland <sup>a</sup></td><td colspan="2">10. Juni</td><td colspan="2">1994</td><td>10. Juni</td><td>1995</td></tr>
 <tr><td colspan="2">Litauen <sup>c</sup></td><td colspan="2">10. Juni</td><td colspan="2">1999</td><td>10. Juni</td><td>2000</td></tr>
 <tr><td colspan="2">Mauritius <sup>g</sup></td><td colspan="2">14. Juni</td><td colspan="2">1994</td><td>14. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Mexiko <sup>l</sup></td><td colspan="2">18. April</td><td colspan="2">1988</td><td>18. April</td><td>1989</td></tr>
-<tr><td colspan="2">Moldau</td><td colspan="2">10. Februar</td><td colspan="2">2012</td><td>10. Februar</td><td>2013</td></tr>
+<tr><td colspan="2">Mexiko <sup>m</sup></td><td colspan="2">18. April</td><td colspan="2">1988</td><td>18. April</td><td>1989</td></tr>
+<tr><td colspan="2">Moldau <sup>n</sup></td><td colspan="2">10. Februar</td><td colspan="2">2012</td><td>10. Februar</td><td>2013</td></tr>
 <tr><td colspan="2">Neuseeland <sup>c</sup></td><td colspan="2">6. November</td><td colspan="2">2001</td><td>6. November</td><td>2002</td></tr>
 <tr><td colspan="2">Niederlande <sup>c</sup></td><td colspan="2">5. Oktober</td><td colspan="2">1990</td><td>5. Oktober</td><td>1991</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td colspan="2">20. Oktober</td><td colspan="2">2023</td><td>20. Oktober</td><td>2024</td></tr>
 <tr><td colspan="2">Norwegen <sup>c</sup></td><td colspan="2">6. August</td><td colspan="2">1987</td><td>6. August</td><td>1988</td></tr>
 <tr><td colspan="2">Österreich <sup>c</sup></td><td colspan="2">3. Juni</td><td colspan="2">1987</td><td>3. Juni</td><td>1988</td></tr>
 <tr><td colspan="2">Panama <sup>g</sup></td><td colspan="2">3. April</td><td colspan="2">1996</td><td>3. April</td><td>1997</td></tr>
@@ -252,14 +254,14 @@ Geltungsbereich am 8. August 2018**[^t-2]**
 <tr><td colspan="2">Portugal <sup>c</sup></td><td colspan="2">8. Dezember</td><td colspan="2">1993</td><td>8. Dezember</td><td>1994</td></tr>
 <tr><td colspan="2">Russland <sup>b</sup></td><td colspan="2">27. August</td><td colspan="2">1990</td><td>27. August</td><td>1991</td></tr>
 <tr><td colspan="2">San Marino <sup>c</sup></td><td colspan="2">1. Juli</td><td colspan="2">1988</td><td>1. Juli</td><td>1989</td></tr>
-<tr><td colspan="2">Schweden <sup>n</sup></td><td colspan="2">22. September</td><td colspan="2">1986</td><td>24. April</td><td>1988</td></tr>
-<tr><td colspan="2">Schweiz <sup>n</sup></td><td colspan="2">7. Mai</td><td colspan="2">1987</td><td>7. Mai</td><td>1988</td></tr>
-<tr><td colspan="2">Slowakei <sup>o</sup></td><td colspan="2">1. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="2">Spanien <sup>p</sup></td><td colspan="2">3. Oktober</td><td colspan="2">1989</td><td>3. Oktober</td><td>1990</td></tr>
-<tr><td colspan="2">Sri Lanka <sup>q</sup></td><td colspan="2">1. April</td><td colspan="2">1993</td><td>1. April</td><td>1994</td></tr>
-<tr><td colspan="2">Swasiland <sup>r</sup></td><td colspan="2">22. September</td><td colspan="2">1992</td><td>22. September</td><td>1993</td></tr>
+<tr><td colspan="2">Schweden <sup>o</sup></td><td colspan="2">22. September</td><td colspan="2">1986</td><td>24. April</td><td>1988</td></tr>
+<tr><td colspan="2">Schweiz <sup>o</sup></td><td colspan="2">7. Mai</td><td colspan="2">1987</td><td>7. Mai</td><td>1988</td></tr>
+<tr><td colspan="2">Sierra Leone</td><td colspan="2">29. März</td><td colspan="2">2022</td><td>29. März</td><td>2023</td></tr>
+<tr><td colspan="2">Slowakei <sup>p</sup></td><td colspan="2">1. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td colspan="2">Spanien <sup>q</sup></td><td colspan="2">3. Oktober</td><td colspan="2">1989</td><td>3. Oktober</td><td>1990</td></tr>
+<tr><td colspan="2">Sri Lanka <sup>r</sup></td><td colspan="2">1. April</td><td colspan="2">1993</td><td>1. April</td><td>1994</td></tr>
 <tr><td colspan="2">Tadschikistan <sup>b</sup></td><td colspan="2">26. November</td><td colspan="2">1993 N</td><td>26. November</td><td>1993</td></tr>
-<tr><td colspan="2">Tschechische Republik <sup>o</sup></td><td colspan="2">1. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td colspan="2">Tschechische Republik <sup>p</sup></td><td colspan="2">1. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td colspan="2">Ungarn <sup>c</sup></td><td colspan="2">9. April</td><td colspan="2">2010</td><td>9. April</td><td>2011</td></tr>
 <tr><td colspan="2">Ukraine <sup>b</sup></td><td colspan="2">15. August</td><td colspan="2">1991</td><td>15. August</td><td>1992</td></tr>
 <tr><td colspan="2">Vereinigte Staaten <sup>c</sup></td><td colspan="2">11. Juni</td><td colspan="2">1990</td><td>11. Juni</td><td>1991</td></tr>
@@ -274,18 +276,18 @@ Geltungsbereich am 8. August 2018**[^t-2]**
 <tr><td colspan="8"><sup>e</sup> Dieser Staat hat die Art. 7, 8 und 15 von Teil II angenommen.</td></tr>
 <tr><td colspan="8"><sup>f</sup> Dieser Staat hat die Art. 7–10, 12, 13 und 15 von Teil II angenommen.</td></tr>
 <tr><td colspan="8"><sup>g</sup> Dieser Staat hat die Art. 7–10 und 12–15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>h</sup> Dieser Staat hat Art. 8 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>i</sup> Dieser Staat hat die Art. 7–9 und 11–15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>j</sup> Dieser Staat hat die Art. 7, 8, 9 (1) und 10–15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>k</sup> Dieser Staat hat die Art. 7, 8 und 10-15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>l</sup> Dieser Staat hat die Art. 7, 8, 9, 11, 12, 14 und 15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>m</sup> Dieser Staat hat die Artikel 7–13 und 14 Absatz 1 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>n</sup> Dieser Staat hat alle Art. von Teil II angenommen, ausgenommen Art. 11.</td></tr>
-<tr><td colspan="8"><sup>o</sup> Dieser Staat hat die Art. 7–10 und 12–14 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>p</sup> Dieser Staat hat die Art. 7–9 und 12–15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>q</sup> Dieser Staat hat die Art. 7, 8, 10, 12, 13 und 15 von Teil II angenommen.</td></tr>
-<tr><td colspan="8"><sup>r</sup> Dieser Staat hat die Art. 7, 8, 10 und 12–15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>h</sup> Dieser Staat hat die Art. 7, 8, 10 und 12–15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>i</sup> Dieser Staat hat Art. 8 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>j</sup> Dieser Staat hat die Art. 7–9 und 11–15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>k</sup> Dieser Staat hat die Art. 7, 8, 9 (1) und 10–15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>l</sup> Dieser Staat hat die Art. 7, 8 und 10-15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>m</sup> Dieser Staat hat die Art. 7, 8, 9, 11, 12, 14 und 15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>n</sup> Dieser Staat hat die Artikel 7–13 und 14 Absatz 1 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>o</sup> Dieser Staat hat alle Art. von Teil II angenommen, ausgenommen Art. 11.</td></tr>
+<tr><td colspan="8"><sup>p</sup> Dieser Staat hat die Art. 7–10 und 12–14 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>q</sup> Dieser Staat hat die Art. 7–9 und 12–15 von Teil II angenommen.</td></tr>
+<tr><td colspan="8"><sup>r</sup> Dieser Staat hat die Art. 7, 8, 10, 12, 13 und 15 von Teil II angenommen.</td></tr>
 <tr><td colspan="8"><sup>s</sup> Dieser Staat hat die Art. 8–10 und 12–15 von Teil II angenommen.</td></tr>
 </table>
 
-[^t-2]: [AS 1988 887](https://fedlex.data.admin.ch/eli/oc/1988/887_887_887), [1989 1425](https://fedlex.data.admin.ch/eli/oc/1989/1425_1425_1425), [1991 627](https://fedlex.data.admin.ch/eli/oc/1991/627_627_627), [2005 2243](https://fedlex.data.admin.ch/eli/oc/2005/378), [2008 4215](https://fedlex.data.admin.ch/eli/oc/2008/602), [2013 1297](https://fedlex.data.admin.ch/eli/oc/2013/294), [2018 3041](https://fedlex.data.admin.ch/eli/oc/2018/480). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1988 887](https://fedlex.data.admin.ch/eli/oc/1988/887_887_887); [1989 1425](https://fedlex.data.admin.ch/eli/oc/1989/1425_1425_1425); [1991 627](https://fedlex.data.admin.ch/eli/oc/1991/627_627_627); [2005 2243](https://fedlex.data.admin.ch/eli/oc/2005/378); [2008 4215](https://fedlex.data.admin.ch/eli/oc/2008/602); [2013 1297](https://fedlex.data.admin.ch/eli/oc/2013/294); [2018 3041](https://fedlex.data.admin.ch/eli/oc/2018/480); [2025 95](https://fedlex.data.admin.ch/eli/oc/2025/95). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
