@@ -3,11 +3,11 @@ sr: "0.822.722.2"
 title: "Übereinkommen Nr. 122 vom 9. Juli 1964 über die Beschäftigungspolitik, 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/528"
 language: de
-version: 2020-07-15
+version: 2025-02-05
 adopted: 1964-07-09
 in_force: 2014-02-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20200715/de/xml/fedlex-data-admin-ch-eli-cc-2013-528-20200715-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20200715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250205/de/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250205-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250205/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2013
 
 In Kraft getreten für die Schweiz am 11. Februar 2014
 
-(Stand am 15. Juli 2020)
+(Stand am 5. Februar 2025)
 
 [^t-1]: [AS 2013 2497](https://fedlex.data.admin.ch/eli/oc/2013/527)
 
@@ -38,7 +38,7 @@ geht davon aus, dass die Erklärung von Philadelphia die feierliche Verpflichtun
 
 dass es ferner gemäss der Erklärung von Philadelphia zu den Aufgaben der Internationalen Arbeitsorganisation gehört, die Auswirkungen der Wirtschafts- und Finanzpolitik auf die Beschäftigungspolitik im Hinblick auf das dort aufgestellte Hauptziel, dass «alle Menschen ungeachtet ihrer Rasse, ihres Glaubens und ihres Geschlechts ... das Recht» haben, «materiellen Wohlstand und geistige Entwicklung in Freiheit und Würde, in wirtschaftlicher Sicherheit und unter gleich günstigen Bedingungen zu erstreben», zu prüfen und in Erwägung zu ziehen; und
 
-dass ferner die Allgemeine Erklärung der Menschenrechte vorsieht, dass «jeder Mensch ... das Recht auf Arbeit, auf freie Berufswahl, auf angemessene und befriedigende Arbeitsbedingungen sowie auf Schutz gegen Arbeitslosigkeit» hat;
+dass ferner die Allgemeine Erklärung der Menschenrechte vorsieht, dass «jeder Mensch … das Recht auf Arbeit, auf freie Berufswahl, auf angemessene und befriedigende Arbeitsbedingungen sowie auf Schutz gegen Arbeitslosigkeit» hat;
 
 nimmt Kenntnis von den Bestimmungen der bestehenden internationalen Arbeitsübereinkommen und Empfehlungen, die mit der Beschäftigungspolitik unmittelbar zusammenhängen, insbesondere des Übereinkommens und der Empfehlung über die Arbeitsmarktverwaltung, 1948[^ingress-1], der Empfehlung betreffend die Berufsberatung, 1949, der Empfehlung betreffend die berufliche Ausbildung, 1962, und des Übereinkommens und der Empfehlung über Diskriminierung (Beschäftigung und Beruf), 1958[^ingress-2];
 
@@ -129,10 +129,10 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 15. Juli 2020**[^t-2]**
+Geltungsbereich am 5. Februar 2025[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>7. Januar</td><td>2009</td><td>7. Januar</td><td>2010</td></tr>
 <tr><td>Algerien</td><td>12. Juni</td><td>1969</td><td>12. Juni</td><td>1970</td></tr>
 <tr><td>Antigua und Barbuda</td><td>16. September</td><td>2002</td><td>16. September</td><td>2003</td></tr>
@@ -236,6 +236,7 @@ Geltungsbereich am 15. Juli 2020**[^t-2]**
 <tr><td>Tschechische Republik</td><td>1. Januar</td><td>1993</td><td>1. Januar</td><td>1994</td></tr>
 <tr><td>Tunesien</td><td>17. Februar</td><td>1966</td><td>17. Februar</td><td>1967</td></tr>
 <tr><td>Türkei</td><td>13. Dezember</td><td>1977</td><td>13. Dezember</td><td>1978</td></tr>
+<tr><td>Turkmenistan</td><td>14. April</td><td>2021 B</td><td>14. April</td><td>2022</td></tr>
 <tr><td>Uganda</td><td>23. Juni</td><td>1967</td><td>23. Juni</td><td>1968</td></tr>
 <tr><td>Ukraine</td><td>19. Juni</td><td>1968</td><td>19. Juni</td><td>1969</td></tr>
 <tr><td>Ungarn</td><td>18. Juni</td><td>1969</td><td>18. Juni</td><td>1970</td></tr>
@@ -248,4 +249,4 @@ Geltungsbereich am 15. Juli 2020**[^t-2]**
 <tr><td>Zypern</td><td>28. Juli</td><td>1966</td><td>28. Juli</td><td>1967</td></tr>
 </table>
 
-[^t-2]: [AS 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528), [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490), [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

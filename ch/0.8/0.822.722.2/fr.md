@@ -3,11 +3,11 @@ sr: "0.822.722.2"
 title: "Convention n<sup>o</sup> 122 du 9 juillet 1964 sur la politique de l'emploi, 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/528"
 language: fr
-version: 2020-07-15
+version: 2025-02-05
 adopted: 1964-07-09
 in_force: 2014-02-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20200715/fr/xml/fedlex-data-admin-ch-eli-cc-2013-528-20200715-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20200715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250205/fr/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250205-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250205/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,33 +18,27 @@ RO **2013** 2499; FF **2012** 3921
 
 Texte original
 
-Conclue à Genève le 9 juillet 1964
+Conclue à Genève le 9 juillet 1964 Approuvée par l’Assemblée fédérale le 28 septembre 2012[^t-1] Instrument de ratification déposé par la Suisse le 11 février 2013 Entrée en vigueur pour la Suisse le 11 février 2014
 
-Approuvée par l’Assemblée fédérale le 28 septembre 2012[^t-1]
-
-Instrument de ratification déposé par la Suisse le 11 février 2013
-
-Entrée en vigueur pour la Suisse le 11 février 2014
-
-(Etat le 15 juillet 2020)
+(État le 5 février 2025)
 
 [^t-1]: [RO 2013 2497](https://fedlex.data.admin.ch/eli/oc/2013/527)
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 17 juin 1964, en sa quarante-huitième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 17 juin 1964, en sa quarante-huitième session,
 
-considérant que la Déclaration de Philadelphie reconnaît l’obligation solennelle pour l’Organisation internationale du Travail de seconder la mise en oeuvre, parmi les différentes nations du monde, de programmes propres à réaliser la plénitude de l’emploi et l’élévation des niveaux de vie, et que le Préambule de la Constitution de l’Organisation prévoit la lutte contre le chômage et la garantie d’un salaire assurant des conditions d’existence convenables;
+considérant que la Déclaration de Philadelphie reconnaît l’obligation solennelle pour l’Organisation internationale du Travail de seconder la mise en oeuvre, parmi les différentes nations du monde, de programmes propres à réaliser la plénitude de l’emploi et l’élévation des niveaux de vie, et que le Préambule de la Constitution de l’Organisation prévoit la lutte contre le chômage et la garantie d’un salaire assurant des conditions d’existence convenables,
 
-considérant en outre qu’aux termes de la Déclaration de Philadelphie, il incombe à l’Organisation internationale du Travail d’examiner et de considérer les répercussions des politiques économiques et financières sur la politique de l’emploi, à la lumière de l’objectif fondamental selon lequel «tous les êtres humains, quels que soient leur race, leur croyance ou leur sexe, ont le droit de poursuivre leur progrès matériel et leur développement spirituel dans la liberté et la dignité, dans la sécurité économique et avec des chances égales»;
+considérant en outre qu’aux termes de la Déclaration de Philadelphie, il incombe à l’Organisation internationale du Travail d’examiner et de considérer les répercussions des politiques économiques et financières sur la politique de l’emploi, à la lumière de l’objectif fondamental selon lequel «tous les êtres humains, quels que soient leur race, leur croyance ou leur sexe, ont le droit de poursuivre leur progrès matériel et leur développement spirituel dans la liberté et la dignité, dans la sécurité économique et avec des chances égales»,
 
-considérant que la Déclaration universelle des droits de l’homme prévoit que «toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à la protection contre le chômage»;
+considérant que la Déclaration universelle des droits de l’homme prévoit que «toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à la protection contre le chômage»,
 
-notant les termes des conventions et recommandations internationales du travail existantes qui sont directement en rapport avec la politique de l’emploi, et en particulier la convention et la recommandation sur le service de l’emploi, 1948[^ingress-1], la recommandation sur l’orientation professionnelle, 1949, la recommandation sur la formation professionnelle, 1962, ainsi que la convention et la recommandation concernant la discrimination (emploi et profession), 1958[^ingress-2];
+notant les termes des conventions et recommandations internationales du travail existantes qui sont directement en rapport avec la politique de l’emploi, et en particulier la convention et la recommandation sur le service de l’emploi, 1948[^ingress-1], la recommandation sur l’orientation professionnelle, 1949, la recommandation sur la formation professionnelle, 1962, ainsi que la convention et la recommandation concernant la discrimination (emploi et profession), 1958[^ingress-2],
 
-considérant que ces instruments devraient être placés dans le contexte plus large d’un programme international visant à assurer l’expansion économique fondée sur le plein emploi, productif et librement choisi;
+considérant que ces instruments devraient être placés dans le contexte plus large d’un programme international visant à assurer l’expansion économique fondée sur le plein emploi, productif et librement choisi,
 
-après avoir décidé d’adopter diverses propositions relatives à la politique de l’emploi qui sont comprises dans la huitième question à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à la politique de l’emploi qui sont comprises dans la huitième question à l’ordre du jour de la session,
 
 après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
 
@@ -129,7 +123,7 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 15 juillet 2020**[^t-2]**
+Champ d’application le 5 février 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -239,6 +233,7 @@ Champ d’application le 15 juillet 2020**[^t-2]**
 <tr><td>Togo</td><td>30 mars</td><td>2012</td><td>30 mars</td><td>2013</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>19 septembre</td><td>2013</td><td>19 septembre</td><td>2014</td></tr>
 <tr><td>Tunisie</td><td>17 février</td><td>1966</td><td>17 février</td><td>1967</td></tr>
+<tr><td>Turkménistan</td><td>14 avril</td><td>2021 A</td><td>14 avril</td><td>2022</td></tr>
 <tr><td>Turquie</td><td>13 décembre</td><td>1977</td><td>13 décembre</td><td>1978</td></tr>
 <tr><td>Ukraine</td><td>19 juin</td><td>1968</td><td>19 juin</td><td>1969</td></tr>
 <tr><td>Uruguay</td><td>2 juin</td><td>1977</td><td>2 juin</td><td>1978</td></tr>
@@ -248,4 +243,4 @@ Champ d’application le 15 juillet 2020**[^t-2]**
 <tr><td>Zambie</td><td>23 octobre</td><td>1979</td><td>23 octobre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RO 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528), [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490), [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610). Une version du champ d’application mise à jour est publiée sur le site web du DFAE www.dfae.admin.ch/traites.
+[^t-2]: [RO 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

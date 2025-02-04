@@ -3,11 +3,11 @@ sr: "0.822.722.2"
 title: "Convenzione n. 122 del 9 luglio 1964 sulla politica dell'impiego, 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/528"
 language: it
-version: 2020-07-15
+version: 2025-02-05
 adopted: 1964-07-09
 in_force: 2014-02-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20200715/it/xml/fedlex-data-admin-ch-eli-cc-2013-528-20200715-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20200715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250205/it/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250205-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250205/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2013** 2499; FF **2012** 3751
 
 Traduzione
 
-Conclusa a Ginevra il 9 luglio 1964
+Conclusa a Ginevra il 9 luglio 1964 Approvata dall’Assemblea federale il 28 settembre 2012[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 febbraio 2013 Entrata in vigore per la Svizzera l’11 febbraio 2014
 
-Approvata dall’Assemblea federale il 28 settembre 2012[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera l’11 febbraio 2013
-
-Entrata in vigore per la Svizzera l’11 febbraio 2014
-
-(Stato 15 luglio 2020)
+(Stato 5 febbraio 2025)
 
 [^t-1]: [RU 2013 2497](https://fedlex.data.admin.ch/eli/oc/2013/527)
 
@@ -129,10 +123,10 @@ Il testo francese e il testo inglese della presente Convenzione fanno ugualmente
 
 (Seguono le firme)
 
-Campo d’applicazione il 15 luglio 2020**[^t-2]**
+Campo d’applicazione il 5 febbraio 2025[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>7 gennaio</td><td>2009</td><td>7 gennaio</td><td>2010</td></tr>
 <tr><td>Algeria</td><td>12 giugno</td><td>1969</td><td>12 giugno</td><td>1970</td></tr>
 <tr><td>Antigua e Barbuda</td><td>16 settembre</td><td>2002</td><td>16 settembre</td><td>2003</td></tr>
@@ -237,6 +231,7 @@ Campo d’applicazione il 15 luglio 2020**[^t-2]**
 <tr><td>Trinidad e Tobago</td><td>19 settembre</td><td>2013</td><td>19 settembre</td><td>2014</td></tr>
 <tr><td>Tunisia</td><td>17 febbraio</td><td>1966</td><td>17 febbraio</td><td>1967</td></tr>
 <tr><td>Turchia</td><td>13 dicembre</td><td>1977</td><td>13 dicembre</td><td>1978</td></tr>
+<tr><td>Turkmenistan</td><td>14 aprile</td><td>2021 A</td><td>14 aprile</td><td>2022</td></tr>
 <tr><td>Ucraina</td><td>19 giugno</td><td>1968</td><td>19 giugno</td><td>1969</td></tr>
 <tr><td>Uganda</td><td>23 giugno</td><td>1967</td><td>23 giugno</td><td>1968</td></tr>
 <tr><td>Ungheria</td><td>18 giugno</td><td>1969</td><td>18 giugno</td><td>1970</td></tr>
@@ -248,4 +243,4 @@ Campo d’applicazione il 15 luglio 2020**[^t-2]**
 <tr><td>Zambia</td><td>23 ottobre</td><td>1979</td><td>23 ottobre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RU 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528), [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490), [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
