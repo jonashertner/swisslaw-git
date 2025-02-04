@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Verordnung vom 28. März 2018 über Massnahmen gegenüber Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: de
-version: 2024-05-28
+version: 2025-02-05
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20240528/de/xml/fedlex-data-admin-ch-eli-cc-2018-191-20240528-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20240528/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20250205/de/xml/fedlex-data-admin-ch-eli-cc-2018-191-20250205-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20250205/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Venezuela
 
-vom 28. März 2018 (Stand am 28. Mai 2024)
+vom 28. März 2018 (Stand am 5. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -185,8 +185,8 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 9. Juli 2018 ([AS 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), vom 15. Nov. 2018 ([AS 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), vom 5. Aug. 2019 ([AS 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), vom 10. Okt. 2019 ([AS 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), vom 21. Nov. 2019 ([AS 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), vom 6. Juli 2020 ([AS 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), vom 26. Nov. 2020 ([AS 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), vom 18. März 2021 ([AS 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)), vom 23. Nov. 2021 ([AS 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)), vom 23. Jan. 2023 ([AS 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)), vom 27. Nov. 2023 ([AS 2023 693](https://fedlex.data.admin.ch/eli/oc/2023/693)) und vom 27. Mai 2024, in Kraft seit 28. Mai 2024 um 18 Uhr ([AS 2024 233](https://fedlex.data.admin.ch/eli/oc/2024/233)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/233](https://fedlex.data.admin.ch/eli/oc/2024/233) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 9. Juli 2018 ([AS 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), vom 15. Nov. 2018 ([AS 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), vom 5. Aug. 2019 ([AS 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), vom 10. Okt. 2019 ([AS 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), vom 21. Nov. 2019 ([AS 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), vom 6. Juli 2020 ([AS 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), vom 26. Nov. 2020 ([AS 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), vom 18. März 2021 ([AS 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)), vom 23. Nov. 2021 ([AS 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)), vom 23. Jan. 2023 ([AS 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)), vom 27. Nov. 2023 ([AS 2023 693](https://fedlex.data.admin.ch/eli/oc/2023/693)), vom 27. Mai 2024 ([AS 2024 233](https://fedlex.data.admin.ch/eli/oc/2024/233)) und vom 3. Febr. 2025, in Kraft seit 5. Febr. 2025 ([AS 2025 85](https://fedlex.data.admin.ch/eli/oc/2025/85)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/85](https://fedlex.data.admin.ch/eli/oc/2025/85) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2
 
