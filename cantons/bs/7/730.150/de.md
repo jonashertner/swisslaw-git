@@ -3,13 +3,13 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften und Bebauungspläne
 language: de
-version: 2024-08-29
-valid_until: 2025-02-05
-version_adopted: 2024-06-27
+version: 2025-02-06
+valid_until: 2025-02-12
+version_adopted: 2024-12-11
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6414/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6556/pdf_file"
 text: pdf
 ---
 
@@ -624,6 +624,8 @@ zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
 **XI**
 
+**266**
+
 235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 246 Nr.
 
 **Seite**
@@ -658,7 +660,7 @@ zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
 steinerstrasse, Aufhebung des Bebauungsplans Nr. 137. Vom 27. Juni 2024
 
-Riehen Gottesacker am Hörnli: Vorplatz
+244 GRB betreffend Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Bereich St. Galler-Ring, Neubadstrasse, General Guisan-Strasse (Areal Tennisclub Old Boys, Schützenmatte West). Vom 11. Dezember 2024 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
@@ -2837,11 +2839,7 @@ von betroffenen Baufelder übergreifende städtebauliche Studie analog Ziff. 3.4
 
 3.3 Auf dem Baufeld B kann ein Hochhaus erstellt werden. Der Lichteinfallswinkel zu den Nachbarliegenschaften wird hier auf maximal 60° a. T. festgesetzt.
 
-3.4.1 Zur Gewährleistung einer hohen architektonischen und städtebaulichen Qualität sind
-
-Überbauungsprojekte für die Baufelder B, D, E, F und G sowie A im Kopfbereich
-
-Margarethenstrasse durch Varianzverfahren pro Baufeld zu erarbeiten.
+3.4.1 Zur Gewährleistung einer hohen architektonischen und städtebaulichen Qualität sind Überbauungsprojekte für die Baufelder B, D, E, F und G sowie A im Kopfbereich Margarethenstrasse durch Varianzverfahren pro Baufeld zu erarbeiten.
 
 3.4.2 In die Planungsarbeit ist beim Baufeld A die Platzgestaltung zur Margarethenstrasse,
 
@@ -7167,9 +7165,7 @@ II. Festsetzung eines Bebauungsplans
 
 - f) Die Wärmeversorgung ist als Nahwärmeverbund mit erneuerbaren Energiequellen auszuführen.
 
-- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
-
-III.
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird. III.
 
 IV.
 
@@ -7261,9 +7257,7 @@ I. Festsetzung eines Bebauungsplans
 
 - j. Gegen Baubereich B dürfen keine anrechenbaren Fenster angeordnet werden.
 
-- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
-
-II.
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird. II.
 
 III.
 
@@ -7811,9 +7805,7 @@ I. Festsetzung eines Bebauungsplans
 
 - h) Auf dem Areal dürfen neben den neuen Hochhäusern maximal acht neue oberirdische Besucherparkplätze erstellt werden.
 
-- i) Für den Fussverkehr ist eine aus allen Richtungen öffentlich zugängliche und in Ost-West-Richtung sowie falls möglich aus Nordrichtung hindernisfreie Durchwegung des Areals vorzusehen und durch eine Dienstbarkeit zu sichern. Die entsprechende Dienstbarkeit darf ohne Zustimmung der Bewilligungsbehörde weder geändert noch aufgehoben werden. Dies ist im Grund-
-
-buch anzumerken.
+- i) Für den Fussverkehr ist eine aus allen Richtungen öffentlich zugängliche und in Ost-West-Richtung sowie falls möglich aus Nordrichtung hindernisfreie Durchwegung des Areals vorzusehen und durch eine Dienstbarkeit zu sichern. Die entsprechende Dienstbarkeit darf ohne Zustimmung der Bewilligungsbehörde weder geändert noch aufgehoben werden. Dies ist im Grundbuch anzumerken.
 
 - j) Aussenraum Der Aussenraum ist hinsichtlich einer guten Gesamtwirkung gestützt auf ein Varianzverfahren nach ökologischen und stadtklimatischen Kriterien hochwertig zu gestalten. Die Überdeckung der unterirdischen Bauten ist mit einer genügend mächtigen Erdsubstratschicht von mindestens 150 cm Höhe zu versehen, die stellenweise auch Pflanzinseln und Baumpflanzungen erlaubt. Eine ober- oder unterirdische Bebauung des Randbereichs ist nicht erlaubt, davon ausgenommen sind Massnahmen, die der Versickerung und dem Schwammstadtprinzip oder der notwendigen Erschliessung des Areals dienen. Mit der ersten Baueingabe ist ein verbindliches Umgebungs- und Entwässerungskonzept für das gesamte Areal einzureichen. Das anfallende Meteorwasser ist nach dem Schwammstadtprinzip zu bewirtschaften (verdunsten, speichern, oberflächlich versickern).
 
@@ -7823,19 +7815,51 @@ buch anzumerken.
 
 - 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
 
-### II. Abweisung der Einsprachen
+II. Abweisung der Einsprachen
 
 Die im Ratschlag Nr. 23.0840.01 im Kapitel 6 aufgeführten Einsprachen werden abgewiesen soweit darauf eingetreten werden kann.
 
-### III. Aufhebung des Bebauungsplans Nr. 137 vom 11. Dezember 1991
+III. Aufhebung des Bebauungsplans Nr. 137 vom 11. Dezember 1991
 
 Der Grossratsbeschluss betreffend Erlass spezieller Bauvorschriften für das Lindenhofareal/Münchensteinerstrasse/Nauenstrasse/Lindenhofstrasse vom 11. Dezember 1991 wird aufgehoben.
 
-### IV. Publikation
+IV. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hIVPublikation-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hNauenstrasseLinde-1]
 
-[^hIVPublikation-1]: In Kraft seit 4. 7. 2024 (KB 29. 6. 2024)
+[^hNauenstrasseLinde-1]: In Kraft seit 4. 7. 2024 (KB 29. 6. 2024)
+
+### Areal Tennisclub Old Boys, Schützenmatte West
+
+GRB vom 11. Dezember 2024
+
+Der Grosse Rat des Kantons Basel-Stadt, nach Einsichtnahme in den Bericht des Regierungsrates Nr. 24.0185.01 vom 10. April 2024 sowie in den Bericht der Bau- und Raumplanungskommission Nr. 24.0185.02 vom 7. November 2024 beschliesst:
+
+I. Festsetzung eines Bebauungsplans
+
+- 1\. Der Bebauungsplan Nr. 14’413 von Städtebau & Architektur vom 16. Mai 2023 wird verbindlich erklärt.
+
+- 2\. In Ergänzung/Abweichung zu den gültigen Zonenvorschriften der Zone für Nutzungen im öffentlichen Interesse gelten die folgenden Vorschriften des Bebauungsplans:
+
+- a) Die Tennisanlage im Sportzentrum Schützenmatte, bestehend aus den Baubereichen A und B, ist zur sportlichen Betätigung im Rahmen der betrieblichen Möglichkeiten allgemein für eine breite Öffentlichkeit zugänglich. Insbesondere können auch Nichtmitglieder Tennisplätze mieten.
+
+- b) Im Baubereich A ist eine Freiluft-Tennisanlage mit den dazu notwendigen und üblichen Infrastrukturen und Nebennutzungen erlaubt.
+
+- c) Im Baubereich B ist ein Gebäude von hoher architektonischer Qualität mit einer maximalen Grundfläche von 3’050 m<sup>2</sup> erlaubt. Die Wandhöhe darf die Höhenkote von 285.50 m ü. M. nicht überschreiten. Die Bruttogeschossfläche und die Anzahl Geschosse sind frei. Dachgeschosse sind nicht zulässig. Die Dachfläche ist arten- und strukturreich zu begrünen. Zwingend notwendige technische Anlagen sind zweckmässig in die Begrünung zu integrieren. Die Photovoltaik muss aufgeständert erstellt werden. Mittels eines Energiekonzepts ist aufzuzeigen, wie die Energieversorgung CO2-neutral erfolgt und wie die indirekten Treibhausgasemissionen im Rahmen der wirtschaftlichen und technischen Möglichkeiten Richtung Netto-Null reduziert werden.
+
+- d) Die Flächen um die Tennisanlage innerhalb des Planungsperimeters sind als Kompensation für die verlorengehende Sportrasenfläche und im Sinne des ökologischen Ausgleichs naturnah und strukturreich zu gestalten und zu bepflanzen sowie für die Regenwasserbewirtschaftung nach dem Schwammstadtprinzip zu nutzen.
+
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
+
+II. Abweisung der Einsprachen
+
+Die im Ratschlag Nr. 24.0185.01 im Kapitel 5 aufgeführten Einsprachen werden abgewiesen, soweit darauf eingetreten werden kann.
+
+III. Publikation
+
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hArealTennisclubOld-1]
+
+[^hArealTennisclubOld-1]: In Kraft seit 6. 2. 2025 (KB 1. 2. 2025)
 
 ## Weitere Fussnoten
 
