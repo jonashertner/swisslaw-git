@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2023 über das Inverkehrbringen von Düngern 
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: de
-version: 2025-01-01
+version: 2025-02-07
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250207/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250207-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/de"
 
 (Düngerverordnung, DüV)
 
-vom 1. November 2023 (Stand am 1. Januar 2025)
+vom 1. November 2023 (Stand am 7. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -757,7 +757,7 @@ Anhang 1[^t-1]
 
 ## Produktfunktionskategorien (PFC)
 
-[^t-1]: Bereinigt gemäss Berichtigung vom 13. Aug. 2024 ([AS 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^t-1]: Bereinigt gemäss Berichtigungen vom 13. Aug. 2024 ([AS 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)) und 7. Febr. 2025 ([AS 2025 91](https://fedlex.data.admin.ch/eli/oc/2025/91)).
 
 Die PFC 1–7 entsprechen den in Anhang I der Verordnung (EU) 2019/1009[^annex1-lvlu1-1] festgelegten Kategorien. Die PFC ab Ziffer 100 entsprechen der Schweizer Düngergesetzgebung.
 
@@ -787,6 +787,8 @@ Die PFC 1–7 entsprechen den in Anhang I der Verordnung (EU) 2019/1009[^annex1-
     - ii. Flüssiger anorganischer Mehrnährstoff-Makronährstoff-Dünger
 
 - II. Anorganischer Spurennährstoff-Dünger
+  - a) Anorganischer Einnährstoff-Spurennährstoff-Dünger
+  - b) Anorganischer Mehrnährstoff-Spurennährstoff-Dünger
 
 ### 2. Kalkdünger
 
@@ -814,7 +816,7 @@ Die PFC 1–7 entsprechen den in Anhang I der Verordnung (EU) 2019/1009[^annex1-
 
 ### 101. Recyclingdünger
 
-- A.
+- A. Kompost
 - B. Gärgut
 - I. Festes Gärgut
 - II. Flüssiges Gärgut

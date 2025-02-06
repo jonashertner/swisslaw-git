@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2023 sur la mise en circulation de
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: fr
-version: 2025-01-01
+version: 2025-02-07
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250207/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250207-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> janvier 2025)
+du 1<sup>er</sup> novembre 2023 (État le 7 février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -758,7 +758,7 @@ Annexe 1[^t-1]
 
 ## Catégories fonctionnelles de produits (PFC)
 
-[^t-1]: Mise à jour par l’erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^t-1]: Mise à jour par les errata du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)) et du 7 fév. 2025 ([RO 2025 91](https://fedlex.data.admin.ch/eli/oc/2025/91)).
 
 Les PFC 1 à 7 correspondent à celles définies dans l’annexe I du règlement (UE) 2019/1009[^annex1-lvlu1-1]. Les PFC à partir du ch. 100 sont propres à la législation suisse sur les engrais.
 
@@ -788,6 +788,8 @@ Les PFC 1 à 7 correspondent à celles définies dans l’annexe I du règlement
     - ii. Engrais inorganique liquide composé à macroéléments
 
 - II. Engrais inorganique à oligo-éléments
+  - a) Engrais inorganique simple à oligo-élément
+  - b) Engrais inorganique composé à oligo-éléments
 
 ### 2. Amendement minéral basique
 

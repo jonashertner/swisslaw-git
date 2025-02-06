@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2023 sulla messa in commercio di concimi (Ord
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: it
-version: 2025-01-01
+version: 2025-02-07
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250207/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250207-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250101/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 1° novembre 2023 (Stato 1° gennaio 2025)
+del 1° novembre 2023 (Stato 7 febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -757,7 +757,7 @@ Allegato 1[^t-1]
 
 ## Categorie funzionali del prodotto (PFC)
 
-[^t-1]: Aggiornato dalla correzione del 13 ago. 2024 ([RU 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^t-1]: Aggiornato dalle correzioni del 13 ago. 2024 ([RU 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)) e del 7 feb. 2025 ([RU 2025 91](https://fedlex.data.admin.ch/eli/oc/2025/91)).
 
 Le PFC da 1 a 7 corrispondono a quelle definite nell’allegato I del regolamento (UE) 2019/1009[^annex1-lvlu1-1]. Le PFC a partire dal numero 100 sono specifiche della legislazione svizzera sui concimi.
 
@@ -787,6 +787,8 @@ Le PFC da 1 a 7 corrispondono a quelle definite nell’allegato I del regolament
     - ii. Concime inorganico liquido composto a base di macroelementi
 
 - II. Concime inorganico a base di microelementi
+  - a) Concime inorganico semplice a base di microelementi
+  - b) Concime inorganico composto a base di microelementi
 
 ### 2. Ammendante minerale basico
 
@@ -2423,5 +2425,5 @@ I seguenti atti normativi sono modificati come segue:
 
 ...[^annex5-lvlu1-2]
 
-[^annex5-lvlu1-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 2]
+[^annex5-lvlu1-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 2]
 [^annex5-lvlu1-2]: Le mod. possono essere consultate alla [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711).
