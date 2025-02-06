@@ -5,11 +5,12 @@ title: Règlement de la Commission de recours du Conseil de la magistrature
 short: ReCoReM
 language: fr
 version: 2021-07-30
+corrected: 2025-02-07
 version_adopted: 2021-05-28
 adopted: 2021-05-28
 in_force: 2021-07-30
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.710"
-pdf: "https://lex.vs.ch/api/fr/versions/3460/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2938/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -26,7 +27,7 @@ vu l'article 65a lettre b de la Constitution cantonale;
 
 vu l'article 33 alinéa 4 de la loi sur le Conseil de la magistrature du 13 septembre 2019 (LCDM);
 
-vu la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980 (LGCAF);
+vu la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980 (LCGAF);
 
 ordonne: [^ingress-1]
 

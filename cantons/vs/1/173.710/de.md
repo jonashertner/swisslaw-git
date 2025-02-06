@@ -5,11 +5,12 @@ title: Reglement der Rekurskommission des Justizrates
 short: ReReKoJ
 language: de
 version: 2021-07-30
+corrected: 2025-02-07
 version_adopted: 2021-05-28
 adopted: 2021-05-28
 in_force: 2021-07-30
 url: "https://lex.vs.ch/app/de/texts_of_law/173.710"
-pdf: "https://lex.vs.ch/api/de/versions/3460/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2938/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
