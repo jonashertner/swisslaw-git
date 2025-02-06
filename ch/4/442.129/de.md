@@ -3,18 +3,18 @@ sr: "442.129"
 title: Verordnung des EDI vom 23. Dezember 2024 über das Förderungskonzept zur Verlagsförderung
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/16"
 language: de
-version: 2025-02-01
+version: 2025-02-07
 adopted: 2024-12-23
 in_force: 2025-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250207/de/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250207-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über das Förderungskonzept zur Verlagsförderung
 
-vom 23. Dezember 2024 (Stand am 1. Februar 2025)
+vom 23. Dezember 2024 (Stand am 7. Februar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -84,7 +84,9 @@ Von der Förderung ausgeschlossen sind:
 
 <sup>2</sup> Die Strukturbeiträge betragen pro Kalenderjahr mindestens 10 000 Franken und höchstens 60 000 Franken.
 
-<sup>3</sup> Die Förderbeiträge für Projekte von überregionaler Bedeutung betragen höchstens 175 000 Franken pro Jahr.
+<sup>3</sup> Die Förderbeiträge für Projekte von überregionaler Bedeutung betragen höchstens 175 000 Franken pro Kalenderjahr.[^4-1]
+
+[^4-1]: Berichtigung vom 7. Febr. 2025 ([AS 2025 90](https://fedlex.data.admin.ch/eli/oc/2025/90)).
 
 #### Art. 5
 

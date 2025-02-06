@@ -3,18 +3,18 @@ sr: "442.129"
 title: Ordinanza del DFI del 23 dicembre 2024 concernente il regime di promozione in favore delle case editrici
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/16"
 language: it
-version: 2025-02-01
+version: 2025-02-07
 adopted: 2024-12-23
 in_force: 2025-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250207/it/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250207-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI concernente il regime di promozione in favore delle case editrici
 
-del 23 dicembre 2024 (Stato 1° febbraio 2025)
+del 23 dicembre 2024 (Stato 7 febbraio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -84,7 +84,9 @@ Sono escluse dalla promozione:
 
 <sup>2</sup> I contributi strutturali ammontano a un minimo di 10 000 franchi e a un massimo di 60 000 franchi per anno civile.
 
-<sup>3</sup> I contributi d’incentivazione per progetti d’importanza sovraregionale ammontano a un massimo di 175 000 franchi per anno civile.
+<sup>3</sup> I contributi d’incentivazione per progetti d’importanza sovraregionale ammontano a un massimo di 175 000 franchi per anno civile.[^4-1]
+
+[^4-1]: La correzione del 7 feb. 2025 concerne soltanto i testi tedesco e francese ([RU 2025 90](https://fedlex.data.admin.ch/eli/oc/2025/90)).
 
 #### Art. 5
 

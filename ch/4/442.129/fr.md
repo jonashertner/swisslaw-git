@@ -3,18 +3,18 @@ sr: "442.129"
 title: Ordonnance du DFI du 23 décembre 2024 instituant un régime d’encouragement des maisons d’édition
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/16"
 language: fr
-version: 2025-02-01
+version: 2025-02-07
 adopted: 2024-12-23
 in_force: 2025-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250207/fr/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250207-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI instituant un régime d’encouragement des maisons d’édition
 
-du 23 décembre 2024 (État le 1<sup>er</sup> février 2025)
+du 23 décembre 2024 (État le 7 février 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -84,7 +84,9 @@ Ne peuvent bénéficier d’un soutien:
 
 <sup>2</sup> Les contributions structurelles s’élèvent à 10 000 francs au minimum et à 60 000 francs au maximum par année civile.
 
-<sup>3</sup> Les contributions à des projets d’importance suprarégionale s’élèvent à 175 000 francs par an.
+<sup>3</sup> Les contributions à des projets d’importance suprarégionale s’élèvent à 175 000 francs au maximum par année civile.[^4-1]
+
+[^4-1]: Erratum du 7 fév. 2025 ([RO 2025 90](https://fedlex.data.admin.ch/eli/oc/2025/90)).
 
 #### Art. 5
 
