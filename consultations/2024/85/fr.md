@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur la protection civile (ouvrages de protection)
 document: Projet mis en consultation
 language: fr
