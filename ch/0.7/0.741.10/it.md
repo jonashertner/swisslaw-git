@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: "Convenzione dell'8 novembre 1968 sulla circolazione stradale (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: it
-version: 2024-10-02
+version: 2025-02-09
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20241002-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20241002/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20250209-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20250209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Vienna l’8 novembre 1968 Approvata dall’Assemblea federale il 15 dicembre 1978[^t-1] Istrumento di ratificazione depositato dalla Svizzera l’11 dicembre 1991 Entrata in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 2 ottobre 2024)
+(Stato 9 febbraio 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -52,7 +52,7 @@ Ai fini dell’applicazione delle disposizioni della presente Convenzione, i ter
 - ogni Parte contraente restando, tuttavia, libera di rifiutare di considerare in per un periodo superiore ad un anno senza interruzione di rilievo, della quale «circolazione internazionale» ogni veicolo che sia rimasto sul suo territorio la Parte contraente può fissare la durata.
 - Un complesso di veicoli si dice in «circolazione internazionale» se almeno uno dei veicoli che lo compongono risponde alla definizione;
 - c)[^1-3] il termine «centro abitato» indica un’area che comprende degli edifici e le cui vie di accesso sono specificatamente indicate come tali, o che è definita in altro modo dalla legislazione nazionale;
-- [tab] ...[^1-4]
+- ...[^1-4]
 - d) il termine «strada» indica tutta l’ampiezza di ogni area o via aperta alla circolazione pubblica;
 - e) il termine «carreggiata» indica la parte di strada normalmente destinata alla circolazione dei veicoli; una strada può comprendere più carreggiate nettamente separate l’una dall’altra, in particolare a mezzo di uno spartitraffico centrale o di una differenza di livello;
 - f) sulle carreggiate nelle quali sono riservate alla circolazione di determinati veicoli una corsia laterale o una pista oppure delle corsie laterali o delle piste, il termine «bordo della carreggiata» indica, per gli altri utenti della strada, il bordo della restante carreggiata;
@@ -111,19 +111,13 @@ Ai fini dell’applicazione delle disposizioni della presente Convenzione, i ter
 
 Gli allegati alla presente Convenzione, cioè:
 
-L’allegato 1: Deroghe all’obbligo di ammettere alla circolazione internazionale gli autoveicoli ed i rimorchi;
-
-L’allegato 2: Numero di immatricolazione degli autoveicoli e dei rimorchi in circolazione internazionale;
-
-L’allegato 3: Sigla distintiva degli autoveicoli e dei rimorchi in circolazione internazionale;
-
-L’allegato 4: elementi d’identificazione degli autoveicoli e dei rimorchi in circolazione internazionale;
-
-L’allegato 5: condizioni tecniche relative agli autoveicoli ed ai rimorchi;
-
-L’allegato 6: patente nazionale di guida, e
-
-L’allegato 7: patente internazionale di guida; sono parte integrante della presente Convenzione.
+- L’allegato 1: Deroghe all’obbligo di ammettere alla circolazione internazionale gli autoveicoli ed i rimorchi;
+- L’allegato 2: Numero di immatricolazione degli autoveicoli e dei rimorchi in circolazione internazionale;
+- L’allegato 3: Sigla distintiva degli autoveicoli e dei rimorchi in circolazione internazionale;
+- L’allegato 4: elementi d’identificazione degli autoveicoli e dei rimorchi in circolazione internazionale;
+- L’allegato 5: condizioni tecniche relative agli autoveicoli ed ai rimorchi;
+- L’allegato 6: patente nazionale di guida, e
+- L’allegato 7: patente internazionale di guida; sono parte integrante della presente Convenzione.
 
 #### Art. 3
 
@@ -259,8 +253,8 @@ I sistemi di bordo che influiscono sulla guida del veicolo e non conformi alle d
 [^8-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 7).
 [^8-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 7).
 [^8-3]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 7).
-[^8-4]: Introdotto dagli emendamenti del 26 mar. 2014, in vigore dal 23 mar. 2016 ([RU 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
-[^8-5]: I regolamenti dell’ONU all. all’Acc. conchiuso a Ginevra il 20 mar. 1958 concernente l’accettazione di prescrizioni tecniche uniformi per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni, rilasciate sulla base di tali prescrizioni ([RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)). I regolamenti tecnici dell’ONU elaborati nel quadro dell’Acc. concluso a Ginevra il 25 giu. 1998 sull’approvazione di regolamenti tecnici applicabili a livello mondiale ai veicoli a motore, agli accessori e alle parti che possono essere installati e/o utilizzati sui veicoli a motore.
+[^8-4]: I regolamenti dell’ONU all. all’Acc. conchiuso a Ginevra il 20 mar. 1958 concernente l’accettazione di prescrizioni tecniche uniformi per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni, rilasciate sulla base di tali prescrizioni ([RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)). I regolamenti tecnici dell’ONU elaborati nel quadro dell’Acc. concluso a Ginevra il 25 giu. 1998 sull’approvazione di regolamenti tecnici applicabili a livello mondiale ai veicoli a motore, agli accessori e alle parti che possono essere installati e/o utilizzati sui veicoli a motore.
+[^8-5]: Par. introdotto dagli emendamenti del 26 mar. 2014, in vigore dal 23 mar. 2016 ([RU 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
 [^8-6]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 #### Art. 9
@@ -600,7 +594,7 @@ Senza pregiudizio delle disposizioni dell’articolo 10 della presente Convenzio
   - ii) davanti ai passi carrabili delle proprietà;
   - iii) in ogni luogo in cui il veicolo in sosta impedisca l’accesso ad un altro veicolo regolarmente in sosta oppure lo spostamento di tale veicolo;
   - iv) sulla carreggiata centrale delle strade a tre corsie e, fuori dei centri abitati, sulle carreggiate delle strade indicate come aventi la precedenza da una appropriata segnaletica.
-  - [tab] v)[^23-9] ...
+  - v)[^23-9] ...
 
 <sup>4.</sup> Un conducente non deve lasciare il proprio veicolo o i propri animali senza avere preso tutte le precauzioni opportune per evitare ogni incidente e, nel caso di un autoveicolo, per evitare che esso venga usato senza autorizzazione.
 
@@ -623,7 +617,7 @@ Si raccomanda che le legislazioni nazionali prevedano che ogni veicolo a motore 
 [^23-6]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-7]: Introdotto giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-8]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
-[^23-9]: Par. stralciato giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^23-9]: Abrogato dagli emendamenti con effetto per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-10]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
 [^23-11]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^23-12]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
@@ -678,16 +672,17 @@ Nei tunnel dotati di una segnalazione speciale, vigono le seguenti prescrizioni:
 - b) fare inversione a U.
 - c)[^25bis-2] ...
 
-<sup>2.</sup> Anche se il tunnel è illuminato, ogni conducente deve accendere i proiettori di profondità o i proiettori di incrocio.
+<sup>2.</sup> I conducenti devono accertarsi che i proiettori di profondità o i proiettori anabbaglianti siano accesi anche nei tunnel illuminati.[^25bis-3]
 
-<sup>3.</sup> Il conducente può fermare il proprio veicolo o sostare esclusivamente in caso di urgenza o di pericolo. A questo scopo egli deve, se possibile, utilizzare i luoghi di sosta segnalati.[^25bis-3]
+<sup>3.</sup> Il conducente può fermare il proprio veicolo o sostare esclusivamente in caso di urgenza o di pericolo. A questo scopo egli deve, se possibile, utilizzare i luoghi di sosta segnalati.[^25bis-4]
 
-<sup>4.</sup> In caso di arresto forzato, ogni conducente deve spegnere il motore del proprio veicolo.[^25bis-4]
+<sup>4.</sup> In caso di arresto forzato, ogni conducente deve spegnere il motore del proprio veicolo.[^25bis-5]
 
 [^25bis-1]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^25bis-2]: Abrogato dagli emendamenti del 28 set. 2004, con effetto dal 28 mar. 2006 (RU **2007** 3594).
-[^25bis-3]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^25bis-4]: Originario par. 3.
+[^25bis-3]: Nuovo testo giusta gli emendamenti del 9 ago. 2024, entrati in vigore per la Svizzera il 9 feb. 2025 ([RU 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
+[^25bis-4]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^25bis-5]: Originario par. 3.
 
 #### Art. 26
 
@@ -707,16 +702,15 @@ Nei tunnel dotati di una segnalazione speciale, vigono le seguenti prescrizioni:
 
 <sup>3.</sup> È vietato ai ciclisti ed ai ciclomotoristi trasportare passeggeri sul loro veicolo; le Parti contraenti o le loro parti costitutive possono, tuttavia, autorizzare delle deroghe a questa disposizione, in particolare, autorizzare il trasporto di passeggeri sul o sui sedili supplementari che fossero installati sul veicolo. 1 motociclisti potranno trasportare dei passeggeri soltanto nella carrozzetta, se esiste, e sul sedile supplementare eventualmente installato dietro il conducente.
 
-<sup>4.</sup> Quando esiste una corsia per velocipedi o una pista per velocipedi, le Parti contraenti o le loro parti costitutive possono vietare ai ciclisti di circolare sulla rimanente carreggiata. Nello stesso caso esse possono autorizzare i ciclomotoristi a circolare sulla corsia per velocipedi o sulla pista per velocipedi e, se lo ritengono opportuno, vietare loro di circolare sulla rimanente carreggiata. La legislazione nazionale deve precisare in quali circostanze altri utenti della strada possono utilizzare la corsia per velocipedi o la pista per velocipedi o attraversarle, in maniera tale che la sicurezza dei ciclisti sia sempre garantita. [^27-2] [^27-3]
+<sup>4.</sup> Quando esiste una corsia per velocipedi o una pista per velocipedi, le Parti contraenti o le loro parti costitutive possono vietare ai ciclisti di circolare sulla rimanente carreggiata. Nello stesso caso esse possono autorizzare i ciclomotoristi a circolare sulla corsia per velocipedi o sulla pista per velocipedi e, se lo ritengono opportuno, vietare loro di circolare sulla rimanente carreggiata. La legislazione nazionale deve precisare in quali circostanze altri utenti della strada possono utilizzare la corsia per velocipedi o la pista per velocipedi o attraversarle, in maniera tale che la sicurezza dei ciclisti sia sempre garantita. [^27-2]
 
-... [^27-4]
+... [^27-3]
 
 [^27-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20).
 [^27-2]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^27-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20).
-[^27-4]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20).
+[^27-3]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20).
 
-#### Art. 27 <sup>bis</sup> a 27 <sup>quater</sup>
+#### Art. 27<sup>bis</sup> a 27<sup>quater</sup>
 
 [^27bis27quater-1]
 
@@ -812,34 +806,34 @@ Senza pregiudizio delle disposizioni delle legislazioni nazionali per quanto rig
 
 <sup>1.</sup>
 
-Tra il tramonto e l’alba, nonché in tutte le altre circostanze in cui la visibilità è insufficiente a causa, ad esempio, di nebbia, nevicate o forte pioggia, è obbligatorio accendere le seguenti luci sui veicoli in movimento:
+Tra il tramonto e l’alba, nonché in qualsiasi altra situazione in cui la visibilità è insufficiente a causa, ad esempio, di nebbia, nevicate o forte pioggia, è obbligatorio accendere le seguenti luci sui veicoli in movimento:
 
-- a) i proiettori di profondità o i proiettori di incrocio e le luci di posizione posteriori sui veicoli a motore e i ciclomotori, a seconda delle apparecchiature previste dalla presente Convenzione per ciascuna categoria di veicoli;
-- b) le luci di posizione anteriori, se prescritte al paragrafo 30 dell’allegato 5 della presente Convenzione, e almeno due luci di posizione posteriori sui rimorchi.
+- a) i proiettori di profondità o i proiettori anabbaglianti e le luci di posizione posteriori sui veicoli a motore e i ciclomotori, a seconda delle apparecchiature previste dalla presente Convenzione per ciascuna categoria di veicoli;
+- b) le luci di posizione anteriori, se prescritte al paragrafo 22.2 dell’allegato 5 della presente Convenzione, e almeno due luci di posizione posteriori sui rimorchi.
 
 <sup>2.</sup>
 
-I proiettori di profondità devono essere spenti e sostituiti con i proiettori di incrocio:
+I proiettori di profondità devono essere spenti e sostituiti con i proiettori anabbaglianti:
 
-- a) nei centri abitati quando la strada è sufficientemente illuminata e fuori dai centri abitati quando la carreggiata è illuminata in modo continuo e tale illuminazione è sufficiente per consentire al conducente di vedere distintamente ad una distanza adeguata e agli altri utenti della strada di scorgere il veicolo ad una distanza adeguata;
-- b) quando un conducente sta per incrociare un altro veicolo, in modo da evitare l’abbagliamento e alla distanza necessaria perché il conducente dell’altro veicolo possa continuare la sua marcia agevolmente e senza pericolo;
-- c) in tutte le altre circostanze in cui è necessario non abbagliare gli altri utenti della strada o gli utenti di una via d’acqua o di una linea ferroviaria che costeggi la strada.
+- a) nei centri abitati quando la strada è sufficientemente illuminata e fuori dai centri abitati quando la strada è illuminata in modo continuo e tale illuminazione è sufficiente per consentire al conducente di vedere distintamente ad una distanza adeguata e agli altri utenti della strada di scorgere il veicolo ad una distanza adeguata;
+- b) quando un conducente sta per incrociare un altro veicolo, in modo da evitare l’abbagliamento, alla distanza necessaria perché il conducente dell’altro veicolo possa proseguire la marcia agevolmente e senza pericolo;
+- c) in qualsiasi altra situazione in cui è necessario non abbagliare gli altri utenti della strada o gli utenti di una via d’acqua o di una linea ferroviaria che costeggi la strada.
 
 <sup>3.</sup> Tuttavia, quando un veicolo ne segue un altro a breve distanza, i proiettori di profondità possono essere utilizzati per dare un avvertimento luminoso nelle condizioni previste all’articolo 28 paragrafo 2 per indicare l’intenzione di sorpassare.
 
-<sup>4.</sup> I proiettori fendinebbia possono essere utilizzati unicamente in caso di nebbia fitta, nevicate e forte pioggia e, per quanto riguarda i proiettori fendinebbia anteriori, in sostituzione dei proiettori di profondità. La legislazione nazionale può autorizzare l’accensione simultanea dei proiettori fendinebbia anteriori e dei proiettori di incrocio e l’accensione dei proiettori fendinebbia anteriori su strade strette e con numerose curve.
+<sup>4.</sup> I proiettori fendinebbia possono essere utilizzati unicamente in caso di nebbia o in qualsiasi altra situazione analoga caratterizzata da visibilità ridotta e, nel caso dei proiettori fendinebbia anteriori, in sostituzione dei proiettori anabbaglianti. La legislazione nazionale può tuttavia autorizzare l’utilizzo simultaneo dei proiettori fendinebbia anteriori e dei proiettori anabbaglianti, l’utilizzo simultaneo dei proiettori fendinebbia anteriori e delle luci d’angolo e l’utilizzo dei proiettori fendinebbia anteriori su strade strette e sinuose.
 
-<sup>5.</sup> Per i veicoli dotati di luci di posizione anteriori, queste devono essere utilizzate contemporaneamente ai proiettori di profondità, i proiettori di incrocio e i proiettori fendinebbia anteriori.
+<sup>5.</sup> Per i veicoli dotati di luci di posizione anteriori, queste devono essere utilizzate contemporaneamente ai proiettori di profondità, ai proiettori anabbaglianti o ai proiettori fendinebbia anteriori. La funzione delle luci di posizione anteriori può essere sostituita dai proiettori anabbaglianti e/o dai proiettori di profondità a condizione che in caso di guasto di detti proiettori, le luci di posizione anteriori si riaccendano automaticamente.
 
-<sup>6.</sup> Di giorno, i conducenti di motocicli devono procedere con almeno un proiettore di incrocio anteriore e una luce rossa posteriore accesi. La legislazione nazionale può autorizzare l’uso di luci di giorno al posto dei proiettori di incrocio.
+<sup>6.</sup> La legislazione nazionale può rendere obbligatoria per i conducenti di veicoli a motore l’accensione di giorno dei proiettori anabbaglianti o delle luci di marcia diurna.
 
-<sup>7.</sup> La legislazione nazionale può rendere obbligatoria l’accensione di giorno dei proiettori di incrocio o delle luci di giorno. In questo caso, le luci di posizione posteriori devono essere utilizzati contemporaneamente ai proiettori anteriori.
+<sup>7.</sup> Di giorno, i conducenti di motocicli devono circolare con almeno un proiettore anabbagliante anteriore e una luce rossa posteriore accesi. La legislazione nazionale può autorizzare l’uso di luci di marcia diurna al posto dei proiettori anabbaglianti.
 
-<sup>8.</sup> Tra il tramonto e l’alba, nonché in tutte le altre circostanze in cui la visibilità è insufficiente la presenza di veicoli a motore e dei loro rimorchi fermi o in sosta su una strada deve essere segnalata mediante le luci di posizione anteriori e posteriori. In caso di nebbia fitta, nevicate, forte pioggia o in condizioni analoghe, è consentito l’uso dei proiettori di incrocio o dei proiettori fendinebbia anteriori. In questi casi è consentito l’accensione dei proiettori fendinebbia posteriori in aggiunta alle luci di posizione posteriori.
+<sup>8.</sup> Tra il tramonto e l’alba, nonché in qualsiasi altra situazione in cui la visibilità è insufficiente, la presenza di veicoli a motore e di rimorchi agganciati a questi ultimi, fermi o in sosta su una strada, deve essere segnalata mediante le luci di posizione anteriori e posteriori. In caso di nebbia fitta o in qualsiasi altra situazione analoga caratterizzata da visibilità ridotta, è consentito l’uso dei proiettori anabbaglianti o dei proiettori fendinebbia anteriori. In questi casi è consentito l’utilizzo dei proiettori fendinebbia posteriori in aggiunta alle luci di posizione posteriori.
 
 <sup>9.</sup>
 
-In deroga alle disposizioni del paragrafo 8 del presente articolo, in un centro abitato, le luci di posizione anteriori e posteriori possono essere sostituite dalle luci di sosta, a condizione che:
+In deroga alle disposizioni del paragrafo 8 del presente articolo, in un centro abitato le luci di posizione anteriori e posteriori possono essere sostituite dalle luci di sosta, a condizione che:
 
 - a) le dimensioni del veicolo non superino 6 m di lunghezza e 2 m di larghezza;
 - b) un rimorchio non sia agganciato al veicolo;
@@ -847,33 +841,36 @@ In deroga alle disposizioni del paragrafo 8 del presente articolo, in un centro 
 
 <sup>10.</sup>
 
-In deroga alle disposizioni del paragrafo 8 e 9 del presente articolo un veicolo può essere fermo o sostare a luci spente:
+In deroga alle disposizioni dei paragrafi 8 e 9 del presente articolo, un veicolo può essere fermo o sostare a luci spente:
 
 - a) su una strada illuminata in modo tale che il veicolo sia distintamente visibile ad una distanza sufficiente;
-- b) fuori della carreggiata e di una banchina stabile;
-- c) quando si tratta di ciclomotori e motocicli a due ruote, sprovvisti di side-car e di batteria e situati al lato della carreggiata in un centro abitato.
+- b) fuori dalla carreggiata e dalla corsia d’emergenza;
+- c) quando si tratta di ciclomotori e motocicli a due ruote sprovvisti di carrozzetta e di batteria situati al lato della carreggiata in un centro abitato.
 
-<sup>11.</sup> La legislazione nazionale può concedere deroghe alle disposizioni dei paragrafi 8 e 9 del presente articolo per i veicoli fermi o in sosta in strade poco frequentate di un centro abitato.
+<sup>11.</sup> La legislazione nazionale può concedere deroghe alle disposizioni dei paragrafi 8 e 9 del presente articolo per i veicoli fermi o in sosta in un centro abitato a bassa densità di traffico.
 
-<sup>12.</sup> I proiettori di retromarcia possono essere utilizzati unicamente quando il veicolo effettua o è sul punto di effettuare una retromarcia.
+<sup>12.</sup> I proiettori di retromarcia possono essere utilizzati unicamente quando il veicolo fa o è sul punto di fare retromarcia; i proiettori di retromarcia facoltativi addizionali possono rimanere accesi per brevi manovre lente in marcia avanti.
+
+12<sup>bis</sup>. I proiettori di manovra possono essere utilizzati unicamente quando il veicolo circola a una velocità inferiore o pari a 10 km (6 miglia) all’ora.
 
 <sup>13.</sup>
 
-L’uso delle luci di avvertimento lampeggianti è consentito unicamente per avvertire gli altri utenti della strada di un pericolo specifico:
+L’uso della segnalazione luminosa di pericolo è consentito unicamente per avvertire gli altri utenti della strada di un pericolo specifico:
 
 - a) quando un veicolo, a causa di un guasto o di un incidente, non può essere immediatamente rimosso e costituisce quindi un ostacolo per gli altri utenti;
 - b) quando è necessario segnalare agli altri utenti un pericolo imminente.
 
-<sup>14.</sup> La legislazione nazionale può autorizzare l’uso di luci di segnalazione speciali di colori diversi.
+<sup>14.</sup>
 
 Le luci di segnalazione speciali:
 
-- a) che emettono luce blu possono essere utilizzate unicamente sui veicoli prioritari nel corso di una missione o in altre circostanze in cui si renda necessario avvertire della presenza del veicolo gli altri utenti della strada;
-- b) che emettono luce arancione possono essere utilizzate soltanto mentre i veicoli stanno effettivamente eseguendo il compito per il quale sono stati dotati delle luci di segnalazione speciali o quando la presenza dei veicoli sopraccitati costituisce un pericolo o un ostacolo per gli altri utenti.
+- a) che emettono luce blu e/o rossa possono essere utilizzate unicamente sui veicoli prioritari nel corso di un intervento urgente o in altre circostanze in cui si renda necessario avvertire gli altri utenti della strada della presenza del veicolo;
+- b) che emettono luce arancione possono essere utilizzate soltanto quando i veicoli sono impiegati per lo scopo specifico per il quale sono stati dotati di dette luci o quando la presenza sulla strada di tali veicoli costituisce un pericolo o un ostacolo per gli altri utenti;
+- c) che emettono luce di un colore diverso possono essere autorizzate dalla legislazione nazionale.
 
-<sup>15.</sup> In nessun caso un veicolo può essere dotato anteriormente di luci rosse e posteriormente di luci bianche, fatte salve le deroghe previste nell’articolo 61 dell’allegato 5. Non è consentito modificare un veicolo, né dotarlo di luci supplementari suscettibili di contravvenire alla presente disposizione.
+<sup>15.</sup> In nessun caso un veicolo può essere dotato anteriormente di luci rosse e posteriormente di luci bianche, fatte salve le deroghe previste nel paragrafo 61 dell’allegato 5. Non è consentito modificare un veicolo né dotarlo di luci supplementari suscettibili di contravvenire alla presente disposizione.
 
-[^32-1]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^32-1]: Nuovo testo giusta gli emendamenti del 9 ago. 2024, entrati in vigore per la Svizzera il 9 feb. 2025 ([RU 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 #### Art. 33
 
@@ -958,7 +955,7 @@ Si considera soddisfatto il requisito della presenza di un conducente in ogni ve
 
 <sup>4.</sup> Si raccomanda che le Parti contraenti che non ne fossero ancora provviste istituiscano un servizio incaricato, su scala nazionale o regionale, di registrare gli autoveicoli messi in circolazione e di accentrare, per ogni veicolo, le informazioni iscritte su ogni certificato di immatricolazione.
 
-[^35-1]: Comma settimo introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^35-1]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^35-2]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^35-3]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
@@ -1058,12 +1055,14 @@ Nonostante le disposizioni dei paragrafi 1 e 2:
 
 <sup>5.</sup> La patente internazionale potrà essere rilasciata soltanto al titolare di una patente nazionale per il rilascio della quale saranno state soddisfatte le condizioni minime fissate dalla presente Convenzione. La patente di guida internazionale sarà rilasciata soltanto dalla Parte contraente sul cui territorio si trova la residenza abituale del titolare e che ha rilasciato la patente di guida nazionale o ha riconosciuto la patente di guida rilasciata da un’altra Parte contraente; non sarà valida su detto territorio.[^41-7]
 
-<sup>6.</sup> 7.[^41-8] ...
+<sup>6.</sup>
 
 Le disposizioni del presente articolo non obbligano le Parti contraenti:
 
 - a) a riconoscere la validità delle patenti nazionali rilasciate sul territorio di un’altra Parte contraente a persone aventi la loro residenza abituale sul loro territorio al momento di tale rilascio o la cui residenza abituale è stata trasferita sul loro territorio dopo tale rilascio;
-- b) a riconoscere la validità delle patenti nazionali rilasciate a conducenti la cui residenza abituale al momento del rilascio non si trovava sul territorio in cui la patente è stata rilasciata o la cui residenza è stata trasferita, dopo tale rilascio, in un altro territorio.[^41-9]
+- b) a riconoscere la validità delle patenti nazionali rilasciate a conducenti la cui residenza abituale al momento del rilascio non si trovava sul territorio in cui la patente è stata rilasciata o la cui residenza è stata trasferita, dopo tale rilascio, in un altro territorio.[^41-8]
+
+<sup>7.</sup> ...[^41-9]
 
 [^41-1]: Aggiornato giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^41-2]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -1072,8 +1071,8 @@ Le disposizioni del presente articolo non obbligano le Parti contraenti:
 [^41-5]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^41-6]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^41-7]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-8]: Abrogato dagli emendamenti del 28 set. 2004, con effetto dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-9]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-8]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-9]: Abrogato dagli emendamenti del 28 set. 2004, con effetto dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 #### Art. 42
 
@@ -1247,15 +1246,15 @@ Allegato 1[^t-2]
 
 ## Deroghe all’obbligo di ammettere in circolazione internazionale gli autoveicoli ed i rimorchi
 
-[^t-2]: Aggiornato dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-2]: Aggiornato dagli emendamenti del 28 set. 2004 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)) e del 9 ago. 2024, in vigore per la Svizzera dal 9 feb. 2025 ([RU 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 \1. Le Parti contraenti possono rifiutare di ammettere in circolazione internazionale sul loro territorio gli autoveicoli, i rimorchi e i complessi di veicoli le cui masse, totali o per asse, o le cui dimensioni superino i limiti fissati dalla loro legislazione nazionale per i veicoli immatricolati sul loro territorio. Le Parti contraenti sul cui territorio ha luogo una circolazione internazionale di veicoli pesanti si adopereranno per concludere degli accordi regionali che consentano, in circolazione internazionale, l’accesso alle strade della regione, fatta eccezione per le strade minori, ai veicoli o complessi di veicoli le cui masse e dimensioni non superino le cifre fissate da tali accordi.
 
-\2. Per l’applicazione del paragrafo 1 del presente allegato, non saranno considerate come oltrepassanti i limiti della larghezza massima autorizzata le sporgenze:
+\2. Per l’applicazione del paragrafo 1 del presente allegato, non saranno considerate come oltrepassanti la larghezza massima autorizzata le sporgenze:
 
-- a) dei pneumatici, presso il loro punto di contatto con il suolo, e dei collegamenti degli indicatori di pressione dei pneumatici;
-- b) dei dispositivi antislittanti eventualmente montati sulle ruote;
-- c) degli specchi retrovisori costruiti in modo da poter flettersi, sotto l’effetto di una moderata pressione, nei due sensi, fino a non oltrepassare più la larghezza massima autorizzata;
+- a) degli pneumatici, presso il loro punto di contatto con il suolo, e dei collegamenti dei sistemi di monitoraggio della loro pressione;
+- b) dei dispositivi antislittamento eventualmente montati sulle ruote;
+- c) degli specchi retrovisori/dispositivi di visione indiretta costruiti in modo da poter flettersi nei due sensi, sotto l’effetto di una moderata pressione, fino a non oltrepassare più la larghezza massima autorizzata;
 - d) degli indicatori di direzione laterali e delle luci di ingombro, purché tale sporgenza sia di pochi centimetri;
 - e) dei sigilli doganali apposti sul carico e dei dispositivi di fissaggio e di protezione di tali sigilli.
 
@@ -1275,7 +1274,7 @@ Allegato 1[^t-2]
 
 7<sup>bis</sup>. ... [^annex1-lvlu1-1]
 
-\8. Le Parti contraenti possono rifiutare di ammettere in circolazione internazionale sul loro territorio ogni autoveicolo munito di proiettori di incrocio a fascio asimmetrico allorché la regolazione dei fasci di luce non è adatta al senso di circolazione nel loro territorio.
+\8. Le Parti contraenti possono rifiutare di ammettere alla circolazione internazionale sul loro territorio ogni autoveicolo munito di proiettori anabbaglianti a fascio asimmetrico quando la regolazione dei fasci di luce non è adatta al senso di circolazione nel loro territorio.
 
 \9. Le Parti contraenti possono rifiutare di ammettere in circolazione internazionale sul loro territorio ogni autoveicolo o ogni rimorchio trainato da un autoveicolo che porti un segno distintivo diverso da uno di quelli previsti all’articolo 37 della presente Convenzione. Non possono tuttavia rifiutare l’ammissione di un veicolo quando su di esso è apposto, separatamente dalla targa di immatricolazione, un segno distintivo conforme alle disposizioni della presente Convenzione che sostituisce un segno distintivo, incorporato nella targa di immatricolazione, non conforme alle disposizioni della presente Convenzione.
 
@@ -1353,7 +1352,7 @@ Allegato 5[^t-5]
 
 ## Condizioni tecniche relative agli autoveicoli ed ai rimorchi
 
-[^t-5]: Aggiornato dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^t-5]: Aggiornato dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) e del 9 ago. 2024, in vigore per la Svizzera dal 9 feb. 2025 ([RU 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 \1. Senza pregiudizio delle disposizioni del paragrafo 2 a) dell’articolo 3 e del paragrafo 1 dell’articolo 39 della presente Convenzione, ogni Parte contraente può, per gli autoveicoli che essa immatricola e per i rimorchi che essa ammette alla circolazione in virtù della propria legislazione nazionale, imporre delle prescrizioni che completino le disposizioni del presente allegato o più rigorose di queste. Tutti i veicoli in circolazione internazionale devono rispondere alle prescrizioni tecniche in vigore nel loro Paese di immatricolazione al momento della loro prima messa su strada.
 
@@ -1363,7 +1362,7 @@ Allegato 5[^t-5]
 
 ### Capitolo I Frenatura
 
-\4. Ai fini del presente capitolo,
+\4. Ai fini del presente capitolo:
 
 - a) il termine «ruote di un asse» indica le ruote simmetriche, oppure sensibilmente simmetriche, rispetto al piano longitudinale mediano del veicolo, anche se esse non si trovano su di uno stesso asse (un asse tandem è contato come due assi);
 - b) il termine «freno di servizio» indica il dispositivo normalmente utilizzato per rallentare o fermare il veicolo;
@@ -1425,107 +1424,189 @@ C. – Frenatura dei complessi di veicoli
 
 D. – Frenatura dei motocicli
 
-- 18\. a) Ogni motociclo deve essere provvisto di due dispositivi di frenatura, di cui uno agisca almeno sulla o sulle ruote anteriori; se al motociclo è aggiunta una carrozzetta, la frenatura della ruota della carrozzetta non è richiesta. Tali dispositivi di frenatura debbono permettere di rallentare il motociclo e di arrestarlo in modo sicuro, rapido ed efficace, quali che siano le sue condizioni di carico e la pendenza ascendente o discendente della strada su cui circola.
-- b) Oltre ai dispositivi previsti al capoverso a) del presente paragrafo, i motocicli a tre ruote simmetriche rispetto al piano longitudinale mediano del veicolo debbono essere provvisti di un freno di stazionamento che risponda alle condizioni indicate al capoverso b) del paragrafo 5 del presente allegato.
+- 18\. a) Ogni motociclo deve essere provvisto di due dispositivi di frenatura, di cui uno che agisca almeno sulla o sulle ruote posteriori e l’altro almeno sulla o sulle ruote anteriori; se al motociclo è aggiunta una carrozzetta, non è richiesta la frenatura della ruota della carrozzetta. Tali dispositivi devono permettere di rallentare il motociclo e di arrestarlo in modo sicuro, rapido ed efficace, a prescindere dalle condizioni di carico e dalla pendenza ascendente o discendente della strada su cui circola;
+- b) al posto dei dispositivi di cui alla lettera a) del presente paragrafo, i motocicli possono essere dotati di un sistema di frenatura che agisca su tutte le ruote, sia composto da due o più circuiti parziali azionati da un comando unico e progettato affinché un guasto a uno di questi circuiti non impedisca il funzionamento degli altri;
+- c) oltre ai dispositivi previsti alla lettera a) del presente paragrafo, i motocicli a tre ruote simmetriche rispetto al piano longitudinale mediano del veicolo devono essere provvisti di un freno di stazionamento che soddisfi le condizioni indicate alla lettera b) del paragrafo 5 del presente allegato.
 
 ### Capitolo II Dispositivi di illuminazione e di segnalazione luminosa dei veicoli
 
+### A. Definizioni
+
 \19. Ai fini del presente capitolo, il termine:
 
-- – «Proiettore di profondità» indica la luce che serve ad illuminare la strada a grande distanza innanzi a tale veicolo;
-- – «Proiettore di incrocio» indica la luce che serve ad illuminare la strada innanzi a tale veicolo senza abbagliare né disturbare indebitamente i conducenti provenienti in senso inverso e gli altri utenti della strada;
-- – «Luce di posizione anteriore» indica la luce che serve ad indicare la presenza e la larghezza di tale veicolo visto dalla parte anteriore;
-- – «Luce di posizione posteriore» indica la luce che serve ad indicare la presenza e la larghezza di tale veicolo visto dalla parte posteriore;
-- – «Luce di arresto» indica la luce che serve ad indicare agli altri utenti della strada che si trovano dietro tale veicolo che il suo conducente aziona il freno di servizio;
-- – «Proiettore fendinebbia anteriore» indica la luce che serve a migliorare l’illuminazione della strada in caso di nebbia fitta, di nevicate, di forte pioggia o di condizioni analoghe;
-- – «Proiettore fendinebbia posteriore» indica la luce che serve a rendere il veicolo maggiormente visibile dal dietro in caso di nebbia fitta, di nevicate, di forte pioggia o di condizioni analoghe;
-- – «Proiettore di retromarcia» indica la luce che serve ad illuminare la strada verso la parte posteriore di tale veicolo e ad avvisare gli altri utenti della strada che il veicolo esegue una retromarcia o è sul punto di eseguirla;
-- – «Indicatore di direzione» indica la luce che serve ad indicare agli utenti della strada che il conducente ha l’intenzione di cambiare direzione verso destra o verso sinistra;
-- – «Luce di stazionamento» indica la luce che serve a segnalare la presenza di un veicolo in sosta; può essere usato al posto delle luci di posizione anteriori e posteriori;
-- – «Luce di ingombro» indica la luce installata all’estremità della larghezza e il più vicino possibile all’altezza del veicolo e destinata ad indicare chiaramente la sua larghezza complessiva. Per certi veicoli e per i rimorchi questo segnale serve di complemento alle luci di posizione mettendo in evidenza in particolare il loro volume;
-- – «Luce di avvertimento lampeggiante» indica il segnale dato dall’accensione simultanea di tutti gli indicatori di direzione;
-- – «Luce laterale» indica la luce situata sulla fiancata del veicolo e destinata a segnalarne la presenza quando visto di lato;
-- – «Luce speciale» indica una luce destinata a contraddistinguere un veicolo prioritario o a segnalare un veicolo o un gruppo di veicoli la cui presenza impone agli altri utenti della strada di prendere precauzioni particolari, segnatamente convogli di veicoli, veicoli di dimensioni eccezionali e veicoli o macchinari per la costruzione e la manutenzione delle strade;
-- – «Dispositivo d’illuminazione della targa d’immatricolazione posteriore» indica il dispositivo destinato ad illuminare il punto in cui è collocata la targa d’immatricolazione posteriore e che può essere costituito da diversi elementi ottici;
-- – «Luce di giorno» indica una luce destinata a rendere un veicolo in movimento più visibile di giorno dalla parte anteriore;
-- – «Catarifrangente» indica un dispositivo che serve a segnalare la presenza di un veicolo mediante la riflessione della luce proveniente da una sorgente luminosa non collegata a tale veicolo;
-- – «Superficie luminosa» per una luce indica la proiezione ortogonale su un piano verticale trasversale della superficie visibile da cui è emessa la luce; per un catarifrangente essa indica la superficie visibile dell’ottica catarifrangente.
+- a) «proiettore di profondità» indica una luce che serve a illuminare a grande distanza la strada antistante il veicolo;
+- b) «proiettore anabbagliante» indica una luce che serve a illuminare la strada antistante il veicolo senza abbagliare né disturbare indebitamente i conducenti provenienti in senso opposto e gli altri utenti della strada;
+- c) «sistema di fari direzionali anteriori (o AFS)» indica un dispositivo di illuminazione che emette fasci luminosi con caratteristiche diverse per adattare automaticamente alle varie condizioni d’uso il fascio anabbagliante ed eventualmente il fascio abbagliante;
+- d) «luce d’angolo» indica una luce che serve a fornire un’illuminazione supplementare alla parte della strada situata in prossimità dell’angolo anteriore del veicolo dal lato in cui quest’ultimo è in procinto di curvare;
+- e) «illuminazione di svolta» indica una funzione tesa a migliorare l’illuminazione in curva;
+- f) «luce di posizione anteriore» indica una luce che serve a segnalare la presenza e la larghezza del veicolo visto dalla parte anteriore;
+- g) «luce di posizione posteriore» indica una luce che serve a segnalare la presenza e la larghezza del veicolo visto dalla parte posteriore;
+- h) «luce di arresto» indica una luce che serve a segnalare agli utenti della strada che si trovano dietro il veicolo che lo spostamento longitudinale di quest’ultimo è rallentato intenzionalmente;
+- i) «proiettore fendinebbia anteriore» indica una luce che serve a migliorare l’illuminazione della strada antistante il veicolo in caso di nebbia o in qualsiasi altra situazione analoga caratterizzata da visibilità ridotta;
+- j) «proiettore fendinebbia posteriore» indica una luce che serve a rendere visibile più facilmente un veicolo dalla parte posteriore in caso di nebbia o in qualsiasi altra situazione analoga caratterizzata da visibilità ridotta;
+- k) «proiettore di retromarcia» indica una luce che serve a illuminare la strada retrostante il veicolo e ad avvisare gli altri utenti della strada che il veicolo fa o è sul punto di fare retromarcia o, nel caso di proiettori di retromarcia facoltativi addizionali, che serve a fornire un’illuminazione ai lati del veicolo per agevolare l’esecuzione di manovre lente;
+- l) «proiettore di manovra» indica una luce che serve a fornire un’illuminazione aggiuntiva ai lati del veicolo per agevolare l’esecuzione di manovre lente;
+- m) «indicatore di direzione» indica una luce che serve a segnalare agli utenti della strada l’intenzione del conducente di cambiare direzione verso destra o verso sinistra;
+- n) «luce di sosta» indica una luce che serve a segnalare la presenza di un veicolo in sosta in un centro abitato. In questo caso, può essere usata al posto delle luci di posizione anteriori e posteriori;
+- o) «luce di ingombro» indica una luce installata nel punto più esterno e il più vicino possibile all’estremità superiore del veicolo e destinata a segnalare chiaramente la sua larghezza complessiva. Questa luce serve di complemento alle luci di posizione anteriori e posteriori di determinati veicoli a motore e rimorchi, in particolare per evidenziare le loro dimensioni;
+- p) «segnalazione luminosa di pericolo» indica un segnale dato dall’accensione simultanea degli indicatori di direzione del veicolo;
+- q) «luce di posizione laterale» indica una luce che serve a segnalare la presenza di un veicolo visto di lato;
+- r) «luce di segnalazione speciale» indica una luce che serve a contraddistinguere un veicolo prioritario o un veicolo o gruppo di veicoli la cui presenza può costituire un pericolo o un intralcio per gli altri utenti;
+- s) «luce di targa d’immatricolazione posteriore» indica un dispositivo che serve a illuminare l’alloggiamento della targa posteriore; tale dispositivo può essere costituito da componenti ottiche diverse;
+- t) «luce di marcia diurna» indica una luce destinata a migliorare la visibilità di giorno della parte anteriore di un veicolo in circolazione;
+- u) «luce di cortesia» indica una luce che serve a fornire un’illuminazione integrativa per agevolare la salita e la discesa di conducente e passeggeri dal veicolo oppure le operazioni di carico e scarico;
+- v) «catadiottro» indica un dispositivo che serve a segnalare la presenza di un veicolo mediante la riflessione della luce proveniente da una sorgente luminosa estranea al veicolo;
+- w) «marcatore di ingombro» indica un dispositivo avente la funzione di aumentare la visibilità di un veicolo lateralmente o posteriormente (e, nel caso dei rimorchi, anche anteriormente) grazie alla riflessione della luce proveniente da una sorgente luminosa estranea al veicolo;
+- x) «superficie luminosa» indica la proiezione ortogonale di una luce su un piano perpendicolare all’asse di riferimento tangente la superficie esterna che emette la luce. Nel caso di un catadiottro si considera superficie luminosa l’area delimitata dai piani contigui alle estremità del sistema catadiottrico.
 
-\20. I colori delle luci previste nel presente capitolo debbono essere, per quanto possibile, conformi alle definizioni date nell’appendice del presente allegato.
+### B. Prescrizioni tecniche
 
-\21. Ad eccezione dei motocicli, ogni autoveicolo suscettibile di superare su strada piana la velocità di 40 km (25 miglia) all’ora deve essere provvisto nella parte anteriore di un numero pari di proiettori di profondità emettenti luce di colore bianco o giallo-selettivo, capaci di illuminare efficacemente la strada di notte con tempo chiaro. 1 bordi esterni della superficie luminosa del proiettore di profondità non debbono in alcun caso trovarsi più vicini all’estremità della larghezza del veicolo dei bordi esterni della superficie luminosa dei proiettori di incrocio.
+\20. Principi
 
-\22. Ad eccezione dei motocicli, ogni autoveicolo suscettibile di superare su strada piana la velocità di 10 km (6 miglia) all’ora deve essere provvisto nella parte anteriore di un numero pari di proiettori d’incrocio emettenti luce bianca o giallo-selettivo, capaci di illuminare efficacemente la strada di notte con tempo chiaro. Un autoveicolo deve essere munito di un’installazione tale da non permettere l’accensione simultanea di più di due proiettori d’incrocio. 1 proiettori di incrocio debbono essere regolati in maniera da essere conformi alla definizione del paragrafo 19 del presente allegato.
+20.1 I colori delle luci di cui al presente capitolo devono essere, per quanto possibile, conformi alle definizioni date negli strumenti giuridici internazionali applicabili ai veicoli a ruote, agli equipaggiamenti e ai pezzi che possono essere installati o usati in veicoli a ruote[^annex5-lvlu1-chapII-lvlB-1]\*.
 
-\23. Ogni autoveicolo diverso da un motociclo a due ruote senza carrozzetta deve essere munito nella parte anteriore di due luci di posizione anteriore bianche; tuttavia, il giallo-selettivo è ammesso per le luci di posizione anteriori incorporate nei proiettori di profondità o nei proiettori d’incrocio che emettono fasci di luce giallo-selettivo. Tali luci di posizione anteriori, allorché sono le sole luci accese verso l’avanti debbono essere visibili di notte con tempo chiaro senza abbagliare né disturbare indebitamente gli altri utenti della strada.
+20.2 Una funzione di illuminazione specifica può essere assicurata da più di una luce.
 
-- 24\.a) Ogni autoveicolo diverso da un motociclo a due ruote senza carrozzetta deve essere provvisto sulla parte anteriore di un numero pari di luci di posizione posteriori rosse visibili di notte con tempo chiaro senza abbagliare né disturbare indebitamente gli altri utenti della strada.
-- b) Ogni rimorchio deve essere provvisto sulla parte posteriore di un numero pari di luci di posizione posteriori rosse visibili di notte con tempo chiaro senza abbagliare né disturbare indebitamente gli altri utenti della strada. Tuttavia, i rimorchi la cui larghezza non supera 0,80 m possono essere provvisti di una sola di tali luci se sono agganciati ad un motociclo a due ruote senza carrozzetta.
+20.3 Su uno stesso veicolo le luci che hanno la stessa funzione e sono orientate verso la stessa direzione devono essere dello stesso colore.
 
-\25. Ogni autoveicolo o rimorchio che reca sulla parte posteriore un numero di immatricolazione deve essere munito di un dispositivo di illuminazione tale che il detto numero sia leggibile di notte con tempo chiaro.
+Le luci ed i catadiottri che sono in numero pari devono essere posti simmetricamente rispetto al piano longitudinale mediano del veicolo, salvo sui veicoli la cui forma esterna è asimmetrica. Le luci di ciascuna coppia devono avere pressappoco la stessa intensità. Le presenti disposizioni non si applicano ai sistemi di fari direzionali anteriori.
 
-\26. Su ogni autoveicolo, compresi i motocicli, e su ogni complesso costituito da un autoveicolo e da uno o più rimorchi, i collegamenti elettrici debbono essere tali che i proiettori di profondità, i proiettori di incrocio, i proiettori fendinebbia anteriori, le luci di posizione anteriori dell’autoveicolo ed il dispositivo previsto al precedente paragrafo 25 possano essere messi in funzione soltanto quando le luci di posizione posteriori dell’autoveicolo o del complesso di veicoli, situate più indietro, sono anche esse in funzione.
+20.4 Luci di diversa natura e, con riserva delle disposizioni degli altri paragrafi del presente capitolo, luci e catadiottri possono essere raggruppati o incorporati in uno stesso dispositivo, purché ciascuna di tali luci e di tali catadiottri sia conforme alle disposizioni applicabili del presente allegato.
 
-I proiettori fendinebbia posteriori devono poter essere messi in funzione soltanto se i proiettori di profondità, i proiettori d’incrocio o i proiettori fendinebbia anteriori sono messi in funzione.
+\21. Proiettori di profondità, proiettori anabbaglianti, sistema di fari direzionali anteriori e superficie luminosa
 
-Tuttavia, tale condizione non è imposta per i proiettori di profondità o per i proiettori di incrocio quando sono utilizzati per dare gli avvertimenti luminosi previsti al paragrafo 3 dell’articolo 32 della Convenzione. Inoltre, i collegamenti elettrici debbono essere tali che le luci di posizione anteriori dell’autoveicolo siano sempre accese quando sono accesi i proiettori di incrocio, i proiettori di profondità o i proiettori fendinebbia anteriori.»
+21.1 Ad eccezione dei motocicli, ogni autoveicolo con velocità massima per costruzione superiore a 40 km (25 miglia) all’ora deve essere provvisto, sulla parte anteriore, di un numero pari di proiettori di profondità bianchi o degli elementi pertinenti di un sistema di fari direzionali anteriori.
 
-\27. Ogni autoveicolo diverso da un motociclo a due ruote senza carrozzetta deve essere provvisto nella parte posteriore di almeno due catarifrangenti rossi di forma non triangolare. Questi catarifrangenti, quando sono illuminati dai proiettori di profondità, di incrocio o fendinebbia di un altro veicolo, debbono essere visibili di notte con tempo chiaro dal conducente di quest’altro veicolo.»
+21.2 Ad eccezione dei motocicli, ogni autoveicolo con velocità massima per costruzione superiore a 10 km (6 miglia) all’ora deve essere provvisto, sulla parte anteriore, di due proiettori anabbaglianti bianchi o degli elementi pertinenti di un sistema di fari direzionali anteriori.
 
-\28. Ogni rimorchio deve essere provvisto nella parte posteriore di almeno due catarifrangenti rossi. Tali catarifrangenti debbono avere la forma di un triangolo equilatero con un vertice in alto ed un lato orizzontale. Nessuna luce di segnalazione deve essere posta all’interno del triangolo. Tali catarifrangenti debbono soddisfare alla condizione di visibilità fissata al precedente paragrafo 27. Tuttavia, i rimorchi la cui larghezza non supera 0,80 m possono essere provvisti di un solo catarifrangente se sono agganciati ad un motociclo a due ruote senza carrozzetta.»
+21.3 Con riserva della possibilità di esonerare dal presente obbligo, in tutto o in parte, i ciclomotori a due ruote con o senza carrozzetta per le Parti contraenti che, conformemente all’articolo 54 paragrafo 2 della Convenzione, avranno dichiarato di assimilare i ciclomotori ai motocicli:
 
-\29. Ogni rimorchio deve essere provvisto nella parte anteriore di due catadiottri bianchi, di forma non triangolare. Tali catadiottri debbono soddisfare alle condizioni di visibilità fissate al precedente paragrafo 27.
+- a) ogni motociclo a due ruote con o senza carrozzetta deve essere provvisto di uno o due proiettori anabbaglianti bianchi;
+- b) ogni motociclo a due ruote con o senza carrozzetta con velocità massima per costruzione superiore a 40 km (25 miglia) all’ora può essere provvisto, oltre che dei proiettori anabbaglianti, di almeno un proiettore di profondità bianco;
+- c) ogni motociclo a due ruote con o senza carrozzetta con velocità massima per costruzione superiore a 50 km (31 miglia) all’ora deve essere provvisto, oltre che dei proiettori anabbaglianti, di uno o due proiettori di profondità bianchi.
 
-\30. Un rimorchio deve essere provvisto di due luci di posizione anteriori bianche, quando la sua larghezza supera 1,60 m. Le luci di posizione così prescritte debbono essere poste il più vicino possibile all’estremità della larghezza del rimorchio.
+21.4 I bordi esterni della superficie luminosa dei proiettori di profondità non devono in nessun caso trovarsi più vicini all’estremità della larghezza del veicolo dei bordi esterni della superficie luminosa dei proiettori anabbaglianti.
 
-\31. Ad eccezione dei motocicli a due ruote con o senza carrozzetta, ogni autoveicolo capace di superare su strada piana la velocità di 25 km (15 miglia) all’ora deve essere provvisto nella parte posteriore di due luci di arresto di colore rosso la cui intensità luminosa sia nettamente superiore a quella delle luci di posizione posteriori. La stessa disposizione si applica ad ogni rimorchio che costituisce l’ultimo veicolo di un complesso di veicoli.
+\22. Luci di posizione anteriori e posteriori
 
-\32. Con riserva della possibilità per le Parti contraenti che, conformemente al paragrafo 2 dell’articolo 54 della Convenzione, avranno fatto una dichiarazione per assimilare i ciclomotori ai motocicli, di esonerare i ciclomotori da tutti o da parte di tali obblighi:
+22.1 Ogni autoveicolo diverso da un motociclo a due ruote senza carrozzetta deve essere provvisto, sulla parte anteriore, di due luci di posizione anteriori di colore bianco o arancione.
 
-- a) ogni motociclo a due ruote con o senza carrozzetta deve essere provvisto di uno o due proiettori di incrocio che soddisfino alle disposizioni di colore e di visibilità fissate al precedente paragrafo 22;
-- b) ogni motociclo a due ruote con o senza carrozzetta capace di superare su strada piana la velocità di 40 km (25 miglia) all’ora deve essere provvisto, oltre che del proiettore di incrocio, di almeno un proiettore di profondità che soddisfi alle disposizioni di colore e di visibilità fissate al precedente paragrafo 21. Se tale motociclo reca più di un proiettore di profondità, tali proiettori debbono essere posti il più vicino possibile l’uno all’altro.
-- c) ...
+22.2 Ogni rimorchio di lunghezza superiore a 1,60 m deve essere provvisto di due luci di posizione anteriori bianche.
 
-\33. Ogni motociclo a due ruote senza carrozzetta può essere provvisto nella parte anteriore di una o due luci di posizione anteriori che soddisfino alle condizioni di colore e di visibilità fissate al precedente paragrafo 23. Se tale motociclo reca due luci di posizione anteriori, esse debbono essere poste il più vicino possibile l’una all’altra.
+22.3 Ogni motociclo a due ruote senza carrozzetta può essere provvisto, sulla parte anteriore, di una o due luci di posizione anteriori di colore bianco o arancione.
 
-\34. Ogni motociclo a due ruote senza carrozzetta deve essere provvisto nella parte posteriore di una luce di posizione posteriore che soddisfi alle condizioni di colore e di visibilità fissate al precedente paragrafo 24.
+22.4
 
-\35. Ogni motociclo a due ruote senza carrozzetta deve essere provvisto nella parte posteriore di un catarifrangente di forma non triangolare che soddisfi alle condizioni di colore e di visibilità fissate al precedente paragrafo 27.
+- a) Ogni autoveicolo diverso da un motociclo a due ruote senza carrozzetta deve essere provvisto, sulla parte posteriore, di un numero pari di luci di posizione posteriori rosse.
+- b) Ogni rimorchio deve essere provvisto, sulla parte posteriore, di un numero pari di luci di posizione posteriori rosse.
 
-\36. Con riserva della possibilità per le Parti contraenti che, conformemente al paragrafo 2 dell’articolo 54 della Convenzione, avranno fatto una dichiarazione per assimilare i ciclomotori ai motocicli, di esonerare da tale obbligo i ciclomotori a due ruote con o senza carrozzetta, ogni motociclo a due ruote con o senza carrozzetta deve essere provvisto di una luce di arresto che soddisfi alle disposizioni del precedente paragrafo 31.
+22.5 Ogni motociclo a due ruote senza carrozzetta deve essere provvisto, sulla parte posteriore, di una o due luci di posizione posteriori.
 
-\37. Senza pregiudizio delle disposizioni relative alle luci ed ai dispositivi richiesti per i motocicli senza carrozzetta, ogni carrozzetta collegata ad un motociclo a due ruote deve essere provvista nella parte anteriore di una luce di posizione anteriore che soddisfi alle condizioni di colore e di visibilità fissate al precedente paragrafo 23 e nella parte posteriore di una luce di posizione posteriore che soddisfi alle condizioni di colore e di visibilità fissate al precedente paragrafo 24a e di un catadiottro che soddisfi alle condizioni di colore e di visibilità fissate al precedente paragrafo 27. 1 collegamenti elettrici debbono essere tali che le luci di posizione anteriori e posteriori della carrozzetta si accendano contemporaneamente alla luce di posizione posteriore del motociclo.
+\23. Luce di targa d’immatricolazione posteriore
 
-\38. Gli autoveicoli a tre ruote simmetriche rispetto al piano longitudinale mediano del veicolo, assimilati ai motocicli in applicazione del comma n) dell’articolo primo della Convenzione, debbono essere provvisti dei dispositivi prescritti ai precedenti paragrafi 21, 22, 23, 24a, 27 e 31. Tuttavia, su un veicolo elettrico la cui larghezza non superi 1,30 m e la cui velocità non superi i 40 km (25 miglia) orari, sono sufficienti un solo proiettore di profondità ed un solo proiettore di incrocio.
+Su ogni autoveicolo o rimorchio la targa posteriore o, se del caso, il numero riportato sulla parte posteriore devono essere illuminati mediante una luce di targa d’immatricolazione posteriore.
 
-\39. Ogni autoveicolo, ad eccezione dei ciclomotori, e ogni rimorchio deve essere provvisto di indicatori di direzione a posizione fissa ed a luce lampeggiante arancione, disposti in numero pari sul veicolo e visibili di giorno e di notte dagli utenti della strada interessati al movimento del veicolo.
+\24. Proiettori fendinebbia anteriori e posteriori e superficie luminosa
 
-\40. Se su di un autoveicolo sono installati dei proiettori fendinebbia anteriori, questi debbono emettere luce di colore bianco o giallo-selettivo, debbono essere in numero di due o, se si tratta di un motociclo, di uno solo, e debbono essere situati in modo tale che nessun punto della loro superficie luminosa si trovi al di sopra del punto più alto della superficie luminosa dei proiettori di incrocio.
+24.1 Ogni autoveicolo può essere equipaggiato con uno o due proiettori fendinebbia anteriori di colore bianco o giallo selettivo. I proiettori fendinebbia anteriori devono essere posizionati in modo tale che nessun punto della loro superficie luminosa si trovi al di sopra del punto più alto della superficie luminosa dei proiettori anabbaglianti.
 
-\41. Il proiettore di retromarcia non deve abbagliare o disturbare indebitamente gli altri utenti della strada. Se su un autoveicolo è montato un proiettore di retromarcia, esso deve emettere luce bianca oppure giallo-selettivo. Il proiettore di retromarcia deve accendersi unicamente quando è innestato il dispositivo di retromarcia.
+24.2 Ogni autoveicolo, ad eccezione dei motocicli, e ogni rimorchio devono essere provvisti, sulla parte posteriore, di uno o due proiettori fendinebbia posteriori di colore rosso; i proiettori fendinebbia posteriori devono potersi accendere solo quando sono accesi i proiettori di profondità, i proiettori anabbaglianti o i proiettori fendinebbia anteriori.
 
-\42. Nessuna luce, diversa dagli indicatori di direzione e dalle luci speciali, deve emettere luce lampeggiante o intermittente. Le luci laterali possono lampeggiare contemporaneamente agli indicatori di direzione.
+24.3 Ogni motociclo può essere provvisto, sulla parte posteriore, di uno o più proiettori fendinebbia posteriori di colore rosso; i proiettori fendinebbia posteriori devono potersi accendere solo quando sono accesi i proiettori di profondità, i proiettori anabbaglianti o i proiettori fendinebbia anteriori.
 
-42<sup>bis</sup>. Le luci speciali devono emettere luce lampeggiante o intermittente; il colore della luce emessa deve essere conforme alle disposizioni dell’articolo 32 paragrafo 14.
+\25. Catadiottri
 
-42<sup>ter</sup>. Ogni veicolo, ad eccezione dei motocicli, e ogni rimorchio devono essere muniti di un dispositivo per emettere una luce lampeggiante di avvertimento.
+25.1 Ogni autoveicolo diverso da un motociclo a due ruote senza carrozzetta deve essere provvisto, sulla parte posteriore, di almeno due catadiottri rossi di forma non triangolare.
 
-42<sup>quater</sup>. I proiettori fendinebbia posteriori, installati su un autoveicolo o un rimorchio, devono essere rossi.
+25.2 Ogni rimorchio deve essere provvisto, sulla parte posteriore, di almeno due catadiottri rossi. Tuttavia, i rimorchi la cui larghezza non supera 0,80 m possono essere provvisti di un solo catadiottro se sono agganciati ad un motociclo a due ruote senza carrozzetta.
 
-42<sup>quinquies</sup>. Ogni autoveicolo e rimorchio la cui lunghezza superi 6 m devono essere dotati di catarifrangenti laterali arancioni.
+Tali catadiottri devono avere la forma di un triangolo equilatero con un vertice in alto ed un lato orizzontale. Non devono essere poste luci di segnalazione all’interno del triangolo.
 
-42<sup>sexties</sup>. Ogni autoveicolo e rimorchio la cui larghezza superi 1,80 m di larghezza possono essere dotati di luci di ingombro, se la loro larghezza supera 2,10 m l’uso di queste luci diventa obbligatorio. Se usate, le luci di ingombro devono essere almeno due ed emettere luce bianca o arancione anteriormente e rossa posteriormente.
+25.3 Ogni autoveicolo di lunghezza superiore a 6 m e ogni rimorchio devono essere muniti di uno o più catadiottri laterali di colore arancione. Il catadiottro laterale nella posizione più arretrata può essere rosso se combinato con una luce posteriore rossa.
 
-42<sup>septies</sup>. Ogni autoveicolo e rimorchio possono essere dotati di luci laterali. Se installate, questi luci devono emettere luce arancione.»
+25.4 Ogni rimorchio deve essere provvisto, sulla parte anteriore, di due catadiottri bianchi, di forma non triangolare.
 
-\43. Per l’applicazione delle disposizioni del presente allegato, viene considerata:
+25.5 Ogni motociclo a due ruote senza carrozzetta deve essere provvisto, sulla parte posteriore, di uno o due catadiottri non triangolari di colore rosso; su ciascun lato può essere munito di uno o due catadiottri non triangolari, di colore arancione sulla parte anteriore e di colore arancione oppure rosso sulla parte posteriore.
 
-- a) come una sola luce ogni combinazione di due o più luci, identiche o no, ma aventi la stessa funzione e lo stesso colore;
-- b) come due o come un numero pari di luci, una sola superficie luminosa avente la forma di una fascia quando questa è situata simmetricamente rispetto al piano longitudinale mediano del veicolo. L’illuminazione di tale superficie dovrà essere assicurata da almeno due sorgenti luminose poste il più vicino possibile alle sue estremità.
+\26. Luci di posizione laterali
 
-\44. Su di uno stesso veicolo le luci che hanno la stessa funzione e che sono orientate verso la stessa direzione debbono essere dello stesso colore. Le luci ed i catadiottri che sono in numero pari debbono essere posti simmetricamente rispetto al piano longitudinale mediano del veicolo salvo sui veicoli la cui forma esterna è asimmetrica. Le luci di ciascuna coppia debbono avere sensibilmente la stessa intensità.
+Ogni autoveicolo e ogni rimorchio di lunghezza superiore a 6 m (timone di traino compreso) devono essere muniti di luci di posizione laterali di colore arancione. La luce di posizione laterale più arretrata può essere rossa se combinata con una luce posteriore rossa.
 
-\45. Luci di diversa natura e, con riserva delle disposizioni degli altri paragrafi del presente capitolo, luci e catadiottri possono essere raggruppati o incorporati in uno stesso dispositivo, purché ciascuna di tali luci e di tali catadiottri risponda alle disposizioni del presente allegato che ad esse si applicano.
+\27. Marcatore di ingombro
+
+Ogni autoveicolo, ad eccezione dei motocicli, e ogni rimorchio possono essere dotati di marcatori di ingombro bianchi o gialli sui lati e rossi o gialli sulla parte posteriore. Inoltre, ogni rimorchio può essere dotato, sulla parte anteriore, di marcatori di ingombro bianchi.
+
+\28. Luci di arresto
+
+28.1 Ad eccezione dei motocicli a due ruote con o senza carrozzetta, ogni autoveicolo con velocità massima per costruzione superiore a 25 km (15 miglia) all’ora e ogni rimorchio devono essere muniti, sulla parte posteriore, di almeno due luci di arresto rosse. Una luce di arresto supplementare può essere montata sulla parte centrale superiore del veicolo.
+
+28.2 Con riserva della possibilità di esonerare dal presente obbligo i ciclomotori a due ruote con o senza carrozzetta per le Parti contraenti che conformemente all’articolo 54 paragrafo 2 della Convenzione avranno dichiarato di assimilare i ciclomotori ai motocicli, ogni motociclo a due ruote con o senza carrozzetta deve essere munito di una o due luci di arresto rosse. Una luce di arresto supplementare può essere montata sulla parte centrale superiore del veicolo.
+
+\29. Luci di marcia diurna
+
+29.1 Ogni autoveicolo, ad eccezione dei motocicli, può essere munito di due luci di marcia diurna di colore bianco.
+
+29.2 Ogni motociclo a due ruote con o senza carrozzetta può essere munito di una o due luci di marcia diurna di colore bianco.
+
+Nei motocicli che ne sono provvisti, le luci di marcia diurna devono essere automaticamente accese quando il motore è acceso. Nei motocicli sprovvisti di luci di marcia diurna, un proiettore deve essere automaticamente acceso quando il motore è acceso.
+
+\30. Indicatori di direzione
+
+Ogni autoveicolo, ad eccezione dei ciclomotori, e ogni rimorchio devono essere dotati di indicatori di direzione di colore arancione, in numero pari.
+
+\31. Proiettori di retromarcia
+
+31.1 Gli autoveicoli, ad eccezione dei motocicli, e i rimorchi di massa massima autorizzata superiore a 750 kg devono essere muniti, sulla parte posteriore, di uno o due proiettori di retromarcia bianchi. I proiettori di retromarcia non possono essere accesi quando non è attivato il dispositivo di retromarcia.
+
+31.2 Due proiettori di retromarcia bianchi supplementari possono essere montati sui lati di autoveicoli e rimorchi di lunghezza superiore a 6 m.
+
+\32. Proiettori di manovra
+
+Ogni veicolo, ad eccezione dei motocicli con o senza carrozzetta, può essere munito, sui lati, di uno o due proiettori di manovra bianchi.
+
+\33. Luci di segnalazione speciali
+
+Le luci di segnalazione speciali devono emettere luce lampeggiante, a effetto rotante o intermittente. Il colore della luce emessa deve essere conforme alle disposizioni dell’articolo 32 paragrafo 14 della presente Convenzione.
+
+\34. Segnalazione luminosa di pericolo
+
+Ogni autoveicolo e ogni rimorchio devono essere muniti di un dispositivo che consenta di emettere un segnale di pericolo e ogni motociclo può esserne munito.
+
+\35. Luci di ingombro
+
+Ogni autoveicolo e ogni rimorchio di larghezza superiore a 1,80 m possono essere dotati di luci di ingombro. Se la larghezza dell’autoveicolo o del rimorchio supera 2,10 m, tali luci sono obbligatorie. Se montate sul veicolo, le luci di ingombro devono essere almeno due ed emettere luce bianca o arancione anteriormente e rossa posteriormente.
+
+\36. Luci di sosta
+
+Ogni autoveicolo di lunghezza inferiore o uguale a 6 m e di larghezza inferiore o uguale a 2 m può essere munito di due luci di sosta bianche anteriori e rosse posteriori o di una luce di sosta su ciascun lato emettente luce bianca davanti e luce rossa dietro.
+
+\37. Luci d’angolo e funzione d’illuminazione di svolta
+
+37.1 Ogni autoveicolo, ad eccezione dei motocicli, può essere munito di luci d’angolo bianche.
+
+37.2 Ogni autoveicolo può essere dotato della funzione d’illuminazione di svolta, che può essere attivata contemporaneamente ai proiettori anabbaglianti mediante l’accensione di fonti luminose o unità di illuminazione supplementari o ruotando verso l’esterno uno o entrambi i proiettori anabbaglianti.
+
+Nei motocicli a due ruote, le fonti luminose o le unità di illuminazione supplementari utilizzate per illuminare lateralmente la strada in fase di svolta possono essere attivate e disattivate automaticamente soltanto in funzione dell’angolo di rollio.
+
+\38. Luci di cortesia
+
+Ogni autoveicolo può essere munito di luci di cortesia di colore bianco.
+
+\39. Disposizioni applicabili a più categorie di luci, segnali e dispositivi luminosi
+
+39.1 Nessuna luce diversa dagli indicatori di direzione, dalla segnalazione luminosa di pericolo, dalle luci di arresto utilizzate per indicare un veicolo fermo in situazione di emergenza e dalle luci di segnalazione speciali può emettere luce lampeggiante, a effetto rotante o intermittente. Le luci di posizione laterali possono lampeggiare contemporaneamente agli indicatori di direzione.
+
+39.2 Gli autoveicoli a tre ruote simmetriche rispetto al piano longitudinale mediano del veicolo, assimilati ai motocicli in applicazione della lettera n) dell’articolo primo della presente Convenzione, devono essere provvisti dei dispositivi prescritti ai precedenti paragrafi 21.1, 21.2, 22.1, 22.4 a), 25.1 e 28.1. Tuttavia, su un veicolo elettrico la cui larghezza non supera 1,30 m e la cui velocità massima per costruzione non supera 40 km (25 miglia) all’ora sono sufficienti un solo proiettore di profondità e un solo proiettore anabbagliante.
+
+39.3 Su ogni autoveicolo, compresi i motocicli, e su ogni complesso costituito da un autoveicolo e da uno o più rimorchi, i collegamenti elettrici devono essere tali da assicurare che i proiettori di profondità, i proiettori anabbaglianti e i proiettori fendinebbia anteriori possano essere accesi soltanto contemporaneamente alle luci di posizione anteriori e posteriori, alle luci di ingombro (se del caso), alle luci di posizione laterali (se del caso) e al dispositivo d’illuminazione della targa d’immatricolazione posteriore.
+
+Tuttavia, tale condizione non è imposta per i proiettori di profondità o per i proiettori anabbaglianti quando sono utilizzati per dare gli avvertimenti luminosi di cui all’articolo 32 paragrafo 3 della presente Convenzione.
+
+39.4 Senza pregiudizio delle disposizioni relative alle luci e ai dispositivi richiesti per i motocicli a due ruote senza carrozzetta, ogni carrozzetta collegata a un motociclo a due ruote deve essere provvista, nella parte anteriore, di una luce di posizione anteriore di colore bianco o arancione e, nella parte posteriore, di una luce di posizione posteriore e di un catadiottro rossi. I collegamenti elettrici devono essere tali da garantire che le luci di posizione anteriori e posteriori della carrozzetta si accendano contemporaneamente alla luce di posizione posteriore del motociclo.
+
+40.–43. Abrogati
+
+[^annex5-lvlu1-chapII-lvlB-1]: <sup>\*</sup> Regolamenti ONU allegati all’Accordo del 20 marzo 1958 concernente l’adozione di regolamenti tecnici armonizzati per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti o regolamenti tecnici ONU adottati nel quadro dell’Accordo del 25 giugno 1998 sull’approvazione di regolamenti tecnici applicabili a livello mondiale ai veicoli a motore, agli accessori e alle parti che possono essere installati e/o utilizzati sui veicoli a motore.
 
 ### Capitolo III Altre prescrizioni
 
@@ -1556,9 +1637,7 @@ Parabrezza e vetri
 
 Dispositivo di retromarcia
 
-\52. Ogni autoveicolo deve essere provvisto di un dispositivo di retromarcia manovrabile dal posto di guida. Tuttavia, tale dispositivo non è obbligatorio sui
-
-motocicli e sugli autoveicoli a tre ruote simmetriche rispetto al piano longitudinale mediano del veicolo se la loro massa massima autorizzata non supera 400 kg (900 libbre).
+\52. Ogni autoveicolo deve essere provvisto di un dispositivo di retromarcia manovrabile dal posto di guida. Tuttavia, tale dispositivo non è obbligatorio sui motocicli e sugli autoveicoli a tre ruote simmetriche rispetto al piano longitudinale mediano del veicolo se la loro massa massima autorizzata non supera 400 kg (900 libbre).
 
 Silenziatore
 
@@ -1599,66 +1678,34 @@ Disposizioni generali
 
 \60. Sul piano nazionale, le Parti contraenti possono derogare alle disposizioni del presente allegato nei seguenti casi:
 
-- a) per gli autoveicoli ed i rimorchi la cui velocità, per costruzione, non può superare su strada piana 30 km (19 miglia) all’ora o per i quali la legislazione nazionale limita la velocità a 25 km/h;
-- b) per le vetture da invalidi, cioè i piccoli autoveicoli particolarmente concepiti e costruiti – e non soltanto adattati – per l’uso da parte di una persona colpita da un’infermità o da una incapacità fisica e che normalmente non sono usati che da questa persona;
-- c) per dei veicoli destinati a delle esperienze aventi lo scopo di seguire il progresso della tecnica e di migliorare la sicurezza;
-- d) per i veicoli di una forma o di un tipo particolare, o che sono utilizzati per degli scopi particolari in condizioni speciali;
-- e) per i veicoli appositamente adattati per essere guidati da invalidi.
+- a) per gli autoveicoli e i rimorchi la cui velocità massima per costruzione non supera 30 km (19 miglia) all’ora o per i quali la legislazione nazionale fissa la velocità massima consentita a 30 km all’ora;
+- b) per le vetture per disabili, cioè le automobili di piccole dimensioni appositamente progettate e costruite, e non adattate, per l’uso da parte di persone a mobilità ridotta;
+- c) per i veicoli adattati per essere guidati da persone a mobilità ridotta;
+- d) per i veicoli destinati a sperimentazioni intese a tenere il passo con il progresso tecnologico e migliorare la sicurezza;
+- e) per i veicoli di una forma o di un tipo particolare, o che sono utilizzati per scopi particolari in condizioni speciali, per esempio per lo sgombero neve.
 
-\61. Le Parti contraenti possono anche concedere deroghe alle disposizioni del presente allegato per i veicoli da esse immatricolati e che possono entrare in circolazione internazionale:
+\61. Le Parti contraenti possono inoltre concedere deroghe alle disposizioni del presente allegato per i veicoli da esse immatricolati e che possono essere immessi nella circolazione internazionale:
 
-- a) autorizzando il colore arancione per le luci di posizione anteriori degli autoveicoli e dei rimorchi;
-- b) per quanto riguarda la posizione delle luci sui veicoli ad uso speciale, la cui forma esterna non consentisse il rispetto di tali disposizioni senza ricorrere a dei dispositivi di montaggio che potrebbero essere facilmente danneggiati o asportati;
-- c) per quanto riguarda i rimorchi che servono al trasporto di carichi lunghi (tronchi d’albero, tubi, ecc.) e che, quando il veicolo è in moto, non sono agganciati al veicolo trainante ma sono collegati ad esso soltanto a mezzo del carico;
-- d)
+- a) per quanto riguarda la posizione delle luci sui veicoli ad uso speciale la cui forma esterna non consente il rispetto di tali disposizioni senza ricorrere a dispositivi di montaggio facilmente danneggiabili o staccabili;
+- b) per quanto riguarda i rimorchi per il trasporto di carichi lunghi (tronchi d’albero, tubi ecc.) che, durante la marcia, non sono agganciati al veicolo trattore ma sono collegati ad esso soltanto a mezzo del carico;
+- c)
 
   autorizzando l’emissione di luce bianca posteriormente e rossa anteriormente per i seguenti dispositivi:
 
-  - – luci girevoli o intermittenti dei veicoli prioritari,
-  - – luci fisse per i trasporti eccezionali,
-  - – luci e catarifrangenti laterali,
+  - – luci di segnalazione speciali dei veicoli prioritari;
+  - – luci fisse per trasporti eccezionali;
+  - – luci e catadiottri laterali;
   - – insegna luminosa professionale sul tetto;
 
-- e) autorizzando l’emissione anteriormente e posteriormente di luce blu per le luci girevoli o intermittenti;
-- f) autorizzando su qualsiasi fiancata di un veicolo dalla forma o dalle dimensioni speciali o adibito a funzioni particolari in condizioni speciali, fasce alternate catarifrangenti o rosse fluorescenti e bianche catarifrangenti;
-- g) autorizzando, posteriormente, l’emissione di luce bianca o colorata rifrangente da cifre, lettere o dallo sfondo delle targhe d’immatricolazione posteriori, da segni distintivi o da altri contrassegni distintivi richiesti dalla legislazione nazionale;
-- h) autorizzando il colore rosso per i catarifrangenti e le luci laterali situati nella parte finale del veicolo.
+- d) autorizzando, su qualsiasi lato di un veicolo di forma o dimensioni speciali o adibito a funzioni particolari e in condizioni speciali, strisce alternate catarifrangenti o fluorescenti rosse e catarifrangenti bianche;
+- e) autorizzando l’emissione posteriormente di luce bianca o colorata riflessa da cifre, lettere o dallo sfondo delle targhe d’immatricolazione posteriori, da segni distintivi o da altri contrassegni distintivi richiesti dalla legislazione nazionale;
+- f) autorizzando l’installazione di marcatori di ingombro bianchi sulla parte posteriore di autoveicoli e rimorchi.
 
 ### Capitolo V Disposizioni transitorie
 
 \62. Gli autoveicoli immatricolati per la prima volta ed i rimorchi posti in circolazione sul territorio di una Parte contraente prima dell’entrata in vigore della presente Convenzione o due anni dopo tale entrata in vigore non sono soggetti alle disposizioni del presente allegato, purché soddisfino alle prescrizioni delle parti I, II e III dell’allegato 6 della Convenzione del 1949 sulla circolazione stradale.
 
 62<sup>bis</sup>. Gli autoveicoli immatricolati per la prima volta ed i rimorchi posti in circolazione sul territorio di una Parte contraente prima dell’entrata in vigore del presente Accordo o due anni dopo tale entrata in vigore non sono soggetti alle disposizioni del presente allegato, purché soddisfino alle prescrizioni dell’allegato 5 della Convenzione del 1968 sulla circolazione stradale o alle altre disposizioni contemplate nel capitolo V del presente allegato.
-
-Appendice
-
-## Definizione dei filtri colorati per l’ottenimento dei colori previsti dal presente allegato (coordinate tricromatiche)
-
-<table>
-<tr><td colspan="2">Rosso</td><td>limite verso il giallo</td><td>y ≤ 0,355</td></tr>
-<tr><td colspan="2"></td><td>limite verso il porpora\*</td><td>z ≤ 0,008</td></tr>
-<tr><td colspan="2">Bianco</td><td>limite verso il blu</td><td>x ≥ 0,310</td></tr>
-<tr><td colspan="2"></td><td>limite verso il giallo</td><td>x ≤ 0,500</td></tr>
-<tr><td colspan="2"></td><td>limite verso il verde</td><td>y ≥ 0,150 + 0,640 x</td></tr>
-<tr><td colspan="2"></td><td>limite verso il verde</td><td>y ≤ 0.440</td></tr>
-<tr><td colspan="2"></td><td>limite verso il porpora</td><td>y ≥ 0,050 + 0,750 x</td></tr>
-<tr><td colspan="2"></td><td>limite verso il rosso</td><td>y ≥ 0,382</td></tr>
-<tr><td colspan="2">Arancione\*\*</td><td>limite verso il giallo\*</td><td>y ≤ 0,429</td></tr>
-<tr><td colspan="2"></td><td>limite verso il rosso\*</td><td>y ≥ 0,398</td></tr>
-<tr><td colspan="2"></td><td>limite verso il bianco</td><td>z ≤ 0,007</td></tr>
-<tr><td colspan="2">Giallo, selettivo\*\*\*</td><td>limite verso il rosso</td><td>y ≥ 0,138 + 0,580 x</td></tr>
-<tr><td colspan="2"></td><td>limite verso il verde\*</td><td>y ≥ 1,29 x – 0,100</td></tr>
-<tr><td colspan="2"></td><td>limite verso il bianco\*</td><td>y ≥ – x + 0,966</td></tr>
-<tr><td colspan="2"></td><td>limite verso il valore dello spettro\*</td><td>y ≥ – x + 0,992</td></tr>
-<tr><td colspan="2">Blu</td><td>limite verso il verde</td><td>y = 0,065 + 0,805 x</td></tr>
-<tr><td colspan="2"></td><td>limite verso il bianco</td><td>y = ,400 – x</td></tr>
-<tr><td colspan="2"></td><td>limite verso il porpora</td><td>x = 0,133 + ,600 y</td></tr>
-<tr><td colspan="4">\* In questi casi, si adottano dei limiti diversi da quelli che sono raccomandati dalla CIE perché le tensioni di alimentazione ai morsetti delle lampade che equipaggiano le luci variano entro limiti assai ampi.</td></tr>
-<tr><td colspan="4">\*\* Si applica al colore dei segnali automobilistici correntemente chiamato fino ad ora «arancio» o «giallo‑arancio». Corrisponde ad una parte ben determinata della zona «gialla» del triangolo dei colori CIE.</td></tr>
-<tr><td colspan="4">[tab] \*\*\* Si applica unitamente ai proiettori di incrocio ed ai proiettori di profondità. Nel caso particolare dei proiettori fendinebbia, la selettività del colore sarà riconosciuta soddisfacente se il fattore di purezza è almeno uguale a 0,820; il limite verso il bianco y ≥ – x + 0,966, dovrà essere in tal caso y ≥ – x + 0,940 et y = 0,440.</td></tr>
-</table>
-
-Per la verifica delle caratteristiche colorimetriche di tali filtri, deve essere usata una sorgente luminosa a temperatura di colore di 2854° K (corrispondente all’illuminazione A della Commissione Internazionale dell’Illuminazione [CIE]).
 
 Allegato 6[^t-6]
 
@@ -1724,13 +1771,13 @@ Allegato 6[^t-6]
 
 <table>
 <tr><td colspan="2">Codice della categoria/ Pittogramma</td><td colspan="2">Codice della sottocategoria/ Pittogramma</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Il luogo di nascita può essere sostituito da altre precisazioni stabilite dalla legislazione nazionale.
@@ -1766,13 +1813,10 @@ Allegato 7[^t-7]
 <tr><td></td><td>Numero della patente nazionale di guida <sup>3)</sup></td><td></td></tr>
 </table>
 
-<sup>1)</sup> Nome dello Stato che ha rilasciato la patente e sigla distintiva di tale Paese, definita all’allegato 3.
-
-<sup>2)</sup> Tre anni al massimo dalla data di rilascio o fino alla data di scadenza della patente nazionale, se quest’ultima scade prima.
-
-<sup>3)</sup> Firma dell’autorità o dell’associazione che rilascia la patente.
-
-<sup>4)</sup> Sigillo o timbro dell’autorità o dell’associazione che rilascia la patente.
+- <sup>1)</sup> Nome dello Stato che ha rilasciato la patente e sigla distintiva di tale Paese, definita all’allegato 3.
+- <sup>2)</sup> Tre anni al massimo dalla data di rilascio o fino alla data di scadenza della patente nazionale, se quest’ultima scade prima.
+- <sup>3)</sup> Firma dell’autorità o dell’associazione che rilascia la patente.
+- <sup>4)</sup> Sigillo o timbro dell’autorità o dell’associazione che rilascia la patente.
 
 **Pagina modello n. 2**
 
@@ -1785,9 +1829,8 @@ Allegato 7[^t-7]
 <tr><td></td><td>Questa patente cesserà di essere valida sul territorio di un’altra Parte contraente se il relativo titolare vi stabilisce la propria residenza abituale.</td><td></td></tr>
 </table>
 
-<sup>1)</sup> Indicare in questo spazio il nome della Parte contraente in cui il titolare ha la propria residenza abituale.
-
-<sup>2)</sup> Spazio riservato a una lista facoltativa delle Parti contraenti.
+- <sup>1)</sup> Indicare in questo spazio il nome della Parte contraente in cui il titolare ha la propria residenza abituale.
+- <sup>2)</sup> Spazio riservato a una lista facoltativa delle Parti contraenti.
 
 **Modello 3** (pagina di sinistra)
 
@@ -1800,21 +1843,19 @@ Allegato 7[^t-7]
 <tr><td></td><td colspan="2">Luogo di residenza abituale <sup>2)</sup></td><td colspan="3"></td><td>5.</td><td></td></tr>
 <tr><td colspan="8">CATEGORIE E SOTTOCATEGORIE DI VEICOLI, CON I CORRISPONDENTI CODICI, PER LE QUALI È VALIDA LA PATENTE</td></tr>
 <tr><td></td><td colspan="3">**Codice della categoria/** **Pittogramma**</td><td colspan="3">**Codice della sottocategoria/ Pittogramma**</td><td></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">RESTRIZIONI DI UTILIZZAZIONE <sup>3</sup><sup>)</sup></td><td></td></tr>
 </table>
 
-<sup>1)</sup> Il luogo di nascita può essere sostituito con altre precisazioni stabilite dalla legislazione nazionale.
-
-<sup>2)</sup> Da compilare se richiesto dalla legislazione nazionale.
-
-<sup>3)</sup> Per esempio «Obbligo di lenti», «Valido soltanto per la guida del veicolo n. ...», «Con riserva che il veicolo sia adattato per la guida da parte di una persona cui è stata amputata una gamba»
+- <sup>1)</sup> Il luogo di nascita può essere sostituito con altre precisazioni stabilite dalla legislazione nazionale.
+- <sup>2)</sup> Da compilare se richiesto dalla legislazione nazionale.
+- <sup>3)</sup> Per esempio «Obbligo di lenti», «Valido soltanto per la guida del veicolo n. ...», «Con riserva che il veicolo sia adattato per la guida da parte di una persona cui è stata amputata una gamba»
 
 Modello 3 (pagina di destra)
 
@@ -1836,11 +1877,9 @@ Modello 3 (pagina di destra)
 <tr><td colspan="3">Il titolare è privato del diritto di guidare sul territorio di ..........................................<sup>5)</sup> A................................................</td><td>fino al.......................... il ................................. .............................. <sup>6)</sup></td></tr>
 </table>
 
-<sup>4)</sup> Sigillo o timbro dell’autorità o dell’associazione che rilascia la patente. Tale sigillo o timbro deve essere apposto accanto alle categorie o sottocategorie di veicoli soltanto se il titolare ha il diritto di guidare i veicoli in questione.
-
-<sup>5)</sup> Nome dello Stato.
-
-<sup>6)</sup> Firma e sigillo o timbro dell’autorità che ha annullato la validità della patente sul proprio territorio. Se tutti gli spazi previsti per le esclusioni su questa pagina sono già utilizzati, ogni altra esclusione dovrebbe essere scritta sul retro.
+- <sup>4)</sup> Sigillo o timbro dell’autorità o dell’associazione che rilascia la patente. Tale sigillo o timbro deve essere apposto accanto alle categorie o sottocategorie di veicoli soltanto se il titolare ha il diritto di guidare i veicoli in questione.
+- <sup>5)</sup> Nome dello Stato.
+- <sup>6)</sup> Firma e sigillo o timbro dell’autorità che ha annullato la validità della patente sul proprio territorio. Se tutti gli spazi previsti per le esclusioni su questa pagina sono già utilizzati, ogni altra esclusione dovrebbe essere scritta sul retro.
 
 Campo d’applicazione il 2 ottobre 2024[^t-8]
 

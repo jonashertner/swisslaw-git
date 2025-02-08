@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Convention du 8 novembre 1968 sur la circulation routière (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: fr
-version: 2024-10-02
+version: 2025-02-09
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20241002-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20241002/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20250209-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20250209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Vienne le 8 novembre 1968 Approuvée par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entrée en vigueur pour la Suisse le 11 décembre 1992
 
-(État le 2 octobre 2024)
+(État le 9 février 2025)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -52,7 +52,7 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 - toute Partie contractante restant libre, toutefois, de refuser de considérer comme étant en «circulation internationale» tout véhicule qui serait resté sur son territoire pendant plus d’un an sans une interruption importante, dont cette Partie contractante peut fixer la durée.
 - Un ensemble de véhicules est dit en «circulation internationale» si l’un au moins des véhicules qui le composent répond à la définition.
 - c)[^1-3] le terme «agglomération» désigne un espace qui comprend des immeubles bâtis et dont les entrées et les sorties sont spécialement désignées comme telles, ou qui est défini de quelque autre manière dans la législation nationale;
-- [tab] …[^1-4]
+- …[^1-4]
 - d) le terme «route» désigne toute l’emprise de tout chemin ou rue ouvert à la circulation publique;
 - e) le terme «chaussée» désigne la partie de la route normalement utilisée pour la circulation des véhicules; une route peut comporter plusieurs chaussées nettement séparées l’une de l’autre, notamment par un terre-plein central ou une différence de niveau;
 - f) sur les chaussées où une voie latérale ou une piste ou des voies latérales ou des pistes sont réservées à la circulation de certains véhicules, le terme «bord de la chaussée» désigne, pour les autres usagers de la route, le bord du reste de la chaussée;
@@ -73,7 +73,7 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 
   un véhicule est dit:
 
-  - i) «A l’arrêt», lorsqu’il est immobilisé pendant le temps nécessaire pour prendre ou déposer des personnes ou charger ou décharger des choses,
+  - i) «À l’arrêt», lorsqu’il est immobilisé pendant le temps nécessaire pour prendre ou déposer des personnes ou charger ou décharger des choses,
   - ii) «En stationnement», lorsqu’il est immobilisé pour une raison autre que la nécessité d’éviter un conflit avec un autre usager de la route ou un obstacle ou d’obéir aux prescriptions de la réglementation de la circulation et que son immobilisation ne se limite pas au temps nécessaire pour prendre ou déposer des personnes ou des choses.
 
 - Les Parties contractantes pourront, toutefois, considérer comme «à l’arrêt» les véhicules immobilisés dans les conditions définies à l’alinéa ii) ci-dessus si la durée de l’immobilisation n’excède pas une limite de temps fixée par la législation nationale et considérer comme «en stationnement» les véhicules immobilisés dans les conditions définies à l’alinéa i) ci-dessus si la durée de l’immobilisation excède une limite de temps fixée par la législation nationale.
@@ -95,8 +95,8 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 - aa) l’obligation pour le conducteur d’un véhicule de «céder le passage» à d’autres véhicules signifie que ce conducteur ne doit pas continuer sa marche ou sa manoeuvre ou la reprendre si cela risque d’obliger les conducteurs d’autres véhicules à modifier brusquement la direction ou la vitesse de leurs véhicules.
 - [tab] …[^1-9]
 
-[^1-1]: Introduite par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
-[^1-2]: Introduite par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^1-1]: Introduite par les Am. du 14 déc. 2020, en vigueur pour la Suisse depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^1-2]: Introduite par les Am. du 14 déc. 2020, en vigueur pour la Suisse depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
 [^1-4]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
 [^1-5]: Introduite par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -125,7 +125,7 @@ Les annexes de la présente Convention, savoir:
 
 - 1\. a)
 
-  Les Parties contractantes prendront les mesures appropriées pour que les règles de circulation en vigueur sur leur territoire soient, quant à leur substance, en conformité avec les dispositions du chapitre Il de la présente Convention. A condition qu’elles ne soient sur aucun point incompatibles avec lesdites dispositions:
+  Les Parties contractantes prendront les mesures appropriées pour que les règles de circulation en vigueur sur leur territoire soient, quant à leur substance, en conformité avec les dispositions du chapitre Il de la présente Convention. À condition qu’elles ne soient sur aucun point incompatibles avec lesdites dispositions:
 
   - i) ces règles peuvent ne pas reprendre celles de ces dispositions qui s’appliquent à des situations ne se présentant pas sur le territoire des Parties contractantes en cause;
   - ii) des règles peuvent contenir des dispositions non prévues à ce chapitre II.
@@ -136,7 +136,7 @@ Les annexes de la présente Convention, savoir:
 
 <sup>3.</sup> Sous réserve des dérogations prévues à l’annexe 1 de la présente Convention, les Parties contractantes seront tenues d’admettre sur leur territoire en circulation internationale les automobiles et les remorques remplissant les conditions définies par le chapitre III de la présente Convention et dont les conducteurs remplissent les conditions définies par le chapitre IV; elles seront tenues de reconnaître aussi les certificats d’immatriculation délivrés conformément aux dispositions du chapitre III comme attestant, jusqu’à preuve du contraire, que les véhicules qui en font l’objet remplissent les conditions définies audit chapitre III.
 
-4.[^3-1] Les mesures qu’ont prises, ou que prendront les Parties contractantes, soit unilatéralement, soit par voie d’accords bilatéraux ou multilatéraux, pour admettre sur leur territoire en circulation internationale des automobiles et des remorques qui ne remplissent pas toutes les conditions définies au chapitre III de la présente Convention et pour reconnaître, en dehors des cas prévus au chapitre IV, la validité sur leur territoire de permis délivrés par une autre Partie contractante, seront considérées comme conformes à l’objet de la présente Convention.
+<sup>4.</sup> Les mesures qu’ont prises, ou que prendront les Parties contractantes, soit unilatéralement, soit par voie d’accords bilatéraux ou multilatéraux, pour admettre sur leur territoire en circulation internationale des automobiles et des remorques qui ne remplissent pas toutes les conditions définies au chapitre III de la présente Convention et pour reconnaître, en dehors des cas prévus au chapitre IV, la validité sur leur territoire de permis délivrés par une autre Partie contractante, seront considérées comme conformes à l’objet de la présente Convention.[^3-1]
 
 <sup>5.</sup> Les Parties contractantes seront tenues d’admettre en circulation internationale sur leur territoire les cycles et les cyclomoteurs remplissant les conditions techniques définies au chapitre V de la présente Convention et dont le conducteur a sa résidence normale sur le territoire d’une autre Partie contractante. Aucune Partie contractante ne pourra exiger que les conducteurs de cycles ou de cyclomoteurs en circulation internationale soient titulaires d’un permis de conduire; toutefois, les Parties contractantes qui auront, conformément au paragraphe 2 de l’article 54 de la présente Convention, fait une déclaration assimilant les cyclomoteurs aux motocycles pourront exiger un permis de conduire des conducteurs de cyclomoteurs en circulation internationale.
 
@@ -174,7 +174,7 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 
 [^4-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
 [^4-2]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^4-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402))
+[^4-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
 ## Chapitre II Règles applicables à la circulation routière
 
@@ -194,11 +194,13 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 
 <sup>2.</sup> Les usagers de la route sont tenus d’obtempérer immédiatement à toute injonction des agents réglant la circulation.
 
-3.[^6-1] Il est recommandé que les législations nationales prévoient que sont notamment considérés comme injonctions des agents réglant la circulation:
+<sup>3.</sup>
+
+Il est recommandé que les législations nationales prévoient que sont notamment considérés comme injonctions des agents réglant la circulation:
 
 - a) le bras levé verticalement; ce geste signifie «attention, arrêt» pour tous les usagers de la route, sauf pour les conducteurs qui ne pourraient plus s’arrêter dans des conditions de sécurité suffisantes; de plus, si ce geste est fait à une intersection, il n’impose pas l’arrêt aux conducteurs déjà engagés dans l’intersection;
 - b) le bras ou les bras tendus horizontalement; ce geste signifie «arrêt» pour tous les usagers de la route qui viennent, quel que soit le sens de leur marche, de directions coupant celle qui est indiquée par le ou les bras tendus; après avoir fait ce geste, l’agent réglant la circulation pourra abaisser le bras ou les bras; pour les conducteurs se trouvant en face de l’agent ou derrière lui, ce geste signifie également «arrêt»;
-- c) le balancement d’un feu rouge; ce geste signifie «arrêt» pour les usagers de la route vers lesquels le feu est dirigé.
+- c) le balancement d’un feu rouge; ce geste signifie «arrêt» pour les usagers de la route vers lesquels le feu est dirigé.[^6-1]
 
 <sup>4.</sup> Les injonctions des agents réglant la circulation prévalent sur les prescriptions indiquées par les signaux routiers, les signaux lumineux de circulation ou les marques routières, ainsi que sur les règles de circulation.
 
@@ -210,7 +212,7 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 
 <sup>1.</sup> Les usagers de la route doivent éviter tout comportement susceptible de constituer un danger ou un obstacle pour la circulation, de mettre en danger des personnes ou de causer un dommage à des propriétés publiques ou privées.
 
-2.[^7-1] Il est recommandé que les législations nationales prévoient que les usagers de la route doivent éviter de gêner la circulation ou de risquer de la rendre dangereuse en jetant, déposant ou abandonnant sur la route des objets ou matières ou en créant quelque autre obstacle sur la route. Les usagers de la route qui n’ont pu ainsi éviter de créer un obstacle ou un danger doivent prendre les mesures nécessaires pour le faire disparaître le plus tôt possible et, s’ils ne peuvent le faire disparaître immédiatement, pour le signaler aux autres usagers de la route.
+<sup>2.</sup> Il est recommandé que les législations nationales prévoient que les usagers de la route doivent éviter de gêner la circulation ou de risquer de la rendre dangereuse en jetant, déposant ou abandonnant sur la route des objets ou matières ou en créant quelque autre obstacle sur la route. Les usagers de la route qui n’ont pu ainsi éviter de créer un obstacle ou un danger doivent prendre les mesures nécessaires pour le faire disparaître le plus tôt possible et, s’ils ne peuvent le faire disparaître immédiatement, pour le signaler aux autres usagers de la route.[^7-1]
 
 <sup>3.</sup> Les conducteurs doivent faire preuve d’une prudence accrue à l’égard des catégories d’usagers les plus vulnérables tels que les piétons et les cyclistes, et notamment les enfants, les personnes âgées et les handicapés.[^7-2]
 
@@ -221,9 +223,9 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 …[^7-5]
 
 [^7-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 6).
-[^7-2]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402))
-[^7-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402))
-[^7-4]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402))
+[^7-2]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^7-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^7-4]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-5]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 6).
 
 #### Art. 8
@@ -232,13 +234,13 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 
 <sup>1.</sup> Tout véhicule en mouvement ou tout ensemble de véhicules en mouvement doit avoir un conducteur.
 
-2.[^8-1] Il est recommandé que les législations nationales prévoient que les bêtes de charge, les bêtes de trait ou de selle et, sauf éventuellement dans les zones spécialement signalées à l’entrée, les bestiaux isolés ou en troupeaux doivent avoir un conducteur.
+<sup>2.</sup> Il est recommandé que les législations nationales prévoient que les bêtes de charge, les bêtes de trait ou de selle et, sauf éventuellement dans les zones spécialement signalées à l’entrée, les bestiaux isolés ou en troupeaux doivent avoir un conducteur.[^8-1]
 
 <sup>3.</sup> Tout conducteur doit posséder les qualités physiques et psychiques nécessaires et être en état physique et mental de conduire.
 
 <sup>4.</sup> Tout conducteur de véhicule à moteur doit avoir les connaissances et l’habileté nécessaires à la conduite du véhicule; cette disposition ne fait pas obstacle, toutefois, à l’apprentissage de la conduite selon la législation nationale.
 
-5.[^8-2] Tout conducteur doit constamment avoir le contrôle de son véhicule ou pouvoir guider ses animaux.
+<sup>5.</sup> Tout conducteur doit constamment avoir le contrôle de son véhicule ou pouvoir guider ses animaux.[^8-2]
 
 …[^8-3]
 
@@ -277,14 +279,14 @@ Il est recommandé que les législations nationales prévoient que, sauf déroga
 
 <sup>4.</sup> Lorsqu’une route comporte deux ou trois chaussées, aucun conducteur ne doit emprunter la chaussée située du côté opposé à celui correspondant au sens de la circulation.
 
-6.[^10-3] Sans préjudice des dispositions de l’article 11, si une voie additionnelle est indiquée par des signaux, tout conducteur de véhicule qui se déplace lentement doit utiliser cette voie.
-
 - 5\. a) Sur les chaussées où la circulation se fait dans les deux sens et qui comportent quatre voies au moins, aucun conducteur ne doit emprunter les voies situées tout entières sur la moitié de la chaussée opposée au côté correspondant au sens de la circulation.
 - b) Sur les chaussées où la circulation se fait dans les deux sens et qui comportent trois voies, aucun conducteur ne doit emprunter la voie située au bord de la chaussée opposé à celui correspondant au sens de la circulation.
 
+<sup>6.</sup> Sans préjudice des dispositions de l’article 11, si une voie additionnelle est indiquée par des signaux, tout conducteur de véhicule qui se déplace lentement doit utiliser cette voie.[^10-3]
+
 [^10-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 9).
 [^10-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 9).
-[^10-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402))
+[^10-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
 #### Art. 11
 
@@ -337,7 +339,7 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 <sup>10.</sup> Tout conducteur, qui constate qu’un conducteur qui le suit désire le dépasser, doit, sauf dans le cas prévu au paragraphe 1b de l’article 16 de la présente Convention, serrer le bord de la chaussée correspondant au sens de la circulation et ne doit pas accélérer son allure. Lorsque l’insuffisance de largeur, le profil ou l’état de la chaussée ne permettent pas, compte tenu de la densité de la circulation en sens inverse, de dépasser avec facilité et sans danger un véhicule lent, encombrant ou tenu de respecter une limite de vitesse, le conducteur de ce dernier véhicule doit ralentir et au besoin se ranger dès que possible pour laisser passer les véhicules qui le suivent.
 
-- 11\.[^11-7] a)
+- 11\. a)
 
   Les Parties contractantes ou leurs subdivisions peuvent, sur les chaussées à sens unique et sur les chaussées où la circulation se fait dans les deux sens lorsqu’au moins deux voies dans les agglomérations et trois voies hors des agglomérations sont réservées à la circulation dans le même sens et sont délimitées par des marques longitudinales:
 
@@ -345,7 +347,7 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
   - ii) rendre non applicables les dispositions du paragraphe 3 de l’article 10 de la présente Convention;
 
 - sous réserve d’édicter des dispositions appropriées restreignant la possibilité de changer de voie.
-- b) Dans le cas prévu à l’alinéa a du présent paragraphe, le mode de conduite prévu sera réputé ne pas constituer un dépassement au sens de la présente Convention; toutefois, les dispositions du paragraphe 9 du présent article restent applicables.
+- b) Dans le cas prévu à l’alinéa a du présent paragraphe, le mode de conduite prévu sera réputé ne pas constituer un dépassement au sens de la présente Convention; toutefois, les dispositions du paragraphe 9 du présent article restent applicables.[^11-7]
 
 [^11-1]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^11-2]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -361,7 +363,7 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 <sup>1.</sup> Pour croiser, tout conducteur doit laisser libre une distance latérale suffisante et, au besoin, serrer vers le bord de la chaussée correspondant au sens de la circulation; si, ce faisant, sa progression se trouve entravée par un obstacle ou par la présence d’autres usagers de la route, il doit ralentir et, au besoin, s’arrêter pour laisser passer l’usager ou les usagers venant en sens inverse.
 
-2.[^12-1] Sur les routes de montagne et sur les routes à forte pente qui ont des caractéristiques similaires, où le croisement est impossible ou difficile, il incombe au conducteur du véhicule descendant de ranger son véhicule pour laisser passer tout véhicule montant, sauf dans le cas où la façon dont sont disposés le long de la chaussée des refuges pour permettre aux véhicules de se ranger est telle que, compte tenu de la vitesse et de la position des véhicules, le véhicule montant dispose d’un refuge devant lui et qu’une marche arrière d’un des véhicules serait nécessaire si le véhicule montant ne se rangeait pas sur ce refuge. Dans le cas où l’un des deux véhicules qui vont se croiser doit faire marche arrière pour permettre le croisement, c’est le conducteur du véhicule descendant qui doit faire cette manoeuvre, sauf si celle-ci est manifestement plus facile pour le conducteur du véhicule montant. Les Parties contractantes ou leurs subdivisions peuvent, toutefois, pour certains véhicules ou certaines routes ou sections de routes, prescrire des règles spéciales différentes de celles du présent paragraphe.
+<sup>2.</sup> Sur les routes de montagne et sur les routes à forte pente qui ont des caractéristiques similaires, où le croisement est impossible ou difficile, il incombe au conducteur du véhicule descendant de ranger son véhicule pour laisser passer tout véhicule montant, sauf dans le cas où la façon dont sont disposés le long de la chaussée des refuges pour permettre aux véhicules de se ranger est telle que, compte tenu de la vitesse et de la position des véhicules, le véhicule montant dispose d’un refuge devant lui et qu’une marche arrière d’un des véhicules serait nécessaire si le véhicule montant ne se rangeait pas sur ce refuge. Dans le cas où l’un des deux véhicules qui vont se croiser doit faire marche arrière pour permettre le croisement, c’est le conducteur du véhicule descendant qui doit faire cette manoeuvre, sauf si celle-ci est manifestement plus facile pour le conducteur du véhicule montant. Les Parties contractantes ou leurs subdivisions peuvent, toutefois, pour certains véhicules ou certaines routes ou sections de routes, prescrire des règles spéciales différentes de celles du présent paragraphe.[^12-1]
 
 [^12-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 11).
 
@@ -369,7 +371,7 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 **Vitesse et distance entre véhicules**[^13-1]
 
-1.[^13-2] Tout conducteur de véhicule doit rester, en toutes circonstances, maître de son véhicule, de façon à pouvoir se conformer aux exigences de la prudence et à être constamment en mesure d’effectuer toutes les manœuvres qui lui incombent. Il doit, en réglant la vitesse de son véhicule, tenir constamment compte des circonstances, notamment de la disposition des lieux, de l’état de la route, de l’état et du chargement de son véhicule, des conditions atmosphériques et de l’intensité de la circulation, de manière à pouvoir arrêter son véhicule dans les limites de son champ de visibilité vers l’avant ainsi que devant tout obstacle prévisible. Il doit ralentir et, au besoin, s’arrêter toutes les fois que les circonstances l’exigent, notamment lorsque la visibilité n’est pas bonne.
+<sup>1.</sup> Tout conducteur de véhicule doit rester, en toutes circonstances, maître de son véhicule, de façon à pouvoir se conformer aux exigences de la prudence et à être constamment en mesure d’effectuer toutes les manœuvres qui lui incombent. Il doit, en réglant la vitesse de son véhicule, tenir constamment compte des circonstances, notamment de la disposition des lieux, de l’état de la route, de l’état et du chargement de son véhicule, des conditions atmosphériques et de l’intensité de la circulation, de manière à pouvoir arrêter son véhicule dans les limites de son champ de visibilité vers l’avant ainsi que devant tout obstacle prévisible. Il doit ralentir et, au besoin, s’arrêter toutes les fois que les circonstances l’exigent, notamment lorsque la visibilité n’est pas bonne.[^13-2]
 
 <sup>2.</sup> Les législations nationales doivent fixer des limitations de vitesse maximale pour toutes les routes. Les législations nationales doivent aussi déterminer des limitations de vitesse applicables à certaines catégories de véhicules présentant un danger spécial en raison notamment de leur poids ou de leur chargement. Elles peuvent prévoir de semblables dispositions pour certaines catégories de conducteurs, en particulier pour les conducteurs débutants.
 
@@ -379,10 +381,12 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 <sup>5.</sup> Le conducteur d’un véhicule circulant derrière un autre véhicule doit laisser libre, derrière celui-ci, une distance de sécurité suffisante pour pouvoir éviter une collision en cas de ralentissement brusque ou d’arrêt subit du véhicule qui le précède.
 
-6.[^13-3] En dehors des agglomérations, en vue de faciliter les dépassements, les conducteurs de véhicules ou d’ensembles de véhicules de plus de 3500 kg (7700 livres) de masse maximale autorisée, ou de plus de 10 m (33 pieds) de longueur hors tout doivent, sauf lorsqu’ils dépassent ou s’apprêtent à dépasser, adapter l’intervalle entre leurs véhicules et les véhicules à moteur les précédant de façon que les véhicules les dépassant puissent sans danger se rabattre dans l’intervalle laissé devant le véhicule dépassé. Cette disposition n’est toutefois applicable ni lorsque la circulation est très encombrée ni lorsque le dépassement est interdit. En outre:
+<sup>6.</sup>
+
+En dehors des agglomérations, en vue de faciliter les dépassements, les conducteurs de véhicules ou d’ensembles de véhicules de plus de 3500 kg (7700 livres) de masse maximale autorisée, ou de plus de 10 m (33 pieds) de longueur hors tout doivent, sauf lorsqu’ils dépassent ou s’apprêtent à dépasser, adapter l’intervalle entre leurs véhicules et les véhicules à moteur les précédant de façon que les véhicules les dépassant puissent sans danger se rabattre dans l’intervalle laissé devant le véhicule dépassé. Cette disposition n’est toutefois applicable ni lorsque la circulation est très encombrée ni lorsque le dépassement est interdit. En outre:
 
 - a) les autorités compétentes peuvent faire bénéficier certains convois de véhicules de dérogations à cette disposition ou rendre celle-ci inapplicable également sur les routes où deux voies sont affectées à la circulation dans le sens en cause;
-- b) les Parties contractantes ou leurs subdivisions peuvent fixer des chiffres différents de ceux qui sont mentionnés au présent paragraphe pour les caractéristiques des véhicules en cause.
+- b) les Parties contractantes ou leurs subdivisions peuvent fixer des chiffres différents de ceux qui sont mentionnés au présent paragraphe pour les caractéristiques des véhicules en cause.[^13-3]
 
 [^13-1]: Mis à jour selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^13-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 12).
@@ -392,7 +396,7 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 **Prescriptions générales pour les manœuvres**
 
-1.[^14-1] Tout conducteur qui veut exécuter une manœuvre, telle que sortir d’une file de véhicules en stationnement ou y entrer, se déporter à droite ou à gauche sur la chaussée, tourner à gauche ou à droite pour emprunter une autre route ou pour entrer dans une propriété riveraine, doit ne commencer à exécuter cette manœuvre qu’après s’être assuré qu’il peut le faire sans risquer de constituer un danger pour les autres usagers de la route qui le suivent, le précèdent ou vont le croiser, compte tenu de leur position, de leur direction et de leur vitesse.
+<sup>1.</sup> Tout conducteur qui veut exécuter une manœuvre, telle que sortir d’une file de véhicules en stationnement ou y entrer, se déporter à droite ou à gauche sur la chaussée, tourner à gauche ou à droite pour emprunter une autre route ou pour entrer dans une propriété riveraine, doit ne commencer à exécuter cette manœuvre qu’après s’être assuré qu’il peut le faire sans risquer de constituer un danger pour les autres usagers de la route qui le suivent, le précèdent ou vont le croiser, compte tenu de leur position, de leur direction et de leur vitesse.[^14-1]
 
 <sup>2.</sup> Tout conducteur qui veut effectuer un demi-tour ou une marche arrière doit ne commencer à exécuter cette manœuvre qu’après s’être assuré qu’il peut le faire sans constituer un danger ou un obstacle pour les autres usagers de la route.
 
@@ -440,7 +444,7 @@ Avant de tourner à droite ou à gauche pour s’engager sur une autre route ou 
 
 <sup>2.</sup> Tout conducteur débouchant d’un sentier ou d’un chemin de terre sur une route qui n’est ni un sentier ni un chemin de terre est tenu de céder le passage aux véhicules circulant sur cette route. Aux fins du présent article, les termes «sentier» et «chemin de terre» pourront être définis dans les législations nationales.
 
-3.[^18-1] Tout conducteur débouchant d’une propriété riveraine sur une route est tenu de céder le passage aux véhicules circulant sur cette route.
+<sup>3.</sup> Tout conducteur débouchant d’une propriété riveraine sur une route est tenu de céder le passage aux véhicules circulant sur cette route.[^18-1]
 
 <sup>4.</sup>
 
@@ -453,7 +457,7 @@ Sous réserve des dispositions du paragraphe 7 du présent article:
 
 <sup>6.</sup> Tout conducteur engagé dans une intersection où la circulation est réglée par des signaux lumineux de circulation peut évacuer l’intersection sans attendre que la circulation soit ouverte dans le sens où il va s’engager, mais à condition de ne pas gêner la circulation des autres usagers de la route qui avancent dans le sens où la circulation est ouverte.
 
-7 …[^18-3] Les conducteurs de véhicules ne se déplaçant pas sur rails ont l’obligation de céder le passage aux véhicules se déplaçant sur rails.
+<sup>7.</sup> …[^18-3] Les conducteurs de véhicules ne se déplaçant pas sur rails ont l’obligation de céder le passage aux véhicules se déplaçant sur rails.
 
 …[^18-4]
 
@@ -481,21 +485,20 @@ Tout usager de la route doit faire preuve d’une prudence accrue à l’approch
 
 **Prescriptions applicables aux piétons**
 
-1.[^20-1] Les Parties contractantes ou leurs subdivisions pourront ne rendre applicables les dispositions du présent article que dans les cas où la circulation de piétons sur la chaussée serait dangereuse ou serait gênante pour la circulation des véhicules.
+<sup>1.</sup> Les Parties contractantes ou leurs subdivisions pourront ne rendre applicables les dispositions du présent article que dans les cas où la circulation de piétons sur la chaussée serait dangereuse ou serait gênante pour la circulation des véhicules.[^20-1]
 
-<sup>2.</sup>
+<sup>2.</sup> …[^20-2]
 
 S’il existe, en bordure de la chaussée, des trottoirs ou des accotements praticables par les piétons, ceux-ci doivent les emprunter. Toutefois, en prenant les précautions nécessaires:
 
 - a) les piétons qui poussent ou qui portent des objets encombrants peuvent emprunter la chaussée si leur circulation sur le trottoir ou l’accotement devait causer une gêne importante aux autres piétons;
 - b) les groupes de piétons conduits par un moniteur, ou formant un cortège, peuvent circuler sur la chaussée.
-- [tab] …[^20-2]
 
 <sup>3.</sup> S’il n’est pas possible d’utiliser les trottoirs ou les accotements ou en l’absence de ceux-ci, les piétons peuvent circuler sur la chaussée; lorsqu’il existe une piste cyclable et lorsque la densité de la circulation le leur permet, ils peuvent circuler sur cette piste cyclable, mais sans gêner le passage des cyclistes et des cyclomotoristes.
 
-4.[^20-3] Lorsque des piétons circulent sur la chaussée en application des paragraphes 2 et 3 du présent article, ils doivent se tenir le plus près possible du bord de la chaussée.
+<sup>4.</sup> Lorsque des piétons circulent sur la chaussée en application des paragraphes 2 et 3 du présent article, ils doivent se tenir le plus près possible du bord de la chaussée.[^20-3]
 
-5.[^20-4] Il est recommandé que les législations nationales prévoient ce qui suit: lorsque des piétons circulent sur la chaussée, ils doivent se tenir, sauf si cela est de nature à compromettre leur sécurité, du côté opposé à celui correspondant au sens de la circulation. Toutefois, les personnes qui poussent à la main un cycle, un cyclomoteur ou un motocycle doivent toujours se tenir du côté de la chaussée correspondant au sens de la circulation et il en est de même des groupes de piétons conduits par un moniteur ou formant un cortège. Sauf s’ils forment un cortège, les piétons circulant sur la chaussée doivent, de nuit ou par mauvaise visibilité, ainsi que de jour si la densité de la circulation des véhicules l’exige, marcher autant qu’il leur est possible en une seule file.
+<sup>5.</sup> Il est recommandé que les législations nationales prévoient ce qui suit: lorsque des piétons circulent sur la chaussée, ils doivent se tenir, sauf si cela est de nature à compromettre leur sécurité, du côté opposé à celui correspondant au sens de la circulation. Toutefois, les personnes qui poussent à la main un cycle, un cyclomoteur ou un motocycle doivent toujours se tenir du côté de la chaussée correspondant au sens de la circulation et il en est de même des groupes de piétons conduits par un moniteur ou formant un cortège. Sauf s’ils forment un cortège, les piétons circulant sur la chaussée doivent, de nuit ou par mauvaise visibilité, ainsi que de jour si la densité de la circulation des véhicules l’exige, marcher autant qu’il leur est possible en une seule file.[^20-4]
 
 - 6\. a) Les piétons ne doivent s’engager sur une chaussée pour la traverser qu’en faisant preuve de prudence; ils doivent emprunter le passage pour piétons lorsqu’il en existe un à proximité.
 - b)
@@ -530,10 +533,12 @@ Sans préjudice des dispositions du paragraphe 1 de l’article 7, du paragraphe
 - a) si la circulation des véhicules est réglée à ce passage par des signaux lumineux de circulation ou par un agent de la circulation, les conducteurs doivent, lorsqu’il leur est interdit de passer, s’arrêter avant de s’engager sur le passage ou sur les marques transversales qui le précèdent et, lorsqu’il leur est permis de passer, ne pas entraver ni gêner la traversée des piétons qui se sont engagés sur le passage; si les conducteurs tournent pour s’engager sur une autre route à l’entrée de laquelle se trouve un passage pour piétons, ils ne doivent le faire qu’à allure lente et en laissant passer, quitte à s’arrêter à cet effet, les piétons qui se sont engagés ou qui s’engagent sur le passage;
 - b) si la circulation des véhicules n’est réglée à ce passage ni par des signaux lumineux de circulation ni par un agent de la circulation, les conducteurs ne doivent s’approcher de ce passage qu’à allure suffisamment modérée pour ne pas mettre en danger les piétons qui s’y sont engagés ou qui s’y engagent; au besoin, ils doivent s’arrêter pour les laisser passer.
 
-3.[^21-2] Aucune disposition du présent article ne sera interprétée comme empêchant les Parties contractantes ou leurs subdivisions:
+<sup>3.</sup>
+
+Aucune disposition du présent article ne sera interprétée comme empêchant les Parties contractantes ou leurs subdivisions:
 
 - – d’obliger les conducteurs de véhicule à marquer l’arrêt chaque fois que des piétons se sont engagés ou s’engagent sur un passage pour piétons signalé comme tel ou délimité par des marques sur la chaussée dans les conditions prévues à l’article 20 de la présente Convention, ou
-- – de leur interdire d’empêcher ou de gêner la marche des piétons qui traversent la chaussée à une intersection ou tout près d’une intersection, même si aucun passage pour piétons n’est à cet endroit signalé comme tel ou délimité par des marques sur la chaussée.
+- – de leur interdire d’empêcher ou de gêner la marche des piétons qui traversent la chaussée à une intersection ou tout près d’une intersection, même si aucun passage pour piétons n’est à cet endroit signalé comme tel ou délimité par des marques sur la chaussée.[^21-2]
 
 <sup>4.</sup> Les conducteurs ayant l’intention de dépasser, du côté correspondant au sens de la circulation, un véhicule de transport public à un arrêt signalé comme tel doivent réduire leur vitesse et au besoin s’arrêter pour permettre aux voyageurs de monter dans ce véhicule ou d’en descendre.
 
@@ -556,7 +561,7 @@ Sans préjudice des dispositions de l’article 10 de la présente Convention, t
 
 **Arrêt et stationnement**
 
-1.[^23-1] En dehors des agglomérations, les véhicules et animaux à l’arrêt ou en stationnement doivent être autant que possible placés hors de la chaussée. Aussi bien dans les agglomérations qu’en dehors de celles-ci, ils ne doivent pas être placés sur les pistes cyclables, les voies cyclables, les voies réservées aux véhicules des services réguliers de transport en commun, les pistes pour cavaliers, les chemins pour piétons**,** les trottoirs ou les accotements aménagés pour la circulation des piétons, sauf dans la mesure où la législation nationale applicable le permet.[^23-2]
+<sup>1.</sup> En dehors des agglomérations, les véhicules et animaux à l’arrêt ou en stationnement doivent être autant que possible placés hors de la chaussée. Aussi bien dans les agglomérations qu’en dehors de celles-ci, ils ne doivent pas être placés sur les pistes cyclables, les voies cyclables, les voies réservées aux véhicules des services réguliers de transport en commun, les pistes pour cavaliers, les chemins pour piétons**,** les trottoirs ou les accotements aménagés pour la circulation des piétons, sauf dans la mesure où la législation nationale applicable le permet.[^23-1] [^23-2]
 
 - 2\. a)
 
@@ -597,17 +602,19 @@ Sans préjudice des dispositions de l’article 10 de la présente Convention, t
 
 <sup>4.</sup> Un conducteur ne doit pas quitter son véhicule ou ses animaux sans avoir pris toutes les précautions utiles pour éviter tout accident et, dans le cas d’une automobile, pour éviter qu’elle ne soit utilisée sans autorisation.
 
-5.[^23-10] Il est recommandé que les législations nationales prévoient que tout véhicule à moteur autre qu’un cyclomoteur à deux roues ou un motocycle à deux roues sans side-car, ainsi que toute remorque, attelée ou non, qui est immobilisé sur la chaussée hors d’une agglomération, soit signalé à distance, au moyen d’au moins un dispositif approprié, placé à l’endroit le mieux indiqué pour avertir suffisamment à temps les autres conducteurs qui s’approchent:
+<sup>5.</sup>
+
+Il est recommandé que les législations nationales prévoient que tout véhicule à moteur autre qu’un cyclomoteur à deux roues ou un motocycle à deux roues sans side-car, ainsi que toute remorque, attelée ou non, qui est immobilisé sur la chaussée hors d’une agglomération, soit signalé à distance, au moyen d’au moins un dispositif approprié, placé à l’endroit le mieux indiqué pour avertir suffisamment à temps les autres conducteurs qui s’approchent:
 
 - a) lorsque le véhicule est immobilisé de nuit sur la chaussée dans des conditions telles que les conducteurs qui s’approchent ne peuvent se rendre compte de l’obstacle qu’il constitue;
-- b) lorsque le conducteur, dans d’autres cas, a été contraint d’immobiliser son véhicule à un endroit où l’arrêt est interdit.
+- b) lorsque le conducteur, dans d’autres cas, a été contraint d’immobiliser son véhicule à un endroit où l’arrêt est interdit.[^23-10]
 
 <sup>6.</sup> Rien dans le présent article ne saurait être interprété comme empêchant les Parties contractantes ou leurs subdivisions d’introduire d’autres dispositions en matière de stationnement et d’arrêt ou d’adopter des dispositions distinctes pour le stationnement et l’arrêt des cycles et des cyclomoteurs.[^23-11]
 
 …[^23-12]
 
-[^23-1]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-2]: Nouvelle teneur de la phrase selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^23-1]: Nouvelle teneur de la phrase selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^23-2]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
 [^23-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
 [^23-5]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
@@ -629,7 +636,9 @@ Il est interdit d’ouvrir la portière d’un véhicule, de la laisser ouverte 
 
 **Autoroutes et routes de caractère similaire**
 
-1.[^25-1] Sur les autoroutes et, si la législation nationale en dispose ainsi, sur les routes spéciales d’accès aux autoroutes et de sortie des autoroutes:
+<sup>1.</sup>
+
+Sur les autoroutes et, si la législation nationale en dispose ainsi, sur les routes spéciales d’accès aux autoroutes et de sortie des autoroutes:
 
 - a) la circulation est interdite aux piétons, aux animaux, aux cycles, aux cyclomoteurs s’ils ne sont pas assimilés à des motocycles, et à tous les véhicules autres que les automobiles et leurs remorque; ainsi qu’aux automobiles ou à leurs remorques qui ne seraient pas, par construction, susceptibles d’atteindre en palier une vitesse fixée par la législation nationale;
 - b)
@@ -637,7 +646,7 @@ Il est interdit d’ouvrir la portière d’un véhicule, de la laisser ouverte 
   il est interdit aux conducteurs:
 
   - i) d’arrêter leurs véhicules ou de stationner ailleurs qu’aux places de stationnement signalées; en cas d’immobilisation forcée d’un véhicule, son conducteur doit s’efforcer de l’amener hors de la chaussée et aussi hors de la bande d’urgence et, s’il ne peut le faire, signaler immédiatement à distance la présence du véhicule, pour avertir suffisamment à temps les autres conducteurs qui s’approchent,
-  - ii) de faire demi-tour ou marche arrière ou de pénétrer sur la bande de terrain centrale, y compris les raccordements transversaux reliant entre elles les deux chaussées.
+  - ii) de faire demi-tour ou marche arrière ou de pénétrer sur la bande de terrain centrale, y compris les raccordements transversaux reliant entre elles les deux chaussées.[^25-1]
   - [tab] …[^25-2]
 
 <sup>2.</sup> Les conducteurs débouchant sur une autoroute doivent céder le passage aux véhicules qui y circulent. S’il existe une voie d’accélération, ils doivent l’emprunter.[^25-3]
@@ -646,7 +655,7 @@ Il est interdit d’ouvrir la portière d’un véhicule, de la laisser ouverte 
 
 …[^25-4]
 
-4.[^25-5] Pour l’application des paragraphes 1, 2 et 3 du présent article, sont assimilées aux autoroutes les autres routes réservées à la circulation automobile dûment signalées comme telles et ne desservant pas les propriétés riveraines.
+<sup>4.</sup> Pour l’application des paragraphes 1, 2 et 3 du présent article, sont assimilées aux autoroutes les autres routes réservées à la circulation automobile dûment signalées comme telles et ne desservant pas les propriétés riveraines.[^25-5]
 
 [^25-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 19).
 [^25-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 19).
@@ -668,16 +677,17 @@ Il est interdit à tout conducteur:
 - b) de faire demi-tour;
 - c)[^25bis-2] …
 
-<sup>2.</sup> Même si le tunnel est éclairé, tout conducteur doit allumer ses feux de route ou ses feux de croisement.
+<sup>2.</sup> Même si le tunnel est éclairé, tout conducteur doit s’assurer que ses feux de route ou ses feux de croisement sont allumés.[^25bis-3]
 
-<sup>3.</sup> Le conducteur ne doit mettre son véhicule à l’arrêt ou en stationnement qu’en cas d’urgence ou de danger. Pour ce faire, il doit, si possible, utiliser les endroits spécialement signalés.[^25bis-3]
+<sup>3.</sup> Le conducteur ne doit mettre son véhicule à l’arrêt ou en stationnement qu’en cas d’urgence ou de danger. Pour ce faire, il doit, si possible, utiliser les endroits spécialement signalés.[^25bis-4]
 
-<sup>4.</sup> En cas d’immobilisation prolongée des véhicules, le conducteur doit arrêter son moteur.[^25bis-4]
+<sup>4.</sup> En cas d’immobilisation prolongée des véhicules, le conducteur doit arrêter son moteur.[^25bis-5]
 
 [^25bis-1]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^25bis-2]: Abrogé par les Am. du 28 sept. 2004, avec effet depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^25bis-3]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^25bis-4]: Anciennement par. 3.
+[^25bis-3]: Nouvelle teneur selon les Am. du 9 août 2024, en vigueur pour la Suisse depuis le 9 fév. 2025 ([RO 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
+[^25bis-4]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^25bis-5]: Anciennement par. 3.
 
 #### Art. 26
 
@@ -693,18 +703,17 @@ Il est interdit à tout conducteur:
 
 <sup>1.</sup> Nonobstant les dispositions du paragraphe 3 de l’article 10 de la présente Convention, les Parties contractantes ou leurs subdivisions peuvent ne pas interdire aux cyclistes de circuler à plusieurs de front.
 
-2.[^27-1] Il est interdit aux cyclistes de rouler sans tenir le guidon au moins d’une main, de se faire remorquer par un autre véhicule ou de transporter, traîner ou pousser des objets gênants pour la conduite ou dangereux pour les autres usagers de la route. Les mêmes dispositions sont applicables aux cyclomotoristes et aux motocyclistes, mais, de plus, ceux-ci doivent tenir le guidon des deux mains, sauf éventuellement pour donner l’indication de la manœuvre décrite au paragraphe 3 de l’article 14 de la présente Convention.
+<sup>2.</sup> Il est interdit aux cyclistes de rouler sans tenir le guidon au moins d’une main, de se faire remorquer par un autre véhicule ou de transporter, traîner ou pousser des objets gênants pour la conduite ou dangereux pour les autres usagers de la route. Les mêmes dispositions sont applicables aux cyclomotoristes et aux motocyclistes, mais, de plus, ceux-ci doivent tenir le guidon des deux mains, sauf éventuellement pour donner l’indication de la manœuvre décrite au paragraphe 3 de l’article 14 de la présente Convention.[^27-1]
 
 <sup>3.</sup> Il est interdit aux cyclistes et aux cyclomotoristes de transporter des passagers sur leur véhicule; les Parties contractantes ou leurs subdivisions peuvent, toutefois, autoriser des dérogations à cette disposition, notamment autoriser le transport de passagers sur le ou les sièges supplémentaires qui seraient aménagés sur le cycle. Il n’est permis aux motocyclistes de transporter des passagers que dans le side-car, s’il en existe un, et sur le siège supplémentaire éventuellement aménagé derrière le conducteur.
 
-4.[^27-2] Lorsqu’il existe une voie cyclable ou une piste cyclable, les Parties contractantes ou leurs subdivisions peuvent interdire aux cyclistes de circuler sur le reste de la chaussée. Dans le même cas, elles peuvent autoriser les cyclomotoristes à circuler sur la voie cyclable ou la piste cyclable et, si elles le jugent opportun, leur interdire de circuler sur le reste de la chaussée. La législation nationale doit préciser dans quelles conditions d’autres usagers de la route peuvent utiliser la voie cyclable ou la piste cyclable ou les traverser, de telle manière que la sécurité des cyclistes soit tout le temps assurée.[^27-3]
+<sup>4.</sup> Lorsqu’il existe une voie cyclable ou une piste cyclable, les Parties contractantes ou leurs subdivisions peuvent interdire aux cyclistes de circuler sur le reste de la chaussée. Dans le même cas, elles peuvent autoriser les cyclomotoristes à circuler sur la voie cyclable ou la piste cyclable et, si elles le jugent opportun, leur interdire de circuler sur le reste de la chaussée. La législation nationale doit préciser dans quelles conditions d’autres usagers de la route peuvent utiliser la voie cyclable ou la piste cyclable ou les traverser, de telle manière que la sécurité des cyclistes soit tout le temps assurée.[^27-2]
 
-…[^27-4]
+…[^27-3]
 
 [^27-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
-[^27-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
-[^27-3]: Nouvelle teneur selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^27-4]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
+[^27-2]: Nouvelle teneur selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^27-3]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
 
 #### Art. 27<sup>bis</sup> à 27<sup>quater</sup>
 
@@ -735,7 +744,7 @@ Il peut seulement être fait usage des avertisseurs sonores:
 
 <sup>1.</sup> Lorsqu’une voie ferrée emprunte une chaussée, tout usager de la route doit, à l’approche d’un tramway ou d’un autre véhicule sur rails, dégager celle-ci dès que possible pour laisser le passage au véhicule sur rails.
 
-2.[^29-1] Les Parties contractantes ou leurs subdivisions peuvent adopter pour la circulation sur route des véhicules se déplaçant sur rails et pour le croisement ou le dépassement de ces véhicules des règles spéciales différentes de celles qui sont définies au présent chapitre. Toutefois, les Parties contractantes ou leurs subdivisions ne peuvent adopter de dispositions contraires à celles du paragraphe 7 de l’article 18 de la présente Convention.
+<sup>2.</sup> Les Parties contractantes ou leurs subdivisions peuvent adopter pour la circulation sur route des véhicules se déplaçant sur rails et pour le croisement ou le dépassement de ces véhicules des règles spéciales différentes de celles qui sont définies au présent chapitre. Toutefois, les Parties contractantes ou leurs subdivisions ne peuvent adopter de dispositions contraires à celles du paragraphe 7 de l’article 18 de la présente Convention.[^29-1]
 
 …[^29-2]
 
@@ -759,10 +768,12 @@ Tout chargement d’un véhicule doit être disposé et, au besoin, arrimé de t
 
 <sup>3.</sup> Tous les accessoires, tels que câbles, chaînes, bâches, servant à arrimer ou à protéger le chargement doivent serrer celui-ci et être fixés solidement. Tous les accessoires servant à protéger le chargement doivent satisfaire aux conditions prévues pour le chargement au paragraphe 2 du présent article.
 
-4.[^30-1] Les chargements dépassant du véhicule vers l’avant, vers l’arrière ou sur les côtés doivent être signalés de façon bien visible dans tous les cas où leurs contours risquent de n’être pas perçus des conducteurs des autres véhicules; la nuit, cette signalisation doit être faite à l’avant par un feu blanc et un dispositif réfléchissant blanc et à l’arrière par un feu rouge et un dispositif réfléchissant rouge. En particulier, sur les véhicules à moteur,
+<sup>4.</sup>
+
+Les chargements dépassant du véhicule vers l’avant, vers l’arrière ou sur les côtés doivent être signalés de façon bien visible dans tous les cas où leurs contours risquent de n’être pas perçus des conducteurs des autres véhicules; la nuit, cette signalisation doit être faite à l’avant par un feu blanc et un dispositif réfléchissant blanc et à l’arrière par un feu rouge et un dispositif réfléchissant rouge. En particulier, sur les véhicules à moteur:
 
 - a) les chargements dépassant l’extrémité du véhicule de plus d’un mètre (3 pieds 4 pouces) vers l’arrière ou vers l’avant doivent toujours être signalés;
-- b) les chargements dépassant latéralement le gabarit du véhicule de telle sorte que leur extrémité latérale se trouve à plus de 0,40 m (16 pouces) du bord extérieur du feu-position avant du véhicule doivent être signalés la nuit vers l’avant et il en est de même, vers l’arrière, de ceux dont l’extrémité latérale se trouve à plus de 0,40 m (16 pouces) du bord extérieur du feu-position arrière rouge du véhicule.
+- b) les chargements dépassant latéralement le gabarit du véhicule de telle sorte que leur extrémité latérale se trouve à plus de 0,40 m (16 pouces) du bord extérieur du feu-position avant du véhicule doivent être signalés la nuit vers l’avant et il en est de même, vers l’arrière, de ceux dont l’extrémité latérale se trouve à plus de 0,40 m (16 pouces) du bord extérieur du feu-position arrière rouge du véhicule.[^30-1]
 
 <sup>5.</sup> Rien dans le paragraphe 4 du présent article ne saurait être interprété comme empêchant les Parties contractantes ou leurs subdivisions d’interdire, de limiter ou de soumettre à autorisation spéciale les dépassements du chargement visés audit paragraphe 4.
 
@@ -800,34 +811,34 @@ Sans préjudice des dispositions des législations nationales en ce qui concerne
 
 <sup>1.</sup>
 
-Entre la tombée de la nuit et le lever du jour, ainsi qu’en toute autre circonstance où la visibilité est insuffisante du fait, par exemple, de brouillard, de chute de neige ou de forte pluie, les feux ci-après doivent être allumés sur un véhicule en mouvement:
+Entre la tombée de la nuit et le lever du jour, ainsi que dans toute autre situation où la visibilité est insuffisante du fait, par exemple, de brouillard, de chute de neige ou de forte pluie, les feux ci-après doivent être allumés sur un véhicule en mouvement:
 
-- a) sur les véhicules à moteur et les cyclomoteurs, les feux-route ou feux-croisement et les feux-position arrière, selon l’équipement prescrit par la présente Convention pour le véhicule de chaque catégorie;
-- b) sur les remorques, les feux-position avant si ces feux sont prescrits au paragraphe 30 de l’annexe 5 de la présente Convention et au moins deux feux-position arrière.
+- a) sur les véhicules à moteur et les cyclomoteurs, les feux de route ou feux de croisement et les feux de position arrière, selon l’équipement prescrit par la présente Convention pour le véhicule de chaque catégorie;
+- b) sur les remorques, les feux de position avant si ces feux sont prescrits au par. 22.2 de l’annexe 5 de la présente Convention et au moins deux feux de position arrière.
 
 <sup>2.</sup>
 
-Les feux-route doivent être éteints et remplacés par les feux-croisement:
+Les feux de route doivent être éteints et remplacés par les feux de croisement:
 
-- a) dans les agglomérations lorsque la route est suffisamment éclairée et en dehors des agglomérations lorsque la chaussée est éclairée de façon continue et que cet éclairage est suffisant pour permettre au conducteur de voir distinctement jusqu’à une distance suffisante et aux autres usagers de la route de percevoir le véhicule à une distance suffisante;
-- b) lorsqu’un conducteur va croiser un autre véhicule, de façon à éviter l’éblouissement, à la distance nécessaire pour que le conducteur de cet autre véhicule puisse continuer sa marche aisément et sans danger;
-- c) dans toute autre circonstance où il est nécessaire de ne pas éblouir les autres usagers de la route ou les usagers d’une voie d’eau ou d’une voie ferrée qui longe la route.
+- a) dans les agglomérations lorsque la route est suffisamment éclairée et en dehors des agglomérations lorsque la route est éclairée de façon continue et que cet éclairage est suffisant pour permettre au conducteur de voir distinctement jusqu’à une distance suffisante et aux autres usagers de la route de percevoir le véhicule à une distance suffisante;
+- b) lorsqu’un conducteur va croiser un autre véhicule, de façon à éviter l’éblouissement, à la distance nécessaire pour que le conducteur de cet autre véhicule puisse poursuivre son chemin aisément et sans danger;
+- c) dans toute autre situation où il est nécessaire de ne pas éblouir les autres usagers de la route ou les usagers d’une voie d’eau ou d’une voie ferrée qui longe la route.
 
-<sup>3.</sup> Toutefois, lorsqu’un véhicule en suit un autre à faible distance, les feux-route peuvent être utilisés pour donner un avertissement lumineux dans les conditions prévues au paragraphe 2 de l’article 28 de l’intention de dépasser.
+<sup>3.</sup> Toutefois, lorsqu’un véhicule en suit un autre à faible distance, les feux de route peuvent être utilisés comme avertissement lumineux, dans les conditions prévues au par. 2 de l’art. 28, de l’intention de dépasser.
 
-<sup>4.</sup> Les feux-brouillard ne peuvent être allumés qu’en cas de brouillard épais, de chute de neige, de forte pluie ou dans des conditions analogues et, en ce qui concerne les feux-brouillard avant, pour remplacer les feux-croisement. La législation nationale peut autoriser l’utilisation simultanée des feux-brouillard avant et des feux-croisement et l’utilisation des feux-brouillard avant sur les routes étroites et comportant de nombreux virages.
+<sup>4.</sup> Les feux de brouillard ne peuvent être allumés qu’en cas de brouillard ou dans toute situation similaire caractérisée par une visibilité réduite et, s’agissant des feux de brouillard avant, pour remplacer les feux de croisement. Toutefois, la législation nationale peut autoriser l’utilisation simultanée des feux de brouillard avant et des feux de croisement, l’utilisation simultanée des feux de brouillard avant et des feux d’angle et l’utilisation des feux de brouillard avant sur les routes étroites et sinueuses.
 
-<sup>5.</sup> Sur les véhicules équipés de feux-position avant, ces feux doivent être utilisés en même temps que les feux-route, les feux-croisement ou les feux-brouillard avant.
+<sup>5.</sup> Sur les véhicules équipés de feux de position avant, ces feux doivent être allumés en même temps que les feux de route, les feux de croisement ou les feux de brouillard avant. La fonction des feux de position avant peut être remplacée par les feux de croisement et/ou les feux de route à condition qu’en cas de défaillance de ces feux, les feux de position avant soient automatiquement rallumés.
 
-<sup>6.</sup> De jour, les conducteurs de motocycles doivent rouler avec au moins un feux-croisement avant et un feu rouge arrière allumés. La législation nationale peut autoriser l’utilisation de feux de jour au lieu de feux-croisement.
+<sup>6.</sup> La législation nationale peut rendre obligatoire pour les conducteurs de véhicules à moteur l’utilisation pendant le jour des feux de croisement ou des feux de circulation diurne.
 
-<sup>7.</sup> La législation nationale peut rendre obligatoire pour les conducteurs de véhicules à moteur l’utilisation pendant le jour des feux-croisement ou des feux de jour. Dans ce cas, les feux-position arrière doivent être utilisés en même temps que les feux avant.
+<sup>7.</sup> De jour, les motocycles doivent rouler avec au moins un feu de croisement avant et un feu rouge arrière allumés. La législation nationale peut autoriser l’utilisation de feux de circulation diurne au lieu de feux de croisement.
 
-<sup>8.</sup> Entre la tombée de la nuit et le lever du jour, ainsi que dans toute autre circonstance où la visibilité est insuffisante, la présence de véhicules à moteur et de leurs remorques à l’arrêt ou en stationnement sur une route doit être indiquée par des feux-position avant et arrière. En cas de brouillard épais, de chute. de neige, de forte pluie ou de conditions analogues, les feux-croisement ou les feux-brouillard avant peuvent être utilisés. Dans ces conditions, les feux-brouillard arrière peuvent être utilisés en complément des feux-position arrière.
+<sup>8.</sup> Entre la tombée de la nuit et le lever du jour ainsi que dans toute autre situation où la visibilité est insuffisante, la présence de véhicules à moteur et de remorques attelées à ceux‑ci, à l’arrêt ou en stationnement sur une route, doit être indiquée par des feux de position avant et arrière. En cas de brouillard ou dans toute situation similaire caractérisée par une visibilité réduite, les feux de croisement ou les feux de brouillard avant peuvent être utilisés. Dans ces conditions, les feux de brouillard arrière peuvent être utilisés en complément des feux de position arrière.
 
 <sup>9.</sup>
 
-Par dérogation aux dispositions du paragraphe 8 du présent article, à l’intérieur d’une agglomération, les feux-position avant et arrière peuvent être remplacés par des feux de stationnement, à condition que:
+Par dérogation aux dispositions du par. 8 du présent article, à l’intérieur d’une agglomération, les feux de position avant et arrière peuvent être remplacés par des feux de stationnement, à condition que:
 
 - a) les dimensions du véhicule n’excèdent pas 6 m de long et 2 m de large;
 - b) aucune remorque ne soit attelée au véhicule;
@@ -835,15 +846,17 @@ Par dérogation aux dispositions du paragraphe 8 du présent article, à l’int
 
 <sup>10.</sup>
 
-Par dérogation aux dispositions des paragraphes 8 et 9 du présent article, un véhicule peut être à l’arrêt ou en stationnement tous feux éteints:
+Par dérogation aux dispositions des par. 8 et 9 du présent article, un véhicule peut être à l’arrêt ou en stationnement tous feux éteints:
 
 - a) sur une route éclairée de façon telle que le véhicule soit visible distinctement à une distance suffisante;
 - b) en dehors de la chaussée et d’un accotement stabilisé;
 - c) lorsqu’il s’agit de cyclomoteurs et de motocycles à deux roues sans side-car et non munis de batterie, tout au bord de la chaussée dans une agglomération.
 
-<sup>11.</sup> La législation nationale peut accorder des dérogations aux dispositions des paragraphes 8 et 9 du présent article pour les véhicules à l’arrêt ou en stationnement à l’intérieur d’une agglomération, dans des rues où la circulation est très faible.
+<sup>11.</sup> La législation nationale peut accorder des dérogations aux dispositions des par. 8 et 9 du présent art. pour les véhicules à l’arrêt ou en stationnement à l’intérieur d’une agglomération où la circulation est peu dense.
 
-<sup>12.</sup> Les feux-marche arrière ne peuvent être utilisés que lorsque le véhicule fait marche arrière ou est sur le point de faire marche arrière.
+<sup>12.</sup> Les feux de marche arrière ne peuvent être utilisés que lorsque le véhicule fait marche arrière ou est sur le point de le faire; les feux de marche arrière supplémentaires facultatifs peuvent rester allumés pour de courtes manœuvres en marche avant à faible vitesse.
+
+12<sup>bis</sup>. Les feux de manœuvre ne peuvent être utilisés que lorsque le véhicule roule à une vitesse inférieure ou égale à 10 km (6 miles) à l’heure.
 
 <sup>13.</sup>
 
@@ -852,16 +865,17 @@ Les signaux de détresse ne peuvent être utilisés que pour avertir les autres 
 - a) lorsqu’un véhicule en panne ou accidenté ne peut être déplacé immédiatement, de telle sorte qu’il constitue un obstacle pour les autres usagers;
 - b) lorsqu’il s’agit de signaler aux autres usagers le risque d’un danger imminent.
 
-<sup>14.</sup> L’utilisation de feux d’avertissement émettant d’autres couleurs peut être autorisée par la législation nationale.
+<sup>14.</sup>
 
 Les feux spéciaux d’avertissement:
 
-- a) émettant une lumière bleue ne peuvent être utilisés que sur les véhicules prioritaires qui accomplissent une mission urgente ou dans d’autres cas lorsqu’il est nécessaire d’avertir les autres usagers de la route de la présence du véhicule;
-- b) émettant une lumière jaune-auto ne peuvent être utilisés que lorsque les véhicules sont réellement affectés aux tâches particulières pour lesquelles ils ont été équipés du feu spécial d’avertissement ou lorsque la présence desdits véhicules sur la route constitue un danger ou une gêne pour les autres usagers.
+- a) émettant une lumière bleue et/ou rouge ne peuvent être utilisés que sur les véhicules prioritaires qui accomplissent une mission urgente ou dans d’autres cas lorsqu’il est nécessaire d’avertir les autres usagers de la route de la présence du véhicule;
+- b) émettant une lumière jaune-auto ne peuvent être utilisés que lorsque les véhicules sont affectés aux tâches particulières pour lesquelles ils ont été équipés du feu spécial d’avertissement ou lorsque la présence desdits véhicules sur la route constitue un danger ou une gêne pour les autres usagers;
+- c) émettant une lumière de toute autre couleur peuvent être autorisés par la législation nationale.
 
-<sup>15.</sup> En aucun cas, un véhicule ne doit être équipé de feux rouges à l’avant ou de feux blancs à l’arrière, sous réserve des dérogations indiquées au paragraphe 61 de l’annexe 5. Un véhicule ne doit pas être modifié ni être équipé de feux supplémentaires d’une manière qui risque de contrevenir à la présente disposition.
+<sup>15.</sup> En aucun cas un véhicule ne doit être équipé de feux rouges à l’avant ou de feux blancs à l’arrière, sous réserve des dérogations indiquées au par. 61 de l’annexe 5. Un véhicule ne doit pas être modifié ni être équipé de feux supplémentaires d’une manière qui risque de contrevenir à la présente disposition.
 
-[^32-1]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^32-1]: Nouvelle teneur selon les Am. du 9 août 2024, en vigueur pour la Suisse depuis le 9 fév. 2025 ([RO 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 #### Art. 33
 
@@ -888,7 +902,7 @@ Les feux spéciaux d’avertissement:
 
 <sup>1.</sup> Dès que l’approche d’un véhicule prioritaire est signalée par les avertisseurs spéciaux, lumineux et sonores de ce véhicule, tout usager de la route doit dégager le passage sur la chaussée et, au besoin, s’arrêter.
 
-2.[^34-1] Les législations nationales peuvent prévoir que les conducteurs de véhicules prioritaires ne sont pas tenus, quand leur circulation est annoncée par les avertisseurs spéciaux du véhicule et sous réserve de ne pas mettre en danger les autres usagers de la route, de respecter tout ou partie des dispositions du présent chapitre Il autres que celles du paragraphe 2 de l’article 6.
+<sup>2.</sup> Les législations nationales peuvent prévoir que les conducteurs de véhicules prioritaires ne sont pas tenus, quand leur circulation est annoncée par les avertisseurs spéciaux du véhicule et sous réserve de ne pas mettre en danger les autres usagers de la route, de respecter tout ou partie des dispositions du présent chapitre Il autres que celles du paragraphe 2 de l’article 6.[^34-1]
 
 <sup>3.</sup> Les législations nationales peuvent déterminer dans quelle mesure le personnel travaillant à la construction, à la réparation ou à l’entretien de la route, y compris les conducteurs des engins employés pour les travaux, n’est pas tenu, sous réserve d’observer toutes précautions utiles, de respecter pendant leur travail les dispositions du présent chapitre II.
 
@@ -907,7 +921,7 @@ L’exigence selon laquelle tout véhicule ou tout ensemble de véhicules en mou
 - a) à la réglementation technique nationale, et à tout instrument juridique international applicable, concernant les véhicules à roues et les équipements et pièces susceptibles d’être montés et/ou utilisés sur un véhicule à roues;
 - b) à la législation nationale régissant le fonctionnement du véhicule.
 
-[^34bis-1]: Introduit par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^34bis-1]: Introduit par les Am. du 14 déc. 2020, en vigueur pour la Suisse depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 
 ## Chapitre III Conditions à remplir par les automobiles et les remorques pour être admises en circulation internationale
 
@@ -986,7 +1000,7 @@ Toute automobile et toute remorque en circulation internationale doivent porter 
 
 **Prescriptions techniques et inspection des véhicules[^39-1]**
 
-<sup>1.</sup> 1. Toute automobile, toute remorque et tout ensemble de véhicules en circulation internationale doivent satisfaire aux dispositions de l’annexe 5 de la présente Convention. Ils doivent, en outre, être en bon état de marche. Lorsque ces véhicules sont équipés de systèmes, de pièces ou d’équipements qui sont conformes aux prescriptions techniques de construction, de montage et d’utilisation énoncées dans les instruments juridiques internationaux visés au par. 5<sup>bis</sup> de l’art. 8 de la présente Convention, ils sont réputés conformes à l’annexe 5.[^39-2]
+<sup>1.</sup> Toute automobile, toute remorque et tout ensemble de véhicules en circulation internationale doivent satisfaire aux dispositions de l’annexe 5 de la présente Convention. Ils doivent, en outre, être en bon état de marche. Lorsque ces véhicules sont équipés de systèmes, de pièces ou d’équipements qui sont conformes aux prescriptions techniques de construction, de montage et d’utilisation énoncées dans les instruments juridiques internationaux visés au par. 5<sup>bis</sup> de l’art. 8 de la présente Convention, ils sont réputés conformes à l’annexe 5.[^39-2]
 
 <sup>2.</sup>
 
@@ -998,7 +1012,7 @@ Les législations nationales doivent prescrire un contrôle technique périodiqu
 <sup>3.</sup> Les législations nationales étendront, autant que possible, les dispositions du paragraphe 2 à d’autres catégories de véhicules.[^39-4]
 
 [^39-1]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^39-2]: Introduit par les Am. du 26 mars 2014, en vigueur depuis le 23 mars 2016 ([RO 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
+[^39-2]: Nouvelle teneur selon les Am. du 26 mars 2014, en vigueur depuis le 23 mars 2016 ([RO 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
 [^39-3]: Introduit selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^39-4]: Introduit selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
@@ -1152,14 +1166,19 @@ Sur le territoire des Parties contractantes qui n’ont pas, conformément au pa
 
 #### Art. 48
 
-A son entrée en vigueur, la présente Convention abrogera et remplacera, dans les relations entre les Parties contractantes, la Convention internationale relative à la circulation automobile[^48-1] et la Convention internationale relative à la circulation routière signées l’une et l’autre à Paris le 24 avril 1926, la Convention sur la réglementation de la circulation automobile interaméricaine ouverte à la signature à Washington le 15 décembre 1943 et la Convention sur la circulation routière ouverte à la signature à Genève le 19 septembre 1949.
+À son entrée en vigueur, la présente Convention abrogera et remplacera, dans les relations entre les Parties contractantes, la Convention internationale relative à la circulation automobile[^48-1] et la Convention internationale relative à la circulation routière signées l’une et l’autre à Paris le 24 avril 1926, la Convention sur la réglementation de la circulation automobile interaméricaine ouverte à la signature à Washington le 15 décembre 1943 et la Convention sur la circulation routière ouverte à la signature à Genève le 19 septembre 1949.
 
 [^48-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
 
 #### Art. 49
 
-<sup>1.</sup> Après une période d’un an à dater de l’entrée en vigueur de la présente Convention, toute Partie contractante pourra proposer un ou plusieurs amendements à la Convention. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir, dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé à tous les autres États visés au paragraphe 1 de l’article 45 de la présente Convention.
+<sup>1.</sup>
 
+Après une période d’un an à dater de l’entrée en vigueur de la présente Convention, toute Partie contractante pourra proposer un ou plusieurs amendements à la Convention. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir, dans le délai de douze mois suivant la date de cette communication:
+
+- a) si elles acceptent l’amendement, ou
+- b) si elles le rejettent, ou
+- c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé à tous les autres États visés au paragraphe 1 de l’article 45 de la présente Convention.
 - 2\. a) Toute proposition d’amendement qui aura été communiquée conformément aux dispositions du paragraphe précédent sera réputée acceptée si, dans le délai de douze mois susmentionné, moins du tiers des Parties contractantes informent le Secrétaire général soit qu’elles rejettent l’amendement, soit qu’elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général notifiera à toutes les Parties contractantes toute acceptation ou tout rejet de l’amendement proposé et toute demande de convocation d’une conférence. Si le nombre total des rejets et des demandes reçus pendant le délai spécifié de douze mois est inférieur au tiers du nombre total des Parties contractantes, le Secrétaire général notifiera à toutes les Parties contractantes que l’amendement entrera en vigueur six mois après l’expiration du délai de douze mois spécifié au paragraphe précédent pour toutes les Parties contractantes, à l’exception de celles qui, pendant le délai spécifié, ont rejeté l’amendement ou demandé la convocation d’une conférence pour l’examiner.
 - b) Toute Partie contractante qui, pendant ledit délai de douze mois, aura rejeté une proposition d’amendement ou demandé la convocation d’une conférence pour l’examiner pourra, à tout moment après l’expiration de ce délai, notifier au Secrétaire général qu’elle accepte l’amendement, et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur pour les Parties contractantes qui auront notifié leur acceptation six mois après que le Secrétaire général aura reçu leur notification.
 
@@ -1196,7 +1215,7 @@ Aucune disposition de la présente Convention ne sera interprétée comme interd
 
 <sup>2.</sup> Au moment où il dépose son instrument de ratification ou d’adhésion, tout État peut déclarer, par notification adressée au Secrétaire général, qu’il assimilera les cyclomoteurs aux motocycles aux fins d’application de la présente Convention (article 1, n).
 
-A tout moment, tout État pourra ultérieurement, par notification adressée au Secrétaire général, retirer sa déclaration.
+À tout moment, tout État pourra ultérieurement, par notification adressée au Secrétaire général, retirer sa déclaration.
 
 <sup>3.</sup> Les déclarations prévues au paragraphe 2 du présent article prendront effet six mois après la date à laquelle le Secrétaire général en aura reçu notification, ou à la date à laquelle la Convention entrera en vigueur pour l’État qui fait la déclaration si cette date est postérieure à la précédente.
 
@@ -1232,19 +1251,17 @@ L’original de la présente Convention, fait en un seul exemplaire, en langues 
 
 Annexe 1[^t-2]
 
-## Annexes
+## Dérogations à l’obligation d’admettre en circulation internationale les automobiles et les remorques
 
-[^t-2]: Mise à jour par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-
-### Dérogations à l’obligation d’admettre en circulation internationale les automobiles et les remorques
+[^t-2]: Mise à jour par les Am. du 28 sept. 2004 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)) et du 9 août 2024, en vigueur pour la Suisse depuis le 9 fév. 2025 ([RO 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 \1. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire les automobiles, remorques et ensembles de véhicules dont les masses, totales ou par essieu, ou dont les dimensions excèdent les limites fixées par leur législation nationale pour les véhicules immatriculés sur leur territoire. Les Parties contractantes sur le territoire desquelles a lieu une circulation internationale de véhicules lourds s’efforceront de conclure des accords régionaux permettant, en circulation internationale, l’accès des routes de la région, sauf exception pour des routes à faibles caractéristiques, aux véhicules et ensembles de véhicules dont les masses et dimensions n’excèdent pas les chiffres fixés par ces accords.
 
-\2. Pour l’application du paragraphe 1 de la présente annexe, ne sera pas considérée comme dépassement de la largeur maximale autorisée la saillie:
+\2. Pour l’application du par. 1 de la présente annexe, ne sera pas considérée comme dépassement de la largeur maximale autorisée la saillie:
 
-- a) des pneumatiques au voisinage de leur point de contact avec le sol, et des connexions des indicateurs de pression des pneumatiques;
+- a) des pneumatiques au voisinage de leur point de contact avec le sol, et des connexions des systèmes de surveillance de la pression des pneumatiques;
 - b) des dispositifs antipatinants qui seraient montés sur les roues;
-- c) des miroirs rétroviseurs construits de façon à pouvoir, sous l’effet d’une pression modérée, céder dans les deux sens de telle façon qu’ils ne dépassent plus la largeur maximale autorisée;
+- c) des miroirs rétroviseurs/systèmes de vision indirecte construits de façon à pouvoir, sous l’effet d’une pression modérée, céder dans les deux sens de telle façon qu’ils ne dépassent plus la largeur maximale autorisée;
 - d) des indicateurs de direction latéraux et des feux d’encombrement, à condition que la saillie en cause ne dépasse pas quelques centimètres;
 - e) des scellements douaniers apposés sur le chargement et des dispositifs de fixation et de protection de ces scellements.
 
@@ -1262,13 +1279,13 @@ Annexe 1[^t-2]
 
 \7. Les Parties contractantes peuvent subordonner l’admission en circulation internationale, sur certaines routes difficiles ou dans certaines régions à relief difficile de leur territoire, des automobiles dont la masse maximale autorisée dépasse 3500 kg (7700 livres) au respect des prescriptions spéciales imposées par leur législation nationale pour l’admission sur ces routes ou dans ces régions des véhicules de même masse maximale autorisée qu’elles immatriculent.
 
-7<sup>bis</sup> …[^annex1-lvlu1-lvlu1-1]
+7<sup>bis</sup> …[^annex1-lvlu1-1]
 
-\8. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire toute automobile munie de feux-croisement à faisceau asymétrique lorsque le réglage des faisceaux n’est pas adapté au sens de circulation sur leur territoire.
+\8. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire toute automobile munie de feux de croisement à faisceau asymétrique lorsque le réglage des faisceaux n’est pas adapté au sens de la circulation sur leur territoire.
 
 \9. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire toute automobile ou toute remorque attelée à une automobile qui porterait un signe distinctif autre que l’un de ceux prévus à l’art. 37 de la présente Convention. Toutefois, elles ne peuvent refuser l’admission du véhicule lorsqu’il est apposé séparément de la plaque d’immatriculation un signe distinctif conforme aux dispositions de la présente Convention et qui viendrait suppléer un signe distinctif incorporé à la plaque d’immatriculation et non conforme aux dispositions de la présente Convention.
 
-[^annex1-lvlu1-lvlu1-1]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 28).
+[^annex1-lvlu1-1]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 28).
 
 Annexe 2[^t-3]
 
@@ -1313,7 +1330,7 @@ Annexe 3[^t-4]
   - ii) Lorsque, en sus de ce signe distinctif, est arboré sur la plaque d’immatriculation un symbole non numérique et/ou un drapeau et/ou un emblème, régional ou local, le signe distinctif de l’État d’immatriculation doit alors obligatoirement se trouver à l’extrémité gauche de la plaque.
 
 - c) Le drapeau ou l’emblème complétant le cas échéant le signe distinctif de l’État d’immatriculation doit être placé de manière telle qu’il ne puisse compromettre la lisibilité du signe distinctif et figurer de préférence au-dessus de celui-ci.
-- d) Le signe distinctif de l’État d’immatriculation doit être disposé de manière telle qu’il puisse être aisément identifiable et ne puisse être confondu avec le numéro d’immatriculation ou compromettre sa lisibilité. A cette fin, le signe distinctif doit, au moins, soit être d’une couleur différente de celle du numéro d’immatriculation, soit être apposé sur un fond de couleur différent de celui réservé au numéro d’immatriculation, soit être distinctement séparé, de préférence par un trait, du numéro d’immatriculation.
+- d) Le signe distinctif de l’État d’immatriculation doit être disposé de manière telle qu’il puisse être aisément identifiable et ne puisse être confondu avec le numéro d’immatriculation ou compromettre sa lisibilité. À cette fin, le signe distinctif doit, au moins, soit être d’une couleur différente de celle du numéro d’immatriculation, soit être apposé sur un fond de couleur différent de celui réservé au numéro d’immatriculation, soit être distinctement séparé, de préférence par un trait, du numéro d’immatriculation.
 - e) Pour les plaques d’immatriculation des motocycles et leur remorque ainsi que pour les plaques dont le numéro s’inscrit sur deux lignes, la taille des lettres du signe distinctif ainsi que, le cas échéant, celle du drapeau ou de l’emblème de l’État d’immatriculation ou de l’emblème de l’organisation régionale d’intégration économique à laquelle appartient le pays, peuvent être réduites en conséquence.
 - f) Les dispositions du présent paragraphe s’appliquent selon les mêmes principes à la plaque d’immatriculation avant du véhicule lorsque celle-ci est obligatoire.
 
@@ -1342,7 +1359,7 @@ Annexe 5[^t-5]
 
 ## Conditions techniques relatives aux automobiles et aux remorques
 
-[^t-5]: Mise à jour par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^t-5]: Mise à jour par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) et du 9 août 2024, en vigueur pour la Suisse depuis le 9 fév. 2025 ([RO 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 \1. Sans préjudice des dispositions du paragraphe 2a) de l’article 3 et du paragraphe 1 de l’article 39 de la présente Convention, toute Partie contractante peut, pour les automobiles qu’elle immatricule et pour les remorques qu’elle admet à la circulation en vertu de sa législation nationale, imposer des prescriptions complétant les dispositions de la présente annexe ou plus rigoureuses que celles-ci. Tout véhicule en circulation internationale doit satisfaire aux prescriptions techniques en vigueur dans son pays d’immatriculation lors de sa première mise en service.
 
@@ -1415,105 +1432,188 @@ C. Freinage des ensembles de véhicules
 D. Freinage des motocycles
 
 - 18\. a) Tout motocycle doit être muni de deux dispositifs de freinage, agissant l’un au moins sur la ou les roues arrière, et l’autre au moins sur la ou les roues avant; si un side-car est adjoint à un motocycle, le freinage de la roue du side-car n’est pas exigé. Ces dispositifs de freinage doivent permettre de ralentir le motocycle et de l’arrêter d’une façon sûre, rapide et efficace, quelles que soient ses conditions de chargement et la déclivité ascendante ou descendante de la route sur laquelle il circule.
-- b) Outre les dispositifs prévus à l’alinéa a du présent paragraphe, les motocycles à trois roues symétriques par rapport au plan longitudinal médian du véhicule doivent être munis d’un frein de stationnement répondant aux conditions énoncées à l’alinéa b du paragraphe 5 de la présente annexe.
+- b) Au lieu des dispositifs prévus à l’al. a) du présent paragraphe, les motocycles peuvent être équipés d’un système de freinage qui actionne les freins sur toutes les roues et qui est composé de deux circuits partiels, ou plus, actionnés par une commande unique, conçu pour qu’une défaillance unique d’un circuit partiel quelconque n’empêche pas le fonctionnement de tout autre circuit partiel.
+- c) Outre les dispositifs prévus à l’al. a) du présent paragraphe, les motocycles à trois roues symétriques par rapport au plan longitudinal médian du véhicule doivent être munis d’un frein de stationnement répondant aux conditions énoncées à l’al. b) du par. 5 de la présente annexe.
 
 ### Chapitre II Dispositifs d’éclairage et de signalisation lumineuse des véhicules
 
+### A. Définitions
+
 \19. Aux fins du présent chapitre, le terme:
 
-- – «Feu-route» désigne le feu servant à éclairer la route sur une grande distance en avant de ce véhicule;
-- – «Feu-croisement» désigne le feu servant à éclairer la route en avant de ce véhicule sans éblouir ni gêner indûment les conducteurs venant en sens inverse et les autres usagers de la route;
-- – «Feu-position avant» désigne le feu servant à indiquer la présence et la largeur de ce véhicule vu de l’avant;
-- – «Feu-position arrière» désigne le feu servant à indiquer la présence et la largeur de ce véhicule vu de l’arrière;
-- – «Feu-stop» désigne le feu servant à indiquer aux autres usagers de la route qui se trouvent derrière ce véhicule que son conducteur actionne le frein de service;
-- – «Feu-brouillard avant» désigne le feu servant à améliorer l’éclairage de la route en cas de brouillard épais, de chute de neige, de forte pluie ou de conditions analogues;
-- – «Feu-brouillard arrière» désigne le feu servant à rendre le véhicule plus visible vu de l’arrière, en cas de brouillard épais, de chute de neige, de forte pluie ou de conditions analogues;
-- – «Feu-marche arrière» désigne le feu servant à éclairer la route à l’arrière de ce véhicule et à avertir les autres usagers de la route que le véhicule fait marche arrière ou est sur le point de faire marche arrière;
-- – «Feu-indicateur de direction» désigne le feu servant à indiquer aux autres usagers de la route que le conducteur a l’intention de changer de direction vers la droite ou vers la gauche;
-- – «Feu-stationnement» désigne le feu servant à indiquer la présence d’un véhicule en stationnement; il peut remplacer les feux-position avant et arrière;
-- – «Feu-encombrement» désigne le feu installé près de l’extrémité hors tout de la largeur et aussi proche que possible de la hauteur du véhicule et destiné à indiquer nettement sa largeur hors tout. Ce signal sert à compléter, pour certains véhicules à moteur et remorque, les feux-position, en attirant particulièrement l’attention sur son encombrement;
-- – «Signal de détresse» désigne le signal donné par le fonctionnement simultané de tous les feux indicateurs de direction;
-- – «Feu latéral» désigne le feu installé sur le flanc du véhicule destiné à indiquer la présence du véhicule vu latéralement;
-- – «Feu spécial» désigne un feu destiné à signaler soit un véhicule prioritaire, soit un véhicule ou un groupe de véhicules dont la présence sur la route impose aux autres usagers de la route de prendre des précautions particulières, notamment les convois de véhicules, les véhicules de dimensions exceptionnelles et les véhicules ou engins de construction ou d’entretien des routes;
-- – «Dispositif d’éclairage de plaque d’immatriculation arrière» désigne le dispositif permettant d’assurer l’éclairage de l’emplacement destiné à la plaque d’immatriculation arrière et qui peut être composé de divers éléments optiques; – «Feu de jour» désigne un feu destiné à rendre de jour un véhicule plus visible de l’avant lorsqu’il est en mouvement;
-- – «Rétroréflecteur» désigne un dispositif servant à indiquer la présence d’un véhicule par réflexion de la lumière émanant d’une source lumineuse non reliée à ce véhicule;
-- – «Plage éclairante» désigne la projection orthogonale sur un plan vertical transversal de la surface efficace de sortie de la lumière. Pour un rétroréflecteur, la surface efficace est la surface visible de l’optique catadioptrique.
+- a) «Feu de route» désigne un feu servant à éclairer la route sur une grande distance en avant du véhicule;
+- b) «Feu de croisement» désigne un feu servant à éclairer la route en avant du véhicule sans éblouir ni gêner indûment les conducteurs venant en sens inverse et les autres usagers de la route;
+- c) «Système d’éclairage avant adaptif» désigne un dispositif d’éclairage émettant des faisceaux dont les caractéristiques s’adaptent automatiquement aux conditions variables d’utilisation du faisceau de croisement et/ou du faisceau de route;
+- d) «Feu d’angle» désigne un feu servant à compléter l’éclairage de la partie de la route située en avant du véhicule, du côté vers lequel celui-ci va tourner;
+- e) «Éclairage de virage» désigne une fonction d’éclairage visant à améliorer l’éclairage dans les virages;
+- f) «Feu de position avant» désigne un feu servant à indiquer la présence et la largeur du véhicule vu de l’avant;
+- g) «Feu de position arrière» désigne un feu servant à indiquer la présence et la largeur du véhicule vu de l’arrière;
+- h) «Feu-stop» désigne un feu servant à indiquer aux autres usagers de la route qui se trouvent derrière le véhicule que le déplacement longitudinal de celui-ci est volontairement ralenti;
+- i) «Feu de brouillard avant» désigne un feu servant à améliorer l’éclairage de la route en avant du véhicule en cas de brouillard ou dans toute situation similaire caractérisée par une visibilité réduite;
+- j) «Feu de brouillard arrière» désigne un feu servant à rendre le véhicule plus facilement visible vu de l’arrière, en cas de brouillard ou dans toute situation similaire caractérisée par une visibilité réduite;
+- k) «Feu de marche arrière» désigne un feu servant à éclairer la route à l’arrière du véhicule et à avertir les autres usagers de la route que le véhicule fait marche arrière ou est sur le point de le faire, ou, s’il s’agit de feux de marche arrière supplémentaires facultatifs, à fournir un éclairage latéral lors de manœuvres à faible vitesse;
+- l) «Feu de manœuvre» désigne un feu servant à compléter l’éclairage latéral du véhicule afin de faciliter les manœuvres à faible vitesse;
+- m) «Feu indicateur de direction» désigne un feu servant à indiquer aux autres usagers de la route que le conducteur a l’intention de changer de direction vers la droite ou vers la gauche;
+- n) «Feu de stationnement» désigne un feu servant à signaler la présence d’un véhicule en stationnement dans une agglomération. Il peut remplacer, dans ce cas, les feux de position avant et arrière;
+- o) «Feu d’encombrement» désigne un feu installé près de l’extrémité hors tout, aussi proche que possible du sommet du véhicule et destiné à indiquer nettement sa largeur hors tout. Ce feu est destiné à compléter les feux de position avant et arrière de certains véhicules à moteur et remorques en attirant particulièrement l’attention sur leur gabarit;
+- p) «Signal de détresse» désigne un signal donné par le fonctionnement simultané des feux indicateurs de direction du véhicule;
+- q) «Feu de position latéral» désigne un feu servant à indiquer la présence d’un véhicule vu de côté;
+- r) «Feu spécial d’avertissement» désigne un feu destiné à signaler soit un véhicule prioritaire, soit un véhicule ou un groupe de véhicules dont la présence sur la route peut constituer un danger ou une gêne pour les autres usagers;
+- s) «Feu de plaque arrière d’immatriculation» désigne un dispositif servant à éclairer l’emplacement destiné à la plaque d’immatriculation arrière; ce dispositif peut être composé de différents composants optiques;
+- t) «Feu de circulation diurne» désigne un feu destiné à améliorer la visibilité de jour de l’avant d’un véhicule en circulation;
+- u) «Feu d’accès au véhicule» désigne un feu servant à fournir un éclairage supplémentaire pour aider le conducteur et les passagers à monter dans le véhicule ou à en descendre, ou encore faciliter les opérations de chargement;
+- v) «Catadioptre» désigne un dispositif servant à indiquer la présence d’un véhicule par réflexion de la lumière émanant d’une source non reliée à ce véhicule;
+- w) «Marquage à grande visibilité» désigne un dispositif destiné à accroître la visibilité d’un véhicule vu de côté ou de l’arrière (ou dans le cas d’une remorque, de l’avant également), grâce à la réflexion de la lumière émanant d’une source non reliée à ce véhicule;
+- x) «Plage éclairante» désigne la projection orthogonale d’un feu sur un plan perpendiculaire à son axe de référence et en contact avec la surface extérieure de sortie de la lumière du feu. Dans le cas d’un catadioptre, la plage éclairante est considérée comme étant délimitée par les plans contigus aux parties extrêmes de l’optique catadioptrique.
 
-\20. Les couleurs des feux visés au présent chapitre doivent être, autant que possible, conformes aux définitions données dans l’appendice de la présente annexe.
+### B. Prescriptions techniques
 
-\21. A l’exception des motocycles, toute automobile susceptible de dépasser en palier la vitesse de 40 km (25 miles) à l’heure doit être munie à l’avant d’un nombre pair de feux-route blancs ou jaune sélectif capables d’éclairer efficacement la route la nuit par temps clair. Les bords extérieurs de la plage éclairante des feux-route ne doivent en aucun cas être situés plus près de l’extrémité de la largeur hors tout du véhicule que les bords extérieurs de la plage éclairante des feux-croisement.
+\20. Principes
 
-\22. A l’exception des motocycles, toute automobile susceptible de dépasser en palier la vitesse de 10 km (6 miles) à l’heure doit être munie à l’avant d’un nombre pair de feux-croisement blancs ou jaune sélectif, capables d’éclairer efficacement la route la nuit par temps clair. Une automobile doit être munie d’une installation telle que pas plus de deux feux-croisement puissent être allumés simultanément. Les feux-croisement doivent être réglés conformément à la définition du paragraphe 19 de la présente annexe.
+20.1 Les couleurs des feux visés au présent chapitre doivent être, autant que possible, conformes aux définitions données dans les instruments juridiques internationaux applicables aux véhicules à roues, aux équipements et aux pièces susceptibles d’être montés et/ou utilisés sur un véhicule à roues[^annex5-lvlu1-chapII-lvlB-1]\*.
 
-\23. Toute automobile autre qu’un motocycle à deux roues sans side-car doit être munie à l’avant de deux feux-position avant blancs; toutefois, le jaune sélectif est admis pour les feux-position avant incorporés dans des feux-route ou des feux-croisement émettant des faisceaux de lumière jaune sélectif. Ces feux position avant, lorsqu’ils sont les seuls feux allumés à l’avant du véhicule, doivent être visibles de nuit par temps clair sans éblouir ni gêner indûment les autres usagers de la route.
+20.2 Une fonction d’éclairage spécifique peut être assurée par plus d’un feu.
 
-- 24\. a) Toute automobile autre qu’un motocycle à deux roues sans side-car doit être munie à l’arrière d’un nombre pair de feux-position arrière rouges visibles de nuit par temps clair sans éblouir ni gêner indûment les autres usagers de la route.
-- b) Toute remorque doit être munie à l’arrière d’un nombre pair de feux-position arrière rouges visibles de nuit par temps clair sans éblouir ni gêner indûment les autres usagers de la route. Toutefois, les remorques dont la largeur hors tout ne dépasse pas 0,80 m peuvent n’être munies que d’un seul de ces feux si elles sont attelées à un motocycle à deux roues sans side-car.
+20.3 Sur un même véhicule, les feux ayant la même fonction et orientés vers la même direction doivent être de même couleur.
 
-\25. Toute automobile ou remorque portant à l’arrière un numéro d’immatriculation doit être équipée d’un dispositif d’éclairage tel que ce numéro soit lisible de nuit par temps clair.
+Les feux et les catadioptres qui sont en nombre pair doivent être placés symétriquement par rapport au plan longitudinal médian du véhicule sauf sur les véhicules dont la forme extérieure est dissymétrique. Les feux de chaque paire doivent avoir sensiblement la même intensité. Ces dispositions ne s’appliquent pas aux systèmes d’éclairage avant adaptifs.
 
-\26. Sur toute automobile, y compris les motocycles, et sur tout ensemble constitué par un véhicule automobile et une ou plusieurs remorques, les connexions électriques doivent être telles que les feux-route, feux-croisement, feux-brouillard avant, feux-position avant de l’automobile et le dispositif visé au paragraphe 25 ci-dessus ne puissent être mis en service que lorsque les feux-position arrière de l’automobile ou de l’ensemble de véhicules, situés le plus à l’arrière, le sont eux aussi.
+20.4 Des feux de nature différente et, sous réserve des dispositions des autres paragraphes du présent chapitre, des feux et des catadioptres peuvent être groupés ou incorporés dans un même dispositif, à condition que chacun de ces feux et catadioptres soit conforme aux dispositions applicables de la présente annexe.
 
-Les feux-brouillard arrière ne doivent pouvoir être mis en service que lorsque les feux-route, les feux-croisement ou les feux-brouillard avant sont en service.
+\21. Feux de route, feux de croisement, système d’éclairage avant adaptif et plage éclairante
 
-Cependant, cette condition n’est pas imposée pour les feux-route ou les feux-croisement lorsqu’ils sont utilisés pour donner les avertissements lumineux visés au paragraphe 3 de l’article 32 de la Convention. En outre, les connexions électriques doivent être telles que les feux-position avant de l’automobile soient toujours allumés lorsque les feux-croisement, les feux-route ou les feux-brouillard avant le sont.
+21.1 À l’exception des motocycles, toute automobile dont la vitesse maximale par construction dépasse 40 km (25 miles) à l’heure doit être munie à l’avant d’un nombre pair de feux de route blancs ou des parties pertinentes d’un système d’éclairage avant adaptif.
 
-\27. Toute automobile autre qu’un motocycle à deux roues sans side-car doit être munie à l’arrière d’au moins deux rétroréflecteurs rouges de forme non triangulaire. Ces rétroréflecteurs, lorsqu’ils sont éclairés par les feux-route, les feux-croisement ou les feux-brouillard d’un autre véhicule, doivent être visibles la nuit par temps clair par le conducteur de cet autre véhicule.
+21.2 À l’exception des motocycles, toute automobile dont la vitesse maximale par construction dépasse 10 km (6 miles) à l’heure doit être munie à l’avant de deux feux de croisement blancs ou des parties pertinentes d’un système d’éclairage avant adaptif.
 
-\28. Toute remorque doit être munie à l’arrière d’au moins deux rétroréflecteurs rouges. Ces rétroréflecteurs doivent avoir la forme d’un triangle équilatéral dont un sommet est en haut et un côté est horizontal. Aucun feu de signalisation ne doit être placé à l’intérieur du triangle. Ces rétroréflecteurs doivent satisfaire à la condition de visibilité fixée au paragraphe 27 ci-dessus. Toutefois, les remorques dont la largeur hors tout ne dépasse pas 0,80 m peuvent n’être munies que d’un seul rétroréflecteur si elles sont attelées à un motocycle à deux roues sans side-car.
+21.3 Sous réserve de la possibilité pour les Parties contractantes qui, conformément au par. 2 de l’art. 54 de la Convention, auront fait une déclaration assimilant les cyclomoteurs aux motocycles, de dispenser les cyclomoteurs de tout ou partie de ces obligations:
 
-\29. Toute remorque doit être munie à l’avant de deux catadioptres blancs, de forme non triangulaire. Ces catadioptres doivent satisfaire aux conditions de visibilité fixées au paragraphe 27 ci-dessus.
+- a) tout motocycle à deux roues avec ou sans side-car doit être muni d’un ou de deux feu(x) de croisement blanc(s);
+- b) tout motocycle à deux roues avec ou sans side-car dont la vitesse maximale par construction dépasse 40 km (25 miles) à l’heure peut être muni, en plus des feux de croisement, d’au moins un feu de route blanc;
+- c) tout motocycle à deux roues avec ou sans side-car dont la vitesse maximale par construction dépasse 50 km (31 miles) à l’heure doit être muni, en plus des feux de croisement, d’un ou de deux feu(x) de route blanc(s).
 
-\30. Une remorque doit être munie à l’avant de deux feux-position avant blancs, lorsque sa largeur excède 1,60 m. Les feux-position avant ainsi prescrits doivent être placés le plus près possible de l’extrémité de la largeur hors tout de la remorque.
+21.4 Les bords extérieurs de la plage éclairante des feux de route ne doivent en aucun cas être situés plus près de l’extrémité de la largeur hors tout du véhicule que les bords extérieurs de la plage éclairante des feux de croisement.
 
-\31. A l’exception des motocycles à deux roues avec ou sans side-car, toute automobile capable de dépasser en palier la vitesse de 25 km (15 miles) à l’heure doit être munie à l’arrière d’au moins deux feux-stop de couleur rouge dont l’intensité lumineuse est nettement supérieure à celle des feux-position arrière. La même disposition s’applique à toute remorque constituant le dernier véhicule d’un ensemble de véhicules.
+\22. Feux de position avant et arrière
 
-\32. Sous réserve de la possibilité pour les Parties contractantes qui, conformément au paragraphe 2 de l’article 54 de la Convention, auront fait une déclaration assimilant les cyclomoteurs aux motocycles, de dispenser les cyclomoteurs de tout ou partie de ces obligations:
+22.1 Toute automobile autre qu’un motocycle à deux roues sans side-car doit être munie à l’avant de deux feux de position avant blancs ou jaune-auto.
 
-- a) tout motocycle à deux roues avec ou sans side-car doit être muni d’un ou de deux feux-croisement satisfaisant aux dispositions de couleur et de visibilité fixées au paragraphe 22 ci-dessus;
-- b) tout motocycle à deux roues avec ou sans side-car, susceptible de dépasser en palier la vitesse de 40 km (25 miles) à l’heure doit être muni, en plus du feu-croisement, d’au moins un feu-route satisfaisant aux dispositions de couleur et de visibilité fixées au paragraphe 21 ci-dessus. Si ce motocycle comporte plusieurs feux-route, ces feux doivent être situés le plus près possible l’un de l’autre;
-- c) …
+22.2 Toute remorque doit être munie de deux feux de position avant blancs lorsque sa largeur excède 1,60 m.
 
-\33. Tout motocycle à deux roues sans side-car peut être muni à l’avant d’un ou de deux feux-position avant satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 23 ci-dessus. Si ce motocycle comporte deux feux-position avant, ceux-ci doivent être situés le plus près possible l’un de l’autre.
+22.3 Tout motocycle à deux roues sans side-car peut être muni à l’avant d’un ou de deux feu(x) de position avant blanc(s) ou jaune-auto.
 
-\34. Tout motocycle à deux roues sans side-car doit être muni à l’arrière d’un feu-position arrière satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 24a ci-dessus.
+22.4
 
-\35. Tout motocycle à deux roues sans side-car doit être muni à l’arrière d’un rétroréflecteur de forme non triangulaire satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 27 ci-dessus.
+- a) Toute automobile autre qu’un motocycle à deux roues sans side-car doit être munie à l’arrière d’un nombre pair de feux de position arrière rouges.
+- b) Toute remorque doit être munie à l’arrière d’un nombre pair de feux de position arrière rouges.
 
-\36. Sous réserve de la possibilité pour les Parties contractantes qui, conformément au paragraphe 2 de l’article 54 de la Convention, auront fait une déclaration assimilant les cyclomoteurs aux motocycles, de dispenser de cette obligation les cyclomoteurs à deux roues avec ou sans side-car, tout motocycle à deux roues avec ou sans side-car doit être muni d’un feu-stop satisfaisant aux dispositions du paragraphe 31 ci-dessus.
+22.5 Tout motocycle à deux roues sans side-car doit être muni à l’arrière d’un ou de deux feu(x) de position rouge(s).
 
-\37. Sans préjudice des dispositions relatives aux feux et dispositifs exigés pour les motocycles sans side-car, tout side-car attaché à un motocycle à deux roues doit être muni à l’avant d’un feu-position avant satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 23 ci-dessus et à l’arrière d’un feu-position arrière satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 24a ci-dessus, et d’un catadioptre satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 27 ci-dessus. Les connexions électriques doivent être telles que les feux-position avant et arrière du side-car s’allument en même temps que le feu-position arrière du motocycle.
+\23. Feu de plaque arrière d’immatriculation
 
-\38. Les automobiles à trois roues symétriques par rapport au plan longitudinal médian du véhicule, assimilées aux motocycles en application de l’alinéa n de l’article premier de la Convention, doivent être munies des dispositifs prescrits aux paragraphes 21, 22, 23, 24a, 27 et 31 ci-dessus. Toutefois, sur un véhicule électrique dont la largeur ne dépasse pas 1,30 m et la vitesse ne dépasse pas 40 km (25 miles) à l’heure, un seul feu-route et un seul feu-croisement suffisent.
+Sur toute automobile ou remorque, la plaque d’immatriculation, ou le numéro, le cas échéant, situé(e) à l’arrière doit être éclairé(e) par un feu de plaque d’immatriculation arrière.
 
-\39. Toute automobile, à l’exception des cyclomoteurs, et toute remorque doivent être munies de feux-indicateurs de direction à position fixe et à lumière clignotante jaune-auto, disposés en nombre pair sur le véhicule et visibles de jour et de nuit par les usagers de la route intéressés au mouvement du véhicule.
+\24. Feux de brouillard avant et arrière et plage éclairante
 
-\40. Si des feux-brouillard avant sont installés sur une automobile, ils doivent émettre une lumière blanche ou jaune sélectif, être au nombre de deux ou, s’il s’agit d’un motocycle, d’un seul, et être placés de telle façon qu’aucun point de leur plage éclairante ne se trouve au-dessus du point le plus haut de la plage éclairante des feux-croisement.
+24.1 Toute automobile peut être équipée d’un ou de deux feu(x) de brouillard avant blanc(s) ou jaune sélectif. Les feux de brouillard avant doivent être placés de telle façon qu’aucun point de leur plage éclairante ne se trouve au-dessous du point le plus haut de la plage éclairante des feux de croisement.
 
-\41. Aucun feu-marche arrière ne doit éblouir ou gêner indûment les autres usagers de la route. Si un feu-marche arrière est installé sur une automobile, il doit émettre une lumière blanche ou jaune sélectif. Le feu-marche arrière ne doit être allumé que lorsque le dispositif de marche arrière est enclenché.
+24.2 Toute automobile, à l’exception des motocycles, et toute remorque doivent être munies, à l’arrière, d’un ou de deux feu(x) de brouillard arrière rouge(s); les feux de brouillard arrière ne doivent pouvoir s’allumer que lorsque les feux de route, les feux de croisement ou les feux de brouillard avant sont allumés.
 
-\42. Aucun feu, autre que les feux-indicateurs de direction et les feux spéciaux, ne doit émettre de lumière clignotante ou à éclats. Les feux latéraux peuvent clignoter en même temps que les feux-indicateurs de direction.
+24.3 Tout motocycle peut être muni, à l’arrière, d’un ou de deux feu(x) de brouillard arrière rouge(s); les feux de brouillard arrière ne doivent pouvoir s’allumer que lorsque les feux de route, les feux de croisement ou les feux de brouillard avant sont allumés.
 
-42<sup>bis</sup>. Les feux spéciaux doivent émettre une lumière clignotante ou à éclats; la couleur de la lumière émise doit être conforme aux dispositions du paragraphe 14 de l’article 32.
+\25. Catadioptres
 
-42<sup>ter</sup>. Toute automobile, à l’exception des motocycles, et toute remorque doivent être munies d’un dispositif permettant d’émettre un signal de détresse.
+25.1 Toute automobile autre qu’un motocycle à deux roues sans side-car doit être munie à l’arrière d’au moins deux catadioptres rouges de forme non triangulaire.
 
-42<sup>quater</sup>. Si des feux-brouillard arrière sont installés sur une automobile ou sur une remorque, ils doivent être rouges.
+25.2 Toute remorque doit être munie à l’arrière d’au moins deux catadioptres rouges. Toutefois, les remorques dont la largeur hors tout ne dépasse pas 0,80 m peuvent n’être munies que d’un seul catadioptre si elles sont attelées à un motocycle à deux roues sans side-car.
 
-42<sup>quinquies</sup>. Toute automobile et remorque de longueur supérieure à 6 m doivent être équipées de rétroréflecteurs latéraux jaune-auto.
+Ces catadioptres doivent avoir la forme d’un triangle équilatéral dont un sommet est en haut et un côté est horizontal. Aucun feu de signalisation ne doit être placé à l’intérieur du triangle.
 
-42<sup>sexies</sup>. Toute automobile et remorque de largeur supérieure à 1,80 m peuvent être équipées de feux d’encombrement. Ces feux sont obligatoires si la largeur de l’automobile ou de la remorque dépasse 2,10 m. Si ces feux sont utilisés, ils seront au nombre de deux au minimum et émettront une lumière blanche ou jaune-auto vers l’avant et rouge vers l’arrière.
+25.3 Toute automobile mesurant plus de 6 m de long et toute remorque doivent être munies d’un ou de plusieurs catadioptre(s) latéral/latéraux jaune-auto. Le catadioptre latéral le plus à l’arrière peut être rouge s’il est combiné à un feu arrière rouge.
 
-42<sup>septies</sup>. Toute automobile et remorque peuvent être équipées de feux latéraux. Si de tels feux sont installés, ils émettront une lumière couleur jaune-auto.
+25.4 Toute remorque doit être munie à l’avant de deux catadioptres blancs, de forme non triangulaire.
 
-\43. Pour l’application des dispositions de la présente annexe, sera considéré:
+25.5 Tout motocycle à deux roues sans side-car doit être muni à l’arrière d’un ou de deux catadioptre(s) non triangulaire(s) rouge(s) et peut être muni, de chaque côté, d’un ou de deux catadioptre(s) non triangulaire(s) jaune-auto à l’avant et jaune-auto ou rouge(s) à l’arrière.
 
-- a) comme un seul feu, toute combinaison de deux ou plusieurs feux, identiques ou non, mais ayant la même fonction et la même couleur de lumière;
-- b) comme deux ou comme un nombre pair de feux, une seule plage éclairante ayant la forme d’une bande lorsque celle-ci est située symétriquement par rapport au plan longitudinal médian du véhicule. L’éclairage de cette plage devra être assuré par au moins deux sources lumineuses situées le plus près possible de ses extrémités.
+\26. Feux de position latéraux
 
-\44. Sur un même véhicule, les feux ayant la même fonction et orientés vers la même direction doivent être de même couleur. Les feux et les catadioptres qui sont en nombre pair doivent être placés symétriquement par rapport au plan longitudinal médian du véhicule, sauf sur les véhicules dont la forme extérieure est dissymétrique. Les feux de chaque paire doivent avoir sensiblement la même intensité.
+Toute automobile et toute remorque mesurant plus de 6 m de long (pour les remorques avec timon) doivent être munies de feux de position latéraux jaune-auto. Le feu de position latéral le plus à l’arrière peut être rouge s’il est combiné à un feu arrière rouge.
 
-\45. Des feux de nature différente et, sous réserve des dispositions des autres paragraphes du présent chapitre, des feux et des catadioptres peuvent être groupés ou incorporés dans un même dispositif, à condition que chacun de ces feux et de ces catadioptres réponde aux dispositions de la présente annexe qui lui sont applicables.
+\27. Marquage à grande visibilité
+
+Toute automobile, à l’exception des motocycles, et toute remorque peuvent être munies de marquages à grande visibilité blancs ou jaunes sur les côtés et de marquages à grande visibilité rouges ou jaunes à l’arrière. De plus, toute remorque peut être équipée, à l’avant, de marquages à grande visibilité blancs.
+
+\28. Feux-stop
+
+28.1 À l’exception des motocycles à deux roues avec ou sans side-car, toute automobile dont la vitesse maximale par construction dépasse 25 km (15 miles) à l’heure et toute remorque doivent être munies à l’arrière d’au moins deux feux-stop rouges. Un feu-stop supplémentaire central placé en hauteur peut être monté sur ces véhicules.
+
+28.2 Sous réserve de la possibilité pour les Parties contractantes qui, conformément au par. 2 de l’art. 54 de la présente Convention, auront fait une déclaration assimilant les cyclomoteurs aux motocycles, de dispenser de cette obligation les cyclomoteurs à deux roues avec ou sans side-car, tout motocycle à deux roues avec ou sans side-car doit être muni d’un ou de deux feu(x)-stop rouge(s). Un feu-stop supplémentaire central placé en hauteur peut être monté sur ces véhicules.
+
+\29. Feux de circulation diurne
+
+29.1 Toute automobile, à l’exception des motocycles, peut être munie de deux feux de circulation diurne blancs.
+
+29.2 Tout motocycle à deux roues avec ou sans side-car peut être muni d’un ou de deux feux de circulation diurne blanc(s).
+
+Sur les motocycles qui en sont munis, le(s) feu(x) de circulation diurne doit (doivent) s’allumer automatiquement lorsque le moteur tourne. Sur les motocycles qui ne sont pas munis de feux de circulation diurne, un projecteur doit s’allumer automatiquement lorsque le moteur tourne.
+
+\30. Feux indicateurs de direction
+
+Toute automobile, à l’exception des cyclomoteurs, et toute remorque doivent être munies de feux indicateurs de direction jaune-auto, disposés en nombre pair sur le véhicule.
+
+\31. Feux de marche arrière
+
+31.1 Les automobiles, à l’exception des motocycles, et les remorques dont la masse maximale autorisée dépasse 750 kg doivent être munies, à l’arrière, d’un ou de deux feu(x) de marche arrière blanc(s). Les feux de marche arrière ne doivent pas être allumés lorsque le dispositif de marche arrière n’est pas enclenché.
+
+31.2 Deux feux de marche arrière blancs supplémentaires peuvent être montés sur les côtés des automobiles et remorques d’une longueur supérieure à 6 m.
+
+\32. Feux de manœuvre
+
+Toute automobile, à l’exception des motocycles avec ou sans side-car, peut être équipée latéralement d’un ou de deux feu(x) de manœuvre blanc(s).
+
+\33. Feux spéciaux d’avertissement
+
+Les feux spéciaux d’avertissement doivent émettre une lumière clignotante, tournante ou à éclats. La couleur de la lumière émise doit être conforme aux dispositions du par. 14 de l’art. 32 de la présente Convention.
+
+\34. Signal de détresse
+
+Toute automobile et toute remorque doivent être munies d’un dispositif permettant d’émettre un signal de détresse, et tout motocycle peut en être muni.
+
+\35. Feux d’encombrement
+
+Toute automobile et toute remorque de largeur supérieure à 1,80 m peuvent être équipées de feux d’encombrement. Ces feux sont obligatoires si la largeur de l’automobile ou de la remorque dépasse 2,10 m. Si ces feux sont montés, ils doivent être au nombre de deux au minimum et émettre une lumière blanche ou jaune-auto vers l’avant et rouge vers l’arrière.
+
+\36. Feux de stationnement
+
+Toute automobile dont la longueur est inférieure ou égale à 6 m et dont la largeur est inférieure ou égale à 2 m peut être munie de deux feux de stationnement avant blancs et de deux feux de stationnement arrière rouges ou d’un feu de stationnement de chaque côté émettant une lumière blanche vers l’avant et rouge vers l’arrière.
+
+\37. Feux d’angle et fonction d’éclairage de virage
+
+37.1 Toute automobile, à l’exception des motocycles, peut être munie de feux d’angle blancs.
+
+37.2 Toute automobile peut être équipée de la fonction d’éclairage de virage pouvant être activée conjointement avec le (les) feu(x) de croisement par allumage de la ou des source(s) lumineuse(s) supplémentaire(s) ou unité(s) d’éclairage supplémentaire(s) ou par pivotement du feu (des feux) de croisement de chaque côté du véhicule.
+
+Dans le cas des motocycles à deux roues, la (les) source(s) lumineuse(s) supplémentaire(s) de lumière ou unité(s) d’éclairage supplémentaire(s) utilisée(s) pour l’éclairage de virage de chaque côté du véhicule ne peut (peuvent) être automatiquement activée(s) et désactivée(s) qu’en fonction de l’angle du roulis du véhicule.
+
+\38. Feux d’accès au véhicule
+
+Toute automobile peut être munie de feux d’accès au véhicule blancs.
+
+\39. Dispositions mettant en jeu plusieurs catégories de feux/signaux/dispositifs
+
+39.1 Aucun feu autre que les feux indicateurs de direction, le signal de détresse, les feux-stop lorsqu’ils servent de signaux d’arrêt d’urgence et les feux spéciaux d’avertissement ne doit émettre de lumière clignotante, tournante ou à éclats. Les feux de position latéraux peuvent clignoter en même temps que les feux indicateurs de direction.
+
+39.2 Les automobiles à trois roues symétriques par rapport au plan longitudinal médian du véhicule, assimilées aux motocycles en application de l’al. n) de l’article premier de la présente Convention, doivent être munies des dispositifs prescrits aux par. 21.1, 21.2, 22.1, 22.4 a), 25.1, et 28.1 ci-dessous. Toutefois, sur un véhicule électrique dont la largeur ne dépasse pas 1,30 m et la vitesse maximale par construction ne dépasse pas 40 km (25 miles) à l’heure, un seul feu de route et un seul feu de croisement suffisent.
+
+39.3 Sur toute automobile, y compris les motocycles, et sur tout ensemble constitué par une automobile et une ou plusieurs remorques, les connexions électriques doivent être telles que les feux de route, les feux de croisement et les feux de brouillard avant ne puissent être allumés que conjointement avec les feux de position avant et arrière, les feux d’encombrement (le cas échéant), les feux de position latéraux (le cas échéant), et les feux de plaque arrière d’immatriculation.
+
+Cependant, cette condition n’est pas imposée pour les feux de route ou les feux de croisement lorsqu’ils sont utilisés pour donner les avertissements lumineux visés au par. 3 de l’art. 32 de la présente Convention.
+
+39.4 Sans préjudice des dispositions relatives aux feux et dispositifs exigés pour les motocycles à deux roues sans side-car, tout side-car attaché à un motocycle à deux roues doit être muni à l’avant d’un feu de position avant blanc ou jaune-auto et à l’arrière d’un feu de position arrière rouge [mots supprimés] et d’un catadioptre rouge. Les connexions électriques doivent être telles que les feux de position avant et arrière du side-car s’allument en même temps que le feu de position arrière du motocycle.
+
+\40. à 45. *Abrogés*
+
+[^annex5-lvlu1-chapII-lvlB-1]: <sup>\*</sup> Règlements ONU annexés à l’Accord concernant l’adoption de prescriptions techniques uniformes applicables aux véhicules à roues, aux équipements et aux pièces susceptibles d’être montés ou utilisés sur un véhicule à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces prescriptions, établi à Genève, le 20 mars 1958, ou Règlements techniques ONU établis dans le cadre de l’Accord concernant l’établissement de Règlements techniques mondiaux applicables aux véhicules à roues, ainsi qu’aux équipements et pièces qui peuvent être montés et/ou utilisés sur les véhicules à roues, établi à Genève, le 25 juin 1998.
 
 ### Chapitre III Autres prescriptions
 
@@ -1523,7 +1623,7 @@ Appareil de direction
 
 Miroir rétroviseur
 
-\47. Toute automobile doit être munie d’un ou de plusieurs miroirs rétroviseurs; le nombre, les dimensions et la disposition de ces miroirs doivent être tels qu’ils permettent au conducteur de voir la circulation vers l’arrière de son véhicule.
+\47. Toute automobile doit être munie d’un ou de plusieurs dispositifs, tels que des miroirs rétroviseurs, permettant au conducteur de voir la circulation vers l’arrière de son véhicule.
 
 Avertisseur sonore
 
@@ -1587,66 +1687,34 @@ Dispositions générales
 
 \60. Sur le plan national, les Parties contractantes peuvent déroger dans les cas suivants aux dispositions de la présente annexe:
 
-- a) pour les automobiles et les remorques dont, par construction, la vitesse ne peut dépasser en palier 30 km (19 miles) à l’heure ou pour lesquelles la législation nationale limite la vitesse à 30 km à l’heure;
-- b) pour les voitures d’infirme, c’est-à-dire les petites automobiles spécialement conçues et construites - et non pas seulement adaptées - à l’usage d’une personne atteinte d’une infirmité ou d’une incapacité physique et n’étant normalement utilisées que par cette seule personne;
-- c) pour les véhicules destinés à des expériences ayant pour but de suivre le progrès de la technique et d’améliorer la sécurité;
-- d) pour les véhicules d’une forme ou d’un type particuliers, ou qui sont utilisés à des fins particulières dans des conditions spéciales;
-- e) pour les véhicules adaptés à la conduite par des handicapés.
+- a) pour les automobiles et les remorques dont la vitesse maximale par construction ne dépasse pas 30 km (19 miles) à l’heure ou pour lesquelles la législation nationale limite la vitesse maximale autorisée à 30 km à l’heure;
+- b) pour les voitures pour handicapés, c’est-à-dire les petites automobiles spécialement conçues et construites − et non pas adaptées − à l’usage des personnes à mobilité réduite;
+- c) pour les véhicules adaptés à la conduite par des personnes à mobilité réduite;
+- d) pour les véhicules destinés à des expériences ayant pour but de suivre le progrès de la technique et d’améliorer la sécurité;
+- e) pour les véhicules d’une forme ou d’un type particuliers, ou qui sont utilisés à des fins particulières dans des conditions spéciales, par exemple pour le déneigement.
 
-\61. Les Parties contractantes peuvent également déroger aux dispositions de la présente annexe pour les véhicules qu’elles immatriculent et qui peuvent s’engager dans la circulation internationale par les dispositions ci-après:
+\61. Les Parties contractantes peuvent également déroger aux dispositions de la présente annexe pour les véhicules qu*’*elles immatriculent et qui peuvent s*’*engager dans la circulation internationale*:*
 
-- a) en autorisant la couleur jaune-auto pour les feux-position avant des automobiles et des remorques;
-- b) en ce qui concerne la position des feux sur les véhicules à usage spécialisé dont la forme extérieure ne permettrait pas le respect de ces dispositions sans recourir à des dispositifs de montage risquant d’être facilement endommagés ou arrachés;
-- c) en ce qui concerne les remorques servant au transport de charges longues (troncs d’arbres, tuyaux, etc.) et qui, en marche, ne sont pas attelées au véhicule tracteur mais lui sont seulement reliées par la charge;
-- d)
+- a) en ce qui concerne la position des feux sur les véhicules à usage spécial dont la forme extérieure ne permettrait pas le respect de ces dispositions sans recours à des dispositifs de montage risquant d’être facilement endommagés ou arrachés;
+- b) en ce qui concerne les remorques servant au transport de charges longues (troncs d’arbres, tuyaux, etc.) et qui, en marche, ne sont pas attelées au véhicule tracteur mais lui sont seulement reliées par la charge;
+- c)
 
   en autorisant l’émission de lumière blanche vers l’arrière et rouge vers l’avant pour les dispositifs suivants:
 
-  - – feux tournants ou à éclats des véhicules prioritaires,
-  - – feux fixes pour transports exceptionnels,
-  - – feux et rétroréflecteurs latéraux,
-  - – affichage lumineux professionnel sur le toit;
+  - − Feux spéciaux d’avertissement des véhicules prioritaires,
+  - − Feux fixes pour transports exceptionnels,
+  - − Feux et catadioptres latéraux,
+  - − Affichage lumineux professionnel sur le toit;
 
-- e) en autorisant l’émission de lumière bleue vers l’avant et vers l’arrière pour les feux tournants ou à éclats;
-- f) en autorisant sur n’importe quelle face d’un véhicule de forme ou de dimension spéciale, ou encore utilisé à des fins spéciales et dans des conditions spéciales, des bandes alternées rétroréfléchissantes ou fluorescentes rouges et rétroréfléchissantes blanches;
-- g) en autorisant l’émission vers l’arrière de lumière blanche ou colorée réfléchie par les chiffres ou lettres ou par le fond des plaques arrière d’immatriculation par des signes distinctifs ou d’autres marques distinctives requises par la législation nationale;
-- h) en autorisant la couleur rouge pour les rétroréflecteurs latéraux les plus en arrière et pour les feux latéraux le plus en arrière.
+- d) en autorisant sur n’importe quelle face d’un véhicule de forme ou de dimension spéciale, ou encore utilisé à des fins spéciales et dans des conditions spéciales, des bandes alternées rétroréfléchissantes ou fluorescentes rouges et rétroréfléchissantes blanches;
+- e) en autorisant l’émission vers l’arrière de lumière blanche ou colorée réfléchie par des chiffres ou des lettres ou par le fond des plaques arrière d’immatriculation, par des signes distinctifs ou d’autres marques distinctives requises par la législation nationale;
+- f) en autorisant l’installation de marquages à grande visibilité blancs à l’arrière des automobiles et des remorques.
 
 ### Chapitre V Dispositions transitoires
 
 \62. Les automobiles immatriculées pour la première fois et les remorques mises en circulation sur le territoire d’une Partie contractante avant l’entrée en vigueur de la présente Convention ou deux ans après cette entrée en vigueur ne seront pas soumises aux dispositions de la présente annexe, à condition qu’elles satisfassent aux prescriptions des parties I, II et III de l’annexe 6 de la Convention de 1949 sur la circulation routière.
 
 62<sup>bis</sup>. Les automobiles immatriculées pour la première fois et les remorques mises en circulation sur le territoire d’une Partie contractante avant l’entrée en vigueur du présent Accord ou deux ans après cette entrée en vigueur ne seront pas soumises aux dispositions de la présente annexe, à condition qu’elles satisfassent aux dispositions de l’annexe 5 de la Convention de 1968 sur la circulation routière ou aux autres dispositions visées au chapitre V de cette annexe.
-
-Appendice
-
-## Définition des filtres colorants pour l’obtention des couleurs visées à la présente annexe (coordonnées trichromatiques)
-
-<table>
-<tr><td>Rouge</td><td>limite vers le jaune</td><td>y ≤ 0,355</td></tr>
-<tr><td></td><td>limite vers le pourpre\*</td><td>z ≤ 0,008</td></tr>
-<tr><td>Blanc</td><td>limite vers le bleu</td><td>x ≥ 0,310</td></tr>
-<tr><td></td><td>limite vers le jaune</td><td>x ≤ 0,500</td></tr>
-<tr><td></td><td>limite vers le vert</td><td>y ≥ 0,150 + 0,640 x</td></tr>
-<tr><td></td><td>limite vers le vert</td><td>y ≤ 0.440</td></tr>
-<tr><td></td><td>limite vers le pourpre</td><td>y ≥ 0,050 + 0,750 x</td></tr>
-<tr><td></td><td>limite vers le rouge</td><td>y ≥ 0,382</td></tr>
-<tr><td>Jaune-auto\*\*</td><td>limite vers le jaune\*</td><td>y ≤ 0,429</td></tr>
-<tr><td></td><td>limite vers le rouge\*</td><td>y ≥ 0,398</td></tr>
-<tr><td></td><td>limite vers le blanc</td><td>z ≤ 0,007</td></tr>
-<tr><td>Jaune sélectif\*\*\*</td><td>limite vers le rouge</td><td>y ≥ 0,138 + 0,580 x</td></tr>
-<tr><td></td><td>limite vers le vert\*</td><td>y ≥ 1,29 x – 0,100</td></tr>
-<tr><td></td><td>limite vers le blanc\*</td><td>y ≥ – x + 0,966</td></tr>
-<tr><td></td><td>limite vers la valeur spectrale\*</td><td>y ≥ – x + 0,992</td></tr>
-<tr><td>Bleu</td><td>limite vers le vert</td><td>y = 0,065 + 0,805 x</td></tr>
-<tr><td></td><td>limite vers le blanc</td><td>y = ,400 – x</td></tr>
-<tr><td></td><td>limite vers le pourpre</td><td>x = 0,133 + ,600 y</td></tr>
-<tr><td colspan="3">\* Dans ces cas, il a été adopté des limites différentes de celles qui sont recommandées par la CIE, car les tensions d’alimentation aux bornes des lampes équipant les feux varient dans de très larges limites.</td></tr>
-<tr><td colspan="3">\*\* S’applique à la couleur des signaux automobiles couramment appelée jusqu’à présent «orange» ou «jaune-orange». Correspond à une partie bien déterminée de la zone «jaune» du triangle des couleurs CIE.</td></tr>
-<tr><td colspan="3">[tab] \*\*\*S’applique uniquement aux feux-croisement et feux-route. Dans le cas particulier des feux-brouillard, la sélectivité de la couleur sera reconnue satisfaisante pour autant que le facteur de pureté soit au moins égal à 0,820, la limite vers le blanc y ≥ – x + 0,966, étant alors y ≥ – x + 0,940 et y = 0,440.</td></tr>
-</table>
-
-Pour la vérification des caractéristiques colorimétriques de ces filtres, il sera employé une source lumineuse à température de couleur de 2854°K (correspondant à l’illuminant A de la Commission internationale de l’éclairage [CIE]).
 
 Annexe 6[^t-6]
 
@@ -1712,13 +1780,13 @@ Annexe 6[^t-6]
 
 <table>
 <tr><td colspan="2">Code de la catégorie / Pictogramme</td><td colspan="2">Code de la sous-catégorie / Pictogramme</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Le lieu de naissance peut être remplacé par d’autres précisions définies par la législation nationale.
@@ -1731,13 +1799,13 @@ Annexe 7[^t-7]
 
 \1. Le permis est un livret de format A6 (148 x 105 mm - 5,82 X 4,13 pouces). Sa couverture est grise; ses pages intérieures sont blanches.
 
-\2. Le recto et le verso du premier feuillet de la couverture sont conformes respectivement aux pages modèles nos 1 et 2 ci-après; ils sont imprimés dans la langue nationale, ou dans une au moins des langues nationales, de l’État de délivrance. A la fin des pages intérieures, deux pages juxtaposées sont conformes au modèle n<sup>o</sup> 3 ci-après et sont imprimées en français. Les pages intérieures qui précèdent ces deux pages reproduisent en plusieurs langues, dont obligatoirement l’anglais, l’espagnol et le russe, la première de ces deux pages.
+\2. Le recto et le verso du premier feuillet de la couverture sont conformes respectivement aux pages modèles nos 1 et 2 ci-après; ils sont imprimés dans la langue nationale, ou dans une au moins des langues nationales, de l’État de délivrance. À la fin des pages intérieures, deux pages juxtaposées sont conformes au modèle n<sup>o</sup> 3 ci-après et sont imprimées en français. Les pages intérieures qui précèdent ces deux pages reproduisent en plusieurs langues, dont obligatoirement l’anglais, l’espagnol et le russe, la première de ces deux pages.
 
 \3. Les indications manuscrites ou dactylographiées portées sur le permis seront en caractères latins ou en cursive dite anglaise.
 
 \4. Les Parties contractantes délivrant ou autorisant la délivrance des permis de conduire internationaux dont le feuillet de couverture est imprimé dans une langue qui n’est ni l’anglais, ni l’espagnol, ni le français, ni le russe communiqueront au Secrétaire général de l’Organisation des Nations Unies la traduction dans cette langue du texte du modèle n<sup>o</sup> 3 ci-après.
 
-**Page modèle n****<sup>o</sup>** **1**
+**Page** **modèle** **n****<sup>o</sup>** **1**
 
 (Recto du premier feuillet de la couverture)
 
@@ -1754,26 +1822,24 @@ Annexe 7[^t-7]
 <tr><td></td><td>Numéro du permis de conduire national <sup>3)</sup></td><td></td></tr>
 </table>
 
-<table>
-<tr><td><sup>1)</sup></td><td colspan="2">Nom de l’État de délivrance et signe distinctif de ce pays, défini à l’annexe 3.</td></tr>
-<tr><td colspan="2"><sup>2)</sup></td><td>Trois ans au maximum après la date de délivrance ou jusqu’à la date d’expiration de la validité du permis national de conduire, si celle-ci survient auparavant.</td></tr>
-<tr><td><sup>3)</sup></td><td colspan="2">Signature de l’autorité ou de l’association qui délivre le permis.</td></tr>
-<tr><td><sup>4)</sup></td><td colspan="2">Sceau ou cachet de l’autorité ou de l’association qui délivre le permis.</td></tr>
-</table>
+- <sup>1)</sup> Nom de l’État de délivrance et signe distinctif de ce pays, défini à l’annexe 3.
+- <sup>2)</sup> Trois ans au maximum après la date de délivrance ou jusqu’à la date d’expiration de la validité du permis national de conduire, si celle-ci survient auparavant.
+- <sup>3)</sup> Signature de l’autorité ou de l’association qui délivre le permis.
+- <sup>4)</sup> Sceau ou cachet de l’autorité ou de l’association qui délivre le permis.
 
 **Page modèle n****<sup>o</sup>** **2**
 
 (Verso du premier feuillet de la couverture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image14.png)
 
 **Modèle 3** (page de gauche)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image15.png)
 
 Modèle 3 (page de droite)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image16.png)
 
 Champ d’application le 2 octobre 2024[^t-8]
 

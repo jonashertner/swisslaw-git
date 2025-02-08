@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Übereinkommen vom 8. November 1968 über den Strassenverkehr (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: de
-version: 2024-10-02
+version: 2025-02-09
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20241002-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20241002/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20250209-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20250209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 402; BBl **1978** I 1440
 
 Abgeschlossen in Wien am 8. November 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 2. Oktober 2024)
+(Stand am 9. Februar 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -93,10 +93,6 @@ haben die folgenden Bestimmungen vereinbart:
 
 **Begriffsbestimmungen**
 
-Miteinander verbundene Fahrzeuge gelten als «im internationalen Verkehr», wenn wenigstens eines dieser Fahrzeuge der Begriffsbestimmung entspricht;
-
-Die Vertragsparteien können jedoch die nach Ziffer ii stillstehenden Fahrzeuge als «haltende Fahrzeuge» ansehen, wenn die Dauer dieses Stillstehens eine durch die innerstaatlichen Rechtsvorschriften festgesetzte zeitliche Beschränkung nicht überschreitet, und sie können die nach Ziffer i stillstehenden Fahrzeuge als «parkende Fahrzeuge» ansehen, wenn die Dauer dieses Stillstehens eine durch die innerstaatlichen Rechtsvorschriften festgesetzte zeitliche Beschränkung überschreitet;
-
 Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in diesem Artikel zugeordneten Bedeutungen:
 
 - a) «Innerstaatliche Rechtsvorschriften» einer Vertragspartei sind alle im Hoheitsgebiet dieser Vertragspartei in Kraft befindlichen nationalen oder örtlichen Gesetze und Regelungen;
@@ -106,15 +102,16 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
   - i) es einer natürlichen oder juristischen Person gehört, die ihren ordentlichen Wohnsitz ausserhalb dieses Staates hat;
   - ii) es in diesem Staat nicht zugelassen ist, und
   - iii) es vorübergehend in diesen Staat eingeführt wird;
-  - dabei steht es jedoch jeder Vertragspartei frei, es abzulehnen, ein Fahrzeug als «im internationalen Verkehr» befindlich anzusehen, das ohne nennenswerte Unterbrechung, deren Dauer sie festsetzen kann, länger als ein Jahr in ihrem Hoheitsgebiet geblieben ist.
 
+- dabei steht es jedoch jeder Vertragspartei frei, es abzulehnen, ein Fahrzeug als «im internationalen Verkehr» befindlich anzusehen, das ohne nennenswerte Unterbrechung, deren Dauer sie festsetzen kann, länger als ein Jahr in ihrem Hoheitsgebiet geblieben ist.
+- Miteinander verbundene Fahrzeuge gelten als «im internationalen Verkehr», wenn wenigstens eines dieser Fahrzeuge der Begriffsbestimmung entspricht;
 - c)[^1-3] «Ortschaft» ist ein Gebiet, das bebaute Grundstücke umfasst und dessen Ein- und Ausfahrten als solche besonders gekennzeichnet sind oder das in den innerstaatlichen Rechtsvorschriften in anderer Weise bestimmt ist;
 - …[^1-4]
 - d) «Strasse» ist die gesamte Fläche jedes dem öffentlichen Verkehr dienenden Weges;
 - e) «Fahrbahn» ist der Teil der Strasse, der üblicherweise von den Fahrzeugen benutzt wird; eine Strasse kann mehrere Fahrbahnen haben, die insbesondere durch einen Mittelstreifen oder einen Höhenunterschied deutlich voneinander getrennt sind;
 - f) auf Fahrbahnen, wo ein seitlicher Fahrstreifen oder ein Weg oder mehrere seitliche Fahrstreifen oder Wege dem Verkehr bestimmter Fahrzeuge vorbehalten sind, ist «Fahrbahnrand» für die anderen Verkehrsteilnehmer der Rand des übrigen Teils der Fahrbahn;
 - g) «Fahrstreifen» ist jeder der Längsstreifen, in welche die Fahrbahn unterteilt werden kann, mag er durch Strassenmarkierungen in der Längsrichtung gekennzeichnet sein oder nicht, dessen Breite für die Fortbewegung einer Reihe mehrspuriger Kraftfahrzeuge (Art. 1 Bst. p) ausreicht;
-- [tab] g<sup>bis</sup>)[^1-5]«Radstreifen» ist jener Teil der Fahrbahn, der für die Radfahrer bestimmt ist. Ein Radstreifen ist von der übrigen Fahrbahn durch Strassenmarkierungen in der Längsrichtung getrennt.
+- g<sup>bis</sup>)[^1-5] «Radstreifen» ist jener Teil der Fahrbahn, der für die Radfahrer bestimmt ist. Ein Radstreifen ist von der übrigen Fahrbahn durch Strassenmarkierungen in der Längsrichtung getrennt.
 - g<sup>ter</sup>)[^1-6] «Radweg» ist eine eigene Strasse oder der Teil einer Strasse, die bzw. der Radfahrern vorbehalten und als Radweg gekennzeichnet ist. Ein Radweg ist von anderen Strassen oder anderen Strassenteilen durch bauliche Einrichtungen getrennt.
 - h) «Kreuzung» ist jede höhengleiche Kreuzung, Einmündung oder Gabelung von Strassen einschliesslich der durch solche Kreuzungen, Einmündungen oder Gabelungen gebildeten Plätze;
 - i) «Bahnübergang» ist jede höhengleiche Kreuzung zwischen einer Strasse und Eisenbahn‑ oder Strassenbahnschienen auf eigenem Schienenkörper;
@@ -133,6 +130,7 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
   - i) «haltendes Fahrzeug», wenn es während der Zeit, die zum Ein‑ oder Aussteigen oder zum Be‑ und Entladen erforderlich ist, hält;
   - ii) «parkendes Fahrzeug», wenn es aus einem anderen Grunde als zur Vermeidung eines Zusammentreffens mit einem anderen Verkehrsteilnehmer oder mit einem Hindernis oder zur Einhaltung von Verkehrsvorschriften hält und wenn sich sein Halten nicht auf die Zeit beschränkt, die zum Ein‑ oder Aussteigen oder zum Be‑ und Entladen erforderlich ist.
 
+- Die Vertragsparteien können jedoch die nach Ziffer ii stillstehenden Fahrzeuge als «haltende Fahrzeuge» ansehen, wenn die Dauer dieses Stillstehens eine durch die innerstaatlichen Rechtsvorschriften festgesetzte zeitliche Beschränkung nicht überschreitet, und sie können die nach Ziffer i stillstehenden Fahrzeuge als «parkende Fahrzeuge» ansehen, wenn die Dauer dieses Stillstehens eine durch die innerstaatlichen Rechtsvorschriften festgesetzte zeitliche Beschränkung überschreitet;
 - l) «Fahrrad» ist jedes Fahrzeug mit wenigstens zwei Rädern, das ausschliesslich durch die Muskelkraft auf ihm befindlicher Personen, insbesondere mit Hilfe von Pedalen oder Handkurbeln, angetrieben wird;
 - m) «Motorfahrräder» sind zwei‑ oder dreirädrige Fahrzeuge mit einem Verbrennungsmotor, dessen Zylinderinhalt 50 cm<sup>3</sup> (3,05 Kubikzoll) und dessen durch die Bauart bestimmte Höchstgeschwindigkeit 50 km (30 Meilen) in der Stunde nicht übersteigt. Die Vertragsparteien haben jedoch das Recht, in ihren innerstaatlichen Rechtsvorschriften solche Fahrzeuge nicht als Motorfahrräder anzusehen, die nicht hinsichtlich ihrer Verwendungsmöglichkeiten die Merkmale von Fahrrädern haben – insbesondere das Merkmal, durch Pedale angetrieben werden zu können – oder deren durch die Bauart bestimmte Höchstgeschwindigkeit, deren Masse[^1-7] oder gewisse Merkmale des Motors gegebene Grenzen übersteigen. Nichts in dieser Begriffsbestimmung ist so auszulegen, als hindere es die Vertragsparteien, hinsichtlich der Anwendung ihrer innerstaatlichen Rechtsvorschriften für den Strassenverkehr, die Motorfahrräder völlig den Fahrrädern gleichzustellen;
 - n)[^1-8] «Kraftrad» ist jedes zweirädrige Fahrzeug mit oder ohne Beiwagen, das einen Antriebsmotor hat. Die Vertragsparteien können in ihren innerstaatlichen Rechtsvorschriften dreirädrige Fahrzeuge mit einer Leermasse von nicht mehr als 400 kg (900 Pfund) den Krafträdern gleichstellen. Der Begriff «Kraftrad» schliesst die Motorfahrräder nicht ein; die Vertragsparteien können jedoch unter der Bedingung, dass sie nach Artikel 54 Absatz 2 eine entsprechende Erklärung abgeben, für die Anwendung dieses Übereinkommens die Motorfahrräder den Krafträdern gleichstellen;
@@ -155,8 +153,8 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
 [^1-2]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
 [^1-4]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
-[^1-5]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^1-6]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^1-5]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^1-6]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-7]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
 [^1-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
 [^1-9]: Der Begriff «Kraftfahrzeug» wird in zwei verschiedenen Bedeutungen gebraucht. Wird er ohne Zusatz gebraucht, so hat er die ihm unter Bst. o zugeordnete Bedeutung. Wird er mit dem Zusatz «(Art. 1 Bst. p)» gebraucht, so hat er die ihm unter Bst. p zugeordnete Bedeutung.
@@ -191,15 +189,15 @@ Die Anhänge zu diesem Übereinkommen, nämlich:
 
 <sup>3.</sup> Vorbehaltlich der im Anhang 1 vorgesehenen Abweichungen sind die Vertragsparteien gehalten, zum internationalen Verkehr in ihrem Hoheitsgebiet die Kraftfahrzeuge (Art. 1 Bst. p) und die Anhänger zuzulassen, welche den in Kapitel III festgelegten Bedingungen entsprechen und deren Führer die in Kapitel IV festgelegten Bedingungen erfüllen; sie sind auch gehalten, die nach Kapitel III ausgestellten Zulassungsscheine bis zum Nachweis des Gegenteils als Beweis dafür anzuerkennen, dass die Fahrzeuge, auf die sich diese Zulassungsscheine beziehen, die den in Kapitel III festgelegten Bedingungen entsprechen.
 
-4.[^3-1] Massnahmen, welche die Vertragsparteien entweder einseitig oder durch zwei- oder mehrseitige Übereinkommen getroffen haben oder treffen werden, um in ihrem Hoheitsgebiet Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger, die nicht allen in Kapitel III festgelegten Anforderungen entsprechen, zum internationalen Verkehr zuzulassen und um, ausser den in Kapitel IV vorgesehenen Fällen, die Gültigkeit von Führerscheinen in ihrem Hoheitsgebiet anzuerkennen, die von einer anderen Vertragspartei ausgestellt wurden, werden als dem Sinn und Zweck dieses Übereinkommens entsprechend angesehen.
+<sup>4.</sup> Massnahmen, welche die Vertragsparteien entweder einseitig oder durch zwei- oder mehrseitige Übereinkommen getroffen haben oder treffen werden, um in ihrem Hoheitsgebiet Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger, die nicht allen in Kapitel III festgelegten Anforderungen entsprechen, zum internationalen Verkehr zuzulassen und um, ausser den in Kapitel IV vorgesehenen Fällen, die Gültigkeit von Führerscheinen in ihrem Hoheitsgebiet anzuerkennen, die von einer anderen Vertragspartei ausgestellt wurden, werden als dem Sinn und Zweck dieses Übereinkommens entsprechend angesehen.[^3-1]
 
 <sup>5.</sup> Die Vertragsparteien sind gehalten, zum internationalen Verkehr in ihrem Hoheitsgebiet die Fahrräder und die Motorfahrräder zuzulassen, welche den in Kapitel V festgelegten technischen Bedingungen entsprechen und deren Führer ihren ordentlichen Wohnsitz im Hoheitsgebiet einer anderen Vertragspartei haben. Eine Vertragspartei kann nicht verlangen, dass die Führer von Fahrrädern oder Motorfahrrädern im internationalen Verkehr Besitzer eines Führerscheins sind; jedoch können die Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, welche die Motorfahrräder den Krafträdern gleichstellt, von den Führern von Motorfahrrädern im internationalen Verkehr einen Führerschein verlangen.
 
-5.<sup>bis</sup> [^3-2] Die Vertragsparteien ergreifen die erforderlichen Massnahmen, damit insbesondere in den Schulen in allen Stufen ein systematischer und fortlaufender Verkehrssicherheitsunterricht erteilt wird.
+5.<sup>bis</sup> Die Vertragsparteien ergreifen die erforderlichen Massnahmen, damit insbesondere in den Schulen in allen Stufen ein systematischer und fortlaufender Verkehrssicherheitsunterricht erteilt wird.[^3-2]
 
-5.<sup>ter</sup> [^3-3] allen Fällen, in denen der Fahrunterricht für Fahrschüler durch professionelle Fahrschulen erteilt wird, müssen die innerstaatlichen Rechtsvorschriften Mindestanforderungen in Bezug auf die bisherige Tätigkeit und die berufliche Qualifikation der mit der Erteilung des Fahrunterrichts beauftragten Personen festlegen.
+5.<sup>ter</sup> In allen Fällen, in denen der Fahrunterricht für Fahrschüler durch professionelle Fahrschulen erteilt wird, müssen die innerstaatlichen Rechtsvorschriften Mindestanforderungen in Bezug auf die bisherige Tätigkeit und die berufliche Qualifikation der mit der Erteilung des Fahrunterrichts beauftragten Personen festlegen.[^3-3]
 
-6.[^3-4] Die Vertragsparteien sind verpflichtet, jeder darum ersuchenden Vertragspartei die notwendigen Auskünfte zur Ermittlung der Person zu geben, auf deren Namen ein Kraftfahrzeug (Art. 1 Bst. p) oder ein mit einem solchen Fahrzeug verbundener Anhänger in ihrem Hoheitsgebiet zugelassen ist, wenn aus dem vorgelegten Ersuchen hervorgeht, dass dieses Fahrzeug im Hoheitsgebiet der ersuchenden Vertragspartei in einen schweren Unfall verwickelt war oder der Fahrer dieses Fahrzeugs einen schwerwiegenden Verstoss gegen die Strassenverkehrsordnung begangen hat, der schwere Strafen oder einen Entzug der Fahrerlaubnis nach sich ziehen kann.
+<sup>6.</sup> Die Vertragsparteien sind verpflichtet, jeder darum ersuchenden Vertragspartei die notwendigen Auskünfte zur Ermittlung der Person zu geben, auf deren Namen ein Kraftfahrzeug (Art. 1 Bst. p) oder ein mit einem solchen Fahrzeug verbundener Anhänger in ihrem Hoheitsgebiet zugelassen ist, wenn aus dem vorgelegten Ersuchen hervorgeht, dass dieses Fahrzeug im Hoheitsgebiet der ersuchenden Vertragspartei in einen schweren Unfall verwickelt war oder der Fahrer dieses Fahrzeugs einen schwerwiegenden Verstoss gegen die Strassenverkehrsordnung begangen hat, der schwere Strafen oder einen Entzug der Fahrerlaubnis nach sich ziehen kann.[^3-4]
 
 <sup>7.</sup> Massnahmen, welche die Vertragsparteien entweder einseitig oder über zwei- oder mehrseitige Übereinkommen getroffen haben oder treffen werden, um den internationalen Strassenverkehr durch Vereinfachung der Vorschriften für das Zoll‑, Polizei‑ oder Gesundheitswesen oder auf anderen ähnlichen Gebieten zu erleichtern sowie Massnahmen, die gewährleisten sollen, dass Zollämter an ein und derselben Grenzübergangsstelle dieselben Zuständigkeiten und dieselben Öffnungszeiten haben, werden als dem Sinn und Zweck dieses Übereinkommens entsprechend angesehen.
 
@@ -214,7 +212,7 @@ Die Anhänge zu diesem Übereinkommen, nämlich:
 
 **Verkehrszeichen**
 
-Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übereinkommens über Strassenverkehrszeichen[^4-1] sind, das am selben Tage wie dieses Übereinkommen in Wien zur Unterschrift aufgelegt worden ist, verpflichten sich,
+Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übereinkommens über Strassenverkehrszeichen[^4-1] sind, das am selben Tage wie dieses Übereinkommen in Wien zur Unterschrift aufgelegt worden ist, verpflichten sich:
 
 - a)[^4-2] dafür zu sorgen, dass alle Strassenverkehrszeichen, Verkehrslichtzeichen und Strassenmarkierungen, die in ihrem Hoheitsgebiet angebracht sind, ein zusammenhängendes System bilden und so gestaltet und aufgestellt sind, dass man sie leicht erkennen kann;
 - b) die Zahl der Arten der Verkehrszeichen zu beschränken und diese nur an den Stellen anzubringen, wo sie als nützlich angesehen werden;
@@ -222,7 +220,7 @@ Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übe
 - d) zu verbieten, dass
   - i) an einem Verkehrszeichen, an dessen Träger oder an irgendeiner anderen Einrichtung zur Verkehrsregelung irgend etwas angebracht wird, was nicht in Beziehung zum Sinn und Zweck dieses Verkehrszeichens oder dieser Einrichtung steht, wenn jedoch die Vertragsparteien oder ihre Teilgebiete eine Gesellschaft ohne Erwerbszweck ermächtigen, Hinweiszeichen aufzustellen, können sie gestatten, dass das Emblem dieser Gesellschaft auf dem Zeichen oder dessen Träger erscheint, sofern das Verständnis des Zeichens dadurch nicht erschwert wird;
   - ii) Tafeln, Schilder, Kennzeichen oder Einrichtungen angebracht werden, die zu Verwechslungen mit Verkehrszeichen oder anderen Einrichtungen zur Verkehrsregelung führen, deren Sichtbarkeit oder Wirksamkeit verringern oder die Verkehrsteilnehmer blenden oder ihre Aufmerksamkeit in für die Sicherheit des Verkehrs gefährlicher Weise ablenken könnten;
-  - [tab] iii)[^4-3] auf Gehwegen und begehbaren Seitenstreifen keine Vorrichtungen oder Geräte angebracht werden, die den Fussgängerverkehr, insbesondere ältere und behinderte Personen, unnötig beeinträchtigen könnten.
+  - iii)[^4-3] auf Gehwegen und begehbaren Seitenstreifen keine Vorrichtungen oder Geräte angebracht werden, die den Fussgängerverkehr, insbesondere ältere und behinderte Personen, unnötig beeinträchtigen könnten.
 
 [^4-1]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
 [^4-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -246,11 +244,13 @@ Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übe
 
 <sup>2.</sup> Die Verkehrsteilnehmer müssen unverzüglich den Zeichen und Weisungen der den Verkehr regelnden Polizisten nachkommen.
 
-3.[^6-1] Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften insbesondere als Zeichen der den Verkehr regelnden Polizisten anzusehen:
+<sup>3.</sup>
+
+Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften insbesondere als Zeichen der den Verkehr regelnden Polizisten anzusehen:
 
 - a) den senkrecht erhobenen Arm; dieses Zeichen bedeutet «Achtung, Halt» für alle Verkehrsteilnehmer mit Ausnahme jener Führer, die nicht mehr unter ausreichenden Sicherheitsbedingungen anhalten können; wird dieses Zeichen an einer Kreuzung gegeben, verpflichtet es die bereits in der Kreuzung befindlichen Führer nicht zum Anhalten;
 - b) den oder die waagrecht ausgestreckten Arme; dieses Zeichen bedeutet «Halt» für alle Verkehrsteilnehmer, die aus Richtungen kommen, welche die durch den oder die ausgestreckten Arme angezeigte Richtung schneiden; nach diesem Zeichen kann der den Verkehr regelnde Polizist den oder die Arme senken; das bedeutet für die vor oder hinter dem Polizisten befindlichen Führer ebenfalls «Halt»;
-- c) das Schwenken einer Lampe mit rotem Licht; dieses Zeichen bedeutet «Halt» für die Verkehrsteilnehmer, gegen die das Licht gerichtet ist.
+- c) das Schwenken einer Lampe mit rotem Licht; dieses Zeichen bedeutet «Halt» für die Verkehrsteilnehmer, gegen die das Licht gerichtet ist.[^6-1]
 
 <sup>4.</sup> Die Zeichen und Weisungen der den Verkehr regelnden Polizisten gehen den durch Strassenverkehrszeichen, Verkehrslichtzeichen oder Strassenmarkierungen angezeigten Vorschriften sowie den Verkehrsregeln vor.
 
@@ -305,7 +305,7 @@ Fahrzeugsysteme, die einen Einfluss auf das Führen eines Fahrzeugs haben und di
 [^8-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 7).
 [^8-4]: Die Regelungen der Vereinten Nationen im Anhang des in Genf am 20. März 1958 beschlossenen «Übereinkommens über die Annahme einheitlicher technischer Vorschriften für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge(n) eingebaut und/oder verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Vorschriften erteilt wurden» (SR **0.741.411**). Die im Rahmen des in Genf am 25. Juni 1998 beschlossenen «Übereinkommens über die Festlegung globaler technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge(n) eingebaut und/oder verwendet werden können» ausgearbeiteten globalen technischen Regelungen der Vereinten Nationen.
 [^8-5]: Absatz eingefügt durch die Änd. vom 26. März 2014, in Kraft seit 23. März 2016 ([AS 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
-[^8-6]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^8-6]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 #### Art. 9
 
@@ -346,7 +346,9 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass V
 - b) Es ist jedoch auf der der Verkehrsrichtung entsprechenden Seite zu überholen, wenn der zu überholende Führer nach Anzeigen seiner Absicht, sich nach der der Verkehrsrichtung entgegengesetzten Seite zu begeben, sein Fahrzeug oder seine Tiere auf diese Seite der Fahrbahn gebracht hat, um auf dieser Seite in eine andere Strasse oder in ein Grundstück einzubiegen oder um auf dieser Seite zu halten.
 - c)[^11-1] Die innerstaatlichen Rechtsvorschriften können es Radfahrern und Führern von Motorfahrrädern gestatten, stehende oder sich langsam fortbewegende Fahrzeuge auf der der Verkehrsrichtung entsprechenden Seite zu überholen, sofern es sich bei den Fahrzeugen nicht um Fahrräder oder Motorfahrräder handelt und genug freier Raum vorhanden ist.
 
-<sup>2.</sup> Vor dem Überholen muss sich jeder Führer unbeschadet des Artikels 7 Absatz 1 und des Artikels 14 vergewissern,
+<sup>2.</sup>
+
+Vor dem Überholen muss sich jeder Führer unbeschadet des Artikels 7 Absatz 1 und des Artikels 14 vergewissern:
 
 - a) dass kein ihm folgender Führer zum Überholen angesetzt hat;
 - b) dass derjenige, der auf demselben Fahrstreifen vor ihm ist, nicht seine Absicht angezeigt hat, einen Dritten zu überholen;
@@ -360,7 +362,9 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass V
 - 5\. a) Auf Fahrbahnen, die mindestens zwei dem Verkehr in der von ihm befahrenen Richtung vorbehaltene Fahrstreifen haben, darf ein Führer, der unmittelbar oder kurz nachdem er den nach Artikel 10 Absatz 3 vorgeschriebenen Platz wieder hätte einnehmen sollen sich zu erneutem Überholen veranlasst sieht, auf dem von ihm für die erste Überholung benutzten Fahrstreifen bleiben, um diese Überholung auszuführen, unter der Bedingung, dass er sich vergewissert, dass dies für die Führer von hinter ihm herankommenden schnelleren Fahrzeugen keine nennenswerte Behinderung zur Folge hat.
 - b)[^11-3] Die Vertragsparteien oder ihre Teilgebiete brauchen jedoch diesen Absatz nicht anzuwenden auf die Führer von Fahrrädern, Motorfahrrädern, Krafträdern, von Fahrzeugen, die im Sinne dieses Übereinkommens keine Kraftfahrzeuge (Art. 1 Bst. p) sind, sowie auf die Führer von Kraftfahrzeugen (Art. 1 Bst. p), deren höchste zulässige Gesamtmasse 3500 kg (7700 Pfund) übersteigt oder deren durch die Bauart bestimmte Höchstgeschwindigkeit 40 km (25 Meilen) in der Stunde nicht übersteigt.
 
-<sup>6.</sup> Ist Absatz 5 Buchstabe a anwendbar und ist der Verkehr so dicht, dass die Fahrzeuge nicht nur die ganze ihrer Verkehrsrichtung vorbehaltene Fahrbahnhälfte einnehmen, sondern auch nur mit einer Geschwindigkeit fahren, die von der Geschwindigkeit des ihnen in ihrer Reihe vorausfahrenden Fahrzeugs abhängt,
+<sup>6.</sup>
+
+Ist Absatz 5 Buchstabe a anwendbar und ist der Verkehr so dicht, dass die Fahrzeuge nicht nur die ganze ihrer Verkehrsrichtung vorbehaltene Fahrbahnhälfte einnehmen, sondern auch nur mit einer Geschwindigkeit fahren, die von der Geschwindigkeit des ihnen in ihrer Reihe vorausfahrenden Fahrzeugs abhängt:
 
 - a) so gilt, unbeschadet des Absatzes 9, nicht als Überholen im Sinne dieses Artikels, wenn die Fahrzeuge einer Reihe schneller als die einer anderen Reihe fahren;
 - b)[^11-4] so darf ein Führer, der sich nicht auf dem Fahrstreifen befindet, der in seiner Verkehrsrichtung dem Fahrbahnrand am nächsten liegt, den Fahrstreifen nur wechseln, um sich auf das Rechts‑ oder Linksabbiegen vorzubereiten oder zu parken, abgesehen von dem Fahrstreifenwechsel, der von den Führern entsprechend der innerstaatlichen Rechtsvorschriften durchgeführt wird, die sich aus der Anwendung des Absatzes 5 Buchstabe b ergeben würden.
@@ -382,14 +386,17 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 <sup>10.</sup> Ein Führer, der bemerkt, dass ein ihm folgender Führer ihn zu überholen wünscht, muss, ausser in dem nach Artikel 16 Absatz 1 Buchstabe b vorgesehenen Fall, sich dicht an den der Verkehrsrichtung entsprechenden Rand der Fahrbahn halten, ohne die Geschwindigkeit zu steigern. Wenn die ungenügende Breite, der Querschnitt oder der Zustand der Fahrbahn es unter Berücksichtigung der Dichte des Gegenverkehrs nicht erlauben, mit Leichtigkeit und ohne Gefahr ein langsames, sperriges oder zur Beachtung einer Geschwindigkeitsgrenze verpflichtetes Fahrzeug zu überholen, muss der Führer dieses Fahrzeugs seine Geschwindigkeit vermindern und erforderlichenfalls so bald wie möglich zur Seite fahren, um die ihm folgenden Fahrzeuge vorbeifahren zu lassen.
 
-- 11\.[^11-6] a) Die Vertragsparteien oder ihre Teilgebiete können auf Fahrbahnen für eine Richtung oder auf Fahrbahnen mit Gegenverkehr, wenn wenigstens zwei Fahrstreifen innerhalb von Ortschaften und drei Fahrstreifen ausserhalb von Ortschaften dem Verkehr in der gleichen Richtung vorbehalten und von Längsmarkierungen begrenzt sind,
+- 11\. a)
+
+  Die Vertragsparteien oder ihre Teilgebiete können auf Fahrbahnen für eine Richtung oder auf Fahrbahnen mit Gegenverkehr, wenn wenigstens zwei Fahrstreifen innerhalb von Ortschaften und drei Fahrstreifen ausserhalb von Ortschaften dem Verkehr in der gleichen Richtung vorbehalten und von Längsmarkierungen begrenzt sind:
+
   - i) den auf einem Fahrstreifen fahrenden Fahrzeugen erlauben, Fahrzeuge, die auf einem anderen Fahrstreifen fahren, auf der der Verkehrsrichtungentsprechenden Seite zu überholen, und
   - ii) Artikel 10 Absatz 3 ausser Kraft setzen,
-  - unter der Voraussetzung, dass sie Bestimmungen erlassen, welche die Möglichkeit des Fahrstreifenwechsels einschränken.
 
-- b) In dem unter Buchstabe a vorgesehenen Fall stellt das Fahrverhalten kein Überholen im Sinne dieses Übereinkommens dar; Absatz 9 bleibt jedoch anwendbar.
+- unter der Voraussetzung, dass sie Bestimmungen erlassen, welche die Möglichkeit des Fahrstreifenwechsels einschränken.
+- b) In dem unter Buchstabe a vorgesehenen Fall stellt das Fahrverhalten kein Überholen im Sinne dieses Übereinkommens dar; Absatz 9 bleibt jedoch anwendbar.[^11-6]
 
-[^11-1]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^11-1]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^11-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^11-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 10).
 [^11-4]: Gemäss Europäischem Zusatzübereinkommen vom 1. Mai 1971 nicht anwendbar ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 10).
@@ -402,7 +409,7 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 <sup>1.</sup> Beim Ausweichen muss jeder Führer einen ausreichenden Seitenabstand freilassen und, wenn nötig, sich dicht an dem der Verkehrsrichtung entsprechenden Fahrbahnrand halten; wenn dabei seine Weiterfahrt durch ein Hindernis oder durch andere Verkehrsteilnehmer gehemmt wird, muss er langsamer fahren, und, wenn nötig, anhalten, um den oder die entgegenkommenden Verkehrsteilnehmer vorbeizulassen.
 
-2.[^12-1] Auf Gebirgsstrassen und auf steilen Strassen mit gleichartigen Merkmalen, wo das Ausweichen unmöglich oder schwierig ist, obliegt es dem Führer des bergabfahrenden Fahrzeugs, sein Fahrzeug zur Seite zu fahren, um jedes bergauffahrende Fahrzeug vorbeifahren zu lassen ausser da, wo längs der Fahrbahn Ausweichstellen, die es den Fahrzeugen ermöglichen, zur Seite zu fahren, so angeordnet sind, dass unter Berücksichtigung der Geschwindigkeit und des Standorts der Fahrzeuge dem bergauffahrenden Fahrzeug eine vor ihm liegende Ausweichstelle zur Verfügung steht und eines der Fahrzeuge rückwärts fahren müsste, wenn das bergauffahrende Fahrzeug jene Ausweichstelle nicht benutzte. Wenn eines der beiden Fahrzeuge, die einander ausweichen wollen, zu diesem Zweck rückwärts fahren muss, muss dies der Führer des bergabfahrenden Fahrzeugs tun, es sei denn, dass dies für den bergauffahrenden Führer einfacher ist. Die Vertragsparteien oder ihre Teilgebiete können jedoch für bestimmte Fahrzeuge oder bestimmte Strassen oder Strassenabschnitte Sonderregeln vorschreiben, die von denen dieses Absatzes abweichen.
+<sup>2.</sup> Auf Gebirgsstrassen und auf steilen Strassen mit gleichartigen Merkmalen, wo das Ausweichen unmöglich oder schwierig ist, obliegt es dem Führer des bergabfahrenden Fahrzeugs, sein Fahrzeug zur Seite zu fahren, um jedes bergauffahrende Fahrzeug vorbeifahren zu lassen ausser da, wo längs der Fahrbahn Ausweichstellen, die es den Fahrzeugen ermöglichen, zur Seite zu fahren, so angeordnet sind, dass unter Berücksichtigung der Geschwindigkeit und des Standorts der Fahrzeuge dem bergauffahrenden Fahrzeug eine vor ihm liegende Ausweichstelle zur Verfügung steht und eines der Fahrzeuge rückwärts fahren müsste, wenn das bergauffahrende Fahrzeug jene Ausweichstelle nicht benutzte. Wenn eines der beiden Fahrzeuge, die einander ausweichen wollen, zu diesem Zweck rückwärts fahren muss, muss dies der Führer des bergabfahrenden Fahrzeugs tun, es sei denn, dass dies für den bergauffahrenden Führer einfacher ist. Die Vertragsparteien oder ihre Teilgebiete können jedoch für bestimmte Fahrzeuge oder bestimmte Strassen oder Strassenabschnitte Sonderregeln vorschreiben, die von denen dieses Absatzes abweichen.[^12-1]
 
 [^12-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 11).
 
@@ -410,7 +417,7 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 **Geschwindigkeit und Abstand zwischen Fahrzeugen**[^13-1]
 
-1.[^13-2] Jeder Fahrzeugführer muss unter allen Umständen sein Fahrzeug beherrschen, um den Sorgfaltspflichten genügen zu können und um ständig in der Lage zu sein, alle ihm obliegenden Fahrbewegungen auszuführen. Er muss bei der Wahl der Geschwindigkeit seines Fahrzeugs ständig die Umstände berücksichtigen, insbesondere die örtlichen Verhältnisse, den Strassenzustand, den Zustand und die Beladung seines Fahrzeugs, die Witterungsverhältnisse und die Dichte des Verkehrs, um innerhalb der nach vorn übersehbaren Strecke und vor jedem vorhersehbaren Hindernis sein Fahrzeug anhalten zu können. Er muss langsamer fahren und, wenn nötig, anhalten, sobald die Umstände es verlangen, namentlich wenn die Sicht nicht gut ist.
+<sup>1.</sup> Jeder Fahrzeugführer muss unter allen Umständen sein Fahrzeug beherrschen, um den Sorgfaltspflichten genügen zu können und um ständig in der Lage zu sein, alle ihm obliegenden Fahrbewegungen auszuführen. Er muss bei der Wahl der Geschwindigkeit seines Fahrzeugs ständig die Umstände berücksichtigen, insbesondere die örtlichen Verhältnisse, den Strassenzustand, den Zustand und die Beladung seines Fahrzeugs, die Witterungsverhältnisse und die Dichte des Verkehrs, um innerhalb der nach vorn übersehbaren Strecke und vor jedem vorhersehbaren Hindernis sein Fahrzeug anhalten zu können. Er muss langsamer fahren und, wenn nötig, anhalten, sobald die Umstände es verlangen, namentlich wenn die Sicht nicht gut ist.[^13-2]
 
 <sup>2.</sup> Die innerstaatlichen Rechtsvorschriften müssen Höchstgeschwindigkeiten für alle Strassen festlegen. Ebenso müssen die innerstaatlichen Rechtsvorschriften Geschwindigkeitsbeschränkungen für bestimmte Fahrzeugklassen vorschreiben, die insbesondere auf Grund ihrer Masse oder ihrer Ladung eine besondere Gefahr darstellen. Sie können ähnliche Bestimmungen für bestimmte Kategorien von Fahrzeugführern vorsehen, insbesondere für Fahranfänger.
 
@@ -420,10 +427,12 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 <sup>5.</sup> Der Führer eines Fahrzeugs, der hinter einem anderen Fahrzeug fährt, muss einen ausreichenden Sicherheitsabstand von diesem wahren, um bei dessen plötzlichem Bremsen oder Anhalten einen Zusammenstoss zu vermeiden.
 
-6.[^13-3] Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer von Fahrzeugen oder von miteinander verbundenen Fahrzeugen mit mehr als 3500 kg (7700 Pfund) höchster zulässiger Gesamtmasse oder mehr als 10 m (33 Fuss) Gesamtlänge – ausser wenn sie überholen oder sich anschicken, dies zu tun – zwischen ihren Fahrzeugen zu vorausfahrenden Kraftfahrzeugen einen so grossen Abstand halten, dass sich ein überholendes Fahrzeug gefahrlos vor das überholte einordnen kann. Dies gilt jedoch nicht, wenn der Verkehr sehr dicht oder das Überholen verboten ist. Ausserdem:
+<sup>6.</sup>
+
+Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer von Fahrzeugen oder von miteinander verbundenen Fahrzeugen mit mehr als 3500 kg (7700 Pfund) höchster zulässiger Gesamtmasse oder mehr als 10 m (33 Fuss) Gesamtlänge – ausser wenn sie überholen oder sich anschicken, dies zu tun – zwischen ihren Fahrzeugen zu vorausfahrenden Kraftfahrzeugen einen so grossen Abstand halten, dass sich ein überholendes Fahrzeug gefahrlos vor das überholte einordnen kann. Dies gilt jedoch nicht, wenn der Verkehr sehr dicht oder das Überholen verboten ist. Ausserdem:
 
 - a) können die zuständigen Behörden für bestimmte Fahrzeugkolonnen Abweichungen von dieser Bestimmung zulassen oder sie auch auf Strassen, auf denen dem Verkehr in der betreffenden Richtung zwei Fahrstreifen zur Verfügung stehen, für unanwendbar erklären;
-- b) können die Vertragsparteien oder ihre Teilgebiete andere Werte als die in diesem Absatz genannten für die betroffenen Fahrzeuge bestimmen.
+- b) können die Vertragsparteien oder ihre Teilgebiete andere Werte als die in diesem Absatz genannten für die betroffenen Fahrzeuge bestimmen.[^13-3]
 
 [^13-1]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^13-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 12).
@@ -433,7 +442,7 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 **Allgemeine Vorschriften für die Fahrbewegungen**
 
-1.[^14-1] Jeder Fahrzeugführer, der eine Fahrbewegung ausführen will, wie Herausfahren aus einer oder Einfahren in eine Parkreihe, Wechseln nach rechts oder nach links auf der Fahrbahn, Abbiegen nach links oder rechts in eine andere Strasse oder in ein angrenzendes Grundstück, muss sich zuvor vergewissern, dass er es ohne Gefährdung der anderen Verkehrsteilnehmer tun kann, die hinter ihm oder vor ihm sind oder die ihm begegnen, und zwar unter Berücksichtigung ihres Standorts, ihrer Richtung und ihrer Geschwindigkeit.
+<sup>1.</sup> Jeder Fahrzeugführer, der eine Fahrbewegung ausführen will, wie Herausfahren aus einer oder Einfahren in eine Parkreihe, Wechseln nach rechts oder nach links auf der Fahrbahn, Abbiegen nach links oder rechts in eine andere Strasse oder in ein angrenzendes Grundstück, muss sich zuvor vergewissern, dass er es ohne Gefährdung der anderen Verkehrsteilnehmer tun kann, die hinter ihm oder vor ihm sind oder die ihm begegnen, und zwar unter Berücksichtigung ihres Standorts, ihrer Richtung und ihrer Geschwindigkeit.[^14-1]
 
 <sup>2.</sup> Jeder Führer, der wenden oder rückwärts fahren will, muss sich zuvor vergewissern, dass er es ohne Gefährdung oder Behinderung der anderen Verkehrsteilnehmer tun kann.
 
@@ -453,15 +462,17 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass i
 
 **Fahrtrichtungsänderung**
 
-<sup>1.</sup> 2.[^16-1] Während der Fahrtrichtungsänderung muss der Führer, unbeschadet des Artikels 21 bezüglich der Fussgänger, die Verkehrsteilnehmer auf der Fahrbahn oder anderen Teilen der Strasse, die er verlassen will, vorbeifahren lassen.
+<sup>1.</sup>
 
 Ein Führer, der nach rechts oder links in eine andere Strasse oder in ein angrenzendes Grundstück abbiegen will, muss unbeschadet des Artikels 7 Absatz 1 und des Artikels 14:
 
 - a) wenn er die Strasse nach der der Verkehrsrichtung entsprechenden Seite verlassen will, sich so nahe wie möglich an den dieser Richtung entsprechenden Fahrbahnrand halten und seine Fahrbewegung in einem kleinstmöglichen Raum ausführen;
-- b)[^16-2] wenn er die Strasse nach der anderen Seite verlassen will, vorbehaltlich der Möglichkeit für die Vertragsparteien oder ihre Teilgebiete, abweichende Bestimmungen für Fahrräder und Motorfahrräder zu erlassen, die diesen insbesondere eine Fahrtrichtungsänderung durch ein Überqueren der Kreuzung in zwei Einzelphasen ermöglichen, sich auf Strassen mit Gegenverkehr so nahe wie möglich an die Mittellinie der Fahrbahn und auf Einbahnstrassen an den der Verkehrsrichtung entgegen gesetzten Fahrbahnrand halten; wenn er in eine andere Strasse mit Gegenverkehr abbiegen will sich an den der Verkehrsrichtung entsprechenden Fahrbahnrand halten.
+- b)[^16-1] wenn er die Strasse nach der anderen Seite verlassen will, vorbehaltlich der Möglichkeit für die Vertragsparteien oder ihre Teilgebiete, abweichende Bestimmungen für Fahrräder und Motorfahrräder zu erlassen, die diesen insbesondere eine Fahrtrichtungsänderung durch ein Überqueren der Kreuzung in zwei Einzelphasen ermöglichen, sich auf Strassen mit Gegenverkehr so nahe wie möglich an die Mittellinie der Fahrbahn und auf Einbahnstrassen an den der Verkehrsrichtung entgegen gesetzten Fahrbahnrand halten; wenn er in eine andere Strasse mit Gegenverkehr abbiegen will sich an den der Verkehrsrichtung entsprechenden Fahrbahnrand halten.
 
-[^16-1]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^16-2]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+<sup>2.</sup> Während der Fahrtrichtungsänderung muss der Führer, unbeschadet des Artikels 21 bezüglich der Fussgänger, die Verkehrsteilnehmer auf der Fahrbahn oder anderen Teilen der Strasse, die er verlassen will, vorbeifahren lassen.[^16-2]
+
+[^16-1]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^16-2]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 #### Art. 17
 
@@ -479,7 +490,7 @@ Ein Führer, der nach rechts oder links in eine andere Strasse oder in ein angre
 
 <sup>2.</sup> Jeder Führer, der aus einem Fuss‑ oder Feldweg auf eine Strasse gelangt, die kein Fuss‑ oder Feldweg ist, muss den auf dieser Strasse verkehrenden Fahrzeugen die Vorfahrt gewähren. Für die Zwecke dieses Artikels können die Begriffe «Fussweg» oder «Feldweg» in den innerstaatlichen Rechtsvorschriften bestimmt werden.
 
-3.[^18-1] Jeder Fahrzeugführer, der aus einem angrenzenden Grundstück auf eine Strasse einfährt, muss den auf dieser Strasse fahrenden Fahrzeugen die Vorfahrt gewähren.
+<sup>3.</sup> Jeder Fahrzeugführer, der aus einem angrenzenden Grundstück auf eine Strasse einfährt, muss den auf dieser Strasse fahrenden Fahrzeugen die Vorfahrt gewähren.[^18-1]
 
 <sup>4.</sup>
 
@@ -514,26 +525,26 @@ Jeder Verkehrsteilnehmer muss bei der Annäherung an einen Bahnübergang und bei
 - e)[^19-2] darf kein Verkehrsteilnehmer die Überquerung eines Bahnübergangs unangemessen verlängern; bleibt ein Fahrzeug liegen, so muss sich sein Führer bemühen, es ausserhalb des Schienenbereichs zu bringen und, wenn er das nicht kann, sofort alle in seiner Macht stehenden Massnahmen ergreifen, damit die Führer der Schienenfahrzeuge rechtzeitig vor der Gefahr gewarnt werden.
 
 [^19-1]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^19-2]: Ursprünglich Bst. d.
+[^19-2]: Ursprünglich: Bst. d.
 
 #### Art. 20
 
 **Vorschriften für Fussgänger**
 
-1.[^20-1] Die Vertragsparteien oder ihre Teilgebiete brauchen diesen Artikel nur in den Fällen für anwendbar zu erklären, wo der Fussgängerverkehr auf der Fahrbahn gefährlich oder für den Fahrzeugverkehr hinderlich wäre.
+<sup>1.</sup> Die Vertragsparteien oder ihre Teilgebiete brauchen diesen Artikel nur in den Fällen für anwendbar zu erklären, wo der Fussgängerverkehr auf der Fahrbahn gefährlich oder für den Fahrzeugverkehr hinderlich wäre.[^20-1]
 
-<sup>2.</sup> Gibt es an der Seite der Fahrbahn Gehwege oder von Fussgängern begehbare Seitenstreifen, so müssen Fussgänger diese benutzen. Jedoch, wenn sie die nötigen Vorsichtsmassnahmen ergreifen,
+<sup>2.</sup> …[^20-2]
 
-…[^20-2]
+Gibt es an der Seite der Fahrbahn Gehwege oder von Fussgängern begehbare Seitenstreifen, so müssen Fussgänger diese benutzen. Jedoch, wenn sie die nötigen Vorsichtsmassnahmen ergreifen:
 
 - a) dürfen Fussgänger, die sperrige Gegenstände schieben oder tragen, die Fahrbahn benutzen, wenn die Benutzung des Gehweges oder des Seitenstreifens andere Fussgänger erheblich behindern würde;
 - b) dürfen Fussgängergruppen, die von einer Aufsichtsperson geführt werden oder einen Umzug bilden, auf der Fahrbahn gehen.
 
 <sup>3.</sup> Wenn es nicht möglich ist, Gehwege oder Seitenstreifen benutzen, oder wenn solche fehlen, dürfen die Fussgänger auf der Fahrbahn gehen; wenn ein Radweg vorhanden ist und die Verkehrsdichte es ihnen erlaubt, dürfen sie auf dem Radweg gehen, aber ohne den Verkehr der Radfahrer und der Führer von Motorfahrrädern zu behindern.
 
-4.[^20-3] Wenn Fussgänger entsprechend den Absätzen 2 und 3 die Fahrbahn benutzen, müssen sie sich so dicht wie möglich an den Fahrbahnrand halten.
+<sup>4.</sup> Wenn Fussgänger entsprechend den Absätzen 2 und 3 die Fahrbahn benutzen, müssen sie sich so dicht wie möglich an den Fahrbahnrand halten.[^20-3]
 
-5.[^20-4] Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften folgendes vorzusehen: wenn Fussgänger die Fahrbahn benutzen, müssen sie, ausser wenn dies ihre Sicherheit gefährden würde, auf der der Verkehrsrichtung entgegengesetzten Seite gehen. Jedoch müssen Personen, die ein Fahrrad, ein Motorfahrrad oder ein Kraftrad schieben, sowie Fussgängergruppen, die von einer Aufsichtsperson geführt werden oder einen Umzug bilden, sich an die Fahrbahnseite halten, die der Verkehrsrichtung entspricht. Ausser wenn sie einen Umzug bilden, müssen die Fahrbahn benutzende Fussgänger bei Nacht oder schlechter Sicht sowie am Tage, wenn es die Dichte des Fahrzeugverkehrs erfordert, nach Möglichkeit in einer Reihe gehen.
+<sup>5.</sup> Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften folgendes vorzusehen: wenn Fussgänger die Fahrbahn benutzen, müssen sie, ausser wenn dies ihre Sicherheit gefährden würde, auf der der Verkehrsrichtung entgegengesetzten Seite gehen. Jedoch müssen Personen, die ein Fahrrad, ein Motorfahrrad oder ein Kraftrad schieben, sowie Fussgängergruppen, die von einer Aufsichtsperson geführt werden oder einen Umzug bilden, sich an die Fahrbahnseite halten, die der Verkehrsrichtung entspricht. Ausser wenn sie einen Umzug bilden, müssen die Fahrbahn benutzende Fussgänger bei Nacht oder schlechter Sicht sowie am Tage, wenn es die Dichte des Fahrzeugverkehrs erfordert, nach Möglichkeit in einer Reihe gehen.[^20-4]
 
 - 6\. a) Fussgänger dürfen nur mit Vorsicht eine Fahrbahn betreten, um sie zu überschreiten; sie müssen hierzu einen Fussgängerüberweg benutzen, wenn ein solcher in der Nähe ist.
 - b) Um eine Fahrbahn auf einem Fussgängerüberweg zu überschreiten, der als solcher gekennzeichnet oder durch Markierungen auf der Fahrbahn begrenzt ist,
@@ -558,15 +569,19 @@ Jeder Verkehrsteilnehmer muss bei der Annäherung an einen Bahnübergang und bei
 
 <sup>1.</sup> Jeder Fahrzeugführer muss Verhaltensweisen vermeiden, durch die Fussgänger in Gefahr gebracht werden könnten.
 
-<sup>2.</sup> Unbeschadet des Artikels 7 Absatz 1, des Artikels 11 Absatz 9 und des Artikels 13 Absatz 1, wenn ein als solcher gekennzeichneter oder durch Markierungen auf der Fahrbahn begrenzter Fussgängerüberweg vorhanden ist,
+<sup>2.</sup>
 
-3.[^21-2] Dieser Artikel ist nicht so auszulegen, als hindere er die Vertragsparteien oder ihre Teilgebiete
+Unbeschadet des Artikels 7 Absatz 1, des Artikels 11 Absatz 9 und des Artikels 13 Absatz 1, wenn ein als solcher gekennzeichneter oder durch Markierungen auf der Fahrbahn begrenzter Fussgängerüberweg vorhanden ist:
 
 - a) müssen die Fahrzeugführer, wenn der Fahrzeugverkehr an diesem Fussgängerüberweg durch Verkehrslichtzeichen oder durch einen Verkehrspolizisten geregelt wird und ihnen die Weiterfahrt nicht gestattet wird, vor dem Überweg oder den ihm vorangehenden Quermarkierungen anhalten, und wenn ihnen die Weiterfahrt gestattet ist, dürfen sie das Überschreiten der Fussgänger, die sich auf den Fussgängerüberweg begeben haben, nicht behindern oder belästigen; beim Abbiegen in eine andere Strasse, an deren Einfahrt sich ein Fussgängerüberweg befindet, müssen die Fahrzeugführer langsam fahren und nötigenfalls anhalten, um die Fussgänger, die sich auf den Überweg begeben haben oder die im Begriff sind, ihn zu betreten, vorbeizulassen.
 - b) wenn der Fahrzeugverkehr an diesem Überweg nicht durch Verkehrslichtzeichen oder einen Verkehrspolizisten geregelt wird, dürfen sich die Führer dem Überweg nur mit so mässiger Geschwindigkeit nähern, dass die Fussgänger, die sich auf diesen begeben haben oder begeben, nicht gefährdet werden, nötigenfalls müssen sie anhalten, um diese vorbeizulassen.
 
+<sup>3.</sup>
+
+Dieser Artikel ist nicht so auszulegen, als hindere er die Vertragsparteien oder ihre Teilgebiete:
+
 - – den Fahrzeugführern jedes Mal das Anhalten zu gebieten, wenn sich Fussgänger auf einen als solchen gekennzeichneten oder durch Markierungen auf der Fahrbahn begrenzten Überweg unter den in Artikel 20 vorgesehenen Bedingungen begeben haben oder begeben, oder
-- – ihnen zu verbieten, Fussgänger, die die Fahrbahn an einer Kreuzung oder dicht an einer Kreuzung überschreiten, auch wenn an dieser Stelle kein Fussgängerüberweg als solcher gekennzeichnet oder durch Markierungen auf der Fahrbahn begrenzt ist, zu behindern oder zu belästigen.
+- – ihnen zu verbieten, Fussgänger, die die Fahrbahn an einer Kreuzung oder dicht an einer Kreuzung überschreiten, auch wenn an dieser Stelle kein Fussgängerüberweg als solcher gekennzeichnet oder durch Markierungen auf der Fahrbahn begrenzt ist, zu behindern oder zu belästigen.[^21-2]
 
 <sup>4.</sup> Fahrzeugführer, die auf der der Verkehrsrichtung entsprechenden Seite an einer als solche gekennzeichneten Haltestelle an einem öffentlichen Verkehrsmittel vorbeifahren wollen, müssen ihre Geschwindigkeit vermindern und nötigenfalls anhalten, um den Fahrgästen das Ein‑ und Aussteigen zu ermöglichen.
 
@@ -589,7 +604,7 @@ Unbeschadet des Artikels 10 darf jeder Führer Verkehrsinseln, Pfosten und ander
 
 **Halten und Parken**
 
-1.[^23-1] Ausserhalb von Ortschaften müssen haltende oder parkende Fahrzeuge und stillstehende Tiere, wenn irgendmöglich, ausserhalb der Fahrbahn abgestellt werden. Sowohl innerhalb als auch ausserhalb von Ortschaften dürfen sie weder auf Radwegen, Radstreifen oder Fahrstreifen für den öffentlichen Linienverkehr, noch auf Reitwegen, Wegen für Fussgänger, Gehwegen oder den für die Fussgänger hergerichteten Seitenstreifen abgestellt werden, es sei denn, die innerstaatlichen Rechtsvorschriften lassen dies zu.[^23-2]
+<sup>1.</sup> Ausserhalb von Ortschaften müssen haltende oder parkende Fahrzeuge und stillstehende Tiere, wenn irgendmöglich, ausserhalb der Fahrbahn abgestellt werden. Sowohl innerhalb als auch ausserhalb von Ortschaften dürfen sie weder auf Radwegen, Radstreifen oder Fahrstreifen für den öffentlichen Linienverkehr, noch auf Reitwegen, Wegen für Fussgänger, Gehwegen oder den für die Fussgänger hergerichteten Seitenstreifen abgestellt werden, es sei denn, die innerstaatlichen Rechtsvorschriften lassen dies zu.[^23-1] [^23-2]
 
 - 2\. a)
 
@@ -603,8 +618,8 @@ Unbeschadet des Artikels 10 darf jeder Führer Verkehrsinseln, Pfosten und ander
 - 3\. a)[^23-4] Jedes Halten und Parken eines Fahrzeugs auf der Fahrbahn ist verboten
   - i) auf Fussgängerüberwegen, auf Radfahrüberwegen und auf Bahnübergängen;
   - ii) auf den Schienen von Strassenbahnen oder Eisenbahnen auf der Strasse oder so dicht an den Schienen, dass der Verkehr dieser Schienenbahnen oder Eisenbahnen behindert werden könnte, sowie, vorbehaltlich der Möglichkeit für die Vertragsparteien oder ihre Teilgebiete, gegenteilige Bestimmungen zu erlassen, auf Gehwegen und Radwegen;
+  - [tab] …[^23-5]
 
-- [tab] …[^23-5]
 - b) Jedes Halten und Parken eines Fahrzeuges ist an allen Stellen verboten, wo es eine Gefahr bilden könnte, insbesondere
   - i) unter Überführungen oder in Tunneln ausser an besonders gekennzeichneten Stellen;
   - ii) auf der Fahrbahn in der Nähe der Scheitelpunkte von Kuppen sowie in Kurven, wenn die Sicht zur völlig sicheren Vorbeifahrt an dem Fahrzeug unter Berücksichtigung der Geschwindigkeit der Fahrzeuge auf dem betreffenden Strassenabschnitt unzureichend ist;
@@ -624,17 +639,19 @@ Unbeschadet des Artikels 10 darf jeder Führer Verkehrsinseln, Pfosten und ander
 
 <sup>4.</sup> Ein Führer darf sein Fahrzeug oder seine Tiere nicht verlassen, ohne alle zweckdienlichen Vorkehrungen getroffen zu haben, um jeden Unfall, und sofern es sich um ein Kraftfahrzeug (Art. 1 Bst. p) handelt, dessen unerlaubte Verwendung zu verhüten.
 
-6.[^23-10] Nichts in diesem Artikel ist so auszulegen, als hindere es die Vertragsparteien oder ihre Teilgebiete, andere Park- und Haltbestimmungen oder gesonderte Park- und Haltebestimmungen für Fahrräder und Motorfahrräder zu erlassen.
+<sup>5.</sup>
 
-…[^23-11]
-
-5.[^23-12] Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass jedes Kraftfahrzeug ausser einem zweirädrigen Motorfahrrad oder einem zweirädrigen Kraftrad ohne Beiwagen und jeder angekuppelte oder nicht angekuppelte Anhänger, die ausserhalb einer Ortschaft auf der Fahrbahn abgestellt wurden, mittels mindestens einer in ausreichender Entfernung vom Fahrzeug an günstigster Stelle aufgestellten geeigneten Vorrichtung zu kennzeichnen sind, um herankommende Führer rechtzeitig zu warnen:
+Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass jedes Kraftfahrzeug ausser einem zweirädrigen Motorfahrrad oder einem zweirädrigen Kraftrad ohne Beiwagen und jeder angekuppelte oder nicht angekuppelte Anhänger, die ausserhalb einer Ortschaft auf der Fahrbahn abgestellt wurden, mittels mindestens einer in ausreichender Entfernung vom Fahrzeug an günstigster Stelle aufgestellten geeigneten Vorrichtung zu kennzeichnen sind, um herankommende Führer rechtzeitig zu warnen:
 
 - a) wenn das Fahrzeug nachts unter solchen Bedingungen auf der Fahrbahn abgestellt wurde, dass die herankommenden Führer das dadurch gebildete Hindernis nicht erkennen können;
-- b) wenn ein Führer, in anderen Fällen, gezwungen war, sein Fahrzeug an einer Stelle anzuhalten, wo das Halten verboten ist.
+- b) wenn ein Führer, in anderen Fällen, gezwungen war, sein Fahrzeug an einer Stelle anzuhalten, wo das Halten verboten ist.[^23-10]
 
-[^23-1]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-2]: Fassung des Satzes gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+<sup>6.</sup> Nichts in diesem Artikel ist so auszulegen, als hindere es die Vertragsparteien oder ihre Teilgebiete, andere Park- und Haltbestimmungen oder gesonderte Park- und Haltebestimmungen für Fahrräder und Motorfahrräder zu erlassen.[^23-11]
+
+…[^23-12]
+
+[^23-1]: Fassung des Satzes gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^23-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
 [^23-4]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
 [^23-5]: Siehe für die eingefügte Ziff. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
@@ -642,9 +659,9 @@ Unbeschadet des Artikels 10 darf jeder Führer Verkehrsinseln, Pfosten und ander
 [^23-7]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
 [^23-9]: Aufgehoben durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-10]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^23-11]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
-[^23-12]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
+[^23-10]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
+[^23-11]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^23-12]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
 
 #### Art. 24
 
@@ -656,26 +673,29 @@ Es ist verboten, die Tür eines Fahrzeugs zu öffnen, sie offenzulassen oder aus
 
 **Autobahnen und ähnliche Strassen**
 
-…[^25-1]
+<sup>1.</sup> …[^25-1]
 
-2.[^25-2] Bei der Einfahrt in eine Autobahn müssen die Führer den auf der Autobahn verkehrenden Fahrzeugen die Vorfahrt gewähren. Wenn ein Beschleunigungsstreifen vorhanden ist, müssen sie diesen benutzen.
-
-1.[^25-3] Auf den Autobahnen und, wenn die innerstaatlichen Rechtsvorschriften dies bestimmen, auf den besonderen Zu‑ und Abfahrtsstrassen der Autobahnen:
+Auf den Autobahnen und, wenn die innerstaatlichen Rechtsvorschriften dies bestimmen, auf den besonderen Zu‑ und Abfahrtsstrassen der Autobahnen:
 
 - a) ist der Verkehr verboten für Fussgänger, Tiere und Fahrräder, für Motorfahrräder, wenn sie nicht den Krafträdern gleichgestellt sind, und für alle anderen Fahrzeuge, die nicht Kraftfahrzeuge (Art. 1 Bst. p) oder deren Anhänger sind, sowie für Kraftfahrzeuge (Art. 1 Bst. p) oder ihre Anhänger, die auf ebener Strasse eine in den innerstaatlichen Rechtsvorschriften festgesetzte durch die Bauart bestimmte Geschwindigkeit nicht erreichen können;
-- b) ist es den Führern verboten,
+- b)
+
+  ist es den Führern verboten:
+
   - i) mit ihren Fahrzeugen anderswo als auf den gekennzeichneten Parkplätzen zu halten oder zu parken; der Führer eines liegen gebliebenen Fahrzeugs muss sich bemühen, sein Fahrzeug von der Fahrbahn und auch von dem befestigten Seitenstreifen zu entfernen, und, wenn er dies nicht tun kann, sofort das Fahrzeug in ausreichender Entfernung zu kennzeichnen, um herankommende Führer rechtzeitig zu warnen;
-  - ii) zu wenden, rückwärts zu fahren oder den Mittelstreifen einschliesslich der die beiden Fahrbahnen verbindenden Überfahrten zu benutzen.
+  - ii) zu wenden, rückwärts zu fahren oder den Mittelstreifen einschliesslich der die beiden Fahrbahnen verbindenden Überfahrten zu benutzen.[^25-2]
+
+<sup>2.</sup> Bei der Einfahrt in eine Autobahn müssen die Führer den auf der Autobahn verkehrenden Fahrzeugen die Vorfahrt gewähren. Wenn ein Beschleunigungsstreifen vorhanden ist, müssen sie diesen benutzen.[^25-3]
 
 <sup>3.</sup> Ein Führer, der die Autobahn verlässt, muss rechtzeitig den Fahrstreifen, der der Autobahnausfahrt entspricht, benutzen und so bald wie möglich auf den Verzögerungsstreifen fahren, wenn einer vorhanden ist.
 
 …[^25-4]
 
-4.[^25-5] Hinsichtlich der Anwendung der Absätze 1, 2 und 3 sind den Autobahnen die anderen dem Verkehr mit Kraftfahrzeugen vorbehaltenen Strassen gleichgestellt, die als solche ordnungsmässig gekennzeichnet sind und zu denen von den angrenzenden Grundstücken aus keine Zufahrt besteht.
+<sup>4.</sup> Hinsichtlich der Anwendung der Absätze 1, 2 und 3 sind den Autobahnen die anderen dem Verkehr mit Kraftfahrzeugen vorbehaltenen Strassen gleichgestellt, die als solche ordnungsmässig gekennzeichnet sind und zu denen von den angrenzenden Grundstücken aus keine Zufahrt besteht.[^25-5]
 
 [^25-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
-[^25-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^25-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
+[^25-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
+[^25-3]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^25-4]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
 [^25-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
 
@@ -693,16 +713,17 @@ Den Fahrzeugführern ist verboten:
 - b) zu wenden;
 - c) …[^25bis-2]
 
-<sup>2.</sup> Selbst wenn der Tunnel beleuchtet ist, muss jeder Führer sein Fern‑ oder Abblendlicht einschalten.
+<sup>2.</sup> Selbst wenn der Tunnel beleuchtet ist, muss jeder Führer sich vergewissern, dass sein Fern‑ oder Abblendlicht eingeschaltet ist.[^25bis-3]
 
-3.[^25bis-3] Fahrzeugführer dürfen ihr Fahrzeug nur im Notfall oder bei drohender Gefahr anhalten oder abstellen. Dabei ist darauf zu achten, dass dies nach Möglichkeit an den besonders gekennzeichneten Stellen geschieht.
+<sup>3.</sup> Fahrzeugführer dürfen ihr Fahrzeug nur im Notfall oder bei drohender Gefahr anhalten oder abstellen. Dabei ist darauf zu achten, dass dies nach Möglichkeit an den besonders gekennzeichneten Stellen geschieht.[^25bis-4]
 
-4.[^25bis-4] Bleiben die Fahrzeuge länger stehen, muss der Führer den Motor abstellen.
+<sup>4.</sup> Bleiben die Fahrzeuge länger stehen, muss der Führer den Motor abstellen.[^25bis-5]
 
 [^25bis-1]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^25bis-2]: Aufgehoben durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^25bis-3]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^25bis-4]: Ursprünglich Abs. 3
+[^25bis-2]: Aufgehoben durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^25bis-3]: Fassung gemäss Änd. vom 9. Aug. 2024, in Kraft seit 9. Febr. 2025 ([AS 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
+[^25bis-4]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^25bis-5]: Ursprünglich: Abs. 3.
 
 #### Art. 26
 
@@ -718,32 +739,31 @@ Den Fahrzeugführern ist verboten:
 
 <sup>1.</sup> Ungeachtet des Artikels 10 Absatz 3 brauchen die Vertragsparteien oder ihre Teilgebiete den Radfahrern nicht zu verbieten, zu mehreren nebeneinander zu fahren.
 
-2.[^27-1] Den Radfahrern ist es verboten zu fahren, ohne zumindest mit einer Hand die Lenkstange zu halten, sich von einem anderen Fahrzeug ziehen zu lassen oder Gegenstände zu befördern, zu ziehen oder zu schieben, die sie beim Fahren behindern oder die andere Verkehrsteilnehmer gefährden. Dieselben Bestimmungen gelten für die Führer von Motorfahrrädern und von Krafträdern; diese müssen aber die Lenkstange mit beiden Händen halten, ausser um die in Artikel 14 Absatz 3 beschriebene Fahrbewegung anzuzeigen.
+<sup>2.</sup> Den Radfahrern ist es verboten zu fahren, ohne zumindest mit einer Hand die Lenkstange zu halten, sich von einem anderen Fahrzeug ziehen zu lassen oder Gegenstände zu befördern, zu ziehen oder zu schieben, die sie beim Fahren behindern oder die andere Verkehrsteilnehmer gefährden. Dieselben Bestimmungen gelten für die Führer von Motorfahrrädern und von Krafträdern; diese müssen aber die Lenkstange mit beiden Händen halten, ausser um die in Artikel 14 Absatz 3 beschriebene Fahrbewegung anzuzeigen.[^27-1]
 
 <sup>3.</sup> Den Radfahrern und den Führern von Motorfahrrädern ist verboten, auf ihrem Fahrzeug andere Personen zu befördern; die Vertragsparteien oder ihre Teilgebiete können jedoch Ausnahmen davon bewilligen, insbesondere die Personenbeförderung auf dem oder den an dem Fahrrad angebrachten zusätzlichen Sitzen. Führer von Krafträdern dürfen andere Personen nur in einem Beiwagen und auf einem hinter dem Führer angebrachten zusätzlichen Sitz befördern.
 
-4.[^27-2] [^27-3] Die Vertragsparteien oder ihre Teilgebiete können den Radfahrern verbieten, wenn ein Radstreifen oder ein Radweg vorhanden ist, den übrigen Teil der Fahrbahn zu benutzen. Im selben Falle können sie den Führern von Motorfahrrädern erlauben, den Radstreifen oder den Radweg zu benutzen und, wenn sie es für zweckmässig halten, ihnen verbieten, den übrigen Teil der Fahrbahn zu benutzen. Die innerstaatlichen Rechtsvorschriften sehen vor, unter welchen Umständen andere Verkehrsteilnehmer Radstreifen oder den Radwege benutzen oder queren dürfen, wobei zu keiner Zeit die Sicherheit der Radfahrer beeinträchtigt werden darf.
+<sup>4.</sup> Die Vertragsparteien oder ihre Teilgebiete können den Radfahrern verbieten, wenn ein Radstreifen oder ein Radweg vorhanden ist, den übrigen Teil der Fahrbahn zu benutzen. Im selben Falle können sie den Führern von Motorfahrrädern erlauben, den Radstreifen oder den Radweg zu benutzen und, wenn sie es für zweckmässig halten, ihnen verbieten, den übrigen Teil der Fahrbahn zu benutzen. Die innerstaatlichen Rechtsvorschriften sehen vor, unter welchen Umständen andere Verkehrsteilnehmer Radstreifen oder den Radwege benutzen oder queren dürfen, wobei zu keiner Zeit die Sicherheit der Radfahrer beeinträchtigt werden darf.[^27-2]
 
-…[^27-4]
+…[^27-3]
 
 [^27-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
-[^27-2]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^27-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
-[^27-4]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
+[^27-2]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^27-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
 
-### **Art. 27**<sup>bis</sup>−**27**<sup>quater</sup>
+#### Art. 27<sup>bis</sup>–27<sup>quater</sup>
 
-[^chapII-lvlu25-1]
+[^27bis27quater-1]
 
-[^chapII-lvlu25-1]: Siehe für die eingefügten Art. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20<sup>bis</sup>).
+[^27bis27quater-1]: Siehe für die eingefügten Art. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20<sup>bis</sup>).
 
 #### Art. 28
 
 **Optische und akustische Warnzeichen**
 
-<sup>1.</sup> Vorrichtungen zum Abgeben akustischer Warnzeichen dürfen nur benutzt werden,
+<sup>1.</sup> Akustische Warnzeichen dürfen nicht länger als nötig dauern.
 
-Akustische Warnzeichen dürfen nicht länger als nötig dauern.
+Vorrichtungen zum Abgeben akustischer Warnzeichen dürfen nur benutzt werden:
 
 - a) um die notwendigen Warnzeichen zur Verhütung eines Unfalls zu geben;
 - b) um ausserhalb von Ortschaften einem Führer anzuzeigen, dass er überholt werden soll.
@@ -760,7 +780,7 @@ Akustische Warnzeichen dürfen nicht länger als nötig dauern.
 
 <sup>1.</sup> Wenn sich Schienen auf einer Fahrbahn befinden, muss jeder Verkehrsteilnehmer bei Annäherung einer Strassenbahn oder eines anderen Schienenfahrzeugs die Schienen so bald wie möglich räumen, um dem Schienenfahrzeug die Durchfahrt zu ermöglichen.
 
-2.[^29-1] Die Vertragsparteien oder ihre Teilgebiete können von diesem Kapitel abweichende besondere Verkehrsvorschriften für Schienenfahrzeuge auf der Strasse sowie darüber erlassen, wie ihnen auszuweichen ist und wie sie zu überholen sind. Die Vertragsparteien oder ihre Teilgebiete können jedoch keine Vorschriften erlassen, die den in Artikel 18 Absatz 7 enthaltenen zuwiderlaufen.
+<sup>2.</sup> Die Vertragsparteien oder ihre Teilgebiete können von diesem Kapitel abweichende besondere Verkehrsvorschriften für Schienenfahrzeuge auf der Strasse sowie darüber erlassen, wie ihnen auszuweichen ist und wie sie zu überholen sind. Die Vertragsparteien oder ihre Teilgebiete können jedoch keine Vorschriften erlassen, die den in Artikel 18 Absatz 7 enthaltenen zuwiderlaufen.[^29-1]
 
 …[^29-2]
 
@@ -773,7 +793,9 @@ Akustische Warnzeichen dürfen nicht länger als nötig dauern.
 
 <sup>1.</sup> Wenn für ein Fahrzeug eine höchste zulässige Gesamtmasse bestimmt ist, darf die Gesamtmasse dieses Fahrzeugs niemals die höchste zulässige Gesamtmasse überschreiten.
 
-<sup>2.</sup> Jede Ladung eines Fahrzeugs muss so verstaut und, wenn nötig, so befestigt sein, dass sie
+<sup>2.</sup>
+
+Jede Ladung eines Fahrzeugs muss so verstaut und, wenn nötig, so befestigt sein, dass sie:
 
 - a) Personen nicht gefährden oder öffentliches oder privates Gut nicht beschädigen, insbesondere nicht auf der Strasse schleifen oder auf sie fallen kann;
 - b) nicht die Sicht des Führers beschränken oder das Gleichgewicht oder die Führung des Fahrzeugs beeinträchtigen kann;
@@ -782,10 +804,12 @@ Akustische Warnzeichen dürfen nicht länger als nötig dauern.
 
 <sup>3.</sup> Alle Zubehörteile wie Seile, Ketten, Decken, die dazu dienen, die Ladung zu befestigen oder zu schützen, müssen ihr dicht anliegen und gut befestigt sein. Alle Zubehörteile, die dazu dienen, die Ladung zu schützen, müssen den in Absatz 2 für die Ladung vorgesehenen Bedingungen entsprechen.
 
-4.[^30-1] Die nach vorn, nach hinten oder seitlich über das Fahrzeug hinausragenden Ladungen müssen in allen Fällen, wo ihre Umrisse von den Führern anderer Fahrzeuge nicht bemerkt werden könnten, gut sichtbar gekennzeichnet sein; nachts muss diese Kennzeichnung vorn durch ein weisses Licht und eine weisse Rückstrahlvorrichtung und hinten durch ein rotes Licht und eine rote Rückstrahlvorrichtung erfolgen. Insbesondere müssen auf Kraftfahrzeugen
+<sup>4.</sup>
+
+Die nach vorn, nach hinten oder seitlich über das Fahrzeug hinausragenden Ladungen müssen in allen Fällen, wo ihre Umrisse von den Führern anderer Fahrzeuge nicht bemerkt werden könnten, gut sichtbar gekennzeichnet sein; nachts muss diese Kennzeichnung vorn durch ein weisses Licht und eine weisse Rückstrahlvorrichtung und hinten durch ein rotes Licht und eine rote Rückstrahlvorrichtung erfolgen. Insbesondere müssen auf Kraftfahrzeugen:
 
 - a) Ladungen, die mehr als 1 m (3 Fuss 4 Zoll) nach hinten oder nach vorn über das äusserste Ende des Fahrzeugs hinausragen, stets gekennzeichnet sein;
-- b) Ladungen, die seitlich über den Umriss des Fahrzeugs so hinausragen, dass ihr äusserster seitlicher Punkt mehr als 0,40 m (16 Zoll) vom äussersten Rand der Begrenzungsleuchte des Fahrzeugs entfernt ist, bei Nacht nach vorn gekennzeichnet sein; das gleiche gilt nach hinten für Ladungen, die so hinausragen, dass ihr äusserster seitlicher Punkt mehr als 0,40 m (16 Zoll) vom äussersten Rand der roten Schlussleuchte des Fahrzeugs entfernt ist.
+- b) Ladungen, die seitlich über den Umriss des Fahrzeugs so hinausragen, dass ihr äusserster seitlicher Punkt mehr als 0,40 m (16 Zoll) vom äussersten Rand der Begrenzungsleuchte des Fahrzeugs entfernt ist, bei Nacht nach vorn gekennzeichnet sein; das gleiche gilt nach hinten für Ladungen, die so hinausragen, dass ihr äusserster seitlicher Punkt mehr als 0,40 m (16 Zoll) vom äussersten Rand der roten Schlussleuchte des Fahrzeugs entfernt ist.[^30-1]
 
 <sup>5.</sup> Nichts in Absatz 4 ist so auszulegen, als hindere es die Vertragsparteien oder ihre Teilgebiete, das in diesem Absatz erwähnte Hinausragen der Ladung zu verbieten, zu beschränken oder einer Sondergenehmigung zu unterwerfen.
 
@@ -803,7 +827,9 @@ Die Zahl der Fahrgäste oder die Art und Weise ihrer Beförderung dürfen weder 
 
 **Verhalten bei Unfällen**
 
-<sup>1.</sup> Unbeschadet der innerstaatlichen Rechtsvorschriften über die Verpflichtung zur Hilfeleistung für Verletzte muss jeder an einem Verkehrsunfall beteiligte Führer oder andere Verkehrsteilnehmer
+<sup>1.</sup>
+
+Unbeschadet der innerstaatlichen Rechtsvorschriften über die Verpflichtung zur Hilfeleistung für Verletzte muss jeder an einem Verkehrsunfall beteiligte Führer oder andere Verkehrsteilnehmer:
 
 - a) anhalten, sobald es ihm möglich ist, ohne dadurch eine zusätzliche Gefahr für den Verkehr zu schaffen;
 - b) sich bemühen, die Sicherheit des Verkehrs an der Unfallstelle zu gewährleisten und, wenn durch den Unfall eine Person getötet oder schwer verletzt wurde, eine Veränderung des Zustandes an der Unfallstelle und die Beseitigung von Spuren, die zur Feststellung der Verantwortlichkeit nützlich sein können, zu vermeiden, sofern dies die Verkehrssicherheit nicht beeinträchtigt;
@@ -821,64 +847,71 @@ Die Zahl der Fahrgäste oder die Art und Weise ihrer Beförderung dürfen weder 
 
 <sup>1.</sup>
 
-Zwischen dem Hereinbrechen der Nacht und dem Anbruch des Tages sowie zu anderen Zeiten, wenn die Sicht beispielsweise infolge von Nebel, Schneefall oder starkem Regen ungenügend ist, müssen bei fahrenden Fahrzeugen die folgenden Lichter eingeschaltet werden:
+Zwischen dem Hereinbrechen der Nacht und dem Anbruch des Tages sowie bei anderen Verhältnissen, in denen die Sicht beispielsweise infolge von Nebel, Schneefall oder starkem Regen ungenügend ist, müssen bei fahrenden Fahrzeugen die folgenden Lichter eingeschaltet werden:
 
 - a) bei Kraftfahrzeugen und Krafträdern das Fern‑ oder Abblendlicht und die Schlussleuchten entsprechend der in diesem Übereinkommen für die Fahrzeuge jeder Klasse vorgeschriebenen Ausrüstung;
-- b) bei Anhängern die vorderen Begrenzungsleuchten, wenn diese in Absatz 30 des Anhangs 5 vorgeschrieben sind, und mindestens zwei Schlussleuchten.
+- b) bei Anhängern die Begrenzungsleuchten, wenn diese in Absatz 22.2 des Anhangs 5 vorgeschrieben sind, und mindestens zwei Schlussleuchten.
 
 <sup>2.</sup>
 
 Das Fernlicht muss ausgeschaltet und an seiner Stelle das Abblendlicht eingeschaltet werden:
 
 - a) in Ortschaften, wenn die Strasse ausreichend beleuchtet ist und ausserhalb von Ortschaften, wenn die Fahrbahn durchgehend beleuchtet ist und diese Beleuchtung dem Führer deutliche Sicht auf ausreichende Entfernung ermöglicht und den übrigen Verkehrsteilnehmern gestattet, das Fahrzeug auf ausreichende Entfernung wahrzunehmen;
-- b) wenn ein Führer einem anderen Fahrzeug begegnet, so dass auf ausreichende Entfernung eine Blendung vermieden wird, damit der Führer dieses anderen Fahrzeugs seine Fahrt ungehindert und ungefährdet fortsetzen kann;
-- c) unter allen andern Umständen, wenn es erforderlich ist, die übrigen Verkehrsteilnehmer oder die Benutzer einer Wasserstrasse oder eines Schienenweges, die an der Strasse entlangführen, nicht zu blenden.
+- b) wenn ein Führer einem anderen Fahrzeug begegnet, sodass auf ausreichende Entfernung eine Blendung vermieden wird, damit der Führer dieses anderen Fahrzeugs seine Fahrt ungehindert und ungefährdet fortsetzen kann;
+- c) bei allen andern Verhältnissen, wenn es erforderlich ist, die übrigen Verkehrsteilnehmer oder die Benutzer einer Wasserstrasse oder eines Schienenweges, die an der Strasse entlangführen, nicht zu blenden.
 
-<sup>3.</sup> Wenn ein Fahrzeug einem anderen in geringem Abstand folgt, darf jedoch das Fernlicht eingeschaltet, werden, um die Absicht des Überholens durch optische Warnzeichen unter den in Artikel 28 Absatz 2 angegebenen Bedingungen anzuzeigen.
+<sup>3.</sup> Wenn ein Fahrzeug einem anderen in geringem Abstand folgt, darf jedoch das Fernlicht als optisches Warnzeichen eingeschaltet werden, um die Absicht des Überholens unter den in Artikel 28 Absatz 2 angegebenen Bedingungen anzuzeigen.
 
-<sup>4.</sup> Die Nebelscheinwerfer dürfen nur bei dichtem Nebel, Schneefall, starkem Regen oder ähnlichen Bedingungen eingeschaltet werden; die nach vorn wirkenden Nebelscheinwerfer können das Abblendlicht ersetzen. Die innerstaatlichen Rechtsvorschriften können die gleichzeitige Verwendung der vorderen Nebelscheinwerfer und des Abblendlichts und die Benutzung der vorderen Nebelscheinwerfer auf engen kurvenreichen Strassen zulassen.
+<sup>4.</sup> Die Nebelscheinwerfer dürfen nur bei Nebel oder anderen Verhältnissen mit verminderter Sicht eingeschaltet werden; die nach vorn wirkenden Nebelscheinwerfer können das Abblendlicht ersetzen. Die innerstaatlichen Rechtsvorschriften können jedoch die gleichzeitige Verwendung der vorderen Nebelscheinwerfer und des Abblendlichts, die gleichzeitige Verwendung der vorderen Nebelscheinwerfer und der Abbiegescheinwerfer und die Benutzung der vorderen Nebelscheinwerfer auf engen kurvenreichen Strassen zulassen.
 
-<sup>5.</sup> Bei Fahrzeugen, die mit nach vorn wirkenden Begrenzungsleuchten ausgerüstet sind, müssen diese gleichzeitig mit dem Fernlicht, dem Abblendlicht oder den vorderen Nebelscheinwerfern eingeschaltet werden.
+<sup>5.</sup> Bei Fahrzeugen, die mit Begrenzungsleuchten ausgerüstet sind, müssen diese gleichzeitig mit dem Fernlicht, dem Abblendlicht oder den vorderen Nebelscheinwerfern eingeschaltet werden. Die Funktion der Begrenzungsleuchten kann durch das Abblendlicht und/oder das Fernlicht sichergestellt werden, sofern bei deren Versagen automatisch wieder die Begrenzungsleuchten eingeschaltet werden.
 
-<sup>6.</sup> Bei Tag müssen die Führer von Krafträdern mindestens ein Abblendlicht und eine rote Schlussleuchte beim Fahren einschalten. Die innerstaatlichen Rechtsvorschriften können die Verwendung des Tagesfahrlichts an Stelle des Abblendlichts zulassen.
+<sup>6.</sup> Die innerstaatlichen Rechtsvorschriften können für die Führer von Kraftfahrzeugen die Verwendung des Abblendlichts oder des Tagesfahrlichts bei Tag vorschreiben.
 
-<sup>7.</sup> Die innerstaatlichen Rechtsvorschriften können für die Führer von Kraftfahrzeugen die Verwendung des Abblendlichts oder des Tagesfahrlichts bei Tag vorschreiben. In diesem Fall müssen die hinteren Begrenzungsleuchten zusammen mit den vorderen Leuchten eingeschaltet sein.
+<sup>7.</sup> Bei Tag müssen bei Krafträdern während der Fahrt mindestens ein Abblendlicht und eine rote Schlussleuchte eingeschaltet sein. Die innerstaatlichen Rechtsvorschriften können die Verwendung des Tagesfahrlichts anstelle des Abblendlichts zulassen.
 
-<sup>8.</sup> Zwischen dem Hereinbrechen der Nacht und dem Anbruch des Tages sowie in allen Umständen, in denen die Sicht ungenügend ist, müssen auf einer Strasse haltende oder parkende Kraftfahrzeuge und ihre Anhänger durch die Begrenzungsleuchten und Schlussleuchten angezeigt werden. Bei dichtem Nebel, Schneefall, starkem Regen oder ähnlichen Bedingungen können das Abblendlicht oder die Nebelscheinwerfer eingeschaltet werden. Unter diesen Bedingungen können die Nebelschlussleuchten zusätzlich zu den Schlussleuchten verwendet werden.
+<sup>8.</sup> Zwischen dem Hereinbrechen der Nacht und dem Anbruch des Tages sowie bei Verhältnissen, in denen die Sicht ungenügend ist, müssen auf einer Strasse haltende oder parkende Kraftfahrzeuge und Anhänger, die an diese Fahrzeuge angehängt sind, durch die Begrenzungsleuchten und Schlussleuchten angezeigt werden. Bei Nebel oder ähnlichen Verhältnissen mit verminderter Sicht können das Abblendlicht oder die Nebelscheinwerfer eingeschaltet werden. Unter diesen Bedingungen können die Nebelschlussleuchten zusätzlich zu den Schlussleuchten verwendet werden.
 
-<sup>9.</sup> Abweichend von Absatz 8 können an Stelle der vorderen und hinteren Begrenzungsleuchten innerhalb einer Ortschaft Parkleuchten verwendet werden, wenn
+<sup>9.</sup>
+
+Abweichend von Absatz 8 können anstelle der Begrenzungsleuchten und Schlussleuchten innerhalb einer Ortschaft Parkleuchten verwendet werden, wenn:
 
 - a) die Abmessungen des Fahrzeugs 6 m in der Länge und 2 m in der Breite nicht übersteigen;
 - b) an das Fahrzeug kein anderes Fahrzeug angehängt ist;
 - c) die Parkleuchten an der dem Fahrbahnrand gegenüberliegenden Seite des haltenden oder parkenden Fahrzeugs angebracht sind.
 
-<sup>10.</sup> Unbeschadet von den Bestimmungen der Absätze 8 und 9 ist bei haltenden oder parkenden Fahrzeugen eigene Beleuchtung entbehrlich, wenn
+<sup>10.</sup>
+
+Unbeschadet von den Bestimmungen der Absätze 8 und 9 ist bei haltenden oder parkenden Fahrzeugen eigene Beleuchtung entbehrlich, wenn:
 
 - a) die Strassenbeleuchtung das Fahrzeug auf ausreichende Entfernung deutlich sichtbar macht;
 - b) sie sich ausserhalb der Fahrbahn oder eines befestigten Seitenstreifens befinden;
 - c) es sich um zweirädrige Motorfahrräder und Krafträder ohne Beiwagen und ohne Batterie handelt, die in einer Ortschaft ganz dicht am Fahrbahnrand abgestellt werden.
 
-<sup>11.</sup> Die innerstaatlichen Rechtsvorschriften können Abweichungen von den Absätzen 8 und 9 für Fahrzeuge zulassen, die in einer Ortschaft in Strassen mit sehr schwachem Verkehr halten oder parken.
+<sup>11.</sup> Die innerstaatlichen Rechtsvorschriften können Abweichungen von den Absätzen 8 und 9 für Fahrzeuge zulassen, die in einer Ortschaft mit wenig Verkehr halten oder parken.
 
-<sup>12.</sup> Die Rückfahrscheinwerfer dürfen nur dann verwendet werden, wenn das Fahrzeug rückwärts fährt oder im Begriff ist, rückwärts zu fahren.
+<sup>12.</sup> Die Rückfahrscheinwerfer dürfen nur dann verwendet werden, wenn das Fahrzeug rückwärts fährt oder im Begriff ist, rückwärts zu fahren; zusätzliche nicht vorgeschriebene Rückfahrscheinwerfer können bei kurzen und langsamen Manövern bei Vorwärtsfahrt eingeschaltet bleiben.
+
+12<sup>bis</sup>. Manövrierscheinwerfer dürfen nur dann verwendet werden, wenn das Fahrzeug mit einer Geschwindigkeit von höchstens 10 km (6 Meilen) pro Stunde fährt.
 
 <sup>13.</sup>
 
 Das Warnblinklicht darf nur verwendet werden, um die übrigen Verkehrsteilnehmer auf eine besondere Gefahr aufmerksam zu machen:
 
-- a) wenn ein liegen gebliebenes oder verunfalltes Fahrzeug nicht sofort entfernt werden kann, so dass es ein Hindernis für die übrigen Verkehrsteilnehmer darstellt;
+- a) wenn ein liegen gebliebenes oder verunfalltes Fahrzeug nicht sofort entfernt werden kann, sodass es ein Hindernis für die übrigen Verkehrsteilnehmer darstellt;
 - b) wenn den übrigen Verkehrsteilnehmern eine unmittelbare drohende Gefahr angezeigt werden soll.
 
-<sup>14.</sup> Besondere Warnleuchten,
+<sup>14.</sup>
 
-Die Verwendung von andersfarbigen Warnleuchten kann von den innerstaatlichen Rechtsvorschriften zugelassen werden.
+Besondere Warnleuchten:
 
-- a) die ein blaues Licht aussenden, dürfen nur für bevorrechtigte Fahrzeuge verwendet werden, die in dringendem Auftrag unterwegs sind, oder in Fällen, in denen es erforderlich ist, die übrigen Verkehrsteilnehmer vor dem Fahrzeug zu warnen;
-- b) die ein gelbes Licht aussenden, dürfen nur verwendet werden, wenn die Fahrzeuge tatsächlich für besondere Aufgaben eingesetzt werden und dafür mit einer Kennleuchte ausgestattet wurden oder wenn die Anwesenheit dieser Fahrzeuge auf der Strasse eine Gefahr oder eine Belästigung für die übrigen Verkehrsteilnehmer darstellt.
+- a) die ein blaues und/oder rotes Licht aussenden, dürfen nur für bevorrechtigte Fahrzeuge verwendet werden, die in dringendem Auftrag unterwegs sind, oder in Fällen, in denen es erforderlich ist, die übrigen Verkehrsteilnehmer vor dem Fahrzeug zu warnen;
+- b) die ein gelbes Licht aussenden, dürfen nur verwendet werden, wenn die Fahrzeuge für besondere Aufgaben eingesetzt werden und dafür mit einer Kennleuchte ausgestattet wurden oder wenn die Anwesenheit dieser Fahrzeuge auf der Strasse eine Gefahr oder eine Belästigung für die übrigen Verkehrsteilnehmer darstellt;
+- c) die ein andersfarbiges Licht aussenden, können von den innerstaatlichen Rechtsvorschriften zugelassen werden.
 
 <sup>15.</sup> Vorbehaltlich der in Absatz 61 des Anhangs 5 genannten Ausnahmen dürfen auf keinen Fall für die Beleuchtungseinrichtungen eines Fahrzeugs vorne die rote Farbe und hinten die weisse Farbe zugelassen werden. Ein Fahrzeug darf nicht so verändert und auch nicht mit zusätzlichen Beleuchtungseinrichtungen versehen werden, dass es gegen diese Bestimmung verstossen könnte.
 
-[^32-1]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^32-1]: Fassung gemäss der Änd. vom 9. Aug. 2024, in Kraft seit 9. Febr. 2025 ([AS 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 #### Art. 33
 
@@ -902,7 +935,7 @@ Die Verwendung von andersfarbigen Warnleuchten kann von den innerstaatlichen Rec
 
 <sup>1.</sup> Sobald das Herannahen eines bevorrechtigten Fahrzeugs durch die besonderen optischen und akustischen Warnvorrichtungen angekündigt wird, muss jeder Verkehrsteilnehmer die Durchfahrt auf der Fahrbahn freigeben und notfalls anhalten.
 
-2.[^34-1] Die innerstaatlichen Rechtsvorschriften können vorsehen, dass die Führer von bevorrechtigten Fahrzeugen alle oder einen Teil der Bestimmungen dieses Kapitels 11 ausser denen in Artikel 6 Absatz 2 nicht zu beachten brauchen, wenn sie ihre Fahrt mit den besonderen Warnvorrichtungen des Fahrzeugs ankündigen, und unter der Voraussetzung, dass sie die anderen Verkehrsteilnehmer nicht gefährden.
+<sup>2.</sup> Die innerstaatlichen Rechtsvorschriften können vorsehen, dass die Führer von bevorrechtigten Fahrzeugen alle oder einen Teil der Bestimmungen dieses Kapitels 11 ausser denen in Artikel 6 Absatz 2 nicht zu beachten brauchen, wenn sie ihre Fahrt mit den besonderen Warnvorrichtungen des Fahrzeugs ankündigen, und unter der Voraussetzung, dass sie die anderen Verkehrsteilnehmer nicht gefährden.[^34-1]
 
 <sup>3.</sup> Die innerstaatlichen Rechtsvorschriften können bestimmen, in welchem Umfang die mit dem Bau, der Instandsetzung oder Instandhaltung der Strasse beschäftigten Personen einschliesslich der Führer der für die Arbeiten benutzten Maschinen während ihrer Arbeit dieses Kapitel II nicht zu beachten brauchen, unter der Voraussetzung, dass sie alle erforderlichen Vorsichtsmassnahmen ergreifen.
 
@@ -980,15 +1013,15 @@ Die Pflicht, dass jedes Fahrzeug und miteinander verbundene Fahrzeuge einen Füh
 
 \2. Jeder Anhänger, der mit einem Kraftfahrzeug verbunden ist und nach Artikel 36 dieses Übereinkommens an der Rückseite ein Kennzeichen führen muss, hat hinten auch das Unterscheidungszeichen des Staates, wo dieses Kennzeichen ausgegeben worden ist, zu führen, entweder unabhängig vom Kennzeichen oder als Bestandteil desselben.[^37-1] Dieser Absatz gilt auch, wenn der Anhänger in einem anderen Staat als dem Zulassungsstaat des Kraftfahrzeuges (Art. 1 Bst. p), mit dem er verbunden ist, zugelassen ist; ist der Anhänger nicht zugelassen, so muss er hinten das Unterscheidungszeichen des Staates führen, in dem das Zugfahrzeug zugelassen ist, ausser wenn er in diesem Staat verkehrt.
 
-3.[^37-2] Ausgestaltung und Anbringung des Unterscheidungszeichens bzw. seine Einbeziehung in das Kennzeichen müssen den in Anhang 2 und 3 festgelegten Anforderungen genügen.
-
-- 1\.[^37-3]a) Ausser dem Kennzeichen muss jedes Kraftfahrzeug im internationalen Verkehr hinten, ein Unterscheidungszeichen des Staates führen, in dem es zugelassen ist.
+- 1\. a) Ausser dem Kennzeichen muss jedes Kraftfahrzeug im internationalen Verkehr hinten, ein Unterscheidungszeichen des Staates führen, in dem es zugelassen ist.
 - b) Dieses Zeichen kann entweder unabhängig vom Kennzeichen angebracht oder ein Bestandteil desselben sein.
-- c) Wenn das Unterscheidungszeichen Bestandteil des Kennzeichens ist, muss es auch auf dem vorderen Kennzeichen angebracht sein, sofern ein solches vorgeschrieben ist.
+- c) Wenn das Unterscheidungszeichen Bestandteil des Kennzeichens ist, muss es auch auf dem vorderen Kennzeichen angebracht sein, sofern ein solches vorgeschrieben ist.[^37-2]
 
-[^37-1]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^37-2]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^37-3]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+<sup>3.</sup> Ausgestaltung und Anbringung des Unterscheidungszeichens bzw. seine Einbeziehung in das Kennzeichen müssen den in Anhang 2 und 3 festgelegten Anforderungen genügen.[^37-3]
+
+[^37-1]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^37-2]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^37-3]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 #### Art. 38
 
@@ -1000,14 +1033,16 @@ Jedes Kraftfahrzeug (Art. 1 Bst. p) und jeder Anhänger im internationalen Verke
 
 **Technische Vorschriften und Untersuchung der Fahrzeuge[^39-1]**
 
-1.[^39-2] Jedes Kraftfahrzeug, jeder Anhänger und alle miteinander verbundenen Fahrzeuge im internationalen Verkehr müssen dem Anhang 5 entsprechen. Sie müssen ferner betriebssicher sein. Sind diese Fahrzeuge mit Systemen, Teilen oder Ausrüstungsgegenständen ausgerüstet, die den technischen Vorschriften bezüglich Bauweise, Montage und Benutzung nach Massgabe der in Absatz 5<sup>bis</sup> von Artikel 8 dieses Übereinkommens erwähnten internationalen Rechtsvorschriften entsprechen, so gelten sie mit dem Anhang 5 als konform.
+<sup>1.</sup> Jedes Kraftfahrzeug, jeder Anhänger und alle miteinander verbundenen Fahrzeuge im internationalen Verkehr müssen dem Anhang 5 entsprechen. Sie müssen ferner betriebssicher sein. Sind diese Fahrzeuge mit Systemen, Teilen oder Ausrüstungsgegenständen ausgerüstet, die den technischen Vorschriften bezüglich Bauweise, Montage und Benutzung nach Massgabe der in Absatz 5<sup>bis</sup> von Artikel 8 dieses Übereinkommens erwähnten internationalen Rechtsvorschriften entsprechen, so gelten sie mit dem Anhang 5 als konform.[^39-2]
 
-3.[^39-3] In den innerstaatlichen Rechtsvorschriften sollen die in Absatz 2 genannten Bestimmungen, soweit möglich, auf andere Fahrzeugklassen ausgedehnt werden.
+<sup>2.</sup>
 
-2.[^39-4] In den innerstaatlichen Rechtsvorschriften ist eine regelmässige technische Untersuchung vorzuschreiben für:
+In den innerstaatlichen Rechtsvorschriften ist eine regelmässige technische Untersuchung vorzuschreiben für:
 
 - a) Kraftfahrzeuge zur Personenbeförderung, die ausser dem Fahrersitz mehr als acht Sitzplätze haben;
-- b) Kraftfahrzeuge zur Güterbeförderung, deren zulässiges höchstes Gesamtgewicht 3500 kg übersteigt, sowie für Anhänger, die an diese Fahrzeuge angehängt werden.
+- b) Kraftfahrzeuge zur Güterbeförderung, deren zulässiges höchstes Gesamtgewicht 3500 kg übersteigt, sowie für Anhänger, die an diese Fahrzeuge angehängt werden.[^39-3]
+
+<sup>3.</sup> In den innerstaatlichen Rechtsvorschriften sollen die in Absatz 2 genannten Bestimmungen, soweit möglich, auf andere Fahrzeugklassen ausgedehnt werden.[^39-4]
 
 [^39-1]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^39-2]: Fassung gemäss der am 23. März 2016 in Kraft getretene Änd. ([AS 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
@@ -1020,7 +1055,7 @@ Jedes Kraftfahrzeug (Art. 1 Bst. p) und jeder Anhänger im internationalen Verke
 
 <sup>1.</sup> Auf die Dauer von zehn Jahren vom Inkrafttreten dieses Übereinkommens nach Artikel 47 Absatz 1 an sollen die Anhänger im internationalen Verkehr ohne Rücksicht auf ihre höchste zulässige Gesamtmasse selbst dann unter die Vergünstigungen dieses Übereinkommens fallen, wenn sie nicht zugelassen sind.
 
-2.[^40-2] Der Zulassungsschein muss innerhalb der ersten fünf Jahre nach Inkrafttreten den geänderten Bestimmungen von Artikel 35 Absatz 1 entsprechen. Die vor Ablauf dieser Frist ausgestellten Bescheinigungen werden bis zur darin angegebenen Geltungsdauer gegenseitig anerkannt.
+<sup>2.</sup> Der Zulassungsschein muss innerhalb der ersten fünf Jahre nach Inkrafttreten den geänderten Bestimmungen von Artikel 35 Absatz 1 entsprechen. Die vor Ablauf dieser Frist ausgestellten Bescheinigungen werden bis zur darin angegebenen Geltungsdauer gegenseitig anerkannt.[^40-2]
 
 [^40-1]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^40-2]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -1035,7 +1070,7 @@ Jedes Kraftfahrzeug (Art. 1 Bst. p) und jeder Anhänger im internationalen Verke
 - b)[^41-2] die Vertragsparteien verpflichten sich, die erforderlichen Massnahmen zu treffen, dass Führerscheine erst dann ausgestellt werden, wenn die zuständigen Behörden geprüft haben, dass der Führer die geforderten theoretischen Kenntnisse und die praktische Befähigung besitzt. Die Personen, die ermächtigt sind, diese Prüfung durchzuführen, müssen über die notwendigen Qualifikationen verfügen. Der Inhalt und die Modalitäten betreffend die theoretische und die praktische Prüfung sind in den innerstaatlichen Rechtsvorschriften festgelegt;
 - c)[^41-3] die innerstaatlichen Rechtsvorschriften müssen Bedingungen für die Erlangung eines Führerscheins festlegen. Sie müssen insbesondere das Mindestalter zur Erlangung eines Führerscheins, die medizinischen Anforderungen und die Bedingungen für das Bestehen der theoretischen und praktischen Prüfung festlegen.
 - d) keine Bestimmung dieses Übereinkommens ist so auszulegen, als hindere sie die Vertragsparteien oder ihre Teilgebiete, Führerscheine für andere Kraftfahrzeuge und für Motorfahrräder zu verlangen.
-- 2\.[^41-4] a)
+- 2\. a)
 
   Die Vertragsparteien erkennen an:
 
@@ -1044,40 +1079,46 @@ Jedes Kraftfahrzeug (Art. 1 Bst. p) und jeder Anhänger im internationalen Verke
 
 - als gültig, um auf ihrem Gebiet ein Fahrzeug zu führen, das zu den Klassen gehört, für die die Führerscheine gelten, vorausgesetzt, dass die Führerscheine noch gültig sind und von einer anderen Vertragspartei oder einem ihrer Teilgebiete oder von einem Verband ausgestellt worden sind, der dazu von dieser anderen Vertragspartei oder einem ihrer Teilgebiete ermächtigt wurde;
 - b) Führerscheine, die von einer Vertragspartei ausgestellt wurden, werden auf dem Gebiet einer anderen Vertragspartei solange anerkannt, bis der Inhaber seinen ordentlichen Wohnsitz in diesem Gebiet nimmt;
-- c) Dieser Absatz gilt nicht für Lernführerscheine.
+- c) Dieser Absatz gilt nicht für Lernführerscheine.[^41-4]
 
-<sup>3.</sup> [^41-5] Die Gültigkeitsdauer eines nationalen Führerscheins kann durch innerstaatliche Rechtsvorschriften begrenzt werden. Die Gültigkeit eines internationalen Führerscheins endet spätestens drei Jahre nach dem Ausstellungsdatum oder am Tag des Erlöschens der Gültigkeit des nationalen Führerscheins, falls dies früher der Fall ist.
+<sup>3.</sup> Die Gültigkeitsdauer eines nationalen Führerscheins kann durch innerstaatliche Rechtsvorschriften begrenzt werden. Die Gültigkeit eines internationalen Führerscheins endet spätestens drei Jahre nach dem Ausstellungsdatum oder am Tag des Erlöschens der Gültigkeit des nationalen Führerscheins, falls dies früher der Fall ist.[^41-5]
 
-5.[^41-6] Ein internationaler Führerschein darf nur dem Inhaber eines nationalen Führerscheins ausgestellt werden, für dessen Erwerb die in diesem Übereinkommen bestimmten Mindestanforderungen erfüllt wurden. Ein internationaler Führerschein darf nur von der Vertragspartei ausgestellt werden, auf deren Gebiet der Inhaber seinen ordentlichen Wohnsitz hat und die auch den nationalen Führerschein ausgestellt oder einen von einer anderen Vertragspartei ausgestellten Führerschein anerkannt hat; er hat auf diesem Gebiet keine Gültigkeit.
+<sup>4.</sup>
 
-6.[^41-7] Dieser Artikel verpflichtet die Vertragsparteien nicht,
-
-4.[^41-8] Ungeachtet der Absätze 1 und 2:
+Ungeachtet der Absätze 1 und 2:
 
 - a) wenn die Geltung des Führerscheins durch einen besonderen Vermerk davon abhängig gemacht wird, dass der Inhaber sich gewisser Geräte bedienen oder dass das Fahrzeug in bestimmter Weise ausgestattet sein muss, um der Körperbehinderung des Führers Rechnung zu tragen, wird der Führerschein nur dann als gültig anerkannt, wenn diese Auflagen beachtet werden;
 - b) können die Vertragsparteien in ihrem Hoheitsgebiet die Anerkennung jedes Führerscheins verweigern, dessen Inhaber das 18. Lebensjahr nicht vollendet hat;
-- c) können die Vertragsparteien auf ihrem Hoheitsgebiet die Anerkennung von Führerscheinen zum Führen von Kraftfahrzeugen oder miteinander verbundenen Fahrzeuge der Klassen C, D, CE und DE nach den Anhängen 6 und 7 verweigern, wenn der Inhaber dieser Führerscheine das 21. Lebensjahr nicht vollendet hat.
+- c) können die Vertragsparteien auf ihrem Hoheitsgebiet die Anerkennung von Führerscheinen zum Führen von Kraftfahrzeugen oder miteinander verbundenen Fahrzeuge der Klassen C, D, CE und DE nach den Anhängen 6 und 7 verweigern, wenn der Inhaber dieser Führerscheine das 21. Lebensjahr nicht vollendet hat.[^41-6]
+
+<sup>5.</sup> Ein internationaler Führerschein darf nur dem Inhaber eines nationalen Führerscheins ausgestellt werden, für dessen Erwerb die in diesem Übereinkommen bestimmten Mindestanforderungen erfüllt wurden. Ein internationaler Führerschein darf nur von der Vertragspartei ausgestellt werden, auf deren Gebiet der Inhaber seinen ordentlichen Wohnsitz hat und die auch den nationalen Führerschein ausgestellt oder einen von einer anderen Vertragspartei ausgestellten Führerschein anerkannt hat; er hat auf diesem Gebiet keine Gültigkeit.[^41-7]
+
+<sup>6.</sup>
+
+Dieser Artikel verpflichtet die Vertragsparteien nicht:
 
 - a) nationale Führerscheine anzuerkennen, die im Hoheitsgebiet einer anderen Vertragspartei für Personen ausgestellt worden sind, die zum Zeitpunkt dieser Ausstellung ihren ordentlichen Wohnsitz in ihrem Hoheitsgebiet hatten oder deren ordentlicher Wohnsitz seit dieser Ausstellung in ihr Hoheitsgebiet verlegt worden ist;
-- b) nationale Führerscheine anzuerkennen, die für Personen ausgestellt worden sind, die zum Zeitpunkt der Ausstellung ihren ordentlichen Wohnsitz nicht im Hoheitsgebiet hatten, in dem der Führerschein ausgestellt wurde oder deren Wohnsitz seit dieser Ausstellung in ein anderes Hoheitsgebiet verlegt worden ist.
+- b) nationale Führerscheine anzuerkennen, die für Personen ausgestellt worden sind, die zum Zeitpunkt der Ausstellung ihren ordentlichen Wohnsitz nicht im Hoheitsgebiet hatten, in dem der Führerschein ausgestellt wurde oder deren Wohnsitz seit dieser Ausstellung in ein anderes Hoheitsgebiet verlegt worden ist.[^41-8]
 
 <sup>7.</sup> …[^41-9]
 
 [^41-1]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^41-2]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-3]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-4]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-5]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-6]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-7]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-8]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^41-9]: Aufgehoben durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-2]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-3]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-4]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-5]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-6]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-7]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-8]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^41-9]: Aufgehoben durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 #### Art. 42
 
 **Vorübergehende Aufhebung der Geltung der Führerscheine**
 
-<sup>1.</sup> Die Vertragsparteien oder ihre Teilgebiete können einen Führer, der in ihrem Hoheitsgebiet eine Zuwiderhandlung begeht, die nach ihren Rechtsvorschriften den Entzug des Führerscheins zur Folge haben kann, das Recht aberkennen, in ihrem Hoheitsgebiet seinen nationalen oder internationalen Führerschein zu verwenden. In diesem Fall kann die zuständige Behörde der Vertragspartei oder ihres Teilgebiets, die das Recht auf Verwendung des Führerscheins aberkannt hat,
+<sup>1.</sup>
+
+Die Vertragsparteien oder ihre Teilgebiete können einen Führer, der in ihrem Hoheitsgebiet eine Zuwiderhandlung begeht, die nach ihren Rechtsvorschriften den Entzug des Führerscheins zur Folge haben kann, das Recht aberkennen, in ihrem Hoheitsgebiet seinen nationalen oder internationalen Führerschein zu verwenden. In diesem Fall kann die zuständige Behörde der Vertragspartei oder ihres Teilgebiets, die das Recht auf Verwendung des Führerscheins aberkannt hat:
 
 - a) den Führerschein einziehen und ihn bis zum Ablauf der Aberkennungsfrist oder, wenn der Führer ihr Hoheitsgebiet früher verlässt, bis zu seiner Ausreise zurückbehalten;
 - b) die Behörde, die den Führerschein ausgestellt hat oder in deren Namen er ausgestellt wurde, von der Aberkennung benachrichtigen;
@@ -1096,7 +1137,7 @@ Jedes Kraftfahrzeug (Art. 1 Bst. p) und jeder Anhänger im internationalen Verke
 
 <sup>2.</sup> Die Vertragsparteien stellen spätestens fünf Jahre nach Inkrafttreten der neuen Bestimmungen in Anhang 7 ihre internationalen Führerscheine gemäss diesen Bestimmungen aus. Die Gültigkeit von internationalen Führerscheinen, die vor dem Ablauf in Übereinstimmung mit den vorstehenden Bestimmungen in Artikel 41 und 43 sowie Anhang 7 ausgestellt wurden, bestimmt sich nach Artikel 41, Absatz 3.
 
-[^43-1]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^43-1]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 ## Kapitel V Bedingungen für die Zulassung der Fahrräder und Motorfahrräder zum internationalen Verkehr
 
@@ -1215,14 +1256,16 @@ Jeder Staat kann jederzeit danach seine Erklärung durch eine an den Generalsekr
 
 <sup>6.</sup> Jede Vertragspartei, die nach Absatz 2 oder 4 einen Vorbehalt gemacht oder eine Erklärung abgegeben hat, kann diese jederzeit durch eine an den Generalsekretär gerichtete Notifikation zurückziehen.
 
-<sup>7.</sup> Jeder Vorbehalt nach Absatz 5
+<sup>7.</sup>
+
+Jeder Vorbehalt nach Absatz 5:
 
 - a) ändert für die Vertragspartei, die diesen Vorbehalt gemacht hat, die Bestimmungen des Übereinkommens, auf die sich der Vorbehalt bezieht, nur in den Grenzen des Vorbehalts;
 - b) ändert diese Bestimmungen in den gleichen Grenzen für die anderen Vertragsparteien hinsichtlich ihrer Beziehungen zu der Vertragspartei, die den Vorbehalt notifiziert hat.
 
 #### Art. 55
 
-Ausser den nach den Artikeln 49 und 54 vorgesehenen Erklärungen, Notifikationen und Mitteilungen notifiziert der Generalsekretär allen in Artikel 45 Absatz 1 bezeichneten Staaten
+Ausser den nach den Artikeln 49 und 54 vorgesehenen Erklärungen, Notifikationen und Mitteilungen notifiziert der Generalsekretär allen in Artikel 45 Absatz 1 bezeichneten Staaten:
 
 - a) die Unterzeichnungen, Ratifikationen und Beitritte nach Artikel 45;
 - b) die Notifikationen und Erklärungen nach Artikel 45 Absatz 4 und Artikel 46;
@@ -1241,15 +1284,15 @@ Anhang 1[^t-2]
 
 ## Abweichungen von der Verpflichtung zur Zulassung von Kraftfahrzeugen (Artikel 1 Buchstabe p) und Anhängern zum internationalen Verkehr
 
-[^t-2]: Bereinigt gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-2]: Bereinigt gemäss Änd. vom 28. Sept. 2004 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)) und 9. Aug. 2024, in Kraft seit 9. Febr. 2025 ([AS 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 \1. Die Vertragsparteien brauchen in ihrem Hoheitsgebiet Kraftfahrzeuge (Art. 1 Bst. p), Anhänger und miteinander verbundene Fahrzeuge, deren Gesamtmasse, Achslasten oder Abmessungen die in ihren innerstaatlichen Rechtsvorschriften für die in ihrem Hoheitsgebiet zugelassenen Fahrzeuge festgesetzten Grenzen übersteigen, zum internationalen Verkehr nicht zuzulassen. Die Vertragsparteien, in deren Hoheitsgebiet sich Schwerfahrzeuge im internationalen Verkehr befinden, bemühen sich, regionale Vereinbarungen abzuschliessen, um den Fahrzeugen und den miteinander verbundenen Fahrzeugen, deren Masse und Masse die in diesen Vereinbarungen festgelegten Werte nicht übersteigen, im internationalen Verkehr die Benutzung der Strassen des Gebietes, mit Ausnahme der Nebenstrassen, zu gestatten.
 
-\2. Für die Anwendung des Absatzes 1 gilt nicht als Überschreitung der höchsten zulässigen Breite das Hinausragen
+\2. Für die Anwendung des Absatzes 1 gilt nicht als Überschreitung der höchsten zulässigen Breite das Hinausragen:
 
-- a) der Luftreifen in der Nähe ihrer Berührungsfläche mit dem Boden sowie der Verbindungen der Druckanzeiger der Luftreifen;
+- a) der Luftreifen in der Nähe ihrer Berührungsfläche mit dem Boden sowie der Verbindungen der Reifendruck-Überwachungssysteme;
 - b) der an den Rädern angebrachten Gleitschutzvorrichtungen;
-- c) der Rückspiegel, die in beiden Richtungen unter mässigem Druck nachgeben können, so dass sie dann nicht mehr über die höchste zulässige Breite hinausragen;
+- c) der Rückspiegel / Systeme für indirekte Sicht, die in beiden Richtungen unter mässigem Druck nachgeben können, sodass sie dann nicht mehr über die höchste zulässige Breite hinausragen;
 - d) der seitlichen Fahrtrichtungsanzeiger und der Begrenzungsleuchten, wenn das Hinausragen nicht mehr als einige Zentimeter beträgt;
 - e) der an der Ladung angebrachten Zollsiegel und der Schutz‑ und Befestigungsvorrichtungen für diese Zollsiegel.
 
@@ -1269,7 +1312,7 @@ Anhang 1[^t-2]
 
 7<sup>bis</sup>. …[^annex1-lvlu1-1]
 
-\8. Die Vertragsparteien brauchen in ihrem Hoheitsgebiet keine Kraftfahrzeuge (Art. 1 Bst. p) zum internationalen Verkehr zuzulassen, die mit Scheinwerfern für asymmetrisches Abblendlicht versehen sind, wenn deren Einstellung nicht der Verkehrsrichtung in ihrem Lande entspricht.
+\8. Die Vertragsparteien brauchen in ihrem Hoheitsgebiet keine Kraftfahrzeuge zum internationalen Verkehr zuzulassen, die mit Scheinwerfern für asymmetrisches Abblendlicht versehen sind, wenn deren Einstellung nicht der Verkehrsrichtung in ihrem Lande entspricht.
 
 \9. Die Vertragsparteien brauchen in ihrem Hoheitsgebiet keine Kraftfahrzeuge (Art. 1 Bst. p) oder damit verbundene Anhänger zum internationalen Verkehr zuzulassen, die ein anderes als die nach Artikel 37 vorgeschriebenen Unterscheidungszeichen führen. Hingegen dürfen sie einem Fahrzeug die Zulassung nicht verweigern, das in Übereinstimmung mit diesem Übereinkommen ein vom Kennzeichen unabhängiges Unterscheidungszeichen trägt, welches ein in das Kennzeichen einbezogenes Unterscheidungszeichen ersetzt, das nicht im Einklang mit diesem Übereinkommen ist.
 
@@ -1279,7 +1322,7 @@ Anhang 2[^t-3]
 
 ## Kennzeichen der Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger im internationalen Verkehr
 
-[^t-3]: Bereinigt gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)) und der Änd. vom 9. März 2015, in Kraft seit 19. Sept. 2016 ([AS 2016 2299](https://fedlex.data.admin.ch/eli/oc/2016/372)).
+[^t-3]: Bereinigt gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)) und der Änd. vom 9. März 2015, in Kraft seit 19. Sept. 2016 ([AS 2016 2299](https://fedlex.data.admin.ch/eli/oc/2016/372)).
 
 \1. Das in den Artikeln 35 und 36 erwähnte Kennzeichen muss sich entweder aus Ziffern oder aus Buchstaben oder aus Ziffern und Buchstaben zusammensetzen. Es sind arabische Ziffern und lateinische grosse Buchstaben zu verwenden. Andere Ziffern oder Buchstaben sind zulässig, wenn das Kennzeichen in arabischen Ziffern und lateinischen grossen Buchstaben wiederholt wird.
 
@@ -1295,7 +1338,7 @@ Anhang 3[^t-4]
 
 ## Unterscheidungszeichen der Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger im internationalen Verkehr
 
-[^t-4]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-4]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 \1. Das Unterscheidungszeichen nach Artikel 37 muss sich aus einem bis drei lateinischen grossen Buchstaben zusammensetzen.
 
@@ -1347,7 +1390,7 @@ Anhang 5[^t-5]
 
 ## Technische Anforderungen an Kraftfahrzeuge und Anhänger
 
-[^t-5]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^t-5]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) und der Änd. vom 9. Aug. 2024, in Kraft seit 9. Febr. 2025 ([AS 2025 129](https://fedlex.data.admin.ch/eli/oc/2025/129)).
 
 \1. Unbeschadet des Artikels 3 Absatz 2 Buchstabe a und des Artikels 39 Absatz 1 kann jede Vertragspartei für Kraftfahrzeuge und Anhänger, die sie entsprechend ihren innerstaatlichen Rechtsvorschriften zulässt, Vorschriften erlassen, die die Bestimmungen dieses Anhangs ergänzen oder verschärfen. Jedes Fahrzeug im internationalen Verkehr muss den technischen Vorschriften genügen, die bei seiner ersten Inbetriebnahme in seinem Zulassungsland gelten.
 
@@ -1382,7 +1425,7 @@ A. Bremsen der Kraftfahrzeuge
 
 \9. Die Betriebsbremse und die Feststellbremse müssen auf Bremsflächen wirken, die durch ausreichend widerstandsfähige Teile dauerhaft mit den Rädern verbunden sind.
 
-\10. Keine Bremsfläche darf von den Rädern getrennt werden können. Eine solche Trennung ist jedoch für einige der Bremsflächen zulässig unter der Bedingung, dass
+\10. Keine Bremsfläche darf von den Rädern getrennt werden können. Eine solche Trennung ist jedoch für einige der Bremsflächen zulässig unter der Bedingung, dass:
 
 - a) sie nur kurz, zum Beispiel während des Gangwechsels, erfolgt;
 - b) sie, soweit es sich um die Feststellbremse handelt, nicht ohne Betätigung durch den Führer möglich ist;
@@ -1396,7 +1439,7 @@ A. Bremsen der Kraftfahrzeuge
 
 B. Bremsen der Anhänger
 
-\11. Unbeschadet des Absatzes 17 Buchstabe c muss jeder Anhänger – ausgenommen leichte Anhänger – Bremsen haben, und zwar
+\11. Unbeschadet des Absatzes 17 Buchstabe c muss jeder Anhänger – ausgenommen leichte Anhänger – Bremsen haben, und zwar:
 
 - a) eine Betriebsbremse, mit der das Fahrzeug bei jeder Beladung auf allen Steigungen und Gefällen der von ihm befahrenen Strasse verlangsamt und sicher, schnell und wirksam zum Stillstand gebracht werden kann;
 - b) eine Feststellbremse, mit der das Fahrzeug bei jeder Beladung auf einer erheblichen Steigung oder einem erheblichen Gefälle im Stillstand gehalten werden kann, wobei die wirksamen Bremsflächen auf rein mechanische Weise in der Bremsstellung gehalten werden. Diese Bestimmung gilt nicht für Anhänger, die nur mittels Werkzeugen vom Zugfahrzeug getrennt werden können, vorausgesetzt, dass die Anforderungen an die Feststellbremse von den miteinander verbundenen Fahrzeugen erfüllt werden.
@@ -1421,173 +1464,255 @@ C. Bremsen der miteinander verbundenen Fahrzeuge
 
 D. Bremsen der Krafträder
 
-- 18\.a) Jedes Kraftrad muss zwei Bremsen haben, von denen die eine mindestens auf das oder die Hinterräder und die andere mindestens auf das oder die Vorderräder wirkt; hat ein Kraftrad einen Beiwagen, so ist die Bremsung des Beiwagenrades nicht erforderlich. Mit diesen Bremsen muss das Fahrzeug bei jeder Beladung auf allen Steigungen und Gefällen der von ihm befahrenen Strasse verlangsamt und sicher, schnell und wirksam angehalten werden können;
-- b) ausser den unter Buchstabe a vorgesehenen Bremsen müssen Krafträder mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern eine Absatz 5 Buchstabe b entsprechende Feststellbremse haben.
+- 18\. a) Jedes Kraftrad muss zwei Bremsen haben, von denen die eine mindestens auf das oder die Hinterräder und die andere mindestens auf das oder die Vorderräder wirkt; hat ein Kraftrad einen Beiwagen, so ist die Bremsung des Beiwagenrades nicht erforderlich. Mit diesen Bremsen muss das Fahrzeug bei jeder Beladung auf allen Steigungen und Gefällen der von ihm befahrenen Strasse verlangsamt und sicher, schnell und wirksam angehalten werden können;
+- b) anstelle der unter Buchstabe a vorgesehenen Bremsen können Krafträder mit einem Bremssystem ausgestattet sein, welches die Bremsen an allen Rädern auslöst und aus zwei oder mehr Subsystemen besteht, die über eine einzige Vorrichtung betätigt werden, und welches so konzipiert ist, dass das Versagen eines Subsystems das Funktionieren aller anderen Subsysteme nicht verhindert;
+- c) ausser den unter Buchstabe a vorgesehenen Bremsen müssen Krafträder mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern eine Absatz 5 Buchstabe b entsprechende Feststellbremse haben.
 
 ### Kapitel II
 
 Beleuchtungs‑ und lichttechnische Einrichtungen für Fahrzeuge
 
+### A. Begriffsbestimmungen
+
 \19. Im Sinne dieses Kapitels bedeuten:
 
-- – «Scheinwerfer für Fernlicht» die Scheinwerfer, die der Beleuchtung der Strasse vor dem Fahrzeug auf grosse Entfernung dienen;
-- – «Scheinwerfer für Abblendlicht» die Scheinwerfer, die der Beleuchtung der Strasse vor dem Fahrzeug dienen, ohne entgegenkommende Führer und andere Verkehrsteilnehmer in unzumutbarer Weise zu blenden oder zu belästigen;
-- – «Begrenzungsleuchten» die Leuchten, die der Kenntlichmachung des Fahrzeugs und seiner Breite nach vorn dienen;
-- – «Schlussleuchten» die Leuchten, die der Kenntlichmachung des Fahrzeugs und seiner Breite nach hinten dienen;
-- – «Bremsleuchten» die Leuchten, die dazu dienen, anderen Verkehrsteilnehmern hinter dem Fahrzeug anzuzeigen, dass sein Führer die Betriebsbremse betätigt;
-- – «Nebelscheinwerfer» die Scheinwerfer, die dazu dienen, die Beleuchtung der Strasse bei dichtem Nebel, Schneefall, starkem Regen oder ähnlichen Bedingungen zu verbessern;
-- – «Nebelschlussleuchten» die Leuchten, die dazu dienen, das Fahrzeug bei dichtem Nebel, Schneefall, starkem Regen oder ähnlichen Bedingungen nach hinten besser kenntlich zu machen;
-- – «Rückfahrscheinwerfer» die Scheinwerfer, die dazu dienen, die Strasse hinter dem Fahrzeug zu beleuchten und andere Verkehrsteilnehmer davor zu warnen, dass das Fahrzeug rückwärts fährt oder im Begriff ist, rückwärts zu fahren;
-- – «Blinkleuchten» die Leuchten, die dazu dienen, anderen Verkehrsteilnehmern anzuzeigen, dass der. Führer seine Fahrtrichtung nach rechts oder links ändern will;
-- – «Parkleuchten» die Leuchten, die dazu dienen, das Vorhandensein eines parkenden Fahrzeugs anzuzeigen; sie können die Begrenzungsleuchten und die Schlussleuchten ersetzen;
-- – «Markierungsleuchten» die Leuchten, die nahe an den äussersten Punkten der Gesamtbreite des Fahrzeugs und so hoch wie möglich am Fahrzeug angebaut sind und dazu dienen, die Gesamtbreite deutlich anzuzeigen. Diese Leuchten sollen bei bestimmten Fahrzeugen und Anhängern die Begrenzungsleuchten und die Schlussleuchten ergänzen und besondere Aufmerksamkeit auf die Grösse des Fahrzeugs lenken;
-- – «Warnblinklicht» das Licht, das durch gleichzeitiges Betätigen aller Blinkleuchten abgegeben wird;
-- – «Seitenbegrenzungsleuchten» die Leuchten, die an der Längsseite des Fahrzeugs angebracht und dazu bestimmt sind, die Anwesenheit des Fahrzeugs von der Seite her gesehen anzuzeigen;
-- – «Warnleuchten» die Leuchten, die dazu dienen, entweder ein bevorrechtigtes Fahrzeug oder ein Fahrzeug bzw. eine Gruppe von Fahrzeugen anzuzeigen, deren Anwesenheit auf der Strasse von den anderen Verkehrsteilnehmern besondere Vorsichtsmassnahmen erfordert, insbesondere Fahrzeugkolonnen, Fahrzeuge mit aussergewöhnlichen Abmessungen und Fahrzeuge oder Maschinen für Strassenbau oder Instandhaltung;
-- – «Beleuchtungseinrichtungen für das hintere Kennzeichen» eine Einrichtung, die dazu dient, das hintere Kennzeichen zu beleuchten; sie kann aus verschiedenen optischen Teilen zusammengesetzt sein;
-- – «Scheinwerfer für Tagesfahrlicht» die Scheinwerfer, die dazu dienen, ein fahrendes Fahrzeug tagsüber nach vorn auffälliger zu machen;
-- – «Rückstrahler» die Vorrichtungen, die der Kenntlichmachung eines Fahrzeugs durch Rückstrahlung des Lichtes dienen, das von einer nicht mit dem Fahrzeug verbundenen Lichtquelle herrührt;
-- – «Lichtaustrittsflächen» die rechtwinklige Projektion auf eine lotrechte quer zur wirksamen sichtbaren Austrittsfläche des ausgestrahlten Lichts liegende Ebene. Als wirksame Fläche eines Rückstrahlers. bezeichnet man die sichtbare Rückstrahlfläche.
+- a) «Scheinwerfer für Fernlicht» Scheinwerfer, die der Beleuchtung der Strasse vor dem Fahrzeug auf grosse Entfernung dienen;
+- b) «Scheinwerfer für Abblendlicht» Scheinwerfer, die der Beleuchtung der Strasse vor dem Fahrzeug dienen, ohne entgegenkommende Führer und andere Verkehrsteilnehmer in unzumutbarer Weise zu blenden oder zu belästigen;
+- c) «adaptive Frontbeleuchtungssysteme» Beleuchtungseinrichtungen, die Lichtbündel mit unterschiedlichen Eigenschaften für die automatische Anpassung an verschiedene Anwendungsbedingungen des Abblendlichts und/oder des Fernlichts erzeugen;
+- d) «Abbiegescheinwerfer» Leuchten, die dazu dienen, jenen Teil der Strasse ergänzend auszuleuchten, der sich im Nahbereich der vorderen Ecke des Fahrzeugs an der Seite befindet, zu der das Fahrzeug beim Abbiegen gelenkt wird;
+- e) «Kurvenlicht» Beleuchtungsfunktionen für eine bessere Fahrbahnausleuchtung in Kurven;
+- f) «Begrenzungsleuchten» Leuchten, die der Kenntlichmachung des Fahrzeugs und seiner Breite nach vorn dienen;
+- g) «Schlussleuchten» Leuchten, die der Kenntlichmachung des Fahrzeugs und seiner Breite nach hinten dienen;
+- h) «Bremsleuchten» Leuchten, die dazu dienen, anderen Verkehrsteilnehmern hinter dem Fahrzeug anzuzeigen, dass die Längsbewegung des Fahrzeugs absichtlich verzögert wird;
+- i) «Nebelscheinwerfer» Leuchten, die dazu dienen, die Beleuchtung der vor dem Fahrzeug liegenden Strasse bei Nebel oder anderen Verhältnissen mit verminderter Sicht zu verbessern;
+- j) «Nebelschlussleuchten» Leuchten, die dazu dienen, das Fahrzeug bei Nebel oder anderen Verhältnissen mit verminderter Sicht nach hinten besser kenntlich zu machen;
+- k) «Rückfahrscheinwerfer» Leuchten, die dazu dienen, die Strasse hinter dem Fahrzeug zu beleuchten und andere Verkehrsteilnehmer davor zu warnen, dass das Fahrzeug rückwärts fährt oder im Begriff ist, rückwärts zu fahren, oder, falls es sich um zusätzliche nicht vorgeschriebene Rückfahrscheinwerfer handelt, bei langsamen Fahrmanövern den Bereich seitlich des Fahrzeugs zu beleuchten;
+- l) «Manövrierscheinwerfer» Leuchten, die dazu dienen, den Bereich seitlich des Fahrzeugs als Hilfe bei langsamen Fahrmanövern zusätzlich zu beleuchten;
+- m) «Fahrtrichtungsanzeiger» Leuchten, die dazu dienen, anderen Verkehrsteilnehmern anzuzeigen, dass der Führer seine Fahrtrichtung nach rechts oder links ändern will;
+- n) «Parkleuchten» Leuchten, die dazu dienen, das Vorhandensein eines parkenden Fahrzeugs in einer Ortschaft anzuzeigen. Sie können in diesem Fall die Begrenzungsleuchten und die Schlussleuchten ersetzen;
+- o) «Markierungsleuchten» Leuchten, die nahe an den äussersten Punkten des Fahrzeugs und so hoch wie möglich am Fahrzeug angebaut sind und dazu dienen, die Gesamtbreite deutlich anzuzeigen. Diese Leuchten sollen bei bestimmten Kraftfahrzeugen und Anhängern die Begrenzungsleuchten und die Schlussleuchten ergänzen und besondere Aufmerksamkeit auf die Umrisse des Fahrzeugs lenken;
+- p) «Warnblinklicht» Licht, das durch gleichzeitiges Betätigen aller Fahrtrichtungsanzeiger des Fahrzeugs abgegeben wird;
+- q) «Seitenmarkierungsleuchten» Leuchten, die dazu dienen, das Vorhandensein des Fahrzeugs zur Seite hin anzuzeigen;
+- r) «besondere Warnleuchten» Leuchten, die dazu dienen, entweder ein bevorrechtigtes Fahrzeug oder ein Fahrzeug bzw. eine Gruppe von Fahrzeugen anzuzeigen, deren Anwesenheit auf der Strasse für die anderen Verkehrsteilnehmer eine Gefahr oder eine Behinderung darstellen kann;
+- s) «Beleuchtungseinrichtung für das hintere Kennzeichenschild» eine Einrichtung, die dazu dient, den Anbringungsort für das hintere Kennzeichenschild zu beleuchten; sie kann aus verschiedenen optischen Teilen zusammengesetzt sein;
+- t) «Scheinwerfer für Tagesfahrlicht» Leuchten, die dazu dienen, bei Tag die Sichtbarkeit eines fahrenden Fahrzeugs von vorn zu verbessern;
+- u) «Ein- und Ausstiegsleuchten» Leuchten, die für eine zusätzliche Beleuchtung sorgen, um den Ein- und Ausstieg von Fahrer und Mitfahrer sowie die Be- und Entladung des Fahrzeugs zu erleichtern;
+- v) «Rückstrahler» Einrichtungen, die der Kenntlichmachung eines Fahrzeugs durch Rückstrahlung des Lichts dienen, das von einer nicht mit dem Fahrzeug verbundenen Lichtquelle herrührt;
+- w) «auffällige Markierungen» Einrichtungen, die dazu dienen, die Erkennbarkeit eines Fahrzeugs von der Seite oder von hinten (oder, bei Anhängern, zusätzlich von vorn) durch Reflexion von Licht zu erhöhen, das von einer nicht mit dem Fahrzeug verbundenen Lichtquelle ausgeht;
+- x) «leuchtende Fläche» die Parallelprojektion einer Leuchte auf eine zu ihrer Bezugsachse senkrecht liegende Ebene, die die Aussenseite der Lichtaustrittsfläche der Leuchte berührt. Bei einem Rückstrahler wird die leuchtende Fläche durch die Ebenen begrenzt, die die äusseren Teile des optischen Systems des Rückstrahlers berühren.
 
-\20. Die in diesem Kapitel angeführten Farben des Lichtes müssen soweit wie möglich den in der Anlage dieses Anhangs angeführten Begriffsbestimmungen entsprechen.
+### B. Technische Vorschriften
 
-\21. Jedes Kraftfahrzeug (Art. 1 Bst. p), das auf ebener Strasse eine Geschwindigkeit von 40 km (25 Meilen) in der Stunde überschreiten kann – ausgenommen Krafträder – muss vom eine gerade Zahl von Scheinwerfern für weisses oder hellgelbes Fernlicht haben, die nachts bei klarem Wetter die Strasse … wirksam beleuchten können. Die äusseren Ränder der Lichtaustrittsflächen der Scheinwerfer für Fernlicht dürfen in keinem Falle näher der breitesten Stelle des Fahrzeugumrisses liegen als die äusseren Ränder der Lichtaustrittsflächen der Scheinwerfer für Abblendlicht.
+\20. Grundsätze
 
-\22. Jedes Kraftfahrzeug, das auf ebener Strasse eine Geschwindigkeit von 10 km (6 Meilen) in der Stunde überschreiten kann – ausgenommen Krafträder – muss vorn eine gerade Zahl von Scheinwerfern für weisses oder hellgelbes Abblendlicht haben, die nachts bei klarem Wetter die Strasse vor dem Fahrzeug wirksam beleuchten können. Ein Kraftfahrzeug muss so ausgerüstet sein, dass nicht mehr als zwei Scheinwerfer für Abblendlicht gleichzeitig eingeschaltet werden können. Die Scheinwerfer für Abblendlicht müssen so eingestellt sein, dass sie der Begriffsbestimmung in Absatz 19 entsprechen.
+20.1 Die Farben des Lichts der in diesem Kapitel aufgeführten Beleuchtungseinrichtungen müssen so weit wie möglich den Begriffsbestimmungen der internationalen Rechtsvorschriften für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Kraftfahrzeuge eingebaut und/oder dafür verwendet werden können[^annex5-lvlu1-chapII-lvlB-1]\*, entsprechen.
 
-\23. Jedes Kraftfahrzeug – ausgenommen zweirädrige Krafträder ohne Beiwagen – muss vorn mit zwei Begrenzungsleuchten für weisses Licht ausgerüstet sein. Jedoch ist hellgelbes Licht für Begrenzungsleuchten zugelassen, die in Scheinwerfer für hellgelbes Fern- oder Abblendlicht eingebaut sind. Diese Begrenzungsleuchten müssen, wenn sie die einzigen eingeschalteten vorderen Leuchten des Fahrzeugs sind, nachts bei klarem Wetter sichtbar sein, ohne andere Verkehrsteilnehmer in unzumutbarer Weise zu blenden oder zu belästigen.
+20.2 Eine bestimmte Beleuchtungsfunktion kann durch mehr als eine Beleuchtungseinrichtung sichergestellt werden.
 
-- 24\.a) Jedes Kraftfahrzeug – ausgenommen zweirädrige Krafträder ohne Beiwagen – muss hinten eine gerade Zahl von roten Schlussleuchten haben, die nachts bei klarem Wetter sichtbar sind, ohne andere Verkehrsteilnehmer in unzumutbarer Weise zu blenden oder zu belästigen.
-- b) Jeder Anhänger muss hinten eine gerade Zahl von roten Schlussleuchten haben, die nachts bei klarem Wetter sichtbar sind, ohne andere Verkehrsteilnehmer in unzumutbarer Weise zu blenden oder zu belästigen. Jedoch brauchen Anhänger, deren Gesamtbreite 0,80 m nicht übersteigt, nur eine dieser Leuchten zu haben, wenn sie mit einem zweirädrigen Kraftrad ohne Beiwagen verbunden sind.
+20.3. Bei einem Fahrzeug muss das Licht der Beleuchtungseinrichtungen, die dieselbe Aufgabe haben und in dieselbe Richtung wirken, dieselbe Farbe haben.
 
-\25. Kraftfahrzeuge und Anhänger, die hinten ein Kennzeichen führen, müssen eine Beleuchtungseinrichtung für das Kennzeichen haben, die das Kennzeichen nachts bei klarem Wetter lesbar macht.
+Ausser bei Fahrzeugen, deren äussere Form asymmetrisch ist, müssen in gerader Zahl vorhandene Scheinwerfer, Leuchten und Rückstrahler symmetrisch zur Längsmittelebene des Fahrzeugs angeordnet sein. Paarweise zusammengehörende Beleuchtungseinrichtungen müssen nahezu die gleiche Lichtstärke haben. Diese Bestimmungen gelten nicht für adaptive Frontbeleuchtungssysteme.
 
-\26. Bei jedem Kraftfahrzeug – einschliesslich der Krafträder – und bei allen miteinander verbundenen Fahrzeugen, bestehend aus einem Kraftfahrzeug und einem oder mehreren Anhängern, muss die elektrische Schaltung so sein, dass die Scheinwerfer für Fernlicht, für Abblendlicht, die Nebelscheinwerfer, die Begrenzungsleuchten und die Kennzeichenbeleuchtung nach Absatz 25 nur zusammen mit den am weitesten hinten gelegenen Schlussleuchten des Kraftfahrzeugs oder der miteinander verbundenen Fahrzeuge eingeschaltet werden können.
+20.4. Beleuchtungseinrichtungen verschiedener Art und, vorbehaltlich der anderen Absätze dieses Kapitels, Beleuchtungseinrichtungen zusammen mit Rückstrahlern dürfen in einer Einrichtung zusammen‑ oder ineinandergebaut werden, wenn jede Beleuchtungseinrichtung und jeder Rückstrahler den anwendbaren Bestimmungen dieses Anhangs entspricht.
 
-Die Nebelschlussleuchten dürfen nur zusammen mit den Scheinwerfern für Fernlicht, für Abblendlicht oder den Nebelscheinwerfern eingeschaltet werden können.
+\21. Fernlicht, Abblendlicht, adaptives Frontbeleuchtungssystem und leuchtende Fläche
 
-Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wenn diese zur Abgabe von optischen Warnzeichen nach Artikel 32 Absatz 3 verwendet werden. Ausserdem muss die elektrische Schaltung so sein, dass die Begrenzungsleuchten des Kraftfahrzeugs immer zusammen mit den Scheinwerfern für Abblendlicht oder für Fernlicht oder den Nebelscheinwerfern eingeschaltet sind.
+21.1 Jedes Kraftfahrzeug, dessen bauartbedingte Höchstgeschwindigkeit 40 km (25 Meilen) in der Stunde überschreitet, ausgenommen Krafträder, muss vorn eine gerade Zahl von Scheinwerfern für weisses Fernlicht oder von entsprechenden Elementen eines adaptiven Frontbeleuchtungssystems haben.
 
-\27. Jedes Kraftfahrzeug – ausgenommen zweirädrige Krafträder ohne Beiwagen – muss hinten mindestens zwei rote, nicht dreieckige Rückstrahler haben. Die Rückstrahler müssen, wenn sie vom Fernlicht, vom Abblendlicht oder von den Nebelscheinwerfern eines anderen Fahrzeugs getroffen werden, nachts bei klarem Wetter für den Führer dieses anderen Fahrzeugs sichtbar sein.
+21.2 Jedes Kraftfahrzeug, dessen bauartbedingte Höchstgeschwindigkeit 10 km (6 Meilen) in der Stunde überschreitet, ausgenommen Krafträder, muss vorn zwei Scheinwerfer für weisses Abblendlicht oder Elemente eines adaptiven Frontbeleuchtungssystems haben.
 
-\28. Jeder Anhänger muss hinten mindestens zwei rote Rückstrahler haben. Diese Rückstrahler müssen die Form eines gleichseitigen Dreiecks haben, von dem eine Spitze nach oben zeigt und eine Seite waagerecht liegt; im Dreieck darf keine Beleuchtungseinrichtung sein. Diese Rückstrahler müssen den Sichtbarkeitsbestimmungen nach Absatz 27 genügen. Jedoch brauchen Anhänger, deren Gesamtbreite 0,80 m nicht übersteigt, nur einen Rückstrahler zu haben, wenn sie mit einem zweirädrigen Kraftrad ohne Beiwagen verbunden sind.
+21.3. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die Motorfahrräder von allen oder einem Teile dieser Vorschrift zu befreien:
 
-\29. Jeder Anhänger muss vorn zwei weisse, nicht dreieckige Rückstrahler haben. Diese Rückstrahler müssen den … Sichtbarkeitsbestimmungen nach Absatz 27 genügen.
+- a) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen einen oder zwei Scheinwerfer für weisses Abblendlicht haben;
+- b) kann jedes zweirädrige Kraftrad mit oder ohne Beiwagen, dessen bauartbedingte Höchstgeschwindigkeit 40 km (25 Meilen) in der Stunde überschreitet, zusätzlich zu den Scheinwerfern für Abblendlicht mindestens einen Scheinwerfer für weisses Fernlicht haben;
+- c) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen, dessen bauartbedingte Höchstgeschwindigkeit 50 km (31 Meilen) in der Stunde überschreitet, zusätzlich zu den Scheinwerfern für Abblendlicht einen oder zwei Scheinwerfer für weisses Fernlicht haben.
 
-\30. Anhänger, deren Breite 1,60 m übersteigt, müssen vorn zwei Begrenzungsleuchten haben. Diese müssen möglichst nahe am Seitenrand des Anhängers angebracht sein.
+21.4 Die äusseren Ränder der leuchtenden Fläche der Scheinwerfer für Fernlicht dürfen in keinem Falle näher der breitesten Stelle des Fahrzeugumrisses liegen als die äusseren Ränder der leuchtenden Fläche der Scheinwerfer für Abblendlicht.
 
-\31. Jedes Kraftfahrzeug, ausgenommen Krafträder mit oder ohne Beiwagen, das auf ebener Strasse eine Geschwindigkeit von 25 km (15 Meilen) in der Stunde überschreiten kann, muss hinten mindestens zwei rote Bremsleuchten haben, deren Lichtstärke deutlich grösser ist als die der Schlussleuchten. Das gilt auch für jeden Anhänger, der das letzte von miteinander verbundenen Fahrzeugen ist.
+\22. Begrenzungsleuchten und Schlussleuchten
 
-\32. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die Motorfahrräder von allen oder einem Teile dieser Vorschrift zu befreien:
+22.1 Jedes Kraftfahrzeug, ausgenommen zweirädrige Krafträder ohne Beiwagen, muss vorne zwei weisse oder gelbe Begrenzungsleuchten haben.
 
-- a) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen einen oder zwei Scheinwerfer für Abblendlicht haben, die den Farb- und Sichtbarkeitsbestimmungen nach Absatz 22 genügen;
-- b) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen, das auf ebener Strasse eine Geschwindigkeit von 40 km (25 Meilen) in der Stunde überschreiten kann, zusätzlich zum Scheinwerfer für Abblendlicht mindestens einen Scheinwerfer für Fernlicht haben, das den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 21 genügt. Haben solche Krafträder mehr als einen Scheinwerfer für Fernlicht, so müssen diese so nahe wie möglich beieinander liegen;
-- c) …
+22.2 Anhänger, deren Breite 1,60 m übersteigt, müssen vorne zwei weisse Begrenzungsleuchten haben.
 
-\33. Jedes zweirädrige Kraftrad ohne Beiwagen darf vorn eine oder zwei Begrenzungsleuchten haben, deren Licht den Farb‑ und Sicherheitsbestimmungen nach Absatz 23 genügt. Haben solche Krafträder zwei Begrenzungsleuchten, so müssen diese so nahe wie möglich beieinander liegen. …
+22.3 Jedes zweirädrige Kraftrad ohne Beiwagen kann vorne eine oder zwei weisse oder gelbe Begrenzungsleuchten haben.
 
-\34. Jedes zweirädrige Kraftrad ohne Beiwagen muss hinten eine Schlussleuchte haben, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 24 Buchstabe a genügt.
+22.4
 
-\35. Jedes zweirädrige Kraftrad ohne Beiwagen muss hinten einen nicht dreieckigen Rückstrahler haben, der den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 27 genügt.
+- a) Jedes Kraftfahrzeug, ausgenommen zweirädrige Krafträder ohne Beiwagen, muss hinten eine gerade Zahl von roten Schlussleuchten haben.
+- b) Jeder Anhänger muss hinten eine gerade Zahl von roten Schlussleuchten haben.
 
-\36. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die zweirädrigen Motorfahrräder mit oder ohne Beiwagen von dieser Vorschrift zu befreien, muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen eine Bremsleuchte haben, die den Bestimmungen nach Absatz 31 genügt.
+22.5 Jedes zweirädrige Kraftrad ohne Beiwagen muss hinten eine oder zwei rote Schlussleuchten haben.
 
-\37. Unbeschadet der Bestimmungen über die Beleuchtungseinrichtungen und Rückstrahler für Krafträder ohne Beiwagen muss jeder mit einem zweirädrigen Kraftrad verbundene Beiwagen vorn eine Begrenzungsleuchte haben, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 23 genügt, und hinten eine Schlussleuchte, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 24 Buchstabe a genügt, sowie einen Rückstrahler, der den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 27 genügt. Die elektrische Schaltung muss so sein, dass die Begrenzungsleuchte und die Schlussleuchte des Kraftrades gleichzeitig eingeschaltet sind. …
+\23. Beleuchtungseinrichtung für das hintere Kennzeichenschild
 
-\38. Kraftfahrzeuge (Art. 1 Bst. p) mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern, die nach Artikel 1 Buchstaben den Krafträdern gleichgestellt sind, müssen die in den Absätzen 21, 22, 23, 24 Buchstabe a, 27 und 31 vorgeschriebenen Einrichtungen haben. Jedoch genügen bei einem Elektrofahrzeug, dessen Breite 1,30 m nicht übersteigt und dessen Geschwindigkeit 40 km (25 Meilen) in der Stunde nicht überschreitet, ein einziger Scheinwerfer für Fernlicht und ein einziger Scheinwerfer für Abblendlicht.
+Bei jedem Kraftfahrzeug oder Anhänger muss das hintere Kennzeichenschild bzw. die hintere Nummer mittels einer Beleuchtungseinrichtung für das hintere Kennzeichenschild beleuchtet werden.
 
-\39. Jedes Kraftfahrzeug – ausgenommen Motorfahrräder – und jeder Anhänger muss eine gerade Zahl von fest am Fahrzeug angebrachten Blinkleuchten für gelbes Licht haben, die bei Tag und bei Nacht für die Verkehrsteilnehmer sichtbar sind, für welche die Bewegung des Fahrzeugs von Bedeutung ist.
+\24. Nebelscheinwerfer, Nebelschlussleuchten und leuchtende Fläche
 
-\40. Haben Kraftfahrzeuge Nebelscheinwerfer, so dürfen diese nur weisses oder hellgelbes Licht ausstrahlen und müssen, zwei an der Zahl oder bei Krafträdern nur eines, so angebracht sein, dass kein Punkt ihrer Lichtaustrittsflächen höher liegt als der höchste Punkt der Lichtaustrittsflächen der Scheinwerfer für Abblendlicht.
+24.1 Jedes Kraftfahrzeug kann einen oder zwei Nebelscheinwerfer für weisses oder hellgelbes Licht haben. Die Nebelscheinwerfer müssen so angebracht sein, dass kein Punkt ihrer leuchtenden Fläche höher liegt als der höchste Punkt der leuchtenden Fläche der Scheinwerfer für Abblendlicht.
 
-\41. Kein Rückfahrscheinwerfer darf andere Verkehrsteilnehmer in unzumutbarer Weise blenden oder belästigen. An Kraftfahrzeugen angebrachte Rückfahrscheinwerfer dürfen nur weisses oder hellgelbes Licht ausstrahlen. Dieser Scheinwerfer darf nur bei eingelegtem Rückwärtsgang eingeschaltet sein können.
+24.2 Jedes Kraftfahrzeug, ausgenommen Krafträder, und jeder Anhänger muss eine oder zwei rote Nebelschlussleuchten haben; die Nebelschlussleuchten dürfen nur dann eingeschaltet werden können, wenn die Scheinwerfer für Fernlicht, die Scheinwerfer für Abblendlicht oder die Nebelscheinwerfer eingeschaltet sind.
 
-\42. Keine Beleuchtungseinrichtung, ausgenommen Blinkleuchten und Warnleuchten, darf ein Blink‑ oder Rundumlicht ausstrahlen. Die Seitenbegrenzungsleuchten können zusammen mit den Begrenzungsleuchten aufblinken.
+24.3 Jedes Kraftrad kann eine oder zwei rote Nebelschlussleuchten haben; die Nebelschlussleuchten dürfen nur dann eingeschaltet werden können, wenn die Scheinwerfer für Fernlicht, die Scheinwerfer für Abblendlicht oder die Nebelscheinwerfer eingeschaltet sind.
 
-42<sup>bis</sup>. Die Warnleuchten müssen ein Blink‑ oder Rundumlicht ausstrahlen; die Farbe des ausgestrahlten Lichts muss den Bestimmungen nach Artikel 32 Absatz 14 genügen.
+\25. Rückstrahler
 
-42<sup>ter</sup>. Jedes Kraftfahrzeug, ausgenommen Krafträder, und jeder Anhänger muss eine Warnblinkanlage haben.
+25.1 Jedes Kraftfahrzeug, ausgenommen zweirädrige Krafträder ohne Beiwagen, muss hinten mindestens zwei rote, nicht dreieckige Rückstrahler haben.
 
-42<sup>quater</sup>. Die an einem Kraftfahrzeug oder einem Anhänger angebrachten Nebelschlussleuchten müssen rot sein.
+25.2 Jeder Anhänger muss hinten mindestens zwei rote Rückstrahler haben. Jedoch brauchen Anhänger, deren Gesamtbreite 0,80 m nicht übersteigt, nur einen Rückstrahler zu haben, wenn sie mit einem zweirädrigen Kraftrad ohne Beiwagen verbunden sind.
 
-42<sup>quinquies</sup>. Die Kraftfahrzeuge und Anhänger, deren Länge 6 m übersteigt, müssen an den Längsseiten mit seitlichen gelben Rückstrahlern ausgerüstet sein.
+Diese Rückstrahler müssen die Form eines gleichseitigen Dreiecks haben, von dem eine Spitze nach oben zeigt und eine Seite waagerecht liegt; im Dreieck darf keine Beleuchtungseinrichtung sein.
 
-42<sup>sexties</sup>. Die Kraftfahrzeuge und Anhänger, deren Breite 1,80 m übersteigt, können mit Umrissleuchten ausgerüstet werden. Diese sind vorgeschrieben, wenn die Breite des Kraftfahrzeugs oder des Anhängers 2,10 m übersteigt. Werden Umrissleuchten verwendet, so müssen es mindestens zwei an der Zahl sein und ein weisses oder gelbes Licht nach vorn und ein rotes Licht nach hinten ausstrahlen.
+25.3 Jedes Kraftfahrzeug, dessen Länge 6 m übersteigt, und jeder Anhänger muss mit einem oder mehreren gelben seitlichen Rückstrahlern ausgerüstet sein. Der hinterste seitliche Rückstrahler kann rot sein, wenn er mit einer roten Schlussleuchte kombiniert ist.
 
-42<sup>septies</sup>. Jedes Kraftfahrzeug und jeder Anhänger kann mit Seitenbegrenzungsleuchten ausgerüstet werden, die ein gelbes Licht ausstrahlen.
+25.4 Jeder Anhänger muss vorn zwei weisse, nicht dreieckige Rückstrahler haben.
 
-\43. Für die Anwendung der Bestimmungen dieses Anhangs gilt:
+25.5 Jedes zweirädrige Kraftrad ohne Beiwagen muss hinten einen oder zwei rote, nicht dreieckige Rückstrahler haben und kann beidseits einen oder zwei nicht dreieckige Rückstrahler haben, die vorne gelb und hinten gelb oder rot sind.
 
-- a) als eine einzige Beleuchtungseinrichtung jede Verbindung von zwei oder mehr gleichen oder verschiedenen Beleuchtungseinrichtungen mit gleicher Aufgabe und gleicher Farbe des Lichtes;
-- b) als zwei oder eine andere gerade Zahl von Beleuchtungseinrichtungen eine solche Einrichtung mit bandförmiger Lichtaustrittsfläche, wenn sie symmetrisch zur Längsmittelebene des Fahrzeugs liegt. Die Beleuchtung einer solchen Lichtaustrittsfläche muss durch mindestens zwei möglichst nahe ihren äussersten Teilen liegende Lichtquellen gewährleistet sein.
+\26. Seitenmarkierungsleuchten
 
-\44. Bei einem Fahrzeug muss das Licht der Beleuchtungseinrichtungen, die dieselbe Aufgabe haben und in dieselbe Richtung wirken, dieselbe Farbe haben. Ausser bei Fahrzeugen, deren äussere Form asymmetrisch ist, müssen in gerader Zahl vorhandene Scheinwerfer, Leuchten und Rückstrahler symmetrisch zur Längsmittelebene des Fahrzeugs angeordnet sein. Paarweise zusammengehörende Beleuchtungseinrichtungen müssen nahezu die gleiche Lichtstärke haben.
+Jedes Kraftfahrzeug und jeder Anhänger, deren Länge 6 m übersteigt (Länge einschliesslich Deichsel bei Anhängern), muss mit gelben Seitenmarkierungsleuchten ausgerüstet sein. Die hinterste Seitenmarkierungsleuchte kann rot sein, wenn sie mit einer roten Schlussleuchte kombiniert ist.
 
-\45. Beleuchtungseinrichtungen verschiedener Art und, vorbehaltlich der anderen Absätze dieses Kapitels, Beleuchtungseinrichtungen zusammen mit Rückstrahlern dürfen in einer Einrichtung zusammen‑ oder ineinander gebaut werden, wenn jede Beleuchtungseinrichtung und jeder Rückstrahler den auf sie anwendbaren Bestimmungen dieses Anhangs entsprechen.
+\27. Auffällige Markierungen
+
+Jedes Kraftfahrzeug, ausgenommen Krafträder, und jeder Anhänger kann seitlich weisse oder gelbe auffällige Markierungen und hinten rote oder gelbe auffällige Markierungen haben. Zudem kann jeder Anhänger vorne mit weissen auffälligen Markierungen versehen sein.
+
+\28. Bremsleuchten
+
+28.1 Jedes Kraftfahrzeug, ausgenommen zweirädrige Krafträder mit oder ohne Beiwagen, dessen bauartbedingte Höchstgeschwindigkeit 25 km (15 Meilen) in der Stunde überschreitet, und jeder Anhänger muss hinten mindestens zwei rote Bremsleuchten haben. An solchen Fahrzeugen kann oben mittig eine zusätzliche Bremsleuchte angebracht werden.
+
+28.2. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die zweirädrigen Motorfahrräder mit oder ohne Beiwagen von dieser Vorschrift zu befreien, muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen eine oder zwei rote Bremsleuchten haben. An solchen Fahrzeugen kann oben mittig eine zusätzliche Bremsleuchte angebracht werden.
+
+\29. Scheinwerfer für Tagesfahrlicht
+
+29.1 Jedes Kraftfahrzeug, ausgenommen Krafträder, kann zwei Scheinwerfer für weisses Tagesfahrlicht haben.
+
+29.2 Jedes zweirädrige Kraftrad mit oder ohne Beiwagen kann einen oder zwei Scheinwerfer für weisses Tagesfahrlicht haben.
+
+Bei so ausgerüsteten Krafträdern müssen der oder die Scheinwerfer für Tagesfahrlicht bei laufendem Motor automatisch eingeschaltet werden. Bei Krafträdern ohne Scheinwerfer für Tagesfahrlicht muss ein Scheinwerfer bei laufendem Motor automatisch eingeschaltet werden.
+
+\30. Fahrtrichtungsanzeiger
+
+Jedes Kraftfahrzeug, ausgenommen Motorfahrräder, und jeder Anhänger muss eine gerade Zahl von fest am Fahrzeug angebrachten Fahrtrichtungsanzeigern für gelbes Licht haben.
+
+\31. Rückfahrscheinwerfer
+
+31.1 Kraftfahrzeuge, ausgenommen Motorräder, und Anhänger, deren höchste zulässige Gesamtmasse 750 kg übersteigt, müssen hinten einen oder zwei Rückfahrscheinwerfer für weisses Licht haben. Die Rückfahrscheinwerfer dürfen nicht eingeschaltet sein, wenn der Rückwärtsgang nicht eingelegt ist.
+
+31.2 Zwei zusätzliche Rückfahrscheinwerfer für weisses Licht können seitlich an Kraftfahrzeugen oder Anhängern angebracht sein, deren Länge 6 m übersteigt.
+
+\32. Manövrierscheinwerfer
+
+Jedes Kraftfahrzeug, ausgenommen Krafträder mit oder ohne Beiwagen, kann seitlich einen oder zwei Manövrierscheinwerfer für weisses Licht haben.
+
+\33. Besondere Warnleuchten
+
+Besondere Warnleuchten müssen ein Blink-, Rundum- oder Blitzlicht ausstrahlen; die Farbe des ausgestrahlten Lichts muss den Bestimmungen nach Artikel 32 Absatz 14 genügen.
+
+\34. Warnblinklicht
+
+Jedes Kraftfahrzeug und jeder Anhänger muss eine Warnblinkanlage haben, und jedes Kraftrad kann eine Warnblinkanlage haben.
+
+\35. Begrenzungsleuchten
+
+Jedes Kraftfahrzeug und jeder Anhänger, deren Breite 1,80 m übersteigt, kann mit Begrenzungsleuchten ausgerüstet sein. Diese sind vorgeschrieben, wenn die Breite des Kraftfahrzeugs oder des Anhängers 2,10 m übersteigt. Sind Begrenzungsleuchten angebracht, so müssen es mindestens zwei an der Zahl sein und ein weisses oder gelbes Licht nach vorn und ein rotes Licht nach hinten ausstrahlen.
+
+\36. Parkleuchten
+
+Jedes Kraftfahrzeug, dessen Abmessungen 6 m in der Länge und 2 m in der Breite nicht übersteigen, kann vorn zwei weisse und hinten zwei rote Parkleuchten oder auf jeder Seite eine Parkleuchte haben, die ein weisses Licht nach vorn und ein rotes Licht nach hinten ausstrahlt.
+
+\37. Abbiegescheinwerfer und Kurvenlichtfunktion
+
+37.1 Jedes Kraftfahrzeug, ausgenommen Krafträder, kann Abbiegescheinwerfer für weisses Licht haben.
+
+37.2 Jedes Kraftfahrzeug kann mit einer Kurvenlichtfunktion ausgerüstet sein, die durch Einschalten einer oder der zusätzlichen Lichtquellen oder zusätzlichen Leuchteinheiten oder durch Schwenken des oder der Scheinwerfer für Abblendlicht zusammen mit dem oder den Scheinwerfern für Abblendlicht aktiviert werden kann.
+
+Bei zweirädrigen Krafträdern dürfen sich die zusätzlichen Lichtquellen oder zusätzlichen Leuchteinheiten für die seitliche Fahrbahnausleuchtung in Kurven nur abhängig von der Neigung des Fahrzeugs automatisch ein- und ausschalten.
+
+\38. Ein- und Ausstiegsleuchten
+
+Jedes Kraftfahrzeug kann Ein- und Ausstiegsleuchten haben, die weisses Licht ausstrahlen.
+
+\39. Vorrichtungen, bei denen Leuchten, Lichter und Einrichtungen mehrerer Kategorien zum Einsatz kommen
+
+39.1. Keine Beleuchtungseinrichtung, ausgenommen Fahrtrichtungsanzeiger, Warnblinkanlagen, als Notbremslicht fungierende Bremsleuchten und besondere Warnleuchten, darf ein Blink‑, Rundum- oder Blitzlichtlicht ausstrahlen. Die Seitenmarkierungsleuchten können zusammen mit den Fahrtrichtungsanzeigern aufblinken.
+
+39.2 Kraftfahrzeuge mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern, die nach Artikel 1 Buchstabe n den Krafträdern gleichgestellt sind, müssen die in den Absätzen 21.1, 21.2, 22.1, 22.4 Buchstabe a, 25.1 und 28.1 vorgeschriebenen Einrichtungen haben. Jedoch genügt bei einem Elektrofahrzeug, dessen Breite 1,30 m nicht übersteigt und dessen bauartbedingte Höchstgeschwindigkeit 40 km (25 Meilen) in der Stunde nicht überschreitet, ein einziger Scheinwerfer für Fernlicht und ein einziger Scheinwerfer für Abblendlicht.
+
+39.3 Bei jedem Kraftfahrzeug, einschliesslich der Krafträder, und bei allen miteinander verbundenen Fahrzeugen, bestehend aus einem Kraftfahrzeug und einem oder mehreren Anhängern, muss die elektrische Schaltung so sein, dass die Scheinwerfer für Fernlicht, die Scheinwerfer für Abblendlicht und die Nebelscheinwerfer nur zusammen mit den Begrenzungs- und Schlussleuchten, den Umrissleuchten (falls vorhanden), den Seitenmarkierungsleuchten (falls vorhanden) und der Beleuchtungseinrichtung für das hintere Kennzeichenschild eingeschaltet werden können.
+
+Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wenn diese zur Abgabe von optischen Warnzeichen nach Artikel 32 Absatz 3 verwendet werden.
+
+39.4 Unbeschadet der Bestimmungen über die Beleuchtungseinrichtungen und Rückstrahler für zweirädrige Krafträder ohne Beiwagen muss jeder mit einem zweirädrigen Kraftrad verbundene Beiwagen vorn eine weisse oder gelbe Begrenzungsleuchte und hinten eine rote Schlussleuchte und einen roten Rückstrahler haben. Die elektrische Schaltung muss so sein, dass die Begrenzungsleuchte und die Schlussleuchte des Beiwagens und die Schlussleuchte des Kraftrades gleichzeitig eingeschaltet sind.
+
+40.–45. *Aufgehoben*
+
+[^annex5-lvlu1-chapII-lvlB-1]: <sup>\*</sup> Regelungen der Vereinten Nationen im Anhang des in Genf am 20. März 1958 beschlossenen «Übereinkommen vom 20. März 1958 über die Annahme einheitlicher technischer Vorschriften für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Vorschriften erteilt wurden», oder die im Rahmen des in Genf am 25. Juni 1998 beschlossenen «Übereinkommens über die Festlegung globaler technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge(n) eingebaut und/oder verwendet werden können» ausgearbeiteten globalen technischen Regelungen der Vereinten Nationen.
 
 ### Kapitel III Weitere Vorschriften
 
-### Lenkvorrichtung
+Lenkvorrichtung
 
 \46. Jedes Kraftfahrzeug (Art. 1 Bst. p) muss eine widerstandsfähige Lenkvorrichtung haben, mit der der Führer die Richtung seines Fahrzeugs leicht, schnell und sicher ändern kann.
 
-### Rückspiegel
+Rückspiegel
 
-\47. Jedes Kraftfahrzeug muss einen oder mehrere Rückspiegel haben; Zahl, Grösse und Anbringung dieser Rückspiegel müssen es dem Führer ermöglichen, den Verkehr hinter seinem Fahrzeug zu überblicken.
+\47. Jedes Kraftfahrzeug muss eine oder mehrere Einrichtungen wie beispielsweise Rückspiegel haben, die es dem Führer ermöglichen, den Verkehr hinter seinem Fahrzeug zu überblicken.
 
-### Akustische Warnvorrichtung
+Akustische Warnvorrichtung
 
 \48. Jedes Kraftfahrzeug (Art. 1 Bst. p) muss mindestens eine akustische Warnvorrichtung von genügender Wirksamkeit haben. Der Klang muss gleich bleibend und einheitlich und darf nicht schrill sein. Die bevorrechtigten Fahrzeuge und die Fahrzeuge, die der öffentlichen Personenbeförderungen dienen, dürfen zusätzlich akustische Warnvorrichtungen haben, die diesen Bestimmungen nicht unterliegen.
 
-### Scheibenwischer
+Scheibenwischer
 
 \49. Jedes Kraftfahrzeug (Art. 1 Bst. p) mit so grossen und so gestalteten Windschutzscheiben, dass der Führer … die Strasse nur durch die durchsichtigen Teile dieser Scheibe nach vorn überblicken kann, muss mindestens einen wirksamen und widerstandsfähigen, an geeigneter Stelle angebrachten Scheibenwischer haben, der keine dauernde Bedienung durch den Führer erfordert.
 
-### Scheibenwaschanlage
+Scheibenwaschanlage
 
 \50. Jedes Kraftfahrzeug (Art. 1 Bst. p), das mindestens einen Scheibenwischer haben muss, muss auch eine Scheibenwaschanlage haben.
 
-### Windschutzscheibe und andere Scheiben
+Windschutzscheibe und andere Scheiben
 
-\51. An jedem Kraftfahrzeug (Art. 1 Bst. p) und an jedem Anhänger
+\51. An jedem Kraftfahrzeug (Art. 1 Bst. p) und an jedem Anhänger:
 
 - a) müssen die durchsichtigen Stoffe, die Teile der Aussenwand des Fahrzeugs einschliesslich der Windschutzscheibe oder einer inneren Trennwand bilden, so beschaffen sein, dass bei Bruch die Gefahr von Körperverletzung so gering wie möglich ist;
 - b) müssen die Windschutzscheiben aus einem Stoff hergestellt sein, dessen Durchsichtigkeit sich nicht verändert, und so beschaffen sein, dass sie keine erheblichen Verzerrungen der durch sie hindurch gesehenen Gegenstände hervorrufen und dass bei Bruch der Führer die Strasse noch in ausreichendem Masse überblicken kann.
 
-### Rückwärtsgang
+Rückwärtsgang
 
 \52. Jedes Kraftfahrzeug (Art. 1 Bst. p) muss eine vom Führersitz aus bedienbare Einrichtung zum Rückwärtsfahren haben. Jedoch brauchen Krafträder und Kraftfahrzeuge (Art. 1 Bst. p) mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern diese Einrichtung nur zu haben, wenn ihre höchste zulässige Gesamtmasse 400 kg (900 Pfund) übersteigt.
 
-### Schalldämpfer
+Schalldämpfer
 
 \53. Jeder Verbrennungsmotor zum Antrieb eines Kraftfahrzeugs muss mit einem wirksamen Auspuffschalldämpfer versehen sein.
 
-### Reifen
+Reifen
 
 \54. Die Räder der Kraftfahrzeuge und ihrer Anhänger müssen mit Luftreifen versehen sein, die selbst auf nasser Fahrbahn eine gute Bodenhaftung gewährleisten. Diese Bestimmung hindert jedoch die Vertragsparteien nicht, die Verwendung von Vorrichtungen zu gestatten, deren Wirkungen denen der Luftreifen mindestens gleichwertig sind.
 
-### Geschwindigkeitsmesser
+Geschwindigkeitsmesser
 
 \55. Jedes Kraftfahrzeug (Art. 1 Bst. p), das auf ebener Strasse eine Geschwindigkeit von 40 km (25 Meilen) in der Stunde überschreiten kann, muss einen Geschwindigkeitsmesser haben, wobei die Vertragsparteien jedoch bestimmte Arten von Krafträdern und anderen leichten Fahrzeugen hiervon befreien können.
 
-### Warnvorrichtung, die in Kraftfahrzeugen (Art. 1 Bst. p) mitgeführt werden muss
+Warnvorrichtung, die in Kraftfahrzeugen (Art. 1 Bst. p) mitgeführt werden muss
 
-\56. Die Vorrichtung nach Artikel 23 Absatz 5 und Anhang 1 Absatz 6 muss sein
+\56. Die Vorrichtung nach Artikel 23 Absatz 5 und Anhang 1 Absatz 6 muss sein:
 
 - a) entweder ein gleichseitiges Warndreieck mit roter Umrandung und mit ausgesparter oder hellfarbiger Innenfläche; die rote Umrandung muss mit einem rückstrahlenden Streifen versehen sein. Sie kann darüber hinaus teilweise mit einem fluoreszierenden Material beschichtet und/oder von innen beleuchtet sein; das Dreieck muss fest in lotrechter Stellung aufgestellt werden können;
 - b) oder eine andere gleichwertige Vorrichtung, die durch die innerstaatlichen Rechtsvorschriften des Landes bestimmt wird, in der das Fahrzeug zugelassen ist.
 
-### Diebstahlsicherung
+Diebstahlsicherung
 
 \57. Jedes Kraftfahrzeug (Art. 1 Bst. p) muss mit einer Diebstahlsicherung ausgerüstet sein, die beim Parken die Ausserbetriebsetzung oder die Blockierung eines wesentlichen Teils des Fahrzeugs ermöglicht.
 
-### Rückhaltevorrichtungen
+Rückhaltevorrichtungen
 
 \58. Wenn immer dies technisch möglich ist, müssen alle Vordersitze von Fahrzeugen der in den Anhängen 6 und 7 angeführten Klasse B – mit Ausnahme von Fahrzeugen, die für bestimmte, in den innerstaatlichen Rechtsvorschriften festgelegte Zwecke gebaut oder verwendet werden – mit amtlich genehmigten Sicherheitsgurten oder einer anderen amtlich genehmigten Vorrichtung mit vergleichbarer Wirkung ausgerüstet sein.
 
-### Allgemeine Bestimmungen
+Allgemeine Bestimmungen
 
-- 59\.a) Soweit wie möglich dürfen die mechanischen Teile und die Ausrüstung der Kraftfahrzeuge (Art. 1 Bst. p) nicht feuer‑ oder explosionsgefährlich sein; sie dürfen weder schädliche Gase noch dichten Qualm, Gerüche oder Lärm im Übermass erzeugen.
+- 59\. a) Soweit wie möglich dürfen die mechanischen Teile und die Ausrüstung der Kraftfahrzeuge (Art. 1 Bst. p) nicht feuer‑ oder explosionsgefährlich sein; sie dürfen weder schädliche Gase noch dichten Qualm, Gerüche oder Lärm im Übermass erzeugen.
 - b) Soweit wie möglich dürfen die Hochspannungs‑Zündanlagen von Fahrzeugmotoren keine Funkstörungen im Übermass erzeugen.
 - c) Jedes Kraftfahrzeug (Art. 1 Bst. p) muss so gebaut sein, dass das Sichtfeld des Führers nach vorn, rechts und links ihm ein sicheres Führen erlaubt.
 - d) Soweit wie möglich müssen Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger so gebaut und ausgerüstet sein, dass für ihre Insassen und andere Verkehrsteilnehmer die Gefahr bei Unfällen so gering wie möglich ist. Insbesondere dürfen sich an den Fahrzeugen innen und aussen keine Verzierungen und andere entbehrliche, Kanten bildende oder vorspringende Teile befinden, die für die Insassen und andere Verkehrsteilnehmer gefährlich werden könnten.
@@ -1597,30 +1722,28 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 \60. Die Vertragsparteien können im innerstaatlichen Bereich in den folgenden Fällen von den Bestimmungen dieses Anhangs abweichen:
 
-- a) für Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger, deren durch die Bauart bestimmte Höchstgeschwindigkeit auf ebener Strasse 30 km (19 Meilen) in der Stunde nicht übersteigt oder für die durch die innerstaatlichen Rechtsvorschriften die Geschwindigkeit auf 25 km in der Stunde beschränkt ist;
-- b) für Krankenfahrstühle, das sind kleine Kraftfahrzeuge (Art. 1 Bst. p), die für den Gebrauch durch eine gebrechliche oder körperbehinderte Person besonders bestimmt und gebaut – nicht nur hergerichtet – sind und üblicherweise nur von dieser Person verwendet werden;
-- c) für Fahrzeuge zur Durchführung von Versuchen zur technischen Weiterentwicklung und Hebung der Verkehrssicherheit;
-- d) für Fahrzeuge besonderer Form oder Art oder für solche, die unter besonderen Bedingungen für besondere Zwecke verwendet werden.
-- e) Für Fahrzeuge, die so angepasst sind, dass sie von Behinderten geführt werden können.
+- a) für Kraftfahrzeuge und Anhänger, deren bauartbedingte Höchstgeschwindigkeit 30 km (19 Meilen) in der Stunde nicht übersteigt oder für die durch die innerstaatlichen Rechtsvorschriften die maximale zulässige Geschwindigkeit auf 30 km in der Stunde beschränkt ist;
+- b) für Behindertenfahrzeuge, das sind kleine Kraftfahrzeuge, die für den Gebrauch durch Personen mit eingeschränkter Mobilität besonders bestimmt und gebaut – und nicht hergerichtet – sind;
+- c) für Fahrzeuge, die so angepasst sind, dass sie von Personen mit eingeschränkter Mobilität geführt werden können;
+- d) für Fahrzeuge zur Durchführung von Versuchen zur technischen Weiterentwicklung und Hebung der Verkehrssicherheit;
+- e) für Fahrzeuge besonderer Form oder Art oder für solche, die unter besonderen Bedingungen für besondere Zwecke verwendet werden, beispielsweise zur Schneeräumung.
 
-\61. Die Vertragsparteien können ausserdem von den Bestimmungen dieses Anhangs für die von ihnen zugelassenen Fahrzeuge und die am internationalen Verkehr teilnehmen dürfen, abweichen,
+\61. Die Vertragsparteien können ausserdem von den Bestimmungen dieses Anhangs für die von ihnen zugelassenen Fahrzeuge, die am internationalen Verkehr teilnehmen dürfen, abweichen:
 
-- a) indem sie für die Begrenzungsleuchten der Kraftfahrzeuge und Anhänger gelbe Farbe zulassen;
-- b) hinsichtlich der Position der Beleuchtungseinrichtungen an besonderen Fahrzeugen, deren Form die Beachtung dieser Bestimmungen nicht ohne Zuhilfenahme von Befestigungsvorrichtungen ermöglicht, die leicht beschädigt oder abgerissen werden können;
-- c) hinsichtlich der zur Beförderung von Langgut (Baumstämmen, Rohren und dergleichen) dienenden Anhänger, die während der Fahrt nur durch die Ladung mit dem Zugfahrzeug verbunden sind;
-- d)
+- a) hinsichtlich der Position der Beleuchtungseinrichtungen an Fahrzeugen mit besonderer Zweckbestimmung, deren Form die Beachtung dieser Bestimmungen nicht ohne Zuhilfenahme von Befestigungsvorrichtungen ermöglicht, die leicht beschädigt oder abgerissen werden können;
+- b) hinsichtlich der zur Beförderung von Langgut (Baumstämmen, Rohren und dergleichen) dienenden Anhänger, die während der Fahrt nur durch die Ladung mit dem Zugfahrzeug verbunden sind;
+- c)
 
   indem sie für folgende Vorrichtungen die Ausstrahlung von weissem Licht nach hinten und von rotem Licht nach vorn zulassen:
 
-  - [tab] – Rundumlicht oder Blinklicht von bevorrechtigten Fahrzeugen,
-  - [tab] – fest angebrachte Beleuchtungseinrichtungen für Sondertransporte,
-  - [tab] – seitliche Beleuchtungseinrichtungen und Rückstrahler,
-  - [tab] – Anzeige mit Lichtschrift auf dem Dach;
+  - – besondere Warnleuchten von bevorrechtigten Fahrzeugen,
+  - – fest angebrachte Beleuchtungseinrichtungen für Sondertransporte,
+  - – seitliche Beleuchtungseinrichtungen und Rückstrahler,
+  - – Anzeige mit Lichtschrift auf dem Dach;
 
-- e) indem sie nach vom und nach hinten wirkendes blaues Rundum‑ oder Blinklicht zulassen;
-- f) indem sie für Fahrzeuge besonderer Form oder mit besonderen Abmessungen oder für solche, die unter besonderen Bedingungen für besondere Zwecke eingesetzt werden, die Anbringung abwechselnd rückstrahlender oder fluoreszierender roter Streifen und rückstrahlender weisser Streifen auf ganz gleich welcher Seite zulassen;
-- g) indem sie zulassen, dass von den Zahlen oder Buchstaben oder von dem Kennzeichenhintergrund selbst sowie von Unterscheidungszeichen oder anderen deutlichen Markierungen, die in den innerstaatlichen Rechtsvorschriften verlangt werden, weisses oder farbiges Licht nach hinten abgestrahlt wird;
-- h) indem sie für die am weitesten hinten angebrachten Seitenrückstrahler und Seitenbegrenzungsleuchten rote Farbe zulassen.
+- d) indem sie für Fahrzeuge besonderer Form oder mit besonderen Abmessungen oder für solche, die unter besonderen Bedingungen für besondere Zwecke eingesetzt werden, die Anbringung abwechselnd rückstrahlender oder fluoreszierender roter Streifen und rückstrahlender weisser Streifen auf ganz gleich welcher Seite zulassen;
+- e) indem sie zulassen, dass von Zahlen oder Buchstaben oder von dem Kennzeichenhintergrund selbst sowie von Unterscheidungszeichen oder anderen deutlichen Markierungen, die in den innerstaatlichen Rechtsvorschriften verlangt werden, weisses oder farbiges Licht nach hinten abgestrahlt wird;
+- f) indem sie zulassen, dass Kraftfahrzeuge und Anhänger hinten mit weissen auffälligen Markierungen versehen werden.
 
 ### Kapitel V Übergangsbestimmungen
 
@@ -1628,39 +1751,11 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 62.<sup>bis</sup> Kraftfahrzeuge, die vor oder binnen zwei Jahren nach Inkrafttreten dieses Übereinkommens im Hoheitsgebiet einer Vertragspartei erstmals zugelassen und Anhänger, die zu diesen Zeitpunkten im Hoheitsgebiet einer Vertragspartei erstmals im Verkehr verwendet worden sind, unterliegen nicht diesem Anhang, vorausgesetzt, dass sie Anhang 5 des Übereinkommens über den Strassenverkehr von 1968 oder anderen in Kapitel V dieses Anhangs genannten Bestimmungen entsprechen.
 
-Anlage
-
-## Festlegung der Farbfilter für die in diesem Anhang genannten Farben (Farbwertanteile)
-
-<table>
-<tr><td>Rot</td><td>Grenze gegen gelb</td><td>y ≤ 0.355</td></tr>
-<tr><td></td><td>Grenze gegen purpur\*</td><td>z ≤ 0.008</td></tr>
-<tr><td>Weiss</td><td>Grenze gegen blau</td><td>x ≥ 0.310</td></tr>
-<tr><td></td><td>Grenze gegen gelb</td><td>x ≤ 0.500</td></tr>
-<tr><td></td><td>Grenze gegen grün</td><td>y ≥ 0.150 + 0.640 x</td></tr>
-<tr><td></td><td>Grenze gegen grün</td><td>y ≤ 0.440</td></tr>
-<tr><td></td><td>Grenze gegen purpur</td><td>y ≥ 0.050 + 0.750 x</td></tr>
-<tr><td></td><td>Grenze gegen rot</td><td>y ≥ 0.382</td></tr>
-<tr><td>Gelb\*\*</td><td>Grenze gegen gelb\*</td><td>y ≤ 0.429</td></tr>
-<tr><td></td><td>Grenze gegen rot\*</td><td>y ≥ 0.398</td></tr>
-<tr><td></td><td>Grenze gegen weiss\*</td><td>z ≤ 0.007</td></tr>
-<tr><td>Hellgelb\*\*\*</td><td>Grenze gegen rot\*</td><td>y ≥ 0.138 + 0.580 x</td></tr>
-<tr><td></td><td>Grenze gegen grün\*</td><td>y ≥ 1.29 x – 0.100</td></tr>
-<tr><td></td><td>Grenze gegen weiss\*</td><td>y ≥ – x + 0.966</td></tr>
-<tr><td></td><td>Grenze gegen Spektralfarbenzug\*</td><td>y ≥ – x + 0.992</td></tr>
-<tr><td>Blau</td><td>Grenze gegen grün</td><td>y = 0.065 + 0.805 x</td></tr>
-<tr><td></td><td>Grenze gegen weiss</td><td>y = 0.400 – x</td></tr>
-<tr><td></td><td>Grenze gegen purpur</td><td>x = 0.133 + 0.600 y</td></tr>
-<tr><td colspan="3">\* In diesen Fällen wurden andere Grenzen als die von der CIE empfohlenen angenommen, da die Spannungen an den Klemmen der Lampen, mit denen die Leuchten ausgerüstet sind, sehr stark schwanken. \*\* Gilt für die Farbe jener Beleuchtungseinrichtungen und Rückstrahler, die bisher geläufig als «orange» oder «gelborange» bezeichnet wurden. Entspricht einem genau festgelegten Teil des Bereichs «gelb» des Farbdreiecks der CIE. [tab] \*\*\* Gilt nur für das Fern‑ und Abblendlicht. In dem besonderen Fall des Nebellichts gilt die Farbselektivität als ausreichend, vorausgesetzt, dass der Reinheitsfaktor mindestens 0.820 beträgt, wobei die Grenze gegen weiss y ≥ – x + 0.966 dann y ≥ – x + 0.940 und y = 0.440 ist.</td></tr>
-</table>
-
-Zur Feststellung der Farbmerkmale dieser Filter ist eine Lichtquelle der Farbtemperatur von 2854° K (entsprechend der Normlichtart A der Internationalen Beleuchtungskommission [CIE]) zu verwenden.
-
 Anhang 6[^t-6]
 
 ## Nationaler Führerschein
 
-[^t-6]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-6]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 \1. Der nationale Führerschein muss die Form eines amtlichen Dokuments haben.
 
@@ -1720,13 +1815,13 @@ Anhang 6[^t-6]
 
 <table>
 <tr><td colspan="2">Code der Fahrzeugklasse / Piktogramm</td><td colspan="2">Code der Unterklasse / Piktogramm</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Der Geburtsort kann durch andere, nach nationaler Gesetzgebung bestimmte Eintragungen ersetzt werden.
@@ -1735,7 +1830,7 @@ Anhang 7[^t-7]
 
 ## Internationaler Führerschein
 
-[^t-7]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) und der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-7]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) und der Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 \1. Der Führerschein muss ein Heft im Format A6 (148 × 105 mm –
 
@@ -1796,13 +1891,13 @@ Anhang 7[^t-7]
 <tr><td></td><td colspan="2">Ordentlicher Wohnsitz<sup>2)</sup></td><td colspan="3"></td><td>5.</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="6">FAHRZEUGKLASSEN UND UNTERKLASSEN, FÜR DIE DER FÜHRERSCHEIN GILT, MIT DEN ENTSPRECHENDEN BEZEICHNUNGEN</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="3">**Bezeichnung der Fahrzeug-** **klasse / Piktogramm**</td><td colspan="3">**Bezeichnung der Unterklasse / Piktogramm**</td><td colspan="2"></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">EINSCHRÄNKENDE AUFLAGEN<sup>3)</sup></td><td colspan="2"></td></tr>
 </table>
 
