@@ -4,11 +4,11 @@ title: Ordinaziun dals 16 da schaner 2019 davart las multas disciplinaras (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: rm
-version: 2025-01-01
+version: 2025-02-10
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250210/rm/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250210-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OMD)
 
-dals 16 da schaner 2019 (versiun dals 1. da schaner 2025 )
+dals 16 da schaner 2019 (versiun dals 10 da favrer 2025)
 
 Il Cussegl federal svizzer,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 5 alinea 1 e 15 da la Lescha dals 18 da mars 2016[^i
 
 ordinescha:
 
-[^ingress-1]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^ingress-1]: [SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 
 #### Art. 1
 
@@ -38,7 +38,7 @@ Ils surpassaments da prescripziuns che vegnan chastiads en la procedura da multa
 - a. surpassaments tenor la Lescha federala dals 19 da december 1958[^1-1] davart il traffic sin via: agiunta 1;
 - b. surpassaments tenor ils ulteriurs decrets: agiunta 2.
 
-[^1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^1-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 2
 
@@ -92,7 +92,7 @@ Agiunta 1[^t-1]
 
 [^annex1-lvlu1-lvlu1-1]
 
-[^annex1-lvlu1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 <table>
 <tr><th></th><th colspan="3">fr.</th></tr>
@@ -314,7 +314,7 @@ Agiunta 1[^t-1]
 <tr><td>a. per 1– 5 km/h</td><td colspan="3">[tab] 40</td></tr>
 <tr><td>b. per 6–10 km/h</td><td colspan="3">[tab] 120</td></tr>
 <tr><td>c. per 11–15 km/h</td><td colspan="3">[tab] 250</td></tr>
-<tr><td>2. Surpassar – ordaifer il vitg e sin in’autovia – la sveltezza maximala signalisada, fixada en general u per tscherts geners da vehichels, suenter la deducziun da la marscha d’intschertezza fixada dal UVIAS per apparats e per mesiraziuns (art. 27 al. 1 LTV; art. 4*a* al. 1 ed art. 5 ORT; art. 22 al. 1 OSV)</td><td colspan="3">[tab]</td></tr>
+<tr><td>2. Surpassar – ordaifer il vitg e sin in’autovia – la sveltezza maximala signalisada, fixada en general u per tscherts geners da vehichels, suenter la deducziun da la marscha d’intschertezza fixada dal UVIAS per apparats e per mesiraziuns (art. 27 al. 1 LTV; art. 4*a* al. 1 ed art. 5 ORT; art. 22 al. 1 OSV)</td><td colspan="3"></td></tr>
 <tr><td>a. per 1– 5 km/h</td><td colspan="3">[tab] 40</td></tr>
 <tr><td>b. per 6–10 km/h</td><td colspan="3">[tab] 100</td></tr>
 <tr><td>c. per 11–15 km/h</td><td colspan="3">[tab] 160</td></tr>
@@ -586,15 +586,15 @@ Agiunta 1[^t-1]
 <tr><td>6. Betg resguardar la precedenza dals peduns (art. 50*a* al. 2 ORT)</td><td colspan="3">30</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu1-2]: O dals 13 da nov. 1962 davart las reglas dal traffic sin via ([SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420))
-[^annex1-lvlu1-lvlu1-3]: O dals 5 da sett. 1979 davart la signalisaziun da las vias ([SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961))
-[^annex1-lvlu1-lvlu1-4]: Ordinaziun dals 19 da zer. 1995 davart ils chauffeurs ([SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031))
-[^annex1-lvlu1-lvlu1-5]: O dals 6 da matg 1981 davart il temp da lavur e da repaus dals manischunzs professiunals da vehichels levs per il transport da persunas e d’autos da persunas grevs ([SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480))
-[^annex1-lvlu1-lvlu1-6]: O dals 29 da nov. 2002 davart il transport da martganzia privlusa sin via ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685))
-[^annex1-lvlu1-lvlu1-7]: O dals 27 d’oct. 1976 davart l’admissiun al traffic ([SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423))
-[^annex1-lvlu1-lvlu1-8]: Ils renviaments èn vegnids adattads per il 1. da schan. 2021 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex1-lvlu1-lvlu1-9]: Il renviament è vegnì adattà per il 1. da schan. 2021 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex1-lvlu1-lvlu1-10]: O dals 19 da zer. 1995 davart las pretensiuns tecnicas a vehichels stradals ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425))
+[^annex1-lvlu1-lvlu1-2]: O dals 13 da nov. 1962 davart las reglas dal traffic sin via ([SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624))
+[^annex1-lvlu1-lvlu1-3]: O dals 5 da sett. 1979 davart la signalisaziun da las vias ([SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639))
+[^annex1-lvlu1-lvlu1-4]: Ordinaziun dals 19 da zer. 1995 davart ils chauffeurs ([SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911))
+[^annex1-lvlu1-lvlu1-5]: O dals 6 da matg 1981 davart il temp da lavur e da repaus dals manischunzs professiunals da vehichels levs per il transport da persunas e d’autos da persunas grevs ([SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912))
+[^annex1-lvlu1-lvlu1-6]: O dals 29 da nov. 2002 davart il transport da martganzia privlusa sin via ([SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690))
+[^annex1-lvlu1-lvlu1-7]: O dals 27 d’oct. 1976 davart l’admissiun al traffic ([SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668))
+[^annex1-lvlu1-lvlu1-8]: Ils renviaments èn vegnids adattads per il 1. da schan. 2021 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex1-lvlu1-lvlu1-9]: Il renviament è vegnì adattà per il 1. da schan. 2021 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex1-lvlu1-lvlu1-10]: O dals 19 da zer. 1995 davart las pretensiuns tecnicas a vehichels stradals ([SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648))
 [^annex1-lvlu1-lvlu1-11]: Las «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» pon vegnir consultadas en l’internet sut: [www.astra.admin.ch](http://www.astra.admin.ch) &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international.
 
 Agiunta 2[^t-2]
@@ -603,7 +603,7 @@ Agiunta 2[^t-2]
 
 ## Glista da multas 2
 
-[^t-2]: Rectifitgà tenor la correctura dals 19 da nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), tenor la cifra 1 da l’agiunta da l’O dals 16 da zer. 2023 davart la taxa da las vias naziunalas ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), tenor la cifra II 1 da l’O dals 29 da nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), tenor la correctura dals 9 da dec. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)) e tenor la cifra I da l’O dals 6 da nov. 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)).
+[^t-2]: Rectifitgà tenor la correctura dals 19 da nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), tenor la cifra 1 da l’agiunta da l’O dals 16 da zer. 2023 davart la taxa da las vias naziunalas ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), tenor la cifra II 1 da l’O dals 29 da nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), tenor la correctura dals 9 da dec. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), tenor la cifra I da l’O dals 6 da nov. 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)) e tenor la correctura dals 10 da favr. 2025 ([AS 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)).
 
 ### Surpassaments tenor ils ulteriurs decrets
 
@@ -616,8 +616,8 @@ Agiunta 2[^t-2]
 <tr><td>III. Lescha federala dals 19 da december 1986[^annex2-lvlu1-lvlu1-3] davart la concurrenza illoiala (LCI)</td><td colspan="2"></td></tr>
 <tr><td>3001. Violar l’obligaziun d’inditgar ils pretschs u ils pretschs da basa (art. 24 al. 1 lit. a ed al. 2 LCI)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>III<sup>bis</sup>. Lescha federala dals 29 da settember 2023[^annex2-lvlu1-lvlu1-4] davart il scumond da cuvrir la fatscha (LSCF)</td><td></td></tr>
-<tr><td>3001<sup>bis</sup>. Cuvrir u zuppentar la fatscha en lieus publics u privats ch’èn accessibels a la publicitad gratuitamain u cunter pajament, senza ch’i saja avant maun in’excepziun tenor l’artitgel 2 alinea 2 LSCF (art. 2 al. 1 e 2 sco er art. 3 al. 1 LSCF)</td><td>100</td></tr>
-<tr><td>3002<sup>bis</sup>. Cuvrir la fatscha senza permissiun en lieus publics (art. 2 al. 1 e 3 sco er art. 3 al. 1 LSCF)</td><td>100</td></tr>
+<tr><td>3101. Cuvrir u zuppentar la fatscha en lieus publics u privats ch’èn accessibels a la publicitad gratuitamain u cunter pajament, senza ch’i saja avant maun in’excepziun tenor l’artitgel 2 alinea 2 LSCF (art. 2 al. 1 e 2 sco er art. 3 al. 1 LSCF)</td><td>100</td></tr>
+<tr><td>3102. Cuvrir la fatscha senza permissiun en lieus publics (art. 2 al. 1 e 3 sco er art. 3 al. 1 LSCF)</td><td>100</td></tr>
 <tr><td>IV. Lescha federala dal 1. da fanadur 1966[^annex2-lvlu1-lvlu1-5] davart la protecziun da la natira e da la patria (LPNP)</td><td colspan="2"></td></tr>
 <tr><td>4001. Cleger, chavar ora, strair ora, manar davent, offrir, vender, cumprar u destruir, nunautorisadamain, betg dapli che tschintg plantas selvadias da las spezias che figureschan en l’agiunta 2 da la OPNP[^annex2-lvlu1-lvlu1-6] (art. 24*a* al. 1 lit. b LPNP, art. 20 al. 1 e 5 OPNP)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>V. Lescha d’armas dals 20 da zercladur 1997[^annex2-lvlu1-lvlu1-7] (LArm)</td><td colspan="2"></td></tr>
@@ -627,7 +627,7 @@ Agiunta 2[^t-2]
 <tr><td>6001. Utilisar ina via naziunala d’emprima u da segunda classa senza la vignetta ch’è prescritta per la perioda da taxaziun (art. 14 al. 1 en cumbinaziun cun ils art. 6*a*–7*a* ed 8 LUVN).</td><td colspan="2">200</td></tr>
 <tr><td>6002. Utilisar ina via naziunala d’emprima u da segunda classa cun ina vignetta collanta ch’è prescritta per la perioda da taxaziun, la quala n’è betg tatgada directamain vi dal vehichel, n’è betg tatgada al lieu prescrit u è donnegiada (art. 14 al. 1 en cumbinaziun cun ils art. 6*a*, 7 ed 8 LUVN).</td><td colspan="2">200</td></tr>
 <tr><td>VII. Lescha federala dals 3 d’october 1975[^annex2-lvlu1-lvlu1-9] davart la navigaziun interna (LNI)</td><td colspan="2"></td></tr>
-<tr><td>**1.** **Disposiziuns administrativas**</td><td colspan="2">[tab]</td></tr>
+<tr><td>**1.** **Disposiziuns administrativas**</td><td colspan="2"></td></tr>
 <tr><td>7100. Betg avair cun sai ils documents prescrits (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-10], art. 1.06 RNC[^annex2-lvlu1-lvlu1-11])</td><td colspan="2"></td></tr>
 <tr><td>1. Betg avair cun sai il permiss da manischar prescrit u la patenta da navigaziun prescritta (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td colspan="2">20</td></tr>
 <tr><td>2. Betg avair cun sai il document da la bartga u il document d’admissiun (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td colspan="2">20</td></tr>
@@ -716,8 +716,8 @@ Agiunta 2[^t-2]
 <tr><td>XII. Lescha da chatscha dals 20 da zercladur 1986[^annex2-lvlu1-lvlu1-19] (LChP)</td><td colspan="2"></td></tr>
 <tr><td>12001. Entrar, senza motiv suffizient, cun in’arma da fieu en in territori da chatscha (art. 18 al. 1 lit. b ed al. 3 LChP)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>12002. Laschar chatschar chauns (art. 18 al. 1 lit. d ed al. 3 LChP)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12003. Entrar u charrar en zonas da paus per animals selvadis ordaifer las rutas e sendas designadas (art. 18 al. 1 lit. e ed al. 3 LChP, art. 4<sup>ter</sup> OChP[^annex2-lvlu1-lvlu1-20])</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12004. Betg resguardar l’obligaziun da tegnair ils chauns a la tschinta en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c OAFS[^annex2-lvlu1-lvlu1-21]) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c ORUAM[^annex2-lvlu1-lvlu1-22])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12003. Entrar u charrar en zonas da paus per animals selvadis ordaifer las rutas e sendas designadas (art. 18 al. 1 lit. e ed al. 3 LChP, art. 4*e*[^annex2-lvlu1-lvlu1-20] OChP[^annex2-lvlu1-lvlu1-21])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12004. Betg resguardar l’obligaziun da tegnair ils chauns a la tschinta en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c OAFS[^annex2-lvlu1-lvlu1-22]) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c ORUAM[^annex2-lvlu1-lvlu1-23])</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12005. Far tenda u campar libramain en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. e OAFS)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12006. Laschar sgular eromobils civils nunequipads en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. f<sup>bis</sup> OAFS) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. f<sup>bis</sup> ORUAM)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12007. Ir cun skis ordaifer pistas, rutas u loipas marcadas en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. g OAFS)</td><td colspan="2">[tab] 150</td></tr>
@@ -725,41 +725,42 @@ Agiunta 2[^t-2]
 <tr><td>12009. Utilisar kitesurfs u utensils sumegliants e laschar ir bartgas da model en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. g ORUAM)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12010. Pavlar animals selvadis ed endrizzar salinas en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. b<sup>bis</sup> OAFS) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. b<sup>bis</sup> ORUAM)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12011. Betg avair cun sai durant la chatscha ils documents prescrits (art. 18 al. 4 LChP), per mintga document mancant</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>XIII. Lescha federala dals 21 da zercladur 1991[^annex2-lvlu1-lvlu1-23] davart la pestga (LFP)</td><td colspan="2"></td></tr>
-<tr><td>13001. Pigliar peschs u giombers durant il temp da schanetg (art. 17 al. 1 lit. a ed al. 3 LFP, art. 1 al. 1–3 OLFP[^annex2-lvlu1-lvlu1-24]), per pesch u giomber</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>XIII. Lescha federala dals 21 da zercladur 1991[^annex2-lvlu1-lvlu1-24] davart la pestga (LFP)</td><td colspan="2"></td></tr>
+<tr><td>13001. Pigliar peschs u giombers durant il temp da schanetg (art. 17 al. 1 lit. a ed al. 3 LFP, art. 1 al. 1–3 OLFP[^annex2-lvlu1-lvlu1-25]), per pesch u giomber</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>13002. Sutpassar las mesiras minimalas da peschs u da giombers (art. 17 al. 1 lit. a ed al. 3 LFP, art. 2 al. 1 e 4 OLFP), per pesch u giomber</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>13003. Betg resguardar ils scumonds da pestga (art. 17 al. 1 lit. a ed al. 3 LFP, art. 2*a* OLFP), per pesch u giomber</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>XIV. Lescha federala dals 23 da mars 2001[^annex2-lvlu1-lvlu1-25] davart il commerzi ambulant</td><td colspan="2"></td></tr>
+<tr><td>XIV. Lescha federala dals 23 da mars 2001[^annex2-lvlu1-lvlu1-26] davart il commerzi ambulant</td><td colspan="2"></td></tr>
 <tr><td>14001. Pratitgar il commerzi ambulant senza permissiun (art. 14 al. 1 lit. b ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>14002. Offrir rauba u servetschs, sche la vendita da questa rauba u da quests servetschs en il commerzi ambulant cuntrafa a restricziuns u a scumonds (art. 14 al. 1 lit. e ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>14003. Betg avair cun sai la permissiun durant pratitgar il commerzi ambulant (art. 14 al. 1 lit. f ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td colspan="2">[tab] 20</td></tr>
 </table>
 
-[^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^annex2-lvlu1-lvlu1-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^annex2-lvlu1-lvlu1-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^annex2-lvlu1-lvlu1-4]: [SR 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
-[^annex2-lvlu1-lvlu1-5]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annex2-lvlu1-lvlu1-6]: O dals 16 da schan. 1991 davart la protecziun da la natira e da la patria ([SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
-[^annex2-lvlu1-lvlu1-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-lvlu1-8]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^annex2-lvlu1-lvlu1-9]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
-[^annex2-lvlu1-lvlu1-10]: O dals 8 da nov. 1978 davart la navigaziun interna ([SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337))
-[^annex2-lvlu1-lvlu1-11]: O dals 17 da mars 1976 davart la navigaziun sin il Lai da Constanza ([SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
-[^annex2-lvlu1-lvlu1-12]: Disposiziuns executivas dal DATEC dals 28 d’avust 2017 tar l’O davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
-[^annex2-lvlu1-lvlu1-13]: O dals 14 d’oct. 2015 davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
-[^annex2-lvlu1-lvlu1-14]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-lvlu1-15]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex2-lvlu1-lvlu1-16]: O dals 22 da zer. 2005 davart il traffic da ruments ([SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
-[^annex2-lvlu1-lvlu1-17]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^annex2-lvlu1-lvlu1-18]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annex2-lvlu1-lvlu1-19]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^annex2-lvlu1-lvlu1-20]: O da chatscha dals 29 da favr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
-[^annex2-lvlu1-lvlu1-21]: O dals 30 da sett. 1991 davart ils asils federals da selvaschina ([SR 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
-[^annex2-lvlu1-lvlu1-22]: O dals 21 da schan. 1991 davart ils reservats d’utschels da l’aua e d’utschels migrants d’impurtanza internaziunala e naziunala ([SR 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
-[^annex2-lvlu1-lvlu1-23]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annex2-lvlu1-lvlu1-24]: O dals 24 da nov. 1993 tar la LF davart la pestga ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
-[^annex2-lvlu1-lvlu1-25]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^annex2-lvlu1-lvlu1-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^annex2-lvlu1-lvlu1-3]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
+[^annex2-lvlu1-lvlu1-4]: [SR 311.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40236)
+[^annex2-lvlu1-lvlu1-5]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^annex2-lvlu1-lvlu1-6]: O dals 16 da schan. 1991 davart la protecziun da la natira e da la patria ([SR 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167))
+[^annex2-lvlu1-lvlu1-7]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex2-lvlu1-lvlu1-8]: [SR 741.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8697)
+[^annex2-lvlu1-lvlu1-9]: [SR 747.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8912)
+[^annex2-lvlu1-lvlu1-10]: O dals 8 da nov. 1978 davart la navigaziun interna ([SR 747.201.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8915))
+[^annex2-lvlu1-lvlu1-11]: O dals 17 da mars 1976 davart la navigaziun sin il Lai da Constanza ([SR 747.223.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8949))
+[^annex2-lvlu1-lvlu1-12]: Disposiziuns executivas dal DATEC dals 28 d’avust 2017 tar l’O davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8918))
+[^annex2-lvlu1-lvlu1-13]: O dals 14 d’oct. 2015 davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8917))
+[^annex2-lvlu1-lvlu1-14]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^annex2-lvlu1-lvlu1-15]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^annex2-lvlu1-lvlu1-16]: O dals 22 da zer. 2005 davart il traffic da ruments ([SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575))
+[^annex2-lvlu1-lvlu1-17]: [SR 818.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9828)
+[^annex2-lvlu1-lvlu1-18]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^annex2-lvlu1-lvlu1-19]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^annex2-lvlu1-lvlu1-20]: Il renviament è vegnì adattà per il 1. da favr. 2025 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex2-lvlu1-lvlu1-21]: O da chatscha dals 29 da favr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980))
+[^annex2-lvlu1-lvlu1-22]: O dals 30 da sett. 1991 davart ils asils federals da selvaschina ([SR 922.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10983))
+[^annex2-lvlu1-lvlu1-23]: O dals 21 da schan. 1991 davart ils reservats d’utschels da l’aua e d’utschels migrants d’impurtanza internaziunala e naziunala ([SR 922.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10984))
+[^annex2-lvlu1-lvlu1-24]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^annex2-lvlu1-lvlu1-25]: O dals 24 da nov. 1993 tar la LF davart la pestga ([SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990))
+[^annex2-lvlu1-lvlu1-26]: [SR 943.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11308)
 
 Agiunta 3
 

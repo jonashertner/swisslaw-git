@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2025-01-01
+version: 2025-02-10
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250210/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250210-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250101/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. Januar 2025)
+vom 16. Januar 2019 (Stand am 10. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 5 Absatz 1 und 15 des Ordnungsbussengesetzes vom 18. M
 
 verordnet:
 
-[^ingress-1]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^ingress-1]: [SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 
 #### Art. 1
 
@@ -36,7 +36,7 @@ Die Übertretungen von Vorschriften, die im Ordnungsbussenverfahren geahndet wer
 - a. Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958[^1-1]: Anhang 1;
 - b. Übertretungen nach den übrigen Erlassen: Anhang 2.
 
-[^1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^1-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 2
 
@@ -90,7 +90,7 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-lvlu1-1]
 
-[^annex1-lvlu1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 <table>
 <tr><th></th><th colspan="3">Fr.</th></tr>
@@ -312,7 +312,7 @@ Anhang 1[^t-1]
 <tr><td>a. um 1– 5 km/h</td><td colspan="3">[tab] 40</td></tr>
 <tr><td>b. um 6–10 km/h</td><td colspan="3">[tab] 120</td></tr>
 <tr><td>c. um 11–15 km/h</td><td colspan="3">[tab] 250</td></tr>
-<tr><td>2. Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messunsicherheit ausserorts und auf Autostrassen (Art. 27 Abs. 1 SVG; Art. 4*a* Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV)</td><td colspan="3">[tab]</td></tr>
+<tr><td>2. Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messunsicherheit ausserorts und auf Autostrassen (Art. 27 Abs. 1 SVG; Art. 4*a* Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV)</td><td colspan="3"></td></tr>
 <tr><td>a. um 1– 5 km/h</td><td colspan="3">[tab] 40</td></tr>
 <tr><td>b. um 6–10 km/h</td><td colspan="3">[tab] 100</td></tr>
 <tr><td>c. um 11–15 km/h</td><td colspan="3">[tab] 160</td></tr>
@@ -550,8 +550,6 @@ Anhang 1[^t-1]
 <tr><td>3. den erforderlichen Rückspiegel bei Motorfahrrädern (Art. 179*b* Abs. 1 VTS)</td><td colspan="3">20</td></tr>
 <tr><td>4. den erforderlichen Geschwindigkeitsmesser (Art. 178*b* Abs. 3 und 222*q* VTS)</td><td colspan="3">20</td></tr>
 <tr><td>704. Mangelhafter Zustand des Reifens (Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS) pro Rad</td><td colspan="3">20</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td></tr>
-<tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>8. Mitfahrerinnen und Mitfahrer</td><td colspan="3"></td></tr>
 <tr><td>800. Nichttragen</td><td colspan="3"></td></tr>
 <tr><td>1. der Sicherheitsgurten durch die Mitfahrerin oder den Mitfahrer (Art. 3*a* Abs. 1 VRV)</td><td colspan="3">60</td></tr>
@@ -586,15 +584,15 @@ Anhang 1[^t-1]
 <tr><td>6. Missachten des Vortritts der Fussgänger (Art. 50*a* Abs. 2 VRV)</td><td colspan="3">30</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu1-2]: Verkehrsregelnverordnung vom 13. Nov. 1962 ([SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420))
-[^annex1-lvlu1-lvlu1-3]: Signalisationsverordnung vom 5. Sept. 1979 ([SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961))
-[^annex1-lvlu1-lvlu1-4]: Chauffeurverordnung vom 19. Juni 1995 ([SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031))
-[^annex1-lvlu1-lvlu1-5]: V vom 6. Mai 1981 über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen ([SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480))
-[^annex1-lvlu1-lvlu1-6]: V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685))
-[^annex1-lvlu1-lvlu1-7]: Verkehrszulassungsverordnung vom 27. Okt. 1976 ([SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423))
-[^annex1-lvlu1-lvlu1-8]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2021 angepasst.
-[^annex1-lvlu1-lvlu1-9]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2021 angepasst.
-[^annex1-lvlu1-lvlu1-10]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)**)**
+[^annex1-lvlu1-lvlu1-2]: Verkehrsregelnverordnung vom 13. Nov. 1962 ([SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624))
+[^annex1-lvlu1-lvlu1-3]: Signalisationsverordnung vom 5. Sept. 1979 ([SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639))
+[^annex1-lvlu1-lvlu1-4]: Chauffeurverordnung vom 19. Juni 1995 ([SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911))
+[^annex1-lvlu1-lvlu1-5]: V vom 6. Mai 1981 über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen ([SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912))
+[^annex1-lvlu1-lvlu1-6]: V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690))
+[^annex1-lvlu1-lvlu1-7]: Verkehrszulassungsverordnung vom 27. Okt. 1976 ([SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668))
+[^annex1-lvlu1-lvlu1-8]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2021 angepasst.
+[^annex1-lvlu1-lvlu1-9]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2021 angepasst.
+[^annex1-lvlu1-lvlu1-10]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)**)**
 [^annex1-lvlu1-lvlu1-11]: Der Text der Allgemeinen Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände ist im Internet abrufbar unter: [www.astra.admin.ch](http://www.astra.admin.ch) &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international.
 
 Anhang 2[^t-2]
@@ -603,7 +601,7 @@ Anhang 2[^t-2]
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)) und Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)) und der Berichtigung vom 10. Febr. 2025 ([AS 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -616,8 +614,8 @@ Anhang 2[^t-2]
 <tr><td>III. Bundesgesetz vom 19. Dezember 1986[^annex2-lvlu1-lvlu1-3] gegen den unlauteren Wettbewerb (UWG)</td><td colspan="2"></td></tr>
 <tr><td>3001. Verletzung der Pflicht zur Preisbekanntgabe oder zur Grundpreisbekanntgabe (Art. 24 Abs. 1 Bst. a und Abs. 2 UWG)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>III<sup>bis</sup>. Bundesgesetz vom 29. September 2023[^annex2-lvlu1-lvlu1-4] über das Verbot der Verhüllung des Gesichts (BVVG)</td><td></td></tr>
-<tr><td>3001<sup>bis</sup>. Verhüllen oder Verbergen des Gesichts an öffentlichen oder privaten Orten, die der Allgemeinheit zur entgeltlichen oder unentgeltlichen Nutzung offenstehen, ohne dass eine Ausnahme nach Artikel 2 Absatz 2 BVVG vorliegt (Art. 2 Abs. 1 und 2 sowie Art. 3 Abs. 1 BVVG)</td><td>100</td></tr>
-<tr><td>3002<sup>bis</sup>. Unbewilligtes Verhüllen des Gesichts an öffentlichen Orten (Art. 2 Abs. 1 und 3 sowie Art. 3 Abs. 1 BVVG)</td><td>100</td></tr>
+<tr><td>3101. Verhüllen oder Verbergen des Gesichts an öffentlichen oder privaten Orten, die der Allgemeinheit zur entgeltlichen oder unentgeltlichen Nutzung offenstehen, ohne dass eine Ausnahme nach Artikel 2 Absatz 2 BVVG vorliegt (Art. 2 Abs. 1 und 2 sowie Art. 3 Abs. 1 BVVG)</td><td>100</td></tr>
+<tr><td>3102. Unbewilligtes Verhüllen des Gesichts an öffentlichen Orten (Art. 2 Abs. 1 und 3 sowie Art. 3 Abs. 1 BVVG)</td><td>100</td></tr>
 <tr><td>IV. Bundesgesetz vom 1. Juli 1966[^annex2-lvlu1-lvlu1-5] über den Natur- und Heimatschutz (NHG)</td><td colspan="2"></td></tr>
 <tr><td>4001. Unberechtigtes Pflücken, Ausgraben, Ausreissen, Wegführen, Anbieten, Verkaufen, Kaufen oder Vernichten von nicht mehr als fünf Stück wildlebender Pflanzen der in Anhang 2 zur NHV[^annex2-lvlu1-lvlu1-6] aufgeführten Arten (Art. 24*a* Abs. 1 Bst. b NHG, Art. 20 Abs. 1 und 5 NHV)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>V. Waffengesetz vom 20. Juni 1997[^annex2-lvlu1-lvlu1-7] (WG)</td><td colspan="2"></td></tr>
@@ -627,7 +625,7 @@ Anhang 2[^t-2]
 <tr><td>6001. Benützung einer Nationalstrasse erster oder zweiter Klasse ohne die für die Abgabeperiode erforderliche Vignette (Art. 14 Abs. 1 i. V. m. Art. 6*a*–7*a* und 8 NSAG).</td><td colspan="2">200</td></tr>
 <tr><td>6002. Benützung einer Nationalstrasse erster oder zweiten Klasse mit einer für die Abgabeperiode erforderlichen Klebevignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt ist oder die beschädigt ist (Art. 14 Abs. 1 i. V. m. Art. 6*a*, 7 und 8 NSAG).</td><td colspan="2">200</td></tr>
 <tr><td>VII. Bundesgesetz vom 3. Oktober 1975[^annex2-lvlu1-lvlu1-9] über die Binnenschifffahrt (BSG)</td><td colspan="2"></td></tr>
-<tr><td>**1.** **Administrative Bestimmungen**</td><td colspan="2">[tab]</td></tr>
+<tr><td>**1.** **Administrative Bestimmungen**</td><td colspan="2"></td></tr>
 <tr><td>7100. Nichtmitführen der erforderlichen Ausweise oder Urkunden (Art. 45 und 46 BSG, Art. 8 BSV[^annex2-lvlu1-lvlu1-10], Art. 1.06 BSO[^annex2-lvlu1-lvlu1-11])</td><td colspan="2"></td></tr>
 <tr><td>1. Nichtmitführen des erforderlichen Führerausweises oder Schifferpatentes (Art. 45 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td colspan="2">20</td></tr>
 <tr><td>2. Nichtmitführen des Schiffsausweises oder der Zulassungsurkunde (Art. 46 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td colspan="2">20</td></tr>
@@ -716,8 +714,8 @@ Anhang 2[^t-2]
 <tr><td>XII. Jagdgesetz vom 20. Juni 1986[^annex2-lvlu1-lvlu1-19] (JSG)</td><td colspan="2"></td></tr>
 <tr><td>12001. Betreten von Jagdgebieten ohne ausreichenden Grund mit einer Schusswaffe (Art. 18 Abs. 1 Bst. b und Abs. 3 JSG)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>12002. Wildernlassen von Hunden (Art. 18 Abs. 1 Bst. d und Abs. 3 JSG)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12003. Betreten oder Befahren von Ruhezonen für Wildtiere ausserhalb der bezeichneten Routen und Wege (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 4<sup>ter</sup> JSV[^annex2-lvlu1-lvlu1-20])</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12004. Missachtung der Leinenpflicht in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c VEJ[^annex2-lvlu1-lvlu1-21]) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c WZVV[^annex2-lvlu1-lvlu1-22])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12003. Betreten oder Befahren von Ruhezonen für Wildtiere ausserhalb der bezeichneten Routen und Wege (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 4*e*[^annex2-lvlu1-lvlu1-20] JSV[^annex2-lvlu1-lvlu1-21])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12004. Missachtung der Leinenpflicht in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c VEJ[^annex2-lvlu1-lvlu1-22]) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c WZVV[^annex2-lvlu1-lvlu1-23])</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12005. Freies Zelten oder Campieren in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. e VEJ)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12006. Betrieb von zivilen, unbemannten Luftfahrzeugen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. f<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. f<sup>bis</sup> WZVV)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12007. Skifahren ausserhalb von markierten Pisten, Routen oder Loipen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g VEJ)</td><td colspan="2">[tab] 150</td></tr>
@@ -725,41 +723,42 @@ Anhang 2[^t-2]
 <tr><td>12009. Fahren mit Drachensegelbrettern oder ähnlichen Geräten und Betreiben von Modellbooten in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g WZVV)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12010. Füttern von wildlebenden Tieren und das Einrichten von Salzlecken in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> WZVV)</td><td colspan="2">[tab] 150</td></tr>
 <tr><td>12011. Nichtmitführen der vorgeschriebenen Ausweise während der Jagd (Art. 18 Abs. 4 JSG), je fehlender Ausweis</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>XIII. Bundesgesetz vom 21. Juni 1991[^annex2-lvlu1-lvlu1-23] über die Fischerei (BGF)</td><td colspan="2"></td></tr>
-<tr><td>13001. Fangen von Fischen oder Krebsen während der Schonzeit (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 1 Abs. 1–3 VBGF[^annex2-lvlu1-lvlu1-24]), je Fisch oder Krebs</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>XIII. Bundesgesetz vom 21. Juni 1991[^annex2-lvlu1-lvlu1-24] über die Fischerei (BGF)</td><td colspan="2"></td></tr>
+<tr><td>13001. Fangen von Fischen oder Krebsen während der Schonzeit (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 1 Abs. 1–3 VBGF[^annex2-lvlu1-lvlu1-25]), je Fisch oder Krebs</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>13002. Unterschreiten der Fangmindestmasse (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2 Abs. 1 und 4 VBGF), je Fisch oder Krebs</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>13003. Missachtung von Fangverboten (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2*a* VBGF), je Fisch oder Krebs</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>XIV. Bundesgesetz vom 23. März 2001[^annex2-lvlu1-lvlu1-25] über das Gewerbe der Reisenden</td><td colspan="2"></td></tr>
+<tr><td>XIV. Bundesgesetz vom 23. März 2001[^annex2-lvlu1-lvlu1-26] über das Gewerbe der Reisenden</td><td colspan="2"></td></tr>
 <tr><td>14001. Ausübung des Reisendengewerbes ohne Bewilligung (Art. 14 Abs. 1 Bst. b und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td colspan="2">[tab] 20</td></tr>
 </table>
 
-[^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^annex2-lvlu1-lvlu1-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^annex2-lvlu1-lvlu1-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^annex2-lvlu1-lvlu1-4]: [SR 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
-[^annex2-lvlu1-lvlu1-5]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annex2-lvlu1-lvlu1-6]: V vom 16. Jan. 1991 über den Natur- und Heimatschutz ([SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
-[^annex2-lvlu1-lvlu1-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-lvlu1-8]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^annex2-lvlu1-lvlu1-9]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
-[^annex2-lvlu1-lvlu1-10]: Binnenschifffahrtsverordnung vom 8. Nov. 1978 ([SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337))
-[^annex2-lvlu1-lvlu1-11]: Bodensee-Schifffahrts-Ordnung vom 17. März 1976 ([SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
-[^annex2-lvlu1-lvlu1-12]: Ausführungsbestimmungen des UVEK vom 28. Aug. 2017 zur Verordnung über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
-[^annex2-lvlu1-lvlu1-13]: V vom 14. Okt. 2015 über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
-[^annex2-lvlu1-lvlu1-14]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-lvlu1-15]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex2-lvlu1-lvlu1-16]: V vom 22. Juni 2005 über den Verkehr mit Abfällen ([SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
-[^annex2-lvlu1-lvlu1-17]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^annex2-lvlu1-lvlu1-18]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annex2-lvlu1-lvlu1-19]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^annex2-lvlu1-lvlu1-20]: Jagdverordnung vom 29. Febr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
-[^annex2-lvlu1-lvlu1-21]: V vom 30. Sept. 1991 über die eidgenössischen Jagdbanngebiete ([SR 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
-[^annex2-lvlu1-lvlu1-22]: V vom 21. Jan. 1991 über die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung ([SR 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
-[^annex2-lvlu1-lvlu1-23]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annex2-lvlu1-lvlu1-24]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
-[^annex2-lvlu1-lvlu1-25]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^annex2-lvlu1-lvlu1-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^annex2-lvlu1-lvlu1-3]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
+[^annex2-lvlu1-lvlu1-4]: [SR 311.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40236)
+[^annex2-lvlu1-lvlu1-5]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^annex2-lvlu1-lvlu1-6]: V vom 16. Jan. 1991 über den Natur- und Heimatschutz ([SR 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167))
+[^annex2-lvlu1-lvlu1-7]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex2-lvlu1-lvlu1-8]: [SR 741.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8697)
+[^annex2-lvlu1-lvlu1-9]: [SR 747.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8912)
+[^annex2-lvlu1-lvlu1-10]: Binnenschifffahrtsverordnung vom 8. Nov. 1978 ([SR 747.201.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8915))
+[^annex2-lvlu1-lvlu1-11]: Bodensee-Schifffahrts-Ordnung vom 17. März 1976 ([SR 747.223.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8949))
+[^annex2-lvlu1-lvlu1-12]: Ausführungsbestimmungen des UVEK vom 28. Aug. 2017 zur Verordnung über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8918))
+[^annex2-lvlu1-lvlu1-13]: V vom 14. Okt. 2015 über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8917))
+[^annex2-lvlu1-lvlu1-14]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^annex2-lvlu1-lvlu1-15]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^annex2-lvlu1-lvlu1-16]: V vom 22. Juni 2005 über den Verkehr mit Abfällen ([SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575))
+[^annex2-lvlu1-lvlu1-17]: [SR 818.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9828)
+[^annex2-lvlu1-lvlu1-18]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^annex2-lvlu1-lvlu1-19]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^annex2-lvlu1-lvlu1-20]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Feb. 2025 angepasst.
+[^annex2-lvlu1-lvlu1-21]: Jagdverordnung vom 29. Febr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980))
+[^annex2-lvlu1-lvlu1-22]: V vom 30. Sept. 1991 über die eidgenössischen Jagdbanngebiete ([SR 922.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10983))
+[^annex2-lvlu1-lvlu1-23]: V vom 21. Jan. 1991 über die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung ([SR 922.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10984))
+[^annex2-lvlu1-lvlu1-24]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^annex2-lvlu1-lvlu1-25]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990))
+[^annex2-lvlu1-lvlu1-26]: [SR 943.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11308)
 
 Anhang 3
 
