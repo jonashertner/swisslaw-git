@@ -2,21 +2,22 @@
 canton: AI
 number: "916.421"
 title: Standeskommissionsbeschluss zur Tiergesundheitsverordnung
-short: StKB TgV
+short: StKB Tiergesundheitsverordnung
 language: de
 version: 2025-01-01
+corrected: 2025-02-11
 version_adopted: 2025-02-04
 adopted: 2025-02-04
 in_force: 2025-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/916.421"
-pdf: "https://ai.clex.ch/api/de/versions/2346/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zur Tiergesundheitsverordnung
 
-(StKB TgV)
+(StKB Tiergesundheitsverordnung)
 
 vom 04.02.2025 (Stand 01.01.2025)
 
