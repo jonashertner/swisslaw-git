@@ -4,11 +4,11 @@ title: Ordonnance du 28 juin 2023 sur la reconnaissance des certificats de matur
 short: ORM
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/373"
 language: fr
-version: 2024-08-01
+version: 2025-02-12
 adopted: 2023-06-28
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2023-373-20240801-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20250212/fr/xml/fedlex-data-admin-ch-eli-cc-2023-373-20250212-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20250212/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/fr"
 
 (ORM)
 
-du 28 juin 2023 (État le 1<sup>er</sup> août 2024)
+du 28 juin 2023 (État le 12 février 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 39, al. 2, de la loi du 4 octobre 1991 sur les EPF[^ingress-1], vu l
 
 arrête:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^ingress-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## Section 1 Dispositions générales
 
@@ -245,7 +245,7 @@ Le temps total consacré à l’enseignement des disciplines ci-après est répa
 
 <table>
 <tr><td>Disciplines</td><td>Pourcentage</td></tr>
-<tr><td>a. disciplines fondamentales:</td><td></td></tr>
+<tr><td>disciplines fondamentales:</td><td></td></tr>
 <tr><td>1. langues: langue d’enseignement, deuxième langue nationale, troisième langue</td><td>au moins 27 %</td></tr>
 <tr><td>2. mathématiques, informatique; sciences expérimentales: biologie, chimie, physique</td><td>au moins 27 %</td></tr>
 <tr><td>3. sciences humaines et sociales: histoire, géographie, économie et droit</td><td>au moins 12 %</td></tr>
@@ -288,7 +288,9 @@ Les élèves ont la possibilité de suivre un cours dans les langues suivantes:
 
 <sup>1</sup> Les élèves développent leurs compétences interculturelles, sociales et personnelles.
 
-<sup>2</sup> Les conditions nécessaires sont en outre réunies pour permettre à chaque élève de participer à des activités d’échanges et de mobilité dans une autre région linguistique en Suisse ou à l’étranger.
+<sup>2</sup> Les conditions nécessaires sont en outre réunies pour permettre à chaque élève de participer à des activités d’échanges et de mobilité dans une autre région linguistique en Suisse ou à l’étranger.[^22-1]
+
+[^22-1]: Erratum du 12 fév. 2025, ne concerne que le texte italien ([RO 2025 97](https://fedlex.data.admin.ch/eli/oc/2025/97)).
 
 #### Art. 23
 

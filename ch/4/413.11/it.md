@@ -4,11 +4,11 @@ title: "Ordinanza del 28 giugno 2023 concernente il riconoscimento degli attesta
 short: ORM
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/373"
 language: it
-version: 2024-08-01
+version: 2025-02-12
 adopted: 2023-06-28
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2023-373-20240801-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20250212/it/xml/fedlex-data-admin-ch-eli-cc-2023-373-20250212-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20250212/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/it"
 
 (Ordinanza sulla maturità, ORM)
 
-del 28 giugno 2023 (Stato 1° agosto 2024)
+del 28 giugno 2023 (Stato 12 febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visto l’articolo 39 capoverso 2 della legge del 4 ottobre 1991[^ingress-1] sui
 
 ordina:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^ingress-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## Sezione 1: Disposizioni generali
 
@@ -67,7 +67,6 @@ In particolare, si fa riferimento ai requisiti minimi del piano quadro degli stu
 
 - a. gli ambiti di apprendimento e le competenze disciplinari nelle discipline fondamentali;
 - b. le direttive per la scelta degli ambiti di apprendimento e per le competenze disciplinari nelle materie dell’ambito a scelta;
-- [tab]
 - c. le competenze di base per l’idoneità generale agli studi universitari;
 - d. l’integrazione degli ambiti d’insegnamento trasversali, in particolare per quanto riguarda le competenze interdisciplinari e l’interdisciplinarità;
 - e. il lavoro di maturità.
@@ -247,10 +246,10 @@ Il tempo complessivo dedicato all’insegnamento è ripartito percentualmente co
 <table>
 <tr><td>Materie</td><td>in percentuale</td></tr>
 <tr><td>a. Discipline fondamentali:</td><td></td></tr>
-<tr><td>1. Lingue: lingua d’insegnamento, seconda lingua nazionale e terza lingua</td><td>min. 27</td></tr>
-<tr><td>2. Matematica, informatica e scienze sperimentali (biologia, chimica e fisica)</td><td>min. 27</td></tr>
-<tr><td>3. Scienze umane: storia, geografia, economia e diritto</td><td>min. 12</td></tr>
-<tr><td>4. Discipline artistiche: arti visive o musica oppure arti visive e musica</td><td>min. 6</td></tr>
+<tr><td>Lingue: lingua d’insegnamento, seconda lingua nazionale e terza lingua</td><td>min. 27</td></tr>
+<tr><td>Matematica, informatica e scienze sperimentali (biologia, chimica e fisica)</td><td>min. 27</td></tr>
+<tr><td>Scienze umane: storia, geografia, economia e diritto</td><td>min. 12</td></tr>
+<tr><td>Discipline artistiche: arti visive o musica oppure arti visive e musica</td><td>min. 6</td></tr>
 <tr><td>b. Opzione specifica, opzione complementare e lavoro di maturità</td><td>min. 15</td></tr>
 </table>
 
@@ -289,7 +288,9 @@ Si garantisce che gli allievi possano frequentare un corso nelle lingue seguenti
 
 <sup>1</sup> Si garantisce che gli allievi accrescano le proprie competenze interculturali, sociali e personali.
 
-<sup>2</sup> Si creano i presupposti affinché ogni allievo partecipi ad attività di scambio e mobilità in un’altra regione linguistica della Svizzera o all’estero.
+<sup>2</sup> Si creano i presupposti affinché ogni allievo possa partecipare ad attività di scambio e mobilità in un’altra regione linguistica della Svizzera o all’estero.[^22-1]
+
+[^22-1]: Correzione del 12 feb. 2025 ([RU 2025 97](https://fedlex.data.admin.ch/eli/oc/2025/97)).
 
 #### Art. 23
 
@@ -458,7 +459,7 @@ I riconoscimenti degli attestati di maturità liceale rilasciati secondo il diri
 - a. otto anni a decorrere dall’entrata in vigore della presente ordinanza;
 - b. quattordici anni a decorrere dall’entrata in vigore della presente ordinanza, se la durata minima dei cicli di maturità liceale non è conforme all’articolo 7.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 353](https://fedlex.data.admin.ch/eli/oc/2024/353)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 353](https://fedlex.data.admin.ch/eli/oc/2024/353)).
 
 #### Art. 37
 

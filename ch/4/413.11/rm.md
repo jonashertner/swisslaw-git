@@ -4,11 +4,11 @@ title: Ordinaziun dals 28 da zercladur 2023 davart la renconuschientscha dals at
 short: ORM
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/373"
 language: rm
-version: 2024-08-01
+version: 2025-02-12
 adopted: 2023-06-28
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20240801/rm/xml/fedlex-data-admin-ch-eli-cc-2023-373-20240801-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20250212/rm/xml/fedlex-data-admin-ch-eli-cc-2023-373-20250212-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20250212/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (ORM)
 
-dals 28 da zercladur 2023 (versiun dal 1. d’avust 2024)
+dals 28 da zercladur 2023 (versiun dals 12 da favrer 2025)
 
 Il Cussegl federal svizzer,
 
@@ -27,8 +27,8 @@ sa basond sin l’artitgel 39 alinea 2 da la Lescha dals 4 d’october 1991 dava
 
 ordinescha:
 
-[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^ingress-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## 1. secziun: Disposiziuns generalas
 
@@ -290,7 +290,9 @@ I vegn garantì, ch’ils scolars hajan la pussaivladad da frequentar in curs en
 
 <sup>1</sup> I vegn garantì, ch’ils scolars sviluppian vinavant lur cumpetenzas interculturalas, socialas e persunalas.
 
-<sup>2</sup> Ultra da quai vegnan stgaffidas premissas che permettan a mintga scolar da sa participar ad activitads da barat e da mobilitad en in’autra regiun linguistica da la Svizra u da l’exteriur.
+<sup>2</sup> Ultra da quai vegnan stgaffidas premissas che permettan a mintga scolar da sa participar ad activitads da barat e da mobilitad en in’autra regiun linguistica da la Svizra u da l’exteriur.[^22-1]
+
+[^22-1]: La rectificaziun dals 12 da favr. 2025 concerna mo il text talian ([AS 2025 97](https://fedlex.data.admin.ch/eli/oc/2025/97)).
 
 #### Art. 23
 

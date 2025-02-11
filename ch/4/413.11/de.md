@@ -4,11 +4,11 @@ title: "Verordnung vom 28. Juni 2023 über die Anerkennung von gymnasialen Matur
 short: MAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/373"
 language: de
-version: 2024-08-01
+version: 2025-02-12
 adopted: 2023-06-28
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2023-373-20240801-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/373/20250212/de/xml/fedlex-data-admin-ch-eli-cc-2023-373-20250212-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20250212/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/373/20240801/de"
 
 (Maturitätsanerkennungsverordnung, MAV)
 
-vom 28. Juni 2023 (Stand am 1. August 2024)
+vom 28. Juni 2023 (Stand am 12. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 39 Absatz 2 des ETH-Gesetzes vom 4. Oktober 1991[^ingress-
 
 verordnet:
 
-[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^ingress-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -288,7 +288,9 @@ Es wird sichergestellt, dass die Schülerinnen und Schüler die Möglichkeit hab
 
 <sup>1</sup> Es wird sichergestellt, dass die Schülerinnen und Schüler ihre interkulturellen, gesellschaftlichen und persönlichen Kompetenzen weiterentwickeln.
 
-<sup>2</sup> Es werden zudem Voraussetzungen geschaffen, die es erlauben, dass jede Schülerin und jeder Schüler an Austausch‐ und Mobilitätsaktivitäten in einer anderen Sprachregion der Schweiz oder des Auslands teilnimmt.
+<sup>2</sup> Es werden zudem Voraussetzungen geschaffen, die es erlauben, dass jede Schülerin und jeder Schüler an Austausch‐ und Mobilitätsaktivitäten in einer anderen Sprachregion der Schweiz oder des Auslands teilnimmt.[^22-1]
+
+[^22-1]: Die Berichtigung vom 12. Febr. 2025 betrifft nur den italienischen Text ([AS 2025 97](https://fedlex.data.admin.ch/eli/oc/2025/97)).
 
 #### Art. 23
 
