@@ -3,22 +3,24 @@ sr: "0.748.213.11"
 title: Accord multilatéral du 22 avril 1960 relatif aux certificats de navigabilité des aéronefs importés
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/912_929_949"
 language: fr
-version: 1972-06-01
+version: 2025-02-12
 adopted: 1960-04-22
 in_force: 1961-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/912_929_949/19720601/fr/xml/fedlex-data-admin-ch-eli-cc-1961-912_929_949-19720601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/912_929_949/19720601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/912_929_949/20250212/fr/xml/fedlex-data-admin-ch-eli-cc-1961-912_929_949-20250212-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/912_929_949/20250212/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord multilatéral relatif aux certificats de navigabilité des aéronefs importés
 
-RO **1961** 929
+RO **1961** 929; FF **1961** I 548
 
 Texte original
 
 Conclu à Paris le 22 avril 1960 Approuvé par l’Assemblée fédérale le 21 juin 1961[^t-1] Entré en vigueur pour la Suisse le 20 octobre 1961
+
+(État le 12 février 2025)
 
 [^t-1]: AF du 21 juin 1961 ([RO 1961 928](https://fedlex.data.admin.ch/eli/oc/1961/911_928_948))
 
@@ -171,9 +173,9 @@ Les documents à produire aux termes de l’art. 3 du présent accord, auquel la
 - Le «poids à vide» comprendra le poids de tout le lest fixe, du carburant non utilisable, de l’huile non vidangeable, de la totalité du liquide de refroidissement et du fluide des circuits hydrauliques, ainsi que le poids de tous les accessoires, instruments, équipements et appareils (y compris les appareils de radio et leurs contenants, et tous autres éléments considérés comme inamovibles); le devis de poids comprendra, en outre, la liste des accessoires, équipements, appareils et autres éléments considérés comme amovibles; il indiquera leurs poids respectifs et leur position par rapport au centre de gravité;
 - e. Les états d’inspection et d’entretien nécessaires pour permettre à l’État qui doit immatriculer l’aéronef de s’assurer que cet aéronef peut satisfaire aux normes de navigabilité dudit État.
 
-## Champ d’application de la convention le 1<sup>er</sup> juin 1972
-
 [^t-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+
+Champ d’application de la convention le 12 février 2025[^t-3]
 
 <table>
 <tr><td>États parties</td><td>Ratification</td><td></td><td>Entrée en vigueur</td><td></td></tr>
@@ -189,15 +191,15 @@ Les documents à produire aux termes de l’art. 3 du présent accord, auquel la
 <tr><td>Italie</td><td>19 avril</td><td>1968</td><td>19 mai</td><td>1968</td></tr>
 <tr><td>Luxembourg</td><td>22 mars</td><td>1965</td><td>21 avril</td><td>1965</td></tr>
 <tr><td>Norvège</td><td>11 avril</td><td>1962</td><td>11 mai</td><td>1962</td></tr>
-<tr><td>Pays-Bas [tab] Antilles néerlandaises</td><td>25 septembre</td><td>1962</td><td>25 octobre</td><td>1962</td></tr>
+<tr><td>Pays-Bas</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Aruba</td><td>25 septembre</td><td>1962</td><td>25 octobre</td><td>1962</td></tr>
+<tr><td>Curaçao</td><td>25 septembre</td><td>1962</td><td>25 octobre</td><td>1962</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>25 septembre</td><td>1962</td><td>25 octobre</td><td>1962</td></tr>
+<tr><td>Sint Maarten</td><td>25 septembre</td><td>1962</td><td>25 octobre</td><td>1962</td></tr>
 <tr><td>Portugal</td><td>4 juin</td><td>1968</td><td>4 juillet</td><td>1968</td></tr>
 <tr><td>Suède</td><td>7 juin</td><td>1960</td><td>24 août</td><td>1961</td></tr>
 <tr><td>Suisse</td><td>20 septembre</td><td>1961</td><td>20 octobre</td><td>1961</td></tr>
-<tr><td colspan="5">\* Déclarations, voir ci-après</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Listes actualisées des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-## Déclarations
-
-Grande‑Bretagne
-
-Le Gouvernement du Royaume‑Uni a déclaré que s’agissant de l’art. 16 de l’accord, l’expression «territoire métropolitain» désigne uniquement, en ce qui concerne cet accord, le territoire du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord.
+[^t-3]: [RO 1972 1620](https://fedlex.data.admin.ch/eli/oc/1972/1587_1620_1792); [2025 105](https://fedlex.data.admin.ch/eli/oc/2025/105). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

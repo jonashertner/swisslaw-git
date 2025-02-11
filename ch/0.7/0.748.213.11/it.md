@@ -3,23 +3,26 @@ sr: "0.748.213.11"
 title: Accordo multilaterale del 22 aprile 1960 concernente i certificati di navigabilità degli aeromobili importati
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/912_929_949"
 language: it
-version: 1972-06-01
+version: 2025-02-12
 adopted: 1960-04-22
 in_force: 1961-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/912_929_949/19720601/it/xml/fedlex-data-admin-ch-eli-cc-1961-912_929_949-19720601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/912_929_949/19720601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/912_929_949/20250212/it/xml/fedlex-data-admin-ch-eli-cc-1961-912_929_949-20250212-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/912_929_949/20250212/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo multilaterale concernente i certificati di navigabilità degli aeromobili importati
 
-Traduzione*[^t-1]*
+RU **1961** 949; FF **1961** 386 sommario; FF **1961** I 548 ediz. franc., BBl **1961** I 558 ediz. ted.
 
-Conchiuso a Parigi il 22 aprile 1960 Approvato dall’Assemblea federale il 21 giugno 1961[^t-2] Entrato in vigore per la Svizzera il 20 ottobre 1961
+Traduzione
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1961 948](https://fedlex.data.admin.ch/eli/oc/1961/911_928_948)
+Conchiuso a Parigi il 22 aprile 1960 Approvato dall’Assemblea federale il 21 giugno 1961[^t-1] Entrato in vigore per la Svizzera il 20 ottobre 1961
+
+(Stato 12 febbraio 2025)
+
+[^t-1]: [RU 1961 948](https://fedlex.data.admin.ch/eli/oc/1961/911_928_948)
 
 Gli Stati firmatari del presente accordo,
 
@@ -164,14 +167,14 @@ Elenco dei documenti
 I documenti da produrre giusta l’articolo 3 del presente accordo sono i seguenti:
 
 - a. un certificato di navigabilità rilasciato, rinnovato o convalidato durante il periodo di sessanta giorni che precede immediatamente la data della domanda presentata conformemente all’articolo 2 dello accordo;
-- b. il manuale di volo dell’aeromobile, o ogni altro documento ammesso per determinate categorie d’aeromobili dalle disposizioni dell’allegato alla convenzione relativa alla navigazione aerea civile internazionale,[^t-3] qui applicabile, indicando i dati sotto una forma che permetta all’aeromobile di soddisfare alle norme d’esercizio, come anche a ogni limite di impiego che completi dette norme, in vigore nello Stato che deve intavolare l’aeromobile, a meno che detto Stato non vi rinunci espressamente:
+- b. il manuale di volo dell’aeromobile, o ogni altro documento ammesso per determinate categorie d’aeromobili dalle disposizioni dell’allegato alla convenzione relativa alla navigazione aerea civile internazionale,[^t-2] qui applicabile, indicando i dati sotto una forma che permetta all’aeromobile di soddisfare alle norme d’esercizio, come anche a ogni limite di impiego che completi dette norme, in vigore nello Stato che deve intavolare l’aeromobile, a meno che detto Stato non vi rinunci espressamente:
 - c. il manuale di manutenzione dell’aeromobile redatto in modo idoneo a fornire tute le informazioni adeguate sul mantenimento delle sue attitudini al volo;
 - d. un prospetto dei pesi che indichi il «peso a vuoto» verificato dell’aeromobile e la contrattura corrispondente come anche le centrature limiti ammesse. Il «peso a vuoto» indica il peso di tutta la zavorra fissa, del carburante non utilizzabile, dell’olio non scaricabile, della totalità del liquido di raffreddamento e del fluido dei circuiti idraulici, come anche il peso di tutti gli accessori, strumenti, attrezzature e apparecchi (compresi gli apparecchi radio e i loro contenitori e ogni altro elemento considerato fisso); il prospetto dei pesi comprende, inoltre, l’elenco degli accessori, attrezzature, apparecchi e altri elementi considerati mobili, indicandone il peso e la posizione in rapporto al centro di gravità;
 - e. i rapporti di ispezione e di manutenzione necessari a consentire allo Stato che deve intavolare l’aeromobile di accertare che detto aeromobile può soddisfare alle norme di navigazione di detto Stato.
 
-## Campo d’applicazione della Convenzione il 1° giugno 1972
+[^t-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-[^t-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+Campo d’applicazione della Convenzione il 12 febbraio 2025[^t-3]
 
 <table>
 <tr><th colspan="3">Stati partecipanti</th><th colspan="2">Ratificazione</th><th colspan="2"></th><th colspan="2">Entrata in vigore</th><th></th></tr>
@@ -186,17 +189,16 @@ I documenti da produrre giusta l’articolo 3 del presente accordo sono i seguen
 <tr><td colspan="3">Italia</td><td colspan="2">19 aprile</td><td colspan="2">1968</td><td colspan="2">19 maggio</td><td>1968</td></tr>
 <tr><td colspan="3">Lussemburgo</td><td colspan="2">22 marzo</td><td colspan="2">1965</td><td colspan="2">21 aprile</td><td>1965</td></tr>
 <tr><td colspan="3">Norvegia</td><td colspan="2">11 aprile</td><td colspan="2">1962</td><td colspan="2">11 maggio</td><td>1962</td></tr>
-<tr><td colspan="3">Paesi Bassi</td><td colspan="2">25 settembre</td><td colspan="2">1962</td><td colspan="2">25 ottobre</td><td>1962</td></tr>
-<tr><td colspan="3">[tab] Antille olandesi</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="3">Paesi Bassi</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="3">Aruba</td><td colspan="2">25 settembre</td><td colspan="2">1962</td><td colspan="2">25 ottobre</td><td>1962</td></tr>
+<tr><td colspan="3">Curaçao</td><td colspan="2">25 settembre</td><td colspan="2">1962</td><td colspan="2">25 ottobre</td><td>1962</td></tr>
+<tr><td colspan="3">Parte caraibica (Bonaire, Sint Eustatius e Saba)</td><td colspan="2">25 settembre</td><td colspan="2">1962</td><td colspan="2">25 ottobre</td><td>1962</td></tr>
+<tr><td colspan="3">Sint Maarten</td><td colspan="2">25 settembre</td><td colspan="2">1962</td><td colspan="2">25 ottobre</td><td>1962</td></tr>
 <tr><td colspan="3">Portogallo</td><td colspan="2">4 giugno</td><td colspan="2">1968</td><td colspan="2">4 luglio</td><td>1968</td></tr>
 <tr><td colspan="3">Spagna</td><td colspan="2">1° agosto</td><td colspan="2">1961</td><td colspan="2">31 agosto</td><td>1961</td></tr>
 <tr><td colspan="3">Svezia</td><td colspan="2">7 giugno</td><td colspan="2">1960</td><td colspan="2">24 agosto</td><td>1961</td></tr>
 <tr><td colspan="3">Svizzera</td><td colspan="2">20 settembre</td><td colspan="2">1961</td><td colspan="2">20 ottobre</td><td>1961</td></tr>
-<tr><td>\*</td><td colspan="9">Dichiarazioni, vedere qui appresso.</td></tr>
+<tr><td>\*</td><td colspan="9">Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione dell’aviazione civile internazionale (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Listes actualisées des parties aux traités de droit aérien oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-## Dichiarazioni
-
-Gran Bretagna
-
-Il Governo del Regno Unito ha dichiarato che trattandosi dell’articolo 16 dell’accordo, l’espressione «territorio metropolitano» designa unicamente, per quanto concerne il detto accordo, il territorio del Regno Unito di Gran Bretagna e dell’Irlanda del Nord.
+[^t-3]: [RU 1972 1792](https://fedlex.data.admin.ch/eli/oc/1972/1587_1620_1792); [2025 105](https://fedlex.data.admin.ch/eli/oc/2025/105). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

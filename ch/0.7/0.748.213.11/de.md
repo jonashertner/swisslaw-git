@@ -3,28 +3,30 @@ sr: "0.748.213.11"
 title: Übereinkommen vom 22. April 1960 über Lufttüchtigkeitsausweise eingeführter Luftfahrzeuge
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/912_929_949"
 language: de
-version: 1972-06-01
+version: 2025-02-12
 adopted: 1960-04-22
 in_force: 1961-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/912_929_949/19720601/de/xml/fedlex-data-admin-ch-eli-cc-1961-912_929_949-19720601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/912_929_949/19720601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/912_929_949/20250212/de/xml/fedlex-data-admin-ch-eli-cc-1961-912_929_949-20250212-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/912_929_949/20250212/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über Lufttüchtigkeitsausweise eingeführter Luftfahrzeuge
 
-[^t-1]as Übersetzung*[^t-2]*
+AS **1961** 912; BBl **1961** I 558
+
+Übersetzung
 
 Abgeschlossen in Paris am 22. April 1960
 
-Von der Bundesversammlung genehmigt am 21. Juni 1961[^t-3]
+Von der Bundesversammlung genehmigt am 21. Juni 1961[^t-1]
 
 In Kraft getreten für die Schweiz am 20. Oktober 1961
 
-[^t-1]: [AS 1961 912](https://fedlex.data.admin.ch/eli/oc/1961/912_929_949); [BBl 1961 I 558](https://fedlex.data.admin.ch/eli/fga/1961/1_558_548_)
-[^t-2]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-3]: [AS 1961 911](https://fedlex.data.admin.ch/eli/oc/1961/911_928_948)
+(Stand am 12. Februar 2025)
+
+[^t-1]: [AS 1961 911](https://fedlex.data.admin.ch/eli/oc/1961/911_928_948)
 
 Die Unterzeichnerstaaten dieses Übereinkommens,
 
@@ -94,7 +96,7 @@ Jeder Vertragsstaat unterrichtet die andern Vertragsstaaten soweit wie möglich 
 
 #### Art. 8
 
-Ein Vertragsstaat, in dessen Hoheitsgebiet ein Luftfahrzeug gebaut und aus dem es in einen anderen Vertragsstaat ausgeführt wird, der in der Folge dieses Luftfahrzeug nach Artikel 2 dieses Übereinkommens mit einem gültigen Lufttüchtigkeitsausweis versieht,
+Ein Vertragsstaat, in dessen Hoheitsgebiet ein Luftfahrzeug gebaut und aus dem es in einen anderen Vertragsstaat ausgeführt wird, der in der Folge dieses Luftfahrzeug nach Artikel 2 dieses Übereinkommens mit einem gültigen Lufttüchtigkeitsausweis versieht:
 
 - a. teilt allen andern Vertragsstaaten Einzelheiten der zwingend vorgeschriebenen Änderungen und Nachprüfungen mit, die jederzeit von ihm für dieses Luftfahrzeugmuster gefordert werden können; und
 - b.
@@ -164,45 +166,44 @@ Dieses Übereinkommen findet auf alle Hoheitsgebiete des Mutterlandes der Vertra
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichner dieses Übereinkommen mit ihren Unterschriften versehen. Geschehen zu Paris, am zweiundzwanzigsten April neunzehnhundertsechzig, in einer Urschrift in englischer, französischer und spanischer Sprache, wobei jeder Wortlaut in gleicher Weise verbindlich ist. Dieses Übereinkommen wird bei der Internationalen Zivilluftfahrtorganisation hinterlegt, und der Generalsekretär der Organisation übermittelt allen ihren Mitgliedstaaten beglaubigte Abschriften.
 
-Anhang zum Übereinkommen
-
-## Liste der Unterlagen
+Liste der Unterlagen
 
 Die Unterlagen, die nach Artikel 3 des Übereinkommens, dem dieser Anhang beigefügt ist, vorgelegt werden müssen, sind:
 
 - a. ein Lufttüchtigkeitsausweis, ausgestellt, erneuert oder gültig erklärt innerhalb eines Zeitraumes von 60 Tagen unmittelbar vor dem Zeitpunkt, zu dem der Antrag nach Artikel 2 des Übereinkommens gestellt worden ist;
-- b. das Flughandbuch des betreffenden Luftfahrzeuges oder ein Ersatz dafür, den der entsprechende Anhang zum Abkommen über die Internationale Zivilluftfahrt[^annexu1-lvlu1-1] bestimmte Luftfahrzeugkategorien gestattet; diese Unterlagen müssen die Angaben in einer Form enthalten, die es dem Luftfahrzeug erlaubt, den Betriebsvorschriften und etwaigen diese Vorschriften ergänzenden Begrenzungen zu genügen, die in dem künftigen Eintragungsstaat in Kraft sind, sofern nicht dieser Staat ausdrücklich auf dieses Erfordernis verzichtet;
+- b. das Flughandbuch des betreffenden Luftfahrzeuges oder ein Ersatz dafür, den der entsprechende Anhang zum Abkommen über die Internationale Zivilluftfahrt[^t-2] bestimmte Luftfahrzeugkategorien gestattet; diese Unterlagen müssen die Angaben in einer Form enthalten, die es dem Luftfahrzeug erlaubt, den Betriebsvorschriften und etwaigen diese Vorschriften ergänzenden Begrenzungen zu genügen, die in dem künftigen Eintragungsstaat in Kraft sind, sofern nicht dieser Staat ausdrücklich auf dieses Erfordernis verzichtet;
 - c. das Unterhaltshandbuch des betreffenden Luftfahrzeuges, das so zusammen-gestellt ist, dass es für die Aufrechterhaltung der Lufttüchtigkeit des Luftfahrzeuges hinreichend Auskunft gibt;
 - d. eine Gewichtsliste, die das ermittelte «Leergewicht» des betreffenden Luftfahrzeuges und den entsprechenden Schwerpunkt sowie die Grenzen angibt, innerhalb derer der Schwerpunkt verlagert werden kann. Dieses «Leergewicht» umfasst das Gewicht des festen Ballastes, des unverbrauchbaren Treibstoffes, des nicht ablassbaren Öls, der Gesamtmenge der Motorkühl-stoffe und der hydraulischen Flüssigkeit sowie das Gewicht aller Zugehör, aller Instrumente, Ausrüstung und Geräte (einschliesslich der Funkausrüstung und ihrer Gehäuse und anderer Teile, die als fest und unbeweglich angesehen werden). Die Gewichtsliste enthält ferner eine Liste der Zugehör, der Ausrüstung, der Geräte und anderer Teile, die als beweglich angesehen werden sowie Einzelheiten über ihr Gewicht und ihren Abstand zum angegebenen Schwerpunkt; und
 - e. solche Prüfungs‑ und Unterhaltsberichte, die notwendig sind, um es dem künftigen Eintragungsstaat zu ermöglichen, festzustellen, ob das Luftfahrzeug den Lufttüchtigkeitsanforderungen dieses Staates genügen kann.
 
-[^annexu1-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^t-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-## Geltungsbereich des Übereinkommens am 1. Juni 1972
+Geltungsbereich am 12. Februar 2025[^t-3]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Belgien</td><td>6. Oktober</td><td>1961</td><td>5. November</td><td>1961</td></tr>
-<tr><td colspan="2">Dänemark</td><td>13. September</td><td>1962</td><td>13. Oktober</td><td>1962</td></tr>
-<tr><td colspan="2">Deutschland</td><td>17. Juli</td><td>1962</td><td>16. August</td><td>1962</td></tr>
-<tr><td colspan="2">Frankreich</td><td>29. November</td><td>1962</td><td>29. Dezember</td><td>1962</td></tr>
-<tr><td colspan="2">Griechenland</td><td>29. März</td><td>1967</td><td>28. April</td><td>1967</td></tr>
-<tr><td colspan="2">Grossbritannien\*</td><td>5. Dezember</td><td>1961</td><td>4. Januar</td><td>1962</td></tr>
-<tr><td colspan="2">Irland</td><td>14. September</td><td>1967</td><td>14. Oktober</td><td>1967</td></tr>
-<tr><td colspan="2">Italien</td><td>19. April</td><td>1968</td><td>19. Mai</td><td>1968</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>22. März</td><td>1965</td><td>21. April</td><td>1965</td></tr>
-<tr><td colspan="2">[tab] Niederlande, Niederländische Antillen</td><td>25. September</td><td>1962</td><td>25. Oktober</td><td>1962</td></tr>
-<tr><td colspan="2">Norwegen</td><td>11. April</td><td>1962</td><td>11. Mai</td><td>1962</td></tr>
-<tr><td colspan="2">Österreich</td><td>25. Juli</td><td>1961</td><td>24. August</td><td>1961</td></tr>
-<tr><td colspan="2">Portugal</td><td>4. Juni</td><td>1968</td><td>4. Juli</td><td>1968</td></tr>
-<tr><td colspan="2">Schweden</td><td>7. Juni</td><td>1960</td><td>24. August</td><td>1961</td></tr>
-<tr><td colspan="2">Schweiz</td><td>20. September</td><td>1961</td><td>20. Oktober</td><td>1961</td></tr>
-<tr><td colspan="2">Spanien</td><td>1. August</td><td>1961</td><td>31. August</td><td>1961</td></tr>
-<tr><td>\*</td><td colspan="5">Erklärung siehe hiernach.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien</td><td>6. Oktober</td><td>1961</td><td>5. November</td><td>1961</td></tr>
+<tr><td>Dänemark</td><td>13. September</td><td>1962</td><td>13. Oktober</td><td>1962</td></tr>
+<tr><td>Deutschland</td><td>17. Juli</td><td>1962</td><td>16. August</td><td>1962</td></tr>
+<tr><td>Frankreich</td><td>29. November</td><td>1962</td><td>29. Dezember</td><td>1962</td></tr>
+<tr><td>Griechenland</td><td>29. März</td><td>1967</td><td>28. April</td><td>1967</td></tr>
+<tr><td>Grossbritannien\*</td><td>5. Dezember</td><td>1961</td><td>4. Januar</td><td>1962</td></tr>
+<tr><td>Irland</td><td>14. September</td><td>1967</td><td>14. Oktober</td><td>1967</td></tr>
+<tr><td>Italien</td><td>19. April</td><td>1968</td><td>19. Mai</td><td>1968</td></tr>
+<tr><td>Luxemburg</td><td>22. März</td><td>1965</td><td>21. April</td><td>1965</td></tr>
+<tr><td>[tab] Niederlande</td><td>25. September</td><td>1962</td><td>25. Oktober</td><td>1962</td></tr>
+<tr><td>Aruba</td><td>25. September</td><td>1962</td><td>25. Oktober</td><td>1962</td></tr>
+<tr><td>Curaçao</td><td>25. September</td><td>1962</td><td>25. Oktober</td><td>1962</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>25. September</td><td>1962</td><td>25. Oktober</td><td>1962</td></tr>
+<tr><td>Sint Maarten</td><td>25. September</td><td>1962</td><td>25. Oktober</td><td>1962</td></tr>
+<tr><td>Norwegen</td><td>11. April</td><td>1962</td><td>11. Mai</td><td>1962</td></tr>
+<tr><td>Österreich</td><td>25. Juli</td><td>1961</td><td>24. August</td><td>1961</td></tr>
+<tr><td>Portugal</td><td>4. Juni</td><td>1968</td><td>4. Juli</td><td>1968</td></tr>
+<tr><td>Schweden</td><td>7. Juni</td><td>1960</td><td>24. August</td><td>1961</td></tr>
+<tr><td>Schweiz</td><td>20. September</td><td>1961</td><td>20. Oktober</td><td>1961</td></tr>
+<tr><td>Spanien</td><td>1. August</td><td>1961</td><td>31. August</td><td>1961</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht publiziert. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](http://www.icao.int) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-## Erklärung
-
-Grossbritannien
-
-Die Regierung des Vereinigten Königreichs hat in Bezug auf Artikel 16 des Übereinkommens erklärt, dass als Mutterland im Sinne dieses Übereinkommens nur das Vereinigte Königreich Grossbritannien und Nordirland zu betrachten sei.
+[^t-3]: [AS 1972 1587](https://fedlex.data.admin.ch/eli/oc/1972/1587_1620_1792); [2025 105](https://fedlex.data.admin.ch/eli/oc/2025/105). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
