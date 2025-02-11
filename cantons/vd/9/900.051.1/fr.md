@@ -4,7 +4,7 @@ number: "900.051.1"
 title: "RÈGLEMENT du 04.12.2024 sur l'emploi du fonds de soutien à l'industrie vaudoise (RFIV)"
 short: RFIV
 language: fr
-version: 2025-01-01
+version: 2025-02-12
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.051.1?id=56c7f50b-f5e9-4975-b4ac-8a8cf0f832aa"
 ---
 
@@ -91,7 +91,7 @@ arrête
 
 <sup>3</sup> Le cautionnement et l'arrière-cautionnement sont destinés prioritairement aux difficultés de trésorerie passagères selon l'alinéa 2 de l'article 3.
 
-<sup>4</sup> Le cautionnement et l'arrière-cautionnement sont destinés prioritairement aux difficultés de trésorerie passagères selon l'alinéa 2 de l'article 3.
+<sup>4</sup> L'arrière-cautionnement ne peut être accordé que pour les crédits cautionnés par Cautionnement romand, société coopérative.
 
 <sup>5</sup> Lors de l'octroi d'un cautionnement ou d'un arrière-cautionnement, le montant octroyé ne peut pas dépasser le capital disponible. Le capital disponible tient compte des engagements de cautionnements et arrière-cautionnements en cours ainsi que des éventuelles pertes encourues.
 
@@ -182,11 +182,9 @@ arrête
 
 <sup>2</sup> Pour tout projet dont le coût d'investissement est supérieur à CHF 1 million, l'aide à fonds perdu se monte à 10% au plus du coût total du projet, mais au maximum à CHF 300'000.-.
 
-<sup>3</sup> Le montant maximum de CHF 300'000.- selon l'alinéa 2 se calcule en incluant les aides déjà accordées sur la base du décret du 30 juin 2015 accordant au Conseil d'Etat un crédit de CHF 17'500'000.- destiné à financer la création d'un fonds de soutien en faveur des PME industrielles vaudoises[^9-1], et celles déjà accordées sur la base du décret du 15 décembre 2020 visant à allouer un montant de 8 millions de francs suisses au fonds de soutien à l'industrie en lien avec la pandémie coronavirus (COVID-19) et ses conséquences économiques[^9-2].
+<sup>3</sup> En outre, le montant total d'aides à fonds perdu octroyées à une même entreprise au moyen du fonds de soutien à l'industrie est au maximum de CHF 300'000.-. Ce montant maximum de CHF 300'000.- se calcule en incluant les aides déjà accordées sur la base du décret du 30 juin 2015 accordant au Conseil d'Etat un crédit de CHF 17'500'000.- destiné à financer la création d'un fonds de soutien en faveur des PME industrielles vaudoises, et celles déjà accordées sur la base du décret du 15 décembre 2020 visant à allouer un montant de 8 millions de francs suisses au fonds de soutien à l'industrie en lien avec la pandémie coronavirus (COVID-19) et ses conséquences économiques.
 
 [^sectionSectionIII-1]: Modif. 1 du 12.02.2025: Modification Al. 3; entrée en vigueur au 12.02.2025
-[^9-1]: Décret du 30.06.2015 accordant au Conseil d'Etat un crédit de CHF 17'500'000.- destiné à financer la création d'un fonds de soutien en faveur des PME industrielles vaudoises [(BLV 900.055)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.055?id=54dffa18-dd22-49c8-9d76-11cf71248985)
-[^9-2]: Décret du 15.12.2020 visant à allouer un montant de 8 millions de francs suisses au fonds de soutien à l'industrie en lien avec la pandémie coronavirus (COVID-19) et ses conséquences économiques ([BLV 900.05.151220.3](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.151220.3?id=7f825789-e879-41de-a190-6ec7c8380ad2))
 
 #### Art. 10
 
