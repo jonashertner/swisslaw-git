@@ -3,11 +3,11 @@ sr: "0.351.1"
 title: "Convention européenne d'entraide judiciaire en matière pénale du 20 avril 1959"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/831_871_866"
 language: fr
-version: 2022-04-22
+version: 2025-02-13
 adopted: 1959-04-20
 in_force: 1967-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20220422/fr/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20220422-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20220422/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20250213/fr/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20250213-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20250213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 20 avril 1959 Approuvée par l’Assemblée fédérale le 27 septembre 1966[^t-1] Instrument de ratification déposé par la Suisse le 20 décembre 1966 Entrée en vigueur pour la Suisse le 20 mars 1967
 
-(Etat le 22 avril 2022)
+(État le 13 février 2025)
 
 [^t-1]: [RO 1967 845](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
 
@@ -319,10 +319,10 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conse
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 20 avril 1959, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil en enverra copie certifiée conforme aux Gouvernements signataires et adhérents. (Suivent les signatures)
 
-Champ d’application le 22 avril 2022**[^t-2]**
+Champ d’application le 13 février 2025[^t-2]
 
 <table>
-<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie\*</td><td>4 avril</td><td>2000</td><td>3 juillet</td><td>2000</td></tr>
 <tr><td>Allemagne\*</td><td>2 octobre</td><td>1976</td><td>1<sup>er</sup> janvier</td><td>1977</td></tr>
 <tr><td>Andorre\*</td><td>26 avril</td><td>2005</td><td>25 juillet</td><td>2005</td></tr>
@@ -368,6 +368,7 @@ Champ d’application le 22 avril 2022**[^t-2]**
 <tr><td>République tchèque\*</td><td>15 avril</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\*</td><td>17 mars</td><td>1999</td><td>15 juin</td><td>1999</td></tr>
 <tr><td>Royaume-Uni\*</td><td>29 août</td><td>1991</td><td>27 novembre</td><td>1991</td></tr>
+<tr><td>Gibraltar</td><td>29 juillet</td><td>2019</td><td>27 octobre</td><td>2019</td></tr>
 <tr><td>Guernesey</td><td>27 septembre</td><td>2002</td><td>20 janvier</td><td>2003</td></tr>
 <tr><td>Île de Man</td><td>27 juin</td><td>2003</td><td>8 octobre</td><td>2003</td></tr>
 <tr><td>Jersey\*</td><td>27 juin</td><td>2008</td><td>2 octobre</td><td>2008</td></tr>
@@ -380,14 +381,14 @@ Champ d’application le 22 avril 2022**[^t-2]**
 <tr><td>Suisse\*</td><td>20 décembre</td><td>1966</td><td>20 mars</td><td>1967</td></tr>
 <tr><td>Turquie\*</td><td>24 juin</td><td>1969</td><td>22 septembre</td><td>1969</td></tr>
 <tr><td>Ukraine</td><td>11 mars</td><td>1998</td><td>9 juin</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1975 456](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456), [2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271); [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904); [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907); [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309), [2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261); [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193); [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490); [1986 324](https://fedlex.data.admin.ch/eli/oc/1986/324_324_324); [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059); [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141); **1999** 1354; [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129); [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630); [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319); [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70); [2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 1975 456](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456), [2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271); [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904); [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907); [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309), [2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261); [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193); [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490); [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059); [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141); [1999 1353](https://fedlex.data.admin.ch/eli/oc/1999/191); [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129); [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630); [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319); [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70); [2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268); [2025 111](https://fedlex.data.admin.ch/eli/oc/2025/111). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
-Suisse**[^t-3]**
+Suisse[^t-3]
 
 *Art. 1.* Le Conseil fédéral suisse déclare que les autorités suivantes doivent être considérées comme autorités judiciaires suisses aux fins de la convention:
 

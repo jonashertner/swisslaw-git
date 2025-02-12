@@ -3,11 +3,11 @@ sr: "0.351.1"
 title: Europäisches Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/831_871_866"
 language: de
-version: 2022-04-22
+version: 2025-02-13
 adopted: 1959-04-20
 in_force: 1967-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20220422/de/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20220422-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20220422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20250213/de/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20250213-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20250213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1967** 831; BBl **1966** I 494
 
 Abgeschlossen in Strassburg am 20. April 1959 Von der Bundesversammlung genehmigt am 27. September 1966[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 20. Dezember 1966 In Kraft getreten für die Schweiz am 20. März 1967
 
-(Stand am 22. April 2022)
+(Stand am 13. Februar 2025)
 
 [^t-1]: [AS 1967 805](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
 
@@ -275,7 +275,7 @@ Jede Vertragspartei kann bei der Unterzeichnung dieses Übereinkommens oder der 
 
 <sup>5.</sup> Zwischen zwei oder mehreren Vertragsparteien kann die Anwendung dieses Übereinkommens durch unmittelbare Vereinbarung unter den darin festzusetzenden Bedingungen auf andere als die in den Ziffern 1, 2, 3 und 4 erwähnten Gebiete ausgedehnt werden, für deren internationale Beziehungen eine dieser Vertragsparteien verantwortlich ist.
 
-[^25-1]: Das Übereink. ist auf Algerien nicht mehr anwendbar, nachdem dieses Land die Unabhängigkeit erlangt hat (siehe die Erklärung von Frankreich, welche auf der Internet-Seite des Europarates: http://conventions.coe.int/treaty/FR/cadreprincipal.htm eingesehen werden kann).
+[^25-1]: Das Übereink. ist auf Algerien nicht mehr anwendbar, nachdem dieses Land die Unabhängigkeit erlangt hat (siehe die Erklärung von Frankreich, welche auf der Internet-Seite des Europarates: [http://conventions.coe.int/treaty/FR/cadreprincipal.htm](http://conventions.coe.int/treaty/FR/cadreprincipal.htm) eingesehen werden kann).
 
 #### Art. 26
 
@@ -318,7 +318,7 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedern des Europarates
 
 *Zu Urkund dessen* haben die hiezu gehörig bevollmächtigten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg, am 20. April 1959, in französischer und englischer Sprache, wobei jeder Wortlaut in gleicher Weise massgebend ist, in einer Urschrift, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt den unterzeichneten und den beitretenden Regierungen beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. April 2022**[^t-2]**
+Geltungsbereich am 13. Februar 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -352,7 +352,7 @@ Geltungsbereich am 22. April 2022**[^t-2]**
 <tr><td>Monaco\*</td><td>19. März</td><td>2007</td><td>17. Juni</td><td>2007</td></tr>
 <tr><td>Montenegro\*</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande\*</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
-<tr><td>[tab] Aruba\*</td><td>21. Juli</td><td>1993</td><td>21. Juli</td><td>1993</td></tr>
+<tr><td>Aruba\*</td><td>21. Juli</td><td>1993</td><td>21. Juli</td><td>1993</td></tr>
 <tr><td>Curaçao\*</td><td>21. Juli</td><td>1993</td><td>21. Juli</td><td>1993</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>21. Juli</td><td>1993</td><td>21. Juli</td><td>1993</td></tr>
 <tr><td>Sint Maarten\*</td><td>21. Juli</td><td>1993</td><td>21. Juli</td><td>1993</td></tr>
@@ -375,18 +375,19 @@ Geltungsbereich am 22. April 2022**[^t-2]**
 <tr><td>Ukraine\*</td><td>11. März</td><td>1998</td><td>9. Juni</td><td>1998</td></tr>
 <tr><td>Ungarn\*</td><td>13. Juli</td><td>1993</td><td>11. Oktober</td><td>1993</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>29. August</td><td>1991</td><td>27. November</td><td>1991</td></tr>
-<tr><td>[tab] Guernsey</td><td>27. September</td><td>2002</td><td>20. Januar</td><td>2003</td></tr>
-<tr><td>[tab] Insel Man</td><td>27. Juni</td><td>2003</td><td>8. Oktober</td><td>2003</td></tr>
-<tr><td>[tab] Jersey\*</td><td>27. Juni</td><td>2008</td><td>2. Oktober</td><td>2008</td></tr>
+<tr><td>Gibraltar</td><td>29. Juli</td><td>2019</td><td>27. Oktober</td><td>2019</td></tr>
+<tr><td>Guernsey</td><td>27. September</td><td>2002</td><td>20. Januar</td><td>2003</td></tr>
+<tr><td>Insel Man</td><td>27. Juni</td><td>2003</td><td>8. Oktober</td><td>2003</td></tr>
+<tr><td>Jersey\*</td><td>27. Juni</td><td>2008</td><td>2. Oktober</td><td>2008</td></tr>
 <tr><td>Zypern\*</td><td>24. Februar</td><td>2000</td><td>24. Mai</td><td>2000</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 ## Vorbehalte und Erklärungen
 
-[^t-2]: [AS 1975 457](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456), [2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271); [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904); [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907); [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309), [2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261); [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193); [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490); [1986 324](https://fedlex.data.admin.ch/eli/oc/1986/324_324_324); [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059); [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141); [1999 1353](https://fedlex.data.admin.ch/eli/oc/1999/191); [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129); [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630); [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319); [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70); [2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 1975 457](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456), [2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271); [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904); [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907); [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309), [2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261); [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193); [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490); [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059); [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141); [1999 1353](https://fedlex.data.admin.ch/eli/oc/1999/191); [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129); [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630); [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319); [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70); [2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268); [2025 111](https://fedlex.data.admin.ch/eli/oc/2025/111). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Schweiz**[^scopeu1-lvlu1-1]**
+Schweiz[^scopeu1-lvlu1-1]
 
 *Artikel 1.* Der Schweizerische Bundesrat erklärt, dass als schweizerische Justizbehörden im Sinne des Übereinkommens zu betrachten sind:
 
@@ -418,13 +419,13 @@ Artikel 2
 
 *Artikel 13 Absatz 2.* Die Schweiz behält sich das Recht vor, Ersuchen nach Artikel 13 Absatz 2 nur stattzugeben, wenn darin die Notwendigkeit der Beschaffung des Strafregisterauszuges auf dem amtlichen Wege stichhaltig begründet ist, da jedermann das Recht hat, Auszüge aus dem Strafregister zu verlangen, die seine Person betreffen.
 
-*Artikel 15 Absatz 2.* Die Schweiz beabsichtigt, einen Einleitungssatz informativer Art der Erklärung zu Artikel 15 Absatz 2 des Übereinkommens mit folgendem Wortlaut hinzuzufügen: «Die Liste der örtlich zuständigen schweizerischen Zentralbehörden, an die ein Ersuchen gerichtet werden kann, kann online unter folgender Adresse abgefragt werden: http://www.elorge.admin.ch».
+*Artikel 15 Absatz 2.* Die Schweiz beabsichtigt, einen Einleitungssatz informativer Art der Erklärung zu Artikel 15 Absatz 2 des Übereinkommens mit folgendem Wortlaut hinzuzufügen: «Die Liste der örtlich zuständigen schweizerischen Zentralbehörden, an die ein Ersuchen gerichtet werden kann, kann online unter folgender Adresse abgefragt werden: [www.elorge.admin.ch](http://www.elorge.admin.ch)».
 
 *Artikel 16 Absatz 2.* Die Schweiz verlangt, dass an die schweizerischen Behörden gerichtete Rechtshilfeersuchen und deren Anlagen, mit Ausnahme der Ersuchen um Zustellung einer Vorladung, soweit sie nicht in deutscher, französischer oder italienischer Sprache abgefasst sind, mit einer Übersetzung in eine dieser Sprachen zu versehen sind.
 
 *Erklärung der Schweiz vom 1.2.2022 als Reaktion auf die Erklärungen der Teilnehmerstaaten der Europäischen Staatsanwaltschaft zur Benennung der Europäischen Staatsanwaltschaft als Justizbehörde*[^scopeu1-lvlu1-4]
 
-Der englische und französische Text der Schweizer Erklärung ist auf der Website des Europarates unter http://conventions.coe.int abrufbar oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, erhältlich.
+Der englische und französische Text der Schweizer Erklärung ist auf der Website des Europarates unter [http://conventions.coe.int](http://conventions.coe.int) abrufbar oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, erhältlich.
 
 [^scopeu1-lvlu1-1]: Art. 3 des BB vom 27. Sept. 1966 ([AS 1967 805](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)), des BB vom 4. Juni 1984 ([AS 1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)) und Art. 1 des BB vom 21. März 1996 ([AS 1999 1351](https://fedlex.data.admin.ch/eli/oc/1999/190)).
 [^scopeu1-lvlu1-2]: Die Bezeichnung der Verwaltungseinheit wurde gemäss Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
