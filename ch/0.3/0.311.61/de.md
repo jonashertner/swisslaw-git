@@ -3,11 +3,11 @@ sr: "0.311.61"
 title: Übereinkommen des Europarats vom 16. Mai 2005 zur Verhütung des Terrorismus
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/386"
 language: de
-version: 2021-07-01
+version: 2025-02-13
 adopted: 2005-05-16
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/386/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-386-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/386/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/386/20250213/de/xml/fedlex-data-admin-ch-eli-cc-2021-386-20250213-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/386/20250213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,11 +24,11 @@ Von der Bundesversammlung genehmigt am 25. September 2020[^t-1] Schweizerische R
 
 In Kraft getreten für die Schweiz am 1. Juli 2021
 
-(Stand am 1. Juli 2021)
+(Stand am 13. Februar 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 25. Sept. 2020 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360))
 
-*Die Mitgliedstaaten des Europarats und die anderen Unterzeichner dieses Übereinkommens,*
+*Die Mitgliedstaaten des Europarats* *und* *die anderen Unterzeichner dieses Übereinkommens,*
 
 von der Erwägung geleitet, dass es das Ziel des Europarats ist, eine engere Verbindung zwischen seinen Mitgliedern herbeizuführen;
 
@@ -472,18 +472,19 @@ Anhang
 [^t-12]: [SR 0.353.23](https://fedlex.data.admin.ch/eli/cc/2009/90)
 [^t-13]: Änderung des Anhangs, angenommen von den Ministerbeauftragten in ihrer 1034. Sitzung (11. September 2008, Punkt 10.1) und in Kraft getreten am 13. September 2009 in Übereinstimmung mit Artikel 28 des Übereinkommens.
 
-Geltungsbereich am 21. Juni 2021
+Geltungsbereich am 13. Februar 2025[^t-14]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>6. Februar</td><td>2007</td><td>1. Juni</td><td>2007</td></tr>
-<tr><td>Andorra \*</td><td>6. Mai</td><td>2008</td><td>1. September</td><td>2008</td></tr>
-<tr><td>Armenien \*</td><td>30. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
-<tr><td>Aserbaidschan \*</td><td>4. April</td><td>2014</td><td>1. August</td><td>2014</td></tr>
+<tr><td>Andorra\*</td><td>6. Mai</td><td>2008</td><td>1. September</td><td>2008</td></tr>
+<tr><td>Armenien\*</td><td>30. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
+<tr><td>Aserbaidschan\*</td><td>4. April</td><td>2014</td><td>1. August</td><td>2014</td></tr>
+<tr><td>Belgien\*</td><td>7. Januar</td><td>2022</td><td>1. Mai</td><td>2022</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>11. Januar</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Bulgarien</td><td>31. Juli</td><td>2006</td><td>1. Juni</td><td>2007</td></tr>
 <tr><td>Deutschland</td><td>10. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
-<tr><td>Dänemark \*</td><td>24. April</td><td>2007</td><td>1. August</td><td>2007</td></tr>
+<tr><td>Dänemark\*</td><td>24. April</td><td>2007</td><td>1. August</td><td>2007</td></tr>
 <tr><td>Estland</td><td>15. Mai</td><td>2009</td><td>1. September</td><td>2009</td></tr>
 <tr><td>Europäische Union (EU)</td><td>26. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td>Finnland</td><td>17. Januar</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
@@ -494,32 +495,35 @@ Geltungsbereich am 21. Juni 2021
 <tr><td>Liechtenstein</td><td>22. November</td><td>2016</td><td>1. März</td><td>2017</td></tr>
 <tr><td>Litauen</td><td>15. Mai</td><td>2014</td><td>1. September</td><td>2014</td></tr>
 <tr><td>Luxemburg</td><td>31. Januar</td><td>2013</td><td>1. Mai</td><td>2013</td></tr>
-<tr><td>Malta \*</td><td>8. Juni</td><td>2015</td><td>1. Oktober</td><td>2015</td></tr>
-<tr><td>Moldau \*</td><td>13. Mai</td><td>2008</td><td>1. September</td><td>2008</td></tr>
+<tr><td>Malta\*</td><td>8. Juni</td><td>2015</td><td>1. Oktober</td><td>2015</td></tr>
+<tr><td>Moldau\*</td><td>13. Mai</td><td>2008</td><td>1. September</td><td>2008</td></tr>
 <tr><td>Monaco</td><td>25. April</td><td>2016</td><td>1. August</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>12. September</td><td>2008</td><td>1. Januar</td><td>2009</td></tr>
-<tr><td>Niederlande \*</td><td>22. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
+<tr><td>Niederlande\*</td><td>22. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
 <tr><td>Niederlande</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Aruba \*</td><td>22. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
+<tr><td>Aruba\*</td><td>22. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
+<tr><td>Curaçao\*</td><td>1. März</td><td>2024</td><td>1. März</td><td>2024</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>1. Oktober</td><td>2019</td><td>1. Oktober</td><td>2019</td></tr>
 <tr><td>Nordmazedonien</td><td>23. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
-<tr><td>Norwegen \*</td><td>1. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
+<tr><td>Norwegen\*</td><td>1. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Österreich</td><td>15. Dezember</td><td>2009</td><td>1. April</td><td>2010</td></tr>
 <tr><td>Polen</td><td>3. April</td><td>2008</td><td>1. August</td><td>2008</td></tr>
 <tr><td>Portugal</td><td>19. August</td><td>2015</td><td>1. Dezember</td><td>2015</td></tr>
 <tr><td>Rumänien</td><td>21. Februar</td><td>2007</td><td>1. Juni</td><td>2007</td></tr>
-<tr><td>Russland \*</td><td>19. Mai</td><td>2006</td><td>1. Juni</td><td>2017</td></tr>
+<tr><td>Russland\*</td><td>19. Mai</td><td>2006</td><td>1. Juni</td><td>2017</td></tr>
 <tr><td>San Marino</td><td>12. Januar</td><td>2021</td><td>1. Mai</td><td>2021</td></tr>
-<tr><td>Schweden \*</td><td>30. August</td><td>2010</td><td>1. Dezember</td><td>2010</td></tr>
+<tr><td>Schweden\*</td><td>30. August</td><td>2010</td><td>1. Dezember</td><td>2010</td></tr>
 <tr><td>Schweiz</td><td>25. März</td><td>2021</td><td>1. Juli</td><td>2021</td></tr>
 <tr><td>Serbien</td><td>14. April</td><td>2009</td><td>1. August</td><td>2009</td></tr>
 <tr><td>Slowakei</td><td>29. Januar</td><td>2007</td><td>1. Juni</td><td>2007</td></tr>
 <tr><td>Slowenien</td><td>18. Dezember</td><td>2009</td><td>1. April</td><td>2010</td></tr>
-<tr><td>Spanien \*</td><td>27. Februar</td><td>2009</td><td>1. Juni</td><td>2009</td></tr>
+<tr><td>Spanien\*</td><td>27. Februar</td><td>2009</td><td>1. Juni</td><td>2009</td></tr>
 <tr><td>Tschechische Republik</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2018</td></tr>
-<tr><td>Türkei \*</td><td>23. März</td><td>2012</td><td>1. Juli</td><td>2012</td></tr>
-<tr><td>Ukraine \*</td><td>21. Dezember</td><td>2006</td><td>1. Juni</td><td>2007</td></tr>
-<tr><td>Ungarn \*</td><td>21. März</td><td>2011</td><td>1. Juli</td><td>2011</td></tr>
+<tr><td>Türkei\*</td><td>23. März</td><td>2012</td><td>1. Juli</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>21. Dezember</td><td>2006</td><td>1. Juni</td><td>2007</td></tr>
+<tr><td>Ungarn\*</td><td>21. März</td><td>2011</td><td>1. Juli</td><td>2011</td></tr>
 <tr><td>Zypern</td><td>23. Januar</td><td>2009</td><td>1. Mai</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
 </table>
+
+[^t-14]: [AS 2021 386](https://fedlex.data.admin.ch/eli/oc/2021/386); [2025 110](https://fedlex.data.admin.ch/eli/oc/2025/110). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

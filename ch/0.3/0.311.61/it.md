@@ -3,11 +3,11 @@ sr: "0.311.61"
 title: Convenzione del Consiglio d’Europa del 16 maggio 2005 per la prevenzione del terrorismo
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/386"
 language: it
-version: 2021-07-01
+version: 2025-02-13
 adopted: 2005-05-16
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/386/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-386-20210701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/386/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/386/20250213/it/xml/fedlex-data-admin-ch-eli-cc-2021-386-20250213-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/386/20250213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,11 +26,11 @@ Strumento di ratifica depositato dalla Svizzera il 25 marzo 2021
 
 Entrata in vigore per la Svizzera il 1° luglio 2021
 
-(Stato 1° luglio 2021)
+(Stato 13 febbraio 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 25 set. 2020 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360)).
 
-*Gli Stati membri del Consiglio d’Europa e gli altri firmatari della presente Convenzione,*
+*Gli Stati membri del Consiglio d’Europa* *e* *gli altri firmatari della presente Convenzione,*
 
 considerando che scopo del Consiglio d’Europa è realizzare un’unione più stretta fra i suoi membri;
 
@@ -455,8 +455,6 @@ Allegato
 - 10\. Convenzione internazionale per la repressione del finanziamento del terrorismo, adottata a New York il 9 dicembre 1999[^t-11];
 - 11\. Convenzione internazionale per la repressione degli atti di terrorismo nucleare, adottata a New York il 13 aprile 2005[^t-12] [^t-13].
 
-## Campo d’applicazione il 21 giugno 2021
-
 [^t-2]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
 [^t-3]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
 [^t-4]: [RS 0.351.5](https://fedlex.data.admin.ch/eli/cc/1985/439_439_439)
@@ -470,6 +468,8 @@ Allegato
 [^t-12]: [RS 0.353.23](https://fedlex.data.admin.ch/eli/cc/2009/90)
 [^t-13]: Emendamento all’All. adottato dai delegati dei ministri alla 1034<sup>a</sup> riunione (11 set. 2008, punto 10.1) ed entrato in vigore il 13 set. 2009 conformemente all’art. 28 della Conv.
 
+Campo d’applicazione il 13 febbraio 2025[^t-14]
+
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>6 febbraio</td><td>2007</td><td>1° giugno</td><td>2007</td></tr>
@@ -477,6 +477,7 @@ Allegato
 <tr><td>Armenia \*</td><td>30 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Austria</td><td>15 dicembre</td><td>2009</td><td>1° aprile</td><td>2010</td></tr>
 <tr><td>Azerbaigian \*</td><td>4 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
+<tr><td>Belgio\*</td><td>7 gennaio</td><td>2022</td><td>1° maggio</td><td>2022</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>11 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Bulgaria</td><td>31 luglio</td><td>2006</td><td>1° giugno</td><td>2007</td></tr>
 <tr><td>Cipro</td><td>23 gennaio</td><td>2009</td><td>1° maggio</td><td>2009</td></tr>
@@ -500,6 +501,7 @@ Allegato
 <tr><td>Paesi Bassi \*</td><td>22 luglio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Paesi Bassi</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Aruba \*</td><td>22 luglio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
+<tr><td>Curaçao\*</td><td>1° marzo</td><td>2024</td><td>1° marzo</td><td>2024</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>1° ottobre</td><td>2019</td><td>1° ottobre</td><td>2019</td></tr>
 <tr><td>Polonia</td><td>3 aprile</td><td>2008</td><td>1° agosto</td><td>2008</td></tr>
 <tr><td>Portogallo</td><td>19 agosto</td><td>2015</td><td>1° dicembre</td><td>2015</td></tr>
@@ -517,5 +519,7 @@ Allegato
 <tr><td>Ucraina \*</td><td>21 dicembre</td><td>2006</td><td>1° giugno</td><td>2007</td></tr>
 <tr><td>Ungheria \*</td><td>21 marzo</td><td>2011</td><td>1° luglio</td><td>2011</td></tr>
 <tr><td>Unione europea (UE)</td><td>26 giugno</td><td>2018</td><td>1° ottobre</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese ed in inglese si possono consultare sul sito Internet (Consiglio d’Europa http://conventions.coe.int) o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
+
+[^t-14]: [RU 2021 386](https://fedlex.data.admin.ch/eli/oc/2021/386); [2025 110](https://fedlex.data.admin.ch/eli/oc/2025/110). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

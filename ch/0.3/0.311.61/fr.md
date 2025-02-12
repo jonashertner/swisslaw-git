@@ -3,18 +3,18 @@ sr: "0.311.61"
 title: Convention du Conseil de l’Europe du 16 mai 2005 pour la prévention du terrorisme
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/386"
 language: fr
-version: 2021-07-01
+version: 2025-02-13
 adopted: 2005-05-16
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/386/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-386-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/386/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/386/20250213/fr/xml/fedlex-data-admin-ch-eli-cc-2021-386-20250213-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/386/20250213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention du Conseil de l’Europe pour la prévention du terrorisme
 
-RO **2021** 386, FF **2018** 6469
+RO **2021** 386; FF **2018** 6469
 
 Texte original
 
@@ -24,11 +24,11 @@ Approuvée par l’Assemblée fédérale le 25 septembre 2020[^t-1] Instrument d
 
 Entrée en vigueur pour la Suisse le 1er juillet 2021
 
-(Etat le 1<sup>er</sup> juillet 2021)
+(État le 13 février 2025)
 
 [^t-1]: art.1 al.1 let.a de l’AF du 25 sept. 2020 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360))
 
-Les Etats membres du Conseil de l’Europe et les autres Signataires;
+Les États membres du Conseil de l’Europe et les autres Signataires;
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres;
 
@@ -277,7 +277,7 @@ La présente Convention ne s’applique pas lorsque les infractions visées aux 
 
 <sup>7</sup> Chaque fois qu’une Partie décide de ne pas extrader une personne en vertu de l’application de cette réserve, après avoir reçu une demande d’extradition d’une autre Partie, elle soumet l’affaire, sans exception aucune et sans retard injustifié, à ses autorités compétentes en vue de poursuites, sauf si d’autres dispositions ont été convenues entre la Partie requérante et la Partie requise. Les autorités compétentes, en vue des poursuites dans la Partie requise, prennent leur décision dans les mêmes conditions que pour toute infraction de caractère grave, conformément aux lois de cette Partie. La Partie requise communique sans retard injustifié l’issue finale des poursuites à la Partie requérante et au Secrétaire Général du Conseil de l’Europe, qui la communique à la Consultation des Parties prévue à l’art. 30.
 
-<sup>8</sup> La décision de refus de la demande d’extradition en vertu de cette réserve est communiquée aussitôt à la Partie requérante. Si aucune décision judiciaire sur le fond n’est prise dans la Partie requise en vertu du par. 7 dans un délai raisonnable, la Partie requérante peut en informer le Secrétaire Général du Conseil de l’Europe qui soumet la question à la Consultation des Parties prévue à l’art. 30. Cette Consultation examine la question, émet un avis sur la conformité du refus avec les dispositions de la Convention et le soumet au Comité des Ministres afin qu’il adopte une déclaration en la matière. Lorsqu’il exerce ses fonctions en vertu de ce paragraphe, le Comité des Ministres se réunit dans sa composition restreinte aux Etats contractants.
+<sup>8</sup> La décision de refus de la demande d’extradition en vertu de cette réserve est communiquée aussitôt à la Partie requérante. Si aucune décision judiciaire sur le fond n’est prise dans la Partie requise en vertu du par. 7 dans un délai raisonnable, la Partie requérante peut en informer le Secrétaire Général du Conseil de l’Europe qui soumet la question à la Consultation des Parties prévue à l’art. 30. Cette Consultation examine la question, émet un avis sur la conformité du refus avec les dispositions de la Convention et le soumet au Comité des Ministres afin qu’il adopte une déclaration en la matière. Lorsqu’il exerce ses fonctions en vertu de ce paragraphe, le Comité des Ministres se réunit dans sa composition restreinte aux États contractants.
 
 [^20-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
 
@@ -307,11 +307,11 @@ La présente Convention ne s’applique pas lorsque les infractions visées aux 
 
 **Signature et entrée en vigueur**
 
-<sup>1</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe, de la Communauté européenne et des Etats non membres qui ont participé à son élaboration.
+<sup>1</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe, de la Communauté européenne et des États non membres qui ont participé à son élaboration.
 
 <sup>2</sup> La présente Convention est soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation sont déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>3</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle six Signataires, dont au moins quatre Etats membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la présente Convention, conformément aux dispositions du par. 2.
+<sup>3</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle six Signataires, dont au moins quatre États membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la présente Convention, conformément aux dispositions du par. 2.
 
 <sup>4</sup> Pour tout Signataire qui exprimera ultérieurement son consentement à être lié par la présente Convention, celle-ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de l’expression de son consentement à être lié par la présente Convention, conformément aux dispositions du par. 2.
 
@@ -427,7 +427,7 @@ Les Parties se concertent périodiquement, afin:
 
 **Notification**
 
-Le Secrétaire Général du Conseil de l’Europe notifie aux Etats membres du Conseil de l’Europe, à la Communauté européenne, aux Etats non membres ayant participé à l’élaboration de la présente Convention, ainsi qu’à tout Etat y ayant adhéré ou ayant été invité à y adhérer:
+Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du Conseil de l’Europe, à la Communauté européenne, aux États non membres ayant participé à l’élaboration de la présente Convention, ainsi qu’à tout Etat y ayant adhéré ou ayant été invité à y adhérer:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -435,7 +435,7 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux Etats membres du C
 - d. toute déclaration faite en application des art. 1, par. 2, 22, par. 4, et 25;
 - e. tout autre acte, notification ou communication ayant trait à la présente Convention.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Varsovie, le 16 mai 2005, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe, à la Communauté européenne, aux Etats non membres ayant participé à l’élaboration de la Convention et à tout Etat invité à y adhérer. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Varsovie, le 16 mai 2005, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, à la Communauté européenne, aux États non membres ayant participé à l’élaboration de la Convention et à tout Etat invité à y adhérer. (Suivent les signatures)
 
 Annexe
 
@@ -464,54 +464,58 @@ Annexe
 [^t-10]: RS **0.353.20**
 [^t-11]: Amendement à l’Annexe adopté par le Comité des Ministres lors de sa 1034<sup>e</sup> réunion (11 septembre 2008, point 10.1) et entré en vigueur le 13 septembre 2009 conformément à l’art. 28 de la Convention. [RS 0.353.23](https://fedlex.data.admin.ch/eli/cc/2009/90)**.**
 
-Champ d’application le 21 juin 2021
+Champ d’application le 13 février 2025[^t-12]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 février</td><td>2007</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
 <tr><td>Allemagne</td><td>10 juin</td><td>2011</td><td>1<sup>er</sup> octobre</td><td>2011</td></tr>
-<tr><td>Andorre \*</td><td>6 mai</td><td>2008</td><td>1<sup>er</sup> septembre</td><td>2008</td></tr>
-<tr><td>Arménie \*</td><td>30 août</td><td>2016</td><td>1<sup>er</sup> décembre</td><td>2016</td></tr>
+<tr><td>Andorre\*</td><td>6 mai</td><td>2008</td><td>1<sup>er</sup> septembre</td><td>2008</td></tr>
+<tr><td>Arménie\*</td><td>30 août</td><td>2016</td><td>1<sup>er</sup> décembre</td><td>2016</td></tr>
 <tr><td>Autriche</td><td>15 décembre</td><td>2009</td><td>1<sup>er</sup> avril</td><td>2010</td></tr>
-<tr><td>Azerbaïdjan \*</td><td>4 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>4 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Belgique\*</td><td>7 janvier</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>11 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Bulgarie</td><td>31 juillet</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
 <tr><td>Chypre</td><td>23 janvier</td><td>2009</td><td>1<sup>er</sup> mai</td><td>2009</td></tr>
 <tr><td>Croatie</td><td>21 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
-<tr><td>Danemark \*</td><td>24 avril</td><td>2007</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
-<tr><td>Espagne \*</td><td>27 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
+<tr><td>Danemark\*</td><td>24 avril</td><td>2007</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
+<tr><td>Espagne\*</td><td>27 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
 <tr><td>Estonie</td><td>15 mai</td><td>2009</td><td>1<sup>er</sup> septembre</td><td>2009</td></tr>
 <tr><td>Finlande</td><td>17 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>France</td><td>29 avril</td><td>2008</td><td>1<sup>er</sup> août</td><td>2008</td></tr>
-<tr><td>Hongrie \*</td><td>21 mars</td><td>2011</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
+<tr><td>Hongrie\*</td><td>21 mars</td><td>2011</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
 <tr><td>Italie</td><td>21 février</td><td>2017</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
 <tr><td>Lettonie</td><td>2 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
 <tr><td>Liechtenstein</td><td>22 novembre</td><td>2016</td><td>1<sup>er</sup> mars</td><td>2017</td></tr>
 <tr><td>Lituanie</td><td>15 mai</td><td>2014</td><td>1<sup>er</sup> septembre</td><td>2014</td></tr>
 <tr><td>Luxembourg</td><td>31 janvier</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
 <tr><td>Macédoine du Nord</td><td>23 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td>Malte \*</td><td>8 juin</td><td>2015</td><td>1<sup>er</sup> octobre</td><td>2015</td></tr>
-<tr><td>Moldova \*</td><td>13 mai</td><td>2008</td><td>1<sup>er</sup> septembre</td><td>2008</td></tr>
+<tr><td>Malte\*</td><td>8 juin</td><td>2015</td><td>1<sup>er</sup> octobre</td><td>2015</td></tr>
+<tr><td>Moldova\*</td><td>13 mai</td><td>2008</td><td>1<sup>er</sup> septembre</td><td>2008</td></tr>
 <tr><td>Monaco</td><td>25 avril</td><td>2016</td><td>1<sup>er</sup> août</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>12 septembre</td><td>2008</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
-<tr><td>Norvège \*</td><td>1<sup>er</sup> février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
-<tr><td>Pays-Bas \*</td><td>22 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Norvège\*</td><td>1<sup>er</sup> février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
+<tr><td>Pays-Bas\*</td><td>22 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
 <tr><td>Pays-Bas</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Aruba \*</td><td>22 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Aruba\*</td><td>22 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Curaçao\*</td><td>1<sup>er</sup> mars</td><td>2024</td><td>1<sup>er</sup> mars</td><td>2024</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>1<sup>er</sup> octobre</td><td>2019</td><td>1<sup>er</sup> octobre</td><td>2019</td></tr>
 <tr><td>Pologne</td><td>3 avril</td><td>2008</td><td>1<sup>er</sup> août</td><td>2008</td></tr>
 <tr><td>Portugal</td><td>19 août</td><td>2015</td><td>1<sup>er</sup> décembre</td><td>2015</td></tr>
 <tr><td>Roumanie</td><td>21 février</td><td>2007</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
-<tr><td>Russie \*</td><td>19 mai</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
+<tr><td>Russie\*</td><td>19 mai</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
 <tr><td>République tchèque</td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
 <tr><td>Saint-Marin</td><td>12 janvier</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
 <tr><td>Serbie</td><td>14 avril</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Slovaquie</td><td>29 janvier</td><td>2007</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
 <tr><td>Slovénie</td><td>18 décembre</td><td>2009</td><td>1<sup>er</sup> avril</td><td>2010</td></tr>
 <tr><td>Suisse</td><td>25 mars</td><td>2021</td><td>1<sup>er</sup> juillet</td><td>2021</td></tr>
-<tr><td>Suède \*</td><td>30 août</td><td>2010</td><td>1<sup>er</sup> décembre</td><td>2010</td></tr>
-<tr><td>Turquie \*</td><td>23 mars</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
-<tr><td>Ukraine \*</td><td>21 décembre</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
+<tr><td>Suède\*</td><td>30 août</td><td>2010</td><td>1<sup>er</sup> décembre</td><td>2010</td></tr>
+<tr><td>Turquie\*</td><td>23 mars</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>21 décembre</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
 <tr><td>Union européenne (UE)</td><td>26 juin</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet (Conseil de l’Europe http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
 </table>
+
+[^t-12]: [RO 2021 386](https://fedlex.data.admin.ch/eli/oc/2021/386); [2025 110](https://fedlex.data.admin.ch/eli/oc/2025/110). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
