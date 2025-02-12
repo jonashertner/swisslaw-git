@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-12-26
+version: 2025-02-13
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241226/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241226-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250213/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250213-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 26 dicembre 2024)
+del 4 marzo 2022 (Stato 13 febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -525,7 +525,7 @@ I divieti di cui ai capoversi 1–2 non si applicano ai beni e ai servizi che:
 
 <sup>4</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–2 se ciò è necessario:[^11a-5]
+D’intesa con i servizi competenti del DFAE, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–2 se ciò è necessario:[^11a-5]
 
 - a. per usi medici o farmaceutici e per un uso finale non militare;
 - b. per scopi umanitari o per evacuazioni;
@@ -539,7 +539,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - a. per i beni della voce di tariffa doganale 8417 20 se sono utilizzati da persone fisiche in ambito domestico per la realizzazione di prodotti da forno, pasticcini e biscotti;
 - b.[^11a-10] per i beni enumerati nei capitoli della tariffa doganale 72, 84, 85 e 90, se ciò è necessario per la produzione di beni in titanio indispensabili all’industria aeronautica e quest’ultima non può acquisirli altrimenti;
 - c.[^11a-11] per i beni delle voci di tariffa doganale 3917, 8421, 8471, 8523, 8536 e 8544, a condizione che siano necessari per la manutenzione o la riparazione di dispositivi medici;
-- d.[^11a-12] per i beni delle voci di tariffa doganale 8414 90 e 9026 che si trovavano fisicamente in Svizzera il 17 ottobre 2024, a condizione che siano necessari nell’ambito del progetto Sachalin-2 a scopo di manutenzione o riparazione;
+- d.[^11a-12] per i beni delle voci di tariffa doganale 8414 90 e 9026 che si trovano fisicamente in Svizzera dal 17 ottobre 2024, a condizione che siano necessari nell’ambito del progetto Sachalin-2 a scopo di manutenzione o riparazione;
 - e.[^11a-13] per i beni delle voci di tariffa doganale 8481 80 progettati per impianti sanitari, di riscaldamento, di ventilazione o di condizionamento d’aria, se sono utilizzati da persone fisiche in ambito domestico;
 - f.[^11a-14] per i beni delle voci di tariffa doganale 7411 e 7412 con diametro interno non superiore a 50 mm, se sono utilizzati da persone fisiche in ambito domestico;
 - g.[^11a-15] per i beni della voce di tariffa doganale 3917 10, se sono necessari esclusivamente per la produzione di generi alimentari destinati al consumo umano.[^11a-16]
@@ -552,14 +552,14 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 [^11a-2]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^11a-3]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^11a-4]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-5]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-5]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^11a-6]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^11a-7]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^11a-8]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^11a-9]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^11a-10]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^11a-11]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-12]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-12]: Introdotta dalla cifra I dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^11a-13]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^11a-14]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^11a-15]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
@@ -1091,21 +1091,21 @@ La SECO può, in via eccezionale, autorizzare la liberazione di determinati aver
 
 <sup>9novies</sup>
 
-La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle persone fisiche menzionate nell’allegato 8 ai numeri SSID 175-52264, 175-52287, 175-52983, 175-53092, 175-28544, 175-50782, 175-50792 e 175-50978 o delle organizzazioni menzionate ai numeri SSID 175-37079 e 175-37086, oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che:
+La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle persone fisiche menzionate nell’allegato 8 ai numeri SSID 175-53092, 175-28544 e 175-50978, oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che:[^15-30]
 
-- a. tali averi e risorse economiche sono necessari per la vendita o il trasferimento entro il 30 giugno 2024 dei diritti di proprietà in una persona giuridica o in un’organizzazione stabilite in Svizzera, in uno Stato membro del SEE o nel Regno Unito che appartengono, direttamente o indirettamente, a una di dette persone fisiche od organizzazioni; e
-- b. il ricavato di tale vendita o trasferimento rimane bloccato.[^15-30]
+- a.[^15-31] tali averi e risorse economiche sono necessari per la vendita o il trasferimento entro il 30 giugno 2025 dei diritti di proprietà in una persona giuridica o un’organizzazione stabilita in Svizzera, in uno Stato membro del SEE o nel Regno Unito che appartengono, direttamente o indirettamente, a una di dette persone fisiche; e
+- b. il ricavato di tale vendita o trasferimento rimane bloccato.[^15-32]
 
-<sup>9decies</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-70575, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi o risorse economiche sono necessari per porre fine, al più tardi entro il 20 giugno 2024, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tale organizzazione prima del 1° febbraio 2024.[^15-31]
+<sup>9decies</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-70575, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi o risorse economiche sono necessari per porre fine, al più tardi entro il 20 giugno 2024, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tale organizzazione prima del 1° febbraio 2024.[^15-33]
 
 <sup>10</sup>
 
 La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà o sotto il controllo di persone fisiche, imprese od organizzazioni elencate nell’allegato 8, o la fornitura di servizi per tali persone fisiche, imprese od organizzazioni, dopo aver stabilito che ciò è strettamente necessario per l’istituzione, la certificazione o la valutazione di un sistema che:
 
 - a. elimini il controllo, da parte di una persona fisica, di un’impresa o di un’organizzazione di cui all’allegato 8, sui valori patrimoniali di un’organizzazione o di un’impresa non elencata nell’allegato 8, che sia costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato dello SEE e posseduta o controllata da tale persona fisica, impresa od organizzazione; e
-- b. garantisca che nessun ulteriore avere o nessuna ulteriore risorsa economica vada a beneficio della persona fisica, dell’impresa o dell’organizzazione di cui alla lettera a.[^15-32]
+- b. garantisca che nessun ulteriore avere o nessuna ulteriore risorsa economica vada a beneficio della persona fisica, dell’impresa o dell’organizzazione di cui alla lettera a.[^15-34]
 
-<sup>11</sup> La SECO può autorizzare deroghe secondo i capoversi 4‒10 d’intesa con i servizi competenti del DFAE e del DFF.[^15-33]
+<sup>11</sup> La SECO può autorizzare deroghe secondo i capoversi 4‒10 d’intesa con i servizi competenti del DFAE e del DFF.[^15-35]
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^15-2]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
@@ -1136,10 +1136,12 @@ La SECO può autorizzare la liberazione di determinati averi o risorse economich
 [^15-27]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^15-28]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^15-29]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-30]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-31]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-32]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-33]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-30]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^15-31]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^15-32]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-33]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-34]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-35]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 16
 
@@ -1885,6 +1887,18 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 [^29c-3]: Questo Concordato intercantonale può essere consultato all’indirizzo [www.lexfind.ch/fe/de/tol/33879/versions/219579/de](https://www.lexfind.ch/fe/de/tol/33879/versions/219579/de)
 [^29c-4]: Questo Concordato intercantonale può essere consultato all’indirizzo [www.lexfind.ch/fe/de/tol/33884/versions/219203/de](https://www.lexfind.ch/fe/de/tol/33884/versions/219203/de)
 
+#### Art. 29d
+
+**Divieti in relazione con determinate decisioni di tribunali russi**[^29d-1]
+
+<sup>1</sup> Non sono riconosciuti, attuati o eseguiti decisioni, ordinanze, decreti, sentenze e altre decisioni giudiziarie adottati conformemente o in combinato disposto con l’articolo 248 del codice di procedura arbitrale della Federazione russa o di disposizioni russe equivalenti.
+
+<sup>2</sup> Non sono eseguite richieste di assistenza giudiziaria in materia penale in relazione a una presunta violazione di decisioni, ordinanze, decreti, sentenze o altre decisioni giudiziarie di cui al capoverso 1.
+
+<sup>3</sup> Non sono riconosciute o eseguite pene o altre sanzioni secondo il codice penale russo in relazione a una presunta violazione di decisioni, ordinanze, decreti, sentenze o altre decisioni giudiziarie di cui al capoverso 1.
+
+[^29d-1]: Introdotto dalla cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+
 #### Art. 30
 
 **Divieto di soddisfare determinati crediti**
@@ -1914,7 +1928,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>1</sup>
 
-La SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti di cui agli articoli 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* e 14*b* per la vendita, la fornitura, il transito o il trasporto dei beni e delle tecnologie elencati nei corrispondenti allegati 1, 3, 4, 5, 16, 18, 19 e 23 e dei beni di cui all’allegato 2 OBDI[^30a-1] nonché la vendita, la cessione in licenza o il trasferimento in altro modo di diritti di proprietà intellettuale o di segreti commerciali, così come il riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni in relazione ai beni e alle tecnologie di cui sopra, che sono tutelati da diritti di proprietà intellettuale o che costituiscono segreti commerciali, a condizione che:[^30a-2]
+La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui agli articoli 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* e 14*b* per la vendita, la fornitura, il transito o il trasporto dei beni e delle tecnologie elencati nei corrispondenti allegati 1, 3, 4, 5, 16, 18, 19 e 23 e dei beni di cui all’allegato 2 OBDI[^30a-1] nonché la vendita, la cessione in licenza o il trasferimento in altro modo di diritti di proprietà intellettuale o di segreti commerciali, così come il riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni in relazione ai beni e alle tecnologie di cui sopra, che sono tutelati da diritti di proprietà intellettuale o che costituiscono segreti commerciali, a condizione che:[^30a-2]
 
 - a. tali attività siano strettamente necessarie per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa;
 - b.
@@ -1932,7 +1946,7 @@ La SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti di cui agli
 
 <sup>2bis</sup>
 
-La SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti di cui all’articolo 11 per la vendita, la fornitura, il transito o il trasporto dei beni elencati nell’allegato 5, a condizione che tali attività siano strettamente necessarie per disinvestire da una joint venture:[^30a-3]
+La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui all’articolo 11 per la vendita, la fornitura, il transito o il trasporto dei beni elencati nell’allegato 5, a condizione che tali attività siano strettamente necessarie per disinvestire da una joint venture:[^30a-3]
 
 - a. che gestisce un’infrastruttura di gasdotti tra la Federazione Russa e Paesi terzi;
 - b. che è stata costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE prima del 3 marzo 2022; e
@@ -1940,7 +1954,7 @@ La SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti di cui all�
 
 <sup>3</sup>
 
-La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* per l’importazione, il transito e il trasporto dei beni di cui agli allegati 17 e 20 fino al 31 dicembre 2024, a condizione che:[^30a-5]
+La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* per l’importazione, il transito e il trasporto dei beni di cui agli allegati 17 e 20 fino al 31 dicembre 2025, a condizione che:[^30a-5]
 
 - a. tali attività siano strettamente necessarie per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa;
 - b.
@@ -1955,18 +1969,18 @@ La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* p
 - c. i beni interessati si trovassero fisicamente nella Federazione Russa prima dell’entrata in vigore dei divieti di cui agli articoli 14*a* e 14*c* relativi a tali beni.
 
 [^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^30a-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^30a-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-3]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^30a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-5]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 
 #### Art. 30b
 
-**Deroghe al divieto di transazioni con imprese statali**[^30b-1]
+**[Deroghe al divieto di transazioni con imprese statali](https://www.fedlex.admin.ch/eli/cc/2022/151/it)**[^30b-1]
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di transazioni con imprese statali di cui all’articolo 24*a* capoverso 1 per permettere le transazioni strettamente necessarie per il disinvestimento e il ritiro, entro il 31 dicembre 2024, di una persona giuridica, un’organizzazione o un organismo stabilito in Svizzera o in uno Stato membro dello SEE da parte delle organizzazioni di cui all’articolo 24*a* capoverso 1 o delle loro controllate in Svizzera o in uno Stato membro dello SEE.
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di transazioni con imprese statali di cui all’articolo 24*a* capoverso 1 per permettere le transazioni strettamente necessarie per il disinvestimento e il ritiro, entro il 31 dicembre 2025, di una persona giuridica, un’organizzazione o un organismo stabilito in Svizzera o in uno Stato membro dello SEE da parte delle organizzazioni di cui all’articolo 24*a* capoverso 1 o delle loro controllate in Svizzera o in uno Stato membro dello SEE.
 
-[^30b-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30b-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 
 #### Art. 30c
 
@@ -1974,7 +1988,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>1</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti concernenti i servizi e i software di cui all’articolo 28*e*, a condizione che:[^30c-2]
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti concernenti i servizi e i software di cui all’articolo 28*e*, a condizione che:[^30c-2]
 
 - a. tali servizi o i software siano strettamente necessari per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa; e
 - b. i servizi o i software siano forniti a esclusivo beneficio delle persone giuridiche, delle organizzazioni o degli organismi risultanti dal disinvestimento.[^30c-3]
@@ -1984,18 +1998,18 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 marzo 2024 deroghe al divieto di cui all’articolo 28*e* capoverso 1<sup>bis</sup> per servizi nel settore della consulenza giuridica, a condizione che tali servizi siano necessari per legge per il perfezionamento della vendita o della cessione di diritti di proprietà detenuti direttamente o indirettamente da una persona giuridica, un’organizzazione o un organismo stabiliti nella Federazione Russa in una persona giuridica, un’organizzazione o un organismo stabiliti in uno Stato membro dello SEE o in Svizzera.[^30c-5]
 
 [^30c-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30c-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^30c-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-4]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 30c<sup>bis</sup>
 
-**Deroghe al divieto di soddisfare determinati crediti**[^30cbis-1]
+**[Deroghe al divieto di soddisfare determinati crediti](https://www.fedlex.admin.ch/eli/cc/2022/151/it)**[^30cbis-1]
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2024 deroghe al divieto di soddisfare crediti da parte delle persone fisiche, imprese o organizzazioni di cui all’articolo 30 lettera b, a condizione che ciò sia necessario per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa.
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2025 deroghe al divieto di soddisfare crediti da parte delle persone fisiche, imprese o organizzazioni di cui all’articolo 30 lettera b, a condizione che ciò sia necessario per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa.
 
-[^30cbis-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^30cbis-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 
 ## Sezione 4*b*: Deroghe per beni e servizi in relazione con il Consorzio per l’oleodotto del Caspio
 
@@ -2165,7 +2179,7 @@ L’articolo *12a* capoversi 1 e 2 non si applica:
 L’articolo 24*a* capoverso 1 non si applica:
 
 - a. all’accettazione dei pagamenti dovuti dalle banche, imprese o organizzazioni di cui all’articolo 24*a* capoverso 1 nell’ambito di contratti eseguiti prima del 15 maggio 2022;
-- b.[^35-11] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2024, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-12]
+- [tab] b.[^35-11] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2025, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-12]
 
 <sup>18</sup> L’articolo 28*d* capoverso 1 non si applica alle transazioni necessarie per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo.[^35-13]
 
@@ -2244,7 +2258,7 @@ L’articolo 14*c* non si applica agli affari riguardanti:
 [^35-8]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-9]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-10]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-11]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-11]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^35-12]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-13]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-14]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
