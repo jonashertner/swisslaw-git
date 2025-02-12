@@ -3,13 +3,13 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften und Bebauungspläne
 language: de
-version: 2025-02-06
-valid_until: 2025-02-12
-version_adopted: 2024-12-11
+version: 2025-02-13
+valid_until: 2025-12-10
+version_adopted: 2025-02-04
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6556/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6562/pdf_file"
 text: pdf
 ---
 
@@ -514,8 +514,6 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 205 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich Clarastrasse, Riehenring und Drahtzugstrasse (Areal Claraturm). Vom 12. Juni 2013 172
 
-**200**
-
 206 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung der Bau- und Strassenlinien im Bereich nördlich der Gellertstrasse / Magnolienpark. Vom 11. September 2013 (siehe auch Nr. 18 und 83) 207 GRB betreffend Gesamtrevision des Zonenplans der Stadt Basel und Änderung des Bau- und Planungsgesetzes. Vom 15. Januar 2014 207.1 Bebauungsplan Stadtrandentwicklung Nordwest (Gebiet östlich der Burgfelderstrasse) 207.2A Bebauungsplan Stadtrandentwicklung Am Walkeweg (Gebiet Münchensteinerstrasse, Walkeweg) 207.2B RRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans zweiter Stufe, Änderung des Wohnanteilplans sowie Festsetzung von Strassen- und Weglinien im Bereich Walkeweg, Münchensteinerstrasse (Areal Walkeweg). Vom 15. Dezember 2020 207.3 Bebauungsplan Siedlung Belforterstrasse (Gebiet Hegenheimerstrasse, Theodor-Herzl-Strasse, Michelbacherstrasse, Oltingerstrasse) 207.4 Bebauungsplan Siedlung Im langen Loh (Gebiet Morgartenring, Wanderstrasse, Rigistrasse, Gottfried Keller-Strasse) 207.5 Spezielle Nutzungsvorschriften Freizeitgartenareale 207.6 Spezielle Nutzungsvorschriften Tierpark Lange Erlen 207.7 Spezielle Nutzungsvorschriften Sportanlagen Schorenmatte Nr.
 
 **Seite**
@@ -532,15 +530,17 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 **193**
 
-213 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnflächenanteils, Abweisung einer Einsprache sowie Umwidmung im Bereich Elsässerstrasse, Voltastrasse, Mülhauserstrasse und Wasserstrasse (Areal VoltaOst). Vom 11. März 2015
+213 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnflächenanteils, Abweisung einer Einsprache sowie Umwidmung im Bereich Elsässerstrasse, Voltastrasse, Mülhauserstrasse und Wasserstrasse (Areal VoltaOst). Vom 11. März 2015 214.A GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse (Areal BIZ) sowie Einschränkung des Geltungsbereichs der Baupläne Nr. 108 und Nr. 130. Vom 11. März 2015 214.B RRB betreffend Festsetzung eines Bebauungsplans zweiter Stufe im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse, Centralbahnstrasse (Areal BIZ) vom 4. Februar 2025
 
 **196**
 
-214 GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse (Areal BIZ) sowie Einschränkung des Geltungsbereichs der Baupläne Nr. 108 und Nr. 130. Vom 11. März 2015
-
 **198**
 
+**267**
+
 215 GRB betreffende Festsetzung eines Bebauungsplanes im Bereich Petersgraben, Spitalstrasse, Schanzenstrasse, Klingelbergstrasse und Hebelstrasse (Areal Universitätsspital) und Aufhebung des Bebauungsplans Nr. 107 vom 23. Oktober 1963. Vom 20. Mai 2015
+
+**200**
 
 216 RRB betreffend Festsetzung eines neuen Bebauungsplanes sowie neue Bau- und Strassenlinien im Bereich Schwarzwaldallee, Rosentalstrasse und Aufhebung des Bebauungsplanes Nr. 64 vom 31. Juli 1956. Vom 30. Juni 2015
 
@@ -568,13 +568,13 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 felderstrasse, Ensisheimerstrasse, Hegenheimerstrasse. Vom 20. Oktober 2016
 
-**217**
-
-**X**
-
-221.B RRB betreffend Festsetzung eines Bebauungsplanes zweiter Stufe sowie neue Bau- und Strassenlinien im Bereich Luzernerring / Burgfelderstrasse / Ensisheimerstrasse / Hegenheimerstrasse (Areal Westfeld, ehemaliges Areal Felix Platter). Vom 20. November 2018 Nr.
-
 **Seite**
+
+Nr.
+
+221.B RRB betreffend Festsetzung eines Bebauungsplanes zweiter Stufe sowie neue Bau- und Strassenlinien im Bereich Luzernerring / Burgfelderstrasse / Ensisheimerstrasse / Hegenheimerstrasse (Areal Westfeld, ehemaliges Areal Felix Platter). Vom 20. November 2018
+
+**217**
 
 222 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteilsplans, Änderung der Baulinie sowie Abweisung von Einsprachen im Bereich Scherkesselweg, Neusatzsteg, Neusatzweglein, Hardrain (Bethesda-Areal). Vom 28. Juni 2017
 
@@ -618,17 +618,17 @@ felderstrasse, Ensisheimerstrasse, Hegenheimerstrasse. Vom 20. Oktober 2016
 
 234 GRB betreffend Aufhebung der Bebauungspläne Nr. 18 und Nr. 83, sowie Festset-
 
+**X**
+
 **244**
 
 zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
-**XI**
-
-**266**
-
-235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 246 Nr.
-
 **Seite**
+
+Nr.
+
+235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 246
 
 236 GRB betreffend Aufhebung der Bebauungspläne Nr. 41, Nr. 130 und Nr. 147 im Gebiet nördlich und westlich des Bahnhofs SBB, sowie Zonenänderungen und Festsetzung eines Bebauungsplans im Bereich Küchengasse, Elisabethenanlage sowie Abweisung einer Einsprache. Vom 25. Juni 2021
 
@@ -656,6 +656,8 @@ zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
 243 GRB betreffend Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Gebiet Areal Lindenhof (Lonza) Nauenstrasse, Lindenhofstrasse, München-
 
+**XI**
+
 **264**
 
 steinerstrasse, Aufhebung des Bebauungsplans Nr. 137. Vom 27. Juni 2024
@@ -679,6 +681,8 @@ III.
 Über die Wahl der sichtbaren Baumaterialien und die farbige Gestaltung der Fassaden werden keine bindenden Detailvorschriften aufgestellt. Es wird nur verlangt, dass der Gesamteindruck der Gebäude ein ruhiger und einheitlicher sei. Dem zuständigen Departement sind besondere detaillierte Vorlagen über die Fassadengestaltung in bezug auf Form, Material und Farbe zu unterbreiten.[^hTeil1undTeil2h-1]
 
 IV.
+
+**266**
 
 Die Pläne zu sämtlichen, den Platz umgebenden Gebäuden sind dem Regierungsrat zur Genehmigung vorzulegen.
 
@@ -6102,6 +6106,8 @@ Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird nach 
 
 [^hBaselElsässerstrass_2-1]: Wirksam seit 26. 4. 2015.
 
+## 214.A
+
 ### Basel Nauenstrasse / Gartenstrasse / Heumattstrasse (Areal BIZ)
 
 GRB vom 11. März 2015
@@ -6122,15 +6128,15 @@ II. Festsetzung eines Bebauungsplans
 
 2.2. Im Baubereich B gelten in Abweichung von der Grundordnung folgende Vorschriften:
 
-- a. Die zulässige Wandhöhe beträgt auf allen Seiten 18 m.
+- a) Die zulässige Wandhöhe beträgt auf allen Seiten 18 m.
 
-- b. Innerhalb der zulässigen Wandhöhe dürfen auch weniger als fünf, aber höhere Vollgeschosse realisiert werden.
+- b) Innerhalb der zulässigen Wandhöhe dürfen auch weniger als fünf, aber höhere Vollgeschosse realisiert werden.
 
-- c. Innerhalb der Dachprofillinie darf ein mehr als 3,5 m hohes Attikageschoss realisiert werden.
+- c) Innerhalb der Dachprofillinie darf ein mehr als 3,5 m hohes Attikageschoss realisiert werden.
 
-- d. Gegenüber der Heumattstrasse ist ein Lichteinfallswinkel von 60° einzuhalten.
+- d) Gegenüber der Heumattstrasse ist ein Lichteinfallswinkel von 60° einzuhalten.
 
-- e. Der Abstand von Gebäuden zur Grundstücksgrenze und zur Baulinie darf unter Vorbehalt einer guten Gesamtwirkung frei gewählt werden.
+- e) Der Abstand von Gebäuden zur Grundstücksgrenze und zur Baulinie darf unter Vorbehalt einer guten Gesamtwirkung frei gewählt werden.
 
 2.3. Über den gemäss Vorschrift 2.2. zulässigen Baukubus hinaus dürfen maximal 28’000 m<sup>2</sup> BGF realisiert werden, sofern dadurch die insgesamt zulässige BGF gemäss Vorschrift 2.1. nicht überschritten wird. Die maximale Höhe wird durch den Lichteinfallswinkel von 60° und den 2 Stunden-Schatten begrenzt. Der Regierungsrat wird ermächtigt, die zur Realisierung dieser zusätzlichen Nutzung notwendigen Bestimmungen in einem weiteren Planungsverfahren, gestützt auf die Ergebnisse eines Varianzverfahrens, zu erlassen, namentlich bezüglich Gebäudehöhe, Geschosszahl, Ausdehnung und Gebäudestellung.
 
@@ -7165,7 +7171,9 @@ II. Festsetzung eines Bebauungsplans
 
 - f) Die Wärmeversorgung ist als Nahwärmeverbund mit erneuerbaren Energiequellen auszuführen.
 
-- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird. III.
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
+
+III.
 
 IV.
 
@@ -7860,6 +7868,38 @@ III. Publikation
 Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hArealTennisclubOld-1]
 
 [^hArealTennisclubOld-1]: In Kraft seit 6. 2. 2025 (KB 1. 2. 2025)
+
+## 214.B
+
+### Nauenstrasse / Gartenstrasse / Heumattstrasse / Centralbahnstrasse (Areal BIZ)
+
+RRB vom 4. Februar 2025
+
+I. Festsetzung eines Bebauungsplans
+
+- 1\. Der Bebauungsplan Nr. 14’468 von Städtebau & Architektur vom 14. Oktober 2024 wird verbindlich erklärt.
+
+- 2\. Ergänzend zu den Bebauungsplanvorschriften des Grossratsbeschlusses betreffend Bank für Internationalen Zahlungsausgleich (BIZ, BP Nr. 214) vom 11. März 2015 werden folgende Vorschriften erlassen:
+
+2.1. Geltungsbereich: Dieser Bebauungsplan gilt für die über den Baukubus von Baubereich B hinausgehenden Bauten und Bauteile.
+
+2.2. Bebauungsvorschriften a) An die zulässige Bruttogeschossfläche im Baubereich C werden alle Vollgeschosse angerechnet, deren Deckenunterkanten höher liegen als 24 m.
+
+- b) Die Wandhöhe im Baubereich C darf 404 m ü. M. nicht überschreiten. Die Anzahl Vollgeschosse ist frei. Die Bruttogeschossfläche ist frei. Dachgeschosse sind nicht zulässig. Der Baubereich darf seitlich durch keine Bauten oder Bauteile überschritten werden. Die Wandhöhe darf nur durch sicherheitsrelevante Anlagen überschritten werden.
+
+- c) Im Baufeld D dürfen Gebäudeteile entlang der Centralbahnstrasse und der Gartenstrasse eine Höhe von maximal 24 m erreichen.
+
+- d) Vor der nutzbaren Fassade im Baubereich C befindliche Bauteile, die nicht dem Aufenthalt im Freien dienen, werden nicht an die BGF angerechnet.
+
+- e) Das Gebäude ist nach dem Standard LEED zu zertifizieren. Angestrebt wird LEED Platinum.
+
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
+
+II. Publikation
+
+Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünften Tag nach der Publikation in Kraft.[^hNauenstrasseGarte-1]
+
+[^hNauenstrasseGarte-1]: In Kraft seit 13. 2. 2025 (KB 8. 2. 2025)
 
 ## Weitere Fussnoten
 
