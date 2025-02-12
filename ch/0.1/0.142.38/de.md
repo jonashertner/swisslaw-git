@@ -3,11 +3,11 @@ sr: "0.142.38"
 title: Europäisches Übereinkommen vom 20. April 1959 über die Abschaffung des Visumszwanges für Flüchtlinge
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/851_893_886"
 language: de
-version: 2013-07-17
+version: 2025-02-13
 adopted: 1959-04-20
 in_force: 1967-01-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/851_893_886/20130717/de/xml/fedlex-data-admin-ch-eli-cc-1967-851_893_886-20130717-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/851_893_886/20130717/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/851_893_886/20250213/de/xml/fedlex-data-admin-ch-eli-cc-1967-851_893_886-20250213-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/851_893_886/20250213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1967/851_893_886/20130717/de"
 
 AS **1967** 851; BBl **1966** I 494
 
-Übersetzung aus dem englischen und französischen Originaltext*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Strassburg am 20. April 1959 Von der Bundesversammlung genehmigt am 27. September 1966[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 20. Dezember 1966 In Kraft getreten für die Schweiz am 21. Juni 1967
+Abgeschlossen in Strassburg am 20. April 1959 Von der Bundesversammlung genehmigt am 27. September 1966[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 20. Dezember 1966 In Kraft getreten für die Schweiz am 21. Juni 1967
 
-(Stand am 17. Juli 2013)
+(Stand am 13. Februar 2025)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 des BB vom 27. Sept. 1967 ([AS 1967 805](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839))
+[^t-1]: Art. 1 Abs. 1 des BB vom 27. Sept. 1967 ([AS 1967 805](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839))
 
 Die unterzeichneten Regierungen, Mitglieder des Europarates, in dem Wunsch, die Reisen der Flüchtlinge, die in ihrem Hoheitsgebiet wohnhaft sind, zu erleichtern,
 
@@ -31,7 +30,9 @@ haben folgendes vereinbart:
 
 #### Art. 1
 
-<sup>1.</sup> Die Flüchtlinge, die ordnungsgemäss im Hoheitsgebiet einer der Vertragsparteien wohnhaft sind, sind auf Grund dieses Übereinkommens und unter Vorbehalt der Gegenseitigkeit bei der Einreise in das Hoheitsgebiet über alle Grenzen von der Visumspflicht befreit, sofern
+<sup>1.</sup>
+
+Die Flüchtlinge, die ordnungsgemäss im Hoheitsgebiet einer der Vertragsparteien wohnhaft sind, sind auf Grund dieses Übereinkommens und unter Vorbehalt der Gegenseitigkeit bei der Einreise in das Hoheitsgebiet über alle Grenzen von der Visumspflicht befreit, sofern:
 
 - a. sie im Besitz eines gültigen Reiseausweises nach dem Abkommen vom 28. Juli 1951[^1-1] über die Rechtsstellung der Flüchtlinge oder dem Übereinkommen vom 15. Oktober 1946[^1-2] betreffend die Ausstellung eines Reiseausweises an Flüchtlinge sind, der von den Behörden der Vertragspartei, in deren Hoheitsgebiet sie ihren ordnungsgemässen Aufenthalt haben, ausgestellt ist;
 - b. ihr Aufenthalt nicht länger als drei Monate dauert.
@@ -71,11 +72,11 @@ Dieses Übereinkommen berührt nicht die Bestimmungen der geltenden oder zukünf
 
 #### Art. 8
 
-Dieses Übereinkommen wird zur Unterzeichnung durch die Mitglieder des Europarates aufgelegt; sie können Vertragsparteien werden durch
-
 Die Ratifikationsurkunden werden beim Generalsekretär des Europarates hinterlegt.
 
-- a. Unterzeichnung ohne Vorbehalt der Ratifikation oder durch
+Dieses Übereinkommen wird zur Unterzeichnung durch die Mitglieder des Europarates aufgelegt; sie können Vertragsparteien werden durch:
+
+- a. Unterzeichnung ohne Vorbehalt der Ratifikation oder durch;
 - b. Unterzeichnung unter Vorbehalt der Ratifikation mit nachfolgender Ratifikation.
 
 #### Art. 9
@@ -107,40 +108,39 @@ Jede Vertragspartei kann unter Einhaltung einer Kündigungsfrist von drei Monate
 
 *Zu Urkund dessen* haben die hiezu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 20. April 1959 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Rates übermittelt den unterzeichnenden Regierungen beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. Juli 2013**[^t-3]**
+Geltungsbereich am 13. Februar 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Belgien</td><td>20. April</td><td>1959 U</td><td>3. September</td><td>1960</td></tr>
-<tr><td colspan="2">Deutschland</td><td>6. November</td><td>1961</td><td>7. Dezember</td><td>1961</td></tr>
-<tr><td colspan="2">Dänemark\*</td><td>30. November</td><td>1960 U</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Finnland\*</td><td>4. Juli</td><td>1990</td><td>5. August</td><td>1990</td></tr>
-<tr><td colspan="2">Irland</td><td>29. Oktober</td><td>1969 U</td><td>30. November</td><td>1969</td></tr>
-<tr><td colspan="2">Island</td><td>8. September</td><td>1966</td><td>9. Oktober</td><td>1966</td></tr>
-<tr><td colspan="2">Italien</td><td>1. Juni</td><td>1965</td><td>2. Juli</td><td>1965</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>28. Oktober</td><td>1969 B</td><td>29. November</td><td>1969</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>24. April</td><td>1961</td><td>25. Mai</td><td>1961</td></tr>
-<tr><td colspan="2">Malta\*</td><td>17. Januar</td><td>1989 U</td><td>18. Februar</td><td>1989</td></tr>
-<tr><td colspan="2">Niederlande<sup>a</sup></td><td>3. August</td><td>1960</td><td>3. September</td><td>1960</td></tr>
-<tr><td colspan="2">Norwegen\*</td><td>25. November</td><td>1960 U</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Polen\*</td><td>20. April</td><td>2005</td><td>21. Mai</td><td>2005</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>12. Oktober</td><td>1981</td><td>13. November</td><td>1981</td></tr>
-<tr><td colspan="2">Azoren und Madeira</td><td>1. Dezember</td><td>1981</td><td>13. November</td><td>1981</td></tr>
-<tr><td colspan="2">Rumänien</td><td>24. April</td><td>2001</td><td>25. Mai</td><td>2001</td></tr>
-<tr><td colspan="2">Schweden\*</td><td>30. November</td><td>1960 U</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>20. Dezember</td><td>1966</td><td>21. Januar</td><td>1967</td></tr>
-<tr><td colspan="2">Slowakei\*</td><td>27. Januar</td><td>2005</td><td>28. Februar</td><td>2005</td></tr>
-<tr><td colspan="2">Spanien</td><td>30. Juni</td><td>1982</td><td>1. August</td><td>1982</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>9. März</td><td>1999 U</td><td>10. April</td><td>1999</td></tr>
-<tr><td colspan="2">Ungarn\*</td><td>6. November</td><td>2009</td><td>7. Dezember</td><td>2009</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien</td><td>20. April</td><td>1959 U</td><td>3. September</td><td>1960</td></tr>
+<tr><td>Deutschland</td><td>6. November</td><td>1961</td><td>7. Dezember</td><td>1961</td></tr>
+<tr><td>Dänemark\*</td><td>30. November</td><td>1960 U</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Finnland\*</td><td>4. Juli</td><td>1990</td><td>5. August</td><td>1990</td></tr>
+<tr><td>Irland\*</td><td>29. Oktober</td><td>1969 U</td><td>30. November</td><td>1969</td></tr>
+<tr><td>Island</td><td>8. September</td><td>1966</td><td>9. Oktober</td><td>1966</td></tr>
+<tr><td>Italien</td><td>1. Juni</td><td>1965</td><td>2. Juli</td><td>1965</td></tr>
+<tr><td>Liechtenstein\*</td><td>28. Oktober</td><td>1969 B</td><td>29. November</td><td>1969</td></tr>
+<tr><td>Luxemburg</td><td>24. April</td><td>1961</td><td>25. Mai</td><td>1961</td></tr>
+<tr><td>Malta\*</td><td>17. Januar</td><td>1989 U</td><td>18. Februar</td><td>1989</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>3. August</td><td>1960</td><td>3. September</td><td>1960</td></tr>
+<tr><td>Norwegen\*</td><td>25. November</td><td>1960 U</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Polen\*</td><td>20. April</td><td>2005</td><td>21. Mai</td><td>2005</td></tr>
+<tr><td>Portugal\*</td><td>12. Oktober</td><td>1981</td><td>13. November</td><td>1981</td></tr>
+<tr><td>Azoren und Madeira</td><td>1. Dezember</td><td>1981</td><td>13. November</td><td>1981</td></tr>
+<tr><td>Rumänien</td><td>24. April</td><td>2001</td><td>25. Mai</td><td>2001</td></tr>
+<tr><td>Schweden\*</td><td>30. November</td><td>1960 U</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Schweiz\*</td><td>20. Dezember</td><td>1966</td><td>21. Januar</td><td>1967</td></tr>
+<tr><td>Slowakei\*</td><td>27. Januar</td><td>2005</td><td>28. Februar</td><td>2005</td></tr>
+<tr><td>Spanien</td><td>30. Juni</td><td>1982</td><td>1. August</td><td>1982</td></tr>
+<tr><td>Tschechische Republik</td><td>9. März</td><td>1999 U</td><td>10. April</td><td>1999</td></tr>
+<tr><td>Ungarn\*</td><td>6. November</td><td>2009</td><td>7. Dezember</td><td>2009</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
 ## Erklärungen
 
-[^t-3]: [AS 1967 851](https://fedlex.data.admin.ch/eli/oc/1967/851_893_886), [1971 414](https://fedlex.data.admin.ch/eli/oc/1971/414_414_414), [1982 2071](https://fedlex.data.admin.ch/eli/oc/1982/2071_2071_2071),[1990 321](https://fedlex.data.admin.ch/eli/oc/1990/321_321_321), [2004 4103](https://fedlex.data.admin.ch/eli/oc/2004/599), [2007 521](https://fedlex.data.admin.ch/eli/oc/2007/107), [2008 3697](https://fedlex.data.admin.ch/eli/oc/2008/486)und [2013 2463](https://fedlex.data.admin.ch/eli/oc/2013/517). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1967 851](https://fedlex.data.admin.ch/eli/oc/1967/851_893_886); [1971 414](https://fedlex.data.admin.ch/eli/oc/1971/414_414_414); [1982 2071](https://fedlex.data.admin.ch/eli/oc/1982/2071_2071_2071); [1990 321](https://fedlex.data.admin.ch/eli/oc/1990/321_321_321); [2004 4103](https://fedlex.data.admin.ch/eli/oc/2004/599); [2007 521](https://fedlex.data.admin.ch/eli/oc/2007/107); [2008 3697](https://fedlex.data.admin.ch/eli/oc/2008/486); [2013 2463](https://fedlex.data.admin.ch/eli/oc/2013/517); [2025 118](https://fedlex.data.admin.ch/eli/oc/2025/118). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Schweiz
 

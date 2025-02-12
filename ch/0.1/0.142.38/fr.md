@@ -3,11 +3,11 @@ sr: "0.142.38"
 title: Accord européen du 20 avril 1959 relatif à la suppression des visas pour les réfugiés
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/851_893_886"
 language: fr
-version: 2013-07-17
+version: 2025-02-13
 adopted: 1959-04-20
 in_force: 1967-01-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/851_893_886/20130717/fr/xml/fedlex-data-admin-ch-eli-cc-1967-851_893_886-20130717-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/851_893_886/20130717/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/851_893_886/20250213/fr/xml/fedlex-data-admin-ch-eli-cc-1967-851_893_886-20250213-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/851_893_886/20250213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Strasbourg le 20 avril 1959 Approuvé par l’Assemblée fédérale le 27 septembre 1966[^t-1] Instrument de ratification déposé par la Suisse le 20 décembre 1966 Entré en vigueur pour la Suisse le 21 janvier 1967
 
-(Etat le 17 juillet 2013)
+(État le 13 février 2025)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 27 sept. 1966 ([RO 1967 845](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839))
 
@@ -94,7 +94,7 @@ Après l’entrée en vigueur du présent Accord, le Comité des Ministres du Co
 
 #### Art. 11
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conseil et aux Etats adhérents:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conseil et aux États adhérents:
 
 - a. Toutes signatures avec les réserves éventuelles de ratification, le dépôt de tout instrument de ratification et la date de l’entrée en vigueur du présent Accord;
 - b. Le dépôt de tout instrument d’adhésion effectué en application de l’art. 10;
@@ -106,40 +106,39 @@ Toute Partie Contractante pourra mettre fin en ce qui la concerne à l’applica
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 20 avril 1959, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil en enverra copie certifiée conforme aux Gouvernements signataires. (Suivent les signatures)
 
-Champ d’application le 17 juillet 2013**[^t-2]**
+Champ d’application le 13 février 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Allemagne</td><td>6 novembre</td><td>1961</td><td>7 décembre</td><td>1961</td></tr>
-<tr><td colspan="2">Belgique</td><td>20 avril</td><td>1959 Si</td><td>3 septembre</td><td>1960</td></tr>
-<tr><td colspan="2">Danemark\*</td><td>30 novembre</td><td>1960 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Espagne</td><td>30 juin</td><td>1982</td><td>1<sup>er</sup> août</td><td>1982</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>4 juillet</td><td>1990</td><td>5 août</td><td>1990</td></tr>
-<tr><td colspan="2">Hongrie\*</td><td>6 novembre</td><td>2009</td><td>7 décembre</td><td>2009</td></tr>
-<tr><td colspan="2">Irlande</td><td>29 octobre</td><td>1969 Si</td><td>30 novembre</td><td>1969</td></tr>
-<tr><td colspan="2">Islande</td><td>8 septembre</td><td>1966</td><td>9 octobre</td><td>1966</td></tr>
-<tr><td colspan="2">Italie</td><td>1<sup>er</sup> juin</td><td>1965</td><td>2 juillet</td><td>1965</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>28 octobre</td><td>1969 A</td><td>29 novembre</td><td>1969</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>24 avril</td><td>1961</td><td>25 mai</td><td>1961</td></tr>
-<tr><td colspan="2">Malte\*</td><td>17 janvier</td><td>1989 Si</td><td>18 février</td><td>1989</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>25 novembre</td><td>1960 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Pays-Bas <sup>a</sup></td><td>3 août</td><td>1960</td><td>3 septembre</td><td>1960</td></tr>
-<tr><td colspan="2">Pologne\*</td><td>20 avril</td><td>2005</td><td>21 mai</td><td>2005</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>12 octobre</td><td>1981</td><td>13 novembre</td><td>1981</td></tr>
-<tr><td colspan="2">Portugal-Açores et Madère</td><td>1<sup>er</sup> décembre</td><td>1981</td><td>13 novembre</td><td>1981</td></tr>
-<tr><td colspan="2">République tchèque</td><td>9 mars</td><td>1999 Si</td><td>10 avril</td><td>1999</td></tr>
-<tr><td colspan="2">Roumanie</td><td>24 avril</td><td>2001</td><td>25 mai</td><td>2001</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>27 janvier</td><td>2005</td><td>28 février</td><td>2005</td></tr>
-<tr><td colspan="2">Suède\*</td><td>30 novembre</td><td>1960 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>20 décembre</td><td>1966</td><td>21 janvier</td><td>1967</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Pour le Royaume en Europe</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>6 novembre</td><td>1961</td><td>7 décembre</td><td>1961</td></tr>
+<tr><td>Belgique</td><td>20 avril</td><td>1959 Si</td><td>3 septembre</td><td>1960</td></tr>
+<tr><td>Danemark\*</td><td>30 novembre</td><td>1960 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Espagne</td><td>30 juin</td><td>1982</td><td>1<sup>er</sup> août</td><td>1982</td></tr>
+<tr><td>Finlande\*</td><td>4 juillet</td><td>1990</td><td>5 août</td><td>1990</td></tr>
+<tr><td>Hongrie\*</td><td>6 novembre</td><td>2009</td><td>7 décembre</td><td>2009</td></tr>
+<tr><td>Irlande\*</td><td>29 octobre</td><td>1969 Si</td><td>30 novembre</td><td>1969</td></tr>
+<tr><td>Islande</td><td>8 septembre</td><td>1966</td><td>9 octobre</td><td>1966</td></tr>
+<tr><td>Italie</td><td>1<sup>er</sup> juin</td><td>1965</td><td>2 juillet</td><td>1965</td></tr>
+<tr><td>Liechtenstein\*</td><td>28 octobre</td><td>1969 A</td><td>29 novembre</td><td>1969</td></tr>
+<tr><td>Luxembourg</td><td>24 avril</td><td>1961</td><td>25 mai</td><td>1961</td></tr>
+<tr><td>Malte\*</td><td>17 janvier</td><td>1989 Si</td><td>18 février</td><td>1989</td></tr>
+<tr><td>Norvège\*</td><td>25 novembre</td><td>1960 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>3 août</td><td>1960</td><td>3 septembre</td><td>1960</td></tr>
+<tr><td>Pologne\*</td><td>20 avril</td><td>2005</td><td>21 mai</td><td>2005</td></tr>
+<tr><td>Portugal\*</td><td>12 octobre</td><td>1981</td><td>13 novembre</td><td>1981</td></tr>
+<tr><td>Portugal-Açores et Madère</td><td>1<sup>er</sup> décembre</td><td>1981</td><td>13 novembre</td><td>1981</td></tr>
+<tr><td>République tchèque</td><td>9 mars</td><td>1999 Si</td><td>10 avril</td><td>1999</td></tr>
+<tr><td>Roumanie</td><td>24 avril</td><td>2001</td><td>25 mai</td><td>2001</td></tr>
+<tr><td>Slovaquie\*</td><td>27 janvier</td><td>2005</td><td>28 février</td><td>2005</td></tr>
+<tr><td>Suède\*</td><td>30 novembre</td><td>1960 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Suisse\*</td><td>20 décembre</td><td>1966</td><td>21 janvier</td><td>1967</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-Réserves et déclarations
+Déclarations
 
 Suisse
 
 L’établissement au sens de l’art. 5 de l’Accord européen relatif à la suppression des visas pour les réfugiés s’apprécie en tenant compte du lieu où le réfugié possède le centre de ses intérêts personnels. C’est ainsi que la présence sur le territoire d’une Haute Partie Contractante, afin d’y fréquenter des établissements d’enseignements, des maisons de cure ou de convalescence ou d’autres établissements analogues, ne constitue pas un établissement au sens de l’art. 5 sus‑visé.
 
-[^t-2]: [RO 1967 893](https://fedlex.data.admin.ch/eli/oc/1967/851_893_886), [1971 414](https://fedlex.data.admin.ch/eli/oc/1971/414_414_414), [1982 2071](https://fedlex.data.admin.ch/eli/oc/1982/2071_2071_2071),[1990 321](https://fedlex.data.admin.ch/eli/oc/1990/321_321_321), [2004 4103](https://fedlex.data.admin.ch/eli/oc/2004/599), [2007 521](https://fedlex.data.admin.ch/eli/oc/2007/107), [2008 3697](https://fedlex.data.admin.ch/eli/oc/2008/486), [2013 2463](https://fedlex.data.admin.ch/eli/oc/2013/517). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1967 893](https://fedlex.data.admin.ch/eli/oc/1967/851_893_886); [1971 414](https://fedlex.data.admin.ch/eli/oc/1971/414_414_414); [1982 2071](https://fedlex.data.admin.ch/eli/oc/1982/2071_2071_2071); [1990 321](https://fedlex.data.admin.ch/eli/oc/1990/321_321_321); [2004 4103](https://fedlex.data.admin.ch/eli/oc/2004/599); [2007 521](https://fedlex.data.admin.ch/eli/oc/2007/107); [2008 3697](https://fedlex.data.admin.ch/eli/oc/2008/486); [2013 2463](https://fedlex.data.admin.ch/eli/oc/2013/517); [2025 118](https://fedlex.data.admin.ch/eli/oc/2025/118). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
