@@ -1,27 +1,27 @@
 ---
 canton: BS
 number: "164.100"
-title: Gesetz betreffend Einreihung und Entlöhnung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
-short: Lohngesetz
+title: Lohngesetz
+short: LG
 language: de
-version: 2025-01-01
-valid_until: 2025-02-12
-version_adopted: 2024-12-10
+version: 2025-02-13
+valid_until: 2026-08-31
+version_adopted: 2024-12-18
 adopted: 1995-01-18
 in_force: 1995-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6560/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6735/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz betreffend Einreihung und Entlöhnung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
+# Lohngesetz
 
 Lohn und Entschädigungen
 
-(Lohngesetz)
+(LG)
 
-Vom 18. Januar 1995 (Stand 1. Januar 2025)
+Vom 18. Januar 1995 (Stand 13. Februar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -205,6 +205,14 @@ beschliesst:
 <sup>2</sup> Ebenfalls Anspruch auf eine Unterhaltszulage haben Mitarbeiterinnen und Mitarbeiter, wenn sie im Sinne von Art. 328 ZGB für den Unterhalt von im gleichen Haushalt lebenden Verwandten aufkommen. Davon ausgenommen ist die Unterhaltspflicht des Ehegatten bzw. der Ehegattin und des eingetragenen Partners bzw. der eingetragenen Partnerin.
 
 <sup>3</sup> In einer Verordnung erlässt der Regierungsrat die erforderlichen Bestimmungen. Insbesondere regelt er den Wegfall des Anspruchs sowie die Höhe der Unterhaltszulagen. Er kann weitere Anspruchsvoraussetzungen und Anspruchsgrundlagen festlegen.
+
+#### § 17a
+
+**Lohnnebenleistungen**
+
+<sup>1</sup> Der Regierungsrat kann zur Gewinnung und zum Erhalt der Mitarbeitenden Lohnnebenleistungen ausrichten.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten in einer Verordnung.
 
 #### § 18
 
