@@ -3,11 +3,11 @@ sr: "0.810.3"
 title: "Convention du Conseil de l'Europe du 25 mars 2015 contre le trafic d'organes humains"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1067"
 language: fr
-version: 2021-02-01
+version: 2025-02-13
 adopted: 2015-03-25
 in_force: 2021-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20210201-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250213/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250213-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 octobre 2020
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> février 2021
 
-(État le 1<sup>er</sup> février 2021)
+(État le 13 février 2025)
 
 [^t-1]: [RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066)
 
@@ -482,12 +482,15 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Saint-Jacques-de-Compostelle, le 25 mars 2015, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres ayant le statut d’observateur auprès du Conseil de l’Europe, à l’Union européenne et à tout État invité à signer la présente Convention. (Suivent les signatures)
 
-Champ d’application le 8 décembre 2020[^t-2]
+Champ d’application le 13 février 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 juin</td><td>2016</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
+<tr><td>Costa Rica</td><td>24 novembre</td><td>2021</td><td>1<sup>er</sup> mars</td><td>2022</td></tr>
 <tr><td>Croatie\*</td><td>16 mai</td><td>2019</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
+<tr><td>Espagne\*</td><td>15 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
+<tr><td>France\*</td><td>18 janvier</td><td>2023</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
 <tr><td>Lettonie</td><td>9 juillet</td><td>2019</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
 <tr><td>Malte</td><td>7 novembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
 <tr><td>Moldova</td><td>21 juin</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
@@ -496,7 +499,7 @@ Champ d’application le 8 décembre 2020[^t-2]
 <tr><td>Portugal</td><td>8 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
 <tr><td>République tchèque\*</td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
 <tr><td>Suisse</td><td>21 octobre</td><td>2020</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.810.3"
 title: Council of Europe Convention of 25 March 2015 against Trafficking in Human Organs
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1067"
 language: en
-version: 2021-02-01
+version: 2025-02-13
 adopted: 2015-03-25
 in_force: 2021-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20210201-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1067/20250213/en/xml/fedlex-data-admin-ch-eli-cc-2020-1067-20250213-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1067/20250213/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -20,7 +20,7 @@ English is not an official language of the Swiss Confederation. This original ve
 
 Concluded in Santiago de Compostela on 25 March 2015 Approved by the Federal Assembly on 19 June 2020[^t-1] Swiss Instrument of Ratification deposited on 21 October 2020 Entry into force for Switzerland on 1 February 2021
 
-(Status as of 1 February 2021)
+(Status as of 13 February 2025)
 
 [^t-1]: [AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066)
 
@@ -474,21 +474,24 @@ The Secretary General of the Council of Europe shall notify the member States of
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. Done in Santiago de Compostela, this 25th day of March 2015, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the non-member States which enjoy observer status with the Council of Europe, to the European Union and to any State invited to sign this Convention. (Signatures follow)
 
-Scope of Application as of 8 December 2020[^t-2]
+Scope of Application as of 13 February 2025[^t-2]
 
 <table>
 <tr><th>Contracting States</th><th>Ratification</th><th></th><th>Entry into force</th><th></th></tr>
 <tr><td>Albania</td><td>6 June</td><td>2016</td><td>1 March</td><td>2018</td></tr>
+<tr><td>Costa Rica</td><td>24 November</td><td>2021</td><td>1 March</td><td>2022</td></tr>
 <tr><td>Croatia\*</td><td>16 May</td><td>2019</td><td>1 September</td><td>2019</td></tr>
 <tr><td>Czech Republic\*</td><td>21 September</td><td>2017</td><td>1 March</td><td>2018</td></tr>
+<tr><td>France\*</td><td>18 January</td><td>2023</td><td>1 May</td><td>2023</td></tr>
 <tr><td>Latvia</td><td>9 July</td><td>2019</td><td>1 November</td><td>2019</td></tr>
 <tr><td>Malta</td><td>7 November</td><td>2017</td><td>1 March</td><td>2018</td></tr>
 <tr><td>Moldova</td><td>21 June</td><td>2017</td><td>1 March</td><td>2018</td></tr>
 <tr><td>Montenegro</td><td>5 February</td><td>2019</td><td>1 June</td><td>2019</td></tr>
 <tr><td>Norway</td><td>12 September</td><td>2017</td><td>1 March</td><td>2018</td></tr>
 <tr><td>Portugal</td><td>8 November</td><td>2018</td><td>1 March</td><td>2019</td></tr>
+<tr><td>Spain\*</td><td>15 December</td><td>2020</td><td>1 April</td><td>2021</td></tr>
 <tr><td>Switzerland</td><td>21 October</td><td>2020</td><td>1 February</td><td>2021</td></tr>
-<tr><td colspan="5">\* For reservations and declarations, see below. The reservations and declarations are not published in the AS. The French and English texts may be viewed on the Council of Europe website: [www.coe.int](http://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis or obtained from the Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern.</td></tr>
+<tr><td colspan="5">\* Reservations and declarations. The reservations and declarations are not published in the AS. The French and English texts may be viewed on the Council of Europe website: [www.coe.int](http://www.coe.int) or obtained from the Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern.</td></tr>
 </table>
 
-[^t-2]: [AS 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067). An updated version of the the Scope of Application is available on the publication platform for federal law "Fedlex" at the following address: [www.fedlex.admin.ch/en/treaty](https://www.fedlex.admin.ch/en/treaty).
+[^t-2]: [AS 2020 6571](https://fedlex.data.admin.ch/eli/oc/2020/1067); [2025 114](https://fedlex.data.admin.ch/eli/oc/2025/114). An updated version of the the Scope of Application is available on the publication platform for federal law "Fedlex" at the following address: [www.fedlex.admin.ch/en/treaty](https://www.fedlex.admin.ch/en/treaty)
