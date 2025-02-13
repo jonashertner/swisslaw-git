@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über das militärische Gesundheitswesen (V MiGw)
 document: Vernehmlassungsvorlage
 language: de

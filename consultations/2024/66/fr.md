@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur le système de santé militaire (OSSMil)
 document: Projet mis en consultation
 language: fr

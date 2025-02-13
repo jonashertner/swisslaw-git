@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla sanità militare (OSanMil)
 document: Progetto posto in consultazione
 language: it
