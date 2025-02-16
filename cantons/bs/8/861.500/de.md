@@ -4,13 +4,12 @@ number: "861.500"
 title: Gesetz über die Wohnraumförderung
 short: "Wohnraumfördergesetz, WRFG"
 language: de
-version: 2022-05-28
-valid_until: 2025-02-16
-version_adopted: 2021-11-28
+version: 2025-02-17
+version_adopted: 2024-05-15
 adopted: 2013-06-05
 in_force: 2014-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/861.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6215/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Sozialer Wohnungsbau / Erhaltung von Wohnraum
 
 (Wohnraumfördergesetz, WRFG)
 
-Vom 5. Juni 2013 (Stand 28. Mai 2022)
+Vom 5. Juni 2013 (Stand 17. Februar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -113,6 +112,72 @@ beschliesst:
 **Richt- und Nutzungsplanung**
 
 <sup>1</sup> Der Kanton trägt im Rahmen der Richt- und Nutzungsplanung dem Zweck und den Grundsätzen dieses Gesetzes Rechnung.
+
+### I<sup>bis</sup>. Dauerhaft gemeinnützig vermieteter Wohnraum auf Transformationsarealen
+
+#### § 6a
+
+**Vorgaben zum Wohnraum**
+
+<sup>1</sup> Der Wohnraum im Sinne von § 101a Abs. 2 lit. a des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 gilt als dauerhaft gemeinnützig vermietet, wenn folgende Anforderungen erfüllt sind:
+
+- a) die Vermietung des Wohnraumes erfolgt gemeinnützig gemäss Art. 4 Abs. 3 des Bundesgesetzes über die Förderung von preisgünstigem Wohnraum (Wohnraumförderungsgesetz, WFG) vom 21. März 2003, wobei die Vermieterin selber keine Organisation des gemeinnützigen Wohnungsbaus sein muss;
+- b) der Nettomietzins des Wohnraumes wird nach dem Kostenmietprinzip berechnet;
+- c) die Vermietungskriterien werden eingehalten.
+
+#### § 6b
+
+**Kostenmietprinzip**
+
+<sup>1</sup> Der Nettomietzins wird nach dem Kostenmietprinzip berechnet.
+
+<sup>2</sup> Die Kostenmiete berechnet sich anhand der Liegenschaftskosten und der Beschränkungen gemäss dem Wohnraumförderungsgesetz sowie den damit zusammenhängenden Verordnungen des Bundes, sofern der Regierungsrat keine abweichenden Regelungen vorsieht. Wird die Liegenschaft in Form eines vom Regierungsrat genehmigten Musterbaurechtsvertrags abgegeben, wird auf den tatsächlichen Baurechtszins abgestellt.
+
+<sup>3</sup> Nicht anrechenbar sind diejenigen Kostenteile, die über den im Zeitpunkt des Baubegehrens geltenden Anlagekostenlimiten inklusive allfälliger Erhöhungen und Zuschläge gemäss der Verordnung des BWO über die Kostenlimiten und Darlehensbeträge für Miet- und Eigentumsobjekte vom 27. Januar 2004 liegen. Diese Kostenteile werden bei der Nettomietzinsberechnung nicht berücksichtigt und können nicht auf die Mieterschaft überwälzt werden.
+
+<sup>4</sup> Der Regierungsrat kann die Einzelheiten regeln.
+
+#### § 6c
+
+**Nettomietzinsanpassung**
+
+<sup>1</sup> Der Nettomietzins gemäss § 6b kann angepasst werden:
+
+- a) auf Grund von Veränderungen des Referenzzinssatzes für Hypotheken oder des Baurechtszinssatzes;
+- b) infolge wertvermehrender Investitionen;
+- c) bei Erhöhungen der Unterhaltskosten, der Verwaltungskosten oder der mit der Sache verbundenen Lasten und öffentlichen Abgaben.
+
+<sup>2</sup> Mietzinsherabsetzungen sind zwingend vorzunehmen. Sie müssen spätestens auf den nächstmöglichen Kündigungstermin erfolgen.
+
+<sup>3</sup> Die Mitteilung von Mietzinserhöhungen richtet sich nach dem Schweizerischen Obligationenrecht (OR) vom 30. März 1911.
+
+<sup>4</sup> Nettomietzinsanpassungen sind dem zuständigen Departement vorhergehend mit den massgebenden Unterlagen zur Bewilligung vorzulegen.
+
+#### § 6d
+
+**Vermietungskriterien**
+
+<sup>1</sup> Die Eigentümerschaft von dauerhaft gemeinnützig vermietetem Wohnraum hat sicherzustellen, dass folgende Vermietungskriterien eingehalten werden:
+
+- a) Mieterinnen und Mieter mit geringen Einkommen und Vermögen sind angemessen zu berücksichtigen.
+- b) Mieterinnen und Mieter müssen während der Mietdauer ihren zivilrechtlichen Wohnsitz an der Adresse des Mietobjekts haben.
+- c) Der Wohnraum darf bei Mietantritt höchstens ein Zimmer mehr als Bewohnerinnen und Bewohner aufweisen. Es darf nur in begründeten Ausnahmefällen davon abgewichen werden.
+
+<sup>2</sup> Der Regierungsrat bestimmt die massgebenden Einkommens- und Vermögensgrenzen der Mieterinnen und Mieter und konkretisiert die Belegungsvorschriften.
+
+#### § 6e
+
+**Bewilligung und Kontrolle**
+
+<sup>1</sup> Die Prüfung der Einhaltung der im jeweiligen Bebauungsplan sowie diesem Gesetz enthaltenen Vorschriften zum Wohnraum erfolgen durch die zuständigen Departemente.
+
+<sup>2</sup> Mit der Bewilligung werden die einzuhaltenden Auflagen festgehalten.
+
+<sup>3</sup> Die zuständigen Departemente verfügen die erstmalige Höhe des Nettomietzinses der gesamten Liegenschaft. Die Eigentümerschaft gibt per Selbstdeklaration nach Fertigstellung und Vermietung über die Höhe der Nettomietzinsen der einzelnen Wohnungen Auskunft. Bei Abweichungen greifen die zuständigen Departemente mittels Verfügung korrigierend ein.
+
+<sup>4</sup> Die Eigentümerschaft ist zur Mitwirkung bei der Kontrolle verpflichtet und hat sämtliche Informationen zum Nachweis der Einhaltung der Vorschriften des Bebauungsplans, der Auflagen der Bewilligung, der Nettomietzinsen und der Vermietungskriterien zur Verfügung zu stellen.
+
+<sup>5</sup> Bei einem Verstoss gegen die durch die zuständigen Departemente festgelegten Nettomietzinsvorgaben verfügt das zuständige Departement die einzuhaltenden Nettomietzinsen für jede Wohnung einzeln und kann die Rückzahlung der unrechtmässig zu viel bezahlten Nettomietzinsen an die Mieterschaft inklusive eines Verzugszinses in der Höhe von 5 % anordnen.
 
 ### II. Schutz bestehenden Wohnraums
 
@@ -326,9 +391,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann zu Gunsten von besonders benachteiligten Personen kostengünstigen Wohnraum mit vergleichsweise geringen Grundflächen, einfachem und nachhaltigem Ausbaustandard sowie geringen Lebenszykluskosten bereitstellen und kostendeckend an diese vermieten. Der Regierungsrat kann eine geeignete Institution mit diesen Aufgaben betrauen.
 
-<sup>2</sup> Als besonders benachteiligt gelten insbesondere Personen, die Anspruch auf Ausrichtung von Familienmietzinsbeiträgen, Sozialhilfe oder Ergänzungsleistungen zur AHV/IV haben und trotz dieser Sozialleistungen aufgrund ihres soziokulturellen Hintergrunds, der Familiengrösse, einer Behinderung oder zufolge eingeschränkter bzw. fehlender Wohnkompetenz keine ihren Bedürfnissen entsprechende Wohnung finden.
+<sup>2</sup> Als besonders benachteiligt gelten insbesondere Personen, die Anspruch auf Ausrichtung von Familienmietzinsbeiträgen[^16-1] Sozialhilfe oder Ergänzungsleistungen zur AHV/IV haben und trotz dieser Sozialleistungen aufgrund ihres soziokulturellen Hintergrunds, der Familiengrösse, einer Behinderung oder zufolge eingeschränkter bzw. fehlender Wohnkompetenz keine ihren Bedürfnissen entsprechende Wohnung finden.
 
 <sup>3</sup> Es besteht kein Rechtsanspruch auf Abschluss eines entsprechenden Mietvertrages.
+
+[^16-1]: § 16 Abs 2: Infolge des neuen Gesetzes über die Ausrichtung von Mietbeiträgen (Mietbeitragsgesetz, MBG) vom 12. Februar 2025 (SG [890.500](https://www.gesetzessammlung.bs.ch/data/890.500/de)) wird der Begriff "Familienmietzinsbeiträge" durch "Mietbeiträge" ersetzt.
 
 #### § 16a
 
