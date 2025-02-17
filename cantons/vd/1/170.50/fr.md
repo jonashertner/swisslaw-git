@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 05.02.2025 de mise en vigueur
+title: ARRÊTÉ du 12.02.2025 de mise en vigueur
 language: fr
-version: 2025-02-11
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=1b76325c-8f6f-4e4c-9502-c41cb6e31945"
+version: 2025-02-18
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=acdd2918-d408-429b-9269-3eda59909738"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 5 février 2025
+du 12 février 2025
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,9 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les actes législatifs ci-après du 12 novembre 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 26 novembre 2024, entrent en vigueur avec effet :
+<sup>1</sup> Les actes législatifs ci-après du 19 novembre 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 3 décembre 2024, entrent en vigueur avec effet au 1er mars 2025 :
 
-- a. au 1er janvier 2025 :
-- 1\. décret du 12 novembre 2024 modifiant celui du 15 décembre 2009 créant un crédit d'inventaire du matériel informatique et de télécommunication (BLV 172.755).
-- b. au 1er mars 2025 :
-- 1\. loi du 12 novembre 2024 modifiant celle du 20 juin 1995 organisant la Banque Cantonale Vaudoise (BLV 951.01).
+- 1\. loi du 19 novembre 2024 modifiant celle du 8 mai 2007 sur le Grand Conseil (BLV 171.01) ;
+- 2\. décret du 19 novembre 2024 accordant au Conseil d'Etat un crédit additionnel de CHF 2'150'000.- au crédit d'ouvrage de CHF 54'700'000.- accordé par le Grand Conseil le 17 septembre 2019, pour financer la maximisation du potentiel solaire, la valorisation du bois et l'acquisition d'un équipement de traitement de l'air pour les magasins des collections patrimoniales dans le cadre de la réalisation de l'extension et la modernisation de l'Unithèque sur le site du Campus de l'UNIL (BLV 433.00).
