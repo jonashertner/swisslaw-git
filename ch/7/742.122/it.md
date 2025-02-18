@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 concernente l'accesso alla rete ferroviar
 short: OARF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: it
-version: 2025-02-01
+version: 2025-02-19
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250219/it/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250219-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250201/it"
 
 (OARF)
 
-del 25 novembre 1998 (Stato 1° febbraio 2025)
+del 25 novembre 1998 (Stato 19 febbraio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -157,9 +157,11 @@ L’impresa di trasporto ferroviario deve essere iscritta nel registro di commer
 
 [^9-1]
 
-Un’impresa estera necessita di una copertura assicurativa della stessa portata di quella per le imprese svizzere.
+<sup>1</sup> Le autorizzazioni estere di accesso alla rete possono essere riconosciute per le corse su tratte in prossimità della frontiera senza che a tale scopo sia necessario un accordo internazionale sul riconoscimento reciproco delle autorizzazioni di accesso alla rete.
 
-[^9-1]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+<sup>2</sup> Un’impresa estera necessita di una copertura assicurativa della stessa portata di quella per le imprese svizzere.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)). Correzione del 19 feb. 2025 ([RU 2025 119](https://fedlex.data.admin.ch/eli/oc/2025/119)).
 
 ## Sezione 3*a*: Piano di utilizzazione della rete
 

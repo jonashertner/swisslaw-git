@@ -4,11 +4,11 @@ title: Eisenbahn-Netzzugangsverordnung vom 25. November 1998 (NZV)
 short: NZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: de
-version: 2025-02-01
+version: 2025-02-19
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250219/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250219-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250201/de"
 
 (NZV)
 
-vom 25. November 1998 (Stand am 1. Februar 2025)
+vom 25. November 1998 (Stand am 19. Februar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -157,9 +157,11 @@ Das Eisenbahnverkehrsunternehmen muss im Handelsregister eingetragen sein.
 
 [^9-1]
 
-Ein ausländisches Unternehmen benötigt einen Versicherungsschutz, welcher gleich hoch ist wie bei einem Schweizer Unternehmen.
+<sup>1</sup> Ausländische Netzzugangsbewilligungen können für Fahrten auf grenznahen Strecken anerkannt werden, ohne dass dafür ein zwischenstaatliches Abkommen über die gegenseitige Anerkennung von Netzzugangsbewilligungen erforderlich ist.
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+<sup>2</sup> Ein ausländisches Unternehmen benötigt einen Versicherungsschutz, welcher gleich hoch ist wie bei einem Schweizer Unternehmen.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)). Berichtigung vom 19. Febr. 2025 ([AS 2025 119](https://fedlex.data.admin.ch/eli/oc/2025/119)).
 
 ## 3*a*. Abschnitt: Netznutzungsplan
 
