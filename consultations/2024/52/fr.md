@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’assurance-accidents (OLAA) en matière d’événements majeurs
 document: Projet mis en consultation
 language: fr

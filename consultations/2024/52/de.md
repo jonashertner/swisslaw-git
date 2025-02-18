@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Unfallversicherung (UVV) in Sachen Grossereignisse
 document: Vernehmlassungsvorlage
 language: de
