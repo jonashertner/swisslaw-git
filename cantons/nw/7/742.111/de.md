@@ -4,12 +4,12 @@ number: "742.111"
 title: Verordnung zur Prämienverbilligung für das Jahr 2025
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-02-19
 version_adopted: 2025-02-18
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1344/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -52,7 +52,7 @@ beschliesst:
 
 **Prämienverbilligung bei Quellensteuer**
 
-<sup>1</sup> Für das Jahr 2025 gelten bei Personen, die an der Quelle besteuert werden, 80 Prozent des der Quellensteuer zugrunde liegenden Einkommens als massgebender Steuerwert. Massgebende Steuerperiode ist das Jahr 2024.
+<sup>1</sup> Für das Jahr 2025 gelten bei Personen, die an der Quelle besteuert werden, 80 Prozent des der Quellensteuer zugrunde liegenden Einkommens als massgebender Steuerwert. Massgebende Steuerperiode ist das Jahr 2023.
 
 #### § 5
 
