@@ -5,11 +5,12 @@ title: "Concordat sur les jeux d'argent au niveau suisse"
 short: CJA
 language: fr
 version: 2021-01-01
+corrected: 2025-02-20
 version_adopted: 2019-05-20
 adopted: 2019-05-20
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.53"
-pdf: "https://lex.vs.ch/api/fr/versions/3464/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2775/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -302,7 +303,7 @@ conviennent de ce qui suit:
 
 <sup>2</sup> Elle soumet chaque année à l’institution intercantonale, pour information, un rapport annuel et les comptes annuels vérifiés par l’organe de révision.
 
-<sup>3</sup> Elle soumet tous les quatre ans pour approbation un rapport d’activité à l’institution intercantonale.
+<sup>3</sup>
 
 ### 3.1.2 Conseil de surveillance
 
@@ -436,7 +437,7 @@ conviennent de ce qui suit:
 
 <sup>3</sup> En cas de dissolution de la fondation, la fortune de la fondation est distribuée aux cantons au prorata de leur population résidente.
 
-<sup>4</sup> Les cantons affectent les fonds mentionnés à l’alinéa 3 exclusivement à l’encouragement du sport cantonal.
+<sup>4</sup>
 
 #### Art. 34
 

@@ -5,11 +5,12 @@ title: Gesamtschweizerisches Geldspielkonkordat
 short: GSK
 language: de
 version: 2021-01-01
+corrected: 2025-02-20
 version_adopted: 2019-05-20
 adopted: 2019-05-20
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.53"
-pdf: "https://lex.vs.ch/api/de/versions/3464/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2775/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
