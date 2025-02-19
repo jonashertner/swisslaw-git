@@ -3,11 +3,11 @@ sr: "0.444.2"
 title: Übereinkommen vom 2. November 2001 über den Schutz des Unterwasser-Kulturerbes
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/101"
 language: de
-version: 2023-02-15
+version: 2025-02-20
 adopted: 2001-11-02
 in_force: 2020-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2020-101-20230215-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20250220/de/xml/fedlex-data-admin-ch-eli-cc-2020-101-20250220-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20250220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. Oktober 2019
 
 In Kraft getreten für die Schweiz am 25. Januar 2020
 
-(Stand am 15. Februar 2023)
+(Stand am 20. Februar 2025)
 
 [^t-1]: [BBl 2019 4561](https://fedlex.data.admin.ch/eli/fga/2019/1593)
 
@@ -609,7 +609,7 @@ Diese Regel darf nicht so ausgelegt werden, als verhindere sie:
 - a) unter Berücksichtigung der Komplexität des Projekts und der Vertraulichkeit oder Sensibilität der Informationen so bald wie möglich zu veröffentlichen; und
 - b) in den einschlägigen öffentlichen Archiven zu hinterlegen.
 
-Geltungsbereich am 15. Februar 2023[^t-2]
+Geltungsbereich am 20. Februar 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -631,6 +631,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Estland<sup>\*</sup></td><td>2. November</td><td>2020</td><td>2. Februar</td><td>2021</td></tr>
 <tr><td>Frankreich</td><td>7. Februar</td><td>2013</td><td>7. Mai</td><td>2013</td></tr>
 <tr><td>Gabun</td><td>1. Februar</td><td>2010</td><td>1. Mai</td><td>2010</td></tr>
+<tr><td>Gambia</td><td>10. November</td><td>2023</td><td>10. Februar</td><td>2024</td></tr>
 <tr><td>Ghana</td><td>20. Januar</td><td>2016</td><td>20. April</td><td>2016</td></tr>
 <tr><td>Grenada</td><td>15. Januar</td><td>2009</td><td>15. April</td><td>2009</td></tr>
 <tr><td>Guatemala\*</td><td>3. November</td><td>2015</td><td>3. Februar</td><td>2016</td></tr>
@@ -639,12 +640,15 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Guyana</td><td>28. April</td><td>2014</td><td>28. Juli</td><td>2014</td></tr>
 <tr><td>Haiti</td><td>9. November</td><td>2009</td><td>9. Februar</td><td>2010</td></tr>
 <tr><td>Honduras</td><td>23. Juli</td><td>2010</td><td>23. Oktober</td><td>2010</td></tr>
+<tr><td>Irak</td><td>10. November</td><td>2023</td><td>10. Februar</td><td>2024</td></tr>
 <tr><td>Iran</td><td>16. Juni</td><td>2009</td><td>16. September</td><td>2009</td></tr>
 <tr><td>Italien\*</td><td>8. Januar</td><td>2010</td><td>8. April</td><td>2010</td></tr>
 <tr><td>Jamaika</td><td>9. August</td><td>2011</td><td>9. November</td><td>2011</td></tr>
+<tr><td>Jemen</td><td>5. Juni</td><td>2024</td><td>5. September</td><td>2024</td></tr>
 <tr><td>Jordanien</td><td>2. Dezember</td><td>2009</td><td>2. März</td><td>2010</td></tr>
 <tr><td>Kambodscha</td><td>24. November</td><td>2007</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Kap Verde</td><td>26. März</td><td>2019</td><td>26. Juni</td><td>2019</td></tr>
+<tr><td>Katar</td><td>10. November</td><td>2023</td><td>10. Februar</td><td>2024</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>28. September</td><td>2010</td><td>28. Dezember</td><td>2010</td></tr>
 <tr><td>Kroatien</td><td>1. Dezember</td><td>2004</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Kuba\*</td><td>26. Mai</td><td>2008</td><td>2. Januar</td><td>2009</td></tr>
@@ -657,6 +661,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Mali</td><td>2. März</td><td>2021</td><td>2. Juni</td><td>2021</td></tr>
 <tr><td>Malta</td><td>7. April</td><td>2021</td><td>7. Juli</td><td>2021</td></tr>
 <tr><td>Marokko</td><td>20. Juni</td><td>2011</td><td>20. September</td><td>2011</td></tr>
+<tr><td>Mauretanien</td><td>7. Juli</td><td>2023</td><td>7. Oktober</td><td>2023</td></tr>
 <tr><td>Mexiko</td><td>5. Juli</td><td>2006</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Mikronesien</td><td>19. April</td><td>2018</td><td>19. Juli</td><td>2018</td></tr>
 <tr><td>Montenegro</td><td>18. Juli</td><td>2008</td><td>1. Februar</td><td>2009</td></tr>
@@ -671,6 +676,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Polen</td><td>18. Mai</td><td>2021</td><td>18. August</td><td>2021</td></tr>
 <tr><td>Portugal<sup>\*</sup></td><td>21. September</td><td>2006</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Rumänien</td><td>31. Juli</td><td>2007</td><td>2. Januar</td><td>2009</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>3. Oktober</td><td>2024</td><td>3. Januar</td><td>2025</td></tr>
 <tr><td>Saudi-Arabien<sup>\*</sup></td><td>13. November</td><td>2015</td><td>13. Februar</td><td>2016</td></tr>
 <tr><td>Schweiz<sup>\*</sup></td><td>25. Oktober</td><td>2019</td><td>25. Januar</td><td>2020</td></tr>
 <tr><td>Senegal</td><td>15. September</td><td>2020</td><td>15. Dezember</td><td>2020</td></tr>
@@ -686,10 +692,10 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Tunesien</td><td>15. Januar</td><td>2009</td><td>15. April</td><td>2009</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>27. Dezember</td><td>2006</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Ungarn</td><td>19. März</td><td>2014</td><td>19. Juni</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/](http://www.unesco.org/) &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101); [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101); [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73); [2025 130](https://fedlex.data.admin.ch/eli/oc/2025/130). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

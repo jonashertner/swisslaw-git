@@ -3,11 +3,11 @@ sr: "0.444.2"
 title: Convenzione del 2 novembre 2001 sulla protezione del patrimonio culturale subacqueo
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/101"
 language: it
-version: 2023-02-15
+version: 2025-02-20
 adopted: 2001-11-02
 in_force: 2020-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2020-101-20230215-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20230215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20250220/it/xml/fedlex-data-admin-ch-eli-cc-2020-101-20250220-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20250220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2020** 539
 
 Conclusa a Parigi il 2 novembre 2001 Approvata dall’Assemblea federale il 21 giugno 2019[^t-1] Strumento di ratifica depositato dalla Svizzera il 25 ottobre 2019 Entrata in vigore per la Svizzera il 25 gennaio 2020
 
-(Stato 15 febbraio 2023)
+(Stato 20 febbraio 2025)
 
 [^t-1]: [FF 2019 3807](https://fedlex.data.admin.ch/eli/fga/2019/1593)
 
@@ -603,7 +603,7 @@ La presente Regola non può essere interpretata nel senso d’impedire:
 - a) reso pubblico non appena possibile, tenendo conto della complessità del progetto e del carattere di riservatezza e di delicatezza delle informazioni; e
 - b) depositato presso archivi pubblici pertinenti.
 
-Campo d’applicazione il 15 febbraio 2023[^t-2]
+Campo d’applicazione il 20 febbraio 2025[^t-2]
 
 <table>
 <tr><th>Stati contraenti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -629,7 +629,8 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Egitto</td><td>30 agosto</td><td>2017</td><td>30 novembre</td><td>2017</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>2 novembre</td><td>2020</td><td>2 febbraio</td><td>2021</td></tr>
 <tr><td>Francia</td><td>7 febbraio</td><td>2013</td><td>7 maggio</td><td>2013</td></tr>
-<tr><td>Gabun</td><td>1° febbraio</td><td>2010</td><td>1° maggio</td><td>2010</td></tr>
+<tr><td>Gabon</td><td>1° febbraio</td><td>2010</td><td>1° maggio</td><td>2010</td></tr>
+<tr><td>Gambia</td><td>10 novembre</td><td>2023</td><td>10 febbraio</td><td>2024</td></tr>
 <tr><td>Ghana</td><td>20 gennaio</td><td>2016</td><td>20 aprile</td><td>2016</td></tr>
 <tr><td>Giamaica</td><td>9 agosto</td><td>2011</td><td>9 novembre</td><td>2011</td></tr>
 <tr><td>Giordania</td><td>2 dicembre</td><td>2009</td><td>2 marzo</td><td>2010</td></tr>
@@ -641,6 +642,7 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Haiti</td><td>9 novembre</td><td>2009</td><td>9 febbraio</td><td>2010</td></tr>
 <tr><td>Honduras</td><td>23 luglio</td><td>2010</td><td>23 ottobre</td><td>2010</td></tr>
 <tr><td>Iran</td><td>16 giugno</td><td>2009</td><td>16 settembre</td><td>2009</td></tr>
+<tr><td>Iraq</td><td>10 novembre</td><td>2023</td><td>10 febbraio</td><td>2024</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>8 gennaio</td><td>2010</td><td>8 aprile</td><td>2010</td></tr>
 <tr><td>Kuwait</td><td>30 maggio</td><td>2017</td><td>30 agosto</td><td>2017</td></tr>
 <tr><td>Libano</td><td>8 gennaio</td><td>2007</td><td>2 gennaio</td><td>2009</td></tr>
@@ -651,6 +653,7 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Mali</td><td>2 marzo</td><td>2021</td><td>2 giugno</td><td>2021</td></tr>
 <tr><td>Malta</td><td>7 aprile</td><td>2021</td><td>7 luglio</td><td>2021</td></tr>
 <tr><td>Marocco</td><td>20 giugno</td><td>2011</td><td>20 settembre</td><td>2011</td></tr>
+<tr><td>Mauritania</td><td>7 luglio</td><td>2023</td><td>7 ottobre</td><td>2023</td></tr>
 <tr><td>Messico</td><td>5 luglio</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Micronesia</td><td>19 aprile</td><td>2018</td><td>19 luglio</td><td>2018</td></tr>
 <tr><td>Montenegro</td><td>18 luglio</td><td>2008</td><td>1° febbraio</td><td>2009</td></tr>
@@ -664,11 +667,13 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Paraguay</td><td>7 settembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Polonia</td><td>18 maggio</td><td>2021</td><td>18 agosto</td><td>2021</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>21 settembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
+<tr><td>Qatar</td><td>10 novembre</td><td>2023</td><td>10 febbraio</td><td>2024</td></tr>
 <tr><td>Repubblica Dominicana</td><td>22 luglio</td><td>2021</td><td>22 ottobre</td><td>2021</td></tr>
 <tr><td>Romania</td><td>31 luglio</td><td>2007</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>3 dicembre</td><td>2009</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>8 novembre</td><td>2010</td><td>8 febbraio</td><td>2011</td></tr>
 <tr><td>Santa Lucia</td><td>1° febbraio</td><td>2007</td><td>2 gennaio</td><td>2009</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>3 ottobre</td><td>2024</td><td>3 gennaio</td><td>2025</td></tr>
 <tr><td>Senegal</td><td>15 settembre</td><td>2020</td><td>15 dicembre</td><td>2020</td></tr>
 <tr><td>Slovacchia</td><td>11 marzo</td><td>2009</td><td>11 giugno</td><td>2009</td></tr>
 <tr><td>Slovenia</td><td>18 settembre</td><td>2008</td><td>2 gennaio</td><td>2009</td></tr>
@@ -680,10 +685,11 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Tunisia</td><td>15 gennaio</td><td>2009</td><td>15 aprile</td><td>2009</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>27 dicembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Ungheria</td><td>19 marzo</td><td>2014</td><td>19 giugno</td><td>2014</td></tr>
+<tr><td>Yemen</td><td>5 giugno</td><td>2024</td><td>5 settembre</td><td>2024</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101)e [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101); [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73); [2025 130](https://fedlex.data.admin.ch/eli/oc/2025/130). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazione
 

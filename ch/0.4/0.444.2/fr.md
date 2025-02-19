@@ -3,11 +3,11 @@ sr: "0.444.2"
 title: Convention du 2 novembre 2001 sur la protection du patrimoine culturel subaquatique
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/101"
 language: fr
-version: 2023-02-15
+version: 2025-02-20
 adopted: 2001-11-02
 in_force: 2020-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2020-101-20230215-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20230215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20250220/fr/xml/fedlex-data-admin-ch-eli-cc-2020-101-20250220-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20250220/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 octobre 2019
 
 Entrée en vigueur pour la Suisse le 25 janvier 2020
 
-(État le 15 février 2023)
+(État le 20 février 2025)
 
 [^t-1]: [FF 2019 4385](https://fedlex.data.admin.ch/eli/fga/2019/1593)
 
@@ -605,19 +605,19 @@ La présente règle ne peut être interprétée comme empêchant:
 - a) rendu public dès que possible, compte tenu de la complexité du projet et de la nature confidentielle ou sensible de l’information, et
 - b) déposé auprès des archives publiques appropriées.
 
-Champ d’application le 15 février 2023[^t-2]
+Champ d’application le 20 février 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>12 mai</td><td>2015</td><td>12 août</td><td>2015</td></tr>
 <tr><td>Albanie</td><td>19 mars</td><td>2009</td><td>19 juin</td><td>2009</td></tr>
-<tr><td>Algérie<sup>\*</sup></td><td>26 février</td><td>2015</td><td>26 mai</td><td>2015</td></tr>
+<tr><td>Algérie\*</td><td>26 février</td><td>2015</td><td>26 mai</td><td>2015</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>25 avril</td><td>2013</td><td>25 juillet</td><td>2013</td></tr>
-<tr><td>Arabie Saoudite<sup>\*</sup></td><td>13 novembre</td><td>2015</td><td>13 février</td><td>2016</td></tr>
-<tr><td>Argentine<sup>\*</sup></td><td>19 juillet</td><td>2010</td><td>19 octobre</td><td>2010</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>13 novembre</td><td>2015</td><td>13 février</td><td>2016</td></tr>
+<tr><td>Argentine\*</td><td>19 juillet</td><td>2010</td><td>19 octobre</td><td>2010</td></tr>
 <tr><td>Bahreïn</td><td>7 mars</td><td>2014</td><td>7 juin</td><td>2014</td></tr>
 <tr><td>Barbade</td><td>2 octobre</td><td>2008</td><td>2 janvier</td><td>2009</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>5 août</td><td>2013</td><td>5 novembre</td><td>2013</td></tr>
+<tr><td>Belgique\*</td><td>5 août</td><td>2013</td><td>5 novembre</td><td>2013</td></tr>
 <tr><td>Bolivie</td><td>24 février</td><td>2017</td><td>24 mai</td><td>2017</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>22 avril</td><td>2009</td><td>22 juillet</td><td>2009</td></tr>
 <tr><td>Bulgarie</td><td>6 octobre</td><td>2003</td><td>2 janvier</td><td>2009</td></tr>
@@ -627,13 +627,14 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Congo (Kinshasa)</td><td>28 septembre</td><td>2010</td><td>28 décembre</td><td>2010</td></tr>
 <tr><td>Costa Rica</td><td>27 avril</td><td>2018</td><td>27 juillet</td><td>2018</td></tr>
 <tr><td>Croatie</td><td>1<sup>er</sup> décembre</td><td>2004</td><td>2 janvier</td><td>2009</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>26 mai</td><td>2008</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Cuba\*</td><td>26 mai</td><td>2008</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Égypte</td><td>30 août</td><td>2017</td><td>30 novembre</td><td>2017</td></tr>
 <tr><td>Équateur</td><td>1<sup>er</sup> décembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Espagne</td><td>6 juin</td><td>2005</td><td>2 janvier</td><td>2009</td></tr>
-<tr><td>Estonie<sup>\*</sup></td><td>2 novembre</td><td>2020</td><td>2 février</td><td>2021</td></tr>
+<tr><td>Estonie\*</td><td>2 novembre</td><td>2020</td><td>2 février</td><td>2021</td></tr>
 <tr><td>France</td><td>7 février</td><td>2013</td><td>7 mai</td><td>2013</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> février</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2010</td></tr>
+<tr><td>Gambie</td><td>10 novembre</td><td>2023</td><td>10 février</td><td>2024</td></tr>
 <tr><td>Ghana</td><td>20 janvier</td><td>2016</td><td>20 avril</td><td>2016</td></tr>
 <tr><td>Grenade</td><td>15 janvier</td><td>2009</td><td>15 avril</td><td>2009</td></tr>
 <tr><td>Guatemala\*</td><td>3 novembre</td><td>2015</td><td>3 février</td><td>2016</td></tr>
@@ -644,6 +645,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Honduras</td><td>23 juillet</td><td>2010</td><td>23 octobre</td><td>2010</td></tr>
 <tr><td>Hongrie</td><td>19 mars</td><td>2014</td><td>19 juin</td><td>2014</td></tr>
 <tr><td>Iran</td><td>16 juin</td><td>2009</td><td>16 septembre</td><td>2009</td></tr>
+<tr><td>Iraq</td><td>10 novembre</td><td>2023</td><td>10 février</td><td>2024</td></tr>
 <tr><td>Italie\*</td><td>8 janvier</td><td>2010</td><td>8 avril</td><td>2010</td></tr>
 <tr><td>Jamaïque</td><td>9 août</td><td>2011</td><td>9 novembre</td><td>2011</td></tr>
 <tr><td>Jordanie</td><td>2 décembre</td><td>2009</td><td>2 mars</td><td>2010</td></tr>
@@ -656,6 +658,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Mali</td><td>2 mars</td><td>2021</td><td>2 juin</td><td>2021</td></tr>
 <tr><td>Malte</td><td>7 avril</td><td>2021</td><td>7 juillet</td><td>2021</td></tr>
 <tr><td>Maroc</td><td>20 juin</td><td>2011</td><td>20 septembre</td><td>2011</td></tr>
+<tr><td>Mauritanie</td><td>7 juillet</td><td>2023</td><td>7 octobre</td><td>2023</td></tr>
 <tr><td>Mexique</td><td>5 juillet</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Micronésie</td><td>19 avril</td><td>2018</td><td>19 juillet</td><td>2018</td></tr>
 <tr><td>Monténégro</td><td>18 juillet</td><td>2008</td><td>1<sup>er</sup> février</td><td>2009</td></tr>
@@ -665,27 +668,30 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Nioué</td><td>15 novembre</td><td>2019</td><td>15 février</td><td>2020</td></tr>
 <tr><td>Oman</td><td>10 juin</td><td>2020</td><td>10 septembre</td><td>2020</td></tr>
 <tr><td>Palestine</td><td>8 décembre</td><td>2011</td><td>8 mars</td><td>2012</td></tr>
-<tr><td>Panama<sup>\*</sup></td><td>20 mai</td><td>2003</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Panama\*</td><td>20 mai</td><td>2003</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Paraguay</td><td>7 septembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Pologne</td><td>18 mai</td><td>2021</td><td>18 août</td><td>2021</td></tr>
-<tr><td>Portugal<sup>\*</sup></td><td>21 septembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Portugal\*</td><td>21 septembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Qatar</td><td>10 novembre</td><td>2023</td><td>10 février</td><td>2024</td></tr>
 <tr><td>République dominicaine</td><td>22 juillet</td><td>2021</td><td>22 octobre</td><td>2021</td></tr>
 <tr><td>Roumanie</td><td>31 juillet</td><td>2007</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>3 décembre</td><td>2009</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>8 novembre</td><td>2010</td><td>8 février</td><td>2011</td></tr>
 <tr><td>Sainte-Lucie</td><td>1<sup>er</sup> février</td><td>2007</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>3 octobre</td><td>2024</td><td>3 janvier</td><td>2025</td></tr>
 <tr><td>Sénégal</td><td>15 septembre</td><td>2020</td><td>15 décembre</td><td>2020</td></tr>
 <tr><td>Slovaquie</td><td>11 mars</td><td>2009</td><td>11 juin</td><td>2009</td></tr>
 <tr><td>Slovénie</td><td>18 septembre</td><td>2008</td><td>2 janvier</td><td>2009</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>25 octobre</td><td>2019</td><td>25 janvier</td><td>2020</td></tr>
+<tr><td>Suisse\*</td><td>25 octobre</td><td>2019</td><td>25 janvier</td><td>2020</td></tr>
 <tr><td>Togo</td><td>7 juin</td><td>2013</td><td>7 septembre</td><td>2013</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>27 juillet</td><td>2010</td><td>27 octobre</td><td>2010</td></tr>
 <tr><td>Tunisie</td><td>15 janvier</td><td>2009</td><td>15 avril</td><td>2009</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>27 décembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Ukraine\*</td><td>27 décembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Yémen</td><td>5 juin</td><td>2024</td><td>5 septembre</td><td>2024</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org](http://www.unesco.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101); [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101); [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73); [2025 130](https://fedlex.data.admin.ch/eli/oc/2025/130). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 
