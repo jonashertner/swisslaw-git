@@ -3,20 +3,20 @@ canton: NW
 number: "261.12"
 title: Landratsbeschluss über den Gesamtbeschäftigungsgrad der Präsidien am Kantonsgericht
 language: de
-version: 2022-12-01
-valid_until: 2025-02-19
-version_adopted: 2022-11-30
+version: 2025-02-20
+valid_until: 2025-12-01
+version_adopted: 2025-02-19
 adopted: 2010-06-09
 in_force: 2010-06-09
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/1068/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Landratsbeschluss über den Gesamtbeschäftigungsgrad der Präsidien am Kantonsgericht
 
-vom 09.06.2010 (Stand 01.12.2022)
+vom 09.06.2010 (Stand 20.02.2025)
 
 Der Landrat von Nidwalden,
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### Ziff. 1
 
-<sup>1</sup> Der Gesamtbeschäftigungsgrad der Präsidien am Kantonsgericht beträgt insgesamt höchstens 350 Stellenprozente.
+<sup>1</sup> Der Gesamtbeschäftigungsgrad der Präsidien am Kantonsgericht beträgt insgesamt höchstens 390 Stellenprozente.
 
 <sup>2</sup> Der Landrat legt bei der Wahl den Beschäftigungsgrad der einzelnen Präsidien fest.
 
