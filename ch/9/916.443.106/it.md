@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 18 novembre 2015 concernente l'importazione, il tr
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: it
-version: 2025-01-15
+version: 2025-02-21
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20250115/it/xml/fedlex-data-admin-ch-eli-cc-2015-845-20250115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20250221/it/xml/fedlex-data-admin-ch-eli-cc-2015-845-20250221-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250221/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250115/it"
 
 (OITE-PT-DFI)
 
-del 18 novembre 2015 (Stato 15 gennaio 2025)
+del 18 novembre 2015 (Stato 21 febbraio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -158,7 +158,7 @@ Allegato 1[^t-1]
 
 ## Atti normativi determinanti dell’UE sulle condizioni di importazione e transito armonizzate
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 31 mag. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Aggiornato dai n. I delle O dell’USAV del 5 ago. 2024 ([RU 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)), del 13 nov. 2024 ([RU 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)) e del 13 gen. 2025, in vigore dal 15 gen. 2025 (RU **202****5** 19).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 31 mag. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Aggiornato dalle cifre I delle O dell’USAV del 5 ago. 2024 ([RU 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)), del 13 nov. 2024 ([RU 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)) e del 19 feb. 2025, in vigore dal 21 feb. 2025 ([RU 2025 122](https://fedlex.data.admin.ch/eli/oc/2025/122)).
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
@@ -195,7 +195,7 @@ Allegato 1[^t-1]
 <tr><td>31. Regolamento di esecuzione (UE) 2020/2235</td><td>Regolamento di esecuzione (UE) 2020/2235 della Commissione, del 16 dicembre 2020, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari, i modelli di certificati ufficiali e i modelli di certificati sanitari/ufficiali per l’ingresso nell’Unione e i movimenti all’interno dell’Unione di partite di determinate categorie di animali e merci nonché la certificazione ufficiale relativa a tali certificati e che abroga il regolamento (CE) n. 599/2004, i regolamenti di esecuzione (UE) n. 636/2014 e (UE) 2019/628, la direttiva 98/68/CE e le decisioni 2000/572/CE, 2003/779/CE e 2007/240/CE, GU L 442 del 30.12.2020, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/2020, GU L, 2024/2020, 29.7.2024.</td></tr>
 <tr><td>32. Regolamento di esecuzione (UE) 2020/2236</td><td>Regolamento di esecuzione (UE) 2020/2236 della Commissione, del 16 dicembre 2020, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari per l’ingresso nell’Unione e i movimenti all’interno dell’Unione di partite di animali acquatici e di determinati prodotti di origine animale ottenuti da animali acquatici nonché la certificazione ufficiale relativa a tali certificati e che abroga il regolamento (CE) n. 1251/2008, GU L 442 del 30.12.2020, pag. 410; modificato da ultimo dal regolamento di esecuzione (UE) 2023/516, GU L 71 del 9.3.2023, pag. 27.</td></tr>
 <tr><td>33. Regolamento di esecuzione (UE) 2021/403</td><td>Regolamento di esecuzione (UE) 2021/403 della Commissione, del 24 marzo 2021, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari e i modelli di certificati sanitari/ufficiali per l’ingresso nell’Unione e i movimenti tra Stati membri di partite di determinate categorie di animali terrestri e del relativo materiale germinale nonché la certificazione ufficiale relativa a tali certificati e che abroga la decisione 2010/470/UE, GU L 113 del 31.3.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/1044, GU L, 2024/1044, 26.4.2024.</td></tr>
-<tr><td>34. Regolamento di esecuzione (UE) 2021/404</td><td>Regolamento di esecuzione (UE) 2021/404 della Commissione, del 24 marzo 2021, che stabilisce gli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di animali, materiale germinale e prodotti di origine animale conformemente al regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, GU L 114 del 31.3.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/3239, GU L, 2024/3239, 23.12.2024.</td></tr>
+<tr><td>34. Regolamento di esecuzione (UE) 2021/404</td><td>Regolamento di esecuzione (UE) 2021/404 della Commissione, del 24 marzo 2021, che stabilisce gli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di animali, materiale germinale e prodotti di origine animale conformemente al regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, GU L 114 del 31.3.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2025/320, GU L, 2025/320, 12.2.2025.</td></tr>
 <tr><td>35. Regolamento di esecuzione (UE) 2021/405</td><td>Regolamento di esecuzione (UE) 2021/405 della Commissione, del 24 marzo 2021, che istituisce gli elenchi dei paesi terzi o loro regioni da cui è autorizzato l’ingresso nell’Unione di determinati animali e merci destinati al consumo umano in conformità al regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, GU L 114 del 31.3.2021, pag. 118; modificato da ultimo dal regolamento di esecuzione (UE) 2024/334, GU L, 2024/334, 22.1.2024.</td></tr>
 <tr><td>36. Regolamento di esecuzione (UE) 2021/1938</td><td>Regolamento di esecuzione (UE) 2021/1938 della Commissione, del 9 novembre 2021, che stabilisce il modello di documento di identificazione per i movimenti a carattere non commerciale di uccelli da compagnia verso uno Stato membro da un territorio o un paese terzo e che abroga la decisione 2007/25/CE, versione della GU L 396 del 10.11.2021, pag. 47.</td></tr>
 <tr><td>37. Regolamento di esecuzione (UE) 2022/478</td><td>Regolamento di esecuzione (UE) 2022/478 della Commissione, del 24 marzo 2022, relativo al mantenimento di misure di protezione sulle importazioni di molluschi bivalvi originari della Turchia destinati al consumo umano, GU L 98 del 25.3.2022, pag. 54; modificato dal regolamento di esecuzione (UE) 2024/360, GU L, 2024/360, 25.1.2024.</td></tr>
