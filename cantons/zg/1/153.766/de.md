@@ -4,13 +4,12 @@ number: "153.766"
 title: Delegationsverordnung der Gesundheitsdirektion
 short: DelV GD
 language: de
-version: 2021-07-03
-valid_until: 2025-02-20
-version_adopted: 2021-06-28
+version: 2025-02-21
+version_adopted: 2025-02-18
 adopted: 2014-12-19
 in_force: 2015-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.766"
-pdf: "https://bgs.zg.ch/api/de/versions/2249/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2682/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2249/pdf_file"
 
 (DelV GD)
 
-Vom 19. Dezember 2014 (Stand 3. Juli 2021)
+Vom 19. Dezember 2014 (Stand 21. Februar 2025)
 
 Die Gesundheitsdirektion des Kantons Zug,
 
@@ -39,7 +38,7 @@ verordnet:
 
 - a) Funktionsänderungen;
 - b) Beförderungen;
-- c) Weiter- und Zusatzbildungen sowie Studienurlaube ab einer Kostenübernahme von gesamthaft 4000 Franken (Kursgeld, Kursspesen und Lohnkosten für Zeitaufwand);
+- c) Aus-, Fort- und Weiterbildungen sowie Bildungsurlaube ab einer Kostenbeteiligung des Kantons von gesamthaft 15 000 Franken;
 - d) einmalige Zuwendungen;
 - e) Gehaltskürzungen;
 - f) individuelle Personalgeschäfte der kantonalen Organe der Gesundheitsdirektion gemäss § 4 Abs. 1 Bst. a bis c und Abs. 2 des Gesetzes über das Gesundheitswesen im Kanton Zug (Gesundheitsgesetz, GesG) vom 30. Oktober 2008[^Ziff1-2] und deren Stellvertreterinnen und Stellvertreter.
