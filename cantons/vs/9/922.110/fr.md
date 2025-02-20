@@ -4,12 +4,12 @@ number: "922.110"
 title: "Arrêté sur l'exercice de la chasse en Valais 2024-2025"
 language: fr
 version: 2024-07-01
-corrected: 2024-07-26
+corrected: 2025-02-21
 version_adopted: 2024-07-17
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3339/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3342/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
