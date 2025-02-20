@@ -4,13 +4,13 @@ number: "432.010"
 title: Ordinanza relativa alla legge sugli istituti di formazione in ambito sanitario e sociale
 short: OLISS
 language: it
-version: 2025-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-02-25
+version: 2020-09-01
+corrected: 2025-02-21
+version_adopted: 2020-08-18
 adopted: 2004-12-14
 in_force: 2004-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/432.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3539/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3071/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3539/pdf_file"
 
 (OLISS)
 
-del 14.12.2004 (stato 01.01.2025)
+del 14.12.2004 (stato 01.09.2020)
 
 emanata dal Governo il 14 dicembre 2004
 
@@ -81,7 +81,7 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 
 <sup>3</sup> Per quanto disponibili, nella determinazione del sussidio si devono tenere in considerazione dati comparativi per formazioni uguali o simili.
 
-## 2. Centro di formazione in campo sanitario e sociale (CFSS)
+## 2. Centro di formazione in campo sanitario e sociale (CSS)
 
 ### 2.1. Consiglio scolastico e ufficio di revisione
 
@@ -192,7 +192,7 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 
 **Calcolo del sussidio**
 
-<sup>1</sup> Il calcolo del sussidio cantonale viene effettuato dall'Ufficio della formazione medio-superiore (Ufficio) entro metà aprile dell'anno seguente.
+<sup>1</sup> Il calcolo del sussidio cantonale viene effettuato dall'ufficio entro metà aprile dell'anno seguente.
 
 <sup>2</sup> Il sussidio cantonale copre al cento percento il disavanzo d'esercizio computabile.
 
@@ -230,16 +230,6 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 
 <sup>2</sup> Essi vengono portati a conoscenza del Gran Consiglio nella sessione di giugno dell'anno seguente.
 
-### 2.4.a Altri sussidi
-
-#### Art. 20a
-
-**Procedura e indennizzo**
-
-<sup>1</sup> Il CFSS sottopone all'Ufficio proposte per misure volte a promuovere la formazione di personale attivo nel settore della medicina umana. Esso presenta annualmente all'Ufficio un rapporto relativo alla loro attuazione.
-
-<sup>2</sup> I sussidi concessi dal Cantone a favore del CFSS per misure volte a promuovere la formazione sono inclusi nel contributo globale.
-
 ### 2.5. Acquisizione degli spazi
 
 #### Art. 21
@@ -260,79 +250,6 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 
 <sup>2</sup> Gli istituti di formazione che ricevevano sussidi cantonali prima dell'entrata in vigore della presente ordinanza devono concludere un accordo di prestazioni entro la fine del 2006.
 
-## 3a. Contributi a favore di persone in formazione della scuola specializzata superiore (SSS) e di studenti della scuola universitaria professionale (SUP)
-
-#### Art. 22a
-
-**Diritto a contributi**
-
-<sup>1</sup> Ha diritto a contributi chi:
-
-- a) è iscritto a un ciclo di formazione in cure infermieristiche SSS o a un ciclo di studio bachelor in cure infermieristiche SUP; e
-- b) all'inizio dell'anno di formazione o di studi ha il proprio domicilio civile nel Cantone oppure quale cittadino di uno Stato membro dell'UE/AELS dispone di un punto di collegamento nel Cantone (frontaliere).
-
-<sup>2</sup> Non ha diritto a contributi chi ha già concluso un ciclo di formazione in cure infermieristiche SSS, un ciclo di studio bachelor in cure infermieristiche SUP o una formazione estera riconosciuta come equivalente.
-
-#### Art. 22b
-
-**Composizione e ammontare dei contributi**
-
-<sup>1</sup> Il contributo da versare si compone del contributo di sostegno conformemente al capoverso 2 e se del caso della forfetaria per l'obbligo di mantenimento parentale conformemente al capoverso 3.
-
-<sup>2</sup> L'ammontare del contributo di sostegno è stabilito nell'allegato 1.
-
-<sup>3</sup> Per ogni figlio per il cui mantenimento la persona in formazione o in corso di studi è soggetta a un obbligo di assistenza o di sostegno viene versata una forfetaria annua di 2760 franchi.
-
-#### Art. 22c
-
-**Durata del diritto a contributi**
-
-<sup>1</sup> La durata del diritto a contributi si conforma alla durata ordinaria del ciclo di formazione o degli studi scelti prevista dal diritto federale.
-
-<sup>2</sup> In caso di interruzione della formazione o degli studi, in caso di sospensione e trasferimento o se viene meno il punto di collegamento secondo l'articolo 22a capoverso 1 lettera b, il diritto a contributi si estingue con l'inizio del mese successivo.
-
-#### Art. 22d
-
-**Domanda di contributo e modalità**
-
-<sup>1</sup> La domanda di contributo, corredata delle indicazioni e della documentazione necessarie, deve essere presentata all'Ufficio dopo l'inizio della formazione o degli studi. Il termine di inoltro è il 15 febbraio in caso di inizio nel semestre primaverile e il 15 ottobre in caso di inizio nel semestre autunnale.
-
-<sup>2</sup> Il contributo viene concesso per anno di formazione o di studi. Al termine dell'anno di formazione o di studi deve essere presentata una nuova domanda.
-
-<sup>3</sup> In caso di presentazione tardiva della domanda, il contributo viene versato soltanto a partire dal mese successivo a quello della presentazione della domanda fino al termine dell'anno di formazione o di studi.
-
-<sup>4</sup> Un versamento di contributi con effetto retroattivo è escluso.
-
-#### Art. 22e
-
-**Notifica di modifiche**
-
-<sup>1</sup> Un beneficiario di contributi deve notificare all'Ufficio entro 14 giorni una partenza, la perdita del permesso per l'esercizio dell'attività lucrativa quale frontaliere nonché l'interruzione della formazione o degli studi.
-
-<sup>2</sup> Ogni ulteriore modifica delle condizioni rilevante per il versamento del contributo deve essere notificata all'Ufficio entro 30 giorni.
-
-#### Art. 22f
-
-**Modalità di versamento**
-
-<sup>1</sup> Il contributo secondo l'articolo 22b viene versato semestralmente e solo in Svizzera.
-
-#### Art. 22g
-
-**Restituzione e rimborso di contributi**
-
-<sup>1</sup> Il contributo secondo l'articolo 22b deve essere restituito del tutto o in parte:
-
-- a) se gli obblighi di collaborare vengono violati in modo grave o ripetuto;
-- b) se è stato ottenuto fornendo dichiarazioni non veritiere oppure tacendo fatti rilevanti;
-- c) in caso di esclusione dalla formazione o dagli studi per motivi disciplinari;
-- d) in caso di interruzione della formazione o degli studi.
-
-<sup>2</sup> È possibile rinunciare del tutto o in parte al rimborso:
-
-- a) in caso di interruzione della formazione o degli studi per motivi di salute;
-- b) in caso di mancato superamento definitivo della formazione o degli studi.
-
 ## 4. Disposizioni finali
 
 #### Art. 23
@@ -340,14 +257,6 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 **Modifiche al diritto previgente[^23-1]**
 
 [^23-1]: Le modifiche del diritto previgente non vengono indicate.
-
-#### Art. 23a
-
-**Prima presentazione della domanda e versamento**
-
-<sup>1</sup> La domanda di contributo conformemente all'articolo 22d per l'anno di formazione o di studi 2024/2025 con inizio nel semestre autunnale 2024 deve essere presentata all'Ufficio entro il 31 marzo 2025.
-
-<sup>2</sup> Il versamento complessivo per l'anno di formazione o di studi 2024/2025 sarà effettuato entro la fine dell'anno scolastico 2024/2025.
 
 #### Art. 24
 
