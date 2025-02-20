@@ -4,13 +4,13 @@ number: "943.11"
 title: Gesetz über das Gastgewerbe und den Kleinhandel mit gebrannten Wassern
 short: "Gastgewerbegesetz, GGG"
 language: de
-version: 2022-04-09
-valid_until: 2025-02-20
-version_adopted: 2022-01-27
+version: 2025-02-21
+valid_until: 2025-08-21
+version_adopted: 2024-11-28
 adopted: 1996-01-25
 in_force: 1996-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/943.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2330/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2679/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,16 @@ pdf: "https://bgs.zg.ch/api/de/versions/2330/pdf_file"
 
 (Gastgewerbegesetz, GGG)
 
-Vom 25. Januar 1996 (Stand 9. April 2022)
+Vom 25. Januar 1996 (Stand 21. Februar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 31 und 32<sup>quater</sup> der Bundesverfassung[^ingress-1], auf das Bundesgesetz über gebrannte Wasser vom 21. Juni 1932[^ingress-2] sowie auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-3],
+gestützt auf das Bundesgesetz über die gebrannten Wasser (Alkoholgesetz, AlkG) vom 21. Juni 1932[^ingress-1] und auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
-[^ingress-2]: SR [680](https://db.clex.ch/link/Bund/680/de)
-[^ingress-3]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
+[^ingress-1]: SR [680](https://db.clex.ch/link/Bund/680/de)
+[^ingress-2]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -55,8 +54,8 @@ beschliesst:
 
 - a) alkoholhaltiger Getränke an Jugendliche unter 16 Jahren,
 - b) von Spirituosen oder verdünnten alkoholhaltigen Getränken auf der Basis von Spirituosen an Jugendliche unter 18 Jahren,
-- c) alkoholhaltiger Getränke an Betrunkene,
-- d) alkoholhaltiger Getränke mittels Automaten.
+- c) …
+- d) alkoholhaltiger Getränke mittels öffentlich zugänglicher Automaten.
 
 #### § 4
 
