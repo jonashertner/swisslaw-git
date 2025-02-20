@@ -5,11 +5,12 @@ title: Lescha davart lieus da scolaziun en ils fatgs da la sanadad e socials
 short: LLSS
 language: rm
 version: 2024-07-01
+corrected: 2025-02-21
 version_adopted: 2024-02-14
 adopted: 2002-09-22
 in_force: 2003-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/432.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3537/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -64,7 +65,7 @@ acceptada dal pievel ils 22 da settember 2002[^ingress-1]
 
 <sup>3</sup> Il cussegl grond decida en atgna cumpetenza davart concordats u davart cunvegnas concernent la participaziun dal chantun sco conpurtader da lieus da scolaziun per la scolaziun e per la furmaziun supplementara en il sectur da la sanadad e dals fatgs socials inclusiv la finanziaziun da quels.
 
-## 2. Center da furmaziun per la sanadad ed ils fatgs socials (CFSS)
+## 2. Center da furmaziun per la sanadad ed ils fatgs socials (CSS)
 
 #### Art. 6
 

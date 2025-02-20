@@ -5,11 +5,12 @@ title: Gesetz über Ausbildungsstätten im Gesundheits- und Sozialwesen
 short: AGSG
 language: de
 version: 2024-07-01
+corrected: 2025-02-21
 version_adopted: 2024-02-14
 adopted: 2002-09-22
 in_force: 2003-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/432.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3537/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

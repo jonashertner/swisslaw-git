@@ -5,11 +5,12 @@ title: Legge sugli istituti di formazione in ambito sanitario e sociale
 short: LISS
 language: it
 version: 2024-07-01
+corrected: 2025-02-21
 version_adopted: 2024-02-14
 adopted: 2002-09-22
 in_force: 2003-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/432.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3537/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3443/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -64,7 +65,7 @@ accettata dal Popolo il 22 settembre 2002[^ingress-1]
 
 <sup>3</sup> Rientra nelle competenze del Gran Consiglio decidere in merito a concordati e accordi riguardanti la corresponsabilità del Cantone in istituti per la formazione e il perfezionamento nei settori sanitario e sociale, compreso il loro finanziamento.
 
-## 2. Centro di formazione in campo sanitario e sociale (CFSS)
+## 2. Centro di formazione in campo sanitario e sociale (CSS)
 
 #### Art. 6
 
