@@ -3,11 +3,11 @@ sr: "0.822.724.2"
 title: Übereinkommen Nr. 142 vom 23. Juni 1975 über die Berufsberatung und die Berufsbildung im Rahmen der Erschliessung des Arbeitskräftepotentials
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/561_561_561"
 language: de
-version: 2010-08-26
+version: 2025-02-24
 adopted: 1975-06-23
 in_force: 1978-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/561_561_561/20100826/de/xml/fedlex-data-admin-ch-eli-cc-1978-561_561_561-20100826-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/561_561_561/20100826/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/561_561_561/20250224/de/xml/fedlex-data-admin-ch-eli-cc-1978-561_561_561-20250224-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/561_561_561/20250224/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1978** 561; BBl **1976** III 417
 
 Abgeschlossen in Genf am 23. Juni 1975 Von der Bundesversammlung genehmigt am 14. März 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Mai 1977 In Kraft getreten für die Schweiz am 23. Mai 1978
 
-(Stand am 26. August 2010)
+(Stand am 24. Februar 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 14. März 1977 ([AS 1978 554](https://fedlex.data.admin.ch/eli/oc/1978/554_554_554))
 
@@ -121,7 +121,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 26. August 2010[^t-2]
+Geltungsbereich am 24. Februar 2025[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Nachfolgeerklärung (N)</th><th colspan="2"></th><th colspan="2">Inkrafttreten</th><th colspan="3"></th></tr>
@@ -132,26 +132,27 @@ Geltungsbereich am 26. August 2010[^t-2]
 <tr><td colspan="2">Argentinien</td><td colspan="2">15. Juni</td><td colspan="3">1978</td><td colspan="2">15. Juni</td><td colspan="2">1979</td></tr>
 <tr><td colspan="2">Aserbaidschan</td><td colspan="2">19. Mai</td><td colspan="3">1992 N</td><td colspan="2">19. Mai</td><td colspan="2">1992</td></tr>
 <tr><td colspan="2">Australien</td><td colspan="2">10. September</td><td colspan="3">1985</td><td colspan="2">10. September</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] Norfolk-Insel<sup>a</sup></td><td colspan="2">21. August</td><td colspan="3">1992</td><td colspan="2">21. August</td><td colspan="2">1992</td></tr>
+<tr><td colspan="2">Norfolk-Insel <sup>a</sup></td><td colspan="2">21. August</td><td colspan="3">1992</td><td colspan="2">21. August</td><td colspan="2">1992</td></tr>
 <tr><td colspan="2">Belarus</td><td colspan="2">3. Mai</td><td colspan="3">1979</td><td colspan="2">3. Mai</td><td colspan="2">1980</td></tr>
 <tr><td colspan="2">Bosnien und Herzegowina</td><td colspan="2">2. Juni</td><td colspan="3">1993 N</td><td colspan="2">2. Juni</td><td colspan="2">1993</td></tr>
 <tr><td colspan="2">Brasilien</td><td colspan="2">24. November</td><td colspan="3">1981</td><td colspan="2">24. November</td><td colspan="2">1982</td></tr>
 <tr><td colspan="2">Burkina Faso</td><td colspan="2">28. Oktober</td><td colspan="3">2009</td><td colspan="3">28. Oktober</td><td>2010</td></tr>
 <tr><td colspan="2">China</td><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Hongkong\* <sup>a</sup> <sup>b</sup></td><td colspan="2">6. Juni</td><td colspan="3">1997</td><td colspan="2">1. Juli</td><td colspan="2">1997</td></tr>
+<tr><td colspan="2">Hongkong\* <sup>a</sup> <sup>b</sup></td><td colspan="2">6. Juni</td><td colspan="3">1997</td><td colspan="2">1. Juli</td><td colspan="2">1997</td></tr>
 <tr><td colspan="2">Dänemark</td><td colspan="2">5. Juni</td><td colspan="3">1981</td><td colspan="2">5. Juni</td><td colspan="2">1982</td></tr>
 <tr><td colspan="2">Deutschland</td><td colspan="2">29. Dezember</td><td colspan="3">1980</td><td colspan="2">29. Dezember</td><td colspan="2">1981</td></tr>
 <tr><td colspan="2">Ecuador</td><td colspan="2">26. Oktober</td><td colspan="3">1977</td><td colspan="2">26. Oktober</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">El Salvador</td><td colspan="2">15. Juni</td><td colspan="3">1995</td><td colspan="2">15. Juni</td><td colspan="2">1996</td></tr>
+<tr><td colspan="2">Fidschi</td><td colspan="2">21. Januar</td><td colspan="3">2013</td><td colspan="3">21. Januar</td><td>2014</td></tr>
 <tr><td colspan="2">Finnland</td><td colspan="2">14. September</td><td colspan="3">1977</td><td colspan="2">14. September</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">Frankreich\*</td><td colspan="2">10. September</td><td colspan="3">1984</td><td colspan="2">10. September</td><td colspan="2">1985</td></tr>
-<tr><td colspan="2">[tab] Französisch-Guyana</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] Französisch-Polynesien</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] Guadeloupe</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] Martinique</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] Neukaledonien</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] Réunion</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">[tab] St Pierre und Miquelon</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Französisch-Guyana</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Französisch-Polynesien</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Guadeloupe</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Martinique</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Neukaledonien</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Réunion</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">St Pierre und Miquelon</td><td colspan="2">9. Mai</td><td colspan="3">1986</td><td colspan="2">9. Mai</td><td colspan="2">1986</td></tr>
 <tr><td colspan="2">Georgien</td><td colspan="2">22. Juni</td><td colspan="3">1993 N</td><td colspan="2">22. Juni</td><td colspan="2">1993</td></tr>
 <tr><td colspan="2">Griechenland</td><td colspan="2">17. Oktober</td><td colspan="3">1989</td><td colspan="2">17. Oktober</td><td colspan="2">1990</td></tr>
 <tr><td colspan="2">Guinea</td><td colspan="2">5. Juni</td><td colspan="3">1978</td><td colspan="2">5. Juni</td><td colspan="2">1979</td></tr>
@@ -166,20 +167,20 @@ Geltungsbereich am 26. August 2010[^t-2]
 <tr><td colspan="2">Jordanien</td><td colspan="2">23. Juli</td><td colspan="3">1979</td><td colspan="2">23. Juli</td><td colspan="2">1980</td></tr>
 <tr><td colspan="2">Kenia</td><td colspan="2">9. April</td><td colspan="3">1979</td><td colspan="2">9. April</td><td colspan="2">1980</td></tr>
 <tr><td colspan="2">Kirgisistan</td><td colspan="2">31. März</td><td colspan="3">1992 N</td><td colspan="2">31. März</td><td colspan="2">1992</td></tr>
-<tr><td colspan="2">Korea (Nord-)</td><td colspan="2">21. Januar</td><td colspan="3">1994</td><td colspan="2">21. Januar</td><td colspan="2">1995</td></tr>
+<tr><td colspan="2">Korea (Süd-)</td><td colspan="2">21. Januar</td><td colspan="3">1994</td><td colspan="2">21. Januar</td><td colspan="2">1995</td></tr>
 <tr><td colspan="2">Kuba</td><td colspan="2">5. Januar</td><td colspan="3">1978</td><td colspan="2">5. Januar</td><td colspan="2">1979</td></tr>
 <tr><td colspan="2">Lettland</td><td colspan="2">8. März</td><td colspan="3">1993</td><td colspan="2">8. März</td><td colspan="2">1994</td></tr>
 <tr><td colspan="2">Libanon</td><td colspan="2">23. Februar</td><td colspan="3">2000</td><td colspan="2">23. Februar</td><td colspan="2">2001</td></tr>
 <tr><td colspan="2">Litauen</td><td colspan="2">26. September</td><td colspan="3">1994</td><td colspan="2">26. September</td><td colspan="2">1995</td></tr>
 <tr><td colspan="2">Luxemburg</td><td colspan="2">21. März</td><td colspan="3">2001</td><td colspan="2">21. März</td><td colspan="2">2002</td></tr>
-<tr><td colspan="2">Mazedonien</td><td colspan="2">17. November</td><td colspan="3">1991 N</td><td colspan="2">17. November</td><td colspan="2">1991</td></tr>
 <tr><td colspan="2">Mexiko</td><td colspan="2">28. Juni</td><td colspan="3">1978</td><td colspan="2">28. Juni</td><td colspan="2">1979</td></tr>
 <tr><td colspan="2">Moldau</td><td colspan="2">19. Dezember</td><td colspan="3">2001</td><td colspan="3">19. Dezember</td><td>2002</td></tr>
 <tr><td colspan="2">Montenegro</td><td colspan="2">3. Juni</td><td colspan="3">2006 N</td><td colspan="3">3. Juni</td><td>2006</td></tr>
 <tr><td colspan="2">Nicaragua</td><td colspan="2">4. November</td><td colspan="3">1977</td><td colspan="2">4. November</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">Niederlande\*</td><td colspan="2">19. Juni</td><td colspan="3">1979</td><td colspan="2">19. Juni</td><td colspan="2">1980</td></tr>
-<tr><td colspan="2">[tab] Aruba</td><td colspan="2">6. August</td><td colspan="3">1986</td><td colspan="2">6. August</td><td colspan="2">1986</td></tr>
+<tr><td colspan="2">Aruba</td><td colspan="2">6. August</td><td colspan="3">1986</td><td colspan="2">6. August</td><td colspan="2">1986</td></tr>
 <tr><td colspan="2">Niger</td><td colspan="2">28. Januar</td><td colspan="3">1993</td><td colspan="2">28. Januar</td><td colspan="2">1994</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td colspan="2">17. November</td><td colspan="3">1991 N</td><td colspan="2">17. November</td><td colspan="2">1991</td></tr>
 <tr><td colspan="2">Norwegen</td><td colspan="2">24. November</td><td colspan="3">1976</td><td colspan="2">24. November</td><td colspan="2">1977</td></tr>
 <tr><td colspan="2">Österreich</td><td colspan="2">2. März</td><td colspan="3">1979</td><td colspan="2">2. März</td><td colspan="2">1980</td></tr>
 <tr><td colspan="2">Polen</td><td colspan="2">10. Oktober</td><td colspan="3">1979</td><td colspan="2">10. Oktober</td><td colspan="2">1980</td></tr>
@@ -201,11 +202,11 @@ Geltungsbereich am 26. August 2010[^t-2]
 <tr><td colspan="2">Ungarn</td><td colspan="2">17. Juni</td><td colspan="3">1976</td><td colspan="2">19. Juli</td><td colspan="2">1977</td></tr>
 <tr><td colspan="2">Venezuela</td><td colspan="2">8. Oktober</td><td colspan="3">1984</td><td colspan="2">8. Oktober</td><td colspan="2">1985</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">15. Februar</td><td colspan="3">1977</td><td colspan="2">15. Februar</td><td colspan="2">1978</td></tr>
-<tr><td colspan="2">[tab] Gibraltar\* <sup>a</sup></td><td colspan="2">5. Dezember</td><td colspan="3">1977</td><td colspan="2">15. Februar</td><td colspan="2">1978</td></tr>
-<tr><td colspan="2">[tab] Guernsey<sup>d</sup></td><td colspan="2">20. Februar</td><td colspan="3">1979</td><td colspan="2">20. Februar</td><td colspan="2">1979</td></tr>
+<tr><td colspan="2">Gibraltar\* <sup>a</sup></td><td colspan="2">5. Dezember</td><td colspan="3">1977</td><td colspan="2">15. Februar</td><td colspan="2">1978</td></tr>
+<tr><td colspan="2">Guernsey <sup>d</sup></td><td colspan="2">20. Februar</td><td colspan="3">1979</td><td colspan="2">20. Februar</td><td colspan="2">1979</td></tr>
 <tr><td colspan="2">Zentralafrikanische Republik</td><td colspan="2">5. Juni</td><td colspan="3">2006</td><td colspan="3">5. Juni</td><td>2007</td></tr>
 <tr><td colspan="2">Zypern</td><td colspan="2">28. Juni</td><td colspan="3">1977</td><td colspan="2">28. Juni</td><td colspan="2">1978</td></tr>
 <tr><td colspan="11">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Mit Änderungen anwendbar. <sup>b</sup> Vom 5. März 1979 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>c</sup> Am 24. Nov. 2000, infolge der Aufnahme der Bundesrepublik Jugoslawien in die Internationale Arbeitsorganisation, erklärt die Regierung Jugoslawiens, dass sie durch die Verpflichtungen des Übereink. gebunden bleibt, dessen Bestimmungen bisher auf ihrem Hoheitsgebiet anwendbar waren. Am 4. Febr. 2003 wird die Bundesrepublik Jugoslawien zu Serbien und Montenegro. <sup>d</sup> Ohne Änderungen anwendbar.</td></tr>
 </table>
 
-[^t-2]: AS **1978** 565, [1982 728](https://fedlex.data.admin.ch/eli/oc/1982/728_728_728), [1983 263](https://fedlex.data.admin.ch/eli/oc/1983/263_263_263), [1985 292](https://fedlex.data.admin.ch/eli/oc/1985/292_292_292), [1986 1188](https://fedlex.data.admin.ch/eli/oc/1986/1188_1188_1188), [1987 1457](https://fedlex.data.admin.ch/eli/oc/1987/1457_1457_1457), [2005 1771](https://fedlex.data.admin.ch/eli/oc/2005/289)und [2010 3997](https://fedlex.data.admin.ch/eli/oc/2010/573). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1978 561](https://fedlex.data.admin.ch/eli/oc/1978/561_561_561); [1982 728](https://fedlex.data.admin.ch/eli/oc/1982/728_728_728); [1983 263](https://fedlex.data.admin.ch/eli/oc/1983/263_263_263); [1985 292](https://fedlex.data.admin.ch/eli/oc/1985/292_292_292); [1986 1188](https://fedlex.data.admin.ch/eli/oc/1986/1188_1188_1188); [1987 1457](https://fedlex.data.admin.ch/eli/oc/1987/1457_1457_1457); [2005 1771](https://fedlex.data.admin.ch/eli/oc/2005/289); [2010 3997](https://fedlex.data.admin.ch/eli/oc/2010/573); [2025 137](https://fedlex.data.admin.ch/eli/oc/2025/137). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

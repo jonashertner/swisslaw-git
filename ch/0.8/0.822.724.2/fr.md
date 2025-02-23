@@ -3,16 +3,16 @@ sr: "0.822.724.2"
 title: "Convention n<sup>o</sup> 142 du 23 juin 1975 concernant le rôle de l'orientation et de la formation professionnelle dans la mise en valeur des ressources humaines"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/561_561_561"
 language: fr
-version: 2010-08-26
+version: 2025-02-24
 adopted: 1975-06-23
 in_force: 1978-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/561_561_561/20100826/fr/xml/fedlex-data-admin-ch-eli-cc-1978-561_561_561-20100826-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/561_561_561/20100826/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/561_561_561/20250224/fr/xml/fedlex-data-admin-ch-eli-cc-1978-561_561_561-20250224-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/561_561_561/20250224/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention n<sup>o</sup> 142 concernant le rôle de l’orientation et de la formation professionnelles dans la mise en valeur des ressources humaines
+# Convention n° 142 concernant le rôle de l’orientation et de la formation professionnelles dans la mise en valeur des ressources humaines
 
 RO **1978** 561; FF **1976** III 429
 
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Genève le 23 juin 1975 Approuvée par l’Assemblée fédérale le 14 mars 1977[^t-1] Instrument de ratification déposé par la Suisse le 23 mai 1977 Entrée en vigueur pour la Suisse le 23 mai 1978
 
-(Etat le 26 août 2010)
+(État le 24 février 2025)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 14 mars 1977 ([RO 1978 554](https://fedlex.data.admin.ch/eli/oc/1978/554_554_554))
 
@@ -121,7 +121,7 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 26 août 2010[^t-2]
+Champ d’application le 24 février 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -131,7 +131,7 @@ Champ d’application le 26 août 2010[^t-2]
 <tr><td>Antigua-et-Barbuda</td><td>16 septembre</td><td>2002</td><td>16 septembre</td><td>2003</td></tr>
 <tr><td>Argentine</td><td>15 juin</td><td>1978</td><td>15 juin</td><td>1979</td></tr>
 <tr><td>Australie</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Île Norfolk<sup>a</sup></td><td>21 août</td><td>1992</td><td>21 août</td><td>1992</td></tr>
+<tr><td>Île Norfolk<sup>a</sup></td><td>21 août</td><td>1992</td><td>21 août</td><td>1992</td></tr>
 <tr><td>Autriche</td><td>2 mars</td><td>1979</td><td>2 mars</td><td>1980</td></tr>
 <tr><td>Azerbaïdjan</td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
 <tr><td>Bélarus</td><td>3 mai</td><td>1979</td><td>3 mai</td><td>1980</td></tr>
@@ -139,24 +139,25 @@ Champ d’application le 26 août 2010[^t-2]
 <tr><td>Brésil</td><td>24 novembre</td><td>1981</td><td>24 novembre</td><td>1982</td></tr>
 <tr><td>Burkina Faso</td><td>28 octobre</td><td>2009</td><td>28 octobre</td><td>2010</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Hong Kong\* <sup>a</sup> <sup>b</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Hong Kong\* <sup>a</sup> <sup>b</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Chypre</td><td>28 juin</td><td>1977</td><td>28 juin</td><td>1978</td></tr>
-<tr><td>Corée (Nord)</td><td>21 janvier</td><td>1994</td><td>21 janvier</td><td>1995</td></tr>
+<tr><td>Corée (Sud)</td><td>21 janvier</td><td>1994</td><td>21 janvier</td><td>1995</td></tr>
 <tr><td>Cuba</td><td>5 janvier</td><td>1978</td><td>5 janvier</td><td>1979</td></tr>
 <tr><td>Danemark</td><td>5 juin</td><td>1981</td><td>5 juin</td><td>1982</td></tr>
 <tr><td>Égypte</td><td>25 mars</td><td>1982</td><td>25 mars</td><td>1983</td></tr>
 <tr><td>El Salvador</td><td>15 juin</td><td>1995</td><td>15 juin</td><td>1996</td></tr>
 <tr><td>Équateur</td><td>26 octobre</td><td>1977</td><td>26 octobre</td><td>1978</td></tr>
 <tr><td>Espagne</td><td>16 mai</td><td>1977</td><td>16 mai</td><td>1978</td></tr>
+<tr><td>Fidji</td><td>21 janvier</td><td>2013</td><td>21 janvier</td><td>2014</td></tr>
 <tr><td>Finlande</td><td>14 septembre</td><td>1977</td><td>14 septembre</td><td>1978</td></tr>
 <tr><td>France\*</td><td>10 septembre</td><td>1984</td><td>10 septembre</td><td>1985</td></tr>
-<tr><td>[tab] Guadeloupe</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
-<tr><td>[tab] Guyana (française)</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
-<tr><td>[tab] Martinique</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
-<tr><td>[tab] Nouvelle-Calédonie</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
-<tr><td>[tab] Polynésie française</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
-<tr><td>[tab] Réunion</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
-<tr><td>[tab] Saint-Pierre-et-Miquelon</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Guadeloupe</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Guyana (française)</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Martinique</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Nouvelle-Calédonie</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Polynésie française</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Réunion</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
+<tr><td>Saint-Pierre-et-Miquelon</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
 <tr><td>Géorgie</td><td>22 juin</td><td>1993 S</td><td>22 juin</td><td>1993</td></tr>
 <tr><td>Grèce</td><td>17 octobre</td><td>1989</td><td>17 octobre</td><td>1990</td></tr>
 <tr><td>Guinée</td><td>5 juin</td><td>1978</td><td>5 juin</td><td>1979</td></tr>
@@ -176,7 +177,7 @@ Champ d’application le 26 août 2010[^t-2]
 <tr><td>Liban</td><td>23 février</td><td>2000</td><td>23 février</td><td>2001</td></tr>
 <tr><td>Lituanie</td><td>26 septembre</td><td>1994</td><td>26 septembre</td><td>1995</td></tr>
 <tr><td>Luxembourg</td><td>21 mars</td><td>2001</td><td>21 mars</td><td>2002</td></tr>
-<tr><td>Macédoine</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Mexique</td><td>28 juin</td><td>1978</td><td>28 juin</td><td>1979</td></tr>
 <tr><td>Moldova</td><td>19 décembre</td><td>2001</td><td>19 décembre</td><td>2002</td></tr>
 <tr><td>Monténégro</td><td>3 juin</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
@@ -184,14 +185,14 @@ Champ d’application le 26 août 2010[^t-2]
 <tr><td>Niger</td><td>28 janvier</td><td>1993</td><td>28 janvier</td><td>1994</td></tr>
 <tr><td>Norvège</td><td>24 novembre</td><td>1976</td><td>24 novembre</td><td>1977</td></tr>
 <tr><td>Pays-Bas\*</td><td>19 juin</td><td>1979</td><td>19 juin</td><td>1980</td></tr>
-<tr><td>[tab] Aruba</td><td>6 août</td><td>1986</td><td>6 août</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>6 août</td><td>1986</td><td>6 août</td><td>1986</td></tr>
 <tr><td>Pologne</td><td>10 octobre</td><td>1979</td><td>10 octobre</td><td>1980</td></tr>
 <tr><td>Portugal</td><td>9 janvier</td><td>1981</td><td>9 janvier</td><td>1982</td></tr>
 <tr><td>République centrafricaine</td><td>5 juin</td><td>2006</td><td>5 juin</td><td>2007</td></tr>
 <tr><td>République tchèque</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Royaume-Uni</td><td>15 février</td><td>1977</td><td>15 février</td><td>1978</td></tr>
-<tr><td>[tab] Gibraltar\* <sup>a</sup></td><td>5 décembre</td><td>1977</td><td>15 février</td><td>1978</td></tr>
-<tr><td>[tab] Guernesey<sup>c</sup></td><td>20 février</td><td>1979</td><td>20 février</td><td>1979</td></tr>
+<tr><td>Gibraltar\* <sup>a</sup></td><td>5 décembre</td><td>1977</td><td>15 février</td><td>1978</td></tr>
+<tr><td>Guernesey <sup>c</sup></td><td>20 février</td><td>1979</td><td>20 février</td><td>1979</td></tr>
 <tr><td>Russie</td><td>3 mai</td><td>1979</td><td>3 mai</td><td>1980</td></tr>
 <tr><td>Saint-Marin</td><td>23 mai</td><td>1985</td><td>23 mai</td><td>1986</td></tr>
 <tr><td>Serbie<sup>d</sup></td><td>24 novembre</td><td>2000 S</td><td>6 décembre</td><td>1984</td></tr>
@@ -208,4 +209,4 @@ Champ d’application le 26 août 2010[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Applicable avec modifications. <sup>b</sup> Du 5 mars 1979 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>c</sup> Applicable sans modifications <sup>d</sup> Le 24 nov. 2000 à la suite de l’admission de la République fédérale de Yougoslavie au sein de l’OIT, le gouvernement de la Yougoslavie déclare qu’il demeure lié par les obligations de la conv., dont les dispositions étaient auparavant applicables à son territoire. Le 4. 2.2003 la République fédérative de Yougoslavie devient la Serbie et Monténégro.</td></tr>
 </table>
 
-[^t-2]: RO **1978** 565, [1982 728](https://fedlex.data.admin.ch/eli/oc/1982/728_728_728), [1983 263](https://fedlex.data.admin.ch/eli/oc/1983/263_263_263), [1985 292](https://fedlex.data.admin.ch/eli/oc/1985/292_292_292), [1986 1188](https://fedlex.data.admin.ch/eli/oc/1986/1188_1188_1188), [1987 1457](https://fedlex.data.admin.ch/eli/oc/1987/1457_1457_1457), [2005 1771](https://fedlex.data.admin.ch/eli/oc/2005/289)et **2010** 3997. Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: RO **1978** 565, [1982 728](https://fedlex.data.admin.ch/eli/oc/1982/728_728_728), [1983 263](https://fedlex.data.admin.ch/eli/oc/1983/263_263_263), [1985 292](https://fedlex.data.admin.ch/eli/oc/1985/292_292_292), [1986 1188](https://fedlex.data.admin.ch/eli/oc/1986/1188_1188_1188), [1987 1457](https://fedlex.data.admin.ch/eli/oc/1987/1457_1457_1457), [2005 1771](https://fedlex.data.admin.ch/eli/oc/2005/289); [2010 3997](https://fedlex.data.admin.ch/eli/oc/2010/573); [2025 137](https://fedlex.data.admin.ch/eli/oc/2025/137). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

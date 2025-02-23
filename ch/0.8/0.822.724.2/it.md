@@ -3,11 +3,11 @@ sr: "0.822.724.2"
 title: "Convenzione n. 142 del 23 giugno 1975 concernente la funzione dell'orientamento e della formazione professionali nella valorizzazione delle risorse umane"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/561_561_561"
 language: it
-version: 2010-08-26
+version: 2025-02-24
 adopted: 1975-06-23
 in_force: 1978-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/561_561_561/20100826/it/xml/fedlex-data-admin-ch-eli-cc-1978-561_561_561-20100826-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/561_561_561/20100826/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/561_561_561/20250224/it/xml/fedlex-data-admin-ch-eli-cc-1978-561_561_561-20250224-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/561_561_561/20250224/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Ginevra il 23 giugno 1975 Approvata dall’Assemblea federale il 14 marzo 1977[^t-1] Ratificata dalla Svizzera con strumento depositato il 23 maggio 1977 Entrata in vigore per la Svizzera il 23 maggio 1978
 
-(Stato 26 agosto 2010)
+(Stato 24 febbraio 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 14 mar. 1977 ([RU 1978 554](https://fedlex.data.admin.ch/eli/oc/1978/554_554_554)).
 
@@ -121,7 +121,7 @@ Nel caso in cui la Conferenza adottasse una nuova convenzione comportante la rev
 
 Il tenore francese e inglese del testo della presente convenzione fanno parimente fede.
 
-Campo d’applicazione il 13 settembre 2010[^t-2]
+Campo d’applicazione il 24 febbraio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -130,7 +130,7 @@ Campo d’applicazione il 13 settembre 2010[^t-2]
 <tr><td>Antigua e Barbuda</td><td>16 settembre</td><td>2002</td><td>16 settembre</td><td>2003</td></tr>
 <tr><td>Argentina</td><td>15 giugno</td><td>1978</td><td>15 giugno</td><td>1979</td></tr>
 <tr><td>Australia</td><td>10 settembre</td><td>1985</td><td>10 settembre</td><td>1986</td></tr>
-<tr><td>[tab] Isola di Norfolk<sup>a</sup></td><td>21 agosto</td><td>1992</td><td>21 agosto</td><td>1992</td></tr>
+<tr><td>[tab] Isola di Norfolk <sup>a</sup></td><td>21 agosto</td><td>1992</td><td>21 agosto</td><td>1992</td></tr>
 <tr><td>Austria</td><td>2 marzo</td><td>1979</td><td>2 marzo</td><td>1980</td></tr>
 <tr><td>Azerbaigian</td><td>19 maggio</td><td>1992 S</td><td>19 maggio</td><td>1992</td></tr>
 <tr><td>Belarus</td><td>3 maggio</td><td>1979</td><td>3 maggio</td><td>1980</td></tr>
@@ -139,14 +139,15 @@ Campo d’applicazione il 13 settembre 2010[^t-2]
 <tr><td>Burkina Faso</td><td>28 ottobre</td><td>2009</td><td>28 ottobre</td><td>2010</td></tr>
 <tr><td>Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Hong Kong<sup>a</sup> <sup>b</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>[tab] Hong Kong <sup>a</sup> <sup>b</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Cipro</td><td>28 giugno</td><td>1977</td><td>28 giugno</td><td>1978</td></tr>
-<tr><td>Corea (Nord)</td><td>21 gennaio</td><td>1994</td><td>21 gennaio</td><td>1995</td></tr>
+<tr><td>Corea (Sud)</td><td>21 gennaio</td><td>1994</td><td>21 gennaio</td><td>1995</td></tr>
 <tr><td>Cuba</td><td>5 gennaio</td><td>1978</td><td>5 gennaio</td><td>1979</td></tr>
 <tr><td>Danimarca</td><td>5 giugno</td><td>1981</td><td>5 giugno</td><td>1982</td></tr>
 <tr><td>Ecuador</td><td>26 ottobre</td><td>1977</td><td>26 ottobre</td><td>1978</td></tr>
 <tr><td>Egitto</td><td>25 marzo</td><td>1982</td><td>25 marzo</td><td>1983</td></tr>
 <tr><td>El Salvador</td><td>15 giugno</td><td>1995</td><td>15 giugno</td><td>1996</td></tr>
+<tr><td>Figi</td><td>21 gennaio</td><td>2013</td><td>21 gennaio</td><td>2014</td></tr>
 <tr><td>Finlandia</td><td>14 settembre</td><td>1977</td><td>14 settembre</td><td>1978</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>10 settembre</td><td>1984</td><td>10 settembre</td><td>1985</td></tr>
 <tr><td>[tab] Guadalupa</td><td>9 maggio</td><td>1986</td><td>9 maggio</td><td>1986</td></tr>
@@ -175,7 +176,7 @@ Campo d’applicazione il 13 settembre 2010[^t-2]
 <tr><td>Libano</td><td>23 febbraio</td><td>2000</td><td>23 febbraio</td><td>2001</td></tr>
 <tr><td>Lituania</td><td>26 settembre</td><td>1994</td><td>26 settembre</td><td>1995</td></tr>
 <tr><td>Lussemburgo</td><td>21 marzo</td><td>2001</td><td>21 marzo</td><td>2002</td></tr>
-<tr><td>Macedonia</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Messico</td><td>28 giugno</td><td>1978</td><td>28 giugno</td><td>1979</td></tr>
 <tr><td>Moldova</td><td>19 dicembre</td><td>2001</td><td>19 dicembre</td><td>2002</td></tr>
 <tr><td>Montenegro</td><td>3 giugno</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
@@ -187,12 +188,12 @@ Campo d’applicazione il 13 settembre 2010[^t-2]
 <tr><td>Polonia</td><td>10 ottobre</td><td>1979</td><td>10 ottobre</td><td>1980</td></tr>
 <tr><td>Portogallo</td><td>9 gennaio</td><td>1981</td><td>9 gennaio</td><td>1982</td></tr>
 <tr><td>Regno Unito</td><td>15 febbraio</td><td>1977</td><td>15 febbraio</td><td>1978</td></tr>
-<tr><td>[tab] Gibilterra<sup>a</sup></td><td>5 dicembre</td><td>1977</td><td>15 febbraio</td><td>1978</td></tr>
-<tr><td>[tab] Guernesey<sup>c</sup></td><td>20 febbraio</td><td>1979</td><td>20 febbraio</td><td>1979</td></tr>
+<tr><td>[tab] Gibilterra <sup>a</sup></td><td>5 dicembre</td><td>1977</td><td>15 febbraio</td><td>1978</td></tr>
+<tr><td>[tab] Guernesey <sup>c</sup></td><td>20 febbraio</td><td>1979</td><td>20 febbraio</td><td>1979</td></tr>
 <tr><td>Rep. Centrafricana</td><td>5 giugno</td><td>2006</td><td>5 giugno</td><td>2007</td></tr>
 <tr><td>Russia</td><td>3 maggio</td><td>1979</td><td>3 maggio</td><td>1980</td></tr>
 <tr><td>San Marino</td><td>23 maggio</td><td>1985</td><td>23 maggio</td><td>1986</td></tr>
-<tr><td>Serbia<sup>d</sup></td><td>24 novembre</td><td>2000 S</td><td>6 dicembre</td><td>1984</td></tr>
+<tr><td>Serbia <sup>d</sup></td><td>24 novembre</td><td>2000 S</td><td>6 dicembre</td><td>1984</td></tr>
 <tr><td>Slovacchia</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
 <tr><td>Spagna</td><td>16 maggio</td><td>1977</td><td>16 maggio</td><td>1978</td></tr>
@@ -208,4 +209,4 @@ Campo d’applicazione il 13 settembre 2010[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> Applicabile con modifica. <sup>b</sup> Dal 5 mar. 1979 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong. <sup>c</sup> Applicabile senza modifica. <sup>d</sup> Il 24 nov. 2000 in seguito all’ammissione della Repubblica federale di Jugoslavia all’Organizzazione internazionale del lavoro (OIL), il Governo di Jugoslavia dichiara di rimanere vincolato dagli obblighi che erano già applicabili al suo territorio. Il 4 feb. 2003 la Repubblica federale di Jugoslavia diventa Serbia e Montenegro.</td></tr>
 </table>
 
-[^t-2]: RU **1978** 565, [1982 728](https://fedlex.data.admin.ch/eli/oc/1982/728_728_728), [1983 263](https://fedlex.data.admin.ch/eli/oc/1983/263_263_263), [1985 292](https://fedlex.data.admin.ch/eli/oc/1985/292_292_292), [1986 1188](https://fedlex.data.admin.ch/eli/oc/1986/1188_1188_1188), [1987 1457](https://fedlex.data.admin.ch/eli/oc/1987/1457_1457_1457), [2005 1771](https://fedlex.data.admin.ch/eli/oc/2005/289)e [2010 3997](https://fedlex.data.admin.ch/eli/oc/2010/573). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1978 561](https://fedlex.data.admin.ch/eli/oc/1978/561_561_561); [1982 728](https://fedlex.data.admin.ch/eli/oc/1982/728_728_728); [1983 263](https://fedlex.data.admin.ch/eli/oc/1983/263_263_263); [1985 292](https://fedlex.data.admin.ch/eli/oc/1985/292_292_292); [1986 1188](https://fedlex.data.admin.ch/eli/oc/1986/1188_1188_1188); [1987 1457](https://fedlex.data.admin.ch/eli/oc/1987/1457_1457_1457); [2005 1771](https://fedlex.data.admin.ch/eli/oc/2005/289); [2010 3997](https://fedlex.data.admin.ch/eli/oc/2010/573), [2025 137](https://fedlex.data.admin.ch/eli/oc/2025/137). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
