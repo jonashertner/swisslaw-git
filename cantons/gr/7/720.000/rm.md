@@ -4,12 +4,12 @@ number: "720.000"
 title: Lescha da taglia per il chantun Grischun
 language: rm
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-02-25
 version_adopted: 2025-02-10
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3555/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -93,7 +93,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 **VI. Gulivaziun da las consequenzas da la progressiun fraida**
 
-<sup>1</sup> Sche l'index naziunal dals pretschs da consum divergescha il mais da fanadur d'in onn chalendar dal stadi da la fin da december 2005 per 3 pertschient u per in import multipel, midan ils imports fixads en francs en l'artitgel 31 litera c, en l'artitgel 35 alinea 3, en l'artitgel 36 literas h ed l, en l'artitgel 38, en l'artitgel 39, en l'artitgel 40a, en l'artitgel 52 alineas 1 e 3, en l'artitgel 63 alinea 1, en l'artitgel 64 alinea 1, en l'artitgel 91 ed en l'artitgel 114 alinea 1 per la proxima perioda fiscala respectivamain per il proxim onn chalendar per 3 pertschient u per l'import multipel correspundent. Las deducziuns ston vegnir arrundadas sin 100 francs, ils imports en l'artitgel 35 alinea 3 ed en l'artitgel 63 alinea 1 sin 1000 francs.
+<sup>1</sup> Sche l'index naziunal dals pretschs da consum divergescha il mais da fanadur d'in onn chalendar dal stadi da la fin da december 2005 per 3 pertschient u per in import multipel, midan ils imports fixads en francs en l'artitgel 31 litera c, en l'artitgel 35 alinea 3, en l'artitgel 36 literas h ed l, en l'artitgel 38, en l'artitgel 39, en l'artitgel 40a, en l'artitgel 52 alineas 1 e 3, en l'artitgel 63 alinea 1, en l'artitgel 64 alinea 1, en l'artitgel 87, en l'artitgel 91 ed en l'artitgel 114 alinea 1 per la proxima perioda fiscala respectivamain per il proxim onn chalendar per 3 pertschient u per l'import multipel correspundent. Las deducziuns ston vegnir arrundadas sin 100 francs, ils imports en l'artitgel 35 alinea 3 ed en l'artitgel 63 alinea 1 sin 1000 francs.
 
 <sup>2</sup> Per persunas giuridicas èn decisivs ils imports valaivels a la fin da la perioda fiscala.
 
@@ -457,10 +457,6 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>5</sup> Sch'il rembursament da las reservas or d'apports da chapital na correspunda – en cas da la restituziun da dretgs da participaziun vi d'ina societad da chapital u d'ina associaziun ch'è quotada ad ina bursa svizra – betg almain a la mesadad dal surpli da liquidaziun obtegnì, sa reducescha la part da quest surpli da liquidaziun ch'è suttamess a la taglia per la mesadad da la differenza tranter questa part ed il rembursament, però maximalmain en la dimensiun da las reservas or d'apports da chapital disponiblas en la societad ch'èn imputablas sin quests dretgs da participaziun.
 
-<sup>6</sup> L'alinea 1 vala per apports e per agios che vegnan pajads durant ina marscha da chapital tenor ils artitgels 653s ss. dal Dretg d'obligaziuns[^21c-1] mo, per quant ch'els surpassan las restituziuns da reservas en il rom da questa marscha da chapital.
-
-[^21c-1]: Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal Cudesch civil svizzer (Tschintgavla part: Dretg d'obligaziuns) (DO; CS [220](https://db.clex.ch/link/Bund/220/rm))
-
 #### Art. 22
 
 **5. da bains immovibels**
@@ -489,22 +485,9 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> Suttamessas a la taglia èn tut las entradas da l'assicuranza per vegls, survivents e d'invaliditad, d'instituziuns da la prevenziun professiunala e da furmas renconuschidas da l'atgna prevenziun liada, inclusiv las cumpensaziuns en chapital e las restituziuns d'apports, premias e da contribuziuns.
 
-<sup>2</sup> Assicuranzas da rentas vitalizias sco er contracts da rentas vitalizias e contracts da vitalizi èn suttamess a la taglia en la dimensiun da lur cumpart dal retgav. Questa cumpart sa definescha sco suonda:
-
-- a) en cas da prestaziuns garantidas ord assicuranzas da rentas vitalizias ch'èn suttamessas a la Lescha davart il contract d'assicuranza[^23-1], è decisiva la tariffa da tschains maximala (m) ch'è vegnida fixada il mument da la conclusiun dal contract sin basa da l'artitgel 36 alinea 1 da la Lescha davart la surveglianza da las interpresas d'assicuranza[^23-2] per l'entira durada dal contract:
-  - 1\. sche questa tariffa da tschains è pli gronda che 0, vegn calculada la cumpart dal retgav, arrundada si u giu sin la proxima procentuala entira, tenor la furmla en l'artitgel 7 alinea 2 litera a cifra 1 da la Lescha d'armonisaziun da taglia[^23-3];
-  - 2\. sche questa tariffa da tschains è negativa u 0, importa la cumpart dal retgav 0 pertschient.
-- b) en cas da prestaziuns dal surpli ord assicuranzas da rentas vitalizias ch'èn suttamessas a la Lescha davart il contract d'assicuranza, correspunda la cumpart dal retgav 70 pertschient da questas prestaziuns;
-- c) en cas da prestaziuns ord assicuranzas da rentas vitalizias, da contracts da rentas vitalizias e da contracts da vitalizi da l'exteriur è decisiva la rendita annualisada auzada per 0,5 puncts procentuals da las obligaziuns federalas da 10 onns (r) durant l'onn fiscal respectiv e durant ils 9 onns precedents:
-  - 1\. sche questa rendita è pli gronda che 0, vegn calculada la cumpart dal retgav, arrundada si u giu sin la proxima procentuala entira, tenor la furmla en l'artitgel 7 alinea 2 litera c cifra 1 da la Lescha d'armonisaziun da taglia[^23-4];
-  - 2\. sche la rendita è negativa u 0, importa la cumpart dal retgav 0 pertschient.
+<sup>2</sup> Rentas vitalizias sco er entradas ord vitalizis èn suttamessas a la taglia per 40 pertschient.
 
 <sup>3</sup> …
-
-[^23-1]: Lescha federala dals 2 d'avrigl 1908 davart il contract d'assicuranza (Lescha davart il contract d'assicuranza, LCA; CS [221.229.1](https://db.clex.ch/link/Bund/221.229.1/rm))
-[^23-2]: Lescha federala dals 17 da december 2004 davart la surveglianza da las instituziuns d'assicuranza privatas (Lescha davart la surveglianza da las assicuranzas, LSA; CS [961.01](https://db.clex.ch/link/Bund/961.01/rm))
-[^23-3]: Lescha federala dals 14 da december 1990 davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas (Lescha d'armonisaziun da taglia, LATD; CS [642.14](https://db.clex.ch/link/Bund/642.14/rm) (versiun tenor la Lescha federala dals 17 da zercladur 2022 davart l'imposiziun da las rentas vitalizias e da las furmas da prevenziun sumegliantas, CULF 2023 38)
-[^23-4]: CS [642.14](https://db.clex.ch/link/Bund/642.14/rm) (versiun tenor la Lescha federala dals 17 da zercladur 2022 davart l'imposiziun da las rentas vitalizias e da las furmas da prevenziun sumegliantas, CULF 2023 38)
 
 #### Art. 24
 
@@ -562,11 +545,9 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - m) ils gudogns realisads en casinos cun gieus da casino ch'èn admess tenor la lescha federala davart gieus per daners dals 29 da settember 2017 (lescha da gieus per daners, LGD)[^30-1], sche quests gudogns na derivan betg d'ina activitad da gudogn independenta,
 - m<sup>bis</sup>) ils singuls gudogns fin ad ina summa dad 1 milliun francs che derivan da la participaziun a gieus da gronda extensiun admess tenor la LGD e da la participaziun online a gieus da casino admess tenor la LGD,
 - m<sup>ter</sup>) ils gudogns che derivan da la participaziun a gieus da pitschna extensiun admess tenor la LGD,
-- n) ils singuls gudogns fin 1000 francs che derivan da lottarias e da gieus d'inschign per promover la vendita e che n'èn – tenor l'artitgel 1 alinea 2 literas d ed e LGD – betg suttamess a la LGD;
-- o) entradas sin basa da la Lescha federala dals 19 da zercladur 2020 davart las prestaziuns transitoricas per ils dischoccupads pli attempads[^30-2].
+- n) ils singuls gudogns fin 1000 francs che derivan da lottarias e da gieus d'inschign per promover la vendita e che n'èn – tenor l'artitgel 1 alinea 2 literas d ed e LGD – betg suttamess a la LGD.
 
 [^30-1]: CS [935.51](https://db.clex.ch/link/Bund/935.51/rm)
-[^30-2]: CS [837.2](https://db.clex.ch/link/Bund/837.2/rm)
 
 #### Art. 31
 
@@ -596,20 +577,9 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - d) las perditas effectivas e cudeschadas en la facultad da fatschenta;
 - e) las contribuziuns periodicas ed unicas prestadas en il rom da la lescha federala davart la prevenziun professiunala per vegliadetgna, survivents ed invaliditad (LPP)[^32-2] ad instituziuns da prevenziun en favur da l'agen persunal, uschenavant che mintga utilisaziun cuntraria a l'intent è exclusa;
 - f) ils tschains sin debits da fatschenta sco er ils tschains che resultan da participaziuns tenor l'artitgel 18 alinea 2;
-- g) ils custs da la scolaziun e da la furmaziun supplementara orientada a la professiun, inclusiv ils custs da rescolaziun, da l'agen persunal;
-- h) las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
+- g) ils custs da la scolaziun e furmaziun supplementara orientada a la professiun, inclusiv ils custs da rescolaziun, da l'agen persunal.
 
-<sup>2</sup> Betg deducibels n'èn en spezial:
-
-- a) pajaments da daners da corrupziun en il senn dal dretg penal svizzer;
-- b) expensas fatgas per pussibilitar malfatgs u sco cuntraprestaziun per commetter malfatgs;
-- c) multas e chastis pecuniars;
-- d) sancziuns administrativas finanzialas, uschenavant ch'ellas han in intent penal.
-
-<sup>3</sup> Sche sancziuns tenor l'alinea 2 litera c e litera d èn vegnidas pronunziadas d'ina autoritad penala u administrativa da l'exteriur, èn ellas deduciblas, sche:
-
-- a) la sancziun violescha l'urden public svizzer; u
-- b) il pajataglia cumprova vardaivlamain ch'el ha fatg tut il pussaivel per sa cumportar confurm a la lescha.
+<sup>2</sup> Betg deducibels èn pajaments da daners da corrupziun en il senn dal dretg penal svizzer ad uffizials svizzers u esters.
 
 [^32-1]: Art. 12 ss. DERtLT; DG [720.015](https://www.gr-lex.gr.ch/data/720.015/rm)
 [^32-2]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
@@ -670,7 +640,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 <sup>1</sup> Da las entradas vegnan deducids:
 
 - a) ils tschains da debits privats en la dimensiun dal retgav da facultad imputabel tenor ils artitgels 21, 21a e 22 plus ulteriurs 50 000 francs;
-- b) las chargias permanentas sco er la cumpart dal retgav tenor l'artitgel 23 alinea 2 litera c da las prestaziuns ord contracts da rentas vitalizias ed ord contracts da vitalizi;
+- b) 40 pertschient da las rentas vitalizias pajadas sco er las grevezzas permanentas;
 - c) las contribuziuns da mantegniment al conjugal divorzià u che viva separà sco er las contribuziuns da mantegniment ad in genitur per ils uffants che stattan sut sia tgira u custodia genituriala, però betg prestaziuns per ademplir autras obligaziuns da mantegniment u da sustegn tenor il dretg da famiglia;
 - d) las contribuziuns legalas a l'assicuranza per vegls e survivents, a l'assicuranza d'invaliditad, a l'assicuranza da dischoccupads, a l'urden da cumpensaziun dal gudogn sco er a l'assicuranza obligatorica cunter accidents;
 - e) ils apports, las premias e las contribuziuns prestads tenor lescha, statut u reglament per s'acquistar dretgs d'instituziuns da la prevenziun professiunala;
@@ -1200,7 +1170,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1<sup>bis</sup></sup> Sch'ina persuna giuridica transferescha durant ina perioda fiscala sia sedia u l'administraziun effectiva d'in chantun ad in auter chantun, è ella obligada da pajar taglia als chantuns participads per l'entira perioda fiscala. Autoritad da taxaziun en il senn da l'artitgel 165 è quella dal chantun da la sedia u da l'administraziun effectiva la fin da la perioda fiscala.
 
-<sup>2</sup> Il medem status sco las ulteriuras persunas giuridicas han las investiziuns collectivas da chapital cun possess funsil direct tenor l'artitgel 58 u l'artitgel 118a da la Lescha davart las investiziuns collectivas[^74-1]. Las societads d'investiziun a chapital fix tenor l'artitgel 110 da la Lescha davart las investiziuns collectivas vegnan suttamessas a la taglia sco las societads da chapital.
+<sup>2</sup> Il medem status giuridic sco las ulteriuras persunas giuridicas han las investiziuns collectivas da chapital cun possess funsil direct tenor l'artitgel 58 LICol[^74-1]. Las societads d'investiziun a chapital fix tenor l'artitgel 110 LICol vegnan suttamessas a la taglia sco las societads da chapital.
 
 <sup>3</sup> Las persunas giuridicas estras sco er las societads commerzialas estras e las collectivitads da persunas estras obligadas da pajar taglia tenor l'artitgel 11 alinea 4 han il medem status giuridic sco las persunas giuridicas indigenas, a las qualas ellas sumeglian il pli fitg giuridicamain u effectivamain.
 
@@ -1208,7 +1178,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>5</sup> Il gudogn ed il chapital vegnan repartids tranter ils chantuns participads applitgond analogamain ils princips dal dretg federal davart il scumond d'ina imposiziun dubla da taglia interchantunala.
 
-[^74-1]: Lescha federala dals 23 da zercladur 2006 davart las investiziuns collectivas da chapital (Lescha davart las investiziuns collectivas, LICol; CS [951.31](https://db.clex.ch/link/Bund/951.31/rm))
+[^74-1]: lescha federala davart las investiziuns collectivas da chapital dals 23 da zercladur 2006 (lescha davart las investiziuns collectivas, LICol, CS [951.31](https://db.clex.ch/link/Bund/951.31/rm))
 
 #### Art. 75
 
@@ -1382,7 +1352,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> Tar las expensas motivadas da la fatschenta appartegnan spezialmain:
 
-- a) las taglias federalas, chantunalas e communalas;
+- a) las taglias da la confederaziun, dals chantuns e da las vischnancas, cun excepziun da las taglias penalas e da las multas fiscalas;
 - b) las amortisaziuns cumprovadas per sminuziuns da la valur da la facultad da fatschenta;
 - c) las retenziuns per obligaziuns anc indeterminadas pertutgant l'import u per autras ristgas da perdita che smanatschan immediat e ch'existan l'onn da gestiun;
 - d) las reservas per custs futurs da perscrutaziun e da svilup en il rom da las disposiziuns executivas da la regenza[^81-1];
@@ -1390,22 +1360,11 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - f) las contribuziuns periodicas ed unicas prestadas en il rom da la lescha federala davart la prevenziun professiunala per vegliadetgna, survivents ed invaliditad (LPP)[^81-2]ad instituziuns da prevenziun en favur da l'agen persunal, uschenavant che mintga utilisaziun cuntraria a l'intent è exclusa;
 - g) las prestaziuns voluntaras da daners e d'ulteriuras valurs da facultad a persunas giuridicas cun sedia en Svizra, las qualas èn liberadas da l'obligaziun da pajar taglia en vista a lur intents publics u exclusivamain d'utilitad publica (artitgel 78 literas a – d e litera f), fin a 20 pertschient da l'entrada netta;
 - h) ils rabats, ils scontos, las bunificaziuns da svieuta e las restituziuns sin il pajament per furniziuns e prestaziuns sco er ils surplis da societads d'assicuranza destinads per la repartiziun als assicurads;
-- i) ils custs da la scolaziun e da la furmaziun supplementara orientada a la professiun, inclusiv ils custs da rescolaziun, da l'agen persunal;
-- j) las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
+- i) ils custs da la scolaziun e furmaziun supplementara orientada a la professiun, inclusiv ils custs da rescolaziun, da l'agen persunal.
 
 <sup>2</sup> Las rectificaziuns da la valur sco er las amortisaziuns sin ils custs da producziun da participaziuns, las qualas adempleschan las premissas tenor l'artitgel 88a alinea 1 litera b, vegnan agiuntadas al gudogn ch'è suttamess a la taglia, uschenavant ch'ellas n'èn betg pli motivadas.
 
-<sup>3</sup> Betg tar las expensas motivadas da la fatschenta n'appartegnan en spezial:
-
-- a) pajaments da daners da corrupziun en il senn dal dretg penal svizzer;
-- b) expensas fatgas per pussibilitar malfatgs u sco cuntraprestaziun per commetter malfatgs;
-- c) multas;
-- d) sancziuns administrativas finanzialas, uschenavant ch'ellas han in intent penal.
-
-<sup>4</sup> Sche sancziuns tenor l'alinea 3 litera c e litera d èn vegnidas pronunziadas d'ina autoritad penala u administrativa da l'exteriur, èn ellas deduciblas, sche:
-
-- a) la sancziun violescha l'urden public svizzer; u
-- b) il pajataglia cumprova vardaivlamain ch'el ha fatg tut il pussaivel per sa cumportar confurm a la lescha.
+<sup>3</sup> Tar ils custs motivads da la fatschenta na tutgan betg pajaments da daners da corrupziun en il senn dal dretg penal svizzer ad uffizials svizzers u esters.
 
 [^81-1]: Art. 12 ss. DERtLT; DG [720.015](https://www.gr-lex.gr.ch/data/720.015/rm)
 [^81-2]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
@@ -1674,11 +1633,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> La taglia sin il gudogn vegn calculada tenor il gudogn net cuntanschì en la perioda fiscala.
 
-<sup>1<sup>bis</sup></sup> Sche la bilantscha è vegnida fatga en ina valuta estra, sto il gudogn net suttamess a la taglia vegnir midà en francs. Decisiv è il stgomi mesaun (vendita) da la perioda fiscala.
-
 <sup>2</sup> La taglia sin il chapital vegn calculada tenor il stadi a la fin da l'onn da gestiun.
-
-<sup>2<sup>bis</sup></sup> Sche la bilantscha è vegnida fatga en ina valuta estra, sto l'agen chapital suttamess a la taglia vegnir midà en francs. Decisiv è il stgomi (vendita) a la fin da la perioda fiscala.
 
 <sup>3</sup> Sch'in onn da gestiun cumpiglia dapli u damain che dudesch mais, vegn
 
@@ -2442,13 +2397,11 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 - a) patruns davart lur prestaziuns a lavurants,
 - b) crediturs e debiturs davart l'existenza, la summa, ils tschains e las garanzias da credits,
-- c) assicuraders davart la valur da recumpra d'assicuranzas e davart las prestaziuns pajadas u debitadas ord la relaziun d'assicuranza; en cas da rentas vitalizias ch'èn suttamessas a la Lescha davart il contract d'assicuranza[^129-1], ston els cumprovar – ultra da l'onn da la clusiun dal contract – l'autezza da la renta vitalizia garantida, l'entira cumpart dal retgav suttamessa a la taglia tenor l'artitgel 23 alinea 2 sco er las prestaziuns dal surpli e la cumpart dal retgav ord questas prestaziuns tenor l'artitgel 23 alinea 2 litera b;
+- c) assicuraders davart la valur da recumpra d'assicuranzas e davart las prestaziuns pajadas u debitadas tenor la relaziun d'assicuranza,
 - d) fiduziaris, administraturs da facultad ed autras persunas incaricadas che possedan u administreschan facultad dal pajataglia, davart questa facultad e ses retgavs,
 - e) persunas che fan u che han fatg fatschentas cun il pajataglia, davart ils dretgs vicendaivels e las prestaziuns vicendaivlas.
 
 <sup>2</sup> Las attestaziuns ch'il pajataglia na suttametta betg, malgrà l'invit, po l'administraziun da taglia pretender directamain da la terza persuna. Ils secrets professiunals protegids da la lescha restan resalvads.
-
-[^129-1]: Lescha federala dals 2 d'avrigl 1908 davart il contract d'assicuranza (Lescha davart il contract d'assicuranza, LCA; CS [221.229.1](https://db.clex.ch/link/Bund/221.229.1/rm))
 
 #### Art. 130
 
