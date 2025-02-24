@@ -3,22 +3,24 @@ sr: "0.747.363.331"
 title: Protokoll von 1978 vom 17. Februar 1978 zu dem Internationalen Übereinkommen vom 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: de
-version: 2021-09-07
+version: 2025-02-25
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20210907/de/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20210907-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20210907/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20250225/de/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20250225-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20250225/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Protokoll von 1978 zu dem Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See
 
+AS **1982** 1321
+
 Übersetzung
 
 Abgeschlossen in London am 17. Februar 1978 Schweizerische Beitrittsurkunde hinterlegt am 1. April 1982 In Kraft getreten für die Schweiz am 1. Juli 1982
 
-(Stand am 7. September 2021)
+(Stand am 25. Februar 2025)
 
 Die Vertragsparteien dieses Protokolls
 
@@ -62,7 +64,9 @@ Die Vertragsparteien dieses Protokolls verpflichten sich, dem Generalsekretär d
 
 **Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
 
-<sup>(1)</sup> Dieses Protokoll liegt vom 1. Juni 1978 bis zum 1. März 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Vorbehältlich des Absatzes 3 können Staaten Vertragsparteien des Protokolls werden,
+<sup>(1)</sup>
+
+Dieses Protokoll liegt vom 1. Juni 1978 bis zum 1. März 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Vorbehältlich des Absatzes 3 können Staaten Vertragsparteien des Protokolls werden:
 
 - a) in dem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
 - b) in dem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen oder
@@ -100,7 +104,9 @@ Die Vertragsparteien dieses Protokolls verpflichten sich, dem Generalsekretär d
 
 <sup>(1)</sup> Diese Protokoll wird beim Generalsekretär der Organisation (im folgenden als «Depositar» bezeichnet) hinterlegt.
 
-<sup>(2)</sup> Der Depositar
+<sup>(2)</sup>
+
+Der Depositar:
 
 - a) unterrichtet alle Staaten, die dieses Protokoll unterzeichnet haben oder ihm beigetreten sind,
   - i) von jeder neuen Unterzeichnung oder Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde unter Angabe des Zeitpunkts;
@@ -119,11 +125,9 @@ Die Vertragsparteien dieses Protokolls verpflichten sich, dem Generalsekretär d
 
 Dieses Protokoll ist in einer Urschrift in chinesischer, englischer, französischer, russischer und spanischer Sprache abgefasst, wobei jeder Wortlaut gleichermassen verbindlich ist. Amtliche Übersetzungen in arabischer, deutscher und italienischer Sprache werden angefertigt und zusammen mit der unterzeichneten Urschrift hinterlegt.
 
-*Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 17. Februar 1978.
+*Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 17. Februar 1978. (Es folgen die Unterschriften)
 
-(Es folgen die Unterschriften)
-
-Geltungsbereich am 7. September 2021[^t-1]
+Geltungsbereich am 25. Februar 2025[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -153,7 +157,7 @@ Geltungsbereich am 7. September 2021[^t-1]
 <tr><td>Côte d’Ivoire</td><td>5. Oktober</td><td>1987 B</td><td>5. Januar</td><td colspan="2">1988</td></tr>
 <tr><td>Dänemark</td><td>27. November</td><td>1980 B</td><td>1. Mai</td><td colspan="2">1981</td></tr>
 <tr><td>Deutschland\*</td><td>6. Juni</td><td>1980</td><td>1. Mai</td><td colspan="2">1981</td></tr>
-<tr><td>Dominica</td><td>21. Juni</td><td>2000 B</td><td>21. Juni</td><td colspan="2">2000</td></tr>
+<tr><td>Dominica</td><td>21. Juni</td><td>2000 B</td><td>21. September</td><td colspan="2">2000</td></tr>
 <tr><td>Ecuador</td><td>21. Mai</td><td>2008 B</td><td>21. August</td><td>2008</td></tr>
 <tr><td>Estland</td><td>16. Dezember</td><td>1991 B</td><td>16. März</td><td colspan="2">1992</td></tr>
 <tr><td>Fidschi</td><td>28. Juli</td><td>2004 B</td><td>28. Oktober</td><td colspan="2">2004</td></tr>
@@ -163,6 +167,7 @@ Geltungsbereich am 7. September 2021[^t-1]
 <tr><td>Grenada</td><td>28. Juni</td><td>2004 B</td><td>28. September</td><td colspan="2">2004</td></tr>
 <tr><td>Griechenland</td><td>17. Juli</td><td>1981 B</td><td>17. Oktober</td><td colspan="2">1981</td></tr>
 <tr><td>Guinea</td><td>2. Oktober</td><td>2002 B</td><td>2. Januar</td><td colspan="2">2003</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. August</td><td colspan="2">2022</td></tr>
 <tr><td>Guyana</td><td>10. Dezember</td><td>1997 B</td><td>10. März</td><td colspan="2">1998</td></tr>
 <tr><td>Honduras</td><td>24. September</td><td>1985 B</td><td>24. Dezember</td><td colspan="2">1985</td></tr>
 <tr><td>Indien</td><td>3. April</td><td>1986 B</td><td>3. Juli</td><td colspan="2">1986</td></tr>
@@ -172,7 +177,7 @@ Geltungsbereich am 7. September 2021[^t-1]
 <tr><td>Island</td><td>6. Juli</td><td>1983 B</td><td>6. Oktober</td><td colspan="2">1983</td></tr>
 <tr><td>Israel</td><td>21. August</td><td>1981 B</td><td>21. November</td><td colspan="2">1981</td></tr>
 <tr><td>Italien</td><td>1. Oktober</td><td>1982 B</td><td>1. Januar</td><td colspan="2">1983</td></tr>
-<tr><td>Jamaika</td><td>17. August</td><td>2005 B</td><td>17. August</td><td colspan="2">2005</td></tr>
+<tr><td>Jamaika</td><td>17. August</td><td>2005 B</td><td>17. November</td><td colspan="2">2005</td></tr>
 <tr><td>Japan</td><td>15. Mai</td><td>1980 B</td><td>1. Mai</td><td colspan="2">1981</td></tr>
 <tr><td>Kambodscha</td><td>28. November</td><td>1994 B</td><td>28. Februar</td><td colspan="2">1995</td></tr>
 <tr><td>Kasachstan</td><td>7. März</td><td>1994 B</td><td>7. Juni</td><td colspan="2">1994</td></tr>
@@ -220,6 +225,7 @@ Geltungsbereich am 7. September 2021[^t-1]
 <tr><td>Portugal\*</td><td>7. November</td><td>1983 B</td><td>7. Februar</td><td colspan="2">1984</td></tr>
 <tr><td>Rumänien</td><td>14. Januar</td><td>2008 B</td><td>14. April</td><td colspan="2">2008</td></tr>
 <tr><td>Russland</td><td>12. Mai</td><td>1981 B</td><td>12. August</td><td colspan="2">1981</td></tr>
+<tr><td>Salomoninseln</td><td>18. Oktober</td><td>2023 B</td><td>18. Januar</td><td colspan="2">2024</td></tr>
 <tr><td>Samoa</td><td>14. März</td><td>1997 B</td><td>14. Juni</td><td colspan="2">1997</td></tr>
 <tr><td>San Marino</td><td>21. April</td><td>2021 B</td><td>21. Juli</td><td colspan="2">2021</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>29. Oktober</td><td>1998 B</td><td>29. Januar</td><td colspan="2">1999</td></tr>
@@ -264,4 +270,4 @@ Geltungsbereich am 7. September 2021[^t-1]
 <tr><td colspan="6"><sup>b</sup> Vom 24. Aug. 1999 bis zum 19. Dez. 1999 war das Protokoll auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-1]: [AS 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-1]: [AS 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545); [2025 151](https://fedlex.data.admin.ch/eli/oc/2025/151). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

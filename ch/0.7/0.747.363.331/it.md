@@ -3,26 +3,24 @@ sr: "0.747.363.331"
 title: Protocollo del 1978 del 17 febbraio 1978 relativo alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: it
-version: 2021-09-07
+version: 2025-02-25
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20210907/it/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20210907-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20210907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20250225/it/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20250225-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20250225/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo del 1978 relativo alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare
 
+RU **1982** 1321
+
 Traduzione
 
-Conchiuso a Londra il 17 febbraio 1978
+Conchiuso a Londra il 17 febbraio 1978 Strumento d’adesione depositato dalla Svizzera il 1° aprile 1982 Entrato in vigore per la Svizzera il 1° luglio 1982
 
-Strumento d’adesione depositato dalla Svizzera il 1° aprile 1982
-
-Entrato in vigore per la Svizzera il 1° luglio 1982
-
-(Stato 7 settembre 2021)
+(Stato 25 febbraio 2025)
 
 Le Parti contraenti del presente Protocollo,
 
@@ -36,7 +34,7 @@ Considerando che l’obiettivo può ottimamente essere raggiunto con la stipula 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: RU **1982** 1321 RS **0.747.363.33**
+[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
 
 #### Art. I
 
@@ -134,7 +132,7 @@ Il presente Protocollo viene redatto in originale unico nelle lingue cinese, ing
 
 (Si omettono le firme)
 
-Campo d’applicazione il 7 settembre 2021[^t-1]
+Campo d’applicazione il 25 febbraio 2025[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -172,7 +170,7 @@ Campo d’applicazione il 7 settembre 2021[^t-1]
 <tr><td>Croazia</td><td>27 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>19 giugno</td><td>1992 A</td><td>19 settembre</td><td>1992</td></tr>
 <tr><td>Danimarca</td><td>27 novembre</td><td>1980 A</td><td>1° maggio</td><td>1981</td></tr>
-<tr><td>Dominica</td><td>21 giugno</td><td>2000 A</td><td>21 giugno</td><td>2000</td></tr>
+<tr><td>Dominica</td><td>21 giugno</td><td>2000 A</td><td>21 settembre</td><td>2000</td></tr>
 <tr><td>Ecuador</td><td>21 maggio</td><td>2008 A</td><td>21 agosto</td><td>2008</td></tr>
 <tr><td>Egitto</td><td>7 agosto</td><td>1986 A</td><td>7 novembre</td><td>1986</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>15 dicembre</td><td>1983 A</td><td>15 marzo</td><td>1984</td></tr>
@@ -184,12 +182,13 @@ Campo d’applicazione il 7 settembre 2021[^t-1]
 <tr><td>Francia</td><td>21 dicembre</td><td>1979</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>6 giugno</td><td>1980</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Ghana</td><td>19 maggio</td><td>1983 A</td><td>19 agosto</td><td>1983</td></tr>
-<tr><td>Giamaica</td><td>17 agosto</td><td>2005 A</td><td>17 agosto</td><td>2005</td></tr>
+<tr><td>Giamaica</td><td>17 agosto</td><td>2005 A</td><td>17 novembre</td><td>2005</td></tr>
 <tr><td>Giappone</td><td>15 maggio</td><td>1980 A</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Grecia</td><td>17 luglio</td><td>1981 A</td><td>17 ottobre</td><td>1981</td></tr>
 <tr><td>Grenada</td><td>28 giugno</td><td>2004 A</td><td>28 settembre</td><td>2004</td></tr>
 <tr><td>Guinea</td><td>2 ottobre</td><td>2002 A</td><td>2 gennaio</td><td>2003</td></tr>
 <tr><td>Guinea equatoriale</td><td>24 aprile</td><td>1996 A</td><td>24 luglio</td><td>1996</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>10 marzo</td><td>1998</td></tr>
 <tr><td>Honduras</td><td>24 settembre</td><td>1985 A</td><td>24 dicembre</td><td>1985</td></tr>
 <tr><td>India</td><td>3 aprile</td><td>1986 A</td><td>3 luglio</td><td>1986</td></tr>
@@ -198,6 +197,7 @@ Campo d’applicazione il 7 settembre 2021[^t-1]
 <tr><td>Irlanda</td><td>29 novembre</td><td>1983 A</td><td>29 febbraio</td><td>1984</td></tr>
 <tr><td>Islanda</td><td>6 luglio</td><td>1983 A</td><td>6 ottobre</td><td>1983</td></tr>
 <tr><td>Isole Marshall</td><td>26 aprile</td><td>1988 A</td><td>26 luglio</td><td>1988</td></tr>
+<tr><td>Isole Salomone</td><td>18 ottobre</td><td>2023 A</td><td>18 gennaio</td><td>2024</td></tr>
 <tr><td>Israele</td><td>21 agosto</td><td>1981 A</td><td>21 novembre</td><td>1981</td></tr>
 <tr><td>Italia</td><td>1° ottobre</td><td>1982 A</td><td>1° gennaio</td><td>1983</td></tr>
 <tr><td>Kazakstan</td><td>7 marzo</td><td>1994 A</td><td>7 giugno</td><td>1994</td></tr>
@@ -277,4 +277,4 @@ Campo d’applicazione il 7 settembre 2021[^t-1]
 
 - [tab]
 
-[^t-1]: [RU 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-1]: [RU 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545), [2025 151](https://fedlex.data.admin.ch/eli/oc/2025/151). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

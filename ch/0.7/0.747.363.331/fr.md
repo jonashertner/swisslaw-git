@@ -3,26 +3,28 @@ sr: "0.747.363.331"
 title: Protocole de 1978 du 17 février 1978 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: fr
-version: 2021-09-07
+version: 2025-02-25
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20210907/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20210907-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20210907/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20250225/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20250225-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20250225/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Protocole de 1978 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 
+RO **1982** 1321
+
 Texte original
 
 Conclu à Londres le 17 février 1978 Instrument d’adhésion déposé par la Suisse le 1<sup>er</sup> avril 1982 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 1982
 
-(État le 7 septembre 2021)
+(État le 25 février 2025)
 
 Les Parties au présent Protocole,
 
-étant Parties à la Convention internationale[^ingress-1] de 1974 pour la sauvegarde de la vie humaine en mer, faite à Londres le 1<sup>er</sup> novembre 1974,
+étant Parties à la Convention inertnationale[^ingress-1] de 1974 pour la sauvegarde de la vie humaine en mer, faite à Londres le 1<sup>er</sup> novembre 1974,
 
 reconnaissant que ladite convention peut contribuer de manière appréciable à l’amélioration de la sécurité des navires et des biens en mer ainsi que de la sauvegarde de la vie humaine à bord des navires,
 
@@ -32,7 +34,7 @@ estimant que le meilleur moyen de réaliser cet objectif est de conclure un Prot
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: RO **1982** 1321 RS **0.747.363.33**
+[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
 
 #### Art. I
 
@@ -128,7 +130,7 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont apposé leur signature au présent Protocole. Fait à Londres ce dix-sept février mil neuf cent soixante-dix-huit. (Suivent les signatures)
 
-Champ d’application le 7 septembre 2021[^t-1]
+Champ d’application le 25 février 2025[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -167,7 +169,7 @@ Champ d’application le 7 septembre 2021[^t-1]
 <tr><td>Croatie</td><td>27 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>19 juin</td><td>1992 A</td><td>19 septembre</td><td>1992</td></tr>
 <tr><td>Danemark</td><td>27 novembre</td><td>1980 A</td><td>1<sup>er</sup> mai</td><td>1981</td></tr>
-<tr><td>Dominique</td><td>21 juin</td><td>2000 A</td><td>21 juin</td><td>2000</td></tr>
+<tr><td>Dominique</td><td>21 juin</td><td>2000 A</td><td>21 septembre</td><td>2000</td></tr>
 <tr><td>Égypte</td><td>7 août</td><td>1986 A</td><td>7 novembre</td><td>1986</td></tr>
 <tr><td>Émirats arabes unis</td><td>15 décembre</td><td>1983 A</td><td>15 mars</td><td>1984</td></tr>
 <tr><td>Équateur</td><td>21 mai</td><td>2008 A</td><td>21 août</td><td>2008</td></tr>
@@ -182,11 +184,13 @@ Champ d’application le 7 septembre 2021[^t-1]
 <tr><td>Grèce</td><td>17 juillet</td><td>1981 A</td><td>17 octobre</td><td>1981</td></tr>
 <tr><td>Grenade</td><td>28 juin</td><td>2004 A</td><td>28 septembre</td><td>2004</td></tr>
 <tr><td>Guinée</td><td>2 octobre</td><td>2002 A</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>24 juillet</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
 <tr><td>Honduras</td><td>24 septembre</td><td>1985 A</td><td>24 décembre</td><td>1985</td></tr>
 <tr><td>Hongrie</td><td>3 février</td><td>1982 A</td><td>3 mai</td><td>1982</td></tr>
 <tr><td>Îles Marshall</td><td>26 avril</td><td>1988 A</td><td>26 juillet</td><td>1988</td></tr>
+<tr><td>Îles Salomon</td><td>18 octobre</td><td>2023 A</td><td>18 janvier</td><td>2024</td></tr>
 <tr><td>Inde</td><td>3 avril</td><td>1986 A</td><td>3 juillet</td><td>1986</td></tr>
 <tr><td>Indonésie</td><td>23 août</td><td>1988 A</td><td>23 novembre</td><td>1988</td></tr>
 <tr><td>Iran</td><td>31 août</td><td>2000 A</td><td>30 novembre</td><td>2000</td></tr>
@@ -194,7 +198,7 @@ Champ d’application le 7 septembre 2021[^t-1]
 <tr><td>Islande</td><td>6 juillet</td><td>1983 A</td><td>6 octobre</td><td>1983</td></tr>
 <tr><td>Israël</td><td>21 août</td><td>1981 A</td><td>21 novembre</td><td>1981</td></tr>
 <tr><td>Italie</td><td>1<sup>er</sup> octobre</td><td>1982 A</td><td>1<sup>er</sup> janvier</td><td>1983</td></tr>
-<tr><td>Jamaïque</td><td>17 août</td><td>2005 A</td><td>17 août</td><td>2005</td></tr>
+<tr><td>Jamaïque</td><td>17 août</td><td>2005 A</td><td>17 novembre</td><td>2005</td></tr>
 <tr><td>Japon</td><td>15 mai</td><td>1980 A</td><td>1<sup>er</sup> mai</td><td>1981</td></tr>
 <tr><td>Kazakhstan</td><td>7 mars</td><td>1994 A</td><td>7 juin</td><td>1994</td></tr>
 <tr><td>Kenya</td><td>7 juillet</td><td>2015 A</td><td>7 octobre</td><td>2015</td></tr>
@@ -267,4 +271,4 @@ Champ d’application le 7 septembre 2021[^t-1]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de code, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 25 nov. 1981 au 30 juin 1997, le protocole était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 24 août 1999 au 19 déc. 1999, le protocole était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 déc. 1999, le protocole est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-1]: [RO 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-1]: La présente publication complète et rectifie (Dominique, Jamaïque) celles qui figurent au [RO 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545); [2025 151](https://fedlex.data.admin.ch/eli/oc/2025/151). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
