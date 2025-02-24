@@ -3,11 +3,11 @@ sr: "0.440.3"
 title: Satzung der Internationalen Studienzentrale für die Erhaltung und Restaurierung von Kulturgut vom Dezember 1956
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2153_2153_2153"
 language: de
-version: 2020-04-09
+version: 2025-02-25
 adopted: 1956-12-01
 in_force: 1959-03-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2153_2153_2153/20200409/de/xml/fedlex-data-admin-ch-eli-cc-1976-2153_2153_2153-20200409-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2153_2153_2153/20200409/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2153_2153_2153/20250225/de/xml/fedlex-data-admin-ch-eli-cc-1976-2153_2153_2153-20250225-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2153_2153_2153/20250225/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1976** 2153, **2004** 4987
 
 Angenommen in New Delhi im Dezember 1956 Schweizerische Beitrittsurkunde hinterlegt am 27. März 1959 In Kraft getreten für die Schweiz am 27. März 1959 Geändert durch Beschluss der Generalversammlung am 24. April 1963
 
-(Stand am 9. April 2020)
+(Stand am 25. Februar 2025)
 
 #### Art. 1
 
@@ -226,7 +226,7 @@ Die ICCROM kann durch Beschluss der Generalversammlung aufgelöst werden. Die Ge
 
 Der englische und der französische Wortlaut dieser Satzung sind gleichermassen verbindlich.
 
-Geltungsbereich am 9. April 2020**[^t-1]**
+Geltungsbereich am 25. Februar 2025[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -352,6 +352,7 @@ Geltungsbereich am 9. April 2020**[^t-1]**
 <tr><td>Südafrika</td><td>18. Dezember</td><td>2003 B</td><td>17. Januar</td><td>2004</td></tr>
 <tr><td>Sudan</td><td>10. November</td><td>1960</td><td>10. November</td><td>1960</td></tr>
 <tr><td>Syrien</td><td>5. November</td><td>1959</td><td>5. November</td><td>1959</td></tr>
+<tr><td>Tadschikistan</td><td>18. März</td><td>2022 B</td><td>17. April</td><td>2022</td></tr>
 <tr><td>Tansania</td><td>22. März</td><td>2004</td><td>21. April</td><td>2004</td></tr>
 <tr><td>Thailand</td><td>8. Februar</td><td>1967</td><td>8. Februar</td><td>1967</td></tr>
 <tr><td>Togo</td><td>12. August</td><td>2005 B</td><td>11. September</td><td>2005</td></tr>
@@ -363,6 +364,7 @@ Geltungsbereich am 9. April 2020**[^t-1]**
 <tr><td>Ukraine</td><td>16. Dezember</td><td>2015 B</td><td>15. Januar</td><td>2016</td></tr>
 <tr><td>Ungarn</td><td>29. November</td><td>2017</td><td>29. November</td><td>2017</td></tr>
 <tr><td>Uruguay</td><td>7. Februar</td><td>2002 B</td><td>9. März</td><td>2002</td></tr>
+<tr><td>Usbekistan</td><td>31. Juli</td><td>2024 B</td><td>30. August</td><td>2024</td></tr>
 <tr><td>Venezuela</td><td>29. November</td><td>1989</td><td>29. November</td><td>1989</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>23. Dezember</td><td>2009 B</td><td>22. Januar</td><td>2010</td></tr>
 <tr><td>Vereinigte Staaten</td><td>20. Januar</td><td>1971</td><td>20. Januar</td><td>1971</td></tr>
@@ -372,4 +374,4 @@ Geltungsbereich am 9. April 2020**[^t-1]**
 <tr><td colspan="5"><sup>a</sup> Beitritt gemäss Artikel 2 Absatz 4 der Satzung.</td></tr>
 </table>
 
-[^t-1]: [AS 1976 2153](https://fedlex.data.admin.ch/eli/oc/1976/2153_2153_2153), [1983 140](https://fedlex.data.admin.ch/eli/oc/1983/140_140_140), [1985 1490](https://fedlex.data.admin.ch/eli/oc/1985/1490_1490_1490), [1987 839](https://fedlex.data.admin.ch/eli/oc/1987/839_839_839), [1989 180](https://fedlex.data.admin.ch/eli/oc/1989/180_180_180), [1990 1266](https://fedlex.data.admin.ch/eli/oc/1990/1266_1266_1266), [2004 4987](https://fedlex.data.admin.ch/eli/oc/2004/757), [2006 3333](https://fedlex.data.admin.ch/eli/oc/2006/521), [2008 4063](https://fedlex.data.admin.ch/eli/oc/2008/562), [2013 275](https://fedlex.data.admin.ch/eli/oc/2013/38), [2016 1233](https://fedlex.data.admin.ch/eli/oc/2016/241), [2020 1383](https://fedlex.data.admin.ch/eli/oc/2020/267). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1976 2153](https://fedlex.data.admin.ch/eli/oc/1976/2153_2153_2153); [1983 140](https://fedlex.data.admin.ch/eli/oc/1983/140_140_140); [1985 1490](https://fedlex.data.admin.ch/eli/oc/1985/1490_1490_1490); [1987 839](https://fedlex.data.admin.ch/eli/oc/1987/839_839_839); [1989 180](https://fedlex.data.admin.ch/eli/oc/1989/180_180_180); [1990 1266](https://fedlex.data.admin.ch/eli/oc/1990/1266_1266_1266); [2004 4987](https://fedlex.data.admin.ch/eli/oc/2004/757); [2006 3333](https://fedlex.data.admin.ch/eli/oc/2006/521); [2008 4063](https://fedlex.data.admin.ch/eli/oc/2008/562); [2013 275](https://fedlex.data.admin.ch/eli/oc/2013/38); [2016 1233](https://fedlex.data.admin.ch/eli/oc/2016/241); [2020 1383](https://fedlex.data.admin.ch/eli/oc/2020/267); [2025 149](https://fedlex.data.admin.ch/eli/oc/2025/149). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

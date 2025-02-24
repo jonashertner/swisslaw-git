@@ -3,11 +3,11 @@ sr: "0.440.3"
 title: Statuti del Centro internazionale di studi per la conservazione e il restauro di beni culturali del dicembre 1956
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2153_2153_2153"
 language: it
-version: 2020-04-09
+version: 2025-02-25
 adopted: 1956-12-01
 in_force: 1959-03-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2153_2153_2153/20200409/it/xml/fedlex-data-admin-ch-eli-cc-1976-2153_2153_2153-20200409-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2153_2153_2153/20200409/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2153_2153_2153/20250225/it/xml/fedlex-data-admin-ch-eli-cc-1976-2153_2153_2153-20250225-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2153_2153_2153/20250225/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1976** 2153, **2004** 4987
 
 Traduzione
 
-Adottati a Nuova Delhi nel dicembre 1956
+Adottati a Nuova Delhi nel dicembre 1956 Istrumento d’adesione depositato dalla Svizzera il 27 marzo 1959 Entrati in vigore per la Svizzera il 27 marzo 1959 Emendati con decisione dell’Assemblea generale il 21 novembre 2003
 
-Istrumento d’adesione depositato dalla Svizzera il 27 marzo 1959
-
-Entrati in vigore per la Svizzera il 27 marzo 1959
-
-Emendati con decisione dell’Assemblea generale il 21 novembre 2003
-
-(Stato 9 aprile 2020)
+(Stato 25 febbraio 2025)
 
 #### Art. 1
 
@@ -232,7 +226,7 @@ L’ICCROM può essere sciolto da una decisione dell’Assemblea generale. L’A
 
 Il testo francese e il testo inglese del presente statuto fanno parimenti fede.
 
-Campo d’applicazione il 9 aprile 2020**[^t-1]**
+Campo d’applicazione il 25 febbraio 2025[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -361,6 +355,7 @@ Campo d’applicazione il 9 aprile 2020**[^t-1]**
 <tr><td>Sudan</td><td>10 novembre</td><td>1960</td><td>10 novembre</td><td>1960</td></tr>
 <tr><td>Svezia</td><td>1° settembre</td><td>1969</td><td>1° settembre</td><td>1969</td></tr>
 <tr><td>Svizzera</td><td>27 marzo</td><td>1959</td><td>27 marzo</td><td>1959</td></tr>
+<tr><td>Tagikistan</td><td>18 marzo</td><td>2022 A</td><td>17 aprile</td><td>2022</td></tr>
 <tr><td>Tanzania</td><td>22 marzo</td><td>2004</td><td>21 aprile</td><td>2004</td></tr>
 <tr><td>Thailandia</td><td>8 febbraio</td><td>1967</td><td>8 febbraio</td><td>1967</td></tr>
 <tr><td>Togo</td><td>12 agosto</td><td>2005 A</td><td>11 settembre</td><td>2005</td></tr>
@@ -370,6 +365,7 @@ Campo d’applicazione il 9 aprile 2020**[^t-1]**
 <tr><td>Ucraina</td><td>16 dicembre</td><td>2015 A</td><td>15 gennaio</td><td>2016</td></tr>
 <tr><td>Ungheria</td><td>29 novembre</td><td>2017</td><td>29 novembre</td><td>2017</td></tr>
 <tr><td>Uruguay</td><td>7 febbraio</td><td>2002 A</td><td>9 marzo</td><td>2002</td></tr>
+<tr><td>Uzbekistan</td><td>31 luglio</td><td>2024 A</td><td>30 agosto</td><td>2024</td></tr>
 <tr><td>Venezuela</td><td>29 novembre</td><td>1989</td><td>29 novembre</td><td>1989</td></tr>
 <tr><td>Vietnam</td><td>7 agosto</td><td>1972</td><td>7 agosto</td><td>1972</td></tr>
 <tr><td>Yemen</td><td>19 maggio</td><td>2008 A</td><td>18 giugno</td><td>2008</td></tr>
@@ -378,4 +374,4 @@ Campo d’applicazione il 9 aprile 2020**[^t-1]**
 <tr><td colspan="5"><sup>a</sup> Adesione conformemente all’art. 2 par. 4 degli Statuti.</td></tr>
 </table>
 
-[^t-1]: **1976** 2153, **1983** 140, **1985** 1490, **1987** 839, **1989** 180, **1990** 1266, **2004** 4987, **2006** 3333, **2008** 4063, **2013** 275, **2016** 1233 e **2020** 1383. Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 1976 2153](https://fedlex.data.admin.ch/eli/oc/1976/2153_2153_2153); [1983 140](https://fedlex.data.admin.ch/eli/oc/1983/140_140_140); [1985 1490](https://fedlex.data.admin.ch/eli/oc/1985/1490_1490_1490); [1987 839](https://fedlex.data.admin.ch/eli/oc/1987/839_839_839); [1989 180](https://fedlex.data.admin.ch/eli/oc/1989/180_180_180); [1990 1266](https://fedlex.data.admin.ch/eli/oc/1990/1266_1266_1266); [2004 4987](https://fedlex.data.admin.ch/eli/oc/2004/757); [2006 3333](https://fedlex.data.admin.ch/eli/oc/2006/521); [2008 4063](https://fedlex.data.admin.ch/eli/oc/2008/562); [2013 275](https://fedlex.data.admin.ch/eli/oc/2013/38); [2016 1233](https://fedlex.data.admin.ch/eli/oc/2016/241); [2020 1383](https://fedlex.data.admin.ch/eli/oc/2020/267); [2025 149](https://fedlex.data.admin.ch/eli/oc/2025/149)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
