@@ -3,11 +3,11 @@ sr: "0.631.121.2"
 title: Konvention vom 15. Dezember 1950 betreffend die Gründung eines Rates für die Zusammenarbeit auf dem Gebiete des Zollwesens (mit Anhang und Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1953/42_42_42"
 language: de
-version: 2022-02-01
+version: 2025-02-26
 adopted: 1950-12-15
 in_force: 1952-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20220201/de/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20220201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20250226/de/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20250226-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20250226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1953** 42; BBl **1952** I 525
 
 Abgeschlossen in Brüssel am 15. Dezember 1950 Von der Bundesversammlung genehmigt am 18. Juni 1952[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 19. Dezember 1952 In Kraft getreten für die Schweiz am 19. Dezember 1952
 
-(Stand am 1. Februar 2022)
+(Stand am 26. Februar 2025)
 
 [^t-1]: [AS 1953 41](https://fedlex.data.admin.ch/eli/oc/1953/41_41_41)
 
@@ -62,7 +62,7 @@ Dem Zollrat sind folgende Aufgaben übertragen:
 - g. – den beteiligten Regierungen von Amtes wegen oder auf Antrag hin Auskünfte oder Gutachten über jene Zollfragen zu übermitteln, die sich innerhalb des Rahmens der allgemeinen Zweckbestimmungen der vorliegenden Konvention bewegen, und diesbezügliche Empfehlungen zu unterbreiten;
 - h. – mit den andern zwischenstaatlichen Organisationen in Fragen zusammenzuarbeiten, die in seine Zuständigkeit fallen.
 
-[^III-1]: [AS 1960 295](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). Die Schweiz hat dieses Abk. mit Wirkung per 31. Dez. 1988 gekündigt ([AS 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Siehe heute das Internationale Übereink. vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren ([SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)).
+[^III-1]: [AS 1960 295](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). Die Schweiz hat dieses Abk. mit Wirkung per 31. Dez. 1988 gekündigt ([AS 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Siehe heute das Internationale Übereink. vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren ([SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)).
 [^III-2]: Die Schweiz ist dieser Vereinbarung nicht beigetreten.
 
 #### Art. IV
@@ -81,7 +81,7 @@ Der Zollrat wird von einem ständigen Technischen Komitee und einem Generalsekre
 - d. – er umschreibt den Aufgabenkreis des ständigen Technischen Komitees und die Vollmachten, die er ihm abtritt;
 - e. – er genehmigt das jährliche Budget, überwacht die Ausgaben und gibt dem Generalsekretariat die nötigen Weisungen hinsichtlich seines Finanzgebarens.
 
-[^VI-1]: [AS 1960 295](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). Die Schweiz hat dieses Abk. mit Wirkung per 31. Dez. 1988 gekündigt ([AS 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Siehe heute das Internationale Übereink. vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren ([SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)).
+[^VI-1]: [AS 1960 295](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). Die Schweiz hat dieses Abk. mit Wirkung per 31. Dez. 1988 gekündigt ([AS 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Siehe heute das Internationale Übereink. vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren ([SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)).
 [^VI-2]: Die Schweiz ist dieser Vereinbarung nicht beigetreten.
 
 #### Art. VII
@@ -383,7 +383,7 @@ Ausgefertigt in Brüssel, am 15. Dezember 1950, in einem einzigen Exemplar in fr
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. Februar 2022**[^t-2]**
+Geltungsbereich am 26. Februar 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -393,6 +393,7 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Algerien</td><td>19. Dezember</td><td>1966 B</td><td>19. Dezember</td><td>1966</td></tr>
 <tr><td>Andorra</td><td>3. September</td><td>1998 B</td><td>3. September</td><td>1998</td></tr>
 <tr><td>Angola</td><td>26. September</td><td>1990 B</td><td>26. September</td><td>1990</td></tr>
+<tr><td>Antigua und Barbuda</td><td>10. April</td><td>2017 B</td><td>10. April</td><td>2017</td></tr>
 <tr><td>Äquatorialguinea</td><td>22. Dezember</td><td>2021 B</td><td>22. Dezember</td><td>2021</td></tr>
 <tr><td>Argentinien</td><td>1. Juli</td><td>1968 B</td><td>1. Juli</td><td>1968</td></tr>
 <tr><td>Armenien</td><td>30. Juni</td><td>1992 B</td><td>30. Juni</td><td>1992</td></tr>
@@ -407,7 +408,7 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Belgien</td><td>11. Dezember</td><td>1952</td><td>11. Dezember</td><td>1952</td></tr>
 <tr><td>Belize</td><td>22. April</td><td>2008 B</td><td>22. April</td><td>2008</td></tr>
 <tr><td>Benin</td><td>9. November</td><td>1998 B</td><td>9. November</td><td>1998</td></tr>
-<tr><td>Bermuda<sup>a</sup></td><td>13. Juli</td><td>1990</td><td>13. Juli</td><td>1990</td></tr>
+<tr><td>Bermuda <sup>a</sup></td><td>13. Juli</td><td>1990</td><td>13. Juli</td><td>1990</td></tr>
 <tr><td>Bhutan</td><td>12. Februar</td><td>2002 B</td><td>12. Februar</td><td>2002</td></tr>
 <tr><td>Bolivien</td><td>14. August</td><td>1997 B</td><td>14. August</td><td>1997</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>4. Juli</td><td>2008 B</td><td>4. Juli</td><td>2008</td></tr>
@@ -419,8 +420,8 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Burundi</td><td>20. Oktober</td><td>1964 B</td><td>20. Oktober</td><td>1964</td></tr>
 <tr><td>Chile</td><td>1. Juli</td><td>1966 B</td><td>1. Juli</td><td>1966</td></tr>
 <tr><td>China</td><td>18. Juli</td><td>1983 B</td><td>18. Juli</td><td>1983</td></tr>
-<tr><td>[tab] Hongkong <sup>a</sup> <sup>b</sup></td><td>1. Juli</td><td>1987</td><td>1. Juli</td><td>1987</td></tr>
-<tr><td>[tab] Macau <sup>a</sup> <sup>c</sup></td><td>7. Juli</td><td>1993</td><td>7. Juli</td><td>1993</td></tr>
+<tr><td>Hongkong <sup>a</sup> <sup>b</sup></td><td>1. Juli</td><td>1987</td><td>1. Juli</td><td>1987</td></tr>
+<tr><td>Macau <sup>a</sup> <sup>c</sup></td><td>7. Juli</td><td>1993</td><td>7. Juli</td><td>1993</td></tr>
 <tr><td>Costa Rica</td><td>29. August</td><td>2001 B</td><td>29. August</td><td>2001</td></tr>
 <tr><td>Côte d’Ivoire</td><td>2. September</td><td>1963 B</td><td>2. September</td><td>1963</td></tr>
 <tr><td>Dänemark</td><td>19. Oktober</td><td>1951</td><td>4. November</td><td>1952</td></tr>
@@ -503,9 +504,9 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Neuseeland</td><td>16. Mai</td><td>1963 B</td><td>16. Mai</td><td>1963</td></tr>
 <tr><td>Nicaragua</td><td>24. September</td><td>1998 B</td><td>24. September</td><td>1998</td></tr>
 <tr><td>Niederlande</td><td>23. Januar</td><td>1953</td><td>23. Januar</td><td>1953</td></tr>
-<tr><td>[tab] Curaçao</td><td>1. Juli</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
-<tr><td>[tab] Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>1. Juli</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
-<tr><td>[tab] Sint Maarten</td><td>1. Juli</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Curaçao</td><td>1. Juli</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>1. Juli</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Sint Maarten</td><td>1. Juli</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
 <tr><td>Niger</td><td>1. Juli</td><td>1981 B</td><td>1. Juli</td><td>1981</td></tr>
 <tr><td>Nigeria</td><td>21. August</td><td>1963 B</td><td>21. August</td><td>1963</td></tr>
 <tr><td>Nordmazedonien</td><td>1. Juli</td><td>1994 B</td><td>1. Juli</td><td>1994</td></tr>
@@ -514,6 +515,7 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Österreich</td><td>21. Januar</td><td>1953 B</td><td>21. Januar</td><td>1953</td></tr>
 <tr><td>Pakistan</td><td>16. November</td><td>1955 B</td><td>16. November</td><td>1955</td></tr>
 <tr><td>Palästina</td><td>24. März</td><td>2015 B</td><td>24. März</td><td>2015</td></tr>
+<tr><td>Palau</td><td>2. Februar</td><td>2024 B</td><td>2. Februar</td><td>2024</td></tr>
 <tr><td>Panama</td><td>8. März</td><td>1996 B</td><td>8. März</td><td>1996</td></tr>
 <tr><td>Papua-Neuguinea</td><td>18. März</td><td>2002 B</td><td>18. März</td><td>2002</td></tr>
 <tr><td>Paraguay</td><td>3. Oktober</td><td>1969 B</td><td>3. Oktober</td><td>1969</td></tr>
@@ -524,6 +526,7 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Ruanda</td><td>3. März</td><td>1964 B</td><td>3. März</td><td>1964</td></tr>
 <tr><td>Rumänien</td><td>15. Januar</td><td>1969 B</td><td>15. Januar</td><td>1969</td></tr>
 <tr><td>Russland</td><td>8. Juli</td><td>1991 B</td><td>8. Juli</td><td>1991</td></tr>
+<tr><td>Salomoninseln</td><td>26. Januar</td><td>2023 B</td><td>26. Januar</td><td>2023</td></tr>
 <tr><td>Sambia</td><td>27. September</td><td>1978 B</td><td>27. September</td><td>1978</td></tr>
 <tr><td>Samoa</td><td>1. Oktober</td><td>2001 B</td><td>1. Oktober</td><td>2001</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>23. September</td><td>2009 B</td><td>23. September</td><td>2009</td></tr>
@@ -572,10 +575,7 @@ Geltungsbereich am 1. Februar 2022**[^t-2]**
 <tr><td>Vietnam</td><td>1. Juli</td><td>1993 B</td><td>1. Juli</td><td>1993</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>28. Juli</td><td>1986 B</td><td>28. Juli</td><td>1986</td></tr>
 <tr><td>Zypern</td><td>31. August</td><td>1967 B</td><td>31. August</td><td>1967</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Zulassung gemäss Art. II a) ii) der Konv.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Vom 13. Juli 1987 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Vom 7. Juli 1993 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Zulassung gemäss Art. II a) ii) der Konv. <sup>b</sup> Vom 13. Juli 1987 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. <sup>c</sup> Vom 7. Juli 1993 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China.</td></tr>
 </table>
 
-[^t-2]: [AS 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455); [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542); [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319); [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718); [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015); [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313); [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492); [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335); [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80); [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533); [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245); [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12); [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236); [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356); [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428); [2022 62](https://fedlex.data.admin.ch/eli/oc/2022/62). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455); [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542); [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319); [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718); [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015); [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313); [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492); [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335); [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80); [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533); [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245); [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12); [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236); [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356); [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428); [2022 62](https://fedlex.data.admin.ch/eli/oc/2022/62); [2025 150](https://fedlex.data.admin.ch/eli/oc/2025/150). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

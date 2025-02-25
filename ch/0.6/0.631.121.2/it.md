@@ -3,11 +3,11 @@ sr: "0.631.121.2"
 title: Convenzione del 15 dicembre 1950 che istituisce un consiglio di cooperazione doganale (con All. e Protocollo)
 eli: "https://fedlex.data.admin.ch/eli/cc/1953/42_42_42"
 language: it
-version: 2022-02-01
+version: 2025-02-26
 adopted: 1950-12-15
 in_force: 1952-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20220201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20250226/it/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20250226-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20250226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Bruxelles il 15 dicembre 1950 Approvata dall’Assemblea federale il 18 giugno 1952[^t-1] Istrumento d’adesione depositato dalla Svizzera il 19 dicembre 1952 Entrata in vigore per la Svizzera il 19 dicembre 1952
 
-(Stato 1° febbraio 2022)
+(Stato 26 febbraio 2025)
 
 [^t-1]: [RU 1953 41](https://fedlex.data.admin.ch/eli/oc/1953/41_41_41)
 
@@ -62,7 +62,7 @@ Il Consiglio è incaricato:
 - g. – di fornire ai Governi interessati, d’ufficio o a loro domanda, informazioni e pareri sulle questioni doganali che si riferiscono agli scopi generali della presente Convenzione e di fare raccomandazioni in proposito;
 - h. – di cooperare con le altre organizzazioni intergovernative in questioni di sua competenza.
 
-[^III-1]: [RU 1960 307](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). La Svizzera ha denunciato questa conv. con effetto dal 31 dic. 1988 ([RU 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Vedi ora la Conv. internazionale del 14 giu. 1983 sul sistema armonizzato di designazione e di codificazione delle merci ([RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)).
+[^III-1]: [RU 1960 307](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). La Svizzera ha denunciato questa conv. con effetto dal 31 dic. 1988 ([RU 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Vedi ora la Conv. internazionale del 14 giu. 1983 sul sistema armonizzato di designazione e di codificazione delle merci ([RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)).
 [^III-2]: La Svizzera non ha aderito a questa Conv.
 
 #### Art. IV
@@ -81,7 +81,7 @@ Il Consiglio è assistito da un Comitato tecnico permanente e da un Segretario g
 - d. – delimita i compiti assegnati al Comitato tecnico permanente e i poteri che gli delega;
 - e. – approva il bilancio annuale, controlla le spese e impartisce al Segretariato generale le necessarie direttive concernenti le sue finanze.
 
-[^VI-1]: [RU 1960 307](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). La Svizzera ha denunciato questa Conv. con effetto dal 31 dic. 1988 ([RU 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Vedi ora la Conv. internazionale del 14 giu. 1983 sul sistema armonizzato di designazione e di codificazione delle merci ([RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)).
+[^VI-1]: [RU 1960 307](https://fedlex.data.admin.ch/eli/oc/1960/295_311_307). La Svizzera ha denunciato questa Conv. con effetto dal 31 dic. 1988 ([RU 1988 1299](https://fedlex.data.admin.ch/eli/oc/1988/1299_1299_1299)). Vedi ora la Conv. internazionale del 14 giu. 1983 sul sistema armonizzato di designazione e di codificazione delle merci ([RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)).
 [^VI-2]: La Svizzera non ha aderito a questa Conv.
 
 #### Art. VII
@@ -122,7 +122,7 @@ Il Consiglio è assistito da un Comitato tecnico permanente e da un Segretario g
 
 - a. – Sul territorio di ciascun Membro il Consiglio gode della capacità giuridica necessaria all’esercizio delle sue funzioni come è definita nell’Allegato alla presente Convenzione;
 - b. – il Consiglio, i rappresentanti dei suoi Membri, i consiglieri e i periti designati a coadiuvarli, e i funzionari del Consiglio godono dei privilegi e delle immunità contemplate in detto Allegato;
-- d. – quest’ultimo costituisce parte integrante della presente Convenzione e qualsiasi riferimento alla Convenzione deve intendersi come riferito anche all’Allegato.
+- c. – quest’ultimo costituisce parte integrante della presente Convenzione e qualsiasi riferimento alla Convenzione deve intendersi come riferito anche all’Allegato.
 
 #### Art. XIV
 
@@ -383,7 +383,7 @@ Fatto a Bruxelles, il 15 dicembre 1950, in un solo esemplare, nelle lingue franc
 
 (Seguono le firme)
 
-Campo d’applicazione il 1° febbraio 2022**[^t-2]**
+Campo d’applicazione il 26 febbraio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -392,6 +392,7 @@ Campo d’applicazione il 1° febbraio 2022**[^t-2]**
 <tr><td>Algeria</td><td>19 dicembre</td><td>1966 A</td><td>19 dicembre</td><td>1966</td></tr>
 <tr><td>Andorra</td><td>3 settembre</td><td>1998 A</td><td>3 settembre</td><td>1998</td></tr>
 <tr><td>Angola</td><td>26 settembre</td><td>1990 A</td><td>26 settembre</td><td>1990</td></tr>
+<tr><td>Antigua e Barbuda</td><td>10 aprile</td><td>2017 A</td><td>10 aprile</td><td>2017</td></tr>
 <tr><td>Arabia Saudita</td><td>8 maggio</td><td>1973 A</td><td>8 maggio</td><td>1973</td></tr>
 <tr><td>Argentina</td><td>1° luglio</td><td>1968 A</td><td>1° luglio</td><td>1968</td></tr>
 <tr><td>Armenia</td><td>30 giugno</td><td>1992 A</td><td>30 giugno</td><td>1992</td></tr>
@@ -473,6 +474,7 @@ Campo d’applicazione il 1° febbraio 2022**[^t-2]**
 <tr><td>Iraq</td><td>6 giugno</td><td>1990 A</td><td>6 giugno</td><td>1990</td></tr>
 <tr><td>Irlanda</td><td>23 settembre</td><td>1952 A</td><td>4 novembre</td><td>1952</td></tr>
 <tr><td>Islanda</td><td>15 febbraio</td><td>1971</td><td>15 febbraio</td><td>1971</td></tr>
+<tr><td>Isole Salomone</td><td>26 gennaio</td><td>2023 A</td><td>26 gennaio</td><td>2023</td></tr>
 <tr><td>Israele</td><td>23 maggio</td><td>1958 A</td><td>23 maggio</td><td>1958</td></tr>
 <tr><td>Italia</td><td>20 novembre</td><td>1952</td><td>20 novembre</td><td>1952</td></tr>
 <tr><td>Kazakstan</td><td>30 giugno</td><td>1992 A</td><td>30 giugno</td><td>1992</td></tr>
@@ -517,6 +519,7 @@ Campo d’applicazione il 1° febbraio 2022**[^t-2]**
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>1° luglio</td><td>2001</td><td>1° luglio</td><td>2001</td></tr>
 <tr><td>Sint Maarten</td><td>1° luglio</td><td>2001</td><td>1° luglio</td><td>2001</td></tr>
 <tr><td>Pakistan</td><td>16 novembre</td><td>1955 A</td><td>16 novembre</td><td>1955</td></tr>
+<tr><td>Palau</td><td>2 febbraio</td><td>2024 A</td><td>2 febbraio</td><td>2024</td></tr>
 <tr><td>Palestina</td><td>24 marzo</td><td>2015 A</td><td>24 marzo</td><td>2015</td></tr>
 <tr><td>Panama</td><td>8 marzo</td><td>1996 A</td><td>8 marzo</td><td>1996</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>18 marzo</td><td>2002 A</td><td>18 marzo</td><td>2002</td></tr>
@@ -572,7 +575,7 @@ Campo d’applicazione il 1° febbraio 2022**[^t-2]**
 <tr><td>Yemen</td><td>1° luglio</td><td>1993 A</td><td>1° luglio</td><td>1993</td></tr>
 <tr><td>Zambia</td><td>27 settembre</td><td>1978 A</td><td>27 settembre</td><td>1978</td></tr>
 <tr><td>Zimbabwe</td><td>19 marzo</td><td>1981 A</td><td>19 marzo</td><td>1981</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Ammissione giusta l’art. II a) ii) della Conv. <sup>b</sup> Dal 13 lug. 1987 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. <sup>c</sup> Dal 7 lug. 1993 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Ammissione giusta l’art. II a) ii) della Conv. <sup>b</sup> Dal 13 lug. 1987 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. <sup>c</sup> Dal 7 lug. 1993 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese.</td></tr>
 </table>
 
-[^t-2]: [RU 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455); [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542); [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319); [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718); [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015); [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313); [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492); [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335); [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80); [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533); [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245); [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12); [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236); [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356); [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428); [2022 62](https://fedlex.data.admin.ch/eli/oc/2022/62). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-2]: [RU 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455); [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542); [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319); [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718); [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015); [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313); [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492); [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335); [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80); [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533); [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245); [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12); [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236); [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356); [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428); [2022 62](https://fedlex.data.admin.ch/eli/oc/2022/62); [2025 150](https://fedlex.data.admin.ch/eli/oc/2025/150). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
