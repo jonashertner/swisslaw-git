@@ -4,7 +4,7 @@ number: "810.211.1"
 title: "RÈGLEMENT du 10.04.2019 d'application du décret du 13 mai 1957 sur la Policlinique médicale universitaire et dispensaire central de Lausanne (RDPMU)"
 short: RDPMU
 language: fr
-version: 2019-05-01
+version: 2025-02-26
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.211.1?id=176c6eb0-64dd-457a-a1aa-a0dde148ef14"
 ---
 
@@ -75,7 +75,7 @@ arrête
 
 <sup>2</sup> Le conseil se réunit au minimum trois fois l'an.
 
-<sup>3</sup> Le directeur général de la PMU, un représentant de la direction du service en charge de la santé (le service), un représentant de l'Université et un représentant du CHUV assistent aux séances avec voix consultative.
+<sup>3</sup> Le directeur général d'Unisanté, un représentant de la direction du service en charge de la santé (le service), un représentant de l'Université et un représentant du CHUV assistent aux séances avec voix consultative.
 
 <sup>4</sup> Au surplus, le conseil s'organise librement.
 
@@ -126,16 +126,15 @@ arrête
 
 **Direction générale [^7-1]**
 
-<sup>1</sup> Le directeur général est un médecin avec rang académique de professeur de médecine interne générale auprès de l'Université.
+<sup>1</sup> ...
 
-<sup>2</sup> Il est nommé par le Conseil d'Etat, sur proposition du DSAS et sur préavis du Département de la formation, de la jeunesse et de la culture (DFJC), du conseil, du service en charge de la santé et de la direction de l'Université. Ses conditions d'engagement sont réglées par analogie avec le règlement sur les médecins chefs de département, les médecins chefs de service, les médecins cadres, les médecins agréés et les médecins hospitaliers du CHUV du 21 décembre 2016 (ci-après : R.Méd)[^8-1].
+<sup>2</sup> Le directeur général d'Unisanté est nommé par le Conseil d'Etat sur proposition commune du Département en charge de la santé et du Département en charge de la formation.
 
 <sup>3</sup> Le directeur général doit tout son temps à sa fonction.
 
 <sup>4</sup> Il est l'autorité d'engagement du personnel qui n'est pas engagé par le conseil. Il peut déléguer sa compétence aux autres membres de la direction. Le règlement du personnel fixe le cadre d'une telle délégation.
 
 [^7-1]: Modif. 1 du 26.02.2025: Abrogation Al. 1; entrée en vigueur au 26.02.2025; Modification Al. 2; entrée en vigueur au 26.02.2025 · Modif. 2 du 23.09.2026: Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.10.2026; Introduction Al. 3bis; entrée en vigueur au 01.10.2026; Modification Al. 4; entrée en vigueur au 01.10.2026
-[^8-1]: Règlement du 21.12.2016 sur les médecins chefs de département, les médecins chefs de service, les médecins cadres, les médecins agréés et les médecins hospitaliers du CHUV [(BLV 811.13.1)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/811.13.1?id=e94bd544-a578-439a-a9d8-f041d330bbe0)
 
 #### Art. 9
 
