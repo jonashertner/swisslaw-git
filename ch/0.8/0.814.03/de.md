@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Stockholmer Übereinkommen vom 22. Mai 2001 über persistente organische Schadstoffe (POP-Konvention) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: de
-version: 2023-11-16
+version: 2025-02-26
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20231116/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20231116-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20231116/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250226/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250226-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 30. Juli 2003
 
 In Kraft getreten für die Schweiz am 17. Mai 2004
 
-(Stand am 16. November 2023)
+(Stand am 26. Februar 2025)
 
 [^t-1]: [AS 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -650,7 +650,7 @@ Anlage A[^t-2]
 
 ## Eliminierung
 
-[^t-2]: Fassung gemäss den Beschlüssen Nr. SC-7/12, SC-7/13 und SC-7/14 der Konferenz der Vertragsparteien vom 15. Mai 2015 ([AS 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Bereinigt gemäss den Beschlüssen Nr. SC-8/10, SC-8/11 und SC-8/12 der Vertragsparteienkonferenz vom 5. Mai 2017 ([AS 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), den Beschlüssen Nr. SC-9/4, SC-9/11 und SC-9/12 der Vertragsparteienkonferenz vom 10. Mai 2019 ([AS 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)) und Beschluss Nr. SC-10/13 der Vertragsparteienkonferenz vom 17. Juni 2022, in Kraft getreten für die Schweiz am 16. Nov. 2023 ([AS 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)).
+[^t-2]: Fassung gemäss den Beschlüssen Nr. SC-7/12, SC-7/13 und SC-7/14 der Konferenz der Vertragsparteien vom 15. Mai 2015 ([AS 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Bereinigt gemäss den Beschlüssen Nr. SC-8/10, SC-8/11 und SC-8/12 der Vertragsparteienkonferenz vom 5. Mai 2017 ([AS 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), den Beschlüssen Nr. SC-9/4, SC-9/11 und SC-9/12 der Vertragsparteienkonferenz vom 10. Mai 2019 ([AS 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)), dem Beschluss Nr. SC-10/13 der Vertragsparteienkonferenz vom 17. Juni 2022 ([AS 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)) und den Beschlüssen Nr. SC-11/9, SC-11/10 und SC-11/11 der Vertragsparteienkonferenz vom 12. Mai 2023, in Kraft getreten für die Schweiz am 26. Febr. 2025 ([AS 2025 244](https://fedlex.data.admin.ch/eli/oc/2025/244)).
 
 ### Teil I
 
@@ -672,6 +672,8 @@ Anlage A[^t-2]
 <tr><th>Chemikalie</th><th>Tätigkeit</th><th>Spezifische Ausnahmeregelung</th></tr>
 <tr><td>Decabromdiphenylether (BDE-209) enthalten in kommerziellem Decabromdiphenylether (CAS-Nr.: 1163-19-5)</td><td>Produktion</td><td>zugelassen für die in das Register aufgenommenen Vertragsparteien</td></tr>
 <tr><td></td><td>Verwendung</td><td>nach Teil IX dieser Anlage: Teile für Fahrzeuge nach Absatz 2 von Teil IX dieser Anlage; Luftfahrzeuge, für die eine Typengenehmigung vor Dezember 2018 beantragt und vor Dezember 2022 erteilt wurde, sowie Ersatzteile für diese Luftfahrzeuge; Textilien, die flammhemmende Eigenschaften aufweisen müssen, mit Ausnahme von Kleidern und Spielzeugen; Additive für Plastikgehäuse und Teile für elektrische Haushaltheizgeräte, Bügeleisen, Ventilatoren, Tauchsieder, welche elektrische Teile enthalten oder direkt mit elektrischen Teilen in Berührung kommen oder Normen in Bezug auf Flammhemmung erfüllen müssen, mit einem Gehalt von weniger als 10 Massenprozent des Teils; Polyurethanschaum zur Isolierung von Gebäuden.</td></tr>
+<tr><td>Dechloran Plus CAS-Nr.: 13560-89-9 «Dechloran Plus» umfasst seine *Syn-* (CAS‑Nr. 135821‑03‑3) und *Anti-*Isomere (CAS‑Nr. 135821‑74‑8).</td><td>Produktion</td><td>keine</td></tr>
+<tr><td></td><td>Verwendung</td><td>Gemäss den Bestimmungen nach Teil XI dieser Anlage: – Luftfahrt – Anwendungen in der Raumfahrt und Verteidigungsindustrie – Geräte und Anlagen für die medizinische Bildgebung und Strahlentherapie – Ersatzteile für die Reparatur von Erzeugnissen in Anwendungen, die den Bestimmungen der Absätze 2 und 3 von Teil XI dieser Anlage entsprechen</td></tr>
 <tr><td>Dicofol CAS-Nr.: 115-32-2, CAS-Nr.: 10606-46-9</td><td>Produktion</td><td>keine</td></tr>
 <tr><td></td><td>Verwendung</td><td>keine</td></tr>
 <tr><td>Dieldrin\* CAS-Nr.: 60-57-1</td><td>Produktion</td><td>keine</td></tr>
@@ -694,6 +696,8 @@ Anlage A[^t-2]
 <tr><td></td><td>Verwendung</td><td>keine</td></tr>
 <tr><td>Lindan\* CAS Nr: 58-89-9</td><td>Produktion</td><td>keine</td></tr>
 <tr><td></td><td>Verwendung</td><td>Humanarzneimittel zur Kopflaus- und Krätzebehandlung als Zweitlinientherapie</td></tr>
+<tr><td>Methoxychlor\* «Methoxychlor» bezieht sich auf jedes mögliche Isomer von Dimethoxydiphenyltrichlorethan oder einer Kombination daraus. Zum Beispiel: CAS-Nr.: 72-43-5; CAS-Nr.: 30667-99-3; CAS-Nr.: 76733-77-2; CAS-Nr.: 255065-25-9; CAS-Nr.: 255065-26-0; CAS-Nr.: 59424-81-6; CAS-Nr.: 1348358-72-4.</td><td>Produktion</td><td>keine</td></tr>
+<tr><td></td><td>Verwendung</td><td>keine</td></tr>
 <tr><td>Mirex\* CAS-Nr.: 2385-85-5</td><td>Produktion</td><td>*zugelassen für die in das Register aufgenommenen Vertragsparteien*</td></tr>
 <tr><td></td><td>Verwendung</td><td>*Termitenvernichtungsmittel*</td></tr>
 <tr><td>Kurzkettige Chlorparaffine (C<sub>10–13</sub>-Chloralkane)<sup>+</sup>: unverzweigte chlorierte Kohlenwasserstoffe mit Kettenlängen von C<sub>10</sub> bis C<sub>13</sub> und einem Chlorgehalt von über 48 Massenprozent Kurzkettige Chlorparaffine können beispielsweise in den Stoffen mit den nachstehenden CAS-Nummern enthalten sein: CAS-Nr.: 85535-84-8 CAS-Nr.: 68920-70-7 CAS-Nr.: 71011-12-6 CAS-Nr.: 85536-22-7 CAS-Nr.: 85681-73-8 CAS-Nr.: 108171-26-2</td><td>Produktion</td><td>zugelassen für die in das Register aufgenommenen Vertragsparteien</td></tr>
@@ -714,6 +718,8 @@ Anlage A[^t-2]
 <tr><td></td><td>Verwendung</td><td>Produkte und Erzeugnisse nach Massgabe von Teil V dieser Anlage</td></tr>
 <tr><td>Toxaphen\* CAS-Nr.: 8001-35-2</td><td>Produktion</td><td>keine</td></tr>
 <tr><td></td><td>Verwendung</td><td>keine</td></tr>
+<tr><td>UV-328 CAS-Nr. 25973-55-1</td><td>Produktion</td><td>zugelassen für die in das Register aufgenommenen Vertragsparteien, nach Massgabe von Teil XII dieser Anlage</td></tr>
+<tr><td></td><td>Verwendung</td><td>Gemäss den Bestimmungen nach Teil XI dieser Anlage: Teile von Motorfahrzeugen (Autos, Motorräder, Land- und Baumaschinen, Gabelstapler und alle weiteren Landfahrzeuge), wie Stossstangen, Kühlergrill, Spoiler, Innenverkleidung, Dachmodul, Soft-/Hardtop, Kofferraumdeckel und Heckscheibenwischer Industrielle Beschichtungsanwendungen für Motorfahrzeuge, Maschinen und Schienenfahrzeuge sowie Hochleistungsbeschichtungen für grosse Stahlkonstruktionen Mechanische Separatoren für Blutentnahmeröhrchen, bei Triacetylcellulose-Folie (TAC-Folie) in Polarisatoren Fotopapiere Ersatzteile für die Reparatur von Erzeugnissen in Anwendungen, die den Bestimmungen der Absätze 2 und 3 von Teil XII dieser Anlage entsprechen</td></tr>
 </table>
 
 **Anmerkungen:**
@@ -729,9 +735,7 @@ Anlage A[^t-2]
 [^annexA-lvlu1-partI-1]: Am 17. Mai 2009 war keine einzige Vertragspartei für die in Anlage A aufgeführten spezifischen Ausnahmeregelungen für Aldrin, Chlordan, Dieldrin, Heptachlor, Hexachlorbenzol und Mirex registriert. Gemäss Art. 4 Abs. 9 des Übereink. sind somit keine neuen Registrierungen für diese Ausnahmeregelungen mehr zulässig, welche in der Tabelle in *kursiver* Schrift gedruckt sind.
 [^annexA-lvlu1-partI-2]: Obwohl die spezifische Ausnahmeregelung für die Verwendung von Hexachlorbenzol als Zwischenprodukt in geschlossenen Systemen an bestimmten Standorten erloschen ist, ist dieser Verwendungszweck in Übereinstimmung mit Anmerkung iii von Teil I dieser Anlage nach wie vor möglich.
 
-### Teil II
-
-**Polychlorierte Biphenyle**
+### Teil II Polychlorierte Biphenyle
 
 Jede Vertragspartei ist verpflichtet:
 
@@ -758,9 +762,7 @@ Jede Vertragspartei ist verpflichtet:
 - g. alle fünf Jahre einen Bericht über die Fortschritte bei der Beseitigung polychlorierter Biphenyle zu erstellen und ihn der Konferenz der Vertragsparteien nach Artikel 15 vorzulegen;
 - h. die unter Buchstabe g beschriebenen Berichte werden, soweit angebracht, von der Konferenz der Vertragsparteien bei ihren Überprüfungen hinsichtlich polychlorierter Biphenyle berücksichtigt. Die Konferenz der Vertragsparteien überprüft die Fortschritte hinsichtlich der Beseitigung polychlorierter Biphenyle unter Berücksichtigung dieser Berichte in fünfjährigen oder gegebenenfalls anderen Zeitabständen.
 
-### Teil III
-
-**Begriffsbestimmungen**
+### Teil III Begriffsbestimmungen
 
 Im Sinne dieser Anlage:
 
@@ -768,9 +770,7 @@ Im Sinne dieser Anlage:
 - b. bedeutet «Tetrabromdiphenylether» und «Pentabromdiphenylether» 2,2',4,4'-Tetrabromdiphenylether (BDE-47, CAS-Nr. 5436-43-1) und 2,2',4,4',5-Pentabromdiphenylether (BDE-99, CAS-Nr. 60348-60-9) und andere in handelsüblichem Pentabromdiphenylether enthaltene Tetra- und Pentabromdiphenylether;
 - c. bedeutet «Hexabromcyclododecan» Hexabromcyclododecan (CAS-Nr. 25637-99-4), 1,2,5,6,9,10-Hexabromcyclododecan (CAS-Nr. 3194-55-6) und seine wichtigsten Diastereomere: alpha-Hexabromcyclododecan (CAS-Nr. 134237-50-6), beta-Hexabromcyclododecan (CAS-Nr. 134237-51-7) und gamma-Hexabromcyclododecan (CAS-Nr. 134237-52-8).
 
-### Teil IV
-
-**Hexabromdiphenylether und Heptabromdiphenylether**
+### Teil IV Hexabromdiphenylether und Heptabromdiphenylether
 
 <sup>1</sup> Eine Vertragspartei kann die Verwertung von Hexabromdiphenylether und Heptabromdiphenylether enthaltenden oder möglicherweise enthaltenden Produkten und Erzeugnissen sowie die Verwendung und endgültige Entsorgung von Produkten und Erzeugnissen, die aus Hexabromdiphenylether und Heptabromdiphenylether enthaltenden oder möglicherweise enthaltenden verwerteten Materialien hergestellt sind, gestatten, sofern:
 
@@ -780,9 +780,7 @@ Im Sinne dieser Anlage:
 
 <sup>2</sup> Auf ihrer sechsten ordentlichen Tagung und auf jeder zweiten ordentlichen Tagung danach bewertet die Konferenz der Vertragsparteien die von den Vertragsparteien erzielten Fortschritte bei der Erreichung ihres endgültigen Ziels eines Verzichts auf in Produkten und Erzeugnissen enthaltenem Hexabromdiphenylether und Heptabromdiphenylether und überprüft das Erfordernis einer Fortsetzung dieser spezifischen Ausnahmeregelung. Diese Ausnahmeregelung erlischt in jedem Fall spätestens 2030.
 
-### Teil V
-
-**Tetrabromdiphenylether und Pentabromdiphenylether**
+### Teil V Tetrabromdiphenylether und Pentabromdiphenylether
 
 <sup>1</sup> Eine Vertragspartei kann die Verwertung von Tetrabromdiphenylether und Pentabromdiphenylether enthaltenden oder möglicherweise enthaltenden Produkten und Erzeugnissen sowie die Verwendung und endgültige Entsorgung von Produkten und Erzeugnissen, die aus Tetrabromdiphenylether und Pentabromdiphenylether enthaltenden oder möglicherweise enthaltenden verwerteten Materialien hergestellt sind, gestatten, sofern:
 
@@ -792,9 +790,7 @@ Im Sinne dieser Anlage:
 
 <sup>2</sup> Auf ihrer sechsten ordentlichen Tagung und auf jeder zweiten ordentlichen Tagung danach bewertet die Konferenz der Vertragsparteien die von den Vertragsparteien erzielten Fortschritte bei der Erreichung ihres endgültigen Ziels eines Verzichts auf in Produkten und Erzeugnissen enthaltenem Tetrabromdiphenylether und Pentabromdiphenylether und überprüft das Erfordernis einer Fortsetzung dieser spezifischen Ausnahmeregelung. Diese Ausnahmeregelung erlischt in jedem Fall spätestens 2030.
 
-### Teil VI
-
-**Technisches Endosulfan und seine Isomere (Endosulfan)**
+### Teil VI Technisches Endosulfan und seine Isomere (Endosulfan)
 
 Die Produktion und die Verwendung von Endosulfan werden eingestellt, vorbehaltlich für diejenigen Vertragsparteien, die dem Sekretariat ihre Absicht notifiziert haben, die Produktion und/oder die Verwendung von Endosulfan im Sinne von Artikel 4 des Übereinkommens zu gestatten. Für die folgenden Kombinationen von Kulturen und Schädlingen können spezifische Ausnahmeregelungen gestattet werden:
 
@@ -819,9 +815,7 @@ Die Produktion und die Verwendung von Endosulfan werden eingestellt, vorbehaltli
 <tr><td>Weizen</td><td>Blattläuse, Stängelbohrer, Termiten</td></tr>
 </table>
 
-### Teil VII
-
-**Hexabromcyclododecan**
+### Teil VII Hexabromcyclododecan
 
 Jede Vertragspartei, die für die Produktion und die Verwendung von Hexabromcyclododecan in Produkten und Erzeugnissen aus expandiertem oder extrudiertem Polystyrol im Gebäudesektor eine Ausnahmeregelung im Sinne von Artikel 4 hat registrieren lassen, ergreift die erforderlichen Massnahmen, damit expandiertes oder extrudiertes Polystyrol, welches Hexabromcyclododecan enthält, während seiner gesamten Lebensdauer durch seine Etikettierung oder auf andere Weise leicht identifiziert werden kann.
 
@@ -872,6 +866,40 @@ Alle Parteien, die eine Ausnahmeregelung nach Artikel 4 für die Produktion und 
 - e) unternimmt in Einklang mit Artikel 6 Absatz 1 so schnell wie möglich entschiedene Anstrengungen zum Erreichen eines umweltverträglichen Umgangs mit Feuerlöschschaumbeständen und -abfällen, die PFOA, ihre Salze oder PFOA-verwandte Verbindungen enthalten oder enthalten könnten.
 
 <sup>3</sup> Im Hinblick auf die spezifische Ausnahmeregelung für die Verwendung von Perfluoroctyliodid für die Produktion von Perfluoroctylbromid für die Herstellung pharmazeutischer Produkte, prüft die Vertragsstaatenkonferenz das weitere Erfordernis für diese spezifische Ausnahmeregelung auf ihrer 13. ordentlichen Tagung und auf jeder zweiten ordentlichen Tagung danach. Diese spezifische Ausnahmeregelung läuft in jedem Fall spätestens 2036 aus.
+
+### Teil XI Dechloran Plus
+
+<sup>1</sup> Die Verwendung von Dechloran Plus wird eingestellt; hiervon ausgenommen sind Vertragsparteien, die dem Sekretariat ihre Absicht notifiziert haben, es in Übereinstimmung mit Artikel 4 des Übereinkommens zu verwenden.
+
+<sup>2</sup> Für die Verwendung von Dechloran Plus in Ersatzteilen für die Reparatur von Erzeugnissen, bei deren Herstellung ursprünglich Dechloran Plus verwendet wurde, können bis zum Ende der Nutzungsdauer der betreffenden Erzeugnisse oder bis spätestens 2044 – je nachdem, welcher Zeitpunkt früher liegt – spezifische Ausnahmeregelungen gestattet werden, die auf die Anwendungen in den folgenden Bereichen beschränkt sind:
+
+- a. Luftfahrt (Reibungsstreifen an den Triebwerkverschalungen von Luftfahrzeugen und Dichtungsmittel zur Spaltenfüllung und Kantenversiegelung, Reparatur von Herstellungsfehlern in Triebwerken von Luftfahrzeugen, elektrische Betriebsmittel, Strukturplatten und Innenausstattung von Flugzeugkabinen usw.);
+- b. Raumfahrt (Satelliten, Sonden und andere Erkundungsgeräte, bemannte Kabinen und Laboratorien, Wärmedämmmaterialien für Raketenmotoren und Ausstattungen für den Bodendienst usw.);
+- c. Verteidigungsindustrie (Marineschiffe, Raketen, Startplattformen, Artilleriegeschütze, Kommunikationssysteme, Radar- und Lidar-Systeme und Unterstützungsausrüstungen usw.);
+- d. Motorfahrzeuge (alle Landfahrzeuge wie Autos, Motorräder, Land- und Baumaschinen sowie Gabelstapler; die Anwendungen umfassen: Kabel, Kabelbäume, Steckverbinder und Isolierbänder);
+- e. Ortsfeste Industriemaschinen (Kräne, Betonmischer und hydraulische Brecher usw.; die Anwendungen umfassen: Kabel, Kabelbäume, Steckverbinder und Isolierbänder), die in der Land- und Forstwirtschaft sowie im Baugewerbe verwendet werden;
+- f. Elektrische Betriebsmittel, die in der Schifffahrt, Gartenbewirtschaftung und Forstwirtschaft sowie im Freien verwendet werden;
+- g. Analyse-, Mess-, Kontroll-, Überwachungs-, Prüf-, Produktions- und Inspektionsgeräte.
+
+<sup>3</sup> Für die Verwendung von Dechloran Plus in Ersatzteilen für die Reparatur von Erzeugnissen, bei deren Herstellung ursprünglich Dechloran Plus verwendet wurde, können bis zum Ende der Nutzungsdauer der betreffenden Erzeugnisse unter Vorbehalt einer Überprüfung durch die Konferenz der Vertragsparteien spätestens 2041 spezifische Ausnahmeregelungen gestattet werden, die auf die Anwendungen in den folgenden Bereichen beschränkt sind:
+
+- a. Medizinische Geräte (Ultraschalldiagnosegeräte, Magnetresonanztomographen, Röntgengeräte, flexible Endoskope sowie Geräte und Anlagen für die Strahlentherapie);
+- b. In-vitro-Diagnosegeräte (Immunoassay-Analysegeräte, Hämatologie-Analysegeräte, Polymerase-Kettenreaktion-Testsysteme (PCR-Test), Gen-Analysegeräte, Analysegeräte für klinische Chemie, Blutgerinnungs- und Urinanalysegeräte).
+
+### Teil XII UV-328
+
+<sup>1</sup> Die Produktion und die Verwendung von UV-328 werden eingestellt; hiervon ausgenommen sind Vertragsparteien, die dem Sekretariat ihre Absicht notifiziert haben, es in Übereinstimmung mit Artikel 4 des Übereinkommens zu produzieren und/oder zu verwenden.
+
+<sup>2</sup> Für die Produktion und die Verwendung von UV-328 in Ersatzteilen für die Reparatur von Erzeugnissen, bei deren Herstellung ursprünglich UV‑328 verwendet wurde, können bis zum Ende der Nutzungsdauer der betreffenden Erzeugnisse oder bis spätestens 2044 – je nachdem, welcher Zeitpunkt früher liegt – spezifische Ausnahmeregelungen gestattet werden, die auf die Anwendungen in den folgenden Bereichen beschränkt sind:
+
+- a. Motorfahrzeuge (Autos, Motorräder, Land- und Baumaschinen, Gabelstapler und alle weiteren Landfahrzeuge);
+- b. Ortsfeste Industriemaschinen (Kräne, Betonmischer und hydraulische Brecher usw.), die in der Land- und Forstwirtschaft sowie im Baugewerbe verwendet werden;
+- c. Flüssigkristallanzeigen von nichtmedizinischen Analyse-, Mess-, Kontroll-, Überwachungs-, Prüf-, Produktions- und Inspektionsgeräten (Aufzeichnungsgeräte, Infrarotthermometer, digitale Speicheroszilloskope, Röntgengeräte usw.).
+
+<sup>3</sup> Für die Verwendung von UV-328 in Ersatzteilen für die Reparatur von Erzeugnissen, bei deren Herstellung UV‑328 ursprünglich verwendet wurde, können bis zum Ende der Nutzungsdauer der betreffenden Erzeugnisse unter Vorbehalt einer Überprüfung durch die Konferenz der Vertragsparteien spätestens 2041 spezifische Ausnahmeregelungen gestattet werden, die auf die Anwendungen in den folgenden Bereichen beschränkt sind:
+
+- a. Flüssigkristallanzeigen von Medizin- und In-vitro-Diagnosegeräten (Ultraschalldiagnosegeräte, flexible Endoskope, Immunoassay-Analysegeräte, Analysegeräte für klinische Chemie, Blutgerinnungsanalysegeräte usw.);
+- b. Flüssigkristallanzeigen von Analyse-, Mess-, Kontroll-, Überwachungs-, Prüf-, Produktions- und Inspektionsgeräten (Aufzeichnungsgeräte, Infrarotthermometer, digitale Speicheroszilloskope, Röntgengeräte usw.).
 
 Anlage B[^t-3]
 
@@ -1222,7 +1250,7 @@ Auf Ersuchen einer der Streitparteien kann das Schiedsgericht dringende einstwei
 
 #### Art. 7
 
-Die Streitparteien erleichtern die Arbeit des Schiedsgerichts und werden insbesondere mit allen ihnen zur Verfügung stehenden Mitteln
+Die Streitparteien erleichtern die Arbeit des Schiedsgerichts und werden insbesondere mit allen ihnen zur Verfügung stehenden Mitteln:
 
 - (a) dem Schiedsgericht alle sachdienlichen Dokumente vorlegen, Auskünfte erteilen und Erleichterungen einräumen und
 - (b) dem Schiedsgericht die Möglichkeit geben, soweit nötig Zeugen oder Sachverständige zu laden und ihre Aussagen einzuholen.
@@ -1455,7 +1483,7 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Portugal</td><td>15. Juli</td><td>2004</td><td>13. Oktober</td><td>2004</td></tr>
 <tr><td>Ruanda</td><td>5. Juni</td><td>2002 B</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Rumänien</td><td>28. Oktober</td><td>2004</td><td>26. Januar</td><td>2005</td></tr>
-<tr><td>Russland<sup>\*</sup></td><td>17. August</td><td>2011</td><td>15. November</td><td>2011</td></tr>
+<tr><td>Russland\*</td><td>17. August</td><td>2011</td><td>15. November</td><td>2011</td></tr>
 <tr><td>Salomoninseln</td><td>28. Juli</td><td>2004 B</td><td>26. Oktober</td><td>2004</td></tr>
 <tr><td>Sambia</td><td>7. Juli</td><td>2006</td><td>5. Oktober</td><td>2006</td></tr>
 <tr><td>Samoa</td><td>4. Februar</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
@@ -1472,7 +1500,7 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Slowakei</td><td>5. August</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Slowenien\*</td><td>4. Mai</td><td>2004</td><td>2. August</td><td>2004</td></tr>
 <tr><td>Somalia</td><td>26. Juli</td><td>2010 B</td><td>24. Oktober</td><td>2010</td></tr>
-<tr><td>Spanien<sup>\*</sup></td><td>28. Mai</td><td>2004</td><td>26. August</td><td>2004</td></tr>
+<tr><td>Spanien\*</td><td>28. Mai</td><td>2004</td><td>26. August</td><td>2004</td></tr>
 <tr><td>Sri Lanka</td><td>22. Dezember</td><td>2005</td><td>22. März</td><td>2006</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. Mai</td><td>2004 B</td><td>19. August</td><td>2004</td></tr>
 <tr><td>St. Lucia</td><td>4. Oktober</td><td>2002 B</td><td>17. Mai</td><td>2004</td></tr>
@@ -1504,7 +1532,7 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Vietnam</td><td>22. Juli</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>12. Februar</td><td>2008</td><td>12. Mai</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>7. März</td><td>2005 B</td><td>5. Juni</td><td>2005</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

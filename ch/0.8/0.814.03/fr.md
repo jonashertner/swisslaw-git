@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convention de Stockholm du 22 mai 2001 sur les polluants organiques persistants (Convention POP) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: fr
-version: 2023-11-16
+version: 2025-02-26
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20231116/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20231116-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20231116/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250226/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250226-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 30 juillet 2003
 
 Entrée en vigueur pour la Suisse le 17 mai 2004
 
-(État le 16 novembre 2023)
+(État le 26 février 2025)
 
 [^t-1]: [RO 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -653,7 +653,7 @@ Annexe A[^t-2]
 
 ## Élimination
 
-[^t-2]: Nouvelle teneur selon les D n<sup>o</sup> SC-7/12, SC-7/13 et SC-7/14 de la Conférence des Parties adoptées le 15 mai 2015 ([RO 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Mise à jour par les D n<sup>o</sup> SC-8/10, SC-8/11 et SC-8/12 de la Conférence des Parties adoptées le 5 mai 2017 ([RO 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), les D n° SC-9/4, SC-9/11 et SC-9/12 de la Conférence des Parties adoptées le 10 mai 2019 ([RO 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)) et la D n<sup>o</sup> SC-10/13 de la Conférence des Parties adoptée le 17 juin 2022, en vigueur pour la Suisse depuis le 16 nov. 2023 ([RO 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)).
+[^t-2]: Nouvelle teneur selon les D n<sup>o</sup> SC-7/12, SC-7/13 et SC-7/14 de la Conférence des Parties adoptées le 15 mai 2015 ([RO 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Mise à jour par les D n<sup>o</sup> SC-8/10, SC-8/11 et SC-8/12 de la Conférence des Parties adoptées le 5 mai 2017 ([RO 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), les D n° SC-9/4, SC-9/11 et SC-9/12 de la Conférence des Parties adoptées le 10 mai 2019 ([RO 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)), la D n<sup>o</sup> SC-10/13 de la Conférence des Parties adoptée le 17 juin 2022 ([RO 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)) et les D n<sup>o</sup> SC-11/9, SC-11/10 et SC-11/11 de la Conférence des Parties adoptées le 12 mai 2023, en vigueur pour la Suisse depuis le 26 fév. 2025 ([RO 2025 244](https://fedlex.data.admin.ch/eli/oc/2025/244)).
 
 ### Partie I
 
@@ -673,8 +673,10 @@ Annexe A[^t-2]
 
 <table>
 <tr><td>Substance chimique</td><td>Activité</td><td>Dérogation spécifique</td></tr>
-<tr><td>Décabromodiphenyléther (BDE-209) du décabromodiphenyléther commercial (n<sup>o</sup> de CAS: 1163-19-5)</td><td>Production</td><td>Telle qu’autorisée pour les Parties inscrites sur le registre</td></tr>
+<tr><td>Décabromodiphényléther (BDE-209) du décabromodiphenyléther commercial (n<sup>o</sup> de CAS: 1163-19-5)</td><td>Production</td><td>Telle qu’autorisée pour les Parties inscrites sur le registre</td></tr>
 <tr><td></td><td>Utilisation</td><td>Conformément à la partie IX de cette Annexe: Pièces destinées aux véhicules spécifiés au par. 2 de la partie IX de cette annexe; Types d’aéronefs pour lesquels une demande d’approbation a été présentée avant décembre 2018 et a été obtenue avant décembre 2022 et pièces de rechange destinées à ces aéronefs; Produits textiles requérant des caractéristiques d’inflammabilité, à l’exclusion des vêtements et des jouets; Additifs pour boîtiers en plastique et pièces destinées aux appareils électroménagers de chauffage, fers à repasser, ventilateurs, thermoplongeurs contenant des pièces électriques ou en contact direct avec ces pièces ou qui doivent satisfaire aux normes relatives aux retardateurs de flammes, à des teneurs inferieures à 10 % du poids de la pièce; Mousse polyuréthane pour l’isolation des bâtiments.</td></tr>
+<tr><td>Déchlorane Plus N<sup>o</sup> CAS 13560-89-9 Le «Déchlorane Plus» comprend ses isomères *syn*- (n<sup>o</sup> CAS 135821‑03‑3) et *anti*- (n<sup>o</sup> CAS 135821‑74‑8).</td><td>Production</td><td>Néant</td></tr>
+<tr><td></td><td>Utilisation</td><td>Conformément à la partie XI de la présente Annexe: – Aérospatiale – Applications dans les domaines de l’espace et de la défense – Appareils et installations d’imagerie médicale et de radiothérapie; – Pièces de rechange et fournitures pour la réparation d’articles dans des applications conformes aux dispositions des paragraphes 2 et 3 de la partie XI de la présente Annexe</td></tr>
 <tr><td>Dicofol n<sup>o</sup> CAS 115-32-2, n<sup>o</sup> CAS 10606-46-9</td><td>Production</td><td>Néant</td></tr>
 <tr><td></td><td>Utilisation</td><td>Néant</td></tr>
 <tr><td>Dieldrine\* N<sup>o</sup> de CAS: 60-57-1</td><td>Production</td><td>Néant</td></tr>
@@ -701,6 +703,8 @@ Annexe A[^t-2]
 <tr><td></td><td>Utilisation</td><td>Néant</td></tr>
 <tr><td>Lindane\* N<sup>o</sup> de CAS: 58-89-9</td><td>Production</td><td>Néant</td></tr>
 <tr><td></td><td>Utilisation</td><td>Produit pharmaceutique pour le traitement de deuxième ligne des poux et de la gale chez l’homme</td></tr>
+<tr><td>Méthoxychlore\* Sont appelés «méthoxychlore» tous les isomères possibles du diméthoxydiphényltrichloroéthane ainsi que toute combinaison de ceux-ci. Par exemple: N<sup>o</sup> CAS 72-43-5; N<sup>o</sup> CAS 30667-99-3; N<sup>o</sup> CAS 76733-77-2; N<sup>o</sup> CAS 255065-25-9; N<sup>o</sup> CAS 255065-26-0; N<sup>o</sup> CAS 59424-81-6; N<sup>o</sup> CAS 1348358-72-4.</td><td>Production</td><td>Néant</td></tr>
+<tr><td></td><td>Utilisation</td><td>Néant</td></tr>
 <tr><td>Mirex\* N<sup>o</sup> de CAS: 2385-85-5</td><td>Production</td><td>*Telle qu’autorisée pour les Parties inscrites sur le registre*</td></tr>
 <tr><td></td><td>Utilisation</td><td>*Termiticide*</td></tr>
 <tr><td>Paraffines chlorées à chaîne courte (alcanes, C<sub>10–13</sub>, chlorés)<sup>+</sup>: hydrocarbures chlorés à chaîne droite dont la chaîne va de C<sub>10</sub> à C<sub>13</sub> et dont la teneur en chlore est supérieure à 48 % du poids Par exemple, les substances portant les numéros CAS ci-après peuvent contenir des paraffines chlorées à chaîne courte: N<sup>o</sup> de CAS: 85535-84-8 N<sup>o</sup> de CAS: 68920-70-7 N<sup>o</sup> de CAS: 71011-12-6 N<sup>o</sup> de CAS: 85536-22-7 N<sup>o</sup> de CAS: 85681-73-8 N<sup>o</sup> de CAS: 108171-26-2</td><td>Production</td><td>Telle qu’autorisée pour les Parties inscrites sur le registre</td></tr>
@@ -722,6 +726,8 @@ Annexe A[^t-2]
 <tr><td></td><td>Utilisation</td><td>Articles, conformément aux dispositions de la partie V de la présente Annexe</td></tr>
 <tr><td>Toxaphène\* N<sup>o</sup> de CAS: 8001-35-2</td><td>Production</td><td>Néant</td></tr>
 <tr><td></td><td>Utilisation</td><td>Néant</td></tr>
+<tr><td>UV-328 N<sup>o</sup> CAS: 25973-55-1</td><td>Production</td><td>Telle qu’autorisée pour les Parties inscrites au registre, conformément aux dispositions de la partie XII de la présente Annexe</td></tr>
+<tr><td></td><td>Utilisation</td><td>Conformément à la partie XII de la présente Annexe: Pièces de véhicules à moteur (voitures automobiles, motocyclettes, engins agricoles et de construction, camions industriels et tout autre véhicule terrestre), telles que parechocs, grille de radiateur, spoiler, garniture intérieure, module de toit, toit souple/rigide, couvercle de coffre et essuie-glace arrière Revêtements industriels pour automobiles, engins de génie civil et véhicules de transport ferroviaire, et revêtements ultrarésistants pour structures en acier de grandes dimensions Séparateurs mécaniques pour tubes de prélèvement sanguin Films en triacétate de cellulose pour polarisateurs Papiers photographiques Pièces de rechange pour la réparation d’articles dans des applications conformes aux dispositions des paragraphes 2 et 3 de la partie XII de la présente Annexe</td></tr>
 </table>
 
 **Notes:**
@@ -868,6 +874,41 @@ Chaque Partie ayant fait enregistrer une dérogation conformément à l’art. 4
 - e) S’employer résolument à parvenir dans les meilleurs délais à une gestion écologiquement rationnelle des stocks de mousses anti-incendie et des déchets qui contiennent ou peuvent contenir de l’APFO, des sels de cet acide ou des composés apparentés, conformément au par. 1 de l’art. 6.
 
 <sup>3</sup> Concernant la dérogation spécifique relative à l’utilisation d’iodure de perfluorooctyle pour la production de bromure de perfluorooctyle en vue de la fabrication de produits pharmaceutiques, la Conférence des Parties évaluera, à sa treizième réunion ordinaire et, par la suite, lors d’une réunion ordinaire sur deux, la nécessité de maintenir cette dérogation spécifique. Celle-ci expirera en tout état de cause au plus tard en 2036.
+
+### Partie XI Déchlorane Plus
+
+<sup>1</sup> L’utilisation de Déchlorane Plus est éliminée, sauf pour les Parties ayant notifié au Secrétariat leur intention d’en utiliser, conformément à l’article 4.
+
+<sup>2</sup> Des dérogations spécifiques limitées aux applications dans les domaines ci-après peuvent être accordées concernant l’utilisation de Déchlorane Plus dans des pièces de rechange et fournitures pour la réparation d’articles dont la fabrication faisait à l’origine intervenir ce dernier, jusqu’à la fin de la vie utile des articles en question, ou jusqu’en 2044, la plus rapprochée de ces dates étant retenue:
+
+- a. aérospatiale (bandes de frottement des carénages de turbine des moteurs d’aéronefs et produits d’étanchéité pour combler les vides et sceller les bordures, réparation de défauts de fabrication dans les moteurs d’aéronefs, matériel électrique, panneaux structurels et intérieur des cabines d’aéronefs, etc.);
+- b. espace (satellites, sondes et autre matériel d’exploration, cabines et laboratoires habités, matériaux d’isolation thermique pour les moteurs de fusées et équipements de soutien au sol, etc.);
+- c. défense (vaisseaux de la marine, missiles, plateformes de lancement, pièces d’artillerie, matériel de communication, systèmes radar et lidar et équipements de soutien, etc.);
+- d. véhicules à moteur (tous véhicules terrestres, tels que voitures automobiles, motocyclettes, engins agricoles et de construction et camions industriels; les applications comprennent: câbles, faisceaux de câblage, connecteurs et rubans isolants);
+- e. machines industrielles fixes (grues à tour, bétonnières et concasseurs hydrauliques, etc.; les applications comprennent: câbles, faisceaux de câblage, connecteurs et rubans isolants) utilisées dans les secteurs de l’agriculture, de la sylviculture et du bâtiment;
+- f. matériel électrique utilisé dans la marine, en horticulture et sylviculture, et en extérieur;
+- g. outils d’analyse, de mesure, de contrôle, de surveillance, d’expérimentation, de production et d’inspection.
+
+<sup>3</sup> Des dérogations spécifiques limitées aux applications dans les domaines ci-après peuvent être accordées concernant l’utilisation de Déchlorane Plus dans des pièces de rechange et fournitures pour la réparation d’articles dont la fabrication faisait à l’origine intervenir ce dernier, jusqu’à la fin de la vie utile des articles en question, sous réserve d’un réexamen par la Conférence des parties au plus tard en 2041:
+
+- a. dispositifs médicaux (appareils de diagnostic par ultrasons, systèmes d’imagerie par résonance magnétique, systèmes d’imagerie par rayons X, endoscopes souples et appareils et installations de radiothérapie);
+- b. dispositifs de diagnostic in vitro (analyseurs immunologiques, analyseurs hématologiques, systèmes de dépistage utilisant l’amplification en chaîne par polymérase (test PCR), analyseurs génétiques, analyseurs de chimie clinique, analyseurs de coagulation sanguine, analyseurs d’urine).
+
+### Partie XII UV-328
+
+<sup>1</sup> La production et l’utilisation d’UV-328 sont éliminées, sauf pour les Parties ayant notifié au Secrétariat leur intention d’en produire ou d’en utiliser, conformément à l’article 4.
+
+<sup>2</sup> Des dérogations spécifiques limitées aux applications dans les domaines ci-après peuvent être accordées concernant la production et l’utilisation d’UV‑328 pour des pièces de rechange destinées à des articles dont la fabrication faisait à l’origine intervenir ce dernier, jusqu’à la fin de la vie utile des articles en question, ou jusqu’en 2044, la plus rapprochée de ces dates étant retenue:
+
+- a. véhicules à moteur (voitures automobiles, motocyclettes, engins agricoles et de construction, camions industriels et tout autre véhicule terrestre);
+- b. machines industrielles fixes (telles que grues à tour, bétonnières et concasseurs hydrauliques) utilisées dans les secteurs de l’agriculture, de la sylviculture et du bâtiment;
+- c. affichages à cristaux liquides d’outils d’analyse, de mesure, de contrôle, de surveillance, d’expérimentation, de production et d’inspection (enregistreurs, thermomètres à rayonnement infrarouge, oscilloscopes à stockage numérique, appareils de radiographie, etc.) autres que médicaux.
+
+<sup>3</sup> Des dérogations spécifiques limitées aux applications à des fins médicales ci-après peuvent être accordées concernant l’utilisation d’UV‑328 pour des pièces de rechange destinées à des articles dont la fabrication faisait à l’origine intervenir ce dernier, jusqu’à la fin de la vie utile des articles en question, sous réserve d’un réexamen par la Conférence des parties au plus tard en 2041:
+
+- a. affichages à cristaux liquides d’appareils médicaux et de dispositifs de diagnostic in vitro (appareils de diagnostic par ultrasons, endoscopes souples, analyseurs immunologiques, analyseurs de chimie clinique, analyseurs de coagulation sanguine, etc.);
+
+b. affichages à cristaux liquides d’outils d’analyse, de mesure, de contrôle, de surveillance, d’expérimentation, de production et d’inspection (enregistreurs, thermomètres à rayonnement infrarouge, oscilloscopes à stockage numérique, appareils de radiographie, etc.).
 
 Annexe B[^t-3]
 
@@ -1520,7 +1561,7 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Yémen</td><td colspan="2">9 janvier</td><td colspan="2">2004</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">7 juillet</td><td colspan="2">2006</td><td>5 octobre</td><td>2006</td></tr>
 <tr><td colspan="2">Zimbabwe</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">2012</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groenland. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): http://treaties.un.org ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groenland. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
 [^t-6]: [RO 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347)[4353](https://fedlex.data.admin.ch/eli/oc/2004/657), [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574), [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146), [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121)[5089](https://fedlex.data.admin.ch/eli/oc/2007/716), [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473), [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327), [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50), [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307), [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

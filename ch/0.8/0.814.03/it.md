@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convenzione di Stoccolma del 22 maggio 2001 sugli inquinanti organici persistenti (Convenzione POP) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: it
-version: 2023-11-16
+version: 2025-02-26
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20231116/it/xml/fedlex-data-admin-ch-eli-cc-2004-347-20231116-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20231116/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250226/it/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250226-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Conclusa a Stoccolma il 22 maggio 2001 Approvata dall’Assemblea federale il 2 giugno 2003[^t-1] Ratificata con strumenti depositati dalla Svizzera il 30 luglio 2003 Entrata in vigore per la Svizzera il 17 maggio 2004
 
-(Stato 16 novembre 2023)
+(Stato 26 febbraio 2025)
 
 [^t-1]: [RU 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -80,7 +80,9 @@ hanno convenuto quanto segue:
 
 Tenendo presente l’approccio precauzionale sancito dal Principio 15 della Dichiarazione di Rio sull’ambiente e lo sviluppo, la presente Convenzione ha l’obiettivo di proteggere la salute umana e l’ambiente contro gli inquinanti organici persistenti.
 
-## Definizioni
+#### Art. 2
+
+**Definizioni**
 
 Ai fini della presente Convenzione:
 
@@ -645,7 +647,7 @@ Allegato A[^t-2]
 
 ## Eliminazione
 
-[^t-2]: Nuovo testo giusta le Dec. n. SC-7/12, SC-7/13 e SC-7/14 della Conferenza delle Parti adottate il 15 mag. 2015 ([RU 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Aggiornato dalle Dec. n. SC-8/10, SC-8/11 e SC-8/12 della Conferenza delle Parti, adottate il 5 mag. 2017 ([RU 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), dalle Dec. n. SC-9/4, SC-9/11 e SC-9/12, adottate della Conferenza delle Parti il 10 mag. 2019 ([RU 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)) e dalla Dec. n. SC-10/13, adottata della Conferenza delle Parti il 17 giu. 2022, in vigore per la Svizzera il 16 nov. 2023 ([RU 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)).
+[^t-2]: Nuovo testo giusta le Dec. n. SC-7/12, SC-7/13 e SC-7/14 della Conferenza delle Parti adottate il 15 mag. 2015 ([RU 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Aggiornato dalle Dec. n. SC-8/10, SC-8/11 e SC-8/12 della Conferenza delle Parti, adottate il 5 mag. 2017 ([RU 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), dalle Dec. n. SC-9/4, SC-9/11 e SC-9/12, adottate della Conferenza delle Parti il 10 mag. 2019 ([RU 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)), dalla Dec. n. SC-10/13, adottata della Conferenza delle Parti il 17 giu. 2022, in vigore per la Svizzera il 16 nov. 2023 ([RU 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)) e dalla Dec. n. SC-11/9, SC-11/10 e SC-11/11 adottata della Conferenza delle Parti il 12 mag. 2023, in vigore per la Svizzera il 26 feb. 2025 ([RU 2025 244](https://fedlex.data.admin.ch/eli/oc/2025/244)).
 
 ### Parte I
 
@@ -664,52 +666,58 @@ Allegato A[^t-2]
 </table>
 
 <table>
-<tr><th>Sostanza chimica</th><th>Attività</th><th colspan="2">Deroga specifica</th></tr>
-<tr><td>Decabromodifeniletere (BDE-209) del decabromodifeniletere commerciale (n. CAS: 1163-19-5)</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Conformemente alla parte IX del presente allegato: Parti destinate ai veicoli specificati nel paragrafo 2 della parte IX del presente allegato; Tipi di aeromobili la cui domanda di omologazione è stata presentata prima di dicembre 2018 e ottenuta prima di dicembre 2022 e pezzi di ricambio destinati a questi aeromobili; Prodotti tessili che richiedono caratteristiche ignifughe, esclusi gli indumenti e i giocattoli; Additivi per alloggiamenti in plastica e parti destinate a elettrodomestici riscaldanti, ferri da stiro, ventilatori, riscaldatori a immersione contenenti parti elettriche o a contatto diretto con queste parti oppure che devono rispettare norme relative ai materiali ignifughi, con tenori inferiori al 10 per cento in massa della parte; Schiuma di poliuretano per l’isolamento degli edifici.</td></tr>
-<tr><td>Dicofol (n. CAS 115-32-2, n. CAS 10606-46-9)</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Nessuna</td></tr>
-<tr><td>Dieldrina\* N. CAS: 60-57-1</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">*In attività agricole*</td></tr>
-<tr><td>Endosulfano tecnico\* (N. CAS: 115-29-7) e relativi isomeri dell’endosulfano\* (N. CAS: 959-98-8 e N. CAS: 33213-65-9)</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Combinazioni coltura/parassita iscritte conformemente alle disposizioni della parte VI del presente allegato</td></tr>
-<tr><td>Endrina\* N. CAS: 72-20-8</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
-<tr><td>Eptacloro\* N. CAS: 76-44-8</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">*Insetticida contro le termiti* *Insetticida contro le termiti in strutture di case* *Insetticida contro le termiti (sotterraneo)* *Trattamento del legno* *In cassette di diramazione dei cavi interrate*</td></tr>
-<tr><td>Esabromobifenile\* N. CAS: 36355-01-8</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
-<tr><td>Esabromociclododecano</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro, conformemente alle disposizioni della parte VII del presente allegato</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Polistirene espanso ed estruso in uso nel settore edile, conformemente alle disposizioni della parte VII del presente allegato</td></tr>
-<tr><td>Esabromodifeniletere\* e eptabromodifeniletere\*</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Articoli conformemente alle disposizioni della parte IV del presente allegato</td></tr>
-<tr><td>Esaclorobenzene N. CAS: 118-74-1</td><td>Produzione</td><td colspan="2">*Come ammessa per le Parti iscritte nel registro*</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">*Prodotto intermedio* *Solvente nei pesticidi* *Prodotto intermedio in sistemi chiusi limitati a un sito*[^annexA-lvlu1-partI-2]</td></tr>
-<tr><td>Esaclorobutadiene N. CAS: 87-68-3</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
-<tr><td>Lindano\* N. CAS: 58-89-9</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Prodotto farmaceutico per il trattamento di seconda linea dei pidocchi e della scabbia nelle persone</td></tr>
-<tr><td>Mirex\* N. CAS: 2385-85-5</td><td>Produzione</td><td colspan="2">*Come ammessa per le Parti iscritte nel registro*</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">*Insetticida contro le termiti*</td></tr>
-<tr><td>Paraffine clorurate a catena corta (alcani, C<sub>10–13</sub>, clorurati)<sup>+</sup>: idrocarburi clorurati a catena lineare da C<sub>10</sub> a C<sub>13</sub> con un tenore in cloro superiore al 48 per cento in massa. Ad esempio, le sostanze con i numeri CAS seguenti possono contenere paraffine clorurate a catena corta: n. CAS 85535-84-8 n. CAS 68920-70-7 n. CAS 71011-12-6 n. CAS 85536-22-7 n. CAS 85681-73-8 n. CAS 108171-26-2</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Additivi per la fabbricazione di cinghie di trasmissione nell’industria della gomma naturale e sintetica; Pezzi di ricambio di nastri trasportatori in gomma nell’industria mineraria e forestale Industria conciaria, in particolare per l’ingrassaggio del cuoio Additivi lubrificanti, in particolare per i motori di automobili, i generatori elettrici e i parchi eolici come pure per la trivellazione alla ricerca di gas e petrolio e le raffinerie per la produzione di diesel Tubi per lampadine decorative d’esterno Vernici impermeabilizzanti e ignifughe Adesivi Trasformazione di metalli Plastificanti secondari nei cloruri di polivinile morbidi, tranne in giocattoli e prodotti per bambini</td></tr>
-<tr><td>Pentaclorobenzene\* N. CAS: 608-93-5</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
-<tr><td>Pentaclorofenolo e i suoi sali ed esteri</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte VIII del presente allegato</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte VIII del presente allegato</td></tr>
-<tr><td>Acido perfluoroesansolfonico (PFHxS), suoi sali e composti a esso correlati Per «acido perfluoroesansolfonico (PFHxS), suoi sali e composti a esso correlati» si intende: i) L’acido perfluoroesansolfonico (PFHxS; n. CAS: 355-46-4), compresi i suoi isomeri ramificati; ii) i suoi sali; iii) qualsiasi sostanza che contiene il gruppo C<sub>6</sub>F<sub>13</sub>SO<sub>2</sub>- come elemento strutturale e che potenzialmente si degrada in PFHxS.</td><td colspan="2">Produzione</td><td>Nessuna</td></tr>
-<tr><td></td><td colspan="2">Uso</td><td>Nessuna</td></tr>
-<tr><td>Acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati Per «acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati» si intende: i) l’acido perfluoroottanoico (PFOA; n. CAS 335-67-1), compresi i suoi isomeri ramificati; ii) i suoi sali; iii) i composti a esso correlati che siano, ai fini della presente Convenzione, sostanze che degradano in PFOA, compresa qualsiasi sostanza (a inclusione di sali e polimeri) avente, come uno degli elementi strutturali, un gruppo perfluoroeptil lineare o ramificato con la frazione (C<sub>7</sub>F<sub>15</sub>)C direttamente correlato a un altro atomo di carbonio; I composti seguenti non sono inclusi tra i composti correlati al PFOA: i) composti con la formula C<sub>8</sub>F<sub>17</sub>-X, dove X= F, Cl, Br; ii) fluoropolimeri con la formula CF<sub>3</sub>[CF<sub>2</sub>]n-R’, dove R’ designa un gruppo qualsiasi, con n&gt;16; iii) acidi perfluorocarbossilici e acidi fosfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno otto atomi di perfluorocarburi; iv) acidi perfluoroalcani solfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno nove atomi di perfluorocarburi; v) acido perfluoroottansolfonico (PFOS), i suoi sali e il fluoruro di solfato di perfluorottano sulfonile (PFOSF), che figurano nell’allegato B della Convenzione di Stoccolma.</td><td>Produzione</td><td colspan="2">Schiume antincendio: nessuna Altre produzioni: quali quelle autorizzate dalle Parti iscritte nel registro, conformemente alle disposizioni della parte X del presente allegato</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Conformemente alle disposizioni della parte X del presente allegato: fotolitografia o processi di incisione rivestimenti fotografici applicati alle pellicole tessuti idrorepellenti e oleorepellenti per la protezione dei lavoratori dai liquidi pericolosi che comportano rischi per la loro salute e la loro sicurezza dispositivi medici invasivi e impiantabili</td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2">Schiume antincendio per l’eliminazione dei vapori dei combustibili liquidi e per gli incendi di combustibili liquidi (incendi di classe B) già installate in sistemi, sia mobili sia fissi, conformemente al paragrafo 2 della parte X del presente allegato. Uso di ioduro di perfluoroottile per la produzione di bromuro di perfluoroottile per la fabbricazione di prodotti farmaceutici conformemente alle disposizioni del paragrafo 3 della parte X del presente allegato. Produzione di politetrafluoroetilene (PTFE) e di fluoruro di polivinilidene (PVDF) per la fabbricazione di: – membrane per la filtrazione del gas, membrane per la filtrazione dell’acqua e membrane per tessuti medicali ad alte prestazioni e resistenti alla corrosione – scambiatori di calore per il recupero di calore residuo industriale – sigillanti industriali in grado di impedire la dispersione di composti organici volatili e particolato PM2,5 Produzione di polifluoroetilene-propilene per la fabbricazione di fili e cavi elettrici ad alta tensione per la trasmissione di corrente Produzione di fluoroelastomeri per la fabbricazione di guarnizioni O-ring, di cinghie di trasmissione trapezoidali e di accessori in plastica per gli interni dei veicoli automobili</td></tr>
-<tr><td>Bifenili policlorurati (PCB)\*</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Articoli in uso conformemente alle disposizioni della parte II del presente allegato</td></tr>
-<tr><td>Policloronaftaleni, segnatamente i dicloronaftaleni, i tricloronaftaleni, i pentacloronaftaleni, gli esacloronaftaleni, gli eptacloronaftaleni, l’ottacloronaftalene</td><td>Produzione</td><td colspan="2">Intermediari nella produzione dei polifluoronaftaleni, segnatamente l’ottafluoronaftalene</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Produzione di polifluoronaftaleni, segnatamente di ottafluoronaftalene</td></tr>
-<tr><td>Tetrabromodifeniletere\* e pentabromodifeniletere\*</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Articoli conformemente alle disposizioni della parte V del presente allegato</td></tr>
-<tr><td>Toxafene\* N. CAS: 8001-35-2</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
-<tr><td></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><th colspan="2">Sostanza chimica</th><th>Attività</th><th colspan="2">Deroga specifica</th></tr>
+<tr><td colspan="2">Decabromodifeniletere (BDE-209) del decabromodifeniletere commerciale (n. CAS: 1163-19-5)</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Conformemente alla parte IX del presente allegato: Parti destinate ai veicoli specificati nel paragrafo 2 della parte IX del presente allegato; Tipi di aeromobili la cui domanda di omologazione è stata presentata prima di dicembre 2018 e ottenuta prima di dicembre 2022 e pezzi di ricambio destinati a questi aeromobili; Prodotti tessili che richiedono caratteristiche ignifughe, esclusi gli indumenti e i giocattoli; Additivi per alloggiamenti in plastica e parti destinate a elettrodomestici riscaldanti, ferri da stiro, ventilatori, riscaldatori a immersione contenenti parti elettriche o a contatto diretto con queste parti oppure che devono rispettare norme relative ai materiali ignifughi, con tenori inferiori al 10 per cento in massa della parte; Schiuma di poliuretano per l’isolamento degli edifici.</td></tr>
+<tr><td>Dechlorane Plus N. CAS 13560-89-9 Il «Dechlorane Plus» comprende i suoi isomeri *sin-* (n. CAS 135821‑03‑3) e *anti-* (n. CAS 135821‑74‑8).</td><td colspan="2">Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td></td><td colspan="2">Uso</td><td colspan="2">Conformemente alla parte XI del presente allegato: – Aerospaziale – Applicazioni nel settore dello spazio e della difesa – Apparecchiature e impianti di diagnostica per immagini e di radioterapia – Pezzi di ricambio e forniture per la riparazione di articoli nelle applicazioni conformi alle disposizioni dei paragrafi 2 e 3 della parte XI del presente allegato</td></tr>
+<tr><td colspan="2">Dicofol (n. CAS 115-32-2, n. CAS 10606-46-9)</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2">Dieldrina\* N. CAS: 60-57-1</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">*In attività agricole*</td></tr>
+<tr><td colspan="2">Endosulfano tecnico\* (N. CAS: 115-29-7) e relativi isomeri dell’endosulfano\* (N. CAS: 959-98-8 e N. CAS: 33213-65-9)</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Combinazioni coltura/parassita iscritte conformemente alle disposizioni della parte VI del presente allegato</td></tr>
+<tr><td colspan="2">Endrina\* N. CAS: 72-20-8</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><td colspan="2">Eptacloro\* N. CAS: 76-44-8</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">*Insetticida contro le termiti* *Insetticida contro le termiti in strutture di case* *Insetticida contro le termiti (sotterraneo)* *Trattamento del legno* *In cassette di diramazione dei cavi interrate*</td></tr>
+<tr><td colspan="2">Esabromobifenile\* N. CAS: 36355-01-8</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><td colspan="2">Esabromociclododecano</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro, conformemente alle disposizioni della parte VII del presente allegato</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Polistirene espanso ed estruso in uso nel settore edile, conformemente alle disposizioni della parte VII del presente allegato</td></tr>
+<tr><td colspan="2">Esabromodifeniletere\* e eptabromodifeniletere\*</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Articoli conformemente alle disposizioni della parte IV del presente allegato</td></tr>
+<tr><td colspan="2">Esaclorobenzene N. CAS: 118-74-1</td><td>Produzione</td><td colspan="2">*Come ammessa per le Parti iscritte nel registro*</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">*Prodotto intermedio* *Solvente nei pesticidi* *Prodotto intermedio in sistemi chiusi limitati a un sito*[^annexA-lvlu1-partI-2]</td></tr>
+<tr><td colspan="2">Esaclorobutadiene N. CAS: 87-68-3</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><td colspan="2">Lindano\* N. CAS: 58-89-9</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Prodotto farmaceutico per il trattamento di seconda linea dei pidocchi e della scabbia nelle persone</td></tr>
+<tr><td>Metossicloro\* Sono detti «metossicloro» tutti gli isomeri possibili del dimetossidifeniltricloroetano e tutte le loro combinazioni. Ad esempio: n. CAS 72-43-5 n. CAS 30667-99-3 n. CAS 76733-77-2 n. CAS 255065-25-9 n. CAS 255065-26-0 n. CAS 59424-81-6 n. CAS 1348358-72-4</td><td colspan="2">Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td></td><td colspan="2">Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><td colspan="2">Mirex\* N. CAS: 2385-85-5</td><td>Produzione</td><td colspan="2">*Come ammessa per le Parti iscritte nel registro*</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">*Insetticida contro le termiti*</td></tr>
+<tr><td colspan="2">Paraffine clorurate a catena corta (alcani, C<sub>10–13</sub>, clorurati)<sup>+</sup>: idrocarburi clorurati a catena lineare da C<sub>10</sub> a C<sub>13</sub> con un tenore in cloro superiore al 48 per cento in massa. Ad esempio, le sostanze con i numeri CAS seguenti possono contenere paraffine clorurate a catena corta: n. CAS 85535-84-8 n. CAS 68920-70-7 n. CAS 71011-12-6 n. CAS 85536-22-7 n. CAS 85681-73-8 n. CAS 108171-26-2</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Additivi per la fabbricazione di cinghie di trasmissione nell’industria della gomma naturale e sintetica; Pezzi di ricambio di nastri trasportatori in gomma nell’industria mineraria e forestale Industria conciaria, in particolare per l’ingrassaggio del cuoio Additivi lubrificanti, in particolare per i motori di automobili, i generatori elettrici e i parchi eolici come pure per la trivellazione alla ricerca di gas e petrolio e le raffinerie per la produzione di diesel Tubi per lampadine decorative d’esterno Vernici impermeabilizzanti e ignifughe Adesivi Trasformazione di metalli Plastificanti secondari nei cloruri di polivinile morbidi, tranne in giocattoli e prodotti per bambini</td></tr>
+<tr><td colspan="2">Pentaclorobenzene\* N. CAS: 608-93-5</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><td colspan="2">Pentaclorofenolo e i suoi sali ed esteri</td><td>Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte VIII del presente allegato</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte VIII del presente allegato</td></tr>
+<tr><td colspan="2">Acido perfluoroesansolfonico (PFHxS), suoi sali e composti a esso correlati Per «acido perfluoroesansolfonico (PFHxS), suoi sali e composti a esso correlati» si intende: i) L’acido perfluoroesansolfonico (PFHxS; n. CAS: 355-46-4), compresi i suoi isomeri ramificati; ii) i suoi sali; iii) qualsiasi sostanza che contiene il gruppo C<sub>6</sub>F<sub>13</sub>SO<sub>2</sub>- come elemento strutturale e che potenzialmente si degrada in PFHxS.</td><td colspan="2">Produzione</td><td>Nessuna</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Uso</td><td>Nessuna</td></tr>
+<tr><td colspan="2">Acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati Per «acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati» si intende: i) l’acido perfluoroottanoico (PFOA; n. CAS 335-67-1), compresi i suoi isomeri ramificati; ii) i suoi sali; iii) i composti a esso correlati che siano, ai fini della presente Convenzione, sostanze che degradano in PFOA, compresa qualsiasi sostanza (a inclusione di sali e polimeri) avente, come uno degli elementi strutturali, un gruppo perfluoroeptil lineare o ramificato con la frazione (C<sub>7</sub>F<sub>15</sub>)C direttamente correlato a un altro atomo di carbonio; I composti seguenti non sono inclusi tra i composti correlati al PFOA: i) composti con la formula C<sub>8</sub>F<sub>17</sub>-X, dove X= F, Cl, Br; ii) fluoropolimeri con la formula CF<sub>3</sub>[CF<sub>2</sub>]n-R’, dove R’ designa un gruppo qualsiasi, con n&gt;16; iii) acidi perfluorocarbossilici e acidi fosfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno otto atomi di perfluorocarburi; iv) acidi perfluoroalcani solfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno nove atomi di perfluorocarburi; v) acido perfluoroottansolfonico (PFOS), i suoi sali e il fluoruro di solfato di perfluorottano sulfonile (PFOSF), che figurano nell’allegato B della Convenzione di Stoccolma.</td><td>Produzione</td><td colspan="2">Schiume antincendio: nessuna Altre produzioni: quali quelle autorizzate dalle Parti iscritte nel registro, conformemente alle disposizioni della parte X del presente allegato</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Conformemente alle disposizioni della parte X del presente allegato: fotolitografia o processi di incisione rivestimenti fotografici applicati alle pellicole tessuti idrorepellenti e oleorepellenti per la protezione dei lavoratori dai liquidi pericolosi che comportano rischi per la loro salute e la loro sicurezza dispositivi medici invasivi e impiantabili</td></tr>
+<tr><td colspan="2">[tab]</td><td></td><td colspan="2">Schiume antincendio per l’eliminazione dei vapori dei combustibili liquidi e per gli incendi di combustibili liquidi (incendi di classe B) già installate in sistemi, sia mobili sia fissi, conformemente al paragrafo 2 della parte X del presente allegato. Uso di ioduro di perfluoroottile per la produzione di bromuro di perfluoroottile per la fabbricazione di prodotti farmaceutici conformemente alle disposizioni del paragrafo 3 della parte X del presente allegato. Produzione di politetrafluoroetilene (PTFE) e di fluoruro di polivinilidene (PVDF) per la fabbricazione di: – membrane per la filtrazione del gas, membrane per la filtrazione dell’acqua e membrane per tessuti medicali ad alte prestazioni e resistenti alla corrosione – scambiatori di calore per il recupero di calore residuo industriale – sigillanti industriali in grado di impedire la dispersione di composti organici volatili e particolato PM2,5 Produzione di polifluoroetilene-propilene per la fabbricazione di fili e cavi elettrici ad alta tensione per la trasmissione di corrente Produzione di fluoroelastomeri per la fabbricazione di guarnizioni O-ring, di cinghie di trasmissione trapezoidali e di accessori in plastica per gli interni dei veicoli automobili</td></tr>
+<tr><td colspan="2">Bifenili policlorurati (PCB)\*</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Articoli in uso conformemente alle disposizioni della parte II del presente allegato</td></tr>
+<tr><td colspan="2">Policloronaftaleni, segnatamente i dicloronaftaleni, i tricloronaftaleni, i pentacloronaftaleni, gli esacloronaftaleni, gli eptacloronaftaleni, l’ottacloronaftalene</td><td>Produzione</td><td colspan="2">Intermediari nella produzione dei polifluoronaftaleni, segnatamente l’ottafluoronaftalene</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Produzione di polifluoronaftaleni, segnatamente di ottafluoronaftalene</td></tr>
+<tr><td colspan="2">Tetrabromodifeniletere\* e pentabromodifeniletere\*</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Articoli conformemente alle disposizioni della parte V del presente allegato</td></tr>
+<tr><td colspan="2">Toxafene\* N. CAS: 8001-35-2</td><td>Produzione</td><td colspan="2">Nessuna</td></tr>
+<tr><td colspan="2"></td><td>Uso</td><td colspan="2">Nessuno</td></tr>
+<tr><td>UV-328 N. CAS 25973-55-1</td><td colspan="2">Produzione</td><td colspan="2">Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte XII del presente allegato</td></tr>
+<tr><td></td><td colspan="2">Uso</td><td colspan="2">Conformemente alla parte XII del presente allegato: Parti di veicoli a motore (automobili, motociclette, macchine agricole ed edili, autocarri industriali e qualsiasi altro veicolo terrestre) quali paraurti, griglie di radiatori, spoiler, rivestimenti interni, moduli del tetto, hard/soft top, portellone del vano bagagli e tergicristallo posteriore Rivestimenti industriali per automobili, macchinari del genio civile e veicoli per il trasporto ferroviario come pure rivestimenti ultraresistenti per strutture di grandi dimensioni in acciaio Separatori meccanici per provette per il prelievo di sangue Pellicole in triacetato di cellulosa per polarizzatori Carte fotografiche Pezzi di ricambio per la riparazione di articoli nelle applicazioni conformi alle disposizioni dei paragrafi 2 e 3 della parte XII del presente allegato</td></tr>
 </table>
 
 **Note:**
@@ -856,6 +864,41 @@ Ciascuna parte che ha fatto registrare una deroga conformemente all’articolo 4
 - e) impegnarsi con determinazione per giungere in tempi brevi a una gestione ecologicamente razionale dei rilasci delle scorte di schiume antincendio e dei rifiuti che contengono o possono contenere PFOA, sali di questo acido o composti a esso correlati, conformemente al paragrafo 1 dell’articolo 6.
 
 <sup>3</sup> Quanto alla deroga specifica relativa all’uso di ioduro di perfluoroottile per la produzione di bromuro di perfluoroottile ai fini della fabbricazione di prodotti farmaceutici, in occasione della sua tredicesima riunione ordinaria e, in seguito, in occasione di una riunione ordinaria su due, la Conferenza delle Parti valuterà la necessità di mantenere questa deroga specifica. Quest’ultima scadrà in ogni caso al più tardi nel 2036.
+
+### Parte XI Dechlorane Plus
+
+<sup>1</sup> L’uso di Dechlorane Plus è eliminato, salvo per le Parti che hanno notificato al Segretariato la loro intenzione di usarlo, conformemente all’articolo 4.
+
+<sup>2</sup> Deroghe specifiche limitate alle applicazioni negli ambiti menzionati di seguito possono essere accordate relativamente all’uso di Dechlorane Plus nei pezzi di ricambio e nelle forniture per la riparazione di articoli la cui fabbricazione implicava l’uso di questa sostanza, fino al termine della durata di vita di tali articoli oppure fino al 2044, a seconda di quale interviene prima:
+
+- a. aerospaziale (pattini delle carenature delle turbine dei motori di aeromobili e prodotti d’impermeabilizzazione per colmare gli spazi vuoti e sigillare i bordi, riparazione di difetti di fabbricazione nei motori di aeromobili, materiale elettrico, pannelli strutturali e interno delle cabine di aeromobili ecc.);
+- b. spazio (satelliti, sonde e altro materiale esplorativo, cabine e laboratori abitati, materiale di isolamento termico per i motori di razzi e le installazioni di supporto a terra ecc.);
+- c. difesa (navi della marina, missili, piattaforme di lancio, pezzi d’artiglieria, materiale di comunicazione, sistemi radar e lidar nonché dispositivi di sostegno ecc.);
+- d. veicoli a motore (tutti i veicoli terrestri quali automobili, motociclette, macchine agricole ed edili, autocarri industriali; le applicazioni includono: cavi, fasci di cavi, connettori e nastri isolanti);
+- e. macchinari industriali fissi (gru a torre, betoniere e frantoi idraulici ecc.; le applicazioni includono: cavi, fasci di cavi, connettori e nastri isolanti) utilizzati nei settori dell’agricoltura, della selvicoltura e dell’edilizia;
+- f. materiale elettrico utilizzato nella marina, nell’orticoltura, nella selvicoltura e all’esterno;
+- g. strumenti di analisi, di misurazione, di controllo, di sorveglianza, di sperimentazione, di produzione e di ispezione.
+
+<sup>3</sup> Deroghe specifiche limitate alle applicazioni negli ambiti menzionati di seguito possono essere accordate relativamente all’uso di Dechlorane Plus nei pezzi di ricambio e nelle forniture per la riparazione di articoli la cui fabbricazione implicava l’uso di questa sostanza, fino al termine della durata di vita di tali articoli, con riserva di un riesame da parte della Conferenza delle Parti entro il 2041:
+
+- a. dispositivi medici (apparecchi per la diagnostica a ultrasuoni, sistemi di diagnostica per immagini a risonanza magnetica, sistemi di diagnostica per immagini a raggi X, endoscopi flessibili e apparecchiature e impianti di radioterapia);
+- b. dispositivi per la diagnostica in vitro (analizzatori immunologici, analizzatori ematologici, sistemi di rilevamento mediante reazione a catena della polimerasi [test PCR], analizzatori genetici, analizzatori di chimica clinica, analizzatori di coagulazione del sangue, analizzatori delle urine).
+
+### Parte XII UV-328
+
+<sup>1</sup> La produzione e l’uso di UV-328 sono eliminati, salvo per le Parti che hanno notificato al Segretariato la loro intenzione di produrlo e/o usarlo, conformemente all’articolo 4.
+
+<sup>2</sup> Deroghe specifiche limitate alle applicazioni negli ambiti menzionati di seguito possono essere accordate relativamente alla produzione e all’uso di UV‑328 per pezzi di ricambio destinati ad articoli la cui fabbricazione implicava l’uso di questa sostanza, fino al termine della durata di vita di tali articoli oppure fino al 2044, a seconda di quale interviene prima:
+
+- a. veicoli a motore (automobili, motociclette, macchine agricole ed edili, autocarri industriali e tutti gli altri veicoli terrestri);
+- b. macchinari industriali fissi (quali gru a torre, betoniere e frantoi idraulici) utilizzati nei settori dell’agricoltura, della selvicoltura e dell’edilizia;
+- c. schermi a cristalli liquidi di strumenti di analisi, di misurazione, di controllo, di sorveglianza, di sperimentazione, di produzione e di ispezione (registratori, termometri a infrarossi, oscilloscopi a memoria digitale, apparecchi per radiografia ecc.) diversi da quelli medici.
+
+<sup>3</sup> Deroghe specifiche limitate alle applicazioni in ambito medico menzionate di seguito possono essere accordate relativamente all’uso di UV‑328 per pezzi di ricambio destinati ad articoli la cui fabbricazione implicava l’uso di questa sostanza, fino al termine della durata di vita di tali articoli, con riserva di un riesame da parte della Conferenza delle Parti entro il 2041:
+
+- a. schermi a cristalli liquidi di dispositivi medici e di diagnostica in vitro (apparecchi per la diagnostica a ultrasuoni, endoscopi flessibili, analizzatori immunologici, analizzatori di chimica clinica, analizzatori di coagulazione del sangue ecc.);
+
+b. schermi a cristalli liquidi di strumenti di analisi, di misurazione, di controllo, di sorveglianza, di sperimentazione, di produzione e di ispezione (registratori, termometri a infrarossi, oscilloscopi a memoria digitale, apparecchi per radiografia ecc.).
 
 Allegato B[^t-3]
 
@@ -1126,7 +1169,6 @@ Lo scopo dell’esame è valutare se una sostanza chimica può, essendo trasport
 - e) esposizione a livello locale e, in particolare, in seguito al trasporto a lunga distanza nell’ambiente, comprese informazioni sulla biodisponibilità;
 - f) valutazioni o profili del rischio a livello nazionale e internazionale, informazioni sull’etichettatura e classi di rischio, se disponibili;
 - g) status della sostanza chimica ai sensi delle convenzioni internazionali.
-- [tab]
 
 Allegato F
 
@@ -1172,8 +1214,7 @@ Le possibili misure di controllo delle sostanze chimiche esaminate in vista di u
 
 - e) accesso alle informazioni ed educazione del pubblico;
 - f) stato delle capacità di controllo e monitoraggio;
-- a) qualsiasi misura di controllo nazionale o regionale adottata, comprese informazioni sulle alternative e altre informazioni pertinenti concernenti la gestione dei rischi.
-- [tab]
+- g) qualsiasi misura di controllo nazionale o regionale adottata, comprese informazioni sulle alternative e altre informazioni pertinenti concernenti la gestione dei rischi.
 
 Allegato G[^t-5]
 
@@ -1505,7 +1546,7 @@ Campo d’applicazione il 13 maggio 2022[^t-6]
 <tr><td>Yemen</td><td>9 gennaio</td><td>2004</td><td>17 maggio</td><td>2004</td></tr>
 <tr><td>Zambia</td><td>7 luglio</td><td>2006</td><td>5 ottobre</td><td>2006</td></tr>
 <tr><td>Zimbabwe</td><td>1° marzo</td><td>2012</td><td>30 maggio</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto interna-zionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/), oppure ottenuto presso la Direzione del diritto interna-zionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> La Conv. non vale per Tokelau.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Al Regno in Europa.</td></tr>
