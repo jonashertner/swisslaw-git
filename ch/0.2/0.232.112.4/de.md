@@ -3,11 +3,11 @@ sr: "0.232.112.4"
 title: Protokoll vom 27. Juni 1989 zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350"
 language: de
-version: 2022-05-24
+version: 2025-02-26
 adopted: 1989-06-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20220524/de/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20220524-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20220524/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20250226/de/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20250226-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20250226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 2350; BBl **1996** II 1425
 
 Abgeschlossen in Madrid am 27. Juni 1989 Von der Bundesversammlung genehmigt am 1. Oktober 1996[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Februar 1997 In Kraft getreten für die Schweiz am 1. Mai 1997
 
-(Stand am 24. Mai 2022)
+(Stand am 26. Februar 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 1. Okt. 1996 ([AS 1997 2283](https://fedlex.data.admin.ch/eli/oc/1997/2283_2283_2283))
 
@@ -433,12 +433,12 @@ Soweit die Vertragsparteien betroffen sind, werden die Finanzen des Verbands nac
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 24. Mai 2022[^t-2]
+Geltungsbereich am 26. Februar 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26. März</td><td>2018 B</td><td>26. Juni</td><td>2018</td></tr>
-<tr><td>Afrikanische Organisation für Geistiges Eigentum (OAPI) \*</td><td>5. Dezember</td><td>2014 B</td><td>5. März</td><td>2015</td></tr>
+<tr><td>Afrikanische Organisation für Geistiges Eigentum (OAPI)\*</td><td>5. Dezember</td><td>2014 B</td><td>5. März</td><td>2015</td></tr>
 <tr><td>Ägypten</td><td>3. Juni</td><td>2009</td><td>3. September</td><td>2009</td></tr>
 <tr><td>Albanien</td><td>30. April</td><td>2003 B</td><td>30. Juli</td><td>2003</td></tr>
 <tr><td>Algerien\*</td><td>31. Juli</td><td>2015 B</td><td>31. Oktober</td><td>2015</td></tr>
@@ -449,6 +449,7 @@ Geltungsbereich am 24. Mai 2022[^t-2]
 <tr><td>Bahrain\*</td><td>15. September</td><td>2005 B</td><td>15. Dezember</td><td>2005</td></tr>
 <tr><td>Belarus\*</td><td>18. Oktober</td><td>2001 B</td><td>18. Januar</td><td>2002</td></tr>
 <tr><td>Belgien\*</td><td>22. Dezember</td><td>1997</td><td>1. April</td><td>1998</td></tr>
+<tr><td>Belize\*</td><td>24. November</td><td>2022 B</td><td>24. Februar</td><td>2023</td></tr>
 <tr><td>Bhutan</td><td>4. Mai</td><td>2000 B</td><td>4. August</td><td>2000</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>27. Oktober</td><td>2008 B</td><td>27. Januar</td><td>2009</td></tr>
 <tr><td>Botsuana</td><td>5. September</td><td>2006 B</td><td>5. Dezember</td><td>2006</td></tr>
@@ -481,8 +482,9 @@ Geltungsbereich am 24. Mai 2022[^t-2]
 <tr><td>Japan\*</td><td>14. Dezember</td><td>1999 B</td><td>14. März</td><td>2000</td></tr>
 <tr><td>Kambodscha\*</td><td>5. März</td><td>2015 B</td><td>5. Juni</td><td>2015</td></tr>
 <tr><td>Kanada\*</td><td>17. März</td><td>2019 B</td><td>17. Juni</td><td>2019</td></tr>
-<tr><td>Kap Verde</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
+<tr><td>Kap Verde\*</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
 <tr><td>Kasachstan</td><td>8. September</td><td>2010 B</td><td>8. Dezember</td><td>2010</td></tr>
+<tr><td>Katar\*</td><td>3. Mai</td><td>2024 B</td><td>3. August</td><td>2024</td></tr>
 <tr><td>Kenia\*</td><td>26. März</td><td>1998 B</td><td>26. Juni</td><td>1998</td></tr>
 <tr><td>Kolumbien\*</td><td>29. Mai</td><td>2012 B</td><td>29. August</td><td>2012</td></tr>
 <tr><td>Kirgisistan\*</td><td>17. März</td><td>2004 B</td><td>17. Juni</td><td>2004</td></tr>
@@ -501,6 +503,7 @@ Geltungsbereich am 24. Mai 2022[^t-2]
 <tr><td>Malawi\*</td><td>25. September</td><td>2018 B</td><td>25. Dezember</td><td>2018</td></tr>
 <tr><td>Malaysia\*</td><td>27. September</td><td>2019 B</td><td>27. Dezember</td><td>2019</td></tr>
 <tr><td>Marokko\*</td><td>8. Juli</td><td>1999</td><td>8. Oktober</td><td>1999</td></tr>
+<tr><td>Mauritius\*</td><td>6. Februar</td><td>2023 B</td><td>6. Mai</td><td>2023</td></tr>
 <tr><td>Mexiko\*</td><td>19. November</td><td>2012 B</td><td>19. Februar</td><td>2013</td></tr>
 <tr><td>Moldau\*</td><td>1. September</td><td>1997 B</td><td>1. Dezember</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>27. Juni</td><td>1996</td><td>27. September</td><td>1996</td></tr>
@@ -557,10 +560,10 @@ Geltungsbereich am 24. Mai 2022[^t-2]
 <tr><td>Insel Man\*</td><td>6. April</td><td>1995</td><td>1. Dezember</td><td>1995</td></tr>
 <tr><td>Vietnam\*</td><td>11. April</td><td>2006 B</td><td>11. Juli</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>4. August</td><td>2003 B</td><td>4. November</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao. <sup>b</sup> Anwendbar auf die Überseedepartemente und -territorien. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/registration/madrid\_protocol/index.html](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao. <sup>b</sup> Anwendbar auf die Überseedepartemente und -territorien. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

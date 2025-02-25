@@ -3,11 +3,11 @@ sr: "0.232.112.4"
 title: "Protocole du 27 juin 1989 relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350"
 language: fr
-version: 2022-05-24
+version: 2025-02-26
 adopted: 1989-06-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20220524/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20220524-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20220524/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20250226/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20250226-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20250226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> février 199
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> mai 1997
 
-(État le 24 mai 2022)
+(État le 26 février 2025)
 
 [^t-1]: RO **1997** 2350; FF **1996** II 1393 Art. 1 al. 1 let. a de l’AF du 1<sup>er</sup> oct. 1996 (RO **1997** 2283).
 
@@ -438,7 +438,7 @@ En ce qui concerne les parties contractantes, les finances de l’Union sont ré
 
 (Suivent les signatures)
 
-Champ d’application le 24 mai 2022[^t-2]
+Champ d’application le 26 février 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -454,6 +454,7 @@ Champ d’application le 24 mai 2022[^t-2]
 <tr><td>Bahreïn\*</td><td>15 septembre</td><td>2005 A</td><td>15 décembre</td><td>2005</td></tr>
 <tr><td>Bélarus\*</td><td>18 octobre</td><td>2001 A</td><td>18 janvier</td><td>2002</td></tr>
 <tr><td>Belgique\*</td><td>22 décembre</td><td>1997</td><td>1<sup>er</sup> avril</td><td>1998</td></tr>
+<tr><td>Belize\*</td><td>24 novembre</td><td>2022 A</td><td>24 février</td><td>2023</td></tr>
 <tr><td>Bhoutan</td><td>4 mai</td><td>2000 A</td><td>4 août</td><td>2000</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>27 octobre</td><td>2008 A</td><td>27 janvier</td><td>2009</td></tr>
 <tr><td>Botswana</td><td>5 septembre</td><td>2006 A</td><td>5 décembre</td><td>2006</td></tr>
@@ -462,7 +463,7 @@ Champ d’application le 24 mai 2022[^t-2]
 <tr><td>Bulgarie\*</td><td>2 juillet</td><td>2001 A</td><td>2 octobre</td><td>2001</td></tr>
 <tr><td>Cambodge\*</td><td>5 mars</td><td>2015 A</td><td>5 juin</td><td>2015</td></tr>
 <tr><td>Canada\*</td><td>17 mars</td><td>2019 A</td><td>17 juin</td><td>2019</td></tr>
-<tr><td>Cap-Vert</td><td>6 avril</td><td>2022 A</td><td>6 juillet</td><td>2022</td></tr>
+<tr><td>Cap-Vert\*</td><td>6 avril</td><td>2022 A</td><td>6 juillet</td><td>2022</td></tr>
 <tr><td>Chili\*</td><td>4 avril</td><td>2022 A</td><td>4 juillet</td><td>2022</td></tr>
 <tr><td>Chine\* <sup>a</sup></td><td>1<sup>er</sup> septembre</td><td>1995 A</td><td>1<sup>er</sup> décembre</td><td>1995</td></tr>
 <tr><td>Chypre</td><td>4 août</td><td>2003 A</td><td>4 novembre</td><td>2003</td></tr>
@@ -511,6 +512,7 @@ Champ d’application le 24 mai 2022[^t-2]
 <tr><td>Malaisie\*</td><td>27 septembre</td><td>2018 A</td><td>27 décembre</td><td>2018</td></tr>
 <tr><td>Malawi\*</td><td>25 septembre</td><td>2018 A</td><td>25 décembre</td><td>2018</td></tr>
 <tr><td>Maroc\*</td><td>8 juillet</td><td>1999</td><td>8 octobre</td><td>1999</td></tr>
+<tr><td>Maurice\*</td><td>6 février</td><td>2023 A</td><td>6 mai</td><td>2023</td></tr>
 <tr><td>Mexique\*</td><td>19 novembre</td><td>2012 A</td><td>19 février</td><td>2013</td></tr>
 <tr><td>Moldova\*</td><td>1<sup>er</sup> septembre</td><td>1997 A</td><td>1<sup>er</sup> décembre</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>27 juin</td><td>1996</td><td>27 septembre</td><td>1996</td></tr>
@@ -531,6 +533,7 @@ Champ d’application le 24 mai 2022[^t-2]
 <tr><td>Philippines\*</td><td>25 avril</td><td>2012 A</td><td>25 juillet</td><td>2012</td></tr>
 <tr><td>Pologne\*</td><td>4 décembre</td><td>1996 A</td><td>4 mars</td><td>1997</td></tr>
 <tr><td>Portugal</td><td>20 décembre</td><td>1996</td><td>20 mars</td><td>1997</td></tr>
+<tr><td>Qatar\*</td><td>3 mai</td><td>2024 A</td><td>3 août</td><td>2024</td></tr>
 <tr><td>République tchèque</td><td>25 juin</td><td>1996 A</td><td>25 septembre</td><td>1996</td></tr>
 <tr><td>Roumanie</td><td>28 avril</td><td>1998</td><td>28 juillet</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>6 avril</td><td>1995</td><td>1<sup>er</sup> décembre</td><td>1995</td></tr>
@@ -562,10 +565,10 @@ Champ d’application le 24 mai 2022[^t-2]
 <tr><td>Vietnam\*</td><td>11 avril</td><td>2006 A</td><td>11 juillet</td><td>2006</td></tr>
 <tr><td>Zambie\*</td><td>15 août</td><td>2001 A</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Zimbabwe\*</td><td>11 décembre</td><td>2014 A</td><td>11 mars</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Non applicable à la région administrative spéciale de Hong Kong et à la région administrative spéciale de Macao. <sup>b</sup> Applicable aux départements et territoires d’outre-mer. <sup>c</sup> Le Protocole ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int/treaties/fr/registration/madrid\_protocol/index.html](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Non applicable à la région administrative spéciale de Hong Kong et à la région administrative spéciale de Macao. <sup>b</sup> Applicable aux départements et territoires d’outre-mer. <sup>c</sup> Le Protocole ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-2]: [RO 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
