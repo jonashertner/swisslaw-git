@@ -3,18 +3,18 @@ sr: "442.129"
 title: Ordonnance du DFI du 23 décembre 2024 instituant un régime d’encouragement des maisons d’édition
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/16"
 language: fr
-version: 2025-02-07
+version: 2025-02-26
 adopted: 2024-12-23
 in_force: 2025-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250207/fr/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250207-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250226/fr/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250226-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI instituant un régime d’encouragement des maisons d’édition
 
-du 23 décembre 2024 (État le 7 février 2025)
+du 23 décembre 2024 (État le 26 février 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -92,7 +92,7 @@ Ne peuvent bénéficier d’un soutien:
 
 **Chiffre d’affaires de référence et pondération**
 
-<sup>1</sup> La contribution structurelle d’une maison d’édition se calcule sur la base de la moyenne de son chiffre d’affaires de référence pour les quatre dernières années.
+<sup>1</sup> La contribution structurelle d’une maison d’édition se calcule sur la base de la moyenne de son chiffre d’affaires de référence pour les trois dernières années.[^5-1]
 
 <sup>2</sup> Le chiffre d’affaires de référence correspond au chiffre d’affaires réalisé exclusivement dans les domaines de la littérature, de la poésie, de la bande dessinée, des livres pour enfants, de la littérature jeunesse, du théâtre, des essais et des ouvrages de non-fiction véhiculant une valeur culturelle.
 
@@ -106,6 +106,8 @@ Le chiffre d’affaires de référence des maisons d’édition est pondéré se
 - b. pour les maisons d’édition de Suisse romande: 1,5;
 - c. pour les maisons d’édition de Suisse italienne: 4
 - d. pour les maisons d’éditions de Suisse romanche: 4.
+
+[^5-1]: Erratum du 26 fév. 2025 ([RO 2025 134](https://fedlex.data.admin.ch/eli/oc/2025/134)).
 
 #### Art. 6
 

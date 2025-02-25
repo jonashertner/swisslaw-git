@@ -3,18 +3,18 @@ sr: "442.129"
 title: Verordnung des EDI vom 23. Dezember 2024 über das Förderungskonzept zur Verlagsförderung
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/16"
 language: de
-version: 2025-02-07
+version: 2025-02-26
 adopted: 2024-12-23
 in_force: 2025-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250207/de/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250207-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250226/de/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250226-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über das Förderungskonzept zur Verlagsförderung
 
-vom 23. Dezember 2024 (Stand am 7. Februar 2025)
+vom 23. Dezember 2024 (Stand am 26. Februar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -92,7 +92,7 @@ Von der Förderung ausgeschlossen sind:
 
 **Referenzerlös und seine Gewichtung**
 
-<sup>1</sup> Grundlage für die Berechnung des Strukturbeitrags eines Verlags ist dessen durchschnittlicher Referenzerlös der letzten vier Jahre.
+<sup>1</sup> Grundlage für die Berechnung des Strukturbeitrags eines Verlags ist dessen durchschnittlicher Referenzerlös der letzten drei Jahre.[^5-1]
 
 <sup>2</sup> Der Referenzerlös ist der Umsatz, der sich ausschliesslich auf Belletristik, Lyrik, Comics, Kinder- und Jugendbücher, Theaterstücke, Essayistik und nicht-fiktionale Werke, die einen kulturellen Wert vermitteln, bezieht.
 
@@ -106,6 +106,8 @@ Der Referenzerlös der Verlage wird nach folgenden regionalen Multiplikatoren ge
 - b. für Verlage aus der französischsprachigen Schweiz: 1,5;
 - c. für Verlage aus der italienischsprachigen Schweiz: 4;
 - d. für Verlage aus der rätoromanischsprachigen Schweiz: 4.
+
+[^5-1]: Berichtigung vom 26. Febr. 2025 ([AS 2025 134](https://fedlex.data.admin.ch/eli/oc/2025/134)).
 
 #### Art. 6
 

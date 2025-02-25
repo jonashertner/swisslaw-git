@@ -3,18 +3,18 @@ sr: "442.129"
 title: Ordinanza del DFI del 23 dicembre 2024 concernente il regime di promozione in favore delle case editrici
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/16"
 language: it
-version: 2025-02-07
+version: 2025-02-26
 adopted: 2024-12-23
 in_force: 2025-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250207/it/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250207-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/16/20250226/it/xml/fedlex-data-admin-ch-eli-cc-2025-16-20250226-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/16/20250226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI concernente il regime di promozione in favore delle case editrici
 
-del 23 dicembre 2024 (Stato 7 febbraio 2025)
+del 23 dicembre 2024 (Stato 26 febbraio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -92,7 +92,7 @@ Sono escluse dalla promozione:
 
 **Cifra d’affari di riferimento e sua ponderazione**
 
-<sup>1</sup> La base per il calcolo dei contributi strutturali di una casa editrice è la media delle sue cifre d’affari di riferimento degli ultimi quattro anni.
+<sup>1</sup> La base per il calcolo dei contributi strutturali di una casa editrice è la media delle sue cifre d’affari di riferimento degli ultimi tre anni.[^5-1]
 
 <sup>2</sup> La cifra d’affari di riferimento è il fatturato relativo esclusivamente ai generi narrativa, poesia, fumetti, libri per bambini e ragazzi, teatro, saggistica e opere non finzionali che veicolano un valore culturale.
 
@@ -106,6 +106,8 @@ La cifra d’affari di riferimento dell’editore è ponderata con il seguente m
 - b. per case editrici della Svizzera francese: 1,5;
 - c. per case editrici della Svizzera italiana: 4;
 - d. per case editrici della Svizzera romancia: 4.
+
+[^5-1]: Correzione del 26 feb. 2025 ([RU 2025 134](https://fedlex.data.admin.ch/eli/oc/2025/134)).
 
 #### Art. 6
 
