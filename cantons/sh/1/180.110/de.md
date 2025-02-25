@@ -4,12 +4,12 @@ number: "180.110"
 title: Dekret über die Besoldung der Richterinnen und Richter
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-02-26
 version_adopted: 2025-02-25
 adopted: 2004-05-03
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1974/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1960/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -48,13 +48,13 @@ beschliesst:
 <sup>1</sup> Die fallweise beschäftigten Ersatzrichterinnen und ‑richter erhalten folgende Vergütungen:
 
 - a) Obergericht:
-  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 373.60
-  - 2\. für ganztägige Sitzung: — Fr. 577.35
-  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 192.45
+  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 368.80
+  - 2\. für ganztägige Sitzung: — Fr. 569.95
+  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 190.00
 - b) Kantonsgericht:
-  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 350.95
-  - 2\. für ganztägige Sitzung: — Fr. 554.65
-  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 181.20
+  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 346.45
+  - 2\. für ganztägige Sitzung: — Fr. 547.55
+  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 178.85
 
 <sup>2</sup> Bei besonders aufwändigen Geschäften bzw. Verfahren kann die Vergütung auf das Zweifache der Vergütung gemäss Abs. 1 erhöht werden.
 
