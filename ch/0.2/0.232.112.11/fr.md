@@ -3,11 +3,11 @@ sr: "0.232.112.11"
 title: "Traité de Singapour du 27 mars 2006 sur le droit des marques (avec R d'ex.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/150"
 language: fr
-version: 2022-10-11
+version: 2025-02-26
 adopted: 2006-03-27
 in_force: 2009-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20221011/fr/xml/fedlex-data-admin-ch-eli-cc-2009-150-20221011-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20221011/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20250226/fr/xml/fedlex-data-admin-ch-eli-cc-2009-150-20250226-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20250226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 6 juillet 2007
 
 Entré en vigueur pour la Suisse le 16 mars 2009
 
-(État le 11 octobre 2022)
+(État le 26 février 2025)
 
 ## Liste des articles
 
@@ -2260,7 +2260,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 [^annexu1-lvlu1-87]: Ne rien indiquer si un numéro n’a pas ou n’a pas encore été attribué au pouvoir ou s’il n’est pas encore connu du preneur de licence ou du mandataire.
 [^annexu1-lvlu1-88]: Lorsqu’il y a plusieurs personnes qui signent ou dont le sceau est utilisé, toutes les indications demandées aux points 8.1 à 8.4 doivent être fournies sur une feuille supplémentaire.
 
-Champ d’application le 11 octobre 2022[^t-2]
+Champ d’application le 26 février 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -2298,9 +2298,12 @@ Champ d’application le 11 octobre 2022[^t-2]
 <tr><td>Maroc</td><td>22 avril</td><td>2022 A</td><td>22 juillet</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>16 décembre</td><td>2008</td><td>16 mars</td><td>2009</td></tr>
 <tr><td>Mongolie</td><td>3 décembre</td><td>2010 A</td><td>3 mars</td><td>2011</td></tr>
+<tr><td>Monténégro</td><td>24 avril</td><td>2023 A</td><td>24 juillet</td><td>2023</td></tr>
+<tr><td>Norvège</td><td>1<sup>er</sup> décembre</td><td>2022 A</td><td>1<sup>er</sup> mars</td><td>2023</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>10 septembre</td><td>2012</td><td>10 décembre</td><td>2012</td></tr>
 <tr><td>Organisation africaine de la propriété intellectuelle</td><td>13 novembre</td><td>2015 A</td><td>13 février</td><td>2016</td></tr>
 <tr><td>Organisation Benelux de la Pro priété Intellectuelle (OBPI)</td><td>8 octobre</td><td>2013 A</td><td>8 janvier</td><td>2014</td></tr>
+<tr><td>Ouzbékistan\*</td><td>10 octobre</td><td>2024</td><td>10 janvier</td><td>2025</td></tr>
 <tr><td>Pays-Bas</td><td>2 octobre</td><td>2009 A</td><td>8 janvier</td><td>2014</td></tr>
 <tr><td>Curaçao</td><td>2 octobre</td><td>2009</td><td>2 janvier</td><td>2010</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>2 octobre</td><td>2009</td><td>2 janvier</td><td>2010</td></tr>
@@ -2320,7 +2323,7 @@ Champ d’application le 11 octobre 2022[^t-2]
 <tr><td>Trinité-et-Tobago</td><td>4 octobre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td>24 février</td><td>2010</td><td>24 mai</td><td>2010</td></tr>
 <tr><td>Uruguay\*</td><td>29 janvier</td><td>2020</td><td>29 avril</td><td>2020</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le traité ne s’applique ni aux Îles Féroé ni au Groënland.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int/treaties/fr/ip/singapore/index.html](https://www.wipo.int/treaties/fr/ip/singapore/index.html), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le traité ne s’applique ni aux Îles Féroé ni au Groënland.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652); [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652); [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580); [2025 147](https://fedlex.data.admin.ch/eli/oc/2025/147). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

@@ -3,11 +3,11 @@ sr: "0.232.112.11"
 title: Trattato di Singapore sul diritto dei marchi del 27 marzo 2006 (con RE)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/150"
 language: it
-version: 2022-10-11
+version: 2025-02-26
 adopted: 2006-03-27
 in_force: 2009-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20221011/it/xml/fedlex-data-admin-ch-eli-cc-2009-150-20221011-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20221011/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20250226/it/xml/fedlex-data-admin-ch-eli-cc-2009-150-20250226-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20250226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Singapore il 27 marzo 2006 Ratificato dalla Svizzera con strumento depositato il 6 luglio 2007 Entrato in vigore per la Svizzera il 16 marzo 2009
 
-(Stato 11 ottobre 2022)
+(Stato 26 febbraio 2025)
 
 ## Elenco degli articoli
 
@@ -2246,7 +2246,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 [^annexu1-lvlu1-87]: Non indicare nulla se alla procura non è ancora stato attribuito un numero o se il licenziatario o il suo rappresentante non ne sono a conoscenza.
 [^annexu1-lvlu1-88]: Se firmano più persone o se viene apposto il sigillo di più persone, le indicazioni richieste nei punti 8.1 a 8.4 devono essere fornite su un foglio supplementare.
 
-Campo d’applicazione l’11 ottobre 2022[^t-2]
+Campo d’applicazione il 26 febbraio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2282,6 +2282,8 @@ Campo d’applicazione l’11 ottobre 2022[^t-2]
 <tr><td>Marocco</td><td>22 aprile</td><td>2022 A</td><td>22 luglio</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>16 dicembre</td><td>2008</td><td>16 marzo</td><td>2009</td></tr>
 <tr><td>Mongolia</td><td>3 dicembre</td><td>2010 A</td><td>3 marzo</td><td>2011</td></tr>
+<tr><td>Montenegro</td><td>24 aprile</td><td>2023 A</td><td>24 luglio</td><td>2023</td></tr>
+<tr><td>Norvegia</td><td>1° dicembre</td><td>2022 A</td><td>1° marzo</td><td>2023</td></tr>
 <tr><td>Nuova Zelanda</td><td>10 settembre</td><td>2012</td><td>10 dicembre</td><td>2012</td></tr>
 <tr><td>Organizzazione africana della proprietà intellettuale</td><td>13 novembre</td><td>2015 A</td><td>13 febbraio</td><td>2016</td></tr>
 <tr><td>Organizzazione della proprietà intellettuale del Benelux (BOIP)</td><td>8 ottobre</td><td>2013 A</td><td>8 gennaio</td><td>2014</td></tr>
@@ -2306,8 +2308,9 @@ Campo d’applicazione l’11 ottobre 2022[^t-2]
 <tr><td>Trinidad e Tobago</td><td>4 ottobre</td><td>2019 A</td><td>4 gennaio</td><td>2020</td></tr>
 <tr><td>Ucraina</td><td>24 febbraio</td><td>2010</td><td>24 maggio</td><td>2010</td></tr>
 <tr><td>Uruguay<sup>\*</sup></td><td>29 gennaio</td><td>2020</td><td>29 aprile</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
+<tr><td>Uzbekistan\*</td><td>10 ottobre</td><td>2024</td><td>10 gennaio</td><td>2025</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int/treaties/fr/ip/singapore/](https://www.wipo.int/treaties/fr/ip/singapore/index.html) [index.html](https://www.wipo.int/treaties/fr/ip/singapore/index.html) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 <tr><td colspan="5"><sup>a</sup> Non si applica né alle isole Féroé né alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652);[2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580). Una versione aggiornata del campo dֽ’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652);[2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580); [2025 147](https://fedlex.data.admin.ch/eli/oc/2025/147). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

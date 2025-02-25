@@ -3,11 +3,11 @@ sr: "0.232.112.11"
 title: Markenrechtsvertrag von Singapur vom 27. März 2006 (mit Ausführungsordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/150"
 language: de
-version: 2022-10-11
+version: 2025-02-26
 adopted: 2006-03-27
 in_force: 2009-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20221011/de/xml/fedlex-data-admin-ch-eli-cc-2009-150-20221011-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20221011/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20250226/de/xml/fedlex-data-admin-ch-eli-cc-2009-150-20250226-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20250226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Juli 2007
 
 In Kraft getreten für die Schweiz am 16. März 2009
 
-(Stand am 11. Oktober 2022)
+(Stand am 26. Februar 2025)
 
 ## Verzeichnis der Artikel
 
@@ -2164,7 +2164,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 [^annexu1-lvlu1-69]: Dieses Feld bleibt frei, wenn der Vollmacht eine laufende Nummer nicht oder noch nicht zugewiesen worden ist oder wenn die laufende Nummer dem Lizenznehmer oder dem Vertreter noch nicht bekannt ist.
 [^annexu1-lvlu1-70]: Wenn mehrere Personen unterschreiben oder wenn das Siegel mehrerer Personen verwendet wird, sind alle unter den Nummern 8.1–8.4 verlangten Angaben auf einem Zusatzblatt zu machen.
 
-Geltungsbereich am 11. Oktober 2022[^t-20]
+Geltungsbereich am 26. Februar 2025[^t-20]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2201,12 +2201,14 @@ Geltungsbereich am 11. Oktober 2022[^t-20]
 <tr><td>Marokko</td><td>22. April</td><td>2022 B</td><td>22. Juli</td><td>2022</td></tr>
 <tr><td>Moldau</td><td>16. Dezember</td><td>2008</td><td>16. März</td><td>2009</td></tr>
 <tr><td>Mongolei</td><td>3. Dezember</td><td>2010 B</td><td>3. März</td><td>2011</td></tr>
+<tr><td>Montenegro</td><td>24. April</td><td>2023 B</td><td>24. Juli</td><td>2023</td></tr>
 <tr><td>Neuseeland</td><td>10. September</td><td>2012</td><td>10. Dezember</td><td>2012</td></tr>
 <tr><td>Niederlande</td><td>2. Oktober</td><td>2009 B</td><td>8. Januar</td><td>2014</td></tr>
 <tr><td>Curaçao</td><td>2. Oktober</td><td>2009</td><td>2. Januar</td><td>2010</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>2. Oktober</td><td>2009</td><td>2. Januar</td><td>2010</td></tr>
 <tr><td>Sint Maarten</td><td>2. Oktober</td><td>2009</td><td>2. Januar</td><td>2010</td></tr>
 <tr><td>Nordmazedonien</td><td>6. Juli</td><td>2010</td><td>6. Oktober</td><td>2010</td></tr>
+<tr><td>Norwegen</td><td>1. Dezember</td><td>2022 B</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Peru</td><td>27. September</td><td>2018 B</td><td>27. Dezember</td><td>2018</td></tr>
 <tr><td>Polen</td><td>2. April</td><td>2009 B</td><td>2. Juli</td><td>2009</td></tr>
 <tr><td>Rumänien</td><td>25. März</td><td>2008</td><td>16. März</td><td>2009</td></tr>
@@ -2221,10 +2223,11 @@ Geltungsbereich am 11. Oktober 2022[^t-20]
 <tr><td>Trinidad und Tobago</td><td>4. Oktober</td><td>2019 B</td><td>4. Januar</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td>24. Februar</td><td>2010</td><td>24. Mai</td><td>2010</td></tr>
 <tr><td>Uruguay\*</td><td>29. Januar</td><td>2020</td><td>29. April</td><td>2020</td></tr>
+<tr><td>Usbekistan\*</td><td>10. Oktober</td><td>2024</td><td>10. Januar</td><td>2025</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>21. März</td><td>2012</td><td>21. Juni</td><td>2012</td></tr>
 <tr><td>Insel Man</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vereinigte Staaten</td><td>1. Oktober</td><td>2008</td><td>16. März</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Der Vertrag gilt nicht für die Färöer und Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/ip/singapore/index.html](https://www.wipo.int/treaties/fr/ip/singapore/index.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werde. <sup>a</sup> Der Vertrag gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-20]: [AS 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652); [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
+[^t-20]: [AS 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652); [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580); [2025 147](https://fedlex.data.admin.ch/eli/oc/2025/147). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
