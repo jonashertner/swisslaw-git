@@ -3,11 +3,11 @@ sr: "0.748.410.2"
 title: Zusatzabkommen vom 18. September 1961 zum Warschauer Abkommen zur Vereinheitlichung von Regeln über die von einem andern als dem vertraglichen Luftfrachtführer ausgeführte Beförderung im internationalen Luftverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/154_150_151"
 language: de
-version: 2011-11-15
+version: 2025-02-27
 adopted: 1961-09-18
 in_force: 1964-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/154_150_151/20111115/de/xml/fedlex-data-admin-ch-eli-cc-1964-154_150_151-20111115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/154_150_151/20111115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/154_150_151/20250227/de/xml/fedlex-data-admin-ch-eli-cc-1964-154_150_151-20250227-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/154_150_151/20250227/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1964/154_150_151/20111115/de"
 
 AS **1964** 154; BBl **1963** II 213
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Guadalajara am 18. September 1961 Von der Bundesversammlung genehmigt am 13. Dezember 1963[^t-2] In Kraft getreten für die Schweiz am 1. Mai 1964
+Abgeschlossen in Guadalajara am 18. September 1961 Von der Bundesversammlung genehmigt am 13. Dezember 1963[^t-1] In Kraft getreten für die Schweiz am 1. Mai 1964
 
-(Stand am 15. November 2011)
+(Stand am 27. Februar 2025)
 
-[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: [AS 1964 153](https://fedlex.data.admin.ch/eli/oc/1964/153_149_150)
+[^t-1]: [AS 1964 153](https://fedlex.data.admin.ch/eli/oc/1964/153_149_150)
 
 Die Unterzeichnerstaaten dieses Abkommens,
 
@@ -138,7 +137,7 @@ Die Regierung der Vereinigten Staaten von Mexiko wird der Internationalen Zivill
 
 *Zu Urkund dessen* haben die mit gehöriger Vollmacht versehenen Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen zu Guadalajara, am achtzehnten September neunzehnhunderteinundsechzig in drei verbindlichen Wortlauten in französischer, englischer und spanischer Sprache. Bei Abweichungen ist der Wortlaut in französischer Sprache, in der auch das Warschauer Abkommen vom 12. Oktober 1929 abgefasst worden ist, massgebend. Die Regierung der Vereinigten Staaten von Mexiko wird eine amtliche Übersetzung des Wortlauts des Abkommens in russischer Sprache herstellen. Dieses Abkommen wird bei der Regierung der Vereinigten Staaten von Mexiko hinterlegt, bei der es nach den Bestimmungen des Artikels XI zur Unterzeichnung aufgelegt wird; diese Regierung übermittelt der Internationalen Zivilluftfahrtorganisation und allen Mitgliedstaaten der Vereinten Nationen oder einer der Spezialorganisationen beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 15. November 2011**[^t-3]**
+Geltungsbereich am 27. Februar 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -153,11 +152,12 @@ Geltungsbereich am 15. November 2011**[^t-3]**
 <tr><td>Brasilien</td><td>8. Februar</td><td>1967</td><td>9. Mai</td><td>1967</td></tr>
 <tr><td>Burkina Faso</td><td>2. Juli</td><td>1992 B</td><td>30. September</td><td>1992</td></tr>
 <tr><td>China</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hongkong<sup>a</sup></td><td>2. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Hongkong <sup>a</sup></td><td>2. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Dänemark</td><td>20. Januar</td><td>1967 B</td><td>20. April</td><td>1967</td></tr>
 <tr><td>Deutschland\*</td><td>2. März</td><td>1964</td><td>31. Mai</td><td>1964</td></tr>
 <tr><td>El Salvador</td><td>11. Januar</td><td>1979 B</td><td>11. April</td><td>1979</td></tr>
 <tr><td>Estland</td><td>21. April</td><td>1998 B</td><td>20. Juli</td><td>1998</td></tr>
+<tr><td>Eswatini</td><td>12. Juli</td><td>1971 B</td><td>10. Oktober</td><td>1971</td></tr>
 <tr><td>Fidschi</td><td>18. Januar</td><td>1972 N</td><td>10. Oktober</td><td>1970</td></tr>
 <tr><td>Finnland</td><td>26. Mai</td><td>1977 B</td><td>24. August</td><td>1977</td></tr>
 <tr><td>Frankreich</td><td>24. Januar</td><td>1964</td><td>1. Mai</td><td>1964</td></tr>
@@ -186,12 +186,11 @@ Geltungsbereich am 15. November 2011**[^t-3]**
 <tr><td>Litauen</td><td>9. Dezember</td><td>1996 B</td><td>9. März</td><td>1997</td></tr>
 <tr><td>Luxemburg</td><td>23. August</td><td>1968 B</td><td>21. November</td><td>1968</td></tr>
 <tr><td>Malawi</td><td>28. Oktober</td><td>1977 B</td><td>26. Januar</td><td>1978</td></tr>
-<tr><td>Malaysia</td><td>17. Januar</td><td>2008 B</td><td>16. April</td><td>2008</td></tr>
+<tr><td>Malaysia</td><td>17. Januar</td><td>2008 B</td><td>15. April</td><td>2008</td></tr>
 <tr><td>Mali</td><td>3. Februar</td><td>1999 B</td><td>3. Mai</td><td>1999</td></tr>
 <tr><td>Marokko</td><td>5. November</td><td>1975 B</td><td>3. Februar</td><td>1976</td></tr>
 <tr><td>Mauretanien</td><td>27. März</td><td>1979 B</td><td>25. Juni</td><td>1979</td></tr>
 <tr><td>Mauritius</td><td>15. Oktober</td><td>1990 B</td><td>13. Januar</td><td>1991</td></tr>
-<tr><td>Mazedonien</td><td>19. Juni</td><td>1991 B</td><td>17. September</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>16. Mai</td><td>1962</td><td>1. Mai</td><td>1964</td></tr>
 <tr><td>Moldau</td><td>26. Mai</td><td>1997 B</td><td>24. August</td><td>1997</td></tr>
 <tr><td>Montenegro</td><td>30. Juli</td><td>2008 N</td><td>3. Juni</td><td>2006</td></tr>
@@ -206,6 +205,7 @@ Geltungsbereich am 15. November 2011**[^t-3]**
 <tr><td>Sint Maarten</td><td>1. Januar</td><td>1986</td><td>1. Januar</td><td>1986</td></tr>
 <tr><td>Niger</td><td>14. Juli</td><td>1964 B</td><td>12. Oktober</td><td>1964</td></tr>
 <tr><td>Nigeria</td><td>16. Juli</td><td>1969 B</td><td>14. Oktober</td><td>1969</td></tr>
+<tr><td>Nordmazedonien</td><td>19. Juni</td><td>1991 B</td><td>17. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>20. Januar</td><td>1967</td><td>20. April</td><td>1967</td></tr>
 <tr><td>Österreich</td><td>21. Dezember</td><td>1965 B</td><td>21. März</td><td>1966</td></tr>
 <tr><td>Pakistan</td><td>21. Juli</td><td>1965 B</td><td>19. Oktober</td><td>1965</td></tr>
@@ -228,7 +228,6 @@ Geltungsbereich am 15. November 2011**[^t-3]**
 <tr><td>Slowakei</td><td>11. Juli</td><td>1994 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>19. August</td><td>1998 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Südafrika</td><td>4. Januar</td><td>1974 B</td><td>4. April</td><td>1974</td></tr>
-<tr><td>Swasiland</td><td>12. Juli</td><td>1971 B</td><td>10. Oktober</td><td>1971</td></tr>
 <tr><td>Togo</td><td>27. Juni</td><td>1980 B</td><td>25. September</td><td>1980</td></tr>
 <tr><td>Tschad</td><td>9. März</td><td>1971 B</td><td>7. Juni</td><td>1971</td></tr>
 <tr><td>Tschechische Republik</td><td>5. Dezember</td><td>1994 N</td><td>1. Januar</td><td>1993</td></tr>
@@ -251,8 +250,7 @@ Geltungsbereich am 15. November 2011**[^t-3]**
 <tr><td>St. Helena (mit Ascension)</td><td>15. März</td><td>1967 B</td><td>13. Juni</td><td>1967</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>15. März</td><td>1967 B</td><td>13. Juni</td><td>1967</td></tr>
 <tr><td>Zypern</td><td>31. August</td><td>1970 B</td><td>29. November</td><td>1970</td></tr>
+<tr><td colspan="5"><sup>a</sup> Vom 13. Juni 1967 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 2. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-- <sup>a</sup> Vom 13. Juni 1967 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 2. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.
-
-[^t-3]: [AS 1967 784](https://fedlex.data.admin.ch/eli/oc/1967/784_825_819), [1971 1827](https://fedlex.data.admin.ch/eli/oc/1971/1827_1831_1831), [1978 496](https://fedlex.data.admin.ch/eli/oc/1978/496_496_496), [1984 277](https://fedlex.data.admin.ch/eli/oc/1984/277_277_277), [1989 863](https://fedlex.data.admin.ch/eli/oc/1989/863_863_863), [2004 4147](https://fedlex.data.admin.ch/eli/oc/2004/617), [2007 4209](https://fedlex.data.admin.ch/eli/oc/2007/562)und [2012 387](https://fedlex.data.admin.ch/eli/oc/2012/34). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1971 1827](https://fedlex.data.admin.ch/eli/oc/1971/1827_1831_1831); [1978 496](https://fedlex.data.admin.ch/eli/oc/1978/496_496_496); [1984 277](https://fedlex.data.admin.ch/eli/oc/1984/277_277_277); [1989 863](https://fedlex.data.admin.ch/eli/oc/1989/863_863_863); [2004 4147](https://fedlex.data.admin.ch/eli/oc/2004/617); [2007 4209](https://fedlex.data.admin.ch/eli/oc/2007/562); [2012 387](https://fedlex.data.admin.ch/eli/oc/2012/34); [2025 140](https://fedlex.data.admin.ch/eli/oc/2025/140). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
