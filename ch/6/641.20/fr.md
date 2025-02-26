@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 2009 régissant la taxe sur la valeur ajoutée
 short: LTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: fr
-version: 2025-01-01
+version: 2025-02-27
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/fr"
 
 (Loi sur la TVA, LTVA)[^t-1]
 
-du 12 juin 2009 (État le 1<sup>er</sup> janvier 2025)
+du 12 juin 2009 (État le 27 février 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -387,7 +387,7 @@ En l’absence de prestation, les éléments suivants, notamment, ne font pas pa
 
 <sup>3</sup> Si une collectivité publique indique expressément au destinataire que les fonds qu’elle lui a versés constituent une subvention ou une autre contribution de droit public, ces fonds sont réputés subvention ou autre contribution de droit public au sens de l’al. 2, let. a.[^18-1]
 
-[^18-1]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^18-1]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). Erratum de la Cdr de l’Ass. féd. du 19 fév. 2025, publié le 27 fév. 2025, ne concerne que le texte italien ([RO 2025 135](https://fedlex.data.admin.ch/eli/oc/2025/135)).
 
 #### Art. 19
 

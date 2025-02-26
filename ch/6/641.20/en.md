@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2025-01-01
+version: 2025-02-27
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 1 January 2025)
+of 12 June 2009 (Status as of 27 February 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -387,7 +387,7 @@ Due to the absence of any supply, the following flows of funds in particular do 
 
 <sup>3</sup> If a public authority expressly designates funds that it pays to the recipient as a subsidy or as another public law contribution, these funds shall be deemed to be a subsidy or another public law contribution within the meaning of paragraph 2 letter a.[^18-1]
 
-[^18-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^18-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). The correction by the Federal Assembly Drafting Committee, published on 27 Feb. 2025, relates to the Italian text only ([AS 2025 135](https://fedlex.data.admin.ch/eli/oc/2025/135)).
 
 #### Art. 19
 

@@ -4,11 +4,11 @@ title: "Legge federale del 12 giugno 2009 concernente l'imposta sul valore aggiu
 short: LIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: it
-version: 2025-01-01
+version: 2025-02-27
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/it"
 
 (Legge sull’IVA, LIVA)
 
-del 12 giugno 2009 (Stato 1° gennaio 2025)
+del 12 giugno 2009 (Stato 27 febbraio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -53,7 +53,7 @@ La riscossione è effettuata secondo i principi:
 - c. della trasferibilità dell’imposta.
 
 [^1-1]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^1-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^1-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 2
 
@@ -108,10 +108,10 @@ Ai sensi della presente legge si intende per:
 - l.[^3-5] piattaforma elettronica: interfaccia elettronica che consente interazioni dirette in linea fra più persone in vista di una fornitura o una prestazione di servizi.
 
 [^3-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^3-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^3-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^3-5]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^3-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^3-4]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^3-5]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 4
 
@@ -124,8 +124,8 @@ Ai sensi della presente legge si intende per:
 <sup>3</sup> Il Consiglio federale disciplina i dettagli d’intesa con i Comuni di Samnaun e di Valsot. Tiene debitamente conto del risparmio dovuto alle minori spese di riscossione.[^4-3]
 
 [^4-1]: In quanto successore nel diritto del Comune di Tschlin, a partire dal 1° gen. 2013 Valsot deve versare alla Confederazione la compensazione per le forniture esonerate effettuate sulla sua parte del territorio delle enclavi doganali ([RU 2012 3551](https://fedlex.data.admin.ch/eli/oc/2012/399)).
-[^4-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^4-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^4-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^4-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 5
 
@@ -133,7 +133,7 @@ Ai sensi della presente legge si intende per:
 
 Il Consiglio federale decide in merito all’adeguamento degli importi espressi in franchi negli articoli 31 capoverso 2 lettera c, 35 capoverso 1<sup>bis</sup> lettera b, 37 capoverso 1, 38 capoverso 1 e 45 capoverso 2 lettera b allorquando l’indice nazionale dei prezzi al consumo è aumentato di oltre il 30 per cento dall’ultimo adeguamento.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 6
 
@@ -163,8 +163,8 @@ In caso di fornitura di un bene dall’estero in territorio svizzero, il luogo d
 - a. disponga di un’autorizzazione dell’Amministrazione federale delle contribuzioni (AFC) a importare i beni a proprio nome (dichiarazione d’adesione) e al momento dell’importazione non vi rinunci; oppure
 - b. esegua forniture di cui al capoverso 1 lettera b con beni che, ai sensi dell’articolo 53 capoverso 1 lettera a, in ragione dell’ammontare d’imposta irrilevante sono esenti dall’imposta sull’importazione, e realizzi con tali forniture una cifra d’affari di almeno 100 000 franchi all’anno.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^7-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018, la lett. b entra in 1° gen. 2019 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^7-2]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018, la lett. b entra in 1° gen. 2019 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 8
 
@@ -184,8 +184,8 @@ In caso di fornitura di un bene dall’estero in territorio svizzero, il luogo d
 - f. per prestazioni di servizi relative a un fondo: il luogo in cui si trova il fondo; sono segnatamente considerate tali: l’intermediazione, l’amministrazione, la valutazione e stima del fondo, le prestazioni di servizi in relazione con l’acquisto o la costituzione di diritti reali immobiliari, le prestazioni di servizi in relazione con la preparazione o il coordinamento di prestazioni edili quali lavori d’architettura, d’ingegneria e di sorveglianza del cantiere, la sorveglianza di fondi ed edifici nonché le prestazioni di alloggio;
 - g. per prestazioni di servizi nell’ambito della cooperazione internazionale allo sviluppo e dell’aiuto umanitario: il luogo cui la prestazione di servizi è destinata.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^8-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^8-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 9
 
@@ -242,15 +242,15 @@ Esercita un’impresa chiunque:
 
 <sup>3</sup> La sede in territorio svizzero nonché tutti gli stabilimenti d’impresa in territorio svizzero costituiscono insieme un soggetto fiscale.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-3]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-4]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^10-5]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^10-6]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^10-7]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^10-8]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-9]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-2]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-3]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-4]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-5]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-6]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-7]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^10-8]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-9]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 11
 
@@ -272,7 +272,7 @@ Esercita un’impresa chiunque:
 
 <sup>4</sup> Il Consiglio federale determina quali prestazioni delle collettività pubbliche sono considerate imprenditoriali e quindi imponibili.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 13
 
@@ -282,7 +282,7 @@ Esercita un’impresa chiunque:
 
 <sup>2</sup> La riunione in un gruppo d’imposizione può essere scelta per l’inizio di ogni periodo fiscale. Può esservi posto termine per la fine di un periodo fiscale.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 14
 
@@ -314,8 +314,8 @@ L’assoggettamento termina:
 
 <sup>5</sup> Se la cifra d’affari determinante del contribuente non raggiunge più il limite stabilito negli articoli 10 capoverso 2 lettere a o c o 12 capoverso 3 ed è presumibile che la cifra d’affari determinante non sarà più raggiunta nemmeno nel periodo fiscale successivo, il contribuente deve annunciare la fine dell’assoggettamento. Tale annuncio può essere effettuato al più presto per la fine del periodo fiscale in cui la cifra d’affari determinante non è più raggiunta. Il mancato annuncio è considerato rinuncia all’esenzione dall’assoggettamento secondo l’articolo 11. Tale rinuncia diventa efficace all’inizio del periodo fiscale successivo.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^14-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 15
 
@@ -343,11 +343,11 @@ Sono solidalmente responsabili con il contribuente:
 
 <sup>5</sup> La persona solidalmente responsabile ha i medesimi diritti e doveri procedurali del contribuente.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^15-2]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^15-2]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^15-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^15-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^15-5]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^15-4]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^15-5]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 16
 
@@ -388,9 +388,9 @@ In mancanza di prestazione, non sono segnatamente considerati controprestazione:
 - k. i rimborsi, i contributi e gli aiuti finanziari ricevuti per la fornitura di beni all’estero esente dall’imposta in virtù dell’articolo 23 capoverso 2 numero 1;
 - l. gli emolumenti, i contributi o altri pagamenti ricevuti per attività sovrane.
 
-<sup>3</sup> Se una collettività pubblica designa espressamente come sussidio o altro contributo di diritto pubblico i mezzi finanziari da essa versati, tali mezzi sono considerati sussidi o altri contributi di diritto pubblico ai sensi del capoverso 2 lettera a.[^18-1]
+<sup>3</sup> Se una collettività pubblica indica espressamente al beneficiario che i mezzi finanziari da essa versatigli costituiscono un sussidio o un altro contributo di diritto pubblico, tali mezzi sono considerati un sussidio o altro contributo di diritto pubblico ai sensi del capoverso 2 lettera a.[^18-1]
 
-[^18-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^18-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). Correzione della CdR dell’AF del 19 feb. 2025, pubblicata il 27 feb. 2025 ([RU 2025 135](https://fedlex.data.admin.ch/eli/oc/2025/135)).
 
 #### Art. 19
 
@@ -436,7 +436,7 @@ Non è considerato fornitore della prestazione chi adempie una o più delle segu
 - e. esegue unicamente prestazioni pubblicitarie;
 - f. si limita a reindirizzare o a trasferire l’acquirente verso altre piattaforme elettroniche.
 
-[^20a-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^20a-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 21
 
@@ -553,39 +553,39 @@ Sono esclusi dall’imposta:
 
 <sup>7</sup> Il Consiglio federale stabilisce quali istituti sono considerati istituti di formazione e di ricerca secondo il capoverso 2 numero 30.[^21-33]
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^21-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-4]: [RU 2011 2423](https://fedlex.data.admin.ch/eli/oc/2011/355)
-[^21-5]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-6]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-7]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-8]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-9]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-10]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-11]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-12]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-13]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-5]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-6]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-7]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-8]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-9]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-10]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-11]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-12]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-13]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^21-14]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^21-15]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-16]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-17]: Nuovo testo giusta l’all. n. II 8 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^21-15]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-16]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-17]: Nuovo testo giusta l’all. cifra II 8 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^21-18]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^21-19]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^21-20]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-20]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-21]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^21-22]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^21-23]: Nuovo testo giusta l’all. n. II 4 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-23]: Nuovo testo giusta l’all. cifra II 4 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^21-24]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-25]: Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-26]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)). La correzione della Commissione di redazione dell’AF del 31 ago. 2017, pubblicata il 12 set. 2017, concerne soltanto il testo francese ([RU 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
-[^21-27]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-28]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-29]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-30]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-25]: Abrogato dalla cifra I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-26]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)). La correzione della Commissione di redazione dell’AF del 31 ago. 2017, pubblicata il 12 set. 2017, concerne soltanto il testo francese ([RU 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+[^21-27]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-28]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-29]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-30]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-31]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^21-32]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-33]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-32]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-33]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 22
 
@@ -600,8 +600,8 @@ L’opzione è esclusa per:
 - a. le prestazioni di cui all’articolo 21 capoverso 2 numeri 18, 19 e 23;
 - b.[^22-2] le prestazioni di cui all’articolo 21 capoverso 2 numeri 20 e 21, se il destinatario utilizza o intende utilizzare il bene esclusivamente a scopo abitativo.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^22-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^22-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 23
 
@@ -655,19 +655,19 @@ Sono esenti dall’imposta:
 
 <sup>5</sup> Il Dipartimento federale delle finanze (DFF) disciplina le condizioni alle quali le forniture sul territorio svizzero in vista dell’esportazione nel traffico turistico sono esenti da imposta e definisce le prove necessarie a tale fine.[^23-12] È possibile fornire le prove in forma elettronica.[^23-13]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^23-2]: Nuovo testo giusta il n. I 18 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-2]: Nuovo testo giusta la cifra I 18 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^23-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^23-4]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-4]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
-[^23-6]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^23-7]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^23-8]: Introdotta dal n. I 2 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
-[^23-9]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-6]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-7]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-8]: Introdotta dalla cifra I 2 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
+[^23-9]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^23-10]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)all.
-[^23-11]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-11]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^23-12]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^23-13]: Secondo per. introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^23-13]: Secondo per. introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Capitolo 3: Base di calcolo e aliquote d’imposta
 
@@ -696,7 +696,7 @@ Non sono inclusi nella base di calcolo:
 - c. la parte della controprestazione inerente al valore del terreno in caso di alienazione di un bene immobile;
 - d. le tasse cantonali a favore dei fondi di approvvigionamento idrico, di trattamento delle acque di scarico e di smaltimento dei rifiuti incluse nel prezzo delle prestazioni di eliminazione e di erogazione, purché tali fondi versino contributi alle aziende di smaltimento dei rifiuti o alle aziende fornitrici d’acqua.
 
-[^24-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^24-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 24a
 
@@ -712,7 +712,7 @@ Non sono inclusi nella base di calcolo:
 
 <sup>5</sup> Se più pezzi da collezione sono acquistati a un prezzo complessivo, l’imposta può essere calcolata sulla differenza tra il prezzo d’acquisto complessivo e il prezzo di vendita complessivo. Il Consiglio federale disciplina le condizioni.
 
-[^24a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^24a-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 25
 
@@ -750,15 +750,15 @@ L’imposta ammonta al 2,6 per cento (aliquota ridotta):[^25-2]
 
 <sup>5</sup> Il Consiglio federale definisce in dettaglio i beni e le prestazioni di servizi menzionati nel capoverso 2; a tal proposito osserva il principio della neutralità concorrenziale.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Nuovo testo giusta l’all. n.II 3 della LF del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^25-5]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^25-6]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-7]: Nuovo testo giusta il n. IV della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-8]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
-[^25-9]: Nuovo testo giusta il n. II 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [FF 2017 2987](https://fedlex.data.admin.ch/eli/fga/2017/779)[3003](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-5]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^25-6]: Introdotta dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^25-7]: Nuovo testo giusta la cifra I V della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^25-8]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-9]: Nuovo testo giusta la cifra I I 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [FF 2017 2987](https://fedlex.data.admin.ch/eli/fga/2017/779)[3003](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### Capitolo 4: Emissione della fattura e dichiarazione fiscale
 
@@ -801,8 +801,8 @@ Chi menziona un’imposta in una fattura senza esservi autorizzato o indica un�
 <sup>4</sup> La correzione a posteriori di una fattura può aver luogo, nei limiti ammessi dal diritto commerciale, mediante un documento ricettizio che rinvia alla fattura originale annullandola.[^27-4]
 
 [^27-1]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^27-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^27-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^27-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^27-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^27-4]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
 
 ### Capitolo 5: Deduzione dell’imposta precedente
@@ -823,8 +823,8 @@ Fatti salvi gli articoli 29 e 33, nell’ambito della sua attività imprenditori
 
 <sup>3</sup> Il contribuente può dedurre l’imposta precedente secondo il capoverso 1 se comprova di averla versata.[^28-2]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
-[^28-2]: Originario cpv. 4. Cpv. 3 abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^28-2]: Originario cpv. 4. Cpv. 3 abrogato dalla cifra I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 28a
 
@@ -841,7 +841,7 @@ Il contribuente può dedurre un’imposta precedente fittizia se:
 
 <sup>3</sup> Per i beni assoggettati all’imposizione dei margini secondo l’articolo 24*a* non può essere dedotta alcuna imposta precedente fittizia.
 
-[^28a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^28a-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 29
 
@@ -859,10 +859,10 @@ Il contribuente può dedurre un’imposta precedente fittizia se:
 
 <sup>4</sup> Per la determinazione dell’imposta precedente deducibile le società holding possono basarsi sull’attività imprenditoriale delle imprese da esse detenute che dà diritto alla deduzione dell’imposta precedente.[^29-4]
 
-[^29-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^29-2]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^29-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^29-2]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^29-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^29-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^29-4]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 30
 
@@ -942,8 +942,8 @@ Su richiesta del contribuente il periodo di rendiconto è:
 
 <sup>2</sup> Su richiesta, l’AFC può autorizzare, in casi fondati, altri periodi di rendiconto e ne stabilisce le condizioni.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^35-2]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^35-2]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 35a
 
@@ -957,7 +957,7 @@ Su richiesta del contribuente il periodo di rendiconto è:
 
 <sup>4</sup> La modifica della periodicità è applicata all’inizio di un periodo fiscale.
 
-[^35a-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^35a-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Sezione 2: Entità del credito fiscale e procedura di notifica
 
@@ -984,8 +984,8 @@ Su richiesta del contribuente il periodo di rendiconto è:
 <sup>5</sup> Le collettività pubbliche e le istituzioni affini, segnatamente le cliniche e le scuole private o le imprese di trasporto concessionarie nonché le associazioni e le fondazioni, possono applicare il metodo delle aliquote forfetarie.[^37-4] Il Consiglio federale disciplina i dettagli.
 
 [^37-1]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^37-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
-[^37-3]: Nuovo testo del secondo per. giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^37-3]: Nuovo testo del secondo per. giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^37-4]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
 
 #### Art. 38
@@ -1007,9 +1007,9 @@ Se l’imposta calcolata sul prezzo di alienazione secondo l’aliquota legale s
 
 <sup>5</sup> Se nei casi di cui al capoverso 1 la procedura di notifica non è stata applicata e il credito fiscale è coperto da garanzie, la procedura di notifica non può più essere disposta.
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^38-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^38-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^38-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^38-4]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 
 ### Sezione 3: Nascita, modifica e prescrizione del credito fiscale
@@ -1049,7 +1049,7 @@ In caso di rendiconto allestito secondo le controprestazioni convenute, il dirit
 
 <sup>4</sup> Per l’imposta sull’importazione, il diritto alla deduzione dell’imposta precedente sorge alla fine del periodo di rendiconto in cui è stata fissata tale imposta.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 41
 
@@ -1100,7 +1100,7 @@ Il credito fiscale passa in giudicato mediante:
 
 <sup>2</sup> La cessione o la costituzione in pegno del credito fiscale lascia impregiudicati i diritti dell’AFC, segnatamente le sue eccezioni e le misure a garanzia dell’imposta.[^44-1]
 
-[^44-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^44-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ## Titolo terzo: Imposta sull’acquisto
 
@@ -1125,12 +1125,12 @@ Soggiacciono all’imposta sull’acquisto:
 - a. sia assoggettato all’imposta ai sensi dell’articolo 10; o
 - b.[^45-6] acquisti nell’anno civile simili prestazioni per più di 10 000 franchi.
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^45-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^45-3]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^45-4]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^45-5]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^45-6]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-3]: Introdotta dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-4]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^45-5]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45-6]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 45a
 
@@ -1138,7 +1138,7 @@ Soggiacciono all’imposta sull’acquisto:
 
 Non soggiacciono all’imposta sull’acquisto le prestazioni escluse dall’imposta sulle prestazioni eseguite sul territorio svizzero secondo l’articolo 21 o esenti dall’imposta sulle prestazioni eseguite sul territorio svizzero secondo l’articolo 23.
 
-[^45a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^45a-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 46
 
@@ -1198,9 +1198,9 @@ La responsabilità solidale secondo l’articolo 70 capoverso 3 LD delle persone
 <sup>3</sup> L’UDSC può esigere dalla persona che allestisce a titolo professionale dichiarazioni doganali la prova del suo potere di rappresentanza.[^51-4]
 
 [^51-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^51-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^51-3]: Nuova espr. giusta il n. I 18 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^51-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^51-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^51-3]: Nuova espr. giusta la cifra I 18 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^51-4]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 52
 
@@ -1218,8 +1218,8 @@ Soggiacciono all’imposta:
 <sup>3</sup> Nel caso di una pluralità di prestazioni si applicano le disposizioni dell’articolo 19.
 
 [^52-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^52-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
-[^52-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^52-2]: Nuovo testo giusta la cifra I 2 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
+[^52-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 53
 
@@ -1246,11 +1246,11 @@ Soggiacciono all’imposta:
 <sup>2</sup> Il Consiglio federale può esentare dall’imposta sull’importazione i beni che ha dichiarato esenti da dazio conformemente all’articolo 8 capoverso 2 lettera a LD.
 
 [^53-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^53-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^53-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^53-3]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
 [^53-4]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
 [^53-5]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
-[^53-6]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^53-6]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 54
 
@@ -1281,7 +1281,7 @@ Nella base di calcolo devono essere integrati, se non sono già compresi:
 
 <sup>5</sup> Per la determinazione della base di calcolo dell’imposta, i prezzi o i valori in valuta estera devono essere convertiti in franchi svizzeri al corso del cambio (vendita) in borsa la vigilia della nascita del debito fiscale secondo l’articolo 56.
 
-[^54-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^54-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^54-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^54-3]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
 [^54-4]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
@@ -1296,7 +1296,7 @@ Nella base di calcolo devono essere integrati, se non sono già compresi:
 
 <sup>2</sup> Sull’importazione di beni ai sensi dell’articolo 25 capoverso 2 lettere a e a<sup>bis</sup> l’imposta ammonta al 2,6 per cento.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 
 #### Art. 56
 
@@ -1352,9 +1352,9 @@ Non viene riscosso un interesse moratorio se:
 - e. i beni devono essere dichiarati periodicamente nella procedura d’imposizione doganale (art. 42 cpv. 1 lett. c LD) o sono tassati successivamente in base a una procedura d’imposizione doganale semplificata (art. 42 cpv. 2 LD) e l’importatore al momento dell’importazione era registrato come contribuente sul territorio svizzero.
 
 [^58-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^58-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^58-3]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^58-4]: Abrogata dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^58-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^58-3]: Introdotta dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^58-4]: Abrogata dalla cifra I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 59
 
@@ -1447,7 +1447,7 @@ I seguenti contribuenti possono dichiarare l’imposta dovuta sull’importazion
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli della procedura di riporto di pagamento dell’imposta.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 64
 
@@ -1495,7 +1495,7 @@ Il termine per la presentazione di una domanda è:
 
 <sup>5</sup> L’onere amministrativo che la riscossione dell’imposta comporta per il contribuente non può eccedere quanto assolutamente necessario per l’applicazione della presente legge.
 
-[^65-1]: Introdotta dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673);[FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^65-1]: Introdotta dalla cifra I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673);[FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 65a
 
@@ -1507,7 +1507,7 @@ Il termine per la presentazione di una domanda è:
 
 <sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte del contribuente o del richiedente.
 
-[^65a-1]: Introdotto dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673);[FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^65a-1]: Introdotto dalla cifra I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673);[FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### Capitolo 2: Diritti e obblighi del contribuente
 
@@ -1536,8 +1536,8 @@ Il termine per la presentazione di una domanda è:
 
 <sup>3</sup> La designazione di un rappresentante secondo i capoversi 1 e 2 non equivale alla costituzione di uno stabilimento d’impresa ai sensi delle disposizioni sulle imposte dirette.
 
-[^67-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^67-2]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^67-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^67-2]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 68
 
@@ -1611,7 +1611,7 @@ Sono terzi tenuti a fornire informazioni coloro che:
 
 <sup>3</sup> È fatto salvo il segreto professionale tutelato dalla legge.
 
-[^73-1]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^73-1]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Capitolo 4: Diritti e doveri delle autorità
 
@@ -1619,7 +1619,7 @@ Sono terzi tenuti a fornire informazioni coloro che:
 
 [^tit5-chap4-sec1-1]
 
-[^tit5-chap4-sec1-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^tit5-chap4-sec1-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 74
 
@@ -1638,7 +1638,7 @@ L’obbligo del segreto non è dato:
 - e.[^74-2] nel caso delle misure di cui all’articolo 79*a*.
 
 [^74-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
-[^74-2]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^74-2]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 75
 
@@ -1673,7 +1673,7 @@ L’obbligo del segreto non è dato:
 
 [^tit5-chap4-sec2-1]
 
-[^tit5-chap4-sec2-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^tit5-chap4-sec2-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 76
 
@@ -1694,11 +1694,11 @@ Per l’adempimento dei compiti legali indicati qui appresso, l’AFC è inoltre
 - e. eseguire analisi ed elaborare profili di rischio;
 - f. tenere statistiche.[^76-5]
 
-[^76-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76-2]: Nuovo testo giusta l’all. 1 n. II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^76-2]: Nuovo testo giusta l’all. 1 cifra II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^76-3]: Abrogato dall’all. n. 18 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^76-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^76-5]: Introdotto dall’all. 1 n. II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76-5]: Introdotto dall’all. 1 cifra II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
 
@@ -1740,10 +1740,10 @@ Il sistema d’informazione può contenere i seguenti dati personali, compresi q
 
 <sup>4</sup> Per l’adempimento dei suoi compiti di vigilanza l’Incaricato federale della protezione dei dati e della trasparenza ha accesso al sistema d’informazione dell’AFC.[^76a-4]
 
-[^76a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76a-2]: Nuovo testo giusta l’all. 1 n. II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^76a-3]: Abrogata dall’all. 1 n. II 49 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^76a-4]: Introdotto dall’all. 1 n. II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^76a-2]: Nuovo testo giusta l’all. 1 cifra II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-3]: Abrogata dall’all. 1 cifra II 49 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-4]: Introdotto dall’all. 1 cifra II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76b
 
@@ -1753,9 +1753,9 @@ Il sistema d’informazione può contenere i seguenti dati personali, compresi q
 
 <sup>2</sup> L’AFC può comunicare o rendere accessibili mediante procedura di richiamo i dati personali tratti da una profilazione o da una profilazione a rischio elevato secondo l’articolo 76 capoverso 3 come pure i dati di cui all’articolo 76*a* capoverso 3 al personale dell’UDSC incaricato della determinazione e riscossione dell’imposta sul valore aggiunto e dell’esecuzione di procedimenti amministrativi e penali, sempre che questo sia necessario all’esecuzione dei compiti di tale personale.[^76b-3]
 
-[^76b-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^76b-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76b-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
-[^76b-3]: Nuovo testo giusta l’all. 1 n. II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76b-3]: Nuovo testo giusta l’all. 1 cifra II 49 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
 
@@ -1765,7 +1765,7 @@ Il sistema d’informazione può contenere i seguenti dati personali, compresi q
 
 <sup>2</sup> I documenti conservati in base alla presente disposizione sono equiparati agli originali.
 
-[^76c-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^76c-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 76d
 
@@ -1780,13 +1780,13 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti:
 - e. la durata di conservazione dei dati; e
 - f. l’archiviazione e la distruzione dei dati.
 
-[^76d-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^76d-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ### Sezione 3: Garanzia della corretta riscossione delle imposte
 
 [^tit5-chap4-sec3-1]
 
-[^tit5-chap4-sec3-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^tit5-chap4-sec3-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 77
 
@@ -1824,8 +1824,8 @@ Gli accertamenti concernenti terzi, fatti in occasione di un controllo secondo i
 [^78-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^78-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^78-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^78-5]: Nuovo testo giusta l’all. n. II 8 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^78-6]: Introdotto dall’all. n. II 8 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^78-5]: Nuovo testo giusta l’all. cifra II 8 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^78-6]: Introdotto dall’all. cifra II 8 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 79
 
@@ -1854,7 +1854,7 @@ L’AFC può disporre misure amministrative nei confronti di un contribuente che
 
 <sup>5</sup> L’AFC pubblica i nomi dei contribuenti nei confronti dei quali sono state disposte misure di cui al capoverso 3 con decisione passata in giudicato.
 
-[^79a-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^79a-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 80
 
@@ -1952,8 +1952,8 @@ Gli articoli 66–69 PA[^85-1] si applicano alla revisione, all’interpretazion
 <sup>10</sup> I capoversi 1–9 si applicano a prescindere dal periodo di rendiconto scelto.[^86-3]
 
 [^86-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^86-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^86-3]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^86-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^86-3]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 86a
 
@@ -1978,7 +1978,7 @@ Gli acconti devono essere saldati:
 
 <sup>7</sup> Gli acconti versati sono imputati al credito fiscale risultante dal rendiconto annuale presentato.
 
-[^86a-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^86a-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 87
 
@@ -1990,7 +1990,7 @@ Gli acconti devono essere saldati:
 
 <sup>2</sup> In caso di ripresa fiscale, non è dovuto un interesse moratorio qualora la stessa sia stata determinata da un errore che non avrebbe comportato perdite d’imposta per la Confederazione se fosse stato trattato correttamente.
 
-[^87-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^87-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 88
 
@@ -2010,8 +2010,8 @@ Sono fatti salvi:
 
 <sup>4</sup> Se il versamento dell’eccedenza secondo il capoverso 1 o la restituzione secondo il capoverso 3 sono effettuati oltre il 60° giorno dalla ricezione del rendiconto o della richiesta scritta di restituzione presso l’AFC, è corrisposto un interesse rimuneratorio a contare dal 61° giorno sino a quello del versamento o della restituzione.
 
-[^88-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^88-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^88-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^88-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 89
 
@@ -2031,9 +2031,9 @@ Sono fatti salvi:
 
 <sup>7</sup> In casi fondati, l’AFC può rinunciare a ricuperare l’imposta se lo svolgimento di una procedura d’esecuzione non porterebbe a nessun risultato utile.
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^89-2]: Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^89-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^89-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^89-2]: Abrogato dalla cifra I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^89-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 90
 
@@ -2087,9 +2087,9 @@ L’AFC può condonare in tutto o in parte un’imposta accertata e passata in g
 
 <sup>6</sup> ...[^92-3]
 
-[^92-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^92-2]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^92-3]: Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^92-3]: Abrogato dalla cifra I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ### Capitolo 7: Garanzia dell’imposta
 
@@ -2126,8 +2126,8 @@ L’AFC può esigere che un membro dell’organo incaricato della gestione degli
 
 <sup>7</sup> Le garanzie devono essere prestate sotto forma di depositi in contanti, fideiussioni solidali solvibili, garanzie bancarie, cartelle ipotecarie o ipoteche, polizze di assicurazione sulla vita con valore di riscatto, obbligazioni in franchi svizzeri, quotate in borsa, di debitori svizzeri o obbligazioni di cassa emesse da banche svizzere.^
 
-[^93-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^93-2]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^93-2]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^93-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 93a
@@ -2138,7 +2138,7 @@ L’AFC può esigere che un membro dell’organo incaricato della gestione degli
 
 <sup>2</sup> La garanzia viene restituita se la prova d’esportazione è fornita entro il termine prescritto.
 
-[^93a-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^93a-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 94
 
@@ -2156,7 +2156,7 @@ Un’eccedenza a favore del contribuente risultante dal rendiconto d’imposta o
 
 <sup>3</sup> In caso di ripetuto pagamento tardivo, l’AFC può obbligare il debitore a effettuare pagamenti anticipati mensili o bimensili.
 
-[^94-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^94-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 95
 
@@ -2336,10 +2336,10 @@ La prescrizione dell’obbligo di pagamento o restituzione secondo l’articolo 
 
 <sup>4</sup> Il diritto di proseguire un procedimento penale avviato si prescrive in cinque anni; la prescrizione è sospesa finché l’imputato è all’estero.
 
-[^105-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^105-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^105-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^105-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^105-4]: Abrogate dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^105-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^105-4]: Abrogate dalla cifra I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 106
 
@@ -2372,8 +2372,8 @@ Il Consiglio federale:
 <sup>3</sup> Il Consiglio federale emana le prescrizioni di esecuzione.
 
 [^107-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^107-2]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^107-3]: Abrogato dal n. I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^107-2]: Introdotta dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^107-3]: Abrogato dalla cifra I della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 108
 
@@ -2386,7 +2386,7 @@ Il DFF:
 - c. stabilisce un importo limite entro il quale esigui tassi d’interesse moratorio e rimuneratorio non vengono riscossi o non vanno versati;
 - d.[^108-1] stabilisce, in caso di riscossione provvisoria dell’imposta, l’entità dell’importo esiguo da non fatturare.
 
-[^108-1]: Introdotta dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^108-1]: Introdotta dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 #### Art. 109
 
@@ -2398,7 +2398,7 @@ Il DFF:
 
 <sup>3</sup> L’organo consultivo esprime un parere sui progetti e può formulare autonomamente raccomandazioni per eventuali modifiche.
 
-[^109-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^109-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 ### Capitolo 2: Abrogazione e modifica del diritto vigente
 
@@ -2408,7 +2408,7 @@ Il DFF:
 
 La legge del 2 settembre 1999[^110-1] sull’IVA è abrogata.
 
-[^110-1]: [[RU 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212), [1134](https://fedlex.data.admin.ch/eli/oc/2000/183); [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462); [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 5; [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)all. n. 2; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 52, [2673](https://fedlex.data.admin.ch/eli/oc/2006/408), [3243](https://fedlex.data.admin.ch/eli/oc/2006/489), [5379](https://fedlex.data.admin.ch/eli/oc/2006/822)all. n. II 5; [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)all. n. 7, [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 1, [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)all. n. II 5]
+[^110-1]: [[RU 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212), [1134](https://fedlex.data.admin.ch/eli/oc/2000/183); [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462); [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II 5; [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)all. n. 2; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 52, [2673](https://fedlex.data.admin.ch/eli/oc/2006/408), [3243](https://fedlex.data.admin.ch/eli/oc/2006/489), [5379](https://fedlex.data.admin.ch/eli/oc/2006/822)all. cifra II 5; [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)all. n. 7, [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 1, [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)all. cifra II 5]
 
 #### Art. 111
 
@@ -2456,7 +2456,7 @@ La legge del 2 settembre 1999[^110-1] sull’IVA è abrogata.
 
 <sup>2</sup> Per il calcolo degli importi dell’imposta secondo le aliquote previgenti, ai contribuenti sono accordati termini sufficientemente lunghi a seconda del genere dei contratti di fornitura di beni e di prestazione di servizi.
 
-[^115-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^115-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 115a
 
@@ -2464,7 +2464,7 @@ La legge del 2 settembre 1999[^110-1] sull’IVA è abrogata.
 
 Su pezzi da collezione quali oggetti d’arte, antichità e simili per i quali al momento dell’entrata in vigore della modifica del 30 settembre 2016 è già stata dedotta l’imposta precedente, la deduzione dell’imposta precedente non deve essere annullata, purché la vendita dei beni in questione sia effettuata sul territorio svizzero e sia versata l’imposta sul valore aggiunto sul prezzo di vendita totale.
 
-[^115a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396)[5059](https://fedlex.data.admin.ch/eli/oc/2017/550); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^115a-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396)[5059](https://fedlex.data.admin.ch/eli/oc/2017/550); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 115b
 
@@ -2480,7 +2480,7 @@ In caso di fornitura in territorio svizzero di beni provenienti dall’estero ch
 - b. nei 12 mesi precedenti ha realizzato con tali forniture una cifra d’affari di almeno 100 000 franchi; e
 - c. vi è motivo di ritenere che eseguirà forniture simili anche nei 12 mesi successivi all’entrata in vigore della presente modifica.
 
-[^115b-1]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^115b-1]: Introdotto dalla cifra I della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
 ### Capitolo 4: Referendum ed entrata in vigore
 

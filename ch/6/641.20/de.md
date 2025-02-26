@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2025-01-01
+version: 2025-02-27
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250101/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 1. Januar 2025)
+vom 12. Juni 2009 (Stand am 27. Februar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -385,7 +385,7 @@ Mangels Leistung gelten namentlich die folgenden Mittelflüsse nicht als Entgelt
 
 <sup>3</sup> Bezeichnet ein Gemeinwesen von ihm ausgerichtete Mittel gegenüber dem Empfänger oder der Empfängerin ausdrücklich als Subvention oder als anderen öffentlich-rechtlichen Beitrag, so gelten diese Mittel als Subvention oder als anderer öffentlich-rechtlicher Beitrag im Sinne von Absatz 2 Buchstabe a.[^18-1]
 
-[^18-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^18-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). Die Berichtigung der RedK der BVers vom 19. Febr. 2025, veröffentlicht am 27. Febr. 2025 betrifft nur den italienischen Text ([AS 2025 135](https://fedlex.data.admin.ch/eli/oc/2025/135)).
 
 #### Art. 19
 
