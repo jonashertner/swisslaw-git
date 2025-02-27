@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anpassungen an den Internationalen Gesundheitsvorschriften (2005)
 document: Vernehmlassungsvorlage
 language: de

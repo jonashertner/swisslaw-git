@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Emendamenti al Regolamento sanitario internazionale (2005)
 document: Progetto posto in consultazione
 language: it

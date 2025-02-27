@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Amendements au Règlement sanitaire international (2005)
 document: Projet mis en consultation
 language: fr
