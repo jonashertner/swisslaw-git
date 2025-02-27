@@ -1,27 +1,29 @@
 ---
 canton: ZG
 number: "162.11"
-title: Geschäftsordnung des Verwaltungsgerichtes
+title: Geschäftsordnung des Verwaltungsgerichts
 short: GO VG
 language: de
-version: 2013-01-01
-valid_until: 2025-02-27
-version_adopted: 2012-01-31
+version: 2025-02-28
+valid_until: 2025-12-04
+version_adopted: 2025-02-21
 adopted: 1977-01-14
 in_force: 1977-01-27
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.11"
-pdf: "https://bgs.zg.ch/api/de/versions/1812/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Geschäftsordnung des Verwaltungsgerichtes
+# Geschäftsordnung des Verwaltungsgerichts
 
-Vom 14. Januar 1977 (Stand 1. Januar 2013)
+(GO VG)
+
+Vom 14. Januar 1977 (Stand 28. Februar 2025)
 
 Das Verwaltungsgericht des Kantons Zug,
 
-gestützt auf § 56 des Gesetzes über die Verwaltungsrechtspflege vom 1. April 1976 (Verwaltungsrechtspflegegesetz)[^ingress-1],
+gestützt auf § 56 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^ingress-1],
 
 beschliesst:
 
@@ -82,7 +84,7 @@ beschliesst:
 - 3\. die sozialversicherungsrechtliche Kammer;
 - 4\. die fürsorgerechtliche Kammer.
 
-<sup>2</sup> Die Kammern bestehen aus je fünf Mitgliedern. Sie urteilen in Fünfer- oder Dreierbesetzung gemäss § 20. Bei Verhinderung eines Mitgliedes der Dreierkammer werden in erster Linie die weiteren Mitglieder der Kammer beigezogen. Dabei sind die §§ 10 und 12 sinngemäss anwendbar.
+<sup>2</sup> Die Kammern bestehen aus je fünf Mitgliedern. Sie urteilen in Fünfer- oder Dreierbesetzung gemäss § 20. Bei Verhinderung eines Mitgliedes der Dreierkammer werden in erster Linie die weiteren Mitglieder der Kammer beigezogen, in zweiter Linie die übrigen ordentlichen Mitglieder des Gerichts und die Ersatzmitglieder. Dabei sind die §§ 10 und 12 sinngemäss anwendbar.
 
 <sup>3</sup> …
 
@@ -153,7 +155,7 @@ beschliesst:
 
 <sup>2</sup> Ist ein Geschäft einer Kammer zugewiesen, so übt ihr Vorsitzender hinsichtlich der Verfahrensleitung und Verfahrenserledigung alle Befugnisse aus, welche die Gesetzgebung oder diese Geschäftsordnung, insbesondere in § 9 Abs. 1 Ziff. 2 bis 4 und Ziff. 6, §§ 11 und 12 sowie §§ 17 bis 32, dem Präsidenten überträgt.
 
-<sup>3</sup> Gegen die Verweigerung der unentgeltlichen Rechtspflege oder des unentgeltlichen Rechtsbeistandes kann innert 30 Tagen an das Verwaltungsgericht Beschwerde geführt werden; der Entscheid liegt bei der in der Hauptsache zuständigen Kammer.
+<sup>3</sup>
 
 #### § 10
 
@@ -238,19 +240,21 @@ beschliesst:
 
 <sup>1</sup> Der Präsident bezeichnet für jedes Geschäft einen Richter als Referenten, soweit er nicht selbst als Referent amtet.
 
-<sup>2</sup> Der Referent leitet das Beweisverfahren und bestimmt die Entschädigungen, die an Zeugen und Übersetzer zu entrichten sind.
+<sup>2</sup> Der Präsident kann die Leitung des Beweisverfahrens sowie die Vornahme der nötigen verfahrensrechtlichen Anordnungen einem Referenten delegieren. Die jeweiligen Zeichnungs- und Anweisungsberechtigungen gemäss Verordnung über die Zeichnungs- und Anweisungsberechtigung am Verwaltungsgericht (ZAV VG) vom 19. Februar 2024 sind[^19-1] zu respektieren.
 
 <sup>3</sup> Der Referent unterbreitet dem Gericht einen schriftlichen Antrag oder einen Urteilsentwurf.
+
+[^19-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 #### § 20
 
 **Beurteilung als Einzelrichter, in Dreier- oder Fünferbesetzung**
 
-<sup>1</sup> Die verwaltungsrechtliche Kammer urteilt in Fünferbesetzung, über Administrativmassnahmen gemäss SVG in Dreierbesetzung.
+<sup>1</sup>
 
-<sup>2</sup> Die abgaberechtliche, die sozialversicherungsrechtliche und die fürsorgerechtliche Kammer urteilen in Dreierbesetzung, sofern nicht ein Mitglied der Dreierkammer die Beurteilung in Fünferbesetzung verlangt.
+<sup>2</sup> Die Kammern urteilen in Dreierbesetzung, sofern nicht ein Mitglied der Dreierkammer die Beurteilung in Fünferbesetzung verlangt.
 
-<sup>3</sup> Sind die Voraussetzungen für ein Nichteintreten auf eine Beschwerde, eine Klage oder einen Rekurs offensichtlich erfüllt, so kann die Beurteilung durch den Einzelrichter erfolgen.
+<sup>3</sup> Sind die Voraussetzungen für ein Nichteintreten auf ein Rechtsmittel offensichtlich erfüllt, so kann die Beurteilung durch den Einzelrichter erfolgen.
 
 #### § 21
 
@@ -358,11 +362,13 @@ beschliesst:
 
 #### § 34
 
-**Veröffentlichung von grundsätzlichen Urteilen**
+**Veröffentlichung von Urteilen**
 
-<sup>1</sup> Grundsätzliche Urteile werden in geeigneter Form veröffentlicht.
+<sup>1</sup> Das Verwaltungsgericht veröffentlicht seine Urteile in geeigneter Form.
 
 <sup>2</sup> Berechtigte öffentliche oder private Interessen dürfen dabei nicht verletzt werden.
+
+<sup>3</sup> In besonderen Fällen, insbesondere bei öffentlichem Interesse, können auch Verfügungen oder Beschlüsse veröffentlicht werden.
 
 ## 3. Schlussbestimmung
 
@@ -374,6 +380,6 @@ beschliesst:
 
 <sup>2</sup> Diese Geschäftsordnung ist in die Gesetzessammlung aufzunehmen.
 
-[^35-1]: Vom Kantonsrat genehmigt am 27. Jan. 1977 (GS 21, 11), am 26. März 1992 (GS 24, 23) und am 28. Nov.1996 (GS 25, 453).
+[^35-1]: Vom Kantonsrat genehmigt am 27. Januar 1977 (GS 21, 11), am 26. März 1992 (GS 24, 23), am 28. November 1996 (GS 25, 453) und am 21. Februar 2025 (GS 2025/009).
 
 GS 21, 3
