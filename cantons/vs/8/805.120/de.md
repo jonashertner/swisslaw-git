@@ -4,12 +4,12 @@ number: "805.120"
 title: Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Tages- oder Nachtpflegestrukturen
 language: de
 version: 2025-01-01
-valid_until: 2025-03-31
+corrected: 2025-02-28
 version_adopted: 2025-02-26
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.120"
-pdf: "https://lex.vs.ch/api/de/versions/3467/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -51,16 +51,16 @@ beschliesst:
 
 - a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 17,00
 - b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 33,00
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 52,50
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 72,50
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 95,00
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 113,00
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 133,50
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 154,00
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 176,00
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 197,00
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 216,50
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 250,50
+- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 52,00
+- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 72,00
+- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 94,50
+- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 112,00
+- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 132,50
+- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 152,50
+- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 174,50
+- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 195,00
+- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 214,00
+- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 248,00
 
 #### Art. 3
 
@@ -70,16 +70,16 @@ beschliesst:
 
 - a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 7,40
 - b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 13,80
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 23,70
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 34,10
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 47,00
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 55,40
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 66,30
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 77,20
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 89,60
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 101,00
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 110,90
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 135,30
+- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 23,20
+- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 33,60
+- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 46,50
+- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 54,40
+- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 65,30
+- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 75,70
+- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 88,10
+- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 99,00
+- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 108,40
+- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 132,80
 
 #### Art. 4
 
