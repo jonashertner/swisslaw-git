@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterial
 short: KMV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: de
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/de"
 
 (Kriegsmaterialverordnung, KMV)
 
-vom 25. Februar 1998 (Stand am 1. Januar 2025)
+vom 25. Februar 1998 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -377,11 +377,12 @@ Bei der Bewilligung von Auslandsgeschäften nach Artikel 22 KMG und des Abschlus
 
 <sup>1</sup> Grund-, General- und Einzelbewilligungen sind nicht übertragbar.
 
-<sup>2</sup> Ein-, Aus- und Durchfuhreinzelbewilligungen sind ein Jahr gültig und können um höchstens sechs Monate verlängert werden.
+<sup>2</sup> Ein-, Aus- und Durchfuhreinzelbewilligungen sind zwei Jahre gültig und können um höchstens ein Jahr verlängert werden.[^15-2]
 
 <sup>3</sup> Generaleinfuhrbewilligungen und Generaldurchfuhrbewilligungen sind zwei Jahre gültig. Wenn sie gestützt auf eine Grundbewilligung ausgestellt worden sind, verlieren sie mit dem Wegfall dieser Bewilligung ihre Gültigkeit.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. März 2025 ([AS 2025 76](https://fedlex.data.admin.ch/eli/oc/2025/76)).
 
 #### Art. 16
 

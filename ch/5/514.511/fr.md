@@ -4,11 +4,11 @@ title: Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)
 short: OMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: fr
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/fr"
 
 (OMG)
 
-du 25 février 1998 (État le 1<sup>er</sup> janvier 2025)
+du 25 février 1998 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -375,11 +375,12 @@ Le SECO se prononce, en accord avec les services compétents du Département fé
 
 <sup>1</sup> Les autorisations initiales, les licences générales et les autorisations spécifiques sont incessibles.
 
-<sup>2</sup> Les autorisations d’importation, d’exportation et de transit sont valables une année; elles peuvent être prolongées de six mois au plus.
+<sup>2</sup> Les autorisations d’importation, d’exportation et de transit sont valables deux ans; elles peuvent être prolongées d’une année au plus.[^15-2]
 
 <sup>3</sup> Les licences générales d’importation et les licences générales de transit sont valables deux ans. Si elles ont été établies sur la base d’une autorisation initiale, elles deviennent caduques lorsque cette autorisation arrive à échéance.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 76](https://fedlex.data.admin.ch/eli/oc/2025/76)).
 
 #### Art. 16
 

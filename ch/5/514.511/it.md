@@ -4,11 +4,11 @@ title: "Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinan
 short: OMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: it
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/it"
 
 (Ordinanza sul materiale bellico, OMB)
 
-del 25 febbraio 1998 (Stato 1° gennaio 2025)
+del 25 febbraio 1998 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -40,7 +40,7 @@ ordina:
 
 <sup>2</sup> L’ordinanza si applica al territorio doganale svizzero, ai depositi doganali aperti svizzeri, ai depositi di merci di gran consumo e ai depositi franchi doganali, nonché alle enclavi doganali svizzere.[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^1-2]: Nuovo testo giusta l’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
@@ -68,7 +68,7 @@ Alla domanda di autorizzazione di principio devono essere allegati:
 - e. un estratto del registro delle esecuzioni;
 - f. per le persone fisiche, un certificato di domicilio.
 
-[^3-1]: Abrogata dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^3-1]: Abrogata dalla cifra I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 #### Art. 4
 
@@ -82,7 +82,7 @@ Alla domanda di autorizzazione di principio devono essere allegati:
 
 <sup>3</sup> Se l’autorizzazione di principio è revocata, ritirata o, per altri motivi, è divenuta priva d’oggetto, il materiale bellico detenuto dal titolare dell’autorizzazione è realizzato o liquidato sotto la sorveglianza dell’autorità competente che rilascia le autorizzazioni.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## Sezione 3: Autorizzazioni specifiche
 
@@ -90,7 +90,7 @@ Alla domanda di autorizzazione di principio devono essere allegati:
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^5-1]: Abrogato dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 5a
 
@@ -106,7 +106,7 @@ Alla domanda di autorizzazione di principio devono essere allegati:
 
 <sup>4</sup> Se vi sono elementi che fanno supporre una violazione della dichiarazione di non riesportazione, l’autorità competente per il rilascio delle autorizzazioni può adottare provvedimenti preventivi. Il Dipartimento federale dell'economia decide in merito all’abrogazione di tali provvedimenti.
 
-[^5a-1]: Introdotto dal n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5533](https://fedlex.data.admin.ch/eli/oc/2012/639)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5533](https://fedlex.data.admin.ch/eli/oc/2012/639)).
 
 #### Art. 5b
 
@@ -116,7 +116,7 @@ Alla domanda di autorizzazione di principio devono essere allegati:
 
 Chi vuole esportare materiale bellico non destinato a un Governo estero o a un’azienda che agisce per conto di quest’ultimo, quando presenta la domanda d’esportazione deve provare che lo Stato di destinazione finale ha rilasciato la necessaria autorizzazione d’importazione o che quest’ultima non è necessaria.
 
-[^5b-1]: Originario art. 5*a*. Introdotto dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^5b-1]: Originario art. 5*a*. Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 #### Art. 5c
 
@@ -130,9 +130,9 @@ Chi vuole esportare materiale bellico non destinato a un Governo estero o a un�
 
 <sup>2</sup> In sede di rilascio dell’autorizzazione l’autorità competente considera anche i criteri di cui all’articolo 22*a* LMB.[^5c-3]
 
-[^5c-1]: Introdotto dal n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
-[^5c-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
-[^5c-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^5c-1]: Introdotto dalla cifra I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^5c-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^5c-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 6
 
@@ -146,7 +146,7 @@ Chi vuole esportare materiale bellico non destinato a un Governo estero o a un�
 
 <sup>3</sup> I capoversi 1 e 2 si applicano per analogia anche ai casi contemplati negli articoli 15 capoverso 3 o 16*a* capoverso 3 LMB; qualora siano necessarie autorizzazioni specifiche, per ogni domanda d’autorizzazione presentata il richiedente deve fornire la prova che dispone di una patente per il commercio di armi.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 #### Art. 6a
 
@@ -162,8 +162,8 @@ Chi vuole esportare materiale bellico non destinato a un Governo estero o a un�
 
 <sup>4</sup> Gli accordi di associazione alla normativa di Schengen sono riportati nell’allegato 3.
 
-[^6a-1]: Introdotto dal n. I dell’O del 21 nov. 2001 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Nuovo testo giusta l’all. 4 n. II 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
-[^6a-2]: Nuovo testo giusta il n. III 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Nuovo testo giusta l’all. 4 cifra II n. 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^6a-2]: Nuovo testo giusta la cifra III n. 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 7
 
@@ -198,14 +198,14 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 
 <sup>2</sup> L’importazione e la riesportazione di armi da fuoco con le relative munizioni da parte di persone delle categorie elencate nel capoverso 1 sono rette dalla legislazione sulle armi.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 9a
 
 [^9a-1]
 
-[^9a-1]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dal n. I dell’O del 27 ago. 2008, con effetto dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9a-1]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dalla cifra I dell’O del 27 ago. 2008, con effetto dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 
 #### Art. 9b
 
@@ -215,8 +215,8 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 
 <sup>2</sup> L’importazione e la riesportazione di armi da fuoco con le relative munizioni nell’ambito di dette attività sono rette dalla legislazione sulle armi.
 
-[^9b-1]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9b-2]: Nuova espr. giusta l’all. 4 n. II 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9b-1]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9b-2]: Nuova espr. giusta l’all. 4 cifra II n. 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 9c
 
@@ -228,9 +228,9 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 
 <sup>3</sup> Per il materiale bellico che rientra anche nel campo d’applicazione della legge del 20 giugno 1997[^9c-4] sulle armi sono fatte salve le disposizioni della legislazione sulle armi.
 
-[^9c-1]: Introdotto dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9c-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
-[^9c-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9c-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 [^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 9d
@@ -245,7 +245,7 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 
 <sup>4</sup> Per il materiale bellico che rientra anche nel campo d’applicazione della legge del 20 giugno 1997[^9d-2] sulle armi sono fatte salve le disposizioni della legislazione sulle armi.
 
-[^9d-1]: Introdotto dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9d-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^9d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 9e
@@ -262,10 +262,10 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 
 <sup>5</sup> Se del caso, l’AGI o l’AGT è rifiutata per un anno; in casi motivati tale durata può essere ridotta a sei mesi.
 
-[^9e-1]: Introdotto dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9e-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^9e-3]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^9e-4]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9e-3]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9e-4]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-5]: Nuovo testo giustal’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -286,7 +286,7 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 <sup>3</sup> Esso vigila sulle importazioni di beni per i quali ha rilasciato i certificati di importazione.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 #### Art. 11
 
@@ -296,7 +296,7 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 <sup>2</sup> Egli deve dimostrare alla SECO l’avvenuta importazione mediante l’originale della decisione d’imposizione doganale e le relative fatture dei fornitori. I giustificativi sono da esibire immediatamente dopo la ricezione dell’originale della decisione d’imposizione doganale.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 12
 
@@ -318,7 +318,7 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 <sup>2</sup> Per il rilascio dell’autorizzazione a una persona giuridica dev’essere fornita la prova di controlli affidabili in seno all’azienda inerenti al rispetto delle prescrizioni della legislazione sul materiale bellico.
 
-[^12a-1]: Introdotto dal n. III 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^12a-1]: Introdotto dalla cifra III n. 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 13
 
@@ -335,9 +335,9 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 [^13-1]: Nuovo testo giusta l’art. 17 n. 2 dell’O del 13 nov. 2024 sulla cooperazione militare internazionale, in vigore dal 1° gen. 2024 ([RU 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 [^13-2]: RS **580.81**
 [^13-3]: Nuovo testo giusta l’art. 17 n. 2 dell’O del 13 nov. 2024 sulla cooperazione militare internazionale, in vigore dal 1° gen. 2024 ([RU 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
-[^13-4]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-4]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dalla cifra I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
-[^13-6]: Nuovo testo giusta il n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^13-6]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
 
@@ -363,11 +363,11 @@ Per le autorizzazioni di affari con l’estero secondo l’articolo 22 LMB e la 
 
 <sup>5</sup> In casi di importanza minore o qualora vi siano dei precedenti, i servizi interessati possono rinunciare a una trattazione comune e autorizzare la SECO a decidere autonomamente.
 
-[^14-1]: Nuovo testo giusta l’all. 4 n. II 20 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
-[^14-3]: Introdotta dal n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
-[^14-4]: Introdotto dal n. I dell’O del 27 ago. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)). Nuovo testo giusta l’all. 4 n. II 20 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^14-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^14-1]: Nuovo testo giusta l’all. 4 cifra II n. 20 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^14-3]: Introdotta dalla cifra I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^14-4]: Introdotto dalla cifra I dell’O del 27 ago. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)). Nuovo testo giusta l’all. 4 cifra II n. 20 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^14-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 #### Art. 15
 
@@ -375,11 +375,12 @@ Per le autorizzazioni di affari con l’estero secondo l’articolo 22 LMB e la 
 
 <sup>1</sup> Le autorizzazioni di principio, quelle generali e quelle specifiche non sono trasferibili.
 
-<sup>2</sup> Le autorizzazioni specifiche di importazione, di esportazione e di transito sono valide un anno e possono essere prorogate di sei mesi al massimo.
+<sup>2</sup> Le autorizzazioni specifiche di importazione, di esportazione e di transito sono valide due anni e possono essere prorogate di un anno al massimo.[^15-2]
 
 <sup>3</sup> Le autorizzazioni generali d’importazione e le autorizzazioni generali di transito sono valide due anni. Se sono state rilasciate sulla base di un’autorizzazione di principio, esse perdono la loro validità alla scadenza dell’autorizzazione di principio.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 29 gen. 2025, in vigore dal 1° mar. 2025 ([RU 2025 76](https://fedlex.data.admin.ch/eli/oc/2025/76)).
 
 #### Art. 16
 
@@ -390,7 +391,7 @@ Per le autorizzazioni di affari con l’estero secondo l’articolo 22 LMB e la 
 <sup>2</sup> Chiunque importa, esporta o fa transitare merci con un’autorizzazione deve indicare nella dichiarazione doganale il tipo di autorizzazione, l’autorità preposta all’autorizzazione e il numero dell’autorizzazione.[^16-2]
 
 [^16-1]: Nuovo testo giusta l’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^16-2]: Introdotto dal n. III 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^16-2]: Introdotto dalla cifra III n. 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Sezione 6: Controllo e disposizioni amministrative
 
@@ -431,7 +432,7 @@ Chi ha l’obbligo di tenere la contabilità deve accertarsi, prima di consegnar
 
 <sup>2</sup> Il controllo al confine incombe all’Ufficio federale della dogana e dell’UDSC.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 
 #### Art. 20
 
@@ -449,7 +450,7 @@ L’Ufficio centrale per la repressione delle attività illegali concernenti mat
 
 <sup>2</sup> A chi non rispetta le condizioni e gli oneri relativi all’autorizzazione e ai certificati di importazione oppure le prescrizioni o le disposizioni emanate in virtù della legislazione sul materiale bellico, l’autorità preposta al rilascio dell’autorizzazione può ritirare le autorizzazioni rilasciate, può rifiutare di prorogarle o di rinnovarle o rifiutare di rilasciare, per un periodo determinato, nuove autorizzazioni o certificati di importazione.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## Sezione 7: Emolumenti
 
@@ -495,17 +496,17 @@ Non è riscosso alcun emolumento per:
 
 <sup>7</sup> Per il resto sono applicabili le disposizioni dell’ordinanza generale dell’8 settembre 2004[^22-10] sugli emolumenti.[^22-11]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^22-2]: Abrogata dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^22-3]: Introdotta dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^22-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^22-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^22-6]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^22-7]: Abrogata dal n. I dell’O del 27 ago. 2008, con effetto dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^22-8]: Introdotto dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^22-9]: Introdotto dal n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-2]: Abrogata dalla cifra I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-3]: Introdotta dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-6]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^22-7]: Abrogata dalla cifra I dell’O del 27 ago. 2008, con effetto dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^22-8]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-9]: Introdotto dalla cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
 [^22-10]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^22-11]: Introdotto dal n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
+[^22-11]: Introdotto dalla cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
 
 ## Sezione 8: Disposizioni finali
 
@@ -523,7 +524,7 @@ Non è riscosso alcun emolumento per:
 
 L’ordinanza del 10 gennaio 1973[^24-1] sul materiale bellico è abrogata.
 
-[^24-1]: [[RU 1973 120](https://fedlex.data.admin.ch/eli/oc/1973/116_114_120), 256; [1978 199](https://fedlex.data.admin.ch/eli/oc/1978/199_199_199); [1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536)art. 91; [1987 791](https://fedlex.data.admin.ch/eli/oc/1987/791_791_791); [1992 2497](https://fedlex.data.admin.ch/eli/oc/1992/2497_2497_2497); [1996 1035](https://fedlex.data.admin.ch/eli/oc/1996/1035_1035_1035)n. II; [1997 17](https://fedlex.data.admin.ch/eli/oc/1997/17_17_17)art. 38 n. 2]
+[^24-1]: [[RU 1973 120](https://fedlex.data.admin.ch/eli/oc/1973/116_114_120), 256; [1978 199](https://fedlex.data.admin.ch/eli/oc/1978/199_199_199); [1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536)art. 91; [1987 791](https://fedlex.data.admin.ch/eli/oc/1987/791_791_791); [1992 2497](https://fedlex.data.admin.ch/eli/oc/1992/2497_2497_2497); [1996 1035](https://fedlex.data.admin.ch/eli/oc/1996/1035_1035_1035)cifra II; [1997 17](https://fedlex.data.admin.ch/eli/oc/1997/17_17_17)art. 38 n. 2]
 
 #### Art 24a
 
@@ -531,7 +532,7 @@ L’ordinanza del 10 gennaio 1973[^24-1] sul materiale bellico è abrogata.
 
 Le domande pendenti al momento dell’entrata in vigore della modifica del 19 settembre 2014 sono trattate conformemente al nuovo diritto.
 
-[^24a-1]: Introdotto dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
 
 #### Art. 24b
 
@@ -543,7 +544,7 @@ Le domande pendenti al momento dell’entrata in vigore della modifica del 19 se
 
 <sup>3</sup> Per il materiale bellico la cui esportazione è stata autorizzata prima dell’entrata in vigore delle modifiche del 30 marzo 2022 e che non è stato possibile esportare interamente o in parte entro la durata di validità dell’autorizzazione o della sua proroga è necessario presentare una nuova domanda di esportazione. La nuova domanda è trattata conformemente al diritto anteriore.
 
-[^24b-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^24b-1]: Introdotto dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 25
 
@@ -553,8 +554,8 @@ Le domande pendenti al momento dell’entrata in vigore della modifica del 19 se
 
 <sup>3</sup> ...[^25-2]
 
-[^25-1]: Abrogati dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^25-2]: Introdotto dal n. I dell’O del 21 nov. 2001 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Abrogato dal n. IV 14 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^25-1]: Abrogati dalla cifra I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^25-2]: Introdotto dalla cifra I dell’O del 21 nov. 2001 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Abrogato dalla cifra IV n. 14 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 26
 
@@ -568,7 +569,7 @@ Allegato 1[^t-1]
 
 ## Elenco del materiale bellico
 
-[^t-1]: Aggiornato giusta il n. I dell’O del 25 ago. 1999 ([RU 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)) e il n. II dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^t-1]: Aggiornato giusta la cifra I dell’O del 25 ago. 1999 ([RU 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)) e la cifra II dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 Nota:
 
@@ -630,7 +631,7 @@ Allegato 2[^t-2]
 
 ## Elenco degli Stati per i quali non è richiesta alcuna autorizzazione specifica giusta gli articoli 6 e 7 OMB
 
-[^t-2]: Aggiornato dal n. I dell’O del 25 ago. 1999, in vigore dal 1° ott. 1999 ([RU 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+[^t-2]: Aggiornato dalla cifra I dell’O del 25 ago. 1999, in vigore dal 1° ott. 1999 ([RU 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
 
 Argentina
 
@@ -688,7 +689,7 @@ Allegato 3[^t-3]
 
 ## Accordi di associazione alla normativa di Schengen
 
-[^t-3]: Introdotto dall’all. 4 n. II 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^t-3]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
 
 Gli accordi di associazione alla normativa di Schengen comprendono:
 

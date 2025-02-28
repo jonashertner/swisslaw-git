@@ -4,11 +4,11 @@ title: "Ordinance of 25 February 1998 on War Material (War Material Ordinance, W
 short: WMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: en
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Materiel Ordinance, WMO)
 
-of 25 February 1998 (Status as of 1 January 2025)
+of 25 February 1998 (Status as of 1 March 2025)
 
 The Swiss Federal Council,
 
@@ -379,11 +379,12 @@ In the case of the licensing of foreign transactions under Article 22 WMA and of
 
 <sup>1</sup> Initial, general and specific licences may not be assigned.
 
-<sup>2</sup> Import, export and transit licences are valid for one year and may be extended by a maximum of six months.
+<sup>2</sup> Import, export and transit licences are valid for two years and may be extended by a maximum of one year.[^15-2]
 
 <sup>3</sup> General import licences and general transit licences are valid for two years. If they have been issued on the basis of an initial licence, they cease to be valid on the expiry of the initial licence.
 
 [^15-1]: Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^15-2]: Amended by No I of the O of 29 Jan. 2025, in force since 1 March 2025 ([AS 2025 76](https://fedlex.data.admin.ch/eli/oc/2025/76)).
 
 #### Art. 16
 
