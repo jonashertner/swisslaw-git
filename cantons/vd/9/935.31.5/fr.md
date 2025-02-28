@@ -4,7 +4,7 @@ number: "935.31.5"
 title: "RÈGLEMENT du 20.12.2006 sur la taxe, les émoluments et les contributions à percevoir en application de la loi du 26 mars 2002 sur les auberges et les débits de boissons (RE-LADB)"
 short: RE-LADB
 language: fr
-version: 2016-01-01
+version: 2025-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31.5?id=9a75a0e9-8a58-4af6-be49-73d8d85b77cd"
 ---
 
@@ -263,7 +263,7 @@ arrête
 
 <sup>1</sup> Cet émolument est fixé par catégorie de licence d'établissement, de traiteur ou particulière, en fonction de l'importance de l'exploitation, et sur la base de l'échelle suivante :
 
-- a. gîte rural, table d'hôtes, caveau, chalet d'alpage, buvette, salon de jeux sans boissons, salon de jeux avec boissons sans alcool, tea-room, bar à café, licence particulière sans alcool : Fr. 100.-
+- a. gîte rural, table d'hôtes, caveau, chalet d'alpage, buvette, salon de jeux sans boissons, salon de jeux avec boissons sans alcool, tea-room, bar à café, licence particulière sans alcool, licence particulière de capite : Fr. 100.-
 - b. hôtel, café-restaurant, café-bar, salon de jeux avec boissons alcooliques, salon de jeux avec restauration, licence particulière avec alcool, traiteur : Fr. 350.-
 - c. discothèque, night-club, licence particulière de salon au sens de la loi sur l'exercice de la prostitution[^20-1] : Fr. 1'000.-
 
