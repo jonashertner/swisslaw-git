@@ -4,11 +4,11 @@ title: Verordnung vom 20. September 2013 über klinische Versuche mit Ausnahme k
 short: KlinV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: de
-version: 2024-11-01
+version: 2025-03-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20241101-de-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/de"
 
 (Verordnung über klinische Versuche; KlinV)[^t-1]
 
-vom 20. September 2013 (Stand am 1. November 2024)
+vom 20. September 2013 (Stand am 1. März 2025)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -207,9 +207,10 @@ Zusätzlich zu den Inhalten nach Artikel 16 Absatz 2 HFG muss die betroffene Per
 - f. ihr Recht, über die ihre Gesundheit betreffenden Ergebnisse informiert zu werden, sowie ihr Recht, auf diese Information zu verzichten oder eine Person zu bestimmen, die diese Entscheidung für sie treffen soll;
 - g. die Massnahmen, die zur Deckung allfälliger Schäden im Zusammenhang mit dem klinischen Versuch vorgesehen sind, einschliesslich der Vorgehensweise im Schadensfall;
 - h. den Sponsor und die Hauptfinanzierungsquellen des klinischen Versuchs;
+- h<sup>bis</sup>.[^7-2] Angaben zum erwarteten Zeitpunkt der Veröffentlichung der Laienzusammenfassung der Versuchsergebnisse nach Artikel 65*a* Absatz 2 und unter welchem Eintrag im Portal nach Artikel 67 diese zu finden sein werden;
 - i. weitere Inhalte, die für den Entscheid der betroffenen Person erforderlich sind.
 
-<sup>2</sup> Ist eine Weiterverwendung des im klinischen Versuch entnommenen biologischen Materials oder der im klinischen Versuch erhobenen gesundheitsbezogenen Personendaten für die Forschung beabsichtigt, so muss die betroffene Person zusätzlich über die Inhalte nach den Artikeln 28–32 der Humanforschungsverordnung vom 20. September 2013[^7-2] aufgeklärt werden.
+<sup>2</sup> Ist eine Weiterverwendung des im klinischen Versuch entnommenen biologischen Materials oder der im klinischen Versuch erhobenen gesundheitsbezogenen Personendaten für die Forschung beabsichtigt, so muss die betroffene Person zusätzlich über die Inhalte nach den Artikeln 28–32 der Humanforschungsverordnung vom 20. September 2013[^7-3] aufgeklärt werden.
 
 <sup>3</sup> Die Aufklärung kann in Etappen durchgeführt werden. Sie kann zusätzlich in anderer als der Textform erfolgen.
 
@@ -218,11 +219,12 @@ Zusätzlich zu den Inhalten nach Artikel 16 Absatz 2 HFG muss die betroffene Per
 Es ist durch geeignete Massnahmen sicherzustellen, dass die betroffene Person die wesentlichen Aufklärungsinhalte versteht; insbesondere:
 
 - a. ist die betroffene Person über Sinn und Ablauf der Aufklärung zu informieren;
-- b. sind die Aufklärungsinhalte geeignet, strukturiert und anschaulich zu vermitteln.[^7-3]
+- b. sind die Aufklärungsinhalte geeignet, strukturiert und anschaulich zu vermitteln.[^7-4]
 
 [^7-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7-2]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^7-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^7-3]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
 
@@ -1388,35 +1390,62 @@ Als schwerwiegendes unerwünschtes Ereignis gilt jedes Ereignis, das:
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-## 5. Kapitel: Registrierung
+## 5. Kapitel: Registrierung und Veröffentlichung
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 64
 
-**ZulässigeRegister und einzutragende Daten**
+**Registrierung und einzutragende Daten[^64-1]**
 
 <sup>1</sup>
 
-Der Sponsor muss für einen bewilligten klinischen Versuch die Daten nach Anhang 5 Ziffer 1 registrieren:
+Der Sponsor muss einen bewilligten klinischen Versuch registrieren und veröffentlichen, indem er die Daten nach Anhang 5 Ziffer 1 einträgt:[^64-2]
 
-- a. in einem von der Weltgesundheitsorganisation (WHO) anerkannten Primär-Register[^64-1]; oder
-- b. im Register der Nationalen Medizinbibliothek der Vereinigten Staaten von Amerika[^64-2].
+- a. in einem von der Weltgesundheitsorganisation (WHO) anerkannten Primär-Register[^64-3]; oder
+- b. im Register der Nationalen Medizinbibliothek der Vereinigten Staaten von Amerika[^64-4].
 
-<sup>2</sup> Er trägt die Daten nach Anhang 5 Ziffer 2 in einer Landessprache der Schweiz zusätzlich in der ergänzenden Datenbank des Bundes ein.
+<sup>2</sup> Er trägt die Daten nach Anhang 5 Ziffern 2.1–2.9 in den Landessprachen der Schweiz, in denen die Rekrutierung beabsichtigt ist, zusätzlich im Informationssystem der Kantone nach Artikel 56*a* HFG ein.[^64-5]
 
-<sup>3</sup> Die Daten sind in der von der zuständigen Ethikkommission bewilligten Fassung einzutragen.
+<sup>2bis</sup> Bei klinischen Versuchen der Phase I, in denen das zu untersuchende Arzneimittel ausschliesslich erwachsenen Personen verabreicht wird, können die Daten nach Anhang 5 Ziffer 3.1 vorerst von der Eintragung gemäss Absatz 1, 2 und 4 ausgenommen werden; sie müssen aber spätestens innert der in Anhang 5 Ziffer 3.2 angegebenen Frist eingetragen und automatisch veröffentlicht werden.[^64-6]
 
-[^64-1]: Die Register sind einsehbar unter: [www.who.int/](http://www.who.int/) &gt; Programmes and projects &gt; Clinical Trials International Registry Platform.
-[^64-2]: Das Register ist einsehbar unter: [www.clinicaltrials.gov](http://www.clinicaltrials.gov).
+<sup>3</sup> Die Daten sind in der von der zuständigen Ethikkommission bewilligten Fassung einzutragen. Sie sind regelmässig zu aktualisieren.[^64-7]
+
+<sup>4</sup> Die Registrierung und Eintragung nach den Absätzen 1 und 2 müssen vor der Durchführung und innert sechs Monaten nach Erteilung der Bewilligung des klinischen Versuchs erfolgen.[^64-8]
+
+<sup>5</sup> Die Daten nach Anhang 5 Ziffern 2.1‑2.14 werden spätestens sechs Monate nach Erteilung der Bewilligung des klinischen Versuchs automatisch im Portal nach Artikel 67 veröffentlicht.[^64-9]
+
+[^64-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-3]: Die Register sind einsehbar unter: [www.who.int/](http://www.who.int/) &gt; Programmes and projects &gt; Clinical Trials International Registry Platform.
+[^64-4]: Das Register ist einsehbar unter: [www.clinicaltrials.gov](http://www.clinicaltrials.gov).
+[^64-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-6]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-7]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-8]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-9]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 65
 
-**Zeitpunkt der Registrierung**
+[^65-1]
 
-<sup>1</sup> Die Registrierung nach Artikel 64 muss spätestens vor der Durchführung des klinischen Versuchs erfolgen; vorbehalten bleibt Absatz 2.
+[^65-1]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-<sup>2</sup> Klinische Versuche, in denen das zu untersuchende Arzneimittel erstmals erwachsenen Personen verabreicht wird (klinische Versuche der Phase I), müssen spätestens ein Jahr nach Abschluss des klinischen Versuchs registriert werden.
+#### Art. 65a
 
-<sup>3</sup> Der Sponsor muss die eingetragenen Daten nach den Vorgaben des jeweiligen Registers nach Artikel 64 Absatz 1, jedoch mindestens einmal jährlich aktualisieren.
+**Veröffentlichung der Versuchsergebnisse**[^65a-1]
+
+<sup>1</sup> Der Sponsor muss sicherstellen, dass eine Zusammenfassung der Versuchsergebnisse innert eines Jahres nach Abschluss oder Abbruch des klinischen Versuchs in einem Register nach Artikel 64 Absatz 1 Buchstabe a oder b eingetragen und veröffentlicht wird. Ein mehr als zwei Jahre dauernder Unterbruch gilt als Abbruch.
+
+<sup>2</sup> Zwecks Veröffentlichung im Portal nach Artikel 67 muss er zusätzlich sicherstellen, dass eine Laienzusammenfassung der Versuchsergebnisse nach Anhang 5 Ziffer 2.15 im Informationssystem der Kantone eingetragen wird; es gilt die Frist nach Absatz 1. Die Eintragung muss mindestens in den Landessprachen der Schweiz erfolgen, in welchen Personen rekrutiert wurden.
+
+<sup>3</sup> Bei klinischen Versuchen der Phase I in denen das zu untersuchende Arzneimittel ausschliesslich erwachsenen Personen verabreicht wird, muss die Veröffentlichung der Versuchsergebnisse nach den Absätzen 1 und 2 spätestens innert der in Anhang 5 Ziffer 3.2 angegebenen Frist erfolgen.
+
+<sup>4</sup> Ist die fristgerechte Veröffentlichung der Versuchsergebnisse nach den Absätzen 1 und 2 aus wissenschaftlichen Gründen nicht möglich, so muss dies der Sponsor in den Gesuchsunterlagen begründen und angeben, wann die Veröffentlichung erfolgen wird.
+
+[^65a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 66
 
@@ -1426,20 +1455,14 @@ Der Sponsor ist für die Richtigkeit und die Vollständigkeit der eingetragenen 
 
 #### Art. 67
 
-**Portal**
+**Portal**[^67-1]
 
-<sup>1</sup> Der öffentliche Zugang zu Informationen über in der Schweiz durchgeführte klinische Versuche wird durch einen informatikbasierten Zugang zu einem Register oder mehreren Registern (Portal) sichergestellt.
+<sup>1</sup> Das BAG betreibt ein Portal, das den öffentlichen Zugang zu Informationen über in der Schweiz durchgeführte klinische Versuche durch einen informatikbasierten Zugang zu einem Register oder mehreren Registern sicherstellt.
 
-<sup>2</sup>
+<sup>2</sup> Das Portal ermöglicht namentlich die Verknüpfung der nach Artikel 64 und 65*a* sowie Artikel 41 und 42 der KlinV‑Mep[^67-2] einzutragenden Daten und die Veröffentlichung derselben sowie weiterer Daten aus dem Informationssystem der Kantone entsprechend Anhang 5.
 
-Das Portal ermöglicht namentlich:
-
-- a. die Verknüpfung der Daten der ergänzenden Datenbank des Bundes mit denjenigen der zulässigen Register nach Artikel 64 Absatz 1;
-- b. die stichwortorientierte Suche nach klinischen Versuchen.
-
-<sup>3</sup> Der Betrieb des Portals sowie der ergänzenden Datenbank des Bundes wird durch die Koordinationsstelle nach Artikel 10 der Organisationsverordnung HFG vom 20. September 2013[^67-1] sichergestellt.
-
-[^67-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^67-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^67-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -1489,7 +1512,7 @@ Die Änderung anderer Erlasse wird in Anhang 6 geregelt.
 
 **Übergangsbestimmungen zur Änderung vom 7. Juni 2024**[^72-1]
 
-<sup>1</sup> Die Fristen nach den Artikeln 23*a* Absatz 1, 38 Absatz 2 dritter Satz, und 65*a* Absatz 1 zweiter Satz[^72-2] beginnen bei laufenden klinischen Versuchen, die vor Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, ab Inkrafttreten dieser Änderung zu laufen; bei klinischen Versuchen, die vor Inkrafttreten dieser Änderung erst über eine von zwei notwendigen Bewilligungen verfügen, beginnt die Frist nach den Artikeln 23 Absatz 1<sup>bis</sup> und 50 Absatz 1<sup>bis</sup> ab Inkrafttreten dieser Änderung zu laufen.
+<sup>1</sup> Die Fristen nach den Artikeln 23*a* Absatz 1, 38 Absatz 2 dritter Satz, und 65*a* Absatz 1 zweiter Satz beginnen bei laufenden klinischen Versuchen, die vor Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, ab Inkrafttreten dieser Änderung zu laufen; bei klinischen Versuchen, die vor Inkrafttreten dieser Änderung erst über eine von zwei notwendigen Bewilligungen verfügen, beginnt die Frist nach den Artikeln 23 Absatz 1<sup>bis</sup> und 50 Absatz 1<sup>bis</sup> ab Inkrafttreten dieser Änderung zu laufen.
 
 <sup>2</sup> Bei laufenden klinischen Versuchen, die vor Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, können die Melde-, Berichterstattungs- und Dokumentationspflichten in ihrer Gesamtheit nach Kapitel 2 Abschnitt 5, Kapitel 3 Abschnitt 4 sowie Kapitel 4 Abschnitt 2 bis ein Jahr nach Inkrafttreten dieser Änderung nach bisherigem Recht erfüllt werden.
 
@@ -1498,7 +1521,6 @@ Die Änderung anderer Erlasse wird in Anhang 6 geregelt.
 <sup>4</sup> Fällt ein bewilligter klinischer Versuch mit Arzneimitteln nach dem Inkrafttreten der Änderung vom 7. Juni 2024 nach neuem Recht in eine andere Kategorie nach Artikel 19, so kann der Sponsor bis ein Jahr nach Inkrafttreten der Änderung vom 7. Juni 2024 eine Anpassung der Kategorie in Form einer wesentlichen Änderung beantragen. Diese muss zuerst bei der Swissmedic und nach deren Bewilligung bei der zuständigen Ethikkommission eingereicht werden.
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^72-2]: Tritt am 1. März 2025 in Kraft ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 73
 
@@ -1544,7 +1566,7 @@ Als Regeln der Guten Klinischen Praxis sind anwendbar:
 
 Anwendbar ist die *International Classification of Diseases* der WHO in der Fassung von 2010 (ICD-10)[^annex1-lvlu1-lvl3-1]; massgebend ist die mit dreistelligem Code definierte Krankheitsgruppe.
 
-[^annex1-lvlu1-lvl3-1]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter: [www.who.int/](http://www.who.int/) &gt; Data &gt; Classifications.
+[^annex1-lvlu1-lvl3-1]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter: [www.who.int/](http://www.who.int/) &gt; Health topics &gt; Classifications of disease.
 
 Anhang 2[^t-3]
 
@@ -1779,28 +1801,64 @@ Anhang 4[^t-6]
 - 6\.8 allfällige Entscheide von Aufsichtsbehörden anderer Länder zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung;
 - 6\.9 Information über allfällige Gesuche, die bei einer Ethikkommission in der Schweiz hängig sind, und über allfällige Entscheide von Ethikkommissionen in der Schweiz.
 
-Anhang 5
+Anhang 5[^t-7]
 
-(Art. 64)
+(Art. 64 und 65*a*)
 
-## Inhalte der Registrierung
+## Einzutragende und im Portal veröffentlichte Daten
+
+[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1. In einem Register einzutragende Daten
 
-In einem Register nach Artikel 64 Absatz 1 sind die Daten nach dem von der WHO festgelegten Minimaldatensatz der Version 1.2.1[^annex5-lvlu1-lvl1-1] einzutragen.
+In einem Register nach Artikel 64 Absatz 1 sind die Daten nach dem von der WHO festgelegten Minimaldatensatz der Version 1.3.1[^annex5-lvlu1-lvl1-1] einzutragen.
 
-[^annex5-lvlu1-lvl1-1]: Der Minimaldatensatz kann beim Bundesamt für Gesundheit, 3003 Bern, kostenlos eingesehen oder unter folgenden Internetadressen abgerufen werden: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter [www.who.int](https://www.who.int) &gt; Programmes and projects &gt; Clinical Trials International Registry Platform &gt; Registry network.
+[^annex5-lvlu1-lvl1-1]: [www.who.int](https://www.who.int/clinical-trials-registry-platform/network/who-data-set) &gt; Data &gt; Data collections &gt; International Clinical Trials Registry Platform (ICTRP) &gt; ICTRP Registry Network &gt; WHO data set
 
-### 2. In der ergänzenden Datenbank einzutragende Daten
+### 2. Im Informationssystem der Kantone einzutragende Daten
 
-In der ergänzenden Datenbank nach Artikel 64 Absatz 2 sind folgende Daten in einer Schweizer Landessprache einzutragen:
+- 2\.1 Bezeichnung des Registers nach Artikel 64 Absatz 1, in dem die Daten eingetragen wurden und die Registrierungsnummer, die vom Register vergeben wurde;
+- 2\.2 Titel des klinischen Versuchs sowie Laienzusammenfassung des Prüfplans;
+- 2\.3 untersuchte Krankheit beziehungsweise untersuchter Gesundheitszustand;
+- 2\.4 Angabe, ob im klinischen Versuch eine seltene Krankheit untersucht wird;
+- 2\.5 die zu untersuchende Intervention;
+- 2\.6 Ein- und Ausschlusskriterien;
+- 2\.7 Durchführungsorte in der Schweiz;
+- 2\.8 Kontaktangaben einer für den klinischen Versuch zuständigen Person;
+- 2\.9 Rekrutierungsstatus in der Schweiz;
+- 2\.10 Sponsor, bei ausländischem Sponsor zusätzlich dessen Vertretung in der Schweiz;
+- 2\.11 Datum der Versuchsbewilligung durch die Ethikkommission sowie Name der bewilligenden Ethikkommission;
+- 2\.12 Studienidentifikationsnummer der Ethikkommission;
+- 2\.13 Angabe, ob spezielle Studienpopulationen teilnehmen, und gegebenenfalls, welche;
+- 2\.14 Datum des Beginns und des Abschlusses des klinischen Versuchs in der Schweiz;
+- 2\.15
 
-- a. Bezeichnung des Registers nach Artikel 64 Absatz 1, in dem die Daten eingetragen wurden, sowie der Zeitpunkt der Registrierung und die Identifikationsnummer, die vom Register vergeben wurde;
-- b. Titel des klinischen Versuchs sowie Zusammenfassung des Studienprotokolls in allgemeinverständlicher Sprache (Laiensprache);
-- c. die zu untersuchende gesundheitsbezogene Intervention;
-- d. untersuchte Krankheit beziehungsweise untersuchter Gesundheitszustand;
-- e. Ein- und Ausschlusskriterien;
-- f. Durchführungsorte.
+  Laienzusammenfassung der Versuchsergebnisse, namentlich:
+
+  - a. Titel und Identifikationsnummern des klinischen Versuchs (namentlich Prüfplan-Codenummer, Studienidentifikationsnummer der Ethikkommission und Registrierungsnummer im Register nach Art. 64 Abs. 1),
+  - b. Name und Kontaktangaben des Sponsors,
+  - c. allgemeine Informationen zum klinischen Versuch (insbesondere wo und wann der Versuch durchgeführt wurde, Hauptziele des Versuchs und Erläuterung der Gründe für die Durchführung des Versuchs),
+  - d. Beschreibung der Studienpopulation; insbesondere Anzahl der Personen, die in der Schweiz und anderen Staaten am klinischen Versuch teilgenommen haben, deren Verteilung nach Altersgruppen und Geschlecht sowie Ein- und Ausschlusskriterien,
+  - e. Bezeichnung der untersuchten Intervention, inklusive Vergleichsinterventionen oder Placebos,
+  - f. Beschreibung der interventionsbedingten unerwünschten Wirkungen und deren Häufigkeit,
+  - g. Hauptergebnisse des klinischen Versuchs,
+  - h. Anmerkungen zum Ergebnis des klinischen Versuchs,
+  - i. Angabe, ob weiterführende klinische Versuche vorgesehen sind,
+  - j. Angabe, wo zusätzliche Informationen zu finden sind.
+
+### 3. Ausnahmen bei der Registrierung und Veröffentlichung von klinischen Versuchen der Phase I, in denen das zu untersuchende Arzneimittel ausschliesslich erwachsenen Personen verabreicht wird
+
+### 3.1. Daten mit verzögerter Registrierungspflicht
+
+- 3\.1.1 Laienzusammenfassung des Prüfplans;
+- 3\.1.2 genaue Angabe der untersuchten Krankheit, die Krankheitsgruppe nach ICD muss jedoch angegeben werden;
+- 3\.1.3 untersuchtes Arzneimittel;
+- 3\.1.4 Ein- und Ausschlusskriterien;
+- 3\.1.5 primäre und sekundäre Endpunkte.
+
+### 3.2. Frist für die verzögerte Eintragung, Registrierung und Veröffentlichung
+
+30 Monate nach Abschluss oder Abbruch des klinischen Versuchs.
 
 Anhang 6
 

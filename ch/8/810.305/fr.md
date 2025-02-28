@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 sur les essais cliniques hors essais cli
 short: OClin
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: fr
-version: 2024-11-01
+version: 2025-03-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20241101-fr-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/fr"
 
 (Ordonnance sur les essais cliniques, OClin)[^t-1]
 
-du 20 septembre 2013 (État le 1<sup>er</sup> novembre 2024)
+du 20 septembre 2013 (État le 1<sup>er</sup> mars 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -209,9 +209,10 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 - f. du droit qu’elle a d’être informée des résultats concernant sa santé ou de renoncer à recevoir ces informations, ou de désigner une personne qui prend cette décision pour elle;
 - g. des dispositions prises pour couvrir d’éventuels dommages liés à l’essai clinique, y compris de la procédure en cas de dommages;
 - h. du promoteur et des principales sources de financement de l’essai clinique;
+- h<sup>bis</sup>.[^7-2] de la date prévue pour la publication de la synthèse des résultats de l’essai destinée aux profanes au sens de l’art. 65*a*, al. 2, et des moyens d’y accéder sur le portail visé à l’art. 67;
 - i. d’autres éléments nécessaires pour qu’elle puisse prendre sa décision.
 
-<sup>2</sup> Si une réutilisation du matériel biologique prélevé lors de l’essai clinique ou des données personnelles liées à la santé récoltées lors de l’essai clinique est prévue pour la recherche, les informations figurant aux art. 28 à 32 de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^7-2] doivent être fournies à la personne concernée.
+<sup>2</sup> Si une réutilisation du matériel biologique prélevé lors de l’essai clinique ou des données personnelles liées à la santé récoltées lors de l’essai clinique est prévue pour la recherche, les informations figurant aux art. 28 à 32 de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^7-3] doivent être fournies à la personne concernée.
 
 <sup>3</sup> L’information peut être effectuée par étapes successives. Elle peut, de plus, être donnée autrement que sous forme de texte.
 
@@ -220,11 +221,12 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 Les mesures appropriées doivent être prises afin de s’assurer que la personne concernée comprend les éléments essentiels de l’information; il convient en particulier:
 
 - a. d’expliquer à la personne concernée le sens et le déroulement de la procédure d’information;
-- b. de transmettre l’information de manière adéquate, structurée et compréhensible.[^7-3]
+- b. de transmettre l’information de manière adéquate, structurée et compréhensible.[^7-4]
 
 [^7-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^7-3]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
 
@@ -1400,35 +1402,62 @@ Sont considérés comme des événements indésirables graves les incidents qui:
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-## Chapitre 5 Enregistrement
+## Chapitre 5 Enregistrement et publication
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 64
 
-**Registres admis et données enregistrées**
+**Enregistrement et données à saisir[^64-1]**
 
 <sup>1</sup>
 
-Le promoteur doit enregistrer pour un essai clinique autorisé les données mentionnées dans l’annexe, 5 ch. 1, dans:
+Le promoteur doit enregistrer et publier l’essai clinique autorisé en saisissant les données mentionnées à l’annexe 5, ch. 1, dans:[^64-2]
 
-- a. un registre primaire reconnu par l’Organisation mondiale de la santé (OMS)[^64-1], ou
-- b. le registre de la bibliothèque médicale nationale des États-Unis d’Amérique[^64-2].
+- a. un registre primaire reconnu par l’Organisation mondiale de la santé (OMS)[^64-3], ou
+- b. le registre de la bibliothèque médicale nationale des États-Unis d’Amérique[^64-4].
 
-<sup>2</sup> Il enregistre de plus les données mentionnées dans l’annexe 5, ch. 2, formulées dans une des langues nationales de la Suisse dans la banque de données complémentaire de la Confédération.
+<sup>2</sup> Il saisit de plus, dans les langues nationales de la Suisse dans lesquelles le recrutement est prévu, les données mentionnées à l’annexe 5, ch. 2.1 à 2.9, dans le système d’information des cantons visé à l’art. 56*a* LRH.[^64-5]
 
-<sup>3</sup> Les données doivent être enregistrées dans la version autorisée par la commission d’éthique compétente.
+<sup>2bis</sup> Pour les essais cliniques de phase I au cours desquels le médicament examiné est administré exclusivement à des adultes, les données visées à l’annexe 5, ch. 3.1, peuvent dans un premier temps être exclues de la saisie selon les al. 1, 2 et 4; elles doivent cependant être saisies et publiées automatiquement au plus tard dans le délai indiqué à l’annexe 5, ch. 3.2.[^64-6]
 
-[^64-1]: Les registres peuvent être consultés sous www.who.int &gt; programmes and projects &gt; clinical trials international registry platform.
-[^64-2]: Le registre peut être consulté sous www.clinicaltrials.gov.
+<sup>3</sup> Les données doivent être saisies dans la version autorisée par la commission d’éthique compétente. Elles doivent être mises à jour régulièrement.[^64-7]
+
+<sup>4</sup> L’enregistrement et la saisie des données visés aux al. 1 et 2 doivent être effectués avant la réalisation de l’essai clinique et dans les six mois suivant l’octroi de l’autorisation de l’essai clinique.[^64-8]
+
+<sup>5</sup> Les données visées à l’annexe 5, ch. 2.1 à 2.14, sont publiées automatiquement sur le portail visé à l’art. 67, au plus tard six mois après l’octroi de l’autorisation de l’essai clinique.[^64-9]
+
+[^64-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-3]: Les registres peuvent être consultés sous www.who.int &gt; programmes and projects &gt; clinical trials international registry platform.
+[^64-4]: Le registre peut être consulté sous www.clinicaltrials.gov.
+[^64-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-6]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-7]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-8]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-9]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 65
 
-**Moment de l’enregistrement**
+[^65-1]
 
-<sup>1</sup> L’enregistrement selon l’art. 64 doit être effectué au plus tard avant la réalisation de l’essai clinique, sous réserve de l’al. 2.
+[^65-1]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-<sup>2</sup> Les essais cliniques d’un médicament administré pour la première fois à des personnes adultes (essais cliniques de phase I) doivent être enregistrés au plus tard une année après la fin de l’essai clinique.
+#### Art. 65a
 
-<sup>3</sup> Le promoteur doit actualiser les données enregistrées conformément aux règles du registre selon l’art. 64, al. 1, mais au moins une fois par an.
+**Publication des résultats des essais**[^65a-1]
+
+<sup>1</sup> Dans un délai d’un an suivant la fin ou l’arrêt prématuré de l’essai clinique, le promoteur doit garantir qu’une synthèse des résultats de l’essai soit saisie et publiée dans un registre au sens de l’art. 64, al. 1, let. a ou b. Une interruption de plus de deux ans est considérée comme un arrêt prématuré.
+
+<sup>2</sup> Aux fins de la publication sur le portail visé à l’art. 67, il doit de plus garantir qu’une synthèse des résultats de l’essai destinée aux profanes, conformément à l’annexe 5, ch. 2.15, soit saisie dans le système d’information des cantons; le délai fixé à l’al. 1 s’applique. Les données sont saisies au moins dans les langues nationales de la Suisse utilisées pour le recrutement.
+
+<sup>3</sup> Pour les essais cliniques de phase I au cours desquels le médicament examiné est administré exclusivement à des adultes, la publication des résultats de l’essai visée aux al. 1 et 2 doit être effectuée au plus tard dans le délai indiqué à l’annexe 5, ch. 3.2.
+
+<sup>4</sup> Si pour la publication des résultats de l’essai, il n’est pas possible de respecter le délai prévu aux al. 1 et 2 pour des raisons scientifiques, le promoteur doit le justifier dans les documents de la demande et indiquer à quel moment les données seront publiées.
+
+[^65a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 66
 
@@ -1438,20 +1467,14 @@ Le promoteur est responsable de l’exactitude et de l’intégralité des donn�
 
 #### Art. 67
 
-**Portail**
+**Portail**[^67-1]
 
-<sup>1</sup> L’accès public aux informations relatives aux essais cliniques réalisés en Suisse est garanti par un accès informatique à un registre ou à plusieurs registres (portail).
+<sup>1</sup> L’OFSP exploite un portail garantissant un accès public aux informations relatives aux essais cliniques réalisés en Suisse par un accès informatique à un registre ou à plusieurs registres.
 
-<sup>2</sup>
+<sup>2</sup> Le portail permet notamment de relier les données à enregistrer en vertu des art. 64 et 65*a*, ainsi que des art. 41 et 42 OClin‑Dim[^67-2], et de publier ces mêmes données ainsi que d’autres données provenant du système d’information des cantons, conformément à l’annexe 5.
 
-Le portail permet notamment:
-
-- a. de relier les données de la banque de données complémentaire de la Confédération à celles des registres admis visés à l’art. 64, al. 1;
-- b. de rechercher des essais cliniques par mot-clé.
-
-<sup>3</sup> L’exploitation du portail et de la banque de données complémentaire de la Confédération est assurée par le service de coordination selon l’art. 10 de l’ordonnance d’organisation concernant la LRH du 20 septembre 2013[^67-1].
-
-[^67-1]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^67-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^67-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 
 ## Chapitre 6 Dispositions finales
 
@@ -1501,7 +1524,7 @@ La modification d’autres actes est réglée dans l’annexe 6.
 
 **Dispositions transitoires relatives à la modification du 7 juin 2024**[^72-1]
 
-<sup>1</sup> Pour les essais cliniques en cours autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, les délais prévus aux art. 23*a*, al. 1, 38, al. 2, 3<sup>e</sup> phrase, et 65*a*, al. 1, 2<sup>e</sup> phrase[^72-2], commencent à courir dès l’entrée en vigueur de la présente modification; pour les essais cliniques qui, avant l’entrée en vigueur de la présente modification, ne disposent que d’une des deux autorisations nécessaires, le délai prévu aux art. 23, al. 1<sup>bis</sup>, et 50, al. 1<sup>bis</sup>, commence à courir dès l’entrée en vigueur de la présente modification.
+<sup>1</sup> Pour les essais cliniques en cours autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, les délais prévus aux art. 23*a*, al. 1, 38, al. 2, 3<sup>e</sup> phrase, et 65*a*, al. 1, 2<sup>e</sup> phrase, commencent à courir dès l’entrée en vigueur de la présente modification; pour les essais cliniques qui, avant l’entrée en vigueur de la présente modification, ne disposent que d’une des deux autorisations nécessaires, le délai prévu aux art. 23, al. 1<sup>bis</sup>, et 50, al. 1<sup>bis</sup>, commence à courir dès l’entrée en vigueur de la présente modification.
 
 <sup>2</sup> Pour les essais cliniques en cours autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, l’ensemble des obligations de déclarer, de faire rapport et de documenter selon le chapitre 2, section 5, le chapitre 3, section 4, et le chapitre 4, section 2, peut être rempli selon l’ancien droit jusqu’à un an après l’entrée en vigueur de la présente modification.
 
@@ -1510,7 +1533,6 @@ La modification d’autres actes est réglée dans l’annexe 6.
 <sup>4</sup> Si, après l’entrée en vigueur de la modification du 7 juin 2024, un essai clinique de médicament autorisé relève, en vertu du nouveau droit, d’une autre catégorie selon l’art. 19, le promoteur peut, jusqu’à un an après l’entrée en vigueur de la modification du 7 juin 2024, demander une adaptation de la catégorie sous la forme d’une modification essentielle. Celle‑ci doit d’abord être soumise à Swissmedic, puis, après son approbation, à la commission d’éthique compétente.
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^72-2]: Entre vigueur le 1<sup>er</sup> mars 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 73
 
@@ -1556,7 +1578,7 @@ Les règles de bonnes pratiques cliniques suivantes sont applicables:
 
 La classification internationale des maladies de l’Organisation mondiale de la santé (*International Classification of Diseases*) est applicable en sa version de 2010 (ICD‑10)[^annex1-lvlu1-lvl3-1]. Est déterminant le groupe de maladies défini par un code à trois caractères.
 
-[^annex1-lvlu1-lvl3-1]: Cette classification peut être obtenue contre paiement ou consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou être consultée sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.who.int](http://www.who.int) &gt; Data &gt; Classifications.
+[^annex1-lvlu1-lvl3-1]: Cette classification peut être obtenue contre paiement ou consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou être consultée sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.who.int](http://www.who.int) &gt; health topics &gt; Classifications.
 
 Annexe 2[^t-3]
 
@@ -1793,28 +1815,64 @@ Annexe 4[^t-6]
 - 6\.8 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles charges et leur motivation;
 - 6\.9 informations sur d’éventuelles demandes pendantes devant une commisson d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
 
-Annexe 5
+Annexe 5[^t-7]
 
-(art. 64)
+(art. 64 et 65*a*)
 
-## Contenu du registre
+## Données à saisir et publiées sur le portail
 
-### 1. Données à inscrire dans un registre
+[^t-7]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-Les données correspondant à la série minimale de données fixée par l’OMS dans la version 1.2.1[^annex5-lvlu1-lvl1-1] doivent être inscrites dans un registre selon l’art. 64, al. 1.
+### 1. Données à saisir dans un registre
 
-[^annex5-lvlu1-lvl1-1]: La série minimale de données peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.who.int](http://www.who.int) &gt; Programmes and projects &gt; Clinical trial international registry platform &gt; Registry network.
+Les données correspondant à la série minimale de données fixée par l’OMS dans la version 1.3.1[^annex5-lvlu1-lvl1-1] doivent être inscrites dans un registre au sens de l’art. 64, al. 1.
 
-### 2. Données à enregistrer dans la banque de données complémentaire
+[^annex5-lvlu1-lvl1-1]: [www.who.int](https://www.who.int/clinical-trials-registry-platform/network/who-data-set) &gt; Data &gt; Data collections &gt; International Clinical Trials Registry Platform (ICTRP) &gt; ICTRP Registry Network &gt; WHO data set
 
-Les données suivantes, rédigées dans une langue nationale, doivent être enregistrées dans la banque de données complémentaire visée à l’art. 64, al. 2:
+### 2. Données à saisir dans le système d’information des cantons
 
-- a. le nom du registre au sens de l’art. 64, al. 1, dans lequel les données ont été inscrites, la date de l’inscription et le numéro d’identification délivré par le registre;
-- b. l’intitulé de l’essai clinique et le résumé du protocole de recherche formulé dans des termes compréhensibles par tous (vulgarisation);
-- c. l’intervention liée à la santé qui fait l’objet de l’essai clinique;
-- d. la maladie ou l’état de santé qui font l’objet de l’essai clinique;
-- e. les critères d’inclusion ou d’exclusion;
-- f. les lieux de réalisation.
+- 2\.1 le nom du registre au sens de l’art. 64, al. 1, dans lequel les données ont été saisies et le numéro délivré par le registre;
+- 2\.2 l’intitulé de l’essai clinique et le résumé du protocole de recherche destiné aux profanes;
+- 2\.3 la maladie ou l’état de santé qui font l’objet de l’essai clinique;
+- 2\.4 l’indication si l’essai clinique étudie une maladie rare;
+- 2\.5 l’intervention étudiée;
+- 2\.6 les critères d’inclusion et d’exclusion;
+- 2\.7 les lieux de réalisation en Suisse;
+- 2\.8 les coordonnées d’une personne responsable de l’essai clinique;
+- 2\.9 l’état du recrutement en Suisse;
+- 2\.10 le promoteur et, s’il est à l’étranger, sa représentation en Suisse;
+- 2\.11 la date de l’autorisation de l’essai par la commission d’éthique et le nom de celle‑ci;
+- 2\.12 le numéro d’identification de l’étude auprès de la commission d’éthique;
+- 2\.13 l’indication si des populations particulières participent à l’étude, et, dans l’affirmative, lesquelles;
+- 2\.14 la date du début et de la fin de l’essai clinique en Suisse;
+- 2\.15
+
+  une synthèse des résultats de l’essai destinée aux profanes et incluant les éléments suivants:
+
+  - a. intitulé et numéro d’identification de l’essai clinique (en particulier numéro de code du protocole de recherche, numéro d’identification de l’étude auprès de la commission d’éthique et numéro d’enregistrement dans le registre au sens de l’art. 64, al. 1),
+  - b. nom et coordonnées du promoteur,
+  - c. informations générales sur l’essai clinique (en particulier où et quand il a eu lieu, ses objectifs principaux ainsi que les raisons ayant motivé sa réalisation),
+  - d. description de la population étudiée, en particulier le nombre de personnes ayant participé à l’essai clinique en Suisse et dans d’autres pays, leur répartition par sexe et par groupes d’âge ainsi que les critères d’inclusion ou d’exclusion,
+  - e. description de l’intervention étudiée, y compris les interventions de comparaison ou placebos,
+  - f. indication des effets indésirables inhérents à l’intervention et de leur fréquence,
+  - g. principaux résultats de l’essai clinique,
+  - h. remarques sur les résultats de l’essai clinique,
+  - i. indication si la réalisation d’essais cliniques complémentaires est prévue,
+  - j. indication permettant d’accéder à des informations supplémentaires.
+
+### 3. Exceptions en matière d’enregistrement et de publication d’essais cliniques en phase I au cours desquels le médicament examiné est administré exclusivement à des adultes
+
+### 3.1 Données à enregistrement obligatoire différé
+
+- 3\.1.1 Résumé du protocole de recherche destiné aux profanes;
+- 3\.1.2 indication précise de la maladie examinée, le groupe de maladies selon la CIM devant aussi être indiqué;
+- 3\.1.3 médicament examiné;
+- 3\.1.4 critères d’inclusion et d’exclusion;
+- 3\.1.5 critères d’évaluation primaires et secondaires.
+
+### 3.2 Délai pour la saisie, l’enregistrement et la publication différés
+
+30 mois après la fin ou l’arrêt prématuré de l’essai clinique.
 
 Annexe 6
 

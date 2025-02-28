@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 sulle sperimentazioni cliniche ad eccezi
 short: OSRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: it
-version: 2024-11-01
+version: 2025-03-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20241101-it-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/it"
 
 (Ordinanza sulle sperimentazioni cliniche, OSRUm)[^t-1]
 
-del 20 settembre 2013 (Stato 1° novembre 2024)
+del 20 settembre 2013 (Stato 1° marzo 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -67,13 +67,13 @@ Non è oggetto della presente ordinanza lo svolgimento delle seguenti sperimenta
 [^1-2]: Nuovo testo giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^1-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^1-4]: Espressione stralciata giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-5]: Nuova espressione giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-5]: Nuova espressione giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-6]: Nuova espr. giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-7]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^1-7]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^1-8]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^1-9]: [<sup>RS</sup> <sup>810.306</sup>](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^1-9]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^1-10]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
-[^1-11]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^1-11]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
 
@@ -106,13 +106,13 @@ Ai sensi della presente ordinanza s’intende per:
 - h.[^2-8] *placebo:* prodotto privo di principio attivo.
 
 [^2-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^2-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^2-6]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-7]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^2-8]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-6]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-7]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-8]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 2: Principi
 
@@ -131,7 +131,7 @@ Il promotore e lo sperimentatore, nonché le altre persone partecipanti alla spe
 
 <sup>2</sup> È applicabile il Codice di condotta sull’integrità scientifica delle Accademie svizzere delle scienze conformemente all’allegato 1 numero 1. In casi motivati possono essere applicate altre direttive equivalenti riconosciute sull’integrità scientifica.[^3-1]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 4
 
@@ -151,7 +151,7 @@ Il promotore e lo sperimentatore di una sperimentazione clinica devono garantire
 
 <sup>2</sup> L’esclusione o la prevista sottorappresentazione di gruppi di persone rilevanti deve essere indicata nella documentazione a corredo della domanda e motivata.
 
-[^4a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 5
 
@@ -181,7 +181,7 @@ Lo sperimentatore responsabile di una sperimentazione clinica deve:
 
 <sup>4</sup> Le altre persone che svolgono la sperimentazione clinica devono disporre delle conoscenze ed esperienze specifiche corrispondenti all’attività in questione.
 
-[^6-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^6-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^6-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-3]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
@@ -189,7 +189,7 @@ Lo sperimentatore responsabile di una sperimentazione clinica deve:
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap1-sec3-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7
 
@@ -208,9 +208,10 @@ Oltre alle informazioni previste nell’articolo 16 capoverso 2 LRUm la persona 
 - f. il suo diritto di essere informata sui risultati concernenti la sua salute, nonché il diritto di rinunciare a questa informazione o di designare una persona che prenda per lei questa decisione;
 - g. le misure previste per il risarcimento di eventuali danni in relazione alla sperimentazione clinica, compreso il modo di procedere in caso di danni;
 - h. il promotore e le principali fonti di finanziamento della sperimentazione clinica;
+- h<sup>bis</sup>.[^7-2] le indicazioni sulla data prevista di pubblicazione della sintesi divulgativa dei risultati della sperimentazione secondo l’articolo 65*a* capoverso 2 nonché la voce alla quale tali risultati sono reperibili nel portale di cui all’articolo 67;
 - i. ulteriori informazioni necessarie alla persona interessata per decidere.
 
-<sup>2</sup> Se il materiale biologico prelevato nella sperimentazione clinica o i dati sanitari personali raccolti nella stessa sono destinati ad un ulteriore utilizzo nella ricerca, la persona interessata dev’essere informata anche sulle disposizioni degli articoli 28−32 dell’ordinanza del 20 settembre 2013[^7-2] sulla ricerca umana.
+<sup>2</sup> Se il materiale biologico prelevato nella sperimentazione clinica o i dati sanitari personali raccolti nella stessa sono destinati ad un ulteriore utilizzo nella ricerca, la persona interessata dev’essere informata anche sulle disposizioni degli articoli 28−32 dell’ordinanza del 20 settembre 2013[^7-3] sulla ricerca umana.
 
 <sup>3</sup> L’informazione può aver luogo a tappe. Può inoltre avvenire in forme diverse da quella testuale.
 
@@ -219,11 +220,12 @@ Oltre alle informazioni previste nell’articolo 16 capoverso 2 LRUm la persona 
 Occorre garantire con misure appropriate che la persona interessata comprenda i contenuti essenziali dell’informazione, in particolare:
 
 - a. alla persona interessata devono essere illustrati lo scopo e la modalità di svolgimento dell’informazione;
-- b. i contenuti dell’informazione devono essere trasmessi in modo adeguato, strutturato e comprensibile.[^7-3]
+- b. i contenuti dell’informazione devono essere trasmessi in modo adeguato, strutturato e comprensibile.[^7-4]
 
-[^7-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^7-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-2]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322); [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^7-3]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
 
@@ -240,7 +242,7 @@ Se durante lo svolgimento di esami genetici presintomatici, esami genetici prena
 
 <sup>2</sup> In caso di svolgimento di esami presintomatici (art. 3 lett. e LEGU) la persona interessata deve inoltre essere informata circa le condizioni alle quali gli istituti di assicurazione possono esigere la comunicazione di dati risultanti dagli esami genetici eseguiti (art. 43 e 44 LEGU).
 
-[^7a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^7a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7b
@@ -249,7 +251,7 @@ Se durante lo svolgimento di esami genetici presintomatici, esami genetici prena
 
 In caso di svolgimento di esami prenatali volti a valutare un rischio (art. 3 lett. h LEGU[^7b-2]) la donna incinta deve inoltre essere informata circa il contenuto dell’articolo 23 LEGU.
 
-[^7b-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^7b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7c
@@ -276,7 +278,7 @@ Il consenso in forma elettronica è ammesso se:
 
 <sup>4</sup> Alla persona interessata è consegnata una copia dei documenti informativi e della dichiarazione di consenso, a sua scelta in forma cartacea o elettronica.
 
-[^7c-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7c-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 8
 
@@ -310,7 +312,7 @@ Alla persona interessata, o se del caso al rappresentante legale, alla persona d
 - b. che potrebbero comportare un provvedimento di polizia sanitaria che presuppone o comprende l’informazione della persona interessata in merito al risultato;
 - c. dei quali la persona da informare deve prendere atto per proteggere la vita e la salute di terzi oppure della persona incapace di discernimento interessata dall’esame.
 
-[^8a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 9
 
@@ -347,8 +349,8 @@ Si può omettere l’anonimizzazione del materiale biologico e dei dati personal
 [^10-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^10-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^10-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
-[^10-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^10-5]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 11
 
@@ -386,7 +388,7 @@ L’obbligo di garanzia può essere adempiuto mediante:
 
 <sup>3</sup> La garanzia deve coprire i danni che si manifestano entro 20 anni dalla conclusione della sperimentazione clinica.[^13-1]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 14
 
@@ -465,13 +467,13 @@ Chi conserva materiale biologico nell’ambito di una sperimentazione clinica de
 - b.[^18-1] garantire i requisiti tecnici per la conservazione appropriata del materiale biologico, consultando le direttive riconosciute a livello nazionale e internazionale;
 - c. mettere a disposizione le risorse necessarie alla conservazione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 7: Operazioni relative ai dati genetici nell’ambito di rapporti assicurativi
 
 [^chap1-sec7-1]
 
-[^chap1-sec7-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap1-sec7-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 18a
 
@@ -530,7 +532,7 @@ Le sperimentazioni cliniche con medicamenti rientrano nella categoria C se il pr
 
 <sup>4</sup> Se una sperimentazione clinica rientra in più di una categoria, essa è attribuita alla categoria più alta; le categorie sono ordinate in ordine crescente dalla A alla C.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 20
 
@@ -589,11 +591,11 @@ Alle sperimentazioni cliniche con espianti standardizzati si applicano per analo
 
 <sup>2</sup> La commissione d’etica competente e Swissmedic s’informano reciprocamente sugli aspetti concernenti gli ambiti di verifica sia secondo l’articolo 25 sia secondo l’articolo 32 e coordinano le loro valutazioni.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^23-2]: Nuova espressione giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^23-3]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^23-4]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^23-5]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-2]: Nuova espressione giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^23-3]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-4]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-5]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 23a
 
@@ -607,7 +609,7 @@ Alle sperimentazioni cliniche con espianti standardizzati si applicano per analo
 
 <sup>4</sup> Se la prima persona partecipante non è inclusa nella sperimentazione clinica entro il termine di cui ai capoversi 1–3, la sperimentazione clinica è da ritenersi interrotta secondo l’articolo 38 capoverso 2 terzo periodo. La sperimentazione clinica può iniziare solo dopo che è stata autorizzata una richiesta di proroga del termine secondo il capoverso 3.
 
-[^23a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 2: Procedura presso la commissione d’etica competente
 
@@ -621,7 +623,7 @@ Alle sperimentazioni cliniche con espianti standardizzati si applicano per analo
 
 <sup>3</sup> Il promotore può presentare la domanda al posto dello sperimentatore. In tal caso, egli si assume anche gli obblighi dello sperimentatore di cui agli articoli 29 e 36*a*, nonché gli obblighi di notifica e di fare rapporto nei confronti della commissione d’etica competente.[^24-1]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 25
 
@@ -656,10 +658,10 @@ La commissione d’etica competente verifica:
 - k.[^25-4] negli esami di accompagnamento con radiazioni ionizzanti, inoltre, il rispetto della legislazione sulla radioprotezione e la stima delle dosi, ove non sia necessario ottenere un parere dell’UFSP conformemente all’articolo 36*a* capoverso 4;
 - l. altri ambiti, ove necessario per garantire la protezione delle persone partecipanti.
 
-[^25-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^25-2]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^25-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-2]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 26
 
@@ -691,7 +693,7 @@ La commissione d’etica competente verifica:
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^28-1]: Abrogato dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 29
 
@@ -717,7 +719,7 @@ Sono considerate modifiche essenziali:
 
 <sup>6</sup> Le altre modifiche devono essere notificate alla commissione d’etica con l’annuale rapporto sulla sicurezza di cui all’articolo 43.
 
-[^29-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^29-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 3: Procedura presso Swissmedic
 
@@ -739,7 +741,7 @@ Le sperimentazioni cliniche della categoria A sono esonerate dall’obbligo di a
 
 <sup>2</sup> Swissmedic può esigere informazioni supplementari.
 
-[^31-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^31-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 32
 
@@ -799,14 +801,14 @@ Sono considerate modifiche essenziali:[^34-1]
 
 <sup>5</sup> Le altre modifiche che concernono i documenti presentati a Swissmedic devono essere notificate quanto prima a Swissmedic.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^34-2]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^34-2]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 4: Disposizioni speciali per sperimentazioni cliniche della terapia genica, per sperimentazioni cliniche con organismi geneticamente modificati o con agenti patogeni, nonché per sperimentazioni cliniche in cui si utilizzano radiazioni ionizzanti
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 35
 
@@ -831,9 +833,9 @@ Esso rilascia l’autorizzazione se:
 
 <sup>7</sup> Swissmedic, l’UFSP e l’UFAM emanano congiuntamente direttive sulla valutazione dei rischi per gli esseri umani e l’ambiente.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^35-3]: Abrogato dal n. I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-3]: Abrogato dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 36
 
@@ -854,10 +856,10 @@ Swissmedic rilascia l’autorizzazione se:
 
 <sup>5</sup> ... [^36-4]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^36-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^36-4]: Abrogato dal n. I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-4]: Abrogato dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 36a
 
@@ -892,14 +894,14 @@ La commissione d’etica rilascia l’autorizzazione se:
 
 <sup>6</sup> La commissione d’etica decide entro 45 giorni dal ricevimento della documentazione formalmente corretta. Comunica la sua decisione all’UFSP.
 
-[^36a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322); [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^36a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322); [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
 [^36a-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### Sezione 5: Documentazione, notifiche e rapporto
 
 [^chap2-sec5-1]
 
-[^chap2-sec5-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap2-sec5-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 37
 
@@ -911,8 +913,8 @@ La commissione d’etica rilascia l’autorizzazione se:
 
 <sup>3</sup> Per le sperimentazioni cliniche delle categorie B e C le notifiche di cui ai capoversi 1 e 2 devono essere presentate anche a Swissmedic. Tale obbligo incombe al promotore.[^37-2]
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 38
 
@@ -937,7 +939,7 @@ Lo sperimentatore notifica alla commissione d’etica entro 30 giorni:
 
 <sup>5</sup> Per le sperimentazioni cliniche delle categorie B e C le notifiche e i rapporti di cui ai capoversi 1–3 devono essere presentati anche a Swissmedic. Tali obblighi incombono al promotore.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 39
 
@@ -958,10 +960,10 @@ Se durante una sperimentazione clinica della categoria B si manifestano eventi i
 
 <sup>4</sup> La definizione degli eventi indesiderati è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^39-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^39-3]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^39-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-3]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 40
 
@@ -973,12 +975,12 @@ Se durante una sperimentazione clinica della categoria B si manifestano eventi i
 
 <sup>4</sup> La definizione degli eventi indesiderati gravi è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^40-2]: Abrogati dal n. I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^40-2]: Abrogati dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 41
 
-**Sospetto di reazione avversa grave e inattesa a un medicamento (*Suspected Unexpected Serious Adverse Reaction, SUSAR*) in casi di sperimentazioni cliniche con medicamenti[^41-1]**
+**Sospetto di reazione avversa grave e inattesa a un medicamento (*Suspected* *Unexpected Serious Adverse Reaction, SUSAR*) in casi di sperimentazioni cliniche con medicamenti[^41-1]**
 
 <sup>1</sup> Se durante una sperimentazione clinica si manifesta in una persona partecipante un sospetto di reazione avversa grave e inattesa a un medicamento, lo sperimentatore deve documentarlo nella forma standardizzata e notificarlo al promotore entro 24 ore da quando ne è venuto a conoscenza.[^41-2]
 
@@ -992,12 +994,12 @@ Se durante una sperimentazione clinica della categoria B si manifestano eventi i
 
 <sup>5</sup> La definizione di sospetto di reazione avversa grave e inattesa a un medicamento è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.[^41-6]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^41-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^41-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^41-5]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^41-6]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-5]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-6]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 42
 
@@ -1023,8 +1025,8 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 <sup>4</sup> La definizione degli eventi indesiderati gravi e dei vizi del prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.
 
 [^42-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^42-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^42-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^42-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^42-5]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
@@ -1038,7 +1040,7 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 
 <sup>3</sup> Per le sperimentazioni cliniche delle categorie B e C occorre presentare anche a Swissmedic un rapporto conformemente ai capoversi 1 e 2. Tale obbligo incombe al promotore.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^43-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 44
@@ -1062,15 +1064,15 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 <sup>8</sup> Qualora l’UFSP abbia formulato un parere secondo l’articolo 36 o 36*a,* lo sperimentatore inoltra il rapporto finale sintetico all’UFSP.[^44-10]
 
 [^44-1]: Nuovo testo giusta l’all. 11 n. 6 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^44-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-3]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^44-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-5]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-6]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-6]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^44-7]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^44-8]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-9]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^44-10]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-8]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-9]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-10]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 44a
 
@@ -1078,7 +1080,7 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 
 Il promotore può assumersi, al posto dello sperimentatore gli obblighi di notifica e di fare rapporto nei confronti della commissione d’etica o delle commissioni d’etica elencati in questa sezione, se questa eventualità è prevista nella documentazione a corredo della domanda.
 
-[^44a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 45
 
@@ -1090,8 +1092,8 @@ Il promotore può assumersi, al posto dello sperimentatore gli obblighi di notif
 
 <sup>3</sup> Per le sperimentazioni cliniche con espianti standardizzati e per le sperimentazioni cliniche con sangue e suoi derivati il termine di conservazione è retto dall’articolo 40 capoverso 1 LATer.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^45-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^45-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 6: Ispezioni e misure amministrative
 
@@ -1158,10 +1160,10 @@ Swissmedic può revocare l’autorizzazione, sospenderla o vincolare il prosiegu
 
 <sup>2</sup> La commissione d’etica competente e l’UFSP si informano reciprocamente su aspetti che riguardano gli ambiti di verifica previsti sia dall’articolo 25 sia dall’articolo 53 e coordinano le loro valutazioni.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^50-2]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^50-3]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^50-4]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-2]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-3]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-4]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 2: Procedura presso la commissione d’etica competente
 
@@ -1171,7 +1173,7 @@ Swissmedic può revocare l’autorizzazione, sospenderla o vincolare il prosiegu
 
 Per la procedura di autorizzazione delle sperimentazioni cliniche di trapianti presso la commissione d’etica competente sono applicabili per analogia gli articoli 23*a*–27, 29 e 36*a*.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 3: Procedura presso l’UFSP
 
@@ -1226,9 +1228,9 @@ Sono considerate modifiche essenziali:
 
 <sup>6</sup> Le altre modifiche che riguardano i documenti presentati all’UFSP devono essere notificate all’UFSP quanto prima.
 
-[^55-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^55-2]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^55-3]: Abrogato dal n. I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-2]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-3]: Abrogato dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 56
 
@@ -1246,7 +1248,7 @@ Sono considerate modifiche essenziali:
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap3-sec4-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 57
 
@@ -1258,8 +1260,8 @@ Sono considerate modifiche essenziali:
 
 <sup>3</sup> Per le sperimentazioni cliniche di trapianti, l’obbligo di registrazione, la tracciabilità e l’obbligo di conservazione del promotore e dello sperimentatore sono retti dagli articoli 34 e 35 della legge sui trapianti.
 
-[^57-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^57-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^57-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^57-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 57a
 
@@ -1277,7 +1279,7 @@ Sono considerate modifiche essenziali:
 
 <sup>6</sup> La definizione di eventi indesiderati gravi è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.
 
-[^57a-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^57a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 57b
 
@@ -1289,7 +1291,7 @@ Sono considerate modifiche essenziali:
 
 <sup>3</sup> Per le sperimentazioni cliniche della categoria C occorre presentare anche all’UFSP un rapporto conformemente ai capoversi 1 e 2. Tale obbligo incombe al promotore.
 
-[^57b-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^57b-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 5: Ispezioni e misure amministrative
 
@@ -1342,8 +1344,8 @@ Una sperimentazione clinica rientra nella categoria B se l’intervento esaminat
 - a. comporta rischi e incomodi maggiori rispetto a quelli minimi; e
 - b. non è considerato un intervento standard secondo il capoverso 1 lettera b.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^61-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^61-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Sezione 2: Procedura di autorizzazione e notifica presso la commissione d’etica competente
 
@@ -1361,10 +1363,10 @@ Sono applicabili per analogia:
 - d<sup>bis</sup>.[^62-4] per la notifica e il rapporto in caso di esami di accompagnamento con radiazioni ionizzanti, l’articolo 44;
 - e. per l’obbligo di conservazione, l’articolo 45 capoverso 2.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^62-2]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^62-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^62-4]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-2]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-4]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 63
 
@@ -1390,37 +1392,64 @@ Se durante una sperimentazione clinica si manifestano nelle persone partecipanti
 
 <sup>4</sup> Se nel caso di una sperimentazione clinica multicentrica si manifestano eventi indesiderati gravi in uno dei luoghi di svolgimento, lo sperimentatore coordinatore presenta la notifica conformemente ai capoversi 1 e 3 entro lo stesso termine anche alla commissione d’etica interessata.[^63-1]
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-## Capitolo 5: Registrazione
+## Capitolo 5: Registrazione e pubblicazione
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 64
 
-**Registri ammessi e dati da iscrivere**
+**Registrazione e dati da iscrivere[^64-1]**
 
 <sup>1</sup>
 
-Per una sperimentazione clinica autorizzata, il promotore deve iscrivere i dati di cui all’allegato 5 numero 1:
+Il promotore deve registrare e pubblicare una sperimentazione clinica autorizzata iscrivendo i dati di cui all’allegato 5 numero 1:[^64-2]
 
-- a. in un registro primario riconosciuto dall’Organizzazione mondiale della sanità (OMS)[^64-1]; oppure
-- b. nel registro della Biblioteca medica nazionale degli Stati Uniti d’America[^64-2].
+- a. in un registro primario riconosciuto dall’Organizzazione mondiale della sanità (OMS)[^64-3]; oppure
+- b. nel registro della Biblioteca medica nazionale degli Stati Uniti d’America[^64-4].
 
-<sup>2</sup> Inoltre egli registra in una banca dati complementare della Confederazione i dati di cui all’allegato 5 numero 2 formulati in una lingua nazionale della Svizzera.
+<sup>2</sup> Inoltre, iscrive i dati di cui all’allegato 5 numeri 2.1–2.9, nelle lingue nazionali della Svizzera in cui è previsto il reclutamento, anche nel sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm.[^64-5]
 
-<sup>3</sup> I dati devono essere registrati nella versione autorizzata dalla commissione d’etica competente.
+<sup>2bis</sup> Per le sperimentazioni cliniche della fase I in cui il medicamento in esame è somministrato esclusivamente a persone adulte, i dati di cui all’allegato 5 numero 3.1 possono inizialmente essere esentati dall’iscrizione di cui ai capoversi 1, 2 e 4; devono tuttavia essere iscritti e automaticamente pubblicati al più tardi entro il termine indicato all’allegato 5 numero 3.2.[^64-6]
 
-[^64-1]: I registri possono essere consultati all’indirizzo: [www.who.int](http://www.who.int) &gt; programmes and projects &gt; clinical trials international registry platform.
-[^64-2]: Il registro può essere consultato all’indirizzo: [www.clinicaltrials.gov](https://clinicaltrials.gov/)
+<sup>3</sup> I dati devono essere iscritti nella versione autorizzata dalla commissione d’etica competente. Devono essere aggiornati regolarmente.[^64-7]
+
+<sup>4</sup> La registrazione e l’iscrizione di cui ai capoversi 1 e 2 devono avvenire prima dello svolgimento della sperimentazione clinica ed entro sei mesi dal rilascio della relativa autorizzazione.[^64-8]
+
+<sup>5</sup> I dati di cui all’allegato 5 numeri 2.1–2.14 sono pubblicati automaticamente nel portale di cui all’articolo 67 al più tardi sei mesi dopo il rilascio dell’autorizzazione della sperimentazione clinica.[^64-9]
+
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-3]: I registri possono essere consultati all’indirizzo: [www.who.int](http://www.who.int) &gt; programmes and projects &gt; clinical trials international registry platform.
+[^64-4]: Il registro può essere consultato all’indirizzo: [www.clinicaltrials.gov](https://clinicaltrials.gov/)
+[^64-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-6]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-7]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-8]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^64-9]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 65
 
-**Momento della registrazione**
+[^65-1]
 
-<sup>1</sup> La registrazione di cui all’articolo 64 deve essere effettuata al più tardi prima dello svolgimento della sperimentazione clinica; è fatto salvo il capoverso 2.
+[^65-1]: Abrogato dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-<sup>2</sup> Le sperimentazioni cliniche in cui il medicamento in esame è somministrato per la prima volta a persone adulte (sperimentazioni cliniche della fase I) devono essere registrate al più tardi entro un anno dalla loro conclusione.
+#### Art. 65a
 
-<sup>3</sup> Il promotore deve aggiornare i dati registrati secondo le prescrizioni del relativo registro di cui all’articolo 64 capoverso 1, ma almeno una volta all’anno.
+**Pubblicazione dei risultati della sperimentazione**[^65a-1]
+
+<sup>1</sup> Il promotore deve garantire che una sintesi dei risultati della sperimentazione sia iscritta e pubblicata in un registro di cui all’articolo 64 capoverso 1 lettera a o b entro un anno dalla conclusione o dall’arresto prematuro della sperimentazione clinica. Un’interruzione che supera i due anni è considerata un arresto prematuro.
+
+<sup>2</sup> Al fine della pubblicazione nel portale di cui all’articolo 67, egli è inoltre tenuto a garantire che nel sistema d’informazione dei Cantoni sia iscritta una sintesi divulgativa dei risultati della sperimentazione secondo l’allegato 5 numero 2.15; si applica il termine di cui al capoverso 1. L’iscrizione deve avvenire almeno nelle lingue nazionali della Svizzera in cui le persone sono state reclutate.
+
+<sup>3</sup> Per le sperimentazioni cliniche della fase I in cui il medicamento in esame è somministrato esclusivamente a persone adulte, la pubblicazione dei risultati della sperimentazione di cui ai capoversi 1 e 2 deve avvenire al più tardi entro il termine indicato all’allegato 5 numero 3.2.
+
+<sup>4</sup> Se per motivi scientifici non è possibile eseguire puntualmente la pubblicazione dei risultati della sperimentazione di cui ai capoversi 1 e 2, il promotore deve spiegarne il motivo nella documentazione a corredo della domanda indicando quando la pubblicazione avrà luogo.
+
+[^65a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 66
 
@@ -1430,20 +1459,14 @@ Il promotore è responsabile dell’esattezza e della completezza dei dati regis
 
 #### Art. 67
 
-**Portale**
+**Portale**[^67-1]
 
-<sup>1</sup> L’accesso pubblico a informazioni relative a sperimentazioni cliniche condotte in Svizzera è garantito mediante l’accesso informatizzato a un registro o a più registri (portale).
+<sup>1</sup> L’UFSP gestisce un portale che garantisce l’accesso pubblico a informazioni relative a sperimentazioni cliniche condotte in Svizzera mediante l’accesso informatizzato a un registro o a più registri.
 
-<sup>2</sup>
+<sup>2</sup> Il portale permette segnatamente di collegare i dati da iscrivere di cui agli articoli 64 e 65*a*, nonché agli articoli 41 e 42 OSRUm-Dmed[^67-2], e di pubblicare questi dati nonché altri dati presenti nel sistema d’informazione dei Cantoni di cui all’allegato 5.
 
-Il portale permette segnatamente di:
-
-- a. collegare i dati della banca dati complementare della Confederazione con quelli dei registri ammessi secondo l’articolo 64 capoverso 1;
-- b. cercare le sperimentazioni cliniche mediante parole chiavi.
-
-<sup>3</sup> La gestione del portale e della banca dati complementare della Confederazione è garantita dall’organo di coordinamento di cui all’articolo 10 dell’ordinanza del 20 settembre 2013[^67-1] sull’organizzazione relativa alla LRUm.
-
-[^67-1]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^67-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -1464,7 +1487,7 @@ Sono abrogate:
 - 3\. l’ordinanza del 30 giugno 1993[^69-3] sugli studi HIV.
 
 [^69-1]: [[RU 1993 1983](https://fedlex.data.admin.ch/eli/oc/1993/1983_1983_1983)]
-[^69-2]: [[RU 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 6; [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 3; [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)all. 7, [4043](https://fedlex.data.admin.ch/eli/oc/2010/586); [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)all. 5 n. 4]
+[^69-2]: [[RU 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)cifra I n. 6; [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)cifra II n. 3; [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)all. 7, [4043](https://fedlex.data.admin.ch/eli/oc/2010/586); [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)all. 5 n. 4]
 [^69-3]: [[RU 1993 2294](https://fedlex.data.admin.ch/eli/oc/1993/2294_2294_2294)]
 
 #### Art. 70
@@ -1493,7 +1516,7 @@ La modifica di altri atti normativi è disciplinata nell’allegato 6.
 
 **Disposizioni transitorie relative alla modifica del 7 giugno 2024**[^72-1]
 
-<sup>1</sup> Per le sperimentazioni cliniche in corso autorizzate prima dell’entrata in vigore della modifica del 7 giugno 2024 i termini di cui agli articoli 23*a* capoverso 1, 38 capoverso 2 terza frase e 65*a* capoverso 1 seconda frase[^72-2] iniziano a decorrere dall’entrata in vigore della presente modifica; per le sperimentazioni cliniche che prima dell’entrata in vigore della presente modifica dispongono di una sola delle due autorizzazioni necessarie, il termine di cui agli articoli 23 capoverso 1<sup>bis</sup> e 50 capoverso 1<sup>bis</sup> inizia a decorrere dall’entrata in vigore della presente modifica.
+<sup>1</sup> Per le sperimentazioni cliniche in corso autorizzate prima dell’entrata in vigore della modifica del 7 giugno 2024 i termini di cui agli articoli 23*a* capoverso 1, 38 capoverso 2 terza frase e 65*a* capoverso 1 seconda frase iniziano a decorrere dall’entrata in vigore della presente modifica; per le sperimentazioni cliniche che prima dell’entrata in vigore della presente modifica dispongono di una sola delle due autorizzazioni necessarie, il termine di cui agli articoli 23 capoverso 1<sup>bis</sup> e 50 capoverso 1<sup>bis</sup> inizia a decorrere dall’entrata in vigore della presente modifica.
 
 <sup>2</sup> Per le sperimentazioni cliniche in corso autorizzate prima dell’entrata in vigore della modifica del 7 giugno 2024 l’insieme degli obblighi di notifica, rapporto e documentazione di cui al capitolo 2 sezione 5, capitolo 3 sezione 4 nonché capitolo 4 sezione 2 possono essere adempiuti secondo il diritto anteriore entro un anno dall’entrata in vigore della presente modifica.
 
@@ -1501,14 +1524,13 @@ La modifica di altri atti normativi è disciplinata nell’allegato 6.
 
 <sup>4</sup> Se una sperimentazione clinica con medicamenti autorizzata dopo l’entrata in vigore della modifica del 7 giugno 2024 secondo il nuovo diritto rientra in un’altra categoria di cui all’articolo 19, il promotore può richiedere, entro un anno dall’entrata in vigore della modifica, un adeguamento della categoria in qualità di modifica essenziale. La richiesta deve essere presentata prima a Swissmedic e, dopo l’autorizzazione, alla commissione d’etica competente.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^72-2]: In vigore il 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 73
 
 [^73-1]
 
-[^73-1]: Abrogato dal n. I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^73-1]: Abrogato dalla cifra I dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 74
 
@@ -1522,7 +1544,7 @@ Allegato 1[^t-2]
 
 ## Regole e classificazione
 
-[^t-2]: Aggiornato dal n. I dell’O del DFI del 24 mar. 2017 ([RU 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), dall’all. n. 1 dell’O del 25 ott. 2017 ([RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) e dal n. II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-2]: Aggiornato dalla cifra I dell’O del DFI del 24 mar. 2017 ([RU 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), dall’all. n. 1 dell’O del 25 ott. 2017 ([RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) e dalla cifra II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1. Regole in materia di integrità scientifica
 
@@ -1548,7 +1570,7 @@ Quali regole della Buona prassi clinica sono applicabili:
 
 È applicabile l’*International Classification of Diseases* dell’OMS nella versione del 2010 (ICD-10)[^annex1-lvlu1-lvl3-1]; è determinante il gruppo di malattie definito da un codice a tre caratteri.
 
-[^annex1-lvlu1-lvl3-1]: Il testo della Classificazione può essere ottenuto dietro fattura, o consultato gratuitamente, presso l’Ufficio federale della sanità pubblica, 3003 Berna, o scaricato dai siti [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home.html) &gt; Medicina & ricerca &gt; Ricerca sull’essere umano e [www.who.int/](https://www.who.int/) &gt; Data &gt; Classifications
+[^annex1-lvlu1-lvl3-1]: Il testo della Classificazione può essere ottenuto dietro fattura, o consultato gratuitamente, presso l’Ufficio federale della sanità pubblica, 3003 Berna, o scaricato dai siti [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home.html) &gt; Medicina & ricerca &gt; Ricerca sull’essere umano e [www.who.int/](https://www.who.int/) &gt; health topics &gt; Classifications.
 
 Allegato 2[^t-3]
 
@@ -1556,7 +1578,7 @@ Allegato 2[^t-3]
 
 ## Somme di copertura della garanzia
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 - 1\.
 
@@ -1580,7 +1602,7 @@ Allegato 2<sup>bis</sup>[^t-4]
 
 ## Modifiche a basso rischio del prodotto in sperimentazione
 
-[^t-4]: Introdotto dal n. II cpv. 3 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-4]: Introdotto dalla cifra II cpv. 3 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 Le seguenti modifiche sono considerate a basso rischio:
 
@@ -1594,7 +1616,7 @@ Allegato 3[^t-5]
 
 ## Documentazione richiesta per la procedura presso la commissione d’etica competente in materia di sperimentazioni cliniche
 
-[^t-5]: Aggiornato dall’all. 2 n. 2 dell’O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e dal n. II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-5]: Aggiornato dall’all. 2 n. 2 dell’O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e dalla cifra II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1 Documenti richiesti per le sperimentazioni cliniche della categoria A con medicamenti, prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
 
@@ -1701,14 +1723,14 @@ Allegato 4[^t-6]
 
 ## Documentazione per la procedura presso Swissmedic o l’UFSP relativa a sperimentazioni cliniche con medicamenti, prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati, a sperimentazioni cliniche della terapia genica e con organismi geneticamente modificati o con agenti patogeni, nonché a sperimentazioni cliniche di trapianti
 
-[^t-6]: Aggiornato dall’all. 2 n. 2 dell’O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e dal n. II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^t-6]: Aggiornato dall’all. 2 n. 2 dell’O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e dalla cifra II cpv. 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1. Documenti relativi alle sperimentazioni cliniche della categoria B e C con medicamenti ed espianti standardizzati, della terapia genica, nonché con organismi geneticamente modificati o agenti patogeni
 
 - 1\.1 Informazioni amministrative;
 - 1\.2 protocollo della sperimentazione;
 - 1\.3 documenti sul tipo di impiego, sulla sicurezza e sulla valutazione rischi-benefici del prodotto in sperimentazione alla luce dei dati clinici e non clinici;
-- 1\.4 documenti sulla qualità e sulla fabbricazione del prodotto in sperimentazione, compresa la prova del rispetto della Buona prassi di fabbricazione (*Good Manufacturing Practices, GMP*);
+- 1\.4 documenti sulla qualità e sulla fabbricazione del prodotto in sperimentazione, compresa la prova del rispetto della Buona prassi di fabbricazione (*Good* *Manufacturing* *Practices, GMP*);
 - 1\.5 prova del rispetto della corretta caratterizzazione;
 - 1\.6 informazioni circa eventuali procedure di autorizzazione in corso o concluse presso le autorità di vigilanza sui medicamenti di altri Paesi;
 - 1\.7 informazioni circa eventuali procedure di autorizzazione in corso o concluse presso una commissione d’etica in Svizzera.
@@ -1782,28 +1804,64 @@ Allegato 4[^t-6]
 - 6\.8 eventuali decisioni delle autorità di vigilanza di altri Paesi sulle sperimentazioni cliniche, compresi eventuali oneri e relativa motivazione;
 - 6\.9 informazioni su eventuali domande pendenti presso le commissioni d’etica in Svizzera o su eventuali decisioni delle stesse.
 
-Allegato 5
+Allegato 5[^t-7]
 
-(art. 64)
+(art. 64 e 65*a*)
 
-## Contenuti della registrazione
+## Dati da iscrivere e pubblicati nel portale
 
-### 1. Dati da iscrivere a registro
+[^t-7]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-Vanno iscritti a registro conformemente all’articolo 64 capoverso 1 i dati corrispondenti alla serie minima di dati fissata dall’OMS nella versione 1.2.1[^annex5-lvlu1-lvl1-1].
+### 1. Dati da iscrivere in un registro
 
-[^annex5-lvlu1-lvl1-1]: La serie minima di dati può essere consultata gratuitamente presso l’Ufficio federale della sanità pubblica, 3003 Berna, o scaricata dai siti www.bag.admin.ch &gt; Medicina & ricerca &gt; Ricerca sull’essere umano e www.who.int &gt; programmes and projects &gt; clinical trials international registry platform &gt; registry network.
+Vanno iscritti in un registro conformemente all’articolo 64 capoverso 1 i dati corrispondenti alla serie minima di dati fissata dall’OMS nella versione 1.3.1[^annex5-lvlu1-lvl1-1].
 
-### 2. Dati da iscrivere nella banca dati complementare
+[^annex5-lvlu1-lvl1-1]: [www.who.int](https://www.who.int/clinical-trials-registry-platform/network/who-data-set) &gt; Data &gt; Data collections &gt; International Clinical Trials Registry Platform (ICTRP) &gt; ICTRP Registry Network &gt; WHO data set
 
-Nella banca dati complementare di cui all’articolo 64 capoverso 2 vanno iscritti, in una lingua nazionale della Svizzera, i seguenti dati:
+### 2. Dati da iscrivere nel sistema d’informazione dei Cantoni
 
-- a. il nome del registro secondo l’articolo 64 capoverso 1 in cui i dati sono stati iscritti, il momento della registrazione e il numero di identificazione attribuito dal registro;
-- b. la titolatura della sperimentazione clinica e la sintesi del protocollo della sperimentazione formulata in termini comprensibili a tutti (linguaggio divulgativo);
-- c. l’intervento relativo alla salute in esame;
-- d. la malattia o lo stato di salute in esame;
-- e. i criteri di inclusione ed esclusione;
-- f. i luoghi di svolgimento della sperimentazione.
+- 2\.1 Nome del registro secondo l’articolo 64 capoverso 1 in cui i dati sono stati iscritti e il numero di registrazione attribuito dal registro;
+- 2\.2 titolo della sperimentazione clinica e sintesi divulgativa del protocollo della sperimentazione;
+- 2\.3 malattia o stato di salute in esame;
+- 2\.4 indicazione del fatto che la sperimentazione clinica esamina una malattia rara;
+- 2\.5 intervento in esame;
+- 2\.6 criteri di inclusione ed esclusione;
+- 2\.7 luoghi di svolgimento della sperimentazione in Svizzera;
+- 2\.8 informazioni di contatto di una persona responsabile della sperimentazione clinica;
+- 2\.9 stato del reclutamento in Svizzera;
+- 2\.10 promotore e, qualora si tratti di un promotore estero, rappresentanza in Svizzera;
+- 2\.11 data dell’autorizzazione della sperimentazione clinica rilasciata dalla commissione d’etica e nome di quest’ultima;
+- 2\.12 numero di identificazione dello studio della commissione d’etica;
+- 2\.13 indicazione sulla partecipazione allo studio di particolari popolazioni e, se del caso, quali;
+- 2\.14 data di inizio e di conclusione della sperimentazione clinica in Svizzera;
+- 2\.15
+
+  sintesi divulgativa dei risultati della sperimentazione che riporti segnatamente:
+
+  - a. titolo e numeri identificativi della sperimentazione clinica (in particolare il numero di protocollo della sperimentazione, il numero di identificazione dello studio della commissione d’etica e il numero di registrazione nel registro di cui all’art. 64 cpv. 1),
+  - b. nome e informazioni di contatto del promotore,
+  - c. informazioni generali sulla sperimentazione clinica (in particolare luogo e momento dello svolgimento, scopi principali della sperimentazione e ragioni che giustificano il suo svolgimento),
+  - d. descrizione della popolazione oggetto di studio; in particolare numero di persone che hanno partecipato allo studio in Svizzera e in altri Paesi, distribuzione in base ai gruppi di età e sesso nonché criteri di inclusione ed esclusione,
+  - e. nome dell’intervento in esame, compresi gli interventi di confronto o i placebo,
+  - f. descrizione e frequenza degli effetti indesiderati dovuti all’intervento,
+  - g. principali risultati della sperimentazione clinica,
+  - h. osservazioni sul risultato della sperimentazione clinica,
+  - i. indicazione circa eventuali sperimentazioni cliniche più approfondite previste,
+  - j. indicazione su dove reperire ulteriori informazioni.
+
+### 3. Eccezioni nella registrazione e nella pubblicazione di sperimentazioni cliniche della fase I in cui il medicamento in esame è somministrato esclusivamente a persone adulte
+
+### 3.1. Dati con obbligo di registrazione differito
+
+- 3\.1.1 Sintesi divulgativa del protocollo della sperimentazione;
+- 3\.1.2 indicazioni precise sulla malattia in esame; deve però essere indicato il gruppo di malattie secondo l’ICD;
+- 3\.1.3 medicamento in esame;
+- 3\.1.4 criteri di inclusione ed esclusione;
+- 3\.1.5 endpoint primari e secondari.
+
+### 3.2. Termine per l’iscrizione, la registrazione e la pubblicazione differite
+
+30 mesi dalla conclusione o dall’arresto prematuro della sperimentazione clinica.
 
 Allegato 6
 

@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Clinical Trials in Human Research (Cli
 short: ClinO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: en
-version: 2024-11-01
+version: 2025-03-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20241101/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20241101-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Clinical Trials Ordinance, ClinO)
 
-of 20 September 2013 (Status as of 1 November 2024)
+of 20 September 2013 (Status as of 1 March 2025)
 
 [^t-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials of Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -49,7 +49,7 @@ This Ordinance regulates:
 
   the requirements for the conduct of:
 
-  - 1\.[^1-2] clinical trials medicinal products, including combinations under Article 2 paragraph 1 letters f and g of the Medical Devices Ordinance of 1 July 2020 (MedDO)[^1-3], or transplant products,
+  - 1\.[^1-2] clinical trials of medicinal products, including combinations under Article 2 paragraph 1 letters f and g of the Medical Devices Ordinance of 1 July 2020 (MedDO)[^1-3], or transplant products,
   - 2\. clinical trials of…[^1-4] products under Article 2*a* paragraph 2 TPA[^1-5],
   - 3\. clinical trials of transplantation,
   - 4\. clinical trials that are not clinical trials under numbers 1 to 3;
@@ -209,9 +209,10 @@ In addition to the points specified in Article 16 paragraph 2 HRA, the persons c
 - f. their right to be informed of results concerning their health, and their right to forgo such information or to designate a person who is to take this decision for them;
 - g. the measures envisaged to cover any damage arising from the clinical trial, including the procedure in the event of a claim;
 - h. the sponsor and the main sources of financing for the clinical trial;
+- h<sup>bis</sup>.[^7-2] details of the expected publication date of the lay summary of the trial results in accordance with Article 65*a* paragraph 2 and the entry on the portal in accordance with Article 67 under which the summary can be found;
 - i. other points relevant to their decision on participation.
 
-<sup>2</sup> If the intention exists to make further use for research of biological material sampled or health-related personal data collected in the clinical trial, the persons concerned must also receive information on the points specified in Articles 28–32 of the Human Research Ordinance of 20 September 2013[^7-2].
+<sup>2</sup> If the intention exists to make further use for research of biological material sampled or health-related personal data collected in the clinical trial, the persons concerned must also receive information on the points specified in Articles 28–32 of the Human Research Ordinance of 20 September 2013[^7-3].
 
 <sup>3</sup> The information may be provided in stages. It may be additionally presented in a non-textual form.
 
@@ -220,11 +221,12 @@ In addition to the points specified in Article 16 paragraph 2 HRA, the persons c
 Appropriate measures must be taken to ensure that the persons concerned have understood the essential elements of the information provided; in particular:
 
 - a. the persons concerned must be informed about the purpose of and procedure for the provision of information;
-- b. the elements of information must be communicated in an appropriate, structured and clear manner.[^7-3]
+- b. the elements of information must be communicated in an appropriate, structured and clear manner.[^7-4]
 
 [^7-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^7-2]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^7-3]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-2]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^7-3]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7a
 
@@ -1393,35 +1395,41 @@ A serious adverse event is defined as any event which:
 
 [^63-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-## Chapter 5 Registration
+## Chapter 5 Registration and Publication
 
-#### Art. 64
+[^chap5-1]
 
-**Approvedregisters and data to be entered**
+[^chap5-1]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-<sup>1</sup>
+**Art. 64** Registration and data to be entered[^chap5-2]
 
-For an approved clinical trial, the sponsor must register the data specified in Annex 5 number 1:
+<sup>1</sup> The sponsor must register and publish an authorised clinical trial by entering the data specified in Annex 5 number 1:[^chap5-3]
 
-- a. in a primary registry[^64-1] recognised by the World Health Organization (WHO); or
-- b. in the registry of the U.S. National Library of Medicine[^64-2].
+a. in a primary registry[^chap5-4] recognised by the World Health Organization (WHO); or
 
-<sup>2</sup> The sponsor shall additionally enter the data specified in Annex 5 number 2 in the supplementary federal database, using a Swiss national language.
+b. in the registry of the U.S. National Library of Medicine[^chap5-5].
 
-<sup>3</sup> The data must be entered in the form approved by the responsible ethics committee.
+<sup>2</sup> The sponsor shall additionally enter the data specified in Annex 5 numbers 2.1–2.9, using the Swiss national languages in which recruitment is planned, in the cantonal information system specified in Article 56*a* HRA.[^chap5-6]
 
-[^64-1]: The register can be consulted at: [www.who.int/](http://www.who.int/) &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform.
-[^64-2]: The register can be consulted at: [www.clinicaltrials.gov](http://www.clinicaltrials.gov).
+<sup>2bis</sup> For Phase I clinical trials in which the medicinal product under investigation is administered exclusively to adults, the data specified in Annex 5 number 3.1 may initially be excluded from entry in accordance with paragraphs 1, 2 and 4; it must however be entered and automatically published at the latest within the period specified in Annex 5 number 3.2.[^chap5-7]
 
-#### Art. 65
+<sup>3</sup> The data must be entered in the version approved by the responsible ethics committee. It must be regularly updated.[^chap5-8]
 
-**Time of registration**
+<sup>4</sup> Registration and entry in accordance with paragraphs 1 and 2 must take place before the conduct of the clinical trial, and within six months after approval has been granted for it.[^chap5-9]
 
-<sup>1</sup> The registration specified in Article 64 must be performed before the clinical trial is conducted, subject to the provisions of paragraph 2.
+<sup>5</sup> The data specified in Annex 5 numbers 2.1‑2.14 shall be automatically published on the portal specified in Article 67 no later than six months after approval has been granted for the clinical trial.[^chap5-10]
 
-<sup>2</sup> Clinical trials in which the medicinal product under investigation is being administered to adult persons for the first time (Phase I clinical trials) must be registered no later than one year after the completion of the clinical trial.
+**Art. 65**[^chap5-11]
 
-<sup>3</sup> The sponsor must update the data entered in accordance with the requirements of the registry in question, as specified in Article 64 paragraph 1, but at least once a year.
+**Art. 65***a*[^chap5-12] Publication of trial results
+
+<sup>1</sup> The sponsor must ensure that, within a year after completion or premature termination of the clinical trial, a summary of the trial results is entered and published in a registry as specified in Article 64 paragraph 1 letter a or b. An interruption lasting for more than two years is considered to be a premature termination.
+
+<sup>2</sup> For the purpose of publication on the portal specified in Article 67, the sponsor must additionally ensure that a lay summary of the trial results in accordance with Annex 5 number 2.15 is entered in the cantonal information system; the deadline specified in paragraph 1 applies. The entry must be made at least in those national languages of Switzerland in which persons were recruited.
+
+<sup>3</sup> For Phase I clinical trials in which the medicinal product under investigation is administered exclusively to adults, publication of the trial results in accordance with paragraphs 1 and 2 must take place no later than within the period specified in Annex 5 number 3.2.
+
+<sup>4</sup> If publication in accordance with paragraphs 1 and 2 is not possible within the specified period for scientific reasons, the sponsor must explain this in the application documents and indicate when publication will take place.
 
 #### Art. 66
 
@@ -1429,22 +1437,28 @@ For an approved clinical trial, the sponsor must register the data specified in 
 
 The sponsor is responsible for the accuracy and completeness of the data entered.
 
+[^chap5-2]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-3]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-4]: The registries can be consulted at: [www.who.int/](http://www.who.int/) &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform.
+[^chap5-5]: The registry can be consulted at: [www.clinicaltrials.gov](http://www.clinicaltrials.gov).
+[^chap5-6]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-7]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-8]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-9]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-10]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-11]: Repealed by No I of the O of 7 June 2024, with effect from 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-12]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
 #### Art. 67
 
-**Portal**
+**Portal**[^67-1]
 
-<sup>1</sup> Public access to information on clinical trials conducted in Switzerland shall be guaranteed by a portal providing access to one or more registries.
+<sup>1</sup> The FOPH shall operate a portal ensuring public access to information on clinical trials conducted in Switzerland via online access to one or more registries.
 
-<sup>2</sup>
+<sup>2</sup> The portal shall enable in particular the linking of data to be entered under Articles 64 and 65*a*, as well as Articles 41 and 42 ClinO-MD[^67-2], and the publication of this and other data from the cantonal information system as specified in Annex 5.
 
-The portal shall enable in particular:
-
-- a. linking of data in the supplementary federal database to data in the approved register, as specified in Article 64 paragraph 1;
-- b. searching for clinical trials by keywords.
-
-<sup>3</sup> The operation of the portal and of the supplementary federal database shall be guaranteed by the coordination office specified in Article 10 of the HRA Organisation Ordinance of 20 September 2013[^67-1].
-
-[^67-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^67-1]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^67-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 
 ## Chapter 6 Final Provisions
 
@@ -1494,7 +1508,7 @@ The amendment of other legislation is regulated in Annex 6.
 
 **Transitional provisions to the Amendment of 7 June 2024**[^72-1]
 
-<sup>1</sup> The time limits specified in Article 23*a* paragraph 1, Article 38 paragraph 2 third sentence, and Article 65*a* paragraph 1 second sentence[^72-2] begin, for ongoing clinical trials approved before the Amendment of 7 June 2024 comes into force, when this Amendment comes into force; for clinical trials that have only one of two required approvals prior to this Amendment coming into force, the time limit specified in Article 23 paragraph 1<sup>bis</sup> and Article 50 paragraph 1<sup>bis</sup> begins when this Amendment comes into force.
+<sup>1</sup> The time limits specified in Article 23*a* paragraph 1, Article 38 paragraph 2 third sentence, and Article 65*a* paragraph 1 second sentence begin, for ongoing clinical trials approved before the Amendment of 7 June 2024 comes into force, when this Amendment comes into force; for clinical trials that have only one of two required approvals prior to this Amendment coming into force, the time limit specified in Article 23 paragraph 1<sup>bis</sup> and Article 50 paragraph 1<sup>bis</sup> begins when this Amendment comes into force.
 
 <sup>2</sup> For ongoing clinical trials approved before the Amendment of 7 June 2024 comes into force, all the notification, reporting and documentation requirements specified in Chapter 2 Section 5, Chapter 3 Section 4 and Chapter 4 Section 2 can be fulfilled under existing law up to a year after this Amendment comes into force.
 
@@ -1503,7 +1517,6 @@ The amendment of other legislation is regulated in Annex 6.
 <sup>4</sup> If, after the Amendment of 7 June 2024 comes into force, an approved clinical trial of medicinal products, under the amended law, comes under a different category in accordance with Article 19, then, for up to a year after the Amendment of 7 June 2024 comes into force, the sponsor may apply for an adjustment of the category in the form of a substantial modification. This application must be submitted first to Swissmedic and then, after being approved, to the responsible ethics committee.
 
 [^72-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^72-2]: Comes into force in 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 73
 
@@ -1783,28 +1796,64 @@ Annex 4[^t-6]
 - 6\.8 any decisions of foreign regulatory authorities concerning the clinical trial, including any conditions imposed and the reasons given;
 - 6\.9 information on any applications currently being reviewed by an ethics committee in Switzerland, and on any decisions of ethics committees in Switzerland.
 
-Annex 5
+Annex 5[^t-7]
 
-(Art. 64)
+(Art. 64 and 65*a*)
 
-## Content of registration
+## Data to be entered and published on the portal
+
+[^t-7]: Amended by No II para. 2 of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1 Data to be entered in a register
 
-The data specified in Version 1.2.1 of the WHO Trial Registration Data Set[^annex5-lvlu1-lvl1-1] must be entered in a register as specified in Article 64 paragraph 1.
+The data specified in Version 1.3.1[^annex5-lvlu1-lvl1-1] of the WHO Trial Registration Data Set must be entered in a register as specified in Article 64 paragraph 1.
 
-[^annex5-lvlu1-lvl1-1]: The Trial Registration Data Set can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern: www.bag.admin.ch. It can also be accessed online at: www.who.int &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform &gt; Registry Network.
+[^annex5-lvlu1-lvl1-1]: [www.who.int](https://www.who.int/clinical-trials-registry-platform/network/who-data-set) &gt; Data &gt; Data collections &gt; International Clinical Trials Registry Platform (ICTRP) &gt; ICTRP Registry Network &gt; WHO data set
 
-### 2 Data to be entered in the supplementary database
+### 2. Data to be entered in the cantonal information system
 
-In the supplementary database specified in Article 64 paragraph 2, the following data must be entered in a Swiss national language:
+- 2\.1 The name of the register specified in Article 64 paragraph 1 in which the data was entered and the registration number assigned by the registry;
+- 2\.2 the title of the clinical trial and a lay summary of the protocol;
+- 2\.3 the disease or condition under investigation;
+- 2\.4 an indication of whether a rare disease is being investigated in the clinical trial;
+- 2\.5 the intervention under investigation;
+- 2\.6 inclusion and exclusion criteria;
+- 2\.7 trial sites in Switzerland;
+- 2\.8 contact details of a person responsible for the clinical trial;
+- 2\.9 status of recruitment in Switzerland;
+- 2\.10 the sponsor and additionally, in the case of a sponsor abroad, the sponsor’s representative in Switzerland;
+- 2\.11 the date of approval of the trial by the ethics committee and the name of the ethics committee granting approval;
+- 2\.12 the ethics committee’s study identification number;
+- 2\.13 an indication of whether special study populations are participating and, if so, which ones;
+- 2\.14 the date of the beginning and end of the clinical trial in Switzerland;
+- 2\.15
 
-- a. the name of the register specified in Article 64 paragraph 1 in which the data was entered, together with the time of registration and the identification number issued by the registry;
-- b. the title of the clinical trial and a summary of the study protocol in lay‑friendly language;
-- c. the health-related intervention being studied;
-- d. the disease or condition being studied;
-- e. inclusion and exclusion criteria;
-- f. trial sites.
+  the lay summary of the trial results, and in particular:
+
+  - a. the title and identification numbers of the clinical trial (i.e. protocol code number, ethics committee’s study identification number and registration number in the register specified in Art. 64 para. 1),
+  - b. the name and contact details of the sponsor,
+  - c. general information about the clinical trial (in particular, where and when the trial was conducted, the main objectives of the trial and an explanation of the reasons for the conduct of the trial),
+  - d. a description of the study population; in particular, the number of persons who participated in the clinical trial in Switzerland and other countries, their distribution by age groups and sex, and inclusion and exclusion criteria,
+  - e. the name of the intervention studied, including comparison interventions or placebos,
+  - f. a description of intervention-related adverse effects and their frequency,
+  - g. the overall results of the clinical trial,
+  - h. comments on the outcome of the clinical trial,
+  - i. an indication whether follow up clinical trials are foreseen,
+  - j. an indication where additional information can be found.
+
+### 3. Exceptions to registration and publication for Phase I clinical trials in which the medicinal product under investigation is administered exclusively to adults
+
+### 3.1. Data with delayed registration requirements
+
+- 3\.1.1 Lay summary of the protocol;
+- 3\.1.2 precise indication of the disease investigated; the ICD disease group must however be indicated;
+- 3\.1.3 medicinal product investigated;
+- 3\.1.4 inclusion and exclusion criteria;
+- 3\.1.5 primary and secondary endpoints.
+
+### 3.2. Deadline for delayed entry, registration and publication
+
+30 months after completion or early termination of the clinical trial.
 
 Annex 6
 
@@ -1816,4 +1865,4 @@ The following ordinances are amended as follows:
 
 …[^annex6-lvlu1-1]
 
-[^annex6-lvlu1-1]: The amendments may be consulted under [AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643).
+[^annex6-lvlu1-1]: The amendments may be consulted under [AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)..
