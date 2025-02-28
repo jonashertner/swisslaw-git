@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240501/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240501-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240501/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 1. Mai 2024)
+vom 27. Oktober 1976 (Stand am 1. März 2025)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1155,26 +1155,28 @@ Die Bewilligung zum berufsmässigen Personentransport ist nicht erforderlich fü
   - 1\. ausschliesslich verletzte, kranke oder behinderte Betriebsangehörige in betriebseigenen Fahrzeugen befördert werden,
   - 2\. der Fahrzeugführer im Rahmen seiner dienstlichen Tätigkeit bei der Polizei, der Militärverwaltung, dem Zivilschutz oder der Feuerwehr am Strassenverkehr teilnimmt und dies von der Behörde bewilligt wurde;
 
-- b. berufsmässige Personentransporte, bei denen der Fahrpreis in anderen Leistungen eingerechnet wird und die Fahrstrecke nicht mehr als 50 km beträgt.
+- b. berufsmässige Personentransporte, bei denen der Fahrpreis in anderen Leistungen eingerechnet wird und die Fahrstrecke nicht mehr als 50 km beträgt;
+- c.[^25-4] berufsmässige Personentransporte mit führerlosen Fahrzeugen, sofern diese mit anderen Mitteln als den konventionellen Bedienelementen geführt werden.
 
 <sup>3</sup>
 
 Die Bewilligung zum berufsmässigen Personentransport wird dem Inhaber eines Führerausweises der Kategorie B, der Unterkategorie B1 oder der Spezialkategorie F erteilt, wenn der Bewerber:
 
 - a. an einer Prüfung der Zusatztheorie nachweist, dass er die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen kennt; wer lediglich Fahrten nach Artikel 4 Absatz 1 Buchstabe a, b oder c ARV 2 durchführen will, muss diese Prüfung nicht ablegen; und
-- b. an einer zusätzlichen praktischen Führerprüfung nachweist, dass er fähig ist, Personen in einem Motorfahrzeug der entsprechenden Kategorie, Unterkategorie oder Spezialkategorie auch in schwierigen Verkehrssituationen ohne Gefährdung zu transportieren.[^25-4]
+- b. an einer zusätzlichen praktischen Führerprüfung nachweist, dass er fähig ist, Personen in einem Motorfahrzeug der entsprechenden Kategorie, Unterkategorie oder Spezialkategorie auch in schwierigen Verkehrssituationen ohne Gefährdung zu transportieren.[^25-5]
 
 <sup>4</sup> Dem Inhaber eines Führerausweises der Kategorie D oder der Unterkategorie D1 wird die Bewilligung zum berufsmässigen Personentransport ohne weitere Prüfung erteilt.
 
-<sup>4bis</sup> Dem Inhaber des Führerausweises der Kategorie C wird auf Gesuch hin die Bewilligung zum berufsmässigen Personentransport ohne weitere Prüfung erteilt, sofern er während mindestens eines Jahres vor der Einreichung des Gesuches mit einem Motorfahrzeug keine Widerhandlung gegen die Bestimmungen des Strassenverkehrsrechts begangen hat, die zu einem Entzug des Führerausweises führt oder geführt hat. Dies gilt ebenso für den Inhaber des Führerausweises der Unterkategorie C1, sofern er die Zusatztheorieprüfung nach Anhang 11 Ziffer 2 bestanden hat.[^25-5]
+<sup>4bis</sup> Dem Inhaber des Führerausweises der Kategorie C wird auf Gesuch hin die Bewilligung zum berufsmässigen Personentransport ohne weitere Prüfung erteilt, sofern er während mindestens eines Jahres vor der Einreichung des Gesuches mit einem Motorfahrzeug keine Widerhandlung gegen die Bestimmungen des Strassenverkehrsrechts begangen hat, die zu einem Entzug des Führerausweises führt oder geführt hat. Dies gilt ebenso für den Inhaber des Führerausweises der Unterkategorie C1, sofern er die Zusatztheorieprüfung nach Anhang 11 Ziffer 2 bestanden hat.[^25-6]
 
 <sup>5</sup> Die Bewilligung ist nur zusammen mit dem Führerausweis gültig.
 
 [^25-1]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^25-2]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^25-3]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-4]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^25-5]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^25-4]: Eingefügt durch Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^25-5]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^25-6]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 ### 12*a* Meldepflichten und verkehrsmedizinische Kontrolluntersuchungen
 
@@ -2050,15 +2052,16 @@ Fahrzeugausweis und Kontrollschilder werden erteilt, wenn:
 - b.[^71-2] das Fahrzeug den Bau- und Ausrüstungsvorschriften entspricht und die für die Zulassung erforderlichen Angaben vorliegen;
 - c. das Fahrzeug nach AStG[^71-3] versteuert oder von der Steuer befreit ist;
 - d.[^71-4] das im Ausland hergestellte Fahrzeug veranlagt oder von der Zollveranlagung befreit ist;
-- e.[^71-5] kein Antrag des Bundesamts für Zoll und Grenzsicherheit (BAZG) auf Verweigerung der Erteilung des Fahrzeugausweises und des Kontrollschildes gestützt auf Artikel 14*a* des Schwerverkehrsabgabegesetzes vom 19. Dezember 1997[^71-6] (SVAG) vorliegt.[^71-7]
+- e.[^71-5] kein Antrag des Bundesamts für Zoll und Grenzsicherheit (BAZG) auf Verweigerung der Erteilung des Fahrzeugausweises und des Kontrollschildes gestützt auf Artikel 14*a* des Schwerverkehrsabgabegesetzes vom 19. Dezember 1997[^71-6] (SVAG) vorliegt;
+- f.[^71-7] für führerlose Fahrzeuge die Genehmigung für den Einsatzbereich vorliegt.[^71-8]
 
-<sup>1bis</sup> Das Verfahren zur Prüfung der Voraussetzungen nach Absatz 1 Buchstabe b richtet sich nach der VTS[^71-8].[^71-9]
+<sup>1bis</sup> Das Verfahren zur Prüfung der Voraussetzungen nach Absatz 1 Buchstabe b richtet sich nach der VTS[^71-9].[^71-10]
 
-<sup>2</sup> Für die Erteilung von Tagesausweisen und Kollektiv-Fahrzeugausweisen sowie die Abgabe von entsprechenden Kontrollschildern (Art. 20–26 VVV[^71-10]) ist eine Bewilligung der Zollbehörden nicht erforderlich.
+<sup>2</sup> Für die Erteilung von Tagesausweisen und Kollektiv-Fahrzeugausweisen sowie die Abgabe von entsprechenden Kontrollschildern (Art. 20–26 VVV[^71-11]) ist eine Bewilligung der Zollbehörden nicht erforderlich.
 
 <sup>3</sup> Für die provisorische Zulassung der Fahrzeuge gelten die Artikel 16–19 VVV.
 
-<sup>4</sup> Fahrzeugausweise sind, unter Vorbehalt der Abgabe eines Duplikats, stets im Original mitzuführen. Sie müssen bei land- und forstwirtschaftlichen Fahrzeugen auf Fahrten zwischen dem Betrieb und dem bewirtschafteten Einsatzgebiet sowie bei Anhängern der Feuerwehr und des Zivilschutzes auf Fahrten innerhalb des Gemeindegebietes nicht mitgeführt werden.[^71-11]
+<sup>4</sup> Fahrzeugausweise sind, unter Vorbehalt der Abgabe eines Duplikats, stets im Original mitzuführen. Sie müssen bei land- und forstwirtschaftlichen Fahrzeugen auf Fahrten zwischen dem Betrieb und dem bewirtschafteten Einsatzgebiet sowie bei Anhängern der Feuerwehr und des Zivilschutzes auf Fahrten innerhalb des Gemeindegebietes nicht mitgeführt werden.[^71-12]
 
 [^71-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^71-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -2066,11 +2069,12 @@ Fahrzeugausweis und Kontrollschilder werden erteilt, wenn:
 [^71-4]: Fassung gemäss Anhang 4 Ziff. 35 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^71-5]: Eingefügt durch Ziff. II der V vom 7. März 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)). Fassung gemäss Anhang 5 Ziff. II 3 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 [^71-6]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^71-7]: Fassung gemäss Anhang Ziff. 5 der Automobilsteuerverordnung vom 20. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^71-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^71-9]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-10]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^71-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-7]: Eingefügt durch Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^71-8]: Fassung gemäss Anhang Ziff. 5 der Automobilsteuerverordnung vom 20. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^71-9]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^71-10]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-11]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^71-12]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 72
 

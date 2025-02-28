@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240501-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240501/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (État le 1<sup>er</sup> mai 2024)
+du 27 octobre 1976 (État le 1<sup>er</sup> mars 2025)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1153,26 +1153,28 @@ L’autorisation de transporter des personnes à titre professionnel n’est pas
   - 1\. des malades, blessés ou handicapés faisant partie du personnel d’une entreprise, exclusivement, sont transportés au moyen de véhicules appartenant à l’entreprise,
   - 2\. le conducteur effectue ces transports dans le cadre de son activité auprès de la police, de l’administration militaire, de la protection civile ou d’un service du feu, avec l’accord de l’autorité;
 
-- b. le transport professionnel de personnes lorsque le prix de la course est inclus dans d’autres prestations et que le trajet n’excède pas 50 km.
+- b. le transport professionnel de personnes lorsque le prix de la course est inclus dans d’autres prestations et que le trajet n’excède pas 50 km;
+- c.[^25-4] le transport professionnel de personnes avec des véhicules sans conducteur, pour autant que ces derniers soient conduits en utilisant d’autres moyens que les commandes conventionnelles.
 
 <sup>3</sup>
 
 L’autorisation de transporter des personnes à titre professionnel est accordée au titulaire d’un permis de conduire de la catégorie B, de la sous-catégorie B1 ou de la catégorie spéciale F lorsque le candidat peut prouver:
 
 - a. lors d’un examen théorique complémentaire, qu’il connaît la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes; le candidat qui désire effectuer uniquement des courses visées à l’art. 4, al. 1, let. a, b ou c, OTR 2 n’est pas tenu de passer cet examen, et
-- b. lors d’un examen pratique complémentaire, qu’il est capable de transporter des personnes dans un véhicule automobile de la catégorie, sous-catégorie ou catégorie spéciale correspondante sans les mettre en danger, même dans des situations de trafic difficiles.[^25-4]
+- b. lors d’un examen pratique complémentaire, qu’il est capable de transporter des personnes dans un véhicule automobile de la catégorie, sous-catégorie ou catégorie spéciale correspondante sans les mettre en danger, même dans des situations de trafic difficiles.[^25-5]
 
 <sup>4</sup> L’autorisation d’effectuer des transports professionnels de personnes sera accordée sans autre examen au titulaire d’un permis de conduire de la catégorie D ou de la sous-catégorie D1.
 
-<sup>4bis</sup> Le titulaire d’un permis de conduire de la catégorie C se voit, à sa demande, accorder l’autorisation d’effectuer des transports professionnels de personnes sans passer d’autre examen, à condition de n’avoir commis avec un véhicule automobile, pendant au moins une année avant le dépôt de la demande, aucune infraction aux dispositions du droit de la circulation routière ayant entraîné ou pouvant entraîner le retrait du permis de conduire. Cette règle s’applique également au titulaire du permis de conduire de la sous-catégorie C1 s’il a passé avec succès l’examen théorique complémentaire visé à l’annexe 11, ch. 2.[^25-5]
+<sup>4bis</sup> Le titulaire d’un permis de conduire de la catégorie C se voit, à sa demande, accorder l’autorisation d’effectuer des transports professionnels de personnes sans passer d’autre examen, à condition de n’avoir commis avec un véhicule automobile, pendant au moins une année avant le dépôt de la demande, aucune infraction aux dispositions du droit de la circulation routière ayant entraîné ou pouvant entraîner le retrait du permis de conduire. Cette règle s’applique également au titulaire du permis de conduire de la sous-catégorie C1 s’il a passé avec succès l’examen théorique complémentaire visé à l’annexe 11, ch. 2.[^25-6]
 
 <sup>5</sup> L’autorisation n’est valable qu’avec le permis de conduire.
 
 [^25-1]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^25-2]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^25-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-4]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^25-5]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^25-4]: Introduite par l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^25-5]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^25-6]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 ### 12*a* Obligations d’annoncer et contrôles relevant de la médecine du trafic
 
@@ -2048,15 +2050,16 @@ Le permis de circulation et les plaques seront délivrés:
 - b.[^71-2] si le véhicule répond aux prescriptions sur la construction et l’équipement et que les données nécessaires à l’immatriculation sont disponibles;
 - c. si l’impôt prélevé conformément à la Limpauto[^71-3] a été acquitté ou si le véhicule en est exonéré;
 - d.[^71-4] si le véhicule fabriqué à l’étranger a été taxé ou exempté du placement sous régime douanier;
-- e.[^71-5] aucune demande de refus d’octroi du permis de circulation et des plaques de contrôle en vertu de l’art. 14*a* de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds (LRPL)[^71-6] n’a été déposée par l’Office fédéral de la douane et de la sécurité des frontières (OFDF).[^71-7]
+- e.[^71-5] aucune demande de refus d’octroi du permis de circulation et des plaques de contrôle en vertu de l’art. 14*a* de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds (LRPL)[^71-6] n’a été déposée par l’Office fédéral de la douane et de la sécurité des frontières (OFDF);
+- f.[^71-7] pour les véhicules sans conducteur, si l’autorisation des conditions d’utilisation a été accordée.[^71-8]
 
-<sup>1bis</sup> La procédure de vérification des conditions énoncées à l’al. 1, let. b, est régie par l’OETV[^71-8].[^71-9]
+<sup>1bis</sup> La procédure de vérification des conditions énoncées à l’al. 1, let. b, est régie par l’OETV[^71-9].[^71-10]
 
-<sup>2</sup> Une autorisation de l’administration des douanes n’est pas nécessaire pour délivrer des permis de circulation à court terme et des permis de circulation collectifs ainsi que les plaques correspondantes (art. 20 à 26 OAV[^71-10]).
+<sup>2</sup> Une autorisation de l’administration des douanes n’est pas nécessaire pour délivrer des permis de circulation à court terme et des permis de circulation collectifs ainsi que les plaques correspondantes (art. 20 à 26 OAV[^71-11]).
 
 <sup>3</sup> L’immatriculation provisoire des véhicules est régie par les art. 16 à 19 OAV.
 
-<sup>4</sup> Les conducteurs doivent toujours être porteurs de l’original du permis de circulation, à moins qu’un duplicata ne leur ait été délivré. Les conducteurs de véhicules automobiles agricoles et forestiers ne sont pas tenus d’être porteurs du permis de circulation lorsqu’ils effectuent des courses entre l’exploitation et le territoire exploité; il en va de même des conducteurs de remorques des services du feu ou de la protection civile qui effectuent des courses sur le territoire de la commune.[^71-11]
+<sup>4</sup> Les conducteurs doivent toujours être porteurs de l’original du permis de circulation, à moins qu’un duplicata ne leur ait été délivré. Les conducteurs de véhicules automobiles agricoles et forestiers ne sont pas tenus d’être porteurs du permis de circulation lorsqu’ils effectuent des courses entre l’exploitation et le territoire exploité; il en va de même des conducteurs de remorques des services du feu ou de la protection civile qui effectuent des courses sur le territoire de la commune.[^71-12]
 
 [^71-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^71-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -2064,11 +2067,12 @@ Le permis de circulation et les plaques seront délivrés:
 [^71-4]: Nouvelle teneur selon l’annexe 4 ch. 35 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^71-5]: Introduite par le ch. II de l’O du 7 mars 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)). Nouvelle teneur selon l’annexe 5 ch. II 3 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 [^71-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^71-7]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^71-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^71-9]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-10]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^71-11]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-7]: Introduite par l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^71-8]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^71-9]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^71-10]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-11]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^71-12]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 72
 
@@ -2659,7 +2663,7 @@ Le permis de circulation peut être retiré:
 - a. lorsque les restrictions ou les conditions spéciales, auxquelles était soumis le permis (art. 80), n’ont pas été observées;
 - b. lorsqu’un usage abusif a été fait du permis ou des plaques;
 - c.[^106-3] lorsque les impôts ou les taxes dus pour des véhicules du même détenteur n’ont pas été payés;
-- d.[^106-4] ...
+- d.[^106-4] …
 
 <sup>3</sup> Le retrait du permis de circulation entraîne toujours la saisie des plaques. Lorsqu’il s’agit de plaques interchangeables, elles peuvent être laissées au détenteur pour l’un des véhicules. La saisie des véhicules est régie par l’art. 221, al. 3 et 4, OETV[^106-5].[^106-6]
 
