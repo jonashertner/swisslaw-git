@@ -4,13 +4,12 @@ number: "821.30.16"
 title: Ordonnance fixant le tarif des frais du Service de la sécurité alimentaire et des affaires vétérinaires
 short: OFSAAV
 language: fr
-version: 2024-01-01
-valid_until: 2025-02-28
-version_adopted: 2023-06-13
+version: 2025-03-01
+version_adopted: 2025-02-10
 adopted: 2014-08-19
 in_force: 2014-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.30.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7939/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8140/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Service de la sécurité alimentaire et des affaires vétérinaires, frais – O
 
 (OFSAAV)
 
-du 19.08.2014 (version entrée en vigueur le 01.01.2024)
+du 19.08.2014 (version entrée en vigueur le 01.03.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -81,7 +80,7 @@ Arrête:
 
 - a) vétérinaire cantonal-e, chimiste cantonal-e et leur adjoint ou adjointe: — Fr. 180
 - b) chef-fe de section, de secteur ou de laboratoire: — Fr. 150
-- c) vétérinaire officiel-le, chimiste, inspecteur ou inspectrice, contrôleur ou contrôleuse, expert ou experte officiel-le: — Fr. 132
+- c) vétérinaire officiel-le, chimiste, inspecteur ou inspectrice, contrôleur ou contrôleuse, expert ou experte officiel-le: — Fr. 138
 - d) collaborateur ou collaboratrice technique, laborantin ou laborantine spécialisé-e, assistant ou assistante officiel-le: — Fr. 110
 - e) collaborateur administratif ou collaboratrice administrative et secrétaire: — Fr. 80
 

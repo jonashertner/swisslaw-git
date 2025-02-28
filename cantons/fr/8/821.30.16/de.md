@@ -4,13 +4,12 @@ number: "821.30.16"
 title: Verordnung über den Tarif der Kosten des Amts für Lebensmittelsicherheit und Veterinärwesen
 short: KLSVWV
 language: de
-version: 2024-01-01
-valid_until: 2025-02-28
-version_adopted: 2023-06-13
+version: 2025-03-01
+version_adopted: 2025-02-10
 adopted: 2014-08-19
 in_force: 2014-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.30.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7939/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8140/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Amt für Lebensmittelsicherheit und Veterinärwesen, Kosten – V
 
 (KLSVWV)
 
-vom 19.08.2014 (Fassung in Kraft getreten am 01.01.2024)
+vom 19.08.2014 (Fassung in Kraft getreten am 01.03.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -81,7 +80,7 @@ beschliesst:
 
 - a) Kantonstierarzt/-ärztin, Kantonschemiker/in und ihr/e Stellvertreter/in: — Fr. 180
 - b) Sektions-, Sektor- oder Laborchef/in: — Fr. 150
-- c) amtliche Tierärztin/amtlicher Tierarzt, Chemiker/in, Inspektor/in, Kontrolleur/in, amtliche Fachexpertin/amtlicher Fachexperte: — Fr. 132
+- c) amtliche Tierärztin/amtlicher Tierarzt, Chemiker/in, Inspektor/in, Kontrolleur/in, amtliche Fachexpertin/amtlicher Fachexperte: — Fr. 138
 - d) technische Sachbearbeiterin/technischer Sachbearbeiter, Fachlaborant/in, amtliche Fachassistentin/ amtlicher Fachassistent: — Fr. 110
 - e) Verwaltungssachbearbeiter/in und Sekretär/in: — Fr. 80
 
