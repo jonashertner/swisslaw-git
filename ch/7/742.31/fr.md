@@ -4,11 +4,11 @@ title: Loi du 20 mars 1998 sur les Chemins de fer fédéraux (LCFF)
 short: LCFF
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847"
 language: fr
-version: 2020-07-01
+version: 2025-03-01
 adopted: 1998-03-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2847_2847_2847-20200701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2847_2847_2847/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2847_2847_2847-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2847_2847_2847/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2847_2847_2847/20200701/fr"
 
 (LCFF)
 
-du 20 mars 1998 (Etat le 1<sup>er</sup> juillet 2020)
+du 20 mars 1998 (État le 1<sup>er</sup> mars 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -29,7 +29,7 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5031](https://fedlex.data.admin.ch/eli/oc/2011/736); [FF 2010 2295](https://fedlex.data.admin.ch/eli/fga/2010/450)).
 [^ingress-3]: [FF 1997 I 853](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)
 
-## Section**** 1 Dispositions générales
+## Section 1 Dispositions générales
 
 [^sec1-1]
 
@@ -92,7 +92,7 @@ Le Conseil fédéral fixe le montant du capital-actions ainsi que l’espèce, l
 
 <sup>3</sup> La Confédération doit toujours détenir la majorité des voix et des actions.
 
-## Section 3 Objectifs stratégiques****
+## Section 3 Objectifs stratégiques
 
 [^sec3-1]
 
@@ -215,11 +215,19 @@ La responsabilité des membres du conseil d’administration, de la direction g�
 
 **Financement**[^20-1]
 
-<sup>1</sup> Les investissements opérés en dehors du secteur de l’infrastructure sont financés par des prêts remboursables, intégralement rémunérés, accordés par la Confédération. D’entente avec l’Administration fédérale des finances, les CFF peuvent utiliser d’autres modalités de financement dans les cas où de telles modalités peuvent se révéler plus avantageuses.
+<sup>1</sup> Les CFF peuvent obtenir des prêts remboursables soumis à intérêts auprès de la Trésorerie fédérale pour financer les investissements réalisés en dehors du domaine indemnisé du secteur de l’infrastructure, tant qu’ils respectent les exigences relatives à l’endettement net définies dans les objectifs stratégiques du Conseil fédéral.
 
-<sup>2</sup> Le Conseil fédéral fixe dans les objectifs stratégiques le montant maximal autorisé pour les emprunts auprès de la Confédération.
+<sup>2</sup> Si le montant du financement externe dont les CFF ont besoin pour réaliser ces investissements excède les exigences relatives à l’endettement net prévues à l’al. 1, il doit être couvert par des apports en capital de la Confédération. Le Conseil fédéral propose à l’Assemblée fédérale les apports en capital nécessaires dans le cadre du budget.
 
-[^20-1]: Nouvelle teneur selon le ch. II 5 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
+<sup>3</sup> L’Administration fédérale des finances (AFF) conclut avec les CFF des conventions de droit public concernant les opérations visées aux al. 1 et 2, qui fixent notamment les charges et les conditions qui y sont liées.
+
+<sup>4</sup> Si les CFF ne sont pas en mesure de rembourser les prêts visés à l’al. 1 ou s’ils doivent assainir leur bilan, le Conseil fédéral peut proposer à l’Assemblée fédérale, dans le cadre du budget, de convertir les prêts en capital propre.
+
+<sup>5</sup> En accord avec l’AFF, les CFF peuvent utiliser d’autres modes de financement dans les cas où la solution proposée est plus avantageuse pour la Confédération et les CFF.
+
+<sup>6</sup> Afin d’assurer leur solvabilité, ils peuvent, outre les prêts visés à l’al. 1, contracter auprès de l’AFF ou, en accord avec l’AFF, auprès de tiers, des avances remboursables d’un montant maximal d’un milliard de francs dont l’échéance fixe n’excède pas un an.
+
+[^20-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 21
 
@@ -272,11 +280,13 @@ En vue de l’entrée en vigueur de la présente loi, les mesures suivantes sont
 - c. il nomme le conseil d’administration et en désigne le président; il arrête en outre les premiers statuts, désigne l’organe de révision et approuve le budget;
 - d. le conseil d’administration des CFF nomme les personnes chargées de la gestion et de la représentation de l’entreprise, dresse le budget en vue de son approbation et édicte le règlement d’organisation.
 
-<sup>3</sup> Dans un délai de quinze ans après l’entrée en vigueur de la présente loi, le département peut mettre au point, par des décisions, les transferts visés à l’al. 2, let. b.
+<sup>3</sup> Dans un délai de quinze ans après l’entrée en vigueur de la présente loi, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) peut mettre au point, par des décisions, les transferts visés à l’al. 2, let. b.[^24-1]
 
 <sup>4</sup> En leur qualité d’employeur, les CFF maintiennent les conditions d’engagement et les rapports de service actuels.
 
 <sup>5</sup> Les CFF sont exonérés de la taxe d’émission relative au capital-actions du bilan de fondation.
+
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 25
 
@@ -302,6 +312,18 @@ La première convention sur les prestations conclue après l’entrée en vigueu
 
 [^26a-1]: Introduit par le ch. I de la LF du 17 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 1389](https://fedlex.data.admin.ch/eli/oc/2011/213); [FF 2010 4495](https://fedlex.data.admin.ch/eli/fga/2010/843)).
 
+#### Art. 26b
+
+**Disposition transitoire de la modification du 27 septembre 2024**[^26b-1]
+
+<sup>1</sup> Afin de réduire l’endettement net des CFF soumis à intérêts, la Confédération verse à ces derniers un apport en capital d’un montant de 850 millions de francs équivalant aux contributions de couverture versées dans le trafic grandes lignes durant les années 2020 à 2022.
+
+<sup>2</sup> En accord avec le DETEC, le Département fédéral des finances conclut avec les CFF une convention de droit public qui fixe notamment les charges et les conditions relatives à l’apport en capital.
+
+<sup>3</sup> Les CFF sont exemptés de tout impôt fédéral, cantonal et communal sur cet apport.
+
+[^26b-1]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
+
 #### Art. 27
 
 **Référendum et entrée en vigueur**
@@ -314,7 +336,7 @@ Date de l’entrée en vigueur:[^27-1] 1<sup>er</sup> janvier 1999 Art. 16: 1<su
 
 [^27-1]: ACF du 25 nov. 1998
 
-## Disposition transitoire de la modification du 18 mars 2011****
+## Disposition transitoire de la modification du 18 mars 2011
 
 [^u1-1]
 
@@ -340,11 +362,11 @@ Annexe
 
 ## Abrogation et modification du droit en vigueur
 
-### 1. La loi fédérale du 23 juin 1944 sur les Chemins de fer fédéraux****
+### 1. La loi fédérale du 23 juin 1944 sur les Chemins de fer fédéraux
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [RS **7** 195; [RO 1962 365](https://fedlex.data.admin.ch/eli/oc/1962/359_365_371), [1968 1265](https://fedlex.data.admin.ch/eli/oc/1968/1221_1265_1181)ch. II al. 1, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 813, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 69, [1982 1225](https://fedlex.data.admin.ch/eli/oc/1982/1225_1225_1225),[1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)art. 53 ch. 6, [1987 263](https://fedlex.data.admin.ch/eli/oc/1987/263_263_263), [1997 3017](https://fedlex.data.admin.ch/eli/oc/1997/3017_3017_3017)]
+[^annexu1-lvlu1-lvl1-1]: [RS **7** 195; [RO 1962 365](https://fedlex.data.admin.ch/eli/oc/1962/359_365_371); [1968 1265](https://fedlex.data.admin.ch/eli/oc/1968/1221_1265_1181)ch. II al. 1; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 813; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 69; [1982 1225](https://fedlex.data.admin.ch/eli/oc/1982/1225_1225_1225);[1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)art. 53 ch. 6; [1987 263](https://fedlex.data.admin.ch/eli/oc/1987/263_263_263); [1997 3017](https://fedlex.data.admin.ch/eli/oc/1997/3017_3017_3017)]
 
 Abrogée
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. März 1998 über die Schweizerischen Bundesbahnen (S
 short: SBBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847"
 language: de
-version: 2020-07-01
+version: 2025-03-01
 adopted: 1998-03-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1998-2847_2847_2847-20200701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2847_2847_2847/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1998-2847_2847_2847-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2847_2847_2847/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2847_2847_2847/20200701/de"
 
 (SBBG)
 
-vom 20. März 1998 (Stand am 1. Juli 2020)
+vom 20. März 1998 (Stand am 1. März 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -62,7 +62,7 @@ Dieses Gesetz regelt die Errichtung, den Zweck und die Organisation der Schweize
 
 <sup>3</sup> Die SBB sind nach betriebswirtschaftlichen Grundsätzen zu führen. Sie erhalten die Eisenbahninfrastruktur in gutem Zustand und passen sie den Erfordernissen des Verkehrs und dem Stand der Technik an.
 
-<sup>4</sup> ...[^3-1]
+<sup>4</sup> …[^3-1]
 
 [^3-1]: Aufgehoben durch Ziff. II 5 des BG vom 21. Juni 2013 über die Finanzierung und den Ausbau der Eisenbahninfrastruktur, mit Wirkung seit 1. Jan. 2016 ([AS 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [BBl 2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305)).
 
@@ -194,7 +194,7 @@ Für die Verantwortlichkeit der Mitglieder des Verwaltungsrates und der Generald
 
 <sup>3</sup> Die Pensionskasse der SBB wird nach dem Grundsatz der Bilanzierung in geschlossener Kasse geführt.[^16-1]
 
-<sup>4</sup> ...[^16-2]
+<sup>4</sup> …[^16-2]
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5031](https://fedlex.data.admin.ch/eli/oc/2011/736); [BBl 2010 2523](https://fedlex.data.admin.ch/eli/fga/2010/450)).
 [^16-2]: Aufgehoben durch Ziff. I des BG vom 18. März 2011, mit Wirkung seit 1. Dez. 2011 ([AS 2011 5031](https://fedlex.data.admin.ch/eli/oc/2011/736); [BBl 2010 2523](https://fedlex.data.admin.ch/eli/fga/2010/450)).
@@ -211,17 +211,25 @@ Für die Verantwortlichkeit der Mitglieder des Verwaltungsrates und der Generald
 
 **Finanzierung**[^20-1]
 
-<sup>1</sup> Die Investitionen ausserhalb der Sparte Infrastruktur werden über vollverzinsliche und rückzahlbare Darlehen des Bundes finanziert. Im Einvernehmen mit der Eidgenössischen Finanzverwaltung können die SBB im Einzelfall andere Finanzierungsmodalitäten anwenden, wenn sich diese wirtschaftlich als vorteilhaft erweisen.
+<sup>1</sup> Die SBB können Investitionen ausserhalb des abgeltungsberechtigten Bereichs der Sparte Infrastruktur durch verzinsliche und rückzahlbare Darlehen der Bundestresorerie finanzieren, solange sie die in den strategischen Zielen des Bundesrates definierten Vorgaben zur Nettoverschuldung einhalten.
 
-<sup>2</sup> Der Bundesrat legt in den strategischen Zielen den maximal zulässigen Umfang der Mittelaufnahme beim Bund fest.
+<sup>2</sup> Übersteigt der Fremdfinanzierungsbedarf der SBB für diese Investitionen die Vorgaben zur Nettoverschuldung nach Absatz 1, so ist dieser durch Kapitalzuschüsse des Bundes zu decken. Der Bundesrat beantragt der Bundesversammlung im Rahmen des Voranschlags die erforderlichen Kapitalzuschüsse.
 
-[^20-1]: Fassung gemäss Ziff. II 5 des BG vom 21. Juni 2013 über die Finanzierung und den Aus-bau der Eisenbahninfrastruktur, in Kraft seit 1. Jan. 2016 ([AS 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [BBl 2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305)).
+<sup>3</sup> Die Eidgenössische Finanzverwaltung (EFV) schliesst mit den SBB öffentlich-rechtliche Vereinbarungen über die Vorgänge nach den Absätzen 1 und 2 ab, die insbesondere die damit verbundenen Auflagen und Bedingungen festlegen.
+
+<sup>4</sup> Können die SBB die Darlehen nach Absatz 1 nicht zurückzahlen oder müssen sie ihre Bilanz sanieren, so kann der Bundesrat der Bundesversammlung im Rahmen des Voranschlags die Umwandlung der Darlehen in Eigenkapital beantragen.
+
+<sup>5</sup> Die SBB können im Einvernehmen mit der EFV im Einzelfall andere Finanzierungsarten anwenden, wenn sich diese für den Bund und die SBB wirtschaftlich als vorteilhaft erweisen.
+
+<sup>6</sup> Sie können zur Sicherstellung ihrer Zahlungsfähigkeit neben den Darlehen nach Absatz 1 bei der EFV oder im Einvernehmen mit der EFV bei Dritten rückzahlbare Vorschüsse von höchstens 1 Milliarde Franken mit festen Laufzeiten von bis zu einem Jahr aufnehmen.
+
+[^20-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 21
 
 **Befreiung von Versicherungspflichten[^21-1]**
 
-<sup>1</sup> ...[^21-2]
+<sup>1</sup> …[^21-2]
 
 <sup>2</sup> Die SBB sind den Vorschriften der Kantone und Gemeinden über die Versicherungspflicht nicht unterworfen.
 
@@ -268,11 +276,13 @@ Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes sind folgende Vorkehrungen 
 - c. Der Bundesrat wählt den Verwaltungsrat und bezeichnet dessen Präsidenten oder Präsidentin, beschliesst die ersten Statuten, bestimmt die Revisionsstelle und genehmigt das Budget.
 - d. Der Verwaltungsrat der SBB ernennt die mit der Geschäftsführung und Vertretung betrauten Personen, erstellt das Budget zur Genehmigung durch den Bundesrat und erlässt das Organisationsreglement.
 
-<sup>3</sup> Das Departement kann die Zuweisungen nach Absatz 2 Buchstabe b innert 15 Jahren nach Inkrafttreten dieses Gesetzes mittels Verfügung bereinigen.
+<sup>3</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann die Zuweisungen nach Absatz 2 Buchstabe b innert 15 Jahren nach Inkrafttreten dieses Gesetzes mittels Verfügung bereinigen.[^24-1]
 
 <sup>4</sup> Die SBB führen als Arbeitgeberin die bestehenden Dienst- und Anstellungsverhältnisse weiter.
 
 <sup>5</sup> Die SBB sind für das Aktienkapital der Gründungsbilanz von der Emissionsabgabe befreit.
+
+[^24-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 25
 
@@ -297,6 +307,18 @@ Mit Inkrafttreten dieses Gesetzes erlangen die SBB Rechtspersönlichkeit.
 Die erste Leistungsvereinbarung nach Inkrafttreten der Änderung vom 17. Dezember 2010 dieses Gesetzes gilt zwei Jahre.
 
 [^26a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2011 1389](https://fedlex.data.admin.ch/eli/oc/2011/213); [BBl 2010 4933](https://fedlex.data.admin.ch/eli/fga/2010/843)).
+
+#### Art. 26b
+
+**Übergangsbestimmung zur Änderung vom 27. September 2024**[^26b-1]
+
+<sup>1</sup> Der Bund leistet den SBB zur Reduktion der verzinslichen Nettoverschuldung einen Kapitalzuschuss in der Höhe der in den Jahren 2020–2022 entrichteten Deckungsbeiträge im Fernverkehr von 850 Millionen Franken.
+
+<sup>2</sup> Im Einvernehmen mit dem UVEK schliesst das Eidgenössische Finanzdepartement mit den SBB eine öffentlich-rechtliche Vereinbarung ab, die insbesondere die mit dem Kapitalzuschuss verbundenen Auflagen und Bedingungen festlegt.
+
+<sup>3</sup> Die SBB sind für den Kapitalzuschuss von jeglichen Steuern des Bundes, der Kantone und der Gemeinden befreit.
+
+[^26b-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 27
 
@@ -340,12 +362,12 @@ Anhang
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [BS **7** 195; [AS 1962 359](https://fedlex.data.admin.ch/eli/oc/1962/359_365_371), [1968 1221](https://fedlex.data.admin.ch/eli/oc/1968/1221_1265_1181)Ziff. II Abs. 1, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 813, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 69, [1982 1225](https://fedlex.data.admin.ch/eli/oc/1982/1225_1225_1225), [1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)Art. 53 Ziff. 6, [1987 263](https://fedlex.data.admin.ch/eli/oc/1987/263_263_263), [1997 3017](https://fedlex.data.admin.ch/eli/oc/1997/3017_3017_3017)]
+[^annexu1-lvlu1-lvl1-1]: [BS **7** 195; [AS 1962 359](https://fedlex.data.admin.ch/eli/oc/1962/359_365_371); [1968 1221](https://fedlex.data.admin.ch/eli/oc/1968/1221_1265_1181)Ziff. II Abs. 1; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 813; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 69; [1982 1225](https://fedlex.data.admin.ch/eli/oc/1982/1225_1225_1225); [1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)Art. 53 Ziff. 6; [1987 263](https://fedlex.data.admin.ch/eli/oc/1987/263_263_263); [1997 3017](https://fedlex.data.admin.ch/eli/oc/1997/3017_3017_3017)]
 
 *Aufgehoben*
 
 ### 2.–9.
 
-...[^annexu1-lvlu1-lvl2-1]
+…[^annexu1-lvlu1-lvl2-1]
 
 [^annexu1-lvlu1-lvl2-1]: Die Änderungen können unter [AS 1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)konsultiert werden.
