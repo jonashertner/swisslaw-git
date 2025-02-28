@@ -4,13 +4,12 @@ number: "650.410"
 title: Verordnung zum Gesetz betreffend die Erhebung einer Gasttaxe
 short: Gasttaxenverordnung
 language: de
-version: 2018-01-01
-valid_until: 2025-02-28
-version_adopted: 2017-12-12
+version: 2025-03-01
+version_adopted: 2024-12-17
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/650.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4321/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6488/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gasttaxe: Verordnung | Spezielle Steuern und Abgaben
 
 (Gasttaxenverordnung)
 
-Vom 12. Dezember 2017 (Stand 1. Januar 2018)
+Vom 12. Dezember 2017 (Stand 1. März 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -43,7 +42,7 @@ beschliesst:
 
 **Höhe der Gasttaxe**
 
-<sup>1</sup> Die Höhe der Gasttaxe beträgt Fr. 4.
+<sup>1</sup> Die Höhe der Gasttaxe beträgt Fr. 4.20.
 
 #### § 3
 
@@ -51,7 +50,7 @@ beschliesst:
 
 <sup>1</sup> Pro gasttaxenpflichtige Übernachtung geht ein Betrag, dessen Höhe der Regierungsrat bestimmt, an den Tarifverbund Nordwestschweiz (TNW) zur Finanzierung der Nutzung des öffentlichen Verkehrs durch die Gäste.
 
-<sup>2</sup> Über die weitere Verwendung der Gasttaxenerträge entscheidet das Departement nach Deckung seiner Vollzugskosten in Höhe von 1.5% der Gasttaxenerträge (brutto).
+<sup>2</sup> Über die weitere Verwendung der Gasttaxenerträge entscheidet das Departement nach Deckung seiner Vollzugskosten.
 
 <sup>3</sup> Das Departement kann mit Dritten im Sinne von § 2 Abs. 2 des Gesetzes eine Vereinbarung abschliessen.
 
