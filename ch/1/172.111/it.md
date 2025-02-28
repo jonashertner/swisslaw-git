@@ -4,11 +4,11 @@ title: "Ordinanza sull'organizzazione del Consiglio federale del 29 novembre 201
 short: OOrg-CF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: it
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/it"
 
 (OOrg-CF)
 
-del 29 novembre 2013 (Stato 1° gennaio 2025)
+del 29 novembre 2013 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -59,7 +59,12 @@ ordina:
 
 <sup>1</sup> Se impossibilitati a partecipare alle deliberazioni del Collegio, i membri del Consiglio federale ne informano tempestivamente il cancelliere della Confederazione.
 
-<sup>2</sup> Se non può partecipare alle deliberazioni, il cancelliere della Confederazione è rappresentato da un vicecancelliere.
+<sup>2</sup> Se non può partecipare alle deliberazioni, il cancelliere della Confederazione è sostituito dal vicecancelliere da lui designato.[^3-1]
+
+<sup>3</sup> Se un vicecancelliere non può assistere alle deliberazioni, il cancelliere della Confederazione può designare un quadro dirigente della Cancelleria federale in sua vece.[^3-2]
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 29 gen. 2025, in vigore dal 1° mar. 2025 ([RU 2025 99](https://fedlex.data.admin.ch/eli/oc/2025/99))
+[^3-2]: Introdotto dalla cifra I dell’O del 29 gen. 2025, in vigore dal 1° mar. 2025 ([RU 2025 99](https://fedlex.data.admin.ch/eli/oc/2025/99))
 
 #### Art. 4
 

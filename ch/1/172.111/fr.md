@@ -4,11 +4,11 @@ title: "Ordonnance sur l'organisation du Conseil fédéral du 29 novembre 2013 (
 short: Org CF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: fr
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/fr"
 
 (Org CF)
 
-du 29 novembre 2013 (État le 1<sup>er</sup> janvier 2025)
+du 29 novembre 2013 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -57,7 +57,12 @@ arrête:
 
 <sup>1</sup> Les membres du Conseil fédéral informent à temps le chancelier de la Confédération s’ils ne peuvent participer aux délibérations du Conseil fédéral.
 
-<sup>2</sup> Le chancelier de la Confédération est remplacé par un vice-chancelier en cas d’empêchement.
+<sup>2</sup> Si le chancelier de la Confédération ne peut prendre part aux délibérations, il est remplacé par le vice-chancelier qu’il a désigné.[^3-1]
+
+<sup>3</sup> Si un vice-chancelier ne peut assister à une séance, le chancelier de la Confédération peut désigner un cadre de la Chancellerie fédérale exerçant une fonction dirigeante pour le remplacer.[^3-2]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 99](https://fedlex.data.admin.ch/eli/oc/2025/99)).
+[^3-2]: Introduit par le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 99](https://fedlex.data.admin.ch/eli/oc/2025/99)).
 
 #### Art. 4
 

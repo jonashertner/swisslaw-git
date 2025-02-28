@@ -4,11 +4,11 @@ title: Organisationsverordnung für den Bundesrat vom 29. November 2013 (OV-BR)
 short: OV-BR
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/812"
 language: de
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/812/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2013-812-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/812/20250101/de"
 
 (OV-BR)
 
-vom 29. November 2013 (Stand am 1. Januar 2025)
+vom 29. November 2013 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -57,7 +57,12 @@ verordnet:
 
 <sup>1</sup> Die Mitglieder des Bundesrates informieren die Bundeskanzlerin oder den Bundeskanzler frühzeitig, wenn sie an der Teilnahme an den Verhandlungen des Bundesrates verhindert sind.
 
-<sup>2</sup> Kann die Bundeskanzlerin oder der Bundeskanzler nicht teilnehmen, so wird sie oder er durch eine Vizekanzlerin oder einen Vizekanzler vertreten.
+<sup>2</sup> Kann die Bundeskanzlerin oder der Bundeskanzler an den Verhandlungen nicht teilnehmen, so wird sie oder er durch die von ihr oder ihm bezeichnete Vizekanzlerin oder den von ihr oder ihm bezeichneten Vizekanzler vertreten.[^3-1]
+
+<sup>3</sup> Kann eine Vizekanzlerin oder ein Vizekanzler den Verhandlungen nicht beiwohnen, so kann die Bundeskanzlerin oder der Bundeskanzler ein Mitglied des Kaders der Bundeskanzlei mit Leitungsfunktion als Vertretung bezeichnen.[^3-2]
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. März 2025 ([AS 2025 99](https://fedlex.data.admin.ch/eli/oc/2025/99)).
+[^3-2]: Eingefügt durch Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. März 2025 ([AS 2025 99](https://fedlex.data.admin.ch/eli/oc/2025/99)).
 
 #### Art. 4
 
