@@ -4,13 +4,12 @@ number: "774"
 title: Kantonale Energieverordnung
 short: KEnV
 language: de
-version: 2019-01-01
-valid_until: 2025-02-28
-version_adopted: 2018-09-25
+version: 2025-03-01
+version_adopted: 2025-01-14
 adopted: 2018-09-25
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/774"
-pdf: "https://srl.lu.ch/api/de/versions/3313/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3313/pdf_file"
 
 (KEnV)
 
-vom 25.09.2018 (Stand 01.01.2019)
+vom 25.09.2018 (Stand 01.03.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -149,15 +148,27 @@ beschliesst:
 
 <sup>2</sup> Nach Abschluss der Arbeiten ist der zuständigen kommunalen Behörde eine Ausführungsbestätigung gemäss § 28 einzureichen.
 
-### 3.2 Eigenstromerzeugung bei Neubauten
+### 3.2 Eigenstromerzeugung bei Bauten
 
 #### § 13
 
-**Mindestvorgabe, Art der Stromerzeugung**
+**Mindestvorgaben, Art der Stromerzeugung**
 
-<sup>1</sup> Die auf dem, am oder im Gebäude installierte Elektrizitätserzeugungsanlage muss bei Neubauten mindestens eine installierte Leistung von 10 W pro m² Energiebezugsfläche erbringen, insgesamt jedoch nicht mehr als 30 kW.
+<sup>1</sup> Bei Neubauten gilt das Stromerzeugungspotenzial im Sinn von § 15 Absatz 1 des Gesetzes als angemessen ausgenutzt, wenn die belegbare Dachfläche vollständig mit PV-Modulen belegt ist oder mit einer anderen auf, an oder in dem Gebäude selbst oder einem anderen Gebäude innerhalb eines Areals derselben Eigentümerschaft installierten Anlage Elektrizität im selben Umfang erzeugt wird. Dabei wird davon ausgegangen, dass ein Quadratmeter PV-Fläche eine Leistung von 200 Watt erbringt.
 
-<sup>2</sup> Die Art der Eigenstromerzeugung ist bei Neubauten frei wählbar, soweit sie auf dem, am oder im Gebäude erfolgt.
+<sup>2</sup> Bei bestehenden Bauten gilt als Dachsanierung im Sinn von § 15 Absatz 1<sup>bis</sup> des Gesetzes die neue Eindeckung oder Abdichtung des Daches. Für die Ausnutzung des Stromerzeugungspotenzials ist die Hälfte der bei Neubauten geltenden Anforderungen gemäss Absatz 1 zu erfüllen.
+
+<sup>2<sup>bis</sup></sup> Als belegbare Dachfläche gelten 50 Prozent der zur Eigenstromerzeugung nutzbaren Dachfläche. Die nutzbare Dachfläche ergibt sich aus der Summe aller Teildachflächen, die grösser als 25 m² sind und die Installation von mindestens sechs zusammenhängenden Photovoltaik-Modulen ermöglichen sowie
+
+- a. bei Neubauten entweder einen Winkel von 0 bis 20 Grad gegenüber der Horizontalen oder einen Winkel bis 60 Grad gegenüber der Horizontalen und eine Ausrichtung zwischen West-Nordwest (110 Grad) und Ost-Nordost (-110 Grad) haben, oder
+- b. bei bestehenden Bauten eine Eignung von mindestens «gut» gemäss Geodatenmodell «Solarenergie: Eignung Dächer (Sonnendach.ch)» des Bundesamtes für Energie aufweisen.
+
+<sup>2<sup>ter</sup></sup> Terrassen gelten nicht als nutzbare Dachfläche.
+
+<sup>2<sup>quater</sup></sup> Solarthermieanlagen können angerechnet werden. Dabei wird davon ausgegangen, dass ein Quadratmeter Solarthermie-Fläche
+
+- a. bei Schrägdächern einem Quadratmeter PV-Fläche entspricht,
+- b. bei Flachdächern drei Quadratmeter PV-Fläche entspricht.
 
 <sup>3</sup> Elektrizität aus Wärmekraftkopplungsanlagen kann nur berücksichtigt werden, wenn sie nicht zur Erfüllung der Anforderungen an die Deckung des Wärmebedarfs (gemäss Art. 1.23 Anhang 1) eingerechnet wird.
 
@@ -165,17 +176,22 @@ beschliesst:
 
 **Nachweis, Ersatzabgabe**
 
-<sup>1</sup> Der Nachweis der minimal zu installierenden Leistung gemäss § 13 Absatz 1 ist im Baubewilligungsverfahren mittels Formular zu erbringen.
+<sup>1</sup> Der Nachweis, dass die Anforderungen gemäss § 13 erfüllt werden, ist im Baubewilligungs- oder Meldeverfahren mittels Formular zu erbringen.
 
-<sup>2</sup> Bei der Bauabnahme ist zu belegen, dass die effektiv installierte Leistung der im Nachweis errechneten minimalen Leistung entspricht. Ab einer Abweichung von ≥ 1 kW nicht realisierter Leistung ist die Ersatzabgabe geschuldet.
+<sup>2</sup> Wird die gemäss § 13 zu realisierende Leistung um mehr als 1 kW unterschritten, ist die Ersatzabgabe geschuldet. Vorbehalten bleibt § 15.
 
 <sup>3</sup> Die Ersatzabgabe beträgt 1000 Franken pro kW nicht realisierter Leistung und ist der Gemeinde zu bezahlen.
 
 #### § 15
 
-**Befreiung**
+**Befreiung und Ausnahme**
 
-<sup>1</sup> Befreit von der Pflicht zur Eigenstromerzeugung sind Erweiterungen von bestehenden Gebäuden, wenn die neu geschaffene Energiebezugsfläche weniger als 50 m² oder maximal 20 Prozent der Energiebezugsfläche des bestehenden Gebäudeteils und nicht mehr als 1000 m² beträgt.
+<sup>1</sup> Befreit von der Pflicht zur Eigenstromerzeugung sind
+
+- a. Teildachflächen, auf denen der erwartete Jahresertrag weniger als 800 kWh pro kWp installierter Leistung beträgt,
+- b. Traglufthallen, Gewächshäuser und Wintergärten mit verglastem Dach sowie Folientunnel und andere vergleichbare Bauten.
+
+<sup>2</sup> Können die Mindestvorgaben gemäss § 13 bezüglich der Dachbelegung mit PV-Modulen aufgrund von konkreten Gegebenheiten am Gebäude im Einzelfall planerisch nachweislich nicht vollumfänglich erreicht werden, gilt die Pflicht zur Eigenstromerzeugung mit der Installation der maximal möglichen Dachbelegung als erfüllt.
 
 ### 3.3 Grossverbraucher
 
@@ -282,7 +298,9 @@ beschliesst:
 
 <sup>1</sup> Für jede geplante energierelevante Massnahme ist der zuständigen Behörde ein Projektnachweis einzureichen, mit dem belegt wird, dass die energierelevanten Vorschriften von Bund und Kanton eingehalten werden. Ein Minergie-Zertifikat gilt als Projektnachweis.
 
-<sup>2</sup> Der Projektnachweis ist von der Bauherrschaft und von dem oder der Projektverantwortlichen zu unterzeichnen.
+<sup>2</sup> Der Projektnachweis ist mit einem von der Bauherrschaft und der projektverantwortlichen Person eigenhändig unterzeichneten Unterschriftenblatt im PDF-Format digital einzureichen. Alternativ kann der Projektnachweis mit einer elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> des Schweizerischen Obligationenrechts (OR) vom 30. März 1911[^27-1] versehen oder nach einer Authentifizierung mit einem zugelassenen elektronischen Identitätsnachweis digital eingereicht werden.
+
+[^27-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### § 28
 
@@ -290,7 +308,9 @@ beschliesst:
 
 <sup>1</sup> Wo ein Projektnachweis einzureichen ist, hat die Bauherrschaft nach Abschluss der Arbeiten und vor dem Bezug der Baute oder der Inbetriebsetzung der Anlage gegenüber der Gemeinde zu bestätigen, dass gemäss bewilligtem Projektnachweis gebaut wurde.
 
-<sup>2</sup> Die Bestätigung hat schriftlich und, wo ein Baubewilligungsverfahren erforderlich ist, im Rahmen der Baukontrolle zu erfolgen. Sie ist von der Bauherrschaft und von dem oder der Projektverantwortlichen zu unterzeichnen.
+<sup>2</sup> Die Bestätigung hat schriftlich und, wo ein Baubewilligungsverfahren erforderlich ist, im Rahmen der Baukontrolle zu erfolgen. Sie ist mit einem von der Bauherrschaft und der projektverantwortlichen Person eigenhändig unterzeichneten Unterschriftenblatt im PDF-Format digital einzureichen. Alternativ kann die Bestätigung mit einer elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> OR[^28-1] versehen oder nach einer Authentifizierung mit einem zugelassenen elektronischen Identitätsnachweis digital eingereicht werden.
+
+[^28-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### § 29
 
