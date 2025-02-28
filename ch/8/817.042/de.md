@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. Januar 2025)
+vom 27. Mai 2020 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1999,6 +1999,14 @@ Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttret
 
 [^118e-1]: Eingefügt durch Ziff. I der V des BLV vom 9. Juli 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
 
+#### Art. 118f
+
+**Übergangsbestimmung zur Änderung vom 6. Februar 2025**[^118f-1]
+
+Sendungen mit Kreuzkümmelfrüchten aus der Türkei, die zum Zeitpunkt des Inkrafttretens der Änderung vom 6. Februar 2025 bereits versendet wurden, dürfen bis zum 30. April 2025 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden.
+
+[^118f-1]: Eingefügt durch Ziff. I der V des BLV vom 6. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -2020,12 +2028,12 @@ Anhang 2[^t-1]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 9. Juli 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 6. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
 
 - 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch Durchführungsverordnung (EU) 2024/1662, ABl. L, 2024/1662, 12.6.2024.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2024/3153, ABl. L, 2024/3153, 19.12.2024.
 
 Anhang 3[^t-2]
 

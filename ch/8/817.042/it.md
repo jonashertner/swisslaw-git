@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250101/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° gennaio 2025)
+del 27 maggio 2020 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1993,6 +1993,14 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 
 [^118e-1]: Introdotto dalla cifra I dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
 
+#### Art. 118f
+
+**Disposizione transitoria della modifica del 6 febbraio 2025**[^118f-1]
+
+Le partite con semi di cumino dalla Turchia già inviate al momento dell’entrata in vigore della modifica del 6 febbraio 2025 possono essere importate fino al 30 aprile 2025 senza attestazione ufficiale e senza risultati delle campionature e delle analisi.
+
+[^118f-1]: Introdotto dalla cifra I dell’O dell’USAV del 6 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100))
+
 #### Art. 119
 
 **Entrata in vigore**
@@ -2014,12 +2022,12 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 9 lug. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)) e del 6 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
 
 - 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
 
-[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2024/1662, GU L, 2024/1662, 12.6.2024.
+[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2024/3153, GU L, 2024/3153, 19.12.2024.
 
 Allegato 3[^t-2]
 
