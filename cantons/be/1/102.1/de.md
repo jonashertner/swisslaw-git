@@ -4,13 +4,12 @@ number: "102.1"
 title: Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 short: "Sonderstatutsgesetz, SStG"
 language: de
-version: 2024-01-01
-valid_until: 2025-02-28
-version_adopted: 2022-09-05
+version: 2025-03-01
+version_adopted: 2024-09-03
 adopted: 2004-09-13
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2930/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2930/pdf_file"
 
 (Sonderstatutsgesetz, SStG)
 
-vom 13.09.2004 (Stand 01.01.2024)
+vom 13.09.2004 (Stand 01.03.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -729,6 +728,39 @@ beschliesst:
 **Verfahren**
 
 <sup>1</sup> Artikel 66 gilt sinngemäss.
+
+### 11.4 In den Bereichen wirtschaftliche Entwicklung und Förderung tätige Dachorganisationen
+
+#### Art. 67d
+
+**Finanzhilfe**
+
+<sup>1</sup> Der Kanton kann Dachorganisationen im Berner Jura, die in den Bereichen wirtschaftliche Entwicklung und Förderung des Berner Juras tätig sind, Beiträge in Form von Finanzhilfen gewähren.
+
+<sup>2</sup> Die Beiträge werden auf der Grundlage eines Leistungsvertrags gewährt und können verwendet werden
+
+- a für Betriebsausgaben der Dachorganisation,
+- b als Aufbauhilfen bei Projekten.
+
+<sup>3</sup> Sie sind subsidiär und mit anderen Leistungen zu koordinieren.
+
+<sup>4</sup> Es besteht kein Anspruch auf Finanzhilfe.
+
+#### Art. 67e
+
+**Voraussetzungen**
+
+<sup>1</sup> Beiträge können nur gewährt werden, wenn mindestens drei Viertel der Gemeinden des Berner Juras ebenfalls eine Finanzhilfe leisten.
+
+<sup>2</sup> Beiträge gemäss Artikel 67d Absatz 2 Buchstabe b werden für eine Dauer von höchstens fünf Jahren gewährt.
+
+<sup>3</sup> Die beitragsberechtigten Dachorganisationen müssen dafür sorgen, dass ihre Aktivitäten auch den Interessen der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne zugutekommen.
+
+#### Art. 67f
+
+**Verfahren**
+
+<sup>1</sup> Artikel 66 Absatz 1 und 2 gilt sinngemäss.
 
 ## 12 Vollzug und Rechtspflege
 

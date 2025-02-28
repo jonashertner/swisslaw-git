@@ -4,13 +4,12 @@ number: "102.1"
 title: "Loi sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne *"
 short: "Loi sur le statut particulier, LStP"
 language: fr
-version: 2024-01-01
-valid_until: 2025-02-28
-version_adopted: 2022-09-05
+version: 2025-03-01
+version_adopted: 2024-09-03
 adopted: 2004-09-13
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2930/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3137/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2930/pdf_file"
 
 (Loi sur le statut particulier, LStP)
 
-du 13.09.2004 (état au 01.01.2024)
+du 13.09.2004 (état au 01.03.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -728,6 +727,39 @@ arrête:
 **Procédure**
 
 <sup>1</sup> L'article 66 est applicable par analogie.
+
+### 11.4 Organisations faîtières promouvant le développement et la promotion économiques du Jura bernois
+
+#### Art. 67d
+
+**Aide financière**
+
+<sup>1</sup> Le canton peut octroyer des subventions sous forme d'aide financière à des organisations faîtières du Jura bernois qui promeuvent le développement et la promotion économiques du Jura bernois.
+
+<sup>2</sup> Les subventions sont octroyées sur la base d'un contrat de prestations et peuvent être affectées
+
+- a à des dépenses d'exploitation de l'organisation faîtière,
+- b à titre d'aide de démarrage de projets.
+
+<sup>3</sup> Elles sont subsidiaires et doivent être coordonnées avec d’autres prestations.
+
+<sup>4</sup> Aucune organisation ne peut prétendre à l’octroi d'une aide financière.
+
+#### Art. 67e
+
+**Conditions**
+
+<sup>1</sup> Une subvention ne peut être octroyée que si trois quarts au moins des communes du Jura bernois fournissent également une aide financière.
+
+<sup>2</sup> Une subvention au sens de l'article 67d, alinéa 2, lettre b est octroyée pour une durée maximale de cinq ans.
+
+<sup>3</sup> Les organisations faîtières subventionnées doivent veiller à ce que leurs activités servent aussi les intérêts de la population francophone de l’arrondissement administratif de Biel/Bienne.
+
+#### Art. 67f
+
+**Procédure**
+
+<sup>1</sup> L'article 66, alinéas 1 et 2 est applicable par analogie.
 
 ## 12 Exécution et voies de droit
 
