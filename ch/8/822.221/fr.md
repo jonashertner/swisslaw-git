@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2024-12-31
+version: 2025-03-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20241231/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20241231-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (État le 31 décembre 2024)
+du 19 juin 1995 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -140,13 +140,14 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 - f.[^4-11] véhicules utilisés dans le cadre de la formation pratique de conduite ou de la formation continue organisée par des moniteurs de conduite ou des centres de formation continue, pour autant qu’aucun transport commercial de personnes et de choses ne soit effectué durant ces courses;
 - g.[^4-12] véhicules utilisés par les services responsables des canalisations, de la protection contre les inondations, de l’entretien des routes et de la collecte des déchets ménagers, par les services en charge des eaux, du gaz et de l’électricité, par les opérateurs télégraphiques ou téléphoniques, par les émetteurs de radio et de télévision ainsi que pour la détection des émetteurs ou récepteurs de radio ou de télévision;
 - h.[^4-13] véhicules transportant du matériel de cirque ou de fêtes foraines;
-- i.[^4-14] véhicules affectés au trafic interne d’une entreprise, autorisés à circuler sur la voie publique uniquement sur autorisation des pouvoirs publics (art. 33 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^4-15] et art. 72, al. 1, let. e, de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, OAC[^4-16]) ou véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires.
+- i.[^4-14] véhicules affectés au trafic interne d’une entreprise, autorisés à circuler sur la voie publique uniquement sur autorisation des pouvoirs publics (art. 33 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^4-15] et art. 72, al. 1, let. e, de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, OAC[^4-16]) ou véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires;
+- j.[^4-17] véhicules sans conducteur, pour autant que ces derniers soient conduits en utilisant d’autres moyens que les commandes conventionnelles.
 
-<sup>2bis</sup> En trafic interne, les conducteurs qui utilisent des véhicules au sens de l’al. 2, let. a, pour le transport professionnel de personnes sont soumis à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes[^4-17].[^4-18]
+<sup>2bis</sup> En trafic interne, les conducteurs qui utilisent des véhicules au sens de l’al. 2, let. a, pour le transport professionnel de personnes sont soumis à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes[^4-18].[^4-19]
 
-<sup>3</sup> En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs soumis à la loi du 8 octobre 1971 sur la durée du travail[^4-19] et qui n’effectuent que des transports régis par ladite loi. Lorsque ces conducteurs effectuent en outre d’autres transports, ils sont tenus d’observer, pour toute leur activité professionnelle, les prescriptions des art. 5 à 12 sur la durée du travail, de la conduite et du repos et de tenir à jour les moyens de contrôle indiqués aux art. 14 à 16.
+<sup>3</sup> En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs soumis à la loi du 8 octobre 1971 sur la durée du travail[^4-20] et qui n’effectuent que des transports régis par ladite loi. Lorsque ces conducteurs effectuent en outre d’autres transports, ils sont tenus d’observer, pour toute leur activité professionnelle, les prescriptions des art. 5 à 12 sur la durée du travail, de la conduite et du repos et de tenir à jour les moyens de contrôle indiqués aux art. 14 à 16.
 
-<sup>4</sup> …[^4-20]
+<sup>4</sup> …[^4-21]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
@@ -164,10 +165,11 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 [^4-14]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-15]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^4-16]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^4-17]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-18]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-19]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-20]: Introduit par l’annexe 1 ch. 4 de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogé par le ch. I de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-17]: Introduite par l’annexe ch. 4 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-18]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^4-19]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-20]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^4-21]: Introduit par l’annexe 1 ch. 4 de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogé par le ch. I de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## Section 3 Durée de la conduite, du travail, des pauses et du repos
 

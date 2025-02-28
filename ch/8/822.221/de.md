@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2024-12-31
+version: 2025-03-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20241231/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20241231-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 31. Dezember 2024)
+vom 19. Juni 1995 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -140,13 +140,14 @@ Im Binnenverkehr gilt diese Verordnung ferner nicht für Führer und Führerinne
 - f.[^4-9] Fahrzeuge, die im Rahmen der von Fahrlehrern und Fahrlehrerinnen oder von Weiterbildungsstätten durchgeführten praktischen Fahrausbildung oder Weiterbildung eingesetzt werden, sofern auf diesen Fahrten keine gewerblichen Personen- oder Sachentransporte durchgeführt werden;
 - g.[^4-10] Fahrzeuge, die von Kanalisations-, Hochwasserschutz-, Strassenunterhaltsdiensten und Sammeldiensten für Siedlungsabfälle, von Wasser-, Gas- und Elektrizitätsversorgungsdiensten, von Telegramm- und Telefonanbietern, Radio- und Fernsehsendern sowie zur Erfassung von Radio- und Fernsehsendern oder -geräten eingesetzt werden;
 - h.[^4-11] Fahrzeuge, die Ausrüstungen des Zirkus- oder Schaustellergewerbes transportieren;
-- i.[^4-12] Fahrzeuge, die bloss im werkinternen Verkehr eingesetzt werden und öffentliche Strassen nur mit behördlicher Bewilligung benützen dürfen (Art. 33 der Verkehrsversicherungsverordnung vom 20. Nov. 1959[^4-13] und Art. 72 Abs. 1 Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^4-14]) oder die ausschliesslich auf Strassen in Güterverteilzentren wie Häfen, Umschlaganlagen des kombinierten Verkehrs und Eisenbahnterminals benutzt werden.
+- i.[^4-12] Fahrzeuge, die bloss im werkinternen Verkehr eingesetzt werden und öffentliche Strassen nur mit behördlicher Bewilligung benützen dürfen (Art. 33 der Verkehrsversicherungsverordnung vom 20. Nov. 1959[^4-13] und Art. 72 Abs. 1 Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^4-14]) oder die ausschliesslich auf Strassen in Güterverteilzentren wie Häfen, Umschlaganlagen des kombinierten Verkehrs und Eisenbahnterminals benutzt werden;
+- j.[^4-15] mit führerlosen Fahrzeugen, sofern diese mit anderen Mitteln als den konventionellen Bedienelementen geführt werden.
 
-<sup>2bis</sup> Führer und Führerinnen, die Fahrzeuge nach Absatz 2 Buchstabe a für berufsmässige Personentransporte einsetzen, unterstehen im Binnenverkehr der Verordnung vom 6. Mai 1981[^4-15] über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen.[^4-16]
+<sup>2bis</sup> Führer und Führerinnen, die Fahrzeuge nach Absatz 2 Buchstabe a für berufsmässige Personentransporte einsetzen, unterstehen im Binnenverkehr der Verordnung vom 6. Mai 1981[^4-16] über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen.[^4-17]
 
-<sup>3</sup> Im Binnenverkehr gilt die Verordnung nicht für Führer und Führerinnen, die dem Arbeitszeitgesetz vom 8. Oktober 1971[^4-17] unterstehen und nur Transporte ausführen, die von diesem Gesetz erfasst werden. Werden zusätzlich andere Transporte ausgeführt, müssen sie für ihre gesamte berufliche Tätigkeit die Arbeits‑, Lenk- und Ruhezeitvorschriften der Artikel 5–12 beachten und die Kontrollmittel nach den Artikeln 14–16 führen.
+<sup>3</sup> Im Binnenverkehr gilt die Verordnung nicht für Führer und Führerinnen, die dem Arbeitszeitgesetz vom 8. Oktober 1971[^4-18] unterstehen und nur Transporte ausführen, die von diesem Gesetz erfasst werden. Werden zusätzlich andere Transporte ausgeführt, müssen sie für ihre gesamte berufliche Tätigkeit die Arbeits‑, Lenk- und Ruhezeitvorschriften der Artikel 5–12 beachten und die Kontrollmittel nach den Artikeln 14–16 führen.
 
-<sup>4</sup> …[^4-18]
+<sup>4</sup> …[^4-19]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^4-2]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
@@ -162,10 +163,11 @@ Im Binnenverkehr gilt diese Verordnung ferner nicht für Führer und Führerinne
 [^4-12]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-13]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^4-14]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^4-15]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-16]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-17]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-18]: Eingefügt durch Anhang 1 Ziff. 4 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-15]: Eingefügt durch Anhang Ziff. 4 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-16]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^4-17]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-18]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^4-19]: Eingefügt durch Anhang 1 Ziff. 4 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## 3. Abschnitt: Lenkzeiten, Arbeitszeiten, Pausen, Ruhezeiten
 
@@ -595,7 +597,7 @@ Lenkt der Führer oder die Führerin abwechselnd ein Fahrzeug mit einem analogen
 
 [^14c-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^14c-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 31. Dez. 2024 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^14c-3]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 31. Dez. 2024 (AS **202****4** 482).
+[^14c-3]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 31. Dez. 2024 ([AS 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
 [^14c-4]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 31. Dez. 2024 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^14c-5]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 

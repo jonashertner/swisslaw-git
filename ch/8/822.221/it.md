@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2024-12-31
+version: 2025-03-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20241231/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20241231-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/it"
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 31 dicembre 2024)
+del 19 giugno 1995 (Stato 1° marzo 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -142,13 +142,14 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 - f.[^4-9] veicoli impiegati da maestri conducenti o centri di formazione periodica nel quadro della formazione pratica di guida o della formazione periodica pratica, a condizione che durante queste corse non vengano effettuati trasporti commerciali di persone o cose;
 - g.[^4-10] veicoli usati dai servizi di canalizzazione, protezione contro le inondazioni, manutenzione della rete stradale e nettezza urbana, dai servizi di approvvigionamento idrico, elettrico e di gas come anche veicoli usati da fornitori di servizi di telecomunicazione e di radiotelevisione nonché per la rilevazione di emittenti e riceventi radiotelevisivi;
 - h.[^4-11] veicoli usati per il trasporto di materiale da circo o per fiere e mercati;
-- i.[^4-12] veicoli assegnati soltanto al traffico interno di un’impresa, autorizzati a circolare su strada pubblica soltanto con il permesso dell’autorità (art. 33 dell’O del 20 nov. 1959[^4-13] sull’assicurazione dei veicoli e art. 72 cpv. 1 lett. e dell’O del 27 ott. 1976[^4-14] sull’ammissione alla circolazione di persone e veicoli, OAC), o usati esclusivamente su strade all’interno di centri di smistamento quali porti, interporti e terminali ferroviari.
+- i.[^4-12] veicoli assegnati soltanto al traffico interno di un’impresa, autorizzati a circolare su strada pubblica soltanto con il permesso dell’autorità (art. 33 dell’O del 20 nov. 1959[^4-13] sull’assicurazione dei veicoli e art. 72 cpv. 1 lett. e dell’O del 27 ott. 1976[^4-14] sull’ammissione alla circolazione di persone e veicoli, OAC), o usati esclusivamente su strade all’interno di centri di smistamento quali porti, interporti e terminali ferroviari;
+- j.[^4-15] veicoli senza conducente, se guidati con strumenti diversi rispetto ai comandi convenzionali.
 
-<sup>2bis</sup> Nel traffico interno, i conducenti che impiegano i veicoli di cui al capoverso 2 lettera a per il trasporto professionale di persone sottostanno all’ordinanza del 6 maggio 1981[^4-15] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.[^4-16]
+<sup>2bis</sup> Nel traffico interno, i conducenti che impiegano i veicoli di cui al capoverso 2 lettera a per il trasporto professionale di persone sottostanno all’ordinanza del 6 maggio 1981[^4-16] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.[^4-17]
 
-<sup>3</sup> Nel traffico interno la presente ordinanza non si applica ai conducenti che sottostanno alla legge dell’8 ottobre 1971[^4-17] sulla durata del lavoro ed eseguono unicamente trasporti contemplati in detta legge. Se vengono eseguiti altri trasporti suppletivi, per la loro attività professionale complessiva essi devono rispettare le prescrizioni degli articoli 5–12 relative alla durata del lavoro, della guida e del riposo e gestire i mezzi di controllo giusta gli articoli 14–16.
+<sup>3</sup> Nel traffico interno la presente ordinanza non si applica ai conducenti che sottostanno alla legge dell’8 ottobre 1971[^4-18] sulla durata del lavoro ed eseguono unicamente trasporti contemplati in detta legge. Se vengono eseguiti altri trasporti suppletivi, per la loro attività professionale complessiva essi devono rispettare le prescrizioni degli articoli 5–12 relative alla durata del lavoro, della guida e del riposo e gestire i mezzi di controllo giusta gli articoli 14–16.
 
-<sup>4</sup> ...[^4-18]
+<sup>4</sup> ...[^4-19]
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^4-2]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
@@ -164,10 +165,11 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 [^4-12]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-13]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^4-14]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^4-15]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-16]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-17]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-18]: Introdotto dall’all. 1 n. 4 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dalla cifra I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-15]: Introdotta dall’all. n. 4 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° mar. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-16]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^4-17]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-18]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^4-19]: Introdotto dall’all. 1 n. 4 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dalla cifra I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## Sezione 3: Periodi di guida, di lavoro, pause, periodi di riposo
 
@@ -767,7 +769,7 @@ I datori di lavoro e i conducenti indipendenti devono conservare per tre anni, o
 [^18-8]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^18-9]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-10]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-11]: Introdotto dalla cifra I dell’O del 29 mar. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Nuovo testo giusta l’all. 2 n. II 111 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-11]: Introdotto dalla cifra I dell’O del 29 mar. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Nuovo testo giusta l’all. 2 cifra II n. 111 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni speciali
 
