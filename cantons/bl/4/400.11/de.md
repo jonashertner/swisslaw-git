@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2024-01-01
-valid_until: 2025-02-28
-version_adopted: 2023-12-12
+version: 2025-03-01
+valid_until: 2026-03-31
+version_adopted: 2025-02-18
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3836/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3836/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.01.2024)
+Vom 27.10.1998 (Stand 01.03.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -704,7 +704,7 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 **Duldung öffentlicher Einrichtungen**
 
-<sup>1</sup> Die Eigentümerinnen und Eigentümer von Liegenschaften haben das Anbringen von Strassentafeln, Einrichtungen für öffentliche Beleuchtungen, Hydranten- und Schiebertafeln, Hydranten, Befestigungen für öffentliche Leitungen, Fixpunkten für Vermessungszwecke und ähnliche im öffentlichen Interesse notwendigen Einrichtungen zu dulden.
+<sup>1</sup> Die Eigentümerinnen und Eigentümer von Liegenschaften haben das Anbringen von Strassentafeln, Einrichtungen für öffentliche Beleuchtungen, Hydranten- und Schiebertafeln, Hydranten, Befestigungen für öffentliche Leitungen, Stromverteilkästen NE7, Fixpunkten für Vermessungszwecke und ähnliche, im öffentlichen Interesse notwendige Einrichtungen zu dulden.
 
 <sup>2</sup> Auf die öffentlichen Einrichtungen finden die Vorschriften über die gesetzlichen Abstände und Baulinien keine Anwendung.
 
