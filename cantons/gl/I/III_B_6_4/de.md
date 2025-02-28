@@ -1,22 +1,21 @@
 ---
 canton: GL
 number: III B/6/4
-title: Verordnung über die Führung des Grundbuchs mit elektronischer Datenverarbeitung
+title: Verordnung über die Führung des Grundbuchs mittels Informatik
 language: de
-version: 2020-10-01
-valid_until: 2025-02-28
-version_adopted: 2020-09-08
+version: 2025-03-01
+version_adopted: 2025-02-11
 adopted: 2000-10-31
 in_force: 2001-02-20
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.6.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2189/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Führung des Grundbuchs mit elektronischer Datenverarbeitung
+# Verordnung über die Führung des Grundbuchs mittels Informatik
 
-Vom 31.10.2000 (Stand 01.10.2020)
+Vom 31.10.2000 (Stand 01.03.2025)
 
 Der Regierungsrat,
 
@@ -30,13 +29,13 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung regelt die Führung des Grundbuchs mit elektronischer Datenverarbeitung im Rahmen der bundesrechtlichen Bestimmungen.
+<sup>1</sup> Diese Verordnung regelt die Führung des Grundbuchs mittels Informatik im Rahmen der bundesrechtlichen Bestimmungen.
 
 #### Art. 2
 
 **Datensicherheit und Datenschutz**
 
-<sup>1</sup> Das Grundbuchamt stellt die Daten des EDV-Grundbuchs durch geeignete technische Vorkehren sicher und schützt sie vor Zerstörung sowie vor unberechtigtem Zugriff.
+<sup>1</sup> Das Grundbuchamt stellt die Daten des informatisierten Grundbuchs durch geeignete technische Vorkehren sicher und schützt sie vor Zerstörung sowie vor unberechtigtem Zugriff.
 
 <sup>2</sup> Der Regierungsrat erlässt ein Konzept über Datensicherheit und Datenschutz.
 
@@ -73,23 +72,33 @@ beschliesst:
 
 <sup>1</sup> Im Hauptbuch darf nebst den bundesrechtlich vorgesehenen Personendaten auch der Allianzname geführt werden. Weitere Personendaten, die aus den Anmeldungsbelegen hervorgehen, dürfen in einem Hilfsregister elektronisch gespeichert werden.
 
+#### Art. 4a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Verknüpfung der Software des Grundbuches mit der kantonalen Datenplattform der Einwohnerregister zur Erfassung und Aktualisierung der Daten mittels automatischem Zugriffs- und Abgleichverfahren ist zulässig.
+
+<sup>2</sup> Der automatische Zugriff und Abgleich umfasst die Personendaten der Merkmalsgruppen 1–4 und 6 gemäss Anhang 1 der Verordnung zum Betrieb einer kantonalen Datenplattform gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz[^4a-1].
+
+[^4a-1]: GS [I C/21/3](https://gesetze.gl.ch/data/I-C.21.3/de)
+
 #### Art. 5
 
 **Aufnahme von Grundstücken**
 
-<sup>1</sup> Miteigentumsanteile von Ehegatten sowie Autoabstellplätze im Miteigentum und dergleichen können ohne Verselbstständigung der Anteile ins EDV-Grundbuch aufgenommen werden.
+<sup>1</sup> Miteigentumsanteile von Ehegatten sowie Autoabstellplätze im Miteigentum und dergleichen können ohne Verselbstständigung der Anteile ins informatisierte Grundbuch aufgenommen werden.
 
 #### Art. 6
 
 **Dienstbarkeiten**
 
-<sup>1</sup> Bei der Übernahme der Daten von Dienstbarkeiten ins EDV-Grundbuch werden die Stichwörter den Bedürfnissen der elektronischen Datenverarbeitung angepasst.
+<sup>1</sup> Bei der Übernahme der Daten von Dienstbarkeiten ins informatisierte Grundbuch werden die Stichwörter den Bedürfnissen der elektronischen Datenverarbeitung angepasst.
 
 #### Art. 7
 
-**Übergang zum EDV-Grundbuch**
+**Übergang zum informatisierten Grundbuch**
 
-<sup>1</sup> Der Regierungsrat bewilligt dem Grundbuchamt die Führung des Grundbuchs mit elektronischer Datenverarbeitung, wenn das vom Kanton gewählte EDV-Programm Gewähr für fachgerechte Anwendung des EDV-Grundbuchs sowie Datensicherheit und Datenschutz bietet.
+<sup>1</sup> Der Regierungsrat bewilligt dem Grundbuchamt die Führung des Grundbuchs mittels Informatik, wenn die vom Kanton gewählte Software Gewähr für fachgerechte Anwendung des informatisierten Grundbuchs sowie Datensicherheit und Datenschutz bietet.
 
 #### Art. 8
 
