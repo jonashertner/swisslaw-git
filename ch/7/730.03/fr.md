@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2025-01-23
+version: 2025-03-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250123-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 23 janvier 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -253,7 +253,7 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image1.png) .[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image1.png) .[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -3168,7 +3168,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -3514,7 +3514,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -3638,7 +3638,7 @@ Annexe 1.5[^t-5]
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -3651,7 +3651,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/fr/xml/image/image5.png)
 
 - b.
 
@@ -4587,7 +4587,7 @@ Annexe 3[^t-12]
 
 ## Détermination du coût moyen pondéré du capital
 
-[^t-12]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-12]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et le ch. III de l’O du 12 fév. 2025, en vigueur depuis le 1<sup>er</sup> mars. 2025 ([RO 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
 
 ### 1 Taux d’intérêt calculé
 
@@ -4611,40 +4611,7 @@ Annexe 3[^t-12]
 ### 3 Dérogation au ch. 5 de l’annexe 1 OApEl
 
 - 3\.1 L’effet de levier résulte de la part au capital total, qui se monte respectivement à 50 % pour les fonds propres et à 50 % pour les fonds étrangers.
-- 3\.2 Le bêta *unlevered* est déterminé sur la base d’un groupe d’entreprises européennes comparables (*Peer Group*) d’approvisionnement en énergie. Les valeurs bêta du groupe d’entreprises sont établies sur une base hebdomadaire sur une période de deux ans. Le groupe d’entreprises fait chaque année l’objet d’une vérification et, si possible, d’une amélioration. Si les données du marché financier disponibles ne permettent pas de former un groupe d’entreprises pour certaines technologies, le bêta est déterminé sur la base d’une enquête menée auprès de plusieurs spécialistes afin d’évaluer les risques relatifs liés aux investissements dans la technologie concernée.
-- 3\.3
-
-  Les valeurs forfaitaires suivantes s’appliquent au bêta *unlevered*:
-
-  - a. moins de 0,25 0,2
-  - b. de 0,25 à moins de 0,35 0,3
-  - c. de 0,35 à moins de 0,45 0,4
-  - d. de 0,45 à moins de 0,55 0,5
-  - e. de 0,55 à moins de 0,65 0,6
-  - f. de 0,65 à moins de 0,75 0,7
-  - g. de 0,75 à moins de 0,85 0,8
-  - h. 0,85 ou plus 0,9
-
-- 3\.4 Les valeurs limites à prendre en compte pour ce paramètre sont les suivantes: 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 et 0,85.
-
-### 4 Dérogation au ch. 7 de l’annexe 1 OApEl
-
-- 4\.1
-
-  Les valeurs forfaitaires suivantes s’appliquent à la prime de risque d’insolvabilité (frais d’émission et frais d’acquisition y compris):
-
-  - a. moins de 0,625 % 0,50 %
-  - b. de 0,625 à moins de 0,875 % 0,75 %
-  - c. de 0,875 à moins de 1,125 % 1,00 %
-  - d. de 1,125 à moins de 1,375 % 1,25 %
-  - e. de 1,375 à moins de 1,625 % 1,50 %
-  - f. de 1,625 à moins de 1,875 % 1,75 %
-  - g. de 1,875 à moins de 2,125 % 2,00 %
-  - h. de 2,125 à moins de 2,375 % 2,25 %
-  - i. de 2,375 à moins de 2,625 % 2,50 %
-  - j. 2,625 % ou plus 2,75 %
-
-- 4\.2 Les valeurs limites à prendre en compte pour ce paramètre sont les suivantes: 0,625 %, 0,875 %, 1,125 %, 1,375 %, 1,625 %, 1,875 %, 2,125 %, 2,375 % et 2,625 %.
+- 3\.2 Le *unlevered beta* est déterminé sur la base d’entreprises européennes comparables (peer group) d’approvisionnement en énergie. Le groupe d’entreprises fait chaque année l’objet d’une vérification et, si possible, d’une amélioration. Si les données du marché financier disponibles ne permettent pas de former un groupe d’entreprises pour certaines technologies, le bêta est déterminé sur la base d’une enquête menée auprès de plusieurs spécialistes afin d’évaluer les risques relatifs liés aux investissements dans la technologie concernée.
 
 Annexe 4[^t-13]
 

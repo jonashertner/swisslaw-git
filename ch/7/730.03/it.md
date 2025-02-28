@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2025-01-23
+version: 2025-03-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250123-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 23 gennaio 2025)
+del 1° novembre 2017 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -253,7 +253,7 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introdotto dalla cifra I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -3169,7 +3169,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -3517,7 +3517,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -3641,7 +3641,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -3653,7 +3653,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/it/xml/image/image5.png)
 
 - b.
 
@@ -4593,7 +4593,7 @@ Allegato 3[^t-12]
 
 ## Determinazione del costo medio ponderato del capitale
 
-[^t-12]: Aggiornato dalla cifra II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-12]: Aggiornato dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) e dalla cifra III dell’O del 12 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
 
 ### 1 Tasso d’interesse calcolatorio
 
@@ -4617,40 +4617,7 @@ Allegato 3[^t-12]
 ### 3 Deroga al numero 5 allegato 1 OAEl
 
 - 3\.1 Il coefficiente di leva finanziaria corrisponde a una quota del capitale complessivo pari al 50 per cento per il capitale proprio e al 50 per cento per il capitale di terzi.
-- 3\.2 Il beta unlevered viene rilevato con l’aiuto di un «peer group» da imprese di approvvigionamento elettrico europee paragonabili. I valori beta del «peer group» vengono rilevati settimanalmente su un arco di tempo di due anni. Il «peer group» viene verificato ogni anno e se possibile migliorato. Se per determinate tecnologie non si può costituire un peer group sulla scorta dei dati del mercato di capitale, il beta viene determinato grazie a un’inchiesta svolta presso numerosi esperti del settore per valutare i pertinenti rischi degli investimenti in tale tecnologia.
-- 3\.3
-
-  Al beta unlevered si applicano i seguenti valori forfettari:
-
-  - a. minore di 0,25 0,2
-  - b. uguale o maggiore di 0,25 e minore di 0,35 0,3
-  - c. uguale o maggiore di 0,35 e minore di 0,45 0,4
-  - d. uguale o maggiore di 0,45 e minore di 0,55 0,5
-  - e. uguale o maggiore di 0,55 e minore di 0,65 0,6
-  - f. uguale o maggiore di 0,65 e minore di 0,75 0,7
-  - g. uguale o maggiore di 0,75 e minore di 0,85 0,8
-  - h. uguale o maggiore di 0,85 0,9
-
-- 3\.4 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione sono: 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 e 0,85.
-
-### 4 Deroga al numero 7 allegato 1 OAEl
-
-- 4\.1
-
-  Alla somma del supplemento di solvibilità e dei costi di emissione e di acquisizione si applicano i seguenti valori forfettari:
-
-  - a. minore dello 0,625 per cento 0,50 per cento
-  - b. uguale o maggiore dello 0,625 e minore dello 0,875 per cento 0,75 per cento
-  - c. uguale o maggiore dello 0,875 e minore dell’1,125 per cento 1,00 per cento
-  - d. uguale o maggiore dell’1,125 e minore dell’1,375 per cento 1,25 per cento
-  - e. uguale o maggiore dell’1,375 e minore dell’1,625 per cento 1,50 per cento
-  - f. uguale o maggiore dell’1,625 e minore dell’1,875 per cento 1,75 per cento
-  - g. uguale o maggiore dell’1,875 e minore del 2,125 per cento 2,00 per cento
-  - h. uguale o maggiore del 2,125 e minore del 2,375 per cento 2,25 per cento
-  - i. uguale o maggiore del 2,375 e minore del 2,625 per cento 2,50 per cento
-  - j. uguale o maggiore del 2,625 per cento 2,75 per cento
-
-- 4\.2 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione sono 0,625, 0,875, 1,125, 1,375, 1,625, 1,875, 2,125, 2,375 e 2,625 per cento.
+- 3\.2 L’unlevered beta è determinato sulla base di un gruppo di imprese di approvvigionamento energetico europee comparabili (peer group). Il peer group viene verificato ogni anno e se possibile migliorato. Se i dati disponibili del mercato dei capitali non consentono di costituire un peer group per determinate tecnologie, il beta viene determinato grazie a un’inchiesta svolta presso numerosi esperti del settore per valutare i pertinenti rischi degli investimenti in tale tecnologia.
 
 Allegato 4[^t-13]
 

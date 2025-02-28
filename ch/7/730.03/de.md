@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2025-01-23
+version: 2025-03-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250123-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250123/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 23. Januar 2025)
+vom 1. November 2017 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -3168,7 +3168,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -3514,7 +3514,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -3638,7 +3638,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -3651,7 +3651,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250123/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250301/de/xml/image/image5.png)
 
 - b.
 
@@ -4590,7 +4590,7 @@ Anhang 3[^t-12]
 
 ## Bestimmung des durchschnittlichen Kapitalkostensatzes
 
-[^t-12]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-12]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) und Ziff. III der V vom 12. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
 
 ### 1 Kalkulatorischer Zinssatz
 
@@ -4614,40 +4614,7 @@ Anhang 3[^t-12]
 ### 3 Abweichungen von Ziffer 5 Anhang 1 StromVV
 
 - 3\.1 Der Leveragefaktor ergibt sich aus dem Eigenkapitalanteil von 50 Prozent beziehungsweise dem Fremdkapitalanteil von 50 Prozent am Gesamtkapital.
-- 3\.2 Das unlevered Beta wird mit Hilfe einer Peer Group aus vergleichbaren europäischen Energieversorgungsunternehmen ermittelt. Die Beta-Werte der Peer-Group-Unternehmen werden auf wöchentlicher Basis über einen Zeitraum von zwei Jahren ermittelt. Die Peer Group wird jährlich überprüft und wenn möglich verbessert. Kann bei gewissen Technologien aufgrund der Kapitalmarktdaten keine Peer Group gebildet werden, so wird das Beta über eine Umfrage bei mehreren Fachexperten und Fachexpertinnen zur Einschätzung der relativen Risiken von Investitionen in diese Technologie festgelegt.
-- 3\.3
-
-  Für das unlevered Beta gelten die folgenden pauschalen Werte:
-
-  - a. unter 0,25 0,2
-  - b. von 0,25 bis unter 0,35 0,3
-  - c. von 0,35 bis unter 0,45 0,4
-  - d. von 0,45 bis unter 0,55 0,5
-  - e. von 0,55 bis unter 0,65 0,6
-  - f. von 0,65 bis unter 0,75 0,7
-  - g. von 0,75 bis unter 0,85 0,8
-  - h. 0,85 oder mehr 0,9
-
-- 3\.4 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist, liegen bei 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 und 0,85.
-
-### 4 Abweichungen von Ziffer 7 Anhang 1 StromVV
-
-- 4\.1
-
-  Für die Summe aus Bonitätszuschlag inklusive Emissions- und Beschaffungskosten gelten die folgenden pauschalen Werte:
-
-  - a. unter 0,625 Prozent: 0,50 Prozent
-  - b. von 0,625 bis unter 0,875 Prozent 0,75 Prozent
-  - c. von 0,875 bis unter 1,125 Prozent 1,00 Prozent
-  - d. von 1,125 bis unter 1,375 Prozent 1,25 Prozent
-  - e. von 1,375 bis unter 1,625 Prozent 1,50 Prozent
-  - f. von 1,625 bis unter 1,875 Prozent 1,75 Prozent
-  - g. von 1,875 bis unter 2,125 Prozent 2,00 Prozent
-  - h. von 2,125 bis unter 2,375 Prozent 2,25 Prozent
-  - i. von 2,375 bis unter 2,625 Prozent 2,50 Prozent
-  - j. 2.625 Prozent oder mehr 2,75 Prozent
-
-- 4\.2 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist, liegen bei 0,625, 0,875, 1,125, 1,375, 1,625, 1,875, 2,125, 2,375 und 2,625 Prozent.
+- 3\.2 Das Unlevered Beta wird mit Hilfe einer Peergroup aus vergleichbaren europäischen Energieversorgungsunternehmen ermittelt. Die Peergroup wird jährlich überprüft und wenn möglich verbessert. Kann bei gewissen Technologien aufgrund der Kapitalmarktdaten keine Peergroup gebildet werden, so wird das Beta über eine Umfrage bei mehreren Fachexperten und Fachexpertinnen zur Einschätzung der relativen Risiken von Investitionen in diese Technologie festgelegt.
 
 Anhang 4[^t-13]
 
