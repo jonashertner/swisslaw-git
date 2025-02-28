@@ -4,13 +4,13 @@ number: "911.1"
 title: Gesetz über das Polizeiwesen
 short: "Polizeigesetz, PolG"
 language: de
-version: 2022-01-01
-valid_until: 2025-02-28
-version_adopted: 2021-09-29
+version: 2025-03-01
+valid_until: 2026-03-31
+version_adopted: 2024-11-27
 adopted: 2014-06-11
 in_force: 2014-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/911.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/961/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetze.nw.ch/api/de/versions/961/pdf_file"
 
 (Polizeigesetz, PolG)
 
-vom 11.06.2014 (Stand 01.01.2022)
+vom 11.06.2014 (Stand 01.03.2025)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung,
+gestützt auf Art. 60 Abs. 1 der Kantonsverfassung,
 
 beschliesst:
 
@@ -69,13 +69,13 @@ beschliesst:
 - 4\. Verhinderung, Verfolgung und Aufklärung von Straftaten und Mitwirkung bei der Strafuntersuchung;
 - 5\. Amts- und Vollzugshilfe für Verwaltung und Justiz;
 - 6\. Betrieb der kantonalen Alarmstelle sowie Hilfeleistung bei Not und im Katastrophenfall;
-- 7\. Wahrnehmung der Aufgaben der Bewilligungsbehörde im Sinne des Konkordates über private Sicherheitsdienstleistungen[^3-1];
+- 7\. …
+- 7a. Ergreifung von beratenden und präventiven Schutzmassnahmen im Rahmen des Bedrohungsmanagements;
 - 8\. Erfüllung der weiteren ihr durch die Gesetzgebung übertragenen Aufgaben.
 
-<sup>4</sup> Sie ist die für die Fälle häuslicher Gewalt zuständige kantonale Stelle gemäss Art. 55a Abs. 2 StGB[^3-2].
+<sup>4</sup> Sie ist die für die Fälle häuslicher Gewalt zuständige kantonale Stelle gemäss Art. 55a Abs. 2 StGB[^3-1].
 
-[^3-1]: NG 911.2
-[^3-2]: SR 311.0
+[^3-1]: SR 311.0
 
 #### Art. 4
 
@@ -353,6 +353,70 @@ beschliesst:
 
 <sup>1</sup> Die Polizei kann eine Person ohne Beachtung besonderer Formvorschriften zu Sachverhalten befragen.
 
+### 3.3a Bedrohungsmanagement
+
+#### Art. 30a
+
+**Erkennung, Einschätzung**
+
+<sup>1</sup> Die Polizei ergreift zur frühzeitigen Erkennung und Einschätzung von Gefährdungssituationen sowie zur Verhinderung von möglichen Straftaten die notwendigen präventiven und beratenden Massnahmen.
+
+<sup>2</sup> Sie kann ein Fallmonitoring betreiben.
+
+<sup>3</sup> Fehlen hinreichende Anzeichen für eine Gefährdungssituation, löscht die Polizei die erhobenen Personendaten unverzüglich.
+
+<sup>4</sup> Der Regierungsrat ernennt eine Fachgruppe als beratendes Organ. Die Mitglieder der Fachgruppe können besonders schützenswerte Daten und Persönlichkeitsprofile bearbeiten und untereinander austauschen.
+
+#### Art. 30b
+
+**Melderecht, Auskunftspflicht**
+
+<sup>1</sup> Bei Anzeichen von Gefährdungssituationen sind gegenüber der Polizei zur Meldung berechtigt:
+
+- 1\. bei Gerichtsbehörden die Präsidentinnen oder Präsidenten und deren Stellvertretungen;
+- 2\. bei kantonalen Behörden und Amtsstellen die Vorsteherinnen oder Vorsteher der Direktionen und Ämter sowie deren Stellvertretungen;
+- 3\. bei öffentlich-rechtlichen Anstalten die Direktorin oder der Direktor sowie deren Stellvertretungen;
+- 4\. bei Gemeindebehörden die Gemeindeschreiberinnen und Gemeindeschreiber und die Schulleiterinnen und Schulleiter sowie deren Stellvertretungen;
+- 5\. Gesundheitsfachpersonen gemäss Gesundheitsgesetz;
+- 6\. leitende Organe von Organisationen, die öffentliche Aufgaben wahrnehmen.
+
+<sup>2</sup> Meldeberechtigte Personen müssen gegenüber der Polizei auf Anfrage Auskunft über gefährdende Personen erteilen.
+
+<sup>3</sup> Für die Meldung und die Auskünfte sind die kommunalen und kantonalen Angestellten und Behördenmitglieder vom Amtsgeheimnis und die Gesundheitsfachpersonen vom Berufsgeheimnis entbunden.
+
+<sup>4</sup> Die Polizei kann im sozialen Umfeld der gefährdenden Person um Auskunft ersuchen. Die Personen aus dem sozialen Umfeld sind gegenüber der Polizei nicht zur Auskunft verpflichtet.
+
+#### Art. 30c
+
+**Massnahmen 1. Präventivansprache**
+
+<sup>1</sup> Liegen Anzeichen für eine Gefährdungssituation vor, kann die Polizei die gefährdende Person ansprechen und sie auf allfällige Straffolgen hinweisen.
+
+<sup>2</sup> Die Präventivansprache kann entweder direkt, auf Vorladung hin oder schriftlich erfolgen.
+
+#### Art. 30d
+
+**2. Auflagen**
+
+<sup>1</sup> Liegen Anzeichen für eine Gefährdungssituation vor, kann die Polizei die gefährdende Person verpflichten:
+
+- 1\. sich für eine bestimmte Dauer zu bestimmten Zeiten und bei einer bestimmten Behörde oder Amtsstelle zu melden;
+- 2\. an Beratungsangeboten teilzunehmen.
+
+<sup>2</sup> Die Auflage ist auf sechs Monate begrenzt. Sie kann wiederholt angeordnet werden.
+
+#### Art. 30e
+
+**3. weitere Massnahmen**
+
+<sup>1</sup> Sind von der Gefährdungssituation Dritte betroffen, kann die Polizei diese informieren.
+
+<sup>2</sup> Betrifft die Gefährdungssituation den Arbeitsplatz und können Personen an der Arbeitsstelle gefährdet sein, erfolgt die Information gegenüber der Arbeitgeberin oder dem Arbeitgeber der gefährdenden Person.
+
+<sup>3</sup> Die Polizei kann betroffenen Personen oder Organisationen eine visuelle Aufnahme der gefährdenden Person zur Verfügung stellen. Sie kann zu diesem Zweck auf vorhandene Daten zurückgreifen.
+
+<sup>4</sup> Die Polizei hat die Persönlichkeitsrechte der gefährdenden Person und von Dritten soweit möglich zu wahren.
+
 ### 3.4 Wegweisung und Fernhaltung
 
 #### Art. 31
@@ -367,9 +431,38 @@ beschliesst:
 - 4\. die Person selber ernsthaft und unmittelbar gefährdet ist; oder
 - 5\. die Wahrung der Rechte von Personen dies erfordert.
 
-<sup>2</sup> In besonderen Fällen, insbesondere bei Ausführungs-, Fortsetzungs- oder Wiederholungsgefahr der Gefährdung oder Störung, kann die Polizei das Verbot unter Androhung der Straffolgen von Art. 292 Strafgesetzbuch (StGB)[^31-1] für höchstens 14 Tage verfügen.
+<sup>2</sup> In besonderen Fällen, insbesondere bei Ausführungs-, Fortsetzungs- oder Wiederholungsgefahr, kann die Polizei das Verbot für höchstens 14 Tage verfügen.
 
-[^31-1]: SR 311.0
+#### Art. 31a
+
+**Häusliche Gewalt, Stalking 1. Massnahmen**
+
+<sup>1</sup> Die Polizei kann gegen eine Person ein Rayon-, Annäherungs- und Kontaktverbot aussprechen, wenn:
+
+- 1\. die Person eine andere Person innerhalb einer bestehenden oder aufgelösten familiären oder partnerschaftlichen Beziehung ernsthaft gefährdet oder mit einer ernsthaften Gefährdung droht; oder
+- 2\. die Person eine andere Person direkt, über Dritte oder unter Verwendung von Kommunikationsmitteln wiederholt bedroht, belästigt, verfolgt, ihr auflauert oder nachstellt.
+
+<sup>2</sup> Die Polizei kann dieser Person insbesondere verbieten:
+
+- 1\. sich an bestimmten, eng umgrenzten Orten, namentlich bestimmten Strassen, Plätzen oder Quartieren, aufzuhalten;
+- 2\. sich einer bestimmten oder dieser nahestehenden Person anzunähern;
+- 3\. mit einer bestimmten oder dieser nahestehenden Person in irgendeiner Form Kontakt aufzunehmen oder sie in anderer Weise zu belästigen.
+
+<sup>3</sup> Massnahmen nach dem Gesetz zum Schutz der Persönlichkeit (Persönlichkeitsschutzgesetz, PSchG)[^31a-1] bleiben vorbehalten.
+
+[^31a-1]: NG 211.2
+
+#### Art. 31b
+
+**2. Verfahren und Rechtsschutz**
+
+<sup>1</sup> Die Anordnung erfolgt schriftlich und gilt höchstens 14 Tage ab Mitteilung.
+
+<sup>2</sup> Die Polizei informiert die involvierten Personen über die Möglichkeiten der gerichtlichen Überprüfung und die Verlängerung des Verbots durch das Zivilgericht.
+
+<sup>3</sup> Für die Aushändigung der Anordnung und die Zustellung an das Kantonsgericht, die gerichtliche Beurteilung, die Verlängerung des Verbots, das Verhältnis zu anderen Massnahmen sowie die Kosten im Gerichtsverfahren sind Art. 9 Abs. 3–4, Art. 10–12 sowie Art. 14 und Art. 20 PSchG[^31b-1] sinngemäss anwendbar.
+
+[^31b-1]: NG 211.2
 
 ### 3.5 Zu- und Rückführung
 
@@ -576,11 +669,11 @@ beschliesst:
 
 #### Art. 49
 
-**Verdeckte Registrierung**
+**Verdeckte Registrierung, gezielte Kontrolle**
 
-<sup>1</sup> Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Personen und Fahrzeuge gemäss Art. 36 ff. des EU-Beschlusses über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)[^49-1] verdeckt registrieren lassen.
+<sup>1</sup> Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Personen und Fahrzeuge gemäss Art. 36 ff. des EU-Beschlusses über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)[^49-1] zum Zweck der verdeckten Registrierung oder der gezielten Kontrolle ausschreiben.
 
-[^49-1]: Beschluss 2007/533/JI vom 12. Juni 2007, Amtsblatt der EU Nr. L 205/63 vom 7.8.2007
+[^49-1]: Beschluss 2007/533/ vom 12. Juni 2007, Amtsblatt der EU Nr. L 205/63 vom 7. August 2007
 
 #### Art. 50
 
@@ -648,6 +741,7 @@ beschliesst:
 
 - 1\. Daten beschaffen, bearbeiten sowie geeignete Datenbearbeitungssysteme aufbauen und betreiben;
 - 2\. besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten, soweit es zur Verhinderung und Erkennung von Verbrechen und Vergehen unentbehrlich ist;
+- 2a. im Rahmen des Bedrohungsmanagements besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten und beschaffen;
 - 3\. nicht verifizierte Daten und Daten über Anhaltspunkte bearbeiten; oder
 - 4\. betroffenen Personen die Einsichtnahme in Daten verweigern, soweit dies für die Erfüllung ihrer Aufgabe notwendig ist.
 
