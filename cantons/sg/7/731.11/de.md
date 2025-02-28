@@ -4,13 +4,12 @@ number: "731.11"
 title: Verordnung zum Planungs- und Baugesetz
 short: PBV
 language: de
-version: 2024-07-01
-valid_until: 2025-02-28
-version_adopted: 2024-05-21
+version: 2025-03-01
+version_adopted: 2025-01-14
 adopted: 2017-06-27
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3637/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3740/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3637/pdf_file"
 
 (PBV)
 
-vom 27.06.2017 (Stand 01.07.2024)
+vom 27.06.2017 (Stand 01.03.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -111,7 +110,9 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die Regierung ist zuständig für die Erteilung der Baubewilligung:
 
 - a) für Anlagen zur Gewinnung erneuerbarer Energien, sofern dem Kanton von Bundesrechts wegen die Bewilligungskompetenz zukommt;
-- b) bei Abbau- oder Deponievorhaben, die auf einem kantonalen Sondernutzungsplan beruhen. Sie eröffnet die Baubewilligung zusammen mit den weiteren kantonalen Bewilligungen und Verfügungen als Gesamtentscheid.
+- b) bei Abbau- oder Deponievorhaben, die auf einem kantonalen Sondernutzungsplan beruhen.
+
+<sup>2</sup> Sie eröffnet die Baubewilligung zusammen mit den weiteren kantonalen Bewilligungen und Verfügungen als Gesamtentscheid.
 
 ## III. Natur- und Heimatschutz
 
