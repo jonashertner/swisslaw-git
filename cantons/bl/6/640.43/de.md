@@ -3,20 +3,20 @@ canton: BL
 number: "640.43"
 title: Verordnung über die Privatschulen und die private Schulung
 language: de
-version: 2019-03-01
-valid_until: 2025-02-28
-version_adopted: 2019-02-19
+version: 2025-03-01
+valid_until: 2026-07-31
+version_adopted: 2025-02-04
 adopted: 2018-06-26
 in_force: 2018-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.43"
-pdf: "https://bl.clex.ch/api/de/versions/2381/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Privatschulen und die private Schulung
 
-Vom 26.06.2018 (Stand 01.03.2019)
+Vom 26.06.2018 (Stand 01.03.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -40,7 +40,7 @@ beschliesst:
 
 **Private Schulung**
 
-<sup>1</sup> Als «private Schulung» gilt die Beschulung der eigenen Kinder durch die Erziehungsberechtigten oder eine von ihnen mit der Beschulung beauftragte Drittperson in einer Gruppe von bis zu 8 Schülerinnen und Schülern.
+<sup>1</sup> Als «private Schulung» gilt die Beschulung der eigenen Kinder durch die Erziehungsberechtigten oder eine von ihnen mit der Beschulung beauftragte Drittperson. 1 Familie kann sich maximal mit 1 weiteren Familie zusammenschliessen.
 
 ## 2 Voraussetzungen der Bewilligung
 
@@ -88,7 +88,7 @@ beschliesst:
 
 **Personal**
 
-<sup>1</sup> Die Schule verpflichtet sich, zur Mehrheit Lehrpersonen anzustellen, die über eine fachliche und pädagogische Ausbildung für die entsprechende Schulstufe und ein von der Eidgenössischen Erziehungsdirektorenkonferenz anerkanntes und gleichwertiges Diplom verfügen.
+<sup>1</sup> Die Schule verpflichtet sich, zur Mehrheit Lehrpersonen anzustellen, die über eine fachliche und pädagogische Ausbildung für die entsprechende Schulstufe oder ein von der Eidgenössischen Erziehungsdirektorenkonferenz anerkanntes und gleichwertiges Diplom verfügen.
 
 <sup>2</sup> Die Schule verpflichtet sich weiter, von allen Personen, die regelmässig in Kontakt mit Schülerinnen und Schülern kommen, bei ihrer Anstellung einen Sonderprivatauszug gemäss Art. 371a Strafgesetzbuch[^6-1] einzuholen.
 
@@ -112,7 +112,7 @@ beschliesst:
 
 **Pädagogisches Konzept**
 
-<sup>1</sup> Die Privatschulen und die Erziehungsberechtigten im Fall der privaten Schulung geben Auskunft über pädagogisches Vorgehen, Zielsetzung, Niveaus, Schulfächer, Stundentafel, Umfang der Unterrichtszeit, Lernstandorientierung usw.
+<sup>1</sup> Die Privatschulen und die Erziehungsberechtigten im Fall der privaten Schulung reichen Unterlagen über pädagogisches Vorgehen, Zielsetzung, Niveaus, Schulfächer, Stundentafel, Umfang der Unterrichtszeit, Lernstandorientierung usw. ein.
 
 <sup>2</sup> Sie gewährleisten einen Volksschulabschluss gemäss § 7a Bildungsgesetz vom 6. Juni 2002[^9-1] und die Anschlussfähigkeit an eine weiterführende Ausbildung.
 
@@ -124,17 +124,17 @@ beschliesst:
 
 **Teilnahme an Checks**
 
-<sup>1</sup> Die Privatschulen verpflichten sich zur Teilnahme am Check in der 3. Klasse Sekundarschule (S3) gemäss § 8 der Verordnung vom 11. Juni 2013 über die schulische Laufbahn[^10-1].
+<sup>1</sup> Die Privatschulen verpflichten sich zur Teilnahme an einem der beiden Checks in der Sekundarschule gemäss § 8 der Verordnung über die schulische Laufbahn vom 11. Juni 2013[^10-1] (S2 oder S3).
 
 <sup>2</sup> Privatschulen, die kein Angebot auf der Sekundarstufe I haben, verpflichten sich zur Teilnahme am Check in der 5. Klasse Primarschule (P5) gemäss § 8 Laufbahnverordnung [^10-2].
 
-<sup>3</sup> Die Teilnahme an den Checks nach den Abs. 1 und 2 ist kostenlos. Die Teilnahme an den übrigen Checks ist freiwillig und kostenpflichtig.
+<sup>3</sup> Die Teilnahme an den obligatorischen Checks nach den Abs. 1 und 2 ist kostenlos. Eine Teilnahme an den übrigen Checks ist möglich, aber kostenpflichtig.
 
 <sup>4</sup> Die Bestimmungen für die öffentlichen Schulen gelten sinngemäss.
 
 <sup>5</sup> Diese Regelung gilt nicht für die private Schulung.
 
-[^10-1]: GS 38.0147, SGS [640.21](https://bl.clex.ch/data/640.21/de/art8)
+[^10-1]: [SGS 640.21](https://bl.clex.ch/data/640.21/de/art8)
 [^10-2]: GS 38.0147, SGS [640.21](https://bl.clex.ch/data/640.21/de/art8)
 
 #### § 11
@@ -176,6 +176,8 @@ beschliesst:
 <sup>4</sup> Die Erstbewilligung für eine Privatschule erfolgt für 1 Schuljahr.
 
 <sup>5</sup> Die folgende Bewilligung erfolgt unbefristet.
+
+<sup>5<sup>bis</sup></sup> In Ausnahmefällen kann eine Verlängerung der Befristung verfügt werden.
 
 <sup>6</sup> Bei der privaten Schulung erfolgt die Bewilligung jeweils befristet auf 1 Schuljahr.
 
