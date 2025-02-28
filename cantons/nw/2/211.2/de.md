@@ -4,13 +4,12 @@ number: "211.2"
 title: Gesetz zum Schutz der Persönlichkeit
 short: "Persönlichkeitsschutzgesetz, PSchG"
 language: de
-version: 2022-01-01
-valid_until: 2025-02-28
-version_adopted: 2021-09-29
+version: 2025-03-01
+version_adopted: 2024-11-27
 adopted: 2008-06-25
 in_force: 2008-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/959/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1347/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/959/pdf_file"
 
 (Persönlichkeitsschutzgesetz, PSchG)
 
-vom 25.06.2008 (Stand 01.01.2022)
+vom 25.06.2008 (Stand 01.03.2025)
 
 Der Landrat von Nidwalden,
 
@@ -37,7 +36,9 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz bestimmt die zuständigen Instanzen gemäss der Art. 28ff. ZGB und regelt das anwendbare Verfahren.
 
-<sup>2</sup> Es regelt die Massnahmen zur Verminderung von Gewalt, Drohungen und Nachstellungen sowie die Zusammenarbeit der damit befassten Stellen.
+<sup>2</sup> Es regelt die Massnahmen zur Verminderung von Gewalt, Drohungen und Nachstellungen sowie die Zusammenarbeit der damit befassten Stellen. Massnahmen nach dem Gesetz über das Polizeiwesen (Polizeigesetz, PolG)[^1-1] bleiben vorbehalten.
+
+[^1-1]: NG 911.1
 
 ## 2 Zuständigkeit
 
