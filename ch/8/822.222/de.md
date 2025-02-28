@@ -4,11 +4,11 @@ title: Verordnung vom 6. Mai 1981 über die Arbeits- und Ruhezeit der berufsmäs
 short: ARV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/480_480_480"
 language: de
-version: 2019-02-01
+version: 2025-03-01
 adopted: 1981-05-06
 in_force: 1981-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/480_480_480/20190201/de/xml/fedlex-data-admin-ch-eli-cc-1981-480_480_480-20190201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/480_480_480/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1981-480_480_480-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20190201/de"
 
 (ARV 2)[^t-1]
 
-vom 6. Mai 1981 (Stand am 1. Februar 2019)
+vom 6. Mai 1981 (Stand am 1. März 2025)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 25. März 1998, in Kraft seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 
@@ -121,20 +121,22 @@ Die Verordnung gilt nicht für Führer, die berufsmässige Personentransporte du
 - a.[^4-1] mit Fahrzeugen, die für ärztliche Aufgaben nach der Norm SN EN 1789[^4-2] ausgerüstet sind;
 - b. mit Fahrzeugen mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 30 km/h;
 - c. von Behinderten, Schülern oder Arbeitern;
-- d. bei denen der Fahrpreis in anderen Leistungen eingerechnet ist und die Fahrstrecke nicht mehr als 50 km beträgt.[^4-3]
+- d. bei denen der Fahrpreis in anderen Leistungen eingerechnet ist und die Fahrstrecke nicht mehr als 50 km beträgt;
+- e.[^4-3] mit führerlosen Fahrzeugen, sofern diese mit anderen Mitteln als den konventionellen Bedienelementen geführt werden.[^4-4]
 
-<sup>2</sup> ...[^4-4]
+<sup>2</sup> …[^4-5]
 
-<sup>3</sup> Wird mit einem Fahrzeug nach Artikel 3 Absatz 1 eine Privatfahrt ausgeführt, so gelten nur die Artikel 15–16*a* und 23.[^4-5]
+<sup>3</sup> Wird mit einem Fahrzeug nach Artikel 3 Absatz 1 eine Privatfahrt ausgeführt, so gelten nur die Artikel 15–16*a* und 23.[^4-6]
 
-<sup>4</sup> Die Verordnung gilt nicht für Führer, die der Bundesgesetzgebung über die Arbeit in Unternehmen des öffentlichen Verkehrs[^4-6] unterstehen und nur Transporte ausführen, die von dieser Gesetzgebung erfasst werden. Gilt diese nur für einen Teil ihrer Tätigkeit, so darf die gesamte berufliche Tätigkeit die in dieser Verordnung festgelegten Grenzen nicht überschreiten. Die Kontrollmittel (Art. 14) sind für die gesamte berufliche Tätigkeit zu verwenden.
+<sup>4</sup> Die Verordnung gilt nicht für Führer, die der Bundesgesetzgebung über die Arbeit in Unternehmen des öffentlichen Verkehrs[^4-7] unterstehen und nur Transporte ausführen, die von dieser Gesetzgebung erfasst werden. Gilt diese nur für einen Teil ihrer Tätigkeit, so darf die gesamte berufliche Tätigkeit die in dieser Verordnung festgelegten Grenzen nicht überschreiten. Die Kontrollmittel (Art. 14) sind für die gesamte berufliche Tätigkeit zu verwenden.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
-[^4-2]: SN EN 1789, Rettungsdienstfahrzeuge und ihre Ausrüstung – Krankenkraftwagen, Ausgabe SN EN 1789+2:2014. Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^4-3]: Fassung gemäss Ziff. I der V vom 25. März 1998, in Kraft seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^4-4]: Aufgehoben durch Ziff. I der V vom 25. März 1998, mit Wirkung seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^4-5]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
-[^4-6]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536),[SR 822.211](https://fedlex.data.admin.ch/eli/cc/2018/532)
+[^4-2]: SN EN 1789, Rettungsdienstfahrzeuge und ihre Ausrüstung – Krankenkraftwagen, Ausgabe SN EN 1789+2:2014. Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^4-3]: Eingefügt durch Anhang Ziff. 5 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 25. März 1998, in Kraft seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^4-5]: Aufgehoben durch Ziff. I der V vom 25. März 1998, mit Wirkung seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
+[^4-7]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536),[SR 822.211](https://fedlex.data.admin.ch/eli/cc/2018/532)
 
 ## 3. Abschnitt: Arbeitszeit, Lenkzeit, Ruhezeit
 
@@ -144,7 +146,7 @@ Die Verordnung gilt nicht für Führer, die berufsmässige Personentransporte du
 
 <sup>1</sup> Die wöchentliche Höchstarbeitszeit des Arbeitnehmers beträgt 48 Stunden und in Taxibetrieben 53 Stunden.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> …[^5-1]
 
 <sup>3</sup> Ist die Arbeitszeit geschichtet, so müssen die Schichten spätestens nach sechs Wochen wechseln, ausser wenn der Arbeitnehmer einer anderen Regelung ausdrücklich zustimmt.
 
@@ -166,7 +168,7 @@ Die Verordnung gilt nicht für Führer, die berufsmässige Personentransporte du
 
 **Tägliche und wöchentliche Höchstlenkzeit**
 
-<sup>1</sup> Die Lenkzeit zwischen zwei aufeinander folgenden täglichen Ruhezeiten (Art. 9) darf 9 Stunden nicht überschreiten. ...[^7-1]
+<sup>1</sup> Die Lenkzeit zwischen zwei aufeinander folgenden täglichen Ruhezeiten (Art. 9) darf 9 Stunden nicht überschreiten. …[^7-1]
 
 <sup>2</sup> Die Lenkzeit innerhalb einer Woche darf höchstens 45 Stunden betragen.
 
@@ -293,7 +295,7 @@ Zur Kontrolle der Einhaltung der Arbeits-, Lenk- und Ruhezeit (Art. 5–12) dien
 
 <sup>6</sup> Wird das Fahrzeug am gleichen Tag von mehr als zwei Führern gelenkt, müssen die weiteren Führer ihren Namen, entsprechend der von ihnen benützten Position «1» bzw. «2» am Fahrtschreiber, neben dem Namen des Führers 1 oder 2 eintragen; sie können ihren Namen mit der zutreffenden Angabe «1» bzw. «2» auch im nicht grafierten Feld des Einlageblattes eintragen.
 
-<sup>6bis</sup> ...[^16-2]
+<sup>6bis</sup> …[^16-2]
 
 <sup>7</sup> Freiwillige Vermerke auf den Einlageblättern dürfen die Auswertung nicht erschweren.
 
@@ -470,7 +472,7 @@ Arbeitgeber und selbständigerwerbende Führer müssen am Geschäftssitz währen
 
 <sup>1</sup> Die Kantone können für Taxiführer in städtischen Verhältnissen anstelle der Artikel 5, 6, 8, 9, 11, 12, 17, 18 und 21 andere Bestimmungen erlassen und diese auch für selbständigerwerbende Taxiführer anwendbar erklären. Sie können diese Zuständigkeit an die Gemeinden delegieren.
 
-<sup>2</sup> ...[^25-1]
+<sup>2</sup> …[^25-1]
 
 <sup>3</sup> Die Kantone überwachen den Vollzug der kommunalen Bestimmungen.
 
@@ -510,7 +512,7 @@ Mit Busse wird bestraft, wer die Kontrollbestimmungen (Art. 15–23) verletzt, i
 - a. die Kontrollmittel nicht oder nicht vorschriftsgemäss führt;
 - b. den Fahrtschreiber nicht in Betrieb hält, nicht richtig bedient oder die Aufzeichnungen verfälscht;
 - c.[^28-3] in Kontrolldokumenten, z. B. auf den Einlageblättern des Fahrtschreibers, in der Aufstellung über die Arbeits-, Lenk- und Ruhezeit, im Arbeitsbuch oder im Verzeichnis der Führer, wahrheitswidrige oder unvollständige Angaben macht oder ihre Lesbarkeit erschwert;
-- d.[^28-4] ...
+- d.[^28-4] …
 
 <sup>3</sup> Wer die nach den Sonderbestimmungen (Art. 25 und 27) bestehenden Pflichten oder anzuwendenden Vorschriften verletzt, wird mit Busse bestraft.[^28-5]
 
@@ -546,7 +548,7 @@ Die zuständige Behörde kann Administrativmassnahmen anordnen, wenn eine Verlet
 
 <sup>2</sup> Die Kontrolle der Arbeits- und Ruhezeiten auf der Strasse und in den Betrieben richtet sich nach der Strassenverkehrskontrollverordnung vom 28. März 2007[^31-2]<sup>.</sup> [^31-3]
 
-<sup>3</sup> ...[^31-4]
+<sup>3</sup> …[^31-4]
 
 <sup>4</sup> Die Vollzugsbehörde erstellt ein Verzeichnis der Betriebe, die im Kanton ihren Geschäftssitz oder eine Zweigniederlassung haben und Fahrzeuge nach Artikel 3 einsetzen. Sie führt eine Liste der jedem Betrieb abgegebenen Arbeitsbücher.
 
@@ -573,7 +575,7 @@ Die zuständige Behörde kann Administrativmassnahmen anordnen, wenn eine Verlet
 
 Die Verordnung vom 18. Januar 1966[^33-1] über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer wird aufgehoben.
 
-[^33-1]: [[AS 1966 39](https://fedlex.data.admin.ch/eli/oc/1966/39_39_39), [1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)Art. 36 Ziff. 2, [1973 948](https://fedlex.data.admin.ch/eli/oc/1973/948_948_949), [1975 375](https://fedlex.data.admin.ch/eli/oc/1975/375_375_375)]
+[^33-1]: [[AS 1966 39](https://fedlex.data.admin.ch/eli/oc/1966/39_39_39); [1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)Art. 36 Ziff. 2; [1973 948](https://fedlex.data.admin.ch/eli/oc/1973/948_948_949); [1975 375](https://fedlex.data.admin.ch/eli/oc/1975/375_375_375)]
 
 #### Art. 34
 

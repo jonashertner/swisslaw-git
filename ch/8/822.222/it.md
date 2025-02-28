@@ -4,11 +4,11 @@ title: Ordinanza del 6 maggio 1981 sulla durata del lavoro e del riposo dei cond
 short: OLR 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/480_480_480"
 language: it
-version: 2019-02-01
+version: 2025-03-01
 adopted: 1981-05-06
 in_force: 1981-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/480_480_480/20190201/it/xml/fedlex-data-admin-ch-eli-cc-1981-480_480_480-20190201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/480_480_480/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1981-480_480_480-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20190201/it"
 
 (OLR2)[^t-1]
 
-del 6 maggio 1981 (Stato 1° febbraio 2019)
+del 6 maggio 1981 (Stato 1° marzo 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 
 Il Consiglio federale svizzero,
 
@@ -39,10 +39,10 @@ ordina:
 
 <sup>2</sup> Sono fatte salve le disposizioni della legge del 13 marzo 1964[^1-3] sul lavoro, in particolare quelle relative alla compensazione del lavoro notturno.[^1-4]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 [^1-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
 [^1-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^1-4]: Introdotto dal n. I dell’O del 29 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
+[^1-4]: Introdotto dalla cifra I dell’O del 29 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
 
 #### Art. 2
 
@@ -72,20 +72,20 @@ Nella presente ordinanza sono usate le designazioni seguenti:[^2-10]
 - g. attività professionale, per il lavoratore la durata del lavoro, per un conducente indipendente la durata della guida;
 - h.[^2-14] autorità di esecuzione, l’autorità competente secondo il diritto cantonale per effettuare i controlli sulla strada e nelle aziende (art. 31 cpv. 1). Per i controlli degli organi doganali è applicabile l’articolo 4 OCCS.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
 [^2-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^2-4]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^2-5]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
 [^2-6]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
 [^2-7]: Nuova espr. giusta l’art. 1 n. 22 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^2-8]: Nuova espr. giusta l’art. 1 n. 22 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
-[^2-9]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
-[^2-10]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
-[^2-11]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
-[^2-12]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^2-13]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
-[^2-14]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
+[^2-9]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
+[^2-10]: Nuovo testo giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^2-11]: Nuovo testo giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^2-12]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^2-13]: Nuovo testo giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^2-14]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
 
 ## Capo 2: Campo d’applicazione
 
@@ -106,11 +106,11 @@ Nella presente ordinanza sono usate le designazioni seguenti:[^2-10]
 <sup>4</sup> La presente ordinanza è applicabile ai datori di lavoro soltanto nella misura in cui essa imponga loro esplicitamente obblighi.
 
 [^3-1]: RS **821.221**
-[^3-2]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
-[^3-3]: Introdotto dal n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^3-4]: Introdotto dal n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^3-5]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^3-6]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
+[^3-3]: Introdotto dalla cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^3-4]: Introdotto dalla cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^3-6]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
 
 #### Art. 4
 
@@ -123,20 +123,22 @@ La presente ordinanza non è applicabile ai conducenti che eseguono trasporti pr
 - a.[^4-1] con veicoli equipaggiati per compiti sanitari secondo la norma SN EN 1789[^4-2];
 - b. con veicoli con una velocità massima, per tipo di costruzione, non superiore ai 30 km/h;
 - c. disabili, scolari e operai;
-- d. per i quali il prezzo del trasporto è incluso in altre prestazioni e il tragitto non superi i 50 km.[^4-3]
+- d. per i quali il prezzo del trasporto è incluso in altre prestazioni e il tragitto non superi i 50 km;
+- e.[^4-3] con veicoli senza conducente, se questi sono guidati con strumenti diversi rispetto ai comandi convenzionali.[^4-4]
 
-<sup>2</sup> ...[^4-4]
+<sup>2</sup> ...[^4-5]
 
-<sup>3</sup> Se è effettuata una corsa privata con un veicolo giusta l’articolo 3 capoverso 1, sono applicabili soltanto gli articoli 15–16*a* e 23.[^4-5]
+<sup>3</sup> Se è effettuata una corsa privata con un veicolo giusta l’articolo 3 capoverso 1, sono applicabili soltanto gli articoli 15–16*a* e 23.[^4-6]
 
-<sup>4</sup> La presente ordinanza non si applica ai conducenti sottoposti alla legislazione federale sul lavoro nelle imprese di trasporti pubblici[^4-6] che effettuano solo trasporti retti da detta legislazione. Se essa si applica soltanto a una parte della loro attività professionale, l’insieme di quest’attività non deve tuttavia superare i limiti fissati dalla presente ordinanza. I mezzi di controllo (art. 14) devono essere utilizzati per l’insieme dell’attività professionale.
+<sup>4</sup> La presente ordinanza non si applica ai conducenti sottoposti alla legislazione federale sul lavoro nelle imprese di trasporti pubblici[^4-7] che effettuano solo trasporti retti da detta legislazione. Se essa si applica soltanto a una parte della loro attività professionale, l’insieme di quest’attività non deve tuttavia superare i limiti fissati dalla presente ordinanza. I mezzi di controllo (art. 14) devono essere utilizzati per l’insieme dell’attività professionale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
-[^4-2]: SN EN 1789, Rettungsdienstfahrzeuge und ihre Ausrüstung – Krankenkraftwagen, edizione SN EN 1789+2:2014. Questa norma può essere ottenuta a pagamento nella versione originale tedesca presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^4-3]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^4-4]: Abrogato dal n. I dell’O del 25 mar. 1998, con effetto dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
-[^4-6]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536), [822.211](https://fedlex.data.admin.ch/eli/cc/2018/532)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
+[^4-2]: SN EN 1789, Rettungsdienstfahrzeuge und ihre Ausrüstung – Krankenkraftwagen, edizione SN EN 1789+2:2014. Questa norma può essere ottenuta a pagamento nella versione originale tedesca presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^4-3]: Introdotta dall’all. n. 5 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° mar. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^4-5]: Abrogato dalla cifra I dell’O del 25 mar. 1998, con effetto dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^4-6]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
+[^4-7]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536), [822.211](https://fedlex.data.admin.ch/eli/cc/2018/532)
 
 ## Capo 3: Durata del lavoro, della guida e del riposo
 
@@ -150,7 +152,7 @@ La presente ordinanza non è applicabile ai conducenti che eseguono trasporti pr
 
 <sup>3</sup> I lavoratori che operano a squadre devono cambiare di squadra almeno una volta ogni 6 settimane, purché essi non abbiano approvato espressamente un’altra regolamentazione.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^5-1]: Abrogato la cifra I dell’O del 25 mar. 1998, con effetto dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 
 #### Art. 6
 
@@ -174,7 +176,7 @@ La presente ordinanza non è applicabile ai conducenti che eseguono trasporti pr
 
 <sup>3</sup> Anche nel caso di lavoro straordinario (art. 6), la durata giornaliera e settimanale massima della guida non deve essere superata.
 
-[^7-1]: Per. abrogato dal n. I dell’O del 25 mar. 1998, con effetto dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^7-1]: Per. abrogato dalla cifra I dell’O del 25 mar. 1998, con effetto dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 
 #### Art. 8
 
@@ -194,7 +196,7 @@ Le pause di lavoro vanno osservate come segue:
 
 <sup>4</sup> Il lavoratore deve suddividere le pause di cui al capoverso 3 in modo che tra due pause di lavoro o tra una pausa di lavoro e un periodo di riposo giornaliero o settimanale non siano effettuate più di 5 ore e mezzo di lavoro.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 
 #### Art. 9
 
@@ -212,14 +214,14 @@ Nel corso di 24 ore il conducente può suddividere il riposo quotidiano in tre p
 
 <sup>3</sup> Durante il riposo quotidiano il conducente non deve esercitare alcuna attività professionale.
 
-[^9-1]: Nuovo testo del per. giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^9-1]: Nuovo testo del per. giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^10-1]: Abrogato dalla cifra I dell’O del 19 giu. 1995, con effetto dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
 
 #### Art. 11
 
@@ -235,7 +237,7 @@ Nel corso di 24 ore il conducente può suddividere il riposo quotidiano in tre p
 
 <sup>5</sup> Durante il giorno di riposo (cpv. 1 e 4) non può essere esercitata nessuna attività professionale.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
 
 #### Art. 12
 
@@ -267,8 +269,8 @@ Per controllare se la durata del lavoro, della guida e del riposo sia stata osse
 - b. sulle iscrizioni fatte nel libretto di lavoro (art. 17 e 18), nei rapporti giornalieri ad uso interno delle aziende (art. 19 cpv. 1) o nelle carte di lavoro (art. 25 cpv. 4);
 - c. sulle iscrizioni figuranti nel registro della durata del lavoro, della guida e del riposo (art. 21).
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
-[^14-2]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)). Di detta mod. é tenuto conto in tutto il presente testo
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
+[^14-2]: Nuova espr. giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)). Di detta mod. é tenuto conto in tutto il presente testo
 
 #### Art. 15
 
@@ -280,7 +282,7 @@ Per controllare se la durata del lavoro, della guida e del riposo sia stata osse
 
 <sup>3</sup> Su domanda delle autorità d’esecuzione, il conducente deve aprire il tachigrafo e fornire le informazioni necessarie. Egli può aprirlo durante la corsa per controllare il suo funzionamento, ma al massimo una volta al giorno.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
 
 #### Art. 16
 
@@ -304,8 +306,8 @@ Per controllare se la durata del lavoro, della guida e del riposo sia stata osse
 
 <sup>8</sup> I dischi e le serie di dischi adoperati devono essere consegnati al datore di lavoro al più tardi il primo giorno di lavoro della settimana successiva e, nel caso di viaggi all’estero, dopo il ritorno in Svizzera. Ogni serie di dischi dovrà essere agganciata assieme. I dischi e le serie di dischi devono essere classificati e conservati in ordine cronologico, per veicolo (art. 23 cpv. 3).
 
-[^16-1]: Nuova espressione giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^16-2]: Introdotto dal n. I dell’O del 19 giu. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)). Abrogato dal n. I dell’O del 12 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
+[^16-1]: Nuova espr. giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-2]: Introdotto dalla cifra I dell’O del 19 giu. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)). Abrogato dalla cifra I dell’O del 12 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
 
 #### Art. 16a
 
@@ -313,7 +315,7 @@ Per controllare se la durata del lavoro, della guida e del riposo sia stata osse
 
 Se il veicolo è equipaggiato di un tachigrafo secondo l’articolo 100 capoversi 2–4 OETV[^16a-2] oppure di un tachigrafo riconosciuto equivalente dal Consiglio federale (art. 222 cpv. 9 lett. c secondo per. OETV), in luogo degli articoli 14, 15 capoversi 1 e 3, 16, 17, 18, 23 e 28 capoverso 2 della presente ordinanza, si applicano gli articoli 13–15, 16*a*, 18, 21 capoverso 2 e 24 capoversi 3–5 OLR 1[^16a-3].
 
-[^16a-1]: Introdotto dal n. I dell’O del 12 ott. 2011 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
+[^16a-1]: Introdotto dalla cifra I dell’O del 12 ott. 2011 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
 [^16a-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^16a-3]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
 
@@ -419,7 +421,7 @@ Ricorrendo ai mezzi disponibili, quali i dischi e le serie di dischi settimanali
 
 <sup>6</sup> Il datore di lavoro che fa tenere il registro da terzi è responsabile dell’esattezza delle iscrizioni.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3909](https://fedlex.data.admin.ch/eli/oc/2011/555)).
 
 #### Art. 22
 
@@ -435,7 +437,7 @@ Ricorrendo ai mezzi disponibili, quali i dischi e le serie di dischi settimanali
 
 <sup>5</sup> Il datore di lavoro provvede affinché i dati personali dei conducenti raccolti in relazione all’esecuzione della presente ordinanza siano utilizzati unicamente ai fini di questa ordinanza e protetti da accessi non autorizzati.[^22-1]
 
-[^22-1]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
+[^22-1]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
 
 #### Art. 23
 
@@ -458,13 +460,13 @@ Il datore di lavoro e i conducenti indipendenti devono conservare durante due an
 
 <sup>5</sup> I documenti devono essere presentati o inviati alle autorità d’esecuzione che ne facessero richiesta.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
 
 #### Art. 24
 
 [^24-1]
 
-[^24-1]: Abrogato dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^24-1]: Abrogato dalla cifra I dell’O del 19 giu. 1995, con effetto dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
 
 ## Capo 5: Disposizioni speciali
 
@@ -480,14 +482,14 @@ Il datore di lavoro e i conducenti indipendenti devono conservare durante due an
 
 <sup>4</sup> I Cantoni possono prescrivere che i conducenti di tassì debbano riempire, al posto del libretto di lavoro (art. 17 e 18), carte di lavoro. Le carte di lavoro devono contenere le principali indicazioni previste nel libretto di lavoro.[^25-2]
 
-[^25-1]: Abrogato dal n. I dell’O del 29 mar. 2006, con effetto dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^25-1]: Abrogato dalla cifra I dell’O del 29 mar. 2006, con effetto dal 1° nov. 2006 ([RU 2006 1701](https://fedlex.data.admin.ch/eli/oc/2006/266)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
 
 #### Art. 26
 
 [^26-1]
 
-[^26-1]: Abrogato dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
+[^26-1]: Abrogato dalla cifra I dell’O del 19 giu. 1995, con effetto dal 1° ott. 1995 ([RU 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
 
 #### Art. 27
 
@@ -520,13 +522,13 @@ Il datore di lavoro e i conducenti indipendenti devono conservare durante due an
 
 <sup>4</sup> Il datore di lavoro che induce un conducente a commettere un atto punibile ai sensi della presente ordinanza oppure che non glielo impedisce, nei limiti delle sue possibilità, è passibile della stessa pena che il conducente. Il giudice può attenuare la pena per il lavoratore o esentarlo da una pena se le circostanze lo giustifichino.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^28-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^28-4]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^28-5]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^28-6]: Abrogata dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^28-7]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-3]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-4]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-5]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-6]: Abrogata dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^28-7]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
 
 #### Art. 29
 
@@ -558,10 +560,10 @@ L’autorità competente può ordinare provvedimenti amministrativi se una viola
 
 <sup>5</sup> L’autorità d’esecuzione ha l’obbligo di esaminare le denunce per inosservanza alla presente ordinanza e, se risultano giustificate, di prendere i provvedimenti che si impongono. Se, in caso di denuncia, essa non interviene o prende provvedimenti insufficienti, l’autorità superiore e se necessario l’USTRA ne possono essere investiti.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
 [^31-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^31-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
-[^31-4]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
+[^31-4]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2193](https://fedlex.data.admin.ch/eli/oc/2007/306)).
 
 #### Art. 32
 

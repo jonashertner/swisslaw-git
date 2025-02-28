@@ -4,11 +4,11 @@ title: Ordonnance du 6 mai 1981 sur la durée du travail et du repos des conduct
 short: OTR 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/480_480_480"
 language: fr
-version: 2019-02-01
+version: 2025-03-01
 adopted: 1981-05-06
 in_force: 1981-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/480_480_480/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-1981-480_480_480-20190201-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/480_480_480/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1981-480_480_480-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/480_480_480/20190201/fr"
 
 (OTR 2)[^t-2][^t-1]
 
-du 6 mai 1981 (État le 1<sup>er</sup> février 2019)
+du 6 mai 1981 (État le 1<sup>er</sup> mars 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 1998, en vigueur depuis le 1<sup>er</sup> mai 1998 ([RO 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 [^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4028](https://fedlex.data.admin.ch/eli/oc/1995/4028_4028_4028)).
@@ -123,20 +123,22 @@ La présente ordonnance ne s’applique pas aux conducteurs qui effectuent des t
 - a.[^4-1] au moyen de véhicules spécialement équipés pour des tâches médicales selon la norme SN EN 1789[^4-2];
 - b. au moyen de véhicules dont la vitesse maximale n’excède pas 30 km/h, de par leur construction;
 - c. destinés à des handicapés, à des écoliers ou à des ouvriers;
-- d. pour lesquels le prix de la course est compris dans d’autres prestations et la longueur du trajet ne dépasse pas 50 km.[^4-3]
+- d. pour lesquels le prix de la course est compris dans d’autres prestations et la longueur du trajet ne dépasse pas 50 km;
+- e.[^4-3] au moyen de véhicules sans conducteur, pour autant que ces derniers soient conduits en utilisant d’autres moyens que les commandes conventionnelles.[^4-4]
 
-<sup>2</sup> ...[^4-4]
+<sup>2</sup> …[^4-5]
 
-<sup>3</sup> Lorsqu’un véhicule visé à l’art. 3, al. 1, est utilisé pour effectuer une course privée, seuls les art. 15 à 16*a* et 23 sont applicables.[^4-5]
+<sup>3</sup> Lorsqu’un véhicule visé à l’art. 3, al. 1, est utilisé pour effectuer une course privée, seuls les art. 15 à 16*a* et 23 sont applicables.[^4-6]
 
-<sup>4</sup> La présente ordonnance ne s’applique pas aux conducteurs qui sont soumis à la législation fédérale sur le travail dans les entreprises de transports publics[^4-6] et qui n’effectuent que des transports régis par cette législation. Lorsqu’elle ne s’applique qu’à une partie de leur activité professionnelle, la durée totale de celle-ci ne doit toutefois pas dépasser les limites fixées par la présente ordonnance. Les moyens de contrôle (art. 14) doivent être utilisés pour l’ensemble de l’activité professionnelle.
+<sup>4</sup> La présente ordonnance ne s’applique pas aux conducteurs qui sont soumis à la législation fédérale sur le travail dans les entreprises de transports publics[^4-7] et qui n’effectuent que des transports régis par cette législation. Lorsqu’elle ne s’applique qu’à une partie de leur activité professionnelle, la durée totale de celle-ci ne doit toutefois pas dépasser les limites fixées par la présente ordonnance. Les moyens de contrôle (art. 14) doivent être utilisés pour l’ensemble de l’activité professionnelle.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 337](https://fedlex.data.admin.ch/eli/oc/2019/53)).
-[^4-2]: SN EN 1789, Véhicules de transport sanitaire et leurs équipements - Véhicule d’ambulances, édition SN EN 1789+2:2014. La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 25 mars 1998, en vigueur depuis le 1<sup>er</sup> mai 1998 ([RO 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^4-4]: Abrogé par le ch. I de l’O du 25 mars 1998, avec effet au 1<sup>er</sup> mai 1998 (RO **1988** 1188).
-[^4-5]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
-[^4-6]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536), [822.211](https://fedlex.data.admin.ch/eli/cc/2018/532)
+[^4-2]: SN EN 1789, Véhicules de transport sanitaire et leurs équipements - Véhicule d’ambulances, édition SN EN 1789+2:2014. La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^4-3]: Introduite par l’annexe ch. 5 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 25 mars 1998, en vigueur depuis le 1<sup>er</sup> mai 1998 ([RO 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^4-5]: Abrogé par le ch. I de l’O du 25 mars 1998, avec effet au 1<sup>er</sup> mai 1998 (RO **1988** 1188).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4947](https://fedlex.data.admin.ch/eli/oc/2011/717)).
+[^4-7]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536), [822.211](https://fedlex.data.admin.ch/eli/cc/2018/532)
 
 ## Section 3 Durée du travail, de la conduite et du repos
 
@@ -146,7 +148,7 @@ La présente ordonnance ne s’applique pas aux conducteurs qui effectuent des t
 
 <sup>1</sup> La durée maximale de la semaine de travail du salarié est de 48 heures et, dans les entreprises de taxis, de 53 heures.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> …[^5-1]
 
 <sup>3</sup> Dans les entreprises où l’on travaille par équipes, les salariés changeront d’équipes toutes les six semaines au moins, pour autant qu’ils n’aient pas approuvé expressément un autre régime.
 
@@ -168,7 +170,7 @@ La présente ordonnance ne s’applique pas aux conducteurs qui effectuent des t
 
 **Durée journalière et hebdomadaire maximale de la conduite**
 
-<sup>1</sup> La durée de la conduite entre deux périodes consécutives de repos quotidien (art. 9) ne doit pas excéder 9 heures. ...[^7-1]
+<sup>1</sup> La durée de la conduite entre deux périodes consécutives de repos quotidien (art. 9) ne doit pas excéder 9 heures. …[^7-1]
 
 <sup>2</sup> La durée hebdomadaire de la conduite ne doit pas excéder 45 heures.
 
@@ -202,7 +204,9 @@ Les pauses de travail seront respectées comme suit:
 
 <sup>1</sup> Le conducteur doit avoir bénéficié d’un repos de 11 heures consécutives, au cours de la période de 24 heures précédant tout moment où il exerce son activité professionnelle. Ce repos peut être ramené trois fois par semaine à 9 heures.[^9-1]
 
-<sup>2</sup> En l’espace de 24 heures, le conducteur a le droit de diviser le repos quotidien en trois périodes au maximum, si
+<sup>2</sup>
+
+En l’espace de 24 heures, le conducteur a le droit de diviser le repos quotidien en trois périodes au maximum, si:
 
 - a. l’une des périodes comporte au moins 8 heures,
 - b. aucune période n’est inférieure à 1 heure et
@@ -287,13 +291,13 @@ Pour contrôler si la durée du travail, de la conduite et du repos a été obse
 
 <sup>3</sup> Chaque jour, avant de reprendre le véhicule, le conducteur inscrira lisiblement, sur le disque du tachygraphe servant à l’enregistrement journalier, son nom et celui du deuxième conducteur s’il y a lieu, ainsi que la date, le numéro des plaques de contrôle du véhicule et le kilométrage en début de course. Au plus tard à la fin du travail, il notera le nouveau kilométrage et le total des kilomètres parcourus; s’il y a un changement de conducteurs, il rectifiera l’inscription des noms.
 
-<sup>4</sup> Dans les tachygraphes hebdomadaires, le conducteur introduira un jeu hebdomadaire complet de disques le premier jour de travail de la semaine, avant de reprendre le véhicule; le premier disque doit porter les inscriptions mentionnées à l’al. 3. A la fin de la semaine en cours, le conducteur sortira du tachygraphe le jeu complet de disques et inscrira sur le premier disque du jeu le nouveau kilométrage et le total des kilomètres parcourus. En même temps, il reportera les noms sur les autres disques.
+<sup>4</sup> Dans les tachygraphes hebdomadaires, le conducteur introduira un jeu hebdomadaire complet de disques le premier jour de travail de la semaine, avant de reprendre le véhicule; le premier disque doit porter les inscriptions mentionnées à l’al. 3. À la fin de la semaine en cours, le conducteur sortira du tachygraphe le jeu complet de disques et inscrira sur le premier disque du jeu le nouveau kilométrage et le total des kilomètres parcourus. En même temps, il reportera les noms sur les autres disques.
 
 <sup>5</sup> Des disques journaliers spéciaux peuvent être utilisés dans des tachygraphes hebdomadaires appropriés; sur ces disques, les inscriptions seront faites conformément à l’al. 3. Toutefois, l’autorité d’exécution peut prescrire, dans certains cas, l’utilisation de jeux hebdomadaires, lorsque l’emploi de disques journaliers ne permet pas un contrôle efficace. Une telle décision doit être notifiée par écrit à la personne concernée, avec indication du motif; l’OFROU recevra une copie de cette décision.
 
 <sup>6</sup> Lorsque le véhicule est conduit, le même jour, par plus de deux conducteurs, les conducteurs supplémentaires doivent inscrire leurs noms, selon qu’ils ont utilisé la position «1» ou «2» du tachygraphe, à côté du nom du conducteur 1 ou 2; ils peuvent aussi inscrire leurs noms, suivis de l’indication qui convient «1» ou «2», sur le champ non gravé du disque.
 
-<sup>6bis</sup> ...[^16-2]
+<sup>6bis</sup> …[^16-2]
 
 <sup>7</sup> Les inscriptions facultatives seront portées de manière que la lecture du disque reste facile.
 
@@ -354,12 +358,12 @@ Le conducteur indépendant inscrira chaque jour, en regard des rubriques de la f
 
 En plus de la feuille hebdomadaire, le conducteur remplira de manière suivie les feuilles quotidiennes du livret de travail:
 
-- a. lorsque le tachygraphe ne fonctionne pas; ou
+- a. lorsque le tachygraphe ne fonctionne pas, ou
 - b. lorsque le véhicule a déjà été conduit, le jour en question, par deux conducteurs.
 
-<sup>5</sup> En commençant son travail, le salarié, qui doit remplir la feuille quotidienne, inscrira chaque jour la date, le numéro de la plaque de contrôle et le kilométrage du véhicule ainsi que la durée ininterrompue du repos qui a précédé le début du travail. Les indications graphiques devront être faites de manière suivie, à savoir au commencement du travail, à chaque changement d’activité (temps de conduite, autres travaux, pauses et temps de repos), ainsi qu’à la fin du travail. Les pauses inférieures à 15 minutes ne doivent pas être inscrites. A la fin du travail, le conducteur inscrira la durée totale de chaque genre d’activité et le nouveau kilométrage, puis il signera la feuille.
+<sup>5</sup> En commençant son travail, le salarié, qui doit remplir la feuille quotidienne, inscrira chaque jour la date, le numéro de la plaque de contrôle et le kilométrage du véhicule ainsi que la durée ininterrompue du repos qui a précédé le début du travail. Les indications graphiques devront être faites de manière suivie, à savoir au commencement du travail, à chaque changement d’activité (temps de conduite, autres travaux, pauses et temps de repos), ainsi qu’à la fin du travail. Les pauses inférieures à 15 minutes ne doivent pas être inscrites. À la fin du travail, le conducteur inscrira la durée totale de chaque genre d’activité et le nouveau kilométrage, puis il signera la feuille.
 
-<sup>6</sup> Avant d’entreprendre la course, le conducteur indépendant qui doit remplir la feuille quotidienne inscrira chaque jour la date, le numéro de la plaque de contrôle et le kilométrage du véhicule ainsi que la durée du repos ininterrompu qui a précédé la course. Il lui suffira ensuite d’indiquer de manière suivie le temps de conduite sous forme de graphique. A la fin de l’activité professionnelle, le conducteur indépendant inscrira la durée totale du temps de conduite et le nouveau kilométrage, puis il signera la feuille.
+<sup>6</sup> Avant d’entreprendre la course, le conducteur indépendant qui doit remplir la feuille quotidienne inscrira chaque jour la date, le numéro de la plaque de contrôle et le kilométrage du véhicule ainsi que la durée du repos ininterrompu qui a précédé la course. Il lui suffira ensuite d’indiquer de manière suivie le temps de conduite sous forme de graphique. À la fin de l’activité professionnelle, le conducteur indépendant inscrira la durée totale du temps de conduite et le nouveau kilométrage, puis il signera la feuille.
 
 <sup>7</sup> Le premier jour de travail de la semaine suivante au plus tard ou, en cas de courses à l’étranger, après le retour en Suisse, le conducteur remettra à l’employeur les feuilles hebdomadaires et quotidiennes du livret de travail dûment remplies (originaux perforés) et, s’il y a lieu, les rapports journaliers à l’usage de l’entreprise ainsi que les cartes de contrôles (art. 19, al. 1, et 25, al. 4).
 
@@ -381,7 +385,7 @@ En plus de la feuille hebdomadaire, le conducteur remplira de manière suivie le
 
 <sup>5</sup> L’OFROU peut donner des instructions concernant l’autorisation d’établir des rapports journaliers à l’usage de l’entreprise et des horaires, conformément aux al. 1 et 3.
 
-<sup>6</sup> La décision de dispense (al. 1 et 3) n’est valable qu’en Suisse. A l’étranger, le livret de travail doit toujours être rempli.
+<sup>6</sup> La décision de dispense (al. 1 et 3) n’est valable qu’en Suisse. À l’étranger, le livret de travail doit toujours être rempli.
 
 #### Art. 20
 
@@ -397,7 +401,7 @@ En plus de la feuille hebdomadaire, le conducteur remplira de manière suivie le
 
 <sup>1</sup>
 
-A l’aide des moyens disponibles, tels que les disques et les jeux de disques hebdomadaires du tachygraphe, les feuilles hebdomadaires et quotidiennes du livret de travail et, s’il y a lieu, les rapports journaliers à l’usage de l’entreprise ou les cartes de contrôle (art. 19, al. 1, art. 25, al. 4), l’employeur s’assurera de manière constante que les dispositions sur la durée du travail, de la conduite et du repos (art. 5 à 12) sont observées. A cet effet, il inscrira, pour chaque conducteur, les indications suivantes dans un registre:
+À l’aide des moyens disponibles, tels que les disques et les jeux de disques hebdomadaires du tachygraphe, les feuilles hebdomadaires et quotidiennes du livret de travail et, s’il y a lieu, les rapports journaliers à l’usage de l’entreprise ou les cartes de contrôle (art. 19, al. 1, art. 25, al. 4), l’employeur s’assurera de manière constante que les dispositions sur la durée du travail, de la conduite et du repos (art. 5 à 12) sont observées. À cet effet, il inscrira, pour chaque conducteur, les indications suivantes dans un registre:
 
 - a. la durée quotidienne de la conduite;
 - b. la durée totale du travail par jour et par semaine;
@@ -411,7 +415,7 @@ A l’aide des moyens disponibles, tels que les disques et les jeux de disques h
 
 <sup>4</sup> Pour les conducteurs dispensés selon l’art. 19, al. 3, de tenir un livret de travail, un double de la décision de dispense peut remplacer le registre. Tout dépassement éventuel de la durée hebdomadaire du travail, fixée dans la décision, doit cependant être noté dans le registre.
 
-<sup>5</sup> A la fin du mois au plus tard, le registre prévu aux al. 1 et 3 doit contenir toutes les inscriptions relatives à l’avant-dernier mois. Pour les conducteurs travaillant à l’étranger, le registre doit être établi dès qu’ils sont rentrés en Suisse.[^21-1]
+<sup>5</sup> À la fin du mois au plus tard, le registre prévu aux al. 1 et 3 doit contenir toutes les inscriptions relatives à l’avant-dernier mois. Pour les conducteurs travaillant à l’étranger, le registre doit être établi dès qu’ils sont rentrés en Suisse.[^21-1]
 
 <sup>6</sup> L’employeur qui fait tenir le registre par des tiers reste responsable de l’exactitude des inscriptions.
 
@@ -470,7 +474,7 @@ L’employeur et tout conducteur indépendant conserveront pendant deux ans, au 
 
 <sup>1</sup> Les cantons peuvent édicter, pour les conducteurs de taxis qui exercent leur activité dans des agglomérations urbaines, des prescriptions dérogeant aux art. 5, 6, 8, 9, 11, 12, 17, 18 et 21 et peuvent même déclarer que ces prescriptions s’appliqueront aussi aux conducteurs de taxis indépendants. Les cantons peuvent déléguer cette compétence aux communes.
 
-<sup>2</sup> ...[^25-1]
+<sup>2</sup> …[^25-1]
 
 <sup>3</sup> Les cantons surveillent l’application des prescriptions communales.
 
@@ -510,7 +514,7 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 - a.[^28-3] ne fait pas usage ou fait un usage incorrect des moyens de contrôle;
 - b.[^28-4] ne maintient pas le tachygraphe en fonction, l’emploie incorrectement ou falsifie les enregistrements;
 - c.[^28-5] fait une inscription contraire à la vérité ou incomplète sur un document de contrôle, notamment sur le disque du tachygraphe, dans le registre de la durée du travail, de la conduite et du repos, dans le livret de travail ou sur la liste des conducteurs, ou qui rend difficile la lecture de cette inscription;
-- d.[^28-6] *...*
+- d.[^28-6] *…*
 
 <sup>3</sup> Quiconque enfreint les devoirs ou les prescriptions à observer selon les dispositions spéciales (art. 25 et 27) sera puni de l’amende.[^28-7]
 
@@ -548,7 +552,7 @@ L’autorité compétente peut ordonner des mesures administratives lorsqu’une
 
 <sup>2</sup> Le contrôle, sur la route et dans les entreprises, de la durée du travail et du repos est régi par l’ordonnance du 28 mars 2007 sur le contrôle de la circulation routière[^31-2]<sup>,</sup> [^31-3]
 
-<sup>3</sup> *...*[^31-4]
+<sup>3</sup> *…*[^31-4]
 
 <sup>4</sup> L’autorité d’exécution établit une liste des entreprises ayant leur siège social ou une succursale dans le canton et qui utilisent des véhicules mentionnés à l’art. 3. Elle tient une liste des livrets de travail délivrés à chaque entreprise.
 
@@ -567,7 +571,7 @@ L’autorité compétente peut ordonner des mesures administratives lorsqu’une
 
 <sup>2</sup> Le DETEC peut édicter des instructions générales pour l’application de la présente ordonnance.
 
-[^32-1]: Nouvelle teneur selon le ch. 13 de l’annexe à l’O du 6 déc. 1999 sur l’organisation du DETEC, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. 13 de l’O du 6 déc. 1999 sur l’organisation du DETEC, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
 
 #### Art. 33
 
