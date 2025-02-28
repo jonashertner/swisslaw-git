@@ -4,849 +4,1024 @@ number: RiE 132.100
 title: Ordnung der politischen Rechte in der Einwohnergemeinde Riehen
 short: "Ordnung politische Rechte, OPR"
 language: de
-version: 2022-01-01
-valid_until: 2025-02-28
-version_adopted: 2021-04-28
+version: 2025-03-01
+version_adopted: 2024-09-25
 adopted: 2024-09-25
 in_force: 2025-03-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5375/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung der politischen Rechte in der Einwohnergemeinde Riehen
 
-Politische Rechte: Ordnung | Riehen: Einwohnergemeinde
+Wahlen und Abstimmungen
 
-Vom 24. April 1996 (Stand 1. Januar 2022)
+(Ordnung politische Rechte, OPR)
 
-Der Einwohnerrat der Einwohnergemeinde Riehen
+Vom 25. September 2024 (Stand 1. März 2025)
 
-erlässt, auf Antrag des Gemeinderates und gestützt auf § 9 des Gemeindegesetzes vom 17. Oktober 1984[^ingress-1], folgende Ordnung der politischen Rechte in der Gemeinde Riehen:
+gestützt auf § 9 Abs. 1 Ziff. 6 des Gemeindegesetzes vom 17. Oktober 1984[^ingress-1] und § 10 Abs. 2 der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-2],
 
-[^ingress-1]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de).
+beschliesst:
 
-## I. Geltungsbereich der Ordnung
+[^ingress-1]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de)
+[^ingress-2]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
+
+## 1. Allgemeine Bestimmungen
+
+### 1.1. Gegenstand
 
 #### § 1
 
-<sup>1</sup> Diese Ordnung gilt für die Wahl des Einwohnerrates, des Gemeindepräsidenten oder der Gemeindepräsidentin und der weiteren Mitglieder des Gemeinderates sowie für Abstimmungen der Einwohnergemeinde.
+<sup>1</sup> Diese Ordnung regelt auf kommunaler Ebene die Ausübung des Stimmrechts sowie die Verfahren betreffend:
 
-## II. Das Stimmrecht
+- a) die Initiative und das Referendum;
+- b) die Abstimmungen der Einwohnergemeinde;
+- c) die Wahl des Einwohnerrats, der Gemeindepräsidentin oder des Gemeindepräsidenten sowie der weiteren Mitglieder des Gemeinderats.
 
-### II.A. Stimmberechtigung
+<sup>2</sup> Subsidiär gelten die kantonalen Bestimmungen zu den politischen Rechten.
+
+### 1.2. Das Stimmrecht
+
+### 1.2.1. Stimmberechtigung
 
 #### § 2
 
 **Inhalt des Stimmrechts**
 
-<sup>1</sup> Das Stimmrecht gemäss dieser Ordnung ist das Recht, an den Einwohnerratswahlen, an der Wahl des Gemeindepräsidenten oder der Gemeindepräsidentin, der weiteren Mitglieder des Gemeinderates und an den kommunalen Abstimmungen teilzunehmen sowie kommunale Referenden und Initiativen zu unterzeichnen.
+<sup>1</sup> Das Stimmrecht gemäss den §§ 10 ff. der Gemeindeordnung der Einwohnergemeinde Riehen[^2-1] ist das Recht, an den Einwohnerratswahlen, an der Wahl der Gemeindepräsidentin oder des Gemeindepräsidenten und der weiteren Mitglieder des Gemeinderats sowie an den kommunalen Abstimmungen teilzunehmen und kommunale Referenden und Initiativen zu unterzeichnen.
+
+<sup>2</sup> Das Stimmrecht muss persönlich ausgeübt werden. Vorbehalten bleiben die §§ 12 Abs. 2 und 48.
+
+[^2-1]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
 
 #### § 3
 
 **Voraussetzungen**
 
-<sup>1</sup> Stimmberechtigt sind die über 18 Jahre alten Schweizer Bürgerinnen und Bürger, die in der Gemeinde wohnen und angemeldet sind, und die nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden.
+<sup>1</sup> Stimmberechtigt sind die in der Gemeinde wohnhaften und angemeldeten Schweizer Bürgerinnen und Bürger ab 18 Jahren, die nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden.
 
-### II.B. Stimmregister
+### 1.2.2. Stimmregister
 
 #### § 4
 
-**Führung**
+**Führung des Verzeichnisses**
 
-<sup>1</sup> Der Gemeinderat sorgt für die Führung des Stimmregisters.
+<sup>1</sup> Das Stimmregister ist das Verzeichnis der in der Gemeinde wohnhaften Stimmberechtigten.
+
+<sup>2</sup> Der Gemeinderat sorgt für die Führung des Stimmregisters.
 
 #### § 5
 
-**Eintragung**
+**Einsicht**
 
-<sup>1</sup> Eintragungen sind bis zum Schalterschluss am Dienstag vor dem Wahl- oder Abstimmungssonntag vorzunehmen.
-
-<sup>2</sup> Das Stimmregister steht den Stimmberechtigten während 14 Tagen vor Wahlen und Abstimmungen zur Einsicht offen.
-
-<sup>3</sup> Wer im Stimmregister nicht eingetragen ist, kann das Stimmrecht nicht ausüben, es sei denn, dass die Eintragung pflichtwidrig unterlassen worden ist. Über die Eintragung entscheidet der Gemeinderat.
+<sup>1</sup> Das Stimmregister kann von den Stimmberechtigten hinsichtlich ihrer persönlichen Daten eingesehen werden.
 
 #### § 6
 
-**Stimmrechtsausweise**
+**Eintragung**
 
-<sup>1</sup> Aufgrund des Stimmregisters werden die Stimmrechtsausweise durch die Gemeindeverwaltung ausgefertigt und den Stimmberechtigten zusammen mit den Wahl- und Stimmzetteln mindestens drei und frühestens vier Wochen vor dem Wahl- oder Abstimmungssonntag zugestellt.
+<sup>1</sup> Eintragungen in das Stimmregister sind bis am Dienstag vor dem Wahl- oder Abstimmungssonntag während der Öffnungszeiten bei der Gemeindeverwaltung vorzunehmen.
 
-### II.C. Ausübung des Stimmrechts
+<sup>2</sup> Wer nicht im Stimmregister eingetragen ist, kann das Stimmrecht nicht ausüben, es sei denn, die Eintragung ist pflichtwidrig unterlassen worden. Über die Eintragung entscheidet das zuständige Mitglied des Gemeinderats.
+
+## 2. Initiative
+
+### 2.1. Begriffe
 
 #### § 7
 
-**Grundsatz**
+**Initiativbegehren**
 
-<sup>1</sup> Die Stimmabgabe erfolgt persönlich an der Urne oder brieflich.
+<sup>1</sup> Mit einer Initiative kann schriftlich der Erlass, die Abänderung oder die Aufhebung einer Ordnung oder der Erlass eines referendumsfähigen Beschlusses beim Einwohnerrat verlangt werden.
 
-<sup>2</sup> Es müssen die amtlichen Wahl- und Stimmzettel verwendet werden.
-
-<sup>2<sup>bis</sup></sup> Werden sie auf einem amtlichen Stimmbogen zusammengefasst, muss dieser verwendet werden. Die Bestimmungen zum amtlichen Wahl- und Stimmzettel gelten für den Stimmbogen sinngemäss, sofern dieser nicht speziell geregelt wird.
-
-<sup>3</sup> Das Stimmgeheimnis ist zu wahren.
+<sup>2</sup> Die Initiative kann von der in § 13 der Gemeindeordnung vorgeschriebenen Zahl Stimmberechtigter in Form einer formulierten oder einer unformulierten Initiative eingereicht werden.
 
 #### § 8
 
-**Persönliche Stimmabgabe**
+**Formulierte Initiative**
 
-<sup>1</sup> Die persönliche Stimmabgabe an der Urne erfolgt in Wahllokalen.
+<sup>1</sup> Formulierte Initiativen enthalten einen ausgearbeiteten Erlass- oder Beschlussentwurf.
 
-<sup>2</sup> Die Stimmberechtigten geben ihren Stimmrechtsausweis ab und legen die abgestempelten Wahl- und Stimmzettel bzw. den Stimmbogen in die Urne.
+<sup>2</sup> Sofern mit der Initiative kommunales Recht geändert oder aufgehoben werden soll, muss das Begehren den betreffenden Erlass oder Beschluss sowie den oder die betroffenen Paragrafen bezeichnen.
 
 #### § 9
 
-**Briefliche Stimmabgabe**
-
-<sup>1</sup> Die briefliche Stimmabgabe ist ab Erhalt der Wahl- und Abstimmungsunterlagen zulässig. Die Wahl- und Stimmzettel müssen bis 12.00 Uhr des Tages vor dem Wahl- und Abstimmungssonntag bei der Gemeindeverwaltung eingetroffen sein. Später eintreffende Wahl- und Stimmzettel bleiben unberücksichtigt.
-
-#### § 10
-
-**Stimmabgabe durch Dritte**
-
-<sup>1</sup> Stimmberechtigte, die infolge einer körperlichen Behinderung oder dauernd aus einem anderen Grund nicht in der Lage sind, die für die Stimmabgabe erforderlichen Handlungen (Ausfüllen der Wahl- bzw. Stimmzettel usw.) selbst vorzunehmen, können diese durch andere Stimmberechtigte ausführen lassen.
-
-<sup>2</sup> Eine weitergehende oder organisierte Stellvertretung ist nicht zulässig.
-
-<sup>3</sup> Der Gemeinderat regelt die Modalitäten der Stimmabgabe durch Dritte.
-
-### II.D. Fehlerhafte Stimmabgabe
-
-#### § 11
-
-**Ungültige Wahl- und Stimmzettel**
-
-<sup>1</sup> Wahl- und Stimmzettel sind ungültig, wenn:
-
-- 1\. sie nicht amtlich sind;
-- 2\. sie im Vervielfältigungsverfahren ausgefüllt sind;
-- 3\. sie bzw. der Stimmbogen bei persönlicher Stimmabgabe an der Urne vom Wahlbüro nicht abgestempelt sind;
-- 4\. sie ehrverletzende Bemerkungen enthalten;
-- 5\. bei Majorzwahlen die Zahl der auf den Stimmbogen angekreuzten und die auf die leeren Linien geschriebenen Namen die Zahl der zu besetzenden Ämter übersteigt.
-
-#### § 12
-
-**Ungültige Stimmen**
-
-<sup>1</sup> Einzelne Stimmen sind ungültig, wenn sie:
-
-- 1\. den Willen der Stimmenden nicht eindeutig erkennen lassen;
-- 2\. für eine nicht wählbare Person abgegeben werden.
-
-#### § 13
-
-**Leere Wahl- und Stimmzettel**
-
-<sup>1</sup> Wahl- und Stimmzettel sind leer, wenn sie überhaupt nicht ausgefüllt worden sind oder vollständig durchgestrichen sind.
-
-<sup>1<sup>bis</sup></sup> Bei Majorzwahlen gelten Wahlzettel als leer, wenn sämtliche gemäss § 66 angekreuzten und auf die leeren Linien geschriebenen Namen wieder durchgestrichen sind.
-
-<sup>2</sup> Leere Wahlzettel bei Majorzwahlen sind gültig.
-
-#### § 14
-
-**Leere Stimmen auf Stimmzetteln**
-
-<sup>1</sup> Stimmen gelten als leer, wenn auf gültigen Stimmzetteln eine von mehreren Fragen nicht beantwortet ist.
-
-## III. Das Verfahren bei Wahlen und Abstimmungen
-
-### III.A. Allgemeine Bestimmungen
-
-### III.A.1. Wahllokale
-
-#### § 15
-
-<sup>1</sup> Der Gemeinderat bezeichnet die Wahllokale und sorgt für deren Einrichtung.
-
-<sup>2</sup> Er legt die Öffnungszeiten der Wahllokale fest.
-
-### III.A.2. Wahlbüros
-
-#### § 16
-
-**Bestellung**
-
-<sup>1</sup> Die Leitung der in den Wahllokalen vorzunehmenden Wahl- und Stimmhandlungen wird je einem aus wenigstens drei Mitgliedern bestehenden Wahlbüro übertragen.
-
-<sup>2</sup> Die Mitglieder des Wahlbüros werden vom Gemeinderat jeweils aus den für die betreffende Wahl oder Abstimmung Stimmberechtigten bestellt. Personen, die auf einem schriftlichen Wahlvorschlag stehen, dürfen bei der betreffenden Wahl nicht als Mitglied eines Wahlbüros amten.
-
-<sup>3</sup> Stimmberechtigte können bis zum vollendeten 55. Altersjahr zur Mitwirkung in den Wahlbüros verpflichtet werden.
-
-#### § 17
-
-**Organisation**
-
-<sup>1</sup> Der Gemeinderat bezeichnet ein Mitglied als Vorstand des Wahlbüros, ein anderes als Stellvertreter. Dem Vorstand und bei dessen Verhinderung dem Stellvertreter steht der Vorsitz und die Leitung des Wahlbüros zu.
-
-<sup>2</sup> Dem Wahlbüro wird die nötige Anzahl Sekretärinnen und Sekretäre aus dem Personal der Gemeindeverwaltung zugeteilt.
-
-<sup>3</sup> Das Wahlbüro trifft seine Entscheidungen nach Stimmenmehrheit der anwesenden Mitglieder. Bei Stimmengleichheit hat der Vorstand den Stichentscheid. Die Sekretärinnen und Sekretäre haben beratende Stimme.
-
-#### § 17a
-
-**Technische Hilfsmittel und Stimmbogen**
-
-<sup>1</sup> Zur Ermittlung des Wahl- und Abstimmungsergebnisses können technische Hilfsmittel eingesetzt werden.
-
-<sup>2</sup> In diesem Zusammenhang können die einzelnen Wahl- bzw. Abstimmungszettel fortlaufend nummeriert auf einem Stimmbogen zusammengeführt werden.
-
-<sup>3</sup> Kommunale Stimmzettel können zusammen mit denjenigen eidgenössischer und kantonaler Abstimmungen auf demselben Stimmbogen aufgeführt werden. Stimmzettel für Abstimmungsvorlagen des Bundes werden auf dem Stimmbogen an erster Stelle, kantonale Stimmzettel an zweiter und kommunale Stimmzettel an dritter Stelle aufgeführt.
-
-<sup>4</sup> Bei der Ausgestaltung eines beidseitig bedruckten Stimmbogens ist darauf zu achten, dass bei der persönlichen Stimmabgabe das Stimmgeheimnis gewahrt wird.
-
-#### § 18
-
-**Aufgaben und Befugnisse**
-
-<sup>1</sup> Das Wahlbüro sorgt für die Ordnung im Wahllokal und in den unmittelbar dazu führenden Räumlichkeiten, einschliesslich Höfen und Vorplätzen, und achtet auf ungehinderten Zugang.
-
-<sup>2</sup> Es sorgt dafür, dass die Stimmabgabe durch die Berechtigten persönlich und geheim erfolgt. Das Wahlbüro achtet auf allfällige widerrechtliche Teilnahme an der Stimmhandlung und erstattet darüber dem Gemeinderat Bericht.
-
-<sup>3</sup> Nach Schliessung des Wahllokals öffnet das Wahlbüro die Urnen, ermittelt das Ergebnis und erstellt das Protokoll, dessen Form und Inhalt der Gemeinderat in einem Reglement festlegt. Bei Wahlen können diese Aufgaben einem einzigen Zentralwahlbüro übertragen werden.
-
-<sup>4</sup> Das Wahlbüro entscheidet vorläufig über die Gültigkeit der abgegebenen Stimmen.
-
-<sup>5</sup> Nach Ermittlung des Ergebnisses stellen die Wahlbüros die Protokolle, Stimmzettel, Stimmrechtsausweise und alle weiteren Akten der Gemeindeverwaltung zu.
-
-#### § 19
-
-**Unzulässige Beeinflussung der Stimmberechtigten**
-
-<sup>1</sup> Jede Beeinflussung oder Behinderung der Stimmberechtigten im Wahllokal und dessen unmittelbarer Nähe ist untersagt. Während des Urnenganges und der Ermittlung der Ergebnisse ist der Aufenthalt von Unbefugten im Wahllokal verboten. Das Wahlbüro ist verpflichtet, Personen, die diesem Verbot zuwiderhandeln, wegzuweisen.
-
-<sup>2</sup> Die Mitglieder sowie Sekretärinnen und Sekretäre des Wahlbüros haben sich jeder Beeinflussung der Stimmberechtigten zu enthalten.
-
-#### § 20
-
-**Urnen, Kontrollstempel**
-
-<sup>1</sup> Die Urnen sind mit versiegeltem Deckel aufzustellen. Wenn der Urnengang unterbrochen wird oder wenn Urnen, die Stimmzettel enthalten, in ein anderes Lokal gebracht werden müssen, so sind Deckel und Einwurf zu versiegeln.
-
-<sup>2</sup> Die Kontrollstempel sind in verschlossenen und versiegelten Kästchen zu transportieren. Während Unterbrechungen der Wahlhandlungen sind sie in den Kästchen in gleicher Weise wie die Urne aufzubewahren.
-
-#### § 21
-
-**Schweigepflicht**
-
-<sup>1</sup> Alle mit der Durchführung von Wahlen und Abstimmungen betrauten Personen haben das Stimmgeheimnis zu wahren.
-
-#### § 22
-
-**Entschädigung**
-
-<sup>1</sup> Die Mitglieder des Wahlbüros, die Sekretärinnen und Sekretäre sowie das Abwartspersonal werden für ihre Tätigkeit bei Wahlen und Abstimmungen entschädigt. Die Höhe der Entschädigung wird durch den Gemeinderat festgelegt.
-
-### III.A.3. Durchführung der Wahlen und Abstimmungen
-
-#### § 23
-
-**Administrative Aufgaben**
-
-<sup>1</sup> Der Gemeinderat setzt die Termine für Wahlen und Abstimmungen fest. Wahlen sind in der Regel drei Monate, Abstimmungen zwei Monate im voraus bekanntzugeben.
-
-<sup>2</sup> Die Stimmberechtigten sind durch öffentliche Aufforderungen einzuladen, Beanstandungen wegen nicht erhaltener oder unrichtiger Stimmrechtsausweise, Wahl oder Stimmzettel bis Schalterschluss am Freitag vor dem Wahl- oder Abstimmungssonntag bei der Gemeindeverwaltung anzubringen, die darüber unverzüglich entscheidet.
-
-<sup>3</sup> Stimmberechtigte, die ihren Stimmrechtsausweis verloren haben, können bei der Gemeindeverwaltung bis Schalterschluss am Freitag vor dem Wahl- und Abstimmungssonntag einen neuen beziehen, sofern sie den Verlust glaubhaft machen.
-
-#### § 24
-
-**Amtliche Erläuterungen**
-
-<sup>1</sup> Den Abstimmungsunterlagen sind kurze, sachliche Erläuterungen des Gemeinderates zur Vorlage beizulegen, die auch den gegnerischen Auffassungen Rechnung tragen.
-
-#### § 24a
-
-**Amtliche Stimmzettel**
-
-<sup>1</sup> Der amtliche Stimmzettel enthält die Abstimmungsfragen und neben jeder Frage Felder zum Ankreuzen der möglichen Antworten.
-
-#### § 25
-
-**Bedingte Eventualabstimmung**
-
-<sup>1</sup> Abstimmungen mit mehr als einer Frage sind mit bedingter Eventualabstimmung (doppeltes Ja mit Stichfrage) durchzuführen.
-
-#### § 26
-
-**Annahme**
-
-<sup>1</sup> Für die Annahme einer Abstimmungsvorlage ist die Mehrheit der gültigen Stimmen erforderlich. Bei Stimmengleichheit gilt die Vorlage als abgelehnt.
-
-<sup>2</sup> Zur Erlangung des Ergebnisses einer bedingten Eventualabstimmung wird zuerst jede Frage getrennt ausgemehrt. Unbeantwortete Fragen fallen für die Bestimmung des Mehrs ausser Betracht. Werden sowohl die Initiative als auch der Gegenvorschlag angenommen, so ist das Ergebnis der Stichfrage entscheidend.
-
-### III.B. Abstimmungen
-
-### III.B.1. Volksinitiative
-
-#### § 27
-
-**Allgemeines**
-
-<sup>1</sup> Eintausend Stimmberechtigte können schriftlich zuhanden des Einwohnerrates bei dessen Präsidenten oder Präsidentin das Begehren um Erlass, Abänderung oder Aufhebung einer Ordnung oder um Erlass eines referendumsfähigen Beschlusses stellen.
-
-<sup>2</sup> Das Begehren kann entweder in der Form einer formulierten oder einer unformulierten Initiative eingebracht werden.
-
-#### § 28
-
-**Formulierte Initiative**
-
-<sup>1</sup> Begehren gelten als formulierte Initiative, wenn sie den Entwurf eines Erlasses oder Beschlusses enthalten.
-
-<sup>2</sup> Sofern sie Recht ändern oder aufheben wollen, müssen sie den betreffenden Erlass oder Beschluss sowie die betroffenen Paragraphen bezeichnen.
-
-#### § 29
-
 **Unformulierte Initiative**
 
-<sup>1</sup> Begehren gelten als unformulierte Initiative, wenn sie in der Form einer allgemeinen Anregung abgefasst sind.
+<sup>1</sup> Begehren gelten als unformulierte Initiativen, wenn sie in der Form einer allgemeinen Anregung verfasst sind oder die Voraussetzungen von § 8 nicht erfüllen.
 
-<sup>2</sup> Unformulierte Initiativen müssen Inhalt und Zweck des Begehrens eindeutig umschreiben.
+<sup>2</sup> Sie müssen Inhalt und Zweck des Initiativbegehrens eindeutig umschreiben.
 
-#### § 30
+### 2.2. Formelle Erfordernisse der Initiative
 
-**Zulässigkeit der Initiative**
-
-<sup>1</sup> Das Initiativbegehren ist zulässig, wenn es höherstehendem Recht nicht widerspricht, sich nur mit einem Gegenstand befasst und nicht etwas Unmögliches oder offensichtlich Rechtswidriges verlangt.
-
-#### § 31
+#### § 10
 
 **Unterschriftenliste**
 
 <sup>1</sup> Wird eine Initiative zur Unterzeichnung aufgelegt, so hat die Unterschriftenliste folgende Angaben zu enthalten:
 
-- 1\. den Wortlaut des Begehrens;
-- 2\. die Namen und Adressen von mindestens sieben Urheberinnen und Urhebern der Initiative (Initiativkomitee);
-- 3\. den Hinweis, dass die Initiative von einer auf der Unterschriftenliste genannten Mehrheit der dem Initiativkomitee noch angehörenden Mitglieder zurückgezogen werden kann;
-- 4\. den Hinweis, dass sich strafbar macht, wer das Ergebnis einer Unterschriftensammlung für eine Initiative fälscht (Art. 282 des Schweizerischen Strafgesetzbuches).
+- a) den Wortlaut des Initiativbegehrens und das Datum der Publikation im Kantonsblatt;
+- b) die Namen und Adressen von mindestens sieben Urheberinnen oder Urhebern der Initiative (Initiativkomitee);
+- c) eine vorbehaltlose Rückzugsklausel im Sinne von § 16 und
+- d) den Hinweis, dass sich strafbar macht, wer bei der Unterschriftensammlung besticht oder sich bestechen lässt (Art. 281 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, StGB[^10-1]) oder wer das Ergebnis einer Unterschriftensammlung für eine Initiative fälscht (Art. 282 StGB).
 
-#### § 32
+<sup>2</sup> Wer eine elektronisch zur Verfügung gestellte Unterschriftenliste verwendet, ist dafür verantwortlich, dass diese allen gesetzlichen Formerfordernissen genügt.
+
+[^10-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### § 11
 
 **Vorprüfung**
 
-<sup>1</sup> Die Unterschriftenliste ist vor Beginn der Unterschriftensammlung der Gemeindeverwaltung einzureichen. Diese stellt innerhalb von zwei Wochen durch Verfügung fest, ob die Unterschriftenliste den gesetzlichen Formvorschriften entspricht.
+<sup>1</sup> Die Unterschriftenliste ist vor Beginn der Unterschriftensammlung der Gemeindeverwaltung einzureichen. Diese stellt innerhalb von zwei Wochen durch Verfügung fest, ob sie den gesetzlichen Formvorschriften entspricht.
 
-<sup>2</sup> Ist der Titel der Initiative offensichtlich irreführend, enthält er kommerzielle oder persönliche Werbung oder gibt er zu Verwechslungen Anlass, so wird er durch die Gemeindeverwaltung nach Rücksprache mit dem Initiativkomitee durch Verfügung geändert.
+<sup>2</sup> Ist der Titel der Initiative irreführend, enthält er kommerzielle oder persönliche Werbung oder gibt er zu Verwechslungen Anlass, verfügt die Gemeindeverwaltung nach Rücksprache mit dem Initiativkomitee dessen Änderung.
 
-<sup>3</sup> Titel und Text der Initiative sowie Kontaktadresse des Initiativkomitees werden durch die Gemeindeverwaltung im Kantonsblatt veröffentlicht.
+<sup>3</sup> Titel und Text der Initiative sowie Kontaktadresse des Initiativkomitees werden durch die Gemeindeverwaltung im Kantonsblatt publiziert.
 
-<sup>4</sup> Die Initiativkomitees können sich bei der Abfassung einer Initiative von der zuständigen Stelle der Gemeindeverwaltung rechtlich beraten lassen. Die Auskunft bindet weder das Initiativkomitee noch den Gemeinderat und den Einwohnerrat.
+<sup>4</sup> Das Initiativkomitee kann sich bei der Abfassung einer Initiative von der Gemeindeverwaltung rechtlich beraten lassen. Die Auskunft bindet weder das Initiativkomitee noch den Gemeinderat oder den Einwohnerrat.
 
-#### § 33
+#### § 12
 
-**Unterschrift**
+**Unterzeichnung**
 
-<sup>1</sup> Die Stimmberechtigten müssen ihren Namen handschriftlich und leserlich auf die Unterschriftenliste schreiben. Sie müssen gleichzeitig Vorname, Geburtsjahr und Adresse angeben.
+<sup>1</sup> Die Stimmberechtigten müssen Namen und Vornamen handschriftlich und leserlich auf die Unterschriftenliste schreiben sowie zusätzlich ihre eigenhändige Unterschrift beifügen.
 
-<sup>2</sup> Die Stimmberechtigten dürfen das gleiche Initiativbegehren nur einmal unterschreiben.
+<sup>2</sup> Schreibunfähige Stimmberechtigte können die Eintragung ihres Namenszuges durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
 
-#### § 34
+<sup>3</sup> Die Stimmberechtigten müssen zusätzlich Geburtsdatum und Adresse auf der Unterschriftenliste eintragen.
+
+<sup>4</sup> Die Stimmberechtigten dürfen das gleiche Initiativbegehren nur einmal unterzeichnen.
+
+#### § 13
 
 **Einreichung**
 
-<sup>1</sup> Die Unterschriftenlisten einer Initiative sind bei der Gemeindeverwaltung gesamthaft und spätestens ein Jahr nach der Veröffentlichung des Initiativtextes einzureichen.
+<sup>1</sup> Sämtliche Unterschriftenlisten sind bei der Gemeindeverwaltung spätestens ein Jahr nach der Publikation des Initiativtextes im Kantonsblatt einzureichen.
 
 <sup>2</sup> Eingereichte Unterschriftenlisten werden nicht zurückgegeben und können nicht eingesehen werden.
 
-#### § 35
+#### § 14
 
 **Prüfung des Zustandekommens**
 
-<sup>1</sup> Die Gemeindeverwaltung prüft, ob eine Initiative die vorgeschriebene Zahl der gültigen Unterschriften aufweist.
+<sup>1</sup> Die Gemeindeverwaltung prüft, ob eine Initiative die vorgeschriebene Zahl gültiger Unterschriften aufweist.
 
 <sup>2</sup> Ungültig sind:
 
-- 1\. Unterschriften auf Listen, welche die Erfordernisse nach § 31 nicht erfüllen;
-- 2\. Unterschriften von nicht Stimmberechtigten.
+- a) Unterschriften auf Listen, welche die Erfordernisse gemäss § 10 nicht erfüllen oder
+- b) Unterschriften von nicht Stimmberechtigten.
 
-<sup>3</sup> Der Gemeinderat veröffentlicht die Verfügung über das Zustandekommen im Kantonsblatt.
+<sup>3</sup> Die Verfügung der Gemeindeverwaltung über das Zustandekommen der Initiative wird nach Kenntnisnahme durch den Gemeinderat im Kantonsblatt publiziert.
 
-#### § 36
+#### § 15
 
-**Rückzug**
+**Rekurs**
 
-<sup>1</sup> Jede Initiative kann von einer im voraus bestimmten Mehrheit der dem Initiativkomitee noch angehörenden Mitglieder zurückgezogen werden.
+<sup>1</sup> Gegen Verfügungen der Gemeindeverwaltung gemäss den §§ 11 und 14 kann beim Gemeinderat Rekurs erhoben werden.
 
-<sup>2</sup> Der Rückzug ist nicht mehr zulässig, wenn der Gemeinderat die Volksabstimmung über eine Initiative angesetzt hat.
+<sup>2</sup> Der Rekurs ist innert zehn Tagen seit Eröffnung der Verfügung anzumelden und innert dreissig Tagen, vom gleichen Zeitpunkt an gerechnet, ist die Rekursbegründung einzureichen.
 
-#### § 37
+<sup>3</sup> Zum Rekurs gegen Verfügungen gemäss § 11 ist einzig die Mehrheit des Initiativkomitees berechtigt. Zum Rekurs gegen Verfügungen gemäss § 14 ist jede stimmberechtigte Person berechtigt.
 
-**Behandlung**
+#### § 16
 
-<sup>1</sup> Der Gemeinderat nimmt innert dreier Monate mit Bericht und Antrag zuhanden des Einwohnerrats zur Frage der rechtlichen Zulässigkeit Stellung.
+**Rückzug der Initiative**
 
-<sup>2</sup> Der Einwohnerrat behandelt das Geschäft in seiner nächsten Sitzung.
+<sup>1</sup> Die Initiative kann von einer in der Unterschriftenliste definierten Mehrheit von Mitgliedern, die dem Initiativkomitee noch angehören, zurückgezogen werden.
 
-#### § 38
+<sup>2</sup> Der Rückzug ist nicht mehr zulässig, wenn der Gemeinderat den Termin für die Volksabstimmung über eine Initiative publiziert hat.
 
-**Feststellung der rechtlichen Zulässigkeit**
+### 2.3. Materielle Erfordernisse der Initiative
 
-<sup>1</sup> Der Einwohnerrat entscheidet über die rechtliche Zulässigkeit der Initiative.
+#### § 17
 
-<sup>2</sup> Der Entscheid wird im Kantonsblatt veröffentlicht. Er ist vom fakultativen Referendum ausgenommen.
+**Voraussetzungen der rechtlichen Zulässigkeit**
 
-<sup>3</sup> Der Gemeinderat eröffnet dem Initiativkomitee den Entscheid, unter Hinweis auf das Rekursrecht.
+<sup>1</sup> Die Initiative ist rechtlich unzulässig, wenn sie:
 
-#### § 39
+- a) gegen übergeordnetes Recht verstösst;
+- b) undurchführbar ist oder
+- c) die Einheit der Materie nicht wahrt.
 
-**Eintretensentscheid**
+#### § 18
 
-<sup>1</sup> Der Einwohnerrat stellt fest, ob es sich um eine formulierte oder eine unformulierte Initiative gemäss den §§ 28 und 29 dieser Ordnung handelt.
+**Antrag des Gemeinderats**
 
-<sup>2</sup> Beschliesst der Einwohnerrat, auf die Initiative einzutreten, so muss er eine formulierte Initiative gemäss § 40, eine unformulierte Initiative gemäss § 41 dieser Ordnung weiterbehandeln.
+<sup>1</sup> Der Gemeinderat stellt dem Einwohnerrat innerhalb von drei Monaten seit der Publikation über das Zustandekommen den Antrag, die Initiative für rechtlich zulässig oder unzulässig zu erklären.
 
-<sup>3</sup> Tritt der Einwohnerrat auf die Initiative nicht ein, so ist sie samt dem Nichteintretensbeschluss und der Feststellung, ob es sich um eine formulierte oder unformulierte Initiative handelt, unverzüglich im Kantonsblatt zu veröffentlichen und vom Gemeinderat beförderlich den Stimmberechtigten vorzulegen.
+<sup>2</sup> Während der Dauer eines Rechtsmittelverfahrens über das Zustandekommen der Initiative steht diese Frist still.
 
-<sup>4</sup> Stimmt die Mehrheit der Stimmenden einer formulierten Initiative zu, so wird der entsprechende Beschluss sofort wirksam. Wird eine unformulierte Initiative angenommen, so ist sie vom Einwohnerrat gemäss § 41 zu behandeln.
+#### § 19
 
-#### § 40
+**Entscheid über die rechtliche Zulässigkeit**
 
-**Behandlung einer formulierten Initiative im Einwohnerrat**
+<sup>1</sup> Der Einwohnerrat entscheidet in seiner nächsten Sitzung über die rechtliche Zulässigkeit der Initiative.
 
-<sup>1</sup> Nach dem Eintretensbeschluss überweist der Einwohnerrat eine formulierte Initiative zur Berichterstattung an eine Kommission oder an den Gemeinderat.
+<sup>2</sup> Der Entscheid wird im Kantonsblatt publiziert, er ist vom Referendum ausgenommen.
 
-<sup>2</sup> Die beauftragte Gemeindebehörde unterbreitet dem Einwohnerrat innerhalb eines Jahres die allfällig notwendigen Ergänzungen der Initiative und eventuell einen Gegenvorschlag.
+<sup>3</sup> Der Entscheid des Einwohnerrats über die rechtliche Zulässigkeit kann von jeder stimmberechtigen Person gemäss § 26 des Gemeindegesetzes angefochten werden.
 
-<sup>3</sup> Der Einwohnerrat behandelt diesen Bericht unverzüglich und entscheidet, ob er das Geschäft zu einer zweiten Berichterstattung innerhalb höchstens eines weiteren Jahres zurückweisen will. Bei Rückweisung beschliesst er gleichzeitig, ob ein Gegenvorschlag ausgearbeitet werden soll.
+### 2.4. Behandlung der Initiative im Einwohnerrat
 
-<sup>4</sup> Spätestens bei der Behandlung des zweiten Berichts entscheidet der Einwohnerrat, ob er den Stimmberechtigten die Annahme oder die Verwerfung der formulierten Initiative empfehlen und ob er ihnen einen Gegenvorschlag unterbreiten will.
+### 2.4.1. Erstbehandlung
 
-<sup>5</sup> Initiative und allfälliger Gegenvorschlag werden im Kantonsblatt veröffentlicht und vom Gemeinderat beförderlich den Stimmberechtigten vorgelegt. Wird den Stimmberechtigten auch ein Gegenvorschlag unterbreitet, so ist über beide Vorschläge gleichzeitig abzustimmen.
+#### § 20
 
-<sup>6</sup> Werden sowohl die Initiative als auch der Gegenvorschlag angenommen, so ist das Ergebnis der Stichfrage entscheidend.
+**Verfahrensentscheid**
 
-#### § 41
+<sup>1</sup> Beschliesst der Einwohnerrat, dass die Initiative rechtlich zulässig ist, entscheidet er in derselben Sitzung über das weitere Verfahren.
 
-**Behandlung einer unformulierten Initiative im Einwohnerrat**
+<sup>2</sup> Wird die rechtliche Zulässigkeit der Initiative gemäss § 19 durch eine Rechtsmittelinstanz festgestellt, erfolgt der Verfahrensentscheid des Einwohnerrats nach Eintritt der Rechtskraft des Entscheids.
 
-<sup>1</sup> Nach dem Eintretensbeschluss überweist der Einwohnerrat eine unformulierte Initiative zur Ausarbeitung eines dem Begehren der Initianten und Initiantinnen entsprechenden Beschlusses an eine Kommission oder an den Gemeinderat.
+<sup>3</sup> Der Verfahrensentscheid des Einwohnerrats legt fest, die Initiative entweder:
 
-<sup>2</sup> Die beauftragte Gemeindebehörde unterbreitet dem Einwohnerrat innerhalb eines Jahres einen Entwurf sowie eventuell einen Gegenvorschlag.
+- a) unmittelbar dem Volk ohne Gegenvorschlag zur Abstimmung vorzulegen oder
+- b) dem Gemeinderat oder einer Kommission zur Berichterstattung zu überweisen.
 
-<sup>3</sup> Der Einwohnerrat behandelt diesen Bericht unverzüglich und entscheidet, ob er das Geschäft zu einer zweiten Berichterstattung innerhalb höchstens eines weiteren Jahres zurückweisen will. Bei Rückweisung beschliesst er gleichzeitig, ob ein Gegenvorschlag ausgearbeitet werden soll.
+<sup>4</sup> Vor dem Verfahrensentscheid zu einer unformulierten Initiative kann der Einwohnerrat vom Gemeinderat oder von einer Kommission eine vertiefte inhaltliche Beurteilung verlangen, die diese innert sechs Monaten in Form einer Stellungnahme vorlegen müssen.
 
-<sup>4</sup> Spätestens bei der Behandlung des zweiten Berichts erlässt der Einwohnerrat einen dem Begehren der Initianten und Initiantinnen entsprechenden Beschluss. Dieser ist zusammen mit einem allfälligen Gegenvorschlag den Stimmberechtigten zu unterbreiten. Dabei gelten sinngemäss die Bestimmungen von § 40 Abs. 5 und 6 dieser Ordnung.
+#### § 21
 
-### III.B.2. Referendum
+**Unmittelbare Volksabstimmung**
 
-#### § 42
+<sup>1</sup> Beschliesst der Einwohnerrat, die Initiative direkt dem Volk vorzulegen, so ist sie samt der Feststellung, ob es sich um eine formulierte oder unformulierte Initiative handelt, im Kantonsblatt zu publizieren und beförderlich den Stimmberechtigten vorzulegen.
 
-**Veröffentlichung, Frist**
+<sup>2</sup> Stimmt die Mehrheit der Stimmberechtigten einer formulierten Initiative zu, tritt der entsprechende Beschluss gemäss dem Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt (Publikationsgesetz) vom 19. Oktober 2016[^21-1] in Kraft.
 
-<sup>1</sup> Erlasse und Beschlüsse, die dem Referendum unterliegen, werden mit den erforderlichen Hinweisen auf die Referendumsmöglichkeit im Kantonsblatt veröffentlicht, sofern der Einwohnerrat nicht beschlossen hat, seinen Entscheid der Gesamtheit der Stimmberechtigten direkt zu unterbreiten.
+<sup>3</sup> Stimmt die Mehrheit der Stimmberechtigten einer unformulierten Initiative zu, ist diese vom Einwohnerrat gemäss § 22 weiter zu behandeln.
 
-<sup>2</sup> Die Referendumsfrist dauert 30 Tage von der Veröffentlichung an.
+[^21-1]: SG [151.200](https://www.gesetzessammlung.bs.ch/data/151.200/de)
 
-#### § 43
+#### § 22
 
-**Unterschriftenliste, Unterschriften**
+**Berichterstattung**
 
-<sup>1</sup> Wird ein Referendum zur Unterzeichnung aufgelegt, so hat die Unterschriftenliste folgende Angaben zu enthalten:
+<sup>1</sup> Wird die Initiative zur Berichterstattung überwiesen, muss der Gemeinderat oder die Kommission innerhalb eines Jahres Bericht erstatten. Dabei gilt, dass:
 
-- 1\. die Bezeichnung des Erlasses mit dem Datum der Beschlussfassung durch den Einwohnerrat;
-- 2\. den Hinweis, dass sich strafbar macht, wer das Ergebnis einer Unterschriftensammlung für ein Referendum fälscht (Art. 282 des Schweizerischen Strafgesetzbuches).
+- a) einer formulierten Initiative ein ausformulierter Gegenvorschlag gegenübergestellt werden kann;
+- b) zu einer unformulierten Initiative eine ausformulierte Vorlage erarbeitet werden muss, die dem Initiativbegehren entspricht; der ausformulierten Vorlage kann ein ausformulierter Gegenvorschlag gegenübergestellt werden.
 
-<sup>2</sup> Die für die Initiative geltenden Bestimmungen über die Unterschrift (§ 33) sind sinngemäss auch für das Referendum anwendbar.
+### 2.4.2. Weiterbehandlung einer formulierten Initiative
 
-#### § 44
+#### § 23
+
+**Entscheid über zweite Berichterstattung**
+
+<sup>1</sup> Der Einwohnerrat behandelt den Bericht des Gemeinderats oder der Kommission zu einer formulierten Initiative an seiner nächsten Sitzung und entscheidet, ob er das Geschäft zu einer zweiten Berichterstattung innert längstens eines weiteren Jahres zurückweisen will.
+
+<sup>2</sup> Bei Rückweisung beschliesst er zudem, ob ein Gegenvorschlag ausgearbeitet werden soll.
+
+#### § 24
+
+**Volksabstimmung zur formulierten Initiative**
+
+<sup>1</sup> Spätestens bei der Behandlung des zweiten Berichts, entscheidet der Einwohnerrat, ob er den Stimmberechtigten die formulierte Initiative zur Annahme oder Verwerfung empfehlen und ob er ihnen einen Gegenvorschlag unterbreiten will.
+
+<sup>2</sup> Initiative und allfälliger Gegenvorschlag werden im Kantonsblatt publiziert und vom Gemeinderat beförderlich den Stimmberechtigten vorgelegt.
+
+<sup>3</sup> Wird den Stimmberechtigten auch ein Gegenvorschlag unterbreitet, wird über beide Vorlagen gleichzeitig abgestimmt. Werden sowohl die Initiative als auch der Gegenvorschlag angenommen, ist das Ergebnis der Stichfrage entscheidend.
+
+### 2.4.3. Weiterbehandlung einer unformulierten Initiative
+
+#### § 25
+
+**Entscheid über zweite Berichterstattung**
+
+<sup>1</sup> Der Einwohnerrat behandelt den Bericht und die ausformulierte Vorlage des Gemeinderats oder der Kommission zu einer unformulierten Initiative an seiner nächsten Sitzung und entscheidet, ob er das Geschäft zu einer zweiten Berichterstattung innert längstens eines weiteren Jahres zurückweisen will.
+
+<sup>2</sup> Bei Rückweisung beschliesst er gleichzeitig, ob ein Gegenvorschlag ausgearbeitet werden soll.
+
+#### § 26
+
+**Volksabstimmung zur unformulierten Initiative**
+
+<sup>1</sup> Spätestens bei der Behandlung des zweiten Berichts erlässt der Einwohnerrat einen ausformulierten Beschluss, der dem Begehren des Initiativkomitees entspricht. Er entscheidet ausserdem, ob er den Stimmberechtigten den Beschluss zur Annahme oder Verwerfung empfehlen und ob er ihnen einen Gegenvorschlag unterbreiten will.
+
+<sup>2</sup> Der Beschluss ist zusammen mit einem allfälligen Gegenvorschlag beförderlich den Stimmberechtigten zu unterbreiten.
+
+<sup>3</sup> Es gelten sinngemäss § 24 Abs. 2 und 3.
+
+## 3. Referendum
+
+#### § 27
+
+**Publikation und Referendumsfrist**
+
+<sup>1</sup> Erlasse und Beschlüsse, die dem Referendum unterliegen, werden unter Hinweis auf die Referendumsmöglichkeit im Kantonsblatt publiziert, sofern der Einwohnerrat nicht beschlossen hat, seinen Entscheid den Stimmberechtigten direkt vorzulegen.
+
+<sup>2</sup> Die Referendumsfrist beträgt 30 Tage ab dem Tag nach der Publikation im Kantonsblatt.
+
+#### § 28
+
+**Unterschriftenliste und Unterschriften**
+
+<sup>1</sup> Die Unterschriftenliste hat folgende Angaben zu enthalten:
+
+- a) die Bezeichnung des Erlasses oder Beschlusses, über den die Volksabstimmung verlangt wird, mit dem Datum der Beschlussfassung durch den Einwohnerrat und
+- b) den Hinweis, dass sich strafbar macht, wer bei der Unterschriftensammlung besticht oder sich bestechen lässt (Art. 281 StGB) oder wer das Ergebnis einer Unterschriftensammlung für ein Referendum fälscht (Art. 282 StGB).
+
+<sup>2</sup> Die für die Initiative geltenden Bestimmungen über die Unterschrift gemäss § 12 sind sinngemäss auch für das Referendum anwendbar.
+
+#### § 29
 
 **Einreichung**
 
-<sup>1</sup> Die Unterschriftenlisten eines Referendums sind innerhalb der Referendumsfrist bei der Gemeindeverwaltung einzureichen.
+<sup>1</sup> Sämtliche Unterschriftenlisten eines Referendums sind innerhalb der Referendumsfrist bei der Gemeindeverwaltung einzureichen.
 
 <sup>2</sup> Eingereichte Unterschriftenlisten werden nicht zurückgegeben und können nicht eingesehen werden.
 
-#### § 45
+#### § 30
 
 **Zustandekommen**
 
-<sup>1</sup> Das Referendum ist zustande gekommen, wenn es mindestens fünfhundert gültige Unterschriften aufweist.
+<sup>1</sup> Das Referendum ist zustande gekommen, wenn es die in § 12 der Gemeindeordnung vorgeschriebene Anzahl gültiger Unterschriften aufweist.
 
 <sup>2</sup> Die Gemeindeverwaltung prüft nach Ablauf der Referendumsfrist die Gültigkeit der eingereichten Unterschriften.
 
 <sup>3</sup> Ungültig sind:
 
-- 1\. Unterschriften auf Listen, welche die Erfordernisse nach § 43 Abs. 1 nicht erfüllen;
-- 2\. Unterschriften von nicht Stimmberechtigten.
+- a) Unterschriften auf Listen, welche die Erfordernisse gemäss § 28 nicht erfüllen oder
+- b) Unterschriften von nicht Stimmberechtigten.
 
-<sup>4</sup> Der Gemeinderat veröffentlicht die Verfügung über das Zustandekommen im Kantonsblatt.
+#### § 31
 
-#### § 46
+**Verfügung und Rekurs**
+
+<sup>1</sup> Die Gemeindeverwaltung erlässt eine Verfügung über das Zustandekommen des Referendums und publiziert diese nach Kenntnisnahme durch den Gemeinderat im Kantonsblatt.
+
+<sup>2</sup> Wird innert Frist kein Referendum ergriffen oder kommt das Referendum nicht zustande, erklärt die Gemeindeverwaltung den betreffenden Erlass oder Beschluss nach Kenntnisnahme durch den Gemeinderat in einer im Kantonsblatt zu publizierenden Verfügung für rechtskräftig.
+
+<sup>3</sup> Gegen diese Verfügungen der Gemeindeverwaltung kann von jeder stimmberechtigten Person beim Gemeinderat Rekurs erhoben werden. Der Rekurs ist innert zehn Tagen seit Eröffnung der Verfügung anzumelden und innert dreissig Tagen, vom gleichen Zeitpunkt an gerechnet, ist die Rekursbegründung einzureichen.
+
+#### § 32
 
 **Rückzug**
 
 <sup>1</sup> Ein Referendum kann nicht zurückgezogen werden.
 
+#### § 33
+
+**Volksabstimmung**
+
+<sup>1</sup> Kommt das Referendum zustande oder beschliesst der Einwohnerrat, seinen Entscheid den Stimmberechtigten direkt vorzulegen, so hat der Gemeinderat die Vorlage den Stimmberechtigten beförderlich zu unterbreiten.
+
+<sup>2</sup> Der Beschluss des Einwohnerrats über die Totalrevision der Gemeindeordnung unterliegt dem obligatorischen Referendum.
+
+## 4. Wahlen und Abstimmungen
+
+### 4.1. Gemeinsame Bestimmungen zur Durchführung von Wahlen und Abstimmungen
+
+### 4.1.1. Vorbereitung
+
+#### § 34
+
+**Festlegung des Termins**
+
+<sup>1</sup> Der Gemeinderat setzt die Termine für sämtliche Wahlen und Abstimmungen fest und publiziert diese im Kantonsblatt.
+
+<sup>2</sup> Termine für Wahlen sind spätestens drei Monate, jene für Abstimmungen spätestens zwei Monate im Voraus zu publizieren. Vorbehalten bleiben die §§ 79 Abs. 3, 92 und 98.
+
+#### § 35
+
+**Zustellung Stimmrechtsausweise sowie Wahl- und Stimmzettel**
+
+<sup>1</sup> Gestützt auf das Stimmregister werden die Stimmrechtsausweise durch die Gemeindeverwaltung ausgefertigt.
+
+<sup>2</sup> Die Stimmrechtsausweise werden den Stimmberechtigten zusammen mit den Wahl- und Stimmzetteln mindestens drei, frühestens vier Wochen vor dem Wahl- oder Abstimmungssonntag zugestellt. Vorbehalten bleibt § 90.
+
+<sup>3</sup> Die Stimmberechtigten sind durch öffentliche Bekanntmachung aufzufordern, Beanstandungen wegen nicht erhaltener oder unrichtiger Stimmrechtsausweise, Wahl- oder Stimmzettel bis zum Schalterschluss am Freitag vor dem Wahl- oder Abstimmungssonntag bei der Gemeindeverwaltung vorzubringen, die unverzüglich darüber entscheidet.
+
+<sup>4</sup> Stimmberechtigte, die glaubhaft machen, ihren Stimmrechtsausweis nicht erhalten oder verloren zu haben, können bis spätestens Freitag vor dem Wahl- oder Abstimmungssonntag während der Öffnungszeiten bei der Gemeindeverwaltung einen neuen beziehen.
+
+### 4.1.2. Wahl- und Stimmlokal
+
+#### § 36
+
+**Begriff**
+
+<sup>1</sup> Das Wahl- und Stimmlokal dient der persönlichen Stimmabgabe an der Urne.
+
+<sup>2</sup> Der Gemeinderat legt die Öffnungszeiten des Wahl- und Stimmlokals fest.
+
+### 4.1.3. Wahl- und Abstimmungsbüro
+
+#### § 37
+
+**Bestellung und Organisation**
+
+<sup>1</sup> Der Vorstand des Wahl- und Abstimmungsbüros besteht aus der Generalsekretärin oder dem Generalsekretär als Vorsitzende oder Vorsitzender und der zuständigen Person für Wahlen und Abstimmungen sowie einem weiteren Mitglied des Wahl- und Abstimmungsbüros als Stellvertretung.
+
+<sup>2</sup> Der Vorstand bestimmt die weiteren Mitglieder des Wahl- und Abstimmungsbüros, die Stellvertretungen und weitere unterstützende Funktionen aus der Gemeindeverwaltung.
+
+<sup>3</sup> Zusätzlich können Stimmberechtigte zur Mitwirkung im Wahl- und Abstimmungsbüro eingesetzt werden, sofern sie nicht selbst zur Wahl vorgeschlagen sind.
+
+<sup>4</sup> Das Wahl- und Abstimmungsbüro trifft seine Entscheidungen nach Stimmenmehrheit der anwesenden Mitglieder. Bei Stimmengleichheit hat die oder der Vorsitzende den Stichentscheid.
+
+#### § 38
+
+**Verantwortung**
+
+<sup>1</sup> Das Wahl- und Abstimmungsbüro gewährleistet, dass die Stimmabgabe persönlich und geheim erfolgt und keine Beeinflussung der Stimmberechtigten im Wahl- und Stimmlokal oder in dessen unmittelbarer Nähe stattfindet.
+
+<sup>2</sup> Alle mit der Durchführung von Wahlen und Abstimmungen betrauten Personen wahren das Stimmgeheimnis.
+
+#### § 39
+
+**Aufgaben und Befugnisse**
+
+<sup>1</sup> Das Wahl- und Abstimmungsbüro hat insbesondere folgende Aufgaben:
+
+- a) Prüfung, Erfassung sowie Gewährleistung der sicheren Aufbewahrung eingehender Stimmkuverts;
+- b) Sicherstellung des ungehinderten Zugangs der Stimmberechtigten zum Wahl- und Stimmlokal und Verweigerung des Zutritts zum Wahl- und Stimmlokal sowie zum Wahl- und Abstimmungsbüro durch Unbefugte;
+- c) Sicherstellung, dass keine Propaganda sowie keine Unterschriftensammlung für Initiativbegehren oder Referenden im und vor dem Wahl- und Stimmlokal erfolgt;
+- d) Öffnung der Urnen, Ermittlung der Ergebnisse und Erstellung der Protokolle;
+- e) Prüfung der Gültigkeit der abgegebenen Stimmen;
+- f) Sichere Aufbewahrung der Protokolle, Wahl- und Stimmzettel, Stimmrechtsausweise und weiterer Akten bis zur Validierung der Abstimmung oder Wahl;
+- g) Sicherstellung der Publikation der Ergebnisse.
+
+#### § 40
+
+**Technische Hilfsmittel**
+
+<sup>1</sup> Zur Ermittlung des Wahl- und Abstimmungsergebnisses können technische Hilfsmittel eingesetzt werden.
+
+<sup>2</sup> Kommunale Wahl- oder Stimmzettel können auf einem Stimmbogen zusammengeführt werden.
+
+#### § 41
+
+**Berichterstattung**
+
+<sup>1</sup> Das Wahl- und Abstimmungsbüro erstattet nach kommunalen Wahlen der Wahlprüfungskommission und nach kommunalen Abstimmungen dem Gemeinderat Bericht über den Ablauf der Wahlen bzw. Abstimmungen.
+
+#### § 42
+
+**Entschädigung**
+
+<sup>1</sup> Der Vorstand sowie die Mitglieder und Mitwirkenden des Wahl- und Abstimmungsbüros werden für ihre Tätigkeiten entschädigt.
+
+### 4.1.4. Ausübung des Wahl- und Stimmrechts
+
+#### § 43
+
+**Grundsatz**
+
+<sup>1</sup> Die Ausübung des Stimmrechts erfolgt persönlich an der Urne, brieflich oder elektronisch.
+
+<sup>2</sup> Es müssen die amtlichen Wahl- und Stimmzettel verwendet werden.
+
+#### § 44
+
+**Wahlkreis**
+
+<sup>1</sup> Die Gemeinde bildet einen Wahlkreis.
+
+#### § 45
+
+**Briefliche Stimmabgabe**
+
+<sup>1</sup> Die briefliche Stimmabgabe ist ab Erhalt der Wahl- und Abstimmungsunterlagen zulässig.
+
+<sup>2</sup> Die Wahl- und Stimmzettel müssen bis spätestens 12.00 Uhr am Tag vor dem Wahl- und Abstimmungssonntag bei der Gemeindeverwaltung eingegangen sein. Später eingehende Wahl- und Stimmzettel werden nicht berücksichtigt.
+
+#### § 46
+
+**Persönliche Stimmabgabe**
+
+<sup>1</sup> Die persönliche Stimmabgabe an der Urne erfolgt im Wahl- und Stimmlokal.
+
 #### § 47
 
-**Abstimmung**
+**Elektronische Stimmabgabe**
 
-<sup>1</sup> Ist das Referendum zustande gekommen oder beschliesst der Einwohnerrat, seinen Entscheid der Gesamtheit der Stimmberechtigten direkt zu unterbreiten, so hat der Gemeinderat die Vorlage den Stimmberechtigten beförderlich vorzulegen.
+<sup>1</sup> Die Stimmabgabe kann auf elektronischem Weg ausgeübt werden, wenn die technischen und organisatorischen Voraussetzungen für eine ordnungsgemässe Durchführung erfüllt sind.
+
+<sup>2</sup> Der Gemeinderat regelt die Einführung und Durchführung der elektronischen Stimmabgabe, er kann die Ausübung zeitlich, sachlich und örtlich eingrenzen.
+
+<sup>3</sup> Subsidiär gelten die kantonalen Bestimmungen zur elektronischen Stimmabgabe.
 
 #### § 48
 
-**Nichtzustandekommen**
+**Stimmabgabe durch Dritte**
 
-<sup>1</sup> Wird innert Frist kein Referendum eingereicht oder ist das Referendum nicht zustande gekommen, so stellt der Gemeinderat die Rechtskraft des entsprechenden Beschlusses fest und veröffentlicht dies im Kantonsblatt.
+<sup>1</sup> Stimmberechtigte, die infolge einer körperlichen Beeinträchtigung oder aus einem anderen Grund dauerhaft nicht in der Lage sind, die für die Stimmabgabe erforderlichen Handlungen selbst vorzunehmen, können diese durch andere Stimmberechtigte ausführen lassen.
 
-### III.B.3. Einführung der Ordentlichen Gemeindeorganisation
+<sup>2</sup> Eine weitergehende oder organisierte Stellvertretung ist nicht zulässig.
 
 #### § 49
 
-<sup>1</sup> Der Beschluss des Einwohnerrates über die Einführung der ordentlichen Gemeindeorganisation ist der Gesamtheit der Stimmberechtigten zum Entscheid vorzulegen und im Kantonsblatt zu veröffentlichen. Der Gemeinderat ordnet die Abstimmung an.
+**Ungültige Wahl- und Stimmzettel**
 
-### III.C. Wahlen
+<sup>1</sup> Wahl- und Stimmzettel sind ungültig, wenn:
 
-### III.C.1. Allgemeine Bestimmungen
+- a) sie nicht amtlich sind;
+- b) sie im Vervielfältigungsverfahren ausgefüllt sind;
+- c) sie bei persönlicher Stimmabgabe an der Urne vom Wahl- und Abstimmungsbüro nicht abgestempelt wurden;
+- d) sie ehrverletzende Bemerkungen enthalten;
+- e) bei Majorzwahlen die Zahl der auf den Wahlzetteln angekreuzten und die auf die leeren Linien geschriebenen Namen die Zahl der zu besetzenden Ämtern übersteigt.
 
 #### § 50
+
+**Ungültige Stimmen**
+
+<sup>1</sup> Einzelne Stimmen sind ungültig, wenn sie:
+
+- a) den Willen der Stimmberechtigten nicht eindeutig erkennen lassen oder
+- b) für eine nicht wählbare Person abgegeben werden.
+
+#### § 51
+
+**Leere Wahl- und Stimmzettel**
+
+<sup>1</sup> Wahl- und Stimmzettel sind leer, wenn sie überhaupt nicht ausgefüllt oder vollständig
+
+durchgestrichen sind.
+
+<sup>2</sup> Bei Majorzwahlen gelten Wahlzettel überdies als leer, wenn sämtliche gemäss § 86 angekreuzten und auf die leeren Linien geschriebenen Namen wieder durchgestrichen sind.
+
+<sup>3</sup> Leere Wahlzettel bei Majorzwahlen sind gültig.
+
+<sup>4</sup> Leere Listen bei Proporzwahlen sind nur gültig, wenn sie mindestens mit einer Listenbezeichnung oder einer Ordnungsnummer versehen sind.
+
+#### § 52
+
+**Leere Stimmen auf Stimmzetteln**
+
+<sup>1</sup> Stimmen gelten als leer, wenn auf gültigen Stimmzetteln eine von mehreren Fragen nicht beantwortet ist.
+
+### 4.1.5. Ergebnisse
+
+#### § 53
+
+**Ermittlung der Ergebnisse**
+
+<sup>1</sup> Bei der Ermittlung des Wahl- oder Abstimmungsergebnisses werden nicht berücksichtigt:
+
+- a) ungültige Wahl- und Stimmzettel;
+- b) leere Stimmzettel;
+- c) ungültige und leere Stimmen.
+
+<sup>2</sup> Vorbehalten bleiben § 73 Abs. 2 und 4.
+
+#### § 54
+
+**Protokolle**
+
+<sup>1</sup> Die Ergebnisse der Wahlen oder Abstimmungen werden vom Wahl- und Abstimmungsbüro in den entsprechenden Protokollen festgehalten.
+
+<sup>2</sup> Nach Ermittlung der Ergebnisse stellt das Wahl- und Abstimmungsbüro die Protokolle, Stimm- bzw. Wahlzettel, Stimmrechtsausweise und alle weiteren Akten der Gemeindeverwaltung für die Aufbewahrung zu.
+
+#### § 55
+
+**Anordnung einer Nachzählung von Amtes wegen**
+
+<sup>1</sup> Die Wahlprüfungskommission kann bei Wahlen und der Gemeinderat bei Abstimmungen eine Nachzählung anordnen, wenn triftige Gründe vorliegen, welche die Richtigkeit des Ergebnisses der Wahl oder Abstimmung als zweifelhaft erscheinen lassen.
+
+#### § 56
+
+**Publikation**
+
+<sup>1</sup> Die Ergebnisse der Wahlen und Abstimmungen werden im Kantonsblatt unter Hinweis auf das Beschwerderecht gemäss § 93 publiziert.
+
+#### § 57
+
+**Validierung**
+
+<sup>1</sup> Nach unbenutztem Ablauf der Beschwerdefrist oder nach Abschluss eines Beschwerdeverfahrens stellt:
+
+- a) der Einwohnerrat aufgrund eines Berichts seiner Wahlprüfungskommission das Ergebnis der Wahlen verbindlich fest;
+- b) der Gemeinderat das Ergebnis der Abstimmung verbindlich fest.
+
+<sup>2</sup> Die Beschlüsse über die Gültigkeit der Wahlen und Abstimmungen werden im Kantonsblatt publiziert.
+
+### 4.2. Abstimmungen
+
+#### § 58
+
+**Amtliche Erläuterungen**
+
+<sup>1</sup> Den Abstimmungsunterlagen sind kurze, sachliche Erläuterungen des Gemeinderats zur Vorlage
+
+beizulegen, die auch den gegnerischen Auffassungen Rechnung tragen.
+
+#### § 59
+
+**Amtliche Stimmzettel**
+
+<sup>1</sup> Der amtliche Stimmzettel enthält die Abstimmungsfragen und neben jeder Frage Felder zum Ankreuzen der möglichen Antworten.
+
+<sup>2</sup> Bei der Abstimmung über zwei einander ausschliessende Vorlagen werden die Stimmberechtigten gefragt:
+
+- a) ob sie den einzelnen Vorlagen zustimmen (Hauptfragen), und
+- b) welche der beiden Vorlagen in Kraft treten soll, falls beide Vorlagen mehr zustimmende als ablehnende Stimmen erhalten (Stichfrage).
+
+#### § 60
+
+**Annahme**
+
+<sup>1</sup> Für die Annahme einer Abstimmungsvorlage ist die Mehrheit der gültigen Stimmen erforderlich. Bei
+
+Stimmengleichheit gilt die Vorlage als abgelehnt.
+
+<sup>2</sup> Erhalten bei einer Abstimmung über zwei einander ausschliessende Vorlagen beide Vorlagen mehr zustimmende als ablehnende Stimmen, so entscheidet das Ergebnis der Stichfrage.
+
+### 4.3. Wahlen
+
+### 4.3.1. Allgemeine Bestimmungen
+
+#### § 61
 
 **Wahlarten**
 
 <sup>1</sup> Die Stimmberechtigten wählen:
 
-- 1\. den Einwohnerrat;
-- 2\. den Gemeindepräsidenten oder die Gemeindepräsidentin;
-- 3\. die weiteren Mitglieder des Gemeinderates.
+- a) den Einwohnerrat;
+- b) die Gemeindepräsidentin oder den Gemeindepräsidenten;
+- c) die weiteren Mitglieder des Gemeinderats.
 
-<sup>2</sup> Der Einwohnerrat wird nach dem Proporzsystem gewählt. Die Wahl des Gemeindepräsidenten oder der Gemeindepräsidentin und der weiteren Mitglieder des Gemeinderates erfolgt nach dem Majorzsystem.
+<sup>2</sup> Der Einwohnerrat wird nach dem Proporzsystem gewählt. Die Wahl der Gemeindepräsidentin oder
 
-#### § 51
-
-**Zeitpunkt der Wahlen**
-
-<sup>1</sup> Die Gesamterneuerungswahlen finden alle vier Jahre statt. Sie sind zeitlich so anzuordnen, dass Einwohnerrat und Gemeinderat ihre Tätigkeit je im Februar beginnen können.
-
-<sup>2</sup> Ersatzwahlen sind beförderlich anzuordnen. Die Ersatzwahl kann bis zum nächsten eidgenössischen oder kantonalen Wahl- oder Abstimmungstag hinausgeschoben werden, sofern die Vakanz deswegen nicht länger als drei Monate andauert.
-
-<sup>3</sup> Eine Ersatzwahl des Gemeindepräsidenten oder der Gemeindepräsidentin oder einzelner Mitglieder des Gemeinderates erfolgt für den Rest der laufenden Amtsdauer.
-
-#### § 52
-
-**Stille Wahl**
-
-<sup>1</sup> Bei der Gesamterneuerungswahl des Einwohnerrates und beim ersten Wahlgang für den Gemeindepräsidenten oder für die Gemeindepräsidentin und die weiteren Mitglieder des Gemeinderates ist stille Wahl ausgeschlossen.
-
-### III.C.2. Wahl des Einwohnerrates
-
-#### § 53
-
-**Wahlkreis**
-
-<sup>1</sup> Für die Wahl des Einwohnerrates bildet die Gemeinde einen einzigen Wahlkreis.
-
-#### § 54
-
-**Wählbarkeit**
-
-<sup>1</sup> In den Einwohnerrat ist wählbar, wer stimmberechtigt ist und auf einem Wahlvorschlag steht.
-
-#### § 55
-
-**Wahlvorschlag**
-
-<sup>1</sup> Ein Wahlvorschlag muss von mindestens zehn Stimmberechtigten unterzeichnet sein. Die Stimmberechtigten dürfen je nur einen Wahlvorschlag unterzeichnen.
-
-<sup>2</sup> Vorgeschlagene dürfen ihren eigenen Wahlvorschlag nicht unterzeichnen.
-
-<sup>3</sup> Wahlvorschläge sind dem Gemeinderat auf dem amtlichen Formular einzureichen. Sie müssen spätestens am achtletzten Montag vor dem Wahlsonntag, Schalterschluss, im Besitz der Gemeindeverwaltung sein.
-
-<sup>4</sup> Der gleiche Name darf höchstens dreimal auf dem Wahlvorschlag stehen. Gesamthaft darf der Wahlvorschlag nicht mehr Namen enthalten, als Mitglieder des Einwohnerrates zu wählen sind.
-
-<sup>5</sup> Stehen einzelne Kandidaten und Kandidatinnen auf mehreren Wahlvorschlägen und geben sie innert drei Tagen, von der Anfrage der Gemeindeverwaltung an gerechnet, keine Erklärung ab, welchem Vorschlag sie zugeteilt sein wollen, so werden sie auf sämtlichen Wahlvorschlägen gestrichen.
-
-<sup>6</sup> Die Gemeindeverwaltung teilt die Streichung von Kandidaten und Kandidatinnen den Vertretern und Vertreterinnen der davon betroffenen Wahlvorschläge mit und setzt ihnen eine Frist von drei Tagen, um allfällige Ersatzvorschläge einzureichen.
-
-<sup>7</sup> Parteien oder Gruppierungen, welche bei der Wahl für die laufende Amtsdauer im Einwohnerrat mindestens einen Sitz erzielten, werden von der Unterzeichnungspflicht gemäss Abs. 1 befreit. Auf dem Wahlvorschlag haben zwei in Riehen stimmberechtigte Personen zu unterzeichnen, die den Wahlvorschlag gegenüber den Behörden vertreten.
-
-#### § 56
-
-**Listen**
-
-<sup>1</sup> Die so entstandenen definitiven Wahlvorschläge heissen Listen und können nicht mehr geändert werden.
-
-#### § 57
-
-**Listenverbindungen**
-
-<sup>1</sup> Zwei oder mehreren Wahlvorschlägen kann bis spätestens am sechstletzten Montag vor dem Wahlsonntag, Schalterschluss, die übereinstimmende Erklärung der Unterzeichnenden oder ihrer Vertreter oder Vertreterinnen beigefügt werden, dass die Wahlvorschläge miteinander verbunden seien (verbundene Listen). Eine Gruppe miteinander verbundener Listen gilt gegenüber anderen Listen als eine Liste.
-
-<sup>2</sup> Innerhalb einer Gruppe miteinander verbundener Listen sind keine weiteren Unterlistenverbindungen zulässig.
-
-#### § 58
-
-**Veröffentlichung, Zustellung**
-
-<sup>1</sup> Der Gemeinderat veröffentlicht die Listen im Kantonsblatt.
-
-<sup>2</sup> Die Listenbezeichnung, die Ordnungsnummer und eine allfällige Erklärung betreffend Listenverbindung werden bei der Veröffentlichung mitgeteilt und auf den Listen abgedruckt.
-
-<sup>3</sup> Die bedruckten Listen werden zusammen mit dem Stimmrechtsausweis den Stimmberechtigten mindestens drei und frühestens vier Wochen vor dem Urnengang zugestellt. Den bedruckten Listen ist eine leere Liste mit der Bezeichnung «Freie Liste» beizugeben, die keine Namen, aber so viele numerierte Linien enthält, als Mitglieder des Einwohnerrates zu wählen sind.
-
-#### § 59
-
-**Stimmabgabe**
-
-<sup>1</sup> Jeder Wähler und jede Wählerin kann so viele Stimmen abgeben, als Mitglieder des Einwohnerrates zu wählen sind.
-
-<sup>2</sup> Aus den ihnen zugestellten Listen wählen sie eine aus, benützen sie als Wahlzettel und geben damit ihre Stimme ab.
-
-<sup>3</sup> Sie können ihren Wahlzettel unverändert einlegen oder darauf nach Belieben:
-
-- 1\. Namen von Kandidaten oder Kandidatinnen streichen;
-- 2\. Namen von Kandidaten oder Kandidatinnen anderer Listen einsetzen (panaschieren);
-- 3\. den Namen des gleichen Kandidaten oder der gleichen Kandidatin mehrfach, höchstens aber dreimal einsetzen (kumulieren);
-- 4\. Linien leer lassen;
-- 5\. Listenbezeichnungen und Ordnungsnummern streichen oder durch andere ersetzen.
-
-<sup>4</sup> Ein Wahlzettel ist nur gültig, wenn er mindestens den Namen eines vorgeschlagenen Kandidaten oder einer vorgeschlagenen Kandidatin enthält.
-
-#### § 60
-
-**Zuteilung der Stimmen zu den Listen**
-
-<sup>1</sup> Unabhängig von der Listenbezeichnung und Ordnungsnummer eines Wahlzettels zählt jede für einen vorgeschlagenen Kandidaten oder für eine vorgeschlagene Kandidatin abgegebene Stimme als Kandidatenstimme für jene Liste, auf welcher der Name des Kandidaten oder der Kandidatin gedruckt ist.
-
-<sup>2</sup> Jede leere Linie und jede ungültige Stimme zählt als Listenstimme für jene Liste, deren Bezeichnung oder Ordnungsnummer auf dem Wahlzettel stehen.
-
-<sup>3</sup> Die Gesamtstimmenzahl jeder Liste ist die Summe ihrer Kandidatenstimmen und ihrer Listenstimmen.
-
-<sup>4</sup> Leere Linien und ungültige Stimmen auf Wahlzetteln ohne Listenbezeichnung oder Ordnungsnummer werden keiner Liste zugerechnet und fallen für die Sitzverteilung ausser Betracht.
-
-#### § 61
-
-**Zuteilung der Sitze im Einwohnerrat**
-
-<sup>1</sup> Die Anzahl der Sitze im Einwohnerrat wird auf die einzelnen Listen im Verhältnis ihrer Gesamtstimmenzahl verteilt.
-
-<sup>2</sup> Die Summe der Gesamtstimmenzahlen aller Listen wird durch die um eins erhöhte Zahl der zu wählenden Mitglieder des Einwohnerrates geteilt. Die nächsthöhere ganze Zahl, die auf den so erhaltenen Quotienten folgt, gilt als Wahlzahl.
-
-<sup>3</sup> Jeder Liste wird sovielmal ein Sitz zugeteilt, als die Wahlzahl in ihrer Gesamtstimmenzahl enthalten ist.
-
-<sup>4</sup> Ergibt sich durch diese erste Verteilung die Zahl der zu besetzenden Sitze noch nicht, so ist die Gesamtstimmenzahl jeder Liste durch die um eins erhöhte Zahl der ihr schon zugewiesenen Sitze zu teilen. Der erste noch offene Sitz wird derjenigen Liste zugeteilt, die den grössten Quotienten aufweist. Das gleiche Verfahren wird fortgesetzt, bis die Zahl der zu besetzenden Sitze erreicht ist.
-
-<sup>5</sup> Jede Gruppe miteinander verbundener Listen wird bei der Sitzverteilung zunächst als eine einzige Liste behandelt. Die Gesamtzahl der auf sie entfallenden Sitze wird sodann auf die Einzellisten der Gruppe unter entsprechender Anwendung der Vorschriften dieses Paragraphen verteilt.
-
-<sup>6</sup> Für die auf jede Liste entfallenden Sitze sind jene Kandidaten und Kandidatinnen der Liste gewählt, die am meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet das Wahlbüro durch Los.
+des Gemeindepräsidenten und der weiteren Mitglieder des Gemeinderats erfolgt nach dem Majorzsystem.
 
 #### § 62
 
-**Ersatz von Mitgliedern des Einwohnerrates während der Amtsdauer**
+**Zeitpunkt der Gesamterneuerungswahlen**
 
-<sup>1</sup> Während der Amtsdauer ausscheidende Mitglieder des Einwohnerrates sind vom Gemeinderat durch die der gleichen Liste angehörenden, nichtgewählten Kandidaten oder Kandidatinnen, die am meisten Stimmen erhalten haben, zu ersetzen.
-
-<sup>2</sup> Ist auf der entsprechenden Liste kein wählbarer Kandidat oder keine wählbare Kandidatin mehr vorhanden, hat der Gemeinderat die Unterzeichnenden der zu ergänzenden Liste aufzufordern, innert einer Frist von zwei Monaten die Ersatzkandidaten oder -kandidatinnen zu bezeichnen.
-
-<sup>3</sup> Erfolgt ein Vorschlag, dem mehr als die Hälfte der noch stimmberechtigten Listenunterzeichnenden zustimmt, gelten die Vorgeschlagenen als in stiller Wahl gewählt.
-
-<sup>4</sup> Kommt auf diese Weise kein gültiger Vorschlag zustande, so findet für die noch freien Sitze eine Nachwahl gemäss den §§ 53–61 statt. Dabei ist stille Wahl zulässig.
-
-<sup>5</sup> Die Besetzung von Sitzen gemäss den Abs. 2–4 hievor unterliegt der Validierung durch den Einwohnerrat.
-
-### III.C.3. Wahl des Gemeindepräsidenten oder der Gemeindepräsidentin und der weiteren Mitglieder des Gemeinderates
+<sup>1</sup> Die Gesamterneuerungswahlen finden alle vier Jahre statt. Sie sind zeitlich so anzuordnen, dass die Legislatur des Einwohnerrats, der Gemeindepräsidentin oder des Gemeindepräsidenten und der weiteren Mitglieder des Gemeinderats ab Februar beginnen kann.
 
 #### § 63
 
-**Wählbarkeit**
+**Stille Wahl**
 
-<sup>1</sup> Als Gemeindepräsident oder Gemeindepräsidentin und als weiteres Mitglied des Gemeinderates ist wählbar, wer stimmberechtigt ist, auch wenn kein Wahlvorschlag eingereicht worden ist.
+<sup>1</sup> Entspricht die Zahl der Vorgeschlagenen der Zahl der zu Wählenden, widerruft der Gemeinderat den angesetzten Wahlgang.
+
+<sup>2</sup> Die Stille Wahl ist ausgeschlossen bei der Gesamterneuerungswahl des Einwohnerrats und beim ersten Wahlgang für das Amt der Gemeindepräsidentin oder des Gemeindepräsidenten und der weiteren Mitglieder des Gemeinderats.
+
+<sup>3</sup> Dieser Beschluss wird unter Hinweis auf das Beschwerderecht publiziert.
 
 #### § 64
 
-**Wahlvorschlag**
+**Ersatzwahl während der Legislaturperiode**
+
+<sup>1</sup> Eine Ersatzwahl während der Legislatur erfolgt für den Rest der laufenden Amtsdauer.
+
+### 4.3.2. Wahl des Einwohnerrats
+
+#### § 65
+
+**Wählbarkeit**
+
+<sup>1</sup> Wählbar ist, wer stimmberechtigt ist, gültig zur Wahl vorgeschlagen wurde und auf einer Liste steht.
+
+#### § 66
+
+**Unterzeichnung der Wahlvorschläge**
 
 <sup>1</sup> Ein Wahlvorschlag muss von mindestens zehn Stimmberechtigten unterzeichnet sein. Die Stimmberechtigten dürfen je nur einen Wahlvorschlag unterzeichnen.
 
 <sup>2</sup> Vorgeschlagene dürfen ihren eigenen Wahlvorschlag nicht unterzeichnen.
 
-<sup>3</sup> Wahlvorschläge für den ersten Wahlgang sind dem Gemeinderat auf dem amtlichen Formular einzureichen. Sie müssen spätestens am achtletzten Montag vor dem Wahlsonntag, Schalterschluss, im Besitz der Gemeindeverwaltung sein.
+<sup>3</sup> Parteien oder Gruppierungen, die bei den Wahlen für die laufende Amtsdauer mindestens einen Sitz im Einwohnerrat erzielt haben, werden von der Unterzeichnungspflicht gemäss Abs. 1 befreit. Den Wahlvorschlag müssen zwei stimmberechtigte Personen unterzeichnen, die ihn gegenüber den Behörden vertreten.
 
-<sup>4</sup> Der gleiche Name darf nur einmal auf dem Wahlvorschlag stehen. Im ganzen darf der Wahlvorschlag nicht mehr Namen enthalten, als Personen zu wählen sind.
+#### § 67
 
-<sup>5</sup> Parteien oder Gruppierungen, welche bei der Wahl für die laufende Amtsdauer im Gemeinderat einen Sitz erzielten, werden von der Unterzeichnungspflicht gemäss Abs. 1 befreit. Das gleiche gilt für bisherige Mandatsträger, welche keiner Partei oder Gruppierung angehören. Auf dem Wahlvorschlag haben zwei in Riehen stimmberechtigte Personen zu unterzeichnen, die den Wahlvorschlag gegenüber den Behörden vertreten.
+**Inhaltliche Erfordernisse der Wahlvorschläge**
 
-#### § 65
+<sup>1</sup> Jeder Wahlvorschlag muss enthalten:
 
-**Veröffentlichung, Zustellung**
+- a) eine von den übrigen Wahlvorschlägen unterscheidbare Listenbezeichnung;
+- b) Name, Vorname, Geburtsjahr, Beruf und Wohnadresse der Vorgeschlagenen;
+- c) Name, Vorname, Geburtsjahr und Wohnadresse der Unterzeichnenden und
+- d) eine von den Vorgeschlagenen unterzeichnete, unwiderrufliche Zustimmungserklärung.
 
-<sup>1</sup> Der Gemeinderat veröffentlicht die bereinigten Wahlvorschläge im Kantonsblatt.
+<sup>2</sup> Dieselbe oder derselbe Vorgeschlagene darf höchstens dreimal auf einem Wahlvorschlag stehen. Gesamthaft darf der Wahlvorschlag nicht mehr Namen enthalten, als Mitglieder des Einwohnerrats zu wählen sind.
 
-<sup>2</sup> Die amtlichen Wahlzettel werden zusammen mit dem Stimmrechtsausweis den Stimmberechtigten mindestens drei und frühestens vier Wochen vor dem Urnengangzugestellt.
+<sup>3</sup> Die an erster Stelle, im Verhinderungsfall an zweiter Stelle Unterzeichnenden vertreten die Wahlvorschläge gegenüber den Behörden.
 
-#### § 65a
+#### § 68
+
+**Einreichung und Prüfung der Wahlvorschläge**
+
+<sup>1</sup> Wahlvorschläge müssen auf dem amtlichen Formular eingereicht werden. Sie müssen spätestens am achtletzten Montag vor dem Wahlsonntag während den Öffnungszeiten bei der Gemeindeverwaltung eintreffen. Bei Ersatzwahlen kann die Frist auf den sechstletzten Montag verkürzt werden.
+
+<sup>2</sup> Stehen einzelne Kandidierende auf mehreren Wahlvorschlägen und geben sie innert drei Tagen seit der Aufforderung durch die Gemeindeverwaltung keine Erklärung ab, welchem Vorschlag sie zugeteilt werden wollen, so werden sie auf sämtlichen Wahlvorschlägen gestrichen.
+
+<sup>3</sup> Die Gemeindeverwaltung teilt die Streichung von Kandidierenden den Vertreterinnen oder Vertretern der davon betroffenen Wahlvorschläge mit und setzt ihnen eine Frist von drei Tagen, um allfällige Ersatzvorschläge einzureichen.
+
+<sup>4</sup> Der Gemeinderat regelt das Vorgehen bei gleichen Listenbezeichnungen, fehlender Wählbarkeit von Kandidierenden, fehlender Gültigkeit der Unterschriften oder nicht erfüllten Formerfordernissen.
+
+#### § 69
+
+**Listen**
+
+<sup>1</sup> Die bereinigten definitiven Wahlvorschläge werden als Listen bezeichnet und können nicht mehr geändert werden.
+
+<sup>2</sup> Jede Liste wird mit einer Ordnungsnummer versehen.
+
+#### § 70
+
+**Listenverbindungen**
+
+<sup>1</sup> Listen- sowie Unterlistenverbindungen sind ausgeschlossen.
+
+#### § 71
+
+**Publikation und Zustellung**
+
+<sup>1</sup> Die Gemeindeverwaltung publiziert die Listen im Kantonsblatt.
+
+<sup>2</sup> Die Listenbezeichnung und die Ordnungsnummer werden bei der Publikation mitgeteilt und auf den Listen abgedruckt.
+
+<sup>3</sup> Die bedruckten Listen werden den Stimmberechtigten zusammen mit dem Stimmrechtsausweis zugestellt. Zudem ist eine leere Liste mit der Bezeichnung «Freie Liste» beizulegen, die keine Namen, aber so viele nummerierte Linien enthält, als Mitglieder des Einwohnerrats zu wählen sind.
+
+#### § 72
+
+**Stimmabgabe**
+
+<sup>1</sup> Jede Wählerin und jeder Wähler kann so viele Stimmen abgeben, als Mitglieder des Einwohnerrats zu wählen sind.
+
+<sup>2</sup> Sie können aus den ihnen zugestellten Listen nur eine auswählen, die sie als Wahlzettel benutzen und mit der sie ihre Stimmen abgeben. Die Einreichung mehrerer Wahlzettel führt zu deren Ungültigkeit.
+
+<sup>3</sup> Sie können ihren Wahlzettel unverändert einlegen oder darauf nach Belieben:
+
+- a) Namen von Kandidierenden streichen;
+- b) Namen von Kandidierenden anderer Listen einsetzen (panaschieren);
+- c) den Namen des oder der gleichen Kandidierenden mehrfach, höchstens aber dreimal einsetzen (kumulieren);
+- d) Linien leer lassen oder
+- e) Listenbezeichnungen oder Ordnungsnummern streichen oder durch andere ersetzen.
+
+<sup>4</sup> Bei einem Widerspruch zwischen Listenbezeichnung und Ordnungsnummer gilt die Listenbezeichnung.
+
+#### § 73
+
+**Zuteilung der Stimmen zu den Listen**
+
+<sup>1</sup> Unabhängig von der Listenbezeichnung und Ordnungsnummer des benutzten Wahlzettels zählt jede für eine vorgeschlagene Kandidatin oder einen vorgeschlagenen Kandidaten abgegebene Stimme als Kandidatinnen- oder Kandidatenstimme für jene Liste, auf der der Name der Kandidatin oder des Kandidaten gedruckt ist.
+
+<sup>2</sup> Jede leere Linie und jede ungültige Stimme auf dem benutzten Wahlzettel zählt als Listenstimme für jene Liste, deren Bezeichnung oder Ordnungsnummer auf dem Wahlzettel stehen.
+
+<sup>3</sup> Die Gesamtstimmenzahl jeder Liste ergibt sich aus der Summe ihrer Kandidatinnen- und Kandidatenstimmen und ihrer Listenstimmen.
+
+<sup>4</sup> Leere Linien und ungültige Stimmen auf Wahlzetteln, die weder eine Listenbezeichnung noch eine Ordnungsnummer tragen, werden keiner Liste zugerechnet und bleiben bei der Sitzverteilung unberücksichtigt.
+
+#### § 74
+
+**Grundsatz der Zuteilung der Einwohnerratssitze**
+
+<sup>1</sup> Die Anzahl der Sitze im Einwohnerrat wird auf die einzelnen Listen im Verhältnis der auf sie entfallenden Gesamtstimmenzahl verteilt.
+
+<sup>2</sup> Listen, die das Quorum von 2 % der Stimmen nicht erreicht haben, sind von der Sitzverteilung ausgeschlossen.
+
+#### § 75
+
+**Erste Verteilung der Einwohnerratssitze**
+
+<sup>1</sup> Die Summe der Gesamtstimmenzahlen aller Listen wird durch die Zahl der zu vergebenden Einwohnerratssitze geteilt. Die auf den Quotienten folgende ganze Zahl gilt als Verteilungszahl.
+
+<sup>2</sup> Jeder Liste werden so viele Sitze zugeteilt, als die Verteilungszahl in ihrer Gesamtstimmenzahl enthalten ist.
+
+#### § 76
+
+**Weitere Verteilungen der Einwohnerratssitze**
+
+<sup>1</sup> Sind nach der ersten Verteilung nicht sämtliche Sitze verteilt, werden die verbliebenen Sitze einzeln und nacheinander wie folgt verteilt:
+
+- a) Die Gesamtstimmenzahl jeder Liste wird durch die um eins erhöhte verdoppelte Zahl der ihr bereits zugewiesenen Sitze geteilt und
+- b) der erste noch offene Sitz wird der Liste zugeteilt, die den höchsten Quotienten aufweist.
+
+<sup>2</sup> Dieses Verfahren wird fortgesetzt, bis alle Sitze vergeben sind.
+
+#### § 77
+
+**Gewählte Personen und Nachrückende**
+
+<sup>1</sup> Von jeder Liste sind nach Massgabe der erreichten Sitze jene Personen gewählt, welche am meisten Stimmen erhalten haben.
+
+<sup>2</sup> Bei Stimmengleichheit entscheidet das Wahl- und Abstimmungsbüro durch Los.
+
+<sup>3</sup> Die nicht gewählten Personen sind Nachrückende in der Reihenfolge der erzielten Stimmen. Vorbehalten bleibt § 78 Abs. 2.
+
+#### § 78
+
+**Nachrücken**
+
+<sup>1</sup> Scheidet eine gewählte Person vor Ablauf der Amtsdauer aus dem Einwohnerrat aus, rückt von den wählbaren Nachrückenden gemäss § 77 Abs. 3 die Person mit der höchsten Stimmenzahl nach. Kann oder will diese Person das Amt nicht antreten, rückt die nächste Person auf der Liste an ihre Stelle.
+
+<sup>2</sup> Eine Person kann nur nachrücken, wenn sie der Partei oder Gruppierung, für deren Liste sie kandidierte, noch angehört.
+
+#### § 79
+
+**Listenergänzung und Ersatzwahl**
+
+<sup>1</sup> Sind auf der entsprechenden Liste keine wählbaren Kandidierenden mehr vorhanden, hat der Gemeinderat die Unterzeichnenden der zu ergänzenden Liste aufzufordern, innert einer Frist von zwei Monaten die Ersatzkandidierenden zu bezeichnen.
+
+<sup>2</sup> Erfolgt ein Vorschlag, dem mehr als die Hälfte der noch stimmberechtigten Listenunterzeichnenden zustimmt, gelten die Vorgeschlagenen als in Stiller Wahl gewählt.
+
+<sup>3</sup> Kommt auf diese Weise kein gültiger Vorschlag zustande, so findet für die noch freien Sitze beförderlich eine Ersatzwahl gemäss den §§ 65 – 77 statt. Dabei ist Stille Wahl zulässig.
+
+<sup>4</sup> Die Besetzung von Sitzen gemäss den Abs. 1 – 3 unterliegt der Validierung durch den Einwohnerrat.
+
+### 4.3.3. Wahl der Gemeindepräsidentin oder des Gemeindepräsidenten und der weiteren Gemeinderatsmitglieder
+
+#### § 80
+
+**Wählbarkeit**
+
+<sup>1</sup> Als Gemeindepräsidentin oder Gemeindepräsident und als weiteres Mitglied des Gemeinderats ist wählbar, wer stimmberechtigt ist, auch wenn kein Wahlvorschlag eingereicht wurde.
+
+#### § 81
+
+**Unterzeichnung der Wahlvorschläge**
+
+<sup>1</sup> Ein Wahlvorschlag muss von mindestens zehn Stimmberechtigten unterzeichnet sein. Die Stimmberechtigten dürfen je nur einen Wahlvorschlag unterzeichnen.
+
+<sup>2</sup> Vorgeschlagene dürfen ihren eigenen Wahlvorschlag nicht unterzeichnen.
+
+<sup>3</sup> Parteien oder Gruppierungen, die bei den Wahlen für die laufende Amtsdauer mindestens einen Sitz im Gemeinderat erzielt haben, werden von der Unterzeichnungspflicht gemäss Abs. 1 befreit. Das gleiche gilt für amtierende Gemeinderatsmitglieder, die keiner Partei oder Gruppierung angehören. Den Wahlvorschlag müssen zwei stimmberechtigte Personen unterzeichnen, die ihn gegenüber den Behörden vertreten.
+
+#### § 82
+
+**Inhaltliche Erfordernisse der Wahlvorschläge**
+
+<sup>1</sup> Jeder Wahlvorschlag muss folgende Angaben enthalten:
+
+- a) Name, Vorname, Geburtsjahr, Beruf und Wohnadresse der oder des Vorgeschlagenen;
+- b) Name, Vorname, Geburtsjahr und Wohnadresse der Unterzeichnenden und
+- c) eine von den Vorgeschlagenen unterzeichnete, unwiderrufliche Zustimmungserklärung.
+
+<sup>2</sup> Der gleiche Name darf nur einmal auf dem Wahlvorschlag stehen. Im Ganzen darf der Wahlvorschlag nicht mehr Namen enthalten, als Personen zu wählen sind.
+
+<sup>3</sup> Die an erster Stelle, im Verhinderungsfall an zweiter Stelle Unterzeichnenden vertreten die Wahlvorschläge gegenüber den Behörden.
+
+#### § 83
+
+**Einreichung der Wahlvorschläge**
+
+<sup>1</sup> Wahlvorschläge müssen auf dem amtlichen Formular eingereicht werden. Sie müssen spätestens am achtletzten Montag vor dem Wahlsonntag während der Öffnungszeiten bei der Gemeindeverwaltung eintreffen.
+
+<sup>2</sup> Der Gemeinderat regelt das Vorgehen bei fehlender Wählbarkeit von Kandidierenden, fehlender Gültigkeit der Unterschriften und nicht erfüllten Formerfordernissen.
+
+#### § 84
+
+**Publikation**
+
+<sup>1</sup> Die Gemeindeverwaltung publiziert die bereinigten Wahlvorschläge im Kantonsblatt.
+
+#### § 85
 
 **Amtliche Wahlzettel**
 
-<sup>1</sup> Der amtliche Wahlzettel enthält
+<sup>1</sup> Der amtliche Wahlzettel enthält:
 
-- 1\. die bereinigten Wahlvorschläge in der Reihenfolge der ihnen zugewiesenen Ordnungsnummern und mit ihren Bezeichnungen;
-- 2\. leere Linien in der Zahl der zu wählenden Kandidatinnen und Kandidaten;
-- 3\. neben jedem Namen und jeder leeren Linie ein Feld zum Ankreuzen.
+- a) die bereinigten Wahlvorschläge mit ihren Bezeichnungen in der Reihenfolge der von den Parteien bzw. Gruppierungen erzielten Sitze in der letzten Legislatur;
+- b) leere Linien in der Zahl der zu wählenden Kandidierenden und
+- c) neben jedem Namen und jeder leeren Linie ein Feld zum Ankreuzen.
 
-#### § 66
+#### § 86
 
 **Stimmabgabe**
 
 <sup>1</sup> Die Stimmberechtigten haben so viele Stimmen, wie Ämter zu besetzen sind.
 
-<sup>2</sup> Für die Wahl der Gemeinderatspräsidentin oder des Gemeinderatspräsidenten bzw. für die Wahl der Gemeinderatsmitglieder darf für jede Kandidatin und für jeden Kandidaten nur eine Stimme abgegeben werden.
+<sup>2</sup> Für die Wahl der Gemeindepräsidentin oder des Gemeindepräsidenten bzw. für die Wahl der Gemeinderatsmitglieder darf für jede Kandidatin oder jeden Kandidaten nur eine Stimme abgegeben werden.
 
 <sup>3</sup> Die Stimmberechtigten können auf dem Wahlzettel:
 
-- 1\. vorgedruckte Namen von Kandidatinnen und Kandidaten ankreuzen;
-- 2\. Namen von wählbaren Personen auf die leeren Linien schreiben;
-- 3\. angekreuzte vorgedruckte Namen oder auf leere Linien geschriebene Namen wieder durchstreichen.
+- a) vorgedruckte Namen von Kandidierenden ankreuzen;
+- b) Namen von wählbaren Personen auf die leeren Linien schreiben oder
+- c) angekreuzte vorgedruckte oder auf leere Linien geschriebene Namen wieder durchstreichen.
 
-#### § 67
+#### § 87
 
-**Erster Wahlgang**
+**Gewählte Personen**
 
-<sup>1</sup> Gewählt sind jene Kandidaten und Kandidatinnen, die das absolute Mehr erreichen und die meisten Stimmen auf sich vereinigen, gleichgültig, ob sie auf einem Wahlvorschlag stehen oder nicht.
+<sup>1</sup> Gewählt sind jene Kandidierenden, die das absolute Mehr erreichen und die meisten Stimmen auf sich vereinigen, gleichgültig, ob sie auf einem Wahlvorschlag stehen oder nicht.
 
-<sup>2</sup> Bei Stimmengleichheit entscheidet das Los. Dieses wird sofort vom Wahlbüro gezogen.
+<sup>2</sup> Zur Festlegung des absoluten Mehrs wird die Gesamtzahl der gültigen Wahlzettel durch zwei geteilt. Die auf den Quotienten folgende ganze Zahl ist das absolute Mehr.
 
-#### § 68
+#### § 88
 
-**Absolutes Mehr**
+**Vorgehen bei Stimmengleichheit**
 
-<sup>1</sup> Zur Festlegung des absoluten Mehrs wird die Gesamtzahl der gültigen Wahlzettel durch zwei geteilt; die nächsthöhere ganze Zahl, die auf den so erhaltenen Quotienten folgt, ist das absolute Mehr.
+<sup>1</sup> Bei Stimmengleichheit entscheidet das Wahl- und Abstimmungsbüro durch Los.
 
-#### § 69
+#### § 89
 
 **Zweiter Wahlgang**
 
-<sup>1</sup> Sind im ersten Wahlgang nicht alle Wahlen zustande gekommen, findet in der Regel innerhalb von vier Wochen ein zweiter Wahlgang statt. Wahlvorschläge sind dem Gemeinderat auf dem amtlichen Formular einzureichen. Sie müssen bis spätestens Mittwoch nach dem ersten Wahlgang, Schalterschluss, im Besitz der Gemeindeverwaltung sein. Werden gleich viele Wahlvorschläge eingereicht, wie Sitze zu vergeben sind, so gelten die Vorgeschlagenen als in stiller Wahl gewählt.
+<sup>1</sup> Erreichen weniger Personen das absolute Mehr, als zu wählen sind, findet in der Regel innerhalb von sechs Wochen ein zweiter Wahlgang statt.
 
-#### § 70
+<sup>2</sup> Wahlvorschläge sind auf dem amtlichen Formular einzureichen. Sie müssen bis spätestens Mittwoch nach dem ersten Wahlgang, während der Öffnungszeiten bei der Gemeindeverwaltung eintreffen.
 
-**Neuer Stimmrechtsausweis für den zweiten Wahlgang**
+<sup>3</sup> Werden gleich viele Personen vorgeschlagen, wie Sitze zu vergeben sind, so gelten diese als in Stiller Wahl gewählt.
+
+#### § 90
+
+**Stimmrechtsausweis für den zweiten Wahlgang**
 
 <sup>1</sup> Die Stimmberechtigten erhalten mindestens zehn Tage vor dem Urnengang einen neuen Stimmrechtsausweis sowie die amtlichen Wahlzettel.
 
-#### § 71
+#### § 91
 
 **Relatives Mehr**
 
-<sup>1</sup> Im zweiten Wahlgang sind jene Kandidaten und Kandidatinnen gewählt, die die meisten Stimmen auf sich vereinigen, gleichgültig, ob sie auf einem Wahlvorschlag stehen oder nicht.
+<sup>1</sup> Im zweiten Wahlgang sind jene Kandidierenden gewählt, die die meisten Stimmen auf sich vereinigen, gleichgültig, ob sie auf einem Wahlvorschlag stehen oder nicht.
 
 <sup>2</sup> Bei Stimmengleichheit entscheidet das Los gemäss den Vorschriften für den ersten Wahlgang.
 
-## IV. Validierung
+#### § 92
 
-#### § 72
+**Ersatzwahl**
 
-**Bekanntmachung der Ergebnisse**
+<sup>1</sup> Eine Ersatzwahl findet statt, wenn:
 
-<sup>1</sup> Die Ergebnisse der Wahlen und Abstimmungen werden durch Anschlag bei den Wahllokalen bekanntgemacht und im Kantonsblatt unter Hinweis auf das Beschwerderecht publiziert.
+- a) ein im ersten Wahlgang gewähltes Gemeinderatsmitglied im zweiten Wahlgang als Gemeindepräsidentin oder Gemeindepräsident gewählt wird und sich für dieses Amt entscheidet und auf den Gemeinderatssitz verzichtet oder
+- b) eine gewählte Person vor Ablauf der Amtsdauer aus dem Gemeinderat oder als Gemeindepräsidentin oder Gemeindepräsident ausscheidet.
 
-#### § 73
+<sup>2</sup> Für die Ersatzwahl gelten die Regeln über den ersten und den zweiten Wahlgang sinngemäss.
 
-**Aufbewahrung der Stimm- und Wahlzettel**
+<sup>3</sup> Ersatzwahlen sind beförderlich anzuordnen. Eine Vakanz sollte nicht länger als drei Monate dauern.
 
-<sup>1</sup> Die Stimm- und Wahlzettel werden amtlich verwahrt, bis über die Gültigkeit der Wahl oder Abstimmung und über allfällige Beschwerden endgültig entschieden ist. Nachher werden sie vernichtet.
+## 5. Rechtspflege
 
-#### § 74
+#### § 93
 
-**Wahlen und Abstimmungen**
-
-<sup>1</sup> Der Gemeinderat beschliesst über die Gültigkeit der Abstimmungen und stellt das Ergebnis fest.
-
-<sup>2</sup> Der Einwohnerrat beschliesst über die Gültigkeit der Wahlen aufgrund eines Berichts seiner Wahlprüfungskommission.
-
-<sup>3</sup> Die Beschlüsse über die Gültigkeit der Wahlen und Abstimmungen sind im Kantonsblatt zu veröffentlichen.
-
-#### § 75
-
-**Anordnung einer Nachzählung**
-
-<sup>1</sup> Der Gemeinderat und bei Wahlen auch die Wahlprüfungskommission können eine Nachzählung anordnen, wenn stichhaltige Gründe vorliegen, welche die Richtigkeit des Ergebnisses der Wahl oder Abstimmung als zweifelhaft erscheinen lassen.
-
-<sup>2</sup> Zur Nachzählung werden sechs Beauftragte des Gemeinderates sowie je ein Mitglied der von der Nachzählung betroffenen Wahlbüros beigezogen. Der Vorstand der betroffenen Wahlbüros bezeichnet jeweils das Mitglied selbst. Soweit notwendig, können weitere Mitglieder der betroffenen Wahlbüros zur Nachzählung aufgeboten werden.
-
-#### § 76
-
-**Ungültigkeit**
-
-<sup>1</sup> Wahlen und Abstimmungen sind ungültig:
-
-- 1\. wenn durch gerichtliches Urteil festgestellt wird, dass Gesetzesübertretungen gemäss Art. 279ff. des Schweizerischen Strafgesetzbuches vorgekommen sind und dadurch auf das Ergebnis wesentlicher Einfluss ausgeübt wurde oder dies nicht mit Sicherheit als ausgeschlossen betrachtet werden kann;
-- 2\. wenn mehr abgestempelte Stimm- oder Wahlzettel als Stimmrechtsausweise abgegeben worden sind und dies das Resultat der Abstimmung oder der Wahl entscheidend beeinflussen kann;
-- 3\. wenn sonst die gesetzlichen Vorschriften in einer Weise verletzt worden sind, die die Richtigkeit des Ergebnisses der Abstimmung oder Wahl als zweifelhaft erscheinen lässt.
-
-<sup>2</sup> Die Befugnis, eine Wahl oder Abstimmung für ungültig zu erklären, steht derjenigen Behörde zu, die über die Gültigkeit zu entscheiden hat.
-
-#### § 77
-
-**Wiederholung der Wahl oder Abstimmung**
-
-<sup>1</sup> Wird durch Ungültigerklärung eine neue Wahl, ein weiterer Wahlgang oder eine neue Abstimmung notwendig, so erlässt der Gemeinderat sofort die erforderlichen Anordnungen.
-
-#### § 78
-
-**Ausübung des Mandates**
-
-<sup>1</sup> Bei der Wahl des Einwohnerrates haben die gemäss § 61 Gewählten bis zur Ungültigerklärung der Wahl und sofern einer Beschwerde nicht ausdrücklich die aufschiebende Wirkung erteilt wird, Sitz und Stimme.
-
-<sup>2</sup> Bei Majorzwahlen üben die Gewählten ihre Funktionen aus, sofern der gemäss § 79 erhobenen Beschwerde nicht die aufschiebende Wirkung erteilt wird.
-
-## V. Rechtsmittel
-
-#### § 79
-
-**Beschwerden**
+**Stimmrechtsbeschwerde sowie Wahl- und Abstimmungsbeschwerde**
 
 <sup>1</sup> Die Stimmberechtigten können Beschwerde erheben:
 
-- 1\. wegen Verletzung des Stimmrechts gemäss den §§ 2–10 dieser Ordnung;
-- 2\. wegen Unregelmässigkeiten bei der Vorbereitung und Durchführung von Wahlen und Abstimmungen.
+- a) wegen Verletzung des Stimmrechts gemäss den §§ 2 – 6 und 43 – 48 (Stimmrechtsbeschwerde);
+- b) wegen Unregelmässigkeiten bei der Vorbereitung und Durchführung von kommunalen Wahlen und Abstimmungen (Wahl- und Abstimmungsbeschwerde).
 
-<sup>2</sup> Die Beschwerde ist schriftlich und begründet innert fünf Tagen seit Entdeckung des Beschwerdegrundes, jedoch spätestens am fünften Tag nach der Veröffentlichung des Wahl- oder Abstimmungsergebnisses im Kantonsblatt an den Gemeinderat zu richten.
+#### § 94
 
-#### § 80
+**Rechtsmittelfrist**
 
-**Begründung, Wirkung**
+<sup>1</sup> Die Beschwerde ist innert fünf Tagen seit Entdeckung des Beschwerdegrundes, spätestens aber am fünften Tag nach der Publikation des Wahl- oder Abstimmungsergebnisses im Kantonsblatt, schriftlich und begründet beim Gemeinderat einzureichen.
 
-<sup>1</sup> In der Beschwerdebegründung ist glaubhaft zu machen, dass die gerügten Unregelmässigkeiten nach Art und Umfang dazu geeignet waren, das Resultat der Wahl oder Abstimmung wesentlich zu beeinflussen.
+#### § 95
 
-<sup>2</sup> Die Beschwerde hat keine aufschiebende Wirkung. Erachtet jedoch der Gemeinderat die Beschwerde für begründet, so kann er ihr ausnahmsweise aufschiebende Wirkung gewähren.
+**Aufschiebende Wirkung**
 
-#### § 81
+<sup>1</sup> Der Gemeinderat kann die aufschiebende Wirkung ausnahmsweise anordnen.
+
+#### § 96
 
 **Entscheid**
 
-<sup>1</sup> Der Entscheid des Gemeinderates ist dem Beschwerdeführer oder der Beschwerdeführerin unverzüglich schriftlich zu eröffnen.
+<sup>1</sup> Stellt der Gemeinderat auf Beschwerde hin oder von Amtes wegen Unregelmässigkeiten fest, so trifft er vor Schluss des Wahl- oder Abstimmungsverfahrens die notwendigen Anordnungen zu deren Behebung.
 
-<sup>2</sup> Gegen den Entscheid kann gemäss den Bestimmungen der Gemeindeordnung beim Regierungsrat Rekurs ergriffen werden. Auf das Rekursrecht ist im Entscheid hinzuweisen.
+<sup>2</sup> Stellt der Gemeinderat auf Beschwerde hin fest, dass die gerügten Rechtsverletzungen nach Art und Umfang geeignet waren, das Resultat wesentlich zu beeinflussen, erklärt er die Wahl oder Abstimmung für ungültig.
 
-## VI. Schlussbestimmungen
+<sup>3</sup> Gegen den Entscheid des Gemeinderats kann eine Beschwerde an den Regierungsrat gemäss § 8 Abs. 3 der Gemeindeordnung in Verbindung mit § 81 des Gesetzes über Wahlen und Abstimmungen (Wahlgesetz) vom 21. April 1994[^96-1] erhoben werden.
 
-#### § 82
+<sup>4</sup> Die Beschwerde ist innert fünf Tagen seit Kenntnis des Beschwerdegrundes, spätestens jedoch am fünften Tag nach Publikation der Ergebnisse im Kantonsblatt, schriftlich und begründet einzureichen.
 
-**Änderung des bisherigen Rechts**
+[^96-1]: SG [132.100](https://www.gesetzessammlung.bs.ch/data/132.100/de)
 
-<sup>1</sup> Die Gemeindeordnung der Einwohnergemeinde Riehen vom 23. Oktober 1985 wird wie folgt geändert:[^82-1]
+#### § 97
 
-[^82-1]: § 82: Diese Änderung wird hier nicht abgedruckt.
+**Ungültigkeit von Amtes wegen**
 
-#### § 83
+<sup>1</sup> Stellt der Einwohnerrat bei Wahlen oder der Gemeinderat bei Abstimmungen fest, dass gesetzliche Vorschriften so verletzt worden sind, dass dadurch die Richtigkeit des Ergebnisses erheblich beeinflusst werden kann, so erklärt der Einwohnerrat die Wahl oder der Gemeinderat die Abstimmung für ungültig.
 
-**Ausführungsbestimmungen**
+#### § 98
 
-<sup>1</sup> Die weiteren Einzelheiten werden vom Gemeinderat in einem Reglement geordnet.
+**Wiederholung der Wahl oder Abstimmung**
 
-#### § 84
+<sup>1</sup> Ist infolge der Ungültigerklärung eine neue Wahl, eine Wiederholung eines Wahlgangs oder eine neue Abstimmung erforderlich, so trifft der Gemeinderat unverzüglich die erforderlichen Anordnungen.
 
-**Aufhebung des bisherigen Rechts**
+#### § 99
 
-<sup>1</sup> Mit Inkrafttreten dieser Ordnung ist die Ordnung der Wahlen und Abstimmungen der Einwohnergemeinde Riehen vom 26. März 1986 aufgehoben.
+**Ausübung des Mandates**
 
-#### § 85
+<sup>1</sup> Bei der Wahl des Einwohnerrats haben die gemäss § 77 Gewählten bis zur Ungültigerklärung der Wahl Sitz und Stimme.
 
-**Inkrafttreten**
+<sup>2</sup> In den übrigen Fällen üben die Gewählten ihr Amt bis zur Aufhebung der Wahl aus, sofern der gemäss § 93 oder § 96 erhobenen Beschwerde nicht die aufschiebende Wirkung erteilt wird.
 
-<sup>1</sup> Diese Ordnung ist zu veröffentlichen; sie unterliegt dem Referendum und wird mit Eintritt ihrer Rechtskraft sofort wirksam.[^85-1]
+## 6. Ausführungsbestimmungen
 
-[^85-1]: Wirksam seit 6. 8. 1996.
+#### § 100
 
-KB 06.07.1996
+<sup>1</sup> Der Gemeinderat erlässt weitere Ausführungsbestimmungen.
+
+<sup>2</sup> Er regelt insbesondere:
+
+- a) das Stimmregister und den Stimmrechtsausweis sowie die Stimmabgabe an der Urne und durch Dritte;
+- b) die Festlegung der Termine;
+- c) die Bestellung, Organisation, Aufgaben und Entschädigung des Wahl- und Abstimmungsbüros sowie die Entschädigung der Mitglieder und Mitwirkenden;
+- d) den Einsatz von Stimmbögen und technischen Hilfsmitteln;
+- e) die Vorgaben für die amtlichen Wahl- und Stimmzettel;
+- f) die Vorgaben für die Wahlvorschläge bei zweiten Wahlgängen der Majorzwahlen;
+- g) die Ungültigkeit von Wahl- und Stimmzetteln;
+- h) die Vorgaben für die amtlichen Erläuterungen;
+- i) das Vorgehen bei Losentscheiden.
+
+*Schlussbestimmung*
+
+Diese Ordnung ist zu publizieren; sie unterliegt dem Referendum und tritt am 1. März 2025 in Kraft. Auf den gleichen Zeitpunkt wird die Ordnung der politischen Rechte in der Einwohnergemeinde Riehen vom 24. April 1996 aufgehoben.
+
+KB 28.09.2024
