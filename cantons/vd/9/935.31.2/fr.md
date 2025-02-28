@@ -4,7 +4,7 @@ number: "935.31.2"
 title: "RÈGLEMENT du 23.09.2015 de l'examen professionnel en vue de l'obtention du certificat cantonal d'aptitudes et du diplôme pour licence (RCCAL)"
 short: RCCAL
 language: fr
-version: 2018-01-01
+version: 2025-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31.2?id=4e8d571b-72f8-46b5-b386-44349e789e38"
 ---
 
@@ -118,89 +118,67 @@ arrête
 
 <sup>1</sup> Le programme complet des cours comprend les modules suivants :
 
-a. Module A : Prescriptions d'hygiène
-
-\1. législation sur les denrées alimentaires et hygiène,
-
-\2. achat, stockage, entretien, nettoyage, gestion des déchets en cuisine et au service.
-
-b. Module B : Droit des établissements et préventions
-
-\1. Module B1 Droit des établissements
-
-1.1. loi sur les auberges et les débits de boissons (LADB),
-
-\2. Module B2 Préventions
-
-2.1. législation fédérale sur l'alcool,
-
-2.2. loi fédérale sur les produits stupéfiants,
-
-2.3. prévention des incendies,
-
-2.4. prévention des brigandages et incivilités,
-
-2.5. prévention du bruit et gestion du voisinage,
-
-2.6. prévention des risques liés à la consommation d'alcool.
-
-c. Module C : Connaissances générales de droit
-
-\1. Module C1 Connaissances générales de droit
-
-1.1. connaissances générales de droit, contrats,
-
-1.2. bail à loyer et reprise d'établissement,
-
-\2. Module C2 Droit du travail et assurances sociales
-
-2.1. droit du travail, police des étrangers et lutte contre le travail illicite,
-
-2.2. décomptes de salaires et assurances sociales.
-
-d. Module D : Comptabilité
-
-\1. prescriptions légales et bases comptables, TVA, indices et caractéristiques de gestion.
-
-e. Module E : Connaissances générales de l'alimentation et des produits
-
-\1. principes et tendances alimentaires,
-
-\2. connaissances des produits du terroir vaudois,
-
-\3. mise en valeur et transformation des produits du terroir vaudois.
-
-f. Module F : Conduite et organisation d'un établissement
-
-\1. marketing et communication,
-
-\2. gestion de l'exploitation et du personnel,
-
-\3. structure de l'offre et des prix,
-
-\4. développement durable et organisation d'un établissement.
-
-g. Module G : Vente, service et tourisme
-
-\1. connaissances du service,
-
-\2. connaissances des boissons,
-
-\3. comportement envers le client,
-
-\4. le tourisme : offre, demande, tendances et opportunités.
-
-h. Module H : Cuisine
-
-\1. infrastructures dans le domaine de la cuisine, réception de la marchandise, entretien et nettoyage,
-
-\2. connaissances de la cuisine,
-
-\3. calcul d'un menu.
+- a. Module A : Prescriptions d'hygiène
+- 1\. législation sur les denrées alimentaires et hygiène,
+- 2\. achat, stockage, entretien, nettoyage, gestion des déchets en cuisine et au service.
+- b. Module B : Droit des établissements et préventions
+- 1\. Module B1 Droit des établissements
+- 1\.1 loi sur les auberges et les débits de boissons (LADB).
+- 2\. Module B2 Préventions
+- 2\.1 législation fédérale sur l'alcool,
+- 2\.2 loi fédérale sur les produits stupéfiants,
+- 2\.3 prévention des incendies,
+- 2\.4 prévention des brigandages et incivilités,
+- 2\.5 prévention du bruit et gestion du voisinage,
+- 2\.6 prévention des risques liés à la consommation d'alcool.
+- c. Module C : Connaissances générales de droit
+- 1\. Module C1 Connaissances générales de droit
+- 1\.1 connaissances générales de droit, contrats,
+- 1\.2 bail à loyer et reprise d'établissement.
+- 2\. Module C2 Droit du travail et assurances sociales
+- 2\.1 droit du travail, police des étrangers et lutte contre le travail illicite,
+- 2\.2 décomptes de salaires et assurances sociales.
+- d. Module D : Comptabilité
+- 1\. prescriptions légales et bases comptables, TVA, indices et caractéristiques de gestion.
+- e. Module E : Connaissances générales de l'alimentation et des produits
+- 1\. principes et tendances alimentaires,
+- 2\. connaissances des produits du terroir vaudois,
+- 3\. mise en valeur et transformation des produits du terroir vaudois.
+- f. Module F : Conduite et organisation d'un établissement
+- 1\. marketing et communication,
+- 2\. gestion de l'exploitation et du personnel,
+- 3\. structure de l'offre et des prix,
+- 4\. développement durable et organisation d'un établissement.
+- g. Module G : Vente, service et tourisme
+- 1\. connaissances du service,
+- 2\. connaissances des boissons,
+- 3\. comportement envers le client,
+- 4\. le tourisme : offre, demande, tendances et opportunités.
+- h. Module H : Cuisine
+- 1\. infrastructures dans le domaine de la cuisine, réception de la marchandise, entretien et nettoyage,
+- 2\. connaissances de la cuisine,
+- 3\. calcul d'un menu.
 
 <sup>2</sup> Conformément aux exigences du droit du travail, toutes les entreprises qui cotisent aux assurances accident et maladie des employés doivent mettre en place un concept de sécurité. Un cours de "Personne de Contact pour la Sécurité au Travail" (PCST) est organisé par l'association. Aucun examen ne doit être passé.
 
 [^10-1]: Modif. 1 du 20.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 3 du 09.09.2026: Modification Al. 1, a, 1-2; entrée en vigueur au 09.09.2026
+
+#### Art. 11a
+
+**Œnotourisme [^11-1]**
+
+<sup>1</sup> Une formation spéciale est organisée pour les licences de caveau et les licences particulières de capite de vigne.
+
+<sup>2</sup> Cette formation est composée des cours suivants :
+
+- a. introduction à l'œnotourisme,
+- b. législation sur les denrées alimentaires et hygiène,
+- c. hygiène en cuisine,
+- d. législation sur les auberges et les débits de boissons,
+- e. prévention des risques liés à la consommation d'alcool,
+- f. aménagement du territoire et constructions.
+
+[^11-1]: Modif. 2 du 15.01.2025: Introduction Art. 11a; entrée en vigueur au 01.03.2025
 
 #### Art. 12
 
@@ -212,7 +190,9 @@ h. Module H : Cuisine
 
 <sup>3</sup> Il joint :
 
-un curriculum vitae et une copie d'une pièce d'identité valable munie d'une photographie pour les ressortissants suisses (passeport, carte d'identité, permis de conduire) ou du permis de séjour pour les ressortissants étrangers, les certificats et diplômes dont il est le titulaire, l'attestation de l'autorité compétente pour délivrer les autorisations permettant d'exploiter un établissement dans le ou les cantons ou dans le pays où il a exercé son activité.
+- a. un curriculum vitae et une copie d'une pièce d'identité valable munie d'une photographie pour les ressortissants suisses (passeport, carte d'identité, permis de conduire) ou du permis de séjour pour les ressortissants étrangers,
+- b. les certificats et diplômes dont il est le titulaire,
+- c. l'attestation de l'autorité compétente pour délivrer les autorisations permettant d'exploiter un établissement dans le ou les cantons ou dans le pays où il a exercé son activité.
 
 <sup>4</sup> Le département et l'association peuvent exiger tous les renseignements complémentaires nécessaires.
 
@@ -241,10 +221,10 @@ un curriculum vitae et une copie d'une pièce d'identité valable munie d'une ph
 - a. Discothèque, night-club, salon de jeux, hôtel, café-restaurant, café-bar, gîte rural, table d'hôtes, chalet d'alpage, tea-room, traiteur et bar à café : les modules A, B, C, D, E ;
 - b. Discothèque et night-club sans restauration : les modules A, B, C, D ;
 - c. Restauration mobile : les modules A, B1, C2 ;
-- d. Caveau : les modules A, B ;
+- d. Caveau et licence particulière de capite de vigne : formation spéciale prévue par l'article 11a du présent règlement.
 - e. Buvette : le module B.
 
-[^14-1]: Modif. 1 du 20.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 2 du 15.01.2025: Introduction Art. 11a; entrée en vigueur au 01.03.2025; Modification Al. 1, d; entrée en vigueur au 01.03.2025
+[^14-1]: Modif. 1 du 20.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 2 du 15.01.2025: Modification Al. 1, d; entrée en vigueur au 01.03.2025
 
 #### Art. 16
 
