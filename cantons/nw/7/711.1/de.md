@@ -4,13 +4,13 @@ number: "711.1"
 title: Gesetz zur Erhaltung und Förderung der Gesundheit
 short: "Gesundheitsgesetz, GesG"
 language: de
-version: 2024-07-01
-corrected: 2024-11-07
-version_adopted: 2024-04-24
+version: 2025-03-01
+valid_until: 2026-06-30
+version_adopted: 2024-11-27
 adopted: 2007-05-30
 in_force: 2009-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1282/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1282/pdf_file"
 
 (Gesundheitsgesetz, GesG)
 
-vom 30.05.2007 (Stand 01.07.2024)
+vom 30.05.2007 (Stand 01.03.2025)
 
 Der Landrat von Nidwalden,
 
@@ -461,7 +461,7 @@ beschliesst:
 
 <sup>1</sup> Gesundheitsfachpersonen haben aussergewöhnliche Todesfälle unverzüglich der Kantonspolizei zu melden.
 
-<sup>2</sup> Sie sind berechtigt, Wahrnehmungen, die auf ein Verbrechen gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen, der Kantonspolizei zu melden.
+<sup>2</sup> Sie sind berechtigt, Wahrnehmungen, die auf eine mögliche Straftat gegen Leib und Leben, die Freiheit, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen, der Kantonspolizei zu melden.
 
 #### Art. 33
 
@@ -755,7 +755,7 @@ beschliesst:
 
 - 1\. bei Einwilligung der oder des Berechtigten;
 - 2\. bei schriftlicher Bewilligung der Direktion als Aufsichtsbehörde im Sinne des Schweizerischen Strafgesetzbuches[^47-1];
-- 3\. gegenüber den Strafverfolgungsbehörden in Bezug auf Wahrnehmungen, die auf ein Delikt gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen;
+- 3\. gegenüber den Strafverfolgungsbehörden in Bezug auf Wahrnehmungen, die auf ein Delikt gegen Leib und Leben, die Freiheit, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen;
 - 4\. im Rahmen ihrer Meldepflicht gemäss Art. 32;
 - 5\. …
 
@@ -1260,7 +1260,7 @@ beschliesst:
 
 <sup>2</sup> Ist ein Beruf weiterhin bewilligungspflichtig, bleibt die bisherige Bewilligung in Kraft.
 
-<sup>3</sup> Personen, die beim Inkrafttreten dieses Gesetzes einen bewilligungspflichtigen Beruf des Gesundheitswesens ausüben und über 70 Jahre alt sind, müssen binnen drei Monaten ein Gesuch gemäss Art. 264 1 Ziff. 2 einreichen.
+<sup>3</sup> Personen, die beim Inkrafttreten dieses Gesetzes einen bewilligungspflichtigen Beruf des Gesundheitswesens ausüben und über 70 Jahre alt sind, müssen binnen drei Monaten ein Gesuch gemäss Art. 27 Abs. 1 Ziff. 2 einreichen.
 
 <sup>4</sup> Personen, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes eine neu der Bewilligungspflicht unterstellte Tätigkeit ausüben, haben innerhalb von sechs Monaten ein Gesuch einzureichen.
 
