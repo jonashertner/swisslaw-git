@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: "Arrêté concernant l'estivage 2024"
+title: "Arrêté concernant l'estivage 2025"
 language: fr
-version: 2024-03-01
-valid_until: 2025-02-28
-version_adopted: 2024-02-28
+version: 2025-03-01
+valid_until: 2026-03-31
+version_adopted: 2025-03-12
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/fr/versions/3296/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3469/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté concernant l'estivage 2024
+# Arrêté concernant l'estivage 2025
 
-du 28.02.2024 (état 01.03.2024)
+du 12.03.2025 (état 01.03.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -26,7 +26,9 @@ vu la loi fédérale sur la protection des eaux du 24 janvier 1991 (LEaux);
 
 vu l'article 32 alinéa 1 de l'ordonnance fédérale sur les épizooties du 27 juin 1995 (OFE);
 
-vu les articles 69, 77, 78 et 101 de l’ordonnance fédérale sur la protection des animaux du 23 avril 2008 (OPAn);
+vu les articles 69, 78 et 101 de l’ordonnance fédérale sur la protection des animaux du 23 avril 2008 (OPAn);
+
+vu l’article 10d de ordonnance sur la chasse et la protection des mammifères et oiseaux sauvages du 29 février 1988 (ordonnance sur la chasse, OChP);
 
 sur la proposition du département en charge de la santé,
 
@@ -46,7 +48,7 @@ arrête:
 
 <sup>4</sup> L'estivage du bétail n'a lieu qu'à partir du 15 mai et jusqu'au 15 octobre. Le vétérinaire cantonal peut sur demande écrite et motivée délivrer une permission d’estivage jusqu’au 30 octobre. Si des animaux se trouvent sur un estivage au-delà de cette date et sont menacés par des conditions météorologiques extrêmes, ils doivent immédiatement être désalpés et mis à l’abri par leur propriétaire. Si ce dernier n’est pas identifié ou dans l’incapacité d’agir, la commune est responsable de prendre toutes les mesures nécessaires, conformément à l’article 15 alinéa 2 de la loi d'application de la loi fédérale sur la protection des animaux (LALPA). Elle peut en dernier ressort faire appel au garde-faune, qui après préavis positif du Vétérinaire cantonal, peut procéder au tir des animaux concernés.
 
-<sup>5</sup> Obligation d'inscrire les médicaments vétérinaires dans un registre: Selon l'ordonnance sur les médicaments vétérinaires (OMédV), presque tous les médicaments vétérinaires administrés à des animaux de rente doivent être inscrits dans un registre (tous les médicaments remis sur ordonnance, tous les médicaments pour lesquels il faut respecter un temps d'attente, les médicaments reconvertis ou importés, les médicaments non soumis à une autorisation de mise sur le marché, les médicaments fabriqués selon une formule magistrale). Si des médicaments vétérinaires sont administrés à des animaux sur l'alpage, les informations suivantes doivent être inscrites dans un journal des traitements:
+<sup>5</sup> Obligation d'inscrire les médicaments vétérinaires dans un registre: selon l'ordonnance sur les médicaments vétérinaires (OMédV), presque tous les médicaments vétérinaires administrés à des animaux de rente doivent être inscrits dans un registre (tous les médicaments remis sur ordonnance, tous les médicaments pour lesquels il faut respecter un temps d'attente, les médicaments reconvertis ou importés, les médicaments non soumis à une autorisation de mise sur le marché, les médicaments fabriqués selon une formule magistrale). Si des médicaments vétérinaires sont administrés à des animaux sur l'alpage, les informations suivantes doivent être inscrites dans un journal des traitements:
 
 - a) la date de la première et de la dernière administration;
 - b) l'identification des animaux ou du groupe d'animaux traités par exemple le numéro de la marque auriculaire;
@@ -152,9 +154,11 @@ arrête:
 
 <sup>1</sup> En ce qui concerne la diarrhée virale bovine (BVD), les mêmes conditions que pour l’estivage en Suisse s’appliquent selon l’article 18.
 
-<sup>2</sup> Pour ce qui est de la maladie de la langue bleue, ce sont les dispositions et exigences actuelles du pays où les animaux sont estivés qui s’appliquent. Les animaux qui sont estivés en France doivent être vaccinés contre le BTV-4 et le BTV-8. Ceux qui sont estivés en Autriche doivent être vaccinés contre le BTV-8. Les animaux qui sont estivés dans le Bade-Wurtemberg ne doivent pas être vaccinés contre le BTV-8.
+<sup>2</sup> S’agissant de la maladie de la langue bleue et de la maladie hémorragique épizootique (EHD), ce sont en principe les dispositions et les exigences actuelles du règlement délégué (UE) 2020/688 [1] qui s’appliquent L’OSAV fournit des informations à ce sujet sur sa page internet Mesures de protection dans les échanges avec l’UE. La Commission européenne publie les dérogations utilisables sur sa page web Bluetongue. Si les animaux sont estivés à l’étranger, les prescriptions du pays de destination doivent être respectées. Les animaux devraient être vaccinés contre le BTV-3, le BTV-4, le BTV-8 et contre l’EHD lorsque les vaccins seront disponibles.
 
-<sup>3</sup> Les animaux qu’il est prévu d’estiver doivent faire l’objet d’un examen vétérinaire officiel dans les 48 heures avant leur départ pour le pacage. Le vétérinaire officiel établit un certificat sanitaire, qui accompagne les animaux à leur lieu de destination. Le certificat sanitaire à utiliser pour le pacage saisonnier ou le pacage journalier des bovins est en principe un certificat sanitaire reproduit dans le système TRACES NT. En l'absence de certificat spécifique disponible, et pour le pacage des autres catégories d'animaux pour lesquelles l'accord vétérinaire bilatéral ne fixe aucun certificat spécial, le certificat à utiliser doit être défini avec les services vétérinaires du lieu de destination. Le certificat sanitaire à utiliser pour le pacage frontalier ou le pacage journalier doit comporter les informations suivantes:
+<sup>3</sup> Les autorités compétentes doivent convenir entre elles des modalités de l’estivage avant qu’il ne débute et pour le cas où une région d’estivage serait touchée par la BT ou l’EHD ou serait située dans une zone touchée.
+
+<sup>4</sup> Les animaux qu’il est prévu d’estiver doivent faire l’objet d’un examen vétérinaire officiel dans les 48 heures avant leur départ pour le pacage. Le vétérinaire officiel établit un certificat sanitaire, qui accompagne les animaux à leur lieu de destination. Le certificat sanitaire à utiliser pour le pacage saisonnier ou le pacage journalier des bovins est en principe un certificat sanitaire reproduit dans le système TRACES NT. En l'absence de certificat spécifique disponible, et pour le pacage des autres catégories d'animaux pour lesquelles l'accord vétérinaire bilatéral ne fixe aucun certificat spécial, le certificat à utiliser doit être défini avec les services vétérinaires du lieu de destination. Le certificat sanitaire à utiliser pour le pacage frontalier ou le pacage journalier doit comporter les informations suivantes:
 
 - a) la confirmation officielle que l’exploitation de provenance des animaux qu’il est prévu d’estiver ne fait l’objet d’aucune interdiction ou limitation liée à une épizootie bovine;
 - b) la confirmation officielle que le troupeau de provenance est reconnu officiellement indemne de leucose, de tuberculose et de brucellose;
@@ -163,25 +167,25 @@ arrête:
 - e) numéro d’agrément du transporteur (si la distance de transport est supérieure à 50 km);
 - f) adresse de l’exploitation de destination, y compris code d’enregistrement du pâturage; en cas de pacage frontalier en Allemagne, cette rubrique ne doit pas être remplie.
 
-<sup>4</sup> Une convention écrite doit être conclue entre le vétérinaire officiel et le détenteur d'animaux. Dans cette convention, le détenteur d'animaux déclare accepter toutes les mesures prévues et les autres mesures prises au niveau local dans le pays de destination et il s'engage à supporter tous les frais liés au contrôle. La convention doit contenir une disposition stipulant que le détenteur d'animaux est tenu d'informer les autorités étrangères (annonce de l'arrivée des animaux et de la date prévue du retour en Suisse).
+<sup>5</sup> Une convention écrite doit être conclue entre le vétérinaire officiel et le détenteur d'animaux. Dans cette convention, le détenteur d'animaux déclare accepter toutes les mesures prévues et les autres mesures prises au niveau local dans le pays de destination et il s'engage à supporter tous les frais liés au contrôle. La convention doit contenir une disposition stipulant que le détenteur d'animaux est tenu d'informer les autorités étrangères (annonce de l'arrivée des animaux et de la date prévue du retour en Suisse).
 
-<sup>5</sup> L’office vétérinaire cantonal compétent informe les autorités vétérinaires du pays voisin du départ des animaux au plus tard dans les 24 heures précédant la date prévue d’arrivée des animaux sur le lieu de pacage frontalier (au moyen d'un message TRACES). En accord avec les autorités vétérinaires régionales compétentes du pays limitrophe, l'information nécessaire peut aussi être transmise sous une autre forme. Le système TRACES ne connaît qu'un certificat spécial pour l'estivage et le pacage des bovins. Pour les moutons et les chèvres, il n'existe à l'heure actuelle que des modèles de certificats régionaux. Néanmoins les animaux doivent être accompagnés dans tous les cas de l'original du certificat signé par le vétérinaire officiel compétent et marqué de son sceau.
+<sup>6</sup> L’office vétérinaire cantonal compétent informe les autorités vétérinaires du pays voisin du départ des animaux au plus tard dans les 24 heures précédant la date prévue d’arrivée des animaux sur le lieu de pacage frontalier (au moyen d'un message TRACES). En accord avec les autorités vétérinaires régionales compétentes du pays limitrophe, l'information nécessaire peut aussi être transmise sous une autre forme. Le système TRACES ne connaît qu'un certificat spécial pour l'estivage et le pacage des bovins. Pour les moutons et les chèvres, il n'existe à l'heure actuelle que des modèles de certificats régionaux. Néanmoins les animaux doivent être accompagnés dans tous les cas de l'original du certificat signé par le vétérinaire officiel compétent et marqué de son sceau.
 
-<sup>6</sup> Le détenteur d'animaux annonce à la BDTA le départ d'animaux de l'espèce bovine.
+<sup>7</sup> Le détenteur d'animaux annonce à la BDTA le départ d'animaux de l'espèce bovine.
 
-<sup>7</sup> Les animaux doivent rester sous contrôle douanier pendant toute la durée du pacage à l’étranger. Le détenteur des animaux doit s’informer des prescriptions et des procédures auprès de la douane.
+<sup>8</sup> Les animaux doivent rester sous contrôle douanier pendant toute la durée du pacage à l’étranger. Le détenteur des animaux doit s’informer des prescriptions et des procédures auprès de la douane.
 
-<sup>8</sup> En raison de l’application des accords bilatéraux, la douane suisse ne perçoit plus d’émoluments vétérinaires sur mandat de l’office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).
+<sup>9</sup> En raison de l’application des accords bilatéraux, la douane suisse ne perçoit plus d’émoluments vétérinaires sur mandat de l’office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).
 
-<sup>9</sup> Mesures spéciales applicables au pacage transfrontalier dans le Voralberg (Autriche): des risques élevés existent, lors de pacage dans cette région, que les animaux contractent la tuberculose bovine.
+<sup>10</sup> Mesures spéciales applicables au pacage transfrontalier dans le Voralberg (Autriche): des risques élevés existent, lors de pacage dans cette région, que les animaux contractent la tuberculose bovine.
 
-<sup>10</sup> En cas de pacage journalier, les mesures visées aux alinéas 2 à 6 ne doivent être prises qu’au début de la période de pacage. Pour tous les autres franchissements de la frontière dans la même année calendaire, aucun contrôle vétérinaire officiel ou message TRACES n’est nécessaire et aucun émolument supplémentaire n’est perçu. Le détenteur des animaux s’engage, par écrit, à informer sans tarder le service ou office vétérinaire cantonal compétent et les autorités vétérinaires étrangères compétentes de tout contact de ses animaux avec des animaux du pays voisin et à communiquer à ces dernières la date de la fin du pacage.
+<sup>11</sup> En cas de pacage journalier, les mesures visées aux alinéas 2 à 6 ne doivent être prises qu’au début de la période de pacage. Pour tous les autres franchissements de la frontière dans la même année calendaire, aucun contrôle vétérinaire officiel ou message TRACES n’est nécessaire et aucun émolument supplémentaire n’est perçu. Le détenteur des animaux s’engage, par écrit, à informer sans tarder le service ou office vétérinaire cantonal compétent et les autorités vétérinaires étrangères compétentes de tout contact de ses animaux avec des animaux du pays voisin et à communiquer à ces dernières la date de la fin du pacage.
 
 #### Art. 12
 
 **Mesures au lieu de destination à l'étranger**
 
-<sup>1</sup> Les animaux ne doivent pas avoir de contact avec des troupeaux étrangers (seuls les troupeaux autrichiens, parmi tous les troupeaux de bovins des pays qui nous entourent, sont considérés comme "officiellement indemnes d'IBR sur le plan national"; en outre, la BVD est présente à de nombreux endroits).
+<sup>1</sup> Les animaux ne doivent pas avoir de contact avec des troupeaux étrangers (seuls les troupeaux autrichiens et allemands, parmi tous les troupeaux de bovins des pays qui nous entourent, sont considérés comme "officiellement indemnes d'IBR sur le plan national"; en outre, la BVD est présente à de nombreux endroits).
 
 <sup>2</sup> Les autorités vétérinaires compétentes procèdent sans tarder à un contrôle vétérinaire officiel des animaux au lieu de destination. Le détenteur d'animaux doit annoncer à temps, à l'autorité vétérinaire étrangère, l'arrivée des animaux sur le lieu de pacage.
 
@@ -290,7 +294,12 @@ arrête:
 
 <sup>1</sup> En cas de gale, il est recommandé d’administrer un traitement prophylactique contre la gale à tous les moutons avant l’estivage.
 
-<sup>2</sup> Seuls des animaux ayant des onglons sains peuvent être estivés. Les animaux qui boitent, notamment ceux qui présentent des signes de piétin doivent être refoulés par troupeau entier dans leur troupeau d'origine.
+<sup>2</sup> En ce qui concerne la maladie du Piétin:
+
+- a) seuls les moutons provenant d’unités d’élevage ayant le statut "indemne" de piétin peuvent être déplacés vers une exploitation d’estivage;
+- b) l’alpagiste est tenu de contrôler les animaux conduits à l’alpage et de vérifier notamment s’ils boitent. Les animaux boiteux, en particulier ceux qui présentent des signes de piétin doivent être renvoyés dans leur exploitation de provenance par véhicule ou troupeau entiers et annoncés au vétérinaire cantonal (suspicion d’épizootie);
+- c) il faut éviter autant que possible que des moutons provenant d’alpages différents utilisent les mêmes lieux de rassemblement ou empruntent les mêmes chemins;
+- d) sur demande, le vétérinaire cantonal peut autoriser les exploitations d’estivage à accueillir exclusivement des moutons provenant d’unités d’élevage ayant le statut "sous séquestre". Cela n’est possible que si l’alpagiste peut prouver qu’il n’y a pas de risque de contamination pour d’autres moutons et que des mesures sont prises pour garantir le bien-être des animaux et la protection des animaux sauvages. Le vétérinaire cantonal place ces exploitations d’estivage sous séquestre simple de premier degré et ordonne les mesures de sécurité nécessaires.
 
 <sup>3</sup> Aucun animal présentant des signes cliniques d’ophtalmie infectieuse (forte rougeur des yeux, conjonctivite, yeux troubles) ne peut être mené à l'alpage et estivé sur des pâturages.
 
@@ -308,22 +317,18 @@ arrête:
 
 **Définition et organisation**
 
-<sup>1</sup> Conformément à l’article 30 LALPA seuls sont considérés chiens de protection des troupeaux les chiens visés par un contrat conclu avec l'institution reconnue.
+<sup>1</sup> Conformément à l’article 30 LALPA seuls sont considérés chiens de protection des troupeaux les chiens visés par un contrat conclu avec l'institution reconnue, c’est à dire testés et enregistrés au sens de l’article 10d alinéa 2 de l’OChP.
 
-<sup>2</sup> D’autres chiens utilitaires au sens de l’article 69 OPAn peuvent être engagés pour la garde et la protection des animaux de rente après avoir prouvé par un test organisé par le service cantonal spécialisé pour la protection des troupeaux que leur comportement ne représente pas une menace objective pour la sécurité publique et sont habilités à protéger des animaux de manière largement autonome.
+<sup>2</sup> Les chiens de protection des troupeaux reconnus sont exclusivement soumis aux dispositions du droit fédéral; c’est-à-dire notamment aux directives émises par l’OFEV.
 
-<sup>3</sup> Les chiens de protection des troupeaux reconnus selon l’alinéa 1 sont exclusivement soumis aux dispositions du droit fédéral; c’est-à-dire notamment aux directives émises par l’OFEV.
+<sup>3</sup> Le détenteur au sens de la législation sur la protection des animaux est la personne qui détient le pouvoir de disposer d’un animal plus que temporairement. Les personnes qui assurent pendant plusieurs semaines la responsabilité d’un animal sont considérées comme détenteurs. Pour les chiens au sens des alinéas 1 et 2, est considéré comme détenteur pendant l’estivage le responsable de l’alpage.
 
-<sup>4</sup> Le détenteur au sens de la législation sur la protection des animaux est la personne qui détient le pouvoir de disposer d’un animal plus que temporairement. Les personnes qui assurent pendant plusieurs semaines la responsabilité d’un animal sont considérées comme détenteurs. Pour les chiens au sens des alinéas 1 et 2, est considéré comme détenteur pendant l’estivage le responsable de l’alpage.
+<sup>4</sup> La commission cantonale pour les chiens de protection des troupeaux est l’organe cantonal compétent pour les chiens de protection reconnus au sens de l’alinéa 1, il est placé sous la direction du responsable cantonal pour la protection des troupeaux et se compose au minimum de:
 
-<sup>5</sup> La commission cantonale pour les chiens de protection des troupeaux est l’organe cantonal compétent pour les chiens de protection reconnus au sens de l’alinéa 1, il est placé sous la direction du responsable cantonal pour la protection des troupeaux et se compose au minimum de:
-
-- a) le responsable cantonal pour la protection des troupeaux (SCA, Landwirtschaftzentrum Visp);
+- a) le responsable cantonal pour la protection des troupeaux (SCA);
 - b) un représentant de l'Office vétérinaire cantonal (Ovet, Service de la consommation et affaires vétérinaires, SCAV);
 - c) un représentant du Service de la chasse, pêche et faune (SCPF);
 - d) un représentant de l'association valaisanne de la randonnée (Valrando).
-
-<sup>6</sup> Les incidents qui seraient provoqués par des chiens utilitaires testés au sens de l'alinéa 2 sont traités par l'Ovet selon l'article 39 LALPA. Dans ces cas, leur détenteur est responsable conformément à l'article 77 OPAn de faire en sorte que leur chien ne mette pas en danger des êtres humains ou des animaux.
 
 #### Art. 24
 
@@ -339,7 +344,7 @@ arrête:
 
 #### Art. 25
 
-**Mesures en cas d'agression, de comportement suspect ou inadéquat d'un chien de protection reconnu au sens de l'alinéa 1**
+**Mesures en cas d'agression, de comportement suspect ou inadéquat d'un chien de protection reconnu**
 
 <sup>1</sup> Lors de l'annonce d'un incident ou d'un comportement inadéquat avec des personnes ou des animaux, l'organe compétent prend les mesures appropriées après évaluation de la situation.
 
@@ -349,9 +354,7 @@ arrête:
 - b) après une plainte pour chasse/divagation ou pour nuisance sonore;
 - c) lors de plainte sur leurs conditions de détention.
 
-<sup>3</sup> Les frais engendrés par l'expertise sont à la charge du service spécialisé de l'OFEV "Chiens de protection des troupeaux".
-
-<sup>4</sup> Si la situation l'exige, l'Ovet peut ordonner des mesures sécuritaires urgentes jusqu'à décision de l'organe compétent.
+<sup>3</sup> Si la situation l'exige, l'Ovet peut ordonner des mesures sécuritaires urgentes jusqu'à décision de l'organe compétent.
 
 ## 6 Places de traites mobiles
 
@@ -419,4 +422,4 @@ arrête:
 
 <sup>3</sup> Le vétérinaire cantonal de même que le chimiste cantonal (section 7) sont chargés de l’exécution des présentes prescriptions. Ils sont autorisés à prendre d’urgence les mesures qu’ils jugeront utiles en vue de l'exécution du présent arrêté.
 
-RCV RO/AGS 2024-026
+RCV RO/AGS 2025-035

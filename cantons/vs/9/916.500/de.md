@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: Beschluss über die Sömmerung 2024
+title: Beschluss über die Sömmerung 2025
 language: de
-version: 2024-03-01
-valid_until: 2025-02-28
-version_adopted: 2024-02-28
+version: 2025-03-01
+valid_until: 2026-03-31
+version_adopted: 2025-03-12
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/de/versions/3296/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Sömmerung 2024
+# Beschluss über die Sömmerung 2025
 
-vom 28.02.2024 (Stand 01.03.2024)
+vom 12.03.2025 (Stand 01.03.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -26,7 +26,9 @@ eingesehen das Bundesgesetz über den Schutz der Gewässer vom 24. Januar 1991 (
 
 eingesehen den Artikel 32 Absatz 1 der eidgenössischen Tierseuchenverordnung vom 27. Juni 1995 (TSV);
 
-eingesehen die Artikel 69, 77, 78 und 101 der eidgenössischen Tierschutzverordnung vom 23. April 2008 (TSchV);
+eingesehen die Artikel 69, 78 und 101 der eidgenössischen Tierschutzverordnung vom 23. April 2008 (TSchV);
+
+eingesehen den Artikel 10d der Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel vom 29. Februar 1988 (Jagdverordnung, JSV);
 
 auf Antrag des für die Gesundheit zuständigen Departements,
 
@@ -92,7 +94,7 @@ beschliesst:
 
 <sup>1</sup> Jeder Sömmerungsbetrieb muss einen verantwortlichen Tierhalter bezeichnen. Der verantwortliche Tierhalter ist zuständig für folgende Punkte:
 
-- a) er muss die vorgeschriebenen Begleitdokumente, Tierlisten und Zeugnisse von den Tierhaltern am Tag der Auffuhr einziehen und ein Tierverzeichnis gemäss Artikel 8 TSV erstellen; das Tierverzeichnis enthält die Zu- und Abgänge, die Kennzeichen sowie die Belegungs- und Sprungdaten;
+- a) er muss die vorgeschriebenen Begleitdokumente, Tierlisten und Zeugnisse von den Tierhaltern am Tag der Auffuhr einziehen und ein Tierverzeichnis gemäss Artikel 8 der Tierseuchenverordnung (TSV) erstellen; das Tierverzeichnis enthält die Zu- und Abgänge, die Kennzeichen sowie die Belegungs- und Sprungdaten;
 - b) er muss allfällige Mutationen oder Abgänge (Krankheit, Unfall, Raubtiere) während der Sömmerungsperiode im Tierverzeichnis (TVD) nachführen;
 - c) Ende der Sömmerung: er gibt die beim Auftrieb mitgebrachten Begleitdokumente wieder zurück unter folgenden Bedingungen:
   - 1\. es findet keine Handänderung statt und die Tiere gehen wieder in den Ursprungsbetrieb zurück,
@@ -112,7 +114,7 @@ beschliesst:
 
 #### Art. 6
 
-**Melden von Tierbewegungen von Tieren der Rinder-, Schaf- und Ziegengattung an die TVD**
+**Melden von Tierbewegungen von Tieren der Rinder-, Schaf- und Ziegengattung an die Tierverkehrsdatenbank (TVD)**
 
 <sup>1</sup> Sämtliche Tierbewegungen von Tieren der Rinder-, Schaf- und Ziegengattung zu Sömmerungsbetrieben, Hirtenbetrieben, Gemeinschaftsweidebetrieben und zur Sömmerung im Ausland, müssen an die Tierverkehrsdatenbank via dem Portal www.agate.ch gemeldet werden. Die Informationen der Tierverkehrsdatenbank zu den verschiedenen Meldearten und -möglichkeiten sind zu beachten.
 
@@ -150,11 +152,13 @@ beschliesst:
 
 **Massnahmen in der Schweiz vor Antritt der Sömmerung**
 
-<sup>1</sup> In Bezug auf die Bovine Virus-Diarrhoe (BVD) gelten sinngemäss die Bestimmungen nach Artikel 18.
+<sup>1</sup> In Bezug auf die Bovine Virus-Diarrhoe (BVD) gelten sinngemäss die Bestimmungen nach Artikel 19.
 
-<sup>2</sup> In Bezug auf die Blauzungenkrankheit gelten die aktuellen Bestimmungen und Anforderungen derjenigen Länder, in welche die Tiere zur Sömmerung verbracht werden. Tiere, die in Frankreich gesömmert werden, müssen gegen BTV-4 und BTV-8 geimpft werden. Tiere, die in Österreich gesömmert werden, müssen gegen BTV-8 geimpft werden. Tiere, die in Baden-Württemberg gesömmert werden, müssen nicht gegen BTV-8 geimpft werden.
+<sup>2</sup> In Bezug auf die Blauzungenkrankheit und EHD gelten grundsätzlich die aktuellen Bestimmungen und Anforderungen der EU gemäss Delegierter Verordnung (EU) 2020/688[1]. Das BLV informiert auf der Webseite Schutzmassnahmen EU. Die nutzbaren Ausnahmebestimmungen veröffentlicht die EU Kommission auf der Webseite Bluetongue. Für Sömmerungstiere mit Grenzübertritt sind die Vorgaben der Bestimmungsländer zu beachten. Eine Impfung der Tiere gegen BTV-3, BTV-4 und BTV-8 sowie EHD sollte bei Verfügbarkeit der Impfstoffe erfolgen..
 
-<sup>3</sup> Die zur Sömmerung vorgesehenen Tiere müssen innerhalb 48 Stunden vor Antritt des Grenzweidegangs am Herkunftsort amtstierärztlich untersucht werden. Der amtliche Tierarzt stellt ein Gesundheitszeugnis aus, das die Tiere an den Bestimmungsort begleitet. Das für den saisonalen Grenzweidegang oder den Tagesweidegang von Rindern zu verwendende Gesundheitszeugnis ist grundsätzlich ein im TRACES NT-System abgebildetes Gesundheitszeugnis. Ist kein spezielles Zeugnis verfügbar, und für den Grenzweidegang anderer Tierkategorien, für die im bilateralen Veterinärabkommen keine speziellen Zeugnisse festgelegt sind, ist das zu verwendende Zeugnis mit den Veterinärdiensten des Bestimmungsortes abzusprechen. Das Gesundheitszeugnis für den Grenzweidegang bzw. den Tagesweidegang enthält folgende Angaben:
+<sup>3</sup> Vor Antritt der Sömmerung und für den Fall, dass ein Sömmerungsgebiet von BT oder EHD betroffen wird oder in eine Zone zu liegen kommt, sind direkte Absprachen zwischen den zuständigen Behörden erforderlich.
+
+<sup>4</sup> Die zur Sömmerung vorgesehenen Tiere müssen innerhalb 48 Stunden vor Antritt des Grenzweidegangs am Herkunftsort amtstierärztlich untersucht werden. Der amtliche Tierarzt stellt ein Gesundheitszeugnis aus, das die Tiere an den Bestimmungsort begleitet. Das für den saisonalen Grenzweidegang oder den Tagesweidegang von Rindern zu verwendende Gesundheitszeugnis ist grundsätzlich ein im TRACES NT-System abgebildetes Gesundheitszeugnis. Ist kein spezielles Zeugnis verfügbar, und für den Grenzweidegang anderer Tierkategorien, für die im bilateralen Veterinärabkommen keine speziellen Zeugnisse festgelegt sind, ist das zu verwendende Zeugnis mit den Veterinärdiensten des Bestimmungsortes abzusprechen. Das Gesundheitszeugnis für den Grenzweidegang bzw. den Tagesweidegang enthält folgende Angaben:
 
 - a) Bestätigung des Amtstierarztes, dass der Betrieb, dessen Tiere gesömmert werden, nicht wegen einer Rinderkrankheit gesperrt oder anderweitig beschränkt ist;
 - b) amtliche Bestätigung, dass der Herkunftsbestand frei von Leukose-, Tuberkulose- und Brucellose ist;
@@ -163,25 +167,25 @@ beschliesst:
 - e) Zulassungsnummer des Transportunternehmens (bei Transportstrecken über 50 km);
 - f) Anschrift des Bestimmungsbetriebes inkl. Registriernummer des ausgeschiedenen Weideplatzes; beim Grenzweidegang nach Deutschland ist dieses Feld nicht auszufüllen.
 
-<sup>4</sup> Zwischen dem Tierhalter und dem delegierten Tierarzt (kann nach Ermessen des Kantonstierarztes an die Exportkontrolltierärzte delegiert werden) muss eine schriftliche Vereinbarung getroffen werden, in der sich der Tierhalter mit all den vorgesehenen Massnahmen sowie allen anderen auf lokaler Ebene des Bestimmungslandes eingeführten Massnahmen einverstanden erklärt und sich verpflichtet, alle anfallenden Kontrollkosten zu übernehmen. Insbesondere muss in dieser Vereinbarung die Informationspflicht des Halters gegenüber den ausländischen Behörden (rechtzeitige Meldung der Ankunft und der geplanten Rückkehr) festgehalten werden.
+<sup>5</sup> Zwischen dem Tierhalter und dem delegierten Tierarzt (kann nach Ermessen des Kantonstierarztes an die Exportkontrolltierärzte delegiert werden) muss eine schriftliche Vereinbarung getroffen werden, in der sich der Tierhalter mit all den vorgesehenen Massnahmen sowie allen anderen auf lokaler Ebene des Bestimmungslandes eingeführten Massnahmen einverstanden erklärt und sich verpflichtet, alle anfallenden Kontrollkosten zu übernehmen. Insbesondere muss in dieser Vereinbarung die Informationspflicht des Halters gegenüber den ausländischen Behörden (rechtzeitige Meldung der Ankunft und der geplanten Rückkehr) festgehalten werden.
 
-<sup>5</sup> Das zuständige kantonale Veterinäramt meldet den Veterinärbehörden des Nachbarlandes den Abgang der Tiere spätestens 24 Stunden vor Antritt des geplanten Grenzweideganges in Form einer TRACES-Meldung. In Absprache mit den zuständigen regionalen Veterinärbehörden des Nachbarlandes kann die notwendige Information auch in anderer Form übermittelt werden. Im TRACES-System existiert nur für die Sömmerung/den Grenzweidegang von Rindern ein spezielles Zeugnis. Für Schafe und Ziegen existieren z.T. regionale Zeugnismuster. In jedem Fall muss aber das vom zuständigen amtlichen Tierarzt unterschriebene und abgestempelte Original des Zeugnisses die Tiere begleiten.
+<sup>6</sup> Das zuständige kantonale Veterinäramt meldet den Veterinärbehörden des Nachbarlandes den Abgang der Tiere spätestens 24 Stunden vor Antritt des geplanten Grenzweideganges in Form einer TRACES-Meldung. In Absprache mit den zuständigen regionalen Veterinärbehörden des Nachbarlandes kann die notwendige Information auch in anderer Form übermittelt werden. Im TRACES-System existiert nur für die Sömmerung/den Grenzweidegang von Rindern ein spezielles Zeugnis. Für Schafe und Ziegen existieren z.T. regionale Zeugnismuster. In jedem Fall muss aber das vom zuständigen amtlichen Tierarzt unterschriebene und abgestempelte Original des Zeugnisses die Tiere begleiten.
 
-<sup>6</sup> Der Tierhalter meldet den Abgang von Tieren der Rindergattung an die Tierverkehrsdatenbank.
+<sup>7</sup> Der Tierhalter meldet den Abgang von Tieren der Rindergattung an die TVD.
 
-<sup>7</sup> Die Tiere stehen während des gesamten Weideganges im Ausland unter zolltechnischer Kontrolle. Der Tierbesitzer hat sich beim Zoll über die entsprechenden Vorschriften und Abläufe zu orientieren.
+<sup>8</sup> Die Tiere stehen während des gesamten Weideganges im Ausland unter zolltechnischer Kontrolle. Der Tierbesitzer hat sich beim Zoll über die entsprechenden Vorschriften und Abläufe zu orientieren.
 
-<sup>8</sup> Aufgrund der Anwendung der bilateralen Verträge erhebt der Schweizer Zoll keine veterinärtechnischen Gebühren im Auftrag des BLV mehr.
+<sup>9</sup> Aufgrund der Anwendung der bilateralen Verträge erhebt der Schweizer Zoll keine veterinärtechnischen Gebühren im Auftrag des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) mehr.
 
-<sup>9</sup> Besondere Massnahmen für den Grenzweidegang in Vorarlberg (Österreich): Die Kantone machen die Tierhalter auf das erhöhte Risiko einer Infektion mit boviner Tuberkulose aufmerksam.
+<sup>10</sup> Besondere Massnahmen für den Grenzweidegang in Vorarlberg (Österreich): Die Kantone machen die Tierhalter auf das erhöhte Risiko einer Infektion mit boviner Tuberkulose aufmerksam.
 
-<sup>10</sup> Beim Tagesweidegang müssen Massnahmen nach den Absätzen 2 bis 6 nur zu Beginn der Weideperiode ergriffen werden. Für alle weiteren Grenzübertritte im gleichen Kalenderjahr ist keine amtstierärztliche Untersuchung oder TRACES-Meldung mehr notwendig und es fallen auch keine weiteren Gebühren an. Der Tierbesitzer muss sich schriftlich verpflichten, jeden Kontakt mit Tieren aus dem Nachbarland sowohl dem zuständigen kantonalen Veterinäramt als auch den Veterinärbehörden im Ausland unverzüglich zu melden und die Veterinärbehörden im Ausland über das Ende der Weidezeit zu informieren.
+<sup>11</sup> Beim Tagesweidegang müssen Massnahmen nach den Absätzen 2 bis 6 nur zu Beginn der Weideperiode ergriffen werden. Für alle weiteren Grenzübertritte im gleichen Kalenderjahr ist keine amtstierärztliche Untersuchung oder TRACES-Meldung mehr notwendig und es fallen auch keine weiteren Gebühren an. Der Tierbesitzer muss sich schriftlich verpflichten, jeden Kontakt mit Tieren aus dem Nachbarland sowohl dem zuständigen kantonalen Veterinäramt als auch den Veterinärbehörden im Ausland unverzüglich zu melden und die Veterinärbehörden im Ausland über das Ende der Weidezeit zu informieren.
 
 #### Art. 12
 
 **Massnahmen am Bestimmungsort im Ausland**
 
-<sup>1</sup> Die Tiere dürfen keinen Kontakt mit ausländischen Herden haben (so gelten von den Rinderbeständen in den Nachbarländern nur derjenige in Österreich als "amtlich frei von IBR auf nationaler Ebene“, auch die BVD ist vielerorts verbreitet).
+<sup>1</sup> Die Tiere dürfen keinen Kontakt mit ausländischen Herden haben (so gelten von den Rinderbeständen in den Nachbarländern nur derjenige in Österreich und Deutschland "amtlich frei von IBR auf nationaler Ebene“; auch die BVD ist vielerorts verbreitet).
 
 <sup>2</sup> Die Tiere sind am Bestimmungsort von den zuständigen Veterinärbehörden unverzüglich amtstierärztlich zu kontrollieren. Der Tierhalter ist dafür verantwortlich, dass die ausländischen Behörden rechtzeitig über die Ankunft der Tiere informiert werden.
 
@@ -208,7 +212,7 @@ beschliesst:
 
 <sup>2</sup> Im gegenseitigen Einverständnis können Grenzkantone mit den Veterinärbehörden des Nachbarlandes Vereinfachungen des Verfahrens vereinbaren. Dies betrifft insbesondere den Ort der amtstierärztlichen Untersuchung im Herkunfts- sowie im Bestimmungsland (evtl. Untersuchung in Sammelstellen anstatt auf dem Herkunftsbetrieb sowohl im Herkunfts- als auch im Bestimmungsland).
 
-<sup>3</sup> Der Tierhalter meldet den Zugang von Tieren der Rindergattung an die Tierverkehrsdatenbank.
+<sup>3</sup> Der Tierhalter meldet den Zugang von Tieren der Rindergattung an die TVD.
 
 <sup>4</sup> Es gibt keine Vorschriften des BLV zur amtstierärztlichen Überwachung nach der Rückkehr von der Sömmerung, vorbehaltlich vorübergehender Massnahmen wegen Seuchenausbrüchen. Der/die Kantonstierarzt/-ärztin kann jedoch in begründeten Fällen IBR- oder andere Untersuchungen anordnen.
 
@@ -290,7 +294,12 @@ beschliesst:
 
 <sup>1</sup> Bei Räude wird eine vorbeugende Behandlung der Schafe vor der Sömmerung gegen die Räude empfohlen.
 
-<sup>2</sup> Es dürfen nur Tiere mit einem gesunden Fundament aufgetrieben werden. Hinkende Tiere, besonders solche, die Anzeichen der Klauenfäule (Moderhinke) zeigen, werden herdenweise in den Herkunftsbestand zurückgewiesen.
+<sup>2</sup> Bezüglich der Moderhinke-Krankheit (Klauenfäule):
+
+- a) dürfen nur Tiere aus Tierhaltungen mit dem Moderhinke-Status "frei" in Sömmerungsbetriebe verstellt werden;
+- b) ist der Alpbewirtschafter dafür verantwortlich, dass eine Auffuhrkontrolle durchgeführt wird. Die Tiere sind hinsichtlich Lahmheiten zu kontrollieren. Hinkende Tiere, besonders solche mit Anzeichen der Moderhinke, sind fahrzeugweise bzw. herdenweise in den Herkunftsbestand zurückzuweisen und der Kantonstierärztin / dem Kantonstierarzt zu melden (Seuchenverdacht);
+- c) ist die gemeinsame Nutzung von Sammelplätzen und Wegen durch Schafe verschiedener Alpen soweit möglich zu vermeiden;
+- d) kann die Kantonstierärztin / der Kantonstierarzt auf Gesuch hin Sömmerungsbetriebe bewilligen, die ausschliesslich Schafe aus Tierhaltungen mit dem Status "gesperrt" aufnehmen dürfen. Voraussetzung ist, dass der Alpbewirtschafter nachweisen kann, dass für andere Schafe keine Gefahr einer Ansteckung besteht und dass Massnahmen zur Gewährleistung des Tierwohls und zum Schutz der Wildtiere getroffen werden. Die Kantonstierärztin / der Kantonstierarzt ordnet über solche Sömmerungsbetriebe die einfache Sperre 1. Grades sowie die erforderlichen sichernden Massnahmen an.
 
 <sup>3</sup> Es dürfen keine Tiere auf Alpen und Sömmerungsweiden verbracht werden, die klinische Anzeichen der infektiösen Augenentzündung aufweisen (stark gerötete Augen, eitrige Verklebungen, Augentrübungen).
 
@@ -308,22 +317,18 @@ beschliesst:
 
 **Definition und Organisation**
 
-<sup>1</sup> Gemäss Artikel 30 AGTSchG, gelten nur solche Hunde als Herdenschutzhunde, welche in einem mit der anerkannten Einrichtung abgeschlossenem Vertrag aufgeführt sind.
+<sup>1</sup> Gemäss Artikel 30 AGTSchG, gelten nur solche Hunde als Herdenschutzhunde, welche in einem mit der anerkannten Einrichtung abgeschlossenem Vertrag aufgeführt sind, d. h. getestet und registriert im Sinne von Artikel 10d Absatz 2 der JSV.
 
-<sup>2</sup> Andere Nutzhunde nach Artikel 69 TSchV können für die Bewachung und den Schutz von Nutztieren eingesetzt werden, nachdem sie durch einen von der kantonalen Fachstelle für Herdenschutz organisierten Test nachgewiesen haben, dass ihr Verhalten keine objektive Bedrohung für die öffentliche Sicherheit darstellt und sie zum weitgehend selbstständigen Schutz von Tieren befähigt sind.
+<sup>2</sup> Anerkannte Herdenschutzhunde sind ausschliesslich den Bestimmungen des Bundesrechts unterstellt d.h. insbesondere den vom BAFU erlassenen Weisungen.
 
-<sup>3</sup> Herdenschutzhunde, die nach Absatz 1 anerkannt sind, sind ausschliesslich den Bestimmungen des Bundesrechts unterstellt d.h. insbesondere den vom BAFU erlassenen Weisungen.
+<sup>3</sup> Der Hundehalter im Sinne der Tierschutzgesetzgebung ist die Person, welche den Anspruch hat über ein Tier länger als vorübergehend zu verfügen. Personen, die während mehreren Wochen die Verantwortung für ein Tier haben, gelten als Tierhalter. Für die Hunde im Sinne der Absätze 1 und 2 gilt während der Sömmerung der Verantwortliche der Alpe als Hundehalter.
 
-<sup>4</sup> Der Hundehalter im Sinne der Tierschutzgesetzgebung ist die Person, welche den Anspruch hat über ein Tier länger als vorübergehend zu verfügen. Personen, die während mehreren Wochen die Verantwortung für ein Tier haben, gelten als Tierhalter. Für die Hunde im Sinne der Absätze 1 und 2 gilt während der Sömmerung der Verantwortliche der Alpe als Hundehalter.
+<sup>4</sup> Die kantonale Kommission für Herdenschutzhunde ist das zuständige kantonale Organ für die nach Absatz 1 anerkannten Herdenschutzhunde, sie steht unter der Leitung des kantonalen Herdenschutzbeauftragten und besteht mindestens aus:
 
-<sup>5</sup> Die kantonale Kommission für Herdenschutzhunde ist das zuständige kantonale Organ für die nach Absatz 1 anerkannten Herdenschutzhunde, sie steht unter der Leitung des kantonalen Herdenschutzbeauftragten und besteht mindestens aus:
-
-- a) dem kantonalen Herdenschutzbeauftragten (DLW, Landwirtschaftszentrum Visp);
+- a) dem kantonalen Herdenschutzbeauftragten (DLW);
 - b) einem Vertreter des Veterinäramtes (Vetamt, Dienststelle für Verbraucherschutz und Veterinärwesen, DVSV);
 - c) einem Vertreter der Dienststelle für Jagd, Fischerei und Wildtiere (DJFW);
 - d) ein Vertreter der Vereinigung "Walliser Wanderwege" (Valrando).
-
-<sup>6</sup> Vorfälle, die durch geprüfte, im Sinne von Absatz 2, Nutzhunde verursacht werden, werden vom Vetamt nach Artikel 39 AGTSchG behandelt. In diesen Fällen ist der Halter nach Artikel 77 TSchV dafür verantwortlich, dass sein Hund weder Menschen noch Tiere gefährdet.
 
 #### Art. 24
 
@@ -339,7 +344,7 @@ beschliesst:
 
 #### Art. 25
 
-**Massnahmen bei Fällen von Aggressivität, bei verdächtigem oder unangemessenem Verhalten eines anerkannten Herdenschutzhundes im Sinne von Absatz 1**
+**Massnahmen bei Fällen von Aggressivität, bei verdächtigem oder unangemessenem Verhalten eines anerkannten Herdenschutzhundes**
 
 <sup>1</sup> Wird ein Vorfall oder ein unangemessenens Verhalten gegenüber Menschen oder Tieren gemeldet, so trifft die zuständige Stelle nach der Beurteilung der Situation geeignete Massnahmen.
 
@@ -349,9 +354,7 @@ beschliesst:
 - b) nach Beschwerden über das Wildern/Streunen oder Lärm;
 - c) bei Beschwerden über ihre Haltungsbedingungen.
 
-<sup>3</sup> Die Kosten werden durch die Fachstelle "Herdenschutzhunde" des BAFUs getragen.
-
-<sup>4</sup> Wenn es die Situation erfordert, kann das Veterinäramt dringende Sicherheitsmassnahmen anordnen, bis die zuständige Stelle einen Entscheid getroffen hat.
+<sup>3</sup> Wenn es die Situation erfordert, kann das Vetamt ringende Sicherheitsmassnahmen anordnen, bis die zuständige Stelle einen Entscheid getroffen hat.
 
 ## 6 Plätze für mobile Melkstände
 
@@ -419,4 +422,4 @@ beschliesst:
 
 <sup>3</sup> Der Kantonstierarzt sowie der Kantonschemiker (Abschnitt 7) sind mit der Ausführung der vorliegenden Vorschriften beauftragt. Sie sind ermächtigt, in Dringlichkeitsfällen, alle ihnen notwendig erscheinenden Massnahmen zur Ausführung dieses Beschlusses zu treffen.
 
-CSW RO/AGS 2024-026
+CSW RO/AGS 2025-035
