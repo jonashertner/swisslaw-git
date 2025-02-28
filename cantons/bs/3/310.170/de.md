@@ -3,13 +3,12 @@ canton: BS
 number: "310.170"
 title: Verordnung über die Gebühren im Gesundheitswesen
 language: de
-version: 2018-05-01
-valid_until: 2025-02-28
-version_adopted: 2018-04-24
+version: 2025-03-01
+version_adopted: 2025-02-04
 adopted: 2013-10-22
 in_force: 2013-10-27
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/310.170"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4432/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4432/pdf_file"
 
 Gebühren im Gesundheitswesen: Verordnung | Medizinalpersonen / Komplementärmedizin
 
-Vom 22. Oktober 2013 (Stand 1. Mai 2018)
+Vom 22. Oktober 2013 (Stand 1. März 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -60,15 +59,15 @@ beschliesst:
 
 <sup>1</sup> Die Gebühr für eine Betriebsbewilligung gemäss § 36 GesG beträgt für:
 
-- a) Spitäler — Fr. 700-7'000
-- b) Pflegeheime — Fr. 700-3'500
-- c) Organisationen der spitalexternen Gesundheits- und Krankenpflege — Fr. 400-2'000
-- d) ambulante Einrichtungen in den Gebieten der universitären Medizinalberufe gemäss Art. 2 MedBG sowie der Psychologieberufe gemäss Art. 2 PsyG — Fr. 700-3'500
-- e) ambulante Einrichtungen in den Gebieten Augenoptik, Dentalhygiene, Drogerie, Ergotherapie, Ernährungsberatung, Logopädie, medizinische Massage, Physiotherapie, Podologie, Zahnprothetik, Geburtshilfe sowie nicht ärztliche Alternativ- und Komplementärmedizin — Fr. 400-2'000
-- f) Geburtshäuser — Fr. 400-2'000
-- g) Apotheken — Fr. 700-3'500
-- h) medizinische Laboratorien — Fr. 700-3'500
-- i) Rettungsdienste — Fr. 700-3'500
+- a) Spitäler — Fr. 700 – 7'000
+- b) Pflegeheime — Fr. 700 – 3'500
+- c) Organisationen der spitalexternen Gesundheits- und Krankenpflege — Fr. 400 – 2'000
+- d) ambulante Einrichtungen in den Gebieten der universitären Medizinalberufe gemäss Art. 2 MedBG sowie der Psychologieberufe gemäss Art. 2 PsyG — Fr. 700 – 3'500
+- e) ambulante Einrichtungen in den Gebieten Augenoptik, Dentalhygiene, Drogerie, Ergotherapie, Ernährungsberatung, Logopädie, medizinische Massage, Physiotherapie, Podologie, Zahnprothetik, Geburtshilfe sowie nicht ärztliche Alternativ- und Komplementärmedizin — Fr. 400 – 2'000
+- f) Geburtshäuser — Fr. 400 – 2'000
+- g) Apotheken — Fr. 700 – 3'500
+- h) medizinische Laboratorien — Fr. 700 – 3'500
+- i) Rettungsdienste — Fr. 700 – 3'500
 
 <sup>2</sup> Die Gebühren gemäss Abs. 1 gelten auch für die Betriebsbewilligung von Organisationen, die medizinische Ferndienstleistungen auf diesen Gebieten anbieten (§ 36 Abs. 1 Bst. f GesG).
 
@@ -125,6 +124,18 @@ beschliesst:
 
 <sup>1</sup> Die Gebühr für die Bewilligung der Tätigkeiten in der Fortpflanzungsmedizin gemäss Art. 8 Bundesgesetz über die medizinisch unterstützte Fortpflanzung (Fortpflanzungsmedizingesetz, FMedG) vom 18. Dezember 1998 beträgt Fr. 700.
 
+#### § 10a
+
+**Zulassung von ambulanten Leistungserbringern**
+
+<sup>1</sup> Die Gebühr für die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung gemäss Art. 36 KVG beträgt für:
+
+- a) selbstständig tätige Gesundheitsfachpersonen — Fr. 200
+- b) Betriebe und Organisationen — Fr. 200 – 800
+- c) Laboratorien — Fr. 200
+- d) Abgabestellen für Mittel und Gegenstände — Fr. 200
+- e) Transport- und Rettungsunternehmen — Fr. 200
+
 ## II. Bewilligungsänderungen
 
 #### § 11
@@ -134,7 +145,7 @@ beschliesst:
 <sup>1</sup> Die Gebühr für die Änderung einer Bewilligung aufgrund von veränderten Verhältnissen nach § 20 Abs. 2 Bewilligungsverordnung beträgt:
 
 - a) für die Berufsausübung gemäss § 30 GesG — Fr. 200
-- b) für Betriebsbewilligungen — Fr. 200-500
+- b) für Betriebsbewilligungen — Fr. 200 – 500
 
 ## III. Meldungen und Bescheinigungen
 
@@ -166,7 +177,9 @@ beschliesst:
 
 <sup>2</sup> Die Gebühr für Inspektionen gemäss Art. 12 FMedG beträgt Fr. 1'000 bis Fr. 3’000. Für alle anderen Inspektionen und Kontrollen beträgt die Gebühr Fr. 300 bis Fr. 2'000.
 
-<sup>3</sup> Wird die Inspektion durch das Regionale Heilmittelinspektorat Nordwestschweiz (RHI) durchgeführt, richtet sich die Gebühr nach dessen Gebührenreglement vom 22. März 2004.
+<sup>3</sup> Wird die Inspektion durch das Regionale Heilmittelinspektorat Nordwestschweiz (RHI) durchgeführt, richtet sich die Gebühr nach dessen Gebührenreglement vom 22. März 2004.[^14-1]
+
+[^14-1]: Dieses Reglement gilt nicht mehr. Es gilt die jeweils aktuelle Fassung des Gebührenreglements auf der Webseite des RHI Regionalen Heilmittelinspektorates der Nordwestschweiz: [https://www.rhinw.ch/grundlagen.php](https://www.rhinw.ch/grundlagen.php).
 
 #### § 15
 
