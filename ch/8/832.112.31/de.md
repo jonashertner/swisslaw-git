@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250101/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Januar 2025)
+vom 29. September 1995 (Stand am 1. März 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -775,7 +775,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen der medizinische
 <tr><td>m.[^12a-12] Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Exposition durch ein tollwütiges oder tollwutverdächtiges Tier gemäss Impfplan 2024. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>n.[^12a-13] Impfung gegen Covid-19</td><td>Gemäss Impfplan 2024 und gemäss der Empfehlung des BAG und der EKIF für die Covid‑19-Impfung vom 2. Oktober 2023[^12a-14]: – bei besonders gefährdeten Personen ab 16 Jahren; – bei Personen ab 65 Jahren; – bei schwangeren Frauen; und – bei Personen ab 6 Monaten mit einer schweren Immuninsuffizienz. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe und Indikation über die nötige Zulassung verfügen.</td></tr>
 <tr><td>o.[^12a-15] Impfung gegen Herpes Zoster</td><td>Mit dem adjuvantierten Subunit-Impfstoff. Bei den Alters- und Risikogruppen gemäss Impfplan 2024.</td></tr>
-<tr><td>p.[^12a-16] Impfung gegen Mpox</td><td colspan="2">Für Personen mit einem erhöhten Expositionsrisiko gemäss «Analyserahmen und Empfehlungen zur Impfung gegen Affenpocken» des BAG und der EKIF vom 1. September 2022[^12a-17]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart. Die Kostenübernahme ist in Evaluation bis zum 31. Dezember 2025.</td></tr>
+<tr><td>p.[^12a-16] Impfung gegen Mpox</td><td colspan="2">Für Personen mit einem erhöhten Expositionsrisiko gemäss «Analyserahmen und Empfehlungen zur Impfung gegen Affenpocken» des BAG und der EKIF vom 1. September 2022[^12a-17]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung. Die Versicherung übernimmt einen Betrag von 100 Franken pro Impfstoffdosis. Die Kostenübernahme ist in Evaluation bis zum 31. Dezember 2025.</td></tr>
 <tr><td>q.[^12a-18] Impfung gegen Rotaviren</td><td colspan="2">Gemäss Impfplan 2024.</td></tr>
 </table>
 
@@ -804,7 +804,7 @@ Die Versicherung übernimmt für Impfungen nach Absatz 1 folgende Kosten für di
 [^12a-13]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 17. Juni 2024, in Kraft seit 1. Juli 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-14]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12a-15]: Eingefügt durch Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12a-16]: Eingefügt durch Ziff. I der V des EDI vom 24. April 2023 ([AS 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)).
+[^12a-16]: Eingefügt durch Ziff. I der V des EDI vom 24. April 2023 ([AS 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Fassung gemäss Ziff. I der V des EDI vom 31. Jan. 2025, in Kraft seit 1. März 2025 ([AS 2025 125](https://fedlex.data.admin.ch/eli/oc/2025/125)).
 [^12a-17]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12a-18]: Eingefügt durch Ziff. I der V des EDI vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Fassung gemäss Ziff. I der V des EDI vom 17. Juni 2024, in Kraft seit 1. Juli 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-19]: Eingefügt durch Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).

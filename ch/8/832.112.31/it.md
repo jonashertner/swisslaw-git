@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250101/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° gennaio 2025)
+del 29 settembre 1995 (Stato 1° marzo 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -184,14 +184,14 @@ L’assicurazione assume i costi delle seguenti prestazioni prescritte dai chiro
 [^4-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 17 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
 [^4-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
-[^4-4]: Nuovo testo giusta lʼall. 6 cifra II 5 dellʼO del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
+[^4-4]: Nuovo testo giusta lʼall. 6 cifra II n. 5 dellʼO del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 [^4-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-6]: Nuovo testo giusta la cifra I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-7]: Nuova espr. giusta la cifra I dellʼO del DFI del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^4-8]: Nuovo testo giusta la cifra I dellʼO del DFI del 28 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
 [^4-9]: Nuovo testo giusta la cifra I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 [^4-10]: Introdotta dalla cifra I dellʼO del DFI del 10 lug. 2000 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nuovo testo giusta la cifra I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-11]: Introdotta dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^4-11]: Introdotta dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 ### Sezione 4: Prestazioni farmaceutiche
 
@@ -328,7 +328,7 @@ L’assicurazione assume i costi delle prestazioni effettuate previa prescrizion
 
 [^tit1-chap2-sec3-1]
 
-[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 #### Art. 7
 
@@ -395,7 +395,7 @@ Sono prestazioni ai sensi del capoverso 1:
 
 [^7-1]: Nuovo testo giusta la cifra I dellʼO del DFI dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 [^7-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^7-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^7-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7-4]: Nuovo testo giusta la cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-6]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
@@ -405,8 +405,8 @@ Sono prestazioni ai sensi del capoverso 1:
 [^7-10]: Introdotto dalla cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-11]: Nuovo testo giusta la cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-12]: Introdotto dalla cifra I dellʼO del DFI del 20 dic. 2006 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Nuovo testo giusta la cifra I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-13]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
-[^7-14]: Introdotto dalla cifra I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^7-13]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-14]: Introdotto dalla cifra I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7-15]: Introdotto dalla cifra I dellʼO del DFI dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 7a
@@ -442,7 +442,7 @@ Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 letter
 
 <sup>4</sup> Nel caso delle strutture diurne o notturne di cui all’articolo 7 capoverso 2<sup>ter</sup>, l’assicurazione versa per ogni giorno o per ogni notte, per le prestazioni secondo l’articolo 7 capoverso 2, i contributi previsti al capoverso 3.
 
-[^7a-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^7a-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7a-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 [^7a-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 
@@ -551,13 +551,13 @@ La procedura di controllo serve a verificare la valutazione dei bisogni e a cont
 
 <sup>2</sup> Le prestazioni di cui all’articolo 7 capoverso 2 effettuate nelle case di cura devono essere fatturate secondo il bisogno di cure.
 
-[^9-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^9-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 #### Art. 9a
 
 [^9a-1]
 
-[^9a-1]: Introdotto dalla cifra I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dalla cifra I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^9a-1]: Introdotto dalla cifra I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dalla cifra I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 ### Sezione 3*a*: Consulenza nutrizionale
 
@@ -769,7 +769,7 @@ L’assicurazione assume i costi delle misure di medicina preventiva seguenti (a
 <tr><td>m.[^12a-12] Vaccinazione contro la rabbia</td><td colspan="2">Vaccinazione in seguito a esposizione a un animale affetto, o sospettato di essere affetto, dalla rabbia secondo il Calendario vaccinale 2024. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
 <tr><td>n.[^12a-13] Vaccinazione contro la COVID‑19</td><td colspan="2">Secondo il Calendario vaccinale 2024 e secondo la raccomandazione di vaccinazione dell’UFSP e della CFV anti-COVID‑19 del 2 ottobre 2023[^12a-14]: – per le persone particolarmente a rischio a partire dai 16 anni; – per le persone a partire dai 65 anni; – per le donne incinte; e – per le persone a partire dai 6 mesi con immunodeficienza grave. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età e la relativa indicazione.</td></tr>
 <tr><td>o.[^12a-15] Vaccinazione contro l’herpes zoster</td><td colspan="2">Con il vaccino a subunità adiuvato. Per gruppi d’età e gruppi a rischio secondo il Calendario vaccinale 2024.</td></tr>
-<tr><td>p.[^12a-16] Vaccinazione contro mpox</td><td colspan="2">Per persone con un elevato rischio di esposizione secondo il documento «Quadro analitico e raccomandazioni per la vaccinazione contro il vaiolo delle scimmie» dell’UFSP e della CFV del 1° settembre 2022[^12a-17]. Se effettuata per motivi professionali, i costi non sono assunti dall’assicurazione. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario. L’assunzione dei costi è in fase di valutazione fino al 31 dicembre 2025.</td></tr>
+<tr><td>p.[^12a-16] Vaccinazione contro mpox</td><td colspan="2">Per persone con un elevato rischio di esposizione secondo il documento «Quadro analitico e raccomandazioni per la vaccinazione contro il vaiolo delle scimmie» dell’UFSP e della CFV del 1° settembre 2022[^12a-17]. Se effettuata per motivi professionali, i costi non sono assunti dall’assicurazione. L’assicurazione assume un contributo di 100 franchi per ogni dose di vaccino. L’assunzione dei costi è in fase di valutazione fino al 31 dicembre 2025.</td></tr>
 <tr><td>q.[^12a-18] Vaccinazione contro i rotavirus</td><td colspan="2">Secondo il Calendario vaccinale 2024.</td></tr>
 </table>
 
@@ -798,8 +798,8 @@ Per le vaccinazioni di cui al capoverso 1 l’assicurazione assume i costi della
 [^12a-13]: Introdotta dalla cifra I dellʼO del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nuovo testo giusta la cifra I dellʼO del DFI del 17 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-14]: Il documento può essere consultato al seguente indirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif).
 [^12a-15]: Introdotta dalla cifra I dellʼO del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Nuovo testo giusta la cifra I dellʼO del DFI del 28 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12a-16]: Introdotta dalla cifra I dellʼO del DFI del 24 apr. 2023 ([RU 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Nuovo testo giusta la cifra I dellʼO del DFI del 29 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)).
-[^12a-17]: Il documento (disponibile soltanto in tedesco e francese) può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12a-16]: Introdotta dalla cifra I dellʼO del DFI del 24 apr. 2023 ([RU 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Nuovo testo giusta la cifra I dellʼO del DFI del 31 gen. 2025, in vigore dal 1° mar. 2025 ([RU 2025 125](https://fedlex.data.admin.ch/eli/oc/2025/125)).
+[^12a-17]: Il documento (disponibile soltanto in tedesco e francese) può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/bag/it/home/gesetze-und-bewilligungen/gesetzgebung/gesetzgebung-versicherungen/gesetzgebung-krankenversicherung/kvg/referenzdokumente-zur-klv-und-deren-anhaenge.html).
 [^12a-18]: Introdotta dalla cifra I dellʼO del DFI del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Nuovo testo giusta la cifra I dellʼO del DFI del 17 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-19]: Introdotto dalla cifra I dellʼO del DFI del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 [^12a-20]: Introdotto dalla cifra I dellʼO del DFI del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
@@ -2126,11 +2126,11 @@ Sono abrogate:
 - i. l’ordinanza del DFI del 28 dicembre 1989[^44-9] concernente i medicamenti obbligatoriamente a carico delle casse malati riconosciute;
 - k. l’ordinanza del DFI del 23 dicembre 1988[^44-10] concernente le analisi obbligatoriamente a carico delle casse malati riconosciute.
 
-[^44-1]: [[RU 1965 131](https://fedlex.data.admin.ch/eli/oc/1965/127_131_131), [1970 949](https://fedlex.data.admin.ch/eli/oc/1970/949_949_949), [1971 1719](https://fedlex.data.admin.ch/eli/oc/1971/1714_1719_1719), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II]
+[^44-1]: [[RU 1965 131](https://fedlex.data.admin.ch/eli/oc/1965/127_131_131), [1970 949](https://fedlex.data.admin.ch/eli/oc/1970/949_949_949), [1971 1719](https://fedlex.data.admin.ch/eli/oc/1971/1714_1719_1719), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)cifra II]
 [^44-2]: [[RU 1965 423](https://fedlex.data.admin.ch/eli/oc/1965/425_429_423), [1968 968](https://fedlex.data.admin.ch/eli/oc/1968/1012_1052_968), [1974 688](https://fedlex.data.admin.ch/eli/oc/1974/688_688_688), [1986 891](https://fedlex.data.admin.ch/eli/oc/1986/891_891_891)]
-[^44-3]: [[RU 1965 612](https://fedlex.data.admin.ch/eli/oc/1965/613_619_612), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II]
-[^44-4]: [[RU 1965 1201](https://fedlex.data.admin.ch/eli/oc/1965/1199_1211_1201), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II, [1988 973](https://fedlex.data.admin.ch/eli/oc/1988/973_973_973)]
-[^44-5]: [[RU 1965 1202](https://fedlex.data.admin.ch/eli/oc/1965/1201_1213_1202), [1968 754](https://fedlex.data.admin.ch/eli/oc/1968/798_838_754), [1971 1258](https://fedlex.data.admin.ch/eli/oc/1971/1262_1258_1258), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II, [1988 2012](https://fedlex.data.admin.ch/eli/oc/1988/2012_2012_2012), [1993 349](https://fedlex.data.admin.ch/eli/oc/1993/349_349_349), [1995 890](https://fedlex.data.admin.ch/eli/oc/1995/890_890_890)]
+[^44-3]: [[RU 1965 612](https://fedlex.data.admin.ch/eli/oc/1965/613_619_612), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)cifra II]
+[^44-4]: [[RU 1965 1201](https://fedlex.data.admin.ch/eli/oc/1965/1199_1211_1201), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)cifra II, [1988 973](https://fedlex.data.admin.ch/eli/oc/1988/973_973_973)]
+[^44-5]: [[RU 1965 1202](https://fedlex.data.admin.ch/eli/oc/1965/1201_1213_1202), [1968 754](https://fedlex.data.admin.ch/eli/oc/1968/798_838_754), [1971 1258](https://fedlex.data.admin.ch/eli/oc/1971/1262_1258_1258), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)cifra II, [1988 2012](https://fedlex.data.admin.ch/eli/oc/1988/2012_2012_2012), [1993 349](https://fedlex.data.admin.ch/eli/oc/1993/349_349_349), [1995 890](https://fedlex.data.admin.ch/eli/oc/1995/890_890_890)]
 [^44-6]: [[RU 1986 87](https://fedlex.data.admin.ch/eli/oc/1986/87_87_87)]
 [^44-7]: [[RU 1991 519](https://fedlex.data.admin.ch/eli/oc/1991/519_519_519); [1994 743](https://fedlex.data.admin.ch/eli/oc/1994/743_743_743), [1078](https://fedlex.data.admin.ch/eli/oc/1994/1078_1078_1078); [1995 891](https://fedlex.data.admin.ch/eli/oc/1995/891_891_891)]
 [^44-8]: [[RU 1968 1463](https://fedlex.data.admin.ch/eli/oc/1968/1496_1543_1463), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)]
@@ -2242,7 +2242,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 [^u8-1]
 
-[^u8-1]: Applicabili dal 1° mag. 2012 al 31 dic. 2014 ([RU 2012 1769](https://fedlex.data.admin.ch/eli/oc/2012/247)n. III cpv. 2).
+[^u8-1]: Applicabili dal 1° mag. 2012 al 31 dic. 2014 ([RU 2012 1769](https://fedlex.data.admin.ch/eli/oc/2012/247)cifra III cpv. 2).
 
 ## Disposizioni transitorie della modifica del 29 aprile 2015
 

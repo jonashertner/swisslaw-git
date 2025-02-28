@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2025-01-01
+version: 2025-03-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250101/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> janvier 2025)
+du 29 septembre 1995 (État le 1<sup>er</sup> mars 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -775,7 +775,7 @@ L’assurance prend en charge les mesures médicales de prévention suivantes (a
 <tr><td>m.[^12a-12] Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une exposition à un animal enragé ou susceptible de l’être, selon le plan de vaccination 2024. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>n.[^12a-13] Vaccination contre le COVID-19</td><td colspan="2">Selon le plan de vaccination 2024 et selon la recommandation de vaccination de l’OFSP et de la CFV contre le COVID‑19 du 2 octobre 2023[^12a-14]: – pour les personnes vulnérables à partir de 16 ans; – pour les personnes à partir de 65 ans; – pour les femmes enceintes; – pour les personnes à partir de 6 mois présentant une immunodéficience sévère. Seules sont prises en charge les vaccinations effectuées avec des vaccins disposant de l’autorisation requise pour le groupe d’âge et l’indication concernés.</td></tr>
 <tr><td>o.[^12a-15] Vaccination contre l’herpès zoster</td><td colspan="2">Avec le vaccin sous-unitaire adjuvanté. Pour les groupes d’âge et les groupes à risque selon le plan de vaccination 2024.</td></tr>
-<tr><td>p.[^12a-16] Vaccination contre le mpox</td><td colspan="2">Pour les personnes à risque d’exposition élevé conformément au document du 1<sup>er</sup> septembre 2022 «Variole du singe: cadre analytique et recommandations de vaccination»[^12a-17] établi par l’OFSP et la CFV. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance. Une somme forfaitaire est accordée pour la vaccination (vaccin compris). La prise en charge des coûts est en cours d’évaluation jusqu’au 31 décembre 2025.</td></tr>
+<tr><td>p.[^12a-16] Vaccination contre le mpox</td><td colspan="2">Pour les personnes à risque d’exposition élevé conformément au document du 1<sup>er</sup> septembre 2022 «Variole du singe: cadre analytique et recommandations de vaccination»[^12a-17] établi par l’OFSP et la CFV. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance. L’assurance prend en charge une contribution de 100 francs par dose vaccinale. La prise en charge des coûts est en cours d’évaluation jusqu’au 31 décembre 2025.</td></tr>
 <tr><td>[tab] q.[^12a-18] Vaccination contre les rotavirus</td><td colspan="2">Selon le plan de vaccination 2024.</td></tr>
 </table>
 
@@ -804,7 +804,7 @@ Elle prend en charge, pour les vaccinations visées à l’al. 1, les coûts sui
 [^12a-13]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-14]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12a-15]: Introduite par le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12a-16]: Introduite par le ch. I de l’O du DFI du 24 avr. 2023 ([RO 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)).
+[^12a-16]: Introduite par le ch. I de l’O du DFI du 24 avr. 2023 ([RO 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Nouvelle teneur selon le ch. I de l’O du DFI du 31 janv. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 125](https://fedlex.data.admin.ch/eli/oc/2025/125)).
 [^12a-17]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12a-18]: Introduite par le ch. I de l’O du DFI du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-19]: Introduit par le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
