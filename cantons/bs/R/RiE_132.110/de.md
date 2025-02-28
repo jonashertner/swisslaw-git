@@ -4,434 +4,381 @@ number: RiE 132.110
 title: Reglement der politischen Rechte in der Einwohnergemeinde Riehen
 short: "Reglement politische Rechte, RPR"
 language: de
-version: 2015-06-11
-valid_until: 2025-02-28
-version_adopted: 2015-05-26
+version: 2025-03-01
+version_adopted: 2025-02-04
 adopted: 2025-02-04
 in_force: 2025-03-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20132.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3899/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6575/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der politischen Rechte in der Einwohnergemeinde Riehen
 
-Politische Rechte: Reglement | Riehen: Einwohnergemeinde
+Wahlen und Abstimmungen
 
-Vom 18. März 1997 (Stand 11. Juni 2015)
+(Reglement politische Rechte, RPR)
+
+Vom 4. Februar 2025 (Stand 1. März 2025)
 
 Der Gemeinderat Riehen,
 
-gestützt auf die Ordnung der politischen Rechte in der Einwohnergemeinde Riehen vom 24. April 1996[^ingress-1],
+gestützt auf § 100 der Ordnung der politischen Rechte in der Einwohnergemeinde Riehen (Ordnung politische Rechte, OPR) vom 25. September 2024[^ingress-1] und § 24 Abs. 3 lit. e der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: [RiE 132.100](https://www.gesetzessammlung.bs.ch/data/RiE%20132.100/de).
+[^ingress-1]: [RiE 132.100](https://www.gesetzessammlung.bs.ch/data/RiE%20132.100/de)
+[^ingress-2]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
 
-## A. Allgemeine Bestimmungen
+## 1. Stimmregister und Stimmrechtsausweis
 
 #### § 1
 
-**Stimmabgabe**
+**Stimmregister**
 
-<sup>1</sup> Die Stimmabgabe ist im Wahllokal Gemeindehaus sowie brieflich möglich.
-
-#### § 1a
-
-**Stimmabgabe durch Dritte**
-
-<sup>1</sup> Die Stimmabgabe durch Dritte gemäss § 10 der Ordnung erfolgt mit einem besonderen Stimmrechtsausweis, der von der Gemeindeverwaltung unter Angabe des Hinderungsgrundes anzufordern ist.
-
-<sup>2</sup> Die mit der Stimmabgabe betraute Drittperson hat ihren Namen, ihre Wohnadresse sowie ihre Unterschrift auf dem besonderen Stimmrechtsausweis gemäss Abs. 1 zu vermerken und die Wahl- und Stimmzettel nach Anweisung der bzw. des Stimmberechtigten auszufüllen.
-
-<sup>3</sup> Die Drittperson bewahrt Stillschweigen über den Inhalt der empfangenen Anweisung.
+<sup>1</sup> Personen, die das Stimmrecht nach Versand der Stimmrechtsausweise erhalten, müssen sich bis Dienstag vor dem Wahl- und Abstimmungssonntag ins Stimmregister eintragen lassen. Sie können die Wahl- und Abstimmungsunterlagen während der Öffnungszeiten bei der Gemeindeverwaltung beziehen.
 
 #### § 2
 
-**Öffnungszeiten des Wahllokals**
+**Stimmrechtsausweis**
 
-<sup>1</sup> Bei Wahlen und Abstimmungen ist das Wahllokal jeweils sonntags von 10.00 bis 12.00 Uhr geöffnet.
+<sup>1</sup> Der Stimmrechtsausweis ermöglicht sowohl die persönliche Stimmabgabe an der Urne als auch die briefliche Stimmabgabe.
+
+<sup>2</sup> Der Stimmrechtsausweis wird für jeden Urnengang mit einer neuen Kennziffer versehen. Die Kennziffern dürfen nur im Zusammenhang mit der Kontrolle der Stimmberechtigung, mit Beschwerden oder mit strafrechtlichen Vorkommnissen entschlüsselt werden.
 
 #### § 3
 
-**Briefliche Stimmabgabe**
+**Fehlen des Stimmrechtsausweises**
 
-<sup>1</sup> Die briefliche Stimmabgabe ist ab Erhalt der Wahl- und Abstimmungsunterlagen zulässig.
+<sup>1</sup> Stimmberechtigte, die ihren Stimmrechtsausweis nicht erhalten oder verloren haben, können unter den in § 35 Abs. 4 OPR festgelegten Voraussetzungen ein Duplikat beantragen. Dieses ist persönlich während der Öffnungszeiten bei der Gemeindeverwaltung abzuholen.
 
-<sup>2</sup> Die Wahl- und Stimmzettel müssen bis 12.00 Uhr des Tages vor dem Wahl- und Abstimmungssonntag bei der Gemeindeverwaltung eingetroffen sein. Später eintreffende Wahl- und Stimmzettel bleiben unberücksichtigt.
+<sup>2</sup> Ist eine stimmberechtigte Person aufgrund einer körperlichen Beeinträchtigung nicht in der Lage, das Duplikat persönlich abzuholen, kann sie eine bevollmächtigte Person damit beauftragen.
+
+<sup>3</sup> Das Duplikat wird nur gegen Vorlage eines gültigen Ausweises und nach Unterzeichnung einer Bestätigung ausgehändigt, in der die stimmberechtigte Person auf die strafrechtlichen Folgen bei Missbrauch hingewiesen wird. Die Duplikatsausgabe wird erfasst.
+
+## 2. Initiative und Referendum
 
 #### § 4
 
-**Aufbewahrung der Stimmrechtsausweise brieflich Stimmender**
+**Titel der Initiative**
 
-<sup>1</sup> Die Stimmrechtsausweise brieflich Stimmender werden nach ihrem Eintreffen bei der Gemeindeverwaltung bis zur Ermittlung der Wahl- und Abstimmungsergebnisse ungeöffnet im geschlossenen Tresorraum aufbewahrt.
+<sup>1</sup> Entspricht der Titel der Initiative nicht den Anforderungen von § 11 Abs. 2 OPR, setzt die Gemeindeverwaltung dem Initiativkomitee eine Frist von 14 Tagen zur Anpassung.
+
+<sup>2</sup> Wird der Titel innerhalb der Frist nicht angepasst, ändert die zuständige Stelle der Gemeindeverwaltung den Titel durch Verfügung.
 
 #### § 5
 
-**Anwesenheit der Mitglieder sowie der Sekretärinnen und Sekretäre des Wahlbüros**
+**Stellungnahme des Initiativ- oder Referendumskomitees**
 
-<sup>1</sup> Die Gemeindeverwaltung verständigt sich rechtzeitig mit den Mitgliedern, den Sekretärinnen und Sekretären und dem Abwartspersonal über ihre Anwesenheit am Samstag und Sonntag. Das Abwartspersonal erfüllt die Aufgabe der Urnenwartinnen und Urnenwarte.
+<sup>1</sup> Das Initiativ- oder Referendumskomitee übermittelt seine Argumente für die amtlichen Erläuterungen gemäss § 58 OPR der zuständigen Stelle der Gemeindeverwaltung.
+
+<sup>2</sup> Die zuständige Stelle der Gemeindeverwaltung legt Form und Umfang der Stellungnahme sowie den Zeitpunkt ihrer Einreichung fest.
+
+<sup>3</sup> Sie kann ehrverletzende, offensichtlich falsche oder zu lange Aussagen ändern oder zurückweisen.
+
+<sup>4</sup> Verweise auf elektronische Quellen dürfen nur in die Abstimmungserläuterungen aufgenommen werden, wenn das Initiativ- oder Referendumskomitee schriftlich erklärt, dass diese Quellen keine rechtswidrigen Inhalte enthalten und nicht zu elektronischen Publikationen rechtswidrigen Inhalts führen.
+
+## 3. Durchführung von Wahlen und Abstimmungen
+
+### 3.1 Wahl- und Abstimmungsbüro
 
 #### § 6
 
-**Entschädigung**
+**Organisation im Wahl- und Stimmlokal**
 
-<sup>1</sup> Die Mitglieder des Wahlbüros, die Sekretärinnen und Sekretäre sowie das Abwartspersonal werden für ihre Mitarbeit bei Wahlen und Abstimmungen wie folgt entschädigt:
+<sup>1</sup> Das Wahl- und Abstimmungsbüro sorgt für den geregelten Ablauf im Wahl- und Stimmlokal, in den angrenzenden Räumlichkeiten sowie vor dem Wahl- und Stimmlokal bis zur Allmendgrenze.
 
-- a) Mitglieder: pro Stunde CHF 35
-- b) Sekretärinnen, Sekretäre und Abwartspersonal für deren Mitarbeit ausserhalb der ordentlichen Arbeitszeit: pro Stunde CHF 50
+<sup>2</sup> Bei grossem Andrang kann das Wahl- und Abstimmungsbüro den Zutritt zum Wahl- und Stimmlokal zeitweise unterbrechen, damit die Ausübung des Stimmrechts gewährleistet ist.
 
-<sup>1<sup>bis</sup></sup> Die obligatorischen Sozialversicherungsleistungen werden von der Gemeinde übernommen.
-
-<sup>2</sup> Die vom Gemeinderat als Vorstand bezeichneten Mitglieder und bei deren Verhinderung die Stellvertreterinnen und Stellvertreter werden gemäss Abs. 1 lit. b entschädigt.
-
-<sup>3</sup> Der Gemeinderat überprüft die Entschädigungsansätze periodisch auf ihre Angemessenheit und passt sie gegebenenfalls an.
+<sup>3</sup> Der Zugang zum Wahl- und Stimmlokal ist barrierefrei.
 
 #### § 7
 
-**Öffnung und Schliessung des Wahllokals**
+**Sicherstellung der unbeeinflussten persönlichen Stimmabgabe**
 
-<sup>1</sup> Die Urnenwartin oder der Urnenwart und bei ihrem oder seinem Ausbleiben der Sekretär oder die Sekretärin des Wahlbüros sorgt für die pünktliche Öffnung und Schliessung des Wahllokals.
+<sup>1</sup> Stimmberechtigte dürfen sich nur so lange im Wahl- und Stimmlokal aufhalten, wie zur Stimmabgabe erforderlich.
+
+<sup>2</sup> Das Wahl- und Abstimmungsbüro ist berechtigt, die Vorlage eines gültigen Ausweises zu verlangen.
+
+<sup>3</sup> Ton- oder Filmaufnahmen im Wahl- und Stimmlokal sind nur mit Genehmigung des Vorstands des Wahl- und Abstimmungsbüros erlaubt.
+
+<sup>4</sup> Propaganda sowie Unterschriftensammlungen sind im und unmittelbar vor dem Wahl- und Stimmlokal bis zur Allmendgrenze verboten.
 
 #### § 8
 
-**Ordnung im Wahllokal, unzulässige Beeinflussung der Stimmberechtigten**
+**Widerhandlungen gegen Anordnungen des Wahl- und Abstimmungsbüros**
 
-<sup>1</sup> Das Büro sorgt für die Ordnung im Wahllokal und in den unmittelbar dazu führenden Räumlichkeiten, einschliesslich Vorplatz.
-
-<sup>2</sup> Es achtet darauf, dass die Stimmabgabe an der Urne durch die Berechtigten persönlich und geheim vor sich geht.
-
-<sup>3</sup> Das Büro achtet auf allfällige widerrechtliche Teilnahme an der Stimmhandlung und erstattet darüber dem Gemeinderat Bericht.
-
-<sup>4</sup> Das Wahllokal ist so einzurichten, dass das Wahlgeheimnis strikte gewährt bleibt. Bei zu grossem Andrang der Wählerinnen und Wähler kann das Büro den Zutritt durch zeitweise Schliessung der Türen oder auf andere Weise unterbrechen.
-
-<sup>5</sup> Jede Propaganda sowie das Sammeln von Unterschriften für Initiativbegehren, Referenden usw. in und unmittelbar vor dem Wahllokal ist untersagt.
-
-<sup>6</sup> Die Stimmenden dürfen nicht länger im Wahllokal verweilen, als zur Stimmabgabe nötig.
+<sup>1</sup> Leistet eine Person einer Anordnung des Wahl- und Abstimmungsbüros keine Folge, kann sie weggewiesen werden.
 
 #### § 9
 
-**Wahlkabine**
+**Entschädigung des Wahl- und Abstimmungsbüros**
 
-<sup>1</sup> Die Wahlkabine ist gut sichtbar und zugänglich aufzustellen.
+<sup>1</sup> Der Vorstand, die Mitglieder und die weiteren unterstützenden Funktionen aus der Gemeindeverwaltung sowie die Mitwirkenden des Wahl- und Abstimmungsbüros werden wie folgt entschädigt:
+
+- a) Vorstand, Mitglieder, unterstützende Funktionen aus der Gemeindeverwaltung: — CHF 60 pro Stunde
+- b) Mitwirkende: — CHF 35 pro Stunde
+
+<sup>2</sup> Die obligatorischen Sozialversicherungsleistungen werden von der Gemeinde übernommen.
+
+<sup>3</sup> Der Gemeinderat überprüft die Entschädigungsansätze periodisch auf ihre Angemessenheit und passt sie gegebenenfalls an.
+
+### 3.2 Stimmabgabe
 
 #### § 10
 
-**Widerhandlung gegen eine Verfügung des Büros**
+**Technische Hilfsmittel**
 
-<sup>1</sup> Leistet jemand einer Verfügung des Büros nicht Folge, so ist ihm strafrechtliche Ahndung gemäss Art. 292 des Strafgesetzbuches anzudrohen.
+<sup>1</sup> Die eingehenden Stimmrechtsausweise werden mit technischen Hilfsmitteln erfasst.
+
+<sup>2</sup> Kommunale, kantonale und eidgenössische Vorlagen können auf demselben Stimmbogen erscheinen.
 
 #### § 11
 
-**Verkehr mit den Stimmenden**
+**Briefliche Stimmabgabe**
 
-<sup>1</sup> Die Mitglieder des Wahlbüros überwachen die persönliche Stimmabgabe und die Wahrung des Stimmgeheimnisses.
-
-<sup>2</sup> Nach Entgegennahme der Stimmrechtsausweise werden die Wahl- und Stimmzettel bzw. Stimmbogen gemäss § 17a der Ordnung abgestempelt und von den Stimmberechtigten in die Urnen gelegt.
-
-<sup>3</sup> Wollen Stimmberechtigte ihre Wahl- und Stimmzettel durch einen Dritten ausfüllen lassen, muss sich ein Mitglied des Wahlbüros von ihrer Einschränkung im Sinn von § 10 der Ordnung überzeugen.
-
-#### § 11a
-
-**Öffnung der Urnen**
-
-<sup>1</sup> Nach der Schliessung des Wahllokals am Abstimmungssonntag werden die Wahl- und Stimmzettel bzw. Stimmbogen gemäss § 17a der Ordnung den Urnen entnommen und die Stempel überprüft.
-
-#### § 11b
-
-**Ermittlung der brieflichen Stimmabgabe**
-
-<sup>1</sup> Am Abstimmungssamstag werden die brieflich eingegangenen Wahl- und Stimmzettel bzw. Stimmbogen gemäss § 17a der Ordnung ab 08.00 Uhr dem Stimmrechtsausweis entnommen und die Ergebnisse der brieflichen Stimmabgabe ermittelt und protokolliert.
-
-<sup>2</sup> Bei der Öffnung der Stimmrechtsausweise wird geprüft, ob pro Wahl oder Abstimmung nur je ein Wahl- und Stimmzettel enthalten ist.
-
-<sup>3</sup> Sind mehrere Wahl- und Stimmzettel zu einer Wahl oder Abstimmung mit gleichem Inhalt vorhanden, so wird nur ein Wahl- und Stimmzettel berücksichtigt. Der überzählige Wahl- und Stimmzettel wird als nicht berücksichtigt gekennzeichnet.
-
-<sup>4</sup> Ist der Inhalt der Wahl- und Stimmzettel ungleich, so werden alle betroffenen Wahl- und Stimmzettel im Sinn von § 12 der Ordnung als eine ungültige Stimme behandelt.
-
-#### § 11c
-
-**Zweifelsfälle**
-
-<sup>1</sup> Ergeben sich anlässlich der Wahl- und Abstimmungshandlung Unklarheiten oder Zweifelsfragen bezüglich der Stimmrechtsausweise und der Wahl- und Stimmzettel bzw. Stimmbogen gemäss § 17a der Ordnung, so entscheidet die Leitung des Wahlbüros darüber.
-
-<sup>2</sup> In wichtigen Fragen trifft das ganze Büro mit Stimmenmehrheit den Entscheid. Bei Stimmengleichheit entscheidet die Leitung.
-
-<sup>3</sup> Die Entscheide nach Abs. 1 und 2 werden protokolliert.
-
-<sup>4</sup> Es wird jeweils ein Duplikat für die gemäss Abs. 1 und 2 als gültig erklärten Wahl- und Stimmzettel bzw. Stimmbogen erstellt, welches in der Ermittlung des Stimmergebnisses berücksichtigt und separat abgelegt wird.
-
-<sup>5</sup> Ungültige Stimm- und Wahlzettel bzw. Stimmbogen gemäss § 17a der Ordnung werden als solche gekennzeichnet und in einem unverschlossenen Couvert dem Schlussprotokoll beigelegt.
+<sup>1</sup> Bei brieflicher Stimmabgabe sind die ausgefüllten Wahl- bzw. Stimmzettel zusammen mit dem Stimmrechtsausweis in das Stimmkuvert zu legen und dieses ist zu verschliessen. Dabei ist der für die briefliche Stimmabgabe vorgesehene Teil des Stimmrechtsausweises zu benutzen.
 
 #### § 12
 
-**Protokoll**
+**Persönliche Stimmabgabe**
+
+<sup>1</sup> Am Wahl- und Abstimmungssonntag ist das Wahl- und Stimmlokal von 10:00 bis 12:00 Uhr geöffnet.
+
+<sup>2</sup> Das Wahl- und Abstimmungsbüro nimmt die Stimmrechtsausweise entgegen, prüft diese und stempelt die Wahl- bzw. Stimmzettel. Anschliessend legen die Stimmberechtigten die Wahl- bzw. Stimmzettel in die Urne.
 
 #### § 13
 
-**Schlussprotokoll**
+**Elektronische Stimmabgabe**
 
-<sup>1</sup> Nach Auszählung der Stimm- und Wahlzettel wird für das Wahllokal Gemeindehaus und für die brieflich Stimmenden sowie für jede Abstimmungsvorlage und jede Wahl getrennt ein Schlussprotokoll erstellt.
-
-<sup>2</sup> Das Schlussprotokoll enthält:
-
-- a) das Total der abgegebenen Stimmrechtsausweise;
-- b) die Anzahl der eingelegten Wahl- und Stimmzettel;
-- c) die Anzahl der leeren Wahl- und Stimmzettel;
-- d) die Anzahl der ungültigen Wahl- und Stimmzettel;
-- e) die Anzahl der gültigen Wahl- und Stimmzettel;
-- f) die Anzahl der Ja- und Nein-Stimmen bei Abstimmungen;
-- g) das Ergebnis der Stichfrage bei Eventualabstimmungen nach § 25 der Ordnung der politischen Rechte;
-- h) bei Majorzwahlen die Anzahl der leeren, ungültigen und gültigen Stimmen;
-- i) bei Proporzwahlen die Anzahl der leeren, ungültigen und gültigen unveränderten und veränderten Listen.
-
-<sup>3</sup> Bei Majorzwahlen werden nicht vorgeschlagene Personen nur dann namentlich aufgeführt, wenn auf sie mindestens 20 Stimmen entfallen.
-
-<sup>4</sup> Das Schlussprotokoll ist vom Vorstand und einer Sekretärin oder einem Sekretär zu unterschreiben.
+<sup>1</sup> Die Einführung der elektronischen Stimmabgabe gemäss § 47 Abs. 2 OPR erfolgt in Koordination mit den zuständigen Stellen des Kantons.
 
 #### § 14
 
-**Gesamtprotokoll**
+**Stimmabgabe durch Dritte**
 
-<sup>1</sup> Aus den Schlussprotokollen werden die Resultate zu einem Gesamtprotokoll zusammengezogen.[^14-1]
+<sup>1</sup> Die briefliche Stimmabgabe durch Dritte gemäss § 48 OPR erfolgt mit dem Stimmrechtsausweis der betroffenen Person sowie einem Formular, das diese zur Ermächtigung der Drittperson ausfüllt.
 
-<sup>2</sup> Die zusammengezogenen Resultate der Schlussprotokolle werden im Gesamtprotokoll ergänzt um die Angabe der Zahl der Stimmberechtigten und die errechnete Stimmbeteiligung.
+<sup>2</sup> Das Formular kann unter Angabe des Hinderungsgrundes bei der Gemeindeverwaltung angefordert werden.
 
-<sup>3</sup> Bei Majorzwahlen werden nicht vorgeschlagene Personen nur dann namentlich aufgeführt, wenn auf sie in einem Wahllokal mindestens 20 Stimmen entfallen.
+<sup>3</sup> Die Drittperson ist zur Verschwiegenheit über die erhaltenen Anweisungen verpflichtet.
 
-<sup>4</sup> Das Gesamtprotokoll ist vom Vorstand und einer Sekretärin oder einem Sekretär zu unterschreiben.
-
-[^14-1]: § 14 Abs 1 in der Fassung des GB vom 6. 12. 2005 (wirksam seit 1. 1. 2006).
+### 3.3 Sicherung der Wahl- und Abstimmungsunterlagen
 
 #### § 15
 
-**Korrekturen vor dem Unterzeichnen des Schluss- oder Gesamtprotokolls**
+**Urnen, Kontrollstempel**
 
-<sup>1</sup> Korrekturen vor dem Unterzeichnen des Schluss- oder Gesamtprotokolls sind als solche zu kennzeichnen. Es genügt, wenn am Rande eine Notiz angebracht und vom Vorstand und der betreffenden Sekretärin oder dem betreffenden Sekretär unterzeichnet wird.
+<sup>1</sup> Die Urnen werden versiegelt aufgestellt. Sie werden beim Transport oder Unterbruch des Urnengangs verschlossen.
+
+<sup>2</sup> Die Kontrollstempel sind verschlossen aufzubewahren.
 
 #### § 16
 
-**Korrekturen nach dem Unterzeichnen des Schluss- oder Gesamtprotokolls**
+**Aufbewahrung der Stimmkuverts brieflich Stimmender**
 
-<sup>1</sup> Wird in einem Schluss- oder Gesamtprotokoll eine Unrichtigkeit erst nach dem Unterschreiben bemerkt, so hat die Richtigstellung durch einen besonderen Zusatz, der von mindestens drei Mitgliedern und einer Sekretärin oder einem Sekretär zu unterschreiben ist, zu erfolgen.
+<sup>1</sup> Die Stimmkuverts brieflich Stimmender werden nach ihrem Eintreffen bei der Gemeindeverwaltung bis zur Ermittlung der Wahl- und Abstimmungsergebnisse ungeöffnet im geschlossenen Tresorraum aufbewahrt.
 
 #### § 17
 
-**Weiterleiten der Wahl- und Abstimmungsakten**
+**Aufbewahrung der Wahl- und Abstimmungsunterlagen**
 
-<sup>1</sup> Das Original des Schlussprotokolls sowie die verpackten und versiegelten Stimmrechtsausweise und Wahl- und Stimmzettel werden sofort nach Unterzeichnung des Schlussprotokolls der Gemeindeverwaltung zugestellt. Das Schlussprotokoll wird archiviert, die übrigen Unterlagen, namentlich die Wahl- und Stimmzettel, werden nach Validierung der Ergebnisse vernichtet.
+<sup>1</sup> Die Stimmrechtsausweise sowie die Wahl- bzw. Stimmzettel werden bis zur Validierung oder bis zum endgültigen Entscheid über allfällige Beschwerden im geschlossenen Tresorraum aufbewahrt. Anschliessend werden sie vernichtet.
 
-<sup>2</sup> Bei eidgenössischen und kantonalen Abstimmungen werden die Unterlagen gemäss den jeweiligen Weisungen der Staatskanzlei weiterbehandelt.
+### 3.4 Ermittlung der Ergebnisse
 
 #### § 18
 
-**…**
+**Ermittlung der brieflichen Stimmabgabe**
+
+<sup>1</sup> Am Tag vor dem Wahl- und Abstimmungssonntag werden die brieflich eingegangenen Wahl- bzw. Stimmzettel sowie der Stimmrechtsausweis dem Stimmkuvert entnommen und die Ergebnisse der brieflichen Stimmabgabe ermittelt und protokolliert.
+
+<sup>2</sup> Bei der Öffnung der Stimmkuverts wird geprüft, ob pro Wahl oder Abstimmung nur je ein Wahl- bzw. Stimmzettel sowie Stimmrechtsausweis enthalten ist.
 
 #### § 19
 
-**…**
+**Mehrfache briefliche Stimmabgabe**
+
+<sup>1</sup> Für jeden Stimmrechtsausweis wird nur ein Wahl- bzw. Stimmzettel berücksichtigt.
+
+<sup>2</sup> Stimmt in einem Kuvert die Anzahl der eingereichten Stimmrechtsausweise nicht mit der Anzahl der eingereichten Wahl- bzw. Stimmzettel überein, so sind die Wahl- bzw. Stimmzettel nur gültig, sofern der Wille der oder des Stimmberechtigten eindeutig erkennbar ist.
 
 #### § 20
 
-**…**
+**Öffnung der Urnen**
+
+<sup>1</sup> Am Wahl- und Abstimmungssonntag werden die persönlich abgegebenen Wahl- bzw. Stimmzettel den Urnen entnommen und die Stempel überprüft.
 
 #### § 21
 
-**…**
+**Ungültige Stimmen, Wahl- oder Stimmzettel**
+
+<sup>1</sup> Finden sich auf Wahlzetteln oder Listen undeutlich geschriebene Namen, werden ausschliesslich solche Namen als gültige Stimmen gezählt, die eindeutig eine bestimmte wählbare Person bezeichnen.
+
+<sup>2</sup> Ungültige Wahl- bzw. Stimmzettel werden als solche gekennzeichnet und separat ausgewiesen.
 
 #### § 22
 
-**…**
+**Zweifelsfälle**
 
-## B. Wahlen
+<sup>1</sup> Ergeben sich anlässlich der Auszählung Unklarheiten bezüglich Stimmrechtsausweisen oder Wahl- bzw. Stimmzetteln, entscheiden die Mitglieder des Wahl- und Abstimmungsbüros mit Leitungsfunktion unmittelbar darüber.
 
-## I. Allgemeine Bestimmungen
+<sup>2</sup> Grundsätzliche Entscheide fällt der Vorstand des Wahl- und Abstimmungsbüros. Diese Entscheide werden festgehalten.
+
+<sup>3</sup> Bei nicht einlesbaren, gültigen Wahl- bzw. Stimmzetteln wird ein Duplikat erstellt, welches bei der Ermittlung des Stimmergebnisses berücksichtigt und separat abgelegt wird.
 
 #### § 23
 
-**Zustimmung der Kandidatinnen und Kandidaten**
+**Schlussprotokoll**
 
-<sup>1</sup> Die Vorgeschlagenen haben schriftlich zu erklären, dass sie mit ihrer Aufstellung einverstanden sind und eine allfällige Wahl annehmen. Diese Erklärungen sind dem Gemeinderat zugleich mit den Wahlvorschlägen einzureichen.
+<sup>1</sup> Nach Auszählung der Wahl- bzw. Stimmzettel wird für jede Abstimmungsvorlage bzw. jede Wahl je ein Schlussprotokoll erstellt.
+
+<sup>2</sup> Das Schlussprotokoll enthält:
+
+- a) das Total der eingereichten Stimmrechtsausweise;
+- b) die Anzahl der eingelegten Wahl- bzw. Stimmzettel;
+- c) die Anzahl der leeren Wahl- bzw. Stimmzettel;
+- d) die Anzahl der ungültigen Wahl- bzw. Stimmzettel;
+- e) die Anzahl der gültigen Wahl- bzw. Stimmzettel;
+- f) bei Abstimmungen die Anzahl der Ja- und Nein-Stimmen;
+- g) bei Abstimmungen das Ergebnis der Stichfrage gemäss § 59 Abs. 2 OPR;
+- h) bei Majorzwahlen die Anzahl der leeren, ungültigen und gültigen Stimmen;
+- i) bei Majorzwahlen die nicht vorgeschlagenen Personen, die mindestens 50 Stimmen erhalten haben;
+- j) bei Proporzwahlen die Anzahl der leeren, ungültigen und gültigen unveränderten und veränderten Listen.
+
+<sup>3</sup> Das Schlussprotokoll ist von zwei Vorstandsmitgliedern des Wahl- und Abstimmungsbüros zu unterzeichnen.
 
 #### § 24
 
-**Verkehr mit den Behörden**
+**Korrekturen des Schlussprotokolls**
 
-<sup>1</sup> Die Unterzeichnenden des Wahlvorschlages haben für den Verkehr mit den Behörden zwei Vertreterinnen oder Vertreter zu bezeichnen. Geschieht dies nicht, so gilt die bzw. derjenige, deren bzw. dessen Name in der Reihenfolge der Unterzeichnenden an erster Stelle steht, als erste bzw. erster und die- bzw. derjenige, der an zweiter Stelle steht, als zweite Vertreterin bzw. zweiter Vertreter. Jede Vertreterin bzw. jeder Vertreter ist für sich allein berechtigt oder verpflichtet, im Namen der Unterzeichnenden die zur Beseitigung von Anständen erforderlichen Erklärungen rechtsverbindlich abzugeben.
+<sup>1</sup> Korrekturen vor Unterzeichnung des Schlussprotokolls sind als solche zu kennzeichnen. Eine entsprechende Notiz ist anzufügen und von zwei Mitgliedern sowie einem Vorstandsmitglied des Wahl- und Abstimmungsbüros zu unterzeichnen.
+
+<sup>2</sup> Werden Fehler im Schlussprotokoll nach der Unterzeichnung festgestellt, ist die Korrektur in einem gesonderten Zusatz vorzunehmen, der zusätzlich von zwei weiteren Mitgliedern des Wahl- und Abstimmungsbüros zu unterzeichnen ist.
 
 #### § 25
 
-**Gleiche Listenbezeichnungen**
+**Berichterstattung des Wahl- und Abstimmungsbüros**
 
-<sup>1</sup> Tragen verschiedene Wahlvorschläge die gleiche Überschrift, so fordert die Gemeindeverwaltung die Vertreterinnen und Vertreter der Vorschläge auf, die notwendigen Unterscheidungen anzubringen. Geschieht dies nicht innert zwei Tagen, werden diese Listen durch eine weitere besondere Ordnungsnummer unterschieden.
+<sup>1</sup> Im Rahmen der Berichterstattung stehen sämtliche für die Ermittlung der Resultate relevanten Dokumente bei Wahlen der Wahlprüfungskommission und bei Abstimmungen dem Gemeinderat zur Einsicht zur Verfügung.
 
 #### § 26
 
-**Prüfung**
+**Bekanntmachung der Ergebnisse**
 
-<sup>1</sup> Die Gemeindeverwaltung prüft die eingereichten Vorschläge in bezug auf die Formerfordernisse, die Wählbarkeit der Kandidatinnen und Kandidaten und die Gültigkeit der Unterschriften. Den Vertreterinnen und Vertretern der Vorschläge sind die infolge Nichterfüllung der Formerfordernisse nötigen Streichungen oder Ergänzungen unverzüglich mitzuteilen unter Ansetzung einer Frist von zwei Tagen zur Behebung der Mängel.
+<sup>1</sup> Neben der amtlichen Publikation werden die Ergebnisse der Wahlen und Abstimmungen der Bevölkerung in geeigneter Form bekanntgemacht.
+
+## 4. Wahlen
+
+### 4.1 Allgemeine Bestimmungen
 
 #### § 27
 
-**Spezielle Entscheide**
+**Zusätzliche Vorgaben für die Wahlvorschläge**
 
-<sup>1</sup> Der Vorstand übt die Oberaufsicht aus ab Öffnung der Wahllokale und trifft in Zweifelsfällen den Entscheid. Wichtige Fragen werden dem Büro zum Entscheid vorgelegt. Gegenüber dem Büro ist der Vorstand weisungsberechtigt.
+<sup>1</sup> Die Gemeindeverwaltung gibt die maximale Zeichenzahl für die Wahlvorschläge vor.
 
-<sup>2</sup> Die Büros treffen ihre Entscheide nach Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme des Vorstandes den Ausschlag.
-
-<sup>3</sup> Besondere Entscheide sind auf dem betreffenden Wahlzettel zu vermerken.
+<sup>2</sup> Anstelle der Berufsbezeichnung auf dem Wahlvorschlag kann eine vergleichbare Tätigkeit angegeben werden.
 
 #### § 28
 
-**Gültige Wahlzettel**
+**Anzeige der Wahl**
 
-<sup>1</sup> Gültig sind alle Wahlzettel, die den Namen einer oder eines Wählbaren enthalten bzw. deren Namen auf den Stimmbogen gemäss § 17a der Ordnung angekreuzt oder auf den leeren Linien eingetragen sind. Finden sich auf den Wahlzetteln undeutlich geschriebene Namen, werden ausschliesslich solche Namen als gültige Stimmen gezählt, die eindeutig eine bestimmte wählbare Person bezeichnen.
+<sup>1</sup> Die oder der Vorsitzende sowie die zuständige Person für Wahlen und Abstimmungen zeigen den Gewählten ihre Wahl unverzüglich durch eine zweifach unterzeichnete, gestempelte Wahlbestätigung an.
 
-<sup>2</sup> Nicht näher bezeichnete Namen, die auf mehrere Wählbare bezogen werden können, sind nur dann als gültige Stimmen zu zählen, wenn nur eine Wählbare oder ein Wählbarer dieses Namens für die betreffende Wahl vorgeschlagen ist.
-
-<sup>3</sup> Wenn z.B. mehrere «Müller» vorgeschlagen sind, so ist eine Stimme, die nur auf «Müller» lautet, ungültig; ist dagegen nur eine Person namens «Müller» vorgeschlagen, so ist eine solche Stimme gültig.
-
-<sup>4</sup> …
+### 4.2 Proporzwahlen
 
 #### § 29
 
-**…**
+**Fehlen einer Listenbezeichnung und Ordnungsnummer**
+
+<sup>1</sup> Fehlen Listenbezeichnung und Ordnungsnummer oder sind beide unklar oder durchgestrichen, wird die Liste als Freie Liste behandelt.
+
+<sup>2</sup> Ebenfalls als Freie Liste gilt eine Liste, bei der die Listenbezeichnung oder Ordnungsnummer durch die Bezeichnung «Freie Liste» ersetzt oder die Bezeichnung «Freie Liste» ersatzlos gestrichen worden ist.
 
 #### § 30
 
-**Leere Wahlzettel**
+**Feststellung der Stimmenzahl**
 
-<sup>1</sup> Leere Wahlzettel sind nicht nur solche, die weder auf der Vorderseite noch auf der Rückseite den Namen einer oder eines Wählbaren enthalten, sondern auch solche, auf denen die Wählerin oder der Wähler einen Strich oder eine Null angebracht hat.
+<sup>1</sup> Das Wahl- und Abstimmungsbüro stellt fest, wie viele Stimmen die Kandidierenden erhalten haben.
+
+<sup>2</sup> Enthält eine Liste weniger gültige Stimmen, als Mitglieder des Einwohnerrates zu wählen sind, werden die leeren Linien gezählt und der Liste als Listenstimmen zugerechnet, sofern die Liste eine Listenbezeichnung oder Ordnungsnummer trägt.
+
+<sup>3</sup> Enthält eine Liste mehr gültige Stimmen, als Mitglieder des Einwohnerrates zu wählen sind, bleiben die überzähligen Stimmen unberücksichtigt. Überzählige Stimmen werden vertikal von rechts unten nach links oben gestrichen, wobei vorgedruckte gegenüber handschriftlich eingetragenen Namen zuerst gestrichen werden.
+
+<sup>4</sup> Stimmen für Personen, die nicht auf einem Wahlvorschlag stehen, sind ungültig. Die entsprechenden Linien zählen als Listenstimmen, sofern die Liste eine Listenbezeichnung oder Ordnungsnummer trägt.
 
 #### § 31
 
-**Anzeige der Wahl**
+**Weitere Vorgaben zur Stimmabgabe**
 
-<sup>1</sup> Der Vorstand des Wahlbüros hat jeder und jedem Gewählten ihre bzw. seine Wahl ohne Verzug schriftlich anzuzeigen.
+<sup>1</sup> Wiederholungs- und ähnliche Zeichen sind ungültig und bleiben unberücksichtigt.
 
-### II. Wahlen der Mitglieder des Einwohnerrates
+<sup>2</sup> Bei einem Widerspruch zwischen Name und Nummer einer kandidierenden Person gilt der Name.
 
 #### § 32
 
-**Stimmabgabe**
+**Überzählige Sitze**
 
-<sup>1</sup> Gemäss § 59 der Ordnung der politischen Rechte können die Wählerinnen und Wähler so viele Stimmen abgeben, als Mitglieder in den Einwohnerrat zu wählen sind. Der gleiche Name darf jedoch höchstens dreimal auf der Liste stehen.
-
-<sup>2</sup> Die Verwendung von Wiederholungszeichen und von Ausdrücken, die zum Zwecke der mehrfachen Eintragung eines Kandidatennamens eine Wiederholung andeuten, ist zulässig.
+<sup>1</sup> Werden einer Liste mehr Mandate zugeteilt, als sie Kandidierende enthält, findet für die überzähligen Sitze eine Ersatzwahl gemäss § 79 Abs. 3 – 4 OPR statt.
 
 #### § 33
 
-**Änderung der Listenbezeichnung**
+**Unvereinbarkeit**
 
-<sup>1</sup> Den Wählerinnen und Wählern ist es auch gestattet, gedruckte Listenbezeichnungen und Ordnungsnummern zu streichen und durch andere zu ersetzen.
+<sup>1</sup> Liegt eine Unvereinbarkeit gemäss § 18 der Gemeindeordnung vor, muss sich die gewählte Person nach Aufforderung durch die zuständige Stelle der Gemeindeverwaltung unverzüglich entscheiden.
 
-<sup>2</sup> Stimmen die Listennummern und die Listenbezeichnungen eines Wahlzettels nicht überein, so ist die angeführte Listenbezeichnung massgebend.
+<sup>2</sup> Wird dadurch ein Sitz frei, gelten die Bestimmungen über den Ersatz von Mitgliedern des Einwohnerrats während der Amtsdauer gemäss den §§ 78 f. OPR.
 
 #### § 34
 
-**Fehlen einer Listenbezeichnung**
+**Parteilose Nachrückende**
 
-<sup>1</sup> Fehlt die Listenbezeichnung oder ist sie unklar, so entscheidet die Listennummer. Fehlen Listenbezeichnung und Nummer oder sind beide unklar, so ist der Wahlzettel als Freie Liste zu behandeln. Ebenfalls als Freie Liste gilt der Wahlzettel, bei welchem die Listenbezeichnung und Nummer durch die Bezeichnung «Freie Liste» ersetzt oder die Bezeichnung «Freie Liste» ersatzlos gestrichen worden ist.
+<sup>1</sup> Personen, die im Zeitpunkt der Wahl als Parteilose kandidierten, können nur nachrücken, sofern sie im Zeitpunkt des Nachrückens parteilos sind oder mittlerweile der Partei beigetreten sind, für deren Liste sie kandidierten.
+
+### 4.3 Majorzwahlen
 
 #### § 35
 
-**Prüfung der Listen**
+**Weitere Vorgaben zur Stimmabgabe**
 
-<sup>1</sup> Nach Schliessung des Wahllokals öffnet das Büro die Urnen. Es hat festzustellen und zu protokollieren:
-
-- 1\. die Zahl der abgegebenen Stimmrechtsausweise,
-- 2\. die Zahl der gültigen, ungültigen und leeren Wahlzettel,
-- 3\. die Zahl der gültigen Wahlzettel mit gleicher Überschrift und gleicher Ordnungsnummer, unterteilt nach unveränderten und veränderten Listen sowie die Gesamtzahl der Freien Listen.
+<sup>1</sup> Verwenden die Stimmberechtigten bei der Wahl der Gemeindepräsidentin oder des Gemeindepräsidenten oder der weiteren Mitglieder des Gemeinderats nur die Bezeichnung «der/die Bisherige(n)» oder dergleichen, ist der Wahlzettel ungültig.
 
 #### § 36
 
 **Feststellung der Stimmenzahl**
 
-<sup>1</sup> Das Wahlbüro hat festzustellen, wieviele Stimmen auf jeden Namen entfallen sind. Enthält eine Liste weniger gültige Stimmen, als Mitglieder des Einwohnerrates zu wählen sind, so wird die Zahl der fehlenden Stimmen ermittelt und der von der Wählerin oder vom Wähler gewählten Liste als Listenstimmen zugezählt, sofern sie eine Listenbezeichnung oder Ordnungsnummer trägt.
-
-<sup>2</sup> Enthält eine Liste mehr gültige Stimmen, als Mitglieder des Einwohnerrates zu wählen sind, so werden die überzähligen Stimmen nicht gezählt. Die Feststellung der überzähligen Stimmen hat in der Weise zu geschehen, dass die auf den Wahlzetteln aufgeführten Namen nach Vertikalreihen, und zwar mit der ersten Reihe links beginnend, von oben nach unten gezählt werden, bis die Zahl der zu Wählenden erreicht ist.
-
-<sup>3</sup> Stimmen für nicht auf einem Wahlvorschlag stehende Personen sind ungültig. Die entsprechenden Linien zählen als Listenstimmen, sofern es sich nicht um eine freie Liste handelt.
+<sup>1</sup> Das Wahl- und Abstimmungsbüro stellt fest, wie viele Stimmen auf jeden Namen entfallen. Enthält ein Wahlzettel weniger gültige Stimmen, als Behördenmitglieder zu wählen sind, zählen die aufgeführten gültigen Namen als Stimmen. Enthält ein Wahlzettel mehr gültige Namen, als Behördenmitglieder zu wählen sind, ist er ungültig.
 
 #### § 37
 
-**Zuteilung des letzten Sitzes bei Gleichheit der Kandidatenstimmen**
+**Wahlvorschläge für den zweiten Wahlgang**
 
-<sup>1</sup> Weisen zwei oder mehr Kandidatinnen oder Kandidaten gleiche Kandidatenstimmen auf, so wird die Reihenfolge durch das Los entschieden.
+<sup>1</sup> Bei Wahlvorschlägen für Kandidierende, die bereits am ersten Wahlgang teilgenommen haben, genügt die Unterzeichnung durch die Vertreterin oder den Vertreter des Wahlvorschlags für den ersten Wahlgang.
+
+<sup>2</sup> Die für den ersten Wahlgang abgegebenen Erklärungen der Vorgeschlagenen, dass sie mit der Aufstellung einverstanden sind und eine allfällige Wahl annehmen, gelten auch für den zweiten Wahlgang.
+
+<sup>3</sup> Neue Wahlvorschläge müssen die Vorgaben erfüllen, die für die Teilnahme am ersten Wahlgang gelten.
 
 #### § 38
 
-**Überzählige Sitze**
+**Publikation der Wahlvorschläge und Zustellung**
 
-<sup>1</sup> Sollte eine Liste mehr Sitze zugeteilt bekommen, als sie Namen enthält, so werden die überzähligen unter die übrigen Listen nach dem in § 62 der Ordnung der politischen Rechte aufgeführten Verfahren verteilt.
+<sup>1</sup> Die Wahlvorschläge für den zweiten Wahlgang werden am Samstag nach dem ersten Wahlgang im Kantonsblatt publiziert.
+
+<sup>2</sup> Für den zweiten Wahlgang erhalten die Stimmberechtigten neue Stimmrechtsausweise und Wahlzettel, auf denen die Namen der vorgeschlagenen Kandidierenden sowie leere Linien entsprechend der Anzahl der noch zu besetzenden Sitze gedruckt sind.
 
 #### § 39
 
-**Wahlprotokoll**
-
-<sup>1</sup> Nach Ermittlung des Wahlresultates hat das Wahlbüro ein Schlussprotokoll gemäss § 12 auszufertigen.
-
-#### § 40
-
 **Unvereinbarkeit**
 
-<sup>1</sup> Liegt Unvereinbarkeit vor, so fordert die Gemeindeverwaltung die Gewählten auf, sich für das eine oder andere Amt sofort zu entscheiden. Für die Neubesetzung der durch diese Erklärung frei gewordenen Sitze gelten die Bestimmungen über den Ersatz von Mitgliedern des Einwohnerrates während der Amtsdauer gemäss § 62 der Ordnung der politischen Rechte.
+<sup>1</sup> Wird eine Person sowohl als Gemeindepräsidentin oder Gemeindepräsident als auch als Mitglied des Gemeinderats oder des Einwohnerrats gewählt, fordert die zuständige Stelle der Gemeindeverwaltung die betroffene Person unverzüglich auf, sich für eines der Ämter zu entscheiden.
 
-## III. Wahl der Gemeindepräsidentin oder des Gemeindepräsidenten und der weiteren Mitglieder des Gemeinderates
+<sup>2</sup> Liegt eine Unvereinbarkeit gemäss § 18 der Gemeindeordnung vor, muss sich die gewählte Person nach Aufforderung durch die zuständige Stelle der Gemeindeverwaltung unverzüglich entscheiden.
 
-#### § 41
+*Schlussbestimmung*
 
-**Stimmabgabe**
+Dieses Reglement ist zu publizieren; es tritt am 1. März 2025 in Kraft. Auf den gleichen Zeitpunkt wird das Reglement der politischen Rechte in der Einwohnergemeinde Riehen vom 18. März 1997 aufgehoben.
 
-<sup>1</sup> Verwenden die Wählerinnen und Wähler bei der Wahl der Gemeindepräsidentin oder des Gemeindepräsidenten oder der weiteren Mitglieder des Gemeinderates lediglich die Bezeichnung «der/die Bisherige(n)» oder dergleichen, so ist der Wahlzettel ungültig.
-
-#### § 42
-
-**Sortieren der Wahlzettel**
-
-<sup>1</sup> Die Wahlzettel werden in mit Namen beschriebene und in «leere» und «ungültige» geordnet, wobei sich die Mitglieder und die Sekretärinnen und Sekretäre in die Arbeit teilen und sich gegenseitig kontrollieren.
-
-#### § 43
-
-**Feststellung der Stimmenzahl**
-
-<sup>1</sup> Das Wahlbüro stellt fest, wie viele Stimmen auf jeden Namen entfallen sind. Enthält ein Wahlzettel weniger gültige Stimmen, als Behördenmitglieder zu wählen sind, so werden alle aufgeführten gültigen Namen als Stimmen gezählt. Enthält ein Wahlzettel mehr gültige Namen, als Behördenmitglieder zu wählen sind, ist er ungültig.
-
-<sup>2</sup> Die Feststellung der überzähligen Stimmen hat in der Weise zu geschehen, dass die auf den Wahlzetteln aufgeführten Namen von oben nach unten gezählt werden, bis die Zahl der zu wählenden Behördenmitglieder erreicht ist.
-
-#### § 44
-
-**Wahlvorschläge zweiter Wahlgang**
-
-<sup>1</sup> Die Wahlvorschläge zum zweiten Wahlgang können von den Vertreterinnen und Vertretern der Vorschläge für den ersten Wahlgang ohne Mitwirkung der übrigen Unterzeichnenden eingereicht werden.
-
-<sup>2</sup> Die von den Vorgeschlagenen für den ersten Wahlgang abgegebenen Erklärungen, dass sie mit der Aufstellung einverstanden sind und eine allfällige Wahl annehmen, gelten auch für einen zweiten Wahlgang.
-
-<sup>3</sup> Neue Wahlvorschläge müssen die allgemeinen Erfordernisse, die für die Teilnahme am ersten Wahlgang gestellt werden, erfüllen.
-
-<sup>4</sup> Die Publikation der Wahlvorschläge für den zweiten Wahlgang erfolgt im Kantonsblatt vom nachfolgenden Samstag.
-
-<sup>5</sup> Für den zweiten Wahlgang werden den Stimmberechtigten neue Stimmrechtsausweise zugestellt zusammen mit einem leeren Wahlzettel und Wahlzetteln, auf welchen die Namen der rechtzeitig vorgeschlagenen Kandidatinnen und Kandidaten gedruckt sind.
-
-#### § 45
-
-**Unvereinbarkeit**
-
-<sup>1</sup> Wird ein Kandidat oder eine Kandidatin sowohl als Präsident bzw. Präsidentin als auch als Mitglied des Gemeinderates oder des Einwohnerrates gewählt, so liegt Unvereinbarkeit vor. Die Verwaltung fordert den Gewählten oder die Gewählte ohne Verzug auf, sich für eines der Ämter sofort zu entscheiden.
-
-#### § 46
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Mit Inkrafttreten dieses Reglementes wird das Reglement der Wahlen und Abstimmungen der Einwohnergemeinde Riehen vom 17. September 1986 aufgehoben.
-
-#### § 47
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement ist zu publizieren; es wird sofort wirksam.[^47-1]
-
-[^47-1]: Wirksam seit 24. 4. 1997.
-
-KB 23.04.1997
+KB 08.02.2025
