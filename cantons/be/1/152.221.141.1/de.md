@@ -4,13 +4,12 @@ number: "152.221.141.1"
 title: Direktionsverordnung über die Delegation von Befugnissen der Sicherheitsdirektion
 short: DelDV SID
 language: de
-version: 2021-07-01
-valid_until: 2025-02-28
-version_adopted: 2021-05-04
+version: 2025-03-01
+version_adopted: 2025-01-22
 adopted: 2011-02-28
 in_force: 2011-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2285/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3141/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2285/pdf_file"
 
 (DelDV SID)
 
-vom 28.02.2011 (Stand 01.07.2021)
+vom 28.02.2011 (Stand 01.03.2025)
 
 Die Polizei- und Militärdirektion des Kantons Bern,
 
@@ -80,7 +79,7 @@ beschliesst:
 
 **2.3 Kantonspolizei**
 
-<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant ist zuständig für die Anstellungen für die Stellen der Kaderstufen 3 und 4. Die Chefin oder der Chef der Abteilung Ressourcen und Dienstleistungen ist zuständig für die Anstellung der übrigen Mitarbeiterinnen und Mitarbeiter. Sie oder er kann diese Kompetenz ganz oder teilweise an die Chefin oder den Chef Personaldienst übertragen.
+<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant ist zuständig für die Anstellungen für die Stellen der Kaderstufen 3 und 4. Die Chefin oder der Chef der Abteilung Ressourcen und Dienstleistungen (R+DL) ist zuständig für die Anstellung der übrigen Mitarbeiterinnen und Mitarbeiter. Sie oder er kann diese Kompetenz ganz oder teilweise an die Chefin oder den Chef Personaldienst übertragen.
 
 <sup>2</sup> Im Verhinderungsfall kommt die Befugnis gemäss Absatz 1 den Stellvertreterinnen oder Stellvertretern zu.
 
@@ -115,13 +114,15 @@ beschliesst:
 
 <sup>3</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe c, f, g, i, k und l werden im SVSA durch die Abteilungsleiterinnen und Abteilungsleiter erteilt, in Absprache mit den Personalverantwortlichen des zentralen Personaldienstes. Die Bewilligungen gemäss Absatz 1 Buchstabe h werden durch die Personalverantwortlichen, diejenigen gemäss Absatz 1 Buchstabe d und e durch die Abteilungsleiterinnen und Abteilungsleiter erteilt.
 
-<sup>4</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe c, e, h, m, n und o werden im Amt für Bevölkerungsschutz, Sport und Militär (BSM) durch die Abteilungsleiterinnen und Abteilungsleiter sowie die Leiterin oder den Leiter der Geschäftsstelle in La Neuveville erteilt. Dasselbe gilt für die Bewilligungen gemäss Absatz 1 Buchstabe g, soweit nicht Abweichungen vom Jahresarbeitszeitmodell betreffend, sowie Absatz 1 Buchstabe k, soweit die Weiterbildungen nicht gemäss Artikel 176 ff. PV rückzahlungspflichtig sind.
+<sup>4</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe c, e, h, m, n und o werden im Amt für Bevölkerungsschutz, Sport und Militär (BSM) durch die Abteilungsleiterinnen und Abteilungsleiter sowie die Leiterin oder den Leiter der Geschäftsstelle Berner Jura erteilt. Dasselbe gilt für die Bewilligungen gemäss Absatz 1 Buchstabe g, soweit nicht Abweichungen vom Jahresarbeitszeitmodell betreffend, sowie Absatz 1 Buchstabe k, soweit die Weiterbildungen nicht gemäss Artikel 176 ff. PV rückzahlungspflichtig sind.
 
 <sup>5</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe c, g, h, i und k werden bei der Kantonspolizei durch den oder die Chefin oder den Chef Personaldienst erteilt. Im Verhinderungsfall kommt die Befugnis der jeweiligen Stellvertreterin oder dem jeweiligen Stellvertreter zu.
 
 <sup>6</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe d und e werden bei der Kantonspolizei in Absprache mit dem Personaldienst durch die Abteilungsleiterinnen und Abteilungsleiter der Kaderstufe 4 erteilt.
 
 <sup>7</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe m, n und o werden im Generalsekretariat in Absprache mit dem Personaldienst durch die jeweiligen Vorgesetzten erteilt.
+
+<sup>8</sup> Die personalrechtlichen Bewilligungen gemäss Absatz 1 Buchstabe e und g, soweit es Anordnungen einer Abweichung vom ordentlichen Arbeitszeitrahmen betrifft, Buchstabe i und k, soweit es die Bewilligung zum Besuch von nicht rückzahlungspflichtigen Weiterbildungsveranstaltungen betrifft, sowie Buchstabe l und, unter Vorbehalt von Satz 2, Buchstabe o werden im Amt für Bevölkerungsdienste (ABEV) durch die Abteilungsleiterinnen und Abteilungsleiter erteilt. Die Bewilligungen gemäss Absatz 1 Buchstabe c, h, m, n und o, soweit es bezahlten Urlaub bis zwei Wochen betrifft, werden durch die direkten Vorgesetzten erteilt. Im Verhinderungsfall kommt die Befugnis der jeweiligen Stellvertreterin oder dem jeweiligen Stellvertreter zu.
 
 ## 3 Ausgabenbefugnisse
 
@@ -153,7 +154,7 @@ beschliesst:
 
 <sup>1</sup> Die Ausgabenbefugnisse der Vorsteherin oder des Vorstehers des AJV werden gemäss Anhang 1 an die darin bezeichneten Stellen delegiert.
 
-<sup>1a</sup> Das nächst höhere finanzkompetente Organ des AJV und das Geschäftsfeld Ressourcen sind in jedem Falle zu informieren.
+<sup>1a</sup> Das nächst höhere finanzkompetente Organ des AJV und das Geschäftsfeld Management, Services & Entwicklung sind in jedem Falle zu informieren.
 
 <sup>2</sup> Im Verhinderungsfall erstrecken sich diese Ausgabenbefugnisse auf die jeweiligen Stellvertreterinnen und Stellvertreter.
 
@@ -171,7 +172,7 @@ beschliesst:
 
 **3. BSM**
 
-<sup>1</sup> Die Ausgabenbefugnisse der Amtsvorsteherin oder des Amtsvorstehers des BSM werden bis zu 10'000 Franken an die Stabschefin oder den Stabschef, die Vorsteherinnen und Vorsteher der Abteilungen sowie die Leiterin oder den Leiter der Geschäftsstelle in La Neuveville delegiert, soweit die Ausgaben ihre Gliederungseinheiten betreffen.
+<sup>1</sup> Die Ausgabenbefugnisse der Amtsvorsteherin oder des Amtsvorstehers des BSM werden bis zu 30'000 Franken an die Stabschefin oder den Stabschef, die Vorsteherinnen und Vorsteher der Abteilungen sowie die Leiterin oder den Leiter der Geschäftsstelle Berner Jura delegiert, soweit die Ausgaben ihre Gliederungseinheiten betreffen.
 
 <sup>2</sup> Im Verhinderungsfall erstrecken sich diese Ausgabenbefugnisse auf die jeweiligen Stellvertreterinnen oder Stellvertreter.
 
@@ -187,7 +188,7 @@ beschliesst:
 
 **5. ABEV**
 
-<sup>1</sup> Die Ausgabenbefugnisse der Vorsteherin oder des Vorstehers des Amts für Bevölkerungsdienste (ABEV) werden für Ausgaben bis zu 10'000 Franken an die Vorsteherinnen und Vorsteher der Abteilungen sowie an die Leiterinnen und Leiter der Ressourcenbereiche entsprechend der ihnen übertragenen Aufgabenbereiche delegiert.
+<sup>1</sup> Die Ausgabenbefugnisse der Vorsteherin oder des Vorstehers des ABEV werden für Ausgaben bis zu 30'000 Franken an die Leiterinnen und Leiter der Abteilungen entsprechend der ihnen übertragenen Aufgabenbereiche delegiert.
 
 <sup>2</sup> Vorbehalten bleibt in Fällen gemäss Absatz 1 die vorgängige Zustimmung zu Ausgaben durch die Amtsvorsteherin oder den Amtsvorsteher aufgrund besonderer finanzpolitischer Vorgaben des Grossen Rates oder des Regierungsrates. Sämtliche mit wiederkehrenden Kosten verbundenen Grundsatzentscheide und Aktionen bedürfen der Zustimmung der Amtsvorsteherin oder des Amtsvorstehers.
 
@@ -239,17 +240,21 @@ beschliesst:
 
 <sup>1</sup> Wo in der Spezialgesetzgebung die Kantonspolizei als entscheid- und verfügungszuständig bezeichnet wird, wird diese Zuständigkeit von der Polizeikommandantin, vom Polizeikommandanten, von der stellvertretenden Polizeikommandantin oder vom stellvertretenden Polizeikommandanten wahrgenommen. Vorbehalten bleiben spezielle Zuständigkeiten im gerichtspolizeilichen Bereich gemäss der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^19-1] sowie die nachfolgend aufgelisteten Fälle:
 
-- a Einziehung und Beschlagnahme von Waffen sowie Rückführung der beschlagnahmten Waffen (Art. 1 bis 3 der Verordnung vom 15. Dezember 2004 über den Vollzug des eidgenössischen Waffenrechts [Kantonale Waffenverordnung, KWV][^19-2]): Mitarbeiterin oder Mitarbeiter des Fachbereichs Waffen, Sprengstoff und Gewerbe (WSG), Kriminalabteilung,
-- b Erteilung und Entzug eines Waffenscheins (Art. 1 KWV): Mitarbeiterin oder Mitarbeiter des Fachbereichs WSG, Kriminalabteilung,
-- c Erteilung und Entzug von Erwerbsscheinen für Sprengmittel (Art. 1 und 3 der Verordnung vom 15. Dezember 2004 zum Bundesgesetz über explosionsgefährliche Stoffe [Kantonale Sprengstoffverordnung, KSprstV][^19-3]): Mitarbeiterin oder Mitarbeiter des Fachbereichs WSG, Kriminalabteilung,
-- d Sicherstellung von Fahrzeugen (Art. 7 der Strassenverkehrsverordnung vom 20. Oktober 2004 [StrVV][^19-4]): Chefin oder Chef des Fachbereichs Verkehr der Abteilung Verkehr, Umwelt und Prävention,
-- e Sicherstellung von anderen Gegenständen (Art. 101 des Polizeigesetzes vom 10. Februar 2019 [PolG][^19-5]): alle Mitarbeiterinnen und Mitarbeiter der Regionalpolizeien, der Kriminalabteilung und der Abteilung Verkehr, Umwelt und Prävention,
-- f Bewilligungen gemäss Artikel 67 der eidgenössischen Signalisationsverordnung vom 5. September 1979 (SSV)[^19-6]: Chefin oder Chef des Fachbereichs Verkehr der Abteilung Verkehr, Umwelt und Prävention.
+- a Einziehung und Beschlagnahme von Waffen sowie Rückführung der beschlagnahmten Waffen (Art. 1 bis 3 der Verordnung vom 15. Dezember 2004 über den Vollzug des eidgenössischen Waffenrechts [Kantonale Waffenverordnung, KWV][^19-2]): Mitarbeiterin oder Mitarbeiter des Fachbereichs Waffen, Sprengstoff und Gewerbe (WSG), R+DL,
+- b Erteilung und Entzug eines Waffenerwerbsscheins (Art. 1 KWV): Mitarbeiterin oder Mitarbeiter des Fachbereichs WSG, R+DL,
+- c Erteilung und Entzug von Erwerbsscheinen für Sprengmittel (Art. 1 und 3 der Verordnung vom 15. Dezember 2004 zum Bundesgesetz über explosionsgefährliche Stoffe [Kantonale Sprengstoffverordnung, KSprstV][^19-3]): Mitarbeiterin oder Mitarbeiter des Fachbereichs WSG, R+DL,
+- d Sicherstellung von Fahrzeugen (Art. 7 der Strassenverkehrsverordnung vom 20. Oktober 2004 [StrVV][^19-4]): Mitarbeiterinnen und Mitarbeiter der Regionalpolizei, der Kriminalabteilung (KA) und der Abteilung Verkehr, Umwelt und Prävention (VU+P) sowie der Abteilung Planung und Einsatz (P+E),
+- e Sicherstellung von anderen Gegenständen (Art. 101 des Polizeigesetzes vom 10. Februar 2019 [PolG][^19-5]): Mitarbeiterinnen und Mitarbeiter der Regionalpolizei, der KA sowie der Abteilung VU+P,
+- f Bewilligungen gemäss Artikel 67 der eidgenössischen Signalisationsverordnung vom 5. September 1979 (SSV)[^19-6]: Chefin oder Chef des Fachbereichs Verkehr der Abteilung VU+P,
+- g Erteilung und Entzug von Bewilligungen und Anerkennungen für das Erbringen von Sicherheitsdienstleistungen durch Private (Art. 2, 3 und 6 des Gesetzes vom 13. Juni 2018 über das Erbringen von Sicherheitsdienstleistungen durch Private [SDPG][^19-7]): Mitarbeiterin oder Mitarbeiter des Fachbereichs WSG, R+DL,
+- h Auskunft, Einsicht, Berichtigung sowie Vernichtung im Zusammenhang mit Personendaten, Informationen und Akten (Art. 3 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung [EG ZSJ][^19-8], Art. 141 des Polizeigesetzes vom 10. Februar 2019 [PolG][^19-9], Art. 21 und 23 des Datenschutzgesetzes vom 19. Februar 1986 [KDSG][^19-10]): Chefin oder Chef Recht, R+DL,
+- i Videoüberwachungen an öffentlichen Orten sowie zum Schutz öffentlicher Gebäude und Anlagen (Art. 123 und 124 PolG): Chefin oder Chef Recht, R+DL,
+- k Anordnungen gemäss Artikel 251a Buchstaben b und c StPO: Mitarbeiterinnen und Mitarbeiter der Regionalpolizei, der KA sowie der Abteilungen VU+P und P+E.
 
 <sup>2</sup> In den nachfolgenden Fällen wird die Verfügungszuständigkeit der betreffenden Abteilung der Kantonspolizei übertragen, wobei die Polizeikommandantin oder der Polizeikommandant in einem Dienstbefehl festlegt, welche Mitarbeiterinnen und Mitarbeiter mit Polizeifunktion innerhalb der jeweiligen Abteilung zur Unterzeichnung ermächtigt sind:
 
 - a Wegweisungs- und Fernhalteverfügung gemäss Artikel 83 PolG,
-- b Rayonverfügung gemäss Artikel 2 Absatz 1 Buchstabe a der Einführungsverordnung vom 14. Oktober 2009 zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen[^19-7],
+- b Rayonverfügung gemäss Artikel 2 Absatz 1 Buchstabe a der Einführungsverordnung vom 14. Oktober 2009 zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen[^19-11],
 - c Meldeauflage gemäss Artikel 2 Absatz 1 Buchstabe b der Einführungsverordnung zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,
 - d Polizeigewahrsam gemäss Artikel 2 Absatz 1 Buchstabe c der Einführungsverordnung zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,
 - e vorläufige Festnahme gemäss Artikel 217 StPO,
@@ -262,8 +267,12 @@ beschliesst:
 [^19-3]: BSG [943.521](https://www.belex.sites.be.ch/data/943.521/de)
 [^19-4]: BSG [761.111](https://www.belex.sites.be.ch/data/761.111/de)
 [^19-5]: BSG [551.1](https://www.belex.sites.be.ch/data/551.1/de)
-[^19-6]: SR [741.21](https://db.clex.ch/link/Bund/741.21/de))
-[^19-7]: BSG [551.212](https://www.belex.sites.be.ch/data/551.212/de)
+[^19-6]: SR [741.21](https://db.clex.ch/link/Bund/741.21/de)
+[^19-7]: BSG 551.4
+[^19-8]: BSG 271.1
+[^19-9]: BSG 551.1
+[^19-10]: BSG 152.04
+[^19-11]: BSG [551.212](https://www.belex.sites.be.ch/data/551.212/de)
 
 #### Art. 20
 
