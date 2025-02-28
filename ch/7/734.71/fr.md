@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250301-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250101/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> janvier 2025)
+du 14 mars 2008 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -260,7 +260,7 @@ Afin d’assurer une protection adéquate des installations contre les cybermena
 <sup>3</sup> La preuve que le niveau de protection requis est atteint doit être fournie à l’ElCom à sa demande.
 
 [^5a-1]: Introduit par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
-[^5a-2]: La norme minimale TIC est accessible sur le site Internet de l’Office fédéral pour l’approvisionnement économique du pays à l’adresse [www.bwl.admin.ch](https://www.bwl.admin.ch/bwl/fr/home/bereiche/ikt/ikt_minimalstandard.html) &gt; Domaines &gt; TIC &gt; Norme minimale pour les TIC ou peut être demandée gratuitement par courriel à l’adresse info@bwl.admin.ch.
+[^5a-2]: La norme minimale TIC est accessible sur le site Internet de l’Office fédéral de la cybersécurité à l’adresse [www.ncsc.admin.ch](http://www.ncsc.admin.ch) &gt; Informations pour &gt; Informations pour des spécialistes IT &gt; Thèmes actuels &gt; Norme minimale pour les TIC.
 [^5a-3]: Nouvelle expression selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5a<sup>bis</sup>
@@ -780,13 +780,16 @@ Le calcul des intérêts annuels des valeurs patrimoniales nécessaires à l’e
 
 - b.[^13-1] Le taux d’intérêt calculé correspond au coût moyen pondéré du capital investi (*Weighted Average Cost of Capital*, WACC).
 
-<sup>3bis</sup> Le DETEC fixe le WACC chaque année conformément aux dispositions de l’annexe 1.[^13-2]
+<sup>3bis</sup> Le DETEC fixe le WACC chaque année sur la base du calcul de l’OFEN conformément aux dispositions de l’annexe 1. Pour ce faire, il consulte au préalable l’ElCom.[^13-2]
 
-<sup>4</sup> Si, exceptionnellement, il n’est plus possible de déterminer les coûts d’acquisition ou de fabrication des installations, il faut les calculer comme suit: les coûts de remplacement sont déterminés de manière transparente sur la base d’indices des prix officiels et appropriés, rétroactivement à la date d’acquisition ou de fabrication. Les coûts déjà facturés d’exploitation ou de capital des valeurs patrimoniales nécessaires à l’exploitation doivent être déduits. Dans tous les cas, seule entre en considération la valeur d’une installation comparable. 20 % de la valeur ainsi calculée doivent être déduits.[^13-3]
+<sup>3ter</sup> Il publie le WACC de l’année suivante sur Internet et dans la Feuille fédérale au plus tard à la fin du mois de mars de chaque année.[^13-3]
+
+<sup>4</sup> Si, exceptionnellement, il n’est plus possible de déterminer les coûts d’acquisition ou de fabrication des installations, il faut les calculer comme suit: les coûts de remplacement sont déterminés de manière transparente sur la base d’indices des prix officiels et appropriés, rétroactivement à la date d’acquisition ou de fabrication. Les coûts déjà facturés d’exploitation ou de capital des valeurs patrimoniales nécessaires à l’exploitation doivent être déduits. Dans tous les cas, seule entre en considération la valeur d’une installation comparable. 20 % de la valeur ainsi calculée doivent être déduits.[^13-4]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 30 janv. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
-[^13-2]: Introduit par le ch. I de l’O du 30 janv. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^13-3]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^13-2]: Introduit par le ch. I de l’O du 30 janv. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Nouvelle teneur selon le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^13-3]: Introduit par le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^13-4]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 13a
 
@@ -1050,7 +1053,7 @@ La société nationale du réseau de transport présente un rapport à l’ElCom
 
 <sup>2</sup> Elle fixe les prix des services-système de façon à en couvrir les coûts. Si leur vente génère un bénéfice ou un déficit, le montant en sera pris en compte dans le calcul des coûts au sens de l’art. 15, al. 2, let. a.
 
-<sup>3</sup> à <sup>5</sup> …[^22-1]
+<sup>3 à <sup>5</sup></sup> …[^22-1]
 
 <sup>6</sup> Elle fait rapport annuellement à l’ElCom sur les services-système effectivement fournis et sur l’imputation de leurs coûts.
 
@@ -1329,7 +1332,7 @@ Pendant le délai transitoire visé à l’al. 1, le gestionnaire de réseau dé
 - a. les consommateurs finaux qui font usage de leur droit d’accès au réseau;
 - b.[^31e-1] …
 
-<sup>3</sup> et <sup>4</sup> …[^31e-2]
+<sup>3 et <sup>4</sup></sup> …[^31e-2]
 
 <sup>5</sup> Les amortissements exceptionnels nécessaires dus au démontage d’installations de mesure du gestionnaire de réseau non encore entièrement amorties sont également considérés comme des coûts imputables.
 
@@ -1473,121 +1476,84 @@ Annexe 1[^t-1]
 
 (art. 4, al. 3, let. a, ch. 5, 4*f*, al. 3, 8*a*, al. 4, 13, al. 3<sup>bis</sup>, et 18*a*, al. 3)
 
-## Détermination du coût moyen pondéré du capital
+## Détermination du WACC
 
-[^t-1]: Introduite par le ch. II de l’O du 30 janv. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Mise à jour par le ch. I de l’O du 4 déc. 2015 ([RO 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)), le ch. II al. 1 de l’O du 31 mai 2024 ([RO 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)) et le ch. II de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^t-1]: Introduite par le ch. II de l’O du 30 janv. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Nouvelle teneur selon le ch. II de l’O du 12 fév. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
 
-### 1 Définition
+### 1 WACC
 
-- 1\.1 Le coût moyen pondéré du capital est la somme du coût des fonds propres pondéré à raison de 40 % (taux de rendement des fonds propres) et du coût des capitaux étrangers pondéré à raison de 60 % (taux de rendement des fonds étrangers).
-- 1\.2
+- 1\.1 Le WACC correspond à la somme de 40 % du taux de rendement des fonds propres (Z<sub>EK</sub>) et de 60 % du taux de rendement des fonds étrangers (Z<sub>FK</sub>):
+- *WACC = 0,4 x Z**<sub>EK</sub>* *+ 0,6 x Z**<sub>FK</sub>*
+- 1\.2 Le Z<sub>EK</sub> correspond à la somme du taux d’intérêt sans risque pour les fonds propres (rlZ<sub>EK</sub>) et du produit de la prime de risque de marché (MRP) et du risque de marché (*levered beta**,* *β**<sub>i</sub>*):
+- *Z**<sub>EK</sub>* *= rlZ**<sub>EK</sub>* *+ MRP x β**<sub>l</sub>*
+- 1\.3 Le Z<sub>FK</sub> correspond à la somme du taux d’intérêt sans risque pour les fonds étrangers (rlZ<sub>FK</sub>) et d’une prime de risque d’insolvabilité (BoZ) prenant également en compte les frais d’émission et les frais d’acquisition:
+- *Z**<sub>FK</sub>* *= rlZ**<sub>FK</sub>* *+ BoZ*
 
-  Les paramètres suivants constituent la base de calcul:
+### 2 Taux d’intérêt sans risque pour les fonds propres
 
-  - a. taux d’intérêt sans risque pour les fonds propres;
-  - b. prime de risque de marché;
-  - c. bêta *levered*;
-  - d. taux d’intérêt sans risque pour les fonds étrangers;
-  - e. prime de risque d’insolvabilité (frais d’émission et frais d’acquisition y compris).
+- 2\.1 Le taux d’intérêt sans risque pour les fonds propres correspond au rendement annuel moyen publié pour l’année civile précédente (rendement d’obligations à coupon zéro) des obligations de la Confédération suisse d’une durée résiduelle de dix ans.
+- 2\.2 Si la valeur ainsi calculée se situe entre deux pourcentages entiers, c’est la moyenne de ces pourcentages qui est utilisée.
 
-- 1\.3 Pour calculer le taux de rendement des fonds propres, on additionne le taux d’intérêt sans risque pour les fonds propres et le produit de la prime de risque de marché par le bêta *levered*.
-- 1\.4 Pour calculer le taux de rendement des fonds étrangers, on additionne le taux d’intérêt sans risque pour les fonds étrangers et une prime de risque d’insolvabilité, y compris un taux forfaitaire pour les frais d’émission et les frais d’acquisition.
-- 1\.5 L’OFEN précise les dispositions concernant les paramètres visés au ch. 1.2.
+### 3 Prime de risque de marché
 
-### 2 Calcul et fixation annuels
+- 3\.1 La prime de risque de marché correspond à la différence entre le rendement du marché des actions attendu (*total market return*) et le taux d’intérêt sans risque pour les fonds propres (ch. 2).
+- 3\.2 Le rendement du marché des actions attendu correspond à la somme du rendement du marché des actions réel historique et des perspectives d’inflation actuelles. Si la valeur ainsi calculée se situe entre deux pourcentages entiers, c’est la moyenne de ces pourcentages qui est utilisée.
+- 3\.3 Le rendement du marché des actions réel historique est calculé à partir de la moyenne des moyennes géométrique et arithmétique des rendements annuels réels du marché suisse des actions depuis 1926. Les rendements publiés dans l’indice des actions réelles sont déterminants.
+- 3\.4 Les perspectives d’inflation actuelles correspondent aux perspectives d’inflation à long terme publiées par la Banque nationale suisse pour l’année civile précédente.
 
-- 2\.1 L’OFEN détermine chaque année la valeur des différents paramètres et calcule sur cette base le coût moyen pondéré du capital.
-- 2\.2 Il n’est tenu compte de l’évolution du taux d’intérêt sans risque pour les fonds propres, de la prime de risque de marché et du bêta *unlevered* (ch. 5.2) que si les valeurs limites définies sont dépassées pendant deux années consécutives, vers le haut ou vers le bas.
-- 2\.3 Il est tenu compte de l’évolution du taux d’intérêt sans risque pour les fonds étrangers dès le moment où ce dernier dépasse, vers le haut ou vers le bas, les valeurs limites définies. La prime de risque d’insolvabilité est fixée en fonction du taux d’intérêt sans risque pour les fonds étrangers. Si ce dernier est inférieur ou égal à 0,5 %, la prime de risque d’insolvabilité est calculée sur la moyenne des cinq années précédentes. S’il est supérieur à 0,5 %, la prime de risque d’insolvabilité est déterminée en fonction de la moyenne annuelle de l’année civile précédente.
-- 2\.4 Sur la base du calcul de l’OFEN et après avoir consulté l’ElCom, le DETEC fixe pour l’année le coût moyen pondéré du capital, qu’il publie sur Internet et dans la Feuille fédérale. Il fixe ce taux chaque année avant fin mars; il le fixe la première fois le 31 mars 2013 au plus tard pour l’année 2014.
+### 4 Risque de marché
 
-### 3 Taux d’intérêt sans risque pour les fonds propres
+- 4\.1 Le *levered beta* correspond au produit du risque de marché, à l’exclusion de l’endettement (*unlevered beta*), et d’un facteur qui représente l’influence du rapport entre les fonds propres et les fonds étrangers sur le rendement des fonds propres (effet de levier).
+- 4\.2 L’*unlevered beta* est déterminé sur la base d’un groupe de gestionnaires de réseau européens comparables (*peer group*). La vérification porte sur la comparabilité du *peer group* avec des gestionnaires de réseau suisses en ce qui concerne la part du chiffre d’affaires liée à la distribution et au transport d’électricité, le cadre régulatoire, y compris le type de régulation des prix, et d’autres facteurs de risque pertinents. Pour tenir compte d’éventuelles divergences du profil de risque entre le *peer group* et les gestionnaires de réseau suisses, il est possible de pondérer différemment certaines parties du *peer group* ou des entreprises le constituant ou de corriger directement l’ *unlevered beta*. Lors des corrections nécessaires, l’accent est mis sur les gestionnaires de réseau de transport européens.
+- 4\.3 Pour déterminer le WACC, l’*unlevered beta* est arrondi comme suit:
 
-- 3\.1 Le taux d’intérêt sans risque pour les fonds propres correspond au rendement moyen des obligations de la Confédération suisse d’une durée résiduelle de dix ans (rendement d’obligations à coupon zéro) publié pour l’année civile précédente.
-- 3\.2
+<table>
+<tr><th>Valeur réelle</th><th>Valeur arrondie</th></tr>
+<tr><td>moins de 0,025</td><td>0,00</td></tr>
+<tr><td>de 0,025 à moins de 0,075</td><td>0,05</td></tr>
+<tr><td>de 0,075 à moins de 0,125</td><td>0,10</td></tr>
+<tr><td>de 0,125 à moins de 0,175</td><td>0,15</td></tr>
+<tr><td>de 0,175 à moins de 0,225</td><td>0,20</td></tr>
+<tr><td>de 0,225 à moins de 0,275</td><td>0,25</td></tr>
+<tr><td>de 0,275 à moins de 0,325</td><td>0,30</td></tr>
+<tr><td>de 0,325 à moins de 0,375</td><td>0,35</td></tr>
+<tr><td>de 0,375 à moins de 0,425</td><td>0,40</td></tr>
+<tr><td>de 0,425 à moins de 0,475</td><td>0,45</td></tr>
+<tr><td>de 0,475 à moins de 0,525</td><td>0,50</td></tr>
+<tr><td>de 0,525 à moins de 0,575</td><td>0,55</td></tr>
+<tr><td>de 0,575 à moins de 0,625</td><td>0,60</td></tr>
+<tr><td>de 0,625 à moins de 0,675</td><td>0,65</td></tr>
+<tr><td>de 0,675 à moins de 0,725</td><td>0,70</td></tr>
+<tr><td>de 0,725 à moins de 0,775</td><td>0,75</td></tr>
+<tr><td>de 0,775 à moins de 0,825</td><td>0,80</td></tr>
+<tr><td>de 0,825 à moins de 0,875</td><td>0,85</td></tr>
+<tr><td>à partir de 0,875</td><td>0,90</td></tr>
+</table>
 
-  Les valeurs forfaitaires suivantes s’appliquent:
+### 5 Taux d’intérêt sans risque pour les fonds étrangers
 
-  - a. moins de 3 %: 2,5 %;
-  - b. de 3 à moins de 4 %: 3,5 %;
-  - c. de 4 à moins de 5 %: 4,5 %;
-  - d. de 5 à moins de 6 %: 5,5 %;
-  - e. 6 % ou plus: 6,5 %.
+- 5\.1 Le taux d’intérêt sans risque pour les fonds étrangers correspond au rendement moyen publié pour l’année civile précédente (rendement d’obligations à coupon zéro) des obligations de la Confédération suisse d’une durée résiduelle de cinq ans.
+- 5\.2 Si la valeur ainsi calculée se situe entre deux pourcentages entiers, c’est la moyenne de ces pourcentages qui est utilisée.
 
-- 3\.3 Les valeurs limites (ch. 2.2) à prendre en compte pour ce paramètre sont les suivantes: 3 %, 4 %, 5 % et 6 %.
+### 6 Prime de risque d’insolvabilité, frais d’émission et frais d’acquisition en sus
 
-### 4 Prime de risque de marché
+- 6\.1 La prime de risque d’insolvabilité est la différence entre l’intérêt moyen des obligations d’entreprises suisses dont la solvabilité est comparable à celle du *peer group* et l’intérêt moyen des obligations sans risque (écart indiciel). Les spécificités du profil de risque de gestionnaires de réseau suisses et les éventuelles divergences vis-à-vis du *peer group* sont à prendre en compte lors de la détermination de la solvabilité.
+- 6\.2 Pour les frais d’émission et les frais d’acquisition, un demi-point de pourcentage supplémentaire est imputé.
+- 6\.3 La prime de risque d’insolvabilité, à laquelle s’ajoute un demi-point de pourcentage pour les frais d’émission et les frais d’acquisition, est arrondie comme suit:
 
-- 4\.1 La prime de risque de marché est la différence entre le rendement du marché des actions (indice), déterminé en tant que moyenne des moyennes arithmétique et géométrique, et le rendement moyen (moyenne arithmétique) d’un placement sans risque.
-- 4\.2 La base de calcul se compose des séries de valeurs publiées depuis 1926, soit, pour le rendement du marché des actions, de l’indice des valeurs nominales des actions et, pour les placements sans risque, du rendement des obligations de la Confédération suisse d’une durée de dix ans.
-- 4\.3
+<table>
+<tr><th>Valeur réelle</th><th>Valeur arrondie</th></tr>
+<tr><td>moins de 0,125 %</td><td>0,00 %</td></tr>
+<tr><td>de 0,125 à moins de 0,375 %</td><td>0,25 %</td></tr>
+<tr><td>de 0,375 à moins de 0,625 %</td><td>0,50 %</td></tr>
+<tr><td>de 0,625 à moins de 0,875 %</td><td>0,75 %</td></tr>
+<tr><td>de 0,875 à moins de 1,125 %</td><td>1,00 %</td></tr>
+<tr><td>de 1,125 à moins de 1,375 %</td><td>1,25 %</td></tr>
+<tr><td>de 1,375 à moins de 1,625 %</td><td>1,50 %</td></tr>
+<tr><td>de 1,625 à moins de 1,875 %</td><td>1,75 %</td></tr>
+</table>
 
-  Les valeurs forfaitaires suivantes s’appliquent à la prime de risque de marché:
-
-  - a. moins de 4,5 %: 4,5 %;
-  - b. de 4,5 à moins de 5,5 %: 5,0 %;
-  - c. 5,5 % ou plus: 5,5 %.
-
-- 4\.4 Les valeurs limites (ch. 2.2) à prendre en compte pour ce paramètre sont les suivantes: 4,5 % et 5,5 %.
-
-### 5 Bêta *levered*
-
-- 5\.1 Le bêta *levered* est le produit du bêta *unlevered* et de l’effet de levier. Ce dernier résulte de la part au capital total, qui se monte respectivement à 40 % pour les fonds propres et à 60 % pour les fonds étrangers.
-- 5\.2 Le bêta *unlevered* est déterminé sur la base d’un groupe d’entreprises européennes comparables (*Peer Group*) d’approvisionnement en énergie. Les valeurs bêta du groupe d’entreprises sont établies sur une base mensuelle sur une période de trois ans. Le groupe d’entreprises fait chaque année l’objet d’une vérification et, si possible, d’une amélioration.
-- 5\.3
-
-  Les valeurs forfaitaires suivantes s’appliquent au bêta *unlevered*:
-
-  - a. moins de 0,25: 0,2;
-  - b. de 0,25 à moins de 0,35: 0,3;
-  - c. de 0,35 à moins de 0,45: 0,4;
-  - d. de 0,45 à moins de 0,55: 0,5;
-  - e. 0,55 ou plus: 0,6.
-
-- 5\.4 Les valeurs limites (ch. 2.2) à prendre en compte pour ce paramètre sont les suivantes: 0,25, 0,35, 0,45 et 0,55.
-
-### 6 Taux d’intérêt sans risque pour les fonds étrangers
-
-- 6\.1 Le taux d’intérêt sans risque pour les fonds étrangers correspond au rendement moyen des obligations de la Confédération suisse d’une durée résiduelle de cinq ans (rendement d’obligations à coupon zéro) publié pour l’année civile précédente.
-- 6\.2
-
-  Les valeurs forfaitaires suivantes sont appliquées:
-
-  - a. moins de 0,5 %: 0,50 %;
-  - b. de 0,5 à moins de 1,0 %: 0,75 %;
-  - c. de 1,0 à moins de 1,5 %: 1,25 %;
-  - d. de 1,5 à moins de 2,0 %: 1,75 %;
-  - e. de 2,0 à moins de 2,5 %: 2,25 %;
-  - f. de 2,5 à moins de 3,0 %: 2,75 %;
-  - g. de 3,0 à moins de 3,5 %: 3,25 %;
-  - h. de 3,5 à moins de 4,0 %: 3,75 %;
-  - i. de 4,0 à moins de 4,5 %: 4,25 %;
-  - j. de 4,5 à moins de 5,0 %: 4,75 %;
-  - k. 5,0 % ou plus: 5,00 %.
-
-- 6\.3 Les valeurs limites (ch. 2.3) à prendre en compte pour ce paramètre sont les suivantes: 0,5 %, 1,0 %, 1,5 %, 2,0 %, 2,5 %, 3,0 %, 3,5 %, 4,0 %, 4,5 % et 5,0 %.
-
-### 7 Prime de risque d’insolvabilité, frais d’émission et frais d’acquisition y compris
-
-- 7\.1 La prime de risque d’insolvabilité est la différence entre l’intérêt moyen des obligations d’entreprises suisses de bonne solvabilité et l’intérêt moyen des obligations sans risque (écart indiciel).
-- 7\.2 50 points de base sont imputables pour les frais d’émission et les frais d’acquisition, ce qui correspond à 0,5 %.
-- 7\.3
-
-  Les valeurs forfaitaires suivantes s’appliquent à la prime de risque d’insolvabilité (frais d’émission et frais d’acquisition y compris):
-
-  - a. moins de 0,625 %: 0,50 %;
-  - b. de 0,625 à moins de 0,875 %: 0,75 %;
-  - c. de 0,875 à moins de 1,125 %: 1,00 %;
-  - d. de 1,125 à moins de 1,375 %: 1,25 %;
-  - e. de 1,375 à moins de 1,625 %: 1,50 %;
-  - f. de 1,625 à moins de 1,875 %: 1,75 %;
-  - g. 1,875 % ou plus: 2,00 %.
-
-- 7\.4 Les valeurs limites (ch. 2.3) à prendre en compte pour ce paramètre sont les suivantes: 0,625 %, 0,875 %, 1,125 %, 1,375 %, 1,625 % et 1,875 %.
-
-### 8 Disposition transitoire relative à la modification du 4 décembre 2015
-
-- Pour l’année tarifaire 2016, le coût moyen pondéré du capital est déterminé en fonction de l’ancien droit.
+- Les valeurs plus élevées sont arrondies de manière analogue.
 
 Annexe 1a[^t-2]
 

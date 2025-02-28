@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250101/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Januar 2025)
+vom 14. März 2008 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -168,7 +168,7 @@ Für die Berechnung der anrechenbaren Energiekosten gelten die folgenden Grunds�
 
 **Standardstromprodukt**[^4b-1]
 
-Die Verteilnetzbetreiber müssen bei der Stromkennzeichnung ab dem Tarifjahr 2028 gegenüber den Endverbrauchern, die mit dem Standardstromprodukt (Art. 6 Abs. 2<sup>bis</sup> StromVG) versorgt werden, für mindestens zwei Drittel der in jedem Quartal gelieferten Elektrizität Herkunftsnachweiswese verwenden, die eine inländische und erneuerbare Herkunft des Stroms belegen.
+Die Verteilnetzbetreiber müssen bei der Stromkennzeichnung ab dem Tarifjahr 2028 gegenüber den Endverbrauchern, die mit dem Standardstromprodukt (Art. 6 Abs. 2<sup>bis</sup> StromVG) versorgt werden, für mindestens zwei Drittel der in jedem Quartal gelieferten Elektrizität Herkunftsnachweise verwenden, die eine inländische und erneuerbare Herkunft des Stroms belegen.
 
 [^4b-1]: Eingefügt durch Ziff. I der V vom 3. April 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)). Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
@@ -186,7 +186,7 @@ Die Verteilnetzbetreiber müssen Strategien für eine strukturierte Beschaffung 
 
 <sup>1</sup> Von den Kosten, die für Massnahmen zur Erreichung der Zielvorgaben zur Effizienzsteigerung anfallen, kann den Endverbrauchern mit Grundversorgung derjenige Anteil belastet werden, der ihrem Anteil am Referenzstromabsatz entspricht.
 
-<sup>2</sup> Festen Endverbrauchern und Endverbrauchern, die auf den Netzzugang verzichtet haben und die für die Bestimmung des Referenzstromabsatzes nicht berücksichtigt werden (Art. 51*a* Abs. 2 der Energieverordnung vom 1. November 2017[^4d-2] [EnV]), dürfen nicht mit Kosten belastet werden.
+<sup>2</sup> Feste Endverbraucher und Endverbraucher, die auf den Netzzugang verzichtet haben und die für die Bestimmung des Referenzstromabsatzes nicht berücksichtigt werden (Art. 51*a* Abs. 2 der Energieverordnung vom 1. November 2017[^4d-2] [EnV]), dürfen nicht mit Kosten belastet werden.
 
 <sup>3</sup>
 
@@ -194,7 +194,7 @@ Die Kosten sind nur anrechenbar, wenn die Verteilnetzbetreiber:
 
 - a. die Massnahmen in einem transparenten, diskriminierungsfreien und marktorientierten Verfahren in Auftrag gegeben haben;
 - b. die Nachweise von Massnahmen höchstens zu marktüblichen Ansätzen erworben haben;
-- c. die Massnahmen kostenbasiert, jedoch höchsten zu marktüblichen Ansätzen selber umgesetzt haben.
+- c. die Massnahmen kostenbasiert, jedoch höchstens zu marktüblichen Ansätzen selber umgesetzt haben.
 
 [^4d-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4d-2]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
@@ -260,7 +260,7 @@ Zur Sicherstellung eines angemessenen Schutzes von Anlagen vor Cyberbedrohungen,
 <sup>3</sup> Das Erreichen des jeweiligen Schutzniveaus ist der ElCom auf Verlangen nachzuweisen.
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
-[^5a-2]: Der IKT-Minimalstandard kann kostenlos beim Bundesamt für wirtschaftliche Landesversorgung unter [www.bwl.admin.ch](https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard.html) &gt; Bereiche &gt; IKT &gt; IKT-Minimalstandard abgerufen oder per E‑Mail an: info@bwl.admin.ch bezogen werden.
+[^5a-2]: Der IKT-Minimalstandard kann kostenlos beim Bundesamt für Cybersicherheit unter [www.ncsc.admin.ch](http://www.ncsc.admin.ch) &gt; Informationen für &gt; Informationen für IT-Spezialistinnen und -Spezialisten &gt; Themen &gt; Empfehlungen IKT-Minimalstandards abgerufen werden.
 
 #### Art. 5a<sup>bis</sup>
 
@@ -777,14 +777,17 @@ Für die jährliche Verzinsung der für den Betrieb der Netze notwendigen Vermö
 
 - b.[^13-2] Der kalkulatorische Zinssatz entspricht dem Satz der durchschnittlichen Kosten des eingesetzten Kapitals (durchschnittlicher Kapitalkostensatz, Weighted Average Cost of Capital, WACC).
 
-<sup>3bis</sup> Das UVEK legt den WACC jährlich nach Anhang 1 fest.[^13-3]
+<sup>3bis</sup> Das UVEK legt den WACC, basierend auf der Berechnung des BFE gemäss den Vorgaben von Anhang 1, jährlich fest. Es konsultiert dazu vorgängig die ElCom.[^13-3]
 
-<sup>4</sup> Können die ursprünglichen Anschaffungs- bzw. Herstellkosten für bestehende Anlagen ausnahmsweise nicht mehr festgestellt werden, so sind sie wie folgt zu berechnen: Die Wiederbeschaffungspreise werden transparent mit sachgerechten, offiziell ausgewiesenen Preisindizes auf den Anschaffungs- bzw. Herstellzeitpunkt zurückgerechnet. Bereits in Rechnung gestellte Betriebs- und Kapitalkosten für betriebsnotwendige Vermögenswerte sind dabei in Abzug zu bringen. In jedem Fall ist höchstens der Wert einer vergleichbaren Anlage anrechenbar. Vom so ermittelten Wert sind 20 Prozent in Abzug zu bringen.[^13-4]
+<sup>3ter</sup> Es veröffentlicht den WACC für das Folgejahr jeweils bis Ende März im Internet und im Bundesblatt.[^13-4]
+
+<sup>4</sup> Können die ursprünglichen Anschaffungs- bzw. Herstellkosten für bestehende Anlagen ausnahmsweise nicht mehr festgestellt werden, so sind sie wie folgt zu berechnen: Die Wiederbeschaffungspreise werden transparent mit sachgerechten, offiziell ausgewiesenen Preisindizes auf den Anschaffungs- bzw. Herstellzeitpunkt zurückgerechnet. Bereits in Rechnung gestellte Betriebs- und Kapitalkosten für betriebsnotwendige Vermögenswerte sind dabei in Abzug zu bringen. In jedem Fall ist höchstens der Wert einer vergleichbaren Anlage anrechenbar. Vom so ermittelten Wert sind 20 Prozent in Abzug zu bringen.[^13-5]
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
 [^13-2]: Fassung gemäss Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
-[^13-3]: Eingefügt durch Ziff. I der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^13-4]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^13-4]: Eingefügt durch Ziff. I der V vom 12. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^13-5]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 13a
 
@@ -1325,7 +1328,7 @@ Innerhalb der Übergangsfrist von Absatz 1 bestimmt der Netzbetreiber, wann er E
 - a. Endverbraucher, wenn sie von ihrem Anspruch auf Netzzugang Gebrauch machen;
 - b.[^31e-1] …
 
-<sup>3</sup> und <sup>4</sup> …[^31e-2]
+<sup>3 und <sup>4</sup></sup> …[^31e-2]
 
 <sup>5</sup> Notwendige Sonderabschreibungen wegen des Ausbaus von noch nicht vollständig abgeschriebenen Messeinrichtungen des Netzbetreibers sind ebenfalls anrechenbare Kosten.
 
@@ -1469,121 +1472,85 @@ Anhang 1[^t-1]
 
 (Art. 4 Abs. 3 Bst. a Ziff. 5, 4*f* Abs. 3, 8*a* Abs. 4, 13 Abs. 3<sup>bis</sup> und 18*a* Abs. 3)
 
-## Bestimmung des durchschnittlichen Kapitalkostensatzes
+## Bestimmung des WACC
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Bereinigt gemäss Ziff. I der V vom 4. Dez. 2015 ([AS 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)), Ziff. II Abs. 1 der V vom 31. Mai 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)) und Ziff. II der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Fassung gemäss Ziff. II der V vom 12. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
 
-### 1 Definition
+### 1 WACC
 
-- 1\.1 Der durchschnittliche Kapitalkostensatz ist die Summe der mit 40 Prozent gewichteten Kosten für das Eigenkapital (Eigenkapitalkostensatz) und der mit 60 Prozent gewichteten Kosten für das Fremdkapital (Fremdkapitalkostensatz).
-- 1\.2
+- 1\.1 Der WACC entspricht der Summe aus 40 Prozent des Eigenkapitalkostensatzes (Z<sub>EK</sub>) und 60 Prozent des Fremdkapitalkostensatzes (Z<sub>FK</sub>):
+- *WACC = 0,4 x Z**<sub>EK</sub>* *+ 0,6 x Z**<sub>FK</sub>*
+- 1\.2 Der Z<sub>EK</sub> entspricht der Summe aus dem risikolosen Zinssatz für das Eigenkapital (rlZ<sub>EK</sub>) und dem Produkt aus der Marktrisikoprämie (MRP) und dem Marktrisiko (*Levered Beta,* *β**<sub>i</sub>*):
+- *Z**<sub>EK</sub>* *= rlZ**<sub>EK</sub>* *+ MRP x β**<sub>l</sub>*
+- 1\.3 Der Z<sub>FK</sub> entspricht der Summe aus dem risikolosen Zinssatz für das Fremdkapital (rlZ<sub>FK</sub>) und einem Bonitätszuschlag (BoZ), der auch die Emissions- und Beschaffungskosten berücksichtigt:
+- *Z**<sub>FK</sub>* *= rlZ**<sub>FK</sub>* *+ BoZ*
 
-  Berechnungsgrundlage bilden die folgenden Parameter:
+### 2 Risikoloser Zinssatz für das Eigenkapital
 
-  - a. risikoloser Zinssatz für das Eigenkapital;
-  - b. Marktrisikoprämie;
-  - c. levered Beta;
-  - d. risikoloser Zinssatz für das Fremdkapital;
-  - e. Bonitätszuschlag inklusive Emissions- und Beschaffungskosten.
+- 2\.1 Der risikolose Zinssatz für das Eigenkapital entspricht der für das vorangehende Kalenderjahr veröffentlichten durchschnittlichen Jahresrendite (Zero-Bond-Rendite) von Schweizer Bundesobligationen mit einer Restlaufzeit von zehn Jahren.
+- 2\.2 Fällt der so berechnete Wert zwischen zwei ganze Prozentzahlen, so wird der Mittelwert verwendet.
 
-- 1\.3 Der Eigenkapitalkostensatz wird berechnet, indem der risikolose Zinssatz für das Eigenkapital und das Produkt aus Marktrisikoprämie und levered Beta addiert werden.
-- 1\.4 Der Fremdkapitalkostensatz wird berechnet, indem zum risikolosen Zinssatz für das Fremdkapital ein Bonitätszuschlag inklusive eines pauschalen Ansatzes für die Emissions- und Beschaffungskosten addiert wird.
-- 1\.5 Das BFE konkretisiert die Vorschriften zu den Parametern nach Ziffer 1.2.
+### 3 Marktrisikoprämie
 
-### 2 Jährliche Berechnung und Festlegung
+- 3\.1 Die Marktrisikoprämie entspricht der Differenz zwischen der erwarteten Aktienmarktrendite (*Total Market Return*) und dem risikolosen Zinssatz für das Eigenkapital (Ziff. 2).
+- 3\.2 Die erwartete Aktienmarktrendite entspricht der Summe aus der realen historischen Aktienmarktrendite und der aktuellen Inflationserwartung. Fällt der so berechnete Wert zwischen zwei ganze Prozentzahlen, so wird der Mittelwert verwendet.
+- 3\.3 Die reale historische Aktienmarktrendite wird aus dem Durchschnitt zwischen dem geometrischem und dem arithmetischen Mittel der realen Jahresrenditen des Schweizer Aktienmarkts seit 1926 ermittelt. Massgebend sind die im Index für Aktienrealwerte veröffentlichten Renditen.
+- 3\.4 Die aktuelle Inflationserwartung entspricht der von der Schweizerischen Nationalbank im vorangehenden Kalenderjahr veröffentlichten langfristigen Inflationserwartung.
 
-- 2\.1 Das BFE ermittelt jährlich die Werte für die einzelnen Parameter und berechnet daraus den durchschnittlichen Kapitalkostensatz.
-- 2\.2 Veränderungen beim risikolosen Zinssatz für das Eigenkapital, bei der Marktrisikoprämie und beim unlevered Beta (Ziff. 5.2) sind nur zu berücksichtigen, wenn die jeweiligen Grenzwerte zwei Jahre in Folge über- oder unterschritten werden.
-- 2\.3 Veränderungen beim risikolosen Zinssatz für das Fremdkapital werden bereits bei einer einmaligen Über- oder Unterschreitung des jeweiligen Grenzwertes berücksichtigt. Der Bonitätszuschlag wird in Abhängigkeit von der Höhe des risikolosen Zinssatzes für das Fremdkapital festgelegt. Liegt dieser bei 0,5 Prozent oder darunter, so kommt für den Bonitätszuschlag ein 5-Jahres-Durchschnitt zur Anwendung. Liegt er über 0,5 Prozent, so wird der Bonitätszuschlag über den Jahresdurchschnitt des vorangegangenen Kalenderjahres ermittelt.
-- 2\.4 Aufgrund der Berechnung des BFE und nach Konsultation der ElCom legt das UVEK den durchschnittlichen Kapitalkostensatz jährlich fest und veröffentlicht ihn im Internet und im Bundesblatt. Die Festlegung erfolgt jeweils bis Ende März, erstmals bis zum 31. März 2013 für das Jahr 2014.
+### 4 Marktrisiko
 
-### 3 Risikoloser Zinssatz für das Eigenkapital
+- 4\.1 Das *Levered Beta* entspricht dem Produkt aus dem Marktrisiko unter Ausschluss der Verschuldung (*Unlevered Beta*) und einem Faktor, der den Einfluss des Verhältnisses von Eigen- und Fremdkapital auf die Eigenkapitalrendite abbildet (Leverage-Faktor).
+- 4\.2 Das *Unlevered Beta* wird mit Hilfe einer Peergroup aus vergleichbaren europäischen Netzbetreibern ermittelt. Dabei wird auf die Vergleichbarkeit der Peergroup mit Schweizer Netzbetreibern in Bezug auf den Umsatzanteil von Stromverteilung und -transport, den Regulierungsrahmen einschliesslich der Art der Preisregulierung und andere relevante Risikotreiber geachtet. Etwaige Unterschiede des Risikoprofils zwischen der Peergroup und Schweizer Netzbetreibern können mit unterschiedlichen Gewichtungen von Teilen der Peergroup oder einzelner Unternehmen der Peergroup oder mit direkten Korrekturen am *Unlevered Beta* berücksichtigt werden. Bei den erforderlichen Korrekturen wird der Fokus auf die europäischen Übertragungsnetzbetreiber gelegt.
+- 4\.3 Für die Bestimmung des WACC wird das *Unlevered Beta* wie folgt gerundet:
 
-- 3\.1 Der risikolose Zinssatz für das Eigenkapital entspricht der für das vorangehende Kalenderjahr veröffentlichten durchschnittlichen Jahresrendite von Schweizer Bundesobligationen mit einer Restlaufzeit von zehn Jahren (Zero-Bond-Rendite).
-- 3\.2
+<table>
+<tr><th>tatsächlicher Wert</th><th>gerundeter Wert</th></tr>
+<tr><td>unter 0,025</td><td>0,00</td></tr>
+<tr><td>von 0,025 bis unter 0,075</td><td>0,05</td></tr>
+<tr><td>von 0,075 bis unter 0,125</td><td>0,10</td></tr>
+<tr><td>von 0,125 bis unter 0,175</td><td>0,15</td></tr>
+<tr><td>von 0,175 bis unter 0,225</td><td>0,20</td></tr>
+<tr><td>von 0,225 bis unter 0,275</td><td>0,25</td></tr>
+<tr><td>von 0,275 bis unter 0,325</td><td>0,30</td></tr>
+<tr><td>von 0,325 bis unter 0,375</td><td>0,35</td></tr>
+<tr><td>von 0,375 bis unter 0,425</td><td>0,40</td></tr>
+<tr><td>von 0,425 bis unter 0,475</td><td>0,45</td></tr>
+<tr><td>von 0,475 bis unter 0,525</td><td>0,50</td></tr>
+<tr><td>von 0,525 bis unter 0,575</td><td>0,55</td></tr>
+<tr><td>von 0,575 bis unter 0,625</td><td>0,60</td></tr>
+<tr><td>von 0,625 bis unter 0.675</td><td>0,65</td></tr>
+<tr><td>von 0,675 bis unter 0,725</td><td>0,70</td></tr>
+<tr><td>von 0,725 bis unter 0,775</td><td>0,75</td></tr>
+<tr><td>von 0,775 bis unter 0,825</td><td>0,80</td></tr>
+<tr><td>von 0,825 bis unter 0,875</td><td>0,85</td></tr>
+<tr><td>ab 0,875</td><td>0,90</td></tr>
+</table>
 
-  Dabei gelten die folgenden pauschalen Werte:
+### 5 Risikoloser Zinssatz für das Fremdkapital
 
-  - a. unter 3 Prozent: 2,5 Prozent;
-  - b. von 3 bis unter 4 Prozent: 3,5 Prozent;
-  - c. von 4 bis unter 5 Prozent: 4,5 Prozent;
-  - d. von 5 bis unter 6 Prozent: 5,5 Prozent;
-  - e. 6 Prozent oder mehr: 6,5 Prozent.
+- 5\.1 Der risikolose Zinssatz für das Fremdkapital entspricht der für das vorangehende Kalenderjahr veröffentlichten durchschnittlichen Jahresrendite (Zero-Bond-Rendite) von Schweizer Bundesobligationen mit einer Restlaufzeit von fünf Jahren.
+- 5\.2 Fällt der so berechnete Wert zwischen zwei ganze Prozentzahlen, so wird der Mittelwert verwendet.
 
-- 3\.3 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist (Ziff. 2.2), liegen bei 3, 4, 5 und 6 Prozent.
+### 6 Bonitätszuschlag zuzüglich Emissions- und Beschaffungskosten
 
-### 4 Marktrisikoprämie
+- 6\.1 Als Bonitätszuschlag für das Ausfallrisiko gilt die Differenz zwischen der durchschnittlichen Verzinsung von Anleihen von Schweizer Unternehmen mit vergleichbarer Bonität wie jene der Peergroup und der durchschnittlichen Verzinsung von risikolosen Anleihen (Index-Differenz). Eigenheiten des Risikoprofils von Schweizer Stromnetzbetreibern und etwaige Unterschiede zur Peergroup sind bei der Ermittlung der Bonität zu berücksichtigen.
+- 6\.2 Für die Emissions- und Beschaffungskosten werden zusätzliche 0,5 Prozentpunkte angerechnet.
+- 6\.3 Der Bonitätszuschlag zuzüglich der 0,5 Prozentpunkte für Emissions- und Beschaffungskosten wird wie folgt gerundet:
 
-- 4\.1 Als Marktrisikoprämie gilt die Differenz zwischen der Aktienmarktrendite (Index), als Durchschnitt von arithmetischem und geometrischem Mittel, und der Rendite einer risikolosen Anlage, als arithmetisches Mittel.
-- 4\.2 Grundlage für die Ermittlung sind die veröffentlichten jeweiligen Zahlenreihen ab 1926, bei der Aktienmarktrendite der Index der Aktiennominalwerte und bei der risikolosen Anlage die Rendite von Schweizer Bundesobligationen mit einer Laufzeit von zehn Jahren.
-- 4\.3
+<table>
+<tr><th>tatsächlicher Wert</th><th>gerundeter Wert</th></tr>
+<tr><td>unter 0,125 Prozent</td><td>0,00 Prozent</td></tr>
+<tr><td>von 0,125 bis unter 0,375 Prozent</td><td>0,25 Prozent</td></tr>
+<tr><td>von 0,375 bis unter 0,625 Prozent</td><td>0,50 Prozent</td></tr>
+<tr><td>von 0,625 bis unter 0,875 Prozent</td><td>0,75 Prozent</td></tr>
+<tr><td>von 0,875 bis unter 1,125 Prozent</td><td>1,00 Prozent</td></tr>
+<tr><td>von 1,125 bis unter 1,375 Prozent</td><td>1,25 Prozent</td></tr>
+<tr><td>von 1,375 bis unter 1,625 Prozent</td><td>1,50 Prozent</td></tr>
+<tr><td>von 1,625 bis unter 1,875 Prozent</td><td>1,75 Prozent</td></tr>
+</table>
 
-  Für die Marktrisikoprämie gelten die folgenden pauschalen Werte:
-
-  - a. unter 4,5 Prozent: 4,5 Prozent;
-  - b. von 4,5 bis unter 5,5 Prozent: 5,0 Prozent;
-  - c. 5,5 Prozent oder mehr: 5,5 Prozent.
-
-- 4\.4 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist (Ziff. 2.2), liegen bei 4,5 und 5,5 Prozent.
-
-### 5 Levered Beta
-
-- 5\.1 Das levered Beta ist das Produkt aus dem unlevered Beta und dem Leveragefaktor. Der Leveragefaktor ergibt sich aus dem Eigenkapitalanteil von 40 Prozent beziehungsweise dem Fremdkapitalanteil von 60 Prozent am Gesamtkapital.
-- 5\.2 Das unlevered Beta wird mit Hilfe einer Peer Group aus vergleichbaren europäischen Energieversorgungsunternehmen ermittelt. Die Beta-Werte der Peer-Group-Unternehmen werden auf monatlicher Basis über einen Zeitraum von drei Jahren ermittelt. Die Peer Group wird jährlich überprüft und wenn möglich verbessert.
-- 5\.3
-
-  Für das unlevered Beta gelten die folgenden pauschalen Werte:
-
-  - a. unter 0,25: 0,2;
-  - b. von 0,25 bis unter 0,35: 0,3;
-  - c. von 0,35 bis unter 0,45: 0,4;
-  - d. von 0,45 bis unter 0,55: 0,5;
-  - e. 0,55 oder mehr: 0,6.
-
-- 5\.4 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist (Ziff. 2.2), liegen bei 0,25, 0,35, 0,45 und 0,55.
-
-### 6 Risikoloser Zinssatz für das Fremdkapital
-
-- 6\.1 Der risikolose Zinssatz für das Fremdkapital entspricht der für das vorangehende Kalenderjahr veröffentlichten durchschnittlichen Jahresrendite von Schweizer Bundesobligationen mit einer Restlaufzeit von fünf Jahren (Zero-Bond-Rendite).
-- 6\.2
-
-  Dabei gelten die folgenden pauschalen Werte:
-
-  - a. unter 0,5 Prozent: 0,50 Prozent;
-  - b. von 0,5 bis unter 1,0 Prozent: 0,75 Prozent;
-  - c. von 1,0 bis unter 1,5 Prozent: 1,25 Prozent;
-  - d. von 1,5 bis unter 2,0 Prozent: 1,75 Prozent;
-  - e. von 2,0 bis unter 2,5 Prozent: 2,25 Prozent;
-  - f. von 2,5 bis unter 3,0 Prozent: 2,75 Prozent;
-  - g. von 3,0 bis unter 3,5 Prozent: 3,25 Prozent;
-  - h. von 3,5 bis unter 4,0 Prozent: 3,75 Prozent;
-  - i. von 4,0 bis unter 4,5 Prozent: 4,25 Prozent;
-  - j. von 4,5 bis unter 5,0 Prozent: 4,75 Prozent;
-  - k. 5,0 Prozent oder mehr: 5,00 Prozent.
-
-- 6\.3 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist (Ziff. 2.3), liegen bei 0,5, 1,0, 1,5, 2,0, 2,5, 3,0, 3,5, 4,0, 4,5 und 5,0 Prozent.
-
-### 7 Bonitätszuschlag inkl. Emissions- und Beschaffungskosten
-
-- 7\.1 Als Bonitätszuschlag für das Ausfallrisiko gilt die Differenz zwischen der durchschnittlichen Verzinsung von Anleihen von Schweizer Unternehmen mit guter Bonität und der durchschnittlichen Verzinsung von risikolosen Anleihen (Index-Differenz).
-- 7\.2 Für die Emissions- und Beschaffungskosten sind 50 Basispunkte anrechenbar, was 0,5 Prozent entspricht.
-- 7\.3
-
-  Für die Summe aus Bonitätszuschlag inklusive Emissions- und Beschaffungskosten gelten die folgenden pauschalen Werte:
-
-  - a. unter 0,625 Prozent: 0,50 Prozent;
-  - b. von 0,625 bis unter 0,875 Prozent: 0,75 Prozent;
-  - c. von 0,875 bis unter 1,125 Prozent: 1,00 Prozent;
-  - d. von 1,125 bis unter 1,375 Prozent: 1,25 Prozent;
-  - e. von 1,375 bis unter 1,625 Prozent: 1,50 Prozent;
-  - f. von 1,625 bis unter 1,875 Prozent: 1,75 Prozent;
-  - g. 1,875 Prozent oder mehr: 2,00 Prozent.
-
-- 7\.4 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist (Ziff. 2.3), liegen bei 0,625, 0,875, 1,125, 1,375, 1,625 und 1,875 Prozent.
-
-### 8 Übergangsbestimmung zur Änderung vom 4. Dezember 2015
-
-- Der durchschnittliche Kapitalkostensatz für das Tarifjahr 2016 bestimmt sich nach bisherigem Recht.
+- Bei höheren Werten erfolgt die Rundung analog.
+- [tab]
 
 Anhang 1a[^t-2]
 

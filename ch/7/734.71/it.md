@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250301-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250101/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° gennaio 2025)
+del 14 marzo 2008 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -261,7 +261,7 @@ Per garantire una protezione adeguata degli impianti dai ciberattacchi, protegge
 <sup>3</sup> Qualora la ElCom lo richieda, deve esserle fornita la prova del raggiungimento del livello di protezione previsto.
 
 [^5a-1]: Introdotto dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
-[^5a-2]: Lo Standard minimo TIC può essere scaricato gratuitamente dal sito Internet dell’Ufficio federale per l’approvvigionamento economico del Paese ([www.ufae.admin.ch](https://www.bwl.admin.ch/bwl/it/home/bereiche/ikt/ikt_minimalstandard.html) &gt; Settori &gt; TIC &gt; Standard minimo TIC o può essere richiesta gratuitamente all’indirizzo elettronico: info@bwl.admin.ch.).
+[^5a-2]: Lo Standard minimo TIC può essere scaricato gratuitamente dal sito Internet dell’Ufficio federale della cibersicurezza ([www.ncsc.admin.ch](http://www.ncsc.admin.ch) &gt; Informazioni per &gt; Informazioni per specialisti it &gt; Temi &gt; Standard minimi per le TIC).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -627,7 +627,7 @@ La ElCom può concedere deroghe di durata determinata o indeterminata all’obbl
 
 <sup>9</sup> Se un raggruppamento ai fini del consumo proprio oppure un gestore di un impianto di stoccaggio chiede di essere dotato di un sistema di misurazione intelligente, il gestore di rete è tenuto a installarlo entro tre mesi. Nel caso dei raggruppamenti ai fini del consumo proprio, tale diritto riguarda tutti i punti di misurazione del raggruppamento nei confronti del gestore di rete.[^8asexies-16]
 
-[^8asexies-1]: Originario art. 8*a*. Introdotto dalla cifra I dell’O del 1° nov. 2017 (RU 2017 7109). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 (RU 2024 706).
+[^8asexies-1]: Originario art. 8*a*. Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^8asexies-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8asexies-3]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
 [^8asexies-4]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
@@ -641,7 +641,7 @@ La ElCom può concedere deroghe di durata determinata o indeterminata all’obbl
 [^8asexies-12]: Originario art. 8*a* cpv. 3<sup>bis</sup>. Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8asexies-13]: Originario art. 8*a* cpv. 3<sup>ter</sup>. Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8asexies-14]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^8asexies-15]: Originario art. 8*a* cpv. 4. Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8asexies-15]: Originario art. 8*a* cpv. 4.
 [^8asexies-16]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 #### Art. 8b
@@ -779,14 +779,17 @@ Per il calcolo degli interessi calcolatori annui sui beni patrimoniali necessari
 
 - b.[^13-2] il tasso d’interesse calcolatorio corrisponde al tasso dei costi medi del capitale investito (costo medio ponderato del capitale, «Weighted Average Cost of Capital», WACC).
 
-<sup>3bis</sup> Il DATEC fissa ogni anno il WACC secondo l’allegato 1.[^13-3]
+<sup>3bis</sup> Il DATEC fissa ogni anno il WACC sulla base dei calcoli dell’UFE di cui all’allegato 1. Consulta preventivamente la ElCom.[^13-3]
 
-<sup>4</sup> Nel caso in cui eccezionalmente non fosse più possibile determinare i costi iniziali di acquisto e di costruzione degli impianti esistenti, occorre calcolarli nel modo seguente: i prezzi di sostituzione sono calcolati in modo trasparente con adeguati indici di prezzo ufficiali, in funzione del momento dell’acquisto e della costruzione. Devono essere detratti i costi d’esercizio e i costi del capitale già fatturati per i beni patrimoniali necessari all’esercizio della rete. In ogni caso è computabile al massimo il valore di un impianto paragonabile. Dal valore così ottenuto deve essere detratto il 20 per cento.[^13-4]
+<sup>3ter</sup> Il DATEC pubblica il WACC per l’anno successivo entro la fine di marzo in Internet e sul Foglio federale.[^13-4]
+
+<sup>4</sup> Nel caso in cui eccezionalmente non fosse più possibile determinare i costi iniziali di acquisto e di costruzione degli impianti esistenti, occorre calcolarli nel modo seguente: i prezzi di sostituzione sono calcolati in modo trasparente con adeguati indici di prezzo ufficiali, in funzione del momento dell’acquisto e della costruzione. Devono essere detratti i costi d’esercizio e i costi del capitale già fatturati per i beni patrimoniali necessari all’esercizio della rete. In ogni caso è computabile al massimo il valore di un impianto paragonabile. Dal valore così ottenuto deve essere detratto il 20 per cento.[^13-5]
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 30 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
 [^13-2]: Nuovo testo giusta la cifra I dell’O del 30 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
-[^13-3]: Introdotto dalla cifra I dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^13-4]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^13-3]: Introdotto dalla cifra I dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^13-4]: Introdotto dalla cifra I dell’O del 12 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^13-5]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 13a
 
@@ -1050,7 +1053,7 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 <sup>2</sup> Fissa i prezzi relativi alle prestazioni di servizio in modo da coprirne i costi. Se dalla vendita di prestazioni di servizio risulta un guadagno o una perdita, il relativo importo deve essere preso in considerazione nel calcolo dei costi di cui all’articolo 15 capoverso 2 lettera a.
 
-<sup>3</sup> a <sup>5</sup> ...[^22-1]
+<sup>3 a <sup>5</sup></sup> ...[^22-1]
 
 <sup>6</sup> Riferisce annualmente alla ElCom sulla fornitura effettiva e sull’attribuzione dei costi delle prestazioni di servizio relative al sistema.
 
@@ -1329,7 +1332,7 @@ Durante il periodo transitorio di cui al capoverso 1, il gestore di rete decide 
 - a. i consumatori finali che esercitano il loro diritto di accesso alla rete;
 - b.[^31e-1] ...
 
-<sup>3</sup> e <sup>4</sup> ...[^31e-2]
+<sup>3 e <sup>4</sup></sup> ...[^31e-2]
 
 <sup>5</sup> Gli ammortamenti straordinari necessari per lo smontaggio dei dispositivi di misurazione del gestore di rete non ancora totalmente ammortizzati sono anch’essi costi computabili.
 
@@ -1473,121 +1476,84 @@ Allegato 1[^t-1]
 
 (art. 4 cpv. 3 lett. a n. 5, 4*f* cpv. 3, 8*a* cpv. 4, 13 cpv. 3<sup>bis</sup> e 18*a* cpv. 3)
 
-## Determinazione del costo medio ponderato del capitale
+## Determinazione del WACC
 
-[^t-1]: Introdotto dalla cifra II dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Aggiornato dalla cifra I dell’O del 4 dic. 2015 ([RU 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)), dalla cifra II cpv. 1 dell’O del 31 mag. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)) e dalla cifra II dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^t-1]: Introdotto dalla cifra II dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Nuovo testo giusta la cifra II dell’O del 12 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
 
-### 1 Definizione
+### 1 WACC
 
-- 1\.1 Il costo medio ponderato del capitale è la somma del costo del capitale proprio (costo del capitale proprio), ponderato nella misura del 40 per cento, e del costo del capitale di terzi (costo del capitale di terzi), ponderato nella misura del 60 per cento.
-- 1\.2
+- 1\.1 Il WACC corrisponde alla somma tra il 40 per cento del costo del capitale proprio (Z<sub>EK</sub>) e il 60 per cento del costo del capitale di terzi (Z<sub>FK</sub>):
+- *WACC = 0,4 x Z**<sub>EK</sub>* *+ 0,6 x Z**<sub>FK</sub>*
+- 1\.2 Il Z<sub>EK</sub> corrisponde alla somma tra il tasso d’interesse esente da rischi per il capitale proprio (rlZ<sub>EK</sub>) e il prodotto tra il premio per i rischi di mercato (MRP) e il rischio di mercato (*levered beta, β**<sub>i</sub>*):
+- *Z**<sub>EK</sub>* *= rlZ**<sub>EK</sub>* *+ MRP x β**<sub>l</sub>*
+- 1\.3 Il Z<sub>FK</sub> corrisponde alla somma tra il tasso d’interesse esente da rischi per il capitale di terzi (rlZ<sub>FK</sub>) e un supplemento di solvibilità (BoZ), che include anche i costi di emissione e di acquisizione:
+- *Z**<sub>FK</sub>* *= rlZ**<sub>FK</sub>* *+ BoZ*
 
-  Il calcolo si basa sui seguenti parametri:
+### 2 Tasso d’interesse esente da rischi per il capitale proprio
 
-  - a. tasso d’interesse esente da rischi per il capitale proprio;
-  - b. premio per i rischi di mercato;
-  - c. «beta levered»;
-  - d. tasso d’interesse esente da rischi per il capitale di terzi;
-  - e. supplemento di solvibilità, inclusi i costi di emissione e di acquisizione.
+- 2\.1 Il tasso d’interesse esente da rischi per il capitale proprio corrisponde al rendimento medio annuale pubblicato per l’anno civile precedente (rendimento «zero coupon») delle obbligazioni della Confederazione con scadenza a dieci anni.
+- 2\.2 Se il valore così calcolato è compreso tra due numeri percentuali interi, si utilizza il valore medio.
 
-- 1\.3 Il costo del capitale proprio si calcola addizionando al tasso d’interesse esente da rischi per il capitale proprio il prodotto del premio per i rischi di mercato moltiplicato per il «beta levered».
-- 1\.4 Il costo del capitale di terzi si calcola addizionando al tasso d’interesse esente da rischi per il capitale di terzi un supplemento per la solvibilità, inclusa un’aliquota forfettaria per i costi di emissione e di acquisizione.
-- 1\.5 L’UFE precisa le prescrizioni relative ai parametri di cui al numero 1.2.
+### 3 Premio per i rischi di mercato
 
-### 2 Calcolo e determinazione annuali
+- 3\.1 Il premio per i rischi di mercato corrisponde alla differenza tra il rendimento atteso del mercato azionario (*total market return*) e il tasso d’interesse esente da rischi per il capitale proprio (n. 2).
+- 3\.2 Il rendimento atteso del mercato azionario corrisponde alla somma tra il rendimento storico reale e le aspettative di inflazione attuali. Se il valore così calcolato è compreso tra due numeri percentuali interi, si utilizza il valore medio.
+- 3\.3 Il rendimento storico reale del mercato azionario è il valore medio tra la media geometrica e quella aritmetica dei rendimenti annui reali del mercato azionario svizzero dal 1926. Sono determinanti i rendimenti pubblicati nell’indice dei valori azionari reali.
+- 3\.4 Le aspettative di inflazione attuali corrispondono alle aspettative di inflazione a lungo termine pubblicate dalla Banca nazionale svizzera nell’anno civile precedente.
 
-- 2\.1 L’UFE determina annualmente i valori dei singoli parametri e in base ad essi calcola il costo medio ponderato del capitale.
-- 2\.2 Le variazioni del tasso d’interesse esente da rischi per il capitale proprio, del premio per i rischi di mercato e del «beta unlevered» (n. 5.2) devono essere prese in considerazione unicamente se i relativi valori limite sono superati, in senso positivo o negativo, per due anni di seguito.
-- 2\.3 Le variazioni del tasso d’interesse esente da rischi per il capitale di terzi vengono prese in considerazione già nel caso in cui il relativo valore limite sia superato, in senso positivo o negativo, una sola volta. Il supplemento di solvibilità viene fissato in funzione dell’entità del tasso d’interesse esente da rischi per il capitale di terzi. Se quest’ultimo è uguale o inferiore allo 0,5 per cento, il valore del supplemento di solvibilità è determinato in base alla media degli ultimi cinque anni. Se il tasso d’interesse esente da rischi per il capitale di terzi è superiore allo 0,5 per cento, il valore del supplemento di solvibilità è determinato in base alla media annua dell’anno civile precedente.
-- 2\.4 Sulla base dei calcoli effettuati dall’UFE e dopo aver consultato la ElCom, il DATEC determina ogni anno il tasso medio di costo del capitale e lo pubblica in Internet e nel Foglio federale. La determinazione avviene ogni anno entro la fine del mese di marzo, per la prima volta entro il 31 marzo 2013 per il 2014.
+### 4 Rischi di mercato
 
-### 3 Tasso d’interesse esente da rischi per il capitale proprio
-
-- 3\.1 Il tasso d’interesse esente da rischi per il capitale proprio corrisponde al rendimento medio annuale delle obbligazioni della Confederazione con scadenza a dieci anni pubblicato per l’anno civile precedente (rendimento di obbligazioni «zero coupon»).
-- 3\.2 Si applicano i seguenti valori forfettari:
+- 4\.1 Il *levered beta* corrisponde al prodotto tra il rischio di mercato senza indebitamento (*unlevered beta*) e un coefficiente che esprime l’influenza del rapporto tra capitale proprio e capitale di terzi sul rendimento del capitale proprio (coefficiente di leva finanziaria).
+- 4\.2 L’*unlevered beta* è determinato sulla base di un gruppo di gestori di rete europei comparabili (*peer group*). A tale scopo si tiene conto della comparabilità del *peer group* con i gestori di rete svizzeri in termini di quota di fatturato realizzato con la distribuzione e il trasporto di energia elettrica, del quadro normativo (compreso il tipo di regolamentazione dei prezzi) e di altri fattori di rischio rilevanti. È possibile tenere conto di eventuali differenze del profilo di rischio tra il *peer group* e i gestori di rete svizzeri attraverso differenti ponderazioni di parti del *peer group* o di singole imprese del *peer group* oppure attraverso correzioni dirette dell’*unlevered beta*. Per le correzioni necessarie si guarda ai gestori europei del sistema di trasmissione.
+- 4\.3 Per la determinazione del WACC l’*unlevered beta* è arrotondato come indicato qui di seguito:
 
 <table>
-<tr><td>a. minore del 3 per cento:</td><td>2,5 per cento;</td></tr>
-<tr><td>b. uguale o maggiore del 3 per cento e minore del 4 per cento:</td><td>3,5 per cento;</td></tr>
-<tr><td>c. uguale o maggiore del 4 per cento e minore del 5 per cento:</td><td>4,5 per cento;</td></tr>
-<tr><td>d. uguale o maggiore del 5 per cento e minore del 6 per cento:</td><td>5,5 per cento;</td></tr>
-<tr><td>e. uguale o maggiore del 6 per cento:</td><td>6,5 per cento.</td></tr>
+<tr><th>Valore effettivo</th><th>Valore arrotondato</th></tr>
+<tr><td>minore di 0,025</td><td>0,00</td></tr>
+<tr><td>uguale o maggiore di 0,025 e minore di 0,075</td><td>0,05</td></tr>
+<tr><td>uguale o maggiore di 0,075 e minore di 0,125</td><td>0,10</td></tr>
+<tr><td>uguale o maggiore di 0,125 e minore di 0,175</td><td>0,15</td></tr>
+<tr><td>uguale o maggiore di 0,175 e minore di 0,225</td><td>0,20</td></tr>
+<tr><td>uguale o maggiore di 0,225 e minore di 0,275</td><td>0,25</td></tr>
+<tr><td>uguale o maggiore di 0,275 e minore di 0,325</td><td>0,30</td></tr>
+<tr><td>uguale o maggiore di 0,325 e minore di 0,375</td><td>0,35</td></tr>
+<tr><td>uguale o maggiore di 0,375 e minore di 0,425</td><td>0,40</td></tr>
+<tr><td>uguale o maggiore di 0,425 e minore di 0,475</td><td>0,45</td></tr>
+<tr><td>uguale o maggiore di 0,475 e minore di 0,525</td><td>0,50</td></tr>
+<tr><td>uguale o maggiore di 0,525 e minore di 0,575</td><td>0,55</td></tr>
+<tr><td>uguale o maggiore di 0,575 e minore di 0,625</td><td>0,60</td></tr>
+<tr><td>uguale o maggiore di 0,625 e minore di 0,675</td><td>0,65</td></tr>
+<tr><td>uguale o maggiore di 0,675 e minore di 0,725</td><td>0,70</td></tr>
+<tr><td>uguale o maggiore di 0,725 e minore di 0,775</td><td>0,75</td></tr>
+<tr><td>uguale o maggiore di 0,775 e minore di 0,825</td><td>0,80</td></tr>
+<tr><td>uguale o maggiore di 0,825 e minore di 0,875</td><td>0,85</td></tr>
+<tr><td>a partire da 0,875</td><td>0,90</td></tr>
 </table>
 
-- 3\.3 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione (n. 2.2) sono: 3, 4, 5 e 6 per cento.
+### 5 Tasso d’interesse esente da rischi per il capitale di terzi
 
-### 4 Premio per i rischi di mercato
+- 5\.1 Il tasso d’interesse esente da rischi per il capitale di terzi corrisponde al rendimento medio annuale pubblicato per l’anno civile precedente (rendimento «zero coupon») delle obbligazioni della Confederazione con scadenza a cinque anni.
+- 5\.2 Se il valore così calcolato è compreso tra due numeri percentuali interi, si utilizza il valore medio.
 
-- 4\.1 Il premio per i rischi di mercato è la differenza fra il rendimento del mercato azionario (indice), considerato come valore medio fra la media aritmetica e la media geometrica, e il rendimento (considerato come media aritmetica) di un investimento esente da rischi.
-- 4\.2 La base per determinare tale premio è costituita dalle serie di dati pubblicati a partire dal 1926 ovvero, per il rendimento del mercato azionario, l’indice dei valori nominali delle azioni e, per il rendimento di un investimento esente da rischi, il rendimento delle obbligazioni della Confederazione con scadenza a dieci anni.
-- 4\.3 Al premio per i rischi di mercato si applicano i seguenti valori forfettari:
+### 6 Supplemento di solvibilità con l’aggiunta dei costi di emissione e di acquisizione
+
+- 6\.1 Il supplemento di solvibilità per il rischio di insolvenza è la differenza fra il tasso d’interesse medio dei titoli di debito di imprese svizzere con una solvibilità comparabile a quella del *peer group* e il tasso d’interesse medio dei titoli di debito esenti da rischi (differenza fra gli indici). Nel calcolo della solvibilità si deve tenere conto delle peculiarità del profilo di rischio dei gestori svizzeri della rete elettrica e delle eventuali differenze rispetto al *peer group*.
+- 6\.2 Per i costi di emissione e di acquisizione si computano 0,5 punti percentuali supplementari.
+- 6\.3 Il supplemento di solvibilità, inclusi 0,5 punti percentuali per i costi di emissione e di acquisizione, è arrotondato come indicato qui di seguito:
 
 <table>
-<tr><td>a. minore del 4,5 per cento,:</td><td>4,5 per cento;</td></tr>
-<tr><td>b. uguale o maggiore del 4,5 per cento e minore del 5,5 per cento:</td><td>5,0 per cento;</td></tr>
-<tr><td>c. uguale o maggiore del 5,5 per cento:</td><td>5,5 per cento.</td></tr>
+<tr><th>Valore effettivo</th><th>Valore arrotondato</th></tr>
+<tr><td>minore di 0,125 per cento</td><td>0,00 per cento</td></tr>
+<tr><td>uguale o maggiore di 0,125 e minore di 0,375 per cento</td><td>0,25 per cento</td></tr>
+<tr><td>uguale o maggiore di 0,375 e minore di 0,625 per cento</td><td>0,50 per cento</td></tr>
+<tr><td>uguale o maggiore di 0,625 e minore di 0,875 per cento</td><td>0,75 per cento</td></tr>
+<tr><td>uguale o maggiore di 0,875 e minore di 1,125 per cento</td><td>1,00 per cento</td></tr>
+<tr><td>uguale o maggiore di 1,125 e minore di 1,375 per cento</td><td>1,25 per cento</td></tr>
+<tr><td>uguale o maggiore di 1,375 e minore di 1,625 per cento</td><td>1,50 per cento</td></tr>
+<tr><td>uguale o maggiore di 1,625 e minore di 1,875 per cento</td><td>1,75 per cento</td></tr>
 </table>
 
-- 4\.4 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione (n. 2.2) sono: 4,5 e 5,5 per cento.
-
-### 5 Beta levered
-
-- 5\.1 Il «beta levered» risulta dal prodotto del «beta unlevered» per il coefficiente di leva finanziaria. Quest’ultimo corrisponde a una quota del capitale complessivo pari al 40 per cento per il capitale proprio e al 60 per cento per il capitale di terzi.
-- 5\.2 Il «beta unlevered» si determina sulla base di un gruppo di imprese di approvvigionamento energetico europee comparabili («peer group»). I valori beta del «peer group» vengono rilevati mensilmente per un arco di tempo di tre anni. La composizione del «peer group» viene verificata ogni anno e, se possibile, migliorata.
-- 5\.3
-
-  Al «beta unlevered» si applicano i seguenti valori forfettari:
-
-  - a. minore di 0,25: 0,2;
-  - b. uguale o maggiore di 0,25 e minore di 0,35: 0,3;
-  - c. uguale o maggiore di 0,35 e minore di 0,45: 0,4;
-  - d. uguale o maggiore di 0,45 e minore di 0,55: 0,5;
-  - e. uguale o maggiore di 0,55: 0,6.
-
-- 5\.4 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione (n. 2.2) sono: 0,25, 0,35, 0,45 e 0,55.
-
-### 6 Tasso d’interesse esente da rischi per il capitale di terzi
-
-- 6\.1 Il tasso d’interesse esente da rischi per il capitale di terzi corrisponde al rendimento medio annuale delle obbligazioni della Confederazione con scadenza a cinque anni pubblicato per l’anno civile precedente (rendimento di obbligazioni «zero coupon»).
-- 6\.2. Si applicano i seguenti valori forfettari:
-
-<table>
-<tr><td>a. minore dello 0,5 per cento:</td><td>0,50 per cento;</td></tr>
-<tr><td>b. uguale o maggiore dello 0,5 per cento e minore dell’1 per cento:</td><td>0,75 per cento</td></tr>
-<tr><td>c. uguale o maggiore dell’1 per cento e minore dell’1,5 per cento:</td><td>1,25 per cento</td></tr>
-<tr><td>d. uguale o maggiore dell’1,5 per cento e minore del 2 per cento:</td><td>1,75 per cento</td></tr>
-<tr><td>e. uguale o maggiore del 2,0 per cento e minore del 2,5 per cento:</td><td>2,25 per cento</td></tr>
-<tr><td>f. uguale o maggiore del 2,5 per cento e minore del 3,0 per cento:</td><td>2,75 per cento</td></tr>
-<tr><td>g. uguale o maggiore del 3,0 per cento e minore del 3,5 per cento</td><td>3,25 per cento</td></tr>
-<tr><td>h. uguale o maggiore del 3,5 per cento e minore del 4,0 per cento:</td><td>3,75 per cento</td></tr>
-<tr><td>i. uguale o maggiore del 4,0 per cento e minore del 4,5 per cento:</td><td>4,25 per cento</td></tr>
-<tr><td>j. uguale o maggiore del 4,5 per cento e minore del 5,0 per cento:</td><td>4.75 per cento</td></tr>
-<tr><td>k. uguale o maggiore del 5,0 per cento:</td><td>5,00 per cento</td></tr>
-</table>
-
-- 6\.3. I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione (n. 2.3), sono 0,5, 1,0, 1,5, 2,0, 2,5, 3,0, 3,5, 4,0, 4,5 e 5,0 per cento.
-
-### 7 Supplemento di solvibilità, inclusi i costi di emissione e di acquisizione
-
-- 7\.1 Il supplemento di solvibilità per il rischio di insolvenza è la differenza fra il tasso d’interesse medio dei titoli di debito di imprese svizzere con buona solvibilità e il tasso d’interesse medio dei titoli di debito esenti da rischio (differenza fra gli indici).
-- 7\.2 Per i costi di emissione e di acquisizione sono computabili 50 punti base, pari allo 0,5 per cento.
-- 7\.3. Alla somma del supplemento di solvibilità e dei costi di emissione e di acquisizione si applicano i seguenti valori forfettari:
-
-<table>
-<tr><td>a. minore dello 0,625 per cento:</td><td>0,50 per cento;</td></tr>
-<tr><td>b. uguale o maggiore dello 0,625 per cento e minore dello 0,875 per cento:</td><td>0,75 per cento</td></tr>
-<tr><td>c. uguale o maggiore dello 0,875 per cento e minore dell’1,125 per cento:</td><td>1,00 per cento</td></tr>
-<tr><td>d. uguale o maggiore dell’1,125 per cento e minore dell’1,375 per cento:</td><td>1,25 per cento</td></tr>
-<tr><td>e. uguale o maggiore dell’1,375 per cento e minore dell’1,625 per cento:</td><td>1,50 per cento</td></tr>
-<tr><td>f. uguale o maggiore dell’1,625 per cento e minore dell’1,875 per cento:</td><td>1,75 per cento</td></tr>
-<tr><td>g. uguale o maggiore dell’1,875 per cento:</td><td>2,00 per cento</td></tr>
-</table>
-
-- 7\.4 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione (n. 2.3), sono 0,625, 0,875, 1,125, 1,375, 1,625 e 1,875 per cento.
-
-### 8. Disposizione transitoria della modifica del 4 dicembre 2015
-
-- Per l’anno tariffario 2016 il calcolo del costo medio ponderato del capitale si determina sul diritto previgente.
+- I valori superiori sono arrotondati in modo analogo.
 
 Allegato 1a[^t-2]
 
