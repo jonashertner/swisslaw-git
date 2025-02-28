@@ -4,85 +4,136 @@ number: "212.01"
 title: Verordnung über die Stiftungsaufsicht
 short: VStA
 language: de
-version: 2003-10-01
-valid_until: 2025-02-28
-version_adopted: 2003-09-02
+version: 2025-03-01
+version_adopted: 2025-02-11
 adopted: 2025-02-11
 in_force: 2025-03-01
 url: "https://ar.clex.ch/app/de/texts_of_law/212.01"
-pdf: "https://ar.clex.ch/api/de/versions/281/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1560/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Stiftungsaufsicht
 
-vom 02.09.2003 (Stand 01.10.2003)
+(VStA)
 
-Der Regierungsrat von Appenzell A.Rh.,
+vom 11.02.2025 (Stand 01.03.2025)
 
-gestützt auf Art. 97 Abs. 2 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^ingress-1] und Art. 35a Abs. 4 des Gesetzes vom 27. April 1969 über die Einführung des Schweizerischen Zivilgesetzbuches[^ingress-2],
+Der Regierungsrat von Appenzell Ausserrhoden,
+
+gestützt auf Art. 35a Abs. 4 des Gesetzes vom 27. April 1969 über die Einführung des Schweizerischen Zivilgesetzbuches[^ingress-1],
 
 verordnet:
 
-[^ingress-1]: BVG (SR [831.40](https://db.clex.ch/link/Bund/831.40/de))
-[^ingress-2]: EG zum ZGB (bGS [211.1](https://ar.clex.ch/data/211.1/de))
+[^ingress-1]: EG zum ZGB (bGS 211.1)
 
 #### Art. 1
 
-**Aufgaben**
+**Geltungsbereich**
 
-<sup>1</sup> Die kantonale Stiftungsaufsicht beaufsichtigt und wandelt die ihr unterstellten Stiftungen und Vorsorgeeinrichtungen nach Massgabe der gesetzlichen Bestimmungen.
+<sup>1</sup> Diese Verordnung regelt die Ausübung der Stiftungsaufsicht durch die Aufsichtsbehörden von Kanton und Gemeinden.
 
-<sup>2</sup> Sie kann die Prüfung der Jahresrechnungen von patronalen Stiftungen jenen Gemeinden übertragen, welche dies wünschen[^1-1].
+<sup>2</sup> Sie ist nicht anwendbar, soweit der Kantonsrat die Aufgaben der Stiftungsaufsicht einer Aufsichtsbehörde eines anderen Kantons oder einer gemeinsamen Einrichtung des öffentlichen Rechts übertragen hat.[^1-1]
 
-<sup>3</sup> Sie führt das Register für berufliche Vorsorge[^1-2] und ein Verzeichnis der Stiftungen. Das Register und das Verzeichnis sind öffentlich.
-
-<sup>4</sup> Die folgenden Bestimmungen gelten auch für die kommunalen Stiftungen und deren Aufsicht.
-
-[^1-1]: Art. 1 Abs. 2 der V über die Beaufsichtigung und die Registrierung der Vorsorgeeinrichtungen (BVV 1; SR [831.435.1](https://db.clex.ch/link/Bund/831.435.1/de))
-[^1-2]: Art. 11 Abs. 1 BVV 1
+[^1-1]: Art. 35 Abs. 5 EG zum ZGB (bGS [211.1](https://ar.clex.ch/data/211.1/de))
 
 #### Art. 2
 
-**Periodische Berichterstattung**
+**Aufgaben der Aufsichtsbehörde**
 
-<sup>1</sup> Die Stiftungen und die Vorsorgeeinrichtungen reichen innert sechs Monaten nach Abschluss des Geschäftsjahres die vom Stiftungsrat genehmigte und unterzeichnete Jahresrechnung mit den vom Gesetz vorgeschriebenen Unterlagen ein.
+<sup>1</sup> Die Aufsichtsbehörde sorgt dafür, dass das Stiftungsvermögen seinen Zwecken gemäss verwendet wird.[^2-1]
 
-<sup>2</sup> Die Stiftungen legen zudem einen Tätigkeitsbericht bei. Sammeln sie öffentlich Mittel, haben sie auch einen Kontrollstellenbericht und eine Mittelflussrechnung einzureichen.
+<sup>2</sup> Sie prüft, ob die Stiftungsurkunde sowie weitere Reglemente und Rechtsvorschriften eingehalten werden. Stellt sie Mängel fest, trifft sie die erforderlichen Massnahmen zur Behebung.
 
-<sup>3</sup> Die Vorsorgeeinrichtungen mit reglementarischen Leistungsansprüchen reichen mindestens alle drei Jahre einen Bericht des anerkannten Experten für berufliche Vorsorge ein.
+<sup>3</sup> Sie nimmt die weiteren Aufgaben wahr, für die sie nach Bundesrecht[^2-2] und kantonalem Recht[^2-3] zuständig ist.
 
-<sup>4</sup> Die Stiftungsaufsicht kann jederzeit weitere Unterlagen einverlangen.
+[^2-1]: Art. 84 Abs. 2 ZGB (SR [210](https://db.clex.ch/link/Bund/210/de))
+[^2-2]: Art. 80 ff. ZGB (SR [210](https://db.clex.ch/link/Bund/210/de)
+[^2-3]: Art. 35a EG zum ZGB (bGS [211.1](https://ar.clex.ch/data/211.1/de))
 
 #### Art. 3
 
-**Informationspflichten der Vorsorgeeinrichtungen, Stiftungen und Stiftungsräte**
+**Stiftungsverzeichnis**
 
-<sup>1</sup> Die Stiftungsräte haben die Stiftungsaufsicht unverzüglich über Vorgänge zu informieren, die ein rasches Einschreiten der Aufsichtsbehörde erfordern oder auf das Vermögen oder die Tätigkeit der Stiftung einen wesentlichen Einfluss haben können[^3-1].
+<sup>1</sup> Die Aufsichtsbehörde führt ein öffentliches Verzeichnis der ihr unterstellten Stiftungen.
 
-<sup>2</sup> Sie melden insbesondere die Gefährdung von massgeblichen Vermögensteilen, Umstrukturierungen von Arbeitgeberfirmen sowie Personalentlassungen.
-
-<sup>3</sup> Stiftungen und Vorsorgeeinrichtungen reichen der Stiftungsaufsicht alle vom Stiftungsrat genehmigten Reglemente und deren Änderungen ein.
-
-[^3-1]: Vgl. Art. 58a der V über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2; SR [831.441.1](https://db.clex.ch/link/Bund/831.441.1/de))
+<sup>2</sup> Das Verzeichnis enthält Name, Sitz und Zweck der Stiftung sowie Kontaktangaben.
 
 #### Art. 4
 
-**Abklärung des Sachverhalts, administrative Massnahmen**
+**Jährliche Berichterstattung der Stiftung**
 
-<sup>1</sup> Die Stiftungsaufsicht klärt die tatsächlichen Verhältnisse von Amtes wegen ab. Sie ist insbesondere befugt, alle Unterlagen der Stiftungen einzusehen, die Geschäftsführung und das Rechnungswesen am Sitz der Stiftungen zu prüfen oder prüfen zu lassen und Expertisen einzuholen.
+<sup>1</sup> Die Stiftung reicht der Aufsichtsbehörde unaufgefordert innert sechs Monaten nach Abschluss des Geschäftsjahres folgende Unterlagen ein:
 
-<sup>2</sup> Die Stiftungsaufsicht trifft die zur Erfüllung des Stiftungszwecks erforderlichen Anordnungen, wenn die Stiftungsorgane nicht im Rahmen pflichtgemässen Ermessens handeln.
+- a) Bericht über die Geschäftstätigkeit;
+- b) vom Stiftungsrat genehmigte und rechtsgültig unterzeichnete Jahresrechnung (inklusive Vorjahreszahlen) bestehend aus Bilanz, Erfolgsrechnung und Anhang;
+- c) rechtsgültig unterzeichnetes Protokoll des Stiftungsrats über die Genehmigung der Jahresrechnung;
+- d) Bericht der Revisionsstelle oder, wenn die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle befreit ist, eine Vollständigkeitserklärung;
+- e) Entschädigungsreglement, sofern Vergütungen an das oberste Stiftungsorgan oder die Geschäftsleitung ausgerichtet werden.
+
+<sup>2</sup> In begründeten Fällen kann die Frist zur Einreichung der jährlichen Berichterstattung erstreckt werden. Das Erstreckungsgesuch ist der Aufsichtsbehörde vor Ablauf der Frist einzureichen.
 
 #### Art. 5
 
-**Inkrafttreten, Aufhebung bisherigen Rechts**
+**Untersuchungsgrundsatz**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
+<sup>1</sup> Die Aufsichtsbehörde untersucht den Sachverhalt von Amtes wegen.
 
-<sup>2</sup> Gleichzeitig wird die Verordnung vom 20. Februar 1984 zum Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^5-1] aufgehoben.
+<sup>2</sup> Sie ist befugt, alle Unterlagen der Stiftung einzusehen sowie Geschäftsführung und Rechnungswesen am Sitz der Stiftung zu prüfen oder prüfen zu lassen.
 
-[^5-1]: bGS 832.40 (lf. Nr. 144)
+<sup>3</sup> Die Untersuchung durch die Aufsichtsbehörde bewirkt keine Entlastung von Stiftungsorganen.
 
-Lf. Nr. / Abl. 844
+#### Art. 6
+
+**Mitwirkungspflicht der Stiftungsorgane**
+
+<sup>1</sup> Die Stiftungsorgane informieren die Aufsichtsbehörde unverzüglich über Vorgänge, die voraussichtlich ein Einschreiten der Aufsichtsbehörde erfordern oder einen wesentlichen Einfluss auf das Vermögen oder die Tätigkeit der Stiftung haben.
+
+<sup>2</sup> Neue oder geänderte Reglemente sind der Aufsichtsbehörde umgehend und unaufgefordert einzureichen.
+
+<sup>3</sup> Die Aufsichtsbehörde kann von den Stiftungsorganen jederzeit weitere Auskünfte oder Unterlagen einverlangen.
+
+#### Art. 7
+
+**Aufsichtsrechtliche Massnahmen**
+
+<sup>1</sup> Die Aufsichtsbehörde trifft alle Massnahmen, die nach Massgabe des Rechts zur Durchführung der Aufsicht erforderlich sind. Sie kann insbesondere:
+
+- a) Weisungen erteilen und vorsorgliche Massnahmen anordnen;
+- b) Beschlüsse der Stiftungsorgane ändern oder aufheben;
+- c) Stiftungsorgane einschliesslich Revisionsstelle ermahnen, verwarnen oder abberufen;
+- d) fehlende Organe oder Sachwalter ernennen;
+- e) Sachverständige beiziehen und Gutachten einholen;
+- f) Verfügungen mit Strafandrohung nach Art. 292 StGB[^7-1] verbinden;
+- g) Ersatzvornahmen anordnen;
+- h) Strafanzeige erstatten.
+
+<sup>2</sup> Die Kosten für aufsichtsrechtliche Massnahmen gehen zulasten der betroffenen Stiftung.
+
+[^7-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### Art. 8
+
+**Zusammenarbeit mit der Steuerverwaltung**
+
+<sup>1</sup> Die Aufsichtsbehörde zeigt der Steuerverwaltung die Errichtung, Änderung oder Aufhebung einer Stiftung an und überweist ihr eine Kopie der entsprechenden Urkunde.
+
+<sup>2</sup> Für Auskünfte über die Gewährung von Steuerbefreiung ist die Steuerverwaltung zuständig. Die Stiftung informiert die Aufsichtsbehörde über die von der Steuerverwaltung erhaltene Auskunft.
+
+<sup>3</sup> Die Aufsichtsbehörde teilt der Steuerverwaltung mit, wenn sie Hinweise darauf hat, dass eine Steuerbefreiung zu Unrecht besteht.[^8-1]
+
+[^8-1]: Vgl. Art. 154 Abs. 2 Steuergesetz (bGS [621.11](https://ar.clex.ch/data/621.11/de))
+
+#### Art. 9
+
+**Gebühren**
+
+<sup>1</sup> Die kantonale Aufsichtsbehörde erhebt für ihre Tätigkeit eine Gebühr im Rahmen des Gesetzes über die Gebühren in Verwaltungssachen.[^9-1] Die Höhe der Gebühr richtet sich nach Anhang 1.
+
+<sup>2</sup> Die Gebühren der kommunalen Aufsichtsbehörde richten sich nach dem Gebührentarif für die Gemeinden.[^9-2]
+
+[^9-1]: bGS [233.2](https://ar.clex.ch/data/233.2/de)
+[^9-2]: bGS [153.2](https://ar.clex.ch/data/153.2/de)
+
+Lf. Nr. / Abl. 1518 / 21.02.2025
