@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: Accordo multilaterale del 27 gennaio 2016 tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: it
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 27 gennaio 2016 Approvato dall’Assemblea federale il 16 giugno 2017[^t-1] Entrato in vigore il 1° dicembre 2017
 
-(Stato 1° gennaio 2025)
+(Stato 1° marzo 2025)
 
 [^t-1]: [RU 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -159,7 +159,7 @@ Salvo se stabilito diversamente nell’Accordo, il Segretariato dell’Organo di
 
 Fatto in francese e in inglese, entrambi i testi facenti ugualmente fede.
 
-Campo d’applicazione il 1° gennaio 2025[^t-2]
+Campo d’applicazione il 1° marzo 2025[^t-2]
 
 La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese verso gli Stati e i territori seguenti conformemente al paragrafo 2 della sezione 8 del presente Accordo:
 
@@ -179,7 +179,7 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Bahrein</td><td>1° gennaio 2019\*</td></tr>
 <tr><td>Barbados</td><td>1° gennaio 2018</td></tr>
 <tr><td>Belgio</td><td>1° gennaio 2018\*\*</td></tr>
-<tr><td>Belize</td><td>1° gennaio 2018\*\*[^t-3]</td></tr>
+<tr><td>Belize</td><td>1° gennaio 2018</td></tr>
 <tr><td>Bermuda</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Brasile</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Bulgaria</td><td>1° gennaio 2018\*\*</td></tr>
@@ -191,9 +191,9 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Cipro</td><td>1° gennaio 2018</td></tr>
 <tr><td>Colombia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Corea, Repubblica di</td><td>1° gennaio 2018\*\*</td></tr>
-<tr><td>Costa Rica</td><td>1° gennaio 2018\*\*[^t-4]</td></tr>
+<tr><td>Costa Rica</td><td>1° gennaio 2018</td></tr>
 <tr><td>Croazia</td><td>1° gennaio 2018</td></tr>
-<tr><td>Curaçao</td><td>1° gennaio 2018\*\*[^t-5]</td></tr>
+<tr><td>Curaçao</td><td>1° gennaio 2018</td></tr>
 <tr><td>Danimarca</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>1° gennaio 2019\*</td></tr>
 <tr><td>Estonia</td><td>1° gennaio 2018\*\*</td></tr>
@@ -243,6 +243,7 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Polonia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Portogallo</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Qatar</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Repubblica Dominicana</td><td>1° gennaio 2024</td></tr>
 <tr><td>Romania</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Russia</td><td>1° gennaio 2018</td></tr>
 <tr><td>San Marino</td><td>1° gennaio 2018</td></tr>
@@ -254,6 +255,7 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Sudafrica</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Svezia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Thailandia</td><td>1° gennaio 2023</td></tr>
+<tr><td>Trinidad e Tobago</td><td>1° gennaio 2025\*</td></tr>
 <tr><td>Tunisia</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Turchia</td><td>1° gennaio 2019</td></tr>
 <tr><td>Turks e Caicos, Isole</td><td>1° gennaio 2018\*</td></tr>
@@ -261,11 +263,9 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Ungheria</td><td>1° gennaio 2018</td></tr>
 <tr><td>Uruguay</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Vergini Britanniche, Isole</td><td>1° gennaio 2018\*</td></tr>
-<tr><td colspan="2">\* Questi Stati e territori applicano sistematicamente lo scambio automatico di informazioni senza che vi sia reciprocità sulla base di una notifica secondo il paragrafo 1 b) della sezione 8 dell’Accordo multilaterale. Questo significa che essi non ricevono rendicontazioni Paese per Paese da parte della Svizzera, ma gliele trasmettono. \*\* Incluse le rendicontazioni Paese per Paese fornite su base volontaria in Svizzera per i periodi fiscali 2016 e 2017 in conformità alla dichiarazione relativa alla data effettiva per lo scambio di informazioni previsto dall’Accordo multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese[^t-6].</td></tr>
+<tr><td>Vietnam</td><td>1° gennaio 2024\*</td></tr>
+<tr><td colspan="2">\* Questi Stati e territori applicano sistematicamente lo scambio automatico di informazioni senza che vi sia reciprocità sulla base di una notifica secondo il paragrafo 1 b) della sezione 8 dell’Accordo multilaterale. Questo significa che essi non ricevono rendicontazioni Paese per Paese da parte della Svizzera, ma gliele trasmettono. \*\* Incluse le rendicontazioni Paese per Paese fornite su base volontaria in Svizzera per i periodi fiscali 2016 e 2017 in conformità alla Dichiarazione relativa alla data effettiva per lo scambio di informazioni previsto dall’Accordo multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese[^t-3].</td></tr>
 </table>
 
-[^t-2]: [RU 2025 55](https://fedlex.data.admin.ch/eli/oc/2025/55). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
-[^t-3]: Fino al periodo fiscale 2022 incluso, il Belize invia solamente e non riceve rendicontazioni Paese per Paese. A partire dal periodo fiscale 2023 (scambio dal 2025), la Svizzera e il Belize si scambieranno reciprocamente le rendicontazioni Paese per Paese.
-[^t-4]: Fino al periodo fiscale 2022 incluso, il Costa Rica invia solamente e non riceve rendicontazioni Paese per Paese. A partire dal periodo fiscale 2023 (scambio dal 2025), la Svizzera e il Costa Rica si scambieranno reciprocamente le rendicontazioni Paese per Paese.
-[^t-5]: Fino al periodo fiscale 2022 incluso, Curaçao invia solamente e non riceve rendicontazioni Paese per Paese. A partire dal periodo fiscale 2023 (scambio dal 2025), la Svizzera e Curaçao si scambieranno reciprocamente le rendicontazioni Paese per Paese.
-[^t-6]: [RU 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
+[^t-2]: [RU 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-3]: [RU 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)

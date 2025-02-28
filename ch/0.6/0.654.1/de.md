@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: Multilaterale Vereinbarung vom 27. Januar 2016 der zuständigen Behörden über den Austausch länderbezogener Berichte
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: de
-version: 2025-01-01
+version: 2025-03-01
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 16. Juni 2017[^t-1]
 
 In Kraft getreten am 1. Dezember 2017
 
-(Stand am 1. Januar 2025)
+(Stand am 1. März 2025)
 
 [^t-1]: [AS 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +163,7 @@ Sofern die Vereinbarung nichts anderes vorsieht, benachrichtigt das Sekretariat 
 
 Geschehen in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-Geltungsbereich am 1. Januar 2025[^t-2]
+Geltungsbereich am 1. März 2025[^t-2]
 
 Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 8 Absatz 2 dieser Vereinbarung:
 
@@ -181,17 +181,18 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Bahrain</td><td>1. Januar 2019\*</td></tr>
 <tr><td>Barbados</td><td>1. Januar 2018</td></tr>
 <tr><td>Belgien</td><td>1. Januar 2018\*\*</td></tr>
-<tr><td>Belize</td><td>1. Januar 2018\*\*[^t-3]</td></tr>
+<tr><td>Belize</td><td>1. Januar 2018</td></tr>
 <tr><td>Bermudas</td><td>1. Januar 2018\*</td></tr>
 <tr><td>Brasilien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Britische Jungferninseln</td><td>1. Januar 2018\*</td></tr>
 <tr><td>Bulgarien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Chile</td><td>1. Januar 2018</td></tr>
 <tr><td>China</td><td>1. Januar 2018</td></tr>
-<tr><td>Costa Rica</td><td>1. Januar 2018\*\*[^t-4]</td></tr>
-<tr><td>Curaçao</td><td>1. Januar 2018\*\*[^t-5]</td></tr>
+<tr><td>Costa Rica</td><td>1. Januar 2018</td></tr>
+<tr><td>Curaçao</td><td>1. Januar 2018</td></tr>
 <tr><td>Dänemark</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Deutschland</td><td>1. Januar 2018\*\*</td></tr>
+<tr><td>Dominikanische Republik</td><td>1. Jannuar 2024</td></tr>
 <tr><td>Estland</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Färöer</td><td>1. Januar 2024</td></tr>
 <tr><td>Finnland</td><td>1. Januar 2018\*\*</td></tr>
@@ -234,7 +235,7 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Montserrat</td><td>1. Januar 2024\*</td></tr>
 <tr><td>Neuseeland</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Niederlande</td><td>1. Januar 2018\*\*</td></tr>
-<tr><td>Nigeria</td><td>1. Januar 2018</td></tr>
+<tr><td>Nigeria</td><td>1. Januar 2018\*</td></tr>
 <tr><td>Norwegen</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Oman</td><td>1. Januar 2021\*</td></tr>
 <tr><td>Österreich</td><td>1. Januar 2018\*\*</td></tr>
@@ -256,6 +257,7 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Spanien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Südafrika</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Thailand</td><td>1. Januar 2023</td></tr>
+<tr><td>Trinidad und Tobago</td><td>1. Januar 2025\*</td></tr>
 <tr><td>Tschechien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Tunesien</td><td>1. Januar 2018\*</td></tr>
 <tr><td>Türkei</td><td>1. Januar 2019</td></tr>
@@ -264,12 +266,10 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Ungarn</td><td>1. Januar 2018</td></tr>
 <tr><td>Uruguay</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Vietnam</td><td>1. Januar 2024\*</td></tr>
 <tr><td>Zypern</td><td>1. Januar 2018</td></tr>
-<tr><td colspan="2">\* Diese Staaten und Gebiete wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 8 Absatz 1 Buchstabe b der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine länderbezogene Berichte von der Schweiz erhalten, der Schweiz aber solche Berichte übermitteln werden. \*\* Einschliesslich freiwillig in der Schweiz eingereichte länderbezogene Berichte für Steuerperioden 2016 und 2017 gemäss Erklärung zum zeitlichen Geltungsbereich für den Informationsaustausch gemäss der multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte[^t-6].</td></tr>
+<tr><td colspan="2">\* Diese Staaten und Gebiete wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 8 Absatz 1 Buchstabe b der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine länderbezogene Berichte von der Schweiz erhalten, der Schweiz aber solche Berichte übermitteln werden. \*\* Einschliesslich freiwillig in der Schweiz eingereichte länderbezogene Berichte für Steuerperioden 2016 und 2017 gemäss Erklärung zum zeitlichen Geltungsbereich für den Informationsaustausch gemäss der multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte[^t-3].</td></tr>
 </table>
 
-[^t-2]: [AS 2025 55](https://fedlex.data.admin.ch/eli/oc/2025/55). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
-[^t-3]: Bis und mit Steuerperiode 2022 übermittelt nur Belize länderbezogene Berichte und erhält keine länderbezogene Berichte. Ab Steuerperiode 2023 (Austausch ab 2025) tauschen die Schweiz und Belize gegenseitig länderbezogene Berichte aus.
-[^t-4]: Bis und mit Steuerperiode 2022 übermittelt nur Costa Rica länderbezogene Berichte und erhält keine länderbezogene Berichte. Ab Steuerperiode 2023 (Austausch ab 2025) tauschen die Schweiz und Costa Rica gegenseitig länderbezogene Berichte aus.
-[^t-5]: Bis und mit Steuerperiode 2022 übermittelt nur Curaçao länderbezogene Berichte und erhält keine länderbezogene Berichte. Ab Steuerperiode 2023 (Austausch ab 2025) tauschen die Schweiz und Curaçao gegenseitig länderbezogene Berichte aus.
-[^t-6]: [AS 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
+[^t-2]: [AS 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
