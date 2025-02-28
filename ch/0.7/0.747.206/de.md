@@ -4,11 +4,11 @@ title: Strassburger Übereinkommen vom 27. September 2012 über die Beschränkun
 short: CLNI 2012
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/302"
 language: de
-version: 2024-08-01
+version: 2025-03-01
 adopted: 2012-09-27
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/302/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2024-302-20240801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/302/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/302/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2024-302-20250301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/302/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -21,7 +21,7 @@ AS **2024** 302; BBl **2023** 999
 
 Abgeschlossen in Strassburg am 27. September 2012 Von der Bundesversammlung genehmigt am 22. Dezember 2023[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. April 2024 In Kraft getreten für die Schweiz am 1. August 2024
 
-(Stand am 1. August 2024)
+(Stand am 1. März 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 22. Dez. 2023 ([AS 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256))
 
@@ -108,7 +108,7 @@ Hat eine Person, die zur Beschränkung der Haftung nach den Bestimmungen dieses 
 
 #### Art. 6
 
-**Allgemeine Höchstbeträge**
+**Allgemeine Höchstbeträge**[^6-1]
 
 <sup>1.</sup>
 
@@ -118,41 +118,56 @@ Die Haftungshöchstbeträge für andere als die in den Artikeln 7 und 8 genannte
 
   für Ansprüche wegen Tod oder Körperverletzung:
 
-  - i) für ein Schiff, das nach seiner Zweckbestimmung nicht der Beförderung von Gütern dient, insbesondere ein Fahrgastschiff, 400 Rechnungseinheiten je Kubikmeter Wasserverdrängung des Schiffes bei höchstzulässigem Tiefgang, vermehrt bei Schiffen mit eigener Antriebskraft um 1 400 Rechnungseinheiten je kW Leistungsfähigkeit der Antriebsmaschinen,
-  - ii) für ein Schiff, das nach seiner Zweckbestimmung der Beförderung von Gütern dient, 400 Rechnungseinheiten je Tonne Tragfähigkeit des Schiffes, vermehrt bei Schiffen mit eigener Antriebskraft um 1 400 Rechnungseinheiten je kW Leistungsfähigkeit der Antriebsmaschinen,
-  - iii) für ein Schub- oder Schleppboot 1 400 Rechnungseinheiten je kW Leistungsfähigkeit der Antriebsmaschinen,
-  - iv) für ein Schubboot, das im Zeitpunkt der Verursachung des Schadens starr mit Schubleichtern zu einem Schubverband verbunden war, erhöht sich der nach Ziffer iii errechnete Haftungshöchstbetrag um 200 Rechnungseinheiten je Tonne Tragfähigkeit der Schubleichter; diese Erhöhung tritt insoweit nicht ein, als nachgewiesen wird, dass das Schubboot für einen oder mehrere dieser Schubleichter Bergungs- oder Hilfeleistungsdienste erbracht hat,
-  - v) für ein Schiff mit eigener Antriebskraft, das im Zeitpunkt der Verursachung des Schadens andere mit diesem Schiff fest gekoppelte Schiffe fortbewegt, erhöht sich der nach Ziffer i, ii oder iii errechnete Haftungshöchstbetrag um 200 Rechnungseinheiten je Tonne Tragfähigkeit oder je Kubikmeter Wasserverdrängung der anderen Schiffe; diese Erhöhung tritt insoweit nicht ein, als nachgewiesen wird, dass dieses Schiff für eines oder mehrere der gekoppelten Schiffe Bergungs- oder Hilfeleistungsdienste erbracht hat,
+  - i) für ein Schiff, das nach seiner Zweckbestimmung nicht der Beförderung von Gütern dient, insbesondere ein Fahrgastschiff, 450 Rechnungseinheiten[^6-2] je Kubikmeter Wasserverdrängung des Schiffes bei höchstzulässigem Tiefgang, vermehrt bei Schiffen mit eigener Antriebskraft um 1 576 Rechnungseinheiten[^6-3] je kW Leistungsfähigkeit der Antriebsmaschinen,
+  - ii) für ein Schiff, das nach seiner Zweckbestimmung der Beförderung von Gütern dient, 450 Rechnungseinheit[^6-4] je Tonne Tragfähigkeit des Schiffes, vermehrt bei Schiffen mit eigener Antriebskraft um 1 576 Rechnungseinheit[^6-5] je kW Leistungsfähigkeit der Antriebsmaschinen,
+  - iii) für ein Schub- oder Schleppboot 1 576 Rechnungseinheiten[^6-6] je kW Leistungsfähigkeit der Antriebsmaschinen,
+  - iv) für ein Schubboot, das im Zeitpunkt der Verursachung des Schadens starr mit Schubleichtern zu einem Schubverband verbunden war, erhöht sich der nach Ziffer iii errechnete Haftungshöchstbetrag um 225 Rechnungseinheiten[^6-7] je Tonne Tragfähigkeit der Schubleichter; diese Erhöhung tritt insoweit nicht ein, als nachgewiesen wird, dass das Schubboot für einen oder mehrere dieser Schubleichter Bergungs- oder Hilfeleistungsdienste erbracht hat,
+  - v) für ein Schiff mit eigener Antriebskraft, das im Zeitpunkt der Verursachung des Schadens andere mit diesem Schiff fest gekoppelte Schiffe fortbewegt, erhöht sich der nach Ziffer i, ii oder iii errechnete Haftungshöchstbetrag um 225 Rechnungseinheiten[^6-8] je Tonne Tragfähigkeit oder je Kubikmeter Wasserverdrängung der anderen Schiffe; diese Erhöhung tritt insoweit nicht ein, als nachgewiesen wird, dass dieses Schiff für eines oder mehrere der gekoppelten Schiffe Bergungs- oder Hilfeleistungsdienste erbracht hat,
   - vi) für schwimmende und bewegliche Anlagen und Geräte im Sinne des Artikels 1 Absatz 2 Buchstabe b Satz 2 ihr Wert im Zeitpunkt des Ereignisses;
 
 - b) für alle übrigen Ansprüche die Hälfte des nach Buchstabe a errechneten Haftungshöchstbetrags;
 - c) reicht der nach Buchstabe a errechnete Haftungshöchstbetrag zur vollen Befriedigung der darin genannten Ansprüche nicht aus, so steht der nach Buchstabe b errechnete Haftungshöchstbetrag zur Befriedigung der nicht befriedigten Restansprüche im Sinne des Buchstaben a zur Verfügung, wobei diese Restansprüche den gleichen Rang wie die unter Buchstabe b genannten Ansprüche haben;
-- d) in keinem Fall dürfen die Haftungshöchstbeträge für Ansprüche wegen Tod oder Körperverletzung 400 000 Rechnungseinheiten und für alle übrigen Ansprüche 200 000 Rechnungseinheiten unterschreiten.
+- d) in keinem Fall dürfen die Haftungshöchstbeträge für Ansprüche wegen Tod oder Körperverletzung 450 400 Rechnungseinheiten[^6-9] und für alle übrigen Ansprüche 225 200 Rechnungseinheiten[^6-10] unterschreiten.
 
 <sup>2.</sup> Unbeschadet der Rechte nach Absatz 1 Buchstabe c in Bezug auf Ansprüche wegen Tod oder Körperverletzung kann ein Staat, der Vertragspartei ist, in seinen innerstaatlichen Rechtsvorschriften jedoch bestimmen, dass Ansprüche wegen Beschädigung von Hafenanlagen, Hafenbecken, Wasserstrassen, Schleusen, Wehren, Brücken und Navigationshilfen den ihnen in diesen Rechtsvorschriften eingeräumten Vorrang vor Ansprüchen nach Absatz 1 Buchstabe b haben.
 
 <sup>3.</sup> Für einen Berger oder Retter, der für ein Schiff Bergungs- oder Hilfeleistungsdienste erbringt und weder von einem Binnenschiff noch von einem Seeschiff aus arbeitet, sowie für einen Berger oder Retter, der ausschliesslich auf dem Schiff arbeitet, für das er Bergungs- oder Hilfeleistungsdienste erbringt, gelten die in Absatz 1 Buchstabe d genannten Haftungshöchstbeträge.
 
+[^6-1]: Bereinigt gemäss der am 1. Juni 2024 durch die Vertragsstaaten angenommenen Änderung, in Kraft seit 1. März 2025 ([AS 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^6-2]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 400 Rechnungseinheiten.
+[^6-3]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 1 400 Rechnungseinheiten.
+[^6-4]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 400 Rechnungseinheiten.
+[^6-5]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 1 400 Rechnungseinheiten.
+[^6-6]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 1 400 Rechnungseinheiten.
+[^6-7]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^6-8]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^6-9]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 400 000 Rechnungseinheiten.
+[^6-10]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 000 Rechnungseinheiten.
+
 #### Art. 7
 
-**Höchstbeträge für Ansprüche wegen Schäden aus der Beförderung gefährlicher Güter**
+**Höchstbeträge für Ansprüche wegen Schäden aus der Beförderung gefährlicher Güter**[^7-1]
 
 <sup>1.</sup>
 
 Die Haftungshöchstbeträge errechnen sich für ein Schiff, das gefährliche Güter befördert, für Ansprüche wegen Schäden, die direkt oder indirekt durch die Gefährlichkeit dieser Güter verursacht worden sind, wie folgt:
 
-- a) für Ansprüche wegen Tod oder Körperverletzung das Doppelte des nach Artikel 6 Absatz 1 Buchstabe a errechneten Haftungshöchstbetrags, mindestens aber 10 Millionen Rechnungseinheiten;
-- b) für alle übrigen Ansprüche das Doppelte des nach Artikel 6 Absatz 1 Buchstabe b errechneten Haftungshöchstbetrags, mindestens aber 10 Millionen Rechnungseinheiten.
+- a) für Ansprüche wegen Tod oder Körperverletzung das Doppelte des nach Artikel 6 Absatz 1 Buchstabe a errechneten Haftungshöchstbetrags, mindestens aber 11 260 000 Rechnungseinheiten[^7-2];
+- b) für alle übrigen Ansprüche das Doppelte des nach Artikel 6 Absatz 1 Buchstabe b errechneten Haftungshöchstbetrags, mindestens aber 11 260 000 Rechnungseinheiten[^7-3].
 
 <sup>2.</sup> Reicht der nach Absatz 1 Buchstabe a errechnete Haftungshöchstbetrag zur vollen Befriedigung der darin genannten Ansprüche nicht aus, so steht der nach Absatz 1 Buchstabe b errechnete Haftungshöchstbetrag auch zur Befriedigung der nicht befriedigten Restansprüche nach Absatz 1 Buchstabe a zur Verfügung, wobei diese Restansprüche den gleichen Rang wie die unter Absatz 1 Buchstabe b genannten Ansprüche haben.
 
+[^7-1]: Bereinigt gemäss der am 1. Juni 2024 durch die Vertragsstaaten angenommenen Änderung, in Kraft seit 1. März 2025 ([AS 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^7-2]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 10 Millionen Rechnungseinheiten.
+[^7-3]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 10 Millionen Rechnungseinheiten.
+
 #### Art. 8
 
-**Höchstbetrag für Ansprüche von Reisenden**
+**Höchstbetrag für Ansprüche von Reisenden**[^8-1]
 
-<sup>1.</sup> Der Haftungshöchstbetrag darf jedoch 2 Millionen Rechnungseinheiten nicht unterschreiten.
+<sup>1.</sup> Der Haftungshöchstbetrag darf jedoch 2 252 000 Rechnungseinheiten[^8-2] nicht unterschreiten.
 
-Für aus demselben Ereignis entstandene Ansprüche wegen des Todes oder der Körperverletzung von Reisenden eines Schiffes errechnet sich der Haftungshöchstbetrag für dieses Schiff aus einem Betrag von 100 000 Rechnungseinheiten multipliziert mit:
+Für aus demselben Ereignis entstandene Ansprüche wegen des Todes oder der Körperverletzung von Reisenden eines Schiffes errechnet sich der Haftungshöchstbetrag für dieses Schiff aus einem Betrag von 112 600 Rechnungseinheiten[^8-3] multipliziert mit:
 
 - a) der Anzahl der Reisenden, die das Schiff nach dem Schiffszeugnis befördern darf; oder
 - b) wenn die Anzahl der Reisenden, die das Schiff befördern darf, nicht vorgeschrieben ist, mit der Anzahl der Reisenden, die das Schiff im Zeitpunkt des Ereignisses tatsächlich befördert hat.
@@ -163,6 +178,10 @@ Für aus demselben Ereignis entstandene Ansprüche wegen des Todes oder der Kör
 
 - a) die auf Grund eines Beförderungsvertrags für Reisende befördert wird; oder
 - b) die mit Zustimmung des Beförderers ein Fahrzeug oder lebende Tiere begleitet, die Gegenstand eines Vertrags über die Beförderung von Gütern sind.
+
+[^8-1]: Bereinigt gemäss der am 1. Juni 2024 durch die Vertragsstaaten angenommenen Änderung, in Kraft seit 1. März 2025 ([AS 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^8-2]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 2 Millionen Rechnungseinheiten.
+[^8-3]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 100 000 Rechnungseinheiten.
 
 #### Art. 9
 
@@ -176,7 +195,7 @@ Für aus demselben Ereignis entstandene Ansprüche wegen des Todes oder der Kör
 
 #### Art. 10
 
-**Mehrere Ansprüche**
+**Mehrere Ansprüche**[^10-1]
 
 <sup>1.</sup>
 
@@ -185,12 +204,20 @@ Unbeschadet des Absatzes 2 gelten die nach Artikel 6 errechneten Haftungshöchst
 - a) gegen eine oder mehrere der in Artikel 1 Absatz 2 Buchstabe a bezeichneten Personen sowie gegen jeden, für dessen Handeln, Unterlassen oder Verschulden sie haften; oder
 - b) gegen den Eigentümer eines Schiffes, der von diesem aus Bergungs- oder Hilfeleistungsdienste erbringt, und gegen von diesem Schiff aus arbeitende Berger oder Retter sowie gegen jeden, für dessen Handeln, Unterlassen oder Verschulden Eigentümer, Berger oder Retter haften; oder
 - c) gegen Berger oder Retter, die nicht von einem Binnenschiff oder einem Seeschiff ausarbeiten oder die ausschliesslich auf dem Schiff arbeiten, für das Bergungs- oder Hilfeleistungsdienste erbracht werden, sowie gegen jeden, für dessen Handeln, Unterlassen oder Verschulden Berger oder Retter haften.
-- 2\. a) Erhöht sich nach Artikel 6 Absatz 1 Buchstabe a Ziffer iv der Haftungshöchstbetrag für ein Schubboot, das im Zeitpunkt der Verursachung des Schadens starr mit Schubleichtern zu einem Schubverband verbunden war, für die aus dem Ereignis entstandenen Ansprüche um 200 Rechnungseinheiten je Tonne Tragfähigkeit der Schubleichter, so vermindert sich für jeden Schubleichter der Haftungshöchstbetrag für die aus demselben Ereignis entstandenen Ansprüche um 200 Rechnungseinheiten je Tonne Tragfähigkeit des Schubleichters.
-- b) Erhöht sich nach Artikel 6 Absatz 1 Buchstabe a Ziffer v der Haftungshöchstbetrag für ein Schiff mit eigener Antriebskraft, das im Zeitpunkt der Verursachung des Schadens andere mit diesem Schiff fest gekoppelte Schiffe fortbewegt hat, für die aus dem Ereignis entstandenen Ansprüche um 200 Rechnungseinheiten je Tonne Tragfähigkeit oder je Kubikmeter Wasserverdrängung der fest gekoppelten Schiffe, so vermindert sich für jedes fest gekoppelte Schiff der Haftungshöchstbetrag für die aus demselben Ereignis entstandenen Ansprüche um 200 Rechnungseinheiten je Tonne Tragfähigkeit oder je Kubikmeter Wasserverdrängung des fest gekoppelten Schiffes.
+- 2\. a) Erhöht sich nach Artikel 6 Absatz 1 Buchstabe a Ziffer iv der Haftungshöchstbetrag für ein Schubboot, das im Zeitpunkt der Verursachung des Schadens starr mit Schubleichtern zu einem Schubverband verbunden war, für die aus dem Ereignis entstandenen Ansprüche um 225 Rechnungseinheiten[^10-2] je Tonne Tragfähigkeit der Schubleichter, so vermindert sich für jeden Schubleichter der Haftungshöchstbetrag für die aus demselben Ereignis entstandenen Ansprüche um 225 Rechnungseinheiten[^10-3] je Tonne Tragfähigkeit des Schubleichters.
+- b) Erhöht sich nach Artikel 6 Absatz 1 Buchstabe a Ziffer v der Haftungshöchstbetrag für ein Schiff mit eigener Antriebskraft, das im Zeitpunkt der Verursachung des Schadens andere mit diesem Schiff fest gekoppelte Schiffe fortbewegt hat, für die aus dem Ereignis entstandenen Ansprüche um 225 Rechnungseinheiten[^10-4] je Tonne Tragfähigkeit oder je Kubikmeter Wasserverdrängung der fest gekoppelten Schiffe, so vermindert sich für jedes fest gekoppelte Schiff der Haftungshöchstbetrag für die aus demselben Ereignis entstandenen Ansprüche um 225 Rechnungseinheiten[^10-5] je Tonne Tragfähigkeit oder je Kubikmeter Wasserverdrängung des fest gekoppelten Schiffes.
 
-<sup>3.</sup> Für die nach Artikel 7 errechneten Haftungshöchstbeträge gelten die Absätze 1 und 2 entsprechend. Absatz 2 ist jedoch mit der Massgabe anzuwenden, dass statt 200 Rechnungseinheiten jeweils 400 Rechnungseinheiten zugrunde zu legen sind.
+<sup>3.</sup> Für die nach Artikel 7 errechneten Haftungshöchstbeträge gelten die Absätze 1 und 2 entsprechend. Absatz 2 ist jedoch mit der Massgabe anzuwenden, dass statt 225 Rechnungseinheiten[^10-6] jeweils 450 Rechnungseinheiten[^10-7] zugrunde zu legen sind.
 
 <sup>4.</sup> Der nach Artikel 8 errechnete Haftungshöchstbetrag gilt für die Gesamtheit der Ansprüche, die sich aus demselben Ereignis gegen eine oder mehrere der in Artikel 1 Absatz 2 Buchstabe a bezeichneten Personen hinsichtlich des in Artikel 8 genannten Schiffes sowie gegen jeden ergeben, für dessen Handeln, Unterlassen oder Verschulden sie haften.
+
+[^10-1]: Bereinigt gemäss der am 1. Juni 2024 durch die Vertragsstaaten angenommenen Änderung, in Kraft seit 1. März 2025 ([AS 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^10-2]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^10-3]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^10-4]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^10-5]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^10-6]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 200 Rechnungseinheiten.
+[^10-7]: Haftungshöchstbetrag gemäss der Änd. vom 1. Juni 2024, in Kraft getreten am 1. März 2025. Vorige Haftungshöchstbetrag: 400 Rechnungseinheiten.
 
 #### Art. 11
 

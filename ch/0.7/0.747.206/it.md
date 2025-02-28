@@ -4,11 +4,11 @@ title: Convenzione di Strasburgo del 27 settembre 2012 sulla limitazione della r
 short: CLNI 2012
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/302"
 language: it
-version: 2024-08-01
+version: 2025-03-01
 adopted: 2012-09-27
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/302/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2024-302-20240801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/302/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/302/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2024-302-20250301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/302/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,7 +21,7 @@ RU **2024** 302; FF **2023** 999
 
 Conclusa a Strasburgo il 27 settembre 2012 Approvata dall’Assemblea federale il 22 dicembre 2023[^t-1] Ratificata dalla Svizzera con strumento depositato il 23 aprile 2024 Entrata in vigore per la Svizzera il 1° agosto 2024
 
-(Stato 1° agosto 2024)
+(Stato 1° marzo 2025)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 22 dic. 2023 ([RU 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256)).
 
@@ -108,7 +108,7 @@ Se una persona avente diritto di limitare la propria responsabilità secondo le 
 
 #### Art. 6
 
-**Limiti generali**
+**Limiti generali**[^6-1]
 
 <sup>1.</sup>
 
@@ -118,41 +118,56 @@ I limiti di responsabilità per rivendicazioni diverse da quelle citate agli art
 
   per rivendicazioni relative a morte o lesioni corporali:
 
-  - i) per un battello non destinato al trasporto di merci, in particolare un battello per passeggeri, 400 unità di conto per metro cubo di stazzamento del battello in caso di immersione massima autorizzata, maggiorato per i battelli con mezzi di propulsione meccanica di 1400 unità di conto per kW di potenza della propulsione meccanica,
-  - ii) per un battello destinato al trasporto di merci, 400 unità di conto per tonnellata di capacità di carico del battello, maggiorato per i battelli con mezzi di propulsione meccanica di 1400 unità di conto per kW di potenza della propulsione meccanica,
-  - iii) per un battello di spinta o un rimorchiatore, 1400 unità di conto per kW di potenza della propulsione meccanica,
-  - iv) per un battello di spinta che, al momento in cui il danno è stato causato, era accoppiato con barconi formando un convoglio spinto, il limite di responsabilità calcolato conformemente al capoverso iii) è aumentato di 200 unità di conto per tonnellata di capacità di carico dei barconi spinti; tale aumento non è applicabile nella misura in cui sia provato che il battello di spinta ha fornito a uno o più barconi spinti servizi d’assistenza o di salvataggio,
-  - v) per un battello con mezzi di propulsione meccanica propria che, al momento in cui il danno è stato causato, assicura la propulsione di altri battelli accoppiati a questo battello, il limite di responsabilità calcolato secondo i capoversi i), ii) o iii) è aumentato di 200 unità di conto per tonnellata di capacità di carico o per metro cubo di stazzamento degli altri battelli; tale aumento non è applicabile nella misura in cui sia provato che tale battello ha fornito a uno o più battelli accoppiati servizi d’assistenza o di salvataggio,
+  - i) per un battello non destinato al trasporto di merci, in particolare un battello per passeggeri, 450 unità di conto[^6-2] per metro cubo di stazzamento del battello in caso di immersione massima autorizzata, maggiorato per i battelli con mezzi di propulsione meccanica di 1576 unità di conto[^6-3] per kW di potenza della propulsione meccanica,
+  - ii) per un battello destinato al trasporto di merci, 450 unità di conto[^6-4] per tonnellata di capacità di carico del battello, maggiorato per i battelli con mezzi di propulsione meccanica di 1576 unità di conto[^6-5] per kW di potenza della propulsione meccanica,
+  - iii) per un battello di spinta o un rimorchiatore, 1576 unità di conto[^6-6] per kW di potenza della propulsione meccanica,
+  - iv) per un battello di spinta che, al momento in cui il danno è stato causato, era accoppiato con barconi formando un convoglio spinto, il limite di responsabilità calcolato conformemente al capoverso iii) è aumentato di 225 unità di conto[^6-7] per tonnellata di capacità di carico dei barconi spinti; tale aumento non è applicabile nella misura in cui sia provato che il battello di spinta ha fornito a uno o più barconi spinti servizi d’assistenza o di salvataggio,
+  - v) per un battello con mezzi di propulsione meccanica propria che, al momento in cui il danno è stato causato, assicura la propulsione di altri battelli accoppiati a questo battello, il limite di responsabilità calcolato secondo i capoversi i), ii) o iii) è aumentato di 225 unità di conto[^6-8] per tonnellata di capacità di carico o per metro cubo di stazzamento degli altri battelli; tale aumento non è applicabile nella misura in cui sia provato che tale battello ha fornito a uno o più battelli accoppiati servizi d’assistenza o di salvataggio,
   - vi) per impianti o attrezzature galleggianti e mobili secondo l’articolo 1 paragrafo 2 lettera b) seconda frase, il loro valore al momento dell’evento;
 
 - b) per tutte le altre rivendicazioni, la metà del limite di responsabilità calcolato in conformità della lettera a);
 - c) qualora il limite di responsabilità calcolato in conformità della lettera a) sia insufficiente a saldare interamente le rivendicazioni ivi previste, il limite di responsabilità calcolato conformemente alla lettera b) può essere utilizzato per saldare la rimanenza non pagata delle rivendicazioni di cui alla lettera a), laddove la rimanenza non pagata è parificata alle rivendicazioni di cui alla lettera b);
-- d) i limiti di responsabilità non possono in nessun caso essere inferiori a 400 000 unità di conto per le rivendicazioni relative a morte o lesioni corporali e a 200 000 unità di conto per tutte le altre rivendicazioni.
+- d) i limiti di responsabilità non possono in nessun caso essere inferiori a 450 400 unità di conto[^6-9] per le rivendicazioni relative a morte o lesioni corporali e a 225 200 unità di conto[^6-10] per tutte le altre rivendicazioni.
 
 <sup>2.</sup> Tuttavia, senza pregiudizio per il diritto di rivendicazione per morte o lesioni corporali conformemente al paragrafo 1 lettera c), uno Stato Parte può stabilire nella sua legislazione nazionale che le rivendicazioni per danni alle opere portuali, ai bacini, alle vie navigabili, alle chiuse, alle dighe, ai ponti e agli aiuti alla navigazione hanno la priorità prevista da questa legislazione sulle rivendicazioni di cui al paragrafo 1 lettera b).
 
 <sup>3.</sup> I limiti di responsabilità di cui al paragrafo 1 lettera d) si applicano pure a ogni addetto al recupero che fornisce servizi d’assistenza o di salvataggio a un battello e che non opera né a partire da un battello di navigazione interna né da un battello di navigazione marittima o a ogni addetto al recupero che opera unicamente a bordo del battello al quale fornisce servizi d’assistenza o di salvataggio.
 
+[^6-1]: Aggiornato dalla mod. adottata dagli Stati membri il 1° giu. 2024, in vigore dal 1° mar. 2025 ([RU 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^6-2]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 400 unità di conto.
+[^6-3]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 1400 unità di conto.
+[^6-4]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 400 unità di conto.
+[^6-5]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 1400 unità di conto.
+[^6-6]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 1400 unità di conto.
+[^6-7]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
+[^6-8]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
+[^6-9]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 400 000 unità di conto.
+[^6-10]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 000 unità di conto.
+
 #### Art. 7
 
-**Limiti di responsabilità per rivendicazioni relative a danni legati al trasporto di merci pericolose**
+**Limiti di responsabilità per rivendicazioni relative a danni legati al trasporto di merci pericolose**[^7-1]
 
 <sup>1.</sup>
 
 I limiti di responsabilità per un battello che trasporta merci pericolose nel caso di rivendicazioni relative a danni provocati direttamente o indirettamente dalla natura pericolosa di tali merci sono calcolati come segue:
 
-- a) per rivendicazioni relative a morte o lesioni corporali il doppio del limite di responsabilità calcolato conformemente all’articolo 6 paragrafo 1 lettera a), ma almeno 10 milioni di unità di conto;
-- b) per tutte le altre rivendicazioni il doppio del limite di responsabilità calcolato conformemente all’articolo 6 paragrafo 1 lettera b), ma almeno 10 milioni di unità di conto.
+- a) per rivendicazioni relative a morte o lesioni corporali il doppio del limite di responsabilità calcolato conformemente all’articolo 6 paragrafo 1 lettera a), ma almeno 11 260 000 unità di conto[^7-2];
+- b) per tutte le altre rivendicazioni il doppio del limite di responsabilità calcolato conformemente all’articolo 6 paragrafo 1 lettera b), ma almeno 11 260 000 unità di conto[^7-3].
 
 <sup>2.</sup> Qualora il limite di responsabilità calcolato conformemente al paragrafo 1 lettera a) sia insufficiente a saldare interamente le rivendicazioni ivi previste, il limite di responsabilità calcolato conformemente al paragrafo 1 lettera b) può essere utilizzato per saldare la rimanenza non pagata delle rivendicazioni di cui al paragrafo 1 lettera a), laddove la rimanenza non pagata è parificata alle rivendicazioni di cui al paragrafo 1 lettera b).
 
+[^7-1]: Aggiornato dalla mod. adottata dagli Stati membri il 1° giu. 2024, in vigore dal 1° mar. 2025 ([RU 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^7-2]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 10 milioni di unità di conto.
+[^7-3]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 10 milioni di unità di conto.
+
 #### Art. 8
 
-**Limiti applicabili alle rivendicazioni dei passeggeri**
+**Limiti applicabili alle rivendicazioni dei passeggeri**[^8-1]
 
-<sup>1.</sup> Il limite della responsabilità non può tuttavia essere inferiore a 2 milioni di unità di conto.
+<sup>1.</sup> Il limite della responsabilità non può tuttavia essere inferiore a 2 252 000 unità di conto[^8-2].
 
-Nel caso delle rivendicazioni derivanti dalla morte o da lesioni corporali dei passeggeri di un battello e connesse a uno stesso evento, il limite di responsabilità è fissato a un importo di 100 000 unità di conto moltiplicato per:
+Nel caso delle rivendicazioni derivanti dalla morte o da lesioni corporali dei passeggeri di un battello e connesse a uno stesso evento, il limite di responsabilità è fissato a un importo di 112 600 unità di conto[^8-3] moltiplicato per:
 
 - a) il numero dei passeggeri che il battello è autorizzato a trasportare in base al certificato del battello; oppure
 - b) se il numero di passeggeri che il battello è autorizzato a trasportare non è prescritto, il numero di passeggeri effettivamente trasportati dal battello al momento dell’evento.
@@ -163,6 +178,10 @@ Ai fini del presente articolo, «rivendicazioni per morte o lesioni corporali de
 
 - a) in base a un contratto di trasporto di passeggeri; o
 - b) che, con il consenso del trasportatore, accompagna un veicolo o animali vivi oggetto di un contratto di trasporto di merci.
+
+[^8-1]: Aggiornato dalla mod. adottata dagli Stati membri il 1° giu. 2024, in vigore dal 1° mar. 2025 ([RU 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^8-2]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 2 milioni di unità di conto.
+[^8-3]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 100 000 unità di conto.
 
 #### Art. 9
 
@@ -176,7 +195,7 @@ Ai fini del presente articolo, «rivendicazioni per morte o lesioni corporali de
 
 #### Art. 10
 
-**Cumulo di rivendicazioni**
+**Cumulo di rivendicazioni**[^10-1]
 
 <sup>1.</sup>
 
@@ -185,12 +204,20 @@ Senza pregiudizio per il paragrafo 2, i limiti di responsabilità calcolati seco
 - a) della persona o delle persone di cui all’articolo 1 paragrafo 2 lettera a) e di chiunque delle cui azioni, negligenze o inadempienze essa o esse siano responsabili; o
 - b) del proprietario di un battello che presta servizi d’assistenza o di salvataggio a partire da questo battello e nei confronti degli addetti al recupero che operano a partire da detto battello e di chiunque delle cui azioni, negligenze o inadempienze egli o essi siano responsabili; o
 - c) degli addetti al recupero o degli addetti al recupero che non operano a partire da un battello di navigazione interna o da una nave marittima o operano unicamente a bordo del battello al quale sono prestati servizi d’assistenza e di salvataggio e di chiunque delle cui azioni, negligenze o inadempienze essi siano responsabili.
-- 2\. a) Se, conformemente all’articolo 6 paragrafo 1 lettera a) capoverso iv), il limite di responsabilità per un battello di spinta che, al momento del danno, era accoppiato con barconi in convoglio spinto, è maggiorato, relativamente alle rivendicazioni derivate dall’evento, di 200 unità di conto per tonnellata di capacità di carico dei barconi spinti, il limite di responsabilità di ogni barcone è ridotto, per le rivendicazioni derivanti da questo stesso evento, di 200 unità di conto per ogni tonnellata di capacità di carico del barcone spinto.
-- b) Se, conformemente all’articolo 6 paragrafo 1 lettera a) capoverso v), il limite di responsabilità per un battello munito di mezzi di propulsione meccanica che, al momento del danno, garantisce la propulsione ad altri battelli accoppiati a quest’ultimo, è maggiorato, per le rivendicazioni derivanti dall’evento, di 200 unità di conto per tonnellata di capacità di carico o per metro cubo di stazzamento dei battelli accoppiati, il limite di responsabilità per ogni battello accoppiato è ridotto, per le rivendicazioni derivanti dallo stesso evento, di 200 unità di conto per ogni tonnellata di capacità di carico o per ogni metro cubo di stazzamento del battello accoppiato.
+- 2\. a) Se, conformemente all’articolo 6 paragrafo 1 lettera a) capoverso iv), il limite di responsabilità per un battello di spinta che, al momento del danno, era accoppiato con barconi in convoglio spinto, è maggiorato, relativamente alle rivendicazioni derivate dall’evento, di 225 unità di conto[^10-2] per tonnellata di capacità di carico dei barconi spinti, il limite di responsabilità di ogni barcone è ridotto, per le rivendicazioni derivanti da questo stesso evento, di 225 unità di conto[^10-3] per ogni tonnellata di capacità di carico del barcone spinto.
+- b) Se, conformemente all’articolo 6 paragrafo 1 lettera a) capoverso v), il limite di responsabilità per un battello munito di mezzi di propulsione meccanica che, al momento del danno, garantisce la propulsione ad altri battelli accoppiati a quest’ultimo, è maggiorato, per le rivendicazioni derivanti dall’evento, di 225 unità di conto[^10-4] per tonnellata di capacità di carico o per metro cubo di stazzamento dei battelli accoppiati, il limite di responsabilità per ogni battello accoppiato è ridotto, per le rivendicazioni derivanti dallo stesso evento, di 225 unità di conto[^10-5] per ogni tonnellata di capacità di carico o per ogni metro cubo di stazzamento del battello accoppiato.
 
-<sup>3.</sup> Per i limiti di responsabilità calcolati secondo l’articolo 7 si applicano per analogia i paragrafi 1 e 2. Il paragrafo 2 va tuttavia applicato tenendo presente che la base di calcolo deve essere di 400 unità di conto e non di 200 unità di conto.
+<sup>3.</sup> Per i limiti di responsabilità calcolati secondo l’articolo 7 si applicano per analogia i paragrafi 1 e 2. Il paragrafo 2 va tuttavia applicato tenendo presente che la base di calcolo deve essere di 450 unità di conto[^10-6] e non di 225 unità di conto[^10-7].
 
 <sup>4.</sup> Il limite di responsabilità calcolato secondo l’articolo 8 si applica all’insieme delle rivendicazioni derivanti da uno stesso evento nei riguardi della persona o delle persone di cui all’articolo 1 paragrafo 2 lettera a), rispetto al battello menzionato nell’articolo 8 e di chiunque delle cui azioni, negligenze o inadempienze essa o esse siano responsabili.
+
+[^10-1]: Aggiornato dalla mod. adottata dagli Stati membri il 1° giu. 2024, in vigore dal 1° mar. 2025 ([RU 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^10-2]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
+[^10-3]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
+[^10-4]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
+[^10-5]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
+[^10-6]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 400 unità di conto.
+[^10-7]: Limite di responsabilità conformemente alla mod. del 1° giugno 2024, entrato in vigore il 1° marzo 2025. Limite di responsabilità precedente: 200 unità di conto.
 
 #### Art. 11
 

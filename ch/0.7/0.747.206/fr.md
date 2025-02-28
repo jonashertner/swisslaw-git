@@ -4,11 +4,11 @@ title: Convention de Strasbourg du 27 septembre 2012 sur la limitation de la res
 short: CLNI 2012
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/302"
 language: fr
-version: 2024-08-01
+version: 2025-03-01
 adopted: 2012-09-27
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/302/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2024-302-20240801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/302/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/302/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2024-302-20250301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/302/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -21,7 +21,7 @@ RO **2024** 302; FF **2023** 999
 
 Conclue à Strasbourg le 27 septembre 2012 Approuvée par l’Assemblée fédérale le 22 décembre 2023[^t-1] Instrument de ratification déposé par la Suisse le 23 avril 2024 Entrée en vigueur pour la Suisse le 1<sup>er</sup> août 2024
 
-(État le 1<sup>er</sup> août 2024)
+(État le 1<sup>er</sup> mars 2025)
 
 [^t-1]: Art. 1, al. 1, de l’AF du 22 déc. 2023 ([RO 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256)).
 
@@ -108,7 +108,7 @@ Si une personne en droit de limiter sa responsabilité selon les règles de la p
 
 #### Art. 6
 
-**Limites générales**
+**Limites générales**[^6-1]
 
 <sup>1.</sup>
 
@@ -118,41 +118,56 @@ Les limites de responsabilité à l’égard des créances autres que celles men
 
   à l’égard des créances pour mort ou lésions corporelles:
 
-  - (i) pour un bateau non destiné au transport de marchandises, notamment un bateau à passagers, 400 unités de compte pour chaque mètre cube de déplacement d’eau du bateau à l’enfoncement maximal autorisé, majoré pour les bateaux munis de moyens mécaniques de propulsion de 1 400 unités de compte pour chaque KW de la puissance de leurs machines de propulsion,
-  - (ii) pour un bateau destiné au transport de marchandises, 400 unités de compte par tonne de port en lourd du bateau, majoré pour les bateaux munis de moyens mécaniques de propulsion de 1 400 unités de compte pour chaque KW de la puissance de leurs machines de propulsion,
-  - (iii) pour un pousseur ou remorqueur, 1 400 unités de compte pour chaque KW de la puissance de leurs machines de propulsion,
-  - (iv) pour un pousseur qui, au moment où le dommage a été causé, était accouplé avec des barges en convoi poussé, la limite de responsabilité calculée conformément à l’al. (iii) est majorée de 200 unités de compte par tonne de port en lourd des barges poussées; cette majoration n’est pas applicable dans la mesure où il est prouvé que le pousseur a fourni à l’une ou plusieurs de ces barges des services d’assistance ou de sauvetage,
-  - (v) pour un bateau muni de moyens mécaniques de propulsion qui, au moment où le dommage a été causé, assurait la propulsion d’autres bateaux accouplés à ce bateau, la limite de responsabilité calculée conformément aux alinéas (i), (ii) ou (iii) est majorée de 200 unités de compte par tonne de port en lourd ou par mètre cube de déplacement d’eau des autres bateaux; cette majoration n’est pas applicable dans la mesure où il est prouvé que ce bateau a fourni à l’un ou plusieurs des bateaux accouplés des services d’assistance ou de sauvetage,
+  - (i) pour un bateau non destiné au transport de marchandises, notamment un bateau à passagers, 450 unités[^6-2] de compte pour chaque mètre cube de déplacement d’eau du bateau à l’enfoncement maximal autorisé, majoré pour les bateaux munis de moyens mécaniques de propulsion de 1 576 unités[^6-3] de compte pour chaque KW de la puissance de leurs machines de propulsion,
+  - (ii) pour un bateau destiné au transport de marchandises, 450 unités[^6-4] de compte par tonne de port en lourd du bateau, majoré pour les bateaux munis de moyens mécaniques de propulsion de 1 576 unités[^6-5] de compte pour chaque KW de la puissance de leurs machines de propulsion,
+  - (iii) pour un pousseur ou remorqueur, 1 576 unités[^6-6] de compte pour chaque KW de la puissance de leurs machines de propulsion,
+  - (iv) pour un pousseur qui, au moment où le dommage a été causé, était accouplé avec des barges en convoi poussé, la limite de responsabilité calculée conformément à l’al. (iii) est majorée de 225 unités[^6-7] de compte par tonne de port en lourd des barges poussées; cette majoration n’est pas applicable dans la mesure où il est prouvé que le pousseur a fourni à l’une ou plusieurs de ces barges des services d’assistance ou de sauvetage,
+  - (v) pour un bateau muni de moyens mécaniques de propulsion qui, au moment où le dommage a été causé, assurait la propulsion d’autres bateaux accouplés à ce bateau, la limite de responsabilité calculée conformément aux alinéas (i), (ii) ou (iii) est majorée de 225 unités[^6-8] de compte par tonne de port en lourd ou par mètre cube de déplacement d’eau des autres bateaux; cette majoration n’est pas applicable dans la mesure où il est prouvé que ce bateau a fourni à l’un ou plusieurs des bateaux accouplés des services d’assistance ou de sauvetage,
   - (vi) pour les engins ou outillages flottants et mobiles au sens de l’art. premier par. 2 let. b) deuxième phrase, leur valeur au moment de l’événement;
 
 - b) à l’égard de toutes les autres créances, la moitié de la limite de responsabilité calculée conformément à la let. a);
 - c) lorsque la limite de responsabilité calculée conformément à la let. a) est insuffisante pour régler intégralement les créances y visées, la limite de responsabilité calculée conformément à la let. b) peut être utilisée pour régler le solde impayé des créances visées à la let. a) et ce solde impayé vient en concurrence avec les créances visées à la let. b);
-- d) en aucun cas, les limites de responsabilité ne peuvent être inférieures à 400 000 unités de compte à l’égard des créances pour mort ou lésions corporelles et à 200 000 unités de compte à l’égard de toutes les autres créances.
+- d) en aucun cas, les limites de responsabilité ne peuvent être inférieures à 450 400 unités[^6-9] de compte à l’égard des créances pour mort ou lésions corporelles et à 225 200 unités[^6-10] de compte à l’égard de toutes les autres créances.
 
 <sup>2.</sup> Toutefois, sans préjudice des droits relatifs aux créances pour mort ou lésions corporelles conformément au par. 1 let. c), un État partie peut stipuler dans sa législation nationale que les créances pour dommages causés aux ouvrages d’art des ports, bassins, voies navigables, écluses, barrages, ponts et aides à la navigation ont, sur les autres créances visées au par. 1 let. b), la priorité qui est prévue par cette législation.
 
 <sup>3.</sup> Les limites de responsabilité visées au par. 1 let. d) s’appliquent aussi à tout assistant fournissant des services d’assistance ou de sauvetage à un bateau et n’agissant ni à partir d’un bateau de navigation intérieure ni à partir d’un navire de mer ou à tout assistant agissant uniquement à bord du bateau auquel il fournit des services d’assistance ou de sauvetage.
 
+[^6-1]: Mis à jour par la mod. adoptée par les États parties le 1<sup>er</sup> juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^6-2]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 400 unités.
+[^6-3]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 1 400 unités.
+[^6-4]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 400 unités.
+[^6-5]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 1 400 unités
+[^6-6]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 1 400 unités.
+[^6-7]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
+[^6-8]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
+[^6-9]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 400 000 unités.
+[^6-10]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 000 unités.
+
 #### Art. 7
 
-**Limites applicables aux créances dues à un dommage découlant du transport de marchandises dangereuses**
+**Limites applicables aux créances dues à un dommage découlant du transport de marchandises dangereuses**[^7-1]
 
 <sup>1.</sup>
 
 Les limites de responsabilité pour un bateau transportant des marchandises dangereuses à l’égard des créances nées de dommages découlant directement ou indirectement de la nature dangereuse de ces marchandises, sont calculées comme suit:
 
-- a) à l’égard de créances pour mort ou lésions corporelles, le double de la limite de responsabilité calculée conformément à l’art. 6, par. 1, let. a), mais au minimum 10 millions d’unités de compte;
-- b) à l’égard de toutes les autres créances, le double de la limite de responsabilité calculée conformément à l’art. 6, par. 1, let. b), mais au minimum 10 millions d’unités de compte.
+- a) à l’égard de créances pour mort ou lésions corporelles, le double de la limite de responsabilité calculée conformément à l’art. 6, par. 1, let. a), mais au minimum 11 260 000 d’unités[^7-2] de compte;
+- b) à l’égard de toutes les autres créances, le double de la limite de responsabilité calculée conformément à l’art. 6, par. 1, let. b), mais au minimum 11 260 000 d’unités[^7-3] de compte.
 
 <sup>2.</sup> Lorsque la limite de responsabilité calculée conformément au par. 1 let. a), est insuffisante pour régler intégralement les créances y visées, la limite de responsabilité calculée conformément au par. 1 let. b), peut être utilisée pour régler le solde impayé des créances visées au par. 1 let. a), ce solde impayé venant en concurrence avec les créances visées au par. 1 let. b).
 
+[^7-1]: Mis à jour par la mod. adoptée par les États parties le 1<sup>er</sup> juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^7-2]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 10 millions d’unités.
+[^7-3]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 10 millions d’unités.
+
 #### Art. 8
 
-**Limites applicables aux créances des passagers**
+**Limites applicables aux créances des passagers**[^8-1]
 
-<sup>1.</sup> Toutefois, la limite de responsabilité ne peut être inférieure à 2 millions d’unités de compte.
+<sup>1.</sup> Toutefois, la limite de responsabilité ne peut être inférieure à 2 252 000 d’unités[^8-2] de compte.
 
-À l’égard des créances résultant de la mort ou de lésions corporelles des passagers d’un bateau et nées d’un même événement, la limite de responsabilité pour ce bateau est fixée à une somme de 100 000 unités de compte, multipliées par:
+À l’égard des créances résultant de la mort ou de lésions corporelles des passagers d’un bateau et nées d’un même événement, la limite de responsabilité pour ce bateau est fixée à une somme de 112 600[^8-3] unités de compte, multipliées par:
 
 - a) le nombre de passagers que le bateau est autorisé à transporter d’après le certificat du bateau, ou
 - b) si le nombre de passagers que le bateau est autorisé à transporter n’est pas prescrit, le nombre de passagers effectivement transportés au moment de l’événement.
@@ -163,6 +178,10 @@ Aux fins du présent article, «créances résultant de la mort ou de lésions c
 
 - a) en vertu d’un contrat de transport de passager, ou
 - b) qui, avec le consentement du transporteur, accompagne un véhicule ou des animaux vivants faisant l’objet d’un contrat de transport de marchandises.
+
+[^8-1]: Mis à jour par la mod. adoptée par les États parties le 1<sup>er</sup> juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^8-2]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 2 millions d’unités.
+[^8-3]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 100 000 unités.
 
 #### Art. 9
 
@@ -176,7 +195,7 @@ Aux fins du présent article, «créances résultant de la mort ou de lésions c
 
 #### Art. 10
 
-**Concours de créances**
+**Concours de créances**[^10-1]
 
 <sup>1.</sup>
 
@@ -185,12 +204,20 @@ Sans préjudice du par. 2, les limites de responsabilité calculées conforméme
 - a) à l’égard de la personne ou des personnes visées à l’art. premier par. 2 let. a) et de toute personne dont les faits, négligences ou fautes entraînent la responsabilité de celle‑ci ou de celles‑ci, ou
 - b) à l’égard du propriétaire d’un bateau qui fournit des services d’assistance ou de sauvetage à partir de ce bateau et à l’égard de l’assistant ou des assistants agissant à partir dudit bateau et de toute personne dont les faits, négligences ou fautes entraînent la responsabilité de celui‑ci ou de ceux‑ci, ou
 - c) à l’égard de l’assistant ou des assistants n’agissant pas à partir d’un bateau de navigation intérieure ou d’un navire de mer ou agissant uniquement à bord du bateau auquel des services d’assistance ou de sauvetage sont fournis et de toute personne dont les faits, négligences ou fautes entraînent la responsabilité de celui‑ci ou de ceux‑ci.
-- 2\. a) Lorsque, conformément à l’art. 6 par. 1 let. a) al. (iv), la limite de responsabilité pour un pousseur qui, au moment où le dommage a été causé, était accouplé avec des barges en convoi poussé, est majorée, à l’égard des créances nées de l’événement, de 200 unités de compte par tonne de port en lourd des barges poussées, la limite de responsabilité pour chacune des barges est réduite, à l’égard des créances nées de ce même événement, de 200 unités de compte pour chaque tonne de port en lourd de la barge poussée.
-- b) Lorsque, conformément à l’art. 6 par. 1 let. a) al. (v), la limite de responsabilité pour un bateau muni de moyens mécaniques de propulsion qui, au moment où le dommage a été causé, assurait la propulsion d’autres bateaux accouplés à ce bateau, est majorée, à l’égard des créances nées de l’événement, de 200 unités de compte par tonne de port en lourd ou par mètre cube de déplacement d’eau des bateaux accouplés, la limite de responsabilité pour chaque bateau accouplé est réduite, à l’égard des créances nées de ce même événement, de 200 unités de compte pour chaque tonne de port en lourd ou pour chaque mètre cube de déplacement d’eau du bateau accouplé.
+- 2\. a) Lorsque, conformément à l’art. 6 par. 1 let. a) al. (iv), la limite de responsabilité pour un pousseur qui, au moment où le dommage a été causé, était accouplé avec des barges en convoi poussé, est majorée, à l’égard des créances nées de l’événement, de 225 unités[^10-2] de compte par tonne de port en lourd des barges poussées, la limite de responsabilité pour chacune des barges est réduite, à l’égard des créances nées de ce même événement, de 225 unités[^10-3] de compte pour chaque tonne de port en lourd de la barge poussée.
+- b) Lorsque, conformément à l’art. 6 par. 1 let. a) al. (v), la limite de responsabilité pour un bateau muni de moyens mécaniques de propulsion qui, au moment où le dommage a été causé, assurait la propulsion d’autres bateaux accouplés à ce bateau, est majorée, à l’égard des créances nées de l’événement, de 225 unités[^10-4] de compte par tonne de port en lourd ou par mètre cube de déplacement d’eau des bateaux accouplés, la limite de responsabilité pour chaque bateau accouplé est réduite, à l’égard des créances nées de ce même événement, de 225 unités[^10-5] de compte pour chaque tonne de port en lourd ou pour chaque mètre cube de déplacement d’eau du bateau accouplé.
 
-<sup>3.</sup> Les par. 1 et 2 s’appliquent par analogie aux limites de responsabilité calculées conformément à l’art. 7. Le par. 2 s’applique toutefois en prenant pour base 400 unités de compte au lieu de 200 unités de compte.
+<sup>3.</sup> Les par. 1 et 2 s’appliquent par analogie aux limites de responsabilité calculées conformément à l’art. 7. Le par. 2 s’applique toutefois en prenant pour base 450 unités[^10-6] de compte au lieu de 225 unités[^10-7] de compte.
 
 <sup>4.</sup> La limite de responsabilité calculée conformément à l’art. 8 s’applique à l’ensemble de toutes les créances nées d’un même événement à l’égard de la personne ou des personnes visées à l’art. premier par. 2 let. a), s’agissant du bateau auquel il est fait référence à l’art. 8 et de toute personne dont les faits, négligences ou fautes entraînent la responsabilité de celle-ci ou de celles-ci.
+
+[^10-1]: Mis à jour par la mod. adoptée par les États parties le 1<sup>er</sup> juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 113](https://fedlex.data.admin.ch/eli/oc/2025/113)).
+[^10-2]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
+[^10-3]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
+[^10-4]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
+[^10-5]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
+[^10-6]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 400 unités.
+[^10-7]: Limite de responsabilité selon la mod. du 1<sup>er</sup> juin 2024, entrée en vigueur le 1<sup>er</sup> mars 2025. Limite de responsabilité précédente: 200 unités.
 
 #### Art. 11
 
@@ -198,7 +225,7 @@ Sans préjudice du par. 2, les limites de responsabilité calculées conforméme
 
 <sup>1.</sup> La limitation de la responsabilité peut être invoquée même si le fonds de limitation visé à l’art. 12 n’a pas été constitué. Toutefois, un État partie peut stipuler dans sa législation nationale que lorsqu’une action est intentée devant ses tribunaux pour obtenir le paiement d’une créance soumise à limitation, une personne responsable ne peut invoquer le droit de limiter sa responsabilité que si un fonds de limitation a été constitué conformément aux dispositions de la présente Convention ou est constitué lorsque le droit de limiter la responsabilité est invoqué.
 
-2 Si la limitation de la responsabilité est invoquée sans constitution d’un fonds de limitation, les dispositions de l’art. 13 s’appliquent.
+<sup>2.</sup> Si la limitation de la responsabilité est invoquée sans constitution d’un fonds de limitation, les dispositions de l’art. 13 s’appliquent.
 
 ## Chapitre III Le fonds de limitation
 
