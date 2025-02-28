@@ -4,7 +4,7 @@ number: "951.01"
 title: LOI du 20.06.1995 organisant la Banque Cantonale Vaudoise (LBCV)
 short: LBCV
 language: fr
-version: 2021-03-01
+version: 2025-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/951.01?id=88fb1d2a-f88f-45b7-b149-76fc03096249"
 ---
 
@@ -167,7 +167,7 @@ décrète
 
 <sup>4</sup> Sur proposition du Conseil d'administration, le Conseil d'Etat nomme le secrétaire de ce Conseil, qui est également celui de l'Assemblée générale des actionnaires.
 
-<sup>5</sup> Le président et les membres du Conseil d'administration sont nommés pour quatre ans. Ils sont rééligibles; toutefois, la durée totale de leur mandat ne peut excéder seize ans. Ils sont en outre tenus de se démettre à la fin de l'année civile où ils atteignent 70 ans.
+<sup>5</sup> Le président et les membres du Conseil d'administration sont nommés pour quatre ans. Ils sont rééligibles; toutefois, la durée totale de leur mandat ne peut excéder douze ans.
 
 <sup>6</sup> Le président du Conseil d'administration n'exerce aucune activité entraînant un conflit d'intérêts avec ceux de la Banque. Chaque membre du Conseil d'administration doit régler ses affaires personnelles et professionnelles de manière à éviter les conflits d'intérêts avec la Banque.
 
@@ -238,7 +238,7 @@ décrète
 
 <sup>1</sup> La Direction générale est composée d'un président nommé par le Conseil d'Etat, sur proposition du Conseil d'administration, et de membres nommés par le Conseil d'administration.
 
-<sup>2</sup> Le président et les membres de la direction générale sont tenus de se démettre de leurs fonctions à la fin de l'année civile au cours de laquelle ils atteignent 65 ans.
+<sup>2</sup> Le président et les membres de la direction générale sont tenus de se démettre de leurs fonctions à l'âge prévu de 65 ans. Une dérogation est possible jusqu'à 68 ans, sur décision des organes compétents.
 
 [^15-1]: Modif. 2 du 30.01.2007: Modification Art. 16; entrée en vigueur au 01.04.2007 · Modif. 5 du 12.11.2024: Modification Al. 2; entrée en vigueur au 01.03.2025
 
