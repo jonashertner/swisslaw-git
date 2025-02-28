@@ -4,7 +4,7 @@ number: "935.31.1"
 title: "RÈGLEMENT du 09.12.2009 d'exécution de la loi du 26 mars 2002 sur les auberges et les débits de boissons (RLADB)"
 short: RLADB
 language: fr
-version: 2024-05-01
+version: 2025-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31.1?id=aef50c2b-75d1-4f80-9d0f-eb046d1df3e0"
 ---
 
@@ -238,11 +238,28 @@ arrête
 
 [^12-1]: Modif. 4 du 20.12.2017: Modification Al. t,1; entrée en vigueur au 01.01.2018; Introduction Al. 2; entrée en vigueur au 01.01.2018
 
+#### Art. 13a
+
+**Licence particulière de capite de vigne [^13-1]**
+
+<sup>1</sup> L'exploitation d'un établissement dans une ancienne capite de vigne est soumise à l'obtention d'une licence particulière (art. 21 de la loi).
+
+<sup>2</sup> L'octroi d'une telle licence est soumise au respect des conditions suivantes :
+
+- a. horaire d'exploitation limité en soirée à 22h00, sous réserve de dérogation municipale exceptionnelle et ponctuelle ;
+- b. exploitation saisonnière, d'avril à octobre ;
+- c. service des propres vins du vigneron uniquement ;
+- d. service restreint de mets, soit ceux ne nécessitant ni recours au froid ou à la chaleur, ni transformation ou préparation sur place.
+
+<sup>3</sup> Les règles applicables en matière d'aménagement du territoire et de construction sont réservées, notamment les exigences liées aux procédures de changement d'affectation.
+
+[^13-1]: Modif. 7 du 15.01.2025: Introduction Art. 13a; entrée en vigueur au 01.03.2025
+
 #### Art. 14
 
-**… [^13-1]**
+**… [^13a-1]**
 
-[^13-1]: Modif. 1 du 01.07.2015: Modification Al. 1 e; entrée en vigueur au 01.07.2015 · Modif. 4 du 20.12.2017: Abrogation Art. 14; entrée en vigueur au 01.01.2018
+[^13a-1]: Modif. 1 du 01.07.2015: Modification Al. 1 e; entrée en vigueur au 01.07.2015 · Modif. 4 du 20.12.2017: Abrogation Art. 14; entrée en vigueur au 01.01.2018
 
 ## Titre IV Traiteurs et débits à l'emporter (art. 23 à 27 de la loi)
 
