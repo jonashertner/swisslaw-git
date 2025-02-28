@@ -4,13 +4,12 @@ number: "970.111"
 title: Verordnung über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken
 short: "Gastgewerbeverordnung, GGV"
 language: de
-version: 2024-07-01
-valid_until: 2025-02-28
-version_adopted: 2024-03-13
+version: 2025-03-01
+version_adopted: 2025-01-22
 adopted: 1998-03-25
 in_force: 1998-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/970.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3524/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3742/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3524/pdf_file"
 
 (Gastgewerbeverordnung, GGV)
 
-Vom 25.03.1998 (Stand 01.07.2024)
+Vom 25.03.1998 (Stand 01.03.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -57,9 +56,13 @@ beschliesst:
 
 <sup>1</sup> Ein Fähigkeitsausweis ist nicht erforderlich, wenn der Betrieb
 
-- a) über Ausschankräume mit einer Gesamtfläche von maximal 25 m² verfügt oder maximal 16 Sitzplätze und keine Stehplätze anbietet;
+- a) über Ausschankräume mit einer Gesamtfläche von maximal 25 m² verfügt oder maximal 16 Sitzplätze und keine Stehplätze anbietet oder die wöchentliche Öffnungszeit von 20 Stunden nicht übersteigt;
 - b) im Sortiment maximal 3 einzelne vergorene alkoholhaltige Getränke und keine Spirituosen und spirituosenhaltigen Getränke führt und
 - c) selbst gekochte oder sonstwie selbst verarbeitete Lebensmittel ausschliesslich gleichentags abgibt.
+
+<sup>2</sup> In Betrieben und Einrichtungen, die dem Gesetz über die familienergänzende Kinderbetreuung (Kinderbetreuungsgesetz, KiBeG) vom 12. Januar 2016[^3-1] unterstellt sind, ist für die Erbringung der Verpflegung im Rahmen ihrer Betreuungsaufgabe kein Fähigkeitsausweis erforderlich.
+
+[^3-1]: SAR [815.300](https://gesetzessammlungen.ag.ch/data/815.300/de)
 
 #### § 4
 
@@ -75,7 +78,7 @@ beschliesst:
 
 <sup>1</sup> Im Falle des Todes, bei unfall- oder krankheitsbedingtem Ausfall sowie bei anderen begründeten Abwesenheiten der Person, die den Fähigkeitsausweis besitzt, kann der Gastgewerbebetrieb vorübergehend durch eine geeignete Person weitergeführt werden.
 
-<sup>2</sup> Einer Person, die neu einen Gastgewerbebetrieb übernehmen will und eine ausreichende praktische Tätigkeit gemäss § 10 Abs. 1 nachweist, jedoch nicht über den erforderlichen Fähigkeitsausweis verfügt, erlaubt der Gemeinderat die Betriebsführung während einer Frist von 12 Monaten. Innert dieser Frist ist der Fähigkeitsausweis zu erwerben.
+<sup>2</sup> Einer Person, die neu einen Gastgewerbebetrieb übernehmen will, jedoch nicht über den erforderlichen Fähigkeitsausweis verfügt, erlaubt der Gemeinderat die Betriebsführung während einer Frist von 12 Monaten. Innert dieser Frist ist der Fähigkeitsausweis zu erwerben.
 
 ### 1.3. Aufnahme der Wirtetätigkeit
 
@@ -132,11 +135,11 @@ beschliesst:
 
 **Zulassung zur Wirtefachprüfung**
 
-<sup>1</sup> Zur Wirtefachprüfung wird zugelassen, wer eine praktische Tätigkeit von mindestens sechs Monaten nachweist, bei der die erforderlichen praktischen Kenntnisse über die Hygiene erworben werden konnten.
+<sup>1</sup> …
 
-<sup>2</sup> Über die Zulassung zur Wirtefachprüfung entscheidet das AVS.
+<sup>2</sup> …
 
-<sup>3</sup> Der Zulassungsentscheid steht unter dem Vorbehalt der fristgerechten Zahlung der Prüfungsgebühr.
+<sup>3</sup> Eine fristgerechte Zahlung der Prüfungsgebühr ist Voraussetzung für die Zulassung zur Wirtefachprüfung.
 
 #### § 10a
 
@@ -213,7 +216,9 @@ beschliesst:
 
 **Erteilung des Fähigkeitsausweises**
 
-<sup>1</sup> Die erfolgreichen Kandidaten und Kandidatinnen erhalten einen Fähigkeitsausweis.
+<sup>1</sup> Der Fähigkeitsausweis wird nach erfolgreich bestandener Wirtefachprüfung und dem Nachweis einer mindestens halbjährigen Tätigkeit in einem Verpflegungsbetrieb oder einem ähnlichen Betrieb erteilt.
+
+<sup>2</sup> Das Anrecht auf Erteilung des Fähigkeitsausweises fällt dahin, wenn nicht innert einer Frist von drei Jahren nach bestandener Wirtefachprüfung der Nachweis der praktischen Tätigkeit gemäss Absatz 1 erbracht wird.
 
 ### 1.5. Anerkennung von Fähigkeitsausweisen
 
