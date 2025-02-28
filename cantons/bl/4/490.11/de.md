@@ -4,13 +4,12 @@ number: "490.11"
 title: Energieverordnung
 short: EnV BL
 language: de
-version: 2023-06-10
-valid_until: 2025-02-28
-version_adopted: 2023-05-30
+version: 2025-03-01
+version_adopted: 2025-02-18
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490.11"
-pdf: "https://bl.clex.ch/api/de/versions/4523/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4523/pdf_file"
 
 (EnV BL)
 
-Vom 20.12.2016 (Stand 10.06.2023)
+Vom 20.12.2016 (Stand 01.03.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -98,7 +97,11 @@ beschliesst:
 
 **Grossverbraucher**
 
-<sup>1</sup> Grossverbraucher müssen innerhalb von 5 Jahren nach Inkrafttreten dieser Verordnung die Bestimmungen gemäss § 5 des Energiegesetzes[^7-1] umgesetzt haben.
+<sup>1</sup> Grossverbraucher müssen die Bestimmungen gemäss § 5 des Energiegesetzes[^7-1] umsetzen. Das Amt für Umweltschutz und Energie informiert Grossverbraucher über ihre Pflichten und legt die Fristen sowie weitere Rahmenbedingungen fest.
+
+<sup>2</sup> Die Verbrauchsanalyse hat durch eine Fachperson zu erfolgen. Das Amt für Umweltschutz und Energie legt die Anforderungen an die Verbrauchsanalyse, an die Massnahmen zur Verbrauchsoptimierung und die Fachperson fest.
+
+<sup>3</sup> Der Kanton kann den Gemeinden auf Antrag die für eine kommunale Energieplanung erforderlichen Daten aus dem Vollzug des Grossverbrauchermodells zur Verfügung stellen, namentlich den jährlichen Energiebedarf, Angaben zu benötigten Temperaturen und allfällige, relevante saisonale Unterschiede.
 
 [^7-1]: [SGS 490](https://bl.clex.ch/data/490/de/art5)
 
@@ -106,11 +109,20 @@ beschliesst:
 
 **Solarkataster**
 
-<sup>1</sup> Der Kanton führt einen Solarkataster.
+<sup>1</sup> Der Kanton führt verschiedene Kataster, die der langfristigen Entwicklung einer nachhaltigen Energieversorgung und der Erfüllung der Ziele nach § 2 des Energiegesetzes[^8-1] dienen, insbesondere:
 
-<sup>2</sup> Der Solarkataster zeigt die solaren Potenziale für Photovoltaik- und solarthermische Anlagen auf den Gebäuden im Kanton auf.
+- a. Solarkataster;
+- b. Abwärme aus Abwasserreinigungsanlagen;
+- c. Übersicht zur Nutzung der Erdwärme;
+- d. Kataster zur Erdwärmesondendichte;
+- e. Grundwasserpotenziale im Heiz- und Kühlfall;
+- f. Kataster mit Fernwärmegebieten.
 
-<sup>3</sup> Der Solarkataster wird über das kantonale Geoportal der Allgemeinheit zugänglich gemacht.
+<sup>2</sup> Die Kataster zeigen spezifische Potenziale und Einschränkungen mit Raumbezug auf.
+
+<sup>3</sup> Die Kataster werden über das kantonale Geoportal der Allgemeinheit kostenlos zugänglich gemacht.
+
+[^8-1]: [SGS 490](https://bl.clex.ch/data/490/de/art2)
 
 ## 3 Energieberatung
 
@@ -204,11 +216,19 @@ beschliesst:
 
 <sup>3</sup> Gesuche für Erleichterungen müssen eine nachvollziehbare Energiebilanz, Vorschläge für angemessene Wärmeschutzmassnahmen sowie Vorschläge für gleichwertige Kompensationsmassnahmen für den Mehrbedarf an Energie wegen der Erleichterungen enthalten.
 
+#### § 14a
+
+**Ausnahmen von der Pflicht zur Nutzung der Sonnenenergie bei Gebäuden nach Art. 45a Energiegesetz[^14a-1]**
+
+<sup>1</sup> Ist die Erstellung einer Solaranlage gemäss Art. 45a Energiegesetz des Bundes nicht mit den Vorschriften über den Denkmal- oder Ortsbildschutz vereinbar, technisch nicht möglich oder mit unverhältnismässig hohen Kosten verbunden, erteilt das Amt für Umweltschutz und Energie auf begründetes Gesuch hin eine Ausnahmebewilligung.
+
+[^14a-1]: [SR 730.0](https://db.clex.ch/link/Bund/730.0/de)
+
 #### § 15
 
 **Kühl- und Tiefkühlräume**
 
-<sup>1</sup> Bei Kühl- und Tiefkühlräumen darf der mittlere Wärmezufluss durch die umschliessenden Bauteile pro Temperaturzone 5 Watt/m² nicht überschreiten.
+<sup>1</sup> Werden Kühlräume auf eine Temperatur von weniger als 8 °C gekühlt, darf der mittlere Wärmezufluss durch die umschliessenden Bauteile pro Temperaturzone 5 W/m² nicht überschreiten.
 
 <sup>2</sup> Für die Berechnung ist von der Auslegungstemperatur des gekühlten Raumes einerseits und den folgenden Umgebungstemperaturen andererseits auszugehen:
 
@@ -278,6 +298,12 @@ beschliesst:
 <sup>2</sup> Ausgenommen sind Hallenheizungen mittels Bandstrahler sowie Heizungssysteme für Gewächshäuser und ähnliches, sofern diese nachgewiesenermassen eine höhere Vorlauftemperatur benötigen.
 
 <sup>3</sup> Für Räume oder Raumgruppen mit unterschiedlichen Nutzungen oder verschiedenen Betriebszeiten muss die Wärmeverteilung so ausgelegt werden, dass ein individueller Betrieb möglich ist.
+
+<sup>4</sup> Ein Rohrleitungsstück, das eine warmgehaltene mit einer nicht warmgehaltenen Leitung verbindet, ist durch einen Wärmesiphon nach der Norm SIA 385/1 «Anlagen für Trinkwarmwasser in Gebäuden – Grundlagen und Anforderungen» zu trennen.
+
+<sup>5</sup> Erfolgt die Wärmeverteilung bei der Heizungsanlage über ein wassergeführtes System oder bei der Warmwasserversorgung durch ein Zirkulationssystem, ist vor der Inbetriebnahme ein hydraulischer Abgleich der Stränge durchzuführen.
+
+<sup>6</sup> Für die Kompaktheit der Warmwasserspeicherung und -verteilung darf die Warmwasser-Verlustzahl nach der Norm SIA 385/2 «Anlagen für Trinkwarmwasser in Gebäuden – Warmwasserbedarf, Gesamtanforderungen und Auslegung» 50 % nicht übersteigen.
 
 #### § 22
 
@@ -420,7 +446,7 @@ beschliesst:
 
 <sup>1</sup> Heizungen im Freien zur Erwärmung von Weichen öffentlicher Verkehrsmittel benötigen keine Bewilligung.
 
-<sup>2</sup> Elektrisch betriebene Heizstrahler sind für Betriebe der Gastro- und Event-Branche befristet bis zum 30. Juni 2022 ohne Bewilligung zugelassen.
+<sup>2</sup> …
 
 #### § 33
 
@@ -428,9 +454,53 @@ beschliesst:
 
 <sup>1</sup> Als Freiluftbäder gelten Wasserbecken mit einem Inhalt von mehr als 8 m³.
 
-<sup>2</sup> Elektrische Wärmepumpen dürfen zur Beheizung von Freiluftbädern eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
+<sup>2</sup> …
 
 <sup>3</sup> Bei Bädern, die auch im Winter beheizt werden, darf der mittlere U-Wert des Beckens inkl. Abdeckung höchstens 0,6 Watt/m²xK betragen.
+
+#### § 33a
+
+**Gebäudeautomation**
+
+<sup>1</sup> Neubauten der Kategorien III–XII (SIA 380/1) mit mindestens 1'000 m² Energiebezugsfläche sind mit Einrichtungen zur Gebäudeautomation auszurüsten, die insbesondere folgende Überwachungsfunktionen aufweisen:
+
+- a. Erfassung der Energieverbrauchsdaten getrennt nach Hauptenergieträger;
+- b. Ermittlung der Energieeffizienz-Kennzahlen der Wärmepumpen und Kältemaschinen;
+- c. Ermittlung der Energieeffizienz-Kennzahlen von Wärmerückgewinnungs- und Abwärmenutzungsanlagen;
+- d. Erfassung der Betriebszeiten der Hauptkomponenten für die Aufbereitung und Verteilung der Wärme, Kälte und Luft;
+- e. Erfassung der wichtigsten Vor- und Rücklauftemperaturen sowie einiger repräsentativer Raumtemperaturen und der Aussentemperatur;
+- f. benutzerfreundliche Darstellung der in Bst. a–e erwähnten Daten an einer zentralen Stelle, in mindestens folgender Granularität: Jahr, Monat, Woche, Tag und Stunde;
+- g. benutzerfreundliche Vergleichsmöglichkeiten mit aussagekräftigen Vorperioden in der Darstellung nach Bst. f.
+
+<sup>2</sup> Die Erhebung der in Abs. 1 Bst. a–e genannten Daten ist in einem Messkonzept darzulegen.
+
+<sup>3</sup> Die Einhaltung der Pflichten gemäss Abs. 1 ist im ordentlichen Baubewilligungsverfahren nachzuweisen.
+
+<sup>4</sup> Ist die Installation einer Gebäudeautomation nach Abs. 1 technisch nicht möglich oder mit unverhältnismässig hohen Kosten verbunden, erteilt das Amt für Umweltschutz und Energie auf begründetes Gesuch hin eine Ausnahmebewilligung.
+
+#### § 33b
+
+**Betriebsoptimierung**
+
+<sup>1</sup> Eine Betriebsoptimierung umfasst die Überprüfung der Einstell- und Verbrauchswerte der Anlagen für:
+
+- a. Heizung;
+- b. Lüftung;
+- c. Klima;
+- d. Kälte;
+- e. Sanitär;
+- f. Elektro;
+- g. Gebäudeautomation.
+
+<sup>2</sup> Die Betriebsoptimierung hat durch eine Fachperson zu erfolgen. Das Amt für Umweltschutz und Energie legt die Anforderungen an die Fachperson fest.
+
+<sup>3</sup> Die Durchführung der Betriebsoptimierung ist in einem Bericht festzuhalten, der über die Arbeiten Auskunft gibt. Zudem muss die Berichterstattung eine Angabe über die Entwicklung des Energieverbrauchs enthalten.
+
+<sup>4</sup> Besteht eine durch das Amt für Umweltschutz und Energie vorgegebene Form der Berichterstattung, ist diese zu verwenden.
+
+<sup>5</sup> Eine periodische Betriebsoptimierung ist alle 5 Jahre vorzunehmen.
+
+<sup>6</sup> Der mittlere Elektrizitätsverbrauch über die vergangenen 3 Jahre bildet die Grundlage für die Feststellung einer Pflicht zur Betriebsoptimierung.
 
 ## 5 Verteilung von Elektrizität
 
@@ -445,6 +515,24 @@ beschliesst:
 <sup>3</sup> Beim Ersatz von Teilen der Anlage zur Erhaltung der Betriebstüchtigkeit bleibt der Besitzstand gewährt.
 
 [^34-1]: [SGS 490](https://bl.clex.ch/data/490/de)
+
+## 5a Gewinnung von Energie aus dem Untergrund
+
+#### § 34a
+
+**Anforderungen an die Nutzung der Energie aus dem Untergrund**
+
+<sup>1</sup> Bei Erdsonden legt das Amt für Umweltschutz und Energie mit der gewässerschutzrechtlichen Bewilligung die jeweils einzuhaltenden Anforderungen an die Bohrung und Erstellung der Anlage fest. Es kann insbesondere:
+
+- a. eine elektronische Druck- und Durchflussprüfung verlangen;
+- b. die Art und Menge der verwendeten Hinterfüllung bestimmen;
+- c. ein Bohrprotokoll mit eingemessenen Bohrstandorten einfordern.
+
+<sup>2</sup> Bei Anlagen zur Wärmespeicherung oder aktiven Regeneration kann das Amt für Umweltschutz und Energie Wärmemessungsinstallationen sowie ein Monitoring verlangen, falls die in den Untergrund zugeführte Wärme zu einer Erwärmung von Grund- oder Oberflächengewässer führen könnte.
+
+<sup>3</sup> Das Amt für Umweltschutz und Energie darf die geologischen Primärdaten und die prozessierten geologischen Primärdaten anderen, staatlichen Institutionen und Forschungseinrichtungen zur Verfügung stellen. Diese stellen sicher, dass die Daten zweckbestimmt eingesetzt und nicht ohne die Zustimmung der Bewilligungsinhaberin oder des Bewilligungsinhabers an Dritte weitergegeben werden.
+
+<sup>4</sup> Das Amt für Umweltschutz und Energie hört vor der Erteilung von Konzessionen und Bewilligungen für die Nutzung des mitteltiefen und tiefen Untergrunds die betroffenen Gemeinden an und stellt diesen nach einem Entscheid die Unterlagen zur Verfügung.
 
 ## 6 Vollzug und Rechtspflege
 
@@ -472,7 +560,13 @@ beschliesst:
 
 <sup>1</sup> Jede natürliche und juristische Person ist verpflichtet, die für den Vollzug der kantonalen Energiegesetzgebung notwendigen Auskünfte zu erteilen.
 
-<sup>2</sup> Für die Führung der kantonalen Energiestatistik ist der zuständigen Behörde auf Verlangen Auskunft über Energiedaten von Bauten und Anlagen zu erteilen, insbesondere Angaben zum Energieträger, zum Energieverbrauch und zum Verwendungszweck.
+<sup>2</sup> Für die Führung der kantonalen Energiestatistik und die Überprüfung der Ziele nach § 2 des Energiegesetzes[^37-1] ist der zuständigen Behörde auf deren Verlangen hin Auskunft über Energiedaten zu erteilen, insbesondere Angaben zum
+
+- a. Energieträger;
+- b. Energieverbrauch;
+- c. Verwendungszweck.
+
+[^37-1]: [SGS 490](https://bl.clex.ch/data/490/de/art2)
 
 #### § 38
 
