@@ -4,13 +4,12 @@ number: "490"
 title: Energiegesetz
 short: EnG BL
 language: de
-version: 2020-05-01
-valid_until: 2025-02-28
-version_adopted: 2020-01-30
+version: 2025-03-01
+version_adopted: 2023-10-19
 adopted: 2016-06-16
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490"
-pdf: "https://bl.clex.ch/api/de/versions/3913/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3913/pdf_file"
 
 (EnG BL)
 
-Vom 16.06.2016 (Stand 01.05.2020)
+Vom 16.06.2016 (Stand 01.03.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -36,9 +35,9 @@ beschliesst:[^ingress-2]
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt langfristig die Gewährleistung einer hohen Versorgungssicherheit im Kantonsgebiet mittels einer diversifizierten, im volkswirtschaftlichen Interesse liegenden, nachhaltigen, effizienten sowie umweltschonenden Energieversorgung.
+<sup>1</sup> Dieses Gesetz bezweckt die Gewährleistung der Versorgungssicherheit im Kantonsgebiet mittels einer diversifizierten, im volkswirtschaftlichen Interesse liegenden, nachhaltigen, effizienten sowie umweltschonenden Energieversorgung.
 
-<sup>2</sup> Zur Erreichung der Zwecksetzung stehen in dieser Reihenfolge die Einsparung von Energie, die Verbesserung der Energieeffizienz und eine möglichst weitgehende Deckung des Energiebedarfs durch anfallende erneuerbare Energien im Vordergrund.
+<sup>2</sup> Zur Erreichung der Zwecksetzung stehen die Einsparung von Energie, die Verbesserung der Energieeffizienz und eine möglichst weitgehende Deckung des Energiebedarfs durch anfallende erneuerbare Energien und deren Speicherung im Vordergrund.
 
 <sup>3</sup> Bei der Anwendung dieses Gesetzes sind die Grundsätze der Nachhaltigkeit, der Verhältnismässigkeit und der wirtschaftlichen Tragbarkeit zu berücksichtigen. Zudem berücksichtigt der Regierungsrat den Stand der Technik und stimmt seine Festlegungen mit den anderen Kantonen ab.
 
@@ -46,13 +45,15 @@ beschliesst:[^ingress-2]
 
 **Ziele und Wirksamkeitskontrolle**
 
+<sup>1<sup>bis</sup></sup> Die Entwicklung des Endenergieverbrauchs im Kanton muss bis zum Jahr 2050 das Netto-Null-Emissionsziel ermöglichen.
+
 <sup>1</sup> Der Endenergieverbrauch im Kanton ohne Mobilität ist bis zum Jahr 2050 um 40 % gegenüber dem Jahr 2000 (6‘500 GWh) zu reduzieren.
 
-<sup>2</sup> Der Anteil erneuerbarer Energien am Gesamtenergieverbrauch (ohne Mobilität) soll bis zum Jahr 2030 auf mindestens 40 % gesteigert werden.
+<sup>2</sup> Der Anteil erneuerbarer Energien am Gesamtenergieverbrauch (ohne Mobilität) soll bis zum Jahr 2030 auf mindestens 70 % gesteigert werden.
 
 <sup>3</sup> Im Gebäudebereich soll bis zum Jahr 2030 der Heizwärmebedarf für Neubauten auf durchschnittlich 20 kWh pro Quadratmeter Energiebezugsfläche und Jahr gesenkt werden.
 
-<sup>4</sup> Im Gebäudebereich soll bis zum Jahr 2050 der nicht erneuerbare Heizwärmebedarf für bestehende Bauten auf durchschnittlich 40 kWh pro Quadratmeter Energiebezugsfläche und Jahr gesenkt werden.
+<sup>4</sup> Im Gebäudebereich soll bis zum Jahr 2050 der Heizwärmebedarf für bestehende Bauten auf durchschnittlich 40 kWh pro Quadratmeter Energiebezugsfläche und Jahr gesenkt werden.
 
 <sup>5</sup> Der Kanton strebt an, die Abhängigkeit von importierter nicht erneuerbarer Energie so weit wie möglich unter Einbezug der volkswirtschaftlichen Interessen zu reduzieren.
 
@@ -87,7 +88,7 @@ beschliesst:[^ingress-2]
 
 **Energieplanung der Gemeinden**
 
-<sup>1</sup> Die Gemeinden können für ihr Gebiet oder ihre Region eine eigene Energieplanung erstellen.
+<sup>1</sup> Die Gemeinden, die über ein Gasverteilnetz verfügen, haben innert 5 Jahren nach Inkrafttreten eine Energieplanung für ihr Gebiet oder ihre Region zu erstellen. Die übrigen Gemeinden können eine Energieplanung für ihr Gebiet oder ihre Region erstellen. Für die Energieplanung stellt der Kanton den Gemeinden die bei ihm vorhandenen, energieplanerisch relevanten Daten und einen Leitfaden kostenfrei zur Verfügung.
 
 <sup>2</sup> Die Energieplanung der Gemeinden bedarf der Genehmigung der Bau- und Umweltschutzdirektion, welche die Planung auf ihre Übereinstimmung mit übergeordnetem Recht und der Energieplanung des Kantons überprüft.
 
@@ -203,6 +204,8 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Heizungen im Freien für Bäder werden bewilligt, wenn sie mit gleichwertiger erneuerbarer Energie oder nicht anders nutzbarer Abwärme betrieben werden.
 
+<sup>2<sup>bis</sup></sup> Elektrische Wärmepumpen dürfen zur Beheizung von Freiluftbädern eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
+
 <sup>3</sup> Bestehende Heizungen und Kühlungen sind bei einem Ersatz oder einem Umbau gemäss Abs. 1 und Abs. 2 anzupassen.
 
 <sup>4</sup> Der Regierungsrat kann Ausnahmen vorsehen oder im Einzelfall bewilligen.
@@ -254,6 +257,29 @@ beschliesst:[^ingress-2]
 
 <sup>5</sup> Die kantonale Behörde kann Ausnahmen bewilligen.
 
+#### § 19a
+
+**Gebäudeautomation**
+
+<sup>1</sup> Im Hinblick auf einen möglichst tiefen Energieverbrauch sind Neubauten der Kategorien III–XII (SIA 380/1) mit Einrichtungen zur Gebäudeautomation auszurüsten, soweit es technisch möglich und wirtschaftlich zumutbar ist.
+
+<sup>2</sup> Die Verordnung regelt das Verfahren und die weiteren Einzelheiten.
+
+#### § 19b
+
+**Betriebsoptimierung**
+
+<sup>1</sup> In neuen und bestehenden Nichtwohnbauten mit einem jährlichen Elektrizitätsverbrauch zwischen 0,2 und 0,5 GWh ist periodisch eine Betriebsoptimierung für die Gewerke Heizung, Lüftung, Klima, Kälte, Sanitär, Elektro und Gebäudeautomation vorzunehmen. Bei neuen Nichtwohnbauten ist die Betriebsoptimierung bis spätestens 3 Jahre nach Inbetriebsetzung, bei bestehenden Nichtwohnbauten innert 3 Jahren nach Inkrafttreten dieser Bestimmung ein erstes Mal durchzuführen.
+
+<sup>2</sup> Von Abs. 1 ausgenommen sind:
+
+- a. Grossverbraucher, die mit der zuständigen Behörde eine Vereinbarung im Sinne von § 5 abgeschlossen haben;
+- b. Verbraucher, die auf freiwilliger Basis eine Zielvereinbarung abgeschlossen haben oder bereits eine systematische Betriebsoptimierung durchführen.
+
+<sup>3</sup> Die Dokumentation zu den Betriebsoptimierungen ist während 10 Jahren aufzubewahren. Sie ist der Bau- und Umweltschutzdirektion auf Verlangen vorzulegen.
+
+<sup>4</sup> Die Verordnung regelt das Verfahren und die weiteren Einzelheiten.
+
 ## 5 Standorte für Energiegewinnungsanlagen aus übergeordnetem Interesse
 
 #### § 20
@@ -282,11 +308,15 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Als Untergrund gilt das Erdinnere ausserhalb des nach Privatrecht geschützten Eigentumsbereichs.
 
-<sup>3</sup> Bei der Energiegewinnung aus dem Untergrund und Energiespeicherung wird zwischen oberflächennahem Untergrund (&lt; 600 m) und tiefem Untergrund (&gt; 600 m) unterschieden.
+<sup>3</sup> Bei der Energiegewinnung aus dem Untergrund und der Energiespeicherung im Untergrund wird unterschieden zwischen:
 
-<sup>4</sup> Die Nutzung des oberflächennahen Untergrunds umfasst insbesondere Erdsonden, Energiekörbe, Energiepfähle und Erdregister. Für die Nutzung von Grundwasser gilt das Gesetz über die Nutzung und den Schutz des Grundwassers vom 3. April 1967[^22-1].
+- a. untiefem (&lt; 400 m) Untergrund;
+- b. mitteltiefem (400–3000 m) Untergrund;
+- c. tiefem (&gt; 3000 m) Untergrund.
 
-<sup>5</sup> Die Nutzung des tiefen Untergrunds umfasst Geothermie, Gasspeicherung, Erdgas, Schiefergas, Schieferöl. Der Einsatz von Fracking-Technologien für die Nutzung von Schiefergas und Schieferöl ist nicht zulässig.
+<sup>4</sup> Die Nutzung des untiefen Untergrunds umfasst insbesondere Erdsonden, Energiekörbe, Energiepfähle und Erdregister oder Wärmespeicher. Für die Nutzung von Grundwasser gilt das Gesetz über die Nutzung und den Schutz des Grundwassers (Grundwassergesetz) vom 3. April 1967[^22-1].
+
+<sup>5</sup> Die Nutzung des mitteltiefen und tiefen Untergrunds umfasst Grundwassernutzung, Geothermie, Gasspeicherung, Erdgas, Schiefergas, Schieferöl. Der Einsatz von Fracking-Technologien für die Nutzung von Schiefergas und Schieferöl ist nicht zulässig.
 
 <sup>6</sup> Der Kanton kann das Nutzungsrecht selbst ausüben, auf Basis einer Bewilligung oder einer Konzession an Dritte übertragen oder öffentlich ausschreiben.
 
@@ -296,19 +326,23 @@ beschliesst:[^ingress-2]
 
 **Bewilligungs- und Konzessionspflicht**
 
-<sup>1</sup> Bewilligungspflichtig ist die Nutzung des oberflächennahen Untergrunds.
+<sup>1</sup> Bewilligungspflichtig ist die Nutzung des untiefen Untergrunds.
 
-<sup>2</sup> Für die oberflächennahe Nutzung beurteilt der Kanton die Risiken und bezeichnet die geeigneten Gebiete für die Nutzung mit Erdsonden.
+<sup>2</sup> Für die Nutzung des untiefen Untergrunds beurteilt der Kanton die Risiken und bezeichnet die geeigneten Gebiete für die Nutzung mit Erdsonden. Ebenso bezeichnet der Kanton Gebiete, in welchen für neue Installationen eine Regeneration geboten ist.
 
-<sup>3</sup> Der Regierungsrat kann für Erkundungsmassnahmen im tiefen Untergrund eine Bewilligung erteilen. Die Bewilligung setzt voraus, dass die gebietsspezifischen Gegebenheiten und Risiken der Erkundung gutachterlich analysiert und beurteilt worden sind. Es besteht kein Rechtsanspruch auf die Erteilung einer Bewilligung zur Erkundung des Untergrunds.
+<sup>2<sup>bis</sup></sup> Die Bau- und Umweltschutzdirektion kann Vorschriften über die einzureichenden und aufzubewahrenden Unterlagen, die erforderlichen Schutzvorrichtungen, die Anforderungen an die Eigenkontrolle und die Überwachung und Abnahme von Anlagen zur Erdwärmenutzung und Wärmespeicherung im Untergrund erlassen sowie technische Normen als verbindlich erklären.
+
+<sup>3</sup> Der Regierungsrat kann für Erkundungsmassnahmen im mitteltiefen und tiefen Untergrund eine Bewilligung erteilen. Die Bewilligung setzt voraus, dass die gebietsspezifischen Gegebenheiten und Risiken der Erkundung gutachterlich analysiert und beurteilt worden sind. Es besteht kein Rechtsanspruch auf die Erteilung einer Bewilligung zur Erkundung des Untergrunds.
 
 <sup>4</sup> Treten bei bewilligten Erkundungsmassnahmen Schäden auf oder drohen solche, so kann der Regierungsrat die Bewilligung jederzeit widerrufen. Einem Rechtsmittel gegen einen solchen Bewilligungsentzug kommt keine aufschiebende Wirkung zu.
 
-<sup>5</sup> Wer Energie aus dem tiefen Untergrund nutzen will, bedarf einer Konzession des Regierungsrats. Eine solche setzt eine vorgängige Richtplanfestsetzung voraus.
+<sup>5</sup> Wer Energie aus dem mitteltiefen und tiefen Untergrund nutzen will, bedarf einer Konzession des Regierungsrats. Eine solche setzt eine vorgängige Richtplanfestsetzung voraus.
 
 <sup>6</sup> Bewilligungen und Konzessionen nach den Bestimmungen dieses Gesetzes erlöschen durch Zeitablauf, Verzicht, Widerruf, insbesondere wegen Zuwiderhandlungen oder durch Nichtnutzung.
 
-<sup>7</sup> Der Kanton ist berechtigt, die Daten und Messergebnisse sowie technische und wissenschaftliche Erkenntnisse aus Erkundungsmassnahmen gegen angemessene Entschädigung für den Eigengebrauch zu erwerben, wenn diese nicht bereits bekannt sind oder in einem anschliessenden Konzessionsverfahren offengelegt werden müssen.
+<sup>7</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss nach Abschluss der Untersuchungen bzw. der Bauarbeiten die geologischen und hydrogeologischen Untersuchungsergebnisse sowie die technischen Daten zur Bohrung der Bau- und Umweltschutzdirektion unentgeltlich zur Verfügung stellen.
+
+<sup>8</sup> Die Ergebnisse stehen zur Einsichtnahme offen, sofern ein öffentliches Interesse nachgewiesen wird.
 
 #### § 24
 
@@ -382,12 +416,14 @@ beschliesst:[^ingress-2]
 
 **Leistungsaufträge**
 
-<sup>1</sup> Der Regierungsrat kann im Interesse der Endkunden den Netzbetreibern einen Leistungsauftrag nach Art. 5 Abs. 1 des Bundesgesetzes über die Stromversorgung (Stromversorgungsgesetz) vom 23. März 2007[^29-1] erteilen für:
+<sup>1</sup> Der Regierungsrat kann im Interesse der Endkundinnen und Endkunden den Netzbetreibern einen Leistungsauftrag nach Art. 5 Abs. 1 des Bundesgesetzes über die Stromversorgung (Stromversorgungsgesetz) vom 23. März 2007[^29-1] erteilen für:
 
 - a. die Verbesserung der Grundversorgung über das durch Art. 5–7 des Stromversorgungsgesetzes gebotene Mass hinaus;
 - b. die Verbesserung der Versorgungssicherheit über das durch Art. 8 des Stromversorgungsgesetzes gebotene Mass hinaus, insbesondere zur Bewältigung von ausserordentlichen Lagen;
 - c. das Erbringen von Dienstleistungen im Elektrizitätsbereich;
-- d. die Information und Beratung über den sparsamen und umweltschonenden Einsatz von Elektrizität.
+- d. die Information und Beratung über den sparsamen und umweltschonenden Einsatz von Elektrizität;
+- e. einen definierten Zubau von Anlagen zur Produktion von Strom aus erneuerbaren Energien;
+- f. einen definierten Zubau von Stromspeicheranlagen in der Region.
 
 <sup>2</sup> Kosten, die durch Leistungsaufträge anfallen, werden auf den Stromrechnungen der Endkunden separat ausgewiesen.
 
@@ -435,7 +471,7 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Im Streitfall entscheidet der Regierungsrat.
 
-## 8 Verteilung von leitungsgebundenem Gas
+## 8 Verteilung von leitungsgebundenem Gas und thermischer Energie
 
 #### § 34
 
@@ -446,6 +482,14 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Ausgenommen sind Netze, welche unter Bundesaufsicht stehen.
 
 <sup>3</sup> Im Streitfall entscheidet der Regierungsrat.
+
+#### § 34a
+
+**Konzession für thermische Netze**
+
+<sup>1</sup> Die Gemeinden können mit den Betreibern von thermischen Netzen für ihr Gemeindegebiet Konzessionsverträge abschliessen. Für die Konzessionsabgabe gelten das Kostendeckungs- und Äquivalenzprinzip.
+
+<sup>2</sup> Im Streitfall entscheidet der Regierungsrat.
 
 ## 9 Förderbeiträge
 
@@ -465,7 +509,10 @@ beschliesst:[^ingress-2]
 - d. Energiemassnahmen bei Neubauten, wenn deren Energieverbrauch deutlich kleiner ist als gesetzlich gefordert;
 - e. …
 - f. …
-- g. Holzfeuerungsanlagen mit einer Feuerungswärmeleistung von mindestens 250 kW und Anschlüsse an damit versorgte Wärmenetze zur Gewährleistung eines wirtschaftlichen Betriebs gemäss den Kriterien von in der Schweiz anerkannten Fachorganisationen. Das verfeuerte Holz muss nachweislich zu mindestens 80 % aus regionaler Produktion oder mindestens aus der Schweiz stammen.
+- g. Holzfeuerungsanlagen mit einer Feuerungswärmeleistung von mindestens 250 kW und Anschlüsse an damit versorgte Wärmenetze zur Gewährleistung eines wirtschaftlichen Betriebs gemäss den Kriterien von in der Schweiz anerkannten Fachorganisationen; das verfeuerte Holz muss nachweislich zu mindestens 80 % aus regionaler Produktion oder aus der Schweiz stammen;
+- h. Massnahmen zur Förderung von emissionsarmen Kraftfahrzeugen;
+- i. Anlagen zur Energiespeicherung;
+- j. Anlagen zur Produktion von erneuerbarer Energie.
 
 <sup>3</sup> Fördermassnahmen werden regelmässig überprüft, und es werden diejenigen Technologien gefördert, welche mit dem geringsten Förderaufwand eine sichere, wirtschaftliche, ökologische und ausreichende Energieversorgung sicherstellen. Dabei wird der Stand der Technik berücksichtigt, und beinahe wirtschaftliche Massnahmen mit der grössten ökologischen Wirkung werden bevorzugt.
 
@@ -521,7 +568,7 @@ beschliesst:[^ingress-2]
 
 **Strafbestimmungen**
 
-<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes und der zugehörigen Verordnungen und sich darauf stützende Verfügungen und Entscheide werden mit Busse bis zu CHF 10'000.– bestraft.
+<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes, des zugehörigen Dekrets, der zugehörigen Verordnungen und sich darauf stützende Verfügungen und Entscheide werden mit Busse bis zu CHF 10'000.– bestraft.
 
 <sup>2</sup> Fahrlässige Widerhandlungen, Versuche und Gehilfenschaft sind strafbar.
 
