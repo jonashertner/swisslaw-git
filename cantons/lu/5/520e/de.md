@@ -4,13 +4,12 @@ number: 520e
 title: "Verordnung über die Gebühren an der Hochschule Luzern, FH Zentralschweiz"
 short: "Gebührenverordnung HSLU, GebVo-HSLU"
 language: de
-version: 2013-09-01
-valid_until: 2025-02-28
-version_adopted: 2013-07-04
+version: 2025-03-01
+version_adopted: 2024-12-13
 adopted: 2012-12-14
 in_force: 2013-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520e"
-pdf: "https://srl.lu.ch/api/de/versions/4035/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4391/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4035/pdf_file"
 
 (Gebührenverordnung HSLU, GebVo-HSLU)
 
-vom 14.12.2012 (Stand 01.09.2013)
+vom 14.12.2012 (Stand 01.03.2025)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -55,7 +54,7 @@ beschliesst:
 
 **Gebühren für das Aufnahmeverfahren**
 
-<sup>1</sup> Die Gebühr für das Aufnahmeverfahren zu Bachelor- oder Masterstudiengängen beträgt (je nach Aufwand) Fr. 200.– bis Fr. 900.–.
+<sup>1</sup> Die Gebühr für das Aufnahmeverfahren zu Bachelor- oder Masterstudiengängen beträgt (je nach Aufwand) Fr. 100.– bis Fr. 900.–.
 
 <sup>2</sup> Bei einem Übergang vom Bachelor- zum Masterstudium innerhalb der Hochschule Luzern kann die Gebühr für das Aufnahmeverfahren erlassen werden.
 
@@ -63,7 +62,7 @@ beschliesst:
 
 <sup>4</sup> Über die genaue Höhe der Gebühren entscheidet das aufnehmende Departement der Hochschule Luzern.
 
-<sup>5</sup> Die Anmeldung zur Aus- oder Weiterbildung ist verbindlich. Nach Ablauf der Anmeldefrist werden die Gebühren nicht zurückerstattet.
+<sup>5</sup> Die Anmeldung zur Aus- oder Weiterbildung ist verbindlich. Nach Ablauf der Anmeldefrist werden die Gebühren nicht zurückerstattet. Ausgenommen davon ist eine Rückerstattung bereits bezahlter Gebühren von ausländischen Studierenden, wenn diese ohne eigenes Verschulden nachgewiesenermassen kein Visum erhalten.
 
 #### Art. 4
 
@@ -74,13 +73,15 @@ beschliesst:
 - a. für immatrikulierte Studierende pro Semester Fr. 800.–
 - b. für Hörerinnen und Hörer, pro Semester mindestens Fr. 200.– bis maximal Fr. 800.–, abgestuft nach Zahl der ECTS-Punkte aller besuchten Veranstaltungen.
 
+<sup>1<sup>bis</sup></sup> Ausländische Studierende haben neben den allgemeinen Studiengebühren eine zusätzliche Studiengebühr von Fr. 500.– pro Semester zu entrichten. Dies gilt nicht für ausländische Studierende, deren Wohnsitzkanton für sie FHV-Beiträge leistet.
+
 <sup>2</sup> Weitere Kosten, namentlich für Lehrmittel, Arbeitsmaterialien oder Studienreisen, werden zusätzlich kostendeckend in Rechnung gestellt.
 
 #### Art. 5
 
 **Gebühren im Bereich Weiterbildung**
 
-<sup>1</sup> Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von den Departementen der Hochschule Luzern im Rahmen von Fr. 300.– bis Fr. 50 000.– kostendeckend festgelegt.
+<sup>1</sup> Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von den Departementen der Hochschule Luzern im Rahmen von Fr. 0.– bis Fr. 50 000.– kostendeckend festgelegt.
 
 ## 3 Prüfungs- und Diplomgebühren
 
@@ -125,7 +126,7 @@ beschliesst:
 
 **Administrative Gebühren**
 
-<sup>1</sup> In den Studiengebühren sind die administrativen Gebühren, namentlich für die HSLU-Card oder Fotokopien, nicht enthalten. Diese werden von der Rektorin oder dem Rektor kostendeckend festgelegt und separat verrechnet.
+<sup>1</sup> In den Studiengebühren sind die administrativen Gebühren, namentlich für den Studierendenausweis oder Fotokopien, nicht enthalten. Diese werden von der Rektorin oder dem Rektor kostendeckend festgelegt und separat verrechnet.
 
 #### Art. 9
 
