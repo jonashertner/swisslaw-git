@@ -4,13 +4,12 @@ number: "610.1"
 title: Landwirtschaftsgesetz
 short: LaG
 language: de
-version: 2016-04-01
-valid_until: 2025-02-28
-version_adopted: 2014-11-18
+version: 2025-03-01
+version_adopted: 2025-01-28
 adopted: 2002-06-21
 in_force: 2002-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/610.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2056/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2056/pdf_file"
 
 (LaG)
 
-vom 21.06.2002 (Stand 01.04.2016)
+vom 21.06.2002 (Stand 01.03.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -271,9 +270,35 @@ als Gesetz:[^ingress-4]
 
 #### Art. 18a
 
-**Beiträge des Kantons**
+**Verhütung von Wildschäden**
 
 <sup>1</sup> Der Kanton kann Massnahmen für die Verhütung von Wildschaden in der Landwirtschaft unterstützen durch Beiträge für den Herdenschutz und Beratung.
+
+#### Art. 18b
+
+**Per- und polyfluorierte Alkylverbindungen (PFAS)**
+
+<sup>1</sup> Der Kanton kann Beiträge leisten an Betriebe:
+
+- a) deren landwirtschaftliche Nutzfläche mit per- und polyfluorierten Alkylverbindungen (PFAS) belastet ist und
+- b) deren Produktion aufgrund dieser Belastung erheblich eingeschränkt oder eingestellt werden muss.
+
+<sup>2</sup> Die Beiträge können insbesondere geleistet werden für Massnahmen:
+
+- a) zur Einhaltung der lebensmittelrechtlichen Höchstwerte;
+- b) zur Vermeidung von Härtefällen bei Betrieben, deren Produktion erheblich eingeschränkt oder eingestellt werden muss.
+
+<sup>3</sup> Die Beiträge:
+
+- a) nach Abs. 2 Bst. a dieser Bestimmung sind je Betrieb auf drei Jahre und insgesamt höchstens Fr. 200'000.– beschränkt;
+- b) nach Abs. 2 Bst. b dieser Bestimmung übersteigen den Verkehrswert des jeweiligen Betriebs nicht und werden vertraglich vereinbart;
+- c) werden unter Berücksichtigung allfälliger Beiträge Dritter bemessen.
+
+<sup>4</sup> Der Kanton kann Beiträge leisten zur Erforschung von Massnahmen zur Einhaltung der lebensmittelrechtlichen Höchstwerte im Zusammenhang mit Belastungen durch PFAS.
+
+<sup>5</sup> Der Kantonsrat legt ein für mehrere Jahre geltendes Gesamtvolumen für Beiträge nach Abs. 1 bis 4 dieser Bestimmung fest. Die erforderlichen Mittel werden in Form eines Sonderkredits nach [Art. 52](https://www.gesetzessammlung.sg.ch/data/140.1/de/art52) Abs. 3 des Staatsverwaltungsgesetzes vom 16. Juni 1994[^18b-1] bereitgestellt.
+
+[^18b-1]: sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 
 ## V. Grundeigentum und Pacht
 
