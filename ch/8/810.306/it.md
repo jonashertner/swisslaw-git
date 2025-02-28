@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 sulle sperimentazioni cliniche con disposit
 short: OSRUm-Dmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: it
-version: 2024-12-17
+version: 2025-03-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/it"
 
 (OSRUm-Dmed)
 
-del 1° luglio 2020 (Stato 17 dicembre 2024)
+del 1° luglio 2020 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -703,28 +703,44 @@ Per le sperimentazioni cliniche della categoria C, le notifiche e i rapporti di 
 
 <sup>2</sup> Lo sperimentatore conserva tutti i documenti necessari all’identificazione e alla cura successiva delle persone partecipanti alla sperimentazione, nonché tutti gli altri dati originali durante almeno dieci anni dalla conclusione o dall’arresto prematuro della sperimentazione clinica. Per i dispositivi impiantabili, il termine di conservazione è di almeno 15 anni.
 
-## Capitolo 5: Trasparenza
+## Capitolo 5: Registrazione e pubblicazione
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 41
 
-**Registrazione**[^41-1]
+**Registrazione e dati da iscrivere**[^41-1]
 
-Il promotore deve registrare le sperimentazioni cliniche secondo gli articoli 64, 65 capoversi 1 e 3, 66 e 67 OSRUm[^41-2].
+<sup>1</sup> Il promotore deve registrare le sperimentazioni cliniche e iscriverne i dati secondo gli articoli 64 capoversi 1, 2, 3 e 4 nonché 66 OSRUm[^41-2].
 
-[^41-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+<sup>2</sup> I dati da iscrivere secondo il capoverso 1 sono pubblicati automaticamente nel portale di cui all’articolo 67 OSRUm al più tardi sei mesi dopo il rilascio dell’autorizzazione per la sperimentazione clinica.
+
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^41-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 42
 
-**Pubblicazione dei risultati**[^42-1]
+**Pubblicazione dei risultati della sperimentazione[^42-2]**[^42-1]
 
-Il promotore deve pubblicare i risultati delle sperimentazioni cliniche in un registro riconosciuto secondo l’articolo 64 capoverso 1 OSRUm[^42-2] entro il seguente termine:
+<sup>1</sup>
+
+Il promotore deve garantire che una sintesi dei risultati della sperimentazione sia iscritta e pubblicata in un registro riconosciuto secondo l’articolo 64 capoverso 1 lettere a o b OSRUm[^42-3] entro il seguente termine:[^42-4]
 
 - a. per le sperimentazioni cliniche concluse con dispositivi già provvisti di un marchio di conformità che sono utilizzati conformemente alle istruzioni per l’uso nonché in caso di arresto prematuro o interruzione della sperimentazione clinica: immediatamente dopo la presentazione del rapporto finale secondo l’articolo 37;
 - b. per tutte le altre sperimentazioni cliniche concluse: al più tardi prima che il dispositivo venga immesso in commercio, oppure un anno dopo la presentazione del rapporto finale secondo l’articolo 37 se fino a quel momento il dispositivo non è ancora stato immesso in commercio.
 
+<sup>2</sup> Al fine della pubblicazione nel portale di cui all’articolo 67 OSRUm, egli è inoltre tenuto a garantire che nel sistema d’informazione dei Cantoni sia iscritta una sintesi divulgativa dei risultati della sperimentazione secondo l’allegato 5 numero 2.15 OSRUm, rispettando il termine stabilito al capoverso 1; l’iscrizione deve avvenire almeno nelle lingue nazionali della Svizzera in cui le persone sono state reclutate.[^42-5]
+
+<sup>3</sup> Se per motivi scientifici non è possibile eseguire puntualmente la pubblicazione di cui ai capoversi 1 e 2, il promotore deve spiegarne il motivo nella documentazione a corredo della domanda indicando quando la pubblicazione avrà luogo.[^42-6]
+
 [^42-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-5]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-6]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## Capitolo 6: Disposizioni finali
 

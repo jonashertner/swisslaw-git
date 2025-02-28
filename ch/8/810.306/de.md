@@ -4,11 +4,11 @@ title: Verordnung vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten
 short: KlinV-Mep
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: de
-version: 2024-12-17
+version: 2025-03-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/de"
 
 (KlinV-Mep)
 
-vom 1. Juli 2020 (Stand am 17. Dezember 2024)
+vom 1. Juli 2020 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -704,28 +704,44 @@ Für klinische Versuche der Kategorie C sind die Meldungen und Berichte nach den
 
 <sup>2</sup> Die Prüfperson muss sämtliche für die Identifizierung und die Nachbetreuung der teilnehmenden Personen notwendigen Unterlagen sowie alle anderen Originaldaten während mindestens 10 Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren. Bei implantierbaren Produkten beträgt die Aufbewahrungsfrist mindestens 15 Jahre.
 
-## 5. Kapitel: Transparenz
+## 5. Kapitel: Registrierung und Veröffentlichung
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 41
 
-**Registrierung**[^41-1]
+**Registrierung und einzutragende Daten**[^41-1]
 
-Der Sponsor muss klinische Versuche nach den Artikeln 64, 65 Absätze 1 und 3, 66 und 67 KlinV[^41-2] registrieren.
+<sup>1</sup> Der Sponsor muss klinische Versuche nach den Artikeln 64 Absätze 1, 2, 3 und 4 sowie 66 KlinV[^41-2] registrieren bzw. die entsprechenden Daten eintragen.
 
-[^41-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+<sup>2</sup> Die nach Absatz 1 einzutragenden Daten werden spätestens sechs Monate nach Erteilung der Bewilligung des klinischen Versuchs automatisch im Portal nach Artikel 67 KlinV veröffentlicht.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^41-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 42
 
-**Veröffentlichung der Ergebnisse**[^42-1]
+**Veröffentlichung der Ergebnisse[^42-2]**[^42-1]
 
-Der Sponsor muss die Ergebnisse klinischer Versuche in einem anerkannten Register nach Artikel 64 Absatz 1 KlinV[^42-2] innert folgender Frist veröffentlichen:
+<sup>1</sup>
+
+Der Sponsor muss sicherstellen, dass eine Zusammenfassung der Versuchsergebnisse in einem anerkannten Register nach Artikel 64 Absatz 1 Buchstabe a oder b KlinV[^42-3] innert folgender Frist eingetragen und veröffentlicht wird:[^42-4]
 
 - a. bei abgeschlossenen klinischen Versuchen mit Produkten, die bereits ein Konformitätskennzeichen tragen und gemäss Gebrauchsanweisung verwendet wurden sowie bei Abbruch oder Unterbruch eines klinischen Versuchs: unmittelbar nach Einreichung des Schlussberichts nach Artikel 37;
 - b. bei allen anderen abgeschlossenen klinischen Versuchen: spätestens bevor das Produkt in Verkehr gebracht wird, oder ein Jahr nach Einreichung des Schlussberichts nach Artikel 37, wenn es bis zu diesem Zeitpunkt noch nicht in Verkehr gebracht wurde.
 
+<sup>2</sup> Zwecks Veröffentlichung im Portal nach Artikel 67 KlinV muss er zusätzlich sicherstellen, dass eine Laienzusammenfassung der Versuchsergebnisse nach Anhang 5 Ziffer 2.15 KlinV unter Einhaltung der in Absatz 1 angegebenen Frist im Informationssystem der Kantone eingetragen wird; die Eintragung muss mindestens in den Landessprachen der Schweiz erfolgen, in welchen Personen rekrutiert wurden.[^42-5]
+
+<sup>3</sup> Ist die fristgerechte Veröffentlichung nach den Absätzen 1 und 2 aus wissenschaftlichen Gründen nicht möglich, so muss dies der Sponsor in den Gesuchsunterlagen begründen und angeben, wann die Veröffentlichung erfolgen wird.[^42-6]
+
 [^42-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-5]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-6]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## 6. Kapitel: Schlussbestimmungen
 

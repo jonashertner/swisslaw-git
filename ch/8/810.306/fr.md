@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de di
 short: OClin-Dim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: fr
-version: 2024-12-17
+version: 2025-03-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/fr"
 
 (OClin-Dim)
 
-du 1<sup>er</sup> juillet 2020 (État le 17 décembre 2024)
+du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -711,28 +711,44 @@ Pour les essais cliniques de catégorie C, les déclarations et les rapports vis
 
 <sup>2</sup> L’investigateur est tenu de conserver tous les documents nécessaires à l’identification et au suivi médical des personnes ayant participé à l’essai clinique ainsi que toutes les autres données originales pendant 10 ans au moins à compter de la fin ou de l’arrêt prématuré de l’essai clinique. Pour les dispositifs implantables, le délai est de 15 ans au moins.
 
-## Chapitre 5 Transparence
+## Chapitre 5 Enregistrement et publication
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 41
 
-**Enregistrement**[^41-1]
+**Enregistrement et données à saisir**[^41-1]
 
-Le promoteur doit enregistrer les essais cliniques conformément aux art. 64 et 65, al. 1 et 3, 66 et 67 OClin[^41-2].
+<sup>1</sup> Le promoteur doit enregistrer les essais cliniques et saisir les données correspondantes conformément aux art. 64, al. 1, 2, 3 et 4, et 66 OClin[^41-2].
 
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+<sup>2</sup> Les données à saisir conformément à l’al. 1 sont publiées automatiquement sur le portail visé à l’art. 67 OClin, au plus tard six mois après l’octroi de l’autorisation de l’essai clinique.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^41-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 42
 
-**Publication des résultats**[^42-1]
+**Publication des résultats des essais[^42-2]**[^42-1]
 
-Le promoteur doit publier les résultats des essais cliniques dans un registre reconnu au sens de l’art. 64, al. 1, OClin[^42-2], dans les délais suivants:
+<sup>1</sup>
+
+Le promoteur doit garantir qu’une synthèse des résultats des essais soit saisie et publiée dans un registre reconnu au sens de l’art. 64, al. 1, let. a ou b, OClin[^42-3], dans les délais suivants:[^42-4]
 
 - a. pour les essais cliniques terminés portant sur des dispositifs déjà pourvus d’un marquage de conformité et utilisés conformément au mode d’emploi ainsi qu’en cas d’arrêt prématuré ou d’interruption d’un essai clinique, immédiatement après la remise du rapport final au sens de l’art. 37;
 - b. pour tous les autres essais cliniques terminés, au plus tard avant la mise sur le marché du dispositif ou une année après la remise du rapport final au sens de l’art. 37 si le dispositif n’a pas encore été mis sur le marché à cette date.
 
+<sup>2</sup> Aux fins de la publication sur le portail visé à l’art. 67 OClin, il doit de plus garantir qu’une synthèse des résultats de l’essai destinée aux profanes, conformément à l’annexe 5, ch. 2.15, OClin soit saisie dans le système d’information des cantons, en respectant le délai fixé à l’al. 1; les données sont saisies au moins dans les langues nationales de la Suisse utilisées pour le recrutement.[^42-5]
+
+<sup>3</sup> S’il n’est pas possible de respecter le délai prévu aux al. 1 et 2 pour des raisons scientifiques, le promoteur doit le justifier dans les documents de la demande et indiquer à quel moment les données seront publiées.[^42-6]
+
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-5]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-6]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -814,7 +830,7 @@ Si l’essai clinique visé à l’art. 48 est une étude des performances, le p
 
 Pour les obligations en matière de responsabilité et de garantie, les dispositions de l’art. 10, al. 1, let. c dans sa version du 26 mai 2022[^48b-2], et 2, et des art. 11 à 14 OClin dans leur version du 1<sup>er</sup> janvier 2014[^48b-3] sont applicables aux essais cliniques de dispositifs autorisés avant l’entrée en vigueur de la modification du 7 juin 2024. Si l’autorisation de l’essai clinique a été octroyée pour une durée limitée, ces obligations sont régies, en cas de renouvellement de l’autorisation, par le nouveau droit.[^48b-4]
 
-[^48b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^48b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)). Erratum du 17 déc. 2024 ([RO 2024 779](https://fedlex.data.admin.ch/eli/oc/2024/779)).
 [^48b-2]: [RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
 [^48b-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643); [RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)
 [^48b-4]: Erratum du 17 déc. 2024 ([RO 2024 779](https://fedlex.data.admin.ch/eli/oc/2024/779)).

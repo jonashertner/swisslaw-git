@@ -4,11 +4,11 @@ title: Ordinance of 1 July 2020 on Clinical Trials with Medical Devices (CTO-Med
 short: CTO-MedD
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: en
-version: 2024-12-17
+version: 2025-03-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ClinO-MD)
 
-of 1 July 2020 (Status as of 17 December 2024)
+of 1 July 2020 (Status as of 1 March 2025)
 
 The Swiss Federal Council,
 
@@ -706,28 +706,44 @@ For category C clinical trials, the notifications and reports specified in Artic
 
 <sup>2</sup> The investigator must retain all documents required to identify and provide post-trial care to participants, as well as all other original data, for at least ten years after the completion or premature termination of the clinical trial. The retention period for implantable devices is at least 15 years.
 
-## Chapter 5 Transparency
+## Chapter 5 Registration and Publication
+
+[^chap5-1]
+
+[^chap5-1]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 41
 
-**Registration**[^41-1]
+**Registration and data to be entered**[^41-1]
 
-The sponsor must register clinical trials in accordance with Articles 64, 65 paragraphs 1 and 3, and Articles 66 and 67 ClinO[^41-2].
+<sup>1</sup> The sponsor must register clinical trials in accordance with Article 64 paragraphs 1, 2, 3 and 4 and Article 66 ClinO[^41-2] and enter the relevant data.
 
-[^41-1]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+<sup>2</sup> The data to be entered under paragraph 1 shall be automatically published no later than six months after approval has been granted for the clinical trial on the portal specified in Article 67 ClinO.
+
+[^41-1]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^41-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 42
 
-**Publication of results**[^42-1]
+**Publication of results[^42-2]**[^42-1]
 
-The sponsor must publish the results of clinical trials in a recognised register in accordance with Article 64 paragraph 1 ClinO[^42-2] within the following periods:
+<sup>1</sup>
+
+The sponsor must ensure that a summary of the trial results is entered and published in a recognised registry as specified in Article 64 paragraph 1 letter a or b ClinO[^42-3] within the following period:[^42-4]
 
 - a. for completed clinical trials of devices that already bear a conformity marking and were used in accordance with the instructions for use, or in the event of a premature termination or interruption of a clinical trial: immediately after submitting the final report in accordance with Article 37;
 - b. for all other completed clinical trials: at the latest before the device is placed on the market or one year after submitting the final report in accordance with Article 37 if the device has not been placed on the market by this point in time.
 
+<sup>2</sup> For the purpose of publication on the portal specified in Article 67 ClinO, the sponsor must additionally ensure that, within the period specified in paragraph 1, a lay summary of the trial results in accordance with Annex 5 number 2.15 ClinO is entered in the cantonal information system; the entry must be made at least in those national languages of Switzerland in which persons were recruited.[^42-5]
+
+<sup>3</sup> If publication in accordance with paragraphs 1 and 2 is not possible within the specified period for scientific reasons, the sponsor must explain this in the application documents and indicate when publication will take place.[^42-6]
+
 [^42-1]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-2]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^42-4]: Amended by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-5]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^42-6]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## Chapter 6 Final Provisions
 
@@ -914,4 +930,4 @@ The following are amended as follows:
 
 ...[^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: The amendments may be consulted under [AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553).
+[^annex2-lvlu1-1]: The amendments may be consulted under [AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)..
