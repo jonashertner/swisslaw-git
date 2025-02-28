@@ -4,13 +4,13 @@ number: "812.113"
 title: Ordonnance de Direction sur les soins hospitaliers
 short: ODSH
 language: fr
-version: 2023-01-01
-valid_until: 2025-02-28
-version_adopted: 2022-12-06
+version: 2025-03-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-09
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.113"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2774/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3128/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2774/pdf_file"
 
 (ODSH)
 
-du 23.11.2021 (état au 01.01.2023)
+du 23.11.2021 (état au 01.03.2025)
 
 Le directeur de la santé, des affaires sociales et de l’intégration du canton de Berne,
 

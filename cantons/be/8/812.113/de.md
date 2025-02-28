@@ -4,13 +4,13 @@ number: "812.113"
 title: Direktionsverordnung über die Spitalversorgung
 short: SpVDV
 language: de
-version: 2023-01-01
-valid_until: 2025-02-28
-version_adopted: 2022-12-06
+version: 2025-03-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-09
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2774/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3128/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2774/pdf_file"
 
 (SpVDV)
 
-vom 23.11.2021 (Stand 01.01.2023)
+vom 23.11.2021 (Stand 01.03.2025)
 
 Der Direktor der Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern
 
