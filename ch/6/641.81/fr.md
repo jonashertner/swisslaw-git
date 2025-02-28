@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 1997 concernant une redevance sur le traf
 short: LRPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: fr
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20240501-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20250301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/fr"
 
 (Loi relative à une redevance sur le trafic des poids lourds, LRPL)
 
-du 19 décembre 1997 (État le 1<sup>er</sup> mai 2024)
+du 19 décembre 1997 (État le 1<sup>er</sup> mars 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -362,7 +362,9 @@ L’OFDF peut utiliser les données du tachygraphe pour contrôler si la longueu
 
 <sup>1</sup> Un tiers du produit net est destiné aux cantons au titre d’une dépense liée, tandis que les deux autres tiers restent acquis à la Confédération.
 
-<sup>2</sup> La part de la Confédération au produit net est destinée en premier lieu au financement des grands projets ferroviaires, au sens de l’art. 23 des dispositions transitoires de la constitution fédérale[^19-2], ainsi qu’à la couverture des coûts non couverts du trafic routier qu’elle supporte.
+<sup>2</sup> La part de la Confédération au produit net est affectée au fonds régi par la loi du 21 juin 2013 sur le fonds d’infrastructure ferroviaire[^19-2].[^19-3]
+
+<sup>2bis</sup> Dès lors que le Conseil fédéral inscrit une réserve de 300 millions de francs au minimum dans la planification financière du fonds d’infrastructure ferroviaire, la Confédération affecte les montants qui ne sont pas requis pour alimenter cette réserve à la compensation des coûts non couverts qui lui incombent au titre du trafic routier.[^19-4]
 
 <sup>3</sup> Les cantons utilisent en priorité leur part au produit net pour couvrir leurs dépenses dans le domaine des coûts non couverts du trafic routier.
 
@@ -376,7 +378,9 @@ Lors de la répartition des contributions entre les cantons conformément à l�
 - d. l’imposition des véhicules à moteur.
 
 [^19-1]: Introduit par l’annexe ch. II 3 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19-2]: [RS **1** 3; RO **1999** 742]. Actuellement: art. 196 ch. 12 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^19-2]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^19-3]: Nouvelle teneur selon le ch. II de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
+[^19-4]: Introduit par le ch. II de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 19a
 

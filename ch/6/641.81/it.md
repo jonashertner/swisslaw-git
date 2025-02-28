@@ -4,18 +4,18 @@ title: "Legge federale del 19 dicembre 1997 concernente una tassa sul traffico p
 short: LTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: it
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20240501-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20250301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente una tassa sul traffico pesante commisurata alle prestazioni (Legge sul traffico pesante, LTTP)
 
-del 19 dicembre 1997 (Stato 1° maggio 2024)
+del 19 dicembre 1997 (Stato 1° marzo 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -24,14 +24,14 @@ visti gli articoli 74, 84 e 85 della Costituzione federale[^ingress-1];[^ingress
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^ingress-3]: [FF 1996 V 407](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
 ## Sezione 1: Disposizioni generali
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^sec1-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 1
 
@@ -46,13 +46,13 @@ La tassa contribuisce inoltre a:
 - a. migliorare le condizioni quadro della ferrovia sul mercato dei trasporti;
 - b. incrementare il trasporto delle merci per ferrovia.
 
-[^1-1]: Abrogata dal n. I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^1-1]: Abrogata dalla cifra I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^2-1]: Abrogato dalla cifra I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## Sezione 2: Obbligo fiscale
 
@@ -82,7 +82,7 @@ La tassa è riscossa sui veicoli pesanti a motore e i rimorchi immatricolati in 
 
 <sup>2</sup> Per i rimorchi trainati è assoggettato al pagamento della tassa il detentore del veicolo a motore.[^5-1]
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 5a
 
@@ -105,7 +105,7 @@ Se constata a posteriori che il detentore è insolvibile o è stato diffidato in
 - a. essa disdica il contratto entro 60 giorni; o
 - b. tutte le tasse e gli eventuali interessi ed emolumenti dovuti per il veicolo siano interamente pagati entro 60 giorni.
 
-[^5a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^5a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## Sezione 3: Basi di calcolo della tassa
 
@@ -119,7 +119,7 @@ Se constata a posteriori che il detentore è insolvibile o è stato diffidato in
 
 <sup>3</sup> La tassa può inoltre essere riscossa in funzione delle emissioni o del consumo.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 7
 
@@ -189,7 +189,7 @@ All’introduzione della tassa e ad ogni aumento della tariffa il Consiglio fede
 
 <sup>4</sup> Se il Consiglio federale ha prescritto l’installazione e l’utilizzo di un sistema di rilevazione nel veicolo, la persona assoggettata al pagamento della tassa garantisce che tale sistema venga messo in funzione nel veicolo al quale è destinato. Durante la corsa il sistema deve essere ininterrottamente in funzione.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 11a
 
@@ -203,7 +203,7 @@ All’introduzione della tassa e ad ogni aumento della tariffa il Consiglio fede
 
 <sup>4</sup> L’UDSC stabilisce le prescrizioni tecniche e operative che i fornitori devono soddisfare. Per l’installazione e l’utilizzo di sistemi di rilevazione nei veicoli può dichiarare applicabili le prescrizioni tecniche e operative dell’UE.
 
-[^11a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^11a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 11b
 
@@ -225,7 +225,7 @@ Il fornitore incaricato e i fornitori autorizzati collaborano nell’ambito dell
 
 <sup>4</sup> Per i servizi che prestano a favore dell’UDSC i fornitori possono ricevere una controprestazione. Il Dipartimento federale delle finanze ne stabilisce l’importo per i fornitori autorizzati. Può prevedere un emolumento di riscossione.
 
-[^11b-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^11b-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 12
 
@@ -235,7 +235,7 @@ Il fornitore incaricato e i fornitori autorizzati collaborano nell’ambito dell
 
 <sup>2</sup> Per i veicoli esteri, l’obbligo fiscale inizia con l’entrata nel territorio doganale e termina al più tardi con l’uscita dal territorio doganale.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 12a
 
@@ -243,7 +243,7 @@ Il fornitore incaricato e i fornitori autorizzati collaborano nell’ambito dell
 
 Il debito fiscale nasce all’inizio della corsa nel territorio doganale. Diventa esigibile dal momento della sua nascita.
 
-[^12a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^12a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 12b
 
@@ -251,7 +251,7 @@ Il debito fiscale nasce all’inizio della corsa nel territorio doganale. Divent
 
 Il debito fiscale per i veicoli esteri per i quali si è ricorso al servizio di un fornitore autorizzato si estingue al momento del pagamento della tassa all’UDSC.
 
-[^12b-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^12b-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 13
 
@@ -290,7 +290,7 @@ Su richiesta dell’UDSC, l’autorità cantonale competente per l’ammissione 
 
 <sup>3</sup> Se per un veicolo svizzero o estero è soddisfatta una delle condizioni di cui al capoverso 1, l’UDSC può negare il proseguimento della corsa o sequestrare il veicolo.
 
-[^14a-1]: Introdotto dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)). Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^14a-1]: Introdotto dalla cifra I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)). Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 15
 
@@ -336,7 +336,7 @@ I dati relativi alle prestazioni chilometriche possono essere utilizzati a fini 
 
 [^sec4a-1]
 
-[^sec4a-1]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^sec4a-1]: Introdotta dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 18a
 
@@ -360,7 +360,9 @@ L’UDSC può utilizzare i dati del tachigrafo per controllare se i chilometri p
 
 <sup>1</sup> Un terzo dei proventi netti è assegnato ai Cantoni come spesa vincolata e due terzi restano alla Confederazione.
 
-<sup>2</sup> La Confederazione impiega la sua quota innanzitutto per finanziare i grandi progetti ferroviari di cui all’articolo 23 delle disposizioni transitorie della Costituzione federale[^19-2] e per compensare i costi non coperti del traffico stradale da essa sopportati.
+<sup>2</sup> La Confederazione assegna la sua quota dei proventi netti al Fondo per l’infrastruttura ferroviaria secondo la legge del 21 giugno 2013[^19-2] sul Fondo per l’infrastruttura ferroviaria.[^19-3]
+
+<sup>2bis</sup> Se nella pianificazione finanziaria del Fondo per l’infrastruttura ferroviaria il Consiglio federale prevede una riserva di almeno 300 milioni di franchi, la Confederazione impiega i mezzi non necessari alla costituzione della riserva per compensare i costi non coperti del traffico stradale da essa sopportati.[^19-4]
 
 <sup>3</sup> I Cantoni impiegano la loro quota innanzitutto per compensare i costi non coperti del traffico stradale da essi sopportati.
 
@@ -373,8 +375,10 @@ La ripartizione della quota dei Cantoni secondo il capoverso 1 considera le ripe
 - c. la popolazione cantonale;
 - d. l’imposizione fiscale dei veicoli a motore.
 
-[^19-1]: Introdotto dall’all. n. II 3 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19-2]: [CS **1** 3; RU **1999** 742]. Vedi ora l’art. 196 n. 3 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^19-1]: Introdotto dall’all. cifra II n. 3 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^19-2]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^19-3]: Nuovo testo giusta la cifra II della LF del 30 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204))
+[^19-4]: Introdotto dalla cifra II della LF del 30 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204))
 
 #### Art. 19a
 
@@ -382,7 +386,7 @@ La ripartizione della quota dei Cantoni secondo il capoverso 1 considera le ripe
 
 I mezzi supplementari che dal 2008 spettano ai Cantoni in seguito all’aumento della tassa sono impiegati per versare contributi per il mantenimento del sostrato qualitativo delle strade principali nelle regioni di montagna e nelle regioni periferiche secondo l’articolo 14 della legge federale del 22 marzo 1985[^19a-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo.
 
-[^19a-1]: Introdotto dall’all. n. II 3 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^19a-1]: Introdotto dall’all. cifra II n. 3 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^19a-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 
 ## Sezione 6: Disposizioni penali e rimedi giuridici
@@ -396,7 +400,7 @@ Sono considerate infrazioni fiscali:
 - a. la sottrazione della tassa;
 - b. la messa in pericolo della tassa.
 
-[^19b-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^19b-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 20
 
@@ -415,7 +419,7 @@ Sono considerate infrazioni fiscali:
 
 <sup>4</sup> Se non possono essere determinati esattamente, la tassa sottratta o il profitto fiscale indebito sono stimati nell’ambito del procedimento amministrativo.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 20a
 
@@ -433,13 +437,13 @@ Sono considerate infrazioni fiscali:
 
 <sup>2</sup> Se ha agito per negligenza, l’autore è punito con la multa fino a 10 000 franchi.
 
-[^20a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^20a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 21
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, con effetto dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^21-1]: Abrogato dalla cifra I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, con effetto dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 #### Art. 22
 
@@ -449,7 +453,7 @@ Sono considerate infrazioni fiscali:
 
 <sup>2</sup> L’UDSC è l’autorità di perseguimento e giudizio.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^22-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 23
@@ -464,7 +468,7 @@ Sono considerate infrazioni fiscali:
 
 <sup>4</sup> Per il rimanente, la protezione giuridica è retta dalle disposizioni generali sull’amministrazione della giustizia federale.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 [^23-2]: Nuovo testo giusta l’all. n. 56 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 23a
@@ -475,7 +479,7 @@ Sono considerate infrazioni fiscali:
 
 <sup>2</sup> Il termine di opposizione contro la tassazione è considerato rispettato con la presentazione della contestazione presso il fornitore del SET.
 
-[^23a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^23a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -488,13 +492,13 @@ Sono considerate infrazioni fiscali:
 <sup>2</sup> Con l’entrata in vigore della legge è abrogata l’ordinanza del 26 ottobre 1994[^24-2] concernente la tassa sul traffico pesante.
 
 [^24-1]: [CS **1** 3; [RU 1994 1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), **1999** 742]. Vedi ora l’art. 196 n. 2 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^24-2]: [[RU 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. II 12; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 19; [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277), 3385]
+[^24-2]: [[RU 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 12; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 19; [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277), 3385]
 
 #### Art. 25
 
 [^25-1]
 
-[^25-1]: Abrogato dal n. I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^25-1]: Abrogato dalla cifra I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 25a
 
@@ -504,7 +508,7 @@ Sono considerate infrazioni fiscali:
 
 <sup>2</sup> Le procedure pendenti all’entrata in vigore della modifica del 17 marzo 2023 sono concluse secondo il diritto anteriore.
 
-[^25a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^25a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 26
 

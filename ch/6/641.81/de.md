@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 1997 über eine leistungsabhängige Schwer
 short: SVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: de
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20240501-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20250301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/de"
 
 (Schwerverkehrsabgabegesetz, SVAG)
 
-vom 19. Dezember 1997 (Stand am 1. Mai 2024)
+vom 19. Dezember 1997 (Stand am 1. März 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -364,7 +364,9 @@ Das BAZG kann zur Kontrolle, ob die gefahrenen Kilometer, die sich aus der in de
 
 <sup>1</sup> Der Reinertrag wird zu einem Drittel als gebundene Ausgabe den Kantonen zugewiesen und verbleibt zu zwei Dritteln beim Bund.
 
-<sup>2</sup> Der Bund verwendet seinen Anteil am Reinertrag vorab zur Finanzierung der Eisenbahngrossprojekte nach Artikel 23 der Übergangsbestimmungen der Bundesverfassung[^19-2] sowie zum Ausgleich der von ihm getragenen ungedeckten Kosten im Zusammenhang mit dem Strassenverkehr.
+<sup>2</sup> Der Bund weist seinen Anteil am Reinertrag dem Bahninfrastrukturfonds nach dem Bahninfrastrukturfondsgesetz vom 21. Juni 2013[^19-2] zu.[^19-3]
+
+<sup>2bis</sup> Sofern der Bundesrat in der Finanzplanung des Bahninfrastrukturfonds eine Reserve von mindestens 300 Millionen Franken ausweist, verwendet der Bund die nicht für die Bildung der Reserve benötigten Mittel zum Ausgleich der von ihm getragenen ungedeckten Kosten im Zusammenhang mit dem Strassenverkehr.[^19-4]
 
 <sup>3</sup> Die Kantone verwenden ihren Anteil am Reinertrag vorab für den Ausgleich der von ihnen getragenen ungedeckten Kosten im Zusammenhang mit dem Strassenverkehr.
 
@@ -378,7 +380,9 @@ Bei der Verteilung des Anteils der Kantone nach Absatz 1 sind die besonderen Aus
 - d. der steuerlichen Belastung des Motorfahrzeugverkehrs.
 
 [^19-1]: Eingefügt durch Anhang Ziff. II 3 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19-2]: [[AS 1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Siehe heute Art. 196 Ziff. 12 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^19-2]: [SR 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^19-3]: Fassung gemäss Ziff. II des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
+[^19-4]: Eingefügt durch Ziff. II des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
 #### Art. 19a
 
