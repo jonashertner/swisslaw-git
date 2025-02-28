@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2024-08-01
-valid_until: 2025-02-28
-version_adopted: 2024-06-11
+version: 2025-03-01
+valid_until: 2026-03-31
+version_adopted: 2024-12-09
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5463/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.08.2024)
+Vom 25.05.2004 (Stand 01.03.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -107,11 +107,16 @@ beschliesst:
 - b<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Gesundheitsversorgung:
   - 1\. Betriebs- und Berufsausübungsbewilligungen sowie Bewilligungen von Zweigpraxen;
   - 2\. Verfügungen gemäss der Heilmittel- und Betäubungsmittelgesetzgebung;
-  - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung;
-  - 4\. Verfügungen und Anordnungen im Bereich der ambulanten Pflege (Spitex), der Langzeitpflege (Alters- und Pflegeheime) sowie in den übrigen Belangen im Zusammenhang mit dem Alter;
-  - 5\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt;
-  - 6\. Verfügungen und Anordnungen im Suchtbereich;
-  - 7\. Verfügungen und Anordnungen im Zusammenhang mit dem Vollzug der Ausbildungsverpflichtung und der Gewährung von Beiträgen für Ausbildungsleistungen gemäss dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^4-1].
+  - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
+  - 4\. …
+  - 5\. …
+  - 6\. …
+  - 7\. …
+- b<sup>ter</sup>) vom Leiter oder von der Leiterin der Abteilung Alter, Pflege und Suchthilfe:
+  - 1\. Verfügungen und Anordnungen im Bereich der ambulanten Pflege (Spitex) und der Langzeitpflege (Alters- und Pflegeheime), wie insbesondere Betriebsbewilligungen, sowie in den übrigen Belangen im Zusammenhang mit dem Alter;
+  - 2\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt;
+  - 3\. Verfügungen und Anordnungen im Suchtbereich;
+  - 4\. Verfügungen und Anordnungen im Zusammenhang mit dem Vollzug der Ausbildungsverpflichtung und der Gewährung von Beiträgen für Ausbildungsleistungen gemäss dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^4-1].
 - c) vom Leiter oder von der Leiterin der Abteilung Kantonsärztlicher Dienst:
   - 1\. Verfügungen im Bereich der Spitalaufenthalte nach der Gesetzgebung über die Krankenversicherung;
   - 1<sup>bis</sup>. Verfügungen betreffend den ärztlichen Nachweis für eine einwandfreie Berufsausübung von Gesundheitsfachpersonen mit vollendetem 75. Altersjahr;
@@ -282,7 +287,7 @@ beschliesst:
 - b) …
 - c) vom Leiter oder von der Leiterin Rechtsdienst des Steueramtes:
   - 1\. Genehmigung von Steuerreglementen der Gemeinden.
-- d) vom Leiter oder von der Leiterin der Erlassabteilung oder vom Departementsekretär oder von der Departementssekretärin:
+- d) vom Leiter oder von der Leiterin der Erlassabteilung oder vom Departementssekretär oder von der Departementssekretärin:
   - 1\. Erlass von Steuern und Gebühren.
 - e) vom Chef oder von der Chefin des Amtes für Finanzen
   - 1\. Verfügungen zur Rückforderung der unentgeltlichen Rechtspflege.
