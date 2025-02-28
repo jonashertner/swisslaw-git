@@ -4,13 +4,13 @@ number: "141.41"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2025-02-01
-valid_until: 2025-02-28
-version_adopted: 2025-01-07
+version: 2025-03-01
+valid_until: 2025-05-31
+version_adopted: 2025-02-04
 adopted: 2011-01-04
 in_force: 2011-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3739/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3739/pdf_file"
 
 (DelV)
 
-vom 04.01.2011 (Stand 01.02.2025)
+vom 04.01.2011 (Stand 01.03.2025)
 
 Die Regierung des Kantons St.Gallen
 
