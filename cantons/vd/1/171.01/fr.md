@@ -4,7 +4,7 @@ number: "171.01"
 title: LOI du 08.05.2007 sur le Grand Conseil (LGC)
 short: LGC
 language: fr
-version: 2023-09-01
+version: 2025-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321"
 ---
 
@@ -515,17 +515,18 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **Crédits supplémentaires au budget du Grand Conseil [^35-2]**
 
-<sup>1</sup> Les dispositions de la loi sur les finances [^36-1] relatives aux crédits supplémentaires s'appliquent à ceux relatifs au budget du Grand Conseil, sous réserve des alinéas 2 et 3 ci-dessous.
+<sup>1</sup> Les dispositions de la loi sur les finances relatives aux crédits supplémentaires s'appliquent à ceux relatifs au budget du Grand Conseil, sous réserve des alinéas ci-dessous.
 
 <sup>2</sup> Toute demande de crédit supplémentaire au budget du Grand Conseil est élaborée et traitée conformément à l'article 35, alinéas 3 et 4 de la présente loi.
 
 <sup>3</sup> Lorsque le crédit supplémentaire est compensé, il est octroyé par le Bureau si le montant est inférieur ou égal à un million de francs et par la Commission des finances au-delà.
 
-<sup>4</sup> Lorsque le crédit supplémentaire n'est pas compensé, il est octroyé par la Commission des finances sur proposition du Bureau du Grand Conseil. La Commission des finances est nantie du préavis du Département des finances[^36-2] .
+<sup>4</sup> Lorsque le crédit supplémentaire n'est pas compensé, il est octroyé par la Commission des finances sur proposition du Bureau du Grand Conseil. La Commission des finances est nantie du préavis du Département des finances[^36-1] .
+
+<sup>5</sup> Les crédits supplémentaires destinés à financer les travaux d'une commission d'enquête parlementaire ne sont pas compensés. Ils sont octroyés par le Bureau, qui est lié par les besoins de la commission d'enquête parlementaire, pour toute la durée des travaux de la commission. Le Bureau transmet le projet de crédit supplémentaire pour préavis technique à la Commission des finances, laquelle siège hors présence du Conseil d'Etat, du Département en charge des finances et de leurs représentants. La commission des finances rend son rapport dans le délai fixé par le Bureau.
 
 [^35-2]: Modif. 23 du 19.11.2024: Modification Al. 1; entrée en vigueur au 01.03.2025; Introduction Al. 5; entrée en vigueur au 01.03.2025
-[^36-1]: Loi du 20.09.2005 sur les finances ([BLV 610.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.11?id=dd5e9f93-2be9-407c-85ec-e667ab4a151e))
-[^36-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^36-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Chapitre V Commissions
 
