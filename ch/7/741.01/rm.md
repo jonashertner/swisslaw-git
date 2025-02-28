@@ -4,11 +4,11 @@ title: Lescha davart il traffic sin via dals 19 da december 1958 (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: rm
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LTV)[^t-1]
 
-dals 19 da december 1958 (versiun dal 1. da matg 2024)
+dals 19 da december 1958 (versiun dal 1. da mars 2025)
 
 [^t-1]: Titel tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -799,6 +799,111 @@ Suenter avair consultà ils chantuns fixescha il Cussegl federal prescripziuns d
 [^25-6]: Integrà tras la cifra I da la LF dals 6 d’oct. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abolì tras la cifra I da la LF dals 14 da dec. 2001, cun effect dapi il 1. da dec. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 al. 2; BBl **1999** 4462).
 [^25-7]: Abolì tras la cifra I 23 da la LF dals 9 d’oct. 1992 davart la reducziun d’agids finanzials e d’indemnisaziuns, cun effect dapi il 1. da schan. 1993 ([AS 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325); [BBl 1992 III 349](https://fedlex.data.admin.ch/eli/fga/1992/3_349_341_294)).
 
+## II*a*. titel Vehichels equipads cun in sistem d’automatisaziun
+
+[^titIIa-1]
+
+[^titIIa-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. da mars 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+
+### Noziun
+
+#### Art. 25a
+
+Vehichels equipads cun in sistem d’automatisaziun èn vehichels ch’èn abels da surpigliar, almain sut tschertas cundiziuns, permanentamain e cumplessivamain las incumbensas da manischar dal manischunz.
+
+### Liberaziun dal manischunz da sias obligaziuns
+
+#### Art. 25b
+
+<sup>1</sup> Il Cussegl federal regla, sut tge premissas ed en tge dimensiuns ch’in manischunz d’in vehichel equipà cun in sistem d’automatisaziun è deliberà da sias obligaziuns tenor l’artitgel 31 alinea 1.
+
+<sup>2</sup> El po prevair che vehichels equipads cun in sistem d’automatisaziun pon far manevras en absenza dal manischunz sin surfatschas da parcar ch’èn separadas dal rest dal traffic e da las surfatschas da traffic destinadas per peduns e ciclists. El regla las premissas e las pretensiuns envers talas surfatschas da parcar.
+
+### Vehichels senza manischunz sin tscherts trajects
+
+#### Art. 25c
+
+<sup>1</sup> Vehichels equipads cun in sistem d’automatisaziun che na basegnan nagin manischunz, dastgan vegnir admess mo sin trajects definids e ston vegnir survegliads d’in operatur.
+
+<sup>2</sup> Il Cussegl federal regla las ulteriuras premissas d’admissiun e d’utilisaziun, la procedura d’admissiun sco er ils dretgs e las obligaziuns dals operaturs.
+
+<sup>3</sup> Il chantun d’immatriculaziun (art. 22) definescha da cas a cas ils trajects ed eventualas ulteriuras premissas, sut las qualas in vehichel senza manischunz po vegnir utilisà sin ils trajects definids. En cas da trajects interchantunals sa cunvegn el cun ils chantuns pertutgads, en cas da trajects sin vias naziunalas cun il UVIAS.
+
+### Vehichels senza manischunz cun dimensiuns reducidas e cun pitschna sveltezza
+
+#### Art. 25d
+
+<sup>1</sup> Il Cussegl federal po prevair che vehichels cun dimensiuns reducidas e cun pitschna sveltezza, che na basegnan nagin manischunz, pon vegnir admess er senza definir tscherts trajects, ed el po deliberar l’operatur da tals vehichels da tschertas obligaziuns. El regla las premissas d’admissiun e d’utilisaziun sco er la procedura d’admissiun.
+
+<sup>2</sup> Sch’ils vehichels vegnan utilisads sin il territori d’auters chantuns, sa procura il chantun d’immatriculaziun il consentiment da quests chantuns.
+
+### Disposiziuns cuminaivlas
+
+#### Art. 25e
+
+<sup>1</sup> En il rom da las regulaziuns tenor ils artitgels 25*b*–25*d* procura il Cussegl federal, che la segirezza da tut ils utilisaders da la via na vegnia betg restrenschida, che las reglas da traffic possian vegnir respectadas e ch’ils sistems d’automatisaziun possian mo elavurar datas, sche lur correctadad ed integritad èn garantidas.
+
+<sup>2</sup> Ils vehichels equipads cun in sistem d’automatisaziun ston disponer d’in registratur dal modus da viadi.
+
+<sup>3</sup> Il sistem d’automatisaziun ed il registratur dal modus da viadi ston vegnir protegids cunter access nunautorisads.
+
+### Pretensiuns envers il registratur dal modus da viadi
+
+#### Art. 25f
+
+<sup>1</sup> Il registratur dal modus da viadi na dastga betg esser deactivabel.
+
+<sup>2</sup>
+
+El sto registrar ils suandants eveniments e munir tals cun in bul da temp:
+
+- a. l’activaziun dal sistem d’automatisaziun;
+- b. la deactivaziun dal sistem d’automatisaziun ed il motiv per la deactivaziun;
+- c. il cumond dal sistem d’automatisaziun al manischunz da puspè surpigliar la controlla dal vehichel ed il motiv per quest cumond;
+- d. la bloccada u la mitigiaziun d’intervenziuns dal manischunz tras il sistem d’automatisaziun;
+- e. l’iniziaziun d’ina manevra tras il sistem d’automatisaziun per minimar las ristgas;
+- f. l’iniziaziun d’ina manevra tras il sistem d’automatisaziun en cas d’urgenza; e
+- g. disturbis tecnics che resultan e ch’èn relevants per la segirezza.
+
+<sup>3</sup>
+
+Per vehichels senza manischunz ston plinavant vegnir registrads ils suandants eveniments:
+
+- a. la surdada d’in cumond tras l’operatur;
+- b. l’interrupziun da la colliaziun da communicaziun cun l’operatur.
+
+<sup>4</sup> Ils eveniments ston vegnir registrads entaifer in sistem serrà ensemen cun l’indicaziun da la versiun da la software dal sistem d’automatisaziun ch’è installada.
+
+<sup>5</sup> Las datas registradas dal registratur dal modus da viadi na dastgan betg esser modifitgablas. Cura che la capacitad d’accumulaziun è cuntanschida, vegnan surscrittas las datas las pli veglias.
+
+<sup>6</sup> Il Cussegl federal concretisescha en concordanza cun il dretg internaziunal, tge datas che ston vegnir registradas. El po deliberar vehichels tenor l’artitgel 25*d* da l’obligaziun da disponer d’in registratur dal modus da viadi u restrenscher ils eveniments ch’èn da registrar.
+
+### Access a las datas dal registratur dal modus da viadi
+
+#### Art. 25g
+
+<sup>1</sup> Las datas dal registratur dal modus da viadi ston esser accessiblas per il possessur dal vehichel sur ina interfatscha da standard. Las datas ston esser disponiblas per el en ina furma ch’è simpla da leger. A datas ch’èn vegnidas registradas durant viadis da terzas persunas, dastga el acceder senza lur consentiment mo, sch’el po far valair in interess legitim en connex cun in accident u cun ina cuntravenziun cunter las prescripziuns davart il traffic sin via.
+
+<sup>2</sup> Il possessur dal vehichel metta a disposiziun al manischunz ed a l’operatur quellas datas da lur viadis, per las qualas els pon far valair in interess legitim.
+
+<sup>3</sup> Per sclerir accidents u per giuditgar cuntravenziuns cunter las prescripziuns davart il traffic sin via pon las autoritads polizialas, giudizialas ed administrativas leger ed elavurar las datas respectivas dal registratur dal modus da viadi. Uschespert che las datas legidas n’èn betg pli necessarias per in’eventuala procedura penala u administrativa, dentant il pli tard 6 mais suenter la finiziun da la procedura cun vigur legala, sto l’autoritad stizzar las datas.
+
+<sup>4</sup> En il rom da las controllas regularas dals vehichels (art. 13 al. 4) pon las autoritads d’immatriculaziun leger ed elavurar las datas dal registratur dal modus da viadi per controllar la funcziunalitad dal sistem d’automatisaziun. Uschespert che las datas legidas n’èn betg pli necessarias per la controlla, dentant il pli tard 2 onns suenter ch’il vehichel è vegnì mess ord circulaziun, sto l’autoritad d’immatriculaziun stizzar las datas.
+
+<sup>5</sup> Las autoritads d’immatriculaziun transmettan las datas legidas tenor l’alinea 4 ensemen cun il tip da vehichel al UVIAS en ina furma che na permetta betg d’identifitgar il manischunz u l’operatur u il singul vehichel. Il UVIAS utilisescha las datas per survegliar il martgà e las metta a disposiziun per retschertgas ed analisas.
+
+### Emprovas cun vehichels equipads cun in sistem d’automatisaziun
+
+#### Art. 25h
+
+<sup>1</sup> Il UVIAS po permetter emprovas da durada limitada cun vehichels equipads cun in sistem d’automatisaziun. En quest connex po el er permetter emprovas cun vehichels che na basegnan nagin manischunz, senza definir tscherts trajects.
+
+<sup>2</sup> En il rom da la permissiun po el prevair divergenzas da las prescripziuns vertentas dal dretg davart il traffic sin via. La segirezza da tut ils utilisaders da la via sto vegnir garantida da tut temp.
+
+<sup>3</sup> Las emprovas e las enconuschientschas respectivas ston vegnir documentadas da la persuna responsabla per las emprovas. Il UVIAS publitgescha ils rapports correspundents. La persuna responsabla conceda al UVIAS l’access a tut las datas en connex cun las emprovas.
+
+<sup>4</sup> Il UVIAS po delegar la decisiun da permetter emprovas che na surpassan betg il rom regiunal, en il cas singul als chantuns. El fixescha las cundiziuns generalas per la realisaziun da questas emprovas.
+
 ## III. titel Reglas da traffic
 
 ### Regla fundamentala
@@ -851,7 +956,7 @@ Vehichels dastgan mo circular, sch’els èn en in stadi da funcziunament perfet
 
 <sup>5</sup>
 
-El decretescha prescripziuns davart il transport da rauba privlusa. El fixescha ils trajects, sin ils quals vehichels cun rauba privlusa na dastgan – pervia da las relaziuns localas u cun l’intent da diriger il traffic – betg circular u circular mo cun restricziuns. Per containers da rauba privlusa regla el:
+El decretescha prescripziuns davart il transport da martganzia privlusa. El fixescha ils trajects, sin ils quals vehichels cun martganzia privlusa na dastgan – pervia da las relaziuns localas u cun l’intent da diriger il traffic – betg circular u circular mo cun restricziuns. Per containers da martganzia privlusa regla el:
 
 - a. la procedura per controllar la confurmitad cun las pretensiuns fundamentalas;
 - b. la procedura per renconuscher posts independents ch’èn incaricads cun valitaziuns da confurmitad.[^30-3]
@@ -873,7 +978,7 @@ El decretescha prescripziuns davart il transport da rauba privlusa. El fixescha 
 Il Cussegl federal po scumandar a las suandantas gruppas da persunas da manischar sut l’influenza d’alcohol:
 
 - a. a las persunas che fan transports da persunas transcunfinals u concessiunads sin via (art. 8 al. 2 da la LF dals 20 da mars 2009[^31-2] davart il transport da persunas ed art. 3 al. 1 da la LF dals 20 da mars 2009[^31-3] davart l’admissiun d’interpresas al transport sin via);
-- b. a las persunas che fan transports professiunals da persunas u transports da rauba cun vehichels a motor grevs u che transportan rauba privlusa;
+- b. a las persunas che fan transports professiunals da persunas u transports da rauba cun vehichels a motor grevs u che transportan martganzia privlusa;
 - c. als magisters d’autoscola;
 - d. als titulars d’in permiss per emprender a manischar;
 - e. a las persunas che accumpognan viadis d’emprender a manischar;

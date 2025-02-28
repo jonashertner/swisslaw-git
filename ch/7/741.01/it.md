@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 short: LCStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: it
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/it"
 
 (LCStr)
 
-del 19 dicembre 1958 (Stato 1° maggio 2024)
+del 19 dicembre 1958 (Stato 1° marzo 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 82 capoversi 1 e 2, 110 capoverso 1 lettera a, 122 capoverso 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ## Titolo primo: Disposizioni generali
 
@@ -40,10 +40,10 @@ decreta:
 
 <sup>3</sup> Salvo disposizione contraria della presente legge, alla messa in commercio di veicoli a motore, velocipedi e rimorchi, nonché dei loro componenti, si applica la legge federale del 12 giugno 2009[^1-3] sulla sicurezza dei prodotti.[^1-4]
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^1-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^1-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^1-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^1-4]: Introdotto dall’art. 20 cpv. 2 n. 2 della LF del 12 giu. 2009 sulla sicurezza dei prodotti ([RU 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347); [FF 2008 6513](https://fedlex.data.admin.ch/eli/fga/2008/1234)). Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^1-4]: Introdotto dall’art. 20 cpv. 2 n. 2 della LF del 12 giu. 2009 sulla sicurezza dei prodotti ([RU 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347); [FF 2008 6513](https://fedlex.data.admin.ch/eli/fga/2008/1234)). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Competenza della Confederazione
 
@@ -67,13 +67,13 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>5</sup> Per le strade di proprietà della Confederazione, le autorità federali designate dal Consiglio federale stabiliscono se e a quali condizioni la circolazione pubblica è permessa. Esse provvedono al collocamento dei segnali necessari.
 
-[^2-1]: Abrogata dal n. I della LF del 22 mar. 1991, con effetto dal 15 mar. 1992 ([RU 1992 534](https://fedlex.data.admin.ch/eli/oc/1992/534_534_534); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
-[^2-2]: Nuovo testo del per. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^2-1]: Abrogata dalla cifra I della LF del 22 mar. 1991, con effetto dal 15 mar. 1992 ([RU 1992 534](https://fedlex.data.admin.ch/eli/oc/1992/534_534_534); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^2-2]: Nuovo testo del per. giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^2-3]: Nuovo testo giusta l’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^2-4]: Nuovo testo giusta l’art. 63 della LF dell’8 mar. 1960 su le strade nazionali, in vigore dal 21 giu. 1960 ([RU 1960 555](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); FF **1959** II 649).
-[^2-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^2-6]: Introdotto dal n. I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837). Nuovo testo giusta l’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^2-7]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^2-5]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^2-6]: Introdotto dalla cifra I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837). Nuovo testo giusta l’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-7]: Nuovo testo giusta la cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Prevenzione
 
@@ -85,7 +85,7 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>2</sup> Essa può coordinare e sostenere le attività svolte in questo senso dai Cantoni e dalle organizzazioni private.
 
-[^2a-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
+[^2a-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
 
 ### Competenza dei Cantoni e dei Comuni
 
@@ -106,8 +106,8 @@ Il Consiglio federale, consultati i Cantoni, può:
 [^3-1]: Per. abrogato dall’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^3-2]: Nuovo testo giusta l’all. n. 4 della L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^3-3]: Nuovo testo del per. giusta l’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^3-4]: Per. introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dall’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^3-5]: Nuovo testo giusta il n. I della LF del 23 mar. 1984, in vigore dal 1° ago. 1984 ([RU 1984 808](https://fedlex.data.admin.ch/eli/oc/1984/808_808_808); [FF 1982 II 835](https://fedlex.data.admin.ch/eli/fga/1982/2___835), [1983 I 717](https://fedlex.data.admin.ch/eli/fga/1983/1_801_776_717)).
+[^3-4]: Per. introdotto dalla cifra I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dall’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^3-5]: Nuovo testo giusta la cifra I della LF del 23 mar. 1984, in vigore dal 1° ago. 1984 ([RU 1984 808](https://fedlex.data.admin.ch/eli/oc/1984/808_808_808); [FF 1982 II 835](https://fedlex.data.admin.ch/eli/fga/1982/2___835), [1983 I 717](https://fedlex.data.admin.ch/eli/fga/1983/1_801_776_717)).
 
 ### Ostacoli alla circolazione
 
@@ -137,7 +137,7 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>2</sup> Il Consiglio federale può vietare qualsiasi pubblicità e altro annuncio sulle autostrade e sulle semiautostrade, come pure in prossimità di esse.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Sicurezza dell’infrastruttura stradale
 
@@ -153,9 +153,9 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>4</sup> La Confederazione e ciascun Cantone nominano un interlocutore per le questioni inerenti alla sicurezza stradale (addetto alla sicurezza).[^6a-3]
 
-[^6a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, i cpv. 1, 3 e 4 entrano in vigore il 1° lug. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^6a-2]: Abrogato dal n. I della LF del 17 mar. 2023, con effetto dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^6a-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^6a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, i cpv. 1, 3 e 4 entrano in vigore il 1° lug. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^6a-2]: Abrogato dalla cifra I della LF del 17 mar. 2023, con effetto dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^6a-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ## Titolo secondo: Veicoli e conducenti
 
@@ -201,12 +201,12 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>4</sup> Rimane salva ogni limitazione, indicata da un segnale, della larghezza, dell’altezza, del peso e del carico per asse dei veicoli.
 
-[^9-1]: Nuovo testo giusta il n. I 1 della LF dell’8 ott. 1999 concernente l’Acc. fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia, in vigore dal 1° gen. 2001 ([RU 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^9-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’8 ott. 1999 concernente l’Acc. fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia, in vigore dal 1° gen. 2001 ([RU 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^9-2]: Nuovo testo giusta l’art. 7 della LF del 13 dic. 2013 sul corridoio di quattro metri, in vigore dal 1° giu. 2014 ([RU 2014 1111](https://fedlex.data.admin.ch/eli/oc/2014/242); [FF 2013 3185](https://fedlex.data.admin.ch/eli/fga/2013/825)).
-[^9-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-4]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^9-5]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-6]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^9-3]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^9-4]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-5]: Nuovo testo del per. giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^9-6]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
 
 ### Licenze
 
@@ -220,7 +220,7 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>4</sup> Il conducente deve sempre portare con sé le licenze e presentarle agli organi di controllo che le richiedessero; la stessa norma vale anche per i permessi speciali.
 
-[^10-1]: Abrogato dal n. I della LF del 14 dic. 2001, con effetto dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
+[^10-1]: Abrogato dalla cifra I della LF del 14 dic. 2001, con effetto dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
 
 ### Licenza di circolazione
 
@@ -238,10 +238,10 @@ La licenza di circolazione può essere rifiutata se il detentore non ha corrispo
 
 <sup>3</sup> Se un veicolo è trasferito di stanza in un altro Cantone o passa a un altro detentore, deve essere chiesta una nuova licenza di circolazione.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^11-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^11-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^11-4]: Nuovo testo giusta il n. II della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^11-4]: Nuovo testo giusta la cifra II della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Approvazione del tipo
 
@@ -268,7 +268,7 @@ Il Consiglio federale può rinunciare all’approvazione del tipo svizzera di ve
 
 <sup>4</sup> Il Consiglio federale designa gli uffici competenti per l’esame, il rilevamento dei dati, l’approvazione del tipo e la verifica successiva; disciplina la procedura e determina le tasse.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
 
 ### Esame dei veicoli
 
@@ -282,7 +282,7 @@ Il Consiglio federale può rinunciare all’approvazione del tipo svizzera di ve
 
 <sup>4</sup> Il Consiglio federale prescrive l’esame periodico dei veicoli.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
 
 ### Idoneità alla guida e capacità di condurre
 
@@ -308,7 +308,7 @@ Il Consiglio federale può rinunciare all’approvazione del tipo svizzera di ve
 - a. conosce le norme della circolazione; e
 - b. sa condurre con sicurezza i veicoli della categoria per la quale è rilasciata la licenza di condurre.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Licenza per allievo conducente
 
@@ -330,13 +330,13 @@ La prova di cui al capoverso 1 lettera b è fornita:
 - a. dai conducenti professionali di veicoli a motore: mediante un certificato di un medico di fiducia;
 - b. dagli altri conducenti di veicoli a motore: mediante un esame della vista riconosciuto dall’autorità competente e una dichiarazione personale sul proprio stato di salute.
 
-[^14a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^14a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Formazione e perfezionamento dei conducenti di veicoli a motore
 
 [^titII-chap1-lvlu10-1]
 
-[^titII-chap1-lvlu10-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^titII-chap1-lvlu10-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 #### Art. 15
 
@@ -354,11 +354,11 @@ La prova di cui al capoverso 1 lettera b è fornita:
 
 <sup>6</sup> Il Consiglio federale può prescrivere, per i candidati alla licenza di condurre, una formazione in materia di pronto soccorso.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^15-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^15-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^15-4]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^15-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^15-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15-4]: Nuovo testo del per. giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15-5]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Licenza di condurre in prova
 
@@ -385,11 +385,11 @@ La licenza di condurre in prova è rilasciata se il richiedente:
 
 <sup>6</sup> Superato nuovamente l’esame di guida, è rilasciata una nuova licenza di condurre in prova.
 
-[^15a-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
-[^15a-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^15a-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^15a-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^15a-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^15a-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
+[^15a-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15a-3]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15a-4]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^15a-5]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Licenza di condurre definitiva
 
@@ -406,7 +406,7 @@ La licenza di condurre definitiva è rilasciata se il richiedente:
 
 <sup>2</sup> Allo scadere del periodo di prova, ai titolari di licenze di condurre in prova è rilasciata la licenza di condurre definitiva se hanno frequentato i corsi di perfezionamento prescritti.
 
-[^15b-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15b-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Durata di validità delle licenze di condurre
 
@@ -420,7 +420,7 @@ La licenza di condurre definitiva è rilasciata se il richiedente:
 
 <sup>3</sup> L’autorità cantonale può limitare la durata di validità delle licenze di condurre se l’idoneità alla guida di una persona è pregiudicata e deve quindi essere controllata a scadenze più ravvicinate.
 
-[^15c-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15c-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Accertamento dell’idoneità alla guida o della capacità di condurre
 
@@ -446,9 +446,9 @@ Se sussistono dubbi sull’idoneità alla guida di una persona, quest’ultima �
 
 <sup>5</sup> Se vi sono dubbi sulla capacità di condurre di una persona, quest’ultima può essere sottoposta a una corsa di controllo, a un esame teorico, a un esame pratico di conducente o a un altro provvedimento opportuno, quale una formazione o un perfezionamento oppure una formazione complementare.
 
-[^15d-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, la lett. a del cpv. 1 entra in vigore il 1° lug. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15d-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, la lett. a del cpv. 1 entra in vigore il 1° lug. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^15d-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^15d-3]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [FF 2017 3163](https://fedlex.data.admin.ch/eli/fga/2017/870)[3311](https://fedlex.data.admin.ch/eli/fga/2017/926)).
+[^15d-3]: Nuovo testo giusta la cifra I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [FF 2017 3163](https://fedlex.data.admin.ch/eli/fga/2017/870)[3311](https://fedlex.data.admin.ch/eli/fga/2017/926)).
 
 ### Periodo di attesa in seguito a guida senza licenza
 
@@ -460,7 +460,7 @@ Se sussistono dubbi sull’idoneità alla guida di una persona, quest’ultima �
 
 <sup>2</sup> Se il conducente ha inoltre commesso l’infrazione prevista all’articolo 16*c* capoverso 2 lettera a<sup>bis</sup>, il periodo di attesa è di due anni o, in caso di recidiva, di dieci anni.
 
-[^15e-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15e-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Revoca delle licenze
 
@@ -487,12 +487,12 @@ La licenza di circolazione viene revocata se:
 - b. il veicolo non è equipaggiato con l’apparecchio di rilevazione prescritto per la riscossione della tassa.[^16-7]
 
 [^16-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
-[^16-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Nuovo del per. testo giusta l’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^16-4]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^16-5]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^16-4]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^16-5]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
 [^16-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^16-7]: Introdotto dal n. II della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^16-7]: Introdotto dalla cifra II della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Ammonimento o revoca della licenza di condurre dopo un’infrazione lieve
 
@@ -514,9 +514,9 @@ Commette un’infrazione lieve chi:
 
 <sup>4</sup> Nei casi particolarmente lievi si rinuncia a qualsiasi provvedimento.
 
-[^16a-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^16a-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16a-3]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16a-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^16a-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16a-3]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Revoca della licenza di condurre dopo un’infrazione medio grave
 
@@ -545,9 +545,9 @@ Dopo un’infrazione medio grave, la licenza per allievo conducente o la licenza
 - e. un tempo indeterminato, ma almeno per due anni, se nei dieci anni precedenti la licenza è stata revocata tre volte per infrazioni almeno medio gravi; si rinuncia a questo provvedimento se durante almeno cinque anni dalla scadenza di una revoca della licenza non sono state commesse infrazioni per cui è ordinato un provvedimento amministrativo;
 - f.[^16b-4] definitivamente, se nei cinque anni precedenti la licenza è stata revocata secondo la lettera e o l’articolo 16*c* capoverso 2 lettera d.
 
-[^16b-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^16b-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16b-3]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1 gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16b-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^16b-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16b-3]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1 gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^16b-4]: Vedi anche le disp. fin. della mod. del 14 dic. 2001 alla fine del presente testo.
 
 ### Revoca della licenza di condurre dopo un’infrazione grave
@@ -582,9 +582,9 @@ Dopo un’infrazione grave la licenza per allievo conducente o la licenza di con
 
 <sup>4</sup> Se, nonostante una revoca secondo l’articolo 16*d*, la persona interessata ha guidato un veicolo a motore, è deciso un periodo di sospensione che corrisponde alla durata minima di revoca prevista per l’infrazione.
 
-[^16c-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^16c-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16c-3]: Introdotta dal n. I della LF del 15 giu. 2012 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^16c-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^16c-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16c-3]: Introdotta dalla cifra I della LF del 15 giu. 2012 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16c-4]: Vedi anche le disp. fin. della mod. del 14 dic. 2001 alla fine del presente testo.
 
 ### Revoca della licenza di condurre dopo un’infrazione commessa all’estero
@@ -602,8 +602,8 @@ Dopo un’infrazione commessa all’estero, la licenza per allievo conducente o 
 
 <sup>2</sup> Per stabilire la durata della revoca della licenza devono essere adeguatamente considerate le conseguenze, per la persona interessata, del divieto di condurre pronunciato all’estero. La durata minima della revoca può essere ridotta. Per le persone sul cui conto non figurano provvedimenti amministrativi nel sistema d’informazione sull’ammissione alla circolazione (art. 89*c* lett. d), la durata della revoca non può eccedere la durata del divieto di condurre pronunciato all’estero nel luogo dell’infrazione. [^16cbis-2]
 
-[^16cbis-1]: Introdotto dal n. I della LF del 20 mar. 2008. in vigore dal 1° set. 2008 ([RU 2008 3939](https://fedlex.data.admin.ch/eli/oc/2008/530); [FF 2007 6889](https://fedlex.data.admin.ch/eli/fga/2007/1189)).
-[^16cbis-2]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16cbis-1]: Introdotto dalla cifra I della LF del 20 mar. 2008. in vigore dal 1° set. 2008 ([RU 2008 3939](https://fedlex.data.admin.ch/eli/oc/2008/530); [FF 2007 6889](https://fedlex.data.admin.ch/eli/fga/2007/1189)).
+[^16cbis-2]: Nuovo testo del per. giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Revoca della licenza di condurre a causa di inidoneità alla guida
 
@@ -628,8 +628,8 @@ La licenza è revocata definitivamente:
 - a. ai conducenti incorreggibili;
 - b. alle persone la cui licenza è già stata revocata una volta negli ultimi cinque anni in applicazione dell’articolo 16*c* capoverso 2 lettera a<sup>bis</sup>.[^16d-2]
 
-[^16d-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^16d-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16d-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^16d-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Nuovo rilascio della licenza di condurre
 
@@ -647,9 +647,9 @@ La licenza è revocata definitivamente:
 
 <sup>5</sup> Se la persona interessata non adempie le condizioni impostegli o viene meno in altro modo alla fiducia in lei riposta, la licenza è nuovamente revocata.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^17-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^17-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^17-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^17-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Capo secondo: Veicoli senza motore e loro conducenti
 
@@ -663,8 +663,8 @@ La licenza è revocata definitivamente:
 
 <sup>3</sup> I Cantoni possono ordinare esami dei velocipedi.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^18-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^18-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 
 ### Ciclisti
 
@@ -678,9 +678,9 @@ La licenza è revocata definitivamente:
 
 <sup>4</sup> I ciclisti, sulla cui idoneità alla circolazione esistono dubbi, possono essere sottoposti a un esame.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^19-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^19-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^19-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^19-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Altri veicoli
 
@@ -690,7 +690,7 @@ La licenza è revocata definitivamente:
 
 Il Consiglio federale stabilisce le dimensioni degli altri veicoli, considerando in particolare le esigenze dell’agricoltura e della selvicoltura.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1997, in vigore dal 15 mag. 1998 ([RU 1998 1438](https://fedlex.data.admin.ch/eli/oc/1998/1438_1438_1438); [FF 1997 IV 982](https://fedlex.data.admin.ch/eli/fga/1997/4_1223_1095_982)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1997, in vigore dal 15 mag. 1998 ([RU 1998 1438](https://fedlex.data.admin.ch/eli/oc/1998/1438_1438_1438); [FF 1997 IV 982](https://fedlex.data.admin.ch/eli/fga/1997/4_1223_1095_982)).
 
 ### Conducenti di veicoli a trazione animale
 
@@ -702,7 +702,7 @@ Il Consiglio federale stabilisce le dimensioni degli altri veicoli, considerando
 
 <sup>2</sup> Non possono condurre veicoli a trazione animale le persone che non sono in grado di farlo in modo sicuro a causa di una malattia fisica o psichica oppure di una dipendenza. L’autorità può vietare a queste persone di condurre veicoli a trazione animale.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Capo terzo: Disposizioni comuni
 
@@ -716,7 +716,7 @@ Il Consiglio federale stabilisce le dimensioni degli altri veicoli, considerando
 
 <sup>3</sup> Per il veicolo che non ha un luogo di stanza fisso e per il conducente che non ha domicilio in Svizzera, la competenza è determinata dal luogo in cui si trova prevalentemente. In caso di dubbio, è competente il Cantone che inizia la procedura per primo.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003, seconda parte del per. 3 in vigore il 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003, seconda parte del per. 3 in vigore il 1° feb. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 1; FF **1999** 3837).
 
 ### Provvedimenti amministrativi: procedura e durata
 
@@ -787,14 +787,117 @@ Il Consiglio federale, consultati i Cantoni, emana prescrizioni circa:
 
 <sup>4</sup> ...[^25-8]
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^25-2]: Nuovo testo giusta il n. II 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^25-3]: Abrogata dal n. I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^25-4]: Nuova espr. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^25-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Vedi il testo originale dell’art. 25 cpv. 3 lett. e ancora applicabile, alla fine del presente testo.
-[^25-6]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^25-7]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 14 dic. 2001, con effetto dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
-[^25-8]: Abrogato dal n. I 23 della LF del 9 ott. 1992 concernente la riduzione di aiuti finanziari e di indennità, con effetto dal 1° gen. 1993 ([RU 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^25-2]: Nuovo testo giusta il cifra II n. 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^25-3]: Abrogata dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^25-4]: Nuova espr. giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^25-5]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Vedi il testo originale dell’art. 25 cpv. 3 lett. e ancora applicabile, alla fine del presente testo.
+[^25-6]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^25-7]: Introdotto dalla cifra I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dalla cifra I della LF del 14 dic. 2001, con effetto dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
+[^25-8]: Abrogato dalla cifra I n. 23 della LF del 9 ott. 1992 concernente la riduzione di aiuti finanziari e di indennità, con effetto dal 1° gen. 1993 ([RU 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)).
+
+## Titolo secondo *a*[^titIIa-1]: Veicoli a guida autonoma
+
+[^titIIa-1]: Introdotta dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° mar. 2025 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+
+### Definizione
+
+#### Art. 25a
+
+Sono detti a guida autonoma i veicoli in grado di assumere completamente e in permanenza le funzioni di guida del conducente, almeno in determinate condizioni.
+
+### Esonero del conducente dai propri doveri
+
+#### Art. 25b
+
+<sup>1</sup> Il Consiglio federale stabilisce le condizioni alle quali e la misura in cui il conducente di un veicolo a guida autonoma è esonerato dai doveri di cui all’articolo 31 capoverso 1.
+
+<sup>2</sup> Può prevedere che i veicoli a guida autonoma possano effettuare manovre in assenza del conducente in aree di parcheggio separate dal resto del traffico e dalle aree destinate a pedoni e ciclisti. Disciplina le condizioni e i requisiti relativi a tali aree di parcheggio.
+
+### Veicoli senza conducente su determinati tratti
+
+#### Art. 25c
+
+<sup>1</sup> I veicoli a guida autonoma che non necessitano di un conducente possono essere autorizzati a circolare soltanto su tratti prestabiliti e sotto la sorveglianza di un operatore.
+
+<sup>2</sup> Il Consiglio federale disciplina le altre condizioni d’immatricolazione e utilizzo, la procedura d’immatricolazione nonché i diritti e gli obblighi degli operatori.
+
+<sup>3</sup> Il Cantone d’immatricolazione (art. 22) stabilisce caso per caso i tratti ed eventuali ulteriori condizioni alle quali un veicolo senza conducente può essere impiegato sui tratti in questione. Per i tratti intercantonali si accorda con i Cantoni interessati, per quelli comprendenti strade nazionali con l’USTRA.
+
+### Veicoli senza conducente di dimensioni ridotte e a bassa velocità
+
+#### Art. 25d
+
+<sup>1</sup> Il Consiglio federale può prevedere che i veicoli di dimensioni ridotte e a bassa velocità che non necessitano di un conducente possano essere autorizzati a circolare anche senza stabilire tratti specifici e può esonerare l’operatore di tali veicoli da determinati doveri. Disciplina le condizioni d’immatricolazione e utilizzo nonché la procedura d’immatricolazione.
+
+<sup>2</sup> Il Cantone d’immatricolazione chiede il consenso dei Cantoni sul cui territorio il veicolo è utilizzato.
+
+### Disposizioni comuni
+
+#### Art. 25e
+
+<sup>1</sup> Nel quadro della regolamentazione ai sensi degli articoli 25*b*–25*d* il Consiglio federale provvede affinché la sicurezza di tutti gli utenti della strada non sia compromessa, le norme della circolazione siano rispettate e i sistemi di automazione possano trattare soltanto dati di cui sono garantite correttezza e integrità.
+
+<sup>2</sup> I veicoli a guida autonoma devono essere dotati di un registratore di guida.
+
+<sup>3</sup> Il sistema di automazione e il registratore di guida devono essere protetti da qualsiasi accesso non autorizzato.
+
+### Requisiti relativi al registratore di guida
+
+#### Art. 25f
+
+<sup>1</sup> Il registratore di guida non deve poter essere disattivato.
+
+<sup>2</sup>
+
+Registra i seguenti eventi contrassegnandoli con una marca temporale:
+
+- a. attivazione del sistema di automazione;
+- b. disattivazione del sistema di automazione e relativo motivo;
+- c. richiesta al conducente da parte del sistema di automazione di riprendere il controllo e relativo motivo;
+- d. inibizione o attenuazione di interventi del conducente da parte del sistema di automazione;
+- e. attuazione da parte del sistema di automazione di una manovra per ridurre al minimo i rischi;
+- f. attuazione da parte del sistema di automazione di una manovra in casi di emergenza;
+- g. verificarsi di guasti tecnici rilevanti per la sicurezza.
+
+<sup>3</sup>
+
+Per i veicoli senza conducente registra inoltre i seguenti eventi:
+
+- a. impartizione di un ordine da parte dell’operatore;
+- b. interruzione della comunicazione con l’operatore.
+
+<sup>4</sup> Registra gli eventi all’interno di un sistema chiuso con l’indicazione della versione software installata del sistema di automazione.
+
+<sup>5</sup> I dati rilevati dal registratore di guida non devono poter essere modificati. Una volta raggiunto il limite di capacità della memoria, i dati più vecchi vengono sovrascritti.
+
+<sup>6</sup> Il Consiglio federale specifica i dati da registrare in conformità con il diritto internazionale. Può escludere i veicoli di cui all’articolo 25*d* dall’obbligo di installare un registratore di guida o limitare gli eventi da registrare.
+
+### Accesso ai dati del registratore di guida
+
+#### Art. 25g
+
+<sup>1</sup> I dati del registratore di guida devono essere accessibili al detentore del veicolo mediante un’interfaccia standard. Devono essere a sua disposizione in una forma facilmente leggibile. Il detentore del veicolo può consultare dati rilevati durante la guida di terzi senza l’approvazione di questi ultimi soltanto se può far valere un interesse legittimo in relazione a un incidente o a un’infrazione alle prescrizioni sulla circolazione stradale.
+
+<sup>2</sup> Il detentore del veicolo mette a disposizione del conducente e dell’operatore i dati relativi alla loro guida per i quali possano far valere un interesse legittimo.
+
+<sup>3</sup> I dati del registratore di guida relativi a incidenti o infrazioni alle prescrizioni sulla circolazione stradale possono essere estratti e trattati dalle competenti autorità di polizia, di giustizia e amministrative a fini di accertamento. L’autorità cancella i dati estratti non appena non sono più necessari per eventuali procedimenti penali o amministrativi, ma al più tardi sei mesi dopo la chiusura del procedimento con decisione passata in giudicato.
+
+<sup>4</sup> I dati del registratore di guida possono essere estratti e trattati dalle autorità d’immatricolazione nel quadro degli esami periodici dei veicoli (art. 13 cpv. 4) per verificare il funzionamento del sistema di automazione. L’autorità cancella i dati estratti non appena non sono più necessari, ma al più tardi due anni dopo il ritiro del veicolo dalla circolazione.
+
+<sup>5</sup> Le autorità d’immatricolazione trasmettono all’USTRA i dati estratti di cui al capoverso 4 insieme al tipo di veicolo in una forma che non permetta di identificare il conducente o l’operatore né il singolo veicolo. L’USTRA utilizza i dati per la sorveglianza del mercato e li mette a disposizione per ricerche e analisi.
+
+### Esperimenti con veicoli a guida autonoma
+
+#### Art. 25h
+
+<sup>1</sup> L’USTRA può autorizzare esperimenti di durata limitata con veicoli a guida autonoma. Può autorizzarli anche per veicoli che non necessitano di un conducente, senza che vengano definiti appositi tratti.
+
+<sup>2</sup> Nel quadro dell’autorizzazione può prevedere deroghe alla vigente normativa sulla circolazione stradale. La sicurezza di tutti gli utenti della strada deve essere sempre garantita.
+
+<sup>3</sup> I responsabili degli esperimenti predispongono la documentazione concernente gli esperimenti e i relativi risultati. L’USTRA pubblica i rapporti al riguardo. I responsabili garantiscono all’USTRA l’accesso a tutti i dati connessi agli esperimenti.
+
+<sup>4</sup> In singoli casi l’USTRA può delegare ai Cantoni la decisione circa l’autorizzazione di esperimenti che non superano i confini regionali. L’USTRA stabilisce le condizioni per lo svolgimento di tali esperimenti.
 
 ## Titolo terzo: Norme della circolazione
 
@@ -853,9 +956,9 @@ Il Consiglio federale emana prescrizioni sul trasporto di merci pericolose. Stab
 - a. la procedura di verifica della conformità ai requisiti essenziali;
 - b. la procedura di riconoscimento dei servizi indipendenti incaricati di effettuare le valutazioni di conformità.[^30-3]
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^30-2]: Nuovo testo giusta l’all. n. II 2 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^30-3]: Introdotto dall’all. n. II 2 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^30-2]: Nuovo testo giusta l’all. cifra II n. 2 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^30-3]: Introdotto dall’all. cifra II n. 2 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
 ### Padronanza del veicolo
 
@@ -880,12 +983,12 @@ Il Consiglio federale può vietare ai seguenti gruppi di persone di guidare sott
 
 <sup>3</sup> Il conducente deve provvedere affinché non sia ostacolato nella guida né dal carico né in altro modo.[^31-6] I passeggeri non devono ostacolarlo ne disturbarlo.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
 [^31-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^31-3]: [RS 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
-[^31-4]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^31-5]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^31-6]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^31-4]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^31-5]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^31-6]: Nuovo testo giusta la cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Velocità
 
@@ -901,10 +1004,10 @@ Il Consiglio federale può vietare ai seguenti gruppi di persone di guidare sott
 
 <sup>5</sup> ...[^32-4]
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^32-2]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^32-3]: Abrogato dal n. I della LF del 14 dic. 2001, con effetto dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^32-4]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^32-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^32-3]: Abrogato dalla cifra I della LF del 14 dic. 2001, con effetto dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^32-4]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Doveri verso i pedoni
 
@@ -916,8 +1019,8 @@ Il Consiglio federale può vietare ai seguenti gruppi di persone di guidare sott
 
 <sup>3</sup> Alle fermate dei servizi di trasporto pubblici, il conducente deve badare alle persone che salgono e scendono.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
-[^33-2]: Nuovo testo giusta il n. I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
+[^33-2]: Nuovo testo giusta la cifra I della LF del 13 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
 
 ### II. Singole manovre
 
@@ -933,7 +1036,7 @@ Il Consiglio federale può vietare ai seguenti gruppi di persone di guidare sott
 
 <sup>4</sup> Il conducente deve tenersi a una distanza sufficiente da tutti gli utenti della strada, in particolare nell’incrociare, sorpassare e circolare affiancato o dietro un altro.[^34-1]
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Incrocio e sorpasso
 
@@ -1023,9 +1126,9 @@ Se è richiesto dalla sicurezza della circolazione, il conducente deve attirare 
 
 <sup>4</sup> Le luci devono essere usate in modo che nessuno sia abbagliato inutilmente.
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^41-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^41-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^41-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^41-3]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Divieto di molestie
 
@@ -1077,8 +1180,8 @@ Se è richiesto dalla sicurezza della circolazione, il conducente deve attirare 
 
 <sup>4</sup> I ciclisti non devono farsi trainare da veicoli né da animali.
 
-[^46-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^46-2]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^46-2]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Norme per i conducenti di motoveicoli
 
@@ -1104,7 +1207,7 @@ Le norme della circolazione previste nella presente legge sono parimente applica
 
 <sup>2</sup> Essi devono attraversare la carreggiata con cautela e per la via più breve, usando se possibile i passaggi pedonali. Su di questi godono della precedenza, ma non devono accedervi all’improvviso.[^49-1]
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 23 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1961, in vigore dal 1° gen. 1963 ([RU 1962 1417](https://fedlex.data.admin.ch/eli/oc/1962/1362_1407_1417); FF **1961** 767).
 
 ### Cavalli montati, animali
 
@@ -1167,7 +1270,7 @@ Per le corse di prova, nelle quali non possono essere osservate le norme della c
 
 Per attuare le norme della legislazione stradale e conseguire gli obiettivi della legge dell’8 ottobre 1999[^53a-2] sul trasferimento del traffico i Cantoni svolgono controlli stradali del traffico pesante, tenendo conto del grado di rischio.
 
-[^53a-1]: Introdotto dall’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. II 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^53a-1]: Introdotto dall’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^53a-2]: [[RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Vedi ora la L del 19 dic. 2008 sul trasferimento del traffico merci ([RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)).
 
 ### Poteri speciali della polizia
@@ -1188,7 +1291,7 @@ Per attuare le norme della legislazione stradale e conseguire gli obiettivi dell
 
 <sup>6</sup> Se accerta in circolazione veicoli non conformi alle disposizioni sul trasporto dei viaggiatori o sull’accesso alle professioni di trasportatore su strada, la polizia può impedire la continuazione del viaggio, sequestrare la licenza di circolazione e, se necessario, il veicolo.
 
-[^54-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^54-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Accertamento dell’inattitudine alla guida
 
@@ -1231,14 +1334,14 @@ Il Consiglio federale:
 - b. emana prescrizioni sugli esami preliminari (cpv. 2), sulla procedura di analisi dell’alito e del sangue, sulla valutazione di siffatte analisi e sull’esame sanitario completivo della persona indiziata di inattitudine alla guida;
 - c. può prescrivere che le analisi del sangue fatte secondo il presente articolo come anche le analisi dei capelli e delle unghie e analisi simili siano valutate nell’ottica di una dipendenza che riduce l’idoneità alla guida della persona interessata.
 
-[^55-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^55-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^55-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^55-4]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^55-5]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^55-6]: Abrogato dall’all. 1 n. II 21 del codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^55-7]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^55-8]: Introdotto dal n. II 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^55-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-4]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-5]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-6]: Abrogato dall’all. 1 cifra II n. 21 del codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^55-7]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-8]: Introdotto dalla cifra II 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Durata del lavoro e del riposo dei conducenti professionali di veicoli a motore
 
@@ -1257,8 +1360,8 @@ Il Consiglio federale disciplina l’applicazione delle disposizioni sulla durat
 
 <sup>3</sup> Il Consiglio federale può vietare che il salario dei conducenti professionali di autoveicoli sia calcolato in funzione del tragitto percorso, della quantità di merci trasportate o di prestazioni analoghe.[^56-2]
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^56-2]: Introdotto dal n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^56-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^56-2]: Introdotto dalla cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Norme completive della circolazione
 
@@ -1287,10 +1390,10 @@ Il Consiglio federale può prescrivere che:
 - a. gli occupanti di autoveicoli abbiano ad usare dispositivi di trattenuta (cinture di sicurezza e simili);
 - b.[^57-3] i conducenti e i passeggeri di veicoli motorizzati a due ruote nonché di veicoli a motore leggeri, di quadricicli e tricicli a motore devono portare il casco di protezione.[^57-4]
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
-[^57-2]: Introdotto n. I della LF del 20 mar. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257); [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)). Abrogato dal n. I della LF del 6 ott. 1989, con effetto dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
-[^57-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^57-4]: Introdotto dal n. I della LF del 21 mar. 1980, in vigore dal 1° lug. 1981 ([RU 1981 505](https://fedlex.data.admin.ch/eli/oc/1981/505_505_505); [FF 1979 I 209](https://fedlex.data.admin.ch/eli/fga/1979/1_229_217_209)).
+[^57-1]: Nuovo testo giusta la cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^57-2]: Introdotto dalla cifra I della LF del 20 mar. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257); [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)). Abrogato dalla cifra I della LF del 6 ott. 1989, con effetto dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^57-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^57-4]: Introdotto dalla cifra I della LF del 21 mar. 1980, in vigore dal 1° lug. 1981 ([RU 1981 505](https://fedlex.data.admin.ch/eli/oc/1981/505_505_505); [FF 1979 I 209](https://fedlex.data.admin.ch/eli/fga/1979/1_229_217_209)).
 
 ### Polizia sulle autostrade
 
@@ -1306,21 +1409,21 @@ Il Consiglio federale può prescrivere che:
 
 <sup>4</sup> I Governi dei Cantoni interessati regolano i reciproci diritti e doveri risultanti dall’attività di polizia di un Cantone sul territorio dell’altro. Se, mancando l’accordo, il servizio di polizia non è garantito, il Consiglio federale prende disposizioni provvisionali.
 
-[^57a-1]: Originario art. 57<sup>bis</sup>. Introdotto dal n. I della LF del 16 mar. 1967, in vigore dal 1° set. 1967 ([RU 1967 1147](https://fedlex.data.admin.ch/eli/oc/1967/1114_1154_1147); [FF 1966 II 261](https://fedlex.data.admin.ch/eli/fga/1966/2_332_335_261)).
-[^57a-2]: Nuovo testo giusta il n. II 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^57a-1]: Originario art. 57<sup>bis</sup>. Introdotto dalla cifra I della LF del 16 mar. 1967, in vigore dal 1° set. 1967 ([RU 1967 1147](https://fedlex.data.admin.ch/eli/oc/1967/1114_1154_1147); [FF 1966 II 261](https://fedlex.data.admin.ch/eli/fga/1966/2_332_335_261)).
+[^57a-2]: Nuovo testo giusta il cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 57b
 
 [^57b-1]
 
-[^57b-1]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^57b-1]: Introdotto dalla cifra I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dalla cifra I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ## Titolo terzo *a*: Gestione del traffico
 
 [^titIIIa-1][^titIIIa-2]
 
-[^titIIIa-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^titIIIa-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^titIIIa-1]: Introdotto dalla cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^titIIIa-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Gestione del traffico da parte della Confederazione
 
@@ -1350,7 +1453,7 @@ La Confederazione può:
 
 <sup>8</sup> La Confederazione può, contro remunerazione, assumere per conto dei Cantoni la preparazione e la diffusione delle informazioni sul traffico.
 
-[^57c-1]: Nuovo testo giusta il n. II 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^57c-1]: Nuovo testo giusta il cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^57c-2]: [[RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Vedi ora la L del 19 dic. 2008 sul trasferimento del traffico merci ([RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)).
 
 ### Gestione del traffico da parte dei Cantoni
@@ -1367,7 +1470,7 @@ La Confederazione può:
 
 <sup>4</sup> La Confederazione assiste i Cantoni mediante una consulenza tecnica e nel coordinamento delle informazioni sul traffico che interessano gli altri Cantoni o gli Stati limitrofi.
 
-[^57d-1]: Introdotto dal n. II 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^57d-1]: Introdotto dalla cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ## Titolo quarto: Responsabilità civile e assicurazione
 
@@ -1402,10 +1505,10 @@ Sono determinate secondo il Codice delle obbligazioni[^59-2]:[^59-3]
 - a. la responsabilità civile nei rapporti fra il detentore e il proprietario di un veicolo a motore per i danni subìti da questo veicolo;
 - b.[^59-4] la responsabilità civile del detentore per i danni subiti dalle cose trasportate nel suo veicolo, eccettuate quelle che la parte lesa portava con sé, in particolare bagagli e simili; è fatta salva la legge del 20 marzo 2009[^59-5] sul trasporto di viaggiatori.
 
-[^59-1]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^59-1]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^59-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^59-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-4]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^59-5]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 ### Concorso nel danneggiamento
@@ -1418,7 +1521,7 @@ Sono determinate secondo il Codice delle obbligazioni[^59-2]:[^59-3]
 
 <sup>2</sup> Ciascuna di esse concorre al risarcimento nella misura risultante dall’apprezzamento, di tutte le circostanze. Trattandosi di più detentori di veicoli a motore, il concorso al risarcimento avviene in proporzione alla loro colpa, salvo che circostanze speciali, segnatamente il rischio d’esercizio dei veicoli, giustifichino un altro modo di ripartizione.
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^60-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Risarcimento fra detentori di veicoli a motore
 
@@ -1430,8 +1533,8 @@ Sono determinate secondo il Codice delle obbligazioni[^59-2]:[^59-3]
 
 <sup>3</sup> Più detentori responsabili rispondono in solido del danno subìto da un altro detentore.[^61-2]
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^61-2]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^61-2]: Introdotto dalla cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Risarcimento e riparazione
 
@@ -1464,8 +1567,8 @@ Possono essere escluse dall’assicurazione:
 - c. le pretese per danni materiali, dei quali il detentore non è civilmente responsabile secondo la presente legge;
 - d. le pretese per infortuni avvenuti durante manifestazioni sportive per le quali è stata stipulata l’assicurazione prescritta nell’articolo 72.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
-[^63-2]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)). Vedi anche le disp. fin. della mod. del 23 giu. 1995 alla fine del presente testo.
+[^63-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
+[^63-2]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)). Vedi anche le disp. fin. della mod. del 23 giu. 1995 alla fine del presente testo.
 [^63-3]: Nuovo testo giusta l’all. n. 26 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### Minimi d’assicurazione
@@ -1476,7 +1579,7 @@ Possono essere escluse dall’assicurazione:
 
 Il Consiglio federale fissa gli importi fino a concorrenza dei quali l’assicurazione sulla responsabilità civile deve soddisfare le pretese della parte lesa in caso di lesione corporale e di danni materiali.
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)cifra III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Azione diretta contro l’assicuratore. Eccezioni
 
@@ -1489,8 +1592,8 @@ Il Consiglio federale fissa gli importi fino a concorrenza dei quali l’assicur
 <sup>3</sup> L’assicuratore ha diritto di regresso contro lo stipulante o contro l’assicurato, nella misura in cui avrebbe diritto di negare o ridurre le sue prestazioni secondo il contratto di assicurazione o la legge sul contratto d’assicurazione.[^65-3]
 
 [^65-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^65-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^65-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^65-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^65-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Pluralità di parti lese
 
@@ -1514,8 +1617,8 @@ Il Consiglio federale fissa gli importi fino a concorrenza dei quali l’assicur
 
 <sup>4</sup> ...[^67-2]
 
-[^67-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° mar. 2004 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); FF **1999** 3837).
-[^67-2]: Abrogato dal n. I della LF del 14 dic. 2001, con effetto dal 1° mar. 2004 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); FF **1999** 3837).
+[^67-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° mar. 2004 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); FF **1999** 3837).
+[^67-2]: Abrogato dalla cifra I della LF del 14 dic. 2001, con effetto dal 1° mar. 2004 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); FF **1999** 3837).
 
 ### Attestato di assicurazione, sospensione e cessazione dell’assicurazione
 
@@ -1527,7 +1630,7 @@ Il Consiglio federale fissa gli importi fino a concorrenza dei quali l’assicur
 
 <sup>3</sup> Quando le targhe di controllo sono depositate presso l’autorità competente, gli effetti dell’assicurazione sono sospesi. L’autorità ne avverte l’assicuratore.[^68-1]
 
-[^68-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^68-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Attestazione relativa ai sinistri
 
@@ -1537,7 +1640,7 @@ Il Consiglio federale fissa gli importi fino a concorrenza dei quali l’assicur
 
 Nel corso della durata del contratto lo stipulante ha il diritto di ottenere un’attestazione relativa ai sinistri o all’assenza di sinistri. Su richiesta dello stipulante, l’assicuratore gli consegna entro 14 giorni un’attestazione veritiera relativa all’intera durata del contratto, ma al massimo relativa agli ultimi cinque anni del rapporto contrattuale.
 
-[^68a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^68a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Capo terzo: Casi speciali
 
@@ -1561,7 +1664,7 @@ L’assicurazione del veicolo a motore trainante sopperisce anche alla responsab
 
 <sup>4</sup> La responsabilità civile del detentore del veicolo trainante per le lesioni personali subìte dai passeggeri di rimorchi, nonché la responsabilità civile per i danni cagionati tra il veicolo trainante e il veicolo a motore rimorchiato sono disciplinate dalla presente legge. Per i danni materiali al rimorchio è civilmente responsabile il detentore del veicolo trainante giusta il Codice delle obbligazioni[^69-2].
 
-[^69-1]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^69-1]: Nuovo testo giusta la cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 [^69-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Velocipedi
@@ -1572,7 +1675,7 @@ L’assicurazione del veicolo a motore trainante sopperisce anche alla responsab
 
 La responsabilità civile dei ciclisti è disciplinata dal Codice delle obbligazioni[^70-2].
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 [^70-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Aziende dell’industria dei veicoli a motore
@@ -1585,7 +1688,7 @@ La responsabilità civile dei ciclisti è disciplinata dal Codice delle obbligaz
 
 <sup>2</sup> Il gerente designato nel capoverso 1 e il gerente di aziende che costruiscono veicoli a motore e ne fanno commercio devono stipulare un’assicurazione per la responsabilità civile estesa a tutti i loro veicoli a motore e a quelli che hanno ricevuto. Le disposizioni concernenti l’assicurazione del detentore sono applicabili per analogia.
 
-[^71-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^71-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)cifra III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Manifestazioni sportive
 
@@ -1601,8 +1704,8 @@ La responsabilità civile dei ciclisti è disciplinata dal Codice delle obbligaz
 
 <sup>5</sup> Se a un danno cagionato durante una manifestazione organizzata senza permesso deve essere sopperito dall’assicurazione ordinaria del veicolo a motore che l’ha cagionato, dal ciclista che l’ha cagionato o dalla sua assicurazione per la responsabilità civile privata, l’assicuratore o il ciclista ha diritto di regresso verso le persone civilmente responsabili che sapevano o avrebbero dovuto sapere, prestando tutta la dovuta attenzione, che un’assicurazione speciale non era stata stipulata per la manifestazione.[^72-2]
 
-[^72-1]: Nuovo testo del per. giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^72-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^72-1]: Nuovo testo del per. giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^72-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 
 ### Veicoli a motore e velocipedi della Confederazione e dei Cantoni
 
@@ -1614,8 +1717,8 @@ La responsabilità civile dei ciclisti è disciplinata dal Codice delle obbligaz
 
 <sup>3</sup> La Confederazione e i Cantoni liquidano conformemente alle disposizioni valide per le assicurazioni di responsabilità civile i sinistri causati dai veicoli a motore, dai rimorchi e dai velocipedi di cui sono civilmente responsabili. Comunicano al centro d’informazione (art. 79*a*) i servizi competenti per la liquidazione.[^73-2]
 
-[^73-1]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^73-2]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^73-1]: Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^73-2]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Ufficio nazionale di assicurazione
 
@@ -1642,7 +1745,7 @@ Il Consiglio federale disciplina:
 
 <sup>4</sup> Esso può escludere o limitare il sequestro destinato ad assicurare le pretese di risarcimento di danni causati da veicoli a motore o rimorchi esteri.
 
-[^74-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^74-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Veicoli a motore usati illecitamente
 
@@ -1656,7 +1759,7 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> L’assicuratore non può addossare nessun onere finanziario al detentore cui non è imputabile colpa alcuna per la sottrazione del veicolo.
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)cifra III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Fondo nazionale di garanzia
 
@@ -1730,10 +1833,10 @@ Il Consiglio federale può, nei casi previsti dal capoverso 3 lettera a:
 
 <sup>5</sup> Il Consiglio federale disciplina i particolari; stabilisce segnatamente le basi di calcolo del contributo e la procedura d’approvazione.
 
-[^76a-1]: Introdotto dal n. I della LF del 20 giu. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Vedi anche l’art. 108, qui di seguito.
-[^76a-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30)).
+[^76a-1]: Introdotto dalla cifra I della LF del 20 giu. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Vedi anche l’art. 108, qui di seguito.
+[^76a-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30)).
 [^76a-3]: Nuovo testo giusta l’all. n. 10 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^76a-4]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
+[^76a-4]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
 [^76a-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^76a-6]: Introdotto dall’all. n. 2 della della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
@@ -1763,9 +1866,9 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 - a. la copertura dei danni in Svizzera e all’estero;
 - b. la promozione e lo sviluppo della protezione assicurativa e della protezione delle vittime della circolazione nel traffico transfrontaliero.
 
-[^76b-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
-[^76b-2]: Nuova espressione giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^76b-3]: Nuovo testo del per giusta l’all. 1 n. II 60 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76b-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^76b-2]: Nuova espressione giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^76b-3]: Nuovo testo del per giusta l’all. 1 cifra II n. 60 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Veicoli non assicurati
 
@@ -1777,9 +1880,9 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 
 <sup>3</sup> Le presenti disposizioni sono applicabili per analogia al rilascio di licenze di circolazione e di targhe di controllo da parte della Confederazione.[^77-3]
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^77-2]: Nuovo testo del per. 2 giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
-[^77-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^77-2]: Nuovo testo del per. 2 giusta la cifra I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^77-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 
 #### Art. 78
 
@@ -1791,7 +1894,7 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 
 [^79-1]
 
-[^79-1]: Abrogato n. I della LF del 4 ott. 2002, con effetto dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79-1]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Centro d’informazione
 
@@ -1805,7 +1908,7 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 
 <sup>3</sup> Esso può obbligare le autorità e i privati a fornire al centro d’informazione i dati necessari.
 
-[^79a-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79a-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Mandatari per la liquidazione dei sinistri
 
@@ -1829,7 +1932,7 @@ Essi devono:
 
 <sup>5</sup> Essi possono esercitare la loro attività per conto di uno o più istituti d’assicurazione.
 
-[^79b-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79b-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Liquidazione dei sinistri
 
@@ -1848,7 +1951,7 @@ Gli istituti d’assicurazione ammessi in Svizzera ad esercitare un’assicurazi
 
 <sup>3</sup> Dopo la scadenza del termine di tre mesi vanno corrisposti gli interessi di mora. Sono fatte salve ulteriori pretese della parte lesa.
 
-[^79c-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79c-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Organismo d’indennizzo
 
@@ -1871,7 +1974,7 @@ Non sussiste nessuna pretesa nei confronti dell’organismo d’indennizzo se la
 - a. ha dato avvio in Svizzera o all’estero a un’azione legale per far valere le sue pretese; oppure
 - b. ha inoltrato una richiesta d’indennizzo direttamente all’assicuratore estero ed esso ha fornito entro tre mesi una risposta motivata.
 
-[^79d-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79d-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Reciprocità
 
@@ -1883,7 +1986,7 @@ Non sussiste nessuna pretesa nei confronti dell’organismo d’indennizzo se la
 
 <sup>2</sup> La FINMA pubblica l’elenco degli Stati che accordano la reciprocità.[^79e-2]
 
-[^79e-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79e-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 [^79e-2]: Nuovo testo giusta l’all. n. 10 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### Capo quarto: Rapporti con altre assicurazioni
@@ -1920,7 +2023,7 @@ Se una persona assoggettata all’assicurazione militare è uccisa o ferita da u
 
 Le assicurazioni prescritte nella presente legge devono essere stipulate con un istituto d’assicurazione ammesso a esercitare in Svizzera. È fatto salvo il riconoscimento di assicurazioni stipulate all’estero per veicoli esteri.
 
-[^82-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^82-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Prescrizione
 
@@ -1945,13 +2048,13 @@ Le assicurazioni prescritte nella presente legge devono essere stipulate con un 
 
 [^85-1]
 
-[^85-1]: Abrogato dall’all. n. I lett. d della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^85-1]: Abrogato dall’all. cifra I lett. d della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 #### Art. 86
 
 [^86-1]
 
-[^86-1]: Abrogato dall’all. 1 n. II 21 del codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^86-1]: Abrogato dall’all. 1 cifra II n. 21 del codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Convenzione
 
@@ -1977,14 +2080,14 @@ Se le prestazioni dell’assicurazione non soddisfano integralmente una parte le
 
 <sup>3</sup> Contro le decisioni delle autorità cantonali sull’assoggettamento di un veicolo, di un’impresa o di una manifestazione sportiva alle disposizioni della presente legge concernenti la responsabilità civile e l’obbligo d’assicurazione è ammissibile il ricorso secondo le disposizioni generali sull’amministrazione della giustizia federale.[^89-2]
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^89-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^89-2]: Nuovo testo giusta l’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Titolo quarto *a*: Sistemi d’informazione
 
 [^titIVa-1]
 
-[^titIVa-1]: Introdotto dal n. I della LF del 15 giu. 2012, Capo secondo in vigore dal 1° gen. 2013, Capo terzo in vigore dal 1° gen. 2014, Capo primo in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^titIVa-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, Capo secondo in vigore dal 1° gen. 2013, Capo terzo in vigore dal 1° gen. 2014, Capo primo in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Capo primo: Sistema d’informazione sull’ammissione alla circolazione
 
@@ -2029,11 +2132,11 @@ Il SIAC serve all’adempimento dei seguenti compiti:
 - l. rilascio dell’autorizzazione di accesso alle professioni di trasportatore di viaggiatori e di merci su strada e relativo controllo;
 - m.[^89b-5] esecuzione della riduzione delle emissioni di CO<sub>2</sub> dei veicoli secondo la legge del 23 dicembre 2011[^89b-6] sul CO<sub>2</sub>.
 
-[^89b-1]: Nuova espr. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^89b-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-1]: Nuova espr. giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^89b-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89b-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89b-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89b-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-4]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-5]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89b-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Contenuto
@@ -2081,14 +2184,14 @@ Le autorità e i servizi seguenti trattano i dati del SIAC:[^89d-1]
 - g.[^89d-6] i servizi incaricati della riscossione e della verifica del pagamento della tassa per l’utilizzazione delle strade nazionali secondo la legge del 19 marzo 2010[^89d-7] sul contrassegno stradale, per quanto attiene ai dati relativi ai veicoli e ai detentori di veicoli;
 - h.[^89d-8] le autorità competenti per l’esecuzione della riduzione delle emissioni di CO<sub>2</sub> dei veicoli secondo la legge del 23 dicembre 2011[^89d-9] sul CO<sub>2</sub>, per quanto attiene ai dati relativi al loro ambito di competenza.
 
-[^89d-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-2]: Introdotta dal n. I della LF del 17 mar. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nuovo testo giusta l’all. 2 n. 1 della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323), [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^89d-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Introdotta dalla cifra I della LF del 17 mar. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nuovo testo giusta l’all. 2 n. 1 della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323), [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89d-4]: Introdotta dal n. I della LF del 17 mar. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nuovo testo giusta l’all. 2 n. 1 della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323), [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^89d-4]: Introdotta dalla cifra I della LF del 17 mar. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nuovo testo giusta l’all. 2 n. 1 della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323), [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^89d-6]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-6]: Introdotta dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^89d-8]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-8]: Introdotta dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-9]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Accesso mediante procedura di richiamo
@@ -2109,11 +2212,11 @@ Le autorità e i servizi qui appresso possono accedere mediante procedura di ric
 - i. le autorità straniere competenti per il rilascio di carte del conducente, per quanto attiene ai dati relativi a tali carte;
 - j. gli organi stranieri incaricati del controllo della durata del lavoro e del riposo dei conducenti professionali di veicoli a motore, per quanto attiene allo stato delle carte del conducente.
 
-[^89e-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89e-2]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-2]: Introdotta dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89e-3]: Originaria lett. a.
-[^89e-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89e-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-4]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-5]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89e-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Diritto di consultazione
@@ -2373,11 +2476,11 @@ Il Consiglio federale disciplina:
 
 <sup>5</sup> L’articolo 237 numero 2 del Codice penale[^90-6] non è applicabile in questi casi.
 
-[^90-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^90-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^90-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^90-3]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^90-4]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^90-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-3]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-4]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-5]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Confisca e realizzazione di veicoli a motore
@@ -2395,7 +2498,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> Il giudice può ordinare la realizzazione del veicolo a motore confiscato e stabilire l’utilizzo dei ricavi dedotte le spese di realizzazione e procedurali.
 
-[^90a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^90a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Guida in stato di inattitudine e violazione del divieto di guidare sotto l’influsso dell’alcol
 
@@ -2418,9 +2521,9 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - a. conduce un veicolo a motore in stato di ebrietà con una concentrazione qualificata di alcol nell’alito o nel sangue[^91-3];
 - b. conduce un veicolo a motore in stato di inattitudine alla guida per altri motivi.
 
-[^91-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^91-2]: Aggiornata dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^91-3]: La disp. riguardante la concentrazione di alcol nell’alito si applica dall’entrata in vigore dell’art. 55 cpv. 3, 3<sup>bis</sup>, 6 e 6<sup>bis</sup> secondo il n. I della LF del 15 giu. 2012 e l’O dell’AF del 15 giu. 2012 concernente i valori limite di alcolemia nella circolazione stradale.
+[^91-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^91-2]: Aggiornata dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^91-3]: La disp. riguardante la concentrazione di alcol nell’alito si applica dall’entrata in vigore dell’art. 55 cpv. 3, 3<sup>bis</sup>, 6 e 6<sup>bis</sup> secondo la cifra I della LF del 15 giu. 2012 e l’O dell’AF del 15 giu. 2012 concernente i valori limite di alcolemia nella circolazione stradale.
 
 ### Elusione di provvedimenti per accertare l’inattitudine alla guida
 
@@ -2432,7 +2535,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> Se l’autore conduce un veicolo senza motore o se, come utente della strada, è stato coinvolto in un incidente, è punito con la multa.
 
-[^91a-1]: Introdotto dal n. I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837). Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^91a-1]: Introdotto dalla cifra I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Inosservanza dei doveri in caso d’incidente
 
@@ -2444,7 +2547,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> È punito con una pena detentiva sino a tre anni o con una pena pecuniaria il conducente che si dà alla fuga dopo avere ucciso o ferito una persona in un incidente della circolazione.
 
-[^92-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Stato difettoso dei veicoli
 
@@ -2461,7 +2564,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - a. chiunque conduce un veicolo, di cui sa o dovrebbe sapere, prestando tutta l’attenzione richiesta dalle circostanze, che non è conforme alle prescrizioni;
 - b. il detentore, o colui che è responsabile come un detentore dello stato di sicurezza del veicolo, che tollera intenzionalmente o per negligenza l’uso di un veicolo che non è conforme alle prescrizioni.
 
-[^93-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Furto d’uso di un veicolo
 
@@ -2484,7 +2587,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>5</sup> L’articolo 141 del Codice penale[^94-2] non è applicabile in questi casi.
 
-[^94-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^94-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^94-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Guida senza autorizzazione
@@ -2520,8 +2623,8 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - a. chiunque conduce un velocipede, sebbene la circolazione con siffatto veicolo gli sia stata vietata;
 - b. chiunque conduce un veicolo a trazione animale, sebbene la circolazione con siffatto veicolo gli sia stata vietata.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [FF 2010 3453](https://fedlex.data.admin.ch/eli/fga/2010/629)[3463](https://fedlex.data.admin.ch/eli/fga/2010/631)).
-[^95-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [FF 2010 3453](https://fedlex.data.admin.ch/eli/fga/2010/629)[3463](https://fedlex.data.admin.ch/eli/fga/2010/631)).
+[^95-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Guida senza licenza di circolazione, senza autorizzazione o senza assicurazione per la responsabilità civile
 
@@ -2541,8 +2644,8 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>3</sup> Le stesse pene sono comminate al detentore o alla persona che dispone del veicolo in sua vece, se è a conoscenza dell’infrazione o dovrebbe esserne a conoscenza, prestando tutta l’attenzione richiesta dalle circostanze.
 
-[^96-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^96-2]: Nuovo testo giusta il n. I 22 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^96-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^96-2]: Nuovo testo giusta la cifra I n. 22 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abuso della licenza e delle targhe
 
@@ -2564,7 +2667,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> Le disposizioni speciali del Codice penale[^97-3] non sono applicabili a questi casi.
 
-[^97-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^97-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 [^97-2]: Correzione dalla Commissione di redazione dell’AF del 10 dic. 2013, pubblicata il 27 dic. 2013 ([RU 2013 5577](https://fedlex.data.admin.ch/eli/oc/2013/891)).
 [^97-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
@@ -2581,7 +2684,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - c. non avverte la polizia di avere involontariamente danneggiato un segnale;
 - d. pone un segnale o traccia una demarcazione senza il consenso dell’autorità.
 
-[^98-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^98-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Segnalazione di controlli della circolazione
 
@@ -2608,9 +2711,9 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>4</sup> Nei casi gravi, il colpevole è punito con una pena pecuniaria.[^98a-3]
 
-[^98a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^98a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^98a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^98a-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^98a-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Altre infrazioni
 
@@ -2633,7 +2736,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> È punito con una multa sino a 100 franchi il detentore che, dopo aver rilevato da un altro detentore un veicolo a motore o un rimorchio di un veicolo a motore, oppure dopo averne trasferito il luogo di stanza in un altro Cantone, non richiede tempestivamente una nuova licenza di circolazione.
 
-[^99-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^99-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^99-2]: Non ancora in vigore.
 
 ### Punibilità
@@ -2650,11 +2753,11 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>5.</sup> In caso di inosservanza di un limite di velocità durante un viaggio ufficiale urgente o necessario dal punto di vista tattico, si considera soltanto la differenza tra la velocità effettiva e quella che sarebbe stata adeguata all’intervento.[^100-5]
 
-[^100-1]: Nuovo testo del per. giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
-[^100-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^100-3]: Nuovo testo del terzo per. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^100-1]: Nuovo testo del per. giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^100-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^100-3]: Nuovo testo del terzo per. giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^100-4]: Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^100-5]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^100-5]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Infrazioni commesse all’estero
 
@@ -2674,7 +2777,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2.</sup> Sono riservate le disposizioni speciali del Codice penale svizzero e la legislazione sulla polizia ferroviaria.
 
-[^102-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^102-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^102-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Disposizioni penali completive, perseguimento penale, controllo penale
@@ -2699,19 +2802,19 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> La polizia e le autorità penali comunicano all’Ufficio federale dei trasporti ogni infrazione grave o ripetuta commessa da un’impresa di trasporto stradale attiva nel trasporto di viaggiatori o merci oppure dai suoi collaboratori contro la presente legge o contro le prescrizioni d’esecuzione del Consiglio federale.
 
-[^104-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^104-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 #### Art. 104a e 104b
 
 [^104a104b-1]
 
-[^104a104b-1]: Introdotti dal n. I della LF del 18 giu. 1999 ([RU 2000 2795](https://fedlex.data.admin.ch/eli/oc/2000/472); [FF 1997 IV 1029](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)). Abrogati dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^104a104b-1]: Introdotti dalla cifra I della LF del 18 giu. 1999 ([RU 2000 2795](https://fedlex.data.admin.ch/eli/oc/2000/472); [FF 1997 IV 1029](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)). Abrogati dalla cifra I della LF del 15 giu. 2012, con effetto dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 #### Art. 104c e 104d
 
 [^104c104d-1]
 
-[^104c104d-1]: Introdotti dal n. I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837). Abrogati dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^104c104d-1]: Introdotti dalla cifra I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837). Abrogati dalla cifra I della LF del 15 giu. 2012, con effetto dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Imposte e tasse
 
@@ -2729,8 +2832,8 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>6</sup> Il Consiglio federale, consultati i Cantoni, stabilisce le condizioni, cui l’imposizione dei veicoli a motore esteri che rimangono in Svizzera un certo tempo è subordinata. Il Cantone, in cui il veicolo si trova prevalentemente, è competente a riscuotere l’imposta.
 
-[^105-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^105-2]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^105-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^105-2]: Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 
 ### Esecuzione della legge
 
@@ -2758,13 +2861,13 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>10</sup> Il Consiglio federale può sottoporre ad autorizzazione determinati lavori ai veicoli, nella misura in cui lo esigano la sicurezza della circolazione o la protezione dell’ambiente. Esso fissa le esigenze poste al rilascio dell’autorizzazione e disciplina la sorveglianza.[^106-7]
 
-[^106-1]: Nuovo testo del per. giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^106-2]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^106-3]: Secondo e terzo per. abrogati dal n. I della LF del 14 dic. 2001, con effetto dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^106-4]: Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-5]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 [RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^106-6]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-7]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^106-1]: Nuovo testo del per. giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^106-2]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106-3]: Secondo e terzo per. abrogati dalla cifra I della LF del 14 dic. 2001, con effetto dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^106-4]: Abrogato dalla cifra I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-5]: Introdotto dalla cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 [RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^106-6]: Introdotto dalla cifra I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dalla cifra I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-7]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Trattati internazionali
 
@@ -2785,8 +2888,10 @@ Il Consiglio federale può concludere con gli Stati esteri trattati concer-nenti
 
 <sup>4</sup> Il Consiglio federale può concludere con il Principato del Liechtenstein trattati sull’utilizzo del SIAC.
 
-[^106a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^106a-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+
+### Disposizioni finali
 
 #### Art. 107
 
@@ -2808,7 +2913,7 @@ Per i titolari di una licenza di condurre che si sono sottoposti a una visita di
 
 Data dell’entrata in vigore: art. 10 cpv. 3, 104 a 107: 1° ottobre 1959[^108-2] art. 58 a 75, 77 a 89, 96, 97, 99 n. 4: 1° gennaio 1960[^108-3] art. 8, 9, 93, 100, 101, 103: 1° novembre 1960[^108-4] art. 10 cpv. 1, 2, 4, art. 95, 99 n. 3: 1° dicembre 1960[^108-5] le rimanenti disposizioni, salvo l’art. 12: 1° gennaio 1963[^108-6] art. 12: 1° marzo 1967[^108-7]
 
-[^108-1]: Introdotto dal n. I della LF del 20 giu. 1980 ([RU 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [FF 2017 3163](https://fedlex.data.admin.ch/eli/fga/2017/870)[3311](https://fedlex.data.admin.ch/eli/fga/2017/926)).
+[^108-1]: Introdotto dalla cifra I della LF del 20 giu. 1980 ([RU 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Nuovo testo giusta la cifra I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [FF 2017 3163](https://fedlex.data.admin.ch/eli/fga/2017/870)[3311](https://fedlex.data.admin.ch/eli/fga/2017/926)).
 [^108-2]: N. 4 del DCF del 25 ago. 1959 (RU **1959** 725).
 [^108-3]: Art. 61 cpv. 1 dell’O del 20 nov. 1959 ([RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)). Vedi nondimeno gli art. 71 cpv. 1 e 73 cpv. 1 di questa O.
 [^108-4]: Art. 29 cpv. 1 lett. a, art. 30 del DCF del 21 ott. 1960 ([RU 1960 1205](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)).

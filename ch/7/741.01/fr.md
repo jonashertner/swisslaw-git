@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> mai 2024)
+du 19 décembre 1958 (État le 1<sup>er</sup> mars 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -803,6 +803,111 @@ Après avoir consulté les cantons, le Conseil fédéral édicte des prescriptio
 [^25-6]: Introduite par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^25-7]: Introduit par le ch. I de la LF du 6 oct. 1989 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogé par le ch. I de la LF du 14 déc. 2001, avec effet au 1<sup>er</sup> déc. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 al. 2; FF **1999** 4106).
 [^25-8]: Abrogé par le ch. I 23 de la LF du 9 oct. 1992 sur la réduction d’aides financières et d’indemnités, avec effet au 1<sup>er</sup> janv. 1993 ([RO 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)).
+
+## Titre 2*a* Véhicules équipés d’un système d’automatisation
+
+[^titIIa-1]
+
+[^titIIa-1]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+
+### Définition
+
+#### Art. 25a
+
+Les véhicules équipés d’un système d’automatisation sont des véhicules capables d’assumer durablement et complètement toutes les tâches de conduite du conducteur, du moins dans certaines conditions.
+
+### Décharge des obligations du conducteur
+
+#### Art. 25b
+
+<sup>1</sup> Le Conseil fédéral fixe les conditions et la mesure dans lesquelles le conducteur d’un véhicule équipé d’un système d’automatisation est déchargé de ses obligations visées à l’art. 31, al. 1.
+
+<sup>2</sup> Il peut prévoir que des véhicules équipés d’un système d’automatisation peuvent effectuer, sans la présence du conducteur à bord, des manœuvres sur des parkings séparés du reste du trafic et des aires de circulation destinées aux piétons et aux cyclistes. Il fixe les conditions et les exigences auxquelles doivent répondre ces parkings.
+
+### Véhicules sans conducteur sur certains tronçons
+
+#### Art. 25c
+
+<sup>1</sup> Les véhicules équipés d’un système d’automatisation et ne nécessitant pas de conducteur ne peuvent être admis à circuler que sur des tronçons prédéfinis et doivent être surveillés par un opérateur.
+
+<sup>2</sup> Le Conseil fédéral définit les autres conditions d’admission et d’utilisation ainsi que la procédure d’admission; il définit les droits et devoirs des opérateurs.
+
+<sup>3</sup> Le canton d’immatriculation (art. 22) définit au cas par cas les tronçons et, le cas échéant, les autres conditions dans lesquelles un véhicule sans conducteur peut être utilisé sur les tronçons en question. Il se met d’accord avec les cantons concernés pour les tronçons intercantonaux et avec l’OFROU pour les tronçons empruntant des routes nationales.
+
+### Véhicules sans conducteur aux dimensions réduites et de vitesse minime
+
+#### Art. 25d
+
+<sup>1</sup> Le Conseil fédéral peut prévoir que des véhicules aux dimensions réduites et de vitesse minime ne nécessitant pas de conducteur peuvent être admis à la circulation sans que des tronçons précis soient définis; il peut également dispenser l’opérateur de tels véhicules de certaines obligations. Il fixe les conditions d’admission, les conditions d’utilisation et la procédure d’admission.
+
+<sup>2</sup> Le canton d’immatriculation obtient l’accord des cantons sur le territoire desquels les véhicules sont utilisés.
+
+### Dispositions communes
+
+#### Art. 25e
+
+<sup>1</sup> Dans le cadre de la réglementation prévue aux art. 25*b* à 25*d*, le Conseil fédéral veille à ce que la sécurité de l’ensemble des usagers de la route ne soit pas compromise, à ce que les règles de la circulation routière puissent être respectées et à ce que les systèmes d’automatisation ne puissent traiter des données que si l’exactitude et l’intégrité de celles-ci sont garanties.
+
+<sup>2</sup> Les véhicules équipés d’un système d’automatisation doivent être munis d’un enregistreur de mode de conduite.
+
+<sup>3</sup> Le système d’automatisation et l’enregistreur de mode de conduite doivent être protégés contre tout accès non autorisé.
+
+### Exigences applicables à l’enregistreur de mode de conduite
+
+#### Art. 25f
+
+<sup>1</sup> L’enregistreur de mode de conduite ne doit pas pouvoir être désactivé.
+
+<sup>2</sup>
+
+Il doit enregistrer et horodater les événements suivants:
+
+- a. l’activation du système d’automatisation;
+- b. la désactivation du système d’automatisation et la raison de la désactivation;
+- c. l’invitation faite par le système d’automatisation au conducteur à reprendre le contrôle du véhicule et la raison de l’invitation;
+- d. le blocage ou l’atténuation d’interventions du conducteur par le système d’automatisation;
+- e. l’enclenchement, par le système d’automatisation, d’une manœuvre visant à réduire les risques;
+- f. l’enclenchement, par le système d’automatisation, d’une manœuvre en cas d’urgence;
+- g. l’apparition de défaillances techniques importantes pour la sécurité.
+
+<sup>3</sup>
+
+S’agissant des véhicules sans conducteur, il doit également enregistrer les événements suivants:
+
+- a. la transmission d’un ordre par l’opérateur;
+- b. toute interruption de la liaison de communication avec l’opérateur.
+
+<sup>4</sup> Il doit enregistrer en circuit fermé les événements avec l’indication de la version logicielle installée du système d’automatisation.
+
+<sup>5</sup> Les données enregistrées par l’enregistreur de mode de conduite ne doivent pas pouvoir être modifiées. Les données les plus anciennes sont écrasées lorsque le système atteint la limite de sa capacité de stockage.
+
+<sup>6</sup> Le Conseil fédéral précise les données à enregistrer en accord avec le droit international. Il peut exempter les véhicules visés à l’art. 25*d* de l’obligation d’être équipés d’un enregistreur de mode de conduite ou restreindre les types d’événements à enregistrer.
+
+### Accès aux données de l’enregistreur de mode de conduite
+
+#### Art. 25g
+
+<sup>1</sup> Le détenteur du véhicule doit pouvoir accéder aux données de l’enregistreur de mode de conduite au moyen d’une interface standard. Ces données doivent lui être fournies dans un format facilement lisible. Le détenteur du véhicule ne peut accéder aux données enregistrées lors de trajets effectués par des tiers sans le consentement de ces derniers que dans la mesure où il peut faire valoir un intérêt légitime à consulter ces données à la suite d’un accident ou d’une infraction aux règles de la circulation routière.
+
+<sup>2</sup> Le détenteur du véhicule fournit au conducteur et à l’opérateur toutes les données relatives aux trajets qu’ils ont effectués et pour lesquels ils peuvent faire valoir un intérêt légitime.
+
+<sup>3</sup> Les autorités policières, judiciaires et administratives compétentes peuvent lire et traiter les données de l’enregistreur de mode de conduite afin de faire la lumière sur des accidents ou de constater des infractions aux règles de la circulation routière. L’autorité est tenue d’effacer les données exploitées dès que celles-ci ne sont plus nécessaires à une éventuelle procédure pénale ou administrative, mais au plus tard six mois après la clôture de la procédure par une décision exécutoire.
+
+<sup>4</sup> Dans le cadre des contrôles périodiques des véhicules (art. 13, al. 4), les autorités d’immatriculation peuvent lire et traiter les données de l’enregistreur de mode de conduite afin de contrôler le bon fonctionnement du système d’automatisation. L’autorité d’immatriculation est tenue d’effacer les données exploitées dès que celles-ci ne sont plus nécessaires au contrôle, mais au plus tard deux ans après que le véhicule a été retiré de la circulation.
+
+<sup>5</sup> Les autorités d’immatriculation transmettent à l’OFROU les données exploitées conformément à l’al. 4 en précisant le type de véhicule, sous une forme qui ne permet pas d’identifier le conducteur, l’opérateur ou le véhicule en question. L’OFROU utilise ces données à des fins de surveillance du marché et les met à disposition à des fins de recherche ou d’analyse.
+
+### Essais avec des véhicules équipés d’un système d’automatisation
+
+#### Art. 25h
+
+<sup>1</sup> L’OFROU peut autoriser des essais de durée limitée avec des véhicules équipés d’un système d’automatisation. Dans ce cadre, il peut également autoriser des essais avec des véhicules ne nécessitant pas de conducteur sans que des tronçons ne soient définis à cette fin.
+
+<sup>2</sup> Dans le cadre de l’autorisation, il peut prévoir des dérogations aux dispositions du droit de la circulation routière en vigueur. La sécurité routière de tous les usagers de la route doit être garantie en tout temps.
+
+<sup>3</sup> Les essais et leurs conclusions doivent être documentés par la personne responsable des essais. L’OFROU publie les rapports y afférents. La personne responsable des essais donne accès à l’OFROU à l’ensemble des données relatives à l’essai.
+
+<sup>4</sup> L’OFROU peut déléguer, au cas par cas, la décision d’autoriser des essais intrarégionaux aux cantons. Il fixe les conditions pour la réalisation de ces essais.
 
 ## Titre 3 Règles de la circulation
 

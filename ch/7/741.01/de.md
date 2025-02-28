@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2024-05-01
+version: 2025-03-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. Mai 2024)
+vom 19. Dezember 1958 (Stand am 1. März 2025)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -796,6 +796,111 @@ Der Bundesrat stellt nach Anhören der Kantone Vorschriften auf über:
 [^25-5]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Juli 2016 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^25-6]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Aufgehoben durch Ziff. I des BG vom 14. Dez. 2001, mit Wirkung seit 1. Dez. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)Art. 1 Abs. 2; BBl **1999** 4462).
 [^25-7]: Aufgehoben durch Ziff. I 23 des BG vom 9. Okt. 1992 über den Abbau von Finanzhilfen und Abgeltungen, mit Wirkung seit 1. Jan. 1993 ([AS 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325); [BBl 1992 III 349](https://fedlex.data.admin.ch/eli/fga/1992/3_349_341_294)).
+
+## II*a*. Titel: Fahrzeuge mit einem Automatisierungssystem
+
+[^titIIa-1]
+
+[^titIIa-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. März 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+
+### Begriff
+
+#### Art. 25a
+
+Fahrzeuge mit einem Automatisierungssystem sind Fahrzeuge, die in der Lage sind, die Fahraufgaben des Fahrzeugführers zumindest unter bestimmten Bedingungen dauerhaft und umfassend zu übernehmen.
+
+### Befreiung des Fahrzeugführers von seinen Pflichten
+
+#### Art. 25b
+
+<sup>1</sup> Der Bundesrat regelt, unter welchen Voraussetzungen und in welchem Umfang der Führer eines Fahrzeugs mit einem Automatisierungssystem von seinen Pflichten nach Artikel 31 Absatz 1 befreit wird.
+
+<sup>2</sup> Er kann vorsehen, dass Fahrzeuge mit einem Automatisierungssystem auf Parkierungsflächen, die vom übrigen Verkehr sowie den für Fussgänger und Radfahrer bestimmten Verkehrsflächen abgegrenzt sind, ohne Anwesenheit des Fahrzeugführers manövrieren dürfen. Er regelt die Voraussetzungen sowie die Anforderungen an solche Parkierungsflächen.
+
+### Führerlose Fahrzeuge auf bestimmten Fahrstrecken
+
+#### Art. 25c
+
+<sup>1</sup> Fahrzeuge mit einem Automatisierungssystem, die keinen Fahrzeugführer benötigen, dürfen nur auf festgelegten Fahrstrecken zugelassen werden und müssen durch einen Operator beaufsichtigt werden.
+
+<sup>2</sup> Der Bundesrat regelt die weiteren Zulassungs- und Verwendungsvoraussetzungen, das Zulassungsverfahren sowie die Rechte und Pflichten der Operatoren.
+
+<sup>3</sup> Der Zulassungskanton (Art. 22) legt die Fahrstrecken und allfällige weitergehende Bedingungen, unter denen ein führerloses Fahrzeug auf diesen Stecken zum Einsatz kommen darf, im Einzelfall fest. Bei kantonsübergreifenden Strecken verständigt er sich mit den betroffenen Kantonen, bei Strecken auf Nationalstrassen mit dem ASTRA.
+
+### Führerlose Fahrzeuge mit geringen Dimensionen und niedriger Geschwindigkeit
+
+#### Art. 25d
+
+<sup>1</sup> Der Bundesrat kann vorsehen, dass Fahrzeuge mit geringen Dimensionen und niedriger Geschwindigkeit, die keinen Fahrzeugführer benötigen, auch ohne Festlegung bestimmter Fahrstrecken zugelassen werden können, und den Operator solcher Fahrzeuge von bestimmten Pflichten befreien. Er regelt die Zulassungs- und die Verwendungsvoraussetzungen sowie das Zulassungsverfahren.
+
+<sup>2</sup> Der Zulassungskanton holt das Einverständnis jener Kantone ein, auf deren Gebiet die Fahrzeuge verwendet werden.
+
+### Gemeinsame Bestimmungen
+
+#### Art. 25e
+
+<sup>1</sup> Im Rahmen der Regelung nach den Artikeln 25*b*–25*d* stellt der Bundesrat sicher, dass die Verkehrssicherheit aller Strassenbenützer nicht beeinträchtigt wird, dass die Verkehrsregeln beachtet werden können und dass die Automatisierungssysteme Daten nur dann bearbeiten können, wenn deren Richtigkeit und Integrität gewährleistet ist.
+
+<sup>2</sup> Fahrzeuge mit einem Automatisierungssystem müssen mit einem Fahrmodusspeicher ausgerüstet sein.
+
+<sup>3</sup> Automatisierungssystem und Fahrmodusspeicher müssen gegen unbefugten Zugriff geschützt sein.
+
+### Anforderungen an den Fahrmodusspeicher
+
+#### Art. 25f
+
+<sup>1</sup> Der Fahrmodusspeicher darf nicht deaktivierbar sein.
+
+<sup>2</sup>
+
+Er muss folgende Ereignisse aufzeichnen und mit einem Zeitstempel versehen:
+
+- a. die Aktivierung des Automatisierungssystems;
+- b. die Deaktivierung des Automatisierungssystems und den Grund der Deaktivierung;
+- c. die Übernahmeaufforderung des Automatisierungssystems an den Fahrzeugführer und den Grund der Übernahmeaufforderung;
+- d. das Unterdrücken oder Abschwächen von Eingriffen des Fahrzeugführers durch das Automatisierungssystem;
+- e. das Auslösen eines Manövers zur Risikominimierung durch das Automatisierungssystem;
+- f. das Auslösen eines Manövers in Notfällen durch das Automatisierungssystem; und
+- g. das Auftreten von sicherheitsrelevanten technischen Störungen.
+
+<sup>3</sup>
+
+Bei führerlosen Fahrzeugen sind zusätzlich folgende Ereignisse aufzuzeichnen:
+
+- a. das Erteilen eines Befehls durch den Operator;
+- b. ein Unterbruch der Kommunikationsverbindung zum Operator.
+
+<sup>4</sup> Die Ereignisse müssen zusammen mit der Angabe der installierten Softwareversion des Automatisierungssystems im Rahmen eines geschlossenen Systems aufgezeichnet werden.
+
+<sup>5</sup> Die vom Fahrmodusspeicher aufgezeichneten Daten dürfen nicht veränderbar sein. Wenn die Speicherkapazität erreicht ist, werden die ältesten Daten überschrieben.
+
+<sup>6</sup> Der Bundesrat konkretisiert die aufzuzeichnenden Daten in Abstimmung mit dem internationalen Recht. Er kann Fahrzeuge nach Artikel 25*d* von der Pflicht zur Ausrüstung mit einem Fahrmodusspeicher ausnehmen oder die aufzuzeichnenden Ereignisse einschränken.
+
+### Zugriff auf die Daten des Fahrmodusspeichers
+
+#### Art. 25g
+
+<sup>1</sup> Der Fahrzeughalter muss über eine Standardschnittstelle auf die Daten des Fahrmodusspeichers zugreifen können. Diese Daten müssen ihm in einer einfach lesbaren Form zur Verfügung stehen. Auf Daten, die während Fahrten von Dritten gespeichert wurden, darf er ohne deren Zustimmung nur zugreifen, soweit er an diesen Daten ein berechtigtes Interesse im Zusammenhang mit einem Unfall oder einer Widerhandlung gegen die Strassenverkehrsvorschriften geltend machen kann.
+
+<sup>2</sup> Der Fahrzeughalter stellt dem Fahrzeugführer und dem Operator diejenigen Daten von deren Fahrten zur Verfügung, an denen sie ein berechtigtes Interesse geltend machen können.
+
+<sup>3</sup> Für die Aufklärung von Unfällen oder die Beurteilung von Widerhandlungen gegen die Strassenverkehrsvorschriften können die damit zusammenhängenden Daten des Fahrmodusspeichers von den zuständigen Polizei-, Justiz- und Administrativbehörden ausgelesen und bearbeitet werden. Sobald die ausgelesenen Daten für ein allfälliges Straf- oder Administrativverfahren nicht mehr erforderlich sind, muss die Behörde sie löschen, spätestens aber sechs Monate nach rechtskräftigem Abschluss des Verfahrens.
+
+<sup>4</sup> Im Rahmen der Nachprüfungen der Fahrzeuge (Art. 13 Abs. 4) können die Daten des Fahrmodusspeichers von den Zulassungsbehörden ausgelesen und bearbeitet werden, um die Funktionsfähigkeit des Automatisierungssystems zu überprüfen. Sobald die ausgelesenen Daten dazu nicht mehr erforderlich sind, muss die Zulassungsbehörde sie löschen, spätestens aber zwei Jahre nach Ausserverkehrsetzung des Fahrzeugs.
+
+<sup>5</sup> Die Zulassungsbehörden übermitteln dem ASTRA die nach Absatz 4 ausgelesenen Daten zusammen mit dem Fahrzeugtyp in einer Form, aus der keine Rückschlüsse auf die Person des Führers oder des Operators oder auf das einzelne Fahrzeug gezogen werden können. Das ASTRA verwendet die Daten für die Marktüberwachung und stellt sie für Forschungen und Analysen zur Verfügung.
+
+### Versuche mit Fahrzeugen mit einem Automatisierungssystem
+
+#### Art. 25h
+
+<sup>1</sup> Das ASTRA kann befristete Versuche mit Fahrzeugen mit einem Automatisierungssystem bewilligen. Dabei kann es auch Versuche mit Fahrzeugen bewilligen, die keinen Fahrzeugführer benötigen, ohne dass dafür bestimmte Fahrstrecken festgelegt werden.
+
+<sup>2</sup> Im Rahmen der Bewilligung kann es vorsehen, dass von den geltenden Vorschriften des Strassenverkehrsrechts abgewichen wird. Die Verkehrssicherheit aller Strassenbenützer muss jederzeit gewährleistet sein.
+
+<sup>3</sup> Die Versuche und deren Erkenntnisse sind durch die für den Versuch verantwortliche Person zu dokumentieren. Das ASTRA publiziert die entsprechenden Berichte. Die verantwortliche Person gewährt dem ASTRA den Zugang zu sämtlichen Daten im Zusammenhang mit dem Versuch.
+
+<sup>4</sup> Das ASTRA kann den Entscheid über die Bewilligung von Versuchen, die den regionalen Rahmen nicht überschreiten, im Einzelfall den Kantonen übertragen. Es legt die Rahmenbedingungen für die Durchführung dieser Versuche fest.
 
 ## III. Titel: Verkehrsregeln
 
