@@ -4,13 +4,12 @@ number: "773"
 title: Kantonales Energiegesetz
 short: KEnG
 language: de
-version: 2019-01-01
-valid_until: 2025-02-28
-version_adopted: 2017-12-04
+version: 2025-03-01
+version_adopted: 2024-06-17
 adopted: 2017-12-04
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/773"
-pdf: "https://srl.lu.ch/api/de/versions/3308/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3308/pdf_file"
 
 (KEnG)
 
-vom 04.12.2017 (Stand 01.01.2019)
+vom 04.12.2017 (Stand 01.03.2025)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -124,7 +123,7 @@ beschliesst:
 - c. ortsfeste elektrische Widerstandsheizungen (§ 12),
 - d. erneuerbare Wärme beim Ersatz des Wärmeerzeugers (§ 13),
 - e. Elektro-Wassererwärmer (§ 14),
-- f. die Eigenstromerzeugung bei Neubauten (§ 15),
+- f. die Eigenstromerzeugung bei Bauten (§ 15),
 - g. elektrische Energie in Gebäuden (§ 16),
 - h. die verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung (§ 17),
 - i. die Anforderungen an die Deckung des Wärmebedarfs von Neubauten (§ 18),
@@ -224,11 +223,15 @@ beschliesst:
 
 #### § 15
 
-**Eigenstromerzeugung bei Neubauten**
+**Eigenstromerzeugung bei Bauten**
 
-<sup>1</sup> Für Neubauten, die beheizt, belüftet, gekühlt oder befeuchtet werden, ist ein Teil der benötigten Elektrizität auf dem, am oder im Neubau selbst zu erzeugen, oder deren Eigentümerinnen und Eigentümer haben eine Ersatzabgabe zu leisten.
+<sup>1</sup> Bei Neubauten, die beheizt, belüftet, gekühlt oder befeuchtet werden, muss das Potenzial zur Stromerzeugung angemessen ausgenutzt werden oder deren Eigentümerinnen und Eigentümer haben eine Ersatzabgabe zu leisten.
 
-<sup>2</sup> Die Verordnung regelt die Art und den Umfang der Eigenstromerzeugung sowie die Befreiungen. Zu berücksichtigen ist dabei die Energiebezugsfläche als Berechnungsgrundlage für die selbst zu erzeugende Elektrizität.
+<sup>1<sup>bis</sup></sup> Bei bestehenden Bauten, die beheizt, belüftet, gekühlt oder befeuchtet werden, muss bei einer Dachsanierung das Stromerzeugungspotenzial angemessen ausgenutzt werden oder deren Eigentümerinnen und Eigentümer haben eine Ersatzabgabe zu leisten.
+
+<sup>1<sup>ter</sup></sup> Für Aussenbauteile mit Schutzauflagen kann die zuständige Dienststelle Erleichterungen gewähren.
+
+<sup>2</sup> Die Verordnung regelt die Art und den Umfang der Eigenstromerzeugung sowie die Befreiungen. Zu berücksichtigen ist dabei die belegbare Dachfläche als Berechnungsgrundlage für die selbst zu erzeugende Elektrizität.
 
 <sup>3</sup> Die Ersatzabgabe berechnet sich aus der Differenz der minimal zu installierenden Leistung zur effektiv installierten Leistung und beträgt pro kW nicht realisierte Leistung maximal 1000 Franken. Der Regierungsrat legt die weiteren Modalitäten und die Höhe der Ersatzabgabe in der Verordnung fest.
 
@@ -288,7 +291,7 @@ beschliesst:
 
 **Wärmenutzung bei Elektrizitätserzeugungsanlagen**
 
-<sup>1</sup> Die Erstellung von Elektrizitätserzeugungsanlagen mit fossilen Brennstoffen wird bewilligt, wenn die im Betrieb entstehende Wärme fachgerecht und vollständig genutzt wird. Ausgenommen sind Anlagen, die keine Verbindung zum öffentlichen Elektrizitätsverteilnetz haben.
+<sup>1</sup> Die Erstellung von Elektrizitätserzeugungsanlagen mit fossilen Brennstoffen wird bewilligt, wenn die im Betrieb entstehende Wärme fachgerecht und vollständig genutzt wird. Ausgenommen sind Anlagen, die keine Verbindung zum öffentlichen Elektrizitätsverteilnetz haben, oder Reservekraftwerke im Interesse der Gewährleistung der Stromversorgungssicherheit auf nationaler Ebene.
 
 <sup>2</sup> Die Erstellung von Elektrizitätserzeugungsanlagen mit erneuerbaren gasförmigen Brennstoffen wird bewilligt, wenn die im Betrieb entstehende Wärme fachgerecht und weitgehend genutzt wird. Diese Anforderung gilt nicht, wenn nur ein beschränkter Anteil nichtlandwirtschaftliche Co-Substrate verwertet wird sowie keine Verbindung zum öffentlichen Gasverteilnetz besteht und diese mit verhältnismässigem Aufwand auch nicht hergestellt werden kann.
 
@@ -403,7 +406,7 @@ beschliesst:
 - c. ist Kontaktstelle für die für die Energie zuständigen Behörden des Bundes, der Kantone und der Gemeinden sowie für die Privaten,
 - d. vollzieht die Regelungen zum GEAK Plus (§ 10 Abs. 2), zum GEAK-Register (§ 10 Abs. 4), zu den ortsfesten elektrischen Widerstandsheizungen (§ 12), zu den Elektro-Wassererwärmern (§ 14 Abs. 3), zu den Grossverbrauchern (§ 19), zur Betriebsoptimierung (§ 20), zur Wärmenutzung bei Elektrizitätserzeugungsanlagen (§ 21), zur Wärmekraftkopplung und Abwärmenutzung (§ 22), zur Pflicht zur Abnahme dezentral erzeugter Energie (§ 23) sowie zu den Heizungen im Freien (§ 24),
 - e. bewilligt thermische Elektrizitätserzeugungsanlagen (§ 21),
-- f. reduziert die Anforderungen an die Energienutzung und kann Erleichterungen sowie die Befreiung von der Einhaltung der Minimalanforderungen vorsehen (§ 11 Abs. 3),
+- f. reduziert die Anforderungen an die Energienutzung und kann Erleichterungen sowie die Befreiung von der Einhaltung von Minimalanforderungen vorsehen (§§ 11 Abs. 3 und 15 Abs. 1<sup>ter</sup>),
 - g. bewilligt Ausnahmen von den Vorschriften dieses Gesetzes, wenn deren Einhaltung zu einer unzumutbaren Härte, einer unverhältnismässigen Erschwernis oder einem sinnwidrigen Ergebnis führt.
 
 #### § 31
@@ -416,7 +419,7 @@ beschliesst:
 
 - a. zum Gebäudeenergieausweis bei Neubauten (§ 10 Abs. 1),
 - b. zu den Minimalanforderungen an die Energienutzung, einschliesslich Erleichterungen und Befreiungen von den Anforderungen an den sommerlichen und winterlichen Wärmeschutz (§ 11 Abs. 1, 2 und 4),
-- c. zur Eigenstromerzeugung bei Neubauten (§ 15),
+- c. zur Eigenstromerzeugung bei Bauten (§ 15),
 - d. zur elektrischen Energie in Gebäuden (§ 16),
 - e. zur verbrauchsabhängigen Heiz- und Warmwasserkostenabrechnung (§ 17),
 - f. zu den Anforderungen an die Deckung des Wärmebedarfs von Neubauten (§ 18),
