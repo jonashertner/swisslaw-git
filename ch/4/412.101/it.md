@@ -4,11 +4,11 @@ title: Ordinanza del 19 novembre 2003 sulla formazione professionale (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: it
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/it"
 
 (OFPr)
 
-del 19 novembre 2003 (Stato 1° luglio 2024)
+del 19 novembre 2003 (Stato 1° marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -224,14 +224,14 @@ Esse disciplinano inoltre la composizione e i compiti delle commissioni svizzere
 
 <sup>6</sup> Le prescrizioni concernenti le formazioni in radioprotezione riconosciute ai sensi dell’ordinanza del 26 aprile 2017[^12-7] sulla radioprotezione necessitano del consenso dell’Ufficio federale della sanità pubblica.[^12-8]
 
-[^12-1]: Introdotto dal n. I 6.3 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^12-1]: Introdotto dalla cifra I n. 6.3 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 [^12-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^12-3]: Introdotto dal n. I 6.3 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^12-3]: Introdotto dalla cifra I n. 6.3 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 [^12-4]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^12-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^12-6]: Abrogato dall’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport, con effetto dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 [^12-7]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^12-8]: Introdotto dal n. II 1 dell’O del 24 ott. 2007 ([RU 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^12-8]: Introdotto dalla cifra II n. 1 dell’O del 24 ott. 2007 ([RU 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
 
@@ -438,7 +438,7 @@ Le scuole specializzate superiori sono disciplinate da un’ordinanza del Dipart
 
 [^28a-1]
 
-[^28a-1]: Introdotto dal n. I dell’O del 15 set. 2017 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)). Abrogato dall’all. n. 1 dell’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 15 set. 2017 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)). Abrogato dall’all. n. 1 dell’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 ## Capitolo 4: Formazione professionale continua
 
@@ -536,7 +536,7 @@ Se le qualifiche sono state ottenute al di fuori dei cicli di formazione discipl
 
 <sup>3</sup> Gli attestati professionali e i diplomi sono firmati dal presidente dell’organo responsabile della procedura di qualificazione e da un membro della Direzione della SEFRI.[^36-1]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 37
 
@@ -575,9 +575,9 @@ La SEFRI pubblica un elenco in forma elettronica[^38-2]:
 
 <sup>2</sup> Su richiesta del titolare, la SEFRI rilascia un documento contenente la descrizione in inglese del contenuto della formazione o della qualifica specifica. …[^38-4]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-2]: www.bvz.admin.ch
-[^38-3]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^38-3]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-4]: Per. abrogato dall’all. n. 2 dell’O dal 16 giu. 2006 sugli emolumenti della SEFRI, con effetto dal 1° ago. 2006 ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
 #### Art. 39
@@ -912,8 +912,8 @@ La quota della Confederazione è suddivisa nel modo seguente:
 - c.[^61-2] contributi ai sensi degli articoli 56 e 56*a* LFPr;
 - d. contributi forfettari ai sensi dell’articolo 53 LFPr.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^61-2]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^61-2]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 ### Sezione 2: Contributi forfettari
 
@@ -936,13 +936,13 @@ Il credito della Confederazione per contributi forfettari a favore dei Cantoni s
 
 <sup>5</sup> La SEFRI versa i contributi annualmente in due rate.
 
-[^62-1]: Abrogato dal n. I 1 dell’O del 7 nov. 2007 (nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^62-1]: Abrogato dalla cifra I n. 1 dell’O del 7 nov. 2007 (nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 ### Sezione 3: Contributi per progetti di sviluppo della formazione professionale e della qualità nonché per prestazioni particolari di interesse pubblico
 
 [^chap8-sec3-1]
 
-[^chap8-sec3-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^chap8-sec3-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 63
 
@@ -963,7 +963,7 @@ I contributi sono calcolati:
 
 <sup>3</sup> I progetti non sono sostenuti per più di quattro anni. Il sostegno è prorogato al massimo di un anno.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 64
 
@@ -985,13 +985,13 @@ I contributi sono commisurati:
 
 <sup>3</sup> I contributi sono concessi per al massimo cinque anni. È possibile una proroga.
 
-[^64-1]: Introdotto dal n. I dell’O del 25 set. 2015 ([RU 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Abrogato dall’art. 36 dell’O del 23 feb. 2022 sulla cooperazione e la mobilità internazionali in materia di formazione, con effetto dal 1° apr. 2022 ([RU 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
+[^64-1]: Introdotto dalla cifra I dell’O del 25 set. 2015 ([RU 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Abrogato dall’art. 36 dell’O del 23 feb. 2022 sulla cooperazione e la mobilità internazionali in materia di formazione, con effetto dal 1° apr. 2022 ([RU 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
 
 ### Sezione 4: Contributi per lo svolgimento degli esami federali di professione e degli esami professionali federali superiori, nonché per i cicli di formazione delle scuole specializzate superiori
 
 [^chap8-sec4-1]
 
-[^chap8-sec4-1]: Introdotto dal n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^chap8-sec4-1]: Introdotto dalla cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 65
 
@@ -1003,7 +1003,7 @@ I contributi sono commisurati:
 
 <sup>2</sup> Per gli esami che risultano particolarmente onerosi per ragioni legate alla materia, può essere concesso un contributo pari al massimo all’80 per cento dei costi. Le domande di contributo devono essere specialmente motivate.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6473](https://fedlex.data.admin.ch/eli/oc/2012/773)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6473](https://fedlex.data.admin.ch/eli/oc/2012/773)).
 
 #### Art. 65a
 
@@ -1020,7 +1020,7 @@ I contributi a favore di cicli di formazione delle scuole specializzate superior
 - a. i cicli di formazione sono offerti da organizzazioni del mondo del lavoro d’importanza nazionale e attive su tutto il territorio del Paese;
 - b. per i cicli di formazione non vengono pagati contributi cantonali.
 
-[^65a-1]: Introdotto dal n. I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6473](https://fedlex.data.admin.ch/eli/oc/2012/773)).
+[^65a-1]: Introdotto dalla cifra I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6473](https://fedlex.data.admin.ch/eli/oc/2012/773)).
 
 ### Sezione 5: Procedura di concessione dei contributi
 
@@ -1032,9 +1032,9 @@ I contributi a favore di cicli di formazione delle scuole specializzate superior
 
 **...[^66-1]**
 
-<sup>1</sup> La SEFRI emana direttive sulla presentazione della richiesta, sul preventivo e sul rendiconto di progetti ai sensi degli articoli 54–56 LFPr.
+<sup>1</sup> La SEFRI emana direttive sulla presentazione delle richieste, sul ricorso a esperti, sul preventivo e sul rendiconto di progetti ai sensi degli articoli 54–56 LFPr.[^66-2]
 
-<sup>2</sup> Esso sottopone le richieste alla valutazione della Commissione federale della formazione professionale. I progetti di cui all’articolo 54 LFPr sono sottoposti alla Commissione se i loro costi superano i 250 000 franchi.
+<sup>2</sup> *...*[^66-3]
 
 <sup>3</sup>
 
@@ -1053,14 +1053,16 @@ Per un progetto ai sensi dell’articolo 54 LFPr, nella decisione la SEFRI stabi
 - b. i provvedimenti consequenziali e di attuazione;
 - c. l’informazione sui risultati e la loro divulgazione.
 
-[^chap8-sec5-1]: Introdotto dal n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^66-1]: Abrogata dal n. I dell’O del 15 set. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^chap8-sec5-1]: Introdotto dalla cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^66-1]: Abrogata dalla cifra I dell’O del 15 set. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^66-2]: Nuovo testo giusta la cifra I dell’O del 29 gen. 2025, in vigore dal 1° mar. 2025 ([RU 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
+[^66-3]: Abrogata dalla cifra I dell’O del 29 gen. 2025, con effetto dal 1° mar. 2025 ([RU 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
 
 ### Sezione 6: Contributi alle persone che hanno seguito i corsi di preparazione
 
 [^chap8-sec6-1]
 
-[^chap8-sec6-1]: Introdotta dal n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^chap8-sec6-1]: Introdotta dalla cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 ### (art. 56*a* e 56*b* LFPr)
 
@@ -1251,13 +1253,13 @@ L’operatore del corso rilascia alle persone che hanno seguito il corso una ric
 
 La riduzione o il rifiuto dei contributi federali secondo l’articolo 58 LFPr sono determinati in base alla gravità della violazione dei doveri da parte del beneficiario. La riduzione è di al massimo un terzo.
 
-[^chap8-sec7-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^chap8-sec7-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 ### Sezione 8: Fondo per la formazione professionale
 
 [^chap8-sec8-1]
 
-[^chap8-sec8-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^chap8-sec8-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 68
 
@@ -1284,10 +1286,10 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 
 <sup>3</sup> L’organizzazione dispone di una propria istituzione di formazione ai sensi dell’articolo 60 capoverso 4 lettera b LFPr, se propone direttamente un’offerta che si occupa prevalentemente di formazione e di formazione continua nel ramo o se partecipa a una simile offerta.
 
-<sup>4</sup> a <sup>7</sup> …[^68-2]
+<sup>4 a <sup>7</sup></sup> …[^68-2]
 
-[^68-1]: Introdotta dal n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
-[^68-2]: Abrogati dal n. I dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
+[^68-1]: Introdotta dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
+[^68-2]: Abrogati dalla cifra I dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
 
 #### Art. 68a
 
@@ -1303,7 +1305,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 
 <sup>4</sup> Le decisioni sui contributi passate in giudicato sono parificate alle decisioni giudiziarie ai sensi dell’articolo 80 della legge federale dell’11 aprile 1889[^68a-2] sulla esecuzione e sul fallimento.
 
-[^68a-1]: Introdotto dal n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
+[^68a-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
 [^68a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 68b
@@ -1318,7 +1320,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 
 <sup>3</sup> I conti dei fondi dichiarati obbligatori dal Consiglio federale sono sottoposti annualmente a revisione da parte di servizi indipendenti. I rapporti di revisione sono trasmessi per conoscenza alla SEFRI.
 
-[^68b-1]: Introdotto dal n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). I cpv. 5–7 dell’art. 68 diventano cpv. 1–3 dell’art. 68*b.*
+[^68b-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). I cpv. 5–7 dell’art. 68 diventano cpv. 1–3 dell’art. 68*b.*
 [^68b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Capitolo 9: Riconoscimento di titoli esteri
@@ -1377,7 +1379,7 @@ La SEFRI o terzi riconoscono un titolo estero ai fini dell’esercizio di una pr
 
 [^69c-1]
 
-[^69c-1]: Originario art. 69*a*. Introdotto dal n. II dell’O del 14 set. 2005 ([RU 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)). Abrogato dall’all. n. 2 dell’O del 21 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^69c-1]: Originario art. 69*a*. Introdotto dalla cifra II dell’O del 14 set. 2005 ([RU 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)). Abrogato dall’all. n. 2 dell’O del 21 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
 
 #### Art. 70
 
@@ -1448,7 +1450,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 <sup>2</sup> Per le procedure di riconoscimento dei diplomi si applicano gli emolumenti disciplinati dall’ordinanza del 16 giugno 2006[^73a-2] sugli emolumenti SEFRI.
 
-[^73a-1]: Introdotto dal n. I dell’O dall’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
+[^73a-1]: Introdotto dalla cifra I dell’O dall’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
 [^73a-2]: [[RS 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 ### Sezione 2: Abrogazione e modifica del diritto vigente
@@ -1459,7 +1461,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 <sup>2</sup> La SEFRI è competente dell’abrogazione dei regolamenti di tirocinio emanati dal DEFR in base all’articolo 12 della legge federale del 19 aprile 1978[^74-1] sulla formazione professionale.
 
-[^74-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 n. 2 e all. n. 1, **1998** 1822 art. 2, **1999** 2374 n. I 2, **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. ch. I 1]
+[^74-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 n. 2 e all. n. 1, **1998** 1822 art. 2, **1999** 2374 cifra I n. 2, **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. ch. I 1]
 
 ### Sezione 3: Disposizioni transitorie
 
@@ -1485,7 +1487,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 <sup>1</sup> I responsabili della formazione professionale non soggetti al campo di applicazione della legge federale del 19 aprile 1978[^76-1] sulla formazione professionale che hanno svolto un’attività formativa per almeno cinque anni sono considerati qualificati ai sensi degli articoli 44 e 45.
 
-<sup>2</sup> e <sup>3</sup> ...[^76-2]
+<sup>2 e <sup>3</sup></sup> ...[^76-2]
 
 <sup>4</sup> Eventuali qualificazioni complementari devono avvenire entro cinque anni dalla decisione della SEFRI.
 
@@ -1552,7 +1554,7 @@ Durante i primi quattro anni dall’entrata in vigore della LFPr si applica il s
 
 <sup>2</sup> La SEFRI provvede affinché l’efficacia delle disposizioni della sezione 6 del capitolo 8 (art. 66*a*-66*j*) venga verificata tre anni dopo l’entrata in vigore della modifica del 15 settembre 2017 e affinché venga presentato un rapporto al Consiglio federale.
 
-[^78a-1]: Introdotto dal n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^78a-1]: Introdotto dalla cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 ### Sezione 4: Entrata in vigore
 
@@ -1576,5 +1578,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)n. I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. b, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)n. II].
+[^annexu1-lvlu1-1]: [[RU 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)cifra I n. 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. b, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)cifra II]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

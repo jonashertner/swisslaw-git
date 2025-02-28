@@ -4,11 +4,11 @@ title: Ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: fr
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/fr"
 
 (OFPr)
 
-du 19 novembre 2003 (État le 1<sup>er</sup> juillet 2024)
+du 19 novembre 2003 (État le 1<sup>er</sup> mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -973,7 +973,7 @@ Elles sont accordées comme suit:
 
 <sup>1</sup> Les subventions fédérales en faveur de prestations particulières d’intérêt public, visées à l’art. 55 LFPr, couvrent au maximum 60 % des coûts. En cas d’exceptions fondées, elles peuvent atteindre jusqu’à 80 % des coûts.
 
-<sup>1bis</sup> ...[^64-1]
+<sup>1bis</sup> …[^64-1]
 
 <sup>2</sup>
 
@@ -1032,9 +1032,9 @@ Des subventions ne sont octroyées aux filières des écoles supérieures que:
 
 **…[^66-1]**
 
-<sup>1</sup> Le SEFRI édicte des directives régissant la présentation des demandes, la budgétisation et le décompte des projets visés aux art. 54 à 56 LFPr.
+<sup>1</sup> Le SEFRI édicte des directives régissant la présentation des demandes, le recours à des experts, la budgétisation et le décompte des projets visés aux art. 54 à 56 LFPr.[^66-2]
 
-<sup>2</sup> Il soumet les demandes à l’appréciation de la Commission fédérale de la formation professionnelle; les projets visés à l’art. 54 LFPr sont soumis à la commission si leurs coûts dépassent la somme de 250 000 francs.
+<sup>2</sup> …[^66-3]
 
 <sup>3</sup>
 
@@ -1055,12 +1055,16 @@ Pour les projets visés à l’art. 54 LFPr, le SEFRI précise en outre dans ses
 
 [^chap8-sec5-1]: Introduit par le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Abrogé par le ch. I de l’O du 15 sept. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^66-2]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
+[^66-3]: Abrogé par le ch. I de l’O du 29 janv. 2025, avec effet au 1<sup>er</sup> mars 2025 ([RO 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
 
 ### Section 6 Subventions aux personnes ayant suivi des cours préparatoires
 
-### (art. 56*a* et 56*b* LFPr)
-
 [^chap8-sec6-1]
+
+[^chap8-sec6-1]: Introduite par le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+
+### (art. 56*a* et 56*b* LFPr)
 
 #### Art. 66a
 
@@ -1071,8 +1075,6 @@ Pour les projets visés à l’art. 54 LFPr, le SEFRI précise en outre dans ses
 <sup>2</sup> La demande est généralement déposée après l’examen professionnel fédéral ou l’examen professionnel fédéral supérieur.
 
 <sup>3</sup> Si les conditions définies à l’art. 66*e* sont remplies, il est possible de demander le versement de subventions partielles déjà avant l’examen professionnel fédéral ou l’examen professionnel fédéral supérieur.
-
-[^chap8-sec6-1]: Introduite par le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 66b
 
@@ -1286,7 +1288,7 @@ La demande sera présentée par écrit au SEFRI et contiendra les données suiva
 
 <sup>3</sup> L’organisation dispose de sa propre institution de formation au sens de l’art. 60, al. 4, let. b, LFPr, si elle propose elle-même une offre portant essentiellement sur la formation et la formation continue dans la branche ou si elle participe à une telle offre.
 
-<sup>4</sup> à <sup>7</sup> …[^68-2]
+<sup>4 à <sup>7</sup></sup> …[^68-2]
 
 [^68-1]: Introduit par le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
 [^68-2]: Abrogés par le ch. I de l’O du 3 déc. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
@@ -1487,7 +1489,7 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 
 <sup>1</sup> Les formateurs qui n’entrent pas dans le champ d’application de la loi fédérale du 19 avril 1978 sur la formation professionnelle[^76-1] mais qui ont encadré pendant au moins cinq ans des personnes en formation sont réputés qualifiés au sens des art. 44 et 45.
 
-<sup>2</sup> et <sup>3</sup> …[^76-2]
+<sup>2 et <sup>3</sup></sup> …[^76-2]
 
 <sup>4</sup> Les qualifications complémentaires doivent être acquises dans un délai de cinq ans après la date de la décision du SEFRI.
 

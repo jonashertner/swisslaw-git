@@ -4,11 +4,11 @@ title: Ordinaziun dals 19 da november 2003 davart la furmaziun professiunala (OF
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: rm
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,13 +19,13 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OFPr)
 
-dals 19 da november 2003 (versiun dal 1. da fanadur 2024)
+dals 19 da november 2003 (versiun dal 1. da mars 2025)
 
 Il Cussegl federal svizzer,
 
 sa basond sin l’artitgel 65 alinea 1 da la Lescha federala dals 13 da december 2002[^ingress-1] davart la furmaziun professiunala (LFPr),
 
-ordinescha:
+ordinescha
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
@@ -609,7 +609,7 @@ Il SEFRI publitgescha en furma electronica ina glista[^38-2]:
 
 <sup>1</sup>
 
-Tgi che instruescha en la pratica u en scola la furmaziun fundamentala professiunala, sto avair ina furmaziun che correspunda a las pretensiuns minimalas tenor ils artitgels 44 fin 47. Questa furmaziun vegn cumprovada:
+Tgi che instruescha en la pratica u en scola la furmaziun fundamentala professiunala, sto avair ina furmaziun che correspunda a las pretensiuns minimalas tenor ils artitgels 44–47. Questa furmaziun vegn cumprovada:
 
 - a. cun in diplom federal u cun in diplom renconuschì da la Confederaziun; u
 - b. per furmaturs professiunals che han frequentà in curs da 40 uras, cun in certificat da curs.
@@ -1035,13 +1035,13 @@ Contribuziuns per furmaziuns da scolas spezialisadas superiuras vegnan mo conced
 
 **…[^66-1]**
 
-<sup>1</sup> Il SEFRI decretescha directivas davart la dumonda, davart la budgetaziun e davart ils rendaquints dals projects tenor ils artitgels 54 fin 56 LFPr.
+<sup>1</sup> Il SEFRI decretescha directivas davart l’inoltraziun da dumondas, davart la consultaziun d’experts, davart la budgetaziun e davart il rendaquint da projects tenor ils artitgels 54–56 LFPr.[^66-2]
 
-<sup>2</sup> El suttametta las dumondas al giudicament da la Cumissiun federala per la furmaziun professiunala. Projects tenor l’artitgel 54 LFPr vegnan suttamess a la cumissiun, sch’ils custs dal project surpassan la summa 250 000 francs.
+<sup>2</sup> ...[^66-3]
 
 <sup>3</sup>
 
-En la disposiziun davart la concessiun d’ina contribuziun ad in project tenor ils artitgels 54 fin 56 LFPr fixescha il SEFRI en spezial:
+En la disposiziun davart la concessiun d’ina contribuziun ad in project tenor ils artitgels 54–56 LFPr fixescha il SEFRI en spezial:
 
 - a. l’import da la contribuziun garantida;
 - b. las mesiras per controllar, sche las finamiras èn vegnidas cuntanschidas;
@@ -1058,6 +1058,8 @@ Per ils projects tenor l’artitgel 54 LFPr fixescha il SEFRI supplementarmain e
 
 [^chap8-sec5-1]: Integrà tras la cifra I da l’O dals 15 da sett. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Abolì tras la cifra I da l’O dals 15 da sett. 2017, cun effect dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^66-2]: Versiun tenor la cifra I da l’O dals 29 da schan. 2025, en vigur dapi il 1. da mars 2025 ([AS 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
+[^66-3]: Abolì tras la cifra I da l’O dals 29 da schan. 2025, cun effect dapi il 1. da mars 2025 ([AS 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
 
 ### 6. part Contribuziuns ad absolvents da curs preparatorics
 
@@ -1319,7 +1321,7 @@ La dumonda vegn inoltrada en scrit al SEFRI e cuntegna en spezial las suandantas
 
 <sup>1</sup> L’utilisaziun dals daners or dal fond vegn examinada periodicamain.
 
-<sup>2</sup> Per la contabilitad dal fond per la furmaziun professiunala ch’è vegnì declerà dal Cussegl federal sco liant valan las disposiziuns tenor ils artitgels 957 fin 964 dal dretg d’obligaziuns[^68b-2].
+<sup>2</sup> Per la contabilitad dal fond per la furmaziun professiunala ch’è vegnì declerà dal Cussegl federal sco liant valan las disposiziuns tenor ils artitgels 957–964 dal dretg d’obligaziuns[^68b-2].
 
 <sup>3</sup> Ils quints dal fond ch’è vegnì declerà dal Cussegl federal sco liant vegnan revedids annualmain tras posts independents. Ils rapports da revisiun vegnan inoltrads al SEFRI per enconuschientscha.
 
@@ -1406,8 +1408,8 @@ Il SEFRI u terzas persunas renconuschan in diplom ester che vala per exercitar i
 
 El è il post da contact per la renconuschientscha vicendaivla dals diploms en il rom da l’execuziun dals suandants contracts internaziunals:
 
-- a. cunvegna dals 21 da zercladur 1999[^71-1] tranter la Confederaziun svizra d’ina vart e la communitad europeica e ses stadis commembers da l’autra vart davart la libra circulaziun da persunas;
-- b. convenziun dals 4 da schaner 1960[^71-2] per la fundaziun da l’associaziun europeica da commerzi liber (AECL).
+- a. Cunvegna dals 21 da zercladur 1999[^71-1] tranter la Confederaziun svizra d’ina vart e la communitad europeica e ses stadis commembers da l’autra vart davart la libra circulaziun da persunas;
+- b. Convenziun dals 4 da schaner 1960[^71-2] per la fundaziun da l’associaziun europeica da commerzi liber (AECL).
 
 [^71-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^71-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
@@ -1490,7 +1492,7 @@ Las taxas che vegnan incassadas dal SEFRI per disposiziuns prendidas en emprima 
 
 <sup>1</sup> Furmaturs da la professiun ordaifer il champ d’applicaziun da la Lescha federala dals 19 d’avrigl 1978[^76-1] davart la furmaziun professiunala che han instruì durant almain 5 onns emprendists, valan sco qualifitgads en il senn dals artitgels 44 e 45.
 
-<sup>2</sup> e <sup>3</sup> …[^76-2]
+<sup>2 e <sup>3</sup></sup> …[^76-2]
 
 <sup>4</sup> Eventualas qualificaziuns posteriuras ston vegnir acquiridas entaifer 5 onns suenter la decisiun dal SEFRI.
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 19. November 2003 über die Berufsbildung (Berufsbildungs
 short: BBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: de
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/de"
 
 (Berufsbildungsverordnung, BBV)
 
-vom 19. November 2003 (Stand am 1. Juli 2024)
+vom 19. November 2003 (Stand am 1. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1033,9 +1033,9 @@ Beiträge für Bildungsgänge höherer Fachschulen werden nur gewährt, wenn:
 
 **…[^66-1]**
 
-<sup>1</sup> Das SBFI erlässt Richtlinien über die Gesuchstellung, die Budgetierung und die Abrechnung von Vorhaben nach den Artikeln 54–56 BBG.
+<sup>1</sup> Das SBFI erlässt Richtlinien über die Gesuchstellung, den Beizug von Expertinnen und Experten, die Budgetierung und die Abrechnung von Vorhaben nach den Artikeln 54–56 BBG.[^66-2]
 
-<sup>2</sup> Es unterbreitet die Gesuche der eidgenössischen Berufsbildungskommission zur Beurteilung. Bei Projekten nach Artikel 54 BBG gilt für die Unterbreitung eine Mindestgrenze der Projektkosten von 250 000 Franken.
+<sup>2</sup> ...[^66-3]
 
 <sup>3</sup>
 
@@ -1056,6 +1056,8 @@ Für ein Projekt nach Artikel 54 BBG legt das SBFI in der Verfügung zusätzlich
 
 [^chap8-sec5-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^66-2]: Fassung gemäss Ziff. I der V vom 29. Jan. 2025, in Kraft seit 1. März 2025 ([AS 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
+[^66-3]: Aufgehoben durch Ziff. I der V vom 29. Jan. 2025, mit Wirkung seit 1. März 2025 ([AS 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
 
 ### 6. Abschnitt: Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen
 
@@ -1488,7 +1490,7 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 
 <sup>1</sup> Berufsbildnerinnen und Berufsbildner ausserhalb des Geltungsbereiches des Bundesgesetzes vom 19. April 1978[^76-1] über die Berufsbildung, die während mindestens fünf Jahren Lernende gebildet haben, gelten als qualifiziert im Sinne der Artikel 44 und 45.
 
-<sup>2</sup> und <sup>3</sup> …[^76-2]
+<sup>2 und <sup>3</sup></sup> …[^76-2]
 
 <sup>4</sup> Allfällige Nachqualifikationen haben innerhalb von fünf Jahren nach dem Entscheid des SBFI zu erfolgen.
 

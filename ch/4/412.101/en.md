@@ -4,11 +4,11 @@ title: "Ordinance of 19 November 2003 on Vocational and Professional Education a
 short: VPETO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: en
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Ordinance, VPETO)
 
-of 19 November 2003 (Status as of 1 July 2024)
+of 19 November 2003 (Status as of 1 March 2025)
 
 The Swiss Federal Council,
 
@@ -1032,7 +1032,9 @@ Subsidies for study programmes at professional education institutions shall be p
 
 **…[^66-1]**
 
-<sup>1</sup> SERI shall establish guidelines for funding requests, budgeting and the calculation of project costs under Articles 54–56 VPETA.
+<sup>1</sup> SERI shall establish guidelines for funding requests, the involvement of experts, budgeting and the calculation of project costs under Articles 54–56 VPETA.[^66-2]
+
+<sup>2</sup> ...[^66-3]
 
 <sup>2</sup> SERI shall submit incoming funding requests to the Federal Commission for Vocational and Professional Education and Training (EBBK) to obtain its opinion. For the projects mentioned in Article 54 VPETA, only projects whose total cost exceeds CHF 250,000 shall be submitted.
 
@@ -1055,6 +1057,8 @@ For projects mentioned in Article 54 VPETA, SERI shall provide the following inf
 
 [^chap8-sec5-1]: Inserted by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Repealed by No I of the O of 15 Sept 2017, with effect from 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+[^66-2]: Amended by No I of the O of 29 Jan. 2025, in force since 1 March 2025 ([AS 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
+[^66-3]: Repealed by No I of the O of 29 Jan. 2025, with effect from 1 March 2025 ([AS 2025 82](https://fedlex.data.admin.ch/eli/oc/2025/82)).
 
 ### Section 6 Subsidies for Completion of Preparatory Courses for Federal Professional Examinations
 
