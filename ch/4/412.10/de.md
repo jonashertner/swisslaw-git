@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. Juli 2024)
+vom 13. Dezember 2002 (Stand am 1. März 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 63 der Bundesverfassung[^ingress-1], nach Einsicht in die 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -181,7 +181,7 @@ Zeichnet sich ein Ungleichgewicht auf dem Markt für berufliche Grundbildung ab 
 
 <sup>6</sup> Wird der Abschluss eines Lehrvertrages unterlassen oder wird dieser nicht oder verspätet zur Genehmigung eingereicht, so unterliegt das Lehrverhältnis dennoch den Vorschriften dieses Gesetzes.
 
-[^14-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Abschnitt: Struktur
 
@@ -206,7 +206,7 @@ Sie umfasst insbesondere die Vermittlung und den Erwerb:
 
 <sup>5</sup> Der Sportunterricht richtet sich nach dem Sportförderungsgesetz vom 17. Juni 2011[^15-1].[^15-2]
 
-[^15-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^15-1]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^15-2]: Fassung gemäss Art. 34 Ziff. 3 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 #### Art. 16
@@ -419,7 +419,7 @@ Die höhere Berufsbildung wird erworben durch:
 
 <sup>4</sup> Die Kantone können vorbereitende Kurse anbieten.
 
-[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^28-2]: Vierter Satz eingefügt durch Art. 21 Ziff. 2 des Publikationsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 
 #### Art. 29
@@ -472,7 +472,7 @@ Er unterstützt insbesondere Angebote, die darauf ausgerichtet sind:
 
 <sup>4</sup> Die vom Bund geförderten Angebote der berufsorientierten Weiterbildung und die arbeitsmarktlichen Massnahmen nach dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^32-1] sind zu koordinieren.
 
-[^32-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^32-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## 5. Kapitel: Qualifikationsverfahren, Ausweise und Titel
 
@@ -615,7 +615,7 @@ Für die Bildung von anderen Berufsbildungsverantwortlichen wie Prüfungsexperti
 <sup>2</sup> Er führt zu diesem Zweck die Eidgenössische Hochschule für Berufsbildung (EHB). Die Aufgaben und die Organisation der EHB sind im EHB-Gesetz vom 25. September 2020[^48-2] geregelt.
 
 [^48-1]: Fassung gemäss Art. 36 des EHB-Gesetzes vom 25. Sept. 2020, in Kraft seit 1. Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
-[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
+[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6613)
 
 #### Art. 48a
 
@@ -649,7 +649,7 @@ Für die Bildung von anderen Berufsbildungsverantwortlichen wie Prüfungsexperti
 
 <sup>2</sup> Sie sorgen für die Abstimmung der Berufs-, Studien- und Laufbahnberatung auf die arbeitsmarktlichen Massnahmen gemäss Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^51-1].
 
-[^51-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^51-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## 8. Kapitel: Beteiligung des Bundes an den Kosten der Berufsbildung; Berufsbildungsfonds
 
@@ -806,15 +806,15 @@ Der Bund kürzt bewilligte Beiträge oder verweigert neue Beiträge, wenn die Be
 
 Die Bundesversammlung bewilligt jeweils mit einfachem Bundesbeschluss für eine mehrjährige Beitragsperiode:
 
-- a.
+- a.[^59-2] den Zahlungsrahmen für die Pauschalbeiträge an die Kantone nach Artikel 53;
+- a<sup>bis</sup>.[^59-3] den Zahlungsrahmen für die Abgeltungen für die EHB nach Artikel 48 Absatz 2;
+- a<sup>ter</sup>.[^59-4]
 
   den Zahlungsrahmen für:
 
-  - 1\. die Pauschalbeiträge an die Kantone nach Artikel 53,
-  - 2\. die Beiträge nach Artikel 56 an die Durchführung eidgenössischer Berufsprüfungen und eidgenössischer höherer Fachprüfungen sowie an Bildungsgänge höherer Fachschulen,
-  - 3\. die Beiträge nach Artikel 56*a* an Absolventinnen und Absolventen von vorbereitenden Kursen;
+  - 1\. die Beiträge nach Artikel 56 an die Durchführung eidgenössischer Berufsprüfungen und eidgenössischer höherer Fachprüfungen sowie an Bildungsgänge höherer Fachschulen,
+  - 2\. die Beiträge nach Artikel 56*a* an Absolventinnen und Absolventen von vorbereitenden Kursen;
 
-- a<sup>bis</sup>.[^59-2] den Zahlungsrahmen für die Abgeltungen für die EHB nach Artikel 48 Absatz 2;
 - b.
 
   den Verpflichtungskredit für:
@@ -825,7 +825,9 @@ Die Bundesversammlung bewilligt jeweils mit einfachem Bundesbeschluss für eine 
 <sup>2</sup> Als Richtgrösse für die Kostenbeteiligung des Bundes gilt ein Viertel der Aufwendungen der öffentlichen Hand für die Berufsbildung nach diesem Gesetz. Von seiner Kostenbeteiligung entrichtet der Bund höchstens 10 Prozent als Beitrag nach den Artikeln 54 und 55 an Projekte und Leistungen.
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^59-2]: Eingefügt durch Art. 36 des EHB-Gesetzes vom 25. Sept. 2020, in Kraft seit 1. Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^59-3]: Eingefügt durch Art. 36 des EHB-Gesetzes vom 25. Sept. 2020, in Kraft seit 1. Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-4]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ### 2. Abschnitt: Berufsbildungsfonds
 
@@ -853,7 +855,7 @@ Voraussetzung für die Verbindlicherklärung ist, dass:
 <sup>7</sup> Das SBFI führt die Aufsicht über die allgemein verbindlich erklärten Fonds. Die Details über Rechnungslegung und Revision werden in der Verordnung geregelt.
 
 [^60-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 13 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^60-2]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^60-2]: [SR 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 
 ## 9. Kapitel: Rechtsmittel, Strafbestimmungen, Vollzug
 
@@ -902,7 +904,7 @@ Mit Busse wird bestraft, wer:
 
 <sup>2</sup> Die Strafbestimmungen des Bundesgesetzes vom 19. Dezember 1986[^63-1] gegen den unlauteren Wettbewerb bleiben vorbehalten.
 
-[^63-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^63-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 64
 
@@ -954,38 +956,11 @@ Bund und Kantone können Organisationen der Arbeitswelt Vollzugsaufgaben übertr
 [^68-1]: Fassung gemäss Art. 13 des BG vom 25. Sept. 2020 über die internationale Zusammenarbeit und Mobilität in der Bildung, in Kraft seit 1. April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 [^68-2]: Fassung gemäss Art. 13 des BG vom 25. Sept. 2020 über die internationale Zusammenarbeit und Mobilität in der Bildung, in Kraft seit 1. April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
-#### Art. 69
+#### Art. 69–71
 
-**Eidgenössische Berufsbildungskommission**
+[^6971-1]
 
-<sup>1</sup> Der Bundesrat bestellt eine eidgenössische Berufsbildungskommission.
-
-<sup>2</sup> Sie setzt sich aus höchstens 15 Vertreterinnen und Vertretern von Bund, Kantonen, Organisationen der Arbeitswelt sowie der Wissenschaft zusammen. Die Kantone haben für drei Mitglieder das Vorschlagsrecht.
-
-<sup>3</sup> Sie wird von der Staatssekretärin oder dem Staatssekretär des SBFI geleitet.
-
-<sup>4</sup> Das SBFI führt das Sekretariat.
-
-#### Art. 70
-
-**Aufgaben der eidgenössischen Berufsbildungskommission**
-
-<sup>1</sup>
-
-Die Berufsbildungskommission hat folgende Aufgaben:
-
-- a. sie berät die Bundesbehörden in allgemeinen Fragen der Berufsbildung, in Fragen der Entwicklung und der Koordination und deren Abstimmung mit der allgemeinen Bildungspolitik;
-- b. sie beurteilt Projekte zur Entwicklung der Berufsbildung nach Artikel 54, Gesuche um Beitrage für besondere Leistungen im öffentlichen Interesse nach Artikel 55 und um Unterstützung im Bereich der Berufsbildung nach Artikel 56 sowie Forschung, Studien, Pilotversuche und Dienstleistungen im Bereich der Berufsbildung und der berufsorientierten Weiterbildung nach Artikel 48 Absatz 2 Buchstabe b.
-
-<sup>2</sup> Sie kann von sich Anträge stellen und gibt zu den zu beurteilenden Projekten zuhanden der Subventionsbehörde Empfehlungen ab.
-
-#### Art. 71
-
-**Eidgenössische Berufsmaturitätskommission**
-
-Der Bundesrat setzt eine eidgenössische Berufsmaturitätskommission ein.[^71-1] Die Kommission ist beratendes Organ in Fragen der Berufsmaturität, insbesondere in Fragen der Anerkennung von Qualifikationsverfahren.
-
-[^71-1]: Fassung gemäss Ziff. I 6.2 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^6971-1]: Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. März 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ## 10. Kapitel: Schlussbestimmungen
 

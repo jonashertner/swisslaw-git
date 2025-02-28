@@ -4,11 +4,11 @@ title: Lescha federala dals 13 da december 2002 davart la furmaziun professiunal
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: rm
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LFPr)
 
-dals 13 da december 2002 (versiun dal 1. da fanadur 2024)
+dals 13 da december 2002 (versiun dal 1. da mars 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 63 da la Constituziun federala[^ingress-1], suenter a
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)
 
 ## 1. chapitel Disposiziuns generalas
@@ -183,7 +183,7 @@ En il rom dals meds finanzials disponibels po il Cussegl federal prender mesiras
 
 <sup>6</sup> Las prescripziuns da questa lescha èn er applitgablas per l’emprendissadi, sch’igl è vegnì tralaschà da far in contract d’emprendissadi u sch’in tal na vegn betg inoltrà u vegn inoltrà cun retard per l’approvaziun.
 
-[^14-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. part Structura
 
@@ -208,7 +208,7 @@ Ella cumpiglia en spezial l’intermediaziun e l’acquisiziun:
 
 <sup>5</sup> L’instrucziun da sport sa drizza tenor la Lescha federala dals 17 da zercladur 2011[^15-1] davart la promoziun dal sport.[^15-2]
 
-[^15-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^15-1]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^15-2]: Versiun tenor la cifra 3 da l’artitgel 34 da la LF davart la promoziun dal sport dals 17 da zer. 2011, en vigur dapi il 1. d’oct. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 #### Art. 16
@@ -421,7 +421,7 @@ La furmaziun professiunala superiura vegn acquirida tras:
 
 <sup>4</sup> Ils chantuns pon porscher curs preparatorics.
 
-[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^28-2]: Integrà la quarta frasa tras l’art. 21 cifra 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas, en vigur dapi il 1. da schan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 
 #### Art. 29
@@ -474,7 +474,7 @@ Ella sustegna en spezial purschidas che han l’intent da:
 
 <sup>4</sup> Las purschidas da furmaziun supplementara orientada a la professiun che vegnan sustegnidas da la Confederaziun ston vegnir coordinadas cun las mesiras per il martgà da lavur tenor la Lescha dals 25 da zercladur 1982[^32-1] davart l’assicuranza cunter la dischoccupaziun.
 
-[^32-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^32-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## 5. chapitel Procedura da qualificaziun, attestats e titels
 
@@ -617,7 +617,7 @@ La Confederaziun po metter a disposiziun purschidas per la furmaziun d’autras 
 <sup>2</sup> Per quest intent maina ella la Scola auta federala per la furmaziun professiunala (SAFFP). Las incumbensas e l’organisaziun da la SAFFP èn regladas en la Lescha dals 25 da settember 2020[^48-2] davart la SAFFP.
 
 [^48-1]: Versiun tenor l’art. 36 da la LF dals 25 da sett. 2020 davart la SAFFP, en vigur dapi il 1. d’avust 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
-[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
+[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6613)
 
 #### Art. 48a
 
@@ -651,7 +651,7 @@ La Confederaziun po metter a disposiziun purschidas per la furmaziun d’autras 
 
 <sup>2</sup> Els han quità che la cussegliaziun da professiun, da studi e da carriera saja accordada cun las mesiras per il martgà da lavur tenor la Lescha dals 25 da zercladur 1982[^51-1] davart l’assicuranza cunter la dischoccupaziun.
 
-[^51-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^51-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## 8. chapitel Participaziun da la Confederaziun als custs da la furmaziun professiunala; fond per la furmaziun professiunala
 
@@ -808,15 +808,15 @@ La Confederaziun reducescha contribuziuns permessas u refusa novas contribuziuns
 
 L’Assamblea federala permetta per ina perioda da contribuziun da plirs onns, mintgamai tras in simpel conclus federal:
 
-- a.
+- a.[^59-2] il rom da pajaments per las contribuziuns pauschalas pajadas als chantuns tenor l’artitgel 53;
+- a<sup>bis</sup>.[^59-3] il rom da pajaments per las indemnisaziuns pajadas a la SAFFP tenor l’artitgel 48 alinea 2;
+- a<sup>ter</sup>.[^59-4]
 
   il rom da pajaments per:
 
-  - 1\. las contribuziuns pauschalas pajadas als chantuns tenor l’artitgel 53,
-  - 2\. las contribuziuns tenor l’artitgel 56 per la realisaziun dals examens professiunals federals e dals examens professiunals federals superiurs sco er per scolaziuns da scolas spezialisadas superiuras,
-  - 3\. las contribuziuns tenor l’artitgel 56*a* ad absolvents da curs preparatorics;
+  - 1\. las contribuziuns tenor l’artitgel 56 per la realisaziun dals examens professiunals federals e dals examens professiunals federals superiurs sco er per scolaziuns da scolas spezialisadas superiuras,
+  - 2\. las contribuziuns tenor l’artitgel 56*a* ad absolvents da curs preparatorics;
 
-- a<sup>bis</sup>.[^59-2] la limita per las indemnisaziuns pajadas a la SAFFP tenor l’artitgel 48 alinea 2;
 - b.
 
   il credit d’impegn per:
@@ -827,7 +827,9 @@ L’Assamblea federala permetta per ina perioda da contribuziun da plirs onns, m
 <sup>2</sup> La participaziun da la Confederaziun als custs correspunda a circa in quart da l’import che vegn pajà dal maun public per la furmaziun professiunala tenor questa lescha. Da sia participaziun als custs paja la Confederaziun maximalmain 10 pertschient sco contribuziun per projects e per prestaziuns tenor ils artitgels 54 e 55.
 
 [^59-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^59-2]: Integrà tras l’art. 36 da la LF dals 25 da sett. 2020 davart la SAFFP, en vigur dapi il 1. d’avust 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. da mars 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^59-3]: Integrà tras l’art. 36 da la LF dals 25 da sett. 2020 davart la SAFFP, en vigur dapi il 1. d’avust 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-4]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. da mars 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ### 2. part Fond per la furmaziun professiunala
 
@@ -855,7 +857,7 @@ La premissa per declerar las disposiziuns sco liantas è, che:
 <sup>7</sup> Il SEFRI ha la surveglianza dals fonds ch’èn vegnids declerads sco generalmain liants. L’ordinaziun regla ils detagls da la contabilitad e da la revisiun.
 
 [^60-1]: Versiun da la segunda frasa tenor la cifra 13 da l’agiunta da la LF dals 20 da zer. 2014 davart il perfecziunament, en vigur dapi il 1. da schan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^60-2]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^60-2]: [SR 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 
 ## 9. chapitel Meds legals, disposiziuns penalas, execuziun
 
@@ -904,7 +906,7 @@ Cun ina multa vegn chastià, tgi che:
 
 <sup>2</sup> Las disposiziuns penalas da la Lescha federala dals 19 da december 1986[^63-1] davart la concurrenza illoiala restan resalvadas.
 
-[^63-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^63-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 64
 
@@ -956,38 +958,11 @@ La Confederaziun ed ils chantuns pon surdar incumbensas executivas ad organisazi
 [^68-1]: Versiun tenor l’art. 13 da la LF dals 25 da sett. 2020 davart la collavuraziun e la mobilitad internaziunala en il sectur da la furmaziun, en vigur dapi il 1. d’avrigl 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 [^68-2]: Versiun tenor l’art. 13 da la LF dals 25 da sett. 2020 davart la collavuraziun e la mobilitad internaziunala en il sectur da la furmaziun, en vigur dapi il 1. d’avrigl 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
-#### Art. 69
+#### Art. 69–71
 
-**Cumissiun federala per la furmaziun professiunala**
+[^6971-1]
 
-<sup>1</sup> Il Cussegl federal nominescha ina cumissiun federala per la furmaziun professiunala.
-
-<sup>2</sup> Ella sa cumpona da maximalmain 15 represchentantas e represchentants da la Confederaziun, dals chantuns, da las organisaziuns dal mund da lavur sco er da la scienza. Ils chantuns han il dretg da proponer trais commembras u commembers.
-
-<sup>3</sup> La cumissiun vegn presidiada dal secretari da stadi dal SEFRI.
-
-<sup>4</sup> Il SEFRI maina il secretariat.
-
-#### Art. 70
-
-**Incumbensas da la cumissiun federala per la furmaziun professiunala**
-
-<sup>1</sup>
-
-La cumissiun per la furmaziun professiunala ha las suandantas incumbensas:
-
-- a. ella cusseglia las autoritads federalas en dumondas generalas da la furmaziun professiunala, en dumondas dal svilup e da la coordinaziun sco er da l’armonisaziun cun la politica da furmaziun generala;
-- b. ella giuditgescha ils projects per sviluppar la furmaziun professiunala tenor l’artitgel 54, las dumondas da contribuziun per prestaziuns spezialas ch’èn d’in interess public tenor l’artitgel 55 e las dumondas da sustegn en il sectur da la furmaziun professiunala tenor l’artitgel 56 sco er la perscrutaziun, ils studis, ils projects da pilot ed ils servetschs en il sectur da la furmaziun professiunala e da la furmaziun supplementara orientada a la professiun tenor l’artitgel 48 alinea 2 litera b.
-
-<sup>2</sup> Ella po far sezza propostas e fa recumandaziuns per mauns da l’autoritad da subvenziun davart ils projects che ston vegnir giuditgads.
-
-#### Art. 71
-
-**Cumissiun federala per la maturitad professiunala**
-
-Il Cussegl federal nominescha ina cumissiun federala per la maturitad professiunala.[^71-1] La cumissiun è l’organ consultativ per dumondas da la maturitad professiunala, en spezial per dumondas davart la renconuschientscha da proceduras da qualificaziun.
-
-[^71-1]: Versiun tenor la cifra I 6.2 da l’O dals 9 da nov. 2011 (examinaziun da las cumissiuns extraparlamentaras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^6971-1]: Abolì tras la cifra I da la LF dals 27 da sett. 2024, cun effect dapi il 1. da mars 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ## 10. chapitel Disposiziuns finalas
 

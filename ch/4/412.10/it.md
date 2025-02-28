@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° luglio 2024)
+del 13 dicembre 2002 (Stato 1° marzo 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 63 della Costituzione federale[^ingress-1]; visto il messaggi
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)
 
 ## Capitolo 1: Disposizioni generali
@@ -181,7 +181,7 @@ Il Consiglio federale può adottare, nel limite dei mezzi disponibili, provvedim
 
 <sup>6</sup> Le disposizioni della presente legge sono applicabili al rapporto di tirocinio anche se le parti omettono di concludere un contratto o se il contratto non è sottoposto all’approvazione o vi è sottoposto tardivamente.
 
-[^14-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Sezione 2: Struttura
 
@@ -206,7 +206,7 @@ Essa comprende in particolare la trasmissione e acquisizione:
 
 <sup>5</sup> L’insegnamento dell’educazione fisica è disciplinato dalla legge del 17 giugno 2011[^15-1] sulla promozione dello sport.[^15-2]
 
-[^15-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^15-1]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^15-2]: Nuovo testo giusta dall’art. 34 n. 3 della L del 17 giu. 2011 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 #### Art. 16
@@ -279,7 +279,7 @@ Le ordinanze in materia di formazione disciplinano in particolare:
 
 <sup>4</sup> ...[^19-2]
 
-[^19-1]: Nuova espr. giusta il n. I 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19-1]: Nuova espr. giusta la cifra I n. 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^19-2]: Introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Abrogato dall’all. n. 4 della LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ### Sezione 3: Operatori
@@ -328,7 +328,7 @@ La scuola professionale di base ha un mandato di formazione proprio; essa:
 
 <sup>5</sup> Su proposta delle associazioni professionali, la SEFRI autorizza[^22-1] lo svolgimento di corsi specializzati intercantonali se consentono un migliore raggiungimento dell’obiettivo di formazione, di influenzare favorevolmente la disponibilità delle aziende di tirocinio, non generano costi eccessivi e non provocano gravi pregiudizi ai partecipanti.
 
-[^22-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^22-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 23
 
@@ -421,7 +421,7 @@ La formazione professionale superiore viene acquisita mediante:
 
 <sup>4</sup> I Cantoni possono proporre corsi preparatori.
 
-[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^28-2]: Per. introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2005 ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 
 #### Art. 29
@@ -438,8 +438,8 @@ La formazione professionale superiore viene acquisita mediante:
 
 <sup>5</sup> Esercitano la vigilanza sulle scuole specializzate superiori, sempreché esse propongano cicli di formazione riconosciuti dalla Confederazione.
 
-[^29-1]: Nuova espr. giusta il n. I 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^29-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^29-1]: Nuova espr. giusta la cifra I n. 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^29-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ## Capitolo 4: Formazione professionale continua
 
@@ -475,7 +475,7 @@ Promuove in particolare l’offerta volta a:
 
 <sup>4</sup> Le offerte di formazione professionale continua promosse dalla Confederazione devono essere coordinate con i provvedimenti inerenti al mercato del lavoro conformemente alla legge del 25 giugno 1982[^32-1] sull’assicurazione contro la disoccupazione.
 
-[^32-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^32-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Capitolo 5: Procedure di qualificazione, attestati, certificati e titoli
 
@@ -535,7 +535,7 @@ Unicamente i titolari di un diploma di formazione professionale di base e di for
 
 <sup>3</sup> I Cantoni provvedono allo svolgimento degli esami di maturità professionale e rilasciano gli attestati. A titolo complementare anche la Confederazione può organizzare tali esami.
 
-[^39-1]: Abrogato dall’all. n. II 2 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^39-1]: Abrogato dall’all. cifra II n. 2 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 40
 
@@ -618,7 +618,7 @@ La Confederazione può proporre corsi di formazione agli altri responsabili dell
 <sup>2</sup> A tale scopo gestisce la Scuola universitaria federale per la formazione professionale (SUFFP). I compiti e l’organizzazione della SUFFP sono disciplinati nella legge del 25 settembre 2020[^48-2] sulla SUFFP.
 
 [^48-1]: Nuovo testo giusta l’art. 36 della L del 25 set. 2020 sulla SUFFP, in vigore dal 1° ago. 2021 ([RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)).
-[^48-2]: [RS 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
+[^48-2]: [RS 412.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6613)
 
 #### Art. 48a
 
@@ -652,7 +652,7 @@ La Confederazione può proporre corsi di formazione agli altri responsabili dell
 
 <sup>2</sup> Essi provvedono a coordinare l’orientamento professionale, negli studi e nella carriera con le misure del mercato del lavoro conformemente alla legge del 25 giugno 1982[^51-1] sull’assicurazione contro la disoccupazione.
 
-[^51-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^51-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Capitolo 8: Partecipazione della Confederazione alle spese per la formazione professionale; fondi per la formazione professionale
 
@@ -675,7 +675,7 @@ La Confederazione versa il resto della sua partecipazione a:
 - c. terzi per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori nonché per cicli di formazione nelle scuole specializzate superiori (art. 56):
 - d.[^52-1] persone che hanno seguito i corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori (art. 56*a*).
 
-[^52-1]: Introdotta dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^52-1]: Introdotta dalla cifra I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 53
 
@@ -704,7 +704,7 @@ I contributi forfettari sono versati per i compiti seguenti:
 
 - b. lo svolgimento di esami e altre procedure di qualificazione (art. 40 cpv. 1), fatto salvo l’articolo 52 capoverso 3 lettera c.
 
-[^53-1]: Nuovo testo giusta il n. II 4 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^53-1]: Nuovo testo giusta la cifra II n. 4 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 54
 
@@ -755,7 +755,7 @@ La Confederazione può concedere contributi per l’organizzazione degli esami f
 
 <sup>4</sup> Alle persone che frequentano corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori la Confederazione può accordare contributi parziali su domanda. Il Consiglio federale disciplina i dettagli.
 
-[^56a-1]: Introdotto dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^56a-1]: Introdotto dalla cifra I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 56b
 
@@ -778,7 +778,7 @@ Nel sistema d’informazione la SEFRI tratta i dati seguenti:
 
 <sup>4</sup> Può affidare a terzi la gestione del sistema d’informazione e il trattamento dei dati.
 
-[^56b-1]: Introdotto dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^56b-1]: Introdotto dalla cifra I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^56b-2]: Abrogata dall’all. n. 8 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 57
@@ -809,15 +809,15 @@ La Confederazione riduce i contributi già assegnati o rifiuta nuovi contributi 
 
 Mediante decreto federale semplice, l’Assemblea federale approva di volta in volta per un periodo pluriennale di sovvenzionamento:
 
-- a.
+- a.[^59-2] il limite di spesa per i contributi forfettari ai Cantoni secondo l’articolo 53;
+- a<sup>bis</sup>.[^59-3] il limite di spesa per le indennità da versare alla SUFFP secondo l’articolo 48 capoverso 2;
+- a<sup>ter</sup>.[^59-4]
 
   il limite di spesa per:
 
-  - 1\. i contributi forfettari ai Cantoni secondo l’articolo 53,
-  - 2\. i contributi di cui all’articolo 56 per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori nonché per i cicli di formazione nelle scuole specializzate superiori,
-  - 3\. i contributi di cui all’articolo 56*a* alle persone che hanno seguito i corsi di preparazione;
+  - 1\. i contributi di cui all’articolo 56 per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori nonché per i cicli di formazione nelle scuole specializzate superiori,
+  - 2\. i contributi di cui all’articolo 56a alle persone che hanno seguito i corsi di preparazione;
 
-- a<sup>bis</sup>.[^59-2] il limite di spesa per le indennità da versare alla SUFFP secondo l’articolo 48 capoverso 2;
 - b.
 
   il credito d’impegno per:
@@ -827,8 +827,10 @@ Mediante decreto federale semplice, l’Assemblea federale approva di volta in v
 
 <sup>2</sup> Un quarto delle spese dell’ente pubblico per la formazione professionale conformemente alla presente legge rappresenta il valore indicativo per la partecipazione alle spese da parte della Confederazione. La Confederazione versa un importo pari al massimo al 10 per cento di questa partecipazione come contributo per progetti e prestazioni secondo gli articoli 54 e 55.
 
-[^59-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^59-2]: Introdotta dall’art. 36 della L del 25 set. 2020 sulla SUFFP, in vigore dal 1° ago. 2021 ([RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^59-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^59-3]: Introdotta dall’art. 36 della L del 25 set. 2020 sulla SUFFP, in vigore dal 1° ago. 2021 ([RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-4]: Introdotta dalla cifra I della LF del 27 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ### Sezione 2: Fondo per la formazione professionale
 
@@ -856,7 +858,7 @@ Il Consiglio federale può procedere in questo senso a condizione che:
 <sup>7</sup> La SEFRI esercita la vigilanza sui fondi dichiarati di obbligatorietà generale. L’ordinanza disciplina i dettagli della presentazione dei conti e della revisione.
 
 [^60-1]: Nuovo testo del per. giusta l’all. n. 13 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 
 ## Capitolo 9: Rimedi giuridici, disposizioni penali, esecuzione
 
@@ -905,7 +907,7 @@ Le autorità di ricorso sono:
 
 <sup>2</sup> Sono fatte salve le disposizioni penali della legge federale del 19 dicembre 1986[^63-1] contro la concorrenza sleale.
 
-[^63-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^63-1]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 64
 
@@ -944,7 +946,7 @@ Per quanto non sia assegnata alla Confederazione, l’esecuzione spetta ai Canto
 
 La Confederazione e i Cantoni possono affidare a organizzazioni del mondo del lavoro compiti d’esecuzione. Queste organizzazioni possono riscuotere emolumenti per le loro decisioni e per i servizi da loro prestati.[^67-1]
 
-[^67-1]: Per. introdotto dal n. II della LF del 17 dic. 2004, in vigore dal 5 ott. 2005 ([RU 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [FF 2004 113](https://fedlex.data.admin.ch/eli/fga/2004/49)).
+[^67-1]: Per. introdotto dalla cifra II della LF del 17 dic. 2004, in vigore dal 5 ott. 2005 ([RU 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [FF 2004 113](https://fedlex.data.admin.ch/eli/fga/2004/49)).
 
 #### Art. 68
 
@@ -957,40 +959,11 @@ La Confederazione e i Cantoni possono affidare a organizzazioni del mondo del la
 [^68-1]: Nuovo testo giusta l’art. 13 della LF del 25 set. 2020 sulla cooperazione e la mobilità internazionali in materia di formazione, in vigore dal 1° apr. 2022 ([RU 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 6937](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 [^68-2]: Nuovo testo giusta l’art. 13 della LF del 25 set. 2020 sulla cooperazione e la mobilità internazionali in materia di formazione, in vigore dal 1° apr. 2022 ([RU 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 6937](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
-#### Art. 69
+#### Art. 69 a 71
 
-**Commissione federale della formazione professionale**
+[^6971-1]
 
-<sup>1</sup> Il Consiglio federale nomina una Commissione federale della formazione professionale.
-
-<sup>2</sup> La Commissione è composta di al massimo 15 rappresentanti della Confederazione, dei Cantoni, delle organizzazioni del mondo del lavoro e delle cerchie scientifiche. I Cantoni possono proporre tre membri.
-
-<sup>3</sup> La Commissione è presieduta dal segretario di Stato della SEFRI[^69-1].
-
-<sup>4</sup> La SEFRI gestisce la segreteria.
-
-[^69-1]: Nuova espr. giusta il n. I 7 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
-
-#### Art. 70
-
-**Compiti della Commissione federale della formazione professionale**
-
-<sup>1</sup>
-
-La Commissione federale della formazione professionale svolge i seguenti compiti:
-
-- a. fornisce consulenza alle autorità federali su questioni generali in materia di formazione professionale, su questioni relative allo sviluppo e al coordinamento nonché alla loro armonizzazione con la politica generale in materia di formazione;
-- b. valuta i progetti di sviluppo della formazione professionale secondo l’articolo 54, le richieste di sussidi per prestazioni particolari di interesse pubblico secondo l’articolo 55 e le richieste di sostegno nel settore della formazione professionale secondo l’articolo 56 nonché la ricerca, gli studi, i progetti pilota e la prestazione di servizi nel settore della formazione professionale e della formazione professionale continua secondo l’articolo 48 capoverso 2 lettera b.
-
-<sup>2</sup> La Commissione può, di propria iniziativa, presentare proposte e sottopone alle autorità che concedono i sussidi raccomandazioni relative ai progetti da valutare.
-
-#### Art. 71
-
-**Commissione federale di maturità professionale**
-
-Il Consiglio federale istituisce una Commissione federale di maturità professionale.[^71-1] La Commissione è organo consultivo per le questioni inerenti alla maturità professionale, in particolare per quelle relative al riconoscimento delle procedure di qualificazione.
-
-[^71-1]: Nuovo testo giusta il n. I 6.2 dell’O del 9 nov. 2011 (Verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^6971-1]: Abrogati dalla cifra I della LF del 27 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ## Capitolo 10: Disposizioni finali
 
@@ -1053,6 +1026,6 @@ Gli atti legislativi seguenti sono modificati come segue:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 all. n. 1, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2, [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)I 2, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)n. II 2]
+[^annexu1-lvlu1-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 all. n. 1; [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2; [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)I 2; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)cifra II n. 2]
 [^annexu1-lvlu1-2]: [[RU 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).

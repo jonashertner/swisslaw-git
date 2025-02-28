@@ -4,20 +4,22 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la formation professionnelle
+# Loi fédérale sur la formation professionnelle\*
 
-(LFPr)
+(LFPr)[^t-1]
 
-du 13 décembre 2002 (État le 1<sup>er</sup> juillet 2024)
+du 13 décembre 2002 (État le 1<sup>er</sup> mars 2025)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +27,7 @@ vu l’art. 63 de la Constitution[^ingress-1], vu le message du Conseil fédéra
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2000 5256](https://fedlex.data.admin.ch/eli/fga/2000/1232)
 
 ## Chapitre 1 Dispositions générales
@@ -181,7 +183,7 @@ Le Conseil fédéral peut, dans le cadre des moyens disponibles, prendre des mes
 
 <sup>6</sup> Les dispositions de la loi sont applicables à l’apprentissage même si les parties omettent de conclure un contrat, qu’elles ne soumettent pas le contrat à l’approbation de l’autorité cantonale ou qu’elles le lui soumettent tardivement.
 
-[^14-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 2 Structure
 
@@ -206,7 +208,7 @@ Elle permet notamment à la personne en formation d’acquérir:
 
 <sup>5</sup> L’éducation physique est régie par la loi du 17 juin 2011 sur l’encouragement du sport[^15-1].[^15-2]
 
-[^15-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^15-1]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^15-2]: Nouvelle teneur selon l’art. 34 ch. 3 de la LF du 17 juin 2011 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 #### Art. 16
@@ -419,7 +421,7 @@ La formation professionnelle supérieure s’acquiert:
 
 <sup>4</sup> Les cantons peuvent proposer des cours préparatoires.
 
-[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^28-2]: Phrase introduite par l’art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 
 #### Art. 29
@@ -472,7 +474,7 @@ Elle soutient notamment l’offre visant:
 
 <sup>4</sup> Les cours de formation continue à des fins professionnelles qu’elle encourage doivent être coordonnés avec les mesures concernant le marché du travail prévues par la loi du 25 juin 1982 sur l’assurance-chômage[^32-1].
 
-[^32-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^32-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Chapitre 5 Procédures de qualification, certificats et titres
 
@@ -615,7 +617,7 @@ La Confédération peut offrir des cours de formation aux autres responsables de
 <sup>2</sup> Elle gère à cet effet la Haute école fédérale en formation professionnelle (HEFP). Les tâches et l’organisation de cette institution sont réglées dans la loi du 25 septembre 2020 sur la HEFP[^48-2].
 
 [^48-1]: Nouvelle teneur selon l’art. 36 de la L du 25 sept. 2020 sur la HEFP, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
-[^48-2]: [RS 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
+[^48-2]: [RS 412.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6613)
 
 #### Art. 48a
 
@@ -649,7 +651,7 @@ La Confédération peut offrir des cours de formation aux autres responsables de
 
 <sup>2</sup> Ils veillent à coordonner l’orientation professionnelle, universitaire et de carrière avec les mesures relatives au marché du travail prévues par la loi du 25 juin 1982 sur l’assurance-chômage[^51-1].
 
-[^51-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^51-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Chapitre 8 Participation de la Confédération aux coûts de la formation professionnelle; fonds en faveur de la formation professionnelle
 
@@ -702,7 +704,7 @@ Les forfaits sont versés aux cantons pour:
 - b. la tenue des examens et l’exécution des autres procédures de qualification (art. 40, al. 1), sous réserve de l’art. 52, al. 3, let. c.
 
 [^53-1]: Nouvelle teneur selon le ch. II 4 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^53-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^53-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 54
 
@@ -807,15 +809,15 @@ La Confédération réduit le montant des subventions allouées ou refuse d’en
 
 L’Assemblée fédérale approuve pour chaque période de subventionnement pluriannuelle, par voie d’arrêté fédéral simple:
 
-- a.
+- a.[^59-2] le plafond des dépenses pour les forfaits versés aux cantons en vertu de l’art. 53;
+- a<sup>bis</sup>. [^59-3] le plafond des dépenses fixé pour les indemnités versées à la HEFP en vertu de l’art. 48, al. 2;
+- a<sup>ter</sup>.[^59-4]
 
   le plafond des dépenses pour:
 
-  - 1\. les forfaits versés aux cantons en vertu de l’art. 53,
-  - 2\. les subventions destinées à la tenue des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs ainsi qu’aux filières de formation des écoles supérieures en vertu de l’art. 56,
-  - 3\. les subventions versées en vertu de l’art. 56*a* aux personnes ayant suivi des cours préparatoires;
+  - 1\. les subventions destinées à la tenue des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs ainsi qu’aux filières de formation des écoles supérieures en vertu de l’art. 56,
+  - 2\. les subventions versées en vertu de l’art. 56*a* aux personnes ayant suivi des cours préparatoires;
 
-- a<sup>bis</sup>. [^59-2] le plafond des dépenses fixé pour les indemnités versées à la HEFP en vertu de l’art. 48, al. 2;
 - b.
 
   le crédit d’engagement pour:
@@ -826,7 +828,9 @@ L’Assemblée fédérale approuve pour chaque période de subventionnement plur
 <sup>2</sup> La participation de la Confédération équivaut à une valeur indicative correspondant au quart du montant des dépenses affectées par les pouvoirs publics à la formation professionnelle en vertu de la présente loi. La Confédération attribue un montant correspondant à 10 % au plus de cette participation à des projets et prestations conformément aux art. 54 et 55.
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^59-2]: Introduit par l’art. 36 de la L du 25 sept. 2020 sur la HEFP, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^59-3]: Introduit par l’art. 36 de la L du 25 sept. 2020 sur la HEFP, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-4]: Introduite par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ### Section 2 Fonds en faveur de la formation professionnelle
 
@@ -854,7 +858,7 @@ Le Conseil fédéral peut prendre la mesure prévue à l’al. 3 à condition:
 <sup>7</sup> Le SEFRI exerce la surveillance des fonds qui ont été déclarés obligatoires. L’ordonnance règle les modalités de la comptabilité et de la révision.
 
 [^60-1]: Nouvelle teneur de la phrase selon l’annexe ch. 13 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 
 ## Chapitre 9 Voies de droit, dispositions pénales, exécution
 
@@ -903,7 +907,7 @@ Sera puni de l’amende quiconque:
 
 <sup>2</sup> Les dispositions pénales de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^63-1] sont réservées.
 
-[^63-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^63-1]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 64
 
@@ -955,40 +959,11 @@ La Confédération et les cantons peuvent confier des tâches d’exécution de 
 [^68-1]: Nouvelle teneur selon l’art. 13 de la LF du 25 sept. 2020 sur la coopération et la mobilité internationales en matière de formation, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 [^68-2]: Nouvelle teneur selon l’art. 13 de la LF du 25 sept. 2020 sur la coopération et la mobilité internationales en matière de formation, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
-#### Art. 69
+#### Art. 69 à 71
 
-**Commission fédérale de la formation professionnelle**
+[^6971-1]
 
-<sup>1</sup> Le Conseil fédéral nomme une commission fédérale de la formation professionnelle.
-
-<sup>2</sup> La commission se compose de quinze membres au plus représentant la Confédération, les cantons, les organisations du monde du travail et les milieux scientifiques. Les cantons peuvent proposer trois membres.
-
-<sup>3</sup> La commission est dirigée par le secrétaire d’État à la formation, à la recherche et à l’innovation[^69-1].
-
-<sup>4</sup> Le SEFRI assure le secrétariat de la commission.
-
-[^69-1]: Nouvelle expression selon le ch. I 8 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
-
-#### Art. 70
-
-**Tâches de la Commission fédérale de la formation professionnelle**
-
-<sup>1</sup>
-
-La Commission fédérale de la formation professionnelle est chargée des tâches suivantes:
-
-- a. elle conseille les autorités fédérales sur les questions générales relevant de la politique en matière de formation professionnelle et sur les questions de développement, de coordination et d’harmonisation de celles-ci avec la politique générale en matière de formation;
-- b. elle évalue les projets de développement de la formation professionnelle visés à l’art. 54, les demandes de subventions pour des prestations particulières d’intérêt public visées à l’art. 55 et les demandes de soutien dans le domaine de la formation professionnelle visées à l’art. 56 ainsi que les projets de recherche, les études, les projets pilote et les prestations de service dans le domaine de la formation professionnelle et de la formation continue à des fins professionnelles visées à l’art. 48, al. 2, let. b.
-
-<sup>2</sup> Elle peut émettre des propositions de sa propre initiative et fournir des recommandations à l’intention des autorités octroyant des subventions au sujet des projets à évaluer.
-
-#### Art. 71
-
-**Commission fédérale de la maturité professionnelle**
-
-Le Conseil fédéral institue une Commission fédérale de la maturité professionnelle.[^71-1] Cet organe consultatif est notamment chargé de la reconnaissance des procédures de qualification.
-
-[^71-1]: Nouvelle teneur selon le ch. I 6.2 de l’O du 9 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^6971-1]: Abrogés par le ch. I de la LF du 27 sept. 2024, avec effet au 1<sup>er</sup> mars 2025 ([RO 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ## Chapitre 10 Dispositions finales
 

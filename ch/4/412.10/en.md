@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on Vocational and Professional Education
 short: VPETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: en
-version: 2024-07-01
+version: 2025-03-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Act, VPETA)
 
-of 13 December 2002 (Status as of 1 July 2024)
+of 13 December 2002 (Status as of 1 March 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Art. 63 of the Federal Constitution[^ingress-1], having considered the 
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)
 
 ## Chapter 1 General Provisions
@@ -183,7 +183,7 @@ If there are indications of a future or current imbalance on the apprenticeship 
 
 <sup>6</sup> The provisions of this Act apply even if an apprenticeship contract is not signed, is not submitted for approval or is submitted late for approval.
 
-[^14-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 2 Structure
 
@@ -208,7 +208,7 @@ In particular, VET programmes include the transfer and acquisition of:
 
 <sup>5</sup> The teaching of physical education is governed by the Sport Promotion Act of 17 June 2011[^15-1].[^15-2]
 
-[^15-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^15-1]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^15-2]: Amended by Art. 34 No 3 of the Sport Promotion Act of 17 June 2011, in force since 1 Oct. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 #### Art. 16
@@ -421,7 +421,7 @@ A tertiary-level professional qualification may be obtained:
 
 <sup>4</sup> The Cantons may offer preparatory courses.
 
-[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^28-2]: Fourth sentence inserted by Art. 21 No 2 of the Publications Act of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 
 #### Art. 29
@@ -474,7 +474,7 @@ In particular, it shall provide funding for job-related CET that enables learner
 
 <sup>4</sup> Federally-funded job-related CET must be coordinated with the labour market measures mentioned in the Unemployment Insurance Act of 25 June 1982[^32-1].
 
-[^32-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^32-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Chapter 5 Qualification Procedures, Qualifications and Titles
 
@@ -617,7 +617,7 @@ The Confederation may establish training programmes designed for other professio
 <sup>2</sup> For this purpose, it runs the Swiss Federal University for Vocational Education and Training (SFUVET). The remit and structure of SFUVET are laid down in the SFUVET Act of 25 September 2020[^48-2].
 
 [^48-1]: Amended by Art. 36 of SFUVET Act of 25 Sept. 2020, in force since 1 Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
-[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
+[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6613)
 
 #### Art. 48a
 
@@ -651,7 +651,7 @@ The Confederation may establish training programmes designed for other professio
 
 <sup>2</sup> They shall ensure that vocational, educational and career guidance activities fall in line with labour market measures provided for in the Unemployment Insurance Act of 25 June 1982[^51-1].
 
-[^51-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^51-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Chapter 8 Federal Subsidies for VPET system; VPET Funds
 
@@ -808,15 +808,15 @@ The Confederation shall reduce approved subsidies or withhold new subsidies if t
 
 For each multi-year subsidy period, the Federal Assembly shall issue a simple Federal Decree to approve the following:
 
-- a.
+- a.[^59-2] the expenditure limits for the fixed subsidies paid to the Cantons referred to in Article 53;
+- a<sup>bis</sup>.[^59-3] the expenditure limits for the subsidy payments to SFUVET under Article 48 paragraph 2;
+- a<sup>ter</sup>.[^59-4]
 
   the expenditure limits for:
 
-  - 1\. the fixed subsidies paid to the Cantons referred to in Article 53,
-  - 2\. the subsidies referred to in Article 56 for organising federal professional examinations, advanced federal professional examinations and study programmes at professional education institutions,
-  - 3\. the subsidies referred to in Article 56*a* to persons who complete a preparatory course;
+  - 1\. the subsidies referred to in Article 56 for organising federal professional examinations, advanced federal professional examinations and study programmes at professional education institutions,
+  - 2\. the subsidies referred to in Article 56*a* to persons who complete a preparatory course;
 
-- a<sup>bis</sup>.[^59-2] the details of subsidy payments to SFUVET under Article 48 paragraph 2;
 - b.
 
   the guaranteed budget for:
@@ -827,7 +827,9 @@ For each multi-year subsidy period, the Federal Assembly shall issue a simple Fe
 <sup>2</sup> As a guideline, the Confederation’s share of education funding should be one quarter of public expenditure on the VPET system under this Act. No more than ten per cent of the Confederation’s share of the costs shall be allocated as a subsidy under Articles 54 and 55 for projects and activities.
 
 [^59-1]: Amended by No I of FA of 16 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^59-2]: Inserted by Art. 36 of the SFUVET Act of 25 Sept. 2020, in force since 1 Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-2]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 March 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^59-3]: Inserted by Art. 36 of the SFUVET Act of 25 Sept. 2020, in force since 1 Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^59-4]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 March 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ### Section 2 VPET Funds
 
@@ -855,7 +857,7 @@ In order for a fund to qualify as mandatory, the following conditions must be me
 <sup>7</sup> SERI shall be responsible for overall supervision of mandatory VPET funds. SERI shall issue an ordinance to regulate the accounting and auditing aspects of such funds.
 
 [^60-1]: Second sentence amended by Annex No 13 of the FA of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^60-2]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^60-2]: [SR 221.215.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5888)
 
 ## Chapter 9 Appeals, Criminal Provisions, Implementation
 
@@ -904,7 +906,7 @@ Any person who:
 
 <sup>2</sup> The criminal provisions of the Federal Act of 19 December 1986[^63-1] on Unfair Competition are reserved.
 
-[^63-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^63-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 64
 
@@ -956,38 +958,11 @@ The Confederation and the Cantons may delegate implementation to professional or
 [^68-1]: Amended by Art. 13 of the FA of 25 Sept. 2020 on International Cooperation and Mobility in Education, in force since 1 April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 [^68-2]: Amended by Art. 13 of the FA of 25 Sept. 2020 on International Cooperation and Mobility in Education, in force since 1 April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
-#### Art. 69
+#### Art. 69–71
 
-**Federal Commission for Vocational and Professional Education and Training**
+[^6971-1]
 
-<sup>1</sup> The Federal Council shall create a Federal Commission for Vocational and Professional Education and Training (EBBK).
-
-<sup>2</sup> The EBBK shall be composed of no more than 15 representatives chosen from federal and cantonal levels, from professional organisations as well as from academic circles. The Cantons shall have the right to nominate three members.
-
-<sup>3</sup> The EBBK shall be run by the State Secretary of SERI.
-
-<sup>4</sup> SERI shall run the EBBK Secretariat.
-
-#### Art. 70
-
-**Tasks of the EBBK**
-
-<sup>1</sup>
-
-The EBBK shall carry out the following tasks:
-
-- a. the provision of advice to the Confederation on general matters relating to the VPET system as well as on matters relating to development, coordination and harmonisation with general education sector policies;
-- b. the assessment of VPET development projects referred to in Article 54, requests for funding of specific activities that serve the public interest referred to in Article 55, subsidies for professional education referred to in Article 56 as well as activities relating to research, studies, pilot projects and services relating to the VET, professional education and job-related CET sectors referred to in Article 48 paragraph 2 letter b.
-
-<sup>2</sup> The EBBK may also submit its own proposals and provide grant funding agencies with recommendations on projects under assessment.
-
-#### Art. 71
-
-**Federal Vocational Baccalaureate Commission**
-
-The Federal Council shall appoint a Federal Vocational Baccalaureate Commission (FVBC).[^71-1] The FVBC shall act as an advisory body for all matters relating to the FVB, particularly the recognition of qualification procedures.
-
-[^71-1]: Amended by No I 6.2 of the O of 9 Nov. 2011 (Review of Extra-Parliamentary Commissions), in force since 1 Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^6971-1]: Repealed by No I of the FA of 27 Sept. 2024, with effect from 1 March 2025 ([AS 2025 75](https://fedlex.data.admin.ch/eli/oc/2025/75); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 ## Chapter 10 Final Provisions
 
