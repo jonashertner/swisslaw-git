@@ -4,13 +4,13 @@ number: "142.212"
 title: Personalverordnung
 short: PGV
 language: de
-version: 2023-07-01
-valid_until: 2025-02-28
-version_adopted: 2023-06-13
+version: 2025-03-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-25
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.212"
-pdf: "https://ar.clex.ch/api/de/versions/1469/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1562/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1469/pdf_file"
 
 (PGV)
 
-vom 20.11.2007 (Stand 01.07.2023)
+vom 20.11.2007 (Stand 01.03.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -282,13 +282,17 @@ beschliesst:
 
 #### Art. 21
 
-**Mitarbeitendengespräch / Vorgesetzenbeurteilung**
+**Mitarbeitendengespräch**
 
-<sup>1</sup> Im Mitarbeitendengespräch wird auf der Grundlage des Stellenbeschriebs die Zielerreichung, die Qualität der Arbeit, das Verhalten und die Leistung beurteilt. Das Mitarbeitendengespräch dient der Förderung und der Motivation der Angestellten und gibt ihnen Gelegenheit, ihre Anliegen vorzubringen. Im Mitarbeitendengespräch werden die Ziele und allfällige Entwicklungsmassnahmen vereinbart.
+<sup>1</sup> Das Mitarbeitendengespräch dient der Förderung und der Motivation der Angestellten. Es gibt ihnen Gelegenheit, ihre Anliegen zum Anstellungsverhältnis vorzubringen und sich zur Zusammenarbeit und zum Führungsverhalten der Vorgesetzten zu äussern.
 
-<sup>2</sup> Aufbau und Methodik von Mitarbeitendengesprächen sowie der Vorgesetztenbeurteilungen erfolgen nach den Weisungen des Regierungsrates.
+<sup>2</sup> Im Mitarbeitendengespräch werden auf der Grundlage des Stellenbeschriebs die Zielerreichung, die Qualität der Arbeit, das Verhalten und die Leistung der Mitarbeitenden beurteilt. Es werden Ziele und allfällige Entwicklungsmassnahmen vereinbart.
 
-<sup>3</sup> Vor Ablauf der Probezeit ist mit der oder dem Angestellten ein Mitarbeitendengespräch zu führen.
+<sup>3</sup> Die Beurteilung der Mitarbeitenden bildet die Grundlage für individuelle Lohnmassnahmen. Die Beurteilung hat auf sachlichen Kriterien und Merkmalen zu beruhen, die für das Anstellungsverhältnis massgebend sind. Die Bewertungen müssen nachvollziehbar sein.
+
+<sup>4</sup> Bei Uneinigkeit über die Beurteilung können Mitarbeitende eine Aussprache mit der Anstellungsbehörde verlangen.
+
+<sup>5</sup> Das Personalamt stellt einen Beurteilungsbogen mit Wegleitung zur Verfügung, der von der vorgesetzten Stelle auszufüllen ist. Beurteilungsbogen und Wegleitung bedürfen der Genehmigung durch den Regierungsrat.
 
 #### Art. 22
 
