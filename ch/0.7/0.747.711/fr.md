@@ -3,36 +3,31 @@ sr: "0.747.711"
 title: "Protocole du 10 mars 1988 pour la répression d'actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923"
 language: fr
-version: 2020-06-11
+version: 2025-03-03
 adopted: 1988-03-10
 in_force: 1993-06-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923/20200611/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1923_1923_1923-20200611-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1923_1923_1923/20200611/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923/20250303/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1923_1923_1923-20250303-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1923_1923_1923/20250303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental
 
-[^t-2]ROTexte original[^t-1]
+RO **1993** 1923; FF **1992** II 1533[^t-1]
 
-Conclu à Rome le 10 mars 1988
+Texte original
 
-Approuvé par l’Assemblée fédérale le 28 septembre 1992[^t-3]
+Conclu à Rome le 10 mars 1988 Approuvé par l’Assemblée fédérale le 28 septembre 1992[^t-2] Instrument de ratification déposé par la Suisse le 12 mars 1993 Entré en vigueur pour la Suisse le 10 juin 1993
 
-Instrument de ratification déposé par la Suisse le 12 mars 1993
-
-Entré en vigueur pour la Suisse le 10 juin 1993
-
-(Etat le 11 juin 2020)
+(État le 3 mars 2025)
 
 [^t-1]: Les Am. du 14 oct. 2005 ([RS 0.747.711.1](https://fedlex.data.admin.ch/eli/cc/2010/457); [RO 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457)) sont insérés dans le présent texte. Ces Am. ne régissent que les rapports entre les États les ayant ratifés. Voir par conséquent leur propre champ d’application.
-[^t-2]: [RO 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923); [FF 1992 II 1533](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)
-[^t-3]: Art. 1 al. 1 let. b de l’AF du 28 sept. 1992 ([RO 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909)).
+[^t-2]: Art. 1 al. 1 let. b de l’AF du 28 sept. 1992 ([RO 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909)).
 
 Les États Parties au présent Protocole,
 
-étant parties à la Convention pour la répression d’actes illicites contre la sécurité de la navigation maritime[^ingress-1]
+étant parties à la Convention pour la répression d’actes illicites contre la sécurité de la navigation maritime[^ingress-1],
 
 reconnaissant que les raisons pour lesquelles la Convention a été élaborée s’appliquent également aux plates-formes fixes situées sur le plateau continental,
 
@@ -211,7 +206,7 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont apposé leur signature au présent Protocole. Fait à Rome ce dix mars mil neuf cent quatre-vingt-huit. (Suivent les signatures)
 
-Champ d’application le 11 juin 2020**[^t-4]**
+Champ d’application le 3 mars 2025[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -285,9 +280,10 @@ Champ d’application le 11 juin 2020**[^t-4]**
 <tr><td>Îles Marshall</td><td>16 octobre</td><td>1995 A</td><td>14 janvier</td><td>1996</td></tr>
 <tr><td>Inde</td><td>15 octobre</td><td>1999 A</td><td>13 janvier</td><td>2000</td></tr>
 <tr><td>Iran\*</td><td>30 octobre</td><td>2009 A</td><td>28 janvier</td><td>2010</td></tr>
+<tr><td>Iraq</td><td>8 août</td><td>2023</td><td>6 novembre</td><td>2023</td></tr>
 <tr><td>Irlande</td><td>10 septembre</td><td>2004 A</td><td>9 décembre</td><td>2004</td></tr>
 <tr><td>Islande</td><td>28 mai</td><td>2002 A</td><td>26 août</td><td>2002</td></tr>
-<tr><td>Israël</td><td>6 janvier</td><td>2009</td><td>6 avril</td><td>2009</td></tr>
+<tr><td>Israël\*</td><td>6 janvier</td><td>2009</td><td>6 avril</td><td>2009</td></tr>
 <tr><td>Italie</td><td>26 janvier</td><td>1990</td><td>1<sup>er</sup> mars</td><td>1992</td></tr>
 <tr><td>Jamaïque\*</td><td>19 août</td><td>2005</td><td>17 novembre</td><td>2005</td></tr>
 <tr><td>Japon</td><td>24 avril</td><td>1998 A</td><td>23 juillet</td><td>1998</td></tr>
@@ -347,8 +343,8 @@ Champ d’application le 11 juin 2020**[^t-4]**
 <tr><td>République tchèque</td><td>10 décembre</td><td>2004</td><td>10 mars</td><td>2005</td></tr>
 <tr><td>Roumanie</td><td>2 juin</td><td>1993 A</td><td>31 août</td><td>1993</td></tr>
 <tr><td>Royaume-Uni\*</td><td>3 mai</td><td>1991</td><td>1<sup>er</sup> mars</td><td>1992</td></tr>
-<tr><td>[tab] Île de Man</td><td>8 février</td><td>1999</td><td>7 mai</td><td>1999</td></tr>
-<tr><td>[tab] Jersey</td><td>17 octobre</td><td>2014</td><td>17 octobre</td><td>2014</td></tr>
+<tr><td>Île de Man</td><td>8 février</td><td>1999</td><td>8 février</td><td>1999</td></tr>
+<tr><td>Jersey</td><td>17 octobre</td><td>2014</td><td>17 octobre</td><td>2014</td></tr>
 <tr><td>Russie</td><td>4 mai</td><td>2001</td><td>2 août</td><td>2001</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>18 août</td><td>2004</td></tr>
 <tr><td>Saint-Marin</td><td>15 décembre</td><td>2014 A</td><td>15 mars</td><td>2015</td></tr>
@@ -377,7 +373,7 @@ Champ d’application le 11 juin 2020**[^t-4]**
 <tr><td>Vanuatu</td><td>18 février</td><td>1999 A</td><td>19 mai</td><td>1999</td></tr>
 <tr><td>Vietnam</td><td>12 juillet</td><td>2002 A</td><td>10 octobre</td><td>2002</td></tr>
 <tr><td>Yémen</td><td>30 juin</td><td>2000 A</td><td>28 septembre</td><td>2000</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-4]: [RO 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923), [2002 3839](https://fedlex.data.admin.ch/eli/oc/2002/589), [2004 2755](https://fedlex.data.admin.ch/eli/oc/2004/335), [2005 4441](https://fedlex.data.admin.ch/eli/oc/2005/573), [2008 101](https://fedlex.data.admin.ch/eli/oc/2008/39), [2010 2297](https://fedlex.data.admin.ch/eli/oc/2010/326), [2014 765](https://fedlex.data.admin.ch/eli/oc/2014/167), [2016 2961](https://fedlex.data.admin.ch/eli/oc/2016/495), [2019 2457](https://fedlex.data.admin.ch/eli/oc/2019/454), [2020 2721](https://fedlex.data.admin.ch/eli/oc/2020/489). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923); [2002 3839](https://fedlex.data.admin.ch/eli/oc/2002/589); [2004 2755](https://fedlex.data.admin.ch/eli/oc/2004/335); [2005 4441](https://fedlex.data.admin.ch/eli/oc/2005/573); [2008 101](https://fedlex.data.admin.ch/eli/oc/2008/39); [2010 2297](https://fedlex.data.admin.ch/eli/oc/2010/326); [2014 765](https://fedlex.data.admin.ch/eli/oc/2014/167); [2016 2961](https://fedlex.data.admin.ch/eli/oc/2016/495); [2019 2457](https://fedlex.data.admin.ch/eli/oc/2019/454); [2020 2721](https://fedlex.data.admin.ch/eli/oc/2020/489); [2025 152](https://fedlex.data.admin.ch/eli/oc/2025/152). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

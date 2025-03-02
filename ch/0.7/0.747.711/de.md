@@ -3,16 +3,16 @@ sr: "0.747.711"
 title: "Protokoll vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923"
 language: de
-version: 2020-06-11
+version: 2025-03-03
 adopted: 1988-03-10
 in_force: 1993-06-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923/20200611/de/xml/fedlex-data-admin-ch-eli-cc-1993-1923_1923_1923-20200611-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1923_1923_1923/20200611/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923/20250303/de/xml/fedlex-data-admin-ch-eli-cc-1993-1923_1923_1923-20250303-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1923_1923_1923/20250303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Protokoll zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden****
+# Protokoll zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden
 
 AS **1993** 1923; BBl **1992** II 1561[^t-1]
 
@@ -20,7 +20,7 @@ AS **1993** 1923; BBl **1992** II 1561[^t-1]
 
 Abgeschlossen in Rom am 10. März 1988 Von der Bundesversammlung genehmigt am 28. September 1992[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 12. März 1993 In Kraft getreten für die Schweiz am 10. Juni 1993
 
-(Stand am 11. Juni 2020)
+(Stand am 3. März 2025)
 
 [^t-1]: Die Änd. vom 14. Okt. 2005 ([SR 0.747.711.1](https://fedlex.data.admin.ch/eli/cc/2010/457); [AS 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich
 [^t-2]: Art. 1 Abs. 1 Bst. B des BB vom 28. Sept. 1992 ([AS 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909)).
@@ -51,7 +51,9 @@ sind wie folgt übereingekommen:
 
 #### Art. 2
 
-<sup>1.</sup> Eine Straftat begeht, wer widerrechtlich und vorsätzlich
+<sup>1.</sup>
+
+Eine Straftat begeht, wer widerrechtlich und vorsätzlich:
 
 - a) durch Gewalt oder Drohung mit Gewalt oder durch eine andere Form der Einschüchterung eine feste Plattform in Besitz nimmt oder die Herrschaft darüber ausübt oder
 - b) eine gewalttätige Handlung gegen eine Person auf einer festen Plattform verübt, wenn diese Handlung geeignet ist, die Sicherheit dieser Plattform zu gefährden, oder
@@ -107,7 +109,9 @@ Jeder Vertragsstaat trifft die notwendigen Massnahmen, um seine Gerichtsbarkeit 
 - a) gegen eine feste Plattform, während sie sich auf dem Festlandsockel dieses Staates befindet, oder auf einer solchen festen Plattform; oder
 - b) von einem Angehörigen dieses Staates.
 
-<sup>2.</sup> Ein Vertragsstaat kann seine Gerichtsbarkeit über eine solche Straftat auch begründen,
+<sup>2.</sup>
+
+Ein Vertragsstaat kann seine Gerichtsbarkeit über eine solche Straftat auch begründen:
 
 - a) wenn sie von einem Staatenlosen begangen wird, der seinen gewöhnlichen Aufenthalt in diesem Staat hat; oder
 - b) wenn bei ihrer Begehung ein Angehöriger dieses Staates festgehalten, bedroht, verletzt oder getötet wird; oder
@@ -127,19 +131,21 @@ Jeder Vertragsstaat trifft die notwendigen Massnahmen, um seine Gerichtsbarkeit 
 
 Dieses Protokoll lässt die Regeln des Völkerrechts über feste Plattformen, die sich auf dem Festlandsockel befinden, unberührt.
 
-#### Art. 4
+#### Art. 4<sup>bis</sup>
 
-**<sup>bi</sup><sup>s</sup> [^4-1]Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden**
+**Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden**[^4bis-1]
 
 Die Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden, sind die Artikel 8–13 des Protokolls von 2005 zum Protokoll von 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden. Bezugnahmen auf Vertragsstaaten im vorliegenden Protokoll gelten als Bezugnahmen auf Vertragsstaaten des Protokolls von 2005.
 
-[^4-1]: Eingefügt durch Art. 7 Abs. 3 des Prot. vom 14. Okt. 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft getreten für die Schweiz am 28. Juli 2010 ([AS 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457)[3343](https://fedlex.data.admin.ch/eli/oc/2010/456); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
+[^4bis-1]: Eingefügt durch Art. 7 Abs. 3 des Prot. vom 14. Okt. 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft getreten für die Schweiz am 28. Juli 2010 ([AS 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457)[3343](https://fedlex.data.admin.ch/eli/oc/2010/456); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 
 #### Art. 5
 
 <sup>1.</sup> Dieses Protokoll liegt am 10. März 1988 in Rom und vom 14. März 1988 bis zum 9. März 1989 am Sitz der Internationalen Seeschifffahrts-Organisation (im folgenden als «Organisation» bezeichnet) für jeden Staat, der das Übereinkommen unterzeichnet hat, zur Unterzeichnung auf. Danach steht es zum Beitritt offen.
 
-<sup>2.</sup> Die Staaten können ihre Zustimmung, durch dieses Protokoll gebunden zu sein, ausdrücken,
+<sup>2.</sup>
+
+Die Staaten können ihre Zustimmung, durch dieses Protokoll gebunden zu sein, ausdrücken:
 
 - a) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen; oder
 - b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen; oder
@@ -177,7 +183,9 @@ Die Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Han
 
 <sup>1.</sup> Dieses Protokoll wird beim Generalsekretär hinterlegt.
 
-<sup>2.</sup> Der Generalsekretär
+<sup>2.</sup>
+
+Der Generalsekretär:
 
 - a) unterrichtet alle Staaten, die dieses Protokoll unterzeichnet haben oder ihm beigetreten sind, sowie alle Mitglieder der Organisation über
   - i) jede neue Unterzeichnung oder Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde sowie den jeweiligen Zeitpunkt,
@@ -195,11 +203,9 @@ Die Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Han
 
 Dieses Protokoll ist in einer Urschrift in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache abgefasst, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-*Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Rom am 10. März 1988
+*Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Rom am 10. März 1988 (Es folgen die Unterschriften)
 
-(Es folgen die Unterschriften)
-
-Geltungsbereich am 11. Juni 2020**[^t-3]**
+Geltungsbereich am 3. März 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -256,10 +262,11 @@ Geltungsbereich am 11. Juni 2020**[^t-3]**
 <tr><td>Guyana</td><td>30. Januar</td><td>2003 B</td><td>30. April</td><td>2003</td></tr>
 <tr><td>Honduras</td><td>17. Mai</td><td>2005 B</td><td>15. August</td><td>2005</td></tr>
 <tr><td>Indien</td><td>15. Oktober</td><td>1999 B</td><td>13. Januar</td><td>2000</td></tr>
+<tr><td>Irak</td><td>8. August</td><td>2023</td><td>6. November</td><td>2023</td></tr>
 <tr><td>Iran\*</td><td>30. Oktober</td><td>2009 B</td><td>28. Januar</td><td>2010</td></tr>
 <tr><td>Irland</td><td>10. September</td><td>2004 B</td><td>9. Dezember</td><td>2004</td></tr>
 <tr><td>Island</td><td>28. Mai</td><td>2002 B</td><td>26. August</td><td>2002</td></tr>
-<tr><td>Israel</td><td>6. Januar</td><td>2009</td><td>6. April</td><td>2009</td></tr>
+<tr><td>Israel\*</td><td>6. Januar</td><td>2009</td><td>6. April</td><td>2009</td></tr>
 <tr><td>Italien</td><td>26. Januar</td><td>1990</td><td>1. März</td><td>1992</td></tr>
 <tr><td>Jamaika\*</td><td>19. August</td><td>2005</td><td>17. November</td><td>2005</td></tr>
 <tr><td>Japan</td><td>24. April</td><td>1998 B</td><td>23. Juli</td><td>1998</td></tr>
@@ -361,13 +368,13 @@ Geltungsbereich am 11. Juni 2020**[^t-3]**
 <tr><td>Vereinigte Arabische Emirate\*</td><td>15. September</td><td>2005 B</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Vereinigte Staaten</td><td>6. Dezember</td><td>1994</td><td>6. März</td><td>1995</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>3. Mai</td><td>1991</td><td>1. März</td><td>1992</td></tr>
-<tr><td>[tab] Insel Man</td><td>8. Februar</td><td>1999</td><td>7. Mai</td><td>1999</td></tr>
-<tr><td>[tab] Jersey</td><td>17. Oktober</td><td>2014</td><td>17. Oktober</td><td>2014</td></tr>
+<tr><td>Insel Man</td><td>8. Februar</td><td>1999</td><td>8. Februar</td><td>1999</td></tr>
+<tr><td>Jersey</td><td>17. Oktober</td><td>2014</td><td>17. Oktober</td><td>2014</td></tr>
 <tr><td>Vietnam</td><td>12. Juli</td><td>2002 B</td><td>10. Oktober</td><td>2002</td></tr>
 <tr><td>Zypern</td><td>2. Februar</td><td>2000 B</td><td>2. Mai</td><td>2000</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 - [tab]
 
-[^t-3]: Diese Veröffentlichung ergänzt die früheren in [AS 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923), [2002 3839](https://fedlex.data.admin.ch/eli/oc/2002/589), [2004 2755](https://fedlex.data.admin.ch/eli/oc/2004/335), [2005 4441](https://fedlex.data.admin.ch/eli/oc/2005/573), [2008 101](https://fedlex.data.admin.ch/eli/oc/2008/39), [2010 2297](https://fedlex.data.admin.ch/eli/oc/2010/326), [2014 765](https://fedlex.data.admin.ch/eli/oc/2014/167), [2016 2961](https://fedlex.data.admin.ch/eli/oc/2016/495), [2019 2457](https://fedlex.data.admin.ch/eli/oc/2019/454)und [2020 2721](https://fedlex.data.admin.ch/eli/oc/2020/489). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923); [2002 3839](https://fedlex.data.admin.ch/eli/oc/2002/589); [2004 2755](https://fedlex.data.admin.ch/eli/oc/2004/335); [2005 4441](https://fedlex.data.admin.ch/eli/oc/2005/573); [2008 101](https://fedlex.data.admin.ch/eli/oc/2008/39); [2010 2297](https://fedlex.data.admin.ch/eli/oc/2010/326); [2014 765](https://fedlex.data.admin.ch/eli/oc/2014/167); [2016 2961](https://fedlex.data.admin.ch/eli/oc/2016/495); [2019 2457](https://fedlex.data.admin.ch/eli/oc/2019/454); [2020 2721](https://fedlex.data.admin.ch/eli/oc/2020/489); [2025 152](https://fedlex.data.admin.ch/eli/oc/2025/152). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

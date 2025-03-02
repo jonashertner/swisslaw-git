@@ -3,30 +3,24 @@ sr: "0.747.711"
 title: Protocollo del 10 marzo 1988 per la repressione di atti illeciti contro la sicurezza delle piattaforme fisse situate sulla piattaforma continentale
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923"
 language: it
-version: 2020-06-11
+version: 2025-03-03
 adopted: 1988-03-10
 in_force: 1993-06-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923/20200611/it/xml/fedlex-data-admin-ch-eli-cc-1993-1923_1923_1923-20200611-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1923_1923_1923/20200611/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923/20250303/it/xml/fedlex-data-admin-ch-eli-cc-1993-1923_1923_1923-20250303-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1923_1923_1923/20250303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Protocollo per la repressione di atti illeciti contro la sicurezza delle piattaforme fisse situate sulla piattaforma continentale****
+# Protocollo per la repressione di atti illeciti contro la sicurezza delle piattaforme fisse situate sulla piattaforma continentale
 
 RU **1993** 1923; FF **1992** II 1313[^t-1]
 
 Traduzione
 
-Concluso a Roma il 10 marzo 1988
+Concluso a Roma il 10 marzo 1988 Approvato dall’Assemblea federale il 28 settembre 1992[^t-2] Depositato dalla Svizzera con strumento ratificato il 12 marzo 1993 Entrato in vigore per la Svizzera il 10 giugno 1993
 
-Approvato dall’Assemblea federale il 28 settembre 1992[^t-2]
-
-Depositato dalla Svizzera con strumento ratificato il 12 marzo 1993
-
-Entrato in vigore per la Svizzera il 10 giugno 1993
-
-(Stato 11 giugno 2020)
+(Stato 3 marzo 2025)
 
 [^t-1]: Gli em. del 14 ott. 2005 ([RS 0.747.711.1](https://fedlex.data.admin.ch/eli/cc/2010/457); [RU 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457)) sono inseriti nel presente testo. Questi em. sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque i loro campi d’applicazione.
 [^t-2]: Art. 1 lett. b del DF del 28 set. 1992 ([RU 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909)).
@@ -211,7 +205,7 @@ Il presente Protocollo è redatto in un unico esemplare originale nelle lingue a
 
 *In fede di che,* i sottoscritti, a tal fine debitamente autorizzati dai loro rispettivi Governi, hanno apposto la loro firma al presente Protocollo. Fatto a Roma il dieci marzo millenovecentottantotto. (Seguono le firme)
 
-Campo d’applicazione l’11 giugno 2020**[^t-3]**
+Campo d’applicazione il 3 marzo 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -285,11 +279,12 @@ Campo d’applicazione l’11 giugno 2020**[^t-3]**
 <tr><td>Guyana</td><td>30 gennaio</td><td>2003 A</td><td>30 aprile</td><td>2003</td></tr>
 <tr><td>Honduras</td><td>17 maggio</td><td>2005 A</td><td>15 agosto</td><td>2005</td></tr>
 <tr><td>India</td><td>15 ottobre</td><td>1999 A</td><td>13 gennaio</td><td>2000</td></tr>
-<tr><td>Iran\*</td><td>30 ottobre</td><td>2009 A</td><td>28 gennaio</td><td>2010</td></tr>
+<tr><td>Iran<sup>\*</sup></td><td>30 ottobre</td><td>2009 A</td><td>28 gennaio</td><td>2010</td></tr>
+<tr><td>Iraq</td><td>8 agosto</td><td>2023</td><td>6 novembre</td><td>2023</td></tr>
 <tr><td>Irlanda</td><td>10 settembre</td><td>2004 A</td><td>9 dicembre</td><td>2004</td></tr>
 <tr><td>Islanda</td><td>28 maggio</td><td>2002 A</td><td>26 agosto</td><td>2002</td></tr>
 <tr><td>Isole Marshall</td><td>16 ottobre</td><td>1995 A</td><td>14 gennaio</td><td>1996</td></tr>
-<tr><td>Israele</td><td>6 gennaio</td><td>2009</td><td>6 aprile</td><td>2009</td></tr>
+<tr><td>Israele<sup>\*</sup></td><td>6 gennaio</td><td>2009</td><td>6 aprile</td><td>2009</td></tr>
 <tr><td>Italia</td><td>26 gennaio</td><td>1990</td><td>1° marzo</td><td>1992</td></tr>
 <tr><td>Kazakstan</td><td>24 novembre</td><td>2003 A</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Kenya</td><td>21 gennaio</td><td>2002 A</td><td>21 aprile</td><td>2002</td></tr>
@@ -341,7 +336,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-3]**
 <tr><td>Portogallo</td><td>5 gennaio</td><td>1996 A</td><td>4 aprile</td><td>1996</td></tr>
 <tr><td>Qatar</td><td>18 settembre</td><td>2003 A</td><td>17 dicembre</td><td>2003</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>3 maggio</td><td>1991</td><td>1° marzo</td><td>1992</td></tr>
-<tr><td>Isola di Man</td><td>8 febbraio</td><td>1999</td><td>7 maggio</td><td>1999</td></tr>
+<tr><td>Isola di Man</td><td>8 febbraio</td><td>1999</td><td>8 febbraio</td><td>1999</td></tr>
 <tr><td>Jersey</td><td>17 ottobre</td><td>2014</td><td>17 ottobre</td><td>2014</td></tr>
 <tr><td>Romania</td><td>2 giugno</td><td>1993 A</td><td>31 agosto</td><td>1993</td></tr>
 <tr><td>Russia</td><td>4 maggio</td><td>2001</td><td>2 agosto</td><td>2001</td></tr>
@@ -377,7 +372,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-3]**
 <tr><td>Vanuatu</td><td>18 febbraio</td><td>1999 A</td><td>19 maggio</td><td>1999</td></tr>
 <tr><td>Vietnam</td><td>12 luglio</td><td>2002 A</td><td>10 ottobre</td><td>2002</td></tr>
 <tr><td>Yemen</td><td>30 giugno</td><td>2000 A</td><td>28 settembre</td><td>2000</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo in inglese può essere ottenuto sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923), [2002 3839](https://fedlex.data.admin.ch/eli/oc/2002/589), [2004 2755](https://fedlex.data.admin.ch/eli/oc/2004/335), [2005 4441](https://fedlex.data.admin.ch/eli/oc/2005/573), [2008 101](https://fedlex.data.admin.ch/eli/oc/2008/39), [2010 2297](https://fedlex.data.admin.ch/eli/oc/2010/326), [2014 765](https://fedlex.data.admin.ch/eli/oc/2014/167), [2016 2961](https://fedlex.data.admin.ch/eli/oc/2016/495), [2019 2457](https://fedlex.data.admin.ch/eli/oc/2019/454)e [2020 2721](https://fedlex.data.admin.ch/eli/oc/2020/489). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1993 1923](https://fedlex.data.admin.ch/eli/oc/1993/1923_1923_1923); [2002 3839](https://fedlex.data.admin.ch/eli/oc/2002/589); [2004 2755](https://fedlex.data.admin.ch/eli/oc/2004/335); [2005 4441](https://fedlex.data.admin.ch/eli/oc/2005/573); [2008 101](https://fedlex.data.admin.ch/eli/oc/2008/39); [2010 2297](https://fedlex.data.admin.ch/eli/oc/2010/326); [2014 765](https://fedlex.data.admin.ch/eli/oc/2014/167); [2016 2961](https://fedlex.data.admin.ch/eli/oc/2016/495); [2019 2457](https://fedlex.data.admin.ch/eli/oc/2019/454); [2020 2721](https://fedlex.data.admin.ch/eli/oc/2020/489); [2025 152](https://fedlex.data.admin.ch/eli/oc/2025/152). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
