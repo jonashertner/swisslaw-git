@@ -4,11 +4,11 @@ title: Geschäftsreglement des Ständerates vom 20. Juni 2003 (GRS)
 short: GRS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: de
-version: 2022-11-28
+version: 2025-03-03
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/de/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20250303/de/xml/fedlex-data-admin-ch-eli-cc-2003-515-20250303-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20250303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/de"
 
 (GRS)
 
-vom 20. Juni 2003 (Stand am 28. November 2022)
+vom 20. Juni 2003 (Stand am 3. März 2025)
 
 Der Ständerat,
 
@@ -156,8 +156,8 @@ Es bestehen folgende ständige Kommissionen:
 
 <sup>2</sup> Die ständigen Kommissionen haben 13 Mitglieder.[^7-2]
 
-[^7-1]: Aufgehoben durch Ziff. I des Beschlusses vom 20. März 2008, mit Wirkung seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420), [1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
-[^7-2]: Fassung gemäss Ziff. I des Beschlusses vom 20. März 2008, in Kraft seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420), [1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-1]: Aufgehoben durch Ziff. I des Beschlusses des S vom 20. März 2008, mit Wirkung seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420), [1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-2]: Fassung gemäss Ziff. I des Beschlusses des S vom 20. März 2008, in Kraft seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420), [1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
 
 #### Art. 8
 
@@ -185,7 +185,7 @@ Die Legislaturplanungskommission wird in der ersten Session einer Legislaturperi
 
 <sup>2</sup> Die Kommission erteilt ihrer Subkommission einen Auftrag, der ihre Aufgabe umschreibt und ihr eine Frist für die Berichterstattung an die Kommission setzt.
 
-[^11-1]: Fassung gemäss Ziff. I des Beschlusses vom 30. Sept. 2022 (Einsetzung von Subkommissionen), in Kraft seit 28. Nov. 2022 ([AS 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^11-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 30. Sept. 2022 (Einsetzung von Subkommissionen), in Kraft seit 28. Nov. 2022 ([AS 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -274,7 +274,7 @@ Die Beratungsgegenstände nach Artikel 71 ParlG werden von den zuständigen Komm
 
 <sup>4</sup> …[^17-1]
 
-[^17-1]: Aufgehoben durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-1]: Aufgehoben durch Ziff. I des Beschlusses des S vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -326,7 +326,7 @@ Ein Ratsmitglied kann eine parlamentarische Initiative oder einen Vorstoss währ
 
 <sup>2</sup> Das Ratsmitglied muss einer parlamentarischen Initiative, einer Motion oder einem Postulat eine Begründung beifügen.[^22-1]
 
-[^22-1]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^22-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 23
 
@@ -368,20 +368,24 @@ Der Adressat eines Vorstosses beantwortet diesen schriftlich auf die nächste or
 
 <sup>4</sup> Das Büro kann eine dringliche Interpellation im Einverständnis mit deren Urheberin oder Urheber in eine dringliche Anfrage umwandeln.[^26-2]
 
-[^26-1]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^26-2]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-2]: Fassung gemäss Ziff. I des Beschlusses des S vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### b. Erklärungen
 
 #### Art. 27
 
-**Erklärung des Ständerates**
+**Erklärung des Ständerates**[^27-1]
 
 <sup>1</sup> Der Rat kann auf schriftlichen Antrag eines Ratsmitgliedes oder einer Kommission zu wichtigen Ereignissen oder Problemen der Aussen- oder Innenpolitik eine Erklärung abgeben.
 
-<sup>2</sup> Der Rat kann beschliessen, über den Entwurf zu einer Erklärung eine Diskussion zu führen. Er kann den Entwurf annehmen, ablehnen oder an die Kommission zurückweisen.
+<sup>2</sup> Jedes Ratsmitglied kann zu einem Antrag für eine Erklärung Änderungsanträge einreichen.
 
-<sup>3</sup> Der Entwurf zu einer Erklärung wird abgeschrieben, wenn er nicht in der laufenden oder nächsten Session behandelt wird.
+<sup>3</sup> Der Rat beschliesst zuerst, ob er eine Beratung durchführen will. Lehnt er die Beratung ab, sind die Anträge erledigt. Beschliesst er die Beratung, bereinigt er die Anträge gemäss den Artikeln 78 und 79 ParlG. Der Rat nimmt den bereinigten Entwurf der Erklärung an oder lehnt diesen ab.
+
+<sup>4</sup> Beschliesst der Rat die Beratung, kann er die Anträge durch die zuständige Kommission vorberaten lassen. Unterbreitet die Kommission ihre Anträge nicht bis zu Beginn der nächsten ordentlichen Session, entscheidet der Rat, die Beratung durchzuführen oder die Anträge abzuschreiben.
+
+[^27-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 20. Dez. 2024 (Verfahren bei Erklärungen und Vaterschaftsurlaub als Entschuldigungsgrund), in Kraft seit 3. März 2025 ([AS 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
 
 #### Art. 28
 
@@ -395,7 +399,7 @@ Der Adressat eines Vorstosses beantwortet diesen schriftlich auf die nächste or
 
 [^chap3-sec2-lvlc-1]
 
-[^chap3-sec2-lvlc-1]: Eingefügt durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), in Kraft seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^chap3-sec2-lvlc-1]: Eingefügt durch Ziff. I des Beschlusses des S vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), in Kraft seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 28a
 
@@ -433,7 +437,7 @@ In den Fällen nach Artikel 44 Absatz 2 erstellt die Ratssekretärin oder der Ra
 
 <sup>2</sup> Die Präsidentin oder der Präsident genehmigt das Protokoll.
 
-[^30-1]: Fassung gemäss Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^30-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 #### Art. 31
 
@@ -577,7 +581,7 @@ Vor der Abstimmung gibt die Präsidentin oder der Präsident eine kurze Übersic
 
 <sup>2</sup> Bei geheimer Beratung oder falls die elektronische Abstimmungsanlage defekt ist, erfolgt die Stimmabgabe durch Handerheben oder unter Namensaufruf.
 
-[^44-1]: Fassung gemäss Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^44-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 #### Art. 44a
 
@@ -601,17 +605,17 @@ Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
 - d. an der Abstimmung nicht teilnimmt; oder
 - e. entschuldigt ist.
 
-<sup>6</sup> Als entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für einen ganzen Sitzungstag aufgrund eines Auftrages einer ständigen Delegation gemäss Artikel 60 ParlG oder wegen Todesfalls im engen Familienkreis, Mutterschaft, Unfall oder Krankheit abgemeldet hat.[^44a-3]
+<sup>6</sup> Als entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für einen ganzen Sitzungstag aufgrund eines Auftrages einer ständigen Delegation gemäss Artikel 60 ParlG oder wegen Todesfalls im engen Familienkreis, Mutterschaft, Vaterschaft, Unfall oder Krankheit abgemeldet hat.[^44a-3]
 
 <sup>6bis</sup> Als teilweise entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für Teile des Sitzungstages aufgrund eines Auftrages eines parlamentarischen Organes abgemeldet hat.[^44a-4]
 
 <sup>7</sup> …[^44a-5]
 
-[^44a-1]: Eingefügt durch Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: Fassung gemäss Ziff. I des Beschlusses vom 17. Dez. 2021 (Namensliste bei allen Abstimmungen), in Kraft seit 28. Febr. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
-[^44a-3]: Fassung gemäss Ziff. I des Beschlusses vom 20. März 2015 (Anpassung der Entschuldigungsgründe), in Kraft seit 1. Juni 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
-[^44a-4]: Eingefügt durch Ziff. I des Beschlusses vom 20. März 2015 (Anpassung der Entschuldigungsgründe), in Kraft seit 1. Juni 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
-[^44a-5]: Aufgehoben durch Ziff. I des Beschlusses vom 17. Dez. 2021 (Namensliste bei allen Abstimmungen), mit Wirkung seit 28. Febr. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
+[^44a-1]: Eingefügt durch Ziff. I des Beschlusses des S vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^44a-2]: Fassung gemäss Ziff. I des Beschlusses des S vom 17. Dez. 2021 (Namensliste bei allen Abstimmungen), in Kraft seit 28. Febr. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
+[^44a-3]: Fassung gemäss Ziff. I des Beschlusses des S vom 20. Dez. 2024 (Verfahren bei Erklärungen und Vaterschaftsurlaub als Entschuldigungsgrund), in Kraft seit 3. März 2025 ([AS 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
+[^44a-4]: Eingefügt durch Ziff. I des Beschlusses des S vom 20. März 2015 (Anpassung der Entschuldigungsgründe), in Kraft seit 1. Juni 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Aufgehoben durch Ziff. I des Beschlusses des S vom 17. Dez. 2021 (Namensliste bei allen Abstimmungen), mit Wirkung seit 28. Febr. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 
@@ -627,8 +631,8 @@ Die Stimmenzahlen und die Enthaltungen sind in jedem Fall zu ermitteln bei:
 - b. Schlussabstimmungen;
 - c. Abstimmungen, bei denen die Zustimmung der Mehrheit der Ratsmitglieder gemäss Artikel 159 Absatz 3 der Bundesverfassung[^45-3] erforderlich ist.
 
-[^45-1]: Fassung gemäss Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^45-2]: Fassung gemäss Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^45-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^45-2]: Fassung gemäss Ziff. I des Beschlusses des S vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 [^45-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
 #### Art. 46
@@ -645,7 +649,7 @@ Die Stimmenzahlen und die Enthaltungen sind in jedem Fall zu ermitteln bei:
 
 <sup>5</sup> Das Ergebnis wird in Form einer Namensliste veröffentlicht; ausgenommen sind geheime Beratungen.
 
-[^46-1]: Fassung gemäss Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^46-1]: Fassung gemäss Ziff. I des Beschlusses des S vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 ## 4. Kapitel: Hausrecht
 

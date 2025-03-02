@@ -4,11 +4,11 @@ title: Regolamento del Consiglio degli Stati del 20 giugno 2003 (RCS)
 short: RCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: it
-version: 2022-11-28
+version: 2025-03-03
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/it/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20250303/it/xml/fedlex-data-admin-ch-eli-cc-2003-515-20250303-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20250303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/it"
 
 (RCS)
 
-del 20 giugno 2003 (Stato 28 novembre 2022)
+del 20 giugno 2003 (Stato 3 marzo 2025)
 
 Il Consiglio degli Stati,
 
@@ -156,8 +156,8 @@ La Camera dispone delle seguenti commissioni permanenti:
 
 <sup>2</sup> Le commissioni permanenti constano di 13 membri.[^7-2]
 
-[^7-1]: Abrogato dal n. I del D del CS del 20 mar. 2008, con effetto dal 1° apr. 2008 ([RU 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1585](https://fedlex.data.admin.ch/eli/fga/2008/420)[1587](https://fedlex.data.admin.ch/eli/fga/2008/421)).
-[^7-2]: Nuovo testo giusta il n. I del D del CS del 20 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1585](https://fedlex.data.admin.ch/eli/fga/2008/420)[1587](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-1]: Abrogato dalla cifra I del D del CS del 20 mar. 2008, con effetto dal 1° apr. 2008 ([RU 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1585](https://fedlex.data.admin.ch/eli/fga/2008/420)[1587](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-2]: Nuovo testo giusta la cifra I del D del CS del 20 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1585](https://fedlex.data.admin.ch/eli/fga/2008/420)[1587](https://fedlex.data.admin.ch/eli/fga/2008/421)).
 
 #### Art. 8
 
@@ -185,7 +185,7 @@ Nella prima sessione di ogni legislatura è istituita una commissione speciale i
 
 <sup>2</sup> La commissione definisce il mandato delle sue sottocommissioni precisandone i compiti e i termini entro cui riferire al plenum.
 
-[^11-1]: Nuovo testo giusta il n. I del D del CS del 30 set. 2022 (Istituzione di sottocommissioni), in vigore dal 28 nov. 2022 ([RU 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^11-1]: Nuovo testo giusta la cifra I del D del CS del 30 set. 2022 (Istituzione di sottocommissioni), in vigore dal 28 nov. 2022 ([RU 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -274,7 +274,7 @@ Gli oggetti in deliberazione ai sensi dell’articolo 71 LParl sono esaminati pr
 
 <sup>4</sup> ...[^17-1]
 
-[^17-1]: Abrogato dal n. I del D del CS del 17 giu. 2011 (Organo della Camera competente per la trattazione delle richieste di soppressione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-1]: Abrogato dalla cifra I del D del CS del 17 giu. 2011 (Organo della Camera competente per la trattazione delle richieste di soppressione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -306,7 +306,7 @@ Gli oggetti in deliberazione ai sensi dell’articolo 71 LParl sono esaminati pr
 
 [^20a-1]
 
-[^20a-1]: Introdotto dal n. I della D del CS del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CS non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 3911](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^20a-1]: Introdotto dalla cifra I della D del CS del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CS non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 3911](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 ### Sezione 2: Oggetti in deliberazione e loro trattazione
 
@@ -326,7 +326,7 @@ Un deputato può presentare per scritto un’iniziativa o un intervento durante 
 
 <sup>2</sup> Il deputato che presenta un’iniziativa, una mozione o un postulato deve allegare una motivazione.[^22-1]
 
-[^22-1]: Nuovo testo giusta il n. I della D del CS del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 (213; [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^22-1]: Nuovo testo giusta la cifra I della D del CS del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 23
 
@@ -354,7 +354,7 @@ Il destinatario di un intervento parlamentare vi risponde per scritto per la ses
 
 <sup>2</sup> L’autore può ritirare l’iniziativa o l’intervento anche senza il consenso dei cofirmatari.
 
-[^25-1]: Introdotto dal n. I della D del CS del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CS non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 3911](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^25-1]: Introdotto dalla cifra I della D del CS del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CS non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 3911](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 #### Art. 26
 
@@ -368,20 +368,24 @@ Il destinatario di un intervento parlamentare vi risponde per scritto per la ses
 
 <sup>4</sup> L’Ufficio può, d’intesa con il suo autore, trasformare un’interpellanza urgente in un’interrogazione urgente.[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I della D del CS del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^26-2]: Nuovo testo giusta il n. I della D del CS del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-1]: Nuovo testo giusta la cifra I della D del CS del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-2]: Nuovo testo giusta la cifra I della D del CS del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### b. Dichiarazioni
 
 #### Art. 27
 
-**Dichiarazioni del Consiglio degli Stati**
+**Dichiarazioni del Consiglio degli Stati**[^27-1]
 
 <sup>1</sup> Su proposta scritta di un deputato o di una commissione, la Camera può fare dichiarazioni su importanti avvenimenti o problemi concernenti la politica estera o la politica interna.
 
-<sup>2</sup> La Camera può decidere di aprire una discussione su un progetto di dichiarazione. Può accettare il progetto, respingerlo o rinviarlo alla commissione.
+<sup>2</sup> Ogni deputato può presentare proposte volte a modificare una proposta di dichiarazione.
 
-<sup>3</sup> Il progetto di dichiarazione è tolto dal ruolo se non viene trattato nella sessione in corso o in quella successiva.
+<sup>3</sup> La Camera decide dapprima se procedere a una deliberazione. Se decide di non deliberare, le proposte sono liquidate. Se decide di deliberare, esse sono sottoposte al voto conformemente agli articoli 78 e 79 LParl. La Camera accetta o respinge il progetto di dichiarazione messo a punto.
+
+<sup>4</sup> Se decide di deliberare, la Camera può sottoporre le proposte all’esame preliminare della commissione competente. Se la commissione non presenta proposte entro l’inizio della sessione ordinaria successiva, la Camera decide se deliberare sulle proposte o se toglierle dal ruolo.
+
+[^27-1]: Nuovo testo giusta la cifra I della D del CS del 20 dic. 2024 (Procedura relativa alle dichiarazioni e congedo di paternità come motivo di impedimento), in vigore dal 3 mar. 2025 ([RU 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
 
 #### Art. 28
 
@@ -395,7 +399,7 @@ Il destinatario di un intervento parlamentare vi risponde per scritto per la ses
 
 [^chap3-sec2-lvlc-1]
 
-[^chap3-sec2-lvlc-1]: Introdotto dal n. I del D del CS del 17 giu. 2011 (Organo della Camera competente per la trattazione delle richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^chap3-sec2-lvlc-1]: Introdotto dalla cifra I I del D del CS del 17 giu. 2011 (Organo della Camera competente per la trattazione delle richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 28a
 
@@ -433,7 +437,7 @@ Nei casi di cui all’articolo 44 capoverso 2, il segretario della Camera redige
 
 <sup>2</sup> Il verbale va sottoposto per approvazione al presidente.
 
-[^30-1]: Nuovo testo giusta il n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^30-1]: Nuovo testo giusta la cifra I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 #### Art. 31
 
@@ -525,7 +529,7 @@ Ogni deputato può fare una breve dichiarazione personale. Può farlo per rispon
 
 <sup>3</sup> Le proposte sono sottoposte all’esame preliminare della commissione di merito se la Camera lo decide.
 
-[^38-1]: Introdotto dal n. I della D del CS del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CS non tornerà a riunirsi nel Palazzo del Parlamento ([RU 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 3911](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^38-1]: Introdotto dalla cifra I della D del CS del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CS non tornerà a riunirsi nel Palazzo del Parlamento ([RU 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 3911](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 #### Art. 39
 
@@ -577,7 +581,7 @@ Prima della votazione, il presidente riepiloga brevemente le proposte e propone 
 
 <sup>2</sup> In caso di deliberazione segreta o di difetto del sistema di voto elettronico, la votazione avviene per alzata di mano o per appello nominale.
 
-[^44-1]: Nuovo testo giusta il n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^44-1]: Nuovo testo giusta la cifra n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 #### Art. 44a
 
@@ -601,17 +605,17 @@ Sull’elenco nominativo si menziona per ogni deputato se:
 - d. non ha partecipato al voto; o
 - e. è scusato.
 
-<sup>6</sup> È considerato scusato il deputato che, al più tardi entro l’inizio della seduta, ha annunciato la sua assenza per l’intera giornata a causa di un mandato conferitogli da una delegazione permanente conformemente all’articolo 60 LParl, a causa di un decesso avvenuto nella stretta cerchia familiare o a causa di maternità, infortunio o malattia.[^44a-3]
+<sup>6</sup> È considerato scusato il deputato che, al più tardi entro l’inizio della seduta, ha annunciato la sua assenza per l’intera giornata a causa di un mandato conferitogli da una delegazione permanente conformemente all’articolo 60 LParl, a causa di un decesso avvenuto nella stretta cerchia familiare o a causa di maternità, paternità, infortunio o malattia.[^44a-3]
 
 <sup>6bis</sup> Il deputato che, al più tardi entro l’inizio della seduta, ha annunciato la sua assenza per una parte della giornata a causa di un mandato conferitogli da un organo parlamentare è considerato scusato per quella parte della giornata.[^44a-4]
 
 <sup>7</sup> ...[^44a-5]
 
-[^44a-1]: Introdotto dal n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: Nuovo testo giusta il n. I del D del CS del 17 dic. 2021 (Elenco nominativo per ogni votazione), in vigore dal 28 feb. 2022 ([RU 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
-[^44a-3]: Nuovo testo giusta il n. I del D del CS del 20 mar. 2015 (Modifica dell’elenco dei motivi di impedimento), in vigore dal 1° giu. 2015 ([RU 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 1889](https://fedlex.data.admin.ch/eli/fga/2015/425)).
-[^44a-4]: Introdotto dal n. I del D del CS del 20 mar. 2015 (Modifica dell’elenco dei motivi di impedimento), in vigore dal 1° giu. 2015 ([RU 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 1889](https://fedlex.data.admin.ch/eli/fga/2015/425)).
-[^44a-5]: Abrogato dal n. I del D del CS del 17 dic. 2021 (Elenco nominativo per ogni votazione), con effetto dal 28 feb. 2022 ([RU 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
+[^44a-1]: Introdotto dalla cifra. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^44a-2]: Nuovo testo giusta la cifra I del D del CS del 17 dic. 2021 (Elenco nominativo per ogni votazione), in vigore dal 28 feb. 2022 ([RU 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
+[^44a-3]: Nuovo testo giusta la cifra I della D del CS del 20 dic. 2024 (Procedura relativa alle dichiarazioni e congedo di paternità come motivo di impedimento), in vigore dal 3 mar. 2025 ([RU 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
+[^44a-4]: Introdotto dalla cifra I del D del CS del 20 mar. 2015 (Modifica dell’elenco dei motivi di impedimento), in vigore dal 1° giu. 2015 ([RU 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 1889](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Abrogato dalla cifra I del D del CS del 17 dic. 2021 (Elenco nominativo per ogni votazione), con effetto dal 28 feb. 2022 ([RU 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 
@@ -627,8 +631,8 @@ I voti e le astensioni sono conteggiati in ogni caso:
 - b. nelle votazioni finali;
 - c. nelle votazioni in cui è richiesto il consenso della maggioranza dei deputati conformemente all’articolo 159 capoverso 3 della Costituzione federale[^45-3].
 
-[^45-1]: Nuovo testo giusta il n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^45-2]: Nuovo testo giusta il n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^45-1]: Nuovo testo giusta la cifra I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^45-2]: Nuovo testo giusta la cifra I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 [^45-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
 #### Art. 46
@@ -645,7 +649,7 @@ I voti e le astensioni sono conteggiati in ogni caso:
 
 <sup>5</sup> Il risultato è pubblicato sotto forma di elenco nominativo; sono eccettuate le deliberazioni segrete.
 
-[^46-1]: Nuovo testo giusta il n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^46-1]: Nuovo testo giusta la cifra I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 ## Capitolo 4: Polizia della Camera
 

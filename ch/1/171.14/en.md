@@ -4,11 +4,11 @@ title: Standing Orders of the Council of States of 20 June 2003 (SO-CS)
 short: SO-CS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: en
-version: 2022-11-28
+version: 2025-03-03
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/en/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20250303/en/xml/fedlex-data-admin-ch-eli-cc-2003-515-20250303-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20250303/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-CS)
 
-of 20 June 2003 (Status as of 28 November 2022)
+of 20 June 2003 (Status as of 3 March 2025)
 
 The Council of States,
 
@@ -158,8 +158,8 @@ The following standing committees exist:
 
 <sup>2</sup> The standing committees have 13 members.[^7-2]
 
-[^7-1]: Repealed by No I of the Decree of 20 March 2008, with effect from 1 April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420)[1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
-[^7-2]: Amended by No I of the Decree of 20 March 2008, in force since 1 April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420)[1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-1]: Repealed by No I of the SD of 20 March 2008, with effect from 1 April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420)[1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-2]: Amended by No I of the SD of 20 March 2008, in force since 1 April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420)[1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
 
 #### Art. 8
 
@@ -187,7 +187,7 @@ The Legislature Planning Committee is constituted in the first session of the le
 
 <sup>2</sup> The committee shall issue the sub-committee with an assignment that specifies its task and sets a deadline for the submission of its reports.
 
-[^11-1]: Amended by No I of the Decree of 30 Sept. 2022 (Appointing Subcommittees), in force since 28 Nov. 2022 ([AS 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^11-1]: Amended by No I of the SD of 30 Sept. 2022 (Appointing Subcommittees), in force since 28 Nov. 2022 ([AS 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -276,7 +276,7 @@ Items of business under Article 71 ParlA is subject to preliminary examination b
 
 <sup>4</sup> ...[^17-1]
 
-[^17-1]: Repealed by No I of the Decree of 17 June 2011 (Council body responsible for application to lift immunity), with effect from 5 Dec. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-1]: Repealed by No I of the SD of 17 June 2011 (Council body responsible for application to lift immunity), with effect from 5 Dec. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -308,7 +308,7 @@ Items of business under Article 71 ParlA is subject to preliminary examination b
 
 [^20a-1]
 
-[^20a-1]: Inserted by No I of the CS Decree of 4 May 2020 (Sessions outside the Parliament Building), in force from 4 May 2020 until the CS sits in the Parliament Building again (7 Sept. 2020) ([AS 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [BBl 2020 4315](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^20a-1]: Inserted by No I of the CS SD of 4 May 2020 (Sessions outside the Parliament Building), in force from 4 May 2020 until the CS sits in the Parliament Building again (7 Sept. 2020) ([AS 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [BBl 2020 4315](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 ### Section 2 Business and Procedure
 
@@ -328,7 +328,7 @@ A member of the Council may submit a parliamentary initiative or a procedural re
 
 <sup>2</sup> The Council member must add a statement of reasons to a parliamentary initiative. motion or a postulate.[^22-1]
 
-[^22-1]: Amended by No I of the Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^22-1]: Amended by No I of the SD of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 23
 
@@ -356,7 +356,7 @@ The addressee of a procedural request shall respond to the request in writing by
 
 <sup>2</sup> The author may withdraw the initiative or request without approval of the co-signatories.
 
-[^25-1]: Inserted by No I of the CS Decree of 4 May 2020 (Sessions outside the Parliament Building), in force from 4 May 2020 until the CS sits in the Parliament Building again (7 Sept. 2020) ([AS 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [BBl 2020 4315](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^25-1]: Inserted by No I of the CS SD of 4 May 2020 (Sessions outside the Parliament Building), in force from 4 May 2020 until the CS sits in the Parliament Building again (7 Sept. 2020) ([AS 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [BBl 2020 4315](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 #### Art. 26
 
@@ -370,20 +370,24 @@ The addressee of a procedural request shall respond to the request in writing by
 
 <sup>4</sup> The Office may with the consent of its author convert an urgent interpellation into an urgent question.[^26-2]
 
-[^26-1]: Amended by No I of the Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^26-2]: Amended by No I of the Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-1]: Amended by No I of the SD of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-2]: Amended by No I of the SD of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### b. Statements
 
 #### Art. 27
 
-**Statement by the Council of States**
+**Statement by the Council of States**[^27-1]
 
-<sup>1</sup> At the request of a member of the Council or a committee, the Council may make a statement on important events or on foreign or domestic policy matters.
+<sup>1</sup> At the written request of a member of the Council or a committee, the Council may make a statement on important events or on foreign or domestic policy matters.
 
-<sup>2</sup> The Council may decide to hold a discussion on the draft of a statement. It may approve or reject the draft or refer it back to the committee.
+<sup>2</sup> Any member of the Council may submit requests for amendment in response to a request for a statement.
 
-<sup>3</sup> The draft of a statement shall be abandoned if it is not considered in the ongoing or subsequent session.
+<sup>3</sup> The Council shall first decide whether it wishes to hold a debate. If it decides not to hold a debate, the requests are regarded as having been dealt with. If it decides to hold a debate, it shall revise the requests in accordance with Articles 78 and 79 ParlA. The Council shall either accept or reject the revised draft of the statement.
+
+<sup>4</sup> If the Council decides to hold a debate, it may have the requests subjected to a preliminary examination by the committee responsible. If the committee does not submit its requests by the start of the next ordinary session, the Council shall decide either to hold a debate or abandon the requests.
+
+[^27-1]: Amended by No I of the SD of 20 Dec. 2024 (Procedure for Statements and Paternity Leave as Grounds for being Excused), in force since 3 March 2025 ([AS 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
 
 #### Art. 28
 
@@ -397,7 +401,7 @@ The addressee of a procedural request shall respond to the request in writing by
 
 [^chap3-sec2-lvlc-1]
 
-[^chap3-sec2-lvlc-1]: Inserted by No I of the Decree of 17 June 2011 (Council body responsible for application to lift immunity), in force since 5 Dec. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^chap3-sec2-lvlc-1]: Inserted by No I of the SD of 17 June 2011 (Council body responsible for application to lift immunity), in force since 5 Dec. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 28a
 
@@ -435,7 +439,7 @@ In the cases under Article 44 paragraph 2, the Clerk to the Council shall take t
 
 <sup>2</sup> The President shall approve the minutes.
 
-[^30-1]: Amended by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^30-1]: Amended by No I of the SD of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 #### Art. 31
 
@@ -527,7 +531,7 @@ Any member of the Council may make a brief personal statement; this may be used 
 
 <sup>3</sup> A proposed amendment shall be subject to a preliminary examination by the committee responsible if the Council so decides.
 
-[^38-1]: Inserted by No I of the CS Decree of 4 May 2020 (Sessions outside the Parliament Building), in force from 4 May 2020 until the CS sits in the Parliament Building again (7 Sept. 2020) ([AS 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [BBl 2020 4315](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^38-1]: Inserted by No I of the CS SD of 4 May 2020 (Sessions outside the Parliament Building), in force from 4 May 2020 until the CS sits in the Parliament Building again (7 Sept. 2020) ([AS 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [BBl 2020 4315](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 #### Art. 39
 
@@ -579,7 +583,7 @@ Before the vote, the President shall provide a brief summary of the proposed ame
 
 <sup>2</sup> If sittings are held in camera or if the electronic voting equipment is defective, voting is by show of hands or roll call.
 
-[^44-1]: Amended by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^44-1]: Amended by No I of the SD of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 #### Art. 44a
 
@@ -603,17 +607,17 @@ On the list of names, for each member it is indicated whether he or she:
 - d. does not participate in the vote; or
 - e. is excused.
 
-<sup>6</sup> A person is regarded as excused if he or she gives notice of being unable to attend an entire day's sitting at the latest by the start of the sitting due to an assignment from a permanent delegation in accordance with Article 60 ParlA or due to close family bereavement, maternity, accident or illness.[^44a-3]
+<sup>6</sup> A person is regarded as excused if he or she gives notice of being unable to attend an entire day's sitting at the latest by the start of the sitting due to an assignment from a permanent delegation in accordance with Article 60 ParlA or due to close family bereavement, maternity or paternity leave, accident or illness.[^44a-3]
 
 <sup>6bis</sup> A person is regarded as partially excused if he or she gives notice of being unable to attend part of a day's sitting at the latest by the start of the sitting due to an assignment from a parliamentary body.[^44a-4]
 
 <sup>7</sup> …[^44a-5]
 
-[^44a-1]: Inserted by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: Amended by No I of the Decree of 17 Dec. 2021 (List of Names for All Votes), in force since 28 Feb. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
-[^44a-3]: Amended by No I of the Decree of 20 March 2015 (Amendment of the Grounds for being excused), in force since 1 June 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
-[^44a-4]: Inserted by No I of the Decree of 20 March 2015 (Amendment of the Grounds for being excused), in force since 1 June 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
-[^44a-5]: Repealed by No I of the Decree of 17 Dec. 2021 (List of Names for All Votes), with effect from 28 Feb. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
+[^44a-1]: Inserted by No I of the SD of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^44a-2]: Amended by No I of the SD of 17 Dec. 2021 (List of Names for All Votes), in force since 28 Feb. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
+[^44a-3]: Amended by No I of the SD of 20 Dec. 2024 (Procedure for Statements and Paternity Leave as Grounds for being Excused), in force since 3 March 2025 ([AS 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
+[^44a-4]: Inserted by No I of the SD of 20 March 2015 (Amendment of the Grounds for being excused), in force since 1 June 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Repealed by No I of the SD of 17 Dec. 2021 (List of Names for All Votes), with effect from 28 Feb. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 
@@ -629,8 +633,8 @@ The number of votes cast and the number of abstentions must be counted in every 
 - b. final votes;
 - c. votes that require the approval of a majority of the members of the Council in accordance with Article 159 paragraph 3 of the Federal Constitution[^45-3] in order to be accepted.
 
-[^45-1]: Amended by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^45-2]: Amended by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^45-1]: Amended by No I of the SD of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^45-2]: Amended by No I of the SD of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 [^45-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
 #### Art. 46
@@ -647,7 +651,7 @@ The number of votes cast and the number of abstentions must be counted in every 
 
 <sup>5</sup> The result is published in the form of a list of names, other than in the case of sittings held in camera.
 
-[^46-1]: Amended by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^46-1]: Amended by No I of the SD of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 ## Chapter 4 House Rules
 

@@ -4,11 +4,11 @@ title: Règlement du Conseil des États du 20 juin 2003 (RCE)
 short: RCE
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: fr
-version: 2022-11-28
+version: 2025-03-03
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/fr/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20250303/fr/xml/fedlex-data-admin-ch-eli-cc-2003-515-20250303-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20250303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/fr"
 
 (RCE)
 
-du 20 juin 2003 (État le 28 novembre 2022)
+du 20 juin 2003 (État le 3 mars 2025)
 
 Le Conseil des États,
 
@@ -156,8 +156,8 @@ Le conseil compte les commissions permanentes suivantes:
 
 <sup>2</sup> Chaque commission permanente est composée de treize membres.[^7-2]
 
-[^7-1]: Abrogé par le ch. I de l’A du CE du 20 mars 2008, avec effet au 1<sup>er</sup> avril 2008 ([RO 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1681](https://fedlex.data.admin.ch/eli/fga/2008/421)[1679](https://fedlex.data.admin.ch/eli/fga/2008/420)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’A du CE du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> avril 2008 ([RO 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1681](https://fedlex.data.admin.ch/eli/fga/2008/421)[1679](https://fedlex.data.admin.ch/eli/fga/2008/420)).
+[^7-1]: Abrogé par le ch. I de la D du CE du 20 mars 2008, avec effet au 1<sup>er</sup> avril 2008 ([RO 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1681](https://fedlex.data.admin.ch/eli/fga/2008/421)[1679](https://fedlex.data.admin.ch/eli/fga/2008/420)).
+[^7-2]: Nouvelle teneur selon le ch. I de la D du CE du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> avril 2008 ([RO 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [FF 2008 1681](https://fedlex.data.admin.ch/eli/fga/2008/421)[1679](https://fedlex.data.admin.ch/eli/fga/2008/420)).
 
 #### Art. 8
 
@@ -274,7 +274,7 @@ Les commissions compétentes procèdent à l’examen préalable des objets soum
 
 <sup>4</sup> …[^17-1]
 
-[^17-1]: Abrogé par le ch. I de l’A du CE du 17 juin 2011 (Organe du conseil compétent en matière d’examen des requêtes visant à lever l’immunité), avec effet au 5 déc. 2011 ([RO 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-1]: Abrogé par le ch. I de la D du CE du 17 juin 2011 (Organe du conseil compétent en matière d’examen des requêtes visant à lever l’immunité), avec effet au 5 déc. 2011 ([RO 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -306,7 +306,7 @@ Les commissions compétentes procèdent à l’examen préalable des objets soum
 
 [^20a-1]
 
-[^20a-1]: Introduit par le ch. I de l’A du CE du 4 mai 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement), en vigueur depuis le 4 mai 2020 jusqu’à ce que le CE siège de nouveau au Palais du Parlement (7 sept. 2020) ([RO 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 4209](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^20a-1]: Introduit par le ch. I de la D du CE du 4 mai 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement), en vigueur depuis le 4 mai 2020 jusqu’à ce que le CE siège de nouveau au Palais du Parlement (7 sept. 2020) ([RO 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 4209](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 ### Section 2 Objets soumis à délibération et examen
 
@@ -326,7 +326,7 @@ Tout député peut déposer par écrit une initiative parlementaire ou une inter
 
 <sup>2</sup> Tout député qui dépose une initiative parlementaire, une motion ou un postulat doit y adjoindre un développement séparé.[^22-1]
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’A du CE du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^22-1]: Nouvelle teneur selon le ch. I de la D du CE du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 23
 
@@ -354,7 +354,7 @@ Le destinataire d’une intervention y répond par écrit avant le début de la 
 
 <sup>2</sup> L’auteur d’une initiative ou d’une intervention peut la retirer sans le consentement des cosignataires.
 
-[^25-1]: Introduit par le ch. I de l’A du CE du 4 mai 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement), en vigueur depuis le 4 mai 2020 jusqu’à ce que le CE siège de nouveau au Palais du Parlement (7 sept. 2020) ([RO 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 4209](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^25-1]: Introduit par le ch. I de la D du CE du 4 mai 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement), en vigueur depuis le 4 mai 2020 jusqu’à ce que le CE siège de nouveau au Palais du Parlement (7 sept. 2020) ([RO 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 4209](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 #### Art. 26
 
@@ -368,20 +368,24 @@ Le destinataire d’une intervention y répond par écrit avant le début de la 
 
 <sup>4</sup> Avec l’accord de son auteur, le bureau peut transformer une interpellation urgente en une question urgente.[^26-2]
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’A du CE du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^26-2]: Nouvelle teneur selon le ch. I de l’A du CE du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-1]: Nouvelle teneur selon le ch. I de la D du CE du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-2]: Nouvelle teneur selon le ch. I de la D du CE du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### b. Déclarations
 
 #### Art. 27
 
-**Déclarations du Conseil des États**
+**Déclarations du Conseil des États**[^27-1]
 
 <sup>1</sup> Sur proposition écrite d’un député ou d’une commission, le conseil peut faire une déclaration sur un événement ou un problème important de politique extérieure ou intérieure.
 
-<sup>2</sup> Le conseil peut décider de débattre d’un projet de déclaration. Il peut adopter celui-ci, le rejeter ou le renvoyer à la commission.
+<sup>2</sup> Tout député peut déposer des propositions visant à amender une proposition de déclaration.
 
-<sup>3</sup> Un projet de déclaration est classé d’office s’il n’a pas été examiné pendant la session en cours ou la session suivante.
+<sup>3</sup> Le conseil décide d’abord s’il souhaite procéder à un examen. S’il rejette l’examen, les propositions sont liquidées. S’il décide de procéder à un examen, les propositions sont mises aux voix conformément aux art. 78 et 79 LParl. Le conseil adopte ou rejette le projet de déclaration mis au net.
+
+<sup>4</sup> Si le conseil décide de délibérer, il peut demander à la commission compétente de procéder à l’examen préalable des propositions. Si la commission ne présente pas ses propositions avant le début de la session ordinaire suivante, le conseil décide de procéder à l’examen des propositions ou de les classer.
+
+[^27-1]: Nouvelle teneur selon le ch. I de la D du CE du 20 déc. 2024 (Procédure en matière de déclarations et congé de paternité comme motif d’excuse), en vigueur depuis le 3 mars 2025 ([RO 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
 
 #### Art. 28
 
@@ -395,7 +399,7 @@ Le destinataire d’une intervention y répond par écrit avant le début de la 
 
 [^chap3-sec2-lvlc-1]
 
-[^chap3-sec2-lvlc-1]: Introduite par le ch. I de l’A du CE du 17 juin 2011 (Organe du conseil compétent en matière d’examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^chap3-sec2-lvlc-1]: Introduite par le ch. I de la D du CE du 17 juin 2011 (Organe du conseil compétent en matière d’examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 28a
 
@@ -525,7 +529,7 @@ Tout député peut faire une brève déclaration personnelle, afin de répondre 
 
 <sup>3</sup> Une proposition est soumise à l’examen préalable de la commission si le conseil en décide ainsi.
 
-[^38-1]: Introduit par le ch. I de l’A du CE du 4 mai 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement), en vigueur depuis le 4 mai 2020 jusqu’à ce que le CE siège de nouveau au Palais du Parlement (7 sept. 2020) ([RO 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 4209](https://fedlex.data.admin.ch/eli/fga/2020/927)).
+[^38-1]: Introduit par le ch. I de la D du CE du 4 mai 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement), en vigueur depuis le 4 mai 2020 jusqu’à ce que le CE siège de nouveau au Palais du Parlement (7 sept. 2020) ([RO 2020 1605](https://fedlex.data.admin.ch/eli/oc/2020/328); [FF 2020 4209](https://fedlex.data.admin.ch/eli/fga/2020/927)).
 
 #### Art. 39
 
@@ -581,7 +585,7 @@ Avant le vote, le président présente un bref aperçu des propositions déposé
 <sup>2</sup> Lorsque les délibérations ont lieu à huis clos ou que le système électronique tombe en panne, le vote a lieu à main levée ou par appel nominal.
 
 [^44-1]: Nouvelle teneur selon le ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44-2]: Nouvelle teneur selon le ch. II de l’A du CE du 2 juin 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement [II]), en vigueur depuis le 2 juin 2020 ([RO 2020 2119](https://fedlex.data.admin.ch/eli/oc/2020/417); [FF 2020 4641](https://fedlex.data.admin.ch/eli/fga/2020/1117)).
+[^44-2]: Nouvelle teneur selon le ch. II de la D du CE du 2 juin 2020 (Délibérations ayant lieu ailleurs que dans le Palais du Parlement [II]), en vigueur depuis le 2 juin 2020 ([RO 2020 2119](https://fedlex.data.admin.ch/eli/oc/2020/417); [FF 2020 4641](https://fedlex.data.admin.ch/eli/fga/2020/1117)).
 
 #### Art. 44a
 
@@ -605,7 +609,7 @@ Pour chacun des députés, une des mentions suivantes figure sur la liste nomina
 - d. n’a pas participé au vote;
 - e. excusé.
 
-<sup>6</sup> Le député qui, avant le début de la séance, a annoncé son absence pour une journée entière en raison d’un mandat qui lui a été confié par une délégation permanente au sens de l’art. 60 LParl ou pour cause de décès d’un parent proche, de maternité, d’accident ou de maladie est considéré comme excusé.[^44a-3]
+<sup>6</sup> Le député qui, avant le début de la séance, a annoncé son absence pour une journée entière en raison d’un mandat qui lui a été confié par une délégation permanente au sens de l’art. 60 LParl ou pour cause de décès d’un parent proche, de maternité, de paternité, d’accident ou de maladie est considéré comme excusé.[^44a-3]
 
 <sup>6bis</sup> Le député qui, avant le début de la séance, a annoncé son absence pour une partie de la journée en raison d’un mandat qui lui a été confié par un organe parlementaire est considéré comme excusé pour cette partie de la journée.[^44a-4]
 
@@ -613,7 +617,7 @@ Pour chacun des députés, une des mentions suivantes figure sur la liste nomina
 
 [^44a-1]: Introduit par le ch. ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 [^44a-2]: Nouvelle teneur selon le ch. I de la D du CE du 17 déc. 2021 (Liste nominative pour chaque vote), en vigueur depuis le 28 fév. 2022 ([RO 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
-[^44a-3]: Nouvelle teneur selon le ch. I de la D du CE du 20 mars 2015 (Modification de la liste des motifs d’empêchement), en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 2073](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-3]: Nouvelle teneur selon le ch. I de la D du CE du 20 déc. 2024 (Procédure en matière de déclarations et congé de paternité comme motif d’excuse), en vigueur depuis le 3 mars 2025 ([RO 2024 794](https://fedlex.data.admin.ch/eli/oc/2024/794)).
 [^44a-4]: Introduit par le ch. I de la D du CE du 20 mars 2015 (Modification de la liste des motifs d’empêchement), en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 2073](https://fedlex.data.admin.ch/eli/fga/2015/425)).
 [^44a-5]: Abrogé par le ch. I de la D du CE du 17 déc. 2021 (Liste nominative pour chaque vote), avec effet au 28 fév. 2022 ([RO 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
@@ -649,7 +653,7 @@ Les voix et les abstentions sont toujours comptées:
 
 <sup>5</sup> Le résultat du vote est publié sous la forme d’une liste nominative, sauf en cas de délibération à huis clos.
 
-[^46-1]: Nouvelle teneur selon le ch. I de l’A du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
+[^46-1]: Nouvelle teneur selon le ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 
 ## Chapitre 4 Droit de disposer des locaux
 
