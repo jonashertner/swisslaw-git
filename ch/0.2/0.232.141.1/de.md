@@ -4,11 +4,11 @@ title: Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem
 short: PCT
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/900_900_900"
 language: de
-version: 2022-08-23
+version: 2025-03-03
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20220823/de/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20220823-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20220823/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20250303/de/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20250303-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20250303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -23,7 +23,7 @@ Amtlicher deutscher Text[^t-1]
 
 Abgeschlossen in Washington am 19. Juni 1970 Von der Bundesversammlung genehmigt am 29. November 1976[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 14. September 1977 In Kraft getreten für die Schweiz am 24. Januar 1978
 
-(Stand am 23. August 2022)
+(Stand am 3. März 2025)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 67 Abs. 1 Bst. b des Vertrages. Der nachstehende Wortlaut des Vertrages weicht in verschiedenen Punkten geringfügig ab von der mit der Botschaft veröffentlichten Fassung (BBl **1976** I 137–275), die noch nicht amtlich bereinigt war. Wie die parlamentarische Redaktionskommission festgestellt hat, sind die Unterschiede rein redaktioneller Natur.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 29. Nov. 1976 ([AS 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
@@ -1148,7 +1148,7 @@ Der Generaldirektor notifiziert den Regierungen aller Mitgliedstaaten der Parise
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diesen Vertrag unterschrieben. Geschehen in Washington am neunzehnten Juni tausendneunhundertsiebzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. August 2022[^t-3]
+Geltungsbereich am 3. März 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1242,6 +1242,7 @@ Geltungsbereich am 23. August 2022[^t-3]
 <tr><td>Malta\*</td><td>1. Dezember</td><td>2006 B</td><td>1. März</td><td>2007</td></tr>
 <tr><td>Marokko</td><td>8. Juli</td><td>1999 B</td><td>8. Oktober</td><td>1999</td></tr>
 <tr><td>Mauretanien</td><td>13. Januar</td><td>1983 B</td><td>13. April</td><td>1983</td></tr>
+<tr><td>Mauritius</td><td>15. Dezember</td><td>2022 B</td><td>15. März</td><td>2023</td></tr>
 <tr><td>Mexiko</td><td>1. Oktober</td><td>1994 B</td><td>1. Januar</td><td>1995</td></tr>
 <tr><td>Moldau\*</td><td>14. Februar</td><td>1994 N</td><td>25. Dezember</td><td>1991</td></tr>
 <tr><td>Monaco</td><td>22. März</td><td>1979</td><td>22. Juni</td><td>1979</td></tr>
@@ -1307,6 +1308,7 @@ Geltungsbereich am 23. August 2022[^t-3]
 <tr><td>Uganda</td><td>9. November</td><td>1994 B</td><td>9. Februar</td><td>1995</td></tr>
 <tr><td>Ukraine\*</td><td>21. September</td><td>1992 N</td><td>25. Dezember</td><td>1991</td></tr>
 <tr><td>Ungarn\*</td><td>27. März</td><td>1980</td><td>27. Juni</td><td>1980</td></tr>
+<tr><td>Uruguay\*</td><td>7. Oktober</td><td>2024 B</td><td>7. Januar</td><td>2025</td></tr>
 <tr><td>Usbekistan\*</td><td>18. August</td><td>1993 N</td><td>25. Dezember</td><td>1991</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>10. Dezember</td><td>1998 B</td><td>10. März</td><td>1999</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>26. November</td><td>1975</td><td>24. Januar</td><td>1978</td></tr>
@@ -1317,7 +1319,7 @@ Geltungsbereich am 23. August 2022[^t-3]
 <tr><td>Vietnam</td><td>10. Dezember</td><td>1992 B</td><td>10. März</td><td>1993</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>15. September</td><td>1971 B</td><td>24. Januar</td><td>1978</td></tr>
 <tr><td>Zypern</td><td>1. Januar</td><td>1998 B</td><td>1. April</td><td>1998</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertrag gilt nicht für Macau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/registration/pct/](https://www.wipo.int/treaties/fr/registration/pct/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertrag gilt nicht für Macau.</td></tr>
 </table>
 
-[^t-3]: [AS 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); **1979** 160, 1124; **1981** 79, 1755; [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); [1979 159](https://fedlex.data.admin.ch/eli/oc/1979/159_158_159), [1117](https://fedlex.data.admin.ch/eli/oc/1979/1117_1117_1117); [1981 62](https://fedlex.data.admin.ch/eli/oc/1981/62_62_62), [1753](https://fedlex.data.admin.ch/eli/oc/1981/1753_1753_1753); [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464); [2025 148](https://fedlex.data.admin.ch/eli/oc/2025/148). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

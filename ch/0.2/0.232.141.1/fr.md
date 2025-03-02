@@ -4,11 +4,11 @@ title: Traité de coopération du 19 juin 1970 en matière de brevets (PCT)
 short: PCT
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/900_900_900"
 language: fr
-version: 2022-08-23
+version: 2025-03-03
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20220823/fr/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20220823-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20220823/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20250303/fr/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20250303-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20250303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 14 septembre 1977
 
 Entré en vigueur pour la Suisse le 24 janvier 1978
 
-(État le 23 août 2022)
+(État le 3 mars 2025)
 
 [^t-1]: Art. 1 ch. 2 de l’AF du 29 nov. 1976 ([RO 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 
@@ -1163,7 +1163,7 @@ Le Directeur général notifie aux gouvernements de tous les États parties à l
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent traité. Fait à Washington le dix‑neuf juin mil neuf cent soixante‑dix. (Suivent les signatures)
 
-Champ d’application le 23 août 2022[^t-2]
+Champ d’application le 3 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1263,6 +1263,7 @@ Champ d’application le 23 août 2022[^t-2]
 <tr><td>Mali</td><td>19 juillet</td><td>1984 A</td><td>19 octobre</td><td>1984</td></tr>
 <tr><td>Malte\*</td><td>1<sup>er</sup> décembre</td><td>2006 A</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
 <tr><td>Maroc</td><td>8 juillet</td><td>1999 A</td><td>8 octobre</td><td>1999</td></tr>
+<tr><td>Maurice</td><td>15 décembre</td><td>2022 A</td><td>15 mars</td><td>2023</td></tr>
 <tr><td>Mauritanie</td><td>13 janvier</td><td>1983 A</td><td>13 avril</td><td>1983</td></tr>
 <tr><td>Mexique</td><td>1<sup>er</sup> octobre</td><td>1994 A</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
 <tr><td>Moldova\*</td><td>14 février</td><td>1994 S</td><td>25 décembre</td><td>1991</td></tr>
@@ -1329,10 +1330,11 @@ Champ d’application le 23 août 2022[^t-2]
 <tr><td>Turkménistan\*</td><td>1<sup>er</sup> mars</td><td>1995 S</td><td>25 décembre</td><td>1991</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> octobre</td><td>1995 A</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
 <tr><td>Ukraine\*</td><td>21 septembre</td><td>1992 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Uruguay\*</td><td>7 octobre</td><td>2024 A</td><td>7 janvier</td><td>2025</td></tr>
 <tr><td>Vietnam</td><td>10 décembre</td><td>1992 A</td><td>10 mars</td><td>1993</td></tr>
 <tr><td>Zambie</td><td>15 août</td><td>2001 A</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Zimbabwe</td><td>11 mars</td><td>1997 A</td><td>11 juin</td><td>1997</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle(OMPI): www.wipo.int/treaties/fr/registration/pct/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le traité ne s’applique pas à Macao.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle(OMPI): [www.wipo.int/treaties/fr/registration/pct/](https://www.wipo.int/treaties/fr/registration/pct/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le traité ne s’applique pas à Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); **1979** 159, 1124; **1981** 78, 1755; [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); 1991 966; [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-2]: La présente publication complète celles qui figurent au [RO 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); [1979 158](https://fedlex.data.admin.ch/eli/oc/1979/159_158_159), [1117](https://fedlex.data.admin.ch/eli/oc/1979/1117_1117_1117); [1981 62](https://fedlex.data.admin.ch/eli/oc/1981/62_62_62), [1753](https://fedlex.data.admin.ch/eli/oc/1981/1753_1753_1753); [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464); [2025 148](https://fedlex.data.admin.ch/eli/oc/2025/148). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

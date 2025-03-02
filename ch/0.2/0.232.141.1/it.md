@@ -4,11 +4,11 @@ title: Trattato di cooperazione del 19 giugno 1970 in materia di brevetti (PCT)
 short: PCT
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/900_900_900"
 language: it
-version: 2022-08-23
+version: 2025-03-03
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20220823/it/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20220823-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20220823/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20250303/it/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20250303-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20250303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -23,7 +23,7 @@ Testo ufficiale italiano
 
 Conchiuso a Washington il 19 giugno 1970 Approvato dall’Assemblea federale il 29 novembre 1976[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 14 settembre 1977 Entrato in vigore per la Svizzera il 24 gennaio 1978
 
-(Stato 23 agosto 2022)
+(Stato 3 marzo 2025)
 
 [^t-1]: Art. 1 n. 2 del DF del 29 nov. 1976 ([RU 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709)).
 
@@ -53,7 +53,7 @@ Hanno concluso il seguente trattato:
 
 \2) Nessuna disposizione del presente trattato potrà essere interpretata come limitazione dei diritti previsti dalla Convenzione di Parigi per la protezione della proprietà industriale[^1-1] a favore dei cittadini dei paesi membri di questa convenzione o delle persone domiciliate in questi paesi.
 
-[^1-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^1-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 2
 
@@ -163,7 +163,7 @@ La o le rivendicazioni devono definire l’oggetto per il quale si domanda la pr
 - b) La domanda internazionale che rivendica la priorità di una o più domande anteriori depositate in o per uno Stato contraente, può designare questo Stato. Se la domanda internazionale rivendica la priorità di una o più domande nazionali depositate in o per uno Stato designato o la priorità di una domanda internazionale che aveva designato un solo Stato, le condizioni e gli effetti prodotti dalla rivendicazione di priorità in questo Stato sono quelli previsti dalla legislazione nazionale di quest’ultimo.
 
 [^8-1]: [RS 0.232.141.11](https://fedlex.data.admin.ch/eli/cc/1978/942_941_941)
-[^8-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^8-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 [^8-3]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 9
@@ -176,7 +176,7 @@ La o le rivendicazioni devono definire l’oggetto per il quale si domanda la pr
 
 \3) Le nozioni di domicilio e di nazionalità, nonché l’applicazione di queste nozioni nei casi in cui vi siano più depositanti o i depositanti non siano i medesimi per tutti gli Stati designati, sono definite nel regolamento d’esecuzione[^9-2].
 
-[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 [^9-2]: [RS 0.232.141.11](https://fedlex.data.admin.ch/eli/cc/1978/942_941_941)
 
 #### Art. 10
@@ -380,7 +380,7 @@ La domanda internazionale deve essere depositata presso l’ufficio ricevente pr
 
 \3) La legislazione di ogni Stato contraente può stabilire, per l’adempimento degli atti menzionati nei paragrafi 1) e 2), termini che scadono dopo quelli indicati in detti paragrafi.
 
-[^22-1]: Nuovo testo giusta il n. I della mod. del 3 ott. 2001, in vigore dal 1° apr. 2002 ([RU 2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228)).
+[^22-1]: Nuovo testo giusta la cifra I della mod. del 3 ott. 2001, in vigore dal 1° apr. 2002 ([RU 2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228)).
 [^22-2]: Nuovo testo giusta la mod. entrata in vigore il 1° gen. 1985 ([RU 1984 1538](https://fedlex.data.admin.ch/eli/oc/1984/1538_1538_1538)).
 
 #### Art. 23
@@ -552,7 +552,7 @@ Nessun ufficio designato può respingere una domanda internazionale per il motiv
 \6) L’esame preliminare internazionale deve tener conto di tutti i documenti citati nel rapporto di ricerca internazionale. Esso può prendere in considerazione qualsiasi altro documento considerato pertinente nella fattispecie.
 
 [^33-1]: [RS 0.232.141.11](https://fedlex.data.admin.ch/eli/cc/1978/942_941_941)
-[^33-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^33-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 34
 
@@ -1099,7 +1099,7 @@ L’Ufficio internazionale sarà informato dallo Stato contraente attore del def
 - b) Ogni dichiarazione fatta secondo il presente articolo può essere ritirata in qualunque momento mediante notificazione al Direttore generale. Il ritiro diviene effettivo tre mesi dopo la data di ricevimento della notificazione da parte del Direttore generale e, allorché si tratti del ritiro d’una dichiarazione secondo il paragrafo 3), non ha effetto per le domande internazionali depositate prima della scadenza di questo periodo di tre mesi.
 
 [^64-1]: [RS 0.232.141.11](https://fedlex.data.admin.ch/eli/cc/1978/942_941_941)
-[^64-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^64-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 65
 
@@ -1141,7 +1141,7 @@ L’Ufficio internazionale sarà informato dallo Stato contraente attore del def
 \4) Il Direttore generale certifica e trasmette due copie di ogni modificazione del presente trattato e del regolamento d’esecuzione ai governi di tutti gli Stati contraenti e al governo di qualsiasi altro Stato che ne faccia domanda.
 
 [^68-1]: [RS 0.232.141.11](https://fedlex.data.admin.ch/eli/cc/1978/942_941_941)
-[^68-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^68-2]: RS **00.232.01**,[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 69
 
@@ -1157,11 +1157,11 @@ Il Direttore generale notifica ai governi di tutti gli Stati facenti parte della
 - vi) le denunce ricevute in applicazione dell’articolo 66;
 - vii) le dichiarazioni fatte in forza dell’articolo 31.4).
 
-[^69-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^69-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato il presente trattato. Fatto a Washington il diciannove giugno millenovecentosettanta. (Seguono le firme)
 
-Campo d’applicazione il 23 agosto 2022[^t-2]
+Campo d’applicazione il 3 marzo 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1202,7 +1202,7 @@ Campo d’applicazione il 23 agosto 2022[^t-2]
 <tr><td>Corea (Nord)</td><td>8 aprile</td><td>1980 A</td><td>8 luglio</td><td>1980</td></tr>
 <tr><td>Corea (Sud)</td><td>10 maggio</td><td>1984 A</td><td>10 agosto</td><td>1984</td></tr>
 <tr><td>Costa Rica</td><td>3 maggio</td><td>1999 A</td><td>3 agosto</td><td>1999</td></tr>
-<tr><td>Côte d'Ivoire</td><td>31 gennaio</td><td>1991</td><td>30 aprile</td><td>1991</td></tr>
+<tr><td>Côte d’Ivoire</td><td>31 gennaio</td><td>1991</td><td>30 aprile</td><td>1991</td></tr>
 <tr><td>Croazia</td><td>1° aprile</td><td>1998 A</td><td>1° luglio</td><td>1998</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>16 aprile</td><td>1996 A</td><td>16 luglio</td><td>1996</td></tr>
 <tr><td>Danimarca</td><td>1° settembre</td><td>1978</td><td>1° dicembre</td><td>1978</td></tr>
@@ -1262,6 +1262,7 @@ Campo d’applicazione il 23 agosto 2022[^t-2]
 <tr><td>Malta<sup>\*</sup></td><td>1° dicembre</td><td>2006 A</td><td>1° marzo</td><td>2007</td></tr>
 <tr><td>Marocco</td><td>8 luglio</td><td>1999 A</td><td>8 ottobre</td><td>1999</td></tr>
 <tr><td>Mauritania</td><td>13 gennaio</td><td>1983 A</td><td>13 aprile</td><td>1983</td></tr>
+<tr><td>Maurizio</td><td>15 dicembre</td><td>2022 A</td><td>15 marzo</td><td>2023</td></tr>
 <tr><td>Messico</td><td>1° ottobre</td><td>1994 A</td><td>1° gennaio</td><td>1995</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>14 febbraio</td><td>1994 S</td><td>25 dicembre</td><td>1991</td></tr>
 <tr><td>Monaco</td><td>22 marzo</td><td>1979</td><td>22 giugno</td><td>1979</td></tr>
@@ -1311,7 +1312,6 @@ Campo d’applicazione il 23 agosto 2022[^t-2]
 <tr><td>Spagna</td><td>16 agosto</td><td>1989 A</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>Sri Lanka</td><td>26 novembre</td><td>1981 A</td><td>26 febbraio</td><td>1982</td></tr>
 <tr><td>Stati Uniti<sup>\*</sup></td><td>26 novembre</td><td>1975</td><td>24 gennaio</td><td>1978</td></tr>
-<tr><td>Tutti i territori di cui gli Stati Uniti garantiscono le relazioni internazionali</td><td>26 novembre</td><td>1975</td><td>24 gennaio</td><td>1978</td></tr>
 <tr><td>Sudafrica<sup>\*</sup></td><td>16 dicembre</td><td>1998 A</td><td>16 marzo</td><td>1999</td></tr>
 <tr><td>Sudan</td><td>16 gennaio</td><td>1984 A</td><td>16 aprile</td><td>1984</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>17 febbraio</td><td>1978</td><td>17 maggio</td><td>1978</td></tr>
@@ -1327,11 +1327,12 @@ Campo d’applicazione il 23 agosto 2022[^t-2]
 <tr><td>Ucraina<sup>\*</sup></td><td>21 settembre</td><td>1992 S</td><td>25 dicembre</td><td>1991</td></tr>
 <tr><td>Uganda</td><td>9 novembre</td><td>1994 A</td><td>9 febbraio</td><td>1995</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>27 marzo</td><td>1980</td><td>27 giugno</td><td>1980</td></tr>
+<tr><td>Uruguay\*</td><td>7 ottobre</td><td>2024 A</td><td>7 gennaio</td><td>2025</td></tr>
 <tr><td>Uzbekistan<sup>\*</sup></td><td>18 agosto</td><td>1993 S</td><td>25 dicembre</td><td>1991</td></tr>
 <tr><td>Vietnam</td><td>10 dicembre</td><td>1992 A</td><td>10 marzo</td><td>1993</td></tr>
 <tr><td>Zambia</td><td>15 agosto</td><td>2001 A</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Zimbabwe</td><td>11 marzo</td><td>1997 A</td><td>11 giugno</td><td>1997</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int/treaties/fr/registration/pct/](https://www.wipo.int/treaties/fr/registration/pct/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Il trattato non s’applica al Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/treaties/fr/registration/pct/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il trattato non s’applica al Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); [1979 159](https://fedlex.data.admin.ch/eli/oc/1979/159_158_159); 1124; **1981** 78, 1755; [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-2]: [RU 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); [1979 159](https://fedlex.data.admin.ch/eli/oc/1979/159_158_159), [1117](https://fedlex.data.admin.ch/eli/oc/1979/1117_1117_1117); [1981 62](https://fedlex.data.admin.ch/eli/oc/1981/62_62_62), [1753](https://fedlex.data.admin.ch/eli/oc/1981/1753_1753_1753); [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464); [2025 148](https://fedlex.data.admin.ch/eli/oc/2025/148). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
