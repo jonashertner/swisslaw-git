@@ -3,11 +3,11 @@ sr: "0.231.175"
 title: "Traité de Marrakech du 27 juin 2013 visant à faciliter l'accès des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés aux uvres publiées (avec décl. communes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/186"
 language: fr
-version: 2023-12-28
+version: 2025-03-04
 adopted: 2013-06-27
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20231228/fr/xml/fedlex-data-admin-ch-eli-cc-2020-186-20231228-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20231228/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20250304/fr/xml/fedlex-data-admin-ch-eli-cc-2020-186-20250304-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20250304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2020** 1041; FF **2018** 559
 
 Texte original
 
-Conclu à Marrakech le 27 juin 2013
+Conclu à Marrakech le 27 juin 2013 Approuvé par l’Assemblée fédérale le 21 juin 2019[^t-1] Instrument de ratification déposé par la Suisse le 11 février 2020 Entré en vigueur pour la Suisse le 11 mai 2020
 
-Approuvé par l’Assemblée fédérale le 21 juin 2019[^t-1]
-
-Instrument de ratification déposé par la Suisse le 11 février 2020
-
-Entré en vigueur pour la Suisse le 11 mai 2020
-
-(État le 28 décembre 2023)
+(État le 4 mars 2025)
 
 [^t-1]: Art. 1, al. 1 de l’AF du 21 juin 2019 ([RO 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182)).
 
@@ -296,7 +290,7 @@ Fait à Marrakech, le 27 juin 2013
 
 (Suivent les signatures)
 
-Déclarations communes
+## Déclarations communes
 
 Déclaration commune concernant l’art. 2.a)
 
@@ -332,7 +326,7 @@ Il est entendu qu’aucune disposition du présent Traité n’emporte obligatio
 
 Déclaration commune concernant l’art. 5.4.b)
 
-Il est entendu qu’aucune disposition du présent Traité n’emporte obligation pour une Partie contractante de ratifier le WCT[^t-2] ou d’adhérer à ce traité ou de se conformer à ses dispositions et que les dispositions du présent Traité sont sans préjudice des droits, exceptions et limitations énoncés dans le WCT.
+Il est entendu qu’aucune disposition du présent Traité n’emporte obligation pour une Partie contractante de ratifier le WCT[^lvlu23-1] ou d’adhérer à ce traité ou de se conformer à ses dispositions et que les dispositions du présent Traité sont sans préjudice des droits, exceptions et limitations énoncés dans le WCT.
 
 Déclaration commune concernant l’art. 6
 
@@ -350,9 +344,9 @@ Déclaration commune concernant l’art. 10.2)
 
 Il est entendu que lorsqu’une œuvre constitue une œuvre au sens de l’art. 2.a) du présent Traité, y compris les œuvres sous forme audio, les limitations et exceptions prévues dans le présent Traité s’appliquent *mutatis mutandis* aux droits connexes dans la mesure nécessaire pour réaliser l’exemplaire en format accessible, le distribuer et le mettre à la disposition des personnes bénéficiaires.
 
-[^t-2]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^lvlu23-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Champ d’application le 28 décembre 2023[^t-3]
+Champ d’application le 4 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -367,9 +361,9 @@ Champ d’application le 28 décembre 2023[^t-3]
 <tr><td>Bélarus</td><td>22 juillet</td><td>2020</td><td>22 octobre</td><td>2020</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 février</td><td>2019</td></tr>
 <tr><td>Bolivie</td><td>12 mars</td><td>2019 A</td><td>12 juin</td><td>2019</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>20 janvier</td><td>2021</td><td>20 avril</td><td>2021</td></tr>
 <tr><td>Botswana</td><td>5 octobre</td><td>2016 A</td><td>5 janvier</td><td>2017</td></tr>
 <tr><td>Brésil</td><td>11 décembre</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
-<tr><td>Bosnie et Herzégovine</td><td>20 janvier</td><td>2021</td><td>20 avril</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>31 juillet</td><td>2017</td><td>31 octobre</td><td>2017</td></tr>
 <tr><td>Cameroun</td><td>5 octobre</td><td>2021</td><td>5 janvier</td><td>2022</td></tr>
 <tr><td>Canada\*</td><td>30 juin</td><td>2016 A</td><td>30 septembre</td><td>2016</td></tr>
@@ -387,15 +381,17 @@ Champ d’application le 28 décembre 2023[^t-3]
 <tr><td>Équateur</td><td>29 juin</td><td>2016</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>États-Unis</td><td>8 février</td><td>2019</td><td>8 mai</td><td>2019</td></tr>
 <tr><td>Éthiopie</td><td>2 novembre</td><td>2020</td><td>2 février</td><td>2021</td></tr>
+<tr><td>Géorgie\*</td><td>26 novembre</td><td>2024 A</td><td>26 février</td><td>2025</td></tr>
 <tr><td>Ghana</td><td>11 mai</td><td>2018</td><td>11 août</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>29 juin</td><td>2016</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Honduras</td><td>29 mars</td><td>2017 A</td><td>29 juin</td><td>2017</td></tr>
-<tr><td>Îles Cook</td><td>19 mars</td><td>2019 A</td><td>19 juin</td><td>2019</td></tr>
 <tr><td>Îles Marshall</td><td>8 février</td><td>2019 A</td><td>8 mai</td><td>2019</td></tr>
 <tr><td>Inde</td><td>24 juin</td><td>2014</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Indonésie</td><td>28 janvier</td><td>2020</td><td>28 avril</td><td>2020</td></tr>
+<tr><td>Iraq</td><td>23 avril</td><td>2024 A</td><td>23 juillet</td><td>2024</td></tr>
 <tr><td>Islande</td><td>9 décembre</td><td>2021 A</td><td>9 mars</td><td>2022</td></tr>
 <tr><td>Israël</td><td>21 mars</td><td>2016 A</td><td>30 septembre</td><td>2016</td></tr>
+<tr><td>Jamaïque</td><td>28 mai</td><td>2024 A</td><td>28 août</td><td>2024</td></tr>
 <tr><td>Japon\*</td><td>1<sup>er</sup> octobre</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Jordanie</td><td>26 juin</td><td>2018</td><td>26 septembre</td><td>2018</td></tr>
 <tr><td>Kenya</td><td>2 juin</td><td>2017</td><td>2 septembre</td><td>2017</td></tr>
@@ -417,9 +413,11 @@ Champ d’application le 28 décembre 2023[^t-3]
 <tr><td>Nigéria</td><td>4 octobre</td><td>2017</td><td>4 janvier</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>31 août</td><td>2021</td><td>30 novembre</td><td>2021</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>4 octobre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
+<tr><td>Îles Cook</td><td>19 mars</td><td>2019 A</td><td>19 juin</td><td>2019</td></tr>
 <tr><td>Tokelau</td><td>4 octobre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
 <tr><td>Ouganda</td><td>23 avril</td><td>2018</td><td>23 juillet</td><td>2018</td></tr>
 <tr><td>Ouzbékistan</td><td>7 mars</td><td>2022 A</td><td>7 juin</td><td>2022</td></tr>
+<tr><td>Pakistan</td><td>12 mars</td><td>2024 A</td><td>12 juin</td><td>2024</td></tr>
 <tr><td>Panama</td><td>10 février</td><td>2017</td><td>10 mai</td><td>2017</td></tr>
 <tr><td>Paraguay</td><td>20 janvier</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Philippines</td><td>18 décembre</td><td>2018 A</td><td>18 mars</td><td>2019</td></tr>
@@ -434,6 +432,7 @@ Champ d’application le 28 décembre 2023[^t-3]
 <tr><td>Île de Man</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Russie</td><td>8 février</td><td>2018 A</td><td>8 mai</td><td>2018</td></tr>
 <tr><td>Rwanda</td><td>25 octobre</td><td>2021 A</td><td>25 janvier</td><td>2022</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>8 juillet</td><td>2024 A</td><td>8 octobre</td><td>2024</td></tr>
 <tr><td>Saint-Marin</td><td>2 juin</td><td>2020</td><td>2 septembre</td><td>2020</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>5 septembre</td><td>2016 A</td><td>5 décembre</td><td>2016</td></tr>
 <tr><td>Sainte-Lucie</td><td>11 juin</td><td>2020 A</td><td>11 septembre</td><td>2020</td></tr>
@@ -455,7 +454,7 @@ Champ d’application le 28 décembre 2023[^t-3]
 <tr><td>Venezuela</td><td>2 octobre</td><td>2019 A</td><td>2 janvier</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>6 décembre</td><td>2022 A</td><td>6 mars</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>12 septembre</td><td>2019</td><td>12 décembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int/](https://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité de Marrakech ne s’applique pas à Macao.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int/treaties/fr/ip/marrakesh/](https://www.wipo.int/treaties/fr/ip/marrakesh/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité de Marrakech ne s’applique pas à Macao.</td></tr>
 </table>
 
-[^t-3]: [RO 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2); [2025 159](https://fedlex.data.admin.ch/eli/oc/2025/159). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

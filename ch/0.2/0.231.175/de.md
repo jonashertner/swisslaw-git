@@ -3,11 +3,11 @@ sr: "0.231.175"
 title: "Vertrag von Marrakesch vom 27. Juni 2013 über die Erleichterung des Zugangs zu veröffentlichten Werken für blinde, sehbehinderte oder sonst lesebehinderte Menschen (mit vereinbarten Erklärungen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/186"
 language: de
-version: 2023-12-28
+version: 2025-03-04
 adopted: 2013-06-27
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20231228/de/xml/fedlex-data-admin-ch-eli-cc-2020-186-20231228-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20231228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20250304/de/xml/fedlex-data-admin-ch-eli-cc-2020-186-20250304-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20250304/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2020
 
 In Kraft getreten für die Schweiz am 11. Mai 2020
 
-(Stand am 28. Dezember 2023)
+(Stand am 4. März 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 21. Juni 2019 ([AS 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182)).
 
@@ -352,7 +352,7 @@ In Bezug auf Werke, die Werke im Sinne von Artikel 2 Buchstabe a) dieses Vertrag
 
 [^lvlu23-1]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Geltungsbereich am 28. Dezember 2023[^t-2]
+Geltungsbereich am 4. März 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -374,20 +374,22 @@ Geltungsbereich am 28. Dezember 2023[^t-2]
 <tr><td>Chile</td><td>10. Mai</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>China\* <sup>a</sup></td><td>5. Februar</td><td>2022</td><td>5. Mai</td><td>2022</td></tr>
 <tr><td>Hongkong\*</td><td>5. Februar</td><td>2022</td><td>5. Mai</td><td>2022</td></tr>
-<tr><td>Cook-Inseln</td><td>19. März</td><td>2019 B</td><td>19. Juni</td><td>2019</td></tr>
 <tr><td>Costa Rica</td><td>9. Oktober</td><td>2017</td><td>9. Januar</td><td>2018</td></tr>
 <tr><td>Côte d’Ivoire</td><td>17. September</td><td>2020</td><td>17. Dezember</td><td>2020</td></tr>
 <tr><td>Dominikanische Republik\*</td><td>5. Juni</td><td>2018</td><td>5. September</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>29. Juni</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>El Salvador</td><td>1. Oktober</td><td>2014</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Europäische Union (EU)</td><td>1. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Georgien\*</td><td>26. November</td><td>2024 B</td><td>26. Februar</td><td>2025</td></tr>
 <tr><td>Ghana</td><td>11. Mai</td><td>2018</td><td>11. August</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>29. Juni</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Honduras</td><td>29. März</td><td>2017 B</td><td>29. Juni</td><td>2017</td></tr>
 <tr><td>Indien</td><td>24. Juni</td><td>2014</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Indonesien</td><td>28. Januar</td><td>2020</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Irak</td><td>23. April</td><td>2024 B</td><td>23. Juli</td><td>2024</td></tr>
 <tr><td>Island</td><td>9. Dezember</td><td>2021 B</td><td>9. März</td><td>2022</td></tr>
 <tr><td>Israel</td><td>21. März</td><td>2016 B</td><td>30. September</td><td>2016</td></tr>
+<tr><td>Jamaika</td><td>28. Mai</td><td>2024 B</td><td>28. August</td><td>2024</td></tr>
 <tr><td>Japan\*</td><td>1. Oktober</td><td>2018 B</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Jordanien</td><td>26. Juni</td><td>2018</td><td>26. September</td><td>2018</td></tr>
 <tr><td>Kamerun</td><td>5. Oktober</td><td>2021</td><td>5. Januar</td><td>2022</td></tr>
@@ -414,10 +416,12 @@ Geltungsbereich am 28. Dezember 2023[^t-2]
 <tr><td>Mongolei</td><td>23. September</td><td>2015</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>8. März</td><td>2022 B</td><td>8. Juni</td><td>2022</td></tr>
 <tr><td>Neuseeland</td><td>4. Oktober</td><td>2019 B</td><td>4. Januar</td><td>2020</td></tr>
+<tr><td>Cook-Inseln</td><td>19. März</td><td>2019 B</td><td>19. Juni</td><td>2019</td></tr>
 <tr><td>Tokelau</td><td>4. Oktober</td><td>2019 B</td><td>4. Januar</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>16. Januar</td><td>2020 B</td><td>16. April</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>4. Oktober</td><td>2017</td><td>4. Januar</td><td>2018</td></tr>
 <tr><td>Norwegen</td><td>31. August</td><td>2021</td><td>30. November</td><td>2021</td></tr>
+<tr><td>Pakistan</td><td>12. März</td><td>2024 B</td><td>12. Juni</td><td>2024</td></tr>
 <tr><td>Panama</td><td>10. Februar</td><td>2017</td><td>10. Mai</td><td>2017</td></tr>
 <tr><td>Paraguay</td><td>20. Januar</td><td>2015</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Peru</td><td>2. Februar</td><td>2016</td><td>30. September</td><td>2016</td></tr>
@@ -432,6 +436,7 @@ Geltungsbereich am 28. Dezember 2023[^t-2]
 <tr><td>Simbabwe</td><td>12. September</td><td>2019</td><td>12. Dezember</td><td>2019</td></tr>
 <tr><td>Singapur</td><td>30. März</td><td>2015 B</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Sri Lanka</td><td>5. Oktober</td><td>2016 B</td><td>5. Januar</td><td>2017</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>8. Juli</td><td>2024 B</td><td>8. Oktober</td><td>2024</td></tr>
 <tr><td>St. Lucia</td><td>11. Juni</td><td>2020 B</td><td>11. September</td><td>2020</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>5. September</td><td>2016 B</td><td>5. Dezember</td><td>2016</td></tr>
 <tr><td>Tadschikistan</td><td>27. Februar</td><td>2019 B</td><td>27. Mai</td><td>2019</td></tr>
@@ -455,7 +460,7 @@ Geltungsbereich am 28. Dezember 2023[^t-2]
 <tr><td>Vereinigte Staaten</td><td>8. Februar</td><td>2019</td><td>8. Mai</td><td>2019</td></tr>
 <tr><td>Vietnam</td><td>6. Dezember</td><td>2022 B</td><td>6. März</td><td>2023</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>19. August</td><td>2020</td><td>19. November</td><td>2020</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/](http://www.wipo.int/treaties/fr/ip/marrakesh/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Der Vertrag von Marrakesch gilt nicht für Macao.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/ip/marrakesh/](http://www.wipo.int/treaties/fr/ip/marrakesh/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Der Vertrag von Marrakesch gilt nicht für Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2); [2025 159](https://fedlex.data.admin.ch/eli/oc/2025/159). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
