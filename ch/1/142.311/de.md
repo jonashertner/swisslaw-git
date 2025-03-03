@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2025-01-01
+version: 2025-03-04
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250304/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250304-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250304/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Januar 2025)
+vom 11. August 1999 (Stand am 4. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -921,12 +921,13 @@ Neu eingereiste Personen, denen nach Artikel 68 Absatz 1 oder Artikel 69 Absatz 
 
 <sup>1</sup> Schutzbedürftige mit einer Aufenthaltsbewilligung nach Artikel 33 AIG[^46-1] erhalten einen auf höchstens ein Jahr befristeten Ausweis B. Der Aufenthaltskanton verlängert ihn unter Vorbehalt von Absatz 2 in der Regel um jeweils höchstens ein Jahr.[^46-2]
 
-<sup>2</sup> Die Aufenthaltsbewilligung ist nur so lange gültig, wie der vorübergehende Schutz besteht. Sie erlischt in dem Zeitpunkt, den der Bundesrat für die Aufhebung des vorübergehenden Schutzes festlegt.
+<sup>2</sup> Die Aufenthaltsbewilligung ist nur so lange gültig, wie der vorübergehende Schutz besteht. Sie erlischt in dem Zeitpunkt, den der Bundesrat für die Aufhebung des vorübergehenden Schutzes festlegt.[^46-3]
 
 <sup>3</sup> Der weitere Aufenthalt der ausländischen Person bis zum Vollzug einer Wegweisung richtet sich sinngemäss nach den Artikeln 42 und 43 AsylG.
 
 [^46-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^46-2]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^46-3]: Die Berichtigung vom 4. März 2025 betrifft nur den französischen Text ([AS 2025 143](https://fedlex.data.admin.ch/eli/oc/2025/143)).
 
 ### 3. Abschnitt: Beendigung des vorübergehenden Schutzes
 

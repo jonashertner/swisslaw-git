@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2025-01-01
+version: 2025-03-04
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250304/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250304-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250304/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2025)
+dell’11 agosto 1999 (Stato 4 marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -932,12 +932,13 @@ Le persone entrate in Svizzera a cui è stata garantita la protezione provvisori
 
 <sup>1</sup> Le persone bisognose di protezione con un permesso di dimora giusta l’articolo 33 LStrI[^46-1] ricevono un permesso B della durata massima di un anno. Il Cantone di dimora lo proroga, di volta in volta, al massimo di un anno, fatto salvo il capoverso 2.[^46-2]
 
-<sup>2</sup> Il permesso di dimora vale finché sussiste la protezione provvisoria. Esso scade nel momento stabilito dal Consiglio federale per l’abrogazione della protezione provvisoria.
+<sup>2</sup> Il permesso di dimora vale finché sussiste la protezione provvisoria. Esso scade nel momento stabilito dal Consiglio federale per l’abrogazione della protezione provvisoria.[^46-3]
 
 <sup>3</sup> L’ulteriore dimora dello straniero sino all’esecuzione dell’allontanamento è retta per analogia dagli articoli 42 e 43 della LAsi.
 
 [^46-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^46-2]: Nuovo testo giusta la dalla cifra I n. 3 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^46-3]: La correzione del 4 mar. 2025 concerne soltanto il testo francese ([RU 2025 143](https://fedlex.data.admin.ch/eli/oc/2025/143)).
 
 ### Sezione 3: Fine della protezione provvisoria
 

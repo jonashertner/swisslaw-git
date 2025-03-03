@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2025-01-01
+version: 2025-03-04
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250304/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250304-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250101/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> janvier 2025)
+du 11 août 1999 (État le 4 mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -923,11 +923,12 @@ Les personnes nouvellement arrivées en Suisse qui ont obtenu la protection prov
 
 <sup>1</sup> Les personnes à protéger titulaires d’une autorisation de séjour en vertu de l’art. 33 LEI obtiennent un titre B, délivré pour une durée maximale d’un an. Sous réserve de l’al. 2, le canton de séjour prolonge la validité de ce document, en règle générale, pour une durée maximale d’un an à chaque fois.[^46-1]
 
-<sup>2</sup> L’autorisation de séjour n’est valable que pour la durée de l’admission provisoire. Elle prend fin à la date que fixe le Conseil fédéral dans sa décision de lever la protection provisoire.
+<sup>2</sup> L’autorisation de séjour n’est valable que pour la durée de la protection provisoire. Elle prend fin à la date que fixe le Conseil fédéral dans sa décision de lever la protection provisoire.[^46-2]
 
 <sup>3</sup> Le séjour de l’étranger jusqu’à l’exécution du renvoi est, par analogie, régi par les art. 42 et 43 de la loi.
 
 [^46-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^46-2]: Erratum du 4 mars 2025 ([RO 2025 143](https://fedlex.data.admin.ch/eli/oc/2025/143)).
 
 ### Section 3 Fin de la protection provisoire
 
@@ -1021,7 +1022,7 @@ L’étranger qui, conformément à l’art. 29 LAsi, a déjà été entendu ava
 
 ### (art. 102*g*, al. 3, LAsi)
 
-<sup>1</sup> <sup>1</sup> Durant son séjour dans un centre de la Confédération ou à l’aéroport, le requérant d’asile est informé dans le cadre du conseil au sens de l’art. 102*g* LAsi de la possibilité de déposer, auprès de l’Agence européenne de garde-frontières et de garde-côtes (Agence), une plainte concernant des violations des droits fondamentaux en relation avec des interventions de cette agence.
+<sup>1<sup>1</sup></sup> Durant son séjour dans un centre de la Confédération ou à l’aéroport, le requérant d’asile est informé dans le cadre du conseil au sens de l’art. 102*g* LAsi de la possibilité de déposer, auprès de l’Agence européenne de garde-frontières et de garde-côtes (Agence), une plainte concernant des violations des droits fondamentaux en relation avec des interventions de cette agence.
 
 <sup>2</sup> Le requérant est notamment informé du mécanisme de traitement des plaintes de l’Agence visé à l’art. 111 du règlement (UE) 2019/1896[^52abis-2] et des possibles violations des droits fondamentaux inscrits dans la Charte des droits fondamentaux de l’Union européenne[^52abis-3].
 
