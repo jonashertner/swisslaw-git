@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2025-02-19
+version: 2025-03-04
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250219/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250219-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250304/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250304-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 19 février 2025)
+du 4 mars 2022 (État le 4 mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -2139,7 +2139,7 @@ L’ordonnance du 27 août 2014 instituant des mesures en lien avec la situation
 
 <sup>4</sup> En dérogation aux interdictions visées aux art. 4, al. 1 et 2, et 5, al. 1 et 2, le SECO autorise, jusqu’au 8 mai 2022, les demandes d’activités destinées à des fins civiles et à des destinataires finaux civils et fondées sur des contrats conclus avant le 5 mars 2022. Les destinataires finaux visés à l’annexe 2 sont couverts par cette disposition, pour autant que les activités demandées soient de nature strictement civile.
 
-<sup>5</sup> à <sup>7</sup> …[^35-1]
+<sup>5 à <sup>7</sup></sup> …[^35-1]
 
 <sup>8</sup> L’art. 14*a*, al. 1 et 2[^35-2], ne s’applique pas aux opérations régies par un contrat antérieur au 26 mars 2022 et exécutées jusqu’au 17 juin 2022.[^35-3]
 
@@ -2156,7 +2156,7 @@ L’art. 11*a* ne s’applique pas aux opérations portant sur:
 
 <sup>11</sup> …[^35-6]
 
-<sup>12</sup> et <sup>13</sup> …[^35-7]
+<sup>12 et <sup>13</sup></sup> …[^35-7]
 
 <sup>14</sup> L’art. 28*c* ne s’applique pas aux opérations régies par un contrat antérieur au 28 avril 2022 et exécutées jusqu’au 29 octobre 2022.[^35-8]
 
@@ -2184,7 +2184,7 @@ L’art. 24*a*, al. 1, ne s’applique pas:
 
 <sup>20bis</sup> …[^35-16]
 
-<sup>21</sup> à <sup>23</sup> …[^35-17]
+<sup>21 à <sup>23</sup></sup> …[^35-17]
 
 <sup>24</sup>
 
@@ -2305,8 +2305,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 des O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), le ch. II al. 1 de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), le ch. I des O du DEFR du 12 déc. 2024 ([RO 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)) et du 20 déc. 2024, en vigueur depuis le 24 déc. 2024 ([RO 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2024/792 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 des O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), le ch. II al. 1 de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), le ch. I des O du DEFR du 12 déc. 2024 ([RO 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), du 20 déc. 2024 ([RO 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)) et le ch. I al. 1 de l’O du DEFR du 3 mars 2025, en vigueur depuis le 4 mars 2025 à 22 heures ([RO 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2025/142 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 
@@ -2643,8 +2643,8 @@ Annexe 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), le ch. II al. 1 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) et le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), le ch. I al. 1 de l’O du DEFR du 21 mars 2024 ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)) et le ch. I des O du DEFR du 3 juin 2024 ([RO 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), du 8 juil. 2024 ([RO 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), du 23 sept. 2024 ([RO 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), du 12 déc. 2024 ([RO 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), du 20 déc. 2024 ([RO 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)) et du 18 fév. 2025, en vigueur depuis le 19 fév. 2025 ([RO 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/112](https://fedlex.data.admin.ch/eli/oc/2025/112) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), le ch. II al. 1 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) et le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), le ch. I al. 1 de l’O du DEFR du 21 mars 2024 ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)) et le ch. I des O du DEFR du 3 juin 2024 ([RO 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), du 8 juil. 2024 ([RO 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), du 23 sept. 2024 ([RO 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), du 12 déc. 2024 ([RO 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), du 20 déc. 2024 ([RO 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), du 18 fév. 2025 ([RO 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)) et le ch. I al. 1 de l’O du DEFR du 3 mars 2025, en vigueur depuis le 4 mars 2025 à 22 heures ([RO 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/142](https://fedlex.data.admin.ch/eli/oc/2025/142) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
@@ -2714,9 +2714,10 @@ Annexe 14a[^t-12]
 
 ## Banques, entreprises et entités soumises à l’interdiction d’utiliser certains services spécialisés de messagerie financière
 
-[^t-12]: Introduite par le ch. II al. 3 de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^annex14a-lvlu1-1]
 
-L’annexe ne contient actuellement aucune entrée.
+[^t-12]: Introduite par le ch. II al. 3 de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 3 mars 2025, en vigueur depuis le 4 mars 2025 à 22 heures ([RO 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
+[^annex14a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/142](https://fedlex.data.admin.ch/eli/oc/2025/142) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 15[^t-13]
 
@@ -3823,5 +3824,5 @@ Annexe 33[^t-36]
 
 [^annex33-lvlu1-1]
 
-[^t-36]: Introduite par le ch. II al. 3 de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2024, en vigueur depuis le 24 déc. 2024 ([RO 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)).
-[^annex33-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/792](https://fedlex.data.admin.ch/eli/oc/2024/792) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-36]: Introduite par le ch. II al. 3 de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2024 ([RO 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)) et le ch. I al. 1 de l’O du DEFR du 3 mars 2025, en vigueur depuis le 4 mars 2025 à 22 heures ([RO 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
+[^annex33-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/142](https://fedlex.data.admin.ch/eli/oc/2025/142) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
