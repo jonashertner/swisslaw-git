@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’assurance-chômage et ordonnance sur l’indemnisation des caisses de chômage
 document: Projet mis en consultation-2
 language: fr

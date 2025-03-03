@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Arbeitslosenversicherungsverordnung und der Verordnung über die Verwaltungskostenentschädigung der Arbeitslosenkassen
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sull’assicurazione contro la disoccupazione e dell’ordinanza concernente il rimborso delle casse di disoccupazione
 document: Progetto posto in consultazione
 language: it
