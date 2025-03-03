@@ -4,11 +4,11 @@ title: "Trattato OMPI del 20 dicembre 1996 sul diritto d'autore (WCT) (con dich.
 short: WCT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/358"
 language: it
-version: 2022-09-28
+version: 2025-03-04
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20220928/it/xml/fedlex-data-admin-ch-eli-cc-2008-358-20220928-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20220928/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20250304/it/xml/fedlex-data-admin-ch-eli-cc-2008-358-20250304-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20250304/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -23,7 +23,7 @@ Traduzione
 
 Concluso a Ginevra il 20 dicembre 1996 Approvato dall’Assemblea federale il 5 ottobre 2007[^t-1] Ratificato dalla Svizzera con strumento depositato il 31 marzo 2008 Entrato in vigore per la Svizzera il 1° luglio 2008
 
-(Stato 28 settembre 2022)
+(Stato 4 marzo 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 5 ott. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -295,7 +295,7 @@ Resta altresì inteso che le Parti contraenti non potranno avvalersi di questo a
 
 [^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1C
 
-Campo d’applicazione il 28 settembre 2022[^t-3]
+Campo d’applicazione il 4 marzo 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -319,6 +319,7 @@ Campo d’applicazione il 28 settembre 2022[^t-3]
 <tr><td>Bulgaria</td><td>29 marzo</td><td>2001 A</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Burkina Faso</td><td>19 luglio</td><td>1999</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Burundi</td><td>12 gennaio</td><td>2016 A</td><td>12 aprile</td><td>2016</td></tr>
+<tr><td>Camerun</td><td>9 gennaio</td><td>2025 A</td><td>9 aprile</td><td>2025</td></tr>
 <tr><td>Canada</td><td>13 maggio</td><td>2014</td><td>13 agosto</td><td>2014</td></tr>
 <tr><td>Capo Verde</td><td>22 febbraio</td><td>2019 A</td><td>22 maggio</td><td>2019</td></tr>
 <tr><td>Ceca, Repubblica</td><td>10 ottobre</td><td>2001 A</td><td>6 marzo</td><td>2002</td></tr>
@@ -329,7 +330,8 @@ Campo d’applicazione il 28 settembre 2022[^t-3]
 <tr><td>Cipro</td><td>4 agosto</td><td>2003 A</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Colombia</td><td>29 novembre</td><td>2000</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Comore</td><td>25 gennaio</td><td>2021 A</td><td>25 aprile</td><td>2021</td></tr>
-<tr><td>Corea (Sud)</td><td>24 marzo</td><td>2004 A</td><td>24 giugno</td><td>2004</td></tr>
+<tr><td>Corea del Nord</td><td>30 gennaio</td><td>2024 A</td><td>30 aprile</td><td>2024</td></tr>
+<tr><td>Corea del Sud</td><td>24 marzo</td><td>2004 A</td><td>24 giugno</td><td>2004</td></tr>
 <tr><td>Costa Rica</td><td>23 maggio</td><td>2000</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Croazia</td><td>3 luglio</td><td>2000</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Danimarca</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
@@ -394,7 +396,9 @@ Campo d’applicazione il 28 settembre 2022[^t-3]
 <tr><td>Man, Isola di</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>1° febbraio</td><td>2001</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Russia</td><td>5 novembre</td><td>2008 A</td><td>5 febbraio</td><td>2009</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>8 luglio</td><td>2024 A</td><td>8 ottobre</td><td>2024</td></tr>
 <tr><td>Saint Lucia</td><td>24 novembre</td><td>1999 A</td><td>6 marzo</td><td>2002</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>6 aprile</td><td>2023 A</td><td>6 luglio</td><td>2023</td></tr>
 <tr><td>San Marino</td><td>2 giugno</td><td>2020 A</td><td>2 settembre</td><td>2020</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>27 gennaio</td><td>2020 A</td><td>27 aprile</td><td>2020</td></tr>
 <tr><td>Senegal</td><td>18 febbraio</td><td>2002</td><td>18 maggio</td><td>2002</td></tr>
@@ -410,6 +414,7 @@ Campo d’applicazione il 28 settembre 2022[^t-3]
 <tr><td>Thailandia</td><td>13 luglio</td><td>2022 A</td><td>13 ottobre</td><td>2022</td></tr>
 <tr><td>Togo</td><td>21 febbraio</td><td>2003</td><td>21 maggio</td><td>2003</td></tr>
 <tr><td>Trinidad e Tobago</td><td>28 agosto</td><td>2008 A</td><td>28 novembre</td><td>2008</td></tr>
+<tr><td>Tunisia</td><td>16 marzo</td><td>2023 A</td><td>16 giugno</td><td>2023</td></tr>
 <tr><td>Turchia</td><td>28 agosto</td><td>2008 A</td><td>28 novembre</td><td>2008</td></tr>
 <tr><td>Ucraina</td><td>29 novembre</td><td>2001 A</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Uganda</td><td>28 gennaio</td><td>2022 A</td><td>28 aprile</td><td>2022</td></tr>
@@ -420,4 +425,4 @@ Campo d’applicazione il 28 settembre 2022[^t-3]
 <tr><td>Vietnam</td><td>17 novembre</td><td>2021 A</td><td>17 febbraio</td><td>2022</td></tr>
 </table>
 
-[^t-3]: [RU 2008 2503](https://fedlex.data.admin.ch/eli/oc/2008/358); [2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311); [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197); [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190); [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148); [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403); [2021 606](https://fedlex.data.admin.ch/eli/oc/2021/606); [2022 553](https://fedlex.data.admin.ch/eli/oc/2022/553). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 2008 2503](https://fedlex.data.admin.ch/eli/oc/2008/358); [2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311); [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197); [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190); [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148); [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403); [2021 606](https://fedlex.data.admin.ch/eli/oc/2021/606); [2022 553](https://fedlex.data.admin.ch/eli/oc/2022/553); [2025 155](https://fedlex.data.admin.ch/eli/oc/2025/155). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty.](https://www.fedlex.admin.ch/it/treaty.)
