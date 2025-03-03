@@ -3,11 +3,11 @@ sr: "0.192.110.03"
 title: Convention du 21 novembre 1947 sur les privilèges et immunités des institutions spécialisées (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/664"
 language: fr
-version: 2021-09-22
+version: 2025-03-04
 adopted: 1947-11-21
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20210922/fr/xml/fedlex-data-admin-ch-eli-cc-2012-664-20210922-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20210922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20250304/fr/xml/fedlex-data-admin-ch-eli-cc-2012-664-20250304-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20250304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument d’adhésion déposé par la Suisse le 25 septembre 2012
 
 Entrée en vigueur pour la Suisse le 25 septembre 2012
 
-(Etat le 22 septembre 2021)
+(État le 4 mars 2025)
 
 Considérant que l’Assemblée générale de l’Organisation des Nations Unies a adopté le 13 février 1946 une résolution tendant à l’unification, dans la mesure du possible, des privilèges et immunités dont jouissent l’Organisation des Nations Unies et les différentes institutions spécialisées;
 
@@ -357,7 +357,7 @@ Le Secrétaire général transmettra copie de la présente Convention à chacune
 
 Annexe I
 
-## Organisation internationale du Travail****
+## Organisation internationale du Travail
 
 [^annexI-lvlu1-1]
 
@@ -385,7 +385,7 @@ Les clauses standard s’appliqueront à l’Organisation internationale du Trav
 
 Annexe II
 
-## Organisation des Nations Unies pour l’alimentation et l’agriculture****
+## Organisation des Nations Unies pour l’alimentation et l’agriculture
 
 [^annexII-lvlu1-1]
 
@@ -413,7 +413,7 @@ Dans leur application à l’Organisation des Nations Unies pour l’alimentatio
 
 Annexe III
 
-## Organisation de l’aviation civile internationale****
+## Organisation de l’aviation civile internationale
 
 [^annexIII-lvlu1-1]
 
@@ -439,7 +439,7 @@ Les clauses standard s’appliqueront à l’Organisation de l’aviation civile
 
 Annexe IV
 
-## Organisation des Nations Unies pour l’éducation, la science et la culture****
+## Organisation des Nations Unies pour l’éducation, la science et la culture
 
 [^annexIV-lvlu1-1]
 
@@ -465,7 +465,7 @@ Les clauses standard s’appliqueront à l’Organisation des Nations Unies pour
 
 Annexe V
 
-## Fonds monétaire international****
+## Fonds monétaire international
 
 [^annexV-lvlu1-1]
 
@@ -481,7 +481,7 @@ La Convention (y compris la présente annexe) s’appliquera au Fonds monétaire
 
 Annexe VI
 
-## Banque internationale pour la reconstruction et le développement****
+## Banque internationale pour la reconstruction et le développement
 
 [^annexVI-lvlu1-1]
 
@@ -501,7 +501,7 @@ La Convention (y compris la présente annexe) s’appliquera à la Banque intern
 
 Annexe VII
 
-## Organisation mondiale de la santé****
+## Organisation mondiale de la santé
 
 [^annexVII-lvlu1-1]
 
@@ -532,7 +532,7 @@ Les clauses standard s’appliqueront à l’Organisation mondiale de la santé[
 
 Annexe VIII
 
-## Union postale universelle****
+## Union postale universelle
 
 [^annexVIII-lvlu1-1]
 
@@ -544,7 +544,7 @@ Les clauses standard s’appliqueront sans modification[^annexVIII-lvlu1-2].
 
 Annexe IX
 
-## Union internationale des télécommunications****
+## Union internationale des télécommunications
 
 [^annexIX-lvlu1-1]
 
@@ -556,7 +556,7 @@ Les clauses standard seront appliquées sans modification, à ceci près que l�
 
 Annexe X
 
-## Organisation internationale pour les réfugiés****
+## Organisation internationale pour les réfugiés
 
 [^annexX-lvlu1-1]
 
@@ -564,7 +564,7 @@ Annexe X
 
 Annexe XI
 
-## Organisation météorologique mondiale****
+## Organisation météorologique mondiale
 
 [^annexXI-lvlu1-1]
 
@@ -576,7 +576,7 @@ Les clauses standard s’appliqueront sans modification[^annexXI-lvlu1-2].
 
 Annexe XII
 
-## Organisation maritime internationale****
+## Organisation maritime internationale
 
 [^annexXII-lvlu1-1]
 
@@ -601,7 +601,7 @@ Annexe XII
 
 Annexe XIII
 
-## Société financière internationale****
+## Société financière internationale
 
 [^annexXIII-lvlu1-1]
 
@@ -625,7 +625,7 @@ La Convention (y compris la présente annexe) s’appliquera à la Société fin
 
 Annexe XIV
 
-## Association internationale de développement****
+## Association internationale de développement
 
 [^annexXIV-lvlu1-1]
 
@@ -645,7 +645,7 @@ La Convention (y compris la présente annexe) s’appliquera à l’Association 
 
 Annexe XV
 
-## Organisation mondiale de la propriété intellectuelle****
+## Organisation mondiale de la propriété intellectuelle
 
 [^annexXV-lvlu1-1]
 
@@ -672,7 +672,7 @@ Les clauses standard s’appliqueront à l’Organisation mondiale de la propri�
 
 Annexe XVI
 
-## Fonds international de développement agricole****
+## Fonds international de développement agricole
 
 [^annexXVI-lvlu1-1]
 
@@ -698,7 +698,7 @@ En ce qui concerne le Fonds international de développement agricole[^annexXVI-l
 
 Annexe XVII
 
-## Organisation des Nations Unies pour le développement industriel****
+## Organisation des Nations Unies pour le développement industriel
 
 [^annexXVII-lvlu1-1]
 
@@ -725,7 +725,7 @@ Les clauses standard s’appliqueront à l’Organisation des Nations Unies pour
 
 Annexe XVIII
 
-## Organisation mondiale du tourisme****
+## Organisation mondiale du tourisme
 
 [^annexXVIII-lvlu1-1]
 
@@ -757,7 +757,7 @@ Les clauses standard s’appliquent à l’Organisation mondiale du tourisme[^an
 
 [^annexXVIII-lvlu1-2]: [RS 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95);Statuts du 27 sept. 1970 de l’Organisation mondiale du tourisme (OMT).
 
-Champ d’application le 22 septembre 2021**[^t-1]**
+Champ d’application le 4 mars 2025[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -768,6 +768,7 @@ Champ d’application le 22 septembre 2021**[^t-1]**
 <tr><td>Angola</td><td>9 mai</td><td>2012 A</td><td>9 mai</td><td>2012</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>14 décembre</td><td>1988 S</td><td>1<sup>er</sup> novembre</td><td>1981</td></tr>
 <tr><td>Argentine</td><td>10 octobre</td><td>1963 A</td><td>10 octobre</td><td>1963</td></tr>
+<tr><td>Arménie\*</td><td>16 mai</td><td>2022</td><td>16 mai</td><td>2022</td></tr>
 <tr><td>Australie</td><td>9 mai</td><td>1986 A</td><td>9 mai</td><td>1986</td></tr>
 <tr><td>Autriche</td><td>21 juillet</td><td>1950 A</td><td>21 juillet</td><td>1950</td></tr>
 <tr><td>Bahamas</td><td>17 mars</td><td>1977 S</td><td>10 juillet</td><td>1973</td></tr>
@@ -806,12 +807,12 @@ Champ d’application le 22 septembre 2021**[^t-1]**
 <tr><td>France\*</td><td>2 août</td><td>2000 A</td><td>2 août</td><td>2000</td></tr>
 <tr><td>Gabon\*</td><td>29 juin</td><td>1961 A</td><td>29 juin</td><td>1961</td></tr>
 <tr><td>Gambie</td><td>1<sup>er</sup> août</td><td>1966 S</td><td>18 février</td><td>1965</td></tr>
+<tr><td>Géorgie</td><td>18 juillet</td><td>2007 A</td><td>18 juillet</td><td>2007</td></tr>
 <tr><td>Ghana</td><td>9 septembre</td><td>1958 A</td><td>9 septembre</td><td>1958</td></tr>
 <tr><td>Grèce</td><td>21 juin</td><td>1977 A</td><td>21 juin</td><td>1977</td></tr>
 <tr><td>Guatemala</td><td>30 juin</td><td>1951 A</td><td>30 juin</td><td>1951</td></tr>
 <tr><td>Guinée</td><td>1<sup>er</sup> juillet</td><td>1959 A</td><td>1<sup>er</sup> juillet</td><td>1959</td></tr>
 <tr><td>Guyana</td><td>13 septembre</td><td>1973 A</td><td>13 septembre</td><td>1973</td></tr>
-<tr><td>Géorgie</td><td>18 juillet</td><td>2007 A</td><td>18 juillet</td><td>2007</td></tr>
 <tr><td>Haïti</td><td>16 avril</td><td>1952 A</td><td>16 avril</td><td>1952</td></tr>
 <tr><td>Honduras</td><td>16 août</td><td>2012 A</td><td>16 août</td><td>2012</td></tr>
 <tr><td>Hongrie</td><td>2 août</td><td>1967 A</td><td>2 août</td><td>1967</td></tr>
@@ -846,13 +847,14 @@ Champ d’application le 22 septembre 2021**[^t-1]**
 <tr><td>Mongolie</td><td>3 mars</td><td>1970 A</td><td>3 mars</td><td>1970</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique</td><td>6 octobre</td><td>2011 A</td><td>6 octobre</td><td>2011</td></tr>
+<tr><td>Népal</td><td>23 février</td><td>1954 A</td><td>23 février</td><td>1954</td></tr>
 <tr><td>Nicaragua</td><td>6 avril</td><td>1959 A</td><td>6 avril</td><td>1959</td></tr>
 <tr><td>Niger</td><td>15 mai</td><td>1968 A</td><td>15 mai</td><td>1968</td></tr>
 <tr><td>Nigéria</td><td>26 juin</td><td>1961 S</td><td>1<sup>er</sup> octobre</td><td>1960</td></tr>
 <tr><td>Norvège\*</td><td>25 janvier</td><td>1950 A</td><td>25 janvier</td><td>1950</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>25 novembre</td><td>1960 A</td><td>25 novembre</td><td>1960</td></tr>
 <tr><td>Tokelau</td><td>25 novembre</td><td>1960 A</td><td>25 novembre</td><td>1960</td></tr>
-<tr><td>Népal</td><td>23 février</td><td>1954 A</td><td>23 février</td><td>1954</td></tr>
+<tr><td>Oman\*</td><td>19 octobre</td><td>2023 A</td><td>19 octobre</td><td>2023</td></tr>
 <tr><td>Ouganda</td><td>11 août</td><td>1983 A</td><td>11 août</td><td>1983</td></tr>
 <tr><td>Ouzbékistan</td><td>18 février</td><td>1997 A</td><td>18 février</td><td>1997</td></tr>
 <tr><td>Pakistan\*</td><td>23 juillet</td><td>1951 A</td><td>23 juillet</td><td>1951</td></tr>
@@ -863,23 +865,23 @@ Champ d’application le 22 septembre 2021**[^t-1]**
 <tr><td>Pologne</td><td>19 juin</td><td>1969 A</td><td>19 juin</td><td>1969</td></tr>
 <tr><td>Portugal</td><td>8 novembre</td><td>2012 A</td><td>8 novembre</td><td>2012</td></tr>
 <tr><td>Qatar<sup>\*</sup></td><td>10 janvier</td><td>2014 A</td><td>10 janvier</td><td>2014</td></tr>
+<tr><td>République centrafricaine</td><td>15 octobre</td><td>1962 A</td><td>15 octobre</td><td>1962</td></tr>
+<tr><td>République tchèque</td><td>22 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\*</td><td>15 septembre</td><td>1970 A</td><td>15 septembre</td><td>1970</td></tr>
 <tr><td>Royaume-Uni\*</td><td>16 août</td><td>1949 A</td><td>16 août</td><td>1949</td></tr>
 <tr><td>Russie\*</td><td>10 janvier</td><td>1966 A</td><td>10 janvier</td><td>1966</td></tr>
 <tr><td>Rwanda</td><td>15 avril</td><td>1964 A</td><td>15 avril</td><td>1964</td></tr>
-<tr><td>République centrafricaine</td><td>15 octobre</td><td>1962 A</td><td>15 octobre</td><td>1962</td></tr>
-<tr><td>République tchèque</td><td>22 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Sainte-Lucie</td><td>2 septembre</td><td>1986 A</td><td>2 septembre</td><td>1986</td></tr>
 <tr><td>Samoa</td><td>17 décembre</td><td>2014 A</td><td>17 décembre</td><td>2014</td></tr>
+<tr><td>Sénégal</td><td>2 mars</td><td>1966 A</td><td>2 mars</td><td>1966</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Seychelles</td><td>24 juillet</td><td>1985 A</td><td>24 juillet</td><td>1985</td></tr>
 <tr><td>Sierra Leone</td><td>13 mars</td><td>1962 S</td><td>27 avril</td><td>1961</td></tr>
 <tr><td>Singapour</td><td>18 mars</td><td>1966 S</td><td>9 août</td><td>1965</td></tr>
 <tr><td>Slovaquie</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td>Suisse\*</td><td>25 septembre</td><td>2012 A</td><td>25 septembre</td><td>2012</td></tr>
 <tr><td>Suède</td><td>12 septembre</td><td>1951 A</td><td>12 septembre</td><td>1951</td></tr>
-<tr><td>Sénégal</td><td>2 mars</td><td>1966 A</td><td>2 mars</td><td>1966</td></tr>
+<tr><td>Suisse\*</td><td>25 septembre</td><td>2012 A</td><td>25 septembre</td><td>2012</td></tr>
 <tr><td>Tanzanie</td><td>29 octobre</td><td>1962 A</td><td>29 octobre</td><td>1962</td></tr>
 <tr><td>Thaïlande</td><td>30 mars</td><td>1956 A</td><td>30 mars</td><td>1956</td></tr>
 <tr><td>Togo</td><td>15 juillet</td><td>1960 A</td><td>15 juillet</td><td>1960</td></tr>
@@ -891,10 +893,10 @@ Champ d’application le 22 septembre 2021**[^t-1]**
 <tr><td>Vanuatu</td><td>2 janvier</td><td>2008 A</td><td>2 janvier</td><td>2008</td></tr>
 <tr><td>Zambie</td><td>16 juin</td><td>1975 S</td><td>24 octobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>5 mars</td><td>1991 A</td><td>5 mars</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](https://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: [RO 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-1]: [RO 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574); [2025 154](https://fedlex.data.admin.ch/eli/oc/2025/154). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 

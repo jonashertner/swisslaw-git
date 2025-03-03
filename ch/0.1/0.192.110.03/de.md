@@ -3,11 +3,11 @@ sr: "0.192.110.03"
 title: Übereinkommen vom 21. November 1947 über die Vorrechte und Immunitäten der Sonderorganisationen der Vereinten Nationen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/664"
 language: de
-version: 2021-09-22
+version: 2025-03-04
 adopted: 1947-11-21
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20210922/de/xml/fedlex-data-admin-ch-eli-cc-2012-664-20210922-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20210922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20250304/de/xml/fedlex-data-admin-ch-eli-cc-2012-664-20250304-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20250304/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 25. September 2012
 
 In Kraft getreten für die Schweiz am 25. September 2012
 
-(Stand am 22. September 2021)
+(Stand am 4. März 2025)
 
 Da die Generalversammlung der Vereinten Nationen am 13. Februar 1946 eine Entschliessung angenommen hat, wonach die Vorrechte und Immunitäten, welche die Vereinten Nationen und die verschiedenen Sonderorganisationen geniessen, so weit wie möglich vereinheitlicht werden sollen;
 
@@ -355,7 +355,7 @@ Der Generalsekretär übermittelt eine Abschrift des vorliegenden Übereinkommen
 
 Anhang I
 
-## Internationale Arbeitsorganisation****
+## Internationale Arbeitsorganisation
 
 [^annexI-lvlu1-1]
 
@@ -383,7 +383,7 @@ Die allgemeinen Bestimmungen finden auf die Internationale Arbeitsorganisation[^
 
 Anhang II
 
-## Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen****
+## Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen
 
 [^annexII-lvlu1-1]
 
@@ -411,7 +411,7 @@ Die allgemeinen Bestimmungen finden auf die Ernährungs- und Landwirtschaftsorga
 
 Anhang III
 
-## Internationale Zivilluftfahrt-Organisation****
+## Internationale Zivilluftfahrt-Organisation
 
 [^annexIII-lvlu1-1]
 
@@ -437,7 +437,7 @@ Die allgemeinen Bestimmungen finden auf die Internationale Zivilluftfahrt-Organi
 
 Anhang IV
 
-## Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur****
+## Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur
 
 [^annexIV-lvlu1-1]
 
@@ -463,7 +463,7 @@ Die allgemeinen Bestimmungen finden auf die Organisation der Vereinten Nationen 
 
 Anhang V
 
-## Internationaler Währungsfonds****
+## Internationaler Währungsfonds
 
 [^annexV-lvlu1-1]
 
@@ -479,7 +479,7 @@ Das Übereinkommen (einschliesslich dieses Anhangs) findet auf den International
 
 Anhang VI
 
-## Internationale Bank für Wiederaufbau und Entwicklung****
+## Internationale Bank für Wiederaufbau und Entwicklung
 
 [^annexVI-lvlu1-1]
 
@@ -499,7 +499,7 @@ Das Übereinkommen (einschliesslich dieses Anhangs) findet auf die International
 
 Anhang VII
 
-## Weltgesundheitsorganisation****
+## Weltgesundheitsorganisation
 
 [^annexVII-lvlu1-1]
 
@@ -530,7 +530,7 @@ Die allgemeinen Bestimmungen finden auf die Weltgesundheitsorganisation[^annexVI
 
 Anhang VIII
 
-## Weltpostverein****
+## Weltpostverein
 
 [^annexVIII-lvlu1-1]
 
@@ -542,7 +542,7 @@ Die allgemeinen Bestimmungen finden auf den Weltpostverein[^annexVIII-lvlu1-2] o
 
 Anhang IX
 
-## Internationale Fernmeldeunion****
+## Internationale Fernmeldeunion
 
 [^annexIX-lvlu1-1]
 
@@ -554,7 +554,7 @@ Die allgemeinen Bestimmungen finden auf die Internationale Fernmeldeunion[^annex
 
 Anhang X
 
-## Internationale Flüchtlingsorganisation****
+## Internationale Flüchtlingsorganisation
 
 [^annexX-lvlu1-1]
 
@@ -562,7 +562,7 @@ Anhang X
 
 Anhang XI
 
-## Weltorganisation für Meteorologie****
+## Weltorganisation für Meteorologie
 
 [^annexXI-lvlu1-1]
 
@@ -574,7 +574,7 @@ Die allgemeinen Bestimmungen finden auf die Weltorganisation für Meteorologie[^
 
 Anhang XII
 
-## Internationale Seeschifffahrts-Organisation****
+## Internationale Seeschifffahrts-Organisation
 
 [^annexXII-lvlu1-1]
 
@@ -601,7 +601,7 @@ Die allgemeinen Bestimmungen finden auf die Internationale Seeschifffahrts-Organ
 
 Anhang XIII
 
-## Internationale Finanz-Corporation****
+## Internationale Finanz-Corporation
 
 [^annexXIII-lvlu1-1]
 
@@ -625,7 +625,7 @@ Das Übereinkommen (einschliesslich dieses Anhangs) findet auf die International
 
 Anhang XIV
 
-## Internationale Entwicklungsorganisation****
+## Internationale Entwicklungsorganisation
 
 [^annexXIV-lvlu1-1]
 
@@ -645,7 +645,7 @@ Das Übereinkommen (einschliesslich dieses Anhangs) findet auf die International
 
 Anhang XV
 
-## Weltorganisation für geistiges Eigentum****
+## Weltorganisation für geistiges Eigentum
 
 [^annexXV-lvlu1-1]
 
@@ -672,7 +672,7 @@ Die allgemeinen Bestimmungen finden auf die Weltorganisation für geistiges Eige
 
 Anhang XVI
 
-## Internationale Fonds für landwirtschaftliche Entwicklung****
+## Internationale Fonds für landwirtschaftliche Entwicklung
 
 [^annexXVI-lvlu1-1]
 
@@ -698,7 +698,7 @@ Die allgemeinen Bestimmungen finden auf den Internationalen Fonds für landwirts
 
 Anlage XVII
 
-## Organisation der Vereinten Nationen für industrielle Entwicklung****
+## Organisation der Vereinten Nationen für industrielle Entwicklung
 
 [^annexXVII-lvlu1-1]
 
@@ -725,7 +725,7 @@ Die allgemeinen Bestimmungen finden auf die Organisation der Vereinten Nationen 
 
 Anlage XVIII
 
-## Weltorganisation für Tourismus****
+## Weltorganisation für Tourismus
 
 [^annexXVIII-lvlu1-1]
 
@@ -757,7 +757,7 @@ Die allgemeinen Bestimmungen finden auf die Weltorganisation für Tourismus[^ann
 
 [^annexXVIII-lvlu1-2]: [SR 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95);Statuten vom 27. Sept. 1970 der Weltorganisation für Tourismus
 
-Geltungsbereich am 22. September 2021**[^t-1]**
+Geltungsbereich am 4. März 2025[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -767,6 +767,7 @@ Geltungsbereich am 22. September 2021**[^t-1]**
 <tr><td>Angola</td><td>9. Mai</td><td>2012 B</td><td>9. Mai</td><td>2012</td></tr>
 <tr><td>Antigua und Barbuda</td><td>14. Dezember</td><td>1988 N</td><td>1. November</td><td>1981</td></tr>
 <tr><td>Argentinien</td><td>10. Oktober</td><td>1963 B</td><td>10. Oktober</td><td>1963</td></tr>
+<tr><td>Armenien\*</td><td>16. Mai</td><td>2022</td><td>16. Mai</td><td>2022</td></tr>
 <tr><td>Australien</td><td>9. Mai</td><td>1986 B</td><td>9. Mai</td><td>1986</td></tr>
 <tr><td>Bahamas</td><td>17. März</td><td>1977 N</td><td>10. Juli</td><td>1973</td></tr>
 <tr><td>Bahrain</td><td>17. September</td><td>1992 B</td><td>17. September</td><td>1992</td></tr>
@@ -849,6 +850,7 @@ Geltungsbereich am 22. September 2021**[^t-1]**
 <tr><td>Nigeria</td><td>26. Juni</td><td>1961 N</td><td>1. Oktober</td><td>1960</td></tr>
 <tr><td>Nordmazedonien</td><td>11. März</td><td>1996 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen\*</td><td>25. Januar</td><td>1950 B</td><td>25. Januar</td><td>1950</td></tr>
+<tr><td>Oman\*</td><td>19. Oktober</td><td>2023 B</td><td>19. Oktober</td><td>2023</td></tr>
 <tr><td>Österreich</td><td>21. Juli</td><td>1950 B</td><td>21. Juli</td><td>1950</td></tr>
 <tr><td>Pakistan\*</td><td>23. Juli</td><td>1951 B</td><td>23. Juli</td><td>1951</td></tr>
 <tr><td>Palästina</td><td>29. März</td><td>2018 B</td><td>29. März</td><td>2018</td></tr>
@@ -891,10 +893,10 @@ Geltungsbereich am 22. September 2021**[^t-1]**
 <tr><td>Vereinigtes Königreich\*</td><td>16. August</td><td>1949 B</td><td>16. August</td><td>1949</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>15. Oktober</td><td>1962 B</td><td>15. Oktober</td><td>1962</td></tr>
 <tr><td>Zypern</td><td>6. Mai</td><td>1964 N</td><td>16. August</td><td>1960</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-1]: [AS 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-1]: [AS 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574); [2025 154](https://fedlex.data.admin.ch/eli/oc/2025/154). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

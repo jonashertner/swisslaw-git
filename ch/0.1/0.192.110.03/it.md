@@ -3,11 +3,11 @@ sr: "0.192.110.03"
 title: Convenzione del 21 novembre 1947 sui privilegi e le immunità delle istituzioni specializzate (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/664"
 language: it
-version: 2021-09-22
+version: 2025-03-04
 adopted: 1947-11-21
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20210922/it/xml/fedlex-data-admin-ch-eli-cc-2012-664-20210922-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20210922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20250304/it/xml/fedlex-data-admin-ch-eli-cc-2012-664-20250304-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20250304/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2012** 5695
 
 Traduzione
 
-Conclusa a New York il 21 novembre 1947
+Conclusa a New York il 21 novembre 1947 Strumento di adesione depositato dalla Svizzera il 25 settembre 2012 Entrata in vigore per la Svizzera il 25 settembre 2012
 
-Strumento di adesione depositato dalla Svizzera il 25 settembre 2012
-
-Entrata in vigore per la Svizzera il 25 settembre 2012
-
-(Stato 22 settembre 2021)
+(Stato 4 marzo 2025)
 
 Considerato che il 13 febbraio 1946 l’Assemblea generale dell’Organizzazione delle Nazioni Unite ha adottato una risoluzione volta a unificare, nella misura del possibile, i privilegi e le immunità di cui godono l’Organizzazione delle Nazioni Unite e le diverse istituzioni specializzate;
 
@@ -355,7 +351,7 @@ Il Segretario generale trasmette copia della presente Convenzione a ogni istituz
 
 Allegato I
 
-## Organizzazione internazionale del Lavoro****
+## Organizzazione internazionale del Lavoro
 
 [^annexI-lvlu1-1]
 
@@ -379,11 +375,11 @@ All’Organizzazione internazionale del Lavoro[^annexI-lvlu1-2] sono applicate l
 - ii) Il principio enunciato nell’ultima frase della sezione 12 delle clausole standard è applicabile relativamente alle disposizioni della lettera d) del paragrafo 3 di cui sopra.
 - iii) I privilegi e le immunità sono concessi ai periti nell’interesse dell’Organizzazione e non già a loro vantaggio personale. L’Organizzazione può e deve revocare l’immunità concessa a un perito in tutti i casi in cui ritenga che ostacoli l’azione della giustizia e che possa essere revocata senza pregiudicare gli interessi dell’Organizzazione.
 
-[^annexI-lvlu1-2]: [RS 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861); Cost. dell’Organizzazione internazionale del Lavoro, del 28 giu. 1919.
+[^annexI-lvlu1-2]: Cost. dell’Organizzazione internazionale del Lavoro, del 28 giu. 1919 ([RS 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)).
 
 Allegato II
 
-## Organizzazione delle Nazioni Unite per l’Alimentazione e l’Agricoltura****
+## Organizzazione delle Nazioni Unite per l’Alimentazione e l’Agricoltura
 
 [^annexII-lvlu1-1]
 
@@ -407,11 +403,11 @@ Le clausole «uniformi» entrano in vigore nella loro applicazione all’Organiz
 
 \3. I privilegi, le immunità, le esenzioni e le agevolazioni citati alla sezione 21 delle clausole standard sono inoltre concessi al direttore generale aggiunto e ai vicedirettori generali dell’Organizzazione.
 
-[^annexII-lvlu1-2]: [RS 0.910.5](https://fedlex.data.admin.ch/eli/cc/1948/334_326_441); Statuto dell’Organizzazione delle Nazioni Unite per l’Alimentazione e l’Agricoltura (FAO), del 16 ott. 1945.
+[^annexII-lvlu1-2]: Statuto dell’Organizzazione delle Nazioni Unite per l’Alimentazione e l’Agricoltura (FAO), del 16 ott. 1945 ([RS 0.910.5](https://fedlex.data.admin.ch/eli/cc/1948/334_326_441)).
 
 Allegato III
 
-## Organizzazione dell’aviazione civile internazionale****
+## Organizzazione dell’aviazione civile internazionale
 
 [^annexIII-lvlu1-1]
 
@@ -433,11 +429,11 @@ All’Organizzazione dell’aviazione civile internazionale[^annexIII-lvlu1-2] (
 - ii) Il principio enunciato nell’ultima frase della sezione 12 delle clausole standard è applicabile relativamente alle disposizioni della lettera d) del paragrafo 2. i).
 - iii) I privilegi e le immunità sono concessi agli esperti nell’interesse dell’Organizzazione e non a loro vantaggio personale. L’Organizzazione può e deve revocare l’immunità concessa a un esperto in tutti i casi in cui ritenga che essa ostacoli l’azione della giustizia e qualora possa essere revocata senza pregiudicare gli interessi dell’Organizzazione.
 
-[^annexIII-lvlu1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381);Conv. relativa all’aviazione civile internazionale, del 7 dic. 1944.
+[^annexIII-lvlu1-2]: Conv. relativa all’aviazione civile internazionale, del 7 dic. 1944 ([RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)).
 
 Allegato IV
 
-## Organizzazione delle Nazioni Unite per l’educazione, le scienze e la cultura****
+## Organizzazione delle Nazioni Unite per l’educazione, le scienze e la cultura
 
 [^annexIV-lvlu1-1]
 
@@ -459,11 +455,11 @@ All’Organizzazione delle Nazioni Unite per l’educazione, le scienze e la cul
 
 - ii) I privilegi e le immunità sono concessi ai periti nell’interesse dell’Organizzazione e non a loro vantaggio personale. L’Organizzazione può e deve revocare l’immunità concessa a un esperto in tutti i casi in cui ritenga che ostacoli l’azione della giustizia e qualora possa essere revocata senza pregiudicare gli interessi dell’Organizzazione.
 
-[^annexIV-lvlu1-2]: [RS 0.401](https://fedlex.data.admin.ch/eli/cc/1949/334_334_338); Cost. dell’Organizzazione delle Nazioni Unite per l’educazione, le scienze e la cultura, del 16 nov. 1945.
+[^annexIV-lvlu1-2]: Cost. dell’Organizzazione delle Nazioni Unite per l’educazione, le scienze e la cultura, del 16 nov. 1945 ([RS 0.401](https://fedlex.data.admin.ch/eli/cc/1949/334_334_338)).
 
 Allegato V
 
-## Fondo monetario internazionale****
+## Fondo monetario internazionale
 
 [^annexV-lvlu1-1]
 
@@ -475,11 +471,11 @@ La Convenzione (incluso il presente allegato) è applicata al Fondo monetario in
 
 \2. Le disposizioni della Convenzione (incluse quelle del presente allegato) non apportano né richiedono alcuna modifica o emendamento dell’atto costitutivo del Fondo, e non pregiudicano né limitano alcun diritto, immunità, privilegio o esenzione concessi al Fondo o a uno dei suoi membri, governatori, amministratori, supplenti, funzionari dirigenti o dipendenti dall’atto costitutivo del Fondo o da un statuto, legge o regolamento di un qualsiasi membro del Fondo o di uno schieramento politico di detto membro, o da qualsiasi altra disposizione.
 
-[^annexV-lvlu1-2]: [RS 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571); Statuto del Fondo monetario internazionale, del 22 lug. 1944.
+[^annexV-lvlu1-2]: Statuto del Fondo monetario internazionale, del 22 lug. 1944 ([RS 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)).
 
 Allegato VI
 
-## Banca Internazionale per la Ricostruzione e lo Sviluppo****
+## Banca Internazionale per la Ricostruzione e lo Sviluppo
 
 [^annexVI-lvlu1-1]
 
@@ -495,11 +491,11 @@ La Convenzione (incluso il presente allegato) è applicata alla Banca Internazio
 
 \3. Le disposizioni della Convenzione (incluse quelle del presente allegato) non apportano né richiedono alcuna modifica o emendamento dell’atto costitutivo della Banca e non pregiudicano né limitano alcun diritto, immunità, privilegio o esenzione concesso alla Banca o a uno dei suoi membri, governatori, amministratori, supplenti, funzionari dirigenti o dipendenti dall’atto costitutivo della Banca o da uno statuto, legge o regolamento di un qualsiasi membro della Banca o di uno schieramento politico di detto membro, o da qualsiasi altra disposizione.
 
-[^annexVI-lvlu1-2]: [RS 0.979.2](https://fedlex.data.admin.ch/eli/cc/1992/2646_2646_2646); Statuto della Banca Internazionale per la Ricostruzione e lo Sviluppo, del 22 lug. 1944.
+[^annexVI-lvlu1-2]: Statuto della Banca Internazionale per la Ricostruzione e lo Sviluppo, del 22 lug. 1944 ([RS 0.979.2](https://fedlex.data.admin.ch/eli/cc/1992/2646_2646_2646)).
 
 Allegato VII
 
-## Organizzazione mondiale della Sanità****
+## Organizzazione mondiale della Sanità
 
 [^annexVII-lvlu1-1]
 
@@ -526,11 +522,11 @@ All’Organizzazione mondiale della Sanità[^annexVII-lvlu1-2] (di seguito denom
 
 \4. Il beneficio dei privilegi, delle immunità, delle esenzioni e delle agevolazioni citati alla sezione 21 delle clausole standard è inoltre concesso a tutti i direttori generali aggiunti, vicedirettori generali e direttori regionali dell’Organizzazione.
 
-[^annexVII-lvlu1-2]: [RS 0.810.1](https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976); Cost. dell’Organizzazione mondiale della Sanità, del 22 lug. 1946 .
+[^annexVII-lvlu1-2]: Cost. dell’Organizzazione mondiale della Sanità, del 22 lug. 1946 ([RS 0.810.1](https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976)).
 
 Allegato VIII
 
-## Unione postale universale****
+## Unione postale universale
 
 [^annexVIII-lvlu1-1]
 
@@ -538,11 +534,11 @@ Allegato VIII
 
 Le clausole standard si applicano senza alcuna modifica[^annexVIII-lvlu1-2].
 
-[^annexVIII-lvlu1-2]: [RS 0.783.51](https://fedlex.data.admin.ch/eli/cc/1966/167_167_167); Cost. dell’Unione postale universale, del 10 lug. 1964.
+[^annexVIII-lvlu1-2]: Cost. dell’Unione postale universale, del 10 lug. 1964 ([RS 0.783.51](https://fedlex.data.admin.ch/eli/cc/1966/167_167_167)).
 
 Allegato IX
 
-## Unione internazionale delle telecomunicazioni****
+## Unione internazionale delle telecomunicazioni
 
 [^annexIX-lvlu1-1]
 
@@ -550,11 +546,11 @@ Allegato IX
 
 Le clausole standard sono applicate senza alcuna modifica, salvo che l’Unione internazionale delle telecomunicazioni[^annexIX-lvlu1-2] richieda di beneficiare del trattamento privilegiato previsto nella sezione 11 dell’articolo IV per le «Agevolazioni di comunicazione».
 
-[^annexIX-lvlu1-2]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255); Cost. dell’Unione internazionale delle telecomunicazioni, del 22 dic. 1992.
+[^annexIX-lvlu1-2]: Cost. dell’Unione internazionale delle telecomunicazioni, del 22 dic. 1992 ([RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)).
 
 Allegato X
 
-## Organizzazione internazionale per i rifugiati****
+## Organizzazione internazionale per i rifugiati
 
 [^annexX-lvlu1-1]
 
@@ -562,7 +558,7 @@ Allegato X
 
 Allegato XI
 
-## Organizzazione meteorologica mondiale****
+## Organizzazione meteorologica mondiale
 
 [^annexXI-lvlu1-1]
 
@@ -570,11 +566,11 @@ Allegato XI
 
 Le clausole standard si applicano senza alcuna modifica[^annexXI-lvlu1-2].
 
-[^annexXI-lvlu1-2]: [RS 0.429.01](https://fedlex.data.admin.ch/eli/cc/1952/222_222_226); Conv. per l’Organizzazione meteorologica mondiale, dell’11 ott. 1947.
+[^annexXI-lvlu1-2]: Conv. per l’Organizzazione meteorologica mondiale, dell’11 ott. 1947 ([RS 0.429.01](https://fedlex.data.admin.ch/eli/cc/1952/222_222_226)).
 
 Allegato XII
 
-## Organizzazione marittima internazionale****
+## Organizzazione marittima internazionale
 
 [^annexXII-lvlu1-1]
 
@@ -595,11 +591,11 @@ Allegato XII
 - Il principio enunciato nell’ultima frase della sezione 12 delle clausole standard è applicabile alle disposizioni previste ai punti iv) e v) .
 - b) I privilegi e le immunità sono concessi agli esperti nell’interesse dell’Organizzazione e non a loro vantaggio personale. L’Organizzazione può e deve revocare l’immunità concessa a un esperto in tutti i casi in cui ritenga che essa ostacoli l’azione della giustizia e qualora possa essere revocata senza pregiudicare gli interessi dell’Organizzazione.
 
-[^annexXII-lvlu1-2]: [RS 0.747.305.91](https://fedlex.data.admin.ch/eli/cc/1958/983_1025_1031); Conv. istitutiva dell’Organizzazione marittima internazionale,del 6 mar. 1948.
+[^annexXII-lvlu1-2]: Conv. istitutiva dell’Organizzazione marittima internazionale,del 6 mar. 1948 ([RS 0.747.305.91](https://fedlex.data.admin.ch/eli/cc/1958/983_1025_1031)).
 
 Allegato XIII
 
-## Società finanziaria internazionale****
+## Società finanziaria internazionale
 
 [^annexXIII-lvlu1-1]
 
@@ -619,11 +615,11 @@ La Convenzione (incluso il presente allegato) è applicata alla Società finanzi
 
 \5. Le disposizioni della Convenzione, incluse quelle del presente allegato, non apportano né richiedono alcuna modifica o emendamento dello statuto della Società, e non pregiudicano né limitano alcun diritto, immunità, privilegio o eccezione concesso alla Società o a uno dei suoi membri, governatori, amministratori, supplenti, funzionari o dipendenti dallo statuto della Società o da un statuto, legge o regolamento di un qualsiasi membro della Società o di uno schieramento politico di detto membro, o da qualsiasi altra disposizione.
 
-[^annexXIII-lvlu1-2]: [RS 0.979.4](https://fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707); Statuto della Società finanziaria internazionale, del 25 mag. 1955.
+[^annexXIII-lvlu1-2]: Statuto della Società finanziaria internazionale, del 25 mag. 1955 ([RS 0.979.4](https://fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707)).
 
 Allegato XIV
 
-## Associazione Internazionale di sviluppo****
+## Associazione Internazionale di sviluppo
 
 [^annexXIV-lvlu1-1]
 
@@ -639,11 +635,11 @@ La Convenzione (incluso il presente allegato) è applicata all’Associazione In
 
 \3. Le disposizioni della Convenzione (incluse quelle del presente allegato) non apportano né richiedono alcuna modifica o emendamento dell’atto costitutivo dell’Associazione, e non pregiudicano né limitano alcun diritto, immunità, privilegio o esenzione concesso all’Associazione o a uno dei suoi membri, governatori, amministratori, supplenti, funzionari dirigenti o dipendenti dall’atto costitutivo dell’Associazione o da un statuto, legge o regolamento di un qualsiasi membro dell’Associazione o di uno schieramento politico di detto membro, o da qualsiasi altra disposizione.
 
-[^annexXIV-lvlu1-2]: [RS 0.979.3](https://fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680); Statuto dell’Associazione Internazionale di Sviluppo, del 26 gen. 1960.
+[^annexXIV-lvlu1-2]: Statuto dell’Associazione Internazionale di Sviluppo, del 26 gen. 1960 ([RS 0.979.3](https://fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680)).
 
 Allegato XV
 
-## Organizzazione Mondiale della Proprietà Intellettuale****
+## Organizzazione Mondiale della Proprietà Intellettuale
 
 [^annexXV-lvlu1-1]
 
@@ -666,11 +662,11 @@ All’Organizzazione Mondiale della Proprietà Intellettuale[^annexXV-lvlu1-2] (
 - Il principio enunciato nell’ultima frase della sezione 12 delle clausole standard è applicabile alle disposizioni previste ai punti iv) e v).
 - b) I privilegi e le immunità sono concessi agli esperti di cui alla lettera a) nell’interesse dell’Organizzazione e non a loro vantaggio personale. L’Organizzazione può e deve revocare l’immunità concessa a un esperto in tutti i casi in cui ritenga che essa ostacoli l’azione della giustizia e qualora possa essere revocata senza pregiudicare gli interessi dell’Organizzazione.
 
-[^annexXV-lvlu1-2]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603); Conv. istitutiva dell’Organizzazione Mondiale della Proprietà Intellettuale, del 14 lug. 1967.
+[^annexXV-lvlu1-2]: Conv. istitutiva dell’Organizzazione Mondiale della Proprietà Intellettuale, del 14 lug. 1967 ([RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)).
 
 Allegato XVI
 
-## Fondo internazionale di sviluppo agricolo****
+## Fondo internazionale di sviluppo agricolo
 
 [^annexXVI-lvlu1-1]
 
@@ -692,11 +688,11 @@ Per quanto concerne il Fondo internazionale di sviluppo agricolo[^annexXVI-lvlu1
 - b) Relativamente alle disposizioni della lettera a) del paragrafo 2. i), è applicabile il principio contenuto nell’ultima frase della sezione 12 delle clausole standard.
 - c) I privilegi e le immunità sono concessi agli esperti nell’interesse del Fondo e non a loro vantaggio personale. Il Fondo ha il diritto e il dovere di revocare l’immunità concessa a un esperto in tutti i casi in cui ritenga che essa ostacoli l’azione della giustizia e qualora possa essere revocata senza pregiudicare gli interessi del Fondo.
 
-[^annexXVI-lvlu1-2]: [RS 0.972.0](https://fedlex.data.admin.ch/eli/cc/1978/840_840_840); Acc. per l’istituzione di un Fondo internazionale di sviluppo agricolo, del 13 giu. 1976.
+[^annexXVI-lvlu1-2]: Acc. per l’istituzione di un Fondo internazionale di sviluppo agricolo, del 13 giu. 1976 ([RS 0.972.0](https://fedlex.data.admin.ch/eli/cc/1978/840_840_840)).
 
 Allegato XVII
 
-## Organizzazione delle Nazioni Unite per lo sviluppo industriale****
+## Organizzazione delle Nazioni Unite per lo sviluppo industriale
 
 [^annexXVII-lvlu1-1]
 
@@ -719,11 +715,11 @@ All’Organizzazione delle Nazioni Unite per lo sviluppo industriale[^annexXVII-
 
 \2. I privilegi, le immunità, le esenzioni e le agevolazioni citati alla sezione 21 delle clausole standard sono inoltre concessi a tutti i direttori generali aggiunti dell’Organizzazione.
 
-[^annexXVII-lvlu1-2]: [RS 0.974.11](https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287); Atto costitutivo dell’Organizzazione delle Nazioni Unite per lo sviluppo industriale, dell’8 apr. 1979.
+[^annexXVII-lvlu1-2]: Atto costitutivo dell’Organizzazione delle Nazioni Unite per lo sviluppo industriale, dell’8 apr. 1979 ([RS 0.974.11](https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287)).
 
 Allegato XVIII
 
-## Organizzazione mondiale del turismo****
+## Organizzazione mondiale del turismo
 
 [^annexXVIII-lvlu1-1]
 
@@ -753,9 +749,9 @@ All’Organizzazione mondiale del turismo[^annexXVIII-lvlu1-2] (di seguito denom
 
 \6. Al Segretario generale aggiunto dell’Organizzazione, al suo coniuge e ai suoi figli minorenni sono concessi i privilegi, le immunità, le esenzioni e le agevolazioni di cui alla sezione 21 delle clausole standard.
 
-[^annexXVIII-lvlu1-2]: [RS 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95); Statuti dell’Organizzazione mondiale del turismo (OMT), del 27 set. 1970
+[^annexXVIII-lvlu1-2]: Statuti dell’Organizzazione mondiale del turismo (OMT), del 27 set. 1970 ([RS 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95)).
 
-Campo d’applicazione il 22 settembre 2021**[^t-1]**
+Campo d’applicazione il 4 marzo 2025[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -764,6 +760,7 @@ Campo d’applicazione il 22 settembre 2021**[^t-1]**
 <tr><td>Angola</td><td>9 maggio</td><td>2012 A</td><td>9 maggio</td><td>2012</td></tr>
 <tr><td>Antigua e Barbuda</td><td>14 dicembre</td><td>1988 S</td><td>1° novembre</td><td>1981</td></tr>
 <tr><td>Argentina</td><td>10 ottobre</td><td>1963 A</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Armenia\*</td><td>16 maggio</td><td>2022</td><td>16 maggio</td><td>2022</td></tr>
 <tr><td>Australia</td><td>9 maggio</td><td>1986 A</td><td>9 maggio</td><td>1986</td></tr>
 <tr><td>Austria</td><td>21 luglio</td><td>1950 A</td><td>21 luglio</td><td>1950</td></tr>
 <tr><td>Bahama</td><td>17 marzo</td><td>1977 S</td><td>10 luglio</td><td>1973</td></tr>
@@ -851,6 +848,7 @@ Campo d’applicazione il 22 settembre 2021**[^t-1]**
 <tr><td>Norvegia\*</td><td>25 gennaio</td><td>1950 A</td><td>25 gennaio</td><td>1950</td></tr>
 <tr><td>Nuova Zelanda\*</td><td>25 novembre</td><td>1960 A</td><td>25 novembre</td><td>1960</td></tr>
 <tr><td>Tokelau</td><td>25 novembre</td><td>1960 A</td><td>25 novembre</td><td>1960</td></tr>
+<tr><td>Oman\*</td><td>19 ottobre</td><td>2023 A</td><td>19 ottobre</td><td>2023</td></tr>
 <tr><td>Paesi Bassi\*\*</td><td>2 dicembre</td><td>1948 A</td><td>2 dicembre</td><td>1948</td></tr>
 <tr><td>Pakistan\*</td><td>23 luglio</td><td>1951 A</td><td>23 luglio</td><td>1951</td></tr>
 <tr><td>Palestina</td><td>29 marzo</td><td>2018 A</td><td>29 marzo</td><td>2018</td></tr>
@@ -889,10 +887,10 @@ Campo d’applicazione il 22 settembre 2021**[^t-1]**
 <tr><td>Vanuatu</td><td>2 gennaio</td><td>2008 A</td><td>2 gennaio</td><td>2008</td></tr>
 <tr><td>Zambia</td><td>16 giugno</td><td>1975 S</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>5 marzo</td><td>1991 A</td><td>5 marzo</td><td>1991</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto la dichiarazione della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): http://treaties.un.org oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-1]: [RU 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-1]: [RU 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574); [2025 154](https://fedlex.data.admin.ch/eli/oc/2025/154). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazione
 
