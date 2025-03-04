@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: Verordnung vom 19. März 2002 über Massnahmen gegenüber Simbabwe
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: de
-version: 2022-01-01
+version: 2025-03-05
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-154-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250305/de/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250305-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250305/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Simbabwe
 
-vom 19. März 2002 (Stand am 1. Januar 2022)
+vom 19. März 2002 (Stand am 5. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -151,8 +151,7 @@ Anhang 1[^t-1]
   Explosivstoffe und dazugehörige Ausrüstung, die nicht von Anhang 1 KMV und nicht von Anhang 3 GKV erfasst werden, wie folgt:
 
   - 3\.1 Geräte und Ausrüstung, besonders konstruiert zum Auslösen von Explosionen durch elektrische oder nichtelektrische Mittel, einschliesslich Zündvorrichtungen, Sprengkapseln, Zündern, Zündverstärkern, Sprengschnüren, sowie besonders konstruierte Bestandteile hierfür.
-
-- Ausgenommen sind Geräte und Ausrüstung, die in industriellen Produkten zur Anwendung kommen, zum Beispiel Anzünder für Airbags.
+  - Ausgenommen sind Geräte und Ausrüstung, die in industriellen Produkten zur Anwendung kommen, zum Beispiel Anzünder für Airbags.
   - 3\.2
 
     Andere Explosivstoffe und dazugehörige Stoffe wie folgt:
@@ -208,7 +207,7 @@ Anhang 1[^t-1]
 - 15 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
 
 [^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse des SECO: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse des SECO: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 [^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
 
 Anhang 2[^t-2]
@@ -217,4 +216,7 @@ Anhang 2[^t-2]
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie juristische Personen, gegen die sich die Finanzsanktionen richten
 
-[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [757](https://fedlex.data.admin.ch/eli/oc/2013/149), [1219](https://fedlex.data.admin.ch/eli/oc/2013/263), [3283](https://fedlex.data.admin.ch/eli/oc/2013/631); [2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137); [2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131); [2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150); [2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex2-lvlu1-1]
+
+[^t-2]: Bereinigt gemäss Ziff. I 4 der V vom vom 19. Dez. 2012 über die Änderung der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 27. Febr. 2013 ([AS 2013 757](https://fedlex.data.admin.ch/eli/oc/2013/149)), vom 17. April 2013 ([AS 2013 1219](https://fedlex.data.admin.ch/eli/oc/2013/263)), vom 8. Okt. 2013 ([AS 2013 3283](https://fedlex.data.admin.ch/eli/oc/2013/631)), vom 10. März 2014 ([AS 2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137)), vom 26. Febr. 2018 ([AS 2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131)), vom 6. März 2019 ([AS 2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150)), vom 2. März 2020 ([AS 2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)) und vom 3. März 2025, in Kraft seit 5. März 2025 ([AS 2025 141](https://fedlex.data.admin.ch/eli/oc/2025/141)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/141](https://fedlex.data.admin.ch/eli/oc/2025/141) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: Ordinanza del 19 marzo 2002 che istituisce provvedimenti nei confronti dello Zimbabwe
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: it
-version: 2022-01-01
+version: 2025-03-05
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-154-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250305/it/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250305-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250305/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti dello Zimbabwe
 
-del 19 marzo 2002 (Stato 1° gennaio 2022)
+del 19 marzo 2002 (Stato 5 marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -23,7 +23,7 @@ visto l’articolo 2 della legge federale del 22 marzo 2002[^ingress-1] sull’a
 ordina:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
 #### Art. 1
 
@@ -89,7 +89,7 @@ Nella presente ordinanza s’intende per:
 
 <sup>2</sup> Il controllo al confine compete all’Ufficio federale della dogana e della sicurezza dei confini[^5a-2].
 
-[^5a-1]: Introdotto dal n. I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 [^5a-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
@@ -104,7 +104,7 @@ Nella presente ordinanza s’intende per:
 
 <sup>4</sup> Sono fatti salvi gli articoli 11 e 14 capoverso 2 della legge sugli embarghi.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
 #### Art. 7
 
@@ -112,13 +112,13 @@ Nella presente ordinanza s’intende per:
 
 Il contenuto dell’allegato 2 non è pubblicato né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
-[^7-1]: Nuovo testo giusta il n. I 4 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
+[^7-1]: Nuovo testo giusta la cifra I 4 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
 #### Art. 8 a 10
 
 [^810-1]
 
-[^810-1]: Abrogati dal n. I dell’O del 30 ott. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^810-1]: Abrogati dalla cifra I dell’O del 30 ott. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
 #### Art. 11
 
@@ -126,7 +126,7 @@ Il contenuto dell’allegato 2 non è pubblicato né nella Raccolta ufficiale de
 
 La presente ordinanza entra in vigore il 20 marzo 2002.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
 Allegato 1[^t-1]
 
@@ -134,7 +134,7 @@ Allegato 1[^t-1]
 
 ## Beni che possono essere utilizzati per la repressione interna
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 1° apr. 2009, in vigore dal 15 apr. 2009 ([RU 2009 1523](https://fedlex.data.admin.ch/eli/oc/2009/222)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 1° apr. 2009, in vigore dal 15 apr. 2009 ([RU 2009 1523](https://fedlex.data.admin.ch/eli/oc/2009/222)).
 
 - 1 Bombe e bombe a mano non menzionate nell’allegato 1 dell’ordinanza del 25 febbraio 1998[^annex1-lvlu1-1] sul materiale bellico (OMB) e nell’allegato 3 dell’ordinanza del 3 giugno 2016[^annex1-lvlu1-2] sul controllo dei beni a duplice impiego (OBDI)[^annex1-lvlu1-3].
 - 2
@@ -220,4 +220,7 @@ Allegato 2[^t-2]
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito nonché persone giuridiche soggette alle sanzioni finanziarie
 
-[^t-2]: Non pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[757](https://fedlex.data.admin.ch/eli/oc/2013/149)[1219](https://fedlex.data.admin.ch/eli/oc/2013/263)[3283](https://fedlex.data.admin.ch/eli/oc/2013/631), [2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137), [2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131), [2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150)e [2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^annex2-lvlu1-1]
+
+[^t-2]: Aggiornato dalla cifra I n. 4 dell’O del 19 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le cifre I delle O del DEFR del 27 feb. 2013 ([RU 2013 757](https://fedlex.data.admin.ch/eli/oc/2013/149)), del 17 apr. 2013 ([RU 2013 1219](https://fedlex.data.admin.ch/eli/oc/2013/263)), dell’8 oct. 2013 ([RU 2013 3283](https://fedlex.data.admin.ch/eli/oc/2013/631)), del 10 mar. 2014 ([RU 2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137)), del 26 feb. 2018 ([RU 2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131)), del 6 mar. 2019 ([RU 2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150)), del 2 mar. 2020 ([RU 2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)) e del 3 mar. 2025, in vigore dal 5 mar. 2025 ([RU 2025 141](https://fedlex.data.admin.ch/eli/oc/2025/141)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/141](https://fedlex.data.admin.ch/eli/oc/2025/141) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

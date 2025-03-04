@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: "Ordonnance du 19 mars 2002 instituant des mesures à l'encontre du Zimbabwe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: fr
-version: 2022-01-01
+version: 2025-03-05
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-154-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250305/fr/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250305-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250305/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Zimbabwe
 
-du 19 mars 2002 (État le 1<sup>er</sup> janvier 2022)
+du 19 mars 2002 (État le 5 mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -216,4 +216,7 @@ Annexe 2[^t-2]
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et personnes morales visées par les sanctions financières
 
-[^t-2]: Non publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[757](https://fedlex.data.admin.ch/eli/oc/2013/149)[1219](https://fedlex.data.admin.ch/eli/oc/2013/263)[3283](https://fedlex.data.admin.ch/eli/oc/2013/631), [2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137), [2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131), [2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150), [2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
+[^annex2-lvlu1-1]
+
+[^t-2]: Mise à jour par le ch. I 4 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I des O du DEFR du 27 fév. 2013 ([RO 2013 757](https://fedlex.data.admin.ch/eli/oc/2013/149)), du 17 avr. 2013 ([RO 2013 1219](https://fedlex.data.admin.ch/eli/oc/2013/263)), du 8 oct. 2013 ([RO 2013 3283](https://fedlex.data.admin.ch/eli/oc/2013/631)), du 10 mars 2014 ([RO 2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137)), du 26 fév. 2018 ([RO 2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131)), du 6 mars 2019 ([RO 2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150)), du 2 mars 2020 ([RO 2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)) et du 3 mars 2025, en vigueur depuis le 5 mars 2025 ([RO 2025 141](https://fedlex.data.admin.ch/eli/oc/2025/141)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/141](https://fedlex.data.admin.ch/eli/oc/2025/141) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
