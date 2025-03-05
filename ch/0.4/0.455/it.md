@@ -3,11 +3,11 @@ sr: "0.455"
 title: Convenzione del 19 settembre 1979 per la conservazione della vita selvatica e dei suoi biotopi in Europa (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/802_802_802"
 language: it
-version: 2023-07-03
+version: 2025-03-06
 adopted: 1979-09-19
 in_force: 1982-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20230703/it/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20230703-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20230703/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20250306/it/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20250306-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20250306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Berna il 19 settembre 1979 Approvata dall’Assemblea federale l’11 dicembre 1980[^t-1] Istrumenti di ratificazione depositati dalla Svizzera il 12 marzo 1981 Entrata in vigore per la Svizzera il 1° giugno 1982
 
-(Stato 3 luglio 2023)
+(Stato 6 marzo 2025)
 
 [^t-1]: Art. 1 cpv. 1 del DF dell’11 dic. 1980 ([RU 1982 801](https://fedlex.data.admin.ch/eli/oc/1982/801_801_801)).
 
@@ -1564,7 +1564,7 @@ Allegato II[^t-4]
 
 ## Specie faunistiche assolutamente protette
 
-[^t-4]: Nuovo testo giusta l’emendamento del 1° dic. 2001 ([RU 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Aggiornato dall’emendamento adottato l’8 dic. 2017, in vigore dall’8 mar. 2018 ([RU 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)).
+[^t-4]: Nuovo testo giusta l’emendamento del 1° dic. 2001 ([RU 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Aggiornato dagli emendamenti adottati l’8 dic. 2017 ([RU 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)) e il 6 dic. 2024, in vigore dal 6 mar. 2025 ([RU 2025 297](https://fedlex.data.admin.ch/eli/oc/2025/297)).
 
 ### Vertebrati
 
@@ -1616,7 +1616,6 @@ Allegato II[^t-4]
 
 - [tab] Canidae
 - [tab] *Alopex lagopus*
-- [tab] *Canis lupus*
 - [tab] *Cuon alpinus*
 - [tab] Ursidae
 - [tab] *tutte le specie*
@@ -2434,7 +2433,7 @@ Allegato III[^t-5]
 
 ## Specie faunistiche protette
 
-[^t-5]: Nuovo testo giusta l’emendamento del 5 dic. 1997, in vigore dal 6 mar. 1998 ([RU 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)).
+[^t-5]: Nuovo testo giusta l’emendamento del 5 dic. 1997, in vigore dal 6 mar. 1998 ([RU 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Aggiornato dall’emendamento del 6 dic. 2024, in vigore dal 6 mar. 2025 ([RU 2025 297](https://fedlex.data.admin.ch/eli/oc/2025/297)).
 
 ### Vertebrati
 
@@ -2478,6 +2477,8 @@ Allegato III[^t-5]
 
 ### Carnivora
 
+- [tab] Canidae
+- [tab] *Canis lupus*
 - [tab] Mustelidae
 - [tab] *Meles meles*
 - [tab] *Mustela erminea*

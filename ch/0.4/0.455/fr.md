@@ -3,11 +3,11 @@ sr: "0.455"
 title: "Convention du 19 septembre 1979 relative à la conservation de la vie sauvage et du milieu naturel de l'Europe (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/802_802_802"
 language: fr
-version: 2023-07-03
+version: 2025-03-06
 adopted: 1979-09-19
 in_force: 1982-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20230703/fr/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20230703-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20230703/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20250306/fr/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20250306-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20250306/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 mars 1981
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 1982
 
-(État le 3 juillet 2023)
+(État le 6 mars 2025)
 
 [^t-1]: [RO 1982 801](https://fedlex.data.admin.ch/eli/oc/1982/801_801_801)
 
@@ -1569,7 +1569,7 @@ Annexe II[^t-4]
 
 ## Espèces de faune strictement protégées
 
-[^t-4]: Nouvelle teneur selon la mod. adoptée le 1<sup>er</sup> déc. 2001 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Mise à jour par la mod. adoptée le 8 déc. 2017, en vigueur depuis le 8 mars 2018 ([RO 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)).
+[^t-4]: Nouvelle teneur selon la mod. adoptée le 1<sup>er</sup> déc. 2001 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Mise à jour par les mod. adoptées le 8 déc. 2017 ([RO 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)) et le 6 déc. 2024, en vigueur depuis le 6 mars 2025 ([RO 2025 297](https://fedlex.data.admin.ch/eli/oc/2025/297)).
 
 ### Vertébrés
 
@@ -1621,7 +1621,6 @@ Annexe II[^t-4]
 
 - [tab] Canidae
 - [tab] *Alopex lagopus*
-- [tab] *Canis lupus*
 - [tab] *Cuon alpinus*
 - [tab] Ursidae
 - [tab] *toutes les espèces*
@@ -2441,7 +2440,7 @@ Annexe III[^t-5]
 
 ## Espèces de faune protégées
 
-[^t-5]: Nouvelle teneur selon la mod. adoptée le 5 déc. 1997, en vigueur depuis le 6 mars 1998 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)).
+[^t-5]: Nouvelle teneur selon la mod. adoptée le 5 déc. 1997 ([RO 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Mise à jour par la mod. adoptée le 6 déc. 2024, en vigueur depuis le 6 mars 2025 ([RO 2025 297](https://fedlex.data.admin.ch/eli/oc/2025/297)).
 
 ### Vertébrés
 
@@ -2485,6 +2484,8 @@ Annexe III[^t-5]
 
 ### Carnivora
 
+- [tab] Canidae
+- [tab] *Canis lupus*
 - [tab] Mustelidae
 - [tab] *Meles meles*
 - [tab] *Mustela erminea*

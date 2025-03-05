@@ -3,11 +3,11 @@ sr: "0.455"
 title: Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/802_802_802"
 language: de
-version: 2023-07-03
+version: 2025-03-06
 adopted: 1979-09-19
 in_force: 1982-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20230703/de/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20230703-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20230703/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/802_802_802/20250306/de/xml/fedlex-data-admin-ch-eli-cc-1982-802_802_802-20250306-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/802_802_802/20250306/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 802; BBl **1980** III 225
 
 Abgeschlossen in Bern am 19. September 1979 Von der Bundesversammlung genehmigt am 11. Dezember 1980[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. März 1981 In Kraft getreten für die Schweiz am 1. Juni 1982
 
-(Stand am 3. Juli 2023)
+(Stand am 6. März 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 11. Dez. 1980 ([AS 1982 801](https://fedlex.data.admin.ch/eli/oc/1982/801_801_801))
 
@@ -88,7 +88,7 @@ Jede Vertragspartei ergreift die geeigneten und erforderlichen gesetzgeberischen
 
 #### Art. 6
 
-Jede Vertragspartei ergreift die geeigneten und erforderlichen gesetzgeberischen und Verwaltungsmassnahmen, um den besonderen Schutz der in Anhang II aufgeführten wildlebenden Tierarten sicherzustellen. In bezug auf diese Arten ist insbesondere zu verbieten
+Jede Vertragspartei ergreift die geeigneten und erforderlichen gesetzgeberischen und Verwaltungsmassnahmen, um den besonderen Schutz der in Anhang II aufgeführten wildlebenden Tierarten sicherzustellen. In bezug auf diese Arten ist insbesondere zu verbieten:
 
 - a. jede Form des absichtlichen Fangens, des Haltens und des absichtlichen Tötens;
 - b. das mutwillige Beschädigen oder Zerstören von Brut- oder Raststätten;
@@ -102,7 +102,9 @@ Jede Vertragspartei ergreift die geeigneten und erforderlichen gesetzgeberischen
 
 <sup>2.</sup> Jegliche Nutzung der in Anhang III aufgeführten wildlebenden Tiere wird so geregelt, dass die Populationen in ihrem Bestand nicht gefährdet werden, wobei Artikel 2 Rechnung zu tragen ist.
 
-<sup>3.</sup> Diese Massnahmen umfassen unter anderem
+<sup>3.</sup>
+
+Diese Massnahmen umfassen unter anderem:
 
 - a. Schonzeiten und/oder andere Verfahren zur Regelung der Nutzung;
 - b. gegebenenfalls ein zeitweiliges oder örtlich begrenztes Nutzungsverbot zur Wiederherstellung eines zufriedenstellenden Populationsstandes;
@@ -284,15 +286,15 @@ Das Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifi
 
 Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europarats, jedem Unterzeichnerstaat, der Europäischen Wirtschaftsgemeinschaft, sofern sie Unterzeichner dieses Übereinkommens ist, und jeder Vertragspartei
 
-- a. jede Unterzeichnung,
-- b. jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde,
-- c. jeden Zeitpunkt des Inkrafttretens dieses Übereinkommens nach den Artikeln 19 und 20,
-- d. jede nach Artikel 13 Absatz 3 übermittelte Information,
-- e. jeden nach Artikel 15 ausgearbeiteten Bericht,
-- f. jede Änderung oder jeden neuen Anhang, die nach den Artikeln 16 und 17 beschlossen werden, und den Zeitpunkt, zu dem die Änderung oder der neue Anhang in Kraft tritt,
-- g. jede nach Artikel 21 Absätze 2 und 3 abgegebene Erklärung,
-- h. jeden nach Artikel 22 Absätze 1 und 2 gemachten Vorbehalt,
-- i. die Zurücknahme jedes Vorbehalts nach Artikel 22 Absatz 4,
+- a. jede Unterzeichnung;
+- b. jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde;
+- c. jeden Zeitpunkt des Inkrafttretens dieses Übereinkommens nach den Artikeln 19 und 20;
+- d. jede nach Artikel 13 Absatz 3 übermittelte Information;
+- e. jeden nach Artikel 15 ausgearbeiteten Bericht;
+- f. jede Änderung oder jeden neuen Anhang, die nach den Artikeln 16 und 17 beschlossen werden, und den Zeitpunkt, zu dem die Änderung oder der neue Anhang in Kraft tritt;
+- g. jede nach Artikel 21 Absätze 2 und 3 abgegebene Erklärung;
+- h. jeden nach Artikel 22 Absätze 1 und 2 gemachten Vorbehalt;
+- i. die Zurücknahme jedes Vorbehalts nach Artikel 22 Absatz 4;
 - j. jede nach Artikel 23 vorgenommene Notifikation und den Zeitpunkt, zu dem die Kündigung wirksam wird.
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Bern, am 19. September 1979, in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt jedem Mitgliedstaat des Europarats, jedem Unterzeichnerstaat, der Europäischen Wirtschaftsgemeinschaft, sofern sie Unterzeichner ist, sowie jedem Staat, der zur Unterzeichnung dieses Übereinkommens oder zum Beitritt zu diesem Übereinkommen eingeladen worden ist, beglaubigte Abschriften. (Es folgen die Unterschriften)
@@ -2059,7 +2061,7 @@ Anhang II[^t-4]
 
 ## Streng geschützte Tierarten
 
-[^t-4]: Fassung gemäss der Änd. vom 1. Dez. 2001 ([AS 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Bereinigt gemäss der Änd. vom 8. Dez. 2017, in Kraft seit 8. März 2018 ([AS 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)).
+[^t-4]: Fassung gemäss der Änd. vom 1. Dez. 2001 ([AS 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Bereinigt gemäss der Änd. vom 8. Dez. 2017 ([AS 2018 1749](https://fedlex.data.admin.ch/eli/oc/2018/256)) und vom 6. Dez. 2024, in Kraft seit 6. März 2025 ([AS 2025 297](https://fedlex.data.admin.ch/eli/oc/2025/297)).
 
 ### Wirbeltiere
 
@@ -2140,8 +2142,6 @@ Carnivora
 Canidae
 
 Alopex lagopus
-
-Canis lupus
 
 Cuon alpinus
 
@@ -3509,7 +3509,7 @@ Anhang III[^t-5]
 
 ## Geschützte Tierarten
 
-[^t-5]: Fassung gemäss der Änd. vom 5. Dez. 1997, in Kraft seit 6. März 1998 ([AS 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)).
+[^t-5]: Fassung gemäss der Änd. vom 5. Dez. 1997 ([AS 2008 3257](https://fedlex.data.admin.ch/eli/oc/2008/439)). Bereinigt gemäss der Änd. vom 6. Dez. 2024, in Kraft seit 6. März 2025 ([AS 2025 297](https://fedlex.data.admin.ch/eli/oc/2025/297)).
 
 ### Wirbeltiere
 
@@ -3568,6 +3568,10 @@ Microtus cabrerae
 alle nicht in Anhang II aufgeführten Arten
 
 ### Carnivora
+
+Canidae
+
+Canis lupus
 
 Mustelidae
 
