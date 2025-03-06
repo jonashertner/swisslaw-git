@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2024-12-10
+version: 2025-03-07
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20241210/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20241210-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20241210/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250307/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250307-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250307/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 10. Dezember 2024)
+vom 8. Juni 2012 (Stand am 7. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -103,93 +103,23 @@ Der Bewilligungspflicht unterliegen:
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 1. Juni 2018, in Kraft seit 1. Juni 2018 um 18.00 Uhr ([AS 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
 
-#### Art. 3
+#### Art. 3 und 4
 
-**Verbote betreffend Erdöl und Erdölprodukte**
+[^34-1]
 
-<sup>1</sup>
-
-Es ist verboten, Erdöl und Erdölprodukte nach Anhang 2:
-
-- a. einzuführen oder zu transportieren, falls sie ihren Ursprung in Syrien haben oder aus Syrien ausgeführt wurden;
-- b. zu kaufen, falls sie sich in Syrien befinden oder ihren Ursprung in Syrien haben.
-
-<sup>2</sup> Es ist verboten, im Zusammenhang mit den Tätigkeiten nach Absatz 1 direkt oder indirekt Finanzmittel oder finanzielle Unterstützung, einschliesslich Finanzderivate, sowie Versicherungen und Rückversicherungen bereitzustellen.
-
-<sup>3</sup>
-
-Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
-
-- a. den Kauf von Erdöl und Erdölprodukten, die vor dem 24. September 2011 aus Syrien ausgeführt wurden;
-- b.[^3-1]
-
-  den Kauf und den Transport von Erdölprodukten zur:
-
-  - 1\. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten,
-  - 2\. Ausübung amtlicher Tätigkeiten diplomatischer und konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^3-2]
-
-<sup>4</sup> Es ist verboten, syrischen Personen oder Organisationen, die an der Exploration, Förderung oder Raffination von Erdöl beteiligt sind, Darlehen oder Kredite zu gewähren. Ausgenommen sind Verträge, die vor dem 1. Oktober 2011 abgeschlossen wurden.
-
-<sup>5</sup> Es ist verboten, Beteiligungen an syrischen Personen oder Organisationen, die an der Exploration, Förderung oder Raffination von Erdöl beteiligt sind, zu erwerben oder auszuweiten und mit ihnen Jointventures zu gründen. Ausgenommen sind Verträge, die vor dem 1. Oktober 2011 abgeschlossen wurden.
-
-<sup>6</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA zur Erfüllung humanitärer Zwecke Ausnahmen von den Verboten nach den Absätzen 1, 2, 4 und 5 bewilligen.[^3-3]
-
-[^3-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 10. März 2017, in Kraft seit 10. März 2017 ([AS 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^3-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-
-#### Art. 4
-
-**Verbote betreffend Ausrüstung und Technologie zur Erschliessung und Förderung von Erdöl und Erdgas, zur Raffination von Erdöl und zur Verflüssigung von Erdgas**
-
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Ausrüstung und Technologie nach Anhang 3 an syrische Personen oder Organisationen oder zur Verwendung in Syrien sind verboten.
-
-<sup>2</sup> Es ist verboten, im Zusammenhang mit Tätigkeiten nach Absatz 1 technische Hilfe oder Vermittlungsdienste zu erbringen oder Finanzmittel bereitzustellen.
-
-<sup>3</sup> Zur Erfüllung bestehender Verträge oder humanitärer Zwecke kann das SECO nach Rücksprache mit den zuständigen Stellen des EDA Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen.[^4-1]
-
-[^4-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^34-1]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 4a
 
-**Verbote betreffend Flugturbinenkraftstoffe und Kraftstoffzusätze**[^4a-1]
+[^4a-1]
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Flugturbinenkraftstoffen und Kraftstoffzusätzen nach Anhang 10 an syrische Personen oder Organisationen oder zur Verwendung in Syrien sind verboten.
-
-<sup>2</sup> Es ist verboten, im Zusammenhang mit den Tätigkeiten nach Absatz 1 Vermittlungsdienste zu erbringen sowie direkt oder indirekt Finanzmittel oder finanzielle Unterstützung, einschliesslich Finanzderivate, sowie Versicherungen und Rückversicherungen bereitzustellen.
-
-<sup>3</sup>
-
-Die Verbote nach den Absätzen 1 und 2 gelten nicht für Erzeugnisse nach Anhang 10 Ziffern 1–8, die:
-
-- a. von nicht syrischen, in Syrien befindlichen zivilen Flugzeugen zum Weiterflug verwendet werden;
-- b. von syrischen Fluggesellschaften für Evakuierungen verwendet werden.
-
-<sup>4</sup> Zur Erfüllung humanitärer Zwecke oder für Evakuierungen kann das SECO nach Rücksprache mit den zuständigen Stellen des EDA für Erzeugnisse nach Anhang 10 Ziffern 1–8 Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen.
-
-[^4a-1]: Eingefügt durch Ziff. I der v vom 11. Febr. 2015, in Kraft seit 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^4a-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 5
 
-**Verbote betreffend die Stromerzeugung**
+[^5-1]
 
-<sup>1</sup> Es ist verboten, syrischen Personen oder Organisationen, die am Bau neuer Kraftwerke zur Stromerzeugung beteiligt sind, Darlehen oder Kredite zu gewähren oder technische Unterstützung und Finanzmittel für den Bau neuer Kraftwerke bereitzustellen.
-
-<sup>2</sup> Es ist verboten, Beteiligungen an syrischen Personen oder Organisationen, die am Bau neuer Kraftwerke zur Stromerzeugung beteiligt sind, zu erwerben oder auszuweiten und mit ihnen Jointventures zu gründen.
-
-<sup>3</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Ausrüstung und Technologie nach Anhang 4 zur Verwendung für den Bau von neuen Kraftwerken zur Stromerzeugung nach Syrien sind verboten.
-
-<sup>4</sup> Die Erbringung von technischer und finanzieller Hilfe sowie die Bereitstellung von Versicherungen und Rückversicherungen im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr und der Durchfuhr von Ausrüstung und Technologie nach Anhang 4 ist verboten.[^5-1]
-
-<sup>5</sup>
-
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA Ausnahmen bewilligen:
-
-- a. von den Verboten nach den Absätzen 2–4 zur Erfüllung bestehender Verträge;
-- b. von den Verboten nach den Absätzen 1–4 zur Erfüllung humanitärer Zwecke.[^5-2]
-
-[^5-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^5-1]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 6
 
@@ -205,9 +135,9 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA Ausnahmen b
 
 #### Art. 7
 
-**Verbote betreffend Banknoten und Münzen**
+[^7-1]
 
-Es ist verboten, auf die syrische Landeswährung lautende neue Banknoten und Münzen, die in der Schweiz gedruckt beziehungsweise geprägt wurden, der syrischen Zentralbank zu liefern, zu verkaufen oder ihr sonst wie zukommen zu lassen und in diesem Zusammenhang finanzielle oder technische Hilfe bereitzustellen.
+[^7-1]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 8
 
@@ -223,7 +153,11 @@ Es ist verboten:
 
 **Verbote der Lieferung von Luxusgütern**
 
-Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Luxusgütern nach Anhang 8 nach Syrien sind verboten.
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Luxusgütern nach Anhang 8 nach Syrien sind verboten.
+
+<sup>2</sup> Das Verbot nach Absatz 1 gilt nicht für Güter, die für den persönlichen Gebrauch von aus der Schweiz ausreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sofern die Güter sich im Eigentum der betreffenden Personen befinden.[^9-1]
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 9a
 
@@ -256,16 +190,18 @@ Das Verbot nach Absatz 1 gilt nicht, wenn nachgewiesen werden kann, dass:
 
 <sup>1</sup> Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle der natürlichen Personen, Unternehmen oder Organisationen nach Anhang 7 befinden, sind gesperrt.
 
-<sup>2</sup> Es ist verboten, den von der Sperrung betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.[^10-1]
+<sup>1bis</sup> Gelder und wirtschaftliche Ressourcen, die sich am 8. Juni 2012 im Eigentum oder unter der Kontrolle der Unternehmen oder Organisationen nach Anhang 7*a* sowie ausserhalb Syriens befanden, sind gesperrt.[^10-1]
+
+<sup>2</sup> Es ist verboten, natürlichen Personen, Unternehmen und Organisationen nach Absatz 1 Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.[^10-2]
 
 <sup>2bis</sup>
 
 Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die Bereitstellung von Geldern oder wirtschaftlichen Ressourcen erforderlich ist:
 
 - a. zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten; oder
-- b. zur Ausübung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^10-2]
+- b. zur Ausübung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^10-3]
 
-<sup>2ter</sup> Das SECO kann Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Syrien zu ermöglichen.[^10-3]
+<sup>2ter</sup> Das SECO kann Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Syrien zu ermöglichen.[^10-4]
 
 <sup>2quater</sup>
 
@@ -275,7 +211,7 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die 
 - b. internationale Organisationen;
 - c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
 - d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
-- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d und in Absatz 2<sup>bis</sup> genannten Organisationen, soweit sie in dieser Eigenschaft handeln.[^10-4]
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d und in Absatz 2<sup>bis</sup> genannten Organisationen, soweit sie in dieser Eigenschaft handeln.[^10-5]
 
 <sup>3</sup>
 
@@ -285,36 +221,32 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind; oder
 - d. Wahrung schweizerischer Interessen;
-- e.[^10-5]
+- e.[^10-6]
 
   finanziellen Unterstützung syrischer Staatsbürger, die nicht in Anhang 7 aufgeführt sind und die in der Schweiz:
 
   - 1\. eine allgemeine oder berufliche Ausbildung durchlaufen, oder
   - 2\. in der akademischen Forschung tätig sind;
 
-- f.[^10-6] Verwendung für humanitäre Zwecke;
-- g.[^10-7] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
-- h.[^10-8] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
+- f.[^10-7] Verwendung für humanitäre Zwecke;
+- g.[^10-8] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
+- h.[^10-9] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
 
-<sup>4</sup>
+<sup>4</sup> ... [^10-10]
 
-Das SECO kann die Freigabe von gesperrten Geldern und wirtschaftlichen Ressourcen der syrischen Zentralbank oder von gesperrten Geldern und wirtschaftlichen Ressourcen, die von der syrischen Zentralbank gehalten werden, oder die Bereitstellung von Geldern und wirtschaftlichen Ressourcen für die syrische Zentralbank ausnahmsweise bewilligen für:
+<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup> und 3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements.[^10-11]
 
-- a. die Versorgung von Kredit- und Finanzinstituten mit Liquidität für die Finanzierung von Handelsgeschäften;
-- b. die Bedienung von Handelskrediten;
-- c. die Erfüllung von Handelsverträgen, sofern die Zahlung nicht zu einer nach dieser Verordnung verbotenen Aktivität beiträgt.
-
-<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup>, 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).[^10-9]
-
-[^10-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-3]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 10. März 2023, in Kraft vom 10. März 2023 um 18.00 Uhr bis zum 11. Sept. 2023, verlängert bis zum 11. März 2024 und verlängert bis zum 12. Sept. 2024 ([AS 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)), ab 13. Sept. 2024 unbefristet in Kraft ([AS 2024 483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
-[^10-5]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-1]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-5]: Eingefügt durch Ziff. I der V vom 10. März 2023, in Kraft vom 10. März 2023 um 18.00 Uhr bis zum 11. Sept. 2023, verlängert bis zum 11. März 2024 und verlängert bis zum 12. Sept. 2024 ([AS 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)), ab 13. Sept. 2024 unbefristet in Kraft ([AS 2024 483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
+[^10-6]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-9]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-10]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-11]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 11
 
@@ -369,6 +301,26 @@ Syrischen Banken ist es verboten:
 - a. eine Vertretung zu eröffnen oder eine Zweigniederlassung oder Tochtergesellschaft zu gründen;
 - b. eine Beteiligung oder ein sonstiges Eigentumsrecht an einer Bank zu erwerben.
 
+<sup>3</sup>
+
+Die Verbote nach den Absätzen 1 und 2 gelten nicht:
+
+- a. für Tätigkeiten, einschliesslich Hilfstätigkeiten, die zum Zweck der Unterstützung der syrischen Bevölkerung im Hinblick auf die rasche Erbringung humanitärer Hilfe oder die Unterstützung anderer Tätigkeiten zur Deckung grundlegender menschlicher Bedürfnisse, die Bereitstellung grundlegender Dienstleistungen oder andere zivile Zwecke durchgeführt werden;
+- b. für Tätigkeiten, einschliesslich Hilfstätigkeiten, die zum Zweck der Unterstützung der syrischen Bevölkerung im Hinblick auf den Wiederaufbau, die Stabilisierung, die Wiederherstellung der Wirtschaftstätigkeit, den Aufbau von Institutionen, die Bereitstellung grundlegender Dienstleistungen oder andere zivile Zwecke durchgeführt werden;
+- c.
+
+  für Tätigkeiten, die in Verbindung mit Folgendem durchgeführt werden:
+
+  - 1\. Einfuhr von Rohöl oder Erdölprodukten aus Syrien, Kauf von Rohöl oder Erdölprodukten aus Syrien oder Transport von Rohöl oder Erdölprodukten aus Syrien,
+  - 2\. Beteiligung am Bau oder an der Einrichtung von neuen Kraftwerken zur Stromerzeugung in Syrien,
+  - 3\. Gründung eines Joint Ventures mit syrischen Personen, Organisationen oder Einrichtungen, die an der Exploration, Förderung oder Raffination von Rohöl oder dem Bau oder der Einrichtung von neuen Kraftwerken zur Stromerzeugung in Syrien beteiligt sind, Gewährung von Darlehen an diese Personen, Organisationen oder Einrichtungen oder Erwerb oder Ausweitung von Beteiligungen an diesen Personen, Organisationen oder Einrichtungen,
+  - 4\. Verkauf, Durchfuhr oder Ausfuhr von Flugturbinenkraftstoffen und Kraftstoffzusätzen an Personen in Syrien oder zur Verwendung in Syrien,
+  - 5\. Gewährung des Zugangs zu Schweizer Flughäfen für reine Frachtflüge, die von syrischen Luftverkehrsunternehmen durchgeführt werden,
+  - 6\. Ausfuhr von auf die syrische Landeswährung lautenden neuen Banknoten und Münzen an die syrische Zentralbank, und
+  - 7\. jegliche technische Hilfe, Vermittlungsdienste, Finanzmittel und finanzielle Unterstützung im Zusammenhang mit den Tätigkeiten nach den Ziffern 1–6.[^13-1]
+
+[^13-1]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+
 #### Art. 13a
 
 **Ausnahmen zu humanitären Zwecken**[^13a-1]
@@ -400,15 +352,9 @@ Es ist verboten, Versicherungen und Rückversicherungen abzuschliessen, zu verl�
 
 #### Art. 15
 
-**Verbote betreffend den Luftverkehr**[^15-1]
+[^15-1]
 
-<sup>1</sup> Schweizer Flughäfen sind für alle von der Syrian Arab Airlines durchgeführten Flüge gesperrt.
-
-<sup>2</sup> Sie sind zudem für alle von syrischen Luftverkehrsunternehmen durchgeführten Frachtflüge gesperrt, ausgenommen sind gemischte Passagier- und Frachtflüge.
-
-<sup>3</sup> Flüge zu humanitären Zwecken sind gestattet.
-
-[^15-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^15-1]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 16
 
@@ -417,11 +363,12 @@ Es ist verboten, Versicherungen und Rückversicherungen abzuschliessen, zu verl�
 Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde; dieses Verbot gilt für Forderungen:
 
 - a. der Regierung Syriens;
-- b. von in Anhang 7 aufgeführten Personen, Unternehmen und Organisationen;
+- b.[^16-2] von in den Anhängen 7 oder 7*a* aufgeführten natürlichen Personen, Unternehmen und Organisationen;
 - c. von natürlichen Personen, Unternehmen und Organisationen in Syrien;
 - d. von natürlichen Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten der syrischen Regierung oder von unter den Buchstaben b und c erwähnten Personen, Unternehmen und Organisationen handeln.
 
 [^16-1]: Fassung gemäss Ziff. I der v vom 11. Febr. 2015, in Kraft seit 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 17
 
@@ -490,9 +437,9 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 
 **Veröffentlichung**[^20a-1]
 
-Der Inhalt von Anhang 7 wird in der Amtlichen Sammlung des Bundesrechts (AS) und der Systematischen Sammlung des Bundesrechts (SR) nicht veröffentlicht.
+Der Inhalt der Anhänge 7 und 7*a* wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
 
-[^20a-1]: Eingefügt durch Ziff. I 18 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen, in Kraft seit 1. Febr. 2013 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
+[^20a-1]: Eingefügt durch Ziff. I 18 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 21
 
@@ -633,248 +580,17 @@ Anhang 1a[^t-1]
 <tr><td>IX.B.001</td><td>Technologie, einschliesslich Software*,* die für die Entwicklung, Herstellung oder Verwendung der in den Teilen 1 und 2 aufgeführten Artikel unverzichtbar ist</td><td></td></tr>
 </table>
 
-Anhang 2
+Anhänge 2–4[^t-2]
 
-(Art. 3 Abs. 1)
+[^t-2]: Aufgehoben durch Ziff. II Abs. 1 der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
-## Erdöl und Erdölprodukte
-
-<table>
-<tr><td>Zolltarif-Nr.</td><td>Bezeichnung</td></tr>
-<tr><td>2709</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td></tr>
-<tr><td>2710</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle</td></tr>
-<tr><td>2712</td><td>Vaselin; Paraffin, mikrokristallines Erdölwachs, «slack wax», Ozokerit, Montanwachs, Torfwachs, andere Mineralwachse und ähnliche, durch Synthese oder andere Verfahren gewonnene Erzeugnisse, auch gefärbt</td></tr>
-<tr><td>2713</td><td>Petrolkoks, Bitumen aus Erdöl und andere Rückstände aus Erdölen oder Ölen aus bituminösen Mineralien</td></tr>
-<tr><td>2714</td><td>Naturbitumen und Naturasphalt; bituminöse Schiefer und Sande; Asphaltite und Asphaltgesteine</td></tr>
-<tr><td>2715.0000</td><td>Bituminöse Mischungen auf der Grundlage von Naturasphalt oder Naturbitumen, Bitumen aus Erdöl, Mineralteer oder Mineralteerpech (z.B. Asphaltmastix, Verschnittbitumen)</td></tr>
-</table>
-
-Anhang 3
-
-(Art. 4 Abs. 1)
-
-## Ausrüstung und Technologie gemäss Artikel 4
-
-### Allgemeine Hinweise
-
-\1. Der Zweck der in diesem Anhang genannten Verbote darf nicht dadurch unterlaufen werden, dass nicht verbotene Güter (einschliesslich Anlagen) mit einem oder mehreren verbotenen Bestandteilen ausgeführt werden, wenn der (die) verbotene(n) Bestandteil(e) ein Hauptelement des Ausfuhrgutes ist (sind) und leicht entfernt oder für andere Zwecke verwendet werden kann (können).
-
-Anmerkung: Bei der Beurteilung der Frage, ob der (die) verbotene(n) Bestandteil(e) ein Hauptelement bildet (bilden), müssen Menge, Wert und eingesetztes technologisches Know-how sowie andere besondere Umstände berücksichtigt werden, die den (die) verbotenen Bestandteil(e) zu einem Hauptelement machen könnten.
-
-\2. Die in diesem Anhang erfassten Güter umfassen sowohl neue als auch gebrauchte Güter.
-
-\3. Definitionen der Begriffe, die in «einfachen Anführungszeichen» stehen, finden sich in einer technischen Anmerkung zu dem jeweiligen Gut.
-
-### Allgemeine Technologie-Anmerkung (ATA)
-
-\1. «Technologie», die zur «Entwicklung», «Herstellung» oder «Verwendung» von verbotenen Gütern «unverzichtbar» ist, unterliegt auch dann dem Verbot, wenn sie für nicht verbotene Güter einsetzbar ist.
-
-\2. Nicht verboten ist «Technologie», die das unbedingt erforderliche Minimum für Aufbau, Betrieb, Wartung (Überprüfung) und Reparatur derjenigen Güter darstellt, die nicht verboten sind oder für die eine Ausfuhrgenehmigung nach dieser Verordnung erteilt wurde.
-
-\3. Die Verbote hinsichtlich der Weitergabe von «Technologie» gelten weder für «allgemein zugängliche» Informationen, «wissenschaftliche Grundlagenforschung» noch für die für Patentanmeldungen erforderlichen Mindestinformationen.
-
-### 1. Exploration und Förderung von Erdöl und Erdgas
-
-### 1. A. Ausrüstung
-
-\1. Geophysikalische Prospektionsausrüstung, -fahrzeuge, -wasserfahrzeuge und ‑flugzeuge, besonders konstruiert oder angepasst für die Erhebung von Daten für die Erdöl- und Erdgasexploration, sowie besonders konstruierte Bestandteile hierfür.
-
-\2. Sensoren, besonders konstruiert zur Durchführung von Arbeiten in Erdgas- und Erdölbohrlöchern, einschliesslich Sensoren für Messungen während des Bohrvorgangs, sowie zugehörige Ausrüstung, besonders konstruiert zur Erhebung und Speicherung der von diesen Sensoren übermittelten Daten.
-
-\3. Bohrausrüstung, ausgelegt für Gesteinsbohrungen speziell zur Exploration oder zur Förderung von Erdöl, Erdgas und anderen natürlich vorkommenden Kohlenwasserstoffen.
-
-\4. Bohrköpfe, Gestänge, Schwerstangen, Zentrierungsvorrichtungen und andere Ausrüstung, besonders konstruiert zur Verwendung in und mit Bohrausrüstung für Erdöl- und Erdgasbohrlöcher.
-
-\5. Ventilaufbauten, «Blowout-Preventer» und «Eruptionskreuze» und besonders konstruierte Bestandteile hierfür, die den «API- und ISO-Spezifikationen» für den Einsatz in Erdöl- und Erdgasbohrlöchern entsprechen.
-
-Technische Anmerkungen:
-
-- *a)* *Ein «Blowout-Preventer» ist ein Gerät, das in der Regel während der Bohrungen in Bodennähe eingesetzt wird (bzw. bei Unterwasserbohrungen auf dem Meeresboden), um das unkontrollierte Ausströmen von Erdöl und/oder Erdgas aus dem Bohrloch zu verhindern.*
-- *b)* *Ein «Eruptionskreuz» ist ein Gerät, das in der Regel eingesetzt wird, um den Ausfluss der Flüssigkeiten aus dem Bohrloch nach dessen Fertigstellung und nach dem Beginn der Erdöl- und/oder Erdgasförderung zu kontrollieren.*
-- *c)* *Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikationen 6A, 16A, 17D und 11IW des American Petroleum Institute und/oder die ISO-Normen 10423 und 13533 für Blowout-Preventer, Bohrlochkopf- und Eruptions* *kreuz-Ausrüstung zur Verwendung in Erdöl- und/oder Erdgasbohrlöchern.*
-
-\6. Bohr- und Förderinseln für Erdöl und Erdgas.
-
-\7. Wasserfahrzeuge und Schuten mit eingebauter Bohr- und/oder Rohölverarbeitungsausrüstung zur Verwendung bei der Förderung von Erdöl, Erdgas und anderen natürlich vorkommenden brennbaren Stoffen.
-
-\8. Flüssigkeits-/Gasabscheider nach der API-Spezifikation 12J, besonders konstruiert zur Verarbeitung des aus einem Bohrloch geförderten Erdöls oder Erdgases durch Abscheiden von Wasser und Gas aus dem flüssigen Rohöl.
-
-\9. Gaskompressoren mit einem Auslegungsdruck von 40 bar (PN 40 und/oder ANSI 300) oder mehr und einer Saugkapazität grösser/gleich 300.000 Nm3/h für die Erstverarbeitung und Beförderung von Erdgas, mit Ausnahme von Gaskompressoren für Erdgastankstellen (Tankstellen für komprimiertes Erdgas/CNG), sowie besonders konstruierte Bestandteile hierfür.
-
-\10. Steuerungsausrüstung für die Unterwasserproduktion und deren Bestandteile, die den *«*API- und ISO-Spezifikationen*»* für die Verwendung in Erdöl- und Erdgasbohrlöchern entsprechen.
-
-Technische Anmerkung:
-
-Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikation 17 F des American Petroleum Institute und/oder die ISO-Norm 13268 für Steuersysteme für die Unterwasser-Produktion.
-
-\11. Pumpen, in der Regel Hochleistungs- und Hochdruckpumpen (mit einer Förderleistung von mehr als 0,3 m 3 /min und/oder mit einem Druck von mehr als 40 bar), besonders konstruiert zum Einpumpen von Bohrschlämmen und/oder Zement in Erdöl- und Erdgasbohrlöcher.
-
-### 1. B. Prüf- und Inspektionsgeräte
-
-\1. Ausrüstung, besonders konstruiert zur Probenentnahme, Prüfung und Analyse der Eigenschaften von Bohrschlämmen, Bohrlochzementen und anderen speziell zur Verwendung in Erdöl- und Erdgasbohrlöchern ausgelegten und/ oder formulierten Materialien.
-
-\2. Ausrüstung, besonders konstruiert zur Probeentnahme, Prüfung und Analyse der Eigenschaften von Gesteinsproben, Flüssigkeits- und Gasproben und anderen Materialien, die einem Erdöl- und/oder Erdgasbohrloch während oder nach der Bohrung oder den damit verbundenen Erstverarbeitungsanlagen entnommen werden.
-
-\3. Ausrüstung, besonders konstruiert zur Erhebung und Auswertung von Daten über die physikalischen und mechanischen Bedingungen eines Erdöl- und/oder Erdgasbohrlochs und zur Bestimmung der Eigenschaften der Gesteins- und Lagerstättenformation.
-
-### 1. C. Materialien
-
-\1. Bohrschlamm, Additive für Bohrschlamm und deren Komponenten, besonders formuliert zur Stabilisierung von Erdöl- und Erdgasbohrlöchern während der Bohrung, zur Beförderung von Bohrklein zur Erdoberfläche sowie zur Schmierung und Kühlung der Bohrausrüstung im Bohrloch.
-
-\2. Zemente und andere Werkstoffe nach *«*API- und ISO-Spezifikationen*»* zur Verwendung in Erdöl- und Erdgasbohrlöchern.
-
-Technische Anmerkung:
-
-Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikation 10A des American Petroleum Institute oder die ISO-Norm 10426 für Zemente und Materialien für die Zementation von Erdöl- und Erdgasbohrlöchern.
-
-\3. Korrosionshemmer, Mittel zur Emulsionsbehandlung, Entschäumer und andere Chemikalien, besonders formuliert zur Verwendung bei Ölbohrungen und bei der Erstverarbeitung von aus einem Erdöl- und/oder Erdgasbohrloch gefördertem Rohöl
-
-### 1. D. Software
-
-\1. «Software», besonders entwickelt zur Erfassung und Auswertung von Daten aus seismischen, elektromagnetischen, magnetischen oder schwerkraftbezogenen Untersuchungen zur Feststellung der Prospektivität in Bezug auf Erdöl- oder Erdgasvorkommen.
-
-\2. «Software», besonders entwickelt zur Speicherung, Analyse und Auswertung von Daten aus Bohrung und Förderung zum Zwecke der Bewertung der physischen Merkmale und des Verhaltens von Erdöl- und Erdgasvorkommen.
-
-\3. «Software», besonders entwickelt zur «Verwendung» in Rohölförderungs- und ‑verarbeitungsanlagen oder in bestimmten Untereinheiten solcher Anlagen.
-
-### 1. E. Technologie
-
-\1. Für die «Entwicklung», «Herstellung» und «Verwendung» der von den Nummern 1.A.01 bis 1.A.11 erfassten Ausrüstung «unverzichtbare» «Technologie».
-
-### 2. Raffination von Erdöl und Verflüssigung von Erdgas
-
-### 2. A. Ausrüstung
-
-\1. Wärmetauscher wie folgt und besonders konstruierte Bestandteile hierfür:
-
-- a) Plattenwärmetauscher mit einem Verhältnis Oberfläche zu Volumen grösser als 500 m<sup>2</sup>/m<sup>3</sup>, besonders konstruiert zur Vorkühlung von Erdgas;
-- b) Spiralwärmetauscher, besonders konstruiert zur Verflüssigung oder Unterkühlung von Erdgas.
-
-\2. Kryopumpen zur Beförderung von Medien bei einer Temperatur unter – 120 °C mit einer Förderkapazität von 500 m<sup>3</sup>/h sowie besonders konstruierte Bestandteile hierfür.
-
-\3. *«*Coldbox*»* und *«*Coldbox*»*-Ausrüstung, nicht erfasst von Unternummer 2.A.1.
-
-Technische Anmerkung:
-
-«Coldbox-Ausrüstung» bezieht sich auf eine für Erdgasverflüssigungsanlagen besonders ausgelegte Konstruktion, die in der Prozessphase der Verflüssigung verwendet wird. Die «Coldbox» besteht aus Wärmetauschern, Rohrleitungen, sonstigen Instrumenten und thermischen Isolatoren. Die Temperatur innerhalb der «Coldbox» liegt unter –120 °C (Voraussetzung für die Kondensation von Erdgas). Funktion der «Coldbox» ist die thermische Isolierung der oben beschriebenen Ausrüstung.
-
-\4. Ausrüstungen für Verschiffungsterminals für verflüssigte Gase mit einer Temperatur unter –120 °C und besonders konstruierte Bestandteile hierfür.
-
-\5. Flexible und starre Leitungen mit einem Durchmesser grösser als 50 mm für die Beförderung von Medien mit einer Temperatur unter –120 °C.
-
-\6. Besonders für den Transport von verflüssigtem Erdgas konstruierte Seeschiffe.
-
-\7. Elektrostatische Entsalzungsanlagen, besonders konstruiert zur Entfernung von Verunreinigungen wie Salz, Feststoffen und Wasser aus Rohöl, sowie besonders konstruierte Bestandteile hierfür.
-
-\8. Sämtliche Crackanlagen, einschliesslich Hydrocrackanlagen, und Kokereien, besonders konstruiert zur Umwandlung von Vakuumgasölen oder Vakuumrückständen, sowie besonders konstruierte Bestandteile hierfür.
-
-\9. Wasserstoffbehandler, besonders konstruiert zur Entschwefelung von Benzin, Dieselschnitten und Kerosin, sowie besonders konstruierte Bestandteile hierfür.
-
-\10. Katalytische Reformer, besonders konstruiert zur Umwandlung von entschwefeltem Benzin in hochoktaniges Benzin, sowie besonders konstruierte Bestandteile hierfür.
-
-\11. Raffinerien zur C5-C6-Isomerisierung und Raffinerien zur Alkylierung von leichten Olefinen zwecks Verbesserung des Oktanindex von Kohlenwasserstoffschnitten.
-
-\12. Pumpen, besonders konstruiert zur Beförderung von Rohöl und Kraftstoffen mit einer Förderleistung von 50 m<sup>3</sup>/h oder mehr sowie besonders konstruierte Bestandteile hierfür.
-
-\13. Rohrleitungen mit einem Aussendurchmesser von 0,2 m oder mehr aus einem der folgenden Materialien:
-
-- a) Edelstahl mit einem Chromgehalt von 23 Gew.-% oder mehr;
-- b) Edelstahl und Nickellegierungen mit einem *«*PREN*»*-Wert (*«*Pitting-Resistance-Equivalent Number*»*) über 33.
-
-Technische Anmerkung:
-
-Der «PREN»-Wert («Pitting Resistance Equivalent Number») ist ein Messwert für die Widerstandsfähigkeit von Edelstählen und Nickellegierungen gegen Lochfrass und Spaltkorrosion. Die Widerstandsfähigkeit von Edelstählen und Nickellegierungen hängt hauptsächlich von deren Zusammensetzung (in erster Linie Chrom, Molybdän und Stickstoff) ab. Die Formel zur Berechnung des PREN-Werts lautet: PRE = Cr + 3,3 % Mo + 30 % N
-
-\14. «Molche» und besonders konstruierte Bestandteile hierfür.
-
-Technische Anmerkung:
-
-«Molche» werden typischerweise zur internen Reinigung oder Inspektion von Rohrleitungen (Korrosionszustand oder Rissbildung) eingesetzt, wobei sie vom Flüssigkeitsstrom fortbewegt werden.
-
-\15. Molchstart- und Molchempfangsvorrichtungen zum Einbringen bzw. Entnehmen von Molchen.
-
-\16. Lagerbehälter für Rohöl und Kraftstoffe mit einem Fassungsvermögen von mehr als 1000 m<sup>3</sup> (1 000 000 Liter) wie folgt sowie besonders konstruierte Bestandteile hierfür:
-
-- a) Festdachtanks;
-- b) Schwimmdachtanks.
-
-\17. Flexible Unterwasser-Rohrleitungen mit einem Durchmesser grösser als 50 mm, besonders konstruiert zur Beförderung von Kohlenwasserstoffen und Injektionsflüssigkeiten, Wasser oder Gas.
-
-\18. Flexible Hochdruck-Rohrleitungen für Über- und Unterwasseranwendungen.
-
-\19. Isomerisierungsausrüstung, besonders konstruiert zur Herstellung von hochoktanigem Benzin unter Zufuhr leichter Kohlenwasserstoffe, sowie besonders konstruierte Bestandteile hierfür.
-
-### 2. B. Prüf- und Inspektionsgeräte
-
-\1. Geräte, besonders konstruiert zur Prüfung und Analyse der Qualität (Eigenschaften) von Rohöl und Kraftstoffen.
-
-\2. Schnittstellen-Kontrollsysteme, besonders konstruiert zur Kontrolle und Optimierung der Entsalzung.
-
-### 2. C. Materialien
-
-\1. Diethylenglykol (CAS 111-46-6), Triethylenglykol (CAS 112-27-6).
-
-\2. N-Methylpyrrolidon (CAS 872-50-4), Sulfolan (CAS 126-33-0).
-
-\3. Zeolithe, natürlichen oder synthetischen Ursprungs, besonders ausgelegt zum flüssigen katalytischen Cracken oder zur Reinigung und/oder Dehydratisierung von Gasen einschliesslich Erdgasen.
-
-\4. Katalysatoren zum Cracken und Umwandeln von Kohlenwasserstoffen wie folgt:
-
-- a) Einzelmetalle (Platin-Gruppe) auf Trägern aus Aluminiumoxid oder Zeolith, besonders ausgelegt zum katalytischen Reformieren;
-- b) Metallgemische (Platin in Kombination mit anderen Edelmetallen) auf Trägern aus Aluminiumoxid oder Zeolith, besonders ausgelegt zum katalytischen Reformieren;
-- c) Kobalt/Molybdän- und Nickel/Molybdän-Katalysatoren auf Trägern aus Aluminiumoxid oder Zeolith, besonders ausgelegt zum katalytischen Entschwefeln;
-- d) Palladium-, Nickel-, Chrom- oder Wolfram-Katalysatoren auf Trägern aus Aluminiumoxid oder Zeolith, besonders ausgelegt zum katalytischen Hydrocracking.
-
-\5. Benzinzusätze, besonders formuliert zur Erhöhung der Oktanzahl von Benzin.
-
-Anmerkung:
-
-Dazu zählen Ethyl-Tert-Butylether (ETBE) (CAS 637-92-3) und Methyl-Tert-Butylether (MTBE) (CAS 1634-04-4).
-
-### 2. D. Software
-
-\1. «Software», besonders entwickelt zur «Verwendung» in Erdgasverflüssigungsanlagen oder bestimmten Untereinheiten solcher Anlagen.
-
-\2. «Software», besonders entwickelt zur «Entwicklung», «Herstellung» oder «Verwendung» von Erdölraffinerien (einschliesslich deren Untereinheiten).
-
-### 2. E. Technologie
-
-\1. «Technologie» zur Aufbereitung und Reinigung von Roh-Erdgas (Dehydratisierung, Gasaufbereitung, Beseitigung von Verunreinigungen).
-
-\2. «Technologie» zur Verflüssigung von Erdgas, einschliesslich der zur «Entwicklung», «Herstellung» oder «Verwendung» von Erdgasverflüssigungsanlagen unverzichtbaren «Technologie».
-
-\3. «Technologie» zur Verschiffung von verflüssigtem Erdgas.
-
-\4. «Technologie», die zur «Entwicklung», «Herstellung» oder «Verwendung» von zum Transport von flüssigem Erdgas besonders konstruierten Seeschiffen «unverzichtbar» ist.
-
-\5. «Technologie» zur Lagerung von Rohöl und Kraftstoffen.
-
-\6. «Technologie», die zur «Entwicklung», «Herstellung» oder «Verwendung» von Raffinerien «unverzichtbar» ist, wie etwa:
-
-- 6\.1. «Technologie» zur Umwandlung leichter Olefine in Benzin,
-- 6\.2. Technologie zum katalytischen Reformieren und zur Isomerisierung,
-- 6\.3. Technologie zum katalytischen und thermischen Cracken.
-
-Anhang 4
-
-(Art. 5 Abs. 3 und 4)
-
-## Ausrüstung und Technologie zur Verwendung für den Bau oder zur Einrichtung von neuen Kraftwerken zur Stromerzeugung
-
-<table>
-<tr><td>Zolltarif-Nr.</td><td>Bezeichnung</td></tr>
-<tr><td>8406 81</td><td>Dampfturbinen mit einer Leistung von mehr als 40 MW</td></tr>
-<tr><td>8411 82</td><td>Gasturbinen mit einer Leistung von mehr als 5000 kW</td></tr>
-<tr><td>ex 8501</td><td>Alle Elektromotoren und elektrischen Generatoren mit einer Leistung von mehr als 3 MW oder 5000 kVA</td></tr>
-</table>
-
-Anhang 5[^t-2]
+Anhang 5[^t-3]
 
 (Art. 6 Abs. 1)
 
 ## Ausrüstung, Technologie und Software zu Überwachungszwecken
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 9. Juni 2016, in Kraft seit 10. Juni 2016 ([AS 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)).
+[^t-3]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 9. Juni 2016, in Kraft seit 10. Juni 2016 ([AS 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)).
 
 ### 1. Ausrüstungen
 
@@ -941,24 +657,35 @@ Anhang 6
 <tr><td>7012</td><td>Abfälle und Schrott, von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, wie sie hauptsächlich zur Wiedergewinnung von Edelmetallen verwendet werden.</td></tr>
 </table>
 
-Anhang 7[^t-3]
+Anhang 7[^t-4]
 
-(Art. 10 Abs. 1 und 17 Abs. 1)
+(Art. 10 Abs. 1 und 3 Bst. e, 16 Bst. b sowie 17 Abs. 1)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen nach Artikel 10 Absatz 1 richten, sowie natürliche Personen mit Ein- und Durchreiseverbot
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I 18 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 11. Febr. 2013 ([AS 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), vom 6. Mai 2013 ([AS 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), vom 4. Nov. 2013 ([AS 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), vom 20. Juni 2014 ([AS 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), vom 4. Aug. 2014 ([AS 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), vom 9. Sept. 2014 ([AS 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), vom 16. Dez. 2014 ([AS 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), vom 10. März 2015 ([AS 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), vom 17. März 2015 ([AS 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), vom 2. Juni 2015 ([AS 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), vom 16. Juni 2015 ([AS 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), vom 30. Juni 2015 ([AS 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), vom 18. Jan. 2016 ([AS 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), Ziff. I Abs. 1 der V des WBF vom 9. Juni 2016 ([AS 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), Ziff. I der V des WBF vom 10. Okt. 2016 ([AS 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), vom 7. Nov. 2016 ([AS 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), vom 22. Nov. 2016 ([AS 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), vom 8. Dez. 2016 ([AS 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), vom 27. März 2017 ([AS 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), vom 15. Juni 2017 ([AS 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), vom 19. Juli 2017 ([AS 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), vom 2. Aug. 2017 ([AS 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), vom 2. Okt. 2017 ([AS 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), vom 6. März 2018 ([AS 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), vom 26. März 2018 ([AS 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), vom 11. Juni 2018 ([AS 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), vom 17. Juli 2018 ([AS 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), vom 15. Juli 2019 ([AS 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), Ziff. I Abs. 1 der V des WBF vom 12. Aug. 2019 ([AS 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), Ziff. I der V des WBF vom 27. Sept. 2019 ([AS 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), vom 26. Febr. 2020 ([AS 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), vom 25. Juni 2020 ([AS 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), vom 29. Okt. 2020 ([AS 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), vom 18. Nov. 2020 ([AS 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), vom 2. Febr. 2021 ([AS 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), vom 20. Mai 2021 ([AS 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), vom 10. Juni 2021 ([AS 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)), vom 24. Nov. 2021 ([AS 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)) vom 13. Jan. 2022 ([AS 2022 7](https://fedlex.data.admin.ch/eli/oc/2022/7)), vom 4. März 2022 ([AS 2022 153](https://fedlex.data.admin.ch/eli/oc/2022/153)), vom 27. Sept. 2022 ([AS 2022 536](https://fedlex.data.admin.ch/eli/oc/2022/536)) und vom 4. Mai 2023 ([AS 2023 219](https://fedlex.data.admin.ch/eli/oc/2023/219)), vom 8. Juni 2023 ([AS 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)), vom 2. Aug. 2023 ([AS 2023 440](https://fedlex.data.admin.ch/eli/oc/2023/440)), vom 1. Febr. 2024 ([AS 2024 54](https://fedlex.data.admin.ch/eli/oc/2024/54)), vom 24. Juni 2024 ([AS 2024 312](https://fedlex.data.admin.ch/eli/oc/2024/312)), vom 7. Okt. 2024 ([AS 2024 540](https://fedlex.data.admin.ch/eli/oc/2024/540)) und vom 9. Dez. 2024, in Kraft seit 10. Dez. 2024 um 18.00 Uhr ([AS 2024 757](https://fedlex.data.admin.ch/eli/oc/2024/757)).
-[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/757](https://fedlex.data.admin.ch/eli/oc/2024/757) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 8[^t-4]
+Anhang 7a[^t-5]
+
+(Art. 10 Abs. 1<sup>bis</sup> und 16 Bst. b)
+
+## Unternehmen und Organisationen, gegen die sich die Finanzsanktionen nach Artikel 10 Absatz 1<sup>bis</sup> richten
+
+[^annex7a-lvlu1-1]
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 3 der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^annex7a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 8[^t-6]
 
 (Art. 9)
 
 ## Luxusgüter
 
-[^t-4]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 12. Aug. 2019, in Kraft seit 13. Aug. 2019 ([AS 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
+[^t-6]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 12. Aug. 2019, in Kraft seit 13. Aug. 2019 ([AS 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
 
 <table>
 <tr><th>Zolltarif-Nr.</th><th>Bezeichnung</th></tr>
@@ -982,13 +709,13 @@ Anhang 8[^t-4]
 <tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Artikel und Ausrüstung für Billardspiele, automatische Kegelanlagen (z.B. Bowlingbahnen), Glücksspiele und mit Münzen oder Banknoten betriebene Spiele mit einem Verkaufspreis von mehr als Fr. 600.–/Stück</td></tr>
 </table>
 
-Anhang 9[^t-5]
+Anhang 9[^t-7]
 
 (Art. 9*a* Abs. 1)
 
 ## Kulturgüter
 
-[^t-5]: Eingefügt durch Ziff. II der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 Als Kulturgüter im Sinne von Artikel 9a gelten insbesondere:
 
@@ -1033,24 +760,6 @@ Als Kulturgüter im Sinne von Artikel 9a gelten insbesondere:
 
   - b. mehr als 100 Jahre alte Antiquitäten.
 
-Anhang 10[^t-6]
+Anhang 10[^t-8]
 
-(Art. 4*a*)
-
-## Flugturbinenkraftstoffe und Kraftstoffzusätze
-
-[^t-6]: Eingefügt durch Ziff. II der V vom 11. Febr. 2015, in Kraft seit 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
-
-<table>
-<tr><th>Ziff.</th><th>Zolltarifnummer</th><th>Beschreibung</th></tr>
-<tr><td>1</td><td>2710 12 11 2710 19 11</td><td>Flugturbinenkraftstoff (ausser Kerosin): – leichter Flugturbinenkraftstoff (Leichtöle); – anderer Flugturbinenkraftstoff als Kerosin (mittelschwere Öle).</td></tr>
-<tr><td>2</td><td>2710 19 11</td><td>Flugturbinenkraftstoff auf Petroleumbasis / Kerosin (mittelschwere Öle).</td></tr>
-<tr><td>3</td><td>2710 20 10</td><td>Mit Biodiesel vermischter Flugturbinenkraftstoff auf Petroleumbasis (mit einem Gehalt an Erdöl oder Öl aus bituminösen Mineralien von mindestens 70 GHT).</td></tr>
-<tr><td>4</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Antioxidationsmittel Antioxidationsmittel, die in Kraftstoffzusätzen für Schmieröle verwendet werden: – Erdöl enthaltend; – andere Antioxidationsmittel; Antioxidationsmittel für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-<tr><td>5</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Antistatika-Kraftstoffzusätze Antistatika-Kraftstoffzusätze für Schmieröle: – Erdöl enthaltend; – andere; Antistatika-Kraftstoffzusätze für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-<tr><td>6</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Metallschutzmittel Metallschutzmittel für Schmieröle: – Erdöl enthaltend; – andere; Metallschutzmittel für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-<tr><td>7</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Biozid-Kraftstoffzusätze Biozid-Kraftstoffzusätze für Schmieröle: – Erdöl enthaltend; – andere; Biozid-Kraftstoffzusätze für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-<tr><td>8</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Kraftstoffzusätze zur Thermostabilitätsverbesserung Kraftstoffzusätze zur Thermostabilitätsverbesserung für Schmieröle: – Erdöle enthaltend; – andere; Thermostabilitätsverbesserer für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-<tr><td>9</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Korrosionsschutzmittel Korrosionsschutzmittel für Schmieröle: – Erdöl enthaltend; – andere; Korrosionsschutzmittel für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-<tr><td>10</td><td>3811 21 00 3811 29 00 3811 90 90</td><td>Frostschutzmittel für Treibstoffanlagen (Fuel System Icing Inhibitors) Frostschutzmittel für Treibstoffanlagen zur Verwendung in Schmierölen: – Erdöl enthaltend; – andere; Frostschutzmittel für Treibstoffanlagen für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten.</td></tr>
-</table>
+[^t-8]: Eingefügt durch Ziff. II der V vom 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Aufgehoben durch Ziff. II Abs. 1 der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).

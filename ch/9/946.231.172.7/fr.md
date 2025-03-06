@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2024-12-10
+version: 2025-03-07
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20241210/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20241210-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20241210/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250307/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250307-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250307/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 10 décembre 2024)
+du 8 juin 2012 (État le 7 mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -103,93 +103,23 @@ Sont soumis à autorisation:
 
 [^2a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juin 2018, en vigueur depuis le 1<sup>er</sup> juin 2018, à 18 heures ([RO 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
 
-#### Art. 3
+#### Art. 3 et 4
 
-**Interdictions concernant le pétrole et les produits pétroliers**
+[^34-1]
 
-<sup>1</sup>
-
-Il est interdit:
-
-- a. d’importer ou de transporter le pétrole et les produits pétroliers cités à l’annexe 2 si ceux-ci sont originaires de Syrie ou ont été exportés de Syrie;
-- b. d’acheter le pétrole et les produits pétroliers cités à l’annexe 2 si ceux-ci se trouvent en Syrie ou en sont originaires.
-
-<sup>2</sup> Il est interdit de fournir, directement ou indirectement, un financement ou une aide financière, y compris des produits financiers dérivés, ainsi que des produits d’assurance et de réassurance, en lien avec les activités visées à l’al. 1.
-
-<sup>3</sup>
-
-Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
-
-- a. à l’achat de pétrole et de produits pétroliers exportés depuis la Syrie avant le 24 septembre 2011;
-- b.[^3-1]
-
-  à l’achat et au transport de produits pétroliers en vue:
-
-  - 1\. de la réalisation d’activités humanitaires ou de la fourniture d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile,
-  - 2\. de l’exercice d’activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^3-2]
-
-<sup>4</sup> Il est interdit d’octroyer un prêt ou un crédit à une personne ou une entité syrienne exerçant des activités d’exploration, de production ou de raffinage de pétrole. Cette interdiction ne s’applique pas aux contrats conclus avant le 1<sup>er</sup> octobre 2011.
-
-<sup>5</sup> Il est interdit d’acquérir ou d’augmenter une participation dans une personne ou entité syrienne participant à des activités d’exploration, de production ou de raffinage de pétrole et de créer une coentreprise avec elle. Cette interdiction ne s’applique pas aux contrats conclus avant le 1<sup>er</sup> octobre 2011.
-
-<sup>6</sup> Le SECO peut, après avoir consulté les services compétents du DFAE, accorder des dérogations aux interdictions prévues aux al. 1, 2, 4 et 5 pour permettre de servir des buts humanitaires.[^3-3]
-
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 10 mars 2017, en vigueur depuis le 10 mars 2017 ([RO 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^3-3]: Introduit par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-
-#### Art. 4
-
-**Interdictions concernant les équipements ou les technologies permettant l’exploration et la production de pétrole et de gaz naturel, le raffinage du pétrole et la liquéfaction du gaz naturel**
-
-<sup>1</sup> La vente, la livraison, l’exportation et le transit des équipements et des technologies cités à l’annexe 3, à destination de personnes ou d’entités syriennes ou destinés à un usage en Syrie sont interdits.
-
-<sup>2</sup> Il est interdit de fournir une assistance technique, des services de courtage ou un financement en relation avec les activités visées à l’al. 1.
-
-<sup>3</sup> Le SECO peut, après avoir consulté les services compétents du DFAE, accorder des dérogations aux interdictions prévues aux al. 1 et 2 pour permettre d’honorer des contrats existants ou de servir des buts humanitaires.[^4-1]
-
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^34-1]: Abrogés par le ch. I de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 4a
 
-**Interdictions concernant les carburéacteurs et les additifs pour carburants**[^4a-1]
+[^4a-1]
 
-<sup>1</sup> La vente, la fourniture, l’exportation et le transit des carburéacteurs et des additifs pour carburants cités à l’annexe 10 à destination de personnes ou d’entités syriennes ou destinés à un usage en Syrie sont interdits.
-
-<sup>2</sup> Il est interdit de fournir des services de courtage et, directement ou indirectement, un financement ou une aide financière, y compris des produits financiers dérivés, ainsi que des produits d’assurance et de réassurance, en relation avec les activités liées à l’al. 1.
-
-<sup>3</sup>
-
-Les interdictions visées aux al. 1 et 2 ne s’appliquent pas aux produits cités à l’annexe 10, ch. 1 à 8:
-
-- a. qui sont utilisés par des aéronefs civils non syriens faisant escale en Syrie;
-- b. qui sont utilisés par des transporteurs aériens syriens procédant à des évacuations.
-
-<sup>4</sup> Le SECO peut, après avoir consulté les services compétents du DFAE, accorder des dérogations aux interdictions prévues aux al. 1 et 2 pour les produits cités à l’annexe 10, ch. 1 à 8, pour servir des buts humanitaires ou procéder à des évacuations.
-
-[^4a-1]: Introduit par le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 11 fév. 2015 ([RO 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^4a-1]: Introduit par le ch. I de l’O du 11 fév. 2015 ([RO 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Abrogé par le ch. I de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 5
 
-**Interdictions concernant la production d’électricité**
+[^5-1]
 
-<sup>1</sup> Il est interdit d’octroyer des prêts ou des crédits et de fournir une assistance technique ou des aides financières destinés à la construction de nouvelles centrales à des personnes ou des entités syriennes impliquées dans la construction de nouvelles centrales visant la production d’électricité.
-
-<sup>2</sup> Il est interdit d’acquérir ou d’augmenter une participation à des personnes ou des entités syriennes qui participent à la construction de nouvelles centrales pour la production d’électricité en Syrie et de créer des coentreprises avec elles.
-
-<sup>3</sup> La vente, la livraison, l’exportation et le transit à destination de la Syrie des équipements et des technologies cités à l’annexe 4 devant servir pour la construction de nouvelles centrales pour la production d’électricité sont interdits.
-
-<sup>4</sup> Il est interdit de fournir une assistance technique et une aide financière et de mettre à disposition des produits d’assurance et de réassurance en relation avec la vente, la livraison, l’exportation et le transit des équipements et des technologies cités à l’annexe 4.[^5-1]
-
-<sup>5</sup>
-
-Le SECO peut, après avoir consulté les services compétents du DFAE, accorder des dérogations:
-
-- a. aux interdictions prévues aux al. 2 à 4 pour permettre d’honorer des contrats existants;
-- b. aux interdictions prévues aux al. 1 à 4 pour permettre de servir des buts humanitaires.[^5-2]
-
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^5-1]: Abrogé par le ch. I de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 6
 
@@ -205,9 +135,9 @@ Le SECO peut, après avoir consulté les services compétents du DFAE, accorder 
 
 #### Art. 7
 
-**Interdictions concernant les pièces et les billets**
+[^7-1]
 
-Il est interdit de fournir, de vendre ou de faire parvenir d’une autre manière à la Banque centrale de Syrie des pièces ou des billets neufs libellés en monnaie syrienne, frappées ou imprimés en Suisse ainsi que de fournir une aide financière ou une assistance technique dans ce cadre.
+[^7-1]: Abrogé par le ch. I de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 8
 
@@ -223,7 +153,11 @@ Il est interdit:
 
 **Interdictions concernant la livraison d’articles de luxe**
 
-Il est interdit de vendre, de fournir, d’exporter et de transférer en Syrie les articles de luxe figurant à l’annexe 8.
+<sup>1</sup> Il est interdit de vendre, de fournir, d’exporter et de transférer en Syrie les articles de luxe figurant à l’annexe 8.
+
+<sup>2</sup> L’interdiction prévue à l’al. 1 ne s’applique pas aux biens qui sont destinés à l’usage personnel des personnes physiques voyageant à partir de la Suisse ou de leurs parents proches qui voyagent avec elles, pour autant que ces biens leur appartiennent.[^9-1]
+
+[^9-1]: Introduit par le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 9a
 
@@ -256,16 +190,18 @@ L’interdiction prévue à l’al. 1 ne s’applique pas s’il est établi:
 
 <sup>1</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités citées à l’annexe 7 sont gelés.
 
-<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées par le gel des avoirs ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.[^10-1]
+<sup>1bis</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des entreprises et entités citées à l’annexe 7*a* et situés hors de Syrie à la date du 8 juin 2012 sont gelés.[^10-1]
+
+<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées à l’al. 1 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.[^10-2]
 
 <sup>2bis</sup>
 
 L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire:
 
 - a. à la réalisation d’activités humanitaires ou à la fourniture d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile, ou
-- b. à l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^10-2]
+- b. à l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^10-3]
 
-<sup>2ter</sup> Le SECO peut, exceptionnellement, autoriser des dérogations aux interdictions prévues à l’al. 2 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Syrie.[^10-3]
+<sup>2ter</sup> Le SECO peut, exceptionnellement, autoriser des dérogations aux interdictions prévues à l’al. 2 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Syrie.[^10-4]
 
 <sup>2quater</sup>
 
@@ -275,7 +211,7 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture 
 - b. des organisations internationales;
 - c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de celles-ci;
 - d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
-- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d et à l’al. 2<sup>bis</sup> agissant en cette qualité.[^10-4]
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d et à l’al. 2<sup>bis</sup> agissant en cette qualité.[^10-5]
 
 <sup>3</sup>
 
@@ -285,36 +221,32 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
 - d. de sauvegarder des intérêts suisses, ou
-- e.[^10-5]
+- e.[^10-6]
 
   de fournir un appui financier à des ressortissants syriens non inscrits sur la liste figurant à l’annexe 7 qui:
 
   - 1\. suivent un enseignement ou une formation professionnelle en Suisse, ou
   - 2\. y sont engagés dans la recherche universitaire;
 
-- f.[^10-6] de les utiliser à des fins humanitaires;
-- g.[^10-7] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
-- h.[^10-8] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
+- f.[^10-7] de les utiliser à des fins humanitaires;
+- g.[^10-8] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
+- h.[^10-9] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
 
-<sup>4</sup>
+<sup>4</sup> …[^10-10]
 
-Le SECO peut, exceptionnellement, autoriser la libération d’avoirs et de ressources économiques gelés de la Banque centrale de Syrie ou d’avoirs et de ressources économiques gelés détenus par la Banque centrale de Syrie, ou autoriser la mise à disposition d’avoirs et de ressources économiques destinées à la Banque centrale de Syrie pour permettre:
+<sup>5</sup> Il autorise les dérogations prévues aux al. 2<sup>ter</sup> et 3 après avoir consulté les services compétents du DFAE et du Département fédéral des finances.[^10-11]
 
-- a. d’approvisionner en liquidités des établissements financiers ou de crédit pour le financement de transactions commerciales;
-- b. d’honorer les crédits commerciaux;
-- c. d’honorer les contrats commerciaux, dans la mesure où le paiement ne favorise pas une activité interdite au sens de la présente ordonnance.
-
-<sup>5</sup> Il autorise les dérogations prévues aux al. 2<sup>ter</sup>, 3 et 4 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).[^10-9]
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-2]: Introduit par le ch. I de l’O du 16 oct. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-3]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introduit par le ch. I de l’O du 10 mars 2023, en vigueur du 10 mars 2023 à 18 heures au 11 sept. 2023, prolongé jusqu’au 11 mars 2024 puis jusqu’au 12 sept. 2024 et pour une durée indéterminée à partir du 13 sept. 2024 ([RO 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88), [483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
-[^10-5]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-6]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-1]: Introduit par le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-3]: Introduit par le ch. I de l’O du 16 oct. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-5]: Introduit par le ch. I de l’O du 10 mars 2023, en vigueur du 10 mars 2023 à 18 heures au 11 sept. 2023, prolongé jusqu’au 11 mars 2024 puis jusqu’au 12 sept. 2024 et pour une durée indéterminée à partir du 13 sept. 2024 ([RO 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88), [483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
+[^10-6]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-7]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-8]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-9]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-9]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-10]: Abrogé par le ch. I de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-11]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 11
 
@@ -369,6 +301,26 @@ Les banques syriennes ont l’interdiction:
 - a. d’ouvrir une représentation, une succursale ou une filiale;
 - b. d’acquérir une participation ou toute autre part de capital dans une banque.
 
+<sup>3</sup>
+
+Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
+
+- a. aux activités, y compris les activités auxiliaires, exercées dans le but de fournir à la population syrienne une aide portant sur l’acheminement d’aide humanitaire en temps voulu ou l’appui à d’autres activités qui visent à répondre aux besoins essentiels des personnes, à la fourniture de services de base ou à d’autres fins civiles;
+- b. aux activités, y compris les activités auxiliaires, exercées dans le but de fournir à la population syrienne une aide portant sur la reconstruction, la stabilisation, le redressement économique, le renforcement des institutions, la fourniture de services de base ou à d’autres fins civiles;
+- c.
+
+  aux activités exercées en lien avec:
+
+  - 1\. l’importation de pétrole brut ou de produits pétroliers en provenance de Syrie, l’achat de pétrole brut ou de produits pétroliers en provenance de Syrie ou le transport de pétrole brut ou de produits pétroliers à partir de la Syrie,
+  - 2\. la participation à la construction ou l’installation de nouvelles centrales de production d’électricité en Syrie,
+  - 3\. la création d’une coentreprise avec des personnes, entités ou organismes syriens exerçant des activités d’exploration, de production ou de raffinage de pétrole brut ou des activités de construction ou d’installation de nouvelles centrales de production d’électricité en Syrie, l’octroi de prêts à ces personnes, entités ou organismes ou l’acquisition ou l’augmentation d’une participation dans ces personnes, entités ou organismes,
+  - 4\. la vente, le transfert ou l’exportation de carburéacteurs et d’additifs pour carburants vers des personnes situées en Syrie ou en vue de leur utilisation en Syrie,
+  - 5\. l’octroi d’un accès aux aéroports suisses aux vols transportant exclusivement du fret effectués par des transporteurs syriens,
+  - 6\. l’exportation, à destination de la banque centrale de Syrie, de nouveaux billets et pièces libellés en monnaie syrienne, et
+  - 7\. toute l’assistance technique et tous les services de courtage, financements et aides financières associés aux activités mentionnées aux ch. 1 à 6.[^13-1]
+
+[^13-1]: Introduit par le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+
 #### Art. 13a
 
 **Dérogations à des fins humanitaires**[^13a-1]
@@ -400,15 +352,9 @@ Il est interdit de conclure, de prolonger ou de reconduire des conventions d’a
 
 #### Art. 15
 
-**Interdictions concernant le trafic aérien**[^15-1]
+[^15-1]
 
-<sup>1</sup> L’accès aux aéroports suisses est interdit à tous les vols effectués par la Syrian Arab Airlines.
-
-<sup>2</sup> Il est en outre interdit à tous les vols de fret effectués par des transporteurs syriens, à l’exception des vols mixtes pour les passagers et le fret.
-
-<sup>3</sup> Les vols à but humanitaire sont autorisés.
-
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^15-1]: Abrogé par le ch. I de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 16
 
@@ -417,11 +363,12 @@ Il est interdit de conclure, de prolonger ou de reconduire des conventions d’a
 Il est interdit d’honorer les créances de personnes ou entités syriennes lorsque ces créances se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance; cette interdiction s’applique aux créances:
 
 - a. du gouvernement syrien;
-- b. des personnes physiques, entreprises et entités citées à l’annexe 7;
+- b.[^16-2] des personnes physiques, entreprises et entités citées aux annexes 7 ou 7*a*;
 - c. des personnes physiques, entreprises et entités sises en Syrie;
 - d. des personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte du gouvernement syrien ou des personnes physiques, entreprises et entités visées aux let. b et c.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 11 fév. 2015 ([RO 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 17
 
@@ -490,9 +437,9 @@ Le Secrétariat d’État aux migrations (SEM)[^17-1] peut accorder des dérogat
 
 **Publication**[^20a-1]
 
-Le texte de l’annexe 7 n’est publié ni au Recueil officiel du droit fédéral (RO) ni au Recueil systématique du droit fédéral (RS).
+Le contenu des annexes 7 et 7*a* est publié dans le Recueil officiel (RO) et le Recueil systématique (RS) du droit fédéral uniquement sous la forme d’un renvoi.
 
-[^20a-1]: Introduit par le ch. I 18 de l’O du 19 déc. 2012 modifiant la publication des annexes aux O relatives aux embargos, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
+[^20a-1]: Introduit par le ch. I 18 de l’O du 19 déc. 2012 modifiant la publication des annexes aux O relatives aux embargos ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
 #### Art. 21
 
@@ -633,248 +580,17 @@ Annexe 1a[^t-1]
 <tr><td>IX.B.001</td><td>‹Technologies›, y compris «logiciels», requises pour le «développement», la «production» ou l’«utilisation» des articles visés dans les parties 1 et 2</td><td></td></tr>
 </table>
 
-Annexe 2
+Annexes 2 à 4[^t-2]
 
-(art. 3, al. 1)
+[^t-2]: Abrogées par le ch. II al. 1 de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
-## Pétrole et produits pétroliers
-
-<table>
-<tr><td>N<sup>o</sup> du tarif</td><td>Désignation</td></tr>
-<tr><td>2709</td><td>Huiles brutes de pétrole ou de minéraux bitumineux</td></tr>
-<tr><td>2710</td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huile</td></tr>
-<tr><td>2712</td><td>Vaseline; paraffine, cire de pétrole microcristalline, slack wax, ozokérite, cire de lignite, cire de tourbe, autres cires minérales et produits similaires obtenus par synthèse ou par d’autres procédés, même colorés</td></tr>
-<tr><td>2713</td><td>Coke de pétrole, bitume de pétrole et autres résidus des huiles de pétrole ou de minéraux bitumineux</td></tr>
-<tr><td>2714</td><td>Bitumes et asphaltes, naturels; schistes et sables bitumineux; asphaltites et roches asphaltiques</td></tr>
-<tr><td>2715.0000</td><td>Mélanges bitumineux à base d’asphalte ou de bitume naturels, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumineux, cut-backs, par exemple)</td></tr>
-</table>
-
-Annexe 3
-
-(art. 4, al. 1)
-
-## Équipements et technologies visés à l’art. 4
-
-### Notes générales
-
-\1. Les interdictions dont il est question dans la présente annexe ne doivent pas être rendues inopérantes par l’exportation de biens non interdits (y compris des installations) contenant un ou plusieurs composants interdits, lorsque lesdits composants sont l’élément principal de ces biens et peuvent en pratique en être détachés et utilisés à d’autres fins.
-
-N.B.: Pour décider si le ou les composant(s) interdit(s) doit/doivent être considéré(s) comme l’élément principal, il convient d’évaluer les facteurs de quantité, de valeur et de savoir-faire technologique le(s) concernant, ainsi que d’autres circonstances particulières qui pourraient faire du ou des composant(s) interdit(s) l’élément principal des biens fournis.
-
-\2. Les biens figurant dans la présente annexe s’entendent comme neufs ou usagés.
-
-\3. Les définitions des termes entre ’apostrophes’ sont données dans une note technique se rapportant au bien en question.
-
-### Note générale relative à la technologie (NGT)
-
-\1. La «technologie» «nécessaire» au «développement», à la «production» ou à «l’utilisation» de biens interdits demeure interdite même lorsqu’elle s’applique à des biens non interdits.
-
-\2. Les interdictions ne s’appliquent pas à la «technologie» minimale nécessaire à l’installation, à l’exploitation, à l’entretien (vérification) et à la réparation des biens qui ne sont pas interdits ou dont l’exportation a été autorisée, conformément à la présente ordonnance.
-
-\3. Les interdictions portant sur les transferts de «technologie» ne s’appliquent, ni aux connaissances «relevant du domaine public», ni à la «recherche scientifique fondamentale», pas plus qu’aux connaissances minimales nécessaires pour les demandes de brevet.
-
-### 1. Exploration et production de pétrole brut et de gaz naturel
-
-### 1. A. Équipements
-
-\1. Équipements, véhicules, navires et aéronefs d’étude géophysique spécialement conçus ou adaptés aux fins de l’acquisition de données pour la prospection de pétrole et de gaz, ainsi que leurs composants spécialement conçus.
-
-\2. Capteurs spécialement conçus pour les opérations de fond de puits dans les puits de pétrole et de gaz, notamment les capteurs de mesure en cours de forage et les équipements associés spécialement conçus pour l’acquisition et le stockage de données provenant de ces capteurs.
-
-\3. Équipements de forage conçus pour la perforation de formations rocheuses à des fins spécifiques de prospection ou de production de pétrole, de gaz et d’autres hydrocarbures naturels.
-
-\4. Trépans, tiges de forage, masses-tiges, centreurs et autres équipements, spécialement conçus pour être utilisés dans et avec les équipements de forage de puits de pétrole et de gaz.
-
-\5. Têtes de puits de forage, «blocs obturateurs de puits (BOP)» et «arbres de Noël ou arbres de production», ainsi que leurs composants spécialement conçus, répondant aux «spécifications API et ISO» et destinés aux puits de pétrole et de gaz.
-
-Notes techniques:
-
-- *a)* *le «bloc obturateur de puits» est un dispositif installé en principe en surface (ou, en cas de forage sous-marin, au fond de la mer) destiné à empêcher l’écoulement accidentel de pétrole et/ou de gaz s’échappant du puits lors du forage;*
-- *b)* *l’«arbre de Noël ou arbre de production» est un dispositif normalement utilisé pour réguler l’écoulement des fluides provenant du puits lorsqu’il est terminé et que la production de pétrole et/ou de gaz a commencé;*
-- *c)* *aux fins de la présente rubrique, les «spécifications API et ISO» concernées sont les spécifications 6A, 16A, 17D et 11IW de l’American Petroleum Institute et/ou les spécifications 10423 et 13533 de l’Organisation internationale de normalisation concernant les blocs obturateurs de puits, les têtes de puits et les arbres de Noël destinés à équiper les puits de pétrole et/ou de gaz.*
-
-\6. Plateformes de forage et de production de pétrole brut et de gaz naturel.
-
-\7. Navires et barges contenant des équipements de forage et/ou de traitement du pétrole utilisés pour la production de pétrole, de gaz et d’autres matières inflammables naturelles.
-
-\8. Séparateurs liquides/gaz répondant à la spécification 12J de l’API, spécialement conçus pour traiter la production de puits de pétrole ou de gaz, afin de séparer le pétrole liquide de l’eau et les gaz des liquides.
-
-\9. Compresseurs de gaz d’une pression nominale supérieure ou égale à 40 bars (PN 40 et/ou ANSI 300), ayant une capacité d’aspiration d’au moins 300 000 Nm3/h, destinés au premier traitement et au transport du gaz naturel, à l’exclusion des compresseurs de gaz destinés aux stations-service de gaz naturel comprimé (GNC), ainsi que leurs composants spécialement conçus.
-
-\10. Équipements de contrôle de production immergés ainsi que leurs composants spécialement conçus, répondant aux «spécifications API et ISO» et destinés aux puits de pétrole et de gaz.
-
-Note technique:
-
-Aux fins de la présente rubrique, on entend par «spécifications API et ISO» la spécification 17F de l’American Petroleum Institute et/ou la spécification 13268 de l’Organisation internationale de normalisation concernant les commandes pour équipements immergés.
-
-\11. Pompes, généralement à haute capacité et/ou à haute pression (supérieure à 0,3 m<sup>3</sup> par minute et/ou 40 bars), spécialement conçues pour pomper les boues de forage et/ou le ciment dans les puits de pétrole et de gaz.
-
-### 1. B. Équipements d’essai et d’inspection
-
-\1. Équipements spécialement conçus pour le prélèvement d’échantillons, les essais et l’analyse des propriétés effectués sur les boues de forage, les ciments pour la cimentation des puits et autres matériaux spécialement conçus et/ou formulés pour être utilisés dans les puits de pétrole et de gaz.
-
-\2. Équipements spécialement conçus pour le prélèvement d’échantillons, les essais et l’analyse des propriétés effectués sur les roches, liquides, gaz et autres matériaux extraits d’un puits de pétrole et/ou de gaz, soit pendant soit après le forage, ou provenant des installations de premier traitement s’y rattachant.
-
-\3. Équipements spécialement conçus pour la collecte et l’interprétation d’informations concernant l’état physique et mécanique d’un puits de pétrole et/ou de gaz et pour la détermination des propriétés «in situ» de la formation rocheuse et de la couche pétrolifère.
-
-### 1. C. Matériaux
-
-\1. Boues de forage, additifs de boues de forage et leurs composants, spécialement formulés pour stabiliser les puits de pétrole et de gaz pendant le forage, pour récupérer les déblais de forage à la surface et pour lubrifier et refroidir les équipements de forage dans le puits.
-
-\2. Ciments et autres matériaux répondant aux «spécifications API et ISO» et destinés à être utilisés dans les puits de pétrole et de gaz.
-
-Note technique:
-
-Les «spécifications API et ISO» en question sont la spécification 10A de l’American Petroleum Institute ou la spécification 10426 de l’Organisation internationale de normalisation concernant les ciments et autres matériaux spécialement formulés pour la cimentation des puits de pétrole et de gaz.
-
-\3. Agents anticorrosion, désémulsifiants, antimousse et autres produits chimiques spécialement formulés pour être utilisés lors du forage de puits de pétrole et/ou de gaz et du premier traitement du pétrole extrait.
-
-### 1. D. Logiciels
-
-\1. «Logiciels» spécialement conçus pour la collecte et l’interprétation de données provenant des études sismiques, électromagnétiques, magnétiques ou gravimétriques destinées à déterminer le potentiel de production de pétrole ou de gaz.
-
-\2. «Logiciels» spécialement conçus pour le stockage, l’analyse et l’interprétation d’informations acquises lors du forage et de la production afin d’évaluer les caractéristiques physiques et le comportement des gisements de pétrole ou de gaz.
-
-\3. «Logiciels» spécialement conçus pour «l’exploitation» d’installations de production et de traitement du pétrole ou de sous-éléments particuliers de telles installations.
-
-### 1. E. Technologie
-
-\1. «Technologies» «nécessaires» au «développement», à la «production» et à «l’exploitation» des équipements visés aux points 1.A.01 à 1.A.11.
-
-### 2. Raffinage du pétrole brut et liquéfaction du gaz naturel
-
-### 2. A. Équipements
-
-\1. Échangeurs de chaleur, comme suit, et leurs composants spécialement conçus:
-
-- a) échangeurs de chaleur à ailettes-plaques présentant un rapport surface/volume supérieur à 500 m<sup>2</sup>/m<sup>3</sup>, spécialement conçus pour le pré-refroidissement du gaz naturel;
-- b) échangeurs de chaleur à serpentin spécialement conçus pour la liquéfaction ou le sous-refroidissement du gaz naturel.
-
-\2. Pompes cryogéniques pour le transport de matières à une température inférieure à –120 °C présentant une capacité de transport supérieure à 500 m<sup>3</sup>/h, ainsi que leurs composants spécialement conçus.
-
-\3. «Boîte froide» et équipements de «boîte froide» non compris au point 2.A1.
-
-Note technique:
-
-Les équipements de «boîte froide» désignent une construction spécialement conçue, qui est propre aux installations GNL et prend en charge la phase de liquéfaction. La «boîte froide» comprend des échangeurs de chaleur, des tuyauteries, divers instruments et des isolants thermiques. La température à l’intérieur de la «boîte froide» est inférieure à –120 °C (conditions de condensation du gaz naturel). Elle a pour fonction d’assurer l’isolation thermique des équipements décrits plus haut.
-
-\4. Équipements pour terminaux de transport de gaz liquéfié à une température inférieure à –120 °C, ainsi que leurs composants spécialement conçus.
-
-\5. Conduite de transfert, souple ou non, d’un diamètre supérieur à 50 mm pour le transport de matières à une température inférieure à –120 °C.
-
-\6. Navires de transport maritime spécialement conçus pour le transport de GNL.
-
-\7. Unités de dessalage électrostatique spécialement conçues pour éliminer les contaminants présents dans le pétrole brut, tels que les sels, les substances solides et l’eau, ainsi que leurs composants spécialement conçus.
-
-\8. Tous les craqueurs, y compris les hydrocraqueurs et les unités de cokéfaction, spécialement conçus pour la conversion des gazoles sous vide ou des résidus sous vide, ainsi que leurs composants spécialement conçus.
-
-\9. Appareils d’hydrogénation spécialement conçus pour la désulfuration de l’essence et du kérosène, ainsi que leurs composants spécialement conçus.
-
-\10. Reformeurs catalytiques spécialement conçus pour la conversion d’essence désulfurée en essence à haut indice d’octane, ainsi que leurs composants spécialement conçus.
-
-\11. Unités de raffinage pour l’isomérisation de coupes C5-C6, et unités de raffinage pour l’alkylation d’oléfines légers, destinées à améliorer l’indice d’octane des coupes d’hydrocarbures.
-
-\12. Pompes spécialement conçues pour le transport de pétrole brut et de combustibles, d’une capacité égale ou supérieure à 50 m<sup>3</sup>/h, ainsi que leurs composants spécialement conçus.
-
-\13. Tubes d’un diamètre extérieur égal ou supérieur à 0,2 m, constitués de l’un des matériaux suivants:
-
-- a) aciers inoxydables contenant au minimum 23 % en poids de chrome;
-- b) aciers inoxydables et alliages de nickel présentant un indice PRE de résistance à la corrosion par piqûres supérieur à 33.
-
-Note technique:
-
-L’indice PRE («Pitting Resistance Equivalent») de résistance à la corrosion par piqûres caractérise la résistance des aciers inoxydables et des alliages du nickel à la corrosion par piqûration ou à la corrosion caverneuse. La résistance à la corrosion des aciers inoxydables et des alliages de nickel est déterminée en premier lieu par leur composition, à savoir: chrome, molybdène et azote. La formule mathématique de l’indice PRE est la suivante: PRE = Cr + 3,3 % Mo + 30 % NFR.
-
-\14. «Racleurs», ainsi que leurs composants spécialement conçus.
-
-Note technique:
-
-Le «racleur» est un appareil normalement utilisé pour nettoyer ou inspecter l’intérieur d’un pipeline (état de corrosion ou formation de fissures) et qui est propulsé par la pression du produit dans le pipeline.
-
-\15. Gares de lancement et de réception de racleurs pour l’introduction ou l’extraction des racleurs.
-
-\16. Réservoirs de stockage de pétrole brut et de combustibles d’un volume supérieur à 1000 m<sup>3</sup> (1 000 000 litres), comme suit, ainsi que leurs composants spécialement conçus:
-
-- a) réservoirs à toit fixe;
-- b) réservoirs à toit flottant.
-
-\17. Conduites sous-marines souples spécialement conçues pour le transport d’hydrocarbures et de fluides d’injection, d’eau ou de gaz, d’un diamètre supérieur à 50 mm.
-
-\18. Conduites flexibles à haute pression pour applications sous-marines et de surface.
-
-\19. Équipements d’isomérisation spécialement conçus pour la production d’essence à haut indice d’octane à partir d’hydrocarbures légers ainsi que leurs composants spécialement conçus.
-
-### 2. B. Équipements d’essai et d’inspection
-
-\1. Équipements spécialement conçus pour les essais et analyses de qualité (propriétés) du pétrole brut et des combustibles.
-
-\2. Systèmes de contrôle d’interface spécialement conçus pour le contrôle et l’optimisation du processus de dessalage.
-
-### 2. C. Matériaux
-
-\1. Diéthylèneglycol (CAS 111-46-6), triéthylèneglycol (CAS 112-27-6).
-
-\2. N-méthyl-pyrrolidone (CAS 872-50-4), sulfolane (CAS 126-33-0).
-
-\3. Zéolithes, d’origine naturelle ou de synthèse, spécialement conçus pour le craquage catalytique sur lit fluide ou pour la purification et/ou la déshydratation de gaz, y compris de gaz naturels.
-
-\4. Catalyseurs de craquage et de conversion d’hydrocarbures, comme suit:
-
-- a) métal unique (groupe du platine) sur support de type alumine ou zéolithe, spécialement conçu pour le procédé de reformage catalytique;
-- b) espèce métallique mixte (platine combiné à d’autres métaux nobles) sur support de type alumine ou zéolithe, spécialement conçue pour le procédé de reformage catalytique;
-- c) catalyseurs au cobalt ou au nickel dopé au molybdène sur support de type alumine ou zéolithe, spécialement conçus pour le procédé de désulfuration catalytique;
-- d) catalyseurs au palladium, au nickel, au chrome et au tungstène sur support de type alumine ou zéolithe, spécialement conçus pour le procédé d’hydrocraquage catalytique.
-
-\5. Additifs pour essence spécialement formulés pour accroître l’indice d’octane de l’essence.
-
-Note:
-
-Cette rubrique comprend l’éthyl-tertio-butyl-éther (ETBE) (CAS 637-92-3) et le méthyl-tertio-butyl-éther (MTBE) (CAS 1634-04-4).
-
-### 2. D. Logiciels
-
-\1. «Logiciels» spécialement conçus pour «l’exploitation» d’installations de GNL ou de sous-éléments particuliers de telles installations.
-
-\2. «Logiciels» spécialement conçus pour le «développement», la «production» ou «l’exploitation» d’installations (ainsi que leurs sous-éléments) de raffinage du pétrole.
-
-### 2. E. Technologie
-
-\1. «Technologies» de conditionnement et de purification du gaz naturel brut (déshydratation, adoucissement, élimination des impuretés).
-
-\2. «Technologies» de liquéfaction du gaz naturel, y compris les «technologies» nécessaires au «développement», à la «production» ou à «l’exploitation» d’installations de GNL.
-
-\3. «Technologies» de transport du gaz naturel liquéfié.
-
-\4. «Technologies» «nécessaires» au «développement», à la «production» ou à «l’exploitation» de navires de transport maritime spécialement conçus pour le transport de gaz naturel liquéfié.
-
-\5. «Technologie» de stockage du pétrole brut et des combustibles.
-
-\6. «Technologies» «nécessaires» au «développement», à la «production» et à «l’exploitation» d’une raffinerie comme, par exemple:
-
-- 6\.1. «Technologie» de conversion des oléfines légers en essence;
-- 6\.2. Technologies de reformage catalytique et d’isomérisation;
-- 6\.3. Technologies de craquage catalytique et thermique.
-
-Annexe 4
-
-(art. 5, al. 3 et 4)
-
-## Équipements et technologies devant servir pour la construction de nouvelles centrales pour la production d’électricité
-
-<table>
-<tr><td>N<sup>o</sup> du tarif</td><td>Désignation</td></tr>
-<tr><td>8406 81</td><td>Turbines à vapeur d’une puissance supérieure à 40 MW</td></tr>
-<tr><td>8411 82</td><td>Turbines à gaz d’une puissance excédant 5000 kW</td></tr>
-<tr><td>ex 8501</td><td>Tous moteurs et machines génératrices électriques d’une puissance excédant 3 MW ou 5000 kVA</td></tr>
-</table>
-
-Annexe 5[^t-2]
+Annexe 5[^t-3]
 
 (art. 6, al. 1)
 
 ## Équipements, technologies et logiciels destinés à être utilisés pour la surveillance
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 9 juin 2016, en vigueur depuis le 10 juin 2016 ([RO 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)).
+[^t-3]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 9 juin 2016, en vigueur depuis le 10 juin 2016 ([RO 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)).
 
 ### 1. Liste des équipements
 
@@ -941,24 +657,35 @@ Annexe 6
 <tr><td>7012</td><td>Déchets et débris de métaux précieux ou de plaqué ou doublé de métaux précieux; autres déchets et débris contenant des métaux précieux ou des composés de métaux précieux du type de ceux utilisés principalement pour la récupération des métaux précieux</td></tr>
 </table>
 
-Annexe 7[^t-3]
+Annexe 7[^t-4]
 
-(art. 10, al. 1 et 17, al. 1)
+(art. 10, al. 1 et 3, let. e, 16, let. b, et 17, al. 1)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
+## Personnes physiques, entreprises et entités visées par les sanctions financières de l’art. 10, al. 1, et personnes physiques interdites d’entrée et de transit
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I 18 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I des O du DEFR du 11 fév. 2013 ([RO 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), du 6 mai 2013 ([RO 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), du 4 nov. 2013 ([RO 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), du 20 juin 2014 ([RO 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), du 4 août 2014 ([RO 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), du 9 sept. 2014 ([RO 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), du 16 déc. 2014 ([RO 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), du 10 mars 2015 ([RO 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), du 17 mars 2015 ([RO 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), du 2 juin 2015 ([RO 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), du 16 juin 2015 ([RO 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), du 30 juin 2015 ([RO 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), du 18 janv. 2016 ([RO 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), le ch. I al. 1 de l’O du DEFR du 9 juin 2016 ([RO 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), le ch. I des O du DEFR du 10 oct. 2016 ([RO 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), du 7 nov. 2016 ([RO 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), du 22 nov. 2016 ([RO 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), du 8 déc. 2016 ([RO 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), du 27 mars 2017 ([RO 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), du 15 juin 2017 ([RO 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), du 19 juil. 2017 ([RO 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), du 2 août 2017 ([RO 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), du 2 oct. 2017 ([RO 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), du 6 mars 2018 ([RO 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), du 26 mars 2018 ([RO 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), du 11 juin 2018 ([RO 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), du 17 juil. 2018 ([RO 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), du 15 juil. 2019 ([RO 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), le ch. I al. 1 de l’O du DEFR du 12 août 2019 ([RO 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), le ch. I des O du DEFR du 27 sept. 2019 ([RO 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), du 26 fév. 2020 ([RO 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), du 25 juin 2020 ([RO 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), du 29 oct. 2020 ([RO 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), du 18 nov. 2020 ([RO 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), du 2 fév. 2021 ([RO 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), du 20 mai 2021 ([RO 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), du 10 juin 2021 ([RO 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)), du 24 nov. 2021 ([RO 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)), du 13 janv. 2022 ([RO 2022 7](https://fedlex.data.admin.ch/eli/oc/2022/7)), du 4 mars 2022 ([RO 2022 153](https://fedlex.data.admin.ch/eli/oc/2022/153)), du 27 sept. 2022 ([RO 2022 536](https://fedlex.data.admin.ch/eli/oc/2022/536)), du 4 mai 2023 ([RO 2023 219](https://fedlex.data.admin.ch/eli/oc/2023/219)), du 8 juin 2023 ([RO 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)), du 2 août 2023 ([RO 2023 440](https://fedlex.data.admin.ch/eli/oc/2023/440)), du 1<sup>er</sup> fév. 2024 ([RO 2024 54](https://fedlex.data.admin.ch/eli/oc/2024/54)), du 24 juin 2024 ([RO 2024 312](https://fedlex.data.admin.ch/eli/oc/2024/312)), du 7 oct. 2024 ([RO 2024 540](https://fedlex.data.admin.ch/eli/oc/2024/540)) et du 9 déc. 2024, en vigueur depuis le 10 déc. 2024 à 18 heures ([RO 2024 757](https://fedlex.data.admin.ch/eli/oc/2024/757)).
-[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/757](https://fedlex.data.admin.ch/eli/oc/2024/757) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 8[^t-4]
+Annexe 7a[^t-5]
+
+(art. 10, al. 1<sup>bis</sup>, et 16, let. b)
+
+## Entreprises et entités visées par les sanctions financières de l’art. 10, al. 1<sup>bis</sup>
+
+[^annex7a-lvlu1-1]
+
+[^t-5]: Introduite par le ch. II al. 3 de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^annex7a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 8[^t-6]
 
 (art. 9)
 
 ## Articles de luxe
 
-[^t-4]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 12 août 2019, en vigueur depuis le 13 août 2019 ([RO 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
+[^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 12 août 2019, en vigueur depuis le 13 août 2019 ([RO 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
 
 <table>
 <tr><th>N° du tarif</th><th>Désignation</th></tr>
@@ -982,13 +709,13 @@ Annexe 8[^t-4]
 <tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Articles et équipements pour les billards, les jeux de quilles automatiques (bowlings, par ex.), les jeux de casino et les jeux fonctionnant par l’introduction d’une pièce de monnaie ou d’un billet de banque, dont le prix de vente unitaire est supérieur à 600 CHF</td></tr>
 </table>
 
-Annexe 9[^t-5]
+Annexe 9[^t-7]
 
 (art. 9*a*, al. 1)
 
 ## Biens culturels
 
-[^t-5]: Introduite par le ch. II de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^t-7]: Introduite par le ch. II de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 Sont réputés biens culturels au sens de l’art. 9*a*:
 
@@ -1039,47 +766,6 @@ Sont réputés biens culturels au sens de l’art. 9*a*:
 
   - b. ayant plus de 100 ans.
 
-Annexe 10[^t-6]
+Annexe 10[^t-8]
 
-(art. 4*a*)
-
-## Carburéacteurs et additifs pour carburants
-
-[^t-6]: Introduite par le ch. II de l’O du 11 fév. 2015, en vigueur depuis le 11 fév. 2015 ([RO 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
-
-<table>
-<tr><th>Ch.</th><th>No du tarif</th><th>Désignation</th></tr>
-<tr><td>1</td><td></td><td>Carburéacteurs (autres que le kérosène):</td></tr>
-<tr><td></td><td>2710 12 11</td><td>– carburéacteurs type essence (huiles légères);</td></tr>
-<tr><td></td><td>2710 19 11</td><td>– autres que le kérosène (huiles moyennes).</td></tr>
-<tr><td>2</td><td>2710 19 11</td><td>Carburéacteurs type kérosène (huiles moyennes).</td></tr>
-<tr><td>3</td><td>2710 20 10</td><td>Carburéacteurs type kérosène mélangés avec du biodiesel (pour autant qu’ils contiennent encore 70 % ou plus en poids d’huiles de pétrole ou de minéraux bitumineux).</td></tr>
-<tr><td>4</td><td></td><td>Inhibiteurs d’oxydation Inhibiteurs d’oxydation utilisés dans les additifs pour huiles lubrifiantes:.</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– inhibiteurs d’oxydation contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres inhibiteurs d’oxydation;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Inhibiteurs d’oxydation pour d’autres liquides utilisés aux mêmes fins que les huiles minérales</td></tr>
-<tr><td>5</td><td></td><td>Additifs dissipateurs statiques Additifs dissipateurs statiques pour huiles lubrifiantes:</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Additifs dissipateurs statiques pour d’autres liquides utilisés aux mêmes fins que les huiles minérales.</td></tr>
-<tr><td>6</td><td></td><td>Désactivateurs de métaux Désactivateurs de métaux pour huiles lubrifiantes:</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Désactivateurs de métaux pour d’autres liquides utilisés aux mêmes fins que les huiles minérales.</td></tr>
-<tr><td>7</td><td></td><td>Additifs biocides Additifs biocides pour huiles lubrifiantes:</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Additifs biocides pour d’autres liquides utilisés aux mêmes fins que les huiles minérales.</td></tr>
-<tr><td>8</td><td></td><td>Additifs améliorant la stabilité thermique Améliorants de stabilité thermique pour huiles lubrifiantes:</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Améliorants de stabilité thermique pour d’autres liquides utilisés aux mêmes fins que les huiles minérales.</td></tr>
-<tr><td>9</td><td></td><td>Inhibiteurs de corrosion Inhibiteurs de corrosion pour huiles lubrifiantes:</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Inhibiteurs de corrosion pour d’autres liquides utilisés aux mêmes fins que les huiles minérales.</td></tr>
-<tr><td>10</td><td></td><td>Additifs antiglace pour systèmes d’alimentation (additifs antigel) Additifs antiglace pour systèmes d’alimentation pour huiles lubrifiantes:</td></tr>
-<tr><td></td><td>3811 21 00</td><td>– contenant des huiles de pétrole;</td></tr>
-<tr><td></td><td>3811 29 00</td><td>– autres;</td></tr>
-<tr><td></td><td>3811 90 90</td><td>Additifs antiglace pour systèmes d’alimentation pour d’autres liquides utilisés aux mêmes fins que les huiles minérales.</td></tr>
-</table>
+[^t-8]: Introduite par le ch. II de l’O du 11 fév. 2015 ([RO 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Abrogée par le ch. II al. 1 de l’O du 7 mars 2025, avec effet au 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
