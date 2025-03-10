@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 26.02.2025 de mise en vigueur
+title: ARRÊTÉ du 05.03.2025 de mise en vigeur
 language: fr
-version: 2025-03-04
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=cb4bfa60-3b27-46c3-9622-e4293ff46bf9"
+version: 2025-03-11
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=c1d6e06f-3cc0-430c-a571-741b3a6d3cd2"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ de mise en vigueur
+# ARRÊTÉ de mise en vigeur
 
-du 26 février 2025
+du 5 mars 2025
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,11 +21,19 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après du 26 novembre 2024 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 10 décembre 2024, entrent en vigueur le 1er mars 2025 :
+<sup>1</sup> Les actes législatifs ci-après des 11 et 17 décembre 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 24 décembre 2024, entrent en vigueur avec effet :
 
-- 1\. décret du 26 novembre 2024 accordant au Conseil d'Etat un crédit d'investissement de CHF 1'100'000.- pour favoriser le réemploi des matériaux et l'utilisation de matériaux durables dans la construction (BLV 705.00) ;
-- 2\. décret du 26 novembre 2024 accordant au Conseil d'Etat un crédit d'investissement de CHF 4'766'000.- destiné à financer la participation du Canton de Vaud à l'agenda ANS pour les années 2024 à 2027 (BLV 173.00) ;
-- 3\. décret du 26 novembre 2024 accordant au Conseil d'Etat un crédit d'étude complémentaire de CHF 12'620'000.- pour financer les études relatives à la construction de la future prison des Grands-Marais (PGM) en une étape de travaux au lieu de deux ainsi que pour financer les diagnostics archéologiques relatifs à la construction de la future prison des Grands-Marais (PGM) et des sites adjacents, la Nouvelle colonie ouverte (COO) et le Poste de contrôle avancé (PCA) dans la Plaine de l'Orbe (BLV 340.10) ;
-- 4\. décret du 26 novembre 2024 accordant au Conseil d'État un crédit d'objet de CHF 41'499'000.- pour financer des études et la réalisation de la phase 1 (premiers ouvrages prioritaires) des infrastructures nécessaires et communes aux bâtiments existants et futurs du Pôle pénitentiaire Nord vaudois (PPNV) à Orbe (BLV 340.10) ;
-- 5\. décret du 26 novembre 2024 accordant au Conseil d'État un crédit d'étude de CHF 4'261'000.- pour financer les études de la phase 2 des infrastructures nécessaires et communes aux bâtiments existants et futurs du Pôle pénitentiaire Nord vaudois (PPNV) à Orbe (BLV 340.10 ) ;
-- 6\. décret du 26 novembre 2024 accordant au Conseil d'État un crédit d'investissement de CHF 14'575'000.- pour financer les études et les travaux de transformation et d'aménagement nécessaires à la relocalisation de la Justice de paix du district de Lausanne des Côtes-de-Montbenon 8 à Lausanne vers Provence 4 à Lausanne (BLV 173.00).
+- a. au 1er janvier 2024 :
+- 1\. décret du 11 décembre 2024 modifiant celui du 21 décembre 2022 fixant la contribution de l'Etat et des communes au budget annuel de la Fondation pour l'enseignement de la musique (FEM) pour les années 2022 à 2026 (BLV 444.00).
+- b. au 1er janvier 2025 :
+- 1\. loi du 11 décembre 2024 modifiant celle du 4 juillet 2000 sur les impôts directs cantonaux (BLV 642.11) ;
+- 2\. loi du 11 décembre 2024 modifiant celle du 27 février 1963 concernant le droit de mutation sur les transferts immobiliers et l'impôt sur les successions et donations (BLV 648.11) ;
+- 3\. loi du 11 décembre 2024 modifiant celle du 27 février 1963 concernant le droit de mutation sur les transferts immobiliers et l'impôt sur les successions et donations (BLV 648.11) ;
+- 4\. loi du 11 décembre 2024 modifiant celle du 8 avril 2014 sur le patrimoine mobilier et immatériel (BLV 446.12) ;
+- 5\. loi du 17 décembre 2024 modifiant celle du 10 octobre 2023 sur la réduction de l'impôt cantonal sur le revenu des personnes physiques (BLV 642.12) ;
+- 6\. décret du 11 décembre 2024 fixant, pour l'exercice 2025, le montant limite des nouveaux emprunts contractés par l'Etat de Vaud ainsi que le montant limite de l'avance de trésorerie que l'Etat de Vaud peut accorder à la Centrale d'encaissement des établissements sanitaires vaudois (CEESV) et au CHUV (BLV 600.00) ;
+- 7\. décret du 11 décembre 2024 fixant, pour l'exercice 2025, les montants maximaux autorisés des engagements de l'Etat par voie de prêts, de cautionnements et d'arrière-cautionnements conformément à la loi du 12 juin 2007 sur l'appui au développement économique (BLV 900.00) ;
+- 8\. décret du 11 décembre 2024 fixant, pour l'exercice 2025 le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements sanitaires privés reconnus d'intérêt public afin de financer leurs investissements dans le cadre de la LPFES (BLV 810.00) ;
+- 9\. décret du 11 décembre 2024 fixant, pour l'exercice 2025, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements socio-éducatifs reconnus d'intérêt public afin de financer leurs investissements dans le cadre de la LAIH (BLV 850.60) ;
+- 10\. décret du 11 décembre 2024 fixant, pour l'exercice 2025, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par les institutions socio-éducatives afin de financer leurs investissements dans le cadre de la LProMin (BLV 850.40) ;
+- 11\. décret 11 décembre 2024 fixant, pour l'exercice 2025, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements de pédagogie spécialisée privés reconnus afin de financer leurs investissements dans le cadre de la LPS (BLV 417.30).
