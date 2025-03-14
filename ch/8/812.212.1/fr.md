@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2024-11-01
+version: 2025-03-15
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20250315/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20250315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20250315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (État le 1<sup>er</sup> novembre 2024)
+du 14 novembre 2018 (État le 15 mars 2025)
 
 Le Conseil fédéral suisse,
 
@@ -795,6 +795,18 @@ Tout médecin traitant titulaire d’une autorisation cantonale de pratiquer peu
 [^49-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^49-2]: Nouvelle teneur selon le ch. III 2 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
+#### Art. 49a
+
+**Importation par les organisations intergouvernementales et les institutions internationales de médicaments prêts à l’emploi non autorisés**[^49a-1]
+
+Les organisations intergouvernementales et les institutions internationales autorisées, en vertu d’un accord conclu avec la Suisse relatif aux privilèges, immunités et facilités, à importer des objets pour leur usage officiel peuvent importer, dans la quantité requise, un médicament à usage humain prêt à l’emploi non autorisé en Suisse pour assurer l’exercice et la continuité de leurs activités officielles, si le médicament:
+
+- a. est importé sous la responsabilité d’un médecin du service médical de l’organisation ou de l’institution;
+- b. est destiné exclusivement à un usage officiel au sein de l’organisation ou de l’institution, et
+- c. est autorisé dans un pays ayant institué un contrôle des médicaments équivalent ou a été autorisé par l’Organisation mondiale de la santé en procédure d’urgence.
+
+[^49a-1]: Introduit par le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 15 mars 2025 ([RO 2025 109](https://fedlex.data.admin.ch/eli/oc/2025/109)).
+
 #### Art. 50
 
 **Médicaments susceptibles d’être utilisés pour l’exécution d’êtres humains**
@@ -865,7 +877,7 @@ Une autorisation à durée limitée d’administration de médicaments selon l�
 <sup>3</sup> Il transmet chaque année un rapport de sécurité à Swissmedic.
 
 [^54-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^54-2]: Nouvelle teneur selon le ch. III 2 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 (RO **202****4** 322).
+[^54-2]: Nouvelle teneur selon le ch. III 2 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 55
 

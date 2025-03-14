@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2024-11-01
+version: 2025-03-15
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20250315/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20250315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20250315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 1° novembre 2024)
+del 14 novembre 2018 (Stato 15 marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -267,7 +267,7 @@ Se i medicamenti pronti per l’uso vengono fabbricati in uno Stato con il quale
 
 <sup>2</sup> L’importazione, l’esportazione e il commercio all’ingrosso di medicamenti devono essere conformi alle norme GDP di cui all’allegato 4.[^15-1]
 
-[^15-1]: Nuovo testo giusta il n. I 1 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^15-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 16
 
@@ -640,7 +640,7 @@ L’autorizzazione è rilasciata se:
 <sup>5</sup> Al richiedente è rilasciata un’unica autorizzazione che comprende tutte le attività richieste in conformità con la LATer e con la presente ordinanza.
 
 [^39-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^39-2]: Nuovo testo giusta l’all. 10 n. II 24 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^39-2]: Nuovo testo giusta l’all. 10 cifra II n. 24 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
@@ -795,7 +795,19 @@ Un medico curante titolare di un’autorizzazione cantonale all’esercizio dell
 <sup>7</sup> L’importazione di medicamenti veterinari da parte dei veterinari è disciplinata dagli articoli 7‒7*d* dell’ordinanza del 18 agosto 2004[^49-1] sui medicamenti veterinari.[^49-2]
 
 [^49-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^49-2]: Nuovo testo giusta il n. III 2 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^49-2]: Nuovo testo giusta la cifra III n. 2 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 49a
+
+**Importazione da parte di organizzazioni intergovernative e istituzioni internazionali di medicamenti pronti per l’uso non omologati**[^49a-1]
+
+Nella misura in cui sono autorizzate, in virtù di un accordo con la Svizzera su privilegi, immunità e facilitazioni, a importare oggetti destinati al loro uso ufficiale, organizzazioni intergovernative e istituzioni internazionali possono importare nella quantità necessaria un medicamento per uso umano pronto per l’uso non omologato in Svizzera per garantire l’attività ufficiale e il mantenimento dell’operatività, sempreché il medicamento:
+
+- a. sia importato sotto la responsabilità di un medico del servizio medico dell’organizzazione o dell’istituzione;
+- b. sia destinato esclusivamente all’uso ufficiale all’interno dell’organizzazione o dell’istituzione; e
+- c. sia omologato in un Paese che prevede un controllo dei medicamenti equivalente o sia stato omologato dall’Organizzazione mondiale della sanità nel quadro di una procedura d’urgenza.
+
+[^49a-1]: Introdotto dalla cifra I dell’O del 12 feb. 2025, in vigore dal 15 mar. 2025 ([RU 2025 109](https://fedlex.data.admin.ch/eli/oc/2025/109)).
 
 #### Art. 50
 
@@ -867,7 +879,7 @@ Un’autorizzazione temporanea dell’uso di medicamenti secondo l’articolo 9*
 <sup>3</sup> Trasmette annualmente a Swissmedic un rapporto sulla sicurezza.
 
 [^54-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^54-2]: Nuovo testo giusta il n. III 2 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^54-2]: Nuovo testo giusta la cifra III n. 2 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 55
 
@@ -986,7 +998,7 @@ Gli organi competenti per l’esecuzione sono autorizzati a trattare i dati pers
 - a. i dati concernenti lo stato di salute rilevati in relazione con la sorveglianza del mercato da parte delle autorità, nel caso di sangue ed emoderivati (art. 39, 58 e 59 LATer);
 - b.[^66-1] i dati concernenti perseguimenti e sanzioni amministrativi e penali essenziali per esaminare domande di autorizzazione, segnatamente per valutare se un responsabile tecnico è adatto a questo compito specifico.
 
-[^66-1]: Nuovo testo giusta l’all. 2 n. II 98 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66-1]: Nuovo testo giusta l’all. 2 cifra II n. 98 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 67
 
@@ -1006,7 +1018,7 @@ Gli organi competenti per l’esecuzione sono autorizzati a trattare i dati pers
 
 <sup>2</sup> Gli accessi ai sistemi d’informazione sono verbalizzati. I dati verbalizzati sono conservati per al massimo due anni separatamente dal sistema in cui sono trattati i dati personali.[^68-1]
 
-[^68-1]: Nuovo testo giusta l’all. 2 n. II 98 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^68-1]: Nuovo testo giusta l’all. 2 cifra II n. 98 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 69
 
@@ -1171,7 +1183,7 @@ Allegato 4[^t-3]
 
 ## Norme internazionali della buona prassi di distribuzione
 
-[^t-3]: Nuovo testo giusta il n. I 1 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^t-3]: Nuovo testo giusta la cifra I n. 1 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 Quali principi della buona prassi di distribuzione (Good Distribution Practice; GDP) sono applicabili le seguenti disposizioni:
 
@@ -1297,5 +1309,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)n. II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 n. II 3]
-[^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)..
+[^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)cifra I n. 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)cifra II n. 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)cifra II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)cifra I n. 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 cifra II n. 3]
+[^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786).

@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2024-11-01
+version: 2025-03-15
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20250315/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20250315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20250315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/de"
 
 (Arzneimittel-Bewilligungsverordnung, AMBV)
 
-vom 14. November 2018 (Stand am 1. November 2024)
+vom 14. November 2018 (Stand am 15. März 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -799,6 +799,18 @@ Behandelnde Ärztinnen oder Ärzte mit einer kantonalen Berufsausübungsbewillig
 [^49-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^49-2]: Fassung gemäss Ziff. III 2 der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
+#### Art. 49a
+
+**Einfuhr nicht zugelassener verwendungsfertiger Arzneimittel durch zwischenstaatliche Organisationen und internationale Institutionen**[^49a-1]
+
+Soweit zwischenstaatliche Organisationen und internationale Institutionen aufgrund eines Abkommens mit der Schweiz betreffend Vorrechte, Immunitäten und Erleichterungen berechtigt sind, Gegenstände für ihren amtlichen Gebrauch einzuführen, dürfen sie ein verwendungsfertiges Humanarzneimittel, das in der Schweiz nicht zugelassen ist, zur Sicherstellung der amtlichen Tätigkeit und zur Aufrechterhaltung des Betriebs in der erforderlichen Menge einführen, sofern das Arzneimittel:
+
+- a. unter der Verantwortung einer Ärztin oder eines Arztes des medizinischen Dienstes der Organisation oder Institution eingeführt wird;
+- b. ausschliesslich für den amtlichen Gebrauch innerhalb der Organisation oder der Institution bestimmt ist; und
+- c. in einem Land mit vergleichbarer Arzneimittelkontrolle zugelassen ist oder von der Weltgesundheitsorganisation im Rahmen des Dringlichkeitsverfahrens zugelassen wurde.
+
+[^49a-1]: Eingefügt durch Ziff. I der V vom 12. Febr. 2025, in Kraft seit 15. März 2025 ([AS 2025 109](https://fedlex.data.admin.ch/eli/oc/2025/109)).
+
 #### Art. 50
 
 **Für die Hinrichtung von Menschen verwendbare Arzneimittel**
@@ -1187,7 +1199,6 @@ Als Regeln der Guten Vertriebspraxis (Good Distribution Practice; GDP) sind folg
   - 2\. Durchführungsverordnung (EU) 2021/1280[^annex4-lvlu1-4];
 
 - d. besondere Bestimmungen für Fütterungsarzneimittel: sinngemäss Verordnung (EU) 2019/4[^annex4-lvlu1-5].
-- [tab]
 
 [^annex4-lvlu1-1]: Mitteilung der Europäischen Kommission, ABl. C 343 vom 23.11.2013, S. 1.
 [^annex4-lvlu1-2]: Durchführungsverordnung (EU) 2021/1248 der Kommission vom 29. Juli 2021 über Massnahmen zur guten Vertriebspraxis für Tierarzneimittel gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates; Fassung gemäss ABl. L 272 vom 30.7.2021, S. 46.

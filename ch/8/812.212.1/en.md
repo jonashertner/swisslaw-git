@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2024-11-01
+version: 2025-03-15
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20250315/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20250315-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20250315/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 1 November 2024)
+of 14 November 2018 (Status as of 15 March 2025)
 
 The Swiss Federal Council,
 
@@ -800,6 +800,18 @@ Treating physicians with a cantonal professional licence may import small quanti
 
 [^49-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^49-2]: Amended by No III 2 of the O of 3 June 2022, in force since 1 July 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 49a
+
+**Import of non-authorised ready-to-use medicinal products by intergovernmental organisations and international institutions**[^49a-1]
+
+Insofar as intergovernmental organisations and international institutions are entitled under an agreement with Switzerland concerning privileges, immunities and facilities, to import items for their official use, they may import a ready-to-use human medicinal product that is not authorised in Switzerland in the quantities required to for official activities and to maintain operations, provided that the medicinal product:
+
+- a. is imported under the supervision of a physician in the medical service of the organisation or institution;
+- b. is intended exclusively for official use within the organisation or institution and
+- c. is authorised in a country with comparable regulatory system or has been authorised by the World Health Organization under its emergency procedure.
+
+[^49a-1]: Inserted by No I of the O of 12 Feb. 2025, in force since 15 March 2025 ([AS 2025 109](https://fedlex.data.admin.ch/eli/oc/2025/109)).
 
 #### Art. 50
 
