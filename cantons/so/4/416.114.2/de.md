@@ -4,13 +4,12 @@ number: "416.114.2"
 title: Reglement für die Integrationsvorlehre
 short: INVOL-Reglement
 language: de
-version: 2017-12-01
-valid_until: 2025-03-14
-version_adopted: 2017-11-14
+version: 2025-03-15
+version_adopted: 2025-02-20
 adopted: 2017-11-14
 in_force: 2017-12-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.114.2"
-pdf: "https://bgs.so.ch/api/de/versions/5509/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5509/pdf_file"
 
 (INVOL-Reglement)
 
-Vom 14.11.2017 (Stand 01.12.2017)
+Vom 14.11.2017 (Stand 15.03.2025)
 
 Das Departement für Bildung und Kultur
 
@@ -56,7 +55,7 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die Sozialregionen melden ab 1. April dem Berufsbildungszentrum Olten (BBZ Olten) geeignete Personen, die motiviert und in der Lage sind, eine berufliche Grundbildung anzutreten.
+<sup>1</sup> Die Sozialregionen melden ab 1. Februar dem Berufsbildungszentrum Olten (BBZ Olten) geeignete Personen, die motiviert und in der Lage sind, eine berufliche Grundbildung anzutreten.
 
 <sup>2</sup> Das BBZ Olten setzt für das Aufnahmeverfahren eine Koordinationsperson ein. Das Rektorat entscheidet über die Aufnahme.
 
@@ -72,10 +71,10 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen der verfügbaren Plätze wird aufgenommen, wer
 
-- a) als Flüchtling anerkannt oder vorläufig aufgenommen ist;
+- a) als Flüchtling anerkannt, vorläufig aufgenommen, spät zugewandert ist oder über den Schutzstatus S verfügt;
 - b) im Kanton Solothurn wohnt;
 - c) über Berufserfahrung oder über eine Ausbildung im Herkunftsland verfügt;
-- d) in der Regel zwischen 18 und 35 Jahre alt ist;
+- d) zwischen 16 und 35 Jahre alt ist; ausnahmsweise können auch ältere Personen aufgenommen werden;
 - e) sich auf den Einstieg in die berufliche Grundbildung vorbereiten will;
 - f) über ausreichende Deutschkenntnisse verfügt und
 - g) über einen Praktikumsvertrag verfügt.
@@ -106,7 +105,7 @@ beschliesst:
 
 <sup>1</sup> Die schulische Ausbildung basiert auf einem allgemeinbildenden sowie einem berufskundlichen Teil mit Bezug zum entsprechenden Berufsfeld.
 
-<sup>2</sup> Sie findet je nach Schulstandort des entsprechenden Lehrberufes an der Gewerblich-Industriellen Berufsfachschule Olten oder Solothurn statt.
+<sup>2</sup> Sie findet an der Gewerblich-Industriellen Berufsfachschule Olten statt.
 
 #### § 9
 
