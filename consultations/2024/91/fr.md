@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Initiative parlementaire. La pauvreté n’est pas un crime
 document: Projet mis en consultation
 language: fr

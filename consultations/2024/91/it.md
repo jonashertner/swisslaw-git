@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iniziativa parlamentare. La povertà non è un reato
 document: Progetto posto in consultazione
 language: it

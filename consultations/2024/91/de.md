@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Parlamentarische Initiative. Armut ist kein Verbrechen
 document: Vernehmlassungsvorlage
 language: de
