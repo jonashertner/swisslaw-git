@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2025-03-04
+version: 2025-03-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250304/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250304-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250304/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250317/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250317-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250317/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 4 marzo 2025)
+del 4 marzo 2022 (Stato 17 marzo 2025)
 
 Il Consiglio federale svizzero,
 
@@ -2709,8 +2709,8 @@ Allegato 14[^t-11]
 
 [^annex14-lvlu1-1]
 
-[^t-11]: Aggiornato dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex14-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-11]: Aggiornato dalle cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 3 mar. 2025, in vigore dal 17 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
+[^annex14-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/142](https://fedlex.data.admin.ch/eli/oc/2025/142) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14a[^t-12]
 
