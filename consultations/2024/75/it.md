@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell'ordinanza 2 sulla legge sul lavoro: Disposizioni speciali per l’ assistenza live-in (Art. 17a - 17e OLL 2)"
 document: Progetto posto in consultazione
 language: it

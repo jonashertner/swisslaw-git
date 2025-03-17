@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l'ordonnance 2 relative à la loi sur le travail : dispositions spéciales l’assistance Live-In (Art. 17a - 17e OLT 2)"
 document: Projet mis en consultation
 language: fr

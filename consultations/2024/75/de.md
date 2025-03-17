@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung 2 zum Arbeitsgesetz: Sonderbestimmungen für die Live-in-Betreuung (Art. 17a - 17e ArGV 2)"
 document: Vernehmlassungsvorlage
 language: de
