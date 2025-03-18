@@ -4,7 +4,7 @@ number: "840.11.2.5"
 title: "RÈGLEMENT du 17.01.2007 sur les conditions d'occupation des logements à loyers modérés (RCOLLM)"
 short: RCOLLM
 language: fr
-version: 2015-07-01
+version: 2025-03-19
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.2.5?id=11eb8693-1ad6-4df8-b6c9-1e49019f4186"
 ---
 
@@ -64,6 +64,8 @@ arrête
 <sup>1</sup> Le service en charge du logement (ci-après : le service) est l'autorité compétente pour statuer sur les candidatures des locataires des logements à loyers modérés ou les demandes d'autorisation de sous-location. Il prend les mesures qu'impose la modification de la situation des locataires et sous-locataires.
 
 <sup>2</sup> Le service peut déléguer les compétences prévues à l'alinéa 1 aux offices communaux du logement lesquels communiquent au service copie de toutes leurs décisions prises en application de l'article 12 du règlement.
+
+<sup>2bis</sup> Les communes sans délégation de compétences qui ont édicté des règles communales spéciales approuvées par le canton en application de l'article 13 sont compétentes pour statuer sur les candidatures des locataires pour les logements avec aide à la pierre linéaire cantonale et communale. Leur décision favorable est une condition préalable à l'examen de la candidature par le service.
 
 [^2-2]: Modif. 4 du 19.03.2025: Introduction Al. 2bis; entrée en vigueur au 19.03.2025
 
@@ -216,9 +218,9 @@ Nombre de pièces Nombre de personnes 3 pièces 2 personnes 4 pièces 3 personne
 
 <sup>2</sup> Le bailleur doit conclure le contrat de bail avec l'un des candidats locataires qui remplissent les conditions d'occupation selon la décision de l'autorité compétente. Le bailleur donne au locataire toutes les précisions utiles concernant les modalités de l'aide octroyée par les pouvoirs publics.
 
-<sup>3</sup> Le bailleur informe les candidats locataires qui ne remplissent pas les conditions d'occupation de la décision de l'autorité compétente, avec indication des délai et voie de recours.
+<sup>3</sup> Le bailleur informe les candidats locataires qui ne remplissent pas les conditions d'occupation de la décision de l'autorité compétente.
 
-[^15-1]: Modif. 4 du 19.03.2025: Introduction Art. 3, Al. 2bis; entrée en vigueur au 19.03.2025; Modification Al. 3; entrée en vigueur au 19.03.2025
+[^15-1]: Modif. 4 du 19.03.2025: Modification Al. 3; entrée en vigueur au 19.03.2025
 
 ### Section II Sous-location
 
@@ -234,9 +236,9 @@ Nombre de pièces Nombre de personnes 3 pièces 2 personnes 4 pièces 3 personne
 
 <sup>1</sup> L'autorité compétente examine la proposition de sous-location.
 
-<sup>2</sup> Elle communique la décision d'autorisation de sous-location au locataire, ainsi qu'une copie, pour information, au bailleur. La décision de refus de l'autorisation avec indication du délai et de la voie de recours est communiquée au locataire et, en copie, au bailleur.
+<sup>2</sup> Elle communique sa décision au locataire, ainsi qu'une copie, pour information, au bailleur.
 
-[^17-1]: Modif. 4 du 19.03.2025: Introduction Art. 3, Al. 2bis; entrée en vigueur au 19.03.2025; Modification Al. 2; entrée en vigueur au 19.03.2025
+[^17-1]: Modif. 4 du 19.03.2025: Modification Al. 2; entrée en vigueur au 19.03.2025
 
 ## Chapitre III Contrôle des conditions d'occupation
 
@@ -319,29 +321,27 @@ Nombre de pièces Nombre de personnes 3 pièces 2 personnes 4 pièces 3 personne
 
 [^25-1]: Modif. 4 du 19.03.2025: Modification ; entrée en vigueur au 19.03.2025
 
-## Chapitre IV Recours et sanctions
+## Chapitre IV Réclamation et sanctions
 
 [^25-1]
 
 #### Art. 26
 
-**Décisions des offices communaux du logement [^chapterChapitreIV-1]**
+**Décisions communales [^chapterChapitreIV-1]**
 
-<sup>1</sup> Les décisions des offices communaux du logement qui agissent en vertu de l'article 3 du règlement peuvent faire l'objet d'un recours adressé à l'autorité dont ceux-ci dépendent dans les 30 jours dès leur communication. La loi sur la procédure administrative [^26-1] est applicable.
+<sup>1</sup> Les décisions communales en application de ce règlement peuvent faire l'objet d'une réclamation dans les 30 jours dès leur notification. La loi sur la procédure administrative est applicable.
 
 <sup>2</sup> …
 
-[^chapterChapitreIV-1]: Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013; Abrogation Al. 2; entrée en vigueur au 01.01.2013 · Modif. 4 du 19.03.2025: Introduction Art. 3, Al. 2bis; entrée en vigueur au 19.03.2025; Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
-[^26-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^chapterChapitreIV-1]: Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013; Abrogation Al. 2; entrée en vigueur au 01.01.2013 · Modif. 4 du 19.03.2025: Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
 
 #### Art. 27
 
-**Décisions du service [^26-2]**
+**Décisions du service [^26-1]**
 
-<sup>1</sup> Les décisions du service peuvent faire l'objet d'un recours auprès du département dans les 30 jours dès leur communication. La loi sur la procédure administrative [^27-1] est applicable.
+<sup>1</sup> Les décisions du service peuvent faire l'objet d'une réclamation dans les 30 jours dès leur notification. La loi sur la procédure administrative est applicable.
 
-[^26-2]: Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 4 du 19.03.2025: Introduction Art. 3, Al. 2bis; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
-[^27-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^26-1]: Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 4 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025
 
 #### Art. 28
 
