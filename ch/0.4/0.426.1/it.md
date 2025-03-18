@@ -3,11 +3,11 @@ sr: "0.426.1"
 title: "Convenzione dell' 8 luglio 1986 sul CAB International (con Elenco)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/186"
 language: it
-version: 2020-06-30
+version: 2025-03-19
 adopted: 1986-07-08
 in_force: 2000-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/186/20200630/it/xml/fedlex-data-admin-ch-eli-cc-2003-186-20200630-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/186/20200630/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/186/20250319/it/xml/fedlex-data-admin-ch-eli-cc-2003-186-20250319-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/186/20250319/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 1059; FF **2000** 573
 
 Traduzione
 
-Concluso a Londra l’8 luglio 1986
+Concluso a Londra l’8 luglio 1986 Approvato dall’Assemblea federale il 23 giugno 2000[^t-1] Strumenti di ratificazione depositati dalla Svizzera il 25 ottobre 2000 Entrato in vigore per la Svizzera il 25 ottobre 2000
 
-Approvato dall’Assemblea federale il 23 giugno 2000[^t-1]
-
-Strumenti di ratificazione depositati dalla Svizzera il 25 ottobre 2000
-
-Entrato in vigore per la Svizzera il 25 ottobre 2000
-
-(Stato 30 giugno 2020)
+(Stato 19 marzo 2025)
 
 [^t-1]: [RU 2003 1058](https://fedlex.data.admin.ch/eli/oc/2003/185)
 
@@ -44,7 +38,7 @@ convengono quanto segue:
 
 Gli Uffici agricoli del Commonwealth sono, con il presente atto, ricostituiti sotto il nome di CAB INTERNATIONAL[^I-1] (qui appresso denominato l’Organizzazione).
 
-[^I-1]: Centro internazionale per l’agricoltura e le scienze biologiche
+[^I-1]: Centro internazionale per l’agricoltura e le scienze biologiche.
 
 #### Art. II
 
@@ -285,7 +279,7 @@ Malawi Territori dipendenti dal Regno Unito
 
 (Seguono le firme)
 
-Campo d’applicazione il 30 giugno 2020**[^t-2]**
+Campo d’applicazione il 19 marzo 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -295,16 +289,15 @@ Campo d’applicazione il 30 giugno 2020**[^t-2]**
 <tr><td>Bangladesh</td><td>13 maggio</td><td>1987</td><td>4 settembre</td><td>1987</td></tr>
 <tr><td>Barbados</td><td>28 gennaio</td><td>2013 A</td><td>28 gennaio</td><td>2013</td></tr>
 <tr><td>Botswana</td><td>28 gennaio</td><td>1987</td><td>4 settembre</td><td>1987</td></tr>
-<tr><td>Brunei</td><td>17 novembre</td><td>1993</td><td>17 novembre</td><td>1993</td></tr>
 <tr><td>Burundi</td><td>28 febbraio</td><td>2001 A</td><td>28 febbraio</td><td>2001</td></tr>
 <tr><td>Canada</td><td>29 luglio</td><td>1991</td><td>29 luglio</td><td>1991</td></tr>
 <tr><td>Cile</td><td>5 ottobre</td><td>1995 A</td><td>5 ottobre</td><td>1995</td></tr>
 <tr><td>Cina</td><td>21 agosto</td><td>1995 A</td><td>21 agosto</td><td>1995</td></tr>
 <tr><td>Hong Kong</td><td>14 maggio</td><td>1987</td><td>4 settembre</td><td>1987</td></tr>
-<tr><td>Cipro</td><td>17 luglio</td><td>1987</td><td>4 settembre</td><td>1987</td></tr>
 <tr><td>Colombia</td><td>9 marzo</td><td>1995 A</td><td>9 marzo</td><td>1995</td></tr>
 <tr><td>Corea del Nord</td><td>13 maggio</td><td>2010 A</td><td>13 maggio</td><td>2010</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 febbraio</td><td>2004 A</td><td>23 febbraio</td><td>2004</td></tr>
+<tr><td>Etiopia</td><td>10 agosto</td><td>2020 A</td><td>10 agosto</td><td>2020</td></tr>
 <tr><td>Filippine</td><td>16 novembre</td><td>1993 A</td><td>16 novembre</td><td>1993</td></tr>
 <tr><td>Giamaica</td><td>4 maggio</td><td>1988</td><td>4 maggio</td><td>1988</td></tr>
 <tr><td>Grenada</td><td>9 settembre</td><td>2010 A</td><td>9 settembre</td><td>2010</td></tr>
@@ -315,7 +308,7 @@ Campo d’applicazione il 30 giugno 2020**[^t-2]**
 <tr><td>Malaysia</td><td>11 marzo</td><td>1987</td><td>4 settembre</td><td>1987</td></tr>
 <tr><td>Marocco</td><td>10 gennaio</td><td>2005 A</td><td>10 gennaio</td><td>2005</td></tr>
 <tr><td>Maurizio</td><td>8 gennaio</td><td>1988</td><td>8 gennaio</td><td>1988</td></tr>
-<tr><td>Myanmar</td><td>28 giugno</td><td>1993 A</td><td>28 giugno</td><td>1996</td></tr>
+<tr><td>Myanmar</td><td>28 giugno</td><td>1993 A</td><td>28 giugno</td><td>1993</td></tr>
 <tr><td>Oman</td><td>2 ottobre</td><td>2000 A</td><td>2 ottobre</td><td>2000</td></tr>
 <tr><td>Pakistan</td><td>6 maggio</td><td>1992 A</td><td>6 maggio</td><td>1992</td></tr>
 <tr><td>Regno Unito</td><td>14 maggio</td><td>1987</td><td>4 settembre</td><td>1987</td></tr>
@@ -337,4 +330,4 @@ Campo d’applicazione il 30 giugno 2020**[^t-2]**
 <tr><td>Zimbabwe</td><td>27 novembre</td><td>1987</td><td>27 novembre</td><td>1987</td></tr>
 </table>
 
-[^t-2]: [RU 2003 1059](https://fedlex.data.admin.ch/eli/oc/2003/186), [2007 1393](https://fedlex.data.admin.ch/eli/oc/2007/240), [2013 825](https://fedlex.data.admin.ch/eli/oc/2013/172), [2020 3335](https://fedlex.data.admin.ch/eli/oc/2020/566). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 1059](https://fedlex.data.admin.ch/eli/oc/2003/186); [2007 1393](https://fedlex.data.admin.ch/eli/oc/2007/240); [2013 825](https://fedlex.data.admin.ch/eli/oc/2013/172); [2020 3335](https://fedlex.data.admin.ch/eli/oc/2020/566); [2025 189](https://fedlex.data.admin.ch/eli/oc/2025/189). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

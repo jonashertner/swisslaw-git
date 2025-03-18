@@ -3,11 +3,11 @@ sr: "0.426.1"
 title: Convention du 8 juillet 1986 sur CAB International (avec liste)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/186"
 language: fr
-version: 2020-06-30
+version: 2025-03-19
 adopted: 1986-07-08
 in_force: 2000-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/186/20200630/fr/xml/fedlex-data-admin-ch-eli-cc-2003-186-20200630-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/186/20200630/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/186/20250319/fr/xml/fedlex-data-admin-ch-eli-cc-2003-186-20250319-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/186/20250319/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2003** 1059; FF **2000** 607
 
 Traduction
 
-Conclue à Londres le 8 juillet 1986
+Conclue à Londres le 8 juillet 1986 Approuvée par l’Assemblée fédérale le 23 juin 2000[^t-1] Instrument de ratification déposé par la Suisse le 25 octobre 2000 Entrée en vigueur pour la Suisse le 25 octobre 2000
 
-Approuvée par l’Assemblée fédérale le 23 juin 2000[^t-1]
-
-Instrument de ratification déposé par la Suisse le 25 octobre 2000
-
-Entrée en vigueur pour la Suisse le 25 octobre 2000
-
-(Etat le 30 juin 2020)
+(État le 19 mars 2025)
 
 [^t-1]: [RO 2003 1058](https://fedlex.data.admin.ch/eli/oc/2003/185)
 
@@ -310,7 +304,7 @@ Territoires dépendants du Royaume-Uni
 
 (Suivent les signatures)
 
-Champ d’application le 30 juin 2020**[^t-2]**
+Champ d’application le 19 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -321,18 +315,18 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Bangladesh</td><td>13 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
 <tr><td>Barbade</td><td>28 janvier</td><td>2013 A</td><td>28 janvier</td><td>2013</td></tr>
 <tr><td>Botswana</td><td>28 janvier</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>Brunéi</td><td>17 novembre</td><td>1993</td><td>17 novembre</td><td>1993</td></tr>
 <tr><td>Burundi</td><td>28 février</td><td>2001 A</td><td>28 février</td><td>2001</td></tr>
 <tr><td>Canada</td><td>29 juillet</td><td>1991</td><td>29 juillet</td><td>1991</td></tr>
 <tr><td>Chili</td><td>5 octobre</td><td>1995 A</td><td>5 octobre</td><td>1995</td></tr>
 <tr><td>Chine</td><td>21 août</td><td>1995 A</td><td>21 août</td><td>1995</td></tr>
-<tr><td>[tab] Hong Kong</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>Chypre</td><td>17 juillet</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Hong Kong</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
 <tr><td>Colombie</td><td>9 mars</td><td>1995 A</td><td>9 mars</td><td>1995</td></tr>
 <tr><td>Corée (Nord)</td><td>13 mai</td><td>2010 A</td><td>13 mai</td><td>2010</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 février</td><td>2004 A</td><td>23 février</td><td>2004</td></tr>
+<tr><td>Éthiopie</td><td>10 août</td><td>2020 A</td><td>10 août</td><td>2020</td></tr>
 <tr><td>Grenade</td><td>9 septembre</td><td>2010 A</td><td>9 septembre</td><td>2010</td></tr>
 <tr><td>Guyana</td><td>18 décembre</td><td>1986</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Îles Salomon</td><td>10 novembre</td><td>1987</td><td>10 novembre</td><td>1987</td></tr>
 <tr><td>Inde</td><td>22 juillet</td><td>1988</td><td>22 juillet</td><td>1988</td></tr>
 <tr><td>Jamaïque</td><td>4 mai</td><td>1988</td><td>4 mai</td><td>1988</td></tr>
 <tr><td>Kenya</td><td>13 novembre</td><td>1987</td><td>13 novembre</td><td>1987</td></tr>
@@ -340,20 +334,19 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Malawi</td><td>6 mars</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
 <tr><td>Maroc</td><td>10 janvier</td><td>2005 A</td><td>10 janvier</td><td>2005</td></tr>
 <tr><td>Maurice</td><td>8 janvier</td><td>1988</td><td>8 janvier</td><td>1988</td></tr>
-<tr><td>Myanmar</td><td>28 juin</td><td>1993 A</td><td>28 juin</td><td>1996</td></tr>
+<tr><td>Myanmar</td><td>28 juin</td><td>1993 A</td><td>28 juin</td><td>1993</td></tr>
 <tr><td>Oman</td><td>2 octobre</td><td>2000 A</td><td>2 octobre</td><td>2000</td></tr>
 <tr><td>Pakistan</td><td>6 mai</td><td>1992 A</td><td>6 mai</td><td>1992</td></tr>
 <tr><td>Philippines</td><td>16 novembre</td><td>1993 A</td><td>16 novembre</td><td>1993</td></tr>
 <tr><td>Royaume-Uni</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>[tab] Anguilla</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>[tab] Bermudes</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>[tab] Îles Cayman</td><td>1<sup>er</sup> juin</td><td>1988</td><td>1<sup>er</sup> juin</td><td>1988</td></tr>
-<tr><td>[tab] Îles Falkland</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>[tab] Îles Vierges britanniques</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>[tab] Montserrat</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
-<tr><td>[tab] Sainte-Hélène</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Anguilla</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Bermudes</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Îles Cayman</td><td>1<sup>er</sup> juin</td><td>1988</td><td>1<sup>er</sup> juin</td><td>1988</td></tr>
+<tr><td>Îles Falkland</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Montserrat</td><td>14 mai</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
+<tr><td>Sainte-Hélène</td><td>3 août</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
 <tr><td>Rwanda</td><td>4 juillet</td><td>2013 A</td><td>4 juillet</td><td>2013</td></tr>
-<tr><td>Salomon, Îles</td><td>10 novembre</td><td>1987</td><td>10 novembre</td><td>1987</td></tr>
 <tr><td>Sri Lanka</td><td>27 février</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
 <tr><td>Suisse</td><td>25 octobre</td><td>2000 A</td><td>25 octobre</td><td>2000</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>23 juin</td><td>1987</td><td>4 septembre</td><td>1987</td></tr>
@@ -362,4 +355,4 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Zimbabwe</td><td>27 novembre</td><td>1987</td><td>27 novembre</td><td>1987</td></tr>
 </table>
 
-[^t-2]: La présente publication complète celles qui figurent au [RO 2003 1059](https://fedlex.data.admin.ch/eli/oc/2003/186), [2007 1393](https://fedlex.data.admin.ch/eli/oc/2007/240), [2013 825](https://fedlex.data.admin.ch/eli/oc/2013/172), [2020 3335](https://fedlex.data.admin.ch/eli/oc/2020/566). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 1059](https://fedlex.data.admin.ch/eli/oc/2003/186); [2007 1393](https://fedlex.data.admin.ch/eli/oc/2007/240); [2013 825](https://fedlex.data.admin.ch/eli/oc/2013/172); [2020 3335](https://fedlex.data.admin.ch/eli/oc/2020/566); [2025 189](https://fedlex.data.admin.ch/eli/oc/2025/189). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

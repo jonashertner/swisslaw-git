@@ -3,11 +3,11 @@ sr: "0.426.1"
 title: Übereinkommen vom 8. Juli 1986 zum CAB International (mit Liste)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/186"
 language: de
-version: 2020-06-30
+version: 2025-03-19
 adopted: 1986-07-08
 in_force: 2000-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/186/20200630/de/xml/fedlex-data-admin-ch-eli-cc-2003-186-20200630-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/186/20200630/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/186/20250319/de/xml/fedlex-data-admin-ch-eli-cc-2003-186-20250319-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/186/20250319/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 25. Oktober 2000
 
 In Kraft getreten für die Schweiz am 25. Oktober 2000
 
-(Stand am 30. Juni 2020)
+(Stand am 19. März 2025)
 
 [^t-1]: [AS 2003 1058](https://fedlex.data.admin.ch/eli/oc/2003/185)
 
@@ -310,17 +310,17 @@ Die von Grossbritannien abhängigen Territorien
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 30. Juni 2020**[^t-2]**
+Geltungsbereich am 19. März 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>14. Juni</td><td>2018 B</td><td>14. Juni</td><td>2018</td></tr>
+<tr><td>Äthiopien</td><td>10. August</td><td>2020 B</td><td>10. August</td><td>2020</td></tr>
 <tr><td>Australien</td><td>31. Juli</td><td>1986</td><td>4. September</td><td>1987</td></tr>
 <tr><td>Bahamas</td><td>18. Mai</td><td>1989</td><td>18. Mai</td><td>1989</td></tr>
 <tr><td>Bangladesch</td><td>13. Mai</td><td>1987</td><td>4. September</td><td>1987</td></tr>
 <tr><td>Barbados</td><td>28. Januar</td><td>2013 B</td><td>28. Januar</td><td>2013</td></tr>
 <tr><td>Botsuana</td><td>28. Januar</td><td>1987</td><td>4. September</td><td>1987</td></tr>
-<tr><td>Brunei</td><td>17. November</td><td>1993</td><td>17. November</td><td>1993</td></tr>
 <tr><td>Burundi</td><td>28. Februar</td><td>2001 B</td><td>28. Februar</td><td>2001</td></tr>
 <tr><td>Chile</td><td>5. Oktober</td><td>1995 B</td><td>5. Oktober</td><td>1995</td></tr>
 <tr><td>China</td><td>21. August</td><td>1995 B</td><td>21. August</td><td>1995</td></tr>
@@ -338,7 +338,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Malaysia</td><td>11. März</td><td>1987</td><td>4. September</td><td>1987</td></tr>
 <tr><td>Marokko</td><td>10. Januar</td><td>2005 B</td><td>10. Januar</td><td>2005</td></tr>
 <tr><td>Mauritius</td><td>8. Januar</td><td>1988</td><td>8. Januar</td><td>1988</td></tr>
-<tr><td>Myanmar</td><td>28. Juni</td><td>1993 B</td><td>28. Juni</td><td>1996</td></tr>
+<tr><td>Myanmar</td><td>28. Juni</td><td>1993 B</td><td>28. Juni</td><td>1993</td></tr>
 <tr><td>Oman</td><td>2. Oktober</td><td>2000 B</td><td>2. Oktober</td><td>2000</td></tr>
 <tr><td>Pakistan</td><td>6. Mai</td><td>1992 B</td><td>6. Mai</td><td>1992</td></tr>
 <tr><td>Philippinen</td><td>16. November</td><td>1993 B</td><td>16. November</td><td>1993</td></tr>
@@ -359,7 +359,6 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Montserrat</td><td>14. Mai</td><td>1987</td><td>4. September</td><td>1987</td></tr>
 <tr><td>St. Helena</td><td>3. August</td><td>1987</td><td>4. September</td><td>1987</td></tr>
 <tr><td>Vietnam</td><td>26. August</td><td>1992 B</td><td>26. August</td><td>1992</td></tr>
-<tr><td>Zypern</td><td>17. Juli</td><td>1987</td><td>4. September</td><td>1987</td></tr>
 </table>
 
-[^t-2]: [AS 2003 1059](https://fedlex.data.admin.ch/eli/oc/2003/186), [2007 1393](https://fedlex.data.admin.ch/eli/oc/2007/240), [2013 825](https://fedlex.data.admin.ch/eli/oc/2013/172), [2020 3335](https://fedlex.data.admin.ch/eli/oc/2020/566). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 1059](https://fedlex.data.admin.ch/eli/oc/2003/186); [2007 1393](https://fedlex.data.admin.ch/eli/oc/2007/240); [2013 825](https://fedlex.data.admin.ch/eli/oc/2013/172); [2020 3335](https://fedlex.data.admin.ch/eli/oc/2020/566); [2025 189](https://fedlex.data.admin.ch/eli/oc/2025/189). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
