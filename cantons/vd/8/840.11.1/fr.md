@@ -4,7 +4,7 @@ number: "840.11.1"
 title: "RÈGLEMENT du 17.01.2007 d'application de la loi sur le logement du 9 septembre 1975 (RLL)"
 short: RLL
 language: fr
-version: 2022-05-04
+version: 2025-03-19
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.1?id=dd44a717-9a4e-425e-886c-ee3366b7f915"
 ---
 
@@ -32,10 +32,9 @@ arrête
 
 **But [^titleTitreI-1]**
 
-<sup>1</sup> Le présent règlement régit les modalités d'exécution de l'aide à la pierre prévue à l'article 28 de la loi sur le logement (ci-après : la loi) [^1-1] .
+<sup>1</sup> Le présent règlement régit les modalités d'exécution de la loi sur le logement (ci-après : la loi).
 
-[^titleTitreI-1]: Modif. 7 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025; Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
-[^1-1]: Loi du 09.09.1975 sur le logement ([BLV 840.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11?id=1b9db09a-aa55-43a2-beba-dd12b7271035))
+[^titleTitreI-1]: Modif. 7 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025
 
 #### Art. 2
 
@@ -239,7 +238,7 @@ arrête
 <sup>2</sup> Le revenu locatif initial des immeubles de l'alinéa 1 est fixé par le service et ne peut être supérieur aux éléments ci-après :
 
 - a. l'intérêt servi aux fonds propres fixé par le service en fonction de son appréciation du marché ; il ne peut toutefois pas excéder le taux hypothécaire de référence, en vigueur au moment de la décision, majoré de 2 % lorsque ledit taux est égal ou inférieur à 2 % et de 1% lorsque ce taux est supérieur à 2 % ;
-- b. l'intérêt du capital emprunté calculé sur la base du taux hypothécaire de référence en vigueur au moment de la décision ;
+- b. le taux d'intérêt applicable aux emprunts au moment de la décision ;
 - c. un amortissement d'au moins 1% sur le capital emprunté, sauf décision contraire de l'autorité compétente lorsque le créancier hypothécaire suspend son exigence d'amortissement ;
 - d. un forfait de 1,7 % du coût déterminant fixé par le service au moment de la décision d'octroi des aides représentant les charges courantes et d'entretien ;
 - e. le montant initial de la rente du droit de superficie, fixé selon les termes de l'acte constitutif.
@@ -248,7 +247,7 @@ arrête
 
 <sup>4</sup> Le revenu locatif calculé selon l'alinéa 2 ne comprend pas les frais de chauffage et d'eau chaude, ainsi que les taxes d'épuration et d'évacuation des déchets qui peuvent être facturés séparément par le bailleur.
 
-[^sectionSectionI-1]: Modif. 1 du 28.01.2009: Modification Al. 2 a-b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1,2 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 2; entrée en vigueur au 04.05.2022; Modification Al. 2, a,b,d; entrée en vigueur au 04.05.2022; Introduction Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Al. 3-4; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 2, b; entrée en vigueur au 19.03.2025; Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
+[^sectionSectionI-1]: Modif. 1 du 28.01.2009: Modification Al. 2 a-b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1,2 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 2; entrée en vigueur au 04.05.2022; Modification Al. 2, a,b,d; entrée en vigueur au 04.05.2022; Introduction Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Al. 3-4; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 2, b; entrée en vigueur au 19.03.2025
 
 #### Art. 20
 
@@ -257,21 +256,22 @@ arrête
 <sup>1</sup> Le revenu locatif est calculé en principe annuellement par le service en application de l'article 19 du règlement. Il peut varier en fonction des critères suivants :
 
 - a. indexation du coût déterminant de l'article 19, alinéa 2, lettre d à la variation de l'indice des prix à la consommation auquel est appliqué le taux de 1.7 % ;
-- b. la variation du taux hypothécaire de référence ;
+- b. la variation du rendement des fonds propres selon l'article 19 ;
 - c. l'exécution de travaux à plus-value autorisés par l'autorité compétente.
 - d. variation du montant de la rente du droit de superficie, que le propriétaire doit transmettre au service à la date requise.
+- e. la variation du taux d'intérêt applicable aux emprunts.
 
 <sup>2</sup> Les communes peuvent prévoir des mesures d'accompagnement consécutives à la fin des aides des pouvoirs publics pour les immeubles qui bénéficient d'une aide à la pierre linéaire. Ces mesures doivent être approuvées par le chef du département en charge du logement (ci-après : le département).
 
-[^19-1]: Modif. 1 du 28.01.2009: Modification Al. 1 b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Introduction Al. 1 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 1; entrée en vigueur au 04.05.2022; Modification Al. 1, a; entrée en vigueur au 04.05.2022; Introduction Al. 1, d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
+[^19-1]: Modif. 1 du 28.01.2009: Modification Al. 1 b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Introduction Al. 1 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 1; entrée en vigueur au 04.05.2022; Modification Al. 1, a; entrée en vigueur au 04.05.2022; Introduction Al. 1, d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025
 
 #### Art. 20a
 
 **Fonds de régulation des loyers [^20-1]**
 
-<sup>1</sup> L'autorité compétente peut décider, pour tout immeuble ayant bénéficié de l'aide à la pierre linéaire, de la création d'un fonds de régulation des loyers avec pour objectif d'atténuer les effets des variations du taux hypothécaire de référence.
+<sup>1</sup> L'autorité compétente peut décider, pour tout immeuble ayant bénéficié de l'aide à la pierre linéaire, de la création d'un fonds de régulation des loyers avec pour objectif d'atténuer les effets des variations des taux hypothécaire de référence et d'intérêt des emprunts.
 
-<sup>2</sup> Elle fixe annuellement le montant à attribuer au fonds de régulation des loyers, après consultation de la commune du lieu de situation de l'immeuble. En principe, ce montant correspond à la différence entre le loyer encaissé et le nouveau loyer calculé par le service conformément à l'art. 19 du règlement.
+<sup>2</sup> Elle fixe annuellement le montant à attribuer au fonds de régulation des loyers, après consultation de la commune du lieu de situation de l'immeuble. En principe, ce montant correspond à la différence entre le loyer encaissé et le nouveau loyer calculé par le service conformément aux articles 19 et 20 du règlement.
 
 <sup>3</sup> Le montant maximum du fonds de régulation ne peut dépasser 30 % du revenu locatif de l'immeuble.
 
@@ -281,7 +281,7 @@ arrête
 
 <sup>6</sup> L'autorité compétente peut édicter des directives sur la gestion du fonds.
 
-[^20-1]: Modif. 2 du 29.04.2015: Introduction Art. 20a; entrée en vigueur au 01.07.2015 · Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 1-2; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
+[^20-1]: Modif. 2 du 29.04.2015: Introduction Art. 20a; entrée en vigueur au 01.07.2015 · Modif. 7 du 19.03.2025: Modification Al. 1-2; entrée en vigueur au 19.03.2025
 
 ### Section II Aide à la pierre dégressive
 
@@ -309,7 +309,7 @@ arrête
 
 **Fonds de régulation des loyers [^21-1]**
 
-<sup>1</sup> L'autorité compétente peut décider, pour tout immeuble ayant bénéficié des mesures financières dans le cadre de l'aide à la pierre dégressive, de la création d'un fonds de régulation des loyers avec pour objectif exclusif d'atténuer les hausses des loyers dues notamment à la diminution progressive des aides des pouvoirs publics et aux augmentations du taux hypothécaire.
+<sup>1</sup> L'autorité compétente peut décider, pour tout immeuble ayant bénéficié des mesures financières dans le cadre de l'aide à la pierre dégressive, de la création d'un fonds de régulation des loyers avec pour objectif exclusif d'atténuer les hausses des loyers dues notamment à la diminution progressive des aides des pouvoirs publics et aux augmentations des taux hypothécaire de référence et d'intérêt des emprunts.
 
 <sup>2</sup> Elle fixe annuellement le montant à attribuer au fonds de régulation des loyers, après consultation de la commune du lieu de situation de l'immeuble. En principe, ce montant correspond à la différence entre le loyer encaissé et le nouveau loyer calculé par le service conformément à l'article 23 du règlement.
 
@@ -321,7 +321,7 @@ arrête
 
 <sup>6</sup> L'autorité compétente peut édicter des directives sur la gestion du fonds.
 
-[^21-1]: Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
+[^21-1]: Modif. 7 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025
 
 #### Art. 23
 
@@ -330,13 +330,14 @@ arrête
 <sup>1</sup> Le revenu locatif est calculé en principe annuellement par le service en application de l'article 21 du règlement. Il peut varier en fonction des critères suivants :
 
 - a. l'indexation du coût déterminant de l'article 19, alinéa 2, lettre d à la variation de l'indice des prix à la consommation auquel est appliqué le taux de 1.7 % ;
-- b. la variation du taux hypothécaire de référence ;
+- b. la variation du rendement des fonds propres selon l'article 21 ;
 - c. l'exécution de travaux à plus-value autorisés par l'autorité compétente ;
 - d. la variation du montant de la rente du droit de superficie que le propriétaire doit transmettre au service à la date requise.
+- e. la variation du taux d'intérêt applicable aux emprunts.
 
 <sup>2</sup> La décision du service en matière d'application de la dégressivité des aides financières des pouvoirs publics est réservée.
 
-[^22-1]: Modif. 1 du 28.01.2009: Modification Al. 1; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 1; entrée en vigueur au 04.05.2022; Introduction Al. 1, a-d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025
+[^22-1]: Modif. 1 du 28.01.2009: Modification Al. 1; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 1; entrée en vigueur au 04.05.2022; Introduction Al. 1, a-d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025
 
 ### Section III Variation des loyers
 
@@ -354,9 +355,9 @@ arrête
 
 <sup>1</sup> Le bailleur notifie aux locataires concernés la hausse ou la baisse de loyer découlant de la décision sur la variation des loyers prévue à l'article 24 du règlement en observant un délai de 30 jours pour la fin d'un mois, quelle que soit l'échéance du bail en cours.
 
-<sup>2</sup> La notification doit mentionner la date de la décision, le motif de la hausse ou de la baisse de loyer, ainsi que le délai et l'autorité de recours.
+<sup>2</sup> La notification doit mentionner la date de la décision, le motif de la hausse ou de la baisse de loyer, ainsi que le délai et l'autorité compétente pour recevoir la réclamation.
 
-[^24-1]: Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 2; entrée en vigueur au 19.03.2025
+[^24-1]: Modif. 7 du 19.03.2025: Modification Al. 2; entrée en vigueur au 19.03.2025
 
 ### Chapitre IV Gestion des immeubles qui bénéficient de l'aide à la pierre
 
@@ -426,28 +427,27 @@ arrête
 
 [^32-1]: Modif. 7 du 19.03.2025: Modification ; entrée en vigueur au 19.03.2025
 
-### Chapitre VI Recours
+### Chapitre VI Réclamation
 
 [^32-1]
 
 #### Art. 33
 
-**Décisions des offices communaux du logement [^chapterChapitreVI-1]**
+**Décisions communales [^chapterChapitreVI-1]**
 
-<sup>1</sup> Les décisions des offices communaux du logement peuvent faire l'objet d'un recours par écrit à l'autorité dont ceux-ci dépendent dans les 30 jours dès leur communication.
+<sup>1</sup> Les décisions des offices communaux du logement peuvent faire l'objet d'une réclamation dans les 30 jours dès leur notification. La loi sur la procédure administrative est applicable.
 
-<sup>2</sup> La loi sur la juridiction et la procédure administratives[^33-1] est applicable par analogie.
+<sup>2</sup> ...
 
-[^chapterChapitreVI-1]: Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025; Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025; Abrogation Al. 2; entrée en vigueur au 19.03.2025
-[^33-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^chapterChapitreVI-1]: Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 7 du 19.03.2025: Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025; Abrogation Al. 2; entrée en vigueur au 19.03.2025
 
 #### Art. 34
 
-**Décisions du service [^33-2]**
+**Décisions du service [^33-1]**
 
-<sup>1</sup> Les décisions du service peuvent faire l'objet d'un recours par écrit auprès du département dans les 30 jours dès leur communication.
+<sup>1</sup> Les décisions du service peuvent faire l'objet d'une réclamation dans les 30 jours dès leur notification. La loi sur la procédure administrative est applicable.
 
-[^33-2]: Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
+[^33-1]: Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 7 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025
 
 ## Titre III Dispositions finales
 
