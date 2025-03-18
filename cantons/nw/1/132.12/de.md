@@ -1,48 +1,51 @@
 ---
 canton: NW
 number: "132.12"
-title: Regierungsratsbeschluss über die Zahl der in jeder politischen Gemeinde zu wählenden Mitglieder des Landrates
+title: Regierungsratsbeschluss über die Festlegung der Zahl der in jeder politischen Gemeinde zu wählenden Mitglieder des Landrates für die Amtsdauer 2026-2030
 language: de
-version: 2021-02-23
-corrected: 2021-10-12
-version_adopted: 2021-02-23
+version: 2025-03-19
+version_adopted: 2025-03-18
 adopted: 2025-03-18
 in_force: 2025-03-19
 url: "https://gesetze.nw.ch/app/de/texts_of_law/132.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/18/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1368/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss über die Zahl der in jeder politischen Gemeinde zu wählenden Mitglieder des Landrates
+# Regierungsratsbeschluss über die Festlegung der Zahl der in jeder politischen Gemeinde zu wählenden Mitglieder des Landrates für die Amtsdauer 2026-2030
 
-vom 23. Februar 2021[^t-1]
+vom 18.03.2025 (Stand 19.03.2025)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 58 der Kantonsverfassung und Art. 53 - 56 des Wahl- und Abstimmungsgesetzes vom 22. März 1997 (WAG)[^t-2],
+gestützt auf Art. 58 der Kantonsverfassung und Art. 53–56 des Wahl- und Abstimmungsgesetzes vom 22. März 1997 (WAG)[^ingress-1]
 
 beschliesst:
 
-1.
+[^ingress-1]: NG 132.2
 
-<sup>1</sup> Aufgrund der kantonalen Einwohnerstatistik vom 31. Dezember 2020[^t-3] haben in den Landrat des Kantons Nidwalden zu wählen:
+#### Ziff. 1
 
-Politische Gemeinde Einwohnerinnen und Landratsmitglieder Einwohner
+<sup>1</sup> Aufgrund der kantonalen Einwohnerstatistik vom 31. Dezember 2024[^Ziff1-1] haben in den Landrat des Kantons Nidwalden für die Amtsdauer 2026-2030 zu wählen:
 
-**5 7 3 2 7 3 8 4 11 7 3**
+<table>
+<tr><th>Politische Gemeinde</th><th>Einwohnerinnen und Einwohner</th><th>Landratsmitglieder</th></tr>
+<tr><td>Beckenried</td><td>3'687</td><td>5</td></tr>
+<tr><td>Buochs</td><td>5'464</td><td>7</td></tr>
+<tr><td>Dallenwil</td><td>1'867</td><td>3</td></tr>
+<tr><td>Emmetten</td><td>1'650</td><td>2</td></tr>
+<tr><td>Ennetbürgen</td><td>5'265</td><td>7</td></tr>
+<tr><td>Ennetmoos</td><td>2'317</td><td>3</td></tr>
+<tr><td>Hergiswil</td><td>6'233</td><td>8</td></tr>
+<tr><td>Oberdorf</td><td>3'059</td><td>4</td></tr>
+<tr><td>Stans</td><td>8'330</td><td>11</td></tr>
+<tr><td>Stansstad</td><td>4'904</td><td>7</td></tr>
+<tr><td>Wolfenschiessen</td><td>2'115</td><td>3</td></tr>
+</table>
 
-Beckenried 3’733 Buochs 5’314 Dallenwil 1’846 Emmetten 1’552 Ennetbürgen 4’811 Ennetmoos 2’236 Hergiswil 5’836 Oberdorf 3’084 Stans 8’083 Stansstad 4’696 Wolfenschiessen 2’117
+<sup>2</sup> Diese Mandatsverteilung findet bei der Gesamterneuerungswahl des Landrates im Jahre 2026 Anwendung.
 
-<sup>2</sup> Diese Mandatsverteilung findet bei der Gesamterneuerungswahl des Landrates im Jahre 2022 Anwendung.
+[^Ziff1-1]: A 2025, Nr. 7 vom 18. Februar 2025
 
-**1**
-
-Stand: 4. März 2021 2.
-
-Dieser Beschluss kann gemäss Art. 78 Abs. 2 und Art. 78a WAG binnen 3 Tagen nach erfolgter Veröffentlichung beim Verfassungsgericht angefochten werden.
-
-[^t-1]: A 2021, 392
-[^t-2]: NG 132.2
-[^t-3]: A 2021, 230
+2025-021
