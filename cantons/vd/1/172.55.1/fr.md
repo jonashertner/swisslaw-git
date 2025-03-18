@@ -4,7 +4,7 @@ number: "172.55.1"
 title: RÈGLEMENT du 08.01.2001 fixant les émoluments en matière administrative (RE-Adm)
 short: RE-Adm
 language: fr
-version: 2022-08-01
+version: 2025-03-19
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.55.1?id=0b2eb4a9-80fc-432f-a4b0-a71e30313111"
 ---
 
@@ -195,7 +195,7 @@ arrête
 
 **[^chapterChapitreIII-1]**
 
-<sup>1</sup> Le Département des institutions et de la sécurité perçoit les émoluments suivants :
+<sup>1</sup> Le département en charge des institutions, du territoire et du sport perçoit les émoluments suivants :
 
 - a. Décisions du Conseil d'Etat
 - 1\. Autorisation d'acquérir des immeubles ou des droits réels immobiliers accordés à des personnes morales étrangères au canton ou à des fondations ayant leur siège hors du canton : Fr. 65.- à Fr. 1500.-
@@ -259,9 +259,12 @@ arrête
 - m. Travaux administratifs (selon le temps requis) ; Fr. 100.- à Fr. 350.-/H
 - n. Autres mesures relevant du droit de la surveillance (selon le temps requis) : Fr. 100.- à Fr. 350.-/H
 - o. Frais liés à des demandes de renseignements, de liste de fondations ou de copies de pièces : Fr. 50.- à Fr. 500.-
-- 36\. Formules officielles agréées en matière de droit du bail à loyer : Fr. 200.-
+- 36\. Examens et décisions administratives relatives aux formules officielles en matière de droit du bail à loyer :
+- a. modification d'une formule officielle déjà agréée et avis de principe de l'autorité cantonale : Fr. 50.- à Fr. 200.-
+- b. examen préalable d'un projet de formule : Fr. 160.-/heure, mais au minimum Fr.100.- et au maximum à Fr. 500.-
+- c. agrément d'une formule officielle : Fr. 400.-
 - 37\. Examen préalable des dossiers comprenant des logements destinés à la reconnaissance d'utilité publique au sens de l'article 27 de la loi du 10 mai 2016 sur la préservation et la promotion du parc locatif (LPPPL)[^3-3] : Fr. 100.- à Fr. 500.-
-- 38\. Reconnaissance d'utilité publique des logements (art. 27 LPPPL) : Fr. 100.- à Fr. 500.-
+- 38\. Reconnaissance d'utilité publique des logements (art. 27 LPPPL), examen des demandes des propriétaires notamment à des fins d'exonérations fiscales et élaboration des préavis à l'attention des autorités fiscales : Fr. 160.-/heure, mais au minimum Fr.100.- et au maximum à Fr. 500.-.
 - 39\. Décisions administratives liées au volet "préservation" de la LPPPL
 - a. Autorisation de travaux, ou de changement d'affectation en procédure simplifiée ou d'aliénation d'appartement loués (art. 5 LPPPL) : Fr. 70.- à Fr. 1800.-
 - b. Dispense d'autorisation (procédure simplifiée art. 11 LPPPL) ou avis de principe de l'autorité cantonale : Fr. 50.- à Fr. 280.-
@@ -633,14 +636,14 @@ arrête
 - a. Autorisation d'expériences sur animaux vivants (durée maximum 3 ans) : Fr. 150.- à Fr. 500.-
 - b. Autorisation exceptionnelle (en cours d'autorisation selon lettre a) : Fr. 50.- à Fr. 100.-
 - 40\. Décision sur recours jugé téméraire au sens de l'article 103, alinéa 4, de la loi fédérale sur l'assurance-chômage du 25 juin 1982[^5-2] : Fr. 100.-
-- 41\. Requête fondée sur la loi concernant la démolition, la transformation et la rénovation de maisons d'habitation, ainsi que l'utilisation de logements à d'autres fins que l'habitation (LDTR), lorsque le Département de l'économie est seul à se prononcer
-- a. autorisation : Fr. 120.- à Fr. 1800.-
-- b. dispense d'autorisation : (art. 1, al. 2, du règlement d'application de la LDTR) : Fr. 25.- à Fr. 120.-
-- 42\. Autorisation fondée sur la loi concernant l'aliénation d'appartements loués (LAAL) : Fr. 40.- à Fr. 240.-
+- 41\. ...
+- a. ...
+- b. ...
+- 42\. ...
 
 <sup>2</sup> Pour toute demande relative à l'octroi d'autorisations visant à l'engagement de main-d'oeuvre étrangère un émolument allant jusqu'au double des montants maximaux indiqués aux chiffres 11 à 23b ci-dessus peut être prélevé lorsque le service compétent se heurte à des difficultés particulières.
 
-[^chapterChapitreV-1]: Modif. 4 du 10.09.2003: Modification Al. 1 ch.25,27-39; entrée en vigueur au 01.11.2003 · Modif. 14 du 28.09.2005: Modification Al. 1 ch.11-23,2; entrée en vigueur au 01.11.2005; Introduction Al. 1 ch.23a-23b; entrée en vigueur au 01.11.2005 · Modif. 21 du 05.07.2006: Modification Al. 1 ch.5-7,ch.9; entrée en vigueur au 01.07.2006; Abrogation Al. 1 ch.8; entrée en vigueur au 01.07.2006 · Modif. 33 du 29.10.2014: Modification Al. 1 ch.13-14; entrée en vigueur au 01.11.2014 · Modif. 41 du 18.05.2022: Modification Al. 1; entrée en vigueur au 01.08.2022; Modification Al. 1, 27; entrée en vigueur au 01.08.2022; Abrogation Al. 1, 31; entrée en vigueur au 01.08.2022; Modification Al. 1, 39; entrée en vigueur au 01.08.2022; Introduction Al. 1, 39, 1-4; entrée en vigueur au 01.08.2022 · Modif. 45 du 19.03.2025: Introduction Art. 3, Al. 1, b, 36, a-c; entrée en vigueur au 19.03.2025; Abrogation Al. 1, 41-42; entrée en vigueur au 19.03.2025
+[^chapterChapitreV-1]: Modif. 4 du 10.09.2003: Modification Al. 1 ch.25,27-39; entrée en vigueur au 01.11.2003 · Modif. 14 du 28.09.2005: Modification Al. 1 ch.11-23,2; entrée en vigueur au 01.11.2005; Introduction Al. 1 ch.23a-23b; entrée en vigueur au 01.11.2005 · Modif. 21 du 05.07.2006: Modification Al. 1 ch.5-7,ch.9; entrée en vigueur au 01.07.2006; Abrogation Al. 1 ch.8; entrée en vigueur au 01.07.2006 · Modif. 33 du 29.10.2014: Modification Al. 1 ch.13-14; entrée en vigueur au 01.11.2014 · Modif. 41 du 18.05.2022: Modification Al. 1; entrée en vigueur au 01.08.2022; Modification Al. 1, 27; entrée en vigueur au 01.08.2022; Abrogation Al. 1, 31; entrée en vigueur au 01.08.2022; Modification Al. 1, 39; entrée en vigueur au 01.08.2022; Introduction Al. 1, 39, 1-4; entrée en vigueur au 01.08.2022 · Modif. 45 du 19.03.2025: Abrogation Al. 1, 41-42; entrée en vigueur au 19.03.2025
 [^5-1]: Loi du 26.03.2002 sur les auberges et les débits de boissons ( [BLV 935.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31?id=2b5cc544-8cd7-4ab7-bd40-7177bdce3177))
 [^5-2]: Loi fédérale du 25.06.1982 sur l'assurance-chômage obligatoire et l'indemnité en cas d'insolvabilité (RS 837.0)
 
